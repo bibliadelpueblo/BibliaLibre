@@ -65,8 +65,9 @@ namespace BibleMarkdown
 							return res;
 						}); // chapters
 						src = Regex.Replace(src, @"\\v\s+([0-9]+)", "^$1^"); // verse numbers
+						src = Regex.Replace(src, @"\\(?<type>[fx])\s*[+-?]\s*(.*?)\\\k<type>\*((.*?(?=\\c))|(.*?\\p))", $"^*^$2^[$1]{Environment.NewLine}{Environment.NewLine}"); // footnotes
 						src = Regex.Replace(src, @"\\p *", string.Concat(Enumerable.Repeat(Environment.NewLine, 2))); // replace new paragraph with empty line
-						src = Regex.Replace(src, @"\|(\w+=""[^""]*""\s*)+", ""); // remove word attributes
+						src = Regex.Replace(src, @"\|([a-z-]+=""[^""]*""\s*)+", ""); // remove word attributes
 						src = Regex.Replace(src, @"\\\+?\w+(\*|\s*)?", ""); // remove usfm tags
 						src = Regex.Replace(src, @" +", " "); // remove multiple spaces
 
@@ -132,8 +133,8 @@ namespace BibleMarkdown
 		static void ProcessFile(string file)
 		{
 			var path = Path.GetDirectoryName(file);
-			var md = Path.Combine(path, "pandoc");
-			var tex = Path.Combine(path, "tex");
+			var md = Path.Combine(path, "out\\pandoc");
+			var tex = Path.Combine(path, "out\\tex");
 			if (!Directory.Exists(md)) Directory.CreateDirectory(md);
 			if (!Directory.Exists(tex)) Directory.CreateDirectory(tex);
 			var mdfile = Path.Combine(md, Path.GetFileName(file));
