@@ -1,0 +1,61 @@
+
+\usepackage{multicol}
+\usepackage[hyperfootnotes=false]{hyperref}
+\usepackage{pdfpages}
+\usepackage{fontspec}
+\usepackage{fancyhdr}
+\usepackage[compact, bottomtitles]{titlesec}
+\usepackage{alphalph}
+\usepackage[para, perpage]{footmisc}
+\usepackage{graphicx}
+\usepackage{svg}
+\usepackage{ragged2e}
+\usepackage[spanish]{babel}
+\usepackage{titletoc}
+\usepackage{ifthen}
+
+\setmainfont[UprightFont       = * ,
+             BoldFont          = * Bold ,
+             ItalicFont        = * Italic ,
+             Ligatures=TeX]{Day Roman}
+
+\pagestyle{fancy}
+\renewcommand{\sectionmark}[1]{\markright{\thesection~- ~#1}}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername~\thechapter~-~ #1}{}}
+\pagestyle{empty}
+
+\fancyhf{}
+
+\fancypagestyle{bible}{%
+    \fancyhead{} %Clean headers
+    \fancyhead[L]{\leftmark \ \thesection}
+    \fancyhead[R]{\thepage}
+    \fancyhead[RO]{\leftmark \ \thesection}
+    \fancyhead[LO]{\thepage}
+}
+
+\fancypagestyle{plain}{%
+  \fancyhead{}
+  \fancyhead[R, RO]{\thepage}
+}
+
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter. {\slshape{##1}}}{}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand*{\thefootnote}{\alph{footnote}}
+\titleformat{\chapter}[hang]{\normalfont\bfseries}{}{0pt}{\Huge}
+\titleformat{\section}[wrap]{\bfseries\huge}{}{0ex}{}[]
+\titleformat{\subsection}[hang]{\bfseries}{}{0ex}{}[]
+\newcommand{\bibverse}[1]{\textsuperscript{\bfseries{#1}}}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{#1}}{}}
+\setcounter{secnumdepth}{1}
+\setcounter{tocdepth}{0}
+\global\let\endtitlepage\relax
+\makeatletter
+
+\titlecontents{chapter}% <section-type>
+[0pt]% <left>
+{\bfseries}% <above-code>
+{\thecontentslabel \quad}%<numbered-entry-format>
+{}% <numberless-entry-format>
+{\mdseries\titlerule*[0.75em]{.}\bfseries\contentspage}
