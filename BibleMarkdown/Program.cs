@@ -99,7 +99,8 @@ namespace BibleMarkdown
 
 			text = Regex.Replace(text, @"\[\](.*?)(\^\[.*?\])", "$2$1", RegexOptions.Singleline); // footnotes with []
 			text = Regex.Replace(text, @"\^([0-9]+)\^", @"\bibverse{$1}", RegexOptions.Singleline); // verses
-			text = Regex.Replace(text, @"^%.*?$", "", RegexOptions.Multiline); // comments
+			text = Regex.Replace(text, @"(?<!^)%.*?%", "", RegexOptions.Singleline); // inline comments
+			text = Regex.Replace(text, @"^%.*?$", "", RegexOptions.Multiline); // whole line comments
 			text = Regex.Replace(text, @"^(# .*?)$\n^(## .*?)$", "$2\n$1", RegexOptions.Multiline); // titles
 
 			/*
