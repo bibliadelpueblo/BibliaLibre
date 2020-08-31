@@ -6,7 +6,8 @@ using System.IO;
 using System.Reflection;
 using System.Diagnostics;
 using System.Threading.Tasks;
-using System.Text.RegularExpressions; 
+using System.Text.RegularExpressions;
+using System.Diagnostics.Tracing;
 
 namespace BibleMarkdown
 {
@@ -118,7 +119,13 @@ namespace BibleMarkdown
 
 		static void CreateTeX(string mdfile, string texfile)
 		{
-			var pandoc = new ProcessStartInfo("pandoc.exe", $"-f markdown -t latex -o \"{texfile}\" \"{mdfile}\"");
+			var exe = Environment.GetEnvironmentVariable("PATH")
+				 .Split(';')
+				 .Select(s => Path.Combine(s, "pandoc.exe"))
+				 .Where(s => File.Exists(s))
+				 .FirstOrDefault();
+			
+			var pandoc = new ProcessStartInfo(exe, $"-f markdown -t latex -o \"{texfile}\" \"{mdfile}\"");
 			pandoc.CreateNoWindow = true;
 			pandoc.WindowStyle = ProcessWindowStyle.Hidden;
 			pandoc.RedirectStandardOutput = true;
@@ -158,12 +165,64 @@ namespace BibleMarkdown
 			}
 		}
 
+		static void CreateFrame(string path)
+		{
+			var sources = Directory.EnumerateFiles(path, "*.md")
+				.Where(file => Regex.IsMatch(Path.GetFileName(file), "^(0[1-9]|[1-5][0-9]|6[0-6])"));
+			var verses = new StringBuilder();
+
+			bool firstsrc = true;
+			foreach (var source in sources)
+			{
+				if (!firstsrc) verses.AppendLine();
+				firstsrc = false;
+				verses.AppendLine($"# {Path.GetFileName(source)}");
+
+				var txt = File.ReadAllText(source);
+
+				bool firstchapter = true;
+				var chapters = Regex.Matches(txt, @"(?<!#)#(?!#)(.*?)\r?\n(.*?)(?=(?<!#)#(?!#)|$)", RegexOptions.Singleline);
+				foreach (Match chapter in chapters)
+				{
+					if (!firstchapter) verses.AppendLine();
+					firstchapter = false;
+					verses.AppendLine($"## {chapter.Groups[1].Value.Trim()}");
+
+					var ms = Regex.Matches(chapter.Groups[2].Value, @"\^([0-9]+)\^|([.;?!])|(?<=\r?\n)(\r?\n)(?!\s*?(\^\[|#|$))|(?<=\r?\n|^)(##.*?)(?=\r?\n|$)", RegexOptions.Singleline);
+					string vers = "0";
+					int phrase = 0;
+					foreach (Match m in ms)
+					{
+						if (m.Groups[1].Success)
+						{
+							vers = m.Groups[1].Value;
+							phrase = 0;
+						} else if (m.Groups[2].Success)
+						{
+							phrase++;
+						} else if (m.Groups[3].Success)
+						{
+							verses.Append($@"{$"^{vers}.{phrase}^"} \ ");
+						} else if (m.Groups[5].Success)
+						{
+							verses.Append($@"{$"^{vers}.{phrase}^"}{Environment.NewLine}#{m.Groups[5].Value.Trim()}{Environment.NewLine}");
+						}
+					}
+				}
+			}
+
+			var frames= Path.Combine(path, @"out\frames.md");
+			File.WriteAllText(frames, verses.ToString());
+			Console.WriteLine($"Created {frames}");
+		}
+
 		static void ProcessPath(string path)
 		{
 			var srcpath = Path.Combine(path, "src");
 			ImportFromUSFM(path, srcpath);
 			var files = Directory.EnumerateFiles(path, "*.md");
 			foreach (var file in files) ProcessFile(file);
+			CreateFrame(path);
 		}
 		static void Main(string[] args)
 		{
@@ -171,7 +230,7 @@ namespace BibleMarkdown
 			// Get the version of the current application.
 			var asm = Assembly.GetExecutingAssembly();
 			var aname = asm.GetName();
-			Console.WriteLine($"{aname.Name}, v{aname.Version.Major}.{aname.Version.Minor}.{aname.Version.Build}");
+			Console.WriteLine($"{aname.Name}, v{aname.Version.Major}.{aname.Version.Minor}.{aname.Version.Build}.{aname.Version.Revision}");
 
 			var exe = new Uri(System.Reflection.Assembly.GetExecutingAssembly().CodeBase).LocalPath;
 			bibmarktime = File.GetLastWriteTimeUtc(exe);
