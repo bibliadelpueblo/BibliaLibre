@@ -231,7 +231,7 @@ namespace BibleMarkdown
 
 				var frame = File.ReadAllText(frmfile);
 
-				if (mdtimes.Any(time => time < frmtime))
+				if (Force || mdtimes.Any(time => time < frmtime))
 				{
 
 					foreach (string srcfile in mdfiles)
@@ -291,6 +291,7 @@ namespace BibleMarkdown
 				}
 			}
 		}
+
 		static void ProcessPath(string path)
 		{
 			var srcpath = Path.Combine(path, "src");
