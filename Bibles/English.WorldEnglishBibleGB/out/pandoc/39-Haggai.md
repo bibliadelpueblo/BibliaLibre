@@ -2,15 +2,12 @@
 \bibverse{1} In the second year of Darius the king, in the sixth month, in the first day of the month, the LORD’s^[1:1 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name.] word came by Haggai the prophet, to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying, \bibverse{2} “This is what the LORD of Armies says: These people say, ‘The time hasn’t yet come, the time for the LORD’s house to be built.’” 
 
 
-
 \bibverse{3} Then the LORD’s word came by Haggai the prophet, saying, \bibverse{4} “Is it a time for you yourselves to dwell in your panelled houses, while this house lies waste? \bibverse{5} Now therefore this is what the LORD of Armies says: ‘Consider your ways. \bibverse{6} You have sown much, and bring in little. You eat, but you don’t have enough. You drink, but you aren’t filled with drink. You clothe yourselves, but no one is warm; and he who earns wages earns wages to put them into a bag with holes in it.’ 
 
 \bibverse{7} “This is what the LORD of Armies says: ‘Consider your ways. \bibverse{8} Go up to the mountain, bring wood, and build the house. I will take pleasure in it, and I will be glorified,” says the LORD. \bibverse{9} “You looked for much, and, behold,^[1:9 “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] it came to little; and when you brought it home, I blew it away. Why?” says the LORD of Armies, “Because of my house that lies waste, while each of you is busy with his own house. \bibverse{10} Therefore for your sake the heavens withhold the dew, and the earth withholds its fruit. \bibverse{11} I called for a drought on the land, on the mountains, on the grain, on the new wine, on the oil, on that which the ground produces, on men, on livestock, and on all the labour of the hands.” 
 
 
-
 \bibverse{12} Then Zerubbabel the son of Shealtiel and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the LORD their God’s^[1:12 The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).] voice, and the words of Haggai the prophet, as the LORD their God, had sent him; and the people feared the LORD. 
-
 
 
 \bibverse{13} Then Haggai, the LORD’s messenger, spoke the LORD’s message to the people, saying, “I am with you,” says the LORD. 

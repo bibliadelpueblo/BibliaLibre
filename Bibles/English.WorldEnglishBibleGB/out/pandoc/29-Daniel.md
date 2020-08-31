@@ -2,9 +2,7 @@
 \bibverse{1} In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. \bibverse{2} The Lord^[1:2 The word translated “Lord” is “Adonai.”] gave Jehoiakim king of Judah into his hand, with some of the vessels of the house of God;+ 1:2 The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim). and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god. 
 
 
-
 \bibverse{3} The king spoke to Ashpenaz, the master of his eunuchs, that he should bring in some of the children of Israel, even of the royal offspring^[1:3 or, seed] and of the nobles: \bibverse{4} youths in whom was no defect, but well-favoured, skilful in all wisdom, endowed with knowledge, understanding science, and who had the ability to stand in the king’s palace; and that he should teach them the learning and the language of the Chaldeans. \bibverse{5} The king appointed for them a daily portion of the king’s delicacies and of the wine which he drank, and that they should be nourished three years, that at its end they should stand before the king. 
-
 
 
 \bibverse{6} Now amongst these of the children of Judah were Daniel, Hananiah, Mishael, and Azariah. \bibverse{7} The prince of the eunuchs gave names to them: to Daniel he gave the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego. 
@@ -53,7 +51,6 @@
 \bibverse{31} “You, O king, saw, and behold,^[2:31 “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] a great image. This image, which was mighty, and whose brightness was excellent, stood before you; and its appearance was terrifying. \bibverse{32} As for this image, its head was of fine gold, its breast and its arms of silver, its belly and its thighs of bronze, \bibverse{33} its legs of iron, its feet part of iron and part of clay. \bibverse{34} You saw until a stone was cut out without hands, which struck the image on its feet that were of iron and clay, and broke them in pieces. \bibverse{35} Then the iron, the clay, the bronze, the silver, and the gold were broken in pieces together, and became like the chaff of the summer threshing floors. The wind carried them away, so that no place was found for them. The stone that struck the image became a great mountain and filled the whole earth. 
 
 
-
 \bibverse{36} “This is the dream; and we will tell its interpretation before the king. \bibverse{37} You, O king, are king of kings, to whom the God of heaven has given the kingdom, the power, the strength, and the glory. \bibverse{38} Wherever the children of men dwell, he has given the animals of the field and the birds of the sky into your hand, and has made you rule over them all. You are the head of gold. 
 
 \bibverse{39} “After you, another kingdom will arise that is inferior to you; and another third kingdom of bronze, which will rule over all the earth. \bibverse{40} The fourth kingdom will be strong as iron, because iron breaks in pieces and subdues all things; and as iron that crushes all these, it will break in pieces and crush. \bibverse{41} Whereas you saw the feet and toes, part of potters’ clay and part of iron, it will be a divided kingdom; but there will be in it of the strength of the iron, because you saw the iron mixed with miry clay. \bibverse{42} As the toes of the feet were part of iron, and part of clay, so the kingdom will be partly strong and partly brittle. \bibverse{43} Whereas you saw the iron mixed with miry clay, they will mingle themselves with the seed of men; but they won’t cling to one another, even as iron does not mix with clay. 
@@ -66,7 +63,6 @@
 
 # 3 
 \bibverse{1} Nebuchadnezzar the king made an image of gold, whose height was sixty cubits^[3:1 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres.] and its width six cubits. He set it up in the plain of Dura, in the province of Babylon. \bibverse{2} Then Nebuchadnezzar the king sent to gather together the local governors, the deputies, and the governors, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up. \bibverse{3} Then the local governors, the deputies, and the governors, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces were gathered together to the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up. 
-
 
 
 \bibverse{4} Then the herald cried aloud, “To you it is commanded, peoples, nations, and languages, \bibverse{5} that whenever you hear the sound of the horn, flute, zither, lyre, harp, pipe, and all kinds of music, you fall down and worship the golden image that Nebuchadnezzar the king has set up. \bibverse{6} Whoever doesn’t fall down and worship shall be cast into the middle of a burning fiery furnace the same hour.” 
@@ -254,7 +250,6 @@ i1\bibverse{26} “I make a decree that in all the dominion of my kingdom men tr
 \bibverse{1} In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans— \bibverse{2} in the first year of his reign I, Daniel, understood by the books the number of the years about which the LORD’s^[9:2 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name. ] word came to Jeremiah the prophet for the accomplishing of the desolations of Jerusalem, even seventy years. \bibverse{3} I set my face to the Lord God, to seek by prayer and petitions, with fasting and sackcloth and ashes. 
 
 
-
 \bibverse{4} I prayed to the LORD my God, and made confession, and said, 
 
 i1 “Oh, Lord, the great and dreadful God, who keeps covenant and loving kindness with those who love him and keep his commandments, \bibverse{5} we have sinned, and have dealt perversely, and have done wickedly, and have rebelled, even turning aside from your precepts and from your ordinances. \bibverse{6} We haven’t listened to your servants the prophets, who spoke in your name to our kings, our princes, and our fathers, and to all the people of the land. 
@@ -269,7 +264,8 @@ i1\bibverse{17} “Now therefore, our God, listen to the prayer of your servant 
 
 \bibverse{24} “Seventy weeks are decreed on your people and on your holy city, to finish disobedience, to make an end of sins, to make reconciliation for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the most holy. 
 
-\bibverse{25} “Know therefore and discern that from the going out of the commandment to restore and build Jerusalem to the Anointed One,+ 9:25 “Anointed One” can also be translated “Messiah” (same as “Christ”). the prince, will be seven weeks and sixty-two weeks. It will be built again, with street and moat, even in troubled times. \bibverse{26} After the sixty-two weeks the Anointed One+ 9:26 “Anointed One” can also be translated “Messiah” (same as “Christ”). will be cut off, and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined. \bibverse{27} He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate; and even to the decreed full end, wrath will be poured out on the desolate.” 
+\bibverse{25} “Know therefore and discern that from the going out of the commandment to restore and build Jerusalem to the Anointed One,^[9:25 “Anointed One” can also be translated “Messiah” (same as “Christ”).] the prince, will be seven weeks and sixty-two weeks. It will be built again, with street and moat, even in troubled times. \bibverse{26} After the sixty-two weeks the Anointed One+ 9:26 “Anointed One” can also be translated “Messiah” (same as “Christ”). will be cut off, and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined. \bibverse{27} He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate; and even to the decreed full end, wrath will be poured out on the desolate.”
+ 
 
 # 10 
 \bibverse{1} In the third year of Cyrus king of Persia a message was revealed to Daniel, whose name was called Belteshazzar; and the message was true, even a great warfare. He understood the message, and had understanding of the vision. 
@@ -277,7 +273,6 @@ i1\bibverse{17} “Now therefore, our God, listen to the prayer of your servant 
 \bibverse{2} In those days I, Daniel, was mourning three whole weeks. \bibverse{3} I ate no pleasant food. No meat or wine came into my mouth. I didn’t anoint myself at all, until three whole weeks were fulfilled. 
 
 \bibverse{4} In the twenty-fourth day of the first month, as I was by the side of the great river, which is Hiddekel,^[10:4 or, Tigris River] \bibverse{5} I lifted up my eyes and looked, and behold, there was a man clothed in linen, whose waist was adorned with pure gold of Uphaz. \bibverse{6} His body also was like beryl, and his face as the appearance of lightning, and his eyes as flaming torches. His arms and his feet were like burnished bronze. The voice of his words was like the voice of a multitude. 
-
 
 
 \bibverse{7} I, Daniel, alone saw the vision, for the men who were with me didn’t see the vision, but a great quaking fell on them, and they fled to hide themselves. \bibverse{8} So I was left alone and saw this great vision. No strength remained in me; for my face grew deathly pale, and I retained no strength. \bibverse{9} Yet I heard the voice of his words. When I heard the voice of his words, then I fell into a deep sleep on my face, with my face towards the ground. 

@@ -1,12 +1,10 @@
 # 1 
 ^1^ The LORD’s^*^ word which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah. 
-
 ^[1:1 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name.]
 
 ^2^ I will utterly sweep away everything from the surface of the earth, says the LORD. ^3^ I will sweep away man and animal. I will sweep away the birds of the sky, the fish of the sea, and the heaps of rubble with the wicked. I will cut off man from the surface of the earth, says the LORD. ^4^ I will stretch out my hand against Judah and against all the inhabitants of Jerusalem. I will cut off the remnant of Baal from this place—the name of the idolatrous and pagan priests, ^5^ those who worship the army of the sky on the housetops, those who worship and swear by the LORD and also swear by Malcam, ^6^ those who have turned back from following the LORD, and those who haven’t sought the LORD nor enquired after him. 
 
 ^7^ Be silent at the presence of the Lord^*^ GOD, for the day of the LORD is at hand. For the LORD has prepared a sacrifice. He has consecrated his guests. ^8^ It will happen in the day of the LORD’s sacrifice that I will punish the princes, the king’s sons, and all those who are clothed with foreign clothing. ^9^ In that day, I will punish all those who leap over the threshold, who fill their master’s house with violence and deceit. 
-
 ^[1:7 The word translated “Lord” is “Adonai.”]
 
 ^10^ In that day, says the LORD, there will be the noise of a cry from the fish gate, a wailing from the second quarter, and a great crashing from the hills. ^11^ Wail, you inhabitants of Maktesh, for all the people of Canaan are undone! All those who were loaded with silver are cut off. ^12^ It will happen at that time, that I will search Jerusalem with lamps, and I will punish the men who are settled on their dregs, who say in their heart, “The LORD will not do good, neither will he do evil.” ^13^ Their wealth will become a plunder, and their houses a desolation. Yes, they will build houses, but won’t inhabit them. They will plant vineyards, but won’t drink their wine. 
@@ -15,7 +13,6 @@
 
 # 2 
 ^1^ Gather yourselves together, yes, gather together, you nation that has no shame, ^2^ before the appointed time when the day passes as the chaff, before the fierce anger of the LORD comes on you, before the day of the LORD’s anger comes on you. ^3^ Seek the LORD, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of the LORD’s anger. ^4^ For Gaza will be forsaken, and Ashkelon a desolation. They will drive out Ashdod at noonday, and Ekron will be rooted up. ^5^ Woe to the inhabitants of the sea coast, the nation of the Cherethites! The LORD’s word is against you, Canaan, the land of the Philistines. I will destroy you until there is no inhabitant. ^6^ The sea coast will be pastures, with cottages for shepherds and folds for flocks. ^7^ The coast will be for the remnant of the house of Judah. They will find pasture. In the houses of Ashkelon, they will lie down in the evening, for the LORD, their God,^*^ will visit them and restore them. ^8^ I have heard the reproach of Moab and the insults of the children of Ammon, with which they have reproached my people and magnified themselves against their border. ^9^ Therefore, as I live, says the LORD of Armies, the God of Israel, surely Moab will be as Sodom, and the children of Ammon as Gomorrah, a possession of nettles and salt pits, and a perpetual desolation. The remnant of my people will plunder them, and the survivors of my nation will inherit them. ^10^ This they will have for their pride, because they have reproached and magnified themselves against the people of the LORD of Armies. ^11^ The LORD will be awesome to them, for he will famish all the gods of the land. Men will worship him, everyone from his place, even all the shores of the nations. 
-
 ^[2:7 The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 ^12^ You Cushites also, you will be killed by my sword. 

@@ -2,7 +2,6 @@
 \bibverse{1} A revelation, the LORD’s^[1:1 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name.] word to Israel by Malachi. 
 
 
-
 \bibverse{2} “I have loved you,” says the LORD. 
 
 Yet you say, “How have you loved us?” 
@@ -16,16 +15,14 @@ Yet you say, “How have you loved us?”
 \bibverse{9} “Now, please entreat the favour of God,^[1:9 The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).] that he may be gracious to us. With this, will he accept any of you?” says the LORD of Armies. 
 
 
-
 \bibverse{10} “Oh that there were one amongst you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you,” says the LORD of Armies, “neither will I accept an offering at your hand. \bibverse{11} For from the rising of the sun even to its going down, my name is great amongst the nations, and in every place incense will be offered to my name, and a pure offering; for my name is great amongst the nations,” says the LORD of Armies. \bibverse{12} “But you profane it when you say, ‘The LORD’s table is polluted, and its fruit, even its food, is contemptible.’ \bibverse{13} You say also, ‘Behold,^[1:13 “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] what a weariness it is!’ And you have sniffed at it”, says the LORD of Armies; “and you have brought that which was taken by violence, the lame, and the sick; thus you bring the offering. Should I accept this at your hand?” says the LORD. 
 
 
-
-\bibverse{14} “But the deceiver is cursed who has in his flock a male, and vows and sacrifices to the Lord+ 1:14 The word translated “Lord” is “Adonai.” a defective thing; for I am a great King,” says the LORD of Armies, “and my name is awesome amongst the nations.” 
+\bibverse{14} “But the deceiver is cursed who has in his flock a male, and vows and sacrifices to the Lord^[1:14 The word translated “Lord” is “Adonai.”] a defective thing; for I am a great King,” says the LORD of Armies, “and my name is awesome amongst the nations.”
+ 
 
 # 2 
 \bibverse{1} “Now, you priests, this commandment is for you. \bibverse{2} If you will not listen, and if you will not take it to heart, to give glory to my name,” says the LORD of Armies, “then I will send the curse on you, and I will curse your blessings. Indeed, I have cursed them already, because you do not take it to heart. \bibverse{3} Behold, I will rebuke your offspring,^[2:3 or, seed] and will spread dung on your faces, even the dung of your feasts; and you will be taken away with it. \bibverse{4} You will know that I have sent this commandment to you, that my covenant may be with Levi,” says the LORD of Armies. \bibverse{5} “My covenant was with him of life and peace; and I gave them to him that he might be reverent towards me; and he was reverent towards me, and stood in awe of my name. \bibverse{6} The law of truth was in his mouth, and unrighteousness was not found in his lips. He walked with me in peace and uprightness, and turned many away from iniquity. \bibverse{7} For the priest’s lips should keep knowledge, and they should seek the law at his mouth; for he is the messenger of the LORD of Armies. \bibverse{8} But you have turned away from the path. You have caused many to stumble in the law. You have corrupted the covenant of Levi,” says the LORD of Armies. \bibverse{9} “Therefore I have also made you contemptible and wicked before all the people, according to the way you have not kept my ways, but have had respect for persons in the law. \bibverse{10} Don’t we all have one father? Hasn’t one God created us? Why do we deal treacherously every man against his brother, profaning the covenant of our fathers? \bibverse{11} Judah has dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah has profaned the holiness of the LORD which he loves, and has married the daughter of a foreign god. \bibverse{12} The LORD will cut off the man who does this, him who wakes and him who answers, out of the tents of Jacob and him who offers an offering to the LORD of Armies. 
-
 
 
 \bibverse{13} “This again you do: you cover the LORD’s altar with tears, with weeping, and with sighing, because he doesn’t regard the offering any more, neither receives it with good will at your hand. \bibverse{14} Yet you say, ‘Why?’ Because the LORD has been witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion and the wife of your covenant. \bibverse{15} Did he not make you one, although he had the residue of the Spirit? Why one? He sought godly offspring. Therefore take heed to your spirit, and let no one deal treacherously against the wife of his youth. \bibverse{16} One who hates and divorces”, says the LORD, the God of Israel, “covers his garment with violence!” says the LORD of Armies. “Therefore pay attention to your spirit, that you don’t be unfaithful. 

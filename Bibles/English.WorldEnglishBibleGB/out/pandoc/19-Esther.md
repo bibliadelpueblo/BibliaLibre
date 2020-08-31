@@ -38,7 +38,6 @@
 \bibverse{7} In the first month, which is the month Nisan, in the twelfth year of King Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, and chose the twelfth month, which is the month Adar. \bibverse{8} Haman said to King Ahasuerus, “There is a certain people scattered abroad and dispersed amongst the peoples in all the provinces of your kingdom, and their laws are different from other people’s. They don’t keep the king’s laws. Therefore it is not for the king’s profit to allow them to remain. \bibverse{9} If it pleases the king, let it be written that they be destroyed; and I will pay ten thousand talents^[3:9 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces] of silver into the hands of those who are in charge of the king’s business, to bring it into the king’s treasuries.” 
 
 
-
 \bibverse{10} The king took his ring from his hand, and gave it to Haman the son of Hammedatha the Agagite, the Jews’ enemy. \bibverse{11} The king said to Haman, “The silver is given to you, the people also, to do with them as it seems good to you.” 
 
 \bibverse{12} Then the king’s scribes were called in on the first month, on the thirteenth day of the month; and all that Haman commanded was written to the king’s local governors, and to the governors who were over every province, and to the princes of every people, to every province according to its writing, and to every people in their language. It was written in the name of King Ahasuerus, and it was sealed with the king’s ring. \bibverse{13} Letters were sent by couriers into all the king’s provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even on the thirteenth day of the twelfth month, which is the month Adar, and to plunder their possessions. \bibverse{14} A copy of the letter, that the decree should be given out in every province, was published to all the peoples, that they should be ready against that day. \bibverse{15} The couriers went out in haste by the king’s commandment, and the decree was given out in the citadel of Susa. The king and Haman sat down to drink; but the city of Susa was perplexed. 
@@ -71,7 +70,8 @@
 
 \bibverse{12} Haman also said, “Yes, Esther the queen let no man come in with the king to the banquet that she had prepared but myself; and tomorrow I am also invited by her together with the king. \bibverse{13} Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.” 
 
-\bibverse{14} Then Zeresh his wife and all his friends said to him, “Let a gallows be made fifty cubits+ 5:14 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres. high, and in the morning speak to the king about hanging Mordecai on it. Then go in merrily with the king to the banquet.” This pleased Haman, so he had the gallows made. 
+\bibverse{14} Then Zeresh his wife and all his friends said to him, “Let a gallows be made fifty cubits^[5:14 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres.] high, and in the morning speak to the king about hanging Mordecai on it. Then go in merrily with the king to the banquet.” This pleased Haman, so he had the gallows made.
+ 
 
 # 6 
 \bibverse{1} On that night, the king couldn’t sleep. He commanded the book of records of the chronicles to be brought, and they were read to the king. \bibverse{2} It was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, who were doorkeepers, who had tried to lay hands on the King Ahasuerus. \bibverse{3} The king said, “What honour and dignity has been given to Mordecai for this?” 
@@ -83,8 +83,7 @@ Then the king’s servants who attended him said, “Nothing has been done for h
 \bibverse{5} The king’s servants said to him, “Behold,^[6:5 “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] Haman stands in the court.” 
 
 
-
- The king said, “Let him come in.” \bibverse{6} So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honour?” 
+The king said, “Let him come in.” \bibverse{6} So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honour?” 
 
 Now Haman said in his heart, “Who would the king delight to honour more than myself?” \bibverse{7} Haman said to the king, “For the man whom the king delights to honour, \bibverse{8} let royal clothing be brought which the king uses to wear, and the horse that the king rides on, and on the head of which a royal crown is set. \bibverse{9} Let the clothing and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man whom the king delights to honour with them, and have him ride on horseback through the city square, and proclaim before him, ‘Thus it shall be done to the man whom the king delights to honour!’” 
 
@@ -108,8 +107,7 @@ Then Haman was afraid before the king and the queen. \bibverse{7} The king arose
 \bibverse{9} Then Harbonah, one of the eunuchs who were with the king, said, “Behold, the gallows fifty cubits^[7:9 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres.] high, which Haman has made for Mordecai, who spoke good for the king, is standing at Haman’s house.” 
 
 
-
- The king said, “Hang him on it!” 
+The king said, “Hang him on it!” 
 
 \bibverse{10} So they hanged Haman on the gallows that he had prepared for Mordecai. Then the king’s wrath was pacified. 
 
@@ -140,7 +138,6 @@ Then Haman was afraid before the king and the queen. \bibverse{7} The king arose
 \bibverse{20} Mordecai wrote these things, and sent letters to all the Jews who were in all the provinces of the king Ahasuerus, both near and far, \bibverse{21} to enjoin them that they should keep the fourteenth and fifteenth days of the month Adar yearly, \bibverse{22} as the days in which the Jews had rest from their enemies, and the month which was turned to them from sorrow to gladness, and from mourning into a holiday; that they should make them days of feasting and gladness, and of sending presents of food to one another, and gifts to the needy. \bibverse{23} The Jews accepted the custom that they had begun, as Mordecai had written to them, \bibverse{24} because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them, and had cast “Pur”, that is the lot, to consume them and to destroy them; \bibverse{25} but when this became known to the king, he commanded by letters that his wicked plan, which he had planned against the Jews, should return on his own head, and that he and his sons should be hanged on the gallows. 
 
 \bibverse{26} Therefore they called these days “Purim”,^[9:26 Purim is the Hebrew plural for pur, which means lot.] from the word “Pur.” Therefore because of all the words of this letter, and of that which they had seen concerning this matter, and that which had come to them, \bibverse{27} the Jews established and imposed on themselves, on their descendants, and on all those who joined themselves to them, so that it should not fail that they would keep these two days according to what was written and according to its appointed time every year; \bibverse{28} and that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not fail from amongst the Jews, nor their memory perish from their offspring.+ 9:28 or, seed 
-
 
 
 \bibverse{29} Then Esther the queen, the daughter of Abihail, and Mordecai the Jew wrote with all authority to confirm this second letter of Purim. \bibverse{30} He sent letters to all the Jews in the hundred and twenty-seven provinces of the kingdom of Ahasuerus with words of peace and truth, \bibverse{31} to confirm these days of Purim in their appointed times, as Mordecai the Jew and Esther the queen had decreed, and as they had imposed upon themselves and their descendants in the matter of the fastings and their mourning. \bibverse{32} The commandment of Esther confirmed these matters of Purim; and it was written in the book. 

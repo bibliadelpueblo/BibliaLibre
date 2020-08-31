@@ -1,4 +1,6 @@
 # 1 
+
+
 \bibverse{1} Wohl dem, der nicht wandelt im Rat der Gottlosen noch tritt auf den Weg Sünder noch sitzt, da die Spötter sitzen, \bibverse{2} sondern hat Lust zum Gesetz des HERRN und redet von seinem Gesetz Tag und Nacht! \bibverse{3} Der ist wie ein Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht; und was er macht, das gerät wohl. \bibverse{4} Aber so sind die Gottlosen nicht, sondern wie Spreu, die der Wind verstreut. \bibverse{5} Darum bleiben die Gottlosen nicht im Gericht noch die Sünder in der Gemeinde der Gerechten. \bibverse{6} Denn der HERR kennt den Weg der Gerechten; aber der Gottlosen Weg vergeht. 
 
 # 2 
