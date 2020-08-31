@@ -247,7 +247,7 @@ namespace BibleMarkdown
 							// TODO remove footnotes
 
 							var frmpart = frmpartmatch.Value;
-							var frames = Regex.Matches(frmpart, @"(?<=^|\n)## ([0-9]+)(\r?\n|$).*\^([0-9]+)\^(( \\)|\r?\n#(##+.*?)(\r?\n|$))", RegexOptions.Singleline).GetEnumerator();
+							var frames = Regex.Matches(frmpart, @"(?<=(^|\n)## ([0-9]+)(\r?\n|$).*?)\^([0-9]+)\^(( \\)|\r?\n#(##+.*?)(\r?\n|$))", RegexOptions.Singleline).GetEnumerator();
 							var hasFrame = frames.MoveNext();
 
 							string chapter = "0";
@@ -266,8 +266,8 @@ namespace BibleMarkdown
 								if (hasFrame)
 								{
 									var f = (Match)frames.Current;
-									var fchapter = f.Groups[1].Value;
-									var fverse = f.Groups[3].Value;
+									var fchapter = f.Groups[2].Value;
+									var fverse = f.Groups[4].Value;
 
 									if (fchapter == chapter && fverse == verse)
 									{
