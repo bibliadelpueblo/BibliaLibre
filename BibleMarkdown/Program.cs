@@ -216,6 +216,81 @@ namespace BibleMarkdown
 			Console.WriteLine($"Created {frames}");
 		}
 
+		static void ImportFrame(string path)
+		{
+			var frmfile = Path.Combine(path, @"src\frame.md");
+
+			if (File.Exists(frmfile))
+			{
+
+				var mdfiles = Directory.EnumerateFiles(path, "*.md")
+					.Where(file => Regex.IsMatch(Path.GetFileName(file), "^(0[1-9]|[1-5][0-9]|6[0-6])"));
+
+				var mdtimes = mdfiles.Select(file => File.GetLastWriteTimeUtc(file));
+				var frmtime = File.GetLastWriteTimeUtc(frmfile);
+
+				var frame = File.ReadAllText(frmfile);
+
+				if (mdtimes.Any(time => time < frmtime))
+				{
+
+					foreach (string srcfile in mdfiles)
+					{
+
+						var src = File.ReadAllText(srcfile);
+						var srcname = Path.GetFileName(srcfile);
+
+
+						var frmpartmatch = Regex.Match(frame, $@"(?<=(^|\n)# {srcname}\r?\n).*?(?=\n# |$)", RegexOptions.Singleline);
+						if (frmpartmatch.Success)
+						{
+
+							// remove current frame
+							src = Regex.Replace(src, @"(?<=\r?\n|^)\r?\n(?!\s*#)", @""); // remove blank line
+							src = Regex.Replace(src, @"(?<=^|\n)##+.*?\r?\n", ""); // remove titles
+							// TODO remove footnotes
+
+							var frmpart = frmpartmatch.Value;
+							var frames = ((IEnumerable<Match>)Regex.Matches(frmpart, @"(?<=^|\n)## ([0-9]+)(\r?\n|$).*\^([0-9]+)\.([0-9]+)\^(( \)|\r?\n#(##+.*?)(\r?\n|$)", RegexOptions.Singleline)).GetEnumerator();
+
+							string chapter = "0";
+							string verse = "0";
+							int phrase = 0;
+							src = Regex.Replace(src, @"(?<=^|\n)# ([0-9]+)(\r?\n|$)|\^([0-9]+)\^|([.,;:?!])", m =>
+							{
+								if (m.Groups[1].Success)
+								{
+									chapter = m.Groups[1].Value; verse = "0"; phrase = 0;
+								}
+								else if (m.Groups[3].Success)
+								{
+									verse = m.Groups[3].Value; phrase = 0;
+								}
+								else if (m.Groups[4].Success) phrase++;
+
+								var f = frames.Current;
+								var fchapter = f.Groups[1].Value;
+								var fverse = f.Groups[3].Value;
+								var fphrase = 0;
+								int.TryParse(f.Groups[4].Value, out fphrase);
+
+								if (fchapter == chapter && fverse == verse && fphrase == phrase)
+								{
+									frames.MoveNext();
+									if (f.Groups[6].Success) return $"{m.Value}{Environment.NewLine}{Environment.NewLine}"; // add blank line
+									else if (f.Groups[7].Success) return $"{m.Value}{Environment.NewLine}{Environment.NewLine}{f.Groups[7].Value}{Environment.NewLine}"; // add title
+									// TODO add footnote
+								}
+								return m.Value;
+							});
+
+							File.WriteAllText(srcfile, src);
+							Console.WriteLine($"Created {srcfile}.");
+						}
+					}
+				}
+			}
+		}
 		static void ProcessPath(string path)
 		{
 			var srcpath = Path.Combine(path, "src");
