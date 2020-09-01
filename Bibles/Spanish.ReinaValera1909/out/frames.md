@@ -8,8 +8,8 @@
 ## Solo un libro, o palabra de Dios?
 ^0^ \ 
 ## Como leer la Biblia
-
-## Como la Biblia cresce
+^0^ \ ^35^ \ 
+## Como la Biblia fue creado
 
 ## La Biblia Reina Valera
 
