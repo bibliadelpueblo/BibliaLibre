@@ -93,7 +93,7 @@ namespace BibleMarkdown
 		{
 			var text = File.ReadAllText(file);
 			text = Regex.Replace(text, @"\^\*\^(.*?)(\^\[.*?\])", "$2$1", RegexOptions.Singleline);
-			if (text.Contains(@"%\verse-paragraphs")) // each verse in a separate paragraph. For use in Psalms & Proverbs
+			if (text.Contains(@"%!verse-paragraphs%")) // each verse in a separate paragraph. For use in Psalms & Proverbs
 			{
 				text = Regex.Replace(text, @"(\^[0-9]+\^[^#]*?)(\s*?)(?=\^[0-9]+\^)", "$1\\\n", RegexOptions.Singleline);
 			}
@@ -192,6 +192,7 @@ namespace BibleMarkdown
 
 					var ms = Regex.Matches(rawch, @"\^([0-9]+)\^|(?<=\r?\n)(\r?\n)(?!\s*?(\^\[|#|$))|(?<=\r?\n|^)(##.*?)(?=\r?\n|$)", RegexOptions.Singleline);
 					string vers = "0";
+					string lastvers = null;
 					foreach (Match m in ms)
 					{
 						if (m.Groups[1].Success)
@@ -199,7 +200,8 @@ namespace BibleMarkdown
 							vers = m.Groups[1].Value;
 						} else if (m.Groups[2].Success)
 						{
-							verses.Append($@"{$"^{vers}^"} \ ");
+							if (lastvers != vers) verses.Append($@"{$"^{vers}^"} \ ");
+							lastvers = vers;
 						} else if (m.Groups[4].Success)
 						{
 							verses.Append($@"{$"^{vers}^"}{Environment.NewLine}#{m.Groups[5].Value.Trim()}{Environment.NewLine}");
@@ -234,6 +236,7 @@ namespace BibleMarkdown
 					foreach (string srcfile in mdfiles)
 					{
 
+						File.SetLastWriteTimeUtc(srcfile, DateTime.Now);
 						var src = File.ReadAllText(srcfile);
 						var srcname = Path.GetFileName(srcfile);
 
@@ -250,26 +253,28 @@ namespace BibleMarkdown
 							var frames = Regex.Matches(frmpart, @"(?<=(^|\n)## ([0-9]+)(\r?\n|$).*?)\^([0-9]+)\^(( \\)|\r?\n#(##+.*?)(\r?\n|$))", RegexOptions.Singleline).GetEnumerator();
 							var hasFrame = frames.MoveNext();
 
-							string chapter = "0";
-							string verse = "0";
+							int chapter = 0;
+							int verse = 0;
 							src = Regex.Replace(src, @"(?<=^|\n)#\s+([0-9]+)(\s*\r?\n|$)|\^([0-9]+)\^.*?(?=\^[0-9]+\^|#)", m =>
 							{
 								if (m.Groups[1].Success)
 								{
-									chapter = m.Groups[1].Value; verse = "0";
+									int.TryParse(m.Groups[1].Value, out chapter); verse = 0;
 								}
 								else if (m.Groups[3].Success)
 								{
-									verse = m.Groups[3].Value;
+									int.TryParse(m.Groups[3].Value, out verse);
 								}
 
 								if (hasFrame)
 								{
 									var f = (Match)frames.Current;
-									var fchapter = f.Groups[2].Value;
-									var fverse = f.Groups[4].Value;
+									int fchapter = 0;
+									int fverse = 0;
+									int.TryParse(f.Groups[2].Value, out fchapter);
+									int.TryParse(f.Groups[4].Value, out fverse);
 
-									if (fchapter == chapter && fverse == verse)
+									if (fchapter <= chapter && fverse <= verse)
 									{
 										hasFrame = frames.MoveNext();
 										if (f.Groups[6].Success) return $"{m.Value}{Environment.NewLine}{Environment.NewLine}"; // add blank line
