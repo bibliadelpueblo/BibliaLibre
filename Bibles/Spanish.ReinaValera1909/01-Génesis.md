@@ -1,37 +1,61 @@
 # 1 
+## La creación del mundo
 ^1^ En el principio crió Dios los cielos y la tierra. ^2^ Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas. 
 
+## La creación de la luz
 ^3^ Y dijo Dios: Sea la luz: y fué la luz. ^4^ Y vió Dios que la luz era buena: y apartó Dios la luz de las tinieblas. ^5^ Y llamó Dios á la luz Día, y á las tinieblas llamó Noche: y fué la tarde y la mañana un día. 
 
+## La creación de la de la expansion de los Cielos
 ^6^ Y dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas. ^7^ E hizo Dios la expansión, y apartó las aguas que estaban debajo de la expansión, de las aguas que estaban sobre la expansión: y fué así. ^8^ Y llamó Dios á la expansión Cielos: y fué la tarde y la mañana el día segundo. 
 
+## La separacion de la tierra y el mar y la creación de las plantas
 ^9^ Y dijo Dios: Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase la seca: y fué así. ^10^ Y llamó Dios á la seca Tierra, y á la reunión de las aguas llamó Mares: y vió Dios que era bueno. ^11^ Y dijo Dios: Produzca la tierra hierba verde, hierba que dé simiente; árbol de fruto que dé fruto según su género, que su simiente esté en él, sobre la tierra: y fué así. ^12^ Y produjo la tierra hierba verde, hierba que da simiente según su naturaleza, y árbol que da fruto, cuya simiente está en él, según su género: y vió Dios que era bueno. ^13^ Y fué la tarde y la mañana el día tercero. 
 
+## La creación de las estrellas
 ^14^ Y dijo Dios: Sean lumbreras en la expansión de los cielos para apartar el día y la noche: y sean por señales, y para las estaciones, y para días y años; ^15^ Y sean por lumbreras en la expansión de los cielos para alumbrar sobre la tierra: y fué así. ^16^ E hizo Dios las dos grandes lumbreras; la lumbrera mayor para que señorease en el día, y la lumbrera menor para que señorease en la noche: hizo también las estrellas. ^17^ Y púsolas Dios en la expansión de los cielos, para alumbrar sobre la tierra, ^18^ Y para señorear en el día y en la noche, y para apartar la luz y las tinieblas: y vió Dios que era bueno. ^19^ Y fué la tarde y la mañana el día cuarto. 
 
+## La creación de los animales acuáticos y de los aves
 ^20^ Y dijo Dios: Produzcan las aguas reptil de ánima viviente, y aves que vuelen sobre la tierra, en la abierta expansión de los cielos. ^21^ Y crió Dios las grandes ballenas, y toda cosa viva que anda arrastrando, que las aguas produjeron según su género, y toda ave alada según su especie: y vió Dios que era bueno. ^22^ Y Dios los bendijo diciendo: Fructificad y multiplicad, y henchid las aguas en los mares, y las aves se multipliquen en la tierra. ^23^ Y fué la tarde y la mañana el día quinto. 
 
+## La creación de los animales terrestres y del hombre
 ^24^ Y dijo Dios: Produzca la tierra seres vivientes según su género, bestias y serpientes y animales de la tierra según su especie: y fué así. ^25^ E hizo Dios animales de la tierra según su género, y ganado según su género, y todo animal que anda arrastrando sobre la tierra según su especie: y vió Dios que era bueno. 
 
 ^26^ Y dijo Dios: Hagamos al hombre á nuestra imagen, conforme á nuestra semejanza; y señoree en los peces de la mar, y en las aves de los cielos, y en las bestias, y en toda la tierra, y en todo animal que anda arrastrando sobre la tierra. ^27^ Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió. ^28^ Y los bendijo Dios; y díjoles Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra. ^29^ Y dijo Dios: He aquí que os he dado toda hierba que da simiente, que está sobre la haz de toda la tierra; y todo árbol en que hay fruto de árbol que da simiente, seros ha para comer. ^30^ Y á toda bestia de la tierra, y á todas las aves de los cielos, y á todo lo que se mueve sobre la tierra, en que hay vida, toda hierba verde les será para comer: y fué así. 
 
 ^31^ Y vió Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fué la tarde y la mañana el día sexto. 
 
-# 2 
+# 2
+## El dia de reposo
 ^1^ Y fueron acabados los cielos y la tierra, y todo su ornamento. ^2^ Y acabó Dios en el día séptimo su obra que hizo, y reposó el día séptimo de toda su obra que había hecho. ^3^ Y bendijo Dios al día séptimo, y santificólo, porque en él reposó de toda su obra que había Dios criado y hecho. 
 
-^4^ Estos son los orígenes de los cielos y de la tierra cuando fueron criados, el día que Jehová Dios hizo la tierra y los cielos, ^5^ Y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese: porque aun no había Jehová Dios hecho llover sobre la tierra, ni había hombre para que labrase la tierra; ^6^ Mas subía de la tierra un vapor, que regaba toda la faz de la tierra. ^7^ Formó, pues, Jehová Dios al hombre del polvo de la tierra, y alentó en su nariz soplo de vida; y fué el hombre en alma viviente. ^8^ Y había Jehová Dios plantado un huerto en Edén al oriente, y puso allí al hombre que había formado. ^9^ Y había Jehová Dios hecho nacer de la tierra todo árbol delicioso á la vista, y bueno para comer: también el árbol de vida en medio del huerto, y el árbol de ciencia del bien y del mal. ^10^ Y salía de Edén un río para regar el huerto, y de allí se repartía en cuatro ramales. ^11^ El nombre del uno era Pisón: éste es el que cerca toda la tierra de Havilah, donde hay oro: ^12^ Y el oro de aquella tierra es bueno: hay allí también bdelio y piedra cornerina. ^13^ El nombre del segundo río es Gihón: éste es el que rodea toda la tierra de Etiopía. ^14^ Y el nombre del tercer río es Hiddekel: éste es el que va delante de Asiria. Y el cuarto río es el Eufrates. ^15^ Tomó, pues, Jehová Dios al hombre, y le puso en el huerto de Edén, para que lo labrara y lo guardase. ^16^ Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto comerás; ^17^ Mas del árbol de ciencia del bien y del mal no comerás de él; porque el día que de él comieres, morirás. 
+## La creacion del hombre y de la mujer en el paraíso
+^4^ Estos son los orígenes de los cielos y de la tierra cuando fueron criados, el día que Jehová Dios hizo la tierra y los cielos, ^5^ Y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese: porque aun no había Jehová Dios hecho llover sobre la tierra, ni había hombre para que labrase la tierra; ^6^ Mas subía de la tierra un vapor, que regaba toda la faz de la tierra. ^7^ Formó, pues, Jehová Dios al hombre del polvo de la tierra, y alentó en su nariz soplo de vida; y fué el hombre en alma viviente.
 
-^18^ Y dijo Jehová Dios: No es bueno que el hombre esté solo; haréle ayuda idónea para él. ^19^ Formó, pues, Jehová Dios de la tierra toda bestia del campo, y toda ave de los cielos, y trájolas á Adam, para que viese cómo les había de llamar; y todo lo que Adam llamó á los animales vivientes, ese es su nombre. ^20^ Y puso Adam nombres á toda bestia y ave de los cielos y á todo animal del campo: mas para Adam no halló ayuda que estuviese idónea para él. ^21^ Y Jehová Dios hizo caer sueño sobre Adam, y se quedó dormido: entonces tomó una de sus costillas, y cerró la carne en su lugar; ^22^ Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y trájola al hombre. ^23^ Y dijo Adam: Esto es ahora hueso de mis huesos, y carne de mi carne: ésta será llamada Varona, porque del varón fué tomada. ^24^ Por tanto, dejará el hombre á su padre y á su madre, y allegarse ha á su mujer, y serán una sola carne. ^25^ Y estaban ambos desnudos, Adam y su mujer, y no se avergonzaban.
+^8^ Y había Jehová Dios plantado un huerto en Edén al oriente, y puso allí al hombre que había formado. ^9^ Y había Jehová Dios hecho nacer de la tierra todo árbol delicioso á la vista, y bueno para comer: también el árbol de vida en medio del huerto, y el árbol de ciencia del bien y del mal.
 
-# 3 
+## El río en el paraíso y sus ramales
+^10^ Y salía de Edén un río para regar el huerto, y de allí se repartía en cuatro ramales. ^11^ El nombre del uno era Pisón: éste es el que cerca toda la tierra de Havilah, donde hay oro: ^12^ Y el oro de aquella tierra es bueno: hay allí también bdelio y piedra cornerina. ^13^ El nombre del segundo río es Gihón: éste es el que rodea toda la tierra de Etiopía. ^14^ Y el nombre del tercer río es Hiddekel: éste es el que va delante de Asiria. Y el cuarto río es el Eufrates.
+
+## El mandamiento de Dios por Adam
+^15^ Tomó, pues, Jehová Dios al hombre, y le puso en el huerto de Edén, para que lo labrara y lo guardase. ^16^ Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto comerás; ^17^ Mas del árbol de ciencia del bien y del mal no comerás de él; porque el día que de él comieres, morirás. 
+
+## La creación de la mujer y la fundación del matrimonio
+^18^ Y dijo Jehová Dios: No es bueno que el hombre esté solo; haréle ayuda idónea para él. ^19^ Formó, pues, Jehová Dios de la tierra toda bestia del campo, y toda ave de los cielos, y trájolas á Adam, para que viese cómo les había de llamar; y todo lo que Adam llamó á los animales vivientes, ese es su nombre. ^20^ Y puso Adam nombres á toda bestia y ave de los cielos y á todo animal del campo: mas para Adam no halló ayuda que estuviese idónea para él.
+
+^21^ Y Jehová Dios hizo caer sueño sobre Adam, y se quedó dormido: entonces tomó una de sus costillas, y cerró la carne en su lugar; ^22^ Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y trájola al hombre. ^23^ Y dijo Adam: Esto es ahora hueso de mis huesos, y carne de mi carne: ésta será llamada Varona, porque del varón fué tomada. ^24^ Por tanto, dejará el hombre á su padre y á su madre, y allegarse ha á su mujer, y serán una sola carne. ^25^ Y estaban ambos desnudos, Adam y su mujer, y no se avergonzaban.
+
+# 3
+## La tentacion y la caída del hombre
 ^1^ Empero la serpiente era astuta, más que todos los animales del campo que Jehová Dios había hecho; la cual dijo á la mujer: ¿Conque Dios os ha dicho: No comáis de todo árbol del huerto? 
 
 ^2^ Y la mujer respondió á la serpiente: Del fruto de los árboles del huerto comemos; ^3^ Mas del fruto del árbol que está en medio del huerto dijo Dios: No comeréis de él, ni le tocaréis, porque no muráis. 
 
 ^4^ Entonces la serpiente dijo á la mujer: No moriréis; ^5^ Mas sabe Dios que el día que comiereis de él, serán abiertos vuestros ojos, y seréis como dioses sabiendo el bien y el mal. 
 
-^6^ Y vió la mujer que el árbol era bueno para comer, y que era agradable á los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dió también á su marido, el cual comió así como ella. ^7^ Y fueron abiertos los ojos de entrambos, y conocieron que estaban desnudos: entonces cosieron hojas de higuera, y se hicieron delantales. ^8^ Y oyeron la voz de Jehová Dios que se paseaba en el huerto al aire del día: y escondióse el hombre y su mujer de la presencia de Jehová Dios entre los árboles del huerto. 
+^6^ Y vió la mujer que el árbol era bueno para comer, y que era agradable á los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dió también á su marido, el cual comió así como ella. ^7^ Y fueron abiertos los ojos de entrambos, y conocieron que estaban desnudos: entonces cosieron hojas de higuera, y se hicieron delantales.
+
+## El interrogatorio y el castigo
+^8^ Y oyeron la voz de Jehová Dios que se paseaba en el huerto al aire del día: y escondióse el hombre y su mujer de la presencia de Jehová Dios entre los árboles del huerto. 
 
 ^9^ Y llamó Jehová Dios al hombre, y le dijo: ¿Dónde estás tú? 
 
@@ -49,13 +73,16 @@
 
 ^17^ Y al hombre dijo: Por cuanto obedeciste á la voz de tu mujer, y comiste del árbol de que te mandé diciendo, No comerás de él; maldita será la tierra por amor de ti; con dolor comerás de ella todos los días de tu vida; ^18^ Espinos y cardos te producirá, y comerás hierba del campo; ^19^ En el sudor de tu rostro comerás el pan hasta que vuelvas á la tierra; porque de ella fuiste tomado: pues polvo eres, y al polvo serás tornado. 
 
+## La expulsión del paraíso
 ^20^ Y llamó el hombre el nombre de su mujer, Eva; por cuanto ella era madre de todos los vivientes. ^21^ Y Jehová Dios hizo al hombre y á su mujer túnicas de pieles, y vistiólos. 
 
 ^22^ Y dijo Jehová Dios: He aquí el hombre es como uno de Nos sabiendo el bien y el mal: ahora, pues, porque no alargue su mano, y tome también del árbol de la vida, y coma, y viva para siempre: ^23^ Y sacólo Jehová del huerto de Edén, para que labrase la tierra de que fué tomado. ^24^ Echó, pues, fuera al hombre, y puso al oriente del huerto de Edén querubines, y una espada encendida que se revolvía á todos lados, para guardar el camino del árbol de la vida. 
 
 # 4 
+## Caín y Abel
 ^1^ Y conoció Adam á su mujer Eva, la cual concibió y parió á Caín, y dijo: Adquirido he varón por Jehová. ^2^ Y después parió á su hermano Abel. Y fué Abel pastor de ovejas, y Caín fué labrador de la tierra. ^3^ Y aconteció andando el tiempo, que Caín trajo del fruto de la tierra una ofrenda á Jehová. ^4^ Y Abel trajo también de los primogénitos de sus ovejas, y de su grosura. Y miró Jehová con agrado á Abel y á su ofrenda; ^5^ Mas no miró propicio á Caín y á la ofrenda suya. Y ensañóse Caín en gran manera, y decayó su semblante. ^6^ Entonces Jehová dijo á Caín: ¿Por qué te has ensañado, y por qué se ha inmutado tu rostro? ^7^ Si bien hicieres, ¿no serás ensalzado? y si no hicieres bien, el pecado está á la puerta: con todo esto, á ti será su deseo, y tú te enseñorearás de él. ^8^ Y habló Caín á su hermano Abel: y aconteció que estando ellos en el campo, Caín se levantó contra su hermano Abel, y le mató. 
 
+## El castigo de Caín
 ^9^ Y Jehová dijo á Caín: ¿Dónde está Abel tu hermano? Y él respondió: No sé; ¿soy yo guarda de mi hermano? 
 
 ^10^ Y él le dijo: ¿Qué has hecho? La voz de la sangre de tu hermano clama á mí desde la tierra. ^11^ Ahora pues, maldito seas tú de la tierra que abrió su boca para recibir la sangre de tu hermano de tu mano: ^12^ Cuando labrares la tierra, no te volverá á dar su fuerza: errante y extranjero serás en la tierra. 
@@ -64,11 +91,16 @@
 
 ^15^ Y respondióle Jehová: Cierto que cualquiera que matare á Caín, siete veces será castigado. Entonces Jehová puso señal en Caín, para que no lo hiriese cualquiera que le hallara. 
 
-^16^ Y salió Caín de delante de Jehová, y habitó en tierra de Nod, al oriente de Edén. ^17^ Y conoció Caín á su mujer, la cual concibió y parió á Henoch: y edificó una ciudad, y llamó el nombre de la ciudad del nombre de su hijo, Henoch. ^18^ Y á Henoch nació Irad, é Irad engendró á Mehujael, y Mehujael engendró á Methusael, y Methusael engendró á Lamech. ^19^ Y tomó para sí Lamech dos mujeres; el nombre de la una fué Ada, y el nombre de la otra Zilla. ^20^ Y Ada parió á Jabal, el cual fué padre de los que habitan en tiendas, y crían ganados. ^21^ Y el nombre de su hermano fué Jubal, el cual fué padre de todos los que manejan arpa y órgano. ^22^ Y Zilla también parió á Tubal-Caín, acicalador de toda obra de metal y de hierro: y la hermana de Tubal-Caín fué Naama. ^23^ Y dijo Lamech á sus mujeres: Ada y Zilla, oid mi voz; mujeres de Lamech, escuchad mi dicho: que varón mataré por mi herida, y mancebo por mi golpe: ^24^ Si siete veces será vengado Caín, Lamech en verdad setenta veces siete lo será. 
+^16^ Y salió Caín de delante de Jehová, y habitó en tierra de Nod, al oriente de Edén.
 
+## Los hijos de Caín
+^17^ Y conoció Caín á su mujer, la cual concibió y parió á Henoch: y edificó una ciudad, y llamó el nombre de la ciudad del nombre de su hijo, Henoch. ^18^ Y á Henoch nació Irad, é Irad engendró á Mehujael, y Mehujael engendró á Methusael, y Methusael engendró á Lamech. ^19^ Y tomó para sí Lamech dos mujeres; el nombre de la una fué Ada, y el nombre de la otra Zilla. ^20^ Y Ada parió á Jabal, el cual fué padre de los que habitan en tiendas, y crían ganados. ^21^ Y el nombre de su hermano fué Jubal, el cual fué padre de todos los que manejan arpa y órgano. ^22^ Y Zilla también parió á Tubal-Caín, acicalador de toda obra de metal y de hierro: y la hermana de Tubal-Caín fué Naama. ^23^ Y dijo Lamech á sus mujeres: Ada y Zilla, oid mi voz; mujeres de Lamech, escuchad mi dicho: que varón mataré por mi herida, y mancebo por mi golpe: ^24^ Si siete veces será vengado Caín, Lamech en verdad setenta veces siete lo será. 
+
+## El nacimiento de Seth
 ^25^ Y conoció de nuevo Adam á su mujer, la cual parió un hijo, y llamó su nombre Seth: Porque Dios (dijo ella) me ha sustituído otra simiente en lugar de Abel, á quien mató Caín. ^26^ Y á Seth también le nació un hijo, y llamó su nombre Enós. Entonces los hombres comenzaron á llamarse del nombre de Jehová. 
 
 # 5 
+## La descendiencia de Seth hasta Noé
 ^1^ Este es el libro de las generaciones de Adam. El día en que crió Dios al hombre, á la semejanza de Dios lo hizo; ^2^ Varón y hembra los crió; y los bendijo, y llamó el nombre de ellos Adam, el día en que fueron criados. ^3^ Y vivió Adam ciento y treinta años, y engendró un hijo á su semejanza, conforme á su imagen, y llamó su nombre Seth. ^4^ Y fueron los días de Adam, después que engendró á Seth, ochocientos años: y engendró hijos é hijas. ^5^ Y fueron todos los días que vivió Adam novecientos y treinta años, y murió. 
 
 ^6^ Y vivió Seth ciento y cinco años, y engendró á Enós. ^7^ Y vivió Seth, después que engendró á Enós, ochocientos y siete años: y engendró hijos é hijas. ^8^ Y fueron todos los días de Seth novecientos y doce años; y murió. 
@@ -90,24 +122,34 @@
 ^32^ Y siendo Noé de quinientos años, engendró á Sem, Châm, y á Japhet. 
 
 # 6 
+## Los matrimonios de los hijos de Dios con las hijas de los hombres
 ^1^ Y acaeció que, cuando comenzaron los hombres á multiplicarse sobre la faz de la tierra, y les nacieron hijas, ^2^ Viendo los hijos de Dios que las hijas de los hombres eran hermosas, tomáronse mujeres, escogiendo entre todas. ^3^ Y dijo Jehová: No contenderá mi espíritu con el hombre para siempre, porque ciertamente él es carne: mas serán sus días ciento y veinte años. ^4^ Había gigantes en la tierra en aquellos días, y también después que entraron los hijos de Dios á las hijas de los hombres, y les engendraron hijos: éstos fueron los valientes que desde la antigüedad fueron varones de nombre. 
 
+## La maldad de los hombres. Anuncio del diluvio
 ^5^ Y vió Jehová que la malicia de los hombres era mucha en la tierra, y que todo designio de los pensamientos del corazón de ellos era de continuo solamente el mal. ^6^ Y arrepintióse Jehová de haber hecho hombre en la tierra, y pesóle en su corazón. ^7^ Y dijo Jehová: Raeré los hombres que he criado de sobre la faz de la tierra, desde el hombre hasta la bestia, y hasta el reptil y las aves del cielo: porque me arrepiento de haberlos hecho. ^8^ Empero Noé halló gracia en los ojos de Jehová. 
 
+## Llamado de Noé y la construcción del arca
 ^9^ Estas son las generaciones de Noé: Noé, varón justo, perfecto fué en sus generaciones; con Dios caminó Noé. ^10^ Y engendró Noé tres hijos: á Sem, á Châm, y á Japhet. ^11^ Y corrompióse la tierra delante de Dios, y estaba la tierra llena de violencia. ^12^ Y miró Dios la tierra, y he aquí que estaba corrompida; porque toda carne había corrompido su camino sobre la tierra. 
 
 ^13^ Y dijo Dios á Noé: El fin de toda carne ha venido delante de mí; porque la tierra está llena de violencia á causa de ellos; y he aquí que yo los destruiré con la tierra. ^14^ Hazte un arca de madera de Gopher: harás aposentos en el arca, y la embetunarás con brea por dentro y por fuera. ^15^ Y de esta manera la harás: de trescientos codos la longitud del arca, de cincuenta codos su anchura, y de treinta codos su altura. ^16^ Una ventana harás al arca, y la acabarás á un codo de elevación por la parte de arriba: y pondrás la puerta del arca á su lado; y le harás piso bajo, segundo y tercero. ^17^ Y yo, he aquí que yo traigo un diluvio de aguas sobre la tierra, para destruir toda carne en que haya espíritu de vida debajo del cielo; todo lo que hay en la tierra morirá. ^18^ Mas estableceré mi pacto contigo, y entrarás en el arca tú, y tus hijos y tu mujer, y las mujeres de tus hijos contigo. ^19^ Y de todo lo que vive, de toda carne, dos de cada especie meterás en el arca, para que tengan vida contigo; macho y hembra serán. ^20^ De las aves según su especie, y de las bestias según su especie, de todo reptil de la tierra según su especie, dos de cada especie entrarán contigo para que hayan vida. ^21^ Y toma contigo de toda vianda que se come, y allégala á ti; servirá de alimento para ti y para ellos. ^22^ E hízolo así Noé; hizo conforme á todo lo que Dios le mandó. 
 
 # 7 
+## El diluvio. Noé entra la arca
 ^1^ Y jehová dijo á Noé: Entra tú y toda tu casa en el arca; porque á ti he visto justo delante de mí en esta generación. ^2^ De todo animal limpio te tomarás de siete en siete, macho y su hembra; mas de los animales que no son limpios, dos, macho y su hembra. ^3^ También de las aves de los cielos de siete en siete, macho y hembra; para guardar en vida la casta sobre la faz de toda la tierra. ^4^ Porque pasados aún siete días, yo haré llover sobre la tierra cuarenta días y cuarenta noches; y raeré toda sustancia que hice de sobre la faz de la tierra. 
 
 ^5^ E hizo Noé conforme á todo lo que le mandó Jehová. 
 
-^6^ Y siendo Noé de seiscientos años, el diluvio de las aguas fué sobre la tierra. ^7^ Y vino Noé, y sus hijos, y su mujer, y las mujeres de sus hijos con él al arca, por las aguas del diluvio. ^8^ De los animales limpios, y de los animales que no eran limpios, y de las aves, y de todo lo que anda arrastrando sobre la tierra, ^9^ De dos en dos entraron á Noé en el arca: macho y hembra, como mandó Dios á Noé. ^10^ Y sucedió que al séptimo día las aguas del diluvio fueron sobre la tierra. ^11^ El año seiscientos de la vida de Noé, en el mes segundo, á diecisiete días del mes, aquel día fueron rotas todas las fuentes del grande abismo, y las cataratas de los cielos fueron abiertas; ^12^ Y hubo lluvia sobre la tierra cuarenta días y cuarenta noches. 
+^6^ Y siendo Noé de seiscientos años, el diluvio de las aguas fué sobre la tierra. ^7^ Y vino Noé, y sus hijos, y su mujer, y las mujeres de sus hijos con él al arca, por las aguas del diluvio. ^8^ De los animales limpios, y de los animales que no eran limpios, y de las aves, y de todo lo que anda arrastrando sobre la tierra, ^9^ De dos en dos entraron á Noé en el arca: macho y hembra, como mandó Dios á Noé. ^10^ Y sucedió que al séptimo día las aguas del diluvio fueron sobre la tierra.
 
-^13^ En este mismo día entró Noé, y Sem y Châm y Japhet, hijos de Noé, la mujer de Noé, y las tres mujeres de sus hijos con él en el arca; ^14^ Ellos, y todos los animales silvestres según sus especies, y todos los animales mansos según sus especies, y todo reptil que anda arrastrando sobre la tierra según su especie, y toda ave según su especie, todo pájaro, toda especie de volátil. ^15^ Y vinieron á Noé al arca, de dos en dos de toda carne en que había espíritu de vida. ^16^ Y los que vinieron, macho y hembra de toda carne vinieron, como le había mandado Dios: y Jehová le cerró la puerta. ^17^ Y fué el diluvio cuarenta días sobre la tierra; y las aguas crecieron, y alzaron el arca, y se elevó sobre la tierra. ^18^ Y prevalecieron las aguas, y crecieron en gran manera sobre la tierra; y andaba el arca sobre la faz de las aguas. ^19^ Y las aguas prevalecieron mucho en extremo sobre la tierra; y todos los montes altos que había debajo de todos los cielos, fueron cubiertos. ^20^ Quince codos en alto prevalecieron las aguas; y fueron cubiertos los montes. ^21^ Y murió toda carne que se mueve sobre la tierra, así de aves como de ganados, y de bestias, y de todo reptil que anda arrastrando sobre la tierra, y todo hombre: ^22^ Todo lo que tenía aliento de espíritu de vida en sus narices, de todo lo que había en la tierra, murió. ^23^ Así fué destruída toda sustancia que vivía sobre la faz de la tierra, desde el hombre hasta la bestia, y los reptiles, y las aves del cielo; y fueron raídos de la tierra; y quedó solamente Noé, y lo que con él estaba en el arca. ^24^ Y prevalecieron las aguas sobre la tierra ciento y cincuenta días. 
+## El aumento del diluvio
+^11^ El año seiscientos de la vida de Noé, en el mes segundo, á diecisiete días del mes, aquel día fueron rotas todas las fuentes del grande abismo, y las cataratas de los cielos fueron abiertas; ^12^ Y hubo lluvia sobre la tierra cuarenta días y cuarenta noches. 
+
+^13^ En este mismo día entró Noé, y Sem y Châm y Japhet, hijos de Noé, la mujer de Noé, y las tres mujeres de sus hijos con él en el arca; ^14^ Ellos, y todos los animales silvestres según sus especies, y todos los animales mansos según sus especies, y todo reptil que anda arrastrando sobre la tierra según su especie, y toda ave según su especie, todo pájaro, toda especie de volátil. ^15^ Y vinieron á Noé al arca, de dos en dos de toda carne en que había espíritu de vida. ^16^ Y los que vinieron, macho y hembra de toda carne vinieron, como le había mandado Dios: y Jehová le cerró la puerta.
+
+^17^ Y fué el diluvio cuarenta días sobre la tierra; y las aguas crecieron, y alzaron el arca, y se elevó sobre la tierra. ^18^ Y prevalecieron las aguas, y crecieron en gran manera sobre la tierra; y andaba el arca sobre la faz de las aguas. ^19^ Y las aguas prevalecieron mucho en extremo sobre la tierra; y todos los montes altos que había debajo de todos los cielos, fueron cubiertos. ^20^ Quince codos en alto prevalecieron las aguas; y fueron cubiertos los montes. ^21^ Y murió toda carne que se mueve sobre la tierra, así de aves como de ganados, y de bestias, y de todo reptil que anda arrastrando sobre la tierra, y todo hombre: ^22^ Todo lo que tenía aliento de espíritu de vida en sus narices, de todo lo que había en la tierra, murió. ^23^ Así fué destruída toda sustancia que vivía sobre la faz de la tierra, desde el hombre hasta la bestia, y los reptiles, y las aves del cielo; y fueron raídos de la tierra; y quedó solamente Noé, y lo que con él estaba en el arca. ^24^ Y prevalecieron las aguas sobre la tierra ciento y cincuenta días. 
 
 # 8 
+## El fin del diluvio
 ^1^ Y acordóse Dios de Noé, y de todos los animales, y de todas las bestias que estaban con él en el arca; é hizo pasar Dios un viento sobre la tierra, y disminuyeron las aguas. ^2^ Y se cerraron las fuentes del abismo, y las cataratas de los cielos; y la lluvia de los cielos fué detenida. ^3^ Y tornáronse las aguas de sobre la tierra, yendo y volviendo: y decrecieron las aguas al cabo de ciento y cincuenta días. ^4^ Y reposó el arca en el mes séptimo, á diecisiete días del mes, sobre los montes de Armenia. ^5^ Y las aguas fueron decreciendo hasta el mes décimo: en el décimo, al primero del mes, se descubrieron las cimas de los montes. 
 
 ^6^ Y sucedió que, al cabo de cuarenta días, abrió Noé la ventana del arca que había hecho, ^7^ Y envió al cuervo, el cual salió, y estuvo yendo y tornando hasta que las aguas se secaron de sobre la tierra. ^8^ Envió también de sí á la paloma, para ver si las aguas se habían retirado de sobre la faz de la tierra; ^9^ Y no halló la paloma donde sentar la planta de su pie, y volvióse á él al arca, porque las aguas estaban aún sobre la faz de toda la tierra: entonces él extendió su mano, y cogiéndola, hízola entrar consigo en el arca. ^10^ Y esperó aún otros siete días, y volvió á enviar la paloma fuera del arca. ^11^ Y la paloma volvió á él á la hora de la tarde; y he aquí que traía una hoja de oliva tomada en su pico: y entendió Noé que las aguas se habían retirado de sobre la tierra. ^12^ Y esperó aún otros siete días, y envió la paloma, la cual no volvió ya más á él. 
@@ -118,13 +160,17 @@
 
 ^18^ Entonces salió Noé, y sus hijos, y su mujer, y las mujeres de sus hijos con él. ^19^ Todos los animales, y todo reptil y toda ave, todo lo que se mueve sobre la tierra según sus especies, salieron del arca. 
 
+## El holocausto de Noé y la promesa de Dios
 ^20^ Y edificó Noé un altar á Jehová, y tomó de todo animal limpio y de toda ave limpia, y ofreció holocausto en el altar. ^21^ Y percibió Jehová olor de suavidad; y dijo Jehová en su corazón: No tornaré más á maldecir la tierra por causa del hombre; porque el intento del corazón del hombre es malo desde su juventud: ni volveré más á destruir todo viviente, como he hecho. ^22^ Todavía serán todos los tiempos de la tierra; la sementera y la siega, y el frío y calor, verano é invierno, y día y noche, no cesarán. 
 
 # 9 
+## Renovación de la bendición de la creación
 ^1^ Y bendijo Dios á Noé y á sus hijos, y díjoles: Fructificad, y multiplicad, y henchid la tierra: ^2^ Y vuestro temor y vuestro pavor será sobre todo animal de la tierra, y sobre toda ave de los cielos, en todo lo que se moverá en la tierra, y en todos los peces del mar: en vuestra mano son entregados. ^3^ Todo lo que se mueve y vive, os será para mantenimiento: así como las legumbres y hierbas, os lo he dado todo. ^4^ Empero carne con su vida, que es su sangre, no comeréis. ^5^ Porque ciertamente demandaré la sangre de vuestras vidas; de mano de todo animal la demandaré, y de mano del hombre; de mano del varón su hermano demandaré la vida del hombre. ^6^ El que derramare sangre del hombre, por el hombre su sangre será derramada; porque á imagen de Dios es hecho el hombre. ^7^ Mas vosotros fructificad, y multiplicaos; procread abundantemente en la tierra, y multiplicaos en ella. 
 
+## El pacto entro Dios y Noé y la creación
 ^8^ Y habló Dios á Noé y á sus hijos con él, diciendo: ^9^ Yo, he aquí que yo establezco mi pacto con vosotros, y con vuestra simiente después de vosotros; ^10^ Y con toda alma viviente que está con vosotros, de aves, de animales, y de toda bestia de la tierra que está con vosotros; desde todos los que salieron del arca hasta todo animal de la tierra. ^11^ Estableceré mi pacto con vosotros, y no fenecerá ya más toda carne con aguas de diluvio; ni habrá más diluvio para destruir la tierra. ^12^ Y dijo Dios: Esta será la señal del pacto que yo establezco entre mí y vosotros y toda alma viviente que está con vosotros, por siglos perpetuos: ^13^ Mi arco pondré en las nubes, el cual será por señal de convenio entre mí y la tierra. ^14^ Y será que cuando haré venir nubes sobre la tierra, se dejará ver entonces mi arco en las nubes. ^15^ Y acordarme he del pacto mío, que hay entre mí y vosotros y toda alma viviente de toda carne; y no serán más las aguas por diluvio para destruir toda carne. ^16^ Y estará el arco en las nubes, y verlo he para acordarme del pacto perpetuo entre Dios y toda alma viviente, con toda carne que hay sobre la tierra. ^17^ Dijo, pues, Dios á Noé: Esta será la señal del pacto que he establecido entre mí y toda carne que está sobre la tierra. 
 
+## La embriaguez de Noé
 ^18^ Y los hijos de Noé que salieron del arca fueron Sem, Châm y Japhet: y Châm es el padre de Canaán. ^19^ Estos tres son los hijos de Noé; y de ellos fué llena toda la tierra. 
 
 ^20^ Y comenzó Noé á labrar la tierra, y plantó una viña: ^21^ Y bebió del vino, y se embriagó, y estaba descubierto en medio de su tienda. ^22^ Y Châm, padre de Canaán, vió la desnudez de su padre, y díjolo á sus dos hermanos á la parte de afuera. ^23^ Entonces Sem y Japhet tomaron la ropa, y la pusieron sobre sus propios hombros, y andando hacia atrás, cubrieron la desnudez de su padre, teniendo vueltos sus rostros, y así no vieron la desnudez de su padre. ^24^ Y despertó Noé de su vino, y supo lo que había hecho con él su hijo el más joven; ^25^ Y dijo: Maldito sea Canaán; siervo de siervos será á sus hermanos. 
@@ -134,6 +180,7 @@
 ^28^ Y vivió Noé después del diluvio trescientos y cincuenta años. ^29^ Y fueron todos los días de Noé novecientos y cincuenta años; y murió. 
 
 # 10 
+## Los descendientes de los hijos de Noé
 ^1^ Estas son las generaciones de los hijos de Noé: Sem, Châm y Japhet, á los cuales nacieron hijos después del diluvio. 
 
 ^2^ Los hijos de Japhet: Gomer, y Magog, y Madai, y Javán, y Tubal, y Meshech, y Tiras. ^3^ Y los hijos de Gomer: Ashkenaz, y Riphat, y Togorma. ^4^ Y los hijos de Javán: Elisa, y Tarsis, Kittim, y Dodanim. ^5^ Por éstos fueron repartidas las islas de las gentes en sus tierras, cada cual según su lengua, conforme á sus familias en sus naciones. 
@@ -147,10 +194,12 @@
 ^32^ Estas son las familias de Noé por sus descendencias, en sus naciones; y de éstos fueron divididas las gentes en la tierra después del diluvio. 
 
 # 11 
+## La torre de Babel
 ^1^ Era entonces toda la tierra de una lengua y unas mismas palabras. ^2^ Y aconteció que, como se partieron de oriente, hallaron una vega en la tierra de Shinar, y asentaron allí. ^3^ Y dijeron los unos á los otros: Vaya, hagamos ladrillo y cozámoslo con fuego. Y fuéles el ladrillo en lugar de piedra, y el betún en lugar de mezcla. ^4^ Y dijeron: Vamos, edifiquémonos una ciudad y una torre, cuya cúspide llegue al cielo; y hagámonos un nombre, por si fuéremos esparcidos sobre la faz de toda la tierra. 
 
 ^5^ Y descendió Jehová para ver la ciudad y la torre que edificaban los hijos de los hombres. ^6^ Y dijo Jehová: He aquí el pueblo es uno, y todos éstos tienen un lenguaje: y han comenzado á obrar, y nada les retraerá ahora de lo que han pensando hacer. ^7^ Ahora pues, descendamos, y confundamos allí sus lenguas, para que ninguno entienda el habla de su compañero. ^8^ Así los esparció Jehová desde allí sobre la faz de toda la tierra, y dejaron de edificar la ciudad. ^9^ Por esto fué llamado el nombre de ella Babel, porque allí confundió Jehová el lenguaje de toda la tierra, y desde allí los esparció sobre la faz de toda la tierra. 
 
+## Los descendientes de Sem
 ^10^ Estas son las generaciones de Sem: Sem, de edad de cien años, engendró á Arphaxad, dos años después del diluvio. ^11^ Y vivió Sem, después que engendró á Arphaxad, quinientos años, y engendró hijos é hijas. 
 
 ^12^ Y Arphaxad vivió treinta y cinco años, y engendró á Sala. ^13^ Y vivió Arphaxad, después que engendró á Sala, cuatrocientos y tres años, y engendró hijos é hijas. 
@@ -169,17 +218,21 @@
 
 ^26^ Y vivió Thare setenta años, y engendró á Abram, y á Nachôr, y á Harán. 
 
+## Los descendientes de Thare
 ^27^ Estas son las generaciones de Thare: Thare engendró á Abram, y á Nachôr, y á Harán; y Harán engendró á Lot. ^28^ Y murió Harán antes que su padre Thare en la tierra de su naturaleza, en Ur de los Caldeos. ^29^ Y tomaron Abram y Nachôr para sí mujeres: el nombre de la mujer de Abram fué Sarai, y el nombre de la mujer de Nachôr, Milca, hija de Harán, padre de Milca y de Isca. ^30^ Mas Sarai fué estéril, y no tenía hijo. ^31^ Y tomó Thare á Abram su hijo, y á Lot hijo de Harán, hijo de su hijo, y á Sarai su nuera, mujer de Abram su hijo: y salió con ellos de Ur de los Caldeos, para ir á la tierra de Canaán: y vinieron hasta Harán, y asentaron allí. ^32^ Y fueron los días de Thare doscientos y cinco años; y murió Thare en Harán. 
 
 # 12 
+## El llamado de Abram
 ^1^ Empero Jehová había dicho á Abram: Vete de tu tierra y de tu parentela, y de la casa de tu padre, á la tierra que te mostraré; ^2^ Y haré de ti una nación grande, y bendecirte he, y engrandeceré tu nombre, y serás bendición: ^3^ Y bendeciré á los que te bendijeren, y á los que te maldijeren maldeciré: y serán benditas en ti todas las familias de la tierra. 
 
+## La Inmigración de Abram a Canaán
 ^4^ Y fuése Abram, como Jehová le dijo; y fué con él Lot: y era Abram de edad de setenta y cinco años cuando salió de Harán. ^5^ Y tomó Abram á Sarai su mujer, y á Lot hijo de su hermano, y toda su hacienda que habían ganado, y las almas que habían adquirido en Harán, y salieron para ir á tierra de Canaán; y á tierra de Canaán llegaron. ^6^ Y pasó Abram por aquella tierra hasta el lugar de Sichêm, hasta el valle de Moreh: y el Cananeo estaba entonces en la tierra. 
 
 ^7^ Y apareció Jehová á Abram, y le dijo: A tu simiente daré esta tierra. Y edificó allí un altar á Jehová, que le había aparecido. 
 
 ^8^ Y pasóse de allí á un monte al oriente de Bethel, y tendió su tienda, teniendo á Bethel al occidente y Hai al oriente: y edificó allí altar á Jehová, é invocó el nombre de Jehová. ^9^ Y movió Abram de allí, caminando y yendo hacia el Mediodía. 
 
+## Abram y Sarai en Egipto
 ^10^ Y hubo hambre en la tierra, y descendió Abram á Egipto para peregrinar allá; porque era grande el hambre en la tierra. ^11^ Y aconteció que cuando estaba para entrar en Egipto, dijo á Sarai su mujer: He aquí, ahora conozco que eres mujer hermosa de vista; ^12^ Y será que cuando te habrán visto los Egipcios, dirán: Su mujer es: y me matarán á mí, y á ti te reservarán la vida. ^13^ Ahora pues, di que eres mi hermana, para que yo haya bien por causa tuya, y viva mi alma por amor de ti. 
 
 ^14^ Y aconteció que, como entró Abram en Egipto, los Egipcios vieron la mujer que era hermosa en gran manera. ^15^ Viéronla también los príncipes de Faraón, y se la alabaron; y fué llevada la mujer á casa de Faraón: ^16^ E hizo bien á Abram por causa de ella; y tuvo ovejas, y vacas, y asnos, y siervos, y criadas, y asnas y camellos. ^17^ Mas Jehová hirió á Faraón y á su casa con grandes plagas, por causa de Sarai mujer de Abram. ^18^ Entonces Faraón llamó á Abram, y le dijo: ¿Qué es esto que has hecho conmigo? ¿Por qué no me declaraste que era tu mujer? ^19^ ¿Por qué dijiste: Es mi hermana? poniéndome en ocasión de tomarla para mí por mujer? Ahora pues, he aquí tu mujer, tómala y vete. 
@@ -187,43 +240,57 @@
 ^20^ Entonces Faraón dió orden á sus gentes acerca de Abram; y le acompañaron, y á su mujer con todo lo que tenía. 
 
 # 13 
-^1^ Subió, pues, Abram de Egipto hacia el Mediodía, él, y su mujer, con todo lo que tenía, y con él Lot. ^2^ Y Abram era riquísimo en ganado, en plata y oro. ^3^ Y volvió por sus jornadas de la parte del Mediodía hacia Bethel, hasta el lugar donde había estado antes su tienda entre Bethel y Hai; ^4^ Al lugar del altar que había hecho allí antes: é invocó allí Abram el nombre de Jehová. ^5^ Y asimismo Lot, que andaba con Abram, tenía ovejas, y vacas, y tiendas. ^6^ Y la tierra no podía darles para que habitasen juntos: porque su hacienda era mucha, y no podían morar en un mismo lugar. ^7^ Y hubo contienda entre los pastores del ganado de Abram y los pastores del ganado de Lot: y el Cananeo y el Pherezeo habitaban entonces en la tierra. ^8^ Entonces Abram dijo á Lot: No haya ahora altercado entre mí y ti, entre mis pastores y los tuyos, porque somos hermanos. ^9^ ¿No está toda la tierra delante de ti? Yo te ruego que te apartes de mí. Si fueres á la mano izquierda, yo iré á la derecha: y si tú á la derecha, yo iré á la izquierda. 
+## El regreso de Abram
+^1^ Subió, pues, Abram de Egipto hacia el Mediodía, él, y su mujer, con todo lo que tenía, y con él Lot. ^2^ Y Abram era riquísimo en ganado, en plata y oro. ^3^ Y volvió por sus jornadas de la parte del Mediodía hacia Bethel, hasta el lugar donde había estado antes su tienda entre Bethel y Hai; ^4^ Al lugar del altar que había hecho allí antes: é invocó allí Abram el nombre de Jehová.
 
+## Abram se separa de Lot
+^5^ Y asimismo Lot, que andaba con Abram, tenía ovejas, y vacas, y tiendas. ^6^ Y la tierra no podía darles para que habitasen juntos: porque su hacienda era mucha, y no podían morar en un mismo lugar. ^7^ Y hubo contienda entre los pastores del ganado de Abram y los pastores del ganado de Lot: y el Cananeo y el Pherezeo habitaban entonces en la tierra. ^8^ Entonces Abram dijo á Lot: No haya ahora altercado entre mí y ti, entre mis pastores y los tuyos, porque somos hermanos. ^9^ ¿No está toda la tierra delante de ti? Yo te ruego que te apartes de mí. Si fueres á la mano izquierda, yo iré á la derecha: y si tú á la derecha, yo iré á la izquierda. 
+
+## Salida de Lot por el valle del Jordán
 ^10^ Y alzó Lot sus ojos, y vió toda la llanura del Jordán, que toda ella era de riego, antes que destruyese Jehová á Sodoma y á Gomorra, como el huerto de Jehová, como la tierra de Egipto entrando en Zoar. ^11^ Entonces Lot escogió para sí toda la llanura del Jordán: y partióse Lot de Oriente, y apartáronse el uno del otro. ^12^ Abram asentó en la tierra de Canaán, y Lot asentó en las ciudades de la llanura, y fué poniendo sus tiendas hasta Sodoma. ^13^ Mas los hombres de Sodoma eran malos y pecadores para con Jehová en gran manera. 
 
+## Dios promete a Abram el país de Canán
 ^14^ Y Jehová dijo á Abram, después que Lot se apartó de él: Alza ahora tus ojos, y mira desde el lugar donde estás hacia el Aquilón, y al Mediodía, y al Oriente y al Occidente; ^15^ Porque toda la tierra que ves, la daré á ti y á tu simiente para siempre. ^16^ Y haré tu simiente como el polvo de la tierra: que si alguno podrá contar el polvo de la tierra, también tu simiente será contada. ^17^ Levántate, ve por la tierra á lo largo de ella y á su ancho; porque á ti la tengo de dar. 
 
 ^18^ Abram, pues, removiendo su tienda, vino y moró en el alcornocal de Mamre, que es en Hebrón, y edificó allí altar á Jehová. 
 
 # 14 
+## Guerra del rey Kedorlaomer en el valle del Jordan
 ^1^ Y aconteció en los días de Amraphel, rey de Shinar, Arioch, rey de Elazar, Chêdorlaomer, rey de Elá, y Tidal, rey de naciones, ^2^ Que éstos hicieron guerra contra Bera, rey de Sodoma, y contra Birsha, rey de Gomorra, y contra Shinab, rey de Adma, y contra Shemeber, rey de Zeboim, y contra el rey de Bela, la cual es Zoar. ^3^ Todos estos se juntaron en el valle de Siddim, que es el mar salado. ^4^ Doce años habían servido á Chêdorlaomer, y al décimotercio año se rebelaron. ^5^ Y en el año décimocuarto vino Chêdorlaomer, y los reyes que estaban de su parte, y derrotaron á los Raphaitas en Ashteroth-carnaim, á los Zuzitas en Ham, y á los Emitas en Shave-Kiriataim. ^6^ Y á los Horeos en el monte de Seir, hasta la llanura de Parán, que está junto al desierto. ^7^ Y volvieron, y vinieron á Emmisphat, que es Cades, y devastaron todas las haciendas de los Amalecitas, y también al Amorrheo, que habitaba en Hazezón-tamar. ^8^ Y salió el rey de Sodoma, y el rey de Gomorra, y el rey de Adma, y el rey de Zeboim, y el rey de Bela, que es Zoar, y ordenaron contra ellos batalla en el valle de Siddim; ^9^ Es á saber, contra Chêdorlaomer, rey de Elam, y Tidal, rey de naciones, y Amraphel, rey de Shinar, y Arioch, rey de Elasar; cuatro reyes contra cinco. ^10^ Y el valle de Siddim estaba lleno de pozos de betún: y huyeron el rey de Sodoma y el de Gomorra, y cayeron allí; y los demás huyeron al monte. ^11^ Y tomaron toda la riqueza de Sodoma y de Gomorra, y todas sus vituallas, y se fueron. ^12^ Tomaron también á Lot, hijo del hermano de Abram, que moraba en Sodoma, y su hacienda, y se fueron. 
 
+## Ayuda de Abram por Lot
 ^13^ Y vino uno de los que escaparon, y denunciólo á Abram el Hebreo, que habitaba en el valle de Mamre Amorrheo, hermano de Eschôl y hermano de Aner, los cuales estaban confederados con Abram. ^14^ Y oyó Abram que su hermano estaba prisionero, y armó sus criados, los criados de su casa, trescientos dieciocho, y siguiólos hasta Dan. ^15^ Y derramóse sobre ellos de noche él y sus siervos, é hiriólos, y fuélos siguiendo hasta Hobah, que está á la izquierda de Damasco. ^16^ Y recobró todos los bienes, y también á Lot su hermano y su hacienda, y también las mujeres y gente. 
 
+## Abram encuentra Melchîsedec, rey de Salem
 ^17^ Y salió el rey de Sodoma á recibirlo, cuando volvía de la derrota de Chêdorlaomer y de los reyes que con él estaban, al valle de Shave, que es el valle del Rey. ^18^ Entonces Melchîsedec, rey de Salem, sacó pan y vino; el cual era sacerdote del Dios alto; ^19^ Y bendíjole, y dijo: Bendito sea Abram del Dios alto, poseedor de los cielos y de la tierra; ^20^ Y bendito sea el Dios alto, que entregó tus enemigos en tu mano. Y dióle Abram los diezmos de todo. 
 
+## La humildad de Abram con el rey de Sodoma
 ^21^ Entonces el rey de Sodoma dijo á Abram: Dame las personas, y toma para ti la hacienda. 
 
 ^22^ Y respondió Abram al rey de Sodoma: He alzado mi mano á Jehová Dios alto, poseedor de los cielos y de la tierra, ^23^ Que desde un hilo hasta la correa de un calzado, nada tomaré de todo lo que es tuyo, porque no digas: Yo enriquecí á Abram: ^24^ Sacando solamente lo que comieron los mancebos, y la porción de los varones que fueron conmigo, Aner, Eschôl, y Mamre; los cuales tomarán su parte. 
 
 # 15 
+## Dios promete a Abram un hijo
 ^1^ Después de estas cosas fué la palabra de Jehová á Abram en visión, diciendo: No temas, Abram; yo soy tu escudo, y tu galardón sobremanera grande. 
 
 ^2^ Y respondió Abram: Señor Jehová ¿qué me has de dar, siendo así que ando sin hijo, y el mayordomo de mi casa es ese Damasceno Eliezer? ^3^ Dijo más Abram: Mira que no me has dado prole, y he aquí que es mi heredero uno nacido en mi casa. 
 
-^4^ Y luego la palabra de Jehová fué á él diciendo: No te heredará éste, sino el que saldrá de tus entrañas será el que te herede. ^5^ Y sacóle fuera, y dijo: Mira ahora á los cielos, y cuenta las estrellas, si las puedes contar. Y le dijo: Así será tu simiente. ^6^ Y creyó á Jehová, y contóselo por justicia. ^7^ Y díjole: Yo soy Jehová, que te saqué de Ur de los Caldeos, para darte á heredar esta tierra. 
+^4^ Y luego la palabra de Jehová fué á él diciendo: No te heredará éste, sino el que saldrá de tus entrañas será el que te herede. ^5^ Y sacóle fuera, y dijo: Mira ahora á los cielos, y cuenta las estrellas, si las puedes contar. Y le dijo: Así será tu simiente. ^6^ Y creyó á Jehová, y contóselo por justicia. 
 
-^8^ Y él respondió: Señor Jehová, ¿en qué conoceré que la tengo de heredar? 
+## Dios confirme su promesa
+^7^ Y díjole: Yo soy Jehová, que te saqué de Ur de los Caldeos, para darte á heredar esta tierra. ^8^ Y él respondió: Señor Jehová, ¿en qué conoceré que la tengo de heredar? 
 
 ^9^ Y le dijo: Apártame una becerra de tres años, y una cabra de tres años, y un carnero de tres años, una tórtola también, y un palomino. ^10^ Y tomó él todas estas cosas, y partiólas por la mitad, y puso cada mitad una enfrente de otra; mas no partió las aves. ^11^ Y descendían aves sobre los cuerpos muertos, y ojeábalas Abram. 
 
 ^12^ Mas á la caída del sol sobrecogió el sueño á Abram, y he aquí que el pavor de una grande obscuridad cayó sobre él. ^13^ Entonces dijo á Abram: Ten por cierto que tu simiente será peregrina en tierra no suya, y servirá á los de allí, y serán por ellos afligidos cuatrocientos años. ^14^ Mas también á la gente á quien servirán, juzgaré yo; y después de esto saldrán con grande riqueza. ^15^ Y tú vendrás á tus padres en paz, y serás sepultado en buena vejez. ^16^ Y en la cuarta generación volverán acá: porque aun no está cumplida la maldad del Amorrheo hasta aquí. ^17^ Y sucedió que puesto el sol, y ya obscurecido, dejóse ver un horno humeando, y una antorcha de fuego que pasó por entre los animales divididos. ^18^ En aquel día hizo Jehová un pacto con Abram diciendo: A tu simiente daré esta tierra desde el río de Egipto hasta el río grande, el río Eufrates; ^19^ Los Cineos, y los Ceneceos, y los Cedmoneos, ^20^ Y los Hetheos, y los Pherezeos, y los Raphaitas, ^21^ Y los Amorrheos, y los Cananeos, y los Gergeseos, y los Jebuseos. 
 
 # 16 
+## Sarai da a su sierva Agar como mujer á Abram
 ^1^ Y sarai, mujer de Abram, no le paría: y ella tenía una sierva egipcia, que se llamaba Agar. ^2^ Dijo, pues, Sarai á Abram: Ya ves que Jehová me ha hecho estéril: ruégote que entres á mi sierva; quizá tendré hijos de ella. Y atendió Abram al dicho de Sarai. ^3^ Y Sarai, mujer de Abram, tomó á Agar su sierva egipcia, al cabo de diez años que había habitado Abram en la tierra de Canaán, y dióla á Abram su marido por mujer. ^4^ Y él cohabitó con Agar, la cual concibió: y cuando vió que había concebido, miraba con desprecio á su señora. ^5^ Entonces Sarai dijo á Abram: Mi afrenta sea sobre ti: yo puse mi sierva en tu seno, y viéndose embarazada, me mira con desprecio; juzgue Jehová entre mí y ti. 
 
 ^6^ Y respondió Abram á Sarai: He ahí tu sierva en tu mano, haz con ella lo que bien te pareciere. Y como Sarai la afligiese, huyóse de su presencia. 
 
+## Dios aparece a Agar á una fuente de agua en el desierto
 ^7^ Y hallóla el ángel de Jehová junto á una fuente de agua en el desierto, junto á la fuente que está en el camino del Sur. ^8^ Y le dijo: Agar, sierva de Sarai, ¿de dónde vienes tú, y á dónde vas? Y ella respondió: Huyo de delante de Sarai, mi señora. 
 
 ^9^ Y díjole el ángel de Jehová: Vuélvete á tu señora, y ponte sumisa bajo de su mano. ^10^ Díjole también el ángel de Jehová: Multiplicaré tanto tu linaje, que no será contado á causa de la muchedumbre. ^11^ Díjole aún el ángel de Jehová: He aquí que has concebido, y parirás un hijo, y llamarás su nombre Ismael, porque oído ha Jehová tu aflicción. ^12^ Y él será hombre fiero; su mano contra todos, y las manos de todos contra él, y delante de todos sus hermanos habitará. 
@@ -233,21 +300,28 @@
 ^15^ Y parió Agar á Abram un hijo, y llamó Abram el nombre de su hijo que le parió Agar, Ismael. ^16^ Y era Abram de edad de ochenta y seis años, cuando parió Agar á Ismael. 
 
 # 17 
+## Dios confirme su pacto con Abram
 ^1^ Y siendo Abram de edad de noventa y nueve años, aparecióle Jehová, y le dijo: Yo soy el Dios Todopoderoso; anda delante de mí, y sé perfecto. ^2^ Y pondré mi pacto entre mí y ti, y multiplicarte he mucho en gran manera. 
 
 ^3^ Entonces Abram cayó sobre su rostro, y Dios habló con él diciendo: ^4^ Yo, he aquí mi pacto contigo: Serás padre de muchedumbre de gentes: ^5^ Y no se llamará más tu nombre Abram, sino que será tu nombre Abraham, porque te he puesto por padre de muchedumbre de gentes. ^6^ Y multiplicarte he mucho en gran manera, y te pondré en gentes, y reyes saldrán de ti. ^7^ Y estableceré mi pacto entre mí y ti, y tu simiente después de ti en sus generaciones, por alianza perpetua, para serte á ti por Dios, y á tu simiente después de ti. ^8^ Y te daré á ti, y á tu simiente después de ti, la tierra de tus peregrinaciones, toda la tierra de Canaán en heredad perpetua; y seré el Dios de ellos. 
 
+## La circuncision
 ^9^ Dijo de nuevo Dios á Abraham: Tú empero guardarás mi pacto, tú y tu simiente después de ti por sus generaciones. ^10^ Este será mi pacto, que guardaréis entre mí y vosotros y tu simiente después de ti: Será circuncidado todo varón de entre vosotros. ^11^ Circuncidaréis, pues, la carne de vuestro prepucio, y será por señal del pacto entre mí y vosotros. ^12^ Y de edad de ocho días será circuncidado todo varón entre vosotros por vuestras generaciones: el nacido en casa, y el comprado á dinero de cualquier extranjero, que no fuere de tu simiente. ^13^ Debe ser circuncidado el nacido en tu casa, y el comprado por tu dinero: y estará mi pacto en vuestra carne para alianza perpetua. ^14^ Y el varón incircunciso que no hubiere circuncidado la carne de su prepucio, aquella persona será borrada de su pueblo; ha violado mi pacto. 
 
+## Dios promete Abraham un hijo de Sara
 ^15^ Dijo también Dios á Abraham: A Sarai tu mujer no la llamarás Sarai, mas Sara será su nombre. ^16^ Y bendecirla he, y también te daré de ella hijo; sí, la bendeciré, y vendrá á ser madre de naciones; reyes de pueblos serán de ella. 
 
 ^17^ Entonces Abraham cayó sobre su rostro, y rióse, y dijo en su corazón: ¿A hombre de cien años ha de nacer hijo? ¿y Sara, ya de noventa años, ha de parir? ^18^ Y dijo Abraham á Dios: Ojalá Ismael viva delante de ti. 
 
 ^19^ Y respondió Dios: Ciertamente Sara tu mujer te parirá un hijo, y llamarás su nombre Isaac; y confirmaré mi pacto con él por alianza perpetua para su simiente después de él. ^20^ Y en cuanto á Ismael, también te he oído: he aquí que le bendeciré, y le haré fructificar y multiplicar mucho en gran manera: doce príncipes engendrará, y ponerlo he por gran gente. ^21^ Mas yo estableceré mi pacto con Isaac, al cual te parirá Sara por este tiempo el año siguiente. 
 
-^22^ Y acabó de hablar con él, y subió Dios de con Abraham. ^23^ Entonces tomó Abraham á Ismael su hijo, y á todos los siervos nacidos en su casa, y á todos los comprados por su dinero, á todo varón entre los domésticos de la casa de Abraham, y circuncidó la carne del prepucio de ellos en aquel mismo día, como Dios le había dicho. ^24^ Era Abraham de edad de noventa y nueve años cuando circuncidó la carne de su prepucio. ^25^ E Ismael su hijo era de trece años, cuando fué circuncidada la carne de su prepucio. ^26^ En el mismo día fué circuncidado Abraham é Ismael su hijo. ^27^ Y todos los varones de su casa, el siervo nacido en casa, y el comprado por dinero del extranjero, fueron circuncidados con él. 
+^22^ Y acabó de hablar con él, y subió Dios de con Abraham. 
+
+## Abraham realiza la circuncisión
+^23^ Entonces tomó Abraham á Ismael su hijo, y á todos los siervos nacidos en su casa, y á todos los comprados por su dinero, á todo varón entre los domésticos de la casa de Abraham, y circuncidó la carne del prepucio de ellos en aquel mismo día, como Dios le había dicho. ^24^ Era Abraham de edad de noventa y nueve años cuando circuncidó la carne de su prepucio. ^25^ E Ismael su hijo era de trece años, cuando fué circuncidada la carne de su prepucio. ^26^ En el mismo día fué circuncidado Abraham é Ismael su hijo. ^27^ Y todos los varones de su casa, el siervo nacido en casa, y el comprado por dinero del extranjero, fueron circuncidados con él. 
 
 # 18 
+## Dios visita a Abraham
 ^1^ Y aparecióle Jehová en el valle de Mamre, estando él sentado á la puerta de su tienda en el calor del día. ^2^ Y alzó sus ojos y miró, y he aquí tres varones que estaban junto á él: y cuando los vió, salió corriendo de la puerta de su tienda á recibirlos, é inclinóse hacia la tierra, ^3^ Y dijo: Señor, si ahora he hallado gracia en tus ojos, ruégote que no pases de tu siervo. ^4^ Que se traiga ahora un poco de agua, y lavad vuestros pies; y recostaos debajo de un árbol, ^5^ Y traeré un bocado de pan, y sustentad vuestro corazón; después pasaréis: porque por eso habéis pasado cerca de vuestro siervo. Y ellos dijeron: Haz así como has dicho. 
 
 ^6^ Entonces Abraham fué de priesa á la tienda á Sara, y le dijo: Toma presto tres medidas de flor de harina, amasa y haz panes cocidos debajo del rescoldo. ^7^ Y corrió Abraham á las vacas, y tomó un becerro tierno y bueno, y diólo al mozo, y dióse éste priesa á aderezarlo. ^8^ Tomó también manteca y leche, y el becerro que había aderezado, y púsolo delante de ellos; y él estaba junto á ellos debajo del árbol; y comieron. 
@@ -262,6 +336,7 @@
 
 ^15^ Entonces Sara negó diciendo: No me reí; porque tuvo miedo. Y él dijo: No es así, sino que te has reído. 
 
+## La intercesión de Abraham por Sodoma
 ^16^ Y los varones se levantaron de allí, y miraron hacia Sodoma: y Abraham iba con ellos acompañándolos. ^17^ Y Jehová dijo: ¿Encubriré yo á Abraham lo que voy á hacer, ^18^ Habiendo de ser Abraham en una nación grande y fuerte, y habiendo de ser benditas en él todas las gentes de la tierra? ^19^ Porque yo lo he conocido, sé que mandará á sus hijos y á su casa después de sí, que guarden el camino de Jehová, haciendo justicia y juicio, para que haga venir Jehová sobre Abraham lo que ha hablado acerca de él. ^20^ Entonces Jehová le dijo: Por cuanto el clamor de Sodoma y Gomorra se aumenta más y más, y el pecado de ellos se ha agravado en extremo, ^21^ Descenderé ahora, y veré si han consumado su obra según el clamor que ha venido hasta mí; y si no, saberlo he. 
 
 ^22^ Y apartáronse de allí los varones, y fueron hacia Sodoma: mas Abraham estaba aún delante de Jehová. ^23^ Y acercóse Abraham y dijo: ¿Destruirás también al justo con el impío? ^24^ Quizá hay cincuenta justos dentro de la ciudad: ¿destruirás también y no perdonarás al lugar por cincuenta justos que estén dentro de él? ^25^ Lejos de ti el hacer tal, que hagas morir al justo con el impío, y que sea el justo tratado como el impío; nunca tal hagas. El juez de toda la tierra, ¿no ha de hacer lo que es justo? 
@@ -279,6 +354,7 @@
 ^33^ Y fuése Jehová, luego que acabó de hablar á Abraham: y Abraham se volvió á su lugar. 
 
 # 19 
+## La caída de Sodoma y Gomorrha
 ^1^ Llegaron, pues, los dos ángeles á Sodoma á la caída de la tarde: y Lot estaba sentado á la puerta de Sodoma. Y viéndolos Lot, levantóse á recibirlos, é inclinóse hacia el suelo; ^2^ Y dijo: Ahora, pues, mis señores, os ruego que vengáis á casa de vuestro siervo y os hospedéis, y lavaréis vuestros pies: y por la mañana os levantaréis, y seguiréis vuestro camino. Y ellos respondieron: No, que en la plaza nos quedaremos esta noche. 
 
 ^3^ Mas él porfió con ellos mucho, y se vinieron con él, y entraron en su casa; é hízoles banquete, y coció panes sin levadura, y comieron. ^4^ Y antes que se acostasen, cercaron la casa los hombres de la ciudad, los varones de Sodoma, todo el pueblo junto, desde el más joven hasta el más viejo; ^5^ Y llamaron á Lot, y le dijeron: ¿Dónde están los varones que vinieron á ti esta noche? sácanoslos, para que los conozcamos. 
@@ -287,6 +363,7 @@
 
 ^9^ Y ellos respondieron: Quita allá: y añadieron: Vino éste aquí para habitar como un extraño, ¿y habrá de erigirse en juez? Ahora te haremos más mal que á ellos. Y hacían gran violencia al varón, á Lot, y se acercaron para romper las puertas. ^10^ Entonces los varones alargaron la mano, y metieron á Lot en casa con ellos, y cerraron las puertas. ^11^ Y á los hombres que estaban á la puerta de la casa desde el menor hasta el mayor, hirieron con ceguera; mas ellos se fatigaban por hallar la puerta. 
 
+## La salvacion de Lot
 ^12^ Y dijeron los varones á Lot: ¿Tienes aquí alguno más? Yernos, y tus hijos y tus hijas, y todo lo que tienes en la ciudad, sácalo de este lugar: ^13^ Porque vamos á destruir este lugar, por cuanto el clamor de ellos ha subido de punto delante de Jehová; por tanto Jehová nos ha enviado para destruirlo. 
 
 ^14^ Entonces salió Lot, y habló á sus yernos, los que habían de tomar sus hijas, y les dijo: Levantaos, salid de este lugar; porque Jehová va á destruir esta ciudad. Mas pareció á sus yernos como que se burlaba. 
@@ -303,9 +380,11 @@
 
 ^29^ Así fué que, cuando destruyó Dios las ciudades de la llanura, acordóse Dios de Abraham, y envió fuera á Lot de en medio de la destrucción, al asolar las ciudades donde Lot estaba. 
 
+## El pecado de las hijas de Lot; El nacimiento de los padres de los Moabitas y Ammonitas
 ^30^ Empero Lot subió de Zoar, y asentó en el monte, y sus dos hijas con él; porque tuvo miedo de quedar en Zoar, y se alojó en una cueva él y sus dos hijas. ^31^ Entonces la mayor dijo á la menor: Nuestro padre es viejo, y no queda varón en la tierra que entre á nosotras conforme á la costumbre de toda la tierra: ^32^ Ven, demos á beber vino á nuestro padre, y durmamos con él, y conservaremos de nuestro padre generación. ^33^ Y dieron á beber vino á su padre aquella noche: y entró la mayor, y durmió con su padre; mas él no sintió cuándo se acostó ella, ni cuándo se levantó. ^34^ El día siguiente dijo la mayor á la menor: He aquí yo dormí la noche pasada con mi padre; démosle á beber vino también esta noche, y entra y duerme con él, para que conservemos de nuestro padre generación. ^35^ Y dieron á beber vino á su padre también aquella noche: y levantóse la menor, y durmió con él; pero no echó de ver cuándo se acostó ella, ni cuándo se levantó. ^36^ Y concibieron las dos hijas de Lot, de su padre. ^37^ Y parió la mayor un hijo, y llamó su nombre Moab, el cual es padre de los Moabitas hasta hoy. ^38^ La menor también parió un hijo, y llamó su nombre Ben-ammí, el cual es padre de los Ammonitas hasta hoy. 
 
 # 20 
+## Abraham donde Abimelech en Gerar
 ^1^ De allí partió Abraham á la tierra del Mediodía, y asentó entre Cades y Shur, y habitó como forastero en Gerar. ^2^ Y dijo Abraham de Sara su mujer: Mi hermana es. Y Abimelech, rey de Gerar, envió y tomó á Sara. ^3^ Empero Dios vino á Abimelech en sueños de noche, y le dijo: He aquí muerto eres á causa de la mujer que has tomado, la cual es casada con marido. 
 
 ^4^ Mas Abimelech no había llegado á ella, y dijo: Señor, ¿matarás también la gente justa? ^5^ ¿No me dijo él: Mi hermana es; y ella también dijo: Es mi hermano? Con sencillez de mi corazón, y con limpieza de mis manos he hecho esto. 
@@ -321,9 +400,11 @@
 ^17^ Entonces Abraham oró á Dios; y Dios sanó á Abimelech y á su mujer, y á sus siervas, y parieron. ^18^ Porque había del todo cerrado Jehová toda matriz de la casa de Abimelech, á causa de Sara mujer de Abraham. 
 
 # 21 
-^1^ Y visitó Jehová á Sara, como había dicho, é hizo Jehová con Sara como había hablado. ^2^ Y concibió y parió Sara á Abraham un hijo en su vejez, en el tiempo que Dios le había dicho. ^3^ Y llamó Abraham el nombre de su hijo que le nació, que le parió Sara, Isaac. ^4^ Y circuncidó Abraham á su hijo Isaac de ocho días, como Dios le había mandado. ^5^ Y era Abraham de cien años, cuando le nació Isaac su hijo. ^6^ Entonces dijo Sara: Dios me ha hecho reir, y cualquiera que lo oyere, se reirá conmigo. ^7^ Y añadió: ¿Quién dijera á Abraham que Sara había de dar de mamar á hijos? pues que le he parido un hijo á su vejez. 
+## Nacimiento de Isaac
+^1^ Y visitó Jehová á Sara, como había dicho, é hizo Jehová con Sara como había hablado. ^2^ Y concibió y parió Sara á Abraham un hijo en su vejez, en el tiempo que Dios le había dicho. ^3^ Y llamó Abraham el nombre de su hijo que le nació, que le parió Sara, Isaac. ^4^ Y circuncidó Abraham á su hijo Isaac de ocho días, como Dios le había mandado. ^5^ Y era Abraham de cien años, cuando le nació Isaac su hijo. ^6^ Entonces dijo Sara: Dios me ha hecho reir, y cualquiera que lo oyere, se reirá conmigo. ^7^ Y añadió: ¿Quién dijera á Abraham que Sara había de dar de mamar á hijos? pues que le he parido un hijo á su vejez. ^8^ Y creció el niño, y fué destetado; é hizo Abraham gran banquete el día que fué destetado Isaac.
 
-^8^ Y creció el niño, y fué destetado; é hizo Abraham gran banquete el día que fué destetado Isaac. ^9^ Y vió Sara al hijo de Agar la Egipcia, el cual había ésta parido á Abraham, que se burlaba. ^10^ Por tanto dijo á Abraham: Echa á esta sierva y á su hijo; que el hijo de esta sierva no ha de heredar con mi hijo, con Isaac. 
+## El repudio y la salvación de Ismael
+^9^ Y vió Sara al hijo de Agar la Egipcia, el cual había ésta parido á Abraham, que se burlaba. ^10^ Por tanto dijo á Abraham: Echa á esta sierva y á su hijo; que el hijo de esta sierva no ha de heredar con mi hijo, con Isaac. 
 
 ^11^ Este dicho pareció grave en gran manera á Abraham á causa de su hijo. ^12^ Entonces dijo Dios á Abraham: No te parezca grave á causa del muchacho y de tu sierva; en todo lo que te dijere Sara, oye su voz, porque en Isaac te será llamada descendencia. ^13^ Y también al hijo de la sierva pondré en gente, porque es tu simiente. ^14^ Entonces Abraham se levantó muy de mañana, y tomó pan, y un odre de agua, y diólo á Agar, poniéndolo sobre su hombro, y entrególe el muchacho, y despidióla. Y ella partió, y andaba errante por el desierto de Beer-seba. ^15^ Y faltó el agua del odre, y echó al muchacho debajo de un árbol; ^16^ Y fuése y sentóse enfrente, alejándose como un tiro de arco; porque decía: No veré cuando el muchacho morirá: y sentóse enfrente, y alzó su voz y lloró. ^17^ Y oyó Dios la voz del muchacho; y el ángel de Dios llamó á Agar desde el cielo, y le dijo: ¿Qué tienes, Agar? No temas; porque Dios ha oído la voz del muchacho en donde está. 
 
@@ -333,6 +414,7 @@
 
 ^20^ Y fué Dios con el muchacho; y creció, y habitó en el desierto, y fué tirador de arco. ^21^ Y habitó en el desierto de Parán; y su madre le tomó mujer de la tierra de Egipto. 
 
+## El pacto entre Abraham y Abimelech
 ^22^ Y aconteció en aquel mismo tiempo que habló Abimelech, y Phicol, príncipe de su ejército, á Abraham diciendo: Dios es contigo en todo cuanto haces: ^23^ Ahora pues, júrame aquí por Dios, que no faltarás á mí, ni á mi hijo, ni á mi nieto; sino que conforme á la bondad que yo hice contigo, harás tú conmigo, y con la tierra donde has peregrinado. 
 
 ^24^ Y respondió Abraham: Yo juraré. ^25^ Y Abraham reconvino á Abimelech á causa de un pozo de agua, que los siervos de Abimelech le habían quitado. ^26^ Y respondió Abimelech: No sé quién haya hecho esto, ni tampoco tú me lo hiciste saber, ni yo lo he oído hasta hoy. 
@@ -342,13 +424,16 @@
 ^30^ Y él respondió: Que estas siete corderas tomarás de mi mano, para que me sean en testimonio de que yo cavé este pozo. ^31^ Por esto llamó á aquel lugar Beer-seba; porque allí juraron ambos. ^32^ Así hicieron alianza en Beer-seba: y levantóse Abimelech, y Phicol, príncipe de su ejército, y se volvieron á tierra de los Filisteos. ^33^ Y plantó Abraham un bosque en Beer-seba, é invocó allí el nombre de Jehová Dios eterno. ^34^ Y moró Abraham en tierra de los Filisteos muchos días. 
 
 # 22 
+## El orden de Dios para sacrificar Isaac
 ^1^ Y aconteció después de estas cosas, que tentó Dios á Abraham, y le dijo: Abraham. Y él respondió: Heme aquí. 
 
 ^2^ Y dijo: Toma ahora tu hijo, tu único, Isaac, á quien amas, y vete á tierra de Moriah, y ofrécelo allí en holocausto sobre uno de los montes que yo te diré. 
 
-^3^ Y Abraham se levantó muy de mañana, y enalbardó su asno, y tomó consigo dos mozos suyos, y á Isaac su hijo: y cortó leña para el holocausto, y levantóse, y fué al lugar que Dios le dijo. ^4^ Al tercer día alzó Abraham sus ojos, y vió el lugar de lejos. ^5^ Entonces dijo Abraham á sus mozos: Esperaos aquí con el asno, y yo y el muchacho iremos hasta allí, y adoraremos, y volveremos á vosotros. ^6^ Y tomó Abraham la leña del holocausto, y púsola sobre Isaac su hijo: y él tomó en su mano el fuego y el cuchillo; y fueron ambos juntos. ^7^ Entonces habló Isaac á Abraham su padre, y dijo: Padre mío. Y él respondió: Heme aquí, mi hijo. Y él dijo: He aquí el fuego y la leña; mas ¿dónde está el cordero para el holocausto? 
+## La obedencia de Abraham
+^3^ Y Abraham se levantó muy de mañana, y enalbardó su asno, y tomó consigo dos mozos suyos, y á Isaac su hijo: y cortó leña para el holocausto, y levantóse, y fué al lugar que Dios le dijo. ^4^ Al tercer día alzó Abraham sus ojos, y vió el lugar de lejos. ^5^ Entonces dijo Abraham á sus mozos: Esperaos aquí con el asno, y yo y el muchacho iremos hasta allí, y adoraremos, y volveremos á vosotros. ^6^ Y tomó Abraham la leña del holocausto, y púsola sobre Isaac su hijo: y él tomó en su mano el fuego y el cuchillo; y fueron ambos juntos. ^7^ Entonces habló Isaac á Abraham su padre, y dijo: Padre mío. Y él respondió: Heme aquí, mi hijo. Y él dijo: He aquí el fuego y la leña; mas ¿dónde está el cordero para el holocausto? ^8^ Y respondió Abraham: Dios se proveerá de cordero para el holocausto, hijo mío. E iban juntos.
 
-^8^ Y respondió Abraham: Dios se proveerá de cordero para el holocausto, hijo mío. E iban juntos. ^9^ Y como llegaron al lugar que Dios le había dicho, edificó allí Abraham un altar, y compuso la leña, y ató á Isaac su hijo, y púsole en el altar sobre la leña. ^10^ Y extendió Abraham su mano, y tomó el cuchillo, para degollar á su hijo. 
+## La preparacion del holocausto y la intervención de Dios
+^9^ Y como llegaron al lugar que Dios le había dicho, edificó allí Abraham un altar, y compuso la leña, y ató á Isaac su hijo, y púsole en el altar sobre la leña. ^10^ Y extendió Abraham su mano, y tomó el cuchillo, para degollar á su hijo. 
 
 ^11^ Entonces el ángel de Jehová le dió voces del cielo, y dijo: Abraham, Abraham. Y él respondió: Heme aquí. 
 
@@ -356,13 +441,16 @@
 
 ^13^ Entonces alzó Abraham sus ojos, y miró, y he aquí un carnero á sus espaldas trabado en un zarzal por sus cuernos: y fué Abraham, y tomó el carnero, y ofrecióle en holocausto en lugar de su hijo. ^14^ Y llamó Abraham el nombre de aquel lugar, Jehová proveerá. Por tanto se dice hoy: En el monte de Jehová será provisto. 
 
+## La aprobación de Dios y promesas por Abraham
 ^15^ Y llamó el ángel de Jehová á Abraham segunda vez desde el cielo, ^16^ Y dijo: Por mí mismo he jurado, dice Jehová, que por cuanto has hecho esto, y no me has rehusado tu hijo, tu único; ^17^ Bendiciendo te bendeciré, y multiplicando multiplicaré tu simiente como las estrellas del cielo, y como la arena que está á la orilla del mar; y tu simiente poseerá las puertas de sus enemigos: ^18^ En tu simiente serán benditas todas las gentes de la tierra, por cuanto obedeciste á mi voz. 
 
 ^19^ Y tornóse Abraham á sus mozos, y levantáronse y se fueron juntos á Beer-seba; y habitó Abraham en Beer-seba. 
 
+## Los descendientes de Nahor, el hermano de Abraham
 ^20^ Y aconteció después de estas cosas, que fué dada nueva á Abraham, diciendo: He aquí que también Milca ha parido hijos á Nachôr tu hermano: ^21^ A Huz su primogénito, y á Buz su hermano, y á Kemuel padre de Aram, ^22^ Y á Chêsed, y á Hazo, y á Pildas, y á Jidlaph, y á Bethuel. ^23^ Y Bethuel engendró á Rebeca. Estos ocho parió Milca á Nachôr, hermano de Abraham. ^24^ Y su concubina, que se llamaba Reúma, parió también á Teba, y á Gaham, y á Taas, y á Maachâ. 
 
 # 23 
+## Muerte y sepultura de Sara
 ^1^ Y fué la vida de Sara ciento veintisiete años: tantos fueron los años de la vida de Sara. ^2^ Y murió Sara en Kiriath-arba, que es Hebrón, en la tierra de Canaán: y vino Abraham á hacer el duelo á Sara, y á llorarla. ^3^ Y levantóse Abraham de delante de su muerto, y habló á los hijos de Heth, diciendo: ^4^ Peregrino y advenedizo soy entre vosotros; dadme heredad de sepultura con vosotros, y sepultaré mi muerto de delante de mí. 
 
 ^5^ Y respondieron los hijos de Heth á Abraham, y dijéronle: ^6^ Oyenos, señor mío, eres un príncipe de Dios entre nosotros; en lo mejor de nuestras sepulturas sepulta á tu muerto; ninguno de nosotros te impedirá su sepultura, para que entierres tu muerto. 
