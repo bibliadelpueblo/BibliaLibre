@@ -89,10 +89,30 @@ namespace BibleMarkdown
 			}
 		}
 
+		public struct Footnote
+		{
+			public int Index;
+			public int FIndex;
+			public string Value;
+
+			public Footnote(int Index, int FIndex, string Value)
+			{
+				this.Index = Index;
+				this.FIndex = FIndex;
+				this.Value = Value;
+			}
+		}
 		static void CreatePandoc(string file, string panfile)
 		{
 			var text = File.ReadAllText(file);
-			text = Regex.Replace(text, @"\^\*\^(.*?)(\^\[.*?\])", "$2$1", RegexOptions.Singleline);
+			var exit = false;
+			while (!exit) {
+				var txt = Regex.Replace(text, @"(\^\^)(.*?)(\^\[.*?\])", "$3$2", RegexOptions.Singleline); // ^^ footnotes
+				if (txt == text) exit = true;
+				text = txt;
+			} 
+
+
 			if (text.Contains(@"%!verse-paragraphs%")) // each verse in a separate paragraph. For use in Psalms & Proverbs
 			{
 				text = Regex.Replace(text, @"(\^[0-9]+\^[^#]*?)(\s*?)(?=\^[0-9]+\^)", "$1\\\n", RegexOptions.Singleline);

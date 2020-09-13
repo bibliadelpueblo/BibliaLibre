@@ -13,7 +13,11 @@
 \usepackage{titletoc}
 \usepackage{ifthen}
 \usepackage[toc]{multitoc}
+\usepackage{etoolbox}
 \renewcommand*{\multicolumntoc}{2}
+\patchcmd{\makefootnoteparagraph}
+   {\columnwidth}{\textwidth}
+   {\typeout{Success}}{\typeout{patch failed}}
 
 \setmainfont[UprightFont       = * ,
              BoldFont          = * Bold ,
