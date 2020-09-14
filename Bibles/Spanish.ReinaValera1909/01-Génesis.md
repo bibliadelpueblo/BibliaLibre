@@ -1,11 +1,11 @@
 # 1 
 ## La creación del mundo
 ^1^ En el principio crió Dios los cielos y la tierra.^^ ^2^ Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas. 
-^[**1:1** Hechos 17,24; Apo 4,11; Hebr 11,3; Juan 1,1-3]
+^[**1:1** Hech 17,24; Apoc 4,11; Heb 11,3; Juan 1,1-3]
 
 ## La creación de la luz
 ^3^ Y dijo Dios: Sea la luz: y fué la luz.^^ ^4^ Y vió Dios que la luz era buena: y apartó Dios la luz de las tinieblas. ^5^ Y llamó Dios á la luz Día, y á las tinieblas llamó Noche: y fué la tarde y la mañana un día. 
-^[**1:3** Sal 33,9; 2.Cor 4,6]
+^[**1:3** Sal 33,9; 2 Cor 4,6]
 
 ## La creación de la expansion de los Cielos
 ^6^ Y dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas. ^7^ E hizo Dios la expansión, y apartó las aguas que estaban debajo de la expansión, de las aguas que estaban sobre la expansión: y fué así.^^ ^8^ Y llamó Dios á la expansión Cielos: y fué la tarde y la mañana el día segundo.
@@ -13,7 +13,7 @@
 
 ## La separacion de la tierra y el mar y la creación de las plantas
 ^9^ Y dijo Dios: Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase la seca: y fué así.^^ ^10^ Y llamó Dios á la seca Tierra, y á la reunión de las aguas llamó Mares: y vió Dios que era bueno. ^11^ Y dijo Dios: Produzca la tierra hierba verde, hierba que dé simiente; árbol de fruto que dé fruto según su género, que su simiente esté en él, sobre la tierra: y fué así. ^12^ Y produjo la tierra hierba verde, hierba que da simiente según su naturaleza, y árbol que da fruto, cuya simiente está en él, según su género: y vió Dios que era bueno. ^13^ Y fué la tarde y la mañana el día tercero. 
-^[**1:9** 2.Pedro 3,5; Job 38,8-11]
+^[**1:9** 2 Pe 3,5; Job 38,8-11]
 
 ## La creación de las estrellas
 ^14^ Y dijo Dios: Sean lumbreras en la expansión de los cielos para apartar el día y la noche: y sean por señales, y para las estaciones, y para días y años;^^ ^15^ Y sean por lumbreras en la expansión de los cielos para alumbrar sobre la tierra: y fué así. ^16^ E hizo Dios las dos grandes lumbreras; la lumbrera mayor para que señorease en el día, y la lumbrera menor para que señorease en la noche: hizo también las estrellas.^^ ^17^ Y púsolas Dios en la expansión de los cielos, para alumbrar sobre la tierra, ^18^ Y para señorear en el día y en la noche, y para apartar la luz y las tinieblas: y vió Dios que era bueno. ^19^ Y fué la tarde y la mañana el día cuarto. 
@@ -26,21 +26,21 @@
 ^24^ Y dijo Dios: Produzca la tierra seres vivientes según su género, bestias y serpientes y animales de la tierra según su especie: y fué así. ^25^ E hizo Dios animales de la tierra según su género, y ganado según su género, y todo animal que anda arrastrando sobre la tierra según su especie: y vió Dios que era bueno. 
 
 ^26^ Y dijo Dios: Hagamos al hombre á nuestra imagen, conforme á nuestra semejanza; y señoree en los peces de la mar, y en las aves de los cielos, y en las bestias, y en toda la tierra, y en todo animal que anda arrastrando sobre la tierra.^^ ^27^ Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió.^^ ^28^ Y los bendijo Dios; y díjoles Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.^^ ^29^ Y dijo Dios: He aquí que os he dado toda hierba que da simiente, que está sobre la haz de toda la tierra; y todo árbol en que hay fruto de árbol que da simiente, seros ha para comer. ^30^ Y á toda bestia de la tierra, y á todas las aves de los cielos, y á todo lo que se mueve sobre la tierra, en que hay vida, toda hierba verde les será para comer: y fué así. 
-^[**1:26** Sal 8,6-9] ^[**1:27** Eph 4,24; Gen 2,7; Gen 2,22; Mateo 19,4] ^[**1:28** Hechos 17,26]
+^[**1:26** Sal 8,6-9] ^[**1:27** Efes 4,24; Gén 2,7; Gén 2,22; Mat 19,4] ^[**1:28** Hech 17,26]
 
 ^31^ Y vió Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fué la tarde y la mañana el día sexto. 
 
 # 2
 ## El dia de reposo
 ^1^ Y fueron acabados los cielos y la tierra, y todo su ornamento. ^2^ Y acabó Dios en el día séptimo su obra que hizo, y reposó el día séptimo de toda su obra que había hecho.^^ ^3^ Y bendijo Dios al día séptimo, y santificólo, porque en él reposó de toda su obra que había Dios criado y hecho.^^
-^[**2:2** Juan 5,17; Hebr 4,4; Hebr 4,10] ^[**2:3** Exo 20,8-11]
+^[**2:2** Juan 5,17; Heb 4,4; Heb 4,10] ^[**2:3** Éxod 20,8-11]
 
 ## La creacion del hombre y de la mujer en el paraíso
 ^4^ Estos son los orígenes de los cielos y de la tierra cuando fueron criados, el día que Jehová Dios hizo la tierra y los cielos, ^5^ Y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese: porque aun no había Jehová Dios hecho llover sobre la tierra, ni había hombre para que labrase la tierra; ^6^ Mas subía de la tierra un vapor, que regaba toda la faz de la tierra. ^7^ Formó, pues, Jehová Dios al hombre del polvo de la tierra, y alentó en su nariz soplo de vida; y fué el hombre en alma viviente.^^
-^[**2:7** 1.Cor 15,45]
+^[**2:7** 1 Cor 15,45]
 
 ^8^ Y había Jehová Dios plantado un huerto en Edén al oriente, y puso allí al hombre que había formado. ^9^ Y había Jehová Dios hecho nacer de la tierra todo árbol delicioso á la vista, y bueno para comer: también el árbol de vida en medio del huerto, y el árbol de ciencia del bien y del mal.^^
-^[**2:9** Gen 3,22; Gen 3,24; Apo 2,7; Apo 22,2]
+^[**2:9** Gén 3,22; Gén 3,24; Apoc 2,7; Apoc 22,2]
 
 ## El río en el paraíso y sus ramales
 ^10^ Y salía de Edén un río para regar el huerto, y de allí se repartía en cuatro ramales. ^11^ El nombre del uno era Pisón: éste es el que cerca toda la tierra de Havilah, donde hay oro: ^12^ Y el oro de aquella tierra es bueno: hay allí también bdelio y piedra cornerina. ^13^ El nombre del segundo río es Gihón: éste es el que rodea toda la tierra de Etiopía. ^14^ Y el nombre del tercer río es Hiddekel: éste es el que va delante de Asiria. Y el cuarto río es el Eufrates.
