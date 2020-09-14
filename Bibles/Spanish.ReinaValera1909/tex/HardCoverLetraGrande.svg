@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1026"
-   sodipodi:docname="HardCoverLettraGrande.svg"
+   sodipodi:docname="HardCoverLetraGrande.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs1020" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-482.11664"
+     inkscape:cx="-675.45557"
      inkscape:cy="482.30847"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,14 +55,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="45.784122"
-       y="61.898808"
+       x="26.12936"
+       y="62.654758"
        id="text1045"><tspan
          sodipodi:role="line"
          id="tspan1043"
-         x="45.784122"
-         y="61.898808"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';stroke-width:0.26458332">La Biblia</tspan></text>
+         x="26.12936"
+         y="62.654758"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';stroke-width:0.26458332">Santa Biblia</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

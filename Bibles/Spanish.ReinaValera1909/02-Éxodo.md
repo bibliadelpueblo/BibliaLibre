@@ -1,8 +1,10 @@
 # 1 
+## Los hijos de Israel multiplicaron
 ^1^ Estos son los nombres de los hijos de Israel, que entraron en Egipto con Jacob; cada uno entró con su familia. ^2^ Rubén, Simeón, Leví y Judá; ^3^ Issachâr, Zabulón y Benjamín; ^4^ Dan y Nephtalí, Gad y Aser. ^5^ Y todas las almas de los que salieron del muslo de Jacob, fueron setenta. Y José estaba en Egipto. ^6^ Y murió José, y todos sus hermanos, y toda aquella generación. ^7^ Y los hijos de Israel crecieron, y multiplicaron, y fueron aumentados y corroborados en extremo; y llenóse la tierra de ellos. 
 
 ^8^ Levantóse entretanto un nuevo rey sobre Egipto, que no conocía á José; el cual dijo á su pueblo: ^9^ He aquí, el pueblo de los hijos de Israel es mayor y más fuerte que nosotros: ^10^ Ahora, pues, seamos sabios para con él, porque no se multiplique, y acontezca que viniendo guerra, él también se junte con nuestros enemigos, y pelee contra nosotros, y se vaya de la tierra. ^11^ Entonces pusieron sobre él comisarios de tributos que los molestasen con sus cargas; y edificaron á Faraón las ciudades de los bastimentos, Phithom y Raamses. ^12^ Empero cuanto más los oprimían, tanto más se multiplicaban y crecían: así que estaban ellos fastidiados de los hijos de Israel. ^13^ Y los Egipcios hicieron servir á los hijos de Israel con dureza: ^14^ Y amargaron su vida con dura servidumbre, en hacer barro y ladrillo, y en toda labor del campo, y en todo su servicio, al cual los obligaban con rigorismo. 
 
+## El temor de Dios de los dos parteras
 ^15^ Y habló el rey de Egipto á las parteras de las Hebreas, una de las cuales se llamaba Siphra, y otra Phúa, y díjoles: ^16^ Cuando parteareis á las Hebreas, y mirareis los asientos, si fuere hijo, matadlo; y si fuere hija, entonces viva. ^17^ Mas las parteras temieron á Dios, y no hicieron como les mandó el rey de Egipto, sino que reservaban la vida á los niños. ^18^ Y el rey de Egipto hizo llamar á las parteras, y díjoles: Por qué habéis hecho esto, que habéis reservado la vida á los niños? 
 
 ^19^ Y las parteras respondieron á Faraón: Porque las mujeres Hebreas no son como las Egipcias: porque son robustas, y paren antes que la partera venga á ellas. 
@@ -10,6 +12,7 @@
 ^20^ Y Dios hizo bien á las parteras: y el pueblo se multiplicó, y se corroboraron en gran manera. ^21^ Y por haber las parteras temido á Dios, él les hizo casas. ^22^ Entonces Faraón mandó á todo su pueblo, diciendo: Echad en el río todo hijo que naciere, y á toda hija reservad la vida. 
 
 # 2 
+## Nacimiento y abandono, salvación y educación de Moisés
 ^1^ Un varón de la familia de Leví fué, y tomó por mujer una hija de Leví: ^2^ La cual concibió, y parió un hijo: y viéndolo que era hermoso, túvole escondido tres meses. ^3^ Pero no pudiendo ocultarle más tiempo, tomó una arquilla de juncos, y calafateóla con pez y betún, y colocó en ella al niño, y púsolo en un carrizal á la orilla del río: ^4^ Y paróse una hermana suya á lo lejos, para ver lo que le acontecería. ^5^ Y la hija de Faraón descendió á lavarse al río, y paseándose sus doncellas por la ribera del río, vió ella la arquilla en el carrizal, y envió una criada suya á que la tomase. ^6^ Y como la abrió, vió al niño; y he aquí que el niño lloraba. Y teniendo compasión de él, dijo: De los niños de los Hebreos es éste. 
 
 ^7^ Entonces su hermana dijo á la hija de Faraón: ¿Iré á llamarte un ama de las Hebreas, para que te críe este niño? 
@@ -20,12 +23,14 @@
 
 ^10^ Y como creció el niño, ella lo trajo á la hija de Faraón, la cual lo prohijó, y púsole por nombre Moisés, diciendo: Porque de las aguas lo saqué. 
 
+## Moisés mató al Egipcio
 ^11^ Y en aquellos días acaeció que, crecido ya Moisés, salió á sus hermanos, y vió sus cargas: y observó á un Egipcio que hería á uno de los Hebreos, sus hermanos. ^12^ Y miró á todas partes, y viendo que no parecía nadie, mató al Egipcio, y escondiólo en la arena. 
 
 ^13^ Y salió al día siguiente, y viendo á dos Hebreos que reñían, dijo al que hacía la injuria: ¿Por qué hieres á tu prójimo? 
 
 ^14^ Y él respondió: ¿Quién te ha puesto á ti por príncipe y juez sobre nosotros? ¿piensas matarme como mataste al Egipcio? Entonces Moisés tuvo miedo, y dijo: Ciertamente esta cosa es descubierta. 
 
+## Moisés huyó a Madián y se casa con Séphora
 ^15^ Y oyendo Faraón este negocio, procuró matar á Moisés: mas Moisés huyó de delante de Faraón, y habitó en la tierra de Madián; y sentóse junto á un pozo. 
 
 ^16^ Tenía el sacerdote de Madián siete hijas, las cuales vinieron á sacar agua, para llenar las pilas y dar de beber á las ovejas de su padre. ^17^ Mas los pastores vinieron, y echáronlas: Entonces Moisés se levantó y defendiólas, y abrevó sus ovejas. ^18^ Y volviendo ellas á Ragüel su padre, díjoles él: ¿Por qué habéis hoy venido tan presto? 
@@ -36,9 +41,11 @@
 
 ^21^ Y Moisés acordó en morar con aquel varón; y él dió á Moisés á su hija Séphora: ^22^ La cual le parió un hijo, y él le puso por nombre Gersom: porque dijo: Peregrino soy en tierra ajena. 
 
+## Dios escucha las aflicciones de los israelitas oprimidos
 ^23^ Y aconteció que después de muchos días murió el rey de Egipto, y los hijos de Israel suspiraron á causa de la servidumbre, y clamaron: y subió á Dios el clamor de ellos con motivo de su servidumbre. ^24^ Y oyó Dios el gemido de ellos, y acordóse de su pacto con Abraham, Isaac y Jacob. ^25^ Y miró Dios á los hijos de Israel, y reconociólos Dios. 
 
 # 3 
+## Dios se revela a Moisés en la zarza como el “Yo soy”
 ^1^ Y apacentando Moisés las ovejas de Jethro su suegro, sacerdote de Madián, llevó las ovejas detrás del desierto, y vino á Horeb, monte de Dios. ^2^ Y apareciósele el Angel de Jehová en una llama de fuego en medio de una zarza: y él miró, y vió que la zarza ardía en fuego, y la zarza no se consumía. ^3^ Entonces Moisés dijo: Iré yo ahora, y veré esta grande visión, por qué causa la zarza no se quema. 
 
 ^4^ Y viendo Jehová que iba á ver, llamólo Dios de en medio de la zarza, y dijo: ¡Moisés, Moisés! Y él respondió: Heme aquí. 
@@ -51,11 +58,16 @@
 
 ^12^ Y él le respondió: Ve, porque yo seré contigo; y esto te será por señal de que yo te he enviado: luego que hubieres sacado este pueblo de Egipto, serviréis á Dios sobre este monte. 
 
+## La revelacion del nombre de Dios
 ^13^ Y dijo Moisés á Dios: He aquí que llego yo á los hijos de Israel, y les digo, El Dios de vuestros padres me ha enviado á vosotros; si ellos me preguntaren: ¿Cuál es su nombre? ¿qué les responderé? 
 
-^14^ Y respondió Dios á Moisés: YO SOY EL QUE SOY. Y dijo: Así dirás á los hijos de Israel: YO SOY me ha enviado á vosotros. ^15^ Y dijo más Dios á Moisés: Así dirás á los hijos de Israel: Jehová, el Dios de vuestros padres, el Dios de Abraham, Dios de Isaac y Dios de Jacob, me ha enviado á vosotros. Este es mi nombre para siempre, este es mi memorial por todos los siglos. ^16^ Ve, y junta los ancianos de Israel, y diles: Jehová, el Dios de vuestros padres, el Dios de Abraham, de Isaac, y de Jacob, me apareció, diciendo: De cierto os he visitado, y visto lo que se os hace en Egipto; ^17^ Y he dicho: Yo os sacaré de la aflicción de Egipto á la tierra del Cananeo, y del Hetheo, y del Amorrheo, y del Pherezeo, y del Heveo, y del Jebuseo, á una tierra que fluye leche y miel. ^18^ Y oirán tu voz; é irás tú, y los ancianos de Israel, al rey de Egipto, y le diréis: Jehová, el Dios de los Hebreos, nos ha encontrado; por tanto nosotros iremos ahora camino de tres días por el desierto, para que sacrifiquemos á Jehová nuestro Dios. ^19^ Mas yo sé que el rey de Egipto no os dejará ir sino por mano fuerte. ^20^ Empero yo extenderé mi mano, y heriré á Egipto con todas mis maravillas que haré en él, y entonces os dejará ir. ^21^ Y yo daré á este pueblo gracia en los ojos de los Egipcios, para que cuando os partiereis, no salgáis vacíos: ^22^ Sino que demandará cada mujer á su vecina y á su huéspeda vasos de plata, vasos de oro, y vestidos: los cuales pondréis sobre vuestros hijos y vuestras hijas; y despojaréis á Egipto. 
+^14^ Y respondió Dios á Moisés: YO SOY EL QUE SOY. Y dijo: Así dirás á los hijos de Israel: YO SOY me ha enviado á vosotros. ^15^ Y dijo más Dios á Moisés: Así dirás á los hijos de Israel: Jehová, el Dios de vuestros padres, el Dios de Abraham, Dios de Isaac y Dios de Jacob, me ha enviado á vosotros. Este es mi nombre para siempre, este es mi memorial por todos los siglos.
+
+## El llamado de Dios y su promesa por Moisés
+^16^ Ve, y junta los ancianos de Israel, y diles: Jehová, el Dios de vuestros padres, el Dios de Abraham, de Isaac, y de Jacob, me apareció, diciendo: De cierto os he visitado, y visto lo que se os hace en Egipto; ^17^ Y he dicho: Yo os sacaré de la aflicción de Egipto á la tierra del Cananeo, y del Hetheo, y del Amorrheo, y del Pherezeo, y del Heveo, y del Jebuseo, á una tierra que fluye leche y miel. ^18^ Y oirán tu voz; é irás tú, y los ancianos de Israel, al rey de Egipto, y le diréis: Jehová, el Dios de los Hebreos, nos ha encontrado; por tanto nosotros iremos ahora camino de tres días por el desierto, para que sacrifiquemos á Jehová nuestro Dios. ^19^ Mas yo sé que el rey de Egipto no os dejará ir sino por mano fuerte. ^20^ Empero yo extenderé mi mano, y heriré á Egipto con todas mis maravillas que haré en él, y entonces os dejará ir. ^21^ Y yo daré á este pueblo gracia en los ojos de los Egipcios, para que cuando os partiereis, no salgáis vacíos: ^22^ Sino que demandará cada mujer á su vecina y á su huéspeda vasos de plata, vasos de oro, y vestidos: los cuales pondréis sobre vuestros hijos y vuestras hijas; y despojaréis á Egipto. 
 
 # 4 
+## Los milagros de la autenticación
 ^1^ Entonces Moisés respondió, y dijo: He aquí que ellos no me creerán, ni oirán mi voz; porque dirán: No te ha aparecido Jehová. 
 
 ^2^ Y Jehová dijo: ¿Qué es eso que tienes en tu mano? Y él respondió: Una vara. 
@@ -70,6 +82,7 @@
 
 ^8^ Sí aconteciere, que no te creyeren, ni obedecieren á la voz de la primera señal, creerán á la voz de la postrera. ^9^ Y si aun no creyeren á estas dos señales, ni oyeren tu voz, tomarás de las aguas del río, y derrámalas en tierra; y volverse han aquellas aguas que tomarás del río, se volverán sangre en la tierra. 
 
+## Nuevas objeciones de Moisés; Nombramiento de Aarón como orador
 ^10^ Entonces dijo Moisés á Jehová: ¡Ay Señor! yo no soy hombre de palabras de ayer ni de anteayer, ni aun desde que tú hablas á tu siervo; porque soy tardo en el habla y torpe de lengua. 
 
 ^11^ Y Jehová le respondió: ¿Quién dió la boca al hombre? ¿ó quién hizo al mudo y al sordo, al que ve y al ciego? ¿no soy yo Jehová? ^12^ Ahora pues, ve, que yo seré en tu boca, y te enseñaré lo que hayas de hablar. 
@@ -78,28 +91,35 @@
 
 ^14^ Entonces Jehová se enojó contra Moisés, y dijo: ¿No conozco yo á tu hermano Aarón, Levita, y que él hablará? Y aun he aquí que él te saldrá á recibir, y en viéndote, se alegrará en su corazón. ^15^ Tú hablarás á él, y pondrás en su boca las palabras, y yo seré en tu boca y en la suya, y os enseñaré lo que hayáis de hacer. ^16^ Y él hablará por ti al pueblo; y él te será á ti en lugar de boca, y tú serás para él en lugar de Dios. ^17^ Y tomarás esta vara en tu mano, con la cual harás las señales. 
 
+## Moisés despidiéndose de su suegro Jetro; Instrucción de Dios
 ^18^ Así se fué Moisés, y volviendo á su suegro Jethro, díjole: Iré ahora, y volveré á mis hermanos que están en Egipto, para ver si aun viven. Y Jethro dijo á Moisés: Ve en paz. 
 
 ^19^ Dijo también Jehová á Moisés en Madián: Ve, y vuélvete á Egipto, porque han muerto todos los que procuraban tu muerte. 
 
 ^20^ Entonces Moisés tomó su mujer y sus hijos, y púsolos sobre un asno, y volvióse á tierra de Egipto: tomó también Moisés la vara de Dios en su mano. ^21^ Y dijo Jehová á Moisés: Cuando hubiereis vuelto á Egipto, mira que hagas delante de Faraón todas las maravillas que he puesto en tu mano: yo empero endureceré su corazón, de modo que no dejará ir al pueblo. ^22^ Y dirás á Faraón: Jehová ha dicho así: Israel es mi hijo, mi primogénito. ^23^ Ya te he dicho que dejes ir á mi hijo, para que me sirva, mas no has querido dejarlo ir: he aquí yo voy á matar á tu hijo, tu primogénito. 
 
+## Dios quiso matar a Moisés en la noche
 ^24^ Y aconteció en el camino, que en una posada le salió al encuentro Jehová, y quiso matarlo. ^25^ Entonces Séphora cogió un afilado pedernal, y cortó el prepucio de su hijo, y echólo á sus pies, diciendo: A la verdad tú me eres un esposo de sangre. 
 
 ^26^ Así le dejó luego ir. Y ella dijo: Esposo de sangre, á causa de la circuncisión. 
 
+## Moisés y Aarón encontraron fe entre los israelitas en Egipto
 ^27^ Y Jehová dijo á Aarón: Ve á recibir á Moisés al desierto. Y él fué, y encontrólo en el monte de Dios, y besóle. 
 
 ^28^ Entonces contó Moisés á Aarón todas las palabras de Jehová que le enviaba, y todas las señales que le había dado. ^29^ Y fueron Moisés y Aarón, y juntaron todos los ancianos de los hijos de Israel: ^30^ Y habló Aarón todas las palabras que Jehová había dicho á Moisés, é hizo las señales delante de los ojos del pueblo. ^31^ Y el pueblo creyó: y oyendo que Jehová había visitado los hijos de Israel, y que había visto su aflicción, inclináronse y adoraron. 
 
 # 5 
+## La primera negociación fallida con el faraón
 ^1^ Después entraron Moisés y Aarón á Faraón, y le dijeron: Jehová, el Dios de Israel, dice así: Deja ir á mi pueblo á celebrarme fiesta en el desierto. 
 
 ^2^ Y Faraón respondió: ¿Quién es Jehová, para que yo oiga su voz y deje ir á Israel? Yo no conozco á Jehová, ni tampoco dejaré ir á Israel. 
 
 ^3^ Y ellos dijeron: El Dios de los Hebreos nos ha encontrado: iremos, pues, ahora camino de tres días por el desierto, y sacrificaremos á Jehová nuestro Dios; porque no venga sobre nosotros con pestilencia ó con espada. 
 
-^4^ Entonces el rey de Egipto les dijo: Moisés y Aarón, ¿por qué hacéis cesar al pueblo de su obra? idos á vuestros cargos. ^5^ Dijo también Faraón: He aquí el pueblo de la tierra es ahora mucho, y vosotros les hacéis cesar de sus cargos. ^6^ Y mandó Faraón aquel mismo día á los cuadrilleros del pueblo que le tenían á su cargo, y á sus gobernadores, diciendo: ^7^ De aquí adelante no daréis paja al pueblo para hacer ladrillo, como ayer y antes de ayer; vayan ellos y recojan por sí mismos la paja: ^8^ Y habéis de ponerles la tarea del ladrillo que hacían antes, y no les disminuiréis nada; porque están ociosos, y por eso levantan la voz diciendo: Vamos y sacrificaremos á nuestro Dios. ^9^ Agrávese la servidumbre sobre ellos, para que se ocupen en ella, y no atiendan á palabras de mentira. 
+^4^ Entonces el rey de Egipto les dijo: Moisés y Aarón, ¿por qué hacéis cesar al pueblo de su obra? idos á vuestros cargos. ^5^ Dijo también Faraón: He aquí el pueblo de la tierra es ahora mucho, y vosotros les hacéis cesar de sus cargos.
+
+## El pueblo está aún más oprimida; los israelitas reprochan amargamente a Moisés y a Aarón
+^6^ Y mandó Faraón aquel mismo día á los cuadrilleros del pueblo que le tenían á su cargo, y á sus gobernadores, diciendo: ^7^ De aquí adelante no daréis paja al pueblo para hacer ladrillo, como ayer y antes de ayer; vayan ellos y recojan por sí mismos la paja: ^8^ Y habéis de ponerles la tarea del ladrillo que hacían antes, y no les disminuiréis nada; porque están ociosos, y por eso levantan la voz diciendo: Vamos y sacrificaremos á nuestro Dios. ^9^ Agrávese la servidumbre sobre ellos, para que se ocupen en ella, y no atiendan á palabras de mentira. 
 
 ^10^ Y saliendo los cuadrilleros del pueblo y sus gobernadores, hablaron al pueblo, diciendo: Así ha dicho Faraón: Yo no os doy paja. ^11^ Id vosotros, y recoged paja donde la hallareis; que nada se disminuirá de vuestra tarea. ^12^ Entonces el pueblo se derramó por toda la tierra de Egipto á coger rastrojo en lugar de paja. ^13^ Y los cuadrilleros los apremiaban, diciendo: Acabad vuestra obra, la tarea del día en su día, como cuando se os daba paja. ^14^ Y azotaban á los capataces de los hijos de Israel, que los cuadrilleros de Faraón habían puesto sobre ellos, diciendo: ¿Por qué no habéis cumplido vuestra tarea de ladrillo ni ayer ni hoy, como antes? 
 
@@ -111,21 +131,26 @@
 
 ^20^ Y encontrando á Moisés y á Aarón, que estaban á la vista de ellos cuando salían de Faraón, ^21^ Dijéronles: Mire Jehová sobre vosotros, y juzgue; pues habéis hecho heder nuestro olor delante de Faraón y de sus siervos, dándoles el cuchillo en las manos para que nos maten. 
 
+## El lamento de Moisés y la promesa de Dios
 ^22^ Entonces Moisés se volvió á Jehová, y dijo: Señor, ¿por qué afliges á este pueblo? ¿para qué me enviaste? ^23^ Porque desde que yo vine á Faraón para hablarle en tu nombre, ha afligido á este pueblo; y tú tampoco has librado á tu pueblo. 
 
 # 6 
 ^1^ Jehová respondió á Moisés: Ahora verás lo que yo haré á Faraón; porque con mano fuerte los ha de dejar ir; y con mano fuerte los ha de echar de su tierra. 
 
+## Dios se revela a sí mismo a Moisés de nuevo y promete la salvación del pueblo
 ^2^ Habló todavía Dios á Moisés, y díjole: Yo soy JEHOVÁ; ^3^ Y aparecí á Abraham, á Isaac y á Jacob bajo el nombre de Dios Omnipotente, mas en mi nombre JEHOVÁ no me notifiqué á ellos. ^4^ Y también establecí mi pacto con ellos, de darles la tierra de Canaán, la tierra en que fueron extranjeros, y en la cual peregrinaron. ^5^ Y asimismo yo he oído el gemido de los hijos de Israel, á quienes hacen servir los Egipcios, y heme acordado de mi pacto. ^6^ Por tanto dirás á los hijos de Israel: Yo JEHOVÁ; y yo os sacaré de debajo de las cargas de Egipto, y os libraré de su servidumbre, y os redimiré con brazo extendido, y con juicios grandes: ^7^ Y os tomaré por mi pueblo y seré vuestro Dios: y vosotros sabréis que yo soy Jehová vuestro Dios, que os saco de debajo de las cargas de Egipto: ^8^ Y os meteré en la tierra, por la cual alcé mi mano que la daría á Abraham, á Isaac y á Jacob: y yo os la daré por heredad. Yo JEHOVÁ. 
 
+## Moisés, rechazado por su pueblo desesperado, recibe nuevas instrucciones de Dios
 ^9^ De esta manera habló Moisés á los hijos de Israel: mas ellos no escuchaban á Moisés á causa de la congoja de espíritu, y de la dura servidumbre. 
 
 ^10^ Y habló Jehová á Moisés, diciendo: ^11^ Entra, y habla á Faraón rey de Egipto, que deje ir de su tierra á los hijos de Israel. 
 
 ^12^ Y respondió Moisés delante de Jehová, diciendo: He aquí, los hijos de Israel no me escuchan: ¿cómo pues me escuchará Faraón, mayormente siendo yo incircunciso de labios? ^13^ Entonces Jehová habló á Moisés y á Aarón, y dióles mandamiento para los hijos de Israel, y para Faraón rey de Egipto, para que sacasen á los hijos de Israel de la tierra de Egipto. 
 
+## Árbol genealógico de Aarons y Moisés
 ^14^ Estas son las cabezas de las familias de sus padres. Los hijos de Rubén, el primogénito de Israel: Hanoch y Phallú, Hezrón y Carmi: estas son las familias de Rubén. ^15^ Los hijos de Simeón: Jemuel, y Jamín, y Ohad, y Jachîn, y Zoar, y Saúl, hijo de una Cananea: estas son las familias de Simeón. ^16^ Y estos son los nombres de los hijos de Leví por sus linajes: Gersón, y Coath, y Merari. Y los años de la vida de Leví fueron ciento treinta y siete años. ^17^ Y los hijos de Gersón: Libni, y Shimi, por sus familias. ^18^ Y los hijos de Coath: Amram, é Izhar, y Hebrón, y Uzziel. Y los años de la vida de Coath fueron ciento treinta y tres años. ^19^ Y los hijos de Merari: Mahali, y Musi: estas son las familias de Leví por sus linajes. ^20^ Y Amram tomó por mujer á Jochêbed su tía; la cual le parió á Aarón y á Moisés. Y los años de la vida de Amram fueron ciento treinta y siete años. ^21^ Y los hijos de Izhar: Cora, y Nepheg y Zithri. ^22^ Y los hijos de Uzziel: Misael, y Elzaphán y Zithri. ^23^ Y tomóse Aarón por mujer á Elisabeth, hija de Aminadab, hermana de Naasón; la cual le parió á Nadab, y á Abiú, y á Eleazar y á Ithamar. ^24^ Y los hijos de Cora: Assir, y Elcana, y Abiasaph: estas son las familias de los Coritas. ^25^ Y Eleazar, hijo de Aarón, tomó para sí mujer de las hijas de Phutiel, la cual le parió á Phinees: y estas son las cabezas de los padres de los Levitas por sus familias. ^26^ Este es aquel Aarón y aquel Moisés, á los cuales Jehová dijo: Sacad á los hijos de Israel de la tierra de Egipto por sus escuadrones. ^27^ Estos son los que hablaron á Faraón rey de Egipto, para sacar de Egipto á los hijos de Israel. Moisés y Aarón fueron estos. 
 
+## La nueva misión de Moisés y Aarón ante el faraón
 ^28^ Cuando Jehová habló á Moisés en la tierra de Egipto, ^29^ Entonces Jehová habló á Moisés, diciendo: Yo soy JEHOVÁ; di á Faraón rey de Egipto todas las cosas que yo te digo á ti. 
 
 ^30^ Y Moisés respondió delante de Jehová: He aquí, yo soy incircunciso de labios, ¿cómo pues me ha de oir Faraón? 
