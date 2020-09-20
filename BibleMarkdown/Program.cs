@@ -89,6 +89,78 @@ namespace BibleMarkdown
 			}
 		}
 
+		public static void ImportFromTXT(string mdpath, string srcpath)
+		{
+			var sources = Directory.EnumerateFiles(srcpath)
+				.Where(file => file.EndsWith(".txt"));
+
+			if (sources.Any())
+			{
+
+				var mdtimes = Directory.EnumerateFiles(mdpath)
+					.Select(file => File.GetLastWriteTimeUtc(file));
+				var sourcetimes = sources.Select(file => File.GetLastWriteTimeUtc(file));
+
+				var mdtime = DateTime.MinValue;
+				var sourcetime = DateTime.MinValue;
+
+
+				foreach (var time in mdtimes) mdtime = time > mdtime ? time : mdtime;
+				foreach (var time in sourcetimes) sourcetime = time > sourcetime ? time : sourcetime;
+
+				if (Force || mdtime < sourcetime)
+				{
+
+					int bookno = 1;
+					string book = null;
+					string chapter = null;
+					string md;
+
+					var s = new StringBuilder();
+					foreach (var source in sources)
+					{
+						var src = File.ReadAllText(source);
+						var matches = Regex.Matches(src, @"(?:^|\n)(.*?)\s*([0-9]+):([0-9]+)(.*?)(?=$|\n[^\n]*?[0-9]+:[0-9]+)", RegexOptions.Singleline);
+
+						foreach (Match m in matches)
+						{
+							var bk = m.Groups[1].Value;
+							if (book != bk)
+							{
+								if (book != null)
+								{
+									md = Path.Combine(mdpath, $"{bookno++:D2}-{book}.md");
+									File.WriteAllText(md, s.ToString());
+									Console.WriteLine($"Created {md}.");
+									s.Clear();
+								}
+								book = bk;
+							}
+
+							var chap = m.Groups[2].Value;
+							if (chap != chapter)
+							{
+								chapter = chap;
+								if (chapter != "1")
+								{
+									s.AppendLine();
+									s.AppendLine();
+								}
+								s.AppendLine($"# {chapter}");
+							}
+
+							string verse = m.Groups[3].Value;
+							string text = Regex.Replace(m.Groups[4].Value, @"\r?\n", " ").Trim();
+							s.Append($"{(verse == "1" ? "" : " ")}^{verse}^ {text}");
+						}
+					}
+					md = Path.Combine(mdpath, $"{bookno++:D2}-{book}.md");
+					File.WriteAllText(md, s.ToString());
+					Console.WriteLine($"Created {md}.");
+				}
+			}
+		}
+
 		public struct Footnote
 		{
 			public int Index;
@@ -157,18 +229,52 @@ namespace BibleMarkdown
 			Console.WriteLine(process.StandardError.ReadToEnd());
 			Console.WriteLine($"Created {texfile}.");
 		}
+
+		static void CreateHtml(string mdfile, string htmlfile)
+		{
+
+			var mdhtmlfile = Path.ChangeExtension(mdfile, ".html.md");
+
+			var src = File.ReadAllText(mdfile);
+			src = Regex.Replace(src, @"\\bibverse\{([0-9]+)\}", "<sup>$1</sup>", RegexOptions.Singleline);
+			File.WriteAllText(mdhtmlfile, src);
+			Console.WriteLine($"Created {mdhtmlfile}.");
+
+			var exe = Environment.GetEnvironmentVariable("PATH")
+				 .Split(';')
+				 .Select(s => Path.Combine(s, "pandoc.exe"))
+				 .Where(s => File.Exists(s))
+				 .FirstOrDefault();
+
+			var pandoc = new ProcessStartInfo(exe, $"-f markdown -t html -o \"{htmlfile}\" \"{mdhtmlfile}\"");
+			pandoc.CreateNoWindow = true;
+			pandoc.WindowStyle = ProcessWindowStyle.Hidden;
+			pandoc.RedirectStandardOutput = true;
+			pandoc.RedirectStandardError = true;
+			pandoc.UseShellExecute = false;
+			var process = Process.Start(pandoc);
+			process.WaitForExit();
+			Console.WriteLine(process.StandardOutput.ReadToEnd());
+			Console.WriteLine(process.StandardError.ReadToEnd());
+			Console.WriteLine($"Created {htmlfile}.");
+		}
+
 		static void ProcessFile(string file)
 		{
 			var path = Path.GetDirectoryName(file);
 			var md = Path.Combine(path, "out\\pandoc");
 			var tex = Path.Combine(path, "out\\tex");
+			var html = Path.Combine(path, "out\\html");
 			if (!Directory.Exists(md)) Directory.CreateDirectory(md);
 			if (!Directory.Exists(tex)) Directory.CreateDirectory(tex);
+			if (!Directory.Exists(html)) Directory.CreateDirectory(html);
 			var mdfile = Path.Combine(md, Path.GetFileName(file));
 			var texfile = Path.Combine(tex, Path.GetFileNameWithoutExtension(file) + ".tex");
+			var htmlfile = Path.Combine(html, Path.GetFileNameWithoutExtension(file) + ".html");
 
 			var mdfiletime = DateTime.MinValue;
 			var texfiletime = DateTime.MinValue;
+			var htmlfiletime = DateTime.MinValue;
 			var filetime = File.GetLastWriteTimeUtc(file);
 
 			if (File.Exists(mdfile)) mdfiletime = File.GetLastWriteTimeUtc(mdfile);
@@ -182,6 +288,13 @@ namespace BibleMarkdown
 			if (texfiletime < mdfiletime || texfiletime < bibmarktime)
 			{
 				CreateTeX(mdfile, texfile);
+			}
+
+			if (File.Exists(htmlfile)) htmlfiletime = File.GetLastWriteTimeUtc(htmlfile);
+			if (htmlfiletime < mdfiletime || htmlfiletime < bibmarktime)
+			{
+				CreateHtml(mdfile, htmlfile);
+				htmlfiletime = DateTime.Now;
 			}
 		}
 
@@ -317,6 +430,7 @@ namespace BibleMarkdown
 		{
 			var srcpath = Path.Combine(path, "src");
 			ImportFromUSFM(path, srcpath);
+			ImportFromTXT(path, srcpath);
 			ImportFrame(path);
 			var files = Directory.EnumerateFiles(path, "*.md");
 			foreach (var file in files) ProcessFile(file);
