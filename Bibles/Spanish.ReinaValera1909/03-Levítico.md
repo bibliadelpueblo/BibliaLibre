@@ -351,19 +351,27 @@
 
 # 17 
 ## Normativa sobre sacrificio de animales domésticos, consumo de sangre, etc.
-^1^ Y habló Jehová á Moisés, diciendo: ^2^ Habla á Aarón y á sus hijos, y á todos los hijos de Israel, y diles: Esto es lo que ha mandado Jehová, diciendo: ^3^ Cualquier varón de la casa de Israel que degollare buey, ó cordero, ó cabra, en el real, ó fuera del real, ^4^ Y no lo trajere á la puerta del tabernáculo del testimonio, para ofrecer ofrenda á Jehová delante del tabernáculo de Jehová, sangre será imputada al tal varón: sangre derramó; cortado será el tal varón de entre su pueblo: ^5^ A fin de que traigan los hijos de Israel sus sacrificios, los que sacrifican sobre la haz del campo, para que los traigan á Jehová á la puerta del tabernáculo del testimonio al sacerdote, y sacrifiquen ellos sacrificios de paces á Jehová. ^6^ Y el sacerdote esparcirá la sangre sobre el altar de Jehová, á la puerta del tabernáculo del testimonio, y quemará el sebo en olor de suavidad á Jehová. ^7^ Y nunca más sacrificarán sus sacrificios á los demonios, tras de los cuales han fornicado: tendrán esto por estatuto perpetuo por sus edades. 
+^1^ Y habló Jehová á Moisés, diciendo: ^2^ Habla á Aarón y á sus hijos, y á todos los hijos de Israel, y diles: Esto es lo que ha mandado Jehová, diciendo:
 
+## Unidad del matadero de animales de sacrificio
+^3^ Cualquier varón de la casa de Israel que degollare buey, ó cordero, ó cabra, en el real, ó fuera del real, ^4^ Y no lo trajere á la puerta del tabernáculo del testimonio, para ofrecer ofrenda á Jehová delante del tabernáculo de Jehová, sangre será imputada al tal varón: sangre derramó; cortado será el tal varón de entre su pueblo: ^5^ A fin de que traigan los hijos de Israel sus sacrificios, los que sacrifican sobre la haz del campo, para que los traigan á Jehová á la puerta del tabernáculo del testimonio al sacerdote, y sacrifiquen ellos sacrificios de paces á Jehová. ^6^ Y el sacerdote esparcirá la sangre sobre el altar de Jehová, á la puerta del tabernáculo del testimonio, y quemará el sebo en olor de suavidad á Jehová. ^7^ Y nunca más sacrificarán sus sacrificios á los demonios, tras de los cuales han fornicado: tendrán esto por estatuto perpetuo por sus edades. 
+
+## Unidad del lugar del sacrificio en el tabernaculo del testimonio
 ^8^ Les dirás también: Cualquier varón de la casa de Israel, ó de los extranjeros que peregrinan entre vosotros, que ofreciere holocausto ó sacrificio, ^9^ Y no lo trajere á la puerta del tabernáculo del testimonio, para hacerlo á Jehová, el tal varón será igualmente cortado de sus pueblos. 
 
+## Prohibición de cualquier consumo de sangre
 ^10^ Y cualquier varón de la casa de Israel, ó de los extranjeros que peregrinan entre ellos, que comiere alguna sangre, yo pondré mi rostro contra la persona que comiere sangre, y le cortaré de entre su pueblo. ^11^ Porque la vida de la carne en la sangre está: y yo os la he dado para expiar vuestras personas sobre el altar: por lo cual la misma sangre expiará la persona. ^12^ Por tanto, he dicho á los hijos de Israel: Ninguna persona de vosotros comerá sangre, ni el extranjero que peregrina entre vosotros comerá sangre. 
 
+## Tratamiento de la sangre de caza y la carne de animales caídos o desgarrados
 ^13^ Y cualquier varón de los hijos de Israel, ó de los extranjeros que peregrinan entre ellos, que cogiere caza de animal ó de ave que sea de comer, derramará su sangre y cubrirála con tierra: ^14^ Porque el alma de toda carne, su vida, está en su sangre: por tanto he dicho á los hijos de Israel: No comeréis la sangre de ninguna carne, porque la vida de toda carne es su sangre: cualquiera que la comiere será cortado. 
 
 ^15^ Y cualquiera persona que comiere cosa mortecina, ó despedazada por fiera, así de los naturales como de los extranjeros, lavará sus vestidos y á sí mismo se lavará con agua, y será inmundo hasta la tarde; y se limpiará. ^16^ Y si no los lavare, ni lavare su carne, llevará su iniquidad. 
 
 # 18 
+## Leyes de castidad y matrimonio
 ^1^ Y habló Jehová á Moisés, diciendo: ^2^ Habla á los hijos de Israel, y diles: Yo soy Jehová vuestro Dios. ^3^ No haréis como hacen en la tierra de Egipto, en la cual morasteis; ni haréis como hacen en la tierra de Canaán, á la cual yo os conduzco; ni andaréis en sus estatutos. ^4^ Mis derechos pondréis por obra, y mis estatutos guardaréis, andando en ellos: Yo Jehová vuestro Dios. ^5^ Por tanto mis estatutos y mis derechos guardaréis, los cuales haciendo el hombre, vivirá en ellos: Yo Jehová. 
 
+## Prohibición del incesto; Lista de matrimonios prohibidos
 ^6^ Ningún varón se allegue á ninguna cercana de su carne, para descubrir su desnudez: Yo Jehová. 
 
 ^7^ La desnudez de tu padre, ó la desnudez de tu madre, no descubrirás: tu madre es, no descubrirás su desnudez. 
@@ -390,6 +398,7 @@
 
 ^18^ No tomarás mujer juntamente con su hermana, para hacerla su rival, descubriendo su desnudez delante de ella en su vida. 
 
+## Advertencia de fornicar pecados
 ^19^ Y no llegarás á la mujer en el apartamiento de su inmundicia, para descubrir su desnudez. 
 
 ^20^ Además, no tendrás acto carnal con la mujer de tu prójimo, contaminándote en ella. 
@@ -405,6 +414,7 @@
 ^29^ Porque cualquiera que hiciere alguna de todas estas abominaciones, las personas que las hicieren, serán cortadas de entre su pueblo. ^30^ Guardad, pues, mi ordenanza, no haciendo de las prácticas abominables que tuvieron lugar antes de vosotros, y no os ensuciéis en ellas: Yo Jehová vuestro Dios. 
 
 # 19 
+## Todo tipo de reglamentos basados ​​en los Diez Mandamientos
 ^1^ Y habló Jehová á Moisés, diciendo: ^2^ Habla á toda la congregación de los hijos de Israel, y diles: Santos seréis, porque santo soy yo Jehová vuestro Dios. 
 
 ^3^ Cada uno temerá á su madre y á su padre, y mis sábados guardaréis: Yo Jehová vuestro Dios. 
@@ -431,6 +441,7 @@
 
 ^18^ No te vengarás, ni guardarás rencor á los hijos de tu pueblo: mas amarás á tu prójimo como á ti mismo: Yo Jehová. 
 
+## Varias regulaciones religiosas y morales, prohibiciones de costumbres paganas
 ^19^ Mis estatutos guardaréis. A tu animal no harás ayuntar para misturas; tu haza no sembrarás con mistura de semillas, y no te pondrás vestidos con mezcla de diversas cosas. 
 
 ^20^ Y cuando un hombre tuviere cópula con mujer, y ella fuere sierva desposada con alguno, y no estuviere rescatada, ni le hubiere sido dada libertad, ambos serán azotados: no morirán, por cuanto ella no es libre. ^21^ Y él traerá á Jehová, á la puerta del tabernáculo del testimonio, un carnero en expiación por su culpa. ^22^ Y con el carnero de la expiación lo reconciliará el sacerdote delante de Jehová, por su pecado que cometió: y se le perdonará su pecado que ha cometido. 
@@ -449,6 +460,7 @@
 
 ^31^ No os volváis á los encantadores y á los adivinos: no los consultéis ensuciándoos con ellos: Yo Jehová vuestro Dios. 
 
+## Varios deberes hacia el vecino
 ^32^ Delante de las canas te levantarás, y honrarás el rostro del anciano, y de tu Dios tendrás temor: Yo Jehová. 
 
 ^33^ Y cuando el extranjero morare contigo en vuestra tierra, no le oprimiréis. ^34^ Como á un natural de vosotros tendréis al extranjero que peregrinare entre vosotros; y ámalo como á ti mismo; porque peregrinos fuisteis en la tierra de Egipto: Yo Jehová vuestro Dios. 
@@ -458,10 +470,12 @@
 ^37^ Guardad pues todos mis estatutos, y todos mis derechos, y ponedlos por obra: Yo Jehová. 
 
 # 20 
+## Disposiciones penales especialmente para las delitos prohibidos
 ^1^ Y habló Jehová á Moisés diciendo: ^2^ Dirás asimismo á los hijos de Israel: Cualquier varón de los hijos de Israel, ó de los extranjeros que peregrinan en Israel, que diere de su simiente á Moloch, de seguro morirá: el pueblo de la tierra lo apedreará con piedras. ^3^ Y yo pondré mi rostro contra el tal varón, y lo cortaré de entre su pueblo; por cuanto dió de su simiente á Moloch, contaminando mi santuario, y amancillando mi santo nombre. ^4^ Que si escondiere el pueblo de la tierra sus ojos de aquel varón que hubiere dado de su simiente á Moloch, para no matarle, ^5^ Entonces yo pondré mi rostro contra aquel varón, y contra su familia, y le cortaré de entre su pueblo, con todos los que fornicaron en pos de él, prostituyéndose con Moloch. 
 
 ^6^ Y la persona que atendiere á encantadores ó adivinos, para prostituirse tras de ellos, yo pondré mi rostro contra la tal persona, y cortaréla de entre su pueblo. 
 
+## Amonestación para santificar; Castigos por diversos pecados y delitos
 ^7^ Santificaos, pues, y sed santos, porque yo Jehová soy vuestro Dios. ^8^ Y guardad mis estatutos, y ponedlos por obra: Yo Jehová que os santifico. 
 
 ^9^ Porque varón que maldijere á su padre ó á su madre, de cierto morirá: á su padre ó á su madre maldijo; su sangre será sobre él. 
@@ -488,6 +502,7 @@
 
 ^21^ Y el que tomare la mujer de su hermano, es suciedad; la desnudez de su hermano descubrió; sin hijos serán. 
 
+## Exhortación a ser santos para Israel como pueblo apartado para Dios
 ^22^ Guardad, pues, todos mis estatutos y todos mis derechos, y ponedlos por obra: y no os vomitará la tierra, en la cual yo os introduzco para que habitéis en ella. ^23^ Y no andéis en las prácticas de la gente que yo echaré de delante de vosotros: porque ellos hicieron todas estas cosas, y los tuve en abominación. ^24^ Empero á vosotros os he dicho: Vosotros poseeréis la tierra de ellos, y yo os la daré para que la poseáis por heredad, tierra que fluye leche y miel: Yo Jehová vuestro Dios, que os he apartado de los pueblos. 
 
 ^25^ Por tanto, vosotros haréis diferencia entre animal limpio é inmundo, y entre ave inmunda y limpia: y no ensuciéis vuestras personas en los animales, ni en las aves, ni en ninguna cosa que va arrastrando por la tierra, las cuales os he apartado por inmundas. ^26^ Habéis, pues, de serme santos, porque yo Jehová soy santo, y os he apartado de los pueblos, para que seáis míos. 
@@ -495,6 +510,7 @@
 ^27^ Y el hombre ó la mujer en quienes hubiere espíritu pithónico ó de adivinación, han de ser muertos: los apedrearán con piedras; su sangre sobre ellos. 
 
 # 21 
+## Ordenanzas sobre contaminación por muerte, costumbres de duelo y obstáculos al matrimonio
 ^1^ Y jehová dijo á Moisés: Habla á los sacerdotes hijos de Aarón, y diles que no se contaminen por un muerto en sus pueblos. ^2^ Mas por su pariente cercano á sí, por su madre, ó por su padre, ó por su hijo, ó por su hermano, ^3^ O por su hermana virgen, á él cercana, la cual no haya tenido marido, por ella se contaminará. ^4^ No se contaminará, porque es príncipe en sus pueblos, haciéndose inmundo. 
 
 ^5^ No harán calva en su cabeza, ni raerán la punta de su barba, ni en su carne harán rasguños. ^6^ Santos serán á su Dios, y no profanarán el nombre de su Dios; porque los fuegos de Jehová y el pan de su Dios ofrecen: por tanto serán santos. 
@@ -507,11 +523,13 @@
 
 ^13^ Y tomará él mujer con su virginidad. ^14^ Viuda, ó repudiada, ó infame, ó ramera, éstas no tomará: mas tomará virgen de sus pueblos por mujer. ^15^ Y no amancillará su simiente en sus pueblos; porque yo Jehová soy el que los santifico. 
 
+## Los defectos físicos excluyendo el sacerdocio
 ^16^ Y Jehová habló á Moisés, diciendo: ^17^ Habla á Aarón, y dile: El varón de tu simiente en sus generaciones, en el cual hubiere falta, no se allegará para ofrecer el pan de su Dios. ^18^ Porque ningún varón en el cual hubiere falta, se allegará: varón ciego, ó cojo, ó falto, ó sobrado, ^19^ O varón en el cual hubiere quebradura de pie ó rotura de mano, ^20^ O corcovado, ó lagañoso, ó que tuviere nube en el ojo, ó que tenga sarna, ó empeine, ó compañón relajado; ^21^ Ningún varón de la simiente de Aarón sacerdote, en el cual hubiere falta, se allegará para ofrecer las ofrendas encendidas de Jehová. Hay falta en él; no se allegará á ofrecer el pan de su Dios. ^22^ El pan de su Dios, de lo muy santo y las cosas santificadas, comerá. ^23^ Empero no entrará del velo adentro, ni se allegará al altar, por cuanto hay falta en él: y no profanará mi santuario, porque yo Jehová soy el que los santifico. 
 
 ^24^ Y Moisés habló esto á Aarón, y á sus hijos, y á todos los hijos de Israel. 
 
 # 22 
+## Comportamiento hacia los dones sagrados
 ^1^ Y habló Jehová á Moisés, diciendo: ^2^ Di á Aarón y á sus hijos, que se abstengan de las santificaciones de los hijos de Israel, y que no profanen mi santo nombre en lo que ellos me santifican: Yo Jehová. 
 
 ^3^ Diles: Todo varón de toda vuestra simiente en vuestras generaciones que llegare á las cosas sagradas, que los hijos de Israel consagran á Jehová, teniendo inmundicia sobre sí, de delante de mí será cortada su alma: Yo Jehová. 
@@ -524,8 +542,10 @@
 
 ^14^ Y el que por yerro comiere cosa sagrada, añadirá á ella su quinto, y darálo al sacerdote con la cosa sagrada. ^15^ No profanarán, pues, las cosas santas de los hijos de Israel, las cuales apartan para Jehová: ^16^ Y no les harán llevar la iniquidad del pecado, comiendo las cosas santas de ellos: porque yo Jehová soy el que los santifico. 
 
+## Impecabilidad de los animales sacrificados
 ^17^ Y habló Jehová á Moisés, diciendo: ^18^ Habla á Aarón y á sus hijos, y á todos los hijos de Israel, y diles: Cualquier varón de la casa de Israel, ó de los extranjeros en Israel, que ofreciere su ofrenda por todos sus votos, y por todas sus voluntarias oblaciones que ofrecieren á Jehová en holocausto; ^19^ De vuestra voluntad ofreceréis macho sin defecto de entre las vacas, de entre los corderos, ó de entre las cabras. ^20^ Ninguna cosa en que haya falta ofreceréis, porque no será acepto por vosotros. ^21^ Asimismo, cuando alguno ofreciere sacrificio de paces á Jehová para presentar voto, ú ofreciendo voluntariamente, sea de vacas ó de ovejas, sin tacha será acepto; no ha de haber en él falta. ^22^ Ciego, ó perniquebrado, ó mutilado, ó verrugoso, ó sarnoso, ó roñoso, no ofreceréis éstos á Jehová, ni de ellos pondréis ofrenda encendida sobre el altar de Jehová. ^23^ Buey ó carnero que tenga de más ó de menos, podrás ofrecer por ofrenda voluntaria; mas por voto no será acepto. ^24^ Herido ó magullado, rompido ó cortado, no ofreceréis á Jehová, ni en vuestra tierra lo haréis. ^25^ Y de mano de hijo de extranjero no ofreceréis el pan de vuestro Dios de todas estas cosas; porque su corrupción está en ellas: hay en ellas falta, no se os aceptarán. 
 
+## Tres reglas de sacrificio más
 ^26^ Y habló Jehová á Moisés, diciendo: ^27^ El buey, ó el cordero, ó la cabra, cuando naciere, siete días estará mamando de su madre: mas desde el octavo día en adelante será acepto para ofrenda de sacrificio encendido á Jehová. ^28^ Y sea buey ó carnero, no degollaréis en un día á él y á su hijo. 
 
 ^29^ Y cuando sacrificareis sacrificio de hacimiento de gracias á Jehová, de vuestra voluntad lo sacrificaréis. ^30^ En el mismo día se comerá; no dejaréis de él para otro día: Yo Jehová. 
@@ -533,35 +553,47 @@
 ^31^ Guardad pues mis mandamientos, y ejecutadlos: Yo Jehová. ^32^ Y no amancilléis mi santo nombre, y yo me santificaré en medio de los hijos de Israel: Yo Jehová que os santifico; ^33^ Que os saqué de la tierra de Egipto, para ser vuestro Dios: Yo Jehová. 
 
 # 23 
+## Leyes para la celebración del sábado y las fiestas del año
 ^1^ Y habló Jehová á Moisés, diciendo: ^2^ Habla á los hijos de Israel, y diles: Las solemnidades de Jehová, las cuales proclamaréis santas convocaciones, aquestas serán mis solemnidades. 
 
+## El sábado
 ^3^ Seis días se trabajará, y el séptimo día sábado de reposo será, convocación santa: ninguna obra haréis; sábado es de Jehová en todas vuestras habitaciones. 
 
+## La Pascua y la solemnidad de los ázimos
 ^4^ Estas son las solemnidades de Jehová, las convocaciones santas, á las cuales convocaréis en sus tiempos. ^5^ En el mes primero, á los catorce del mes, entre las dos tardes, pascua es de Jehová. ^6^ Y á los quince días de este mes es la solemnidad de los ázimos á Jehová: siete días comeréis ázimos. ^7^ El primer día tendréis santa convocación: ninguna obra servil haréis. ^8^ Y ofreceréis á Jehová siete días ofrenda encendida: el séptimo día será santa convocación; ninguna obra servil haréis. 
 
+## Ofreciendo de los primeros frutos
 ^9^ Y habló Jehová á Moisés, diciendo: ^10^ Habla á los hijos de Israel, y diles: Cuando hubiereis entrado en la tierra que yo os doy, y segareis su mies, traeréis al sacerdote un omer por primicia de los primeros frutos de vuestra siega; ^11^ El cual mecerá el omer delante de Jehová, para que seáis aceptos: el siguiente día del sábado lo mecerá el sacerdote. ^12^ Y el día que ofrezcáis el omer, ofreceréis un cordero de un año, sin defecto, en holocausto á Jehová. ^13^ Y su presente será dos décimas de flor de harina amasada con aceite, ofrenda encendida á Jehová en olor suavísimo; y su libación de vino, la cuarta parte de un hin. ^14^ Y no comeréis pan, ni grano tostado, ni espiga fresca, hasta este mismo día, hasta que hayáis ofrecido la ofrenda de vuestro Dios; estatuto perpetuo es por vuestras edades en todas vuestras habitaciones. 
 
+## La fiesta de Pentecostés
 ^15^ Y os habéis de contar desde el siguiente día del sábado, desde el día en que ofrecisteis el omer de la ofrenda mecida; siete semanas cumplidas serán: ^16^ Hasta el siguiente día del sábado séptimo contaréis cincuenta días; entonces ofreceréis nuevo presente á Jehová. ^17^ De vuestras habitaciones traeréis dos panes para ofrenda mecida, que serán de dos décimas de flor de harina, cocidos con levadura, por primicias á Jehová. ^18^ Y ofreceréis con el pan siete corderos de un año sin defecto, y un becerro de la vacada y dos carneros: serán holocausto á Jehová, con su presente y sus libaciones; ofrenda encendida de suave olor á Jehová. ^19^ Ofreceréis además un macho de cabrío por expiación; y dos corderos de un año en sacrificio de paces. ^20^ Y el sacerdote los mecerá en ofrenda agitada delante de Jehová, con el pan de las primicias, y los dos corderos: serán cosa sagrada de Jehová para el sacerdote. ^21^ Y convocaréis en este mismo día; os será santa convocación: ninguna obra servil haréis: estatuto perpetuo en todas vuestras habitaciones por vuestras edades. 
 
 ^22^ Y cuando segareis la mies de vuestra tierra, no acabarás de segar el rincón de tu haza, ni espigarás tu siega; para el pobre, y para el extranjero la dejarás: Yo Jehová vuestro Dios. 
 
+## La celebracion del año nuevo
 ^23^ Y habló Jehová á Moisés, diciendo: ^24^ Habla á los hijos de Israel, y diles: En el mes séptimo, al primero del mes tendréis sábado, una conmemoración al son de trompetas, y una santa convocación. ^25^ Ninguna obra servil haréis; y ofreceréis ofrenda encendida á Jehová. 
 
+## Der große Versöhnungstag
 ^26^ Y habló Jehová á Moisés, diciendo: ^27^ Empero á los diez de este mes séptimo será el día de las expiaciones: tendréis santa convocación, y afligiréis vuestras almas, y ofreceréis ofrenda encendida á Jehová. ^28^ Ninguna obra haréis en este mismo día; porque es día de expiaciones, para reconciliaros delante de Jehová vuestro Dios. ^29^ Porque toda persona que no se afligiere en este mismo día, será cortada de sus pueblos. ^30^ Y cualquiera persona que hiciere obra alguna en este mismo día, yo destruiré la tal persona de entre su pueblo. ^31^ Ninguna obra haréis: estatuto perpetuo es por vuestras edades en todas vuestras habitaciones. ^32^ Sábado de reposo será á vosotros, y afligiréis vuestras almas, comenzando á los nueve del mes en la tarde: de tarde á tarde holgaréis vuestro sábado. 
 
+## La fiesta de los tabernáculos
 ^33^ Y habló Jehová á Moisés, diciendo: ^34^ Habla á los hijos de Israel, y diles: A los quince días de este mes séptimo será la solemnidad de las cabañas á Jehová por siete días. ^35^ El primer día habrá santa convocación: ninguna obra servil haréis. ^36^ Siete días ofreceréis ofrenda encendida á Jehová: el octavo día tendréis santa convocación, y ofreceréis ofrenda encendida á Jehová: es fiesta: ninguna obra servil haréis. 
 
+## Finalización del calendario de festivales
 ^37^ Estas son las solemnidades de Jehová, á las que convocaréis santas reuniones, para ofrecer ofrenda encendida á Jehová, holocausto y presente, sacrificio y libaciones, cada cosa en su tiempo: ^38^ Además de los sábados de Jehová y además de vuestros dones, y á más de todos vuestros votos, y además de todas vuestras ofrendas voluntarias, que daréis á Jehová. 
 
+## Disposiciones posteriores sobre la fiesta de los tabernáculos
 ^39^ Empero á los quince del mes séptimo, cuando hubiereis allegado el fruto de la tierra, haréis fiesta á Jehová por siete días: el primer día será sábado; sábado será también el octavo día. ^40^ Y tomaréis el primer día gajos con fruto de árbol hermoso, ramos de palmas, y ramas de árboles espesos, y sauces de los arroyos; y os regocijaréis delante de Jehová vuestro Dios por siete días. ^41^ Y le haréis fiesta á Jehová por siete días cada un año; será estatuto perpetuo por vuestras edades; en el mes séptimo la haréis. ^42^ En cabañas habitaréis siete días: todo natural de Israel habitará en cabañas; ^43^ Para que sepan vuestros descendientes que en cabañas hice yo habitar á los hijos de Israel, cuando los saqué de la tierra de Egipto: Yo Jehová vuestro Dios. 
 
 ^44^ Así habló Moisés á los hijos de Israel sobre las solemnidades de Jehová. 
 
 # 24 
+## Reglamento sobre la preparación del candelero santo y el pan de la proposición
 ^1^ Y habló Jehová á Moisés, diciendo: ^2^ Manda á los hijos de Israel que te traigan aceite de olivas claro, molido, para la luminaria, para hacer arder las lámparas de continuo. ^3^ Fuera del velo del testimonio, en el tabernáculo del testimonio, las aderezará Aarón desde la tarde hasta la mañana delante de Jehová, de continuo: estatuto perpetuo por vuestras edades. ^4^ Sobre el candelero limpio pondrá siempre en orden las lámparas delante de Jehová. 
 
 ^5^ Y tomarás flor de harina, y cocerás de ella doce tortas: cada torta será de dos décimas. ^6^ Y has de ponerlas en dos órdenes, seis en cada orden, sobre la mesa limpia delante de Jehová. ^7^ Pondrás también sobre cada orden incienso limpio, y será para el pan por perfume, ofrenda encendida á Jehová. ^8^ Cada día de sábado lo pondrá de continuo en orden delante de Jehová, de los hijos de Israel por pacto sempiterno. ^9^ Y será de Aarón y de sus hijos, los cuales lo comerán en el lugar santo; porque es cosa muy santa para él, de las ofrendas encendidas á Jehová, por fuero perpetuo. 
 
+## Castigo por blasfemia, homicidio y lesiones corporales;
 ^10^ En aquella sazón el hijo de una mujer Israelita, el cual era hijo de un Egipcio, salió entre los hijos de Israel; y el hijo de la Israelita y un hombre de Israel riñeron en el real: ^11^ Y el hijo de la mujer Israelita pronunció el Nombre, y maldijo: entonces le llevaron á Moisés. Y su madre se llamaba Selomith, hija de Dribi, de la tribu de Dan. ^12^ Y pusiéronlo en la cárcel, hasta que les fuese declarado por palabra de Jehová. ^13^ Y Jehová habló á Moisés, diciendo: ^14^ Saca al blasfemo fuera del real, y todos los que le oyeron pongan sus manos sobre la cabeza de él, y apedréelo toda la congregación. ^15^ Y á los hijos de Israel hablarás, diciendo: Cualquiera que maldijere á su Dios, llevará su iniquidad. ^16^ Y el que blasfemare el nombre de Jehová, ha de ser muerto: toda la congregación lo apedreará: así el extranjero como el natural, si blasfemare el Nombre, que muera. 
 
 ^17^ Asimismo el hombre que hiere de muerte á cualquiera persona, que sufra la muerte. ^18^ Y el que hiere á algún animal, ha de restituirlo: animal por animal. ^19^ Y el que causare lesión en su prójimo, según hizo, así le sea hecho: ^20^ Rotura por rotura, ojo por ojo, diente por diente: según la lesión que habrá hecho á otro, tal se hará á él. ^21^ El que hiere algún animal, ha de restituirlo; mas el que hiere de muerte á un hombre, que muera. ^22^ Un mismo derecho tendréis: como el extranjero, así será el natural: porque yo soy Jehová vuestro Dios. 
@@ -569,8 +601,10 @@
 ^23^ Y habló Moisés á los hijos de Israel, y ellos sacaron al blasfemo fuera del real, y apedreáronlo con piedras. Y los hijos de Israel hicieron según que Jehová había mandado á Moisés. 
 
 # 25 
+## El año sabático
 ^1^ Y jehová habló á Moisés en el monte de Sinaí, diciendo: ^2^ Habla á los hijos de Israel, y diles: Cuando hubiereis entrado en la tierra que yo os doy, la tierra hará sábado á Jehová. ^3^ Seis años sembrarás tu tierra, y seis años podarás tu viña, y cogerás sus frutos; ^4^ Y el séptimo año la tierra tendrá sábado de holganza, sábado á Jehová: no sembrarás tu tierra, ni podarás tu viña. ^5^ Lo que de suyo se naciere en tu tierra segada, no lo segarás; y las uvas de tu viñedo no vendimiarás: año de holganza será á la tierra. ^6^ Mas el sábado de la tierra os será para comer á ti, y á tu siervo, y á tu sierva, y á tu criado, y á tu extranjero que morare contigo: ^7^ Y á tu animal, y á la bestia que hubiere en tu tierra, será todo el fruto de ella para comer. 
 
+## El año de jubileo
 ^8^ Y te has de contar siete semanas de años, siete veces siete años; de modo que los días de las siete semanas de años vendrán á serte cuarenta y nueve años. ^9^ Entonces harás pasar la trompeta de jubilación en el mes séptimo á los diez del mes; el día de la expiación haréis pasar la trompeta por toda vuestra tierra. ^10^ Y santificaréis el año cincuenta, y pregonaréis libertad en la tierra á todos sus moradores: éste os será jubileo; y volveréis cada uno á su posesión, y cada cual volverá á su familia. ^11^ El año de los cincuenta años os será jubileo: no sembraréis, ni segaréis lo que naciere de suyo en la tierra, ni vendimiaréis sus viñedos: ^12^ Porque es jubileo: santo será á vosotros; el producto de la tierra comeréis. 
 
 ^13^ En este año de jubileo volveréis cada uno á su posesión. 
@@ -581,12 +615,14 @@
 
 ^23^ Y la tierra no se venderá rematadamente, porque la tierra mía es; que vosotros peregrinos y extranjeros sois para conmigo. ^24^ Por tanto, en toda la tierra de vuestra posesión, otorgaréis redención á la tierra. 
 
+## Redención o recaída de la propiedad de la tierra y la vivienda
 ^25^ Cuando tu hermano empobreciere, y vendiere algo de su posesión, vendrá el rescatador, su cercano, y rescatará lo que su hermano hubiere vendido. ^26^ Y cuando el hombre no tuviere rescatador, si alcanzare su mano, y hallare lo que basta para su rescate; ^27^ Entonces contará los años de su venta, y pagará lo que quedare al varón á quien vendió, y volverá á su posesión. ^28^ Mas si no alcanzare su mano lo que basta para que vuelva á él, lo que vendió estará en poder del que lo compró hasta el año del jubileo; y al jubileo saldrá, y él volverá á su posesión. 
 
 ^29^ Y el varón que vendiere casa de morada en ciudad cercada, tendrá facultad de redimirla hasta acabarse el año de su venta: un año será el término de poderse redimir. ^30^ Y si no fuere redimida dentro de un año entero, la casa que estuviere en la ciudad murada quedará para siempre por de aquel que la compró, y para sus descendientes: no saldrá en el jubileo. ^31^ Mas las casas de las aldeas que no tienen muro alrededor, serán estimadas como una haza de tierra: tendrán redención, y saldrán en el jubileo. 
 
 ^32^ Pero en cuanto á las ciudades de los Levitas, siempre podrán redimir los Levitas las casas de las ciudades que poseyeren. ^33^ Y el que comprare de los Levitas, saldrá de la casa vendida, ó de la ciudad de su posesión, en el jubileo: por cuanto las casas de las ciudades de los Levitas es la posesión de ellos entre los hijos de Israel. ^34^ Mas la tierra del ejido de sus ciudades no se venderá, porque es perpetua posesión de ellos. 
 
+## Mandamiento de ayudar a los israelitas empobrecidos; Compra de esclavos hebreos o su liberación en el año de jubileo
 ^35^ Y cuando tu hermano empobreciere, y se acogiere á ti, tú lo ampararás: como peregrino y extranjero vivirá contigo. ^36^ No tomarás usura de él, ni aumento; mas tendrás temor de tu Dios, y tu hermano vivirá contigo. ^37^ No le darás tu dinero á usura, ni tu vitualla á ganancia: ^38^ Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para daros la tierra de Canaán, para ser vuestro Dios. 
 
 ^39^ Y cuando tu hermano empobreciere, estando contigo, y se vendiere á ti, no le harás servir como siervo: ^40^ Como criado, como extranjero estará contigo; hasta el año del jubileo te servirá. ^41^ Entonces saldrá de contigo, él y sus hijos consigo, y volverá á su familia, y á la posesión de sus padres se restituirá. ^42^ Porque son mis siervos, los cuales saqué yo de la tierra de Egipto: no serán vendidos á manera de siervos. ^43^ No te enseñorearás de él con dureza, mas tendrás temor de tu Dios. 
@@ -596,33 +632,42 @@
 ^47^ Y si el peregrino ó extranjero que está contigo, adquiriese medios, y tu hermano que está con él empobreciere, y se vendiere al peregrino ó extranjero que está contigo, ó á la raza de la familia del extranjero; ^48^ Después que se hubiere vendido, podrá ser rescatado: uno de sus hermanos lo rescatará; ^49^ O su tío, ó el hijo de su tío lo rescatará, ó el cercano de su carne, de su linaje, lo rescatará; ó si sus medios alcanzaren, él mismo se redimirá. ^50^ Y contará con el que lo compró, desde el año que se vendió á él hasta el año del jubileo: y ha de apreciarse el dinero de su venta conforme al número de los años, y se hará con él conforme al tiempo de un criado asalariado. ^51^ Si aun fueren muchos años, conforme á ellos volverá para su rescate del dinero por el cual se vendió. ^52^ Y si quedare poco tiempo hasta el año del jubileo, entonces contará con él, y devolverá su rescate conforme á sus años. ^53^ Como con tomado á salario anualmente hará con él: no se enseñoreará en él con aspereza delante de tus ojos. ^54^ Mas si no se redimiere en esos años, en el año del jubileo saldrá, él, y sus hijos con él. ^55^ Porque mis siervos son los hijos de Israel; son siervos míos, á los cuales saqué de la tierra de Egipto: Yo Jehová vuestro Dios. 
 
 # 26 
+## Bendiciones y maldiciones dadas por Dios como opción.
 ^1^ No haréis para vosotros ídolos, ni escultura, ni os levantaréis estatua, ni pondréis en vuestra tierra piedra pintada para inclinaros á ella: porque yo soy Jehová vuestro Dios. 
 
 ^2^ Guardad mis sábados, y tened en reverencia mi santuario: Yo Jehová. 
 
+## Promesas de bendiciones en caso de obediencia
 ^3^ Si anduviereis en mis decretos, y guardareis mis mandamientos, y los pusiereis por obra; ^4^ Yo daré vuestra lluvia en su tiempo, y la tierra rendirá sus producciones, y el árbol del campo dará su fruto; ^5^ Y la trilla os alcanzará á la vendimia, y la vendimia alcanzará á la sementera, y comeréis vuestro pan en hartura, y habitaréis seguros en vuestra tierra: 
 
 ^6^ Y yo daré paz en la tierra, y dormiréis, y no habrá quien os espante: y haré quitar las malas bestias de vuestra tierra, y no pasará por vuestro país la espada: ^7^ Y perseguiréis á vuestros enemigos, y caerán á cuchillo delante de vosotros: ^8^ Y cinco de vosotros perseguirán á ciento, y ciento de vosotros perseguirán á diez mil, y vuestros enemigos caerán á cuchillo delante de vosotros. 
 
 ^9^ Porque yo me volveré á vosotros, y os haré crecer, y os multiplicaré, y afirmaré mi pacto con vosotros: ^10^ Y comeréis lo añejo de mucho tiempo, y sacaréis fuera lo añejo á causa de lo nuevo: ^11^ Y pondré mi morada en medio de vosotros, y mi alma no os abominará: ^12^ Y andaré entre vosotros, y yo seré vuestro Dios, y vosotros seréis mi pueblo. ^13^ Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para que no fueseis sus siervos; y rompí las coyundas de vuestro yugo, y os he hecho andar el rostro alto. 
 
+## Tödliche Krankheiten und schimpfliche Niederlagen
 ^14^ Empero si no me oyereis, ni hiciereis todos estos mis mandamientos, ^15^ Y si abominareis mis decretos, y vuestra alma menospreciare mis derechos, no ejecutando todos mis mandamientos, é invalidando mi pacto; ^16^ Yo también haré con vosotros esto: enviaré sobre vosotros terror, extenuación y calentura, que consuman los ojos y atormenten el alma: y sembraréis en balde vuestra simiente, porque vuestros enemigos la comerán: ^17^ Y pondré mi ira sobre vosotros, y seréis heridos delante de vuestros enemigos; y los que os aborrecen se enseñorearán de vosotros, y huiréis sin que haya quien os persiga. 
 
+## Sequía y mal crecimiento
 ^18^ Y si aun con esas cosas no me oyereis, yo tornaré á castigaros siete veces más por vuestros pecados. ^19^ Y quebrantaré la soberbia de vuestra fortaleza, y tornaré vuestro cielo como hierro, y vuestra tierra como metal: ^20^ Y vuestra fuerza se consumirá en vano; que vuestra tierra no dará su esquilmo, y los árboles de la tierra no darán su fruto. 
 
+## Animales salvajes
 ^21^ Y si anduviereis conmigo en oposición, y no me quisiereis oir, yo añadiré sobre vosotros siete veces más plagas según vuestros pecados. ^22^ Enviaré también contra vosotros bestias fieras que os arrebaten los hijos, y destruyan vuestros animales, y os apoquen, y vuestros caminos sean desiertos. 
 
+## Angustia de guerra combinada con peste y hambre
 ^23^ Y si con estas cosas no fuereis corregidos, sino que anduviereis conmigo en oposición, ^24^ Yo también procederé con vosotros en oposición, y os heriré aun siete veces por vuestros pecados: ^25^ Y traeré sobre vosotros espada vengadora, en vindicación del pacto; y os recogeréis á vuestras ciudades; mas yo enviaré pestilencia entre vosotros, y seréis entregados en mano del enemigo. ^26^ Cuando yo os quebrantare el arrimo del pan, cocerán diez mujeres vuestro pan en un horno, y os devolverán vuestro pan por peso; y comeréis, y no os hartaréis. 
 
+## El sufrimiento del pueblo durante el exilio en los países de sus enemigos.
 ^27^ Y si con esto no me oyereis, mas procediereis conmigo en oposición, ^28^ Yo procederé con vosotros en contra y con ira, y os castigaré aun siete veces por vuestros pecados. ^29^ Y comeréis las carnes de vuestros hijos, y comeréis las carnes de vuestras hijas: ^30^ Y destruiré vuestros altos, y talaré vuestras imágenes, y pondré vuestros cuerpos muertos sobre los cuerpos muertos de vuestros ídolos, y mi alma os abominará: ^31^ Y pondré vuestras ciudades en desierto, y asolaré vuestros santuarios, y no oleré la fragancia de vuestro suave perfume. ^32^ Yo asolaré también la tierra, y se pasmarán de ella vuestros enemigos que en ella moran: ^33^ Y á vosotros os esparciré por las gentes, y desenvainaré espada en pos de vosotros: y vuestra tierra estará asolada, y yermas vuestras ciudades. ^34^ Entonces la tierra holgará sus sábados todos los días que estuviere asolada, y vosotros en la tierra de vuestros enemigos: la tierra descansará entonces y gozará sus sábados. ^35^ Todo el tiempo que estará asolada, holgará lo que no holgó en vuestros sábados mientras habitabais en ella. 
 
 ^36^ Y á los que quedaren de vosotros infundiré en sus corazones tal cobardía, en la tierra de sus enemigos, que el sonido de una hoja movida los perseguirá, y huirán como de cuchillo, y caerán sin que nadie los persiga: ^37^ Y tropezarán los unos en los otros, como si huyeran delante de cuchillo, aunque nadie los persiga; y no podréis resistir delante de vuestros enemigos. ^38^ Y pereceréis entre las gentes, y la tierra de vuestros enemigos os consumirá. ^39^ Y los que quedaren de vosotros decaerán en las tierras de vuestros enemigos por su iniquidad; y por la iniquidad de sus padres decaerán con ellos: 
 
+## Perspectiva sobre el arrepentimiento y la conversión de Israel en el exilio
 ^40^ Y confesarán su iniquidad, y la iniquidad de sus padres, por su prevaricación con que prevaricaron contra mí: y también porque anduvieron conmigo en oposición, ^41^ Yo también habré andado con ellos en contra, y los habré metido en la tierra de sus enemigos: y entonces se humillará su corazón incircunciso, y reconocerán su pecado; ^42^ Y yo me acordaré de mi pacto con Jacob, y asimismo de mi pacto con Isaac, y también de mi pacto con Abraham me acordaré; y haré memoria de la tierra. ^43^ Que la tierra estará desamparada de ellos, y holgará sus sábados, estando yerma á causa de ellos; mas entretanto se someterán al castigo de sus iniquidades: por cuanto menospreciaron mis derechos, y tuvo el alma de ellos fastidio de mis estatutos. ^44^ Y aun con todo esto, estando ellos en tierra de sus enemigos, yo no los desecharé, ni los abominaré para consumirlos, invalidando mi pacto con ellos: porque yo Jehová soy su Dios: ^45^ Antes me acordaré de ellos por el pacto antiguo, cuando los saqué de la tierra de Egipto á los ojos de las gentes, para ser su Dios: Yo Jehová. 
 
 ^46^ Estos son los decretos, derechos y leyes que estableció Jehová entre sí y los hijos de Israel en el monte de Sinaí por mano de Moisés. 
 
 # 27 
+## Votos y su solución
 ^1^ Y habló Jehová á Moisés, diciendo: ^2^ Habla á los hijos de Israel, y diles: Cuando alguno hiciere especial voto á Jehová, según la estimación de las personas que se hayan de redimir, así será tu estimación: ^3^ En cuanto al varón de veinte años hasta sesenta, tu estimación será cincuenta siclos de plata, según el siclo del santuario. ^4^ Y si fuere hembra, la estimación será treinta siclos. ^5^ Y si fuere de cinco años hasta veinte, tu estimación será respecto al varón veinte siclos, y á la hembra diez siclos. ^6^ Y si fuere de un mes hasta cinco años, tu estimación será en orden al varón, cinco siclos de plata; y por la hembra será tu estimación tres siclos de plata. ^7^ Mas si fuere de sesenta años arriba, por el varón tu estimación será quince siclos, y por la hembra diez siclos. ^8^ Pero si fuere más pobre que tu estimación, entonces comparecerá ante el sacerdote, y el sacerdote le pondrá tasa: conforme á la facultad del votante le impondrá tasa el sacerdote. 
 
 ^9^ Y si fuere animal de que se ofrece ofrenda á Jehová, todo lo que se diere de él á Jehová será santo. ^10^ No será mudado ni trocado, bueno por malo, ni malo por bueno: y si se permutare un animal por otro, él y el dado por él en cambio serán sagrados. ^11^ Y si fuere algún animal inmundo, de que no se ofrece ofrenda á Jehová, entonces el animal será puesto delante del sacerdote: ^12^ Y el sacerdote lo apreciará, sea bueno ó sea malo; conforme á la estimación del sacerdote, así será. ^13^ Y si lo hubieren de redimir, añadirán su quinto sobre tu valuación. 
@@ -633,12 +678,15 @@
 
 ^22^ Y si santificare alguno á Jehová la tierra que él compró, que no era de la tierra de su herencia, ^23^ Entonces el sacerdote calculará con él la suma de tu estimación hasta el año del jubileo, y aquel día dará tu señalado precio, cosa consagrada á Jehová. ^24^ En el año del jubileo, volverá la tierra á aquél de quien él la compró, cuya es la herencia de la tierra. ^25^ Y todo lo que apreciares será conforme al siclo del santuario: el siclo tiene veinte óbolos. 
 
+## Disposiciones relativas a los primogénitos
 ^26^ Empero el primogénito de los animales, que por la primogenitura es de Jehová, nadie lo santificará; sea buey ú oveja, de Jehová es. ^27^ Mas si fuere de los animales inmundos, lo redimirán conforme á tu estimación, y añadirán sobre ella su quinto: y si no lo redimieren, se venderá conforme á tu estimación. 
 
+## Consagraciones en forma de prohibición
 ^28^ Pero ninguna cosa consagrada, que alguno hubiere santificado á Jehová de todo lo que tuviere, de hombres y animales, y de las tierras de su posesión, no se venderá, ni se redimirá: todo lo consagrado será cosa santísima á Jehová. 
 
 ^29^ Cualquier anatema (cosa consagrada) de hombres que se consagrare, no será redimido: indefectiblemente ha de ser muerto. 
 
+## Disposiciones relativas a los diezmos de frutas y ganado
 ^30^ Y todas las décimas de la tierra, así de la simiente de la tierra como del fruto de los árboles, de Jehová son: es cosa consagrada á Jehová. ^31^ Y si alguno quisiere redimir algo de sus décimas, añadirá su quinto á ello. ^32^ Y toda décima de vacas ó de ovejas, de todo lo que pasa bajo la vara, la décima será consagrada á Jehová. ^33^ No mirará si es bueno ó malo, ni lo trocará: y si lo trocare, ello y su trueque serán cosas sagradas; no se redimirá. 
 
 ^34^ Estos son los mandamientos que ordenó Jehová á Moisés, para los hijos de Israel, en el monte de Sinaí. 

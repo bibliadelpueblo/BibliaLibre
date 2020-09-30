@@ -1,10 +1,10 @@
 ## La creación del mundo
 # 1 
-\bibverse{1} En el principio crió Dios los cielos y la tierra.^[**1:1** Hechos 17,24; Rev 4,11; Hebr 11,3; Juan 1,1-3] \bibverse{2} Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas. 
+\bibverse{1} En el principio crió Dios los cielos y la tierra.^[**1:1** Hech 17,24; Apoc 4,11; Heb 11,3; Juan 1,1-3] \bibverse{2} Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas. 
 
 
 ## La creación de la luz
-\bibverse{3} Y dijo Dios: Sea la luz: y fué la luz.^[**1:3** Sal 33,9; 2.Cor 4,6] \bibverse{4} Y vió Dios que la luz era buena: y apartó Dios la luz de las tinieblas. \bibverse{5} Y llamó Dios á la luz Día, y á las tinieblas llamó Noche: y fué la tarde y la mañana un día. 
+\bibverse{3} Y dijo Dios: Sea la luz: y fué la luz.^[**1:3** Sal 33,9; 2 Cor 4,6] \bibverse{4} Y vió Dios que la luz era buena: y apartó Dios la luz de las tinieblas. \bibverse{5} Y llamó Dios á la luz Día, y á las tinieblas llamó Noche: y fué la tarde y la mañana un día. 
 
 
 ## La creación de la expansion de los Cielos
@@ -12,7 +12,7 @@
  
 
 ## La separacion de la tierra y el mar y la creación de las plantas
-\bibverse{9} Y dijo Dios: Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase la seca: y fué así.^[**1:9** 2.Pedro 3,5; Job 38,8-11] \bibverse{10} Y llamó Dios á la seca Tierra, y á la reunión de las aguas llamó Mares: y vió Dios que era bueno. \bibverse{11} Y dijo Dios: Produzca la tierra hierba verde, hierba que dé simiente; árbol de fruto que dé fruto según su género, que su simiente esté en él, sobre la tierra: y fué así. \bibverse{12} Y produjo la tierra hierba verde, hierba que da simiente según su naturaleza, y árbol que da fruto, cuya simiente está en él, según su género: y vió Dios que era bueno. \bibverse{13} Y fué la tarde y la mañana el día tercero. 
+\bibverse{9} Y dijo Dios: Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase la seca: y fué así.^[**1:9** 2 Pe 3,5; Job 38,8-11] \bibverse{10} Y llamó Dios á la seca Tierra, y á la reunión de las aguas llamó Mares: y vió Dios que era bueno. \bibverse{11} Y dijo Dios: Produzca la tierra hierba verde, hierba que dé simiente; árbol de fruto que dé fruto según su género, que su simiente esté en él, sobre la tierra: y fué así. \bibverse{12} Y produjo la tierra hierba verde, hierba que da simiente según su naturaleza, y árbol que da fruto, cuya simiente está en él, según su género: y vió Dios que era bueno. \bibverse{13} Y fué la tarde y la mañana el día tercero. 
 
 
 ## La creación de las estrellas
@@ -25,21 +25,21 @@
 ## La creación de los animales terrestres y del hombre
 \bibverse{24} Y dijo Dios: Produzca la tierra seres vivientes según su género, bestias y serpientes y animales de la tierra según su especie: y fué así. \bibverse{25} E hizo Dios animales de la tierra según su género, y ganado según su género, y todo animal que anda arrastrando sobre la tierra según su especie: y vió Dios que era bueno. 
 
-\bibverse{26} Y dijo Dios: Hagamos al hombre á nuestra imagen, conforme á nuestra semejanza; y señoree en los peces de la mar, y en las aves de los cielos, y en las bestias, y en toda la tierra, y en todo animal que anda arrastrando sobre la tierra.^[**1:26** Sal 8,6-9] \bibverse{27} Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió.^[**1:27** Eph 4,24; Gen 2,7; Gen 2,22; Mateo 19,4] \bibverse{28} Y los bendijo Dios; y díjoles Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.^[**1:28** Hechos 17,26] \bibverse{29} Y dijo Dios: He aquí que os he dado toda hierba que da simiente, que está sobre la haz de toda la tierra; y todo árbol en que hay fruto de árbol que da simiente, seros ha para comer. \bibverse{30} Y á toda bestia de la tierra, y á todas las aves de los cielos, y á todo lo que se mueve sobre la tierra, en que hay vida, toda hierba verde les será para comer: y fué así. 
+\bibverse{26} Y dijo Dios: Hagamos al hombre á nuestra imagen, conforme á nuestra semejanza; y señoree en los peces de la mar, y en las aves de los cielos, y en las bestias, y en toda la tierra, y en todo animal que anda arrastrando sobre la tierra.^[**1:26** Sal 8,6-9] \bibverse{27} Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió.^[**1:27** Efes 4,24; Gén 2,7; Gén 2,22; Mat 19,4] \bibverse{28} Y los bendijo Dios; y díjoles Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.^[**1:28** Hech 17,26] \bibverse{29} Y dijo Dios: He aquí que os he dado toda hierba que da simiente, que está sobre la haz de toda la tierra; y todo árbol en que hay fruto de árbol que da simiente, seros ha para comer. \bibverse{30} Y á toda bestia de la tierra, y á todas las aves de los cielos, y á todo lo que se mueve sobre la tierra, en que hay vida, toda hierba verde les será para comer: y fué así. 
   
 
 \bibverse{31} Y vió Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fué la tarde y la mañana el día sexto. 
 
 ## El dia de reposo
 # 2
-\bibverse{1} Y fueron acabados los cielos y la tierra, y todo su ornamento. \bibverse{2} Y acabó Dios en el día séptimo su obra que hizo, y reposó el día séptimo de toda su obra que había hecho.^[**2:2** Juan 5,17; Hebr 4,4; Hebr 4,10] \bibverse{3} Y bendijo Dios al día séptimo, y santificólo, porque en él reposó de toda su obra que había Dios criado y hecho.^[**2:3** Exo 20,8-11]
+\bibverse{1} Y fueron acabados los cielos y la tierra, y todo su ornamento. \bibverse{2} Y acabó Dios en el día séptimo su obra que hizo, y reposó el día séptimo de toda su obra que había hecho.^[**2:2** Juan 5,17; Heb 4,4; Heb 4,10] \bibverse{3} Y bendijo Dios al día séptimo, y santificólo, porque en él reposó de toda su obra que había Dios criado y hecho.^[**2:3** Éxod 20,8-11]
  
 
 ## La creacion del hombre y de la mujer en el paraíso
-\bibverse{4} Estos son los orígenes de los cielos y de la tierra cuando fueron criados, el día que Jehová Dios hizo la tierra y los cielos, \bibverse{5} Y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese: porque aun no había Jehová Dios hecho llover sobre la tierra, ni había hombre para que labrase la tierra; \bibverse{6} Mas subía de la tierra un vapor, que regaba toda la faz de la tierra. \bibverse{7} Formó, pues, Jehová Dios al hombre del polvo de la tierra, y alentó en su nariz soplo de vida; y fué el hombre en alma viviente.^[**2:7** 1.Cor 15,45]
+\bibverse{4} Estos son los orígenes de los cielos y de la tierra cuando fueron criados, el día que Jehová Dios hizo la tierra y los cielos, \bibverse{5} Y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese: porque aun no había Jehová Dios hecho llover sobre la tierra, ni había hombre para que labrase la tierra; \bibverse{6} Mas subía de la tierra un vapor, que regaba toda la faz de la tierra. \bibverse{7} Formó, pues, Jehová Dios al hombre del polvo de la tierra, y alentó en su nariz soplo de vida; y fué el hombre en alma viviente.^[**2:7** 1 Cor 15,45]
 
 
-\bibverse{8} Y había Jehová Dios plantado un huerto en Edén al oriente, y puso allí al hombre que había formado. \bibverse{9} Y había Jehová Dios hecho nacer de la tierra todo árbol delicioso á la vista, y bueno para comer: también el árbol de vida en medio del huerto, y el árbol de ciencia del bien y del mal.^[**2:9** Gen 3,22; Gen 3,24; Rev 2,7; Rev 22,2]
+\bibverse{8} Y había Jehová Dios plantado un huerto en Edén al oriente, y puso allí al hombre que había formado. \bibverse{9} Y había Jehová Dios hecho nacer de la tierra todo árbol delicioso á la vista, y bueno para comer: también el árbol de vida en medio del huerto, y el árbol de ciencia del bien y del mal.^[**2:9** Gén 3,22; Gén 3,24; Apoc 2,7; Apoc 22,2]
 
 
 ## El río en el paraíso y sus ramales

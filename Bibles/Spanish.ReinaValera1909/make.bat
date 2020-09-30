@@ -8,7 +8,8 @@ xelatex Biblia12ptB5
 del BibliaDelOsoPinoleroB5.pdf
 ren Biblia12ptB5.pdf BibliaDelOsoPinoleroB5.pdf
 
-cp BibliaDelOsoPinoleroB5.pdf ..\pdf
-@REM cp BibliaDelOsoPinoleroLetraGrandeB5.pdf ..\pdf
+del ..\pdf\BibliaDelOsoPinoleroB5.pdf
+move BibliaDelOsoPinoleroB5.pdf ..\pdf
+@REM move BibliaDelOsoPinoleroLetraGrandeB5.pdf ..\pdf
 
 cd ..
