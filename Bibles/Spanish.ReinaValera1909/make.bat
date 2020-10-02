@@ -4,9 +4,9 @@ cd tex
 @REM xelatex Biblia14ptB5
 @REM del BibliaDelOsoPinoleroLetraGrandeB5.pdf
 @REM ren Biblia14ptB5.pdf BibliaDelOsoPinoleroLetraGrandeB5.pdf
-xelatex Biblia12ptB5
+xelatex Biblia11ptB5
 del BibliaDelOsoPinoleroB5.pdf
-ren Biblia12ptB5.pdf BibliaDelOsoPinoleroB5.pdf
+ren Biblia11ptB5.pdf BibliaDelOsoPinoleroB5.pdf
 
 del ..\pdf\BibliaDelOsoPinoleroB5.pdf
 move BibliaDelOsoPinoleroB5.pdf ..\pdf

@@ -1,4 +1,5 @@
 # 1 
+## Primer recuento de los hombres de guerra
 ^1^ Y habló Jehová á Moisés en el desierto de Sinaí, en el tabernáculo del testimonio, en el primero del mes segundo, en el segundo año de su salida de la tierra de Egipto, diciendo: ^2^ Tomad el encabezamiento de toda la congregación de los hijos de Israel por sus familias, por las casas de sus padres, con la cuenta de los nombres, todos los varones por sus cabezas: ^3^ De veinte años arriba, todos los que pueden salir á la guerra en Israel, los contaréis tú y Aarón por sus cuadrillas. ^4^ Y estará con vosotros un varón de cada tribu, cada uno cabeza de la casa de sus padres. ^5^ Y estos son los nombres de los varones que estarán con vosotros: De la tribu de Rubén, Elisur hijo de Sedeur. 
 
 ^6^ De Simeón, Selumiel hijo de Zurisaddai. 
@@ -23,6 +24,7 @@
 
 ^16^ Estos eran los nombrados de la congregación, príncipes de las tribus de sus padres, capitanes de los millares de Israel. ^17^ Tomó pues Moisés y Aarón á estos varones que fueron declarados por sus nombres: ^18^ Y juntaron toda la congregación en el primero del mes segundo, y fueron reunidos sus linajes, por las casas de sus padres, según la cuenta de los nombres, de veinte años arriba, por sus cabezas, ^19^ Como Jehová lo había mandado á Moisés; y contólos en el desierto de Sinaí. 
 
+## Los resultados del censo
 ^20^ Y los hijos de Rubén, primogénito de Israel, por sus generaciones, por sus familias, por las casas de sus padres, conforme á la cuenta de los nombres por sus cabezas, todos los varones de veinte años arriba, todos los que podían salir á la guerra; ^21^ Los contados de ellos, de la tribu de Rubén, fueron cuarenta y seis mil y quinientos. 
 
 ^22^ De los hijos de Simeón, por sus generaciones, por sus familias, por las casas de sus padres, los contados de ellos conforme á la cuenta de los nombres por sus cabezas, todos los varones de veinte años arriba, todos los que podían salir á la guerra; ^23^ Los contados de ellos, de la tribu de Simeón, cincuenta y nueve mil y trescientos. 
@@ -47,11 +49,15 @@
 
 ^42^ De los hijos de Nephtalí, por sus generaciones, por sus familias, por las casas de sus padres, conforme á la cuenta de los nombres, de veinte años arriba, todos los que podían salir á la guerra; ^43^ Los contados de ellos, de la tribu de Nephtalí, cincuenta y tres mil y cuatrocientos. 
 
-^44^ Estos fueron los contados, los cuales contaron Moisés y Aarón, con los príncipes de Israel, que eran doce, uno por cada casa de sus padres. ^45^ Y fueron todos los contados de los hijos de Israel por las casas de sus padres, de veinte años arriba, todos los que podían salir á la guerra en Israel; ^46^ Fueron todos los contados seiscientos tres mil quinientos y cincuenta. ^47^ Pero los Levitas no fueron contados entre ellos según la tribu de sus padres. ^48^ Porque habló Jehová á Moisés, diciendo: ^49^ Solamente no contarás la tribu de Leví, ni tomarás la cuenta de ellos entre los hijos de Israel: ^50^ Mas tú pondrás á los Levitas en el tabernáculo del testimonio, y sobre todos sus vasos, y sobre todas las cosas que le pertenecen: ellos llevarán el tabernáculo y todos sus vasos, y ellos servirán en él, y asentarán sus tiendas alrededor del tabernáculo. ^51^ Y cuando el tabernáculo partiere, los Levitas lo desarmarán; y cuando el tabernáculo parare, los Levitas lo armarán: y el extraño que se llegare, morirá. ^52^ Y los hijos de Israel asentarán sus tiendas cada uno en su escuadrón, y cada uno junto á su bandera, por sus cuadrillas; ^53^ Mas los Levitas asentarán las suyas alrededor del tabernáculo del testimonio, y no habrá ira sobre la congregación de los hijos de Israel: y los Levitas tendrán la guarda del tabernáculo del testimonio. 
+^44^ Estos fueron los contados, los cuales contaron Moisés y Aarón, con los príncipes de Israel, que eran doce, uno por cada casa de sus padres. ^45^ Y fueron todos los contados de los hijos de Israel por las casas de sus padres, de veinte años arriba, todos los que podían salir á la guerra en Israel; ^46^ Fueron todos los contados seiscientos tres mil quinientos y cincuenta.
+
+## La posición excepcional de los levitas
+^47^ Pero los Levitas no fueron contados entre ellos según la tribu de sus padres. ^48^ Porque habló Jehová á Moisés, diciendo: ^49^ Solamente no contarás la tribu de Leví, ni tomarás la cuenta de ellos entre los hijos de Israel: ^50^ Mas tú pondrás á los Levitas en el tabernáculo del testimonio, y sobre todos sus vasos, y sobre todas las cosas que le pertenecen: ellos llevarán el tabernáculo y todos sus vasos, y ellos servirán en él, y asentarán sus tiendas alrededor del tabernáculo. ^51^ Y cuando el tabernáculo partiere, los Levitas lo desarmarán; y cuando el tabernáculo parare, los Levitas lo armarán: y el extraño que se llegare, morirá. ^52^ Y los hijos de Israel asentarán sus tiendas cada uno en su escuadrón, y cada uno junto á su bandera, por sus cuadrillas; ^53^ Mas los Levitas asentarán las suyas alrededor del tabernáculo del testimonio, y no habrá ira sobre la congregación de los hijos de Israel: y los Levitas tendrán la guarda del tabernáculo del testimonio. 
 
 ^54^ E hicieron los hijos de Israel conforme á todas las cosas que mandó Jehová á Moisés; así lo hicieron. 
 
 # 2 
+## El orden de acampamiento de las tribus.
 ^1^ Y habló Jehová á Moisés y á Aarón, diciendo: ^2^ Los hijos de Israel acamparán cada uno junto á su bandera, según las enseñas de las casas de sus padres; alrededor del tabernáculo del testimonio acamparán. 
 
 ^3^ Estos acamparán al levante, al oriente: la bandera del ejército de Judá, por sus escuadrones; y el jefe de los hijos de Judá, Naasón hijo de Aminadab: ^4^ Su hueste, con los contados de ellos, setenta y cuatro mil y seiscientos. 
@@ -93,14 +99,18 @@
 ^34^ E hicieron los hijos de Israel conforme á todas las cosas que Jehová mandó á Moisés; así asentaron el campo por sus banderas, y así marcharon cada uno por sus familias, según las casas de sus padres. 
 
 # 3 
+## Los hijos de Aaron
 ^1^ Y estas son las generaciones de Aarón y de Moisés, desde que Jehová habló á Moisés en el monte de Sinaí. ^2^ Y estos son los nombres de los hijos de Aarón: Nadab el primogénito, y Abiú, Eleazar, é Ithamar. 
 
 ^3^ Estos son los nombres de los hijos de Aarón, sacerdotes ungidos; cuyas manos él hinchió para administrar el sacerdocio. ^4^ Mas Nadab y Abiú murieron delante de Jehová, cuando ofrecieron fuego extraño delante de Jehová, en el desierto de Sinaí: y no tuvieron hijos: y Eleazar é Ithamar ejercieron el sacerdocio delante de Aarón su padre. 
 
+## Los levitas fueron designados para ayudar a los sacerdotes y servir en el santuario.
 ^5^ Y Jehová habló á Moisés, diciendo: ^6^ Haz llegar á la tribu de Leví, y hazla estar delante del sacerdote Aarón, para que le ministren; ^7^ Y desempeñen su cargo, y el cargo de toda la congregación delante del tabernáculo del testimonio, para servir en el ministerio del tabernáculo; ^8^ Y guarden todas las alhajas del tabernáculo del testimonio, y lo encargado á ellos de los hijos de Israel, y ministren en el servicio del tabernáculo. ^9^ Y darás los Levitas á Aarón y á sus hijos: le son enteramente dados de entre los hijos de Israel. ^10^ Y constituirás á Aarón y á sus hijos, para que ejerzan su sacerdocio: y el extraño que se llegare, morirá. 
 
+## Los levitas fueran designados para redimir al primogénito israelita
 ^11^ Y habló Jehová á Moisés, diciendo: ^12^ Y he aquí yo he tomado los Levitas de entre los hijos de Israel en lugar de todos los primogénitos que abren la matriz entre los hijos de Israel; serán pues míos los Levitas: ^13^ Porque mío es todo primogénito; desde el día que yo maté todos los primogénitos en la tierra de Egipto, yo santifiqué á mí todos los primogénitos en Israel, así de hombres como de animales: míos serán: Yo Jehová. 
 
+## Conteo, lugar de almacenamiento, líder y reglamentos de los levitas masculinos
 ^14^ Y Jehová habló á Moisés en el desierto de Sinaí, diciendo: ^15^ Cuenta los hijos de Leví por las casas de sus padres, por sus familias: contarás todos los varones de un mes arriba. 
 
 ^16^ Y Moisés los contó conforme á la palabra de Jehová, como le fué mandado. 
@@ -131,6 +141,7 @@
 
 ^38^ Y los que acamparán delante del tabernáculo al oriente, delante del tabernáculo del testimonio al levante, serán Moisés, y Aarón y sus hijos, teniendo la guarda del santuario en lugar de los hijos de Israel: y el extraño que se acercare, morirá. ^39^ Todos los contados de los Levitas, que Moisés y Aarón conforme á la palabra de Jehová contaron por sus familias, todos los varones de un mes arriba, fueron veinte y dos mil. 
 
+## Examen y resolución del primogénito masculino en Israel
 ^40^ Y Jehová dijo á Moisés: Cuenta todos los primogénitos varones de los hijos de Israel de un mes arriba, y toma la cuenta de los nombres de ellos. ^41^ Y tomarás los Levitas para mí, yo Jehová, en lugar de todos los primogénitos de los hijos de Israel: y los animales de los Levitas en lugar de todos los primogénitos de los animales de los hijos de Israel. 
 
 ^42^ Y contó Moisés, como Jehová le mandó, todos los primogénitos de los hijos de Israel. ^43^ Y todos los primogénitos varones, conforme á la cuenta de los nombres, de un mes arriba, los contados de ellos fueron veinte y dos mil doscientos setenta y tres. 
@@ -140,6 +151,7 @@
 ^49^ Tomó, pues, Moisés el dinero del rescate de los que resultaron de más de los redimidos por los Levitas: ^50^ Y recibió de los primogénitos de los hijos de Israel en dinero, mil trescientos sesenta y cinco siclos, conforme al siclo del santuario. ^51^ Y Moisés dió el dinero de los rescates á Aarón y á sus hijos, conforme al dicho de Jehová, según que Jehová había mandado á Moisés. 
 
 # 4 
+## Examen de los levitas aptos para el servicio, incluidas las normas de servicio
 ^1^ Y habló Jehová á Moisés y á Aarón, diciendo: ^2^ Toma la cuenta de los hijos de Coath de entre los hijos de Leví, por sus familias, por las casas de sus padres, ^3^ De edad de treinta años arriba hasta cincuenta años, todos los que entran en compañía, para hacer servicio en el tabernáculo del testimonio. 
 
 ^4^ Este será el oficio de los hijos de Coath en el tabernáculo del testimonio, en el lugar santísimo: ^5^ Cuando se hubiere de mudar el campo, vendrán Aarón y sus hijos, y desarmarán el velo de la tienda, y cubrirán con él el arca del testimonio: ^6^ Y pondrán sobre ella la cubierta de pieles de tejones, y extenderán encima el paño todo de cárdeno, y le pondrán sus varas. 
@@ -166,6 +178,7 @@
 
 ^29^ Contarás los hijos de Merari por sus familias, por las casas de sus padres. ^30^ Desde el de edad de treinta años arriba hasta el de cincuenta años, los contarás; todos los que entran en compañía, para hacer servicio en el tabernáculo del testimonio. ^31^ Y este será el deber de su cargo para todo su servicio en el tabernáculo del testimonio: las tablas del tabernáculo, y sus barras, y sus columnas, y sus basas, ^32^ Y las columnas del atrio alrededor, y sus basas, y sus estacas, y sus cuerdas con todos sus instrumentos, y todo su servicio; y contaréis por sus nombres todos los vasos de la guarda de su cargo. ^33^ Este será el servicio de las familias de los hijos de Merari para todo su ministerio en el tabernáculo del testimonio, bajo la mano de Ithamar, hijo de Aarón el sacerdote. 
 
+## Resultados de la inspección
 ^34^ Moisés, pues, y Aarón, y los jefes de la congregación, contaron los hijos de Coath por sus familias, y por las casas de sus padres, ^35^ Desde el de edad de treinta años arriba hasta el de edad de cincuenta años; todos los que entran en compañía, para ministrar en el tabernáculo del testimonio. ^36^ Y fueron los contados de ellos por sus familias, dos mil setecientos y cincuenta. ^37^ Estos fueron los contados de las familias de Coath, todos los que ministran en el tabernáculo del testimonio, los cuales contaron Moisés y Aarón, como lo mandó Jehová por mano de Moisés. 
 
 ^38^ Y los contados de los hijos de Gersón, por sus familias, y por las casas de sus padres, ^39^ Desde el de edad de treinta años arriba hasta el de edad de cincuenta años, todos los que entran en compañía, para ministrar en el tabernáculo del testimonio; ^40^ Los contados de ellos por sus familias, por las casas de sus padres, fueron dos mil seiscientos y treinta. ^41^ Estos son los contados de las familias de los hijos de Gersón, todos los que ministran en el tabernáculo del testimonio, los cuales contaron Moisés y Aarón por mandato de Jehová. 
@@ -175,12 +188,15 @@
 ^46^ Todos los contados de los Levitas, que Moisés y Aarón y los jefes de Israel contaron por sus familias, y por las casas de sus padres, ^47^ Desde el de edad de treinta años arriba hasta el de edad de cincuenta años, todos los que entraban para ministrar en el servicio, y tener cargo de obra en el tabernáculo del testimonio; ^48^ Los contados de ellos fueron ocho mil quinientos y ochenta, ^49^ Como lo mandó Jehová por mano de Moisés fueron contados, cada uno según su oficio, y según su cargo; los cuales contó él, como le fué mandado. 
 
 # 5 
+## Extracción de los inmundos del campamento
 ^1^ Y jehová habló á Moisés, diciendo: ^2^ Manda á los hijos de Israel que echen del campo á todo leproso, y á todos los que padecen flujo de semen, y á todo contaminado sobre muerto: ^3^ Así hombres como mujeres echaréis, fuera del campo los echaréis; porque no contaminen el campo de aquellos entre los cuales yo habito. 
 
 ^4^ E hiciéronlo así los hijos de Israel, que los echaron fuera del campo: como Jehová dijo á Moisés, así lo hicieron los hijos de Israel. 
 
+## Malversación y su expiación
 ^5^ Además habló Jehová á Moisés, diciendo: ^6^ Habla á los hijos de Israel: El hombre ó la mujer que cometiere alguno de todos los pecados de los hombres, haciendo prevaricación contra Jehová, y delinquiere aquella persona; ^7^ Confesarán su pecado que cometieron, y compensarán su ofensa enteramente, y añadirán su quinto sobre ello, y lo darán á aquel contra quien pecaron. ^8^ Y si aquel hombre no tuviere pariente al cual sea resarcida la ofensa, daráse la indemnización del agravio á Jehová, al sacerdote, á más del carnero de las expiaciones, con el cual hará expiación por él. ^9^ Y toda ofrenda de todas las cosas santas que los hijos de Israel presentaren al sacerdote, suya será. ^10^ Y lo santificado de cualquiera será suyo: asimismo lo que cualquiera diere al sacerdote, suyo será. 
 
+## Sacrificio de celo y agua de maldición de una mujer sospechosa de adulterio
 ^11^ Y Jehová habló á Moisés, diciendo: ^12^ Habla á los hijos de Israel, y diles: Cuando la mujer de alguno se desmandare, é hiciere traición contra él, ^13^ Que alguno se hubiere echado con ella en carnal ayuntamiento, y su marido no lo hubiese visto por haberse ella contaminado ocultamente, ni hubiere testigo contra ella, ni ella hubiere sido cogida en el acto; ^14^ Si viniere sobre él espíritu de celo, y tuviere celos de su mujer, habiéndose ella contaminado; ó viniere sobre él espíritu de celo, y tuviere celos de su mujer, no habiéndose ella contaminado; ^15^ Entonces el marido traerá su mujer al sacerdote, y traerá su ofrenda con ella, la décima de un epha de harina de cebada; no echará sobre ella aceite, ni pondrá sobre ella incienso: porque es presente de celos, presente de recordación, que trae en memoria pecado. ^16^ Y el sacerdote la hará acercar, y la hará poner delante de Jehová. ^17^ Luego tomará el sacerdote del agua santa en un vaso de barro: tomará también el sacerdote del polvo que hubiere en el suelo del tabernáculo, y echarálo en el agua. ^18^ Y hará el sacerdote estar en pie á la mujer delante de Jehová, y descubrirá la cabeza de la mujer, y pondrá sobre sus manos el presente de la recordación, que es el presente de celos: y el sacerdote tendrá en la mano las aguas amargas que acarrean maldición. ^19^ Y el sacerdote la conjurará, y le dirá: Si ninguno hubiere dormido contigo, y si no te has apartado de tu marido á inmundicia, libre seas de estas aguas amargas que traen maldición: ^20^ Mas si te has descarriado de tu marido, y te has amancillado, y alguno hubiere tenido coito contigo, fuera de tu marido: ^21^ (El sacerdote conjurará á la mujer con juramento de maldición, y dirá á la mujer): Jehová te dé en maldición y en conjuración en medio de tu pueblo, haciendo Jehová á tu muslo que caiga, y á tu vientre que se te hinche; ^22^ Y estas aguas que dan maldición entren en tus entrañas, y hagan hinchar tu vientre y caer tu muslo. Y la mujer dirá: Amén, amén. 
 
 ^23^ Y el sacerdote escribirá estas maldiciones en un libro, y las borrará con las aguas amargas: ^24^ Y dará á beber á la mujer las aguas amargas que traen maldición; y las aguas que obran maldición entrarán en ella por amargas. ^25^ Después tomará el sacerdote de la mano de la mujer el presente de los celos, y mecerálo delante de Jehová, y lo ofrecerá delante del altar: ^26^ Y tomará el sacerdote un puñado del presente, en memoria de ella, y lo quemará sobre el altar, y después dará á beber las aguas á la mujer. ^27^ Darále pues á beber las aguas; y será, que si fuere inmunda y hubiere hecho traición contra su marido, las aguas que obran maldición entrarán en ella en amargura, y su vientre se hinchará, y caerá su muslo; y la mujer será por maldición en medio de su pueblo. ^28^ Mas si la mujer no fuere inmunda, sino que estuviere limpia, ella será libre, y será fecunda. 
