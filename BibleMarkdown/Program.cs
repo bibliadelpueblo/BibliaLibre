@@ -8,6 +8,10 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using System.Diagnostics.Tracing;
+using System.Security.Cryptography;
+using System.Data.SqlTypes;
+using System.Xml;
+using System.Xml.Linq;
 
 namespace BibleMarkdown
 {
@@ -17,7 +21,8 @@ namespace BibleMarkdown
 		static DateTime bibmarktime;
 		static bool LowercaseFirstWords = false;
 		static bool Force = false;
-	
+		static string Language = null;
+
 		static void ImportFromUSFM(string mdpath, string srcpath)
 		{
 			var sources = Directory.EnumerateFiles(srcpath)
@@ -305,6 +310,7 @@ namespace BibleMarkdown
 			var verses = new StringBuilder();
 
 			bool firstsrc = true;
+			int btotal = 0;
 			foreach (var source in sources) {
 
 				if (!firstsrc) verses.AppendLine();
@@ -316,14 +322,21 @@ namespace BibleMarkdown
 				int chapter = 0;
 				int verse = 0;
 				int nverses = 0;
-				var matches = Regex.Matches(txt, @"((\^|\n)# ([0-9]+))|(\^([0-9]+)\^(?!\s*[#\^$]))");
+				int totalverses = 0;
+				var matches = Regex.Matches(txt, @"((^|\n)# ([0-9]+))|(\^([0-9]+)\^(?!\s*[#\^$]))");
 				foreach (Match m in matches)
 				{
 					if (m.Groups[1].Success)
 					{
 						int.TryParse(m.Groups[3].Value, out chapter);
-						if (verse != 0) verses.Append(verse);
-						verses.Append(' '); verses.Append(chapter); verses.Append(':');
+						if (verse != 0)
+						{
+							verses.Append(verse);
+							verses.Append(' ');
+						}
+						verses.Append(chapter); verses.Append(':');
+						totalverses += nverses;
+						nverses = 0;
 					} else if (m.Groups[4].Success)
 					{
 						int.TryParse(m.Groups[5].Value, out verse);
@@ -332,9 +345,17 @@ namespace BibleMarkdown
 					}
 				}
 				if (verse != 0) verses.Append(verse);
-				verses.Append("; "); verses.Append(nverses);
+				totalverses += nverses;
 				nverses = 0;
+				verses.Append("; "); verses.Append(totalverses);
+				btotal += totalverses;
+				totalverses = 0;
+				nverses = 0;
+				verse = 0;
+				chapter = 0;
 			}
+
+			verses.AppendLine(); verses.AppendLine(); verses.AppendLine(btotal.ToString());
 
 			var frames = Path.Combine(path, @"out\verses.md");
 			File.WriteAllText(frames, verses.ToString());
@@ -347,46 +368,154 @@ namespace BibleMarkdown
 				.Where(file => Regex.IsMatch(Path.GetFileName(file), "^([0-9][0-9])"));
 			var verses = new StringBuilder();
 
+			var frames = Path.Combine(path, @"out\frames.md");
+
+			var linklistfile = $@"{path}\src\linklist.xml";
+			var namesfile = $@"{path}\src\bnames.xml";
+			XElement[] refs;
+			XElement[] bnames;
+			int refi = 0;
+			bool newrefs = false;
+			if (File.Exists(linklistfile) && ((!File.Exists(frames)) || File.GetLastWriteTimeUtc(linklistfile) > File.GetLastWriteTimeUtc(frames)))
+			{
+				newrefs = true;
+				var list = XElement.Load(File.OpenRead(linklistfile));
+				var language = ((string)list.Element("collection").Attribute("id"));
+				bnames = XElement.Load(File.OpenRead(namesfile))
+					.Elements("ID")
+					.Where(id => ((string)id.Attribute("descr")) == language)
+					.FirstOrDefault()
+					.Elements("BOOK")
+					.ToArray();
+
+				refs = list.Descendants("verse")
+					.OrderBy(link => (int)link.Attribute("bn"))
+					.ThenBy(link => (int)link.Attribute("cn"))
+					.ThenBy(link => (int)link.Attribute("vn"))
+					.ToArray();
+
+			} else
+			{
+				refs = new XElement[0];
+				bnames = new XElement[0];
+			}
+
 			bool firstsrc = true;
 			foreach (var source in sources)
 			{
 				if (!firstsrc) verses.AppendLine();
 				firstsrc = false;
 				verses.AppendLine($"# {Path.GetFileName(source)}");
+				int book;
+				int.TryParse(Regex.Match(Path.GetFileName(source), "^[0-9][0-9]").Value, out book);
+
 
 				var txt = File.ReadAllText(source);
 
 				bool firstchapter = true;
-				var chapters = Regex.Matches(txt, @"(?<!#)#(?!#)(.*?)\r?\n(.*?)(?=(?<!#)#(?!#)|$)", RegexOptions.Singleline);
+				int nchapter = 0;
+				var chapters = Regex.Matches(txt, @"(?<!#)#(?!#)(\s*([0-9]*).*?)\r?\n(.*?)(?=(?<!#)#(?!#)|$)", RegexOptions.Singleline);
 				foreach (Match chapter in chapters)
 				{
+					nchapter++;
+					int.TryParse(chapter.Groups[2].Value, out nchapter);
+
 					if (!firstchapter) verses.AppendLine();
 					firstchapter = false;
-					verses.AppendLine($"## {chapter.Groups[1].Value.Trim()}");
+					verses.AppendLine($"## {nchapter}");
 
-					var rawch = Regex.Replace(chapter.Groups[2].Value, @".\[.*?\](\(.*?\))?[ \t]*\r?\n?", ""); // remove markdown tags
+					string strip;
+					if (newrefs) strip = @"(\^\^)|(.\[.*?\](\(.*?\))?[ \t]*\r?\n?)";
+					else strip = @"[^\^]\[.*?\](\(.*?\))?[ \t]*\r?\n?";
+					var rawch = Regex.Replace(chapter.Groups[3].Value, strip, ""); // remove markdown tags
 
-					var ms = Regex.Matches(rawch, @"\^([0-9]+)\^|(?<=\r?\n)(\r?\n)(?!\s*?(\^\[|#|$))|(?<=\r?\n|^)(##.*?)(?=\r?\n|$)", RegexOptions.Singleline);
+					var ms = Regex.Matches(rawch, @"\^([0-9]+)\^|(\^\^)|(\^\[([^\]]*)\])|(?<=\r?\n)(\r?\n)(?!\s*?(\^\[|#|$))|(?<=\r?\n|^)(##.*?)(?=\r?\n|$)", RegexOptions.Singleline);
 					string vers = "0";
 					string lastvers = null;
+					StringBuilder footnotes = new StringBuilder();
 					foreach (Match m in ms)
-					{
+					{	
 						if (m.Groups[1].Success)
 						{
 							vers = m.Groups[1].Value;
+							int nvers = 0;
+							int.TryParse(vers, out nvers);
+							if (refi < refs.Length)
+							{
+								XElement r = refs[refi];
+
+								while ((refi+1 < refs.Length) && (((int)r.Attribute("bn") < book) || 
+									((int)r.Attribute("bn") == book) && ((int)r.Attribute("cn") < nchapter) ||
+									((int)r.Attribute("bn") == book) && ((int)r.Attribute("cn") == nchapter) && ((int)r.Attribute("vn") < nvers)))
+								{
+									r = refs[refi++];
+								}
+								if (((int)r.Attribute("bn") == book) && ((int)r.Attribute("cn") == nchapter) && ((int)r.Attribute("vn") == nvers)) {
+									if (lastvers != vers) verses.Append($@"^{vers}^ ");
+									lastvers = vers;
+									verses.Append("^^ ");
+									footnotes.Append($"^[**{nchapter}:{nvers}**");
+									bool firstlink = true;
+									foreach (var link in r.Elements("link"))
+									{
+										var bookname = bnames.FirstOrDefault(b => ((int)b.Attribute("bnumber")) == ((int)link.Attribute("bn")));
+										if (bookname != null)
+										{
+											var bshort = (string)bookname.Attribute("bshort");
+											if (!firstlink) footnotes.Append(';');
+											else firstlink = false;
+											footnotes.Append($" {bshort} {(string)link.Attribute("cn1")},{(string)link.Attribute("vn1")}");
+											if (link.Attribute("vn2") != null) footnotes.Append($"-{(string)link.Attribute("vn2")}");
+										}
+									}
+									footnotes.Append("] ");
+								}
+							}
 						} else if (m.Groups[2].Success)
 						{
-							if (lastvers != vers) verses.Append($@"{$"^{vers}^"} \ ");
+							if (lastvers != vers) verses.Append($@"^{vers}^ ");
 							lastvers = vers;
-						} else if (m.Groups[4].Success)
+							verses.Append("^^ ");
+						}
+						else if (m.Groups[3].Success)
 						{
-							verses.Append($@"{$"^{vers}^"}{Environment.NewLine}#{m.Groups[5].Value.Trim()}{Environment.NewLine}");
+							if (lastvers != vers) verses.Append($@"^{vers}^ ");
+							lastvers = vers;
+							verses.Append(m.Groups[3].Value); verses.Append(' ');
+						}
+						else if (m.Groups[5].Success)
+						{
+							if (lastvers != vers) verses.Append($@"^{vers}^ ");
+							lastvers = vers;
+							if (footnotes.Length > 0)
+							{
+								verses.Append(footnotes);
+								verses.Append(' ');
+								footnotes.Clear();
+							}
+							verses.Append("\\ ");
+						} else if (m.Groups[7].Success)
+						{
+							if (lastvers != vers) verses.Append($@"^{vers}^ ");
+							lastvers = vers;
+							if (footnotes.Length > 0)
+							{
+								verses.Append(footnotes);
+								verses.Append(' ');
+								footnotes.Clear();
+							}
+							verses.AppendLine($"{Environment.NewLine}#{m.Groups[7].Value.Trim()}");
 						}
 					}
+					if (footnotes.Length > 0)
+					{
+						verses.Append(footnotes);
+						verses.Append(' ');
+						footnotes.Clear();
+					}
+					}
 				}
-			}
 
-			var frames= Path.Combine(path, @"out\frames.md");
 			File.WriteAllText(frames, verses.ToString());
 			Console.WriteLine($"Created {frames}");
 		}
@@ -423,7 +552,7 @@ namespace BibleMarkdown
 							// remove current frame
 							src = Regex.Replace(src, @"(?<=\r?\n|^)\r?\n(?!\s*#)", @""); // remove blank line
 							src = Regex.Replace(src, @"(?<=^|\n)##+.*?\r?\n", ""); // remove titles
-							// TODO remove footnotes
+							src = Regex.Replace(src, @"(\^\^)|(([ \t]*\^\[[^\]]\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
 
 							var frmpart = frmpartmatch.Value;
 							var frames = Regex.Matches(frmpart, @"(?<=(^|\n)## ([0-9]+)(\r?\n|$).*?)\^([0-9]+)\^(( \\)|\r?\n#(##+.*?)(\r?\n|$))", RegexOptions.Singleline).GetEnumerator();
@@ -433,11 +562,11 @@ namespace BibleMarkdown
 							int verse = 0;
 							src = Regex.Replace(src, @"(?<=^|\n)#\s+([0-9]+)(\s*\r?\n|$)|\^([0-9]+)\^.*?(?=\^[0-9]+\^|#)", m =>
 							{
-								if (m.Groups[1].Success)
+								if (m.Groups[1].Success) // chapter
 								{
 									int.TryParse(m.Groups[1].Value, out chapter); verse = 0;
 								}
-								else if (m.Groups[3].Success)
+								else if (m.Groups[3].Success) // verse
 								{
 									int.TryParse(m.Groups[3].Value, out verse);
 								}
@@ -493,7 +622,9 @@ namespace BibleMarkdown
 
 			LowercaseFirstWords = args.Contains("-plc");
 			Force = args.Contains("-f");
-			
+			var lnpos = Array.IndexOf(args, "-ln");
+			if (lnpos >= 0 && (lnpos + 1 < args.Length)) Language = args[lnpos + 1];
+
 			var paths = args.Where(a => !a.StartsWith("-")).ToArray();
 			string path;
 			if (paths.Length == 0)
