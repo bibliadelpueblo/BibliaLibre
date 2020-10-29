@@ -298,6 +298,49 @@ namespace BibleMarkdown
 			}
 		}
 
+		static void CreateVerseFrame(string path)
+		{
+			var sources = Directory.EnumerateFiles(path, "*.md")
+				.Where(file => Regex.IsMatch(Path.GetFileName(file), "^([0-9][0-9])"));
+			var verses = new StringBuilder();
+
+			bool firstsrc = true;
+			foreach (var source in sources) {
+
+				if (!firstsrc) verses.AppendLine();
+				firstsrc = false;
+				verses.AppendLine($"# {Path.GetFileName(source)}");
+
+				var txt = File.ReadAllText(source);
+
+				int chapter = 0;
+				int verse = 0;
+				int nverses = 0;
+				var matches = Regex.Matches(txt, @"((\^|\n)# ([0-9]+))|(\^([0-9]+)\^(?!\s*[#\^$]))");
+				foreach (Match m in matches)
+				{
+					if (m.Groups[1].Success)
+					{
+						int.TryParse(m.Groups[3].Value, out chapter);
+						if (verse != 0) verses.Append(verse);
+						verses.Append(' '); verses.Append(chapter); verses.Append(':');
+					} else if (m.Groups[4].Success)
+					{
+						int.TryParse(m.Groups[5].Value, out verse);
+						nverses = Math.Max(nverses, verse);
+
+					}
+				}
+				if (verse != 0) verses.Append(verse);
+				verses.Append("; "); verses.Append(nverses);
+				nverses = 0;
+			}
+
+			var frames = Path.Combine(path, @"out\verses.md");
+			File.WriteAllText(frames, verses.ToString());
+			Console.WriteLine($"Created {frames}");
+		}
+
 		static void CreateFrame(string path)
 		{
 			var sources = Directory.EnumerateFiles(path, "*.md")
@@ -435,6 +478,7 @@ namespace BibleMarkdown
 			var files = Directory.EnumerateFiles(path, "*.md");
 			foreach (var file in files) ProcessFile(file);
 			CreateFrame(path);
+			CreateVerseFrame(path);
 		}
 		static void Main(string[] args)
 		{
