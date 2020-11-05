@@ -4,9 +4,11 @@ Numeros 13:-1; 30:-1;
 
 2. Chronik 33:?;
 
+Daniel 4, 6
+
 Hiob 35-40
 
-Hosea 11
+Hosea 2, 11, 14
 
 Jona 1
 

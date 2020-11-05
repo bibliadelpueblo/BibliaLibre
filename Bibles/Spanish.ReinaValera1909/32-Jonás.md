@@ -1,4 +1,5 @@
 # 1 
+## El llamado, la desobediencia y el castigo de Jonás
 ^1^ Y fué palabra de Jehová á Jonás, hijo de Amittai, diciendo: ^2^ Levántate, y ve á Nínive, ciudad grande, y pregona contra ella; porque su maldad ha subido delante de mí. 
 
 ^3^ Y Jonás se levantó para huir de la presencia de Jehová á Tarsis, y descendió á Joppe; y halló un navío que partía para Tarsis; y pagando su pasaje entró en él, para irse con ellos á Tarsis de delante de Jehová. 
@@ -13,16 +14,18 @@
 
 ^12^ El les respondió: Tomadme, y echadme á la mar, y la mar se os quietará: porque yo sé que por mí ha venido esta grande tempestad sobre vosotros. 
 
-^13^ Y aquellos hombres trabajaron por tornar la nave á tierra; mas no pudieron, porque la mar iba á más, y se embravecía sobre ellos. ^14^ Entonces clamaron á Jehová, y dijeron: Rogámoste ahora, Jehová, que no perezcamos nosotros por la vida de aqueste hombre, ni pongas sobre nosotros la sangre inocente: porque tú, Jehová, has hecho como has querido. ^15^ Y tomaron á Jonás, y echáronlo á la mar; y la mar se quietó de su furia. ^16^ Y temieron aquellos hombres á Jehová con gran temor; y ofrecieron sacrificio á Jehová, y prometieron votos. 
-
-^17^ 
+^13^ Y aquellos hombres trabajaron por tornar la nave á tierra; mas no pudieron, porque la mar iba á más, y se embravecía sobre ellos. ^14^ Entonces clamaron á Jehová, y dijeron: Rogámoste ahora, Jehová, que no perezcamos nosotros por la vida de aqueste hombre, ni pongas sobre nosotros la sangre inocente: porque tú, Jehová, has hecho como has querido. ^15^ Y tomaron á Jonás, y echáronlo á la mar; y la mar se quietó de su furia. ^16^ Y temieron aquellos hombres á Jehová con gran temor; y ofrecieron sacrificio á Jehová, y prometieron votos.
 
 # 2 
-^1^ Mas Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches. ^2^ Y oró Jonás desde el vientre del pez á Jehová su Dios, ^3^ Y dijo: Clamé de mi tribulación á Jehová, y él me oyó; del vientre del sepulcro clamé, y mi voz oiste. ^4^ Echásteme en el profundo, en medio de los mares, y rodeóme la corriente; todas tus ondas y tus olas pasaron sobre mí. ^5^ Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo. ^6^ Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza. ^7^ Descendí á las raíces de los montes; la tierra echó sus cerraduras sobre mí para siempre: mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío. ^8^ Cuando mi alma desfallecía en mí, acordéme de Jehová; y mi oración entró hasta ti en tu santo templo. ^9^ Los que guardan las vanidades ilusorias, su misericordia abandonan. 
+## Jonás oración y salvación
+^1^ Mas Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches.
+
+^2^ Y oró Jonás desde el vientre del pez á Jehová su Dios, ^3^ Y dijo: Clamé de mi tribulación á Jehová, y él me oyó; del vientre del sepulcro clamé, y mi voz oiste. ^4^ Echásteme en el profundo, en medio de los mares, y rodeóme la corriente; todas tus ondas y tus olas pasaron sobre mí. ^5^ Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo. ^6^ Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza. ^7^ Descendí á las raíces de los montes; la tierra echó sus cerraduras sobre mí para siempre: mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío. ^8^ Cuando mi alma desfallecía en mí, acordéme de Jehová; y mi oración entró hasta ti en tu santo templo. ^9^ Los que guardan las vanidades ilusorias, su misericordia abandonan. 
 
 ^10^ Yo empero con voz de alabanza te sacrificaré; pagaré lo que prometí. La salvación pertenece á Jehová. Y mandó Jehová al pez, y vomitó á Jonás en tierra. 
 
 # 3 
+## Jonás exitoso sermón penitencial en Nínive
 ^1^ Y fué palabra de Jehová segunda vez á Jonás, diciendo: ^2^ Levántate, y ve á Nínive, aquella gran ciudad, y publica en ella el pregón que yo te diré. 
 
 ^3^ Y levantóse Jonás, y fué á Nínive, conforme á la palabra de Jehová. Y era Nínive ciudad sobremanera grande, de tres días de camino. ^4^ Y comenzó Jonás á entrar por la ciudad, camino de un día, y pregonaba diciendo: De aquí á cuarenta días Nínive será destruída. 
@@ -32,6 +35,7 @@
 ^10^ Y vió Dios lo que hicieron, que se convirtieron de su mal camino: y arrepintióse del mal que había dicho les había de hacer, y no lo hizo. 
 
 # 4 
+## Jonás disgusto y reprensión
 ^1^ Pero Jonás se apesadumbró en extremo, y enojóse. ^2^ Y oró á Jehová, y dijo: Ahora, oh Jehová, ¿no es esto lo que yo decía estando aún en mi tierra? Por eso me precaví huyendo á Tarsis: porque sabía yo que tú eres Dios clemente y piadoso, tardo á enojarte, y de grande misericordia, y que te arrepientes del mal. ^3^ Ahora pues, oh Jehová, ruégote que me mates; porque mejor me es la muerte que la vida. 
 
 ^4^ Y Jehová le dijo: ¿Haces tú bien en enojarte tanto? 
