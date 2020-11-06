@@ -4340,7 +4340,7 @@
 ### La invitación de Dios a Job para que le hable
 ^2^ ^^ ^3^ ^^ ^[**38:2** Job 34,35] ^[**38:3** Job 40,7] 
 ### Preguntas del campo de la creación del mundo y la naturaleza sin vida, así como la vida animal, a las que Job no responde
-^5^ ^^ ^11^ ^^ ^25^ ^^ ^31^ ^^ ^40^ ^^ ^41^ ^^ ^[**38:5** Prov 30,4] ^[**38:11** Sal 104,8-9] ^[**38:25** Job 28,26] ^[**38:31** Job 9,9] ^[**38:40** Job 37,8] ^[**38:41** Sal 147,9] 
+^5^ ^^ ^11^ ^^ ^25^ ^^ ^31^ ^^ ^39^ ^[**38:5** Prov 30,4] ^[**38:11** Sal 104,8-9] ^[**38:25** Job 28,26] ^[**38:31** Job 9,9] 
 ## 39
 ^30^ ^^ ^[**39:30** Hab 1,8; Mat 24,28] 
 ## 40
