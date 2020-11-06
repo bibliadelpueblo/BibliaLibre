@@ -12,23 +12,31 @@
 ^6^ Y el mancebo que le daba las nuevas respondió: Casualmente vine al monte de Gilboa, y hallé á Saúl que estaba recostado sobre su lanza, y venían tras él carros y gente de á caballo. ^7^ Y como él miró atrás, vióme y llamóme; y yo dije: Heme aquí. ^8^ Y él me dijo: ¿Quién eres tú? Y yo le respondí: Soy Amalecita. ^9^ Y él me volvió á decir: Yo te ruego que te pongas sobre mí, y me mates, porque me toman angustias, y toda mi alma está aún en mí. ^10^ Yo entonces púseme sobre él, y matélo, porque sabía que no podía vivir después de su caída: y tomé la corona que tenía en su cabeza, y la ajorca que traía en su brazo, y helas traído acá á mi señor. 
 
 ## El dolor de David; Matando al mensajero
-^11^ Entonces David trabando de sus vestidos, rompiólos; y lo mismo hicieron los hombres que estaban con él. ^12^ Y lloraron y lamentaron, y ayunaron hasta la tarde, por Saúl y por Jonathán su hijo, y por el pueblo de Jehová, y por la casa de Israel: porque habían caído á cuchillo. 
+^11^ Entonces David trabando de sus vestidos, rompiólos; y lo mismo hicieron los hombres que estaban con él. ^^ ^12^ Y lloraron y lamentaron, y ayunaron hasta la tarde, por Saúl y por Jonathán su hijo, y por el pueblo de Jehová, y por la casa de Israel: porque habían caído á cuchillo. ^^ 
+^[**1:11** Gén 37,29] ^[**1:12** 1Sam 31,13]
 
 ^13^ Y David dijo á aquel mancebo que le había traído las nuevas: ¿De dónde eres tú? Y él respondió: Yo soy hijo de un extranjero, Amalecita. 
 
-^14^ Y díjole David: ¿Cómo no tuviste temor de extender tu mano para matar al ungido de Jehová? ^15^ Entonces llamó David uno de los mancebos, y díjole: Llega, y mátalo. Y él lo hirió, y murió. ^16^ Y David le dijo: Tu sangre sea sobre tu cabeza, pues que tu boca atestiguó contra ti, diciendo: Yo maté al ungido de Jehová. 
+^14^ Y díjole David: ¿Cómo no tuviste temor de extender tu mano para matar al ungido de Jehová? ^^ ^15^ Entonces llamó David uno de los mancebos, y díjole: Llega, y mátalo. Y él lo hirió, y murió. ^^ ^16^ Y David le dijo: Tu sangre sea sobre tu cabeza, pues que tu boca atestiguó contra ti, diciendo: Yo maté al ungido de Jehová. ^^ 
+^[**1:14** 1Sam 24,7] ^[**1:15** 2Sam 4,10; 2Sam 4,12] ^[**1:16** 1Re 2,23; 1Re 2,33]
 
 ## Lamentación de David por Saúl y Jonatán
-^17^ Y endechó David á Saúl y á Jonathán su hijo con esta endecha. ^18^ (Dijo también que enseñasen al arco á los hijos de Judá. He aquí que está escrito en el libro del derecho:) ^19^ ¡Perecido ha la gloria de Israel sobre tus montañas! ¡Cómo han caído los valientes! ^20^ No lo denunciéis en Gath, no deis las nuevas en las plazas de Ascalón; porque no se alegren las hijas de los Filisteos, porque no salten de gozo las hijas de los incircuncisos. ^21^ Montes de Gilboa, ni rocío ni lluvia caiga sobre vosotros, ni seáis tierras de ofrendas; porque allí fué desechado el escudo de los valientes, el escudo de Saúl, como si no hubiera sido ungido con aceite. ^22^ Sin sangre de muertos, sin grosura de valientes, el arco de Jonathán nunca volvió, ni la espada de Saúl se tornó vacía. ^23^ Saúl y Jonathán, amados y queridos en su vida, en su muerte tampoco fueron apartados: más ligeros que águilas, más fuertes que leones. ^24^ Hijas de Israel, llorad sobre Saúl, que os vestía de escarlata en regocijos, que adornaba vuestras ropas con ornamentos de oro. ^25^ ¡Cómo han caído los valientes en medio de la batalla! ¡Jonathán, muerto en tus alturas! ^26^ Angustia tengo por ti, hermano mío Jonathán, que me fuiste muy dulce: más maravilloso me fué tu amor, que el amor de las mujeres. ^27^ ¡Cómo han caído los valientes, y perecieron las armas de guerra! 
+^17^ Y endechó David á Saúl y á Jonathán su hijo con esta endecha. ^18^ (Dijo también que enseñasen al arco á los hijos de Judá. He aquí que está escrito en el libro del derecho:) ^19^ ¡Perecido ha la gloria de Israel sobre tus montañas! ¡Cómo han caído los valientes! ^20^ No lo denunciéis en Gath, no deis las nuevas en las plazas de Ascalón; porque no se alegren las hijas de los Filisteos, porque no salten de gozo las hijas de los incircuncisos. ^^ ^21^ Montes de Gilboa, ni rocío ni lluvia caiga sobre vosotros, ni seáis tierras de ofrendas; porque allí fué desechado el escudo de los valientes, el escudo de Saúl, como si no hubiera sido ungido con aceite. ^^ 
+^[**1:20** Miq 1,10; 1Sam 18,6] ^[**1:21** Núm 15,18-21]
+
+^22^ Sin sangre de muertos, sin grosura de valientes, el arco de Jonathán nunca volvió, ni la espada de Saúl se tornó vacía. ^23^ Saúl y Jonathán, amados y queridos en su vida, en su muerte tampoco fueron apartados: más ligeros que águilas, más fuertes que leones. ^24^ Hijas de Israel, llorad sobre Saúl, que os vestía de escarlata en regocijos, que adornaba vuestras ropas con ornamentos de oro. ^25^ ¡Cómo han caído los valientes en medio de la batalla! ¡Jonathán, muerto en tus alturas! ^26^ Angustia tengo por ti, hermano mío Jonathán, que me fuiste muy dulce: más maravilloso me fué tu amor, que el amor de las mujeres. ^27^ ¡Cómo han caído los valientes, y perecieron las armas de guerra! 
 
 # 2 
 ## David llega a ser rey sobre la tribu de Judá, Isboseth sobre Israel
-^1^ Después de esto aconteció que David consultó á Jehová, diciendo: ¿Subiré á alguna de las ciudades de Judá? Y Jehová le respondió: Sube. Y David tornó á decir: ¿A dónde subiré? Y él le dijo: A Hebrón. 
+^1^ Después de esto aconteció que David consultó á Jehová, diciendo: ¿Subiré á alguna de las ciudades de Judá? Y Jehová le respondió: Sube. Y David tornó á decir: ¿A dónde subiré? Y él le dijo: A Hebrón. ^^ 
+^[**2:1** 1Sam 30,8]
 
-^2^ Y David subió allá, y con él sus dos mujeres, Ahinoam Jezreelita y Abigail, la que fué mujer de Nabal del Carmelo. ^3^ Y llevó también David consigo los hombres que con él habían estado, cada uno con su familia; los cuales moraron en las ciudades de Hebrón.
+^2^ Y David subió allá, y con él sus dos mujeres, Ahinoam Jezreelita y Abigail, la que fué mujer de Nabal del Carmelo. ^^ ^3^ Y llevó también David consigo los hombres que con él habían estado, cada uno con su familia; los cuales moraron en las ciudades de Hebrón. 
+^[**2:2** 1Sam 25,42-43]
 
 ## El mensaje de David al pueblo de Jabes
-^4^ Y vinieron los varones de Judá, y ungieron allí á David por rey sobre la casa de Judá. Y dieron aviso á David, diciendo: Los de Jabes de Galaad son los que sepultaron á Saúl. ^5^ Y envió David mensajeros á los de Jabes de Galaad, diciéndoles: Benditos seáis vosotros de Jehová, que habéis hecho esta misericordia con vuestro señor Saúl en haberle dado sepultura. ^6^ Ahora pues, Jehová haga con vosotros misericordia y verdad; y yo también os haré bien por esto que habéis hecho. ^7^ Esfuércense pues ahora vuestras manos, y sed valientes; pues que muerto Saúl vuestro señor, los de la casa de Judá me han ungido por rey sobre ellos. 
+^4^ Y vinieron los varones de Judá, y ungieron allí á David por rey sobre la casa de Judá. Y dieron aviso á David, diciendo: Los de Jabes de Galaad son los que sepultaron á Saúl. ^^ ^5^ Y envió David mensajeros á los de Jabes de Galaad, diciéndoles: Benditos seáis vosotros de Jehová, que habéis hecho esta misericordia con vuestro señor Saúl en haberle dado sepultura. ^6^ Ahora pues, Jehová haga con vosotros misericordia y verdad; y yo también os haré bien por esto que habéis hecho. ^7^ Esfuércense pues ahora vuestras manos, y sed valientes; pues que muerto Saúl vuestro señor, los de la casa de Judá me han ungido por rey sobre ellos. 
+^[**2:4** 2Sam 5,3; 1Sam 16,13; 1Sam 31,12]
 
 ## Isboseth, hijo de Saúl, se convierte en rey de Israel
 ^8^ Mas Abner hijo de Ner, general de ejército de Saúl, tomó á Is-boseth hijo de Saúl, é hízolo pasar al real: ^9^ Y alzólo por rey sobre Galaad, y sobre Gessuri, y sobre Jezreel, y sobre Ephraim, y sobre Benjamín, y sobre todo Israel. ^10^ De cuarenta años era Is-boseth hijo de Saúl, cuando comenzó á reinar sobre Israel; y reinó dos años. Sola la casa de Judá seguía á David. ^11^ Y fué el número de los días que David reinó en Hebrón sobre la casa de Judá, siete años y seis meses. 
@@ -39,7 +47,8 @@
 ^15^ Entonces se levantaron, y en número de doce, pasaron de Benjamín de la parte de Is-boseth hijo de Saúl; y doce de los siervos de David. ^16^ Y cada uno echó mano de la cabeza de su compañero, y metióle su espada por el costado, cayendo así á una; por lo que fué llamado aquel lugar, Helcath-assurim, el cual está en Gabaón. ^17^ Y hubo aquel día una batalla muy recia, y Abner y los hombres de Israel fueron vencidos de los siervos de David. 
 
 ## Asael, el hermano menor de Joab, muerto en persecución de Abner
-^18^ Y estaban allí los tres hijos de Sarvia: Joab, y Abisai, y Asael. Este Asael era suelto de pies como un corzo del campo. ^19^ El cual Asael siguió á Abner, yendo tras de él sin apartarse á diestra ni á siniestra. 
+^18^ Y estaban allí los tres hijos de Sarvia: Joab, y Abisai, y Asael. Este Asael era suelto de pies como un corzo del campo. ^^ ^19^ El cual Asael siguió á Abner, yendo tras de él sin apartarse á diestra ni á siniestra. 
+^[**2:18** 1Cró 2,16]
 
 ^20^ Y Abner miró atrás, y dijo: ¿No eres tú Asael? Y él respondió: Sí. 
 
@@ -53,10 +62,12 @@
 ^30^ Joab también volvió de seguir á Abner, y juntando todo el pueblo, faltaron de los siervos de David diecinueve hombres, y Asael. ^31^ Mas los siervos de David hirieron de los de Benjamín y de los de Abner, trescientos y sesenta hombres, que murieron. Tomaron luego á Asael, y sepultáronlo en el sepulcro de su padre en Beth-lehem. ^32^ Y caminaron toda aquella noche Joab y los suyos, y amanecióles en Hebrón. 
 
 # 3 
-^1^ Y hubo larga guerra entre la casa de Saúl y la casa de David; mas David se iba fortificando, y la casa de Saúl iba en disminución.
+^1^ Y hubo larga guerra entre la casa de Saúl y la casa de David; mas David se iba fortificando, y la casa de Saúl iba en disminución. ^^ 
+^[**3:1** 2Sam 5,10]
 
 ## La familia de David en Hebrón
-^2^ Y nacieron hijos á David en Hebrón: su primogénito fué Ammón, de Ahinoam Jezreelita; ^3^ Su segundo Chileab, de Abigail la mujer de Nabal, el del Carmelo; el tercero, Absalóm, hijo de Maachâ, hija de Talmai rey de Gessur: ^4^ El cuarto, Adonías hijo de Haggith; el quinto, Saphatías hijo de Abital; ^5^ El sexto, Jetream, de Egla mujer de David. Estos nacieron á David en Hebrón. 
+^2^ Y nacieron hijos á David en Hebrón: su primogénito fué Ammón, de Ahinoam Jezreelita; ^^ ^3^ Su segundo Chileab, de Abigail la mujer de Nabal, el del Carmelo; el tercero, Absalóm, hijo de Maachâ, hija de Talmai rey de Gessur: ^4^ El cuarto, Adonías hijo de Haggith; el quinto, Saphatías hijo de Abital; ^^ ^5^ El sexto, Jetream, de Egla mujer de David. Estos nacieron á David en Hebrón. 
+^[**3:2** 1Cró 3,1-4; 2Sam 13,1] ^[**3:4** 1Re 1,5]
 
 ## Abner se está peleando con Isboseth
 ^6^ Y como había guerra entre la casa de Saúl y la de David, aconteció que Abner se esforzaba por la casa de Saúl. ^7^ Y había Saúl tenido una concubina que se llamaba Rispa, hija de Aja. Y dijo Is-boseth á Abner: ¿Por qué has entrado á la concubina de mi padre? 
@@ -68,13 +79,14 @@
 ## Las negociaciones de Abner con David y los jefes de Israel
 ^12^ Y envió Abner mensajeros á David de su parte, diciendo: ¿Cúya es la tierra? Y que le dijesen: Haz alianza conmigo, y he aquí que mi mano será contigo para volver á ti á todo Israel. 
 
-^13^ Y David dijo: Bien; yo haré contigo alianza: mas una cosa te pido, y es, que no me vengas á ver sin que primero traigas á Michâl la hija de Saúl, cuando vinieres á verme. ^14^ Después de esto envió David mensajeros á Is-boseth hijo de Saúl, diciendo: Restitúyeme á mi mujer Michâl, la cual yo desposé conmigo por cien prepucios de Filisteos. 
+^13^ Y David dijo: Bien; yo haré contigo alianza: mas una cosa te pido, y es, que no me vengas á ver sin que primero traigas á Michâl la hija de Saúl, cuando vinieres á verme. ^14^ Después de esto envió David mensajeros á Is-boseth hijo de Saúl, diciendo: Restitúyeme á mi mujer Michâl, la cual yo desposé conmigo por cien prepucios de Filisteos. ^^ 
+^[**3:14** 1Sam 18,25-27]
 
 ^15^ Entonces Is-boseth envió, y quitóla á su marido Paltiel, hijo de Lais. ^16^ Y su marido fué con ella, siguiéndola y llorando hasta Bahurim. Y díjole Abner: Anda, vuélvete. Entonces él se volvió. 
 
 ^17^ Y habló Abner con los ancianos de Israel, diciendo: Ayer y antes procurabais que David fuese rey sobre vosotros; ^18^ Ahora, pues, hacedlo; porque Jehová ha hablado á David, diciendo: Por la mano de mi siervo David libraré á mi pueblo Israel de mano de los Filisteos, y de mano de todos sus enemigos. 
 
-^19^ Y habló también Abner á los de Benjamín: y fué también Abner á Hebrón á decir á David todo el parecer de los de Israel y de toda la casa de Benjamín.
+^19^ Y habló también Abner á los de Benjamín: y fué también Abner á Hebrón á decir á David todo el parecer de los de Israel y de toda la casa de Benjamín. 
 
 ## El encuentro de Abner con David en Hebrón; su asesinato por Joab
 ^20^ Vino pues Abner á David en Hebrón, y con él veinte hombres: y David hizo banquete á Abner y á los que con él habían venido. ^21^ Y dijo Abner á David: Yo me levantaré é iré, y juntaré á mi señor el rey á todo Israel, para que hagan contigo alianza, y tú reines como deseas. David despidió luego á Abner, y él se fué en paz. 
@@ -83,12 +95,13 @@
 
 ^24^ Entonces Joab vino al rey, y díjole: ¿Qué has hecho? He aquí habíase venido Abner á ti: ¿por qué pues lo dejaste que se fuése? ^25^ ¿Sabes tú que Abner hijo de Ner ha venido para engañarte, y á saber tu salida y tu entrada, y por entender todo lo que tú haces? 
 
-^26^ Y saliéndose Joab de con David, envió mensajeros tras Abner, los cuales le volvieron desde el pozo de Sira, sin saberlo David. ^27^ Y como Abner volvió á Hebrón, apartólo Joab al medio de la puerta, hablando con él blandamente, y allí le hirió por la quinta costilla, á causa de la muerte de Asael su hermano, y murió.
+^26^ Y saliéndose Joab de con David, envió mensajeros tras Abner, los cuales le volvieron desde el pozo de Sira, sin saberlo David. ^27^ Y como Abner volvió á Hebrón, apartólo Joab al medio de la puerta, hablando con él blandamente, y allí le hirió por la quinta costilla, á causa de la muerte de Asael su hermano, y murió. 
 
 ## Abner hizo duelo por David y fue sepultado con honor; La declaración de inocencia de David; Graduación
 ^28^ Cuando David supo después esto, dijo: Limpio estoy yo y mi reino, por Jehová, para siempre, de la sangre de Abner hijo de Ner. ^29^ Caiga sobre la cabeza de Joab, y sobre toda la casa de su padre; que nunca falte de la casa de Joab quien padezca flujo, ni leproso, ni quien ande con báculo, ni quien muera á cuchillo, ni quien tenga falta de pan. ^30^ Joab pues y Abisai su hermano mataron á Abner, porque él había muerto á Asael, hermano de ellos en la batalla de Gabaón. 
 
-^31^ Entonces dijo David á Joab, y á todo el pueblo que con él estaba: Romped vuestros vestidos, y ceñíos de sacos, y haced duelo delante de Abner. Y el rey iba detrás del féretro. ^32^ Y sepultaron á Abner en Hebrón: y alzando el rey su voz, lloró junto al sepulcro de Abner; y lloró también todo el pueblo. ^33^ Y endechando el rey al mismo Abner, decía: ¿Murió Abner como muere un villano? ^34^ Tus manos no estaban atadas, ni tus pies ligados con grillos: caíste como los que caen delante de malos hombres. Y todo el pueblo volvió á llorar sobre él. 
+^31^ Entonces dijo David á Joab, y á todo el pueblo que con él estaba: Romped vuestros vestidos, y ceñíos de sacos, y haced duelo delante de Abner. Y el rey iba detrás del féretro. ^32^ Y sepultaron á Abner en Hebrón: y alzando el rey su voz, lloró junto al sepulcro de Abner; y lloró también todo el pueblo. ^^ ^33^ Y endechando el rey al mismo Abner, decía: ¿Murió Abner como muere un villano? ^34^ Tus manos no estaban atadas, ni tus pies ligados con grillos: caíste como los que caen delante de malos hombres. Y todo el pueblo volvió á llorar sobre él. 
+^[**3:32** 1Sam 30,4]
 
 ^35^ Y como todo el pueblo viniese á dar de comer pan á David siendo aún de día, David juró, diciendo: Así me haga Dios y así me añada, si antes que se ponga el sol gustare yo pan, ú otra cualquier cosa. 
 
@@ -98,9 +111,10 @@
 ## Asesinato de Isboseth; Coronación de David como Rey de todo Israel
 ^1^ Luego que oyó el hijo de Saúl que Abner había sido muerto en Hebrón, las manos se le descoyuntaron, y fué atemorizado todo Israel. ^2^ Y tenía el hijo de Saúl dos varones, los cuales eran capitanes de compañía, el nombre de uno era Baana, y el del otro Rechâb, hijos de Rimmón Beerothita, de los hijos de Benjamín: (porque Beeroth era contada con Benjamín; ^3^ Estos Beerothitas se habían huído á Gittaim, y habían sido peregrinos allí hasta entonces.) 
 
-^4^ Y Jonathán, hijo de Saúl, tenía un hijo lisiado de los pies de edad de cinco años: que cuando la noticia de la muerte de Saúl y de Jonathán vino de Jezreel, tomóle su ama y huyó; y como iba huyendo con celeridad, cayó el niño y quedó cojo. Su nombre era Mephi-boseth. 
+^4^ Y Jonathán, hijo de Saúl, tenía un hijo lisiado de los pies de edad de cinco años: que cuando la noticia de la muerte de Saúl y de Jonathán vino de Jezreel, tomóle su ama y huyó; y como iba huyendo con celeridad, cayó el niño y quedó cojo. Su nombre era Mephi-boseth. ^^ 
+^[**4:4** 2Sam 9,3]
 
-^5^ Los hijos pues de Rimmón Beerothita, Rechâb y Baana, fueron y entraron en el mayor calor del día en casa de Is-boseth, el cual estaba durmiendo en su cámara la siesta. ^6^ Entonces entraron ellos en medio de la casa en hábito de mercaderes de grano, y le hirieron en la quinta costilla. Escapáronse luego Rechâb y Baana su hermano;
+^5^ Los hijos pues de Rimmón Beerothita, Rechâb y Baana, fueron y entraron en el mayor calor del día en casa de Is-boseth, el cual estaba durmiendo en su cámara la siesta. ^6^ Entonces entraron ellos en medio de la casa en hábito de mercaderes de grano, y le hirieron en la quinta costilla. Escapáronse luego Rechâb y Baana su hermano; 
 
 ## David castiga a los asesinos y honra al muerto Isboseth
 ^7^ Pues como entraron en la casa, estando él en su cama en su cámara de dormir, lo hirieron y mataron, y cortáronle la cabeza, y habiéndola tomado, caminaron toda la noche por el camino de la campiña. ^8^ Y trajeron la cabeza de Is-boseth á David en Hebrón, y dijeron al rey: He aquí la cabeza de Is-boseth hijo de Saúl tu enemigo, que procuraba matarte; y Jehová ha vengado hoy á mi señor el rey, de Saúl y de su simiente. 
@@ -109,14 +123,17 @@
 
 # 5 
 ## David ungido rey por todos los israelitas en Hebrón
-^1^ Y vinieron todas las tribus de Israel á David en Hebrón, y hablaron, diciendo: He aquí nosotros somos tus huesos y tu carne. ^2^ Y aun ayer y antes, cuando Saúl reinaba sobre nosotros, tú sacabas y volvías á Israel. Además Jehová te ha dicho: Tú apacentarás á mi pueblo Israel, y tú serás sobre Israel príncipe. ^3^ Vinieron pues todos los ancianos de Israel al rey en Hebrón, y el rey David hizo con ellos alianza en Hebrón delante de Jehová; y ungieron á David por rey sobre Israel. 
+^1^ Y vinieron todas las tribus de Israel á David en Hebrón, y hablaron, diciendo: He aquí nosotros somos tus huesos y tu carne. ^^ ^2^ Y aun ayer y antes, cuando Saúl reinaba sobre nosotros, tú sacabas y volvías á Israel. Además Jehová te ha dicho: Tú apacentarás á mi pueblo Israel, y tú serás sobre Israel príncipe. ^^ ^3^ Vinieron pues todos los ancianos de Israel al rey en Hebrón, y el rey David hizo con ellos alianza en Hebrón delante de Jehová; y ungieron á David por rey sobre Israel. ^^ 
+^[**5:1** 2Sam 19,13] ^[**5:2** 1Sam 13,14; 1Sam 25,30] ^[**5:3** 2Sam 2,4; 1Sam 16,13]
 
-^4^ Era David de treinta años cuando comenzó á reinar, y reinó cuarenta años. ^5^ En Hebrón reinó sobre Judá siete años y seis meses: y en Jerusalem reinó treinta y tres años sobre todo Israel y Judá. 
+^4^ Era David de treinta años cuando comenzó á reinar, y reinó cuarenta años. ^^ ^5^ En Hebrón reinó sobre Judá siete años y seis meses: y en Jerusalem reinó treinta y tres años sobre todo Israel y Judá. 
+^[**5:4** 1Re 2,11; 1Cró 29,27]
 
 ## David conquista Jerusalén y la convierte en su capital y su residencia
 ^6^ Entonces el rey y los suyos fueron á Jerusalem al Jebuseo que habitaba en la tierra; el cual habló á David, diciendo: Tú no entrarás acá, si no echares los ciegos y los cojos; diciendo: No entrará acá David. ^7^ Empero David tomó la fortaleza de Sión, la cual es la ciudad de David. ^8^ Y dijo David aquel día: ¿Quién llegará hasta las canales, y herirá al Jebuseo, y á los cojos y ciegos, á los cuales el alma de David aborrece? Por esto se dijo: Ciego ni cojo no entrará en casa. 
 
-^9^ Y David moró en la fortaleza, y púsole por nombre la Ciudad de David: y edificó alrededor, desde Millo para adentro. ^10^ Y David iba creciendo y aumentándose, y Jehová Dios de los ejércitos era con él.
+^9^ Y David moró en la fortaleza, y púsole por nombre la Ciudad de David: y edificó alrededor, desde Millo para adentro. ^10^ Y David iba creciendo y aumentándose, y Jehová Dios de los ejércitos era con él. ^^ 
+^[**5:10** 2Sam 3,1]
 
 ## Sus construcciones (con la ayuda de Hiram de Tiro); Aumentando el número de sus esposas; sus hijos nacidos en Jerusalén
 ^11^ E Hiram rey de Tiro envió también embajadores á David, y madera de cedro, y carpinteros, y canteros para los muros, los cuales edificaron la casa de David. ^12^ Y entendió David que Jehová le había confirmado por rey sobre Israel, y que había ensalzado su reino por amor de su pueblo Israel. 
@@ -124,7 +141,8 @@
 ^13^ Y tomó David más concubinas y mujeres de Jerusalem después que vino de Hebrón, y naciéronle más hijos é hijas. ^14^ Estos son los nombres de los que le nacieron en Jerusalem: Sammua, y Sobab, y Nathán, y Salomón, ^15^ E Ibhar, y Elisua, y Nepheg, ^16^ Y Japhia, y Elisama, y Eliada, y Eliphelet. 
 
 ## Sus dos batallas victoriosas con los filisteos
-^17^ Y oyendo los Filisteos que habían ungido á David por rey sobre Israel, todos los Filisteos subieron á buscar á David: lo cual como David oyó, vino á la fortaleza. ^18^ Y vinieron los Filisteos, y extendiéronse por el valle de Raphaim. ^19^ Entonces consultó David á Jehová, diciendo: ¿Iré contra los Filisteos? ¿los entregarás en mis manos? Y Jehová respondió á David: Ve, porque ciertamente entregaré los Filisteos en tus manos. 
+^17^ Y oyendo los Filisteos que habían ungido á David por rey sobre Israel, todos los Filisteos subieron á buscar á David: lo cual como David oyó, vino á la fortaleza. ^18^ Y vinieron los Filisteos, y extendiéronse por el valle de Raphaim. ^19^ Entonces consultó David á Jehová, diciendo: ¿Iré contra los Filisteos? ¿los entregarás en mis manos? Y Jehová respondió á David: Ve, porque ciertamente entregaré los Filisteos en tus manos. ^^ 
+^[**5:19** 1Sam 30,8]
 
 ^20^ Y vino David á Baal-perasim, y allí los venció David, y dijo: Rompió Jehová mis enemigos delante de mí, como quien rompe aguas. Y por esto llamó el nombre de aquel lugar Baal-perasim. ^21^ Y dejaron allí sus ídolos, los cuales quemó David y los suyos. 
 
@@ -134,16 +152,20 @@
 
 # 6 
 ## Traslado del arca a Sion en Jerusalén; Fracaso del primer intento
-^1^ Y david tornó á juntar todos los escogidos de Israel, treinta mil. ^2^ Y levantóse David, y fué con todo el pueblo que tenía consigo, de Baal de Judá, para hacer pasar de allí el arca de Dios, sobre la cual era invocado el nombre de Jehová de los ejércitos, que mora en ella entre los querubines. ^3^ Y pusieron el arca de Dios sobre un carro nuevo, y lleváronla de la casa de Abinadab, que estaba en Gabaa: y Uzza y Ahio, hijos de Abinadab, guiaban el carro nuevo. ^4^ Y cuando lo llevaban de la casa de Abinadab que estaba en Gabaa, con el arca de Dios, Ahio iba delante del arca. ^5^ Y David y toda la casa de Israel danzaban delante de Jehová con toda suerte de instrumentos de madera de haya; con arpas, salterios, adufes, flautas y címbalos. 
+^1^ Y david tornó á juntar todos los escogidos de Israel, treinta mil. ^2^ Y levantóse David, y fué con todo el pueblo que tenía consigo, de Baal de Judá, para hacer pasar de allí el arca de Dios, sobre la cual era invocado el nombre de Jehová de los ejércitos, que mora en ella entre los querubines. ^^ ^3^ Y pusieron el arca de Dios sobre un carro nuevo, y lleváronla de la casa de Abinadab, que estaba en Gabaa: y Uzza y Ahio, hijos de Abinadab, guiaban el carro nuevo. ^^ ^4^ Y cuando lo llevaban de la casa de Abinadab que estaba en Gabaa, con el arca de Dios, Ahio iba delante del arca. ^5^ Y David y toda la casa de Israel danzaban delante de Jehová con toda suerte de instrumentos de madera de haya; con arpas, salterios, adufes, flautas y címbalos. 
+^[**6:2** Jos 15,9; Éxod 25,22] ^[**6:3** 1Sam 7,1]
 
-^6^ Y cuando llegaron á la era de Nachôn, Uzza extendió la mano al arca de Dios, y túvola; porque los bueyes daban sacudidas. ^7^ Y el furor de Jehová se encendió contra Uzza, é hiriólo allí Dios por aquella temeridad, y cayó allí muerto junto al arca de Dios. ^8^ Y entristecióse David por haber herido Jehová á Uzza: y fué llamado aquel lugar Pérez-uzza, hasta hoy. ^9^ Y temiendo David á Jehová aquel día, dijo: ¿Cómo ha de venir á mí el arca de Jehová? ^10^ No quiso pues David traer á sí el arca de Jehová á la ciudad de David; mas llevóla David á casa de Obed-edom Getheo. ^11^ Y estuvo el arca de Jehová en casa de Obed-edom Getheo tres meses: y bendijo Jehová á Obed-edom y á toda su casa.
+^6^ Y cuando llegaron á la era de Nachôn, Uzza extendió la mano al arca de Dios, y túvola; porque los bueyes daban sacudidas. ^7^ Y el furor de Jehová se encendió contra Uzza, é hiriólo allí Dios por aquella temeridad, y cayó allí muerto junto al arca de Dios. ^^ ^8^ Y entristecióse David por haber herido Jehová á Uzza: y fué llamado aquel lugar Pérez-uzza, hasta hoy. ^9^ Y temiendo David á Jehová aquel día, dijo: ¿Cómo ha de venir á mí el arca de Jehová? ^10^ No quiso pues David traer á sí el arca de Jehová á la ciudad de David; mas llevóla David á casa de Obed-edom Getheo. ^11^ Y estuvo el arca de Jehová en casa de Obed-edom Getheo tres meses: y bendijo Jehová á Obed-edom y á toda su casa. 
+^[**6:7** Núm 4,15; 1Sam 6,19]
 
 ## Traslado solemne del arca a Jerusalén; Fiesta del sacrificio y acción de gracias del pueblo
 ^12^ Y fué dado aviso al rey David, diciendo: Jehová ha bendecido la casa de Obed-edom, y todo lo que tiene, á causa del arca de Dios. Entonces David fué, y trajo el arca de Dios de casa de Obed-edom á la ciudad de David con alegría. 
 
-^13^ Y como los que llevaban el arca de Dios habían andado seis pasos, sacrificaban un buey y un carnero grueso. ^14^ Y David saltaba con toda su fuerza delante de Jehová; y tenía vestido David un ephod de lino. ^15^ Así David y toda la casa de Israel llevaban el arca de Jehová con júbilo y sonido de trompeta. 
+^13^ Y como los que llevaban el arca de Dios habían andado seis pasos, sacrificaban un buey y un carnero grueso. ^^ ^14^ Y David saltaba con toda su fuerza delante de Jehová; y tenía vestido David un ephod de lino. ^15^ Así David y toda la casa de Israel llevaban el arca de Jehová con júbilo y sonido de trompeta. 
+^[**6:13** 1Re 8,5]
 
-^16^ Y como el arca de Jehová llegó á la ciudad de David, aconteció que Michâl hija de Saúl miró desde una ventana, y vió al rey David que saltaba con toda su fuerza delante de Jehová: y menosprecióle en su corazón. ^17^ Metieron pues el arca de Jehová, y pusiéronla en su lugar en medio de una tienda que David le había tendido: y sacrificó David holocaustos y pacíficos delante de Jehová. ^18^ Y como David hubo acabado de ofrecer los holocaustos y pacíficos, bendijo al pueblo en el nombre de Jehová de los ejércitos. ^19^ Y repartió á todo el pueblo, y á toda la multitud de Israel, así á hombres como á mujeres, á cada uno una torta de pan, y un pedazo de carne, y un frasco de vino. Y fuése todo el pueblo, cada uno á su casa. 
+^16^ Y como el arca de Jehová llegó á la ciudad de David, aconteció que Michâl hija de Saúl miró desde una ventana, y vió al rey David que saltaba con toda su fuerza delante de Jehová: y menosprecióle en su corazón. ^17^ Metieron pues el arca de Jehová, y pusiéronla en su lugar en medio de una tienda que David le había tendido: y sacrificó David holocaustos y pacíficos delante de Jehová. ^18^ Y como David hubo acabado de ofrecer los holocaustos y pacíficos, bendijo al pueblo en el nombre de Jehová de los ejércitos. ^^ ^19^ Y repartió á todo el pueblo, y á toda la multitud de Israel, así á hombres como á mujeres, á cada uno una torta de pan, y un pedazo de carne, y un frasco de vino. Y fuése todo el pueblo, cada uno á su casa. 
+^[**6:18** 1Re 8,55]
 
 ## La noble conducta de David y su humilde declaración contra Mical
 ^20^ Volvió luego David para bendecir su casa: y saliendo Michâl á recibir á David, dijo: ¡Cuán honrado ha sido hoy el rey de Israel, desnudándose hoy delante de las criadas de sus siervos, como se desnudara un juglar! 
@@ -154,30 +176,37 @@
 
 # 7 
 ## Natán aprueba el plan de David para construir el templo
-^1^ Y aconteció que, estando ya el rey asentado en su casa, después que Jehová le había dado reposo de todos sus enemigos en derredor, ^2^ Dijo el rey al profeta Nathán: Mira ahora, yo moro en edificios de cedro, y el arca de Dios está entre cortinas. 
+^1^ Y aconteció que, estando ya el rey asentado en su casa, después que Jehová le había dado reposo de todos sus enemigos en derredor, ^2^ Dijo el rey al profeta Nathán: Mira ahora, yo moro en edificios de cedro, y el arca de Dios está entre cortinas. ^^ 
+^[**7:2** Sal 132,-1]
 
 ^3^ Y Nathán dijo al rey: Anda, y haz todo lo que está en tu corazón, que Jehová es contigo. 
 
 ## Rechazo de Dios del plan; El discurso profético de Nathan; el templo será construido por el hijo de David
-^4^ Y aconteció aquella noche, que fué palabra de Jehová á Nathán, diciendo: ^5^ Ve y di á mi siervo David: Así ha dicho Jehová: ¿Tú me has de edificar casa en que yo more? ^6^ Ciertamente no he habitado en casas desde el día que saqué á los hijos de Israel de Egipto hasta hoy, sino que anduve en tienda y en tabernáculo. ^7^ Y en todo cuanto he andado con todos los hijos de Israel, ¿he hablado palabra en alguna de las tribus de Israel, á quien haya mandado que apaciente mi pueblo de Israel, para decir: ¿Por qué no me habéis edificado casa de cedros? ^8^ Ahora pues, dirás así á mi siervo David: Así ha dicho Jehová de los ejércitos: Yo te tomé de la majada, de detrás de las ovejas, para que fueses príncipe sobre mi pueblo, sobre Israel; ^9^ Y he sido contigo en todo cuanto has andado, y delante de ti he talado todos tus enemigos, y te he hecho nombre grande, como el nombre de los grandes que son en la tierra. ^10^ Además yo fijaré lugar á mi pueblo Israel, yo lo plantaré, para que habite en su lugar, y nunca más sea removido, ni los inicuos le aflijan más, como antes, ^11^ Desde el día que puse jueces sobre mi pueblo Israel; y yo te daré descanso de todos tus enemigos. Asimismo Jehová te hace saber, que él te quiere hacer casa. ^12^ Y cuando tus días fueren cumplidos, y durmieres con tus padres, yo estableceré tu simiente después de ti, la cual procederá de tus entrañas, y aseguraré su reino. ^13^ El edificará casa á mi nombre, y yo afirmaré para siempre el trono de su reino.
+^4^ Y aconteció aquella noche, que fué palabra de Jehová á Nathán, diciendo: ^5^ Ve y di á mi siervo David: Así ha dicho Jehová: ¿Tú me has de edificar casa en que yo more? ^6^ Ciertamente no he habitado en casas desde el día que saqué á los hijos de Israel de Egipto hasta hoy, sino que anduve en tienda y en tabernáculo. ^^ ^7^ Y en todo cuanto he andado con todos los hijos de Israel, ¿he hablado palabra en alguna de las tribus de Israel, á quien haya mandado que apaciente mi pueblo de Israel, para decir: ¿Por qué no me habéis edificado casa de cedros? ^8^ Ahora pues, dirás así á mi siervo David: Así ha dicho Jehová de los ejércitos: Yo te tomé de la majada, de detrás de las ovejas, para que fueses príncipe sobre mi pueblo, sobre Israel; ^9^ Y he sido contigo en todo cuanto has andado, y delante de ti he talado todos tus enemigos, y te he hecho nombre grande, como el nombre de los grandes que son en la tierra. ^10^ Además yo fijaré lugar á mi pueblo Israel, yo lo plantaré, para que habite en su lugar, y nunca más sea removido, ni los inicuos le aflijan más, como antes, ^11^ Desde el día que puse jueces sobre mi pueblo Israel; y yo te daré descanso de todos tus enemigos. Asimismo Jehová te hace saber, que él te quiere hacer casa. ^12^ Y cuando tus días fueren cumplidos, y durmieres con tus padres, yo estableceré tu simiente después de ti, la cual procederá de tus entrañas, y aseguraré su reino. ^^ ^13^ El edificará casa á mi nombre, y yo afirmaré para siempre el trono de su reino. ^^ 
+^[**7:6** 1Re 8,16; 1Re 8,27; Is 66,1] ^[**7:12** 1Re 8,20; Is 9,6] ^[**7:13** 1Re 5,19; 1Re 6,12; Sal 89,4-5]
 
 ## La gran proclamación de salvación de Dios a David con respecto a la eternidad de su casa
-^14^ Yo le seré á él padre, y él me será á mí hijo. Y si él hiciere mal, yo le castigaré con vara de hombres, y con azotes de hijos de hombres; ^15^ Empero mi misericordia no se apartará de él, como la aparté de Saúl, al cual quité de delante de ti. ^16^ Y será afirmada tu casa y tu reino para siempre delante de tu rostro; y tu trono será estable eternalmente. 
+^14^ Yo le seré á él padre, y él me será á mí hijo. Y si él hiciere mal, yo le castigaré con vara de hombres, y con azotes de hijos de hombres; ^^ ^15^ Empero mi misericordia no se apartará de él, como la aparté de Saúl, al cual quité de delante de ti. ^^ ^16^ Y será afirmada tu casa y tu reino para siempre delante de tu rostro; y tu trono será estable eternalmente. ^^ 
+^[**7:14** Sal 89,27; Heb 1,5; Luc 1,32] ^[**7:15** 1Sam 15,23; 1Sam 15,26] ^[**7:16** Sal 72,17; Is 55,3]
 
 ## Acción de gracias y súplica de David
 ^17^ Conforme á todas estas palabras, y conforme á toda esta visión, así habló Nathán á David. 
 
-^18^ Y entró el rey David, y púsose delante de Jehová, y dijo: Señor Jehová, ¿quién soy yo, y qué es mi casa, para que tú me traigas hasta aquí? ^19^ Y aun te ha parecido poco esto, Señor Jehová, pues que también has hablado de la casa de tu siervo en lo por venir. ¿Es ése el modo de obrar del hombre, Señor Jehová? ^20^ ¿Y qué más puede añadir David hablando contigo? Tú pues conoces tu siervo, Señor Jehová. ^21^ Todas estas grandezas has obrado por tu palabra y conforme á tu corazón, haciéndolas saber á tu siervo. ^22^ Por tanto tú te has engrandecido, Jehová Dios: por cuanto no hay como tú, ni hay Dios fuera de ti, conforme á todo lo que hemos oído con nuestros oídos. ^23^ ¿Y quién como tu pueblo, como Israel, en la tierra? una gente por amor de la cual Dios fuese á redimírsela por pueblo, y le pusiese nombre, é hiciese por vosotros, oh Israel, grandes y espantosas obras en tu tierra, por amor de tu pueblo, oh Dios, que tú redimiste de Egipto, de las gentes y de sus dioses? ^24^ Porque tú te has confirmado á tu pueblo Israel por pueblo tuyo para siempre: y tú, oh Jehová, fuiste á ellos por Dios. 
+^18^ Y entró el rey David, y púsose delante de Jehová, y dijo: Señor Jehová, ¿quién soy yo, y qué es mi casa, para que tú me traigas hasta aquí? ^19^ Y aun te ha parecido poco esto, Señor Jehová, pues que también has hablado de la casa de tu siervo en lo por venir. ¿Es ése el modo de obrar del hombre, Señor Jehová? ^20^ ¿Y qué más puede añadir David hablando contigo? Tú pues conoces tu siervo, Señor Jehová. ^21^ Todas estas grandezas has obrado por tu palabra y conforme á tu corazón, haciéndolas saber á tu siervo. ^22^ Por tanto tú te has engrandecido, Jehová Dios: por cuanto no hay como tú, ni hay Dios fuera de ti, conforme á todo lo que hemos oído con nuestros oídos. ^23^ ¿Y quién como tu pueblo, como Israel, en la tierra? una gente por amor de la cual Dios fuese á redimírsela por pueblo, y le pusiese nombre, é hiciese por vosotros, oh Israel, grandes y espantosas obras en tu tierra, por amor de tu pueblo, oh Dios, que tú redimiste de Egipto, de las gentes y de sus dioses? ^^ ^24^ Porque tú te has confirmado á tu pueblo Israel por pueblo tuyo para siempre: y tú, oh Jehová, fuiste á ellos por Dios. 
+^[**7:23** Deut 4,7]
 
 ^25^ Ahora pues, Jehová Dios, la palabra que has hablado sobre tu siervo y sobre su casa, despiértala para siempre, y haz conforme á lo que has dicho. ^26^ Que sea engrandecido tu nombre para siempre, y dígase: Jehová de los ejércitos es Dios sobre Israel; y que la casa de tu siervo David sea firme delante de ti. ^27^ Porque tú, Jehová de los ejércitos, Dios de Israel, revelaste al oído de tu siervo, diciendo: Yo te edificaré casa. Por esto tu siervo ha hallado en su corazón para hacer delante de ti esta súplica. 
 
-^28^ Ahora pues, Jehová Dios, tú eres Dios, y tus palabras serán firmes, ya que has dicho á tu siervo este bien. ^29^ Tenlo pues ahora á bien, y bendice la casa de tu siervo, para que perpetuamente permanezca delante de ti: pues que tú, Jehová Dios, lo has dicho, y con tu bendición será bendita la casa de tu siervo para siempre. 
+^28^ Ahora pues, Jehová Dios, tú eres Dios, y tus palabras serán firmes, ya que has dicho á tu siervo este bien. ^^ 
+^[**7:28** 1Re 8,26]
+
+^29^ Tenlo pues ahora á bien, y bendice la casa de tu siervo, para que perpetuamente permanezca delante de ti: pues que tú, Jehová Dios, lo has dicho, y con tu bendición será bendita la casa de tu siervo para siempre. 
 
 # 8 
 ## Las victorias de David sobre los filisteos, moabitas y sirios
 ^1^ Después de esto aconteció, que David hirió á los Filisteos, y los humilló: y tomó David á Methegamma de mano de los Filisteos. ^2^ Hirió también á los de Moab, y midiólos con cordel, haciéndolos echar por tierra; y midió con dos cordeles para muerte, y un cordel entero para vida; y fueron los Moabitas siervos debajo de tributo. 
 
-^3^ Asimismo hirió David á Hadad-ezer hijo de Rehob, rey de Soba, yendo él á extender su término hasta el río de Eufrates. ^4^ Y tomó David de ellos mil y setecientos de á caballo, y veinte mil hombres de á pie; y desjarretó David los caballos de todos los carros, excepto cien carros de ellos que dejó. ^5^ Y vinieron los Siros de Damasco á dar ayuda á Hadad-ezer rey de Soba; y David hirió de los Siros veinte y dos mil hombres. ^6^ Puso luego David guarnición en Siria la de Damasco, y fueron los Siros siervos de David sujetos á tributo. Y Jehová guardó á David donde quiera que fué.
+^3^ Asimismo hirió David á Hadad-ezer hijo de Rehob, rey de Soba, yendo él á extender su término hasta el río de Eufrates. ^4^ Y tomó David de ellos mil y setecientos de á caballo, y veinte mil hombres de á pie; y desjarretó David los caballos de todos los carros, excepto cien carros de ellos que dejó. ^5^ Y vinieron los Siros de Damasco á dar ayuda á Hadad-ezer rey de Soba; y David hirió de los Siros veinte y dos mil hombres. ^6^ Puso luego David guarnición en Siria la de Damasco, y fueron los Siros siervos de David sujetos á tributo. Y Jehová guardó á David donde quiera que fué. 
 
 ## El botín y sus usos; Felicitaciones del Rey Thoi
 ^7^ Y tomó David los escudos de oro que traían los siervos de Hadad-ezer, y llevólos á Jerusalem. ^8^ Asimismo de Beta y de Beeroth, ciudades de Hadad-ezer, tomó el rey David gran copia de metal. 
@@ -185,18 +214,25 @@
 ^9^ Entonces oyendo Toi, rey de Hamath, que David había herido todo el ejército de Hadad-ezer, ^10^ Envió Toi á Joram su hijo al rey David, á saludarle pacíficamente y á bendecirle, porque había peleado con Hadad-ezer y lo había vencido: porque Toi era enemigo de Hadad-ezer. Y Joram llevaba en su mano vasos de plata, y vasos de oro, y de metal; ^11^ Los cuales el rey David dedicó á Jehová, con la plata y el oro que tenía dedicado de todas las naciones que había sometido: ^12^ De los Siros, de los Moabitas, de los Ammonitas, de los Filisteos, de los Amalecitas, y del despojo de Hadad-ezer hijo de Rehob, rey de Soba. 
 
 ## Derrota y subyugación de los edomitas
-^13^ Y ganó David fama cuando, volviendo de la rota de los Siros, hirió diez y ocho mil hombres en el valle de la sal. ^14^ Y puso guarnición en Edom, por toda Edom puso guarnición; y todos los Idumeos fueron siervos de David. Y Jehová guardó á David por donde quiera que fué. 
+^13^ Y ganó David fama cuando, volviendo de la rota de los Siros, hirió diez y ocho mil hombres en el valle de la sal. ^^ ^14^ Y puso guarnición en Edom, por toda Edom puso guarnición; y todos los Idumeos fueron siervos de David. Y Jehová guardó á David por donde quiera que fué. ^^ 
+^[**8:13** Sal 60,2] ^[**8:14** Gén 27,40]
 
 ## Directorio de los principales oficiales de David
-^15^ Y reinó David sobre todo Israel; y hacía David derecho y justicia á todo su pueblo. ^16^ Y Joab hijo de Sarvia era general de su ejército; y Josaphat hijo de Ahilud, canciller; ^17^ Y Sadoc hijo de Ahitud, y Ahimelech hijo de Abiathar, eran sacerdotes; y Seraía era escriba; ^18^ Y Benahía hijo de Joiada, era sobre los Ceretheos y Peletheos; y los hijos de David eran los príncipes. 
+^15^ Y reinó David sobre todo Israel; y hacía David derecho y justicia á todo su pueblo. ^16^ Y Joab hijo de Sarvia era general de su ejército; y Josaphat hijo de Ahilud, canciller; ^^ 
+^[**8:16** 2Sam 20,23-26]
+
+^17^ Y Sadoc hijo de Ahitud, y Ahimelech hijo de Abiathar, eran sacerdotes; y Seraía era escriba; ^18^ Y Benahía hijo de Joiada, era sobre los Ceretheos y Peletheos; y los hijos de David eran los príncipes. 
 
 # 9 
 ## La generosidad de David hacia el hijo de Jonatán, Mefiboset
-^1^ Y dijo David: ¿Ha quedado alguno de la casa de Saúl, á quien haga yo misericordia por amor de Jonathán? ^2^ Y había un siervo de la casa de Saúl, que se llamaba Siba, al cual como llamaron que viniese á David, el rey le dijo: ¿Eres tú Siba? Y él respondió: Tu siervo. 
+^1^ Y dijo David: ¿Ha quedado alguno de la casa de Saúl, á quien haga yo misericordia por amor de Jonathán? ^2^ Y había un siervo de la casa de Saúl, que se llamaba Siba, al cual como llamaron que viniese á David, el rey le dijo: ¿Eres tú Siba? Y él respondió: Tu siervo. ^^ 
+^[**9:2** 2Sam 16,1]
 
-^3^ Y el rey dijo: ¿No ha quedado nadie de la casa de Saúl, á quien haga yo misericordia de Dios? Y Siba respondió al rey: Aun ha quedado un hijo de Jonathán, lisiado de los pies. 
+^3^ Y el rey dijo: ¿No ha quedado nadie de la casa de Saúl, á quien haga yo misericordia de Dios? Y Siba respondió al rey: Aun ha quedado un hijo de Jonathán, lisiado de los pies. ^^ 
+^[**9:3** 2Sam 4,4]
 
-^4^ Entonces el rey le dijo: ¿Y ése dónde está? Y Siba respondió al rey: He aquí, está en casa de Machîr hijo de Amiel, en Lodebar. 
+^4^ Entonces el rey le dijo: ¿Y ése dónde está? Y Siba respondió al rey: He aquí, está en casa de Machîr hijo de Amiel, en Lodebar. ^^ 
+^[**9:4** 2Sam 17,27]
 
 ## Las magnánimas disposiciones de David con respecto a Mefiboset
 ^5^ Y envió el rey David, y tomólo de casa de Machîr hijo de Amiel, de Lodebar. ^6^ Y venido Mephi-boseth, hijo de Jonathán hijo de Saúl, á David, postróse sobre su rostro, é hizo reverencia. Y dijo David: Mephi-boseth. Y él respondió: He aquí tu siervo. 
@@ -207,7 +243,10 @@
 
 ^9^ Entonces el rey llamó á Siba, siervo de Saúl, y díjole: Todo lo que fué de Saúl y de toda su casa, yo lo he dado al hijo de tu señor. ^10^ Tú pues le labrarás las tierras, tú con tus hijos, y tus siervos, y encerrarás los frutos, para que el hijo de tu señor tenga con qué mantenerse; y Mephi-boseth el hijo de tu señor comerá siempre pan á mi mesa. Y tenía Siba quince hijos y veinte siervos. 
 
-^11^ Y respondió Siba al rey: Conforme á todo lo que ha mandado mi señor el rey á su siervo, así lo hará tu siervo. Mephi-boseth, dijo el rey, comerá á mi mesa, como uno de los hijos del rey. ^12^ Y tenía Mephi-boseth un hijo pequeño, que se llamaba Michâ. Y toda la familia de la casa de Siba eran siervos de Mephi-boseth. ^13^ Y moraba Mephi-boseth en Jerusalem, porque comía siempre á la mesa del rey: y era cojo de ambos pies. 
+^11^ Y respondió Siba al rey: Conforme á todo lo que ha mandado mi señor el rey á su siervo, así lo hará tu siervo. Mephi-boseth, dijo el rey, comerá á mi mesa, como uno de los hijos del rey. ^^ 
+^[**9:11** 2Sam 19,29]
+
+^12^ Y tenía Mephi-boseth un hijo pequeño, que se llamaba Michâ. Y toda la familia de la casa de Siba eran siervos de Mephi-boseth. ^13^ Y moraba Mephi-boseth en Jerusalem, porque comía siempre á la mesa del rey: y era cojo de ambos pies. 
 
 # 10 
 ## El vergonzoso crimen de los amonitas contra el mensajero de David
@@ -225,16 +264,19 @@
 
 # 11 
 ## El adulterio de David con Betsabé
-^1^ Y aconteció á la vuelta de un año, en el tiempo que salen los reyes á la guerra, que David envió á Joab, y á sus siervos con él, y á todo Israel; y destruyeron á los Ammonitas, y pusieron cerco á Rabba: mas David se quedó en Jerusalem. ^2^ Y acaeció que levantándose David de su cama á la hora de la tarde, paseábase por el terrado de la casa real, cuando vió desde el terrado una mujer que se estaba lavando, la cual era muy hermosa. ^3^ Y envió David á preguntar por aquella mujer, y dijéronle: Aquella es Bath-sheba hija de Eliam, mujer de Uría Hetheo. 
+^1^ Y aconteció á la vuelta de un año, en el tiempo que salen los reyes á la guerra, que David envió á Joab, y á sus siervos con él, y á todo Israel; y destruyeron á los Ammonitas, y pusieron cerco á Rabba: mas David se quedó en Jerusalem. ^^ ^2^ Y acaeció que levantándose David de su cama á la hora de la tarde, paseábase por el terrado de la casa real, cuando vió desde el terrado una mujer que se estaba lavando, la cual era muy hermosa. ^^ ^3^ Y envió David á preguntar por aquella mujer, y dijéronle: Aquella es Bath-sheba hija de Eliam, mujer de Uría Hetheo. ^^ 
+^[**11:1** 1Cró 20,1] ^[**11:2** Mat 5,28-29] ^[**11:3** 2Sam 23,29]
 
-^4^ Y envió David mensajeros, y tomóla: y así que hubo entrado á él, él durmió con ella. Purificóse luego ella de su inmundicia, y se volvió á su casa. ^5^ Y concibió la mujer, y enviólo á hacer saber á David, diciendo: Yo estoy embarazada. 
+^4^ Y envió David mensajeros, y tomóla: y así que hubo entrado á él, él durmió con ella. Purificóse luego ella de su inmundicia, y se volvió á su casa. ^^ ^5^ Y concibió la mujer, y enviólo á hacer saber á David, diciendo: Yo estoy embarazada. 
+^[**11:4** Lev 15,18]
 
 ## El comportamiento ejemplar de Uria durante su estancia en el Palacio de David
 ^6^ Entonces David envió á decir á Joab: Envíame á Uría Hetheo. Y enviólo Joab á David. ^7^ Y como Uría vino á él, preguntóle David por la salud de Joab, y por la salud del pueblo, y asimismo de la guerra. ^8^ Después dijo David á Uría: Desciende á tu casa, y lava tus pies. Y saliendo Uría de casa del rey, vino tras de él comida real. ^9^ Mas Uría durmió á la puerta de la casa del rey con todos los siervos de su señor, y no descendió á su casa. ^10^ E hicieron saber esto á David, diciendo: Uría no ha descendido á su casa. Y dijo David á Uría: ¿No has venido de camino? ¿por qué pues no descendiste á tu casa? 
 
-^11^ Y Uría respondió á David: El arca, é Israel y Judá, están debajo de tiendas; y mi señor Joab, y los siervos de mi señor sobre la haz del campo: ¿y había yo de entrar en mi casa para comer y beber, y á dormir con mi mujer? Por vida tuya, y por vida de tu alma, que yo no haré tal cosa. 
+^11^ Y Uría respondió á David: El arca, é Israel y Judá, están debajo de tiendas; y mi señor Joab, y los siervos de mi señor sobre la haz del campo: ¿y había yo de entrar en mi casa para comer y beber, y á dormir con mi mujer? Por vida tuya, y por vida de tu alma, que yo no haré tal cosa. ^^ 
+^[**11:11** 1Sam 4,4]
 
-^12^ Y David dijo á Uría: Estáte aquí aún hoy, y mañana te despacharé. Y quedóse Uría en Jerusalem aquel día y el siguiente. ^13^ Y David lo convidó, é hízole comer y beber delante de sí, hasta embriagarlo. Y él salió á la tarde á dormir en su cama con los siervos de su señor; mas no descendió á su casa.
+^12^ Y David dijo á Uría: Estáte aquí aún hoy, y mañana te despacharé. Y quedóse Uría en Jerusalem aquel día y el siguiente. ^13^ Y David lo convidó, é hízole comer y beber delante de sí, hasta embriagarlo. Y él salió á la tarde á dormir en su cama con los siervos de su señor; mas no descendió á su casa. 
 
 ## La carta de Urias; La muerte de Urías; El mensaje de Joab a David; Aviso del rey
 ^14^ Venida la mañana, escribió David á Joab una carta, la cual envió por mano de Uría. ^15^ Y escribió en la carta, diciendo: Poned á Uría delante de la fuerza de la batalla, y desamparadle, para que sea herido y muera. 
@@ -246,7 +288,8 @@
 ^25^ Y David dijo al mensajero: Dirás así á Joab: No tengas pesar de esto, que de igual y semejante manera suele consumir la espada: esfuerza la batalla contra la ciudad, hasta que la rindas. Y tú aliéntale. 
 
 ## El duelo de Betsabé por su marido; su matrimonio con David
-^26^ Y oyendo la mujer de Uría que su marido Uría era muerto, hizo duelo por su marido. ^27^ Y pasado el luto, envió David y recogióla á su casa: y fué ella su mujer, y parióle un hijo. Mas esto que David había hecho, fué desagradable á los ojos de Jehová. 
+^26^ Y oyendo la mujer de Uría que su marido Uría era muerto, hizo duelo por su marido. ^27^ Y pasado el luto, envió David y recogióla á su casa: y fué ella su mujer, y parióle un hijo. Mas esto que David había hecho, fué desagradable á los ojos de Jehová. ^^ 
+^[**11:27** Éxod 20,13-14] 
 
 # 12 
 ## El discurso de Nathan y el anuncio de la perdición; La confesión de culpa y arrepentimiento de David
@@ -254,13 +297,15 @@
 
 ^5^ Entonces se encendió el furor de David en gran manera contra aquel hombre, y dijo á Nathán: Vive Jehová, que el que tal hizo es digno de muerte. ^6^ Y que él debe pagar la cordera con cuatro tantos, porque hizo esta tal cosa, y no tuvo misericordia. 
 
-^7^ Entonces dijo Nathán á David: Tú eres aquel hombre. Así ha dicho Jehová, Dios de Israel: Yo te ungí por rey sobre Israel, y te libré de la mano de Saúl; ^8^ Yo te dí la casa de tu señor, y las mujeres de tu señor en tu seno: demás de esto te dí la casa de Israel y de Judá; y si esto es poco, yo te añadiré tales y tales cosas. ^9^ ¿Por qué pues tuviste en poco la palabra de Jehová, haciendo lo malo delante de sus ojos? A Uría Hetheo heriste á cuchillo, y tomaste por tu mujer á su mujer, y á él mataste con el cuchillo de los hijos de Ammón. ^10^ Por lo cual ahora no se apartará jamás de tu casa la espada; por cuanto me menospreciaste, y tomaste la mujer de Uría Hetheo para que fuese tu mujer. 
+^7^ Entonces dijo Nathán á David: Tú eres aquel hombre. Así ha dicho Jehová, Dios de Israel: Yo te ungí por rey sobre Israel, y te libré de la mano de Saúl; ^^ ^8^ Yo te dí la casa de tu señor, y las mujeres de tu señor en tu seno: demás de esto te dí la casa de Israel y de Judá; y si esto es poco, yo te añadiré tales y tales cosas. ^9^ ¿Por qué pues tuviste en poco la palabra de Jehová, haciendo lo malo delante de sus ojos? A Uría Hetheo heriste á cuchillo, y tomaste por tu mujer á su mujer, y á él mataste con el cuchillo de los hijos de Ammón. ^10^ Por lo cual ahora no se apartará jamás de tu casa la espada; por cuanto me menospreciaste, y tomaste la mujer de Uría Hetheo para que fuese tu mujer. ^^ 
+^[**12:7** 1Re 20,40] ^[**12:10** 2Sam 13,28-29; 2Sam 18,14; 2Re 25,7]
 
 ^11^ Así ha dicho Jehová: He aquí yo levantaré sobre ti el mal de tu misma casa, y tomaré tus mujeres delante de tus ojos, y las daré á tu prójimo, el cual yacerá con tus mujeres á la vista de este sol. ^12^ Porque tú lo hiciste en secreto; mas yo haré esto delante de todo Israel, y delante del sol. 
 
 ^13^ Entonces dijo David á Nathán: Pequé contra Jehová. Y Nathán dijo á David: También Jehová ha remitido tu pecado: no morirás. 
 
-^14^ Mas por cuanto con este negocio hiciste blasfemar á los enemigos de Jehová, el hijo que te ha nacido morirá ciertamente.
+^14^ Mas por cuanto con este negocio hiciste blasfemar á los enemigos de Jehová, el hijo que te ha nacido morirá ciertamente. ^^ 
+^[**12:14** 2Sam 11,27]
 
 ## Enfermedad y muerte del niño Betsabé; El dolor y la renovada valentía de David; Nacimiento y educación de Salomón
 ^15^ Y Nathán se volvió á su casa. Y Jehová hirió al niño que la mujer de Uría había parido á David, y enfermó gravemente. 
@@ -282,18 +327,21 @@
 
 # 13 
 ## El amor apasionado de Amnón; su indignación hacia su media hermana Thamar
-^1^ Aconteció después de esto, que teniendo Absalom hijo de David una hermana hermosa que se llamaba Thamar, enamoróse de ella Amnón hijo de David. ^2^ Y estaba Amnón angustiado hasta enfermar, por Thamar su hermana: porque por ser ella virgen, parecía á Amnón que sería cosa dificultosa hacerle algo. ^3^ Y Amnón tenía un amigo que se llamaba Jonadab, hijo de Simea, hermano de David: y era Jonadab hombre muy astuto. ^4^ Y éste le dijo: Hijo del rey, ¿por qué de día en día vas así enflaqueciendo? ¿no me lo descubrirás á mí? Y Amnón le respondió: Yo amo á Thamar la hermana de Absalom mi hermano. 
+^1^ Aconteció después de esto, que teniendo Absalom hijo de David una hermana hermosa que se llamaba Thamar, enamoróse de ella Amnón hijo de David. ^^ ^2^ Y estaba Amnón angustiado hasta enfermar, por Thamar su hermana: porque por ser ella virgen, parecía á Amnón que sería cosa dificultosa hacerle algo. ^3^ Y Amnón tenía un amigo que se llamaba Jonadab, hijo de Simea, hermano de David: y era Jonadab hombre muy astuto. ^4^ Y éste le dijo: Hijo del rey, ¿por qué de día en día vas así enflaqueciendo? ¿no me lo descubrirás á mí? Y Amnón le respondió: Yo amo á Thamar la hermana de Absalom mi hermano. 
+^[**13:1** 2Sam 3,2-3]
 
 ^5^ Y Jonadab le dijo: Acuéstate en tu cama, y finge que estás enfermo; y cuando tu padre viniere á visitarte, dile: Ruégote que venga mi hermana Thamar, para que me conforte con alguna comida, y aderece delante de mí alguna vianda, para que viendo yo, la coma de su mano. 
 
 ## Ejecución del infame ataque
 ^6^ Acostóse pues Amnón, y fingió que estaba enfermo, y vino el rey á visitarle: y dijo Amnón al rey: Yo te ruego que venga mi hermana Thamar, y haga delante de mí dos hojuelas, que coma yo de su mano. 
 
-^7^ Y David envió á Thamar á su casa, diciendo: Ve ahora á casa de Amnón tu hermano, y hazle de comer. ^8^ Y fué Thamar á casa de su hermano Amnón, el cual estaba acostado; y tomó harina, y amasó é hizo hojuelas delante de él, y aderezólas. ^9^ Tomó luego la sartén, y sacólas delante de él: mas él no quiso comer. Y dijo Amnón: Echad fuera de aquí á todos. Y todos se salieron de allí. ^10^ Entonces Amnón dijo á Thamar: Trae la comida á la alcoba, para que yo coma de tu mano. Y tomando Thamar las hojuelas que había aderezado, llevólas á su hermano Amnón á la alcoba. ^11^ Y como ella se las puso delante para que comiese, él trabó de ella, diciéndole: Ven, hermana mía acuéstate conmigo. 
+^7^ Y David envió á Thamar á su casa, diciendo: Ve ahora á casa de Amnón tu hermano, y hazle de comer. ^8^ Y fué Thamar á casa de su hermano Amnón, el cual estaba acostado; y tomó harina, y amasó é hizo hojuelas delante de él, y aderezólas. ^9^ Tomó luego la sartén, y sacólas delante de él: mas él no quiso comer. Y dijo Amnón: Echad fuera de aquí á todos. Y todos se salieron de allí. ^10^ Entonces Amnón dijo á Thamar: Trae la comida á la alcoba, para que yo coma de tu mano. Y tomando Thamar las hojuelas que había aderezado, llevólas á su hermano Amnón á la alcoba. ^11^ Y como ella se las puso delante para que comiese, él trabó de ella, diciéndole: Ven, hermana mía acuéstate conmigo. ^^ 
+^[**13:11** Lev 18,9]
 
-^12^ Ella entonces le respondió: No, hermano mío, no me hagas fuerza; porque no se ha de hacer así en Israel. No hagas tal desacierto. ^13^ Porque, ¿dónde iría yo con mi deshonra? Y aun tú serías estimado como uno de los perversos en Israel. Ruégote pues ahora que hables al rey, que no me negará á ti. 
+^12^ Ella entonces le respondió: No, hermano mío, no me hagas fuerza; porque no se ha de hacer así en Israel. No hagas tal desacierto. ^^ ^13^ Porque, ¿dónde iría yo con mi deshonra? Y aun tú serías estimado como uno de los perversos en Israel. Ruégote pues ahora que hables al rey, que no me negará á ti. 
+^[**13:12** Deut 22,21]
 
-^14^ Mas él no la quiso oir; antes pudiendo más que ella la forzó, y echóse con ella.
+^14^ Mas él no la quiso oir; antes pudiendo más que ella la forzó, y echóse con ella. 
 
 ## Otro pecado vergonzoso de Amnón a Thamar
 ^15^ Aborrecióla luego Amnón de tan grande aborrecimiento, que el odio con que la aborreció fué mayor que el amor con que la había amado. Y díjole Amnón: Levántate y vete. 
@@ -302,7 +350,8 @@
 
 ^17^ Antes llamando su criado que le servía dijo: Echame ésta allá fuera, y tras ella cierra la puerta. 
 
-^18^ Y tenía ella sobre sí una ropa de colores, traje que las hijas vírgenes de los reyes vestían. Echóla pues fuera su criado, y cerró la puerta tras ella. ^19^ Entonces Thamar tomó ceniza, y esparcióla sobre su cabeza, y rasgó la ropa de colores de que estaba vestida, y puestas sus manos sobre su cabeza, fuése gritando.
+^18^ Y tenía ella sobre sí una ropa de colores, traje que las hijas vírgenes de los reyes vestían. Echóla pues fuera su criado, y cerró la puerta tras ella. ^19^ Entonces Thamar tomó ceniza, y esparcióla sobre su cabeza, y rasgó la ropa de colores de que estaba vestida, y puestas sus manos sobre su cabeza, fuése gritando. ^^ 
+^[**13:19** Job 2,12]
 
 ## El comportamiento de Absalón y el rey después del ultraje
 ^20^ Y díjole su hermano Absalom: ¿Ha estado contigo tu hermano Amnón? Pues calla ahora, hermana mía: tu hermano es; no pongas tu corazón en este negocio. Y quedóse Thamar desconsolada en casa de Absalom su hermano. 
@@ -326,7 +375,8 @@
 ^31^ Entonces levantándose David, rasgó sus vestidos, y echóse en tierra, y todos sus criados, rasgados sus vestidos, estaban delante. ^32^ Y Jonadab, hijo de Simea hermano de David, habló y dijo: No diga mi señor que han muerto á todos los jóvenes hijos del rey, que sólo Amnón es muerto: porque en boca de Absalom estaba puesto desde el día que Amnón forzó á Thamar su hermana. ^33^ Por tanto, ahora no ponga mi señor el rey en su corazón esa voz que dice: Todos los hijos del rey son muertos: porque sólo Amnón es muerto. ^34^ Absalom huyó luego. Entre tanto, alzando sus ojos el mozo que estaba en atalaya, miró, y he aquí mucho pueblo que venía á sus espaldas por el camino de hacia el monte. ^35^ Y dijo Jonadab al rey: He allí los hijos del rey que vienen: es así como tu siervo ha dicho. ^36^ Y como él acabó de hablar, he aquí los hijos del rey que vinieron, y alzando su voz lloraron. Y también el mismo rey y todos sus siervos lloraron con muy grandes lamentos. 
 
 ## La fuga de Absalón a Gesur a su abuelo
-^37^ Mas Absalom huyó, y fuése á Talmai hijo de Amiud, rey de Gessur. Y David lloraba por su hijo todos los días. ^38^ Y después que Absalom huyó y se fué á Gessur, estuvo allá tres años. 
+^37^ Mas Absalom huyó, y fuése á Talmai hijo de Amiud, rey de Gessur. Y David lloraba por su hijo todos los días. ^^ ^38^ Y después que Absalom huyó y se fué á Gessur, estuvo allá tres años. 
+^[**13:37** 2Sam 3,3; 2Sam 14,23]
 
 ## La intervención de Joab; la conversación de la sabia esposa de Thecoa con David
 ^39^ Y el rey David deseó ver á Absalom: porque ya estaba consolado acerca de Amnón que era muerto. 
@@ -347,12 +397,14 @@
 
 ^10^ Y el rey dijo: Al que hablare contra ti, tráelo á mí, que no te tocará más. 
 
-^11^ Dijo ella entonces: Ruégote, oh rey, que te acuerdes de Jehová tu Dios, que no dejes á los cercanos de la sangre aumentar el daño con destruir á mi hijo. Y él respondió: Vive Jehová, que no caerá ni un cabello de la cabeza de tu hijo en tierra. 
+^11^ Dijo ella entonces: Ruégote, oh rey, que te acuerdes de Jehová tu Dios, que no dejes á los cercanos de la sangre aumentar el daño con destruir á mi hijo. Y él respondió: Vive Jehová, que no caerá ni un cabello de la cabeza de tu hijo en tierra. ^^ 
+^[**14:11** 1Sam 14,45; 1Re 1,52]
 
 ## Nuevo discurso de mujer sabia
 ^12^ Y la mujer dijo: Ruégote que hable tu criada una palabra á mi señor el rey. Y él dijo: Habla. 
 
-^13^ Entonces la mujer dijo: ¿Por qué pues piensas tú otro tanto contra el pueblo de Dios? que hablando el rey esta palabra, es como culpado, por cuanto el rey no hace volver á su fugitivo. ^14^ Porque de cierto morimos, y somos como aguas derramadas por tierra, que no pueden volver á recogerse: ni Dios quita la vida, sino que arbitra medio para que su desviado no sea de él excluído. ^15^ Y que yo he venido ahora para decir esto al rey mi señor, es porque el pueblo me ha puesto miedo. Mas tu sierva dijo: Hablaré ahora al rey: quizá él hará lo que su sierva diga. ^16^ Pues el rey oirá, para librar á su sierva de mano del hombre que me quiere raer á mí, y á mi hijo juntamente, de la heredad de Dios. ^17^ Tu sierva pues dice: Que sea ahora la respuesta de mi señor el rey para descanso; pues que mi señor el rey es como un ángel de Dios para escuchar lo bueno y lo malo. Así Jehová tu Dios sea contigo. 
+^13^ Entonces la mujer dijo: ¿Por qué pues piensas tú otro tanto contra el pueblo de Dios? que hablando el rey esta palabra, es como culpado, por cuanto el rey no hace volver á su fugitivo. ^14^ Porque de cierto morimos, y somos como aguas derramadas por tierra, que no pueden volver á recogerse: ni Dios quita la vida, sino que arbitra medio para que su desviado no sea de él excluído. ^15^ Y que yo he venido ahora para decir esto al rey mi señor, es porque el pueblo me ha puesto miedo. Mas tu sierva dijo: Hablaré ahora al rey: quizá él hará lo que su sierva diga. ^16^ Pues el rey oirá, para librar á su sierva de mano del hombre que me quiere raer á mí, y á mi hijo juntamente, de la heredad de Dios. ^17^ Tu sierva pues dice: Que sea ahora la respuesta de mi señor el rey para descanso; pues que mi señor el rey es como un ángel de Dios para escuchar lo bueno y lo malo. Así Jehová tu Dios sea contigo. ^^ 
+^[**14:17** 2Sam 19,28]
 
 ## El rey ve a través del astuto plan
 ^18^ Entonces él respondió, y dijo á la mujer: Yo te ruego que no me encubras nada de lo que yo te preguntare. Y la mujer dijo: Hable mi señor el rey. 
@@ -366,7 +418,8 @@
 
 ^22^ Y Joab se postró en tierra sobre su rostro, é hizo reverencia, y después que bendijo al rey, dijo: Hoy ha entendido tu siervo que he hallado gracia en tus ojos, rey señor mío; pues que ha hecho el rey lo que su siervo ha dicho. 
 
-^23^ Levantóse luego Joab, y fué á Gessur, y volvió á Absalom á Jerusalem. ^24^ Mas el rey dijo: Váyase á su casa, y no vea mi rostro. Y volvióse Absalom á su casa, y no vió el rostro del rey.
+^23^ Levantóse luego Joab, y fué á Gessur, y volvió á Absalom á Jerusalem. ^^ ^24^ Mas el rey dijo: Váyase á su casa, y no vea mi rostro. Y volvióse Absalom á su casa, y no vió el rostro del rey. 
+^[**14:23** 2Sam 13,37]
 
 ## La belleza de Absalón; sus hijos
 ^25^ Y no había en todo Israel hombre tan hermoso como Absalom, de alabar en gran manera: desde la planta de su pie hasta la mollera no había en él defecto. ^26^ Y cuando se cortaba el cabello, (lo cual hacía al fin de cada año, pues le causaba molestia, y por eso se lo cortaba), pesaba el cabello de su cabeza doscientos siclos de peso real. ^27^ Y Naciéronle á Absalom tres hijos, y una hija que se llamó Thamar, la cual era hermosa de ver. 
@@ -382,7 +435,8 @@
 
 # 15 
 ## Actividades ambiciosas y favorables de Absalom
-^1^ Aconteció después de esto, que Absalom se hizo de carros y caballos, y cincuenta hombres que corriesen delante de él. ^2^ Y levantábase Absalom de mañana, y poníase á un lado del camino de la puerta; y á cualquiera que tenía pleito y venía al rey á juicio, Absalom le llamaba á sí, y decíale: ¿De qué ciudad eres? Y él respondía: Tu siervo es de una de las tribus de Israel. 
+^1^ Aconteció después de esto, que Absalom se hizo de carros y caballos, y cincuenta hombres que corriesen delante de él. ^^ ^2^ Y levantábase Absalom de mañana, y poníase á un lado del camino de la puerta; y á cualquiera que tenía pleito y venía al rey á juicio, Absalom le llamaba á sí, y decíale: ¿De qué ciudad eres? Y él respondía: Tu siervo es de una de las tribus de Israel. 
+^[**15:1** 1Re 1,5]
 
 ^3^ Entonces Absalom le decía: Mira, tus palabras son buenas y justas: mas no tienes quien te oiga por el rey. ^4^ Y decía Absalom: ¡Quién me pusiera por juez en la tierra, para que viniesen á mí todos los que tienen pleito ó negocio, que yo les haría justicia! ^5^ Y acontecía que, cuando alguno se llegaba para inclinarse á él, él extendía la mano, y lo tomaba, y lo besaba. ^6^ Y de esta manera hacía con todo Israel que venía al rey á juicio: y así robaba Absalom el corazón de los de Israel. 
 
@@ -393,7 +447,8 @@
 
 ^10^ Empero envió Absalom espías por todas las tribus de Israel, diciendo: Cuando oyereis el sonido de la trompeta, diréis: Absalom reina en Hebrón. 
 
-^11^ Y fueron con Absalom doscientos hombres de Jerusalem por él convidados, los cuales iban en su sencillez, sin saber nada. ^12^ También envió Absalom por Achitophel Gilonita, del consejo de David, á Gilo su ciudad, mientras hacía sus sacrificios. Y la conjuración vino á ser grande, pues se iba aumentando el pueblo con Absalom.
+^11^ Y fueron con Absalom doscientos hombres de Jerusalem por él convidados, los cuales iban en su sencillez, sin saber nada. ^12^ También envió Absalom por Achitophel Gilonita, del consejo de David, á Gilo su ciudad, mientras hacía sus sacrificios. Y la conjuración vino á ser grande, pues se iba aumentando el pueblo con Absalom. ^^ 
+^[**15:12** 2Sam 23,34]
 
 ## David huye apresuradamente de Jerusalén después de dejar atrás algunas concubinas
 ^13^ Y vino el aviso á David, diciendo: El corazón de todo Israel va tras Absalom. 
@@ -402,41 +457,48 @@
 
 ^15^ Y los siervos del rey dijeron al rey: He aquí, tus siervos están prestos á todo lo que nuestro señor el rey eligiere. 
 
-^16^ El rey entonces salió, con toda su familia en pos de él. Y dejó el rey diez mujeres concubinas para que guardasen la casa.
+^16^ El rey entonces salió, con toda su familia en pos de él. Y dejó el rey diez mujeres concubinas para que guardasen la casa. 
 
 ## La gente de guerra marchando frente al rey; la lealtad de Itthai
 ^17^ Salió pues el rey con todo el pueblo que le seguía, y paráronse en un lugar distante. ^18^ Y todos sus siervos pasaban á su lado, con todos los Ceretheos y Peletheos; y todos los Getheos, seiscientos hombres que habían venido á pie desde Gath, iban delante del rey. 
 
-^19^ Y dijo el rey á Ittai Getheo: ¿Para qué vienes tú también con nosotros? vuélvete y quédate con el rey; porque tú eres extranjero, y desterrado también de tu lugar. ^20^ ¿Ayer viniste, y téngote de hacer hoy que mudes lugar para ir con nosotros? Yo voy como voy: tú vuélvete, y haz volver á tus hermanos; en ti haya misericordia y verdad. 
+^19^ Y dijo el rey á Ittai Getheo: ¿Para qué vienes tú también con nosotros? vuélvete y quédate con el rey; porque tú eres extranjero, y desterrado también de tu lugar. ^^ ^20^ ¿Ayer viniste, y téngote de hacer hoy que mudes lugar para ir con nosotros? Yo voy como voy: tú vuélvete, y haz volver á tus hermanos; en ti haya misericordia y verdad. 
+^[**15:19** 2Sam 18,2]
 
 ^21^ Y respondió Ittai al rey, diciendo: Vive Dios, y vive mi señor el rey, que, ó para muerte ó para vida, donde mi señor el rey estuviere, allí estará también tu siervo. 
 
-^22^ Entonces David dijo á Ittai: Ven pues, y pasa. Y pasó Ittai Getheo, y todos sus hombres, y toda su familia. ^23^ Y todo el país lloró en alta voz; pasó luego toda la gente el torrente de Cedrón; asimismo pasó el rey, y todo el pueblo pasó, al camino que va al desierto.
+^22^ Entonces David dijo á Ittai: Ven pues, y pasa. Y pasó Ittai Getheo, y todos sus hombres, y toda su familia. ^23^ Y todo el país lloró en alta voz; pasó luego toda la gente el torrente de Cedrón; asimismo pasó el rey, y todo el pueblo pasó, al camino que va al desierto. 
 
 ## La comisión de David a Sadoc y Abiatar
-^24^ Y he aquí, también iba Sadoc, y con él todos los Levitas que llevaban el arca del pacto de Dios; y asentaron el arca del pacto de Dios. Y subió Abiathar después que hubo acabado de salir de la ciudad todo el pueblo. ^25^ Pero dijo el rey á Sadoc: Vuelve el arca de Dios á la ciudad; que si yo hallare gracia en los ojos de Jehová, él me volverá, y me hará ver á ella y á su tabernáculo: ^26^ Y si dijere: No me agradas: aquí estoy, haga de mí lo que bien le pareciere. ^27^ Dijo aún el rey á Sadoc sacerdote: ¿No eres tú el vidente? Vuélvete en paz á la ciudad; y con vosotros vuestros dos hijos, tu hijo Ahimaas, y Jonathán hijo de Abiathar. ^28^ Mirad, yo me detendré en los campos del desierto, hasta que venga respuesta de vosotros que me dé aviso. ^29^ Entonces Sadoc y Abiathar volvieron el arca de Dios á Jerusalem; y estuviéronse allá.
+^24^ Y he aquí, también iba Sadoc, y con él todos los Levitas que llevaban el arca del pacto de Dios; y asentaron el arca del pacto de Dios. Y subió Abiathar después que hubo acabado de salir de la ciudad todo el pueblo. ^25^ Pero dijo el rey á Sadoc: Vuelve el arca de Dios á la ciudad; que si yo hallare gracia en los ojos de Jehová, él me volverá, y me hará ver á ella y á su tabernáculo: ^26^ Y si dijere: No me agradas: aquí estoy, haga de mí lo que bien le pareciere. ^^ ^27^ Dijo aún el rey á Sadoc sacerdote: ¿No eres tú el vidente? Vuélvete en paz á la ciudad; y con vosotros vuestros dos hijos, tu hijo Ahimaas, y Jonathán hijo de Abiathar. ^^ ^28^ Mirad, yo me detendré en los campos del desierto, hasta que venga respuesta de vosotros que me dé aviso. ^29^ Entonces Sadoc y Abiathar volvieron el arca de Dios á Jerusalem; y estuviéronse allá. 
+^[**15:26** 2Sam 10,12; 1Sam 3,18] ^[**15:27** 1Re 1,42]
 
 ## Marcha de David en el monte de los Olivos; su orden a Husai
 ^30^ Y David subió la cuesta de las olivas; y subióla llorando, llevando la cabeza cubierta, y los pies descalzos. También todo el pueblo que tenía consigo cubrió cada uno su cabeza, y subieron llorando así como subían. 
 
 ^31^ Y dieron aviso á David, diciendo: Achitophel está entre los que conspiraron con Absalom. Entonces dijo David: Entontece ahora, oh Jehová, el consejo de Achitophel. 
 
-^32^ Y como David llegó á la cumbre del monte para adorar allí á Dios, he aquí Husai Arachîta que le salió al encuentro, trayendo rota su ropa, y tierra sobre su cabeza. ^33^ Y díjole David: Si pasares conmigo, serme has de carga; ^34^ Mas si volvieres á la ciudad, y dijeres á Absalom: Rey, yo seré tu siervo; como hasta aquí he sido siervo de tu padre, así seré ahora siervo tuyo, entonces tú me disiparás el consejo de Achitophel. ^35^ ¿No estarán allí contigo Sadoc y Abiathar sacerdotes? Por tanto, todo lo que oyeres en la casa del rey, darás aviso de ello á Sadoc y á Abiathar sacerdotes. ^36^ Y he aquí que están con ellos sus dos hijos, Ahimaas el de Sadoc, y Jonathán el de Abiathar: por mano de ellos me enviaréis aviso de todo lo que oyereis. 
+^32^ Y como David llegó á la cumbre del monte para adorar allí á Dios, he aquí Husai Arachîta que le salió al encuentro, trayendo rota su ropa, y tierra sobre su cabeza. ^33^ Y díjole David: Si pasares conmigo, serme has de carga; ^34^ Mas si volvieres á la ciudad, y dijeres á Absalom: Rey, yo seré tu siervo; como hasta aquí he sido siervo de tu padre, así seré ahora siervo tuyo, entonces tú me disiparás el consejo de Achitophel. ^^ ^35^ ¿No estarán allí contigo Sadoc y Abiathar sacerdotes? Por tanto, todo lo que oyeres en la casa del rey, darás aviso de ello á Sadoc y á Abiathar sacerdotes. ^36^ Y he aquí que están con ellos sus dos hijos, Ahimaas el de Sadoc, y Jonathán el de Abiathar: por mano de ellos me enviaréis aviso de todo lo que oyereis. 
+^[**15:34** 2Sam 17,7]
 
-^37^ Así se vino Husai amigo de David á la ciudad; y Absalom entró en Jerusalem. 
+^37^ Así se vino Husai amigo de David á la ciudad; y Absalom entró en Jerusalem. ^^ 
+^[**15:37** 1Cró 27,33] 
 
 # 16 
 ## Siba, el siervo de Mefiboseth, da presentes al rey; su informe de mentiras sobre Mefiboset
-^1^ Y como David pasó un poco de la cumbre del monte, he aquí Siba, el criado de Mephi-boseth, que lo salía á recibir con un par de asnos enalbardados, y sobre ellos doscientos panes, y cien hilos de pasas, y cien panes de higos secos, y un cuero de vino. ^2^ Y dijo el rey á Siba: ¿Qué es esto? Y Siba respondió: Los asnos son para la familia del rey, en que suban; los panes y la pasa para los criados, que coman; y el vino, para que beban los que se cansaren en el desierto. 
+^1^ Y como David pasó un poco de la cumbre del monte, he aquí Siba, el criado de Mephi-boseth, que lo salía á recibir con un par de asnos enalbardados, y sobre ellos doscientos panes, y cien hilos de pasas, y cien panes de higos secos, y un cuero de vino. ^^ ^2^ Y dijo el rey á Siba: ¿Qué es esto? Y Siba respondió: Los asnos son para la familia del rey, en que suban; los panes y la pasa para los criados, que coman; y el vino, para que beban los que se cansaren en el desierto. 
+^[**16:1** 2Sam 9,2]
 
-^3^ Y dijo el rey: ¿Dónde está el hijo de tu señor? Y Siba respondió al rey: He aquí él se ha quedado en Jerusalem, porque ha dicho: Hoy me devolverá la casa de Israel el reino de mi padre. 
+^3^ Y dijo el rey: ¿Dónde está el hijo de tu señor? Y Siba respondió al rey: He aquí él se ha quedado en Jerusalem, porque ha dicho: Hoy me devolverá la casa de Israel el reino de mi padre. ^^ 
+^[**16:3** 2Sam 19,27]
 
 ^4^ Entonces el rey dijo á Siba: He aquí, sea tuyo todo lo que tiene Mephi-boseth. Y respondió Siba inclinándose: Rey señor mío, halle yo gracia delante de ti. 
 
 ## Comportamiento indigno de Simei hacia el rey
 ^5^ Y vino el rey David hasta Bahurim: y he aquí, salía uno de la familia de la casa de Saúl, el cual se llamaba Semei, hijo de Gera; y salía maldiciendo, ^6^ Y echando piedras contra David, y contra todos los siervos del rey David: y todo el pueblo, y todos los hombres valientes estaban á su diestra y á su siniestra. ^7^ Y decía Semei, maldiciéndole: Sal, sal, varón de sangres, y hombre de Belial: ^8^ Jehová te ha dado el pago de toda la sangre de la casa de Saúl, en lugar del cual tú has reinado: mas Jehová ha entregado el reino en mano de tu hijo Absalom; y hete aquí sorprendido en tu maldad, porque eres varón de sangres. 
 
-^9^ Entonces Abisai hijo de Sarvia dijo al rey: ¿Por qué maldice este perro muerto á mi señor el rey? Yo te ruego que me dejes pasar, y quitaréle la cabeza. ^10^ Y el rey respondió: ¿Qué tengo yo con vosotros, hijos de Sarvia? El maldice así, porque Jehová le ha dicho que maldiga á David: ¿quién pues le dirá: Por qué lo haces así? 
+^9^ Entonces Abisai hijo de Sarvia dijo al rey: ¿Por qué maldice este perro muerto á mi señor el rey? Yo te ruego que me dejes pasar, y quitaréle la cabeza. ^^ ^10^ Y el rey respondió: ¿Qué tengo yo con vosotros, hijos de Sarvia? El maldice así, porque Jehová le ha dicho que maldiga á David: ¿quién pues le dirá: Por qué lo haces así? 
+^[**16:9** 1Sam 26,8]
 
 ^11^ Y dijo David á Abisai y á todos sus siervos: He aquí, mi hijo que ha salido de mis entrañas, acecha á mi vida: ¿cuánto más ahora un hijo de Benjamín? Dejadle que maldiga, que Jehová se lo ha dicho. ^12^ Quizá mirará Jehová á mi aflicción, y me dará Jehová bien por sus maldiciones de hoy. ^13^ Y como David y los suyos iban por el camino, Semei iba por el lado del monte delante de él, andando y maldiciendo, y arrojando piedras delante de él, y esparciendo polvo. ^14^ Y el rey y todo el pueblo que con él estaba, llegaron fatigados, y descansaron allí. 
 
@@ -450,15 +512,18 @@
 ## Se siguió el primer consejo de Ahitofel de Absalón
 ^20^ Entonces dijo Absalom á Achitophel: Consultad qué haremos. 
 
-^21^ Y Achitophel dijo á Absalom: Entra á las concubinas de tu padre, que él dejó para guardar la casa; y todo el pueblo de Israel oirá que te has hecho aborrecible á tu padre, y así se esforzarán las manos de todos los que están contigo. 
+^21^ Y Achitophel dijo á Absalom: Entra á las concubinas de tu padre, que él dejó para guardar la casa; y todo el pueblo de Israel oirá que te has hecho aborrecible á tu padre, y así se esforzarán las manos de todos los que están contigo. ^^ 
+^[**16:21** 2Sam 15,16]
 
-^22^ Entonces pusieron una tienda á Absalom sobre el terrado, y entró Absalom á las concubinas de su padre, en ojos de todo Israel. 
+^22^ Entonces pusieron una tienda á Absalom sobre el terrado, y entró Absalom á las concubinas de su padre, en ojos de todo Israel. ^^ 
+^[**16:22** 2Sam 12,11; Lev 18,8]
 
 ^23^ Y el consejo que daba Achitophel en aquellos días, era como si consultaran la palabra de Dios. Tal era el consejo de Achitophel, así con David como con Absalom. 
 
 # 17 
 ## El segundo excelente consejo de Ahitofel fue rechazado por Husai y rechazado por Absalón
-^1^ Entonces Achitophel dijo á Absalom: Yo escogeré ahora doce mil hombres, y me levantaré, y seguiré á David esta noche; ^2^ Y daré sobre él cuando él estará cansado y flaco de manos: lo atemorizaré, y todo el pueblo que está con él huirá, y heriré al rey solo. ^3^ Así tornaré á todo el pueblo á ti: y cuando ellos hubieren vuelto, (pues aquel hombre es el que tú quieres) todo el pueblo estará en paz. 
+^1^ Entonces Achitophel dijo á Absalom: Yo escogeré ahora doce mil hombres, y me levantaré, y seguiré á David esta noche; ^^ ^2^ Y daré sobre él cuando él estará cansado y flaco de manos: lo atemorizaré, y todo el pueblo que está con él huirá, y heriré al rey solo. ^3^ Así tornaré á todo el pueblo á ti: y cuando ellos hubieren vuelto, (pues aquel hombre es el que tú quieres) todo el pueblo estará en paz. 
+^[**17:1** Sal 71,11]
 
 ^4^ Esta razón pareció bien á Absalom y á todos los ancianos de Israel. ^5^ Y dijo Absalom: Llama también ahora á Husai Arachîta, para que asimismo oigamos lo que él dirá. 
 
@@ -466,7 +531,8 @@
 
 ^7^ Entonces Husai dijo á Absalom: El consejo que ha dado esta vez Achitophel no es bueno. ^8^ Y añadió Husai: Tú sabes que tu padre y los suyos son hombres valientes, y que están con amargura de ánimo, como la osa en el campo cuando le han quitado los hijos. Además, tu padre es hombre de guerra, y no tendrá la noche con el pueblo. ^9^ He aquí él estará ahora escondido en alguna cueva, ó en otro lugar: y si al principio cayeren algunos de los tuyos, oirálo quien lo oyere, y dirá: El pueblo que sigue á Absalom ha sido derrotado. ^10^ Así aun el hombre valiente, cuyo corazón sea como corazón de león, sin duda desmayará: porque todo Israel sabe que tu padre es hombre valiente, y que los que están con él son esforzados. ^11^ Aconsejo pues que todo Israel se junte á ti, desde Dan hasta Beer-seba, en multitud como la arena que está á la orilla de la mar, y que tú en persona vayas á la batalla. ^12^ Entonces le acometeremos en cualquier lugar que pudiere hallarse, y daremos sobre él como cuando el rocío cae sobre la tierra, y ni uno dejaremos de él, y de todos los que con él están. ^13^ Y si se recogiere en alguna ciudad, todos los de Israel traerán sogas á aquella ciudad, y la arrastraremos hasta el arroyo, que nunca más parezca piedra de ella. 
 
-^14^ Entonces Absalom y todos los de Israel dijeron: El consejo de Husai Arachîta es mejor que el consejo de Achitophel. Porque había Jehová ordenado que el acertado consejo de Achitophel se frustrara, para que Jehová hiciese venir el mal sobre Absalom. 
+^14^ Entonces Absalom y todos los de Israel dijeron: El consejo de Husai Arachîta es mejor que el consejo de Achitophel. Porque había Jehová ordenado que el acertado consejo de Achitophel se frustrara, para que Jehová hiciese venir el mal sobre Absalom. ^^ 
+^[**17:14** 2Sam 15,31; 2Sam 15,34]
 
 ## Husai y los sacerdotes envían mensajes en secreto al rey; David pone sobre el Jordán
 ^15^ Dijo luego Husai á Sadoc y á Abiathar sacerdotes: Así y así aconsejó Achitophel á Absalom y á los ancianos de Israel: y de esta manera aconsejé yo. ^16^ Por tanto enviad inmediatamente, y dad aviso á David, diciendo: No quedes esta noche en los campos del desierto, sino pasa luego el Jordán, porque el rey no sea consumido, y todo el pueblo que con él está. 
@@ -478,16 +544,21 @@
 ^22^ Entonces David se levantó, y todo el pueblo que con él estaba, y pasaron el Jordán antes que amaneciese; ni siquiera faltó uno que no pasase el Jordán. 
 
 ## El suicidio de Ahitofel
-^23^ Y Achitophel, viendo que no se había puesto por obra su consejo, enalbardó su asno, y levantóse, y fuése á su casa en su ciudad; y después de disponer acerca de su casa, ahorcóse y murió, y fué sepultado en el sepulcro de su padre. 
+^23^ Y Achitophel, viendo que no se había puesto por obra su consejo, enalbardó su asno, y levantóse, y fuése á su casa en su ciudad; y después de disponer acerca de su casa, ahorcóse y murió, y fué sepultado en el sepulcro de su padre. ^^ 
+^[**17:23** Mat 27,5]
 
 ## Absalón comienza la persecución de David y le da a Amasa el mando supremo; David en Mahanaim
 ^24^ Y David llegó á Mahanaim, y Absalom pasó el Jordán con toda la gente de Israel. ^25^ Y Absalom constituyó á Amasa sobre el ejército en lugar de Joab, el cual Amasa fué hijo de un varón de Israel llamado Itra, el cual había entrado á Abigail hija de Naas, hermana de Sarvia, madre de Joab. ^26^ Y asentó campo Israel con Absalom en tierra de Galaad. 
 
-^27^ Y luego que David llegó á Mahanaim, Sobi hijo de Naas de Rabba de los hijos de Ammon, y Machîr hijo de Ammiel de Lodebar, y Barzillai Galaadita de Rogelim, ^28^ Trajeron á David y al pueblo que estaba con él, camas, y tazas, y vasijas de barro, y trigo, y cebada, y harina, y grano tostado, habas, lentejas, y garbanzos tostados, ^29^ Miel, manteca, ovejas, y quesos de vacas, para que comiesen; porque dijeron: Aquel pueblo está hambriento, y cansado, y tendrá sed en el desierto. 
+^27^ Y luego que David llegó á Mahanaim, Sobi hijo de Naas de Rabba de los hijos de Ammon, y Machîr hijo de Ammiel de Lodebar, y Barzillai Galaadita de Rogelim, ^^ 
+^[**17:27** 2Sam 9,4; 1Re 2,7]
+
+^28^ Trajeron á David y al pueblo que estaba con él, camas, y tazas, y vasijas de barro, y trigo, y cebada, y harina, y grano tostado, habas, lentejas, y garbanzos tostados, ^29^ Miel, manteca, ovejas, y quesos de vacas, para que comiesen; porque dijeron: Aquel pueblo está hambriento, y cansado, y tendrá sed en el desierto. 
 
 # 18 
 ## Las órdenes militares de David; Salida de su ejército
-^1^ David pues revistó el pueblo que tenía consigo, y puso sobre ellos tribunos y centuriones. ^2^ Y consignó la tercera parte del pueblo al mando de Joab, y otra tercera al mando de Abisai, hijo de Sarvia, hermano de Joab, y la otra tercera parte al mando de Ittai Getheo. Y dijo el rey al pueblo: Yo también saldré con vosotros. 
+^1^ David pues revistó el pueblo que tenía consigo, y puso sobre ellos tribunos y centuriones. ^2^ Y consignó la tercera parte del pueblo al mando de Joab, y otra tercera al mando de Abisai, hijo de Sarvia, hermano de Joab, y la otra tercera parte al mando de Ittai Getheo. Y dijo el rey al pueblo: Yo también saldré con vosotros. ^^ 
+^[**18:2** 2Sam 15,19]
 
 ^3^ Mas el pueblo dijo: No saldrás; porque si nosotros huyéremos, no harán caso de nosotros; y aunque la mitad de nosotros muera, no harán caso de nosotros: mas tú ahora vales tanto como diez mil de nosotros. Será pues mejor que tú nos des ayuda desde la ciudad. 
 
@@ -502,7 +573,8 @@
 
 ^11^ Y Joab respondió al hombre que le daba la nueva: Y viéndolo tú, ¿por qué no le heriste luego allí echándole á tierra? y sobre mí, que te hubiera dado diez siclos de plata, y un talabarte. 
 
-^12^ Y el hombre dijo á Joab: Aunque me importara en mis manos mil siclos de plata, no extendiera yo mi mano contra el hijo del rey; porque nosotros lo oímos cuando el rey te mandó á ti y á Abisai y á Ittai, diciendo: Mirad que ninguno toque en el joven Absalom. ^13^ Por otra parte, habría yo hecho traición contra mi vida (pues que al rey nada se le esconde), y tú mismo estarías en contra. 
+^12^ Y el hombre dijo á Joab: Aunque me importara en mis manos mil siclos de plata, no extendiera yo mi mano contra el hijo del rey; porque nosotros lo oímos cuando el rey te mandó á ti y á Abisai y á Ittai, diciendo: Mirad que ninguno toque en el joven Absalom. ^^ ^13^ Por otra parte, habría yo hecho traición contra mi vida (pues que al rey nada se le esconde), y tú mismo estarías en contra. 
+^[**18:12** 2Sam 18,5]
 
 ^14^ Y respondió Joab: No es razón que yo te ruegue. Y tomando tres dardos en sus manos, hincólos en el corazón de Absalom, que aun estaba vivo en medio del alcornoque. ^15^ Cercándolo luego diez mancebos escuderos de Joab, hirieron á Absalom, y acabáronle. ^16^ Entonces Joab tocó la corneta, y el pueblo se volvió de seguir á Israel, porque Joab detuvo al pueblo. ^17^ Tomando después á Absalom, echáronle en un gran hoyo en el bosque, y levantaron sobre él un muy grande montón de piedras; y todo Israel huyó, cada uno á sus estancias. 
 
@@ -548,39 +620,46 @@
 
 ^5^ Y entrando Joab en casa al rey, díjole: Hoy has avergonzado el rostro de todos tus siervos, que han hoy librado tu vida, y la vida de tus hijos y de tus hijas, y la vida de tus mujeres, y la vida de tus concubinas, ^6^ Amando á los que te aborrecen, y aborreciendo á los que te aman: porque hoy has declarado que nada te importan tus príncipes y siervos; pues hoy echo de ver que si Absalom viviera, bien que nosotros todos estuviéramos hoy muertos, entonces te contentaras. ^7^ Levántate pues ahora, y sal fuera, y halaga á tus siervos: porque juro por Jehová, que si no sales, ni aun uno quede contigo esta noche; y de esto te pesará más que de todos los males que te han sobrevenido desde tu mocedad hasta ahora. 
 
-^8^ Entonces se levantó el rey, y sentóse á la puerta; y fué declarado á todo el pueblo, diciendo: He aquí el rey está sentado á la puerta. Y vino todo el pueblo delante del rey; mas Israel había huído, cada uno á sus estancias.
+^8^ Entonces se levantó el rey, y sentóse á la puerta; y fué declarado á todo el pueblo, diciendo: He aquí el rey está sentado á la puerta. Y vino todo el pueblo delante del rey; mas Israel había huído, cada uno á sus estancias. 
 
 ## Sobre de sentimiento popular por David; Las negociaciones de David con los ancianos de Judá y con Amasa
 ^9^ Y todo el pueblo porfiaba en todas las tribus de Israel, diciendo: El rey nos ha librado de mano de nuestros enemigos, y él nos ha salvado de mano de los Filisteos; y ahora había huído de la tierra por miedo de Absalom. ^10^ Y Absalom, á quien habíamos ungido sobre nosotros, es muerto en la batalla. ¿Por qué pues os estáis ahora quedos en orden á hacer volver al rey? 
 
-^11^ Y el rey David envió á Sadoc y á Abiathar sacerdotes, diciendo: Hablad á los ancianos de Judá y decidles: ¿Por qué seréis vosotros los postreros en volver el rey á su casa, ya que la palabra de todo Israel ha venido al rey de volverle á su casa? ^12^ Vosotros sois mis hermanos; mis huesos y mi carne sois: ¿por qué pues seréis vosotros los postreros en volver al rey? ^13^ Asimismo diréis á Amasa: ¿No eres tú también hueso mío y carne mía? Así me haga Dios, y así me añada, si no fueres general del ejército delante de mí para siempre, en lugar de Joab. ^14^ Así inclinó el corazón de todos los varones de Judá, como el de un solo hombre, para que enviasen á decir al rey: Vuelve tú, y todos tus siervos. 
+^11^ Y el rey David envió á Sadoc y á Abiathar sacerdotes, diciendo: Hablad á los ancianos de Judá y decidles: ¿Por qué seréis vosotros los postreros en volver el rey á su casa, ya que la palabra de todo Israel ha venido al rey de volverle á su casa? ^12^ Vosotros sois mis hermanos; mis huesos y mi carne sois: ¿por qué pues seréis vosotros los postreros en volver al rey? ^13^ Asimismo diréis á Amasa: ¿No eres tú también hueso mío y carne mía? Así me haga Dios, y así me añada, si no fueres general del ejército delante de mí para siempre, en lugar de Joab. ^14^ Así inclinó el corazón de todos los varones de Judá, como el de un solo hombre, para que enviasen á decir al rey: Vuelve tú, y todos tus siervos. ^^ 
+^[**19:14** 2Sam 17,25; 1Cró 2,16-17]
 
-^15^ Volvió pues el rey, y vino hasta el Jordán. Y Judá vino á Gilgal, á recibir al rey y pasarlo el Jordán.
+^15^ Volvió pues el rey, y vino hasta el Jordán. Y Judá vino á Gilgal, á recibir al rey y pasarlo el Jordán. 
 
 ## David regresa y es alcanzado por los judíos; su dulzura hacia Simei
-^16^ Y Semei hijo de Gera, hijo de Benjamín, que era de Bahurim, dióse priesa á venir con los hombres de Judá á recibir al rey David; ^17^ Y con él venían mil hombres de Benjamín; asimismo Siba criado de la casa de Saúl, con sus quince hijos y sus veinte siervos, los cuales pasaron el Jordán delante del rey. ^18^ Atravesó después la barca para pasar la familia del rey, y para hacer lo que le pluguiera. Entonces Semei hijo de Gera se postró delante del rey cuando él había pasado el Jordán. 
+^16^ Y Semei hijo de Gera, hijo de Benjamín, que era de Bahurim, dióse priesa á venir con los hombres de Judá á recibir al rey David; ^17^ Y con él venían mil hombres de Benjamín; asimismo Siba criado de la casa de Saúl, con sus quince hijos y sus veinte siervos, los cuales pasaron el Jordán delante del rey. ^18^ Atravesó después la barca para pasar la familia del rey, y para hacer lo que le pluguiera. Entonces Semei hijo de Gera se postró delante del rey cuando él había pasado el Jordán. ^^ 
+^[**19:18** 2Sam 16,1-4; 2Sam 9,2; 2Sam 9,10]
 
 ^19^ Y dijo al rey: No me impute mi señor iniquidad, ni tengas memoria de los males que tu siervo hizo el día que mi señor el rey salió de Jerusalem, para guardarlos el rey en su corazón; ^20^ Porque yo tu siervo conozco haber pecado, y he venido hoy el primero de toda la casa de José, para descender á recibir á mi señor el rey. 
 
 ^21^ Y Abisai hijo de Sarvia respondió y dijo: ¿No ha de morir por esto Semei, que maldijo al ungido de Jehová? 
 
-^22^ David entonces dijo: ¿Qué tenéis vosotros conmigo, hijos de Sarvia, que me habéis de ser hoy adversarios? ¿ha de morir hoy alguno en Israel? ¿no conozco yo que hoy soy rey sobre Israel? ^23^ Y dijo el rey á Semei: No morirás. Y el rey se lo juró. 
+^22^ David entonces dijo: ¿Qué tenéis vosotros conmigo, hijos de Sarvia, que me habéis de ser hoy adversarios? ¿ha de morir hoy alguno en Israel? ¿no conozco yo que hoy soy rey sobre Israel? ^23^ Y dijo el rey á Semei: No morirás. Y el rey se lo juró. ^^ 
+^[**19:23** 2Sam 16,10]
 
-^24^ También Mephi-boseth hijo de Saúl descendió á recibir al rey: no había lavado sus pies, ni había cortado su barba, ni tampoco había lavado sus vestidos, desde el día que el rey salió hasta el día que vino en paz.
+^24^ También Mephi-boseth hijo de Saúl descendió á recibir al rey: no había lavado sus pies, ni había cortado su barba, ni tampoco había lavado sus vestidos, desde el día que el rey salió hasta el día que vino en paz. 
 
 ## Mefiboset se justifica a sí mismo contra David
 ^25^ Y luego que vino él á Jerusalem á recibir al rey, el rey le dijo: Mephi-boseth, ¿por qué no fuiste conmigo? 
 
-^26^ Y él dijo: Rey señor mío, mi siervo me ha engañado; pues había tu siervo dicho: Enalbardaré un asno, y subiré en él, é iré al rey; porque tu siervo es cojo. ^27^ Empero él revolvió á tu siervo delante de mi señor el rey; mas mi señor el rey es como un ángel de Dios: haz pues lo que bien te pareciere. ^28^ Porque toda la casa de mi padre era digna de muerte delante de mi señor el rey, y tú pusiste á tu siervo entre los convidados de tu mesa. ¿Qué derecho pues tengo aún para quejarme más contra el rey? 
+^26^ Y él dijo: Rey señor mío, mi siervo me ha engañado; pues había tu siervo dicho: Enalbardaré un asno, y subiré en él, é iré al rey; porque tu siervo es cojo. ^27^ Empero él revolvió á tu siervo delante de mi señor el rey; mas mi señor el rey es como un ángel de Dios: haz pues lo que bien te pareciere. ^28^ Porque toda la casa de mi padre era digna de muerte delante de mi señor el rey, y tú pusiste á tu siervo entre los convidados de tu mesa. ¿Qué derecho pues tengo aún para quejarme más contra el rey? ^^ 
+^[**19:28** 2Sam 16,3; 2Sam 14,17]
 
-^29^ Y el rey le dijo: ¿Para qué hablas más palabras? Yo he determinado que tú y Siba partáis las tierras. 
+^29^ Y el rey le dijo: ¿Para qué hablas más palabras? Yo he determinado que tú y Siba partáis las tierras. ^^ 
+^[**19:29** 2Sam 9,11]
 
-^30^ Y Mephi-boseth dijo al rey: Y aun tómelas él todas, pues que mi señor el rey ha vuelto en paz á su casa. 
+^30^ Y Mephi-boseth dijo al rey: Y aun tómelas él todas, pues que mi señor el rey ha vuelto en paz á su casa. ^^ 
+^[**19:30** 2Sam 9,9-10; 2Sam 16,4]
 
-^31^ También Barzillai Galaadita descendió de Rogelim, y pasó el Jordán con el rey, para acompañarle de la otra parte del Jordán.
+^31^ También Barzillai Galaadita descendió de Rogelim, y pasó el Jordán con el rey, para acompañarle de la otra parte del Jordán. 
 
 ## Cordial conversación de Barsillai con David; Cruzando el Jordán
-^32^ Y era Barzillai muy viejo, de ochenta años, el cual había dado provisión al rey cuando estaba en Mahanaim, porque era hombre muy rico. ^33^ Y el rey dijo á Barzillai: Pasa conmigo, y yo te daré de comer conmigo en Jerusalem. 
+^32^ Y era Barzillai muy viejo, de ochenta años, el cual había dado provisión al rey cuando estaba en Mahanaim, porque era hombre muy rico. ^33^ Y el rey dijo á Barzillai: Pasa conmigo, y yo te daré de comer conmigo en Jerusalem. ^^ 
+^[**19:33** 2Sam 17,27]
 
 ^34^ Mas Barzillai dijo al rey: ¿Cuántos son los días del tiempo de mi vida, para que yo suba con el rey á Jerusalem? ^35^ Yo soy hoy día de edad de ochenta años, que ya no haré diferencia entre lo bueno y lo malo: ¿tomará gusto ahora tu siervo en lo que comiere ó bebiere? ¿oiré más la voz de los cantores y de las cantoras? ¿para qué, pues, sería aún tu siervo molesto á mi señor el rey? ^36^ Pasará tu siervo un poco el Jordán con el rey: ¿por qué me ha de dar el rey tan grande recompensa? ^37^ Yo te ruego que dejes volver á tu siervo, y que muera en mi ciudad, junto al sepulcro de mi padre y de mi madre. He aquí tu siervo Chimham; que pase él con mi señor el rey, y hazle lo que bien te pareciere. 
 
@@ -599,18 +678,20 @@
 
 ^2^ Así se fueron de en pos de David todos los hombres de Israel, y seguían á Seba hijo de Bichri: mas los de Judá fueron adheridos á su rey, desde el Jordán hasta Jerusalem. 
 
-^3^ Y luego que llegó David á su casa en Jerusalem, tomó el rey las diez mujeres concubinas que había dejado para guardar la casa, y púsolas en una casa en guarda, y dióles de comer: pero nunca más entró á ellas, sino que quedaron encerradas hasta que murieron en viudez de por vida. 
+^3^ Y luego que llegó David á su casa en Jerusalem, tomó el rey las diez mujeres concubinas que había dejado para guardar la casa, y púsolas en una casa en guarda, y dióles de comer: pero nunca más entró á ellas, sino que quedaron encerradas hasta que murieron en viudez de por vida. ^^ 
+^[**20:3** 2Sam 16,21]
 
 ^4^ Después dijo el rey á Amasa: Júntame los varones de Judá para dentro de tres días, y hállate tú aquí presente. 
 
 ^5^ Fué pues Amasa á juntar á Judá; pero detúvose más del tiempo que le había sido señalado. ^6^ Y dijo David á Abisai: Seba hijo de Bichri nos hará ahora más mal que Absalom: toma pues tú los siervos de tu señor, y ve tras él, no sea que halle las ciudades fortificadas, y se nos vaya de delante. 
 
-^7^ Entonces salieron en pos de él los hombres de Joab, y los Ceretheos y Peletheos, y todos los valientes: salieron de Jerusalem para ir tras Seba hijo de Bichri.
+^7^ Entonces salieron en pos de él los hombres de Joab, y los Ceretheos y Peletheos, y todos los valientes: salieron de Jerusalem para ir tras Seba hijo de Bichri. 
 
 ## El asesinato de Amasa por Joab
-^8^ Y estando ellos cerca de la grande peña que está en Gabaón, salióles Amasa al encuentro. Ahora bien, la vestidura que Joab tenía sobrepuesta estábale ceñida, y sobre ella el cinto de una daga pegada á sus lomos en su vaina, de la que así como él avanzó, cayóse aquélla. ^9^ Entonces Joab dijo á Amasa: ¿Tienes paz, hermano mío? Y tomó Joab con la diestra la barba de Amasa, para besarlo. ^10^ Y como Amasa no se cuidó de la daga que Joab en la mano tenía, hirióle éste con ella en la quinta costilla, y derramó sus entrañas por tierra, y cayó muerto sin darle segundo golpe. Después Joab y su hermano Abisai fueron en seguimiento de Seba hijo de Bichri. ^11^ Y uno de los criados de Joab se paró junto á él, diciendo: Cualquiera que amare á Joab y á David vaya en pos de Joab. 
+^8^ Y estando ellos cerca de la grande peña que está en Gabaón, salióles Amasa al encuentro. Ahora bien, la vestidura que Joab tenía sobrepuesta estábale ceñida, y sobre ella el cinto de una daga pegada á sus lomos en su vaina, de la que así como él avanzó, cayóse aquélla. ^9^ Entonces Joab dijo á Amasa: ¿Tienes paz, hermano mío? Y tomó Joab con la diestra la barba de Amasa, para besarlo. ^10^ Y como Amasa no se cuidó de la daga que Joab en la mano tenía, hirióle éste con ella en la quinta costilla, y derramó sus entrañas por tierra, y cayó muerto sin darle segundo golpe. Después Joab y su hermano Abisai fueron en seguimiento de Seba hijo de Bichri. ^^ ^11^ Y uno de los criados de Joab se paró junto á él, diciendo: Cualquiera que amare á Joab y á David vaya en pos de Joab. 
+^[**20:10** 1Re 2,5]
 
-^12^ Y Amasa se había revolcado en la sangre en mitad del camino: y viendo aquel hombre que todo el pueblo se paraba, apartó á Amasa del camino al campo, y echó sobre él una vestidura, porque veía que todos los que venían se paraban junto á él. ^13^ Luego, pues, que fué apartado del camino, pasaron todos los que seguían á Joab, para ir tras Seba hijo de Bichri.
+^12^ Y Amasa se había revolcado en la sangre en mitad del camino: y viendo aquel hombre que todo el pueblo se paraba, apartó á Amasa del camino al campo, y echó sobre él una vestidura, porque veía que todos los que venían se paraban junto á él. ^13^ Luego, pues, que fué apartado del camino, pasaron todos los que seguían á Joab, para ir tras Seba hijo de Bichri. 
 
 ## Seba de Joab guerrea y asesina a instigación de una mujer inteligente; El regreso de Joab a Jerusalén
 ^14^ Y él pasó por todas las tribus de Israel hasta Abel y Beth-maachâ y todo Barim: y juntáronse, y siguiéronlo también. ^15^ Y vinieron y cercáronlo en Abel de Beth-maachâ, y pusieron baluarte contra la ciudad; y puesto que fué al muro, todo el pueblo que estaba con Joab trabajaba por derribar la muralla. 
@@ -624,28 +705,35 @@
 ^22^ La mujer fué luego á todo el pueblo con su sabiduría; y ellos cortaron la cabeza á Seba hijo de Bichri, y echáronla á Joab. Y él tocó la corneta, y esparciéronse de la ciudad, cada uno á su estancia. Y Joab se volvió al rey á Jerusalem. 
 
 ## Los altos funcionarios de David
-^23^ Así quedó Joab sobre todo el ejército de Israel; y Benaía hijo de Joiada sobre los Ceretheos y Peletheos; ^24^ Y Adoram sobre los tributos; y Josaphat hijo de Ahillud, el canciller; ^25^ Y Seba, escriba; y Sadoc y Abiathar, sacerdotes; é Ira Jaireo fué un jefe principal cerca de David.
+^23^ Así quedó Joab sobre todo el ejército de Israel; y Benaía hijo de Joiada sobre los Ceretheos y Peletheos; ^24^ Y Adoram sobre los tributos; y Josaphat hijo de Ahillud, el canciller; ^25^ Y Seba, escriba; y Sadoc y Abiathar, sacerdotes; é Ira Jaireo fué un jefe principal cerca de David. ^26^ 
 
 # 21 
 ## Declaración de la deuda de Saúl; el requisito de los gabaonitas
 ^1^ Y en los días de David hubo hambre por tres años consecutivos. Y David consultó á Jehová, y Jehová le dijo: Es por Saúl, y por aquella casa de sangre; porque mató á los Gabaonitas. 
 
-^2^ Entonces el rey llamó á los Gabaonitas, y hablóles. (Los Gabaonitas no eran de los hijos de Israel, sino del residuo de los Amorrheos, á los cuales los hijos de Israel habían hecho juramento: mas Saúl había procurado matarlos con motivo de celo por los hijos de Israel y de Judá.) ^3^ Dijo pues David á los Gabaonitas: ¿Qué os haré, y con qué expiaré para que bendigáis á la heredad de Jehová? 
+^2^ Entonces el rey llamó á los Gabaonitas, y hablóles. (Los Gabaonitas no eran de los hijos de Israel, sino del residuo de los Amorrheos, á los cuales los hijos de Israel habían hecho juramento: mas Saúl había procurado matarlos con motivo de celo por los hijos de Israel y de Judá.) ^^ ^3^ Dijo pues David á los Gabaonitas: ¿Qué os haré, y con qué expiaré para que bendigáis á la heredad de Jehová? 
+^[**21:2** Jos 9,15; Jos 9,19]
 
 ^4^ Y los Gabaonitas le respondieron: No tenemos nosotros querella sobre plata ni sobre oro con Saúl y con su casa: ni queremos que muera hombre de Israel. Y él les dijo: Lo que vosotros dijereis os haré. 
 
 ^5^ Y ellos respondieron al rey: De aquel hombre que nos destruyó, y que maquinó contra nosotros, para extirparnos sin dejar nada de nosotros en todo el término de Israel; ^6^ Dénsenos siete varones de sus hijos, para que los ahorquemos á Jehová en Gabaa de Saúl, el escogido de Jehová. Y el rey dijo: Yo los daré. 
 
 ## La promesa de David y su ejecución a la familia de Saúl
-^7^ Y perdonó el rey á Mephi-boseth, hijo de Jonathán, hijo de Saúl, por el juramento de Jehová que hubo entre ellos, entre David y Jonathán hijo de Saúl. ^8^ Mas tomó el rey dos hijos de Rispa hija de Aja, los cuales ella había parido á Saúl, á saber, á Armoni y á Mephi-boseth; y cinco hijos de Michâl hija de Saúl, los cuales ella había parido á Adriel, hijo de Barzillai Molathita; ^9^ Y entrególos en manos de los Gabaonitas, y ellos los ahorcaron en el monte delante de Jehová: y murieron juntos aquellos siete, los cuales fueron muertos en el tiempo de la siega, en los primeros días, en el principio de la siega de las cebadas. 
+^7^ Y perdonó el rey á Mephi-boseth, hijo de Jonathán, hijo de Saúl, por el juramento de Jehová que hubo entre ellos, entre David y Jonathán hijo de Saúl. ^^ ^8^ Mas tomó el rey dos hijos de Rispa hija de Aja, los cuales ella había parido á Saúl, á saber, á Armoni y á Mephi-boseth; y cinco hijos de Michâl hija de Saúl, los cuales ella había parido á Adriel, hijo de Barzillai Molathita; ^^ ^9^ Y entrególos en manos de los Gabaonitas, y ellos los ahorcaron en el monte delante de Jehová: y murieron juntos aquellos siete, los cuales fueron muertos en el tiempo de la siega, en los primeros días, en el principio de la siega de las cebadas. 
+^[**21:7** 1Sam 20,15-17] ^[**21:8** 2Sam 3,7; 1Sam 18,19]
 
 ## La maravillosa muestra de amor de Rizpa; Sepultura de los huesos de Saúl y sus descendientes
-^10^ Tomando luego Rispa hija de Aja un saco, tendióselo sobre un peñasco, desde el principio de la siega hasta que llovió sobre ellos agua del cielo; y no dejó á ninguna ave del cielo asentarse sobre ellos de día, ni bestias del campo de noche. ^11^ Y fué dicho á David lo que hacía Rispa hija de Aja, concubina de Saúl. ^12^ Entonces David fué, y tomó los huesos de Saúl y los huesos de Jonathán su hijo, de los hombres de Jabes de Galaad, que los habían hurtado de la plaza de Beth-san, donde los habían colgado los Filisteos, cuando deshicieron los Filisteos á Saúl en Gilboa: ^13^ E hizo llevar de allí los huesos de Saúl y los huesos de Jonathán su hijo; y juntaron también los huesos de los ahorcados. ^14^ Y sepultaron los huesos de Saúl y los de su hijo Jonathán en tierra de Benjamín, en Sela, en el sepulcro de Cis su padre; é hicieron todo lo que el rey había mandado. Después se aplacó Dios con la tierra. 
+^10^ Tomando luego Rispa hija de Aja un saco, tendióselo sobre un peñasco, desde el principio de la siega hasta que llovió sobre ellos agua del cielo; y no dejó á ninguna ave del cielo asentarse sobre ellos de día, ni bestias del campo de noche. ^11^ Y fué dicho á David lo que hacía Rispa hija de Aja, concubina de Saúl. ^12^ Entonces David fué, y tomó los huesos de Saúl y los huesos de Jonathán su hijo, de los hombres de Jabes de Galaad, que los habían hurtado de la plaza de Beth-san, donde los habían colgado los Filisteos, cuando deshicieron los Filisteos á Saúl en Gilboa: ^^ ^13^ E hizo llevar de allí los huesos de Saúl y los huesos de Jonathán su hijo; y juntaron también los huesos de los ahorcados. ^14^ Y sepultaron los huesos de Saúl y los de su hijo Jonathán en tierra de Benjamín, en Sela, en el sepulcro de Cis su padre; é hicieron todo lo que el rey había mandado. Después se aplacó Dios con la tierra. 
+^[**21:12** 1Sam 31,12]
 
 ## Algunas hazañas de los guerreros de David en las guerras filisteas
-^15^ Y como los Filisteos tornaron á hacer guerra á Israel, descendió David y sus siervos con él, y pelearon con los Filisteos: y David se cansó. ^16^ En esto Isbi-benob, el cual era de los hijos del gigante, y el peso de cuya lanza era de trescientos siclos de metal, y tenía él ceñida una nueva espada, trató de herir á David: ^17^ Mas Abisai hijo de Sarvia le socorrió, é hirió al Filisteo, y matólo. Entonces los hombres de David le juraron, diciendo: Nunca más de aquí adelante saldrás con nosotros á batalla, porque no apagues la lámpara de Israel. 
+^15^ Y como los Filisteos tornaron á hacer guerra á Israel, descendió David y sus siervos con él, y pelearon con los Filisteos: y David se cansó. ^16^ En esto Isbi-benob, el cual era de los hijos del gigante, y el peso de cuya lanza era de trescientos siclos de metal, y tenía él ceñida una nueva espada, trató de herir á David: ^17^ Mas Abisai hijo de Sarvia le socorrió, é hirió al Filisteo, y matólo. Entonces los hombres de David le juraron, diciendo: Nunca más de aquí adelante saldrás con nosotros á batalla, porque no apagues la lámpara de Israel. ^^ 
+^[**21:17** 2Sam 23,18]
 
-^18^ Otra segunda guerra hubo después en Gob contra los Filisteos: entonces Sibechâi Husathita hirió á Saph, que era de los hijos del gigante. ^19^ Otra guerra hubo en Gob contra los Filisteos, en la cual Elhanan, hijo de Jaare-oregim de Beth-lehem, hirió á Goliath Getheo, el asta de cuya lanza era como un enjullo de telar. ^20^ Después hubo otra guerra en Gath, donde hubo un hombre de grande altura, el cual tenía doce dedos en las manos, y otros doce en los pies, veinticuatro en todos: y también era de los hijos del gigante. ^21^ Este desafió á Israel, y matólo Jonathán, hijo de Sima hermano de David. ^22^ Estos cuatro le habían nacido al gigante en Gath, los cuales cayeron por la mano de David, y por la mano de sus siervos. 
+^18^ Otra segunda guerra hubo después en Gob contra los Filisteos: entonces Sibechâi Husathita hirió á Saph, que era de los hijos del gigante. ^^ ^19^ Otra guerra hubo en Gob contra los Filisteos, en la cual Elhanan, hijo de Jaare-oregim de Beth-lehem, hirió á Goliath Getheo, el asta de cuya lanza era como un enjullo de telar. ^^ 
+^[**21:18** 1Cró 20,4-8] ^[**21:19** 1Sam 17,7]
+
+^20^ Después hubo otra guerra en Gath, donde hubo un hombre de grande altura, el cual tenía doce dedos en las manos, y otros doce en los pies, veinticuatro en todos: y también era de los hijos del gigante. ^21^ Este desafió á Israel, y matólo Jonathán, hijo de Sima hermano de David. ^22^ Estos cuatro le habían nacido al gigante en Gath, los cuales cayeron por la mano de David, y por la mano de sus siervos. 
 
 # 22 
 ## El cántico de acción de gracias y victoria de David después de derrotar a sus enemigos
@@ -664,16 +752,21 @@
 ^16^ Entonces los tres valientes rompieron por el campo de los Filisteos, y sacaron agua de la cisterna de Beth-lehem, que estaba á la puerta; y tomaron, y trajéronla á David: mas él no la quiso beber, sino derramóla á Jehová, diciendo: ^17^ Lejos sea de mí, oh Jehová, que yo haga esto. ¿He de beber yo la sangre de los varones que fueron con peligro de su vida? Y no quiso beberla. Los tres valientes hicieron esto. 
 
 ## Abisai y Benaja
-^18^ Y Abisai hermano de Joab, hijo de Sarvia, fué el principal de los tres; el cual alzó su lanza contra trescientos, que mató; y tuvo nombre entre los tres. ^19^ El era el más aventajado de los tres, y el primero de ellos; mas no llegó á los tres primeros. 
+^18^ Y Abisai hermano de Joab, hijo de Sarvia, fué el principal de los tres; el cual alzó su lanza contra trescientos, que mató; y tuvo nombre entre los tres. ^^ ^19^ El era el más aventajado de los tres, y el primero de ellos; mas no llegó á los tres primeros. 
+^[**23:18** 2Sam 21,17]
 
 ^20^ Después, Benaía hijo de Joiada, hijo de un varón esforzado, grande en hechos, de Cabseel. Este hirió dos leones de Moab: y él mismo descendió, é hirió un león en medio de un foso en el tiempo de la nieve: ^21^ También hirió él á un Egipcio, hombre de grande estatura: y tenía el Egipcio una lanza en su mano; mas descendió á él con un palo, y arrebató al Egipcio la lanza de la mano, y matólo con su propia lanza. ^22^ Esto hizo Benaía hijo de Joiada, y tuvo nombre entre los tres valientes. ^23^ De los treinta fué el más aventajado; pero no llegó á los tres primeros. Y púsolo David en su consejo. 
 
 ## Una lista de otros héroes de David
-^24^ Asael hermano de Joab fué de los treinta; Elhaanan hijo de Dodo de Beth-lehem; ^25^ Samma de Harodi, Elica de Harodi; ^26^ Heles de Palti, Hira, hijo de Jecces, de Tecoa; ^27^ Abiezer de Anathoth, Mebunnai de Husa; ^28^ Selmo de Hahoh, Maharai de Netophath; ^29^ Helec hijo de Baana de Netophath, Ittai hijo de Ribai de Gabaa de los hijos de Benjamín; ^30^ Benaía Pirathonita, Hiddai del arroyo de Gaas; ^31^ Abi-albon de Arbath, Asmaveth de Barhum; ^32^ Elihaba de Saalbón, Jonathán de los hijos de Jassén; ^33^ Samma de Arar, Ahiam hijo de Sarar de Arar. ^34^ Elipheleth hijo de Asbai hijo de Maachâti; Eliam hijo de Achîtophel de Gelón; ^35^ Hesrai del Carmelo, Pharai de Arbi; ^36^ Igheal hijo de Nathán de Soba, Bani de Gadi; ^37^ Selec de Ammón, Naharai de Beeroth, escudero de Joab hijo de Sarvia; ^38^ Ira de Ithri, Gareb de Ithri; ^39^ Uría Hetheo. Entre todos treinta y siete. 
+^24^ Asael hermano de Joab fué de los treinta; Elhaanan hijo de Dodo de Beth-lehem; ^^ ^25^ Samma de Harodi, Elica de Harodi; ^26^ Heles de Palti, Hira, hijo de Jecces, de Tecoa; ^27^ Abiezer de Anathoth, Mebunnai de Husa; ^28^ Selmo de Hahoh, Maharai de Netophath; ^29^ Helec hijo de Baana de Netophath, Ittai hijo de Ribai de Gabaa de los hijos de Benjamín; ^30^ Benaía Pirathonita, Hiddai del arroyo de Gaas; ^31^ Abi-albon de Arbath, Asmaveth de Barhum; ^32^ Elihaba de Saalbón, Jonathán de los hijos de Jassén; ^33^ Samma de Arar, Ahiam hijo de Sarar de Arar. ^34^ Elipheleth hijo de Asbai hijo de Maachâti; Eliam hijo de Achîtophel de Gelón; ^^ 
+^[**23:24** 2Sam 2,18] ^[**23:34** 2Sam 15,12]
+
+^35^ Hesrai del Carmelo, Pharai de Arbi; ^36^ Igheal hijo de Nathán de Soba, Bani de Gadi; ^37^ Selec de Ammón, Naharai de Beeroth, escudero de Joab hijo de Sarvia; ^38^ Ira de Ithri, Gareb de Ithri; ^39^ Uría Hetheo. Entre todos treinta y siete. 
 
 # 24 
 ## David decide el censo a pesar de la advertencia de Joab
-^1^ Y volvió el furor de Jehová á encenderse contra Israel, é incitó á David contra ellos á que dijese: Ve, cuenta á Israel y á Judá. ^2^ Y dijo el rey á Joab, general del ejército que tenía consigo: Rodea todas las tribus de Israel, desde Dan hasta Beer-seba, y contad el pueblo, para que yo sepa el número de la gente. 
+^1^ Y volvió el furor de Jehová á encenderse contra Israel, é incitó á David contra ellos á que dijese: Ve, cuenta á Israel y á Judá. ^^ ^2^ Y dijo el rey á Joab, general del ejército que tenía consigo: Rodea todas las tribus de Israel, desde Dan hasta Beer-seba, y contad el pueblo, para que yo sepa el número de la gente. 
+^[**24:1** 2Sam 21,1]
 
 ^3^ Y Joab respondió al rey: Añada Jehová tu Dios al pueblo cien veces tanto como son, y que lo vea mi señor el rey; mas ¿para qué quiere esto mi señor el rey? 
 
@@ -687,7 +780,8 @@
 
 ^11^ Y por la mañana, cuando David se hubo levantado, fué palabra de Jehová á Gad profeta, vidente de David, diciendo: ^12^ Ve, y di á David: Así ha dicho Jehová: Tres cosas te ofrezco: tú te escogerás una de ellas, la cual yo haga. 
 
-^13^ Vino pues Gad á David, é intimóle, y díjole: ¿Quieres que te vengan siete años de hambre en tu tierra? ¿ó que huyas tres meses delante de tus enemigos, y que ellos te persigan? ¿ó que tres días haya pestilencia en tu tierra? Piensa ahora, y mira qué responderé al que me ha enviado. 
+^13^ Vino pues Gad á David, é intimóle, y díjole: ¿Quieres que te vengan siete años de hambre en tu tierra? ¿ó que huyas tres meses delante de tus enemigos, y que ellos te persigan? ¿ó que tres días haya pestilencia en tu tierra? Piensa ahora, y mira qué responderé al que me ha enviado. ^^ 
+^[**24:13** Jer 24,10; Jer 29,17; Ezeq 6,12]
 
 ^14^ Entonces David dijo á Gad: En grande angustia estoy: ruego que caiga en la mano de Jehová, porque sus miseraciones son muchas, y que no caiga yo en manos de hombres. 
 
