@@ -98,38 +98,38 @@ __4__
 ^9^ Nun aber, warum erhebst du ein solches Jammergeschrei? Darüber, daß es keinen König in dir gibt? Oder ist dein Berater umgekommen, daß Wehen dich ergriffen haben wie ein Weib in Kindesnöten?
 ^10^ Ja, winde dich in Wehen und brich in Geschrei aus, Tochter Zion, wie ein Weib in Kindesnöten! Du mußt ja nun aus der Stadt hinausziehen, mußt auf freiem Felde lagern und bis Babylon wandern! Dort aber wirst du Rettung finden, dort wird der HERR dich aus der Hand deiner Feinde erlösen!
 
-<sup>11</sup>Jetzt freilich haben sich viele Völker gegen dich versammelt und rufen: »(Zion) soll entweiht werden, auf daß unser Auge sich an seinem Schicksal weide!«
-<sup>12</sup>Aber sie kennen die Gedanken des HERRN nicht und wissen nichts von seinem Ratschluß, daß er sie nämlich zusammengebracht hat wie Garben auf der Tenne.
-<sup>13</sup>Steh auf, Tochter Zion, und drisch! Denn ich will dein Horn zu Eisen und deine Hufe zu Erz machen, auf daß du viele Völker zermalmst und ihren Raub dem HERRN weihst und ihren Reichtum dem Herrn der ganzen Erde.
+^11^Jetzt freilich haben sich viele Völker gegen dich versammelt und rufen: »(Zion) soll entweiht werden, auf daß unser Auge sich an seinem Schicksal weide!«
+^12^Aber sie kennen die Gedanken des HERRN nicht und wissen nichts von seinem Ratschluß, daß er sie nämlich zusammengebracht hat wie Garben auf der Tenne.
+^13^Steh auf, Tochter Zion, und drisch! Denn ich will dein Horn zu Eisen und deine Hufe zu Erz machen, auf daß du viele Völker zermalmst und ihren Raub dem HERRN weihst und ihren Reichtum dem Herrn der ganzen Erde.
 
-<sup>14</sup>Und nun laß dich zusammendrängen, Tochter der Bedrängnis! Einen Belagerungswall haben sie gegen uns aufgeworfen, und mit dem Stock<sup title="oder: Stabe">&#x2732;</sup> schlagen sie den Richter<sup title="= Herrscher">&#x2732;</sup> Israels ins Gesicht.
+^14^Und nun laß dich zusammendrängen, Tochter der Bedrängnis! Einen Belagerungswall haben sie gegen uns aufgeworfen, und mit dem Stock<sup title="oder: Stabe">&#x2732;</sup> schlagen sie den Richter<sup title="= Herrscher">&#x2732;</sup> Israels ins Gesicht.
 
 ### 3. Der neue David der Zukunft aus Bethlehem, sein Volk und seine Friedenszeit
 
 __5__
-<sup>1</sup>Du aber, Bethlehem-Ephrath, bist zwar zu klein, als daß du zu den Gaustädten<sup title="= Hauptorten">&#x2732;</sup> Judas gehörtest, aber aus dir wird mir der hervorgehen, der in Israel Herrscher sein soll und dessen Herkunft<sup title="oder: Ursprung">&#x2732;</sup> der Vergangenheit, den Tagen der Urzeit, angehört.
-<sup>2</sup>Darum wird er sie<sup title="d.h. Gott die Israeliten">&#x2732;</sup> preisgeben bis zu der Zeit, wo sie, die gebären soll, geboren hat und der Rest seiner Volksgenossen zu den Kindern Israel zurückkehrt.
-<sup>3</sup>Dann wird er<sup title="d.h. dieser Herrscher">&#x2732;</sup> auftreten und (seine Herde) weiden in der Kraft des HERRN, im hoheitsvollen Namen des HERRN, seines Gottes, so daß sie sicher wohnen; denn nunmehr wird er<sup title="d.h. dieser Herrscher">&#x2732;</sup> groß dastehen bis an die Enden der Erde.
+^1^Du aber, Bethlehem-Ephrath, bist zwar zu klein, als daß du zu den Gaustädten<sup title="= Hauptorten">&#x2732;</sup> Judas gehörtest, aber aus dir wird mir der hervorgehen, der in Israel Herrscher sein soll und dessen Herkunft<sup title="oder: Ursprung">&#x2732;</sup> der Vergangenheit, den Tagen der Urzeit, angehört.
+^2^Darum wird er sie<sup title="d.h. Gott die Israeliten">&#x2732;</sup> preisgeben bis zu der Zeit, wo sie, die gebären soll, geboren hat und der Rest seiner Volksgenossen zu den Kindern Israel zurückkehrt.
+^3^Dann wird er<sup title="d.h. dieser Herrscher">&#x2732;</sup> auftreten und (seine Herde) weiden in der Kraft des HERRN, im hoheitsvollen Namen des HERRN, seines Gottes, so daß sie sicher wohnen; denn nunmehr wird er<sup title="d.h. dieser Herrscher">&#x2732;</sup> groß dastehen bis an die Enden der Erde.
 
 #### Siegreiche Kämpfe der Israeliten gegen Assyrien
 
-<sup>4</sup>Und folgender Art wird der Friede (mit den Assyrern) sein: Wenn Assyrien in unser Land einrückt und unser Gebiet betritt, dann werden wir sieben Hirten<sup title="= Heerführer">&#x2732;</sup> und acht fürstliche Männer gegen sie aufstellen;
-<sup>5</sup>die werden das Land der Assyrer mit dem Schwert abweiden, das Land Nimrods mit der blanken Klinge. So wird er uns vor den Assyrern erretten, wenn sie in unser Land einrücken und unser Gebiet betreten.
+^4^Und folgender Art wird der Friede (mit den Assyrern) sein: Wenn Assyrien in unser Land einrückt und unser Gebiet betritt, dann werden wir sieben Hirten<sup title="= Heerführer">&#x2732;</sup> und acht fürstliche Männer gegen sie aufstellen;
+^5^die werden das Land der Assyrer mit dem Schwert abweiden, das Land Nimrods mit der blanken Klinge. So wird er uns vor den Assyrern erretten, wenn sie in unser Land einrücken und unser Gebiet betreten.
 
 #### Israels Vorherrschaft unter den Völkern
 
-<sup>6</sup>Dann wird der Überrest Jakobs (unter den Heiden) inmitten der Völkermenge sein wie der Tau vom HERRN, wie Regenschauer auf Wiesengras, die auf Menschen nicht warten und auf Menschenkinder nicht harren.
-<sup>7</sup>Dann wird der Überrest Jakobs unter den Heiden inmitten der Völkermenge sein wie ein Löwe unter den Tieren des Waldes, wie ein junger Leu unter Schafherden, der, wenn er hindurchgeht, niedertritt und rettungslos zerreißt. –
-<sup>8</sup>Hoch erhoben soll dein Arm über<sup title="oder: gegen">&#x2732;</sup> deine Bedränger sein, und alle deine Feinde sollen ausgerottet werden!
+^6^Dann wird der Überrest Jakobs (unter den Heiden) inmitten der Völkermenge sein wie der Tau vom HERRN, wie Regenschauer auf Wiesengras, die auf Menschen nicht warten und auf Menschenkinder nicht harren.
+^7^Dann wird der Überrest Jakobs unter den Heiden inmitten der Völkermenge sein wie ein Löwe unter den Tieren des Waldes, wie ein junger Leu unter Schafherden, der, wenn er hindurchgeht, niedertritt und rettungslos zerreißt. –
+^8^Hoch erhoben soll dein Arm über<sup title="oder: gegen">&#x2732;</sup> deine Bedränger sein, und alle deine Feinde sollen ausgerottet werden!
 
 #### Die Reinigung des Landes und die Läuterung des Volkes
 
-<sup>9</sup>»Und dann, an jenem Tage« – so lautet der Ausspruch des HERRN –, »da werde ich deine Rosse aus deiner Mitte vertilgen und deine Kriegswagen vernichten;
-<sup>10</sup>da werde ich die Städte deines Landes zerstören und alle deine Festungen niederreißen;
-<sup>11</sup>da werde ich auch die Zaubermittel aus deiner Hand vernichten, und Beschwörer soll es bei dir nicht mehr geben;
-<sup>12</sup>da werde ich auch deine Götzenbilder vernichten und deine Malsteine<sup title="5.Mose 7,5">&#x2732;</sup> aus deiner Mitte, damit du dich vor dem Machwerk deiner Hände nicht mehr niederwirfst;
-<sup>13</sup>da werde ich deine Götzenbäume aus deiner Mitte ausreißen und deine Haine vernichten
-<sup>14</sup>und werde in Zorn und Ingrimm Rache an den Völkern nehmen, die nicht haben gehorchen wollen.«
+^9^»Und dann, an jenem Tage« – so lautet der Ausspruch des HERRN –, »da werde ich deine Rosse aus deiner Mitte vertilgen und deine Kriegswagen vernichten;
+^10^da werde ich die Städte deines Landes zerstören und alle deine Festungen niederreißen;
+^11^da werde ich auch die Zaubermittel aus deiner Hand vernichten, und Beschwörer soll es bei dir nicht mehr geben;
+^12^da werde ich auch deine Götzenbilder vernichten und deine Malsteine<sup title="5.Mose 7,5">&#x2732;</sup> aus deiner Mitte, damit du dich vor dem Machwerk deiner Hände nicht mehr niederwirfst;
+^13^da werde ich deine Götzenbäume aus deiner Mitte ausreißen und deine Haine vernichten
+^14^und werde in Zorn und Ingrimm Rache an den Völkern nehmen, die nicht haben gehorchen wollen.«
 
 ## III. Der Weg von der tiefen Verderbtheit zur Rettung des Volkes (Kap. 6-7)
 
@@ -138,62 +138,62 @@ __5__
 #### a) Die Anklage Gottes
 
 __6__
-<sup>1</sup>Höret doch, was der HERR gesprochen hat: »Auf! Erhebe die Anklage angesichts der Berge und laß die Anhöhen deine Stimme vernehmen!«
-<sup>2</sup>Höret, ihr Berge, die Anklage des HERRN und merkt auf, ihr Grundfesten der Erde! Denn einen Rechtsstreit hat der HERR mit seinem Volke, und mit Israel will er sich auseinandersetzen:
-<sup>3</sup>»Mein Volk, was habe ich dir zuleide getan und womit dich gekränkt? Lege Zeugnis gegen mich ab!
-<sup>4</sup>Ich habe dich doch aus dem Lande Ägypten hergeführt und dich aus dem Diensthause freigemacht, ich habe Mose, Aaron und Mirjam (als Führer) vor dir hergehen lassen.
-<sup>5</sup>Mein Volk, denke doch daran, was Balak, der Moabiterkönig, im Sinn gehabt und was Bileam, der Sohn Beors, ihm geantwortet hat<sup title="4.Mose 22,18.38">&#x2732;</sup>, und an die Ereignisse auf dem Zuge von Sittim bis Gilgal<sup title="4.Mose 25,1; Jos 4,19-20">&#x2732;</sup>, damit du die Gnadenerweise des HERRN erkennst!«
+^1^Höret doch, was der HERR gesprochen hat: »Auf! Erhebe die Anklage angesichts der Berge und laß die Anhöhen deine Stimme vernehmen!«
+^2^Höret, ihr Berge, die Anklage des HERRN und merkt auf, ihr Grundfesten der Erde! Denn einen Rechtsstreit hat der HERR mit seinem Volke, und mit Israel will er sich auseinandersetzen:
+^3^»Mein Volk, was habe ich dir zuleide getan und womit dich gekränkt? Lege Zeugnis gegen mich ab!
+^4^Ich habe dich doch aus dem Lande Ägypten hergeführt und dich aus dem Diensthause freigemacht, ich habe Mose, Aaron und Mirjam (als Führer) vor dir hergehen lassen.
+^5^Mein Volk, denke doch daran, was Balak, der Moabiterkönig, im Sinn gehabt und was Bileam, der Sohn Beors, ihm geantwortet hat<sup title="4.Mose 22,18.38">&#x2732;</sup>, und an die Ereignisse auf dem Zuge von Sittim bis Gilgal<sup title="4.Mose 25,1; Jos 4,19-20">&#x2732;</sup>, damit du die Gnadenerweise des HERRN erkennst!«
 
 #### b) Das (äußerliche) Bußbekenntnis des Volkes und der Bescheid des Propheten
 
-<sup>6</sup>»Womit soll ich vor den HERRN treten, mich beugen<sup title="= demütigen">&#x2732;</sup> vor dem Gott der Höhe? Soll ich mit Brandopfertieren vor ihn treten, mit einjährigen Kälbern?
-<sup>7</sup>Hat der HERR Wohlgefallen an Tausenden von Widdern, an Zehntausenden von Bächen Öls? Oder soll ich meinen Erstgeborenen als Schuldopfer für mich hingeben, die Frucht meines Leibes als Sündopfer für mein Leben?«
+^6^»Womit soll ich vor den HERRN treten, mich beugen<sup title="= demütigen">&#x2732;</sup> vor dem Gott der Höhe? Soll ich mit Brandopfertieren vor ihn treten, mit einjährigen Kälbern?
+^7^Hat der HERR Wohlgefallen an Tausenden von Widdern, an Zehntausenden von Bächen Öls? Oder soll ich meinen Erstgeborenen als Schuldopfer für mich hingeben, die Frucht meines Leibes als Sündopfer für mein Leben?«
 
-<sup>8</sup>Er hat dir kundgetan, o Mensch, was gut ist; und was fordert der HERR anderes von dir, als Gerechtigkeit zu üben und dich der Liebe zu befleißigen und demütig zu wandeln mit<sup title="oder: vor">&#x2732;</sup> deinem Gott?
+^8^Er hat dir kundgetan, o Mensch, was gut ist; und was fordert der HERR anderes von dir, als Gerechtigkeit zu üben und dich der Liebe zu befleißigen und demütig zu wandeln mit<sup title="oder: vor">&#x2732;</sup> deinem Gott?
 
 ### 2. Das vernichtende Gericht über die Unredlichkeit der Bewohnerschaft Jerusalems
 
-<sup>9</sup>Horch! Der HERR ruft der Stadt zu – und Weisheit ist es, deinen Namen zu fürchten –; vernehmt (Landvolk und Stadtgemeinde) die Zuchtrute und den, der sie bestellt hat!
-<sup>10</sup>»Ist immer noch unrecht erworbenes Gut im Hause des Gottlosen und das fluchwürdige, schwindsüchtige<sup title="d.h. verkleinerte oder: allzu knappe">&#x2732;</sup> Getreidemaß?
-<sup>11</sup>Kann ich Straflosigkeit üben bei<sup title="oder: trotz">&#x2732;</sup> unrichtiger Waage und bei einem Beutel<sup title="oder: trotz des Beutels">&#x2732;</sup> mit falschen Gewichtstücken?
-<sup>12</sup>Die Reichen in der Stadt sind voll von Gewalttätigkeit, ihre Bewohner reden Lügen, und ihre Zunge ist Trug in ihrem Munde.
-<sup>13</sup>So will denn auch ich dir unheilbar tiefe Wunden schlagen, dich vernichten um deiner Sünden willen:
-<sup>14</sup>du sollst essen, aber nicht satt werden, so daß dein Hunger ungestillt bleibt; schaffst du etwas beiseite, so sollst du es doch nicht retten, und was du gerettet hast, das will ich dem Schwerte preisgeben.
-<sup>15</sup>Du wirst säen, aber nicht ernten, wirst Oliven pressen, aber mit Öl dich nicht salben, und Trauben keltern, aber keinen Wein davon trinken.
-<sup>16</sup>Denn du hast die Lehren Omris<sup title="vgl. 1.Kön 16,23-26">&#x2732;</sup> befolgt und das ganze Treiben des Hauses Ahabs<sup title="vgl. 1.Kön 16,29-33">&#x2732;</sup>; und ihr seid nach ihren Ratschlägen gewandelt, damit ich dich zum abschreckenden Beispiel mache und deine Bewohnerschaft zum Gespött, und damit ihr den Hohn der Völker tragt!«
+^9^Horch! Der HERR ruft der Stadt zu – und Weisheit ist es, deinen Namen zu fürchten –; vernehmt (Landvolk und Stadtgemeinde) die Zuchtrute und den, der sie bestellt hat!
+^10^»Ist immer noch unrecht erworbenes Gut im Hause des Gottlosen und das fluchwürdige, schwindsüchtige<sup title="d.h. verkleinerte oder: allzu knappe">&#x2732;</sup> Getreidemaß?
+^11^Kann ich Straflosigkeit üben bei<sup title="oder: trotz">&#x2732;</sup> unrichtiger Waage und bei einem Beutel<sup title="oder: trotz des Beutels">&#x2732;</sup> mit falschen Gewichtstücken?
+^12^Die Reichen in der Stadt sind voll von Gewalttätigkeit, ihre Bewohner reden Lügen, und ihre Zunge ist Trug in ihrem Munde.
+^13^So will denn auch ich dir unheilbar tiefe Wunden schlagen, dich vernichten um deiner Sünden willen:
+^14^du sollst essen, aber nicht satt werden, so daß dein Hunger ungestillt bleibt; schaffst du etwas beiseite, so sollst du es doch nicht retten, und was du gerettet hast, das will ich dem Schwerte preisgeben.
+^15^Du wirst säen, aber nicht ernten, wirst Oliven pressen, aber mit Öl dich nicht salben, und Trauben keltern, aber keinen Wein davon trinken.
+^16^Denn du hast die Lehren Omris<sup title="vgl. 1.Kön 16,23-26">&#x2732;</sup> befolgt und das ganze Treiben des Hauses Ahabs<sup title="vgl. 1.Kön 16,29-33">&#x2732;</sup>; und ihr seid nach ihren Ratschlägen gewandelt, damit ich dich zum abschreckenden Beispiel mache und deine Bewohnerschaft zum Gespött, und damit ihr den Hohn der Völker tragt!«
 
 ### 3. Bittere Klagen (des Propheten? oder: Zions?) über die allgemeine Verderbtheit
 
 __7__
-<sup>1</sup>Wehe mir! Denn es ergeht mir wie bei der Obstlese, wie bei der Nachlese in der Weinernte: nicht eine Traube ist mehr da zum Essen, nicht eine Frühfeige, nach der mein Herz verlangt!
-<sup>2</sup>Ausgestorben sind die Frommen im Lande, und es gibt keinen Ehrlichen mehr unter den Menschen; allesamt liegen sie auf der Lauer nach Bluttaten, jeder macht Jagd auf den andern mit dem Fangnetz.
-<sup>3</sup>Auf das Böse sind ihre Hände gerichtet, um es eifrig auszuführen: der Fürst fordert, und der Richter steht ihm gegen Bezahlung zu Diensten; der Mächtige spricht das aus, wonach ihn in seiner Gier gelüstet, und dann flechten sie es ineinander.
-<sup>4</sup>Der Beste unter ihnen ist wie ein Dornstrauch, der Rechtschaffenste noch schlimmer als eine Dornhecke. Aber der Tag, den deine Späher<sup title="oder: Wächter, d.h. die Propheten">&#x2732;</sup> angekündigt haben, dein Strafgericht, kommt heran: da wird die Bestürzung bei ihnen anheben.
-<sup>5</sup>Trauet keinem Genossen mehr, verlaßt euch nicht auf den Freund! Vor dem Weibe, das an deiner Brust<sup title="oder: in deinen Armen">&#x2732;</sup> liegt, hüte die Pforten deines Mundes!
-<sup>6</sup>Denn der Sohn mißachtet den Vater, die Tochter lehnt sich gegen ihre Mutter auf, die Schwiegertochter gegen ihre Schwiegermutter, und eines jeden Feinde sind die eigenen Hausgenossen<sup title="vgl. Mt 10,35-36">&#x2732;</sup>. –
-<sup>7</sup>Ich aber will nach dem HERRN ausschauen, will harren auf den Gott, der mir hilft: mein Gott wird mich erhören!
+^1^Wehe mir! Denn es ergeht mir wie bei der Obstlese, wie bei der Nachlese in der Weinernte: nicht eine Traube ist mehr da zum Essen, nicht eine Frühfeige, nach der mein Herz verlangt!
+^2^Ausgestorben sind die Frommen im Lande, und es gibt keinen Ehrlichen mehr unter den Menschen; allesamt liegen sie auf der Lauer nach Bluttaten, jeder macht Jagd auf den andern mit dem Fangnetz.
+^3^Auf das Böse sind ihre Hände gerichtet, um es eifrig auszuführen: der Fürst fordert, und der Richter steht ihm gegen Bezahlung zu Diensten; der Mächtige spricht das aus, wonach ihn in seiner Gier gelüstet, und dann flechten sie es ineinander.
+^4^Der Beste unter ihnen ist wie ein Dornstrauch, der Rechtschaffenste noch schlimmer als eine Dornhecke. Aber der Tag, den deine Späher<sup title="oder: Wächter, d.h. die Propheten">&#x2732;</sup> angekündigt haben, dein Strafgericht, kommt heran: da wird die Bestürzung bei ihnen anheben.
+^5^Trauet keinem Genossen mehr, verlaßt euch nicht auf den Freund! Vor dem Weibe, das an deiner Brust<sup title="oder: in deinen Armen">&#x2732;</sup> liegt, hüte die Pforten deines Mundes!
+^6^Denn der Sohn mißachtet den Vater, die Tochter lehnt sich gegen ihre Mutter auf, die Schwiegertochter gegen ihre Schwiegermutter, und eines jeden Feinde sind die eigenen Hausgenossen<sup title="vgl. Mt 10,35-36">&#x2732;</sup>. –
+^7^Ich aber will nach dem HERRN ausschauen, will harren auf den Gott, der mir hilft: mein Gott wird mich erhören!
 
 ### 4. Drei psalmenartige Lieder der Gemeinde
 
 #### a) Buß- und Hoffnungsgebet der Gemeinde und Gottes trostreiche Verheißung
 
-<sup>8</sup>Freue dich nicht über mich, meine Feindin! Denn bin ich auch gefallen, so stehe ich doch wieder auf, und sitze ich auch in Finsternis, so ist doch der HERR mein Licht.
-<sup>9</sup>Den Zorn des HERRN will ich tragen – denn ich habe gegen ihn gesündigt –, bis er meine Sache in die Hand nimmt und mir Recht schafft: er wird mich ans Licht herausführen, daß ich seine Gerechtigkeit mit Freuden schaue.
-<sup>10</sup>Auch meine Feindin wird es sehen, und Beschämung wird sie bedecken, sie, die zu mir gesagt hat: »Wo ist nun der HERR, dein Gott?« Meine Augen werden sich an ihrem Anblick weiden, wenn sie alsdann zertreten wird wie Kot auf der Straße. –
-<sup>11</sup>»Ein Tag kommt, wo deine Mauern wieder aufgebaut, der Tag, wo deine Grenzen hinausgerückt werden.
-<sup>12</sup>An jenem Tage wird man zu dir kommen von Assyrien bis Ägypten und von Ägypten bis zum Euphratstrom, von einem Meer bis zum anderen und von einem Gebirge bis zum anderen.
-<sup>13</sup>Die Erde aber wird zur Wüste werden um ihrer Bewohner willen, zur Strafe für ihre Taten.«
+^8^Freue dich nicht über mich, meine Feindin! Denn bin ich auch gefallen, so stehe ich doch wieder auf, und sitze ich auch in Finsternis, so ist doch der HERR mein Licht.
+^9^Den Zorn des HERRN will ich tragen – denn ich habe gegen ihn gesündigt –, bis er meine Sache in die Hand nimmt und mir Recht schafft: er wird mich ans Licht herausführen, daß ich seine Gerechtigkeit mit Freuden schaue.
+^10^Auch meine Feindin wird es sehen, und Beschämung wird sie bedecken, sie, die zu mir gesagt hat: »Wo ist nun der HERR, dein Gott?« Meine Augen werden sich an ihrem Anblick weiden, wenn sie alsdann zertreten wird wie Kot auf der Straße. –
+^11^»Ein Tag kommt, wo deine Mauern wieder aufgebaut, der Tag, wo deine Grenzen hinausgerückt werden.
+^12^An jenem Tage wird man zu dir kommen von Assyrien bis Ägypten und von Ägypten bis zum Euphratstrom, von einem Meer bis zum anderen und von einem Gebirge bis zum anderen.
+^13^Die Erde aber wird zur Wüste werden um ihrer Bewohner willen, zur Strafe für ihre Taten.«
 
 #### b) Bitte des Volkes um Verleihung fruchtbarer Landesteile und um Gottes gnädige Zusage
 
-<sup>14</sup>Weide dein Volk mit deinem Hirtenstabe, die Herde deines Erbteils, die da abgesondert für sich das Waldland<sup title="oder: die Wildnis">&#x2732;</sup> bewohnt auf dem Karmel<sup title="oder: inmitten des Fruchtgefildes">&#x2732;</sup>! Laß sie auch wieder in Basan und Gilead weiden wie in den Tagen der Vorzeit!
+^14^Weide dein Volk mit deinem Hirtenstabe, die Herde deines Erbteils, die da abgesondert für sich das Waldland<sup title="oder: die Wildnis">&#x2732;</sup> bewohnt auf dem Karmel<sup title="oder: inmitten des Fruchtgefildes">&#x2732;</sup>! Laß sie auch wieder in Basan und Gilead weiden wie in den Tagen der Vorzeit!
 
-<sup>15</sup>»Wie einst in den Tagen, als du aus Ägyptenland zogest, will ich sie wieder Wundertaten schauen lassen.
-<sup>16</sup>Die Heidenvölker werden es sehen und beschämt werden trotz all ihrer Macht; sie werden die Hand auf den Mund legen, und ihre Ohren werden taub sein;
-<sup>17</sup>sie werden Staub lecken wie die Schlangen, wie das Gewürm am Erdboden; zitternd werden sie aus ihren Burgen<sup title="oder: Schlössern">&#x2732;</sup> hervorkommen, bebend dem HERRN, unserm Gott, sich nahen und vor dir sich fürchten.«
+^15^»Wie einst in den Tagen, als du aus Ägyptenland zogest, will ich sie wieder Wundertaten schauen lassen.
+^16^Die Heidenvölker werden es sehen und beschämt werden trotz all ihrer Macht; sie werden die Hand auf den Mund legen, und ihre Ohren werden taub sein;
+^17^sie werden Staub lecken wie die Schlangen, wie das Gewürm am Erdboden; zitternd werden sie aus ihren Burgen<sup title="oder: Schlössern">&#x2732;</sup> hervorkommen, bebend dem HERRN, unserm Gott, sich nahen und vor dir sich fürchten.«
 
 #### c) Bekenntnis des Vertrauens auf die Gnade Gottes
 
-<sup>18</sup>Wer ist ein Gott wie du, der Sündenschuld vergibt und an den Missetaten des Überrestes seines Eigentumsvolkes vorübergeht? Der nicht ewiglich an seinem Zorn festhält, sondern Freude an der Gnade hat?
-<sup>19</sup>Er wird sich unser aufs neue erbarmen, wird unsere Verschuldungen niedertreten<sup title="= niederschlagen">&#x2732;</sup> und alle unsere Missetaten in die Tiefen des Meeres versenken.
-<sup>20</sup>Du wirst an Jakob Treue, an Abraham Gnade erweisen, die du unsern Vätern zugeschworen hast in den Tagen der Vorzeit.
+^18^Wer ist ein Gott wie du, der Sündenschuld vergibt und an den Missetaten des Überrestes seines Eigentumsvolkes vorübergeht? Der nicht ewiglich an seinem Zorn festhält, sondern Freude an der Gnade hat?
+^19^Er wird sich unser aufs neue erbarmen, wird unsere Verschuldungen niedertreten<sup title="= niederschlagen">&#x2732;</sup> und alle unsere Missetaten in die Tiefen des Meeres versenken.
+^20^Du wirst an Jakob Treue, an Abraham Gnade erweisen, die du unsern Vätern zugeschworen hast in den Tagen der Vorzeit.

@@ -1,0 +1,15 @@
+## Bendiciones
+# 1 
+<sup>1</sup> Pablo, prisionero de Jesucristo, y el hermano Timoteo, á Filemón amado, y coadjutor nuestro; ^[**1:1** Efes 3,1] <sup>2</sup> Y á la amada Apphia, y á Archîpo, compañero de nuestra milicia, y á la iglesia que está en tu casa: ^[**1:2** Col 4,17] <sup>3</sup> Gracia á vosotros y paz de Dios nuestro Padre, y del Señor Jesucristo. 
+ 
+
+## Gracias a Dios e intercesión por Filemón
+<sup>4</sup> Doy gracias á mi Dios, haciendo siempre memoria de ti en mis oraciones. <sup>5</sup> Oyendo tu caridad, y la fe que tienes en el Señor Jesús, y para con todos los santos; <sup>6</sup> Para que la comunicación de tu fe sea eficaz, en el conocimiento de todo el bien que está en vosotros, por Cristo Jesús. ^[**1:6** Fil 1,9] <sup>7</sup> Porque tenemos gran gozo y consolación de tu caridad, de que por ti, oh hermano, han sido recreadas las entrañas de los santos. ^[**1:7** 2Cor 7,4] 
+ 
+
+## Defensa de Onésimo
+<sup>8</sup> Por lo cual, aunque tengo mucha resolución en Cristo para mandarte lo que conviene, <sup>9</sup> Ruégote más bien por amor, siendo tal cual soy, Pablo viejo, y aun ahora prisionero de Jesucristo: <sup>10</sup> Ruégote por mi hijo Onésimo, que he engendrado en mis prisiones, ^[**1:10** Gal 4,19; 1Cor 4,15] <sup>11</sup> El cual en otro tiempo te fué inútil, mas ahora á ti y á mí es útil; <sup>12</sup> El cual te vuelvo á enviar; tú pues, recíbele como á mis entrañas. <sup>13</sup> Yo quisiera detenerle conmigo, para que en lugar de ti me sirviese en las prisiones del evangelio; <sup>14</sup> Mas nada quise hacer sin tu consejo, porque tu beneficio no fuese como de necesidad, sino voluntario. ^[**1:14** 2Cor 9,7] <sup>15</sup> Porque acaso por esto se ha apartado de ti por algún tiempo, para que le recibieses para siempre; <sup>16</sup> No ya como siervo, antes más que siervo, como hermano amado, mayormente de mí, pero cuánto más de ti, en la carne y en el Señor. <sup>17</sup> Así que, si me tienes por compañero, recíbele como á mí. <sup>18</sup> Y si en algo te dañó, ó te debe, ponlo á mi cuenta. <sup>19</sup> Yo Pablo lo escribí de mi mano, yo lo pagaré: por no decirte que aun á ti mismo te me debes demás. <sup>20</sup> Sí, hermano, góceme yo de ti en el Señor; recrea mis entrañas en el Señor. 
+ 
+
+## Cierre de cartas, anuncio de visita, saludos y bendiciones
+<sup>21</sup> Te he escrito confiando en tu obediencia, sabiendo que aun harás más de lo que digo. <sup>22</sup> Y asimismo prepárame también alojamiento; porque espero que por vuestras oraciones os tengo de ser concedido. ^^ <sup>23</sup> Te saludan Epafras, mi compañero en la prisión por Cristo Jesús, <sup>24</sup> Marcos, Aristarco, Demas y Lucas, mis cooperadores. <sup>25</sup> La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén. A Filemón fué enviada de Roma por Onésimo, siervo. 

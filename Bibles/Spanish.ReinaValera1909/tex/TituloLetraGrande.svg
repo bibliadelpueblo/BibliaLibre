@@ -184,10 +184,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="-440.44692"
+     inkscape:cx="-269.68792"
      inkscape:cy="540.60976"
      inkscape:document-units="mm"
-     inkscape:current-layer="g526"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -202,7 +202,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -215,16 +215,16 @@
        xml:space="preserve"
        id="flowRoot5923"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5941)"
-       transform="matrix(0.26458333,0,0,0.26458333,17.10525,58.22532)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,3.5511071e-7,52.34539)"><flowRegion
          id="flowRegion5925"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold'"><rect
            id="rect5927"
-           width="511.13718"
-           height="200.01021"
+           width="587.90875"
+           height="195.9696"
            x="60.609154"
            y="132.71925"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold'" /></flowRegion><flowPara
-         id="flowPara5929">La Biblia</flowPara></flowRoot>    <g
+         id="flowPara5929">Santa Biblia</flowPara></flowRoot>    <g
        id="g6003"
        transform="matrix(0.36643361,0,0,0.36643361,52.182395,188.89814)">
       <g
@@ -288,7 +288,7 @@
          id="tspan44"
          x="133.63477"
          y="141.72574"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter6359-6)"
