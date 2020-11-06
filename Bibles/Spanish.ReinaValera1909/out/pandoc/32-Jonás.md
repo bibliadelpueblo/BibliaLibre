@@ -1,3 +1,4 @@
+## El llamado, la desobediencia y el castigo de Jonás
 # 1 
 \bibverse{1} Y fué palabra de Jehová á Jonás, hijo de Amittai, diciendo: \bibverse{2} Levántate, y ve á Nínive, ciudad grande, y pregona contra ella; porque su maldad ha subido delante de mí. 
 
@@ -13,15 +14,17 @@
 
 \bibverse{12} El les respondió: Tomadme, y echadme á la mar, y la mar se os quietará: porque yo sé que por mí ha venido esta grande tempestad sobre vosotros. 
 
-\bibverse{13} Y aquellos hombres trabajaron por tornar la nave á tierra; mas no pudieron, porque la mar iba á más, y se embravecía sobre ellos. \bibverse{14} Entonces clamaron á Jehová, y dijeron: Rogámoste ahora, Jehová, que no perezcamos nosotros por la vida de aqueste hombre, ni pongas sobre nosotros la sangre inocente: porque tú, Jehová, has hecho como has querido. \bibverse{15} Y tomaron á Jonás, y echáronlo á la mar; y la mar se quietó de su furia. \bibverse{16} Y temieron aquellos hombres á Jehová con gran temor; y ofrecieron sacrificio á Jehová, y prometieron votos. 
+\bibverse{13} Y aquellos hombres trabajaron por tornar la nave á tierra; mas no pudieron, porque la mar iba á más, y se embravecía sobre ellos. \bibverse{14} Entonces clamaron á Jehová, y dijeron: Rogámoste ahora, Jehová, que no perezcamos nosotros por la vida de aqueste hombre, ni pongas sobre nosotros la sangre inocente: porque tú, Jehová, has hecho como has querido. \bibverse{15} Y tomaron á Jonás, y echáronlo á la mar; y la mar se quietó de su furia. \bibverse{16} Y temieron aquellos hombres á Jehová con gran temor; y ofrecieron sacrificio á Jehová, y prometieron votos.
 
-\bibverse{17} 
-
+## Jonás oración y salvación
 # 2 
-\bibverse{1} Mas Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches. \bibverse{2} Y oró Jonás desde el vientre del pez á Jehová su Dios, \bibverse{3} Y dijo: Clamé de mi tribulación á Jehová, y él me oyó; del vientre del sepulcro clamé, y mi voz oiste. \bibverse{4} Echásteme en el profundo, en medio de los mares, y rodeóme la corriente; todas tus ondas y tus olas pasaron sobre mí. \bibverse{5} Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo. \bibverse{6} Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza. \bibverse{7} Descendí á las raíces de los montes; la tierra echó sus cerraduras sobre mí para siempre: mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío. \bibverse{8} Cuando mi alma desfallecía en mí, acordéme de Jehová; y mi oración entró hasta ti en tu santo templo. \bibverse{9} Los que guardan las vanidades ilusorias, su misericordia abandonan. 
+\bibverse{1} Mas Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches.
+
+\bibverse{2} Y oró Jonás desde el vientre del pez á Jehová su Dios, \bibverse{3} Y dijo: Clamé de mi tribulación á Jehová, y él me oyó; del vientre del sepulcro clamé, y mi voz oiste. \bibverse{4} Echásteme en el profundo, en medio de los mares, y rodeóme la corriente; todas tus ondas y tus olas pasaron sobre mí. \bibverse{5} Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo. \bibverse{6} Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza. \bibverse{7} Descendí á las raíces de los montes; la tierra echó sus cerraduras sobre mí para siempre: mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío. \bibverse{8} Cuando mi alma desfallecía en mí, acordéme de Jehová; y mi oración entró hasta ti en tu santo templo. \bibverse{9} Los que guardan las vanidades ilusorias, su misericordia abandonan. 
 
 \bibverse{10} Yo empero con voz de alabanza te sacrificaré; pagaré lo que prometí. La salvación pertenece á Jehová. Y mandó Jehová al pez, y vomitó á Jonás en tierra. 
 
+## Jonás exitoso sermón penitencial en Nínive
 # 3 
 \bibverse{1} Y fué palabra de Jehová segunda vez á Jonás, diciendo: \bibverse{2} Levántate, y ve á Nínive, aquella gran ciudad, y publica en ella el pregón que yo te diré. 
 
@@ -31,6 +34,7 @@
 
 \bibverse{10} Y vió Dios lo que hicieron, que se convirtieron de su mal camino: y arrepintióse del mal que había dicho les había de hacer, y no lo hizo. 
 
+## Jonás disgusto y reprensión
 # 4 
 \bibverse{1} Pero Jonás se apesadumbró en extremo, y enojóse. \bibverse{2} Y oró á Jehová, y dijo: Ahora, oh Jehová, ¿no es esto lo que yo decía estando aún en mi tierra? Por eso me precaví huyendo á Tarsis: porque sabía yo que tú eres Dios clemente y piadoso, tardo á enojarte, y de grande misericordia, y que te arrepientes del mal. \bibverse{3} Ahora pues, oh Jehová, ruégote que me mates; porque mejor me es la muerte que la vida. 
 

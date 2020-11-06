@@ -552,15 +552,15 @@ namespace BibleMarkdown
 							// remove current frame
 							src = Regex.Replace(src, @"(?<=\r?\n|^)\r?\n(?!\s*#)", @""); // remove blank line
 							src = Regex.Replace(src, @"(?<=^|\n)##+.*?\r?\n", ""); // remove titles
-							src = Regex.Replace(src, @"(\^\^)|(([ \t]*\^\[[^\]]\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
+							src = Regex.Replace(src, @"(\s*\^\^)|(([ \t]*\^\[[^\]]*\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
 
 							var frmpart = frmpartmatch.Value;
-							var frames = Regex.Matches(frmpart, @"(?<=(^|\n)## ([0-9]+)(\r?\n|$).*?)\^([0-9]+)\^(( \\)|\r?\n#(##+.*?)(\r?\n|$))", RegexOptions.Singleline).GetEnumerator();
+							var frames = Regex.Matches(frmpart, @"(?<=(^|\n)## ([0-9]+)(\r?\n|$).*?)\^([0-9]+)\^((\s*(\^\^|\^\[[^\]]*\]))*\s*((\r?\n#((#+)\s*(.*?))(\r?\n|$))|\\|(?=\^[0-9]+\^)))", RegexOptions.Singleline).GetEnumerator();
 							var hasFrame = frames.MoveNext();
 
 							int chapter = 0;
 							int verse = 0;
-							src = Regex.Replace(src, @"(?<=^|\n)#\s+([0-9]+)(\s*\r?\n|$)|\^([0-9]+)\^.*?(?=\^[0-9]+\^|#)", m =>
+							src = Regex.Replace(src, @"(?<=^|\n)#\s+([0-9]+)(\s*\r?\n|$)|\^([0-9]+)\^.*?(?=\^[0-9]+\^|\s*#)", m =>
 							{
 								if (m.Groups[1].Success) // chapter
 								{
@@ -582,9 +582,31 @@ namespace BibleMarkdown
 									if (fchapter <= chapter && fverse <= verse)
 									{
 										hasFrame = frames.MoveNext();
-										if (f.Groups[6].Success) return $"{m.Value}{Environment.NewLine}{Environment.NewLine}"; // add blank line
-										else if (f.Groups[7].Success) return $"{m.Value}{Environment.NewLine}{Environment.NewLine}{f.Groups[7].Value}{Environment.NewLine}"; // add title
-																																																						 // TODO add footnote
+										var res = new StringBuilder(m.Value);
+										if (f.Groups[5].Value.Contains("^^"))
+										{
+											if (!char.IsWhiteSpace(m.Value[m.Value.Length - 1])) res.Append(" ");
+											res.Append("^^ ");
+										}
+										var foots = Regex.Matches(f.Groups[5].Value, @"\^\[[^\]]*\]");
+										bool hasFoots = false;
+										foreach (Match foot in foots) {
+											if (hasFoots) res.Append(" ");
+											else res.AppendLine();
+											res.Append(foot.Value);
+											hasFoots = true;
+										}
+										if (f.Groups[5].Value.Contains("\\")) { res.AppendLine(); res.AppendLine(); }
+										else if (f.Groups[9].Success && f.Groups[11].Value != "#") 
+											if (m.Groups[1].Success)
+											{
+												return $"{res.ToString()}{f.Groups[10].Value}{Environment.NewLine}";
+											} else
+											{
+												return $"{res.ToString()}{Environment.NewLine}{Environment.NewLine}{f.Groups[10].Value}{Environment.NewLine}"; // add title
+											}
+										//if (hasFoots) res.AppendLine();
+										return res.ToString();
 									}
 								}
 								return m.Value;
