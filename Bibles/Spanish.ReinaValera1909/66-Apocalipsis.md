@@ -15,7 +15,7 @@
 ^8^ Yo soy el Alpha y la Omega, principio y fin, dice el Señor, que es y que era y que ha de venir, el Todopoderoso. ^^ 
 ^[**1:8** Is 41,4; Apoc 4,8; Apoc 21,6]
 
-## La primera vista (en Patmos) de las siete estrellas y los siete candeleros: Cómo está preparado el Señor para venir a su cristianismo; Llamar a John para que escriba las visiones
+## Las siete estrellas y los siete candeleros
 ^9^ Yo Juan, vuestro hermano, y participante en la tribulación y en el reino, y en la paciencia de Jesucristo, estaba en la isla que es llamada Patmos, por la palabra de Dios y el testimonio de Jesucristo. ^10^ Yo fuí en el Espíritu en el día del Señor, y oí detrás de mí una gran voz como de trompeta, ^11^ Que decía: Yo soy el Alpha y Omega, el primero y el último. Escribe en un libro lo que ves, y envíalo á las siete iglesias que están en Asia; á Efeso, y á Smirna, y á Pérgamo, y á Tiatira, y á Sardis, y á Filadelfia, y á Laodicea. 
 
 ^12^ Y me volví á ver la voz que hablaba conmigo: y vuelto, vi siete candeleros de oro; ^13^ Y en medio de los siete candeleros, uno semejante al Hijo del hombre, vestido de una ropa que llegaba hasta los pies, y ceñido por los pechos con una cinta de oro. ^14^ Y su cabeza y sus cabellos eran blancos como la lana blanca, como la nieve; y sus ojos como llama de fuego; ^^ ^15^ Y sus pies semejantes al latón fino, ardientes como en un horno; y su voz como ruido de muchas aguas. ^16^ Y tenía en su diestra siete estrellas: y de su boca salía una espada aguda de dos filos. Y su rostro era como el sol cuando resplandece en su fuerza. ^17^ Y cuando yo le vi, caí como muerto á sus pies. Y él puso su diestra sobre mí, diciéndome: No temas: yo soy el primero y el último; 
@@ -121,7 +121,7 @@
 ^[**6:13** Is 34,4] ^[**6:16** Luc 23,30] ^[**6:17** Am 5,18; Rom 2,5; Mal 3,2] 
 
 # 7 
-## El sellamiento de una selección (de 144.000 de las doce tribus de Israel)
+## El sellamiento de una selección, de 144.000 de las doce tribus de Israel
 ^1^ Y después de estas cosas vi cuatro ángeles que estaban sobre los cuatro ángulos de la tierra, deteniendo los cuatro vientos de la tierra, para que no soplase viento sobre la tierra, ni sobre la mar, ni sobre ningún árbol. ^^ ^2^ Y vi otro ángel que subía del nacimiento del sol, teniendo el sello del Dios vivo: y clamó con gran voz á los cuatro ángeles, á los cuales era dado hacer daño á la tierra y á la mar, ^3^ Diciendo: No hagáis daño á la tierra, ni al mar, ni á los árboles, hasta que señalemos á los siervos de nuestro Dios en sus frentes. ^4^ Y oí el número de los señalados: ciento cuarenta y cuatro mil señalados de todas las tribus de los hijos de Israel. ^^ ^5^ De la tribu de Judá, doce mil señalados. De la tribu de Rubén, doce mil señalados. De la tribu de Gad, doce mil señalados. ^6^ De la tribu de Aser, doce mil señalados. De la tribu de Neftalí, doce mil señalados. De la tribu de Manasés, doce mil señalados. ^7^ De la tribu de Simeón, doce mil señalados. De la tribu de Leví, doce mil señalados. De la tribu de Issachâr, doce mil señalados. ^8^ De la tribu de Zabulón, doce mil señalados. De la tribu de José, doce mil señalados. De la tribu de Benjamín, doce mil señalados. 
 ^[**7:1** Dan 7,2] ^[**7:4** Apoc 14,1; Apoc 14,3]
 
@@ -138,7 +138,7 @@
 ^[**7:16** Is 49,10] ^[**7:17** Sal 23,2; Apoc 21,4; Is 25,8] 
 
 # 8 
-## La solución del séptimo sello y el silencio en el cielo (presentando los juicios de las trompetas)
+## La solución del séptimo sello y el silencio en el cielo, presentando los juicios de las trompetas
 ^1^ Y cuando él abrió el séptimo sello, fué hecho silencio en el cielo casi por media hora. ^^ ^2^ Y vi los siete ángeles que estaban delante de Dios; y les fueron dadas siete trompetas. ^^ 
 ^[**8:1** Zac 2,17; Hab 2,20] ^[**8:2** Mat 24,31]
 
@@ -147,7 +147,7 @@
 
 ^6^ Y los siete ángeles que tenían las siete trompetas, se aparejaron para tocar. 
 
-## Las primeras cuatro trompetas (es decir, las plagas que vienen de arriba)
+## Las primeras cuatro trompetas, es decir, las plagas que vienen de arriba
 ^7^ Y el primer ángel tocó la trompeta, y fué hecho granizo y fuego, mezclado con sangre, y fueron arrojados á la tierra; y la tercera parte de los árboles fué quemada, y quemóse toda la hierba verde. ^^ 
 ^[**8:7** Éxod 9,23-26]
 
@@ -159,7 +159,7 @@
 
 ^12^ Y el cuarto ángel tocó la trompeta, y fué herida la tercera parte del sol, y la tercera parte de la luna, y la tercera parte de las estrellas; de tal manera que se oscureció la tercera parte de ellos, y no alumbraba la tercera parte del día, y lo mismo de la noche. 
 
-## La primera llamada del águila y la quinta y sexta trompetas (las dos plagas que vienen de abajo, es decir, del infierno)
+## La primera llamada del águila y la quinta y sexta trompetas, las dos plagas que vienen de abajo, es decir, del infierno
 ^13^ Y miré, y oí un ángel volar por medio del cielo, diciendo en alta voz: ¡Ay! ¡ay! ¡ay! de los que moran en la tierra, por razón de las otras voces de trompeta de los tres ángeles que han de tocar! 
 
 # 9 
@@ -397,7 +397,7 @@
 ^7^ Y cuando los mil años fueren cumplidos, Satanás será suelto de su prisión, ^8^ Y saldrá para engañar las naciones que están sobre los cuatro ángulos de la tierra, á Gog y á Magog, á fin de congregarlos para la batalla; el número de los cuales es como la arena del mar. ^^ ^9^ Y subieron sobre la anchura de la tierra, y circundaron el campo de los santos, y la ciudad amada: y de Dios descendió fuego del cielo, y los devoró. ^10^ Y el diablo que los engañaba, fué lanzado en el lago de fuego y azufre, donde está la bestia y el falso profeta; y serán atormentados día y noche para siempre jamás. 
 ^[**20:8** Ezeq 38,2]
 
-## La segunda resurrección (general) y el juicio final
+## La segunda resurrección y el juicio final
 ^11^ Y vi un gran trono blanco y al que estaba sentado sobre él, de delante del cual huyó la tierra y el cielo; y no fué hallado el lugar de ellos. ^^ ^12^ Y vi los muertos, grandes y pequeños, que estaban delante de Dios; y los libros fueron abiertos: y otro libro fué abierto, el cual es de la vida: y fueron juzgados los muertos por las cosas que estaban escritas en los libros, según sus obras. ^^ ^13^ Y el mar dió los muertos que estaban en él; y la muerte y el infierno dieron los muertos que estaban en ellos; y fué hecho juicio de cada uno según sus obras. ^14^ Y el infierno y la muerte fueron lanzados en el lago de fuego. Esta es la muerte segunda. ^^ 
 ^[**20:11** Mat 25,31-46; 2Pe 3,7; 2Pe 3,10; 2Pe 3,12] ^[**20:12** Juan 5,28-29] ^[**20:14** 1Cor 15,26; 1Cor 15,55]
 
