@@ -469,7 +469,7 @@
 ## El lamento de Moisés ante Dios
 ^10^ Y oyó Moisés al pueblo, que lloraba por sus familias, cada uno á la puerta de su tienda: y el furor de Jehová se encendió en gran manera; también pareció mal á Moisés. ^11^ Y dijo Moisés á Jehová: ¿Por qué has hecho mal á tu siervo? ¿y por qué no he hallado gracia en tus ojos, que has puesto la carga de todo este pueblo sobre mí? ^12^ ¿Concebí yo á todo este pueblo? ¿engendrélo yo, para que me digas: Llévalo en tu seno, como lleva la que cría al que mama, á la tierra de la cual juraste á sus padres? ^13^ ¿De dónde tengo yo carne para dar á todo este pueblo? porque lloran á mí, diciendo: Danos carne que comamos. ^14^ No puedo yo solo soportar á todo este pueblo, que me es pesado en demasía. ^15^ Y si así lo haces tú conmigo, yo te ruego que me des muerte, si he hallado gracia en tus ojos; y que yo no vea mi mal. 
 
-## Ordenanza de Dios (nombramiento de setenta asistentes de Moisés) La promesa de Dios de donación de carne; la respuesta incrédula de Moisés
+## Ordenanza de Dios (nombramiento de setenta asistentes de Moisés); La promesa de Dios de donación de carne; la respuesta incrédula de Moisés
 ^16^ Entonces Jehová dijo á Moisés: Júntame setenta varones de los ancianos de Israel, que tú sabes que son ancianos del pueblo y sus principales; y tráelos á la puerta del tabernáculo del testimonio, y esperen allí contigo. ^^ ^17^ Y yo descenderé y hablaré allí contigo; y tomaré del espíritu que está en ti, y pondré en ellos; y llevarán contigo la carga del pueblo, y no la llevarás tú solo. 
 ^[**11:16** Éxod 18,21; Éxod 24,1]
 
