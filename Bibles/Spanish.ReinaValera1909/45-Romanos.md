@@ -50,7 +50,7 @@
 
 # 3 
 ## Sin embargo, la posición privilegiada de los judíos permanece; su infidelidad pone la fidelidad de Dios en una luz más brillante
-^1^ ¿QUÉ, pues, tiene más el Judío? ¿ó qué aprovecha la circuncisión? ^2^ Mucho en todas maneras. Lo primero ciertamente, que la palabra de Dios les ha sido confiada. ^3^ ¿Pues qué si algunos de ellos han sido incrédulos? ¿la incredulidad de ellos habrá hecho vana la verdad de Dios? ^^ ^4^ En ninguna manera; antes bien sea Dios verdadero, mas todo hombre mentiroso; como está escrito: Para que seas justificado en tus dichos, y venzas cuando de ti se juzgare. ^^ 
+^1^ ¿Qué, pues, tiene más el Judío? ¿ó qué aprovecha la circuncisión? ^2^ Mucho en todas maneras. Lo primero ciertamente, que la palabra de Dios les ha sido confiada. ^3^ ¿Pues qué si algunos de ellos han sido incrédulos? ¿la incredulidad de ellos habrá hecho vana la verdad de Dios? ^^ ^4^ En ninguna manera; antes bien sea Dios verdadero, mas todo hombre mentiroso; como está escrito: Para que seas justificado en tus dichos, y venzas cuando de ti se juzgare. ^^ 
 ^[**3:3** Rom 9,6; Rom 11,29; 2Tim 2,13] ^[**3:4** Sal 116,11]
 
 ^5^ Y si nuestra iniquidad encarece la justicia de Dios, ¿qué diremos? ¿Será injusto Dios que da castigo? (hablo como hombre.) ^6^ En ninguna manera: de otra suerte ¿cómo juzgaría Dios el mundo? ^7^ Empero si la verdad de Dios por mi mentira creció á gloria suya, ¿por qué aun así yo soy juzgado como pecador? ^8^ ¿Y por qué no decir (como somos blasfemados, y como algunos dicen que nosotros decimos): Hagamos males para que vengan bienes? la condenación de los cuales es justa. ^^ 
@@ -76,7 +76,7 @@
 
 # 4 
 ## Evidencia de la justicia de la fe en Abraham y mediante un testimonio de David
-^1^ ¿QUÉ, pues, diremos que halló Abraham nuestro padre según la carne? ^2^ Que si Abraham fué justificado por la obras, tiene de qué gloriarse; mas no para con Dios. ^3^ Porque ¿qué dice la Escritura? Y creyó Abraham á Dios, y le fué atribuído á justicia. ^^ ^4^ Empero al que obra, no se le cuenta el salario por merced, sino por deuda. ^^ ^5^ Mas al que no obra, pero cree en aquél que justifica al impío, la fe le es contada por justicia. ^^ ^6^ Como también David dice ser bienaventurado el hombre al cual Dios atribuye justicia sin obras, ^7^ Diciendo: Bienaventurados aquellos cuyas iniquidades son perdonadas, y cuyos pecados son cubiertos. ^8^ Bienaventurado el varón al cual el Señor no imputó pecado. 
+^1^ ¿Qué, pues, diremos que halló Abraham nuestro padre según la carne? ^2^ Que si Abraham fué justificado por la obras, tiene de qué gloriarse; mas no para con Dios. ^3^ Porque ¿qué dice la Escritura? Y creyó Abraham á Dios, y le fué atribuído á justicia. ^^ ^4^ Empero al que obra, no se le cuenta el salario por merced, sino por deuda. ^^ ^5^ Mas al que no obra, pero cree en aquél que justifica al impío, la fe le es contada por justicia. ^^ ^6^ Como también David dice ser bienaventurado el hombre al cual Dios atribuye justicia sin obras, ^7^ Diciendo: Bienaventurados aquellos cuyas iniquidades son perdonadas, y cuyos pecados son cubiertos. ^8^ Bienaventurado el varón al cual el Señor no imputó pecado. 
 ^[**4:3** Gal 3,6] ^[**4:4** Rom 11,6] ^[**4:5** Rom 3,26]
 
 ## Abraham como el padre de todos los creyentes, incluidos los gentiles
@@ -121,7 +121,7 @@
 
 # 6 
 ## Fuimos crucificados con ellos, morimos con ellos, sepultados con ellos y resucitamos con Cristo Jesús
-^1^ ¿PUES qué diremos? Perseveraremos en pecado para que la gracia crezca? ^^ ^2^ En ninguna manera. Porque los que somos muertos al pecado, ¿cómo viviremos aún en él? ^3^ ¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte? ^^ ^4^ Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida. ^^ 
+^1^ ¿Pues qué diremos? Perseveraremos en pecado para que la gracia crezca? ^^ ^2^ En ninguna manera. Porque los que somos muertos al pecado, ¿cómo viviremos aún en él? ^3^ ¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte? ^^ ^4^ Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida. ^^ 
 ^[**6:1** Rom 3,5-8] ^[**6:3** Gal 3,27] ^[**6:4** Col 2,12; 1Pe 3,21]
 
 ^5^ Porque si fuimos plantados juntamente en él á la semejanza de su muerte, así también lo seremos á la de su resurrección: ^6^ Sabiendo esto, que nuestro viejo hombre juntamente fué crucificado con él, para que el cuerpo del pecado sea deshecho, á fin de que no sirvamos más al pecado. ^^ ^7^ Porque el que es muerto, justificado es del pecado. 
@@ -144,7 +144,7 @@
 
 # 7 
 ## Cuando hemos muerto y resucitado con Cristo, estamos legítimamente libres de la ley y estamos obligados a servir al Cristo resucitado creyéndonos muertos al pecado
-^1^ ¿IGNORÁIS, hermanos, (porque hablo con los que saben la ley) que la ley se enseñorea del hombre entre tanto que vive? ^2^ Porque la mujer que está sujeta á marido, mientras el marido vive está obligada á la ley; mas muerto el marido, libre es de la ley del marido. ^3^ Así que, viviendo el marido, se llamará adúltera si fuere de otro varón; mas si su marido muriere, es libre de la ley; de tal manera que no será adúltera si fuere de otro marido. ^4^ Así también vosotros, hermanos míos, estáis muertos á la ley por el cuerpo de Cristo, para que seáis de otro, á saber, del que resucitó de los muertos, á fin de que fructifiquemos á Dios. ^5^ Porque mientras estábamos en la carne, los afectos de los pecados que eran por la ley, obraban en nuestros miembros fructificando para muerte. ^^ ^6^ Mas ahora estamos libres de la ley, habiendo muerto á aquella en la cual estábamos detenidos, para que sirvamos en novedad de espíritu, y no en vejez de letra. ^^ 
+^1^ ¿Ignoráis, hermanos, (porque hablo con los que saben la ley) que la ley se enseñorea del hombre entre tanto que vive? ^2^ Porque la mujer que está sujeta á marido, mientras el marido vive está obligada á la ley; mas muerto el marido, libre es de la ley del marido. ^3^ Así que, viviendo el marido, se llamará adúltera si fuere de otro varón; mas si su marido muriere, es libre de la ley; de tal manera que no será adúltera si fuere de otro marido. ^4^ Así también vosotros, hermanos míos, estáis muertos á la ley por el cuerpo de Cristo, para que seáis de otro, á saber, del que resucitó de los muertos, á fin de que fructifiquemos á Dios. ^5^ Porque mientras estábamos en la carne, los afectos de los pecados que eran por la ley, obraban en nuestros miembros fructificando para muerte. ^^ ^6^ Mas ahora estamos libres de la ley, habiendo muerto á aquella en la cual estábamos detenidos, para que sirvamos en novedad de espíritu, y no en vejez de letra. ^^ 
 ^[**7:5** Rom 6,21] ^[**7:6** Rom 8,1-2; Rom 6,2; Rom 6,4]
 
 ## El efecto calamitoso de la ley, que familiariza al hombre con el pecado y le da vida al pecado en la carne

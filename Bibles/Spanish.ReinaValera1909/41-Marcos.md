@@ -704,7 +704,7 @@
 ^21^ Y cargaron á uno que pasaba, Simón Cireneo, padre de Alejandro y de Rufo, que venía del campo, para que llevase su cruz. ^22^ Y le llevan al lugar de Gólgotha, que declarado quiere decir: Lugar de la Calavera. ^23^ Y le dieron á beber vino mezclado con mirra; mas él no lo tomó. ^^ 
 ^[**15:23** Sal 69,22]
 
-^24^ Y cuando le hubieron crucificado, repartieron sus vestidos, echando suertes sobre ellos, qué llevaría cada uno. ^^ ^25^ Y era la hora de las tres cuando le crucificaron. ^26^ Y el título escrito de su causa era: EL REY DE LOS JUDIOS. ^27^ Y crucificaron con él dos ladrones, uno á su derecha, y el otro á su izquierda. ^28^ Y se cumplió la Escritura, que dice: Y con los inicuos fué contado. 
+^24^ Y cuando le hubieron crucificado, repartieron sus vestidos, echando suertes sobre ellos, qué llevaría cada uno. ^^ ^25^ Y era la hora de las tres cuando le crucificaron. ^26^ Y el título escrito de su causa era: El rey de los Judios. ^27^ Y crucificaron con él dos ladrones, uno á su derecha, y el otro á su izquierda. ^28^ Y se cumplió la Escritura, que dice: Y con los inicuos fué contado. 
 ^[**15:24** Sal 22,19]
 
 ^29^ Y los que pasaban le denostaban, meneando sus cabezas, y diciendo: ¡Ah! tú que derribas el templo de Dios, y en tres días lo edificas, ^^ ^30^ Sálvate á ti mismo, y desciende de la cruz. 
