@@ -120,19 +120,22 @@
 
 ^2^ Las señales y milagros que el alto Dios ha hecho conmigo, conviene que yo las publique. ^3^ ¡Cuán grandes son sus señales, y cuán potentes sus maravillas! Su reino, reino sempiterno, y su señorío hasta generación y generación. 
 
-^4^ Yo Nabucodonosor estaba quieto en mi casa, y floreciente en mi palacio. ^5^ Vi un sueño que me espantó, y las imaginaciones y visiones de mi cabeza me turbaron en mi cama. ^^ ^6^ Por lo cual yo puse mandamiento para hacer venir delante de mí todos los sabios de Babilonia, que me mostrasen la declaración del sueño. ^^ ^7^ Y vinieron magos, astrólogos, Caldeos, y adivinos: y dije el sueño delante de ellos, mas nunca me mostraron su declaración; ^^ ^8^ Hasta tanto que entró delante de mí Daniel, cuyo nombre es Beltsasar, como el nombre de mi dios, y en el cual hay espíritu de los dioses santos, y dije el sueño delante de él, diciendo: 
-^[**4:5** Dan 5,11; Dan 5,14] ^[**4:6** Ezeq 28,3] ^[**4:7** Ezeq 31,3-14]
+^4^ Yo Nabucodonosor estaba quieto en mi casa, y floreciente en mi palacio. ^5^ Vi un sueño que me espantó, y las imaginaciones y visiones de mi cabeza me turbaron en mi cama. ^6^ Por lo cual yo puse mandamiento para hacer venir delante de mí todos los sabios de Babilonia, que me mostrasen la declaración del sueño. ^7^ Y vinieron magos, astrólogos, Caldeos, y adivinos: y dije el sueño delante de ellos, mas nunca me mostraron su declaración; ^8^ Hasta tanto que entró delante de mí Daniel, cuyo nombre es Beltsasar, como el nombre de mi dios, y en el cual hay espíritu de los dioses santos, y dije el sueño delante de él, diciendo: ^^
+^[**4:8** Dan 5,11; Dan 5,14] 
 
-^9^ Beltsasar, príncipe de los magos, ya que he entendido que hay en ti espíritu de los dioses santos, y que ningún misterio se te esconde, exprésame las visiones de mi sueño que he visto, y su declaración. 
+^9^ Beltsasar, príncipe de los magos, ya que he entendido que hay en ti espíritu de los dioses santos, y que ningún misterio se te esconde, exprésame las visiones de mi sueño que he visto, y su declaración. ^^ 
+^[**4:9** Ezeq 28,3]
 
 ## Nabucodonosor comparte el sueño con Daniel
-^10^ Aquestas las visiones de mi cabeza en mi cama: Parecíame que veía un árbol en medio de la tierra, cuya altura era grande. ^11^ Crecía este árbol, y hacíase fuerte, y su altura llegaba hasta el cielo, y su vista hasta el cabo de toda la tierra. ^^ ^12^ Su copa era hermosa, y su fruto en abundancia, y para todos había en él mantenimiento. Debajo de él se ponían á la sombra las bestias del campo, y en sus ramas hacían morada las aves del cielo, y manteníase de él toda carne. 
-^[**4:11** Dan 4,20]
+^10^ Aquestas las visiones de mi cabeza en mi cama: Parecíame que veía un árbol en medio de la tierra, cuya altura era grande. ^^ ^11^ Crecía este árbol, y hacíase fuerte, y su altura llegaba hasta el cielo, y su vista hasta el cabo de toda la tierra. ^12^ Su copa era hermosa, y su fruto en abundancia, y para todos había en él mantenimiento. Debajo de él se ponían á la sombra las bestias del campo, y en sus ramas hacían morada las aves del cielo, y manteníase de él toda carne. 
+^[**4:10** Ezeq 31,3-14]
 
 ^13^ Veía en las visiones de mi cabeza en mi cama, y he aquí que un vigilante y santo descendía del cielo. ^14^ Y clamaba fuertemente y decía así: Cortad el árbol, y desmochad sus ramas, derribad su copa, y derramad su fruto: váyanse las bestias que están debajo de él, y las aves de sus ramas. ^^ ^15^ Mas la cepa de sus raíces dejaréis en la tierra, y con atadura de hierro y de metal entre la hierba del campo; y sea mojado con el rocío del cielo, y su parte con las bestias en la hierba de la tierra. ^16^ Su corazón sea mudado de corazón de hombre, y séale dado corazón de bestia, y pasen sobre él siete tiempos. 
-^[**4:14** Dan 2,21]
+^[**4:14** Dan 4,20] 
 
-^17^ La sentencia es por decreto de los vigilantes, y por dicho de los santos la demanda: para que conozcan los vivientes que el Altísimo se enseñorea del reino de los hombres, y que á quien él quiere lo da, y constituye sobre él al más bajo de los hombres. 
+^17^ La sentencia es por decreto de los vigilantes, y por dicho de los santos la demanda: para que conozcan los vivientes que el Altísimo se enseñorea del reino de los hombres, y que á quien él quiere lo da, y constituye sobre él al más bajo de los hombres. ^^
+^[**4:17** Dan 2,21]
+
 
 ^18^ Yo el rey Nabucodonosor he visto este sueño. Tú pues, Beltsasar, dirás la declaración de él, porque todos los sabios de mi reino nunca pudieron mostrarme su interpretación: mas tú puedes, porque hay en ti espíritu de los dioses santos. 
 
@@ -146,17 +149,17 @@
 ^24^ Esta es la declaración, oh rey, y la sentencia del Altísimo, que ha venido sobre el rey mi señor: 
 
 ## El cumplimiento de todas las profecías de Daniel: la arrogancia de Nabucodonosor, desprecio por el espíritu, conversión, restauración
-^25^ Que te echarán de entre los hombres, y con las bestias del campo será tu morada, y con hierba del campo te apacentarán como á los bueyes, y con rocío del cielo serás bañado; y siete tiempos pasarán sobre ti, hasta que entiendas que el Altísimo se enseñorea en el reino de los hombres, y que á quien él quisiere lo dará. ^26^ Y lo que dijeron, que dejasen en la tierra la cepa de las raíces del mismo árbol, significa que tu reino se te quedará firme, luego que entiendas que el señorío es en los cielos. ^27^ Por tanto, oh rey, aprueba mi consejo, y redime tus pecados con justicia, y tus iniquidades con misericordias para con los pobres; que tal vez será eso una prolongación de tu tranquilidad. ^^ 
-^[**4:27** Prov 16,18; Hech 12,23]
+^25^ Que te echarán de entre los hombres, y con las bestias del campo será tu morada, y con hierba del campo te apacentarán como á los bueyes, y con rocío del cielo serás bañado; y siete tiempos pasarán sobre ti, hasta que entiendas que el Altísimo se enseñorea en el reino de los hombres, y que á quien él quisiere lo dará. ^26^ Y lo que dijeron, que dejasen en la tierra la cepa de las raíces del mismo árbol, significa que tu reino se te quedará firme, luego que entiendas que el señorío es en los cielos. ^27^ Por tanto, oh rey, aprueba mi consejo, y redime tus pecados con justicia, y tus iniquidades con misericordias para con los pobres; que tal vez será eso una prolongación de tu tranquilidad. 
 
-^28^ Todo aquesto vino sobre el rey Nabucodonosor. ^29^ A cabo de doce meses, andándose paseando sobre el palacio del reino de Babilonia, ^30^ Habló el rey, y dijo: ¿No es ésta la gran Babilonia, que yo edifiqué para casa del reino, con la fuerza de mi poder, y para gloria de mi grandeza? 
+^28^ Todo aquesto vino sobre el rey Nabucodonosor. ^29^ A cabo de doce meses, andándose paseando sobre el palacio del reino de Babilonia, ^30^ Habló el rey, y dijo: ¿No es ésta la gran Babilonia, que yo edifiqué para casa del reino, con la fuerza de mi poder, y para gloria de mi grandeza? ^^
+^[**4:30** Prov 16,18; Hech 12,23]
 
 ^31^ Aun estaba la palabra en la boca del rey, cuando cae una voz del cielo: A ti dicen, rey Nabucodonosor; el reino es traspasado de ti: ^^ ^32^ Y de entre los hombres te echan, y con las bestias del campo será tu morada, y como á los bueyes te apacentarán: y siete tiempos pasarán sobre ti, hasta que conozcas que el Altísimo se enseñorea en el reino de los hombres, y á quien él quisiere lo da. 
-^[**4:31** Dan 3,33]
 
 ^33^ En la misma hora se cumplió la palabra sobre Nabucodonosor, y fué echado de entre los hombres; y comía hierba como los bueyes, y su cuerpo se bañaba con el rocío del cielo, hasta que su pelo creció como de águila, y sus uñas como de aves. 
 
-^34^ Mas al fin del tiempo yo Nabucodonosor alcé mis ojos al cielo, y mi sentido me fué vuelto; y bendije al Altísimo, y alabé y glorifiqué al que vive para siempre; porque su señorío es sempiterno, y su reino por todas las edades. ^35^ Y todos los moradores de la tierra por nada son contados: y en el ejército del cielo, y en los habitantes de la tierra, hace según su voluntad: ni hay quien estorbe su mano, y le diga: ¿Qué haces? 
+^34^ Mas al fin del tiempo yo Nabucodonosor alcé mis ojos al cielo, y mi sentido me fué vuelto; y bendije al Altísimo, y alabé y glorifiqué al que vive para siempre; porque su señorío es sempiterno, y su reino por todas las edades. ^^ ^35^ Y todos los moradores de la tierra por nada son contados: y en el ejército del cielo, y en los habitantes de la tierra, hace según su voluntad: ni hay quien estorbe su mano, y le diga: ¿Qué haces? 
+^[**4:34** Dan 3,33]
 
 ^36^ En el mismo tiempo mi sentido me fué vuelto, y la majestad de mi reino, mi dignidad y mi grandeza volvieron á mí, y mis gobernadores y mis grandes me buscaron; y fuí restituído á mi reino, y mayor grandeza me fué añadida. 
 
@@ -201,24 +204,25 @@
 
 # 6 
 ## El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios
-^1^ Pareció bien á Darío constituir sobre el reino ciento veinte gobernadores, que estuviesen en todo el reino. ^2^ Y sobre ellos tres presidentes, de los cuales Daniel era el uno, á quienes estos gobernadores diesen cuenta, porque el rey no recibiese daño. ^3^ Pero el mismo Daniel era superior á estos gobernadores y presidentes, porque había en él más abundancia de espíritu: y el rey pensaba de ponerlo sobre todo el reino. 
+^1^ Pareció bien á Darío constituir sobre el reino ciento veinte gobernadores, que estuviesen en todo el reino. ^2^ Y sobre ellos tres presidentes, de los cuales Daniel era el uno, á quienes estos gobernadores diesen cuenta, porque el rey no recibiese daño. ^3^ Pero el mismo Daniel era superior á estos gobernadores y presidentes, porque había en él más abundancia de espíritu: y el rey pensaba de ponerlo sobre todo el reino. ^^
+^[**6:3** Dan 5,12]
 
-^4^ Entonces los presidentes y gobernadores buscaban ocasiones contra Daniel por parte del reino; mas no podían hallar alguna ocasión ó falta, porque él era fiel, y ningún vicio ni falta fué en él hallado. ^^ ^5^ Entonces dijeron aquellos hombres: No hallaremos contra este Daniel ocasión alguna, si no la hallamos contra él en la ley de su Dios. 
-^[**6:4** Dan 5,12]
+^4^ Entonces los presidentes y gobernadores buscaban ocasiones contra Daniel por parte del reino; mas no podían hallar alguna ocasión ó falta, porque él era fiel, y ningún vicio ni falta fué en él hallado. ^5^ Entonces dijeron aquellos hombres: No hallaremos contra este Daniel ocasión alguna, si no la hallamos contra él en la ley de su Dios. 
+
 
 ^6^ Entonces estos gobernadores y presidentes se juntaron delante del rey, y le dijeron así: Rey Darío, para siempre vive: 
 
 ## Los funcionarios celosos obtienen un decreto real sobre un ejercicio de oración único en el reino
-^7^ Todos los presidentes del reino, magistrados, gobernadores, grandes, y capitanes, han acordado por consejo promulgar un real edicto, y confirmarlo, que cualquiera que demandare petición de cualquier dios ú hombre en el espacio de treinta días, sino de ti, oh rey, sea echado en el foso de los leones. ^8^ Ahora, oh rey, confirma el edicto, y firma la escritura, para que no se pueda mudar, conforme á la ley de Media y de Persia, la cual no se revoca. ^9^ Firmó pues el rey Darío la escritura y el edicto. ^^ 
-^[**6:9** Dan 6,16; Est 1,19; Est 8,8]
+^7^ Todos los presidentes del reino, magistrados, gobernadores, grandes, y capitanes, han acordado por consejo promulgar un real edicto, y confirmarlo, que cualquiera que demandare petición de cualquier dios ú hombre en el espacio de treinta días, sino de ti, oh rey, sea echado en el foso de los leones. ^8^ Ahora, oh rey, confirma el edicto, y firma la escritura, para que no se pueda mudar, conforme á la ley de Media y de Persia, la cual no se revoca. ^^ ^9^ Firmó pues el rey Darío la escritura y el edicto.
+^[**6:8** Dan 6,16; Est 1,19; Est 8,8]
 
 ^10^ Y Daniel, cuando supo que la escritura estaba firmada, entróse en su casa, y abiertas las ventanas de su cámara que estaban hacia Jerusalem, hincábase de rodillas tres veces al día, y oraba, y confesaba delante de su Dios, como lo solía hacer antes. 
 
 ## La transgresión del edicto de Daniel como resultado de su temor de Dios; su condena a pesar del dolor del rey
-^11^ Entonces se juntaron aquellos hombres, y hallaron á Daniel orando y rogando delante de su Dios. ^12^ Llegáronse luego, y hablaron delante del rey acerca del edicto real: ¿No has confirmado edicto que cualquiera que pidiere á cualquier dios ú hombre en el espacio de treinta días, excepto á ti, oh rey, fuese echado en el foso de los leones? Respondió el rey y dijo: Verdad es, conforme á la ley de Media y de Persia, la cual no se abroga. 
+^11^ Entonces se juntaron aquellos hombres, y hallaron á Daniel orando y rogando delante de su Dios. ^12^ Llegáronse luego, y hablaron delante del rey acerca del edicto real: ¿No has confirmado edicto que cualquiera que pidiere á cualquier dios ú hombre en el espacio de treinta días, excepto á ti, oh rey, fuese echado en el foso de los leones? Respondió el rey y dijo: Verdad es, conforme á la ley de Media y de Persia, la cual no se abroga. ^^ 
+^[**6:12** Dan 3,10]
 
-^13^ Entonces respondieron y dijeron delante del rey: Daniel que es de los hijos de la cautividad de los Judíos, no ha hecho cuenta de ti, oh rey, ni del edicto que confirmaste; antes tres veces al día hace su petición. ^^ ^14^ El rey entonces, oyendo el negocio, pesóle en gran manera, y sobre Daniel puso cuidado para librarlo; y hasta puestas del sol trabajó para librarle. 
-^[**6:13** Dan 3,10]
+^13^ Entonces respondieron y dijeron delante del rey: Daniel que es de los hijos de la cautividad de los Judíos, no ha hecho cuenta de ti, oh rey, ni del edicto que confirmaste; antes tres veces al día hace su petición. ^14^ El rey entonces, oyendo el negocio, pesóle en gran manera, y sobre Daniel puso cuidado para librarlo; y hasta puestas del sol trabajó para librarle. 
 
 ^15^ Empero aquellos hombres se reunieron cerca del rey, y dijeron al rey: Sepas, oh rey, que es ley de Media y de Persia, que ningún decreto ú ordenanza que el rey confirmare pueda mudarse. 
 
@@ -227,22 +231,22 @@
 ^17^ Y fué traída una piedra, y puesta sobre la puerta del foso, la cual selló el rey con su anillo, y con el anillo de sus príncipes, porque el acuerdo acerca de Daniel no se mudase. ^18^ Fuése luego el rey á su palacio, y acostóse ayuno; ni instrumentos de música fueron traídos delante de él, y se le fué el sueño. 
 
 ## El rescate de Daniel; la alegría y la gracia del rey; Castigo de los envidiosos culpables
-^19^ El rey, por tanto, se levantó muy de mañana, y fué apriesa al foso de los leones: ^20^ Y llegándose cerca del foso llamó á voces á Daniel con voz triste: y hablando el rey dijo á Daniel: Daniel, siervo del Dios viviente, el Dios tuyo, á quien tú continuamente sirves ¿te ha podido librar de los leones? 
+^19^ El rey, por tanto, se levantó muy de mañana, y fué apriesa al foso de los leones: ^20^ Y llegándose cerca del foso llamó á voces á Daniel con voz triste: y hablando el rey dijo á Daniel: Daniel, siervo del Dios viviente, el Dios tuyo, á quien tú continuamente sirves ¿te ha podido librar de los leones? ^^
+^[**6:20** Dan 3,17]
 
-^21^ Entonces habló Daniel con el rey: oh rey, para siempre vive. ^^ ^22^ El Dios mío envió su ángel, el cual cerró la boca de los leones, para que no me hiciesen mal: porque delante de él se halló en mí justicia: y aun delante de ti, oh rey, yo no he hecho lo que no debiese. ^^ 
-^[**6:21** Dan 3,17] ^[**6:22** Dan 6,7]
+^21^ Entonces habló Daniel con el rey: oh rey, para siempre vive. ^^ ^22^ El Dios mío envió su ángel, el cual cerró la boca de los leones, para que no me hiciesen mal: porque delante de él se halló en mí justicia: y aun delante de ti, oh rey, yo no he hecho lo que no debiese. ^^
+ ^[**6:21** Dan 6,7] ^[**6:22** Dan 3,28; Heb 11,33]
 
-^23^ Entonces se alegró el rey en gran manera á causa de él, y mandó sacar á Daniel del foso: y fué Daniel sacado del foso, y ninguna lesión se halló en él, porque creyó en su Dios. ^^ 
-^[**6:23** Dan 3,28; Heb 11,33]
+^23^ Entonces se alegró el rey en gran manera á causa de él, y mandó sacar á Daniel del foso: y fué Daniel sacado del foso, y ninguna lesión se halló en él, porque creyó en su Dios. ^^
+^[**6:23** Sal 37,40]
 
-^24^ Y mandándolo el rey fueron traídos aquellos hombres que habían acusado á Daniel, y fueron echados en el foso de los leones, ellos, sus hijos, y sus mujeres; y aun no habían llegado al suelo del foso, cuando los leones se apoderaron de ellos, y quebrantaron todos sus huesos. ^^ 
-^[**6:24** Sal 37,40]
+^24^ Y mandándolo el rey fueron traídos aquellos hombres que habían acusado á Daniel, y fueron echados en el foso de los leones, ellos, sus hijos, y sus mujeres; y aun no habían llegado al suelo del foso, cuando los leones se apoderaron de ellos, y quebrantaron todos sus huesos.
 
 ## Reconocimiento de la grandeza del Dios de los judíos por un nuevo edicto real; Daniel permanece en una posición alta
 ^25^ Entonces el rey Darío escribió á todos los pueblos, naciones, y lenguas, que habitan en toda la tierra: Paz os sea multiplicada: 
 
-^26^ De parte mía es puesta ordenanza, que en todo el señorío de mi reino todos teman y tiemblen de la presencia del Dios de Daniel: porque él es el Dios viviente y permanente por todos los siglos, y su reino tal que no será deshecho, y su señorío hasta el fin. ^27^ Que salva y libra, y hace señales y maravillas en el cielo y en la tierra; el cual libró á Daniel del poder de los leones. ^^ 
-^[**6:27** Dan 3,33]
+^26^ De parte mía es puesta ordenanza, que en todo el señorío de mi reino todos teman y tiemblen de la presencia del Dios de Daniel: porque él es el Dios viviente y permanente por todos los siglos, y su reino tal que no será deshecho, y su señorío hasta el fin. ^^ ^27^ Que salva y libra, y hace señales y maravillas en el cielo y en la tierra; el cual libró á Daniel del poder de los leones. 
+^[**6:26** Dan 3,33]
 
 ^28^ Y este Daniel fué prosperado durante el reinado de Darío, y durante el reinado de Ciro, Persa. 
 
