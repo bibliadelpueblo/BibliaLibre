@@ -36,7 +36,7 @@
 
 # 3 
 ## Las tristes condiciones en Jerusalén
-^1^ ¡AY de la ciudad ensuciada y contaminada y opresora! ^2^ No escuchó la voz, ni recibió la disciplina: no se confió en Jehová, no se acercó á su Dios. 
+^1^ ¡Ay de la ciudad ensuciada y contaminada y opresora! ^2^ No escuchó la voz, ni recibió la disciplina: no se confió en Jehová, no se acercó á su Dios. 
 
 ^3^ Sus príncipes en medio de ella son leones bramadores: sus jueces, lobos de tarde que no dejan hueso para la mañana: ^^ ^4^ Sus profetas, livianos, hombres prevaricadores: sus sacerdotes contaminaron el santuario, falsearon la ley. ^^ ^5^ Jehová justo en medio de ella, no hará iniquidad: de mañana sacará á luz su juicio, nunca falta: mas el perverso no tiene vergüenza. 
 ^[**3:3** Ezeq 22,27] ^[**3:4** Miq 3,11]

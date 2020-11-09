@@ -5,7 +5,7 @@
 ## Queja de belleza de niña en riesgo
 ^5^ Morena soy, oh hijas de Jerusalem, mas codiciable; como las cabañas de Cedar, como las tiendas de Salomón. ^6^ No miréis en que soy morena, porque el sol me miró. Los hijos de mi madre se airaron contra mí, hiciéronme guarda de viñas; y mi viña, que era mía, no guardé. 
 
-## TSolicitud de la novia para una cita
+## Solicitud de la novia para una cita
 ^7^ Hazme saber, ó tú á quien ama mi alma, dónde repastas, dónde haces tener majada al medio día: porque, ¿por qué había yo de estar como vagueando tras los rebaños de tus compañeros? ^8^ Si tú no lo sabes, oh hermosa entre las mujeres, sal, yéndote por las huellas del rebaño, y apacienta tus cabritas junto á las cabañas de los pastores. 
 
 ## Dulce charla de amor
@@ -62,7 +62,7 @@
 ^14^ Sus manos, como anillos de oro engastados de jacintos: su vientre, como claro marfil cubierto de zafiros. ^15^ Sus piernas, como columnas de mármol fundadas sobre basas de fino oro: su aspecto como el Líbano, escogido como los cedros. ^16^ Su paladar, dulcísimo: y todo él codiciable. Tal es mi amado, tal es mi amigo, oh doncellas de Jerusalem. 
 
 # 6 
-^1^ ¿DÓNDE se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿Adónde se apartó tu amado, y le buscaremos contigo? ^2^ Mi amado descendió á su huerto, á las eras de los aromas, para apacentar en los huertos, y para coger los lirios. ^^ ^3^ Yo soy de mi amado, y mi amado es mío: él apacienta entre los lirios. ^^ 
+^1^ ¿Dónde se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿Adónde se apartó tu amado, y le buscaremos contigo? ^2^ Mi amado descendió á su huerto, á las eras de los aromas, para apacentar en los huertos, y para coger los lirios. ^^ ^3^ Yo soy de mi amado, y mi amado es mío: él apacienta entre los lirios. ^^ 
 ^[**6:2** Cant 4,6] ^[**6:3** Cant 2,16]
 
 ## Descripción de la novia por el novio
@@ -74,7 +74,7 @@
 
 # 7 
 ## Descripción del baile de la novia; Alabado sea su belleza
-^1^ ¡CUÁN hermosos son tus pies en los calzados, oh hija de príncipe! Los contornos de tus muslos son como joyas, obra de mano de excelente maestro. ^2^ Tu ombligo, como una taza redonda, que no le falta bebida. Tu vientre, como montón de trigo, cercado de lirios. ^3^ Tus dos pechos, como dos cabritos mellizos de gama. ^4^ Tu cuello, como torre de marfil; tus ojos, como las pesqueras de Hesbón junto á la puerta de Batrabbim; tu nariz, como la torre del Líbano, que mira hacia Damasco. ^^ ^5^ Tu cabeza encima de ti, como el Carmelo; y el cabello de tu cabeza, como la púrpura del rey ligada en los corredores. ^^ ^6^ ¡Qué hermosa eres, y cuán suave, oh amor deleitoso! 
+^1^ ¡Cuán hermosos son tus pies en los calzados, oh hija de príncipe! Los contornos de tus muslos son como joyas, obra de mano de excelente maestro. ^2^ Tu ombligo, como una taza redonda, que no le falta bebida. Tu vientre, como montón de trigo, cercado de lirios. ^3^ Tus dos pechos, como dos cabritos mellizos de gama. ^4^ Tu cuello, como torre de marfil; tus ojos, como las pesqueras de Hesbón junto á la puerta de Batrabbim; tu nariz, como la torre del Líbano, que mira hacia Damasco. ^^ ^5^ Tu cabeza encima de ti, como el Carmelo; y el cabello de tu cabeza, como la púrpura del rey ligada en los corredores. ^^ ^6^ ¡Qué hermosa eres, y cuán suave, oh amor deleitoso! 
 ^[**7:4** Cant 4,5] ^[**7:5** Cant 4,4]
 
 ## El novio alaba a la novia
@@ -87,7 +87,7 @@
 
 # 8 
 ## Amante y hermano
-^1^ ¡OH quién te me diese como hermano que mamó los pechos de mi madre; de modo que te halle yo fuera, y te bese, y no me menosprecien! ^2^ Yo te llevaría, te metiera en casa de mi madre: tú me enseñarías, y yo te hiciera beber vino adobado del mosto de mis granadas. ^^ ^3^ Su izquierda esté debajo de mi cabeza, y su derecha me abrace. ^^ ^4^ Conjúroos, oh doncellas de Jerusalem, que no despertéis, ni hagáis velar al amor, hasta que quiera. ^^ 
+^1^ ¡Oh quién te me diese como hermano que mamó los pechos de mi madre; de modo que te halle yo fuera, y te bese, y no me menosprecien! ^2^ Yo te llevaría, te metiera en casa de mi madre: tú me enseñarías, y yo te hiciera beber vino adobado del mosto de mis granadas. ^^ ^3^ Su izquierda esté debajo de mi cabeza, y su derecha me abrace. ^^ ^4^ Conjúroos, oh doncellas de Jerusalem, que no despertéis, ni hagáis velar al amor, hasta que quiera. ^^ 
 ^[**8:2** Cant 3,4] ^[**8:3** Cant 2,6] ^[**8:4** Cant 2,7]
 
 ## En el destino en la casa del esposo

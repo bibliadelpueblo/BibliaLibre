@@ -25,7 +25,7 @@
 
 # 3 
 ## Los pecados y el castigo de la cosmopolita ciudad de Nínive: un grito de aflicción y un cántico de burla
-^1^ ¡AY de la ciudad de sangres, toda llena de mentira y de rapiña, sin apartarse de ella el pillaje! ^2^ Sonido de látigo, y estruendo de movimiento de ruedas; y caballo atropellador, y carro saltador; ^3^ Caballero enhiesto, y resplandor de espada, y resplandor de lanza; y multitud de muertos, y multitud de cadáveres; y de sus cadáveres no habrá fin, y en sus cadáveres tropezarán: ^4^ A causa de la multitud de las fornicaciones de la ramera de hermosa gala, maestra de brujerías, que vende las gentes con sus fornicaciones, y los pueblos con sus hechizos. ^^ 
+^1^ ¡Ay de la ciudad de sangres, toda llena de mentira y de rapiña, sin apartarse de ella el pillaje! ^2^ Sonido de látigo, y estruendo de movimiento de ruedas; y caballo atropellador, y carro saltador; ^3^ Caballero enhiesto, y resplandor de espada, y resplandor de lanza; y multitud de muertos, y multitud de cadáveres; y de sus cadáveres no habrá fin, y en sus cadáveres tropezarán: ^4^ A causa de la multitud de las fornicaciones de la ramera de hermosa gala, maestra de brujerías, que vende las gentes con sus fornicaciones, y los pueblos con sus hechizos. ^^ 
 ^[**3:4** Is 23,16; Apoc 17,-1]
 
 ^5^ Heme aquí contra ti, dice Jehová de los ejércitos, y descubriré tus faldas en tu cara, y mostraré á las gentes tu desnudez, y á los reinos tu vergüenza. ^^ ^6^ Y echaré sobre ti suciedades, y te afrentaré, y te pondré como estiércol. ^7^ Y será que todos los que te vieren, se apartarán de ti, y dirán: Nínive es asolada: ¿quién se compadecerá de ella? ¿dónde te buscaré consoladores? 

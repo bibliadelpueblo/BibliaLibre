@@ -4,7 +4,7 @@
 ^[**1:2** 1Jn 1,1-4] ^[**1:3** Hech 1,1; Col 4,14]
 
 ## Anuncio del nacimiento de Juan el Bautista
-^5^ HUBO en los días de Herodes, rey de Judea, un sacerdote llamado Zacarías, de la suerte de Abías; y su mujer, de las hijas de Aarón, llamada Elisabet. ^^ ^6^ Y eran ambos justos delante de Dios, andando sin reprensión en todos los mandamientos y estatutos del Señor. ^7^ Y no tenían hijo, porque Elisabet era estéril, y ambos eran avanzados en días. 
+^5^ Hubo en los días de Herodes, rey de Judea, un sacerdote llamado Zacarías, de la suerte de Abías; y su mujer, de las hijas de Aarón, llamada Elisabet. ^^ ^6^ Y eran ambos justos delante de Dios, andando sin reprensión en todos los mandamientos y estatutos del Señor. ^7^ Y no tenían hijo, porque Elisabet era estéril, y ambos eran avanzados en días. 
 ^[**1:5** 1Cró 24,10; 1Cró 24,19]
 
 ^8^ Y aconteció que ejerciendo Zacarías el sacerdocio delante de Dios por el orden de su vez, ^9^ Conforme á la costumbre del sacerdocio, salió en suerte á poner el incienso, entrando en el templo del Señor. ^10^ Y toda la multitud del pueblo estaba fuera orando á la hora del incienso. 
@@ -68,7 +68,7 @@
 ^6^ Y aconteció que estando ellos allí, se cumplieron los días en que ella había de parir. ^7^ Y parió á su hijo primogénito, y le envolvió en pañales, y acostóle en un pesebre, porque no había lugar para ellos en el mesón. 
 
 ## Los pastores en el campo y la aparición angelical
-^8^ Y había pastores en la misma tierra, que velaban y guardaban las vigilias de la noche sobre su ganado. ^9^ Y he aquí el ángel del Señor vino sobre ellos, y la claridad de Dios los cercó de resplandor; y tuvieron gran temor. ^10^ Mas el ángel les dijo: No temáis; porque he aquí os doy nuevas de gran gozo, que será para todo el pueblo: ^11^ Que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor. ^12^ Y esto os será por señal: hallaréis al niño envuelto en pañales, echado en un pesebre. ^13^ Y repentinamente fué con el ángel una multitud de los ejércitos celestiales, que alababan á Dios, y decían: ^^ ^14^ Gloria en las alturas á Dios, y en la tierra paz, buena voluntad para con los hombres. ^^ 
+^8^ Y había pastores en la misma tierra, que velaban y guardaban las vigilias de la noche sobre su ganado. ^9^ Y he aquí el ángel del Señor vino sobre ellos, y la claridad de Dios los cercó de resplandor; y tuvieron gran temor. ^10^ Mas el ángel les dijo: No temáis; porque he aquí os doy nuevas de gran gozo, que será para todo el pueblo: ^11^ Que os ha nacido hoy, en la ciudad de David, un Salvador, que es Cristo el Señor. ^12^ Y esto os será por señal: hallaréis al niño envuelto en pañales, echado en un pesebre. ^13^ Y repentinamente fué con el ángel una multitud de los ejércitos celestiales, que alababan á Dios, y decían: ^^ ^14^ Gloria en las alturas á Dios, y en la tierra paz, buena voluntad para con los hombres. ^^ 
 ^[**2:13** Sal 103,20-21; Dan 7,10] ^[**2:14** Luc 19,38; Is 57,19; Efes 2,14; Efes 2,17]
 
 ## Los pastores con el niño Jesús en Belén
@@ -755,7 +755,7 @@
 
 # 17 
 ## Advertencia contra la seducción y recordatorio de perdonar
-^1^ Y á SUS discípulos dice: Imposible es que no vengan escándalos; mas ¡ay de aquél por quien vienen! ^2^ Mejor le fuera, si le pusiesen al cuello una piedra de molino, y le lanzasen en el mar, que escandalizar á uno de estos pequeñitos. ^3^ Mirad por vosotros: si pecare contra ti tu hermano, repréndele; y si se arrepintiere, perdónale. ^4^ Y si siete veces al día pecare contra ti, y siete veces al día se volviere á ti, diciendo, pésame, perdónale. ^^ 
+^1^ Y á sus discípulos dice: Imposible es que no vengan escándalos; mas ¡ay de aquél por quien vienen! ^2^ Mejor le fuera, si le pusiesen al cuello una piedra de molino, y le lanzasen en el mar, que escandalizar á uno de estos pequeñitos. ^3^ Mirad por vosotros: si pecare contra ti tu hermano, repréndele; y si se arrepintiere, perdónale. ^4^ Y si siete veces al día pecare contra ti, y siete veces al día se volviere á ti, diciendo, pésame, perdónale. ^^ 
 ^[**17:4** Mat 18,15; Mat 18,21-22]
 
 ## Del poder de la fe

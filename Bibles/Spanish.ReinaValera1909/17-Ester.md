@@ -147,7 +147,7 @@
 
 # 8 
 ## El regalo de Ester y la exaltación de Mardochai por parte del rey
-^1^ El MISMO día dió el rey Assuero á la reina Esther la casa de Amán enemigo de los Judíos; y Mardochêo vino delante del rey, porque Esther le declaró lo que era respecto de ella. ^2^ Y quitóse el rey su anillo que había vuelto á tomar de Amán, y diólo á Mardochêo. Y Esther puso á Mardochêo sobre la casa de Amán. ^^ 
+^1^ El mismo día dió el rey Assuero á la reina Esther la casa de Amán enemigo de los Judíos; y Mardochêo vino delante del rey, porque Esther le declaró lo que era respecto de ella. ^2^ Y quitóse el rey su anillo que había vuelto á tomar de Amán, y diólo á Mardochêo. Y Esther puso á Mardochêo sobre la casa de Amán. ^^ 
 ^[**8:2** Est 3,10]
 
 ## Establecer y promulgar medidas de protección para los judíos contra sus enemigos

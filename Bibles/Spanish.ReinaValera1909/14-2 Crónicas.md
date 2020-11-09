@@ -499,7 +499,7 @@
 
 # 24 
 ## El gobierno del rey Joás
-^1^ De SIETE años era Joas cuando comenzó á reinar, y cuarenta años reinó en Jerusalem. El nombre de su madre fué Sibia, de Beer-seba. ^2^ E hizo Joas lo recto en ojos de Jehová todos los días de Joiada el sacerdote. ^3^ Y tomó para él Joiada dos mujeres; y engendró hijos é hijas. 
+^1^ De siete años era Joas cuando comenzó á reinar, y cuarenta años reinó en Jerusalem. El nombre de su madre fué Sibia, de Beer-seba. ^2^ E hizo Joas lo recto en ojos de Jehová todos los días de Joiada el sacerdote. ^3^ Y tomó para él Joiada dos mujeres; y engendró hijos é hijas. 
 
 ## Reparando el templo; Ordenanza sobre la administración y el uso del dinero entrante para el templo
 ^4^ Después de esto aconteció que Joas tuvo voluntad de reparar la casa de Jehová. ^5^ Y juntó los sacerdotes y los Levitas, y díjoles: Salid por las ciudades de Judá, y juntad dinero de todo Israel, para que cada año sea reparada la casa de vuestro Dios; y vosotros poned diligencia en el negocio. Mas los Levitas no pusieron diligencia. ^6^ Por lo cual el rey llamó á Joiada el principal, y díjole: ¿Por qué no has procurado que los Levitas traigan de Judá y de Jerusalem al tabernáculo del testimonio, la ofrenda que impuso Moisés siervo de Jehová, y de la congregación de Israel? ^^ ^7^ Porque la impía Athalía y sus hijos habían destruído la casa de Dios, y además habían gastado en los ídolos todas las cosas consagradas á la casa de Jehová. ^^ 
@@ -527,7 +527,7 @@
 
 # 25 
 ## El gobierno del rey Amasías; Buen comienzo para el gobierno
-^1^ De VEINTICINCO años era Amasías cuando comenzó á reinar, y veintinueve años reinó en Jerusalem: el nombre de su madre fué Joaddan, de Jerusalem. ^2^ Hizo él lo recto en los ojos de Jehová aunque no de perfecto corazón. ^3^ Y luego que fué confirmado en el reino, mató á sus siervos que habían muerto al rey su padre; ^4^ Mas no mató á los hijos de ellos, según lo que está escrito en la ley en el libro de Moisés, donde Jehová mandó, diciendo: No morirán los padres por los hijos, ni los hijos por los padres; mas cada uno morirá por su pecado. ^^ 
+^1^ De veinticinco años era Amasías cuando comenzó á reinar, y veintinueve años reinó en Jerusalem: el nombre de su madre fué Joaddan, de Jerusalem. ^2^ Hizo él lo recto en los ojos de Jehová aunque no de perfecto corazón. ^3^ Y luego que fué confirmado en el reino, mató á sus siervos que habían muerto al rey su padre; ^4^ Mas no mató á los hijos de ellos, según lo que está escrito en la ley en el libro de Moisés, donde Jehová mandó, diciendo: No morirán los padres por los hijos, ni los hijos por los padres; mas cada uno morirá por su pecado. ^^ 
 ^[**25:4** Deut 24,16]
 
 ## La victoria de Amasías sobre los edomitas después de que los mercenarios israelitas fueran devueltos; la venganza de estas tropas
@@ -583,14 +583,14 @@
 
 # 27 
 ## El gobierno del rey Jotam; Gobierno bueno y feliz; Edificios y guerras exitosas
-^1^ De VEINTICINCO años era Joatham cuando comenzó á reinar, y dieciséis años reinó en Jerusalem. El nombre de su madre fué Jerusa, hija de Sadoc. ^2^ E hizo lo recto en ojos de Jehová, conforme á todas las cosas que había hecho Uzzías su padre, salvo que no entró en el templo de Jehová. Y el pueblo falseaba aún. ^3^ Edificó él la puerta mayor de la casa de Jehová, y en el muro de la fortaleza edificó mucho. ^4^ Además edificó ciudades en las montañas de Judá, y labró palacios y torres en los bosques. ^^ 
+^1^ De veinticinco años era Joatham cuando comenzó á reinar, y dieciséis años reinó en Jerusalem. El nombre de su madre fué Jerusa, hija de Sadoc. ^2^ E hizo lo recto en ojos de Jehová, conforme á todas las cosas que había hecho Uzzías su padre, salvo que no entró en el templo de Jehová. Y el pueblo falseaba aún. ^3^ Edificó él la puerta mayor de la casa de Jehová, y en el muro de la fortaleza edificó mucho. ^4^ Además edificó ciudades en las montañas de Judá, y labró palacios y torres en los bosques. ^^ 
 ^[**27:4** 2Cró 26,10]
 
 ^5^ También tuvo él guerra con el rey de los hijos de Ammón, á los cuales venció; y diéronle los hijos de Ammón en aquel año cien talentos de plata, y diez mil coros de trigo, y diez mil de cebada. Esto le dieron los hijos de Ammón, y lo mismo en el segundo año, y en el tercero. ^6^ Así que Joatham fué fortificado, porque preparó sus caminos delante de Jehová su Dios. ^7^ Lo demás de los hechos de Joatham, y todas sus guerras, y sus caminos, he aquí está escrito en el libro de los reyes de Israel y de Judá. ^8^ Cuando comenzó á reinar era de veinticinco años, y dieciséis reinó en Jerusalem. ^9^ Y durmió Joatham con sus padres, y sepultáronlo en la ciudad de David; y reinó en su lugar Achâz su hijo. 
 
 # 28 
 ## El reinado del rey Acaz; Las abominaciones paganas de Acaz
-^1^ De VEINTE años era Achâz cuando comenzó á reinar, y dieciséis años reinó en Jerusalem: mas no hizo lo recto en ojos de Jehová, como David su padre. ^2^ Antes anduvo en los caminos de los reyes de Israel, y además hizo imágenes de fundición á los Baales. ^3^ Quemó también perfume en el valle de los hijos de Hinnom, y quemó sus hijos por fuego, conforme á las abominaciones de las gentes que Jehová había echado delante de los hijos de Israel. ^^ ^4^ Asimismo sacrificó y quemó perfumes en los altos, y en los collados, y debajo de todo árbol espeso. ^^ 
+^1^ De veinte años era Achâz cuando comenzó á reinar, y dieciséis años reinó en Jerusalem: mas no hizo lo recto en ojos de Jehová, como David su padre. ^2^ Antes anduvo en los caminos de los reyes de Israel, y además hizo imágenes de fundición á los Baales. ^3^ Quemó también perfume en el valle de los hijos de Hinnom, y quemó sus hijos por fuego, conforme á las abominaciones de las gentes que Jehová había echado delante de los hijos de Israel. ^^ ^4^ Asimismo sacrificó y quemó perfumes en los altos, y en los collados, y debajo de todo árbol espeso. ^^ 
 ^[**28:3** Deut 18,9-10; Deut 18,12] ^[**28:4** 1Re 14,23]
 
 ## Visitaciones severas de sirios e israelitas
@@ -732,7 +732,7 @@
 
 # 34 
 ## El gobierno del rey Josías
-^1^ De OCHO años era Josías cuando comenzó á reinar, y treinta y un años reinó en Jerusalem. ^2^ Este hizo lo recto en ojos de Jehová, y anduvo en los caminos de David su padre, sin apartarse á la diestra ni á la siniestra. ^^ 
+^1^ De ocho años era Josías cuando comenzó á reinar, y treinta y un años reinó en Jerusalem. ^2^ Este hizo lo recto en ojos de Jehová, y anduvo en los caminos de David su padre, sin apartarse á la diestra ni á la siniestra. ^^ 
 ^[**34:2** 2Re 22,1-2; 2Cró 29,2]
 
 ## Restauración del culto puro

@@ -132,7 +132,7 @@
 
 # 8 
 ## La conducta del sabio hacia el gobernante y en días de opresión
-^1^ ¿QUIÉN como el sabio? ¿y quién como el que sabe la declaración de las cosas? La sabiduría del hombre hará relucir su rostro, y mudaráse la tosquedad de su semblante. 
+^1^ ¿Quién como el sabio? ¿y quién como el que sabe la declaración de las cosas? La sabiduría del hombre hará relucir su rostro, y mudaráse la tosquedad de su semblante. 
 
 ^2^ Yo te aviso que guardes el mandamiento del rey y la palabra del juramento de Dios. ^3^ No te apresures á irte de delante de él, ni en cosa mala persistas; porque él hará todo lo que quisiere: ^4^ Pues la palabra del rey es con potestad, ¿y quién le dirá, Qué haces? ^5^ El que guarda el mandamiento no experimentará mal; y el tiempo y el juicio conoce el corazón del sabio. 
 

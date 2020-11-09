@@ -247,7 +247,7 @@
 
 # 9 
 ## Jeremías se desespera de su pueblo moralmente quebrantado
-^1^ ¡OH si mi cabeza se tornase aguas, y mis ojos fuentes de aguas, para que llore día y noche los muertos de la hija de mi pueblo! ^2^ ¡Oh quién me diese en el desierto un mesón de caminantes, para que dejase mi pueblo, y de ellos me apartase! Porque todos ellos son adúlteros, congregación de prevaricadores. ^3^ E hicieron que su lengua, como su arco, tirase mentira; y no se fortalecieron por verdad en la tierra: porque de mal en mal procedieron, y me han desconocido, dice Jehová. ^4^ Guárdese cada uno de su compañero, ni en ningún hermano tenga confianza: porque todo hermano engaña con falacia, y todo compañero anda con falsedades. ^5^ Y cada uno engaña á su compañero, y no hablan verdad: enseñaron su lengua á hablar mentira, se ocupan de hacer perversamente. ^6^ Tu morada es en medio de engaño; de muy engañadores no quisieron conocerme, dice Jehová. 
+^1^ ¡Oh si mi cabeza se tornase aguas, y mis ojos fuentes de aguas, para que llore día y noche los muertos de la hija de mi pueblo! ^2^ ¡Oh quién me diese en el desierto un mesón de caminantes, para que dejase mi pueblo, y de ellos me apartase! Porque todos ellos son adúlteros, congregación de prevaricadores. ^3^ E hicieron que su lengua, como su arco, tirase mentira; y no se fortalecieron por verdad en la tierra: porque de mal en mal procedieron, y me han desconocido, dice Jehová. ^4^ Guárdese cada uno de su compañero, ni en ningún hermano tenga confianza: porque todo hermano engaña con falacia, y todo compañero anda con falsedades. ^5^ Y cada uno engaña á su compañero, y no hablan verdad: enseñaron su lengua á hablar mentira, se ocupan de hacer perversamente. ^6^ Tu morada es en medio de engaño; de muy engañadores no quisieron conocerme, dice Jehová. 
 
 ^7^ Por tanto, así ha dicho Jehová de los ejércitos: He aquí que yo los fundiré, y los ensayaré; porque ¿cómo he de hacer por la hija de mi pueblo? ^8^ Saeta afilada es la lengua de ellos; engaño habla; con su boca habla paz con su amigo, y dentro de sí pone sus asechanzas. ^^ 
 ^[**9:8** Jer 5,9]
@@ -573,7 +573,7 @@
 
 # 23 
 ## Ay de los pastores infieles y la promesa del verdadero pastor de la casa de David
-^1^ ¡AY de los pastores que desperdician y derraman las ovejas de mi majada! dice Jehová. ^^ ^2^ Por tanto, así ha dicho Jehová Dios de Israel á los pastores que apacientan mi pueblo: Vosotros derramasteis mis ovejas, y las espantasteis, y no las habéis visitado: he aquí que yo visito sobre vosotros la maldad de vuestras obras, dice Jehová. ^3^ Y yo recogeré el resto de mis ovejas de todas las tierras adonde las eché, y harélas volver á sus moradas; y crecerán, y se multiplicarán. ^4^ Y pondré sobre ellas pastores que las apacienten; y no temerán más, ni se asombrarán, ni serán menoscabadas, dice Jehová. 
+^1^ ¡Ay de los pastores que desperdician y derraman las ovejas de mi majada! dice Jehová. ^^ ^2^ Por tanto, así ha dicho Jehová Dios de Israel á los pastores que apacientan mi pueblo: Vosotros derramasteis mis ovejas, y las espantasteis, y no las habéis visitado: he aquí que yo visito sobre vosotros la maldad de vuestras obras, dice Jehová. ^3^ Y yo recogeré el resto de mis ovejas de todas las tierras adonde las eché, y harélas volver á sus moradas; y crecerán, y se multiplicarán. ^4^ Y pondré sobre ellas pastores que las apacienten; y no temerán más, ni se asombrarán, ni serán menoscabadas, dice Jehová. 
 ^[**23:1** Ezeq 13,2-16; Ezeq 34,1-34; Zac 11,5]
 
 ## Promesa del brote de David

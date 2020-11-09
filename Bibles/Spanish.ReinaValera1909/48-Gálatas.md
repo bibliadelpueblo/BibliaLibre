@@ -47,7 +47,7 @@
 
 # 3 
 ## Referencia a la experiencia de los mismos Gálatas de que la recepción del Espíritu es el resultado de la fe
-^1^ ¡OH Gálatas insensatos! ¿quién os fascinó, para no obedecer á la verdad, ante cuyos ojos Jesucristo fué ya descrito como crucificado entre vosotros? ^2^ Esto solo quiero saber de vosotros: ¿Recibisteis el Espíritu por las obras de la ley, ó por el oir de la fe? ^3^ ¿Tan necios sois? ¿habiendo comenzado por el Espíritu, ahora os perfeccionáis por la carne? ^4^ ¿Tantas cosas habéis padecido en vano? si empero en vano. ^5^ Aquel, pues, que os daba el Espíritu, y obraba maravillas entre vosotros ¿hacíalo por las obras de la ley, ó por el oir de la fe? 
+^1^ ¡Oh Gálatas insensatos! ¿quién os fascinó, para no obedecer á la verdad, ante cuyos ojos Jesucristo fué ya descrito como crucificado entre vosotros? ^2^ Esto solo quiero saber de vosotros: ¿Recibisteis el Espíritu por las obras de la ley, ó por el oir de la fe? ^3^ ¿Tan necios sois? ¿habiendo comenzado por el Espíritu, ahora os perfeccionáis por la carne? ^4^ ¿Tantas cosas habéis padecido en vano? si empero en vano. ^5^ Aquel, pues, que os daba el Espíritu, y obraba maravillas entre vosotros ¿hacíalo por las obras de la ley, ó por el oir de la fe? 
 
 ## La justicia de la fe de Abraham nuestro ejemplo; el servicio de la ley trae la maldición, Cristo libera de la maldición de la ley
 ^6^ Como Abraham creyó á Dios, y le fué imputado á justicia. ^^ ^7^ Sabéis por tanto, que los que son de fe, los tales son hijos de Abraham. ^8^ Y viendo antes la Escritura que Dios por la fe había de justificar á los Gentiles, evangelizó antes á Abraham, diciendo: En ti serán benditas todas las naciones. ^9^ Luego los de la fe son benditos con el creyente Abraham. 

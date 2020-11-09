@@ -42,7 +42,7 @@
 
 # 3 
 ## La iglesia de Corinto como carta de recomendación para Pablo y Dios como base segura de confianza para el apóstol
-^1^ ¿COMENZAMOS otra vez á alabarnos á nosotros mismos? ¿ó tenemos necesidad, como algunos, de letras de recomendación para vosotros, ó de recomendación de vosotros? ^^ ^2^ Nuestras letras sois vosotros, escritas en nuestros corazones, sabidas y leídas de todos los hombres; ^^ ^3^ Siendo manifiesto que sois letra de Cristo administrada de nosotros, escrita no con tinta, mas con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas de carne del corazón. ^^ 
+^1^ ¿Comenzamos otra vez á alabarnos á nosotros mismos? ¿ó tenemos necesidad, como algunos, de letras de recomendación para vosotros, ó de recomendación de vosotros? ^^ ^2^ Nuestras letras sois vosotros, escritas en nuestros corazones, sabidas y leídas de todos los hombres; ^^ ^3^ Siendo manifiesto que sois letra de Cristo administrada de nosotros, escrita no con tinta, mas con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas de carne del corazón. ^^ 
 ^[**3:1** 2Cor 5,12] ^[**3:2** 1Cor 9,2] ^[**3:3** Éxod 24,12]
 
 ^4^ Y tal confianza tenemos por Cristo para con Dios: ^5^ No que seamos suficientes de nosotros mismos para pensar algo como de nosotros mismos, sino que nuestra suficiencia es de Dios; ^^ 
