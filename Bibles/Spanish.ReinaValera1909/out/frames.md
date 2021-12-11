@@ -6960,7 +6960,7 @@
 ^29^ ^^ ^[**5:29** Dan 2,48; Gén 41,42-43] \ 
 ## 6
 ^0^ 
-### El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios
+### El levantamiento de Daniel durante la reorganización de la administración del Reino por Darío; Envidia de sus compañeros funcionarios
 ^3^ ^^ ^[**6:3** Dan 5,12] \ ^5^ \ \ ^6^ 
 ### Los funcionarios celosos obtienen un decreto real sobre un ejercicio de oración único en el reino
 ^8^ ^^ ^9^ ^[**6:8** Dan 6,16; Est 1,19; Est 8,8] \ ^10^ 

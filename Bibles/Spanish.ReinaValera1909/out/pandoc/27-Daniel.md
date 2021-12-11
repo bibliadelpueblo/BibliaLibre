@@ -202,7 +202,7 @@
 
 \bibverse{30} La misma noche fué muerto Belsasar, rey de los Caldeos. \bibverse{31} Y Darío de Media tomó el reino, siendo de sesenta y dos años. 
 
-## El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios
+## El levantamiento de Daniel durante la reorganización de la administración del Reino por Darío; Envidia de sus compañeros funcionarios
 # 6 
 \bibverse{1} Pareció bien á Darío constituir sobre el reino ciento veinte gobernadores, que estuviesen en todo el reino. \bibverse{2} Y sobre ellos tres presidentes, de los cuales Daniel era el uno, á quienes estos gobernadores diesen cuenta, porque el rey no recibiese daño. \bibverse{3} Pero el mismo Daniel era superior á estos gobernadores y presidentes, porque había en él más abundancia de espíritu: y el rey pensaba de ponerlo sobre todo el reino. ^[**6:3** Dan 5,12]
 

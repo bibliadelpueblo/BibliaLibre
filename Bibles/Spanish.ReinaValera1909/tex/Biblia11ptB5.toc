@@ -3491,7 +3491,7 @@
 \contentsline {subsection}{Aparece la enigmática inscripción, que ningún sabio puede interpretar; por consejo de la reina madre, traen a Daniel}{948}{section.27.5}%
 \contentsline {subsection}{Las brillantes promesas del rey a Daniel; su interpretación del guión fantasma, su discurso de castigo y el anuncio de la desgracia}{949}{section.27.5}%
 \contentsline {subsection}{El honor de Daniel; final violento de Belsasar y su imperio}{950}{section.27.5}%
-\contentsline {subsection}{El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios}{950}{section.27.5}%
+\contentsline {subsection}{El levantamiento de Daniel durante la reorganización de la administración del Reino por Darío; Envidia de sus compañeros funcionarios}{950}{section.27.5}%
 \contentsline {section}{\numberline {6}6}{950}{section.27.6}%
 \contentsline {subsection}{Los funcionarios celosos obtienen un decreto real sobre un ejercicio de oración único en el reino}{950}{section.27.6}%
 \contentsline {subsection}{La transgresión del edicto de Daniel como resultado de su temor de Dios; su condena a pesar del dolor del rey}{951}{section.27.6}%
