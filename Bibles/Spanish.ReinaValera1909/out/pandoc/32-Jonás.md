@@ -1,6 +1,6 @@
 ## El llamado, la desobediencia y el castigo de Jonás
 # 1 
-\bibverse{1} Y FUÉ palabra de Jehová á Jonás, hijo de Amittai, diciendo: ^[**1:1** 2Re 14,25] \bibverse{2} Levántate, y ve á Nínive, ciudad grande, y pregona contra ella; porque su maldad ha subido delante de mí. 
+\bibverse{1} Y fué palabra de Jehová á Jonás, hijo de Amittai, diciendo: ^[**1:1** 2Re 14,25] \bibverse{2} Levántate, y ve á Nínive, ciudad grande, y pregona contra ella; porque su maldad ha subido delante de mí. 
 
 
 \bibverse{3} Y Jonás se levantó para huir de la presencia de Jehová á Tarsis, y descendió á Joppe; y halló un navío que partía para Tarsis; y pagando su pasaje entró en él, para irse con ellos á Tarsis de delante de Jehová. 
@@ -20,7 +20,7 @@
 
 ## Jonás oración y salvación
 # 2 
-\bibverse{1} MAS Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches. ^[**2:1** Mat 12,40; Mat 16,4] 
+\bibverse{1} Mas Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches. ^[**2:1** Mat 12,40; Mat 16,4] 
 
 
 \bibverse{2} Y oró Jonás desde el vientre del pez á Jehová su Dios, \bibverse{3} Y dijo: Clamé de mi tribulación á Jehová, y él me oyó; del vientre del sepulcro clamé, y mi voz oiste. \bibverse{4} Echásteme en el profundo, en medio de los mares, y rodeóme la corriente; todas tus ondas y tus olas pasaron sobre mí. ^[**2:4** Sal 42,8] \bibverse{5} Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo. ^[**2:5** Sal 31,23] \bibverse{6} Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza. ^[**2:6** Sal 18,5; Sal 69,2] \bibverse{7} Descendí á las raíces de los montes; la tierra echó sus cerraduras sobre mí para siempre: mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío. ^[**2:7** Sal 103,4] \bibverse{8} Cuando mi alma desfallecía en mí, acordéme de Jehová; y mi oración entró hasta ti en tu santo templo. ^[**2:8** Sal 142,4] \bibverse{9} Los que guardan las vanidades ilusorias, su misericordia abandonan. ^[**2:9** Sal 31,7] 
@@ -31,7 +31,7 @@
 
 ## Jonás exitoso sermón penitencial en Nínive
 # 3 
-\bibverse{1} Y FUÉ palabra de Jehová segunda vez á Jonás, diciendo: \bibverse{2} Levántate, y ve á Nínive, aquella gran ciudad, y publica en ella el pregón que yo te diré. 
+\bibverse{1} Y fué palabra de Jehová segunda vez á Jonás, diciendo: \bibverse{2} Levántate, y ve á Nínive, aquella gran ciudad, y publica en ella el pregón que yo te diré. 
 
 \bibverse{3} Y levantóse Jonás, y fué á Nínive, conforme á la palabra de Jehová. Y era Nínive ciudad sobremanera grande, de tres días de camino. ^[**3:3** Jon 4,11] \bibverse{4} Y comenzó Jonás á entrar por la ciudad, camino de un día, y pregonaba diciendo: De aquí á cuarenta días Nínive será destruída. 
 
@@ -44,7 +44,7 @@
 
 ## Jonás disgusto y reprensión
 # 4 
-\bibverse{1} PERO Jonás se apesadumbró en extremo, y enojóse. \bibverse{2} Y oró á Jehová, y dijo: Ahora, oh Jehová, ¿no es esto lo que yo decía estando aún en mi tierra? Por eso me precaví huyendo á Tarsis: porque sabía yo que tú eres Dios clemente y piadoso, tardo á enojarte, y de grande misericordia, y que te arrepientes del mal. ^[**4:2** Éxod 34,6] \bibverse{3} Ahora pues, oh Jehová, ruégote que me mates; porque mejor me es la muerte que la vida. ^[**4:3** 1Re 19,4] 
+\bibverse{1} Pero Jonás se apesadumbró en extremo, y enojóse. \bibverse{2} Y oró á Jehová, y dijo: Ahora, oh Jehová, ¿no es esto lo que yo decía estando aún en mi tierra? Por eso me precaví huyendo á Tarsis: porque sabía yo que tú eres Dios clemente y piadoso, tardo á enojarte, y de grande misericordia, y que te arrepientes del mal. ^[**4:2** Éxod 34,6] \bibverse{3} Ahora pues, oh Jehová, ruégote que me mates; porque mejor me es la muerte que la vida. ^[**4:3** 1Re 19,4] 
  
 
 \bibverse{4} Y Jehová le dijo: ¿Haces tú bien en enojarte tanto? ^[**4:4** Jon 4,9] 

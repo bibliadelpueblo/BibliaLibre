@@ -1,6 +1,6 @@
 ## Campañas y actos armados de los judíos en relación con los simeonitas
 # 1 
-<sup>1</sup> Y ACONTECIÓ después de la muerte de Josué, que los hijos de Israel consultaron á Jehová, diciendo: ¿Quién subirá por nosotros el primero á pelear contra los Cananeos? ^[**1:1** Jue 20,18] 
+<sup>1</sup> Y aconteció después de la muerte de Josué, que los hijos de Israel consultaron á Jehová, diciendo: ¿Quién subirá por nosotros el primero á pelear contra los Cananeos? ^[**1:1** Jue 20,18] 
 
 
 <sup>2</sup> Y Jehová respondió: Judá subirá; he aquí que yo he entregado la tierra en sus manos. 
@@ -30,11 +30,13 @@
 
 ## Panorama general de los territorios no conquistados
 <sup>27</sup> Tampoco Manasés echó á los de Beth-sean, ni á los de sus aldeas, ni á los de Taanach y sus aldeas, ni á los de Dor y sus aldeas, ni á los habitantes de Ibleam y sus aldeas, ni á los que habitaban en Megiddo y en sus aldeas: mas el Cananeo quiso habitar en esta tierra. <sup>28</sup> Empero cuando Israel tomó fuerzas hizo al Cananeo tributario, mas no lo echó. <sup>29</sup> Tampoco Ephraim echó al Cananeo que habitaba en Gezer; antes habitó el Cananeo en medio de ellos en Gezer. ^[**1:29** Jos 16,10] <sup>30</sup> Tampoco Zabulón echó á los que habitaban en Chîtron y á los que habitaban en Naalol; mas el Cananeo habitó en medio de él, y le fueron tributarios. ^[**1:30** Jos 19,15] <sup>31</sup> Tampoco Aser echó á los que habitaban en Achô, y á los que habitaban en Sidón, y en Ahlab, y en Achzib, y en Helba, y en Aphec, y en Rehod: <sup>32</sup> Antes moró Aser entre los Cananeos que habitaban en la tierra; pues no los echó. <sup>33</sup> Tampoco Nephtalí echó á los que habitaban en Beth-semes, y á los que habitaban en Beth-anath, sino que moró entre los Cananeos que habitaban en la tierra; mas fuéronle tributarios los moradores de Beth-semes, y los moradores de Beth-anath. ^[**1:33** Jos 19,38] 
-  <sup>34</sup> Los Amorrheos apretaron á los hijos de Dan hasta el monte; que no los dejaron descender á la campiña. <sup>35</sup> Y quiso el Amorrheo habitar en el monte de Heres, en Ajalón y en Saalbín; mas como la mano de la casa de José tomó fuerzas, hiciéronlos tributarios. <sup>36</sup> Y el término del Amorrheo fué desde la subida de Acrabim, desde la piedra, y arriba. 
+  
+
+<sup>34</sup> Los Amorrheos apretaron á los hijos de Dan hasta el monte; que no los dejaron descender á la campiña. <sup>35</sup> Y quiso el Amorrheo habitar en el monte de Heres, en Ajalón y en Saalbín; mas como la mano de la casa de José tomó fuerzas, hiciéronlos tributarios. <sup>36</sup> Y el término del Amorrheo fué desde la subida de Acrabim, desde la piedra, y arriba. 
 
 ## La amenaza de castigo del ángel del Señor contra Israel por violar el deber del pacto
 # 2 
-<sup>1</sup> Y El ángel de Jehová subió de Gilgal á Bochîm, y dijo: Yo os saqué de Egipto, y os introduje en la tierra de la cual había jurado á vuestros padres; y dije: No invalidaré jamás mi pacto con vosotros; <sup>2</sup> Con tal que vosotros no hagáis alianza con los moradores de aquesta tierra, cuyos altares habéis de derribar: mas vosotros no habéis atendido á mi voz: ¿por qué habéis hecho esto? ^[**2:2** Deut 7,2-5] <sup>3</sup> Por tanto yo también dije: No los echaré de delante de vosotros, sino que os serán por azote para vuestros costados, y sus dioses por tropiezo. ^[**2:3** Jos 23,13] 
+<sup>1</sup> Y el ángel de Jehová subió de Gilgal á Bochîm, y dijo: Yo os saqué de Egipto, y os introduje en la tierra de la cual había jurado á vuestros padres; y dije: No invalidaré jamás mi pacto con vosotros; <sup>2</sup> Con tal que vosotros no hagáis alianza con los moradores de aquesta tierra, cuyos altares habéis de derribar: mas vosotros no habéis atendido á mi voz: ¿por qué habéis hecho esto? ^[**2:2** Deut 7,2-5] <sup>3</sup> Por tanto yo también dije: No los echaré de delante de vosotros, sino que os serán por azote para vuestros costados, y sus dioses por tropiezo. ^[**2:3** Jos 23,13] 
  
 
 <sup>4</sup> Y como el ángel de Jehová habló estas palabras á todos los hijos de Israel, el pueblo lloró en alta voz. <sup>5</sup> Y llamaron por nombre aquel lugar Bochîm: y sacrificaron allí á Jehová. 
@@ -45,11 +47,13 @@
 
 ## Alternancia regular de apostasía y castigo, arrepentimiento y salvación; ira de Dios
 <sup>13</sup> Y dejaron á Jehová, y adoraron á Baal y á Astaroth. <sup>14</sup> Y el furor de Jehová se encendió contra Israel, el cual los entregó en manos de robadores que los despojaron, y los vendió en manos de sus enemigos de alrededor: y no pudieron parar más delante de sus enemigos. <sup>15</sup> Por donde quiera que salían, la mano de Jehová era contra ellos para mal, como Jehová había dicho, y como Jehová se lo había jurado; así los afligió en gran manera. ^[**2:15** Lev 26,17; Deut 28,20] <sup>16</sup> Mas Jehová suscitó jueces que los librasen de mano de los que los despojaban. ^[**2:16** Hech 13,20] <sup>17</sup> Y tampoco oyeron á sus jueces, sino que fornicaron tras dioses ajenos, á los cuales adoraron: apartáronse bien presto del camino en que anduvieron sus padres obedeciendo á los mandamientos de Jehová; mas ellos no hicieron así. <sup>18</sup> Y cuando Jehová les suscitaba jueces, Jehová era con el juez, y librábalos de mano de los enemigos todo el tiempo de aquel juez: porque Jehová se arrepentía por sus gemidos á causa de los que los oprimían y afligían. <sup>19</sup> Mas en muriendo el juez, ellos se tornaban, y se corrompían más que sus padres, siguiendo dioses ajenos para servirles, é inclinándose delante de ellos; y nada disminuían de sus obras, ni de su duro camino. <sup>20</sup> Y la ira de Jehová se encendió contra Israel, y dijo: Pues que esta gente traspasa mi pacto que ordené á sus padres, y no obedecen mi voz, <sup>21</sup> Tampoco yo echaré más de delante de ellos á ninguna de aquestas gentes que dejó Josué cuando murió; <sup>22</sup> Para que por ellas probara yo á Israel, si guardarían ellos el camino de Jehová andando por él, como sus padres lo guardaron, ó no. ^[**2:22** Jue 3,1; Jue 3,4; Deut 8,2] 
-  <sup>23</sup> Por esto dejó Jehová aquellas gentes, y no las desarraigó luego, ni las entregó en mano de Josué. 
+  
+
+<sup>23</sup> Por esto dejó Jehová aquellas gentes, y no las desarraigó luego, ni las entregó en mano de Josué. 
 
 ## Indicación de los pueblos paganos que permanecieron en Canaán, cuyo Dios usó a los israelitas para probar y guiar
 # 3 
-<sup>1</sup> ESTAS, pues, son las gentes que dejó Jehová para probar con ellas á Israel, á todos aquellos que no habían conocido todas las guerras de Canaán; <sup>2</sup> Para que al menos el linaje de los hijos de Israel conociese, para enseñarlos en la guerra, siquiera fuese á los que antes no la habían conocido: <sup>3</sup> Cinco príncipes de los Philisteos, y todos los Cananeos, y los Sidonios, y los Heveos que habitaban en el monte Líbano: desde el monte de Baal-hermón hasta llegar á Hamath. ^[**3:3** Jos 13,3] <sup>4</sup> Estos pues fueron para probar por ellos á Israel, para saber si obedecerían á los mandamientos de Jehová, que él había prescrito á sus padres por mano de Moisés. <sup>5</sup> Así los hijos de Israel habitaban entre los Cananeos, Hetheos, Amorrheos, Pherezeos, Heveos, y Jebuseos: <sup>6</sup> Y tomaron de sus hijas por mujeres, y dieron sus hijas á los hijos de ellos, y sirvieron á sus dioses. 
+<sup>1</sup> Estas, pues, son las gentes que dejó Jehová para probar con ellas á Israel, á todos aquellos que no habían conocido todas las guerras de Canaán; <sup>2</sup> Para que al menos el linaje de los hijos de Israel conociese, para enseñarlos en la guerra, siquiera fuese á los que antes no la habían conocido: <sup>3</sup> Cinco príncipes de los Philisteos, y todos los Cananeos, y los Sidonios, y los Heveos que habitaban en el monte Líbano: desde el monte de Baal-hermón hasta llegar á Hamath. ^[**3:3** Jos 13,3] <sup>4</sup> Estos pues fueron para probar por ellos á Israel, para saber si obedecerían á los mandamientos de Jehová, que él había prescrito á sus padres por mano de Moisés. <sup>5</sup> Así los hijos de Israel habitaban entre los Cananeos, Hetheos, Amorrheos, Pherezeos, Heveos, y Jebuseos: <sup>6</sup> Y tomaron de sus hijas por mujeres, y dieron sus hijas á los hijos de ellos, y sirvieron á sus dioses. 
 
 
 ## Los primeros jueces: Otoniel, Ehud y Samgar
@@ -71,7 +75,7 @@
 
 ## El rey Jabín y su general Sísara esclavizaron a Israel
 # 4 
-<sup>1</sup> MAS los hijos de Israel tornaron á hacer lo malo en ojos de Jehová, después de la muerte de Aod. <sup>2</sup> Y Jehová los vendió en mano de Jabín rey de Canaán, el cual reinó en Asor: y el capitán de su ejército se llamaba Sísara, y él habitaba en Haroseth de las Gentes. <sup>3</sup> Y los hijos de Israel clamaron á Jehová, porque aquél tenía nuevecientos carros herrados: y había afligido en gran manera á los hijos de Israel por veinte años. 
+<sup>1</sup> Mas los hijos de Israel tornaron á hacer lo malo en ojos de Jehová, después de la muerte de Aod. <sup>2</sup> Y Jehová los vendió en mano de Jabín rey de Canaán, el cual reinó en Asor: y el capitán de su ejército se llamaba Sísara, y él habitaba en Haroseth de las Gentes. <sup>3</sup> Y los hijos de Israel clamaron á Jehová, porque aquél tenía nuevecientos carros herrados: y había afligido en gran manera á los hijos de Israel por veinte años. 
 
 ## La conexión de Debora y Barak; Barak dirige al ejército de las tribus del norte a la batalla en el monte Thabor
 <sup>4</sup> Y gobernaba en aquel tiempo á Israel una mujer, Débora, profetisa, mujer de Lapidoth: <sup>5</sup> La cual Débora habitaba debajo de una palma entre Rama y Beth-el, en el monte de Ephraim: y los hijos de Israel subían á ella á juicio. <sup>6</sup> Y ella envió á llamar á Barac hijo de Abinoam, de Cedes de Nephtalí, y díjole: ¿No te ha mandado Jehová Dios de Israel, diciendo: Ve, y haz gente en el monte de Tabor, y toma contigo diez mil hombres de los hijos de Nephtalí, y de los hijos de Zabulón: <sup>7</sup> Y yo atraeré á ti al arroyo de Cisón á Sísara, capitán del ejército de Jabín, con sus carros y su ejército, y entregarélo en tus manos? 
@@ -97,7 +101,7 @@
 
 ## La canción de la victoria de Debora y Barak
 # 5 
-<sup>1</sup> Y AQUEL día cantó Débora, con Barac, hijo de Abinoam, diciendo: <sup>2</sup> Porque ha vengado las injurias de Israel, porque el pueblo se ha ofrecido de su voluntad, load á Jehová. <sup>3</sup> Oid, reyes; estad, oh príncipes, atentos: yo cantaré á Jehová, cantaré salmos á Jehová Dios de Israel. 
+<sup>1</sup> Y aquel día cantó Débora, con Barac, hijo de Abinoam, diciendo: <sup>2</sup> Porque ha vengado las injurias de Israel, porque el pueblo se ha ofrecido de su voluntad, load á Jehová. <sup>3</sup> Oid, reyes; estad, oh príncipes, atentos: yo cantaré á Jehová, cantaré salmos á Jehová Dios de Israel. 
 
 ## Dios se acerca en una tormenta
 <sup>4</sup> Cuando saliste de Seir, oh Jehová, cuando te apartaste del campo de Edom, la tierra tembló, y los cielos destilaron, y las nubes gotearon aguas. ^[**5:4** Deut 33,2; Hab 3,3-6] <sup>5</sup> Los montes se derritieron delante de Jehová, aqueste Sinaí, delante de Jehová Dios de Israel. ^[**5:5** Sal 68,9] 
@@ -130,7 +134,7 @@
 
 ## La apostasía renovada del pueblo resulta en la esclavitud y el saqueo de los madianitas
 # 6 
-<sup>1</sup> MAS los hijos de Israel hicieron lo malo en los ojos de Jehová; y Jehová los entregó en las manos de Madián por siete años. <sup>2</sup> Y la mano de Madián prevaleció contra Israel. Y los hijos de Israel, por causa de los Madianitas, se hicieron cuevas en los montes, y cavernas, y lugares fuertes. <sup>3</sup> Pues como los de Israel habían sembrado, subían los Madianitas, y Amalecitas, y los orientales: subían contra ellos; <sup>4</sup> Y asentando campo contra ellos destruían los frutos de la tierra, hasta llegar á Gaza; y no dejaban qué comer en Israel, ni ovejas, ni bueyes, ni asnos. <sup>5</sup> Porque subían ellos y sus ganados, y venían con sus tiendas en grande multitud como langosta, que no había número en ellos ni en sus camellos: así venían á la tierra para devastarla. <sup>6</sup> Era pues Israel en gran manera empobrecido por los Madianitas; y los hijos de Israel clamaron á Jehová. 
+<sup>1</sup> Mas los hijos de Israel hicieron lo malo en los ojos de Jehová; y Jehová los entregó en las manos de Madián por siete años. <sup>2</sup> Y la mano de Madián prevaleció contra Israel. Y los hijos de Israel, por causa de los Madianitas, se hicieron cuevas en los montes, y cavernas, y lugares fuertes. <sup>3</sup> Pues como los de Israel habían sembrado, subían los Madianitas, y Amalecitas, y los orientales: subían contra ellos; <sup>4</sup> Y asentando campo contra ellos destruían los frutos de la tierra, hasta llegar á Gaza; y no dejaban qué comer en Israel, ni ovejas, ni bueyes, ni asnos. <sup>5</sup> Porque subían ellos y sus ganados, y venían con sus tiendas en grande multitud como langosta, que no había número en ellos ni en sus camellos: así venían á la tierra para devastarla. <sup>6</sup> Era pues Israel en gran manera empobrecido por los Madianitas; y los hijos de Israel clamaron á Jehová. 
 
 ## Discurso de castigo de un profeta
 <sup>7</sup> Y cuando los hijos de Israel hubieron clamado á Jehová, á causa de los Madianitas, <sup>8</sup> Jehová envió un varón profeta á los hijos de Israel, el cual les dijo: Así ha dicho Jehová Dios de Israel: Yo os hice salir de Egipto, y os saqué de la casa de servidumbre: <sup>9</sup> Yo os libré de mano de los Egipcios, y de mano de todos los que os afligieron, á los cuales eché de delante de vosotros, y os dí su tierra; <sup>10</sup> Y díjeos: Yo soy Jehová vuestro Dios; no temáis á los dioses de los Amorrheos, en cuya tierra habitáis: mas no habéis obedecido á mi voz. 
@@ -186,7 +190,7 @@
 
 ## La victoria de Gedeón sobre los madianitas
 # 7 
-<sup>1</sup> LEVANTÁNDOSE pues de mañana Jerobaal, el cual es Gedeón, y todo el pueblo que estaba con él, asentaron el campo junto á la fuente de Harod: y tenía el campo de los Madianitas al norte, de la otra parte del collado de More, en el valle. 
+<sup>1</sup> Levantándose pues de mañana Jerobaal, el cual es Gedeón, y todo el pueblo que estaba con él, asentaron el campo junto á la fuente de Harod: y tenía el campo de los Madianitas al norte, de la otra parte del collado de More, en el valle. 
 
 ## La fuerza de Gideon se reduce a 300 hombres a través de dos avistamientos.
 <sup>2</sup> Y Jehová dijo á Gedeón: El pueblo que está contigo es mucho para que yo dé á los Madianitas en su mano: porque no se alabe Israel contra mí, diciendo: Mi mano me ha salvado. <sup>3</sup> Haz pues ahora pregonar, que lo oiga el pueblo, diciendo: El que teme y se estremece, madrugue y vuélvase desde el monte de Galaad. Y volviéronse de los del pueblo veintidós mil: y quedaron diez mil. ^[**7:3** Deut 20,8] 
@@ -219,7 +223,7 @@
 <sup>23</sup> Y juntándose los de Israel, de Nephtalí, y de Aser, y de todo Manasés, siguieron á los Madianitas. <sup>24</sup> Gedeón también envió mensajeros á todo el monte de Ephraim, diciendo: Descended al encuentro de los Madianitas, y tomadles las aguas hasta Beth-bara y el Jordán. Y juntos todos los hombres de Ephraim, tomaron las aguas de Beth-bara y el Jordán. <sup>25</sup> Y tomaron dos príncipes de los Madianitas, Oreb y Zeeb: y mataron á Oreb en la peña de Oreb, y á Zeeb lo mataron en el lagar de Zeeb: y después que siguieron á los Madianitas, trajeron las cabezas de Oreb y de Zeeb á Gedeón de la otra parte del Jordán. 
 
 # 8 
-<sup>1</sup> Y LOS de Ephraim le dijeron: ¿Qué es esto que has hecho con nosotros, no llamándonos cuando ibas á la guerra contra Madián? Y reconviniéronlo fuertemente. ^[**8:1** Jue 12,1] <sup>2</sup> A los cuales él respondió: ¿Qué he hecho yo ahora como vosotros? ¿No es el rebusco de Ephraim mejor que la vendimia de Abiezer? ^[**8:2** Jue 6,11; Jue 6,15] <sup>3</sup> Dios ha entregado en vuestras manos á Oreb y á Zeeb, príncipes de Madián: ¿y qué pude yo hacer como vosotros? Entonces el enojo de ellos contra él se aplacó, luego que él habló esta palabra. 
+<sup>1</sup> Y los de Ephraim le dijeron: ¿Qué es esto que has hecho con nosotros, no llamándonos cuando ibas á la guerra contra Madián? Y reconviniéronlo fuertemente. ^[**8:1** Jue 12,1] <sup>2</sup> A los cuales él respondió: ¿Qué he hecho yo ahora como vosotros? ¿No es el rebusco de Ephraim mejor que la vendimia de Abiezer? ^[**8:2** Jue 6,11; Jue 6,15] <sup>3</sup> Dios ha entregado en vuestras manos á Oreb y á Zeeb, príncipes de Madián: ¿y qué pude yo hacer como vosotros? Entonces el enojo de ellos contra él se aplacó, luego que él habló esta palabra. 
  
 
 ## La solicitud de Gedeón en Sukkoth y Pnuel fue rechazada cruelmente
@@ -260,7 +264,7 @@
 
 ## El fratricidio de Abimelec en Ofra y su reinado en Siquem
 # 9 
-<sup>1</sup> Y FUÉSE Abimelech hijo de Jerobaal á Sichêm, á los hermanos de su madre, y habló con ellos, y con toda la familia de la casa del padre de su madre, diciendo: ^[**9:1** Jue 8,31] <sup>2</sup> Yo os ruego que habléis á oídos de todos los de Sichêm: ¿Qué tenéis por mejor, que os señoreen setenta hombres, todos los hijos de Jerobaal; ó que os señoree un varón? Acordaos que yo soy hueso vuestro, y carne vuestra. 
+<sup>1</sup> Y fuése Abimelech hijo de Jerobaal á Sichêm, á los hermanos de su madre, y habló con ellos, y con toda la familia de la casa del padre de su madre, diciendo: ^[**9:1** Jue 8,31] <sup>2</sup> Yo os ruego que habléis á oídos de todos los de Sichêm: ¿Qué tenéis por mejor, que os señoreen setenta hombres, todos los hijos de Jerobaal; ó que os señoree un varón? Acordaos que yo soy hueso vuestro, y carne vuestra. 
 
 
 <sup>3</sup> Y hablaron por él los hermanos de su madre á oídos de todos los de Sichêm todas estas palabras: y el corazón de ellos se inclinó en favor de Abimelech, porque decían: Nuestro hermano es. <sup>4</sup> Y diéronle setenta siclos de plata del templo de Baal-berith, con los cuales Abimelech alquiló hombres ociosos y vagabundos, que le siguieron. ^[**9:4** Jue 8,33] <sup>5</sup> Y viniendo á la casa de su padre en Ophra, mató á sus hermanos los hijos de Jerobaal, setenta varones, sobre una piedra: mas quedó Jotham, el más pequeño hijo de Jerobaal, que se escondió. <sup>6</sup> Y reunidos todos los de Sichêm con toda la casa de Millo, fueron y eligieron á Abimelech por rey, cerca de la llanura del pilar que estaba en Sichêm. 
@@ -319,7 +323,7 @@
 
 ## Los jueces Thola y Jair
 # 10 
-<sup>1</sup> Y DESPUÉS de Abimelech levantóse para librar á Israel, Tola hijo de Púa, hijo de Dodo, varón de Issachâr, el cual habitaba en Samir, en el monte de Ephraim. <sup>2</sup> Y juzgó á Israel veintitrés años, y murió, y fué sepultado en Samir. 
+<sup>1</sup> Y después de Abimelech levantóse para librar á Israel, Tola hijo de Púa, hijo de Dodo, varón de Issachâr, el cual habitaba en Samir, en el monte de Ephraim. <sup>2</sup> Y juzgó á Israel veintitrés años, y murió, y fué sepultado en Samir. 
 
 <sup>3</sup> Tras él se levantó Jair, Galaadita, el cual juzgó á Israel veintidós años. ^[**10:3** Núm 32,41] <sup>4</sup> Este tuvo treinta hijos que cabalgaban sobre treinta asnos, y tenían treinta villas, que se llamaron las villas de Jair hasta hoy, las cuales están en la tierra de Galaad. ^[**10:4** Jue 12,14] <sup>5</sup> Y murió Jair, y fué sepultado en Camón. 
  
@@ -337,7 +341,7 @@
  
 
 # 11 
-<sup>1</sup> EXISTÍA entonces Jephté, Galaadita, hombre valiente, hijo de una ramera, al cual había engendrado Galaad. <sup>2</sup> Y la mujer de Galaad también le había parido hijos; los cuales cuando fueron grandes, echaron fuera á Jephté, diciéndole: No heredarás en la casa de nuestro padre, porque eres bastardo. <sup>3</sup> Huyendo pues Jephté á causa de sus hermanos, habitó en tierra de Tob; y juntáronse con él hombres ociosos, los cuales con él salían. ^[**11:3** Jue 9,4; 1Sam 22,2] 
+<sup>1</sup> Existía entonces Jephté, Galaadita, hombre valiente, hijo de una ramera, al cual había engendrado Galaad. <sup>2</sup> Y la mujer de Galaad también le había parido hijos; los cuales cuando fueron grandes, echaron fuera á Jephté, diciéndole: No heredarás en la casa de nuestro padre, porque eres bastardo. <sup>3</sup> Huyendo pues Jephté á causa de sus hermanos, habitó en tierra de Tob; y juntáronse con él hombres ociosos, los cuales con él salían. ^[**11:3** Jue 9,4; 1Sam 22,2] 
 
 
 <sup>4</sup> Y aconteció que después de días los hijos de Ammón hicieron guerra contra Israel: <sup>5</sup> Y como los hijos de Ammón tenían guerra contra Israel, los ancianos de Galaad fueron para volver á Jephté de tierra de Tob; <sup>6</sup> Y dijeron á Jephté: Ven, y serás nuestro capitán, para que peleemos con los hijos de Ammón. 
@@ -380,7 +384,7 @@
 
 ## La batalla victoriosa de Jefté con los efraimitas y su muerte
 # 12 
-<sup>1</sup> Y JUNTÁNDOSE los varones de Ephraim, pasaron hacia el aquilón, y dijeron á Jephté: ¿Por qué fuiste á hacer guerra contra los hijos de Ammón, y no nos llamaste para que fuéramos contigo? Nosotros quemaremos á fuego tu casa contigo. 
+<sup>1</sup> Y juntándose los varones de Ephraim, pasaron hacia el aquilón, y dijeron á Jephté: ¿Por qué fuiste á hacer guerra contra los hijos de Ammón, y no nos llamaste para que fuéramos contigo? Nosotros quemaremos á fuego tu casa contigo. 
 
 <sup>2</sup> Y Jephté les respondió: Yo tuve, y mi pueblo, una gran contienda con los hijos de Ammón, y os llamé, y no me defendisteis de sus manos. <sup>3</sup> Viendo pues que no me defendíais, puse mi alma en mi palma, y pasé contra los hijos de Ammón, y Jehová los entregó en mi mano: ¿por qué pues habéis subido hoy contra mí para pelear conmigo? ^[**12:3** Jue 5,18; Jue 9,17] 
 
@@ -398,7 +402,7 @@
 
 ## La prehistoria: dominio filisteo; dos apariciones de un ángel que anuncia el nacimiento y la consagración de Sansón a Dios
 # 13 
-<sup>1</sup> Y LOS hijos de Israel tornaron á hacer lo malo en los ojos de Jehová; y Jehová los entregó en mano de los Filisteos, por cuarenta años. 
+<sup>1</sup> Y los hijos de Israel tornaron á hacer lo malo en los ojos de Jehová; y Jehová los entregó en mano de los Filisteos, por cuarenta años. 
 
 <sup>2</sup> Y había un hombre de Sora, de la tribu de Dan, el cual se llamaba Manoa; y su mujer era estéril, que nunca había parido. <sup>3</sup> A esta mujer apareció el ángel de Jehová, y díjole: He aquí que tú eres estéril, y no has parido; mas concebirás y parirás un hijo. <sup>4</sup> Ahora, pues, mira que ahora no bebas vino, ni sidra, ni comas cosa inmunda. <sup>5</sup> Porque tú te harás embarazada, y parirás un hijo: y no subirá navaja sobre su cabeza, porque aquel niño será Nazareo á Dios desde el vientre, y él comenzará á salvar á Israel de mano de los Filisteos. ^[**13:5** Núm 6,2-5; 1Sam 1,11] 
 
@@ -434,7 +438,7 @@
  
 
 # 14 
-<sup>1</sup> Y DESCENDIENDO Samsón á Timnah, vió en Timnah una mujer de las hijas de los Filisteos. <sup>2</sup> Y subió, y declarólo á su padre y á su madre, diciendo: Yo he visto en Timnah una mujer de las hijas de los Filisteos: ruégoos que me la toméis por mujer. 
+<sup>1</sup> Y descendiendo Samsón á Timnah, vió en Timnah una mujer de las hijas de los Filisteos. <sup>2</sup> Y subió, y declarólo á su padre y á su madre, diciendo: Yo he visto en Timnah una mujer de las hijas de los Filisteos: ruégoos que me la toméis por mujer. 
 
 <sup>3</sup> Y su padre y su madre le dijeron: ¿No hay mujer entre las hijas de tus hermanos, ni en todo mi pueblo, para que vayas tú á tomar mujer de los Filisteos incircuncisos? Y Samsón respondió á su padre: Tómamela por mujer, porque ésta agradó á mis ojos. 
 
@@ -458,7 +462,7 @@
 
 ## Sansón, traicionado por su suegro, se venga de los filisteos persiguiendo zorros
 # 15 
-<sup>1</sup> Y ACONTECIÓ después de días, que en el tiempo de la siega del trigo, Samsón visitó á su mujer con un cabrito, diciendo: Entraré á mi mujer á la cámara. Mas el padre de ella no lo dejó entrar. 
+<sup>1</sup> Y aconteció después de días, que en el tiempo de la siega del trigo, Samsón visitó á su mujer con un cabrito, diciendo: Entraré á mi mujer á la cámara. Mas el padre de ella no lo dejó entrar. 
 
 <sup>2</sup> Y dijo el padre de ella: Persuadíme que la aborrecías, y díla á tu compañero. Mas su hermana menor, ¿no es más hermosa que ella? tómala, pues, en su lugar. 
 
@@ -489,7 +493,7 @@
 
 ## La potencia de los Simpson en Gaza
 # 16 
-<sup>1</sup> Y FUÉ Samsón á Gaza, y vió allí una mujer ramera, y entró á ella. <sup>2</sup> Y fué dicho á los de Gaza: Samsón es venido acá. Y cercáronlo, y pusiéronle espías toda aquella noche á la puerta de la ciudad: y estuvieron callados toda aquella noche, diciendo: Hasta la luz de la mañana; entonces lo mataremos. <sup>3</sup> Mas Samsón durmió hasta la media noche; y á la media noche se levantó, y tomando las puertas de la ciudad con sus dos pilares y su cerrojo, echóselas al hombro, y fuése, y subióse con ellas á la cumbre del monte que está delante de Hebrón. 
+<sup>1</sup> Y fué Samsón á Gaza, y vió allí una mujer ramera, y entró á ella. <sup>2</sup> Y fué dicho á los de Gaza: Samsón es venido acá. Y cercáronlo, y pusiéronle espías toda aquella noche á la puerta de la ciudad: y estuvieron callados toda aquella noche, diciendo: Hasta la luz de la mañana; entonces lo mataremos. <sup>3</sup> Mas Samsón durmió hasta la media noche; y á la media noche se levantó, y tomando las puertas de la ciudad con sus dos pilares y su cerrojo, echóselas al hombro, y fuése, y subióse con ellas á la cumbre del monte que está delante de Hebrón. 
 
 ## Sansón traicionado por Dalila, cegado por los filisteos y encarcelado en Gaza
 <sup>4</sup> Después de esto aconteció que se enamoró de una mujer en el valle de Sorec, la cual se llamaba Dalila. <sup>5</sup> Y vinieron á ella los príncipes de los Filisteos, y dijéronle: Engáñale y sabe en qué consiste su grande fuerza, y cómo lo podríamos vencer, para que lo atemos y lo atormentemos; y cada uno de nosotros te dará mil y cien siclos de plata. 
@@ -530,7 +534,7 @@
 
 ## Miqueas y su madre establecieron la idolatría en el monte Efraín
 # 17 
-<sup>1</sup> HUBO un hombre del monte de Ephraim, que se llamaba Michâs. <sup>2</sup> El cual dijo á su madre: Los mil y cien siclos de plata que te fueron hurtados, por lo que tú maldecías oyéndolo yo, he aquí que yo tengo este dinero: yo lo había tomado. Entonces la madre dijo: Bendito seas de Jehová, hijo mío. ^[**17:2** Lev 5,1] 
+<sup>1</sup> Hubo un hombre del monte de Ephraim, que se llamaba Michâs. <sup>2</sup> El cual dijo á su madre: Los mil y cien siclos de plata que te fueron hurtados, por lo que tú maldecías oyéndolo yo, he aquí que yo tengo este dinero: yo lo había tomado. Entonces la madre dijo: Bendito seas de Jehová, hijo mío. ^[**17:2** Lev 5,1] 
 
 
 <sup>3</sup> Y luego que él hubo vuelto á su madre los mil y cien siclos de plata, su madre dijo: Yo he dedicado este dinero á Jehová de mi mano para ti, hijo mío, para que hagas una imagen de talla y de fundición: ahora pues, yo te lo devuelvo. 
@@ -548,7 +552,7 @@
 
 ## Los espías daneses en la casa de Micha; el resultado de su exploración del área alrededor de la ciudad de Lais
 # 18 
-<sup>1</sup> EN aquellos días no había rey en Israel. Y en aquellos días la tribu de Dan buscaba posesión para sí donde morase, porque hasta entonces no le había caído suerte entre las tribus de Israel por heredad. <sup>2</sup> Y los hijos de Dan enviaron de su tribu cinco hombres de sus términos, hombres valientes, de Sora y Esthaol, para que reconociesen y explorasen bien la tierra; y dijéronles: Id y reconoced la tierra. Estos vinieron al monte de Ephraim, hasta la casa de Michâs, y allí posaron. ^[**18:2** Jue 13,25] 
+<sup>1</sup> En aquellos días no había rey en Israel. Y en aquellos días la tribu de Dan buscaba posesión para sí donde morase, porque hasta entonces no le había caído suerte entre las tribus de Israel por heredad. <sup>2</sup> Y los hijos de Dan enviaron de su tribu cinco hombres de sus términos, hombres valientes, de Sora y Esthaol, para que reconociesen y explorasen bien la tierra; y dijéronles: Id y reconoced la tierra. Estos vinieron al monte de Ephraim, hasta la casa de Michâs, y allí posaron. ^[**18:2** Jue 13,25] 
 
 
 <sup>3</sup> Y como estaban cerca de la casa de Michâs, reconocieron la voz del joven Levita; y llegándose allá, dijéronle: ¿Quién te ha traído por acá? ¿y qué haces aquí? ¿y qué tienes tú por aquí? ^[**18:3** Jue 17,7] 
@@ -589,7 +593,7 @@
 
 ## La visita de un levita a Belén para recuperar a su concubina
 # 19 
-<sup>1</sup> EN aquellos días, cuando no había rey en Israel, hubo un Levita que moraba como peregrino en los lados del monte de Ephraim, el cual se había tomado mujer concubina de Beth-lehem de Judá. ^[**19:1** Jue 17,6] <sup>2</sup> Y su concubina adulteró contra él, y fuese de él á casa de su padre, á Beth-lehem de Judá, y estuvo allá por tiempo de cuatro meses. <sup>3</sup> Y levantóse su marido, y siguióla, para hablarle amorosamente y volverla, llevando consigo un criado suyo y un par de asnos; y ella le metió en la casa de su padre. <sup>4</sup> Y viéndole el padre de la moza, salióle á recibir gozoso; y detúvole su suegro, padre de la moza, y quedó en su casa tres días, comiendo y bebiendo, y reposando allí. 
+<sup>1</sup> En aquellos días, cuando no había rey en Israel, hubo un Levita que moraba como peregrino en los lados del monte de Ephraim, el cual se había tomado mujer concubina de Beth-lehem de Judá. ^[**19:1** Jue 17,6] <sup>2</sup> Y su concubina adulteró contra él, y fuese de él á casa de su padre, á Beth-lehem de Judá, y estuvo allá por tiempo de cuatro meses. <sup>3</sup> Y levantóse su marido, y siguióla, para hablarle amorosamente y volverla, llevando consigo un criado suyo y un par de asnos; y ella le metió en la casa de su padre. <sup>4</sup> Y viéndole el padre de la moza, salióle á recibir gozoso; y detúvole su suegro, padre de la moza, y quedó en su casa tres días, comiendo y bebiendo, y reposando allí. 
 
 
 <sup>5</sup> Y al cuarto día, como se levantaron de mañana, levantóse también el Levita para irse, y el padre de la moza dijo á su yerno: Conforta tu corazón con un bocado de pan, y después os iréis. <sup>6</sup> Y sentáronse ellos dos juntos, y comieron y bebieron. Y el padre de la moza dijo al varón: Yo te ruego que te quieras quedar aquí esta noche, y alegraráse tu corazón. <sup>7</sup> Y levantándose el varón para irse, el suegro le constriñó á que tornase y tuviese allí la noche. <sup>8</sup> Y al quinto día levantándose de mañana para irse, díjole el padre de la moza: Conforta ahora tu corazón. Y habiendo comido ambos á dos, detuviéronse hasta que ya declinaba el día. 
@@ -622,7 +626,7 @@
 
 ## Asesorar a las tribus israelitas en Mizpa; su despliegue a la guerra
 # 20 
-<sup>1</sup> ENTONCES salieron todos los hijos de Israel, y reunióse la congregación como un solo hombre, desde Dan hasta Beer-seba y la tierra de Galaad, á Jehová en Mizpa. ^[**20:1** Jue 11,11; 1Sam 7,5] <sup>2</sup> Y los principales de todo el pueblo, de todas las tribus de Israel, se hallaron presentes en la reunión del pueblo de Dios, cuatrocientos mil hombres de á pie que sacaban espada. <sup>3</sup> Y los hijos de Benjamín oyeron que los hijos de Israel habían subido á Mizpa. Y dijeron los hijos de Israel: Decid cómo fué esta maldad. 
+<sup>1</sup> Entonces salieron todos los hijos de Israel, y reunióse la congregación como un solo hombre, desde Dan hasta Beer-seba y la tierra de Galaad, á Jehová en Mizpa. ^[**20:1** Jue 11,11; 1Sam 7,5] <sup>2</sup> Y los principales de todo el pueblo, de todas las tribus de Israel, se hallaron presentes en la reunión del pueblo de Dios, cuatrocientos mil hombres de á pie que sacaban espada. <sup>3</sup> Y los hijos de Benjamín oyeron que los hijos de Israel habían subido á Mizpa. Y dijeron los hijos de Israel: Decid cómo fué esta maldad. 
 
 
 <sup>4</sup> Entonces el varón Levita, marido de la mujer muerta, respondió y dijo: Yo llegué á Gabaa de Benjamín con mi concubina, para tener allí la noche. <sup>5</sup> Y levantándose contra mí los de Gabaa, cercaron sobre mí la casa de noche, con idea de matarme, y oprimieron mi concubina de tal manera, que ella fué muerta. <sup>6</sup> Entonces tomando yo mi concubina, cortéla en piezas, y enviélas por todo el término de la posesión de Israel: por cuanto han hecho maldad y crimen en Israel. <sup>7</sup> He aquí que todos vosotros los hijos de Israel estáis presentes; daos aquí parecer y consejo. 
@@ -651,11 +655,13 @@
 <sup>32</sup> Y los hijos de Benjamín decían: Vencidos son delante de nosotros, como antes. Mas los hijos de Israel decían: Huiremos, y los alejaremos de la ciudad hasta los caminos. 
 
 <sup>33</sup> Entonces, levantándose todos los de Israel de su lugar, pusiéronse en orden en Baal-tamar: y también las emboscadas de Israel salieron de su lugar, del prado de Gabaa. <sup>34</sup> Y vinieron contra Gabaa diez mil hombres escogidos de todo Israel, y la batalla comenzó á agravarse: mas ellos no sabían que el mal se acercaba sobre ellos. <sup>35</sup> E hirió Jehová á Benjamín delante de Israel; y mataron los hijos de Israel aquel día veinticinco mil y cien hombres de Benjamín, todos los cuales sacaban espada. <sup>36</sup> Y vieron los hijos de Benjamín que eran muertos; pues los hijos de Israel habían dado lugar á Benjamín, porque estaban confiados en las emboscadas que habían puesto detrás de Gabaa. <sup>37</sup> Entonces las emboscadas acometieron prestamente á Gabaa, y se extendieron, y pasaron á cuchillo toda la ciudad. <sup>38</sup> Ya los Israelitas estaban concertados con las emboscadas, que hiciesen mucho fuego, para que subiese gran humo de la ciudad. <sup>39</sup> Luego, pues, que los de Israel se volvieron en la batalla, los de Benjamín comenzaron á derribar heridos de Israel unos treinta hombres, y ya decían: Ciertamente ellos han caído delante de nosotros, como en la primera batalla. <sup>40</sup> Mas cuando la llama comenzó á subir de la ciudad, una columna de humo, Benjamín tornó á mirar atrás; y he aquí que el fuego de la ciudad subía al cielo. <sup>41</sup> Entonces revolvieron los hombres de Israel, y los de Benjamín se llenaron de temor: porque vieron que el mal había venido sobre ellos. <sup>42</sup> Volvieron, por tanto, espaldas delante de Israel hacia el camino del desierto; mas el escuadrón los alcanzó, y los salidos de la ciudad los mataban, habiéndolos encerrado en medio de ellos. <sup>43</sup> Así envolvieron á los de Benjamín, y los acosaron y hollaron, desde Menuchâ hasta enfrente de Gabaa hacia donde nace el sol. <sup>44</sup> Y cayeron de Benjamín diez y ocho mil hombres, todos ellos hombres de guerra. <sup>45</sup> Volviéndose luego, huyeron hacia el desierto, á la peña de Rimmón, y de ellos rebuscaron cinco mil hombres en los caminos: fueron aún acosándolos hasta Gidom, y mataron de ellos dos mil hombres. <sup>46</sup> Así todos los que de Benjamín murieron aquel día, fueron veinticinco mil hombres que sacaban espada, todos ellos hombres de guerra. <sup>47</sup> Pero se volvieron y huyeron al desierto á la peña de Rimmón seiscientos hombres, los cuales estuvieron en la peña de Rimmón cuatro meses: ^[**20:47** Jue 21,13] 
+
+
 <sup>48</sup> Y los hombres de Israel tornaron á los hijos de Benjamín, y pasáronlos á cuchillo, á hombres y bestias en la ciudad, y todo lo que fué hallado: asimismo pusieron fuego á todas las ciudades que hallaban. 
 
 ## Duelo de la comunidad; a los benjaminitas se les asignan doncellas de la ciudad de Jabes
 # 21 
-<sup>1</sup> Y LOS varones de Israel habían jurado en Mizpa, diciendo: Ninguno de nosotros dará su hija á los de Benjamín por mujer. <sup>2</sup> Y vino el pueblo á la casa de Dios, y estuviéronse allí hasta la tarde delante de Dios; y alzando su voz hicieron gran llanto, y dijeron: ^[**21:2** Jue 20,18] <sup>3</sup> Oh Jehová Dios de Israel, ¿por qué ha sucedido esto en Israel, que falte hoy de Israel una tribu? 
+<sup>1</sup> Y los varones de Israel habían jurado en Mizpa, diciendo: Ninguno de nosotros dará su hija á los de Benjamín por mujer. <sup>2</sup> Y vino el pueblo á la casa de Dios, y estuviéronse allí hasta la tarde delante de Dios; y alzando su voz hicieron gran llanto, y dijeron: ^[**21:2** Jue 20,18] <sup>3</sup> Oh Jehová Dios de Israel, ¿por qué ha sucedido esto en Israel, que falte hoy de Israel una tribu? 
 
 
 <sup>4</sup> Y al día siguiente el pueblo se levantó de mañana, y edificaron allí altar, y ofrecieron holocaustos y pacíficos. <sup>5</sup> Y dijeron los hijos de Israel: ¿Quién de todas las tribus de Israel no subió á la reunión cerca de Jehová? Porque se había hecho gran juramento contra el que no subiese á Jehová en Mizpa, diciendo: Sufrirá muerte. <sup>6</sup> Y los hijos de Israel se arrepintieron á causa de Benjamín su hermano, y dijeron: Una tribu es hoy cortada de Israel. <sup>7</sup> ¿Qué haremos en cuanto á mujeres para los que han quedado? Nosotros hemos jurado por Jehová que no les hemos de dar nuestras hijas por mujeres. ^[**21:7** Jue 21,1] <sup>8</sup> Y dijeron: ¿Hay alguno de las tribus de Israel que no haya subido á Jehová en Mizpa? Y hallaron que ninguno de Jabes-galaad había venido al campo á la reunión: <sup>9</sup> Porque el pueblo fué contado, y no hubo allí varón de los moradores de Jabes-galaad. <sup>10</sup> Entonces la congregación envió allá doce mil hombres de los más valientes, y mandáronles, diciendo: Id y poned á cuchillo á los moradores de Jabes-galaad, y las mujeres y niños. <sup>11</sup> Mas haréis de esta manera: mataréis á todo varón, y á toda mujer que hubiere conocido ayuntamiento de varón. <sup>12</sup> Y hallaron de los moradores de Jabes-galaad cuatrocientas doncellas que no habían conocido hombre en ayuntamiento de varón, y trajéronlas al campo en Silo, que es en la tierra de Canaán. 

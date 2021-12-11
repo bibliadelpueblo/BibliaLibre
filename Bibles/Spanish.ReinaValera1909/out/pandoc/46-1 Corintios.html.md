@@ -1,6 +1,6 @@
 ## Bendiciones
 # 1 
-<sup>1</sup> PABLO, llamado á ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes el hermano, <sup>2</sup> A la iglesia de Dios que está en Corinto, santificados en Cristo Jesús, llamados santos, y á todos los que invocan el nombre de nuestro Señor Jesucristo en cualquier lugar, Señor de ellos y nuestro: <sup>3</sup> Gracia y paz de Dios nuestro Padre, y del Señor Jesucristo. 
+<sup>1</sup> Pablo, llamado á ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes el hermano, <sup>2</sup> A la iglesia de Dios que está en Corinto, santificados en Cristo Jesús, llamados santos, y á todos los que invocan el nombre de nuestro Señor Jesucristo en cualquier lugar, Señor de ellos y nuestro: <sup>3</sup> Gracia y paz de Dios nuestro Padre, y del Señor Jesucristo. 
 
 ## Acción de gracias del apóstol por la rica gracia de Dios que cayó sobre los corintios; esperanza segura para el futuro
 <sup>4</sup> Gracias doy á mi Dios siempre por vosotros, por la gracia de Dios que os es dada en Cristo Jesús; <sup>5</sup> Que en todas las cosas sois enriquecidos en él, en toda lengua y en toda ciencia; <sup>6</sup> Así como el testimonio de Cristo ha sido confirmado en vosotros: <sup>7</sup> De tal manera que nada os falte en ningún don, esperando la manifestación de nuestro Señor Jesucristo: ^[**1:7** Tit 2,13; 2Pe 3,13-14] <sup>8</sup> El cual también os confirmará hasta el fin, para que seáis sin falta en el día de nuestro Señor Jesucristo. ^[**1:8** Fil 1,6; 1Tes 3,13] <sup>9</sup> Fiel es Dios, por el cual sois llamados á la participación de su Hijo Jesucristo nuestro Señor. ^[**1:9** 1Tes 5,24] 
@@ -22,7 +22,7 @@
 
 ## La manera de predicar de Pablo cuando se fundó la iglesia era poco exigente y carecía de sabiduría mundana
 # 2 
-<sup>1</sup> ASÍ que, hermanos, cuando fuí á vosotros, no fuí con altivez de palabra, ó de sabiduría, á anunciaros el testimonio de Cristo. <sup>2</sup> Porque no me propuse saber algo entre vosotros, sino á Jesucristo, y á éste crucificado. ^[**2:2** Gal 6,14] <sup>3</sup> Y estuve yo con vosotros con flaqueza, y mucho temor y temblor; ^[**2:3** Hech 18,9; 2Cor 10,1; Gal 4,13] <sup>4</sup> Y ni mi palabra ni mi predicación fué con palabras persuasivas de humana sabiduría, mas con demostración del Espíritu y de poder; ^[**2:4** Mat 10,20] <sup>5</sup> Para que vuestra fe no esté fundada en sabiduría de hombres, mas en poder de Dios. ^[**2:5** 1Tes 1,5] 
+<sup>1</sup> Así que, hermanos, cuando fuí á vosotros, no fuí con altivez de palabra, ó de sabiduría, á anunciaros el testimonio de Cristo. <sup>2</sup> Porque no me propuse saber algo entre vosotros, sino á Jesucristo, y á éste crucificado. ^[**2:2** Gal 6,14] <sup>3</sup> Y estuve yo con vosotros con flaqueza, y mucho temor y temblor; ^[**2:3** Hech 18,9; 2Cor 10,1; Gal 4,13] <sup>4</sup> Y ni mi palabra ni mi predicación fué con palabras persuasivas de humana sabiduría, mas con demostración del Espíritu y de poder; ^[**2:4** Mat 10,20] <sup>5</sup> Para que vuestra fe no esté fundada en sabiduría de hombres, mas en poder de Dios. ^[**2:5** 1Tes 1,5] 
    
 
 ## La misteriosa sabiduría de Dios para los perfectos
@@ -35,7 +35,7 @@
 
 ## Hasta ahora Pablo no ha podido proclamar plena sabiduría a los corintios debido a su inmadurez, que ha sido demostrada por la picardía del partido
 # 3 
-<sup>1</sup> DE manera que yo, hermanos, no pude hablaros como á espirituales, sino como á carnales, como á niños en Cristo. ^[**3:1** Juan 16,12] <sup>2</sup> Os dí á beber leche, y no vianda: porque aun no podíais, ni aun podéis ahora; ^[**3:2** 1Pe 2,2] <sup>3</sup> Porque todavía sois carnales: pues habiendo entre vosotros celos, y contiendas, y disensiones, ¿no sois carnales, y andáis como hombres? ^[**3:3** 1Cor 1,10-11; 1Cor 11,18] <sup>4</sup> Porque diciendo el uno: Yo cierto soy de Pablo; y el otro: Yo de Apolos; ¿no sois carnales? ^[**3:4** 1Cor 1,12] 
+<sup>1</sup> De manera que yo, hermanos, no pude hablaros como á espirituales, sino como á carnales, como á niños en Cristo. ^[**3:1** Juan 16,12] <sup>2</sup> Os dí á beber leche, y no vianda: porque aun no podíais, ni aun podéis ahora; ^[**3:2** 1Pe 2,2] <sup>3</sup> Porque todavía sois carnales: pues habiendo entre vosotros celos, y contiendas, y disensiones, ¿no sois carnales, y andáis como hombres? ^[**3:3** 1Cor 1,10-11; 1Cor 11,18] <sup>4</sup> Porque diciendo el uno: Yo cierto soy de Pablo; y el otro: Yo de Apolos; ¿no sois carnales? ^[**3:4** 1Cor 1,12] 
    
 
 ## Son siervos y colaboradores de Dios
@@ -54,7 +54,7 @@
 
 ## Pablo sabe que es responsable solo ante el Señor
 # 4 
-<sup>1</sup> TÉNGANNOS los hombres por ministros de Cristo, y dispensadores de los misterios de Dios. ^[**4:1** Tit 1,7] <sup>2</sup> Mas ahora se requiere en los dispensadores, que cada uno sea hallado fiel. ^[**4:2** Luc 12,42] <sup>3</sup> Yo en muy poco tengo el ser juzgado de vosotros, ó de juicio humano; y ni aun yo me juzgo. <sup>4</sup> Porque aunque de nada tengo mala conciencia, no por eso soy justificado; mas el que me juzga, el Señor es. <sup>5</sup> Así que, no juzguéis nada antes de tiempo, hasta que venga el Señor, el cual también aclarará lo oculto de las tinieblas, y manifestará los intentos de los corazones: y entonces cada uno tendrá de Dios la alabanza. 
+<sup>1</sup> Téngannos los hombres por ministros de Cristo, y dispensadores de los misterios de Dios. ^[**4:1** Tit 1,7] <sup>2</sup> Mas ahora se requiere en los dispensadores, que cada uno sea hallado fiel. ^[**4:2** Luc 12,42] <sup>3</sup> Yo en muy poco tengo el ser juzgado de vosotros, ó de juicio humano; y ni aun yo me juzgo. <sup>4</sup> Porque aunque de nada tengo mala conciencia, no por eso soy justificado; mas el que me juzga, el Señor es. <sup>5</sup> Así que, no juzguéis nada antes de tiempo, hasta que venga el Señor, el cual también aclarará lo oculto de las tinieblas, y manifestará los intentos de los corazones: y entonces cada uno tendrá de Dios la alabanza. 
  
 
 ## Pablo reprocha a los corintios su arrogancia hacia el sufrimiento de los apóstoles
@@ -70,7 +70,7 @@
 
 ## Grave reprimenda por la tolerancia mostrada por la comunidad a un fornicario
 # 5 
-<sup>1</sup> DE cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los Gentiles; tanto que alguno tenga la mujer de su padre. <sup>2</sup> Y vosotros estáis hinchados, y no más bien tuvisteis duelo, para que fuese quitado de en medio de vosotros el que hizo tal obra. <sup>3</sup> Y ciertamente, como ausente con el cuerpo, mas presente en espíritu, ya como presente he juzgado al que esto así ha cometido: ^[**5:3** Col 2,5] <sup>4</sup> En el nombre del Señor nuestro Jesucristo, juntados vosotros y mi espíritu, con la facultad de nuestro Señor Jesucristo, ^[**5:4** Mat 16,19; Mat 18,18; 2Cor 13,10] <sup>5</sup> El tal sea entregado á Satanás para muerte de la carne, porque el espíritu sea salvo en el día del Señor Jesús. ^[**5:5** 1Tim 1,20] 
+<sup>1</sup> De cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los Gentiles; tanto que alguno tenga la mujer de su padre. <sup>2</sup> Y vosotros estáis hinchados, y no más bien tuvisteis duelo, para que fuese quitado de en medio de vosotros el que hizo tal obra. <sup>3</sup> Y ciertamente, como ausente con el cuerpo, mas presente en espíritu, ya como presente he juzgado al que esto así ha cometido: ^[**5:3** Col 2,5] <sup>4</sup> En el nombre del Señor nuestro Jesucristo, juntados vosotros y mi espíritu, con la facultad de nuestro Señor Jesucristo, ^[**5:4** Mat 16,19; Mat 18,18; 2Cor 13,10] <sup>5</sup> El tal sea entregado á Satanás para muerte de la carne, porque el espíritu sea salvo en el día del Señor Jesús. ^[**5:5** 1Tim 1,20] 
   
 
 ## Amonestación general a la pureza moral con referencia a la muerte en sacrificio de Jesús, “el cordero pascual”
@@ -83,7 +83,7 @@
 
 ## Denuncia de litigio en tribunales paganos y litigio en general
 # 6 
-<sup>1</sup> ¿OSA alguno de vosotros, teniendo algo con otro, ir á juicio delante de los injustos, y no delante de los santos? <sup>2</sup> ¿O no sabéis que los santos han de juzgar al mundo? Y si el mundo ha de ser juzgado por vosotros, ¿sois indignos de juzgar cosas muy pequeñas? <sup>3</sup> ¿O no sabéis que hemos de juzgar á los ángeles? ¿cuánto más las cosas de este siglo? <sup>4</sup> Por tanto, si hubiereis de tener juicios de cosas de este siglo, poned para juzgar á los que son de menor estima en la iglesia. <sup>5</sup> Para avergonzaros lo digo. ¿Pues qué, no hay entre vosotros sabio, ni aun uno que pueda juzgar entre sus hermanos; <sup>6</sup> Sino que el hermano con el hermano pleitea en juicio, y esto ante los infieles? <sup>7</sup> Así que, por cierto es ya una falta en vosotros que tengáis pleitos entre vosotros mismos. ¿Por qué no sufrís antes la injuria? ¿por qué no sufrís antes ser defraudados? ^[**6:7** Mat 5,38-41; 1Tes 5,15; 1Pe 3,9] <sup>8</sup> Empero vosotros hacéis la injuria, y defraudáis, y esto á los hermanos. 
+<sup>1</sup> ¿Osa alguno de vosotros, teniendo algo con otro, ir á juicio delante de los injustos, y no delante de los santos? <sup>2</sup> ¿O no sabéis que los santos han de juzgar al mundo? Y si el mundo ha de ser juzgado por vosotros, ¿sois indignos de juzgar cosas muy pequeñas? <sup>3</sup> ¿O no sabéis que hemos de juzgar á los ángeles? ¿cuánto más las cosas de este siglo? <sup>4</sup> Por tanto, si hubiereis de tener juicios de cosas de este siglo, poned para juzgar á los que son de menor estima en la iglesia. <sup>5</sup> Para avergonzaros lo digo. ¿Pues qué, no hay entre vosotros sabio, ni aun uno que pueda juzgar entre sus hermanos; <sup>6</sup> Sino que el hermano con el hermano pleitea en juicio, y esto ante los infieles? <sup>7</sup> Así que, por cierto es ya una falta en vosotros que tengáis pleitos entre vosotros mismos. ¿Por qué no sufrís antes la injuria? ¿por qué no sufrís antes ser defraudados? ^[**6:7** Mat 5,38-41; 1Tes 5,15; 1Pe 3,9] <sup>8</sup> Empero vosotros hacéis la injuria, y defraudáis, y esto á los hermanos. 
 
 
 <sup>9</sup> ¿No sabéis que los injustos no poseerán el reino de Dios? No erréis, que ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones, <sup>10</sup> Ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los robadores, heredarán el reino de Dios. <sup>11</sup> Y esto erais algunos: mas ya sois lavados, mas ya sois santificados, mas ya sois justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios. ^[**6:11** 1Cor 1,2; Rom 3,26; Tit 3,3-7] 
@@ -95,7 +95,7 @@
 
 ## El valor y las necesidades del matrimonio y la vida conyugal en general
 # 7 
-<sup>1</sup> CUANTO á las cosas de que me escribisteis, bien es al hombre no tocar mujer. <sup>2</sup> Mas á causa de las fornicaciones, cada uno tenga su mujer, y cada una tenga su marido. <sup>3</sup> El marido pague á la mujer la debida benevolencia; y asimismo la mujer al marido. <sup>4</sup> La mujer no tiene potestad de su propio cuerpo, sino el marido: é igualmente tampoco el marido tiene potestad de su propio cuerpo, sino la mujer. <sup>5</sup> No os defraudéis el uno al otro, á no ser por algún tiempo de mutuo consentimiento, para ocuparos en la oración: y volved á juntaros en uno, porque no os tiente Satanás á causa de vuestra incontinencia. 
+<sup>1</sup> Cuanto á las cosas de que me escribisteis, bien es al hombre no tocar mujer. <sup>2</sup> Mas á causa de las fornicaciones, cada uno tenga su mujer, y cada una tenga su marido. <sup>3</sup> El marido pague á la mujer la debida benevolencia; y asimismo la mujer al marido. <sup>4</sup> La mujer no tiene potestad de su propio cuerpo, sino el marido: é igualmente tampoco el marido tiene potestad de su propio cuerpo, sino la mujer. <sup>5</sup> No os defraudéis el uno al otro, á no ser por algún tiempo de mutuo consentimiento, para ocuparos en la oración: y volved á juntaros en uno, porque no os tiente Satanás á causa de vuestra incontinencia. 
 
 <sup>6</sup> Mas esto digo por permisión, no por mandamiento. <sup>7</sup> Quisiera más bien que todos los hombres fuesen como yo: empero cada uno tiene su propio don de Dios; uno á la verdad así, y otro así. 
 
@@ -123,11 +123,13 @@
 
 ## Sobre el nuevo matrimonio de las viudas
 <sup>39</sup> La mujer casada está atada á la ley, mientras vive su marido; mas si su marido muriere, libre es: cásese con quien quisiere, con tal que sea en el Señor. ^[**7:39** Rom 7,2] 
+
+
 <sup>40</sup> Empero más venturosa será si se quedare así, según mi consejo; y pienso que también yo tengo Espíritu de Dios. 
 
 ## El conocimiento en sí mismo tiene menos valor que el amor
 # 8 
-<sup>1</sup> Y POR lo que hace á lo sacrificado á los ídolos, sabemos que todos tenemos ciencia. La ciencia hincha, mas la caridad edifica. <sup>2</sup> Y si alguno se imagina que sabe algo, aun no sabe nada como debe saber. ^[**8:2** Gal 6,3] <sup>3</sup> Mas si alguno ama á Dios, el tal es conocido de él. ^[**8:3** Gal 4,9; 1Cor 13,12] 
+<sup>1</sup> Y por lo que hace á lo sacrificado á los ídolos, sabemos que todos tenemos ciencia. La ciencia hincha, mas la caridad edifica. <sup>2</sup> Y si alguno se imagina que sabe algo, aun no sabe nada como debe saber. ^[**8:2** Gal 6,3] <sup>3</sup> Mas si alguno ama á Dios, el tal es conocido de él. ^[**8:3** Gal 4,9; 1Cor 13,12] 
  
 
 ## No todo el mundo tiene un conocimiento perfecto
@@ -139,11 +141,13 @@
 
 ## Para el uso de la libertad cristiana, la consideración amorosa por los débiles es decisiva
 <sup>8</sup> Si bien la vianda no nos hace más aceptos á Dios: porque ni que comamos, seremos más ricos; ni que no comamos, seremos más pobres. ^[**8:8** Rom 14,17] <sup>9</sup> Mas mirad que esta vuestra libertad no sea tropezadero á los que son flacos. ^[**8:9** Gal 5,13] <sup>10</sup> Porque si te ve alguno, á ti que tienes ciencia, que estás sentado á la mesa en el lugar de los ídolos, ¿la conciencia de aquel que es flaco, no será adelantada á comer de lo sacrificado á los ídolos? <sup>11</sup> Y por tu ciencia se perderá el hermano flaco por el cual Cristo murió. ^[**8:11** Rom 14,15] 
-  <sup>12</sup> De esta manera, pues, pecando contra los hermanos, é hiriendo su flaca conciencia, contra Cristo pecáis. <sup>13</sup> Por lo cual, si la comida es á mi hermano ocasión de caer, jamás comeré carne por no escandalizar á mi hermano. 
+  
+
+<sup>12</sup> De esta manera, pues, pecando contra los hermanos, é hiriendo su flaca conciencia, contra Cristo pecáis. <sup>13</sup> Por lo cual, si la comida es á mi hermano ocasión de caer, jamás comeré carne por no escandalizar á mi hermano. 
 
 ## Explicación y justificación de los derechos debidos a Pablo como apóstol
 # 9 
-<sup>1</sup> ¿NO soy apóstol? ¿no soy libre? ¿no he visto á Jesús el Señor nuestro? ¿no sois vosotros mi obra en el Señor? ^[**9:1** 1Cor 15,8; Hech 9,3-5; Hech 9,15] <sup>2</sup> Si á los otros no soy apóstol, á vosotros ciertamente lo soy: porque el sello de mi apostolado sois vosotros en el Señor. ^[**9:2** 1Cor 4,15; 2Cor 3,2-3] 
+<sup>1</sup> ¿No soy apóstol? ¿no soy libre? ¿no he visto á Jesús el Señor nuestro? ¿no sois vosotros mi obra en el Señor? ^[**9:1** 1Cor 15,8; Hech 9,3-5; Hech 9,15] <sup>2</sup> Si á los otros no soy apóstol, á vosotros ciertamente lo soy: porque el sello de mi apostolado sois vosotros en el Señor. ^[**9:2** 1Cor 4,15; 2Cor 3,2-3] 
  
 
 <sup>3</sup> Esta es mi respuesta á los que me preguntan. <sup>4</sup> Qué, ¿no tenemos potestad de comer y de beber? ^[**9:4** Luc 10,8] <sup>5</sup> ¿No tenemos potestad de traer con nosotros una hermana mujer también como los otros apóstoles, y los hermanos del Señor, y Cefas? ^[**9:5** Juan 1,42; Mat 8,14] <sup>6</sup> ¿O sólo yo y Bernabé no tenemos potestad de no trabajar? ^[**9:6** Hech 4,36; 2Tes 3,7-9] <sup>7</sup> ¿Quién jamás peleó á sus expensas? ¿quién planta viña, y no come de su fruto? ¿ó quién apacienta el ganado, y no come de la leche del ganado? 
@@ -165,11 +169,13 @@
 
 ## El apóstol como competidor por el premio celestial
 <sup>24</sup> ¿No sabéis que los que corren en el estadio, todos á la verdad corren, mas uno lleva el premio? Corred de tal manera que lo obtengáis. <sup>25</sup> Y todo aquel que lucha, de todo se abstiene: y ellos, á la verdad, para recibir una corona corruptible; mas nosotros, incorruptible. ^[**9:25** 2Tim 2,4-5; 1Pe 5,4] 
+
+
 <sup>26</sup> Así que, yo de esta manera corro, no como á cosa incierta; de esta manera peleo, no como quien hiere el aire: <sup>27</sup> Antes hiero mi cuerpo, y lo pongo en servidumbre; no sea que, habiendo predicado á otros, yo mismo venga á ser reprobado. 
 
 ## Das durch göttliche Gnadenerweise in der Wüste gesegnete und zur Rettung ins heilige Land berufene Israel
 # 10 
-<sup>1</sup> PORQUE no quiero, hermanos, que ignoréis que nuestros padres todos estuvieron bajo la nube, y todos pasaron la mar; ^[**10:1** Éxod 13,21; Éxod 14,22] <sup>2</sup> Y todos en Moisés fueron bautizados en la nube y en la mar; ^[**10:2** Éxod 16,4; Éxod 16,35; Deut 8,3] <sup>3</sup> Y todos comieron la misma vianda espiritual; <sup>4</sup> Y todos bebieron la misma bebida espiritual; porque bebían de la piedra espiritual que los seguía, y la piedra era Cristo: ^[**10:4** Éxod 17,6] 
+<sup>1</sup> Porque no quiero, hermanos, que ignoréis que nuestros padres todos estuvieron bajo la nube, y todos pasaron la mar; ^[**10:1** Éxod 13,21; Éxod 14,22] <sup>2</sup> Y todos en Moisés fueron bautizados en la nube y en la mar; ^[**10:2** Éxod 16,4; Éxod 16,35; Deut 8,3] <sup>3</sup> Y todos comieron la misma vianda espiritual; <sup>4</sup> Y todos bebieron la misma bebida espiritual; porque bebían de la piedra espiritual que los seguía, y la piedra era Cristo: ^[**10:4** Éxod 17,6] 
   
 
 ## A pesar de esto, debido a que voluntariamente sirvieron su lujuria por la carne, fueron rechazados como un ejemplo de advertencia para nosotros
@@ -197,7 +203,7 @@
    
 
 # 11 
-<sup>1</sup> SED imitadores de mí, así como yo de Cristo. 
+<sup>1</sup> Sed imitadores de mí, así como yo de Cristo. 
 
 ## Sobre el comportamiento decente de los hombres y el velo de las mujeres durante la oración y el culto
 <sup>2</sup> Y os alabo, hermanos, que en todo os acordáis de mí, y retenéis las instrucciones mías, de la manera que os enseñé. <sup>3</sup> Mas quiero que sepáis, que Cristo es la cabeza de todo varón; y el varón es la cabeza de la mujer; y Dios la cabeza de Cristo. ^[**11:3** Gén 3,16; Efes 5,23; 1Cor 3,23] <sup>4</sup> Todo varón que ora ó profetiza cubierta la cabeza, afrenta su cabeza. <sup>5</sup> Mas toda mujer que ora ó profetiza no cubierta su cabeza, afrenta su cabeza; porque lo mismo es que si se rayese. <sup>6</sup> Porque si la mujer no se cubre, trasquílese también: y si es deshonesto á la mujer trasquilarse ó raerse, cúbrase. <sup>7</sup> Porque el varón no ha de cubrir la cabeza, porque es imagen y gloria de Dios: mas la mujer es gloria del varón. <sup>8</sup> Porque el varón no es de la mujer, sino la mujer del varón. <sup>9</sup> Porque tampoco el varón fué criado por causa de la mujer, sino la mujer por causa del varón. ^[**11:9** Gén 2,18] <sup>10</sup> Por lo cual, la mujer debe tener señal de potestad sobre su cabeza, por causa de los ángeles. 
@@ -215,11 +221,13 @@
  
 
 <sup>27</sup> De manera que, cualquiera que comiere este pan ó bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor. ^[**11:27** 1Cor 11,21-22] <sup>28</sup> Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa. ^[**11:28** Mat 26,22] <sup>29</sup> Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor. ^[**11:29** 1Cor 10,16-17] <sup>30</sup> Por lo cual hay muchos enfermos y debilitados entre vosotros; y muchos duermen. <sup>31</sup> Que si nos examinásemos á nosotros mismos, cierto no seríamos juzgados. <sup>32</sup> Mas siendo juzgados, somos castigados del Señor, para que no seamos condenados con el mundo. ^[**11:32** Prov 3,11-12] 
-   <sup>33</sup> Así, que, hermanos míos, cuando os juntáis á comer, esperaos unos á otros. <sup>34</sup> Si alguno tuviere hambre, coma en su casa, porque no os juntéis para juicio. Las demás cosas ordenaré cuando llegare. 
+   
+
+<sup>33</sup> Así, que, hermanos míos, cuando os juntáis á comer, esperaos unos á otros. <sup>34</sup> Si alguno tuviere hambre, coma en su casa, porque no os juntéis para juicio. Las demás cosas ordenaré cuando llegare. 
 
 ## La marca de los dones espirituales divinamente forjados
 # 12 
-<sup>1</sup> Y ACERCA de los dones espirituales, no quiero, hermanos, que ignoréis. <sup>2</sup> Sabéis que cuando erais Gentiles, ibais, como erais llevados, á los ídolos mudos. <sup>3</sup> Por tanto os hago saber, que nadie que hable por Espíritu de Dios, llama anatema á Jesús; y nadie puede llamar á Jesús Señor, sino por Espíritu Santo. ^[**12:3** Mar 9,39; 1Jn 4,2; 1Jn 1,4-3] 
+<sup>1</sup> Y acerca de los dones espirituales, no quiero, hermanos, que ignoréis. <sup>2</sup> Sabéis que cuando erais Gentiles, ibais, como erais llevados, á los ídolos mudos. <sup>3</sup> Por tanto os hago saber, que nadie que hable por Espíritu de Dios, llama anatema á Jesús; y nadie puede llamar á Jesús Señor, sino por Espíritu Santo. ^[**12:3** Mar 9,39; 1Jn 4,2; 1Jn 1,4-3] 
 
 
 ## Diversidad de dones espirituales, pero solo un espíritu activo y un propósito
@@ -240,7 +248,7 @@
 <sup>31</sup> Empero procurad los mejores dones: mas aun yo os muestro un camino más excelente. 
 
 # 13 
-<sup>1</sup> SI yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo á ser como metal que resuena, ó címbalo que retiñe. <sup>2</sup> Y si tuviese profecía, y entendiese todos los misterios y toda ciencia; y si tuviese toda la fe, de tal manera que traspasase los montes, y no tengo caridad, nada soy. ^[**13:2** Mat 7,22; Mat 17,20] <sup>3</sup> Y si repartiese toda mi hacienda para dar de comer á pobres, y si entregase mi cuerpo para ser quemado, y no tengo caridad, de nada me sirve. ^[**13:3** Mat 6,2] 
+<sup>1</sup> Si yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo á ser como metal que resuena, ó címbalo que retiñe. <sup>2</sup> Y si tuviese profecía, y entendiese todos los misterios y toda ciencia; y si tuviese toda la fe, de tal manera que traspasase los montes, y no tengo caridad, nada soy. ^[**13:2** Mat 7,22; Mat 17,20] <sup>3</sup> Y si repartiese toda mi hacienda para dar de comer á pobres, y si entregase mi cuerpo para ser quemado, y no tengo caridad, de nada me sirve. ^[**13:3** Mat 6,2] 
  
 
 ## La esencia del amor
@@ -252,7 +260,7 @@
  
 
 # 14 
-<sup>1</sup> SEGUID la caridad; y procurad los dones espirituales, mas sobre todo que profeticéis. 
+<sup>1</sup> Seguid la caridad; y procurad los dones espirituales, mas sobre todo que profeticéis. 
 
 ## La diferencia entre el habla profética y el hablar en lenguas
 <sup>2</sup> Porque el que habla en lenguas, no habla á los hombres, sino á Dios; porque nadie le entiende, aunque en espíritu hable misterios. <sup>3</sup> Mas el que profetiza, habla á los hombres para edificación, y exhortación, y consolación. <sup>4</sup> El que habla lengua extraña, á sí mismo se edifica; mas el que profetiza, edifica á la iglesia. <sup>5</sup> Así que, quisiera que todos vosotros hablaseis lenguas, empero más que profetizaseis: porque mayor es el que profetiza que el que habla lenguas, si también no interpretare, para que la iglesia tome edificación. ^[**14:5** Núm 11,29; 1Cor 12,10] 
@@ -288,7 +296,7 @@
 
 ## De los hechos y testigos por los que se certifica la resurrección de Cristo
 # 15 
-<sup>1</sup> ADEMÁS os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis; <sup>2</sup> Por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano. 
+<sup>1</sup> Además os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis; <sup>2</sup> Por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano. 
 
 <sup>3</sup> Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo fué muerto por nuestros pecados, conforme á las Escrituras; ^[**15:3** Is 53,8-9] <sup>4</sup> Y que fué sepultado, y que resucitó al tercer día, conforme á las Escrituras; ^[**15:4** Luc 24,27; Luc 24,44-46] <sup>5</sup> Y que apareció á Cefas, y después á los doce. ^[**15:5** Juan 20,19; Juan 20,26; Luc 23,34] <sup>6</sup> Después apareció á más de quinientos hermanos juntos; de los cuales muchos viven aún, y otros son muertos. <sup>7</sup> Después apareció á Jacobo; después á todos los apóstoles. <sup>8</sup> Y el postrero de todos, como á un abortivo, me apareció á mí. ^[**15:8** 1Cor 9,1; Hech 9,3-6] <sup>9</sup> Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí la iglesia de Dios. ^[**15:9** Hech 8,3; Efes 3,8] <sup>10</sup> Empero por la gracia de Dios soy lo que soy: y su gracia no ha sido en vano para conmigo; antes he trabajado más que todos ellos: pero no yo, sino la gracia de Dios que fué conmigo. ^[**15:10** 2Cor 11,5; 2Cor 11,23] <sup>11</sup> Porque, ó sea yo ó sean ellos, así predicamos, y así habéis creído. 
      
@@ -328,7 +336,7 @@
 
 ## Invitación a participar en la recaudación de fondos para Jerusalén
 # 16 
-<sup>1</sup> CUANTO á la colecta para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia. ^[**16:1** 2Cor 8,9; Gal 2,10] <sup>2</sup> Cada primer día de la semana cada uno de vosotros aparte en su casa, guardando lo que por la bondad de Dios pudiere; para que cuando yo llegare, no se hagan entonces colectas. ^[**16:2** Hech 20,7] <sup>3</sup> Y cuando habré llegado, los que aprobareis por cartas, á éstos enviaré que lleven vuestro beneficio á Jerusalem. <sup>4</sup> Y si fuere digno el negocio de que yo también vaya, irán conmigo. 
+<sup>1</sup> Cuanto á la colecta para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia. ^[**16:1** 2Cor 8,9; Gal 2,10] <sup>2</sup> Cada primer día de la semana cada uno de vosotros aparte en su casa, guardando lo que por la bondad de Dios pudiere; para que cuando yo llegare, no se hagan entonces colectas. ^[**16:2** Hech 20,7] <sup>3</sup> Y cuando habré llegado, los que aprobareis por cartas, á éstos enviaré que lleven vuestro beneficio á Jerusalem. <sup>4</sup> Y si fuere digno el negocio de que yo también vaya, irán conmigo. 
  
 
 ## Los planes de viaje de Pablo y las noticias de la venida de Timoteo y Apolos

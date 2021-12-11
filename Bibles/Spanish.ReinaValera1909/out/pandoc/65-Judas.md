@@ -1,6 +1,6 @@
 ## Carta y bendición; Objeto y motivo de la redacción
 # 1 
-\bibverse{1} JUDAS, siervo de Jesucristo, y hermano de Jacobo, á los llamados, santificados en Dios Padre, y conservados en Jesucristo: ^[**1:1** Mat 13,55] \bibverse{2} Misericordia, y paz, y amor os sean multiplicados. 
+\bibverse{1} Judas, siervo de Jesucristo, y hermano de Jacobo, á los llamados, santificados en Dios Padre, y conservados en Jesucristo: ^[**1:1** Mat 13,55] \bibverse{2} Misericordia, y paz, y amor os sean multiplicados. 
 
 
 ## La necesidad de luchar contra los falsos maestros viciosos

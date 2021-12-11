@@ -1,6 +1,6 @@
 ## Nehemías como copero del rey Artajerjes en Susa; su dolor por la desgracia de su país
 # 1 
-\bibverse{1} PALABRAS de Nehemías, hijo de Hachâlías. Y acaeció en el mes de Chisleu, en el año veinte, estando yo en Susán, capital del reino, 
+\bibverse{1} Palabras de Nehemías, hijo de Hachâlías. Y acaeció en el mes de Chisleu, en el año veinte, estando yo en Susán, capital del reino, 
 
 \bibverse{2} Que vino Hanani, uno de mis hermanos, él y ciertos varones de Judá, y preguntéles por los Judíos que habían escapado, que habían quedado de la cautividad, y por Jerusalem. \bibverse{3} Y dijéronme: El residuo, los que quedaron de la cautividad allí en la provincia, están en gran mal y afrenta, y el muro de Jerusalem derribado, y sus puertas quemadas á fuego. 
 
@@ -18,7 +18,7 @@
 
 ## Nehemías recibe permiso y autoridad del rey persa Artajerjes para restaurar Jerusalén
 # 2 
-\bibverse{1} Y FUÉ en el mes de Nisán, en el año veinte del rey Artajerjes, que estando ya el vino delante de él, tomé el vino, y dílo al rey. Y como yo no había estado antes triste en su presencia, \bibverse{2} Díjome el rey: ¿Por qué está triste tu rostro, pues no estás enfermo? No es esto sino quebranto de corazón. Entonces temí en gran manera. 
+\bibverse{1} Y fué en el mes de Nisán, en el año veinte del rey Artajerjes, que estando ya el vino delante de él, tomé el vino, y dílo al rey. Y como yo no había estado antes triste en su presencia, \bibverse{2} Díjome el rey: ¿Por qué está triste tu rostro, pues no estás enfermo? No es esto sino quebranto de corazón. Entonces temí en gran manera. 
 
 \bibverse{3} Y dije al rey: El rey viva para siempre. ¿Cómo no estará triste mi rostro, cuando la ciudad, casa de los sepulcros de mis padres, está desierta, y sus puertas consumidas del fuego? 
 
@@ -47,7 +47,7 @@
 
 ## Construcción pieza a pieza del muro; Lista de los involucrados en la construcción del muro
 # 3 
-\bibverse{1} Y LEVANTÓSE Eliasib el gran sacerdote con sus hermanos los sacerdotes, y edificaron la puerta de las Ovejas. Ellos aparejaron y levantaron sus puertas hasta la torre de Meah, aparejáronla hasta la torre de Hananeel. \bibverse{2} Y junto á ella edificaron los varones de Jericó: y luego edificó Zachûr hijo de Imri. 
+\bibverse{1} Y levantóse Eliasib el gran sacerdote con sus hermanos los sacerdotes, y edificaron la puerta de las Ovejas. Ellos aparejaron y levantaron sus puertas hasta la torre de Meah, aparejáronla hasta la torre de Hananeel. \bibverse{2} Y junto á ella edificaron los varones de Jericó: y luego edificó Zachûr hijo de Imri. 
 
 \bibverse{3} Y los hijos de Senaa edificaron la puerta del Pescado: ellos la enmaderaron, y levantaron sus puertas, con sus cerraduras y sus cerrojos. \bibverse{4} Y junto á ellos restauró Meremoth hijo de Urías, hijo de Cos: y al lado de ellos, restauró Mesullam hijo de Berechîas, hijo de Mesezabeel. Junto á ellos restauró Sadoc hijo de Baana. \bibverse{5} E inmediato á ellos restauraron los Tecoitas; mas sus grandes no prestaron su cerviz á la obra de su Señor. 
 
@@ -64,7 +64,7 @@
 
 ## Continuación de la construcción del muro a pesar del ridículo y la hostilidad de los oponentes paganos
 # 4 
-\bibverse{1} Y FUÉ que como oyó Sanballat que nosotros edificábamos el muro, encolerizóse y enojóse en gran manera, é hizo escarnio de los Judíos. \bibverse{2} Y habló delante de sus hermanos y del ejército de Samaria, y dijo: ¿Qué hacen estos débiles Judíos? ¿hanles de permitir? ¿han de sacrificar? ¿han de acabar en un día? ¿han de resucitar de los montones del polvo las piedras que fueron quemadas? 
+\bibverse{1} Y fué que como oyó Sanballat que nosotros edificábamos el muro, encolerizóse y enojóse en gran manera, é hizo escarnio de los Judíos. \bibverse{2} Y habló delante de sus hermanos y del ejército de Samaria, y dijo: ¿Qué hacen estos débiles Judíos? ¿hanles de permitir? ¿han de sacrificar? ¿han de acabar en un día? ¿han de resucitar de los montones del polvo las piedras que fueron quemadas? 
 
 \bibverse{3} Y estaba junto á él Tobías Ammonita, el cual dijo: Aun lo que ellos edifican, si subiere una zorra derribará su muro de piedra. 
 
@@ -88,7 +88,7 @@
 
 ## Alivio de la difícil situación de la gente común mediante el alivio de la deuda; El gobierno desinteresado de Nehemías
 # 5 
-\bibverse{1} ENTONCES fué grande el clamor del pueblo y de sus mujeres contra los Judíos sus hermanos. \bibverse{2} Y había quien decía: Nosotros, nuestros hijos y nuestras hijas, somos muchos: hemos por tanto tomado grano para comer y vivir. \bibverse{3} Y había quienes decían: Hemos empeñado nuestras tierras, y nuestras viñas, y nuestras casas, para comprar grano en el hambre. \bibverse{4} Y había quienes decían: Hemos tomado prestado dinero para el tributo del rey, sobre nuestras tierras y viñas. \bibverse{5} Ahora bien, nuestra carne es como la carne de nuestros hermanos, nuestros hijos como sus hijos: y he aquí que nosotros sujetamos nuestros hijos y nuestras hijas á servidumbre, y hay algunas de nuestras hijas sujetas: mas no hay facultad en nuestras manos para rescatarlas, porque nuestras tierras y nuestras viñas son de otros. 
+\bibverse{1} Entonces fué grande el clamor del pueblo y de sus mujeres contra los Judíos sus hermanos. \bibverse{2} Y había quien decía: Nosotros, nuestros hijos y nuestras hijas, somos muchos: hemos por tanto tomado grano para comer y vivir. \bibverse{3} Y había quienes decían: Hemos empeñado nuestras tierras, y nuestras viñas, y nuestras casas, para comprar grano en el hambre. \bibverse{4} Y había quienes decían: Hemos tomado prestado dinero para el tributo del rey, sobre nuestras tierras y viñas. \bibverse{5} Ahora bien, nuestra carne es como la carne de nuestros hermanos, nuestros hijos como sus hijos: y he aquí que nosotros sujetamos nuestros hijos y nuestras hijas á servidumbre, y hay algunas de nuestras hijas sujetas: mas no hay facultad en nuestras manos para rescatarlas, porque nuestras tierras y nuestras viñas son de otros. 
 
 ## Eliminación de los males mediante las resoluciones de la asamblea popular
 \bibverse{6} Y enojéme en gran manera cuando oí su clamor y estas palabras. \bibverse{7} Meditélo entonces para conmigo, y reprendí á los principales y á los magistrados, y díjeles: ¿Tomáis cada uno usura de vuestros hermanos? Y convoqué contra ellos una grande junta. \bibverse{8} Y díjeles: Nosotros rescatamos á nuestros hermanos Judíos que habían sido vendidos á las gentes, conforme á la facultad que había en nosotros: ¿y vosotros aun vendéis á vuestros hermanos, y serán vendidos á nosotros? Y callaron, que no tuvieron qué responder. \bibverse{9} Y dije: No es bien lo que hacéis, ¿no andaréis en temor de nuestro Dios, por no ser el oprobio de las gentes enemigas nuestras? \bibverse{10} También yo, y mis hermanos, y mis criados, les hemos prestado dinero y grano: relevémosles ahora de este gravamen. \bibverse{11} Ruégoos que les devolváis hoy sus tierras, sus viñas, sus olivares, y sus casas, y la centésima parte del dinero y grano, del vino y del aceite que demandáis de ellos. 
@@ -103,7 +103,7 @@
 
 ## Esquemas (y asesinatos) de Sanbalat y sus camaradas; su rechazo por parte de Nehemías
 # 6 
-\bibverse{1} Y FUÉ que habiendo oído Sanballat, y Tobías, y Gesem el Arabe, y los demás nuestros enemigos, que había yo edificado el muro, y que no quedaba en él portillo, (aunque hasta aquel tiempo no había puesto en las puertas las hojas,) \bibverse{2} Sanballat y Gesem enviaron á decirme: Ven, y compongámonos juntos en alguna de las aldeas en el campo de Ono. Mas ellos habían pensado hacerme mal. 
+\bibverse{1} Y fué que habiendo oído Sanballat, y Tobías, y Gesem el Arabe, y los demás nuestros enemigos, que había yo edificado el muro, y que no quedaba en él portillo, (aunque hasta aquel tiempo no había puesto en las puertas las hojas,) \bibverse{2} Sanballat y Gesem enviaron á decirme: Ven, y compongámonos juntos en alguna de las aldeas en el campo de Ono. Mas ellos habían pensado hacerme mal. 
 
 \bibverse{3} Y enviéles mensajeros, diciendo: Yo hago una grande obra, y no puedo ir; porque cesaría la obra, dejándola yo para ir á vosotros. 
 
@@ -122,7 +122,7 @@
 
 ## La preocupación de Nehemías por la seguridad de la ciudad
 # 7 
-\bibverse{1} Y LUEGO que el muro fué edificado, y asenté las puertas, y fueron señalados porteros y cantores y Levitas, \bibverse{2} Mandé á mi hermano Hanani, y á Hananías, príncipe del palacio de Jerusalem, (porque era éste, como varón de verdad y temeroso de Dios, sobre muchos;) \bibverse{3} Y díjeles: No se abran las puertas de Jerusalem hasta que caliente el sol: y aun ellos presentes, cierren las puertas, y atrancad. Y señalé guardas de los moradores de Jerusalem, cada cual en su guardia, y cada uno delante de su casa. 
+\bibverse{1} Y luego que el muro fué edificado, y asenté las puertas, y fueron señalados porteros y cantores y Levitas, \bibverse{2} Mandé á mi hermano Hanani, y á Hananías, príncipe del palacio de Jerusalem, (porque era éste, como varón de verdad y temeroso de Dios, sobre muchos;) \bibverse{3} Y díjeles: No se abran las puertas de Jerusalem hasta que caliente el sol: y aun ellos presentes, cierren las puertas, y atrancad. Y señalé guardas de los moradores de Jerusalem, cada cual en su guardia, y cada uno delante de su casa. 
 
 ## La preocupación de Nehemías por aumentar la población de Jerusalén; Lista de los israelitas que anteriormente regresaron del cautiverio con Zorobabel
 \bibverse{4} Y la ciudad era espaciosa y grande, pero poco pueblo dentro de ella, y no había casas reedificadas. 
@@ -150,7 +150,7 @@
 
 ## Lectura de la ley por Esdras y celebración de la Fiesta de los Tabernáculos
 # 8 
-\bibverse{1} Y JUNTÓSE todo el pueblo como un solo hombre en la plaza que está delante de la puerta de las Aguas, y dijeron á Esdras el escriba, que trajese el libro de la ley de Moisés, la cual mandó Jehová á Israel. ^[**8:1** Esd 7,6] \bibverse{2} Y Esdras el sacerdote, trajo la ley delante de la congregación, así de hombres como de mujeres, y de todo entendido para escuchar, el primer día del mes séptimo. ^[**8:2** Deut 31,10-13] \bibverse{3} Y leyó en el libro delante de la plaza que está delante de la puerta de las Aguas, desde el alba hasta el medio día, en presencia de hombres y mujeres y entendidos; y los oídos de todo el pueblo estaban atentos al libro de la ley. \bibverse{4} Y Esdras el escriba estaba sobre un púlpito de madera, que habían hecho para ello; y junto á él estaban Mathithías, y Sema, y Anías, y Urías, é Hilcías, y Maasías, á su mano derecha; y á su mano izquierda, Pedaía, Misael, y Malchîas, y Hasum, y Hasbedana, Zachârías, y Mesullam. \bibverse{5} Abrió pues Esdras el libro á ojos de todo el pueblo, (porque estaba más alto que todo el pueblo); y como lo abrió, todo el pueblo estuvo atento. \bibverse{6} Bendijo entonces Esdras á Jehová, Dios grande. Y todo el pueblo respondió, ¡Amén! ¡Amén! alzando sus manos; y humilláronse, y adoraron á Jehová inclinados á tierra. 
+\bibverse{1} Y juntóse todo el pueblo como un solo hombre en la plaza que está delante de la puerta de las Aguas, y dijeron á Esdras el escriba, que trajese el libro de la ley de Moisés, la cual mandó Jehová á Israel. ^[**8:1** Esd 7,6] \bibverse{2} Y Esdras el sacerdote, trajo la ley delante de la congregación, así de hombres como de mujeres, y de todo entendido para escuchar, el primer día del mes séptimo. ^[**8:2** Deut 31,10-13] \bibverse{3} Y leyó en el libro delante de la plaza que está delante de la puerta de las Aguas, desde el alba hasta el medio día, en presencia de hombres y mujeres y entendidos; y los oídos de todo el pueblo estaban atentos al libro de la ley. \bibverse{4} Y Esdras el escriba estaba sobre un púlpito de madera, que habían hecho para ello; y junto á él estaban Mathithías, y Sema, y Anías, y Urías, é Hilcías, y Maasías, á su mano derecha; y á su mano izquierda, Pedaía, Misael, y Malchîas, y Hasum, y Hasbedana, Zachârías, y Mesullam. \bibverse{5} Abrió pues Esdras el libro á ojos de todo el pueblo, (porque estaba más alto que todo el pueblo); y como lo abrió, todo el pueblo estuvo atento. \bibverse{6} Bendijo entonces Esdras á Jehová, Dios grande. Y todo el pueblo respondió, ¡Amén! ¡Amén! alzando sus manos; y humilláronse, y adoraron á Jehová inclinados á tierra. 
  
 
 \bibverse{7} Y Jesuá, y Bani, y Serebías, Jamín, Accub, Sabethai, Odías, Maasías, Celita, Azarías, Jozabed, Hanán, Pelaía, Levitas, hacían entender al pueblo la ley: y el pueblo estaba en su lugar. \bibverse{8} Y leían en el libro de la ley de Dios claramente, y ponían el sentido, de modo que entendiesen la lectura. 
@@ -167,11 +167,13 @@
 \bibverse{13} Y el día siguiente se juntaron los príncipes de las familias de todo el pueblo, sacerdotes, y Levitas, á Esdras escriba, para entender las palabras de la ley. \bibverse{14} Y hallaron escrito en la ley que Jehová había mandado por mano de Moisés, que habitasen los hijos de Israel en cabañas en la solemnidad del mes séptimo; \bibverse{15} Y que hiciesen saber, y pasar pregón por todas sus ciudades y por Jerusalem, diciendo: Salid al monte, y traed ramos de oliva, y ramos de pino, y ramos de arrayán, y ramos de palmas, y ramos de todo árbol espeso, para hacer cabañas como está escrito. 
 
 \bibverse{16} Salió pues el pueblo, y trajeron, é hiciéronse cabañas, cada uno sobre su terrado, y en sus patios, y en los patios de la casa de Dios, y en la plaza de la puerta de las Aguas, y en la plaza de la puerta de Ephraim. ^[**8:16** Neh 8,1] 
+
+
 \bibverse{17} Y toda la congregación que volvió de la cautividad hicieron cabañas, y en cabañas habitaron; porque desde los días de Josué hijo de Nun hasta aquel día, no habían hecho así los hijos de Israel. Y hubo alegría muy grande. \bibverse{18} Y leyó Esdras en el libro de la ley de Dios cada día, desde el primer día hasta el postrero; é hicieron la solemnidad por siete días, y al octavo día congregación, según el rito. 
 
 ## Celebración del día de la penitencia con varias horas de lectura de la ley y varias horas de confesión
 # 9 
-\bibverse{1} Y EL día veinticuatro del mismo mes se juntaron los hijos de Israel en ayuno, y con sacos, y tierra sobre sí. \bibverse{2} Y habíase ya apartado la simiente de Israel de todos los extranjeros; y estando en pie, confesaron sus pecados, y las iniquidades de sus padres. \bibverse{3} Y puestos de pie en su lugar, leyeron en el libro de la ley de Jehová su Dios la cuarta parte del día, y la cuarta parte confesaron y adoraron á Jehová su Dios. \bibverse{4} Levantáronse luego sobre la grada de los Levitas, Jesuá y Bani, Cadmiel, Sebanías, Bunni, Serebías, Bani y Chênani, y clamaron en voz alta á Jehová su Dios. 
+\bibverse{1} Y el día veinticuatro del mismo mes se juntaron los hijos de Israel en ayuno, y con sacos, y tierra sobre sí. \bibverse{2} Y habíase ya apartado la simiente de Israel de todos los extranjeros; y estando en pie, confesaron sus pecados, y las iniquidades de sus padres. \bibverse{3} Y puestos de pie en su lugar, leyeron en el libro de la ley de Jehová su Dios la cuarta parte del día, y la cuarta parte confesaron y adoraron á Jehová su Dios. \bibverse{4} Levantáronse luego sobre la grada de los Levitas, Jesuá y Bani, Cadmiel, Sebanías, Bunni, Serebías, Bani y Chênani, y clamaron en voz alta á Jehová su Dios. 
 
 ## Invitación a alabar a Dios; Referencia a los maravillosos actos de poder y gracia de Dios en tiempos prehistóricos hasta la introducción de su pueblo en la tierra prometida
 \bibverse{5} Y dijeron los Levitas, Jesuá y Cadmiel, Bani, Hosabnías, Serebías, Odaías, Sebanías y Pethaía: Levantaos, bendecid á Jehová vuestro Dios desde el siglo hasta el siglo: y bendigan el nombre tuyo, glorioso y alto sobre toda bendición y alabanza. \bibverse{6} Tú, oh Jehová, eres solo; tú hiciste los cielos, y los cielos de los cielos, y toda su milicia, la tierra y todo lo que está en ella, los mares y todo lo que hay en ellos; y tú vivificas todas estas cosas, y los ejércitos de los cielos te adoran. \bibverse{7} Tú eres, oh Jehová, el Dios que escogiste á Abram, y lo sacaste de Ur de los Caldeos, y pusístele el nombre Abraham; \bibverse{8} Y hallaste fiel su corazón delante de ti, é hiciste con él alianza para darle la tierra del Cananeo, del Hetheo, y del Amorrheo, y del Pherezeo, y del Jebuseo, y del Gergeseo, para darla á su simiente: y cumpliste tu palabra, porque eres justo. ^[**9:8** Gén 15,18-21] 
@@ -207,7 +209,7 @@
 
 ## Renovación federal mediante contrato escrito y firmado de los jefes (especialmente jefes de familia) del pueblo
 # 10 
-\bibverse{1} Y LOS que firmaron fueron, Nehemías el Tirsatha, hijo de Hachâlías, y Sedecías, \bibverse{2} Seraías, Azarías, Jeremías, \bibverse{3} Pashur, Amarías, Malchías, \bibverse{4} Hattus, Sebanías, Malluch, \bibverse{5} Harim, Meremoth, Obadías, \bibverse{6} Daniel, Ginethón, Baruch, \bibverse{7} Mesullam, Abías, Miamín, \bibverse{8} Maazías, Bilgai, Semeías: estos, sacerdotes. \bibverse{9} Y Levitas: Jesuá hijo de Azanías, Binnui de los hijos de Henadad, Cadmiel; \bibverse{10} Y sus hermanos Sebanías, Odaía, Celita, Pelaías, Hanán; \bibverse{11} Michâ, Rehob, Hasabías, \bibverse{12} Zachû, Serebías, Sebanías, \bibverse{13} Odaía, Bani, Beninu. \bibverse{14} Cabezas del pueblo: Pharos, Pahath-moab, Elam, Zattu, Bani, \bibverse{15} Bunni, Azgad, Bebai, \bibverse{16} Adonías, Bigvai, Adín, \bibverse{17} Ater, Ezekías, Azur, \bibverse{18} Odaía, Hasum, Besai, \bibverse{19} Ariph, Anathoth, Nebai, \bibverse{20} Magpías, Mesullam, Hezir, \bibverse{21} Mesezabeel, Sadoc, Jadua, \bibverse{22} Pelatías, Hanán, Anaías, \bibverse{23} Hoseas, Hananías, Asub, \bibverse{24} Lohes, Pilha, Sobec, \bibverse{25} Rehum, Hasabna, Maaseías, \bibverse{26} Y Ahijas, Hanán, Anan, \bibverse{27} Malluch, Harim, Baana. 
+\bibverse{1} Y los que firmaron fueron, Nehemías el Tirsatha, hijo de Hachâlías, y Sedecías, \bibverse{2} Seraías, Azarías, Jeremías, \bibverse{3} Pashur, Amarías, Malchías, \bibverse{4} Hattus, Sebanías, Malluch, \bibverse{5} Harim, Meremoth, Obadías, \bibverse{6} Daniel, Ginethón, Baruch, \bibverse{7} Mesullam, Abías, Miamín, \bibverse{8} Maazías, Bilgai, Semeías: estos, sacerdotes. \bibverse{9} Y Levitas: Jesuá hijo de Azanías, Binnui de los hijos de Henadad, Cadmiel; \bibverse{10} Y sus hermanos Sebanías, Odaía, Celita, Pelaías, Hanán; \bibverse{11} Michâ, Rehob, Hasabías, \bibverse{12} Zachû, Serebías, Sebanías, \bibverse{13} Odaía, Bani, Beninu. \bibverse{14} Cabezas del pueblo: Pharos, Pahath-moab, Elam, Zattu, Bani, \bibverse{15} Bunni, Azgad, Bebai, \bibverse{16} Adonías, Bigvai, Adín, \bibverse{17} Ater, Ezekías, Azur, \bibverse{18} Odaía, Hasum, Besai, \bibverse{19} Ariph, Anathoth, Nebai, \bibverse{20} Magpías, Mesullam, Hezir, \bibverse{21} Mesezabeel, Sadoc, Jadua, \bibverse{22} Pelatías, Hanán, Anaías, \bibverse{23} Hoseas, Hananías, Asub, \bibverse{24} Lohes, Pilha, Sobec, \bibverse{25} Rehum, Hasabna, Maaseías, \bibverse{26} Y Ahijas, Hanán, Anan, \bibverse{27} Malluch, Harim, Baana. 
 
 ## Evitar los matrimonios mixtos y no tomar el sábado
 \bibverse{28} Y el resto del pueblo, los sacerdotes, Levitas, porteros, y cantores, Nethineos, y todos los que se habían apartado de los pueblos de las tierras á la ley de Dios, sus mujeres, sus hijos y sus hijas, y todo el que tenía comprensión y discernimiento, \bibverse{29} Adhiriéronse á sus hermanos, sus principales, y vinieron en la protestación y en el juramento de que andarían en la ley de Dios, que fué dada por mano de Moisés siervo de Dios, y que guardarían y cumplirían todos los mandamientos de Jehová nuestro Señor, y sus juicios y sus estatutos; ^[**10:29** Esd 2,70] \bibverse{30} Y que no daríamos nuestras hijas á los pueblos de la tierra, ni tomaríamos sus hijas para nuestros hijos. \bibverse{31} Asimismo, que si los pueblos de la tierra trajesen á vender mercaderías y comestibles en día de sábado, nada tomaríamos de ellos en sábado, ni en día santificado; y que dejaríamos el año séptimo, con remisión de toda deuda. 
@@ -219,7 +221,7 @@
 
 ## Una décima parte de la población rural está determinada por sorteo a mudarse a Jerusalén
 # 11 
-\bibverse{1} Y HABITARON los príncipes del pueblo en Jerusalem; mas el resto del pueblo echó suertes para traer uno de diez que morase en Jerusalem, ciudad santa, y las nueve partes en las otras ciudades. ^[**11:1** Neh 7,5] \bibverse{2} Y bendijo el pueblo á todos los varones que voluntariamente se ofrecieron á morar en Jerusalem. 
+\bibverse{1} Y habitaron los príncipes del pueblo en Jerusalem; mas el resto del pueblo echó suertes para traer uno de diez que morase en Jerusalem, ciudad santa, y las nueve partes en las otras ciudades. ^[**11:1** Neh 7,5] \bibverse{2} Y bendijo el pueblo á todos los varones que voluntariamente se ofrecieron á morar en Jerusalem. 
 
 
 ## Listas de los jefes de los judíos y benjaminitas que vivían en Jerusalén (incluidos sacerdotes, porteros, etc.)
@@ -238,11 +240,13 @@
 
 ## Lista de lugares que luego fueron poblados por judíos, benjaminitas y levitas
 \bibverse{25} Y tocante á las aldeas y sus tierras, algunos de los hijos de Judá habitaron en Chîriat-arba y sus aldeas, y en Dibón y sus aldeas, y en Jecabseel y sus aldeas; \bibverse{26} Y en Jesuá, Moladah, y en Beth-pelet; \bibverse{27} Y en Hasar-sual, y en Beer-seba, y en sus aldeas; \bibverse{28} Y en Siclag, y en Mechôna, y en sus aldeas; ^[**11:28** Jos 15,31] 
+
+
 \bibverse{29} Y en En-rimmón, y en Soreah y en Jarmuth; \bibverse{30} Zanoah, Adullam, y en sus aldeas; en Lachîs y sus tierras, Azeca y sus aldeas. Y habitaron desde Beer-seba hasta el valle de Hinnom. \bibverse{31} Y los hijos de Benjamín desde Geba habitaron en Michmas, y Aía, y en Beth-el y sus aldeas; \bibverse{32} En Anathoth, Nob, Ananiah; \bibverse{33} Hasor, Rama, Gitthaim; \bibverse{34} Hadid, Seboim, Neballath; \bibverse{35} Lod, y Ono, valle de los artífices. \bibverse{36} Y algunos de los Levitas, en los repartimientos de Judá y de Benjamín. 
 
 ## Clases de sacerdotes y levitas que regresaron con Zorobabel y Jesús
 # 12 
-\bibverse{1} Y ESTOS son los sacerdotes y Levitas que subieron con Zorobabel hijo de Sealthiel, y con Jesuá: Seraías, Jeremías, Esdras, ^[**12:1** Esd 2,2] \bibverse{2} Amarías, Malluch, Hartus, \bibverse{3} Sechânías, Rehum, Meremoth, \bibverse{4} Iddo, Ginetho, Abías, \bibverse{5} Miamin, Maadías, Bilga, \bibverse{6} Semaías, y Joiarib, Jedaías, \bibverse{7} Sallum, Amoc, Hilcías, Jedaías. Estos eran los príncipes de los sacerdotes y sus hermanos en los días de Jesuá. 
+\bibverse{1} Y estos son los sacerdotes y Levitas que subieron con Zorobabel hijo de Sealthiel, y con Jesuá: Seraías, Jeremías, Esdras, ^[**12:1** Esd 2,2] \bibverse{2} Amarías, Malluch, Hartus, \bibverse{3} Sechânías, Rehum, Meremoth, \bibverse{4} Iddo, Ginetho, Abías, \bibverse{5} Miamin, Maadías, Bilga, \bibverse{6} Semaías, y Joiarib, Jedaías, \bibverse{7} Sallum, Amoc, Hilcías, Jedaías. Estos eran los príncipes de los sacerdotes y sus hermanos en los días de Jesuá. 
 
 
 \bibverse{8} Y los Levitas: Jesuá, Binnui, Cadmiel, Serebías, Judá, y Mathanías, que con sus hermanos oficiaba en los himnos. ^[**12:8** Neh 11,17] \bibverse{9} Y Bacbucías y Unni, sus hermanos, cada cual en su ministerio. 
@@ -273,7 +277,7 @@
 
 ## Eliminación de los componentes paganos (especialmente amonitas y moabitas) de la comunidad
 # 13 
-\bibverse{1} AQUEL día se leyó en el libro de Moisés oyéndolo el pueblo, y fué hallado en él escrito, que los Ammonitas y Moabitas no debían entrar jamás en la congregación de Dios; ^[**13:1** Deut 23,4-6] \bibverse{2} Por cuanto no salieron á recibir á los hijos de Israel con pan y agua, antes alquilaron á Balaam contra ellos, para que los maldijera: mas nuestro Dios volvió la maldición en bendición. ^[**13:2** Núm 22,5-6] \bibverse{3} Y fué que, como oyeron la ley, apartaron de Israel toda mistura. 
+\bibverse{1} Aquel día se leyó en el libro de Moisés oyéndolo el pueblo, y fué hallado en él escrito, que los Ammonitas y Moabitas no debían entrar jamás en la congregación de Dios; ^[**13:1** Deut 23,4-6] \bibverse{2} Por cuanto no salieron á recibir á los hijos de Israel con pan y agua, antes alquilaron á Balaam contra ellos, para que los maldijera: mas nuestro Dios volvió la maldición en bendición. ^[**13:2** Núm 22,5-6] \bibverse{3} Y fué que, como oyeron la ley, apartaron de Israel toda mistura. 
  
 
 ## Eliminación de la celda de Tobija en el templo

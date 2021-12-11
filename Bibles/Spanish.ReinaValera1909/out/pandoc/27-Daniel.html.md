@@ -1,6 +1,6 @@
 ## La crianza de Daniel en la corte pagana de Babilonia
 # 1 
-<sup>1</sup> EN el año tercero del reinado de Joacim rey de Judá, vino Nabucodonosor rey de Babilonia á Jerusalem, y cercóla. ^[**1:1** 2Re 24,1-2] <sup>2</sup> Y el Señor entregó en sus manos á Joacim rey de Judá, y parte de los vasos de la casa de Dios, y trájolos á tierra de Sinar, á la casa de su dios: y metió los vasos en la casa del tesoro de su dios. 
+<sup>1</sup> En el año tercero del reinado de Joacim rey de Judá, vino Nabucodonosor rey de Babilonia á Jerusalem, y cercóla. ^[**1:1** 2Re 24,1-2] <sup>2</sup> Y el Señor entregó en sus manos á Joacim rey de Judá, y parte de los vasos de la casa de Dios, y trájolos á tierra de Sinar, á la casa de su dios: y metió los vasos en la casa del tesoro de su dios. 
 
 
 ## Daniel y sus amigos vienen a Babilonia para ser entrenados para el servicio real
@@ -26,7 +26,7 @@
 
 ## El sueño de Nabucodonosor interpretado por Daniel
 # 2 
-<sup>1</sup> Y EN el segundo año del reinado de Nabucodonosor, soñó Nabucodonosor sueños, y perturbóse su espíritu, y su sueño se huyó de él. <sup>2</sup> Y mandó el rey llamar magos, astrólogos, y encantadores, y Caldeos, para que mostrasen al rey sus sueños. Vinieron pues, y se presentaron delante del rey. ^[**2:2** Is 47,12-13] <sup>3</sup> Y el rey les dijo: He soñado un sueño, y mi espíritu se ha perturbado por saber del sueño. 
+<sup>1</sup> Y en el segundo año del reinado de Nabucodonosor, soñó Nabucodonosor sueños, y perturbóse su espíritu, y su sueño se huyó de él. <sup>2</sup> Y mandó el rey llamar magos, astrólogos, y encantadores, y Caldeos, para que mostrasen al rey sus sueños. Vinieron pues, y se presentaron delante del rey. ^[**2:2** Is 47,12-13] <sup>3</sup> Y el rey les dijo: He soñado un sueño, y mi espíritu se ha perturbado por saber del sueño. 
 
 
 <sup>4</sup> Entonces hablaron los Caldeos al rey en lengua aramea: Rey, para siempre vive: di el sueño á tus siervos, y mostraremos la declaración. 
@@ -81,7 +81,7 @@
 
 ## Nabucodonosor hace levantar un ídolo y ordena su adoración sobre el castigo de muerte por fuego
 # 3 
-<sup>1</sup> EL rey Nabucodonosor hizo una estatua de oro, la altura de la cual era de sesenta codos, su anchura de seis codos: levantóla en el campo de Dura, en la provincia de Babilonia. <sup>2</sup> Y envió el rey Nabucodonosor á juntar los grandes, los asistentes y capitanes, oidores, receptores, los del consejo, presidentes, y á todos los gobernadores de las provincias, para que viniesen á la dedicación de la estatua que el rey Nabucodonosor había levantado. <sup>3</sup> Fueron pues reunidos los grandes, los asistentes y capitanes, los oidores, receptores, los del consejo, los presidentes, y todos los gobernadores de las provincias, á la dedicación de la estatua que el rey Nabucodonosor había levantado: y estaban en pie delante de la estatua que había levantado el rey Nabucodonosor. 
+<sup>1</sup> El rey Nabucodonosor hizo una estatua de oro, la altura de la cual era de sesenta codos, su anchura de seis codos: levantóla en el campo de Dura, en la provincia de Babilonia. <sup>2</sup> Y envió el rey Nabucodonosor á juntar los grandes, los asistentes y capitanes, oidores, receptores, los del consejo, presidentes, y á todos los gobernadores de las provincias, para que viniesen á la dedicación de la estatua que el rey Nabucodonosor había levantado. <sup>3</sup> Fueron pues reunidos los grandes, los asistentes y capitanes, los oidores, receptores, los del consejo, los presidentes, y todos los gobernadores de las provincias, á la dedicación de la estatua que el rey Nabucodonosor había levantado: y estaban en pie delante de la estatua que había levantado el rey Nabucodonosor. 
 
 <sup>4</sup> Y el pregonero pregonaba en alta voz: Mándase á vosotros, oh pueblos, naciones, y lenguas, <sup>5</sup> En oyendo el son de la bocina, del pífano, del tamboril, del arpa, del salterio, de la zampoña, y de todo instrumento músico, os postraréis y adoraréis la estatua de oro que el rey Nabucodonosor ha levantado: <sup>6</sup> Y cualquiera que no se postrare y adorare, en la misma hora será echado dentro de un horno de fuego ardiendo. 
 
@@ -116,23 +116,26 @@
 
 ## El segundo sueño de Nabucodonosor, su humillación y exaltación
 # 4 
-<sup>1</sup> NABUCODONOSOR rey, á todos los pueblos, naciones, y lenguas, que moran en toda la tierra: Paz os sea multiplicada: 
+<sup>1</sup> Nabucodonosor rey, á todos los pueblos, naciones, y lenguas, que moran en toda la tierra: Paz os sea multiplicada: 
 
 <sup>2</sup> Las señales y milagros que el alto Dios ha hecho conmigo, conviene que yo las publique. <sup>3</sup> ¡Cuán grandes son sus señales, y cuán potentes sus maravillas! Su reino, reino sempiterno, y su señorío hasta generación y generación. 
 
-<sup>4</sup> Yo Nabucodonosor estaba quieto en mi casa, y floreciente en mi palacio. <sup>5</sup> Vi un sueño que me espantó, y las imaginaciones y visiones de mi cabeza me turbaron en mi cama. ^[**4:5** Dan 5,11; Dan 5,14] <sup>6</sup> Por lo cual yo puse mandamiento para hacer venir delante de mí todos los sabios de Babilonia, que me mostrasen la declaración del sueño. ^[**4:6** Ezeq 28,3] <sup>7</sup> Y vinieron magos, astrólogos, Caldeos, y adivinos: y dije el sueño delante de ellos, mas nunca me mostraron su declaración; ^[**4:7** Ezeq 31,3-14] <sup>8</sup> Hasta tanto que entró delante de mí Daniel, cuyo nombre es Beltsasar, como el nombre de mi dios, y en el cual hay espíritu de los dioses santos, y dije el sueño delante de él, diciendo: 
-  
+<sup>4</sup> Yo Nabucodonosor estaba quieto en mi casa, y floreciente en mi palacio. <sup>5</sup> Vi un sueño que me espantó, y las imaginaciones y visiones de mi cabeza me turbaron en mi cama. <sup>6</sup> Por lo cual yo puse mandamiento para hacer venir delante de mí todos los sabios de Babilonia, que me mostrasen la declaración del sueño. <sup>7</sup> Y vinieron magos, astrólogos, Caldeos, y adivinos: y dije el sueño delante de ellos, mas nunca me mostraron su declaración; <sup>8</sup> Hasta tanto que entró delante de mí Daniel, cuyo nombre es Beltsasar, como el nombre de mi dios, y en el cual hay espíritu de los dioses santos, y dije el sueño delante de él, diciendo: ^[**4:8** Dan 5,11; Dan 5,14]
+ 
 
-<sup>9</sup> Beltsasar, príncipe de los magos, ya que he entendido que hay en ti espíritu de los dioses santos, y que ningún misterio se te esconde, exprésame las visiones de mi sueño que he visto, y su declaración. 
+<sup>9</sup> Beltsasar, príncipe de los magos, ya que he entendido que hay en ti espíritu de los dioses santos, y que ningún misterio se te esconde, exprésame las visiones de mi sueño que he visto, y su declaración. ^[**4:9** Ezeq 28,3] 
+
 
 ## Nabucodonosor comparte el sueño con Daniel
-<sup>10</sup> Aquestas las visiones de mi cabeza en mi cama: Parecíame que veía un árbol en medio de la tierra, cuya altura era grande. <sup>11</sup> Crecía este árbol, y hacíase fuerte, y su altura llegaba hasta el cielo, y su vista hasta el cabo de toda la tierra. ^[**4:11** Dan 4,20] <sup>12</sup> Su copa era hermosa, y su fruto en abundancia, y para todos había en él mantenimiento. Debajo de él se ponían á la sombra las bestias del campo, y en sus ramas hacían morada las aves del cielo, y manteníase de él toda carne. 
+<sup>10</sup> Aquestas las visiones de mi cabeza en mi cama: Parecíame que veía un árbol en medio de la tierra, cuya altura era grande. ^[**4:10** Ezeq 31,3-14] <sup>11</sup> Crecía este árbol, y hacíase fuerte, y su altura llegaba hasta el cielo, y su vista hasta el cabo de toda la tierra. <sup>12</sup> Su copa era hermosa, y su fruto en abundancia, y para todos había en él mantenimiento. Debajo de él se ponían á la sombra las bestias del campo, y en sus ramas hacían morada las aves del cielo, y manteníase de él toda carne. 
 
 
-<sup>13</sup> Veía en las visiones de mi cabeza en mi cama, y he aquí que un vigilante y santo descendía del cielo. <sup>14</sup> Y clamaba fuertemente y decía así: Cortad el árbol, y desmochad sus ramas, derribad su copa, y derramad su fruto: váyanse las bestias que están debajo de él, y las aves de sus ramas. ^[**4:14** Dan 2,21] <sup>15</sup> Mas la cepa de sus raíces dejaréis en la tierra, y con atadura de hierro y de metal entre la hierba del campo; y sea mojado con el rocío del cielo, y su parte con las bestias en la hierba de la tierra. <sup>16</sup> Su corazón sea mudado de corazón de hombre, y séale dado corazón de bestia, y pasen sobre él siete tiempos. 
+<sup>13</sup> Veía en las visiones de mi cabeza en mi cama, y he aquí que un vigilante y santo descendía del cielo. <sup>14</sup> Y clamaba fuertemente y decía así: Cortad el árbol, y desmochad sus ramas, derribad su copa, y derramad su fruto: váyanse las bestias que están debajo de él, y las aves de sus ramas. ^[**4:14** Dan 4,20] <sup>15</sup> Mas la cepa de sus raíces dejaréis en la tierra, y con atadura de hierro y de metal entre la hierba del campo; y sea mojado con el rocío del cielo, y su parte con las bestias en la hierba de la tierra. <sup>16</sup> Su corazón sea mudado de corazón de hombre, y séale dado corazón de bestia, y pasen sobre él siete tiempos. 
+ 
+
+<sup>17</sup> La sentencia es por decreto de los vigilantes, y por dicho de los santos la demanda: para que conozcan los vivientes que el Altísimo se enseñorea del reino de los hombres, y que á quien él quiere lo da, y constituye sobre él al más bajo de los hombres. ^[**4:17** Dan 2,21]
 
 
-<sup>17</sup> La sentencia es por decreto de los vigilantes, y por dicho de los santos la demanda: para que conozcan los vivientes que el Altísimo se enseñorea del reino de los hombres, y que á quien él quiere lo da, y constituye sobre él al más bajo de los hombres. 
 
 <sup>18</sup> Yo el rey Nabucodonosor he visto este sueño. Tú pues, Beltsasar, dirás la declaración de él, porque todos los sabios de mi reino nunca pudieron mostrarme su interpretación: mas tú puedes, porque hay en ti espíritu de los dioses santos. 
 
@@ -146,17 +149,17 @@
 <sup>24</sup> Esta es la declaración, oh rey, y la sentencia del Altísimo, que ha venido sobre el rey mi señor: 
 
 ## El cumplimiento de todas las profecías de Daniel: la arrogancia de Nabucodonosor, desprecio por el espíritu, conversión, restauración
-<sup>25</sup> Que te echarán de entre los hombres, y con las bestias del campo será tu morada, y con hierba del campo te apacentarán como á los bueyes, y con rocío del cielo serás bañado; y siete tiempos pasarán sobre ti, hasta que entiendas que el Altísimo se enseñorea en el reino de los hombres, y que á quien él quisiere lo dará. <sup>26</sup> Y lo que dijeron, que dejasen en la tierra la cepa de las raíces del mismo árbol, significa que tu reino se te quedará firme, luego que entiendas que el señorío es en los cielos. <sup>27</sup> Por tanto, oh rey, aprueba mi consejo, y redime tus pecados con justicia, y tus iniquidades con misericordias para con los pobres; que tal vez será eso una prolongación de tu tranquilidad. ^[**4:27** Prov 16,18; Hech 12,23] 
+<sup>25</sup> Que te echarán de entre los hombres, y con las bestias del campo será tu morada, y con hierba del campo te apacentarán como á los bueyes, y con rocío del cielo serás bañado; y siete tiempos pasarán sobre ti, hasta que entiendas que el Altísimo se enseñorea en el reino de los hombres, y que á quien él quisiere lo dará. <sup>26</sup> Y lo que dijeron, que dejasen en la tierra la cepa de las raíces del mismo árbol, significa que tu reino se te quedará firme, luego que entiendas que el señorío es en los cielos. <sup>27</sup> Por tanto, oh rey, aprueba mi consejo, y redime tus pecados con justicia, y tus iniquidades con misericordias para con los pobres; que tal vez será eso una prolongación de tu tranquilidad. 
+
+<sup>28</sup> Todo aquesto vino sobre el rey Nabucodonosor. <sup>29</sup> A cabo de doce meses, andándose paseando sobre el palacio del reino de Babilonia, <sup>30</sup> Habló el rey, y dijo: ¿No es ésta la gran Babilonia, que yo edifiqué para casa del reino, con la fuerza de mi poder, y para gloria de mi grandeza? ^[**4:30** Prov 16,18; Hech 12,23]
 
 
-<sup>28</sup> Todo aquesto vino sobre el rey Nabucodonosor. <sup>29</sup> A cabo de doce meses, andándose paseando sobre el palacio del reino de Babilonia, <sup>30</sup> Habló el rey, y dijo: ¿No es ésta la gran Babilonia, que yo edifiqué para casa del reino, con la fuerza de mi poder, y para gloria de mi grandeza? 
-
-<sup>31</sup> Aun estaba la palabra en la boca del rey, cuando cae una voz del cielo: A ti dicen, rey Nabucodonosor; el reino es traspasado de ti: ^[**4:31** Dan 3,33] <sup>32</sup> Y de entre los hombres te echan, y con las bestias del campo será tu morada, y como á los bueyes te apacentarán: y siete tiempos pasarán sobre ti, hasta que conozcas que el Altísimo se enseñorea en el reino de los hombres, y á quien él quisiere lo da. 
-
+<sup>31</sup> Aun estaba la palabra en la boca del rey, cuando cae una voz del cielo: A ti dicen, rey Nabucodonosor; el reino es traspasado de ti: ^[**4:34** Dan 3,33] <sup>32</sup> Y de entre los hombres te echan, y con las bestias del campo será tu morada, y como á los bueyes te apacentarán: y siete tiempos pasarán sobre ti, hasta que conozcas que el Altísimo se enseñorea en el reino de los hombres, y á quien él quisiere lo da. 
 
 <sup>33</sup> En la misma hora se cumplió la palabra sobre Nabucodonosor, y fué echado de entre los hombres; y comía hierba como los bueyes, y su cuerpo se bañaba con el rocío del cielo, hasta que su pelo creció como de águila, y sus uñas como de aves. 
 
-<sup>34</sup> Mas al fin del tiempo yo Nabucodonosor alcé mis ojos al cielo, y mi sentido me fué vuelto; y bendije al Altísimo, y alabé y glorifiqué al que vive para siempre; porque su señorío es sempiterno, y su reino por todas las edades. <sup>35</sup> Y todos los moradores de la tierra por nada son contados: y en el ejército del cielo, y en los habitantes de la tierra, hace según su voluntad: ni hay quien estorbe su mano, y le diga: ¿Qué haces? 
+<sup>34</sup> Mas al fin del tiempo yo Nabucodonosor alcé mis ojos al cielo, y mi sentido me fué vuelto; y bendije al Altísimo, y alabé y glorifiqué al que vive para siempre; porque su señorío es sempiterno, y su reino por todas las edades. ^[**5:1** Dan 7,1] <sup>35</sup> Y todos los moradores de la tierra por nada son contados: y en el ejército del cielo, y en los habitantes de la tierra, hace según su voluntad: ni hay quien estorbe su mano, y le diga: ¿Qué haces? 
+
 
 <sup>36</sup> En el mismo tiempo mi sentido me fué vuelto, y la majestad de mi reino, mi dignidad y mi grandeza volvieron á mí, y mis gobernadores y mis grandes me buscaron; y fuí restituído á mi reino, y mayor grandeza me fué añadida. 
 
@@ -165,7 +168,7 @@
 
 ## Belsasar consagra los vasos del templo de los judíos
 # 5 
-<sup>1</sup> EL rey Belsasar hizo un gran banquete á mil de sus príncipes, y en presencia de los mil bebía vino. ^[**5:1** Dan 7,1] <sup>2</sup> Belsasar, con el gusto del vino, mandó que trajesen los vasos de oro y de plata que Nabucodonosor su padre había traído del templo de Jerusalem; para que bebiesen con ellos el rey y sus príncipes, sus mujeres y sus concubinas. ^[**5:2** Dan 1,2; 2Cró 36,10] <sup>3</sup> Entonces fueron traídos los vasos de oro que habían traído del templo de la casa de Dios que estaba en Jerusalem, y bebieron con ellos el rey y sus príncipes, sus mujeres y sus concubinas. <sup>4</sup> Bebieron vino, y alabaron á los dioses de oro y de plata, de metal, de hierro, de madera, y de piedra. 
+<sup>1</sup> El rey Belsasar hizo un gran banquete á mil de sus príncipes, y en presencia de los mil bebía vino.  <sup>2</sup> Belsasar, con el gusto del vino, mandó que trajesen los vasos de oro y de plata que Nabucodonosor su padre había traído del templo de Jerusalem; para que bebiesen con ellos el rey y sus príncipes, sus mujeres y sus concubinas. ^[**5:2** Dan 1,2; 2Cró 36,10] <sup>3</sup> Entonces fueron traídos los vasos de oro que habían traído del templo de la casa de Dios que estaba en Jerusalem, y bebieron con ellos el rey y sus príncipes, sus mujeres y sus concubinas. <sup>4</sup> Bebieron vino, y alabaron á los dioses de oro y de plata, de metal, de hierro, de madera, y de piedra. 
  
 
 ## Aparece la enigmática inscripción, que ningún sabio puede interpretar; por consejo de la reina madre, traen a Daniel
@@ -201,24 +204,25 @@
 
 ## El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios
 # 6 
-<sup>1</sup> PARECIÓ bien á Darío constituir sobre el reino ciento veinte gobernadores, que estuviesen en todo el reino. <sup>2</sup> Y sobre ellos tres presidentes, de los cuales Daniel era el uno, á quienes estos gobernadores diesen cuenta, porque el rey no recibiese daño. <sup>3</sup> Pero el mismo Daniel era superior á estos gobernadores y presidentes, porque había en él más abundancia de espíritu: y el rey pensaba de ponerlo sobre todo el reino. 
+<sup>1</sup> Pareció bien á Darío constituir sobre el reino ciento veinte gobernadores, que estuviesen en todo el reino. <sup>2</sup> Y sobre ellos tres presidentes, de los cuales Daniel era el uno, á quienes estos gobernadores diesen cuenta, porque el rey no recibiese daño. <sup>3</sup> Pero el mismo Daniel era superior á estos gobernadores y presidentes, porque había en él más abundancia de espíritu: y el rey pensaba de ponerlo sobre todo el reino. ^[**6:3** Dan 5,12]
 
-<sup>4</sup> Entonces los presidentes y gobernadores buscaban ocasiones contra Daniel por parte del reino; mas no podían hallar alguna ocasión ó falta, porque él era fiel, y ningún vicio ni falta fué en él hallado. ^[**6:4** Dan 5,12] <sup>5</sup> Entonces dijeron aquellos hombres: No hallaremos contra este Daniel ocasión alguna, si no la hallamos contra él en la ley de su Dios. 
+
+<sup>4</sup> Entonces los presidentes y gobernadores buscaban ocasiones contra Daniel por parte del reino; mas no podían hallar alguna ocasión ó falta, porque él era fiel, y ningún vicio ni falta fué en él hallado. <sup>5</sup> Entonces dijeron aquellos hombres: No hallaremos contra este Daniel ocasión alguna, si no la hallamos contra él en la ley de su Dios. 
 
 
 <sup>6</sup> Entonces estos gobernadores y presidentes se juntaron delante del rey, y le dijeron así: Rey Darío, para siempre vive: 
 
 ## Los funcionarios celosos obtienen un decreto real sobre un ejercicio de oración único en el reino
-<sup>7</sup> Todos los presidentes del reino, magistrados, gobernadores, grandes, y capitanes, han acordado por consejo promulgar un real edicto, y confirmarlo, que cualquiera que demandare petición de cualquier dios ú hombre en el espacio de treinta días, sino de ti, oh rey, sea echado en el foso de los leones. <sup>8</sup> Ahora, oh rey, confirma el edicto, y firma la escritura, para que no se pueda mudar, conforme á la ley de Media y de Persia, la cual no se revoca. <sup>9</sup> Firmó pues el rey Darío la escritura y el edicto. ^[**6:9** Dan 6,16; Est 1,19; Est 8,8] 
+<sup>7</sup> Todos los presidentes del reino, magistrados, gobernadores, grandes, y capitanes, han acordado por consejo promulgar un real edicto, y confirmarlo, que cualquiera que demandare petición de cualquier dios ú hombre en el espacio de treinta días, sino de ti, oh rey, sea echado en el foso de los leones. <sup>8</sup> Ahora, oh rey, confirma el edicto, y firma la escritura, para que no se pueda mudar, conforme á la ley de Media y de Persia, la cual no se revoca. ^[**6:8** Dan 6,16; Est 1,19; Est 8,8] <sup>9</sup> Firmó pues el rey Darío la escritura y el edicto.
 
 
 <sup>10</sup> Y Daniel, cuando supo que la escritura estaba firmada, entróse en su casa, y abiertas las ventanas de su cámara que estaban hacia Jerusalem, hincábase de rodillas tres veces al día, y oraba, y confesaba delante de su Dios, como lo solía hacer antes. 
 
 ## La transgresión del edicto de Daniel como resultado de su temor de Dios; su condena a pesar del dolor del rey
-<sup>11</sup> Entonces se juntaron aquellos hombres, y hallaron á Daniel orando y rogando delante de su Dios. <sup>12</sup> Llegáronse luego, y hablaron delante del rey acerca del edicto real: ¿No has confirmado edicto que cualquiera que pidiere á cualquier dios ú hombre en el espacio de treinta días, excepto á ti, oh rey, fuese echado en el foso de los leones? Respondió el rey y dijo: Verdad es, conforme á la ley de Media y de Persia, la cual no se abroga. 
+<sup>11</sup> Entonces se juntaron aquellos hombres, y hallaron á Daniel orando y rogando delante de su Dios. <sup>12</sup> Llegáronse luego, y hablaron delante del rey acerca del edicto real: ¿No has confirmado edicto que cualquiera que pidiere á cualquier dios ú hombre en el espacio de treinta días, excepto á ti, oh rey, fuese echado en el foso de los leones? Respondió el rey y dijo: Verdad es, conforme á la ley de Media y de Persia, la cual no se abroga. ^[**6:12** Dan 3,10] 
 
-<sup>13</sup> Entonces respondieron y dijeron delante del rey: Daniel que es de los hijos de la cautividad de los Judíos, no ha hecho cuenta de ti, oh rey, ni del edicto que confirmaste; antes tres veces al día hace su petición. ^[**6:13** Dan 3,10] <sup>14</sup> El rey entonces, oyendo el negocio, pesóle en gran manera, y sobre Daniel puso cuidado para librarlo; y hasta puestas del sol trabajó para librarle. 
 
+<sup>13</sup> Entonces respondieron y dijeron delante del rey: Daniel que es de los hijos de la cautividad de los Judíos, no ha hecho cuenta de ti, oh rey, ni del edicto que confirmaste; antes tres veces al día hace su petición. <sup>14</sup> El rey entonces, oyendo el negocio, pesóle en gran manera, y sobre Daniel puso cuidado para librarlo; y hasta puestas del sol trabajó para librarle. 
 
 <sup>15</sup> Empero aquellos hombres se reunieron cerca del rey, y dijeron al rey: Sepas, oh rey, que es ley de Media y de Persia, que ningún decreto ú ordenanza que el rey confirmare pueda mudarse. 
 
@@ -227,28 +231,28 @@
 <sup>17</sup> Y fué traída una piedra, y puesta sobre la puerta del foso, la cual selló el rey con su anillo, y con el anillo de sus príncipes, porque el acuerdo acerca de Daniel no se mudase. <sup>18</sup> Fuése luego el rey á su palacio, y acostóse ayuno; ni instrumentos de música fueron traídos delante de él, y se le fué el sueño. 
 
 ## El rescate de Daniel; la alegría y la gracia del rey; Castigo de los envidiosos culpables
-<sup>19</sup> El rey, por tanto, se levantó muy de mañana, y fué apriesa al foso de los leones: <sup>20</sup> Y llegándose cerca del foso llamó á voces á Daniel con voz triste: y hablando el rey dijo á Daniel: Daniel, siervo del Dios viviente, el Dios tuyo, á quien tú continuamente sirves ¿te ha podido librar de los leones? 
-
-<sup>21</sup> Entonces habló Daniel con el rey: oh rey, para siempre vive. ^[**6:21** Dan 3,17] <sup>22</sup> El Dios mío envió su ángel, el cual cerró la boca de los leones, para que no me hiciesen mal: porque delante de él se halló en mí justicia: y aun delante de ti, oh rey, yo no he hecho lo que no debiese. ^[**6:22** Dan 6,7] 
- 
-
-<sup>23</sup> Entonces se alegró el rey en gran manera á causa de él, y mandó sacar á Daniel del foso: y fué Daniel sacado del foso, y ninguna lesión se halló en él, porque creyó en su Dios. ^[**6:23** Dan 3,28; Heb 11,33] 
+<sup>19</sup> El rey, por tanto, se levantó muy de mañana, y fué apriesa al foso de los leones: <sup>20</sup> Y llegándose cerca del foso llamó á voces á Daniel con voz triste: y hablando el rey dijo á Daniel: Daniel, siervo del Dios viviente, el Dios tuyo, á quien tú continuamente sirves ¿te ha podido librar de los leones? ^[**6:20** Dan 3,17]
 
 
-<sup>24</sup> Y mandándolo el rey fueron traídos aquellos hombres que habían acusado á Daniel, y fueron echados en el foso de los leones, ellos, sus hijos, y sus mujeres; y aun no habían llegado al suelo del foso, cuando los leones se apoderaron de ellos, y quebrantaron todos sus huesos. ^[**6:24** Sal 37,40] 
+<sup>21</sup> Entonces habló Daniel con el rey: oh rey, para siempre vive. ^[**6:21** Dan 6,7] <sup>22</sup> El Dios mío envió su ángel, el cual cerró la boca de los leones, para que no me hiciesen mal: porque delante de él se halló en mí justicia: y aun delante de ti, oh rey, yo no he hecho lo que no debiese. ^[**6:22** Dan 3,28; Heb 11,33]
+  
 
+<sup>23</sup> Entonces se alegró el rey en gran manera á causa de él, y mandó sacar á Daniel del foso: y fué Daniel sacado del foso, y ninguna lesión se halló en él, porque creyó en su Dios. ^[**6:23** Sal 37,40]
+
+
+<sup>24</sup> Y mandándolo el rey fueron traídos aquellos hombres que habían acusado á Daniel, y fueron echados en el foso de los leones, ellos, sus hijos, y sus mujeres; y aun no habían llegado al suelo del foso, cuando los leones se apoderaron de ellos, y quebrantaron todos sus huesos.
 
 ## Reconocimiento de la grandeza del Dios de los judíos por un nuevo edicto real; Daniel permanece en una posición alta
 <sup>25</sup> Entonces el rey Darío escribió á todos los pueblos, naciones, y lenguas, que habitan en toda la tierra: Paz os sea multiplicada: 
 
-<sup>26</sup> De parte mía es puesta ordenanza, que en todo el señorío de mi reino todos teman y tiemblen de la presencia del Dios de Daniel: porque él es el Dios viviente y permanente por todos los siglos, y su reino tal que no será deshecho, y su señorío hasta el fin. <sup>27</sup> Que salva y libra, y hace señales y maravillas en el cielo y en la tierra; el cual libró á Daniel del poder de los leones. ^[**6:27** Dan 3,33] 
+<sup>26</sup> De parte mía es puesta ordenanza, que en todo el señorío de mi reino todos teman y tiemblen de la presencia del Dios de Daniel: porque él es el Dios viviente y permanente por todos los siglos, y su reino tal que no será deshecho, y su señorío hasta el fin. ^[**6:26** Dan 3,33] <sup>27</sup> Que salva y libra, y hace señales y maravillas en el cielo y en la tierra; el cual libró á Daniel del poder de los leones. 
 
 
 <sup>28</sup> Y este Daniel fué prosperado durante el reinado de Darío, y durante el reinado de Ciro, Persa. 
 
 ## Daniels Traum von dem Erscheinen eines Löwen, eines Bären, eines Panthers, eines furchtbaren Tieres mit zehn Hörnern sowie eines kleinen Horns
 # 7 
-<sup>1</sup> EN el primer año de Belsasar rey de Babilonia, vió Daniel un sueño y visiones de su cabeza en su cama: luego escribió el sueño, y notó la suma de los negocios. ^[**7:1** Dan 5,1] 
+<sup>1</sup> En el primer año de Belsasar rey de Babilonia, vió Daniel un sueño y visiones de su cabeza en su cama: luego escribió el sueño, y notó la suma de los negocios. ^[**7:1** Dan 5,1] 
 
 
 <sup>2</sup> Habló Daniel y dijo: Veía yo en mi visión de noche, y he aquí que los cuatro vientos del cielo combatían en la gran mar. ^[**7:2** Apoc 17,15] <sup>3</sup> Y cuatro bestias grandes, diferentes la una de la otra, subían de la mar. ^[**7:3** Apoc 13,1-2] 
@@ -295,7 +299,7 @@
 
 ## Escena de la cara del sueño; Lucha del carnero de cuernos desiguales (persa) y el macho cabrío de un cuerno (griego); Victoria y fortalecimiento de este último
 # 8 
-<sup>1</sup> EN el año tercero del reinado del rey Belsasar, me apareció una visión á mí, Daniel, después de aquella que me había aparecido antes. <sup>2</sup> Vi en visión, (y aconteció cuando vi, que yo estaba en Susán, que es cabecera del reino en la provincia de Persia;) vi pues en visión, estando junto al río Ulai, <sup>3</sup> Y alcé mis ojos, y miré, y he aquí un carnero que estaba delante del río, el cual tenía dos cuernos: y aunque eran altos, el uno era más alto que el otro; y el más alto subió á la postre. <sup>4</sup> Vi que el carnero hería con los cuernos al poniente, al norte, y al mediodía, y que ninguna bestia podía parar delante de él, ni había quien escapase de su mano: y hacía conforme á su voluntad, y engrandecíase. 
+<sup>1</sup> En el año tercero del reinado del rey Belsasar, me apareció una visión á mí, Daniel, después de aquella que me había aparecido antes. <sup>2</sup> Vi en visión, (y aconteció cuando vi, que yo estaba en Susán, que es cabecera del reino en la provincia de Persia;) vi pues en visión, estando junto al río Ulai, <sup>3</sup> Y alcé mis ojos, y miré, y he aquí un carnero que estaba delante del río, el cual tenía dos cuernos: y aunque eran altos, el uno era más alto que el otro; y el más alto subió á la postre. <sup>4</sup> Vi que el carnero hería con los cuernos al poniente, al norte, y al mediodía, y que ninguna bestia podía parar delante de él, ni había quien escapase de su mano: y hacía conforme á su voluntad, y engrandecíase. 
 
 <sup>5</sup> Y estando yo considerando, he aquí un macho de cabrío venía de la parte del poniente sobre la haz de toda la tierra, el cual no tocaba la tierra: y tenía aquel macho de cabrío un cuerno notable entre sus ojos: <sup>6</sup> Y vino hasta el carnero que tenía los dos cuernos, al cual había yo visto que estaba delante del río, y corrió contra él con la ira de su fortaleza. <sup>7</sup> Y vilo que llegó junto al carnero, y levantóse contra él, é hiriólo, y quebró sus dos cuernos, porque en el carnero no había fuerzas para parar delante de él: derribólo por tanto en tierra, y hollólo; ni hubo quien librase al carnero de su mano. <sup>8</sup> Y engrandecióse en gran manera el macho de cabrío; y estando en su mayor fuerza, aquel gran cuerno fué quebrado, y en su lugar subieron otros cuatro maravillosos hacia los cuatro vientos del cielo. ^[**8:8** Dan 7,6; Dan 11,4] 
 
@@ -329,7 +333,7 @@
 
 ## Daniel, preocupado por una profecía de Jeremías, decide obtener información de Dios a través de una oración solemne
 # 9 
-<sup>1</sup> EN el año primero de Darío hijo de Assuero, de la nación de los Medos, el cual fué puesto por rey sobre el reino de los Caldeos; <sup>2</sup> En el año primero de su reinado, yo Daniel miré atentamente en los libros el número de los años, del cual habló Jehová al profeta Jeremías, que había de concluir la asolación de Jerusalem en setenta años. ^[**9:2** Jer 25,11-12] <sup>3</sup> Y volví mi rostro al Señor Dios, buscándole en oración y ruego, en ayuno, y cilicio, y ceniza. 
+<sup>1</sup> En el año primero de Darío hijo de Assuero, de la nación de los Medos, el cual fué puesto por rey sobre el reino de los Caldeos; <sup>2</sup> En el año primero de su reinado, yo Daniel miré atentamente en los libros el número de los años, del cual habló Jehová al profeta Jeremías, que había de concluir la asolación de Jerusalem en setenta años. ^[**9:2** Jer 25,11-12] <sup>3</sup> Y volví mi rostro al Señor Dios, buscándole en oración y ruego, en ayuno, y cilicio, y ceniza. 
 
 
 ## Oración de Daniel, confesión del pecado, y solicitud de salvación
@@ -358,7 +362,7 @@
 
 ## La preparación de Daniel para la visiona mediante el ayuno
 # 10 
-<sup>1</sup> EN el tercer año de Ciro rey de Persia, fué revelada palabra á Daniel, cuyo nombre era Beltsasar; y la palabra era verdadera, mas el tiempo fijado era largo: él empero comprendió la palabra, y tuvo inteligencia en la visión. ^[**10:1** Dan 1,21; Dan 1,7] 
+<sup>1</sup> En el tercer año de Ciro rey de Persia, fué revelada palabra á Daniel, cuyo nombre era Beltsasar; y la palabra era verdadera, mas el tiempo fijado era largo: él empero comprendió la palabra, y tuvo inteligencia en la visión. ^[**10:1** Dan 1,21; Dan 1,7] 
 
 
 <sup>2</sup> En aquellos días yo Daniel me contristé por espacio de tres semanas. <sup>3</sup> No comí pan delicado, ni entró carne ni vino en mi boca, ni me unté con ungüento, hasta que se cumplieron tres semanas de días. 
@@ -384,10 +388,12 @@
 
 
 <sup>20</sup> Y dijo: ¿Sabes por qué he venido á ti? Porque luego tengo de volver para pelear con el príncipe de los Persas; y en saliendo yo, luego viene el príncipe de Grecia. ^[**10:20** Dan 10,13] 
+
+
 <sup>21</sup> Empero yo te declararé lo que está escrito en la escritura de verdad: y ninguno hay que se esfuerce conmigo en estas cosas, sino Miguel vuestro príncipe. 
 
 # 11 
-<sup>1</sup> Y EN el año primero de Darío el de Media, yo estuve para animarlo y fortalecerlo. 
+<sup>1</sup> Y en el año primero de Darío el de Media, yo estuve para animarlo y fortalecerlo. 
 
 <sup>2</sup> Y ahora yo te mostraré la verdad. He aquí que aun habrá tres reyes en Persia, y el cuarto se hará de grandes riquezas más que todos; y fortificándose con sus riquezas, despertará á todos contra el reino de Javán. ^[**11:2** Dan 10,21] <sup>3</sup> Levantaráse luego un rey valiente, el cual se enseñoreará sobre gran dominio, y hará su voluntad. <sup>4</sup> Pero cuando estará enseñoreado, será quebrantado su reino, y repartido por los cuatro vientos del cielo; y no á sus descendientes, ni según el señorío con que él se enseñoreó: porque su reino será arrancado, y para otros fuera de aquellos. 
 
@@ -424,11 +430,13 @@
  
 
 <sup>40</sup> Empero al cabo del tiempo el rey del mediodía se acorneará con él; y el rey del norte levantará contra él como tempestad, con carros y gente de á caballo, y muchos navíos; y entrará por las tierras, é inundará, y pasará. <sup>41</sup> Y vendrá á la tierra deseable, y muchas provincias caerán; mas éstas escaparán de su mano: Edom, y Moab, y lo primero de los hijos de Ammón. ^[**11:41** Dan 11,16] 
+
+
 <sup>42</sup> Asimismo extenderá su mano á las otras tierras, y no escapará el país de Egipto. <sup>43</sup> Y se apoderará de los tesoros de oro y plata, y de todas las cosas preciosas de Egipto, de Libia, y Etiopía por donde pasará. <sup>44</sup> Mas nuevas de oriente y del norte lo espantarán; y saldrá con grande ira para destruir y matar muchos. <sup>45</sup> Y plantará las tiendas de su palacio entre los mares, en el monte deseable del santuario; y vendrá hasta su fin, y no tendrá quien le ayude. 
 
 ## El amanecer del fin de los tiempos con su miseria, su retribución y la resurrección de los impíos y de los rectos
 # 12 
-<sup>1</sup> Y EN aquel tiempo se levantará Miguel, el gran príncipe que está por los hijos de tu pueblo; y será tiempo de angustia, cual nunca fué después que hubo gente hasta entonces: mas en aquel tiempo será libertado tu pueblo, todos los que se hallaren escritos en el libro. <sup>2</sup> Y muchos de los que duermen en el polvo de la tierra serán despertados, unos para vida eterna, y otros para vergüenza y confusión perpetua. ^[**12:2** Juan 5,29] <sup>3</sup> Y los entendidos resplandecerán como el resplandor del firmamento; y los que enseñan á justicia la multitud, como las estrellas á perpetua eternidad. ^[**12:3** Mat 13,43; 1Cor 15,41-42] 
+<sup>1</sup> Y en aquel tiempo se levantará Miguel, el gran príncipe que está por los hijos de tu pueblo; y será tiempo de angustia, cual nunca fué después que hubo gente hasta entonces: mas en aquel tiempo será libertado tu pueblo, todos los que se hallaren escritos en el libro. <sup>2</sup> Y muchos de los que duermen en el polvo de la tierra serán despertados, unos para vida eterna, y otros para vergüenza y confusión perpetua. ^[**12:2** Juan 5,29] <sup>3</sup> Y los entendidos resplandecerán como el resplandor del firmamento; y los que enseñan á justicia la multitud, como las estrellas á perpetua eternidad. ^[**12:3** Mat 13,43; 1Cor 15,41-42] 
  
 
 ## Comisión del ángel a Daniel; Revelación sobre la duración del período de sufrimiento; y finalmente una promesa de salvación para Daniel

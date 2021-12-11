@@ -1,6 +1,6 @@
 ## El amor de Dios por Israel en contraste con su trato al pueblo hermano de Edom
 # 1 
-\bibverse{1} CARGA de la palabra de Jehová contra Israel, por mano de Malaquías. 
+\bibverse{1} Carga de la palabra de Jehová contra Israel, por mano de Malaquías. 
 
 \bibverse{2} Yo os he amado, dice Jehová: y dijisteis: ¿En qué nos amaste? ¿No era Esaú hermano de Jacob, dice Jehová, y amé á Jacob, 
 
@@ -22,7 +22,7 @@
 
 ## Advertencia y amenaza de castigo a los sacerdotes; Levi entonces y ahora
 # 2 
-\bibverse{1} AHORA pues, oh sacerdotes, á vosotros es este mandamiento. \bibverse{2} Si no oyereis, y si no acordareis dar gloria á mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no lo ponéis en vuestro corazón. ^[**2:2** Deut 28,15] \bibverse{3} He aquí, yo os daño la sementera, y esparciré el estiércol sobre vuestros rostros, el estiércol de vuestras solemnidades, y con él seréis removidos. \bibverse{4} Y sabréis que yo os envié este mandamiento, para que fuese mi pacto con Leví, ha dicho Jehová de los ejércitos. \bibverse{5} Mi pacto fué con él de vida y de paz, las cuales cosas yo le dí por el temor; porque me temió, y delante de mi nombre estuvo humillado. \bibverse{6} La ley de verdad estuvo en su boca, é iniquidad no fué hallada en sus labios: en paz y en justicia anduvo conmigo, y á muchos hizo apartar de la iniquidad. \bibverse{7} Porque los labios de los sacerdotes han de guardar la sabiduría, y de su boca buscarán la ley; porque mensajero es de Jehová de los ejércitos. \bibverse{8} Mas vosotros os habéis apartado del camino; habéis hecho tropezar á muchos en la ley; habéis corrompido el pacto de Leví, dice Jehová de los ejércitos. \bibverse{9} Por tanto, yo también os torné viles y bajos á todo el pueblo, según que vosotros no habéis guardado mis caminos, y en la ley tenéis acepción de personas. 
+\bibverse{1} Ahora pues, oh sacerdotes, á vosotros es este mandamiento. \bibverse{2} Si no oyereis, y si no acordareis dar gloria á mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no lo ponéis en vuestro corazón. ^[**2:2** Deut 28,15] \bibverse{3} He aquí, yo os daño la sementera, y esparciré el estiércol sobre vuestros rostros, el estiércol de vuestras solemnidades, y con él seréis removidos. \bibverse{4} Y sabréis que yo os envié este mandamiento, para que fuese mi pacto con Leví, ha dicho Jehová de los ejércitos. \bibverse{5} Mi pacto fué con él de vida y de paz, las cuales cosas yo le dí por el temor; porque me temió, y delante de mi nombre estuvo humillado. \bibverse{6} La ley de verdad estuvo en su boca, é iniquidad no fué hallada en sus labios: en paz y en justicia anduvo conmigo, y á muchos hizo apartar de la iniquidad. \bibverse{7} Porque los labios de los sacerdotes han de guardar la sabiduría, y de su boca buscarán la ley; porque mensajero es de Jehová de los ejércitos. \bibverse{8} Mas vosotros os habéis apartado del camino; habéis hecho tropezar á muchos en la ley; habéis corrompido el pacto de Leví, dice Jehová de los ejércitos. \bibverse{9} Por tanto, yo también os torné viles y bajos á todo el pueblo, según que vosotros no habéis guardado mis caminos, y en la ley tenéis acepción de personas. 
 
 
 ## Contra los matrimonios con mujeres extranjeras y contra los divorcios; Recordatorio de fidelidad matrimonial
@@ -37,7 +37,7 @@
  
 
 # 3 
-\bibverse{1} HE aquí, yo envío mi mensajero, el cual preparará el camino delante de mí: y luego vendrá á su templo el Señor á quien vosotros buscáis, y el ángel del pacto, á quien deseáis vosotros. He aquí viene, ha dicho Jehová de los ejércitos. ^[**3:1** Mat 11,10; Mar 1,2; Luc 1,17] \bibverse{2} ¿Y quién podrá sufrir el tiempo de su venida? ó ¿quién podrá estar cuando él se mostrará? Porque él es como fuego purificador, y como jabón de lavadores. ^[**3:2** Is 1,25] \bibverse{3} Y sentarse ha para afinar y limpiar la plata: porque limpiará los hijos de Leví, los afinará como á oro y como á plata; y ofrecerán á Jehová ofrenda con justicia. ^[**3:3** Zac 13,9] \bibverse{4} Y será suave á Jehová la ofrenda de Judá y de Jerusalem, como en los días pasados, y como en los años antiguos. 
+\bibverse{1} He aquí, yo envío mi mensajero, el cual preparará el camino delante de mí: y luego vendrá á su templo el Señor á quien vosotros buscáis, y el ángel del pacto, á quien deseáis vosotros. He aquí viene, ha dicho Jehová de los ejércitos. ^[**3:1** Mat 11,10; Mar 1,2; Luc 1,17] \bibverse{2} ¿Y quién podrá sufrir el tiempo de su venida? ó ¿quién podrá estar cuando él se mostrará? Porque él es como fuego purificador, y como jabón de lavadores. ^[**3:2** Is 1,25] \bibverse{3} Y sentarse ha para afinar y limpiar la plata: porque limpiará los hijos de Leví, los afinará como á oro y como á plata; y ofrecerán á Jehová ofrenda con justicia. ^[**3:3** Zac 13,9] \bibverse{4} Y será suave á Jehová la ofrenda de Judá y de Jerusalem, como en los días pasados, y como en los años antiguos. 
   
 
 \bibverse{5} Y llegarme he á vosotros á juicio; y seré pronto testigo contra los hechiceros y adúlteros; y contra los que juran mentira, y los que detienen el salario del jornalero, de la viuda, y del huérfano, y los que hacen agravio al extranjero, no teniendo temor de mí, dice Jehová de los ejércitos. 
@@ -52,10 +52,12 @@
 \bibverse{13} Vuestras palabras han prevalecido contra mí, dice Jehová. Y dijisteis: ¿Qué hemos hablado contra ti? \bibverse{14} Habéis dicho: Por demás es servir á Dios; ¿y qué aprovecha que guardemos su ley, y que andemos tristes delante de Jehová de los ejércitos? \bibverse{15} Decimos pues ahora, que bienaventurados los soberbios, y también que los que hacen impiedad son los prosperados: bien que tentaron á Dios, escaparon. 
 
 \bibverse{16} Entonces los que temen á Jehová hablaron cada uno á su compañero; y Jehová escuchó y oyó, y fué escrito libro de memoria delante de él para los que temen á Jehová, y para los que piensan en su nombre. \bibverse{17} Y serán para mí especial tesoro, ha dicho Jehová de los ejércitos, en el día que yo tengo de hacer: y perdonarélos como el hombre que perdona á su hijo que le sirve. ^[**3:17** Éxod 19,5] 
+
+
 \bibverse{18} Entonces os tornaréis, y echaréis de ver la diferencia entre el justo y el malo, entre el que sirve á Dios y el que no le sirve. 
 
 # 4 
-\bibverse{1} PORQUE he aquí, viene el día ardiente como un horno; y todos los soberbios, y todos los que hacen maldad, serán estopa; y aquel día que vendrá, los abrasará, ha dicho Jehová de los ejércitos, el cual no les dejará ni raíz ni rama. \bibverse{2} Mas á vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salud: y saldréis, y saltaréis como becerros de la manada. \bibverse{3} Y hollaréis á los malos, los cuales serán ceniza bajo las plantas de vuestros pies, en el día que yo hago, ha dicho Jehová de los ejércitos. 
+\bibverse{1} Porque he aquí, viene el día ardiente como un horno; y todos los soberbios, y todos los que hacen maldad, serán estopa; y aquel día que vendrá, los abrasará, ha dicho Jehová de los ejércitos, el cual no les dejará ni raíz ni rama. \bibverse{2} Mas á vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salud: y saldréis, y saltaréis como becerros de la manada. \bibverse{3} Y hollaréis á los malos, los cuales serán ceniza bajo las plantas de vuestros pies, en el día que yo hago, ha dicho Jehová de los ejércitos. 
 
 ## Advertencia final y promesa de la misión del profeta Elías
 \bibverse{4} Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel. 

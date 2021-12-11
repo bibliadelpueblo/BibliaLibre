@@ -1,6 +1,6 @@
 ## La soberanía única del Hijo de Dios sobre los mensajeros de Dios del Antiguo Testamento
 # 1 
-\bibverse{1} DIOS, habiendo hablado muchas veces y en muchas maneras en otro tiempo á los padres por los profetas, \bibverse{2} En estos postreros días nos ha hablado por el Hijo, al cual constituyó heredero de todo, por el cual asimismo hizo el universo: ^[**1:2** Sal 2,8; Juan 1,3; Col 1,16] \bibverse{3} El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas, ^[**1:3** 2Cor 4,4; Col 1,15; Heb 9,14; Heb 9,26; Mar 16,19] \bibverse{4} Hecho tanto más excelente que los ángeles, cuanto alcanzó por herencia más excelente nombre que ellos. ^[**1:4** Fil 2,9; 1Pe 3,22] 
+\bibverse{1} Dios, habiendo hablado muchas veces y en muchas maneras en otro tiempo á los padres por los profetas, \bibverse{2} En estos postreros días nos ha hablado por el Hijo, al cual constituyó heredero de todo, por el cual asimismo hizo el universo: ^[**1:2** Sal 2,8; Juan 1,3; Col 1,16] \bibverse{3} El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas, ^[**1:3** 2Cor 4,4; Col 1,15; Heb 9,14; Heb 9,26; Mar 16,19] \bibverse{4} Hecho tanto más excelente que los ángeles, cuanto alcanzó por herencia más excelente nombre que ellos. ^[**1:4** Fil 2,9; 1Pe 3,22] 
   
 
 ## Evidencia del Antiguo Testamento de la exaltación del Hijo de Dios sobre los ángeles
@@ -19,7 +19,7 @@
 
 ## De ahí surge la obligación de que obedezcamos voluntariamente las palabras que nos ha dicho este Hijo
 # 2 
-\bibverse{1} POR tanto, es menester que con más diligencia atendamos á las cosas que hemos oído, porque acaso no nos escurramos. \bibverse{2} Porque si la palabra dicha por los ángeles fué firme, y toda rebelión y desobediencia recibió justa paga de retribución, \bibverse{3} ¿Cómo escaparemos nosotros, si tuviéremos en poco una salud tan grande? La cual, habiendo comenzado á ser publicada por el Señor, ha sido confirmada hasta nosotros por los que oyeron; ^[**2:3** Heb 10,29; Heb 12,25] \bibverse{4} Testificando juntamente con ellos Dios, con señales y milagros, y diversas maravillas, y repartimientos del Espíritu Santo según su voluntad. ^[**2:4** Mar 16,20; 1Cor 12,4-11; 2Cor 12,12; Hech 1,2-13; Hech 10,44-45] 
+\bibverse{1} Por tanto, es menester que con más diligencia atendamos á las cosas que hemos oído, porque acaso no nos escurramos. \bibverse{2} Porque si la palabra dicha por los ángeles fué firme, y toda rebelión y desobediencia recibió justa paga de retribución, \bibverse{3} ¿Cómo escaparemos nosotros, si tuviéremos en poco una salud tan grande? La cual, habiendo comenzado á ser publicada por el Señor, ha sido confirmada hasta nosotros por los que oyeron; ^[**2:3** Heb 10,29; Heb 12,25] \bibverse{4} Testificando juntamente con ellos Dios, con señales y milagros, y diversas maravillas, y repartimientos del Espíritu Santo según su voluntad. ^[**2:4** Mar 16,20; 1Cor 12,4-11; 2Cor 12,12; Hech 1,2-13; Hech 10,44-45] 
  
 
 ## Su humillación, encarnación y sufrimiento de muerte, no limita su sublimidad
@@ -40,7 +40,7 @@
 
 ## El Hijo de Dios Jesús en su majestad sobre el ministro de Dios Moisés
 # 3 
-\bibverse{1} POR tanto, hermanos santos, participantes de la vocación celestial, considerad al Apóstol y Pontífice de nuestra profesión, Cristo Jesús; ^[**3:1** Heb 4,14] \bibverse{2} El cual es fiel al que le constituyó, como también lo fué Moisés sobre toda su casa. ^[**3:2** Núm 12,7] \bibverse{3} Porque de tanto mayor gloria que Moisés éste es estimado digno, cuanto tiene mayor dignidad que la casa el que la fabricó. \bibverse{4} Porque toda casa es edificada de alguno: mas el que crió todas las cosas es Dios. \bibverse{5} Y Moisés á la verdad fué fiel sobre toda su casa, como siervo, para testificar lo que se había de decir; \bibverse{6} Mas Cristo como hijo, sobre su casa; la cual casa somos nosotros, si hasta el cabo retuviéremos firme la confianza y la gloria de la esperanza. ^[**3:6** 1Pe 2,5; Efes 2,19] 
+\bibverse{1} Por tanto, hermanos santos, participantes de la vocación celestial, considerad al Apóstol y Pontífice de nuestra profesión, Cristo Jesús; ^[**3:1** Heb 4,14] \bibverse{2} El cual es fiel al que le constituyó, como también lo fué Moisés sobre toda su casa. ^[**3:2** Núm 12,7] \bibverse{3} Porque de tanto mayor gloria que Moisés éste es estimado digno, cuanto tiene mayor dignidad que la casa el que la fabricó. \bibverse{4} Porque toda casa es edificada de alguno: mas el que crió todas las cosas es Dios. \bibverse{5} Y Moisés á la verdad fué fiel sobre toda su casa, como siervo, para testificar lo que se había de decir; \bibverse{6} Mas Cristo como hijo, sobre su casa; la cual casa somos nosotros, si hasta el cabo retuviéremos firme la confianza y la gloria de la esperanza. ^[**3:6** 1Pe 2,5; Efes 2,19] 
   
 
 ## La advertencia del salmista contra la incredulidad y la apostasía
@@ -55,11 +55,13 @@
 
 
 \bibverse{16} Porque algunos de los que habían salido de Egipto con Moisés, habiendo oído, provocaron, aunque no todos. \bibverse{17} Mas ¿con cuáles estuvo enojado cuarenta años? ¿No fué con los que pecaron, cuyos cuerpos cayeron en el desierto? ^[**3:17** Núm 14,29; 1Cor 10,10] 
+
+
 \bibverse{18} ¿Y á quiénes juró que no entrarían en su reposo, sino á aquellos que no obedecieron? \bibverse{19} Y vemos que no pudieron entrar á causa de incredulidad. 
 
 ## Interpretación de la promesa del salmo sobre el resto del pueblo de Dios
 # 4 
-\bibverse{1} TEMAMOS, pues, que quedando aún la promesa de entrar en su reposo, parezca alguno de vosotros haberse apartado. \bibverse{2} Porque también á nosotros se nos ha evangelizado como á ellos; mas no les aprovechó el oir la palabra á los que la oyeron sin mezclar fe. \bibverse{3} Empero entramos en el reposo los que hemos creído, de la manera que dijo: Como juré en mi ira, no entrarán en mi reposo: aun acabadas las obras desde el principio del mundo. \bibverse{4} Porque en un cierto lugar dijo así del séptimo día: Y reposó Dios de todas sus obras en el séptimo día. \bibverse{5} Y otra vez aquí: No entrarán en mi reposo. 
+\bibverse{1} Temamos, pues, que quedando aún la promesa de entrar en su reposo, parezca alguno de vosotros haberse apartado. \bibverse{2} Porque también á nosotros se nos ha evangelizado como á ellos; mas no les aprovechó el oir la palabra á los que la oyeron sin mezclar fe. \bibverse{3} Empero entramos en el reposo los que hemos creído, de la manera que dijo: Como juré en mi ira, no entrarán en mi reposo: aun acabadas las obras desde el principio del mundo. \bibverse{4} Porque en un cierto lugar dijo así del séptimo día: Y reposó Dios de todas sus obras en el séptimo día. \bibverse{5} Y otra vez aquí: No entrarán en mi reposo. 
 
 \bibverse{6} Así que, pues que resta que algunos han de entrar en él, y aquellos á quienes primero fué anunciado no entraron por causa de desobediencia, \bibverse{7} Determina otra vez un cierto día, diciendo por David: Hoy, después de tanto tiempo; como está dicho: Si oyereis su voz hoy, no endurezcáis vuestros corazones. 
 
@@ -76,7 +78,7 @@
 
 ## Con Cristo se encuentran los requisitos necesarios del sumo sacerdote sugeridos en Melquisedec
 # 5 
-\bibverse{1} PORQUE todo pontífice, tomado de entre los hombres, es constituído á favor de los hombres en lo que á Dios toca, para que ofrezca presentes y sacrificios por los pecados: \bibverse{2} Que se pueda compadecer de los ignorantes y extraviados, pues que él también está rodeado de flaqueza; \bibverse{3} Y por causa de ella debe, como por sí mismo, así también por el pueblo, ofrecer por los pecados. \bibverse{4} Ni nadie toma para sí la honra, sino el que es llamado de Dios, como Aarón. ^[**5:4** Éxod 28,1] \bibverse{5} Así también Cristo no se glorificó á sí mismo haciéndose Pontífice, mas el que le dijo: Tú eres mi Hijo, yo te he engendrado hoy; 
+\bibverse{1} Porque todo pontífice, tomado de entre los hombres, es constituído á favor de los hombres en lo que á Dios toca, para que ofrezca presentes y sacrificios por los pecados: \bibverse{2} Que se pueda compadecer de los ignorantes y extraviados, pues que él también está rodeado de flaqueza; \bibverse{3} Y por causa de ella debe, como por sí mismo, así también por el pueblo, ofrecer por los pecados. \bibverse{4} Ni nadie toma para sí la honra, sino el que es llamado de Dios, como Aarón. ^[**5:4** Éxod 28,1] \bibverse{5} Así también Cristo no se glorificó á sí mismo haciéndose Pontífice, mas el que le dijo: Tú eres mi Hijo, yo te he engendrado hoy; 
 
 
 \bibverse{6} Como también dice en otro lugar: Tú eres sacerdote eternamente, según el orden de Melchîsedec. 
@@ -86,11 +88,13 @@
 
 ## Quejarse de la inmadurez, la indolencia intelectual y el atraso de los lectores
 \bibverse{11} Del cual tenemos mucho que decir, y dificultoso de declarar, por cuanto sois flacos para oir. \bibverse{12} Porque debiendo ser ya maestros á causa del tiempo, tenéis necesidad de volver á ser enseñados cuáles sean los primeros rudimentos de las palabras de Dios; y habéis llegado á ser tales que tengáis necesidad de leche, y no de manjar sólido. \bibverse{13} Que cualquiera que participa de la leche, es inhábil para la palabra de la justicia, porque es niño; ^[**5:13** Efes 4,14] 
+
+
 \bibverse{14} Mas la vianda firme es para los perfectos, para los que por la costumbre tienen los sentidos ejercitados en el discernimiento del bien y del mal. 
 
 ## Es una cuestión de progreso; La recaída es peligrosa y puede provocar daños incurables
 # 6 
-\bibverse{1} POR tanto, dejando la palabra del comienzo en la doctrina de Cristo, vamos adelante á la perfección; no echando otra vez el fundamento del arrepentimiento de obras muertas, y de la fe en Dios, \bibverse{2} De la doctrina de bautismos, y de la imposición de manos, y de la resurrección de los muertos, y del juicio eterno. \bibverse{3} Y esto haremos á la verdad, si Dios lo permitiere. \bibverse{4} Porque es imposible que los que una vez fueron iluminados y gustaron el don celestial, y fueron hechos partícipes del Espíritu Santo, \bibverse{5} Y asimismo gustaron la buena palabra de Dios, y las virtudes del siglo venidero, \bibverse{6} Y recayeron, sean otra vez renovados para arrepentimiento, crucificando de nuevo para sí mismos al Hijo de Dios, y exponiéndole á vituperio. \bibverse{7} Porque la tierra que embebe el agua que muchas veces vino sobre ella, y produce hierba provechosa á aquellos de los cuales es labrada, recibe bendición de Dios: \bibverse{8} Mas la que produce espinas y abrojos, es reprobada, y cercana de maldición; cuyo fin será el ser abrasada. 
+\bibverse{1} Por tanto, dejando la palabra del comienzo en la doctrina de Cristo, vamos adelante á la perfección; no echando otra vez el fundamento del arrepentimiento de obras muertas, y de la fe en Dios, \bibverse{2} De la doctrina de bautismos, y de la imposición de manos, y de la resurrección de los muertos, y del juicio eterno. \bibverse{3} Y esto haremos á la verdad, si Dios lo permitiere. \bibverse{4} Porque es imposible que los que una vez fueron iluminados y gustaron el don celestial, y fueron hechos partícipes del Espíritu Santo, \bibverse{5} Y asimismo gustaron la buena palabra de Dios, y las virtudes del siglo venidero, \bibverse{6} Y recayeron, sean otra vez renovados para arrepentimiento, crucificando de nuevo para sí mismos al Hijo de Dios, y exponiéndole á vituperio. \bibverse{7} Porque la tierra que embebe el agua que muchas veces vino sobre ella, y produce hierba provechosa á aquellos de los cuales es labrada, recibe bendición de Dios: \bibverse{8} Mas la que produce espinas y abrojos, es reprobada, y cercana de maldición; cuyo fin será el ser abrasada. 
 
 ## Confiada esperanza de superar este angustioso estado de los lectores y el peligro que los amenaza
 \bibverse{9} Pero de vosotros, oh amados, esperamos mejores cosas, y más cercanas á salud, aunque hablamos así. \bibverse{10} Porque Dios no es injusto para olvidar vuestra obra y el trabajo de amor que habéis mostrado á su nombre, habiendo asistido y asistiendo aún á los santos. ^[**6:10** Heb 10,32-34] \bibverse{11} Mas deseamos que cada uno de vosotros muestre la misma solicitud hasta el cabo, para cumplimiento de la esperanza: ^[**6:11** Heb 3,14; Fil 1,6] \bibverse{12} Que no os hagáis perezosos, mas imitadores de aquellos que por la fe y la paciencia heredan las promesas. 
@@ -102,7 +106,7 @@
 
 ## Jesús, el sumo sacerdote perfecto para siempre según el orden de Melquisedec
 # 7 
-\bibverse{1} PORQUE este Melchîsedec, rey de Salem, sacerdote del Dios Altísimo, el cual salió á recibir á Abraham que volvía de la derrota de los reyes, y le bendijo, ^[**7:1** Gén 14,18-20] \bibverse{2} Al cual asimismo dió Abraham los diezmos de todo, primeramente él se interpreta Rey de justicia; y luego también Rey de Salem, que es, Rey de paz; \bibverse{3} Sin padre, sin madre, sin linaje; que ni tiene principio de días, ni fin de vida, mas hecho semejante al Hijo de Dios, permanece sacerdote para siempre. ^[**7:3** Juan 7,27] 
+\bibverse{1} Porque este Melchîsedec, rey de Salem, sacerdote del Dios Altísimo, el cual salió á recibir á Abraham que volvía de la derrota de los reyes, y le bendijo, ^[**7:1** Gén 14,18-20] \bibverse{2} Al cual asimismo dió Abraham los diezmos de todo, primeramente él se interpreta Rey de justicia; y luego también Rey de Salem, que es, Rey de paz; \bibverse{3} Sin padre, sin madre, sin linaje; que ni tiene principio de días, ni fin de vida, mas hecho semejante al Hijo de Dios, permanece sacerdote para siempre. ^[**7:3** Juan 7,27] 
  
 
 ## Melquisedec es más digno que los sacerdotes levitas
@@ -122,11 +126,13 @@
 
 ## Jesús como el sumo sacerdote perfecto y eterno
 \bibverse{26} Porque tal pontífice nos convenía: santo, inocente, limpio, apartado de los pecadores, y hecho más sublime que los cielos; \bibverse{27} Que no tiene necesidad cada día, como los otros sacerdotes, de ofrecer primero sacrificios por sus pecados, y luego por los del pueblo: porque esto lo hizo una sola vez, ofreciéndose á sí mismo. ^[**7:27** Lev 16,6; Lev 16,15] 
+
+
 \bibverse{28} Porque la ley constituye sacerdotes á hombres flacos; mas la palabra del juramento, después de la ley, constituye al Hijo, hecho perfecto para siempre. 
 
 ## La superioridad del ministerio sumo sacerdotal celestial de Jesús y el nuevo pacto del que él es mediador
 # 8 
-\bibverse{1} ASÍ que, la suma acerca de lo dicho es: Tenemos tal pontífice que se asentó á la diestra del trono de la Majestad en los cielos; \bibverse{2} Ministro del santuario, y de aquel verdadero tabernáculo que el Señor asentó, y no hombre. \bibverse{3} Porque todo pontífice es puesto para ofrecer presentes y sacrificios; por lo cual es necesario que también éste tuviese algo que ofrecer. \bibverse{4} Así que, si estuviese sobre la tierra, ni aun sería sacerdote, habiendo aún los sacerdotes que ofrecen los presentes según la ley; \bibverse{5} Los cuales sirven de bosquejo y sombra de las cosas celestiales, como fué respondido á Moisés cuando había de acabar el tabernáculo: Mira, dice, haz todas las cosas conforme al dechado que te ha sido mostrado en el monte. ^[**8:5** Col 2,17] \bibverse{6} Mas ahora tanto mejor ministerio es el suyo, cuanto es mediador de un mejor pacto, el cual ha sido formado sobre mejores promesas. ^[**8:6** Heb 7,22] 
+\bibverse{1} Así que, la suma acerca de lo dicho es: Tenemos tal pontífice que se asentó á la diestra del trono de la Majestad en los cielos; \bibverse{2} Ministro del santuario, y de aquel verdadero tabernáculo que el Señor asentó, y no hombre. \bibverse{3} Porque todo pontífice es puesto para ofrecer presentes y sacrificios; por lo cual es necesario que también éste tuviese algo que ofrecer. \bibverse{4} Así que, si estuviese sobre la tierra, ni aun sería sacerdote, habiendo aún los sacerdotes que ofrecen los presentes según la ley; \bibverse{5} Los cuales sirven de bosquejo y sombra de las cosas celestiales, como fué respondido á Moisés cuando había de acabar el tabernáculo: Mira, dice, haz todas las cosas conforme al dechado que te ha sido mostrado en el monte. ^[**8:5** Col 2,17] \bibverse{6} Mas ahora tanto mejor ministerio es el suyo, cuanto es mediador de un mejor pacto, el cual ha sido formado sobre mejores promesas. ^[**8:6** Heb 7,22] 
  
 
 \bibverse{7} Porque si aquel primero fuera sin falta, cierto no se hubiera procurado lugar de segundo. \bibverse{8} Porque reprendiéndolos dice: He aquí vienen días, dice el Señor, y consumaré para con la casa de Israel y para con la casa de Judá un nuevo pacto; ^[**8:8** Heb 10,16-17] \bibverse{9} No como el pacto que hice con sus padres el día que los tomé por la mano para sacarlos de la tierra de Egipto: porque ellos no permanecieron en mi pacto, y yo los menosprecié, dice el Señor. ^[**8:9** Éxod 19,5-6] \bibverse{10} Por lo cual, este es el pacto que ordenaré á la casa de Israel después de aquellos días, dice el Señor: Daré mis leyes en el alma de ellos, y sobre el corazón de ellos las escribiré; y seré á ellos por Dios, y ellos me serán á mí por pueblo: \bibverse{11} Y ninguno enseñará á su prójimo, ni ninguno á su hermano, diciendo: Conoce al Señor: porque todos me conocerán, desde el menor de ellos hasta el mayor. \bibverse{12} Porque seré propicio á sus injusticias, y de sus pecados y de sus iniquidades no me acordaré más. 
@@ -137,7 +143,7 @@
 
 ## La imperfección del ministerio sacerdotal levítico y la perfección (o superioridad) del ministerio sumo sacerdotal de Cristo
 # 9 
-\bibverse{1} TENÍA empero también el primer pacto reglamentos del culto, y santuario mundano. \bibverse{2} Porque el tabernáculo fué hecho: el primero, en que estaban las lámparas, y la mesa, y los panes de la proposición; lo que llaman el Santuario. \bibverse{3} Tras el segundo velo estaba el tabernáculo, que llaman el Lugar Santísimo; ^[**9:3** Éxod 26,33] \bibverse{4} El cual tenía un incensario de oro, y el arca del pacto cubierta de todas partes alrededor de oro; en la que estaba una urna de oro que contenía el maná, y la vara de Aarón que reverdeció, y las tablas del pacto; ^[**9:4** Éxod 16,33; Éxod 25,10-22; Núm 17,23-25] \bibverse{5} Y sobre ella los querubines de gloria que cubrían el propiciatorio; de las cuales cosas no se puede ahora hablar en particular. 
+\bibverse{1} Tenía empero también el primer pacto reglamentos del culto, y santuario mundano. \bibverse{2} Porque el tabernáculo fué hecho: el primero, en que estaban las lámparas, y la mesa, y los panes de la proposición; lo que llaman el Santuario. \bibverse{3} Tras el segundo velo estaba el tabernáculo, que llaman el Lugar Santísimo; ^[**9:3** Éxod 26,33] \bibverse{4} El cual tenía un incensario de oro, y el arca del pacto cubierta de todas partes alrededor de oro; en la que estaba una urna de oro que contenía el maná, y la vara de Aarón que reverdeció, y las tablas del pacto; ^[**9:4** Éxod 16,33; Éxod 25,10-22; Núm 17,23-25] \bibverse{5} Y sobre ella los querubines de gloria que cubrían el propiciatorio; de las cuales cosas no se puede ahora hablar en particular. 
  
 
 \bibverse{6} Y estas cosas así ordenadas, en el primer tabernáculo siempre entraban los sacerdotes para hacer los oficios del culto; ^[**9:6** Núm 18,3-4; Éxod 30,10; Lev 16,2; Lev 16,14-15] \bibverse{7} Mas en el segundo, sólo el pontífice una vez en el año, no sin sangre, la cual ofrece por sí mismo, y por los pecados de ignorancia del pueblo: \bibverse{8} Dando en esto á entender el Espíritu Santo, que aun no estaba descubierto el camino para el santuario, entre tanto que el primer tabernáculo estuviese en pie. \bibverse{9} Lo cual era figura de aquel tiempo presente, en el cual se ofrecían presentes y sacrificios que no podían hacer perfecto, cuanto á la conciencia, al que servía con ellos; ^[**9:9** Heb 7,19; Heb 10,1-2] \bibverse{10} Consistiendo sólo en viandas y en bebidas, y en diversos lavamientos, y ordenanzas acerca de la carne, impuestas hasta el tiempo de la corrección. ^[**9:10** Lev 11,-1; Núm 19,-1] 
@@ -159,7 +165,7 @@
 
 ## El ejemplo sombrío y la insuficiencia del sacrificio anual de reconciliación del sumo sacerdote levítico; la perfección del sacrificio de Jesús
 # 10 
-\bibverse{1} PORQUE la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que ofrecen continuamente cada año, hacer perfectos á los que se allegan. ^[**10:1** Heb 8,5] \bibverse{2} De otra manera cesarían de ofrecerse; porque los que tributan este culto, limpios de una vez, no tendrían más conciencia de pecado. \bibverse{3} Empero en estos sacrificios cada año se hace conmemoración de los pecados. \bibverse{4} Porque la sangre de los toros y de los machos cabríos no puede quitar los pecados. \bibverse{5} Por lo cual, entrando en el mundo, dice: Sacrificio y presente no quisiste; mas me apropiaste cuerpo: \bibverse{6} Holocaustos y expiaciones por el pecado no te agradaron. \bibverse{7} Entonces dije: Heme aquí (en la cabecera del libro está escrito de mí) para que haga, oh Dios, tu voluntad. 
+\bibverse{1} Porque la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que ofrecen continuamente cada año, hacer perfectos á los que se allegan. ^[**10:1** Heb 8,5] \bibverse{2} De otra manera cesarían de ofrecerse; porque los que tributan este culto, limpios de una vez, no tendrían más conciencia de pecado. \bibverse{3} Empero en estos sacrificios cada año se hace conmemoración de los pecados. \bibverse{4} Porque la sangre de los toros y de los machos cabríos no puede quitar los pecados. \bibverse{5} Por lo cual, entrando en el mundo, dice: Sacrificio y presente no quisiste; mas me apropiaste cuerpo: \bibverse{6} Holocaustos y expiaciones por el pecado no te agradaron. \bibverse{7} Entonces dije: Heme aquí (en la cabecera del libro está escrito de mí) para que haga, oh Dios, tu voluntad. 
 
 
 \bibverse{8} Diciendo arriba: Sacrificio y presente, y holocaustos y expiaciones por el pecado no quisiste, ni te agradaron, (las cuales cosas se ofrecen según la ley,) \bibverse{9} Entonces dijo: Heme aquí para que haga, oh Dios, tu voluntad. Quita lo primero, para establecer lo postrero. \bibverse{10} En la cual voluntad somos santificados por la ofrenda del cuerpo de Jesucristo hecha una sola vez. ^[**10:10** Juan 17,19] 
@@ -197,7 +203,7 @@
  
 
 # 11 
-\bibverse{1} ES pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven. ^[**11:1** 2Cor 5,7] 
+\bibverse{1} Es pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven. ^[**11:1** 2Cor 5,7] 
 
 
 ## Modelos del Antiguo Testamento de tal fe
@@ -250,7 +256,7 @@
 
 ## Exhortación a mantener la fidelidad, especialmente con respecto al ejemplo de Jesús
 # 12 
-\bibverse{1} POR tanto nosotros también, teniendo en derredor nuestro una tan grande nube de testigos, dejando todo el peso del pecado que nos rodea, corramos con paciencia la carrera que nos es propuesta, \bibverse{2} Puestos los ojos en al autor y consumador de la fe, en Jesús; el cual, habiéndole sido propuesto gozo, sufrió la cruz, menospreciando la vergüenza, y sentóse á la diestra del trono de Dios. ^[**12:2** Heb 5,8-9; Fil 2,8; Fil 2,10] 
+\bibverse{1} Por tanto nosotros también, teniendo en derredor nuestro una tan grande nube de testigos, dejando todo el peso del pecado que nos rodea, corramos con paciencia la carrera que nos es propuesta, \bibverse{2} Puestos los ojos en al autor y consumador de la fe, en Jesús; el cual, habiéndole sido propuesto gozo, sufrió la cruz, menospreciando la vergüenza, y sentóse á la diestra del trono de Dios. ^[**12:2** Heb 5,8-9; Fil 2,8; Fil 2,10] 
 
 
 \bibverse{3} Reducid pues á vuestro pensamiento á aquel que sufrió tal contradicción de pecadores contra sí mismo, porque no os fatiguéis en vuestros ánimos desmayando. ^[**12:3** Luc 2,34; Mat 26,67] 
@@ -282,7 +288,7 @@
 
 ## Advertencias individuales por el amor fraterno, la pureza moral y la promoción de la vida comunitaria
 # 13 
-\bibverse{1} PERMANEZCA el amor fraternal. ^[**13:1** Juan 13,34; 2Pe 1,7] \bibverse{2} No olvidéis la hospitalidad, porque por ésta algunos, sin saberlo, hospedaron ángeles. ^[**13:2** Gén 18,3; Gén 19,2-3; Rom 12,13; 1Pe 4,9; 3Jn 1,5-8] \bibverse{3} Acordaos de los presos, como presos juntamente con ellos; y de los afligidos, como que también vosotros mismos sois del cuerpo. ^[**13:3** Mat 25,36] \bibverse{4} Honroso es en todos el matrimonio, y el lecho sin mancilla; mas á los fornicarios y á los adúlteros juzgará Dios. 
+\bibverse{1} Permanezca el amor fraternal. ^[**13:1** Juan 13,34; 2Pe 1,7] \bibverse{2} No olvidéis la hospitalidad, porque por ésta algunos, sin saberlo, hospedaron ángeles. ^[**13:2** Gén 18,3; Gén 19,2-3; Rom 12,13; 1Pe 4,9; 3Jn 1,5-8] \bibverse{3} Acordaos de los presos, como presos juntamente con ellos; y de los afligidos, como que también vosotros mismos sois del cuerpo. ^[**13:3** Mat 25,36] \bibverse{4} Honroso es en todos el matrimonio, y el lecho sin mancilla; mas á los fornicarios y á los adúlteros juzgará Dios. 
   
 
 \bibverse{5} Sean las costumbres vuestras sin avaricia; contentos de lo presente; porque él dijo: No te desampararé, ni te dejaré. ^[**13:5** 1Tim 6,6] \bibverse{6} De tal manera que digamos confiadamente: El Señor es mi ayudador; no temeré lo que me hará el hombre. 

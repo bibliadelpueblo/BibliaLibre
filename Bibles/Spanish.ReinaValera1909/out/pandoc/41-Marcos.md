@@ -1,6 +1,6 @@
 ## Aparición y eficacia de Juan el Bautista
 # 1 
-\bibverse{1} PRINCIPIO del evangelio de Jesucristo, Hijo de Dios. 
+\bibverse{1} Principio del evangelio de Jesucristo, Hijo de Dios. 
 
 \bibverse{2} Como está escrito en Isaías el profeta: He aquí yo envío á mi mensajero delante de tu faz, que apareje tu camino delante de ti. \bibverse{3} Voz del que clama en el desierto: Aparejad el camino del Señor; enderezad sus veredas. 
 
@@ -53,7 +53,7 @@
 
 ## Curación de un paralítico en Capernaum; Jesús perdona los pecados
 # 2 
-\bibverse{1} Y ENTRÓ otra vez en Capernaum después de algunos días, y se oyó que estaba en casa. \bibverse{2} Y luego se juntaron á él muchos, que ya no cabían ni aun á la puerta; y les predicaba la palabra. \bibverse{3} Entonces vinieron á él unos trayendo un paralítico, que era traído por cuatro. \bibverse{4} Y como no podían llegar á él á causa del gentío, descubrieron el techo de donde estaba, y haciendo abertura, bajaron el lecho en que yacía el paralítico. \bibverse{5} Y viendo Jesús la fe de ellos, dice al paralítico: Hijo, tus pecados te son perdonados. 
+\bibverse{1} Y entró otra vez en Capernaum después de algunos días, y se oyó que estaba en casa. \bibverse{2} Y luego se juntaron á él muchos, que ya no cabían ni aun á la puerta; y les predicaba la palabra. \bibverse{3} Entonces vinieron á él unos trayendo un paralítico, que era traído por cuatro. \bibverse{4} Y como no podían llegar á él á causa del gentío, descubrieron el techo de donde estaba, y haciendo abertura, bajaron el lecho en que yacía el paralítico. \bibverse{5} Y viendo Jesús la fe de ellos, dice al paralítico: Hijo, tus pecados te son perdonados. 
 
 \bibverse{6} Y estaban allí sentados algunos de los escribas, los cuales pensando en sus corazones, \bibverse{7} Decían: ¿Por qué habla éste así? Blasfemias dice. ¿Quién puede perdonar pecados, sino solo Dios? ^[**2:7** Sal 130,4; Is 43,25] 
 
@@ -80,11 +80,13 @@
 \bibverse{25} Y él les dijo: ¿Nunca leísteis qué hizo David cuando tuvo necesidad, y tuvo hambre, él y los que con él estaban: \bibverse{26} Cómo entró en la casa de Dios, siendo Abiathar sumo pontífice, y comió los panes de la proposición, de los cuales no es lícito comer sino á los sacerdotes, y aun dió á los que con él estaban? 
 
 \bibverse{27} También les dijo: El sábado por causa del hombre es hecho; no el hombre por causa del sábado. ^[**2:27** Deut 5,14] 
+
+
 \bibverse{28} Así que el Hijo del hombre es Señor aun del sábado. 
 
 ## Sanación del hombre con el brazo paralizado en sábado; el segundo argumento sobre la observancia del sábado
 # 3 
-\bibverse{1} Y OTRA vez entró en la sinagoga; y había allí un hombre que tenía una mano seca. \bibverse{2} Y le acechaban si en sábado le sanaría, para acusarle. \bibverse{3} Entonces dijo al hombre que tenía la mano seca: Levántate en medio. \bibverse{4} Y les dice: ¿Es lícito hacer bien en sábado, ó hacer mal? ¿salvar la vida, ó quitarla? Mas ellos callaban. \bibverse{5} Y mirándolos alrededor con enojo, condoleciéndose de la ceguedad de su corazón, dice al hombre: Extiende tu mano. Y la extendió, y su mano fué restituída sana. \bibverse{6} Entonces saliendo los Fariseos, tomaron consejo con los Herodianos contra él, para matarle. 
+\bibverse{1} Y otra vez entró en la sinagoga; y había allí un hombre que tenía una mano seca. \bibverse{2} Y le acechaban si en sábado le sanaría, para acusarle. \bibverse{3} Entonces dijo al hombre que tenía la mano seca: Levántate en medio. \bibverse{4} Y les dice: ¿Es lícito hacer bien en sábado, ó hacer mal? ¿salvar la vida, ó quitarla? Mas ellos callaban. \bibverse{5} Y mirándolos alrededor con enojo, condoleciéndose de la ceguedad de su corazón, dice al hombre: Extiende tu mano. Y la extendió, y su mano fué restituída sana. \bibverse{6} Entonces saliendo los Fariseos, tomaron consejo con los Herodianos contra él, para matarle. 
 
 ## Afluencia de personas; muchas curaciones en el lago
 \bibverse{7} Mas Jesús se apartó á la mar con sus discípulos: y le siguió gran multitud de Galilea, y de Judea, \bibverse{8} Y de Jerusalem, y de Idumea, y de la otra parte del Jordán. Y los de alrededor de Tiro y de Sidón, grande multitud, oyendo cuán grandes cosas hacía, vinieron á él. \bibverse{9} Y dijo á sus discípulos que le estuviese siempre apercibida la barquilla, por causa del gentío, para que no le oprimiesen. \bibverse{10} Porque había sanado á muchos; de manera que caían sobre él cuantos tenían plagas, por tocarle. \bibverse{11} Y los espíritus inmundos, al verle, se postraban delante de él, y daban voces, diciendo: Tú eres el Hijo de Dios. ^[**3:11** Luc 4,41] \bibverse{12} Mas él les reñía mucho que no le manifestasen. ^[**3:12** Mar 1,43] 
@@ -113,7 +115,7 @@
 
 ## Parábola del sembrador y cuatro tipos de campos
 # 4 
-\bibverse{1} Y OTRA vez comenzó á enseñar junto á la mar, y se juntó á él mucha gente; tanto, que entrándose él en un barco, se sentó en la mar: y toda la gente estaba en tierra junto á la mar. \bibverse{2} Y les enseñaba por parábolas muchas cosas, y les decía en su doctrina: \bibverse{3} Oid: He aquí, el sembrador salió á sembrar. \bibverse{4} Y aconteció sembrando, que una parte cayó junto al camino; y vinieron las aves del cielo, y la tragaron. \bibverse{5} Y otra parte cayó en pedregales, donde no tenía mucha tierra; y luego salió, porque no tenía la tierra profunda: \bibverse{6} Mas salido el sol, se quemó; y por cuanto no tenía raíz, se secó. \bibverse{7} Y otra parte cayó en espinas; y subieron las espinas, y la ahogaron, y no dió fruto. \bibverse{8} Y otra parte cayó en buena tierra, y dió fruto, que subió y creció: y llevó uno á treinta, y otro á sesenta, y otro á ciento. \bibverse{9} Entonces les dijo: El que tiene oídos para oir, oiga. 
+\bibverse{1} Y otra vez comenzó á enseñar junto á la mar, y se juntó á él mucha gente; tanto, que entrándose él en un barco, se sentó en la mar: y toda la gente estaba en tierra junto á la mar. \bibverse{2} Y les enseñaba por parábolas muchas cosas, y les decía en su doctrina: \bibverse{3} Oid: He aquí, el sembrador salió á sembrar. \bibverse{4} Y aconteció sembrando, que una parte cayó junto al camino; y vinieron las aves del cielo, y la tragaron. \bibverse{5} Y otra parte cayó en pedregales, donde no tenía mucha tierra; y luego salió, porque no tenía la tierra profunda: \bibverse{6} Mas salido el sol, se quemó; y por cuanto no tenía raíz, se secó. \bibverse{7} Y otra parte cayó en espinas; y subieron las espinas, y la ahogaron, y no dió fruto. \bibverse{8} Y otra parte cayó en buena tierra, y dió fruto, que subió y creció: y llevó uno á treinta, y otro á sesenta, y otro á ciento. \bibverse{9} Entonces les dijo: El que tiene oídos para oir, oiga. 
 
 ## Analice el significado y el propósito de las parábolas
 \bibverse{10} Y cuando estuvo solo, le preguntaron los que estaban cerca de él con los doce, sobre la parábola. \bibverse{11} Y les dijo: A vosotros es dado saber el misterio del reino de Dios; mas á los que están fuera, por parábolas todas las cosas; \bibverse{12} Para que viendo, vean y no echen de ver; y oyendo, oigan y no entiendan: porque no se conviertan, y les sean perdonados los pecados. 
@@ -146,7 +148,7 @@
 
 ## Jesús sana a los poseídos en la tierra de los gerasenos
 # 5 
-\bibverse{1} Y VINIERON de la otra parte de la mar á la provincia de los Gadarenos. \bibverse{2} Y salido él del barco, luego le salió al encuentro, de los sepulcros, un hombre con un espíritu inmundo, \bibverse{3} Que tenía domicilio en los sepulcros, y ni aun con cadenas le podía alguien atar; \bibverse{4} Porque muchas veces había sido atado con grillos y cadenas, mas las cadenas habían sido hechas pedazos por él, y los grillos desmenuzados; y nadie le podía domar. \bibverse{5} Y siempre, de día y de noche, andaba dando voces en los montes y en los sepulcros, é hiriéndose con las piedras. \bibverse{6} Y como vió á Jesús de lejos, corrió, y le adoró. \bibverse{7} Y clamando á gran voz, dijo: ¿Qué tienes conmigo, Jesús, Hijo del Dios Altísimo? Te conjuro por Dios que no me atormentes. \bibverse{8} Porque le decía: Sal de este hombre, espíritu inmundo. 
+\bibverse{1} Y vinieron de la otra parte de la mar á la provincia de los Gadarenos. \bibverse{2} Y salido él del barco, luego le salió al encuentro, de los sepulcros, un hombre con un espíritu inmundo, \bibverse{3} Que tenía domicilio en los sepulcros, y ni aun con cadenas le podía alguien atar; \bibverse{4} Porque muchas veces había sido atado con grillos y cadenas, mas las cadenas habían sido hechas pedazos por él, y los grillos desmenuzados; y nadie le podía domar. \bibverse{5} Y siempre, de día y de noche, andaba dando voces en los montes y en los sepulcros, é hiriéndose con las piedras. \bibverse{6} Y como vió á Jesús de lejos, corrió, y le adoró. \bibverse{7} Y clamando á gran voz, dijo: ¿Qué tienes conmigo, Jesús, Hijo del Dios Altísimo? Te conjuro por Dios que no me atormentes. \bibverse{8} Porque le decía: Sal de este hombre, espíritu inmundo. 
 
 \bibverse{9} Y le preguntó: ¿Cómo te llamas? Y respondió diciendo: Legión me llamo; porque somos muchos. 
 
@@ -180,11 +182,13 @@
 
 
 \bibverse{40} Y hacían burla de él: mas él, echados fuera todos, toma al padre y á la madre de la muchacha, y á los que estaban con él, y entra donde la muchacha estaba. \bibverse{41} Y tomando la mano de la muchacha, le dice: Talitha cumi; que es, si lo interpretares: Muchacha, á ti digo, levántate. ^[**5:41** Luc 7,14; Hech 9,40] 
+
+
 \bibverse{42} Y luego la muchacha se levantó, y andaba; porque tenía doce años. Y se espantaron de grande espanto. \bibverse{43} Mas él les mandó mucho que nadie lo supiese, y dijo que le diesen de comer. 
 
 ## Rechazo y fracaso de Jesús en su natal Nazaret
 # 6 
-\bibverse{1} Y SALIÓ de allí, y vino á su tierra, y le siguieron sus discípulos. \bibverse{2} Y llegado el sábado, comenzó á enseñar en la sinagoga; y muchos oyéndole, estaban atónitos, diciendo: ¿De dónde tiene éste estas cosas? ¿Y qué sabiduría es ésta que le es dada, y tales maravillas que por sus manos son hechas? \bibverse{3} ¿No es éste el carpintero, hijo de María, hermano de Jacobo, y de José, y de Judas, y de Simón? ¿No están también aquí con nosotros, sus hermanas? Y se escandalizaban en él. ^[**6:3** Juan 6,42] 
+\bibverse{1} Y salió de allí, y vino á su tierra, y le siguieron sus discípulos. \bibverse{2} Y llegado el sábado, comenzó á enseñar en la sinagoga; y muchos oyéndole, estaban atónitos, diciendo: ¿De dónde tiene éste estas cosas? ¿Y qué sabiduría es ésta que le es dada, y tales maravillas que por sus manos son hechas? \bibverse{3} ¿No es éste el carpintero, hijo de María, hermano de Jacobo, y de José, y de Judas, y de Simón? ¿No están también aquí con nosotros, sus hermanas? Y se escandalizaban en él. ^[**6:3** Juan 6,42] 
 
 
 \bibverse{4} Mas Jesús les decía: No hay profeta deshonrado sino en su tierra, y entre sus parientes, y en su casa. \bibverse{5} Y no pudo hacer allí alguna maravilla; solamente sanó unos pocos enfermos, poniendo sobre ellos las manos. \bibverse{6} Y estaba maravillado de la incredulidad de ellos. Y rodeaba las aldeas de alrededor, enseñando. 
@@ -230,7 +234,7 @@
 
 ## Pelea con los oponentes sobre el lavado de manos; Advertencia de estatutos humanos y marcado de verdadera impureza
 # 7 
-\bibverse{1} Y SE juntaron á él los Fariseos, y algunos de los escribas, que habían venido de Jerusalem; \bibverse{2} Los cuales, viendo á algunos de sus discípulos comer pan con manos comunes, es á saber, no lavadas, los condenaban. \bibverse{3} (Porque los Fariseos y todos los Judíos, teniendo la tradición de los ancianos, si muchas veces no se lavan las manos, no comen. \bibverse{4} Y volviendo de la plaza, si no se lavaren, no comen. Y otras muchas cosas hay, que tomaron para guardar, como las lavaduras de los vasos de beber, y de los jarros, y de los vasos de metal, y de los lechos.) ^[**7:4** Mat 23,25] \bibverse{5} Y le preguntaron los Fariseos y los escribas: ¿Por qué tus discípulos no andan conforme á la tradición de los ancianos, sino que comen pan con manos comunes? 
+\bibverse{1} Y se juntaron á él los Fariseos, y algunos de los escribas, que habían venido de Jerusalem; \bibverse{2} Los cuales, viendo á algunos de sus discípulos comer pan con manos comunes, es á saber, no lavadas, los condenaban. \bibverse{3} (Porque los Fariseos y todos los Judíos, teniendo la tradición de los ancianos, si muchas veces no se lavan las manos, no comen. \bibverse{4} Y volviendo de la plaza, si no se lavaren, no comen. Y otras muchas cosas hay, que tomaron para guardar, como las lavaduras de los vasos de beber, y de los jarros, y de los vasos de metal, y de los lechos.) ^[**7:4** Mat 23,25] \bibverse{5} Y le preguntaron los Fariseos y los escribas: ¿Por qué tus discípulos no andan conforme á la tradición de los ancianos, sino que comen pan con manos comunes? 
 
 
 \bibverse{6} Y respondiendo él, les dijo: Hipócritas, bien profetizó de vosotros Isaías, como está escrito: Este pueblo con los labios me honra, mas su corazón lejos está de mí. \bibverse{7} Y en vano me honran, enseñando como doctrinas mandamientos de hombres. 
@@ -252,11 +256,13 @@
 
 ## El regreso de Jesús a Galilea en la orilla oriental del lago; Sanando a un sordomudo
 \bibverse{31} Y volviendo á salir de los términos de Tiro, vino por Sidón á la mar de Galilea, por mitad de los términos de Decápolis. ^[**7:31** Mar 5,20; Mat 15,29-31] 
+
+
 \bibverse{32} Y le traen un sordo y tartamudo, y le ruegan que le ponga la mano encima. \bibverse{33} Y tomándole aparte de la gente, metió sus dedos en las orejas de él, y escupiendo, tocó su lengua; \bibverse{34} Y mirando al cielo, gimió, y le dijo: Ephphatha: que es decir: Sé abierto. \bibverse{35} Y luego fueron abiertos sus oídos, y fué desatada la ligadura de su lengua, y hablaba bien. \bibverse{36} Y les mandó que no lo dijesen á nadie; pero cuanto más les mandaba, tanto más y más lo divulgaban. \bibverse{37} Y en gran manera se maravillaban, diciendo: Bien lo ha hecho todo: hace á los sordos oir, y á los mudos hablar. 
 
 ## Alimentando a los cuatro mil
 # 8 
-\bibverse{1} EN aquellos días, como hubo gran gentío, y no tenían qué comer, Jesús llamó á sus discípulos, y les dijo: \bibverse{2} Tengo compasión de la multitud, porque ya hace tres días que están conmigo, y no tienen qué comer: ^[**8:2** Mar 6,34-44] \bibverse{3} Y si los enviare en ayunas á sus casas, desmayarán en el camino; porque algunos de ellos han venido de lejos. 
+\bibverse{1} En aquellos días, como hubo gran gentío, y no tenían qué comer, Jesús llamó á sus discípulos, y les dijo: \bibverse{2} Tengo compasión de la multitud, porque ya hace tres días que están conmigo, y no tienen qué comer: ^[**8:2** Mar 6,34-44] \bibverse{3} Y si los enviare en ayunas á sus casas, desmayarán en el camino; porque algunos de ellos han venido de lejos. 
 
 
 \bibverse{4} Y sus discípulos le respondieron: ¿De dónde podrá alguien hartar á estos de pan aquí en el desierto? 
@@ -310,7 +316,7 @@
  
 
 # 9 
-\bibverse{1} TAMBIÉN les dijo: De cierto os digo que hay algunos de los que están aquí, que no gustarán la muerte hasta que hayan visto el reino de Dios que viene con potencia. 
+\bibverse{1} También les dijo: De cierto os digo que hay algunos de los que están aquí, que no gustarán la muerte hasta que hayan visto el reino de Dios que viene con potencia. 
 
 ## La transfiguración de Jesús en la montaña y su conversación con los discípulos en el descenso
 \bibverse{2} Y seis días después tomó Jesús á Pedro, y á Jacobo, y á Juan, y los sacó aparte solos á un monte alto; y fué transfigurado delante de ellos. \bibverse{3} Y sus vestidos se volvieron resplandecientes, muy blancos, como la nieve; tanto que ningún lavador en la tierra los puede hacer tan blancos. \bibverse{4} Y les apareció Elías con Moisés, que hablaban con Jesús. 
@@ -382,7 +388,7 @@
 
 ## Jesús en Judea y Transjordania; Conversaciones sobre matrimonio y divorcio
 # 10 
-\bibverse{1} Y PARTIÉNDOSE de allí, vino á los términos de Judea y tras el Jordán: y volvió el pueblo á juntarse á él; y de nuevo les enseñaba como solía. 
+\bibverse{1} Y partiéndose de allí, vino á los términos de Judea y tras el Jordán: y volvió el pueblo á juntarse á él; y de nuevo les enseñaba como solía. 
 
 \bibverse{2} Y llegándose los Fariseos, le preguntaron, para tentarle, si era lícito al marido repudiar á su mujer. 
 
@@ -462,7 +468,7 @@
 
 ## La entrada de Jesús a Jerusalén
 # 11 
-\bibverse{1} Y COMO fueron cerca de Jerusalem, de Bethphagé, y de Bethania, al monte de las Olivas, envía dos de sus discípulos, ^[**11:1** Juan 2,13] \bibverse{2} Y les dice: Id al lugar que está delante de vosotros, y luego entrados en él, hallaréis un pollino atado, sobre el cual ningún hombre ha subido; desatadlo y traedlo. \bibverse{3} Y si alguien os dijere: ¿Por qué hacéis eso? decid que el Señor lo ha menester: y luego lo enviará acá. 
+\bibverse{1} Y como fueron cerca de Jerusalem, de Bethphagé, y de Bethania, al monte de las Olivas, envía dos de sus discípulos, ^[**11:1** Juan 2,13] \bibverse{2} Y les dice: Id al lugar que está delante de vosotros, y luego entrados en él, hallaréis un pollino atado, sobre el cual ningún hombre ha subido; desatadlo y traedlo. \bibverse{3} Y si alguien os dijere: ¿Por qué hacéis eso? decid que el Señor lo ha menester: y luego lo enviará acá. 
 
 
 \bibverse{4} Y fueron, y hallaron el pollino atado á la puerta fuera, entre dos caminos; y le desataron. \bibverse{5} Y unos de los que estaban allí, les dijeron: ¿Qué hacéis desatando el pollino? \bibverse{6} Ellos entonces les dijeron como Jesús había mandado: y los dejaron. 
@@ -494,11 +500,13 @@
 \bibverse{29} Y Jesús respondiendo entonces, les dice: Os preguntaré también yo una palabra; y respondedme, y os diré con qué facultad hago estas cosas: \bibverse{30} El bautismo de Juan, ¿era del cielo, ó de los hombres? Respondedme. 
 
 \bibverse{31} Entonces ellos pensaron dentro de sí, diciendo: Si dijéremos, del cielo, dirá: ¿Por qué, pues, no le creísteis? \bibverse{32} Y si dijéremos, de los hombres, tememos al pueblo: porque todos juzgaban de Juan, que verdaderamente era profeta. ^[**11:32** Luc 7,29-30] 
+
+
 \bibverse{33} Y respondiendo, dicen á Jesús: No sabemos. Entonces respondiendo Jesús, les dice: Tampoco yo os diré con qué facultad hago estas cosas. 
 
 ## Parábola de los viticultores infieles
 # 12 
-\bibverse{1} Y COMENZÓ á hablarles por parábolas: Plantó un hombre una viña, y la cercó con seto, y cavó un lagar, y edificó una torre, y la arrendó á labradores, y se partió lejos. \bibverse{2} Y envió un siervo á los labradores, al tiempo, para que tomase de los labradores del fruto de la viña. \bibverse{3} Mas ellos, tomándole, le hirieron, y le enviaron vacío. \bibverse{4} Y volvió á enviarles otro siervo; mas apedreándole, le hirieron en la cabeza, y volvieron á enviarle afrentado. \bibverse{5} Y volvió á enviar otro, y á aquél mataron; y á otros muchos, hiriendo á unos y matando á otros. \bibverse{6} Teniendo pues aún un hijo suyo amado, enviólo también á ellos el postrero, diciendo: Tendrán en reverencia á mi hijo. \bibverse{7} Mas aquellos labradores dijeron entre sí: Este es el heredero; venid, matémosle, y la heredad será nuestra. \bibverse{8} Y prendiéndole, le mataron, y echaron fuera de la viña. ^[**12:8** Heb 13,12] \bibverse{9} ¿Qué, pues, hará el señor de la viña? Vendrá, y destruirá á estos labradores, y dará su viña á otros. \bibverse{10} ¿Ni aun esta Escritura habéis leído: La piedra que desecharon los que edificaban, ésta es puesta por cabeza de esquina; \bibverse{11} Por el Señor es hecho esto, y es cosa maravillosa en nuestros ojos? 
+\bibverse{1} Y comenzó á hablarles por parábolas: Plantó un hombre una viña, y la cercó con seto, y cavó un lagar, y edificó una torre, y la arrendó á labradores, y se partió lejos. \bibverse{2} Y envió un siervo á los labradores, al tiempo, para que tomase de los labradores del fruto de la viña. \bibverse{3} Mas ellos, tomándole, le hirieron, y le enviaron vacío. \bibverse{4} Y volvió á enviarles otro siervo; mas apedreándole, le hirieron en la cabeza, y volvieron á enviarle afrentado. \bibverse{5} Y volvió á enviar otro, y á aquél mataron; y á otros muchos, hiriendo á unos y matando á otros. \bibverse{6} Teniendo pues aún un hijo suyo amado, enviólo también á ellos el postrero, diciendo: Tendrán en reverencia á mi hijo. \bibverse{7} Mas aquellos labradores dijeron entre sí: Este es el heredero; venid, matémosle, y la heredad será nuestra. \bibverse{8} Y prendiéndole, le mataron, y echaron fuera de la viña. ^[**12:8** Heb 13,12] \bibverse{9} ¿Qué, pues, hará el señor de la viña? Vendrá, y destruirá á estos labradores, y dará su viña á otros. \bibverse{10} ¿Ni aun esta Escritura habéis leído: La piedra que desecharon los que edificaban, ésta es puesta por cabeza de esquina; \bibverse{11} Por el Señor es hecho esto, y es cosa maravillosa en nuestros ojos? 
 
 
 \bibverse{12} Y procuraban prenderle, porque entendían que decía á ellos aquella parábola; mas temían á la multitud; y dejándole, se fueron. 
@@ -538,11 +546,13 @@
 
 ## Jesús alaba las dos blancas de la viuda pobre
 \bibverse{41} Y estando sentado Jesús delante del arca de la ofrenda, miraba cómo el pueblo echaba dinero en el arca: y muchos ricos echaban mucho. ^[**12:41** 2Re 12,10] 
+
+
 \bibverse{42} Y como vino una viuda pobre, echó dos blancas, que son un maravedí. \bibverse{43} Entonces llamando á sus discípulos, les dice: De cierto os digo que esta viuda pobre echó más que todos los que han echado en el arca: \bibverse{44} Porque todos han echado de lo que les sobra; mas ésta, de su pobreza echó todo lo que tenía, todo su alimento. 
 
 ## Los primeros signos del fin de los tiempos
 # 13 
-\bibverse{1} Y SALIENDO del templo, le dice uno de sus discípulos: Maestro, mira qué piedras, y qué edificios. 
+\bibverse{1} Y saliendo del templo, le dice uno de sus discípulos: Maestro, mira qué piedras, y qué edificios. 
 
 \bibverse{2} Y Jesús respondiendo, le dijo: ¿Ves estos grandes edificios? no quedará piedra sobre piedra que no sea derribada. 
 
@@ -583,7 +593,7 @@
 
 ## Intento de asesinato por parte de los líderes del pueblo
 # 14 
-\bibverse{1} Y DOS días después era la Pascua y los días de los panes sin levadura: y procuraban los príncipes de los sacerdotes y los escribas cómo le prenderían por engaño, y le matarían. \bibverse{2} Y decían: No en el día de la fiesta, porque no se haga alboroto del pueblo. 
+\bibverse{1} Y dos días después era la Pascua y los días de los panes sin levadura: y procuraban los príncipes de los sacerdotes y los escribas cómo le prenderían por engaño, y le matarían. \bibverse{2} Y decían: No en el día de la fiesta, porque no se haga alboroto del pueblo. 
 
 ## Unción de Jesús en Betania
 \bibverse{3} Y estando él en Bethania en casa de Simón el leproso, y sentado á la mesa, vino una mujer teniendo un alabastro de ungüento de nardo espique de mucho precio; y quebrando el alabastro, derramóselo sobre su cabeza. ^[**14:3** Juan 12,1-8] \bibverse{4} Y hubo algunos que se enojaron dentro de sí, y dijeron: ¿Para qué se ha hecho este desperdicio de ungüento? \bibverse{5} Porque podía esto ser vendido por más de trescientos denarios, y darse á los pobres. Y murmuraban contra ella. 
@@ -670,7 +680,7 @@
 
 ## El interrogatorio de Jesús ante el gobernador romano Poncio Pilato; su condenación y flagelación
 # 15 
-\bibverse{1} Y LUEGO por la mañana, habiendo tenido consejo los príncipes de los sacerdotes con los ancianos, y con los escribas, y con todo el concilio, llevaron á Jesús atado, y le entregaron á Pilato. \bibverse{2} Y Pilato le preguntó: ¿Eres tú el Rey de los Judíos? Y respondiendo él, le dijo: Tú lo dices. 
+\bibverse{1} Y luego por la mañana, habiendo tenido consejo los príncipes de los sacerdotes con los ancianos, y con los escribas, y con todo el concilio, llevaron á Jesús atado, y le entregaron á Pilato. \bibverse{2} Y Pilato le preguntó: ¿Eres tú el Rey de los Judíos? Y respondiendo él, le dijo: Tú lo dices. 
 
 \bibverse{3} Y los príncipes de los sacerdotes le acusaban mucho. \bibverse{4} Y le preguntó otra vez Pilato, diciendo: ¿No respondes algo? Mira de cuántas cosas te acusan. 
 
@@ -694,7 +704,7 @@
 \bibverse{21} Y cargaron á uno que pasaba, Simón Cireneo, padre de Alejandro y de Rufo, que venía del campo, para que llevase su cruz. \bibverse{22} Y le llevan al lugar de Gólgotha, que declarado quiere decir: Lugar de la Calavera. \bibverse{23} Y le dieron á beber vino mezclado con mirra; mas él no lo tomó. ^[**15:23** Sal 69,22] 
 
 
-\bibverse{24} Y cuando le hubieron crucificado, repartieron sus vestidos, echando suertes sobre ellos, qué llevaría cada uno. ^[**15:24** Sal 22,19] \bibverse{25} Y era la hora de las tres cuando le crucificaron. \bibverse{26} Y el título escrito de su causa era: EL REY DE LOS JUDIOS. \bibverse{27} Y crucificaron con él dos ladrones, uno á su derecha, y el otro á su izquierda. \bibverse{28} Y se cumplió la Escritura, que dice: Y con los inicuos fué contado. 
+\bibverse{24} Y cuando le hubieron crucificado, repartieron sus vestidos, echando suertes sobre ellos, qué llevaría cada uno. ^[**15:24** Sal 22,19] \bibverse{25} Y era la hora de las tres cuando le crucificaron. \bibverse{26} Y el título escrito de su causa era: El rey de los Judios. \bibverse{27} Y crucificaron con él dos ladrones, uno á su derecha, y el otro á su izquierda. \bibverse{28} Y se cumplió la Escritura, que dice: Y con los inicuos fué contado. 
 
 
 \bibverse{29} Y los que pasaban le denostaban, meneando sus cabezas, y diciendo: ¡Ah! tú que derribas el templo de Dios, y en tres días lo edificas, ^[**15:29** Mar 14,58] \bibverse{30} Sálvate á ti mismo, y desciende de la cruz. 
@@ -719,7 +729,7 @@
 
 ## Descubrimiento de la tumba vacía en la mañana de Pascua; la revelación del ángel a las mujeres
 # 16 
-\bibverse{1} Y COMO pasó el sábado, María Magdalena, y María madre de Jacobo, y Salomé, compraron drogas aromáticas, para venir á ungirle. \bibverse{2} Y muy de mañana, el primer día de la semana, vienen al sepulcro, ya salido el sol. \bibverse{3} Y decían entre sí: ¿Quién nos revolverá la piedra de la puerta del sepulcro? \bibverse{4} Y como miraron, ven la piedra revuelta; que era muy grande. 
+\bibverse{1} Y como pasó el sábado, María Magdalena, y María madre de Jacobo, y Salomé, compraron drogas aromáticas, para venir á ungirle. \bibverse{2} Y muy de mañana, el primer día de la semana, vienen al sepulcro, ya salido el sol. \bibverse{3} Y decían entre sí: ¿Quién nos revolverá la piedra de la puerta del sepulcro? \bibverse{4} Y como miraron, ven la piedra revuelta; que era muy grande. 
 
 \bibverse{5} Y entradas en el sepulcro, vieron un mancebo sentado al lado derecho, cubierto de una larga ropa blanca; y se espantaron. \bibverse{6} Mas él les dice: No os asustéis: buscáis á Jesús Nazareno, el que fué crucificado; resucitado há, no está aquí; he aquí el lugar en donde le pusieron. \bibverse{7} Mas id, decid á sus discípulos y á Pedro, que él va antes que vosotros á Galilea: allí le veréis, como os dijo. ^[**16:7** Mar 14,28] 
 

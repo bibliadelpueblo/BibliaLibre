@@ -1,6 +1,6 @@
 ## Anuncio del juicio destructivo sobre todo el mundo de las naciones y especialmente sobre Judá
 # 1 
-\bibverse{1} PALABRA de Jehová que fué á Sofonías hijo de Cushi, hijo de Gedalías, hijo de Amarías, hijo de Ezechîas, en días de Josías hijo de Amón, rey de Judá. ^[**1:1** Jer 1,2] 
+\bibverse{1} Palabra de Jehová que fué á Sofonías hijo de Cushi, hijo de Gedalías, hijo de Amarías, hijo de Ezechîas, en días de Josías hijo de Amón, rey de Judá. ^[**1:1** Jer 1,2] 
 
 
 \bibverse{2} Destruiré del todo todas las cosas de sobre la haz de la tierra, dice Jehová. \bibverse{3} Destruiré los hombres y las bestias; destruiré las aves del cielo, y los peces de la mar, y las piedras de tropiezo con los impíos; y talaré los hombres de sobre la haz de la tierra, dice Jehová. \bibverse{4} Y extenderé mi mano sobre Judá, y sobre todos los moradores de Jerusalem, y exterminaré de este lugar el remanente de Baal, y el nombre de los Chemarim con los sacerdotes; ^[**1:4** 2Re 23,5; Os 10,5] \bibverse{5} Y á los que se inclinan sobre los terrados al ejército del cielo; y á los que se inclinan jurando por Jehová y jurando por su rey; ^[**1:5** Jer 19,13; Jer 49,1] \bibverse{6} Y á los que tornan atrás de en pos de Jehová; y á los que no buscaron á Jehová, ni preguntaron por él. 
@@ -17,7 +17,7 @@
 
 ## ¡Arrepiéntanse, porque el juicio viene sobre todo el mundo!
 # 2 
-\bibverse{1} CONGREGAOS y meditad, gente no amable, ^[**2:1** 1Sam 30,14; Jer 47,-1] \bibverse{2} Antes que pára el decreto, y el día se pase como el tamo; antes que venga sobre vosotros el furor de la ira de Jehová, antes que el día de la ira de Jehová venga sobre vosotros. \bibverse{3} Buscad á Jehová todos los humildes de la tierra, que pusisteis en obra su juicio; buscad justicia, buscad mansedumbre: quizás seréis guardados en el día del enojo de Jehová. 
+\bibverse{1} Congregaos y meditad, gente no amable, ^[**2:1** 1Sam 30,14; Jer 47,-1] \bibverse{2} Antes que pára el decreto, y el día se pase como el tamo; antes que venga sobre vosotros el furor de la ira de Jehová, antes que el día de la ira de Jehová venga sobre vosotros. \bibverse{3} Buscad á Jehová todos los humildes de la tierra, que pusisteis en obra su juicio; buscad justicia, buscad mansedumbre: quizás seréis guardados en el día del enojo de Jehová. 
 
 
 ## El juicio sobre la tierra filistea, Moab-Ammón, Etiopía y Asiria
@@ -30,11 +30,13 @@
 \bibverse{12} Vosotros también los de Etiopía seréis muertos con mi espada. 
 
 \bibverse{13} Y extenderá su mano sobre el aquilón, y destruirá al Assur, y pondrá á Nínive en asolamiento, y en secadal como un desierto. ^[**2:13** Is 13,21; Is 34,11] 
+
+
 \bibverse{14} Y rebaños de ganado harán en ella majada, todas las bestias de las gentes; el onocrótalo también y el erizo dormirán en sus umbrales: su voz cantará en las ventanas; asolación será en las puertas, porque su enmaderamiento de cedro será descubierto. \bibverse{15} Esta es la ciudad alegre que estaba confiada, la que decía en su corazón: Yo, y no más. ¡Cómo fué en asolamiento, en cama de bestias! Cualquiera que pasare junto á ella silbará, meneará su mano. 
 
 ## Las tristes condiciones en Jerusalén
 # 3 
-\bibverse{1} ¡AY de la ciudad ensuciada y contaminada y opresora! \bibverse{2} No escuchó la voz, ni recibió la disciplina: no se confió en Jehová, no se acercó á su Dios. 
+\bibverse{1} ¡Ay de la ciudad ensuciada y contaminada y opresora! \bibverse{2} No escuchó la voz, ni recibió la disciplina: no se confió en Jehová, no se acercó á su Dios. 
 
 \bibverse{3} Sus príncipes en medio de ella son leones bramadores: sus jueces, lobos de tarde que no dejan hueso para la mañana: ^[**3:3** Ezeq 22,27] \bibverse{4} Sus profetas, livianos, hombres prevaricadores: sus sacerdotes contaminaron el santuario, falsearon la ley. ^[**3:4** Miq 3,11] \bibverse{5} Jehová justo en medio de ella, no hará iniquidad: de mañana sacará á luz su juicio, nunca falta: mas el perverso no tiene vergüenza. 
  

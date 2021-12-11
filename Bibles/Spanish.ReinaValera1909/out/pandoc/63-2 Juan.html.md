@@ -1,6 +1,6 @@
 ## Bendiciones
 # 1 
-<sup>1</sup> EL anciano á la señora elegida y á sus hijos, á los cuales yo amo en verdad; y no yo solo, sino también todos los que han conocido la verdad, ^[**1:1** 1Jn 1,-1] <sup>2</sup> Por la verdad que está en nosotros, y será perpetuamente con nosotros: <sup>3</sup> Sea con vosotros gracia, misericordia, y paz de Dios Padre, y del Señor Jesucristo, Hijo del Padre, en verdad y en amor. 
+<sup>1</sup> El anciano á la señora elegida y á sus hijos, á los cuales yo amo en verdad; y no yo solo, sino también todos los que han conocido la verdad, ^[**1:1** 1Jn 1,-1] <sup>2</sup> Por la verdad que está en nosotros, y será perpetuamente con nosotros: <sup>3</sup> Sea con vosotros gracia, misericordia, y paz de Dios Padre, y del Señor Jesucristo, Hijo del Padre, en verdad y en amor. 
 
 
 ## Recordatorio de amar fraternalmente y tener cuidado con los falsos maestros y el anticristo

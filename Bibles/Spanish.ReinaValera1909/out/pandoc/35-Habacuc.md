@@ -1,6 +1,6 @@
 ## El lamento del Profeta por las pésimas condiciones de su tiempo y la depravación de su pueblo
 # 1 
-\bibverse{1} LA carga que vió Habacuc profeta. \bibverse{2} ¿Hasta cuándo, oh Jehová, clamaré, y no oirás; y daré voces á ti á causa de la violencia, y no salvarás? \bibverse{3} ¿Por qué me haces ver iniquidad, y haces que mire molestia, y saco y violencia delante de mí, habiendo además quien levante pleito y contienda? \bibverse{4} Por lo cual la ley es debilitada, y el juicio no sale verdadero: por cuanto el impío asedia al justo, por eso sale torcido el juicio. 
+\bibverse{1} La carga que vió Habacuc profeta. \bibverse{2} ¿Hasta cuándo, oh Jehová, clamaré, y no oirás; y daré voces á ti á causa de la violencia, y no salvarás? \bibverse{3} ¿Por qué me haces ver iniquidad, y haces que mire molestia, y saco y violencia delante de mí, habiendo además quien levante pleito y contienda? \bibverse{4} Por lo cual la ley es debilitada, y el juicio no sale verdadero: por cuanto el impío asedia al justo, por eso sale torcido el juicio. 
 
 ## Anuncio del próximo tribunal penal; Descripción del terrible enemigo que se acerca
 \bibverse{5} Mirad en las gentes, y ved, y maravillaos pasmosamente; porque obra será hecha en vuestros días, que aun cuando se os contare, no la creeréis. ^[**1:5** Hech 13,41] \bibverse{6} Porque he aquí, yo levanto los Caldeos, gente amarga y presurosa, que camina por la anchura de la tierra para poseer las habitaciones ajenas. \bibverse{7} Espantosa es y terrible: de ella misma saldrá su derecho y su grandeza. \bibverse{8} Y serán sus caballos más ligeros que tigres, y más agudos que lobos de tarde; y sus jinetes se multiplicarán: vendrán de lejos sus caballeros, y volarán como águilas que se apresuran á la comida. \bibverse{9} Toda ella vendrá á la presa: delante de sus caras viento solano; y juntará cautivos como arena. \bibverse{10} Y escarnecerá de los reyes, y de los príncipes hará burla: reiráse de toda fortaleza, y amontonará polvo, y la tomará. \bibverse{11} Luego mudará espíritu, y pasará adelante, y ofenderá atribuyendo esta su potencia á su dios. 
@@ -8,11 +8,13 @@
 
 ## El profeta le preguntó a Dios con reproche por qué permitiría que el enemigo hiciera algo tan terrible
 \bibverse{12} ¿No eres tú desde el principio, oh Jehová, Dios mío, Santo mío? No moriremos. Oh Jehová, para juicio lo pusiste; y tú, oh Roca, lo fundaste para castigar. ^[**1:12** Jer 10,24] 
+
+
 \bibverse{13} Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio: ¿por qué ves los menospreciadores, y callas cuando destruye el impío al más justo que él, \bibverse{14} Y haces que sean los hombres como los peces de la mar, como reptiles que no tienen señor? \bibverse{15} Sacará á todos con anzuelo, cogerálos con su red, y juntarálos en su aljerife: por lo cual se holgará y hará alegrías. \bibverse{16} Por esto hará sacrificios á su red, y ofrecerá sahumerios á su aljerife: porque con ellos engordó su porción, y engrasó su comida. \bibverse{17} ¿Vaciará por eso su red, ó tendrá piedad de matar gentes continuamente? 
 
 ## Habacuc espera y recibe la respuesta de Dios a su queja
 # 2 
-\bibverse{1} SOBRE mi guarda estaré, y sobre la fortaleza afirmaré el pie, y atalayaré para ver qué hablará en mí, y qué tengo de responder á mi pregunta. 
+\bibverse{1} Sobre mi guarda estaré, y sobre la fortaleza afirmaré el pie, y atalayaré para ver qué hablará en mí, y qué tengo de responder á mi pregunta. 
 
 \bibverse{2} Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella. \bibverse{3} Aunque la visión tardará aún por tiempo, mas al fin hablará, y no mentirá: aunque se tardare, espéralo, que sin duda vendrá; no tardará. \bibverse{4} He aquí se enorgullece aquel cuya alma no es derecha en él: mas el justo en su fe vivirá. ^[**2:4** Is 48,22; Rom 1,17; Gal 3,11; Heb 10,38] 
 
@@ -34,7 +36,7 @@
 
 ## Canción a la aparición del Señor en el juicio
 # 3 
-\bibverse{1} ORACIÓN de Habacuc profeta, sobre Sigionoth. 
+\bibverse{1} Oración de Habacuc profeta, sobre Sigionoth. 
 
 \bibverse{2} Oh Jehová, oído he tu palabra, y temí: oh Jehová, aviva tu obra en medio de los tiempos, en medio de los tiempos hazla conocer; en la ira acuérdate de la misericordia. 
 

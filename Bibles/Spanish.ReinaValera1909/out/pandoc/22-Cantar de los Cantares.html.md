@@ -1,20 +1,22 @@
 ## El diálogo interno de Sulammith y su anhelo de amor
 # 1 
-<sup>1</sup> CANCIÓN de canciones, la cual es de Salomón. <sup>2</sup> ¡Oh si él me besara con ósculos de su boca! porque mejores son tus amores que el vino. <sup>3</sup> Por el olor de tus suaves ungüentos, (ungüento derramado es tu nombre,) por eso las doncellas te amaron. <sup>4</sup> Llévame en pos de ti, correremos. Metióme el rey en sus cámaras: nos gozaremos y alegraremos en ti; acordarémonos de tus amores más que del vino: los rectos te aman. 
+<sup>1</sup> Canción de canciones, la cual es de Salomón. <sup>2</sup> ¡Oh si él me besara con ósculos de su boca! porque mejores son tus amores que el vino. <sup>3</sup> Por el olor de tus suaves ungüentos, (ungüento derramado es tu nombre,) por eso las doncellas te amaron. <sup>4</sup> Llévame en pos de ti, correremos. Metióme el rey en sus cámaras: nos gozaremos y alegraremos en ti; acordarémonos de tus amores más que del vino: los rectos te aman. 
 
 ## Queja de belleza de niña en riesgo
 <sup>5</sup> Morena soy, oh hijas de Jerusalem, mas codiciable; como las cabañas de Cedar, como las tiendas de Salomón. <sup>6</sup> No miréis en que soy morena, porque el sol me miró. Los hijos de mi madre se airaron contra mí, hiciéronme guarda de viñas; y mi viña, que era mía, no guardé. 
 
-## TSolicitud de la novia para una cita
+## Solicitud de la novia para una cita
 <sup>7</sup> Hazme saber, ó tú á quien ama mi alma, dónde repastas, dónde haces tener majada al medio día: porque, ¿por qué había yo de estar como vagueando tras los rebaños de tus compañeros? <sup>8</sup> Si tú no lo sabes, oh hermosa entre las mujeres, sal, yéndote por las huellas del rebaño, y apacienta tus cabritas junto á las cabañas de los pastores. 
 
 ## Dulce charla de amor
 <sup>9</sup> A yegua de los carros de Faraón te he comparado, amiga mía. <sup>10</sup> Hermosas son tus mejillas entre los pendientes, tu cuello entre los collares. <sup>11</sup> Zarcillos de oro te haremos, con clavos de plata. <sup>12</sup> Mientras que el rey estaba en su reclinatorio, mi nardo dió su olor. <sup>13</sup> Mi amado es para mí un manojito de mirra, que reposa entre mis pechos. <sup>14</sup> Racimo de copher en las viñas de Engadi es para mí mi amado. <sup>15</sup> He aquí que tú eres hermosa, amiga mía; he aquí que eres bella: tus ojos de paloma. ^[**1:15** Cant 2,14; Cant 4,1; Cant 7,1-7; Cant 6,4] <sup>16</sup> He aquí que tú eres hermoso, amado mío, y suave: nuestro lecho también florido. ^[**1:16** Cant 5,16] 
- <sup>17</sup> Las vigas de nuestra casa son de cedro, y de ciprés los artesonados. 
+ 
+
+<sup>17</sup> Las vigas de nuestra casa son de cedro, y de ciprés los artesonados. 
 
 ## Cantos y compromiso
 # 2 
-<sup>1</sup> YO soy la rosa de Sarón, y el lirio de los valles. <sup>2</sup> Como el lirio entre las espinas, así es mi amiga entre las doncellas. <sup>3</sup> Como el manzano entre los árboles silvestres, así es mi amado entre los mancebos: bajo la sombra del deseado me senté, y su fruto fué dulce á mi paladar. <sup>4</sup> Llevóme á la cámara del vino, y su bandera sobre mí fué amor. <sup>5</sup> Sustentadme con frascos, corroboradme con manzanas; porque estoy enferma de amor. ^[**2:5** Cant 5,8] <sup>6</sup> Su izquierda esté debajo de mi cabeza, y su derecha me abrace. ^[**2:6** Cant 8,3] <sup>7</sup> Yo os conjuro, oh doncellas de Jerusalem, por las gamas y por las ciervas del campo, que no despertéis ni hagáis velar al amor, hasta que quiera. ^[**2:7** Cant 3,5; Cant 8,4] 
+<sup>1</sup> Yo soy la rosa de Sarón, y el lirio de los valles. <sup>2</sup> Como el lirio entre las espinas, así es mi amiga entre las doncellas. <sup>3</sup> Como el manzano entre los árboles silvestres, así es mi amado entre los mancebos: bajo la sombra del deseado me senté, y su fruto fué dulce á mi paladar. <sup>4</sup> Llevóme á la cámara del vino, y su bandera sobre mí fué amor. <sup>5</sup> Sustentadme con frascos, corroboradme con manzanas; porque estoy enferma de amor. ^[**2:5** Cant 5,8] <sup>6</sup> Su izquierda esté debajo de mi cabeza, y su derecha me abrace. ^[**2:6** Cant 8,3] <sup>7</sup> Yo os conjuro, oh doncellas de Jerusalem, por las gamas y por las ciervas del campo, que no despertéis ni hagáis velar al amor, hasta que quiera. ^[**2:7** Cant 3,5; Cant 8,4] 
   
 
 ## Amor primavera
@@ -27,7 +29,7 @@
 
 ## Sueño anhelante de la novia
 # 3 
-<sup>1</sup> POR las noches busqué en mi lecho al que ama mi alma: busquélo, y no lo hallé. ^[**3:1** Cant 5,6] <sup>2</sup> Levantaréme ahora, y rodearé por la ciudad; por las calles y por las plazas buscaré al que ama mi alma: busquélo, y no lo hallé. <sup>3</sup> Halláronme los guardas que rondan la ciudad, y díjeles: ¿Habéis visto al que ama mi alma? <sup>4</sup> Pasando de ellos un poco, hallé luego al que mi alma ama: trabé de él, y no lo dejé, hasta que lo metí en casa de mi madre, y en la cámara de la que me engendró. ^[**3:4** Cant 8,2] <sup>5</sup> Yo os conjuro, oh doncellas de Jerusalem, por las gamas y por las ciervas del campo, que no despertéis ni hagáis velar al amor, hasta que quiera. 
+<sup>1</sup> Por las noches busqué en mi lecho al que ama mi alma: busquélo, y no lo hallé. ^[**3:1** Cant 5,6] <sup>2</sup> Levantaréme ahora, y rodearé por la ciudad; por las calles y por las plazas buscaré al que ama mi alma: busquélo, y no lo hallé. <sup>3</sup> Halláronme los guardas que rondan la ciudad, y díjeles: ¿Habéis visto al que ama mi alma? <sup>4</sup> Pasando de ellos un poco, hallé luego al que mi alma ama: trabé de él, y no lo dejé, hasta que lo metí en casa de mi madre, y en la cámara de la que me engendró. ^[**3:4** Cant 8,2] <sup>5</sup> Yo os conjuro, oh doncellas de Jerusalem, por las gamas y por las ciervas del campo, que no despertéis ni hagáis velar al amor, hasta que quiera. 
  
 
 ## La procesión nupcial del novio
@@ -35,7 +37,7 @@
 
 ## Descripción de la novia por el novio
 # 4 
-<sup>1</sup> HE aquí que tú eres hermosa, amiga mía; he aquí que tú eres hermosa; tus ojos entre tus guedejas como de paloma; tus cabellos como manada de cabras, que se muestran desde el monte de Galaad. <sup>2</sup> Tus dientes, como manadas de trasquiladas ovejas, que suben del lavadero, todas con crías mellizas, y ninguna entre ellas estéril. ^[**4:2** Cant 6,6] <sup>3</sup> Tus labios, como un hilo de grana, y tu habla hermosa; tus sienes, como cachos de granada á la parte adentro de tus guedejas. ^[**4:3** Cant 6,7] <sup>4</sup> Tu cuello, como la torre de David, edificada para muestra; mil escudos están colgados de ella, todos escudos de valientes. ^[**4:4** Cant 7,5] <sup>5</sup> Tus dos pechos, como dos cabritos mellizos de gama, que son apacentados entre azucenas. ^[**4:5** Cant 7,4] <sup>6</sup> Hasta que apunte el día y huyan las sombras, iréme al monte de la mirra, y al collado del incienso. ^[**4:6** Cant 2,17] <sup>7</sup> Toda tú eres hermosa, amiga mía, y en ti no hay mancha. ^[**4:7** Sal 45,14] 
+<sup>1</sup> He aquí que tú eres hermosa, amiga mía; he aquí que tú eres hermosa; tus ojos entre tus guedejas como de paloma; tus cabellos como manada de cabras, que se muestran desde el monte de Galaad. <sup>2</sup> Tus dientes, como manadas de trasquiladas ovejas, que suben del lavadero, todas con crías mellizas, y ninguna entre ellas estéril. ^[**4:2** Cant 6,6] <sup>3</sup> Tus labios, como un hilo de grana, y tu habla hermosa; tus sienes, como cachos de granada á la parte adentro de tus guedejas. ^[**4:3** Cant 6,7] <sup>4</sup> Tu cuello, como la torre de David, edificada para muestra; mil escudos están colgados de ella, todos escudos de valientes. ^[**4:4** Cant 7,5] <sup>5</sup> Tus dos pechos, como dos cabritos mellizos de gama, que son apacentados entre azucenas. ^[**4:5** Cant 7,4] <sup>6</sup> Hasta que apunte el día y huyan las sombras, iréme al monte de la mirra, y al collado del incienso. ^[**4:6** Cant 2,17] <sup>7</sup> Toda tú eres hermosa, amiga mía, y en ti no hay mancha. ^[**4:7** Sal 45,14] 
      
 
 ## La boda
@@ -46,7 +48,7 @@
 
 ## El joven marido toma posesión de su jardín; la fiesta de bodas
 # 5 
-<sup>1</sup> YO vine á mi huerto, oh hermana, esposa mía: cogido he mi mirra y mis aromas; he comido mi panal y mi miel, mi vino y mi leche he bebido. Comed, amigos; bebed, amados, y embriagaos. ^[**5:1** Cant 6,2] 
+<sup>1</sup> Yo vine á mi huerto, oh hermana, esposa mía: cogido he mi mirra y mis aromas; he comido mi panal y mi miel, mi vino y mi leche he bebido. Comed, amigos; bebed, amados, y embriagaos. ^[**5:1** Cant 6,2] 
 
 
 ## Besuch des Bräutigams
@@ -55,10 +57,12 @@
 
 ## Descripción del novio por la novia
 <sup>8</sup> Yo os conjuro, oh doncellas de Jerusalem, si hallareis á mi amado, que le hagáis saber como de amor estoy enferma. <sup>9</sup> ¿Qué es tu amado más que otro amado, oh la más hermosa de todas las mujeres? ¿qué es tu amado más que otro amado, que así nos conjuras? <sup>10</sup> Mi amado es blanco y rubio, señalado entre diez mil. <sup>11</sup> Su cabeza, como oro finísimo; sus cabellos crespos, negros como el cuervo. <sup>12</sup> Sus ojos, como palomas junto á los arroyos de las aguas, que se lavan con leche, y á la perfección colocados. ^[**5:12** Cant 4,1] <sup>13</sup> Sus mejillas, como una era de especias aromáticas, como fragantes flores: sus labios, como lirios que destilan mirra que trasciende. ^[**5:13** Sal 45,3] 
- <sup>14</sup> Sus manos, como anillos de oro engastados de jacintos: su vientre, como claro marfil cubierto de zafiros. <sup>15</sup> Sus piernas, como columnas de mármol fundadas sobre basas de fino oro: su aspecto como el Líbano, escogido como los cedros. <sup>16</sup> Su paladar, dulcísimo: y todo él codiciable. Tal es mi amado, tal es mi amigo, oh doncellas de Jerusalem. 
+ 
+
+<sup>14</sup> Sus manos, como anillos de oro engastados de jacintos: su vientre, como claro marfil cubierto de zafiros. <sup>15</sup> Sus piernas, como columnas de mármol fundadas sobre basas de fino oro: su aspecto como el Líbano, escogido como los cedros. <sup>16</sup> Su paladar, dulcísimo: y todo él codiciable. Tal es mi amado, tal es mi amigo, oh doncellas de Jerusalem. 
 
 # 6 
-<sup>1</sup> ¿DÓNDE se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿Adónde se apartó tu amado, y le buscaremos contigo? <sup>2</sup> Mi amado descendió á su huerto, á las eras de los aromas, para apacentar en los huertos, y para coger los lirios. ^[**6:2** Cant 4,6] <sup>3</sup> Yo soy de mi amado, y mi amado es mío: él apacienta entre los lirios. ^[**6:3** Cant 2,16] 
+<sup>1</sup> ¿Dónde se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿Adónde se apartó tu amado, y le buscaremos contigo? <sup>2</sup> Mi amado descendió á su huerto, á las eras de los aromas, para apacentar en los huertos, y para coger los lirios. ^[**6:2** Cant 4,6] <sup>3</sup> Yo soy de mi amado, y mi amado es mío: él apacienta entre los lirios. ^[**6:3** Cant 2,16] 
  
 
 ## Descripción de la novia por el novio
@@ -70,7 +74,7 @@
 
 ## Descripción del baile de la novia; Alabado sea su belleza
 # 7 
-<sup>1</sup> ¡CUÁN hermosos son tus pies en los calzados, oh hija de príncipe! Los contornos de tus muslos son como joyas, obra de mano de excelente maestro. <sup>2</sup> Tu ombligo, como una taza redonda, que no le falta bebida. Tu vientre, como montón de trigo, cercado de lirios. <sup>3</sup> Tus dos pechos, como dos cabritos mellizos de gama. <sup>4</sup> Tu cuello, como torre de marfil; tus ojos, como las pesqueras de Hesbón junto á la puerta de Batrabbim; tu nariz, como la torre del Líbano, que mira hacia Damasco. ^[**7:4** Cant 4,5] <sup>5</sup> Tu cabeza encima de ti, como el Carmelo; y el cabello de tu cabeza, como la púrpura del rey ligada en los corredores. ^[**7:5** Cant 4,4] <sup>6</sup> ¡Qué hermosa eres, y cuán suave, oh amor deleitoso! 
+<sup>1</sup> ¡Cuán hermosos son tus pies en los calzados, oh hija de príncipe! Los contornos de tus muslos son como joyas, obra de mano de excelente maestro. <sup>2</sup> Tu ombligo, como una taza redonda, que no le falta bebida. Tu vientre, como montón de trigo, cercado de lirios. <sup>3</sup> Tus dos pechos, como dos cabritos mellizos de gama. <sup>4</sup> Tu cuello, como torre de marfil; tus ojos, como las pesqueras de Hesbón junto á la puerta de Batrabbim; tu nariz, como la torre del Líbano, que mira hacia Damasco. ^[**7:4** Cant 4,5] <sup>5</sup> Tu cabeza encima de ti, como el Carmelo; y el cabello de tu cabeza, como la púrpura del rey ligada en los corredores. ^[**7:5** Cant 4,4] <sup>6</sup> ¡Qué hermosa eres, y cuán suave, oh amor deleitoso! 
  
 
 ## El novio alaba a la novia
@@ -83,7 +87,7 @@
 
 ## Amante y hermano
 # 8 
-<sup>1</sup> ¡OH quién te me diese como hermano que mamó los pechos de mi madre; de modo que te halle yo fuera, y te bese, y no me menosprecien! <sup>2</sup> Yo te llevaría, te metiera en casa de mi madre: tú me enseñarías, y yo te hiciera beber vino adobado del mosto de mis granadas. ^[**8:2** Cant 3,4] <sup>3</sup> Su izquierda esté debajo de mi cabeza, y su derecha me abrace. ^[**8:3** Cant 2,6] <sup>4</sup> Conjúroos, oh doncellas de Jerusalem, que no despertéis, ni hagáis velar al amor, hasta que quiera. ^[**8:4** Cant 2,7] 
+<sup>1</sup> ¡Oh quién te me diese como hermano que mamó los pechos de mi madre; de modo que te halle yo fuera, y te bese, y no me menosprecien! <sup>2</sup> Yo te llevaría, te metiera en casa de mi madre: tú me enseñarías, y yo te hiciera beber vino adobado del mosto de mis granadas. ^[**8:2** Cant 3,4] <sup>3</sup> Su izquierda esté debajo de mi cabeza, y su derecha me abrace. ^[**8:3** Cant 2,6] <sup>4</sup> Conjúroos, oh doncellas de Jerusalem, que no despertéis, ni hagáis velar al amor, hasta que quiera. ^[**8:4** Cant 2,7] 
   
 
 ## En el destino en la casa del esposo

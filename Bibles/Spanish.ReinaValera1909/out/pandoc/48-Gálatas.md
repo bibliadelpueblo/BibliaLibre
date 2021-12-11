@@ -1,6 +1,6 @@
 ## Bendiciones
 # 1 
-\bibverse{1} PABLO, apóstol, (no de los hombres, ni por hombre, mas por Jesucristo y por Dios el Padre, que lo resucitó de los muertos), \bibverse{2} Y todos los hermanos que están conmigo, á las iglesias de Galacia: \bibverse{3} Gracia sea á vosotros, y paz de Dios el Padre, y de nuestro Señor Jesucristo, \bibverse{4} El cual se dió á sí mismo por nuestros pecados para librarnos de este presente siglo malo, conforme á la voluntad de Dios y Padre nuestro; ^[**1:4** Gal 2,20; 1Tim 2,6; Tit 2,14; 1Jn 5,19] \bibverse{5} Al cual sea la gloria por siglos de siglos. Amén. 
+\bibverse{1} Pablo, apóstol, (no de los hombres, ni por hombre, mas por Jesucristo y por Dios el Padre, que lo resucitó de los muertos), \bibverse{2} Y todos los hermanos que están conmigo, á las iglesias de Galacia: \bibverse{3} Gracia sea á vosotros, y paz de Dios el Padre, y de nuestro Señor Jesucristo, \bibverse{4} El cual se dió á sí mismo por nuestros pecados para librarnos de este presente siglo malo, conforme á la voluntad de Dios y Padre nuestro; ^[**1:4** Gal 2,20; 1Tim 2,6; Tit 2,14; 1Jn 5,19] \bibverse{5} Al cual sea la gloria por siglos de siglos. Amén. 
 
 
 ## La sorpresa del apóstol ante la rápida apostasía de los gálatas del único mensaje verdadero de salvación
@@ -20,11 +20,13 @@
 
 ## La actividad independiente de Pablo durante el tiempo anterior a la reunión de los apóstoles
 \bibverse{18} Después, pasados tres años, fuí á Jerusalem á ver á Pedro, y estuve con él quince días. ^[**1:18** Juan 1,42; Hech 9,26-27] \bibverse{19} Mas á ningún otro de los apóstoles vi, sino á Jacobo el hermano del Señor. ^[**1:19** Mat 13,55] \bibverse{20} Y en esto que os escribo, he aquí, delante de Dios, no miento. \bibverse{21} Después fuí á las partes de Siria y de Cilicia; ^[**1:21** Hech 9,30] 
-  \bibverse{22} Y no era conocido de vista á las iglesias de Judea, que eran en Cristo; \bibverse{23} Solamente habían oído decir: Aquel que en otro tiempo nos perseguía, ahora anuncia la fe que en otro tiempo destruía. \bibverse{24} Y glorificaban á Dios en mí. 
+  
+
+\bibverse{22} Y no era conocido de vista á las iglesias de Judea, que eran en Cristo; \bibverse{23} Solamente habían oído decir: Aquel que en otro tiempo nos perseguía, ahora anuncia la fe que en otro tiempo destruía. \bibverse{24} Y glorificaban á Dios en mí. 
 
 ## Aparición de Pablo en la consulta del apóstol en Jerusalén
 # 2 
-\bibverse{1} DESPUÉS, pasados catorce años, fuí otra vez á Jerusalem juntamente con Bernabé, tomando también conmigo á Tito. \bibverse{2} Empero fuí por revelación, y comuniquéles el evangelio que predico entre los Gentiles; mas particularmente á los que parecían ser algo, por no correr en vano, ó haber corrido. \bibverse{3} Mas ni aun Tito, que estaba conmigo, siendo Griego, fué compelido á circuncidarse. ^[**2:3** Hech 16,3; 1Cor 9,21] \bibverse{4} Y eso por causa de los falsos hermanos, que se entraban secretamente para espiar nuestra libertad que tenemos en Cristo Jesús, para ponernos en servidumbre; \bibverse{5} A los cuales ni aun por una hora cedimos sujetándonos, para que la verdad del evangelio permaneciese con vosotros. 
+\bibverse{1} Después, pasados catorce años, fuí otra vez á Jerusalem juntamente con Bernabé, tomando también conmigo á Tito. \bibverse{2} Empero fuí por revelación, y comuniquéles el evangelio que predico entre los Gentiles; mas particularmente á los que parecían ser algo, por no correr en vano, ó haber corrido. \bibverse{3} Mas ni aun Tito, que estaba conmigo, siendo Griego, fué compelido á circuncidarse. ^[**2:3** Hech 16,3; 1Cor 9,21] \bibverse{4} Y eso por causa de los falsos hermanos, que se entraban secretamente para espiar nuestra libertad que tenemos en Cristo Jesús, para ponernos en servidumbre; \bibverse{5} A los cuales ni aun por una hora cedimos sujetándonos, para que la verdad del evangelio permaneciese con vosotros. 
 
 
 ## El resultado favorable para Pablo de las negociaciones con los apóstoles mayores, respetados
@@ -39,11 +41,13 @@
 \bibverse{14} Mas cuando vi que no andaban derechamente conforme á la verdad del evangelio, dije á Pedro delante de todos: Si tú, siendo Judío, vives como los Gentiles y no como Judío, ¿por qué constriñes á los Gentiles á judaizar? 
 
 \bibverse{15} Nosotros Judíos naturales, y no pecadores de los Gentiles, \bibverse{16} Sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para que fuésemos justificados por la fe de Cristo, y no por las obras de la ley; por cuanto por las obras de la ley ninguna carne será justificada. \bibverse{17} Y si buscando nosotros ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En ninguna manera. \bibverse{18} Porque si las cosas que destruí, las mismas vuelvo á edificar, transgresor me hago. \bibverse{19} Porque yo por la ley soy muerto á la ley, para vivir á Dios. ^[**2:19** Rom 7,6] \bibverse{20} Con Cristo estoy juntamente crucificado, y vivo, no ya yo, mas vive Cristo en mí: y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó, y se entregó á sí mismo por mí. ^[**2:20** Gal 1,4; Juan 17,23] 
- \bibverse{21} No desecho la gracia de Dios: porque si por la ley fuese la justicia, entonces por demás murió Cristo. 
+ 
+
+\bibverse{21} No desecho la gracia de Dios: porque si por la ley fuese la justicia, entonces por demás murió Cristo. 
 
 ## Referencia a la experiencia de los mismos Gálatas de que la recepción del Espíritu es el resultado de la fe
 # 3 
-\bibverse{1} ¡OH Gálatas insensatos! ¿quién os fascinó, para no obedecer á la verdad, ante cuyos ojos Jesucristo fué ya descrito como crucificado entre vosotros? \bibverse{2} Esto solo quiero saber de vosotros: ¿Recibisteis el Espíritu por las obras de la ley, ó por el oir de la fe? \bibverse{3} ¿Tan necios sois? ¿habiendo comenzado por el Espíritu, ahora os perfeccionáis por la carne? \bibverse{4} ¿Tantas cosas habéis padecido en vano? si empero en vano. \bibverse{5} Aquel, pues, que os daba el Espíritu, y obraba maravillas entre vosotros ¿hacíalo por las obras de la ley, ó por el oir de la fe? 
+\bibverse{1} ¡Oh Gálatas insensatos! ¿quién os fascinó, para no obedecer á la verdad, ante cuyos ojos Jesucristo fué ya descrito como crucificado entre vosotros? \bibverse{2} Esto solo quiero saber de vosotros: ¿Recibisteis el Espíritu por las obras de la ley, ó por el oir de la fe? \bibverse{3} ¿Tan necios sois? ¿habiendo comenzado por el Espíritu, ahora os perfeccionáis por la carne? \bibverse{4} ¿Tantas cosas habéis padecido en vano? si empero en vano. \bibverse{5} Aquel, pues, que os daba el Espíritu, y obraba maravillas entre vosotros ¿hacíalo por las obras de la ley, ó por el oir de la fe? 
 
 ## La justicia de la fe de Abraham nuestro ejemplo; el servicio de la ley trae la maldición, Cristo libera de la maldición de la ley
 \bibverse{6} Como Abraham creyó á Dios, y le fué imputado á justicia. ^[**3:6** Rom 4,3] \bibverse{7} Sabéis por tanto, que los que son de fe, los tales son hijos de Abraham. \bibverse{8} Y viendo antes la Escritura que Dios por la fe había de justificar á los Gentiles, evangelizó antes á Abraham, diciendo: En ti serán benditas todas las naciones. \bibverse{9} Luego los de la fe son benditos con el creyente Abraham. 
@@ -71,11 +75,13 @@
 
 ## Todos los cristianos creyentes son ahora, después del fin del imperio de la ley, de Dios y de los hijos y herederos de Abraham
 \bibverse{25} Mas venida la fe, ya no estamos bajo ayo; ^[**3:25** Rom 10,4] \bibverse{26} Porque todos sois hijos de Dios por la fe en Cristo Jesús. ^[**3:26** Juan 1,12; Rom 8,17] \bibverse{27} Porque todos los que habéis sido bautizados en Cristo, de Cristo estáis vestidos. ^[**3:27** Rom 6,3; Rom 13,14] \bibverse{28} No hay Judío, ni Griego; no hay siervo, ni libre; no hay varón, ni hembra: porque todos vosotros sois uno en Cristo Jesús. ^[**3:28** Rom 10,12; 1Cor 12,13] 
-   \bibverse{29} Y si vosotros sois de Cristo, ciertamente la simiente de Abraham sois, y conforme á la promesa los herederos. 
+   
+
+\bibverse{29} Y si vosotros sois de Cristo, ciertamente la simiente de Abraham sois, y conforme á la promesa los herederos. 
 
 ## Para los creyentes, la posición de hijos, filiación, en Cristo ha tomado el lugar de la esclavitud a la ley
 # 4 
-\bibverse{1} TAMBIÉN digo: Entre tanto que el heredero es niño, en nada difiere del siervo, aunque es señor de todo; \bibverse{2} Mas está debajo de tutores y curadores hasta el tiempo señalado por el padre. \bibverse{3} Así también nosotros, cuando éramos niños, éramos siervos bajo los rudimentos del mundo. ^[**4:3** Gal 4,8-10; Gal 5,1; Col 2,20] \bibverse{4} Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley, ^[**4:4** Mar 1,15; Efes 1,10] \bibverse{5} Para que redimiese á los que estaban debajo de la ley, á fin de que recibiésemos la adopción de hijos. \bibverse{6} Y por cuanto sois hijos, Dios envió el Espíritu de su Hijo en vuestros corazones, el cual clama: Abba, Padre. ^[**4:6** Rom 8,15] \bibverse{7} Así que ya no eres más siervo, sino hijo; y si hijo, también heredero de Dios por Cristo. ^[**4:7** Rom 8,16-17] 
+\bibverse{1} También digo: Entre tanto que el heredero es niño, en nada difiere del siervo, aunque es señor de todo; \bibverse{2} Mas está debajo de tutores y curadores hasta el tiempo señalado por el padre. \bibverse{3} Así también nosotros, cuando éramos niños, éramos siervos bajo los rudimentos del mundo. ^[**4:3** Gal 4,8-10; Gal 5,1; Col 2,20] \bibverse{4} Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley, ^[**4:4** Mar 1,15; Efes 1,10] \bibverse{5} Para que redimiese á los que estaban debajo de la ley, á fin de que recibiésemos la adopción de hijos. \bibverse{6} Y por cuanto sois hijos, Dios envió el Espíritu de su Hijo en vuestros corazones, el cual clama: Abba, Padre. ^[**4:6** Rom 8,15] \bibverse{7} Así que ya no eres más siervo, sino hijo; y si hijo, también heredero de Dios por Cristo. ^[**4:7** Rom 8,16-17] 
    
 
 ## La queja del apóstol acerca de la recaída incomprensible de los gálatas creyentes en la esclavitud de la ley y el formalismo reprensible; llamado personal a la iglesia para que se arrepienta
@@ -100,7 +106,7 @@
 \bibverse{31} De manera, hermanos, que no somos hijos de la sierva, mas de la libre. 
 
 # 5 
-\bibverse{1} ESTAD, pues, firmes en la libertad con que Cristo nos hizo libres, y no volváis otra vez á ser presos en el yugo de servidumbre. ^[**5:1** Gal 4,5; Hech 15,10] 
+\bibverse{1} Estad, pues, firmes en la libertad con que Cristo nos hizo libres, y no volváis otra vez á ser presos en el yugo de servidumbre. ^[**5:1** Gal 4,5; Hech 15,10] 
 
 
 \bibverse{2} He aquí yo Pablo os digo, que si os circuncidareis, Cristo no os aprovechará nada. \bibverse{3} Y otra vez vuelvo á protestar á todo hombre que se circuncidare, que está obligado á hacer toda la ley. \bibverse{4} Vacíos sois de Cristo los que por la ley os justificáis; de la gracia habéis caído. \bibverse{5} Porque nosotros por el Espíritu esperamos la esperanza de la justicia por la fe. \bibverse{6} Porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión; sino la fe que obra por la caridad. 
@@ -128,7 +134,7 @@
   
 
 # 6 
-\bibverse{1} HERMANOS, si alguno fuere tomado en alguna falta, vosotros que sois espirituales, restaurad al tal con el espíritu de mansedumbre; considerándote á ti mismo, porque tú no seas también tentado. ^[**6:1** Mat 18,15; Sant 5,19] \bibverse{2} Sobrellevad los unos las cargas de los otros; y cumplid así la ley de Cristo. ^[**6:2** 2Cor 11,29] \bibverse{3} Porque el que estima de sí que es algo, no siendo nada, á sí mismo se engaña. \bibverse{4} Así que cada uno examine su obra, y entonces tendrá gloria sólo respecto de sí mismo, y no en otro. \bibverse{5} Porque cada cual llevará su carga. ^[**6:5** Rom 14,12] 
+\bibverse{1} Hermanos, si alguno fuere tomado en alguna falta, vosotros que sois espirituales, restaurad al tal con el espíritu de mansedumbre; considerándote á ti mismo, porque tú no seas también tentado. ^[**6:1** Mat 18,15; Sant 5,19] \bibverse{2} Sobrellevad los unos las cargas de los otros; y cumplid así la ley de Cristo. ^[**6:2** 2Cor 11,29] \bibverse{3} Porque el que estima de sí que es algo, no siendo nada, á sí mismo se engaña. \bibverse{4} Así que cada uno examine su obra, y entonces tendrá gloria sólo respecto de sí mismo, y no en otro. \bibverse{5} Porque cada cual llevará su carga. ^[**6:5** Rom 14,12] 
   
 
 \bibverse{6} Y el que es enseñado en la palabra, comunique en todos los bienes al que lo instruye. ^[**6:6** 1Cor 9,14] 

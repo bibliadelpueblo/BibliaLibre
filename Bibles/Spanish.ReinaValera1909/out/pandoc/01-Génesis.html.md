@@ -1,6 +1,6 @@
 ## La creación del mundo
 # 1 
-<sup>1</sup> EN el principio crió Dios los cielos y la tierra. ^[**1:1** Hech 17,24; Apoc 4,11; Heb 11,3; Juan 1,1-3] <sup>2</sup> Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas. 
+<sup>1</sup> En el principio crió Dios los cielos y la tierra. ^[**1:1** Hech 17,24; Apoc 4,11; Heb 11,3; Juan 1,1-3] <sup>2</sup> Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas. 
 
 
 ## La creación de la luz
@@ -30,7 +30,7 @@
 
 ## El dia de reposo
 # 2 
-<sup>1</sup> Y FUERON acabados los cielos y la tierra, y todo su ornamento. <sup>2</sup> Y acabó Dios en el día séptimo su obra que hizo, y reposó el día séptimo de toda su obra que había hecho. <sup>3</sup> Y bendijo Dios al día séptimo, y santificólo, porque en él reposó de toda su obra que había Dios criado y hecho. ^[**2:3** Éxod 20,8-11] 
+<sup>1</sup> Y fueron acabados los cielos y la tierra, y todo su ornamento. <sup>2</sup> Y acabó Dios en el día séptimo su obra que hizo, y reposó el día séptimo de toda su obra que había hecho. <sup>3</sup> Y bendijo Dios al día séptimo, y santificólo, porque en él reposó de toda su obra que había Dios criado y hecho. ^[**2:3** Éxod 20,8-11] 
 
 
 ## La creacion del hombre y de la mujer en el paraíso
@@ -49,12 +49,12 @@
 <sup>18</sup> Y dijo Jehová Dios: No es bueno que el hombre esté solo; haréle ayuda idónea para él. ^[**2:18** Prov 31,10-31] <sup>19</sup> Formó, pues, Jehová Dios de la tierra toda bestia del campo, y toda ave de los cielos, y trájolas á Adam, para que viese cómo les había de llamar; y todo lo que Adam llamó á los animales vivientes, ese es su nombre. <sup>20</sup> Y puso Adam nombres á toda bestia y ave de los cielos y á todo animal del campo: mas para Adam no halló ayuda que estuviese idónea para él. 
 
 
-<sup>21</sup> Y Jehová Dios hizo caer sueño sobre Adam, y se quedó dormido: entonces tomó una de sus costillas, y cerró la carne en su lugar; <sup>22</sup> Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y trájola al hombre. <sup>23</sup> Y dijo Adam: Esto es ahora hueso de mis huesos, y carne de mi carne: ésta será llamada Varona, porque del varón fué tomada. <sup>24</sup> Por tanto, dejará el hombre á su padre y á su madre, y allegarse ha á su mujer, y serán una sola carne. ^[**2:24** Mat 19,5-6; Efes 5,28-31] 
-<sup>25</sup> Y estaban ambos desnudos, Adam y su mujer, y no se avergonzaban. 
+<sup>21</sup> Y Jehová Dios hizo caer sueño sobre Adam, y se quedó dormido: entonces tomó una de sus costillas, y cerró la carne en su lugar; <sup>22</sup> Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y trájola al hombre. <sup>23</sup> Y dijo Adam: Esto es ahora hueso de mis huesos, y carne de mi carne: ésta será llamada Varona, porque del varón fué tomada. <sup>24</sup> Por tanto, dejará el hombre á su padre y á su madre, y allegarse ha á su mujer, y serán una sola carne. ^[**2:24** Mat 19,5-6; Efes 5,28-31] <sup>25</sup> Y estaban ambos desnudos, Adam y su mujer, y no se avergonzaban. 
+
 
 ## La tentacion y la caída del hombre
 # 3 
-<sup>1</sup> EMPERO la serpiente era astuta, más que todos los animales del campo que Jehová Dios había hecho; la cual dijo á la mujer: ¿Conque Dios os ha dicho: No comáis de todo árbol del huerto? 
+<sup>1</sup> Empero la serpiente era astuta, más que todos los animales del campo que Jehová Dios había hecho; la cual dijo á la mujer: ¿Conque Dios os ha dicho: No comáis de todo árbol del huerto? 
 
 <sup>2</sup> Y la mujer respondió á la serpiente: Del fruto de los árboles del huerto comemos; ^[**3:2** Gén 2,16] <sup>3</sup> Mas del fruto del árbol que está en medio del huerto dijo Dios: No comeréis de él, ni le tocaréis, porque no muráis. ^[**3:3** Gén 2,17] 
  
@@ -97,7 +97,7 @@
 
 ## Caín y Abel
 # 4 
-<sup>1</sup> Y CONOCIÓ Adam á su mujer Eva, la cual concibió y parió á Caín, y dijo: Adquirido he varón por Jehová. <sup>2</sup> Y después parió á su hermano Abel. Y fué Abel pastor de ovejas, y Caín fué labrador de la tierra. <sup>3</sup> Y aconteció andando el tiempo, que Caín trajo del fruto de la tierra una ofrenda á Jehová. <sup>4</sup> Y Abel trajo también de los primogénitos de sus ovejas, y de su grosura. Y miró Jehová con agrado á Abel y á su ofrenda; <sup>5</sup> Mas no miró propicio á Caín y á la ofrenda suya. Y ensañóse Caín en gran manera, y decayó su semblante. <sup>6</sup> Entonces Jehová dijo á Caín: ¿Por qué te has ensañado, y por qué se ha inmutado tu rostro? <sup>7</sup> Si bien hicieres, ¿no serás ensalzado? y si no hicieres bien, el pecado está á la puerta: con todo esto, á ti será su deseo, y tú te enseñorearás de él. ^[**4:7** Gal 5,17; Rom 6,12] <sup>8</sup> Y habló Caín á su hermano Abel: y aconteció que estando ellos en el campo, Caín se levantó contra su hermano Abel, y le mató. ^[**4:8** 1Jn 3,12; 1Jn 1,3-15] 
+<sup>1</sup> Y conoció Adam á su mujer Eva, la cual concibió y parió á Caín, y dijo: Adquirido he varón por Jehová. <sup>2</sup> Y después parió á su hermano Abel. Y fué Abel pastor de ovejas, y Caín fué labrador de la tierra. <sup>3</sup> Y aconteció andando el tiempo, que Caín trajo del fruto de la tierra una ofrenda á Jehová. <sup>4</sup> Y Abel trajo también de los primogénitos de sus ovejas, y de su grosura. Y miró Jehová con agrado á Abel y á su ofrenda; <sup>5</sup> Mas no miró propicio á Caín y á la ofrenda suya. Y ensañóse Caín en gran manera, y decayó su semblante. <sup>6</sup> Entonces Jehová dijo á Caín: ¿Por qué te has ensañado, y por qué se ha inmutado tu rostro? <sup>7</sup> Si bien hicieres, ¿no serás ensalzado? y si no hicieres bien, el pecado está á la puerta: con todo esto, á ti será su deseo, y tú te enseñorearás de él. ^[**4:7** Gal 5,17; Rom 6,12] <sup>8</sup> Y habló Caín á su hermano Abel: y aconteció que estando ellos en el campo, Caín se levantó contra su hermano Abel, y le mató. ^[**4:8** 1Jn 3,12; 1Jn 1,3-15] 
  
 
 ## El castigo de Caín
@@ -121,7 +121,7 @@
 
 ## La descendiencia de Seth hasta Noé
 # 5 
-<sup>1</sup> ESTE es el libro de las generaciones de Adam. El día en que crió Dios al hombre, á la semejanza de Dios lo hizo; ^[**5:1** Gén 1,27; Luc 3,38] <sup>2</sup> Varón y hembra los crió; y los bendijo, y llamó el nombre de ellos Adam, el día en que fueron criados. <sup>3</sup> Y vivió Adam ciento y treinta años, y engendró un hijo á su semejanza, conforme á su imagen, y llamó su nombre Seth. <sup>4</sup> Y fueron los días de Adam, después que engendró á Seth, ochocientos años: y engendró hijos é hijas. <sup>5</sup> Y fueron todos los días que vivió Adam novecientos y treinta años, y murió. 
+<sup>1</sup> Este es el libro de las generaciones de Adam. El día en que crió Dios al hombre, á la semejanza de Dios lo hizo; ^[**5:1** Gén 1,27; Luc 3,38] <sup>2</sup> Varón y hembra los crió; y los bendijo, y llamó el nombre de ellos Adam, el día en que fueron criados. <sup>3</sup> Y vivió Adam ciento y treinta años, y engendró un hijo á su semejanza, conforme á su imagen, y llamó su nombre Seth. <sup>4</sup> Y fueron los días de Adam, después que engendró á Seth, ochocientos años: y engendró hijos é hijas. <sup>5</sup> Y fueron todos los días que vivió Adam novecientos y treinta años, y murió. 
 
 
 <sup>6</sup> Y vivió Seth ciento y cinco años, y engendró á Enós. <sup>7</sup> Y vivió Seth, después que engendró á Enós, ochocientos y siete años: y engendró hijos é hijas. <sup>8</sup> Y fueron todos los días de Seth novecientos y doce años; y murió. 
@@ -146,7 +146,7 @@
 
 ## Los matrimonios de los hijos de Dios con las hijas de los hombres
 # 6 
-<sup>1</sup> Y ACAECIÓ que, cuando comenzaron los hombres á multiplicarse sobre la faz de la tierra, y les nacieron hijas, <sup>2</sup> Viendo los hijos de Dios que las hijas de los hombres eran hermosas, tomáronse mujeres, escogiendo entre todas. <sup>3</sup> Y dijo Jehová: No contenderá mi espíritu con el hombre para siempre, porque ciertamente él es carne: mas serán sus días ciento y veinte años. ^[**6:3** 1Pe 3,20] <sup>4</sup> Había gigantes en la tierra en aquellos días, y también después que entraron los hijos de Dios á las hijas de los hombres, y les engendraron hijos: éstos fueron los valientes que desde la antigüedad fueron varones de nombre. 
+<sup>1</sup> Y acaeció que, cuando comenzaron los hombres á multiplicarse sobre la faz de la tierra, y les nacieron hijas, <sup>2</sup> Viendo los hijos de Dios que las hijas de los hombres eran hermosas, tomáronse mujeres, escogiendo entre todas. <sup>3</sup> Y dijo Jehová: No contenderá mi espíritu con el hombre para siempre, porque ciertamente él es carne: mas serán sus días ciento y veinte años. ^[**6:3** 1Pe 3,20] <sup>4</sup> Había gigantes en la tierra en aquellos días, y también después que entraron los hijos de Dios á las hijas de los hombres, y les engendraron hijos: éstos fueron los valientes que desde la antigüedad fueron varones de nombre. 
 
 
 ## La maldad de los hombres. Anuncio del diluvio
@@ -158,11 +158,13 @@
 
 
 <sup>13</sup> Y dijo Dios á Noé: El fin de toda carne ha venido delante de mí; porque la tierra está llena de violencia á causa de ellos; y he aquí que yo los destruiré con la tierra. ^[**6:13** Am 8,2] 
+
+
 <sup>14</sup> Hazte un arca de madera de Gopher: harás aposentos en el arca, y la embetunarás con brea por dentro y por fuera. <sup>15</sup> Y de esta manera la harás: de trescientos codos la longitud del arca, de cincuenta codos su anchura, y de treinta codos su altura. <sup>16</sup> Una ventana harás al arca, y la acabarás á un codo de elevación por la parte de arriba: y pondrás la puerta del arca á su lado; y le harás piso bajo, segundo y tercero. <sup>17</sup> Y yo, he aquí que yo traigo un diluvio de aguas sobre la tierra, para destruir toda carne en que haya espíritu de vida debajo del cielo; todo lo que hay en la tierra morirá. <sup>18</sup> Mas estableceré mi pacto contigo, y entrarás en el arca tú, y tus hijos y tu mujer, y las mujeres de tus hijos contigo. <sup>19</sup> Y de todo lo que vive, de toda carne, dos de cada especie meterás en el arca, para que tengan vida contigo; macho y hembra serán. <sup>20</sup> De las aves según su especie, y de las bestias según su especie, de todo reptil de la tierra según su especie, dos de cada especie entrarán contigo para que hayan vida. <sup>21</sup> Y toma contigo de toda vianda que se come, y allégala á ti; servirá de alimento para ti y para ellos. <sup>22</sup> E hízolo así Noé; hizo conforme á todo lo que Dios le mandó. 
 
 ## El diluvio. Noé entra la arca
 # 7 
-<sup>1</sup> Y JEHOVÁ dijo á Noé: Entra tú y toda tu casa en el arca; porque á ti he visto justo delante de mí en esta generación. <sup>2</sup> De todo animal limpio te tomarás de siete en siete, macho y su hembra; mas de los animales que no son limpios, dos, macho y su hembra. ^[**7:2** Gén 8,20; Lev 11,-1] <sup>3</sup> También de las aves de los cielos de siete en siete, macho y hembra; para guardar en vida la casta sobre la faz de toda la tierra. <sup>4</sup> Porque pasados aún siete días, yo haré llover sobre la tierra cuarenta días y cuarenta noches; y raeré toda sustancia que hice de sobre la faz de la tierra. 
+<sup>1</sup> Y jehová dijo á Noé: Entra tú y toda tu casa en el arca; porque á ti he visto justo delante de mí en esta generación. <sup>2</sup> De todo animal limpio te tomarás de siete en siete, macho y su hembra; mas de los animales que no son limpios, dos, macho y su hembra. ^[**7:2** Gén 8,20; Lev 11,-1] <sup>3</sup> También de las aves de los cielos de siete en siete, macho y hembra; para guardar en vida la casta sobre la faz de toda la tierra. <sup>4</sup> Porque pasados aún siete días, yo haré llover sobre la tierra cuarenta días y cuarenta noches; y raeré toda sustancia que hice de sobre la faz de la tierra. 
 
 
 <sup>5</sup> E hizo Noé conforme á todo lo que le mandó Jehová. 
@@ -180,7 +182,7 @@
 
 ## El fin del diluvio
 # 8 
-<sup>1</sup> Y ACORDÓSE Dios de Noé, y de todos los animales, y de todas las bestias que estaban con él en el arca; é hizo pasar Dios un viento sobre la tierra, y disminuyeron las aguas. <sup>2</sup> Y se cerraron las fuentes del abismo, y las cataratas de los cielos; y la lluvia de los cielos fué detenida. ^[**8:2** Gén 7,11-12] <sup>3</sup> Y tornáronse las aguas de sobre la tierra, yendo y volviendo: y decrecieron las aguas al cabo de ciento y cincuenta días. <sup>4</sup> Y reposó el arca en el mes séptimo, á diecisiete días del mes, sobre los montes de Armenia. <sup>5</sup> Y las aguas fueron decreciendo hasta el mes décimo: en el décimo, al primero del mes, se descubrieron las cimas de los montes. 
+<sup>1</sup> Y acordóse Dios de Noé, y de todos los animales, y de todas las bestias que estaban con él en el arca; é hizo pasar Dios un viento sobre la tierra, y disminuyeron las aguas. <sup>2</sup> Y se cerraron las fuentes del abismo, y las cataratas de los cielos; y la lluvia de los cielos fué detenida. ^[**8:2** Gén 7,11-12] <sup>3</sup> Y tornáronse las aguas de sobre la tierra, yendo y volviendo: y decrecieron las aguas al cabo de ciento y cincuenta días. <sup>4</sup> Y reposó el arca en el mes séptimo, á diecisiete días del mes, sobre los montes de Armenia. <sup>5</sup> Y las aguas fueron decreciendo hasta el mes décimo: en el décimo, al primero del mes, se descubrieron las cimas de los montes. 
 
 
 <sup>6</sup> Y sucedió que, al cabo de cuarenta días, abrió Noé la ventana del arca que había hecho, <sup>7</sup> Y envió al cuervo, el cual salió, y estuvo yendo y tornando hasta que las aguas se secaron de sobre la tierra. <sup>8</sup> Envió también de sí á la paloma, para ver si las aguas se habían retirado de sobre la faz de la tierra; <sup>9</sup> Y no halló la paloma donde sentar la planta de su pie, y volvióse á él al arca, porque las aguas estaban aún sobre la faz de toda la tierra: entonces él extendió su mano, y cogiéndola, hízola entrar consigo en el arca. <sup>10</sup> Y esperó aún otros siete días, y volvió á enviar la paloma fuera del arca. <sup>11</sup> Y la paloma volvió á él á la hora de la tarde; y he aquí que traía una hoja de oliva tomada en su pico: y entendió Noé que las aguas se habían retirado de sobre la tierra. <sup>12</sup> Y esperó aún otros siete días, y envió la paloma, la cual no volvió ya más á él. 
@@ -198,7 +200,7 @@
 
 ## Renovación de la bendición de la creación
 # 9 
-<sup>1</sup> Y BENDIJO Dios á Noé y á sus hijos, y díjoles: Fructificad, y multiplicad, y henchid la tierra: ^[**9:1** Gén 1,28] <sup>2</sup> Y vuestro temor y vuestro pavor será sobre todo animal de la tierra, y sobre toda ave de los cielos, en todo lo que se moverá en la tierra, y en todos los peces del mar: en vuestra mano son entregados. <sup>3</sup> Todo lo que se mueve y vive, os será para mantenimiento: así como las legumbres y hierbas, os lo he dado todo. <sup>4</sup> Empero carne con su vida, que es su sangre, no comeréis. ^[**9:4** Lev 3,17] <sup>5</sup> Porque ciertamente demandaré la sangre de vuestras vidas; de mano de todo animal la demandaré, y de mano del hombre; de mano del varón su hermano demandaré la vida del hombre. ^[**9:5** Éxod 21,28-29; Gén 4,11] <sup>6</sup> El que derramare sangre del hombre, por el hombre su sangre será derramada; porque á imagen de Dios es hecho el hombre. ^[**9:6** Éxod 21,12; Lev 24,17; Mat 26,52; Apoc 13,10; Gén 1,27] <sup>7</sup> Mas vosotros fructificad, y multiplicaos; procread abundantemente en la tierra, y multiplicaos en ella. 
+<sup>1</sup> Y bendijo Dios á Noé y á sus hijos, y díjoles: Fructificad, y multiplicad, y henchid la tierra: ^[**9:1** Gén 1,28] <sup>2</sup> Y vuestro temor y vuestro pavor será sobre todo animal de la tierra, y sobre toda ave de los cielos, en todo lo que se moverá en la tierra, y en todos los peces del mar: en vuestra mano son entregados. <sup>3</sup> Todo lo que se mueve y vive, os será para mantenimiento: así como las legumbres y hierbas, os lo he dado todo. <sup>4</sup> Empero carne con su vida, que es su sangre, no comeréis. ^[**9:4** Lev 3,17] <sup>5</sup> Porque ciertamente demandaré la sangre de vuestras vidas; de mano de todo animal la demandaré, y de mano del hombre; de mano del varón su hermano demandaré la vida del hombre. ^[**9:5** Éxod 21,28-29; Gén 4,11] <sup>6</sup> El que derramare sangre del hombre, por el hombre su sangre será derramada; porque á imagen de Dios es hecho el hombre. ^[**9:6** Éxod 21,12; Lev 24,17; Mat 26,52; Apoc 13,10; Gén 1,27] <sup>7</sup> Mas vosotros fructificad, y multiplicaos; procread abundantemente en la tierra, y multiplicaos en ella. 
    
 
 ## El pacto entro Dios y Noé y la creación
@@ -218,7 +220,7 @@
 
 ## Los descendientes de los hijos de Noé
 # 10 
-<sup>1</sup> ESTAS son las generaciones de los hijos de Noé: Sem, Châm y Japhet, á los cuales nacieron hijos después del diluvio. 
+<sup>1</sup> Estas son las generaciones de los hijos de Noé: Sem, Châm y Japhet, á los cuales nacieron hijos después del diluvio. 
 
 <sup>2</sup> Los hijos de Japhet: Gomer, y Magog, y Madai, y Javán, y Tubal, y Meshech, y Tiras. <sup>3</sup> Y los hijos de Gomer: Ashkenaz, y Riphat, y Togorma. <sup>4</sup> Y los hijos de Javán: Elisa, y Tarsis, Kittim, y Dodanim. <sup>5</sup> Por éstos fueron repartidas las islas de las gentes en sus tierras, cada cual según su lengua, conforme á sus familias en sus naciones. 
 
@@ -234,7 +236,7 @@
 
 ## La torre de Babel
 # 11 
-<sup>1</sup> ERA entonces toda la tierra de una lengua y unas mismas palabras. <sup>2</sup> Y aconteció que, como se partieron de oriente, hallaron una vega en la tierra de Shinar, y asentaron allí. <sup>3</sup> Y dijeron los unos á los otros: Vaya, hagamos ladrillo y cozámoslo con fuego. Y fuéles el ladrillo en lugar de piedra, y el betún en lugar de mezcla. <sup>4</sup> Y dijeron: Vamos, edifiquémonos una ciudad y una torre, cuya cúspide llegue al cielo; y hagámonos un nombre, por si fuéremos esparcidos sobre la faz de toda la tierra. 
+<sup>1</sup> Era entonces toda la tierra de una lengua y unas mismas palabras. <sup>2</sup> Y aconteció que, como se partieron de oriente, hallaron una vega en la tierra de Shinar, y asentaron allí. <sup>3</sup> Y dijeron los unos á los otros: Vaya, hagamos ladrillo y cozámoslo con fuego. Y fuéles el ladrillo en lugar de piedra, y el betún en lugar de mezcla. <sup>4</sup> Y dijeron: Vamos, edifiquémonos una ciudad y una torre, cuya cúspide llegue al cielo; y hagámonos un nombre, por si fuéremos esparcidos sobre la faz de toda la tierra. 
 
 <sup>5</sup> Y descendió Jehová para ver la ciudad y la torre que edificaban los hijos de los hombres. ^[**11:5** Gén 18,21; Sal 18,10; Sal 14,2] <sup>6</sup> Y dijo Jehová: He aquí el pueblo es uno, y todos éstos tienen un lenguaje: y han comenzado á obrar, y nada les retraerá ahora de lo que han pensando hacer. <sup>7</sup> Ahora pues, descendamos, y confundamos allí sus lenguas, para que ninguno entienda el habla de su compañero. <sup>8</sup> Así los esparció Jehová desde allí sobre la faz de toda la tierra, y dejaron de edificar la ciudad. <sup>9</sup> Por esto fué llamado el nombre de ella Babel, porque allí confundió Jehová el lenguaje de toda la tierra, y desde allí los esparció sobre la faz de toda la tierra. 
 
@@ -261,11 +263,13 @@
 
 ## Los descendientes de Thare
 <sup>27</sup> Estas son las generaciones de Thare: Thare engendró á Abram, y á Nachôr, y á Harán; y Harán engendró á Lot. <sup>28</sup> Y murió Harán antes que su padre Thare en la tierra de su naturaleza, en Ur de los Caldeos. <sup>29</sup> Y tomaron Abram y Nachôr para sí mujeres: el nombre de la mujer de Abram fué Sarai, y el nombre de la mujer de Nachôr, Milca, hija de Harán, padre de Milca y de Isca. <sup>30</sup> Mas Sarai fué estéril, y no tenía hijo. ^[**11:30** Jos 24,2; Neh 9,7] 
+
+
 <sup>31</sup> Y tomó Thare á Abram su hijo, y á Lot hijo de Harán, hijo de su hijo, y á Sarai su nuera, mujer de Abram su hijo: y salió con ellos de Ur de los Caldeos, para ir á la tierra de Canaán: y vinieron hasta Harán, y asentaron allí. <sup>32</sup> Y fueron los días de Thare doscientos y cinco años; y murió Thare en Harán. 
 
 ## El llamado de Abram
 # 12 
-<sup>1</sup> EMPERO Jehová había dicho á Abram: Vete de tu tierra y de tu parentela, y de la casa de tu padre, á la tierra que te mostraré; <sup>2</sup> Y haré de ti una nación grande, y bendecirte he, y engrandeceré tu nombre, y serás bendición: ^[**12:2** Gén 24,1; Gén 24,35; Sal 72,17] <sup>3</sup> Y bendeciré á los que te bendijeren, y á los que te maldijeren maldeciré: y serán benditas en ti todas las familias de la tierra. ^[**12:3** Éxod 23,22; Gén 18,18; Gén 22,18; Gén 26,4; Gén 28,14; Hech 3,25; Gal 3,8] 
+<sup>1</sup> Empero Jehová había dicho á Abram: Vete de tu tierra y de tu parentela, y de la casa de tu padre, á la tierra que te mostraré; <sup>2</sup> Y haré de ti una nación grande, y bendecirte he, y engrandeceré tu nombre, y serás bendición: ^[**12:2** Gén 24,1; Gén 24,35; Sal 72,17] <sup>3</sup> Y bendeciré á los que te bendijeren, y á los que te maldijeren maldeciré: y serán benditas en ti todas las familias de la tierra. ^[**12:3** Éxod 23,22; Gén 18,18; Gén 22,18; Gén 26,4; Gén 28,14; Hech 3,25; Gal 3,8] 
  
 
 ## La Inmigración de Abram a Canaán
@@ -287,7 +291,7 @@
 
 ## El regreso de Abram
 # 13 
-<sup>1</sup> SUBIÓ, pues, Abram de Egipto hacia el Mediodía, él, y su mujer, con todo lo que tenía, y con él Lot. <sup>2</sup> Y Abram era riquísimo en ganado, en plata y oro. ^[**13:2** Prov 10,22] <sup>3</sup> Y volvió por sus jornadas de la parte del Mediodía hacia Bethel, hasta el lugar donde había estado antes su tienda entre Bethel y Hai; <sup>4</sup> Al lugar del altar que había hecho allí antes: é invocó allí Abram el nombre de Jehová. 
+<sup>1</sup> Subió, pues, Abram de Egipto hacia el Mediodía, él, y su mujer, con todo lo que tenía, y con él Lot. <sup>2</sup> Y Abram era riquísimo en ganado, en plata y oro. ^[**13:2** Prov 10,22] <sup>3</sup> Y volvió por sus jornadas de la parte del Mediodía hacia Bethel, hasta el lugar donde había estado antes su tienda entre Bethel y Hai; <sup>4</sup> Al lugar del altar que había hecho allí antes: é invocó allí Abram el nombre de Jehová. 
 
 
 ## Abram se separa de Lot
@@ -306,7 +310,7 @@
 
 ## Guerra del rey Kedorlaomer en el valle del Jordan
 # 14 
-<sup>1</sup> Y ACONTECIÓ en los días de Amraphel, rey de Shinar, Arioch, rey de Elazar, Chêdorlaomer, rey de Elá, y Tidal, rey de naciones, <sup>2</sup> Que éstos hicieron guerra contra Bera, rey de Sodoma, y contra Birsha, rey de Gomorra, y contra Shinab, rey de Adma, y contra Shemeber, rey de Zeboim, y contra el rey de Bela, la cual es Zoar. <sup>3</sup> Todos estos se juntaron en el valle de Siddim, que es el mar salado. <sup>4</sup> Doce años habían servido á Chêdorlaomer, y al décimotercio año se rebelaron. <sup>5</sup> Y en el año décimocuarto vino Chêdorlaomer, y los reyes que estaban de su parte, y derrotaron á los Raphaitas en Ashteroth-carnaim, á los Zuzitas en Ham, y á los Emitas en Shave-Kiriataim. <sup>6</sup> Y á los Horeos en el monte de Seir, hasta la llanura de Parán, que está junto al desierto. <sup>7</sup> Y volvieron, y vinieron á Emmisphat, que es Cades, y devastaron todas las haciendas de los Amalecitas, y también al Amorrheo, que habitaba en Hazezón-tamar. <sup>8</sup> Y salió el rey de Sodoma, y el rey de Gomorra, y el rey de Adma, y el rey de Zeboim, y el rey de Bela, que es Zoar, y ordenaron contra ellos batalla en el valle de Siddim; <sup>9</sup> Es á saber, contra Chêdorlaomer, rey de Elam, y Tidal, rey de naciones, y Amraphel, rey de Shinar, y Arioch, rey de Elasar; cuatro reyes contra cinco. <sup>10</sup> Y el valle de Siddim estaba lleno de pozos de betún: y huyeron el rey de Sodoma y el de Gomorra, y cayeron allí; y los demás huyeron al monte. <sup>11</sup> Y tomaron toda la riqueza de Sodoma y de Gomorra, y todas sus vituallas, y se fueron. <sup>12</sup> Tomaron también á Lot, hijo del hermano de Abram, que moraba en Sodoma, y su hacienda, y se fueron. ^[**14:12** Gén 13,10-12] 
+<sup>1</sup> Y aconteció en los días de Amraphel, rey de Shinar, Arioch, rey de Elazar, Chêdorlaomer, rey de Elá, y Tidal, rey de naciones, <sup>2</sup> Que éstos hicieron guerra contra Bera, rey de Sodoma, y contra Birsha, rey de Gomorra, y contra Shinab, rey de Adma, y contra Shemeber, rey de Zeboim, y contra el rey de Bela, la cual es Zoar. <sup>3</sup> Todos estos se juntaron en el valle de Siddim, que es el mar salado. <sup>4</sup> Doce años habían servido á Chêdorlaomer, y al décimotercio año se rebelaron. <sup>5</sup> Y en el año décimocuarto vino Chêdorlaomer, y los reyes que estaban de su parte, y derrotaron á los Raphaitas en Ashteroth-carnaim, á los Zuzitas en Ham, y á los Emitas en Shave-Kiriataim. <sup>6</sup> Y á los Horeos en el monte de Seir, hasta la llanura de Parán, que está junto al desierto. <sup>7</sup> Y volvieron, y vinieron á Emmisphat, que es Cades, y devastaron todas las haciendas de los Amalecitas, y también al Amorrheo, que habitaba en Hazezón-tamar. <sup>8</sup> Y salió el rey de Sodoma, y el rey de Gomorra, y el rey de Adma, y el rey de Zeboim, y el rey de Bela, que es Zoar, y ordenaron contra ellos batalla en el valle de Siddim; <sup>9</sup> Es á saber, contra Chêdorlaomer, rey de Elam, y Tidal, rey de naciones, y Amraphel, rey de Shinar, y Arioch, rey de Elasar; cuatro reyes contra cinco. <sup>10</sup> Y el valle de Siddim estaba lleno de pozos de betún: y huyeron el rey de Sodoma y el de Gomorra, y cayeron allí; y los demás huyeron al monte. <sup>11</sup> Y tomaron toda la riqueza de Sodoma y de Gomorra, y todas sus vituallas, y se fueron. <sup>12</sup> Tomaron también á Lot, hijo del hermano de Abram, que moraba en Sodoma, y su hacienda, y se fueron. ^[**14:12** Gén 13,10-12] 
 
 
 ## Ayuda de Abram por Lot
@@ -322,7 +326,7 @@
 
 ## Dios promete a Abram un hijo
 # 15 
-<sup>1</sup> DESPUÉS de estas cosas fué la palabra de Jehová á Abram en visión, diciendo: No temas, Abram; yo soy tu escudo, y tu galardón sobremanera grande. ^[**15:1** Sal 3,4; Sal 84,12; Sal 119,114] 
+<sup>1</sup> Después de estas cosas fué la palabra de Jehová á Abram en visión, diciendo: No temas, Abram; yo soy tu escudo, y tu galardón sobremanera grande. ^[**15:1** Sal 3,4; Sal 84,12; Sal 119,114] 
 
 
 <sup>2</sup> Y respondió Abram: Señor Jehová ¿qué me has de dar, siendo así que ando sin hijo, y el mayordomo de mi casa es ese Damasceno Eliezer? <sup>3</sup> Dijo más Abram: Mira que no me has dado prole, y he aquí que es mi heredero uno nacido en mi casa. 
@@ -337,11 +341,13 @@
 <sup>9</sup> Y le dijo: Apártame una becerra de tres años, y una cabra de tres años, y un carnero de tres años, una tórtola también, y un palomino. <sup>10</sup> Y tomó él todas estas cosas, y partiólas por la mitad, y puso cada mitad una enfrente de otra; mas no partió las aves. <sup>11</sup> Y descendían aves sobre los cuerpos muertos, y ojeábalas Abram. 
 
 <sup>12</sup> Mas á la caída del sol sobrecogió el sueño á Abram, y he aquí que el pavor de una grande obscuridad cayó sobre él. ^[**15:12** Job 4,13-14] <sup>13</sup> Entonces dijo á Abram: Ten por cierto que tu simiente será peregrina en tierra no suya, y servirá á los de allí, y serán por ellos afligidos cuatrocientos años. ^[**15:13** Éxod 12,40; Hech 7,6] <sup>14</sup> Mas también á la gente á quien servirán, juzgaré yo; y después de esto saldrán con grande riqueza. ^[**15:14** Éxod 3,21-22] <sup>15</sup> Y tú vendrás á tus padres en paz, y serás sepultado en buena vejez. <sup>16</sup> Y en la cuarta generación volverán acá: porque aun no está cumplida la maldad del Amorrheo hasta aquí. <sup>17</sup> Y sucedió que puesto el sol, y ya obscurecido, dejóse ver un horno humeando, y una antorcha de fuego que pasó por entre los animales divididos. <sup>18</sup> En aquel día hizo Jehová un pacto con Abram diciendo: A tu simiente daré esta tierra desde el río de Egipto hasta el río grande, el río Eufrates; <sup>19</sup> Los Cineos, y los Ceneceos, y los Cedmoneos, ^[**15:19** Gén 10,15-18] <sup>20</sup> Y los Hetheos, y los Pherezeos, y los Raphaitas, ^[**15:20** Núm 13,33] 
-    <sup>21</sup> Y los Amorrheos, y los Cananeos, y los Gergeseos, y los Jebuseos. 
+    
+
+<sup>21</sup> Y los Amorrheos, y los Cananeos, y los Gergeseos, y los Jebuseos. 
 
 ## Sarai da a su sierva Agar como mujer á Abram
 # 16 
-<sup>1</sup> Y SARAI, mujer de Abram, no le paría: y ella tenía una sierva egipcia, que se llamaba Agar. <sup>2</sup> Dijo, pues, Sarai á Abram: Ya ves que Jehová me ha hecho estéril: ruégote que entres á mi sierva; quizá tendré hijos de ella. Y atendió Abram al dicho de Sarai. ^[**16:2** Gén 30,3; Gén 30,9; 1Cor 7,2] <sup>3</sup> Y Sarai, mujer de Abram, tomó á Agar su sierva egipcia, al cabo de diez años que había habitado Abram en la tierra de Canaán, y dióla á Abram su marido por mujer. <sup>4</sup> Y él cohabitó con Agar, la cual concibió: y cuando vió que había concebido, miraba con desprecio á su señora. <sup>5</sup> Entonces Sarai dijo á Abram: Mi afrenta sea sobre ti: yo puse mi sierva en tu seno, y viéndose embarazada, me mira con desprecio; juzgue Jehová entre mí y ti. 
+<sup>1</sup> Y sarai, mujer de Abram, no le paría: y ella tenía una sierva egipcia, que se llamaba Agar. <sup>2</sup> Dijo, pues, Sarai á Abram: Ya ves que Jehová me ha hecho estéril: ruégote que entres á mi sierva; quizá tendré hijos de ella. Y atendió Abram al dicho de Sarai. ^[**16:2** Gén 30,3; Gén 30,9; 1Cor 7,2] <sup>3</sup> Y Sarai, mujer de Abram, tomó á Agar su sierva egipcia, al cabo de diez años que había habitado Abram en la tierra de Canaán, y dióla á Abram su marido por mujer. <sup>4</sup> Y él cohabitó con Agar, la cual concibió: y cuando vió que había concebido, miraba con desprecio á su señora. <sup>5</sup> Entonces Sarai dijo á Abram: Mi afrenta sea sobre ti: yo puse mi sierva en tu seno, y viéndose embarazada, me mira con desprecio; juzgue Jehová entre mí y ti. 
 
 
 <sup>6</sup> Y respondió Abram á Sarai: He ahí tu sierva en tu mano, haz con ella lo que bien te pareciere. Y como Sarai la afligiese, huyóse de su presencia. 
@@ -358,7 +364,7 @@
 
 ## Dios confirme su pacto con Abram
 # 17 
-<sup>1</sup> Y SIENDO Abram de edad de noventa y nueve años, aparecióle Jehová, y le dijo: Yo soy el Dios Todopoderoso; anda delante de mí, y sé perfecto. ^[**17:1** Gén 35,11; Éxod 6,3; Gén 48,15] <sup>2</sup> Y pondré mi pacto entre mí y ti, y multiplicarte he mucho en gran manera. 
+<sup>1</sup> Y siendo Abram de edad de noventa y nueve años, aparecióle Jehová, y le dijo: Yo soy el Dios Todopoderoso; anda delante de mí, y sé perfecto. ^[**17:1** Gén 35,11; Éxod 6,3; Gén 48,15] <sup>2</sup> Y pondré mi pacto entre mí y ti, y multiplicarte he mucho en gran manera. 
 
 
 <sup>3</sup> Entonces Abram cayó sobre su rostro, y Dios habló con él diciendo: <sup>4</sup> Yo, he aquí mi pacto contigo: Serás padre de muchedumbre de gentes: <sup>5</sup> Y no se llamará más tu nombre Abram, sino que será tu nombre Abraham, porque te he puesto por padre de muchedumbre de gentes. <sup>6</sup> Y multiplicarte he mucho en gran manera, y te pondré en gentes, y reyes saldrán de ti. <sup>7</sup> Y estableceré mi pacto entre mí y ti, y tu simiente después de ti en sus generaciones, por alianza perpetua, para serte á ti por Dios, y á tu simiente después de ti. <sup>8</sup> Y te daré á ti, y á tu simiente después de ti, la tierra de tus peregrinaciones, toda la tierra de Canaán en heredad perpetua; y seré el Dios de ellos. ^[**17:8** Gén 23,4; Gén 35,27; Heb 11,9-16] 
@@ -383,7 +389,7 @@
 
 ## Dios visita a Abraham
 # 18 
-<sup>1</sup> Y APARECIÓLE Jehová en el valle de Mamre, estando él sentado á la puerta de su tienda en el calor del día. <sup>2</sup> Y alzó sus ojos y miró, y he aquí tres varones que estaban junto á él: y cuando los vió, salió corriendo de la puerta de su tienda á recibirlos, é inclinóse hacia la tierra, ^[**18:2** Heb 13,2] <sup>3</sup> Y dijo: Señor, si ahora he hallado gracia en tus ojos, ruégote que no pases de tu siervo. <sup>4</sup> Que se traiga ahora un poco de agua, y lavad vuestros pies; y recostaos debajo de un árbol, <sup>5</sup> Y traeré un bocado de pan, y sustentad vuestro corazón; después pasaréis: porque por eso habéis pasado cerca de vuestro siervo. Y ellos dijeron: Haz así como has dicho. 
+<sup>1</sup> Y aparecióle Jehová en el valle de Mamre, estando él sentado á la puerta de su tienda en el calor del día. <sup>2</sup> Y alzó sus ojos y miró, y he aquí tres varones que estaban junto á él: y cuando los vió, salió corriendo de la puerta de su tienda á recibirlos, é inclinóse hacia la tierra, ^[**18:2** Heb 13,2] <sup>3</sup> Y dijo: Señor, si ahora he hallado gracia en tus ojos, ruégote que no pases de tu siervo. <sup>4</sup> Que se traiga ahora un poco de agua, y lavad vuestros pies; y recostaos debajo de un árbol, <sup>5</sup> Y traeré un bocado de pan, y sustentad vuestro corazón; después pasaréis: porque por eso habéis pasado cerca de vuestro siervo. Y ellos dijeron: Haz así como has dicho. 
 
 
 <sup>6</sup> Entonces Abraham fué de priesa á la tienda á Sara, y le dijo: Toma presto tres medidas de flor de harina, amasa y haz panes cocidos debajo del rescoldo. <sup>7</sup> Y corrió Abraham á las vacas, y tomó un becerro tierno y bueno, y diólo al mozo, y dióse éste priesa á aderezarlo. <sup>8</sup> Tomó también manteca y leche, y el becerro que había aderezado, y púsolo delante de ellos; y él estaba junto á ellos debajo del árbol; y comieron. 
@@ -421,7 +427,7 @@
 
 ## La caída de Sodoma y Gomorrha
 # 19 
-<sup>1</sup> LLEGARON, pues, los dos ángeles á Sodoma á la caída de la tarde: y Lot estaba sentado á la puerta de Sodoma. Y viéndolos Lot, levantóse á recibirlos, é inclinóse hacia el suelo; ^[**19:1** Gén 18,22] <sup>2</sup> Y dijo: Ahora, pues, mis señores, os ruego que vengáis á casa de vuestro siervo y os hospedéis, y lavaréis vuestros pies: y por la mañana os levantaréis, y seguiréis vuestro camino. Y ellos respondieron: No, que en la plaza nos quedaremos esta noche. 
+<sup>1</sup> Llegaron, pues, los dos ángeles á Sodoma á la caída de la tarde: y Lot estaba sentado á la puerta de Sodoma. Y viéndolos Lot, levantóse á recibirlos, é inclinóse hacia el suelo; ^[**19:1** Gén 18,22] <sup>2</sup> Y dijo: Ahora, pues, mis señores, os ruego que vengáis á casa de vuestro siervo y os hospedéis, y lavaréis vuestros pies: y por la mañana os levantaréis, y seguiréis vuestro camino. Y ellos respondieron: No, que en la plaza nos quedaremos esta noche. 
 
 
 <sup>3</sup> Mas él porfió con ellos mucho, y se vinieron con él, y entraron en su casa; é hízoles banquete, y coció panes sin levadura, y comieron. <sup>4</sup> Y antes que se acostasen, cercaron la casa los hombres de la ciudad, los varones de Sodoma, todo el pueblo junto, desde el más joven hasta el más viejo; <sup>5</sup> Y llamaron á Lot, y le dijeron: ¿Dónde están los varones que vinieron á ti esta noche? sácanoslos, para que los conozcamos. 
@@ -456,7 +462,7 @@
 
 ## Abraham donde Abimelech en Gerar
 # 20 
-<sup>1</sup> DE allí partió Abraham á la tierra del Mediodía, y asentó entre Cades y Shur, y habitó como forastero en Gerar. ^[**20:1** Gén 12,9-10; Gén 26,1] <sup>2</sup> Y dijo Abraham de Sara su mujer: Mi hermana es. Y Abimelech, rey de Gerar, envió y tomó á Sara. <sup>3</sup> Empero Dios vino á Abimelech en sueños de noche, y le dijo: He aquí muerto eres á causa de la mujer que has tomado, la cual es casada con marido. 
+<sup>1</sup> De allí partió Abraham á la tierra del Mediodía, y asentó entre Cades y Shur, y habitó como forastero en Gerar. ^[**20:1** Gén 12,9-10; Gén 26,1] <sup>2</sup> Y dijo Abraham de Sara su mujer: Mi hermana es. Y Abimelech, rey de Gerar, envió y tomó á Sara. <sup>3</sup> Empero Dios vino á Abimelech en sueños de noche, y le dijo: He aquí muerto eres á causa de la mujer que has tomado, la cual es casada con marido. 
 
 
 <sup>4</sup> Mas Abimelech no había llegado á ella, y dijo: Señor, ¿matarás también la gente justa? <sup>5</sup> ¿No me dijo él: Mi hermana es; y ella también dijo: Es mi hermano? Con sencillez de mi corazón, y con limpieza de mis manos he hecho esto. 
@@ -474,7 +480,7 @@
 
 ## Nacimiento de Isaac
 # 21 
-<sup>1</sup> Y VISITÓ Jehová á Sara, como había dicho, é hizo Jehová con Sara como había hablado. <sup>2</sup> Y concibió y parió Sara á Abraham un hijo en su vejez, en el tiempo que Dios le había dicho. ^[**21:2** Heb 11,11] <sup>3</sup> Y llamó Abraham el nombre de su hijo que le nació, que le parió Sara, Isaac. ^[**21:3** Gén 17,19] <sup>4</sup> Y circuncidó Abraham á su hijo Isaac de ocho días, como Dios le había mandado. ^[**21:4** Gén 17,11-12] <sup>5</sup> Y era Abraham de cien años, cuando le nació Isaac su hijo. ^[**21:5** Gén 17,17; Rom 4,19] <sup>6</sup> Entonces dijo Sara: Dios me ha hecho reir, y cualquiera que lo oyere, se reirá conmigo. ^[**21:6** Gén 18,12] <sup>7</sup> Y añadió: ¿Quién dijera á Abraham que Sara había de dar de mamar á hijos? pues que le he parido un hijo á su vejez. <sup>8</sup> Y creció el niño, y fué destetado; é hizo Abraham gran banquete el día que fué destetado Isaac. 
+<sup>1</sup> Y visitó Jehová á Sara, como había dicho, é hizo Jehová con Sara como había hablado. <sup>2</sup> Y concibió y parió Sara á Abraham un hijo en su vejez, en el tiempo que Dios le había dicho. ^[**21:2** Heb 11,11] <sup>3</sup> Y llamó Abraham el nombre de su hijo que le nació, que le parió Sara, Isaac. ^[**21:3** Gén 17,19] <sup>4</sup> Y circuncidó Abraham á su hijo Isaac de ocho días, como Dios le había mandado. ^[**21:4** Gén 17,11-12] <sup>5</sup> Y era Abraham de cien años, cuando le nació Isaac su hijo. ^[**21:5** Gén 17,17; Rom 4,19] <sup>6</sup> Entonces dijo Sara: Dios me ha hecho reir, y cualquiera que lo oyere, se reirá conmigo. ^[**21:6** Gén 18,12] <sup>7</sup> Y añadió: ¿Quién dijera á Abraham que Sara había de dar de mamar á hijos? pues que le he parido un hijo á su vejez. <sup>8</sup> Y creció el niño, y fué destetado; é hizo Abraham gran banquete el día que fué destetado Isaac. 
     
 
 ## El repudio y la salvación de Ismael
@@ -499,11 +505,13 @@
 <sup>27</sup> Y tomó Abraham ovejas y vacas, y dió á Abimelech; é hicieron ambos alianza. <sup>28</sup> Y puso Abraham siete corderas del rebaño aparte. <sup>29</sup> Y dijo Abimelech á Abraham: ¿Qué significan esas siete corderas que has puesto aparte? 
 
 <sup>30</sup> Y él respondió: Que estas siete corderas tomarás de mi mano, para que me sean en testimonio de que yo cavé este pozo. <sup>31</sup> Por esto llamó á aquel lugar Beer-seba; porque allí juraron ambos. ^[**21:31** Gén 26,33] 
+
+
 <sup>32</sup> Así hicieron alianza en Beer-seba: y levantóse Abimelech, y Phicol, príncipe de su ejército, y se volvieron á tierra de los Filisteos. <sup>33</sup> Y plantó Abraham un bosque en Beer-seba, é invocó allí el nombre de Jehová Dios eterno. <sup>34</sup> Y moró Abraham en tierra de los Filisteos muchos días. 
 
 ## El orden de Dios para sacrificar Isaac
 # 22 
-<sup>1</sup> Y ACONTECIÓ después de estas cosas, que tentó Dios á Abraham, y le dijo: Abraham. Y él respondió: Heme aquí. ^[**22:1** Heb 11,17; Sant 1,12] 
+<sup>1</sup> Y aconteció después de estas cosas, que tentó Dios á Abraham, y le dijo: Abraham. Y él respondió: Heme aquí. ^[**22:1** Heb 11,17; Sant 1,12] 
 
 
 <sup>2</sup> Y dijo: Toma ahora tu hijo, tu único, Isaac, á quien amas, y vete á tierra de Moriah, y ofrécelo allí en holocausto sobre uno de los montes que yo te diré. ^[**22:2** 2Cró 3,1] 
@@ -530,11 +538,13 @@
 
 ## Los descendientes de Nahor, el hermano de Abraham
 <sup>20</sup> Y aconteció después de estas cosas, que fué dada nueva á Abraham, diciendo: He aquí que también Milca ha parido hijos á Nachôr tu hermano: <sup>21</sup> A Huz su primogénito, y á Buz su hermano, y á Kemuel padre de Aram, <sup>22</sup> Y á Chêsed, y á Hazo, y á Pildas, y á Jidlaph, y á Bethuel. <sup>23</sup> Y Bethuel engendró á Rebeca. Estos ocho parió Milca á Nachôr, hermano de Abraham. ^[**22:23** Gén 24,15] 
+
+
 <sup>24</sup> Y su concubina, que se llamaba Reúma, parió también á Teba, y á Gaham, y á Taas, y á Maachâ. 
 
 ## Muerte y sepultura de Sara
 # 23 
-<sup>1</sup> Y FUÉ la vida de Sara ciento veintisiete años: tantos fueron los años de la vida de Sara. <sup>2</sup> Y murió Sara en Kiriath-arba, que es Hebrón, en la tierra de Canaán: y vino Abraham á hacer el duelo á Sara, y á llorarla. <sup>3</sup> Y levantóse Abraham de delante de su muerto, y habló á los hijos de Heth, diciendo: <sup>4</sup> Peregrino y advenedizo soy entre vosotros; dadme heredad de sepultura con vosotros, y sepultaré mi muerto de delante de mí. 
+<sup>1</sup> Y fué la vida de Sara ciento veintisiete años: tantos fueron los años de la vida de Sara. <sup>2</sup> Y murió Sara en Kiriath-arba, que es Hebrón, en la tierra de Canaán: y vino Abraham á hacer el duelo á Sara, y á llorarla. <sup>3</sup> Y levantóse Abraham de delante de su muerto, y habló á los hijos de Heth, diciendo: <sup>4</sup> Peregrino y advenedizo soy entre vosotros; dadme heredad de sepultura con vosotros, y sepultaré mi muerto de delante de mí. 
 
 <sup>5</sup> Y respondieron los hijos de Heth á Abraham, y dijéronle: <sup>6</sup> Oyenos, señor mío, eres un príncipe de Dios entre nosotros; en lo mejor de nuestras sepulturas sepulta á tu muerto; ninguno de nosotros te impedirá su sepultura, para que entierres tu muerto. 
 
@@ -553,7 +563,7 @@
 
 ## Abraham envía a su criado para buscar una esposa por Isaac
 # 24 
-<sup>1</sup> Y ABRAHAM era viejo, y bien entrado en días; y Jehová había bendecido á Abraham en todo. ^[**24:1** Gén 12,2; Sal 112,2-3] <sup>2</sup> Y dijo Abraham á un criado suyo, el más viejo de su casa, que era el que gobernaba en todo lo que tenía: Pon ahora tu mano debajo de mi muslo, <sup>3</sup> Y te juramentaré por Jehová, Dios de los cielos y Dios de la tierra, que no has de tomar mujer para mi hijo de las hijas de los Cananeos, entre los cuales yo habito; ^[**24:3** Gén 28,1; Éxod 34,16] <sup>4</sup> Sino que irás á mi tierra y á mi parentela, y tomarás mujer para mi hijo Isaac. 
+<sup>1</sup> Y abraham era viejo, y bien entrado en días; y Jehová había bendecido á Abraham en todo. ^[**24:1** Gén 12,2; Sal 112,2-3] <sup>2</sup> Y dijo Abraham á un criado suyo, el más viejo de su casa, que era el que gobernaba en todo lo que tenía: Pon ahora tu mano debajo de mi muslo, <sup>3</sup> Y te juramentaré por Jehová, Dios de los cielos y Dios de la tierra, que no has de tomar mujer para mi hijo de las hijas de los Cananeos, entre los cuales yo habito; ^[**24:3** Gén 28,1; Éxod 34,16] <sup>4</sup> Sino que irás á mi tierra y á mi parentela, y tomarás mujer para mi hijo Isaac. 
  
 
 <sup>5</sup> Y el criado le respondió: Quizá la mujer no querrá venir en pos de mí á esta tierra: ¿volveré, pues, tu hijo á la tierra de donde saliste? 
@@ -608,7 +618,7 @@
 
 ## Segundo matrimonio de Abraham; su muerte y entierro
 # 25 
-<sup>1</sup> Y ABRAHAM tomó otra mujer, cuyo nombre fué Cetura; <sup>2</sup> La cual le parió á Zimram, y á Joksan, y á Medan, y á Midiam, y á Ishbak, y á Sua. <sup>3</sup> Y Joksan engendró á Seba, y á Dedán: é hijos de Dedán fueron Assurim, y Letusim, y Leummim. <sup>4</sup> E hijos de Midiam: Epha, y Epher, y Enech, y Abida, y Eldaa. Todos estos fueron hijos de Cetura. <sup>5</sup> Y Abraham dió todo cuanto tenía á Isaac. <sup>6</sup> Y á los hijos de sus concubinas dió Abraham dones, y enviólos de junto Isaac su hijo, mientras él vivía, hacia el oriente, á la tierra oriental. <sup>7</sup> Y estos fueron los días de vida que vivió Abraham: ciento setenta y cinco años. <sup>8</sup> Y exhaló el espíritu, y murió Abraham en buena vejez, anciano y lleno de días, y fué unido á su pueblo. ^[**25:8** Gén 15,15; Job 5,26] <sup>9</sup> Y sepultáronlo Isaac é Ismael sus hijos en la cueva de Macpela, en la heredad de Ephrón, hijo de Zoar Hetheo, que está enfrente de Mamre; <sup>10</sup> Heredad que compró Abraham de los hijos de Heth; allí fué Abraham sepultado, y Sara su mujer. <sup>11</sup> Y sucedió, después de muerto Abraham, que Dios bendijo á Isaac su hijo: y habitó Isaac junto al pozo del Viviente que me ve. ^[**25:11** Gén 24,62] 
+<sup>1</sup> Y abraham tomó otra mujer, cuyo nombre fué Cetura; <sup>2</sup> La cual le parió á Zimram, y á Joksan, y á Medan, y á Midiam, y á Ishbak, y á Sua. <sup>3</sup> Y Joksan engendró á Seba, y á Dedán: é hijos de Dedán fueron Assurim, y Letusim, y Leummim. <sup>4</sup> E hijos de Midiam: Epha, y Epher, y Enech, y Abida, y Eldaa. Todos estos fueron hijos de Cetura. <sup>5</sup> Y Abraham dió todo cuanto tenía á Isaac. <sup>6</sup> Y á los hijos de sus concubinas dió Abraham dones, y enviólos de junto Isaac su hijo, mientras él vivía, hacia el oriente, á la tierra oriental. <sup>7</sup> Y estos fueron los días de vida que vivió Abraham: ciento setenta y cinco años. <sup>8</sup> Y exhaló el espíritu, y murió Abraham en buena vejez, anciano y lleno de días, y fué unido á su pueblo. ^[**25:8** Gén 15,15; Job 5,26] <sup>9</sup> Y sepultáronlo Isaac é Ismael sus hijos en la cueva de Macpela, en la heredad de Ephrón, hijo de Zoar Hetheo, que está enfrente de Mamre; <sup>10</sup> Heredad que compró Abraham de los hijos de Heth; allí fué Abraham sepultado, y Sara su mujer. <sup>11</sup> Y sucedió, después de muerto Abraham, que Dios bendijo á Isaac su hijo: y habitó Isaac junto al pozo del Viviente que me ve. ^[**25:11** Gén 24,62] 
  
 
 ## Los descendientes de Ismael
@@ -636,7 +646,7 @@
 
 ## Isaac se muda a Gerar cuando hay hambre
 # 26 
-<sup>1</sup> Y HUBO hambre en la tierra, además de la primera hambre que fué en los días de Abraham: y fuése Isaac á Abimelech rey de los Filisteos, en Gerar. ^[**26:1** Gén 12,10; Gén 20,2] <sup>2</sup> Y apareciósele Jehová, y díjole: No desciendas á Egipto: habita en la tierra que yo te diré; <sup>3</sup> Habita en esta tierra, y seré contigo, y te bendeciré; porque á ti y á tu simiente daré todas estas tierras, y confirmaré el juramento que juré á Abraham tu padre: <sup>4</sup> Y multiplicaré tu simiente como las estrellas del cielo, y daré á tu simiente todas estas tierras; y todas las gentes de la tierra serán benditas en tu simiente: ^[**26:4** Gén 15,5; Gén 12,3] <sup>5</sup> Por cuanto oyó Abraham mi voz, y guardó mi precepto, mis mandamientos, mis estatutos y mis leyes. 
+<sup>1</sup> Y hubo hambre en la tierra, además de la primera hambre que fué en los días de Abraham: y fuése Isaac á Abimelech rey de los Filisteos, en Gerar. ^[**26:1** Gén 12,10; Gén 20,2] <sup>2</sup> Y apareciósele Jehová, y díjole: No desciendas á Egipto: habita en la tierra que yo te diré; <sup>3</sup> Habita en esta tierra, y seré contigo, y te bendeciré; porque á ti y á tu simiente daré todas estas tierras, y confirmaré el juramento que juré á Abraham tu padre: <sup>4</sup> Y multiplicaré tu simiente como las estrellas del cielo, y daré á tu simiente todas estas tierras; y todas las gentes de la tierra serán benditas en tu simiente: ^[**26:4** Gén 15,5; Gén 12,3] <sup>5</sup> Por cuanto oyó Abraham mi voz, y guardó mi precepto, mis mandamientos, mis estatutos y mis leyes. 
  
 
 <sup>6</sup> Habitó, pues, Isaac en Gerar. <sup>7</sup> Y los hombres de aquel lugar le preguntaron acerca de su mujer; y él respondió: Es mi hermana; porque tuvo miedo de decir: Es mi mujer; que tal vez, dijo, los hombres del lugar me matarían por causa de Rebeca; porque era de hermoso aspecto. <sup>8</sup> Y sucedió que, después que él estuvo allí muchos días, Abimelech, rey de los Filisteos, mirando por una ventana, vió á Isaac que jugaba con Rebeca su mujer. <sup>9</sup> Y llamó Abimelech á Isaac, y dijo: He aquí ella es de cierto tu mujer: ¿cómo, pues, dijiste: Es mi hermana? E Isaac le respondió: Porque dije: Quizá moriré por causa de ella. 
@@ -669,11 +679,13 @@
 
 ## Esaú se casa con dos mujeres hititas en contra de la voluntad de sus padres
 <sup>34</sup> Y cuando Esaú fué de cuarenta años, tomó por mujer á Judith hija de Beeri Hetheo, y á Basemat hija de Elón Hetheo: ^[**26:34** Gén 36,2-3] 
+
+
 <sup>35</sup> Y fueron amargura de espíritu á Isaac y á Rebeca. 
 
 ## Isaac se prepara para bendecir Esau
 # 27 
-<sup>1</sup> Y ACONTECIÓ que cuando hubo Isaac envejecido, y sus ojos se ofuscaron quedando sin vista, llamó á Esaú, su hijo el mayor, y díjole: Mi hijo. Y él respondió: Heme aquí. 
+<sup>1</sup> Y aconteció que cuando hubo Isaac envejecido, y sus ojos se ofuscaron quedando sin vista, llamó á Esaú, su hijo el mayor, y díjole: Mi hijo. Y él respondió: Heme aquí. 
 
 <sup>2</sup> Y él dijo: He aquí ya soy viejo, no sé el día de mi muerte: <sup>3</sup> Toma, pues, ahora tus armas, tu aljaba y tu arco, y sal al campo, y cógeme caza; <sup>4</sup> Y hazme un guisado, como yo gusto, y tráemelo, y comeré; para que te bendiga mi alma antes que muera. ^[**27:4** Heb 11,20] 
 
@@ -733,7 +745,7 @@
 
 ## Jacob huye a Padan-aram
 # 28 
-<sup>1</sup> ENTONCES Isaac llamó á Jacob, y bendíjolo, y mandóle diciendo: No tomes mujer de las hijas de Canaán. ^[**28:1** Gén 24,3] <sup>2</sup> Levántate, ve á Padan-aram, á casa de Bethuel, padre de tu madre, y toma allí mujer de las hijas de Labán, hermano de tu madre. ^[**28:2** Gén 22,23; Gén 24,29] <sup>3</sup> Y el Dios omnipotente te bendiga, y te haga fructificar, y te multiplique, hasta venir á ser congregación de pueblos; <sup>4</sup> Y te dé la bendición de Abraham, y á tu simiente contigo, para que heredes la tierra de tus peregrinaciones, que Dios dió á Abraham. ^[**28:4** Gén 12,2] 
+<sup>1</sup> Entonces Isaac llamó á Jacob, y bendíjolo, y mandóle diciendo: No tomes mujer de las hijas de Canaán. ^[**28:1** Gén 24,3] <sup>2</sup> Levántate, ve á Padan-aram, á casa de Bethuel, padre de tu madre, y toma allí mujer de las hijas de Labán, hermano de tu madre. ^[**28:2** Gén 22,23; Gén 24,29] <sup>3</sup> Y el Dios omnipotente te bendiga, y te haga fructificar, y te multiplique, hasta venir á ser congregación de pueblos; <sup>4</sup> Y te dé la bendición de Abraham, y á tu simiente contigo, para que heredes la tierra de tus peregrinaciones, que Dios dió á Abraham. ^[**28:4** Gén 12,2] 
   
 
 <sup>5</sup> Así envió Isaac á Jacob, el cual fué á Padan-aram, á Labán, hijo de Bethuel Arameo, hermano de Rebeca, madre de Jacob y de Esaú. 
@@ -749,11 +761,13 @@
 <sup>16</sup> Y despertó Jacob de su sueño, y dijo: Ciertamente Jehová está en este lugar, y yo no lo sabía. <sup>17</sup> Y tuvo miedo, y dijo: ¡Cuán terrible es este lugar! No es otra cosa que casa de Dios, y puerta del cielo. 
 
 <sup>18</sup> Y levantóse Jacob de mañana, y tomó la piedra que había puesto de cabecera, y alzóla por título, y derramó aceite encima de ella. <sup>19</sup> Y llamó el nombre de aquel lugar Beth-el, bien que Luz era el nombre de la ciudad primero. ^[**28:19** Gén 35,14-15] 
+
+
 <sup>20</sup> E hizo Jacob voto, diciendo: Si fuere Dios conmigo, y me guardare en este viaje que voy, y me diere pan para comer y vestido para vestir, <sup>21</sup> Y si tornare en paz á casa de mi padre, Jehová será mi Dios, <sup>22</sup> Y esta piedra que he puesto por título, será casa de Dios: y de todo lo que me dieres, el diezmo lo he de apartar para ti. 
 
 ## Jacob al pozo de Haran
 # 29 
-<sup>1</sup> Y SIGUIÓ Jacob su camino, y fué á la tierra de los orientales. <sup>2</sup> Y miró, y vió un pozo en el campo: y he aquí tres rebaños de ovejas que yacían cerca de él; porque de aquel pozo abrevaban los ganados: y había una gran piedra sobre la boca del pozo. <sup>3</sup> Y juntábanse allí todos los rebaños; y revolvían la piedra de sobre la boca del pozo, y abrevaban las ovejas; y volvían la piedra sobre la boca del pozo á su lugar. <sup>4</sup> Y díjoles Jacob: Hermanos míos, ¿de dónde sois? Y ellos respondieron: De Harán somos. 
+<sup>1</sup> Y siguió Jacob su camino, y fué á la tierra de los orientales. <sup>2</sup> Y miró, y vió un pozo en el campo: y he aquí tres rebaños de ovejas que yacían cerca de él; porque de aquel pozo abrevaban los ganados: y había una gran piedra sobre la boca del pozo. <sup>3</sup> Y juntábanse allí todos los rebaños; y revolvían la piedra de sobre la boca del pozo, y abrevaban las ovejas; y volvían la piedra sobre la boca del pozo á su lugar. <sup>4</sup> Y díjoles Jacob: Hermanos míos, ¿de dónde sois? Y ellos respondieron: De Harán somos. 
 
 <sup>5</sup> Y él les dijo: ¿Conocéis á Labán, hijo de Nachôr? Y ellos dijeron: Sí, le conocemos. 
 
@@ -791,7 +805,7 @@
 
 ## Los dos hijos de Bilha, la sierva de Rachêl
 # 30 
-<sup>1</sup> Y VIENDO Rachêl que no daba hijos á Jacob, tuvo envidia de su hermana, y decía á Jacob: Dame hijos, ó si no, me muero. 
+<sup>1</sup> Y viendo Rachêl que no daba hijos á Jacob, tuvo envidia de su hermana, y decía á Jacob: Dame hijos, ó si no, me muero. 
 
 <sup>2</sup> Y Jacob se enojaba contra Rachêl, y decía: ¿Soy yo en lugar de Dios, que te impidió el fruto de tu vientre? 
 
@@ -837,7 +851,7 @@
 
 ## Las razones de la fuga de Jacob
 # 31 
-<sup>1</sup> Y OÍA él las palabras de los hijos de Labán, que decían: Jacob ha tomado todo lo que era de nuestro padre; y de lo que era de nuestro padre ha adquirido toda esta grandeza. ^[**31:1** Gén 30,35] <sup>2</sup> Miraba también Jacob el semblante de Labán, y veía que no era para con él como ayer y antes de ayer. <sup>3</sup> También Jehová dijo á Jacob: Vuélvete á la tierra de tus padres, y á tu parentela; que yo seré contigo. ^[**31:3** Gén 28,15] 
+<sup>1</sup> Y oía él las palabras de los hijos de Labán, que decían: Jacob ha tomado todo lo que era de nuestro padre; y de lo que era de nuestro padre ha adquirido toda esta grandeza. ^[**31:1** Gén 30,35] <sup>2</sup> Miraba también Jacob el semblante de Labán, y veía que no era para con él como ayer y antes de ayer. <sup>3</sup> También Jehová dijo á Jacob: Vuélvete á la tierra de tus padres, y á tu parentela; que yo seré contigo. ^[**31:3** Gén 28,15] 
  
 
 ## La consulta de Jacob con sus esposas
@@ -872,11 +886,13 @@
 <sup>43</sup> Y respondió Labán, y dijo á Jacob: Las hijas son hijas mías, y los hijos, hijos míos son, y las ovejas son mis ovejas, y todo lo que tú ves es mío: ¿y qué puedo yo hacer hoy á estas mis hijas, ó á sus hijos que ellas han parido? <sup>44</sup> Ven pues ahora, y hagamos alianza yo y tú; y sea en testimonio entre mí y entre ti. 
 
 <sup>45</sup> Entonces Jacob tomó una piedra, y levantóla por título. <sup>46</sup> Y dijo Jacob á sus hermanos: Coged piedras. Y tomaron piedras é hicieron un majano; y comieron allí sobre aquel majano. <sup>47</sup> Y llamólo Labán Jegar Sahadutha: y lo llamó Jacob Galaad. <sup>48</sup> Porque Labán dijo: Este majano es testigo hoy entre mí y entre ti; por eso fué llamado su nombre Galaad; ^[**31:48** Jos 22,27; Jos 24,27] <sup>49</sup> Y Mizpa, por cuanto dijo: Atalaye Jehová entre mí y entre ti, cuando nos apartáremos el uno del otro. <sup>50</sup> Si afligieres mis hijas, ó si tomares otras mujeres además de mis hijas, nadie está con nosotros; mira, Dios es testigo entre mí y entre ti. <sup>51</sup> Dijo más Labán á Jacob: He aquí este majano, y he aquí este título, que he erigido entre mí y ti. <sup>52</sup> Testigo sea este majano, y testigo sea este título, que ni yo pasaré contra ti este majano, ni tú pasarás contra mí este majano ni este título, para mal. <sup>53</sup> El Dios de Abraham, y el Dios de Nachôr juzgue entre nosotros, el Dios de sus padres. Y Jacob juró por el temor de Isaac su padre. <sup>54</sup> Entonces Jacob inmoló víctimas en el monte, y llamó á sus hermanos á comer pan: y comieron pan, y durmieron aquella noche en el monte. ^[**31:54** Gén 31,42] 
- <sup>55</sup> Y levantóse Labán de mañana, y besó sus hijos y sus hijas, y los bendijo; y retrocedió y volvióse á su lugar. 
+ 
+
+<sup>55</sup> Y levantóse Labán de mañana, y besó sus hijos y sus hijas, y los bendijo; y retrocedió y volvióse á su lugar. 
 
 ## Jacob envía mensajeros a Esaú
 # 32 
-<sup>1</sup> Y JACOB se fué su camino, y saliéronle al encuentro ángeles de Dios. <sup>2</sup> Y dijo Jacob cuando los vió: El campo de Dios es este: y llamó el nombre de aquel lugar Mahanaim. 
+<sup>1</sup> Y jacob se fué su camino, y saliéronle al encuentro ángeles de Dios. <sup>2</sup> Y dijo Jacob cuando los vió: El campo de Dios es este: y llamó el nombre de aquel lugar Mahanaim. 
 
 <sup>3</sup> Y envió Jacob mensajeros delante de sí á Esaú su hermano, á la tierra de Seir, campo de Edom. <sup>4</sup> Y mandóles diciendo: Así diréis á mi señor Esaú: Así dice tu siervo Jacob: Con Labán he morado, y detenídome hasta ahora; ^[**32:4** Gén 36,8] <sup>5</sup> Y tengo vacas, y asnos, y ovejas, y siervos y siervas; y envío á decirlo á mi señor, por hallar gracia en tus ojos. <sup>6</sup> Y los mensajeros volvieron á Jacob, diciendo: Vinimos á tu hermano Esaú, y él también viene á recibirte, y cuatrocientos hombres con él. <sup>7</sup> Entonces Jacob tuvo gran temor, y angustióse; y partió el pueblo que tenía consigo, y las ovejas y las vacas y los camellos, en dos cuadrillas; <sup>8</sup> Y dijo: Si viniere Esaú á la una cuadrilla y la hiriere, la otra cuadrilla escapará. 
 
@@ -902,11 +918,13 @@
 
 
 <sup>30</sup> Y llamó Jacob el nombre de aquel lugar, Peniel: porque vi á Dios cara á cara, y fué librada mi alma. ^[**32:30** Jue 13,17-18] <sup>31</sup> Y salióle el sol pasado que hubo á Peniel; y cojeaba de su anca. ^[**32:31** Éxod 33,20] 
- <sup>32</sup> Por esto no comen los hijos de Israel, hasta hoy día, del tendón que se contrajo, el cual está en el encaje del muslo: porque tocó á Jacob este sitio de su muslo en el tendón que se contrajo. 
+ 
+
+<sup>32</sup> Por esto no comen los hijos de Israel, hasta hoy día, del tendón que se contrajo, el cual está en el encaje del muslo: porque tocó á Jacob este sitio de su muslo en el tendón que se contrajo. 
 
 ## La reconciliación de Jacob con Esaú
 # 33 
-<sup>1</sup> Y ALZANDO Jacob sus ojos miró, y he aquí venía Esaú, y los cuatrocientos hombres con él: entonces repartió él los niños entre Lea y Rachêl y las dos siervas. <sup>2</sup> Y puso las siervas y sus niños delante; luego á Lea y á sus niños; y á Rachêl y á José los postreros. <sup>3</sup> Y él pasó delante de ellos, é inclinóse á tierra siete veces, hasta que llegó á su hermano. 
+<sup>1</sup> Y alzando Jacob sus ojos miró, y he aquí venía Esaú, y los cuatrocientos hombres con él: entonces repartió él los niños entre Lea y Rachêl y las dos siervas. <sup>2</sup> Y puso las siervas y sus niños delante; luego á Lea y á sus niños; y á Rachêl y á José los postreros. <sup>3</sup> Y él pasó delante de ellos, é inclinóse á tierra siete veces, hasta que llegó á su hermano. 
 
 <sup>4</sup> Y Esaú corrió á su encuentro, y abrazóle, y echóse sobre su cuello, y le besó; y lloraron. <sup>5</sup> Y alzó sus ojos, y vió las mujeres y los niños, y dijo: ¿Qué te tocan éstos? Y él respondió: Son los niños que Dios ha dado á tu siervo. ^[**33:5** Sal 127,3] 
 
@@ -937,7 +955,7 @@
 
 ## La ofensa de Sichêm contra Dina
 # 34 
-<sup>1</sup> Y SALIÓ Dina la hija de Lea, la cual había ésta parido á Jacob, á ver las hijas del país. ^[**34:1** Gén 30,21] <sup>2</sup> Y vióla Sichêm, hijo de Hamor Heveo, príncipe de aquella tierra, y tomóla, y echóse con ella, y la deshonró. <sup>3</sup> Mas su alma se apegó á Dina la hija de Lea, y enamoróse de la moza, y habló al corazón de la joven. <sup>4</sup> Y habló Sichêm á Hamor su padre, diciendo: Tómame por mujer esta moza. 
+<sup>1</sup> Y salió Dina la hija de Lea, la cual había ésta parido á Jacob, á ver las hijas del país. ^[**34:1** Gén 30,21] <sup>2</sup> Y vióla Sichêm, hijo de Hamor Heveo, príncipe de aquella tierra, y tomóla, y echóse con ella, y la deshonró. <sup>3</sup> Mas su alma se apegó á Dina la hija de Lea, y enamoróse de la moza, y habló al corazón de la joven. <sup>4</sup> Y habló Sichêm á Hamor su padre, diciendo: Tómame por mujer esta moza. 
 
 
 <sup>5</sup> Y oyó Jacob que había Sichêm amancillado á Dina su hija: y estando sus hijos con su ganado en el campo, calló Jacob hasta que ellos viniesen. 
@@ -966,7 +984,7 @@
 
 ## Por amonestación de Dios, Jacob parte de Siquem
 # 35 
-<sup>1</sup> Y DIJO Dios á Jacob: Levántate, sube á Beth-el, y estáte allí; y haz allí un altar al Dios que te apareció cuando huías de tu hermano Esaú. 
+<sup>1</sup> Y dijo Dios á Jacob: Levántate, sube á Beth-el, y estáte allí; y haz allí un altar al Dios que te apareció cuando huías de tu hermano Esaú. 
 
 <sup>2</sup> Entonces Jacob dijo á su familia y á todos los que con él estaban: Quitad los dioses ajenos que hay entre vosotros, y limpiaos, y mudad vuestros vestidos. ^[**35:2** Gén 31,19; Jos 24,23; 1Sam 7,3] <sup>3</sup> Y levantémonos, y subamos á Beth-el; y haré allí altar al Dios que me respondió en el día de mi angustia, y ha sido conmigo en el camino que he andado. ^[**35:3** Gén 28,15; Gén 28,20-22] 
  
@@ -1000,7 +1018,7 @@
 
 ## La familia y la residencia de Esaú
 # 36 
-<sup>1</sup> Y ESTAS son las generaciones de Esaú, el cual es Edom. ^[**36:1** Gén 25,30] <sup>2</sup> Esaú tomó sus mujeres de las hijas de Canaán: á Ada, hija de Elón Hetheo, y á Aholibama, hija de Ana, hija de Zibeón el Heveo; ^[**36:2** Gén 26,34] <sup>3</sup> Y á Basemath, hija de Ismael, hermana de Navaioth. ^[**36:3** Gén 28,9] <sup>4</sup> Y Ada parió á Esaú á Eliphaz; y Basemath parió á Reuel. <sup>5</sup> Y Aholibama parió á Jeús, y á Jaalam, y á Cora: estos son los hijos de Esaú, que le nacieron en la tierra de Canaán. <sup>6</sup> Y Esaú tomó sus mujeres, y sus hijos, y sus hijas, y todas las personas de su casa, y sus ganados, y todas sus bestias, y toda su hacienda que había adquirido en la tierra de Canaán, y fuése á otra tierra de delante de Jacob su hermano: <sup>7</sup> Porque la hacienda de ellos era grande, y no podían habitar juntos, ni la tierra de su peregrinación los podía sostener á causa de sus ganados. <sup>8</sup> Y Esaú habitó en el monte de Seir: Esaú es Edom. 
+<sup>1</sup> Y estas son las generaciones de Esaú, el cual es Edom. ^[**36:1** Gén 25,30] <sup>2</sup> Esaú tomó sus mujeres de las hijas de Canaán: á Ada, hija de Elón Hetheo, y á Aholibama, hija de Ana, hija de Zibeón el Heveo; ^[**36:2** Gén 26,34] <sup>3</sup> Y á Basemath, hija de Ismael, hermana de Navaioth. ^[**36:3** Gén 28,9] <sup>4</sup> Y Ada parió á Esaú á Eliphaz; y Basemath parió á Reuel. <sup>5</sup> Y Aholibama parió á Jeús, y á Jaalam, y á Cora: estos son los hijos de Esaú, que le nacieron en la tierra de Canaán. <sup>6</sup> Y Esaú tomó sus mujeres, y sus hijos, y sus hijas, y todas las personas de su casa, y sus ganados, y todas sus bestias, y toda su hacienda que había adquirido en la tierra de Canaán, y fuése á otra tierra de delante de Jacob su hermano: <sup>7</sup> Porque la hacienda de ellos era grande, y no podían habitar juntos, ni la tierra de su peregrinación los podía sostener á causa de sus ganados. <sup>8</sup> Y Esaú habitó en el monte de Seir: Esaú es Edom. 
   
 
 ## Los hijos y nietos de Esaú como progenitores
@@ -1021,7 +1039,7 @@
 
 ## Los inicios de la enemistad de los hermanos contra José
 # 37 
-<sup>1</sup> Y HABITÓ Jacob en la tierra donde peregrinó su padre, en la tierra de Canaán. <sup>2</sup> Estas fueron las generaciones de Jacob. José, siendo de edad de diez y siete años apacentaba las ovejas con sus hermanos; y el joven estaba con los hijos de Bilha, y con los hijos de Zilpa, mujeres de su padre: y noticiaba José á su padre la mala fama de ellos. <sup>3</sup> Y amaba Israel á José más que á todos sus hijos, porque le había tenido en su vejez: y le hizo una ropa de diversos colores. <sup>4</sup> Y viendo sus hermanos que su padre lo amaba más que á todos sus hermanos, aborrecíanle, y no le podían hablar pacíficamente. 
+<sup>1</sup> Y habitó Jacob en la tierra donde peregrinó su padre, en la tierra de Canaán. <sup>2</sup> Estas fueron las generaciones de Jacob. José, siendo de edad de diez y siete años apacentaba las ovejas con sus hermanos; y el joven estaba con los hijos de Bilha, y con los hijos de Zilpa, mujeres de su padre: y noticiaba José á su padre la mala fama de ellos. <sup>3</sup> Y amaba Israel á José más que á todos sus hijos, porque le había tenido en su vejez: y le hizo una ropa de diversos colores. <sup>4</sup> Y viendo sus hermanos que su padre lo amaba más que á todos sus hermanos, aborrecíanle, y no le podían hablar pacíficamente. 
 
 ## Los sueños de José
 <sup>5</sup> Y soñó José un sueño, y contólo á sus hermanos; y ellos vinieron á aborrecerle más todavía. <sup>6</sup> Y él les dijo: Oíd ahora este sueño que he soñado: <sup>7</sup> He aquí que atábamos manojos en medio del campo, y he aquí que mi manojo se levantaba, y estaba derecho, y que vuestros manojos estaban alrededor, y se inclinaban al mío. 
@@ -1055,11 +1073,13 @@
 
 ## El dolor de Jacob; José vendido a Potifar en Egipto
 <sup>33</sup> Y él la conoció, y dijo: La ropa de mi hijo es; alguna mala bestia le devoró; José ha sido despedazado. ^[**37:33** Gén 37,20] <sup>34</sup> Entonces Jacob rasgó sus vestidos, y puso saco sobre sus lomos, y enlutóse por su hijo muchos días. ^[**37:34** Gén 37,29] 
- <sup>35</sup> Y levantáronse todos sus hijos y todas sus hijas para consolarlo; mas él no quiso tomar consolación, y dijo: Porque yo tengo de descender á mi hijo enlutado hasta la sepultura. Y llorólo su padre. <sup>36</sup> Y los Midianitas lo vendieron en Egipto á Potiphar, eunuco de Faraón, capitán de los de la guardia. 
+ 
+
+<sup>35</sup> Y levantáronse todos sus hijos y todas sus hijas para consolarlo; mas él no quiso tomar consolación, y dijo: Porque yo tengo de descender á mi hijo enlutado hasta la sepultura. Y llorólo su padre. <sup>36</sup> Y los Midianitas lo vendieron en Egipto á Potiphar, eunuco de Faraón, capitán de los de la guardia. 
 
 ## Los hijos de Juda y Thamar
 # 38 
-<sup>1</sup> Y ACONTECIÓ en aquel tiempo, que Judá descendió de con sus hermanos, y fuése á un varón Adullamita, que se llamaba Hira. <sup>2</sup> Y vió allí Judá la hija de un hombre Cananeo, el cual se llamaba Súa; y tomóla, y entró á ella: <sup>3</sup> La cual concibió, y parió un hijo; y llamó su nombre Er. <sup>4</sup> Y concibió otra vez, y parió un hijo, y llamó su nombre Onán. <sup>5</sup> Y volvió á concebir, y parió un hijo, y llamó su nombre Sela. Y estaba en Chezib cuando lo parió. <sup>6</sup> Y Judá tomó mujer para su primogénito Er, la cual se llamaba Thamar. <sup>7</sup> Y Er, el primogénito de Judá, fué malo á los ojos de Jehová, y quitóle Jehová la vida. <sup>8</sup> Entonces Judá dijo á Onán: Entra á la mujer de tu hermano, y despósate con ella, y suscita simiente á tu hermano. ^[**38:8** Deut 25,5] <sup>9</sup> Y sabiendo Onán que la simiente no había de ser suya, sucedía que cuando entraba á la mujer de su hermano vertía en tierra, por no dar simiente á su hermano. <sup>10</sup> Y desagradó en ojos de Jehová lo que hacía, y también quitó á él la vida. <sup>11</sup> Y Judá dijo á Thamar su nuera: Estáte viuda en casa de tu padre, hasta que crezca Sela mi hijo; porque dijo: Que quizá no muera él también como sus hermanos. Y fuése Thamar, y estúvose en casa de su padre. 
+<sup>1</sup> Y aconteció en aquel tiempo, que Judá descendió de con sus hermanos, y fuése á un varón Adullamita, que se llamaba Hira. <sup>2</sup> Y vió allí Judá la hija de un hombre Cananeo, el cual se llamaba Súa; y tomóla, y entró á ella: <sup>3</sup> La cual concibió, y parió un hijo; y llamó su nombre Er. <sup>4</sup> Y concibió otra vez, y parió un hijo, y llamó su nombre Onán. <sup>5</sup> Y volvió á concebir, y parió un hijo, y llamó su nombre Sela. Y estaba en Chezib cuando lo parió. <sup>6</sup> Y Judá tomó mujer para su primogénito Er, la cual se llamaba Thamar. <sup>7</sup> Y Er, el primogénito de Judá, fué malo á los ojos de Jehová, y quitóle Jehová la vida. <sup>8</sup> Entonces Judá dijo á Onán: Entra á la mujer de tu hermano, y despósate con ella, y suscita simiente á tu hermano. ^[**38:8** Deut 25,5] <sup>9</sup> Y sabiendo Onán que la simiente no había de ser suya, sucedía que cuando entraba á la mujer de su hermano vertía en tierra, por no dar simiente á su hermano. <sup>10</sup> Y desagradó en ojos de Jehová lo que hacía, y también quitó á él la vida. <sup>11</sup> Y Judá dijo á Thamar su nuera: Estáte viuda en casa de tu padre, hasta que crezca Sela mi hijo; porque dijo: Que quizá no muera él también como sus hermanos. Y fuése Thamar, y estúvose en casa de su padre. 
 
 
 ## Thamar usa astucia para obtener descendencia de su suegro Judah
@@ -1082,11 +1102,13 @@
 
 ## Thamar da a luz a los gemelos Pérez y Serah
 <sup>27</sup> Y aconteció que al tiempo del parir, he aquí había dos en su vientre. <sup>28</sup> Y sucedió, cuando paría, que sacó la mano el uno, y la partera tomó y ató á su mano un hilo de grana, diciendo: Este salió primero. <sup>29</sup> Empero fué que tornando él á meter la mano, he aquí su hermano salió; y ella dijo: ¿Por qué has hecho sobre ti rotura? Y llamó su nombre Phares. ^[**38:29** Mat 1,3] 
+
+
 <sup>30</sup> Y después salió su hermano, el que tenía en su mano el hilo de grana, y llamó su nombre Zara. 
 
 ## José en la casa de Potifar
 # 39 
-<sup>1</sup> Y LLEVADO José á Egipto, comprólo Potiphar, eunuco de Faraón, capitán de los de la guardia, varón Egipcio, de mano de los Ismaelitas que lo habían llevado allá. <sup>2</sup> Mas Jehová fué con José, y fué varón prosperado: y estaba en la casa de su señor el Egipcio. <sup>3</sup> Y vió su señor que Jehová era con él, y que todo lo que él hacía, Jehová lo hacía prosperar en su mano. <sup>4</sup> Así halló José gracia en sus ojos, y servíale; y él le hizo mayordomo de su casa, y entregó en su poder todo lo que tenía. <sup>5</sup> Y aconteció que, desde cuando le dió el encargo de su casa, y de todo lo que tenía, Jehová bendijo la casa del Egipcio á causa de José; y la bendición de Jehová fué sobre todo lo que tenía, así en casa como en el campo. ^[**39:5** Gén 30,27] <sup>6</sup> Y dejó todo lo que tenía en mano de José; ni con él sabía de nada más que del pan que comía. Y era José de hermoso semblante y bella presencia. 
+<sup>1</sup> Y llevado José á Egipto, comprólo Potiphar, eunuco de Faraón, capitán de los de la guardia, varón Egipcio, de mano de los Ismaelitas que lo habían llevado allá. <sup>2</sup> Mas Jehová fué con José, y fué varón prosperado: y estaba en la casa de su señor el Egipcio. <sup>3</sup> Y vió su señor que Jehová era con él, y que todo lo que él hacía, Jehová lo hacía prosperar en su mano. <sup>4</sup> Así halló José gracia en sus ojos, y servíale; y él le hizo mayordomo de su casa, y entregó en su poder todo lo que tenía. <sup>5</sup> Y aconteció que, desde cuando le dió el encargo de su casa, y de todo lo que tenía, Jehová bendijo la casa del Egipcio á causa de José; y la bendición de Jehová fué sobre todo lo que tenía, así en casa como en el campo. ^[**39:5** Gén 30,27] <sup>6</sup> Y dejó todo lo que tenía en mano de José; ni con él sabía de nada más que del pan que comía. Y era José de hermoso semblante y bella presencia. 
 
 
 ## La seducción de la esposa de Potifar
@@ -1104,7 +1126,7 @@
 
 ## Encarcelamiento del copero y panadero del faraón
 # 40 
-<sup>1</sup> Y ACONTECIÓ después de estas cosas, que el copero del rey de Egipto y el panadero delinquieron contra su señor el rey de Egipto. <sup>2</sup> Y enojóse Faraón contra sus dos eunucos, contra el principal de los coperos, y contra el principal de los panaderos: <sup>3</sup> Y púsolos en prisión en la casa del capitán de los de la guardia, en la casa de la cárcel donde José estaba preso. <sup>4</sup> Y el capitán de los de la guardia dió cargo de ellos á José, y él les servía: y estuvieron días en la prisión. 
+<sup>1</sup> Y aconteció después de estas cosas, que el copero del rey de Egipto y el panadero delinquieron contra su señor el rey de Egipto. <sup>2</sup> Y enojóse Faraón contra sus dos eunucos, contra el principal de los coperos, y contra el principal de los panaderos: <sup>3</sup> Y púsolos en prisión en la casa del capitán de los de la guardia, en la casa de la cárcel donde José estaba preso. <sup>4</sup> Y el capitán de los de la guardia dió cargo de ellos á José, y él les servía: y estuvieron días en la prisión. 
 
 ## José consuela a los dos oficiales de la corte
 <sup>5</sup> Y ambos á dos, el copero y el panadero del rey de Egipto, que estaban arrestados en la prisión, vieron un sueño, cada uno su sueño en una misma noche, cada uno conforme á la declaración de su sueño. <sup>6</sup> Y vino á ellos José por la mañana, y mirólos, y he aquí que estaban tristes. <sup>7</sup> Y él preguntó á aquellos eunucos de Faraón, que estaban con él en la prisión de la casa de su señor, diciendo: ¿Por qué parecen hoy mal vuestros semblantes? 
@@ -1128,7 +1150,7 @@
 
 ## Los dos sueños del faraón son insolubles para los intérpretes egipcios
 # 41 
-<sup>1</sup> Y ACONTECIÓ que pasados dos años tuvo Faraón un sueño: Parecíale que estaba junto al río; <sup>2</sup> Y que del río subían siete vacas, hermosas á la vista, y muy gordas, y pacían en el prado: <sup>3</sup> Y que otras siete vacas subían tras ellas del río, de fea vista, y enjutas de carne, y se pararon cerca de las vacas hermosas á la orilla del río: <sup>4</sup> Y que las vacas de fea vista y enjutas de carne devoraban á las siete vacas hermosas y muy gordas. Y despertó Faraón. <sup>5</sup> Durmióse de nuevo, y soñó la segunda vez: Que siete espigas llenas y hermosas subían de una sola caña: <sup>6</sup> Y que otras siete espigas menudas y abatidas del Solano, salían después de ellas: <sup>7</sup> Y las siete espigas menudas devoraban á las siete espigas gruesas y llenas. Y despertó Faraón, y he aquí que era sueño. <sup>8</sup> Y acaeció que á la mañana estaba agitado su espíritu; y envió é hizo llamar á todos los magos de Egipto, y á todos sus sabios: y contóles Faraón sus sueños, mas no había quien á Faraón los declarase. 
+<sup>1</sup> Y aconteció que pasados dos años tuvo Faraón un sueño: Parecíale que estaba junto al río; <sup>2</sup> Y que del río subían siete vacas, hermosas á la vista, y muy gordas, y pacían en el prado: <sup>3</sup> Y que otras siete vacas subían tras ellas del río, de fea vista, y enjutas de carne, y se pararon cerca de las vacas hermosas á la orilla del río: <sup>4</sup> Y que las vacas de fea vista y enjutas de carne devoraban á las siete vacas hermosas y muy gordas. Y despertó Faraón. <sup>5</sup> Durmióse de nuevo, y soñó la segunda vez: Que siete espigas llenas y hermosas subían de una sola caña: <sup>6</sup> Y que otras siete espigas menudas y abatidas del Solano, salían después de ellas: <sup>7</sup> Y las siete espigas menudas devoraban á las siete espigas gruesas y llenas. Y despertó Faraón, y he aquí que era sueño. <sup>8</sup> Y acaeció que á la mañana estaba agitado su espíritu; y envió é hizo llamar á todos los magos de Egipto, y á todos sus sabios: y contóles Faraón sus sueños, mas no había quien á Faraón los declarase. 
 
 ## El copero hace los arreglos para que vayan a buscar a José
 <sup>9</sup> Entonces el principal de los coperos habló á Faraón, diciendo: Acuérdome hoy de mis faltas: <sup>10</sup> Faraón se enojó contra sus siervos, y á mí me echó á la prisión de la casa del capitán de los de la guardia, á mí y al principal de los panaderos: <sup>11</sup> Y yo y él vimos un sueño una misma noche: cada uno soñó conforme á la declaración de su sueño. <sup>12</sup> Y estaba allí con nosotros un mozo Hebreo, sirviente del capitán de los de la guardia; y se lo contamos, y él nos declaró nuestros sueños, y declaró á cada uno conforme á su sueño. <sup>13</sup> Y aconteció que como él nos declaró, así fué: á mí me hizo volver á mi puesto, é hizo colgar al otro. 
@@ -1160,7 +1182,7 @@
 
 ## Los diez hijos mayores de Jacob se mudan a Egipto para comprar grano
 # 42 
-<sup>1</sup> Y VIENDO Jacob que en Egipto había alimentos, dijo á sus hijos: ¿Por qué os estáis mirando? <sup>2</sup> Y dijo: He aquí, yo he oído que hay víveres en Egipto; descended allá, y comprad de allí para nosotros, para que podamos vivir, y no nos muramos. <sup>3</sup> Y descendieron los diez hermanos de José á comprar trigo á Egipto. <sup>4</sup> Mas Jacob no envió á Benjamín hermano de José con sus hermanos; porque dijo: No sea acaso que le acontezca algún desastre. <sup>5</sup> Y vinieron los hijos de Israel á comprar entre los que venían: porque había hambre en la tierra de Canaán. 
+<sup>1</sup> Y viendo Jacob que en Egipto había alimentos, dijo á sus hijos: ¿Por qué os estáis mirando? <sup>2</sup> Y dijo: He aquí, yo he oído que hay víveres en Egipto; descended allá, y comprad de allí para nosotros, para que podamos vivir, y no nos muramos. <sup>3</sup> Y descendieron los diez hermanos de José á comprar trigo á Egipto. <sup>4</sup> Mas Jacob no envió á Benjamín hermano de José con sus hermanos; porque dijo: No sea acaso que le acontezca algún desastre. <sup>5</sup> Y vinieron los hijos de Israel á comprar entre los que venían: porque había hambre en la tierra de Canaán. 
 
 ## La primera conversación dura de José con sus hermanos
 <sup>6</sup> Y José era el señor de la tierra, que vendía á todo el pueblo de la tierra: y llegaron los hermanos de José, é inclináronse á él rostro por tierra. <sup>7</sup> Y José como vió á sus hermanos, conociólos; mas hizo que no los conocía, y hablóles ásperamente, y les dijo: ¿De dónde habéis venido? Ellos respondieron: De la tierra de Canaán á comprar alimentos. 
@@ -1195,7 +1217,7 @@
 
 ## Segundo viaje de los hermanos de José a Egipto con Benjamín
 # 43 
-<sup>1</sup> Y EL hambre era grande en la tierra. <sup>2</sup> Y aconteció que como acabaron de comer el trigo que trajeron de Egipto, díjoles su padre: Volved, y comprad para nosotros un poco de alimento. 
+<sup>1</sup> Y el hambre era grande en la tierra. <sup>2</sup> Y aconteció que como acabaron de comer el trigo que trajeron de Egipto, díjoles su padre: Volved, y comprad para nosotros un poco de alimento. 
 
 <sup>3</sup> Y respondió Judá, diciendo: Aquel varón nos protestó con ánimo resuelto, diciendo: No veréis mi rostro sin vuestro hermano con vosotros. <sup>4</sup> Si enviares á nuestro hermano con nosotros, descenderemos y te compraremos alimento: <sup>5</sup> Pero si no le enviares, no descenderemos: porque aquel varón nos dijo: No veréis mi rostro sin vuestro hermano con vosotros. 
 
@@ -1230,7 +1252,7 @@
 
 ## José está probando a sus hermanos por última vez
 # 44 
-<sup>1</sup> Y MANDÓ José al mayordomo de su casa, diciendo: Hinche los costales de aquestos varones de alimentos, cuanto pudieren llevar, y pon el dinero de cada uno en la boca de su costal: <sup>2</sup> Y pondrás mi copa, la copa de plata, en la boca del costal del menor, con el dinero de su trigo. Y él hizo como dijo José. <sup>3</sup> Venida la mañana, los hombres fueron despedidos con sus asnos. <sup>4</sup> Habiendo ellos salido de la ciudad, de la que aun no se habían alejado, dijo José á su mayordomo: Levántate, y sigue á esos hombres; y cuando los alcanzares, diles: ¿Por qué habéis vuelto mal por bien? <sup>5</sup> ¿No es ésta en la que bebe mi señor, y por la que suele adivinar? habéis hecho mal en lo que hicisteis. <sup>6</sup> Y como él los alcanzó, díjoles estas palabras. 
+<sup>1</sup> Y mandó José al mayordomo de su casa, diciendo: Hinche los costales de aquestos varones de alimentos, cuanto pudieren llevar, y pon el dinero de cada uno en la boca de su costal: <sup>2</sup> Y pondrás mi copa, la copa de plata, en la boca del costal del menor, con el dinero de su trigo. Y él hizo como dijo José. <sup>3</sup> Venida la mañana, los hombres fueron despedidos con sus asnos. <sup>4</sup> Habiendo ellos salido de la ciudad, de la que aun no se habían alejado, dijo José á su mayordomo: Levántate, y sigue á esos hombres; y cuando los alcanzares, diles: ¿Por qué habéis vuelto mal por bien? <sup>5</sup> ¿No es ésta en la que bebe mi señor, y por la que suele adivinar? habéis hecho mal en lo que hicisteis. <sup>6</sup> Y como él los alcanzó, díjoles estas palabras. 
 
 <sup>7</sup> Y ellos le respondieron: ¿Por qué dice mi señor tales cosas? Nunca tal hagan tus siervos. <sup>8</sup> He aquí, el dinero que hallamos en la boca de nuestros costales, te lo volvimos á traer desde la tierra de Canaán; ¿cómo, pues, habíamos de hurtar de casa de tu señor plata ni oro? ^[**44:8** Gén 43,22] <sup>9</sup> Aquel de tus siervos en quien fuere hallada la copa, que muera, y aun nosotros seremos siervos de mi señor. 
 
@@ -1248,11 +1270,13 @@
 <sup>17</sup> Y él respondió: Nunca yo tal haga: el varón en cuyo poder fué hallada la copa, él será mi siervo; vosotros id en paz á vuestro padre. 
 
 <sup>18</sup> Entonces Judá se llegó á él, y dijo: Ay señor mío, ruégote que hable tu siervo una palabra en oídos de mi señor, y no se encienda tu enojo contra tu siervo, pues que tú eres como Faraón. <sup>19</sup> Mi señor preguntó á sus siervos, diciendo: ¿Tenéis padre ó hermano? <sup>20</sup> Y nosotros respondimos á mi señor: Tenemos un padre anciano, y un mozo que le nació en su vejez, pequeño aún; y un hermano suyo murió, y él quedó solo de su madre, y su padre lo ama. <sup>21</sup> Y tú dijiste á tus siervos: Traédmelo, y pondré mis ojos sobre él. <sup>22</sup> Y nosotros dijimos á mi señor: El mozo no puede dejar á su padre, porque si le dejare, su padre morirá. <sup>23</sup> Y dijiste á tus siervos: Si vuestro hermano menor no descendiere con vosotros, no veáis más mi rostro. ^[**44:23** Gén 42,15; Gén 43,3-5] <sup>24</sup> Aconteció pues, que como llegamos á mi padre tu siervo, contámosle las palabras de mi señor. <sup>25</sup> Y dijo nuestro padre: Volved á comprarnos un poco de alimento. <sup>26</sup> Y nosotros respondimos: No podemos ir: si nuestro hermano fuere con nosotros, iremos; porque no podemos ver el rostro del varón, no estando con nosotros nuestro hermano el menor. <sup>27</sup> Entonces tu siervo mi padre nos dijo: Vosotros sabéis que dos me parió mi mujer; <sup>28</sup> Y el uno salió de conmigo, y pienso de cierto que fué despedazado, y hasta ahora no le he visto; <sup>29</sup> Y si tomareis también éste de delante de mí, y le aconteciere algún desastre, haréis descender mis canas con dolor á la sepultura. ^[**44:29** Gén 42,38] 
- <sup>30</sup> Ahora, pues, cuando llegare yo á tu siervo mi padre, y el mozo no fuere conmigo, como su alma está ligada al alma de él, <sup>31</sup> Sucederá que cuando no vea al mozo, morirá: y tus siervos harán descender las canas de tu siervo nuestro padre con dolor á la sepultura. <sup>32</sup> Como tu siervo salió por fiador del mozo con mi padre, diciendo: Si no te lo volviere, entonces yo seré culpable para mi padre todos los días; <sup>33</sup> Ruégote por tanto que quede ahora tu siervo por el mozo por siervo de mi señor, y que el mozo vaya con sus hermanos. <sup>34</sup> Porque ¿cómo iré yo á mi padre sin el mozo? No podré, por no ver el mal que sobrevendrá á mi padre. 
+ 
+
+<sup>30</sup> Ahora, pues, cuando llegare yo á tu siervo mi padre, y el mozo no fuere conmigo, como su alma está ligada al alma de él, <sup>31</sup> Sucederá que cuando no vea al mozo, morirá: y tus siervos harán descender las canas de tu siervo nuestro padre con dolor á la sepultura. <sup>32</sup> Como tu siervo salió por fiador del mozo con mi padre, diciendo: Si no te lo volviere, entonces yo seré culpable para mi padre todos los días; <sup>33</sup> Ruégote por tanto que quede ahora tu siervo por el mozo por siervo de mi señor, y que el mozo vaya con sus hermanos. <sup>34</sup> Porque ¿cómo iré yo á mi padre sin el mozo? No podré, por no ver el mal que sobrevendrá á mi padre. 
 
 ## José se revela a sus hermanos
 # 45 
-<sup>1</sup> NO podía ya José contenerse delante de todos los que estaban al lado suyo, y clamó: Haced salir de conmigo á todos. Y no quedó nadie con él, al darse á conocer José á sus hermanos. <sup>2</sup> Entonces se dió á llorar á voz en grito; y oyeron los Egipcios, y oyó también la casa de Faraón. <sup>3</sup> Y dijo José á sus hermanos: Yo soy José: ¿vive aún mi padre? Y sus hermanos no pudieron responderle, porque estaban turbados delante de él. 
+<sup>1</sup> No podía ya José contenerse delante de todos los que estaban al lado suyo, y clamó: Haced salir de conmigo á todos. Y no quedó nadie con él, al darse á conocer José á sus hermanos. <sup>2</sup> Entonces se dió á llorar á voz en grito; y oyeron los Egipcios, y oyó también la casa de Faraón. <sup>3</sup> Y dijo José á sus hermanos: Yo soy José: ¿vive aún mi padre? Y sus hermanos no pudieron responderle, porque estaban turbados delante de él. 
 
 <sup>4</sup> Entonces dijo José á sus hermanos: Llegaos ahora á mí. Y ellos se llegaron. Y él dijo: Yo soy José vuestro hermano el que vendisteis para Egipto. ^[**45:4** Gén 37,28] 
 
@@ -1276,7 +1300,7 @@
 
 ## Dios aprueba el traslado de Jacob a Beerseba en una revelación
 # 46 
-<sup>1</sup> Y PARTIÓSE Israel con todo lo que tenía, y vino á Beer-seba, y ofreció sacrificios al Dios de su padre Isaac. ^[**46:1** Gén 26,23-25] <sup>2</sup> Y habló Dios á Israel en visiones de noche, y dijo: Jacob, Jacob. Y él respondió: Heme aquí. 
+<sup>1</sup> Y partióse Israel con todo lo que tenía, y vino á Beer-seba, y ofreció sacrificios al Dios de su padre Isaac. ^[**46:1** Gén 26,23-25] <sup>2</sup> Y habló Dios á Israel en visiones de noche, y dijo: Jacob, Jacob. Y él respondió: Heme aquí. 
 
 
 <sup>3</sup> Y dijo: Yo soy Dios, el Dios de tu padre; no temas de descender á Egipto, porque yo te pondré allí en gran gente. <sup>4</sup> Yo descenderé contigo á Egipto, y yo también te haré volver: y José pondrá su mano sobre tus ojos. 
@@ -1296,7 +1320,7 @@
 
 ## El faraón promete a los hijos de Jacob establecerse en Gosen
 # 47 
-<sup>1</sup> Y JOSÉ vino, é hizo saber á Faraón, y dijo: Mi padre y mis hermanos, y sus ovejas y sus vacas, con todo lo que tienen, han venido de la tierra de Canaán, y he aquí, están en la tierra de Gosén. <sup>2</sup> Y de los postreros de sus hermanos tomó cinco varones, y presentólos delante de Faraón. <sup>3</sup> Y Faraón dijo á sus hermanos: ¿Cuál es vuestro oficio? Y ellos respondieron á Faraón: Pastores de ovejas son tus siervos, así nosotros como nuestros padres. 
+<sup>1</sup> Y josé vino, é hizo saber á Faraón, y dijo: Mi padre y mis hermanos, y sus ovejas y sus vacas, con todo lo que tienen, han venido de la tierra de Canaán, y he aquí, están en la tierra de Gosén. <sup>2</sup> Y de los postreros de sus hermanos tomó cinco varones, y presentólos delante de Faraón. <sup>3</sup> Y Faraón dijo á sus hermanos: ¿Cuál es vuestro oficio? Y ellos respondieron á Faraón: Pastores de ovejas son tus siervos, así nosotros como nuestros padres. 
 
 <sup>4</sup> Dijeron además á Faraón: Por morar en esta tierra hemos venido; porque no hay pasto para las ovejas de tus siervos, pues el hambre es grave en la tierra de Canaán: por tanto, te rogamos ahora que habiten tus siervos en la tierra de Gosén. 
 
@@ -1331,7 +1355,7 @@
 
 ## Jacob toma a los dos hijos de José en lugar de niños
 # 48 
-<sup>1</sup> Y SUCEDIÓ después de estas cosas el haberse dicho á José: He aquí tu padre está enfermo. Y él tomó consigo sus dos hijos Manasés y Ephraim. <sup>2</sup> Y se hizo saber á Jacob, diciendo: He aquí tu hijo José viene á ti. Entonces se esforzó Israel, y sentóse sobre la cama; <sup>3</sup> Y dijo á José: El Dios Omnipotente me apareció en Luz en la tierra de Canaán, y me bendijo, <sup>4</sup> Y díjome: He aquí, yo te haré crecer, y te multiplicaré, y te pondré por estirpe de pueblos: y daré esta tierra á tu simiente después de ti por heredad perpetua. ^[**48:4** Gén 35,11-12] <sup>5</sup> Y ahora tus dos hijos Ephraim y Manasés, que te nacieron en la tierra de Egipto, antes que viniese á ti á la tierra de Egipto, míos son; como Rubén y Simeón, serán míos: ^[**48:5** Gén 41,50-52] <sup>6</sup> Y los que después de ellos has engendrado, serán tuyos; por el nombre de sus hermanos serán llamados en sus heredades. <sup>7</sup> Porque cuando yo venía de Padan-aram, se me murió Rachêl en la tierra de Canaán, en el camino, como media legua de tierra viniendo á Ephrata; y sepultéla allí en el camino de Ephrata, que es Bethlehem. ^[**48:7** Gén 35,19] 
+<sup>1</sup> Y sucedió después de estas cosas el haberse dicho á José: He aquí tu padre está enfermo. Y él tomó consigo sus dos hijos Manasés y Ephraim. <sup>2</sup> Y se hizo saber á Jacob, diciendo: He aquí tu hijo José viene á ti. Entonces se esforzó Israel, y sentóse sobre la cama; <sup>3</sup> Y dijo á José: El Dios Omnipotente me apareció en Luz en la tierra de Canaán, y me bendijo, <sup>4</sup> Y díjome: He aquí, yo te haré crecer, y te multiplicaré, y te pondré por estirpe de pueblos: y daré esta tierra á tu simiente después de ti por heredad perpetua. ^[**48:4** Gén 35,11-12] <sup>5</sup> Y ahora tus dos hijos Ephraim y Manasés, que te nacieron en la tierra de Egipto, antes que viniese á ti á la tierra de Egipto, míos son; como Rubén y Simeón, serán míos: ^[**48:5** Gén 41,50-52] <sup>6</sup> Y los que después de ellos has engendrado, serán tuyos; por el nombre de sus hermanos serán llamados en sus heredades. <sup>7</sup> Porque cuando yo venía de Padan-aram, se me murió Rachêl en la tierra de Canaán, en el camino, como media legua de tierra viniendo á Ephrata; y sepultéla allí en el camino de Ephrata, que es Bethlehem. ^[**48:7** Gén 35,19] 
   
 
 ## Jacob bendice a los dos hijos de José
@@ -1345,11 +1369,13 @@
 <sup>17</sup> Entonces viendo José que su padre ponía la mano derecha sobre la cabeza de Ephraim, causóle esto disgusto; y asió la mano de su padre, para mudarla de sobre la cabeza de Ephraim á la cabeza de Manasés. <sup>18</sup> Y dijo José á su padre: No así, padre mío, porque éste es el primogénito; pon tu diestra sobre su cabeza. 
 
 <sup>19</sup> Mas su padre no quiso, y dijo: Lo sé, hijo mío, lo sé: también él vendrá á ser un pueblo, y será también acrecentado; pero su hermano menor será más grande que él, y su simiente será plenitud de gentes. <sup>20</sup> Y bendíjolos aquel día, diciendo: En ti bendecirá Israel, diciendo: Póngate Dios como á Ephraim y como á Manasés. Y puso á Ephraim delante de Manasés. ^[**48:20** Heb 11,21] 
+
+
 <sup>21</sup> Y dijo Israel á José: He aquí, yo muero, mas Dios será con vosotros, y os hará volver á la tierra de vuestros padres. <sup>22</sup> Y yo te he dado á ti una parte sobre tus hermanos, la cual tomé yo de mano del Amorrheo con mi espada y con mi arco. 
 
 ## Las profecías de Jacob sobre sus hijos
 # 49 
-<sup>1</sup> Y LLAMÓ Jacob á sus hijos, y dijo: Juntaos, y os declararé lo que os ha de acontecer en los postreros días. <sup>2</sup> Juntaos y oid, hijos de Jacob; y escuchad á vuestro padre Israel. 
+<sup>1</sup> Y llamó Jacob á sus hijos, y dijo: Juntaos, y os declararé lo que os ha de acontecer en los postreros días. <sup>2</sup> Juntaos y oid, hijos de Jacob; y escuchad á vuestro padre Israel. 
 
 <sup>3</sup> Rubén, tú eres mi primogénito, mi fortaleza, y el principio de mi vigor; principal en dignidad, principal en poder. ^[**49:3** Gén 29,32; Deut 21,17] <sup>4</sup> Corriente como las aguas, no seas el principal; por cuanto subiste al lecho de tu padre: entonces te envileciste, subiendo á mi estrado. ^[**49:4** Gén 35,22] 
  
@@ -1383,11 +1409,13 @@
 
 ## La solicitud de Jacob para su entierro en Hebrón
 <sup>28</sup> Todos estos fueron las doce tribus de Israel: y esto fué lo que su padre les dijo, y bendíjolos; á cada uno por su bendición los bendijo. <sup>29</sup> Mandóles luego, y díjoles: Yo voy á ser reunido con mi pueblo: sepultadme con mis padres en la cueva que está en el campo de Ephrón el Hetheo; ^[**49:29** Gén 23,16-20; Gén 47,30] 
+
+
 <sup>30</sup> En la cueva que está en el campo de Macpela, que está delante de Mamre en la tierra de Canaán, la cual compró Abraham con el mismo campo de Ephrón el Hetheo, para heredad de sepultura. <sup>31</sup> Allí sepultaron á Abraham y á Sara su mujer; allí sepultaron á Isaac y á Rebeca su mujer; allí también sepulté yo á Lea. <sup>32</sup> La compra del campo y de la cueva que está en él, fué de los hijos de Heth. <sup>33</sup> Y como acabó Jacob de dar órdenes á sus hijos, encogió sus pies en la cama, y espiró: y fué reunido con sus padres. 
 
 ## Embalsamamiento y traslado solemne de Jacob después del entierro hereditario en Hebrón
 # 50 
-<sup>1</sup> ENTONCES se echó José sobre el rostro de su padre, y lloró sobre él, y besólo. ^[**50:1** Gén 46,4] <sup>2</sup> Y mandó José á sus médicos familiares que embalsamasen á su padre: y los médicos embalsamaron á Israel. <sup>3</sup> Y cumpliéronle cuarenta días, porque así cumplían los días de los embalsamados, y lloráronlo los Egipcios setenta días. 
+<sup>1</sup> Entonces se echó José sobre el rostro de su padre, y lloró sobre él, y besólo. ^[**50:1** Gén 46,4] <sup>2</sup> Y mandó José á sus médicos familiares que embalsamasen á su padre: y los médicos embalsamaron á Israel. <sup>3</sup> Y cumpliéronle cuarenta días, porque así cumplían los días de los embalsamados, y lloráronlo los Egipcios setenta días. 
 
 
 <sup>4</sup> Y pasados los días de su luto, habló José á los de la casa de Faraón, diciendo: Si he hallado ahora gracia en vuestros ojos, os ruego que habléis en oídos de Faraón, diciendo: <sup>5</sup> Mi padre me conjuró diciendo: He aquí yo muero; en mi sepulcro que yo cavé para mí en la tierra de Canaán, allí me sepultarás; ruego pues que vaya yo ahora, y sepultaré á mi padre, y volveré. 
