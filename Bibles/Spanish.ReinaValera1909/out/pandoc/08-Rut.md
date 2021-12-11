@@ -1,6 +1,6 @@
 ## El destino de Noemí en la tierra de los moabitas
 # 1 
-\bibverse{1} Y aconteció en los días que gobernaban los jueces, que hubo hambre en la tierra. Y un varón de Beth-lehem de Judá, fué á peregrinar en los campos de Moab, él y su mujer, y dos hijos suyos. \bibverse{2} El nombre de aquel varón era Elimelech, y el de su mujer Noemi; y los nombres de sus dos hijos eran, Mahalón y Chelión, Ephrateos de Beth-lehem de Judá. Llegaron pues á los campos de Moab, y asentaron allí. \bibverse{3} Y murió Elimelech, marido de Noemi, y quedó ella con sus dos hijos; \bibverse{4} Los cuales tomaron para sí mujeres de Moab, el nombre de la una Orpha, y el nombre de la otra Ruth; y habitaron allí unos diez años. \bibverse{5} Y murieron también los dos, Mahalón y Chelión, quedando así la mujer desamparada de sus dos hijos y de su marido. \bibverse{6} Entonces se levantó con sus nueras, y volvióse de los campos de Moab: porque oyó en el campo de Moab que Jehová había visitado á su pueblo para darles pan. 
+\bibverse{1} Y ACONTECIÓ en los días que gobernaban los jueces, que hubo hambre en la tierra. Y un varón de Beth-lehem de Judá, fué á peregrinar en los campos de Moab, él y su mujer, y dos hijos suyos. \bibverse{2} El nombre de aquel varón era Elimelech, y el de su mujer Noemi; y los nombres de sus dos hijos eran, Mahalón y Chelión, Ephrateos de Beth-lehem de Judá. Llegaron pues á los campos de Moab, y asentaron allí. \bibverse{3} Y murió Elimelech, marido de Noemi, y quedó ella con sus dos hijos; \bibverse{4} Los cuales tomaron para sí mujeres de Moab, el nombre de la una Orpha, y el nombre de la otra Ruth; y habitaron allí unos diez años. \bibverse{5} Y murieron también los dos, Mahalón y Chelión, quedando así la mujer desamparada de sus dos hijos y de su marido. \bibverse{6} Entonces se levantó con sus nueras, y volvióse de los campos de Moab: porque oyó en el campo de Moab que Jehová había visitado á su pueblo para darles pan. 
 
 ## Partida de Noemí y sus dos nueras para regresar a Belén; La despedida de Orpa, la lealtad de Ruth
 \bibverse{7} Salió pues del lugar donde había estado, y con ella sus dos nueras, y comenzaron á caminar para volverse á la tierra de Judá. \bibverse{8} Y Noemi dijo á sus dos nueras: Andad, volveos cada una á la casa de su madre: Jehová haga con vosotras misericordia, como la habéis hecho con los muertos y conmigo. \bibverse{9} Déos Jehová que halléis descanso, cada una en casa de su marido: besólas luego, y ellas lloraron á voz en grito. 
@@ -20,13 +20,11 @@
 \bibverse{19} Anduvieron pues ellas dos hasta que llegaron á Beth-lehem: y aconteció que entrando en Beth-lehem, toda la ciudad se conmovió por razón de ellas, y decían: ¿No es ésta Noemi? 
 
 \bibverse{20} Y ella les respondía: No me llaméis Noemi, sino llamadme Mara: porque en grande amargura me ha puesto el Todopoderoso. ^[**1:20** Éxod 15,23] 
-
-
 \bibverse{21} Yo me fuí llena, mas vacía me ha vuelto Jehová. ¿Por qué me llamaréis Noemi, ya que Jehová ha dado testimonio contra mí, y el Todopoderoso me ha afligido? \bibverse{22} Así volvió Noemi y Ruth Moabita su nuera con ella; volvió de los campos de Moab, y llegaron á Beth-lehem en el principio de la siega de las cebadas. 
 
 ## Rut viene a recoger espigas en el campo del booz, quien pregunta por ella y la recibe amablemente
 # 2 
-\bibverse{1} Y tenía Noemi un pariente de su marido, varón poderoso y de hecho, de la familia de Elimelech, el cual se llamaba Booz. \bibverse{2} Y Ruth la Moabita dijo á Noemi: Ruégote que me dejes ir al campo, y cogeré espigas en pos de aquel á cuyos ojos hallare gracia. Y ella le respondió: Ve, hija mía. 
+\bibverse{1} Y TENÍA Noemi un pariente de su marido, varón poderoso y de hecho, de la familia de Elimelech, el cual se llamaba Booz. \bibverse{2} Y Ruth la Moabita dijo á Noemi: Ruégote que me dejes ir al campo, y cogeré espigas en pos de aquel á cuyos ojos hallare gracia. Y ella le respondió: Ve, hija mía. 
 
 \bibverse{3} Fué pues, y llegando, espigó en el campo en pos de los segadores: y aconteció por ventura, que la suerte del campo era de Booz, el cual era de la parentela de Elimelech. 
 
@@ -62,7 +60,7 @@
 
 ## Siguiendo el consejo de Noemí, Rut va a la era de Booz y se acuesta a sus pies
 # 3 
-\bibverse{1} Y díjole su suegra Noemi: Hija mía, ¿no te tengo de buscar descanso, que te sea bueno? \bibverse{2} ¿No es Booz nuestro pariente, con cuyas mozas tú has estado? He aquí que él avienta esta noche la parva de las cebadas. \bibverse{3} Te lavarás pues, y te ungirás, y vistiéndote tus vestidos, pasarás á la era; mas no te darás á conocer al varón hasta que él haya acabado de comer y de beber. \bibverse{4} Y cuando él se acostare, repara tú el lugar donde él se acostará, é irás, y descubrirás los pies, y te acostarás allí; y él te dirá lo que hayas de hacer. 
+\bibverse{1} Y DÍJOLE su suegra Noemi: Hija mía, ¿no te tengo de buscar descanso, que te sea bueno? \bibverse{2} ¿No es Booz nuestro pariente, con cuyas mozas tú has estado? He aquí que él avienta esta noche la parva de las cebadas. \bibverse{3} Te lavarás pues, y te ungirás, y vistiéndote tus vestidos, pasarás á la era; mas no te darás á conocer al varón hasta que él haya acabado de comer y de beber. \bibverse{4} Y cuando él se acostare, repara tú el lugar donde él se acostará, é irás, y descubrirás los pies, y te acostarás allí; y él te dirá lo que hayas de hacer. 
 
 \bibverse{5} Y le respondió: Haré todo lo que tú me mandares. \bibverse{6} Descendió pues á la era, é hizo todo lo que su suegra le había mandado. \bibverse{7} Y como Booz hubo comido y bebido, y su corazón estuvo contento, retiróse á dormir á un lado del montón. Entonces ella vino calladamente, y descubrió los pies, y acostóse. 
 
@@ -83,7 +81,7 @@
 
 ## La negociación pública entre Booz y el Solver
 # 4 
-\bibverse{1} Y booz subió á la puerta y sentóse allí: y he aquí pasaba aquel pariente del cual había Booz hablado, y díjole: Eh, fulano, ven acá y siéntate. Y él vino, y sentóse. \bibverse{2} Entonces él tomó diez varones de los ancianos de la ciudad, y dijo: Sentaos aquí. Y ellos se sentaron. \bibverse{3} Luego dijo al pariente: Noemi, que ha vuelto del campo de Moab, vende una parte de las tierras que tuvo nuestro hermano Elimelech; \bibverse{4} Y yo decidí hacértelo saber, y decirte que la tomes delante de los que están aquí sentados, y delante de los ancianos de mi pueblo. Si hubieres de redimir, redime; y si no quisieres redimir, decláramelo para que yo lo sepa: porque no hay otro que redima sino tú, y yo después de ti. Y él respondió: Yo redimiré. ^[**4:4** Lev 25,25] 
+\bibverse{1} Y BOOZ subió á la puerta y sentóse allí: y he aquí pasaba aquel pariente del cual había Booz hablado, y díjole: Eh, fulano, ven acá y siéntate. Y él vino, y sentóse. \bibverse{2} Entonces él tomó diez varones de los ancianos de la ciudad, y dijo: Sentaos aquí. Y ellos se sentaron. \bibverse{3} Luego dijo al pariente: Noemi, que ha vuelto del campo de Moab, vende una parte de las tierras que tuvo nuestro hermano Elimelech; \bibverse{4} Y yo decidí hacértelo saber, y decirte que la tomes delante de los que están aquí sentados, y delante de los ancianos de mi pueblo. Si hubieres de redimir, redime; y si no quisieres redimir, decláramelo para que yo lo sepa: porque no hay otro que redima sino tú, y yo después de ti. Y él respondió: Yo redimiré. ^[**4:4** Lev 25,25] 
 
 
 \bibverse{5} Entonces replicó Booz: El mismo día que tomares las tierras de mano de Noemi, has de tomar también á Ruth Moabita, mujer del difunto, para que suscites el nombre del muerto sobre su posesión. ^[**4:5** Deut 25,5-6] 

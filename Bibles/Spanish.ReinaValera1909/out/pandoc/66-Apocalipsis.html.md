@@ -1,6 +1,6 @@
 ## El título que indica el origen, el propósito y el significado de esta fuente
 # 1 
-<sup>1</sup> La revelación de Jesucristo, que Dios le dió, para manifestar á sus siervos las cosas que deben suceder presto; y la declaró, enviándola por su ángel á Juan su siervo, <sup>2</sup> El cual ha dado testimonio de la palabra de Dios, y del testimonio de Jesucristo, y de todas las cosas que ha visto. 
+<sup>1</sup> LA revelación de Jesucristo, que Dios le dió, para manifestar á sus siervos las cosas que deben suceder presto; y la declaró, enviándola por su ángel á Juan su siervo, <sup>2</sup> El cual ha dado testimonio de la palabra de Dios, y del testimonio de Jesucristo, y de todas las cosas que ha visto. 
 
 <sup>3</sup> Bienaventurado el que lee, y los que oyen las palabras de esta profecía, y guardan las cosas en ella escritas: porque el tiempo está cerca. 
 
@@ -25,7 +25,7 @@
 
 ## Carta a la iglesia en Éfeso: “¡No dejes el primer amor!”
 # 2 
-<sup>1</sup> Escribe al ángel de la iglesia en EFESO: El que tiene las siete estrellas en su diestra, el cual anda en medio de los siete candeleros de oro, dice estas cosas: ^[**2:1** Hech 18,19] 
+<sup>1</sup> ESCRIBE al ángel de la iglesia en EFESO: El que tiene las siete estrellas en su diestra, el cual anda en medio de los siete candeleros de oro, dice estas cosas: ^[**2:1** Hech 18,19] 
 
 
 <sup>2</sup> Yo sé tus obras, y tu trabajo y paciencia; y que tú no puedes sufrir los malos, y has probado á los que se dicen ser apóstoles, y no lo son, y los has hallado mentirosos; ^[**2:2** 1Jn 4,1] <sup>3</sup> Y has sufrido, y has tenido paciencia, y has trabajado por mi nombre, y no has desfallecido. <sup>4</sup> Pero tengo contra ti que has dejado tu primer amor. ^[**2:4** 1Tim 5,12] <sup>5</sup> Recuerda por tanto de dónde has caído, y arrepiéntete, y haz las primeras obras; pues si no, vendré presto á ti, y quitaré tu candelero de su lugar, si no te hubieres arrepentido. <sup>6</sup> Mas tienes esto, que aborreces los hechos de los Nicolaítas; los cuales yo también aborrezco. <sup>7</sup> El que tiene oído, oiga lo que el Espíritu dice á las iglesias. Al que venciere, daré á comer del árbol de la vida, el cual está en medio del paraíso de Dios. ^[**2:7** Apoc 22,2; Gén 2,9] 
@@ -50,13 +50,11 @@
 
 
 <sup>19</sup> Yo he conocido tus obras, y caridad, y servicio, y fe, y tu paciencia, y que tus obras postreras son más que las primeras. <sup>20</sup> Mas tengo unas pocas cosas contra ti: porque permites aquella mujer Jezabel (que se dice profetisa) enseñar, y engañar á mis siervos, á fornicar, y á comer cosas ofrecidas á los ídolos. <sup>21</sup> Y le he dado tiempo para que se arrepienta de la fornicación; y no se ha arrepentido. <sup>22</sup> He aquí, yo la echo en cama, y á los que adulteran con ella, en muy grande tribulación, si no se arrepintieren de sus obras: <sup>23</sup> Y mataré á sus hijos con muerte; y todas las iglesias sabrán que yo soy el que escudriño los riñones y los corazones: y daré á cada uno de vosotros según sus obras. ^[**2:23** Sal 7,10; Jer 17,10] <sup>24</sup> Pero yo digo á vosotros, y á los demás que estáis en Tiatira, cualesquiera que no tienen esta doctrina, y que no han conocido las profundidades de Satanás, como dicen: Yo no enviaré sobre vosotros otra carga. <sup>25</sup> Empero la que tenéis, tenedla hasta que yo venga. <sup>26</sup> Y al que hubiere vencido, y hubiere guardado mis obras hasta el fin, yo le daré potestad sobre las gentes; <sup>27</sup> Y las regirá con vara de hierro, y serán quebrantados como vaso de alfarero, como también yo he recibido de mi Padre: ^[**2:27** Sal 2,8-9] 
- 
-
-<sup>28</sup> Y le daré la estrella de la mañana. <sup>29</sup> El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
+ <sup>28</sup> Y le daré la estrella de la mañana. <sup>29</sup> El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
 
 ## Carta a la comunidad de Sardis: “¡No estés muerto como los demás!”
 # 3 
-<sup>1</sup> Y escribe al ángel de la iglesia en SARDIS: El que tiene los siete Espíritus de Dios, y las siete estrellas, dice estas cosas: Yo conozco tus obras, que tienes nombre que vives, y estás muerto. 
+<sup>1</sup> Y ESCRIBE al ángel de la iglesia en SARDIS: El que tiene los siete Espíritus de Dios, y las siete estrellas, dice estas cosas: Yo conozco tus obras, que tienes nombre que vives, y estás muerto. 
 
 <sup>2</sup> Sé vigilante y confirma las otras cosas que están para morir; porque no he hallado tus obras perfectas delante de Dios. ^[**3:2** Luc 22,32] <sup>3</sup> Acuérdate pues de lo que has recibido y has oído, y guárdalo, y arrepiéntete. Y si no velares, vendré á ti como ladrón, y no sabrás en qué hora vendré á ti. ^[**3:3** 1Tes 5,2] <sup>4</sup> Mas tienes unas pocas personas en Sardis que no han ensuciado sus vestiduras: y andarán conmigo en vestiduras blancas; porque son dignos. ^[**3:4** Jds 1,23] <sup>5</sup> El que venciere, será vestido de vestiduras blancas; y no borraré su nombre del libro de la vida, y confesaré su nombre delante de mi Padre, y delante de sus ángeles. ^[**3:5** Apoc 7,13; Mat 10,32; Luc 10,20] <sup>6</sup> El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
    
@@ -72,13 +70,11 @@
 <sup>14</sup> Y escribe al ángel de la iglesia en LAODICEA: He aquí dice el Amén, el testigo fiel y verdadero, el principio de la creación de Dios: 
 
 <sup>15</sup> Yo conozco tus obras, que ni eres frío, ni caliente. ¡Ojalá fueses frío, ó caliente! <sup>16</sup> Mas porque eres tibio, y no frío ni caliente, te vomitaré de mi boca. <sup>17</sup> Porque tú dices: Yo soy rico, y estoy enriquecido, y no tengo necesidad de ninguna cosa; y no conoces que tú eres un cuitado y miserable y pobre y ciego y desnudo; ^[**3:17** 1Cor 3,18; 1Cor 4,8] <sup>18</sup> Yo te amonesto que de mí compres oro afinado en fuego, para que seas hecho rico, y seas vestido de vestiduras blancas, para que no se descubra la vergüenza de tu desnudez; y unge tus ojos con colirio, para que veas. ^[**3:18** Is 55,1] <sup>19</sup> Yo reprendo y castigo á todos los que amo: sé pues celoso, y arrepiéntete. ^[**3:19** Prov 3,12; Heb 12,6; 1Cor 11,32] <sup>20</sup> He aquí, yo estoy á la puerta y llamo: si alguno oyere mi voz y abriere la puerta, entraré á él, y cenaré con él, y él conmigo. ^[**3:20** Juan 14,23] <sup>21</sup> Al que venciere, yo le daré que se siente conmigo en mi trono; así como yo he vencido, y me he sentado con mi Padre en su trono. ^[**3:21** Mat 19,28] 
-    
-
-<sup>22</sup> El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
+    <sup>22</sup> El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
 
 ## Dios el Padre y el concilio celestial en el salón del trono de Dios
 # 4 
-<sup>1</sup> Después de estas cosas miré, y he aquí una puerta abierta en el cielo: y la primera voz que oí, era como de trompeta que hablaba conmigo, diciendo: Sube acá, y yo te mostraré las cosas que han de ser después de éstas. 
+<sup>1</sup> DESPUÉS de estas cosas miré, y he aquí una puerta abierta en el cielo: y la primera voz que oí, era como de trompeta que hablaba conmigo, diciendo: Sube acá, y yo te mostraré las cosas que han de ser después de éstas. 
 
 <sup>2</sup> Y luego yo fuí en Espíritu: y he aquí, un trono que estaba puesto en el cielo, y sobre el trono estaba uno sentado. ^[**4:2** Is 6,1; Sal 47,9] <sup>3</sup> Y el que estaba sentado, era al parecer semejante á una piedra de jaspe y de sardio: y un arco celeste había alrededor del trono, semejante en el aspecto á la esmeralda. ^[**4:3** Ezeq 1,26-28] <sup>4</sup> Y alrededor del trono había veinticuatro sillas: y vi sobre las sillas veinticuatro ancianos sentados, vestidos de ropas blancas; y tenían sobre sus cabezas coronas de oro. <sup>5</sup> Y del trono salían relámpagos y truenos y voces: y siete lámparas de fuego estaban ardiendo delante del trono, las cuales son los siete Espíritus de Dios. ^[**4:5** Éxod 19,16; Apoc 1,4] <sup>6</sup> Y delante del trono había como un mar de vidrio semejante al cristal; y en medio del trono, y alrededor del trono, cuatro animales llenos de ojos delante y detrás. ^[**4:6** Ezeq 1,5; Ezeq 1,10; Ezeq 1,22; Ezeq 10,14] <sup>7</sup> Y el primer animal era semejante á un león; y el segundo animal, semejante á un becerro; y el tercer animal tenía la cara como de hombre; y el cuarto animal, semejante á un águila volando. <sup>8</sup> Y los cuatro animales tenían cada uno por sí seis alas alrededor, y de dentro estaban llenos de ojos; y no tenían reposo día ni noche, diciendo: Santo, santo, santo el Señor Dios Todopoderoso, que era, y que es, y que ha de venir. ^[**4:8** Is 6,2-3; Éxod 3,14] 
     
@@ -87,7 +83,7 @@
 
 ## El libro del destino con los siete sellos y el Cordero de Dios en el trono
 # 5 
-<sup>1</sup> Y vi en la mano derecha del que estaba sentado sobre el trono un libro escrito de dentro y de fuera, sellado con siete sellos. <sup>2</sup> Y vi un fuerte ángel predicando en alta voz: ¿Quién es digno de abrir el libro, y de desatar sus sellos? <sup>3</sup> Y ninguno podía, ni en el cielo, ni en la tierra, ni debajo de la tierra, abrir el libro, ni mirarlo. <sup>4</sup> Y yo lloraba mucho, porque no había sido hallado ninguno digno de abrir el libro, ni de leerlo, ni de mirarlo. <sup>5</sup> Y uno de los ancianos me dice: No llores: he aquí el león de la tribu de Judá, la raíz de David, que ha vencido para abrir el libro, y desatar sus siete sellos. ^[**5:5** Gén 49,9-10; Is 11,1] 
+<sup>1</sup> Y VI en la mano derecha del que estaba sentado sobre el trono un libro escrito de dentro y de fuera, sellado con siete sellos. <sup>2</sup> Y vi un fuerte ángel predicando en alta voz: ¿Quién es digno de abrir el libro, y de desatar sus sellos? <sup>3</sup> Y ninguno podía, ni en el cielo, ni en la tierra, ni debajo de la tierra, abrir el libro, ni mirarlo. <sup>4</sup> Y yo lloraba mucho, porque no había sido hallado ninguno digno de abrir el libro, ni de leerlo, ni de mirarlo. <sup>5</sup> Y uno de los ancianos me dice: No llores: he aquí el león de la tribu de Judá, la raíz de David, que ha vencido para abrir el libro, y desatar sus siete sellos. ^[**5:5** Gén 49,9-10; Is 11,1] 
 
 
 <sup>6</sup> Y miré; y he aquí en medio del trono y de los cuatro animales, y en medio de los ancianos, estaba un Cordero como inmolado, que tenía siete cuernos, y siete ojos, que son los siete Espíritus de Dios enviados en toda la tierra. ^[**5:6** Is 53,7; Juan 1,29] <sup>7</sup> Y él vino, y tomó el libro de la mano derecha de aquel que estaba sentado en el trono. <sup>8</sup> Y cuando hubo tomado el libro, los cuatro animales y los veinticuatro ancianos se postraron delante del Cordero, teniendo cada uno arpas, y copas de oro llenas de perfumes, que son las oraciones de los santos: <sup>9</sup> Y cantaban un nuevo cántico, diciendo: Digno eres de tomar el libro, y de abrir sus sellos; porque tú fuiste inmolado, y nos has redimido para Dios con tu sangre, de todo linaje y lengua y pueblo y nación; ^[**5:9** Sal 98,1] <sup>10</sup> Y nos has hecho para nuestro Dios reyes y sacerdotes, y reinaremos sobre la tierra. ^[**5:10** Apoc 1,6; Éxod 19,6] 
@@ -103,7 +99,7 @@
 
 ## La apertura de los primeros seis sellos por el Cordero; Los cuatro jinetes
 # 6 
-<sup>1</sup> Y miré cuando el Cordero abrió uno de los sellos, y oí á uno de los cuatro animales diciendo como con una voz de trueno: Ven y ve. <sup>2</sup> Y miré, y he aquí un caballo blanco: y el que estaba sentado encima de él, tenía un arco; y le fué dada una corona, y salió victorioso, para que también venciese. ^[**6:2** Zac 6,1-5] 
+<sup>1</sup> Y MIRÉ cuando el Cordero abrió uno de los sellos, y oí á uno de los cuatro animales diciendo como con una voz de trueno: Ven y ve. <sup>2</sup> Y miré, y he aquí un caballo blanco: y el que estaba sentado encima de él, tenía un arco; y le fué dada una corona, y salió victorioso, para que también venciese. ^[**6:2** Zac 6,1-5] 
 
 
 <sup>3</sup> Y cuando él abrió el segundo sello, oí al segundo animal, que decía: Ven y ve. <sup>4</sup> Y salió otro caballo bermejo: y al que estaba sentado sobre él, fué dado poder de quitar la paz de la tierra, y que se maten unos á otros: y fuéle dada una grande espada. 
@@ -122,7 +118,7 @@
 
 ## El sellamiento de una selección (de 144.000 de las doce tribus de Israel)
 # 7 
-<sup>1</sup> Y después de estas cosas vi cuatro ángeles que estaban sobre los cuatro ángulos de la tierra, deteniendo los cuatro vientos de la tierra, para que no soplase viento sobre la tierra, ni sobre la mar, ni sobre ningún árbol. ^[**7:1** Dan 7,2] <sup>2</sup> Y vi otro ángel que subía del nacimiento del sol, teniendo el sello del Dios vivo: y clamó con gran voz á los cuatro ángeles, á los cuales era dado hacer daño á la tierra y á la mar, <sup>3</sup> Diciendo: No hagáis daño á la tierra, ni al mar, ni á los árboles, hasta que señalemos á los siervos de nuestro Dios en sus frentes. <sup>4</sup> Y oí el número de los señalados: ciento cuarenta y cuatro mil señalados de todas las tribus de los hijos de Israel. ^[**7:4** Apoc 14,1; Apoc 14,3] <sup>5</sup> De la tribu de Judá, doce mil señalados. De la tribu de Rubén, doce mil señalados. De la tribu de Gad, doce mil señalados. <sup>6</sup> De la tribu de Aser, doce mil señalados. De la tribu de Neftalí, doce mil señalados. De la tribu de Manasés, doce mil señalados. <sup>7</sup> De la tribu de Simeón, doce mil señalados. De la tribu de Leví, doce mil señalados. De la tribu de Issachâr, doce mil señalados. <sup>8</sup> De la tribu de Zabulón, doce mil señalados. De la tribu de José, doce mil señalados. De la tribu de Benjamín, doce mil señalados. 
+<sup>1</sup> Y DESPUÉS de estas cosas vi cuatro ángeles que estaban sobre los cuatro ángulos de la tierra, deteniendo los cuatro vientos de la tierra, para que no soplase viento sobre la tierra, ni sobre la mar, ni sobre ningún árbol. ^[**7:1** Dan 7,2] <sup>2</sup> Y vi otro ángel que subía del nacimiento del sol, teniendo el sello del Dios vivo: y clamó con gran voz á los cuatro ángeles, á los cuales era dado hacer daño á la tierra y á la mar, <sup>3</sup> Diciendo: No hagáis daño á la tierra, ni al mar, ni á los árboles, hasta que señalemos á los siervos de nuestro Dios en sus frentes. <sup>4</sup> Y oí el número de los señalados: ciento cuarenta y cuatro mil señalados de todas las tribus de los hijos de Israel. ^[**7:4** Apoc 14,1; Apoc 14,3] <sup>5</sup> De la tribu de Judá, doce mil señalados. De la tribu de Rubén, doce mil señalados. De la tribu de Gad, doce mil señalados. <sup>6</sup> De la tribu de Aser, doce mil señalados. De la tribu de Neftalí, doce mil señalados. De la tribu de Manasés, doce mil señalados. <sup>7</sup> De la tribu de Simeón, doce mil señalados. De la tribu de Leví, doce mil señalados. De la tribu de Issachâr, doce mil señalados. <sup>8</sup> De la tribu de Zabulón, doce mil señalados. De la tribu de José, doce mil señalados. De la tribu de Benjamín, doce mil señalados. 
  
 
 ## El homenaje a las innumerables, probadas y probadas almas creyentes de todos los pueblos ante el trono de Dios, que han salido de la gran tribulación
@@ -139,7 +135,7 @@
 
 ## La solución del séptimo sello y el silencio en el cielo (presentando los juicios de las trompetas)
 # 8 
-<sup>1</sup> Y cuando él abrió el séptimo sello, fué hecho silencio en el cielo casi por media hora. ^[**8:1** Zac 2,17; Hab 2,20] <sup>2</sup> Y vi los siete ángeles que estaban delante de Dios; y les fueron dadas siete trompetas. ^[**8:2** Mat 24,31] 
+<sup>1</sup> Y CUANDO él abrió el séptimo sello, fué hecho silencio en el cielo casi por media hora. ^[**8:1** Zac 2,17; Hab 2,20] <sup>2</sup> Y vi los siete ángeles que estaban delante de Dios; y les fueron dadas siete trompetas. ^[**8:2** Mat 24,31] 
  
 
 <sup>3</sup> Y otro ángel vino, y se paró delante del altar, teniendo un incensario de oro; y le fué dado mucho incienso para que lo añadiese á las oraciones de todos los santos sobre el altar de oro que estaba delante del trono. <sup>4</sup> Y el humo del incienso subió de la mano del ángel delante de Dios, con las oraciones de los santos. ^[**8:4** Sal 141,2] <sup>5</sup> Y el ángel tomó el incensario, y lo llenó del fuego del altar, y echólo en la tierra; y fueron hechos truenos y voces y relámpagos y terremotos. ^[**8:5** Ezeq 10,2] 
@@ -164,7 +160,7 @@
 
 ## La quinta trompeta o el primer ay
 # 9 
-<sup>1</sup> Y el quinto ángel tocó la trompeta, y vi una estrella que cayó del cielo en la tierra; y le fué dada la llave del pozo del abismo. <sup>2</sup> Y abrió el pozo del abismo, y subió humo del pozo como el humo de un gran horno; y oscurecióse el sol y el aire por el humo del pozo. ^[**9:2** Jl 2,2; Jl 2,10] <sup>3</sup> Y del humo salieron langostas sobre la tierra; y fuéles dada potestad, como tienen potestad los escorpiones de la tierra. <sup>4</sup> Y les fué mandado que no hiciesen daño á la hierba de la tierra, ni á ninguna cosa verde, ni á ningún árbol, sino solamente á los hombres que no tienen la señal de Dios en sus frentes. <sup>5</sup> Y les fué dado que no los matasen, sino que los atormentasen cinco meses; y su tormento era como tormento de escorpión, cuando hiere al hombre. <sup>6</sup> Y en aquellos días buscarán los hombres la muerte, y no la hallarán; y desearán morir, y la muerte huirá de ellos. ^[**9:6** Apoc 6,16] 
+<sup>1</sup> Y EL quinto ángel tocó la trompeta, y vi una estrella que cayó del cielo en la tierra; y le fué dada la llave del pozo del abismo. <sup>2</sup> Y abrió el pozo del abismo, y subió humo del pozo como el humo de un gran horno; y oscurecióse el sol y el aire por el humo del pozo. ^[**9:2** Jl 2,2; Jl 2,10] <sup>3</sup> Y del humo salieron langostas sobre la tierra; y fuéles dada potestad, como tienen potestad los escorpiones de la tierra. <sup>4</sup> Y les fué mandado que no hiciesen daño á la hierba de la tierra, ni á ninguna cosa verde, ni á ningún árbol, sino solamente á los hombres que no tienen la señal de Dios en sus frentes. <sup>5</sup> Y les fué dado que no los matasen, sino que los atormentasen cinco meses; y su tormento era como tormento de escorpión, cuando hiere al hombre. <sup>6</sup> Y en aquellos días buscarán los hombres la muerte, y no la hallarán; y desearán morir, y la muerte huirá de ellos. ^[**9:6** Apoc 6,16] 
  
 
 <sup>7</sup> Y el parecer de las langostas era semejante á caballos aparejados para la guerra: y sobre sus cabezas tenían como coronas semejantes al oro; y sus caras como caras de hombres. <sup>8</sup> Y tenían cabellos como cabellos de mujeres: y sus dientes eran como dientes de leones. <sup>9</sup> Y tenían corazas como corazas de hierro; y el estruendo de sus alas, como el ruido de carros que con muchos caballos corren á la batalla. <sup>10</sup> Y tenían colas semejantes á las de los escorpiones, y tenían en sus colas aguijones; y su poder era de hacer daño á los hombres cinco meses. <sup>11</sup> Y tienen sobre sí por rey al ángel del abismo, cuyo nombre en hebraico es Abaddon, y en griego, Apollyon. 
@@ -179,13 +175,11 @@
 
 
 <sup>20</sup> Y los otros hombres que no fueron muertos con estas plagas, aun no se arrepintieron de las obras de sus manos, para que no adorasen á los demonios, y á las imágenes de oro, y de plata, y de metal, y de piedra, y de madera; las cuales no pueden ver, ni oir, ni andar: ^[**9:20** Apoc 16,9] 
-
-
 <sup>21</sup> Y no se arrepintieron de sus homicidios, ni de sus hechicerías, ni de su fornicación, ni de sus hurtos. 
 
 ## Un ángel sostiene un libro abierto y jura
 # 10 
-<sup>1</sup> Y vi otro ángel fuerte descender del cielo, cercado de una nube, y el arco celeste sobre su cabeza; y su rostro era como el sol, y sus pies como columnas de fuego. <sup>2</sup> Y tenía en su mano un librito abierto: y puso su pie derecho sobre el mar, y el izquierdo sobre la tierra; <sup>3</sup> Y clamó con grande voz, como cuando un león ruge: y cuando hubo clamado, siete truenos hablaron sus voces. <sup>4</sup> Y cuando los siete truenos hubieron hablado sus voces, yo iba á escribir, y oí una voz del cielo que me decía: Sella las cosas que los siete truenos han hablado, y no las escribas. ^[**10:4** Dan 12,4; Dan 12,9; Sal 29,-1] 
+<sup>1</sup> Y VI otro ángel fuerte descender del cielo, cercado de una nube, y el arco celeste sobre su cabeza; y su rostro era como el sol, y sus pies como columnas de fuego. <sup>2</sup> Y tenía en su mano un librito abierto: y puso su pie derecho sobre el mar, y el izquierdo sobre la tierra; <sup>3</sup> Y clamó con grande voz, como cuando un león ruge: y cuando hubo clamado, siete truenos hablaron sus voces. <sup>4</sup> Y cuando los siete truenos hubieron hablado sus voces, yo iba á escribir, y oí una voz del cielo que me decía: Sella las cosas que los siete truenos han hablado, y no las escribas. ^[**10:4** Dan 12,4; Dan 12,9; Sal 29,-1] 
 
 
 <sup>5</sup> Y el ángel que vi estar sobre el mar y sobre la tierra, levantó su mano al cielo, <sup>6</sup> Y juró por el que vive para siempre jamás, que ha criado el cielo y las cosas que están en él, y la tierra y las cosas que están en ella, y el mar y las cosas que están en él, que el tiempo no será más. <sup>7</sup> Pero en los días de la voz del séptimo ángel, cuando él comenzare á tocar la trompeta, el misterio de Dios será consumado, como él lo anunció á sus siervos los profetas. ^[**10:7** Apoc 11,15; Hech 3,21] 
@@ -201,7 +195,7 @@
 
 ## La medida del templo; la preservación de los fieles durante la intensa visita de los gentiles a la ciudad santa
 # 11 
-<sup>1</sup> Y me fué dada una caña semejante á una vara, y se me dijo: Levántate, y mide el templo de Dios, y el altar, y á los que adoran en él. ^[**11:1** Ezeq 40,3; Ezeq 42,20; Zac 2,5-6] <sup>2</sup> Y echa fuera el patio que está fuera del templo, y no lo midas, porque es dado á los Gentiles; y hollarán la ciudad santa cuarenta y dos meses. ^[**11:2** Luc 21,24] 
+<sup>1</sup> Y ME fué dada una caña semejante á una vara, y se me dijo: Levántate, y mide el templo de Dios, y el altar, y á los que adoran en él. ^[**11:1** Ezeq 40,3; Ezeq 42,20; Zac 2,5-6] <sup>2</sup> Y echa fuera el patio que está fuera del templo, y no lo midas, porque es dado á los Gentiles; y hollarán la ciudad santa cuarenta y dos meses. ^[**11:2** Luc 21,24] 
  
 
 ## Efectividad, muerte y ascensión de los dos testigos de Dios
@@ -229,7 +223,7 @@
 
 ## La Mujer Sol y el Dragón; Rescate de la mujer y su hijo recién nacido
 # 12 
-<sup>1</sup> Y una grande señal apareció en el cielo: una mujer vestida del sol, y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas. <sup>2</sup> Y estando preñada, clamaba con dolores de parto, y sufría tormento por parir. 
+<sup>1</sup> Y UNA grande señal apareció en el cielo: una mujer vestida del sol, y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas. <sup>2</sup> Y estando preñada, clamaba con dolores de parto, y sufría tormento por parir. 
 
 <sup>3</sup> Y fué vista otra señal en el cielo: y he aquí un grande dragón bermejo, que tenía siete cabezas y diez cuernos, y en sus cabezas siete diademas. <sup>4</sup> Y su cola arrastraba la tercera parte de las estrellas del cielo, y las echó en tierra. Y el dragón se paró delante de la mujer que estaba para parir, á fin de devorar á su hijo cuando hubiese parido. <sup>5</sup> Y ella parió un hijo varón, el cual había de regir todas las gentes con vara de hierro: y su hijo fué arrebatado para Dios y á su trono. ^[**12:5** Sal 2,9] <sup>6</sup> Y la mujer huyó al desierto, donde tiene lugar aparejado de Dios, para que allí la mantengan mil doscientos y sesenta días. ^[**12:6** Apoc 19,2; Gén 3,1; Luc 10,18] 
  
@@ -245,7 +239,7 @@
 
 ## La primera bestia del mar, de diez cuernos y siete cabezas; Amonestación a perseverar
 # 13 
-<sup>1</sup> Y yo me paré sobre la arena del mar, y vi una bestia subir del mar, que tenía siete cabezas y diez cuernos; y sobre sus cuernos diez diademas; y sobre las cabezas de ella nombre de blasfemia. ^[**13:1** Dan 7,3-7] <sup>2</sup> Y la bestia que vi, era semejante á un leopardo, y sus pies como de oso, y su boca como boca de león. Y el dragón le dió su poder, y su trono, y grande potestad. <sup>3</sup> Y vi una de sus cabezas como herida de muerte, y la llaga de su muerte fué curada: y se maravilló toda la tierra en pos de la bestia. <sup>4</sup> Y adoraron al dragón que había dado la potestad á la bestia, y adoraron á la bestia, diciendo: ¿Quién es semejante á la bestia, y quién podrá lidiar con ella? 
+<sup>1</sup> Y YO me paré sobre la arena del mar, y vi una bestia subir del mar, que tenía siete cabezas y diez cuernos; y sobre sus cuernos diez diademas; y sobre las cabezas de ella nombre de blasfemia. ^[**13:1** Dan 7,3-7] <sup>2</sup> Y la bestia que vi, era semejante á un leopardo, y sus pies como de oso, y su boca como boca de león. Y el dragón le dió su poder, y su trono, y grande potestad. <sup>3</sup> Y vi una de sus cabezas como herida de muerte, y la llaga de su muerte fué curada: y se maravilló toda la tierra en pos de la bestia. <sup>4</sup> Y adoraron al dragón que había dado la potestad á la bestia, y adoraron á la bestia, diciendo: ¿Quién es semejante á la bestia, y quién podrá lidiar con ella? 
 
 
 <sup>5</sup> Y le fué dada boca que hablaba grandes cosas y blasfemias: y le fué dada potencia de obrar cuarenta y dos meses. <sup>6</sup> Y abrió su boca en blasfemias contra Dios, para blasfemar su nombre, y su tabernáculo, y á los que moran en el cielo. <sup>7</sup> Y le fué dado hacer guerra contra los santos, y vencerlos. También le fué dada potencia sobre toda tribu y pueblo y lengua y gente. ^[**13:7** Apoc 11,7; Dan 7,21] <sup>8</sup> Y todos los que moran en la tierra le adoraron, cuyos nombres no están escritos en el libro de la vida del Cordero, el cual fué muerto desde el principio del mundo. <sup>9</sup> Si alguno tiene oído, oiga. <sup>10</sup> El que lleva en cautividad, va en cautividad: el que á cuchillo matare, es necesario que á cuchillo sea muerto. Aquí está la paciencia y la fe de los santos. 
@@ -256,7 +250,7 @@
 
 ## El Cordero y la iglesia perfecta de los 144.000 en el monte Sion
 # 14 
-<sup>1</sup> Y miré, y he aquí, el Cordero estaba sobre el monte de Sión, y con él ciento cuarenta y cuatro mil, que tenían el nombre de su Padre escrito en sus frentes. ^[**14:1** Apoc 7,4; Apoc 3,12] <sup>2</sup> Y oí una voz del cielo como ruido de muchas aguas, y como sonido de un gran trueno: y oí una voz de tañedores de arpas que tañían con sus arpas: ^[**14:2** Apoc 1,15] <sup>3</sup> Y cantaban como un cántico nuevo delante del trono, y delante de los cuatro animales, y de los ancianos: y ninguno podía aprender el cántico sino aquellos ciento cuarenta y cuatro mil, los cuales fueron comprados de entre los de la tierra. <sup>4</sup> Estos son los que con mujeres no fueron contaminados; porque son vírgenes. Estos, los que siguen al Cordero por donde quiera que fuere. Estos fueron comprados de entre los hombres por primicias para Dios y para el Cordero. <sup>5</sup> Y en sus bocas no ha sido hallado engaño; porque ellos son sin mácula delante del trono de Dios. 
+<sup>1</sup> Y MIRÉ, y he aquí, el Cordero estaba sobre el monte de Sión, y con él ciento cuarenta y cuatro mil, que tenían el nombre de su Padre escrito en sus frentes. ^[**14:1** Apoc 7,4; Apoc 3,12] <sup>2</sup> Y oí una voz del cielo como ruido de muchas aguas, y como sonido de un gran trueno: y oí una voz de tañedores de arpas que tañían con sus arpas: ^[**14:2** Apoc 1,15] <sup>3</sup> Y cantaban como un cántico nuevo delante del trono, y delante de los cuatro animales, y de los ancianos: y ninguno podía aprender el cántico sino aquellos ciento cuarenta y cuatro mil, los cuales fueron comprados de entre los de la tierra. <sup>4</sup> Estos son los que con mujeres no fueron contaminados; porque son vírgenes. Estos, los que siguen al Cordero por donde quiera que fuere. Estos fueron comprados de entre los hombres por primicias para Dios y para el Cordero. <sup>5</sup> Y en sus bocas no ha sido hallado engaño; porque ellos son sin mácula delante del trono de Dios. 
  
 
 ## Tres llamados de ángeles proclaman un mensaje eterno de salvación para todos los pueblos, así como la caída de Babilonia y anuncian el juicio de los adoradores de la bestia
@@ -282,7 +276,7 @@
 
 ## Los siete ángeles con las siete últimas plagas; la alabanza de los vencedores en el mar de cristal
 # 15 
-<sup>1</sup> Y vi otra señal en el cielo, grande y admirable, que era siete ángeles que tenían las siete plagas postreras; porque en ellas es consumada la ira de Dios. ^[**15:1** Apoc 16,1] 
+<sup>1</sup> Y VI otra señal en el cielo, grande y admirable, que era siete ángeles que tenían las siete plagas postreras; porque en ellas es consumada la ira de Dios. ^[**15:1** Apoc 16,1] 
 
 
 <sup>2</sup> Y vi así como un mar de vidrio mezclado con fuego; y los que habían alcanzado la victoria de la bestia, y de su imagen, y de su señal, y del número de su nombre, estar sobre el mar de vidrio, teniendo las arpas de Dios. ^[**15:2** Apoc 4,6] <sup>3</sup> Y cantan el cántico de Moisés siervo de Dios, y el cántico del Cordero, diciendo: Grandes y maravillosas son tus obras, Señor Dios Todopoderoso; justos y verdaderos son tus caminos, Rey de los santos. ^[**15:3** Éxod 15,1; Éxod 15,11; Deut 32,4; Sal 145,17; Jer 10,6-7] <sup>4</sup> ¿Quién no te temerá, oh Señor, y engrandecerá tu nombre? porque tú sólo eres santo; por lo cual todas las naciones vendrán, y adorarán delante de ti, porque tus juicios son manifestados. ^[**15:4** Sal 86,9; Jer 16,19-21] 
@@ -297,7 +291,7 @@
 
 ## El derramamiento de los siete tazones de ira
 # 16 
-<sup>1</sup> Y oí una gran voz del templo, que decía á los siete ángeles: Id, y derramad las siete copas de la ira de Dios sobre la tierra. 
+<sup>1</sup> Y OÍ una gran voz del templo, que decía á los siete ángeles: Id, y derramad las siete copas de la ira de Dios sobre la tierra. 
 
 <sup>2</sup> Y fué el primero, y derramó su copa sobre la tierra; y vino una plaga mala y dañosa sobre los hombres que tenían la señal de la bestia, y sobre los que adoraban su imagen. 
 
@@ -323,7 +317,7 @@
 
 ## Descripción de la espléndida pero abominable mujer entronizada sobre la bestia
 # 17 
-<sup>1</sup> Y vino uno de los siete ángeles que tenían las siete copas, y habló conmigo, diciéndome: Ven acá, y te mostraré la condenación de la grande ramera, la cual está sentada sobre muchas aguas: ^[**17:1** Apoc 15,1] <sup>2</sup> Con la cual han fornicado los reyes de la tierra, y los que moran en la tierra se han embriagado con el vino de su fornicación. <sup>3</sup> Y me llevó en Espíritu al desierto; y vi una mujer sentada sobre una bestia bermeja llena de nombres de blasfemia y que tenía siete cabezas y diez cuernos. <sup>4</sup> Y la mujer estaba vestida de púrpura y de escarlata, y dorada con oro, y adornada de piedras preciosas y de perlas, teniendo un cáliz de oro en su mano lleno de abominaciones, y de la suciedad de su fornicación; <sup>5</sup> Y en su frente un nombre escrito: MISTERIO, BABILONIA LA GRANDE, LA MADRE DE LAS FORNICACIONES Y DE LAS ABOMINACIONES DE LA TIERRA. <sup>6</sup> Y vi la mujer embriagada de la sangre de los santos, y de la sangre de los mártires de Jesús: y cuando la vi, quedé maravillado de grande admiración. ^[**17:6** Apoc 18,24] 
+<sup>1</sup> Y VINO uno de los siete ángeles que tenían las siete copas, y habló conmigo, diciéndome: Ven acá, y te mostraré la condenación de la grande ramera, la cual está sentada sobre muchas aguas: ^[**17:1** Apoc 15,1] <sup>2</sup> Con la cual han fornicado los reyes de la tierra, y los que moran en la tierra se han embriagado con el vino de su fornicación. <sup>3</sup> Y me llevó en Espíritu al desierto; y vi una mujer sentada sobre una bestia bermeja llena de nombres de blasfemia y que tenía siete cabezas y diez cuernos. <sup>4</sup> Y la mujer estaba vestida de púrpura y de escarlata, y dorada con oro, y adornada de piedras preciosas y de perlas, teniendo un cáliz de oro en su mano lleno de abominaciones, y de la suciedad de su fornicación; <sup>5</sup> Y en su frente un nombre escrito: MISTERIO, BABILONIA LA GRANDE, LA MADRE DE LAS FORNICACIONES Y DE LAS ABOMINACIONES DE LA TIERRA. <sup>6</sup> Y vi la mujer embriagada de la sangre de los santos, y de la sangre de los mártires de Jesús: y cuando la vi, quedé maravillado de grande admiración. ^[**17:6** Apoc 18,24] 
  
 
 ## Descripción del animal de siete cabezas y diez cuernos, así como su destino pasado y futuro
@@ -334,13 +328,11 @@
 
 ## Interpretación de la imagen
 <sup>15</sup> Y él me dice: Las aguas que has visto donde la ramera se sienta, son pueblos y muchedumbres y naciones y lenguas. ^[**17:15** Is 8,7; Jer 47,2] 
-
-
 <sup>16</sup> Y los diez cuernos que viste en la bestia, éstos aborrecerán á la ramera, y la harán desolada y desnuda: y comerán sus carnes, y la quemarán con fuego: <sup>17</sup> Porque Dios ha puesto en sus corazones ejecutar lo que le plugo, y el ponerse de acuerdo, y dar su reino á la bestia, hasta que sean cumplidas las palabras de Dios. <sup>18</sup> Y la mujer que has visto, es la grande ciudad que tiene reino sobre los reyes de la tierra. 
 
 ## Anuncio del juicio que cae sobre Babilonia; La primera llamada del ángel
 # 18 
-<sup>1</sup> Y después de estas cosas vi otro ángel descender del cielo teniendo grande potencia; y la tierra fué alumbrada de su gloria. ^[**18:1** Ezeq 43,2] <sup>2</sup> Y clamó con fortaleza en alta voz, diciendo: Caída es, caída es la grande Babilonia, y es hecha habitación de demonios, y guarida de todo espíritu inmundo, y albergue de todas aves sucias y aborrecibles. ^[**18:2** Apoc 14,8; Is 34,11; Is 34,13; Jer 50,39] <sup>3</sup> Porque todas las gentes han bebido del vino del furor de su fornicación; y los reyes de la tierra han fornicado con ella, y los mercaderes de la tierra se han enriquecido de la potencia de sus deleites. ^[**18:3** Jer 51,7; Nah 3,4] 
+<sup>1</sup> Y DESPUÉS de estas cosas vi otro ángel descender del cielo teniendo grande potencia; y la tierra fué alumbrada de su gloria. ^[**18:1** Ezeq 43,2] <sup>2</sup> Y clamó con fortaleza en alta voz, diciendo: Caída es, caída es la grande Babilonia, y es hecha habitación de demonios, y guarida de todo espíritu inmundo, y albergue de todas aves sucias y aborrecibles. ^[**18:2** Apoc 14,8; Is 34,11; Is 34,13; Jer 50,39] <sup>3</sup> Porque todas las gentes han bebido del vino del furor de su fornicación; y los reyes de la tierra han fornicado con ella, y los mercaderes de la tierra se han enriquecido de la potencia de sus deleites. ^[**18:3** Jer 51,7; Nah 3,4] 
   
 
 ## Una segunda voz
@@ -361,7 +353,7 @@
 
 ## El júbilo en el cielo por la caída de Babilonia; la próxima boda del Cordero
 # 19 
-<sup>1</sup> Después de estas cosas oí una gran voz de gran compañía en el cielo, que decía: Aleluya: Salvación y honra y gloria y potencia al Señor Dios nuestro. <sup>2</sup> Porque sus juicios son verdaderos y justos; porque él ha juzgado á la grande ramera, que ha corrompido la tierra con su fornicación, y ha vengado la sangre de sus siervos de la mano de ella. 
+<sup>1</sup> DESPUÉS de estas cosas oí una gran voz de gran compañía en el cielo, que decía: Aleluya: Salvación y honra y gloria y potencia al Señor Dios nuestro. <sup>2</sup> Porque sus juicios son verdaderos y justos; porque él ha juzgado á la grande ramera, que ha corrompido la tierra con su fornicación, y ha vengado la sangre de sus siervos de la mano de ella. 
 
 <sup>3</sup> Y otra vez dijeron: Aleluya. Y su humo subió para siempre jamás. ^[**19:3** Is 34,10] <sup>4</sup> Y los veinticuatro ancianos y los cuatro animales se postraron en tierra, y adoraron á Dios que estaba sentado sobre el trono, diciendo: Amén: Aleluya. ^[**19:4** Apoc 4,4; Apoc 4,6; Apoc 5,11; Sal 106,48] 
  
@@ -381,13 +373,11 @@
      
 
 <sup>17</sup> Y vi un ángel que estaba en el sol, y clamó con gran voz, diciendo á todas las aves que volaban por medio del cielo: Venid, y congregaos á la cena del gran Dios, ^[**19:17** Ezeq 39,4; Ezeq 39,17-20] <sup>18</sup> Para que comáis carnes de reyes, y de capitanes, y carnes de fuertes, y carnes de caballos, y de los que están sentados sobre ellos; y carnes de todos, libres y siervos, de pequeños y de grandes. <sup>19</sup> Y vi la bestia, y los reyes de la tierra y sus ejércitos, congregados para hacer guerra contra el que estaba sentado sobre el caballo, y contra su ejército. ^[**19:19** Apoc 16,14; Apoc 16,16] <sup>20</sup> Y la bestia fué presa, y con ella el falso profeta que había hecho las señales delante de ella, con las cuales había engañado á los que tomaron la señal de la bestia, y habían adorado su imagen. Estos dos fueron lanzados vivos dentro de un lago de fuego ardiendo en azufre. ^[**19:20** 2Tes 2,8; Apoc 13,11-17] 
-  
-
-<sup>21</sup> Y los otros fueron muertos con la espada que salía de la boca del que estaba sentado sobre el caballo, y todas las aves fueron hartas de las carnes de ellos. 
+  <sup>21</sup> Y los otros fueron muertos con la espada que salía de la boca del que estaba sentado sobre el caballo, y todas las aves fueron hartas de las carnes de ellos. 
 
 ## Encadenamiento de Satanás; la primera resurrección y el reino milenario de paz
 # 20 
-<sup>1</sup> Y vi un ángel descender del cielo, que tenía la llave del abismo, y una grande cadena en su mano. ^[**20:1** Apoc 9,1] <sup>2</sup> Y prendió al dragón, aquella serpiente antigua, que es el Diablo y Satanás, y le ató por mil años; ^[**20:2** Apoc 12,9] <sup>3</sup> Y arrojólo al abismo, y le encerró, y selló sobre él, porque no engañe más á las naciones, hasta que mil años sean cumplidos: y después de esto es necesario que sea desatado un poco de tiempo. 
+<sup>1</sup> Y VI un ángel descender del cielo, que tenía la llave del abismo, y una grande cadena en su mano. ^[**20:1** Apoc 9,1] <sup>2</sup> Y prendió al dragón, aquella serpiente antigua, que es el Diablo y Satanás, y le ató por mil años; ^[**20:2** Apoc 12,9] <sup>3</sup> Y arrojólo al abismo, y le encerró, y selló sobre él, porque no engañe más á las naciones, hasta que mil años sean cumplidos: y después de esto es necesario que sea desatado un poco de tiempo. 
  
 
 <sup>4</sup> Y vi tronos, y se sentaron sobre ellos, y les fué dado juicio; y vi las almas de los degollados por el testimonio de Jesús, y por la palabra de Dios, y que no habían adorado la bestia, ni á su imagen, y que no recibieron la señal en sus frentes, ni en sus manos; y vivieron y reinaron con Cristo mil años. ^[**20:4** Apoc 3,21; Mat 19,28; 1Cor 6,2] <sup>5</sup> Mas los otros muertos no tornaron á vivir hasta que sean cumplidos mil años. Esta es la primera resurrección. ^[**20:5** 1Tes 4,16] <sup>6</sup> Bienaventurado y santo el que tiene parte en la primera resurrección: la segunda muerte no tiene potestad en éstos; antes serán sacerdotes de Dios y de Cristo, y reinarán con él mil años. 
@@ -399,12 +389,10 @@
 
 ## La segunda resurrección (general) y el juicio final
 <sup>11</sup> Y vi un gran trono blanco y al que estaba sentado sobre él, de delante del cual huyó la tierra y el cielo; y no fué hallado el lugar de ellos. ^[**20:11** Mat 25,31-46; 2Pe 3,7; 2Pe 3,10; 2Pe 3,12] <sup>12</sup> Y vi los muertos, grandes y pequeños, que estaban delante de Dios; y los libros fueron abiertos: y otro libro fué abierto, el cual es de la vida: y fueron juzgados los muertos por las cosas que estaban escritas en los libros, según sus obras. ^[**20:12** Juan 5,28-29] <sup>13</sup> Y el mar dió los muertos que estaban en él; y la muerte y el infierno dieron los muertos que estaban en ellos; y fué hecho juicio de cada uno según sus obras. <sup>14</sup> Y el infierno y la muerte fueron lanzados en el lago de fuego. Esta es la muerte segunda. ^[**20:14** 1Cor 15,26; 1Cor 15,55] 
-  
-
-<sup>15</sup> Y el que no fué hallado escrito en el libro de la vida, fué lanzado en el lago de fuego. 
+  <sup>15</sup> Y el que no fué hallado escrito en el libro de la vida, fué lanzado en el lago de fuego. 
 
 # 21 
-<sup>1</sup> Y vi un cielo nuevo, y una tierra nueva: porque el primer cielo y la primera tierra se fueron, y el mar ya no es. 
+<sup>1</sup> Y VI un cielo nuevo, y una tierra nueva: porque el primer cielo y la primera tierra se fueron, y el mar ya no es. 
 
 ## La nueva Jerusalén como morada de Dios con el pueblo y la promesa y el juicio de Dios
 <sup>2</sup> Y yo Juan vi la santa ciudad, Jerusalem nueva, que descendía del cielo, de Dios, dispuesta como una esposa ataviada para su marido. ^[**21:2** Heb 12,22; Gal 4,26; Apoc 19,7-8] <sup>3</sup> Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y morará con ellos; y ellos serán su pueblo, y el mismo Dios será su Dios con ellos. ^[**21:3** Ezeq 37,26-27] <sup>4</sup> Y limpiará Dios toda lágrima de los ojos de ellos; y la muerte no será más; y no habrá más llanto, ni clamor, ni dolor: porque las primeras cosas son pasadas. ^[**21:4** Apoc 7,17; Is 25,8; Is 35,10] 
@@ -420,13 +408,11 @@
 
 
 <sup>22</sup> Y no vi en ella templo; porque el Señor Dios Todopoderoso es el templo de ella, y el Cordero. <sup>23</sup> Y la ciudad no tenía necesidad de sol, ni de luna, para que resplandezcan en ella: porque la claridad de Dios la iluminó, y el Cordero era su lumbrera. ^[**21:23** Is 60,3; Is 60,5; Is 60,11; Is 60,19-20] 
-
-
 <sup>24</sup> Y las naciones que hubieren sido salvas andarán en la lumbre de ella: y los reyes de la tierra traerán su gloria y honor á ella. <sup>25</sup> Y sus puertas nunca serán cerradas de día, porque allí no habrá noche. <sup>26</sup> Y llevarán la gloria y la honra de las naciones á ella. <sup>27</sup> No entrará en ella ninguna cosa sucia, ó que hace abominación y mentira; sino solamente los que están escritos en el libro de la vida del Cordero. 
 
 ## La corriente de la vida, los árboles de la vida, la comunión plena con Dios y el reino eterno de la luz
 # 22 
-<sup>1</sup> Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. ^[**22:1** Ezeq 47,1; Ezeq 47,12; Zac 14,8; Gén 2,9] <sup>2</sup> En el medio de la plaza de ella, y de la una y de la otra parte del río, estaba el árbol de la vida, que lleva doce frutos, dando cada mes su fruto: y las hojas del árbol eran para la sanidad de las naciones. <sup>3</sup> Y no habrá más maldición; sino que el trono de Dios y del Cordero estará en ella, y sus siervos le servirán. <sup>4</sup> Y verán su cara; y su nombre estará en sus frentes. ^[**22:4** Apoc 3,12] <sup>5</sup> Y allí no habrá más noche; y no tienen necesidad de lumbre de antorcha, ni de lumbre de sol: porque el Señor Dios los alumbrará: y reinarán para siempre jamás. 
+<sup>1</sup> DESPUÉS me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. ^[**22:1** Ezeq 47,1; Ezeq 47,12; Zac 14,8; Gén 2,9] <sup>2</sup> En el medio de la plaza de ella, y de la una y de la otra parte del río, estaba el árbol de la vida, que lleva doce frutos, dando cada mes su fruto: y las hojas del árbol eran para la sanidad de las naciones. <sup>3</sup> Y no habrá más maldición; sino que el trono de Dios y del Cordero estará en ella, y sus siervos le servirán. <sup>4</sup> Y verán su cara; y su nombre estará en sus frentes. ^[**22:4** Apoc 3,12] <sup>5</sup> Y allí no habrá más noche; y no tienen necesidad de lumbre de antorcha, ni de lumbre de sol: porque el Señor Dios los alumbrará: y reinarán para siempre jamás. 
  
 
 ## Promesa de Cristo y testimonio de Juan; La adoración no se debe a la criatura, sino solo a Dios

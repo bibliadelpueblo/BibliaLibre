@@ -1,6 +1,6 @@
 ## Nombre del remitente y destinatario de la carta y bendición apostólica a la congregación
 # 1 
-\bibverse{1} Pablo, siervo de Jesucristo, llamado á ser apóstol, apartado para el evangelio de Dios, ^[**1:1** Hech 9,15; Hech 13,2; Gal 1,15] \bibverse{2} Que él había antes prometido por sus profetas en las santas Escrituras, ^[**1:2** Rom 16,25-26; Tit 1,2; Luc 1,70] \bibverse{3} Acerca de su Hijo, (que fué hecho de la simiente de David según la carne; ^[**1:3** 2Sam 7,12; Mat 22,42; Rom 9,5] \bibverse{4} El cual fué declarado Hijo de Dios con potencia, según el espíritu de santidad, por la resurrección de los muertos), de Jesucristo Señor nuestro, ^[**1:4** Hech 13,33; Mat 28,18] \bibverse{5} Por el cual recibimos la gracia y el apostolado, para la obediencia de la fe en todas las naciones en su nombre, ^[**1:5** Rom 15,18; Gal 2,7; Gal 2,9; Hech 26,16-18] \bibverse{6} Entre las cuales sois también vosotros, llamados de Jesucristo: \bibverse{7} A todos los que estáis en Roma, amados de Dios, llamados santos: Gracia y paz tengáis de Dios nuestro Padre, y del Señor Jesucristo. ^[**1:7** 1Cor 1,2; 2Cor 1,1-2; Efes 1,1; Núm 6,24-26] 
+\bibverse{1} PABLO, siervo de Jesucristo, llamado á ser apóstol, apartado para el evangelio de Dios, ^[**1:1** Hech 9,15; Hech 13,2; Gal 1,15] \bibverse{2} Que él había antes prometido por sus profetas en las santas Escrituras, ^[**1:2** Rom 16,25-26; Tit 1,2; Luc 1,70] \bibverse{3} Acerca de su Hijo, (que fué hecho de la simiente de David según la carne; ^[**1:3** 2Sam 7,12; Mat 22,42; Rom 9,5] \bibverse{4} El cual fué declarado Hijo de Dios con potencia, según el espíritu de santidad, por la resurrección de los muertos), de Jesucristo Señor nuestro, ^[**1:4** Hech 13,33; Mat 28,18] \bibverse{5} Por el cual recibimos la gracia y el apostolado, para la obediencia de la fe en todas las naciones en su nombre, ^[**1:5** Rom 15,18; Gal 2,7; Gal 2,9; Hech 26,16-18] \bibverse{6} Entre las cuales sois también vosotros, llamados de Jesucristo: \bibverse{7} A todos los que estáis en Roma, amados de Dios, llamados santos: Gracia y paz tengáis de Dios nuestro Padre, y del Señor Jesucristo. ^[**1:7** 1Cor 1,2; 2Cor 1,1-2; Efes 1,1; Núm 6,24-26] 
      
 
 ## Acción de gracias del Apóstol a Dios por el estado de fe de la comunidad y expresión del deseo de poder predicar el mensaje de salvación también en Roma
@@ -25,13 +25,11 @@
 
 
 \bibverse{26} Por esto Dios los entregó á afectos vergonzosos; pues aun sus mujeres mudaron el natural uso en el uso que es contra naturaleza: \bibverse{27} Y del mismo modo también los hombres, dejando el uso natural de las mujeres, se encendieron en sus concupiscencias los unos con los otros, cometiendo cosas nefandas hombres con hombres, y recibiendo en sí mismos la recompensa que convino á su extravío. ^[**1:27** Lev 18,22; Lev 20,13; 1Cor 6,9] 
-
-
 \bibverse{28} Y como á ellos no les pareció tener á Dios en su noticia, Dios los entregó á una mente depravada, para hacer lo que no conviene, \bibverse{29} Estando atestados de toda iniquidad, de fornicación, de malicia, de avaricia, de maldad; llenos de envidia, de homicidios, de contiendas, de engaños, de malignidades; \bibverse{30} Murmuradores, detractores, aborrecedores de Dios, injuriosos, soberbios, altivos, inventores de males, desobedientes á los padres, \bibverse{31} Necios, desleales, sin afecto natural, implacables, sin misericordia: \bibverse{32} Que, habiendo entendido el juicio de Dios que los que hacen tales cosas son dignos de muerte, no sólo las hacen, mas aun consienten á los que las hacen. 
 
 ## El juicio de la ira también está ante los judíos; juzgar a los demás no los libera del juicio de Dios
 # 2 
-\bibverse{1} Por lo cual eres inexcusable, oh hombre, cualquiera que juzgas: porque en lo que juzgas á otro, te condenas á ti mismo; porque lo mismo haces, tú que juzgas. \bibverse{2} Mas sabemos que el juicio de Dios es según verdad contra los que hacen tales cosas. \bibverse{3} ¿Y piensas esto, oh hombre, que juzgas á los que hacen tales cosas, y haces las mismas, que tú escaparás del juicio de Dios? \bibverse{4} ¿O menosprecias las riquezas de su benignidad, y paciencia, y longanimidad, ignorando que su benignidad te guía á arrepentimiento? ^[**2:4** 2Pe 3,9; 2Pe 3,15] \bibverse{5} Mas por tu dureza, y por tu corazón no arrepentido, atesoras para ti mismo ira para el día de la ira y de la manifestación del justo juicio de Dios; \bibverse{6} El cual pagará á cada uno conforme á sus obras: \bibverse{7} A los que perseverando en bien hacer, buscan gloria y honra é inmortalidad, la vida eterna. \bibverse{8} Mas á los que son contenciosos, y no obedecen á la verdad, antes obedecen á la injusticia, enojo é ira; ^[**2:8** 2Tes 1,8] \bibverse{9} Tribulación y angustia sobre toda persona humana que obra lo malo, el Judío primeramente, y también el Griego: 
+\bibverse{1} POR lo cual eres inexcusable, oh hombre, cualquiera que juzgas: porque en lo que juzgas á otro, te condenas á ti mismo; porque lo mismo haces, tú que juzgas. \bibverse{2} Mas sabemos que el juicio de Dios es según verdad contra los que hacen tales cosas. \bibverse{3} ¿Y piensas esto, oh hombre, que juzgas á los que hacen tales cosas, y haces las mismas, que tú escaparás del juicio de Dios? \bibverse{4} ¿O menosprecias las riquezas de su benignidad, y paciencia, y longanimidad, ignorando que su benignidad te guía á arrepentimiento? ^[**2:4** 2Pe 3,9; 2Pe 3,15] \bibverse{5} Mas por tu dureza, y por tu corazón no arrepentido, atesoras para ti mismo ira para el día de la ira y de la manifestación del justo juicio de Dios; \bibverse{6} El cual pagará á cada uno conforme á sus obras: \bibverse{7} A los que perseverando en bien hacer, buscan gloria y honra é inmortalidad, la vida eterna. \bibverse{8} Mas á los que son contenciosos, y no obedecen á la verdad, antes obedecen á la injusticia, enojo é ira; ^[**2:8** 2Tes 1,8] \bibverse{9} Tribulación y angustia sobre toda persona humana que obra lo malo, el Judío primeramente, y también el Griego: 
  
 
 \bibverse{10} Mas gloria y honra y paz á cualquiera que obra el bien, al Judío primeramente, y también al Griego. \bibverse{11} Porque no hay acepción de personas para con Dios. 
@@ -99,7 +97,7 @@
 
 ## La salvación futura está garantizada para los justificados a pesar de todas las tribulaciones debido al amor de Dios demostrado por la muerte sacrificial de Cristo
 # 5 
-\bibverse{1} Justificados pues por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo: ^[**5:1** Rom 3,24; Rom 3,28; Is 53,5] \bibverse{2} Por el cual también tenemos entrada por la fe á esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios. ^[**5:2** Juan 14,6; Efes 3,12] \bibverse{3} Y no sólo esto, mas aun nos gloriamos en las tribulaciones, sabiendo que la tribulación produce paciencia; ^[**5:3** Sant 1,2; Sant 1,1-3] \bibverse{4} Y la paciencia, prueba; y la prueba, esperanza; ^[**5:4** Sant 1,12] \bibverse{5} Y la esperanza no avergüenza; porque el amor de Dios está derramado en nuestros corazones por el Espíritu Santo que nos es dado. ^[**5:5** Heb 6,18-19; Sal 22,6; Sal 25,3; Sal 25,20] 
+\bibverse{1} JUSTIFICADOS pues por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo: ^[**5:1** Rom 3,24; Rom 3,28; Is 53,5] \bibverse{2} Por el cual también tenemos entrada por la fe á esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios. ^[**5:2** Juan 14,6; Efes 3,12] \bibverse{3} Y no sólo esto, mas aun nos gloriamos en las tribulaciones, sabiendo que la tribulación produce paciencia; ^[**5:3** Sant 1,2; Sant 1,1-3] \bibverse{4} Y la paciencia, prueba; y la prueba, esperanza; ^[**5:4** Sant 1,12] \bibverse{5} Y la esperanza no avergüenza; porque el amor de Dios está derramado en nuestros corazones por el Espíritu Santo que nos es dado. ^[**5:5** Heb 6,18-19; Sal 22,6; Sal 25,3; Sal 25,20] 
     
 
 \bibverse{6} Porque Cristo, cuando aun éramos flacos, á su tiempo murió por los impíos. \bibverse{7} Ciertamente apenas muere alguno por un justo: con todo podrá ser que alguno osara morir por el bueno. \bibverse{8} Mas Dios encarece su caridad para con nosotros, porque siendo aún pecadores, Cristo murió por nosotros. ^[**5:8** Juan 3,16; 1Jn 4,10] 
@@ -160,7 +158,7 @@
 
 ## El cristiano está bajo la ley del Espíritu
 # 8 
-\bibverse{1} Ahora pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme á la carne, mas conforme al espíritu. ^[**8:1** Rom 8,33-34] \bibverse{2} Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte. \bibverse{3} Porque lo que era imposible á la ley, por cuanto era débil por la carne, Dios enviando á su Hijo en semejanza de carne de pecado, y á causa del pecado, condenó al pecado en la carne; ^[**8:3** Hech 13,38; Hech 15,10; Heb 2,17] \bibverse{4} Para que la justicia de la ley fuese cumplida en nosotros, que no andamos conforme á la carne, mas conforme al espíritu. ^[**8:4** Gal 5,16; Gal 5,25] 
+\bibverse{1} AHORA pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme á la carne, mas conforme al espíritu. ^[**8:1** Rom 8,33-34] \bibverse{2} Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte. \bibverse{3} Porque lo que era imposible á la ley, por cuanto era débil por la carne, Dios enviando á su Hijo en semejanza de carne de pecado, y á causa del pecado, condenó al pecado en la carne; ^[**8:3** Hech 13,38; Hech 15,10; Heb 2,17] \bibverse{4} Para que la justicia de la ley fuese cumplida en nosotros, que no andamos conforme á la carne, mas conforme al espíritu. ^[**8:4** Gal 5,16; Gal 5,25] 
   
 
 ## El contraste entre los que sirven a Dios en el Espíritu y los que viven por los instintos de la carne
@@ -192,13 +190,11 @@
   
 
 \bibverse{35} ¿Quién nos apartará del amor de Cristo? tribulación? ó angustia? ó persecución? ó hambre? ó desnudez? ó peligro? ó cuchillo? \bibverse{36} Como está escrito: Por causa de ti somos muertos todo el tiempo: somos estimados como ovejas de matadero. \bibverse{37} Antes, en todas estas cosas hacemos más que vencer por medio de aquel que nos amó. ^[**8:37** 1Jn 5,4] \bibverse{38} Por lo cual estoy cierto que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, ^[**8:38** Efes 6,12] 
- 
-
-\bibverse{39} Ni lo alto, ni lo bajo, ni ninguna criatura nos podrá apartar del amor de Dios, que es en Cristo Jesús Señor nuestro. 
+ \bibverse{39} Ni lo alto, ni lo bajo, ni ninguna criatura nos podrá apartar del amor de Dios, que es en Cristo Jesús Señor nuestro. 
 
 ## Introducción: El profundo dolor del apóstol por la exclusión temporal de su pueblo de la salvación
 # 9 
-\bibverse{1} Verdad digo en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo, \bibverse{2} Que tengo gran tristeza y continuo dolor en mi corazón. \bibverse{3} Porque deseara yo mismo ser apartado de Cristo por mis hermanos, los que son mis parientes según la carne; ^[**9:3** Éxod 32,32] \bibverse{4} Que son israelitas, de los cuales es la adopción, y la gloria, y el pacto, y la data de la ley, y el culto, y las promesas; ^[**9:4** Éxod 4,22; Deut 7,6; Gén 17,7; Éxod 20,-1; Éxod 40,34] \bibverse{5} Cuyos son los padres, y de los cuales es Cristo según la carne, el cual es Dios sobre todas las cosas, bendito por los siglos. Amén. ^[**9:5** Mat 1,-1; Luc 3,23-34; Juan 1,1; Rom 1,3] 
+\bibverse{1} VERDAD digo en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo, \bibverse{2} Que tengo gran tristeza y continuo dolor en mi corazón. \bibverse{3} Porque deseara yo mismo ser apartado de Cristo por mis hermanos, los que son mis parientes según la carne; ^[**9:3** Éxod 32,32] \bibverse{4} Que son israelitas, de los cuales es la adopción, y la gloria, y el pacto, y la data de la ley, y el culto, y las promesas; ^[**9:4** Éxod 4,22; Deut 7,6; Gén 17,7; Éxod 20,-1; Éxod 40,34] \bibverse{5} Cuyos son los padres, y de los cuales es Cristo según la carne, el cual es Dios sobre todas las cosas, bendito por los siglos. Amén. ^[**9:5** Mat 1,-1; Luc 3,23-34; Juan 1,1; Rom 1,3] 
   
 
 ## Las promesas de Dios a Israel son inquebrantables, pero no se aplican a todo el cuerpo, sino solo a los descendientes espirituales de Abraham
@@ -221,12 +217,10 @@
 \bibverse{30} ¿Pues qué diremos? Que los Gentiles que no seguían justicia, han alcanzado la justicia, es á saber, la justicia que es por la fe; 
 
 \bibverse{31} Mas Israel que seguía la ley de justicia, no ha llegado á la ley de justicia. ^[**9:31** Rom 10,2-3] 
-
-
 \bibverse{32} ¿Por qué? Porque la seguían no por fe, mas como por las obras de la ley: por lo cual tropezaron en la piedra de tropiezo, \bibverse{33} Como está escrito: He aquí pongo en Sión piedra de tropiezo, y piedra de caída; y aquel que creyere en ella, no será avergonzado. 
 
 # 10 
-\bibverse{1} Hermanos, ciertamente la voluntad de mi corazón y mi oración á Dios sobre Israel, es para salud. \bibverse{2} Porque yo les doy testimonio que tienen celo de Dios, mas no conforme á ciencia. \bibverse{3} Porque ignorando la justicia de Dios, y procurando establecer la suya propia, no se han sujetado á la justicia de Dios. 
+\bibverse{1} HERMANOS, ciertamente la voluntad de mi corazón y mi oración á Dios sobre Israel, es para salud. \bibverse{2} Porque yo les doy testimonio que tienen celo de Dios, mas no conforme á ciencia. \bibverse{3} Porque ignorando la justicia de Dios, y procurando establecer la suya propia, no se han sujetado á la justicia de Dios. 
 
 ## La falta de Israel es aún más grave ya que Dios no ha descuidado nada para llevar a Israel a la justicia de la fe desde la época de Moisés
 \bibverse{4} Porque el fin de la ley es Cristo, para justicia á todo aquel que cree. ^[**10:4** Mat 5,17; Heb 8,13; Juan 3,18; Gal 3,24-25] 
@@ -249,7 +243,7 @@
 
 ## La mayor parte de los judíos es terca y rechazada por Dios, pero incluso ahora una pequeña parte está destinada a la salvación a través de la gracia de Dios
 # 11 
-\bibverse{1} Digo pues: ¿Ha desechado Dios á su pueblo? En ninguna manera. Porque también yo soy Israelita, de la simiente de Abraham, de la tribu de Benjamín. ^[**11:1** Sal 94,14; Jer 31,37; Fil 3,5] \bibverse{2} No ha desechado Dios á su pueblo, al cual antes conoció. ¿O no sabéis qué dice de Elías la Escritura? cómo hablando con Dios contra Israel dice: \bibverse{3} Señor, á tus profetas han muerto, y tus altares han derruído; y yo he quedado solo, y procuran matarme. \bibverse{4} Mas ¿qué le dice la divina respuesta? He dejado para mí siete mil hombres, que no han doblado la rodilla delante de Baal. \bibverse{5} Así también, aun en este tiempo han quedado reliquias por la elección de gracia. \bibverse{6} Y si por gracia, luego no por las obras; de otra manera la gracia ya no es gracia. Y si por las obras, ya no es gracia; de otra manera la obra ya no es obra. 
+\bibverse{1} DIGO pues: ¿Ha desechado Dios á su pueblo? En ninguna manera. Porque también yo soy Israelita, de la simiente de Abraham, de la tribu de Benjamín. ^[**11:1** Sal 94,14; Jer 31,37; Fil 3,5] \bibverse{2} No ha desechado Dios á su pueblo, al cual antes conoció. ¿O no sabéis qué dice de Elías la Escritura? cómo hablando con Dios contra Israel dice: \bibverse{3} Señor, á tus profetas han muerto, y tus altares han derruído; y yo he quedado solo, y procuran matarme. \bibverse{4} Mas ¿qué le dice la divina respuesta? He dejado para mí siete mil hombres, que no han doblado la rodilla delante de Baal. \bibverse{5} Así también, aun en este tiempo han quedado reliquias por la elección de gracia. \bibverse{6} Y si por gracia, luego no por las obras; de otra manera la gracia ya no es gracia. Y si por las obras, ya no es gracia; de otra manera la obra ya no es obra. 
 
 
 \bibverse{7} ¿Qué pues? Lo que buscaba Israel aquello no ha alcanzado; mas la elección lo ha alcanzado: y los demás fueron endurecidos; ^[**11:7** Rom 9,31] \bibverse{8} Como está escrito: Dióles Dios espíritu de remordimiento, ojos con que no vean, y oídos con que no oigan, hasta el día de hoy. ^[**11:8** Deut 29,3] 
@@ -280,7 +274,7 @@
 
 ## Advertencia general como entrada: santificación de la vida personal a través de la entrega completa a Dios
 # 12 
-\bibverse{1} Así que, hermanos, os ruego por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable á Dios, que es vuestro racional culto. ^[**12:1** Rom 6,13] \bibverse{2} Y no os conforméis á este siglo; mas reformaos por la renovación de vuestro entendimiento, para que experimentéis cuál sea la buena voluntad de Dios, agradable y perfecta. ^[**12:2** Efes 4,23; Efes 5,10; Efes 5,17] 
+\bibverse{1} ASÍ que, hermanos, os ruego por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable á Dios, que es vuestro racional culto. ^[**12:1** Rom 6,13] \bibverse{2} Y no os conforméis á este siglo; mas reformaos por la renovación de vuestro entendimiento, para que experimentéis cuál sea la buena voluntad de Dios, agradable y perfecta. ^[**12:2** Efes 4,23; Efes 5,10; Efes 5,17] 
  
 
 ## Exhortación a la humildad del individuo y al uso fiel de los dones recibidos al servicio de la comunidad
@@ -298,7 +292,7 @@
 
 ## Exhortación a obedecer a las autoridades designadas por Dios
 # 13 
-\bibverse{1} Toda alma se someta á las potestades superiores; porque no hay potestad sino de Dios; y las que son, de Dios son ordenadas. ^[**13:1** Tit 3,1; Juan 19,11; Prov 8,15] \bibverse{2} Así que, el que se opone á la potestad, á la ordenación de Dios resiste: y los que resisten, ellos mismos ganan condenación para sí. \bibverse{3} Porque los magistrados no son para temor al que bien hace, sino al malo. ¿Quieres pues no temer la potestad? haz lo bueno, y tendrás alabanza de ella; \bibverse{4} Porque es ministro de Dios para tu bien. Mas si hicieres lo malo, teme: porque no en vano lleva el cuchillo; porque es ministro de Dios, vengador para castigo al que hace lo malo. ^[**13:4** 2Cró 19,6-7] \bibverse{5} Por lo cual es necesario que le estéis sujetos, no solamente por la ira, mas aun por la conciencia. \bibverse{6} Porque por esto pagáis también los tributos; porque son ministros de Dios que sirven á esto mismo. 
+\bibverse{1} TODA alma se someta á las potestades superiores; porque no hay potestad sino de Dios; y las que son, de Dios son ordenadas. ^[**13:1** Tit 3,1; Juan 19,11; Prov 8,15] \bibverse{2} Así que, el que se opone á la potestad, á la ordenación de Dios resiste: y los que resisten, ellos mismos ganan condenación para sí. \bibverse{3} Porque los magistrados no son para temor al que bien hace, sino al malo. ¿Quieres pues no temer la potestad? haz lo bueno, y tendrás alabanza de ella; \bibverse{4} Porque es ministro de Dios para tu bien. Mas si hicieres lo malo, teme: porque no en vano lleva el cuchillo; porque es ministro de Dios, vengador para castigo al que hace lo malo. ^[**13:4** 2Cró 19,6-7] \bibverse{5} Por lo cual es necesario que le estéis sujetos, no solamente por la ira, mas aun por la conciencia. \bibverse{6} Porque por esto pagáis también los tributos; porque son ministros de Dios que sirven á esto mismo. 
  
 
 ## Exhortaciones al cumplimiento integral de los deberes, especialmente a la caridad como cumplimiento de la ley
@@ -313,7 +307,7 @@
 
 ## Juicio sobre el tema que conmueve a la comunidad y advierte contra la condena sin amor del modo de vida externo del prójimo
 # 14 
-\bibverse{1} Recibid al flaco en la fe, pero no para contiendas de disputas. ^[**14:1** Rom 15,1; 1Cor 8,9] \bibverse{2} Porque uno cree que se ha de comer de todas cosas: otro que es débil, come legumbres. ^[**14:2** Gén 1,29; Gén 9,3] \bibverse{3} El que come, no menosprecie al que no come: y el que no come, no juzgue al que come; porque Dios le ha levantado. ^[**14:3** Col 2,16] \bibverse{4} ¿Tú quién eres que juzgas al siervo ajeno? para su señor está en pie, ó cae: mas se afirmará; que poderoso es el Señor para afirmarle. ^[**14:4** Mat 7,1; Sant 4,11; Sant 1,4-12] 
+\bibverse{1} RECIBID al flaco en la fe, pero no para contiendas de disputas. ^[**14:1** Rom 15,1; 1Cor 8,9] \bibverse{2} Porque uno cree que se ha de comer de todas cosas: otro que es débil, come legumbres. ^[**14:2** Gén 1,29; Gén 9,3] \bibverse{3} El que come, no menosprecie al que no come: y el que no come, no juzgue al que come; porque Dios le ha levantado. ^[**14:3** Col 2,16] \bibverse{4} ¿Tú quién eres que juzgas al siervo ajeno? para su señor está en pie, ó cae: mas se afirmará; que poderoso es el Señor para afirmarle. ^[**14:4** Mat 7,1; Sant 4,11; Sant 1,4-12] 
    
 
 \bibverse{5} Uno hace diferencia entre día y día; otro juzga iguales todos los días. Cada uno esté asegurado en su ánimo. ^[**14:5** Gal 4,10] \bibverse{6} El que hace caso del día, hácelo para el Señor: y el que no hace caso del día, no lo hace para el Señor. El que come, come para el Señor, porque da gracias á Dios; y el que no come, no come para el Señor, y da gracias á Dios. \bibverse{7} Porque ninguno de nosotros vive para sí, y ninguno muere para sí. \bibverse{8} Que si vivimos, para el Señor vivimos; y si morimos, para el Señor morimos. Así que, ó que vivamos, ó que muramos, del Señor somos. \bibverse{9} Porque Cristo para esto murió, y resucitó, y volvió á vivir, para ser Señor así de los muertos como de los que viven. 
@@ -330,13 +324,11 @@
    
 
 \bibverse{22} ¿Tienes tú fe? Tenla para contigo delante de Dios. Bienaventurado el que no se condena á sí mismo con lo que aprueba. ^[**14:22** Rom 14,2; 1Cor 10,25-27] 
-
-
 \bibverse{23} Mas el que hace diferencia, si comiere, es condenado, porque no comió por fe: y todo lo que no es de fe, es pecado. 
 
 ## Exhortación a ser pacientes con los débiles y a la unidad de los cristianos basada en el ejemplo de Cristo
 # 15 
-\bibverse{1} Así que, los que somos más firmes debemos sobrellevar las flaquezas de los flacos, y no agradarnos á nosotros mismos. \bibverse{2} Cada uno de nosotros agrade á su prójimo en bien, á edificación. ^[**15:2** 1Cor 9,19; 1Cor 10,24; 1Cor 10,33] \bibverse{3} Porque Cristo no se agradó á sí mismo; antes bien, como está escrito: Los vituperios de los que te vituperan, cayeron sobre mí. \bibverse{4} Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia, y por la consolación de las Escrituras, tengamos esperanza. \bibverse{5} Mas el Dios de la paciencia y de la consolación os dé que entre vosotros seáis unánimes según Cristo Jesús; ^[**15:5** Fil 2,2] \bibverse{6} Para que concordes, á una boca glorifiquéis al Dios y Padre de nuestro Señor Jesucristo. 
+\bibverse{1} ASÍ que, los que somos más firmes debemos sobrellevar las flaquezas de los flacos, y no agradarnos á nosotros mismos. \bibverse{2} Cada uno de nosotros agrade á su prójimo en bien, á edificación. ^[**15:2** 1Cor 9,19; 1Cor 10,24; 1Cor 10,33] \bibverse{3} Porque Cristo no se agradó á sí mismo; antes bien, como está escrito: Los vituperios de los que te vituperan, cayeron sobre mí. \bibverse{4} Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia, y por la consolación de las Escrituras, tengamos esperanza. \bibverse{5} Mas el Dios de la paciencia y de la consolación os dé que entre vosotros seáis unánimes según Cristo Jesús; ^[**15:5** Fil 2,2] \bibverse{6} Para que concordes, á una boca glorifiquéis al Dios y Padre de nuestro Señor Jesucristo. 
  
 
 ## Un recordatorio para que ambas partes de la comunidad estén unidas y tengan una fe gozosa
@@ -361,13 +353,11 @@
 
 ## La amonestación del apóstol a la iglesia de que interceda por él
 \bibverse{30} Ruégoos empero, hermanos, por el Señor nuestro Jesucristo, y por la caridad del Espíritu, que me ayudéis con oraciones por mí á Dios, \bibverse{31} Que sea librado de los rebeldes que están en Judea, y que la ofrenda de mi servicio á los santos en Jerusalem sea acepta; ^[**15:31** 1Tes 2,15] 
-
-
 \bibverse{32} Para que con gozo llegue á vosotros por la voluntad de Dios, y que sea recreado juntamente con vosotros. \bibverse{33} Y el Dios de paz sea con todos vosotros. Amén. 
 
 ## Recomendación de Phöbe, portador de la carta; Saludos del Apóstol a los hermanos en Roma
 # 16 
-\bibverse{1} Encomiéndoos empero á Febe nuestra hermana, la cual es diaconisa de la iglesia que está en Cencreas: \bibverse{2} Que la recibáis en el Señor, como es digno á los santos, y que la ayudéis en cualquiera cosa en que os hubiere menester: porque ella ha ayudado á muchos, y á mí mismo. 
+\bibverse{1} ENCOMIÉNDOOS empero á Febe nuestra hermana, la cual es diaconisa de la iglesia que está en Cencreas: \bibverse{2} Que la recibáis en el Señor, como es digno á los santos, y que la ayudéis en cualquiera cosa en que os hubiere menester: porque ella ha ayudado á muchos, y á mí mismo. 
 
 \bibverse{3} Saludad á Priscila y á Aquila, mis coadjutores en Cristo Jesús; \bibverse{4} (Que pusieron sus cuellos por mi vida: á los cuales no doy gracias yo solo, mas aun todas las iglesias de los Gentiles;) \bibverse{5} Asimismo á la iglesia de su casa. Saludad á Epeneto, amado mío, que es las primicias de Acaya en Cristo. \bibverse{6} Saludad á María, la cual ha trabajado mucho con vosotros. \bibverse{7} Saludad á Andrónico y á Junia, mis parientes, y mis compañeros en la cautividad, los que son insignes entre los apóstoles; los cuales también fueron antes de mí en Cristo. \bibverse{8} Saludad á Amplias, amado mío en el Señor. \bibverse{9} Saludad á Urbano, nuestro ayudador en Cristo Jesús, y á Stachîs, amado mío. \bibverse{10} Saludad á Apeles, probado en Cristo. Saludad á los que son de Aristóbulo. \bibverse{11} Saludad á Herodión, mi pariente. Saludad á los que son de la casa de Narciso, los que están en el Señor. \bibverse{12} Saludad á Trifena y á Trifosa, las cuales trabajan en el Señor. Saludad á Pérsida amada, la cual ha trabajado mucho en el Señor. \bibverse{13} Saludad á Rufo, escogido en el Señor, y á su madre y mía. ^[**16:13** Mar 15,21] \bibverse{14} Saludad á Asíncrito, y á Flegonte, á Hermas, á Patrobas, á Hermes, y á los hermanos que están con ellos. \bibverse{15} Saludad á Filólogo y á Julia, á Nereo y á su hermana, y á Olimpas, y á todos los santos que están con ellos. \bibverse{16} Saludaos los unos á los otros con ósculo santo. Os saludan todas las iglesias de Cristo. 
 

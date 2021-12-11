@@ -1,6 +1,6 @@
 ## Anuncio del juicio divino sobre las naciones
 # 1 
-\bibverse{1} Las palabras de Amós, que fué entre los pastores de Tecoa, las cuales vió acerca de Israel en días de Uzzía rey de Judá, y en días de Jeroboam hijo de Joas rey de Israel, dos años antes del terremoto. ^[**1:1** Am 7,14; 2Re 15,1; 2Re 14,23; Zac 14,5] \bibverse{2} Y dijo: Jehová bramará desde Sión, y dará su voz desde Jerusalem; y las estancias de los pastores se enlutarán, y secaráse la cumbre del Carmelo. ^[**1:2** Jer 25,30; Jl 4,16] 
+\bibverse{1} LAS palabras de Amós, que fué entre los pastores de Tecoa, las cuales vió acerca de Israel en días de Uzzía rey de Judá, y en días de Jeroboam hijo de Joas rey de Israel, dos años antes del terremoto. ^[**1:1** Am 7,14; 2Re 15,1; 2Re 14,23; Zac 14,5] \bibverse{2} Y dijo: Jehová bramará desde Sión, y dará su voz desde Jerusalem; y las estancias de los pastores se enlutarán, y secaráse la cumbre del Carmelo. ^[**1:2** Jer 25,30; Jl 4,16] 
  
 
 ## Amenaza contra los sirios de Damasco
@@ -20,13 +20,11 @@
 
 ## Amenaza contra los amonitas
 \bibverse{13} Así ha dicho Jehová: Por tres pecados de los hijos de Ammón, y por el cuarto, no desviaré su castigo; porque abrieron las preñadas de Galaad, para ensanchar su término. ^[**1:13** Jer 49,1-6] 
-
-
 \bibverse{14} Y encenderé fuego en el muro de Rabba, y consumirá sus palacios con estruendo en día de batalla, con tempestad en día tempestuoso: \bibverse{15} Y su rey irá en cautiverio, él y sus príncipes todos, dice Jehová. 
 
 ## Amenaza contra los moabitas
 # 2 
-\bibverse{1} Así ha dicho Jehová: Por tres pecados de Moab, y por el cuarto, no desviaré su castigo; porque quemó los huesos del rey de Idumea hasta tornarlos en cal. \bibverse{2} Y meteré fuego en Moab, y consumirá los palacios de Chêrioth: y morirá Moab en alboroto, en estrépito y sonido de trompeta. \bibverse{3} Y quitaré el juez de en medio de él, y mataré con él á todos sus príncipes, dice Jehová. ^[**2:3** Núm 24,17] 
+\bibverse{1} ASÍ ha dicho Jehová: Por tres pecados de Moab, y por el cuarto, no desviaré su castigo; porque quemó los huesos del rey de Idumea hasta tornarlos en cal. \bibverse{2} Y meteré fuego en Moab, y consumirá los palacios de Chêrioth: y morirá Moab en alboroto, en estrépito y sonido de trompeta. \bibverse{3} Y quitaré el juez de en medio de él, y mataré con él á todos sus príncipes, dice Jehová. ^[**2:3** Núm 24,17] 
 
 
 ## Amenaza contra Judá
@@ -34,13 +32,11 @@
 
 ## Amenaza contra Israel
 \bibverse{6} Así ha dicho Jehová: Por tres pecados de Israel, y por el cuarto, no desviaré su castigo; porque vendieron por dinero al justo, y al pobre por un par de zapatos: \bibverse{7} Que anhelan porque haya polvo de tierra sobre la cabeza de los pobres, y tuercen el camino de los humildes: y el hombre y su padre entraron á la misma moza, profanando mi santo nombre. ^[**2:7** Am 8,4] \bibverse{8} Y sobre las ropas empeñadas se acuestan junto á cualquier altar; y el vino de los penados beben en la casa de sus dioses. ^[**2:8** Éxod 22,25] \bibverse{9} Y yo destruí delante de ellos al Amorrheo, cuya altura era como la altura de los cedros, y fuerte como un alcornoque; y destruí su fruto arriba, sus raíces abajo. ^[**2:9** Núm 21,21-28] \bibverse{10} Y yo os hice á vosotros subir de la tierra de Egipto, y os traje por el desierto cuarenta años, para que poseyeseis la tierra del Amorrheo. \bibverse{11} Y levanté de vuestros hijos para profetas, y de vuestros mancebos para que fuesen Nazareos. ¿No es esto así, dice Jehová, hijos de Israel? \bibverse{12} Mas vosotros disteis de beber vino á los Nazareos; y á los profetas mandasteis, diciendo: No profeticéis. ^[**2:12** Am 7,13; Am 1,7-16; Jer 11,21] 
-   
-
-\bibverse{13} Pues he aquí, yo os apretaré en vuestro lugar, como se aprieta el carro lleno de haces; \bibverse{14} Y la huída perecerá del ligero, y el fuerte no esforzará su fuerza, ni el valiente librará su vida; \bibverse{15} Y el que toma el arco no resistirá, ni escapará el ligero de pies, ni el que cabalga en caballo salvará su vida. \bibverse{16} El esforzado entre esforzados huirá desnudo aquel día, dice Jehová. 
+   \bibverse{13} Pues he aquí, yo os apretaré en vuestro lugar, como se aprieta el carro lleno de haces; \bibverse{14} Y la huída perecerá del ligero, y el fuerte no esforzará su fuerza, ni el valiente librará su vida; \bibverse{15} Y el que toma el arco no resistirá, ni escapará el ligero de pies, ni el que cabalga en caballo salvará su vida. \bibverse{16} El esforzado entre esforzados huirá desnudo aquel día, dice Jehová. 
 
 ## La responsabilidad de Israel como resultado de su elección al pueblo de Dios
 # 3 
-\bibverse{1} Oid esta palabra que ha hablado Jehová contra vosotros, hijos de Israel, contra toda la familia que hice subir de la tierra de Egipto. Dice así: \bibverse{2} A vosotros solamente he conocido de todas las familias de la tierra; por tanto visitaré contra vosotros todas vuestras maldades. 
+\bibverse{1} OID esta palabra que ha hablado Jehová contra vosotros, hijos de Israel, contra toda la familia que hice subir de la tierra de Egipto. Dice así: \bibverse{2} A vosotros solamente he conocido de todas las familias de la tierra; por tanto visitaré contra vosotros todas vuestras maldades. 
 
 ## Amós habla como profeta por razones de peso
 \bibverse{3} ¿Andarán dos juntos, si no estuvieren de concierto? \bibverse{4} ¿Bramará el león en el monte sin hacer presa? ¿dará el leoncillo su bramido desde su morada, si no prendiere? \bibverse{5} ¿Caerá el ave en el lazo en la tierra, sin haber armador? ¿alzaráse el lazo de la tierra, si no se ha prendido algo? \bibverse{6} ¿Tocaráse la trompeta en la ciudad, y no se alborotará el pueblo? ¿habrá algún mal en la ciudad, el cual Jehová no haya hecho? ^[**3:6** Is 45,7; Lam 3,37] \bibverse{7} Porque no hará nada el Señor Jehová, sin que revele su secreto á sus siervos los profetas. \bibverse{8} Bramando el león, ¿quién no temerá? hablando el Señor Jehová, ¿quién no profetizará? 
@@ -57,7 +53,7 @@
 
 ## Amenaza contra las exuberantes mujeres de Samaria
 # 4 
-\bibverse{1} Oid esta palabra, vacas de Basán, que estáis en el monte de Samaria, que oprimís los pobres, que quebrantáis los menesterosos, que decís á sus señores: Traed, y beberemos. \bibverse{2} El Señor Jehová juró por su santidad: He aquí, vienen días sobre vosotros en que os llevará en anzuelos, y á vuestros descendientes en barquillos de pescador. \bibverse{3} Y saldrán por los portillos la una en pos de la otra, y seréis echadas del palacio, dice Jehová. 
+\bibverse{1} OID esta palabra, vacas de Basán, que estáis en el monte de Samaria, que oprimís los pobres, que quebrantáis los menesterosos, que decís á sus señores: Traed, y beberemos. \bibverse{2} El Señor Jehová juró por su santidad: He aquí, vienen días sobre vosotros en que os llevará en anzuelos, y á vuestros descendientes en barquillos de pescador. \bibverse{3} Y saldrán por los portillos la una en pos de la otra, y seréis echadas del palacio, dice Jehová. 
 
 ## Contra el culto exterior e indignante
 \bibverse{4} Id á Beth-el, y prevaricad; en Gilgal aumentad la rebelión, y traed de mañana vuestros sacrificios, y vuestros diezmos cada tres años; ^[**4:4** Deut 14,28] \bibverse{5} Y ofreced sacrificio de alabanza con leudo, y pregonad, publicad voluntarias ofrendas; pues que así lo queréis, hijos de Israel, dice el Señor Jehová. ^[**4:5** Lev 2,11] 
@@ -80,7 +76,7 @@
 
 ## Amós inicia el lamento por los muertos contra Israel
 # 5 
-\bibverse{1} Oid esta palabra, porque yo levanto endecha sobre vosotros, casa de Israel. \bibverse{2} Cayó la virgen de Israel, no más podrá levantarse; dejada fué sobre su tierra, no hay quien la levante. 
+\bibverse{1} OID esta palabra, porque yo levanto endecha sobre vosotros, casa de Israel. \bibverse{2} Cayó la virgen de Israel, no más podrá levantarse; dejada fué sobre su tierra, no hay quien la levante. 
 
 \bibverse{3} Porque así ha dicho el Señor Jehová: La ciudad que sacaba mil, quedará con ciento; y la que sacaba ciento, quedará con diez, en la casa de Israel. 
 
@@ -116,13 +112,11 @@
 \bibverse{8} El Señor Jehová juró por su alma, Jehová Dios de los ejércitos ha dicho: Tengo en abominación la grandeza de Jacob, y aborrezco sus palacios: y la ciudad y su plenitud entregaré al enemigo. \bibverse{9} Y acontecerá que si diez hombres quedaren en una casa, morirán. 
 
 \bibverse{10} Y su tío tomará á cada uno, y quemarále para sacar los huesos de casa; y dirá al que estará en los rincones de la casa: ¿Hay aún alguno contigo? Y dirá: No. Y dirá aquél: Calla, que no podemos hacer mención del nombre de Jehová. \bibverse{11} Porque he aquí, Jehová mandará, y herirá con hendiduras la casa mayor, y la casa menor con aberturas. \bibverse{12} ¿Correrán los caballos por las peñas? ¿ararán en ellas con vacas? ¿por qué habéis vosotros tornado el juicio en veneno, y el fruto de justicia en ajenjo? ^[**6:12** Am 5,7] 
-
-
 \bibverse{13} Vosotros que os alegráis en nada, que decís: ¿No nos hemos adquirido potencia con nuestra fortaleza? \bibverse{14} Pues he aquí, levantaré yo sobre vosotros, oh casa de Israel, dice Jehová Dios de los ejércitos, gente que os oprimirá desde la entrada de Hamath hasta el arroyo del desierto. 
 
 ## Las dos primeras visionas amenazantes (langostas y sequía)
 # 7 
-\bibverse{1} Así me ha mostrado el Señor Jehová: y he aquí, él criaba langostas al principio que comenzaba á crecer el heno tardío; y he aquí, era el heno tardío después de las siegas del rey. \bibverse{2} Y acaeció que como acabó de comer la hierba de la tierra, yo dije: Señor Jehová, perdona ahora; ¿quién levantará á Jacob? porque es pequeño. 
+\bibverse{1} ASÍ me ha mostrado el Señor Jehová: y he aquí, él criaba langostas al principio que comenzaba á crecer el heno tardío; y he aquí, era el heno tardío después de las siegas del rey. \bibverse{2} Y acaeció que como acabó de comer la hierba de la tierra, yo dije: Señor Jehová, perdona ahora; ¿quién levantará á Jacob? porque es pequeño. 
 
 \bibverse{3} Arrepintióse Jehová de esto: No será, dijo Jehová. 
 
@@ -142,13 +136,11 @@
 \bibverse{12} Y Amasías dijo á Amós: Vidente, vete, y huye á tierra de Judá, y come allá tu pan, y profetiza allí: \bibverse{13} Y no profetices más en Beth-el, porque es santuario del rey, y cabecera del reino. 
 
 \bibverse{14} Entonces respondió Amós, y dijo á Amasías: No soy profeta, ni soy hijo de profeta, sino que soy boyero, y cogedor de cabrahigos: ^[**7:14** Am 1,1] 
-
-
 \bibverse{15} Y Jehová me tomó de tras el ganado, y díjome Jehová: Ve, y profetiza á mi pueblo Israel. \bibverse{16} Ahora pues, oye palabra de Jehová. Tú dices: No profetices contra Israel, ni hables contra la casa de Isaac: \bibverse{17} Por tanto, así ha dicho Jehová: Tu mujer fornicará en la ciudad, y tus hijos y tus hijas caerán á cuchillo, y tu tierra será partida por suertes; y tú morirás en tierra inmunda, é Israel será traspasado de su tierra. 
 
 ## La visión de la canasta de frutas maduras
 # 8 
-\bibverse{1} Así me ha mostrado Jehová: y he aquí un canastillo de fruta de verano. 
+\bibverse{1} ASÍ me ha mostrado Jehová: y he aquí un canastillo de fruta de verano. 
 
 \bibverse{2} Y dijo: ¿Qué ves, Amós? Y dije: Un canastillo de fruta de verano. Y díjome Jehová: Venido ha el fin sobre mi pueblo Israel; no le pasaré más. ^[**8:2** Am 7,8] 
 
@@ -165,13 +157,11 @@
  
 
 \bibverse{11} He aquí vienen días, dice el Señor Jehová, en los cuales enviaré hambre á la tierra, no hambre de pan, ni sed de agua, sino de oir palabra de Jehová. \bibverse{12} E irán errantes de mar á mar: desde el norte hasta el oriente discurrirán buscando palabra de Jehová, y no la hallarán. ^[**8:12** Miq 3,7] 
-
-
 \bibverse{13} En aquel tiempo las doncellas hermosas y los mancebos desmayarán de sed. \bibverse{14} Los que juran por el pecado de Samaria, y dicen, Vive tu Dios de Dan: y, Vive el camino de Beer-seba: caerán, y nunca más se levantarán. 
 
 ## El Señor en el altar, con respecto a la destrucción del santuario en Betel y la ineludibilidad del juicio venidero
 # 9 
-\bibverse{1} Vi al Señor que estaba sobre el altar, y dijo: Hiere el umbral, y estremézcanse las puertas: y córtales en piezas la cabeza de todos; y el postrero de ellos mataré á cuchillo: no habrá de ellos quien se fugue, ni quien escape. \bibverse{2} Aunque cavasen hasta el infierno, de allá los tomará mi mano; y si subieren hasta el cielo, de allá los haré descender. \bibverse{3} Y si se escondieren en la cumbre del Carmelo, allí los buscaré y los tomaré; y aunque se escondieren de delante de mis ojos en el profundo de la mar, allí mandaré á la culebra, y morderálos. \bibverse{4} Y si fueren en cautiverio, delante de sus enemigos, allí mandaré al cuchillo, y los matará; y pondré sobre ellos mis ojos para mal, y no para bien. ^[**9:4** Jer 44,11] 
+\bibverse{1} VI al Señor que estaba sobre el altar, y dijo: Hiere el umbral, y estremézcanse las puertas: y córtales en piezas la cabeza de todos; y el postrero de ellos mataré á cuchillo: no habrá de ellos quien se fugue, ni quien escape. \bibverse{2} Aunque cavasen hasta el infierno, de allá los tomará mi mano; y si subieren hasta el cielo, de allá los haré descender. \bibverse{3} Y si se escondieren en la cumbre del Carmelo, allí los buscaré y los tomaré; y aunque se escondieren de delante de mis ojos en el profundo de la mar, allí mandaré á la culebra, y morderálos. \bibverse{4} Y si fueren en cautiverio, delante de sus enemigos, allí mandaré al cuchillo, y los matará; y pondré sobre ellos mis ojos para mal, y no para bien. ^[**9:4** Jer 44,11] 
 
 
 \bibverse{5} El Señor Jehová de los ejércitos es el que toca la tierra, y se derretirá, y llorarán todos los que en ella moran: y subirá toda como un río, y hundiráse luego como el río de Egipto. ^[**9:5** Am 8,8] \bibverse{6} El edificó en el cielo sus gradas, y ha establecido su expansión sobre la tierra: él llama las aguas de la mar, y sobre la haz de la tierra las derrama: Jehová es su nombre. ^[**9:6** Am 5,8] 

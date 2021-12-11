@@ -1,6 +1,6 @@
 ## Contenido, fiabilidad y finalidad del mensaje apostólico de la palabra de vida
 # 1 
-<sup>1</sup> Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos mirado, y palparon nuestras manos tocante al Verbo de vida; ^[**1:1** Juan 1,1; Juan 1,4; Juan 1,14] <sup>2</sup> (Porque la vida fué manifestada, y vimos, y testificamos, y os anunciamos aquella vida eterna, la cual estaba con el Padre, y nos ha aparecido;) <sup>3</sup> Lo que hemos visto y oído, eso os anunciamos, para que también vosotros tengáis comunión con nosotros: y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo. <sup>4</sup> Y estas cosas os escribimos, para que vuestro gozo sea cumplido. 
+<sup>1</sup> LO que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos mirado, y palparon nuestras manos tocante al Verbo de vida; ^[**1:1** Juan 1,1; Juan 1,4; Juan 1,14] <sup>2</sup> (Porque la vida fué manifestada, y vimos, y testificamos, y os anunciamos aquella vida eterna, la cual estaba con el Padre, y nos ha aparecido;) <sup>3</sup> Lo que hemos visto y oído, eso os anunciamos, para que también vosotros tengáis comunión con nosotros: y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo. <sup>4</sup> Y estas cosas os escribimos, para que vuestro gozo sea cumplido. 
 
 
 ## El caminar en la luz (la verdad) versus el caminar en la oscuridad (la mentira); Conocimiento y confesión del pecado
@@ -9,7 +9,7 @@
 
 ## El fruto del conocimiento de Dios se manifiesta al andar según los mandamientos divinos
 # 2 
-<sup>1</sup> Hijitos míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo; ^[**2:1** Rom 8,34; Heb 7,25] <sup>2</sup> Y él es la propiciación por nuestros pecados: y no solamente por los nuestros, sino también por los de todo el mundo. ^[**2:2** 1Jn 4,10; Col 1,20; Juan 11,51-52] <sup>3</sup> Y en esto sabemos que nosotros le hemos conocido, si guardamos sus mandamientos. <sup>4</sup> El que dice, Yo le he conocido, y no guarda sus mandamientos, el tal es mentiroso, y no hay verdad en él; <sup>5</sup> Mas el que guarda su palabra, la caridad de Dios está verdaderamente perfecta en él: por esto sabemos que estamos en él. <sup>6</sup> El que dice que está en él, debe andar como él anduvo. ^[**2:6** Juan 13,15; 1Pe 2,21-23] 
+<sup>1</sup> HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo; ^[**2:1** Rom 8,34; Heb 7,25] <sup>2</sup> Y él es la propiciación por nuestros pecados: y no solamente por los nuestros, sino también por los de todo el mundo. ^[**2:2** 1Jn 4,10; Col 1,20; Juan 11,51-52] <sup>3</sup> Y en esto sabemos que nosotros le hemos conocido, si guardamos sus mandamientos. <sup>4</sup> El que dice, Yo le he conocido, y no guarda sus mandamientos, el tal es mentiroso, y no hay verdad en él; <sup>5</sup> Mas el que guarda su palabra, la caridad de Dios está verdaderamente perfecta en él: por esto sabemos que estamos en él. <sup>6</sup> El que dice que está en él, debe andar como él anduvo. ^[**2:6** Juan 13,15; 1Pe 2,21-23] 
   
 
 ## El nuevo mandamiento del amor fraternal por los hijos de la luz
@@ -43,7 +43,7 @@
 
 ## Felicidad y esperanza de gloria para los hijos de Dios
 # 3 
-<sup>1</sup> Mirad cuál amor nos ha dado el Padre, que seamos llamados hijos de Dios: por esto el mundo no nos conoce, porque no le conoce á él. ^[**3:1** Juan 1,12; Juan 16,3] <sup>2</sup> Muy amados, ahora somos hijos de Dios, y aun no se ha manifestado lo que hemos de ser; pero sabemos que cuando él apareciere, seremos semejantes á él, porque le veremos como él es. ^[**3:2** Rom 8,17; Col 3,4; Fil 3,21] <sup>3</sup> Y cualquiera que tiene esta esperanza en él, se purifica, como él también es limpio. 
+<sup>1</sup> MIRAD cuál amor nos ha dado el Padre, que seamos llamados hijos de Dios: por esto el mundo no nos conoce, porque no le conoce á él. ^[**3:1** Juan 1,12; Juan 16,3] <sup>2</sup> Muy amados, ahora somos hijos de Dios, y aun no se ha manifestado lo que hemos de ser; pero sabemos que cuando él apareciere, seremos semejantes á él, porque le veremos como él es. ^[**3:2** Rom 8,17; Col 3,4; Fil 3,21] <sup>3</sup> Y cualquiera que tiene esta esperanza en él, se purifica, como él también es limpio. 
  
 
 ## Los nacidos de Dios están obligados a evitar el pecado y practicar la justicia, especialmente el amor fraternal
@@ -69,7 +69,7 @@
 
 ## ¡Pon a prueba los espíritus! El espíritu de Dios le confiesa a Jesús como el Cristo que apareció en carne
 # 4 
-<sup>1</sup> Amados, no creáis á todo espíritu, sino probad los espíritus si son de Dios: porque muchos falsos profetas son salidos en el mundo. ^[**4:1** Mat 7,15] <sup>2</sup> En esto conoced el Espíritu de Dios: todo espíritu que confiesa que Jesucristo es venido en carne es de Dios: <sup>3</sup> Y todo espíritu que no confiesa que Jesucristo es venido en carne, no es de Dios: y éste es el espíritu del anticristo, del cual vosotros habéis oído que ha de venir, y que ahora ya está en el mundo. <sup>4</sup> Hijitos, vosotros sois de Dios, y los habéis vencido; porque el que en vosotros está, es mayor que el que está en el mundo. <sup>5</sup> Ellos son del mundo; por eso hablan del mundo, y el mundo los oye. <sup>6</sup> Nosotros somos de Dios: el que conoce á Dios, nos oye: el que no es de Dios, no nos oye. Por esto conocemos el espíritu de verdad y el espíritu de error. ^[**4:6** Juan 8,47; 1Cor 14,37] 
+<sup>1</sup> AMADOS, no creáis á todo espíritu, sino probad los espíritus si son de Dios: porque muchos falsos profetas son salidos en el mundo. ^[**4:1** Mat 7,15] <sup>2</sup> En esto conoced el Espíritu de Dios: todo espíritu que confiesa que Jesucristo es venido en carne es de Dios: <sup>3</sup> Y todo espíritu que no confiesa que Jesucristo es venido en carne, no es de Dios: y éste es el espíritu del anticristo, del cual vosotros habéis oído que ha de venir, y que ahora ya está en el mundo. <sup>4</sup> Hijitos, vosotros sois de Dios, y los habéis vencido; porque el que en vosotros está, es mayor que el que está en el mundo. <sup>5</sup> Ellos son del mundo; por eso hablan del mundo, y el mundo los oye. <sup>6</sup> Nosotros somos de Dios: el que conoce á Dios, nos oye: el que no es de Dios, no nos oye. Por esto conocemos el espíritu de verdad y el espíritu de error. ^[**4:6** Juan 8,47; 1Cor 14,37] 
  
 
 ## Amor verdadero y falso; El amor fraternal se basa en la fe en el amor de Dios por nosotros en Cristo
@@ -86,7 +86,7 @@
 
 ## Fe y amor en su unión
 # 5 
-<sup>1</sup> Todo aquel que cree que Jesús es el Cristo, es nacido de Dios: y cualquiera que ama al que ha engendrado, ama también al que es nacido de él. <sup>2</sup> En esto conocemos que amamos á los hijos de Dios, cuando amamos á Dios, y guardamos sus mandamientos. <sup>3</sup> Porque este es el amor de Dios, que guardemos sus mandamientos; y sus mandamientos no son penosos. <sup>4</sup> Porque todo aquello que es nacido de Dios vence al mundo: y esta es la victoria que vence al mundo, nuestra fe. ^[**5:4** Juan 16,33; 1Cor 15,57] 
+<sup>1</sup> TODO aquel que cree que Jesús es el Cristo, es nacido de Dios: y cualquiera que ama al que ha engendrado, ama también al que es nacido de él. <sup>2</sup> En esto conocemos que amamos á los hijos de Dios, cuando amamos á Dios, y guardamos sus mandamientos. <sup>3</sup> Porque este es el amor de Dios, que guardemos sus mandamientos; y sus mandamientos no son penosos. <sup>4</sup> Porque todo aquello que es nacido de Dios vence al mundo: y esta es la victoria que vence al mundo, nuestra fe. ^[**5:4** Juan 16,33; 1Cor 15,57] 
 
 
 ## El agua, la sangre y el espíritu santo establecen la fe en Jesús a través de su testimonio

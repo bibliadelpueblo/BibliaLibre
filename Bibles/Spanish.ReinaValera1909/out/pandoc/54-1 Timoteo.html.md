@@ -1,6 +1,6 @@
 ## Bendiciones
 # 1 
-<sup>1</sup> Pablo, apóstol de Jesucristo por la ordenación de Dios nuestro Salvador, y del Señor Jesucristo, nuestra esperanza; ^[**1:1** Col 1,27] <sup>2</sup> A Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de Dios nuestro Padre, y de Cristo Jesús nuestro Señor. ^[**1:2** Hech 16,1-2; Tit 1,4] 
+<sup>1</sup> PABLO, apóstol de Jesucristo por la ordenación de Dios nuestro Salvador, y del Señor Jesucristo, nuestra esperanza; ^[**1:1** Col 1,27] <sup>2</sup> A Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de Dios nuestro Padre, y de Cristo Jesús nuestro Señor. ^[**1:2** Hech 16,1-2; Tit 1,4] 
  
 
 ## Amonestación para luchar por el mensaje saludable de salvación contra los falsos maestros
@@ -21,7 +21,7 @@
 
 ## Regulaciones sobre la oración en congregación para todas las personas, especialmente para las autoridades
 # 2 
-<sup>1</sup> Amonesto pues, ante todas cosas, que se hagan rogativas, oraciones, peticiones, hacimientos de gracias, por todos los hombres; <sup>2</sup> Por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad. <sup>3</sup> Porque esto es bueno y agradable delante de Dios nuestro Salvador; <sup>4</sup> El cual quiere que todos los hombres sean salvos, y que vengan al conocimiento de la verdad. <sup>5</sup> Porque hay un Dios, asimismo un mediador entre Dios y los hombres, Jesucristo hombre; ^[**2:5** Heb 9,15] <sup>6</sup> El cual se dió á sí mismo en precio del rescate por todos, para testimonio en sus tiempos: ^[**2:6** Gal 1,4; Gal 2,20; Tit 2,14] <sup>7</sup> De lo que yo soy puesto por predicador y apóstol, (digo verdad en Cristo, no miento) doctor de los Gentiles en fidelidad y verdad. ^[**2:7** 2Tim 1,11; Gal 2,7-8] 
+<sup>1</sup> AMONESTO pues, ante todas cosas, que se hagan rogativas, oraciones, peticiones, hacimientos de gracias, por todos los hombres; <sup>2</sup> Por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad. <sup>3</sup> Porque esto es bueno y agradable delante de Dios nuestro Salvador; <sup>4</sup> El cual quiere que todos los hombres sean salvos, y que vengan al conocimiento de la verdad. <sup>5</sup> Porque hay un Dios, asimismo un mediador entre Dios y los hombres, Jesucristo hombre; ^[**2:5** Heb 9,15] <sup>6</sup> El cual se dió á sí mismo en precio del rescate por todos, para testimonio en sus tiempos: ^[**2:6** Gal 1,4; Gal 2,20; Tit 2,14] <sup>7</sup> De lo que yo soy puesto por predicador y apóstol, (digo verdad en Cristo, no miento) doctor de los Gentiles en fidelidad y verdad. ^[**2:7** 2Tim 1,11; Gal 2,7-8] 
   
 
 ## Reglas para la conducta de hombres y mujeres en el culto de la iglesia cristiana
@@ -30,7 +30,7 @@
 
 ## Requisitos para el cargo de jefe
 # 3 
-<sup>1</sup> Palabra fiel: Si alguno apetece obispado, buena obra desea. ^[**3:1** Hech 20,28; Fil 1,1; Tit 1,5-9] <sup>2</sup> Conviene, pues, que el obispo sea irreprensible, marido de una mujer, solícito, templado, compuesto, hospedador, apto para enseñar; <sup>3</sup> No amador del vino, no heridor, no codicioso de torpes ganancias, sino moderado, no litigioso, ajeno de avaricia; <sup>4</sup> Que gobierne bien su casa, que tenga sus hijos en sujeción con toda honestidad; <sup>5</sup> (Porque el que no sabe gobernar su casa, ¿cómo cuidará de la iglesia de Dios?) <sup>6</sup> No un neófito, porque inflándose no caiga en juicio del diablo. <sup>7</sup> También conviene que tenga buen testimonio de los extraños, porque no caiga en afrenta y en lazo del diablo. 
+<sup>1</sup> PALABRA fiel: Si alguno apetece obispado, buena obra desea. ^[**3:1** Hech 20,28; Fil 1,1; Tit 1,5-9] <sup>2</sup> Conviene, pues, que el obispo sea irreprensible, marido de una mujer, solícito, templado, compuesto, hospedador, apto para enseñar; <sup>3</sup> No amador del vino, no heridor, no codicioso de torpes ganancias, sino moderado, no litigioso, ajeno de avaricia; <sup>4</sup> Que gobierne bien su casa, que tenga sus hijos en sujeción con toda honestidad; <sup>5</sup> (Porque el que no sabe gobernar su casa, ¿cómo cuidará de la iglesia de Dios?) <sup>6</sup> No un neófito, porque inflándose no caiga en juicio del diablo. <sup>7</sup> También conviene que tenga buen testimonio de los extraños, porque no caiga en afrenta y en lazo del diablo. 
 
 
 ## Requisitos de ayudantía
@@ -43,7 +43,7 @@
 
 ## Advertencia de la abstinencia hipócrita de los falsos maestros
 # 4 
-<sup>1</sup> Empero el Espíritu dice manifiestamente, que en los venideros tiempos algunos apostatarán de la fe, escuchando á espíritus de error y á doctrinas de demonios; ^[**4:1** Mat 24,24; 2Tes 2,3; 2Tim 3,1; 2Pe 3,3; 1Jn 2,18; Jds 1,18] <sup>2</sup> Que con hipocresía hablarán mentira, teniendo cauterizada la conciencia. <sup>3</sup> Que prohibirán casarse, y mandarán abstenerse de las viandas que Dios crió para que con hacimiento de gracias participasen de ellas los fieles, y los que han conocido la verdad. ^[**4:3** Gén 9,3; 1Cor 10,30-31; Col 2,23] <sup>4</sup> Porque todo lo que Dios crió es bueno, y nada hay que desechar, tomándose con hacimiento de gracias: ^[**4:4** Gén 1,31; Mat 15,11; Hech 10,15] <sup>5</sup> Porque por la palabra de Dios y por la oración es santificado. 
+<sup>1</sup> EMPERO el Espíritu dice manifiestamente, que en los venideros tiempos algunos apostatarán de la fe, escuchando á espíritus de error y á doctrinas de demonios; ^[**4:1** Mat 24,24; 2Tes 2,3; 2Tim 3,1; 2Pe 3,3; 1Jn 2,18; Jds 1,18] <sup>2</sup> Que con hipocresía hablarán mentira, teniendo cauterizada la conciencia. <sup>3</sup> Que prohibirán casarse, y mandarán abstenerse de las viandas que Dios crió para que con hacimiento de gracias participasen de ellas los fieles, y los que han conocido la verdad. ^[**4:3** Gén 9,3; 1Cor 10,30-31; Col 2,23] <sup>4</sup> Porque todo lo que Dios crió es bueno, y nada hay que desechar, tomándose con hacimiento de gracias: ^[**4:4** Gén 1,31; Mat 15,11; Hech 10,15] <sup>5</sup> Porque por la palabra de Dios y por la oración es santificado. 
   
 
 ## El correcto ejercicio cristiano de la piedad y la bendición que se le prometió
@@ -52,13 +52,11 @@
 
 ## Reglas generales para Timoteo, especialmente con respecto a su juventud
 <sup>12</sup> Ninguno tenga en poco tu juventud; pero sé ejemplo de los fieles en palabra, en conversación, en caridad, en espíritu, en fe, en limpieza. <sup>13</sup> Entre tanto que voy, ocúpate en leer, en exhortar, en enseñar. <sup>14</sup> No descuides el don que está en ti, que te es dado por profecía con la imposición de las manos del presbiterio. ^[**4:14** 1Tim 1,18; 1Tim 5,22; Hech 6,6; Hech 8,17; 2Tim 1,6] 
-
-
 <sup>15</sup> Medita estas cosas; ocúpate en ellas; para que tu aprovechamiento sea manifiesto á todos. <sup>16</sup> Ten cuidado de ti mismo y de la doctrina; persiste en ello; pues haciendo esto, á ti mismo salvarás y á los que te oyeren. 
 
 ## Del correcto comportamiento pastoral hacia las diferentes edades de ambos sexos
 # 5 
-<sup>1</sup> No reprendas al anciano, sino exhórtale como á padre: á los más jóvenes, como á hermanos; ^[**5:1** Lev 19,32; Tit 2,2] <sup>2</sup> A las ancianas, como á madres; á las jovencitas, como á hermanas, con toda pureza. 
+<sup>1</sup> NO reprendas al anciano, sino exhórtale como á padre: á los más jóvenes, como á hermanos; ^[**5:1** Lev 19,32; Tit 2,2] <sup>2</sup> A las ancianas, como á madres; á las jovencitas, como á hermanas, con toda pureza. 
 
 
 ## Normas relativas a las viudas y su cuidado
@@ -84,7 +82,7 @@
 
 ## Reglas para los esclavos cristianos
 # 6 
-<sup>1</sup> Todos los que están debajo del yugo de servidumbre, tengan á sus señores por dignos de toda honra, porque no sea blasfemado el nombre del Señor y la doctrina. <sup>2</sup> Y los que tienen amos fieles, no los tengan en menos, por ser hermanos; antes sírvanles mejor, por cuanto son fieles y amados, y partícipes del beneficio. Esto enseña y exhorta. ^[**6:2** Efes 6,5-8; Filem 1,16] 
+<sup>1</sup> TODOS los que están debajo del yugo de servidumbre, tengan á sus señores por dignos de toda honra, porque no sea blasfemado el nombre del Señor y la doctrina. <sup>2</sup> Y los que tienen amos fieles, no los tengan en menos, por ser hermanos; antes sírvanles mejor, por cuanto son fieles y amados, y partícipes del beneficio. Esto enseña y exhorta. ^[**6:2** Efes 6,5-8; Filem 1,16] 
 
 
 ## Los terribles frutos de la herejía y los peligros de la codicia

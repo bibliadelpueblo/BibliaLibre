@@ -1,6 +1,6 @@
 ## Jesús como el “Verbo” hecho hombre
 # 1 
-\bibverse{1} En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios. \bibverse{2} Este era en el principio con Dios. \bibverse{3} Todas las cosas por él fueron hechas; y sin él nada de lo que es hecho, fué hecho. ^[**1:3** 1Cor 8,6; Col 1,16-17; Heb 1,2] \bibverse{4} En él estaba la vida, y la vida era la luz de los hombres. ^[**1:4** Juan 8,12] \bibverse{5} Y la luz en las tinieblas resplandece; mas las tinieblas no la comprendieron. ^[**1:5** Juan 3,19] 
+\bibverse{1} EN el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios. \bibverse{2} Este era en el principio con Dios. \bibverse{3} Todas las cosas por él fueron hechas; y sin él nada de lo que es hecho, fué hecho. ^[**1:3** 1Cor 8,6; Col 1,16-17; Heb 1,2] \bibverse{4} En él estaba la vida, y la vida era la luz de los hombres. ^[**1:4** Juan 8,12] \bibverse{5} Y la luz en las tinieblas resplandece; mas las tinieblas no la comprendieron. ^[**1:5** Juan 3,19] 
   
 
 \bibverse{6} Fué un hombre enviado de Dios, el cual se llamaba Juan. ^[**1:6** Mat 3,1; Mar 1,4] \bibverse{7} Este vino por testimonio, para que diese testimonio de la luz, para que todos creyesen por él. ^[**1:7** Hech 19,4] \bibverse{8} No era él la luz, sino para que diese testimonio de la luz. \bibverse{9} Aquél era la luz verdadera, que alumbra á todo hombre que viene á este mundo. 
@@ -55,7 +55,7 @@
 
 ## La primera señal milagrosa de Jesús en las bodas de Caná
 # 2 
-\bibverse{1} Y al tercer día hiciéronse unas bodas en Caná de Galilea; y estaba allí la madre de Jesús. \bibverse{2} Y fué también llamado Jesús y sus discípulos á las bodas. \bibverse{3} Y faltando el vino, la madre de Jesús le dijo: Vino no tienen. 
+\bibverse{1} Y AL tercer día hiciéronse unas bodas en Caná de Galilea; y estaba allí la madre de Jesús. \bibverse{2} Y fué también llamado Jesús y sus discípulos á las bodas. \bibverse{3} Y faltando el vino, la madre de Jesús le dijo: Vino no tienen. 
 
 \bibverse{4} Y dícele Jesús: ¿Qué tengo yo contigo, mujer? aun no ha venido mi hora. ^[**2:4** Juan 19,26] 
 
@@ -84,7 +84,7 @@
 
 ## Jesús y Nicodemo
 # 3 
-\bibverse{1} Y había un hombre de los Fariseos que se llamaba Nicodemo, príncipe de los Judíos. ^[**3:1** Juan 7,50; Juan 19,39] \bibverse{2} Este vino á Jesús de noche, y díjole: Rabbí, sabemos que has venido de Dios por maestro; porque nadie puede hacer estas señales que tú haces, si no fuere Dios con él. 
+\bibverse{1} Y HABÍA un hombre de los Fariseos que se llamaba Nicodemo, príncipe de los Judíos. ^[**3:1** Juan 7,50; Juan 19,39] \bibverse{2} Este vino á Jesús de noche, y díjole: Rabbí, sabemos que has venido de Dios por maestro; porque nadie puede hacer estas señales que tú haces, si no fuere Dios con él. 
 
 
 \bibverse{3} Respondió Jesús, y díjole: De cierto, de cierto te digo, que el que no naciere otra vez, no puede ver el reino de Dios. 
@@ -107,13 +107,11 @@
   
 
 \bibverse{31} El que de arriba viene, sobre todos es: el que es de la tierra, terreno es, y cosas terrenas habla: el que viene del cielo, sobre todos es. \bibverse{32} Y lo que vió y oyó, esto testifica: y nadie recibe su testimonio. \bibverse{33} El que recibe su testimonio, éste signó que Dios es verdadero. \bibverse{34} Porque el que Dios envió, las palabras de Dios habla: porque no da Dios el Espíritu por medida. ^[**3:34** Juan 1,16] \bibverse{35} El Padre ama al Hijo, y todas las cosas dió en su mano. ^[**3:35** Juan 5,20; Mat 11,27] 
- 
-
-\bibverse{36} El que cree en el Hijo, tiene vida eterna; mas el que es incrédulo al Hijo, no verá la vida, sino que la ira de Dios está sobre él. 
+ \bibverse{36} El que cree en el Hijo, tiene vida eterna; mas el que es incrédulo al Hijo, no verá la vida, sino que la ira de Dios está sobre él. 
 
 ## Jesús habla con la mujer samaritana junto al pozo de Jacob
 # 4 
-\bibverse{1} De manera que como Jesús entendió que los Fariseos habían oído que Jesús hacía y bautizaba más discípulos que Juan, ^[**4:1** Juan 3,22; Juan 3,26] \bibverse{2} (Aunque Jesús no bautizaba, sino sus discípulos), \bibverse{3} Dejó á Judea, y fuése otra vez á Galilea. \bibverse{4} Y era menester que pasase por Samaria. \bibverse{5} Vino, pues, á una ciudad de Samaria que se llamaba Sichâr, junto á la heredad que Jacob dió á José su hijo. \bibverse{6} Y estaba allí la fuente de Jacob. Pues Jesús, cansado del camino, así se sentó á la fuente. Era como la hora de sexta. 
+\bibverse{1} DE manera que como Jesús entendió que los Fariseos habían oído que Jesús hacía y bautizaba más discípulos que Juan, ^[**4:1** Juan 3,22; Juan 3,26] \bibverse{2} (Aunque Jesús no bautizaba, sino sus discípulos), \bibverse{3} Dejó á Judea, y fuése otra vez á Galilea. \bibverse{4} Y era menester que pasase por Samaria. \bibverse{5} Vino, pues, á una ciudad de Samaria que se llamaba Sichâr, junto á la heredad que Jacob dió á José su hijo. \bibverse{6} Y estaba allí la fuente de Jacob. Pues Jesús, cansado del camino, así se sentó á la fuente. Era como la hora de sexta. 
 
 
 \bibverse{7} Vino una mujer de Samaria á sacar agua: y Jesús le dice: Dame de beber. \bibverse{8} (Porque sus discípulos habían ido á la ciudad á comprar de comer.) 
@@ -174,7 +172,7 @@
 
 ## Sanación de los enfermos en el estanque de Betesda cerca de Jerusalén y concurso del sábado
 # 5 
-\bibverse{1} Después de estas cosas, era un día de fiesta de los Judíos, y subió Jesús á Jerusalem. ^[**5:1** Juan 2,13] \bibverse{2} Y hay en Jerusalem á la puerta del ganado un estanque, que en hebraico es llamado Bethesda, el cual tiene cinco portales. ^[**5:2** Neh 3,1] \bibverse{3} En éstos yacía multitud de enfermos, ciegos, cojos, secos, que estaban esperando el movimiento del agua. \bibverse{4} Porque un ángel descendía á cierto tiempo al estanque, y revolvía el agua; y el que primero descendía en el estanque después del movimiento del agua, era sano de cualquier enfermedad que tuviese. \bibverse{5} Y estaba allí un hombre que había treinta y ocho años que estaba enfermo. \bibverse{6} Como Jesús vió á éste echado, y entendió que ya había mucho tiempo, dícele: ¿Quieres ser sano? 
+\bibverse{1} DESPUÉS de estas cosas, era un día de fiesta de los Judíos, y subió Jesús á Jerusalem. ^[**5:1** Juan 2,13] \bibverse{2} Y hay en Jerusalem á la puerta del ganado un estanque, que en hebraico es llamado Bethesda, el cual tiene cinco portales. ^[**5:2** Neh 3,1] \bibverse{3} En éstos yacía multitud de enfermos, ciegos, cojos, secos, que estaban esperando el movimiento del agua. \bibverse{4} Porque un ángel descendía á cierto tiempo al estanque, y revolvía el agua; y el que primero descendía en el estanque después del movimiento del agua, era sano de cualquier enfermedad que tuviese. \bibverse{5} Y estaba allí un hombre que había treinta y ocho años que estaba enfermo. \bibverse{6} Como Jesús vió á éste echado, y entendió que ya había mucho tiempo, dícele: ¿Quieres ser sano? 
  
 
 \bibverse{7} Señor, le respondió el enfermo, no tengo hombre que me meta en el estanque cuando el agua fuere revuelta; porque entre tanto que yo vengo, otro antes de mí ha descendido. 
@@ -226,7 +224,7 @@
 
 ## Jesús alimenta a los cinco mil
 # 6 
-\bibverse{1} Pasadas estas cosas, fuése Jesús de la otra parte de la mar de Galilea, que es de Tiberias. \bibverse{2} Y seguíale grande multitud, porque veían sus señales que hacía en los enfermos. \bibverse{3} Y subió Jesús á un monte, y se sentó allí con sus discípulos. \bibverse{4} Y estaba cerca la Pascua, la fiesta de los Judíos. \bibverse{5} Y como alzó Jesús los ojos, y vió que había venido á él grande multitud, dice á Felipe: ¿De dónde compraremos pan para que coman éstos? \bibverse{6} Mas esto decía para probarle; porque él sabía lo que había de hacer. 
+\bibverse{1} PASADAS estas cosas, fuése Jesús de la otra parte de la mar de Galilea, que es de Tiberias. \bibverse{2} Y seguíale grande multitud, porque veían sus señales que hacía en los enfermos. \bibverse{3} Y subió Jesús á un monte, y se sentó allí con sus discípulos. \bibverse{4} Y estaba cerca la Pascua, la fiesta de los Judíos. \bibverse{5} Y como alzó Jesús los ojos, y vió que había venido á él grande multitud, dice á Felipe: ¿De dónde compraremos pan para que coman éstos? \bibverse{6} Mas esto decía para probarle; porque él sabía lo que había de hacer. 
 
 \bibverse{7} Respondióle Felipe: Doscientos denarios de pan no les bastarán, para que cada uno de ellos tome un poco. 
 
@@ -283,7 +281,7 @@
 
 ## Jesús viaja a Jerusalén para la Fiesta de los Tabernáculos
 # 7 
-\bibverse{1} Y pasadas estas cosas andaba Jesús en Galilea: que no quería andar en Judea, porque los Judíos procuraban matarle. \bibverse{2} Y estaba cerca la fiesta de los Judíos, la de los tabernáculos. ^[**7:2** Lev 23,34-36] \bibverse{3} Y dijéronle sus hermanos: Pásate de aquí, y vete á Judea, para que también tus discípulos vean las obras que haces. ^[**7:3** Juan 2,12; Mat 12,46; Hech 1,14] \bibverse{4} Que ninguno que procura ser claro, hace algo en oculto. Si estas cosas haces, manifiéstate al mundo. \bibverse{5} Porque ni aun sus hermanos creían en él. 
+\bibverse{1} Y PASADAS estas cosas andaba Jesús en Galilea: que no quería andar en Judea, porque los Judíos procuraban matarle. \bibverse{2} Y estaba cerca la fiesta de los Judíos, la de los tabernáculos. ^[**7:2** Lev 23,34-36] \bibverse{3} Y dijéronle sus hermanos: Pásate de aquí, y vete á Judea, para que también tus discípulos vean las obras que haces. ^[**7:3** Juan 2,12; Mat 12,46; Hech 1,14] \bibverse{4} Que ninguno que procura ser claro, hace algo en oculto. Si estas cosas haces, manifiéstate al mundo. \bibverse{5} Porque ni aun sus hermanos creían en él. 
  
 
 \bibverse{6} Díceles entonces Jesús: Mi tiempo aun no ha venido; mas vuestro tiempo siempre está presto. ^[**7:6** Juan 2,4] \bibverse{7} No puede el mundo aborreceros á vosotros; mas á mí me aborrece, porque yo doy testimonio de él, que sus obras son malas. ^[**7:7** Juan 15,18] \bibverse{8} Vosotros subid á esta fiesta; yo no subo aún á esta fiesta, porque mi tiempo aun no es cumplido. 
@@ -344,7 +342,7 @@
 
 ## Jesús y la adúltera
 # 8 
-\bibverse{1} Y jesús se fué al monte de las Olivas. 
+\bibverse{1} Y JESÚS se fué al monte de las Olivas. 
 
 \bibverse{2} Y por la mañana volvió al templo, y todo el pueblo vino á él: y sentado él, los enseñaba. \bibverse{3} Entonces los escribas y los Fariseos le traen una mujer tomada en adulterio; y poniéndola en medio, \bibverse{4} Dícenle: Maestro, esta mujer ha sido tomada en el mismo hecho, adulterando; \bibverse{5} Y en la ley Moisés nos mandó apedrear á las tales: tú pues, ¿qué dices? \bibverse{6} Mas esto decían tentándole, para poder acusarle. Empero Jesús, inclinado hacia abajo, escribía en tierra con el dedo. 
 
@@ -423,7 +421,7 @@
 
 ## La curación del ciego de nacimiento en sábado
 # 9 
-\bibverse{1} Y pasando Jesús, vió un hombre ciego desde su nacimiento. \bibverse{2} Y preguntáronle sus discípulos, diciendo: Rabbí, ¿quién pecó, éste ó sus padres, para que naciese ciego? 
+\bibverse{1} Y PASANDO Jesús, vió un hombre ciego desde su nacimiento. \bibverse{2} Y preguntáronle sus discípulos, diciendo: Rabbí, ¿quién pecó, éste ó sus padres, para que naciese ciego? 
 
 \bibverse{3} Respondió Jesús: Ni éste pecó, ni sus padres: mas para que las obras de Dios se manifiesten en él. ^[**9:3** Juan 11,4] \bibverse{4} Conviéneme obrar las obras del que me envió, entre tanto que el día dura: la noche viene, cuando nadie puede obrar. ^[**9:4** Juan 5,17; Jer 13,16] \bibverse{5} Entre tanto que estuviere en el mundo, luz soy del mundo. ^[**9:5** Juan 12,35; Juan 8,12] \bibverse{6} Esto dicho, escupió en tierra, é hizo lodo con la saliva, y untó con el lodo sobre los ojos del ciego, ^[**9:6** Mar 8,23] \bibverse{7} Y díjole: Ve, lávate en el estanque de Siloé (que significa, si lo interpretares, Enviado). Y fué entonces, y lavóse, y volvió viendo. 
    
@@ -483,7 +481,7 @@
 
 ## El lenguaje figurado del pastor y ladrón y del buen pastor y asalariado
 # 10 
-\bibverse{1} De cierto, de cierto os digo: El que no entra por la puerta en el corral de las ovejas, mas sube por otra parte, el tal es ladrón y robador. \bibverse{2} Mas el que entra por la puerta, el pastor de las ovejas es. \bibverse{3} A éste abre el portero, y las ovejas oyen su voz: y á sus ovejas llama por nombre, y las saca. \bibverse{4} Y como ha sacado fuera todas las propias, va delante de ellas; y las ovejas le siguen, porque conocen su voz. \bibverse{5} Mas al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños. \bibverse{6} Esta parábola les dijo Jesús; mas ellos no entendieron qué era lo que les decía. 
+\bibverse{1} DE cierto, de cierto os digo: El que no entra por la puerta en el corral de las ovejas, mas sube por otra parte, el tal es ladrón y robador. \bibverse{2} Mas el que entra por la puerta, el pastor de las ovejas es. \bibverse{3} A éste abre el portero, y las ovejas oyen su voz: y á sus ovejas llama por nombre, y las saca. \bibverse{4} Y como ha sacado fuera todas las propias, va delante de ellas; y las ovejas le siguen, porque conocen su voz. \bibverse{5} Mas al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños. \bibverse{6} Esta parábola les dijo Jesús; mas ellos no entendieron qué era lo que les decía. 
 
 ## ¡Yo soy la puerta para las ovejas!
 \bibverse{7} Volvióles, pues, Jesús á decir: De cierto, de cierto os digo: Yo soy la puerta de las ovejas. \bibverse{8} Todos los que antes de mí vinieron, ladrones son y robadores; mas no los oyeron las ovejas. \bibverse{9} Yo soy la puerta: el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos. \bibverse{10} El ladrón no viene sino para hurtar, y matar, y destruir: yo he venido para que tengan vida, y para que la tengan en abundancia. 
@@ -514,12 +512,10 @@
 
 ## Jesús y Lázaro; Jesús como la resurrección y la vida
 \bibverse{40} Y volvióse tras el Jordán, á aquel lugar donde primero había estado bautizando Juan; y estúvose allí. ^[**10:40** Juan 1,28] 
-
-
 \bibverse{41} Y muchos venían á él, y decían: Juan, á la verdad, ninguna señal hizo; mas todo lo que Juan dijo de éste, era verdad. \bibverse{42} Y muchos creyeron allí en él. 
 
 # 11 
-\bibverse{1} Estaba entonces enfermo uno llamado Lázaro, de Bethania, la aldea de María y de Marta su hermana. ^[**11:1** Luc 10,38-39] \bibverse{2} (Y María, cuyo hermano Lázaro estaba enfermo, era la que ungió al Señor con ungüento, y limpió sus pies con sus cabellos.) ^[**11:2** Juan 12,3] \bibverse{3} Enviaron, pues, sus hermanas á él, diciendo: Señor, he aquí, el que amas está enfermo. 
+\bibverse{1} ESTABA entonces enfermo uno llamado Lázaro, de Bethania, la aldea de María y de Marta su hermana. ^[**11:1** Luc 10,38-39] \bibverse{2} (Y María, cuyo hermano Lázaro estaba enfermo, era la que ungió al Señor con ungüento, y limpió sus pies con sus cabellos.) ^[**11:2** Juan 12,3] \bibverse{3} Enviaron, pues, sus hermanas á él, diciendo: Señor, he aquí, el que amas está enfermo. 
  
 
 \bibverse{4} Y oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, mas por gloria de Dios, para que el Hijo de Dios sea glorificado por ella. ^[**11:4** Juan 9,3] \bibverse{5} Y amaba Jesús á Marta, y á su hermana, y á Lázaro. \bibverse{6} Como oyó pues que estaba enfermo, quedóse aún dos días en aquel lugar donde estaba. \bibverse{7} Luego, después de esto, dijo á los discípulos: Vamos á Judea otra vez. 
@@ -585,7 +581,7 @@
 
 ## La unción de Jesús (consagración de la muerte) en Betania
 # 12 
-\bibverse{1} Y jesús, seis días antes de la Pascua, vino á Bethania, donde estaba Lázaro, que había sido muerto, al cual había resucitado de los muertos. ^[**12:1** Juan 11,1; Juan 11,43] \bibverse{2} E hiciéronle allí una cena: y Marta servía, y Lázaro era uno de los que estaban sentados á la mesa juntamente con él. \bibverse{3} Entonces María tomó una libra de ungüento de nardo líquido de mucho precio, y ungió los pies de Jesús, y limpió sus pies con sus cabellos: y la casa se llenó del olor del ungüento. 
+\bibverse{1} Y JESÚS, seis días antes de la Pascua, vino á Bethania, donde estaba Lázaro, que había sido muerto, al cual había resucitado de los muertos. ^[**12:1** Juan 11,1; Juan 11,43] \bibverse{2} E hiciéronle allí una cena: y Marta servía, y Lázaro era uno de los que estaban sentados á la mesa juntamente con él. \bibverse{3} Entonces María tomó una libra de ungüento de nardo líquido de mucho precio, y ungió los pies de Jesús, y limpió sus pies con sus cabellos: y la casa se llenó del olor del ungüento. 
 
 
 \bibverse{4} Y dijo uno de sus discípulos, Judas Iscariote, hijo de Simón, el que le había de entregar: \bibverse{5} ¿Por qué no se ha vendido este ungüento por trescientos dineros, y se dió á los pobres? \bibverse{6} Mas dijo esto, no por el cuidado que él tenía de los pobres; sino porque era ladrón, y tenía la bolsa, y traía lo que se echaba en ella. ^[**12:6** Luc 8,3] 
@@ -632,13 +628,11 @@
 
 ## El testimonio de Jesús sobre sí mismo y sobre su relación con Dios
 \bibverse{44} Mas Jesús clamó y dijo: El que cree en mí, no cree en mí, sino en el que me envió; \bibverse{45} Y el que me ve, ve al que me envió. ^[**12:45** Juan 14,9] 
-
-
 \bibverse{46} Yo la luz he venido al mundo, para que todo aquel que cree en mí no permanezca en tinieblas. \bibverse{47} Y el que oyere mis palabras, y no las creyere, yo no le juzgo; porque no he venido á juzgar al mundo, sino á salvar al mundo. \bibverse{48} El que me desecha, y no recibe mis palabras, tiene quien le juzgue: la palabra que he hablado, ella le juzgará en el día postrero. \bibverse{49} Porque yo no he hablado de mí mismo: mas el Padre que me envió, él me dió mandamiento de lo que he de decir, y de lo que he de hablar. \bibverse{50} Y sé que su mandamiento es vida eterna: así que, lo que yo hablo, como el Padre me lo ha dicho, así hablo. 
 
 ## El lavado de pies
 # 13 
-\bibverse{1} Antes de la fiesta de la Pascua, sabiendo Jesús que su hora había venido para que pasase de este mundo al Padre, como había amado á los suyos que estaban en el mundo, amólos hasta el fin. ^[**13:1** Juan 7,30; Juan 17,1] \bibverse{2} Y la cena acabada, como el diablo ya había metido en el corazón de Judas, hijo de Simón Iscariote, que le entregase, ^[**13:2** Luc 22,3] \bibverse{3} Sabiendo Jesús que el Padre le había dado todas las cosas en las manos, y que había salido de Dios, y á Dios iba, ^[**13:3** Juan 3,35; Juan 16,28] \bibverse{4} Levántase de la cena, y quítase su ropa, y tomando una toalla, ciñóse. \bibverse{5} Luego puso agua en un lebrillo, y comenzó á lavar los pies de los discípulos, y á limpiarlos con la toalla con que estaba ceñido. \bibverse{6} Entonces vino á Simón Pedro; y Pedro le dice: ¿Señor, tú me lavas los pies? 
+\bibverse{1} ANTES de la fiesta de la Pascua, sabiendo Jesús que su hora había venido para que pasase de este mundo al Padre, como había amado á los suyos que estaban en el mundo, amólos hasta el fin. ^[**13:1** Juan 7,30; Juan 17,1] \bibverse{2} Y la cena acabada, como el diablo ya había metido en el corazón de Judas, hijo de Simón Iscariote, que le entregase, ^[**13:2** Luc 22,3] \bibverse{3} Sabiendo Jesús que el Padre le había dado todas las cosas en las manos, y que había salido de Dios, y á Dios iba, ^[**13:3** Juan 3,35; Juan 16,28] \bibverse{4} Levántase de la cena, y quítase su ropa, y tomando una toalla, ciñóse. \bibverse{5} Luego puso agua en un lebrillo, y comenzó á lavar los pies de los discípulos, y á limpiarlos con la toalla con que estaba ceñido. \bibverse{6} Entonces vino á Simón Pedro; y Pedro le dice: ¿Señor, tú me lavas los pies? 
   
 
 \bibverse{7} Respondió Jesús, y díjole: Lo que yo hago, tú no entiendes ahora; mas lo entenderás después. 
@@ -683,7 +677,7 @@
 
 ## Jesús el camino a Dios, su unión con Dios
 # 14 
-\bibverse{1} No se turbe vuestro corazón: creéis en Dios, creed también en mí. \bibverse{2} En la casa de mi Padre muchas moradas hay: de otra manera os lo hubiera dicho: voy, pues, á preparar lugar para vosotros. \bibverse{3} Y si me fuere, y os aparejare lugar, vendré otra vez, y os tomaré á mí mismo: para que donde yo estoy, vosotros también estéis. ^[**14:3** Juan 12,26; Juan 17,24] \bibverse{4} Y sabéis á dónde yo voy; y sabéis el camino. 
+\bibverse{1} NO se turbe vuestro corazón: creéis en Dios, creed también en mí. \bibverse{2} En la casa de mi Padre muchas moradas hay: de otra manera os lo hubiera dicho: voy, pues, á preparar lugar para vosotros. \bibverse{3} Y si me fuere, y os aparejare lugar, vendré otra vez, y os tomaré á mí mismo: para que donde yo estoy, vosotros también estéis. ^[**14:3** Juan 12,26; Juan 17,24] \bibverse{4} Y sabéis á dónde yo voy; y sabéis el camino. 
 
 
 \bibverse{5} Dícele Tomás: Señor, no sabemos á dónde vas: ¿cómo, pues, podemos saber el camino? 
@@ -714,7 +708,7 @@
 
 ## Parábola de la vid y las ramas
 # 15 
-\bibverse{1} Yo soy la vid verdadera, y mi Padre es el labrador. \bibverse{2} Todo pámpano que en mí no lleva fruto, le quitará: y todo aquel que lleva fruto, le limpiará, para que lleve más fruto. \bibverse{3} Ya vosotros sois limpios por la palabra que os he hablado. ^[**15:3** Juan 13,10; 1Pe 1,23] \bibverse{4} Estad en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no estuviere en la vid; así ni vosotros, si no estuviereis en mí. \bibverse{5} Yo soy la vid, vosotros los pámpanos: el que está en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer. \bibverse{6} El que en mí no estuviere, será echado fuera como mal pámpano, y se secará; y los cogen, y los echan en el fuego, y arden. \bibverse{7} Si estuviereis en mí, y mis palabras estuvieren en vosotros, pedid todo lo que quisiereis, y os será hecho. ^[**15:7** Mar 11,24] 
+\bibverse{1} YO soy la vid verdadera, y mi Padre es el labrador. \bibverse{2} Todo pámpano que en mí no lleva fruto, le quitará: y todo aquel que lleva fruto, le limpiará, para que lleve más fruto. \bibverse{3} Ya vosotros sois limpios por la palabra que os he hablado. ^[**15:3** Juan 13,10; 1Pe 1,23] \bibverse{4} Estad en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no estuviere en la vid; así ni vosotros, si no estuviereis en mí. \bibverse{5} Yo soy la vid, vosotros los pámpanos: el que está en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer. \bibverse{6} El que en mí no estuviere, será echado fuera como mal pámpano, y se secará; y los cogen, y los echan en el fuego, y arden. \bibverse{7} Si estuviereis en mí, y mis palabras estuvieren en vosotros, pedid todo lo que quisiereis, y os será hecho. ^[**15:7** Mar 11,24] 
  
 
 \bibverse{8} En esto es glorificado mi Padre, en que llevéis mucho fruto, y seáis así mis discípulos. ^[**15:8** Mat 5,16] 
@@ -737,7 +731,7 @@
   
 
 # 16 
-\bibverse{1} Estas cosas os he hablado, para que no os escandalicéis. \bibverse{2} Os echarán de las sinagogas; y aun viene la hora, cuando cualquiera que os matare, pensará que hace servicio á Dios. ^[**16:2** Mat 10,17; Mat 10,22; Mat 24,9] \bibverse{3} Y estas cosas os harán, porque no conocen al Padre ni á mí. ^[**16:3** Juan 15,21] \bibverse{4} Mas os he dicho esto, para que cuando aquella hora viniere, os acordéis que yo os lo había dicho. Esto empero no os lo dije al principio, porque yo estaba con vosotros. 
+\bibverse{1} ESTAS cosas os he hablado, para que no os escandalicéis. \bibverse{2} Os echarán de las sinagogas; y aun viene la hora, cuando cualquiera que os matare, pensará que hace servicio á Dios. ^[**16:2** Mat 10,17; Mat 10,22; Mat 24,9] \bibverse{3} Y estas cosas os harán, porque no conocen al Padre ni á mí. ^[**16:3** Juan 15,21] \bibverse{4} Mas os he dicho esto, para que cuando aquella hora viniere, os acordéis que yo os lo había dicho. Esto empero no os lo dije al principio, porque yo estaba con vosotros. 
  
 
 ## Promesa del Espíritu Santo y su obra benéfica en el mundo y en los discípulos
@@ -770,7 +764,7 @@
 
 ## Oración de despedida de Jesús con los suyos y para los suyos
 # 17 
-\bibverse{1} Estas cosas habló Jesús, y levantados los ojos al cielo, dijo: Padre, la hora es llegada; glorifica á tu Hijo, para que también tu Hijo te glorifique á ti; \bibverse{2} Como le has dado la potestad de toda carne, para que dé vida eterna á todos los que le diste. \bibverse{3} Esta empero es la vida eterna: que te conozcan el solo Dios verdadero, y á Jesucristo, al cual has enviado. ^[**17:3** 1Jn 5,20] \bibverse{4} Yo te he glorificado en la tierra: he acabado la obra que me diste que hiciese. \bibverse{5} Ahora pues, Padre, glorifícame tú cerca de ti mismo con aquella gloria que tuve cerca de ti antes que el mundo fuese. 
+\bibverse{1} ESTAS cosas habló Jesús, y levantados los ojos al cielo, dijo: Padre, la hora es llegada; glorifica á tu Hijo, para que también tu Hijo te glorifique á ti; \bibverse{2} Como le has dado la potestad de toda carne, para que dé vida eterna á todos los que le diste. \bibverse{3} Esta empero es la vida eterna: que te conozcan el solo Dios verdadero, y á Jesucristo, al cual has enviado. ^[**17:3** 1Jn 5,20] \bibverse{4} Yo te he glorificado en la tierra: he acabado la obra que me diste que hiciese. \bibverse{5} Ahora pues, Padre, glorifícame tú cerca de ti mismo con aquella gloria que tuve cerca de ti antes que el mundo fuese. 
 
 
 ## La intercesión de Jesús por el mantenimiento de los discípulos en el conocimiento correcto de Dios
@@ -779,13 +773,11 @@
 
 ## Intercesión por todos los creyentes
 \bibverse{20} Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos. ^[**17:20** Rom 10,17] \bibverse{21} Para que todos sean una cosa; como tú, oh Padre, en mí, y yo en ti, que también ellos sean en nosotros una cosa: para que el mundo crea que tú me enviaste. ^[**17:21** Gal 3,28] \bibverse{22} Y yo, la gloria que me diste les he dado; para que sean una cosa, como también nosotros somos una cosa. ^[**17:22** Hech 4,32] \bibverse{23} Yo en ellos, y tú en mí, para que sean consumadamente una cosa; que el mundo conozca que tú me enviaste, y que los has amado, como también á mí me has amado. ^[**17:23** 1Cor 6,17] \bibverse{24} Padre, aquellos que me has dado, quiero que donde yo estoy, ellos estén también conmigo; para que vean mi gloria que me has dado: por cuanto me has amado desde antes de la constitución del mundo. ^[**17:24** Juan 12,26] 
-    
-
-\bibverse{25} Padre justo, el mundo no te ha conocido, mas yo te he conocido; y éstos han conocido que tú me enviaste; \bibverse{26} Y yo les he manifestado tu nombre, y manifestarélo aún; para que el amor con que me has amado, esté en ellos, y yo en ellos. 
+    \bibverse{25} Padre justo, el mundo no te ha conocido, mas yo te he conocido; y éstos han conocido que tú me enviaste; \bibverse{26} Y yo les he manifestado tu nombre, y manifestarélo aún; para que el amor con que me has amado, esté en ellos, y yo en ellos. 
 
 ## Jesús en Getsemaní: Judas, Malco, arresto de Jesús
 # 18 
-\bibverse{1} Como Jesús hubo dicho estas cosas, salióse con sus discípulos tras el arroyo de Cedrón, donde estaba un huerto, en el cual entró Jesús y sus discípulos. \bibverse{2} Y también Judas, el que le entregaba, sabía aquel lugar; porque muchas veces Jesús se juntaba allí con sus discípulos. \bibverse{3} Judas pues tomando una compañía, y ministros de los pontífices y de los Fariseos, vino allí con linternas y antorchas, y con armas. \bibverse{4} Empero Jesús, sabiendo todas las cosas que habían de venir sobre él, salió delante, y díjoles: ¿A quién buscáis? 
+\bibverse{1} COMO Jesús hubo dicho estas cosas, salióse con sus discípulos tras el arroyo de Cedrón, donde estaba un huerto, en el cual entró Jesús y sus discípulos. \bibverse{2} Y también Judas, el que le entregaba, sabía aquel lugar; porque muchas veces Jesús se juntaba allí con sus discípulos. \bibverse{3} Judas pues tomando una compañía, y ministros de los pontífices y de los Fariseos, vino allí con linternas y antorchas, y con armas. \bibverse{4} Empero Jesús, sabiendo todas las cosas que habían de venir sobre él, salió delante, y díjoles: ¿A quién buscáis? 
 
 \bibverse{5} Respondiéronle: A Jesús Nazareno. Díceles Jesús: Yo soy. (Y estaba también con ellos Judas, el que le entregaba.) 
 
@@ -851,7 +843,7 @@
 \bibverse{40} Entonces todos dieron voces otra vez, diciendo: No á éste, sino á Barrabás. Y Barrabás era ladrón. 
 
 # 19 
-\bibverse{1} Así que, entonces tomó Pilato á Jesús, y le azotó. \bibverse{2} Y los soldados entretejieron de espinas una corona, y pusiéronla sobre su cabeza, y le vistieron de una ropa de grana; \bibverse{3} Y decían: ¡Salve, Rey de los Judíos! y dábanle de bofetadas. 
+\bibverse{1} ASÍ que, entonces tomó Pilato á Jesús, y le azotó. \bibverse{2} Y los soldados entretejieron de espinas una corona, y pusiéronla sobre su cabeza, y le vistieron de una ropa de grana; \bibverse{3} Y decían: ¡Salve, Rey de los Judíos! y dábanle de bofetadas. 
 
 \bibverse{4} Entonces Pilato salió otra vez fuera, y díjoles: He aquí, os le traigo fuera, para que entendáis que ningún crimen hallo en él. 
 
@@ -890,13 +882,11 @@
 
 ## Descenso de la cruz y sepultura de Jesús
 \bibverse{38} Después de estas cosas, José de Arimatea, el cual era discípulo de Jesús, mas secreto por miedo de los Judíos, rogó á Pilato que pudiera quitar el cuerpo de Jesús: y permitióselo Pilato. Entonces vino, y quitó el cuerpo de Jesús. ^[**19:38** Juan 7,13] \bibverse{39} Y vino también Nicodemo, el que antes había venido á Jesús de noche, trayendo un compuesto de mirra y de áloes, como cien libras. ^[**19:39** Juan 3,2] 
- 
-
-\bibverse{40} Tomaron pues el cuerpo de Jesús, y envolviéronlo en lienzos con especias, como es costumbre de los Judíos sepultar. \bibverse{41} Y en aquel lugar donde había sido crucificado, había un huerto; y en el huerto un sepulcro nuevo, en el cual aun no había sido puesto ninguno. \bibverse{42} Allí, pues, por causa de la víspera de la Pascua de los Judíos, porque aquel sepulcro estaba cerca, pusieron á Jesús. 
+ \bibverse{40} Tomaron pues el cuerpo de Jesús, y envolviéronlo en lienzos con especias, como es costumbre de los Judíos sepultar. \bibverse{41} Y en aquel lugar donde había sido crucificado, había un huerto; y en el huerto un sepulcro nuevo, en el cual aun no había sido puesto ninguno. \bibverse{42} Allí, pues, por causa de la víspera de la Pascua de los Judíos, porque aquel sepulcro estaba cerca, pusieron á Jesús. 
 
 ## María Magdalena y el sepulcro vacío; Pedro y Juan en la tumba
 # 20 
-\bibverse{1} Y el primer día de la semana, María Magdalena vino de mañana, siendo aún obscuro, al sepulcro; y vió la piedra quitada del sepulcro. \bibverse{2} Entonces corrió, y vino á Simón Pedro, y al otro discípulo, al cual amaba Jesús, y les dice: Han llevado al Señor del sepulcro, y no sabemos dónde le han puesto. ^[**20:2** Juan 13,23] 
+\bibverse{1} Y EL primer día de la semana, María Magdalena vino de mañana, siendo aún obscuro, al sepulcro; y vió la piedra quitada del sepulcro. \bibverse{2} Entonces corrió, y vino á Simón Pedro, y al otro discípulo, al cual amaba Jesús, y les dice: Han llevado al Señor del sepulcro, y no sabemos dónde le han puesto. ^[**20:2** Juan 13,23] 
 
 
 \bibverse{3} Y salió Pedro, y el otro discípulo, y vinieron al sepulcro. \bibverse{4} Y corrían los dos juntos; mas el otro discípulo corrió más presto que Pedro, y llegó primero al sepulcro. \bibverse{5} Y bajándose á mirar, vió los lienzos echados; mas no entró. \bibverse{6} Llegó luego Simón Pedro siguiéndole, y entró en el sepulcro, y vió los lienzos echados, \bibverse{7} Y el sudario, que había estado sobre su cabeza, no puesto con los lienzos, sino envuelto en un lugar aparte. \bibverse{8} Y entonces entró también el otro discípulo, que había venido primero al sepulcro, y vió, y creyó. \bibverse{9} Porque aun no sabían la Escritura, que era necesario que él resucitase de los muertos. ^[**20:9** Luc 24,25-27; Hech 2,24-32; 1Cor 15,4] \bibverse{10} Y volvieron los discípulos á los suyos. 
@@ -937,7 +927,7 @@
 
 ## Jesús se revela a sus discípulos en el lago de Tiberíades
 # 21 
-\bibverse{1} Después se manifestó Jesús otra vez á sus discípulos en la mar de Tiberias; y manifestóse de esta manera. \bibverse{2} Estaban juntos Simón Pedro, y Tomás, llamado el Dídimo, y Natanael, el que era de Caná de Galilea, y los hijos de Zebedeo, y otros dos de sus discípulos. \bibverse{3} Díceles Simón: A pescar voy. Dícenle: Vamos nosotros también contigo. Fueron, y subieron en una barca; y aquella noche no cogieron nada. 
+\bibverse{1} DESPUÉS se manifestó Jesús otra vez á sus discípulos en la mar de Tiberias; y manifestóse de esta manera. \bibverse{2} Estaban juntos Simón Pedro, y Tomás, llamado el Dídimo, y Natanael, el que era de Caná de Galilea, y los hijos de Zebedeo, y otros dos de sus discípulos. \bibverse{3} Díceles Simón: A pescar voy. Dícenle: Vamos nosotros también contigo. Fueron, y subieron en una barca; y aquella noche no cogieron nada. 
 
 \bibverse{4} Y venida la mañana, Jesús se puso á la ribera: mas los discípulos no entendieron que era Jesús. ^[**21:4** Juan 20,14; Luc 24,16] \bibverse{5} Y díjoles: Mozos, ¿tenéis algo de comer? Respondiéronle: No. ^[**21:5** Luc 24,41] 
  

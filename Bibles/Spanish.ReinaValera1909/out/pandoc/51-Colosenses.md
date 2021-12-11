@@ -1,6 +1,6 @@
 ## Bendiciones
 # 1 
-\bibverse{1} Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, \bibverse{2} A los santos y hermanos fieles en Cristo que están en Colosas: Gracia y paz á vosotros de Dios Padre nuestro, y del Señor Jesucristo. 
+\bibverse{1} PABLO, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, \bibverse{2} A los santos y hermanos fieles en Cristo que están en Colosas: Gracia y paz á vosotros de Dios Padre nuestro, y del Señor Jesucristo. 
 
 ## Acción de gracias por el buen estado cristiano (fe, amor y conocimiento) de la iglesia
 \bibverse{3} Damos gracias al Dios y Padre del Señor nuestro Jesucristo, siempre orando por vosotros: \bibverse{4} Habiendo oído vuestra fe en Cristo Jesús, y el amor que tenéis á todos los santos, \bibverse{5} A causa de la esperanza que os está guardada en los cielos, de la cual habéis oído ya por la palabra verdadera del evangelio: \bibverse{6} El cual ha llegado hasta vosotros, como por todo el mundo; y fructifica y crece, como también en vosotros, desde el día que oísteis y conocisteis la gracia de Dios en verdad, \bibverse{7} Como habéis aprendido de Epafras, nuestro consiervo amado, el cual es un fiel ministro de Cristo á favor vuestro; ^[**1:7** Col 4,12; Filem 1,23] \bibverse{8} El cual también nos ha declarado vuestro amor en el Espíritu. 
@@ -23,13 +23,11 @@
 
 ## El llamado de Pablo y su derecho a trabajar como apóstol gentil en la predicación del concilio de salvación de Dios a pesar de todos los sufrimientos y luchas duras
 \bibverse{24} Que ahora me gozo en lo que padezco por vosotros, y cumplo en mi carne lo que falta de las aflicciones de Cristo por su cuerpo, que es la iglesia; \bibverse{25} De la cual soy hecho ministro, según la dispensación de Dios que me fué dada en orden á vosotros, para que cumpla la palabra de Dios; \bibverse{26} A saber, el misterio que había estado oculto desde los siglos y edades, mas ahora ha sido manifestado á sus santos: ^[**1:26** Rom 16,25-26; Efes 3,3-6] \bibverse{27} A los cuales quiso Dios hacer notorias las riquezas de la gloria de este misterio entre los Gentiles; que es Cristo en vosotros la esperanza de gloria: ^[**1:27** 1Tim 1,1] 
- 
-
-\bibverse{28} El cual nosotros anunciamos, amonestando á todo hombre, y enseñando en toda sabiduría, para que presentemos á todo hombre perfecto en Cristo Jesús: \bibverse{29} En lo cual aun trabajo, combatiendo según la operación de él, la cual obra en mí poderosamente. 
+ \bibverse{28} El cual nosotros anunciamos, amonestando á todo hombre, y enseñando en toda sabiduría, para que presentemos á todo hombre perfecto en Cristo Jesús: \bibverse{29} En lo cual aun trabajo, combatiendo según la operación de él, la cual obra en mí poderosamente. 
 
 ## El propósito de la carta, la revelación de un secreto de salvación
 # 2 
-\bibverse{1} Porque quiero que sepáis cuán gran solicitud tengo por vosotros, y por los que están en Laodicea, y por todos los que nunca vieron mi rostro en carne; \bibverse{2} Para que sean confortados sus corazones, unidos en amor, y en todas riquezas de cumplido entendimiento para conocer el misterio de Dios, y del Padre, y de Cristo; \bibverse{3} En el cual están escondidos todos los tesoros de sabiduría y conocimiento. ^[**2:3** 1Cor 1,24; 1Cor 1,30] 
+\bibverse{1} PORQUE quiero que sepáis cuán gran solicitud tengo por vosotros, y por los que están en Laodicea, y por todos los que nunca vieron mi rostro en carne; \bibverse{2} Para que sean confortados sus corazones, unidos en amor, y en todas riquezas de cumplido entendimiento para conocer el misterio de Dios, y del Padre, y de Cristo; \bibverse{3} En el cual están escondidos todos los tesoros de sabiduría y conocimiento. ^[**2:3** 1Cor 1,24; 1Cor 1,30] 
 
 
 ## El pleno conocimiento de la salvación creada por Cristo salva a los colosenses de ser engañados por falsas enseñanzas
@@ -53,7 +51,7 @@
 
 ## Busca, no lo que hay en la tierra
 # 3 
-\bibverse{1} Si habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado á la diestra de Dios. ^[**3:1** Col 2,12] \bibverse{2} Poned la mira en las cosas de arriba, no en las de la tierra. ^[**3:2** Mat 6,33] \bibverse{3} Porque muertos sois, y vuestra vida está escondida con Cristo en Dios. ^[**3:3** Rom 6,2] \bibverse{4} Cuando Cristo, vuestra vida, se manifestare, entonces vosotros también seréis manifestados con él en gloria. ^[**3:4** 1Cor 15,43] 
+\bibverse{1} SI habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado á la diestra de Dios. ^[**3:1** Col 2,12] \bibverse{2} Poned la mira en las cosas de arriba, no en las de la tierra. ^[**3:2** Mat 6,33] \bibverse{3} Porque muertos sois, y vuestra vida está escondida con Cristo en Dios. ^[**3:3** Rom 6,2] \bibverse{4} Cuando Cristo, vuestra vida, se manifestare, entonces vosotros también seréis manifestados con él en gloria. ^[**3:4** 1Cor 15,43] 
    
 
 ## Mata lo que está abajo
@@ -84,7 +82,7 @@
  
 
 # 4 
-\bibverse{1} Amos, haced lo que es justo y derecho con vuestros siervos, sabiendo que también vosotros tenéis amo en los cielos. ^[**4:1** Lev 25,43; Lev 25,53] 
+\bibverse{1} AMOS, haced lo que es justo y derecho con vuestros siervos, sabiendo que también vosotros tenéis amo en los cielos. ^[**4:1** Lev 25,43; Lev 25,53] 
 
 
 ## Admoniciones especiales individuales para orar (especialmente intercesión) y comportarse de la manera correcta contra los no cristianos

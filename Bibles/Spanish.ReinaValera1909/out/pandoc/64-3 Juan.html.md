@@ -1,6 +1,6 @@
 ## Bendición para Gayo y reconocimiento a su caminar cristiano
 # 1 
-<sup>1</sup> El anciano al muy amado Gaio, al cual yo amo en verdad. ^[**1:1** 2Jn 1,-1] 
+<sup>1</sup> EL anciano al muy amado Gaio, al cual yo amo en verdad. ^[**1:1** 2Jn 1,-1] 
 
 
 <sup>2</sup> Amado, yo deseo que tú seas prosperado en todas cosas, y que tengas salud, así como tu alma está en prosperidad. <sup>3</sup> Ciertamente me gocé mucho cuando vinieron los hermanos y dieron testimonio de tu verdad, así como tú andas en la verdad. <sup>4</sup> No tengo yo mayor gozo que éste, el oir que mis hijos andan en la verdad. 

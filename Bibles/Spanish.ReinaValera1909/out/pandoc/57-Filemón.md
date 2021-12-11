@@ -1,6 +1,6 @@
 ## Bendiciones
 # 1 
-\bibverse{1} Pablo, prisionero de Jesucristo, y el hermano Timoteo, á Filemón amado, y coadjutor nuestro; ^[**1:1** Efes 3,1] \bibverse{2} Y á la amada Apphia, y á Archîpo, compañero de nuestra milicia, y á la iglesia que está en tu casa: ^[**1:2** Col 4,17] \bibverse{3} Gracia á vosotros y paz de Dios nuestro Padre, y del Señor Jesucristo. 
+\bibverse{1} PABLO, prisionero de Jesucristo, y el hermano Timoteo, á Filemón amado, y coadjutor nuestro; ^[**1:1** Efes 3,1] \bibverse{2} Y á la amada Apphia, y á Archîpo, compañero de nuestra milicia, y á la iglesia que está en tu casa: ^[**1:2** Col 4,17] \bibverse{3} Gracia á vosotros y paz de Dios nuestro Padre, y del Señor Jesucristo. 
  
 
 ## Gracias a Dios e intercesión por Filemón

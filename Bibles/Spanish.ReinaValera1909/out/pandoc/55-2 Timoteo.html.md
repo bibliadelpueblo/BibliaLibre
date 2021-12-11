@@ -1,6 +1,6 @@
 ## Bendiciones
 # 1 
-<sup>1</sup> Pablo, apóstol de Jesucristo por la voluntad de Dios, según la promesa de la vida que es en Cristo Jesús, <sup>2</sup> A Timoteo, amado hijo: Gracia, misericordia, y paz de Dios el Padre y de Jesucristo nuestro Señor. 
+<sup>1</sup> PABLO, apóstol de Jesucristo por la voluntad de Dios, según la promesa de la vida que es en Cristo Jesús, <sup>2</sup> A Timoteo, amado hijo: Gracia, misericordia, y paz de Dios el Padre y de Jesucristo nuestro Señor. 
 
 ## Acción de gracias del apóstol por la firmeza de la fe de Timoteo
 <sup>3</sup> Doy gracias á Dios, al cual sirvo desde mis mayores con limpia conciencia, de que sin cesar tengo memoria de ti en mis oraciones noche y día; <sup>4</sup> Deseando verte, acordándome de tus lágrimas, para ser lleno de gozo; ^[**1:4** 2Tim 4,9] <sup>5</sup> Trayendo á la memoria la fe no fingida que hay en ti, la cual residió primero en tu abuela Loida, y en tu madre Eunice; y estoy cierto que en ti también. ^[**1:5** Hech 16,1-3] 
@@ -17,13 +17,11 @@
  
 
 <sup>15</sup> Ya sabes esto, que me han sido contrarios todos los que son en Asia, de los cuales son Figello y Hermógenes. ^[**1:15** 2Tim 4,16] <sup>16</sup> Dé el Señor misericordia á la casa de Onesíforo; que muchas veces me refrigeró, y no se avergonzó de mi cadena: ^[**1:16** 2Tim 4,20] 
- 
-
-<sup>17</sup> Antes, estando él en Roma, me buscó solícitamente, y me halló. <sup>18</sup> Déle el Señor que halle misericordia cerca del Señor en aquel día. Y cuánto nos ayudó en Efeso, tú lo sabes mejor. 
+ <sup>17</sup> Antes, estando él en Roma, me buscó solícitamente, y me halló. <sup>18</sup> Déle el Señor que halle misericordia cerca del Señor en aquel día. Y cuánto nos ayudó en Efeso, tú lo sabes mejor. 
 
 ## Exhortación a Timoteo para que se preocupe por la predicación de la doctrina de la salvación y se fortalezca en la batalla y el sufrimiento
 # 2 
-<sup>1</sup> Pues tú, hijo mío, esfuérzate en la gracia que es en Cristo Jesús. ^[**2:1** Efes 6,10] <sup>2</sup> Y lo que has oído de mí entre muchos testigos, esto encarga á los hombres fieles que serán idóneos para enseñar también á otros. <sup>3</sup> Tú pues, sufre trabajos como fiel soldado de Jesucristo. <sup>4</sup> Ninguno que milita se embaraza en los negocios de la vida; á fin de agradar á aquel que lo tomó por soldado. <sup>5</sup> Y aun también el que lidia, no es coronado si no lidiare legítimamente. ^[**2:5** 1Cor 9,24-27; 2Tim 4,8] <sup>6</sup> El labrador, para recibir los frutos, es menester que trabaje primero. <sup>7</sup> Considera lo que digo; y el Señor te dé entendimiento en todo. 
+<sup>1</sup> PUES tú, hijo mío, esfuérzate en la gracia que es en Cristo Jesús. ^[**2:1** Efes 6,10] <sup>2</sup> Y lo que has oído de mí entre muchos testigos, esto encarga á los hombres fieles que serán idóneos para enseñar también á otros. <sup>3</sup> Tú pues, sufre trabajos como fiel soldado de Jesucristo. <sup>4</sup> Ninguno que milita se embaraza en los negocios de la vida; á fin de agradar á aquel que lo tomó por soldado. <sup>5</sup> Y aun también el que lidia, no es coronado si no lidiare legítimamente. ^[**2:5** 1Cor 9,24-27; 2Tim 4,8] <sup>6</sup> El labrador, para recibir los frutos, es menester que trabaje primero. <sup>7</sup> Considera lo que digo; y el Señor te dé entendimiento en todo. 
  
 
 ## Fuerza y ​​consuelo del guerrero de Cristo en la batalla del sufrimiento
@@ -43,13 +41,11 @@
 <sup>20</sup> Mas en una casa grande, no solamente hay vasos de oro y de plata, sino también de madera y de barro: y asimismo unos para honra, y otros para deshonra. <sup>21</sup> Así que, si alguno se limpiare de estas cosas, será vaso para honra, santificado, y útil para los usos del Señor, y aparejado para todo buena obra. 
 
 <sup>22</sup> Huye también los deseos juveniles; y sigue la justicia, la fe, la caridad, la paz, con los que invocan al Señor de puro corazón. ^[**2:22** 1Tim 4,12; 1Tim 6,11; Heb 12,14] <sup>23</sup> Empero las cuestiones necias y sin sabiduría desecha, sabiendo que engendran contiendas. ^[**2:23** 1Tim 4,7] <sup>24</sup> Que el siervo del Señor no debe ser litigioso, sino manso para con todos, apto para enseñar, sufrido; ^[**2:24** Tit 1,7] 
-  
-
-<sup>25</sup> Que con mansedumbre corrija á los que se oponen: si quizá Dios les dé que se arrepientan para conocer la verdad, <sup>26</sup> Y se zafen del lazo del diablo, en que están cautivos á voluntad de él. 
+  <sup>25</sup> Que con mansedumbre corrija á los que se oponen: si quizá Dios les dé que se arrepientan para conocer la verdad, <sup>26</sup> Y se zafen del lazo del diablo, en que están cautivos á voluntad de él. 
 
 ## Descripción de los futuros falsos maestros y la corrupción moral del último tiempo
 # 3 
-<sup>1</sup> Esto también sepas, que en los postreros días vendrán tiempos peligrosos: <sup>2</sup> Que habrá hombres amadores de sí mismos, avaros, vanagloriosos, soberbios, detractores, desobedientes á los padres, ingratos, sin santidad, <sup>3</sup> Sin afecto, desleales, calumniadores, destemplados, crueles, aborrecedores de lo bueno, <sup>4</sup> Traidores, arrebatados, hinchados, amadores de los deleites más que de Dios; <sup>5</sup> Teniendo apariencia de piedad, mas habiendo negado la eficacia de ella: y á éstos evita. ^[**3:5** Mat 7,15; Mat 7,21; Tit 1,16] <sup>6</sup> Porque de éstos son los que se entran por las casas, y llevan cautivas las mujercillas cargadas de pecados, llevadas de diversas concupiscencias; <sup>7</sup> Que siempre aprenden, y nunca pueden acabar de llegar al conocimiento de la verdad. <sup>8</sup> Y de la manera que Jannes y Jambres resistieron á Moisés, así también éstos resisten á la verdad; hombres corruptos de entendimiento, réprobos acerca de la fe. <sup>9</sup> Mas no prevalecerán; porque su insensatez será manifiesta á todos, como también lo fué la de aquéllos. 
+<sup>1</sup> ESTO también sepas, que en los postreros días vendrán tiempos peligrosos: <sup>2</sup> Que habrá hombres amadores de sí mismos, avaros, vanagloriosos, soberbios, detractores, desobedientes á los padres, ingratos, sin santidad, <sup>3</sup> Sin afecto, desleales, calumniadores, destemplados, crueles, aborrecedores de lo bueno, <sup>4</sup> Traidores, arrebatados, hinchados, amadores de los deleites más que de Dios; <sup>5</sup> Teniendo apariencia de piedad, mas habiendo negado la eficacia de ella: y á éstos evita. ^[**3:5** Mat 7,15; Mat 7,21; Tit 1,16] <sup>6</sup> Porque de éstos son los que se entran por las casas, y llevan cautivas las mujercillas cargadas de pecados, llevadas de diversas concupiscencias; <sup>7</sup> Que siempre aprenden, y nunca pueden acabar de llegar al conocimiento de la verdad. <sup>8</sup> Y de la manera que Jannes y Jambres resistieron á Moisés, así también éstos resisten á la verdad; hombres corruptos de entendimiento, réprobos acerca de la fe. <sup>9</sup> Mas no prevalecerán; porque su insensatez será manifiesta á todos, como también lo fué la de aquéllos. 
 
 
 ## Referencia al ejemplo de Pablo y un recordatorio de perseverar y aferrarse a las enseñanzas tradicionales y las Sagradas Escrituras a pesar de todo el sufrimiento
@@ -58,7 +54,7 @@
 
 ## Otro llamado a Timoteo para que sea fiel a su oficio
 # 4 
-<sup>1</sup> Requiero yo pues delante de Dios, y del Señor Jesucristo, que ha de juzgar á los vivos y los muertos en su manifestación y en su reino, ^[**4:1** 1Pe 4,5] <sup>2</sup> Que prediques la palabra; que instes á tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina. ^[**4:2** Hech 20,20; Hech 20,31] <sup>3</sup> Porque vendrá tiempo cuando no sufrirán la sana doctrina; antes, teniendo comezón de oir, se amontonarán maestros conforme á sus concupiscencias, ^[**4:3** 1Tim 4,1] <sup>4</sup> Y apartarán de la verdad el oído, y se volverán á las fábulas. ^[**4:4** 1Tim 4,7; 2Tes 2,11] <sup>5</sup> Pero tú vela en todo, soporta las aflicciones, haz la obra de evangelista, cumple tu ministerio. ^[**4:5** 2Tim 2,3] 
+<sup>1</sup> REQUIERO yo pues delante de Dios, y del Señor Jesucristo, que ha de juzgar á los vivos y los muertos en su manifestación y en su reino, ^[**4:1** 1Pe 4,5] <sup>2</sup> Que prediques la palabra; que instes á tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina. ^[**4:2** Hech 20,20; Hech 20,31] <sup>3</sup> Porque vendrá tiempo cuando no sufrirán la sana doctrina; antes, teniendo comezón de oir, se amontonarán maestros conforme á sus concupiscencias, ^[**4:3** 1Tim 4,1] <sup>4</sup> Y apartarán de la verdad el oído, y se volverán á las fábulas. ^[**4:4** 1Tim 4,7; 2Tes 2,11] <sup>5</sup> Pero tú vela en todo, soporta las aflicciones, haz la obra de evangelista, cumple tu ministerio. ^[**4:5** 2Tim 2,3] 
     
 
 ## Solemne referencia del apóstol al próximo final de su vida; su auto-testimonio y su esperanza

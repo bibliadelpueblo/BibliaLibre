@@ -1,6 +1,6 @@
 ## La venida de Dios al juicio de los gentiles, así como de Israel y Judá
 # 1 
-\bibverse{1} Palabra de Jehová que fué á Miqueas de Morasti en días de Jotham, Achâz, y Ezechîas, reyes de Judá: lo que vió sobre Samaria y Jerusalem. ^[**1:1** Jer 26,18; Is 1,1] \bibverse{2} Oid, pueblos todos: está atenta, tierra, y todo lo que en ella hay: y el Señor Jehová, el Señor desde su santo templo sea testigo contra vosotros. \bibverse{3} Porque he aquí, Jehová sale de su lugar, y descenderá, y hollará sobre las alturas de la tierra. ^[**1:3** Am 4,13] \bibverse{4} Y debajo de él se derretirán los montes, y los valles se hendirán como la cera delante del fuego, como las aguas que corren por un precipicio. \bibverse{5} Todo esto por la rebelión de Jacob, y por los pecados de la casa de Israel. ¿Cuál es la rebelión de Jacob? ¿no es Samaria? ¿Y cuáles son los excelsos de Judá? ¿no es Jerusalem? 
+\bibverse{1} PALABRA de Jehová que fué á Miqueas de Morasti en días de Jotham, Achâz, y Ezechîas, reyes de Judá: lo que vió sobre Samaria y Jerusalem. ^[**1:1** Jer 26,18; Is 1,1] \bibverse{2} Oid, pueblos todos: está atenta, tierra, y todo lo que en ella hay: y el Señor Jehová, el Señor desde su santo templo sea testigo contra vosotros. \bibverse{3} Porque he aquí, Jehová sale de su lugar, y descenderá, y hollará sobre las alturas de la tierra. ^[**1:3** Am 4,13] \bibverse{4} Y debajo de él se derretirán los montes, y los valles se hendirán como la cera delante del fuego, como las aguas que corren por un precipicio. \bibverse{5} Todo esto por la rebelión de Jacob, y por los pecados de la casa de Israel. ¿Cuál es la rebelión de Jacob? ¿no es Samaria? ¿Y cuáles son los excelsos de Judá? ¿no es Jerusalem? 
  
 
 ## Anuncio de la caída de Samaria
@@ -25,7 +25,7 @@
 
 ## Acusaciones y amenazas de Miqueas contra los líderes violentos del pueblo y los falsos profetas
 # 3 
-\bibverse{1} Y dije: Oid ahora, príncipes de Jacob, y cabezas de la casa de Israel: ¿No pertenecía á vosotros saber el derecho? \bibverse{2} Que aborrecen lo bueno y aman lo malo, que les quitan su piel y su carne de sobre los huesos; \bibverse{3} Que comen asimismo la carne de mi pueblo, y les desuellan su piel de sobre ellos, y les quebrantan sus huesos y los rompen, como para el caldero, y como carnes en olla. \bibverse{4} Entonces clamarán á Jehová y no les responderá; antes esconderá de ellos su rostro en aquel tiempo, por cuanto hicieron malvadas obras. 
+\bibverse{1} Y DIJE: Oid ahora, príncipes de Jacob, y cabezas de la casa de Israel: ¿No pertenecía á vosotros saber el derecho? \bibverse{2} Que aborrecen lo bueno y aman lo malo, que les quitan su piel y su carne de sobre los huesos; \bibverse{3} Que comen asimismo la carne de mi pueblo, y les desuellan su piel de sobre ellos, y les quebrantan sus huesos y los rompen, como para el caldero, y como carnes en olla. \bibverse{4} Entonces clamarán á Jehová y no les responderá; antes esconderá de ellos su rostro en aquel tiempo, por cuanto hicieron malvadas obras. 
 
 ## Amenaza para los profetas de la luna de miel en contraste con Micha, el profeta lleno del espíritu de Dios
 \bibverse{5} Así ha dicho Jehová acerca de los profetas que hacen errar á mi pueblo, que muerden con sus dientes, y claman, Paz, y al que no les diere que coman, aplazan contra él batalla: \bibverse{6} Por tanto, de la profecía se os hará noche, y oscuridad del adivinar; y sobre los profetas se pondrá el sol, y el día se entenebrecerá sobre ellos. \bibverse{7} Y serán avergonzados los profetas, y confundiránse los adivinos; y ellos todos cubrirán su labio, porque no hay respuesta de Dios. \bibverse{8} Yo empero estoy lleno de fuerza del espíritu de Jehová, y de juicio, y de fortaleza, para denunciar á Jacob su rebelión, y á Israel su pecado. ^[**3:8** Is 58,1] 
@@ -37,7 +37,7 @@
 
 ## La exaltada Sion y la futura gloria de la paz general entre las naciones
 # 4 
-\bibverse{1} Y acontecerá en los postreros tiempos, que el monte de la casa de Jehová será constituído por cabecera de montes, y más alto que los collados, y correrán á él pueblos. ^[**4:1** Is 2,2-4] \bibverse{2} Y vendrán muchas gentes, y dirán: Venid, y subamos al monte de Jehová, y á la casa del Dios de Jacob; y enseñarános en sus caminos, y andaremos por sus veredas: porque de Sión saldrá la ley, y de Jerusalem la palabra de Jehová. ^[**4:2** Luc 24,47] \bibverse{3} Y juzgará entre muchos pueblos, y corregirá fuertes gentes hasta muy lejos: y martillarán sus espadas para azadones, y sus lanzas para hoces: no alzará espada gente contra gente, ni más se ensayarán para la guerra. \bibverse{4} Y cada uno se sentará debajo de su vid y debajo de su higuera, y no habrá quien amedrente: porque la boca de Jehová de los ejércitos lo ha hablado. ^[**4:4** 1Re 5,5; Zac 3,10] \bibverse{5} Bien que todos los pueblos anduvieren cada uno en el nombre de sus dioses, nosotros con todo andaremos en el nombre de Jehová nuestro Dios para siempre y eternalmente. 
+\bibverse{1} Y ACONTECERÁ en los postreros tiempos, que el monte de la casa de Jehová será constituído por cabecera de montes, y más alto que los collados, y correrán á él pueblos. ^[**4:1** Is 2,2-4] \bibverse{2} Y vendrán muchas gentes, y dirán: Venid, y subamos al monte de Jehová, y á la casa del Dios de Jacob; y enseñarános en sus caminos, y andaremos por sus veredas: porque de Sión saldrá la ley, y de Jerusalem la palabra de Jehová. ^[**4:2** Luc 24,47] \bibverse{3} Y juzgará entre muchos pueblos, y corregirá fuertes gentes hasta muy lejos: y martillarán sus espadas para azadones, y sus lanzas para hoces: no alzará espada gente contra gente, ni más se ensayarán para la guerra. \bibverse{4} Y cada uno se sentará debajo de su vid y debajo de su higuera, y no habrá quien amedrente: porque la boca de Jehová de los ejércitos lo ha hablado. ^[**4:4** 1Re 5,5; Zac 3,10] \bibverse{5} Bien que todos los pueblos anduvieren cada uno en el nombre de sus dioses, nosotros con todo andaremos en el nombre de Jehová nuestro Dios para siempre y eternalmente. 
   
 
 ## Reunir a los dispersos y curar a los enfermos bajo el gobierno de Dios
@@ -50,7 +50,7 @@
 \bibverse{11} Ahora empero se han juntado muchas gentes contra ti, y dicen: Sea profanada, y vean nuestros ojos su deseo sobre Sión. \bibverse{12} Mas ellos no conocieron los pensamientos de Jehová, ni entendieron su consejo: por lo cual los juntó como gavillas en la era. \bibverse{13} Levántate y trilla, hija de Sión, porque tu cuerno tornaré de hierro, y tus uñas de metal, y desmenuzarás muchos pueblos; y consagrarás á Jehová sus robos, y sus riquezas al Señor de toda la tierra. 
 
 # 5 
-\bibverse{1} Reúnete ahora en bandas, oh hija de bandas: nos han sitiado: con vara herirán sobre la quijada al juez de Israel. ^[**5:1** Mat 2,5-6; Juan 1,1-2] 
+\bibverse{1} REÚNETE ahora en bandas, oh hija de bandas: nos han sitiado: con vara herirán sobre la quijada al juez de Israel. ^[**5:1** Mat 2,5-6; Juan 1,1-2] 
 
 
 ## El nuevo David del futuro de Belén, su pueblo y su tiempo de paz
@@ -70,7 +70,7 @@
 
 ## La disputa de Dios con su pueblo ingrato
 # 6 
-\bibverse{1} Oid ahora lo que dice Jehová: Levántate, pleitea con los montes, y oigan los collados tu voz. \bibverse{2} Oid, montes, y fuertes fundamentos de la tierra, el pleito de Jehová: porque tiene Jehová pleito con su pueblo, y altercará con Israel. \bibverse{3} Pueblo mío, ¿qué te he hecho, ó en qué te he molestado? Responde contra mí. ^[**6:3** Jer 2,5] \bibverse{4} Porque yo te hice subir de la tierra de Egipto, y de la casa de siervos te redimí; y envié delante de ti á Moisés, y á Aarón, y á María. \bibverse{5} Pueblo mío, acuérdate ahora qué aconsejó Balac rey de Moab, y qué le respondió Balaam, hijo de Beor, desde Sittim hasta Gilgal, para que conozcas las justicias de Jehová. 
+\bibverse{1} OID ahora lo que dice Jehová: Levántate, pleitea con los montes, y oigan los collados tu voz. \bibverse{2} Oid, montes, y fuertes fundamentos de la tierra, el pleito de Jehová: porque tiene Jehová pleito con su pueblo, y altercará con Israel. \bibverse{3} Pueblo mío, ¿qué te he hecho, ó en qué te he molestado? Responde contra mí. ^[**6:3** Jer 2,5] \bibverse{4} Porque yo te hice subir de la tierra de Egipto, y de la casa de siervos te redimí; y envié delante de ti á Moisés, y á Aarón, y á María. \bibverse{5} Pueblo mío, acuérdate ahora qué aconsejó Balac rey de Moab, y qué le respondió Balaam, hijo de Beor, desde Sittim hasta Gilgal, para que conozcas las justicias de Jehová. 
 
 
 ## La confesión de penitencia del pueblo

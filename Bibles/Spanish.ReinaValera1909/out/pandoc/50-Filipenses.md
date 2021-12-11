@@ -1,6 +1,6 @@
 ## Bendiciones
 # 1 
-\bibverse{1} Pablo y Timoteo, siervos de Jesucristo, á todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos: ^[**1:1** Hech 16,1; Hech 20,28; 1Tim 3,1; 1Tim 3,8] \bibverse{2} Gracia sea á vosotros, y paz de Dios nuestro Padre y del Señor Jesucristo. 
+\bibverse{1} PABLO y Timoteo, siervos de Jesucristo, á todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos: ^[**1:1** Hech 16,1; Hech 20,28; 1Tim 3,1; 1Tim 3,8] \bibverse{2} Gracia sea á vosotros, y paz de Dios nuestro Padre y del Señor Jesucristo. 
 
 
 ## La acción de gracias, la confianza y la intercesión del apóstol por la iglesia
@@ -20,13 +20,11 @@
 
 ## Recordatorio para caminar con dignidad y luchar unánimemente por el mensaje de salvación bajo toda hostilidad externa
 \bibverse{27} Solamente que converséis como es digno del evangelio de Cristo; para que, ó sea que vaya á veros, ó que esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, unánimes combatiendo juntamente por la fe del evangelio, \bibverse{28} Y en nada intimidados de los que se oponen: que á ellos ciertamente es indicio de perdición, mas á vosotros de salud; y esto de Dios; ^[**1:28** 2Tes 1,5] 
-
-
 \bibverse{29} Porque á vosotros es concedido por Cristo, no sólo que creáis en él, sino también que padezcáis por él, \bibverse{30} Teniendo el mismo conflicto que habéis visto en mí, y ahora oís estar en mí. 
 
 ## Recordatorio de unidad dentro de la comunidad, de abnegación y voluntad de sufrir según el ejemplo de Cristo
 # 2 
-\bibverse{1} Por tanto, si hay alguna consolación en Cristo; si algún refrigerio de amor; si alguna comunión del Espíritu; si algunas entrañas y misericordias, \bibverse{2} Cumplid mi gozo; que sintáis lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa. \bibverse{3} Nada hagáis por contienda ó por vanagloria; antes bien en humildad, estimándoos inferiores los unos á los otros: ^[**2:3** Gal 5,26; Rom 12,10] \bibverse{4} No mirando cada uno á lo suyo propio, sino cada cual también á lo de los otros. ^[**2:4** 1Cor 10,24; 1Cor 13,5] 
+\bibverse{1} POR tanto, si hay alguna consolación en Cristo; si algún refrigerio de amor; si alguna comunión del Espíritu; si algunas entrañas y misericordias, \bibverse{2} Cumplid mi gozo; que sintáis lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa. \bibverse{3} Nada hagáis por contienda ó por vanagloria; antes bien en humildad, estimándoos inferiores los unos á los otros: ^[**2:3** Gal 5,26; Rom 12,10] \bibverse{4} No mirando cada uno á lo suyo propio, sino cada cual también á lo de los otros. ^[**2:4** 1Cor 10,24; 1Cor 13,5] 
  
 
 \bibverse{5} Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús: \bibverse{6} El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios: ^[**2:6** Juan 1,1-2; Juan 17,5] \bibverse{7} Sin embargo, se anonadó á sí mismo, tomando forma de siervo, hecho semejante á los hombres; ^[**2:7** Is 53,3; Mat 20,28; 2Cor 8,9; Heb 2,14; Heb 2,17] \bibverse{8} Y hallado en la condición como hombre, se humilló á sí mismo, hecho obediente hasta la muerte, y muerte de cruz. ^[**2:8** Luc 14,11; Heb 12,2; Heb 5,8] \bibverse{9} Por lo cual Dios también le ensalzó á lo sumo, y dióle un nombre que es sobre todo nombre; ^[**2:9** Hech 2,33; Efes 1,21; Heb 1,3-4] \bibverse{10} Para que en el nombre de Jesús se doble toda rodilla de los que están en los cielos, y de los que en la tierra, y de los que debajo de la tierra; ^[**2:10** Is 45,23; Juan 5,23; Apoc 5,12-13] \bibverse{11} Y toda lengua confiese que Jesucristo es el Señor, á la gloria de Dios Padre. ^[**2:11** Apoc 5,13] 
@@ -44,13 +42,11 @@
   
 
 \bibverse{25} Mas tuve por cosa necesaria enviaros á Epafrodito, mi hermano, y colaborador y compañero de milicia, y vuestro mensajero, y ministrador de mis necesidades; ^[**2:25** Fil 4,18] \bibverse{26} Porque tenía gran deseo de ver á todos vosotros, y gravemente se angustió porque habíais oído que había enfermado. \bibverse{27} Pues en verdad estuvo enfermo á la muerte: mas Dios tuvo misericordia de él; y no solamente de él, sino aun de mí, para que yo no tuviese tristeza sobre tristeza. \bibverse{28} Así que le envío más presto, para que viéndole os volváis á gozar, y yo esté con menos tristeza. \bibverse{29} Recibidle pues en el Señor con todo gozo; y tened en estima á los tales: ^[**2:29** 1Cor 16,16] 
- 
-
-\bibverse{30} Porque por la obra de Cristo estuvo cercano á la muerte, poniendo su vida para suplir vuestra falta en mi servicio. 
+ \bibverse{30} Porque por la obra de Cristo estuvo cercano á la muerte, poniendo su vida para suplir vuestra falta en mi servicio. 
 
 ## Clama al gozo en el Señor; Invalidez de las virtudes externas y justicia de la ley en comparación con el conocimiento de la salvación en Cristo; Advertencia contra los falsos maestros judaístas
 # 3 
-\bibverse{1} Resta, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vosotros es seguro. 
+\bibverse{1} RESTA, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vosotros es seguro. 
 
 \bibverse{2} Guardaos de los perros, guardaos de los malos obreros, guardaos del cortamiento. ^[**3:2** Gal 5,12; Apoc 22,15] \bibverse{3} Porque nosotros somos la circuncisión, los que servimos en espíritu á Dios, y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. ^[**3:3** Rom 2,29] \bibverse{4} Aunque yo tengo también de qué confiar en la carne. Si alguno parece que tiene de qué confiar en la carne, yo más: ^[**3:4** 2Cor 11,18; 2Cor 11,22] \bibverse{5} Circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, Hebreo de Hebreos; cuanto á la ley, Fariseo; ^[**3:5** Hech 26,5; 2Tim 1,3] \bibverse{6} Cuanto al celo, perseguidor de la iglesia; cuanto á la justicia que es en la ley, irreprensible. ^[**3:6** Hech 8,3] 
     
@@ -70,7 +66,7 @@
      
 
 # 4 
-\bibverse{1} Así que, hermanos míos amados y deseados, gozo y corona mía, estad así firmes en el Señor, amados. ^[**4:1** 2Cor 1,14; 1Tes 2,19-20] 
+\bibverse{1} ASÍ que, hermanos míos amados y deseados, gozo y corona mía, estad así firmes en el Señor, amados. ^[**4:1** 2Cor 1,14; 1Tes 2,19-20] 
 
 
 ## Advertencia a feligreses individuales; Invitación al gozo en el Señor; Promesa de la paz de Dios como recompensa de la oración continua y el caminar virtuoso
