@@ -16,4 +16,5 @@ bibmark also creates a file called frames.md in the out folder that specifies ch
 In the frames.md file, the Bible Markdown files are specified by a # markdown title, the chapter numbers by a ## markdown title, and chapter titles by a ### markdown title.
 Verses that contain a paragraph or a footnote are denoted with superscript markdown notation followed by a \ for a paragraph or a ^^ for a footnote marker, or a ^[Footnote]
 footnote.
+
 bibmark also creates a file verses.md in the out folder, a file that shows how many verses each chapter has, so you can compare different Bibles verse numberings.
