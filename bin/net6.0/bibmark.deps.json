@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bibmark/1.0.0": {
+        "dependencies": {
+          "Pandoc.Windows": "2.1.0"
+        },
+        "runtime": {
+          "bibmark.dll": {}
+        }
+      },
+      "Pandoc.Windows/2.1.0": {}
+    }
+  },
+  "libraries": {
+    "bibmark/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pandoc.Windows/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ded+S0W66wMowfPXB0NMht1SV2BnBvi2M/50/h0hUOWxPAPc8tfV7ksL8eFLN/xvTmIgSKnGDpOsV3+sPVvNOA==",
+      "path": "pandoc.windows/2.1.0",
+      "hashPath": "pandoc.windows.2.1.0.nupkg.sha512"
+    }
+  }
+}
