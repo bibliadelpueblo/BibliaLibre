@@ -1,0 +1,33 @@
+\documentclass[14pt, b5paper, twoside]{extbook}
+\usepackage[spanish]{babel}
+\usepackage[twoside,bindingoffset=10mm,verbose,marginratio={4:3,5:3},
+  textwidth=143.3mm,height=218.6mm, nofoot]{geometry}
+\usepackage{tocloft}
+
+\renewcommand\cftchapfont{\Large\bfseries}
+\renewcommand\cftsecfont{\Large}
+
+\renewcommand\cftchappagefont{\Large\bfseries}
+\renewcommand\cftsecpagefont{\Large}
+
+\input{../../../tex/preamble.tex}
+
+\begin{document}
+
+\includepdf{HardCoverLetraGrande.pdf}
+
+\null\vfill
+\input{../out/tex/00.0-Impressum.tex}
+\newpage
+
+\null\vfill
+\begin{center}
+\begin{minipage}[c]{\textwidth}
+  \begin{center}
+  \includegraphics{TituloLetraGrande.pdf}
+  \end{center}
+\end{minipage}
+\end{center}
+\newpage
+
+\input{Biblia.tex}
