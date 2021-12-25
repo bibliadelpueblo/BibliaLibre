@@ -1,3 +1,4 @@
+%!verse-paragraphs%
 # 1 
 ## Indicación del propósito de las escrituras
 ^1^ Los proverbios de Salomón, hijo de David, rey de Israel: ^^ ^2^ Para entender sabiduría y doctrina; para conocer las razones prudentes; ^3^ Para recibir el consejo de prudencia, justicia, y juicio y equidad; ^4^ Para dar sagacidad á los simples, y á los jóvenes inteligencia y cordura. ^5^ Oirá el sabio, y aumentará el saber; y el entendido adquirirá consejo; ^6^ Para entender parábola y declaración; palabras de sabios, y sus dichos oscuros. 
