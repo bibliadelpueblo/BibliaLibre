@@ -12,8 +12,9 @@ If you have the source text of your Bible in USFM markup, you can place those fi
 files in the main folder if the source files are newer than the Bible Markdown files.
 From the Bible Markdown files, bibmark creates LaTeX files in the out/tex folder and HTML files in the out/html folder.
 
-bibmark also creates a file called frames.md in the src folder that specifies chapter titles and paragraphs and footnotes. If this file is newer than the Bible Markdown files,
-bibmark applies the chapter titles and paragraphs and footnotes found in the frames.md file to the Bible Markdown files.
+bibmark also creates a file called frames.md in the out folder that specifies chapter titles and paragraphs and footnotes. If you move this file to the src folder and it is newer than the Bible Markdown files, bibmark applies the chapter titles and paragraphs and footnotes found in the frames.md file to the Bible Markdown files.
 In the frames.md file, the Bible Markdown files are specified by a # markdown title, the chapter numbers by a ## markdown title, and chapter titles by a ### markdown title.
 Verses that contain a paragraph or a footnote are denoted with superscript markdown notation followed by a \ for a paragraph or a ^^ for a footnote marker, or a ^[Footnote]
 footnote.
+
+bibmark also creates a file verses.md in the out folder, a file that shows how many verses each chapter has, so you can compare different Bibles verse numberings.
