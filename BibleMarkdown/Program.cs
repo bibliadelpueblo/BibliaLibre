@@ -53,6 +53,9 @@ namespace BibleMarkdown
 						var bookm = Regex.Match(src, @"\\h\s+(.*?)$", RegexOptions.Multiline);
 						var book = bookm.Groups[1].Value.Trim();
 
+						if (book == "") bookm = Regex.Match(src, @"\\toc1\s+(.*?)$", RegexOptions.Multiline);
+						book = bookm.Groups[1].Value.Trim();
+
 						src = Regex.Match(src, @"\\c\s+[0-9]+.*", RegexOptions.Singleline).Value; // remove header that is not content of a chapter
 						src = src.Replace("\r", "").Replace("\n", ""); // remove newlines
 						src = Regex.Replace(src, @"(?<=\\c\s+[0-9]+\s*(\\s[0-9]+\s+[^\\]*?)?)\\p", ""); // remove empty paragraph after chapter
@@ -71,12 +74,16 @@ namespace BibleMarkdown
 							return res;
 						}); // chapters
 						src = Regex.Replace(src, @"\\v\s+([0-9]+)", "^$1^"); // verse numbers
-						src = Regex.Replace(src, @"\\(?<type>[fx])\s*[+-?]\s*(.*?)\\\k<type>\*(.*?(?=\s*#|\\p))", $"^*^$2{Environment.NewLine}^[$1]"); // footnotes
+						string osrc;
+						do {
+							osrc = src;
+							src = Regex.Replace(src, @"\\(?<type>[fx])\s*[+-?]\s*(.*?)\\\k<type>\*(.*?(?=\s*#|\\p))", $"^^$2{Environment.NewLine}^[$1]", RegexOptions.Singleline); // footnotes
+						} while (osrc != src);
 						src = Regex.Replace(src, @"\\p *", string.Concat(Enumerable.Repeat(Environment.NewLine, 2))); // replace new paragraph with empty line
 						src = Regex.Replace(src, @"\|([a-z-]+=""[^""]*""\s*)+", ""); // remove word attributes
 						src = Regex.Replace(src, @"\\\+?\w+(\*|\s*)?", ""); // remove usfm tags
 						src = Regex.Replace(src, @" +", " "); // remove multiple spaces
-
+						src = Regex.Replace(src, @"\^\[([0-9]+)[.:]([0-9]+)", "^[**$1:$2**"); // bold verse references in footnotes
 						if (LowercaseFirstWords) // needed for ReinaValera1909, it has uppercase words on every beginning of a chapter
 						{
 							src = Regex.Replace(src, @"(\^1\^ \w)(\w*)", m => $"{m.Groups[1].Value}{m.Groups[2].Value.ToLower()}");
@@ -166,6 +173,44 @@ namespace BibleMarkdown
 			}
 		}
 
+		public static void ImportFromZefania(string mdpath, string srcpath)
+		{
+			var sources = Directory.EnumerateFiles(srcpath)
+				.Where(file => file.EndsWith(".xml"));
+
+			foreach (var source in sources)
+			{
+				var root = XElement.Load(File.Open(source, FileMode.Open));
+
+				foreach (var book in root.Elements("BIBLEBOOK"))
+				{
+					StringBuilder text = new StringBuilder();
+					var file = $"{((int)book.Attribute("bnumber")):D2}-{(string)book.Attribute("bname")}.md";
+					var firstchapter = true;
+
+					foreach (var chapter in book.Elements("CHAPTER"))
+					{
+						if (!firstchapter) text.AppendLine("");
+						firstchapter = false;
+						text.Append($"# {((int)chapter.Attribute("cnumber"))}{Environment.NewLine}");
+						var firstverse = true;
+
+						foreach (var verse in chapter.Elements("VERS"))
+						{
+							if (!firstverse) text.Append(" ");
+							firstverse = false;
+							text.Append($"^{((int)verse.Attribute("vnumber"))}^ ");
+							text.Append(verse.Value);
+						}
+					}
+
+					var md = Path.Combine(mdpath, file);
+					File.WriteAllText(md, text.ToString());
+					Console.WriteLine($"Created {md}.");
+
+				}
+			}
+		}
 		public struct Footnote
 		{
 			public int Index;
@@ -623,8 +668,11 @@ namespace BibleMarkdown
 		static void ProcessPath(string path)
 		{
 			var srcpath = Path.Combine(path, "src");
+			var outpath = Path.Combine(path, "out");
+			if (!Directory.Exists(outpath)) Directory.CreateDirectory(outpath);
 			ImportFromUSFM(path, srcpath);
 			ImportFromTXT(path, srcpath);
+			ImportFromZefania(path, srcpath);
 			ImportFrame(path);
 			var files = Directory.EnumerateFiles(path, "*.md");
 			foreach (var file in files) ProcessFile(file);

@@ -1,0 +1,46 @@
+# 1 
+^1^ Profecía acerca de Nínive: El rollo de la visión que vino a Nahúm de Elcos. ^2^ El Señor es un Dios celoso y vengador. El Señor Dios es vengador y lleno de enojo. El Señor toma venganza de sus enemigos, y está enojado con los que son hostiles hacia él. ^3^ El Señor es lento en enojarse, tiene gran poder y no dejará al culpable sin castigo. Él camina en medio del torbellino y la tormenta; las nubes son como polvo bajo sus pies. ^4^ Él da la orden y el mar se seca, así mismo seca todos los ríos. Basán y Carmelo^^ se marchitan; la prosperidad del Líbano se desvanece. ^5^ Los montes tiemblan en su presencia y las colinas se derriten. La tierra tiembla ante él, todo el mundo y los que en él habitan. ^6^ ¿Quién puede resistir su furia? ¿Quién puede soportar el ardor de su ira? Su enojo brota como fuego derretido y rompe las rocas en pedazos. 
+^[**1:4** Estos don dos sitios famosos por tener buenos pastizales. ]
+
+^7^ El Señor es bueno, es un lugar seguro en momento de tribulación. Él cuida de los que confían en él, ^8^ pero los que están contra él serán arrastrados por una gran inundación hasta ser destruidos. Él va tras sus enemigos hasta hacerlos llegar a la oscuridad de la muerte. ^9^ ¿Por qué conspiran contra el Señor? Él acabará con su conspiración por completo, y la miseria no se levantará dos veces. ^10^ Ellos^^ se enredan como los que quedan atrapados en medio de arbustos con espinas; como borrachos que han bebido y se han embriagado. Serán quemados por completo como la paja seca.^^ ^11^ Uno de ustedes conspira el mal contra el Señor, uno que maquina maldad. 
+^[**1:10** Los enemigos de Dios. ]
+^[**1:10** Este versículo es reconocido como uno de los versículos más difíciles de traducir en la Biblia, ya que la interpretación específica es incierta. Sin embargo, queda claro el punto principal sobre la destrucción de los que se oponen a Dios.]
+
+^12^ Esto es lo que dice el Señor: Aunque sean fuertes y numerosos, ellos serán destruidos y morirán. Aunque yo les he causado angustia, ya no lo haré más. ^13^ Ahora romperé el yugo que han puesto sobre sus cuellos y romperé las cadenas con que los han atado. 
+
+^14^ Esto es lo que el Señor ha dicho respecto a ti:^^ No tendrán descendientes que lleven tu nombre. Yo destruiré los dioses en tus templos, todos los ídolos de madera y de metal. Cavaré tu tumba, porque te has depravado. 
+^[**1:14** Refiriéndose al pueblo de Nínive.]
+
+^15^ ¡Mira! Viene un mensajero desde las montañas y trae las buenas nuevas, proclamando paz. Celebra, Judá, tus festivales religiosos y guarda tus votos, porque los enemigos malvados no invadirán tu tierra nunca más. Serán destruidos por completo. 
+
+# 2 
+^1^ ¡El que dispersa^^ ha venido a atacarte! ¡Cuiden las fortalezas! ¡Vigilen los caminos! ¡Prepárense! ¡Saquen a cada soldado! 
+^[**2:1** O “hace pedazos.”]
+
+^2^ (Porque el Señor restaurará el esplendor del pueblo de Jacob, así como restaurará el esplendor de Israel, pues los invasores los han saqueado y han destruido su tierra.^^)^^ 
+^[**2:2** Literalmente, “ramas de vid.”]
+^[**2:2** Esta oración se ha puesto entre paréntesis para indicar que no es parte de la descripción del ejército atacante ni de su comandante. ]
+
+^3^ Los escudos de sus soldados principales están teñidos de rojo; los guerreros visten de escarlata. Sus carruajes brillan como fuego bajo la luz del sol al prepararse para la batalla. Levantan y sacuden sus lanzas con ástiles de madera^^. ^4^ Los carruajes se precipitarán por las calles, yendo de aquí para allá por las plazas. Tan brillantes como antorchas, corren como relámpagos. ^5^ Él alza su voz dando órdenes a sus oficiales. Ellos tropiezan mientras se precipitan para atacar la muralla. La embestida está lista. ^6^ Las puertas de los ríos se abren, y el palacio queda destruido.^^ ^7^ “La reina” Nínive^^ queda despojada y es llevada en exilio, con sus siervas que lloran como palomas mientras golpean sus pechos. ^8^ Nínive es como un estanque lleno de agujeros, y sus habitantes son como agua que se sale del estanque. “¡Deténganse! ¡Deténganse!” grita la gente, pero nadie vuelve su rostro. ^9^ ¡Tomemos el botín de plata! ¡Tomemos el oro! Hay innumerables cosas para tomar, hay de todo lo que puedas desear. ^10^ ¡Nínive queda desierta, destruida y desvastada! Los corazones desfallecen, las rodillas tiemblan, hay dolor en los estómagos. Los rostros de todos palidecen. 
+^[**2:3** La palabra para lanza aquí es la misma que para mencionar su madera, y se debate entre si es pino, criprés o abeto.]
+^[**2:6** O “se diluye en su temor.” ]
+^[**2:7** El significado de la palabra usada aquí es incierto y no aparece en ninguna otra parte en el Antiguo Testamento. ]
+
+^11^ ¿Dónde está el foso de los leones? ¿Cuál es el sitio donde se alimentan los leobnes jóvenes? ¿Dónde está el león, la leona y su cachorro, quienes no temían a nadie?^^ ^12^ El león despedaza la carne para sus cachorros, y estrangula las presas para su leona. Llena el foso con presas, y su guarida con cadáveres. 
+^[**2:11** El símbolo del león era ampliamente usado por los asirios, y refleja también el trato cruel que le daban a sus víctimas.]
+
+^13^ ¡Anda con cuidado! Porque yo estoy contra ti, declara el Señor Todopoderoso. Prenderé fuego a tus carruajes y se consumirán hasta reducirse a humo. Tus jóvenes fuertes^^ morirán a espada. Yo impediré que sigas saqueando a otros pueblos.^^ No se oirán más las exigencies de tus emisarios^^.
+^[**2:13** Literalmente, “leones jóvenes.”]
+^[**2:13** Literalmente, “quitaré tu presa de la tierra.”]
+^[**2:13** Emisarios: los asirios enviaban a sus representantes a otras naciones para exigir sometimiento y tributos.] 
+
+# 3 
+^1^ ¡Cuán grande es el desastre que viene sobre esta ciudad sanguinaria, llena de traición! Se ha llenado con la riqueza que ha robado y sus víctimas son incontables.^^ ^2^ ¡Escuchen el sonido, el chasquido de los látigos, el estruendo de las ruedas, los caballos galopando, y los carruajes se sacuden! ^3^ ¡Jinetes a cargo, con espadas y lanzas que brillan! Muchos difuntos, montones de cadáveres e innumerables cuerpos, tantos que la gente tropieza con ellos. 
+^[**3:1** Literalmente, “su presa nunca se va.”]
+
+^4^ Todo esto es el resultado de la prostitución de Nínive, la prostituta, la bella amante con sus mortales encantos con los que seduce a las naciones a la esclavitud por su esclavitud y hechicería. ^5^ ¡Anden con cuidado! Porque yo estoy contra ustedes, declara el Señor Todopoderoso. Yo levantaré tus faldas sobre tu cara y dejaré que las naciones vean tu desnudez, y que los reinos vean tu vergüenza. ^6^ Yo echaré inmundicia sobre ti, te trataré con desprecio, y serás un espectáculo ante todos. ^7^ Entonces todos los que te vean te rechazarán, diciendo: “¡Ha caído Nínive! ¿Pero quién lamentará tu pérdida?” ¿Dónde encontraré a alguien que pueda consolarte? ^8^ ¿Eres mejor que la ciudad de Tebas^^ en el río Nilo, rodeada de agua? El agua fue su defensa, y el agua fue su muralla,^^ ^9^ La ciudad gobernó a Egipto y Etiopía.^^ Put y Libia fueron sus aliados. ^10^ Sin embargo, su pueblo también fue exiliado, y llevado en cautividad. Sus bebés fueron descuartizados por las calles. Sus nobles fueron atados con cadenas y llevados como sirvientes, elegidos al azar. 
+^[**3:8** Literalmente, “No Amón,” la ciudad del dios egipcio Amén. Había sido destruida anteriormente por los asirios.]
+^[**3:8** El Qumran pesher (comentario) sobre el libro de Nahúm aclara que el pronombre se refiere a la ciudad (1QpNah).]
+^[**3:9** Literalmente, “Cus.”]
+
+^11^ Tú también te comportarás como un borracho. Te ocultarás con temor, tratando de refugiarte del enemigo. ^12^ Todos tus castillos son como higueras con fruto maduro. Cuando sacuden el árbol, el fruto cae en la boca de los que comen. ^13^ ¡Mira! tus soldados son mujeres de entre tu pueblo. Las puertas de tu nación están abiertas de par en par ante tus enemigos. Los barrotes de las puertas serán quemados. ^14^ ¡Guarda agua para que estés lista para el asedio! ¡Refuercen sus castillos! Vayan a las barredas y mezclen bien el cemento. ¡Preparen los moldes de ladrillos pronto! ^15^ Pero aún allí+ 3.15 Refiriénrose al asedio. el fuego los consumirá, y serán destruidos con espada. Serán destruidos como si fueran devorados por una plaga de langostas. Así que multiplíquense ustedes también como langostas, como una plaga de langostas. ^16^ Tú multiplicaste tus comerciantes, tanto que son más que las estrellas del cielo. Pero como las langostas, desnudan todo lo que encuentran a su paso y se van. ^17^ Tus líderes son como langostas, tus oficiales son como una plaga de langostas. Yacen en los muros en el día frío, pero cuando el sol sale, se van volando y nadie sabe a dónde han ido. ^18^ El rey de Asiria, tus pastores están dormidos, tus príncipes están adormecidos.+ 3.18 En las Escrituras la muerte a menudo se compara al sueño. Por lo tanto, este versículo quiere decir que todos los líderes que cuidaban del pueblo están muertos. Tu pueblo está disperso por las montañas y nadie puede reunirlo. ^19^ No hay forma de sanar tus lesiones, y estás herido de gravedad. Todos los que oyen esta noticia aplaudirán por lo que te ha sucedido, porque ¿acaso hay quien haya escapado de tu constante crueldad? 

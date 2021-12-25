@@ -1,15 +1,15 @@
 # 1 
-^1^ Now the LORD’s^*^ word came to Jonah the son of Amittai, saying, ^2^ “Arise, go to Nineveh, that great city, and preach against it, for their wickedness has come up before me.” 
+^1^ Now the LORD’s^^ word came to Jonah the son of Amittai, saying, ^2^ “Arise, go to Nineveh, that great city, and preach against it, for their wickedness has come up before me.” 
 ^[1:1 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name.]
 
 ^3^ But Jonah rose up to flee to Tarshish from the presence of the LORD. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of the LORD. 
 
-^4^ But the LORD sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up. ^5^ Then the mariners were afraid, and every man cried to his god. They threw the cargo that was in the ship into the sea to lighten the ship. But Jonah had gone down into the innermost parts of the ship and he was laying down, and was fast asleep. ^6^ So the ship master came to him, and said to him, “What do you mean, sleeper? Arise, call on your God!^*^ Maybe your God+ 1:6 or, gods will notice us, so that we won’t perish.” 
+^4^ But the LORD sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up. ^5^ Then the mariners were afraid, and every man cried to his god. They threw the cargo that was in the ship into the sea to lighten the ship. But Jonah had gone down into the innermost parts of the ship and he was laying down, and was fast asleep. ^6^ So the ship master came to him, and said to him, “What do you mean, sleeper? Arise, call on your God!^^ Maybe your God+ 1:6 or, gods will notice us, so that we won’t perish.” 
 ^[1:6 or, gods]
 
 ^7^ They all said to each other, “Come! Let’s cast lots, that we may know who is responsible for this evil that is on us.” So they cast lots, and the lot fell on Jonah. ^8^ Then they asked him, “Tell us, please, for whose cause this evil is on us. What is your occupation? Where do you come from? What is your country? Of what people are you?” 
 
-^9^ He said to them, “I am a Hebrew, and I fear the LORD, the God^*^ of heaven, who has made the sea and the dry land.” 
+^9^ He said to them, “I am a Hebrew, and I fear the LORD, the God^^ of heaven, who has made the sea and the dry land.” 
 ^[1:9 The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 ^10^ Then the men were exceedingly afraid, and said to him, “What have you done?” For the men knew that he was fleeing from the presence of the LORD, because he had told them. ^11^ Then they said to him, “What shall we do to you, that the sea may be calm to us?” For the sea grew more and more stormy. 
@@ -21,7 +21,7 @@
 ^17^ The LORD prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights. 
 
 # 2 
-^1^ Then Jonah prayed to the LORD, his God, out of the fish’s belly. ^2^ He said, “I called because of my affliction to the LORD. He answered me. Out of the belly of Sheol^*^ I cried. You heard my voice. ^3^ For you threw me into the depths, in the heart of the seas. The flood was all around me. All your waves and your billows passed over me. ^4^ I said, ‘I have been banished from your sight; yet I will look again towards your holy temple.’ ^5^ The waters surrounded me, even to the soul. The deep was around me. The weeds were wrapped around my head. ^6^ I went down to the bottoms of the mountains. The earth barred me in forever; yet you have brought my life up from the pit, LORD my God. ^7^ “When my soul fainted within me, I remembered the LORD. My prayer came in to you, into your holy temple. ^8^ Those who regard vain idols forsake their own mercy. ^9^ But I will sacrifice to you with the voice of thanksgiving. I will pay that which I have vowed. Salvation belongs to the LORD.” 
+^1^ Then Jonah prayed to the LORD, his God, out of the fish’s belly. ^2^ He said, “I called because of my affliction to the LORD. He answered me. Out of the belly of Sheol^^ I cried. You heard my voice. ^3^ For you threw me into the depths, in the heart of the seas. The flood was all around me. All your waves and your billows passed over me. ^4^ I said, ‘I have been banished from your sight; yet I will look again towards your holy temple.’ ^5^ The waters surrounded me, even to the soul. The deep was around me. The weeds were wrapped around my head. ^6^ I went down to the bottoms of the mountains. The earth barred me in forever; yet you have brought my life up from the pit, LORD my God. ^7^ “When my soul fainted within me, I remembered the LORD. My prayer came in to you, into your holy temple. ^8^ Those who regard vain idols forsake their own mercy. ^9^ But I will sacrifice to you with the voice of thanksgiving. I will pay that which I have vowed. Salvation belongs to the LORD.” 
 ^[2:2 Sheol is the place of the dead.]
 
 ^10^ Then The LORD spoke to the fish, and it vomited out Jonah on the dry land. 

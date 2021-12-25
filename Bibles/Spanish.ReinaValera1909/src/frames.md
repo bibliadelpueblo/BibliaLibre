@@ -4436,7 +4436,7 @@
 ^7^ ^^ ^8^ ^^ ^9^ ^^ ^13^ ^^ ^14^ ^^ ^[**19:7** Sal 104,19] ^[**19:8** Sal 119,50; Sal 119,130] ^[**19:9** Sal 12,7; Sal 18,31; Sal 119,105] ^[**19:13** Job 9,3; Sal 130,3] ^[**19:14** Sal 18,24]  
 ## 20
 ^0^ 
-### Fürbitte des Volkes für den König beim Auszug des Heeres
+### Intercesión del pueblo por el rey a la salida del ejército
 ^2^ ^^ ^7^ ^^ ^8^ ^^ ^[**20:2** Prov 18,10] ^[**20:7** Éxod 15,16] ^[**20:8** Deut 20,1; Is 31,1]  
 ## 21
 ^0^ 
