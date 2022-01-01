@@ -21,6 +21,7 @@ namespace BibleMarkdown
 		static DateTime bibmarktime;
 		static bool LowercaseFirstWords = false;
 		static bool Force = false;
+		static bool Imported = false;
 		static string Language = null;
 
 		static void ImportFromUSFM(string mdpath, string srcpath)
@@ -44,6 +45,7 @@ namespace BibleMarkdown
 
 				if (Force || mdtime < sourcetime)
 				{
+					Imported = true;
 
 					int bookno = 1;
 
@@ -122,6 +124,7 @@ namespace BibleMarkdown
 
 				if (Force || mdtime < sourcetime)
 				{
+					Imported = true;
 
 					int bookno = 1;
 					string book = null;
@@ -178,36 +181,52 @@ namespace BibleMarkdown
 			var sources = Directory.EnumerateFiles(srcpath)
 				.Where(file => file.EndsWith(".xml"));
 
-			foreach (var source in sources)
+			var mdtimes = Directory.EnumerateFiles(mdpath)
+				.Select(file => File.GetLastWriteTimeUtc(file));
+			var sourcetimes = sources.Select(file => File.GetLastWriteTimeUtc(file));
+
+			var mdtime = DateTime.MinValue;
+			var sourcetime = DateTime.MinValue;
+
+			foreach (var time in mdtimes) mdtime = time > mdtime ? time : mdtime;
+			foreach (var time in sourcetimes) sourcetime = time > sourcetime ? time : sourcetime;
+
+			if (Force || mdtime < sourcetime)
 			{
-				var root = XElement.Load(File.Open(source, FileMode.Open));
 
-				foreach (var book in root.Elements("BIBLEBOOK"))
+				foreach (var source in sources)
 				{
-					StringBuilder text = new StringBuilder();
-					var file = $"{((int)book.Attribute("bnumber")):D2}-{(string)book.Attribute("bname")}.md";
-					var firstchapter = true;
+					var root = XElement.Load(File.Open(source, FileMode.Open));
 
-					foreach (var chapter in book.Elements("CHAPTER"))
+					foreach (var book in root.Elements("BIBLEBOOK"))
 					{
-						if (!firstchapter) text.AppendLine("");
-						firstchapter = false;
-						text.Append($"# {((int)chapter.Attribute("cnumber"))}{Environment.NewLine}");
-						var firstverse = true;
+						Imported = true;
 
-						foreach (var verse in chapter.Elements("VERS"))
+						StringBuilder text = new StringBuilder();
+						var file = $"{((int)book.Attribute("bnumber")):D2}-{(string)book.Attribute("bname")}.md";
+						var firstchapter = true;
+
+						foreach (var chapter in book.Elements("CHAPTER"))
 						{
-							if (!firstverse) text.Append(" ");
-							firstverse = false;
-							text.Append($"^{((int)verse.Attribute("vnumber"))}^ ");
-							text.Append(verse.Value);
+							if (!firstchapter) text.AppendLine("");
+							firstchapter = false;
+							text.Append($"# {((int)chapter.Attribute("cnumber"))}{Environment.NewLine}");
+							var firstverse = true;
+
+							foreach (var verse in chapter.Elements("VERS"))
+							{
+								if (!firstverse) text.Append(" ");
+								firstverse = false;
+								text.Append($"^{((int)verse.Attribute("vnumber"))}^ ");
+								text.Append(verse.Value);
+							}
 						}
+
+						var md = Path.Combine(mdpath, file);
+						File.WriteAllText(md, text.ToString());
+						Console.WriteLine($"Created {md}.");
+
 					}
-
-					var md = Path.Combine(mdpath, file);
-					File.WriteAllText(md, text.ToString());
-					Console.WriteLine($"Created {md}.");
-
 				}
 			}
 		}
@@ -421,7 +440,7 @@ namespace BibleMarkdown
 			XElement[] bnames;
 			int refi = 0;
 			bool newrefs = false;
-			if (File.Exists(linklistfile) && ((!File.Exists(frames)) || File.GetLastWriteTimeUtc(linklistfile) > File.GetLastWriteTimeUtc(frames)))
+			if (File.Exists(linklistfile) && ((!File.Exists(frames))))
 			{
 				newrefs = true;
 				var list = XElement.Load(File.OpenRead(linklistfile));
@@ -580,7 +599,7 @@ namespace BibleMarkdown
 
 				var frame = File.ReadAllText(frmfile);
 
-				if (Force || mdtimes.Any(time => time < frmtime))
+				if (Force || mdtimes.Any(time => time < frmtime) || Imported)
 				{
 
 					foreach (string srcfile in mdfiles)

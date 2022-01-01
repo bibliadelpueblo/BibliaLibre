@@ -27,7 +27,7 @@
 
 ## Canción de la mañana de un hombre piadoso en los malos tiempos
 # 3 
-<sup>1</sup> Salmo de David, cuando huía de delante de Absalom su hijo. ¡Oh Jehová, cuánto se han multiplicado mis enemigos! muchos se levantan contra mí. ^[**3:1** 2Sam 15,14]\
+<sup>1</sup> *Salmo de David, cuando huía de delante de Absalom su hijo.*\ ¡Oh Jehová, cuánto se han multiplicado mis enemigos! muchos se levantan contra mí. ^[**3:1** 2Sam 15,14]\
 <sup>2</sup> Muchos dicen de mi vida: No hay para él salud en Dios. (Selah.)\
 <sup>3</sup> Mas tú, Jehová, eres escudo alrededor de mí: mi gloria, y el que ensalza mi cabeza.\
 <sup>4</sup> Con mi voz clamé á Jehová, y él me respondió desde el monte de su santidad. (Selah.)\
@@ -39,7 +39,7 @@
 
 ## Canción vespertina de un hombre piadoso en tiempos de angustia
 # 4 
-<sup>1</sup> Al Músico principal: sobre Neginoth: Salmo de David. Respóndeme cuando clamo, oh Dios de mi justicia: estando en angustia, tú me hiciste ensanchar: ten misericordia de mí, y oye mi oración.\
+<sup>1</sup> *Al Músico principal: sobre Neginoth: Salmo de David.*\ Respóndeme cuando clamo, oh Dios de mi justicia: estando en angustia, tú me hiciste ensanchar: ten misericordia de mí, y oye mi oración.\
 <sup>2</sup> Hijos de los hombres, ¿hasta cuándo volveréis mi honra en infamia, amaréis la vanidad, y buscaréis la mentira? (Selah.)\
 <sup>3</sup> Sabed pues, que Jehová hizo apartar al pío para sí: Jehová oirá cuando yo á él clamare.\
 <sup>4</sup> Temblad, y no pequéis: conversad en vuestro corazón sobre vuestra cama, y desistid. (Selah.)\
@@ -51,7 +51,7 @@
 
 ## Oración matutina en el templo contra enemigos impíos
 # 5 
-<sup>1</sup> Al Músico principal: sobre Nehiloth: Salmo de David. Escucha, oh Jehová, mis palabras; considera la meditación mía.\
+<sup>1</sup> *Al Músico principal: sobre Nehiloth: Salmo de David.*\ Escucha, oh Jehová, mis palabras; considera la meditación mía.\
 <sup>2</sup> Está atento á la voz de mi clamor, Rey mío y Dios mío, porque á ti oraré.\
 <sup>3</sup> Oh Jehová, de mañana oirás mi voz; de mañana me presentaré á ti, y esperaré. ^[**5:3** Sal 84,4]\
 <sup>4</sup> Porque tú no eres un Dios que ame la maldad: el malo no habitará junto á ti.\
@@ -67,7 +67,7 @@
 
 ## Pedir ayuda a alguien gravemente enfermo en cuerpo y alma (Primer Salmo Penitencial)
 # 6 
-<sup>1</sup> Al Músico principal: en Neginoth sobre Seminith: Salmo de David. Jehová, no me reprendas en tu furor, ni me castigues con tu ira.\
+<sup>1</sup> *Al Músico principal: en Neginoth sobre Seminith: Salmo de David.*\ Jehová, no me reprendas en tu furor, ni me castigues con tu ira.\
 <sup>2</sup> Ten misericordia de mí, oh Jehová, porque yo estoy debilitado: sáname, oh Jehová, porque mis huesos están conmovidos.\
 <sup>3</sup> Mi alma asimismo está muy conturbada: y tú, Jehová, ¿hasta cuándo? ^[**6:3** Sal 51,10]\
 <sup>4</sup> Vuelve, oh Jehová, libra mi alma; sálvame por tu misericordia. ^[**6:4** Sal 13,2-3]\
@@ -81,7 +81,7 @@
 
 ## El Señor como juez justo y salvador de los afligidos
 # 7 
-<sup>1</sup> Sigaión de David, que cantó á Jehová sobre las palabras de Cus, hijo de Benjamín. Jehová Dios mío, en ti he confiado: sálvame de todos los que me persiguen, y líbrame; ^[**7:1** 1Sam 24,10; 1Sam 26,19; 2Sam 16,5-11]\
+<sup>1</sup> *Sigaión de David, que cantó á Jehová sobre las palabras de Cus, hijo de Benjamín.*\ Jehová Dios mío, en ti he confiado: sálvame de todos los que me persiguen, y líbrame; ^[**7:1** 1Sam 24,10; 1Sam 26,19; 2Sam 16,5-11]\
 <sup>2</sup> No sea que arrebate mi alma, cual león que despedaza, sin que haya quien libre.\
 <sup>3</sup> Jehová Dios mío, si yo he hecho esto, si hay en mis manos iniquidad; ^[**7:3** Sal 10,8-9]\
 <sup>4</sup> Si dí mal pago al pacífico conmigo, (hasta he libertado al que sin causa era mi enemigo;) ^[**7:4** Job 31,7-34]\
@@ -102,7 +102,7 @@
 
 ## La humildad y la alteza del hombre en la creación
 # 8 
-<sup>1</sup> Al Músico principal: sobre Gittith: Salmo de David. Oh Jehová, Señor nuestro, ¡cuán grande es tu nombre en toda la tierra, que has puesto tu gloria sobre los cielos!\
+<sup>1</sup> *Al Músico principal: sobre Gittith: Salmo de David.*\ Oh Jehová, Señor nuestro, ¡cuán grande es tu nombre en toda la tierra, que has puesto tu gloria sobre los cielos!\
 <sup>2</sup> De la boca de los chiquitos y de los que maman, fundaste la fortaleza, á causa de tus enemigos, para hacer cesar al enemigo, y al que se venga.\
 <sup>3</sup> Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste: ^[**8:3** Mat 21,16]\
 <sup>4</sup> Digo: ¿Qué es el hombre, para que tengas de él memoria, y el hijo del hombre, que lo visites? ^[**8:4** Sal 19,2]\
@@ -115,7 +115,7 @@
 
 ## Canto de acción de gracias por el juicio de Dios sobre los enemigos paganos y solicitud de nueva ayuda
 # 9 
-<sup>1</sup> Al Músico principal: sobre Muth-labben: Salmo de David. Te alabaré, oh Jehová, con todo mi corazón; contaré todas tus maravillas.\
+<sup>1</sup> *Al Músico principal: sobre Muth-labben: Salmo de David.*\ Te alabaré, oh Jehová, con todo mi corazón; contaré todas tus maravillas.\
 <sup>2</sup> Alegraréme y regocijaréme en ti: cantaré á tu nombre, oh Altísimo;\
 <sup>3</sup> Por haber sido mis enemigos vueltos atrás: caerán y perecerán delante de ti.\
 <sup>4</sup> Porque has hecho mi juicio y mi causa: sentástete en silla juzgando justicia.\
@@ -161,7 +161,7 @@
 
 ## El Señor es fiel y justo
 # 11 
-<sup>1</sup> Al Músico principal: Salmo de David. En Jehová he confiado; ¿cómo decís á mi alma: Escapa al monte cual ave?\
+<sup>1</sup> *Al Músico principal: Salmo de David.*\ En Jehová he confiado; ¿cómo decís á mi alma: Escapa al monte cual ave?\
 <sup>2</sup> Porque he aquí, los malos flecharon el arco, apercibieron sus saetas sobre la cuerda, para asaetear en oculto á los rectos de corazón. ^[**11:2** Sal 37,14; Sal 64,4-5]\
 <sup>3</sup> Si fueren destruídos los fundamentos, ¿qué ha de hacer el justo?\
 <sup>4</sup> Jehová en el templo de su santidad: la silla de Jehová está en el cielo: sus ojos ven, sus párpados examinan á los hijos de los hombres.\
@@ -172,7 +172,7 @@
 
 ## Consuelo de los rectos contra la violencia de la mentira
 # 12 
-<sup>1</sup> Al Músico principal: sobre Seminith: Salmo de David. Salva, oh Jehová, porque se acabaron los misericordiosos: porque se han acabado los fieles de entre los hijos de los hombres.\
+<sup>1</sup> *Al Músico principal: sobre Seminith: Salmo de David.*\ Salva, oh Jehová, porque se acabaron los misericordiosos: porque se han acabado los fieles de entre los hijos de los hombres.\
 <sup>2</sup> Mentira habla cada uno con su prójimo; con labios lisonjeros, con corazón doble hablan.\
 <sup>3</sup> Destruirá Jehová todos los labios lisonjeros, la lengua que habla grandezas;\
 <sup>4</sup> Que dijeron: Por nuestra lengua prevaleceremos; nuestros labios están con nosotros: ¿quién nos es señor?\
@@ -184,7 +184,7 @@
 
 ## ¿Por cuánto tiempo más?
 # 13 
-<sup>1</sup> Al Músico principal: Salmo de David. ¿Hasta cuándo, Jehová? ¿me olvidarás para siempre? ¿hasta cuándo esconderás tu rostro de mí?\
+<sup>1</sup> *Al Músico principal: Salmo de David.*\ ¿Hasta cuándo, Jehová? ¿me olvidarás para siempre? ¿hasta cuándo esconderás tu rostro de mí?\
 <sup>2</sup> ¿Hasta cuándo pondré consejos en mi alma, con ansiedad en mi corazón cada día? ¿Hasta cuándo será enaltecido mi enemigo sobre mí? 
 ^[**13:2** Sal 77,8; Hab 1,2]\
 <sup>3</sup> Mira, óyeme, Jehová Dios mío: alumbra mis ojos, porque no duerma en muerte;\
@@ -194,7 +194,7 @@
 
 ## Pensamientos sobre la depravación general del mundo y pedir redención
 # 14 
-<sup>1</sup> Al Músico principal: Salmo de David. Dijo el necio en su corazón: No hay Dios. Corrompiéronse, hicieron obras abominables; no hay quien haga bien.\
+<sup>1</sup> *Al Músico principal: Salmo de David.*\ Dijo el necio en su corazón: No hay Dios. Corrompiéronse, hicieron obras abominables; no hay quien haga bien.\
 <sup>2</sup> Jehová miró desde los cielos sobre los hijos de los hombres, por ver si había algún entendido, que buscara á Dios. ^[**14:2** Sal 33,13]\
 <sup>3</sup> Todos declinaron, juntamente se han corrompido: no hay quien haga bien, no hay ni siquiera uno. ^[**14:3** Gén 6,12; Rom 3,10-12]\
 <sup>4</sup> ¿No tendrán conocimiento todos los que obran iniquidad, que devoran á mi pueblo como si pan comiesen, y á Jehová no invocaron? 
@@ -205,7 +205,7 @@
 
 ## ¿Quién puede ser el invitado del Señor?
 # 15 
-<sup>1</sup> Salmo de David. Jehová, ¿quién habitará en tu tabernáculo? ¿quién residirá en el monte de tu santidad? ^[**15:1** Sal 84,5]\
+<sup>1</sup> *Salmo de David.*\ Jehová, ¿quién habitará en tu tabernáculo? ¿quién residirá en el monte de tu santidad? ^[**15:1** Sal 84,5]\
 <sup>2</sup> El que anda en integridad, y obra justicia, y habla verdad en su corazón. ^[**15:2** Is 33,15]\
 <sup>3</sup> El que no detrae con su lengua, ni hace mal á su prójimo, ni contra su prójimo acoge oprobio alguno.\
 <sup>4</sup> Aquel á cuyos ojos es menospreciado el vil; mas honra á los que temen á Jehová: y habiendo jurado en daño suyo, no por eso muda.\
@@ -214,7 +214,7 @@
 
 ## Dios el más alto, sí, solo bien por sí mismo
 # 16 
-<sup>1</sup> Michtham de David. Guárdame, oh Dios, porque en ti he confiado.\
+<sup>1</sup> *Michtham de David.*\ Guárdame, oh Dios, porque en ti he confiado.\
 <sup>2</sup> Dijiste, oh alma mía, á Jehová: Tú eres el Señor: mi bien á ti no aprovecha;\
 <sup>3</sup> Sino á los santos que están en la tierra, y á los íntegros: toda mi afición en ellos.\
 <sup>4</sup> Multiplicaránse los dolores de aquellos que sirven diligentes á otro dios: no ofreceré yo sus libaciones de sangre, ni en mis labios tomaré sus nombres.\
@@ -229,7 +229,7 @@
 
 ## El grito de un hombre angustiado por ayuda contra enemigos nefastos
 # 17 
-<sup>1</sup> Oración de David. Oye, oh Jehová, justicia; está atento á mi clamor; escucha mi oración hecha sin labios de engaño.\
+<sup>1</sup> *Oración de David.*\ Oye, oh Jehová, justicia; está atento á mi clamor; escucha mi oración hecha sin labios de engaño.\
 <sup>2</sup> De delante de tu rostro salga mi juicio; vean tus ojos la rectitud. ^[**17:2** Sal 43,1]\
 <sup>3</sup> Tú has probado mi corazón, hasme visitado de noche; me has apurado, y nada inicuo hallaste: heme propuesto que mi boca no ha de propasarse. ^[**17:3** Sal 16,7; Sal 139,1]\
 <sup>4</sup> Para las obras humanas, por la palabra de tus labios yo me he guardado de las vías del destructor.\
@@ -248,7 +248,7 @@
 
 ## El cántico de agradecimiento y victoria de David tras la derrota de sus enemigos
 # 18 
-<sup>1</sup> Al Músico principal: Salmo de David, siervo de Jehová, el cual profirió á Jehová las palabras de este cántico el día que le libró Jehová de mano de todos sus enemigos, y de mano de Saúl. Entonces dijo: Amarte he, oh Jehová, fortaleza mía.\
+<sup>1</sup> *Al Músico principal: Salmo de David, siervo de Jehová, el cual profirió á Jehová las palabras de este cántico el día que le libró Jehová de mano de todos sus enemigos, y de mano de Saúl.*\ Entonces dijo: Amarte he, oh Jehová, fortaleza mía.\
 <sup>2</sup> Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fuerte mío, en él confiaré; escudo mío, y el cuerno de mi salud, mi refugio.\
 <sup>3</sup> Invocaré á Jehová, digno de ser alabado, y seré salvo de mis enemigos. ^[**18:3** Deut 32,4]\
 <sup>4</sup> Cercáronme dolores de muerte, y torrentes de perversidad me atemorizaron.\
@@ -302,7 +302,7 @@
 
 ## Alabado sea Dios Creador y su ley; Pide perdón de pecados y santificación
 # 19 
-<sup>1</sup> Al Músico principal: Salmo de David. Los cielos cuentan la gloria de Dios, y la expansión denuncia la obra de sus manos.\
+<sup>1</sup> *Al Músico principal: Salmo de David.*\ Los cielos cuentan la gloria de Dios, y la expansión denuncia la obra de sus manos.\
 <sup>2</sup> El un día emite palabra al otro día, y la una noche á la otra noche declara sabiduría.\
 <sup>3</sup> No hay dicho, ni palabras, ni es oída su voz.\
 <sup>4</sup> Por toda la tierra salió su hilo, y al cabo del mundo sus palabras. En ellos puso tabernáculo para el sol.\
@@ -320,7 +320,7 @@
 
 ## Intercesión del pueblo por el rey a la salida del ejército
 # 20 
-<sup>1</sup> Al Músico principal: Salmo de David. Oigate Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob.\
+<sup>1</sup> *Al Músico principal: Salmo de David.*\ Oigate Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob.\
 <sup>2</sup> Envíete ayuda desde el santuario, y desde Sión te sostenga. ^[**20:2** Prov 18,10]\
 <sup>3</sup> Haga memoria de todos tus presentes, y reduzca á ceniza tu holocausto. (Selah.)\
 <sup>4</sup> Déte conforme á tu corazón, y cumpla todo tu consejo.\

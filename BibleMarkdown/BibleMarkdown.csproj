@@ -10,6 +10,7 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <Deterministic>false</Deterministic>
     <AssemblyName>bibmark</AssemblyName>
+    <BaseOutputPath>..\bin</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
