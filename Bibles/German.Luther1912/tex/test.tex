@@ -1,5 +1,5 @@
 \documentclass[14pt, b5paper, twoside]{extbook}
-\usepackage[spanish]{babel}
+\usepackage[german]{babel}
 \usepackage[twoside,bindingoffset=10mm,verbose,marginratio={4:3,5:3},%
 textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
 
@@ -7,7 +7,7 @@ textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
 
 \begin{document}
 
-\includepdf{FrontCover.pdf}
+\includepdf{HardCover.pdf}
 
 \null\vfill
 \input{../out/tex/00.0-Impressum.tex}
@@ -17,7 +17,7 @@ textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
 \begin{center}
 \begin{minipage}[c]{\textwidth}
   \begin{center}
-  \includegraphics{Titulo.pdf}
+  \includegraphics{Titel.pdf}
   \end{center}
 \end{minipage}
 \end{center}
@@ -26,7 +26,7 @@ textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
 
 
 \titleformat{\section}[hang]{\bfseries\huge}{}{0ex}{}[]
-\input{../out/tex/00.1-prefacio.tex}
+\input{../out/tex/00.1-Preface.tex}
 \titleformat{\section}[wrap]{\bfseries\huge}{}{0ex}{}[]
 
 \tableofcontents
@@ -36,7 +36,7 @@ textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
 \begin{center}
 \begin{minipage}[c]{\textwidth}
   \begin{center}
-  \includegraphics{AntiguoTestamentoTitulo.pdf}
+  \includegraphics{AltesTestamentTitel.pdf}
   \end{center}
 \end{minipage}
 \end{center}
@@ -48,19 +48,19 @@ textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
 \renewcommand{\cleardoublepage}{}
 \renewcommand{\clearpage}{}
 
-\chapter{Génesis}
+\chapter{1. Mose}
 \begin{multicols}{2}
-  \input{../out/tex/01-Génesis.tex}
+  \input{../out/tex/01-1. Mose.tex}
 \end{multicols}
 
-\chapter{Salmos}
+\chapter{Psalmen}
 \begin{multicols}{2}
-  \input{../out/tex/19-Salmos.tex}
+  \input{../out/tex/19-Psalm.tex}
 \end{multicols}
 
-\chapter{Proverbios}
+\chapter{Sprüche}
 \begin{multicols}{2}
-  \input{../out/tex/20-Proverbios.tex}
+  \input{../out/tex/20-Sprüche.tex}
 \end{multicols}
 \newpage
 
@@ -70,17 +70,17 @@ textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
 \begin{center}
 \begin{minipage}[c]{\textwidth}
   \begin{center}
-  \includegraphics{NuevoTestamentoTitulo.pdf}
+  \includegraphics{NeuesTestamentTitel.pdf}
   \end{center}
 \end{minipage}
 \end{center}
 \null\vfill
 \newpage
 
-\chapter{Apocalipsis}
+\chapter{Offenbarung}
 \begin{multicols}{2}
   \parskip=0pt \relax
-  \input{../out/tex/66-Apocalipsis.tex}
+  \input{../out/tex/66-Offenbarung.tex}
 \end{multicols}
 \newpage
 

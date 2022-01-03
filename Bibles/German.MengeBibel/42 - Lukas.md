@@ -2,7 +2,7 @@
 
 ## Vorwort
 
-__1__
+ # 1
 ^1^ Weil<sup title="oder: nachdem">&#x2732;</sup> bekanntlich schon viele es unternommen haben, einen Bericht über die Begebenheiten, die sich unter uns erfüllt<sup title="= vollzogen">&#x2732;</sup> haben, so abzufassen,
 ^2^ wie die Männer sie uns überliefert haben, die von Anbeginn an Augenzeugen und (alsdann) Diener des Wortes gewesen sind,
 ^3^ habe auch ich mich entschlossen, nachdem ich allen Tatsachen von den Anfängen an sorgfältig nachgegangen bin<sup title="= nachgeforscht habe">&#x2732;</sup>, alles für dich, hochedler Theophilus, in richtiger<sup title="oder: sachgemäßer">&#x2732;</sup> Reihenfolge aufzuzeichnen,
@@ -132,7 +132,7 @@ und unsere Füße<sup title="= Schritte">&#x2732;</sup> auf den Weg des Frieden
 
 #### a) Der Erlaß des Kaisers Augustus und seine Bedeutung für die Geburt Jesu
 
-__2__
+ # 2
 ^1^ Es begab sich aber in jenen Tagen, daß eine Verordnung vom Kaiser Augustus ausging, es solle eine Volkszählung<sup title="oder: Einschätzung">&#x2732;</sup> im ganzen römischen Reich vorgenommen werden.
 ^2^ Es war dies die erste Zählung<sup title="oder: Schätzung">&#x2732;</sup>, die zu der Zeit stattfand, als Quirinius Statthalter in Syrien war.
 ^3^ Da machten alle sich auf, um sich in die Listen eintragen<sup title="oder: sich einschätzen">&#x2732;</sup> zu lassen, ein jeder in seinem (Heimats-) Ort.
@@ -212,7 +212,7 @@ und zur Verherrlichung deines Volkes Israel.«
 
 ### 1. Auftreten, Bußpredigt, Wirksamkeit und Gefangennahme Johannes des Täufers
 
-__3__
+ # 3
 ^1^ Im fünfzehnten Regierungsjahre des Kaisers Tiberius, als Pontius Pilatus Statthalter von Judäa war und Herodes Vierfürst<sup title="oder: Kleinfürst; vgl. Mt 14,1">&#x2732;</sup> von Galiläa, sein Bruder Philippus Vierfürst von Ituräa und der Landschaft Trachonitis und Lysanias Vierfürst von Abilene,
 ^2^ zur Zeit des Hohenpriesters Hannas und Kaiphas: da erging das Wort Gottes an Johannes, den Sohn des Zacharias, in der Wüste.
 ^3^ Er durchzog also die ganze Gegend am Jordan und verkündigte eine Taufe der Buße<sup title="oder: Bekehrung; vgl. Mt 3,2">&#x2732;</sup> zur Vergebung der Sünden,
@@ -261,7 +261,7 @@ __3__
 
 ### 4. Die Versuchung Jesu als seine Messiasprobe
 
-__4__
+ # 4
 ^1^ Jesus kehrte dann, voll heiligen Geistes, vom Jordan zurück und wurde vom Geist vierzig Tage lang in der Wüste (umher) geführt
 ^2^ und dabei vom Teufel versucht. Er aß in diesen Tagen nichts, so daß ihn hungerte, als sie zu Ende waren.
 ^3^ Da sagte der Teufel zu ihm: »Bist du Gottes Sohn, so gebiete diesem Steine hier, er solle zu Brot werden!«
@@ -328,7 +328,7 @@ __4__
 
 ### 3. Schiffspredigt Jesu; wunderbarer Fischzug des Petrus; Berufung der ersten vier Jünger
 
-__5__
+ # 5
 ^1^ Es begab sich aber (eines Tages), als das Volk ihn umdrängte und das Wort Gottes hörte, während er selbst am See Gennesaret stand,
 ^2^ da sah er zwei Boote am Ufer des Sees liegen; die Fischer aber waren aus ihnen ausgestiegen und wuschen ihre Netze.
 ^3^ Da trat er in eins der Boote, das Simon gehörte, und bat ihn, ein wenig vom Lande abzustoßen; darauf setzte er sich nieder und lehrte die Volksscharen vom Boote aus.
@@ -386,7 +386,7 @@ __5__
 
 #### d) Das Ährenraufen der Jünger am Sabbat; der erste Streit Jesu mit den Pharisäern über die Sabbatheiligung
 
-__6__
+ # 6
 ^1^ Es begab sich aber an einem Sabbat, daß er durch die Kornfelder wanderte; dabei pflückten seine Jünger Ähren ab, zerrieben sie in den Händen und aßen sie<sup title="d.h. die Körner">&#x2732;</sup>.
 ^2^ Da sagten einige von den Pharisäern zu ihnen: »Warum tut ihr da etwas, das man am Sabbat nicht tun darf?«
 ^3^ Jesus antwortete ihnen: »Habt ihr auch davon nichts gelesen<sup title="1.Sam 21,2-7">&#x2732;</sup>, was David getan hat, als ihn samt seinen Begleitern hungerte?
@@ -463,7 +463,7 @@ __6__
 
 ### 8. Heilung des Knechts des (heidnischen) Hauptmanns von Kapernaum
 
-__7__
+ # 7
 ^1^ Nachdem Jesus alle seine Reden an das Volk, das ihm zuhörte, beendet hatte, ging er nach Kapernaum hinein.
 ^2^ Dort lag der Diener<sup title="= Bursche">&#x2732;</sup> eines Hauptmanns, der diesem besonders wert war, todkrank darnieder.
 ^3^ Weil nun der Hauptmann von Jesus gehört hatte, sandte er Älteste der Juden zu ihm mit der Bitte, er möchte kommen und seinen Diener gesund machen.
@@ -527,7 +527,7 @@ __7__
 
 ### 12. Die beständigen Begleiter Jesu bei seinen Wanderungen; die dienenden galiläischen Frauen
 
-__8__
+ # 8
 ^1^ In der folgenden Zeit durchwanderte er dann das Land von Stadt zu Stadt und von Dorf zu Dorf, indem er öffentlich lehrte und die Heilsbotschaft vom Reiche Gottes verkündigte. In seiner Begleitung befanden sich die zwölf Jünger
 ^2^ sowie auch einige Frauen, die er von bösen Geistern und Krankheiten geheilt hatte, z.B. Maria, die Magdalena genannt wurde, aus der sieben böse Geister ausgefahren waren,
 ^3^ ferner Johanna, die Frau des Chuza, eines Verwalters des Herodes, und Susanna und noch viele andere, die ihnen mit den ihnen zu Gebote stehenden Mitteln Dienste leisteten.
@@ -615,7 +615,7 @@ Während Jesus nun hinging, umdrängte ihn die Volksmenge.
 
 ### 17. Aussendung der zwölf Jünger und Anweisungen für sie
 
-__9__
+ # 9
 ^1^ Er rief dann die Zwölf zusammen und gab ihnen Kraft und Vollmacht über alle bösen Geister sowie zur Heilung von Krankheiten,
 ^2^ hierauf sandte er sie aus, das Reich Gottes zu verkünden und (die Kranken) zu heilen.
 ^3^ Dabei gab er ihnen die Weisung: »Nehmt nichts mit auf den Weg, weder einen Stock noch einen Ranzen<sup title="oder: eine Reisetasche">&#x2732;</sup>, weder Brot noch Geld; auch sollt ihr nicht jeder zwei Röcke haben!
@@ -717,7 +717,7 @@ Während nun alle voll Verwunderung über alle seine Taten waren, sagte er zu se
 
 ### 3. Aussendung der siebzig Jünger und Anweisung für sie; Wehruf über die unbußfertigen galiläischen Städte
 
-__10__
+ # 10
 ^1^ Hierauf aber bestellte der Herr noch siebzig andere (Jünger) und sandte sie paarweise vor sich her in alle Städte und Ortschaften, in die er selbst zu gehen gedachte<sup title="oder: kommen würde">&#x2732;</sup>.
 ^2^ Er sagte zu ihnen: »Die Ernte ist groß, aber klein die Zahl der Arbeiter; darum bittet den Herrn der Ernte, daß er Arbeiter auf sein Erntefeld sende!
 ^3^ Geht hin! Seht, ich sende euch wie Lämmer mitten unter Wölfe.
@@ -776,7 +776,7 @@ __10__
 
 #### a) Jesus lehrt die Jünger beten: das Vaterunser
 
-__11__
+ # 11
 ^1^ Jesus betete (einst unterwegs) an einem Orte<sup title="= irgendwo">&#x2732;</sup>, und als er damit zu Ende war, sagte einer seiner Jünger zu ihm: »Herr, lehre uns beten<sup title="= ein Gebet">&#x2732;</sup>, wie auch Johannes seine Jünger (Gebete) gelehrt hat!«
 ^2^ Da sagte er zu ihnen: »Wenn ihr beten wollt, so sprecht: ›Vater, geheiligt werde dein Name! Dein Reich komme!
 ^3^ Unser auskömmliches Brot<sup title="vgl. Mt 6,11">&#x2732;</sup> gib uns Tag für Tag!
@@ -858,7 +858,7 @@ __11__
 
 #### a) Warnung vor pharisäischer Heuchelei
 
-__12__
+ # 12
 ^1^ Als sich unterdessen eine Volksmenge von vielen Tausenden angesammelt hatte, so daß sie einander auf die Füße traten, begann er, zuerst zu seinen Jüngern zu sagen: »Hütet euch vor dem Sauerteig der Pharisäer, das heißt vor der Heuchelei! –
 ^2^ Nichts aber ist verhüllt, das nicht enthüllt werden wird, und nichts verborgen, was nicht bekannt werden wird.
 ^3^ Daher wird alles, was ihr im Dunkeln geredet habt, im Licht (der Öffentlichkeit) gehört werden; und was ihr in den Kammern ins Ohr geflüstert habt, wird auf den Dächern ausgerufen werden.«
@@ -952,7 +952,7 @@ __12__
 
 ### 15. Bußmahnungen an die für das Gericht reifen Volksgenossen; Gleichnis vom unfruchtbaren Feigenbaum
 
-__13__
+ # 13
 ^1^ Es waren aber zu eben dieser Zeit einige Leute (bei ihm) eingetroffen, die ihm von den Galiläern erzählten, deren Blut Pilatus zusammen mit dem ihrer Schlachtopfer vergossen hatte.
 ^2^ Da antwortete ihnen Jesus: »Meint ihr etwa, diese Galiläer seien größere Sünder gewesen als alle anderen Galiläer, weil sie dies Schicksal erlitten haben?
 ^3^ Nein, sage ich euch; sondern wenn ihr euren Sinn nicht ändert, werdet ihr alle ebenso umkommen.
@@ -1009,7 +1009,7 @@ __13__
 
 #### a) Neuer Streit wegen einer Krankenheilung am Sabbat
 
-__14__
+ # 14
 ^1^ Als er dann an einem Sabbat in das Haus eines der Obersten<sup title="= der führenden Männer">&#x2732;</sup> der Pharisäer gekommen war, um dort am Mahl teilzunehmen, lauerten sie ihm auf.
 ^2^ Und siehe, ein wassersüchtiger Mann erschien dort vor ihm.
 ^3^ Da richtete Jesus die Frage an die Gesetzeslehrer und Pharisäer: »Darf man am Sabbat heilen oder nicht?«
@@ -1063,7 +1063,7 @@ __14__
 
 #### a) Einleitung; Gleichnisse vom verlorenen Schaf und vom verlorenen Silberstück
 
-__15__
+ # 15
 ^1^ Es waren aber gerade die Zöllner und Sünder die, die ihm nahe zu kommen suchten, um ihn zu hören.
 ^2^ Darüber murrten die Pharisäer und die Schriftgelehrten laut und sagten: »Dieser nimmt Sünder (in seine Umgebung) auf und ißt mit ihnen.«
 ^3^ Da antwortete ihnen Jesus durch folgendes Gleichnis:
@@ -1106,7 +1106,7 @@ __15__
 
 #### a) Gleichnis vom untreuen, aber klugen Verwalter
 
-__16__
+ # 16
 ^1^ Er sagte dann noch zu seinen Jüngern: »Es war ein reicher Mann, der einen Verwalter hatte; über diesen wurde ihm hinterbracht, daß er ihm sein Vermögen veruntreue.
 ^2^ Da ließ er ihn rufen und sagte zu ihm: ›Was muß ich da über dich hören? Lege Rechnung ab über deine Verwaltung, denn du kannst nicht länger mein Verwalter sein!‹
 ^3^ Da überlegte der Verwalter bei sich: ›Was soll ich tun, da mein Herr mir die Verwaltung abnimmt? Zum Graben<sup title="d.h. zu harter Handarbeit">&#x2732;</sup> bin ich zu schwach, und zu betteln schäme ich mich.
@@ -1154,7 +1154,7 @@ __16__
 
 #### a) Warnung vor Verführungen (zum Unglauben und zur Sünde) und Mahnung zum Vergeben
 
-__17__
+ # 17
 ^1^ Weiter sagte Jesus zu seinen Jüngern: »Es kann nicht anders sein, als daß Ärgernisse<sup title="oder: Verführungen">&#x2732;</sup> kommen; wehe aber dem, durch den sie kommen!
 ^2^ Es wäre besser für ihn, wenn ihm ein Mühlstein um den Hals gelegt und er ins Meer geworfen wäre, als daß er für einen von diesen geringen Leuten zum Ärgernis wird<sup title="oder: ihn zum Bösen verführt">&#x2732;</sup>. –
 ^3^ Gebt auf euch selbst acht! Wenn dein Bruder sich (gegen dich) vergangen hat, so halte es ihm vor; und wenn er es bereut, so vergib ihm.
@@ -1206,7 +1206,7 @@ __17__
 
 ### 27. Gleichnis vom gottlosen Richter und der bittenden Witwe (von der Kraft des anhaltenden Gebets)
 
-__18__
+ # 18
 ^1^ Er legte ihnen dann ein Gleichnis vor, um sie darauf hinzuweisen, daß man allezeit beten müsse und nicht müde darin werden dürfe.
 ^2^ »In einer Stadt«, so sagte er, »lebte ein Richter, der Gott nicht fürchtete und auf keinen Menschen Rücksicht nahm.
 ^3^ Nun wohnte in jener Stadt eine Witwe, die (immer wieder) zu ihm kam mit dem Anliegen: ›Schaffe mir Recht gegen meinen Widersacher!‹
@@ -1271,7 +1271,7 @@ __18__
 
 ### 34. Jesu Einkehr beim Oberzöllner Zachäus in Jericho
 
-__19__
+ # 19
 ^1^ Jesus kam dann nach Jericho hinein und zog durch die Stadt hindurch.
 ^2^ Dort wohnte aber ein Mann namens Zachäus, der war ein Oberzöllner und ein reicher Mann.
 ^3^ Er hätte Jesus gern von Person gesehen, konnte es aber wegen der Volksmenge nicht, weil er klein von Gestalt war.
@@ -1338,7 +1338,7 @@ __19__
 
 ### 3. Die Frage des Hohen Rates nach Jesu Vollmacht
 
-__20__
+ # 20
 ^1^ Eines Tages nun, als er das Volk im Tempel lehrte und die Heilsbotschaft verkündigte, traten die Hohenpriester und Schriftgelehrten samt den Ältesten an ihn heran
 ^2^ und sagten zu ihm: »Sage uns, aufgrund welcher Vollmacht du hier in dieser Weise auftrittst oder wer es ist, der dir die Vollmacht<sup title="= das Recht">&#x2732;</sup> dazu gegeben hat?«
 ^3^ Da antwortete er ihnen: »Auch ich will euch eine Frage vorlegen; sagt mir:
@@ -1404,7 +1404,7 @@ __20__
 
 ### 9. Jesu Lob der zwei Scherflein der armen Witwe
 
-__21__
+ # 21
 ^1^ Als er dann aufblickte<sup title="= Umschau hielt">&#x2732;</sup>, sah er, wie die Reichen ihre Gaben in den Opferkasten einlegten.
 ^2^ Da sah er auch eine arme Witwe dort zwei Scherflein<sup title="vgl. Mk 12,42">&#x2732;</sup> hineintun
 ^3^ und sagte: »Wahrlich ich sage euch: Diese arme Witwe hat mehr als alle anderen eingelegt;
@@ -1472,7 +1472,7 @@ __21__
 
 ### 1. Mordanschlag der Führer des Volks
 
-__22__
+ # 22
 ^1^ So kam denn das Fest der ungesäuerten Brote, das sogenannte Passah, heran;
 ^2^ und die Hohenpriester und Schriftgelehrten suchten Mittel und Wege, wie sie ihn beseitigen<sup title="oder: umbringen">&#x2732;</sup> könnten; denn sie fürchteten sich vor dem Volke.
 
@@ -1582,7 +1582,7 @@ __22__
 
 #### a) Die Anklage der Juden und das Verhör Jesu vor Pilatus
 
-__23__
+ # 23
 ^1^ Nun erhob sich ihre ganze Versammlung, und sie führten ihn dem Pilatus vor.
 ^2^ Dort erhoben sie folgende Anklagen gegen ihn: »Wir haben festgestellt, daß dieser Mensch unser Volk aufwiegelt und es davon abhalten will, dem Kaiser Steuern zu entrichten, und daß er behauptet, er sei Christus<sup title="oder: der Messias">&#x2732;</sup>, ein König.«
 ^3^ Pilatus fragte ihn nun: »Bist du der König der Juden?«, und Jesus antwortete ihm: »Ja, ich bin es!«
@@ -1664,7 +1664,7 @@ __23__
 
 ### 13. Entdeckung des leeren Grabes am Ostermorgen; die Offenbarung an die Frauen
 
-__24__
+ # 24
 ^1^ Am ersten Tage nach dem Sabbat<sup title="oder: am ersten Tage der Woche">&#x2732;</sup> aber kamen sie beim Morgengrauen zum Grabe mit den wohlriechenden Stoffen, die sie zubereitet hatten.
 ^2^ Da fanden sie den Stein vom Grabe weggewälzt,
 ^3^ doch als sie hineingetreten waren, fanden sie den Leichnam des Herrn Jesus nicht.

@@ -4,7 +4,7 @@
 
 ### 1. Hiobs Frömmigkeit und äußerer Glücksstand; seine Sorge für die Gottesfurcht seiner Kinder
 
-__1__
+ # 1
 <sup>1</sup>Es lebte einst ein Mann im Lande Uz, Hiob mit Namen, und dieser Mann war fromm und rechtschaffen, fürchtete Gott und mied das Böse.
 <sup>2</sup>Sieben Söhne und drei Töchter wurden ihm geboren;
 <sup>3</sup>dazu besaß er siebentausend Stück Kleinvieh und dreitausend Kamele, fünfhundert Joch<sup title="= Paar">&#x2732;</sup> Rinder, fünfhundert Eselinnen und ein sehr zahlreiches Gesinde, so daß dieser Mann unter allen Bewohnern des Ostlandes der angesehenste war.
@@ -45,7 +45,7 @@ __1__
 
 #### a) Neue Abmachungen Gottes mit dem Satan
 
-__2__
+ # 2
 <sup>1</sup>Da begab es sich eines Tages, daß die Gottessöhne<sup title="1,6">&#x2732;</sup> wiederum kamen, um sich vor Gott den HERRN zu stellen; und unter ihnen erschien auch der Satan, um sich vor den HERRN zu stellen.
 <sup>2</sup>Da fragte der HERR den Satan: »Woher kommst du?« Der Satan gab dem HERRN zur Antwort: »Ich bin auf der Erde umhergestreift und habe eine Wanderung auf ihr vorgenommen.«
 <sup>3</sup>Da sagte der HERR zum Satan: »Hast du auch auf meinen Knecht Hiob achtgegeben? Denn so wie er ist kein Mensch auf der Erde, so fromm und rechtschaffen, so gottesfürchtig und dem Bösen feind; noch immer hält er an seiner Frömmigkeit fest, wiewohl du mich gegen ihn gereizt hast, ihn ohne Grund unglücklich zu machen.«
@@ -70,7 +70,7 @@ __2__
 
 #### b) Hiobs verzweiflungsvolle Klage
 
-__3__
+ # 3
 <sup>1</sup>Endlich öffnete Hiob den Mund und verfluchte den Tag seiner Geburt,
 <sup>2</sup>indem er ausrief:
 
@@ -107,7 +107,7 @@ __3__
 
 #### a) Eliphas entschuldigt seinen Versuch einer Zurechtweisung Hiobs mit dem Hinweis auf Hiobs eigenes früheres Verhalten vielen Leidenden gegenüber
 
-__4__
+ # 4
 <sup>1</sup>Da hob Eliphas von Theman an und sagte:
 
 <sup>2</sup>»Wird es dich verdrießen, wenn man ein Wort an dich zu richten wagt? Doch wer vermöchte die Worte zurückzuhalten?
@@ -139,7 +139,7 @@ __4__
 
 #### d) Selbstverschuldetes Leiden findet keinen Fürsprecher und wird durch Unmut nur vergrößert
 
-__5__
+ # 5
 <sup>1</sup>»Ja, rufe nur! Ist jemand da, der dir Antwort gibt? Und an wen von den heiligen (Engeln) willst du dich wenden?
 <sup>2</sup>Vielmehr den Toren bringt sein Unmut um, und den Einfältigen tötet sein Eifern<sup title="oder: Hadern">&#x2732;</sup>.
 <sup>3</sup>Ich selbst habe einen Toren zwar Wurzel schlagen sehen, doch gar schnell hatte ich seine Wohnstätte zu verwünschen.
@@ -178,7 +178,7 @@ __5__
 
 #### a) Hiob entschuldigt die Bitterkeit der von ihm ausgestoßenen Klage mit der furchtbaren Schwere seines Leidens
 
-__6__
+ # 6
 <sup>1</sup>Da antwortete Hiob folgendermaßen:
 
 <sup>2</sup>»Ach, würde doch mein Unmut genau gewogen und legte man mein Unglück zugleich<sup title="= dagegen">&#x2732;</sup> auf die Waage!
@@ -222,7 +222,7 @@ __6__
 
 #### e) Hiob beklagt die Mühsal und Kürze des Menschenlebens überhaupt und seine eigene verzweiflungsvolle Lage im besonderen
 
-__7__
+ # 7
 <sup>1</sup>»Hat der Mensch nicht harten Kriegsdienst<sup title="= Frondienst">&#x2732;</sup> auf Erden zu leisten, und gleichen seine Lebenstage nicht den Tagen eines Tagelöhners?
 <sup>2</sup>Gleich einem Sklaven, der nach Schatten lechzt, und wie ein Tagelöhner, der auf seinen Lohn harrt,
 <sup>3</sup>so habe auch ich Monate des Elends als Erbteil zugewiesen erhalten, und qualvolle Nächte sind mir zugeteilt worden.
@@ -252,7 +252,7 @@ __7__
 
 #### a) Scharfe Hervorhebung der Gerechtigkeit Gottes, die sich an Hiobs Kindern als Strafgericht erwiesen habe und sich an Hiob als Güte erweisen werde, wenn er Gott ernstlich suche
 
-__8__
+ # 8
 <sup>1</sup>Da nahm Bildad von Suah das Wort und sagte:
 
 <sup>2</sup>»Wie lange noch willst du solche Reden führen, und wie lange noch sollen die Worte deines Mundes als Sturmwind daherfahren?
@@ -287,7 +287,7 @@ __8__
 
 #### a) Ja, Gott hat immer recht, weil ihm, dem Allmächtigen, niemand standhalten kann
 
-__9__
+ # 9
 <sup>1</sup>Darauf antwortete Hiob folgendermaßen:
 
 <sup>2</sup>»Gewiß, ich weiß, daß es sich so verhält, und wie könnte ein Mensch Gott gegenüber recht behalten?
@@ -336,7 +336,7 @@ __9__
 
 #### e) Wie kann nur Gott bei seiner Allwissenheit und Vollkommenheit ein Verfolger Hiobs sein?
 
-__10__
+ # 10
 <sup>1</sup>»Mir ekelt vor meinem Leben: so will ich denn meiner Klage über ihn<sup title="d.h. Gott">&#x2732;</sup> freien Lauf lassen, will reden in der Verzweiflung meiner Seele!
 <sup>2</sup>Ich will zu Gott sagen: ›Behandle mich nicht als einen Frevler! Laß mich wissen, warum du gegen mich im Streite liegst!
 <sup>3</sup>Ist es wohlgetan von dir, daß du gewaltsam verfährst, daß du das Gebilde deiner Hände verwirfst, während du zu den Anschlägen der Frevler dein Licht leuchten läßt?
@@ -370,7 +370,7 @@ __10__
 
 #### a) Hiobs Gerede verlangt Zurückweisung; Gott hat mit seinem Scharfblick Hiobs Schuld klar durchschaut und ihn noch mit Nachsicht bestraft
 
-__11__
+ # 11
 <sup>1</sup>Da nahm Zophar von Naama das Wort und sagte:
 
 <sup>2</sup>»Soll (dieser) Wortschwall ohne Antwort bleiben und dieser Zungenheld recht behalten?
@@ -400,7 +400,7 @@ __11__
 
 #### a) Hiobs Klage über die eingebildete Weisheit und die unbarmherzige Lieblosigkeit der Freunde
 
-__12__
+ # 12
 <sup>1</sup>Da antwortete Hiob folgendermaßen:
 
 <sup>2</sup>»Wahrhaftig, ihr seid das Volk<sup title="= vertretet die ganze Menschheit">&#x2732;</sup>, und mit euch wird die Weisheit aussterben!
@@ -436,7 +436,7 @@ __12__
 
 #### d) Hiob stellt sein Wissen dem der Freunde gleich und beruft sich auf das Wissen Gottes, der in den Freunden nur strafwürdige Lügenanwälte seiner Gerechtigkeit erblicken könne
 
-__13__
+ # 13
 <sup>1</sup>»Seht, dies alles hat mein Auge gesehen, hat mein Ohr gehört und es sich gemerkt.
 <sup>2</sup>Soviel ihr wißt, weiß ich auch: ich stehe hinter euch nicht zurück.
 <sup>3</sup>Doch ich will zum Allmächtigen reden und trage Verlangen, mich mit Gott auseinanderzusetzen.
@@ -476,7 +476,7 @@ __13__
 
 ##### cc) Das menschliche Leben ist kurz und dabei voller Mühsal; warum läßt Gott es nicht in Ruhe verlaufen?
 
-__14__
+ # 14
 <sup>1</sup>»Der Mensch, vom Weibe geboren, ist arm an Lebenszeit, aber überreich an Unruhe:
 <sup>2</sup>wie eine Blume sprießt er auf und verwelkt, er flieht wie ein Schatten dahin und hat keinen Bestand.
 <sup>3</sup>Dennoch hältst du über einem solchen (Wesen) deine Augen offen und ziehst ihn vor deinen Richterstuhl!
@@ -512,7 +512,7 @@ __14__
 
 #### a) Eliphas rügt Hiobs Äußerungen als nichtiges, gottloses und dünkelhaftes Gerede gegen Gott
 
-__15__
+ # 15
 <sup>1</sup>Da nahm Eliphas von Theman das Wort und sagte:
 
 <sup>2</sup>»Wird wohl ein Weiser windiges Wissen als Antwort vortragen und seine Lunge mit (bloßem) Ostwind blähen,
@@ -558,7 +558,7 @@ __15__
 
 #### a) Hiob weist die Tröstungen der Freunde als windige Reden und als Hohn zurück
 
-__16__
+ # 16
 <sup>1</sup>Darauf antwortete Hiob folgendermaßen:
 
 <sup>2</sup>»Dergleichen habe ich nun schon vieles gehört: leidige<sup title="oder: elende">&#x2732;</sup> Tröster seid ihr allesamt!
@@ -589,7 +589,7 @@ __16__
 <sup>21</sup>daß er dem Manne<sup title="oder: Sterblichen">&#x2732;</sup> Recht schaffe Gott gegenüber und zwischen dem Menschen und seinem Freunde entscheide.
 <sup>22</sup>Denn nur noch wenige Jahre werden kommen, dann werde ich den Pfad wandeln, auf dem es keine Rückkehr für mich gibt.
 
-__17__
+ # 17
 <sup>1</sup>Meine Lebenskraft ist gebrochen, meine Tage sind erloschen; nur die Gräberstätte<sup title="= der Friedhof">&#x2732;</sup> wartet meiner noch!«
 
 #### d) Hiob legt die Gründe dar, die Gott gegenüber der Torheit und Gefühllosigkeit der Freunde und mit Rücksicht auf die Teilnahme der Frommen zum Eintreten für ihn veranlassen müssen
@@ -617,7 +617,7 @@ __17__
 
 #### a) Äußerung des Unwillens über Hiobs anmaßende und selbstgerechte Reden
 
-__18__
+ # 18
 <sup>1</sup>Da nahm Bildad von Suah das Wort und sagte:
 
 <sup>2</sup>»Wie lange wollt ihr noch Jagd auf (bloße) Worte machen? Nehmt Verstand an: dann wollen wir reden!
@@ -648,7 +648,7 @@ __18__
 
 #### a) Hiobs Klage über seine Freunde, die ihn ohne Beweis beschimpfen, statt die Schuld auf die grundlose Feindschaft Gottes zu schieben
 
-__19__
+ # 19
 <sup>1</sup>Da antwortete Hiob folgendermaßen:
 
 <sup>2</sup>»Wie lange wollt ihr mein Herz noch betrüben und mich mit Reden martern?
@@ -690,7 +690,7 @@ __19__
 
 #### a) Kurze Abweisung der beleidigenden Rede Hiobs
 
-__20__
+ # 20
 <sup>1</sup>Nun nahm Zophar von Naama das Wort und sagte:
 
 <sup>2</sup>»Eben darum veranlassen meine Gedanken mich zu einer Antwort, und eben deswegen bin ich innerlich erregt:
@@ -729,7 +729,7 @@ __20__
 
 #### a) Hiobs Bitte an die Freunde, seine folgende bedeutsame, wenn auch schmerzlich wirkende Darlegung anzuhören
 
-__21__
+ # 21
 <sup>1</sup>Darauf antwortete Hiob folgendermaßen:
 
 <sup>2</sup>»Hört, o höret an, was ich zu sagen habe! Das soll mir eure Tröstungen ersetzen!
@@ -781,7 +781,7 @@ __21__
 
 #### a) Eliphas spricht nun rückhaltlos aus, daß Hiob sein Unglück verdient habe
 
-__22__
+ # 22
 <sup>1</sup>Da nahm Eliphas von Theman das Wort und sagte:
 
 <sup>2</sup>»Kann wohl ein Mensch Gott Nutzen schaffen? Nein, nur sich selbst nützt der Fromme<sup title="oder: Verständige">&#x2732;</sup>.
@@ -827,7 +827,7 @@ __22__
 
 #### a) Hiob fühlt sich weniger durch sein schuldloses Leiden als durch das unbegreifliche, ihm keine Gelegenheit zur Rechtfertigung bietende Verhalten Gottes beunruhigt
 
-__23__
+ # 23
 <sup>1</sup>Da antwortete Hiob folgendermaßen:
 
 <sup>2</sup>»Auch jetzt noch gilt meine Klage euch als Trotz: schwer lastet seine Hand auf meinem Seufzen.
@@ -849,7 +849,7 @@ __23__
 
 #### b) Hiob legt das unbegreifliche Walten Gottes im Leidensgeschick der Unschuldigen und im Glück der Gottlosen an Beispielen dar
 
-__24__
+ # 24
 <sup>1</sup>»Warum sind vom Allmächtigen nicht Zeiten für Strafgerichte vorgesehen worden, und warum bekommen seine Getreuen nicht seine Gerichtstage zu sehen?
 <sup>2</sup>Man verrückt die Grenzsteine, raubt Herden samt den Hirten<sup title="oder: und weidet sie als eigene">&#x2732;</sup>;
 <sup>3</sup>den Esel der Verwaisten treibt man weg, nimmt die Kuh der Witwe als Pfand;
@@ -884,7 +884,7 @@ __24__
 
 #### Hinweis auf das unwiderstehliche Walten Gottes in der Höhe und auf die sündige Art und Unvollkommenheit des Menschen
 
-__25__
+ # 25
 <sup>1</sup>Da nahm Bildad von Suah das Wort und sagte:
 
 <sup>2</sup>»Herrschergewalt<sup title="= Majestät">&#x2732;</sup> und Schrecken sind bei ihm, der da Frieden schafft in seinen Höhen.
@@ -897,7 +897,7 @@ __25__
 
 #### a) Bittere Abfertigung der weder Trost noch weisen Rat enthaltenden Rede Bildads
 
-__26__
+ # 26
 <sup>1</sup>Da antwortete Hiob folgendermaßen:
 
 <sup>2</sup>»Wie hast du doch dem Schwachen beigestanden und den kraftlosen Arm gestützt!
@@ -921,7 +921,7 @@ __26__
 
 #### a) Hiob erklärt, an der Überzeugung von seiner eidlich beteuerten Unschuld festhalten zu müssen, um nicht zum Lügner zu werden
 
-__27__
+ # 27
 <sup>1</sup>Hierauf fuhr Hiob nochmals in seiner Rede so fort:
 
 <sup>2</sup>»So wahr Gott lebt, der mir mein Recht entzogen, und der Allmächtige, der mich in Verzweiflung gestürzt hat:
@@ -957,7 +957,7 @@ __27__
 
 ##### aa) Alle Schätze, auch die in den Tiefen der Erde verborgenen, weiß der Mensch zu finden und sich zu eigen zu machen
 
-__28__
+ # 28
 <sup>1</sup>»Denn wohl gibt es für das Silber einen Fundort<sup title="oder: eine Herkunftsstelle">&#x2732;</sup> und eine Stätte für das Golderz, wo man es auswäscht<sup title="oder: läutert">&#x2732;</sup>.
 <sup>2</sup>Eisen wird aus der Erde herausgeholt, und Gestein schmelzt man zu Kupfer um.
 <sup>3</sup>Der Finsternis hat (der Mensch) ein Ziel gesetzt, und bis in die äußersten Tiefen durchforscht das in Nacht und Grauen verborgene Gestein.
@@ -999,7 +999,7 @@ __28__
 
 #### a) Schilderung des früheren göttlichen Segens
 
-__29__
+ # 29
 <sup>1</sup>Hierauf fuhr Hiob in seiner Rede so fort:
 
 <sup>2</sup>»O daß es mit mir noch so stände wie in den früheren Monden, wie in den Tagen, wo Gott mich behütete, –
@@ -1034,7 +1034,7 @@ __29__
 
 #### a) Hiob erfährt Verachtung, Beleidigungen und Angriffe sogar von seiten der ehrlosesten Leute
 
-__30__
+ # 30
 <sup>1</sup>»Jetzt aber lachen über mich auch solche, die jünger an Jahren sind als ich, deren Väter ich nicht gewürdigt habe, sie neben den Wachhunden meines Kleinviehs anzustellen.
 <sup>2</sup>Wozu hätte mir auch die Kraft ihrer Hände nützen können? Bei ihnen war ja die volle Rüstigkeit verlorengegangen.
 <sup>3</sup>Durch Mangel und Hunger erschöpft, nagen sie das dürre Land ab, die unfruchtbare und öde Steppe;
@@ -1078,7 +1078,7 @@ __30__
 
 #### a) Der große Reinigungseid Hiobs zur Feststellung seiner Gerechtigkeit (= unverletzten Gottesfurcht)
 
-__31__
+ # 31
 <sup>1</sup>»Mit meinen Augen habe ich einen Bund abgeschlossen, daß ich ja nicht lüstern nach einer Jungfrau blickte.
 <sup>2</sup>Denn was wäre der Lohn Gottes von oben gewesen und die Vergeltung des Allmächtigen aus Himmelshöhen?
 <sup>3</sup>Trifft nicht Verderben den Frevler und Unglück die Überltäter?
@@ -1137,7 +1137,7 @@ __31__
 
 #### a) Angaben über Elihu und sein bisheriges Verhalten
 
-__32__
+ # 32
 <sup>1</sup>Als nun jene drei Männer es aufgegeben hatten, dem Hiob (darauf) zu antworten, daß er sich selbst für gerecht hielt,
 <sup>2</sup>da entbrannte der Zorn des Busiters Elihu, des Sohnes Barachels, aus dem Geschlechte Ram<sup title="vgl. Ruth 4,19">&#x2732;</sup>. Gegen Hiob war er in Zorn geraten, weil dieser Gott gegenüber im Recht zu sein behauptete;
 <sup>3</sup>und gegen dessen drei Freunde war er deshalb in Zorn geraten, weil sie nicht die (rechte) Antwort gefunden hatten, um Hiob als schuldig zu erweisen.
@@ -1172,7 +1172,7 @@ __32__
 
 ##### cc) Elihus freundliche Anrede und Aufforderung an Hiob zur Stellungnahme
 
-__33__
+ # 33
 <sup>1</sup>»Nun aber höre, Hiob, meine Reden und leihe dein Ohr allen meinen Worten!
 <sup>2</sup>Wisse wohl: wenn ich meinen Mund jetzt auftue und meine Zunge sich vernehmlich hören läßt,
 <sup>3</sup>so sind meine Worte aufrichtig wie mein Herz, und was meine Lippen wissen, sprechen sie unverfälscht aus.
@@ -1227,7 +1227,7 @@ __33__
 
 #### a) Feststellung der Behauptung Hiobs, Gott sei ungerecht
 
-__34__
+ # 34
 <sup>1</sup>Elihu hob dann wieder an und sagte:
 <sup>2</sup>»Vernehmt, ihr Weisen, meine Worte und, ihr Einsichtigen, schenkt mir Gehör!
 <sup>3</sup>denn das Ohr prüft die Worte, wie der Gaumen die Speisen kostet.
@@ -1279,7 +1279,7 @@ __34__
 
 #### a) Elihu bekämpft die Behauptung Hiobs, daß die Gottesfurcht keinen Nutzen bringe, mit dem Hinweis darauf, daß das Tun der Menschen nicht für Gott, sondern nur für die Menschen von Bedeutung sei
 
-__35__
+ # 35
 <sup>1</sup>Elihu hob dann wieder an und sagte:
 <sup>2</sup>»Hältst du das für recht, nennst du das ›meine Gerechtigkeit vor Gott‹,
 <sup>3</sup>daß du fragst: ›Was nützt sie mir?‹ und: ›Was habe ich mehr davon, als wenn ich sündigte?‹
@@ -1304,7 +1304,7 @@ __35__
 
 #### a) Elihu begründet seine folgende Unterweisung mit dem Hinweis auf sein vollkommenes Wissen
 
-__36__
+ # 36
 <sup>1</sup>Hierauf fuhr Elihu weiter fort zu reden:
 <sup>2</sup>»Gedulde dich nur noch ein wenig, daß ich dich unterweise! Denn ich habe für Gottes Sache noch mehr zu sagen.
 <sup>3</sup>Ich will mit meinem Wissen weit ausholen, um meinem Schöpfer zu seinem Recht zu verhelfen;
@@ -1348,7 +1348,7 @@ __36__
 <sup>32</sup>Beide Hände hüllt er in den leuchtenden Blitz und entbietet ihn gegen den Angreifer.
 <sup>33</sup>Sein Donnergetöse kündigt ihn an als einen, der seinen Zorn gegen den Frevel eifern<sup title="= in Eifer geraten">&#x2732;</sup> läßt.
 
-__37__
+ # 37
 <sup>1</sup>Ja, darüber erzittert mein Herz und fährt stürmisch empor von seiner Stelle.
 <sup>2</sup>Hört, o hört auf das Donnern seiner Stimme und auf das Tosen, das seinem Munde entfährt!
 <sup>3</sup>Er entfesselt es unter dem ganzen Himmel hin und sein Blitzesleuchten bis an die Säume der Erde.
@@ -1383,7 +1383,7 @@ __37__
 
 #### a) Gottes Aufforderung an Hiob, ihm Rede zu stehen
 
-__38__
+ # 38
 <sup>1</sup>Da antwortete der HERR dem Hiob aus dem Wettersturme heraus folgendermaßen:
 <sup>2</sup>»Wer ist’s, der da den Heilsplan Gottes verdunkelt mit Worten ohne Einsicht?
 <sup>3</sup>Auf! Gürte dir die Lenden wie ein Mann, so will ich dich fragen, und du belehre mich<sup title="oder: gib mir Bescheid">&#x2732;</sup>!«
@@ -1437,7 +1437,7 @@ __38__
 <sup>40</sup>wenn sie in ihren Höhlen kauern, im Dickicht auf der Lauer liegen?
 <sup>41</sup>Wer verschafft dem Raben sein Futter, wenn seine Jungen zu Gott schreien und wegen Mangels an Nahrung umherirren?
 
-__39__
+ # 39
 <sup>1</sup>Kennst du die Zeit, wo die Felsgemsen<sup title="oder: Steinböcke">&#x2732;</sup> werfen, und überwachst du das Kreißen der Hirschkühe?
 <sup>2</sup>Zählst du die Monde, während derer sie trächtig sind, und weißt du die Zeit, wann sie gebären?
 <sup>3</sup>Sie kauern nieder, lassen ihre Jungen zur Welt kommen, entledigen sich leicht ihrer Geburtsschmerzen.
@@ -1476,7 +1476,7 @@ __39__
 
 #### c) Gottes Aufforderung an Hiob, mit ihm in den Rechtsstreit einzutreten; Hiob gibt seine Anklagen gegen Gott auf
 
-__40__
+ # 40
 <sup>1</sup>Hierauf wandte sich der HERR weiter an Hiob mit der Frage:
 <sup>2</sup>»Hadern will der Tadler mit dem Allmächtigen? Der Ankläger Gottes gebe Antwort darauf!«
 
@@ -1524,7 +1524,7 @@ __40__
 <sup>31</sup>Kannst du ihm die Haut mit Spießen spicken und seinen Kopf mit Fischerhaken<sup title="= Harpunen">&#x2732;</sup> durchbohren?
 <sup>32</sup>Vergreife dich nur einmal an ihm: mache dich auf Kampf gefaßt! Du wirst’s gewiß nicht wieder tun!
 
-__41__
+ # 41
 <sup>1</sup>Ja, eine solche Hoffnung erweist sich als Trug: schon bei seinem Anblick bricht man zusammen.
 <sup>2</sup>Niemand ist so tollkühn, daß er es aufstört; und wer ist es, der ihm entgegengetreten und heil davongekommen wäre?
 <sup>3</sup>Wer unter dem ganzen Himmel ist es?
@@ -1554,7 +1554,7 @@ __41__
 
 #### d) Hiobs letzte Antwort: seine Anerkennung der Größe Gottes und sein bußfertiger Widerruf
 
-__42__
+ # 42
 <sup>1</sup>Da antwortete Hiob dem HERRN folgendermaßen:
 
 <sup>2</sup>»Ich habe anerkannt, daß du alles vermagst und kein Vorhaben<sup title="oder: Plan">&#x2732;</sup> dir unausführbar ist.

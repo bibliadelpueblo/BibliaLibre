@@ -6,7 +6,7 @@ _(genannt Exodus, d.h. das Buch vom Auszug)_
 
 ### 1. Die schnelle Vermehrung der Israeliten trotz der drückenden Knechtung durch die Ägypter
 
-__1__
+ # 1
 ^1^Dies sind die Namen der Söhne Israels, die nach Ägypten gekommen waren – mit Jakob waren sie gekommen, ein jeder mit seiner Familie –:
 ^2^Ruben, Simeon, Levi und Juda;
 ^3^Issaschar, Sebulon und Benjamin;
@@ -38,7 +38,7 @@ __1__
 
 #### a) Geburt und Aussetzung, Rettung und Erziehung Moses
 
-__2__
+ # 2
 ^1^Nun ging ein Mann aus dem Stamme Levi hin und heiratete eine Levitin.
 ^2^Diese Frau wurde Mutter eines Sohnes; und als sie sah, daß es ein schönes Kind war, verbarg sie ihn drei Monate lang.
 ^3^Als sie ihn dann nicht länger verborgen halten konnte, nahm sie für ihn ein Kästchen von Papyrusrohr, machte es mit Erdharz und Pech dicht, legte das Knäblein hinein und setzte es in das Schilf am Ufer des Nils.
@@ -78,7 +78,7 @@ __2__
 
 #### a) Gott offenbart sich dem Mose im Dornbusch als der ›Ich bin‹, der sein Volk aus der ägyptischen Knechtschaft befreien wolle
 
-__3__
+ # 3
 ^1^Mose aber weidete das Kleinvieh seines Schwiegervaters Jethro, des Priesters der Midianiter. Als er nun einst die Herde über die Steppe hinaus getrieben hatte, kam er an den Berg Gottes, an den Horeb.
 ^2^Da erschien ihm der Engel des HERRN als eine Feuerflamme, die mitten aus einem Dornbusch hervorschlug; und als er hinblickte, sah er, daß der Dornbusch im Feuer brannte, ohne jedoch vom Feuer verzehrt zu werden.
 ^3^Da dachte Mose: »Ich will doch hingehen und mir diese wunderbare Erscheinung ansehen, warum der Dornbusch nicht verbrennt.«
@@ -112,7 +112,7 @@ __3__
 
 ##### aa) Die Beglaubigungswunder
 
-__4__
+ # 4
 ^1^Mose aber entgegnete: »Ach, sie werden mir nicht glauben und auf meine Aussagen nicht hören, sondern behaupten: ›Der HERR ist dir nicht erschienen!‹«
 ^2^Da erwiderte ihm der HERR: »Was hast du da in deiner Hand?« Er antwortete: »Einen Stab.«
 ^3^Da sagte er: »Wirf ihn auf die Erde!« Als er ihn nun auf die Erde geworfen hatte, wurde er zu einer Schlange, vor welcher Mose die Flucht ergriff.
@@ -163,7 +163,7 @@ __4__
 
 #### a) Die Verhandlung
 
-__5__
+ # 5
 ^1^Hierauf gingen Mose und Aaron hin und sagten zum Pharao: »So hat der HERR, der Gott Israels, gesprochen: ›Laß mein Volk ziehen, damit sie mir ein Fest in der Wüste feiern!‹«
 ^2^Der Pharao aber antwortete: »Wer ist der HERR, daß ich seinen Befehlen gehorchen und Israel ziehen lassen müßte? Ich kenne (diesen) HERRN nicht und will auch Israel nicht ziehen lassen.«
 ^3^Da entgegneten sie: »Der Gott der Hebräer ist uns erschienen; wir möchten nun drei Tagereisen weit in die Wüste ziehen und dem HERRN, unserm Gott, dort Schlachtopfer darbringen, damit er uns nicht mit der Pest oder mit dem Schwert heimsucht!«
@@ -195,7 +195,7 @@ __5__
 ^22^Da wandte sich Mose wieder an den HERRN und sagte: »Herr! Warum läßt du diesem Volk solches Unheil widerfahren? Warum hast du mich hergesandt?
 ^23^Denn seitdem ich zum Pharao gegangen bin, um in deinem Namen zu reden, hat er dies Volk erst recht mißhandelt, und du hast zur Rettung deines Volkes nichts getan!«
 
-__6__
+ # 6
 ^1^Da sagte der HERR zu Mose: »Jetzt sollst du sehen, was ich mit dem Pharao machen werde: Durch eine starke Hand gezwungen, wird er sie ziehen lassen, ja durch eine starke Hand gezwungen, wird er sie aus seinem Lande wegtreiben!«
 
 ### 5. Nochmalige Berufung Moses; Stammbaum Moses
@@ -241,7 +241,7 @@ __6__
 ^29^sagte der HERR zu Mose folgendes: »Ich bin der HERR! Vermelde dem Pharao, dem König von Ägypten, alles, was ich dir sagen werde.«
 ^30^Mose aber antwortete vor dem HERRN: »Ach, ich bin im Reden ungewandt: wie sollte da der Pharao auf mich hören!«
 
-__7__
+ # 7
 ^1^Da erwiderte der HERR dem Mose: »Siehe, ich mache dich für den Pharao zu einem Gott, und dein Bruder Aaron soll dein Prophet sein<sup title="vgl. 4,16">&#x2732;</sup>.
 ^2^Du sollst ihm alles sagen, was ich dir auftragen werde, doch dein Bruder Aaron soll mit dem Pharao verhandeln, daß er die Israeliten aus seinem Lande ziehen lasse.
 ^3^Ich aber will das Herz des Pharaos verhärten, um viele Zeichen und Wunder im Lande Ägypten zu verrichten.
@@ -283,7 +283,7 @@ __7__
 ^28^Der Nil soll dann von Fröschen wimmeln; die sollen heraufkommen und in deinen Palast, in dein Schlafgemach und auf dein Bett kriechen und in die Häuser deiner Diener und unter dein Volk, auch in deine Backöfen und Backtröge dringen;
 ^29^ja an dir selbst und deinen Untertanen und an all deinen Dienern sollen die Frösche hinaufkriechen!‹«
 
-__8__
+ # 8
 ^1^Hierauf gebot der HERR dem Mose: »Sage zu Aaron: ›Strecke deine Hand mit deinem Stabe aus über die Stromarme, die Kanäle und Teiche, und laß die Frösche über das Land Ägypten heraufkommen!‹«
 ^2^Da streckte Aaron seine Hand über die Gewässer Ägyptens aus, und die Frösche kamen herauf und bedeckten das Land Ägypten.
 ^3^Aber auch die Zauberer taten dasselbe vermittels ihrer Geheimkünste: auch sie ließen die Frösche über das Land Ägypten kommen.
@@ -320,7 +320,7 @@ __8__
 
 #### e) Fünfte, sechste und siebente Plage: Viehpest, Beulen und Hagel
 
-__9__
+ # 9
 ^1^Hierauf sagte der HERR zu Mose: »Gehe zum Pharao und sage zu ihm: ›So hat der HERR, der Gott der Hebräer, gesprochen: Laß mein Volk ziehen, damit es mir diene!
 ^2^Denn wenn du dich weigerst, es ziehen zu lassen, und sie noch länger zurückhältst,
 ^3^so wird die Hand des HERRN über dein Vieh auf dem Felde kommen, über die Pferde, Esel und Kamele, über die Rinder und das Kleinvieh mit einer sehr schlimmen Seuche.
@@ -364,7 +364,7 @@ __9__
 
 #### f) Die achte und neunte Plage: Heuschrecken und Finsternis
 
-__10__
+ # 10
 ^1^Hierauf sagte der HERR zu Mose: »Gehe zum Pharao! Denn ich selbst habe ihm und seinen Dienern das Herz verhärtet, um diese meine Zeichen in ihrer Mitte zu verrichten,
 ^2^und damit du deinen Kindern und Kindeskindern einst erzählen kannst, wie ich gegen die Ägypter vorgegangen bin und welche Zeichen ich unter ihnen vollführt habe: erkennen sollt ihr, daß ich der HERR bin!«
 ^3^Da gingen Mose und Aaron zum Pharao und sagten zu ihm: »So hat der HERR, der Gott der Hebräer, gesprochen: ›Wie lange willst du dich noch sträuben, dich vor mir zu demütigen? Laß mein Volk ziehen, damit es mir diene!
@@ -403,7 +403,7 @@ __10__
 
 #### g) Ankündigung der zehnten (letzten und entscheidenden) Plage, des Sterbens der Erstgeburten
 
-__11__
+ # 11
 ^1^Darauf sagte der HERR zu Mose: »Noch eine einzige Plage will ich über den Pharao und über Ägypten kommen lassen; alsdann wird er euch von hier ziehen lassen, ja er wird, wenn er euch bedingungslos entläßt, euch sogar gewaltsam von hier wegtreiben.
 ^2^Gib nun dem Volke die bestimmte Weisung, daß sie sich insgesamt, Männer wie Weiber, silberne und goldene Wertsachen von ihren Nachbarn und Nachbarinnen erbitten<sup title="oder: leihen">&#x2732;</sup>.«
 ^3^Der HERR stimmte dann die Ägypter günstig gegen das Volk; auch stand Mose in den Augen der Diener des Pharaos und des ganzen ägyptischen Volkes als ein großer Mann da.
@@ -422,7 +422,7 @@ __11__
 
 ##### aa) Anordnungen über die Zubereitung und das Essen des Passahlammes
 
-__12__
+ # 12
 ^1^Darauf gebot der HERR dem Mose und Aaron im Lande Ägypten folgendes:
 ^2^»Der gegenwärtige Monat soll euch als Anfangsmonat gelten! Der erste soll er euch unter den Monaten des Jahres sein!
 ^3^Gebt der ganzen Gemeinde Israel folgende Weisungen: Am zehnten Tage dieses Monats, da nehme sich jeder (Hausvater) ein Lamm, für je eine Familie<sup title="= Haushaltung">&#x2732;</sup> ein Lamm;
@@ -491,7 +491,7 @@ __12__
 ^50^Da taten alle Israeliten so; wie der HERR dem Mose und Aaron geboten hatte, genau so taten sie. –
 ^51^An eben diesem Tage, an welchem der HERR die Israeliten aus Ägypten nach ihren Heerscharen<sup title="= geordnet">&#x2732;</sup> hinwegführte,
 
-__13__
+ # 13
 ^1^gebot der HERR dem Mose folgendes:
 ^2^»Heilige<sup title="oder: weihe">&#x2732;</sup> mir alles Erstgeborene, alles, was bei den Israeliten zuerst aus dem Mutterschoß ans Tageslicht hervortritt, von Menschen wie vom Vieh: es gehört mir!«
 
@@ -529,7 +529,7 @@ __13__
 
 #### b) Gott befiehlt die Änderung der Marschrichtung
 
-__14__
+ # 14
 ^1^Da gebot der HERR dem Mose folgendes:
 ^2^»Befiehl den Israeliten umzukehren und östlich von Pi-Hahiroth zwischen Migdol und dem Meer zu lagern! Gerade gegenüber von Baal-Zephon sollt ihr am Meer lagern!
 ^3^Dann wird der Pharao von den Israeliten denken: ›Ratlos irren sie im Lande umher, die Wüste hält sie umschlossen!‹
@@ -574,7 +574,7 @@ __14__
 
 #### f) Siegeslied der Israeliten am Schilfmeer
 
-__15__
+ # 15
 ^1^Damals sangen Mose und die Israeliten zum Preise des HERRN folgendes Lied:
 
 Singen will ich dem HERRN, denn hocherhaben ist er; Rosse und Reiter hat er ins Meer gestürzt.
@@ -643,7 +643,7 @@ Singet dem HERRN! Denn hocherhaben ist er; Rosse und Reiter hat er ins Meer gest
 
 #### b) Wachteln und Manna als Speisen in der Wüste Sin
 
-__16__
+ # 16
 ^1^Dann brachen sie von Elim auf, und die ganze Gemeinde der Israeliten gelangte in die Wüste Sin, die zwischen Elim und dem Sinai liegt, am fünfzehnten Tage des zweiten Monats nach ihrem Auszug aus dem Lande Ägypten.
 
 ##### aa) Das Murren des Volkes; die göttliche Erhörung durch die Wachtel- und Mannaspende
@@ -697,7 +697,7 @@ __16__
 
 ##### aa) Die wunderbare Wasserspende aus dem Felsen bei Massa und Meriba
 
-__17__
+ # 17
 ^1^Hierauf zog die ganze Gemeinde der Israeliten nach dem Befehl des HERRN aus der Wüste Sin weiter, einen Tagemarsch nach dem andern, und lagerte in Rephidim, wo es aber kein Trinkwasser für das Volk gab.
 ^2^Da haderte das Volk mit Mose und rief: »Gebt uns Wasser zum Trinken!« Aber Mose antwortete ihnen: »Was hadert ihr mit mir? Was versucht ihr den HERRN?«
 ^3^Weil aber das Volk dort infolge des Wassermangels Durst litt, murrte es gegen Mose und sagte: »Warum hast du uns nur aus Ägypten hergeführt? Etwa um mich und meine Kinder und mein Vieh hier verdursten zu lassen?«
@@ -720,7 +720,7 @@ __17__
 
 #### d) Jethros Besuch bei Mose am Gottesberge; Einsetzung von Richtern
 
-__18__
+ # 18
 ^1^Jethro aber, der Priester der Midianiter, der Schwiegervater Moses, hatte alles erfahren, was Gott an Mose und an seinem Volke Israel getan hatte, daß der HERR nämlich die Israeliten aus Ägypten weggeführt hatte.
 ^2^Da nahm Jethro, der Schwiegervater Moses, Zippora, Moses Frau, die dieser zurückgesandt hatte,
 ^3^samt ihren beiden Söhnen, von denen der eine Gersom hieß, weil Mose gesagt hatte: »Ein Gast bin ich in einem fremden Lande geworden«<sup title="vgl. 2,22">&#x2732;</sup>,
@@ -757,7 +757,7 @@ __18__
 
 #### a) Ankunft des Volkes am Sinai; Vorbereitung der Gesetzgebung
 
-__19__
+ # 19
 ^1^Im dritten Monat<sup title="oder: am dritten Neumond">&#x2732;</sup> nach dem Auszug der Israeliten aus Ägypten, an diesem Tage<sup title="oder: genau auf den Tag">&#x2732;</sup> kamen sie in die Wüste Sinai.
 ^2^Sie waren nämlich von Rephidim aufgebrochen und in die Wüste Sinai gelangt und lagerten sich dort in der Wüste, und zwar dem Berg gegenüber.
 ^3^Als Mose dann zu Gott hinaufstieg, rief der HERR ihm vom Berge herab die Worte zu: »So sollst du zum Hause Jakobs sprechen und den Kindern Israels verkündigen:
@@ -791,7 +791,7 @@ __19__
 
 #### b) Die Verkündigung der Zehn Gebote
 
-__20__
+ # 20
 ^1^Hierauf redete Gott alle diese Worte und sprach:
 ^2^»Ich bin der HERR, dein Gott<sup title="oder: Ich, der HERR, bin dein Gott">&#x2732;</sup>, der dich aus dem Land Ägypten hinausgeführt hat, aus dem Diensthause<sup title="oder: dem Hause der Knechtschaft">&#x2732;</sup>.
 
@@ -838,7 +838,7 @@ __20__
 
 ##### aa) Die Rechte der hebräischen Sklaven und Sklavinnen
 
-__21__
+ # 21
 ^1^»Und dies sind die Rechtssatzungen, die du ihnen vorlegen sollst:
 ^2^Wenn du einen hebräischen Knecht<sup title="= Sklaven">&#x2732;</sup> kaufst, soll er dir sechs Jahre lang dienen; aber im siebten Jahre soll er unentgeltlich freigelassen werden.
 ^3^Ist er allein<sup title="d.h. ohne Frau">&#x2732;</sup> gekommen, so soll er auch allein<sup title="d.h. ohne Frau">&#x2732;</sup> wieder gehen; war er aber verheiratet, so soll auch seine Frau mit ihm freigelassen werden.
@@ -894,7 +894,7 @@ __21__
 ^2^a wenn aber die Sonne zur Zeit der Tat über ihm schon aufgegangen war, so soll ein Mord<sup title="oder: Blutschuld">&#x2732;</sup> für ihn als vorliegend angenommen werden.
 ^2^a wenn aber die Sonne zur Zeit der Tat über ihm schon aufgegangen war, so soll ein Mord<sup title="oder: Blutschuld">&#x2732;</sup> für ihn als vorliegend angenommen werden.
 
-__22__
+ # 22
 ^3^Wird das gestohlene Tier, es sei ein Rind oder ein Esel oder ein Stück Kleinvieh, noch lebend in seinem Besitz vorgefunden, so soll er nur doppelten Ersatz leisten;
 ^4^Läßt jemand ein Feld oder einen Baumgarten abweiden und sein Vieh dabei frei laufen, so daß es auf dem Felde eines andern weidet, so hat er mit dem besten Ertrage seines Feldes und mit dem besten Ertrage seines Baumgartens Ersatz zu leisten. –
 ^5^Wenn Feuer ausbricht und Dornhecken ergreift und es wird ein Garbenhaufen oder das auf dem Halm stehende Getreide oder das Feld dadurch verbrannt, so soll der, welcher den Brand verursacht hat, den Schaden ersetzen.«
@@ -934,7 +934,7 @@ __22__
 
 ##### hh) Wahrhaftiges und ehrenhaftes Verhalten, besonders vor Gericht
 
-__23__
+ # 23
 ^1^»Du sollst kein falsches Gerücht verbreiten. – Biete dem, der eine ungerechte Sache hat, nicht die Hand, daß du ein falscher Zeuge für ihn würdest. –
 ^2^Du sollst dich nicht der großen Menge zu bösem Tun anschließen und bei einem Rechtsstreit nicht so aussagen, daß du dich nach der großen Menge richtest, um das Recht zu beugen. –
 ^3^Den Vornehmen sollst du in seinem Rechtshandel nicht begünstigen. –
@@ -979,7 +979,7 @@ __23__
 
 #### e) Feierlicher Abschluß des Bundes; Abfassung und Verlesung des Bundesbuches; das Bundesopfer nebst Blutbesprengung
 
-__24__
+ # 24
 ^1^Hierauf gebot er dem Mose: »Steige zum HERRN<sup title="= zu mir">&#x2732;</sup> herauf, du nebst Aaron, Nadab und Abihu und siebzig von den Ältesten der Israeliten, und bringt von fern eure Verehrung dar.
 ^2^Mose aber soll dann allein nahe an den HERRN herantreten; die anderen dagegen sollen nicht näher hinzutreten, und auch das Volk darf nicht mit ihm heraufsteigen.«
 
@@ -1012,7 +1012,7 @@ __24__
 
 ##### aa) Aufforderung zu einer freiwilligen Beisteuer für die Herstellung des Heiligtums
 
-__25__
+ # 25
 ^1^Der HERR sprach dann zu Mose folgendermaßen:
 ^2^»Fordere die Israeliten auf, eine Beisteuer<sup title="oder: Abgabe">&#x2732;</sup> an mich zu entrichten! Von einem jeden, den sein Herz dazu treibt, sollt ihr die Abgabe an mich annehmen<sup title="oder: erheben">&#x2732;</sup>!
 ^3^Und zwar besteht die Abgabe, die ihr von ihnen erheben sollt, in folgendem: in Gold, Silber und Kupfer;
@@ -1061,7 +1061,7 @@ __25__
 
 ##### cc) Anweisung über die Herstellung der Wohnung: Die vier Decken (die Prachtdecke und die drei Überdecken)
 
-__26__
+ # 26
 ^1^»Die Wohnung<sup title="d.h. das Offenbarungszelt">&#x2732;</sup> aber sollst du aus zehn Teppichen herstellen; von gezwirntem Byssus, blauem und rotem Purpur und Karmesin, mit Cherubbildern, wie sie der Kunstweber wirkt, sollst du sie herstellen.
 ^2^Die Länge eines jeden Teppichs soll 28 Ellen und die Breite 4 Ellen betragen; alle Teppiche sollen dieselbe Größe haben.
 ^3^Je fünf dieser Teppiche sollen zu einem Stück zusammengefügt werden, einer an den andern.
@@ -1110,7 +1110,7 @@ __26__
 
 ##### ff) Anweisung über den Brandopferaltar, den Vorhof und die Lieferung von Öl für den Leuchter
 
-__27__
+ # 27
 ^1^»Den (Brandopfer-) Altar<sup title="vgl. 38,1-7">&#x2732;</sup> sollst du aus Akazienholz anfertigen, fünf Ellen lang und fünf Ellen breit – viereckig<sup title="= quadratförmig">&#x2732;</sup> soll der Altar sein – und drei Ellen hoch.
 ^2^Die zu ihm gehörenden Hörner sollst du an seinen vier Ecken anbringen; sie sollen mit ihm aus einem Stück bestehen; und du sollst ihn mit Kupfer überziehen.
 ^3^Sodann verfertige die zugehörigen, zur Wegräumung der Fettasche dienenden Töpfe, sowie die zugehörigen Schaufeln, Becken, Gabeln und Pfannen; alle erforderlichen Geräte sollst du aus Kupfer herstellen.
@@ -1139,7 +1139,7 @@ __27__
 
 ##### aa) Anweisung über die priesterliche Kleidung Aarons und seiner Söhne
 
-__28__
+ # 28
 ^1^»Du aber sollst deinen Bruder Aaron nebst seinen Söhnen aus der Mitte der Israeliten zu dir herantreten lassen, damit er mir als Priester diene, nämlich Aaron und seine Söhne Nadab und Abihu, Eleasar und Ithamar.
 ^2^Du sollst also für deinen Bruder Aaron heilige Kleider anfertigen lassen, ihm zur Ehre<sup title="oder: Würde">&#x2732;</sup> und zum Schmuck.
 ^3^Besprich dich also mit allen kunstverständigen Personen, die ich mit kunstsinnigem Geist erfüllt habe, daß sie die Kleider Aarons anfertigen, damit man ihn darin weihe und er mir als Priester dienen kann.
@@ -1201,7 +1201,7 @@ __28__
 
 ##### gg) Anweisung für die Weihe der Priester
 
-__29__
+ # 29
 ^1^»Behufs ihrer Weihe für den Priesterdienst, den sie mir zu verrichten haben, sollst du folgendermaßen verfahren: Nimm einen jungen Stier und zwei fehlerlose Widder,
 ^2^ungesäuertes Brot und ungesäuerte, mit Öl gemengte<sup title="oder: eingerührte">&#x2732;</sup> Kuchen sowie ungesäuerte, mit Öl bestrichene Fladen; aus feinem Weizenmehl sollst du sie bereiten.
 ^3^Lege sie dann in einen Korb und bringe sie in dem Korbe herbei, dazu den jungen Stier und die beiden Widder.
@@ -1264,7 +1264,7 @@ __29__
 
 #### Vorschriften bezüglich des Räucheraltars
 
-__30__
+ # 30
 ^1^»Sodann sollst du einen Altar<sup title="vgl. 37,25-28">&#x2732;</sup> herstellen, um Räucherwerk auf ihm zu verbrennen; aus Akazienholz sollst du ihn anfertigen;
 ^2^eine Elle lang und eine Elle breit, viereckig<sup title="= quadratförmig">&#x2732;</sup> soll er sein und zwei Ellen hoch; seine Hörner sollen aus einem Stück mit ihm bestehen.
 ^3^Du sollst ihn, sowohl seine Platte als auch die Wände ringsum und die Hörner, mit feinem Gold überziehen und einen goldenen Kranz<sup title="oder: Leiste">&#x2732;</sup> ringsum an ihm anbringen.
@@ -1318,7 +1318,7 @@ __30__
 
 #### Berufung zweier Werkmeister und ihrer Gehilfen
 
-__31__
+ # 31
 ^1^Weiter sagte der HERR zu Mose folgendes:
 ^2^»Wisse wohl: ich habe Bezaleel, den Sohn Uris, den Enkel Hurs, aus dem Stamme Juda, namentlich<sup title="= mit Namennennung">&#x2732;</sup> berufen
 ^3^und ihn mit göttlichem Geist erfüllt, mit Kunstsinn und Einsicht, mit Verstand und allerlei Fertigkeiten,
@@ -1350,7 +1350,7 @@ __31__
 
 ##### aa) Herstellung und Anbetung des goldenen Stierbildes
 
-__32__
+ # 32
 ^1^Als aber das Volk sah, daß Mose mit seiner Rückkehr vom Berge auf sich warten ließ, sammelte sich das Volk um Aaron und sagte zu ihm: »Auf! Mache uns einen Gott, der vor uns herziehen soll! Denn von diesem Mose, dem Mann, der uns aus dem Land Ägypten hierher geführt hat, wissen wir nicht, was aus ihm geworden ist.«
 ^2^Da antwortete ihnen Aaron: »Reißt die goldenen Ringe ab, die eure Frauen und eure Söhne und Töchter in den Ohren tragen, und bringt sie mir her!«
 ^3^Da riß das gesamte Volk sich die goldenen Ringe ab, die sie in den Ohren trugen, und brachten sie zu Aaron.
@@ -1401,7 +1401,7 @@ __32__
 
 ##### aa) Gottes Befehl zum Aufbruch in das Land der Verheißung; Trauer des Volkes über Gottes Abkehr
 
-__33__
+ # 33
 ^1^Hierauf sagte der HERR zu Mose: »Ziehe nunmehr weiter, hinweg von hier, du und das Volk, das du aus dem Land Ägypten hergeführt hast, in das Land, das ich Abraham, Isaak und Jakob zugeschworen habe mit den Worten: ›Deinen Nachkommen will ich es geben!‹
 ^2^Ich will aber einen Engel vor dir hersenden und die Kanaanäer, Amoriter, Hethiter, Pherissiter, Hewiter und Jebusiter vertreiben, – in ein Land, das von Milch und Honig überfließt.
 ^3^Doch ich selbst will nicht in deiner Mitte hinaufziehen, weil du ein halsstarriges Volk bist; ich müßte dich sonst unterwegs vertilgen.«
@@ -1439,7 +1439,7 @@ __33__
 
 ##### aa) Mose steigt auf Gottes Gebot mit zwei unbeschriebenen Steintafeln auf den Sinai
 
-__34__
+ # 34
 ^1^Darauf gebot der HERR dem Mose: »Haue dir zwei Steintafeln zurecht, wie die ersten waren, dann will ich auf die Tafeln die Worte schreiben, die auf den ersten Tafeln gestanden haben, die du zertrümmert hast!
 ^2^Halte dich für morgen bereit, gleich früh auf den Berg Sinai zu steigen und dort auf der Spitze des Berges vor mich zu treten!
 ^3^Es soll aber niemand mit dir heraufsteigen, und es darf sich auch niemand am ganzen Berge blicken lassen; sogar das Kleinvieh und die Rinder dürfen nicht gegen diesen Berg hin weiden!«
@@ -1495,7 +1495,7 @@ __34__
 
 #### a) Mitteilung des Sabbatgebots; Aufforderung zur Leistung der Beisteuer für die Stiftshütte
 
-__35__
+ # 35
 ^1^Hierauf versammelte Mose die ganze Gemeinde der Israeliten und sagte zu ihnen: »Dies ist es, was der HERR zu tun geboten hat:
 ^2^Sechs Tage lang soll gearbeitet werden; aber der siebte Tag soll euch heilig sein als ein Feiertag mit völliger Ruhe zu Ehren des HERRN! Wer an diesem Tage eine Arbeit verrichtet, soll den Tod erleiden!
 ^3^Am Sabbattage dürft ihr kein Feuer in allen euren Wohnungen anzünden!«
@@ -1539,7 +1539,7 @@ __35__
 ^34^Aber auch die Gabe, andere zu unterweisen, hat er ihm verliehen, ihm und Oholiab, dem Sohn Ahisamachs, vom Stamme Dan.
 ^35^Er hat sie beide mit Kunstsinn reich ausgestattet, um alle Arten von Arbeiten auszuführen, wie sie die Künstler in festen Stoffen sowie die Kunstweber und Buntwirker in blauem und rotem Purpur, in Karmesin und Byssus schaffen und die (einfachen) Weber liefern, indem sie Arbeiten aller Art ausführen und Kunstwerke ersinnen!
 
-__36__
+ # 36
 ^1^So werden denn Bezaleel und Oholiab und alle kunstverständigen Männer, denen der HERR Kunstsinn und Einsicht verliehen hat, so daß sie sich auf die Ausführung aller für das Heiligtum erforderlichen Arbeiten verstehen, alles nach den Anordnungen des HERRN ausführen.«
 
 ^2^Hierauf berief Mose den Bezaleel und Oholiab und alle kunstverständigen Männer, denen der HERR Kunstsinn verliehen hatte, alle, die sich dazu getrieben fühlten, sich an der Ausführung des Werkes zu beteiligen.
@@ -1597,7 +1597,7 @@ __36__
 
 ##### aa) Die Lade mit der Deckplatte
 
-__37__
+ # 37
 ^1^Weiter fertigte Bezaleel die Lade aus Akazienholz an, zweieinhalb Ellen lang, anderthalb Ellen breit und anderthalb Ellen hoch.
 ^2^Er überzog sie inwendig und auswendig mit feinem Gold und brachte an ihr einen goldenen Kranz ringsum an.
 ^3^Dann goß er für sie vier goldene Ringe und befestigte diese an ihren vier Ecken<sup title="oder: Füßen">&#x2732;</sup>, und zwar zwei Ringe an ihrer einen Seite und zwei Ringe an ihrer andern Seite.
@@ -1642,7 +1642,7 @@ __37__
 
 ##### ff) Der Brandopferaltar. Das kupferne Becken
 
-__38__
+ # 38
 ^1^Hierauf fertigte er den Brandopferaltar aus Akazienholz an, fünf Ellen lang und fünf Ellen breit, viereckig<sup title="= quadratförmig">&#x2732;</sup> und drei Ellen hoch.
 ^2^Die zu ihm gehörenden Hörner brachte er an seinen vier Ecken an; diese Hörner waren mit ihm aus einem Stück gearbeitet; und er überzog ihn mit Kupfer.
 ^3^Sodann verfertigte er alle für den Altar erforderlichen Geräte: die Töpfe und Schaufeln, die Becken, Gabeln und Pfannen; alle erforderlichen Geräte stellte er aus Kupfer her.
@@ -1685,7 +1685,7 @@ __38__
 
 #### g) Anfertigung der Priesterkleider
 
-__39__
+ # 39
 ^1^Aus dem blauen und roten Purpur aber und dem Karmesin verfertigten sie die Prachtkleider für den Dienst im Heiligtum, und zwar stellten sie die heiligen Kleidungsstücke für Aaron so her, wie der HERR dem Mose geboten hatte.
 
 ##### aa) Das Schulterkleid (Ephod)
@@ -1752,7 +1752,7 @@ __39__
 
 ##### aa) Der göttliche Befehl
 
-__40__
+ # 40
 ^1^Hierauf gebot der HERR dem Mose folgendes:
 ^2^»Am ersten Tage des ersten Monats sollst du die Wohnung des Offenbarungszeltes aufschlagen,
 ^3^die Lade mit dem Gesetz hineinstellen und den Vorhang vor der Lade aufhängen!

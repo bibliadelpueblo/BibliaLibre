@@ -8,7 +8,7 @@ _(genannt Numeri, d.h. Zahlangaben, Zählungen des Volkes)_
 
 ##### aa) Der göttliche Befehl und seine Ausführung
 
-__1__
+ # 1
 ^1^Hierauf gebot der HERR dem Mose in der Wüste Sinai, im Offenbarungszelt, am ersten Tage des zweiten Monats im zweiten Jahr nach ihrem Auszug aus dem Lande Ägypten folgendes:
 ^2^»Nehmt die Kopfzahl der gesamten Gemeinde der Israeliten auf nach ihren Geschlechtern und nach ihren Familien, mit Aufzählung der einzelnen Namen, alle männlichen Personen Kopf für Kopf;
 ^3^von zwanzig Jahren an und darüber, alles, was in Israel zum Heeresdienst tauglich ist, die sollt ihr mustern, Schar für Schar, du und Aaron.
@@ -85,7 +85,7 @@ __1__
 
 #### b) Die Lager- und Zugordnung der Stämme
 
-__2__
+ # 2
 ^1^Weiter gebot der HERR dem Mose und Aaron folgendes:
 ^2^»Die Israeliten sollen ein jeder bei seinem Panier, bei den Feldzeichen ihrer Stämme, lagern; dem Offenbarungszelt gegenüber sollen sie ringsum lagern.
 ^3^Und zwar sollen folgende ostwärts<sup title="= vorn">&#x2732;</sup> gegen Sonnenaufgang lagern: das Panier des Lagers Judas nach seinen Heerscharen, und als Anführer des Stammes Juda Nahson, der Sohn Amminadabs;
@@ -130,7 +130,7 @@ __2__
 
 ##### aa) Die Söhne Aarons
 
-__3__
+ # 3
 ^1^Dies sind die Nachkommen Aarons [und Moses] zu der Zeit, als der HERR mit Mose auf dem Berge Sinai redete.
 ^2^Und zwar sind dies die Namen der Söhne Aarons: der Erstgeborene war Nadab, sodann Abihu, Eleasar und Ithamar.
 ^3^Dies sind die Namen der Söhne Aarons, der gesalbten Priester, die in ihr Amt eingesetzt worden waren<sup title="vgl. 3.Mose 8,28">&#x2732;</sup>, um den Priesterdienst zu verrichten.
@@ -205,7 +205,7 @@ __3__
 
 ##### aa) Der göttliche Befehl zur Musterung der dienstfähigen Leviten vom 30. bis 50. Jahre nebst Dienstvorschriften
 
-__4__
+ # 4
 ^1^Hierauf gebot der HERR dem Mose und Aaron folgendes:
 ^2^»Nehmt unter den Leviten die Kopfzahl der Kehathiten nach ihren Geschlechtern und nach ihren Familien auf,
 ^3^von dreißig Jahren an und darüber bis zu fünfzig Jahren, alle, die zum Dienst tauglich sind, so daß sie am Offenbarungszelt tätig sein können.
@@ -271,7 +271,7 @@ __4__
 
 ##### aa) Entfernung der Unreinen aus dem Lager
 
-__5__
+ # 5
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Befiehl den Israeliten, daß sie alle Aussätzigen und alle mit einem Ausfluß Behafteten sowie alle, die sich an einer Leiche verunreinigt haben, aus dem Lager entfernen;
 ^3^sowohl Männer als Weiber sollt ihr hinausschaffen, vor das Lager hinaus sollt ihr sie schaffen, damit sie ihre Lager nicht verunreinigen, da doch ich in deren Mitte wohne.«
@@ -315,7 +315,7 @@ __5__
 
 #### Allgemeine Bestimmungen
 
-__6__
+ # 6
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Teile den Israeliten folgende Verordnungen mit: Wenn ein Mann oder ein Weib das Absonderungsgelübde eines Nasiräers<sup title="d.h. eines Gottgeweihten">&#x2732;</sup> ablegen will, um sich dem HERRN zu weihen,
 ^3^so muß er sich des Weines und jedes andern berauschenden Getränks enthalten; auch Essig<sup title="oder: Gegorenes">&#x2732;</sup> von Wein oder Essig von berauschendem Getränk darf er nicht trinken; ebenso darf er keinerlei aus Trauben hergestellte Flüssigkeit trinken und keine Trauben, weder frische noch getrocknete, genießen.
@@ -356,7 +356,7 @@ __6__
 
 #### f) Die Weihegeschenke der Stammesfürsten für das Heiligtum
 
-__7__
+ # 7
 ^1^An dem Tage nun, als Mose mit der Errichtung der heiligen Wohnung fertig war und sie gesalbt und geheiligt<sup title="oder: geweiht">&#x2732;</sup> hatte samt allen ihren Geräten, auch den Brandaltar mit allen seinen Geräten gesalbt und geweiht hatte,
 ^2^da brachten die Fürsten der Israeliten, die Häupter der einzelnen Stämme – das sind die Stammesfürsten, die als Vorsteher die Musterung vorgenommen hatten –,
 ^3^da brachten sie ihre Opfergabe vor den HERRN, nämlich sechs überdeckte Wagen und zwölf Rinder, je einen Wagen auf zwei Fürsten und je ein Rind von jedem: die brachten sie vor die heilige Wohnung.
@@ -468,7 +468,7 @@ __7__
 
 ##### aa) Die sieben Lampen am Leuchter
 
-__8__
+ # 8
 ^1^Hierauf gebot der HERR dem Mose folgendes:
 ^2^»Gib dem Aaron folgende Weisung: Wenn du die Lampen aufsetzt, so sollen die sieben Lampen ihr Licht nach der Vorderseite des Leuchters hin werfen.«
 ^3^Da machte Aaron es so: an der Vorderseite des Leuchters setzte er dessen Lampen auf, wie der HERR dem Mose geboten hatte.
@@ -507,7 +507,7 @@ __8__
 
 ##### aa) Die nachträgliche Passahfeier für Unreine und Reisende; das Passah der Fremdlinge
 
-__9__
+ # 9
 ^1^Weiter gebot der HERR dem Mose in der Wüste Sinai im zweiten Jahr nach ihrem Auszug aus dem Lande Ägypten, im ersten Monat, folgendes:
 ^2^»Die Israeliten sollen das Passah zur festgesetzten Zeit feiern:
 ^3^am vierzehnten Tage in diesem Monat gegen Abend sollt ihr es zur festgesetzten Zeit feiern; nach allen darauf bezüglichen Bestimmungen und nach allen dafür geltenden Vorschriften sollt ihr es feiern.«
@@ -539,7 +539,7 @@ __9__
 
 #### i) Verordnung bezüglich zweier silberner Trompeten
 
-__10__
+ # 10
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Fertige dir zwei silberne Trompeten an; in getriebener Arbeit sollst du sie anfertigen, und sie sollen dir dazu dienen, die Gemeinde zusammenzurufen und das Zeichen zum Aufbruch der Lager zu geben.
 ^3^Sobald mit ihnen (beiden) geblasen wird, soll sich die ganze Gemeinde bei dir am Eingang des Offenbarungszeltes versammeln;
@@ -595,7 +595,7 @@ __10__
 
 ##### aa) Das Murren des Volkes und der Lagerbrand zu Thabera
 
-__11__
+ # 11
 ^1^Da erging sich das Volk in lauten Klagen über sein Ungemach vor den Ohren des HERRN. Als der HERR es hörte, entbrannte sein Zorn, und das Feuer des HERRN<sup title="d.h. der Blitz">&#x2732;</sup> zündete unter ihnen und richtete am Ende des Lagers Verheerung an.
 ^2^Da schrie das Volk zu Mose, und dieser betete zum HERRN: da erlosch das Feuer.
 ^3^Man gab deshalb diesem Orte den Namen Thabera<sup title="d.h. Brandstätte">&#x2732;</sup>, weil dort das Feuer des HERRN gegen sie aufgelodert war.
@@ -649,7 +649,7 @@ __11__
 
 #### e) Mirjams und Aarons Auflehnung gegen Mose
 
-__12__
+ # 12
 ^1^Mirjam und Aaron aber redeten gegen<sup title="= übel von">&#x2732;</sup> Mose wegen des kuschitischen Weibes, das er zur Frau genommen hatte; er hatte nämlich eine Kuschitin geheiratet.
 ^2^Außerdem sagten sie: »Hat der HERR etwa nur mit Mose geredet? Hat er nicht auch mit uns geredet?«
 ^3^Der HERR hörte dies; Mose aber war ein überaus sanftmütiger Mann, sanftmütiger als irgendein anderer Mensch auf der Erde.
@@ -677,7 +677,7 @@ __12__
 
 ##### aa) Gottes Auftrag an Mose und Auswahl der Kundschafter
 
-__13__
+ # 13
 ^1^Darauf gebot der HERR dem Mose folgendes:
 ^2^»Sende Männer aus, damit sie das Land Kanaan auskundschaften, das ich den Israeliten geben will; je einen Mann aus jedem Stamme seiner Väter sollt ihr aussenden, lauter Fürsten unter ihnen.«
 ^3^So sandte denn Mose sie nach dem Befehl des HERRN aus der Wüste Paran aus, allesamt Männer, welche Stammeshäupter der Israeliten waren,
@@ -728,7 +728,7 @@ __13__
 
 ##### aa) Die Wirkung des Berichts auf das Volk
 
-__14__
+ # 14
 ^1^Da erhob die ganze Gemeinde ein lautes Geschrei, und das Volk weinte in jener Nacht;
 ^2^alle Israeliten murrten über Mose und Aaron, und die ganze Gemeinde klagte vor ihnen: »Ach wären wir doch im Lande Ägypten gestorben! Oder wären wir doch hier in der Wüste gestorben!
 ^3^Warum führt uns der HERR in dieses Land? Damit wir durch das Schwert fallen? Damit unsere Frauen und kleinen Kinder (den Feinden) zur Beute werden? Ist es nicht das Beste für uns, wir kehren nach Ägypten zurück?«
@@ -795,7 +795,7 @@ __14__
 
 ##### aa) Vorschriften bezüglich der Speis- und Trankopfer als Beigabe zu den Brand- und Heilsopfern
 
-__15__
+ # 15
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Teile den Israeliten folgende Verordnungen mit: Wenn ihr in das Land kommt, das ich euch zum Wohnsitz geben will,
 ^3^und ihr dem HERRN ein Feueropfer darbringen wollt, ein Brandopfer oder ein Schlachtopfer, sei es, um ein besonderes Gelübde zu erfüllen oder bei einer freiwilligen Gabe oder an euren Festen, um dem HERRN einen lieblichen Duft zu bereiten, von den Rindern oder vom Kleinvieh:
@@ -855,7 +855,7 @@ __15__
 
 ##### aa) Die Empörung Korahs und der Rubeniten
 
-__16__
+ # 16
 ^1^Es empörte sich aber Korah, der Sohn Jizhars, des Sohnes Kahaths, des Sohnes Levis, und mit ihm Dathan und Abiram, die Söhne Eliabs, des Sohnes Pallus, des Sohnes Rubens.
 ^2^Diese empörten sich gegen Mose und mit ihnen zweihundertundfünfzig Israeliten, welche Vorsteher<sup title="oder: Fürsten">&#x2732;</sup> der Gemeinde, aus der Gemeindeversammlung berufene<sup title="vgl. 1,16">&#x2732;</sup> und hochangesehene Männer waren.
 ^3^Sie rotteten sich also gegen Mose und Aaron zusammen und sagten zu ihnen: »Ihr beansprucht für euch zu viel; denn die ganze Gemeinde, alle ohne Ausnahme sind heilig<sup title="oder: geweiht">&#x2732;</sup>, weil der HERR in ihrer Mitte weilt: warum erhebt ihr euch da über die Gemeinde des HERRN?«
@@ -908,7 +908,7 @@ __16__
 
 ##### aa) Die Verwendung der 250 Räucherpfannen Korahs und seiner Genossen zum Überzug für den Opferaltar
 
-__17__
+ # 17
 ^1^Hierauf gebot der HERR dem Mose folgendes:
 ^2^»Befiehl Eleasar, dem Sohne des Priesters Aaron, er solle die Räucherpfannen von der Brandstätte aufheben und die feurigen Kohlen in einiger Entfernung von hier umherstreuen;
 ^3^denn dem Heiligtum sind die Räucherpfannen dieser Männer verfallen, die durch ihre Sünde ihr Leben verwirkt haben. Man mache daraus breitgehämmerte Bleche zu einem Überzug für den Altar; denn da sie die Pfannen vor den HERRN gebracht haben, sind sie dem Heiligtum verfallen und sollen nun ein Wahrzeichen<sup title="oder: Mahnzeichen">&#x2732;</sup> für die Israeliten bleiben.«
@@ -951,7 +951,7 @@ __17__
 
 ##### aa) Allgemeine Verordnungen über die Pflichten der Priester und ihrer Gehilfen, der Leviten
 
-__18__
+ # 18
 ^1^Der HERR sagte dann zu Aaron: »Du und deine Söhne und das Haus deines Vaters<sup title="= dein väterlicher Stamm">&#x2732;</sup> mit dir, ihr sollt die Verfehlungen am Heiligtum auf euch nehmen; und du und deine Söhne mit dir, ihr habt die Verfehlungen an eurem Priesteramt zu tragen.
 ^2^Aber auch deine Brüder, den Stamm Levi, deinen väterlichen Stamm, laß mit dir herantreten: sie sollen sich dir anschließen und dir behilflich sein, während du und deine Söhne mit dir den Dienst vor dem Offenbarungszelt verrichtet.
 ^3^Und zwar sollen sie das besorgen, was zu deiner Bedienung und zur Bedienung des ganzen Zeltes erforderlich ist; nur an die heiligen Geräte und an den Altar dürfen sie nicht herantreten, sonst müßt sowohl ihr als auch sie sterben.
@@ -996,7 +996,7 @@ __18__
 
 #### m) Herstellung und Gebrauch des Reinigungswassers aus der Asche einer rötlichen Kuh behufs Reinigung der durch Leichenberührung Verunreinigten
 
-__19__
+ # 19
 ^1^Der HERR sagte dann weiter zu Mose und Aaron folgendes:
 ^2^»Dies ist die Gesetzesbestimmung, die der HERR erlassen hat durch die Verordnung: Sage den Israeliten, sie sollen dir eine fehlerlose, rötliche Kuh bringen, die kein Gebrechen an sich hat und auf die noch kein Joch gekommen ist.
 ^3^Die sollt ihr dem Priester Eleasar übergeben, und man soll sie dann vor das Lager hinausführen und sie vor seinen Augen schlachten.
@@ -1027,7 +1027,7 @@ Es soll dann aber für die Israeliten und für die Fremdlinge, die sich als Gäs
 
 #### n) Ankunft in Kades und Mirjams Tod; erneutes Murren des Volkes; die für Mose und Aaron verhängnisvolle Wasserspende aus dem Felsen
 
-__20__
+ # 20
 ^1^Hierauf gelangte die ganze Gemeinde der Israeliten in die Wüste Zin im ersten Monat (des vierzigsten Jahres), und das Volk ließ sich in Kades nieder. Dort starb Mirjam und wurde dort begraben.
 
 ^2^Weil aber die Gemeinde kein Wasser hatte, rottete sie sich gegen Mose und Aaron zusammen;
@@ -1070,7 +1070,7 @@ __20__
 
 ##### aa) Sieg und Vollstreckung des Bannes
 
-__21__
+ # 21
 ^1^Als nun der kanaanäische König von Arad, der im Südland wohnte, die Kunde erhielt, daß die Israeliten auf dem Wege von Atharim heranzögen, griff er die Israeliten an und nahm einige von ihnen gefangen.
 ^2^Da legten die Israeliten ein Gelübde vor dem HERRN ab und versprachen: »Wenn du dieses Volk in unsere Gewalt gibst, so wollen wir an ihren Ortschaften den Bann vollstrecken.«
 ^3^Da erhörte der HERR die Bitte der Israeliten und gab ihnen die Kanaanäer preis. Man vollstreckte dann an ihnen und ihren Ortschaften den Bann und nannte die Stätte seitdem Horma<sup title="d.h. Bann">&#x2732;</sup>.
@@ -1136,7 +1136,7 @@ Feuer ging aus bis Medeba.
 ^34^Der HERR aber sagte zu Mose: »Fürchte dich nicht vor ihm! Denn ich habe ihn mit seinem ganzen Volk und seinem Land in deine Gewalt gegeben: verfahre mit ihm so, wie du mit dem Amoriterkönig Sihon, der in Hesbon wohnte, verfahren bist.«
 ^35^Da erschlugen sie ihn nebst seinen Söhnen und seinem ganzen Kriegsvolk, so daß ihm auch nicht einer übrigblieb, der entronnen wäre, und nahmen sein Land in Besitz.
 
-__22__
+ # 22
 ^1^Hierauf zogen die Israeliten weiter und lagerten in den Steppen der Moabiter jenseits des Jordans, Jericho gegenüber.
 
 ### 3. Ereignisse in den Steppen der Moabiter (22,2-36,13)
@@ -1200,7 +1200,7 @@ __22__
 
 ##### ee) Die Vorbereitungen zu der Gottesoffenbarung; der erste Spruch Bileams
 
-__23__
+ # 23
 ^1^Da sagte Bileam zu Balak: »Baue mir hier sieben Altäre und stelle mir hier sieben junge Stiere und sieben Widder bereit.«
 ^2^Balak kam der Aufforderung Bileams nach, und beide opferten je einen Stier und einen Widder auf jedem Altar.
 ^3^Hierauf sagte Bileam zu Balak: »Bleibe du hier bei deinem Brandopfer stehen, während ich einen Gang mache; vielleicht kommt der HERR mir entgegen<sup title="d.h. gibt er sich mir kund">&#x2732;</sup>, und was immer er mir offenbart, das will ich dir kundtun.« Dann begab er sich auf eine kahle Anhöhe<sup title="oder: in die Einsamkeit">&#x2732;</sup>.
@@ -1274,7 +1274,7 @@ und das Blut der Erschlagnen getrunken.«
 ^29^Dort sagte Bileam zu Balak: »Baue mir hier sieben Altäre und stelle mir hier sieben junge Stiere und sieben Widder bereit.«
 ^30^Balak kam der Aufforderung Bileams nach und opferte einen Stier und einen Widder auf jedem Altar.
 
-__24__
+ # 24
 ^1^Da Bileam aber erkannte, daß es der Wille des HERRN war, Israel zu segnen, ging er nicht, wie die vorigen Male, auf Wahrzeichen aus, sondern wandte sein Gesicht nach der Wüste hin.
 
 ##### jj) Bileam segnet Israel vom Berge Peor herab
@@ -1359,7 +1359,7 @@ doch auch der wird dem Untergang verfallen!«
 
 ##### aa) Israels Verschuldung durch Unzucht und Abgötterei (Abfall zu Baal-Peor)
 
-__25__
+ # 25
 ^1^Als aber die Israeliten sich in Sittim niedergelassen hatten, fing das Volk an, mit den Moabitinnen Unzucht zu treiben.
 ^2^Diese luden das Volk zu den Opferfesten ihrer Götter ein, und das Volk nahm an ihren Opfermahlen teil und betete ihre Götter an.
 ^3^Als nun die Israeliten sich so an Baal-Peor gehängt hatten, entbrannte der Zorn des HERRN gegen Israel,
@@ -1388,7 +1388,7 @@ __25__
 
 #### c) Die zweite Zählung des Volkes in der Ebene der Moabiter behufs der Verteilung des Landes
 
-__26__
+ # 26
 ^1^Nachdem aber das Sterben zu Ende war, gebot der HERR dem Mose und Eleasar, dem Sohne des Priesters Aaron, folgendes:
 ^2^»Stellt die Kopfzahl der ganzen Gemeinde der Israeliten fest, von zwanzig Jahren an und darüber, Geschlecht für Geschlecht, alle, die zum Kriegsdienst in Israel tauglich sind!«
 ^3^Da nahmen Mose und der Priester Eleasar die Musterung vor in den Steppen der Moabiter am Jordan, Jericho gegenüber,
@@ -1482,7 +1482,7 @@ Es waren aber die Israeliten, die aus Ägypten ausgezogen waren:
 
 #### d) Bestimmungen bezüglich des Grundbesitzes der Erbtöchter
 
-__27__
+ # 27
 ^1^Da traten herzu die Töchter Zelophhads, des Sohnes Hephers, des Sohnes Gileads, des Sohnes Machirs, des Sohnes Manasses, aus den Geschlechtern Manasses, des Sohnes Josephs; und die Namen seiner Töchter waren Mahla, Noa, Hogla, Milka und Thirza.
 ^2^Die traten also vor Mose und vor den Priester Eleasar, vor die Stammesfürsten und die ganze Gemeinde am Eingang des Offenbarungszeltes und sagten:
 ^3^»Unser Vater ist in der Wüste gestorben, hat aber nicht zu der Rotte derer gehört, die sich gegen den HERRN zusammengetan haben, zu der Rotte Korahs, sondern er ist wegen seiner eigenen Sündhaftigkeit gestorben, ohne Söhne zu hinterlassen.
@@ -1513,7 +1513,7 @@ __27__
 
 #### f) Vorschriften bezüglich der täglichen und der festtäglichen Gemeindeopfer
 
-__28__
+ # 28
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Teile den Israeliten folgende Verordnungen mit: Ihr sollt darauf achten, meine Opfergaben, meine Speise in Gestalt der mir zukommenden Feueropfer zu lieblichem Geruch für mich, mir zu rechter Zeit darzubringen!«
 
@@ -1563,7 +1563,7 @@ __28__
 
 ##### ff) Die Zusatzopfer am Neujahrstage
 
-__29__
+ # 29
 ^1^»Ferner am ersten Tage des siebten Monats soll bei euch eine Festversammlung am Heiligtum stattfinden; da dürft ihr keinerlei Werktagsarbeit verrichten: der Tag des Posaunenblasens soll es euch sein.
 ^2^Da sollt ihr als Brandopfer zu lieblichem Geruch für den HERRN darbringen: einen jungen Stier, einen Widder und sieben fehlerlose, einjährige Lämmer;
 ^3^dazu als zugehöriges Speisopfer von Feinmehl, das mit Öl gemengt ist: drei Zehntel Epha zu dem Stier, zwei Zehntel zu dem Widder
@@ -1620,7 +1620,7 @@ __29__
 
 ^39^»Diese Opfer sollt ihr an euren Festen für den HERRN herrichten, abgesehen von dem, was ihr infolge von Gelübden und als freiwillige Gaben sowohl an Brandopfern und Speisopfern als auch an Trankopfern und Heilsopfern darbringen werdet.«
 
-__30__
+ # 30
 ^1^Mose teilte dies alles den Israeliten genau so mit, wie der HERR es ihm geboten hatte.
 
 #### g) Vorschriften bezüglich der Verbindlichkeit bzw. Ungültigkeit von Gelübden (besonders von Gelübden weiblicher Personen)
@@ -1651,7 +1651,7 @@ __30__
 
 #### h) Rachekrieg der Israeliten gegen die Midianiter; Verteilung der Beute
 
-__31__
+ # 31
 ^1^Der HERR gebot hierauf dem Mose folgendes:
 ^2^»Nimm Rache für die Israeliten an den Midianitern! Danach sollst du zu deinen Volksgenossen versammelt werden.«
 ^3^Da befahl Mose dem Volke folgendes: »Rüstet aus eurer Mitte Männer zu einem Kriegszuge aus, sie sollen gegen die Midianiter ziehen, um die Rache des HERRN an den Midianitern zu vollstrecken.
@@ -1720,7 +1720,7 @@ __31__
 
 ##### aa) Die Bitte der Rubeniten und Gaditen von Mose in einer Strafrede zurückgewiesen
 
-__32__
+ # 32
 ^1^Die Stämme Ruben und Gad besaßen aber außerordentlich viel Vieh. Als sie sich nun die Landschaft Jaser und die Landschaft Gilead ansahen, erkannten sie, daß die Gegend zur Viehzucht geeignet war.
 ^2^So gingen denn die Stämme Gad und Ruben hin und sagten zu Mose und zu dem Priester Eleasar und zu den Häuptern<sup title="= Fürsten">&#x2732;</sup> der Gemeinde:
 ^3^»Ataroth, Dibon, Jaser, Nimra, Hesbon, Eleale, Sebam, Nebo und Beon,
@@ -1780,7 +1780,7 @@ __32__
 
 #### k) Verzeichnis der (vierzig) Lagerstätten, an denen die Israeliten in den vierzig Wüstenjahren geweilt haben
 
-__33__
+ # 33
 ^1^Folgendes sind die einzelnen Züge<sup title="oder: Wanderungen">&#x2732;</sup> der Israeliten, in denen sie aus Ägypten nach ihren Heerscharen unter der Führung Moses und Aarons ausgezogen sind.
 ^2^Mose hatte nämlich auf Befehl des HERRN die Orte aufgeschrieben, von denen ihre Auszüge erfolgt waren; und folgendes sind ihre Züge von einem Aufbruchsort zum andern:
 ^3^Sie brachen von Ramses am fünfzehnten Tage des ersten Monats auf; am Tage nach dem Passah zogen die Israeliten mit hoch erhobener Hand<sup title="vgl. 2.Mose 14,8">&#x2732;</sup> vor den Augen aller Ägypter aus,
@@ -1844,7 +1844,7 @@ __33__
 
 #### Festsetzung der Grenzen des in Besitz zu nehmenden Landes Kanaan
 
-__34__
+ # 34
 ^1^Weiter sagte der HERR zu Mose:
 ^2^»Folgende Verordnungen sollst du den Israeliten mitteilen: Wenn ihr in das Land Kanaan kommt, so soll dies das Gebiet sein, das euch als Erbbesitz zufällt: das Land Kanaan in seinem ganzen Umfang.
 ^3^Und zwar soll die Südseite sich euch von der Wüste Zin an, Edom entlang, hinziehen, so daß eure Südgrenze im Osten am (südlichen) Ende des Salzmeeres beginnt.
@@ -1881,7 +1881,7 @@ __34__
 
 #### m) Bestimmungen bezüglich der (42) Levitenstädte und der sechs für Totschläger bestimmten Freistädte
 
-__35__
+ # 35
 ^1^Weiter gebot der HERR dem Mose in den Steppen der Moabiter am Jordan, Jericho gegenüber, folgendes:
 ^2^»Befiehl den Israeliten, daß sie von ihrem Erbbesitz den Leviten Städte zum Wohnen geben; und zu den Städten sollt ihr auch eine Weidetrift rings um sie her den Leviten geben.
 ^3^Die Städte sollen ihnen dann als Wohnsitze dienen, während die zugehörigen Weidetriften für ihr Lastvieh und ihre Herden und für alle ihre übrigen Tiere bestimmt sind.
@@ -1925,7 +1925,7 @@ __35__
 
 #### n) Nachtrag zu dem Gesetz bezüglich der Erbtöchter
 
-__36__
+ # 36
 ^1^Die Familienhäupter des Geschlechts, das von Gilead, dem Sohne Machirs, dem Enkel Manasses, stammte und zu den von Joseph stammenden Geschlechtern gehörte, traten auf und trugen dem Mose und den Fürsten, den Stammeshäuptern der Israeliten,
 ^2^folgendes Anliegen vor: »Gott hat dir, o Herr, geboten, den Israeliten das Land durch das Los zum Erbbesitz zu geben; auch hast du, Herr, von Gott die Weisung erhalten, den Erbbesitz unseres Stammgenossen Zelophhad seinen Töchtern zu überweisen.
 ^3^Wenn diese sich nun aber mit einem Manne verheiraten, der zu einem andern Stamme der Israeliten gehört, so geht ihr Erbbesitz dem Erbbesitz unserer Väter verloren und wird zu dem Erbbesitz des Stammes geschlagen, dem sie (nach ihrer Verheiratung) angehören, während er dem Losteile unseres Erbbesitzes verlorengeht.

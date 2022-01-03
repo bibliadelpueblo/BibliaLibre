@@ -8,7 +8,7 @@ _(genannt Genesis, d.h. das Buch von der Schöpfung und dem Anfang)_
 
 #### a) Erstes Tagewerk: Die Urschöpfung und die Erschaffung des Lichts
 
-__1__
+# 1
 ^1^ Im Anfang schuf Gott den Himmel und die Erde;
 ^2^ die Erde war aber eine Wüstenei und Öde, und Finsternis lag über der weiten Flut<sup title="= dem Urmeer">&#x2732;</sup>, und der Geist Gottes schwebte (brütend) über der Wasserfläche.
 ^3^ Da sprach Gott: »Es werde Licht!«, und es ward Licht.
@@ -58,7 +58,7 @@ __1__
 
 #### g) Der siebte Tag als Ruhetag (Sabbat) von Gott gesegnet und geheiligt; Abschluß
 
-__2__
+# 2
 ^1^ So waren der Himmel und die Erde mit ihrem ganzen Heer vollendet.
 ^2^ Da brachte Gott am siebten Tage sein Werk, das er geschaffen hatte, zur Vollendung und ruhte am siebten Tage von aller seiner Arbeit, die er vollbracht hatte.
 ^3^ Und Gott segnete den siebten Tag und heiligte ihn; denn an ihm hat Gott von seinem ganzen Schöpfungswerk und seiner Arbeit geruht.
@@ -104,7 +104,7 @@ b Zur Zeit, als Gott der HERR Erde und Himmel schuf,
 
 #### a) Die Versuchung und die Sünde
 
-__3__
+# 3
 ^1^ Nun war die Schlange listiger als alle Tiere des Feldes, die Gott der HERR geschaffen hatte; die sagte zum Weibe: »Sollte Gott wirklich gesagt haben: ›Ihr dürft von allen Bäumen des Gartens nicht essen<sup title="d.h. also: von gar keinem Baum">&#x2732;</sup>!‹«
 ^2^ Da antwortete das Weib der Schlange: »Von den Früchten der Bäume im Garten dürfen wir essen;
 ^3^ nur von den Früchten des Baumes, der mitten im Garten steht, hat Gott gesagt: ›Ihr dürft von ihnen nicht essen, ja sie nicht einmal anrühren, sonst müßt ihr sterben!‹«
@@ -138,7 +138,7 @@ __3__
 
 ### 4. Adams Söhne Kain und Abel; der Brudermord; Kains Nachkommen (die Kainiten)
 
-__4__
+# 4
 ^1^ Eva gebar dann dem Adam, ihrem Gatten, einen Sohn Kain<sup title="d.h. Erwerb, Gewinn">&#x2732;</sup>. Da sagte sie: »Einen Mann<sup title="= männlichen Sproß">&#x2732;</sup> habe ich ins Dasein gerufen<sup title="eig. erworben, gewonnen">&#x2732;</sup> mit Hilfe des HERRN!«
 ^2^ Hierauf gebar sie nochmals, nämlich seinen Bruder Abel<sup title="d.h. Hauch, Vergänglichkeit">&#x2732;</sup>; und Abel wurde ein Hirt von Kleinvieh, Kain aber ein Ackerbauer.
 ^3^ Nun begab es sich nach Verlauf geraumer Zeit, daß Kain dem HERRN eine Opfergabe von den Früchten des Ackers darbrachte;
@@ -175,7 +175,7 @@ __4__
 ^25^ Dem Adam aber gebar sein Weib (Eva) nochmals einen Sohn, dem sie den Namen Seth<sup title="d.h. Setzling, Ersatz">&#x2732;</sup> gab; »denn«, sagte sie, »Gott hat mir einen andern Sproß<sup title="= Sohn">&#x2732;</sup> verliehen an Stelle Abels, weil Kain ihn erschlagen hat«.
 ^26^ Auch dem Seth wurde ein Sohn geboren, den er Enos<sup title="= Mensch, mit der Nebenbedeutung des Schwächlichen?">&#x2732;</sup> nannte. Damals fing man an, den Namen des HERRN<sup title="vgl. 2,4">&#x2732;</sup> anzurufen.
 
-__5__
+# 5
 ^1^ Dies ist die Geschlechtstafel<sup title="= das Verzeichnis der Nachkommen">&#x2732;</sup> Adams: Am Tage, als Gott den Adam<sup title="= den Menschen">&#x2732;</sup> schuf, gestaltete er ihn nach Gottes Ebenbild;
 ^2^ als Mann und Weib schuf er sie und segnete sie und gab ihnen den Namen »Mensch« damals, als sie geschaffen wurden.
 ^3^ Adam aber war 130 Jahre alt, als ihm ein Sohn geboren wurde, der ihm als sein Abbild glich und den er Seth nannte.
@@ -211,7 +211,7 @@ __5__
 
 ### 6. Die Ehen der Gottessöhne mit den Töchtern der Menschen
 
-__6__
+# 6
 ^1^ Als nun die Menschen sich auf der Oberfläche des Erdbodens zu vermehren begannen und ihnen auch Töchter geboren wurden
 ^2^ und die Gottessöhne die Schönheit der Menschentöchter sahen, nahmen sie sich von ihnen diejenigen zu Frauen, die ihnen besonders gefielen.
 ^3^ Da sagte der HERR: »Mein Geist soll nicht für immer im Menschen erniedrigt sein<sup title="?">&#x2732;</sup>, weil er ja Fleisch ist; so sollen denn seine Tage (fortan) nur noch hundertundzwanzig Jahre betragen!«
@@ -247,7 +247,7 @@ __6__
 
 ##### aa) Auf Befehl Gottes geht Noah mit den Seinen und den Tierpaaren in die Arche
 
-__7__
+# 7
 ^1^ Dann sagte der HERR zu Noah: »Gehe du mit deiner ganzen Familie in die Arche, denn dich habe ich als gerecht vor mir erfunden unter diesem Geschlecht.
 ^2^ Von allen reinen Tieren nimm je sieben Paare zu dir, immer ein Männchen und sein Weibchen, aber von den unreinen Tieren nur je zwei Stück, ein Männchen und sein Weibchen;
 ^3^ auch von den Vögeln des Himmels je sieben Paare, Männchen und Weibchen, damit Nachkommenschaft auf der ganzen Erde am Leben erhalten bleibt;
@@ -280,7 +280,7 @@ __7__
 
 #### d) Das Verrinnen und Ende der Sintflut; Noahs Auszug aus der Arche und sein Opfer; Gottes Verheißung
 
-__8__
+# 8
 ^1^ Da dachte Gott an Noah und an alle wilden Tiere und an all das Vieh, das bei ihm in der Arche war; und Gott ließ einen Wind über die Erde wehen, so daß die Wasser sanken;
 ^2^ die Quellen der Tiefe<sup title="= die Brunnen der Urflut; vgl. 7,11">&#x2732;</sup> und die Fenster des Himmels schlossen sich, und dem Regen vom Himmel her wurde Einhalt getan.
 ^3^ Da verlief sich das Wasser allmählich von der Erde und begann nach Ablauf der hundertundfünfzig Tage zu fallen;
@@ -312,7 +312,7 @@ __8__
 
 #### a) Erneuerung des Schöpfungssegens; Verbot des Blutgenusses und des Vergießens von Menschenblut
 
-__9__
+# 9
 ^1^ Dann segnete Gott Noah und seine Söhne mit folgenden Worten: »Seid fruchtbar und mehret euch und füllet die Erde.
 ^2^ Die Furcht und der Schrecken vor euch soll auf allem Getier der Erde liegen und auf allen Vögeln des Himmels! Alles, was sich auf dem Erdboden<sup title="oder: Lande">&#x2732;</sup> regt, auch alle Fische des Meeres: in eure Gewalt sind sie gegeben.
 ^3^ Alles, was sich regt und was da lebt, soll euch zur Nahrung dienen: wie (einstmals) die grünenden Pflanzen, so weise ich euch (jetzt) alles zu.
@@ -353,7 +353,7 @@ __9__
 
 ### 10. Die Völkertafel
 
-__10__
+# 10
 ^1^ Dies ist der Stammbaum der Noahsöhne, Sem, Ham und Japheth; Söhne wurden ihnen erst nach der Sintflut geboren.
 ^2^ Die Söhne Japheths<sup title="= die Japhethiten">&#x2732;</sup> waren: Gomer, Magog, Madai, Jawan, Thubal, Mesech und Thiras.
 ^3^ Die Söhne Gomers waren: Askenas, Riphath und Thogarma.
@@ -391,7 +391,7 @@ __10__
 
 ### 11. Der Turmbau zu Babel und die Sprachverwirrung
 
-__11__
+# 11
 ^1^ Es hatte aber die ganze Erdbevölkerung eine einzige Sprache und einerlei Worte.
 ^2^ Als sie nun nach Osten hin zogen, fanden sie eine Tiefebene im Lande Sinear<sup title="= Babylonien">&#x2732;</sup> und blieben dort wohnen.
 ^3^ Da sagten sie zueinander: »Auf! Wir wollen Ziegel<sup title="oder: Backsteine">&#x2732;</sup> streichen und sie im Feuer hart brennen!« So dienten ihnen denn die Ziegel als Bausteine, und das Erdharz<sup title="oder: der Asphalt">&#x2732;</sup> diente ihnen als Mörtel.
@@ -437,7 +437,7 @@ __11__
 
 #### a) Abrams Berufung und seine Einwanderung in Kanaan; sein Zug nach Ägypten
 
-__12__
+# 12
 ^1^ Der HERR sprach zu Abram: »Verlaß dein Land und deine Verwandtschaft und deines Vaters Haus (und ziehe) in das Land, das ich dir zeigen werde;
 ^2^ denn ich will ich zu einem großen Volke machen und will dich segnen und deinen Namen groß<sup title="= berühmt">&#x2732;</sup> machen, und du sollst ein Segen werden.
 ^3^ Ich will die segnen, die dich segnen, und wer dich verflucht, den will ich verfluchen; und in dir sollen alle Geschlechter der Erde gesegnet werden.«
@@ -468,7 +468,7 @@ __12__
 
 #### b) Abrams Rückkehr nach Südpalästina; Lot trennt sich von ihm
 
-__13__
+# 13
 ^1^ So zog denn Abram mit seiner Frau und mit all seinem Hab und Gut aus Ägypten wieder hinauf nach dem Südgau; auch Lot war bei ihm.
 ^2^ Abram war aber sehr reich an Herden, an Silber und Gold;
 ^3^ und er zog weiter von einem Lagerplatz zum andern aus dem Südgau bis nach Bethel, bis an die Stätte, wo sein Zelt anfangs gestanden hatte, zwischen Bethel und Ai,
@@ -501,7 +501,7 @@ __13__
 
 ##### aa) Kedorlaomers Rachezug nach dem Jordantal; sein Sieg im Tal Siddim
 
-__14__
+# 14
 ^1^ Es begab sich dann zur Zeit Amraphels, des Königs von Sinear, Ariochs, des Königs von Ellasar, Kedorlaomers, des Königs von Elam, und Thideals, des Königs von Gojim<sup title="d.h. des Königs der Völker oder: der Heiden?">&#x2732;</sup>:
 ^2^ die fingen Krieg an mit Bera, dem König von Sodom, und mit Birsa, dem König von Gomorrha, mit Sineab, dem König von Adma, mit Semheber, dem König von Zebojim, und mit dem König von Bela, das ist Zoar.
 ^3^ Alle diese kamen als Verbündete im Tale von Siddim zusammen, wo jetzt das Salzmeer liegt.
@@ -540,7 +540,7 @@ __14__
 
 ##### aa) Gottes Verheißung eines Leibeserben an Abram und Abrams Glaubensfestigkeit
 
-__15__
+# 15
 ^1^ Nach diesen Begebenheiten erging das Wort des HERRN an Abram in einem Gesicht also: »Fürchte dich nicht, Abram! Ich bin ja dein Schild; dein Lohn soll sehr groß sein.«
 ^2^ Abram aber antwortete: »Ach HERR, mein Gott, was könntest du mir geben? Ich gehe ja als kinderloser Mann dahin<sup title="= von hinnen">&#x2732;</sup>, und der Besitzer meines Vermögens wird (mein hausgeborener Knecht) Elieser von Damaskus sein.«
 ^3^ Dann fuhr Abram fort: »Ach, du hast mir ja keine Kinder gegeben [darum wird einer von den Knechten meines Hauses mein Erbe sein]!«
@@ -569,7 +569,7 @@ __15__
 
 #### e) Sarai gibt ihre Leibmagd Hagar dem Abram zum Weibe; Hagars Flucht und Rückkehr; Ismaels Geburt
 
-__16__
+# 16
 ^1^ Sarai, Abrams Frau, hatte ihm keine Kinder geboren; sie hatte aber eine ägyptische Leibmagd namens Hagar.
 ^2^ Da sagte Sarai zu Abram: »Du siehst, daß der HERR mir Kindersegen versagt hat. So gehe doch ein zu meiner Leibmagd: vielleicht komme ich durch sie zu Kindern.« Als Abram auf diesen Vorschlag seiner Frau einging,
 ^3^ nahm Sarai, Abrams Frau, ihre ägyptische Leibmagd Hagar und gab sie ihrem Manne Abram zum Weibe<sup title="= zur Nebenfrau">&#x2732;</sup>. – Abram hatte damals aber zehn Jahre lang im Lande Kanaan gewohnt. –
@@ -595,7 +595,7 @@ __16__
 
 ##### aa) Mitteilung der göttlichen Bundesverheißungen; Abram erhält den Namen Abraham
 
-__17__
+# 17
 ^1^ Als nun Abram neunundneunzig Jahre alt war, erschien ihm der HERR und sagte zu ihm: »Ich bin der allmächtige Gott: wandle vor mir und sei fromm!
 ^2^ Ich will einen Bund zwischen mir und dir stiften und dich überaus zahlreich werden lassen.«
 ^3^ Da warf sich Abram auf sein Angesicht nieder; Gott aber redete weiter mit ihm so:
@@ -635,7 +635,7 @@ __17__
 
 #### g) Besuch der drei Himmlischen bei Abraham (im Hain Mamres) zu Hebron; abermalige Gottesverheißung
 
-__18__
+# 18
 ^1^ Dann erschien ihm der HERR bei den Terebinthen Mamres, während er gerade um die Zeit der Mittagshitze am<sup title="oder: im">&#x2732;</sup> Eingang seines Zeltes saß.
 ^2^ Als er nämlich aufblickte und hinsah, standen plötzlich drei Männer vor ihm. Kaum hatte er sie erblickt, da eilte er ihnen vom Eingang seines Zeltes aus entgegen, verneigte sich vor ihnen bis auf den Boden
 ^3^ und sagte: »O Herr, wenn ich irgend Gnade in deinen Augen gefunden habe, so gehe doch nicht an deinem Knechte vorüber!
@@ -677,7 +677,7 @@ __18__
 
 #### i) Einkehr der beiden himmlischen Männer bei Lot; Sodoms Sittenlosigkeit und Untergang; Lots Rettung
 
-__19__
+# 19
 ^1^ Als nun die beiden Engel am Abend nach Sodom kamen, saß Lot gerade am<sup title="oder: im">&#x2732;</sup> Tor von Sodom. Sobald Lot sie erblickte, erhob er sich vor ihnen, verneigte sich mit dem Angesicht bis zur Erde
 ^2^ und sagte: »Bitte, meine Herren! Kehrt doch im Hause eures Knechtes ein, um dort zu übernachten, und wascht euch die Füße; morgen früh mögt ihr euch dann wieder aufmachen und eures Weges ziehen.« Sie aber antworteten: »Nein, wir wollen hier im Freien<sup title="oder: auf der Straße">&#x2732;</sup> übernachten.«
 ^3^ Da nötigte er sie dringend, bis sie bei ihm einkehrten und in sein Haus eintraten. Dann bereitete er ihnen ein Mahl und ließ ungesäuerte Kuchen backen, die sie aßen.
@@ -727,7 +727,7 @@ __19__
 
 #### l) Abraham bei Abimelech in Gerar; Gefährdung und Bewahrung der Ehre Saras
 
-__20__
+# 20
 ^1^ Abraham brach dann von dort<sup title="d.h. von Hebron">&#x2732;</sup> auf (und zog) in den Südgau, wo er seinen Wohnsitz zwischen Kades und Sur nahm. Er hielt sich aber zeitweise als Fremdling auch in Gerar auf
 ^2^ und gab dort seine Frau Sara für seine Schwester aus. Da sandte Abimelech, der König von Gerar, hin und ließ Sara zu sich holen.
 ^3^ Aber in der Nacht kam Gott zu Abimelech im Traum und sagte zu ihm: »Jetzt bist du des Todes wegen der Frau, die du dir hast holen lassen: sie ist ja eines Mannes Ehefrau!«
@@ -751,7 +751,7 @@ __20__
 
 #### m) Isaaks Geburt, Beschneidung, Entwöhnungsfeier und erste Jugend; Verstoßung Hagars und Ismaels
 
-__21__
+# 21
 ^1^ Der HERR suchte dann Sara gnädig heim, wie er verheißen hatte, und tat an ihr, wie er zugesagt hatte:
 ^2^ Sara wurde guter Hoffnung und gebar dem Abraham in seinem Greisenalter einen Sohn zu der Zeit, die Gott ihm im voraus angegeben hatte.
 ^3^ Abraham gab dann seinem Sohne, der ihm geboren worden war, den Sara ihm geboren hatte, den Namen Isaak<sup title="vgl. 17,19">&#x2732;</sup>
@@ -798,7 +798,7 @@ __21__
 
 ##### aa) Gottes Befehl zur Opferung Isaaks
 
-__22__
+# 22
 ^1^ Nach diesen Begebenheiten wollte Gott den Abraham auf die Probe stellen<sup title="= prüfen">&#x2732;</sup> und sagte zu ihm: »Abraham!« Dieser antwortete: »Hier bin ich!«
 ^2^ Da sagte Gott: »Nimm Isaak, deinen Sohn, deinen einzigen, den du liebhast, und begib dich (mit ihm) in die Landschaft Morija und bringe ihn dort als Brandopfer dar auf einem der Berge, den ich dir angeben werde!«
 
@@ -838,7 +838,7 @@ __22__
 
 #### q) Saras Tod und Betrauerung; Abrahams Verhandlung mit den Hethitern zur Erwerbung eines Erbbegräbnisses bei Hebron; Saras Bestattung
 
-__23__
+# 23
 ^1^ Als Sara nun ihr Leben auf hundertundsiebenundzwanzig Jahre gebracht hatte,
 ^2^ starb sie in Kirjath-Arba, das ist Hebron, im Lande Kanaan. Da ging Abraham hinein, um Sara zu beklagen und zu beweinen.
 ^3^ Hierauf stand Abraham von der Seite seiner Verstorbenen auf und verhandelte mit den Hethitern so:
@@ -864,7 +864,7 @@ __23__
 
 ##### aa) Abrahams Auftrag an seinen Knecht zur Brautfahrt nach Haran
 
-__24__
+# 24
 ^1^ Als nun Abraham alt und hochbetagt geworden war und der HERR ihn in allem gesegnet hatte,
 ^2^ sagte Abraham zu dem ältesten Knechte seines Hauses, der seinen gesamten Besitz zu verwalten hatte: »Lege deine Hand unter meine Hüfte:
 ^3^ ich will dir beim HERRN, dem Gott des Himmels und dem Gott der Erde, einen Eid abnehmen, daß du für meinen Sohn keine Frau aus den Töchtern der Kanaanäer nehmen willst, unter denen ich hier wohne;
@@ -952,7 +952,7 @@ __24__
 
 #### s) Abrahams zweite Ehe und letzte Taten; sein Tod und Begräbnis
 
-__25__
+# 25
 ^1^ Abraham aber nahm nochmals eine Frau namens Ketura;
 ^2^ die gebar ihm Simran und Joksan, Medan und Midian, Jisbak und Suah.
 ^3^ Joksan wurde dann der Vater Sebas und Dedans; und die Söhne Dedans waren die Assuriter und Letusiter und die Leummiter.
@@ -1004,7 +1004,7 @@ __25__
 
 ##### aa) Isaak zieht bei einer Hungersnot unter göttlicher Segensverheißung nach Gerar
 
-__26__
+# 26
 ^1^ Es kam aber eine Hungersnot über das Land, wie schon früher einmal eine zur Zeit Abrahams geherrscht hatte; darum begab sich Isaak nach Gerar zu dem Philisterkönig Abimelech<sup title="vgl. 20,2">&#x2732;</sup>.
 ^2^ Denn der HERR war ihm erschienen und hatte zu ihm gesagt: »Ziehe nicht nach Ägypten hinab, sondern nimm deinen Wohnsitz in dem Lande, das ich dir angeben werde!
 ^3^ Bleibe als Fremdling in diesem Lande wohnen; ich will mit dir sein und dich segnen; denn dir und deinen Nachkommen will ich alle diese Länder geben und so den Eid erfüllen, den ich deinem Vater Abraham geschworen habe:
@@ -1060,7 +1060,7 @@ __26__
 
 ##### aa) Isaak bereitet sich zum Segnen Esaus vor
 
-__27__
+# 27
 ^1^ Als aber Isaak alt geworden und sein Augenlicht erloschen war, so daß er nicht mehr sehen konnte, berief er seinen älteren Sohn Esau und sagte zu ihm: »Mein Sohn!« Er antwortete ihm: »Hier bin ich!«
 ^2^ Jener fuhr fort: »Du siehst, ich bin alt geworden und weiß nicht, wie bald ich sterben werde.
 ^3^ So nimm nun doch deine Jagdgeräte, deinen Köcher und Bogen, und gehe aufs Feld hinaus und erjage ein Stück Wild für mich;
@@ -1127,7 +1127,7 @@ __27__
 
 ##### aa) Jakob begibt sich, von seinem Vater gesegnet, auf die Wanderung
 
-__28__
+# 28
 ^1^ Da ließ Isaak den Jakob rufen, segnete ihn und gebot ihm: »Du darfst dir keine Frau aus den Töchtern der Kanaanäer nehmen.
 ^2^ Mache dich auf, gehe nach Nord-Mesopotamien zum Hause Bethuels, des Vaters deiner Mutter, und hole dir von dort eine Frau, eine von den Töchtern Labans, des Bruders deiner Mutter!
 ^3^ Der allmächtige Gott aber segne dich, er mache dich fruchtbar und lasse dich zahlreich werden, so daß du zu einem Haufen<sup title="= einer Menge">&#x2732;</sup> von Völkern wirst!
@@ -1164,7 +1164,7 @@ __28__
 
 ##### aa) Jakob am Brunnen zu Haran; sein Gespräch mit den Hirten
 
-__29__
+# 29
 ^1^ Hierauf setzte Jakob seine Wanderung fort und gelangte in das Land, das gegen Osten lag.
 ^2^ Als er sich dort umsah, gewahrte er auf dem Felde einen Brunnen, an dem gerade drei Herden Kleinvieh lagerten; denn aus diesem Brunnen pflegte man die Herden zu tränken; über der Öffnung des Brunnens aber lag ein großer Stein.
 ^3^ Diesen wälzte man erst dann, wenn alle Herden dort zusammengetrieben waren, von der Brunnenöffnung ab und tränkte das Kleinvieh; darauf legte man den Stein wieder zurück an seinen Platz über der Öffnung des Brunnens.
@@ -1216,7 +1216,7 @@ Als Jakob nun einen Monat lang bei Laban geblieben war,
 
 ##### bb) Die zwei Söhne der Bilha, der Leibmagd Rahels
 
-__30__
+# 30
 ^1^ Als nun Rahel sah, daß sie dem Jakob keine Kinder gebar, wurde sie auf ihre Schwester neidisch<sup title="oder: eifersüchtig">&#x2732;</sup> und sagte zu Jakob: »Schaffe mir Kinder, oder ich sterbe!«
 ^2^ Da geriet Jakob in Zorn gegen Rahel und sagte: »Stehe ich etwa an Gottes Statt, der dir Kindersegen versagt hat?«
 ^3^ Da erwiderte sie: »Hier hast du meine Leibmagd Bilha; gehe zu ihr ein, damit sie auf meinen Knien<sup title="oder: auf meinem Schoß">&#x2732;</sup> gebiert und auch ich durch sie zu Kindern komme!«
@@ -1281,7 +1281,7 @@ __30__
 
 ##### aa) Die Anlässe zu Jakobs Flucht
 
-__31__
+# 31
 ^1^ Da erhielt Jakob Kunde von den Äußerungen der Söhne Labans, die da sagten: »Jakob hat das ganze Hab und Gut unsers Vaters an sich gebracht und seinen ganzen jetzigen Reichtum aus dem Besitz unsers Vaters gewonnen.«
 ^2^ Zugleich merkte Jakob an Labans Gesichtsausdruck wohl, daß er gegen ihn nicht mehr so gesinnt war wie früher.
 ^3^ Da sagte der HERR zu Jakob: »Kehre in das Land deiner Väter und zu deiner Verwandtschaft zurück; ich will mit dir sein!«
@@ -1354,7 +1354,7 @@ __31__
 
 ##### gg) Labans Abschiednahme
 
-__32__
+# 32
 ^1^ Am andern Morgen aber in der Frühe küßte Laban seine Enkel und seine Töchter und nahm Abschied von ihnen; dann brach er auf und kehrte an seinen Wohnort zurück.
 
 #### e) Jakobs Botschaft an Esau; seine Verzagtheit, sein Gebet und Gottes nächtliches Ringen mit ihm
@@ -1410,7 +1410,7 @@ __32__
 
 ##### aa) Jakobs Demut und Esaus Herzlichkeit
 
-__33__
+# 33
 ^1^ Als nun Jakob aufblickte und seinen Bruder Esau mit vierhundert Mann herankommen sah, verteilte er die Kinder auf Lea, auf Rahel und auf die beiden Leibmägde,
 ^2^ und zwar stellte er die Leibmägde mit ihren Kindern vornan, dann Lea mit ihren Kindern hinter sie und Rahel mit Joseph zuletzt.
 ^3^ Er selbst aber ging vor ihnen her und verneigte sich siebenmal bis zur Erde, bis er nahe an seinen Bruder herangekommen war.
@@ -1442,7 +1442,7 @@ __33__
 
 ##### aa) Sichems Vergehen an Dina und sein darauffolgendes ehrenwertes Verhalten
 
-__34__
+# 34
 ^1^ Als Dina, die Tochter Jakobs, welche Lea ihm geboren hatte, einst ausging, um sich unter den Mädchen des Landes umzusehen,
 ^2^ da sah Sichem sie, der Sohn des Hewiters Hemor, des Landesfürsten; der ergriff sie und tat ihr Gewalt an.
 ^3^ Sein Herz hing aber an Dina, der Tochter Jakobs; er gewann das Mädchen lieb und redete ihr freundlich zu.
@@ -1491,7 +1491,7 @@ __34__
 
 ##### aa) Auf Gottes Mahnung bricht Jakob von Sichem auf
 
-__35__
+# 35
 ^1^ Da gebot Gott dem Jakob: »Mache dich auf, ziehe nach Bethel hinauf, nimm dort deinen Wohnsitz und errichte dort einen Altar für den Gott, der dir erschienen ist, als du vor deinem Bruder Esau flohst!«
 ^2^ Da befahl Jakob seiner Familie und allen anderen, die bei ihm waren: »Schafft die fremden Götter weg, die ihr bei euch habt, reinigt euch und legt andere Kleider an!
 ^3^ Wir wollen aufbrechen und nach Bethel hinaufziehen: dort will ich einen Altar errichten dem Gott, der mich zur Zeit meiner Not erhört hat und auf dem Wege, den ich gezogen bin, mit mir gewesen ist.«
@@ -1541,7 +1541,7 @@ Jakob hatte aber zwölf Söhne.
 
 ##### aa) Esaus Familie und Wohnsitz
 
-__36__
+# 36
 ^1^ Dies sind die Nachkommen Esaus, das ist Edoms<sup title="vgl. 25,30">&#x2732;</sup>.
 ^2^ Esau hatte seine Frauen aus den Kanaanäerinnen genommen, nämlich Ada, die Tochter des Hethiters Elon, und Oholibama, die Tochter Anas, die Enkelin des Hewiters Zibeon<sup title="26,34">&#x2732;</sup>,
 ^3^ und Basmath, die Tochter Ismaels, die Schwester Nebajoths<sup title="28,9">&#x2732;</sup>.
@@ -1605,7 +1605,7 @@ __36__
 
 ##### aa) Die Anfänge der Feindschaft der Brüder gegen Joseph
 
-__37__
+# 37
 ^1^ Jakob aber blieb in dem Lande wohnen, in dem sich sein Vater als Fremdling aufgehalten hatte, im Lande Kanaan.
 ^2^ Dies ist die Geschichte Jakobs: Als Joseph siebzehn Jahre alt war, hütete er das Kleinvieh mit seinen Brüdern, und zwar war er als junger Bursche bei den Söhnen der Bilha und Silpa, der Frauen seines Vaters, und was man diesen<sup title="d.h. seinen Brüdern">&#x2732;</sup> Übles nachsagte, hinterbrachte er ihrem Vater.
 ^3^ Israel hatte aber Joseph lieber als alle seine anderen Söhne, weil er ihm in seinem Alter geboren war; und so ließ er ihm ein langes Ärmelkleid machen.
@@ -1662,7 +1662,7 @@ __37__
 
 ##### aa) Judas Wegzug von seinen Brüdern und seine mehrfachen Versündigungen; sein und seiner Söhne Verhalten gegen Thamar
 
-__38__
+# 38
 ^1^ Um diese Zeit begab es sich, daß Juda sich von seinen Brüdern trennte und sich an einen Mann aus Adullam namens Hira anschloß.
 ^2^ Dort sah Juda die Tochter eines Kanaanäers namens Sua; die nahm er zur Frau und lebte mit ihr.
 ^3^ Sie wurde guter Hoffnung und gebar einen Sohn, den er Ger nannte.
@@ -1707,7 +1707,7 @@ __38__
 
 ##### aa) Joseph steigt bei dem vornehmen Ägypter zu hoher Dienststellung empor
 
-__39__
+# 39
 ^1^ Als aber Joseph nach Ägypten gebracht worden war, kaufte ihn Potiphar, ein Ägypter, ein Hofbeamter des Pharaos, der Oberste der Leibwächter<sup title="vgl. 37,36">&#x2732;</sup>, von den Ismaelitern, die ihn dorthin gebracht hatten.
 ^2^ Gott der HERR aber war mit Joseph, so daß ihm alles gelang, während er im Hause seines Herrn, des Ägypters, war.
 ^3^ Weil nun sein Herr sah, daß Gott mit ihm war und daß Gott alles, was er vornahm, ihm gelingen ließ,
@@ -1744,7 +1744,7 @@ Joseph war aber schön von Gestalt und schön von Angesicht.
 
 ##### aa) Einkerkerung des königlichen Mundschenken und des Hofbäckers des Pharaos
 
-__40__
+# 40
 ^1^ Nun begab es sich einige Zeit danach, daß der Mundschenk und der Bäcker des Königs von Ägypten sich gegen ihren Herrn, den König von Ägypten, verfehlten.
 ^2^ Da geriet der Pharao über seine beiden Hofbeamten, den Obermundschenken und den Oberbäcker, in Zorn,
 ^3^ und er ließ sie im Hause des Obersten der Leibwächter<sup title="vgl. 37,36">&#x2732;</sup> in Haft legen, ins Gefängnis, an den Ort, wo auch Joseph gefangen lag.
@@ -1785,7 +1785,7 @@ __40__
 
 ##### aa) Die beiden Träume des Pharaos sind für die ägyptischen Traumdeuter unlösbar
 
-__41__
+# 41
 ^1^ Nun begab es sich nach Verlauf von zwei vollen Jahren, daß der Pharao einen Traum hatte: ihm war es, er stehe am Nil.
 ^2^ Da sah er aus dem Strom sieben schöne, wohlgenährte Kühe heraufsteigen und im Riedgras weiden.
 ^3^ Dann sah er nach diesen sieben andere Kühe aus dem Strom heraufsteigen, die sahen häßlich aus und waren mager am Fleisch und traten neben die anderen Kühe am Ufer des Stromes;
@@ -1868,7 +1868,7 @@ __41__
 
 ##### aa) Die zehn älteren Söhne Jakobs ziehen nach Ägypten zum Getreideeinkauf
 
-__42__
+# 42
 ^1^ Als nun Jakob erfuhr, daß in Ägypten Getreide zu haben sei, sagte er zu seinen Söhnen: »Was seht ihr euch lange an?«
 ^2^ Dann fuhr er fort: »Wisset wohl: ich habe gehört, daß in Ägypten Getreide zu haben ist; zieht hinab und kauft uns dort Getreide, damit wir zu leben haben und nicht verhungern!«
 ^3^ So machten sich denn zehn von den Brüdern Josephs auf den Weg, um Getreide in Ägypten zu kaufen;
@@ -1922,7 +1922,7 @@ __42__
 
 ##### aa) Die Reise wird von Jakob erst dann gebilligt, nachdem Juda sich für Benjamin verbürgt hat
 
-__43__
+# 43
 ^1^ Die Hungersnot lag aber schwer auf dem Lande.
 ^2^ Als nun das Getreide, das sie aus Ägypten geholt hatten, vollständig aufgezehrt war, sagte ihr Vater zu ihnen: »Zieht noch einmal hin und kauft uns etwas Getreide zur Nahrung!«
 ^3^ Da antwortete ihm Juda: »Der Mann hat uns eindringlich gewarnt mit den Worten: ›Ihr dürft mir nicht mehr vor die Augen treten, wenn euer Bruder nicht bei euch ist!‹
@@ -1968,7 +1968,7 @@ __43__
 
 ##### aa) Die Brüder machen sich auf den Heimweg; Josephs Becher wird in Benjamins Getreidesack gefunden
 
-__44__
+# 44
 ^1^ Hierauf befahl er (Joseph) seinem Hausverwalter: »Fülle den Männern ihre Säcke mit Getreide, soviel sie fortschaffen können, und lege einem jeden sein Geld (wieder) oben in seinen Sack!
 ^2^ Meinen Becher aber, den silbernen Becher, sollst du dem Jüngsten oben in seinen Sack legen samt dem Gelde für sein Getreide!« Jener tat nach dem von Joseph ihm erteilten Befehl.
 ^3^ Am andern Morgen, als es hell wurde, ließ man die Männer mit ihren Eseln ziehen.
@@ -2010,7 +2010,7 @@ __44__
 
 #### s) Joseph gibt sich seinen Brüdern zu erkennen; Rückkehr der Brüder
 
-__45__
+# 45
 ^1^ Da vermochte Joseph nicht länger an sich zu halten vor allen, die um ihn her standen, sondern er rief aus: »Laßt jedermann von mir weg hinausgehen!« So war denn niemand zugegen, als Joseph sich seinen Brüdern zu erkennen gab.
 ^2^ Er brach aber in ein so lautes Weinen aus, daß die Ägypter es hörten und auch das Haus des Pharaos Kunde davon erhielt.
 ^3^ Joseph sagte aber zu seinen Brüdern: »Ich bin Joseph! Lebt mein Vater noch?« Seine Brüder vermochten aber nicht, ihm zu antworten: so bestürzt standen sie vor ihm.
@@ -2056,7 +2056,7 @@ __45__
 
 ##### aa) Gott billigt Jakobs Übersiedelung in einer Offenbarung zu Beerseba
 
-__46__
+# 46
 ^1^ So brach denn Israel mit allen seinen Angehörigen auf, und als er nach Beerseba gekommen war, brachte er dort dem Gott seines Vaters Isaak Schlachtopfer dar.
 ^2^ Da redete Gott mit Israel nachts in einem Gesicht und sagte: »Jakob, Jakob!« Er antwortete: »Hier bin ich!«
 ^3^ Darauf sagte Gott: »Ich bin Gott, der Gott deines Vaters! Fürchte dich nicht, nach Ägypten hinabzuziehen; denn ich will dich dort zu einem großen Volk machen.
@@ -2102,7 +2102,7 @@ __46__
 
 ##### aa) Der Pharao sagt fünf Söhnen Jakobs bei einer Vorstellung die Ansiedlung in Gosen zu
 
-__47__
+# 47
 ^1^ So ging denn Joseph hin und erstattete dem Pharao Bericht mit den Worten: »Mein Vater und meine Brüder sind mit ihrem Kleinvieh, ihren Rindern und ihrem gesamten Besitz aus dem Lande Kanaan angekommen und befinden sich jetzt im Lande Gosen.«
 ^2^ Er hatte aber aus der Gesamtzahl seiner Brüder fünf Männer mitgebracht, die er dem Pharao vorstellte.
 ^3^ Als nun der Pharao die Brüder Josephs fragte: »Was ist euer Gewerbe?«, antworteten sie dem Pharao: »Deine Knechte sind Hirten von Kleinvieh, wir wie auch schon unsere Väter.«
@@ -2147,7 +2147,7 @@ __47__
 
 #### v) Jakob nimmt die beiden Söhne Josephs an Kindes Statt an
 
-__48__
+# 48
 ^1^ Nach diesen Begebenheiten meldete man dem Joseph: »Wisse, dein Vater ist erkrankt«; da nahm er seine beiden Söhne Manasse und Ephraim mit sich.
 ^2^ Als man nun dem Jakob mitteilte: »Dein Sohn Joseph kommt zu dir«, da machte Israel sich stark, setzte sich im Bett aufrecht hin
 ^3^ und sagte dann zu Joseph: »Der allmächtige Gott ist mir einst zu Lus<sup title="= Bethel; vgl. 28,19">&#x2732;</sup> im Lande Kanaan erschienen und hat mich gesegnet
@@ -2179,7 +2179,7 @@ __48__
 
 #### w) Jakobs Weissagungssprüche über seine Söhne
 
-__49__
+# 49
 ^1^ Dann berief Jakob seine Söhne und sagte: »Versammelt euch, damit ich euch das verkünde, was euch in künftigen Tagen widerfahren wird!
 ^2^ Schart euch zusammen und hört zu, ihr Söhne Jakobs, ja, hört euren Vater Israel an!
 
@@ -2233,7 +2233,7 @@ __49__
 
 ##### aa) Jakobs Einbalsamierung und feierliche Überführung nach dem Erbbegräbnis in Hebron
 
-__50__
+# 50
 ^1^ Da warf sich Joseph über seinen Vater hin, weinte über ihn gebeugt und küßte ihn.
 ^2^ Hierauf befahl Joseph den Ärzten, die in seinem Dienst standen, seinen Vater einzubalsamieren; da balsamierten die Ärzte Israel ein.
 ^3^ Darüber vergingen vierzig Tage; denn so lange Zeit ist zum Einbalsamieren erforderlich; und die Ägypter trauerten siebzig Tage lang um ihn.

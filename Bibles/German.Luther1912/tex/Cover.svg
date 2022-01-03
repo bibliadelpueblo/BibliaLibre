@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg4237"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Cover.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Cover.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4231">
     <filter
@@ -54,7 +54,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Greyscale"
-       id="filter5853">
+       id="filter5853"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="4.80208 0 0 -0.951832 -1.90104 0 4.80208 0 -0.951832 -1.90104 0 0 4.80208 -0.951832 -1.90104 0 0 0 1 0"
          id="feColorMatrix5851"
@@ -82,7 +86,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter5669">
+       id="filter5669"
+       x="-0.013280616"
+       y="-0.042341857"
+       width="1.0454677"
+       height="1.1456971">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -152,16 +160,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="40"
-     inkscape:cy="560"
+     inkscape:cx="38.571429"
+     inkscape:cy="561.42857"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata4234">
     <rdf:RDF>
@@ -170,7 +179,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,17 +190,18 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5923"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,34.003151,29.522009)"><flowRegion
          id="flowRegion5925"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold'"><rect
            id="rect5927"
            width="511.13718"
            height="200.01021"
            x="60.609154"
            y="132.71925"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';" /></flowRegion><flowPara
-         id="flowPara5929">La Biblia</flowPara></flowRoot>    <g
+         id="flowPara5929">Die Bibel</flowPara></flowRoot>
+    <g
        id="g526"
        transform="matrix(0.3664336,0,0,0.3664336,70.447865,182.31662)">
       <image
@@ -206,25 +216,25 @@
          transform="matrix(0.26458333,0,0,0.26458333,-50.097726,141.42788)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.49617767px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5669)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.4962px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5669)"
          x="402.12946"
          y="87.801598"
          id="text4410"
          transform="matrix(0.26458333,0,0,0.26458333,-50.097726,141.42788)"><tspan
-           sodipodi:role="line"
-           id="tspan4408"
-           x="402.12946"
-           y="87.801598"
-           style="font-size:65.49617767px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Reina-Valera</tspan><tspan
            id="tspan476"
            sodipodi:role="line"
            x="402.12946"
-           y="169.67181"
-           style="font-size:65.49617767px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">del Pueblo</tspan></text>
+           y="87.801598"
+           style="font-size:65.4962px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Luther </tspan><tspan
+           sodipodi:role="line"
+           x="402.12946"
+           y="169.67184"
+           style="font-size:65.4962px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           id="tspan34683">fürs Volk</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="56.920921"
        y="106.86591"
        id="text6007"><tspan
@@ -232,6 +242,6 @@
          id="tspan6005"
          x="56.920921"
          y="106.86591"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';stroke-width:0.26458332;">del Oso Pinolero</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Day Roman';-inkscape-font-specification:'Day Roman, Bold';stroke-width:0.264583" /></text>
   </g>
 </svg>

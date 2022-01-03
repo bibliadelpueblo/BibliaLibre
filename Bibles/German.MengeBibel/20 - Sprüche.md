@@ -4,7 +4,7 @@
 
 ### 1. Überschrift; Angabe des Zweckes der Schrift; Leitspruch des Buches (V.7)
 
-__1__
+ # 1
 ^1^(Dies sind) die Sprüche Salomos, des Sohnes Davids, des Königs von Israel:
 ^2^damit man Weisheit und Zucht<sup title="= Gesittung">&#x2732;</sup> lernt, Verständnis gewinnt für verständige Reden,
 ^3^damit man Zucht erlangt<sup title="oder: Bildung annimmt">&#x2732;</sup>, welche Besonnenheit verleiht, Gerechtigkeit, Sittlichkeit und Ehrenhaftigkeit,
@@ -48,7 +48,7 @@ __1__
 
 ### 4. Die Segnungen des eifrigen Trachtens nach Weisheit
 
-__2__
+ # 2
 ^1^Mein Sohn, wenn du meine Lehren annimmst und meine Weisungen bei dir verwahrst,
 ^2^indem du dein Ohr auf Weisheit lauschen läßt und dein Herz der Einsicht zuwendest,
 ^3^ja, wenn du nach der Verständigkeit rufst und deine Stimme laut nach der Einsicht erschallen läßt,
@@ -76,7 +76,7 @@ __2__
 
 #### a) Mahnungen zur Gottesfurcht und zu sittlichem Verhalten mit Hinweis auf den zu erwartenden Lohn
 
-__3__
+ # 3
 ^1^Mein Sohn, vergiß meine Belehrung nicht und laß dein Herz meine Weisungen bewahren;
 ^2^denn langes Leben und Jahre des Glücks und Wohlergehen werden sie dir in Fülle bringen. –
 ^3^Liebe und Treue dürfen dich nicht verlassen: binde sie dir um den Hals, schreibe sie auf die Tafel deines Herzens,
@@ -121,7 +121,7 @@ __3__
 
 ### 6. Väterliche Ermahnung, nach der Weisheit zu streben und ihre Lehren zu befolgen
 
-__4__
+ # 4
 ^1^Hört, ihr Kinder, die väterliche Unterweisung und merkt wohl auf, um Einsicht zu lernen!
 ^2^Denn treffliche Lehre gebe ich euch: laßt meine Weisungen nicht unbeachtet!
 ^3^Denn als ich noch als Sohn bei meinem Vater war, als zartes und einziges Kind unter der Obhut meiner Mutter,
@@ -154,7 +154,7 @@ __4__
 
 ### 7. Warnung vor dem Verkehr mit Ehebrecherinnen; Lob des ehelichen Lebens
 
-__5__
+ # 5
 ^1^Mein Sohn, merke auf meine Weisheit und leihe meiner Einsicht dein Ohr,
 ^2^um Besonnenheit zu beobachten und damit deine Lippen Erkenntnis bewahren.
 ^3^Denn von Honigseim triefen die Lippen der fremden Frau<sup title="vgl. 2,16">&#x2732;</sup>, und glätter als Öl ist ihr Gaumen<sup title="= Mund">&#x2732;</sup>;
@@ -183,7 +183,7 @@ __5__
 
 ### 8. Warnungen vor Bürgschaftsleistung, Trägheit, Falschheit und allem gottverhaßten Wesen
 
-__6__
+ # 6
 ^1^Mein Sohn, hast du dich für deinen Nächsten verbürgt, für einen andern dich durch Handschlag verpflichtet,
 ^2^bist du durch ein mündliches Versprechen gebunden und hast du dich durch eine Zusage verstricken lassen,
 ^3^so tu doch ja dies, mein Sohn, damit du wieder frei wirst – denn du bist in die Gewalt deines Nächsten gefallen –: Gehe hin, wirf dich vor ihm nieder und bestürme deinen Nächsten mit Bitten!
@@ -228,7 +228,7 @@ __6__
 
 #### Schilderung der Verführung zu ehebrecherischer Unzucht; Warnung vor ihren schlimmen Folgen
 
-__7__
+ # 7
 ^1^Mein Sohn, bewahre meine Warnungen und halte meine Gebote im Gedächtnis fest!
 ^2^Bewahre meine Gebote, so wirst du leben, und hüte meine Lehren wie deinen Augapfel!
 ^3^Binde sie dir um die Finger, schreibe sie dir auf die Tafel deines Herzens!
@@ -261,7 +261,7 @@ __7__
 
 ### 10. Einladung und Selbstempfehlung der Weisheit als Lehrmeisterin
 
-__8__
+ # 8
 ^1^Horch! Die Weisheit ruft vernehmlich, und die Einsicht läßt ihre Stimme erschallen!
 ^2^Oben auf den Höhen am Wege, da wo die Pfade zusammenlaufen<sup title="= am Scheideweg">&#x2732;</sup>, hat sie sich aufgestellt;
 ^3^neben den Toren, am Ausgang der Stadt, am Eingang der Pforten ruft sie laut:
@@ -308,7 +308,7 @@ __8__
 
 ### 11. Frau Weisheit und Frau Torheit laden zu Gast
 
-__9__
+ # 9
 ^1^Die Weisheit hat sich ihr Haus gebaut, hat ihre sieben Säulen<sup title="= Tragpfeiler">&#x2732;</sup> aufgerichtet;
 ^2^sie hat ihr Schlachtvieh geschlachtet, ihren Wein gemischt, auch ihre Tafel zugerüstet;
 ^3^sie hat ihre Mägde ausgesandt und läßt oben auf den höchsten Punkten der Stadt die Einladung ergehen:
@@ -333,7 +333,7 @@ __9__
 
 ## II. Zweite Sammlung von 375 (meist einzelnen) Sprüchen Salomos (10,1-22,16)
 
-__10__
+ # 10
 ^1^Die Sprüche Salomos. Ein weiser Sohn macht seinem Vater Freude, aber ein törichter Sohn ist seiner Mutter Kummer. –
 ^2^Ungerecht erworbene Schätze bringen keinen Segen, aber Gerechtigkeit<sup title="oder: Wohltätigkeit">&#x2732;</sup> errettet vom Tode. –
 ^3^Den Hunger des Frommen läßt der HERR nicht ungestillt, aber die Gier der Gottlosen stößt er zurück. –
@@ -367,7 +367,7 @@ __10__
 ^31^Der Mund des Gerechten läßt Weisheit sprießen, aber die falsche Zunge wird ausgerottet<sup title="oder: verfällt dem Untergang">&#x2732;</sup>. –
 ^32^Die Lippen des Gerechten verstehen sich auf das, was wohlgefällig ist, aber der Mund der Gottlosen nur auf Verkehrtes.
 
-__11__
+ # 11
 ^1^Falsche Waage ist dem HERRN ein Greuel, aber volles Gewicht ist ihm wohlgefällig. –
 ^2^Kommt Übermut, so kommt auch Schande; bei den Bescheidenen<sup title="oder: Demütigen">&#x2732;</sup> aber ist Weisheit. –
 ^3^Die Redlichen leitet ihre Unschuld (sicher), die Treulosen aber richtet ihre Falschheit zugrunde. –
@@ -400,7 +400,7 @@ __11__
 ^30^Die Frucht des Rechttuns ist ein Baum des Lebens, aber Gewalttätigkeit nimmt das Leben. –
 ^31^Siehe, der Gerechte erhält schon auf Erden seinen Lohn: wieviel mehr der Gottlose und der Sünder!
 
-__12__
+ # 12
 ^1^Wer Zurechtweisung liebt<sup title="= willig hinnimmt">&#x2732;</sup>, liebt Erkenntnis; wer aber die Rüge haßt, ist ein Dummkopf. –
 ^2^Der Gute<sup title="oder: Gütige">&#x2732;</sup> erlangt Wohlgefallen beim HERRN, aber einen tückischen Menschen verdammt er. –
 ^3^Keiner gelangt durch Gottlosigkeit zu festem Bestand, aber die Wurzel der Frommen bleibt unerschüttert. –
@@ -430,7 +430,7 @@ __12__
 ^27^Nicht erjagt der Lässige sein Wild<sup title="?">&#x2732;</sup>, aber einem fleißigen Menschen wird wertvolles Gut zuteil. –
 ^28^Auf dem Pfade der Gerechtigkeit ist Leben, der Weg des Frevels aber führt zum Tode.
 
-__13__
+ # 13
 ^1^Ein weiser Sohn nimmt die Zurechtweisung des Vaters an, aber ein Spötter hört nicht auf Scheltreden. –
 ^2^Die Frucht des Rechttuns bekommt der Gute zu genießen, das Verlangen der Treulosen aber ist auf Gewalttat gerichtet. –
 ^3^Wer seinen Mund hütet, wahrt seine Seele; wer aber seine Lippen aufsperrt, dem schlägt es zum Verderben aus. –
@@ -457,7 +457,7 @@ __13__
 ^24^Wer seine Rute schont, der haßt sein Kind; wer es aber lieb hat, läßt es früh die Züchtigung fühlen. –
 ^25^Der Gerechte hat zu essen, bis er seinen Hunger gestillt hat; aber der Magen der Gottlosen muß darben.
 
-__14__
+ # 14
 ^1^Frau Weisheit baut ihr Haus auf, aber Frau Torheit reißt es mit eigenen Händen nieder. –
 ^2^Wer in seiner Redlichkeit wandelt, fürchtet den HERRN; wer aber krumme<sup title="oder: verkehrte">&#x2732;</sup> Wege geht, verachtet ihn. –
 ^3^Im Munde des Narren ist eine Rute für seinen Hochmut<sup title="oder: für seinen Rücken">&#x2732;</sup>, aber dem Weisen dienen seine Lippen zum Schutz. –
@@ -494,7 +494,7 @@ __14__
 ^34^Gerechtigkeit erhöht<sup title="= bringt empor">&#x2732;</sup> ein Volk, aber die Sünde ist die Schmach<sup title="oder: der Schaden">&#x2732;</sup> der Völker. –
 ^35^Des Königs Gunst wird dem klugen Diener zuteil, aber einen unbrauchbaren wird sein Ingrimm treffen<sup title="oder: vernichten">&#x2732;</sup>.
 
-__15__
+ # 15
 ^1^Eine sanfte Antwort beschwichtigt den Grimm, aber ein kränkendes Wort ruft Zorn hervor. –
 ^2^Die Zunge der Weisen träufelt<sup title="= spricht">&#x2732;</sup> Erkenntnis (aus), aber der Mund der Toren sprudelt Dummheit hervor. –
 ^3^An jedem Orte sind die Augen des HERRN, sie schauen auf die Bösen und auf die Guten. –
@@ -529,7 +529,7 @@ __15__
 ^32^Wer Unterweisung verschmäht, mißachtet (das Heil) seiner Seele; wer aber auf Zurechtweisung hört, erwirbt sich Einsicht. –
 ^33^Die Furcht des HERRN ist Unterweisung zur Weisheit, und vor der Ehre geht die Demut her.
 
-__16__
+ # 16
 ^1^Dem Menschen gehören die Entwürfe des Herzens an, aber vom HERRN kommt das, was die Zunge ausspricht. –
 ^2^Einem Menschen erscheint alles rein, was er unternimmt; aber der HERR wägt<sup title="= prüft">&#x2732;</sup> die Geister. –
 ^3^Befiehl dem HERRN deine Werke, dann werden deine Pläne gelingen. –
@@ -564,7 +564,7 @@ __16__
 ^32^Besser ein Langmütiger als ein Kriegsheld, und besser einer, der sich selbst beherrscht<sup title="oder: bezwingt">&#x2732;</sup>, als ein Städteeroberer. –
 ^33^Im Bausch (des Gewandes) wirft man das Los, aber alle seine Entscheidung kommt vom HERRN.
 
-__17__
+ # 17
 ^1^Besser ein Stück trocknes Brot und Ruhe dabei, als ein Haus voll Fleisch mit Unfrieden. –
 ^2^Ein kluger Knecht wird Herr über einen nichtsnutzigen Haussohn werden und sich inmitten der Brüder in die Erbschaft teilen. –
 ^3^Der Schmelztiegel ist für das Silber und der Ofen für das Gold; der aber die Herzen prüft, ist der HERR. –
@@ -594,7 +594,7 @@ __17__
 ^27^Wer mit seinen Worten an sich hält, besitzt Einsicht, und der Kaltblütige ist ein verständiger Mann. –
 ^28^Selbst ein Tor kann, wenn er schweigt, als weise gelten und, wenn er seine Lippen verschließt, als einsichtsvoll.
 
-__18__
+ # 18
 ^1^Der Sonderling geht dem eigenen Gelüsten nach; er kämpft gegen alles an, was frommt. –
 ^2^Dem Toren ist es nicht um Einsicht zu tun, sondern nur um die Kundmachung seiner Gedanken. –
 ^3^Wo Gottlosigkeit verübt wird, da stellt sich auch Verachtung ein, und mit der Schandtat kommt die Schmach. –
@@ -620,7 +620,7 @@ __18__
 ^23^Unterwürfige Bitten spricht der Arme aus, aber der Reiche antwortet mit Härte. –
 ^24^Gar manche Freunde gereichen zum Verderben; doch mancher Freund ist anhänglicher als ein Bruder.
 
-__19__
+ # 19
 ^1^Besser ein Armer, der in seiner Unschuld wandelt, als wer unehrliche Lippen hat und dabei reich ist. –
 ^2^Schon bei sich selbst gar nicht zu überlegen<sup title="?">&#x2732;</sup> ist verfehlt; wer sich aber überstürzt, tritt fehl. –
 ^3^Des Menschen eigene Torheit läßt seine Unternehmungen mißlingen; aber alsdann grollt sein Herz gegen den HERRN. –
@@ -651,7 +651,7 @@ __19__
 ^28^Ein gewissenloser Zeuge verhöhnt das Recht, und der Mund der Gottlosen sprudelt Unheil hervor. –
 ^29^Für die Spötter sind Strafgerichte<sup title="oder: Stöcke">&#x2732;</sup> bereit, und Schläge für den Rücken der Toren.
 
-__20__
+ # 20
 ^1^Der Wein ist ein Spötter, der Rauschtrank ein Lärmmacher, und keiner, der von ihm taumelt, ist weise. –
 ^2^Des Königs Drohen ist wie das Knurren eines Löwen<sup title="19,12">&#x2732;</sup>; wer ihn zum Zorn reizt<sup title="oder: gegen sich aufbringt">&#x2732;</sup>, frevelt gegen sein Leben. –
 ^3^Ehrenvoll ist es für den Mann, vom Streit fernzubleiben; jeder Narr aber fängt Händel an. –
@@ -683,7 +683,7 @@ __20__
 ^29^Der Jünglinge Ruhm ist ihre Kraft, und der Greise Schmuck ist das graue Haar. –
 ^30^Blutige Striemen scheuern das Böse weg, und Schläge säubern die Kammern des Leibes<sup title="vgl. V.27">&#x2732;</sup>.
 
-__21__
+ # 21
 ^1^Gleich Wasserbächen ist das Herz des Königs in der Hand des HERRN: wohin immer er will, leitet er es. –
 ^2^Alle seine Wege mag ein Mensch für recht halten, aber der HERR wägt<sup title="= prüft">&#x2732;</sup> die Herzen<sup title="16,2">&#x2732;</sup>. –
 ^3^Recht und Gerechtigkeit üben ist dem HERRN wohlgefälliger als Schlachtopfer. –
@@ -716,7 +716,7 @@ __21__
 ^30^Es gibt weder Weisheit noch Einsicht noch einen klugen Anschlag gegenüber dem HERRN. –
 ^31^Das Roß wird für den Tag der Schlacht gerüstet, aber der Sieg steht bei dem HERRN.
 
-__22__
+ # 22
 ^1^Ein guter Name ist wertvoller als großer Reichtum, Beliebtheit<sup title="oder: ein liebenswürdiges Benehmen">&#x2732;</sup> besser als Silber und Gold. –
 ^2^Reiche und Arme sind aufeinander angewiesen: der HERR hat sie alle beide geschaffen. –
 ^3^Der Kluge sieht das Unglück voraus und verbirgt sich; die Einfältigen aber gehen weiter und erleiden Schaden. –
@@ -758,7 +758,7 @@ __22__
 ^28^Verrücke nicht die uralten Grenzsteine, die deine Väter gesetzt haben. –
 ^29^Siehst du einen Mann, der in seinem Geschäft<sup title="oder: Fach">&#x2732;</sup> tüchtig ist, so wisse: bei Königen kann er in Dienst treten; er braucht nicht niedrigen Leuten seine Dienste zu widmen.
 
-__23__
+ # 23
 ^1^Wenn du mit einem Herrscher<sup title="oder: Großen">&#x2732;</sup> zu Tische sitzt, so beachte wohl, wen du vor dir hast,
 ^2^und setze dir ein Messer an die Kehle, wenn du starke Eßlust hast!
 ^3^Laß dich nicht nach seinen Leckerbissen gelüsten, denn sie sind eine trügliche Speise.
@@ -806,7 +806,7 @@ __23__
 ^34^und du wirst sein wie einer, der tief unten im Meer liegt, und wie einer, der oben im Mastkorb liegt.
 ^35^»Man hat mich geschlagen, aber es hat mir nicht weh getan; man hat mich geprügelt, aber ich habe nichts davon gefühlt. Wann werde ich aufwachen? Dann will ich es wieder so machen, will ihn<sup title="d.h. den Wein">&#x2732;</sup> aufs neue aufsuchen.«
 
-__24__
+ # 24
 ^1^Sei nicht neidisch auf böse Menschen und laß dich nicht gelüsten, ihr Genosse zu sein!
 ^2^Denn ihr Herz sinnt auf Gewalttat, und ihre Lippen reden Unheil.
 
@@ -865,7 +865,7 @@ In einer Rechtssache die Person ansehen, ist ein übel Ding.
 
 ## V. Dritte Sammlung von Sprüchen Salomos (Kap. 25-29)
 
-__25__
+ # 25
 ^1^Auch dies sind Sprüche von Salomo, welche die Männer Hiskias, des Königs von Juda, gesammelt haben.
 
 ^2^Gottes Ehre ist es, eine Sache zu verbergen, aber der Könige Ehre ist es, eine Sache ans Licht zu bringen. –
@@ -896,7 +896,7 @@ __25__
 ^27^Zuviel Honig essen ist nicht heilsam, darum sei sparsam mit ehrenden Worten. –
 ^28^Wie eine Stadt, deren Mauern niedergerissen sind, so ist ein Mann, dessen Geiste Selbstbeherrschung mangelt.
 
-__26__
+ # 26
 ^1^So wenig Schnee zum Sommer und so wenig Regen zur Erntezeit paßt, so ungehörig ist Ehre für den Toren. –
 ^2^Wie ein Sperling, der davonflattert, und wie eine Schwalbe, die wegfliegt, so ist ein unverdienter Fluch: er trifft nicht ein.
 ^3^Die Peitsche für das Pferd, der Zaum für den Esel und der Stock für den Rücken der Toren. –
@@ -926,7 +926,7 @@ __26__
 ^27^Wer (anderen) eine Grube gräbt, fällt (selbst) hinein; und wer einen Stein (auf andere) wälzt, auf den rollt er zurück. –
 ^28^Eine Lügenzunge haßt die von ihr Vernichteten, und ein glatter<sup title="= schmeichlerischer">&#x2732;</sup> Mund bringt zu Fall<sup title="oder: richtet Verderben an">&#x2732;</sup>.
 
-__27__
+ # 27
 ^1^Rühme dich nicht des morgenden Tages, denn du weißt nicht, was ein Tag gebiert<sup title="oder: bringen mag">&#x2732;</sup>. –
 ^2^Ein anderer rühme dich, aber nicht dein eigener Mund; ein Fremder, aber nicht deine eigenen Lippen. –
 ^3^Schwer mag ein Stein sein und der Sand eine Last, aber Verdruß über einen Toren ist schwerer als beide. –
@@ -956,7 +956,7 @@ __27__
 ^26^so (liefern) die Lämmer dir Kleidung, und die Böcke (dienen dir als) Kaufgeld für einen Acker;
 ^27^und Ziegenmilch ist reichlich da zu deiner Nahrung, zur Ernährung deiner Familie, und Lebensunterhalt für deine Mägde.
 
-__28__
+ # 28
 ^1^Die Gottlosen fliehen, ohne daß jemand sie verfolgt, die Gerechten aber sind unerschrocken wie ein junger Löwe. –
 ^2^Durch die Sündhaftigkeit eines Landes tritt häufiger Fürstenwechsel ein; aber durch einen einsichtigen, erfahrenen Mann gewinnt der Rechtsstand lange Dauer. –
 ^3^Ein Mann, der an der Spitze steht und die Geringen bedrückt, ist wie ein Regen, der (das Erdreich) wegschwemmt, ohne Brot<sup title="= Brotkorn, Getreide">&#x2732;</sup> zu bringen. –
@@ -986,7 +986,7 @@ __28__
 ^27^Wer dem Armen gibt, wird keinen Mangel leiden; wer aber seine Augen verhüllt, wird mit Flüchen überhäuft werden. –
 ^28^Wenn die Gottlosen hochkommen, verbergen sich die Leute; wenn sie aber umkommen, werden die Gerechten mächtig<sup title="oder: mehren sich die Gerechten">&#x2732;</sup>.
 
-__29__
+ # 29
 ^1^Ein Mensch, der allen Warnungen gegenüber halsstarrig bleibt, wird plötzlich unheilbar<sup title="oder: rettungslos">&#x2732;</sup> zerschmettert werden. –
 ^2^Wenn die Gerechten die Oberhand haben, so freut sich das Volk; wenn aber ein Gottloser herrscht, so seufzt das Volk. –
 ^3^Wenn jemand die Weisheit liebt, macht er seinem Vater Freude; wer aber mit Dirnen umgeht, bringt sein Vermögen durch. –
@@ -1017,7 +1017,7 @@ __29__
 
 ## VI. Aussprüche Agurs
 
-__30__
+ # 30
 ^1^(Dies sind) die Sprüche Agurs, des Sohnes Jakes, aus Massa. So lautet der Ausspruch des Mannes: »Ich habe mich abgemüht, o Gott, ich habe mich abgemüht, o Gott, und bin dahingeschwunden<sup title="= erschöpft">&#x2732;</sup>;
 ^2^denn ich bin ein vernunftloses Geschöpf, kein Mensch, und besitze keinen Menschenverstand<sup title="vgl. Ps 73,22">&#x2732;</sup>;
 ^3^auch Weisheit habe ich nicht gelernt, daß ich die Erkenntnis des heiligen (Gottes) gewonnen hätte.
@@ -1064,7 +1064,7 @@ __30__
 
 ## VII. Sprüche für Lemuel (Fürstenspiegel)
 
-__31__
+ # 31
 ^1^Sprüche für Lemuel, den König von Massa<sup title="vgl. 30,1">&#x2732;</sup>, mit denen seine Mutter ihn unterwiesen hat:
 
 ^2^»Was mein Sohn, (was, o Lemuel, mein Erstgeborener, was soll ich dir sagen)? Ja was (soll ich dir sagen), du Sohn meines Schoßes, und was dir, du Sohn meiner Gelübde?

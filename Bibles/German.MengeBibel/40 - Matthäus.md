@@ -4,7 +4,7 @@
 
 ### 1. Stammbaum Jesu als des Nachkommen Abrahams und Davids
 
-__1__
+ # 1
 ^1^ Stammbaum Jesu Christi, des Sohnes<sup title="= Nachkommen">&#x2732;</sup> Davids, des Sohnes<sup title="= Nachkommen">&#x2732;</sup> Abrahams:
 ^2^ Abraham war der Vater Isaaks; Isaak der Vater Jakobs; Jakob der Vater Judas und seiner Brüder;
 ^3^ Juda war der Vater des Phares und des Zara, deren Mutter Thamar war; Phares war der Vater Esroms; Esrom der Vater Arams;
@@ -39,7 +39,7 @@ David war der Vater Salomos, dessen Mutter (Bathseba) die Frau Urias gewesen war
 
 ### 3. Weise (Magier) aus dem Morgenlande kommen zum Jesuskinde und huldigen ihm
 
-__2__
+ # 2
 ^1^ Als nun Jesus zu Bethlehem in Judäa in den Tagen<sup title="= unter der Regierung">&#x2732;</sup> des Königs Herodes geboren war, da kamen Weise aus dem Osten<sup title="oder: Morgenlande">&#x2732;</sup> nach Jerusalem
 ^2^ und fragten: »Wo ist der neugeborene König der Juden? Wir haben nämlich seinen Stern im Aufgehen<sup title="oder: im Osten">&#x2732;</sup> gesehen und sind hergekommen, um ihm unsere Huldigung darzubringen.«
 ^3^ Als der König Herodes das vernahm, erschrak er sehr und ganz Jerusalem mit ihm;
@@ -79,7 +79,7 @@ __2__
 
 ### 1. Auftreten und Bußpredigt Johannes des Täufers
 
-__3__
+ # 3
 ^1^ In jenen Tagen trat aber Johannes der Täufer öffentlich auf und predigte in der Wüste von Judäa:
 ^2^ »Tut Buße, denn das Himmelreich ist nahe herbeigekommen!«
 ^3^ Dieser (Johannes) ist nämlich der Mann, auf den sich das Wort des Propheten Jesaja bezieht, der da sagt<sup title="Jes 40,4">&#x2732;</sup>: »Eine Stimme ruft laut in der Wüste: ›Bereitet den Weg des Herrn! Macht gerade<sup title="oder: ebnet ihm">&#x2732;</sup> seine Pfade!‹«
@@ -103,7 +103,7 @@ __3__
 
 ### 3. Die Versuchung Jesu als seine Messiasprobe
 
-__4__
+ # 4
 ^1^ Hierauf wurde Jesus vom Geist<sup title="3,16">&#x2732;</sup> in die Wüste hinaufgeführt, um vom Teufel versucht zu werden;
 ^2^ und als er vierzig Tage und vierzig Nächte gefastet hatte, hungerte ihn zuletzt.
 ^3^ Da trat der Versucher an ihn heran und sagte zu ihm: »Bist du Gottes Sohn, so gebiete, daß diese Steine zu Broten werden.«
@@ -147,7 +147,7 @@ __4__
 
 #### a) Einleitung
 
-__5__
+ # 5
 ^1^ Als Jesus nun die Volksscharen sah, ging er ins Gebirge<sup title="oder: auf den Berg">&#x2732;</sup> hinauf, und nachdem er sich dort gesetzt hatte, traten seine Jünger<sup title="d.h. Schüler, Zuhörer">&#x2732;</sup> zu ihm.
 ^2^ Da tat er seinen Mund auf und lehrte sie mit den Worten:
 
@@ -219,7 +219,7 @@ __5__
 
 ##### aa) Gebt acht beim Almosengeben
 
-__6__
+ # 6
 ^1^ »Gebt acht darauf, daß ihr eure Gerechtigkeit<sup title="= Wohltätigkeit, das Spenden von Almosen">&#x2732;</sup> nicht vor den Leuten ausübt, um von ihnen gesehen zu werden: sonst habt ihr keinen Lohn (zu erwarten) bei eurem Vater im Himmel!
 ^2^ Wenn du also Almosen spenden willst, so laß nicht vor dir her posaunen, wie es die Heuchler<sup title="oder: Scheinheiligen">&#x2732;</sup> in den Synagogen und auf den Straßen tun, um von den Leuten gerühmt zu werden. Wahrlich ich sage euch: Sie haben ihren Lohn dahin<sup title="= damit schon empfangen">&#x2732;</sup>.
 ^3^ Nein, wenn du Almosen gibst, so laß deine linke Hand nicht wissen, was deine rechte tut,
@@ -275,7 +275,7 @@ __6__
 
 ##### aa) Es macht sie zurückhaltend den Fehlern der Brüder gegenüber und vorsichtig in ihren Darbietungen an die Feinde ihres kostbaren Schatzes
 
-__7__
+ # 7
 ^1^ »Richtet nicht, damit ihr nicht gerichtet werdet!
 ^2^ Denn mit demselben Gericht<sup title="oder: Urteil">&#x2732;</sup>, mit dem ihr richtet, werdet ihr wieder gerichtet werden, und mit demselben Maße, mit dem ihr meßt, wird euch wieder gemessen werden<sup title="Mk 4,24">&#x2732;</sup>.
 ^3^ Was siehst du aber den Splitter im Auge deines Bruders, während du den Balken in deinem eigenen Auge nicht wahrnimmst?
@@ -328,7 +328,7 @@ __7__
 
 #### a) Heilung eines Aussätzigen
 
-__8__
+ # 8
 ^1^ Als er dann vom Berge herabgestiegen war, folgten ihm große Volksscharen nach.
 ^2^ Da trat ein Aussätziger herzu, warf sich vor ihm nieder und sagte: »Herr, wenn du willst, kannst du mich reinigen.«
 ^3^ Jesus streckte seine Hand aus, faßte ihn an und sagte: »Ich will’s, werde rein!« Da wurde er sogleich von seinem Aussatz rein.
@@ -382,7 +382,7 @@ __8__
 
 #### g) Heilung eines Gelähmten in Kapernaum; Jesus vergibt Sünden
 
-__9__
+ # 9
 ^1^ Er stieg nun in ein Boot, fuhr über den See zurück und kam wieder in seine Stadt (Kapernaum).
 ^2^ Dort brachte man ihm einen Gelähmten, der auf einem Tragbett lag. Weil nun Jesus ihren Glauben sah, sagte er zu dem Gelähmten: »Sei getrost, mein Sohn: deine Sünden sind (dir) vergeben!«
 ^3^ Da dachten einige von den Schriftgelehrten bei sich: »Dieser lästert Gott!«
@@ -445,7 +445,7 @@ __9__
 
 #### b) Berufung und Namen der zwölf Jünger
 
-__10__
+ # 10
 ^1^ Er rief dann seine zwölf Jünger herbei und verlieh ihnen Macht über die unreinen Geister, so daß sie diese auszutreiben und alle Krankheiten und jedes Gebrechen zu heilen vermochten.
 ^2^ Die Namen der zwölf Apostel<sup title="= Sendboten">&#x2732;</sup> aber sind folgende: Zuerst Simon, der auch Petrus<sup title="= Fels">&#x2732;</sup> heißt, und sein Bruder Andreas; sodann Jakobus, der Sohn des Zebedäus, und sein Bruder Johannes;
 ^3^ Philippus und Bartholomäus; Thomas und der Zöllner Matthäus; Jakobus, der Sohn des Alphäus, und Lebbäus (mit dem Beinamen Thaddäus);
@@ -507,7 +507,7 @@ __10__
 ^41^ Wer einen Propheten aufnimmt, eben weil er ein Prophet heißt, der wird dafür den Lohn eines Propheten empfangen; und wer einen Gerechten aufnimmt, eben weil er ein Gerechter heißt, der wird dafür den Lohn eines Gerechten empfangen;
 ^42^ und wer einem von diesen geringen Leuten seines Namens wegen, weil er ein Jünger heißt, auch nur einen Becher frischen Wassers zu trinken gibt – wahrlich ich sage euch: Es soll ihm nicht unbelohnt bleiben!«
 
-__11__
+ # 11
 ^1^ Als Jesus nun mit der Unterweisung seiner zwölf Jünger zu Ende gekommen war, zog er von dort weiter, um in ihren<sup title="= den dortigen">&#x2732;</sup> Städten zu lehren und zu predigen.
 
 ## IV. Unglaube und Feindschaft der Juden gegen Jesus (11,2-13,58)
@@ -559,7 +559,7 @@ __11__
 
 ### 3. Das Ährenraufen der Jünger am Sabbat; der erste Streit Jesu mit den Pharisäern über die Sabbatheiligung
 
-__12__
+ # 12
 ^1^ Zu jener Zeit wanderte Jesus an einem Sabbat durch die Kornfelder; seine Jünger aber hatten Hunger und begannen daher, Ähren abzupflücken und (die Körner) zu essen.
 ^2^ Als die Pharisäer das wahrnahmen, sagten sie zu ihm: »Sieh doch! Deine Jünger tun da etwas, was man am Sabbat nicht tun darf!«
 ^3^ Da antwortete er ihnen: »Habt ihr nicht gelesen<sup title="1.Sam 21,2-7">&#x2732;</sup>, was David getan hat, als ihn samt seinen Begleitern<sup title="oder: Leuten">&#x2732;</sup> hungerte?
@@ -634,7 +634,7 @@ __12__
 
 #### a) Einleitende Bemerkungen; das Gleichnis vom Sämann und vierfachen Ackerfeld (mit Zwischenrede und Deutung)
 
-__13__
+ # 13
 ^1^ An jenem Tage ging Jesus von Hause weg und setzte sich am See nieder;
 ^2^ und es versammelte sich eine große Volksmenge bei ihm, so daß er in ein Boot stieg und sich darin niedersetzte, während die ganze Volksmenge längs dem Ufer stand.
 ^3^ Da redete er mancherlei zu ihnen in Gleichnissen mit den Worten: »Seht, der Sämann ging aus, um zu säen;
@@ -724,7 +724,7 @@ __13__
 
 ### 1. Jesus und Herodes; das Ende Johannes des Täufers
 
-__14__
+ # 14
 ^1^ Zu jener Zeit erhielt der Vierfürst Herodes Kunde von Jesus
 ^2^ und sagte zu seinen Dienern<sup title="= Hofleuten">&#x2732;</sup>: »Das ist Johannes der Täufer; der ist von den Toten auferweckt worden; darum sind die Wunderkräfte in ihm wirksam.«
 ^3^ Herodes hatte nämlich den Johannes festnehmen und in Fesseln und ins Gefängnis werfen lassen mit Rücksicht auf Herodias, die Gattin seines Bruders Philippus;
@@ -773,7 +773,7 @@ __14__
 
 ### 4. Jesu Streit mit den Gegnern um das Händewaschen; seine Warnung vor Menschensatzungen und Kennzeichnung der wahren Unreinheit
 
-__15__
+ # 15
 ^1^ Damals kamen Pharisäer und Schriftgelehrte aus Jerusalem zu Jesus und fragten ihn:
 ^2^ »Warum übertreten deine Jünger die Satzungen, welche uns die Alten<sup title="= unsere Vorfahren">&#x2732;</sup> überliefert haben? Sie waschen sich ja die Hände nicht, wenn sie Brot essen<sup title="oder: eine Mahlzeit einnehmen">&#x2732;</sup> wollen.«
 ^3^ Da antwortete er ihnen mit den Worten: »Warum übertretet auch ihr<sup title="oder: ihr selber">&#x2732;</sup> das Gebot Gottes euren überlieferten Satzungen zuliebe?
@@ -825,7 +825,7 @@ __15__
 
 ### 7. Abweisung der Zeichenforderung der Gegner und Warnung vor dem Sauerteig der Pharisäer
 
-__16__
+ # 16
 ^1^ Da traten die Pharisäer und Sadduzäer zu ihm heran, um ihn auf die Probe zu stellen, und sprachen den Wunsch gegen ihn aus, er möchte sie ein Wunderzeichen vom Himmel her sehen lassen.
 ^2^ Er aber antwortete ihnen: »Am Abend sagt ihr: ›Es gibt schönes Wetter, denn der Himmel ist rot‹;
 ^3^ und frühmorgens: ›Heute gibt es Regenwetter, denn der Himmel ist rot und trübe.‹ Das Aussehen des Himmels versteht ihr zu beurteilen, die Wahrzeichen der Zeit aber nicht.
@@ -869,7 +869,7 @@ __16__
 
 ### 4. Jesu Verklärung auf dem Berge und sein Gespräch mit den Jüngern beim Abstieg (die Eliafrage)
 
-__17__
+ # 17
 ^1^ Sechs Tage später nahm Jesus den Petrus, Jakobus und dessen Bruder Johannes mit sich und führte sie abseits<sup title="oder: in die Einsamkeit">&#x2732;</sup> auf einen hohen Berg.
 ^2^ Da wurde er vor ihren Augen verwandelt: sein Antlitz leuchtete wie die Sonne, und seine Kleider wurden hellglänzend wie das Licht.
 ^3^ Und siehe, es erschienen ihnen Mose und Elia und besprachen sich mit ihm.
@@ -912,7 +912,7 @@ __17__
 
 #### a) Rangstreit der Jünger; Jesu Mahnung zur Demut
 
-__18__
+ # 18
 ^1^ In jener Stunde traten die Jünger zu Jesus mit der Frage: »Wer ist denn der Größte im Himmelreich?«
 ^2^ Da rief er ein Kind herbei, stellte es mitten unter sie
 ^3^ und sagte: »Wahrlich ich sage euch: Wenn ihr nicht umkehrt und wie die Kinder werdet, so werdet ihr nimmermehr ins Himmelreich eingehen.
@@ -964,7 +964,7 @@ __18__
 
 ### 9. Aufbruch nach Jerusalem und Wanderung durch das Ostjordanland; Gespräche über die Ehe, über Ehescheidung und Verzicht auf die Ehe
 
-__19__
+ # 19
 ^1^ Als Jesus nun diese Reden beendet hatte, brach er aus Galiläa auf und kam in das Gebiet von Judäa auf der anderen Seite des Jordans;
 ^2^ eine große Volksmenge begleitete ihn, und er heilte sie dort.
 
@@ -1009,7 +1009,7 @@ __19__
 
 ### 13. Gleichnis von den Arbeitern im Weinberge
 
-__20__
+ # 20
 ^1^ »Denn das Himmelreich ist einem menschlichen Hausherrn gleich, der frühmorgens ausging, um Arbeiter für seinen Weinberg einzustellen.
 ^2^ Nachdem er nun mit den Arbeitern einen Tagelohn von einem Denar vereinbart hatte, schickte er sie in seinen Weinberg.
 ^3^ Als er dann um die dritte Tagesstunde wieder ausging, sah er andere auf dem Marktplatz unbeschäftigt stehen
@@ -1061,7 +1061,7 @@ __20__
 
 ### 2. Einzug Jesu in Jerusalem
 
-__21__
+ # 21
 ^1^ Als sie sich dann Jerusalem näherten und nach Bethphage an den Ölberg gekommen waren, da sandte Jesus zwei von seinen Jüngern ab
 ^2^ mit der Weisung: »Geht in das Dorf, das vor euch liegt! Ihr werdet dort sogleich (am Eingang) eine Eselin angebunden finden und ein Füllen bei ihr; bindet sie los und bringt sie mir her!
 ^3^ Und wenn euch jemand etwas sagen sollte, so antwortet ihm: ›Der Herr hat sie nötig, wird sie aber sofort zurückschicken.‹«
@@ -1135,7 +1135,7 @@ __21__
 
 #### c) Das Gleichnis vom königlichen Hochzeitsmahl
 
-__22__
+ # 22
 ^1^ Und Jesus hob an und redete noch einmal in Gleichnissen zu ihnen folgendermaßen:
 ^2^ »Das Himmelreich ist einem König vergleichbar, der seinem Sohne die Hochzeit ausrichten wollte.
 ^3^ Er sandte also seine Knechte aus, um die geladenen Gäste zum Hochzeitsmahl zu bitten; doch sie wollten nicht kommen.
@@ -1200,7 +1200,7 @@ __22__
 
 ### 8. Die große Strafrede Jesu gegen die Schriftgelehrten und Pharisäer
 
-__23__
+ # 23
 ^1^ Damals richtete Jesus an das Volk und an seine Jünger folgende Worte:
 
 #### a) Eingang der Rede: Rüge des verwerflichen Verhaltens der geistlichen Führer des Volks in ihrer hohen Stellung
@@ -1264,7 +1264,7 @@ __23__
 
 #### a) Einleitung: Anlaß der Rede (mit Ankündigung der Zerstörung des Tempels)
 
-__24__
+ # 24
 ^1^ Jesus verließ dann den Tempel und wollte weitergehen; da traten seine Jünger zu ihm heran, um ihn auf den Prachtbau des Tempels aufmerksam zu machen.
 ^2^ Er aber antwortete ihnen mit den Worten: »Ja, jetzt seht ihr dies alles noch. Wahrlich ich sage euch: Es wird hier kein Stein auf dem andern bleiben, der nicht niedergerissen wird!«
 ^3^ Als er sich dann auf dem Ölberg niedergesetzt hatte, traten die Jünger, als sie für sich allein waren, an ihn mit der Bitte heran: »Sage uns doch: wann wird dies geschehen? Und welches ist das Zeichen deiner Ankunft<sup title="bzw. Wiederkunft">&#x2732;</sup> und der Vollendung<sup title="= des Endes">&#x2732;</sup> der Weltzeit?«
@@ -1345,7 +1345,7 @@ __24__
 
 ##### cc) Das Gleichnis von den zehn (klugen und törichten) Jungfrauen
 
-__25__
+ # 25
 ^1^ »Alsdann wird das Himmelreich zehn Jungfrauen gleichen, die sich mit ihren Lampen in der Hand zur Einholung des Bräutigams aufmachten.
 ^2^ Fünf von ihnen waren töricht und fünf klug;
 ^3^ denn die törichten nahmen wohl ihre Lampen, nahmen aber kein Öl mit;
@@ -1406,7 +1406,7 @@ __25__
 
 ### 1. Letzte Leidensankündigung Jesu; Mordanschlag der Führer des Volkes
 
-__26__
+ # 26
 ^1^ Als nun Jesus alle diese Reden beendet hatte, sagte er zu seinen Jüngern:
 ^2^ »Ihr wißt, daß übermorgen das Passah stattfindet; da wird der Menschensohn zur Kreuzigung überliefert.«
 
@@ -1516,7 +1516,7 @@ __26__
 
 ### 9. Letzte Beratung des Hohen Rates; Auslieferung des Verurteilten an den römischen Statthalter Pilatus; Ende des Judas
 
-__27__
+ # 27
 ^1^ Als es hierauf Tag geworden war, faßten alle Hohenpriester und die Ältesten des Volkes einen Beschluß gegen Jesus, um seine Hinrichtung zu erreichen.
 ^2^ Sie ließen ihn dann fesseln und abführen und übergaben ihn dem Statthalter Pontius Pilatus.
 
@@ -1609,7 +1609,7 @@ __27__
 
 ### 1. Die beiden Frauen beim leeren Grab am Ostermorgen; Jesu erste Erscheinung; Betrug der Führer des Volkes
 
-__28__
+ # 28
 ^1^ Nach Ablauf des Sabbats aber, als der erste Tag nach dem Sabbat<sup title="= der erste Wochentag">&#x2732;</sup> anbrechen wollte, gingen Maria von Magdala und die andere Maria hin, um nach dem Grabe zu sehen.
 ^2^ Da entstand plötzlich ein starkes Erdbeben; denn ein Engel des Herrn, der vom Himmel herabgekommen und herangetreten war, wälzte den Stein weg und setzte sich oben darauf.
 ^3^ Sein Aussehen war (leuchtend) wie der Blitz und sein Gewand weiß wie der Schnee.

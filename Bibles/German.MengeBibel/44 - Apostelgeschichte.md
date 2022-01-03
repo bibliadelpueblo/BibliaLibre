@@ -6,7 +6,7 @@
 
 ### 1. Jesu letzte Anordnungen und seine Verheißung an die Jünger; Himmelfahrt
 
-__1__
+ # 1
 ^1^ Meinen ersten Bericht habe ich, lieber Theophilus, über alles das verfaßt<sup title="= erstattet">&#x2732;</sup>, was Jesus getan und gelehrt hat von Anfang an
 ^2^ bis zu dem Tage, an dem er den Aposteln, die er erwählt hatte, durch den heiligen Geist seine (letzten) Aufträge erteilte und dann (in den Himmel) aufgenommen wurde.
 ^3^ Ihnen hatte er sich auch nach seinem Leiden durch viele Beweise als lebendig bezeugt, indem er sich vierzig Tage lang vor ihnen sehen ließ und mit ihnen über das Reich Gottes redete.
@@ -44,7 +44,7 @@ __1__
 
 #### a) Das Pfingstwunder: die Ausgießung des heiligen Geistes und sein gewaltiges Zeugnis von den großen Taten Gottes
 
-__2__
+ # 2
 ^1^ Als dann der Tag des Pfingstfestes herbeigekommen war, befanden sie alle sich an einem Ort beisammen.
 ^2^ Da entstand plötzlich ein Brausen<sup title="oder: Rauschen">&#x2732;</sup> vom Himmel her, wie wenn ein gewaltiger Wind daherfährt, und erfüllte das ganze Haus<sup title="oder: Gemach">&#x2732;</sup>, in welchem sie weilten;
 ^3^ und es erschienen ihnen Zungen wie von Feuer, die sich (in Flämmchen) zerteilten und von denen sich eine auf jeden von ihnen niederließ;
@@ -115,7 +115,7 @@ __2__
 
 ##### aa) Heilung eines Lahmgeborenen durch Petrus und Johannes
 
-__3__
+ # 3
 ^1^ Petrus und Johannes aber gingen (eines Tages) zusammen um die neunte Stunde, die Gebetsstunde, in den Tempel hinauf.
 ^2^ Da wurde (gerade) ein Mann herbeigetragen, der von seiner Geburt an lahm war und den man täglich an das sogenannte Schöne Tor des Tempels hinsetzte, damit er sich dort Almosen von den Besuchern des Tempels erbitte.
 ^3^ Als dieser nun Petrus und Johannes sah, die in den Tempel hineingehen wollten, bat er sie um ein Almosen.
@@ -148,7 +148,7 @@ __3__
 
 #### c) Das Einschreiten der jüdischen Behörde: Petrus und Johannes im Gefängnis und vor dem Hohen Rat; ihre Freilassung
 
-__4__
+ # 4
 ^1^ Während sie noch zum Volk redeten, traten die Priester sowie der Tempelhauptmann und die Sadduzäer an sie heran;
 ^2^ diese waren nämlich unwillig darüber, daß sie dem Volk ihre Lehre vortrugen und die an Jesus vollführte Auferstehung von den Toten verkündeten.
 ^3^ Sie nahmen sie also fest und setzten sie in Gewahrsam bis zum folgenden Morgen; es war nämlich bereits Abend.
@@ -199,7 +199,7 @@ __4__
 
 ##### bb) Ein Beispiel der ernsten Gemeindezucht: Ananias und Sapphira
 
-__5__
+ # 5
 ^1^ Ein Mann dagegen namens Ananias verkaufte im Einvernehmen mit seiner Frau Sapphira ein Grundstück,
 ^2^ behielt aber einen Teil des Erlöses unter Mitwissen seiner Frau für sich zurück: er brachte nur einen Teil davon und stellte ihn den Aposteln zur Verfügung.
 ^3^ Da sagte Petrus: »Ananias, warum hat der Satan dir das Herz erfüllt<sup title="= bestrickt">&#x2732;</sup>, daß du den heiligen Geist belogen und einen Teil vom Erlös des Ackers für dich zurückbehalten hast?
@@ -264,7 +264,7 @@ Daraufhin folgten sie seinem Rat:
 
 #### g) Trennung des Predigtamtes und der Armenpflege; Wahl und Einsetzung der sieben Armenpfleger
 
-__6__
+ # 6
 ^1^ In diesen Tagen nun entstand bei der Zunahme der Zahl der Jünger laute Unzufriedenheit der Hellenisten gegen die Hebräer, weil ihre Witwen bei der täglichen Verpflegung<sup title="oder: Versorgung">&#x2732;</sup> nicht genügend berücksichtigt würden.
 ^2^ So beriefen denn die Zwölf die Gesamtheit der Jünger und sagten: »Es scheint uns nicht das Richtige zu sein, daß wir die Verkündigung des Wortes Gottes hintansetzen, um den Tischdienst zu besorgen.
 ^3^ So seht euch nun, ihr Brüder, nach sieben bewährten, mit Geist und Weisheit erfüllten Männern aus eurer Mitte um, damit wir sie zu diesem Dienst<sup title="oder: für dieses Amt">&#x2732;</sup> bestellen;
@@ -291,7 +291,7 @@ __6__
 
 ##### aa) Die Zeit der Erzväter
 
-__7__
+ # 7
 ^1^ Der Hohepriester fragte ihn nun: »Verhält sich dies so?«
 ^2^ Da antwortete Stephanus: »Werte Brüder und Väter, hört mich an! Der Gott der Herrlichkeit erschien unserm Vater Abraham, als er noch in Mesopotamien wohnte, bevor er sich in Haran niedergelassen hatte,
 ^3^ und gebot ihm: ›Verlaß dein Heimatland und deine Verwandtschaft und ziehe in das Land, das ich dir zeigen werde!‹<sup title="1.Mose 12,1">&#x2732;</sup>
@@ -366,7 +366,7 @@ __7__
 ^59^ und steinigten den Stephanus, der betend ausrief: »Herr Jesus, nimm meinen Geist auf!«
 ^60^ Alsdann auf die Knie niedergesunken, rief er noch laut aus: »Herr, rechne ihnen diese Sünde nicht zu!« Nach diesen Worten gab er seinen Geist auf.
 
-__8__
+ # 8
 ^1^ Saulus aber war mit seiner Hinrichtung durchaus einverstanden.
 
 ## B. Die Ausbreitung der Heilsbotschaft in Samarien und Syrien; Beginn der Heidenbekehrung (Kap. 8-12)
@@ -436,7 +436,7 @@ b An jenem Tage kam es aber zu einer schweren Verfolgung der Gemeinde in Jerusal
 
 #### a) Das Erlebnis des Saulus auf dem Weg nach Damaskus
 
-__9__
+ # 9
 ^1^ Saulus aber, der noch immer Drohungen und Mord gegen die Jünger des Herrn schnaubte, wandte sich an den Hohenpriester
 ^2^ und erbat sich von ihm Briefe<sup title="= Bevollmächtigungsschreiben">&#x2732;</sup> nach Damaskus an die dortigen Synagogen<sup title="= jüdischen Gemeinden">&#x2732;</sup>, um Anhänger der neuen Lehre<sup title="oder: Glaubensrichtung">&#x2732;</sup>, die er etwa fände, Männer wie Frauen, in Fesseln nach Jerusalem zu bringen.
 ^3^ Während er nun so dahinzog und schon in die Nähe von Damaskus gekommen war, umstrahlte ihn plötzlich ein Lichtschein vom Himmel her;
@@ -509,7 +509,7 @@ b Einige Tage war er nun mit den Jüngern<sup title="= Brüdern">&#x2732;</sup>
 
 ##### aa) Das Gesicht des Kornelius in Cäsarea
 
-__10__
+ # 10
 ^1^ In Cäsarea aber lebte (damals) ein Mann namens Kornelius, ein Hauptmann bei der sogenannten Italischen Abteilung<sup title="eig. Kohorte">&#x2732;</sup>;
 ^2^ er war fromm und gottesfürchtig mit seinem ganzen Hause, tat dem (jüdischen) Volke viel Gutes durch seine Mildtätigkeit und betete ohne Unterlaß zu Gott.
 ^3^ Dieser Mann sah (eines Tages) in einem Gesicht um die neunte Tagesstunde deutlich einen Engel Gottes bei sich eintreten, der ihn anredete: »Kornelius!«
@@ -571,7 +571,7 @@ Am folgenden Tage aber machte er sich mit ihnen auf den Weg; auch einige von den
 
 #### b) Petrus rechtfertigt in Jerusalem die Heidentaufe
 
-__11__
+ # 11
 ^1^ Es erhielten aber die Apostel und die Brüder in Judäa Kunde davon, daß auch die Heiden das Wort Gottes angenommen hätten.
 ^2^ Als daher Petrus nach Jerusalem zurückgekehrt war, stellten die Gläubigen jüdischer Herkunft ihn zur Rede
 ^3^ und hielten ihm vor: »Du bist bei Nichtjuden eingekehrt und hast mit ihnen gegessen!«
@@ -611,7 +611,7 @@ __11__
 
 #### a) Tod des Jakobus, Verhaftung des Petrus
 
-__12__
+ # 12
 ^1^ Um jene Zeit ließ der König Herodes einige Mitglieder der Gemeinde gefangennehmen, um seine Wut an ihnen auszulassen.
 ^2^ So ließ er Jakobus, den Bruder des Johannes, mit dem Schwert hinrichten;
 ^3^ und als er sah, daß sein Vorgehen den Beifall der Juden fand, ließ er weiter auch Petrus verhaften, und zwar während der Tage der ungesäuerten Brote.
@@ -657,7 +657,7 @@ __12__
 
 #### a) Einsegnung, Aussendung und Abreise der beiden Apostel; ihre Wirksamkeit in Cypern
 
-__13__
+ # 13
 ^1^ In Antiochia wirkten damals in der dortigen Gemeinde folgende Propheten<sup title="vgl. 1.Kor 12,28">&#x2732;</sup> und Lehrer: Barnabas, Symeon<sup title="= Simon">&#x2732;</sup> mit dem Beinamen Niger, Lucius aus Cyrene, Manaën, der mit dem Vierfürsten Herodes erzogen worden war, und Saulus.
 ^2^ Als sie nun einst dem Herrn Gottesdienst hielten und fasteten, gebot der heilige Geist: »Sondert mir doch Barnabas und Saulus für das Werk aus, zu dem ich sie berufen habe!«
 ^3^ Da fasteten und beteten sie, legten ihnen die Hände auf und ließen sie ziehen.
@@ -729,7 +729,7 @@ __13__
 
 ##### aa) Wirksamkeit der Apostel in Ikonium
 
-__14__
+ # 14
 ^1^ In Ikonium gingen sie in derselben Weise (wie in Antiochia) in die Synagoge der Juden und predigten mit solchem Erfolg, daß sowohl von den Juden als auch von den Griechen<sup title="d.h. griechisch sprechenden Heiden">&#x2732;</sup> eine große Zahl zum Glauben kam.
 ^2^ Von den Juden aber reizten die, welche ungläubig geblieben waren, die heidnische Bevölkerung zur Erbitterung gegen die Brüder an.
 ^3^ Dennoch blieben Paulus und Barnabas geraume Zeit dort und predigten freimütig im Vertrauen auf den Herrn, der für das Wort<sup title="oder: die Verkündigung">&#x2732;</sup> seiner Gnade dadurch Zeugnis ablegte, daß er Zeichen und Wunder durch ihre Hände geschehen ließ.
@@ -771,7 +771,7 @@ b Sie verkündigten die Heilsbotschaft (auch) in dieser Stadt und kehrten, nachd
 
 #### a) Die Veranlassung des Konvents; Sendung des Paulus und Barnabas nach Jerusalem
 
-__15__
+ # 15
 ^1^ Da trugen einige (Gläubige), die aus Judäa (nach Antiochia) herabgekommen waren, den Brüdern die Lehre vor: »Wenn ihr euch nicht nach mosaischem Brauch beschneiden laßt, könnt ihr die Rettung<sup title="oder: das Heil">&#x2732;</sup> nicht erlangen!«
 ^2^ Als nun dadurch eine Aufregung (in der Gemeinde) und ein heftiger Streit zwischen diesen Männern und Paulus und Barnabas entstanden war, faßte man den Beschluß, Paulus und Barnabas nebst einigen anderen aus ihrer Mitte sollten wegen dieser Streitfrage zu den Aposteln und Ältesten nach Jerusalem hinaufziehen.
 ^3^ Diese wurden also von der Gemeinde feierlich entlassen und reisten dann durch Phönizien und Samarien, wobei sie (überall) von der Bekehrung der Heiden berichteten und dadurch allen Brüdern große Freude bereiteten.
@@ -831,7 +831,7 @@ __15__
 
 #### b) Die Landreise durch Kleinasien bis nach Troas
 
-__16__
+ # 16
 ^1^ Weiter kam er dann auch nach Derbe und Lystra. Und siehe, hier war ein Jünger namens Timotheus – der Sohn einer gläubig gewordenen Jüdin, aber eines griechischen<sup title="= heidnischen">&#x2732;</sup> Vaters –,
 ^2^ dem von den Brüdern in Lystra und Ikonium ein empfehlendes Zeugnis ausgestellt wurde.
 ^3^ Paulus wünschte diesen als Begleiter auf der Reise zu haben; so nahm er ihn denn zu sich und vollzog die Beschneidung an ihm mit Rücksicht auf die Juden, die in jenen Gegenden (wohnhaft) waren; denn es wußten ja alle, daß sein Vater ein Grieche<sup title="= Heide">&#x2732;</sup> war.
@@ -895,7 +895,7 @@ In dieser Stadt blieben wir einige Tage
 
 ##### aa) Paulus in Thessalonike
 
-__17__
+ # 17
 ^1^ Nachdem sie durch Amphipolis und Apollonia gewandert waren, kamen sie nach Thessalonike, wo es eine Synagoge der Juden gab.
 ^2^ Nach seiner Gewohnheit ging Paulus zu ihnen hinein und besprach sich an drei Sabbaten<sup title="oder: drei Wochen lang">&#x2732;</sup> mit ihnen auf Grund der Schriftworte,
 ^3^ die er ihnen auslegte und aus denen er dartat, daß Christus<sup title="= der Messias">&#x2732;</sup> leiden und von den Toten auferstehen mußte, und (so schloß er): »Dieser Jesus, den ich euch verkündige, ist Christus<sup title="= der Messias">&#x2732;</sup>.«
@@ -949,7 +949,7 @@ __17__
 
 ##### aa) Seine Handwerks- und seine Lehrtätigkeit
 
-__18__
+ # 18
 ^1^ Hierauf verließ Paulus Athen und begab sich nach Korinth.
 ^2^ Dort traf er einen Juden namens Aquila, der aus Pontus stammte und erst vor kurzem mit seiner Frau Priscilla aus Italien gekommen war, weil (der Kaiser) Klaudius alle Juden aus Rom hatte ausweisen lassen. Paulus besuchte die beiden,
 ^3^ und weil er das gleiche Handwerk betrieb wie sie, blieb er bei ihnen wohnen und arbeitete mit ihnen zusammen; sie waren nämlich nach ihrem Handwerk Zeltmacher.
@@ -995,7 +995,7 @@ __18__
 
 ##### aa) Bekehrung und Taufe der Johannesjünger
 
-__19__
+ # 19
 ^1^ Während nun Apollos sich in Korinth aufhielt, kam Paulus, nachdem er das Binnenland von Kleinasien durchwandert hatte, nach Ephesus und fand dort einige Jünger vor.
 ^2^ Er fragte diese: »Habt ihr den heiligen Geist empfangen, nachdem ihr gläubig geworden waret?« Sie antworteten ihm: »Nein, wir haben überhaupt noch nichts davon gehört, ob der heilige Geist (schon) da ist.«
 ^3^ Darauf fragte er sie: »Worauf seid ihr denn getauft worden?« Sie antworteten: »Auf die Taufe des Johannes.«
@@ -1056,7 +1056,7 @@ __19__
 
 ##### aa) Reise nach Griechenland und Rückkehr nach Troas
 
-__20__
+ # 20
 ^1^ Als sich nun die Unruhe gelegt hatte, ließ Paulus die Jünger<sup title="= Brüder">&#x2732;</sup> zu sich kommen, hielt eine ermahnende Ansprache an sie, nahm dann Abschied von ihnen und trat die Reise nach Mazedonien an.
 ^2^ Nachdem er diese Gegenden durchzogen und (den dortigen Gläubigen) reichen Zuspruch gespendet hatte, begab er sich nach Griechenland.
 ^3^ Als er sich dann nach einem Aufenthalt von drei Monaten nach Syrien einschiffen wollte und die Juden einen Anschlag gegen ihn planten, entschloß er sich zur Rückkehr durch Mazedonien.
@@ -1107,7 +1107,7 @@ __20__
 
 #### e) Weiterreise von Milet bis Tyrus und Cäsarea
 
-__21__
+ # 21
 ^1^ Als wir uns dann von ihnen losgerissen hatten und wieder in See gegangen waren, kamen wir in gerader Fahrt nach Kos, am nächsten Tage nach Rhodus und von dort nach Patara.
 ^2^ Als wir dort ein Schiff fanden, das nach Phönizien bestimmt war, stiegen wir ein und fuhren ab.
 ^3^ Wir bekamen Cypern in Sicht, das wir aber zur Linken liegen ließen, steuerten auf Syrien zu und legten in Tyrus an; denn dort hatte das Schiff seine Ladung zu löschen.
@@ -1168,7 +1168,7 @@ __21__
 
 ##### cc) Rede des Paulus an das Volk (Bericht über seine Bekehrung und über den von Jesus empfangenen Auftrag)
 
-__22__
+ # 22
 ^1^ »Werte Brüder und Väter, hört jetzt meine Rechtfertigung vor euch an!«
 ^2^ Als sie nun hörten, daß er in hebräischer Sprache zu ihnen redete, verhielten sie sich noch ruhiger; und er fuhr fort:
 ^3^ »Ich bin ein Jude, geboren zu Tarsus in Cilicien, aber hier in dieser Stadt erzogen: zu den Füßen Gamaliels habe ich meine Ausbildung in strenger Befolgung des Gesetzes unserer Väter erhalten und bin ein ebensolcher Eiferer für Gott gewesen, wie ihr alle es noch heute seid.
@@ -1206,7 +1206,7 @@ __22__
 
 ^30^ Weil er aber über das Vergehen, das ihm von seiten der Juden vorgeworfen wurde, ins klare kommen wollte, ließ er ihm am folgenden Tage die Fesseln abnehmen und ordnete eine Versammlung<sup title="oder: Sitzung">&#x2732;</sup> der Hohenpriester und des ganzen Hohen Rates an; dann ließ er Paulus hinabführen und ihn vor sie stellen.
 
-__23__
+ # 23
 ^1^ Paulus blickte nun den Hohen Rat fest an und sagte: »Werte Brüder! Ich habe bis heute meinen Wandel mit durchaus reinem Gewissen im Dienste Gottes geführt.«
 ^2^ Da befahl der Hohepriester Ananias den neben ihm stehenden (Gerichtsdienern), ihn auf den Mund zu schlagen.
 ^3^ Paulus aber rief ihm zu: »Dich wird Gott schlagen, du getünchte Wand! Du sitzest da, um mich nach dem Gesetz zu richten, und läßt mich unter Verletzung des Gesetzes schlagen?«
@@ -1255,7 +1255,7 @@ __23__
 
 ##### aa) Gerichtsverhandlung vor dem Statthalter Felix
 
-__24__
+ # 24
 ^1^ Fünf Tage später kam dann der Hohepriester Ananias mit einigen Ältesten und einem Rechtsanwalt, einem gewissen Tertullus (nach Cäsarea) hinab, und sie machten die Anklage gegen Paulus beim Statthalter anhängig.
 ^2^ Nachdem man nun Paulus herbeigerufen<sup title="oder: vorgeführt">&#x2732;</sup> hatte, begann Tertullus mit der Anklagerede folgendermaßen:
 ^3^ »Hochedler Felix! Daß wir durch dein Verdienst in tiefem Frieden leben und der hiesigen Bevölkerung durch deine Fürsorge treffliche Einrichtungen allerseits und überall zuteil werden, das erkennen wir mit aufrichtiger Dankbarkeit an.
@@ -1290,7 +1290,7 @@ __24__
 
 ##### cc) Wiederaufnahme des Prozesses; Festus in Jerusalem und in Cäsarea; Paulus beruft sich auf den Kaiser
 
-__25__
+ # 25
 ^1^ Als Festus nun die Statthalterschaft in der Provinz angetreten hatte, begab er sich drei Tage später von Cäsarea nach Jerusalem hinauf.
 ^2^ Da wurden die Hohenpriester und die vornehmsten Juden bei ihm in der Sache gegen Paulus vorstellig und trugen ihm ihr Anliegen vor,
 ^3^ wobei sie es sich als besondere Vergünstigung wider ihn (Paulus) erbaten, daß er ihn nach Jerusalem bringen lasse; sie planten nämlich einen Anschlag, um ihn unterwegs zu ermorden.
@@ -1329,7 +1329,7 @@ __25__
 
 #### Verteidigungsrede des Paulus vor Agrippa
 
-__26__
+ # 26
 ^1^ Darauf sagte Agrippa zu Paulus: »Es ist dir gestattet, zu deiner Rechtfertigung zu reden.« Da streckte Paulus die Hand aus und hielt folgende Verteidigungsrede:
 ^2^ »Ich schätze mich glücklich, König Agrippa, daß ich mich heute wegen aller Beschuldigungen, welche die Juden gegen mich erheben, hier vor dir verantworten darf,
 ^3^ weil du ja ein ausgezeichneter Kenner aller Gebräuche und Streitfragen der Juden bist. Deshalb bitte ich dich, mir geduldiges<sup title="oder: geneigtes">&#x2732;</sup> Gehör zu schenken.
@@ -1373,7 +1373,7 @@ __26__
 
 #### a) Abreise; Fahrt über Sidon und Myra bis zur Insel Kreta
 
-__27__
+ # 27
 ^1^ Als nun unsere Abfahrt nach Italien beschlossen war, übergab man den Paulus und einige andere Gefangene einem Hauptmann der Kaiserlichen Abteilung<sup title="eig. Kohorte; vgl. 10,1">&#x2732;</sup> namens Julius.
 ^2^ Wir bestiegen dann ein Schiff aus Adramyttium, das die Küstenplätze der römischen Provinz Asien anlaufen sollte, und fuhren ab; in unserer Begleitung befand sich auch noch Aristarchus, ein Mazedonier aus Thessalonike.
 ^3^ Am folgenden Tage landeten wir in Sidon; und weil Julius den Paulus menschenfreundlich behandelte, erlaubte er ihm, seine (dortigen) Freunde zu besuchen und sich von ihnen mit dem nötigen Reisebedarf versorgen zu lassen.
@@ -1433,7 +1433,7 @@ __27__
 
 #### c) Überwinterung auf der Insel Malta; Weiterreise nach Rom
 
-__28__
+ # 28
 ^1^ Jetzt, nach unserer Rettung, erfuhren wir, daß die Insel Malta hieß.
 ^2^ Die fremdsprachigen Eingeborenen erwiesen uns eine außerordentliche Menschenfreundlichkeit; denn sie zündeten einen Holzstoß an und gaben uns allen wegen des eingetretenen Regens und wegen der Kälte einen Platz (am Feuer).
 

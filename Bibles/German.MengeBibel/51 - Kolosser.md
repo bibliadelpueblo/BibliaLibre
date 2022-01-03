@@ -2,7 +2,7 @@
 
 ### Zuschrift und Segensgruß
 
-__1__
+ # 1
 ^1^ Ich, Paulus, ein Apostel Christi Jesu durch Gottes Willen, und der Bruder Timotheus
 ^2^ senden unsern Gruß den in Kolossä lebenden heiligen und gläubigen Brüdern in Christus Jesus: Gnade sei mit euch und Friede von Gott, unserm Vater!
 
@@ -54,7 +54,7 @@ __1__
 
 #### d) Übergang zum zweiten Hauptteil: Der Zweck des Briefes, die Offenbarung eines Erlösungsgeheimnisses
 
-__2__
+ # 2
 ^1^ Ich will euch nämlich wissen lassen, welch schweren Kampf ich für euch und die (Brüder) in Laodizea sowie (überhaupt) für alle, denen ich bis jetzt persönlich noch unbekannt geblieben bin, zu bestehen habe.
 ^2^ Ihre Herzen sollen dadurch ermutigt werden, nachdem sie sich in Liebe fest zusammengeschlossen haben und in den ganzen Reichtum des vollen Verständnisses (eingeführt werden), zur Erkenntnis des Geheimnisses Gottes.
 ^3^ Dieses (Geheimnis) ist Christus, in welchem alle Schätze der Weisheit und Erkenntnis verborgen liegen.
@@ -98,7 +98,7 @@ __2__
 
 ##### aa) Trachtet nach oben, nicht nach dem, was auf Erden ist
 
-__3__
+ # 3
 ^1^ Seid ihr also mit Christus auferweckt worden, so suchet das, was droben ist, dort, wo Christus weilt, indem er zur Rechten Gottes thront!
 ^2^ Trachtet nach dem, was droben ist, nicht nach dem, was auf Erden ist;
 ^3^ ihr seid ja doch gestorben, und euer Leben ist zusammen mit Christus in Gott verborgen.
@@ -134,7 +134,7 @@ __3__
 ^24^ ihr wißt ja, daß ihr vom Herrn das (himmlische) Erbe als Lohn empfangen werdet: ihr dient ja dem Herrn Christus als Knechte.
 ^25^ Wer dagegen unrecht tut, wird den Lohn für das, was er Unrechtes getan hat, empfangen; da gibt es kein Ansehen der Person. –
 
-__4__
+ # 4
 ^1^ Ihr Herren, gewährt euren Knechten<sup title="= Sklaven">&#x2732;</sup> das, was recht und billig ist; ihr wißt ja, daß auch ihr einen Herrn im Himmel habt.
 
 #### c) Einzelne besondere Ermahnungen zum Gebet (besonders zur Fürbitte) und zum rechten Verhalten gegen die Nichtchristen

@@ -1,20 +1,27 @@
 # 1
-<sup>1</sup> Paulus, der Gebundene Christi Jesu, und Timotheus, der Bruder, Philemon, dem Lieben und unserem Gehilfen, <sup>2</sup> und Appia, der Lieben, und Archippus, unserem Streitgenossen, und der Gemeinde in deinem Hause: ^[**1:2** Kol 4,17] <sup>3</sup> Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus! 
+<sup class='bibleverse'>1</sup> Paulus, der Gebundene Christi Jesu, und Timotheus, der Bruder, Philemon, dem Lieben und unserem Gehilfen, <sup class='bibleverse'>2</sup> und Appia, der Lieben, und Archippus, unserem Streitgenossen, und der Gemeinde in deinem Hause: ^[**1:2** Kol 4,17] <sup class='bibleverse'>3</sup> Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus! 
 
 
-<sup>4</sup> Ich danke meinem Gott und gedenke dein allezeit in meinem Gebet, <sup>5</sup> nachdem ich höre von der Liebe und dem Glauben, welche du hast an den Herrn Jesus und gegen alle Heiligen, <sup>6</sup> dass der Glaube, den wir miteinander haben, in dir kräftig werde durch Erkenntnis alles des Guten, das ihr habt in Christo Jesu. <sup>7</sup> Wir haben aber große Freude und Trost an deiner Liebe; denn die Herzen der Heiligen sind erquickt durch dich, lieber Bruder. ^[**1:7** 2Kor 7,4] 
+
+<sup class='bibleverse'>4</sup> Ich danke meinem Gott und gedenke dein allezeit in meinem Gebet, <sup class='bibleverse'>5</sup> nachdem ich höre von der Liebe und dem Glauben, welche du hast an den Herrn Jesus und gegen alle Heiligen, <sup class='bibleverse'>6</sup> dass der Glaube, den wir miteinander haben, in dir kräftig werde durch Erkenntnis alles des Guten, das ihr habt in Christo Jesu. <sup class='bibleverse'>7</sup> Wir haben aber große Freude und Trost an deiner Liebe; denn die Herzen der Heiligen sind erquickt durch dich, lieber Bruder. 
+^[**1:7** 2Kor 7,4] 
 
 
-<sup>8</sup> Darum, wiewohl ich habe große Freudigkeit in Christo, dir zu gebieten, was dir ziemt, <sup>9</sup> so will ich doch um der Liebe willen nur vermahnen, der ich ein solcher bin, nämlich ein alter Paulus, nun aber auch ein Gebundener Jesu Christi. <sup>10</sup> So ermahne ich dich um meines Sohnes willen, Onesimus, den ich gezeugt habe in meinen Banden, <sup>11</sup> welcher vordem dir unnütz, nun aber dir und mir wohl nütze ist; den habe ich wiedergesandt. <sup>12</sup> Du aber wollest ihn, das ist mein eigen Herz, annehmen. <sup>13</sup> Denn ich wollte ihn bei mir behalten, dass er mir an deiner Statt diente in den Banden des Evangeliums; ^[**1:13** Phil 2,30] <sup>14</sup> aber ohne deinen Willen wollte ich nichts tun, auf dass dein Gutes nicht wäre genötigt, sondern freiwillig. ^[**1:14** 2Kor 9,7] <sup>15</sup> Vielleicht aber ist er darum eine Zeitlang von dir gekommen, dass du ihn ewig wieder hättest, <sup>16</sup> nun nicht mehr als einen Knecht, sondern mehr denn einen Knecht, als einen lieben Bruder, sonderlich mir, wie viel mehr aber dir, beides, nach dem Fleisch und in dem Herrn. ^[**1:16** 1Tim 6,2] 
+<sup class='bibleverse'>8</sup> Darum, wiewohl ich habe große Freudigkeit in Christo, dir zu gebieten, was dir ziemt, <sup class='bibleverse'>9</sup> so will ich doch um der Liebe willen nur vermahnen, der ich ein solcher bin, nämlich ein alter Paulus, nun aber auch ein Gebundener Jesu Christi. <sup class='bibleverse'>10</sup> So ermahne ich dich um meines Sohnes willen, Onesimus, den ich gezeugt habe in meinen Banden, <sup class='bibleverse'>11</sup> welcher vordem dir unnütz, nun aber dir und mir wohl nütze ist; den habe ich wiedergesandt. <sup class='bibleverse'>12</sup> Du aber wollest ihn, das ist mein eigen Herz, annehmen. <sup class='bibleverse'>13</sup> Denn ich wollte ihn bei mir behalten, dass er mir an deiner Statt diente in den Banden des Evangeliums; ^[**1:13** Phil 2,30] <sup class='bibleverse'>14</sup> aber ohne deinen Willen wollte ich nichts tun, auf dass dein Gutes nicht wäre genötigt, sondern freiwillig. ^[**1:14** 2Kor 9,7] <sup class='bibleverse'>15</sup> Vielleicht aber ist er darum eine Zeitlang von dir gekommen, dass du ihn ewig wieder hättest, <sup class='bibleverse'>16</sup> nun nicht mehr als einen Knecht, sondern mehr denn einen Knecht, als einen lieben Bruder, sonderlich mir, wie viel mehr aber dir, beides, nach dem Fleisch und in dem Herrn. 
+^[**1:16** 1Tim 6,2] 
   
 
-<sup>17</sup> Wenn du nun mich hältst für deinen Genossen, so wollest du ihn als mich selbst annehmen. <sup>18</sup> Wenn er aber dir etwas Schaden getan hat oder schuldig ist, das rechne mir zu. <sup>19</sup> Ich, Paulus, habe es geschrieben mit meiner Hand: Ich will's bezahlen. Ich schweige, dass du dich selbst mir schuldig bist. <sup>20</sup> Ja, lieber Bruder, gönne mir, dass ich mich an dir ergötze in dem Herrn; erquicke mein Herz in dem Herrn. 
-
-<sup>21</sup> Ich habe aus Zuversicht deines Gehorsams dir geschrieben; und ich weiß, du wirst mehr tun, denn ich sage. 
-
-<sup>22</sup> Daneben bereite mir die Herberge; denn ich hoffe, dass ich durch euer Gebet euch geschenkt werde. 
-
-<sup>23</sup> Es grüßt dich Epaphras, mein Mitgefangener in Christo Jesu, ^[**1:23** Kol 1,7; Kol 4,10-14] <sup>24</sup> Markus, Aristarchus, Demas, Lukas, meine Gehilfen. 
+<sup class='bibleverse'>17</sup> Wenn du nun mich hältst für deinen Genossen, so wollest du ihn als mich selbst annehmen. <sup class='bibleverse'>18</sup> Wenn er aber dir etwas Schaden getan hat oder schuldig ist, das rechne mir zu. <sup class='bibleverse'>19</sup> Ich, Paulus, habe es geschrieben mit meiner Hand: Ich will's bezahlen. Ich schweige, dass du dich selbst mir schuldig bist. <sup class='bibleverse'>20</sup> Ja, lieber Bruder, gönne mir, dass ich mich an dir ergötze in dem Herrn; erquicke mein Herz in dem Herrn. 
 
 
-<sup>25</sup> Die Gnade unseres Herrn Jesu Christi sei mit eurem Geist! Amen.
+<sup class='bibleverse'>21</sup> Ich habe aus Zuversicht deines Gehorsams dir geschrieben; und ich weiß, du wirst mehr tun, denn ich sage. 
+
+
+<sup class='bibleverse'>22</sup> Daneben bereite mir die Herberge; denn ich hoffe, dass ich durch euer Gebet euch geschenkt werde. 
+
+
+<sup class='bibleverse'>23</sup> Es grüßt dich Epaphras, mein Mitgefangener in Christo Jesu, ^[**1:23** Kol 1,7; Kol 4,10-14] <sup class='bibleverse'>24</sup> Markus, Aristarchus, Demas, Lukas, meine Gehilfen. 
+
+
+
+<sup class='bibleverse'>25</sup> Die Gnade unseres Herrn Jesu Christi sei mit eurem Geist! Amen.

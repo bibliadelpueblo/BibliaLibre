@@ -6,7 +6,7 @@ _(oder Weisheitslehrer)_
 
 #### a) Die Überschrift
 
-__1__
+ # 1
 ^1^(Dies sind) die Worte des Predigers, des Sohnes Davids, des Königs in Jerusalem.
 
 #### b) Die Nutzlosigkeit alles menschlichen Mühens infolge des beständigen Einerleis im Kreislauf der Dinge
@@ -41,7 +41,7 @@ __1__
 
 ### 2. Die Nutzlosigkeit des Versuchs, durch sinnliche Freuden und Lebensgenuß oder durch schöpferische Tätigkeit Befriedigung zu erlangen
 
-__2__
+ # 2
 ^1^Da dachte ich bei mir in meinem Herzen: »Wohlan denn, ich will es einmal mit der Freude und dem Lebensgenuß versuchen!« Aber siehe, auch das war nichtig.
 ^2^Vom Lachen mußte ich sagen: »Unsinn ist das!« und von der Freude: »Wozu soll die dienen?«
 ^3^Ich faßte den Entschluß, meinem Leibe mit Wein gütlich zu tun – allerdings so, daß mein Verstand die Leitung mit Besonnenheit behielte – und mich an die Torheit zu halten, bis ich sähe, was für die Menschenkinder das Beste sei, daß sie es täten unter dem Himmel während der ganzen<sup title="oder: kurzbemessenen">&#x2732;</sup> Dauer ihres Lebens.
@@ -83,7 +83,7 @@ a Hierauf wandte ich mich dazu, den Wert der Weisheit neben der Torheit und dem 
 
 #### a) Alles hat seine Zeit
 
-__3__
+ # 3
 ^1^Jegliches Ding hat seine Zeit und alles Vornehmen unter dem Himmel seine Stunde.
 ^2^Das Geborenwerden hat seine Zeit und ebenso das Sterben; das Pflanzen hat seine Zeit und ebenso das Ausraufen des Gepflanzten;
 ^3^das Töten<sup title="oder: Zerstören">&#x2732;</sup> hat seine Zeit und ebenso das Heilen; das Einreißen hat seine Zeit und ebenso das Aufbauen;
@@ -122,7 +122,7 @@ __3__
 
 #### a) Unterdrückung, Eifersucht und teils ruhelose Arbeit, teils träge Ruhe entwerten das Leben
 
-__4__
+ # 4
 ^1^Und wiederum betrachtete ich alle Bedrückungen, die unter der Sonne verübt werden; ich sah da die Tränen der Bedrückten, die keinen Tröster hatten und von seiten ihrer Bedrücker Gewalttat<sup title="oder: Mißhandlung">&#x2732;</sup> erlitten, ohne daß jemand Trost für sie hatte.
 ^2^Da pries ich die Toten, die längst gestorben sind, glücklicher als die Lebenden, die jetzt noch am Leben sind;
 ^3^aber glücklicher als beide pries ich den, der noch nicht ins Dasein getreten ist und deshalb das böse Treiben noch nicht gesehen hat, das unter der Sonne stattfindet.
@@ -152,7 +152,7 @@ __4__
 
 ^17^Gib acht auf deinen Fuß, wenn du zum Hause Gottes gehst; denn hintreten, um zu hören<sup title="oder: gehorsam zu sein">&#x2732;</sup>, ist besser, als wenn die Toren Opfer darbringen: sie wissen ja nichts weiter als Böses zu tun. –
 
-__5__
+ # 5
 ^1^Sei nicht vorschnell mit deinem Munde, und laß dich durch den Drang deines Herzens nicht dazu bringen, ein Wort vor Gott auszusprechen; denn Gott ist im Himmel, du aber bist auf der Erde; darum mache wenig Worte!
 ^2^Denn wo Vielgeschäftigkeit ist, da kommen Träume; und wo viele Worte sind, da entsteht Torengeschwätz. –
 ^3^Hast du Gott ein Gelübde dargebracht, so säume nicht, es zu erfüllen! Denn er hat kein Wohlgefallen an den Toren. Was du gelobt hast, das erfülle auch!
@@ -186,7 +186,7 @@ __5__
 
 #### a) Jemand besitzt reiche Güter, von denen er aber keinen Genuß hat
 
-__6__
+ # 6
 ^1^Es gibt einen Übelstand, den ich unter der Sonne beobachtet habe und der schwer auf dem Menschen lastet:
 ^2^Da verleiht Gott jemandem Reichtum, irdische Güter und Ehre, so daß ihm für seine Person nichts fehlt von allem, wonach er Verlangen trägt; aber Gott gestattet ihm nicht, es zu genießen, sondern ein Fremder hat den Genuß davon: das ist bedauerlich und ein schwerer Übelstand!
 ^3^Wenn jemand Vater von hundert Kindern würde und viele Jahre lebte, so daß die Zahl seiner Lebenstage groß wäre, er aber nicht dazu käme, seines Lebens froh zu werden [und ihm sogar kein Begräbnis zuteil würde], so sage ich: Besser als er ist ein Totgeborener daran.
@@ -210,7 +210,7 @@ __6__
 
 #### a) Mahnungen zu rechtem Lebensernst und zu geduldiger Ergebung in die göttlichen Fügungen
 
-__7__
+ # 7
 ^1^Besser ist ein guter Name als kostbares Salböl<sup title="= als Wohlgeruch">&#x2732;</sup>, und besser der Todestag als der Geburtstag. –
 ^2^Besser ist es, in ein Trauerhaus zu gehen, als zu einem fröhlichen Gastmahl<sup title="oder: zum Hochzeitsschmaus">&#x2732;</sup>; denn jenes weist auf das Ende aller Menschen hin, und wer noch im Leben steht, möge sich das zu Herzen nehmen!
 ^3^Besser Unmut als Lachen; denn bei ernstem Angesicht steht es gut um das Herz.
@@ -252,7 +252,7 @@ __7__
 
 #### a) Des Weisen Verhalten gegenüber dem Herrscher und in Tagen der Unterdrückung
 
-__8__
+ # 8
 ^1^Wer ist wie der Weise und wer versteht sich auf die Deutung der Dinge? Die Weisheit erleuchtet<sup title="oder: verklärt">&#x2732;</sup> das Angesicht eines Menschen, so daß die Härte seiner Gesichtszüge verwandelt wird.
 ^2^Ich sage: Beobachte das Gebot des Königs, und zwar wegen des bei Gott geleisteten Treueides.
 ^3^Übereile dich nicht, ihm aus den Augen zu gehen<sup title="= von ihm wegzugehen">&#x2732;</sup>, und laß dich auf keine böse Sache ein; denn er setzt alles durch, was er will,
@@ -282,7 +282,7 @@ __8__
 
 ### 14. Gleiches Los für alle im Leben und im Tode; die menschliche Ohnmacht gegenüber der Gottheit; gottgefälliger Lebensgenuß, ehe der Tod aller Freude und Tätigkeit ein Ziel setzt
 
-__9__
+ # 9
 ^1^Ja, auf dies alles habe ich mein Augenmerk gerichtet und dies alles mir klar zu machen gesucht, daß nämlich die Gerechten und die Weisen mit ihrem ganzen Tun in der Hand Gottes sind. Der Mensch weiß weder, ob ihm Liebe oder Haß begegnen wird: alles ist vor ihm (in der Zukunft) verhüllt.
 ^2^Dasselbe Geschick trifft alle ohne Unterschied: das gleiche Los wird allen zuteil, dem Gerechten wie dem Gottlosen, dem Reinen wie dem Unreinen, dem, der opfert, wie dem, der nicht opfert; dem Guten geht es wie dem Sünder und dem, der schwört, wie dem, der sich vor dem Schwören scheut.
 ^3^Das ist ein Übelstand bei allem, was unter der Sonne geschieht, daß allen das gleiche Geschick beschieden ist und auch daß das Herz der Menschenkinder voll Bosheit ist und Unverstand in ihrem Herzen wohnt, solange sie leben; danach aber geht’s zu den Toten.
@@ -310,7 +310,7 @@ __9__
 ^17^Worte der Weisen, die man in Ruhe anhört, sind mehr wert<sup title="oder: wirken stärker">&#x2732;</sup> als das Brüllen eines Herrschers unter Toren.
 ^18^Weisheit ist besser als Kriegsgerät; aber ein einziger Bösewicht kann viel Gutes verderben.
 
-__10__
+ # 10
 ^1^Tote Fliegen machen ranzig und trübe das Öl des Salbenmischers; so verderbt ein wenig Torheit den Wert der Weisheit. –
 ^2^Der Sinn des Weisen ist auf das Rechte gerichtet und der Sinn des Toren auf das Verkehrte;
 ^3^und wo der Tor auch gehen mag, auf Schritt und Tritt, versagt sein Verstand, so daß er sich allen Leuten als Toren zu erkennen gibt. –
@@ -337,7 +337,7 @@ __10__
 
 ### 16. Kluges und gewinnbringendes Handeln bei der Ungewißheit alles Irdischen
 
-__11__
+ # 11
 ^1^Laß dein Brot<sup title="= Geld, Vermögen">&#x2732;</sup> über das weite Meer fahren; denn nach Verlauf vieler Tage wirst du es wieder heimkommen sehen;
 ^2^doch verteile es auf sieben, ja auf acht Fahrten<sup title="oder: Unternehmungen">&#x2732;</sup>; denn du weißt nicht, was für Unglück sich auf der Erde ereignen mag. –
 ^3^Wenn die Wolken mit Regen gefüllt sind, lassen sie ihn auf die Erde strömen; und wenn ein Baum nach Süden oder nach Norden fällt, so bleibt er an der Stelle liegen, wohin er gefallen ist. –
@@ -352,7 +352,7 @@ __11__
 ^9^Freue dich, Jüngling, in deiner Jugend und laß dein Herz guter Dinge sein in den Tagen deiner Jugendzeit; wandle die Wege, zu denen dein Herz sich hingezogen fühlt, und gehe dem nach, was deine Augen erschaun; doch wisse wohl, daß Gott um dies alles Rechenschaft von dir fordern wird!
 ^10^Schlage dir den Unmut aus dem Sinn und halte dir das Leid vom Leibe fern, denn Jugend und dunkles Haar sind schnell entschwunden.
 
-__12__
+ # 12
 ^1^Und bleibe deines Schöpfers eingedenk in den Tagen deiner Jugendzeit, ehe die bösen Tage kommen und die Jahre sich einstellen, von denen du sagen wirst: »Sie gefallen mir nicht«;
 
 #### Schilderung der Gebrechen des Alters

@@ -4,7 +4,7 @@
 
 #### a) Das Fest des Perserkönigs Ahasveros (= Xerxes) in Susa für die Würdenträger und höchsten Beamten seines Reiches
 
-__1__
+ # 1
 <sup>1</sup>Es begab sich unter der Regierung des Ahasveros – desselben Ahasveros, der von Indien bis Äthiopien über hundertundsiebenundzwanzig Provinzen herrschte –,
 <sup>2</sup>zu jener Zeit also, als der König Ahasveros auf seinem Königsthron in der Burg<sup title="= Königspalast, Residenz">&#x2732;</sup> Susa saß,
 <sup>3</sup>im dritten Jahre seiner Regierung: da veranstaltete er für alle seine Fürsten und Diener<sup title="oder: Beamten">&#x2732;</sup> ein Festmahl, wobei die persischen und medischen Heerführer, die Edlen und die höchsten Beamten der Provinzen vor ihm versammelt waren,
@@ -43,7 +43,7 @@ Darüber ärgerte sich der König sehr und geriet in glühenden Zorn,
 
 #### a) Veranstaltung einer großen Brautschau für den König
 
-__2__
+ # 2
 <sup>1</sup>Als nach diesen Vorkommnissen die Aufregung des Königs Ahasveros sich gelegt hatte und er an Wasthi und ihr Verhalten und an den gegen sie gefaßten Beschluß zurückdachte,
 <sup>2</sup>sagten die Höflinge, die den König persönlich zu bedienen hatten: »Man sollte für den König junge Mädchen, Jungfrauen von besonderer Schönheit, suchen.
 <sup>3</sup>Der König möge also in allen Provinzen seines Reiches Beamte bestellen, welche alle jungen Mädchen, Jungfrauen von besonderer Schönheit, im Frauenhause der Residenz Susa zusammenbringen sollen unter die Obhut des königlichen Kammerherrn Hegai, des Aufsehers über die Frauen. Man lasse ihnen dann die zur Schönheitspflege erforderliche Behandlung zuteil werden,
@@ -83,7 +83,7 @@ __2__
 
 #### a) Hamans Beförderung zur höchsten Ehrenstellung; Mardochai verweigert ihm die Kniebeugung; Haman beschließt die Ausrottung aller Juden
 
-__3__
+ # 3
 <sup>1</sup>Nach diesen Begebenheiten erhob der König Ahasveros den Agagiten Haman, den Sohn Hammedathas, zu den höchsten Ehren und Würden und wies ihm seinen Stuhl<sup title="oder: Sitz">&#x2732;</sup> über dem aller Fürsten in seiner Umgebung<sup title="= am Hofe">&#x2732;</sup> an.
 <sup>2</sup>So mußten denn alle Diener<sup title="oder: Beamten">&#x2732;</sup> des Königs, die sich am königlichen Hofe befanden, die Knie vor Haman beugen und sich vor ihm niederwerfen<sup title="oder: verneigen">&#x2732;</sup>; denn so hatte der König es ihm zu Ehren befohlen. Mardochai aber beugte die Knie nicht und warf sich auch nicht nieder.
 <sup>3</sup>Da fragten ihn die Diener des Königs, die am Hofe des Königs waren, warum er den Befehl des Königs unbeachtet lasse.
@@ -108,7 +108,7 @@ __3__
 
 ### 4. Mardochais Trauer; sein Bemühen, Esther zur Rettung der Juden zu bewegen
 
-__4__
+ # 4
 <sup>1</sup>Als nun Mardochai alles erfuhr, was vorgegangen war, zerriß er seine Kleider, legte ein Trauergewand an und (streute sich) Asche (aufs Haupt), ging dann aus seinem Hause mitten in die Stadt hinein und wehklagte dabei laut und schmerzlich.
 <sup>2</sup>So kam er bis vor das Tor des Königs(palastes); denn in das Tor des Palastes selbst durfte man in einem Trauergewande nicht treten.
 <sup>3</sup>Auch in allen einzelnen Provinzen, überall, wohin die Verfügung und der Erlaß des Königs gelangte, herrschte bei den Juden große Trauer; man fastete, weinte und wehklagte; die meisten saßen in Sackleinen<sup title="= Trauergewändern">&#x2732;</sup> und auf Asche da.
@@ -135,7 +135,7 @@ __4__
 
 ### 5. Esthers freundliche Aufnahme beim Könige und Hamans Verblendung
 
-__5__
+ # 5
 <sup>1</sup>Am dritten Tage nun legte Esther königliche Gewandung an und trat in den inneren Vorhof des königlichen Palastes, dem Palast des Königs gegenüber, während der König eben im königlichen Palast, dem Eingang zum Palast gegenüber, auf seinem Königsthrone saß.
 <sup>2</sup>Als nun der König die Königin Esther im Vorhofe stehen sah, fand sie Gnade vor ihm, so daß er ihr das goldene Zepter entgegenstreckte, das er in der Hand hielt. Da trat Esther hinzu und berührte die Spitze des Zepters.
 <sup>3</sup>Darauf sagte der König zu ihr: »Was ist mit dir, Königin Esther, und was ist dein Begehr? Wäre es auch die Hälfte des Königreichs – sie sollte dir gegeben werden!«
@@ -162,7 +162,7 @@ Als dann der König sich mit Haman zu dem Mahl eingefunden hatte, das von Esther
 
 #### a) Des Königs Erlebnis in einer schlaflosen Nacht
 
-__6__
+ # 6
 <sup>1</sup>Als in der folgenden Nacht der König nicht schlafen konnte, ließ er sich das Buch der Denkwürdigkeiten, die Reichschronik, holen; aus dieser wurde ihm dann vorgelesen.
 <sup>2</sup>Da fand sich darin verzeichnet, daß Mardochai den Bigthana und Theres, die beiden königlichen Kammerherren aus der Zahl der Schwellenhüter, zur Anzeige gebracht hatte, weil sie mit dem Plan umgegangen waren, den König Ahasveros aus dem Wege zu räumen<sup title="vgl. 2,21-23">&#x2732;</sup>.
 <sup>3</sup>Als nun der König fragte: »Welche Ehre und Auszeichnung ist dem Mardochai dafür zuteil geworden?« und die Leibdiener, die den Dienst beim Könige hatten, ihm die Antwort gaben, es sei ihm gar keine Belohnung zuteil geworden,
@@ -188,7 +188,7 @@ __6__
 
 #### a) Esther eröffnet dem Könige beim Mahl die Mordpläne Hamans; der König erhebt sich zornerfüllt vom Mahl
 
-__7__
+ # 7
 <sup>1</sup>Als nun der König und Haman sich zum festlichen Mahl bei der Königin Esther begeben hatten,
 <sup>2</sup>sagte der König zu Esther auch am zweiten Tage beim Weintrinken: »Was ist deine Bitte, Königin Esther? Sie soll dir gewährt werden! Und was ist dein Wunsch? Wäre es auch die Hälfte des Königreichs – es soll geschehen!«
 <sup>3</sup>Da antwortete die Königin Esther mit den Worten: »Wenn ich Gnade vor dir gefunden habe, o König, und wenn es dem König genehm ist, so möge mir geschenkt werden mein Leben: das ist meine Bitte, und mein Volk: das ist mein Wunsch!
@@ -207,7 +207,7 @@ __7__
 
 #### a) Esthers Beschenkung und Mardochais Erhöhung von seiten des Königs
 
-__8__
+ # 8
 <sup>1</sup>An demselben Tage schenkte der König Ahasveros der Königin Esther das Haus des Judenfeindes Haman; Mardochai aber erhielt Zutritt beim König; denn Esther hatte dem König mitgeteilt, wie er mit ihr verwandt war.
 <sup>2</sup>Der König zog dann seinen Siegelring, den er dem Haman hatte abnehmen lassen, vom Finger ab und übergab ihn Mardochai; Esther aber übertrug dem Mardochai die Verwaltung des Hauses Hamans.
 
@@ -237,7 +237,7 @@ __8__
 
 #### a) Ausrottung der Judenfeinde am 13. Tage des Monats Adar im ganzen Reiche
 
-__9__
+ # 9
 <sup>1</sup>Im zwölften Monat nun, d.h. im Monat Adar, am dreizehnten Tage dieses Monats, als die Verfügung und der Erlaß des Königs zur Ausführung kommen sollte, an eben dem Tage, an welchem die Feinde der Juden gehofft hatten, sie zu überwältigen – die Sache wandte sich aber so, daß die Juden ihrerseits ihre Feinde überwältigten –,
 <sup>2</sup>da taten sich die Juden in ihren Städten in allen Provinzen des Königs Ahasveros zusammen, um Hand an die zu legen, welche ihnen Unheil zuzufügen gedacht hatten; und niemand konnte ihnen Widerstand leisten, denn die Furcht vor ihnen hatte sich aller Völker bemächtigt.
 <sup>3</sup>Auch alle Fürsten in den Provinzen sowie die Landpfleger und Statthalter und Beamten des Königs gewährten den Juden Unterstützung, weil die Furcht vor Mardochai sie befallen hatte;
@@ -285,7 +285,7 @@ __9__
 
 #### c) Die Machtstellung und die Verdienste Mardochais um das Wohl der Juden
 
-__10__
+ # 10
 <sup>1</sup>Der König Ahasveros legte dann dem Festlande und den Inseln des Meeres eine Abgabe auf.
 <sup>2</sup>Und alle Erweise seines gewaltigen und machtvollen Wirkens und die genaue Schilderung der hohen Stellung Mardochais, zu der ihn der König erhob, das alles findet sich bekanntlich aufgezeichnet im Buch der Denkwürdigkeiten<sup title="oder: Chronik">&#x2732;</sup> der medischen und persischen Könige.
 <sup>3</sup>Denn der Jude Mardochai war der Erste im Range nach dem König Ahasveros und hochgeachtet bei den Juden und beliebt bei der Menge seiner Volksgenossen, weil er das Beste seines Volkes suchte und für das Wohl seines ganzen Stammes eintrat.

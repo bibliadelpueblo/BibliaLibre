@@ -1,15 +1,15 @@
 chcp 65001
-..\..\bin\net6.0\bibmark.exe
+..\..\bin\Release\net6.0\bibmark.exe -replace /HErrn/[Herrn]{.smallcaps}/HErr/[Herr]{.smallcaps}
 cd tex
-@REM xelatex Biblia14ptB5
-@REM del BibliaDelPinoleroLetraGrandeB5.pdf
-@REM ren Biblia14ptB5.pdf BibliaDelPinoleroLetraGrandeB5.pdf
-xelatex Biblia11ptB5
-del BibliaDelPinoleroB5.pdf
-ren Biblia11ptB5.pdf BibliaDelPinoleroB5.pdf
+@REM xelatex Bibel14ptB5
+@REM del BibelGrossdruckB5.pdf
+@REM ren Bibel14ptB5.pdf BibelLutherGrossdruckB5.pdf
+xelatex Bibel11ptB5
+del BibelLutherGrossdruckB5.pdf
+ren Bibel11ptB5.pdf BibelLutherGrossdruckB5.pdf
 
-del ..\pdf\BibliaDelPinoleroB5.pdf
-move BibliaDelPinoleroB5.pdf ..\pdf
+del ..\pdf\BibelLutherGrossdruckB5.pdf
+move BibelLutherGrossdruckB5.pdf ..\pdf
 @REM move BibliaDelPinoleroLetraGrandeB5.pdf ..\pdf
 
 cd ..

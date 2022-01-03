@@ -2,7 +2,7 @@
 
 ### 1. Das erste Gotteswort: Die Aufforderung zum Tempelbau nebst Angabe ihres Erfolges
 
-__1__
+ # 1
 ^1^ Im zweiten Regierungsjahre des Königs Darius, am ersten Tage des sechsten Monats, erging das Wort des HERRN durch den Propheten Haggai<sup title="vgl. Esr 5">&#x2732;</sup> an Serubbabel, den Sohn Sealthiels, den Statthalter von Juda, und an den Hohenpriester Josua, den Sohn Jozadaks, folgendermaßen:
 ^2^ »So hat der HERR der Heerscharen gesprochen: Dieses Volk da sagt: ›Die Zeit, den Tempel des HERRN wieder aufzubauen, ist jetzt noch nicht gekommen!‹«
 ^3^ Daher erging das Wort des HERRN durch den Propheten Haggai folgendermaßen:
@@ -25,7 +25,7 @@ __1__
 
 Im zweiten Regierungsjahr des Königs Darius,
 
-__2__
+ # 2
 ^1^ am einundzwanzigsten Tage des siebten Monats erging das Wort des HERRN durch den<sup title="= durch Vermittlung des">&#x2732;</sup> Propheten Haggai folgendermaßen:
 ^2^ »Sage doch zu Serubbabel, dem Sohne Sealthiels, dem Statthalter von Juda, und zu dem Hohenpriester Josua, dem Sohne Jozadaks, und zu allen vom Volk Übriggebliebenen folgendes:
 ^3^ ›Wer ist unter euch noch am Leben, der diesen Tempel in seiner früheren Herrlichkeit gesehen hat, und wie seht ihr ihn heute? Nicht wahr? Wie nichts kommt er euch vor.

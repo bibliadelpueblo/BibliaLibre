@@ -1,6 +1,6 @@
 # DAS HOHELIED
 
-__1__
+ # 1
 ^1^Das Lied der Lieder, von Salomo.
 
 ### 1. Aus Sulammiths (7,1) Mädchenzeit
@@ -37,7 +37,7 @@ __1__
 
 #### b) Zweites Lied: Wechselgesang und Verlobung
 
-__2__
+ # 2
 ^1^Ich bin eine Narzisse<sup title="oder: Herbstzeitlose">&#x2732;</sup> in Saron, eine Lilie der Täler. –
 ^2^»Wie eine Lilie unter den Dornen, so ist meine Freundin inmitten der Mädchen.« –
 ^3^Wie ein Apfelbaum unter den Bäumen des Waldes, so ist mein Geliebter inmitten der Burschen; in seinem Schatten begehr’ ich zu weilen: seine Frucht ist meinem Gaumen gar süß.
@@ -66,7 +66,7 @@ __2__
 
 #### a) Erstes Lied: Sehnsuchtstraum der Braut
 
-__3__
+ # 3
 ^1^Auf meinem Lager in den Nächten, da sucht ich ihn, den meine Seele liebt: ich suchte ihn und fand ihn nicht.
 ^2^»Ich will mich doch aufmachen und die Stadt durchstreifen, in den Straßen und auf den Plätzen will ich ihn suchen, den meine Seele liebt!« Ich suchte ihn und fand ihn nicht.
 ^3^Mich trafen die Wächter, die in der Stadt umhergehn: »Habt ihr ihn nicht gesehn, den meine Seele liebt?«
@@ -84,7 +84,7 @@ __3__
 
 #### c) Drittes Lied: Beschreibung der Braut durch den Bräutigam
 
-__4__
+ # 4
 ^1^O du bist schön, meine Freundin, ja schön bist du! Deine Augen sind Taubenaugen hinter deinem Schleier hervor; dein Haar gleicht einer Ziegenherde, die vom Gileadberge herabwallt.
 ^2^Deine Zähne sind gleich einer Herde von Schafen, die frischgeschoren der Schwemme entsteigen, allesamt zwillingsträchtig und keins von ihnen kinderlos.
 ^3^Deine Lippen gleichen einer Purpurschnur, und dein Mund ist voll Anmut; wie der Spalt<sup title="oder: die Schnitte">&#x2732;</sup> eines Granatapfels schimmern die Schläfen dir hinter dem Schleier hervor.
@@ -110,7 +110,7 @@ __4__
 
 #### Der junge Gatte nimmt Besitz von seinem Garten; das Hochzeitsmahl
 
-__5__
+ # 5
 ^1^»Ich komme in meinen Garten, meine bräutliche Schwester; ich pflücke meine Myrrhe samt meinem Balsam, koste meine Wabe samt meinem Honig, ich trinke meinen Wein samt meiner Milch. Esset, ihr Freunde, trinkt und sättiget euch an Liebe!«
 
 ### 4. Eine neue, gleichartige Reihe von Liedern über Brautstand und Vermählung
@@ -136,7 +136,7 @@ __5__
 ^15^seine Beine Säulen von weißem Marmor, ruhend auf Sockeln von Feingold; seine Gestalt (ragend) wie der Libanon, großartig wie die Zedern;
 ^16^sein Gaumen<sup title="oder: Mund">&#x2732;</sup> lauter Süße und alles an ihm entzückend! Das ist mein Geliebter und das mein Freund, ihr Töchter Jerusalems!
 
-__6__
+ # 6
 ^1^»Wohin ist denn dein Geliebter gegangen, du Schönste unter den Weibern? Wohin hat dein Geliebter sich begeben, damit wir ihn mit dir suchen?«
 ^2^Mein Geliebter ist in seinen Garten hinabgegangen zu den Balsambeeten, um sich in den Anlagen zu ergehen und Lilien zu pflücken.
 ^3^Ich gehöre meinem Geliebten, und mein Geliebter gehört mir: er weidet auf der Lilienau.
@@ -158,7 +158,7 @@ __6__
 
 #### e) Fünftes Lied: Beschreibung des Schwert- (oder: Lager-)tanzes der Braut; Lobpreis ihrer Schönheit
 
-__7__
+ # 7
 ^1^Wende dich, wende dich, Sulammith!<sup title="vgl. 1.Sam 28,4">&#x2732;</sup> Wende dich, wende dich, daß wir dich beschauen! »Was wollt ihr schauen an Sulammith beim kriegerischen Tanz?«
 ^2^Wie schön sind deine Füße<sup title="oder: Schritte">&#x2732;</sup> in den Schuhen, du Fürstenkind! Die Wölbungen deiner Hüften sind wie Halsgeschmeide, ein Werk von Künstlerhand;
 ^3^dein Schoß eine runde<sup title="oder: verschlossene">&#x2732;</sup> Schale, der nie der Mischtrank fehlen darf; dein Leib ein Weizenhaufen, umsäumt von Lilien.
@@ -184,7 +184,7 @@ __7__
 
 #### Anhang (ein Lied aus der Brautzeit): Geliebter und Bruder
 
-__8__
+ # 8
 ^1^Ach, wärst du doch mein Bruder, hättest die Brust meiner Mutter gesogen! Träf’ ich dich dann auf der Straße, so dürft’ ich dich küssen, ohne daß jemand mich deshalb mißachtete.
 ^2^Ich nähme dich dann mit mir ins Haus meiner Mutter; du müßtest mich unterweisen, ich gäbe dir Würzwein zu trinken, den Most meiner Granaten. –
 ^3^Seine Linke liegt unter meinem Haupt, und seine Rechte umfängt mich.

@@ -2,7 +2,7 @@
 
 ### 1. Die Überschrift; Klage des Propheten über die trübseligen Zustände seiner Zeit und über die Verderbtheit seines Volkes
 
-__1__
+ # 1
 ^1^ (Dies ist) der Gottesspruch, den der Prophet Habakuk geschaut<sup title="= durch ein Gesicht empfangen">&#x2732;</sup> hat.
 
 ^2^ Wie lange schon, HERR, rufe ich um Hilfe, ohne daß du es hörst! Wie lange schreie ich zu dir über Gewalttat<sup title="oder: Bedrückung">&#x2732;</sup>, ohne daß du Hilfe bringst!
@@ -30,7 +30,7 @@ __1__
 
 ### 4. Habakuk erwartet die Antwort Gottes auf seine Beschwerde und erhält sie auch
 
-__2__
+ # 2
 ^1^ »Auf meine Warte will ich treten und auf dem Wachtturm mich aufstellen und will Ausschau halten, um zu erfahren, was er mir sagen wird und welche Antwort ich auf meine Beschwerde erhalte.«
 ^2^ Da antwortete mir der HERR folgendermaßen: »Schreibe die (folgende) Offenbarung nieder und grabe sie deutlich auf Tafeln ein, damit man sie mühelos lesen kann –
 ^3^ denn die (Erfüllung der) Offenbarung steht noch bis zu dem bestimmten Zeitpunkt aus, hastet<sup title="oder: strebt">&#x2732;</sup> jedoch dem Ziele zu und trügt nicht; wenn sie (mit ihrer Verwirklichung) auf sich warten läßt, so harre ihrer; denn sie trifft sicher ein und bleibt nicht aus.
@@ -65,7 +65,7 @@ __2__
 
 #### a) Lied auf die Erscheinung des Herrn zum Gericht
 
-__3__
+ # 3
 ^1^ Ein Gebet des Propheten Habakuk in bewegten Rhythmen<sup title="d.h. Takt- oder: Versmaßen">&#x2732;</sup>:
 
 ^2^ HERR, ich habe deinen Ruf vernommen: ich bin voller Furcht! HERR, verwirkliche dein Werk inmitten der Jahre<sup title="d.h. erst nach längeren Jahren">&#x2732;</sup>, mache es offenbar inmitten der Jahre! Im Zürnen<sup title="oder: trotz deines Zorns">&#x2732;</sup> bleibe des Erbarmens eingedenk!

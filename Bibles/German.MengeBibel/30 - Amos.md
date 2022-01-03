@@ -2,7 +2,7 @@
 
 ## I. Überschrift; Ankündigung des göttlichen Strafgerichts über die Völker (Kap. 1-2)
 
-__1__
+ # 1
 ^1^(Dies sind) die Worte, welche Amos, einer von den Herdenbesitzern<sup title="oder: Viehzüchtern; vgl. 7,14">&#x2732;</sup> von Thekoa<sup title="2.Sam 14,2">&#x2732;</sup>, über Israel geschaut<sup title="= in Gesichten vernommen">&#x2732;</sup> hat zur Zeit des judäischen Königs Ussia und zur Zeit des israelitischen Königs Jerobeam, des Sohnes des Joas, zwei Jahre vor dem Erdbeben.
 ^2^Es lauteten aber seine Worte so: »Wenn der HERR vom Zion her brüllt und aus Jerusalem seine Stimme<sup title="d.h. seinen Donner">&#x2732;</sup> erschallen läßt<sup title="vgl. Joel 4,16">&#x2732;</sup>, da trauern die Auen der Hirten, und der Gipfel des Karmels verdorrt.«
 
@@ -38,7 +38,7 @@ __1__
 
 #### f) Drohung gegen die Moabiter
 
-__2__
+ # 2
 ^1^So hat der HERR gesprochen: »Wegen der drei, ja vier Freveltaten der Moabiter mache ich es nicht rückgängig! Weil sie die Gebeine des Königs von Edom zu Kalk verbrannt haben,
 ^2^will ich Feuer gegen die Moabiter schleudern: das soll die Paläste von Kerioth verzehren; die Moabiter aber sollen im Getümmel umkommen beim Kriegsgeschrei, beim Schall der Posaune;
 ^3^und ich will den Richter<sup title="= Herrscher">&#x2732;</sup> aus ihrer Mitte ausrotten und alle ihre Fürsten<sup title="oder: Häuptlinge">&#x2732;</sup> zugleich mit ihm umbringen« – der HERR hat es ausgesprochen.
@@ -70,7 +70,7 @@ __2__
 
 #### a) Israels Verantwortlichkeit infolge seiner Erwählung zum Volke Gottes
 
-__3__
+ # 3
 ^1^Vernehmt dieses Wort, das der HERR gegen euch, ihr Israeliten, ausgesprochen hat, gegen das ganze Geschlecht, das ich aus Ägyptenland hergeführt habe! Es lautet so:
 ^2^»Euch allein habe ich mir aus allen Geschlechtern<sup title="= Völkern">&#x2732;</sup> des Erdbodens erwählt; darum will ich euch für alle eure Verschuldungen büßen lassen!«
 
@@ -99,7 +99,7 @@ __3__
 
 #### a) Drohung gegen die üppigen Frauen von Samaria
 
-__4__
+ # 4
 ^1^Vernehmt dies Wort, ihr Basankühe auf dem Berge Samarias, die ihr die Armen bedrückt, die Niedrigen mißhandelt, die ihr zu euren Ehemännern sagt: »Schaffe herbei, daß wir zechen!«
 ^2^Geschworen hat Gott der HERR bei seiner Heiligkeit: »Fürwahr, es sollen Tage über euch kommen, da wird man euch an Angeln wegschaffen und euren Nachwuchs<sup title="oder: was von euch übriggeblieben ist">&#x2732;</sup> an Fischerhaken.
 ^3^Durch die Mauerspalten<sup title="= Breschen">&#x2732;</sup> werdet ihr dann hinausziehen, eine jede vor sich hin (starrend), und werdet verstoßen werden zum Hermongebirge hin!« – so lautet der Ausspruch des HERRN.
@@ -128,7 +128,7 @@ __4__
 
 #### a) Amos stimmt die Totenklage über Israel an
 
-__5__
+ # 5
 ^1^Vernehmt dieses Wort, das ich als Totenklage über euch anstimme, ihr vom Hause Israel!
 ^2^Gefallen ist sie, die Jungfrau Israel, um nicht wieder aufzustehen; hingestreckt liegt sie auf ihrem eigenen Lande, niemand richtet sie wieder auf!
 ^3^Denn so hat Gott der HERR zum Hause Israel gesprochen: »Die Stadt, die mit tausend (Kriegern) ins Feld zieht, soll nur hundert übrigbehalten, und die mit hundert Mann auszieht, soll nur zehn übrigbehalten!«
@@ -176,7 +176,7 @@ __5__
 
 #### g) Das sorglose Leben der genußsüchtigen und stolzen Großen in Juda und Samaria fordert das göttliche Strafgericht heraus
 
-__6__
+ # 6
 ^1^Wehe euch Sorglosen auf dem Zion und euch Zuversichtlichen auf dem Berge von Samaria, euch Adligen des Erstlings unter den Völkern, an welche das Haus Israel sich zu wenden pflegt!
 ^2^Geht doch nach Kalne hinüber und seht es euch an, und wandert von dort weiter nach Groß-Hamath und steigt nach Gath im Philisterlande hinab: seid ihr besser als diese Reiche, oder ist euer Gebiet größer als das ihrige?
 ^3^(Wehe denen,) die den Tag des Unheils fern wähnen und doch den Stuhl der Gewalttat nahe heranrücken!
@@ -200,7 +200,7 @@ __6__
 
 ### 1. Die beiden ersten Drohgesichte (Heuschrecken und Dürre)
 
-__7__
+ # 7
 ^1^Folgendes (Gesicht) hat Gott der HERR mich schauen lassen: Ich sah, wie er Heuschrecken entstehen ließ zur Zeit, als das Spätgras aufzugehen begann, und zwar war es das Spätgras nach der Mahd des Königs<sup title="= der königlichen Wiesen">&#x2732;</sup>.
 ^2^Als sie nun alles, was auf dem Felde gewachsen war, abfraßen, da bat ich: »HERR, mein Gott, vergib doch! Wie soll Jakob bestehen? Er ist ja schon so klein!«
 ^3^Da tat dem HERRN sein Vorhaben leid: »Es soll nicht geschehen!« sprach der HERR. –
@@ -230,7 +230,7 @@ __7__
 
 #### a) Das Gesicht von dem reifen Obst
 
-__8__
+ # 8
 ^1^Folgendes (Gesicht) hat Gott der HERR mich schauen lassen: Ich sah einen Korb mit reifem Obst dastehen.
 ^2^Da fragte er mich: »Was siehst du, Amos?« Ich antwortete: »Einen Korb mit reifem Obst.« Da sagte der HERR zu mir: »Gekommen ist das Ende<sup title="oder: die Zeit der Reife">&#x2732;</sup> für mein Volk Israel: ich will fortan nicht mehr schonend an ihm vorübergehen.
 ^3^Heulen werden die Lieder<sup title="= Sänger">&#x2732;</sup> in den Palästen an jenem Tage« – so lautet der Ausspruch des HERRN –; »Leichen in Menge: an allen Orten wirft man sie hin! Still!«
@@ -257,7 +257,7 @@ __8__
 
 ### 5. Fünftes Gesicht (der Herr am Altar), bezüglich der Vernichtung des Heiligtums (in Bethel) und der Unentrinnbarkeit des kommenden Gerichts
 
-__9__
+ # 9
 ^1^Ich sah den Allherrn am Altar stehen (mit einem Hammer in der Hand), und er sprach: »»Schlage an den Säulenknauf, daß die Pfosten beben, und zerschmettere sie, daß die Trümmer ihnen allen auf den Kopf fallen! Was dann von ihnen noch übrig ist, will ich mit dem Schwert umbringen: nicht einer von ihnen soll entrinnen und kein Flüchtling von ihnen davonkommen!
 ^2^Wenn sie in die Unterwelt einbrechen, wird meine Hand sie von dort zurückholen; und wenn sie in den Himmel hinaufsteigen, will ich sie auch von dort hinabstürzen;
 ^3^wenn sie sich auf dem Gipfel des Karmels verstecken, will ich sie dort aufspüren und zurückholen; und wenn sie sich vor meinen Blicken auf dem Meeresgrunde verbergen, will ich dort der Seeschlange gebieten, sie zu beißen;

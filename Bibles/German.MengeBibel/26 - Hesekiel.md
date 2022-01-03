@@ -6,7 +6,7 @@
 
 ### 1. Einleitung: Zeit und Ort der Berufung; die Erscheinung der Herrlichkeit Gottes
 
-__1__
+ # 1
 ^1^Und es begab sich im dreißigsten Jahre im vierten Monat, am fünften Tage des Monats, als ich mich unter den in die Verbannung<sup title="oder: Gefangenschaft">&#x2732;</sup> Weggeführten am Flusse<sup title="= Kanal">&#x2732;</sup> Kebar befand: da tat sich der Himmel auf, und ich sah göttliche Gesichte.
 ^2^Am fünften Tage des Monats – es war das fünfte Jahr seit der Wegführung<sup title="= Gefangenschaft">&#x2732;</sup> des Königs Jojachin –:
 ^3^da erging das Wort des HERRN an den Priester Hesekiel, den Sohn Busis, im Lande der Chaldäer am Flusse Kebar; dort kam die Hand des HERRN über ihn.
@@ -54,7 +54,7 @@ So war das Aussehen der Erscheinung der Herrlichkeit des HERRN; und als ich sie 
 
 #### a) Hesekiels Sendung an das abtrünnige Israel
 
-__2__
+ # 2
 ^1^Und er sagte zu mir: »Menschensohn, tritt auf deine Füße; denn ich will mit dir reden.«
 ^2^Als er so zu mir sprach, kam eine Gotteskraft in mich, die mich auf meine Füße treten ließ; und ich hörte den an, der mit mir redete.
 ^3^Er sagte dann zu mir: »Menschensohn! Ich sende dich zu denen vom Hause Israel, zu den abtrünnigen Stämmen, die sich gegen mich aufgelehnt haben; sie und ihre Väter sind von mir abgefallen bis auf den heutigen Tag.
@@ -69,7 +69,7 @@ __2__
 ^9^Als ich nun hinblickte, sah ich eine Hand, die sich mir entgegenstreckte, und in ihr befand sich eine Schriftrolle.
 ^10^Er breitete sie vor mir aus, und sie war auf der Vorderseite und auf der Rückseite beschrieben; und zwar standen Klagen, Seufzer und Wehe auf ihr geschrieben.
 
-__3__
+ # 3
 ^1^Dann sagte er zu mir: »Menschensohn, iß, was du da vor dir siehst! Iß diese Schriftrolle und gehe dann hin und rede zum Hause Israel!«
 ^2^Da öffnete ich meinen Mund, und er gab mir jene Rolle zu essen;
 ^3^dabei sagte er zu mir: »Menschensohn, verschlucke diese Schriftrolle, die ich dir gebe, und fülle deinen Leib<sup title="oder: Magen">&#x2732;</sup> mit ihr!« Da aß ich sie, und sie schmeckte mir im Munde süß wie Honig.
@@ -118,7 +118,7 @@ __3__
 
 #### a) Erstes Zeichen: die belagerte Stadt Jerusalem
 
-__4__
+ # 4
 ^1^»Du aber, Menschensohn, nimm dir einen Ziegelstein, lege ihn vor dich hin und ritze auf ihm eine Stadt ein, nämlich Jerusalem.
 ^2^Dann eröffne die Belagerung gegen sie: errichte Belagerungswerke gegen sie, schütte gegen sie einen Wall auf, schlage Heerlager gegen sie auf und stelle Sturmböcke<sup title="oder: Mauerbrecher">&#x2732;</sup> ringsum gegen sie auf.
 ^3^Darauf hole dir eine eiserne Platte<sup title="oder: Bratpfanne">&#x2732;</sup> und stelle sie als eiserne Mauer zwischen dich und die Stadt hin; dann richte deine Blicke unverwandt gegen sie: so soll sie sich im Belagerungszustand befinden, und du sollst sie belagern: ein Wahrzeichen soll dies für das Haus Israel sein!«
@@ -146,7 +146,7 @@ __4__
 
 #### d) Viertes Zeichen: die völlige Vernichtung des Volkes bis auf einen geringen Rest beim Ausgang der Belagerung
 
-__5__
+ # 5
 ^1^»Du aber, Menschensohn, nimm dir ein scharfes Schwert; als Schermesser sollst du es für dich<sup title="oder: an dir">&#x2732;</sup> benutzen und mit ihm über dein Haupt und deinen Bart fahren. Sodann nimm dir eine Waage zum Abwägen und teile (die Haare) mit ihr ab:
 ^2^ein Drittel verbrenne im Feuer inmitten der Stadt, wenn die Tage der Belagerung voll sind<sup title="= zu Ende gehen">&#x2732;</sup>; das zweite Drittel nimm und schlage es mit dem Schwert rings um die Stadt her; und das letzte Drittel verstreue in den Wind; ich will dann das Schwert hinter ihnen her zücken.
 ^3^Doch nimm von diesen eine kleine Anzahl und binde sie in deinen Rockzipfel ein;
@@ -174,7 +174,7 @@ __5__
 
 ##### aa) Ankündigung völliger Vernichtung für alle Stätten des Götzendienstes
 
-__6__
+ # 6
 ^1^Weiter erging das Wort des HERRN an mich so:
 ^2^»Menschensohn, richte deine Blicke gegen die Berge Israels und sprich folgende Weissagungen gegen sie aus:
 ^3^›Ihr Berge Israels, hört das Wort Gottes, des HERRN! So spricht Gott der HERR zu den Bergen und Hügeln, zu den Rinnsalen<sup title="= Flußbetten">&#x2732;</sup> und Tälern: Fürwahr ich lasse das Schwert über euch kommen und mache eurem Höhendienst ein Ende!
@@ -198,7 +198,7 @@ __6__
 
 #### b) Ankündigung des über das Land und das Volk kommenden Endgerichts und aller seiner Schrecken
 
-__7__
+ # 7
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Du, Menschensohn, so spricht Gott der HERR zum Lande Israel: ›Ein Ende kommt! Es kommt das Ende über alle vier Enden<sup title="oder: Seiten">&#x2732;</sup> des Landes!
 ^3^Jetzt kommt das Ende über dich; ich will meinen Zorn gegen dich loslassen und dich nach deinem ganzen Tun richten und dich für alle deine Greuel büßen lassen!
@@ -234,7 +234,7 @@ __7__
 
 #### a) Einleitung
 
-__8__
+ # 8
 ^1^Es begab sich sodann im sechsten Jahre, am fünften Tage des sechsten Monats, während ich in meinem Hause saß und die Ältesten von Juda vor mir saßen, da fiel dort die Hand Gottes des HERRN auf mich;
 ^2^ich hatte ein Gesicht: Ich sah plötzlich eine Gestalt, die wie ein Mann aussah; von dem Körperteile an, der wie seine Hüften aussah, nach unten zu war’s wie Feuer, und von seinen Hüften aufwärts sah es wie Lichtglanz aus, wie der Schimmer von Glanzerz.
 ^3^Da streckte er etwas aus, das wie eine Hand gebildet war, und faßte mich bei den Locken meines Hauptes; dann hob die Gotteskraft mich zwischen Erde und Himmel empor und brachte mich im Zustand der Verzückung nach Jerusalem an den Eingang des Tores zum inneren Vorhof, das nach Norden zu liegt, woselbst das die Eifersucht des HERRN erregende Eiferbild seinen Standort hatte.
@@ -273,7 +273,7 @@ __8__
 
 #### a) Die Bezeichnung der frommen und die Niedermetzelung der gottlosen Bewohner Jerusalems
 
-__9__
+ # 9
 ^1^Hierauf hörte ich ihn mit lauter Stimme so rufen: »Es naht das Strafgericht über die Stadt! Ein jeder nehme jetzt also sein Zerstörungswerkzeug in die Hand!«
 ^2^Und siehe, da kamen sechs Männer des Weges vom oberen Tore her, das nach Norden zu liegt; ein jeder von ihnen hatte sein Werkzeug zum Zertrümmern in der Hand; einer aber befand sich unter ihnen, der in ein linnenes Gewand gekleidet war und ein Schreibzeug (am Gürtel) an seiner Hüfte<sup title="= an der Seite">&#x2732;</sup> hatte; die kamen und traten neben den ehernen Altar.
 ^3^Die Herrlichkeit des Gottes Israels aber hatte sich inzwischen von dem Cherubwagen, auf dem sie sich befunden hatte, erhoben und war auf die Schwelle des Tempels getreten; dort rief er dem in Linnen gekleideten Manne, der das Schreibzeug an seiner Hüfte hatte,
@@ -291,7 +291,7 @@ __9__
 
 #### b) Gottes Befehl zur Einäscherung der Stadt, verbunden mit nochmaliger Beschreibung des göttlichen Cherubwagens; Abzug Gottes aus dem Heiligtum
 
-__10__
+ # 10
 ^1^Als ich nun hinschaute, sah ich auf dem Himmelsgewölbe<sup title="vgl. 1,22">&#x2732;</sup>, das sich über dem Haupt der Cherube befand, etwas, das wie Saphirstein aussah: etwas wie ein Thron Gestaltetes wurde über ihnen sichtbar.
 ^2^Da gab er dem in Linnen gekleideten Manne den Befehl: »Tritt in den Raum zwischen dem Räderwerk unten am Cherubwagen hinein, fülle deine Hände mit glühenden Kohlen aus dem Raum zwischen den Cheruben und streue sie über die Stadt hin!« Da ging er vor meinen Augen hinein.
 ^3^Der Cherubwagen stand aber an der Südseite des Tempelhauses, als der Mann hineinging, während die Wolke den inneren Vorhof erfüllte.
@@ -320,7 +320,7 @@ __10__
 
 #### c) Das Gottesgericht über die schlimmsten Volksverführer; Verbannung, Umkehr und Erneuerung des Volkes; Gott verläßt die Stadt
 
-__11__
+ # 11
 ^1^Darauf hob die Gotteskraft mich empor und brachte mich an das östliche Tor am Tempel des HERRN, das nach Osten zu liegt; dort sah ich am Eingang des Tores fünfundzwanzig Männer stehen und erblickte in ihrer Mitte die Häupter<sup title="oder: Fürsten, Obersten">&#x2732;</sup> des Volkes, Jaasanja, den Sohn Assurs, und Pelatja, den Sohn Benajas.
 ^2^Da sagte er<sup title="d.h. Gott">&#x2732;</sup> zu mir: »Menschensohn, das sind die Männer, die in dieser Stadt auf Unheil sinnen und böse Ratschläge erteilen,
 ^3^die da sagen: ›Sind nicht erst kürzlich Häuser erbaut worden? Die Stadt ist der Kessel, und wir sind das Fleisch.‹
@@ -359,7 +359,7 @@ __11__
 
 #### a) Die Auswanderung des Propheten als Veranschaulichung der Wegführung von Fürst und Volk in die Verbannung (oder: Gefangenschaft)
 
-__12__
+ # 12
 ^1^Hierauf erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, du wohnst inmitten des widerspenstigen Geschlechts, das Augen hat zum Sehen und doch nicht sieht, das Ohren hat zum Hören und doch nicht hört; denn sie sind ein widerspenstiges Geschlecht.
 ^3^Darum du, Menschensohn: mache dir Auswanderungsgeräte zurecht und ziehe bei Tage vor ihren Augen aus und wandere vor ihren Augen von deiner Wohnstätte weg nach einem andern Ort: vielleicht kommen sie dann zur Erkenntnis, daß sie ein widerspenstiges Geschlecht sind.
@@ -406,7 +406,7 @@ __12__
 
 #### b) Gegen die falschen Propheten und Prophetinnen
 
-__13__
+ # 13
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, weissage gegen die Propheten Israels! Weissage und sprich zu denen, die nach eigener Eingebung weissagen: ›Hört das Wort des HERRN!
 ^3^So hat Gott der HERR gesprochen: Wehe über die gewissenlosen Propheten, die ihrem eigenen Geist nachgehen und dem, was sie gar nicht gesehen haben!
@@ -439,7 +439,7 @@ __13__
 
 #### c) Ausschluß der Götzendiener vom Gnadenmittel der Befragung Gottes
 
-__14__
+ # 14
 ^1^Es kamen aber einige von den Ältesten<sup title="oder: Vornehmsten">&#x2732;</sup> Israels zu mir und ließen sich vor mir nieder.
 ^2^Da erging das Wort des HERRN an mich folgendermaßen:
 ^3^»Menschensohn, diese Männer haben ihre Götzen in ihr Herz geschlossen und sie als Anstoß zu ihrer Verschuldung vor sich hingestellt: sollte ich mich da noch von ihnen befragen lassen?«
@@ -478,7 +478,7 @@ __14__
 
 #### a) Jerusalem das unnütze Holz der Rebe
 
-__15__
+ # 15
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, was hat das Holz der Rebe vor allem andern Holz voraus, die Weinranke, die sich unter<sup title="oder: an">&#x2732;</sup> den Bäumen des Waldes befindet?
 ^3^Nimmt man etwa Holz von ihr, um es zu einer Arbeit zu verwenden? Oder nimmt man auch nur einen Pflock von ihr, um irgendeinen Gegenstand daran aufzuhängen?
@@ -495,7 +495,7 @@ __15__
 
 ##### aa) Einleitung mit dem Hinweis, daß Jerusalem aus dem Heidentum stamme
 
-__16__
+ # 16
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, halte der Stadt Jerusalem ihre Greuel vor
 ^3^mit den Worten: ›So spricht Gott der HERR zu Jerusalem: Deiner Herkunft und Geburt nach stammst du aus dem Lande der Kanaanäer: dein Vater war ein Amoriter und deine Mutter eine Hethiterin.‹«
@@ -580,7 +580,7 @@ __16__
 
 #### c) Gleichnis vom großen Adler und treulosen Weinstock nebst Anwendung auf Zedekia; Wiederherstellung des davidischen Königtums
 
-__17__
+ # 17
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, gib dem Hause Israel ein Rätsel auf und trage ihm ein Gleichnis vor!
 ^3^Sage zu ihnen: ›So hat Gott der HERR gesprochen: Der große Adler mit großen Flügeln, mit langen Schwungfedern und voll schillernden Gefieders kam zum Libanon und nahm dort den Wipfel der Zeder weg:
@@ -616,7 +616,7 @@ __17__
 
 #### a) Einleitung und Aufstellung des maßgebenden Grundsatzes
 
-__18__
+ # 18
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Wie kommt ihr dazu, im Lande Israel diesen Spruch<sup title="= Spottvers">&#x2732;</sup> im Munde zu führen, daß ihr sagt: ›Die Väter haben saure Trauben gegessen, und den Söhnen werden die Zähne stumpf davon‹?
 ^3^So wahr ich lebe!« – so lautet der Ausspruch Gottes des HERRN –: »ihr sollt fortan diesen Spruch in Israel nicht mehr im Munde führen!
@@ -674,7 +674,7 @@ __18__
 
 #### a) Das Bild von der Löwenmutter mit ihren beiden Jungen
 
-__19__
+ # 19
 ^1^»Du aber stimme ein Klagelied an über die Fürsten Israels
 ^2^und sprich: ›Wie war doch deine Mutter eine Löwin unter Löwen! Sie hatte ihr Lager inmitten von Jungleuen, zog ihre Jungen groß.
 ^3^Eins von ihren Jungen brachte sie hoch, zum Jungleu wurde es; der lernte Raub erbeuten, Menschen fraß er.
@@ -701,7 +701,7 @@ Ein Klagelied ist dies, und es ist zum Klagelied geworden.
 
 #### a) Hesekiel hält den Ältesten die Sünden der Väter und Söhne vor
 
-__20__
+ # 20
 ^1^Im siebten Jahre, am zehnten Tage des fünften Monats, kamen einige von den Ältesten<sup title="oder: Vornehmsten">&#x2732;</sup> Israels, um den HERRN zu befragen, und sie ließen sich vor mir nieder.
 ^2^Da erging das Wort des HERRN an mich folgendermaßen:
 ^3^»Menschensohn, sprich zu den Ältesten Israels und sage zu ihnen: ›So hat Gott der HERR gesprochen: Mich zu befragen seid ihr gekommen? So wahr ich lebe: ich lasse mich von euch nicht befragen!‹ – so lautet der Ausspruch Gottes des HERRN.
@@ -776,7 +776,7 @@ __20__
 
 #### a) Das Gleichnis vom verheerenden Waldbrand (oder der Kriegslohe)
 
-__21__
+ # 21
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, richte deine Blicke nach Süden zu, predige gegen Mittag hin und weissage gegen den Wald, der im Gefilde des Südlandes liegt,
 ^3^und sprich zu dem Walde im Südland: ›Höre das Wort des HERRN! So hat Gott der HERR gesprochen: Siehe, ich will ein Feuer in dir anzünden, das soll alle saftreichen und alle dürren Bäume in dir verzehren; die lodernde Flamme soll nicht erlöschen, und alle Gesichter vom Südland bis zum Norden sollen durch sie versengt werden!
@@ -837,7 +837,7 @@ __21__
 
 #### a) Die Anklage und die Hauptklagepunkte (Blutvergießen und Götzendienst)
 
-__22__
+ # 22
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Du, Menschensohn, willst du nicht der blutbefleckten Stadt das Urteil sprechen? Willst du sie nicht richten? Halte ihr alle ihre Greuel vor
 ^3^mit den Worten: ›So hat Gott der HERR gesprochen: Wehe der Stadt, die Blut in ihrer Mitte vergossen hat, damit ihre Zeit herbeikomme<sup title="oder: um so schneller komme">&#x2732;</sup>, und die sich zu ihrem Unheil Götzen angefertigt hat, um sich zu verunreinigen!
@@ -883,7 +883,7 @@ __22__
 
 #### a) Einleitung: die beiden unzüchtigen Schwestern Ohola (d.h. Samaria) und Oholiba<sup title="d.h. Jerusalem">&#x2732;</sup>
 
-__23__
+ # 23
 ^1^Hierauf erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, es waren zwei Frauen, Töchter derselben Mutter,
 ^3^die trieben Unzucht in Ägypten und buhlten schon in ihrer Jugend; sie ließen dort ihre Brüste drücken, und dort betastete man ihnen den jungfräulichen Busen:
@@ -952,7 +952,7 @@ __23__
 
 #### a) Gleichnis vom unheilbar verrosteten Kochtopf und seinem Schicksal
 
-__24__
+ # 24
 ^1^Im neunten Jahre, am zehnten Tage des zehnten Monats, erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, schreibe dir den Namen<sup title="= das Datum">&#x2732;</sup> des Tages auf, eben dieses heutigen Tages! Gerade am heutigen Tage ist der König von Babylon vor Jerusalem gerückt!
 ^3^So trage denn dem widerspenstigen Geschlecht ein Gleichnis vor mit folgenden Worten: ›So hat Gott der HERR gesprochen: Setze den<sup title="oder: einen">&#x2732;</sup> Kochtopf aufs Feuer, setze ihn auf und gieße auch Wasser hinein;
@@ -998,7 +998,7 @@ __24__
 
 ### 1. Drohreden gegen Ammon, Moab, Edom und die Philister
 
-__25__
+ # 25
 ^1^Hierauf erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, richte deine Blicke gegen die Ammoniter und weissage gegen sie!
 ^3^Sprich zu den Ammonitern: ›Hört das Wort Gottes, des HERRN! So hat Gott der HERR gesprochen: Weil du Haha! gerufen hast über mein Heiligtum, weil es entweiht wurde, und über das Land Israel, weil es verwüstet wurde, und über das Haus Juda, weil sie in die Verbannung<sup title="oder: Gefangenschaft">&#x2732;</sup> wandern mußten:
@@ -1026,7 +1026,7 @@ __25__
 
 ##### aa) Die Schuld der Stadt und Gottes Drohung
 
-__26__
+ # 26
 ^1^Im elften Jahre, am ersten Tage des (elften) Monats, da erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, weil Tyrus über Jerusalem ausgerufen hat: ›Haha! Zertrümmert ist das Tor der Völker, mir hat es sich aufgetan: ich werde nun alles vollauf haben, weil Jerusalem zerstört ist!‹ –,
 ^3^darum spricht Gott der HERR so: ›Ich will nunmehr an dich<sup title="= gegen dich vorgehen">&#x2732;</sup>, Tyrus, und will Völker in Menge gegen dich heranführen, wie das Meer seine Wogen heranfluten läßt!
@@ -1062,7 +1062,7 @@ __26__
 
 ##### aa) Tyrus als stolzes Prachtschiff; die Herrlichkeit der Stadt, besonders als des Weltmarktes
 
-__27__
+ # 27
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Du, Menschensohn, stimme ein Klagelied über Tyrus an
 ^3^und sprich zu Tyrus: ›(O Stadt), die du wohnst am Zugang zum Meer und Handel mit den Völkern treibst nach den vielen Meeresländern hin: so hat Gott der HERR gesprochen: Tyrus, du hast gedacht: Ich bin ein Schiff, vollkommen an Schönheit!
@@ -1107,7 +1107,7 @@ __27__
 
 ##### aa) Gottes Gericht über den Hochmut des Fürsten
 
-__28__
+ # 28
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, sage zum Fürsten von Tyrus: ›So hat Gott der HERR gesprochen: Weil dein Sinn hoch hinaus wollte und du gesagt hast: Ein Gott bin ich, einen Göttersitz bewohne ich mitten im Meer! – während du doch nur ein Mensch bist und kein Gott –, und weil du dich in deinem Herzen dünktest wie ein Gott –
 ^3^natürlich bist du weiser als Daniel, nichts Verborgenes ist dunkel für dich!
@@ -1148,7 +1148,7 @@ __28__
 
 #### a) Ägyptens Untergang und spätere Wiederherstellung; Entschädigung Nebukadnezars
 
-__29__
+ # 29
 ^1^Im zehnten Jahre, am zwölften Tage des zehnten Monats, erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, richte deine Blicke gegen den Pharao, den König von Ägypten, und sprich gegen ihn und gegen ganz Ägypten folgende Weissagungen aus.«
 
@@ -1185,7 +1185,7 @@ __29__
 
 #### b) Neue Drohworte über das den Ägyptern bevorstehende göttliche Strafgericht
 
-__30__
+ # 30
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, verkünde folgende Weissagungen: ›So hat Gott der HERR gesprochen: Wehklagt! O welch ein Tag!
 ^3^Denn nahe ist der Tag, ja, nahe ist der Tag des HERRN, ein dunkelbewölkter Tag: die Endzeit<sup title="oder: Gerichtszeit">&#x2732;</sup> für die Heidenvölker wird er sein!
@@ -1228,7 +1228,7 @@ __30__
 
 #### d) Stolze Höhe und jäher Sturz des mit einer Prachtzeder verglichenen Pharaos
 
-__31__
+ # 31
 ^1^Im elften Jahre, am ersten Tage des dritten Monats, erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, richte an den Pharao, den König von Ägypten, und an sein Gepränge<sup title="vgl. 30,10">&#x2732;</sup> folgende Worte.«
 
@@ -1260,7 +1260,7 @@ __31__
 
 #### e) Klagelied auf den Pharao
 
-__32__
+ # 32
 ^1^Im zwölften<sup title="oder: elften">&#x2732;</sup> Jahre, am ersten Tage des zwölften Monats, erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, stimme ein Klagelied an über<sup title="oder: auf">&#x2732;</sup> den Pharao, den König von Ägypten, und sage zu ihm«:
 
@@ -1328,7 +1328,7 @@ __32__
 
 ##### aa) Bedeutung des Wächteramts für den Wächter und für die Landesbewohner
 
-__33__
+ # 33
 ^1^Das Wort des HERRN erging an mich folgendermaßen:
 ^2^»Menschensohn, rede zu deinen Volksgenossen und sage zu ihnen: Wenn ich das Schwert<sup title="= Krieg">&#x2732;</sup> über ein Land kommen lasse und das Volk des Landes einen Mann aus seiner Gesamtheit wählt und ihn für sich zum Wächter bestellt,
 ^3^und der sieht das Schwert<sup title="= den bewaffneten Feind">&#x2732;</sup> in das Land einbrechen und stößt in die Trompete und warnt dadurch das Volk –
@@ -1388,7 +1388,7 @@ __33__
 
 #### a) Die bisherigen pflichtvergessenen und verderblichen Hirten
 
-__34__
+ # 34
 ^1^Hierauf erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, richte deine Weissagungen gegen die Hirten Israels und sage zu ihnen: ›Zu den Hirten spricht Gott der HERR also: Wehe den Hirten Israels, die sich selbst geweidet haben! Ist’s nicht die Herde, welche die Hirten weiden sollen?
 ^3^Die Milch habt ihr genossen, mit der Wolle euch bekleidet und die fetten Tiere geschlachtet, aber meine Herde nicht geweidet.
@@ -1436,7 +1436,7 @@ __34__
 
 #### a) Vernichtung des arglistigen und räuberischen Erbfeindes Edom
 
-__35__
+ # 35
 ^1^Weiter erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Menschensohn, richte deine Blicke gegen das Gebirge Seir und verkünde folgende Weissagungen gegen dasselbe:
 ^3^›So hat Gott der HERR gesprochen: Nunmehr will ich an dich<sup title="= gegen dich vorgehen">&#x2732;</sup>, Gebirge Seir, ich will meine Hand gegen dich ausstrecken und dich zur Wüste und Einöde machen!
@@ -1458,7 +1458,7 @@ __35__
 
 ##### aa) Dem von den Feinden verhöhnten Berglande Israel wird Beseitigung seiner unrechtmäßigen Besitzer zugesagt
 
-__36__
+ # 36
 ^1^»Du aber, Menschensohn, sprich über das Bergland Israel folgende Weissagung aus: ›Ihr Berge Israels, vernehmt das Wort des HERRN!
 ^2^So hat Gott der HERR gesprochen: Weil der Feind über euch ausgerufen hat: Haha! Die Höhen sind verwüstet auf ewig, als Eigentum uns zugefallen! –,
 ^3^darum sprich folgende Weissagungen aus: So hat Gott der HERR gesprochen: Darum, ja eben darum, weil man euch angeschnaubt<sup title="= höhnisch bedroht">&#x2732;</sup> und von allen Seiten über euch gieriges Verlangen nach euch getragen hat, so daß ihr in den Besitz der noch übriggebliebenen Heidenvölker gekommen und ins Gerede der Zungen und in die üble Nachrede der Leute geraten seid –
@@ -1517,7 +1517,7 @@ __36__
 
 ##### aa) Das dem Propheten zuteil gewordene Gesicht von der Belebung der Totengebeine
 
-__37__
+ # 37
 ^1^Die Hand des HERRN kam über mich: er führte mich im Zustande der Verzückung<sup title="vgl. 11,24">&#x2732;</sup> hinaus und ließ mich mitten in der Tal-Ebene nieder, die voll von Totengebeinen war.
 ^2^Er führte mich ringsherum<sup title="= überall">&#x2732;</sup> an diesen vorüber; und siehe, es lagen ihrer sehr viele über die ganze Tal-Ebene hin, aber alle waren ganz verdorrt.
 ^3^Da fragte er mich: »Menschensohn, können wohl diese Gebeine wieder lebendig werden?« Ich antwortete: »HERR, mein Gott, du weißt es.«
@@ -1566,7 +1566,7 @@ __37__
 
 #### a) Gott selbst führt die rohen Horden Gogs aus dem Lande Magog gegen Palästina herbei
 
-__38__
+ # 38
 ^1^Das Wort des HERRN erging weiter an mich folgendermaßen:
 ^2^»Menschensohn, richte deine Blicke auf<sup title="oder: gegen">&#x2732;</sup> Gog im Lande Magog, den Fürsten von Ros, Mesech und Thubal, und sprich folgende Weissagungen über ihn aus:
 ^3^›So hat Gott der HERR gesprochen: Nunmehr will ich an dich<sup title="= gegen dich vorgehen">&#x2732;</sup>, Gog, Fürst von Ros, Mesech und Thubal!
@@ -1599,7 +1599,7 @@ __38__
 
 #### d) Nochmalige Ankündigung des Untergangs für Gog
 
-__39__
+ # 39
 ^1^»Du also, Menschensohn, sprich gegen Gog folgende Weissagungen aus: ›So hat Gott der HERR gesprochen: Wisse wohl: ich will an dich<sup title="= gegen dich vorgehen">&#x2732;</sup>, Gog, Fürst von Ros, Mesech und Thubal!
 ^2^Ich will dich herbeilocken<sup title="vgl. 38,4">&#x2732;</sup> und am Gängelbande führen und dich vom äußersten Norden heranziehen lassen und dich auf die Berge Israels kommen lassen.
 ^3^Aber (dort) will ich dir den Bogen aus der linken Hand schlagen und die Pfeile deiner rechten Hand entfallen lassen.
@@ -1648,7 +1648,7 @@ __39__
 
 #### a) Einleitung: Hesekiels Entrückung und das Erscheinen eines himmlischen Führers
 
-__40__
+ # 40
 ^1^Im fünfundzwanzigsten Jahre unserer Verbannung<sup title="oder: Gefangenschaft">&#x2732;</sup>, im Anfang des Jahres, am zehnten Tage des Monats, im vierzehnten Jahre nach der Eroberung der Stadt (Jerusalem) – an eben diesem Tage kam die Hand des HERRN über mich und brachte mich dorthin;
 ^2^im Zustand der Verzückung<sup title="vgl. 8,3">&#x2732;</sup> führte er mich ins Land Israel und ließ mich auf einem sehr hohen Berge nieder, auf dessen Südseite sich ein Bauwerk nach Art einer Stadt befand.
 ^3^Als er mich dorthin gebracht hatte, da stand dort mit einemmal ein Mann, der sah aus, als wäre er von Erz; er hatte eine leinene Schnur und einen Meßstab in der Hand und stand im Tor.
@@ -1732,7 +1732,7 @@ __40__
 
 ##### bb) Die Tempelhalle und das Allerheiligste
 
-__41__
+ # 41
 ^1^Darauf führte er mich in die Tempelhalle hinein und maß die Pfeiler: sechs Ellen Breite auf der einen wie auf der andern Seite.
 ^2^Die Breite des Eingangs betrug zehn Ellen und die der Seitenwände des Eingangs beiderseits fünf Ellen. Sodann maß er die Länge der Halle: vierzig Ellen, und die Breite: zwanzig Ellen.
 ^3^Hierauf trat er in den Innenraum hinein und maß den Pfeiler des Eingangs: zwei Ellen Breite; und die Breite des Eingangs: sechs Ellen; und die Seitenwände des Eingangs: sieben Ellen auf der einen wie auf der andern Seite.
@@ -1774,7 +1774,7 @@ Die Tempelhalle aber sowie das Allerheiligste und die äußere Vorhalle
 
 ##### aa) Die nördlichen Priesterzellen
 
-__42__
+ # 42
 ^1^Hierauf führte er mich hinaus, und zwar in den inneren Vorhof (und dann) in der Richtung nach Norden, und brachte mich zu den (beiden) Zellengebäuden, die dem eingefriedigten Platz gegenüber und dem Hintergebäude nach Norden gegenüber lagen, das eine auf dieser,
 ^2^das andere auf der andern Seite. Die Länge (der Zellengebäude) betrug hundert Ellen und die Breite fünfzig Ellen.
 ^3^Gegenüber den zwanzig Ellen des inneren Vorhofs und gegenüber dem Steinpflaster des äußeren Vorhofs lief eine Galerie vor<sup title="oder: neben">&#x2732;</sup> der andern hin in drei Stockwerken.
@@ -1810,7 +1810,7 @@ __42__
 
 ##### aa) Gottes Einzug in den neuerbauten Tempel und seine Heiligsprechung
 
-__43__
+ # 43
 ^1^Als er mich hierauf zum Tor, zu dem nach Osten gerichteten Tore, zurückgeführt hatte,
 ^2^erschien plötzlich die Herrlichkeit des Gottes Israels von Osten her; ihr Rauschen schallte wie das Rauschen gewaltiger Wasserfluten, und die Erde<sup title="oder: das Land">&#x2732;</sup> leuchtete von seiner Herrlichkeit.
 ^3^Die Erscheinung, die sich mir darbot, glich der Erscheinung, die ich geschaut hatte, als er gekommen war, um die Stadt zu vernichten, und die Erscheinung des Wagens, den ich erblickte, war dieselbe Erscheinung, die ich schon am Flusse Kebar gesehen hatte; und ich warf mich auf mein Angesicht nieder.
@@ -1851,7 +1851,7 @@ __43__
 
 ##### aa) Das äußere Osttor des Tempelbezirks und seine Bestimmung für den Fürsten
 
-__44__
+ # 44
 ^1^Hierauf führte er mich zurück in der Richtung nach dem äußeren gegen Osten gerichteten Tor des Heiligtums, das aber verschlossen war.
 ^2^Da sagte der HERR zu mir: »Dieses Tor soll verschlossen bleiben, es darf nicht geöffnet werden, und niemand darf durch dasselbe eingehen; weil der HERR, der Gott Israels, hier eingezogen ist: darum soll es verschlossen bleiben!
 ^3^Nur der Fürst darf sich, eben weil er Fürst ist, darin niedersetzen, um das Opfermahl vor dem HERRN zu halten; auf dem Wege durch die Vorhalle des Tores soll er eintreten und auf demselben Wege wieder hinausgehen!«
@@ -1901,7 +1901,7 @@ __44__
 
 ##### aa) Überweisung eines heiligen Bezirks an die Priester und die Leviten sowie eines Landanteils an die Stadt und den Fürsten
 
-__45__
+ # 45
 ^1^»Wenn ihr dann das Land zum Erbbesitz verlost, sollt ihr für den HERRN ein Hebopfer<sup title="d.h. einen Anteil am Opfer">&#x2732;</sup> vorwegnehmen, eine Weihegabe, nämlich einen Landstrich von 25000 Ellen Länge und 20000 Ellen Breite: das soll in seinem ganzen Umfange ein heiliger Bezirk sein.
 ^2^Von diesem Gebiet soll auf den Tempel entfallen ein Geviert<sup title="= Quadrat">&#x2732;</sup> von 500 Ellen Seitenlänge; und rings um dieses soll ein freier Raum von fünfzig Ellen gelassen werden.
 ^3^Weiter sollst du von jenem abgemessenen Bezirk ein Stück von 25000 Ellen Länge und 10000 Ellen Breite abmessen, auf welches das Heiligtum als Hochheiliges zu stehen kommt.
@@ -1941,7 +1941,7 @@ __45__
 
 ##### ee) Vorschriften für die Sabbat- und Neumondfeier
 
-__46__
+ # 46
 ^1^So hat Gott der HERR gesprochen: »Das Tor des inneren Vorhofs, das nach Osten zu liegt, soll während der sechs Werktage geschlossen bleiben; aber am Sabbattage und ebenso am Neumondtage soll es geöffnet werden.
 ^2^Wenn dann der Fürst durch die Vorhalle des Tores von außen her eingetreten und am Pfosten<sup title="oder: an der Schwelle">&#x2732;</sup> des Tores stehen geblieben ist, dann sollen die Priester sein Brandopfer und sein Heilsopfer darbringen; nachdem er dann auf der Schwelle des Tores die Anbetung verrichtet hat und wieder hinausgegangen ist, soll das Tor bis zum Abend unverschlossen bleiben;
 ^3^und auch das Volk des Landes soll am Eingang dieses Tores an den Sabbaten und Neumonden vor dem HERRN anbeten. –
@@ -1982,7 +1982,7 @@ __46__
 
 ### 3. Die wunderbare Tempelquelle als Segensstrom
 
-__47__
+ # 47
 ^1^Als er mich hierauf an den Eingang des Tempelhauses zurückgeführt hatte, sah ich Wasser unter der Schwelle des Tempels hervorfließen nach Osten hin – die Vorderseite des Tempels lag ja nach Osten zu –; und das Wasser floß unterhalb der südlichen Seitenwand des Tempelhauses hinab, südlich vom Altar.
 ^2^Als er mich dann durch das Nordtor hinausgeführt und mich auf dem Wege draußen zu dem äußeren, nach Osten gerichteten Tor hatte herumgehen lassen, sah ich dort Wasser von der südlichen Seitenwand herrieseln.
 ^3^Indem dann der Mann mit einer Meßschnur in der Hand nach Osten zu weiterging und nach Abmessung von tausend Ellen mich durch das Wasser gehen ließ, ging mir das Wasser bis an die Knöchel;
@@ -2019,7 +2019,7 @@ __47__
 
 ##### bb) Die sieben Stämme nördlich vom heiligen Weihebezirk
 
-__48__
+ # 48
 ^1^»Dies sind nun die Namen der Stämme: Im äußersten Norden, vom Meere an in der Richtung nach Hethlon bis dahin, wo es nach Hamath hineingeht, und bis hin nach Hazar-Enon – das Gebiet von Damaskus aber bleibt nordwärts liegen, seitwärts von Hamath –, von der Ostseite bis zur Westseite, erhält Dan ein Stammgebiet.
 ^2^Neben dem Gebiet Dans, von der Ostseite bis zur Westseite, erhält Asser ein Stammgebiet.
 ^3^Neben dem Gebiet Assers, von der Ostseite bis zur Westseite, erhält Naphthali ein Stammgebiet.

@@ -2,7 +2,7 @@
 
 ### 1. Die Überschrift; Ankündigung des vernichtenden Gerichts über die ganze Völkerwelt und besonders über Juda
 
-__1__
+ # 1
 ^1^ (Dies ist) das Wort des HERRN, das an Zephanja, den Sohn Kusis, des Sohnes Gedaljas, des Sohnes Amarjas, des Sohnes Hiskias, ergangen ist in den Tagen des judäischen Königs Josia, des Sohnes Amons.
 
 ^2^ »Wegraffen, ja wegraffen will ich alles von der Oberfläche des Erdbodens hinweg!« – so lautet der Ausspruch des HERRN –;
@@ -31,7 +31,7 @@ __1__
 
 #### a) Aufforderung zu rechtzeitiger Umkehr
 
-__2__
+ # 2
 ^1^ Gehet in euch und nehmt euch zusammen, du schamloses Volk,
 ^2^ ehe der göttliche Ratschluß sich verwirklicht – wie Spreu fährt der Tag daher –, ehe die Zornglut des HERRN über euch hereinbricht, ehe der Tag des göttlichen Zorns euch ereilt!
 ^3^ Suchet den HERRN, alle ihr Demütigen im Lande, die ihr sein Recht geübt<sup title="oder: nach seinen Geboten gehandelt">&#x2732;</sup> habt! Trachtet nach Gerechtigkeit, trachtet nach Demut: vielleicht werdet ihr Bergung<sup title="oder: Verschonung">&#x2732;</sup> finden am Zornestage des HERRN!
@@ -58,7 +58,7 @@ __2__
 
 #### a) Die traurigen Zustände in Jerusalem (besonders bei den leitenden Ständen)
 
-__3__
+ # 3
 ^1^ Wehe der ungehorsamen und beschmutzten, der gewalttätigen Stadt!
 ^2^ Sie hört auf keine Warnung, nimmt keine Zurechtweisung an; auf den HERRN vertraut sie nicht, und ihrem Gott naht sie sich nicht.
 ^3^ Ihre Fürsten<sup title="oder: Oberen">&#x2732;</sup> in ihrer Mitte sind brüllende Löwen, ihre Richter Abendwölfe<sup title="Hab 1,8">&#x2732;</sup>, die (von ihrem Raube) nichts für den Morgen übriglassen.

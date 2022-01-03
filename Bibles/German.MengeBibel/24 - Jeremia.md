@@ -6,7 +6,7 @@
 
 ### 1. Die Überschrift
 
-__1__
+ # 1
 ^1^(Dies sind) die Reden<sup title="oder: Aussprüche">&#x2732;</sup> Jeremias, des Sohnes Hilkias, der zu der Priesterschaft in Anathoth im Lande<sup title="= Stamme">&#x2732;</sup> Benjamin gehörte;
 ^2^an ihn erging das Wort des HERRN in den Tagen des jüdäischen Königs Josia, des Sohnes Amons, im dreizehnten Jahre seiner Regierung,
 ^3^und erging dann auch noch weiter an ihn in den Tagen des judäischen Königs Jojakim, des Sohnes Josias, bis zum Ablauf des elften Regierungsjahres des judäischen Königs Zedekia, des Sohnes Josias, bis zur Wegführung (der Bewohner) Jerusalems im fünften Monat (des elften Regierungsjahres Zedekias).
@@ -45,7 +45,7 @@ __1__
 
 ##### aa) Israels anfängliche Treue gegen seinen Gott und sein späterer schnöder Abfall mit seinen unheilvollen Folgen
 
-__2__
+ # 2
 ^1^Nun erging das Wort des HERRN an mich folgendermaßen:
 ^2^»Gehe hin und rufe (dem Volk in) Jerusalem laut in die Ohren: ›So hat der HERR gesprochen: Ich gedenke an die Holdseligkeit<sup title="oder: Zuneigung">&#x2732;</sup> deiner Jugend, deine bräutliche Liebe, wie du hinter mir herzogst in der Wüste, im unwirtlichen Lande.
 ^3^Geheiligt war Israel (damals) dem HERRN, sein Erstlingsabhub von der Ernte; alle, die sich an ihm vergriffen, mußten es büßen: Unheil kam über sie‹« – so lautet der Ausspruch des HERRN.
@@ -101,7 +101,7 @@ __2__
 
 ##### ff) Ist eine Wiederannahme des durch Götzendienst geschändeten Volkes überhaupt noch möglich?
 
-__3__
+ # 3
 ^1^Er fuhr dann fort: »Wenn ein Mann seine Ehefrau entläßt und diese von ihm weggegangen und die Frau eines andern Mannes geworden ist, darf sie dann wieder zu ihm zurückkehren?<sup title="vgl. 5.Mose 24,1-4">&#x2732;</sup> Würde nicht das betreffende Land dadurch ganz entweiht werden? Du aber hast schon mit vielen Liebhabern Ehebruch getrieben und solltest doch zu mir zurückkehren dürfen?« – so lautet der Ausspruch des HERRN.
 ^2^»Erhebe doch deine Augen zu den kahlen Höhen und halte Umschau: wo hast du dich nicht schänden lassen? An den Wegen hast du gesessen und ihnen aufgelauert wie ein Araber in der Wüste und hast das Land entweiht durch deine Buhlerei und deine Verworfenheit!
 ^3^Und ob dir auch die Regenschauer (von mir) vorenthalten wurden und der Spätregen<sup title="= Frühlingsregen">&#x2732;</sup> ausblieb, behieltest du doch die Stirn eines buhlerischen Weibes bei und wolltest nicht in dich gehen.
@@ -145,7 +145,7 @@ __3__
 
 ##### ee) Verheißung der Wiederannahme nach aufrichtiger Buße
 
-__4__
+ # 4
 ^1^»Wenn du umkehrst, Israel« – so lautet der Ausspruch des HERRN –, »sollst du zu mir zurückkehren dürfen; und wenn du deine greulichen Götzen mir aus den Augen schaffst, sollst du nicht verstoßen werden;
 ^2^und wenn du ›So wahr der HERR lebt!‹ in Wahrheit, in Treue und Aufrichtigkeit schwörst, sollen die Heidenvölker mit deinem Namen sich segnen und dein Glück sich wünschen!«
 ^3^Denn so hat der HERR zu den Männern von Juda und zu den Bewohnern Jerusalems gesprochen: »Brecht euch einen Neubruch<sup title="= brecht das Brachland eurer Herzen um">&#x2732;</sup> und säet nicht in die Dornen hinein!
@@ -195,7 +195,7 @@ __4__
 
 ##### bb) Die grauenvolle Verderbnis des gesamten Volkes in Jerusalem nötigt den Herrn zum schonungslosen Vollzug der Strafe durch den furchtbaren Feind
 
-__5__
+ # 5
 ^1^Streift in den Straßen Jerusalems umher und seht euch um! Erkundigt euch und sucht auf den Plätzen der Stadt, ob ihr jemand findet, ob einer da ist, der Recht übt, der auf Treue<sup title="oder: Redlichkeit">&#x2732;</sup> hält: dann will ich ihr vergeben.
 ^2^Aber wenn sie auch sagen: »So wahr der HERR lebt!«, so schwören sie darum doch falsch.
 ^3^Sind denn deine Augen, HERR, nicht auf Treue<sup title="oder: Ehrlichkeit">&#x2732;</sup> gerichtet? Du hast sie zwar geschlagen, aber es hat ihnen nicht wehe getan; du hast sie der Vernichtung preisgegeben, aber sie haben keine Zucht annehmen wollen: sie haben ihr Angesicht härter gemacht als Felsgestein und eine Umkehr von sich gewiesen.
@@ -247,7 +247,7 @@ __5__
 
 ##### hh) Erneute Ankündigung des bevorstehenden Krieges; neue Schilderung der Größe des inneren Schadens
 
-__6__
+ # 6
 ^1^Flüchtet, ihr Benjaminiten, aus Jerusalem hinweg, stoßt zu Thekoa in die Trompete und richtet ein Sturmzeichen über Beth-Kerem auf! Denn Unheil droht von Norden her, und zwar eine gewaltige Zerschmetterung:
 ^2^die Liebliche und Verwöhnte, die Tochter Zion, will ich vertilgen.
 ^3^Auf sie zu kommen Hirten gezogen mitsamt ihren Herden, schlagen Zelte ringsum gegen sie auf und weiden ein jeder sein Teil<sup title="= seinen Bereich">&#x2732;</sup> ab.
@@ -298,7 +298,7 @@ __6__
 
 ##### aa) Gegen den rein äußerlichen Gottesdienst und den offenkundigen Ungehorsam des Volkes
 
-__7__
+ # 7
 ^1^Das Wort, das vom HERRN an Jeremia ergangen ist, lautet folgendermaßen:
 ^2^»Stelle dich auf im Tor des Hauses des HERRN und halte dort mit lauter Stimme folgende Ansprache: Vernehmt das Wort des HERRN, ihr Judäer alle, die ihr durch diese Tore eintretet, um den HERRN anzubeten!
 ^3^So hat der HERR der Heerscharen, der Gott Israels, gesprochen: Bessert euren Wandel und euer ganzes Tun, so will ich euch an diesem Orte wohnen lassen!
@@ -350,7 +350,7 @@ __7__
 
 ##### ff) Das schmähliche Los der Götzendiener nach der Eroberung des Landes
 
-__8__
+ # 8
 ^1^»Zu jener Zeit« – so lautet der Ausspruch des HERRN – »wird man die Gebeine der Könige von Juda und die Gebeine seiner Fürsten<sup title="oder: Oberen">&#x2732;</sup>, die Gebeine der Priester und Propheten und (überhaupt) die Gebeine der Bewohner Jerusalems aus ihren Gräbern herausholen
 ^2^und wird sie hinbreiten vor der Sonne und dem Mond und vor dem ganzen Heer der Gestirne, welche sie geliebt und verehrt haben und denen sie nachgelaufen sind, die sie befragt und angebetet haben; man wird sie dann nicht wieder sammeln noch begraben, nein, zu Dünger sollen sie auf offenem Felde werden!
 ^3^Und der ganze Rest, der von diesem bösen Geschlecht noch übriggeblieben ist, wird lieber sterben als leben wollen an allen Orten, wohin ich sie verstoßen haben werde« – so lautet der Ausspruch Gottes, des HERRN der Heerscharen.
@@ -391,7 +391,7 @@ __8__
 
 ##### kk) Jeremia verzweifelt an seinem sittlich zerrütteten Volke
 
-__9__
+ # 9
 ^1^O hätte ich doch eine Wanderer-Herberge<sup title="= Ruhestatt">&#x2732;</sup> fern in der Wüste, so wollte ich mein Volk verlassen und von ihnen weggehen! Denn sie sind allesamt Ehebrecher, eine Gesellschaft von Treulosen<sup title="oder: Betrügern">&#x2732;</sup>.
 ^2^»Sie spannen ihre Zunge wie einen Bogen: mit Lüge und nicht durch Wahrhaftigkeit schalten sie als Herren im Lande; denn von einer Bosheit schreiten sie zur andern fort, mich aber kennen sie nicht!« – so lautet der Ausspruch des HERRN.
 ^3^Seid auf der Hut, ein jeder vor seinem Freunde, und schenkt auch keinem Bruder Vertrauen! Denn jeder Bruder übt Lug und Trug, und jeder Freund geht auf Verleumdung aus;
@@ -439,7 +439,7 @@ __9__
 
 #### b) Die Nichtigkeit der Götzen und die Erhabenheit des allein wahren Gottes
 
-__10__
+ # 10
 ^1^Vernehmt das Wort, das der HERR euch verkünden läßt, ihr vom Hause Israel!
 ^2^So hat der HERR gesprochen: »Gewöhnt euch nicht an den Weg<sup title="= die Weise">&#x2732;</sup> der Heidenvölker und laßt euch nicht durch die Zeichen am Himmel erschrecken, weil<sup title="oder: wennschon">&#x2732;</sup> die Heidenvölker vor ihnen erschrecken!
 ^3^Denn der Gottesdienst der Heidenvölker ist nichts als Wahn: ein Stück Holz ist es ja, das man im Walde gehauen hat, ein Werk von Künstlerhänden, mit dem Schnitzmesser hergestellt.
@@ -483,7 +483,7 @@ __10__
 
 ##### aa) Das Band zwischen Gott und dem Volk ist zerschnitten
 
-__11__
+ # 11
 ^1^Das Wort, das an Jeremia vom HERRN erging, lautete folgendermaßen:
 ^2^»Vernehmet die Worte dieses Bundes und verkündet sie den Männern von Juda und besonders den Bewohnern Jerusalems
 ^3^und sage du noch folgendes zu ihnen: So hat der HERR, der Gott Israels, gesprochen: ›Verflucht ist jeder, der den Bestimmungen dieses Bundes nicht nachkommt,
@@ -524,7 +524,7 @@ __11__
 
 ##### aa) Jeremias Anfrage an Gott bezüglich des Glücks der Gottlosen
 
-__12__
+ # 12
 ^1^»Du behältst recht, HERR, wenn ich mit dir streite, und doch möchte ich über (dein) richterliches Walten mit dir reden: Warum ist das Tun und Lassen der Gottlosen erfolgreich, und warum bleiben alle, die treulos handeln, unangefochten?
 ^2^Du selbst pflanzest sie ein, sie schlagen auch Wurzel; sie gedeihen und bringen auch Frucht: nahe bist du ihnen ihrem Munde nach, doch fern von ihrem Herzen<sup title="vgl. Jes 29,13">&#x2732;</sup>.
 ^3^Du aber, HERR, du kennst mich durch und durch und hast erprobt, wie mein Herz zu dir steht: raffe sie hinweg wie Schafe zur Schlachtung und weihe sie für den Tag, an dem sie abgetan werden!
@@ -556,7 +556,7 @@ __12__
 
 ##### aa) Gleichnis (d.h. sinnbildliche Handlung) vom linnenen Gürtel
 
-__13__
+ # 13
 ^1^So hat der HERR zu mir gesprochen: »Gehe hin und kaufe dir einen linnenen Gürtel und lege ihn dir um die Hüften, aber laß ihn nicht ins Wasser geraten!«
 ^2^Da kaufte ich den Gürtel nach dem Befehl des HERRN und legte ihn mir um die Hüften.
 ^3^Hierauf erging das Wort des HERRN zum zweitenmal an mich folgendermaßen:
@@ -604,7 +604,7 @@ __13__
 
 #### a) Schilderung der großen Dürre
 
-__14__
+ # 14
 ^1^(Dies ist) das Wort des HERRN, das an Jeremia erging aus Anlaß der großen Dürre:
 ^2^»Juda trauert, und in seinen Toren verschmachten (die Menschen), liegen im Trauergewand am Boden, und Jerusalems Wehgeschrei steigt empor!
 ^3^Die Vornehmen unter ihnen schicken ihre Diener nach Wasser aus; aber wenn diese an die Brunnen<sup title="d.h. Zisternen">&#x2732;</sup> gekommen sind, finden sie kein Wasser und kehren mit leeren Gefäßen heim: enttäuscht und bestürzt sind sie und verhüllen ihr Haupt.
@@ -643,7 +643,7 @@ __14__
 
 #### f) Nochmalige Zurückweisung einer Fürbitte Jeremias und neue Drohung Gottes
 
-__15__
+ # 15
 ^1^Aber der HERR antwortete mir: »Wenn auch Mose und Samuel vor mich träten, würde mein Herz sich doch diesem Volke nicht zuwenden: schaffe sie mir aus den Augen, sie sollen weggehen!
 ^2^Wenn sie dich dann fragen: ›Wohin sollen wir gehen?‹, so antworte ihnen: ›So hat der HERR gesprochen: Wer für den Tod<sup title="d.h. die Pest">&#x2732;</sup> bestimmt ist, gehe zum Tode! Wer für das Schwert (bestimmt ist), zum Schwerte! Wer für den Hunger, zum Hunger! Und wer für die Gefangenschaft, zur Gefangenschaft!‹
 ^3^Denn ich will vier Arten (von Verderbern) gegen sie aufbieten« – so lautet der Ausspruch des HERRN –: »das Schwert zum Morden, die Hunde zum Zerren<sup title="oder: Fortschleppen">&#x2732;</sup>, die Vögel des Himmels und die Tiere des Feldes zum Fressen und zum Vertilgen
@@ -682,7 +682,7 @@ __15__
 
 ##### aa) Jeremia soll keine Familie begründen
 
-__16__
+ # 16
 ^1^Das Wort des HERRN erging dann an mich folgendermaßen:
 ^2^»Du sollst dir kein Weib nehmen und weder Söhne noch Töchter an diesem Orte haben!«
 ^3^Denn so hat der HERR gesprochen in betreff der Söhne und Töchter, die an diesem Orte geboren werden, und in betreff ihrer Mütter, die sie gebären, und in betreff ihrer Väter, die sie in diesem Lande zeugen:
@@ -724,7 +724,7 @@ __16__
 
 ##### aa) Judas unverzeihliche Schuld und Gottes schwere Strafe
 
-__17__
+ # 17
 ^1^Die Sünde Judas ist aufgeschrieben mit eisernem Griffel, mit diamantener Spitze eingegraben in die Tafel ihres Herzens und an die Hörner ihrer Altäre.
 ^2^Wie ihrer Kinder, so gedenken sie ihrer Altäre und ihrer Ascheren<sup title="= Astartebilder">&#x2732;</sup> bei den dichtbelaubten Bäumen, auf den hohen Hügeln.
 ^3^»Meinen Berg im Gefilde, deine Habe, alle deine Schätze gebe ich der Plünderung preis, deine Höhen als Entgelt für deine Versündigung in allen Teilen deines Gebiets.
@@ -773,7 +773,7 @@ __17__
 
 #### a) Des Töpfers Arbeit als Sinnbild des göttlichen Waltens über dem Geschick der Völker
 
-__18__
+ # 18
 ^1^Das Wort, welches an Jeremia vom HERRN erging, lautete folgendermaßen:
 ^2^»Mache dich auf und gehe in das Haus des Töpfers hinab, denn dort will ich dir meine Weisungen kundtun!«
 ^3^So ging ich denn in das Haus des Töpfers hinab und fand ihn gerade mit einer Arbeit auf der Töpferscheibe beschäftigt;
@@ -807,7 +807,7 @@ __18__
 
 #### c) Der Greuel des Thopheth; die Vernichtung Judas sinnbildlich durch die Zerschmetterung eines Kruges angekündigt
 
-__19__
+ # 19
 ^1^So hat der HERR zu mir gesprochen: »Gehe hin und kaufe dir beim Töpfer einen Krug, nimm dann einige von den Ältesten<sup title="oder: Vornehmsten">&#x2732;</sup> des Volkes und von den vornehmsten Priestern mit dir
 ^2^und gehe in das Tal Ben-Hinnom<sup title="vgl. 2,23">&#x2732;</sup> hinaus, das vor dem Eingang des Scherbentors liegt, und rufe dort laut die Worte aus, die ich dir sagen werde!
 ^3^So sprich zu ihnen: Vernehmt das Wort des HERRN, ihr Könige von Juda und ihr Bewohner Jerusalems! So hat der HERR der Heerscharen, der Gott Israels, gesprochen: ›Wisset wohl: ich will Unheil über diesen Ort bringen, daß jedem, der davon hört, die Ohren gellen sollen!
@@ -827,7 +827,7 @@ __19__
 ^14^Als Jeremia dann vom Thopheth, wohin der HERR ihn zur Verkündigung des Prophetenspruchs gesandt hatte, zurückkehrte, trat er in den Vorhof des Tempels des HERRN und sprach zum ganzen Volk:
 ^15^»So hat der HERR der Heerscharen, der Gott Israels, gesprochen: ›Wisset wohl: ich will über diese Stadt und über sämtliche Ortschaften, die zu ihr gehören, all das Unheil kommen lassen, das ich ihr angedroht habe! denn sie haben sich halsstarrig gezeigt, um auf meine Worte nicht zu hören.‹«
 
-__20__
+ # 20
 ^1^Als aber der Priester Pashur, der Sohn Immers, der damalige Oberaufseher im Tempel des HERRN, Jeremia diese Weissagung aussprechen hörte,
 ^2^ließ er den Propheten Jeremia stäupen und ihn in den Block legen<sup title="oder: schließen">&#x2732;</sup>, der sich im Benjaminstor, dem oberen Tor am Tempel des HERRN, befand.
 ^3^Am folgenden Morgen aber, als Pashur den Jeremia aus dem Block freigelassen hatte, sagte Jeremia zu ihm: »Nicht Pashur nennt der HERR hinfort deinen Namen, sondern ›Grauen ringsum‹!
@@ -858,7 +858,7 @@ __20__
 
 ##### aa) Unheilvolle Antwort Jeremias an Zedekias Gesandte und Mahnungen an das Volk während der Belagerung Jerusalems
 
-__21__
+ # 21
 ^1^(Dies ist) das Wort, das vom HERRN an Jeremia erging, als der König Zedekia Pashur, den Sohn Malkijas, und den Priester Zephanja, den Sohn Maasejas, zu ihm gesandt hatte mit dem Auftrage:
 ^2^»Befrage doch den HERRN für uns! Denn Nebukadnezar, der König von Babylon, führt Krieg mit uns<sup title="= belagert uns">&#x2732;</sup>; vielleicht tut der HERR wie schon oft ein Wunder an uns, daß jener von uns abziehen muß!«
 
@@ -886,7 +886,7 @@ __21__
 
 ##### ee) Warnung an das Königshaus von Juda; Ankündigung des Gerichts über die Könige Sallum (= Joahas) und Jojakim
 
-__22__
+ # 22
 ^1^So hat der HERR zu mir gesprochen: »Gehe zum Palast des Königs von Juda hinab und richte dort folgende Botschaft aus:
 ^2^›Vernimm das Wort des HERRN, König von Juda, der du auf dem Throne Davids sitzest, du samt deinen Dienern und deinen Untertanen, die ihr durch diese Tore (der Königsburg) eingeht!
 ^3^So hat der HERR gesprochen: Laßt Recht und Gerechtigkeit walten, rettet den Beraubten aus der Hand des Gewalttätigen, bedrückt und vergewaltigt keinen Fremdling, keine Waise und Witwe und vergießt kein unschuldiges Blut an diesem Ort!
@@ -938,7 +938,7 @@ __22__
 
 ##### kk) Weheruf über die untreuen Hirten und Verheißung des wahren Hirten aus dem Hause Davids
 
-__23__
+ # 23
 ^1^»Wehe den Hirten, welche die Schafe meiner Weide zugrunde richten und sich zerstreuen lassen!« – so lautet der Ausspruch des HERRN.
 ^2^Darum hat der HERR, der Gott Israels, in betreff der Hirten, die mein Volk weiden, so gesprochen: »Ihr seid es, die meine Schafe zerstreut und versprengt und nicht acht auf sie gegeben haben; darum will ich euch jetzt wegen der Bosheit eures ganzen Tuns zur Rechenschaft ziehen!« – so lautet der Ausspruch des HERRN.
 ^3^»Ich selbst will aber auch den Überrest meiner Herde aus all den Ländern, wohin ich sie versprengt habe, sammeln und sie auf ihre Trift zurückführen: da werden sie fruchtbar sein und gedeihen.
@@ -1001,7 +1001,7 @@ __23__
 
 #### i) Das Gesicht von den zwei Feigenkörben und die Bedeutung der Körbe
 
-__24__
+ # 24
 ^1^Der HERR hat mich (folgendes Gesicht) schauen lassen: Ich gewahrte zwei Körbe mit Feigen, die vor dem Tempel des HERRN aufgestellt waren – nachdem Nebukadnezar, der König von Babylon, Jechonja<sup title="= Jojachin">&#x2732;</sup>, den Sohn Jojakims, den König von Juda, und die Oberen<sup title="oder: Fürsten">&#x2732;</sup> von Juda samt den Schmieden und Schlossern aus Jerusalem in die Gefangenschaft geführt und sie nach Babylon gebracht hatte.
 ^2^Der eine Korb enthielt sehr gute Feigen, wie Frühfeigen zu sein pflegen; in dem andern Korbe aber befanden sich sehr schlechte Feigen, die wegen ihrer schlechten Beschaffenheit ungenießbar waren.
 
@@ -1019,7 +1019,7 @@ __24__
 
 ##### aa) Zeitangabe; Jeremias Hinweis auf seine 23jährige erfolglose Wirksamkeit
 
-__25__
+ # 25
 ^1^(Dies ist) das Wort, das an Jeremia über das ganze Volk Juda ergangen ist im vierten Regierungsjahre Jojakims, des Sohnes Josias, des Königs von Juda – es war dies das erste Regierungsjahr Nebukadnezars, des Königs von Babylon –;
 ^2^der Prophet Jeremia hat dies Wort an das ganze Volk von Juda und an alle Einwohner Jerusalems gerichtet, indem er sprach:
 
@@ -1077,7 +1077,7 @@ __25__
 
 ##### aa) Einleitung; Angabe des Hauptinhalts der Rede; Gefangennahme Jeremias
 
-__26__
+ # 26
 ^1^Im Anfang der Regierung Jojakims, des Sohnes Josias, des Königs von Juda, erging folgendes Wort des HERRN (an Jeremia):
 ^2^So spricht der HERR: »Stelle dich auf im Vorhof des Tempels des HERRN und verkünde denen, die aus allen Ortschaften Judas herkommen, um im Tempel des HERRN anzubeten, alle Worte, deren Verkündigung ich dir geboten habe: laß kein Wort davon weg!
 ^3^Vielleicht hören sie darauf und bekehren sich, ein jeder von seinem bösen Wandel; dann würde ich mir auch das Unheil leid sein lassen, das ich ihnen wegen ihres bösen Tuns zuzufügen gedenke.
@@ -1118,7 +1118,7 @@ __26__
 
 ##### aa) Jeremia, mit dem Joch auf dem Nacken, warnt die Gesandten einiger auswärtigen Staaten
 
-__27__
+ # 27
 ^1^Im Anfang der Regierung Zedekias, des Sohnes Josias, des Königs von Juda, erging folgendes Wort an Jeremia vom HERRN:
 ^2^so gebot mir der HERR: »Mache dir Stricke und Jochstäbe und lege sie dir auf den Nacken
 ^3^und sende (Botschaft) an den König von Edom sowie an den König von Moab, an den König der Ammoniter, an den König von Tyrus und an den König von Sidon durch Vermittlung der Gesandten, die nach Jerusalem zu Zedekia, dem König von Juda, gekommen sind,
@@ -1152,7 +1152,7 @@ __27__
 
 ##### aa) Hananjas Ausspruch und Jeremias Antwort
 
-__28__
+ # 28
 ^1^Es begab sich aber in demselben Jahre, im Anfang der Regierung Zedekias, des Königs von Juda, im fünften Monat des vierten Jahres, da sagte der Prophet Hananja, der Sohn Assurs aus Gibeon, im Tempel des HERRN in Gegenwart der Priester und des ganzen Volkes so zu mir:
 ^2^»So hat der HERR der Heerscharen, der Gott Israels, gesprochen: ›Ich zerbreche das Joch des Königs von Babylon!
 ^3^Noch vor Ablauf von zwei Jahren will ich alle Tempelgeräte des HERRN, die Nebukadnezar, der König von Babylon, von dieser Stätte weggenommen und nach Babylon gebracht hat, wieder an diese Stätte zurückbringen;
@@ -1181,7 +1181,7 @@ __28__
 
 ##### aa) Erklärende Einleitung
 
-__29__
+ # 29
 ^1^Dies ist der Wortlaut des Schreibens, das der Prophet Jeremia von Jerusalem aus an die am Leben gebliebenen Ältesten unter den in die Gefangenschaft Weggeführten und an die Priester und Propheten und überhaupt an das gesamte Volk sandte, das Nebukadnezar von Jerusalem nach Babylon in die Gefangenschaft geführt hatte –
 ^2^nachdem der König Jechonja und die Königin-Mutter nebst den Hofbeamten, den Fürsten<sup title="oder: Oberen">&#x2732;</sup> von Juda und Jerusalem, den Schmieden und Schlossern aus Jerusalem weggezogen waren –,
 ^3^und zwar durch Vermittlung Eleasas, des Sohnes Saphans, und Gemarjas, des Sohnes Hilkias, die Zedekia, der König von Juda, nach Babylon zu Nebukadnezar, dem König von Babylon, sandte.
@@ -1231,7 +1231,7 @@ __29__
 
 #### a) Einleitung: Jeremia soll alle an ihn ergangenen Gottesworte aufzeichnen
 
-__30__
+ # 30
 ^1^Das Wort, das vom HERRN an Jeremia erging, lautete folgendermaßen:
 ^2^So spricht der HERR, der Gott Israels: »Schreibe dir alle Worte, die ich zu dir geredet habe, in ein Buch!
 ^3^Denn wisse wohl: es kommt die Zeit« – so lautet der Ausspruch des HERRN –, »da werde ich das Geschick meines Volkes Israel und Juda wenden« – so spricht der HERR – »und sie in das Land zurückführen, das ich ihren Vätern gegeben habe: sie sollen es (wieder) in Besitz nehmen.«
@@ -1275,7 +1275,7 @@ __30__
 
 #### g) Die Begegnung Gottes und Israels in der Wüste; die hoffnungsreichen Begrüßungsworte
 
-__31__
+ # 31
 ^1^»In jener Zeit« – so lautet der Ausspruch des HERRN – »will ich der Gott sein für alle Geschlechter Israels, und sie sollen mein Volk sein.«
 ^2^So hat der HERR gesprochen: »Das Volk der dem Schwert Entronnenen hat Gnade gefunden in der Wüste: ich will hingehen, um Israel zu seiner Ruhestätte zu führen!«
 ^3^Von fern her ist der HERR mir erschienen: »Ja, mit ewiger Liebe habe ich dich geliebt; darum habe ich dir meine Gnade<sup title="oder: Güte">&#x2732;</sup> so lange treu bewahrt.
@@ -1358,7 +1358,7 @@ __31__
 
 #### a) Jeremia kauft als Gefangener nach Gottes Weisung einen Acker in Anathoth
 
-__32__
+ # 32
 ^1^(Dies ist) das Wort, das vom HERRN an Jeremia erging im zehnten Regierungsjahr des judäischen Königs Zedekia – dieses Jahr war das achtzehnte Regierungsjahr Nebukadnezars.
 ^2^Damals belagerte nämlich das Heer des Königs von Babylon Jerusalem, und der Prophet Jeremia wurde im Wachthof, der zum Palast des Königs von Juda gehörte, in Haft gehalten.
 ^3^Denn Zedekia, der König von Juda, hatte ihn dort gefangengesetzt mit dem Vorhalt: »Warum trittst du als Prophet auf und sagst: ›So hat der HERR gesprochen: Fürwahr, ich will diese Stadt in die Gewalt des Königs von Babylon geben, daß er sie erobert;
@@ -1416,7 +1416,7 @@ __32__
 
 #### a) Heilsweissagungen für Jerusalem und Juda
 
-__33__
+ # 33
 ^1^Hierauf erging das Wort des HERRN zum zweitenmal an Jeremia, während er noch im Wachthof eingeschlossen gehalten wurde, folgendermaßen:
 ^2^»So spricht der HERR, der (alles) ausführt, der HERR, der es ersinnt, um es auch zu verwirklichen, ›HERR‹ ist sein Name:
 ^3^Rufe mich an, so will ich dich erhören und dir große und unglaubliche<sup title="oder: geheime">&#x2732;</sup> Dinge kundtun, von denen du bisher nichts gewußt hast.
@@ -1455,7 +1455,7 @@ __33__
 
 ### 1. Ankündigung des Schicksals Zedekias
 
-__34__
+ # 34
 ^1^Das Wort, das vom HERRN an Jeremia erging, als Nebukadnezar, der König von Babylon, mit seiner ganzen Heeresmacht und allen Königreichen der Erde, soweit sie seiner Herrschaft unterworfen waren, und mit allen (übrigen) Völkern Jerusalem belagerte und alle zugehörigen Städte bekriegte, lautete folgendermaßen:
 ^2^»So spricht der HERR, der Gott Israels: Gehe hin und verkünde dem judäischen Könige Zedekia folgende Botschaft: ›So hat der HERR gesprochen: Wisse wohl: ich gebe diese Stadt in die Gewalt des Königs von Babylon, damit er sie in Flammen aufgehen läßt.
 ^3^Und auch du wirst seiner Hand nicht entrinnen, sondern unfehlbar ergriffen und in seine Hand überliefert werden; du wirst dann dem Könige von Babylon Auge in Auge gegenüberstehen, und er wird Mund gegen Mund mit dir reden; darauf wirst du nach Babylon kommen.‹
@@ -1493,7 +1493,7 @@ __34__
 
 #### a) Jeremia erprobt auf göttlichen Befehl die Treue der Rechabiten
 
-__35__
+ # 35
 ^1^Das Wort, das vom HERRN unter der Regierung des judäischen Königs Jojakim, des Sohnes Josias, an Jeremia erging, lautete folgendermaßen:
 ^2^»Begib dich zur Genossenschaft<sup title="oder: Familie">&#x2732;</sup> der Rechabiten und lade sie ein; führe sie dann in den Tempel des HERRN in eine der Zellen und setze ihnen Wein zum Trinken vor!«
 ^3^Da holte ich Jaasanja, den Sohn Jeremias, des Sohnes Habazinjas, nebst seinen Brüdern und allen seinen Söhnen, überhaupt die ganze Genossenschaft der Rechabiten,
@@ -1522,7 +1522,7 @@ __35__
 
 #### a) Herstellung des Buches und seine Verlesung vor dem Volk und vor den Oberen
 
-__36__
+ # 36
 ^1^Im vierten Regierungsjahre des judäischen Königs Jojakim, des Sohnes Josias, erging folgendes Wort des HERRN an Jeremia:
 ^2^»Nimm dir eine Buchrolle und schreibe auf sie alle die Worte, die ich in betreff Israels und Judas und in betreff aller Völker zu dir gesprochen habe seit dem Tage, an dem ich dir Offenbarungen habe zuteil werden lassen, nämlich seit der Regierung Josias bis auf den heutigen Tag!
 ^3^Vielleicht hören dann die vom Hause Juda auf all das Unheil, das ich über sie zu verhängen gedenke, und bekehren sich alle von ihrem bösen Wandel, so daß ich ihnen ihre Verschuldung und Sünde vergeben kann.«
@@ -1569,7 +1569,7 @@ __36__
 
 #### a) Jeremias Antwort an die Gesandtschaft Zedekias
 
-__37__
+ # 37
 ^1^Zur Zeit, als Zedekia, der Sohn Josias, regierte, den Nebukadnezar, der König von Babylon, zum König über das Land Juda an Stelle Konjas<sup title="= Jojachins">&#x2732;</sup>, des Sohnes Jojakims, eingesetzt hatte,
 ^2^hörte weder er noch seine Diener<sup title="oder: Hofbeamten">&#x2732;</sup>, noch die Bevölkerung des Landes auf die Worte, die der HERR durch den Propheten Jeremia an sie richtete.
 
@@ -1604,7 +1604,7 @@ __37__
 
 ##### aa) Jeremia von den Oberen als ein Hochverräter in eine Zisterne geworfen
 
-__38__
+ # 38
 ^1^Sephatja aber, der Sohn Matthans, und Gedalja, der Sohn Pashurs, und Juchal, der Sohn Selemjas, und Pashur, der Sohn Malkijas, hörten die Worte, die Jeremia an das ganze Volk richtete, daß er nämlich sagte:
 ^2^»So hat der HERR gesprochen: ›Wer hier in der Stadt verbleibt, wird durch das Schwert, durch den Hunger und die Pest ums Leben kommen; wer dagegen zu den Chaldäern hinausgeht<sup title="= übergeht">&#x2732;</sup>, wird erhalten bleiben und sein Leben in Sicherheit bringen.‹
 ^3^Denn so hat der HERR gesprochen: ›Diese Stadt wird unfehlbar in die Gewalt des Heeres des Königs von Babylon gegeben werden, der sie erobern wird.‹«
@@ -1645,7 +1645,7 @@ __38__
 
 #### f) Jeremias Geschick bei der Eroberung Jerusalems; Schicksal Zedekias sowie der Stadt und des Landes
 
-__39__
+ # 39
 ^1^Als aber Jerusalem erobert war – im neunten Regierungsjahre des judäischen Königs Zedekia, im zehnten Monat, war Nebukadnezar, der König von Babylon, mit seiner ganzen Heeresmacht vor Jerusalem gerückt und hatte die Belagerung begonnen;
 ^2^im elften Regierungsjahre Zedekias aber, am neunten Tage des vierten Monats, wurde Bresche in die Stadtmauer gelegt –,
 ^3^da kamen alle Fürsten<sup title="oder: Heerführer">&#x2732;</sup> des Königs von Babylon und ließen sich im<sup title="oder: am">&#x2732;</sup> Mitteltor nieder, nämlich [Nergal-Sarezer,] der Oberkämmerer Samgar-Nebusarsekim, der Obermagier Nergal-Sarezer und alle übrigen Fürsten<sup title="oder: Heerführer">&#x2732;</sup> des Königs von Babylon.
@@ -1677,7 +1677,7 @@ __39__
 
 ### 1. Jeremias Freilassung aus der chaldäischen Gefangenschaft und Rückkehr zum Statthalter Gedalja
 
-__40__
+ # 40
 ^1^(Dies ist) das Wort, das vom HERRN an Jeremia erging, nachdem Nebusaradan, der Befehlshaber der Leibwache, ihn von Rama aus entlassen hatte, wo er ihn, und zwar mit Ketten gefesselt, ausfindig gemacht hatte inmitten aller gefangenen Bewohner Jerusalems und Judas, die nach Babylon weggeführt werden sollten.
 ^2^Als nämlich der Befehlshaber der Leibwache den Jeremia dort ausfindig gemacht<sup title="oder: zu sich beschieden">&#x2732;</sup> hatte, sagte er zu ihm: »Der HERR, dein Gott, hatte diesem Ort dieses Unglück angedroht,
 ^3^und der HERR hat es nun auch eintreten lassen und seine Drohung zur Ausführung gebracht: weil ihr gegen den HERRN gesündigt und auf seine Weisung nicht gehört habt, darum ist es euch so ergangen.
@@ -1703,7 +1703,7 @@ __40__
 ^15^Darauf besprach sich Johanan, der Sohn Kareahs, heimlich mit Gedalja in Mizpa und sagte: »Laß mich doch hingehen und Ismael, den Sohn Nethanjas, erschlagen: kein Mensch soll etwas davon erfahren! Warum soll er dich ermorden, so daß alle Judäer, die sich hier bei dir gesammelt haben, wieder zerstreut werden und der letzte Rest von Juda zugrunde geht?«
 ^16^Aber Gedalja, der Sohn Ahikams, antwortete Johanan, dem Sohne Kareahs: »Du darfst das nicht tun; denn was du da von Ismael sagst, ist nicht wahr!«
 
-__41__
+ # 41
 ^1^Im siebten Monat<sup title="oder: am siebten Neumond">&#x2732;</sup> aber kam Ismael, der Sohn Nethanjas, des Sohnes Elisamas, (ein Mann) von königlicher Abkunft und einer von den Großen<sup title="oder: Würdenträgern">&#x2732;</sup> des früheren Königs, in Begleitung von zehn Männern zu Gedalja, dem Sohne Ahikams, nach Mizpa. Als sie dort mit ihm zusammen beim Mahl saßen,
 ^2^erhob sich Ismael, der Sohn Nethanjas, und die zehn Männer, die bei ihm waren, und erschlugen Gedalja, den Sohn Ahikams, des Sohnes Saphans, mit dem Schwert: so ermordete er den Mann, den der König von Babylon zum Statthalter über das Land eingesetzt hatte.
 ^3^Auch alle Judäer, die bei Gedalja in Mizpa waren, sowie die chaldäischen Kriegsleute, die sich dort befanden, ließ Ismael niedermachen.
@@ -1734,7 +1734,7 @@ __41__
 
 #### a) Jeremia befragt Gott im Auftrage seiner Volksgenossen bezüglich der Auswanderung
 
-__42__
+ # 42
 ^1^Nun traten alle Truppenführer, auch Johanan, der Sohn Kareahs, und Asarja, der Sohn Hosajas, mit der gesamten Volksmenge, groß und klein, an den Propheten Jeremia heran
 ^2^und sagten zu ihm: »Schenke doch unserer inständigen Bitte Gehör und bete für uns zum HERRN, deinem Gott, für diesen ganzen Überrest! Wir sind ja nur als ein kleines Häuflein von der früheren großen Zahl übriggeblieben, wie du an uns mit eigenen Augen hier siehst.
 ^3^Der HERR, dein Gott, wolle uns den Weg angeben, den wir einschlagen sollen, und wie wir uns zu verhalten haben!«
@@ -1766,7 +1766,7 @@ __42__
 
 #### c) Ungehorsam der Gewarnten; Jeremia und Baruch werden wider ihren Willen nach Ägypten mitgenommen
 
-__43__
+ # 43
 ^1^Als nun Jeremia dem ganzen<sup title="= versammelten">&#x2732;</sup> Volk alle Worte, deren Verkündigung ihm vom HERRN, ihrem Gott, aufgetragen worden war, bis zu Ende mitgeteilt hatte, alle jene Worte,
 ^2^da sagten Asarja, der Sohn Hosajas, und Johanan, der Sohn Kareahs, und alle übrigen widerspenstigen Männer, die mit Jeremia redeten: »Du redest die Unwahrheit! Der HERR, unser Gott, hat dich nicht gesandt, um (uns) zu gebieten: ›Ihr sollt nicht nach Ägypten ziehen, um dort in fremdem Lande zu wohnen!‹,
 ^3^sondern Baruch, der Sohn Nerijas, hetzt dich gegen uns auf, in der Absicht, uns den Chaldäern in die Hände zu liefern, damit sie uns töten und uns nach Babylon in die Verbannung<sup title="oder: Gefangenschaft">&#x2732;</sup> führen!«
@@ -1788,7 +1788,7 @@ __43__
 
 #### a) Jeremias Drohrede gegen den Götzendienst der Juden
 
-__44__
+ # 44
 ^1^(Dies ist) das Wort, das an Jeremia erging in betreff aller in Ägypten wohnenden Judäer, die sich in Migdol und in Thachpanches, in Noph und im Gebiet von Pathros niedergelassen hatten; dasselbe lautet:
 ^2^»So hat der HERR der Heerscharen, der Gott Israels, gesprochen: ›Ihr selbst habt all das Unglück gesehen<sup title="= miterlebt">&#x2732;</sup>, das ich über Jerusalem und alle Städte Judas verhängt habe; ihr wißt, sie liegen heutigestags in Trümmern und sind unbewohnt
 ^3^infolge ihrer Bosheit, die sie verübt haben, um mich zu erbittern, indem sie hingingen, um anderen Göttern zu opfern und zu dienen, die sie nicht kannten, weder sie noch ihr, noch eure Väter.
@@ -1831,7 +1831,7 @@ __44__
 
 ### 6. Jeremias Mahn- und Trostworte an Baruch
 
-__45__
+ # 45
 ^1^(Dies ist) das Wort, das der Prophet Jeremia an Baruch, den Sohn Nerijas richtete, als dieser im vierten Regierungsjahre Jojakims, des Sohnes Josias, des Königs von Juda, die betreffenden Worte<sup title="oder: Reden">&#x2732;</sup> so, wie Jeremia sie ihm vorsagte, in ein Buch niedergeschrieben hatte<sup title="vgl. Kap. 36">&#x2732;</sup>; das Wort lautete:
 ^2^»So hat der HERR, der Gott Israels, in bezug auf dich, Baruch, gesprochen:
 ^3^›Du klagst: O wehe mir! Der HERR fügt noch Kummer zu meinem Schmerz hinzu! Müde bin ich von allem Seufzen und finde keine Ruhe!‹
@@ -1840,7 +1840,7 @@ __45__
 
 ## II. Weissagungen gegen fremde (heidnische) Völker (Kap. 46-51)
 
-__46__
+ # 46
 ^1^Was als Wort des HERRN an den Propheten Jeremia in betreff der (heidnischen) Völker ergangen ist:
 
 ### 1. Zwei Aussprüche über Ägypten
@@ -1885,7 +1885,7 @@ __46__
 
 ### 2. Ausspruch über das Philisterland
 
-__47__
+ # 47
 ^1^(Dies ist) das Wort des HERRN, das an den Propheten Jeremia in betreff der Philister ergangen ist, bevor der Pharao Gaza erobert hatte:
 ^2^So hat der HERR gesprochen: Sehet, Wasser fluten heran von Norden her und werden zu einem überwallenden Wildbach! Sie überschwemmen das Land und alles, was darin ist, die Städte samt ihren Bewohnern, so daß die Menschen laut schreien und alle Bewohner des Landes heulen!
 ^3^Vor dem dröhnenden Hufschlag seiner Hengste, vor dem Rasseln seiner Kriegswagen, dem Rollen seiner Räder wenden Väter sich nicht nach ihren Kindern um, weil die Angst ihre Arme lähmt;
@@ -1898,7 +1898,7 @@ __47__
 
 #### a) Die Verwüstung des Landes und die allgemeine Flucht
 
-__48__
+ # 48
 ^1^Über Moab: So hat der HERR der Heerscharen, der Gott Israels, gesprochen: Wehe über Nebo, denn es ist verwüstet! Zuschanden geworden, erobert ist Kirjathaim: zuschanden geworden ist die hohe Feste und gestürzt!
 ^2^Dahin ist der Ruhm der Moabiter! In Hesbon sinnt man auf Unheil gegen sie: »Kommt, wir wollen sie ausrotten, daß sie kein Volk mehr sind!« Auch du, Madmen, wirst vernichtet werden: das Schwert fährt hinter dir her!
 ^3^Horch! Wehgeschrei schallt von Horonaim her: »Verwüstung und gewaltiger Zusammenbruch!«
@@ -1971,7 +1971,7 @@ Bis hierher geht der Gerichtsspruch<sup title="oder: das Strafgericht">&#x2732;<
 
 ### 4. Ausspruch über die Ammoniter
 
-__49__
+ # 49
 ^1^Über die Ammoniter: So hat der HERR gesprochen: »Hat denn Israel keine Söhne mehr, oder hat es keinen Erben? Wie kommt es, daß Milkom die Erbschaft in Gad angetreten und sein Volk in den dortigen Städten Wohnung genommen hat?
 ^2^Darum wisset wohl: es kommt die Zeit« – so lautet der Ausspruch des HERRN –, »da lasse ich gegen die Ammoniterstadt Rabba Kriegsgeschrei erschallen; sie soll dann zum Schutthaufen werden, und ihre Tochterstädte sollen in Flammen aufgehen: da soll dann Israel seine Erben<sup title="d.h. die, welche ihm sein Erbe genommen haben">&#x2732;</sup> wieder beerben!« – so lautet der Ausspruch des HERRN.
 
@@ -2034,7 +2034,7 @@ __49__
 
 #### a) Der Sturz Babylons und seine Bedeutung für das leidgeprüfte jüdische Volk
 
-__50__
+ # 50
 ^1^(Dies ist) das Wort, das der HERR über<sup title="oder: gegen">&#x2732;</sup> Babylon, über das Land der Chaldäer, durch den Mund des Propheten Jeremia ausgesprochen hat:
 ^2^»Verkündigt es unter den Völkern und macht es bekannt und pflanzt ein Banner<sup title="= ein Panier oder: eine Flagge">&#x2732;</sup> auf! Macht es bekannt und verheimlicht es nicht! Verkündigt: ›Erobert ist Babylon, zuschanden geworden Bel ! Merodach steht fassungslos da! Ihre Bilder<sup title="= Abgötter">&#x2732;</sup> sind zuschanden geworden, ihre Götzen stehen fassungslos da!‹
 ^3^Denn es zieht gegen Babylon von Norden her ein Volk heran: das wird sein Land zur Wüste machen, so daß kein Bewohner mehr darin zu finden ist: sowohl Menschen als Vieh sind entflohen, haben sich davongemacht! –
@@ -2108,7 +2108,7 @@ __50__
 
 ##### aa) Das Gericht über Babylon ist beschlossen
 
-__51__
+ # 51
 ^1^So hat der HERR gesprochen: »Fürwahr, ich lasse gegen Babylon und gegen die, welche im ›Herzen<sup title="= Zentrum, Mittelpunkt">&#x2732;</sup> meiner Widersacher‹ wohnen, die Wut eines Verderbers losbrechen,
 ^2^und ich entsende Worfler nach Babylon, die sollen es worfeln und sein Land ausplündern!« Wenn die am Tage des Unglücks (die Stadt) von allen Seiten umzingeln,
 ^3^dann spanne kein Schütze seinen Bogen mehr, und niemand erhebe sich zum Widerstand in seinem Panzer! Doch schont ihre jungen Männer nicht, vollzieht den Bann an ihrem gesamten Heer,
@@ -2213,7 +2213,7 @@ Bis hierher gehen die Aussprüche<sup title="vgl. 1,1">&#x2732;</sup> Jeremias.
 
 ### 1. Zedekias Abfall; Jerusalems Belagerung; Flucht und Gefangennahme des Königs; Strafgericht in Ribla
 
-__52__
+ # 52
 ^1^Im Alter von einundzwanzig Jahren kam Zedekia auf den Thron und regierte elf Jahre in Jerusalem; seine Mutter hieß Hamutal und war die Tochter Jeremias, aus Libna.
 ^2^Er tat, was dem HERRN mißfiel, ganz wie Jojakim getan hatte.
 ^3^Denn infolge des Zornes des HERRN kam es mit Jerusalem und Juda dahin, daß der HERR sie von seinem Angesicht verstieß.

@@ -2,7 +2,7 @@
 
 ### 1. Die Überschrift; der Herr, der Gott der Rache und der Gnade, erscheint zum Gericht über Ninive
 
-__1__
+ # 1
 ^1^ (Dies ist) der Gottesspruch über Ninive, das Buch des Gesichts<sup title="oder: der Weissagung">&#x2732;</sup> Nahums, des Elkositers.
 ^2^ Ein eifernder<sup title="oder: eifersüchtiger">&#x2732;</sup> und rächender Gott ist der HERR, ja ein Rächer ist der HERR und voller Zornesglut; Rache übt der HERR an seinen Widersachern und trägt seinen Feinden (ihre Verschuldungen) nach.
 ^3^ Der HERR ist wohl langsam zum Zorn und groß an Gnade, läßt aber (den Schuldigen) keineswegs ungestraft. Durch Sturm und Ungewitter geht der Weg des HERRN, und Gewölk ist der Staub seiner Füße.
@@ -21,7 +21,7 @@ __1__
 ^13^ sondern will nunmehr sein Joch, das auf dir lastet, zerbrechen und deine Stricke zerreißen.«
 ^14^ Über dich aber (Assyrien) hat der HERR bestimmt, daß von deinem Namen fernerhin kein Same kommen soll<sup title="d.h. daß dein Name fernerhin nicht fortleben soll">&#x2732;</sup>. »Aus dem Hause deines Gottes will ich Schnitzbild und Gußbild ausrotten, will dir dein Grab herrichten; denn zu leicht bist du erfunden worden.«
 
-__2__
+ # 2
 ^1^ Sehet da: auf den Bergen die Schritte eines Freudenboten, der Heil verkündigt! Feiere, Juda, deine Feste, erfülle deine Gelübde! Denn hinfort wird der Nichtswürdige dich nicht mehr durchziehen: er ist völlig vernichtet.
 
 ### 3. Ninives Belagerung und Zerstörung infolge des göttlichen Gerichts
@@ -44,7 +44,7 @@ __2__
 
 ### 4. Die Sünden und die Strafe der Weltstadt Ninive – ein Weheruf und Spottlied
 
-__3__
+ # 3
 ^1^ Wehe der blutbefleckten Stadt, die ganz angefüllt ist mit Trug und Gewalttat und die kein Ende des Raubens findet!
 ^2^ Horch Peitschenknall, horch Rädergerassel! Jagende Rosse und rollende Wagen,
 ^3^ heransprengende Reiter, funkelnde Schwerter und blitzende Speere! Durchbohrte<sup title="oder: Erschlagene">&#x2732;</sup> in Menge, Haufen von Toten und zahllose Leichen – man strauchelt über die Leichen!

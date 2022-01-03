@@ -4,7 +4,7 @@
 
 #### a) Klage des Dichters über das Elend der Stadt
 
-__1__
+ # 1
 ^1^Ach, wie liegt sie doch (jetzt) so einsam da, die (einst) volkreiche Stadt! Wie zu einer Witwe ist sie geworden, sie, die (vordem) groß war unter den Völkern: die Fürstin unter den Städten muß nun Frondienste<sup title="= Sklavendienste">&#x2732;</sup> leisten!
 ^2^Bitterlich weint sie nachts, tränenbenetzt sind ihre Wangen; keiner ist da, sie zu trösten, von all ihren (früheren) Liebhabern: all ihre Freunde haben ihr die Treue gebrochen, sind ihr zu Feinden geworden!
 ^3^In die Gefangenschaft ist Juda gewandert vor Elend und hartem Knechtsdienst; es weilt unter den Heiden, ohne Ruhe zu finden; alle seine Verfolger haben es in seiner Bedrängnis erhascht!
@@ -38,7 +38,7 @@ __1__
 
 #### a) Schilderung des Unheils, von welchem Land und Volk und besonders Jerusalem durch Gottes Zorn betroffen sind
 
-__2__
+ # 2
 ^1^Ach, wie hat doch der Herr in seinem Zorn die Tochter Zion umwölkt! Vom Himmel her hat er die Herrlichkeit Israels in den Staub geschleudert und des Schemels seiner Füße nicht gedacht am Tage seines Zorns!
 ^2^Schonungslos hat der Herr verwüstet alle Fluren Jakobs, hat in seinem Grimm niedergerissen die Burgen<sup title="oder: Festungen">&#x2732;</sup> der Tochter Juda, hat in den Staub geworfen und entweiht ihr Königtum und ihre Fürsten!
 ^3^In Zornesglut hat er zerschlagen Israels ganze Kraft, hat seine Rechte<sup title="= seinen starken Arm">&#x2732;</sup> vor dem Feinde zurückgezogen und Jakob in Brand gesetzt wie Feuerflammen, die ringsum alles verzehren.
@@ -73,7 +73,7 @@ __2__
 
 #### a) Verzweiflungsvolle Klage eines einzelnen Volksgenossen über die schweren erlittenen Prüfungen; Bitte um Gnade und Hoffnung auf neues Heil
 
-__3__
+ # 3
 ^1^Ich bin der Mann, der Elend erlebt hat durch die Rute seines<sup title="d.h. des göttlichen">&#x2732;</sup> Zornes;
 ^2^mich hat er geführt und getrieben in Finsternis und tiefes Dunkel;
 ^3^nur<sup title="oder: ja">&#x2732;</sup> gegen mich kehrt er immer wieder seine Hand Tag für Tag!
@@ -154,7 +154,7 @@ __3__
 
 #### a) Schilderung des furchtbaren Geschicks der gesamten Bewohnerschaft Jerusalems, besonders der Kinder
 
-__4__
+ # 4
 ^1^Ach, wie ist doch das Gold so glanzlos geworden, wertlos das Edelmetall! Hingeschüttet liegen die Edelsteine an allen Straßenecken!
 ^2^Zions Söhne, die hochgeschätzten, die sonst mit gediegenem Gold aufgewogen wurden, o wie sind sie jetzt irdenem Geschirr gleichgeachtet, dem Machwerk von Töpfers Hand!
 ^3^Selbst Schakale reichen die Brust dar, säugen ihre Jungen; doch die Töchter meines Volkes sind gefühllos geworden wie die Strauße in der Wüste.
@@ -185,7 +185,7 @@ __4__
 
 #### a) Klage der Gemeinde über ihr trauriges Schicksal; die schmachvolle Schreckensherrschaft im Lande
 
-__5__
+ # 5
 ^1^Gedenke, HERR, dessen, was uns widerfahren ist! Blicke her und sieh unsere Schmach!
 ^2^Unser Erbbesitz ist an Fremde übergegangen, unsere Häuser an Ausländer.
 ^3^Waisen sind wir geworden, vaterlos, unsere Mütter sind wie Witwen.

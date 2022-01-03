@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bibmark/1.0.0": {
+        "dependencies": {
+          "Pandoc": "0.2.0",
+          "Pandoc.Windows": "2.1.0"
+        },
+        "runtime": {
+          "bibmark.dll": {}
+        }
+      },
+      "CliWrap/3.3.3": {
+        "runtime": {
+          "lib/netcoreapp3.0/CliWrap.dll": {
+            "assemblyVersion": "3.3.3.0",
+            "fileVersion": "3.3.3.0"
+          }
+        }
+      },
+      "Pandoc/0.2.0": {
+        "dependencies": {
+          "CliWrap": "3.3.3",
+          "Replicant": "1.2.0"
+        },
+        "runtime": {
+          "lib/net6.0/Pandoc.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Pandoc.Windows/2.1.0": {},
+      "Replicant/1.2.0": {
+        "runtime": {
+          "lib/net6.0/Replicant.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bibmark/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CliWrap/3.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rnP29BOHYRHo/fyONoZltDNUVeMk44SqbsnsfPjeTyflilbzmQY+6xsSX5r/NWe7rud9gJtxCHDvrCFMUa3gOg==",
+      "path": "cliwrap/3.3.3",
+      "hashPath": "cliwrap.3.3.3.nupkg.sha512"
+    },
+    "Pandoc/0.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FgWQMm+WYoAT3q62RG/tgBUb8CyA3gDRgl/ulOfXgaxKhQDvc7xcJldXeC9FBsxaMV/k8pvZzciLIy2o4EvuJQ==",
+      "path": "pandoc/0.2.0",
+      "hashPath": "pandoc.0.2.0.nupkg.sha512"
+    },
+    "Pandoc.Windows/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ded+S0W66wMowfPXB0NMht1SV2BnBvi2M/50/h0hUOWxPAPc8tfV7ksL8eFLN/xvTmIgSKnGDpOsV3+sPVvNOA==",
+      "path": "pandoc.windows/2.1.0",
+      "hashPath": "pandoc.windows.2.1.0.nupkg.sha512"
+    },
+    "Replicant/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VFMiwkGq1P3w8sRJpFcXvH1VsziKGN1tVQ5x1C1NIuF63M8/amsgs6sU4A3YJsjj/idr/bvfTG5/gKRztI13gg==",
+      "path": "replicant/1.2.0",
+      "hashPath": "replicant.1.2.0.nupkg.sha512"
+    }
+  }
+}

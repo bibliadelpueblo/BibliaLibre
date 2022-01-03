@@ -6,7 +6,7 @@
 
 #### a) Nehemia als Mundschenk des Königs (Artaxerxes) in Susa; seine Trauer über das Unglück seines Vaterlands
 
-__1__
+ # 1
 <sup>1</sup>Die Worte<sup title="= Denkwürdigkeiten, Denkschrift, Bericht">&#x2732;</sup> Nehemias, des Sohnes Hachaljas.
 
 Es begab sich im Monat Kislew im zwanzigsten Regierungsjahre des Königs Arthasastha<sup title="= Artaxerxes I.">&#x2732;</sup>, als ich mich in der Königsstadt<sup title="= Residenz">&#x2732;</sup> Susa befand,
@@ -26,7 +26,7 @@ Es begab sich im Monat Kislew im zwanzigsten Regierungsjahre des Königs Arthasa
 
 #### c) Nehemia erhält Urlaub und Vollmachten vom Perserkönige Artaxerxes zur Wiederherstellung Jerusalems
 
-__2__
+ # 2
 <sup>1</sup>Nun begab es sich im Monat Nisan im zwanzigsten Regierungsjahre des Königs Arthasastha, als der Wein vor mir stand, da trug ich den Wein auf und reichte ihn dem Könige; ich hatte aber früher nie betrübt vor ihm ausgesehen,
 <sup>2</sup>und so fragte mich der König: »Warum siehst du so betrübt aus? Du bist doch nicht krank? Das kann nichts anderes als Herzenskummer sein!« Da geriet ich in große Furcht,
 <sup>3</sup>antwortete aber doch dem König: »Lang lebe der König! Wie sollte ich nicht traurig aussehen, da doch die Stadt, in der sich die Gräber meiner Väter befinden, in Trümmern liegt und ihre Tore vom Feuer verzehrt sind?«
@@ -62,7 +62,7 @@ __2__
 
 ### 3. Stückweise Ausführung des Mauerbaues; Liste der am Mauerbau Beteiligten
 
-__3__
+ # 3
 <sup>1</sup>Hierauf machte sich der Hohepriester Eljasib mit seinen Amtsgenossen, den Priestern, daran, das Schaftor neu zu bauen; das weihten sie und setzten seine Torflügel ein und führten dann den Bau weiter bis zum Turm Hammea, den sie weihten, und bis zum Turm Hananeel.
 <sup>2</sup>Neben ihnen bauten die Männer von Jericho; und neben ihnen baute Sakkur, der Sohn Imris.
 
@@ -112,7 +112,7 @@ __3__
 
 #### Neue Anschläge der Gegner auf den Bau; Nehemias erfolgreiche Maßregeln dagegen
 
-__4__
+ # 4
 <sup>1</sup>Als aber Sanballat und Tobija sowie die Araber und Ammoniter und Asdoditer erfuhren, daß die Wiederherstellung der Mauern Jerusalems Fortschritte machte, und daß die Lücken sich zu schließen begannen, da gerieten sie in heftigen Zorn
 <sup>2</sup>und verschworen sich alle zusammen, sie wollten hinziehen, um Jerusalem anzugreifen und Schaden<sup title="oder: Verwirrung">&#x2732;</sup> darin anzurichten.
 <sup>3</sup>Da beteten wir zu unserm Gott und stellten aus Furcht<sup title="oder: zum Schutz">&#x2732;</sup> vor ihnen bei Tag und Nacht Wachen gegen sie auf.
@@ -137,7 +137,7 @@ __4__
 
 #### a) Beschwerden und Unwille der unteren Volksschichten wegen der Hartherzigkeit ihrer Gläubiger
 
-__5__
+ # 5
 <sup>1</sup>Es erhob sich aber ein großes Klagegeschrei der Leute aus dem Volk und ihrer Frauen gegen ihre jüdischen Volksgenossen.
 <sup>2</sup>Die einen sagten: »Wir müssen unsere Söhne und Töchter verpfänden, um Getreide zu erhalten, damit wir zu essen haben und am Leben bleiben!«
 <sup>3</sup>Andere sagten: »Wir müssen unsere Felder, unsere Weinberge und Häuser verpfänden, um uns Getreide in der Teurung zu verschaffen!«
@@ -168,7 +168,7 @@ __5__
 
 #### a) Ränke (und Mordanschlag) Sanballats und seiner Genossen; ihre Zurückweisung durch Nehemia
 
-__6__
+ # 6
 <sup>1</sup>Als es nun dem Sanballat, dem Tobija und dem Araber Gesem sowie unseren übrigen Feinden bekannt wurde, daß ich die Mauer wieder aufgebaut hätte und daß keine Lücke<sup title="oder: kein Riß">&#x2732;</sup> mehr in ihr geblieben wäre – nur hatte ich bis dahin noch keine Türflügel in die Tore eingesetzt –,
 <sup>2</sup>da sandten Sanballat und Gesem zu mir und ließen mir sagen: »Komm, laß uns in Ha-Kaphirim in der Ebene Ono eine Zusammenkunft halten!« Sie hatten nämlich Böses gegen mich im Sinn.
 <sup>3</sup>Da schickte ich Boten zu ihnen und ließ ihnen antworten: »Ich bin mit einem bedeutenden Werke beschäftigt und kann deshalb nicht hinabkommen: das Werk würde sofort stille stehen, wenn ich es unterbräche und zu euch hinunterkäme.«
@@ -197,7 +197,7 @@ __6__
 
 #### Nehemias Sorge für die Sicherheit der Stadt
 
-__7__
+ # 7
 <sup>1</sup>Als nun die Mauer aufgebaut war und ich die Türflügel hatte einsetzen lassen, wurden die Torwächter angestellt.
 <sup>2</sup>Dann übertrug ich den Oberbefehl über Jerusalem meinem Bruder Hanani und dem Burghauptmann Hananja; denn dieser war ein zuverlässiger und gottesfürchtiger Mann wie wenige.
 <sup>3</sup>Ich gab ihnen die Weisung: »Die Tore Jerusalems dürfen nicht eher geöffnet werden, als bis die Sonne heiß scheint; und während (die Torwächter) noch dastehen, soll man die Torflügel schließen und verriegeln. Auch sollt ihr Wachen aus den Bürgern Jerusalems aufstellen, einen jeden auf seinem Posten und jeden vor seinem Hause.«
@@ -292,7 +292,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 Als nun der siebte Monat herankam, während die Israeliten sich in ihren Ortschaften befanden,
 
-__8__
+ # 8
 <sup>1</sup>da versammelte sich das ganze Volk bis auf den letzten Mann auf dem Platze vor dem Wassertor und richtete an Esra, den Schriftgelehrten, die Bitte, er möchte das Buch des mosaischen Gesetzes herbringen<sup title="oder: holen">&#x2732;</sup>, das der HERR den Israeliten geboten hatte.
 <sup>2</sup>Da brachte denn der Priester Esra das Gesetz vor die Versammlung<sup title="oder: Gemeinde">&#x2732;</sup> sowohl der Männer als der Frauen, vor alle, die befähigt waren, es zu verstehen, am ersten Tage des siebten Monats,
 <sup>3</sup>und er las auf dem freien Platze vor dem Wassertor von Tagesanbruch bis Mittag den Männern und Frauen, überhaupt allen, die ein Verständnis dafür hatten, daraus vor; und das ganze Volk schenkte der Vorlesung aus dem Gesetzbuch aufmerksames Gehör.
@@ -322,7 +322,7 @@ __8__
 
 #### a) Feier des Bußtages unter mehrstündiger Gesetzesverlesung und mehrstündiger Beichte
 
-__9__
+ # 9
 <sup>1</sup>Am vierundzwanzigsten Tage desselben Monats aber versammelten sich die Israeliten unter<sup title="oder: zu einem">&#x2732;</sup> Fasten, und zwar in Trauergewändern und mit Erde auf dem Haupte.
 <sup>2</sup>Nachdem sich dann die Vollisraeliten von allen Fremden abgesondert hatten, traten sie hin und legten ein Bekenntnis ihrer Sünden und der Verschuldungen ihrer Väter ab.
 <sup>3</sup>Hierauf erhoben sie sich auf der Stelle, wo sie sich befanden, und man las aus dem Gesetzbuche des HERRN, ihres Gottes, einen Vierteltag lang<sup title="d.h. drei Stunden lang">&#x2732;</sup> vor und sprach dann drei weitere Stunden lang Bußgebete, während sie sich vor dem HERRN, ihrem Gott, niedergeworfen hatten.
@@ -381,7 +381,7 @@ __9__
 
 #### a) Bundeserneuerung durch einen schriftlichen und untersiegelten Vertrag der Vorsteher (besonders Familienhäupter) des Volkes
 
-__10__
+ # 10
 <sup>1</sup>Auf Grund aller dieser Umstände schließen wir einen festen Vertrag und fertigen ihn schriftlich aus; und auf der untersiegelten Urkunde stehen die Namen unserer Obersten<sup title="oder: Fürsten">&#x2732;</sup>, unserer Leviten und unserer Priester;
 <sup>2</sup>und auf dem untersiegelten Schriftstück stehen die Namen<sup title="= Unterschriften">&#x2732;</sup>: Nehemia, der Statthalter, der Sohn Hachaljas, und Zedekia,
 <sup>3</sup>Seraja, Asarja, Jeremia,
@@ -437,7 +437,7 @@ __10__
 
 #### a) Ein Zehntel der Landbevölkerung wird durch das Los zur Übersiedelung nach Jerusalem bestimmt
 
-__11__
+ # 11
 <sup>1</sup>Hierauf nahmen die Obersten<sup title="oder: Fürsten, Vornehmen">&#x2732;</sup> des Volkes ihren Wohnsitz in Jerusalem; das übrige<sup title="= gewöhnliche">&#x2732;</sup> Volk aber bestimmte durch das Los je den zehnten Mann dazu, sich in der heiligen Stadt Jerusalem anzusiedeln, während die übrigen neun Zehntel in den Ortschaften (des Landes) wohnen bleiben sollten.
 <sup>2</sup>Das Volk aber hieß alle Leute willkommen, die sich freiwillig zur Niederlassung in Jerusalem erboten.
 
@@ -488,7 +488,7 @@ Von den Judäern wohnte ein Teil in Kirjath-Arba nebst den zugehörigen Ortschaf
 
 #### a) Priester- und Levitenklassen, die mit Serubbabel und Jesua heimkehrten
 
-__12__
+ # 12
 <sup>1</sup>Folgende sind die Priester und die Leviten, die mit Serubbabel, dem Sohne Sealthiels, und mit Jesua (nach Jerusalem) hinaufgezogen waren: Seraja, Jeremia, Esra,
 <sup>2</sup>Amarja, Malluch, Hattus,
 <sup>3</sup>Sechanja, Harim,<sup title="V.15">&#x2732;</sup> Meremoth,
@@ -556,7 +556,7 @@ __12__
 
 #### b) Ausscheidung der heidnischen (besonders ammonitischen und moabitischen) Bestandteile aus der Gemeinde
 
-__13__
+ # 13
 <sup>1</sup>Als an jenem Tage dem Volke aus dem Buch des mosaischen Gesetzes laut vorgelesen wurde, fand sich darin geschrieben<sup title="5.Mose 23,4-6">&#x2732;</sup>, daß kein Ammoniter und kein Moabiter jemals Aufnahme in die Gemeinde Gottes finden dürfe,
 <sup>2</sup>weil sie den Israeliten nicht mit Brot und Wasser entgegengekommen waren und (ihr König) den Bileam gegen sie in Sold genommen hatte, damit er sie verfluche; allerdings hatte unser Gott den Fluch in Segen verwandelt.
 <sup>3</sup>Als sie nun das Gesetz vernommen hatten, sonderten sie alles Mischvolk<sup title="= Heidengemisch">&#x2732;</sup> aus Israel aus.

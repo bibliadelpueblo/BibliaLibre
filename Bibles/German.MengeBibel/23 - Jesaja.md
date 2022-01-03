@@ -6,7 +6,7 @@
 
 ### 1. Die Überschrift; Klage und Anklage, Buß?predigt und Strafandrohung (als Eröffnungsrede)
 
-__1__
+ # 1
 ^1^(Dies ist) die Offenbarung, die Jesaja, der Sohn des Amoz, über Juda und (besonders) Jerusalem geschaut<sup title="= durch Gesichte empfangen">&#x2732;</sup> hat in den Tagen der judäischen Könige Ussia, Jotham, Ahas und Hiskia<sup title="vgl. Hos 1,1; Mi 1,1">&#x2732;</sup>.
 
 #### a) Gottes Anklage gegen das untreue Volk
@@ -59,7 +59,7 @@ __1__
 
 #### a) Neue Überschrift; die künftige Welt als das Friedensreich Gottes um Jerusalem
 
-__2__
+ # 2
 ^1^(Dies ist) die Offenbarung, die Jesaja, der Sohn des Amoz, über Juda und (besonders) Jerusalem geschaut<sup title="= durch Gesichte empfangen">&#x2732;</sup> hat<sup title="vgl. 1,1">&#x2732;</sup>.
 
 ^2^In der Endzeit wird es geschehen, daß der Tempelberg des HERRN festgegründet dasteht an der Spitze der Berge und über die (anderen) Höhen erhaben; dann werden alle Heidenvölker zu ihm strömen
@@ -99,7 +99,7 @@ __2__
 
 ##### aa) Zusammenbruch des judäischen Staates zur Strafe für die Mißregierung
 
-__3__
+ # 3
 ^1^Denn wisset wohl: der Höchste, der HERR der Heerscharen, wird aus Jerusalem und (ganz) Juda so Stab wie Stütze hinwegnehmen, jegliche Stütze des Brotes und jegliche Stütze des Wassers:
 ^2^die Helden<sup title="= reisigen Streiter">&#x2732;</sup> und Kriegsleute, die Richter und Propheten, die Wahrsager und Ältesten,
 ^3^die Hauptleute und hochangesehenen Männer und Ratsherren, die Meister in Künsten und die Zauberkundigen.
@@ -137,7 +137,7 @@ __3__
 ^25^Deine Mannen werden durchs Schwert fallen und deine Helden<sup title="= reisigen Streiter">&#x2732;</sup> im Kriege,
 ^26^und ihre Tore werden ächzen und trauern, und entvölkert<sup title="oder: verödet">&#x2732;</sup> wird sie auf dem Erdboden sitzen.
 
-__4__
+ # 4
 ^1^An jenem Tage werden sieben Frauen sich an einen Mann klammern und ausrufen: »Unser eigenes Brot wollen wir essen und uns in unsere eigenen Gewänder kleiden; nur laß uns deinen Namen führen: mache unserer Schande<sup title="d.h. Ehelosigkeit">&#x2732;</sup> ein Ende!«
 
 #### e) Herrlichkeit des geläuterten Jerusalem nach Abhaltung des Weltgerichts unter dem persönlichen Schutze Gottes
@@ -152,7 +152,7 @@ __4__
 
 #### a) Das Gleichnis vom unfruchtbaren Weinberg
 
-__5__
+ # 5
 ^1^Laßt mich doch einmal von meinem Herzensfreunde singen, nämlich das Lied meines Freundes von seinem Weinberg! Einen Weinberg hatte mein Herzensfreund an einer fruchtbaren Anhöhe.
 ^2^Er grub ihn um, säuberte ihn von Steinen und bepflanzte ihn mit Edelreben; er baute einen Turm mitten in ihm, hieb auch gleich eine Kelterkufe in ihm aus und wartete dann darauf, daß er Trauben hervorbringe; doch er brachte nur Herlinge<sup title="= Herblinge">&#x2732;</sup> hervor.
 
@@ -198,7 +198,7 @@ __5__
 
 ### 4. Die Berufung und Weihe Jesajas zum Propheten
 
-__6__
+ # 6
 ^1^Im Todesjahre des Königs Ussia sah ich den Allherrn auf einem hohen und ragenden Throne sitzen, während seine Säume das Heiligtum<sup title="oder: den Palast">&#x2732;</sup> füllten.
 ^2^Seraphe standen<sup title="= schwebten">&#x2732;</sup> über ihm; jeder von ihnen hatte sechs Flügel: mit zweien bedeckte er sein Antlitz, mit zweien bedeckte er seine Beine, und mit zweien flog er;
 ^3^und der eine rief dem andern beständig die Worte zu: »Heilig, heilig, heilig ist der HERR der Heerscharen! Die ganze Erde ist seiner Herrlichkeit voll!«
@@ -222,7 +222,7 @@ __6__
 
 ##### aa) Jesajas Ermutigung an König Ahas nach Ausbruch des syrisch-ephraimitischen Krieges
 
-__7__
+ # 7
 ^1^Während der Regierung des judäischen Königs Ahas, des Sohnes Jothams, des Sohnes Ussias, begab es sich, daß Rezin, der König von Syrien, mit Pekah, dem Sohne Remaljas, dem König von Israel, zum Angriff gegen Jerusalem heranzog; doch war er nicht imstande, es erfolgreich zu belagern.
 ^2^Als nun dem Hause Davids gemeldet wurde: »Die Syrer sind mit Heeresmacht in Ephraim eingerückt«, da bebte sein<sup title="d.h. des Hauses Davids">&#x2732;</sup> Herz und das Herz seines Volkes, wie die Waldbäume von dem Winde beben.
 ^3^Der HERR aber gebot dem Jesaja: »Geh mit deinem Sohn Sear-Jasub hinaus, dem Ahas entgegen, an das Ende des Wasserabflusses<sup title="oder: der Wasserleitung">&#x2732;</sup> des oberen Teiches, auf die Straße nach dem Walkerfeld hin,
@@ -259,7 +259,7 @@ __7__
 
 ##### aa) Weissagung der Eroberung von Damaskus und Samaria durch die Assyrer
 
-__8__
+ # 8
 ^1^Weiter gebot der HERR mir folgendes: »Nimm dir eine große Tafel und schreibe auf sie mit Menschengriffel<sup title="= so, daß es jeder lesen kann">&#x2732;</sup>: ›Tafel des Raubebald-Schnellbeute‹;
 ^2^und als vertrauenswürdige Zeugen will ich für mich den Priester Uria und Sacharja, den Sohn Jeberechjas, haben.«
 
@@ -303,7 +303,7 @@ __8__
 
 ^23^Doch das Land, wo jetzt Bedrängnis herrscht, wird nicht umnachtet bleiben. Wie die frühere Zeit Schmach über das Land Sebulon und über das Land Naphthali gebracht hat, so wird die Folgezeit die Straße am<sup title="oder: zum">&#x2732;</sup> See, das Land jenseits des Jordans, den Bezirk der Heiden, zu Ehren bringen.
 
-__9__
+ # 9
 ^1^Das Volk, das in Finsternis wandelt, wird ein großes Licht erblicken, über denen, die in umnachtetem Lande wohnen, wird Licht aufstrahlen.
 ^2^Du wirst des Jubels viel schaffen, wirst die Freude groß werden lassen; sie werden sich vor dir freuen, wie man sich in der Ernte freut, wie man jubelt beim Beuteverteilen.
 ^3^Denn das Joch, das schwer auf ihnen lastete, und die Stäbe auf ihrem Nacken, den Stecken ihres Treibers zerbrichst du wie einst am Tage der Midianiterschlacht<sup title="vgl. Ri 7">&#x2732;</sup>.
@@ -338,7 +338,7 @@ __9__
 
 ##### dd) Wehe den nichtswürdigen Häuptern des Volkes! Ihrer wartet ein furchtbares Geschick
 
-__10__
+ # 10
 ^1^Wehe denen, die heillose<sup title="oder: arglistige">&#x2732;</sup> Verordnungen aufsetzen, und den Schreibern, die nichts als unheilvolle Rechtssatzungen ausfertigen,
 ^2^um die Niedrigen vom Rechtsweg abzudrängen und den Geringen meines Volkes ihr Recht vorzuenthalten, damit die Witwen ihre Beute werden und sie die Waisen ausplündern können!
 ^3^Was wollt ihr nur tun am Tage der Heimsuchung und bei dem Sturm, der von fern heranzieht? Zu wem wollt ihr um Hilfe fliehen und wo euren Reichtum in Sicherheit bringen?
@@ -394,7 +394,7 @@ __10__
 
 #### e) Der mit Gottes Geist erfüllte Sproß Davids als Begründer des künftigen Friedensreiches
 
-__11__
+ # 11
 ^1^Sodann wird ein Reis aus dem Stumpfe Isais hervorgehen und ein Schößling aus seinen Wurzeln Frucht tragen;
 ^2^und der Geist des HERRN wird auf ihm ruhen: der Geist der Weisheit und der Einsicht, der Geist des Rates und der Heldenkraft, der Geist der Erkenntnis und der Furcht des HERRN.
 ^3^An der Furcht des HERRN wird er sein Wohlgefallen haben; und er wird nicht nach dem richten, was seine Augen sehen, und nicht Recht sprechen nach dem, was seine Ohren hören;
@@ -418,7 +418,7 @@ __11__
 
 #### f) Dankgebet und Dankgelübde der erretteten Zionsgemeinde
 
-__12__
+ # 12
 ^1^An jenem Tage aber wirst du beten: »Ich danke dir, HERR! Denn bist du auch erzürnt gegen mich gewesen, so hat dein Zorn sich doch wieder gelegt, und du hast mich wieder getröstet.
 ^2^Fürwahr, Gott ist mein Heil: ich bin voller Zuversicht und fürchte mich nicht! Denn Gott, der HERR, ist meine Stärke und mein Lobgesang, und er ist mir ein Retter geworden!«
 
@@ -433,7 +433,7 @@ __12__
 
 #### a) Das Gericht über die Stadt Babylon
 
-__13__
+ # 13
 ^1^Ausspruch über<sup title="= gegen">&#x2732;</sup> Babylon, den Jesaja, der Sohn des Amoz, geschaut<sup title="= als Offenbarung in einem Gesicht vernommen">&#x2732;</sup> hat:
 
 ##### aa) Ankündigung des Weltgerichtstages; der schreckenerregende Heranzug des von Gott aufgebotenen Kriegsheeres
@@ -470,7 +470,7 @@ __13__
 
 ##### aa) Gott wird sein Volk Israel nach Babylons Fall aus Erbarmen wiederherstellen
 
-__14__
+ # 14
 ^1^Denn der HERR wird sich Jakobs erbarmen und Israel noch einmal erwählen und sie auf ihrem Heimatboden zur Ruhe bringen. Die Fremdlinge werden sich ihnen dabei anschließen und sich dem Hause Jakobs zugesellen.
 ^2^Und die Völker werden sie nehmen und sie an ihren Ort<sup title="= zu ihrem Wohnsitz">&#x2732;</sup> hinbringen, und das Haus Israel wird im Lande des HERRN Knechte und Mägde an ihnen besitzen, so daß sie die, von denen sie vordem in Gefangenschaft gehalten worden waren, selbst in Gefangenschaft halten und die Herrschaft über ihre früheren Zwingherren ausüben.
 
@@ -530,7 +530,7 @@ O wie ist zur Ruhe gekommen<sup title="= still geworden">&#x2732;</sup> der Zwi
 
 #### a) Klage über die Verwüstung Moabs
 
-__15__
+ # 15
 ^1^Gottesspruch über die Moabiter:
 
 Ach! Über Nacht ist Ar zerstört, Moab vernichtet! Ach! Über Nacht ist Kir zerstört, Moab vernichtet!
@@ -545,7 +545,7 @@ Ach! Über Nacht ist Ar zerstört, Moab vernichtet! Ach! Über Nacht ist Kir zer
 
 #### b) Hilfegesuch der flüchtigen Moabiter an das jüdische Volk
 
-__16__
+ # 16
 ^1^»Sendet den dem Landesherrn zukommenden Lämmerzins von Sela<sup title="oder: vom Felsgebirge">&#x2732;</sup> aus durch die Wüste zum Berge der Tochter Zion!«
 ^2^Da werden dann wie wegflatternde Vögel, wie eine aufgescheuchte Nestbrut sein die Töchter<sup title="= Ortschaften">&#x2732;</sup> Moabs, an den Furten des Arnon:
 ^3^»Erteile uns Rat, schaffe Vermittlung! Mache der Nacht gleich deinen Schatten<sup title="= Schutz">&#x2732;</sup> am hellen Mittag, verbirg die Vertriebenen, verrate die Flüchtlinge nicht!
@@ -572,7 +572,7 @@ __16__
 
 #### a) Gegen Damaskus
 
-__17__
+ # 17
 ^1^Ausspruch über Damaskus:
 
 »Wisset wohl: Damaskus scheidet aus der Zahl der Städte aus und wird zu einem wüsten Trümmerhaufen werden,
@@ -600,7 +600,7 @@ __17__
 
 ### 6. Gottes Botschaft an die äthiopischen Gesandten in Jerusalem
 
-__18__
+ # 18
 ^1^Ha du Land des Flügelgeschwirrs jenseits der Ströme von Äthiopien,
 ^2^das da Boten entsandt hat auf dem Strome<sup title="= Nil">&#x2732;</sup> und in Rohrkähnen über den Wasserspiegel: geht heim, ihr flinken Boten, zu eurem hochgewachsenen und blanken Volke, zu der Völkerschaft, die, seit sie besteht,<sup title="oder: weit und breit">&#x2732;</sup> gefürchtet ist, zu der Völkerschaft, die gewaltige Kraft besitzt und alles niedertritt, deren Land Ströme durchschneiden.
 ^3^Ihr Bewohner des Erdkreises allesamt und ihr Insassen der Erde: Sobald man ein Panier<sup title="5,26">&#x2732;</sup> auf den Bergen aufpflanzt, so sehet hin! Und sobald man in die Trompete stößt, so horchet auf!
@@ -613,7 +613,7 @@ __18__
 
 #### a) Die durch Gottes Einschreiten dem Lande bevorstehenden Drangsale
 
-__19__
+ # 19
 ^1^Ausspruch über Ägypten:
 
 Seht, der HERR fährt auf einer schnellen Wolke einher und kommt nach Ägypten! Da wanken die Götzen Ägyptens vor ihm, und den Ägyptern verzagt das Herz in ihrer Brust.
@@ -658,7 +658,7 @@ Seht, der HERR fährt auf einer schnellen Wolke einher und kommt nach Ägypten! 
 
 ### 8. Jesaja kündigt durch eine sinnbildliche Handlung die Gefangenführung Ägyptens und Äthiopiens durch die Assyrer an
 
-__20__
+ # 20
 ^1^In dem Jahre, in welchem Tartan<sup title="d.h. der assyrische Oberfeldherr">&#x2732;</sup>, als ihn Sargon, der König von Assyrien, gesandt hatte, nach Asdod kam und diese Stadt belagerte und eroberte –
 ^2^in jener Zeit hatte der HERR durch Jesaja, den Sohn des Amoz, folgende Weisung ausgesprochen: »Wohlan, lege das härene Gewand von deinen Hüften ab und binde dir die Sandalen von deinen Füßen ab!« Da tat er demgemäß, so daß er ohne Obergewand und barfuß einherging.
 ^3^Darauf sagte der HERR: »Gleichwie mein Knecht Jesaja ohne Obergewand und barfuß drei Jahre lang einhergegangen ist als ein Wahrzeichen und eine Vorbedeutung für Ägypten und Äthiopien,
@@ -670,7 +670,7 @@ __20__
 
 #### a) Ankündigung des erschrecklichen Gesichts
 
-__21__
+ # 21
 ^1^Ausspruch über die Meereswüste<sup title="d.h. Babylonien">&#x2732;</sup>;
 
 Wie Stürme im Südland daherfahren, so kommt’s aus der Wüste, aus einem furchtbaren Lande.
@@ -708,7 +708,7 @@ Im Gebüsch, am Abend<sup title="oder: in Arabien">&#x2732;</sup> müßt ihr nä
 
 ### 11. Strafrede gegen das freudig erregte, gottentfremdete, unbußfertige Jerusalem
 
-__22__
+ # 22
 ^1^Ausspruch über das Schautal<sup title="d.h. das Tal der Offenbarung; vgl. V.5">&#x2732;</sup>:
 
 Was ist dir denn, daß du insgesamt hinaufgestiegen bist auf die Dächer,
@@ -747,7 +747,7 @@ Was ist dir denn, daß du insgesamt hinaufgestiegen bist auf die Dächer,
 
 #### a) Klage über die Vernichtung des Landes und der Stadt
 
-__23__
+ # 23
 ^1^Ausspruch über Tyrus:
 
 Jammert, ihr Tharsisschiffe! Denn verwüstet ist sie<sup title="d.h. eure Stadt">&#x2732;</sup>: kein Haus ist mehr vorhanden, keine Einfahrt mehr möglich! Bei der Fahrt vom Lande der Kitthäer her ist ihnen die Kunde zugegangen.
@@ -780,7 +780,7 @@ Jammert, ihr Tharsisschiffe! Denn verwüstet ist sie<sup title="d.h. eure Stadt"
 
 #### a) Ein allverödendes Gericht steht der Erde und ihrer Bevölkerung bevor
 
-__24__
+ # 24
 ^1^Wisset wohl: der HERR entleert<sup title="= entvölkert">&#x2732;</sup> die Erde und verödet sie; er entstellt ihr Aussehen und zerstreut ihre Bewohner.
 ^2^Da ergeht es dem Priester wie dem Mann des Volkes, dem Herrn wie seinem Knecht, der Herrin wie ihrer Magd, dem Verkäufer wie dem Käufer, dem Darleiher wie dem Entlehner, dem Gläubiger ebenso wie seinem Schuldner.
 ^3^Gänzlich ausgeleert<sup title="= entvölkert">&#x2732;</sup> wird die Erde und völlig ausgeplündert; denn der HERR ist’s, der dieses Drohwort ausgesprochen hat.
@@ -818,7 +818,7 @@ __24__
 
 #### a) Israels Dank- und Loblied für die bis dahin erfahrene Errettung
 
-__25__
+ # 25
 ^1^O HERR, du bist mein Gott: ich will dich erheben, will deinen Namen preisen; denn du hast Wunderbares vollbracht, Ratschlüsse, die von längst her gefaßt waren, ausgeführt, Treue in Wahrheit geübt.
 ^2^Denn du hast die Stadt zu einem Steinhaufen gemacht, die feste Burg zu einer Trümmerstätte, die Paläste der Gottentfremdeten unbewohnt: niemals werden sie wieder aufgebaut werden.
 ^3^Darum ehrt dich das starke Volk, fürchtet dich die Stadt der gewalttätigen Völkerschaften.
@@ -842,7 +842,7 @@ __25__
 
 #### a) Loblied der festen und treuen Stadt Gottes auf die göttliche Gerechtigkeit
 
-__26__
+ # 26
 ^1^An jenem Tage wird man dieses Lied im Lande Juda singen: »Eine feste Stadt haben wir; zum Schutz hat er ihr Mauern und Außenwerk geschaffen.
 ^2^Öffnet die Tore, damit ein gerechtes Volk einziehe, das die Treue bewahrt!
 ^3^Ein festes Herz segnest du mit Heil, mit Heil<sup title="oder: Frieden">&#x2732;</sup>, weil es voll Vertrauen auf dich ist.
@@ -878,7 +878,7 @@ __26__
 
 #### a) Vernichtung der Weltmächte; Gottes Liebe zu seinem Volke, dargelegt im Liede vom sorgfältig gehüteten Weinberg
 
-__27__
+ # 27
 ^1^An jenem Tage wird der HERR mit seinem harten, großen und starken Schwerte als Rächer kommen über den Drachen<sup title="eig. Leviathan">&#x2732;</sup>, die flüchtige Schlange<sup title="d.h. Assyrien">&#x2732;</sup>, und über den Drachen, die geringelte Schlange<sup title="d.h. Babylonien">&#x2732;</sup>, und wird das Ungeheuer am Nil<sup title="d.h. Ägypten">&#x2732;</sup> töten.
 
 ^2^An jenem Tage wird man sagen: »Lieblicher Weinberg, singt ihm zu!
@@ -904,7 +904,7 @@ __27__
 
 ### 1. Ankündigung von Samarias Untergang
 
-__28__
+ # 28
 ^1^Wehe der stolzen Krone der Trunkenbolde Ephraims und der welkenden Blüte seines prangenden Schmuckes auf dem Gipfel des fetten Talgeländes der vom Wein Überwältigten<sup title="= Berauschten">&#x2732;</sup>!
 ^2^Schon hält der Allherr einen Starken und Gewaltigen in Bereitschaft: wie ein Hagelwetter, ein verheerender Sturm, wie ein Wolkenbruch gewaltiger, sich ergießender Wasser wird er sie unwiderstehlich zu Boden niederwerfen.
 ^3^Mit Füßen wird zertreten werden die stolze Krone der Trunkenbolde Ephraims,
@@ -953,7 +953,7 @@ __28__
 
 #### a) Ankündigung der Belagerung, der Demütigung und wunderbaren Rettung Jerusalems, des ›Gottesherdes‹
 
-__29__
+ # 29
 ^1^Wehe dir, Gottesherd, Gottesherd<sup title="Hes 43,15-16">&#x2732;</sup>, du Stadt, wo David einst sein Lager aufgeschlagen hat! Füget Jahr zu Jahr, laßt die Feste ihren Kreislauf vollziehen:
 ^2^dennoch will ich den Gottesherd bedrängen, daß Stöhnen und Wehklagen entstehen soll: dann wird es<sup title="d.h. Jerusalem">&#x2732;</sup> mir ein richtiger Gottesherd sein.
 ^3^Ja ich will ein Lager rings um dich aufschlagen und dich mit einer Wagenburg eng einschließen und Belagerungswerke gegen dich aufführen.
@@ -995,7 +995,7 @@ __29__
 
 #### a) Weheruf über das gottwidrige und nutzlose Hilfesuchen bei Ägypten
 
-__30__
+ # 30
 ^1^»Wehe den Söhnen<sup title="oder: Kindern">&#x2732;</sup>« – so lautet der Ausspruch des HERRN –, »die abtrünnig werden dadurch, daß sie einen Plan ins Werk setzen, der nicht von mir ausgeht, und ein Bündnis schließen ohne meine Billigung, um Sünde auf Sünde zu häufen!
 ^2^Sie machen sich auf, um nach Ägypten hinabzuziehen, ohne meinen Mund befragt zu haben, um sich unter den Schutz des Pharaos zu begeben und im Schatten Ägyptens Zuflucht zu suchen!
 ^3^Aber es wird euch der Schutz des Pharaos zur Schande ausschlagen und das Suchen von Zuflucht im Schatten Ägyptens zur Schmach!
@@ -1049,7 +1049,7 @@ In einem Lande voll Drangsal und Bedrängnis – Löwen und Löwinnen, Ottern un
 
 #### e) Ägypten vermag nicht die zu schützen, deren Gottlosigkeit der Ewige strafen muß
 
-__31__
+ # 31
 ^1^Wehe denen, die nach Ägypten hinabziehen, um Hilfe (zu erlangen) und sich auf Kriegsrosse zu stützen! Die ihr Vertrauen auf Streitwagen setzen, weil ihrer so viele sind, und auf Rosse<sup title="oder: Reiter">&#x2732;</sup>, weil ihre Zahl so groß ist, aber auf den Heiligen Israels nicht schauen und den HERRN nicht befragen!
 ^2^Doch auch er ist weise und läßt Unheil kommen und nimmt seine Drohworte nicht zurück; nein, aufstehen wird er gegen das Haus der Frevler und gegen die Helferschaft von Übeltätern.
 ^3^Denn die Ägypter sind Menschen und nicht Gott, und ihre Rosse sind Fleisch und nicht Geist; streckt der HERR seine Hand aus, so stürzt der Beschützer, und der Schützling kommt zu Fall, so daß sie alle miteinander vernichtet werden.
@@ -1065,7 +1065,7 @@ __31__
 
 ### 6. Der durch das Gericht herrlich erneute Sinn der Regierenden und des Volkes
 
-__32__
+ # 32
 ^1^Dereinst wird ein König mit Gerechtigkeit sein Königtum führen, und die Fürsten werden nach dem Recht ihr Amt verwalten;
 ^2^ein jeder von ihnen wird wie ein Zufluchtsort vor dem Sturmwind sein und wie ein Schutzdach vor dem Unwetter, wie Wasserbäche in dürrer Steppe, wie der Schatten eines mächtigen Felsens in einer lechzenden Gegend.
 ^3^Da werden die Augen der Sehenden nicht mehr starr blicken<sup title="oder: verklebt sein">&#x2732;</sup>, und die Ohren der Hörenden werden aufmerken;
@@ -1097,7 +1097,7 @@ __32__
 
 #### a) Der letzte Weh- und Notruf über den ruchlosen Eroberer, für den Gottes Gericht jetzt gekommen ist
 
-__33__
+ # 33
 ^1^Wehe dir, Verwüster, der doch selbst keine Verwüstung erlitten hat! Und wehe dir, Räuber, der selbst von niemand beraubt worden ist! Sobald du mit Verwüsten fertig bist, wirst du selbst verwüstet werden; sobald du genug geraubt hast, wird man dich selbst berauben. –
 ^2^HERR, erbarme dich unser; auf dich hoffen wir: sei unser Arm an jedem Morgen und unsere Hilfe in der Stunde der Not!
 ^3^Vor dem donnernden Tosen (deines Nahens) fliehen die Völker, und wenn du dich erhebst, zerstieben die Heiden.
@@ -1132,7 +1132,7 @@ __33__
 
 #### a) Ankündigung des Gerichts
 
-__34__
+ # 34
 ^1^Kommt herbei, ihr Völkerschaften, um zu hören, und ihr Völker, merkt auf! Die Erde gebe acht und was sie füllt, der Erdkreis samt allem, was ihm entsproßt!
 ^2^Denn ergrimmt ist der HERR gegen alle Völkerschaften und zornig gegen ihr gesamtes Heer; er hat sie dem Bann<sup title="= der Vernichtung">&#x2732;</sup> geweiht, hat sie zur Schlachtung bestimmt,
 ^3^daß ihre Erschlagenen unbestattet hingeworfen werden und der Modergeruch von ihren Leichen aufsteigt, daß die Berge von ihrem Blut zerfließen (und alle Hügel zergehen).
@@ -1156,7 +1156,7 @@ __34__
 
 ### 11. Die Heimkehr des erlösten Volkes und die herrliche Erneuerung Jerusalems
 
-__35__
+ # 35
 ^1^Jauchzen sollen die Wüste und die Einöde, frohlocken soll die Steppe und aufsprossen<sup title="oder: erblühen">&#x2732;</sup> wie ein Narzissenfeld!
 ^2^Sie soll in voller Blüte stehen und frohlocken, ja mit Jubel und Frohlocken! Die Herrlichkeit des Libanons wird ihr verliehen, die Pracht des Karmelgebirges<sup title="Am 1,2">&#x2732;</sup> und der Saron-Ebene: sie dort sollen die Herrlichkeit des HERRN sehen, die Pracht unsers Gottes.
 ^3^Stärkt die erschlafften Hände und festigt die wankenden Knie!
@@ -1174,7 +1174,7 @@ __35__
 
 #### a) Sanherib läßt von Lachis aus die Stadt durch seinen Großwesir (= Oberfeldherrn) höhnisch zur Übergabe auffordern
 
-__36__
+ # 36
 ^1^Es begab sich im vierzehnten Regierungsjahr des Königs Hiskia, daß der assyrische König Sanherib gegen alle festen Städte Judas heranzog und sie eroberte.
 ^2^Da sandte der assyrische König seinen Großwesir<sup title="= Oberfeldherrn">&#x2732;</sup> mit einem starken Heere von Lachis aus nach Jerusalem zum König Hiskia; und der (Assyrer) stellte sich bei der Wasserleitung<sup title="oder: am Wasserabfluß">&#x2732;</sup> des oberen Teiches an der Straße nach dem Walkerfelde auf.
 ^3^Als nun der Hausminister<sup title="= Palastvorsteher">&#x2732;</sup> Eljakim, der Sohn Hilkias, mit dem Staatsschreiber Sebna und dem Kanzler Joah, dem Sohne Asaphs, zu ihm hinausgegangen war,
@@ -1203,7 +1203,7 @@ __36__
 
 #### b) Ermutigung Hiskias durch Jesaja
 
-__37__
+ # 37
 ^1^Als nun der König Hiskia das vernommen hatte, zerriß er seine Kleider, hüllte sich in ein grobes Trauergewand und begab sich in den Tempel des HERRN;
 ^2^seinen Hausminister<sup title="36,3">&#x2732;</sup> Eljakim aber und den Staatsschreiber Sebna samt den vornehmsten Priestern sandte er, ebenfalls in Trauerkleider gehüllt, zu dem Propheten Jesaja, dem Sohn des Amoz.
 ^3^Diese sagten zu ihm: »So läßt Hiskia dir sagen: ›Ein Tag der Bedrängnis, der Züchtigung und Schmach ist der heutige Tag; denn Kinder sind bis zum Muttermund<sup title="d.h. zur Geburt">&#x2732;</sup> gekommen, aber es fehlt an Kraft zum Gebären.
@@ -1261,7 +1261,7 @@ Es verachtet dich, es spottet deiner die jungfräuliche Tochter Zion; hinter dir
 
 ### 2. Hiskias Krankheit, Genesung und Loblied
 
-__38__
+ # 38
 ^1^Als Hiskia in jenen Tagen auf den Tod erkrankte, kam der Prophet Jesaja, der Sohn des Amoz, zu ihm und sagte zu ihm: »So hat der HERR gesprochen: ›Bestelle dein Haus, denn du wirst sterben und nicht wieder gesund werden!‹«
 ^2^Da wandte Hiskia sein Gesicht gegen die Wand und betete zum HERRN mit den Worten:
 ^3^»Ach, HERR, denke doch daran, daß ich vor dir in Treue und mit ungeteiltem Herzen gewandelt bin und getan habe, was dir wohlgefällt!« Hierauf brach Hiskia in lautes Weinen aus.
@@ -1297,7 +1297,7 @@ __38__
 
 ### 3. Gesandtschaft Merodach-Baladans aus Babylon an Hiskia
 
-__39__
+ # 39
 ^1^Zu jener Zeit sandte Merodach-Baladan, der Sohn Baladans, der König von Babylon, ein Schreiben und ein Geschenk an Hiskia; er hatte nämlich gehört, daß er krank gewesen und wieder gesund geworden sei.
 ^2^Hiskia freute sich darüber und zeigte ihnen (den Boten) sein Schatzhaus: das Silber und das Gold, die Spezereien<sup title="= Wohlgerüche, Gewürz">&#x2732;</sup> und das kostbare Öl, sein ganzes Zeughaus und überhaupt alles, was sich in seinen Schatzhäusern vorfand; es gab in seinem Palast und in seinem ganzen Königreiche nichts, was Hiskia ihnen nicht gezeigt hätte.
 
@@ -1323,7 +1323,7 @@ __39__
 
 ##### aa) Der tröstliche Gottesspruch von der Begnadigung des Volkes
 
-__40__
+ # 40
 ^1^»Tröstet, tröstet mein Volk!« spricht euer Gott;
 ^2^»redet herzlich zu (meiner Stadt) Jerusalem und ruft ihr zu, daß ihr Kriegsdienst<sup title="oder: Frondienst = ihre Leidenszeit">&#x2732;</sup> ein Ende erreicht hat, weil ihre Schuld abgetragen ist, weil sie von der Hand des HERRN doppelte Strafe empfangen hat für alle ihre Sünden.«
 
@@ -1380,7 +1380,7 @@ __40__
 
 #### a) Gottes Aufforderung an die Heidenvölker zu einem Rechtsstreit über die Frage, wer den unwiderstehlichen Helden (Cyrus) im Osten erweckt habe
 
-__41__
+ # 41
 ^1^»Höret mich schweigend an, ihr Meeresländer, und die Völker mögen neue Kraft gewinnen! Laßt sie herzutreten, alsdann mögen sie reden: vereint wollen wir in den Rechtsstreit eintreten!
 ^2^Wer hat vom Sonnenaufgang her den (Mann) erweckt, dem der Sieg entgegenkommt auf Schritt und Tritt? Wer gibt Völker in seine Gewalt und läßt ihn Könige niedertreten, daß sein Schwert sie wie Staub macht und sein Bogen wie verwehte Spreu,
 ^3^daß er hinter ihnen herjagt, unversehrt einherzieht, ohne den Pfad mit seinen Füßen zu berühren?
@@ -1430,7 +1430,7 @@ __41__
 
 ##### aa) Hinweisung Gottes auf seinen erwählten Knecht und dessen Wesen und Werk
 
-__42__
+ # 42
 ^1^Siehe da, mein Knecht, an dem ich festhalte, mein Erwählter, an dem mein Herz Wohlgefallen hat: Ich habe meinen Geist auf ihn gelegt, damit er das Recht<sup title="oder: die Wahrheit">&#x2732;</sup> zu den Völkern hinaustrage.
 ^2^Er wird nicht schreien noch lärmen und seine Stimme nicht auf der Straße hören lassen;
 ^3^ein geknicktes Rohr wird er nicht abbrechen und einen glimmenden Docht nicht auslöschen; getreulich wird er das Recht<sup title="oder: die Wahrheit">&#x2732;</sup> kundtun.
@@ -1472,7 +1472,7 @@ __42__
 
 ##### aa) Ankündigung der Befreiung und Sammlung des gesamten Gottesvolkes aus allen Himmelsgegenden
 
-__43__
+ # 43
 ^1^Jetzt aber, so spricht der HERR, der dich geschaffen hat, Jakob, und der dich gebildet hat, Israel: »Fürchte dich nicht, denn ich habe dich erlöst; ich habe dich bei deinem Namen gerufen: du bist mein!
 ^2^Sooft du durchs Wasser gehst: ich bin bei dir, und durch Ströme: sie sollen dich nicht überfluten! Sooft du durchs Feuer gehst: du sollst nicht versengt werden, und die Flamme soll dir nichts antun!
 ^3^Denn ich, der HERR, bin dein Gott, ich, der Heilige Israels, bin dein Retter; ich gebe Ägypten als Lösegeld für dich hin, Äthiopien und Saba an deiner Statt.
@@ -1516,7 +1516,7 @@ __43__
 
 ##### ff) Verheißung reichen göttlichen Segens, besonders der Spendung des Gottesgeistes
 
-__44__
+ # 44
 ^1^»Nun aber höre, Jakob, mein Knecht, und du, Israel, das ich erwählt habe!
 ^2^So spricht der HERR, der dich geschaffen und dich vom Mutterleib an gebildet hat, dein Helfer: Fürchte dich nicht, mein Knecht Jakob, und du, geliebtes Israel, das ich erwählt habe!
 ^3^Denn wie ich Wasser ausgieße auf das dürstende Land und Rieselfluten auf dürres Erdreich, so will ich meinen Geist auf deinen Samen<sup title="= deine Kinder">&#x2732;</sup> ausgießen und meinen Segen auf deine Sprößlinge,
@@ -1568,7 +1568,7 @@ __44__
 
 ##### bb) Gottes Erwählung des Cyrus zur Erlösung Israels; Heilsverkündigung für den Gotteshelden
 
-__45__
+ # 45
 ^1^So hat der HERR zu seinem Gesalbten gesprochen, zu Cyrus, den ich bei seiner rechten Hand ergriffen habe, um Völker vor ihm niederzustrecken und den Gürtel von den Hüften der Könige zu lösen, um Türen vor ihm aufzutun und Tore, damit sie ihm nicht verschlossen bleiben:
 ^2^»Ich will selbst vor dir hergehen und das Unwegsame ebnen; eherne Pforten will ich sprengen und eiserne Riegel zerschlagen;
 ^3^ich will dir die im Dunkel verborgenen Schätze übergeben und die wohlversteckten Kostbarkeiten, damit du erkennst, daß ich, der HERR, es bin, der dich bei deinem Namen gerufen hat, der Gott Israels.
@@ -1612,7 +1612,7 @@ __45__
 
 ##### aa) Das klägliche Ende der babylonischen Götzen
 
-__46__
+ # 46
 ^1^Bel ist niedergesunken<sup title="oder: zusammengebrochen">&#x2732;</sup>, es krümmt sich Nebo: ihre Götzenbilder werden den Saumtieren und dem Lastvieh zugewiesen<sup title="= aufgeladen">&#x2732;</sup>, die Bilder, die ihr vordem umhertrugt, sind als Last dem müden Vieh aufgepackt!
 ^2^Ja, sie krümmen sich, sind allesamt niedergesunken, haben die Last nicht in Sicherheit zu bringen vermocht; und sie selbst müssen mit in die Gefangenschaft wandern!
 
@@ -1639,7 +1639,7 @@ __46__
 
 ##### aa) Erniedrigung der stolzen und üppigen Herrscherin zum Los einer Sklavin
 
-__47__
+ # 47
 ^1^Herunter mit dir (vom Thron) und setze dich in den Staub, du jungfräuliche Tochter Babel! Setze dich auf den Erdboden ohne Thron<sup title="oder: Stuhl">&#x2732;</sup> nieder, du Tochter der Chaldäer! Denn in Zukunft wird man dich nicht mehr die Zarte und Feine nennen.
 ^2^Nimm eine Mühle und mahle Mehl, schlage deinen Schleier zurück, hebe die Schleppe hoch, entblöße die Beine, wate durch strömendes Wasser,
 ^3^damit deine Blöße aufgedeckt wird und man auch deine Scham zu sehen bekommt! »Rache will ich nehmen und schonungslos gegen alle vorgehen!« spricht unser Erlöser:
@@ -1669,7 +1669,7 @@ __47__
 
 ##### aa) Harte Anrede an das verstockte Volk
 
-__48__
+ # 48
 ^1^Höret dies, ihr vom Hause Jakob, die ihr nach Israels Namen benannt und aus Judas Leibe hervorgegangen seid, die ihr schwört beim Namen des HERRN und euch zum Gott Israels bekennt – doch nicht in Wahrhaftigkeit und nicht in Gerechtigkeit –;
 ^2^denn nach der heiligen Stadt haben sie sich den Namen beigelegt, und auf den Gott Israels stützen sie sich, dessen Name ›HERR der Heerscharen‹ ist:
 
@@ -1710,7 +1710,7 @@ Jetzt aber hat Gott der HERR mich gesandt und seinen Geist.
 
 #### a) Selbstrede des Knechtes an die Heiden über sein Amt nach göttlichem Willen
 
-__49__
+ # 49
 ^1^Höret auf mich, ihr Meeresländer, und merkt auf, ihr Völker in der Ferne! Der HERR hat mich von Geburt an berufen, von meiner Mutter Schoß an meinen Namen in Erinnerung gebracht<sup title="= bekannt gemacht">&#x2732;</sup>.
 ^2^Und er hat meinen Mund einem scharfen Schwerte gleich gemacht, im Schatten<sup title="= Schutz">&#x2732;</sup> seiner Hand mich geborgen und mich zu einem auserlesenen<sup title="oder: blanken">&#x2732;</sup> Pfeil gemacht, in seinem Köcher mich sicher verwahrt
 ^3^und zu mir gesagt: »Mein Knecht bist du, Israel, an dem ich mich verherrlichen will.«
@@ -1757,7 +1757,7 @@ __49__
 
 ##### cc) Gott hat sein Volk endgültig weder verstoßen noch verkauft; er hat das Recht und die Macht, es zu erlösen
 
-__50__
+ # 50
 ^1^So hat der HERR gesprochen: »Wo ist denn der Scheidebrief eurer Mutter, durch den ich sie verstoßen<sup title="oder: entlassen">&#x2732;</sup> hätte? Oder wo ist einer unter meinen Gläubigern, an den ich euch verkauft hätte? Nein, um eurer Verschuldungen willen seid ihr verkauft worden, und wegen eurer Übertretungen ist eure Mutter entlassen worden!
 ^2^Warum war also kein Mensch da, wenn ich kam? Warum gab mir niemand Antwort, wenn ich rief? Ist mein Arm wirklich zu kurz, um zu erlösen? Oder besitze ich nicht Kraft genug, um zu erretten? Ich lege ja doch das Meer durch mein Schelten<sup title="oder: Drohen">&#x2732;</sup> trocken und mache Ströme zur Wüste, so daß ihre Fischbrut vor Wassermangel verfault und (ihr Getier) vor Durst stirbt.
 ^3^Ich kleide den Himmel in Schwarz und mache Sackleinen<sup title="= das Trauergewand">&#x2732;</sup> zur Hülle für ihn.«
@@ -1780,7 +1780,7 @@ __50__
 
 #### a) Gottes Verheißung und Tröstung in drei Zurufen
 
-__51__
+ # 51
 ^1^Höret auf mich, die ihr der Gerechtigkeit nachjagt, ihr, die ihr den HERRN sucht! Blickt hin auf den Felsen, aus dem ihr gehauen, und auf die Brunnenhöhlung, aus der ihr ausgegraben seid!
 ^2^Blickt hin auf Abraham, euren Vater, und auf Sara, die unter Schmerzen euch geboren hat! denn er war nur ein einzelner, als ich ihn berief, aber ich habe ihn gesegnet und zahlreich gemacht.
 ^3^Denn Trost hat der HERR für Zion, Trost für alle seine<sup title="d.h. Zions">&#x2732;</sup> Trümmerstätten und wird seine<sup title="d.h. Zions">&#x2732;</sup> Wüstenei zu einem Paradies machen und seine Steppe zu einem Gottesgarten: Jubel und Freude wird sich in ihm<sup title="d.h. in Zion">&#x2732;</sup> einfinden, Danklied und Saitenspiel.
@@ -1820,7 +1820,7 @@ __51__
 
 #### b) Aufforderung an Zion, sich in würdiger Weise zum Empfang der Erlösten zu rüsten
 
-__52__
+ # 52
 ^1^Werde wach, werde wach, kleide dich in deine Kraft<sup title="oder: deinen Sieg">&#x2732;</sup>, Zion! Lege deine Prachtgewänder an, Jerusalem, du heilige Stadt! Denn hinfort wird kein Unbeschnittener und kein Unreiner in dich eintreten!
 ^2^Schüttle den Staub von dir ab, stehe auf, du Gefangenenschar Jerusalems! Entledige dich deiner Halsfesseln, du Gefangenenschar Tochter Zion<sup title="= Bewohnerschaft Zions">&#x2732;</sup>!
 ^3^Denn so hat der HERR gesprochen: »Ohne Entgelt seid ihr verkauft worden; so sollt ihr auch ohne Geld losgekauft werden!«
@@ -1848,7 +1848,7 @@ __52__
 
 #### b) Des Gottesknechts tiefe Erniedrigung, seine schweren Leiden für die Sünder, sein geduldiges Sterben und die ihm gegebene Verheißung
 
-__53__
+ # 53
 ^1^Wer hat unserer Verkündigung<sup title="oder: der uns gewordenen Botschaft">&#x2732;</sup> Glauben geschenkt, und wem ist der Arm des HERRN<sup title="= das Wirken des göttlichen Armes">&#x2732;</sup> offenbar geworden?
 ^2^Er<sup title="d.h. der Knecht des HERRN">&#x2732;</sup> wuchs ja vor ihm auf wie ein Schößling und wie ein Wurzelsproß aus dürrem Erdreich; er hatte keine Gestalt und keine Schönheit, daß wir ihn hätten ansehen mögen, und kein Aussehen<sup title="oder: keine Erscheinung">&#x2732;</sup>, daß wir Gefallen an ihm gehabt hätten;
 ^3^nein, er war verachtet und gemieden von den Männern<sup title="= hochstehenden Menschen">&#x2732;</sup>, ein Mann der Schmerzen und mit Krankheit<sup title="oder: Leiden">&#x2732;</sup> vertraut, ja wie einer, vor dem man das Angesicht verhüllt, verachtet, so daß wir ihn für nichts ansahen.
@@ -1869,7 +1869,7 @@ __53__
 
 #### a) Die gnadenreiche Wiederannahme und der reiche Kindersegen Zions; der ewige Friedensbund
 
-__54__
+ # 54
 ^1^Juble, du Kinderlose, die nicht Mutter geworden ist; brich in Jubel aus und jauchze, die du keine Geburtsschmerzen hast kennengelernt! Denn »die Kinder der Einsamen<sup title="oder: Alleinstehenden">&#x2732;</sup> werden zahlreicher sein als die Kinder der Verehelichten«, ist der Ausspruch des HERRN.
 ^2^Erweitere den Raum deines Zeltes, und man spanne die Decken<sup title="oder: Behänge">&#x2732;</sup> deiner Wohnräume weit auseinander, ohne zu sparen! Mache deine Zeltseile lang und schlage deine Zeltpflöcke fest ein!
 ^3^Denn nach rechts und nach links wirst du dich ausbreiten, und deine Nachkommenschaft wird ganze Völker beerben<sup title="oder: in Besitz nehmen">&#x2732;</sup> und verödete Städte neu bevölkern.
@@ -1893,7 +1893,7 @@ __54__
 
 ### 8. Dringliche Mahnung an das Volk, die im Davidsbund verheißenen und jetzt ohne Entgelt dargebotene Heilsgüter zu ergreifen
 
-__55__
+ # 55
 ^1^Ach ihr Durstigen alle, kommt her zum Wasser, und ihr alle, die ihr kein Geld habt, kommt herbei, kauft (Brot) und eßt! Ja kommt, kauft ohne Zahlung und unentgeltlich Wein und Milch!
 ^2^Warum wollt ihr Geld für das zahlen, was kein Brot ist, und euren sauren Verdienst für etwas, das nicht zur Sättigung dient<sup title="= was nicht satt macht">&#x2732;</sup>? Hört doch auf mich, so sollt ihr Gutes zu essen haben, und laben soll sich eure Seele an fetter Speise!
 ^3^Leiht mir euer Ohr und kommt her zu mir! Hört, auf daß eure Seele auflebt<sup title="oder: genest">&#x2732;</sup>! Denn ich will mit euch einen ewigen Bund schließen, (will) die dem David gegebenen unverbrüchlichen Gnadenverheißungen (verwirklichen).
@@ -1915,7 +1915,7 @@ __55__
 
 ### 1. Das Heil ist nahe und die Zugehörigkeit zur Gemeinde ist jedermann, auch den Nichtisraeliten, möglich
 
-__56__
+ # 56
 ^1^So hat der HERR gesprochen: »Beobachtet das Recht und übet Gerechtigkeit! Denn nahe ist mein Heil, um einzutreffen, und meine Gerechtigkeit, um offenbar zu werden.«
 ^2^Wohl dem Menschen, der solches tut, und dem Menschenkind, das hieran festhält: der den Sabbat beobachtet, so daß er ihn nicht entheiligt, und seine Hand von jeder bösen Tat fernhält!
 ^3^Und der Fremdling, der sich an den HERRN angeschlossen hat, möge nicht sagen: »Der HERR wird mich sicherlich aus seinem Volk ausschließen!« Und der Verschnittene sage nicht: »Ach, ich bin nur ein dürrer Baum!«
@@ -1934,7 +1934,7 @@ __56__
 ^11^und dabei sind sie freßgierige Hunde, die keine Sättigung kennen. Und zugleich sind sie Hirten, die kein Verständnis und keine Einsicht zeigen: alle gehen ihrem eigenen Wege nach, jeder ist auf seinen Vorteil bedacht, einer wie der andere.
 ^12^»Kommt her« (sagen sie), »ich will Wein holen, und Rauschtrank wollen wir zechen! Und morgen soll es wieder so zugehen wie heute, herrlich über alle Maßen!«
 
-__57__
+ # 57
 ^1^Der Gerechte kommt um, ohne daß jemand es sich zu Herzen nimmt, und die Frommen werden hinweggerafft, ohne daß jemand es beachtet; denn der Gerechte wird infolge der herrschenden Bosheit hinweggerafft;
 ^2^es geht (aber) ein zum Frieden, es ruht auf seiner Lagerstätte aus ein jeder, der seinen Weg gerade vor sich hin gewandelt ist.
 
@@ -1967,7 +1967,7 @@ __57__
 
 #### a) Der nichtige Gottesdienst der Gegenwart; Unwert des äußerlichen Fastens
 
-__58__
+ # 58
 ^1^Rufe mit voller Kehle aus, ohne an dich zu halten, laß deine Stimme laut erschallen wie eine Posaune und halte meinem Volk seine Untreue vor und dem Hause Jakobs seine Sünden!
 ^2^Zwar befragen sie mich Tag für Tag und tragen Verlangen nach der Kenntnis meiner Wege; als wären sie ein Volk, das Gerechtigkeit geübt und das Recht seines Gottes nicht verlassen hat, fordern sie Gerichte der Gerechtigkeit<sup title="oder: wohlverdiente Rechte">&#x2732;</sup> von mir, erwarten ungeduldig das Nahen<sup title="oder: Erscheinen">&#x2732;</sup> Gottes.
 ^3^»Warum fasten wir« (sagen sie), »und du siehst es nicht? Warum kasteien wir uns, und du beachtest es nicht?« Bedenket wohl: am Tage, wo ihr fastet, geht ihr doch euren Geschäften nach und drängt alle eure Leute zur Arbeit.
@@ -1993,7 +1993,7 @@ __58__
 
 #### a) Strafrede des Propheten über die allgemeine Sündhaftigkeit
 
-__59__
+ # 59
 ^1^Wisset wohl: der Arm des HERRN ist nicht zu kurz, daß er nicht helfen könnte, und sein Ohr ist nicht so taub, daß er nicht hörte;
 ^2^nein, eure Verschuldungen bilden eine Scheidewand zwischen euch und eurem Gott, und eure Sünden haben sein Angesicht vor euch verhüllt, so daß er nicht hört;
 ^3^denn eure Hände sind mit Blut befleckt und eure Finger mit Verschuldung; eure Lippen reden Lüge, und eure Zunge läßt Unwahrheit verlauten.
@@ -2030,7 +2030,7 @@ Als der HERR das sah, mißfiel es ihm sehr, daß nirgends Recht vorhanden war;
 
 ##### aa) Zion von Gottes Lichtglanz überstrahlt
 
-__60__
+ # 60
 ^1^Mache dich auf, werde licht! Denn dein Licht ist gekommen, und die Herrlichkeit des HERRN ist über dir erstrahlt.
 ^2^Denn wohl bedeckt Finsternis die Erde und Dunkel die Völker, aber über dir strahlt der HERR wie eine Sonne auf, und seine Herrlichkeit wird sichtbar über dir.
 ^3^Völker wallen zu deinem Licht hin und Könige zu dem Glanz, in dem du strahlst.
@@ -2070,7 +2070,7 @@ __60__
 
 ##### aa) Der Gottesbote (d.h. geistgesalbte Sprecher) verkündet den Zweck seiner Sendung
 
-__61__
+ # 61
 ^1^Der Geist Gottes des HERRN ruht auf mir, weil der HERR mich gesalbt<sup title="= geweiht">&#x2732;</sup> hat, um den Elenden<sup title="oder: Demütigen">&#x2732;</sup> frohe Botschaft zu bringen; er hat mich ja gesandt, um die, welche gebrochenen Herzens sind, zu verbinden, den Gefangenen die Freilassung anzukündigen und den Gebundenen die Entfesselung,
 ^2^ein Gnadenjahr des HERRN und einen Tag der Rache unsers Gottes auszurufen, um allen Trauernden Trost zu bringen,
 ^3^den um Zion Trauernden als Gnadengeschenk zu verleihen Kopfschmuck statt der schmutzigen Asche, Freudenöl statt des Trauergewandes, Lobgesang statt eines verzagten Geistes, damit man sie nenne ›Eichen der Gerechtigkeit‹, ›die Pflanzung des HERRN ihm zur Verherrlichung‹.
@@ -2093,7 +2093,7 @@ __61__
 
 ##### aa) Gott verkündet, er wolle nicht an sich halten, bis Zions Glanzzeit komme
 
-__62__
+ # 62
 ^1^Um Zions willen darf ich nicht schweigen und um Jerusalems willen mir keine Ruhe gönnen<sup title="= nicht ruhig zusehen">&#x2732;</sup>, bis seine Gerechtigkeit<sup title="= Rechtfertigung">&#x2732;</sup> aufgeht wie Lichtglanz<sup title="= die Morgensonne">&#x2732;</sup> und sein Heil wie eine brennende Fackel,
 ^2^und bis die Völker deine Gerechtigkeit<sup title="= Rechtfertigung">&#x2732;</sup> sehen und alle Könige deine Herrlichkeit<sup title="oder: Ehre">&#x2732;</sup> und man dir einen neuen Namen beilegt, den der Mund des HERRN bestimmen wird.
 
@@ -2118,7 +2118,7 @@ __62__
 
 ### 7. Das bevorstehende Strafgericht über Edom und andere gottfeindliche Heidenvölker
 
-__63__
+ # 63
 ^1^Wer ist es, der dort von Edom herkommt, von Bozra in hochroten Kleidern? Prächtig ist er in seinem Gewand, stolz schreitet er einher in der Fülle seiner Kraft. »Ich bin es, der mit Gerechtigkeit redet, der reiche Mittel hat zu retten.«
 ^2^»Woher rührt das Rot an deinem Gewande, und warum sehen deine Kleider aus wie die eines Keltertreters?«
 ^3^»Die Kelter habe ich getreten, ich allein, denn von den Völkern stand niemand mir bei; da habe ich sie in meinem Zorn niedergetreten und in meinem Grimm zerstampft; dabei ist ihr Lebenssaft an meine Kleider gespritzt, so daß ich meine ganze Gewandung besudelt habe.
@@ -2154,7 +2154,7 @@ __63__
 
 b O daß du doch den Himmel zerrissest, herabführest, so daß die Berge vor dir ins Wanken gerieten –
 
-__64__
+ # 64
 ^1^wie Feuer Reisig in Brand setzt und Feuer das Wasser in Sieden versetzt –, um deinen Namen deinen Widersachern kundzutun, damit die Völker vor dir erzitterten,
 ^2^indem du furchtbare Taten vollführtest, die unsere Erwartung überstiegen! Ja, führest du herab, so daß die Berge vor dir ins Wanken gerieten!
 ^3^Hat man doch von alters her nicht gehört noch vernommen, hat doch kein Auge es je gesehen, daß ein Gott außer dir für einen auf ihn Harrenden Taten vollbringt.
@@ -2175,7 +2175,7 @@ __64__
 
 #### a) Gottes Klage über das abtrünnige Volk; Strafandrohung für die Abgefallenen
 
-__65__
+ # 65
 ^1^»Ich bin zu erkunden gewesen für die<sup title="oder: von denen">&#x2732;</sup>, welche nicht (nach mir) fragten<sup title="oder: gefragt hatten">&#x2732;</sup>, und ich bin zu finden gewesen für die<sup title="oder: von denen">&#x2732;</sup>, welche mich nicht suchten<sup title="oder: gesucht hatten">&#x2732;</sup>; ich habe ›Hier bin ich! Hier bin ich!‹ gesagt zu einem Volk, das meinen Namen nicht anrief<sup title="oder: noch nicht angerufen hatte">&#x2732;</sup>.
 ^2^Ich habe meine Arme den ganzen Tag ausgestreckt nach einem widerspenstigen Volk, das seinen eigenen Gedanken nachgeht auf unheilvollem Wege,
 ^3^nach Leuten, die mich beständig in kränkender Weise erbittern, indem sie in den Gärten Schlachtopfer und auf (Altären von) Ziegelsteinen Rauchopfer darbringen,
@@ -2215,7 +2215,7 @@ __65__
 
 #### a) Gott lehnt einen Tempelbau und den Dienst heidnisch gerichteter Verehrer ab
 
-__66__
+ # 66
 ^1^So hat der HERR weiter gesprochen: »Der Himmel ist mein Thron und die Erde der Schemel meiner Füße: was für ein Haus wäre es, das ihr mir bauen könntet, und welches wäre die Stätte, wo ich ruhen<sup title="= wohnen">&#x2732;</sup> soll?
 ^2^Hat doch meine Hand dies ganze Weltall geschaffen, so daß dies alles entstanden ist« – so lautet der Ausspruch des HERRN. »Ich blicke aber nach dem hin, der demütig und zerschlagenen Geistes ist und der (in Ehrfurcht) bebt beim Gedanken an mein Wort.
 ^3^Wer ein Rind schlachtet, zugleich aber ein Menschenmörder ist; wer ein Stück Kleinvieh opfert, zugleich aber einem Hund das Genick bricht; wer ein Speisopfer darbringt, aber Schweinsblut dazu verwendet; wer Weihrauch als Duftopfer anzündet, zugleich aber einen Götzen verehrt – nun, wie diese ihre eigenen Wege erwählt haben und ihr Herz Wohlgefallen an ihren Scheusalen<sup title="oder: Greueln">&#x2732;</sup> hat,

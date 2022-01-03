@@ -1,1372 +1,969 @@
 ## Jesús como el “Verbo” hecho hombre
 # 1 
-\bibverse{1} En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios. \bibverse{2} Este era en el principio con Dios. \bibverse{3} Todas las cosas por él fueron hechas; y sin él nada de lo que es hecho, fué hecho. ^[**1:3** 1Cor 8,6; Col 1,16-17; Heb 1,2] \bibverse{4} En él estaba la vida, y la vida era la luz de los hombres. ^[**1:4** Juan 8,12] \bibverse{5} Y la luz en las tinieblas resplandece; mas las tinieblas no la comprendieron. 
-^[**1:5** Juan 3,19] 
+\bibleverse{1} En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios. \bibleverse{2} Este era en el principio con Dios. \bibleverse{3} Todas las cosas por él fueron hechas; y sin él nada de lo que es hecho, fué hecho. ^[**1:3** 1Cor 8,6; Col 1,16-17; Heb 1,2] \bibleverse{4} En él estaba la vida, y la vida era la luz de los hombres. ^[**1:4** Juan 8,12] \bibleverse{5} Y la luz en las tinieblas resplandece; mas las tinieblas no la comprendieron. ^[**1:5** Juan 3,19] 
   
 
-\bibverse{6} Fué un hombre enviado de Dios, el cual se llamaba Juan. ^[**1:6** Mat 3,1; Mar 1,4] \bibverse{7} Este vino por testimonio, para que diese testimonio de la luz, para que todos creyesen por él. ^[**1:7** Hech 19,4] \bibverse{8} No era él la luz, sino para que diese testimonio de la luz. \bibverse{9} Aquél era la luz verdadera, que alumbra á todo hombre que viene á este mundo. 
-
+\bibleverse{6} Fué un hombre enviado de Dios, el cual se llamaba Juan. ^[**1:6** Mat 3,1; Mar 1,4] \bibleverse{7} Este vino por testimonio, para que diese testimonio de la luz, para que todos creyesen por él. ^[**1:7** Hech 19,4] \bibleverse{8} No era él la luz, sino para que diese testimonio de la luz. \bibleverse{9} Aquél era la luz verdadera, que alumbra á todo hombre que viene á este mundo. 
  
 
-\bibverse{10} En el mundo estaba, y el mundo fué hecho por él; y el mundo no le conoció. \bibverse{11} A lo suyo vino, y los suyos no le recibieron. \bibverse{12} Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre: \bibverse{13} Los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, mas de Dios. 
-^[**1:13** Juan 3,5-6] 
+\bibleverse{10} En el mundo estaba, y el mundo fué hecho por él; y el mundo no le conoció. \bibleverse{11} A lo suyo vino, y los suyos no le recibieron. \bibleverse{12} Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre: \bibleverse{13} Los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, mas de Dios. ^[**1:13** Juan 3,5-6] 
 
 
-\bibverse{14} Y aquel Verbo fué hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad. ^[**1:14** Is 7,14; Is 60,1; 2Pe 1,16-17] \bibverse{15} Juan dió testimonio de él, y clamó diciendo: Este es del que yo decía: El que viene tras mí, es antes de mí: porque es primero que yo. \bibverse{16} Porque de su plenitud tomamos todos, y gracia por gracia. ^[**1:16** Juan 3,34; Col 1,19] \bibverse{17} Porque la ley por Moisés fué dada: mas la gracia y la verdad por Jesucristo fué hecha. ^[**1:17** Rom 10,4] \bibverse{18} A Dios nadie le vió jamás: el unigénito Hijo, que está en el seno del Padre, él le declaró. 
-
-^[**1:18** Juan 6,46; Mat 11,27] 
+\bibleverse{14} Y aquel Verbo fué hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad. ^[**1:14** Is 7,14; Is 60,1; 2Pe 1,16-17] \bibleverse{15} Juan dió testimonio de él, y clamó diciendo: Este es del que yo decía: El que viene tras mí, es antes de mí: porque es primero que yo. \bibleverse{16} Porque de su plenitud tomamos todos, y gracia por gracia. ^[**1:16** Juan 3,34; Col 1,19] \bibleverse{17} Porque la ley por Moisés fué dada: mas la gracia y la verdad por Jesucristo fué hecha. ^[**1:17** Rom 10,4] \bibleverse{18} A Dios nadie le vió jamás: el unigénito Hijo, que está en el seno del Padre, él le declaró. ^[**1:18** Juan 6,46; Mat 11,27] 
    
 
 ## El testimonio de sí mismo del Bautista
-\bibverse{19} Y éste es el testimonio de Juan, cuando los Judíos enviaron de Jerusalem sacerdotes y Levitas, que le preguntasen: ¿Tú, quién eres? 
+\bibleverse{19} Y éste es el testimonio de Juan, cuando los Judíos enviaron de Jerusalem sacerdotes y Levitas, que le preguntasen: ¿Tú, quién eres? 
 
+\bibleverse{20} Y confesó, y no negó; mas declaró: No soy yo el Cristo. 
 
-\bibverse{20} Y confesó, y no negó; mas declaró: No soy yo el Cristo. 
+\bibleverse{21} Y le preguntaron: ¿Qué pues? ¿Eres tú Elías? Dijo: No soy. ¿Eres tú el profeta? Y respondió: No. 
 
+\bibleverse{22} Dijéronle: ¿Pues quién eres? para que demos respuesta á los que nos enviaron. ¿Qué dices de ti mismo? 
 
-\bibverse{21} Y le preguntaron: ¿Qué pues? ¿Eres tú Elías? Dijo: No soy. ¿Eres tú el profeta? Y respondió: No. 
+\bibleverse{23} Dijo: Yo soy la voz del que clama en el desierto: Enderezad el camino del Señor, como dijo Isaías profeta. 
 
+\bibleverse{24} Y los que habían sido enviados eran de los Fariseos. \bibleverse{25} Y preguntáronle, y dijéronle: ¿Por qué pues bautizas, si tú no eres el Cristo, ni Elías, ni el profeta? 
 
-\bibverse{22} Dijéronle: ¿Pues quién eres? para que demos respuesta á los que nos enviaron. ¿Qué dices de ti mismo? 
-
-
-\bibverse{23} Dijo: Yo soy la voz del que clama en el desierto: Enderezad el camino del Señor, como dijo Isaías profeta. 
-
-
-\bibverse{24} Y los que habían sido enviados eran de los Fariseos. \bibverse{25} Y preguntáronle, y dijéronle: ¿Por qué pues bautizas, si tú no eres el Cristo, ni Elías, ni el profeta? 
-
-
-\bibverse{26} Y Juan les respondió, diciendo: Yo bautizo con agua; mas en medio de vosotros ha estado á quien vosotros no conocéis. ^[**1:26** Luc 17,21] \bibverse{27} Este es el que ha de venir tras mí, el cual es antes de mí: del cual yo no soy digno de desatar la correa del zapato. \bibverse{28} Estas cosas acontecieron en Betábara, de la otra parte del Jordán, donde Juan bautizaba. 
-
-
+\bibleverse{26} Y Juan les respondió, diciendo: Yo bautizo con agua; mas en medio de vosotros ha estado á quien vosotros no conocéis. ^[**1:26** Luc 17,21] \bibleverse{27} Este es el que ha de venir tras mí, el cual es antes de mí: del cual yo no soy digno de desatar la correa del zapato. \bibleverse{28} Estas cosas acontecieron en Betábara, de la otra parte del Jordán, donde Juan bautizaba. 
 
 
 ## El testimonio del Bautista acerca de Jesús
-\bibverse{29} El siguiente día ve Juan á Jesús que venía á él, y dice: He aquí el Cordero de Dios, que quita el pecado del mundo. \bibverse{30} Este es del que dije: Tras mí viene un varón, el cual es antes de mí: porque era primero que yo. \bibverse{31} Y yo no le conocía; más para que fuese manifestado á Israel, por eso vine yo bautizando con agua. \bibverse{32} Y Juan dió testimonio, diciendo: Vi al Espíritu que descendía del cielo como paloma, y reposó sobre él. \bibverse{33} Y yo no le conocía; mas el que me envió á bautizar con agua, aquél me dijo: Sobre quien vieres descender el Espíritu, y que reposa sobre él, éste es el que bautiza con Espíritu Santo. \bibverse{34} Y yo le vi, y he dado testimonio que éste es el Hijo de Dios. 
+\bibleverse{29} El siguiente día ve Juan á Jesús que venía á él, y dice: He aquí el Cordero de Dios, que quita el pecado del mundo. \bibleverse{30} Este es del que dije: Tras mí viene un varón, el cual es antes de mí: porque era primero que yo. \bibleverse{31} Y yo no le conocía; más para que fuese manifestado á Israel, por eso vine yo bautizando con agua. \bibleverse{32} Y Juan dió testimonio, diciendo: Vi al Espíritu que descendía del cielo como paloma, y reposó sobre él. \bibleverse{33} Y yo no le conocía; mas el que me envió á bautizar con agua, aquél me dijo: Sobre quien vieres descender el Espíritu, y que reposa sobre él, éste es el que bautiza con Espíritu Santo. \bibleverse{34} Y yo le vi, y he dado testimonio que éste es el Hijo de Dios. 
+
+\bibleverse{35} El siguiente día otra vez estaba Juan, y dos de sus discípulos. \bibleverse{36} Y mirando á Jesús que andaba por allí, dijo: He aquí el Cordero de Dios. \bibleverse{37} Y oyéronle los dos discípulos hablar, y siguieron á Jesús. \bibleverse{38} Y volviéndose Jesús, y viéndolos seguirle, díceles: ¿Qué buscáis? Y ellos le dijeron: Rabbí (que declarado quiere decir Maestro) ¿dónde moras? 
+
+\bibleverse{39} Díceles: Venid y ved. Vinieron, y vieron donde moraba, y quedáronse con él aquel día: porque era como la hora de las diez. 
+
+\bibleverse{40} Era Andrés, hermano de Simón Pedro, uno de los dos que habían oído de Juan, y le habían seguido. ^[**1:40** Mat 4,18-20] \bibleverse{41} Este halló primero á su hermano Simón, y díjole: Hemos hallado al Mesías (que declarado es, el Cristo). \bibleverse{42} Y le trajo á Jesús. Y mirándole Jesús, dijo: Tú eres Simón, hijo de Jonás: tú serás llamado Cephas (que quiere decir, Piedra). 
 
 
-\bibverse{35} El siguiente día otra vez estaba Juan, y dos de sus discípulos. \bibverse{36} Y mirando á Jesús que andaba por allí, dijo: He aquí el Cordero de Dios. \bibverse{37} Y oyéronle los dos discípulos hablar, y siguieron á Jesús. \bibverse{38} Y volviéndose Jesús, y viéndolos seguirle, díceles: ¿Qué buscáis? Y ellos le dijeron: Rabbí (que declarado quiere decir Maestro) ¿dónde moras? 
+\bibleverse{43} El siguiente día quiso Jesús ir á Galilea, y halla á Felipe, al cual dijo: Sígueme. \bibleverse{44} Y era Felipe de Bethsaida, la ciudad de Andrés y de Pedro. \bibleverse{45} Felipe halló á Natanael, y dícele: Hemos hallado á aquel de quien escribió Moisés en la ley, y los profetas: á Jesús, el hijo de José, de Nazaret. ^[**1:45** Deut 18,18; Is 53,2; Jer 23,5; Ezeq 34,23] 
 
 
-\bibverse{39} Díceles: Venid y ved. Vinieron, y vieron donde moraba, y quedáronse con él aquel día: porque era como la hora de las diez. 
+\bibleverse{46} Y díjole Natanael: ¿De Nazaret puede haber algo de bueno? Dícele Felipe: Ven y ve. ^[**1:46** Juan 7,41] 
 
 
-\bibverse{40} Era Andrés, hermano de Simón Pedro, uno de los dos que habían oído de Juan, y le habían seguido. ^[**1:40** Mat 4,18-20] \bibverse{41} Este halló primero á su hermano Simón, y díjole: Hemos hallado al Mesías (que declarado es, el Cristo). \bibverse{42} Y le trajo á Jesús. Y mirándole Jesús, dijo: Tú eres Simón, hijo de Jonás: tú serás llamado Cephas (que quiere decir, Piedra). 
+\bibleverse{47} Jesús vió venir á sí á Natanael, y dijo de él: He aquí un verdadero Israelita, en el cual no hay engaño. 
+
+\bibleverse{48} Dícele Natanael: ¿De dónde me conoces? Respondió Jesús, y díjole: Antes que Felipe te llamara, cuando estabas debajo de la higuera te vi. 
+
+\bibleverse{49} Respondió Natanael, y díjole: Rabbí, tú eres el Hijo de Dios; tú eres el Rey de Israel. ^[**1:49** Sal 2,7; Jer 23,5; Juan 6,69; Mat 14,33; Mat 16,16] 
 
 
-
-\bibverse{43} El siguiente día quiso Jesús ir á Galilea, y halla á Felipe, al cual dijo: Sígueme. \bibverse{44} Y era Felipe de Bethsaida, la ciudad de Andrés y de Pedro. \bibverse{45} Felipe halló á Natanael, y dícele: Hemos hallado á aquel de quien escribió Moisés en la ley, y los profetas: á Jesús, el hijo de José, de Nazaret. 
-^[**1:45** Deut 18,18; Is 53,2; Jer 23,5; Ezeq 34,23] 
-
-
-\bibverse{46} Y díjole Natanael: ¿De Nazaret puede haber algo de bueno? Dícele Felipe: Ven y ve. 
-^[**1:46** Juan 7,41] 
-
-
-\bibverse{47} Jesús vió venir á sí á Natanael, y dijo de él: He aquí un verdadero Israelita, en el cual no hay engaño. 
-
-
-\bibverse{48} Dícele Natanael: ¿De dónde me conoces? Respondió Jesús, y díjole: Antes que Felipe te llamara, cuando estabas debajo de la higuera te vi. 
-
-
-\bibverse{49} Respondió Natanael, y díjole: Rabbí, tú eres el Hijo de Dios; tú eres el Rey de Israel. 
-^[**1:49** Sal 2,7; Jer 23,5; Juan 6,69; Mat 14,33; Mat 16,16] 
-
-
-\bibverse{50} Respondió Jesús y díjole: ¿Porque te dije, te vi debajo de la higuera, crees? cosas mayores que éstas verás. \bibverse{51} Y dícele: De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y los ángeles de Dios que suben y descienden sobre el Hijo del hombre. 
+\bibleverse{50} Respondió Jesús y díjole: ¿Porque te dije, te vi debajo de la higuera, crees? cosas mayores que éstas verás. \bibleverse{51} Y dícele: De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y los ángeles de Dios que suben y descienden sobre el Hijo del hombre. 
 
 ## La primera señal milagrosa de Jesús en las bodas de Caná
 # 2 
-\bibverse{1} Y al tercer día hiciéronse unas bodas en Caná de Galilea; y estaba allí la madre de Jesús. \bibverse{2} Y fué también llamado Jesús y sus discípulos á las bodas. \bibverse{3} Y faltando el vino, la madre de Jesús le dijo: Vino no tienen. 
+\bibleverse{1} Y al tercer día hiciéronse unas bodas en Caná de Galilea; y estaba allí la madre de Jesús. \bibleverse{2} Y fué también llamado Jesús y sus discípulos á las bodas. \bibleverse{3} Y faltando el vino, la madre de Jesús le dijo: Vino no tienen. 
+
+\bibleverse{4} Y dícele Jesús: ¿Qué tengo yo contigo, mujer? aun no ha venido mi hora. ^[**2:4** Juan 19,26] 
 
 
-\bibverse{4} Y dícele Jesús: ¿Qué tengo yo contigo, mujer? aun no ha venido mi hora. 
-^[**2:4** Juan 19,26] 
+\bibleverse{5} Su madre dice á los que servían: Haced todo lo que os dijere. 
 
-
-\bibverse{5} Su madre dice á los que servían: Haced todo lo que os dijere. 
-
-
-\bibverse{6} Y estaban allí seis tinajuelas de piedra para agua, conforme á la purificación de los Judíos, que cabían en cada una dos ó tres cántaros. \bibverse{7} Díceles Jesús: Henchid estas tinajuelas de agua. E hinchiéronlas hasta arriba. \bibverse{8} Y díceles: Sacad ahora, y presentad al maestresala. Y presentáronle. \bibverse{9} Y como el maestresala gustó el agua hecha vino, que no sabía de dónde era (mas lo sabían los sirvientes que habían sacado el agua), el maestresala llama al esposo, \bibverse{10} Y dícele: Todo hombre pone primero el buen vino, y cuando están satisfechos, entonces lo que es peor; mas tú has guardado el buen vino hasta ahora. \bibverse{11} Este principio de señales hizo Jesús en Caná de Galilea, y manifestó su gloria; y sus discípulos creyeron en él. 
-
-^[**2:11** Juan 1,14] 
+\bibleverse{6} Y estaban allí seis tinajuelas de piedra para agua, conforme á la purificación de los Judíos, que cabían en cada una dos ó tres cántaros. \bibleverse{7} Díceles Jesús: Henchid estas tinajuelas de agua. E hinchiéronlas hasta arriba. \bibleverse{8} Y díceles: Sacad ahora, y presentad al maestresala. Y presentáronle. \bibleverse{9} Y como el maestresala gustó el agua hecha vino, que no sabía de dónde era (mas lo sabían los sirvientes que habían sacado el agua), el maestresala llama al esposo, \bibleverse{10} Y dícele: Todo hombre pone primero el buen vino, y cuando están satisfechos, entonces lo que es peor; mas tú has guardado el buen vino hasta ahora. \bibleverse{11} Este principio de señales hizo Jesús en Caná de Galilea, y manifestó su gloria; y sus discípulos creyeron en él. ^[**2:11** Juan 1,14] 
 
 
 ## Jesús por primera vez en Jerusalén en la Pascua
-\bibverse{12} Después de esto descendió á Capernaum, él, y su madre, y hermanos, y discípulos; y estuvieron allí no muchos días. 
-^[**2:12** Juan 7,3; Mat 13,55] 
+\bibleverse{12} Después de esto descendió á Capernaum, él, y su madre, y hermanos, y discípulos; y estuvieron allí no muchos días. ^[**2:12** Juan 7,3; Mat 13,55] 
 
 
-\bibverse{13} Y estaba cerca la Pascua de los Judíos; y subió Jesús á Jerusalem. ^[**2:13** Mat 20,18; Mar 11,1; Luc 19,28; Juan 5,1] \bibverse{14} Y halló en el templo á los que vendían bueyes, y ovejas, y palomas, y á los cambiadores sentados. \bibverse{15} Y hecho un azote de cuerdas, echólos á todos del templo, y las ovejas, y los bueyes; y derramó los dineros de los cambiadores, y trastornó las mesas; \bibverse{16} Y á los que vendían las palomas, dijo: Quitad de aquí esto, y no hagáis la casa de mi Padre casa de mercado. \bibverse{17} Entonces se acordaron sus discípulos que está escrito: El celo de tu casa me comió. 
+\bibleverse{13} Y estaba cerca la Pascua de los Judíos; y subió Jesús á Jerusalem. ^[**2:13** Mat 20,18; Mar 11,1; Luc 19,28; Juan 5,1] \bibleverse{14} Y halló en el templo á los que vendían bueyes, y ovejas, y palomas, y á los cambiadores sentados. \bibleverse{15} Y hecho un azote de cuerdas, echólos á todos del templo, y las ovejas, y los bueyes; y derramó los dineros de los cambiadores, y trastornó las mesas; \bibleverse{16} Y á los que vendían las palomas, dijo: Quitad de aquí esto, y no hagáis la casa de mi Padre casa de mercado. \bibleverse{17} Entonces se acordaron sus discípulos que está escrito: El celo de tu casa me comió. 
 
 
+\bibleverse{18} Y los Judíos respondieron, y dijéronle: ¿Qué señal nos muestras de que haces esto? 
 
-\bibverse{18} Y los Judíos respondieron, y dijéronle: ¿Qué señal nos muestras de que haces esto? 
-
-
-\bibverse{19} Respondió Jesús, y díjoles: Destruid este templo, y en tres días lo levantaré. 
-^[**2:19** Mat 26,61; Mat 27,40] 
+\bibleverse{19} Respondió Jesús, y díjoles: Destruid este templo, y en tres días lo levantaré. ^[**2:19** Mat 26,61; Mat 27,40] 
 
 
-\bibverse{20} Dijeron luego los Judíos: En cuarenta y seis años fué este templo edificado, ¿y tú en tres días lo levantarás? \bibverse{21} Mas él hablaba del templo de su cuerpo. \bibverse{22} Por tanto, cuando resucitó de los muertos, sus discípulos se acordaron que había dicho esto; y creyeron á la Escritura, y á la palabra que Jesús había dicho. 
-^[**2:22** Os 6,2] 
+\bibleverse{20} Dijeron luego los Judíos: En cuarenta y seis años fué este templo edificado, ¿y tú en tres días lo levantarás? \bibleverse{21} Mas él hablaba del templo de su cuerpo. \bibleverse{22} Por tanto, cuando resucitó de los muertos, sus discípulos se acordaron que había dicho esto; y creyeron á la Escritura, y á la palabra que Jesús había dicho. ^[**2:22** Os 6,2] 
 
 
-\bibverse{23} Y estando en Jerusalem en la Pascua, en el día de la fiesta, muchos creyeron en su nombre, viendo las señales que hacía. \bibverse{24} Mas el mismo Jesús no se confiaba á sí mismo de ellos, porque él conocía á todos, \bibverse{25} Y no tenía necesidad que alguien le diese testimonio del hombre; porque él sabía lo que había en el hombre. 
+\bibleverse{23} Y estando en Jerusalem en la Pascua, en el día de la fiesta, muchos creyeron en su nombre, viendo las señales que hacía. \bibleverse{24} Mas el mismo Jesús no se confiaba á sí mismo de ellos, porque él conocía á todos, \bibleverse{25} Y no tenía necesidad que alguien le diese testimonio del hombre; porque él sabía lo que había en el hombre. 
 
 ## Jesús y Nicodemo
 # 3 
-\bibverse{1} Y había un hombre de los Fariseos que se llamaba Nicodemo, príncipe de los Judíos. ^[**3:1** Juan 7,50; Juan 19,39] \bibverse{2} Este vino á Jesús de noche, y díjole: Rabbí, sabemos que has venido de Dios por maestro; porque nadie puede hacer estas señales que tú haces, si no fuere Dios con él. 
+\bibleverse{1} Y había un hombre de los Fariseos que se llamaba Nicodemo, príncipe de los Judíos. ^[**3:1** Juan 7,50; Juan 19,39] \bibleverse{2} Este vino á Jesús de noche, y díjole: Rabbí, sabemos que has venido de Dios por maestro; porque nadie puede hacer estas señales que tú haces, si no fuere Dios con él. 
 
 
+\bibleverse{3} Respondió Jesús, y díjole: De cierto, de cierto te digo, que el que no naciere otra vez, no puede ver el reino de Dios. 
 
-\bibverse{3} Respondió Jesús, y díjole: De cierto, de cierto te digo, que el que no naciere otra vez, no puede ver el reino de Dios. 
+\bibleverse{4} Dícele Nicodemo: ¿Cómo puede el hombre nacer siendo viejo? ¿puede entrar otra vez en el vientre de su madre, y nacer? 
 
-
-\bibverse{4} Dícele Nicodemo: ¿Cómo puede el hombre nacer siendo viejo? ¿puede entrar otra vez en el vientre de su madre, y nacer? 
-
-
-\bibverse{5} Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios. ^[**3:5** Ezeq 36,25-27; Mat 3,11; Tit 3,5] \bibverse{6} Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu, espíritu es. ^[**3:6** Juan 1,13; Rom 8,5-9] \bibverse{7} No te maravilles de que te dije: Os es necesario nacer otra vez. \bibverse{8} El viento de donde quiere sopla, y oyes su sonido; mas ni sabes de dónde viene, ni á dónde vaya: así es todo aquel que es nacido del Espíritu. 
-
+\bibleverse{5} Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios. ^[**3:5** Ezeq 36,25-27; Mat 3,11; Tit 3,5] \bibleverse{6} Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu, espíritu es. ^[**3:6** Juan 1,13; Rom 8,5-9] \bibleverse{7} No te maravilles de que te dije: Os es necesario nacer otra vez. \bibleverse{8} El viento de donde quiere sopla, y oyes su sonido; mas ni sabes de dónde viene, ni á dónde vaya: así es todo aquel que es nacido del Espíritu. 
  
 
-\bibverse{9} Respondió Nicodemo, y díjole: ¿Cómo puede esto hacerse? 
+\bibleverse{9} Respondió Nicodemo, y díjole: ¿Cómo puede esto hacerse? 
 
-
-\bibverse{10} Respondió Jesús, y díjole: ¿Tú eres el maestro de Israel, y no sabes esto? \bibverse{11} De cierto, de cierto te digo, que lo que sabemos hablamos, y lo que hemos visto, testificamos; y no recibís nuestro testimonio. \bibverse{12} Si os he dicho cosas terrenas, y no creéis, ¿cómo creeréis si os dijere las celestiales? \bibverse{13} Y nadie subió al cielo, sino el que descendió del cielo, el Hijo del hombre, que está en el cielo. \bibverse{14} Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del hombre sea levantado; ^[**3:14** Núm 21,8-9] \bibverse{15} Para que todo aquel que en él creyere, no se pierda, sino que tenga vida eterna. \bibverse{16} Porque de tal manera amó Dios al mundo, que ha dado á su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna. \bibverse{17} Porque no envió Dios á su Hijo al mundo para que condene al mundo, mas para que el mundo sea salvo por él. ^[**3:17** Luc 19,10] \bibverse{18} El que en él cree, no es condenado; mas el que no cree, ya es condenado, porque no creyó en el nombre del unigénito Hijo de Dios. ^[**3:18** Juan 5,24] \bibverse{19} Y esta es la condenación: porque la luz vino al mundo, y los hombres amaron más las tinieblas que la luz; porque sus obras eran malas. ^[**3:19** Juan 1,5; Juan 1,9-11] \bibverse{20} Porque todo aquel que hace lo malo, aborrece la luz y no viene á la luz, porque sus obras no sean redargüidas. ^[**3:20** Efes 5,13] \bibverse{21} Mas el que obra verdad, viene á la luz, para que sus obras sean manifestadas que son hechas en Dios. 
-
-^[**3:21** 1Jn 1,6] 
+\bibleverse{10} Respondió Jesús, y díjole: ¿Tú eres el maestro de Israel, y no sabes esto? \bibleverse{11} De cierto, de cierto te digo, que lo que sabemos hablamos, y lo que hemos visto, testificamos; y no recibís nuestro testimonio. \bibleverse{12} Si os he dicho cosas terrenas, y no creéis, ¿cómo creeréis si os dijere las celestiales? \bibleverse{13} Y nadie subió al cielo, sino el que descendió del cielo, el Hijo del hombre, que está en el cielo. \bibleverse{14} Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del hombre sea levantado; ^[**3:14** Núm 21,8-9] \bibleverse{15} Para que todo aquel que en él creyere, no se pierda, sino que tenga vida eterna. \bibleverse{16} Porque de tal manera amó Dios al mundo, que ha dado á su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna. \bibleverse{17} Porque no envió Dios á su Hijo al mundo para que condene al mundo, mas para que el mundo sea salvo por él. ^[**3:17** Luc 19,10] \bibleverse{18} El que en él cree, no es condenado; mas el que no cree, ya es condenado, porque no creyó en el nombre del unigénito Hijo de Dios. ^[**3:18** Juan 5,24] \bibleverse{19} Y esta es la condenación: porque la luz vino al mundo, y los hombres amaron más las tinieblas que la luz; porque sus obras eran malas. ^[**3:19** Juan 1,5; Juan 1,9-11] \bibleverse{20} Porque todo aquel que hace lo malo, aborrece la luz y no viene á la luz, porque sus obras no sean redargüidas. ^[**3:20** Efes 5,13] \bibleverse{21} Mas el que obra verdad, viene á la luz, para que sus obras sean manifestadas que son hechas en Dios. ^[**3:21** 1Jn 1,6] 
      
 
 ## Jesús en Judea y el testimonio final del Bautista
-\bibverse{22} Pasado esto, vino Jesús con sus discípulos á la tierra de Judea; y estaba allí con ellos, y bautizaba. ^[**3:22** Juan 4,1-2] \bibverse{23} Y bautizaba también Juan en Enón junto á Salim, porque había allí muchas aguas; y venían, y eran bautizados. \bibverse{24} Porque Juan no había sido aún puesto en la carcel. ^[**3:24** Mar 1,14] \bibverse{25} Y hubo cuestión entre los discípulos de Juan y los Judíos acerca de la purificación. \bibverse{26} Y vinieron á Juan, y dijéronle: Rabbí, el que estaba contigo de la otra parte del Jordán, del cual tú diste testimonio, he aquí bautiza, y todos vienen á él. 
-
+\bibleverse{22} Pasado esto, vino Jesús con sus discípulos á la tierra de Judea; y estaba allí con ellos, y bautizaba. ^[**3:22** Juan 4,1-2] \bibleverse{23} Y bautizaba también Juan en Enón junto á Salim, porque había allí muchas aguas; y venían, y eran bautizados. \bibleverse{24} Porque Juan no había sido aún puesto en la carcel. ^[**3:24** Mar 1,14] \bibleverse{25} Y hubo cuestión entre los discípulos de Juan y los Judíos acerca de la purificación. \bibleverse{26} Y vinieron á Juan, y dijéronle: Rabbí, el que estaba contigo de la otra parte del Jordán, del cual tú diste testimonio, he aquí bautiza, y todos vienen á él. 
  
 
-\bibverse{27} Respondió Juan, y dijo: No puede el hombre recibir algo, si no le fuere dado del cielo. ^[**3:27** Heb 5,4] \bibverse{28} Vosotros mismos me sois testigos que dije: Yo no soy el Cristo, sino que soy enviado delante de él. ^[**3:28** Juan 1,20; Juan 1,23; Juan 1,27] \bibverse{29} El que tiene la esposa, es el esposo; mas el amigo del esposo, que está en pie y le oye, se goza grandemente de la voz del esposo; así pues, este mi gozo es cumplido. ^[**3:29** Mat 9,15] \bibverse{30} A él conviene crecer, mas á mí menguar. 
-
+\bibleverse{27} Respondió Juan, y dijo: No puede el hombre recibir algo, si no le fuere dado del cielo. ^[**3:27** Heb 5,4] \bibleverse{28} Vosotros mismos me sois testigos que dije: Yo no soy el Cristo, sino que soy enviado delante de él. ^[**3:28** Juan 1,20; Juan 1,23; Juan 1,27] \bibleverse{29} El que tiene la esposa, es el esposo; mas el amigo del esposo, que está en pie y le oye, se goza grandemente de la voz del esposo; así pues, este mi gozo es cumplido. ^[**3:29** Mat 9,15] \bibleverse{30} A él conviene crecer, mas á mí menguar. 
   
 
-\bibverse{31} El que de arriba viene, sobre todos es: el que es de la tierra, terreno es, y cosas terrenas habla: el que viene del cielo, sobre todos es. \bibverse{32} Y lo que vió y oyó, esto testifica: y nadie recibe su testimonio. \bibverse{33} El que recibe su testimonio, éste signó que Dios es verdadero. \bibverse{34} Porque el que Dios envió, las palabras de Dios habla: porque no da Dios el Espíritu por medida. ^[**3:34** Juan 1,16] \bibverse{35} El Padre ama al Hijo, y todas las cosas dió en su mano. 
-^[**3:35** Juan 5,20; Mat 11,27] 
- \bibverse{36} El que cree en el Hijo, tiene vida eterna; mas el que es incrédulo al Hijo, no verá la vida, sino que la ira de Dios está sobre él. 
+\bibleverse{31} El que de arriba viene, sobre todos es: el que es de la tierra, terreno es, y cosas terrenas habla: el que viene del cielo, sobre todos es. \bibleverse{32} Y lo que vió y oyó, esto testifica: y nadie recibe su testimonio. \bibleverse{33} El que recibe su testimonio, éste signó que Dios es verdadero. \bibleverse{34} Porque el que Dios envió, las palabras de Dios habla: porque no da Dios el Espíritu por medida. ^[**3:34** Juan 1,16] \bibleverse{35} El Padre ama al Hijo, y todas las cosas dió en su mano. ^[**3:35** Juan 5,20; Mat 11,27] \bibleverse{36} El que cree en el Hijo, tiene vida eterna; mas el que es incrédulo al Hijo, no verá la vida, sino que la ira de Dios está sobre él.
+  
 
 ## Jesús habla con la mujer samaritana junto al pozo de Jacob
 # 4 
-\bibverse{1} De manera que como Jesús entendió que los Fariseos habían oído que Jesús hacía y bautizaba más discípulos que Juan, ^[**4:1** Juan 3,22; Juan 3,26] \bibverse{2} (Aunque Jesús no bautizaba, sino sus discípulos), \bibverse{3} Dejó á Judea, y fuése otra vez á Galilea. \bibverse{4} Y era menester que pasase por Samaria. \bibverse{5} Vino, pues, á una ciudad de Samaria que se llamaba Sichâr, junto á la heredad que Jacob dió á José su hijo. \bibverse{6} Y estaba allí la fuente de Jacob. Pues Jesús, cansado del camino, así se sentó á la fuente. Era como la hora de sexta. 
+\bibleverse{1} De manera que como Jesús entendió que los Fariseos habían oído que Jesús hacía y bautizaba más discípulos que Juan, ^[**4:1** Juan 3,22; Juan 3,26] \bibleverse{2} (Aunque Jesús no bautizaba, sino sus discípulos), \bibleverse{3} Dejó á Judea, y fuése otra vez á Galilea. \bibleverse{4} Y era menester que pasase por Samaria. \bibleverse{5} Vino, pues, á una ciudad de Samaria que se llamaba Sichâr, junto á la heredad que Jacob dió á José su hijo. \bibleverse{6} Y estaba allí la fuente de Jacob. Pues Jesús, cansado del camino, así se sentó á la fuente. Era como la hora de sexta. 
 
 
+\bibleverse{7} Vino una mujer de Samaria á sacar agua: y Jesús le dice: Dame de beber. \bibleverse{8} (Porque sus discípulos habían ido á la ciudad á comprar de comer.) 
 
-\bibverse{7} Vino una mujer de Samaria á sacar agua: y Jesús le dice: Dame de beber. \bibverse{8} (Porque sus discípulos habían ido á la ciudad á comprar de comer.) 
-
-
-\bibverse{9} Y la mujer Samaritana le dice: ¿Cómo tú, siendo Judío, me pides á mí de beber, que soy mujer Samaritana? porque los Judíos no se tratan con los Samaritanos. 
-^[**4:9** Luc 9,52-53] 
+\bibleverse{9} Y la mujer Samaritana le dice: ¿Cómo tú, siendo Judío, me pides á mí de beber, que soy mujer Samaritana? porque los Judíos no se tratan con los Samaritanos. ^[**4:9** Luc 9,52-53] 
 
 
-\bibverse{10} Respondió Jesús y díjole: Si conocieses el don de Dios, y quién es el que te dice: Dame de beber: tú pedirías de él, y él te daría agua viva. 
-^[**4:10** Juan 7,38-39] 
+\bibleverse{10} Respondió Jesús y díjole: Si conocieses el don de Dios, y quién es el que te dice: Dame de beber: tú pedirías de él, y él te daría agua viva. ^[**4:10** Juan 7,38-39] 
 
 
-\bibverse{11} La mujer le dice: Señor, no tienes con qué sacarla, y el pozo es hondo: ¿de dónde, pues, tienes el agua viva? \bibverse{12} ¿Eres tú mayor que nuestro padre Jacob, que nos dió este pozo, del cual él bebió, y sus hijos, y sus ganados? 
+\bibleverse{11} La mujer le dice: Señor, no tienes con qué sacarla, y el pozo es hondo: ¿de dónde, pues, tienes el agua viva? \bibleverse{12} ¿Eres tú mayor que nuestro padre Jacob, que nos dió este pozo, del cual él bebió, y sus hijos, y sus ganados? 
 
-
-\bibverse{13} Respondió Jesús y díjole: Cualquiera que bebiere de esta agua, volverá á tener sed; ^[**4:13** Juan 6,58] \bibverse{14} Mas el que bebiere del agua que yo le daré, para siempre no tendrá sed: mas el agua que yo le daré, será en él una fuente de agua que salte para vida eterna. 
-^[**4:14** Juan 6,35; Juan 7,38-39] 
+\bibleverse{13} Respondió Jesús y díjole: Cualquiera que bebiere de esta agua, volverá á tener sed; ^[**4:13** Juan 6,58] \bibleverse{14} Mas el que bebiere del agua que yo le daré, para siempre no tendrá sed: mas el agua que yo le daré, será en él una fuente de agua que salte para vida eterna. ^[**4:14** Juan 6,35; Juan 7,38-39] 
  
 
-\bibverse{15} La mujer le dice: Señor, dame esta agua, para que no tenga sed, ni venga acá á sacarla. 
+\bibleverse{15} La mujer le dice: Señor, dame esta agua, para que no tenga sed, ni venga acá á sacarla. 
+
+\bibleverse{16} Jesús le dice: Ve, llama á tu marido, y ven acá. 
+
+\bibleverse{17} Respondió la mujer, y dijo: No tengo marido. Dícele Jesús: Bien has dicho, No tengo marido; 
+
+\bibleverse{18} Porque cinco maridos has tenido: y el que ahora tienes no es tu marido; esto has dicho con verdad. 
+
+\bibleverse{19} Dícele la mujer: Señor, paréceme que tú eres profeta. \bibleverse{20} Nuestros padres adoraron en este monte, y vosotros decís que en Jerusalem es el lugar donde es necesario adorar. ^[**4:20** Deut 12,5; Sal 122,-1] 
 
 
-\bibverse{16} Jesús le dice: Ve, llama á tu marido, y ven acá. 
+\bibleverse{21} Dícele Jesús: Mujer, créeme, que la hora viene, cuando ni en este monte, ni en Jerusalem adoraréis al Padre. \bibleverse{22} Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos: porque la salud viene de los Judíos. \bibleverse{23} Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren. \bibleverse{24} Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren. ^[**4:24** Rom 12,1; 2Cor 3,17] 
 
 
-\bibverse{17} Respondió la mujer, y dijo: No tengo marido. Dícele Jesús: Bien has dicho, No tengo marido; 
+\bibleverse{25} Dícele la mujer: Sé que el Mesías ha de venir, el cual se dice el Cristo: cuando él viniere nos declarará todas las cosas. ^[**4:25** Juan 1,41] 
 
 
-\bibverse{18} Porque cinco maridos has tenido: y el que ahora tienes no es tu marido; esto has dicho con verdad. 
-
-
-\bibverse{19} Dícele la mujer: Señor, paréceme que tú eres profeta. \bibverse{20} Nuestros padres adoraron en este monte, y vosotros decís que en Jerusalem es el lugar donde es necesario adorar. 
-^[**4:20** Deut 12,5; Sal 122,-1] 
-
-
-\bibverse{21} Dícele Jesús: Mujer, créeme, que la hora viene, cuando ni en este monte, ni en Jerusalem adoraréis al Padre. \bibverse{22} Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos: porque la salud viene de los Judíos. \bibverse{23} Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren. \bibverse{24} Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren. 
-^[**4:24** Rom 12,1; 2Cor 3,17] 
-
-
-\bibverse{25} Dícele la mujer: Sé que el Mesías ha de venir, el cual se dice el Cristo: cuando él viniere nos declarará todas las cosas. 
-^[**4:25** Juan 1,41] 
-
-
-\bibverse{26} Dícele Jesús: Yo soy, que hablo contigo. 
-
-
+\bibleverse{26} Dícele Jesús: Yo soy, que hablo contigo. 
 
 ## Jesús y los discípulos
-\bibverse{27} Y en esto vinieron sus discípulos, y maravilláronse de que hablaba con mujer; mas ninguno dijo: ¿Qué preguntas? ó, ¿Qué hablas con ella? \bibverse{28} Entonces la mujer dejó su cántaro, y fué á la ciudad, y dijo á aquellos hombres: \bibverse{29} Venid, ved un hombre que me ha dicho todo lo que he hecho: ¿si quizás es éste el Cristo? \bibverse{30} Entonces salieron de la ciudad, y vinieron á él. 
+\bibleverse{27} Y en esto vinieron sus discípulos, y maravilláronse de que hablaba con mujer; mas ninguno dijo: ¿Qué preguntas? ó, ¿Qué hablas con ella? \bibleverse{28} Entonces la mujer dejó su cántaro, y fué á la ciudad, y dijo á aquellos hombres: \bibleverse{29} Venid, ved un hombre que me ha dicho todo lo que he hecho: ¿si quizás es éste el Cristo? \bibleverse{30} Entonces salieron de la ciudad, y vinieron á él. 
 
+\bibleverse{31} Entre tanto los discípulos le rogaban, diciendo: Rabbí, come. 
 
-\bibverse{31} Entre tanto los discípulos le rogaban, diciendo: Rabbí, come. 
+\bibleverse{32} Y él les dijo: Yo tengo una comida que comer, que vosotros no sabéis. 
 
+\bibleverse{33} Entonces los discípulos decían el uno al otro: ¿Si le habrá traído alguien de comer? 
 
-\bibverse{32} Y él les dijo: Yo tengo una comida que comer, que vosotros no sabéis. 
-
-
-\bibverse{33} Entonces los discípulos decían el uno al otro: ¿Si le habrá traído alguien de comer? 
-
-
-\bibverse{34} Díceles Jesús: Mi comida es que haga la voluntad del que me envió, y que acabe su obra. ^[**4:34** Juan 6,38; Juan 17,4] \bibverse{35} ¿No decís vosotros: Aun hay cuatro meses hasta que llegue la siega? He aquí os digo: Alzad vuestros ojos, y mirad las regiones, porque ya están blancas para la siega. ^[**4:35** Mat 9,37] \bibverse{36} Y el que siega, recibe salario, y allega fruto para vida eterna; para que el que siembra también goce, y el que siega. \bibverse{37} Porque en esto es el dicho verdadero: Que uno es el que siembra, y otro es el que siega. \bibverse{38} Yo os he enviado á segar lo que vosotros no labrasteis: otros labraron, y vosotros habéis entrado en sus labores. 
-
+\bibleverse{34} Díceles Jesús: Mi comida es que haga la voluntad del que me envió, y que acabe su obra. ^[**4:34** Juan 6,38; Juan 17,4] \bibleverse{35} ¿No decís vosotros: Aun hay cuatro meses hasta que llegue la siega? He aquí os digo: Alzad vuestros ojos, y mirad las regiones, porque ya están blancas para la siega. ^[**4:35** Mat 9,37] \bibleverse{36} Y el que siega, recibe salario, y allega fruto para vida eterna; para que el que siembra también goce, y el que siega. \bibleverse{37} Porque en esto es el dicho verdadero: Que uno es el que siembra, y otro es el que siega. \bibleverse{38} Yo os he enviado á segar lo que vosotros no labrasteis: otros labraron, y vosotros habéis entrado en sus labores. 
  
 
-\bibverse{39} Y muchos de los Samaritanos de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio, diciendo: Que me dijo todo lo que he hecho. \bibverse{40} Viniendo pues los Samaritanos á él, rogáronle que se quedase allí: y se quedó allí dos días. \bibverse{41} Y creyeron muchos más por la palabra de él. \bibverse{42} Y decían á la mujer: Ya no creemos por tu dicho; porque nosotros mismos hemos oído, y sabemos que verdaderamente éste es el Salvador del mundo, el Cristo. 
-
-^[**4:42** Hech 8,5-8] 
+\bibleverse{39} Y muchos de los Samaritanos de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio, diciendo: Que me dijo todo lo que he hecho. \bibleverse{40} Viniendo pues los Samaritanos á él, rogáronle que se quedase allí: y se quedó allí dos días. \bibleverse{41} Y creyeron muchos más por la palabra de él. \bibleverse{42} Y decían á la mujer: Ya no creemos por tu dicho; porque nosotros mismos hemos oído, y sabemos que verdaderamente éste es el Salvador del mundo, el Cristo. ^[**4:42** Hech 8,5-8] 
 
 
 ## Curación del hijo de un funcionario real en Cafarnaúm
-\bibverse{43} Y dos días después, salió de allí, y fuése á Galilea. ^[**4:43** Mat 4,12] \bibverse{44} Porque el mismo Jesús dió testimonio de que el profeta en su tierra no tiene honra. ^[**4:44** Mat 13,57] \bibverse{45} Y como vino á Galilea, los Galileos le recibieron, vistas todas las cosas que había hecho en Jerusalem en el día de la fiesta: porque también ellos habían ido á la fiesta. ^[**4:45** Juan 2,23] \bibverse{46} Vino pues Jesús otra vez á Caná de Galilea, donde había hecho el vino del agua. Y había en Capernaum uno del rey, cuyo hijo estaba enfermo. ^[**4:46** Juan 2,1; Juan 2,9] \bibverse{47} Este, como oyó que Jesús venía de Judea á Galilea, fué á él, y rogábale que descendiese, y sanase á su hijo, porque se comenzaba á morir. \bibverse{48} Entonces Jesús le dijo: Si no viereis señales y milagros no creeréis. 
-
+\bibleverse{43} Y dos días después, salió de allí, y fuése á Galilea. ^[**4:43** Mat 4,12] \bibleverse{44} Porque el mismo Jesús dió testimonio de que el profeta en su tierra no tiene honra. ^[**4:44** Mat 13,57] \bibleverse{45} Y como vino á Galilea, los Galileos le recibieron, vistas todas las cosas que había hecho en Jerusalem en el día de la fiesta: porque también ellos habían ido á la fiesta. ^[**4:45** Juan 2,23] \bibleverse{46} Vino pues Jesús otra vez á Caná de Galilea, donde había hecho el vino del agua. Y había en Capernaum uno del rey, cuyo hijo estaba enfermo. ^[**4:46** Juan 2,1; Juan 2,9] \bibleverse{47} Este, como oyó que Jesús venía de Judea á Galilea, fué á él, y rogábale que descendiese, y sanase á su hijo, porque se comenzaba á morir. \bibleverse{48} Entonces Jesús le dijo: Si no viereis señales y milagros no creeréis. 
    
 
-\bibverse{49} El del rey le dijo: Señor, desciende antes que mi hijo muera. 
+\bibleverse{49} El del rey le dijo: Señor, desciende antes que mi hijo muera. 
 
-
-\bibverse{50} Dícele Jesús: Ve, tu hijo vive. Y el hombre creyó á la palabra que Jesús le dijo, y se fué. \bibverse{51} Y cuando ya él descendía, los siervos le salieron á recibir, y le dieron nuevas, diciendo: Tu hijo vive. \bibverse{52} Entonces él les preguntó á qué hora comenzó á estar mejor. Y dijéronle: Ayer á las siete le dejó la fiebre. \bibverse{53} El padre entonces entendió, que aquella hora era cuando Jesús le dijo: Tu hijo vive; y creyó él y toda su casa. \bibverse{54} Esta segunda señal volvió Jesús á hacer, cuando vino de Judea á Galilea. ^[**4:54** Juan 2,11] 
+\bibleverse{50} Dícele Jesús: Ve, tu hijo vive. Y el hombre creyó á la palabra que Jesús le dijo, y se fué. \bibleverse{51} Y cuando ya él descendía, los siervos le salieron á recibir, y le dieron nuevas, diciendo: Tu hijo vive. \bibleverse{52} Entonces él les preguntó á qué hora comenzó á estar mejor. Y dijéronle: Ayer á las siete le dejó la fiebre. \bibleverse{53} El padre entonces entendió, que aquella hora era cuando Jesús le dijo: Tu hijo vive; y creyó él y toda su casa. \bibleverse{54} Esta segunda señal volvió Jesús á hacer, cuando vino de Judea á Galilea. ^[**4:54** Juan 2,11] 
  
 
 ## Sanación de los enfermos en el estanque de Betesda cerca de Jerusalén y concurso del sábado
 # 5 
-\bibverse{1} Después de estas cosas, era un día de fiesta de los Judíos, y subió Jesús á Jerusalem. ^[**5:1** Juan 2,13] \bibverse{2} Y hay en Jerusalem á la puerta del ganado un estanque, que en hebraico es llamado Bethesda, el cual tiene cinco portales. ^[**5:2** Neh 3,1] \bibverse{3} En éstos yacía multitud de enfermos, ciegos, cojos, secos, que estaban esperando el movimiento del agua. \bibverse{4} Porque un ángel descendía á cierto tiempo al estanque, y revolvía el agua; y el que primero descendía en el estanque después del movimiento del agua, era sano de cualquier enfermedad que tuviese. \bibverse{5} Y estaba allí un hombre que había treinta y ocho años que estaba enfermo. \bibverse{6} Como Jesús vió á éste echado, y entendió que ya había mucho tiempo, dícele: ¿Quieres ser sano? 
-
+\bibleverse{1} Después de estas cosas, era un día de fiesta de los Judíos, y subió Jesús á Jerusalem. ^[**5:1** Juan 2,13] \bibleverse{2} Y hay en Jerusalem á la puerta del ganado un estanque, que en hebraico es llamado Bethesda, el cual tiene cinco portales. ^[**5:2** Neh 3,1] \bibleverse{3} En éstos yacía multitud de enfermos, ciegos, cojos, secos, que estaban esperando el movimiento del agua. \bibleverse{4} Porque un ángel descendía á cierto tiempo al estanque, y revolvía el agua; y el que primero descendía en el estanque después del movimiento del agua, era sano de cualquier enfermedad que tuviese. \bibleverse{5} Y estaba allí un hombre que había treinta y ocho años que estaba enfermo. \bibleverse{6} Como Jesús vió á éste echado, y entendió que ya había mucho tiempo, dícele: ¿Quieres ser sano? 
  
 
-\bibverse{7} Señor, le respondió el enfermo, no tengo hombre que me meta en el estanque cuando el agua fuere revuelta; porque entre tanto que yo vengo, otro antes de mí ha descendido. 
+\bibleverse{7} Señor, le respondió el enfermo, no tengo hombre que me meta en el estanque cuando el agua fuere revuelta; porque entre tanto que yo vengo, otro antes de mí ha descendido. 
+
+\bibleverse{8} Dícele Jesús: Levántate, toma tu lecho, y anda. 
+
+\bibleverse{9} Y luego aquel hombre fué sano, y tomó su lecho, é íbase. Y era sábado aquel día. 
+
+\bibleverse{10} Entonces los Judíos decían á aquel que había sido sanado: Sábado es: no te es lícito llevar tu lecho. 
+
+\bibleverse{11} Respondióles: El que me sanó, él mismo me dijo: Toma tu lecho y anda. 
+
+\bibleverse{12} Preguntáronle entonces: ¿Quién es el que te dijo: Toma tu lecho y anda? 
+
+\bibleverse{13} Y el que había sido sanado, no sabía quién fuese; porque Jesús se había apartado de la gente que estaba en aquel lugar. 
+
+\bibleverse{14} Después le halló Jesús en el templo, y díjole: He aquí, has sido sanado; no peques más, porque no te venga alguna cosa peor. ^[**5:14** Juan 8,11] 
 
 
-\bibverse{8} Dícele Jesús: Levántate, toma tu lecho, y anda. 
+\bibleverse{15} El se fué, y dió aviso á los Judíos, que Jesús era el que le había sanado. \bibleverse{16} Y por esta causa los Judíos perseguían á Jesús, y procuraban matarle, porque hacía estas cosas en sábado. \bibleverse{17} Y Jesús les respondió: Mi Padre hasta ahora obra, y yo obro. ^[**5:17** Juan 9,4] 
 
 
-\bibverse{9} Y luego aquel hombre fué sano, y tomó su lecho, é íbase. Y era sábado aquel día. 
-
-
-\bibverse{10} Entonces los Judíos decían á aquel que había sido sanado: Sábado es: no te es lícito llevar tu lecho. 
-
-
-\bibverse{11} Respondióles: El que me sanó, él mismo me dijo: Toma tu lecho y anda. 
-
-
-\bibverse{12} Preguntáronle entonces: ¿Quién es el que te dijo: Toma tu lecho y anda? 
-
-
-\bibverse{13} Y el que había sido sanado, no sabía quién fuese; porque Jesús se había apartado de la gente que estaba en aquel lugar. 
-
-
-\bibverse{14} Después le halló Jesús en el templo, y díjole: He aquí, has sido sanado; no peques más, porque no te venga alguna cosa peor. 
-^[**5:14** Juan 8,11] 
-
-
-\bibverse{15} El se fué, y dió aviso á los Judíos, que Jesús era el que le había sanado. \bibverse{16} Y por esta causa los Judíos perseguían á Jesús, y procuraban matarle, porque hacía estas cosas en sábado. \bibverse{17} Y Jesús les respondió: Mi Padre hasta ahora obra, y yo obro. 
-^[**5:17** Juan 9,4] 
-
-
-\bibverse{18} Entonces, por tanto, más procuraban los Judíos matarle, porque no sólo quebrantaba el sábado, sino que también á su Padre llamaba Dios, haciéndose igual á Dios. 
-
-^[**5:18** Juan 7,30; Juan 10,33] 
+\bibleverse{18} Entonces, por tanto, más procuraban los Judíos matarle, porque no sólo quebrantaba el sábado, sino que también á su Padre llamaba Dios, haciéndose igual á Dios. ^[**5:18** Juan 7,30; Juan 10,33] 
 
 
 ## El testimonio de Jesús de su obra divina y de su filiación divina; Jesús como juez y dador de vida
-\bibverse{19} Respondió entonces Jesús, y díjoles: De cierto, de cierto os digo: No puede el Hijo hacer nada de sí mismo, sino lo que viere hacer al Padre: porque todo lo que él hace, esto también hace el Hijo juntamente. ^[**5:19** Juan 3,11; Juan 3,32] \bibverse{20} Porque el Padre ama al Hijo, y le muestra todas las cosas que él hace; y mayores obras que éstas le mostrará, de suerte que vosotros os maravilléis. ^[**5:20** Juan 3,35] \bibverse{21} Porque como el Padre levanta los muertos, y les da vida, así también el Hijo á los que quiere da vida. \bibverse{22} Porque el Padre á nadie juzga, mas todo el juicio dió al Hijo; ^[**5:22** Dan 7,12; Dan 7,14; Hech 10,42] \bibverse{23} Para que todos honren al Hijo como honran al Padre. El que no honra al Hijo, no honra al Padre que le envió. 
-^[**5:23** Fil 2,10-11; 1Jn 2,23] 
+\bibleverse{19} Respondió entonces Jesús, y díjoles: De cierto, de cierto os digo: No puede el Hijo hacer nada de sí mismo, sino lo que viere hacer al Padre: porque todo lo que él hace, esto también hace el Hijo juntamente. ^[**5:19** Juan 3,11; Juan 3,32] \bibleverse{20} Porque el Padre ama al Hijo, y le muestra todas las cosas que él hace; y mayores obras que éstas le mostrará, de suerte que vosotros os maravilléis. ^[**5:20** Juan 3,35] \bibleverse{21} Porque como el Padre levanta los muertos, y les da vida, así también el Hijo á los que quiere da vida. \bibleverse{22} Porque el Padre á nadie juzga, mas todo el juicio dió al Hijo; ^[**5:22** Dan 7,12; Dan 7,14; Hech 10,42] \bibleverse{23} Para que todos honren al Hijo como honran al Padre. El que no honra al Hijo, no honra al Padre que le envió. ^[**5:23** Fil 2,10-11; 1Jn 2,23] 
    
 
-\bibverse{24} De cierto, de cierto os digo: El que oye mi palabra, y cree al que me ha enviado, tiene vida eterna; y no vendrá á condenación, mas pasó de muerte á vida. ^[**5:24** Juan 3,16; Juan 3,18] \bibverse{25} De cierto, de cierto os digo: Vendrá hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios: y los que oyeren vivirán. ^[**5:25** Efes 2,5-6] \bibverse{26} Porque como el Padre tiene vida en sí mismo, así dió también al Hijo que tuviese vida en sí mismo: ^[**5:26** Juan 1,1-4] \bibverse{27} Y también le dió poder de hacer juicio, en cuanto es el Hijo del hombre. ^[**5:27** Dan 7,13-14] \bibverse{28} No os maravilléis de esto; porque vendrá hora, cuando todos los que están en los sepulcros oirán su voz; \bibverse{29} Y los que hicieron bien, saldrán á resurrección de vida; mas los que hicieron mal, á resurrección de condenación. ^[**5:29** Dan 12,2; Mat 25,46; 2Cor 5,10] \bibverse{30} No puedo yo de mí mismo hacer nada: como oigo, juzgo: y mi juicio es justo; porque no busco mi voluntad, mas la voluntad del que me envió, del Padre. 
-
-^[**5:30** Juan 6,38] 
+\bibleverse{24} De cierto, de cierto os digo: El que oye mi palabra, y cree al que me ha enviado, tiene vida eterna; y no vendrá á condenación, mas pasó de muerte á vida. ^[**5:24** Juan 3,16; Juan 3,18] \bibleverse{25} De cierto, de cierto os digo: Vendrá hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios: y los que oyeren vivirán. ^[**5:25** Efes 2,5-6] \bibleverse{26} Porque como el Padre tiene vida en sí mismo, así dió también al Hijo que tuviese vida en sí mismo: ^[**5:26** Juan 1,1-4] \bibleverse{27} Y también le dió poder de hacer juicio, en cuanto es el Hijo del hombre. ^[**5:27** Dan 7,13-14] \bibleverse{28} No os maravilléis de esto; porque vendrá hora, cuando todos los que están en los sepulcros oirán su voz; \bibleverse{29} Y los que hicieron bien, saldrán á resurrección de vida; mas los que hicieron mal, á resurrección de condenación. ^[**5:29** Dan 12,2; Mat 25,46; 2Cor 5,10] \bibleverse{30} No puedo yo de mí mismo hacer nada: como oigo, juzgo: y mi juicio es justo; porque no busco mi voluntad, mas la voluntad del que me envió, del Padre. ^[**5:30** Juan 6,38] 
      
 
 ## El testimonio de Juan
-\bibverse{31} Si yo doy testimonio de mí mismo, mi testimonio no es verdadero. \bibverse{32} Otro es el que da testimonio de mí; y sé que el testimonio que da de mí, es verdadero. \bibverse{33} Vosotros enviasteis á Juan, y él dió testimonio á la verdad. ^[**5:33** Juan 1,19-34] \bibverse{34} Empero yo no tomo el testimonio de hombre; mas digo esto, para que vosotros seáis salvos. \bibverse{35} El era antorcha que ardía y alumbraba: y vosotros quisisteis recrearos por un poco á su luz. 
-
-
+\bibleverse{31} Si yo doy testimonio de mí mismo, mi testimonio no es verdadero. \bibleverse{32} Otro es el que da testimonio de mí; y sé que el testimonio que da de mí, es verdadero. \bibleverse{33} Vosotros enviasteis á Juan, y él dió testimonio á la verdad. ^[**5:33** Juan 1,19-34] \bibleverse{34} Empero yo no tomo el testimonio de hombre; mas digo esto, para que vosotros seáis salvos. \bibleverse{35} El era antorcha que ardía y alumbraba: y vosotros quisisteis recrearos por un poco á su luz. 
 
 
 ## El testimonio del padre
-\bibverse{36} Mas yo tengo mayor testimonio que el de Juan: porque las obras que el Padre me dió que cumpliese, las mismas obras que yo hago, dan testimonio de mí, que el Padre me haya enviado. \bibverse{37} Y el que me envió, el Padre, él ha dado testimonio de mí. Ni nunca habéis oído su voz, ni habéis visto su parecer. ^[**5:37** Mat 3,17] \bibverse{38} Ni tenéis su palabra permanente en vosotros; porque al que él envió, á éste vosotros no creéis. 
+\bibleverse{36} Mas yo tengo mayor testimonio que el de Juan: porque las obras que el Padre me dió que cumpliese, las mismas obras que yo hago, dan testimonio de mí, que el Padre me haya enviado. \bibleverse{37} Y el que me envió, el Padre, él ha dado testimonio de mí. Ni nunca habéis oído su voz, ni habéis visto su parecer. ^[**5:37** Mat 3,17] \bibleverse{38} Ni tenéis su palabra permanente en vosotros; porque al que él envió, á éste vosotros no creéis. 
 
 
-
-\bibverse{39} Escudriñad las Escrituras, porque á vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí. \bibverse{40} Y no queréis venir á mí, para que tengáis vida. 
-
-
+\bibleverse{39} Escudriñad las Escrituras, porque á vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí. \bibleverse{40} Y no queréis venir á mí, para que tengáis vida. 
 
 ## Ataque a la incredulidad y ambición de los judíos; Testimonio de moisés
-\bibverse{41} Gloria de los hombres no recibo. \bibverse{42} Mas yo os conozco, que no tenéis amor de Dios en vosotros. \bibverse{43} Yo he venido en nombre de mi Padre, y no me recibís: si otro viniere en su propio nombre, á aquél recibiréis. ^[**5:43** Mat 24,5] \bibverse{44} ¿Cómo podéis vosotros creer, pues tomáis la gloria los unos de los otros, y no buscáis la gloria que de sólo Dios viene? 
-^[**5:44** Juan 12,42-43; 1Tes 2,6] 
+\bibleverse{41} Gloria de los hombres no recibo. \bibleverse{42} Mas yo os conozco, que no tenéis amor de Dios en vosotros. \bibleverse{43} Yo he venido en nombre de mi Padre, y no me recibís: si otro viniere en su propio nombre, á aquél recibiréis. ^[**5:43** Mat 24,5] \bibleverse{44} ¿Cómo podéis vosotros creer, pues tomáis la gloria los unos de los otros, y no buscáis la gloria que de sólo Dios viene? ^[**5:44** Juan 12,42-43; 1Tes 2,6] 
  
 
-\bibverse{45} No penséis que yo os tengo de acusar delante del Padre; hay quien os acusa, Moisés, en quien vosotros esperáis. ^[**5:45** Deut 31,26-27] \bibverse{46} Porque si vosotros creyeseis á Moisés, creeríais á mí; porque de mí escribió él. ^[**5:46** Gén 3,15; Gén 49,10; Deut 18,15] \bibverse{47} Y si á sus escritos no creéis, ¿cómo creeréis á mis palabras? ^[**5:47** Luc 16,31] 
+\bibleverse{45} No penséis que yo os tengo de acusar delante del Padre; hay quien os acusa, Moisés, en quien vosotros esperáis. ^[**5:45** Deut 31,26-27] \bibleverse{46} Porque si vosotros creyeseis á Moisés, creeríais á mí; porque de mí escribió él. ^[**5:46** Gén 3,15; Gén 49,10; Deut 18,15] \bibleverse{47} Y si á sus escritos no creéis, ¿cómo creeréis á mis palabras? ^[**5:47** Luc 16,31] 
    
 
 ## Jesús alimenta a los cinco mil
 # 6 
-\bibverse{1} Pasadas estas cosas, fuése Jesús de la otra parte de la mar de Galilea, que es de Tiberias. \bibverse{2} Y seguíale grande multitud, porque veían sus señales que hacía en los enfermos. \bibverse{3} Y subió Jesús á un monte, y se sentó allí con sus discípulos. \bibverse{4} Y estaba cerca la Pascua, la fiesta de los Judíos. \bibverse{5} Y como alzó Jesús los ojos, y vió que había venido á él grande multitud, dice á Felipe: ¿De dónde compraremos pan para que coman éstos? \bibverse{6} Mas esto decía para probarle; porque él sabía lo que había de hacer. 
+\bibleverse{1} Pasadas estas cosas, fuése Jesús de la otra parte de la mar de Galilea, que es de Tiberias. \bibleverse{2} Y seguíale grande multitud, porque veían sus señales que hacía en los enfermos. \bibleverse{3} Y subió Jesús á un monte, y se sentó allí con sus discípulos. \bibleverse{4} Y estaba cerca la Pascua, la fiesta de los Judíos. \bibleverse{5} Y como alzó Jesús los ojos, y vió que había venido á él grande multitud, dice á Felipe: ¿De dónde compraremos pan para que coman éstos? \bibleverse{6} Mas esto decía para probarle; porque él sabía lo que había de hacer. 
 
+\bibleverse{7} Respondióle Felipe: Doscientos denarios de pan no les bastarán, para que cada uno de ellos tome un poco. 
 
-\bibverse{7} Respondióle Felipe: Doscientos denarios de pan no les bastarán, para que cada uno de ellos tome un poco. 
+\bibleverse{8} Dícele uno de sus discípulos, Andrés, hermano de Simón Pedro: \bibleverse{9} Un muchacho está aquí que tiene cinco panes de cebada y dos pececillos; ¿mas qué es esto entre tantos? 
 
-
-\bibverse{8} Dícele uno de sus discípulos, Andrés, hermano de Simón Pedro: \bibverse{9} Un muchacho está aquí que tiene cinco panes de cebada y dos pececillos; ¿mas qué es esto entre tantos? 
-
-
-\bibverse{10} Entonces Jesús dijo: Haced recostar la gente. Y había mucha hierba en aquel lugar: y recostáronse como número de cinco mil varones. \bibverse{11} Y tomó Jesús aquellos panes, y habiendo dado gracias, repartió á los discípulos, y los discípulos á los que estaban recostados: asimismo de los peces, cuanto querían. \bibverse{12} Y como fueron saciados, dijo á sus discípulos: Recoged los pedazos que han quedado, porque no se pierda nada. \bibverse{13} Cogieron pues, é hinchieron doce cestas de pedazos de los cinco panes de cebada, que sobraron á los que habían comido. \bibverse{14} Aquellos hombres entonces, como vieron la señal que Jesús había hecho, decían: Este verdaderamente es el profeta que había de venir al mundo. ^[**6:14** Deut 18,15] \bibverse{15} Y entendiendo Jesús que habían de venir para arrebatarle, y hacerle rey, volvió á retirarse al monte, él solo. 
-
-^[**6:15** Juan 18,36] 
+\bibleverse{10} Entonces Jesús dijo: Haced recostar la gente. Y había mucha hierba en aquel lugar: y recostáronse como número de cinco mil varones. \bibleverse{11} Y tomó Jesús aquellos panes, y habiendo dado gracias, repartió á los discípulos, y los discípulos á los que estaban recostados: asimismo de los peces, cuanto querían. \bibleverse{12} Y como fueron saciados, dijo á sus discípulos: Recoged los pedazos que han quedado, porque no se pierda nada. \bibleverse{13} Cogieron pues, é hinchieron doce cestas de pedazos de los cinco panes de cebada, que sobraron á los que habían comido. \bibleverse{14} Aquellos hombres entonces, como vieron la señal que Jesús había hecho, decían: Este verdaderamente es el profeta que había de venir al mundo. ^[**6:14** Deut 18,15] \bibleverse{15} Y entendiendo Jesús que habían de venir para arrebatarle, y hacerle rey, volvió á retirarse al monte, él solo. ^[**6:15** Juan 18,36] 
  
 
 ## Jesús camina sobre el lago
-\bibverse{16} Y como se hizo tarde, descendieron sus discípulos á la mar; \bibverse{17} Y entrando en un barco, venían de la otra parte de la mar hacia Capernaum. Y era ya oscuro, y Jesús no había venido á ellos. \bibverse{18} Y levantábase la mar con un gran viento que soplaba. \bibverse{19} Y como hubieron navegado como veinticinco ó treinta estadios, ven á Jesús que andaba sobre la mar, y se acercaba al barco: y tuvieron miedo. \bibverse{20} Mas él les dijo: Yo soy; no tengáis miedo. \bibverse{21} Ellos entonces gustaron recibirle en el barco: y luego el barco llegó á la tierra donde iban. 
-
-
+\bibleverse{16} Y como se hizo tarde, descendieron sus discípulos á la mar; \bibleverse{17} Y entrando en un barco, venían de la otra parte de la mar hacia Capernaum. Y era ya oscuro, y Jesús no había venido á ellos. \bibleverse{18} Y levantábase la mar con un gran viento que soplaba. \bibleverse{19} Y como hubieron navegado como veinticinco ó treinta estadios, ven á Jesús que andaba sobre la mar, y se acercaba al barco: y tuvieron miedo. \bibleverse{20} Mas él les dijo: Yo soy; no tengáis miedo. \bibleverse{21} Ellos entonces gustaron recibirle en el barco: y luego el barco llegó á la tierra donde iban. 
 
 ## El reencuentro con el pueblo y la demanda de señal del pueblo
-\bibverse{22} El día siguiente, la gente que estaba de la otra parte de la mar, como vió que no había allí otra navecilla sino una, y que Jesús no había entrado con sus discípulos en ella, sino que sus discípulos se habían ido solos; \bibverse{23} Y que otras navecillas habían arribado de Tiberias junto al lugar donde habían comido el pan después de haber el Señor dado gracias; \bibverse{24} Como vió pues la gente que Jesús no estaba allí, ni sus discípulos, entraron ellos en las navecillas, y vinieron á Capernaum buscando á Jesús. \bibverse{25} Y hallándole de la otra parte de la mar, dijéronle: Rabbí, ¿cuándo llegaste acá? 
+\bibleverse{22} El día siguiente, la gente que estaba de la otra parte de la mar, como vió que no había allí otra navecilla sino una, y que Jesús no había entrado con sus discípulos en ella, sino que sus discípulos se habían ido solos; \bibleverse{23} Y que otras navecillas habían arribado de Tiberias junto al lugar donde habían comido el pan después de haber el Señor dado gracias; \bibleverse{24} Como vió pues la gente que Jesús no estaba allí, ni sus discípulos, entraron ellos en las navecillas, y vinieron á Capernaum buscando á Jesús. \bibleverse{25} Y hallándole de la otra parte de la mar, dijéronle: Rabbí, ¿cuándo llegaste acá? 
+
+\bibleverse{26} Respondióles Jesús, y dijo: De cierto, de cierto os digo, que me buscáis, no porque habéis visto las señales, sino porque comisteis el pan y os hartasteis. \bibleverse{27} Trabajad no por la comida que perece, mas por la comida que á vida eterna permanece, la cual el Hijo del hombre os dará: porque á éste señaló el Padre, que es Dios. ^[**6:27** Juan 5,36] 
 
 
-\bibverse{26} Respondióles Jesús, y dijo: De cierto, de cierto os digo, que me buscáis, no porque habéis visto las señales, sino porque comisteis el pan y os hartasteis. \bibverse{27} Trabajad no por la comida que perece, mas por la comida que á vida eterna permanece, la cual el Hijo del hombre os dará: porque á éste señaló el Padre, que es Dios. 
-^[**6:27** Juan 5,36] 
+\bibleverse{28} Y dijéronle: ¿Qué haremos para que obremos las obras de Dios? 
 
+\bibleverse{29} Respondió Jesús, y díjoles: Esta es la obra de Dios, que creáis en el que él ha enviado. 
 
-\bibverse{28} Y dijéronle: ¿Qué haremos para que obremos las obras de Dios? 
-
-
-\bibverse{29} Respondió Jesús, y díjoles: Esta es la obra de Dios, que creáis en el que él ha enviado. 
-
-
-\bibverse{30} Dijéronle entonces: ¿Qué señal pues haces tú, para que veamos, y te creamos? ¿Qué obras? \bibverse{31} Nuestros padres comieron el maná en el desierto, como está escrito: Pan del cielo les dió á comer. 
-
-
+\bibleverse{30} Dijéronle entonces: ¿Qué señal pues haces tú, para que veamos, y te creamos? ¿Qué obras? \bibleverse{31} Nuestros padres comieron el maná en el desierto, como está escrito: Pan del cielo les dió á comer. 
 
 ## El discurso de Jesús sobre el pan de vida
-\bibverse{32} Y Jesús les dijo: De cierto, de cierto os digo: No os dió Moisés pan del cielo; mas mi Padre os da el verdadero pan del cielo. \bibverse{33} Porque el pan de Dios es aquel que descendió del cielo y da vida al mundo. 
+\bibleverse{32} Y Jesús les dijo: De cierto, de cierto os digo: No os dió Moisés pan del cielo; mas mi Padre os da el verdadero pan del cielo. \bibleverse{33} Porque el pan de Dios es aquel que descendió del cielo y da vida al mundo. 
 
+\bibleverse{34} Y dijéronle: Señor, danos siempre este pan. 
 
-\bibverse{34} Y dijéronle: Señor, danos siempre este pan. 
-
-
-\bibverse{35} Y Jesús les dijo: Yo soy el pan de vida: el que á mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás. ^[**6:35** Juan 4,14; Juan 7,37] \bibverse{36} Mas os he dicho, que aunque me habéis visto, no creéis. \bibverse{37} Todo lo que el Padre me da, vendrá á mí; y al que á mí viene, no le hecho fuera. \bibverse{38} Porque he descendido del cielo, no para hacer mi voluntad, mas la voluntad del que me envió. ^[**6:38** Juan 4,34] \bibverse{39} Y esta es la voluntad del que me envió, del Padre: Que todo lo que me diere, no pierda de ello, sino que lo resucite en el día postrero. ^[**6:39** Juan 10,28-29; Juan 17,12] \bibverse{40} Y esta es la voluntad del que me ha enviado: Que todo aquel que ve al Hijo, y cree en él, tenga vida eterna: y yo le resucitaré en el día postrero. 
-^[**6:40** Juan 5,29; Juan 11,24] 
+\bibleverse{35} Y Jesús les dijo: Yo soy el pan de vida: el que á mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás. ^[**6:35** Juan 4,14; Juan 7,37] \bibleverse{36} Mas os he dicho, que aunque me habéis visto, no creéis. \bibleverse{37} Todo lo que el Padre me da, vendrá á mí; y al que á mí viene, no le hecho fuera. \bibleverse{38} Porque he descendido del cielo, no para hacer mi voluntad, mas la voluntad del que me envió. ^[**6:38** Juan 4,34] \bibleverse{39} Y esta es la voluntad del que me envió, del Padre: Que todo lo que me diere, no pierda de ello, sino que lo resucite en el día postrero. ^[**6:39** Juan 10,28-29; Juan 17,12] \bibleverse{40} Y esta es la voluntad del que me ha enviado: Que todo aquel que ve al Hijo, y cree en él, tenga vida eterna: y yo le resucitaré en el día postrero. ^[**6:40** Juan 5,29; Juan 11,24] 
    
 
-\bibverse{41} Murmuraban entonces de él los Judíos, porque había dicho: Yo soy el pan que descendí del cielo. \bibverse{42} Y decían: ¿No es éste Jesús, el hijo de José, cuyo padre y madre nosotros conocemos? ¿cómo, pues, dice éste: Del cielo he descendido? 
+\bibleverse{41} Murmuraban entonces de él los Judíos, porque había dicho: Yo soy el pan que descendí del cielo. \bibleverse{42} Y decían: ¿No es éste Jesús, el hijo de José, cuyo padre y madre nosotros conocemos? ¿cómo, pues, dice éste: Del cielo he descendido? 
 
-
-\bibverse{43} Y Jesús respondió, y díjoles: No murmuréis entre vosotros. \bibverse{44} Ninguno puede venir á mí, si el Padre que me envió no le trajere; y yo le resucitaré en el día postrero. \bibverse{45} Escrito está en los profetas: Y serán todos enseñados de Dios. Así que, todo aquel que oyó del Padre, y aprendió, viene á mí. \bibverse{46} No que alguno haya visto al Padre, sino aquel que vino de Dios, éste ha visto al Padre. ^[**6:46** Juan 1,18] \bibverse{47} De cierto, de cierto os digo: El que cree en mí, tiene vida eterna. ^[**6:47** Juan 3,16] \bibverse{48} Yo soy el pan de vida. ^[**6:48** Juan 6,35] \bibverse{49} Vuestros padres comieron el maná en el desierto, y son muertos. ^[**6:49** 1Cor 10,3-5] \bibverse{50} Este es el pan que desciende del cielo, para que el que de él comiere, no muera. \bibverse{51} Yo soy el pan vivo que he descendido del cielo: si alguno comiere de este pan, vivirá para siempre; y el pan que yo daré es mi carne, la cual yo daré por la vida del mundo. 
-
+\bibleverse{43} Y Jesús respondió, y díjoles: No murmuréis entre vosotros. \bibleverse{44} Ninguno puede venir á mí, si el Padre que me envió no le trajere; y yo le resucitaré en el día postrero. \bibleverse{45} Escrito está en los profetas: Y serán todos enseñados de Dios. Así que, todo aquel que oyó del Padre, y aprendió, viene á mí. \bibleverse{46} No que alguno haya visto al Padre, sino aquel que vino de Dios, éste ha visto al Padre. ^[**6:46** Juan 1,18] \bibleverse{47} De cierto, de cierto os digo: El que cree en mí, tiene vida eterna. ^[**6:47** Juan 3,16] \bibleverse{48} Yo soy el pan de vida. ^[**6:48** Juan 6,35] \bibleverse{49} Vuestros padres comieron el maná en el desierto, y son muertos. ^[**6:49** 1Cor 10,3-5] \bibleverse{50} Este es el pan que desciende del cielo, para que el que de él comiere, no muera. \bibleverse{51} Yo soy el pan vivo que he descendido del cielo: si alguno comiere de este pan, vivirá para siempre; y el pan que yo daré es mi carne, la cual yo daré por la vida del mundo. 
    
 
-\bibverse{52} Entonces los Judíos contendían entre sí, diciendo: ¿Cómo puede éste darnos su carne á comer? 
+\bibleverse{52} Entonces los Judíos contendían entre sí, diciendo: ¿Cómo puede éste darnos su carne á comer? 
 
-
-\bibverse{53} Y Jesús les dijo: De cierto, de cierto os digo: Si no comiereis la carne del Hijo del hombre, y bebiereis su sangre, no tendréis vida en vosotros. \bibverse{54} El que come mi carne y bebe mi sangre, tiene vida eterna: y yo le resucitaré en el día postrero. ^[**6:54** Mat 26,26-28] \bibverse{55} Porque mi carne es verdadera comida, y mi sangre es verdadera bebida. \bibverse{56} El que come mi carne y bebe mi sangre, en mí permanece, y yo en él. \bibverse{57} Como me envió el Padre viviente, y yo vivo por el Padre, asimismo el que me come, él también vivirá por mí. \bibverse{58} Este es el pan que descendió del cielo: no como vuestros padres comieron el maná, y son muertos: el que come de este pan, vivirá eternamente. \bibverse{59} Estas cosas dijo en la sinagoga, enseñando en Capernaum. 
-
-
+\bibleverse{53} Y Jesús les dijo: De cierto, de cierto os digo: Si no comiereis la carne del Hijo del hombre, y bebiereis su sangre, no tendréis vida en vosotros. \bibleverse{54} El que come mi carne y bebe mi sangre, tiene vida eterna: y yo le resucitaré en el día postrero. ^[**6:54** Mat 26,26-28] \bibleverse{55} Porque mi carne es verdadera comida, y mi sangre es verdadera bebida. \bibleverse{56} El que come mi carne y bebe mi sangre, en mí permanece, y yo en él. \bibleverse{57} Como me envió el Padre viviente, y yo vivo por el Padre, asimismo el que me come, él también vivirá por mí. \bibleverse{58} Este es el pan que descendió del cielo: no como vuestros padres comieron el maná, y son muertos: el que come de este pan, vivirá eternamente. \bibleverse{59} Estas cosas dijo en la sinagoga, enseñando en Capernaum. 
 
 
 ## El divorcio de los discípulos de Jesús como efecto del habla
-\bibverse{60} Y muchos de sus discípulos oyéndolo, dijeron: Dura es esta palabra: ¿quién la puede oir? 
+\bibleverse{60} Y muchos de sus discípulos oyéndolo, dijeron: Dura es esta palabra: ¿quién la puede oir? 
 
-
-\bibverse{61} Y sabiendo Jesús en sí mismo que sus discípulos murmuraban de esto, díjoles: ¿Esto os escandaliza? \bibverse{62} ¿Pues qué, si viereis al Hijo del hombre que sube donde estaba primero? ^[**6:62** Luc 24,50-51] \bibverse{63} El espíritu es el que da vida; la carne nada aprovecha: las palabras que yo os he hablado, son espíritu, y son vida. ^[**6:63** 2Cor 3,6] \bibverse{64} Mas hay algunos de vosotros que no creen. Porque Jesús desde el principio sabía quiénes eran los que no creían, y quién le había de entregar. \bibverse{65} Y dijo: Por eso os he dicho que ninguno puede venir á mí, si no le fuere dado del Padre. 
-
+\bibleverse{61} Y sabiendo Jesús en sí mismo que sus discípulos murmuraban de esto, díjoles: ¿Esto os escandaliza? \bibleverse{62} ¿Pues qué, si viereis al Hijo del hombre que sube donde estaba primero? ^[**6:62** Luc 24,50-51] \bibleverse{63} El espíritu es el que da vida; la carne nada aprovecha: las palabras que yo os he hablado, son espíritu, y son vida. ^[**6:63** 2Cor 3,6] \bibleverse{64} Mas hay algunos de vosotros que no creen. Porque Jesús desde el principio sabía quiénes eran los que no creían, y quién le había de entregar. \bibleverse{65} Y dijo: Por eso os he dicho que ninguno puede venir á mí, si no le fuere dado del Padre. 
  
 
-\bibverse{66} Desde esto, muchos de sus discípulos volvieron atrás, y ya no andaban con él. \bibverse{67} Dijo entonces Jesús á los doce: ¿Queréis vosotros iros también? 
+\bibleverse{66} Desde esto, muchos de sus discípulos volvieron atrás, y ya no andaban con él. \bibleverse{67} Dijo entonces Jesús á los doce: ¿Queréis vosotros iros también? 
+
+\bibleverse{68} Y respondióle Simón Pedro: Señor, ¿á quién iremos? tú tienes palabras de vida eterna. \bibleverse{69} Y nosotros creemos y conocemos que tú eres el Cristo, el Hijo de Dios viviente. ^[**6:69** Mat 16,16] 
 
 
-\bibverse{68} Y respondióle Simón Pedro: Señor, ¿á quién iremos? tú tienes palabras de vida eterna. \bibverse{69} Y nosotros creemos y conocemos que tú eres el Cristo, el Hijo de Dios viviente. 
-^[**6:69** Mat 16,16] 
-
-
-\bibverse{70} Jesús le respondió: ¿No he escogido yo á vosotros doce, y uno de vosotros es diablo? \bibverse{71} Y hablaba de Judas Iscariote, hijo de Simón, porque éste era el que le había de entregar, el cual era uno de los doce. 
+\bibleverse{70} Jesús le respondió: ¿No he escogido yo á vosotros doce, y uno de vosotros es diablo? \bibleverse{71} Y hablaba de Judas Iscariote, hijo de Simón, porque éste era el que le había de entregar, el cual era uno de los doce. 
 
 ## Jesús viaja a Jerusalén para la Fiesta de los Tabernáculos
 # 7 
-\bibverse{1} Y pasadas estas cosas andaba Jesús en Galilea: que no quería andar en Judea, porque los Judíos procuraban matarle. \bibverse{2} Y estaba cerca la fiesta de los Judíos, la de los tabernáculos. ^[**7:2** Lev 23,34-36] \bibverse{3} Y dijéronle sus hermanos: Pásate de aquí, y vete á Judea, para que también tus discípulos vean las obras que haces. ^[**7:3** Juan 2,12; Mat 12,46; Hech 1,14] \bibverse{4} Que ninguno que procura ser claro, hace algo en oculto. Si estas cosas haces, manifiéstate al mundo. \bibverse{5} Porque ni aun sus hermanos creían en él. 
-
+\bibleverse{1} Y pasadas estas cosas andaba Jesús en Galilea: que no quería andar en Judea, porque los Judíos procuraban matarle. \bibleverse{2} Y estaba cerca la fiesta de los Judíos, la de los tabernáculos. ^[**7:2** Lev 23,34-36] \bibleverse{3} Y dijéronle sus hermanos: Pásate de aquí, y vete á Judea, para que también tus discípulos vean las obras que haces. ^[**7:3** Juan 2,12; Mat 12,46; Hech 1,14] \bibleverse{4} Que ninguno que procura ser claro, hace algo en oculto. Si estas cosas haces, manifiéstate al mundo. \bibleverse{5} Porque ni aun sus hermanos creían en él. 
  
 
-\bibverse{6} Díceles entonces Jesús: Mi tiempo aun no ha venido; mas vuestro tiempo siempre está presto. ^[**7:6** Juan 2,4] \bibverse{7} No puede el mundo aborreceros á vosotros; mas á mí me aborrece, porque yo doy testimonio de él, que sus obras son malas. ^[**7:7** Juan 15,18] \bibverse{8} Vosotros subid á esta fiesta; yo no subo aún á esta fiesta, porque mi tiempo aun no es cumplido. 
-
+\bibleverse{6} Díceles entonces Jesús: Mi tiempo aun no ha venido; mas vuestro tiempo siempre está presto. ^[**7:6** Juan 2,4] \bibleverse{7} No puede el mundo aborreceros á vosotros; mas á mí me aborrece, porque yo doy testimonio de él, que sus obras son malas. ^[**7:7** Juan 15,18] \bibleverse{8} Vosotros subid á esta fiesta; yo no subo aún á esta fiesta, porque mi tiempo aun no es cumplido. 
  
 
-\bibverse{9} Y habiéndoles dicho esto, quedóse en Galilea. \bibverse{10} Mas como sus hermanos hubieron subido, entonces él también subió á la fiesta, no manifiestamente, sino como en secreto. ^[**7:10** Juan 2,13] \bibverse{11} Y buscábanle los Judíos en la fiesta, y decían: ¿Dónde está aquél? \bibverse{12} Y había grande murmullo de él entre la gente: porque unos decían: Bueno es; y otros decían: No, antes engaña á las gentes. \bibverse{13} Mas ninguno hablaba abiertamente de él, por miedo de los Judíos. 
-
-
+\bibleverse{9} Y habiéndoles dicho esto, quedóse en Galilea. \bibleverse{10} Mas como sus hermanos hubieron subido, entonces él también subió á la fiesta, no manifiestamente, sino como en secreto. ^[**7:10** Juan 2,13] \bibleverse{11} Y buscábanle los Judíos en la fiesta, y decían: ¿Dónde está aquél? \bibleverse{12} Y había grande murmullo de él entre la gente: porque unos decían: Bueno es; y otros decían: No, antes engaña á las gentes. \bibleverse{13} Mas ninguno hablaba abiertamente de él, por miedo de los Judíos. 
 
 
 ## La aparición y el testimonio de sí mismo de Jesús en la Fiesta de los Tabernáculos
-\bibverse{14} Y al medio de la fiesta subió Jesús al templo, y enseñaba. \bibverse{15} Y maravillábanse los Judíos, diciendo: ¿Cómo sabe éste letras, no habiendo aprendido? 
-^[**7:15** Mat 13,56] 
+\bibleverse{14} Y al medio de la fiesta subió Jesús al templo, y enseñaba. \bibleverse{15} Y maravillábanse los Judíos, diciendo: ¿Cómo sabe éste letras, no habiendo aprendido? ^[**7:15** Mat 13,56] 
 
 
-\bibverse{16} Respondióles Jesús, y dijo: Mi doctrina no es mía, sino de aquél que me envió. \bibverse{17} El que quisiere hacer su voluntad, conocerá de la doctrina si viene de Dios, ó si yo hablo de mí mismo. \bibverse{18} El que habla de sí mismo, su propia gloria busca; mas el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia. \bibverse{19} ¿No os dió Moisés la ley, y ninguno de vosotros hace la ley? ¿Por qué me procuráis matar? 
-^[**7:19** Juan 5,16; Juan 5,18; Rom 2,17-24] 
+\bibleverse{16} Respondióles Jesús, y dijo: Mi doctrina no es mía, sino de aquél que me envió. \bibleverse{17} El que quisiere hacer su voluntad, conocerá de la doctrina si viene de Dios, ó si yo hablo de mí mismo. \bibleverse{18} El que habla de sí mismo, su propia gloria busca; mas el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia. \bibleverse{19} ¿No os dió Moisés la ley, y ninguno de vosotros hace la ley? ¿Por qué me procuráis matar? ^[**7:19** Juan 5,16; Juan 5,18; Rom 2,17-24] 
 
 
-\bibverse{20} Respondió la gente, y dijo: Demonio tienes: ¿quién te procura matar? 
-^[**7:20** Juan 10,20] 
+\bibleverse{20} Respondió la gente, y dijo: Demonio tienes: ¿quién te procura matar? ^[**7:20** Juan 10,20] 
 
 
-\bibverse{21} Jesús respondió, y díjoles: Una obra hice, y todos os maravilláis. ^[**7:21** Juan 5,16] \bibverse{22} Cierto, Moisés os dió la circuncisión (no porque sea de Moisés, mas de los padres); y en sábado circuncidáis al hombre. ^[**7:22** Gén 17,10-12; Lev 12,3] \bibverse{23} Si recibe el hombre la circuncisión en sábado, para que la ley de Moisés no sea quebrantada, ¿os enojáis conmigo porque en sábado hice sano todo un hombre? \bibverse{24} No juzguéis según lo que parece, mas juzgad justo juicio. 
-
-
+\bibleverse{21} Jesús respondió, y díjoles: Una obra hice, y todos os maravilláis. ^[**7:21** Juan 5,16] \bibleverse{22} Cierto, Moisés os dió la circuncisión (no porque sea de Moisés, mas de los padres); y en sábado circuncidáis al hombre. ^[**7:22** Gén 17,10-12; Lev 12,3] \bibleverse{23} Si recibe el hombre la circuncisión en sábado, para que la ley de Moisés no sea quebrantada, ¿os enojáis conmigo porque en sábado hice sano todo un hombre? \bibleverse{24} No juzguéis según lo que parece, mas juzgad justo juicio. 
  
 
 ## Jesús viene de Dios
-\bibverse{25} Decían entonces unos de los de Jerusalem: ¿No es éste al que buscan para matarlo? \bibverse{26} Y he aquí, habla públicamente, y no le dicen nada; ¿si habrán entendido verdaderamente los príncipes, que éste es el Cristo? \bibverse{27} Mas éste, sabemos de dónde es: y cuando viniere el Cristo, nadie sabrá de dónde sea. 
-^[**7:27** Heb 7,3] 
+\bibleverse{25} Decían entonces unos de los de Jerusalem: ¿No es éste al que buscan para matarlo? \bibleverse{26} Y he aquí, habla públicamente, y no le dicen nada; ¿si habrán entendido verdaderamente los príncipes, que éste es el Cristo? \bibleverse{27} Mas éste, sabemos de dónde es: y cuando viniere el Cristo, nadie sabrá de dónde sea. ^[**7:27** Heb 7,3] 
 
 
-\bibverse{28} Entonces clamaba Jesús en el templo, enseñando y diciendo: Y á mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo; mas el que me envió es verdadero, al cual vosotros no conocéis. \bibverse{29} Yo le conozco, porque de él soy, y él me envió. 
+\bibleverse{28} Entonces clamaba Jesús en el templo, enseñando y diciendo: Y á mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo; mas el que me envió es verdadero, al cual vosotros no conocéis. \bibleverse{29} Yo le conozco, porque de él soy, y él me envió. 
 
-
-\bibverse{30} Entonces procuraban prenderle; mas ninguno puso en él mano, porque aun no había venido su hora. ^[**7:30** Juan 8,20; Luc 22,53] \bibverse{31} Y muchos del pueblo creyeron en él, y decían: El Cristo, cuando viniere, ¿hará más señales que las que éste hace? \bibverse{32} Los Fariseos oyeron á la gente que murmuraba de él estas cosas; y los príncipes de los sacerdotes y los Fariseos enviaron servidores que le prendiesen. 
-
-
+\bibleverse{30} Entonces procuraban prenderle; mas ninguno puso en él mano, porque aun no había venido su hora. ^[**7:30** Juan 8,20; Luc 22,53] \bibleverse{31} Y muchos del pueblo creyeron en él, y decían: El Cristo, cuando viniere, ¿hará más señales que las que éste hace? \bibleverse{32} Los Fariseos oyeron á la gente que murmuraba de él estas cosas; y los príncipes de los sacerdotes y los Fariseos enviaron servidores que le prendiesen. 
 
 
 ## Jesús anuncia su regressa a Dios
-\bibverse{33} Y Jesús dijo: Aun un poco de tiempo estaré con vosotros, é iré al que me envió. \bibverse{34} Me buscaréis, y no me hallaréis; y donde yo estaré, vosotros no podréis venir. 
-^[**7:34** Juan 8,21] 
+\bibleverse{33} Y Jesús dijo: Aun un poco de tiempo estaré con vosotros, é iré al que me envió. \bibleverse{34} Me buscaréis, y no me hallaréis; y donde yo estaré, vosotros no podréis venir. ^[**7:34** Juan 8,21] 
 
 
-\bibverse{35} Entonces los Judíos dijeron entre sí: ¿A dónde se ha de ir éste que no le hallemos? ¿Se ha de ir á los esparcidos entre los Griegos, y á enseñar á los Griegos? \bibverse{36} ¿Qué dicho es éste que dijo: Me buscaréis, y no me hallaréis; y donde yo estaré, vosotros no podréis venir? 
-
-
+\bibleverse{35} Entonces los Judíos dijeron entre sí: ¿A dónde se ha de ir éste que no le hallemos? ¿Se ha de ir á los esparcidos entre los Griegos, y á enseñar á los Griegos? \bibleverse{36} ¿Qué dicho es éste que dijo: Me buscaréis, y no me hallaréis; y donde yo estaré, vosotros no podréis venir? 
 
 ## Jesús en el apogeo de la fiesta como dador del agua de vida
-\bibverse{37} Mas en el postrer día grande de la fiesta, Jesús se ponía en pie y clamaba, diciendo: Si alguno tiene sed, venga á mí y beba. \bibverse{38} El que cree en mí, como dice la Escritura, ríos de agua viva correrán de su vientre. ^[**7:38** Is 58,11] \bibverse{39} (Y esto dijo del Espíritu que habían de recibir los que creyesen en él: pues aun no había venido el Espíritu Santo; porque Jesús no estaba aún glorificado.) 
-^[**7:39** Juan 16,7] 
+\bibleverse{37} Mas en el postrer día grande de la fiesta, Jesús se ponía en pie y clamaba, diciendo: Si alguno tiene sed, venga á mí y beba. \bibleverse{38} El que cree en mí, como dice la Escritura, ríos de agua viva correrán de su vientre. ^[**7:38** Is 58,11] \bibleverse{39} (Y esto dijo del Espíritu que habían de recibir los que creyesen en él: pues aun no había venido el Espíritu Santo; porque Jesús no estaba aún glorificado.) ^[**7:39** Juan 16,7] 
  
 
-\bibverse{40} Entonces algunos de la multitud, oyendo este dicho, decían: Verdaderamente éste es el profeta. ^[**7:40** Juan 6,14] \bibverse{41} Otros decían: Este es el Cristo. Algunos empero decían: ¿De Galilea ha de venir el Cristo? ^[**7:41** Juan 1,46] \bibverse{42} ¿No dice la Escritura, que de la simiente de David, y de la aldea de Bethlehem, de donde era David, vendrá el Cristo? ^[**7:42** Miq 5,1; Mat 2,5-6; Mat 22,42] \bibverse{43} Así que había disensión entre la gente acerca de él. ^[**7:43** Juan 9,16] \bibverse{44} Y algunos de ellos querían prenderle; mas ninguno echó sobre él manos. 
-
-
+\bibleverse{40} Entonces algunos de la multitud, oyendo este dicho, decían: Verdaderamente éste es el profeta. ^[**7:40** Juan 6,14] \bibleverse{41} Otros decían: Este es el Cristo. Algunos empero decían: ¿De Galilea ha de venir el Cristo? ^[**7:41** Juan 1,46] \bibleverse{42} ¿No dice la Escritura, que de la simiente de David, y de la aldea de Bethlehem, de donde era David, vendrá el Cristo? ^[**7:42** Miq 5,1; Mat 2,5-6; Mat 22,42] \bibleverse{43} Así que había disensión entre la gente acerca de él. ^[**7:43** Juan 9,16] \bibleverse{44} Y algunos de ellos querían prenderle; mas ninguno echó sobre él manos. 
    
 
 ## Fracaso del plan de arresto de los líderes; División entre los miembros del sumo consejo; Amonestación de Nicodemo
-\bibverse{45} Y los ministriles vinieron á los principales sacerdotes y á los Fariseos; y ellos les dijeron: ¿Por qué no le trajisteis? 
+\bibleverse{45} Y los ministriles vinieron á los principales sacerdotes y á los Fariseos; y ellos les dijeron: ¿Por qué no le trajisteis? 
+
+\bibleverse{46} Los ministriles respondieron: Nunca ha hablado hombre así como este hombre. ^[**7:46** Mat 7,28-29] 
 
 
-\bibverse{46} Los ministriles respondieron: Nunca ha hablado hombre así como este hombre. 
-^[**7:46** Mat 7,28-29] 
+\bibleverse{47} Entonces los Fariseos les respondieron: ¿Estáis también vosotros engañados? \bibleverse{48} ¿Ha creído en él alguno de los príncipes, ó de los Fariseos? \bibleverse{49} Mas estos comunales que no saben la ley, malditos son. 
+
+\bibleverse{50} Díceles Nicodemo (el que vino á él de noche, el cual era uno de ellos): \bibleverse{51} ¿Juzga nuestra ley á hombre, si primero no oyere de él, y entendiere lo que ha hecho? ^[**7:51** Deut 1,16-17] 
 
 
-\bibverse{47} Entonces los Fariseos les respondieron: ¿Estáis también vosotros engañados? \bibverse{48} ¿Ha creído en él alguno de los príncipes, ó de los Fariseos? \bibverse{49} Mas estos comunales que no saben la ley, malditos son. 
+\bibleverse{52} Respondieron y dijéronle: ¿Eres tú también Galileo? Escudriña y ve que de Galilea nunca se levantó profeta. 
 
-
-\bibverse{50} Díceles Nicodemo (el que vino á él de noche, el cual era uno de ellos): \bibverse{51} ¿Juzga nuestra ley á hombre, si primero no oyere de él, y entendiere lo que ha hecho? 
-^[**7:51** Deut 1,16-17] 
-
-
-\bibverse{52} Respondieron y dijéronle: ¿Eres tú también Galileo? Escudriña y ve que de Galilea nunca se levantó profeta. 
-
-
-\bibverse{53} Y fuése cada uno á su casa. 
+\bibleverse{53} Y fuése cada uno á su casa. 
 
 ## Jesús y la adúltera
 # 8 
-\bibverse{1} Y jesús se fué al monte de las Olivas. 
+\bibleverse{1} Y Jesús se fué al monte de las Olivas. 
+
+\bibleverse{2} Y por la mañana volvió al templo, y todo el pueblo vino á él: y sentado él, los enseñaba. \bibleverse{3} Entonces los escribas y los Fariseos le traen una mujer tomada en adulterio; y poniéndola en medio, \bibleverse{4} Dícenle: Maestro, esta mujer ha sido tomada en el mismo hecho, adulterando; \bibleverse{5} Y en la ley Moisés nos mandó apedrear á las tales: tú pues, ¿qué dices? \bibleverse{6} Mas esto decían tentándole, para poder acusarle. Empero Jesús, inclinado hacia abajo, escribía en tierra con el dedo. 
+
+\bibleverse{7} Y como perseverasen preguntándole, enderezóse, y díjoles: El que de vosotros esté sin pecado, arroje contra ella la piedra el primero. ^[**8:7** Rom 2,1] \bibleverse{8} Y volviéndose á inclinar hacia abajo, escribía en tierra. 
 
 
-\bibverse{2} Y por la mañana volvió al templo, y todo el pueblo vino á él: y sentado él, los enseñaba. \bibverse{3} Entonces los escribas y los Fariseos le traen una mujer tomada en adulterio; y poniéndola en medio, \bibverse{4} Dícenle: Maestro, esta mujer ha sido tomada en el mismo hecho, adulterando; \bibverse{5} Y en la ley Moisés nos mandó apedrear á las tales: tú pues, ¿qué dices? \bibverse{6} Mas esto decían tentándole, para poder acusarle. Empero Jesús, inclinado hacia abajo, escribía en tierra con el dedo. 
+\bibleverse{9} Oyendo, pues, ellos, redargüidos de la conciencia, salíanse uno á uno, comenzando desde los más viejos hasta los postreros: y quedó solo Jesús, y la mujer que estaba en medio. \bibleverse{10} Y enderezándose Jesús, y no viendo á nadie más que á la mujer, díjole: ¿Mujer, dónde están los que te acusaban? ¿Ninguno te ha condenado? 
 
-
-\bibverse{7} Y como perseverasen preguntándole, enderezóse, y díjoles: El que de vosotros esté sin pecado, arroje contra ella la piedra el primero. ^[**8:7** Rom 2,1] \bibverse{8} Y volviéndose á inclinar hacia abajo, escribía en tierra. 
-
-
-
-\bibverse{9} Oyendo, pues, ellos, redargüidos de la conciencia, salíanse uno á uno, comenzando desde los más viejos hasta los postreros: y quedó solo Jesús, y la mujer que estaba en medio. \bibverse{10} Y enderezándose Jesús, y no viendo á nadie más que á la mujer, díjole: ¿Mujer, dónde están los que te acusaban? ¿Ninguno te ha condenado? 
-
-
-\bibverse{11} Y ella dijo: Señor, ninguno. Entonces Jesús le dijo: Ni yo te condeno: vete, y no peques más. 
-
-
+\bibleverse{11} Y ella dijo: Señor, ninguno. Entonces Jesús le dijo: Ni yo te condeno: vete, y no peques más. 
 
 ## El testimonio de sí mismo de Jesús como la luz del mundo y el Hijo de Dios
-\bibverse{12} Y hablóles Jesús otra vez, diciendo: Yo soy la luz del mundo: el que me sigue, no andará en tinieblas, mas tendrá la lumbre de la vida. 
-^[**8:12** Is 49,6; Juan 1,5; Juan 1,9; Mat 5,14-16] 
+\bibleverse{12} Y hablóles Jesús otra vez, diciendo: Yo soy la luz del mundo: el que me sigue, no andará en tinieblas, mas tendrá la lumbre de la vida. ^[**8:12** Is 49,6; Juan 1,5; Juan 1,9; Mat 5,14-16] 
 
 
-\bibverse{13} Entonces los Fariseos le dijeron: Tú de ti mismo das testimonio: tu testimonio no es verdadero. 
+\bibleverse{13} Entonces los Fariseos le dijeron: Tú de ti mismo das testimonio: tu testimonio no es verdadero. 
+
+\bibleverse{14} Respondió Jesús, y díjoles: Aunque yo doy testimonio de mí mismo, mi testimonio es verdadero, porque sé de dónde he venido y á dónde voy; mas vosotros no sabéis de dónde vengo, y á dónde voy. \bibleverse{15} Vosotros según la carne juzgáis; mas yo no juzgo á nadie. ^[**8:15** Juan 3,17] \bibleverse{16} Y si yo juzgo, mi juicio es verdadero; porque no soy solo, sino yo y el que me envió, el Padre. \bibleverse{17} Y en vuestra ley está escrito que el testimonio de dos hombres es verdadero. \bibleverse{18} Yo soy el que doy testimonio de mí mismo: y da testimonio de mí el que me envió, el Padre. 
 
 
-\bibverse{14} Respondió Jesús, y díjoles: Aunque yo doy testimonio de mí mismo, mi testimonio es verdadero, porque sé de dónde he venido y á dónde voy; mas vosotros no sabéis de dónde vengo, y á dónde voy. \bibverse{15} Vosotros según la carne juzgáis; mas yo no juzgo á nadie. ^[**8:15** Juan 3,17] \bibverse{16} Y si yo juzgo, mi juicio es verdadero; porque no soy solo, sino yo y el que me envió, el Padre. \bibverse{17} Y en vuestra ley está escrito que el testimonio de dos hombres es verdadero. \bibverse{18} Yo soy el que doy testimonio de mí mismo: y da testimonio de mí el que me envió, el Padre. 
+\bibleverse{19} Y decíanle: ¿Dónde está tu Padre? Respondió Jesús: Ni á mí me conocéis, ni á mi Padre; si á mí me conocieseis, á mi Padre también conocierais. ^[**8:19** Juan 14,7] 
 
 
-
-\bibverse{19} Y decíanle: ¿Dónde está tu Padre? Respondió Jesús: Ni á mí me conocéis, ni á mi Padre; si á mí me conocieseis, á mi Padre también conocierais. 
-^[**8:19** Juan 14,7] 
-
-
-\bibverse{20} Estas palabras habló Jesús en el lugar de las limosnas, enseñando en el templo: y nadie le prendió; porque aun no había venido su hora. 
-
-^[**8:20** Juan 7,30] 
+\bibleverse{20} Estas palabras habló Jesús en el lugar de las limosnas, enseñando en el templo: y nadie le prendió; porque aun no había venido su hora. ^[**8:20** Juan 7,30] 
 
 
 ## Jesús da testimonio del profundo abismo que lo separa de los judíos según sus orígenes
-\bibverse{21} Y díjoles otra vez Jesús: Yo me voy, y me buscaréis, mas en vuestro pecado moriréis: á donde yo voy, vosotros no podéis venir. 
-^[**8:21** Juan 7,34-35; Juan 13,33] 
+\bibleverse{21} Y díjoles otra vez Jesús: Yo me voy, y me buscaréis, mas en vuestro pecado moriréis: á donde yo voy, vosotros no podéis venir. ^[**8:21** Juan 7,34-35; Juan 13,33] 
 
 
-\bibverse{22} Decían entonces los Judíos: ¿Hase de matar á sí mismo, que dice: A donde yo voy, vosotros no podéis venir? 
+\bibleverse{22} Decían entonces los Judíos: ¿Hase de matar á sí mismo, que dice: A donde yo voy, vosotros no podéis venir? 
 
+\bibleverse{23} Y decíales: Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo. \bibleverse{24} Por eso os dije que moriréis en vuestros pecados; porque si no creyereis que yo soy, en vuestros pecados moriréis. 
 
-\bibverse{23} Y decíales: Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo. \bibverse{24} Por eso os dije que moriréis en vuestros pecados; porque si no creyereis que yo soy, en vuestros pecados moriréis. 
+\bibleverse{25} Y decíanle: ¿Tú quién eres? Entonces Jesús les dijo: El que al principio también os he dicho. 
 
+\bibleverse{26} Muchas cosas tengo que decir y juzgar de vosotros: mas el que me envió, es verdadero: y yo, lo que he oído de él, esto hablo en el mundo. 
 
-\bibverse{25} Y decíanle: ¿Tú quién eres? Entonces Jesús les dijo: El que al principio también os he dicho. 
-
-
-\bibverse{26} Muchas cosas tengo que decir y juzgar de vosotros: mas el que me envió, es verdadero: y yo, lo que he oído de él, esto hablo en el mundo. 
-
-
-\bibverse{27} Mas no entendieron que él les hablaba del Padre. \bibverse{28} Díjoles pues, Jesús: Cuando levantareis al Hijo del hombre, entonces entenderéis que yo soy, y que nada hago de mí mismo; mas como el Padre me enseñó, esto hablo. ^[**8:28** Juan 3,14; Juan 12,32] \bibverse{29} Porque el que me envió, conmigo está; no me ha dejado solo el Padre; porque yo, lo que á él agrada, hago siempre. 
-
-
+\bibleverse{27} Mas no entendieron que él les hablaba del Padre. \bibleverse{28} Díjoles pues, Jesús: Cuando levantareis al Hijo del hombre, entonces entenderéis que yo soy, y que nada hago de mí mismo; mas como el Padre me enseñó, esto hablo. ^[**8:28** Juan 3,14; Juan 12,32] \bibleverse{29} Porque el que me envió, conmigo está; no me ha dejado solo el Padre; porque yo, lo que á él agrada, hago siempre. 
 
 
 ## El testimonio de Jesús de su filiación de Dios y de la esclavitud del pecado de los judíos a pesar de su descendencia de Abraham
-\bibverse{30} Hablando él estas cosas, muchos creyeron en él. \bibverse{31} Y decía Jesús á los Judíos que le habían creído: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos; \bibverse{32} Y conoceréis la verdad, y la verdad os libertará. 
+\bibleverse{30} Hablando él estas cosas, muchos creyeron en él. \bibleverse{31} Y decía Jesús á los Judíos que le habían creído: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos; \bibleverse{32} Y conoceréis la verdad, y la verdad os libertará. 
+
+\bibleverse{33} Y respondiéronle: Simiente de Abraham somos, y jamás servimos á nadie: ¿cómo dices tú: Seréis libres? ^[**8:33** Mat 3,9] 
 
 
-\bibverse{33} Y respondiéronle: Simiente de Abraham somos, y jamás servimos á nadie: ¿cómo dices tú: Seréis libres? 
-^[**8:33** Mat 3,9] 
-
-
-\bibverse{34} Jesús les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, es siervo de pecado. \bibverse{35} Y el siervo no queda en casa para siempre: el hijo queda para siempre. \bibverse{36} Así que, si el Hijo os libertare, seréis verdaderamente libres. 
-
-
+\bibleverse{34} Jesús les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, es siervo de pecado. \bibleverse{35} Y el siervo no queda en casa para siempre: el hijo queda para siempre. \bibleverse{36} Así que, si el Hijo os libertare, seréis verdaderamente libres. 
 
 ## Los judíos incrédulos no son hijos de Abraham ni de Dios, sino hijos del diablo
-\bibverse{37} Sé que sois simiente de Abraham, mas procuráis matarme, porque mi palabra no cabe en vosotros. \bibverse{38} Yo hablo lo que he visto cerca del Padre; y vosotros hacéis lo que habéis oído cerca de vuestro padre. 
+\bibleverse{37} Sé que sois simiente de Abraham, mas procuráis matarme, porque mi palabra no cabe en vosotros. \bibleverse{38} Yo hablo lo que he visto cerca del Padre; y vosotros hacéis lo que habéis oído cerca de vuestro padre. 
 
+\bibleverse{39} Respondieron y dijéronle: Nuestro padre es Abraham. Díceles Jesús: Si fuerais hijos de Abraham, las obras de Abraham haríais. 
 
-\bibverse{39} Respondieron y dijéronle: Nuestro padre es Abraham. Díceles Jesús: Si fuerais hijos de Abraham, las obras de Abraham haríais. 
+\bibleverse{40} Empero ahora procuráis matarme, hombre que os he hablado la verdad, la cual he oído de Dios: no hizo esto Abraham. \bibleverse{41} Vosotros hacéis las obras de vuestro padre. Dijéronle entonces: Nosotros no somos nacidos de fornicación; un padre tenemos, que es Dios. 
 
-
-\bibverse{40} Empero ahora procuráis matarme, hombre que os he hablado la verdad, la cual he oído de Dios: no hizo esto Abraham. \bibverse{41} Vosotros hacéis las obras de vuestro padre. Dijéronle entonces: Nosotros no somos nacidos de fornicación; un padre tenemos, que es Dios. 
-
-
-\bibverse{42} Jesús entonces les dijo: Si vuestro padre fuera Dios, ciertamente me amaríais: porque yo de Dios he salido, y he venido; que no he venido de mí mismo, mas él me envió. \bibverse{43} ¿Por qué no reconocéis mi lenguaje? porque no podéis oir mi palabra. ^[**8:43** 1Cor 2,14] \bibverse{44} Vosotros de vuestro padre el diablo sois, y los deseos de vuestro padre queréis cumplir. El, homicida ha sido desde el principio, y no permaneció en la verdad, porque no hay verdad en él. Cuando habla mentira, de suyo habla; porque es mentiroso, y padre de mentira. ^[**8:44** 1Jn 3,8-10; Gén 3,4; Gén 3,19] \bibverse{45} Y porque yo digo verdad, no me creéis. \bibverse{46} ¿Quién de vosotros me redarguye de pecado? Pues si digo verdad, ¿por qué vosotros no me creéis? ^[**8:46** 2Cor 5,21; 1Pe 2,22; 1Jn 3,5; Heb 4,15] \bibverse{47} El que es de Dios, las palabras de Dios oye: por esto no las oís vosotros, porque no sois de Dios. 
-
-^[**8:47** Juan 18,37] 
+\bibleverse{42} Jesús entonces les dijo: Si vuestro padre fuera Dios, ciertamente me amaríais: porque yo de Dios he salido, y he venido; que no he venido de mí mismo, mas él me envió. \bibleverse{43} ¿Por qué no reconocéis mi lenguaje? porque no podéis oir mi palabra. ^[**8:43** 1Cor 2,14] \bibleverse{44} Vosotros de vuestro padre el diablo sois, y los deseos de vuestro padre queréis cumplir. El, homicida ha sido desde el principio, y no permaneció en la verdad, porque no hay verdad en él. Cuando habla mentira, de suyo habla; porque es mentiroso, y padre de mentira. ^[**8:44** 1Jn 3,8-10; Gén 3,4; Gén 3,19] \bibleverse{45} Y porque yo digo verdad, no me creéis. \bibleverse{46} ¿Quién de vosotros me redarguye de pecado? Pues si digo verdad, ¿por qué vosotros no me creéis? ^[**8:46** 2Cor 5,21; 1Pe 2,22; 1Jn 3,5; Heb 4,15] \bibleverse{47} El que es de Dios, las palabras de Dios oye: por esto no las oís vosotros, porque no sois de Dios. ^[**8:47** Juan 18,37] 
    
 
 ## El testimonio de Jesús de la majestad de sí mismo y de su superioridad sobre Abraham
-\bibverse{48} Respondieron entonces los Judíos, y dijéronle: ¿No decimos bien nosotros, que tú eres Samaritano, y tienes demonio? 
-^[**8:48** Juan 7,20] 
+\bibleverse{48} Respondieron entonces los Judíos, y dijéronle: ¿No decimos bien nosotros, que tú eres Samaritano, y tienes demonio? ^[**8:48** Juan 7,20] 
 
 
-\bibverse{49} Respondió Jesús: Yo no tengo demonio, antes honro á mi Padre; y vosotros me habéis deshonrado. \bibverse{50} Y no busco mi gloria: hay quien la busque, y juzgue. \bibverse{51} De cierto, de cierto os digo, que el que guardare mi palabra, no verá muerte para siempre. 
+\bibleverse{49} Respondió Jesús: Yo no tengo demonio, antes honro á mi Padre; y vosotros me habéis deshonrado. \bibleverse{50} Y no busco mi gloria: hay quien la busque, y juzgue. \bibleverse{51} De cierto, de cierto os digo, que el que guardare mi palabra, no verá muerte para siempre. 
+
+\bibleverse{52} Entonces los Judíos le dijeron: Ahora conocemos que tienes demonio. Abraham murió, y los profetas, y tú dices: El que guardare mi palabra, no gustará muerte para siempre. \bibleverse{53} ¿Eres tú mayor que nuestro padre Abraham, el cual murió? y los profetas murieron: ¿quién te haces á ti mismo? 
+
+\bibleverse{54} Respondió Jesús: Si yo me glorifico á mí mismo, mi gloria es nada: mi Padre es el que me glorifica; el que vosotros decís que es vuestro Dios; \bibleverse{55} Y no le conocéis: mas yo le conozco; y si dijere que no le conozco, seré como vosotros mentiroso: mas le conozco, y guardo su palabra. ^[**8:55** Juan 7,28-29] \bibleverse{56} Abraham vuestro padre se gozó por ver mi día; y lo vió, y se gozó. 
 
 
-\bibverse{52} Entonces los Judíos le dijeron: Ahora conocemos que tienes demonio. Abraham murió, y los profetas, y tú dices: El que guardare mi palabra, no gustará muerte para siempre. \bibverse{53} ¿Eres tú mayor que nuestro padre Abraham, el cual murió? y los profetas murieron: ¿quién te haces á ti mismo? 
+\bibleverse{57} Dijéronle entonces los Judíos: Aun no tienes cincuenta años, ¿y has visto á Abraham? 
 
+\bibleverse{58} Díjoles Jesús: De cierto, de cierto os digo: Antes que Abraham fuese, yo soy. 
 
-\bibverse{54} Respondió Jesús: Si yo me glorifico á mí mismo, mi gloria es nada: mi Padre es el que me glorifica; el que vosotros decís que es vuestro Dios; \bibverse{55} Y no le conocéis: mas yo le conozco; y si dijere que no le conozco, seré como vosotros mentiroso: mas le conozco, y guardo su palabra. ^[**8:55** Juan 7,28-29] \bibverse{56} Abraham vuestro padre se gozó por ver mi día; y lo vió, y se gozó. 
-
-
-
-\bibverse{57} Dijéronle entonces los Judíos: Aun no tienes cincuenta años, ¿y has visto á Abraham? 
-
-
-\bibverse{58} Díjoles Jesús: De cierto, de cierto os digo: Antes que Abraham fuese, yo soy. 
-
-
-\bibverse{59} Tomaron entonces piedras para tirarle: mas Jesús se encubrió, y salió del templo; y atravesando por medio de ellos, se fué. ^[**8:59** Juan 10,31] 
+\bibleverse{59} Tomaron entonces piedras para tirarle: mas Jesús se encubrió, y salió del templo; y atravesando por medio de ellos, se fué. ^[**8:59** Juan 10,31] 
  
 
 ## La curación del ciego de nacimiento en sábado
 # 9 
-\bibverse{1} Y pasando Jesús, vió un hombre ciego desde su nacimiento. \bibverse{2} Y preguntáronle sus discípulos, diciendo: Rabbí, ¿quién pecó, éste ó sus padres, para que naciese ciego? 
+\bibleverse{1} Y pasando Jesús, vió un hombre ciego desde su nacimiento. \bibleverse{2} Y preguntáronle sus discípulos, diciendo: Rabbí, ¿quién pecó, éste ó sus padres, para que naciese ciego? 
 
-
-\bibverse{3} Respondió Jesús: Ni éste pecó, ni sus padres: mas para que las obras de Dios se manifiesten en él. ^[**9:3** Juan 11,4] \bibverse{4} Conviéneme obrar las obras del que me envió, entre tanto que el día dura: la noche viene, cuando nadie puede obrar. ^[**9:4** Juan 5,17; Jer 13,16] \bibverse{5} Entre tanto que estuviere en el mundo, luz soy del mundo. ^[**9:5** Juan 12,35; Juan 8,12] \bibverse{6} Esto dicho, escupió en tierra, é hizo lodo con la saliva, y untó con el lodo sobre los ojos del ciego, ^[**9:6** Mar 8,23] \bibverse{7} Y díjole: Ve, lávate en el estanque de Siloé (que significa, si lo interpretares, Enviado). Y fué entonces, y lavóse, y volvió viendo. 
-
+\bibleverse{3} Respondió Jesús: Ni éste pecó, ni sus padres: mas para que las obras de Dios se manifiesten en él. ^[**9:3** Juan 11,4] \bibleverse{4} Conviéneme obrar las obras del que me envió, entre tanto que el día dura: la noche viene, cuando nadie puede obrar. ^[**9:4** Juan 5,17; Jer 13,16] \bibleverse{5} Entre tanto que estuviere en el mundo, luz soy del mundo. ^[**9:5** Juan 12,35; Juan 8,12] \bibleverse{6} Esto dicho, escupió en tierra, é hizo lodo con la saliva, y untó con el lodo sobre los ojos del ciego, ^[**9:6** Mar 8,23] \bibleverse{7} Y díjole: Ve, lávate en el estanque de Siloé (que significa, si lo interpretares, Enviado). Y fué entonces, y lavóse, y volvió viendo. 
    
 
-\bibverse{8} Entonces los vecinos, y los que antes le habían visto que era ciego, decían: ¿No es éste el que se sentaba y mendigaba? \bibverse{9} Unos decían: Este es; y otros: A él se parece. El decía: Yo soy. 
+\bibleverse{8} Entonces los vecinos, y los que antes le habían visto que era ciego, decían: ¿No es éste el que se sentaba y mendigaba? \bibleverse{9} Unos decían: Este es; y otros: A él se parece. El decía: Yo soy. 
 
+\bibleverse{10} Y dijéronle: ¿Cómo te fueron abiertos los ojos? 
 
-\bibverse{10} Y dijéronle: ¿Cómo te fueron abiertos los ojos? 
+\bibleverse{11} Respondió él y dijo: El hombre que se llama Jesús, hizo lodo, y me untó los ojos, y me dijo: Ve al Siloé, y lávate: y fuí, y me lavé, y recibí la vista. 
 
-
-\bibverse{11} Respondió él y dijo: El hombre que se llama Jesús, hizo lodo, y me untó los ojos, y me dijo: Ve al Siloé, y lávate: y fuí, y me lavé, y recibí la vista. 
-
-
-\bibverse{12} Entonces le dijeron: ¿Dónde está aquél? El dijo: No sé. 
-
-
+\bibleverse{12} Entonces le dijeron: ¿Dónde está aquél? El dijo: No sé. 
 
 ## El primer interrogatorio de los fariseos
-\bibverse{13} Llevaron á los Fariseos al que antes había sido ciego. \bibverse{14} Y era sábado cuando Jesús había hecho el lodo, y le había abierto los ojos. \bibverse{15} Y volviéronle á preguntar también los Fariseos de qué manera había recibido la vista. Y él les dijo: Púsome lodo sobre los ojos, y me lavé, y veo. 
+\bibleverse{13} Llevaron á los Fariseos al que antes había sido ciego. \bibleverse{14} Y era sábado cuando Jesús había hecho el lodo, y le había abierto los ojos. \bibleverse{15} Y volviéronle á preguntar también los Fariseos de qué manera había recibido la vista. Y él les dijo: Púsome lodo sobre los ojos, y me lavé, y veo. 
 
+\bibleverse{16} Entonces unos de los Fariseos decían: Este hombre no es de Dios, que no guarda el sábado. Otros decían: ¿Cómo puede un hombre pecador hacer estas señales? Y había disensión entre ellos. 
 
-\bibverse{16} Entonces unos de los Fariseos decían: Este hombre no es de Dios, que no guarda el sábado. Otros decían: ¿Cómo puede un hombre pecador hacer estas señales? Y había disensión entre ellos. 
-
-
-\bibverse{17} Vuelven á decir al ciego: ¿Tú, qué dices del que te abrió los ojos? Y él dijo: Que es profeta. 
-
-
+\bibleverse{17} Vuelven á decir al ciego: ¿Tú, qué dices del que te abrió los ojos? Y él dijo: Que es profeta. 
 
 ## El interrogatorio de los padres
-\bibverse{18} Mas los Judíos no creían de él, que había sido ciego, y hubiese recibido la vista, hasta que llamaron á los padres del que había recibido la vista; \bibverse{19} Y preguntáronles, diciendo: ¿Es éste vuestro hijo, el que vosotros decís que nació ciego? ¿Cómo, pues, ve ahora? 
+\bibleverse{18} Mas los Judíos no creían de él, que había sido ciego, y hubiese recibido la vista, hasta que llamaron á los padres del que había recibido la vista; \bibleverse{19} Y preguntáronles, diciendo: ¿Es éste vuestro hijo, el que vosotros decís que nació ciego? ¿Cómo, pues, ve ahora? 
 
-
-\bibverse{20} Respondiéronles sus padres y dijeron: Sabemos que éste es nuestro hijo, y que nació ciego: \bibverse{21} Mas cómo vea ahora, no sabemos; ó quién le haya abierto los ojos, nosotros no lo sabemos; él tiene edad, preguntadle á él; él hablará de sí. \bibverse{22} Esto dijeron sus padres, porque tenían miedo de los Judíos: porque ya los Judíos habían resuelto que si alguno confesase ser él el Mesías, fuese fuera de la sinagoga. ^[**9:22** Juan 7,13; Juan 12,42] \bibverse{23} Por eso dijeron sus padres: Edad tiene, preguntadle á él. 
-
-
+\bibleverse{20} Respondiéronles sus padres y dijeron: Sabemos que éste es nuestro hijo, y que nació ciego: \bibleverse{21} Mas cómo vea ahora, no sabemos; ó quién le haya abierto los ojos, nosotros no lo sabemos; él tiene edad, preguntadle á él; él hablará de sí. \bibleverse{22} Esto dijeron sus padres, porque tenían miedo de los Judíos: porque ya los Judíos habían resuelto que si alguno confesase ser él el Mesías, fuese fuera de la sinagoga. ^[**9:22** Juan 7,13; Juan 12,42] \bibleverse{23} Por eso dijeron sus padres: Edad tiene, preguntadle á él. 
 
 
 ## El segundo interrogatorio del curado
-\bibverse{24} Así que, volvieron á llamar al hombre que había sido ciego, y dijéronle: Da gloria á Dios: nosotros sabemos que este hombre es pecador. 
+\bibleverse{24} Así que, volvieron á llamar al hombre que había sido ciego, y dijéronle: Da gloria á Dios: nosotros sabemos que este hombre es pecador. 
 
+\bibleverse{25} Entonces él respondió, y dijo: Si es pecador, no lo sé: una cosa sé, que habiendo yo sido ciego, ahora veo. 
 
-\bibverse{25} Entonces él respondió, y dijo: Si es pecador, no lo sé: una cosa sé, que habiendo yo sido ciego, ahora veo. 
+\bibleverse{26} Y volviéronle á decir: ¿Qué te hizo? ¿Cómo te abrió los ojos? 
 
+\bibleverse{27} Respondióles: Ya os lo he dicho, y no habéis atendido: ¿por qué lo queréis otra vez oir? ¿queréis también vosotros haceros sus discípulos? 
 
-\bibverse{26} Y volviéronle á decir: ¿Qué te hizo? ¿Cómo te abrió los ojos? 
+\bibleverse{28} Y le ultrajaron, y dijeron: Tú eres su discípulo; pero nosotros discípulos de Moisés somos. \bibleverse{29} Nosotros sabemos que á Moisés habló Dios: mas éste no sabemos de dónde es. 
 
+\bibleverse{30} Respondió aquel hombre, y díjoles: Por cierto, maravillosa cosa es ésta, que vosotros no sabéis de dónde sea, y á mí me abrió los ojos. \bibleverse{31} Y sabemos que Dios no oye á los pecadores: mas si alguno es temeroso de Dios, y hace su voluntad, á éste oye. \bibleverse{32} Desde el siglo no fué oído, que abriese alguno los ojos de uno que nació ciego. \bibleverse{33} Si éste no fuera de Dios, no pudiera hacer nada. 
 
-\bibverse{27} Respondióles: Ya os lo he dicho, y no habéis atendido: ¿por qué lo queréis otra vez oir? ¿queréis también vosotros haceros sus discípulos? 
-
-
-\bibverse{28} Y le ultrajaron, y dijeron: Tú eres su discípulo; pero nosotros discípulos de Moisés somos. \bibverse{29} Nosotros sabemos que á Moisés habló Dios: mas éste no sabemos de dónde es. 
-
-
-\bibverse{30} Respondió aquel hombre, y díjoles: Por cierto, maravillosa cosa es ésta, que vosotros no sabéis de dónde sea, y á mí me abrió los ojos. \bibverse{31} Y sabemos que Dios no oye á los pecadores: mas si alguno es temeroso de Dios, y hace su voluntad, á éste oye. \bibverse{32} Desde el siglo no fué oído, que abriese alguno los ojos de uno que nació ciego. \bibverse{33} Si éste no fuera de Dios, no pudiera hacer nada. 
-
-
-\bibverse{34} Respondieron, y dijéronle: En pecados eres nacido todo, ¿y tú nos enseñas? Y echáronle fuera. 
-
-
+\bibleverse{34} Respondieron, y dijéronle: En pecados eres nacido todo, ¿y tú nos enseñas? Y echáronle fuera. 
 
 ## La fe del sanado en Jesús; Jesús como la luz de los que no ven y como la ceguera de los que ven
-\bibverse{35} Oyó Jesús que le habían echado fuera; y hallándole, díjole: ¿Crees tú en el Hijo de Dios? 
+\bibleverse{35} Oyó Jesús que le habían echado fuera; y hallándole, díjole: ¿Crees tú en el Hijo de Dios? 
+
+\bibleverse{36} Respondió él, y dijo: ¿Quién es, Señor, para que crea en él? 
+
+\bibleverse{37} Y díjole Jesús: Y le has visto, y el que habla contigo, él es. ^[**9:37** Juan 4,26] 
 
 
-\bibverse{36} Respondió él, y dijo: ¿Quién es, Señor, para que crea en él? 
+\bibleverse{38} Y él dice: Creo, Señor; y adoróle. 
 
+\bibleverse{39} Y dijo Jesús: Yo, para juicio he venido á este mundo: para que los que no ven, vean; y los que ven, sean cegados. 
 
-\bibverse{37} Y díjole Jesús: Y le has visto, y el que habla contigo, él es. 
-^[**9:37** Juan 4,26] 
+\bibleverse{40} Y ciertos de los Fariseos que estaban con él oyeron esto, y dijéronle: ¿Somos nosotros también ciegos? 
 
-
-\bibverse{38} Y él dice: Creo, Señor; y adoróle. 
-
-
-\bibverse{39} Y dijo Jesús: Yo, para juicio he venido á este mundo: para que los que no ven, vean; y los que ven, sean cegados. 
-
-
-\bibverse{40} Y ciertos de los Fariseos que estaban con él oyeron esto, y dijéronle: ¿Somos nosotros también ciegos? 
-
-
-\bibverse{41} Díjoles Jesús: Si fuerais ciegos, no tuvierais pecado: mas ahora porque decís, Vemos, por tanto vuestro pecado permanece. ^[**9:41** Prov 26,12; Juan 15,22] 
+\bibleverse{41} Díjoles Jesús: Si fuerais ciegos, no tuvierais pecado: mas ahora porque decís, Vemos, por tanto vuestro pecado permanece. ^[**9:41** Prov 26,12; Juan 15,22] 
  
 
 ## El lenguaje figurado del pastor y ladrón y del buen pastor y asalariado
 # 10 
-\bibverse{1} De cierto, de cierto os digo: El que no entra por la puerta en el corral de las ovejas, mas sube por otra parte, el tal es ladrón y robador. \bibverse{2} Mas el que entra por la puerta, el pastor de las ovejas es. \bibverse{3} A éste abre el portero, y las ovejas oyen su voz: y á sus ovejas llama por nombre, y las saca. \bibverse{4} Y como ha sacado fuera todas las propias, va delante de ellas; y las ovejas le siguen, porque conocen su voz. \bibverse{5} Mas al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños. \bibverse{6} Esta parábola les dijo Jesús; mas ellos no entendieron qué era lo que les decía. 
-
-
+\bibleverse{1} De cierto, de cierto os digo: El que no entra por la puerta en el corral de las ovejas, mas sube por otra parte, el tal es ladrón y robador. \bibleverse{2} Mas el que entra por la puerta, el pastor de las ovejas es. \bibleverse{3} A éste abre el portero, y las ovejas oyen su voz: y á sus ovejas llama por nombre, y las saca. \bibleverse{4} Y como ha sacado fuera todas las propias, va delante de ellas; y las ovejas le siguen, porque conocen su voz. \bibleverse{5} Mas al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños. \bibleverse{6} Esta parábola les dijo Jesús; mas ellos no entendieron qué era lo que les decía. 
 
 ## ¡Yo soy la puerta para las ovejas!
-\bibverse{7} Volvióles, pues, Jesús á decir: De cierto, de cierto os digo: Yo soy la puerta de las ovejas. \bibverse{8} Todos los que antes de mí vinieron, ladrones son y robadores; mas no los oyeron las ovejas. \bibverse{9} Yo soy la puerta: el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos. \bibverse{10} El ladrón no viene sino para hurtar, y matar, y destruir: yo he venido para que tengan vida, y para que la tengan en abundancia. 
-
-
+\bibleverse{7} Volvióles, pues, Jesús á decir: De cierto, de cierto os digo: Yo soy la puerta de las ovejas. \bibleverse{8} Todos los que antes de mí vinieron, ladrones son y robadores; mas no los oyeron las ovejas. \bibleverse{9} Yo soy la puerta: el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos. \bibleverse{10} El ladrón no viene sino para hurtar, y matar, y destruir: yo he venido para que tengan vida, y para que la tengan en abundancia. 
 
 ## Jesús como el buen pastor
-\bibverse{11} Yo soy el buen pastor: el buen pastor su vida da por las ovejas. \bibverse{12} Mas el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve al lobo que viene, y deja las ovejas, y huye, y el lobo las arrebata, y esparce las ovejas. ^[**10:12** Sal 23,-1; Is 40,11; Ezeq 34,11-23; Juan 15,13; Heb 13,20] \bibverse{13} Así que, el asalariado, huye, porque es asalariado, y no tiene cuidado de las ovejas. \bibverse{14} Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen. \bibverse{15} Como el Padre me conoce, y yo conozco al Padre; y pongo mi vida por las ovejas. \bibverse{16} También tengo otras ovejas que no son de este redil; aquéllas también me conviene traer, y oirán mi voz; y habrá un rebaño, y un pastor. ^[**10:16** Juan 11,52; Hech 10,34-35] \bibverse{17} Por eso me ama el Padre, porque yo pongo mi vida, para volverla á tomar. \bibverse{18} Nadie me la quita, mas yo la pongo de mí mismo. Tengo poder para ponerla, y tengo poder para volverla á tomar. Este mandamiento recibí de mi Padre. 
-
+\bibleverse{11} Yo soy el buen pastor: el buen pastor su vida da por las ovejas. \bibleverse{12} Mas el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve al lobo que viene, y deja las ovejas, y huye, y el lobo las arrebata, y esparce las ovejas. ^[**10:12** Sal 23,-1; Is 40,11; Ezeq 34,11-23; Juan 15,13; Heb 13,20] \bibleverse{13} Así que, el asalariado, huye, porque es asalariado, y no tiene cuidado de las ovejas. \bibleverse{14} Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen. \bibleverse{15} Como el Padre me conoce, y yo conozco al Padre; y pongo mi vida por las ovejas. \bibleverse{16} También tengo otras ovejas que no son de este redil; aquéllas también me conviene traer, y oirán mi voz; y habrá un rebaño, y un pastor. ^[**10:16** Juan 11,52; Hech 10,34-35] \bibleverse{17} Por eso me ama el Padre, porque yo pongo mi vida, para volverla á tomar. \bibleverse{18} Nadie me la quita, mas yo la pongo de mí mismo. Tengo poder para ponerla, y tengo poder para volverla á tomar. Este mandamiento recibí de mi Padre. 
  
 
-\bibverse{19} Y volvió á haber disensión entre los Judíos por estas palabras. ^[**10:19** Juan 7,43; Juan 9,16] \bibverse{20} Y muchos de ellos decían: Demonio tiene, y está fuera de sí; ¿para qué le oís? ^[**10:20** Juan 7,20; Mar 3,21] \bibverse{21} Decían otros: Estas palabras no son de endemoniado: ¿puede el demonio abrir los ojos de los ciegos? 
-
-
+\bibleverse{19} Y volvió á haber disensión entre los Judíos por estas palabras. ^[**10:19** Juan 7,43; Juan 9,16] \bibleverse{20} Y muchos de ellos decían: Demonio tiene, y está fuera de sí; ¿para qué le oís? ^[**10:20** Juan 7,20; Mar 3,21] \bibleverse{21} Decían otros: Estas palabras no son de endemoniado: ¿puede el demonio abrir los ojos de los ciegos? 
  
 
 ## La última justificación de Jesús a los judíos en la fiesta de la dedicación del templo
-\bibverse{22} Y se hacía la fiesta de la dedicación en Jerusalem; y era invierno; \bibverse{23} Y Jesús andaba en el templo por el portal de Salomón. ^[**10:23** Hech 3,11] \bibverse{24} Y rodeáronle los Judíos y dijéronle: ¿Hasta cuándo nos has de turbar el alma? Si tú eres el Cristo, dínoslo abiertamente. 
+\bibleverse{22} Y se hacía la fiesta de la dedicación en Jerusalem; y era invierno; \bibleverse{23} Y Jesús andaba en el templo por el portal de Salomón. ^[**10:23** Hech 3,11] \bibleverse{24} Y rodeáronle los Judíos y dijéronle: ¿Hasta cuándo nos has de turbar el alma? Si tú eres el Cristo, dínoslo abiertamente. 
 
 
-
-\bibverse{25} Respondióles Jesús: Os lo he dicho, y no creéis: las obras que yo hago en nombre de mi Padre, ellas dan testimonio de mí; \bibverse{26} Mas vosotros no creéis, porque no sois de mis ovejas, como os he dicho. ^[**10:26** Juan 8,45; Juan 8,47] \bibverse{27} Mis ovejas oyen mi voz, y yo las conozco, y me siguen; \bibverse{28} Y yo les doy vida eterna: y no perecerán para siempre, ni nadie las arrebatará de mi mano. \bibverse{29} Mi Padre que me las dió, mayor que todos es: y nadie las puede arrebatar de la mano de mi Padre. \bibverse{30} Yo y el Padre una cosa somos. 
-
+\bibleverse{25} Respondióles Jesús: Os lo he dicho, y no creéis: las obras que yo hago en nombre de mi Padre, ellas dan testimonio de mí; \bibleverse{26} Mas vosotros no creéis, porque no sois de mis ovejas, como os he dicho. ^[**10:26** Juan 8,45; Juan 8,47] \bibleverse{27} Mis ovejas oyen mi voz, y yo las conozco, y me siguen; \bibleverse{28} Y yo les doy vida eterna: y no perecerán para siempre, ni nadie las arrebatará de mi mano. \bibleverse{29} Mi Padre que me las dió, mayor que todos es: y nadie las puede arrebatar de la mano de mi Padre. \bibleverse{30} Yo y el Padre una cosa somos. 
 
 
-\bibverse{31} Entonces volvieron á tomar piedras los Judíos para apedrearle. \bibverse{32} Respondióles Jesús: Muchas buenas obras os he mostrado de mi Padre; ¿por cuál obra de esas me apedreáis? 
+\bibleverse{31} Entonces volvieron á tomar piedras los Judíos para apedrearle. \bibleverse{32} Respondióles Jesús: Muchas buenas obras os he mostrado de mi Padre; ¿por cuál obra de esas me apedreáis? 
+
+\bibleverse{33} Respondiéronle los Judíos, diciendo: Por buena obra no te apedreamos, sino por la blasfemia; y porque tú, siendo hombre, te haces Dios. ^[**10:33** Juan 5,18; Mat 9,3; Mat 26,65] 
 
 
-\bibverse{33} Respondiéronle los Judíos, diciendo: Por buena obra no te apedreamos, sino por la blasfemia; y porque tú, siendo hombre, te haces Dios. 
-^[**10:33** Juan 5,18; Mat 9,3; Mat 26,65] 
+\bibleverse{34} Respondióles Jesús: ¿No está escrito en vuestra ley: Yo dije, Dioses sois? \bibleverse{35} Si dijo, dioses, á aquellos á los cuales fué hecha palabra de Dios (y la Escritura no puede ser quebrantada); \bibleverse{36} ¿A quien el Padre santificó y envió al mundo, vosotros decís: Tú blasfemas, porque dije: Hijo de Dios soy? \bibleverse{37} Si no hago obras de mi Padre, no me creáis. \bibleverse{38} Mas si las hago, aunque á mí no creáis, creed á las obras; para que conozcáis y creáis que el Padre está en mí, y yo en el Padre. 
 
-
-\bibverse{34} Respondióles Jesús: ¿No está escrito en vuestra ley: Yo dije, Dioses sois? \bibverse{35} Si dijo, dioses, á aquellos á los cuales fué hecha palabra de Dios (y la Escritura no puede ser quebrantada); \bibverse{36} ¿A quien el Padre santificó y envió al mundo, vosotros decís: Tú blasfemas, porque dije: Hijo de Dios soy? \bibverse{37} Si no hago obras de mi Padre, no me creáis. \bibverse{38} Mas si las hago, aunque á mí no creáis, creed á las obras; para que conozcáis y creáis que el Padre está en mí, y yo en el Padre. 
-
-
-\bibverse{39} Y procuraban otra vez prenderle; mas él se salió de sus manos; 
-
-^[**10:39** Juan 8,59; Luc 4,30] 
+\bibleverse{39} Y procuraban otra vez prenderle; mas él se salió de sus manos; ^[**10:39** Juan 8,59; Luc 4,30] 
 
 
 ## Jesús y Lázaro; Jesús como la resurrección y la vida
-\bibverse{40} Y volvióse tras el Jordán, á aquel lugar donde primero había estado bautizando Juan; y estúvose allí. 
-^[**10:40** Juan 1,28] 
-\bibverse{41} Y muchos venían á él, y decían: Juan, á la verdad, ninguna señal hizo; mas todo lo que Juan dijo de éste, era verdad. \bibverse{42} Y muchos creyeron allí en él. 
-
-# 11 
-\bibverse{1} Estaba entonces enfermo uno llamado Lázaro, de Bethania, la aldea de María y de Marta su hermana. ^[**11:1** Luc 10,38-39] \bibverse{2} (Y María, cuyo hermano Lázaro estaba enfermo, era la que ungió al Señor con ungüento, y limpió sus pies con sus cabellos.) ^[**11:2** Juan 12,3] \bibverse{3} Enviaron, pues, sus hermanas á él, diciendo: Señor, he aquí, el que amas está enfermo. 
-
+\bibleverse{40} Y volvióse tras el Jordán, á aquel lugar donde primero había estado bautizando Juan; y estúvose allí. ^[**10:40** Juan 1,28] \bibleverse{41} Y muchos venían á él, y decían: Juan, á la verdad, ninguna señal hizo; mas todo lo que Juan dijo de éste, era verdad. \bibleverse{42} Y muchos creyeron allí en él.
  
 
-\bibverse{4} Y oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, mas por gloria de Dios, para que el Hijo de Dios sea glorificado por ella. ^[**11:4** Juan 9,3] \bibverse{5} Y amaba Jesús á Marta, y á su hermana, y á Lázaro. \bibverse{6} Como oyó pues que estaba enfermo, quedóse aún dos días en aquel lugar donde estaba. \bibverse{7} Luego, después de esto, dijo á los discípulos: Vamos á Judea otra vez. 
+# 11 
+\bibleverse{1} Estaba entonces enfermo uno llamado Lázaro, de Bethania, la aldea de María y de Marta su hermana. ^[**11:1** Luc 10,38-39] \bibleverse{2} (Y María, cuyo hermano Lázaro estaba enfermo, era la que ungió al Señor con ungüento, y limpió sus pies con sus cabellos.) ^[**11:2** Juan 12,3] \bibleverse{3} Enviaron, pues, sus hermanas á él, diciendo: Señor, he aquí, el que amas está enfermo. 
+ 
+
+\bibleverse{4} Y oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, mas por gloria de Dios, para que el Hijo de Dios sea glorificado por ella. ^[**11:4** Juan 9,3] \bibleverse{5} Y amaba Jesús á Marta, y á su hermana, y á Lázaro. \bibleverse{6} Como oyó pues que estaba enfermo, quedóse aún dos días en aquel lugar donde estaba. \bibleverse{7} Luego, después de esto, dijo á los discípulos: Vamos á Judea otra vez. 
 
 
+\bibleverse{8} Dícenle los discípulos: Rabbí, ahora procuraban los Judíos apedrearte, ¿y otra vez vas allá? 
 
-\bibverse{8} Dícenle los discípulos: Rabbí, ahora procuraban los Judíos apedrearte, ¿y otra vez vas allá? 
-
-
-\bibverse{9} Respondió Jesús: ¿No tiene el día doce horas? El que anduviere de día, no tropieza, porque ve la luz de este mundo. ^[**11:9** Juan 9,4-5] \bibverse{10} Mas el que anduviere de noche, tropieza, porque no hay luz en él. ^[**11:10** Juan 12,35] \bibverse{11} Dicho esto, díceles después: Lázaro nuestro amigo duerme; mas voy á despertarle del sueño. 
-^[**11:11** Mat 9,24] 
+\bibleverse{9} Respondió Jesús: ¿No tiene el día doce horas? El que anduviere de día, no tropieza, porque ve la luz de este mundo. ^[**11:9** Juan 9,4-5] \bibleverse{10} Mas el que anduviere de noche, tropieza, porque no hay luz en él. ^[**11:10** Juan 12,35] \bibleverse{11} Dicho esto, díceles después: Lázaro nuestro amigo duerme; mas voy á despertarle del sueño. ^[**11:11** Mat 9,24] 
   
 
-\bibverse{12} Dijeron entonces sus discípulos: Señor, si duerme, salvo estará. 
+\bibleverse{12} Dijeron entonces sus discípulos: Señor, si duerme, salvo estará. 
 
+\bibleverse{13} Mas esto decía Jesús de la muerte de él: y ellos pensaron que hablaba del reposar del sueño. \bibleverse{14} Entonces, pues, Jesús les dijo claramente: Lázaro es muerto; \bibleverse{15} Y huélgome por vosotros, que yo no haya estado allí, para que creáis: mas vamos á él. 
 
-\bibverse{13} Mas esto decía Jesús de la muerte de él: y ellos pensaron que hablaba del reposar del sueño. \bibverse{14} Entonces, pues, Jesús les dijo claramente: Lázaro es muerto; \bibverse{15} Y huélgome por vosotros, que yo no haya estado allí, para que creáis: mas vamos á él. 
-
-
-\bibverse{16} Dijo entonces Tomás, el que se dice el Dídimo, á sus condiscípulos: Vamos también nosotros, para que muramos con él. 
-
-
+\bibleverse{16} Dijo entonces Tomás, el que se dice el Dídimo, á sus condiscípulos: Vamos también nosotros, para que muramos con él. 
 
 ## El regreso de Jesús a Betania; su encuentro con Martha y Maria
-\bibverse{17} Vino pues Jesús, y halló que había ya cuatro días que estaba en el sepulcro. \bibverse{18} Y Bethania estaba cerca de Jerusalem, como quince estadios; \bibverse{19} Y muchos de los Judíos habían venido á Marta y á María, á consolarlas de su hermano. \bibverse{20} Entonces Marta, como oyó que Jesús venía, salió á encontrarle; mas María se estuvo en casa. \bibverse{21} Y Marta dijo á Jesús: Señor, si hubieses estado aquí, mi hermano no fuera muerto; \bibverse{22} Mas también sé ahora, que todo lo que pidieres de Dios, te dará Dios. 
+\bibleverse{17} Vino pues Jesús, y halló que había ya cuatro días que estaba en el sepulcro. \bibleverse{18} Y Bethania estaba cerca de Jerusalem, como quince estadios; \bibleverse{19} Y muchos de los Judíos habían venido á Marta y á María, á consolarlas de su hermano. \bibleverse{20} Entonces Marta, como oyó que Jesús venía, salió á encontrarle; mas María se estuvo en casa. \bibleverse{21} Y Marta dijo á Jesús: Señor, si hubieses estado aquí, mi hermano no fuera muerto; \bibleverse{22} Mas también sé ahora, que todo lo que pidieres de Dios, te dará Dios. 
+
+\bibleverse{23} Dícele Jesús: Resucitará tu hermano. 
+
+\bibleverse{24} Marta le dice: Yo sé que resucitará en la resurrección en el día postrero. ^[**11:24** Juan 5,28-29; Juan 6,40; Mat 22,23-33] 
 
 
-\bibverse{23} Dícele Jesús: Resucitará tu hermano. 
+\bibleverse{25} Dícele Jesús: Yo soy la resurrección y la vida: el que cree en mí, aunque esté muerto, vivirá. \bibleverse{26} Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto? 
+
+\bibleverse{27} Dícele: Sí, Señor; yo he creído que tú eres el Cristo, el Hijo de Dios, que has venido al mundo. ^[**11:27** Mat 16,16] 
 
 
-\bibverse{24} Marta le dice: Yo sé que resucitará en la resurrección en el día postrero. 
-^[**11:24** Juan 5,28-29; Juan 6,40; Mat 22,23-33] 
+\bibleverse{28} Y esto dicho, fuése, y llamó en secreto á María su hermana, diciendo: El Maestro está aquí y te llama. 
 
+\bibleverse{29} Ella, como lo oyó, levántase prestamente y viene á él. \bibleverse{30} (Que aun no había llegado Jesús á la aldea, mas estaba en aquel lugar donde Marta le había encontrado.) \bibleverse{31} Entonces los Judíos que estaban en casa con ella, y la consolaban, como vieron que María se había levantado prestamente, y había salido, siguiéronla, diciendo: Va al sepulcro á llorar allí. 
 
-\bibverse{25} Dícele Jesús: Yo soy la resurrección y la vida: el que cree en mí, aunque esté muerto, vivirá. \bibverse{26} Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto? 
+\bibleverse{32} Mas María, como vino donde estaba Jesús, viéndole, derribóse á sus pies, diciéndole: Señor, si hubieras estado aquí, no fuera muerto mi hermano. 
 
-
-\bibverse{27} Dícele: Sí, Señor; yo he creído que tú eres el Cristo, el Hijo de Dios, que has venido al mundo. 
-^[**11:27** Mat 16,16] 
-
-
-\bibverse{28} Y esto dicho, fuése, y llamó en secreto á María su hermana, diciendo: El Maestro está aquí y te llama. 
-
-
-\bibverse{29} Ella, como lo oyó, levántase prestamente y viene á él. \bibverse{30} (Que aun no había llegado Jesús á la aldea, mas estaba en aquel lugar donde Marta le había encontrado.) \bibverse{31} Entonces los Judíos que estaban en casa con ella, y la consolaban, como vieron que María se había levantado prestamente, y había salido, siguiéronla, diciendo: Va al sepulcro á llorar allí. 
-
-
-\bibverse{32} Mas María, como vino donde estaba Jesús, viéndole, derribóse á sus pies, diciéndole: Señor, si hubieras estado aquí, no fuera muerto mi hermano. 
-
-
-\bibverse{33} Jesús entonces, como la vió llorando, y á los Judíos que habían venido juntamente con ella llorando, se conmovió en espíritu, y turbóse, 
-
-
+\bibleverse{33} Jesús entonces, como la vió llorando, y á los Judíos que habían venido juntamente con ella llorando, se conmovió en espíritu, y turbóse, 
 
 ## Jesús en la tumba y su oración; la resurrección de Lázaro de entre los muertos
-\bibverse{34} Y dijo: ¿Dónde le pusisteis? Dícenle: Señor, ven, y ve. 
+\bibleverse{34} Y dijo: ¿Dónde le pusisteis? Dícenle: Señor, ven, y ve. 
+
+\bibleverse{35} Y lloró Jesús. 
+
+\bibleverse{36} Dijeron entonces los Judíos: Mirad cómo le amaba. \bibleverse{37} Y algunos de ellos dijeron: ¿No podía éste que abrió los ojos al ciego, hacer que éste no muriera? ^[**11:37** Juan 9,7] 
 
 
-\bibverse{35} Y lloró Jesús. 
+\bibleverse{38} Y Jesús, conmoviéndose otra vez en sí mismo, vino al sepulcro. Era una cueva, la cual tenía una piedra encima. ^[**11:38** Mat 27,60] \bibleverse{39} Dice Jesús: Quitad la piedra. Marta, la hermana del que se había muerto, le dice: Señor, hiede ya, que es de cuatro días. 
 
 
-\bibverse{36} Dijeron entonces los Judíos: Mirad cómo le amaba. \bibverse{37} Y algunos de ellos dijeron: ¿No podía éste que abrió los ojos al ciego, hacer que éste no muriera? 
-^[**11:37** Juan 9,7] 
+\bibleverse{40} Jesús le dice: ¿No te he dicho que, si creyeres, verás la gloria de Dios? 
+
+\bibleverse{41} Entonces quitaron la piedra de donde el muerto había sido puesto. Y Jesús, alzando los ojos arriba, dijo: Padre, gracias te doy que me has oído. \bibleverse{42} Que yo sabía que siempre me oyes; mas por causa de la compañía que está alrededor, lo dije, para que crean que tú me has enviado. ^[**11:42** Juan 12,30] \bibleverse{43} Y habiendo dicho estas cosas, clamó á gran voz: Lázaro, ven fuera. 
 
 
-\bibverse{38} Y Jesús, conmoviéndose otra vez en sí mismo, vino al sepulcro. Era una cueva, la cual tenía una piedra encima. ^[**11:38** Mat 27,60] \bibverse{39} Dice Jesús: Quitad la piedra. Marta, la hermana del que se había muerto, le dice: Señor, hiede ya, que es de cuatro días. 
-
-
-
-\bibverse{40} Jesús le dice: ¿No te he dicho que, si creyeres, verás la gloria de Dios? 
-
-
-\bibverse{41} Entonces quitaron la piedra de donde el muerto había sido puesto. Y Jesús, alzando los ojos arriba, dijo: Padre, gracias te doy que me has oído. \bibverse{42} Que yo sabía que siempre me oyes; mas por causa de la compañía que está alrededor, lo dije, para que crean que tú me has enviado. ^[**11:42** Juan 12,30] \bibverse{43} Y habiendo dicho estas cosas, clamó á gran voz: Lázaro, ven fuera. 
-
-
-
-\bibverse{44} Y el que había estado muerto, salió, atadas las manos y los pies con vendas; y su rostro estaba envuelto en un sudario. Díceles Jesús: Desatadle, y dejadle ir. 
-
-
+\bibleverse{44} Y el que había estado muerto, salió, atadas las manos y los pies con vendas; y su rostro estaba envuelto en un sudario. Díceles Jesús: Desatadle, y dejadle ir. 
 
 ## Los efectos del milagro; Resolución de muerte del sumo consejo; Jesús escapa a Efraín
-\bibverse{45} Entonces muchos de los Judíos que habían venido á María, y habían visto lo que había hecho Jesús, creyeron en él. \bibverse{46} Mas algunos de ellos fueron á los Fariseos, y dijéronles lo que Jesús había hecho. \bibverse{47} Entonces los pontífices y los Fariseos juntaron concilio, y decían: ¿Qué hacemos? porque este hombre hace muchas señales. \bibverse{48} Si le dejamos así, todos creerán en él: y vendrán los Romanos, y quitarán nuestro lugar y la nación. 
+\bibleverse{45} Entonces muchos de los Judíos que habían venido á María, y habían visto lo que había hecho Jesús, creyeron en él. \bibleverse{46} Mas algunos de ellos fueron á los Fariseos, y dijéronles lo que Jesús había hecho. \bibleverse{47} Entonces los pontífices y los Fariseos juntaron concilio, y decían: ¿Qué hacemos? porque este hombre hace muchas señales. \bibleverse{48} Si le dejamos así, todos creerán en él: y vendrán los Romanos, y quitarán nuestro lugar y la nación. 
 
-
-\bibverse{49} Y Caifás, uno de ellos, sumo pontífice de aquel año, les dijo: Vosotros no sabéis nada; \bibverse{50} Ni pensáis que nos conviene que un hombre muera por el pueblo, y no que toda la nación se pierda. ^[**11:50** Juan 18,14] \bibverse{51} Mas esto no lo dijo de sí mismo; sino que, como era el sumo pontífice de aquel año, profetizó que Jesús había de morir por la nación: ^[**11:51** Éxod 28,30; Núm 27,21] \bibverse{52} Y no solamente por aquella nación, mas también para que juntase en uno los hijos de Dios que estaban derramados. ^[**11:52** Juan 7,35; Juan 10,16; 1Jn 2,2] \bibverse{53} Así que, desde aquel día consultaban juntos de matarle. \bibverse{54} Por tanto, Jesús ya no andaba manifiestamente entre los Judíos; mas fuése de allí á la tierra que está junto al desierto, á una ciudad que se llama Ephraim: y estábase allí con sus discípulos. 
-
+\bibleverse{49} Y Caifás, uno de ellos, sumo pontífice de aquel año, les dijo: Vosotros no sabéis nada; \bibleverse{50} Ni pensáis que nos conviene que un hombre muera por el pueblo, y no que toda la nación se pierda. ^[**11:50** Juan 18,14] \bibleverse{51} Mas esto no lo dijo de sí mismo; sino que, como era el sumo pontífice de aquel año, profetizó que Jesús había de morir por la nación: ^[**11:51** Éxod 28,30; Núm 27,21] \bibleverse{52} Y no solamente por aquella nación, mas también para que juntase en uno los hijos de Dios que estaban derramados. ^[**11:52** Juan 7,35; Juan 10,16; 1Jn 2,2] \bibleverse{53} Así que, desde aquel día consultaban juntos de matarle. \bibleverse{54} Por tanto, Jesús ya no andaba manifiestamente entre los Judíos; mas fuése de allí á la tierra que está junto al desierto, á una ciudad que se llama Ephraim: y estábase allí con sus discípulos. 
   
 
-\bibverse{55} Y la Pascua de los Judíos estaba cerca: y muchos subieron de aquella tierra á Jerusalem antes de la Pascua, para purificarse; \bibverse{56} Y buscaban á Jesús, y hablaban los unos con los otros estando en el templo: ¿Qué os parece, que no vendrá á la fiesta? \bibverse{57} Y los pontífices y los Fariseos habían dado mandamiento, que si alguno supiese dónde estuviera, lo manifestase, para que le prendiesen. 
+\bibleverse{55} Y la Pascua de los Judíos estaba cerca: y muchos subieron de aquella tierra á Jerusalem antes de la Pascua, para purificarse; \bibleverse{56} Y buscaban á Jesús, y hablaban los unos con los otros estando en el templo: ¿Qué os parece, que no vendrá á la fiesta? \bibleverse{57} Y los pontífices y los Fariseos habían dado mandamiento, que si alguno supiese dónde estuviera, lo manifestase, para que le prendiesen. 
 
 ## La unción de Jesús (consagración de la muerte) en Betania
 # 12 
-\bibverse{1} Y jesús, seis días antes de la Pascua, vino á Bethania, donde estaba Lázaro, que había sido muerto, al cual había resucitado de los muertos. ^[**12:1** Juan 11,1; Juan 11,43] \bibverse{2} E hiciéronle allí una cena: y Marta servía, y Lázaro era uno de los que estaban sentados á la mesa juntamente con él. \bibverse{3} Entonces María tomó una libra de ungüento de nardo líquido de mucho precio, y ungió los pies de Jesús, y limpió sus pies con sus cabellos: y la casa se llenó del olor del ungüento. 
+\bibleverse{1} Y Jesús, seis días antes de la Pascua, vino á Bethania, donde estaba Lázaro, que había sido muerto, al cual había resucitado de los muertos. ^[**12:1** Juan 11,1; Juan 11,43] \bibleverse{2} E hiciéronle allí una cena: y Marta servía, y Lázaro era uno de los que estaban sentados á la mesa juntamente con él. \bibleverse{3} Entonces María tomó una libra de ungüento de nardo líquido de mucho precio, y ungió los pies de Jesús, y limpió sus pies con sus cabellos: y la casa se llenó del olor del ungüento. 
 
 
-
-\bibverse{4} Y dijo uno de sus discípulos, Judas Iscariote, hijo de Simón, el que le había de entregar: \bibverse{5} ¿Por qué no se ha vendido este ungüento por trescientos dineros, y se dió á los pobres? \bibverse{6} Mas dijo esto, no por el cuidado que él tenía de los pobres; sino porque era ladrón, y tenía la bolsa, y traía lo que se echaba en ella. 
-^[**12:6** Luc 8,3] 
+\bibleverse{4} Y dijo uno de sus discípulos, Judas Iscariote, hijo de Simón, el que le había de entregar: \bibleverse{5} ¿Por qué no se ha vendido este ungüento por trescientos dineros, y se dió á los pobres? \bibleverse{6} Mas dijo esto, no por el cuidado que él tenía de los pobres; sino porque era ladrón, y tenía la bolsa, y traía lo que se echaba en ella. ^[**12:6** Luc 8,3] 
 
 
-\bibverse{7} Entonces Jesús dijo: Déjala: para el día de mi sepultura ha guardado esto; \bibverse{8} Porque á los pobres siempre los tenéis con vosotros, mas á mí no siempre me tenéis. 
+\bibleverse{7} Entonces Jesús dijo: Déjala: para el día de mi sepultura ha guardado esto; \bibleverse{8} Porque á los pobres siempre los tenéis con vosotros, mas á mí no siempre me tenéis. 
 
-
-\bibverse{9} Entonces mucha gente de los Judíos entendió que él estaba allí; y vinieron no solamente por causa de Jesús, mas también por ver á Lázaro, al cual había resucitado de los muertos. \bibverse{10} Consultaron asimismo los príncipes de los sacerdotes, de matar también á Lázaro; \bibverse{11} Porque muchos de los Judíos iban y creían en Jesús por causa de él. 
-
-
+\bibleverse{9} Entonces mucha gente de los Judíos entendió que él estaba allí; y vinieron no solamente por causa de Jesús, mas también por ver á Lázaro, al cual había resucitado de los muertos. \bibleverse{10} Consultaron asimismo los príncipes de los sacerdotes, de matar también á Lázaro; \bibleverse{11} Porque muchos de los Judíos iban y creían en Jesús por causa de él. 
 
 ## La entrada de Jesús a Jerusalén el Domingo de Ramos
-\bibverse{12} El siguiente día, mucha gente que había venido á la fiesta, como oyeron que Jesús venía á Jerusalem, \bibverse{13} Tomaron ramos de palmas, y salieron á recibirle, y clamaban: ¡Hosanna, Bendito el que viene en el nombre del Señor, el Rey de Israel! 
-^[**12:13** Sal 118,25-26] 
+\bibleverse{12} El siguiente día, mucha gente que había venido á la fiesta, como oyeron que Jesús venía á Jerusalem, \bibleverse{13} Tomaron ramos de palmas, y salieron á recibirle, y clamaban: ¡Hosanna, Bendito el que viene en el nombre del Señor, el Rey de Israel! ^[**12:13** Sal 118,25-26] 
 
 
-\bibverse{14} Y halló Jesús un asnillo, y se sentó sobre él, como está escrito: \bibverse{15} No temas, hija de Sión: he aquí tu Rey viene, sentado sobre un pollino de asna. \bibverse{16} Estas cosas no las entendieron sus discípulos de primero: empero cuando Jesús fué glorificado, entonces se acordaron de que estas cosas estaban escritas de él, y que le hicieron estas cosas. \bibverse{17} Y la gente que estaba con él, daba testimonio de cuando llamó á Lázaro del sepulcro, y le resucitó de los muertos. \bibverse{18} Por lo cual también había venido la gente á recibirle, porque había oído que él había hecho esta señal; \bibverse{19} Mas los Fariseos dijeron entre sí: ¿Veis que nada aprovecháis? he aquí, el mundo se va tras de él. 
-
-
+\bibleverse{14} Y halló Jesús un asnillo, y se sentó sobre él, como está escrito: \bibleverse{15} No temas, hija de Sión: he aquí tu Rey viene, sentado sobre un pollino de asna. \bibleverse{16} Estas cosas no las entendieron sus discípulos de primero: empero cuando Jesús fué glorificado, entonces se acordaron de que estas cosas estaban escritas de él, y que le hicieron estas cosas. \bibleverse{17} Y la gente que estaba con él, daba testimonio de cuando llamó á Lázaro del sepulcro, y le resucitó de los muertos. \bibleverse{18} Por lo cual también había venido la gente á recibirle, porque había oído que él había hecho esta señal; \bibleverse{19} Mas los Fariseos dijeron entre sí: ¿Veis que nada aprovecháis? he aquí, el mundo se va tras de él. 
 
 ## Jesús anuncia su sufrimiento mortal y su subsiguiente glorificación como salvador del mundo
-\bibverse{20} Y había ciertos Griegos de los que habían subido á adorar en la fiesta: \bibverse{21} Estos pues, se llegaron á Felipe, que era de Bethsaida de Galilea, y rogáronle, diciendo: Señor, querríamos ver á Jesús. ^[**12:21** Juan 1,44] \bibverse{22} Vino Felipe, y díjolo á Andrés: Andrés entonces, y Felipe, lo dicen á Jesús. 
+\bibleverse{20} Y había ciertos Griegos de los que habían subido á adorar en la fiesta: \bibleverse{21} Estos pues, se llegaron á Felipe, que era de Bethsaida de Galilea, y rogáronle, diciendo: Señor, querríamos ver á Jesús. ^[**12:21** Juan 1,44] \bibleverse{22} Vino Felipe, y díjolo á Andrés: Andrés entonces, y Felipe, lo dicen á Jesús. 
 
 
-
-\bibverse{23} Entonces Jesús les respondió, diciendo: La hora viene en que el Hijo del hombre ha de ser glorificado. \bibverse{24} De cierto, de cierto os digo, que si el grano de trigo no cae en la tierra y muere, él solo queda; mas si muriere, mucho fruto lleva. \bibverse{25} El que ama su vida, la perderá; y el que aborrece su vida en este mundo, para vida eterna la guardará. ^[**12:25** Mat 10,39; Mat 16,25; Luc 17,33] \bibverse{26} Si alguno me sirve, sígame: y donde yo estuviere, allí también estará mi servidor. Si alguno me sirviere, mi Padre le honrará. 
-^[**12:26** Juan 17,24] 
+\bibleverse{23} Entonces Jesús les respondió, diciendo: La hora viene en que el Hijo del hombre ha de ser glorificado. \bibleverse{24} De cierto, de cierto os digo, que si el grano de trigo no cae en la tierra y muere, él solo queda; mas si muriere, mucho fruto lleva. \bibleverse{25} El que ama su vida, la perderá; y el que aborrece su vida en este mundo, para vida eterna la guardará. ^[**12:25** Mat 10,39; Mat 16,25; Luc 17,33] \bibleverse{26} Si alguno me sirve, sígame: y donde yo estuviere, allí también estará mi servidor. Si alguno me sirviere, mi Padre le honrará. ^[**12:26** Juan 17,24] 
  
 
-\bibverse{27} Ahora está turbada mi alma; ¿y qué diré? Padre, sálvame de esta hora. Mas por esto he venido en esta hora. ^[**12:27** Mat 26,38] \bibverse{28} Padre, glorifica tu nombre. Entonces vino una voz del cielo: Y lo he glorificado, y lo glorificaré otra vez. 
-^[**12:28** Mat 3,17; Mat 17,5; Juan 13,31] 
+\bibleverse{27} Ahora está turbada mi alma; ¿y qué diré? Padre, sálvame de esta hora. Mas por esto he venido en esta hora. ^[**12:27** Mat 26,38] \bibleverse{28} Padre, glorifica tu nombre. Entonces vino una voz del cielo: Y lo he glorificado, y lo glorificaré otra vez. ^[**12:28** Mat 3,17; Mat 17,5; Juan 13,31] 
  
 
-\bibverse{29} Y la gente que estaba presente, y había oído, decía que había sido trueno. Otros decían: Angel le ha hablado. 
+\bibleverse{29} Y la gente que estaba presente, y había oído, decía que había sido trueno. Otros decían: Angel le ha hablado. 
 
-
-\bibverse{30} Respondió Jesús, y dijo: No ha venido esta voz por mi causa, mas por causa de vosotros. ^[**12:30** Juan 11,42] \bibverse{31} Ahora es el juicio de este mundo: ahora el príncipe de este mundo será echado fuera. ^[**12:31** Juan 14,30; Juan 16,11; Luc 10,18] \bibverse{32} Y yo, si fuere levantado de la tierra, á todos traeré á mí mismo. ^[**12:32** Juan 8,28] \bibverse{33} Y esto decía dando á entender de qué muerte había de morir. 
-
+\bibleverse{30} Respondió Jesús, y dijo: No ha venido esta voz por mi causa, mas por causa de vosotros. ^[**12:30** Juan 11,42] \bibleverse{31} Ahora es el juicio de este mundo: ahora el príncipe de este mundo será echado fuera. ^[**12:31** Juan 14,30; Juan 16,11; Luc 10,18] \bibleverse{32} Y yo, si fuere levantado de la tierra, á todos traeré á mí mismo. ^[**12:32** Juan 8,28] \bibleverse{33} Y esto decía dando á entender de qué muerte había de morir. 
   
 
-\bibverse{34} Respondióle la gente: Nosotros hemos oído de la ley, que el Cristo permanece para siempre: ¿cómo pues dices tú: Conviene que el Hijo del hombre sea levantado? ¿Quién es este Hijo del hombre? 
+\bibleverse{34} Respondióle la gente: Nosotros hemos oído de la ley, que el Cristo permanece para siempre: ¿cómo pues dices tú: Conviene que el Hijo del hombre sea levantado? ¿Quién es este Hijo del hombre? 
 
-
-\bibverse{35} Entonces Jesús les dice: Aun por un poco estará la luz entre vosotros: andad entre tanto que tenéis luz, porque no os sorprendan las tinieblas; porque el que anda en tinieblas, no sabe dónde va. ^[**12:35** Juan 11,10] \bibverse{36} Entre tanto que tenéis la luz, creed en la luz, para que seáis hijos de luz. Estas cosas habló Jesús, y fuése, y escondióse de ellos. 
-
-^[**12:36** Efes 5,9] 
+\bibleverse{35} Entonces Jesús les dice: Aun por un poco estará la luz entre vosotros: andad entre tanto que tenéis luz, porque no os sorprendan las tinieblas; porque el que anda en tinieblas, no sabe dónde va. ^[**12:35** Juan 11,10] \bibleverse{36} Entre tanto que tenéis la luz, creed en la luz, para que seáis hijos de luz. Estas cosas habló Jesús, y fuése, y escondióse de ellos. ^[**12:36** Efes 5,9] 
  
 
 ## La revisión del evangelista de la actividad pública de Jesús
-\bibverse{37} Empero habiendo hecho delante de ellos tantas señales, no creían en él. \bibverse{38} Para que se cumpliese el dicho que dijo el profeta Isaías: ¿Señor, quién ha creído á nuestro dicho? ¿y el brazo del Señor, á quién es revelado? 
+\bibleverse{37} Empero habiendo hecho delante de ellos tantas señales, no creían en él. \bibleverse{38} Para que se cumpliese el dicho que dijo el profeta Isaías: ¿Señor, quién ha creído á nuestro dicho? ¿y el brazo del Señor, á quién es revelado? 
+
+\bibleverse{39} Por esto no podían creer, porque otra vez dijo Isaías: \bibleverse{40} Cegó los ojos de ellos, y endureció su corazón; porque no vean con los ojos, y entiendan de corazón, y se conviertan, y yo los sane. ^[**12:40** Mat 13,14-15] 
 
 
-\bibverse{39} Por esto no podían creer, porque otra vez dijo Isaías: \bibverse{40} Cegó los ojos de ellos, y endureció su corazón; porque no vean con los ojos, y entiendan de corazón, y se conviertan, y yo los sane. 
-^[**12:40** Mat 13,14-15] 
-
-
-\bibverse{41} Estas cosas dijo Isaías cuando vió su gloria, y habló de él. ^[**12:41** Is 6,1] \bibverse{42} Con todo eso, aun de los príncipes, muchos creyeron en él; mas por causa de los Fariseos no lo confesaban, por no ser echados de la sinagoga. ^[**12:42** Juan 9,22] \bibverse{43} Porque amaban más la gloria de los hombres que la gloria de Dios. 
-
-^[**12:43** Juan 5,44] 
+\bibleverse{41} Estas cosas dijo Isaías cuando vió su gloria, y habló de él. ^[**12:41** Is 6,1] \bibleverse{42} Con todo eso, aun de los príncipes, muchos creyeron en él; mas por causa de los Fariseos no lo confesaban, por no ser echados de la sinagoga. ^[**12:42** Juan 9,22] \bibleverse{43} Porque amaban más la gloria de los hombres que la gloria de Dios. ^[**12:43** Juan 5,44] 
   
 
 ## El testimonio de Jesús sobre sí mismo y sobre su relación con Dios
-\bibverse{44} Mas Jesús clamó y dijo: El que cree en mí, no cree en mí, sino en el que me envió; \bibverse{45} Y el que me ve, ve al que me envió. 
-^[**12:45** Juan 14,9] 
-\bibverse{46} Yo la luz he venido al mundo, para que todo aquel que cree en mí no permanezca en tinieblas. \bibverse{47} Y el que oyere mis palabras, y no las creyere, yo no le juzgo; porque no he venido á juzgar al mundo, sino á salvar al mundo. \bibverse{48} El que me desecha, y no recibe mis palabras, tiene quien le juzgue: la palabra que he hablado, ella le juzgará en el día postrero. \bibverse{49} Porque yo no he hablado de mí mismo: mas el Padre que me envió, él me dió mandamiento de lo que he de decir, y de lo que he de hablar. \bibverse{50} Y sé que su mandamiento es vida eterna: así que, lo que yo hablo, como el Padre me lo ha dicho, así hablo. 
+\bibleverse{44} Mas Jesús clamó y dijo: El que cree en mí, no cree en mí, sino en el que me envió; \bibleverse{45} Y el que me ve, ve al que me envió. ^[**12:45** Juan 14,9] \bibleverse{46} Yo la luz he venido al mundo, para que todo aquel que cree en mí no permanezca en tinieblas. \bibleverse{47} Y el que oyere mis palabras, y no las creyere, yo no le juzgo; porque no he venido á juzgar al mundo, sino á salvar al mundo. \bibleverse{48} El que me desecha, y no recibe mis palabras, tiene quien le juzgue: la palabra que he hablado, ella le juzgará en el día postrero. \bibleverse{49} Porque yo no he hablado de mí mismo: mas el Padre que me envió, él me dió mandamiento de lo que he de decir, y de lo que he de hablar. \bibleverse{50} Y sé que su mandamiento es vida eterna: así que, lo que yo hablo, como el Padre me lo ha dicho, así hablo.
+ 
 
 ## El lavado de pies
 # 13 
-\bibverse{1} Antes de la fiesta de la Pascua, sabiendo Jesús que su hora había venido para que pasase de este mundo al Padre, como había amado á los suyos que estaban en el mundo, amólos hasta el fin. ^[**13:1** Juan 7,30; Juan 17,1] \bibverse{2} Y la cena acabada, como el diablo ya había metido en el corazón de Judas, hijo de Simón Iscariote, que le entregase, ^[**13:2** Luc 22,3] \bibverse{3} Sabiendo Jesús que el Padre le había dado todas las cosas en las manos, y que había salido de Dios, y á Dios iba, ^[**13:3** Juan 3,35; Juan 16,28] \bibverse{4} Levántase de la cena, y quítase su ropa, y tomando una toalla, ciñóse. \bibverse{5} Luego puso agua en un lebrillo, y comenzó á lavar los pies de los discípulos, y á limpiarlos con la toalla con que estaba ceñido. \bibverse{6} Entonces vino á Simón Pedro; y Pedro le dice: ¿Señor, tú me lavas los pies? 
-
+\bibleverse{1} Antes de la fiesta de la Pascua, sabiendo Jesús que su hora había venido para que pasase de este mundo al Padre, como había amado á los suyos que estaban en el mundo, amólos hasta el fin. ^[**13:1** Juan 7,30; Juan 17,1] \bibleverse{2} Y la cena acabada, como el diablo ya había metido en el corazón de Judas, hijo de Simón Iscariote, que le entregase, ^[**13:2** Luc 22,3] \bibleverse{3} Sabiendo Jesús que el Padre le había dado todas las cosas en las manos, y que había salido de Dios, y á Dios iba, ^[**13:3** Juan 3,35; Juan 16,28] \bibleverse{4} Levántase de la cena, y quítase su ropa, y tomando una toalla, ciñóse. \bibleverse{5} Luego puso agua en un lebrillo, y comenzó á lavar los pies de los discípulos, y á limpiarlos con la toalla con que estaba ceñido. \bibleverse{6} Entonces vino á Simón Pedro; y Pedro le dice: ¿Señor, tú me lavas los pies? 
   
 
-\bibverse{7} Respondió Jesús, y díjole: Lo que yo hago, tú no entiendes ahora; mas lo entenderás después. 
+\bibleverse{7} Respondió Jesús, y díjole: Lo que yo hago, tú no entiendes ahora; mas lo entenderás después. 
 
+\bibleverse{8} Dícele Pedro: No me lavarás los pies jamás. Respondióle Jesús: Si no te lavare, no tendrás parte conmigo. 
 
-\bibverse{8} Dícele Pedro: No me lavarás los pies jamás. Respondióle Jesús: Si no te lavare, no tendrás parte conmigo. 
+\bibleverse{9} Dícele Simón Pedro: Señor, no sólo mis pies, mas aun las manos y la cabeza. 
 
-
-\bibverse{9} Dícele Simón Pedro: Señor, no sólo mis pies, mas aun las manos y la cabeza. 
-
-
-\bibverse{10} Dícele Jesús: El que está lavado, no necesita sino que lave los pies, mas está todo limpio: y vosotros limpios estáis, aunque no todos. \bibverse{11} Porque sabía quién le había de entregar; por eso dijo: No estáis limpios todos. 
-
-
+\bibleverse{10} Dícele Jesús: El que está lavado, no necesita sino que lave los pies, mas está todo limpio: y vosotros limpios estáis, aunque no todos. \bibleverse{11} Porque sabía quién le había de entregar; por eso dijo: No estáis limpios todos. 
 
 ## La interpretación de Jesús de su humilde servicio de amor
-\bibverse{12} Así que, después que les hubo lavado los pies, y tomado su ropa, volviéndose á sentar á la mesa, díjoles: ¿Sabéis lo que os he hecho? \bibverse{13} Vosotros me llamáis, Maestro, y, Señor: y decís bien; porque lo soy. ^[**13:13** Mat 23,8; Mat 23,10] \bibverse{14} Pues si yo, el Señor y el Maestro, he lavado vuestros pies, vosotros también debéis lavar los pies los unos á los otros. ^[**13:14** Luc 22,27] \bibverse{15} Porque ejemplo os he dado, para que como yo os he hecho, vosotros también hagáis. ^[**13:15** Fil 2,5; 1Pe 2,21] \bibverse{16} De cierto, de cierto os digo: El siervo no es mayor que su señor, ni el apóstol es mayor que el que le envió. ^[**13:16** Mat 10,24] \bibverse{17} Si sabéis estas cosas, bienaventurados seréis, si las hiciereis. ^[**13:17** Mat 7,24] \bibverse{18} No hablo de todos vosotros: yo sé los que he elegido: mas para que se cumpla la Escritura: El que come pan conmigo, levantó contra mí su calcañar. \bibverse{19} Desde ahora os lo digo antes que se haga, para que cuando se hiciere, creáis que yo soy. \bibverse{20} De cierto, de cierto os digo: El que recibe al que yo enviare, á mí recibe; y el que á mí recibe, recibe al que me envió. 
-
-
+\bibleverse{12} Así que, después que les hubo lavado los pies, y tomado su ropa, volviéndose á sentar á la mesa, díjoles: ¿Sabéis lo que os he hecho? \bibleverse{13} Vosotros me llamáis, Maestro, y, Señor: y decís bien; porque lo soy. ^[**13:13** Mat 23,8; Mat 23,10] \bibleverse{14} Pues si yo, el Señor y el Maestro, he lavado vuestros pies, vosotros también debéis lavar los pies los unos á los otros. ^[**13:14** Luc 22,27] \bibleverse{15} Porque ejemplo os he dado, para que como yo os he hecho, vosotros también hagáis. ^[**13:15** Fil 2,5; 1Pe 2,21] \bibleverse{16} De cierto, de cierto os digo: El siervo no es mayor que su señor, ni el apóstol es mayor que el que le envió. ^[**13:16** Mat 10,24] \bibleverse{17} Si sabéis estas cosas, bienaventurados seréis, si las hiciereis. ^[**13:17** Mat 7,24] \bibleverse{18} No hablo de todos vosotros: yo sé los que he elegido: mas para que se cumpla la Escritura: El que come pan conmigo, levantó contra mí su calcañar. \bibleverse{19} Desde ahora os lo digo antes que se haga, para que cuando se hiciere, creáis que yo soy. \bibleverse{20} De cierto, de cierto os digo: El que recibe al que yo enviare, á mí recibe; y el que á mí recibe, recibe al que me envió. 
     
 
 ## Identificación y remoción del traidor
-\bibverse{21} Como hubo dicho Jesús esto, fué conmovido en el espíritu, y protestó, y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar. 
-^[**13:21** Juan 12,27] 
+\bibleverse{21} Como hubo dicho Jesús esto, fué conmovido en el espíritu, y protestó, y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar. ^[**13:21** Juan 12,27] 
 
 
-\bibverse{22} Entonces los discípulos mirábanse los unos á los otros, dudando de quién decía. \bibverse{23} Y uno de sus discípulos, al cual Jesús amaba, estaba recostado en el seno de Jesús. \bibverse{24} A éste, pues, hizo señas Simón Pedro, para que preguntase quién era aquél de quien decía. 
+\bibleverse{22} Entonces los discípulos mirábanse los unos á los otros, dudando de quién decía. \bibleverse{23} Y uno de sus discípulos, al cual Jesús amaba, estaba recostado en el seno de Jesús. \bibleverse{24} A éste, pues, hizo señas Simón Pedro, para que preguntase quién era aquél de quien decía. 
 
+\bibleverse{25} El entonces recostándose sobre el pecho de Jesús, dícele: Señor, ¿quién es? 
 
-\bibverse{25} El entonces recostándose sobre el pecho de Jesús, dícele: Señor, ¿quién es? 
+\bibleverse{26} Respondió Jesús: Aquél es, á quien yo diere el pan mojado. Y mojando el pan, diólo á Judas Iscariote, hijo de Simón. \bibleverse{27} Y tras el bocado Satanás entró en él. Entonces Jesús le dice: Lo que haces, hazlo más presto. 
 
-
-\bibverse{26} Respondió Jesús: Aquél es, á quien yo diere el pan mojado. Y mojando el pan, diólo á Judas Iscariote, hijo de Simón. \bibverse{27} Y tras el bocado Satanás entró en él. Entonces Jesús le dice: Lo que haces, hazlo más presto. 
-
-
-\bibverse{28} Mas ninguno de los que estaban á la mesa entendió á qué propósito le dijo esto. \bibverse{29} Porque los unos pensaban, porque Judas tenía la bolsa, que Jesús le decía: Compra lo que necesitamos para la fiesta: ó, que diese algo á los pobres. \bibverse{30} Como él pues hubo tomado el bocado, luego salió: y era ya noche. 
-
-
+\bibleverse{28} Mas ninguno de los que estaban á la mesa entendió á qué propósito le dijo esto. \bibleverse{29} Porque los unos pensaban, porque Judas tenía la bolsa, que Jesús le decía: Compra lo que necesitamos para la fiesta: ó, que diese algo á los pobres. \bibleverse{30} Como él pues hubo tomado el bocado, luego salió: y era ya noche. 
 
 ## El anuncio de Jesús de su glorificación
-\bibverse{31} Entonces como él salió, dijo Jesús: Ahora es glorificado el Hijo del hombre, y Dios es glorificado en él. ^[**13:31** Juan 12,23; Juan 12,28] \bibverse{32} Si Dios es glorificado en él, Dios también le glorificará en sí mismo, y luego le glorificará. ^[**13:32** Juan 17,1-5] \bibverse{33} Hijitos, aun un poco estoy con vosotros. Me buscaréis; mas, como dije á los Judíos: Donde yo voy, vosotros no podéis venir; así digo á vosotros ahora. 
-
-^[**13:33** Juan 9,21] 
+\bibleverse{31} Entonces como él salió, dijo Jesús: Ahora es glorificado el Hijo del hombre, y Dios es glorificado en él. ^[**13:31** Juan 12,23; Juan 12,28] \bibleverse{32} Si Dios es glorificado en él, Dios también le glorificará en sí mismo, y luego le glorificará. ^[**13:32** Juan 17,1-5] \bibleverse{33} Hijitos, aun un poco estoy con vosotros. Me buscaréis; mas, como dije á los Judíos: Donde yo voy, vosotros no podéis venir; así digo á vosotros ahora. ^[**13:33** Juan 9,21] 
   
 
 ## El nuevo mandamiento de amar
-\bibverse{34} Un mandamiento nuevo os doy: Que os améis unos á otros: como os he amado, que también os améis los unos á los otros. ^[**13:34** Juan 15,12-13; Juan 15,17] \bibverse{35} En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros. 
-
-
+\bibleverse{34} Un mandamiento nuevo os doy: Que os améis unos á otros: como os he amado, que también os améis los unos á los otros. ^[**13:34** Juan 15,12-13; Juan 15,17] \bibleverse{35} En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros. 
 
 
 ## Anuncio de la negación de Pedro
-\bibverse{36} Dícele Simón Pedro: Señor, ¿adónde vas? Respondióle Jesús: Donde yo voy, no me puedes ahora seguir; mas me seguirás después. 
-^[**13:36** Juan 21,18-19] 
+\bibleverse{36} Dícele Simón Pedro: Señor, ¿adónde vas? Respondióle Jesús: Donde yo voy, no me puedes ahora seguir; mas me seguirás después. ^[**13:36** Juan 21,18-19] 
 
 
-\bibverse{37} Dícele Pedro: Señor, ¿por qué no te puedo seguir ahora? mi alma pondré por ti. 
+\bibleverse{37} Dícele Pedro: Señor, ¿por qué no te puedo seguir ahora? mi alma pondré por ti. 
 
-
-\bibverse{38} Respondióle Jesús: ¿Tu alma pondrás por mí? De cierto, de cierto te digo: No cantará el gallo, sin que me hayas negado tres veces. 
+\bibleverse{38} Respondióle Jesús: ¿Tu alma pondrás por mí? De cierto, de cierto te digo: No cantará el gallo, sin que me hayas negado tres veces. 
 
 ## Jesús el camino a Dios, su unión con Dios
 # 14 
-\bibverse{1} No se turbe vuestro corazón: creéis en Dios, creed también en mí. \bibverse{2} En la casa de mi Padre muchas moradas hay: de otra manera os lo hubiera dicho: voy, pues, á preparar lugar para vosotros. \bibverse{3} Y si me fuere, y os aparejare lugar, vendré otra vez, y os tomaré á mí mismo: para que donde yo estoy, vosotros también estéis. ^[**14:3** Juan 12,26; Juan 17,24] \bibverse{4} Y sabéis á dónde yo voy; y sabéis el camino. 
+\bibleverse{1} No se turbe vuestro corazón: creéis en Dios, creed también en mí. \bibleverse{2} En la casa de mi Padre muchas moradas hay: de otra manera os lo hubiera dicho: voy, pues, á preparar lugar para vosotros. \bibleverse{3} Y si me fuere, y os aparejare lugar, vendré otra vez, y os tomaré á mí mismo: para que donde yo estoy, vosotros también estéis. ^[**14:3** Juan 12,26; Juan 17,24] \bibleverse{4} Y sabéis á dónde yo voy; y sabéis el camino. 
 
 
+\bibleverse{5} Dícele Tomás: Señor, no sabemos á dónde vas: ¿cómo, pues, podemos saber el camino? 
 
-\bibverse{5} Dícele Tomás: Señor, no sabemos á dónde vas: ¿cómo, pues, podemos saber el camino? 
+\bibleverse{6} Jesús le dice: Yo soy el camino, y la verdad, y la vida: nadie viene al Padre, sino por mí. \bibleverse{7} Si me conocieseis, también á mi Padre conocierais: y desde ahora le conocéis, y le habéis visto. 
 
+\bibleverse{8} Dícele Felipe: Señor, muéstranos el Padre, y nos basta. 
 
-\bibverse{6} Jesús le dice: Yo soy el camino, y la verdad, y la vida: nadie viene al Padre, sino por mí. \bibverse{7} Si me conocieseis, también á mi Padre conocierais: y desde ahora le conocéis, y le habéis visto. 
-
-
-\bibverse{8} Dícele Felipe: Señor, muéstranos el Padre, y nos basta. 
-
-
-\bibverse{9} Jesús le dice: ¿Tanto tiempo ha que estoy con vosotros, y no me has conocido, Felipe? El que me ha visto, ha visto al Padre; ¿cómo, pues, dices tú: Muéstranos el Padre? ^[**14:9** Juan 12,45; Heb 1,3] \bibverse{10} ¿No crees que yo soy en el Padre, y el Padre en mí? Las palabras que yo os hablo, no las hablo de mí mismo: mas el Padre que está en mí, él hace las obras. ^[**14:10** Juan 12,49] \bibverse{11} Creedme que yo soy en el Padre, y el Padre en mí: de otra manera, creedme por las mismas obras. 
-
-^[**14:11** Juan 10,25; Juan 10,38] 
+\bibleverse{9} Jesús le dice: ¿Tanto tiempo ha que estoy con vosotros, y no me has conocido, Felipe? El que me ha visto, ha visto al Padre; ¿cómo, pues, dices tú: Muéstranos el Padre? ^[**14:9** Juan 12,45; Heb 1,3] \bibleverse{10} ¿No crees que yo soy en el Padre, y el Padre en mí? Las palabras que yo os hablo, no las hablo de mí mismo: mas el Padre que está en mí, él hace las obras. ^[**14:10** Juan 12,49] \bibleverse{11} Creedme que yo soy en el Padre, y el Padre en mí: de otra manera, creedme por las mismas obras. ^[**14:11** Juan 10,25; Juan 10,38] 
   
 
 ## Promesa del Espíritu Santo
-\bibverse{12} De cierto, de cierto os digo: El que en mí cree, las obras que yo hago también él las hará; y mayores que éstas hará; porque yo voy al Padre. ^[**14:12** Mat 28,19] \bibverse{13} Y todo lo que pidiereis al Padre en mi nombre, esto haré, para que el Padre sea glorificado en el Hijo. ^[**14:13** Juan 15,7; Juan 16,24; Mar 11,24; 1Jn 5,14; 1Jn 1,5-15] \bibverse{14} Si algo pidiereis en mi nombre, yo lo haré. \bibverse{15} Si me amáis, guardad mis mandamientos; \bibverse{16} Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre: ^[**14:16** Juan 15,26; Juan 16,7] \bibverse{17} Al Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce: mas vosotros le conocéis; porque está con vosotros, y será en vosotros. ^[**14:17** Juan 16,13] \bibverse{18} No os dejaré huérfanos: vendré á vosotros. \bibverse{19} Aun un poquito, y el mundo no me verá más; empero vosotros me veréis; porque yo vivo, y vosotros también viviréis. ^[**14:19** Juan 20,20] \bibverse{20} En aquel día vosotros conoceréis que yo estoy en mi Padre, y vosotros en mí, y yo en vosotros. 
-
-
+\bibleverse{12} De cierto, de cierto os digo: El que en mí cree, las obras que yo hago también él las hará; y mayores que éstas hará; porque yo voy al Padre. ^[**14:12** Mat 28,19] \bibleverse{13} Y todo lo que pidiereis al Padre en mi nombre, esto haré, para que el Padre sea glorificado en el Hijo. ^[**14:13** Juan 15,7; Juan 16,24; Mar 11,24; 1Jn 5,14; 1Jn 1,5-15] \bibleverse{14} Si algo pidiereis en mi nombre, yo lo haré. \bibleverse{15} Si me amáis, guardad mis mandamientos; \bibleverse{16} Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre: ^[**14:16** Juan 15,26; Juan 16,7] \bibleverse{17} Al Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce: mas vosotros le conocéis; porque está con vosotros, y será en vosotros. ^[**14:17** Juan 16,13] \bibleverse{18} No os dejaré huérfanos: vendré á vosotros. \bibleverse{19} Aun un poquito, y el mundo no me verá más; empero vosotros me veréis; porque yo vivo, y vosotros también viviréis. ^[**14:19** Juan 20,20] \bibleverse{20} En aquel día vosotros conoceréis que yo estoy en mi Padre, y vosotros en mí, y yo en vosotros. 
     
 
 ## Promesa de la más íntima comunidad de espíritu y amor con Dios y Jesús
-\bibverse{21} El que tiene mis mandamientos, y los guarda, aquél es el que me ama; y el que me ama, será amado de mi Padre, y yo le amaré, y me manifestaré á él. 
+\bibleverse{21} El que tiene mis mandamientos, y los guarda, aquél es el que me ama; y el que me ama, será amado de mi Padre, y yo le amaré, y me manifestaré á él. 
+
+\bibleverse{22} Dícele Judas, no el Iscariote: Señor, ¿qué hay porque te hayas de manifestar á nosotros, y no al mundo? ^[**14:22** Hech 10,40-41] 
 
 
-\bibverse{22} Dícele Judas, no el Iscariote: Señor, ¿qué hay porque te hayas de manifestar á nosotros, y no al mundo? 
-^[**14:22** Hech 10,40-41] 
-
-
-\bibverse{23} Respondió Jesús, y díjole: El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos á él, y haremos con él morada. ^[**14:23** Prov 8,17; Efes 3,17] \bibverse{24} El que no me ama, no guarda mis palabras: y la palabra que habéis oído, no es mía, sino del Padre que me envió. 
-
-^[**14:24** Juan 7,16-17] 
+\bibleverse{23} Respondió Jesús, y díjole: El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos á él, y haremos con él morada. ^[**14:23** Prov 8,17; Efes 3,17] \bibleverse{24} El que no me ama, no guarda mis palabras: y la palabra que habéis oído, no es mía, sino del Padre que me envió. ^[**14:24** Juan 7,16-17] 
  
 
 ## Promesa de enseñar del Espíritu Santo
-\bibverse{25} Estas cosas os he hablado estando con vosotros. \bibverse{26} Mas el Consolador, el Espíritu Santo, al cual el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todas las cosas que os he dicho. \bibverse{27} La paz os dejo, mi paz os doy: no como el mundo la da, yo os la doy. No se turbe vuestro corazón, ni tenga miedo. \bibverse{28} Habéis oído cómo yo os he dicho: Voy, y vengo á vosotros. Si me amaseis, ciertamente os gozaríais, porque he dicho que voy al Padre: porque el Padre mayor es que yo. \bibverse{29} Y ahora os lo he dicho antes que se haga; para que cuando se hiciere, creáis. \bibverse{30} Ya no hablaré mucho con vosotros: porque viene el príncipe de este mundo; mas no tiene nada en mí. ^[**14:30** Juan 12,31; Efes 2,2] \bibverse{31} Empero para que conozca el mundo que amo al Padre, y como el Padre me dió el mandamiento, así hago. Levantaos, vamos de aquí. ^[**14:31** Juan 10,18] 
+\bibleverse{25} Estas cosas os he hablado estando con vosotros. \bibleverse{26} Mas el Consolador, el Espíritu Santo, al cual el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todas las cosas que os he dicho. \bibleverse{27} La paz os dejo, mi paz os doy: no como el mundo la da, yo os la doy. No se turbe vuestro corazón, ni tenga miedo. \bibleverse{28} Habéis oído cómo yo os he dicho: Voy, y vengo á vosotros. Si me amaseis, ciertamente os gozaríais, porque he dicho que voy al Padre: porque el Padre mayor es que yo. \bibleverse{29} Y ahora os lo he dicho antes que se haga; para que cuando se hiciere, creáis. \bibleverse{30} Ya no hablaré mucho con vosotros: porque viene el príncipe de este mundo; mas no tiene nada en mí. ^[**14:30** Juan 12,31; Efes 2,2] \bibleverse{31} Empero para que conozca el mundo que amo al Padre, y como el Padre me dió el mandamiento, así hago. Levantaos, vamos de aquí. ^[**14:31** Juan 10,18] 
   
 
 ## Parábola de la vid y las ramas
 # 15 
-\bibverse{1} Yo soy la vid verdadera, y mi Padre es el labrador. \bibverse{2} Todo pámpano que en mí no lleva fruto, le quitará: y todo aquel que lleva fruto, le limpiará, para que lleve más fruto. \bibverse{3} Ya vosotros sois limpios por la palabra que os he hablado. ^[**15:3** Juan 13,10; 1Pe 1,23] \bibverse{4} Estad en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no estuviere en la vid; así ni vosotros, si no estuviereis en mí. \bibverse{5} Yo soy la vid, vosotros los pámpanos: el que está en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer. \bibverse{6} El que en mí no estuviere, será echado fuera como mal pámpano, y se secará; y los cogen, y los echan en el fuego, y arden. \bibverse{7} Si estuviereis en mí, y mis palabras estuvieren en vosotros, pedid todo lo que quisiereis, y os será hecho. 
-^[**15:7** Mar 11,24] 
+\bibleverse{1} Yo soy la vid verdadera, y mi Padre es el labrador. \bibleverse{2} Todo pámpano que en mí no lleva fruto, le quitará: y todo aquel que lleva fruto, le limpiará, para que lleve más fruto. \bibleverse{3} Ya vosotros sois limpios por la palabra que os he hablado. ^[**15:3** Juan 13,10; 1Pe 1,23] \bibleverse{4} Estad en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no estuviere en la vid; así ni vosotros, si no estuviereis en mí. \bibleverse{5} Yo soy la vid, vosotros los pámpanos: el que está en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer. \bibleverse{6} El que en mí no estuviere, será echado fuera como mal pámpano, y se secará; y los cogen, y los echan en el fuego, y arden. \bibleverse{7} Si estuviereis en mí, y mis palabras estuvieren en vosotros, pedid todo lo que quisiereis, y os será hecho. ^[**15:7** Mar 11,24] 
  
 
-\bibverse{8} En esto es glorificado mi Padre, en que llevéis mucho fruto, y seáis así mis discípulos. 
-
-^[**15:8** Mat 5,16] 
+\bibleverse{8} En esto es glorificado mi Padre, en que llevéis mucho fruto, y seáis así mis discípulos. ^[**15:8** Mat 5,16] 
 
 
 ## El mandamiento del amor: ¡Permanezcan en la comunidad de amor conmigo y entre nosotros!
-\bibverse{9} Como el Padre me amó, también yo os he amado: estad en mi amor. \bibverse{10} Si guardareis mis mandamientos, estaréis en mi amor; como yo también he guardado los mandamientos de mi Padre, y estoy en su amor. \bibverse{11} Estas cosas os he hablado, para que mi gozo esté en vosotros, y vuestro gozo sea cumplido. 
-^[**15:11** Juan 17,13] 
+\bibleverse{9} Como el Padre me amó, también yo os he amado: estad en mi amor. \bibleverse{10} Si guardareis mis mandamientos, estaréis en mi amor; como yo también he guardado los mandamientos de mi Padre, y estoy en su amor. \bibleverse{11} Estas cosas os he hablado, para que mi gozo esté en vosotros, y vuestro gozo sea cumplido. ^[**15:11** Juan 17,13] 
 
 
-\bibverse{12} Este es mi mandamiento: Que os améis los unos á los otros, como yo os he amado. ^[**15:12** Juan 13,34] \bibverse{13} Nadie tiene mayor amor que este, que ponga alguno su vida por sus amigos. ^[**15:13** Juan 10,12; 1Jn 3,16] \bibverse{14} Vosotros sois mis amigos, si hiciereis las cosas que yo os mando. ^[**15:14** Juan 8,31; Mat 12,50] \bibverse{15} Ya no os llamaré siervos, porque el siervo no sabe lo que hace su señor: mas os he llamado amigos, porque todas las cosas que oí de mi Padre, os he hecho notorias. \bibverse{16} No me elegisteis vosotros á mí, mas yo os elegí á vosotros; y os he puesto para que vayáis y llevéis fruto, y vuestro fruto permanezca: para que todo lo que pidiereis del Padre en mi nombre, él os lo dé. 
-
+\bibleverse{12} Este es mi mandamiento: Que os améis los unos á los otros, como yo os he amado. ^[**15:12** Juan 13,34] \bibleverse{13} Nadie tiene mayor amor que este, que ponga alguno su vida por sus amigos. ^[**15:13** Juan 10,12; 1Jn 3,16] \bibleverse{14} Vosotros sois mis amigos, si hiciereis las cosas que yo os mando. ^[**15:14** Juan 8,31; Mat 12,50] \bibleverse{15} Ya no os llamaré siervos, porque el siervo no sabe lo que hace su señor: mas os he llamado amigos, porque todas las cosas que oí de mi Padre, os he hecho notorias. \bibleverse{16} No me elegisteis vosotros á mí, mas yo os elegí á vosotros; y os he puesto para que vayáis y llevéis fruto, y vuestro fruto permanezca: para que todo lo que pidiereis del Padre en mi nombre, él os lo dé. 
   
 
-\bibverse{17} Esto os mando: Que os améis los unos á los otros. 
-
-
+\bibleverse{17} Esto os mando: Que os améis los unos á los otros. 
 
 ## Profecía del destino de los discípulos, sufriendo el odio del mundo
-\bibverse{18} Si el mundo os aborrece, sabed que á mí me aborreció antes que á vosotros. ^[**15:18** Juan 7,7] \bibverse{19} Si fuerais del mundo, el mundo amaría lo suyo; mas porque no sois del mundo, antes yo os elegí del mundo, por eso os aborrece el mundo. ^[**15:19** 1Jn 4,4; 1Jn 1,4-5; Juan 17,14] \bibverse{20} Acordaos de la palabra que yo os he dicho: No es el siervo mayor que su señor. Si á mí me han perseguido, también á vosotros perseguirán: si han guardado mi palabra, también guardarán la vuestra. ^[**15:20** Juan 13,16; Mat 10,24-25] \bibverse{21} Mas todo esto os harán por causa de mi nombre, porque no conocen al que me ha enviado. ^[**15:21** Juan 16,3] \bibverse{22} Si no hubiera venido, ni les hubiera hablado, no tendrían pecado, mas ahora no tienen excusa de su pecado. ^[**15:22** Juan 9,41] \bibverse{23} El que me aborrece, también á mi Padre aborrece. ^[**15:23** Luc 10,16] \bibverse{24} Si no hubiese hecho entre ellos obras cuales ningún otro ha hecho, no tendrían pecado; mas ahora, y las han visto, y me aborrecen á mí y á mi Padre. \bibverse{25} Mas para que se cumpla la palabra que está escrita en su ley: Que sin causa me aborrecieron. 
-
+\bibleverse{18} Si el mundo os aborrece, sabed que á mí me aborreció antes que á vosotros. ^[**15:18** Juan 7,7] \bibleverse{19} Si fuerais del mundo, el mundo amaría lo suyo; mas porque no sois del mundo, antes yo os elegí del mundo, por eso os aborrece el mundo. ^[**15:19** 1Jn 4,4; 1Jn 1,4-5; Juan 17,14] \bibleverse{20} Acordaos de la palabra que yo os he dicho: No es el siervo mayor que su señor. Si á mí me han perseguido, también á vosotros perseguirán: si han guardado mi palabra, también guardarán la vuestra. ^[**15:20** Juan 13,16; Mat 10,24-25] \bibleverse{21} Mas todo esto os harán por causa de mi nombre, porque no conocen al que me ha enviado. ^[**15:21** Juan 16,3] \bibleverse{22} Si no hubiera venido, ni les hubiera hablado, no tendrían pecado, mas ahora no tienen excusa de su pecado. ^[**15:22** Juan 9,41] \bibleverse{23} El que me aborrece, también á mi Padre aborrece. ^[**15:23** Luc 10,16] \bibleverse{24} Si no hubiese hecho entre ellos obras cuales ningún otro ha hecho, no tendrían pecado; mas ahora, y las han visto, y me aborrecen á mí y á mi Padre. \bibleverse{25} Mas para que se cumpla la palabra que está escrita en su ley: Que sin causa me aborrecieron. 
      
 
-\bibverse{26} Empero cuando viniere el Consolador, el cual yo os enviaré del Padre, el Espíritu de verdad, el cual procede del Padre, él dará testimonio de mí. ^[**15:26** Juan 14,16; Juan 14,26; Luc 24,49] \bibverse{27} Y vosotros daréis testimonio, porque estáis conmigo desde el principio. ^[**15:27** Hech 1,8; Hech 1,21-22; Hech 5,32] 
+\bibleverse{26} Empero cuando viniere el Consolador, el cual yo os enviaré del Padre, el Espíritu de verdad, el cual procede del Padre, él dará testimonio de mí. ^[**15:26** Juan 14,16; Juan 14,26; Luc 24,49] \bibleverse{27} Y vosotros daréis testimonio, porque estáis conmigo desde el principio. ^[**15:27** Hech 1,8; Hech 1,21-22; Hech 5,32] 
   
 
 # 16 
-\bibverse{1} Estas cosas os he hablado, para que no os escandalicéis. \bibverse{2} Os echarán de las sinagogas; y aun viene la hora, cuando cualquiera que os matare, pensará que hace servicio á Dios. ^[**16:2** Mat 10,17; Mat 10,22; Mat 24,9] \bibverse{3} Y estas cosas os harán, porque no conocen al Padre ni á mí. ^[**16:3** Juan 15,21] \bibverse{4} Mas os he dicho esto, para que cuando aquella hora viniere, os acordéis que yo os lo había dicho. Esto empero no os lo dije al principio, porque yo estaba con vosotros. 
-
-
+\bibleverse{1} Estas cosas os he hablado, para que no os escandalicéis. \bibleverse{2} Os echarán de las sinagogas; y aun viene la hora, cuando cualquiera que os matare, pensará que hace servicio á Dios. ^[**16:2** Mat 10,17; Mat 10,22; Mat 24,9] \bibleverse{3} Y estas cosas os harán, porque no conocen al Padre ni á mí. ^[**16:3** Juan 15,21] \bibleverse{4} Mas os he dicho esto, para que cuando aquella hora viniere, os acordéis que yo os lo había dicho. Esto empero no os lo dije al principio, porque yo estaba con vosotros. 
  
 
 ## Promesa del Espíritu Santo y su obra benéfica en el mundo y en los discípulos
-\bibverse{5} Mas ahora voy al que me envió; y ninguno de vosotros me pregunta: ¿Adónde vas? \bibverse{6} Antes, porque os he hablado estas cosas, tristeza ha henchido vuestro corazón. \bibverse{7} Empero yo os digo la verdad: Os es necesario que yo vaya: porque si yo no fuese, el Consolador no vendría á vosotros; mas si yo fuere, os le enviaré. ^[**16:7** Juan 14,16; Juan 14,26] \bibverse{8} Y cuando él viniere redargüirá al mundo de pecado, y de justicia, y de juicio: \bibverse{9} De pecado ciertamente, por cuanto no creen en mí; \bibverse{10} Y de justicia, por cuanto voy al Padre, y no me veréis más; ^[**16:10** Hech 5,31; Rom 4,25] \bibverse{11} Y de juicio, por cuanto el príncipe de este mundo es juzgado. 
-^[**16:11** Juan 12,31] 
+\bibleverse{5} Mas ahora voy al que me envió; y ninguno de vosotros me pregunta: ¿Adónde vas? \bibleverse{6} Antes, porque os he hablado estas cosas, tristeza ha henchido vuestro corazón. \bibleverse{7} Empero yo os digo la verdad: Os es necesario que yo vaya: porque si yo no fuese, el Consolador no vendría á vosotros; mas si yo fuere, os le enviaré. ^[**16:7** Juan 14,16; Juan 14,26] \bibleverse{8} Y cuando él viniere redargüirá al mundo de pecado, y de justicia, y de juicio: \bibleverse{9} De pecado ciertamente, por cuanto no creen en mí; \bibleverse{10} Y de justicia, por cuanto voy al Padre, y no me veréis más; ^[**16:10** Hech 5,31; Rom 4,25] \bibleverse{11} Y de juicio, por cuanto el príncipe de este mundo es juzgado. ^[**16:11** Juan 12,31] 
   
 
-\bibverse{12} Aun tengo muchas cosas que deciros, mas ahora no las podéis llevar. ^[**16:12** 1Cor 3,1] \bibverse{13} Pero cuando viniere aquel Espíritu de verdad, él os guiará á toda verdad; porque no hablará de sí mismo, sino que hablará todo lo que oyere, y os hará saber las cosas que han de venir. ^[**16:13** Juan 14,26; 1Jn 2,27] \bibverse{14} El me glorificará: porque tomará de lo mío, y os lo hará saber. \bibverse{15} Todo lo que tiene el Padre, mío es: por eso dije que tomará de lo mío, y os lo hará saber. 
-
-^[**16:15** Juan 3,35; Juan 17,10] 
+\bibleverse{12} Aun tengo muchas cosas que deciros, mas ahora no las podéis llevar. ^[**16:12** 1Cor 3,1] \bibleverse{13} Pero cuando viniere aquel Espíritu de verdad, él os guiará á toda verdad; porque no hablará de sí mismo, sino que hablará todo lo que oyere, y os hará saber las cosas que han de venir. ^[**16:13** Juan 14,26; 1Jn 2,27] \bibleverse{14} El me glorificará: porque tomará de lo mío, y os lo hará saber. \bibleverse{15} Todo lo que tiene el Padre, mío es: por eso dije que tomará de lo mío, y os lo hará saber. ^[**16:15** Juan 3,35; Juan 17,10] 
   
 
 ## Promesa de una reunión temprana y amonestación de orar en el nombre de Jesús
-\bibverse{16} Un poquito, y no me veréis; y otra vez un poquito, y me veréis: porque yo voy al Padre. 
-^[**16:16** Juan 14,19] 
+\bibleverse{16} Un poquito, y no me veréis; y otra vez un poquito, y me veréis: porque yo voy al Padre. ^[**16:16** Juan 14,19] 
 
 
-\bibverse{17} Entonces dijeron algunos de sus discípulos unos á otros: ¿Qué es esto que nos dice: Un poquito, y no me veréis; y otra vez un poquito, y me veréis: y, porque yo voy al Padre? \bibverse{18} Decían pues: ¿Qué es esto que dice: Un poquito? No entendemos lo que habla. 
+\bibleverse{17} Entonces dijeron algunos de sus discípulos unos á otros: ¿Qué es esto que nos dice: Un poquito, y no me veréis; y otra vez un poquito, y me veréis: y, porque yo voy al Padre? \bibleverse{18} Decían pues: ¿Qué es esto que dice: Un poquito? No entendemos lo que habla. 
 
-
-\bibverse{19} Y conoció Jesús que le querían preguntar, y díjoles: ¿Preguntáis entre vosotros de esto que dije: Un poquito, y no me veréis, y otra vez un poquito, y me veréis? \bibverse{20} De cierto, de cierto os digo, que vosotros lloraréis y lamentaréis, y el mundo se alegrará: empero aunque vosotros estaréis tristes, vuestra tristeza se tornará en gozo. ^[**16:20** Mar 16,10] \bibverse{21} La mujer cuando pare, tiene dolor, porque es venida su hora; mas después que ha parido un niño, ya no se acuerda de la angustia, por el gozo de que haya nacido un hombre en el mundo. ^[**16:21** Is 26,17] \bibverse{22} También, pues, vosotros ahora ciertamente tenéis tristeza; mas otra vez os veré, y se gozará vuestro corazón, y nadie quitará de vosotros vuestro gozo. 
-
+\bibleverse{19} Y conoció Jesús que le querían preguntar, y díjoles: ¿Preguntáis entre vosotros de esto que dije: Un poquito, y no me veréis, y otra vez un poquito, y me veréis? \bibleverse{20} De cierto, de cierto os digo, que vosotros lloraréis y lamentaréis, y el mundo se alegrará: empero aunque vosotros estaréis tristes, vuestra tristeza se tornará en gozo. ^[**16:20** Mar 16,10] \bibleverse{21} La mujer cuando pare, tiene dolor, porque es venida su hora; mas después que ha parido un niño, ya no se acuerda de la angustia, por el gozo de que haya nacido un hombre en el mundo. ^[**16:21** Is 26,17] \bibleverse{22} También, pues, vosotros ahora ciertamente tenéis tristeza; mas otra vez os veré, y se gozará vuestro corazón, y nadie quitará de vosotros vuestro gozo. 
  
 
-\bibverse{23} Y aquel día no me preguntaréis nada. De cierto, de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os lo dará. ^[**16:23** Juan 14,13-14] \bibverse{24} Hasta ahora nada habéis pedido en mi nombre: pedid, y recibiréis, para que vuestro gozo sea cumplido. 
-
-^[**16:24** Juan 15,11] 
+\bibleverse{23} Y aquel día no me preguntaréis nada. De cierto, de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os lo dará. ^[**16:23** Juan 14,13-14] \bibleverse{24} Hasta ahora nada habéis pedido en mi nombre: pedid, y recibiréis, para que vuestro gozo sea cumplido. ^[**16:24** Juan 15,11] 
  
 
 ## Promesa de completar la comunión con Dios para los discípulos; Conclusión de los discursos de despedida
-\bibverse{25} Estas cosas os he hablado en proverbios: la hora viene cuando ya no os hablaré por proverbios, pero claramente os anunciaré del Padre. \bibverse{26} Aquel día pediréis en mi nombre: y no os digo, que yo rogaré al Padre por vosotros; \bibverse{27} Pues el mismo Padre os ama, porque vosotros me amasteis, y habéis creído que yo salí de Dios. ^[**16:27** Juan 14,21] \bibverse{28} Salí del Padre, y he venido al mundo: otra vez dejo el mundo, y voy al Padre. 
+\bibleverse{25} Estas cosas os he hablado en proverbios: la hora viene cuando ya no os hablaré por proverbios, pero claramente os anunciaré del Padre. \bibleverse{26} Aquel día pediréis en mi nombre: y no os digo, que yo rogaré al Padre por vosotros; \bibleverse{27} Pues el mismo Padre os ama, porque vosotros me amasteis, y habéis creído que yo salí de Dios. ^[**16:27** Juan 14,21] \bibleverse{28} Salí del Padre, y he venido al mundo: otra vez dejo el mundo, y voy al Padre. 
 
 
+\bibleverse{29} Dícenle sus discípulos: He aquí, ahora hablas claramente, y ningún proverbio dices. \bibleverse{30} Ahora entendemos que sabes todas las cosas, y no necesitas que nadie te pregunte: en esto creemos que has salido de Dios. 
 
-\bibverse{29} Dícenle sus discípulos: He aquí, ahora hablas claramente, y ningún proverbio dices. \bibverse{30} Ahora entendemos que sabes todas las cosas, y no necesitas que nadie te pregunte: en esto creemos que has salido de Dios. 
-
-
-\bibverse{31} Respondióles Jesús: ¿Ahora creéis? \bibverse{32} He aquí, la hora viene, y ha venido, que seréis esparcidos cada uno por su parte, y me dejaréis solo: mas no estoy solo, porque el Padre está conmigo. \bibverse{33} Estas cosas os he hablado, para que en mí tengáis paz. En el mundo tendréis aflicción: mas confiad, yo he vencido al mundo. ^[**16:33** Juan 14,27; Rom 5,1; 1Jn 5,4] 
+\bibleverse{31} Respondióles Jesús: ¿Ahora creéis? \bibleverse{32} He aquí, la hora viene, y ha venido, que seréis esparcidos cada uno por su parte, y me dejaréis solo: mas no estoy solo, porque el Padre está conmigo. \bibleverse{33} Estas cosas os he hablado, para que en mí tengáis paz. En el mundo tendréis aflicción: mas confiad, yo he vencido al mundo. ^[**16:33** Juan 14,27; Rom 5,1; 1Jn 5,4] 
  
 
 ## Oración de despedida de Jesús con los suyos y para los suyos
 # 17 
-\bibverse{1} Estas cosas habló Jesús, y levantados los ojos al cielo, dijo: Padre, la hora es llegada; glorifica á tu Hijo, para que también tu Hijo te glorifique á ti; \bibverse{2} Como le has dado la potestad de toda carne, para que dé vida eterna á todos los que le diste. \bibverse{3} Esta empero es la vida eterna: que te conozcan el solo Dios verdadero, y á Jesucristo, al cual has enviado. ^[**17:3** 1Jn 5,20] \bibverse{4} Yo te he glorificado en la tierra: he acabado la obra que me diste que hiciese. \bibverse{5} Ahora pues, Padre, glorifícame tú cerca de ti mismo con aquella gloria que tuve cerca de ti antes que el mundo fuese. 
-
-
+\bibleverse{1} Estas cosas habló Jesús, y levantados los ojos al cielo, dijo: Padre, la hora es llegada; glorifica á tu Hijo, para que también tu Hijo te glorifique á ti; \bibleverse{2} Como le has dado la potestad de toda carne, para que dé vida eterna á todos los que le diste. \bibleverse{3} Esta empero es la vida eterna: que te conozcan el solo Dios verdadero, y á Jesucristo, al cual has enviado. ^[**17:3** 1Jn 5,20] \bibleverse{4} Yo te he glorificado en la tierra: he acabado la obra que me diste que hiciese. \bibleverse{5} Ahora pues, Padre, glorifícame tú cerca de ti mismo con aquella gloria que tuve cerca de ti antes que el mundo fuese. 
 
 
 ## La intercesión de Jesús por el mantenimiento de los discípulos en el conocimiento correcto de Dios
-\bibverse{6} He manifestado tu nombre á los hombres que del mundo me diste: tuyos eran, y me los diste, y guardaron tu palabra. \bibverse{7} Ahora han conocido que todas las cosas que me diste, son de ti; \bibverse{8} Porque las palabras que me diste, les he dado; y ellos las recibieron, y han conocido verdaderamente que salí de ti, y han creído que tú me enviaste. ^[**17:8** Juan 16,30] \bibverse{9} Yo ruego por ellos: no ruego por el mundo, sino por los que me diste; porque tuyos son: ^[**17:9** Juan 6,37; Juan 6,44] \bibverse{10} Y todas mis cosas son tus cosas, y tus cosas son mis cosas: y he sido glorificado en ellas. ^[**17:10** Juan 16,15] \bibverse{11} Y ya no estoy en el mundo; mas éstos están en el mundo, y yo á ti vengo. Padre santo, á los que me has dado, guárdalos por tu nombre, para que sean una cosa, como también nosotros. \bibverse{12} Cuando estaba con ellos en el mundo, yo los guardaba en tu nombre; á los que me diste, yo los guardé, y ninguno de ellos se perdió, sino el hijo de perdición; para que la Escritura se cumpliese. \bibverse{13} Mas ahora vengo á ti; y hablo esto en el mundo, para que tengan mi gozo cumplido en sí mismos. ^[**17:13** Juan 15,11] \bibverse{14} Yo les he dado tu palabra; y el mundo los aborreció, porque no son del mundo, como tampoco yo soy del mundo. ^[**17:14** Juan 15,19] \bibverse{15} No ruego que los quites del mundo, sino que los guardes del mal. ^[**17:15** Mat 6,13; 2Tes 3,3] \bibverse{16} No son del mundo, como tampoco yo soy del mundo. \bibverse{17} Santifícalos en tu verdad: tu palabra es verdad. \bibverse{18} Como tú me enviaste al mundo, también los he enviado al mundo. ^[**17:18** Juan 20,21] \bibverse{19} Y por ellos yo me santifico á mí mismo, para que también ellos sean santificados en verdad. 
-
-^[**17:19** Heb 10,10] 
+\bibleverse{6} He manifestado tu nombre á los hombres que del mundo me diste: tuyos eran, y me los diste, y guardaron tu palabra. \bibleverse{7} Ahora han conocido que todas las cosas que me diste, son de ti; \bibleverse{8} Porque las palabras que me diste, les he dado; y ellos las recibieron, y han conocido verdaderamente que salí de ti, y han creído que tú me enviaste. ^[**17:8** Juan 16,30] \bibleverse{9} Yo ruego por ellos: no ruego por el mundo, sino por los que me diste; porque tuyos son: ^[**17:9** Juan 6,37; Juan 6,44] \bibleverse{10} Y todas mis cosas son tus cosas, y tus cosas son mis cosas: y he sido glorificado en ellas. ^[**17:10** Juan 16,15] \bibleverse{11} Y ya no estoy en el mundo; mas éstos están en el mundo, y yo á ti vengo. Padre santo, á los que me has dado, guárdalos por tu nombre, para que sean una cosa, como también nosotros. \bibleverse{12} Cuando estaba con ellos en el mundo, yo los guardaba en tu nombre; á los que me diste, yo los guardé, y ninguno de ellos se perdió, sino el hijo de perdición; para que la Escritura se cumpliese. \bibleverse{13} Mas ahora vengo á ti; y hablo esto en el mundo, para que tengan mi gozo cumplido en sí mismos. ^[**17:13** Juan 15,11] \bibleverse{14} Yo les he dado tu palabra; y el mundo los aborreció, porque no son del mundo, como tampoco yo soy del mundo. ^[**17:14** Juan 15,19] \bibleverse{15} No ruego que los quites del mundo, sino que los guardes del mal. ^[**17:15** Mat 6,13; 2Tes 3,3] \bibleverse{16} No son del mundo, como tampoco yo soy del mundo. \bibleverse{17} Santifícalos en tu verdad: tu palabra es verdad. \bibleverse{18} Como tú me enviaste al mundo, también los he enviado al mundo. ^[**17:18** Juan 20,21] \bibleverse{19} Y por ellos yo me santifico á mí mismo, para que también ellos sean santificados en verdad. ^[**17:19** Heb 10,10] 
        
 
 ## Intercesión por todos los creyentes
-\bibverse{20} Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos. ^[**17:20** Rom 10,17] \bibverse{21} Para que todos sean una cosa; como tú, oh Padre, en mí, y yo en ti, que también ellos sean en nosotros una cosa: para que el mundo crea que tú me enviaste. ^[**17:21** Gal 3,28] \bibverse{22} Y yo, la gloria que me diste les he dado; para que sean una cosa, como también nosotros somos una cosa. ^[**17:22** Hech 4,32] \bibverse{23} Yo en ellos, y tú en mí, para que sean consumadamente una cosa; que el mundo conozca que tú me enviaste, y que los has amado, como también á mí me has amado. ^[**17:23** 1Cor 6,17] \bibverse{24} Padre, aquellos que me has dado, quiero que donde yo estoy, ellos estén también conmigo; para que vean mi gloria que me has dado: por cuanto me has amado desde antes de la constitución del mundo. 
-^[**17:24** Juan 12,26] 
-    \bibverse{25} Padre justo, el mundo no te ha conocido, mas yo te he conocido; y éstos han conocido que tú me enviaste; \bibverse{26} Y yo les he manifestado tu nombre, y manifestarélo aún; para que el amor con que me has amado, esté en ellos, y yo en ellos. 
+\bibleverse{20} Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos. ^[**17:20** Rom 10,17] \bibleverse{21} Para que todos sean una cosa; como tú, oh Padre, en mí, y yo en ti, que también ellos sean en nosotros una cosa: para que el mundo crea que tú me enviaste. ^[**17:21** Gal 3,28] \bibleverse{22} Y yo, la gloria que me diste les he dado; para que sean una cosa, como también nosotros somos una cosa. ^[**17:22** Hech 4,32] \bibleverse{23} Yo en ellos, y tú en mí, para que sean consumadamente una cosa; que el mundo conozca que tú me enviaste, y que los has amado, como también á mí me has amado. ^[**17:23** 1Cor 6,17] \bibleverse{24} Padre, aquellos que me has dado, quiero que donde yo estoy, ellos estén también conmigo; para que vean mi gloria que me has dado: por cuanto me has amado desde antes de la constitución del mundo. ^[**17:24** Juan 12,26] \bibleverse{25} Padre justo, el mundo no te ha conocido, mas yo te he conocido; y éstos han conocido que tú me enviaste; \bibleverse{26} Y yo les he manifestado tu nombre, y manifestarélo aún; para que el amor con que me has amado, esté en ellos, y yo en ellos.
+     
 
 ## Jesús en Getsemaní: Judas, Malco, arresto de Jesús
 # 18 
-\bibverse{1} Como Jesús hubo dicho estas cosas, salióse con sus discípulos tras el arroyo de Cedrón, donde estaba un huerto, en el cual entró Jesús y sus discípulos. \bibverse{2} Y también Judas, el que le entregaba, sabía aquel lugar; porque muchas veces Jesús se juntaba allí con sus discípulos. \bibverse{3} Judas pues tomando una compañía, y ministros de los pontífices y de los Fariseos, vino allí con linternas y antorchas, y con armas. \bibverse{4} Empero Jesús, sabiendo todas las cosas que habían de venir sobre él, salió delante, y díjoles: ¿A quién buscáis? 
+\bibleverse{1} Como Jesús hubo dicho estas cosas, salióse con sus discípulos tras el arroyo de Cedrón, donde estaba un huerto, en el cual entró Jesús y sus discípulos. \bibleverse{2} Y también Judas, el que le entregaba, sabía aquel lugar; porque muchas veces Jesús se juntaba allí con sus discípulos. \bibleverse{3} Judas pues tomando una compañía, y ministros de los pontífices y de los Fariseos, vino allí con linternas y antorchas, y con armas. \bibleverse{4} Empero Jesús, sabiendo todas las cosas que habían de venir sobre él, salió delante, y díjoles: ¿A quién buscáis? 
+
+\bibleverse{5} Respondiéronle: A Jesús Nazareno. Díceles Jesús: Yo soy. (Y estaba también con ellos Judas, el que le entregaba.) 
+
+\bibleverse{6} Y como les dijo, Yo soy, volvieron atrás, y cayeron en tierra. 
+
+\bibleverse{7} Volvióles, pues, á preguntar: ¿A quién buscáis? Y ellos dijeron: A Jesús Nazareno. 
+
+\bibleverse{8} Respondió Jesús: Os he dicho que yo soy: pues si á mí buscáis, dejad ir á éstos. \bibleverse{9} Para que se cumpliese la palabra que había dicho: De los que me diste, ninguno de ellos perdí. ^[**18:9** Juan 17,12] 
 
 
-\bibverse{5} Respondiéronle: A Jesús Nazareno. Díceles Jesús: Yo soy. (Y estaba también con ellos Judas, el que le entregaba.) 
+\bibleverse{10} Entonces Simón Pedro, que tenía espada, sacóla, é hirió al siervo del pontífice, y le cortó la oreja derecha. Y el siervo se llamaba Malco. \bibleverse{11} Jesús entonces dijo á Pedro: Mete tu espada en la vaina: el vaso que el Padre me ha dado, ¿no lo tengo de beber? 
 
-
-\bibverse{6} Y como les dijo, Yo soy, volvieron atrás, y cayeron en tierra. 
-
-
-\bibverse{7} Volvióles, pues, á preguntar: ¿A quién buscáis? Y ellos dijeron: A Jesús Nazareno. 
-
-
-\bibverse{8} Respondió Jesús: Os he dicho que yo soy: pues si á mí buscáis, dejad ir á éstos. \bibverse{9} Para que se cumpliese la palabra que había dicho: De los que me diste, ninguno de ellos perdí. 
-^[**18:9** Juan 17,12] 
-
-
-\bibverse{10} Entonces Simón Pedro, que tenía espada, sacóla, é hirió al siervo del pontífice, y le cortó la oreja derecha. Y el siervo se llamaba Malco. \bibverse{11} Jesús entonces dijo á Pedro: Mete tu espada en la vaina: el vaso que el Padre me ha dado, ¿no lo tengo de beber? 
-
-
-\bibverse{12} Entonces la compañía y el tribuno, y los ministros de los Judíos, prendieron á Jesús y le ataron, \bibverse{13} Y lleváronle primeramente á Anás; porque era suegro de Caifás, el cual era pontífice de aquel año. \bibverse{14} Y era Caifás el que había dado el consejo á los Judíos, que era necesario que un hombre muriese por el pueblo. 
-
-
+\bibleverse{12} Entonces la compañía y el tribuno, y los ministros de los Judíos, prendieron á Jesús y le ataron, \bibleverse{13} Y lleváronle primeramente á Anás; porque era suegro de Caifás, el cual era pontífice de aquel año. \bibleverse{14} Y era Caifás el que había dado el consejo á los Judíos, que era necesario que un hombre muriese por el pueblo. 
 
 ## Primera negación de Pedro
-\bibverse{15} Y seguía á Jesús Simón Pedro, y otro discípulo. Y aquel discípulo era conocido del pontífice, y entró con Jesús al atrio del pontífice; \bibverse{16} Mas Pedro estaba fuera á la puerta. Y salió aquel discípulo que era conocido del pontífice, y habló á la portera, y metió dentro á Pedro. \bibverse{17} Entonces la criada portera dijo á Pedro: ¿No eres tú también de los discípulos de este hombre? Dice él: No soy. 
+\bibleverse{15} Y seguía á Jesús Simón Pedro, y otro discípulo. Y aquel discípulo era conocido del pontífice, y entró con Jesús al atrio del pontífice; \bibleverse{16} Mas Pedro estaba fuera á la puerta. Y salió aquel discípulo que era conocido del pontífice, y habló á la portera, y metió dentro á Pedro. \bibleverse{17} Entonces la criada portera dijo á Pedro: ¿No eres tú también de los discípulos de este hombre? Dice él: No soy. 
 
-
-\bibverse{18} Y estaban en pie los siervos y los ministros que habían allegado las ascuas; porque hacía frío, y calentábanse: y estaba también con ellos Pedro en pie, calentándose. 
-
-
+\bibleverse{18} Y estaban en pie los siervos y los ministros que habían allegado las ascuas; porque hacía frío, y calentábanse: y estaba también con ellos Pedro en pie, calentándose. 
 
 ## Jesús ante los sumos sacerdotes Anás y Caifás
-\bibverse{19} Y el pontífice preguntó á Jesús acerca de sus discípulos y de su doctrina. 
+\bibleverse{19} Y el pontífice preguntó á Jesús acerca de sus discípulos y de su doctrina. 
+
+\bibleverse{20} Jesús le respondió: Yo manifiestamente he hablado al mundo: yo siempre he enseñado en la sinagoga y en el templo, donde se juntan todos los Judíos, y nada he hablado en oculto. ^[**18:20** Juan 7,14; Juan 7,26] \bibleverse{21} ¿Qué me preguntas á mí? Pregunta á los que han oído, qué les haya yo hablado: he aquí, ésos saben lo que yo he dicho. 
 
 
-\bibverse{20} Jesús le respondió: Yo manifiestamente he hablado al mundo: yo siempre he enseñado en la sinagoga y en el templo, donde se juntan todos los Judíos, y nada he hablado en oculto. ^[**18:20** Juan 7,14; Juan 7,26] \bibverse{21} ¿Qué me preguntas á mí? Pregunta á los que han oído, qué les haya yo hablado: he aquí, ésos saben lo que yo he dicho. 
+\bibleverse{22} Y como él hubo dicho esto, uno de los criados que estaba allí, dió una bofetada á Jesús, diciendo: ¿Así respondes al pontífice? 
 
+\bibleverse{23} Respondióle Jesús: Si he hablado mal, da testimonio del mal: y si bien, ¿por qué me hieres? 
 
-
-\bibverse{22} Y como él hubo dicho esto, uno de los criados que estaba allí, dió una bofetada á Jesús, diciendo: ¿Así respondes al pontífice? 
-
-
-\bibverse{23} Respondióle Jesús: Si he hablado mal, da testimonio del mal: y si bien, ¿por qué me hieres? 
-
-
-\bibverse{24} Y Anás le había enviado atado á Caifás pontífice. 
-
-
+\bibleverse{24} Y Anás le había enviado atado á Caifás pontífice. 
 
 ## Segunda y tercera negación de Pedro
-\bibverse{25} Estaba pues Pedro en pie calentándose. Y dijéronle: ¿No eres tú de sus discípulos? El negó, y dijo: No soy. 
+\bibleverse{25} Estaba pues Pedro en pie calentándose. Y dijéronle: ¿No eres tú de sus discípulos? El negó, y dijo: No soy. 
 
+\bibleverse{26} Uno de los siervos del pontífice, pariente de aquél á quien Pedro había cortado la oreja, le dice: ¿No te vi yo en el huerto con él? 
 
-\bibverse{26} Uno de los siervos del pontífice, pariente de aquél á quien Pedro había cortado la oreja, le dice: ¿No te vi yo en el huerto con él? 
-
-
-\bibverse{27} Y negó Pedro otra vez: y luego el gallo cantó. 
-
-
+\bibleverse{27} Y negó Pedro otra vez: y luego el gallo cantó. 
 
 ## El interrogatorio y la confesión de Jesús ante el gobernador romano Pilato; su flagelación, burla y condena
-\bibverse{28} Y llevaron á Jesús de Caifás al pretorio: y era por la mañana: y ellos no entraron en el pretorio por no ser contaminados, sino que comiesen la pascua. \bibverse{29} Entonces salió Pilato á ellos fuera, y dijo: ¿Qué acusación traéis contra este hombre? 
+\bibleverse{28} Y llevaron á Jesús de Caifás al pretorio: y era por la mañana: y ellos no entraron en el pretorio por no ser contaminados, sino que comiesen la pascua. \bibleverse{29} Entonces salió Pilato á ellos fuera, y dijo: ¿Qué acusación traéis contra este hombre? 
+
+\bibleverse{30} Respondieron y dijéronle: Si éste no fuera malhechor, no te le habríamos entregado. 
+
+\bibleverse{31} Díceles entonces Pilato: Tomadle vosotros, y juzgadle según vuestra ley. Y los Judíos le dijeron: A nosotros no es lícito matar á nadie: 
+
+\bibleverse{32} Para que se cumpliese el dicho de Jesús, que había dicho, dando á entender de qué muerte había de morir. ^[**18:32** Juan 12,32-33; Mat 20,19] 
 
 
-\bibverse{30} Respondieron y dijéronle: Si éste no fuera malhechor, no te le habríamos entregado. 
+\bibleverse{33} Así que, Pilato volvió á entrar en el pretorio, y llamó á Jesús, y díjole: ¿Eres tú el Rey de los Judíos? 
 
+\bibleverse{34} Respondióle Jesús: ¿Dices tú esto de ti mismo, ó te lo han dicho otros de mí? 
 
-\bibverse{31} Díceles entonces Pilato: Tomadle vosotros, y juzgadle según vuestra ley. Y los Judíos le dijeron: A nosotros no es lícito matar á nadie: 
+\bibleverse{35} Pilato respondió: ¿Soy yo Judío? Tu gente, y los pontífices, te han entregado á mí: ¿qué has hecho? 
 
+\bibleverse{36} Respondió Jesús: Mi reino no es de este mundo: si de este mundo fuera mi reino, mis servidores pelearían para que yo no fuera entregado á los Judíos: ahora, pues, mi reino no es de aquí. 
 
-\bibverse{32} Para que se cumpliese el dicho de Jesús, que había dicho, dando á entender de qué muerte había de morir. 
-^[**18:32** Juan 12,32-33; Mat 20,19] 
+\bibleverse{37} Díjole entonces Pilato: ¿Luego rey eres tú? Respondió Jesús: Tú dices que yo soy rey. Yo para esto he nacido, y para esto he venido al mundo, para dar testimonio á la verdad. Todo aquél que es de la verdad, oye mi voz. 
 
+\bibleverse{38} Dícele Pilato: ¿Qué cosa es verdad? Y como hubo dicho esto, salió otra vez á los Judíos, y díceles: Yo no hallo en él ningún crimen. 
 
-\bibverse{33} Así que, Pilato volvió á entrar en el pretorio, y llamó á Jesús, y díjole: ¿Eres tú el Rey de los Judíos? 
+\bibleverse{39} Empero vosotros tenéis costumbre, que os suelte uno en la Pascua: ¿queréis, pues, que os suelte al Rey de los Judíos? 
 
-
-\bibverse{34} Respondióle Jesús: ¿Dices tú esto de ti mismo, ó te lo han dicho otros de mí? 
-
-
-\bibverse{35} Pilato respondió: ¿Soy yo Judío? Tu gente, y los pontífices, te han entregado á mí: ¿qué has hecho? 
-
-
-\bibverse{36} Respondió Jesús: Mi reino no es de este mundo: si de este mundo fuera mi reino, mis servidores pelearían para que yo no fuera entregado á los Judíos: ahora, pues, mi reino no es de aquí. 
-
-
-\bibverse{37} Díjole entonces Pilato: ¿Luego rey eres tú? Respondió Jesús: Tú dices que yo soy rey. Yo para esto he nacido, y para esto he venido al mundo, para dar testimonio á la verdad. Todo aquél que es de la verdad, oye mi voz. 
-
-
-\bibverse{38} Dícele Pilato: ¿Qué cosa es verdad? Y como hubo dicho esto, salió otra vez á los Judíos, y díceles: Yo no hallo en él ningún crimen. 
-
-
-\bibverse{39} Empero vosotros tenéis costumbre, que os suelte uno en la Pascua: ¿queréis, pues, que os suelte al Rey de los Judíos? 
-
-
-\bibverse{40} Entonces todos dieron voces otra vez, diciendo: No á éste, sino á Barrabás. Y Barrabás era ladrón. 
+\bibleverse{40} Entonces todos dieron voces otra vez, diciendo: No á éste, sino á Barrabás. Y Barrabás era ladrón. 
 
 # 19 
-\bibverse{1} Así que, entonces tomó Pilato á Jesús, y le azotó. \bibverse{2} Y los soldados entretejieron de espinas una corona, y pusiéronla sobre su cabeza, y le vistieron de una ropa de grana; \bibverse{3} Y decían: ¡Salve, Rey de los Judíos! y dábanle de bofetadas. 
+\bibleverse{1} Así que, entonces tomó Pilato á Jesús, y le azotó. \bibleverse{2} Y los soldados entretejieron de espinas una corona, y pusiéronla sobre su cabeza, y le vistieron de una ropa de grana; \bibleverse{3} Y decían: ¡Salve, Rey de los Judíos! y dábanle de bofetadas. 
+
+\bibleverse{4} Entonces Pilato salió otra vez fuera, y díjoles: He aquí, os le traigo fuera, para que entendáis que ningún crimen hallo en él. 
+
+\bibleverse{5} Y salió Jesús fuera, llevando la corona de espinas y la ropa de grana. Y díceles Pilato: He aquí el hombre. 
+
+\bibleverse{6} Y como le vieron los príncipes de los sacerdotes, y los servidores, dieron voces diciendo: Crucifícale, crucifícale. Díceles Pilato: Tomadle vosotros, y crucificadle; porque yo no hallo en él crimen. 
+
+\bibleverse{7} Respondiéronle los Judíos: Nosotros tenemos ley, y según nuestra ley debe morir, porque se hizo Hijo de Dios. ^[**19:7** Juan 10,33; Lev 24,16] 
 
 
-\bibverse{4} Entonces Pilato salió otra vez fuera, y díjoles: He aquí, os le traigo fuera, para que entendáis que ningún crimen hallo en él. 
+\bibleverse{8} Y como Pilato oyó esta palabra, tuvo más miedo. \bibleverse{9} Y entró otra vez en el pretorio, y dijo á Jesús: ¿De dónde eres tú? Mas Jesús no le dió respuesta. \bibleverse{10} Entonces dícele Pilato: ¿A mí no me hablas? ¿no sabes que tengo potestad para crucificarte, y que tengo potestad para soltarte? 
 
+\bibleverse{11} Respondió Jesús: Ninguna potestad tendrías contra mí, si no te fuese dado de arriba: por tanto, el que á ti me ha entregado, mayor pecado tiene. 
 
-\bibverse{5} Y salió Jesús fuera, llevando la corona de espinas y la ropa de grana. Y díceles Pilato: He aquí el hombre. 
+\bibleverse{12} Desde entonces procuraba Pilato soltarle; mas los Judíos daban voces, diciendo: Si á éste sueltas, no eres amigo de César: cualquiera que se hace rey, á César contradice. 
 
+\bibleverse{13} Entonces Pilato, oyendo este dicho, llevó fuera á Jesús, y se sentó en el tribunal en el lugar que se dice Lithóstrotos, y en hebreo Gabbatha. \bibleverse{14} Y era la víspera de la Pascua, y como la hora de sexta. Entonces dijo á los Judíos: He aquí vuestro Rey. 
 
-\bibverse{6} Y como le vieron los príncipes de los sacerdotes, y los servidores, dieron voces diciendo: Crucifícale, crucifícale. Díceles Pilato: Tomadle vosotros, y crucificadle; porque yo no hallo en él crimen. 
-
-
-\bibverse{7} Respondiéronle los Judíos: Nosotros tenemos ley, y según nuestra ley debe morir, porque se hizo Hijo de Dios. 
-^[**19:7** Juan 10,33; Lev 24,16] 
-
-
-\bibverse{8} Y como Pilato oyó esta palabra, tuvo más miedo. \bibverse{9} Y entró otra vez en el pretorio, y dijo á Jesús: ¿De dónde eres tú? Mas Jesús no le dió respuesta. \bibverse{10} Entonces dícele Pilato: ¿A mí no me hablas? ¿no sabes que tengo potestad para crucificarte, y que tengo potestad para soltarte? 
-
-
-\bibverse{11} Respondió Jesús: Ninguna potestad tendrías contra mí, si no te fuese dado de arriba: por tanto, el que á ti me ha entregado, mayor pecado tiene. 
-
-
-\bibverse{12} Desde entonces procuraba Pilato soltarle; mas los Judíos daban voces, diciendo: Si á éste sueltas, no eres amigo de César: cualquiera que se hace rey, á César contradice. 
-
-
-\bibverse{13} Entonces Pilato, oyendo este dicho, llevó fuera á Jesús, y se sentó en el tribunal en el lugar que se dice Lithóstrotos, y en hebreo Gabbatha. \bibverse{14} Y era la víspera de la Pascua, y como la hora de sexta. Entonces dijo á los Judíos: He aquí vuestro Rey. 
-
-
-\bibverse{15} Mas ellos dieron voces: Quita, quita, crucifícale. Díceles Pilato: ¿A vuestro Rey he de crucificar? Respondieron los pontífices: No tenemos rey sino á César. 
-
-^[**19:15** Juan 18,37] 
+\bibleverse{15} Mas ellos dieron voces: Quita, quita, crucifícale. Díceles Pilato: ¿A vuestro Rey he de crucificar? Respondieron los pontífices: No tenemos rey sino á César. ^[**19:15** Juan 18,37] 
 
 
 ## La crucifixión y muerte de Jesús
-\bibverse{16} Así que entonces lo entregó á ellos para que fuese crucificado. Y tomaron á Jesús, y le llevaron. \bibverse{17} Y llevando su cruz, salió al lugar que se dice de la Calavera, y en hebreo, Gólgotha; \bibverse{18} Donde le crucificaron, y con él otros dos, uno á cada lado, y Jesús en medio. \bibverse{19} Y escribió también Pilato un título, que puso encima de la cruz. Y el escrito era: JESUS NAZARENO, REY DE LOS JUDIOS. \bibverse{20} Y muchos de los Judíos leyeron este título: porque el lugar donde estaba crucificado Jesús era cerca de la ciudad: y estaba escrito en hebreo, en griego, y en latín. \bibverse{21} Y decían á Pilato los pontífices de los Judíos: No escribas, Rey de los Judíos: sino, que él dijo: Rey soy de los Judíos. 
+\bibleverse{16} Así que entonces lo entregó á ellos para que fuese crucificado. Y tomaron á Jesús, y le llevaron. \bibleverse{17} Y llevando su cruz, salió al lugar que se dice de la Calavera, y en hebreo, Gólgotha; \bibleverse{18} Donde le crucificaron, y con él otros dos, uno á cada lado, y Jesús en medio. \bibleverse{19} Y escribió también Pilato un título, que puso encima de la cruz. Y el escrito era: JESUS NAZARENO, REY DE LOS JUDIOS. \bibleverse{20} Y muchos de los Judíos leyeron este título: porque el lugar donde estaba crucificado Jesús era cerca de la ciudad: y estaba escrito en hebreo, en griego, y en latín. \bibleverse{21} Y decían á Pilato los pontífices de los Judíos: No escribas, Rey de los Judíos: sino, que él dijo: Rey soy de los Judíos. 
 
+\bibleverse{22} Respondió Pilato: Lo que he escrito, he escrito. 
 
-\bibverse{22} Respondió Pilato: Lo que he escrito, he escrito. 
+\bibleverse{23} Y como los soldados hubieron crucificado á Jesús, tomaron sus vestidos, é hicieron cuatro partes (para cada soldado una parte); y la túnica; mas la túnica era sin costura, toda tejida desde arriba. \bibleverse{24} Y dijeron entre ellos: No la partamos, sino echemos suertes sobre ella, de quién será; para que se cumpliese la Escritura, que dice: Partieron para sí mis vestidos, y sobre mi vestidura echaron suertes. Y los soldados hicieron esto. 
 
+\bibleverse{25} Y estaban junto á la cruz de Jesús su madre, y la hermana de su madre, María mujer de Cleofas, y María Magdalena. \bibleverse{26} Y como vió Jesús á la madre, y al discípulo que él amaba, que estaba presente, dice á su madre: Mujer, he ahí tu hijo. \bibleverse{27} Después dice al discípulo: He ahí tu madre. Y desde aquella hora el discípulo la recibió consigo. 
 
-\bibverse{23} Y como los soldados hubieron crucificado á Jesús, tomaron sus vestidos, é hicieron cuatro partes (para cada soldado una parte); y la túnica; mas la túnica era sin costura, toda tejida desde arriba. \bibverse{24} Y dijeron entre ellos: No la partamos, sino echemos suertes sobre ella, de quién será; para que se cumpliese la Escritura, que dice: Partieron para sí mis vestidos, y sobre mi vestidura echaron suertes. Y los soldados hicieron esto. 
-
-
-\bibverse{25} Y estaban junto á la cruz de Jesús su madre, y la hermana de su madre, María mujer de Cleofas, y María Magdalena. \bibverse{26} Y como vió Jesús á la madre, y al discípulo que él amaba, que estaba presente, dice á su madre: Mujer, he ahí tu hijo. \bibverse{27} Después dice al discípulo: He ahí tu madre. Y desde aquella hora el discípulo la recibió consigo. 
-
-
-\bibverse{28} Después de esto, sabiendo Jesús que todas las cosas eran ya cumplidas, para que la Escritura se cumpliese, dijo: Sed tengo. ^[**19:28** Sal 22,16] \bibverse{29} Y estaba allí un vaso lleno de vinagre: entonces ellos hinchieron una esponja de vinagre, y rodeada á un hisopo, se la llegaron á la boca. ^[**19:29** Sal 69,22] \bibverse{30} Y como Jesús tomó el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, dió el espíritu. 
-
+\bibleverse{28} Después de esto, sabiendo Jesús que todas las cosas eran ya cumplidas, para que la Escritura se cumpliese, dijo: Sed tengo. ^[**19:28** Sal 22,16] \bibleverse{29} Y estaba allí un vaso lleno de vinagre: entonces ellos hinchieron una esponja de vinagre, y rodeada á un hisopo, se la llegaron á la boca. ^[**19:29** Sal 69,22] \bibleverse{30} Y como Jesús tomó el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, dió el espíritu. 
  
 
-\bibverse{31} Entonces los Judíos, por cuanto era la víspera de la Pascua, para que los cuerpos no quedasen en la cruz en el sábado, pues era el gran día del sábado, rogaron á Pilato que se les quebrasen las piernas, y fuesen quitados. ^[**19:31** Lev 23,7; Deut 21,23] \bibverse{32} Y vinieron los soldados, y quebraron las piernas al primero, y asimismo al otro que había sido crucificado con él. \bibverse{33} Mas cuando vinieron á Jesús, como le vieron ya muerto, no le quebraron las piernas: \bibverse{34} Empero uno de los soldados le abrió el costado con una lanza, y luego salió sangre y agua. \bibverse{35} Y el que lo vió, da testimonio, y su testimonio es verdadero: y él sabe que dice verdad, para que vosotros también creáis. \bibverse{36} Porque estas cosas fueron hechas para que se cumpliese la Escritura: Hueso no quebrantaréis de él. \bibverse{37} Y también otra Escritura dice: Mirarán al que traspasaron. 
-
-
+\bibleverse{31} Entonces los Judíos, por cuanto era la víspera de la Pascua, para que los cuerpos no quedasen en la cruz en el sábado, pues era el gran día del sábado, rogaron á Pilato que se les quebrasen las piernas, y fuesen quitados. ^[**19:31** Lev 23,7; Deut 21,23] \bibleverse{32} Y vinieron los soldados, y quebraron las piernas al primero, y asimismo al otro que había sido crucificado con él. \bibleverse{33} Mas cuando vinieron á Jesús, como le vieron ya muerto, no le quebraron las piernas: \bibleverse{34} Empero uno de los soldados le abrió el costado con una lanza, y luego salió sangre y agua. \bibleverse{35} Y el que lo vió, da testimonio, y su testimonio es verdadero: y él sabe que dice verdad, para que vosotros también creáis. \bibleverse{36} Porque estas cosas fueron hechas para que se cumpliese la Escritura: Hueso no quebrantaréis de él. \bibleverse{37} Y también otra Escritura dice: Mirarán al que traspasaron. 
 
 
 ## Descenso de la cruz y sepultura de Jesús
-\bibverse{38} Después de estas cosas, José de Arimatea, el cual era discípulo de Jesús, mas secreto por miedo de los Judíos, rogó á Pilato que pudiera quitar el cuerpo de Jesús: y permitióselo Pilato. Entonces vino, y quitó el cuerpo de Jesús. ^[**19:38** Juan 7,13] \bibverse{39} Y vino también Nicodemo, el que antes había venido á Jesús de noche, trayendo un compuesto de mirra y de áloes, como cien libras. 
-^[**19:39** Juan 3,2] 
- \bibverse{40} Tomaron pues el cuerpo de Jesús, y envolviéronlo en lienzos con especias, como es costumbre de los Judíos sepultar. \bibverse{41} Y en aquel lugar donde había sido crucificado, había un huerto; y en el huerto un sepulcro nuevo, en el cual aun no había sido puesto ninguno. \bibverse{42} Allí, pues, por causa de la víspera de la Pascua de los Judíos, porque aquel sepulcro estaba cerca, pusieron á Jesús. 
+\bibleverse{38} Después de estas cosas, José de Arimatea, el cual era discípulo de Jesús, mas secreto por miedo de los Judíos, rogó á Pilato que pudiera quitar el cuerpo de Jesús: y permitióselo Pilato. Entonces vino, y quitó el cuerpo de Jesús. ^[**19:38** Juan 7,13] \bibleverse{39} Y vino también Nicodemo, el que antes había venido á Jesús de noche, trayendo un compuesto de mirra y de áloes, como cien libras. ^[**19:39** Juan 3,2] \bibleverse{40} Tomaron pues el cuerpo de Jesús, y envolviéronlo en lienzos con especias, como es costumbre de los Judíos sepultar. \bibleverse{41} Y en aquel lugar donde había sido crucificado, había un huerto; y en el huerto un sepulcro nuevo, en el cual aun no había sido puesto ninguno. \bibleverse{42} Allí, pues, por causa de la víspera de la Pascua de los Judíos, porque aquel sepulcro estaba cerca, pusieron á Jesús.
+  
 
 ## María Magdalena y el sepulcro vacío; Pedro y Juan en la tumba
 # 20 
-\bibverse{1} Y el primer día de la semana, María Magdalena vino de mañana, siendo aún obscuro, al sepulcro; y vió la piedra quitada del sepulcro. \bibverse{2} Entonces corrió, y vino á Simón Pedro, y al otro discípulo, al cual amaba Jesús, y les dice: Han llevado al Señor del sepulcro, y no sabemos dónde le han puesto. 
-^[**20:2** Juan 13,23] 
+\bibleverse{1} Y el primer día de la semana, María Magdalena vino de mañana, siendo aún obscuro, al sepulcro; y vió la piedra quitada del sepulcro. \bibleverse{2} Entonces corrió, y vino á Simón Pedro, y al otro discípulo, al cual amaba Jesús, y les dice: Han llevado al Señor del sepulcro, y no sabemos dónde le han puesto. ^[**20:2** Juan 13,23] 
 
 
-\bibverse{3} Y salió Pedro, y el otro discípulo, y vinieron al sepulcro. \bibverse{4} Y corrían los dos juntos; mas el otro discípulo corrió más presto que Pedro, y llegó primero al sepulcro. \bibverse{5} Y bajándose á mirar, vió los lienzos echados; mas no entró. \bibverse{6} Llegó luego Simón Pedro siguiéndole, y entró en el sepulcro, y vió los lienzos echados, \bibverse{7} Y el sudario, que había estado sobre su cabeza, no puesto con los lienzos, sino envuelto en un lugar aparte. \bibverse{8} Y entonces entró también el otro discípulo, que había venido primero al sepulcro, y vió, y creyó. \bibverse{9} Porque aun no sabían la Escritura, que era necesario que él resucitase de los muertos. ^[**20:9** Luc 24,25-27; Hech 2,24-32; 1Cor 15,4] \bibverse{10} Y volvieron los discípulos á los suyos. 
-
-
+\bibleverse{3} Y salió Pedro, y el otro discípulo, y vinieron al sepulcro. \bibleverse{4} Y corrían los dos juntos; mas el otro discípulo corrió más presto que Pedro, y llegó primero al sepulcro. \bibleverse{5} Y bajándose á mirar, vió los lienzos echados; mas no entró. \bibleverse{6} Llegó luego Simón Pedro siguiéndole, y entró en el sepulcro, y vió los lienzos echados, \bibleverse{7} Y el sudario, que había estado sobre su cabeza, no puesto con los lienzos, sino envuelto en un lugar aparte. \bibleverse{8} Y entonces entró también el otro discípulo, que había venido primero al sepulcro, y vió, y creyó. \bibleverse{9} Porque aun no sabían la Escritura, que era necesario que él resucitase de los muertos. ^[**20:9** Luc 24,25-27; Hech 2,24-32; 1Cor 15,4] \bibleverse{10} Y volvieron los discípulos á los suyos. 
 
 
 ## Aparición de Jesús a María Magdalena
-\bibverse{11} Empero María estaba fuera llorando junto al sepulcro: y estando llorando, bajóse á mirar el sepulcro; \bibverse{12} Y vió dos ángeles en ropas blancas que estaban sentados, el uno á la cabecera, y el otro á los pies, donde el cuerpo de Jesús había sido puesto. \bibverse{13} Y dijéronle: Mujer, ¿por qué lloras? Díceles: Porque se han llevado á mi Señor, y no sé dónde le han puesto. 
+\bibleverse{11} Empero María estaba fuera llorando junto al sepulcro: y estando llorando, bajóse á mirar el sepulcro; \bibleverse{12} Y vió dos ángeles en ropas blancas que estaban sentados, el uno á la cabecera, y el otro á los pies, donde el cuerpo de Jesús había sido puesto. \bibleverse{13} Y dijéronle: Mujer, ¿por qué lloras? Díceles: Porque se han llevado á mi Señor, y no sé dónde le han puesto. 
 
+\bibleverse{14} Y como hubo dicho esto, volvióse atrás, y vió á Jesús que estaba allí; mas no sabía que era Jesús. 
 
-\bibverse{14} Y como hubo dicho esto, volvióse atrás, y vió á Jesús que estaba allí; mas no sabía que era Jesús. 
+\bibleverse{15} Dícele Jesús: Mujer, ¿por qué lloras? ¿á quién buscas? Ella, pensando que era el hortelano, dícele: Señor, si tú lo has llevado, dime dónde lo has puesto, y yo lo llevaré. 
 
+\bibleverse{16} Dícele Jesús: ¡María! Volviéndose ella, dícele: ¡Rabboni! que quiere decir, Maestro. 
 
-\bibverse{15} Dícele Jesús: Mujer, ¿por qué lloras? ¿á quién buscas? Ella, pensando que era el hortelano, dícele: Señor, si tú lo has llevado, dime dónde lo has puesto, y yo lo llevaré. 
+\bibleverse{17} Dícele Jesús: No me toques: porque aun no he subido á mi Padre: mas ve á mis hermanos, y diles: Subo á mi Padre y á vuestro Padre, á mi Dios y á vuestro Dios. 
 
-
-\bibverse{16} Dícele Jesús: ¡María! Volviéndose ella, dícele: ¡Rabboni! que quiere decir, Maestro. 
-
-
-\bibverse{17} Dícele Jesús: No me toques: porque aun no he subido á mi Padre: mas ve á mis hermanos, y diles: Subo á mi Padre y á vuestro Padre, á mi Dios y á vuestro Dios. 
-
-
-\bibverse{18} Fué María Magdalena dando las nuevas á los discípulos de que había visto al Señor, y que él le había dicho estas cosas. 
-
-
+\bibleverse{18} Fué María Magdalena dando las nuevas á los discípulos de que había visto al Señor, y que él le había dicho estas cosas. 
 
 ## Jesús y los discípulos en la noche del domingo de Pascua
-\bibverse{19} Y como fué tarde aquel día, el primero de la semana, y estando las puertas cerradas donde los discípulos estaban juntos por miedo de los Judíos, vino Jesús, y púsose en medio, y díjoles: Paz á vosotros. 
+\bibleverse{19} Y como fué tarde aquel día, el primero de la semana, y estando las puertas cerradas donde los discípulos estaban juntos por miedo de los Judíos, vino Jesús, y púsose en medio, y díjoles: Paz á vosotros. 
 
-
-\bibverse{20} Y como hubo dicho esto, mostróles las manos y el costado. Y los discípulos se gozaron viendo al Señor. ^[**20:20** 1Jn 1,1] \bibverse{21} Entonces les dijo Jesús otra vez: Paz á vosotros; como me envió el Padre, así también yo os envío. ^[**20:21** Juan 17,18] \bibverse{22} Y como hubo dicho esto, sopló, y díjoles: Tomad el Espíritu Santo: \bibverse{23} A los que remitiereis los pecados, les son remitidos: á quienes los retuviereis, serán retenidos. 
-
-^[**20:23** Mat 18,16] 
+\bibleverse{20} Y como hubo dicho esto, mostróles las manos y el costado. Y los discípulos se gozaron viendo al Señor. ^[**20:20** 1Jn 1,1] \bibleverse{21} Entonces les dijo Jesús otra vez: Paz á vosotros; como me envió el Padre, así también yo os envío. ^[**20:21** Juan 17,18] \bibleverse{22} Y como hubo dicho esto, sopló, y díjoles: Tomad el Espíritu Santo: \bibleverse{23} A los que remitiereis los pecados, les son remitidos: á quienes los retuviereis, serán retenidos. ^[**20:23** Mat 18,16] 
   
 
 ## Los discípulos con Tomás
-\bibverse{24} Empero Tomás, uno de los doce, que se dice el Dídimo, no estaba con ellos cuando Jesús vino. ^[**20:24** Juan 11,16; Juan 14,5; Juan 21,2] \bibverse{25} Dijéronle pues los otros discípulos: Al Señor hemos visto. Y él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré. 
-^[**20:25** Juan 19,34] 
+\bibleverse{24} Empero Tomás, uno de los doce, que se dice el Dídimo, no estaba con ellos cuando Jesús vino. ^[**20:24** Juan 11,16; Juan 14,5; Juan 21,2] \bibleverse{25} Dijéronle pues los otros discípulos: Al Señor hemos visto. Y él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré. ^[**20:25** Juan 19,34] 
  
 
-\bibverse{26} Y ocho días después, estaban otra vez sus discípulos dentro, y con ellos Tomás. Vino Jesús, las puertas cerradas, y púsose en medio, y dijo: Paz á vosotros. \bibverse{27} Luego dice á Tomás: Mete tu dedo aquí, y ve mis manos: y alarga acá tu mano, y métela en mi costado: y no seas incrédulo, sino fiel. 
+\bibleverse{26} Y ocho días después, estaban otra vez sus discípulos dentro, y con ellos Tomás. Vino Jesús, las puertas cerradas, y púsose en medio, y dijo: Paz á vosotros. \bibleverse{27} Luego dice á Tomás: Mete tu dedo aquí, y ve mis manos: y alarga acá tu mano, y métela en mi costado: y no seas incrédulo, sino fiel. 
+
+\bibleverse{28} Entonces Tomás respondió, y díjole: ¡Señor mío, y Dios mío! 
+
+\bibleverse{29} Dícele Jesús: Porque me has visto, Tomás, creiste: bienaventurados los que no vieron y creyeron. ^[**20:29** 1Pe 1,8; Heb 11,1] 
 
 
-\bibverse{28} Entonces Tomás respondió, y díjole: ¡Señor mío, y Dios mío! 
-
-
-\bibverse{29} Dícele Jesús: Porque me has visto, Tomás, creiste: bienaventurados los que no vieron y creyeron. 
-^[**20:29** 1Pe 1,8; Heb 11,1] 
-
-
-\bibverse{30} Y también hizo Jesús muchas otras señales en presencia de sus discípulos, que no están escritas en este libro. ^[**20:30** Juan 21,24-25] \bibverse{31} Estas empero son escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre. ^[**20:31** 1Jn 5,13] 
+\bibleverse{30} Y también hizo Jesús muchas otras señales en presencia de sus discípulos, que no están escritas en este libro. ^[**20:30** Juan 21,24-25] \bibleverse{31} Estas empero son escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre. ^[**20:31** 1Jn 5,13] 
   
 
 ## Jesús se revela a sus discípulos en el lago de Tiberíades
 # 21 
-\bibverse{1} Después se manifestó Jesús otra vez á sus discípulos en la mar de Tiberias; y manifestóse de esta manera. \bibverse{2} Estaban juntos Simón Pedro, y Tomás, llamado el Dídimo, y Natanael, el que era de Caná de Galilea, y los hijos de Zebedeo, y otros dos de sus discípulos. \bibverse{3} Díceles Simón: A pescar voy. Dícenle: Vamos nosotros también contigo. Fueron, y subieron en una barca; y aquella noche no cogieron nada. 
+\bibleverse{1} Después se manifestó Jesús otra vez á sus discípulos en la mar de Tiberias; y manifestóse de esta manera. \bibleverse{2} Estaban juntos Simón Pedro, y Tomás, llamado el Dídimo, y Natanael, el que era de Caná de Galilea, y los hijos de Zebedeo, y otros dos de sus discípulos. \bibleverse{3} Díceles Simón: A pescar voy. Dícenle: Vamos nosotros también contigo. Fueron, y subieron en una barca; y aquella noche no cogieron nada. 
 
-
-\bibverse{4} Y venida la mañana, Jesús se puso á la ribera: mas los discípulos no entendieron que era Jesús. ^[**21:4** Juan 20,14; Luc 24,16] \bibverse{5} Y díjoles: Mozos, ¿tenéis algo de comer? Respondiéronle: No. 
-^[**21:5** Luc 24,41] 
+\bibleverse{4} Y venida la mañana, Jesús se puso á la ribera: mas los discípulos no entendieron que era Jesús. ^[**21:4** Juan 20,14; Luc 24,16] \bibleverse{5} Y díjoles: Mozos, ¿tenéis algo de comer? Respondiéronle: No. ^[**21:5** Luc 24,41] 
  
 
-\bibverse{6} Y él les dice: Echad la red á la mano derecha del barco, y hallaréis. Entonces la echaron, y no la podían en ninguna manera sacar, por la multitud de los peces. 
-^[**21:6** Luc 5,4-7] 
+\bibleverse{6} Y él les dice: Echad la red á la mano derecha del barco, y hallaréis. Entonces la echaron, y no la podían en ninguna manera sacar, por la multitud de los peces. ^[**21:6** Luc 5,4-7] 
 
 
-\bibverse{7} Entonces aquel discípulo, al cual amaba Jesús, dijo á Pedro: El Señor es. Y Simón Pedro, como oyó que era el Señor, ciñóse la ropa, porque estaba desnudo, y echóse á la mar. 
-^[**21:7** Juan 13,23] 
+\bibleverse{7} Entonces aquel discípulo, al cual amaba Jesús, dijo á Pedro: El Señor es. Y Simón Pedro, como oyó que era el Señor, ciñóse la ropa, porque estaba desnudo, y echóse á la mar. ^[**21:7** Juan 13,23] 
 
 
-\bibverse{8} Y los otros discípulos vinieron con el barco (porque no estaban lejos de tierra sino como doscientos codos), trayendo la red de peces. \bibverse{9} Y como descendieron á tierra, vieron ascuas puestas, y un pez encima de ellas, y pan. \bibverse{10} Díceles Jesús: Traed de los peces que cogisteis ahora. 
+\bibleverse{8} Y los otros discípulos vinieron con el barco (porque no estaban lejos de tierra sino como doscientos codos), trayendo la red de peces. \bibleverse{9} Y como descendieron á tierra, vieron ascuas puestas, y un pez encima de ellas, y pan. \bibleverse{10} Díceles Jesús: Traed de los peces que cogisteis ahora. 
 
+\bibleverse{11} Subió Simón Pedro, y trajo la red á tierra, llena de grandes peces, ciento cincuenta y tres: y siendo tantos, la red no se rompió. 
 
-\bibverse{11} Subió Simón Pedro, y trajo la red á tierra, llena de grandes peces, ciento cincuenta y tres: y siendo tantos, la red no se rompió. 
+\bibleverse{12} Díceles Jesús: Venid, comed. Y ninguno de los discípulos osaba preguntarle: ¿Tú, quién eres? sabiendo que era el Señor. 
 
-
-\bibverse{12} Díceles Jesús: Venid, comed. Y ninguno de los discípulos osaba preguntarle: ¿Tú, quién eres? sabiendo que era el Señor. 
-
-
-\bibverse{13} Viene pues Jesús, y toma el pan, y les da; y asimismo del pez. ^[**21:13** Juan 6,11] \bibverse{14} Esta era ya la tercera vez que Jesús se manifestó á sus discípulos, habiendo resucitado de los muertos. 
-
-
+\bibleverse{13} Viene pues Jesús, y toma el pan, y les da; y asimismo del pez. ^[**21:13** Juan 6,11] \bibleverse{14} Esta era ya la tercera vez que Jesús se manifestó á sus discípulos, habiendo resucitado de los muertos. 
 
 
 ## Trus reinstalado en su cargo pastoral; Profecía sobre el fin de la vida de Pedro y el discípulo amado
-\bibverse{15} Y cuando hubieron comido, Jesús dijo á Simón Pedro: Simón, hijo de Jonás, ¿me amas más que éstos? Dícele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis corderos. 
+\bibleverse{15} Y cuando hubieron comido, Jesús dijo á Simón Pedro: Simón, hijo de Jonás, ¿me amas más que éstos? Dícele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis corderos. 
+
+\bibleverse{16} Vuélvele á decir la segunda vez: Simón, hijo de Jonás, ¿me amas? Respóndele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis ovejas. ^[**21:16** 1Pe 5,2; 1Pe 5,4] 
 
 
-\bibverse{16} Vuélvele á decir la segunda vez: Simón, hijo de Jonás, ¿me amas? Respóndele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis ovejas. 
-^[**21:16** 1Pe 5,2; 1Pe 5,4] 
+\bibleverse{17} Dícele la tercera vez: Simón, hijo de Jonás, ¿me amas? Entristecióse Pedro de que le dijese la tercera vez: ¿Me amas? y dícele: Señor, tú sabes todas las cosas; tú sabes que te amo. Dícele Jesús: Apacienta mis ovejas. ^[**21:17** Juan 13,38; Juan 16,30] 
 
 
-\bibverse{17} Dícele la tercera vez: Simón, hijo de Jonás, ¿me amas? Entristecióse Pedro de que le dijese la tercera vez: ¿Me amas? y dícele: Señor, tú sabes todas las cosas; tú sabes que te amo. Dícele Jesús: Apacienta mis ovejas. 
-^[**21:17** Juan 13,38; Juan 16,30] 
+\bibleverse{18} De cierto, de cierto te digo: Cuando eras más mozo, te ceñías, é ibas donde querías; mas cuando ya fueres viejo, extenderás tus manos, y te ceñirá otro, y te llevará á donde no quieras. 
+
+\bibleverse{19} Y esto dijo, dando á entender con qué muerte había de glorificar á Dios. Y dicho esto, dícele: Sígueme. ^[**21:19** Juan 13,36] 
 
 
-\bibverse{18} De cierto, de cierto te digo: Cuando eras más mozo, te ceñías, é ibas donde querías; mas cuando ya fueres viejo, extenderás tus manos, y te ceñirá otro, y te llevará á donde no quieras. 
+\bibleverse{20} Volviéndose Pedro, ve á aquel discípulo al cual amaba Jesús, que seguía, el que también se había recostado á su pecho en la cena, y le había dicho: Señor, ¿quién es el que te ha de entregar? ^[**21:20** Juan 13,23; Juan 13,25] \bibleverse{21} Así que Pedro vió á éste, dice á Jesús: Señor, ¿y éste, qué? 
 
 
-\bibverse{19} Y esto dijo, dando á entender con qué muerte había de glorificar á Dios. Y dicho esto, dícele: Sígueme. 
-^[**21:19** Juan 13,36] 
+\bibleverse{22} Dícele Jesús: Si quiero que él quede hasta que yo venga, ¿qué á tí? Sígueme tú. \bibleverse{23} Salió entonces este dicho entre los hermanos, que aquel discípulo no había de morir. Mas Jesús no le dijo, No morirá; sino: Si quiero que él quede hasta que yo venga ¿qué á ti? 
 
-
-\bibverse{20} Volviéndose Pedro, ve á aquel discípulo al cual amaba Jesús, que seguía, el que también se había recostado á su pecho en la cena, y le había dicho: Señor, ¿quién es el que te ha de entregar? ^[**21:20** Juan 13,23; Juan 13,25] \bibverse{21} Así que Pedro vió á éste, dice á Jesús: Señor, ¿y éste, qué? 
-
-
-
-\bibverse{22} Dícele Jesús: Si quiero que él quede hasta que yo venga, ¿qué á tí? Sígueme tú. \bibverse{23} Salió entonces este dicho entre los hermanos, que aquel discípulo no había de morir. Mas Jesús no le dijo, No morirá; sino: Si quiero que él quede hasta que yo venga ¿qué á ti? 
-
-
-\bibverse{24} Este es aquel discípulo que da testimonio de estas cosas, y escribió estas cosas: y sabemos que su testimonio es verdadero. ^^ \bibverse{25} Y hay también otras muchas cosas que hizo Jesús, que si se escribiesen cada una por sí, ni aun en el mundo pienso que cabrían los libros que se habrían de escribir. Amén. 
+\bibleverse{24} Este es aquel discípulo que da testimonio de estas cosas, y escribió estas cosas: y sabemos que su testimonio es verdadero. \bibleverse{25} Y hay también otras muchas cosas que hizo Jesús, que si se escribiesen cada una por sí, ni aun en el mundo pienso que cabrían los libros que se habrían de escribir. Amén. 

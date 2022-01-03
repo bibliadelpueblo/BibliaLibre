@@ -2,7 +2,7 @@
 
 #### a) Zuschrift und Segensgruß
 
-__1__
+ # 1
 ^1^ Ich, Paulus, ein Gefangener (um) Christi Jesu (willen), und der Bruder Timotheus senden dem geliebten Philemon, unserm Mitarbeiter,
 ^2^ sowie der Schwester Appia und unserm Mitstreiter Archippus nebst der Gemeinde in deinem Hause unsern Gruß:
 ^3^ Gnade (sei mit) euch und Friede von Gott unserm Vater und dem Herrn Jesus Christus!

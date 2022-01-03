@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BibleMarkdown": {
+      "commandName": "Project",
+      "commandLineArgs": "-f -replace /HErrn/[Herrn]{.smallcaps}/HErr/[Herr]{.smallcaps}",
+      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\German.Luther1912"
+    }
+  }
+}

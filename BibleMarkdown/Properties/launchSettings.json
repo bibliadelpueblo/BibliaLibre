@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "BibleMarkdown": {
-      "commandName": "Project",
-      "commandLineArgs": "-f",
-      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\German.Luther1912"
-    }
-  }
-}

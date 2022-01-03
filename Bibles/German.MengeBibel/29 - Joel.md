@@ -4,7 +4,7 @@
 
 ### 1. Überschrift; Aufruf zur Wehklage über die von den Heuschrecken angerichtete Verwüstung
 
-__1__
+ # 1
 ^1^(Dies ist) das Wort des HERRN, das an Joel, den Sohn Pethuels, ergangen ist:
 
 ^2^Hört dies, ihr Alten<sup title="oder: Ältesten = Vorsteher">&#x2732;</sup>, und merkt auf, ihr Bewohner des Landes allesamt! Ist jemals etwas derartiges bei euren Lebzeiten oder in den Tagen eurer Väter vorgekommen?
@@ -34,7 +34,7 @@ __1__
 
 ### 3. Unwiderstehlicher Angriff der Heuschrecken auf das Land
 
-__2__
+ # 2
 ^1^Stoßt in die Posaune auf dem Zion und blast<sup title="oder: schlagt">&#x2732;</sup> Lärm auf meinem heiligen Berge, daß alle Bewohner des Landes erzittern! Denn der Tag des HERRN kommt heran, ja, er steht nahe bevor,
 ^2^ein Tag der Finsternis und des Dunkels, ein Tag des Gewölks und der Wolkennacht! Wie Morgengrauen liegt über die Berge ausgebreitet ein großes, starkes Kriegsvolk, wie seinesgleichen von Ewigkeit her nicht gewesen ist und in Zukunft keines wieder sein wird bis in die Jahre der fernsten Geschlechter.
 ^3^Fressendes Feuer geht vor ihm her, und hinter ihm drein lodert Lohe<sup title="= lodern Flammen">&#x2732;</sup>; wie der Garten Eden liegt das Land vor ihm, und hinter ihm eine öde Wüste; und dabei ist ein Entrinnen vor ihm nicht möglich.
@@ -75,7 +75,7 @@ __2__
 
 ### 1. Die Ausgießung des göttlichen Geistes über das ganze Volk und die Vorzeichen des Weltgerichts
 
-__3__
+ # 3
 ^1^»Und danach wird es geschehen, daß ich meinen Geist über alles Fleisch ausgieße, so daß eure Söhne und eure Töchter prophetisch reden, eure Greise Offenbarungen in Träumen empfangen, eure jungen Leute Gesichte schauen;
 ^2^ja auch über die Knechte und Mägde will ich in jenen Tagen meinen Geist ausgießen;
 ^3^und ich will Wunderzeichen am Himmel und auf der Erde erscheinen lassen; nämlich Blut, Feuer und Rauchsäulen:
@@ -84,7 +84,7 @@ __3__
 
 ### 2. Der Tag des Herrn als Gerichtstag für die Heidenvölker und als Verherrlichung der Zionsgemeinde
 
-__4__
+ # 4
 ^1^»Denn wisset wohl: in jenen Tagen und zu jener Zeit, wo ich das Geschick Judas und Jerusalems wenden werde,
 ^2^da will ich alle Heidenvölker versammeln und sie in das Tal Josaphat hinabführen, um dort mit ihnen ins Gericht zu gehen wegen Israels, meines Volkes und meines Eigentums, weil sie es unter die Heiden zerstreut und mein Land aufgeteilt haben;
 ^3^und über mein Volk haben sie das Los geworfen und Knaben<sup title="oder: Jünglinge">&#x2732;</sup> als Preis für Lustdirnen hingegeben und die Mädchen um Wein verkauft, den sie vertrunken haben.

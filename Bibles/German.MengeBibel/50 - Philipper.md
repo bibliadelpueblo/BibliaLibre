@@ -2,7 +2,7 @@
 
 #### Zuschrift und Segensgruß
 
-__1__
+ # 1
 ^1^ Wir, Paulus und Timotheus, Knechte Christi Jesu, entbieten allen Heiligen in Christus Jesus, die in Philippi sind, sowie auch den dortigen Vorstehern und Gemeindedienern<sup title="oder: Gehilfen">&#x2732;</sup> unsern Gruß:
 ^2^ Gnade sei (mit) euch<sup title="oder: werde euch zuteil">&#x2732;</sup> und Friede von Gott unserm Vater und vom Herrn Jesus Christus!
 
@@ -53,7 +53,7 @@ Aber (auch fernerhin) werde ich mich freuen;
 
 #### b) Mahnung zur Einigkeit innerhalb der Gemeinde, zur Selbstlosigkeit und Leidensbereitschaft nach dem Vorbild Christi
 
-__2__
+ # 2
 ^1^ Wenn nun eine in Christus ausgesprochene Ermahnung, wenn ein liebevoller Zuspruch, wenn eine Gemeinschaft des Geistes, wenn inniges Mitgefühl und Erbarmen (noch vorhanden sind, oder: etwas gelten),
 ^2^ so macht meine Freude dadurch vollkommen, daß ihr eines Sinnes seid, indem ihr die gleiche Liebe hegt und einmütig dem gleichen Ziel zustrebt
 ^3^ und nichts aus Rechthaberei<sup title="oder: Selbstsucht">&#x2732;</sup> oder eitlem Ehrgeiz tut, sondern in Demut einer den andern höher als sich selbst erachtet;
@@ -97,7 +97,7 @@ __2__
 
 #### a) Aufruf zur Freude im Herrn; Wertlosigkeit der äußeren Vorzüge und der Gesetzesgerechtigkeit im Vergleich mit der Erkenntnis des Heils in Christus; Warnung vor den judaistischen Irrlehrern
 
-__3__
+ # 3
 ^1^ Im übrigen, meine Brüder, freuet euch im Herrn! Euch (nochmals) dasselbe zu schreiben, verursacht mir keine Beschwerde, euch aber verleiht es Festigkeit.
 
 ^2^ Seht euch die Hunde an, seht euch die bösen Arbeiter an, seht euch die (Männer der) Verschneidung<sup title="vgl. Gal 5,12">&#x2732;</sup> an!
@@ -127,7 +127,7 @@ __3__
 ^20^ Unser Bürgertum dagegen ist im Himmel, von wo wir auch den Herrn Jesus Christus als Retter erwarten,
 ^21^ der unsern niedrigen<sup title="oder: den uns erniedrigenden">&#x2732;</sup> Leib umwandeln wird zur Gleichgestalt mit seinem Herrlichkeitsleibe vermöge der Kraft, mit der er auch alle Dinge<sup title="oder: das ganze Weltall">&#x2732;</sup> sich zu unterwerfen vermag.
 
-__4__
+ # 4
 ^1^ Daher, meine geliebten Brüder, nach denen ich mich sehne, ihr meine Freude und meine Krone<sup title="oder: mein Ruhmeskranz">&#x2732;</sup>: stehet in dieser Weise fest im Herrn, Geliebte!
 
 #### d) Mahnung an einzelne Gemeindeglieder; Aufforderung zur Freude im Herrn; Verheißung des Friedens Gottes als des Lohnes anhaltenden Gebets und tugendhaften Wandels
