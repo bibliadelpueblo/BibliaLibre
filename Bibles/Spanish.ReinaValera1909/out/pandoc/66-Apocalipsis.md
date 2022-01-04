@@ -25,28 +25,28 @@
 
 ## Carta a la iglesia en Éfeso: “¡No dejes el primer amor!”
 # 2 
-\bibleverse{1} Escribe al ángel de la iglesia en EFESO: El que tiene las siete estrellas en su diestra, el cual anda en medio de los siete candeleros de oro, dice estas cosas: ^[**2:1** Hech 18,19] 
+\bibleverse{1} Escribe al ángel de la iglesia en Efeso: El que tiene las siete estrellas en su diestra, el cual anda en medio de los siete candeleros de oro, dice estas cosas: ^[**2:1** Hech 18,19] 
 
 
 \bibleverse{2} Yo sé tus obras, y tu trabajo y paciencia; y que tú no puedes sufrir los malos, y has probado á los que se dicen ser apóstoles, y no lo son, y los has hallado mentirosos; ^[**2:2** 1Jn 4,1] \bibleverse{3} Y has sufrido, y has tenido paciencia, y has trabajado por mi nombre, y no has desfallecido. \bibleverse{4} Pero tengo contra ti que has dejado tu primer amor. ^[**2:4** 1Tim 5,12] \bibleverse{5} Recuerda por tanto de dónde has caído, y arrepiéntete, y haz las primeras obras; pues si no, vendré presto á ti, y quitaré tu candelero de su lugar, si no te hubieres arrepentido. \bibleverse{6} Mas tienes esto, que aborreces los hechos de los Nicolaítas; los cuales yo también aborrezco. \bibleverse{7} El que tiene oído, oiga lo que el Espíritu dice á las iglesias. Al que venciere, daré á comer del árbol de la vida, el cual está en medio del paraíso de Dios. ^[**2:7** Apoc 22,2; Gén 2,9] 
   
 
 ## Carta a la comunidad de Esmirna: “¡Sé fiel hasta la muerte!”
-\bibleverse{8} Y escribe al ángel de la iglesia en SMIRNA: El primero y postrero, que fué muerto, y vivió, dice estas cosas: ^[**2:8** Apoc 1,11; Apoc 1,18] 
+\bibleverse{8} Y escribe al ángel de la iglesia en Smirna: El primero y postrero, que fué muerto, y vivió, dice estas cosas: ^[**2:8** Apoc 1,11; Apoc 1,18] 
 
 
 \bibleverse{9} Yo sé tus obras, y tu tribulación, y tu pobreza (pero tú eres rico), y la blasfemia de los que se dicen ser Judíos, y no lo son, mas son sinagoga de Satanás. ^[**2:9** Sant 2,5; Apoc 3,9] \bibleverse{10} No tengas ningún temor de las cosas que has de padecer. He aquí, el diablo ha de enviar algunos de vosotros á la cárcel, para que seáis probados, y tendréis tribulación de diez días. Sé fiel hasta la muerte, y yo te daré la corona de la vida. ^[**2:10** Mat 10,19; Mat 10,28; Apoc 3,11; 2Tim 4,8] \bibleverse{11} El que tiene oído, oiga lo que el Espíritu dice á las iglesias. El que venciere, no recibirá daño de la muerte segunda. ^[**2:11** Apoc 20,14] 
   
 
 ## Carta a la parroquia de Pérgamo: “¡No sigas al mundo vanidoso!”
-\bibleverse{12} Y escribe al ángel de la iglesia en PÉRGAMO: El que tiene la espada aguda de dos filos, dice estas cosas: ^[**2:12** Heb 4,12] 
+\bibleverse{12} Y escribe al ángel de la iglesia en Pérgamo: El que tiene la espada aguda de dos filos, dice estas cosas: ^[**2:12** Heb 4,12] 
 
 
 \bibleverse{13} Yo sé tus obras, y dónde moras, donde está la silla de Satanás; y retienes mi nombre, y no has negado mi fe, aun en los días en que fué Antipas mi testigo fiel, el cual ha sido muerto entre vosotros, donde Satanás mora. \bibleverse{14} Pero tengo unas pocas cosas contra ti: porque tú tienes ahí los que tienen la doctrina de Balaam, el cual enseñaba á Balac á poner escándalo delante de los hijos de Israel, á comer de cosas sacrificadas á los ídolos, y á cometer fornicación. ^[**2:14** Núm 31,16; Jds 1,11; 2Pe 2,15] \bibleverse{15} Así también tú tienes á los que tienen la doctrina de los Nicolaítas, lo cual yo aborrezco. \bibleverse{16} Arrepiéntete, porque de otra manera vendré á ti presto, y pelearé contra ellos con la espada de mi boca. \bibleverse{17} El que tiene oído, oiga lo que el Espíritu dice á las iglesias. Al que venciere, daré á comer del maná escondido, y le daré una piedrecita blanca, y en la piedrecita un nombre nuevo escrito, el cual ninguno conoce sino aquel que lo recibe. 
 
 
 ## Carta a la iglesia de Tiatira: “¡Examina sabiamente todo espíritu!”
-\bibleverse{18} Y escribe al ángel de la iglesia en TIATIRA: El Hijo de Dios, que tiene sus ojos como llama de fuego, y sus pies semejantes al latón fino, dice estas cosas: ^[**2:18** Hech 16,14; Apoc 1,14-15] 
+\bibleverse{18} Y escribe al ángel de la iglesia en Tiatira: El Hijo de Dios, que tiene sus ojos como llama de fuego, y sus pies semejantes al latón fino, dice estas cosas: ^[**2:18** Hech 16,14; Apoc 1,14-15] 
 
 
 \bibleverse{19} Yo he conocido tus obras, y caridad, y servicio, y fe, y tu paciencia, y que tus obras postreras son más que las primeras. \bibleverse{20} Mas tengo unas pocas cosas contra ti: porque permites aquella mujer Jezabel (que se dice profetisa) enseñar, y engañar á mis siervos, á fornicar, y á comer cosas ofrecidas á los ídolos. \bibleverse{21} Y le he dado tiempo para que se arrepienta de la fornicación; y no se ha arrepentido. \bibleverse{22} He aquí, yo la echo en cama, y á los que adulteran con ella, en muy grande tribulación, si no se arrepintieren de sus obras: \bibleverse{23} Y mataré á sus hijos con muerte; y todas las iglesias sabrán que yo soy el que escudriño los riñones y los corazones: y daré á cada uno de vosotros según sus obras. ^[**2:23** Sal 7,10; Jer 17,10] \bibleverse{24} Pero yo digo á vosotros, y á los demás que estáis en Tiatira, cualesquiera que no tienen esta doctrina, y que no han conocido las profundidades de Satanás, como dicen: Yo no enviaré sobre vosotros otra carga. \bibleverse{25} Empero la que tenéis, tenedla hasta que yo venga. \bibleverse{26} Y al que hubiere vencido, y hubiere guardado mis obras hasta el fin, yo le daré potestad sobre las gentes; \bibleverse{27} Y las regirá con vara de hierro, y serán quebrantados como vaso de alfarero, como también yo he recibido de mi Padre: ^[**2:27** Sal 2,8-9] \bibleverse{28} Y le daré la estrella de la mañana. \bibleverse{29} El que tiene oído, oiga lo que el Espíritu dice á las iglesias.
@@ -54,20 +54,20 @@
 
 ## Carta a la comunidad de Sardis: “¡No estés muerto como los demás!”
 # 3 
-\bibleverse{1} Y escribe al ángel de la iglesia en SARDIS: El que tiene los siete Espíritus de Dios, y las siete estrellas, dice estas cosas: Yo conozco tus obras, que tienes nombre que vives, y estás muerto. 
+\bibleverse{1} Y escribe al ángel de la iglesia en Sardis: El que tiene los siete Espíritus de Dios, y las siete estrellas, dice estas cosas: Yo conozco tus obras, que tienes nombre que vives, y estás muerto. 
 
 \bibleverse{2} Sé vigilante y confirma las otras cosas que están para morir; porque no he hallado tus obras perfectas delante de Dios. ^[**3:2** Luc 22,32] \bibleverse{3} Acuérdate pues de lo que has recibido y has oído, y guárdalo, y arrepiéntete. Y si no velares, vendré á ti como ladrón, y no sabrás en qué hora vendré á ti. ^[**3:3** 1Tes 5,2] \bibleverse{4} Mas tienes unas pocas personas en Sardis que no han ensuciado sus vestiduras: y andarán conmigo en vestiduras blancas; porque son dignos. ^[**3:4** Jds 1,23] \bibleverse{5} El que venciere, será vestido de vestiduras blancas; y no borraré su nombre del libro de la vida, y confesaré su nombre delante de mi Padre, y delante de sus ángeles. ^[**3:5** Apoc 7,13; Mat 10,32; Luc 10,20] \bibleverse{6} El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
    
 
 ## Carta a la Iglesia de Filadelfia: “¡Aférrate a tu corona!”
-\bibleverse{7} Y escribe al ángel de la iglesia en FILADELFIA: Estas cosas dice el Santo, el Verdadero, el que tiene la llave de David, el que abre y ninguno cierra, y cierra y ninguno abre: ^[**3:7** Is 22,22] 
+\bibleverse{7} Y escribe al ángel de la iglesia en Filadelfia: Estas cosas dice el Santo, el Verdadero, el que tiene la llave de David, el que abre y ninguno cierra, y cierra y ninguno abre: ^[**3:7** Is 22,22] 
 
 
 \bibleverse{8} Yo conozco tus obras: he aquí, he dado una puerta abierta delante de ti, la cual ninguno puede cerrar; porque tienes un poco de potencia, y has guardado mi palabra, y no has negado mi nombre. \bibleverse{9} He aquí, yo doy de la sinagoga de Satanás, los que se dicen ser Judíos, y no lo son, mas mienten; he aquí, yo los constreñiré á que vengan y adoren delante de tus pies, y sepan que yo te he amado. \bibleverse{10} Porque has guardado la palabra de mi paciencia, yo también te guardaré de la hora de la tentación que ha de venir en todo el mundo, para probar á los que moran en la tierra. ^[**3:10** Apoc 14,12; Mat 6,13] \bibleverse{11} He aquí, yo vengo presto; retén lo que tienes, para que ninguno tome tu corona. ^[**3:11** Apoc 2,10] \bibleverse{12} Al que venciere, yo lo haré columna en el templo de mi Dios, y nunca más saldrá fuera; y escribiré sobre él el nombre de mi Dios, y el nombre de la ciudad de mi Dios, la nueva Jerusalem, la cual desciende del cielo de con mi Dios, y mi nombre nuevo. ^[**3:12** Apoc 14,1; Apoc 22,4; Apoc 21,2] \bibleverse{13} El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
   
 
 ## Carta a la congregación de Laodicea: “¡No seas tibio y lento para encontrarte!”
-\bibleverse{14} Y escribe al ángel de la iglesia en LAODICEA: He aquí dice el Amén, el testigo fiel y verdadero, el principio de la creación de Dios: 
+\bibleverse{14} Y escribe al ángel de la iglesia en Laodicea: He aquí dice el Amén, el testigo fiel y verdadero, el principio de la creación de Dios: 
 
 \bibleverse{15} Yo conozco tus obras, que ni eres frío, ni caliente. ¡Ojalá fueses frío, ó caliente! \bibleverse{16} Mas porque eres tibio, y no frío ni caliente, te vomitaré de mi boca. \bibleverse{17} Porque tú dices: Yo soy rico, y estoy enriquecido, y no tengo necesidad de ninguna cosa; y no conoces que tú eres un cuitado y miserable y pobre y ciego y desnudo; ^[**3:17** 1Cor 3,18; 1Cor 4,8] \bibleverse{18} Yo te amonesto que de mí compres oro afinado en fuego, para que seas hecho rico, y seas vestido de vestiduras blancas, para que no se descubra la vergüenza de tu desnudez; y unge tus ojos con colirio, para que veas. ^[**3:18** Is 55,1] \bibleverse{19} Yo reprendo y castigo á todos los que amo: sé pues celoso, y arrepiéntete. ^[**3:19** Prov 3,12; Heb 12,6; 1Cor 11,32] \bibleverse{20} He aquí, yo estoy á la puerta y llamo: si alguno oyere mi voz y abriere la puerta, entraré á él, y cenaré con él, y él conmigo. ^[**3:20** Juan 14,23] \bibleverse{21} Al que venciere, yo le daré que se siente conmigo en mi trono; así como yo he vencido, y me he sentado con mi Padre en su trono. ^[**3:21** Mat 19,28] \bibleverse{22} El que tiene oído, oiga lo que el Espíritu dice á las iglesias.
      
@@ -317,7 +317,7 @@
 
 ## Descripción de la espléndida pero abominable mujer entronizada sobre la bestia
 # 17 
-\bibleverse{1} Y vino uno de los siete ángeles que tenían las siete copas, y habló conmigo, diciéndome: Ven acá, y te mostraré la condenación de la grande ramera, la cual está sentada sobre muchas aguas: ^[**17:1** Apoc 15,1] \bibleverse{2} Con la cual han fornicado los reyes de la tierra, y los que moran en la tierra se han embriagado con el vino de su fornicación. \bibleverse{3} Y me llevó en Espíritu al desierto; y vi una mujer sentada sobre una bestia bermeja llena de nombres de blasfemia y que tenía siete cabezas y diez cuernos. \bibleverse{4} Y la mujer estaba vestida de púrpura y de escarlata, y dorada con oro, y adornada de piedras preciosas y de perlas, teniendo un cáliz de oro en su mano lleno de abominaciones, y de la suciedad de su fornicación; \bibleverse{5} Y en su frente un nombre escrito: MISTERIO, BABILONIA LA GRANDE, LA MADRE DE LAS FORNICACIONES Y DE LAS ABOMINACIONES DE LA TIERRA. \bibleverse{6} Y vi la mujer embriagada de la sangre de los santos, y de la sangre de los mártires de Jesús: y cuando la vi, quedé maravillado de grande admiración. ^[**17:6** Apoc 18,24] 
+\bibleverse{1} Y vino uno de los siete ángeles que tenían las siete copas, y habló conmigo, diciéndome: Ven acá, y te mostraré la condenación de la grande ramera, la cual está sentada sobre muchas aguas: ^[**17:1** Apoc 15,1] \bibleverse{2} Con la cual han fornicado los reyes de la tierra, y los que moran en la tierra se han embriagado con el vino de su fornicación. \bibleverse{3} Y me llevó en Espíritu al desierto; y vi una mujer sentada sobre una bestia bermeja llena de nombres de blasfemia y que tenía siete cabezas y diez cuernos. \bibleverse{4} Y la mujer estaba vestida de púrpura y de escarlata, y dorada con oro, y adornada de piedras preciosas y de perlas, teniendo un cáliz de oro en su mano lleno de abominaciones, y de la suciedad de su fornicación; \bibleverse{5} Y en su frente un nombre escrito: [Misterio, Babilonia la Grando, la Madre de las Fornicaciones y de las Abominaciones de la Tierra]{.smallcaps}. \bibleverse{6} Y vi la mujer embriagada de la sangre de los santos, y de la sangre de los mártires de Jesús: y cuando la vi, quedé maravillado de grande admiración. ^[**17:6** Apoc 18,24] 
  
 
 ## Descripción del animal de siete cabezas y diez cuernos, así como su destino pasado y futuro
