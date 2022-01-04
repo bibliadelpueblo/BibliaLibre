@@ -367,13 +367,13 @@ namespace BibleMarkdown
 			return;
 		}
 
-		static void CreateVerseFrame(string path)
+		static void CreateVerseStats(string path)
 		{
 			var sources = Directory.EnumerateFiles(path, "*.md")
 				.Where(file => Regex.IsMatch(Path.GetFileName(file), "^([0-9][0-9])"));
 			var verses = new StringBuilder();
 
-			var frames = Path.Combine(path, @"out", "verses.md");
+			var frames = Path.Combine(path, @"out", "verseinfo.md");
 			var frametime = DateTime.MinValue;
 			if (File.Exists(frames)) frametime = File.GetLastWriteTimeUtc(frames);
 
@@ -417,7 +417,7 @@ namespace BibleMarkdown
 				if (verse != 0) verses.Append(verse);
 				totalverses += nverses;
 				nverses = 0;
-				verses.Append("; "); verses.Append(totalverses);
+				verses.Append("; Total verses:"); verses.Append(totalverses);
 				btotal += totalverses;
 				totalverses = 0;
 				nverses = 0;
@@ -431,13 +431,13 @@ namespace BibleMarkdown
 			Log(frames);
 		}
 
-		static void CreateFrame(string path)
+		static void CreateFramework(string path)
 		{
 			var sources = Directory.EnumerateFiles(path, "*.md")
 				.Where(file => Regex.IsMatch(Path.GetFileName(file), "^([0-9][0-9])"));
 			var verses = new StringBuilder();
 			
-			var frames = Path.Combine(path, "out", "frames.md");
+			var frames = Path.Combine(path, "out", "framework.md");
 			var frametime = DateTime.MinValue;
 			if (File.Exists(frames)) frametime = File.GetLastWriteTimeUtc(frames);
 
@@ -597,9 +597,9 @@ namespace BibleMarkdown
 			Log(frames);
 		}
 
-		static void ImportFrame(string path)
+		static void ImportFramework(string path)
 		{
-			var frmfile = Path.Combine(path, @"src\frames.md");
+			var frmfile = Path.Combine(path, @"src\framework.md");
 
 			if (File.Exists(frmfile))
 			{
@@ -711,10 +711,10 @@ namespace BibleMarkdown
 				ImportFromUSFM(path, srcpath);
 				ImportFromTXT(path, srcpath);
 				ImportFromZefania(path, srcpath);
-				ImportFrame(path);
+				ImportFramework(path);
 			}
-			CreateFrame(path);
-			CreateVerseFrame(path);
+			CreateFramework(path);
+			CreateVerseStats(path);
 			var files = Directory.EnumerateFiles(path, "*.md");
 			Task.WaitAll(files.Select(file => ProcessFile(file)).ToArray());
 		}
