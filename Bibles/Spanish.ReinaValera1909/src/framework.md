@@ -299,7 +299,7 @@
 ^1^ ^^ ^4^ ^[**34:1** Gén 30,21] \ ^5^ 
 ### Hemor corteja a Dina de los hijos de Jacob
 ^10^ \ ^12^ ^^ ^[**34:12** Éxod 22,15] 
-### La demanda de los hijos de Jacob es aceptada por los sichêmitas.
+### La demanda de los hijos de Jacob es aceptada por los sichêmitas
 ^17^ \ ^23^ \ ^24^ 
 ### La venganza engañosa de los hijos de Jacob
 ^29^ 
@@ -383,7 +383,7 @@
 ^13^ \ ^14^ 
 ### José interpreta los sueños del faraón
 ^15^ \ ^16^ ^^ ^[**41:16** Gén 40,8] \ ^24^ \ ^32^ 
-### El consejo de José sobre cómo hacer uso de la interpretación de sus sueños
+### El consejo de José por el faraón
 ^36^ 
 ### Joseph fue ascendido a funcionario más alto del estado
 ^40^ ^^ ^41^ ^^ ^42^ ^^ ^45^ ^[**41:40** Ecl 4,14; Sal 113,7; Sal 37,37] ^[**41:41** Hech 7,10] ^[**41:42** Est 3,10; Est 8,2; Dan 5,29] 
