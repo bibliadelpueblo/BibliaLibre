@@ -596,39 +596,39 @@
 ^0^ 
 ### Das Murren des Volkes; die göttliche Erhörung durch die Wachtel- und Mannaspende
 ^2^ ^a^ ^3^ ^b^ ^a^[**16:2** 2Mo 17,2] ^b^[**16:3** 2Mo 14,11]  \ ^4^ ^a^ ^5^ ^a^[**16:4** Joh 6,31; 1Kor 10,3]  \ ^12^ \ ^13^ ^a^ ^15^ ^a^[**16:13** 4Mo 11,31]  
-### Reglas sobre recolección de maná; Moisés explica un fenómeno milagroso que ocurrió
+### Vorschriften über das Einsammeln des Manna; Mose erklärt eine Wundererscheinung, die dabei vorkam
 ^18^ ^a^ ^19^ ^b^ ^23^ ^c^ ^30^ ^a^[**16:18** 2Kor 8,15] ^b^[**16:19** Mt 6,34; Lk 11,3] ^c^[**16:23** 1Mo 2,2-3; 2Mo 20,8]  \ ^35^ ^a^ ^36^ ^a^[**16:35** Jos 5,12]  
 ## 17
 ^0^ 
-### La maravillosa donación de agua de la roca cerca de Massa y Meriba
+### Die wunderbare Wasserspende aus dem Felsen bei Massa und Meriba
 ^2^ \ ^3^ \ ^4^ ^a^ ^a^[**17:4** 4Mo 14,10]  \ ^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^a^[**17:5** 2Mo 7,20] ^b^[**17:6** 4Mo 20,11; 1Kor 10,4] ^c^[**17:7** Ps 95,8-9]  
-### La victoria sobre los amalecitas en Refidim
+### Die Amalekiter bei Rephidim besiegt
 ^9^ ^a^ ^16^ ^a^[**17:9** 4Mo 13,8; 4Mo 13,16]  
 ## 18
 ^0^ 
-### La visita de Jetro a Moisés en el monte de Dios; Nombramiento de jueces
+### Jethros Besuch bei Mose am Gottesberge; Einsetzung von Richtern
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^a^[**18:1** 2Mo 3,1] ^b^[**18:2** 2Mo 4,20] ^c^[**18:3** 2Mo 2,22]  \ ^12^ 
-### La reorganización del poder judicial
+### Die Neuordnung des Gerichtswesens
 ^14^ \ ^18^ ^a^ ^23^ ^a^[**18:18** 4Mo 11,14; 5Mo 1,9]  \ 
 ## 19
 ^0^ 
-### Llegada del pueblo al Sinaí; Elaboración de legislación
+### Ankunft des Volkes am Sinai; Vorbereitung der Gesetzgebung
 ^5^ ^a^ ^6^ ^b^ ^a^[**19:5** 5Mo 7,6] ^b^[**19:6** 1Petr 2,9; Offb 1,6; 3Mo 19,2]  \ ^8^ \ ^12^ ^a^ ^13^ ^b^ ^a^[**19:12** 2Mo 34,3] ^b^[**19:13** Hebr 12,18-20]  \ ^15^ ^a^ ^a^[**19:15** 1Kor 7,5]  
-### La aterradora aparición de Dios en el Sinaí
+### Die erschreckende Gotteserscheinung auf dem Sinai
 ^16^ ^a^ ^19^ ^b^ ^20^ ^a^[**19:16** Hebr 12,21] ^b^[**19:19** Apg 7,38]  \ ^22^ \ ^23^ \ ^24^ \ 
 ## 20
 ^0^ 
-### La proclamación de los Diez Mandamientos
+### Die Verkündigung der Zehn Gebote
 ^2^ \ ^3^ ^a^ ^a^[**20:3** 5Mo 6,4-5; 1Kor 8,6]  \ ^4^ ^a^ ^5^ ^b^ ^6^ ^a^[**20:4** 3Mo 26,1; 5Mo 27,15; Ps 97,7; Jes 40,18-26; Röm 1,23] ^b^[**20:5** 2Mo 34,7; Jer 31,29-30; Hes 18,2-3; Hes 18,20]  \ ^7^ \ ^8^ ^a^ ^11^ ^a^[**20:8** 2Mo 16,25; Hes 20,12; Mk 2,27-28; Kol 2,16-17]  \ ^12^ ^a^ ^a^[**20:12** Mt 15,4; Eph 6,2-3]  \ ^13^ ^a^ ^a^[**20:13** 2Mo 21,12; 1Mo 9,5-6; Jak 2,11]  \ ^14^ ^a^ ^a^[**20:14** 3Mo 20,10; Eph 5,3-5]  \ ^15^ ^a^ ^a^[**20:15** 3Mo 19,11; Eph 4,28]  \ ^16^ ^a^ ^a^[**20:16** 2Mo 23,1; Eph 4,25]  \ ^17^ ^a^ ^a^[**20:17** Röm 7,7; Röm 13,9]  
-### El efecto de la aparición divina en la gente; Discurso tranquilizador de Moisés
+### Die Wirkung der Gotteserscheinung auf das Volk; Moses beruhigende Rede
 ^19^ \ ^21^ ^a^ ^a^[**20:21** Hebr 12,18]  
-### Orden provisional de culto
+### Vorläufige Ordnung der Gottesverehrung
 ^25^ ^a^ ^26^ ^a^[**20:25** 5Mo 27,5; Jos 8,31]  
 ## 21
 ^0^ 
-### Los derechos de los esclavos hebreos
+### Die Rechte der hebräischen Sklaven und Sklavinnen
 ^1^ \ ^6^ ^a^ ^a^[**21:6** 2Mo 22,7-8; 2Mo 22,27; 5Mo 1,17]  \ ^7^ ^a^ ^11^ ^a^[**21:7** 2Mo 21,2]  
-### Disposiciones para la protección de la vida humana
+### Bestimmungen zum Schutz des Menschenlebens
 ^12^ ^a^ ^13^ ^b^ ^14^ ^c^ ^a^[**21:12** 1Mo 9,6; 2Mo 20,13; Mt 5,21-22] ^b^[**21:13** 4Mo 35,6-29; 5Mo 19,4-13] ^c^[**21:14** 1Kö 2,29; 1Kö 2,31]  \ ^15^ \ ^16^ \ ^17^ ^a^ ^a^[**21:17** 5Mo 27,16; Spr 20,20; Mt 15,4]  \ ^19^ \ ^21^ \ ^25^ \ ^27^ 
 ### Indemnización por muerte o lesiones a una persona por animales
 ^29^ ^a^ ^32^ ^a^[**21:29** 1Mo 9,5]  
