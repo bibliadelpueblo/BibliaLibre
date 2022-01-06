@@ -7,7 +7,7 @@
 <sup class='bibleverse'>4</sup> No así los malos: sino como el tamo que arrebata el viento. ^[**1:4** Sal 35,5; Job 21,18; Os 13,3]\
 <sup class='bibleverse'>5</sup> Por tanto no se levantarán los malos en el juicio, ni los pecadores en la congregación de los justos.\
 <sup class='bibleverse'>6</sup> Porque Jehová conoce el camino de los justos; mas la senda de los malos perecerá.
-   
+    
 
 ## La victoria de Dios y del rey ungido por él sobre las naciones furiosas
 # 2 
@@ -47,7 +47,7 @@
 <sup class='bibleverse'>6</sup> Muchos dicen: ¿Quién nos mostrará el bien? Alza sobre nosotros, oh Jehová, la luz de tu rostro. ^[**4:6** Sal 51,19; Sal 51,21]\
 <sup class='bibleverse'>7</sup> Tú diste alegría en mi corazón, más que tienen ellos en el tiempo que se multiplicó su grano y su mosto. ^[**4:7** Núm 6,25-26]\
 <sup class='bibleverse'>8</sup> En paz me acostaré, y asimismo dormiré; porque solo tú, Jehová, me harás estar confiado.
-  
+   
 
 ## Oración matutina en el templo contra enemigos impíos
 # 5 
@@ -63,7 +63,7 @@
 <sup class='bibleverse'>10</sup> Desbarátalos, oh Dios; caigan de sus consejos: por la multitud de sus rebeliones échalos, porque se rebelaron contra ti. ^[**5:10** Rom 6,13]\
 <sup class='bibleverse'>11</sup> Y alegrarse han todos los que en ti confían; para siempre darán voces de júbilo, porque tú los defiendes: y en ti se regocijarán los que aman tu nombre.\
 <sup class='bibleverse'>12</sup> Porque tú, oh Jehová, bendecirás al justo; lo cercarás de benevolencia como con un escudo.
- 
+  
 
 ## Pedir ayuda a alguien gravemente enfermo en cuerpo y alma (Primer Salmo Penitencial)
 # 6 
@@ -77,7 +77,7 @@
 <sup class='bibleverse'>8</sup> Apartaos de mí, todos los obradores de iniquidad; porque Jehová ha oído la voz de mi lloro.\
 <sup class='bibleverse'>9</sup> Jehová ha oído mi ruego; ha recibido Jehová mi oración.\
 <sup class='bibleverse'>10</sup> Se avergonzarán, y turbaránse mucho todos mis enemigos; volveránse y serán avergonzados subitáneamente.
-  
+   
 
 ## El Señor como juez justo y salvador de los afligidos
 # 7 
@@ -98,7 +98,7 @@
 <sup class='bibleverse'>15</sup> Pozo ha cavado, y ahondádolo; y en la fosa que hizo caerá.\
 <sup class='bibleverse'>16</sup> Su trabajo se tornará sobre su cabeza, y su agravio descenderá sobre su mollera.\
 <sup class='bibleverse'>17</sup> Alabaré yo á Jehová conforme á su justicia, y cantaré al nombre de Jehová el Altísimo.
-       
+        
 
 ## La humildad y la alteza del hombre en la creación
 # 8 
@@ -111,7 +111,7 @@
 <sup class='bibleverse'>7</sup> Ovejas, y bueyes, todo ello; y asimismo las bestias del campo; ^[**8:7** Mat 28,18; 1Cor 15,27]\
 <sup class='bibleverse'>8</sup> Las aves de los cielos, y los peces de la mar; todo cuanto pasa por los senderos de la mar.\
 <sup class='bibleverse'>9</sup> Oh Jehová, Señor nuestro, ¡cuán grande es tu nombre en toda la tierra!
-    
+     
 
 ## Canto de acción de gracias por el juicio de Dios sobre los enemigos paganos y solicitud de nueva ayuda
 # 9 
@@ -135,7 +135,7 @@
 <sup class='bibleverse'>18</sup> Porque no para siempre será olvidado el pobre; ni la esperanza de los pobres perecerá perpetuamente.\
 <sup class='bibleverse'>19</sup> Levántate, oh Jehová; no se fortalezca el hombre; sean juzgadas las gentes delante de ti. ^[**9:19** Sal 22,25; Sal 10,17-18]\
 <sup class='bibleverse'>20</sup> Pon, oh Jehová, temor en ellos: conozcan las gentes que son no más que hombres. (Selah.)
-      
+       
 
 ## Pide ayuda contra los malvados de la violencia
 # 10 
@@ -157,7 +157,7 @@
 <sup class='bibleverse'>16</sup> Jehová, Rey eterno y perpetuo; de su tierra fueron destruídas las gentes. ^[**10:16** Sal 99,1]\
 <sup class='bibleverse'>17</sup> El deseo de los humildes oíste, oh Jehová: tú dispones su corazón, y haces atento tu oído;\
 <sup class='bibleverse'>18</sup> Para juzgar al huérfano y al pobre, á fin de que no vuelva más á hacer violencia el hombre de la tierra.
-      
+       
 
 ## El Señor es fiel y justo
 # 11 
@@ -180,7 +180,7 @@
 <sup class='bibleverse'>6</sup> Las palabras de Jehová, palabras limpias; plata refinada en horno de tierra, purificada siete veces.\
 <sup class='bibleverse'>7</sup> Tú, Jehová, los guardarás; guárdalos para siempre de aquesta generación. ^[**12:7** Sal 19,9]\
 <sup class='bibleverse'>8</sup> Cercando andan los malos, mientras son exaltados los más viles de los hijos de los hombres.
-
+ 
 
 ## ¿Por cuánto tiempo más?
 # 13 
@@ -190,7 +190,7 @@
 <sup class='bibleverse'>4</sup> Porque no diga mi enemigo, Vencílo: mis enemigos se alegrarán, si yo resbalare.\
 <sup class='bibleverse'>5</sup> Mas yo en tu misericordia he confiado: alegraráse mi corazón en tu salud.\
 <sup class='bibleverse'>6</sup> Cantaré á Jehová, porque me ha hecho bien.
-
+ 
 
 ## Pensamientos sobre la depravación general del mundo y pedir redención
 # 14 
@@ -201,7 +201,7 @@
 <sup class='bibleverse'>5</sup> Allí temblaron de espanto; porque Dios está con la nación de los justos.\
 <sup class='bibleverse'>6</sup> El consejo del pobre habéis escarnecido, por cuanto Jehová es su esperanza.\
 <sup class='bibleverse'>7</sup> ¡Quién diese de Sión la salud de Israel! En tornando Jehová la cautividad de su pueblo, se gozará Jacob, y alegraráse Israel.
-  
+   
 
 ## ¿Quién puede ser el invitado del Señor?
 # 15 
@@ -225,7 +225,7 @@
 <sup class='bibleverse'>9</sup> Alegróse por tanto mi corazón, y se gozó mi gloria: también mi carne reposará segura. ^[**16:9** Gén 49,6]\
 <sup class='bibleverse'>10</sup> Porque no dejarás mi alma en el sepulcro; ni permitirás que tu santo vea corrupción. ^[**16:10** Hech 2,25-32; Hech 13,35-37]\
 <sup class='bibleverse'>11</sup> Me mostrarás la senda de la vida: hartura de alegrías hay con tu rostro; deleites en tu diestra para siempre.
-  
+   
 
 ## El grito de un hombre angustiado por ayuda contra enemigos nefastos
 # 17 
@@ -244,7 +244,7 @@
 <sup class='bibleverse'>13</sup> Levántate, oh Jehová; prevén su encuentro, póstrale: libra mi alma del malo con tu espada;\
 <sup class='bibleverse'>14</sup> De los hombres con tu mano, oh Jehová, de los hombres de mundo, cuya parte es en esta vida, y cuyo vientre hinches de tu tesoro: hartan sus hijos, y dejan el resto á sus chiquitos.\
 <sup class='bibleverse'>15</sup> Yo en justicia veré tu rostro: seré saciado cuando despertare á tu semejanza.
-    
+     
 
 ## El cántico de agradecimiento y victoria de David tras la derrota de sus enemigos
 # 18 
@@ -329,7 +329,7 @@
 <sup class='bibleverse'>7</sup> Estos confían en carros, y aquéllos en caballos: mas nosotros del nombre de Jehová nuestro Dios tendremos memoria. ^[**20:7** Éxod 15,16]\
 <sup class='bibleverse'>8</sup> Ellos arrodillaron, y cayeron; mas nosotros nos levantamos, y nos enhestamos. ^[**20:8** Deut 20,1; Is 31,1]\
 <sup class='bibleverse'>9</sup> Salva, Jehová: que el Rey nos oiga el día que lo invocáremos.
-  
+   
 
 ## Oración de acción de gracias por los beneficios que Dios le ha mostrado al rey (especialmente por la victoria que le ha otorgado) y esperanza de nuevas bendiciones
 # 21 
@@ -405,7 +405,7 @@
 <sup class='bibleverse'>8</sup> ¿Quién es este Rey de gloria? Jehová el fuerte y valiente, Jehová el poderoso en batalla.\
 <sup class='bibleverse'>9</sup> Alzad, oh puertas, vuestras cabezas, y alzaos vosotras, puertas eternas, y entrará el Rey de gloria.\
 <sup class='bibleverse'>10</sup> ¿Quién es este Rey de gloria? Jehová de los ejércitos, él es el Rey de la gloria. (Selah.)
-     
+      
 
 ## Oración por la protección de Dios, por la guía llena de gracia y el perdón de los pecados
 # 25 
@@ -447,7 +447,7 @@
 <sup class='bibleverse'>10</sup> En cuyas manos está el mal, y su diestra está llena de sobornos.\
 <sup class='bibleverse'>11</sup> Yo empero andaré en mi integridad: redímeme, y ten misericordia de mí.\
 <sup class='bibleverse'>12</sup> Mi pie ha estado en rectitud: en las congregaciones bendeciré á Jehová.
- 
+  
 
 ## Confianza gozosa en el Señor y solicitud de mayor protección
 # 27 
@@ -478,7 +478,7 @@
 <sup class='bibleverse'>7</sup> Jehová es mi fortaleza y mi escudo: en él esperó mi corazón, y fuí ayudado; por lo que se gozó mi corazón, y con mi canción le alabaré. ^[**28:7** Sal 18,2-3]\
 <sup class='bibleverse'>8</sup> Jehová es su fuerza, y la fortaleza de las saludes de su ungido.\
 <sup class='bibleverse'>9</sup> Salva á tu pueblo, y bendice á tu heredad; y pastoréalos y ensálzalos para siempre.
-   
+    
 
 ## La gloria de Dios en una tormenta
 # 29 
@@ -509,7 +509,7 @@
 <sup class='bibleverse'>10</sup> Oye, oh Jehová, y ten misericordia de mí: Jehová, sé tú mi ayudador. ^[**30:10** Sal 6,6]\
 <sup class='bibleverse'>11</sup> Has tornado mi endecha en baile; desataste mi saco, y ceñísteme de alegría.\
 <sup class='bibleverse'>12</sup> Por tanto á ti cantaré, gloria mía, y no estaré callado. Jehová Dios mío, te alabaré para siempre.
- 
+  
 
 ## Oración confiada en extrema necesidad
 # 31 
@@ -537,7 +537,7 @@
 <sup class='bibleverse'>22</sup> Y decía yo en mi premura: Cortado soy de delante de tus ojos: tú empero oíste la voz de mis ruegos, cuando á ti clamaba. ^[**31:22** Sal 17,7]\
 <sup class='bibleverse'>23</sup> Amad á Jehová todos vosotros sus santos: á los fieles guarda Jehová, y paga abundantemente al que obra con soberbia. ^[**31:23** Sal 116,11]\
 <sup class='bibleverse'>24</sup> Esforzaos todos vosotros los que esperáis en Jehová, y tome vuestro corazón aliento.
-       
+        
 
 ## Bendiciones del arrepentimiento y bienaventuranza del perdón de los pecados (Salmo Segundo Penitencial)
 # 32 
@@ -578,7 +578,7 @@
 <sup class='bibleverse'>20</sup> Nuestra alma esperó á Jehová; nuestra ayuda y nuestro escudo es él. ^[**33:20** Sal 3,4]\
 <sup class='bibleverse'>21</sup> Por tanto en él se alegrará nuestro corazón, porque en su santo nombre hemos confiado.\
 <sup class='bibleverse'>22</sup> Sea tu misericordia, oh Jehová, sobre nosotros, como esperamos en ti.
-         
+          
 
 ## Dios ayuda a los suyos en cada necesidad
 # 34 
@@ -604,7 +604,7 @@
 <sup class='bibleverse'>20</sup> El guarda todos sus huesos; ni uno de ellos será quebrantado. ^[**34:20** 2Cor 1,5]\
 <sup class='bibleverse'>21</sup> Matará al malo la maldad; y los que aborrecen al justo serán asolados.\
 <sup class='bibleverse'>22</sup> Jehová redime el alma de sus siervos; y no serán asolados cuantos en él confían.
-      
+       
 
 ## Pide ayuda a un tolerante contra enemigos infieles e ingratos
 # 35 
@@ -636,7 +636,7 @@
 <sup class='bibleverse'>26</sup> Avergüéncense, y sean confundidos á una los que de mi mal se alegran: vístanse de vergüenza y de confusión los que se engrandecen contra mí. ^[**35:26** Sal 35,4]\
 <sup class='bibleverse'>27</sup> Canten y alégrense los que están á favor de mi justa causa, y digan siempre: Sea ensalzado Jehová, que ama la paz de su siervo. ^[**35:27** Sal 40,17]\
 <sup class='bibleverse'>28</sup> Y mi lengua hablará de tu justicia, y de tu loor todo el día.
-           
+            
 
 ## Los acontecimientos desesperados de los malvados y las bendiciones de la comunión con Dios
 # 36 
@@ -652,7 +652,7 @@
 <sup class='bibleverse'>10</sup> Extiende tu misericordia á los que te conocen, y tu justicia á los rectos de corazón. ^[**36:10** Jer 2,13]\
 <sup class='bibleverse'>11</sup> No venga contra mí pie de soberbia; y mano de impíos no me mueva.\
 <sup class='bibleverse'>12</sup> Allí cayeron los obradores de iniquidad; fueron rempujados, y no pudieron levantarse.
-    
+     
 
 ## La falsa suerte de los malvados (= impíos) permite que los justos sean piadosos
 # 37 
@@ -722,7 +722,7 @@
 <sup class='bibleverse'>20</sup> Y pagando mal por bien me son contrarios, por seguir yo lo bueno.\
 <sup class='bibleverse'>21</sup> No me desampares, oh Jehová: Dios mío, no te alejes de mí. ^[**38:21** Sal 35,12]\
 <sup class='bibleverse'>22</sup> Apresúrate á ayudarme, oh Señor, mi salud.
-    
+     
 
 ## Demanda y solicitud de una persona fuertemente impugnada
 # 39 
@@ -760,7 +760,7 @@
 <sup class='bibleverse'>15</sup> Sean asolados en pago de su afrenta los que me dicen: ¡Ea, ea! ^[**40:15** Sal 6,11]\
 <sup class='bibleverse'>16</sup> Gócense y alégrense en ti todos los que te buscan; y digan siempre los que aman tu salud: Jehová sea ensalzado. ^[**40:16** Sal 35,21; Sal 35,25]\
 <sup class='bibleverse'>17</sup> Aunque afligido yo y necesitado, Jehová pensará de mí: mi ayuda y mi libertador eres tú; Dios mío, no te tardes.
-    
+     
 
 ## Un enfermo se queja de enemigos maliciosos y amigos infieles
 # 41 
@@ -777,7 +777,7 @@
 <sup class='bibleverse'>11</sup> En esto habré conocido que te he agradado, que mi enemigo no se holgará de mí.\
 <sup class='bibleverse'>12</sup> En cuanto á mí, en mi integridad me has sustentado, y me has hecho estar delante de ti para siempre.\
 <sup class='bibleverse'>13</sup> Bendito sea Jehová, el Dios de Israel, por siglos de siglos. Amén y Amén.
-
+ 
 
 ## Anhelo de Dios y su santuario en Sion
 # 42 
@@ -792,7 +792,7 @@
 <sup class='bibleverse'>9</sup> Diré á Dios: Roca mía, ¿por qué te has olvidado de mí? ¿Por qué andaré yo enlutado por la opresión del enemigo?\
 <sup class='bibleverse'>10</sup> Mientras se están quebrantando mis huesos, mis enemigos me afrentan, diciéndome cada día: ¿Dónde está tu Dios? ^[**42:10** Deut 32,4; Sal 43,2]\
 <sup class='bibleverse'>11</sup> ¿Por qué te abates, oh alma mía, y por qué te conturbas en mí? Espera á Dios; porque aun le tengo de alabar; es él salvamento delante de mí, y el Dios mío.
-   
+    
 
 # 43 
 <sup class='bibleverse'>1</sup> Júzgame, oh Dios, y aboga mi causa: líbrame de gente impía, del hombre de engaño é iniquidad. ^[**43:1** Sal 26,1]\
@@ -830,7 +830,7 @@
 <sup class='bibleverse'>24</sup> ¿Por qué escondes tu rostro, y te olvidas de nuestra aflicción, y de la opresión nuestra? ^[**44:24** Sal 35,23]\
 <sup class='bibleverse'>25</sup> Porque nuestra alma está agobiada hasta el polvo: nuestro vientre está pegado con la tierra. ^[**44:25** Sal 10,1]\
 <sup class='bibleverse'>26</sup> Levántate para ayudarnos, y redímenos por tu misericordia.
-    
+     
 
 ## Canción de celebración de la boda del rey
 # 45 
@@ -851,7 +851,7 @@
 <sup class='bibleverse'>15</sup> Serán traídas con alegría y gozo: entrarán en el palacio del rey.\
 <sup class='bibleverse'>16</sup> En lugar de tus padres serán tus hijos, á quienes harás príncipes en toda la tierra.\
 <sup class='bibleverse'>17</sup> Haré perpetua la memoria de tu nombre en todas las generaciones: por lo cual te alabarán los pueblos eternamente y para siempre.
-  
+   
 
 ## Una poderosa fortaleza es nuestro Dios
 # 46 
@@ -866,7 +866,7 @@
 <sup class='bibleverse'>9</sup> Que hace cesar las guerras hasta los fines de la tierra: que quiebra el arco, corta la lanza, y quema los carros en el fuego. ^[**46:9** 2Re 19,35]\
 <sup class='bibleverse'>10</sup> Estad quietos, y conoced que yo soy Dios: ensalzado he de ser entre las gentes, ensalzado seré en la tierra. ^[**46:10** Sal 76,4]\
 <sup class='bibleverse'>11</sup> Jehová de los ejércitos es con nosotros; nuestro refugio es el Dios de Jacob. (Selah.)
- 
+  
 
 ## El Dios de Israel como Rey de todos los pueblos
 # 47 
@@ -879,7 +879,7 @@
 <sup class='bibleverse'>7</sup> Porque Dios es el Rey de toda la tierra: cantad con inteligencia.\
 <sup class='bibleverse'>8</sup> Reinó Dios sobre las gentes: asentóse Dios sobre su santo trono. ^[**47:8** Sal 93,1]\
 <sup class='bibleverse'>9</sup> Los príncipes de los pueblos se juntaron al pueblo del Dios de Abraham: porque de Dios son los escudos de la tierra; él es muy ensalzado.
-  
+   
 
 ## La fiesta de los peregrinos alaba a Sión, la ciudad invicta de Dios
 # 48 
@@ -897,7 +897,7 @@
 <sup class='bibleverse'>12</sup> Andad alrededor de Sión, y rodeadla: contad sus torres.\
 <sup class='bibleverse'>13</sup> Poned vuestro corazón á su antemuro, mirad sus palacios; para que lo contéis á la generación venidera.\
 <sup class='bibleverse'>14</sup> Porque este Dios es Dios nuestro eternalmente y para siempre: él nos capitaneará hasta la muerte.
-  
+   
 
 ## Impermanencia de la felicidad exterior de los malvados
 # 49 
@@ -921,7 +921,7 @@
 <sup class='bibleverse'>18</sup> Si bien mientras viviere, dirá dichosa á su alma: y tú serás loado cuando bien te tratares. ^[**49:18** Ecl 5,13-14]\
 <sup class='bibleverse'>19</sup> Entrará á la generación de sus padres: no verán luz para siempre. ^[**49:19** Luc 16,19-31]\
 <sup class='bibleverse'>20</sup> El hombre en honra que no entiende, semejante es á las bestias que perecen.
-     
+      
 
 ## La adoración correcta
 # 50 
@@ -948,7 +948,7 @@
 <sup class='bibleverse'>21</sup> Estas cosas hiciste, y yo he callado: pensabas que de cierto sería yo como tú: yo te argüiré, y pondrélas delante de tus ojos.\
 <sup class='bibleverse'>22</sup> Entended ahora esto, los que os olvidáis de Dios; no sea que arrebate, sin que nadie libre.\
 <sup class='bibleverse'>23</sup> El que sacrifica alabanza me honrará: y al que ordenare su camino, le mostraré la salud de Dios.
-      
+       
 
 ## Oración penitencial de David (cuarto salmo penitencial)
 # 51 
@@ -984,7 +984,7 @@
 <sup class='bibleverse'>7</sup> He aquí el hombre que no puso á Dios por su fortaleza, sino que confió en la multitud de sus riquezas, y se mantuvo en su maldad.\
 <sup class='bibleverse'>8</sup> Mas yo estoy como oliva verde en la casa de Dios: en la misericordia de Dios confío perpetua y eternalmente.\
 <sup class='bibleverse'>9</sup> Te alabaré para siempre por lo que has hecho: y esperaré en tu nombre, porque es bueno, delante de tus santos.
-
+ 
 
 ## Pensamientos sobre la depravación general del mundo y pedir redención
 # 53 
@@ -1047,7 +1047,7 @@
 <sup class='bibleverse'>11</sup> En Dios he confiado: no temeré lo que me hará el hombre.\
 <sup class='bibleverse'>12</sup> Sobre mí, oh Dios, están tus votos: te tributaré alabanzas.\
 <sup class='bibleverse'>13</sup> Porque has librado mi vida de la muerte, y mis pies de caída, para que ande delante de Dios en la luz de los que viven.
- 
+  
 
 ## Confianza en Dios en medio de enemigos
 # 57 
@@ -1077,7 +1077,7 @@
 <sup class='bibleverse'>9</sup> Antes que vuestras ollas sientan las espinas, así vivos, así airados, los arrebatará él con tempestad.\
 <sup class='bibleverse'>10</sup> Alegraráse el justo cuando viere la venganza: sus pies lavará en la sangre del impío.\
 <sup class='bibleverse'>11</sup> Entonces dirá el hombre: Ciertamente hay fruto para el justo; ciertamente hay Dios que juzga en la tierra.
-
+ 
 
 ## Un grito de ayuda de un enemigo violento
 # 59 
@@ -1098,7 +1098,7 @@
 <sup class='bibleverse'>15</sup> Anden ellos errantes para hallar qué comer: y si no se saciaren, murmuren.\
 <sup class='bibleverse'>16</sup> Yo empero cantaré tu fortaleza, y loaré de mañana tu misericordia: porque has sido mi amparo y refugio en el día de mi angustia.\
 <sup class='bibleverse'>17</sup> Fortaleza mía, á ti cantaré; porque eres Dios de mi amparo, Dios de mi misericordia.
-  
+   
 
 ## Oración después de una severa derrota en la guerra
 # 60 
@@ -1114,7 +1114,7 @@
 <sup class='bibleverse'>10</sup> Ciertamente, tú, oh Dios, que nos habías desechado; y no salías, oh Dios, con nuestros ejércitos.\
 <sup class='bibleverse'>11</sup> Danos socorro contra el enemigo, que vana es la salud de los hombres.\
 <sup class='bibleverse'>12</sup> En Dios haremos proezas; y él hollará nuestros enemigos.
-   
+    
 
 ## Intercesión por el Rey desde lejos
 # 61 
@@ -1142,7 +1142,7 @@
 <sup class='bibleverse'>10</sup> No confiéis en la violencia, ni en la rapiña; no os envanezcáis: si se aumentare la hacienda, no pongáis el corazón en ella.\
 <sup class='bibleverse'>11</sup> Una vez habló Dios; dos veces he oído esto: Que de Dios es la fortaleza.\
 <sup class='bibleverse'>12</sup> Y de ti, oh Señor, es la misericordia: porque tú pagas á cada uno conforme á su obra.
-  
+   
 
 ## Anhelo de Dios, el refrigerio del alma y el bien supremo
 # 63 
@@ -1157,7 +1157,7 @@
 <sup class='bibleverse'>9</sup> Mas los que para destrucción buscaron mi alma, caerán en los sitios bajos de la tierra.\
 <sup class='bibleverse'>10</sup> Destruiránlos á filo de espada; serán porción de las zorras.\
 <sup class='bibleverse'>11</sup> Empero el rey se alegrará en Dios; será alabado cualquiera que por él jura: porque la boca de los que hablan mentira, será cerrada.
- 
+  
 
 ## Pide protección contra enemigos maliciosos
 # 64 
@@ -1171,7 +1171,7 @@
 <sup class='bibleverse'>8</sup> Y harán caer sobre sí sus mismas lenguas: se espantarán todos los que los vieren.\
 <sup class='bibleverse'>9</sup> Y temerán todos los hombres, y anunciarán la obra de Dios, y entenderán su hecho. ^[**64:9** Sal 7,16]\
 <sup class='bibleverse'>10</sup> Alegraráse el justo en Jehová, y confiaráse en él; y se gloriarán todos los rectos de corazón.
-  
+   
 
 ## Canción de acción de gracias por los beneficios espirituales divinos y las bendiciones de la cosecha
 # 65 
@@ -1188,7 +1188,7 @@
 <sup class='bibleverse'>11</sup> Tú coronas el año de tus bienes; y tus nubes destilan grosura. ^[**65:11** Sal 104,13-16]\
 <sup class='bibleverse'>12</sup> Destilan sobre las estancias del desierto; y los collados se ciñen de alegría.\
 <sup class='bibleverse'>13</sup> Vístense los llanos de manadas, y los valles se cubren de grano: dan voces de júbilo, y aun cantan.
- 
+  
 
 ## Canto de agradecimiento del pueblo por su maravillosa guía y salvación
 # 66 
@@ -1212,7 +1212,7 @@
 <sup class='bibleverse'>18</sup> Si en mi corazón hubiese yo mirado á la iniquidad, el Señor no me oyera. ^[**66:18** Prov 28,9; Juan 9,31]\
 <sup class='bibleverse'>19</sup> Mas ciertamente me oyó Dios; antendió á la voz de mi súplica.\
 <sup class='bibleverse'>20</sup> Bendito Dios, que no echó de sí mi oración, ni de mí su misericordia.
- 
+  
 
 ## ¡Dios bendiga a Israel! (Canción de Acción de Gracias)
 # 67 
@@ -1223,7 +1223,7 @@
 <sup class='bibleverse'>5</sup> Alábente los pueblos, oh Dios: todos los pueblos te alaben.\
 <sup class='bibleverse'>6</sup> La tierra dará su fruto: nos bendecirá Dios, el Dios nuestro.\
 <sup class='bibleverse'>7</sup> Bendíganos Dios, y témanlo todos los fines de la tierra.
-
+ 
 
 ## La victoria del Dios de Israel sobre sus enemigos
 # 68 
@@ -1262,7 +1262,7 @@
 <sup class='bibleverse'>33</sup> Al que cabalga sobre los cielos de los cielos que son de antiguo: he aquí á su voz dará voz de fortaleza.\
 <sup class='bibleverse'>34</sup> Atribuid fortaleza á Dios: sobre Israel es su magnificencia, y su poder está en los cielos.\
 <sup class='bibleverse'>35</sup> Terrible eres, oh Dios, desde tus santuarios: el Dios de Israel, él da fortaleza y vigor á su pueblo. Bendito Dios.
-            
+             
 
 ## La oración de un hombre piadoso por la salvación de la vergüenza y la angustia
 # 69 
@@ -1302,7 +1302,7 @@
 <sup class='bibleverse'>34</sup> Alábenlo los cielos y la tierra, los mares, y todo lo que se mueve en ellos.\
 <sup class='bibleverse'>35</sup> Porque Dios guardará á Sión, y reedificará las ciudades de Judá; y habitarán allí, y la poseerán.\
 <sup class='bibleverse'>36</sup> Y la simiente de sus siervos la heredará, y los que aman su nombre habitarán en ella.
-            
+             
 
 ## Pide ayuda en la búsqueda
 # 70 
@@ -1338,7 +1338,7 @@
 <sup class='bibleverse'>22</sup> Asimismo yo te alabaré con instrumento de salterio, oh Dios mío: tu verdad cantaré yo á ti en el arpa, oh Santo de Israel.\
 <sup class='bibleverse'>23</sup> Mis labios cantarán cuando á ti salmeare, y mi alma, á la cual redimiste.\
 <sup class='bibleverse'>24</sup> Mi lengua hablará también de tu justicia todo el día: por cuanto fueron avergonzados, porque fueron confusos los que mi mal procuraban.
-     
+      
 
 ## Bendiciones al rey
 # 72 
@@ -1362,7 +1362,7 @@
 <sup class='bibleverse'>18</sup> Bendito Jehová Dios, el Dios de Israel, que solo hace maravillas.\
 <sup class='bibleverse'>19</sup> Y bendito su nombre glorioso para siempre: y toda la tierra sea llena de su gloria. Amén y Amén.\
 <sup class='bibleverse'>20</sup> Acábanse las oraciones de David, hijo de Isaí.
-       
+        
 
 ## El hecho por Dios »sin embargo«
 # 73 
@@ -1394,7 +1394,7 @@
 <sup class='bibleverse'>26</sup> Mi carne y mi corazón desfallecen: mas la roca de mi corazón y mi porción es Dios para siempre.\
 <sup class='bibleverse'>27</sup> Porque he aquí, los que se alejan de ti perecerán: tú cortarás á todo aquel que fornicando, de ti se aparta.\
 <sup class='bibleverse'>28</sup> Y en cuanto á mí, el acercarme á Dios es el bien: he puesto en el Señor Jehová mi esperanza, para contar todas tus obras.
-   
+    
 
 ## Quejarse ante la congregación de la devastación del templo y pedir ayuda
 # 74 
@@ -1421,7 +1421,7 @@
 <sup class='bibleverse'>21</sup> No vuelva avergonzado el abatido: el afligido y el menesteroso alabarán tu nombre.\
 <sup class='bibleverse'>22</sup> Levántate, oh Dios, aboga tu causa: acuérdate de cómo el insensato te injuria cada día.\
 <sup class='bibleverse'>23</sup> No olvides las voces de tus enemigos: el alboroto de los que se levantan contra ti sube continuamente.
-   
+    
 
 ## Dios, el juez del mundo justo
 # 75 
@@ -1435,7 +1435,7 @@
 <sup class='bibleverse'>8</sup> Porque el cáliz está en la mano de Jehová, y el vino es tinto, lleno de mistura; y él derrama del mismo: ciertamente sus heces chuparán y beberán todos los impíos de la tierra.\
 <sup class='bibleverse'>9</sup> Mas yo anunciaré siempre, cantaré alabanzas al Dios de Jacob. ^[**75:9** Sal 60,5]\
 <sup class='bibleverse'>10</sup> Y quebraré todos los cuernos de los pecadores: los cuernos del justo serán ensalzados.
- 
+  
 
 ## El canto de la victoria de Israel en alabanza a Dios
 # 76 
@@ -1475,7 +1475,7 @@
 <sup class='bibleverse'>18</sup> Anduvo en derredor el sonido de tus truenos; los relámpagos alumbraron el mundo; estremecióse y tembló la tierra.\
 <sup class='bibleverse'>19</sup> En la mar fué tu camino, y tus sendas en las muchas aguas; y tus pisadas no fueron conocidas.\
 <sup class='bibleverse'>20</sup> Condujiste á tu pueblo como ovejas, por mano de Moisés y de Aarón.
-  
+   
 
 ## Revisión de advertencia de la desobediencia repetida de Israel
 # 78 
@@ -1551,7 +1551,7 @@
 <sup class='bibleverse'>70</sup> Y eligió á David su siervo, y tomólo de las majadas de las ovejas: ^[**78:70** 1Sam 16,11-12]\
 <sup class='bibleverse'>71</sup> De tras las paridas lo trajo, para que apacentase á Jacob su pueblo, y á Israel su heredad. ^[**78:71** 2Sam 7,8]\
 <sup class='bibleverse'>72</sup> Y apacentólos con entereza de su corazón; y pastoreólos con la pericia de sus manos.
-                         
+                          
 
 ## Lamentación del pueblo de Dios por la desolación de Jerusalén
 # 79 
@@ -1568,7 +1568,7 @@
 <sup class='bibleverse'>11</sup> Entre ante tu acatamiento el gemido de los presos: conforme á la grandeza de tu brazo preserva á los sentenciados á muerte. ^[**79:11** Sal 102,21]\
 <sup class='bibleverse'>12</sup> Y torna á nuestros vecinos en su seno siete tantos de su infamia, con que te han deshonrado, oh Jehová. ^[**79:12** Sal 137,7]\
 <sup class='bibleverse'>13</sup> Y nosotros, pueblo tuyo, y ovejas de tu dehesa, te alabaremos para siempre: por generación y generación cantaremos tus alabanzas.
-    
+     
 
 ## Oración por la restauración de Israel, la vid que Dios plantó
 # 80 
@@ -1591,7 +1591,7 @@
 <sup class='bibleverse'>17</sup> Sea tu mano sobre el varón de tu diestra, sobre el hijo del hombre que para ti corroboraste.\
 <sup class='bibleverse'>18</sup> Así no nos volveremos de ti: vida nos darás, é invocaremos tu nombre.\
 <sup class='bibleverse'>19</sup> Oh Jehová, Dios de los ejércitos, haznos tornar; haz resplandecer tu rostro, y seremos salvos.
-     
+      
 
 ## Canción del festival. Con penitencia
 # 81 
@@ -1611,7 +1611,7 @@
 <sup class='bibleverse'>14</sup> En una nada habría yo derribado sus enemigos, y vuelto mi mano sobre sus adversarios.\
 <sup class='bibleverse'>15</sup> Los aborrecedores de Jehová se le hubieran sometido; y el tiempo de ellos fuera para siempre.\
 <sup class='bibleverse'>16</sup> Y Dios lo hubiera mantenido de grosura de trigo: y de miel de la piedra te hubiera saciado.
- 
+  
 
 ## El juicio de Dios sobre jueces injustos (es decir, gobernantes obedientes)
 # 82 
@@ -1623,7 +1623,7 @@
 <sup class='bibleverse'>6</sup> Yo dije: Vosotros sois dioses, é hijos todos vosotros del Altísimo. ^[**82:6** Sal 82,1; Éxod 21,6; Juan 10,34]\
 <sup class='bibleverse'>7</sup> Empero como hombres moriréis, y caeréis como cualquiera de los tiranos.\
 <sup class='bibleverse'>8</sup> Levántate, oh Dios, juzga la tierra: porque tú heredarás en todas las gentes.
-   
+    
 
 ## ¡Enemigos por todas partes! (Oración del pueblo angustiado)
 # 83 
@@ -1645,7 +1645,7 @@
 <sup class='bibleverse'>16</sup> Llena sus rostros de vergüenza; y busquen tu nombre, oh Jehová.\
 <sup class='bibleverse'>17</sup> Sean afrentados y turbados para siempre; y sean deshonrados, y perezcan.\
 <sup class='bibleverse'>18</sup> Y conozcan que tu nombre es JEHOVÁ; tú solo Altísimo sobre toda la tierra.
- 
+  
 
 ## Anhelo de la casa de Dios (¿una canción de peregrinaje?)
 # 84 
@@ -1678,7 +1678,7 @@
 <sup class='bibleverse'>11</sup> La verdad brotará de la tierra; y la justicia mirará desde los cielos.\
 <sup class='bibleverse'>12</sup> Jehová dará también el bien; y nuestra tierra dará su fruto.\
 <sup class='bibleverse'>13</sup> La justicia irá delante de él; y sus pasos pondrá en camino.
-
+ 
 
 ## Oración de los piadosos en angustia hostil
 # 86 
@@ -1699,7 +1699,7 @@
 <sup class='bibleverse'>15</sup> Mas tú, Señor, Dios misericordioso y clemente, lento para la ira, y grande en misericordia y verdad; ^[**86:15** Éxod 34,6]\
 <sup class='bibleverse'>16</sup> Mírame, y ten misericordia de mí: da tu fortaleza á tu siervo, y guarda al hijo de tu sierva. ^[**86:16** Sal 116,16]\
 <sup class='bibleverse'>17</sup> Haz conmigo señal para bien, y véanla los que me aborrecen, y sean avergonzados; porque tú, Jehová, me ayudaste, y me consolaste.
-     
+      
 
 ## Sion, la piadosa ciudad madre de las naciones
 # 87 
@@ -1710,7 +1710,7 @@
 <sup class='bibleverse'>5</sup> Y de Sión se dirá: Este y aquél han nacido en ella; y fortificarála el mismo Altísimo.\
 <sup class='bibleverse'>6</sup> Jehová contará cuando se escribieren los pueblos: Este nació allí. (Selah.)\
 <sup class='bibleverse'>7</sup> Y cantores y tañedores en ella dirán: Todas mis fuentes estarán en ti.
-
+ 
 
 ## Queja desesperada de un enfermo grave
 # 88 
@@ -1732,7 +1732,7 @@
 <sup class='bibleverse'>16</sup> Sobre mí han pasado tus iras; tus espantos me han cortado.\
 <sup class='bibleverse'>17</sup> Hanme rodeado como aguas de continuo; hanme cercado á una.\
 <sup class='bibleverse'>18</sup> Has alejado de mí el amigo y el compañero; y mis conocidos se esconden en la tiniebla.
-
+ 
 
 ## ¿Dónde se dan las promesas de gracia de Dios a la Casa de David?
 # 89 
@@ -1788,7 +1788,7 @@
 <sup class='bibleverse'>50</sup> Señor, acuérdate del oprobio de tus siervos; oprobio que llevo yo en mi seno de muchos pueblos.\
 <sup class='bibleverse'>51</sup> Porque tus enemigos, oh Jehová, han deshonrado, porque tus enemigos han deshonrado los pasos de tu ungido.\
 <sup class='bibleverse'>52</sup> Bendito Jehová para siempre. Amén, y Amén.
-             
+              
 
 ## Dios eterno el refugio de los perecederos
 # 90 
@@ -1809,7 +1809,7 @@
 <sup class='bibleverse'>15</sup> Alégranos conforme á los días que nos afligiste, y los años que vimos mal.\
 <sup class='bibleverse'>16</sup> Aparezca en tus siervos tu obra, y tu gloria sobre sus hijos.\
 <sup class='bibleverse'>17</sup> Y sea la luz de Jehová nuestro Dios sobre nosotros: y ordena en nosotros la obra de nuestras manos, la obra de nuestras manos confirma.
-  
+   
 
 ## Bajo el cuidado del Altísimo
 # 91 
@@ -1829,7 +1829,7 @@
 <sup class='bibleverse'>14</sup> Por cuanto en mí ha puesto su voluntad, yo también lo libraré: pondrélo en alto, por cuanto ha conocido mi nombre.\
 <sup class='bibleverse'>15</sup> Me invocará, y yo le responderé: con él estaré yo en la angustia: lo libraré, y le glorificaré.\
 <sup class='bibleverse'>16</sup> Saciarélo de larga vida, y mostraréle mi salud.
-   
+    
 
 ## Alabado sea el justo gobierno de Dios
 # 92 
@@ -1884,7 +1884,7 @@
 <sup class='bibleverse'>21</sup> Pónense en corros contra la vida del justo, y condenan la sangre inocente.\
 <sup class='bibleverse'>22</sup> Mas Jehová me ha sido por refugio; y mi Dios por roca de mi confianza.\
 <sup class='bibleverse'>23</sup> Y él hará tornar sobre ellos su iniquidad, y los destruirá por su propia maldad; los talará Jehová nuestro Dios.
-      
+       
 
 ## Alabanza a Dios al entrar al templo y penitencia
 # 95 
@@ -1899,7 +1899,7 @@
 <sup class='bibleverse'>9</sup> Donde me tentaron vuestros padres, probáronme, y vieron mi obra. ^[**95:9** Éxod 17,2; Éxod 17,7]\
 <sup class='bibleverse'>10</sup> Cuarenta años estuve disgustado con la nación, y dije: Pueblo es que divaga de corazón, y no han conocido mis caminos.\
 <sup class='bibleverse'>11</sup> Por tanto juré en mi furor que no entrarían en mi reposo.
- 
+  
 
 ## Alabado sea Dios como el gobernante del mundo en los últimos tiempos
 # 96 
@@ -1932,7 +1932,7 @@
 <sup class='bibleverse'>10</sup> Los que á Jehová amáis, aborreced el mal: guarda él las almas de sus santos; de mano de los impíos los libra. ^[**97:10** Am 5,14; Am 1,5-15]\
 <sup class='bibleverse'>11</sup> Luz está sembrada para el justo, y alegría para los rectos de corazón. ^[**97:11** Sal 112,4]\
 <sup class='bibleverse'>12</sup> Alegraos, justos, en Jehová: y alabad la memoria de su santidad.
-        
+         
 
 ## Alabado sea Dios como rey y juez justo del mundo
 # 98 
@@ -1945,7 +1945,7 @@
 <sup class='bibleverse'>7</sup> Brame la mar y su plenitud; el mundo y los que en él habitan; ^[**98:7** Sal 96,11-13]\
 <sup class='bibleverse'>8</sup> Los ríos batan las manos; los montes todos hagan regocijo,\
 <sup class='bibleverse'>9</sup> Delante de Jehová; porque vino á juzgar la tierra: juzgará al mundo con justicia, y á los pueblos con rectitud.
-  
+   
 
 ## Alabado sea el Dios santo, el Rey que todo lo gobierna
 # 99 
@@ -1958,7 +1958,7 @@
 <sup class='bibleverse'>7</sup> En columna de nube hablaba con ellos: guardaban sus testimonios, y el estatuto que les había dado.\
 <sup class='bibleverse'>8</sup> Jehová Dios nuestro, tú les respondías: tú les fuiste un Dios perdonador, y vengador de sus obras.\
 <sup class='bibleverse'>9</sup> Ensalzad á Jehová nuestro Dios, y encorvaos al monte de su santidad; porque Jehová nuestro Dios es santo.
- 
+  
 
 ## Alabado sea Dios al entrar al templo
 # 100 
@@ -1979,7 +1979,7 @@
 <sup class='bibleverse'>6</sup> Mis ojos pondré en los fieles de la tierra, para que estén conmigo: el que anduviere en el camino de la perfección, éste me servirá. ^[**101:6** Prov 22,11]\
 <sup class='bibleverse'>7</sup> No habitará dentro de mi casa el que hace fraude: el que habla mentiras no se afirmará delante de mis ojos.\
 <sup class='bibleverse'>8</sup> Por las mañanas cortaré á todos los impíos de la tierra; para extirpar de la ciudad de Jehová á todos los que obraren iniquidad.
-
+ 
 
 ## Oración penitente de una víctima y solicitud de la restauración de Sion (quinto salmo penitencial)
 # 102 
@@ -2076,7 +2076,7 @@
 <sup class='bibleverse'>33</sup> A Jehová cantaré en mi vida: á mi Dios salmearé mientras viviere.\
 <sup class='bibleverse'>34</sup> Serme ha suave hablar de él: yo me alegraré en Jehová.\
 <sup class='bibleverse'>35</sup> Sean consumidos de la tierra los pecadores, y los impíos dejen de ser. Bendice, alma mía, á Jehová. Aleluya.
-  
+   
 
 ## Los actos salvadores de Dios en el antiguo Israel
 # 105 
@@ -2125,7 +2125,7 @@
 <sup class='bibleverse'>43</sup> Y sacó á su pueblo con gozo; con júbilo á sus escogidos.\
 <sup class='bibleverse'>44</sup> Y dióles las tierras de las gentes; y las labores de las naciones heredaron:\
 <sup class='bibleverse'>45</sup> Para que guardasen sus estatutos, y observasen sus leyes. Aleluya.
-        
+         
 
 ## La gracia de Dios y la ingratitud de Israel
 # 106 
@@ -2224,7 +2224,7 @@
 <sup class='bibleverse'>41</sup> Y levanta al pobre de la miseria, y hace multiplicar las familias como rebaños de ovejas.\
 <sup class='bibleverse'>42</sup> Vean los rectos, y alégrense; y toda maldad cierre su boca.\
 <sup class='bibleverse'>43</sup> ¿Quién es sabio y guardará estas cosas, y entenderá las misericordias de Jehová?
-      
+       
 
 ## Alaba la gracia de Dios y pide ayuda
 # 108 
@@ -2241,7 +2241,7 @@
 <sup class='bibleverse'>11</sup> Ciertamente tú, oh Dios, que nos habías desechado; y no salías, oh Dios, con nuestros ejércitos.\
 <sup class='bibleverse'>12</sup> Danos socorro en la angustia: porque mentirosa es la salud del hombre.\
 <sup class='bibleverse'>13</sup> En Dios haremos proezas: y él hollará nuestros enemigos.
-
+ 
 
 ## Maldición de enemigos impíos
 # 109 
@@ -2276,7 +2276,7 @@
 <sup class='bibleverse'>29</sup> Sean vestidos de ignominia los que me calumnian; y sean cubiertos de su confusión como con manto. ^[**109:29** Sal 35,26]\
 <sup class='bibleverse'>30</sup> Yo alabaré á Jehová en gran manera con mi boca, y le loaré en medio de muchos.\
 <sup class='bibleverse'>31</sup> Porque él se pondrá á la diestra del pobre, para librar su alma de los que le juzgan.
-     
+      
 
 ## El mensaje de Dios al Sacerdote-Rey
 # 110 
@@ -2287,7 +2287,7 @@
 <sup class='bibleverse'>5</sup> El Señor á tu diestra herirá á los reyes en el día de su furor. ^[**110:5** Sal 2,2; Sal 2,5; Sal 2,9]\
 <sup class='bibleverse'>6</sup> Juzgará en las gentes, llenarálas de cadáveres: herirá las cabezas en muchas tierras.\
 <sup class='bibleverse'>7</sup> Del arroyo beberá en el camino: por lo cual levantará cabeza.
-    
+     
 
 ## Alabe las bendiciones físicas y espirituales de Dios
 # 111 
@@ -2301,7 +2301,7 @@
 <sup class='bibleverse'>8</sup> Afirmados por siglo de siglo, hechos en verdad y en rectitud.\
 <sup class='bibleverse'>9</sup> Redención ha enviado á su pueblo; para siempre ha ordenado su pacto: santo y terrible es su nombre.\
 <sup class='bibleverse'>10</sup> El principio de la sabiduría es el temor de Jehová: buen entendimiento tienen cuantos ponen aquéllos por obra: su loor permanece para siempre.
-
+ 
 
 ## La bendición del temor de Dios y la misericordia
 # 112 
@@ -2362,7 +2362,7 @@
 <sup class='bibleverse'>16</sup> Los cielos son los cielos de Jehová: y ha dado la tierra á los hijos de los hombres.\
 <sup class='bibleverse'>17</sup> No alabarán los muertos á JAH, ni cuantos descienden al silencio;\
 <sup class='bibleverse'>18</sup> Mas nosotros bendeciremos á JAH, desde ahora para siempre. Aleluya.
-   
+    
 
 ## Canción de acción de gracias y votos de alguien rescatado del peligro de muerte (al ofrecer el sacrificio de acción de gracias)
 # 116 
@@ -2385,7 +2385,7 @@
 <sup class='bibleverse'>17</sup> Te ofreceré sacrificio de alabanza, é invocaré el nombre de Jehová.\
 <sup class='bibleverse'>18</sup> A Jehová pagaré ahora mis votos delante de todo su pueblo;\
 <sup class='bibleverse'>19</sup> En los atrios de la casa de Jehová, en medio de ti, oh Jerusalem. Aleluya.
-    
+     
 
 ## Llamando a los gentiles a alabar a Dios
 # 117 
@@ -2424,7 +2424,7 @@
 <sup class='bibleverse'>27</sup> Dios es Jehová que nos ha resplandecido: atad víctimas con cuerdas á los cuernos del altar.\
 <sup class='bibleverse'>28</sup> Mi Dios eres tú, y á ti alabaré: Dios mío, á ti ensalzaré.\
 <sup class='bibleverse'>29</sup> Alabad á Jehová porque es bueno; porque para siempre es su misericordia.
-     
+      
 
 ## Gloria de la palabra y ley divinas (o: el alfabeto dorado)
 # 119 
@@ -2438,8 +2438,6 @@
 <sup class='bibleverse'>8</sup> Tus estatutos guardaré: no me dejes enteramente. 
 
 
-
-
 ## Beth
 <sup class='bibleverse'>9</sup> BETH ¿Con qué limpiará el joven su camino? Con guardar tu palabra.\
 <sup class='bibleverse'>10</sup> Con todo mi corazón te he buscado: no me dejes divagar de tus mandamientos.\
@@ -2448,9 +2446,7 @@
 <sup class='bibleverse'>13</sup> Con mis labios he contado todos los juicios de tu boca.\
 <sup class='bibleverse'>14</sup> Heme gozado en el camino de tus testimonios, como sobre toda riqueza.\
 <sup class='bibleverse'>15</sup> En tus mandamientos meditaré, consideraré tus caminos.\
-<sup class='bibleverse'>16</sup> Recrearéme en tus estatutos: no me olvidaré de tus palabras. 
-
-^[**119:16** Sal 119,24; Rom 7,22; Sal 119,61] 
+<sup class='bibleverse'>16</sup> Recrearéme en tus estatutos: no me olvidaré de tus palabras. ^[**119:16** Sal 119,24; Rom 7,22; Sal 119,61] 
 
 
 ## Gimel
@@ -2464,8 +2460,6 @@
 <sup class='bibleverse'>24</sup> Pues tus testimonios son mis deleites, y mis consejeros. 
 
 
-
-
 ## Daleth
 <sup class='bibleverse'>25</sup> DALETH. Pegóse al polvo mi alma: vivifícame según tu palabra.\
 <sup class='bibleverse'>26</sup> Mis caminos te conté, y me has respondido: enséñame tus estatutos.\
@@ -2476,8 +2470,6 @@
 <sup class='bibleverse'>31</sup> Allegádome he á tus testimonios; oh Jehová, no me avergüences.\
 <sup class='bibleverse'>32</sup> Por el camino de tus mandamientos correré, cuando ensanchares mi corazón. 
 
-
-
 ## He
 <sup class='bibleverse'>33</sup> HE. Enséñame, oh Jehová, el camino de tus estatutos, y guardarélo hasta el fin.\
 <sup class='bibleverse'>34</sup> Dame entendimiento, y guardaré tu ley; y la observaré de todo corazón.\
@@ -2487,8 +2479,6 @@
 <sup class='bibleverse'>38</sup> Confirma tu palabra á tu siervo, que te teme.\
 <sup class='bibleverse'>39</sup> Quita de mí el oprobio que he temido: porque buenos son tus juicios.\
 <sup class='bibleverse'>40</sup> He aquí yo he codiciado tus mandamientos: vivifícame en tu justicia. 
-
-
 
 
 ## Vau
@@ -2502,8 +2492,6 @@
 <sup class='bibleverse'>48</sup> Alzaré asimismo mis manos á tus mandamientos, que amé; y meditaré en tus estatutos. 
 
 
-
-
 ## Zain
 <sup class='bibleverse'>49</sup> ZAIN. Acuérdate de la palabra dada á tu siervo, en la cual me has hecho esperar.\
 <sup class='bibleverse'>50</sup> Esta es mi consuelo en mi aflicción: porque tu dicho me ha vivificado.\
@@ -2514,8 +2502,6 @@
 <sup class='bibleverse'>55</sup> Acordéme en la noche de tu nombre, oh Jehová, y guardé tu ley.\
 <sup class='bibleverse'>56</sup> Esto tuve, porque guardaba tus mandamientos. 
 
-
-
 ## Cheth
 <sup class='bibleverse'>57</sup> CHETH. Mi porción, oh Jehová, dije, será guardar tus palabras.\
 <sup class='bibleverse'>58</sup> Tu presencia supliqué de todo corazón: ten misericordia de mí según tu palabra.\
@@ -2524,9 +2510,7 @@
 <sup class='bibleverse'>61</sup> Compañías de impíos me han robado: mas no me he olvidado de tu ley. ^[**119:61** Sal 119,83]\
 <sup class='bibleverse'>62</sup> A media noche me levantaba á alabarte sobre los juicios de tu justicia. ^[**119:62** Sal 42,9]\
 <sup class='bibleverse'>63</sup> Compañero soy yo de todos los que te temieren y guardaren tus mandamientos.\
-<sup class='bibleverse'>64</sup> De tu misericordia, oh Jehová, está llena la tierra: enséñame tus estatutos. 
-
-^[**119:64** Sal 33,5] 
+<sup class='bibleverse'>64</sup> De tu misericordia, oh Jehová, está llena la tierra: enséñame tus estatutos. ^[**119:64** Sal 33,5] 
   
 
 ## Teth
@@ -2537,9 +2521,7 @@
 <sup class='bibleverse'>69</sup> Contra mí forjaron mentira los soberbios: mas yo guardaré de todo corazón tus mandamientos. ^[**119:69** Sal 119,78]\
 <sup class='bibleverse'>70</sup> Engrasóse el corazón de ellos como sebo; mas yo en tu ley me he deleitado. ^[**119:70** Sal 119,77]\
 <sup class='bibleverse'>71</sup> Bueno me es haber sido humillado, para que aprenda tus estatutos. ^[**119:71** Sal 118,21]\
-<sup class='bibleverse'>72</sup> Mejor me es la ley de tu boca, que millares de oro y plata. 
-
-^[**119:72** Sal 19,11] 
+<sup class='bibleverse'>72</sup> Mejor me es la ley de tu boca, que millares de oro y plata. ^[**119:72** Sal 19,11] 
       
 
 ## Jod
@@ -2551,8 +2533,6 @@
 <sup class='bibleverse'>78</sup> Sean avergonzados los soberbios, porque sin causa me han calumniado: yo empero, meditaré en tus mandamientos. ^[**119:78** Sal 119,85-86]\
 <sup class='bibleverse'>79</sup> Tórnense á mí los que te temen y conocen tus testimonios.\
 <sup class='bibleverse'>80</sup> Sea mi corazón íntegro en tus estatutos; porque no sea yo avergonzado. 
-
-
    
 
 ## Caph
@@ -2563,9 +2543,7 @@
 <sup class='bibleverse'>85</sup> Los soberbios me han cavado hoyos; mas no obran según tu ley.\
 <sup class='bibleverse'>86</sup> Todos tus mandamientos son verdad: sin causa me persiguen; ayúdame.\
 <sup class='bibleverse'>87</sup> Casi me han echado por tierra: mas yo no he dejado tus mandamientos.\
-<sup class='bibleverse'>88</sup> Vivifícame conforme á tu misericordia; y guardaré los testimonios de tu boca. 
-
-^[**119:88** Sal 119,149] 
+<sup class='bibleverse'>88</sup> Vivifícame conforme á tu misericordia; y guardaré los testimonios de tu boca. ^[**119:88** Sal 119,149] 
  
 
 ## Lamed
@@ -2577,8 +2555,6 @@
 <sup class='bibleverse'>94</sup> Tuyo soy yo, guárdame; porque he buscado tus mandamientos. ^[**119:94** Sal 119,45]\
 <sup class='bibleverse'>95</sup> Los impíos me han aguardado para destruirme: mas yo entenderé en tus testimonios.\
 <sup class='bibleverse'>96</sup> A toda perfección he visto fin: ancho sobremanera es tu mandamiento. 
-
-
    
 
 ## Mem
@@ -2592,8 +2568,6 @@
 <sup class='bibleverse'>104</sup> De tus mandamientos he adquirido inteligencia: por tanto he aborrecido todo camino de mentira. 
 
 
-
-
 ## Nun
 <sup class='bibleverse'>105</sup> NUN. Lámpara es á mis pies tu palabra, y lumbrera á mi camino. ^[**119:105** 2Pe 1,19]\
 <sup class='bibleverse'>106</sup> Juré y ratifiqué el guardar los juicios de tu justicia.\
@@ -2603,8 +2577,6 @@
 <sup class='bibleverse'>110</sup> Pusiéronme lazo los impíos: empero yo no me desvié de tus mandamientos.\
 <sup class='bibleverse'>111</sup> Por heredad he tomado tus testimonios para siempre; porque son el gozo de mi corazón.\
 <sup class='bibleverse'>112</sup> Mi corazón incliné á poner por obra tus estatutos de continuo, hasta el fin. 
-
-
   
 
 ## Samech
@@ -2616,8 +2588,6 @@
 <sup class='bibleverse'>118</sup> Hollaste á todos los que se desvían de tus estatutos: porque mentira es su engaño.\
 <sup class='bibleverse'>119</sup> Como escorias hiciste consumir á todos los impíos de la tierra: por tanto yo he amado tus testimonios.\
 <sup class='bibleverse'>120</sup> Mi carne se ha extremecido por temor de ti; y de tus juicios tengo miedo. 
-
-
  
 
 ## Ain
@@ -2631,8 +2601,6 @@
 <sup class='bibleverse'>128</sup> Por eso todos los mandamientos de todas las cosas estimé rectos: aborrecí todo camino de mentira. 
 
 
-
-
 ## Pe
 <sup class='bibleverse'>129</sup> PE. Maravillosos son tus testimonios: por tanto los ha guardado mi alma.\
 <sup class='bibleverse'>130</sup> El principio de tus palabras alumbra; hace entender á los simples. ^[**119:130** Sal 19,8]\
@@ -2644,8 +2612,6 @@
 <sup class='bibleverse'>136</sup> Ríos de agua descendieron de mis ojos, porque no guardaban tu ley. 
 
 
-
-
 ## Tzaddi
 <sup class='bibleverse'>137</sup> TZADDI. Justo eres tú, oh Jehová, y rectos tus juicios.\
 <sup class='bibleverse'>138</sup> Tus testimonios, que has recomendado, son rectos y muy fieles.\
@@ -2655,8 +2621,6 @@
 <sup class='bibleverse'>142</sup> Tu justicia es justicia eterna, y tu ley la verdad.\
 <sup class='bibleverse'>143</sup> Aflicción y angustia me hallaron: mas tus mandamientos fueron mis deleites. ^[**119:143** Sal 119,174]\
 <sup class='bibleverse'>144</sup> Justicia eterna son tus testimonios; dame entendimiento, y viviré. 
-
-
  
 
 ## Coph
@@ -2670,8 +2634,6 @@
 <sup class='bibleverse'>152</sup> Ya ha mucho que he entendido de tus mandamientos, que para siempre los fundaste. 
 
 
-
-
 ## Resh
 <sup class='bibleverse'>153</sup> RESH. Mira mi aflicción, y líbrame; porque de tu ley no me he olvidado. ^[**119:153** Sal 119,176]\
 <sup class='bibleverse'>154</sup> Aboga mi causa, y redímeme: vivifícame con tu dicho.\
@@ -2683,8 +2645,6 @@
 <sup class='bibleverse'>160</sup> El principio de tu palabra es verdad; y eterno es todo juicio de tu justicia. 
 
 
-
-
 ## Sin
 <sup class='bibleverse'>161</sup> SIN. Príncipes me han perseguido sin causa; mas mi corazón tuvo temor de tus palabras.\
 <sup class='bibleverse'>162</sup> Gózome yo en tu palabra, como el que halla muchos despojos.\
@@ -2694,8 +2654,6 @@
 <sup class='bibleverse'>166</sup> Tu salud he esperado, oh Jehová; y tus mandamientos he puesto por obra. ^[**119:166** Gén 49,18]\
 <sup class='bibleverse'>167</sup> Mi alma ha guardado tus testimonios, y helos amado en gran manera.\
 <sup class='bibleverse'>168</sup> Guardado he tus mandamientos y tus testimonios; porque todos mis caminos están delante de ti. 
-
-
 
 
 ## Tau
@@ -2741,7 +2699,7 @@
 <sup class='bibleverse'>7</sup> Haya paz en tu antemuro, y descanso en tus palacios.\
 <sup class='bibleverse'>8</sup> Por amor de mis hermanos y mis compañeros hablaré ahora paz de ti.\
 <sup class='bibleverse'>9</sup> A causa de la casa de Jehová nuestro Dios, buscaré bien para ti.
-
+ 
 
 ## Los creyentes miran a Dios con vergüenza y burla
 # 123 
@@ -2760,7 +2718,7 @@
 <sup class='bibleverse'>6</sup> Bendito Jehová, que no nos dió por presa á sus dientes.\
 <sup class='bibleverse'>7</sup> Nuestra alma escapó cual ave del lazo de los cazadores: quebróse el lazo, y escapamos nosotros.\
 <sup class='bibleverse'>8</sup> Nuestro socorro es en el nombre de Jehová, que hizo el cielo y la tierra.
-
+ 
 
 ## Dios protege a su pueblo Israel y a todos los rectos
 # 125 
@@ -2769,7 +2727,7 @@
 <sup class='bibleverse'>3</sup> Porque no reposará la vara de la impiedad sobre la suerte de los justos; porque no extiendan los justos sus manos á la iniquidad.\
 <sup class='bibleverse'>4</sup> Haz bien, oh Jehová, á los buenos, y á los que son rectos en sus corazones.\
 <sup class='bibleverse'>5</sup> Mas á los que se apartan tras sus perversidades, Jehová los llevará con los que obran iniquidad: y paz sea sobre Israel.
-
+ 
 
 ## Consuelo en las lágrimas
 # 126 
@@ -2788,7 +2746,7 @@
 <sup class='bibleverse'>3</sup> He aquí, heredad de Jehová son los hijos: cosa de estima el fruto del vientre. ^[**127:3** Gén 33,5; Sal 128,3-4]\
 <sup class='bibleverse'>4</sup> Como saetas en mano del valiente, así son los hijos habidos en la juventud.\
 <sup class='bibleverse'>5</sup> Bienaventurado el hombre que hinchió su aljaba de ellos: no será avergonzado cuando hablare con los enemigos en la puerta.
-
+ 
 
 ## La felicidad doméstica como bendición del temor de Dios
 # 128 
@@ -2850,7 +2808,7 @@
 <sup class='bibleverse'>16</sup> Asimismo vestiré á sus sacerdotes de salud, y sus santos darán voces de júbilo.\
 <sup class='bibleverse'>17</sup> Allí haré reverdecer el cuerno de David: he prevenido lámpara á mi ungido. ^[**132:17** Luc 1,69; Sal 89,25]\
 <sup class='bibleverse'>18</sup> A sus enemigos vestiré de confusión: mas sobre él florecerá su corona.
-   
+    
 
 ## Bendiciones de la unidad fraterna
 # 133 
@@ -2888,7 +2846,7 @@
 <sup class='bibleverse'>19</sup> Casa de Israel, bendecid á Jehová: casa de Aarón, bendecid á Jehová:\
 <sup class='bibleverse'>20</sup> Casa de Leví, bendecid á Jehová: los que teméis á Jehová, bendecid á Jehová.\
 <sup class='bibleverse'>21</sup> Bendito de Sión Jehová, que mora en Jerusalem. Aleluya.
-       
+        
 
 ## Canto de acción de gracias por los beneficios de Dios para Israel
 # 136 
@@ -2918,7 +2876,7 @@
 <sup class='bibleverse'>24</sup> Y nos rescató de nuestros enemigos, porque para siempre es su misericordia.\
 <sup class='bibleverse'>25</sup> El da mantenimiento á toda carne, porque para siempre es su misericordia.\
 <sup class='bibleverse'>26</sup> Alabad al Dios de los cielos: porque para siempre es su misericordia.
- 
+  
 
 ## Lamento de los judíos capturados a los ríos de Babilonia
 # 137 
@@ -2988,7 +2946,7 @@
 <sup class='bibleverse'>11</sup> El hombre deslenguado no será firme en la tierra: el mal cazará al hombre injusto para derribarle.\
 <sup class='bibleverse'>12</sup> Yo sé que hará Jehová el juicio del afligido, el juicio de los menesterosos.\
 <sup class='bibleverse'>13</sup> Ciertamente los justos alabarán tu nombre; los rectos morarán en tu presencia.
-
+ 
 
 ## Oración por protección contra el mal y los perseguidores
 # 141 
@@ -3048,7 +3006,7 @@
 <sup class='bibleverse'>13</sup> Nuestros graneros llenos, provistos de toda suerte de grano; nuestros ganados, que paran á millares y diez millares en nuestras plazas:\
 <sup class='bibleverse'>14</sup> Que nuestros bueyes estén fuertes para el trabajo; que no tengamos asalto, ni que hacer salida, ni grito de alarma en nuestras plazas.\
 <sup class='bibleverse'>15</sup> Bienaventurado el pueblo que tiene esto: bienaventurado el pueblo cuyo Dios es Jehová.
-      
+       
 
 ## Canto de alabanza a la grandeza y bondad de Dios, sustentador y gobernante del mundo
 # 145 
@@ -3073,7 +3031,7 @@
 <sup class='bibleverse'>19</sup> Cumplirá el deseo de los que le temen; oirá asimismo el clamor de ellos, y los salvará. ^[**145:19** Prov 10,24]\
 <sup class='bibleverse'>20</sup> Jehová guarda á todos los que le aman; empero destruirá á todos los impíos.\
 <sup class='bibleverse'>21</sup> La alabanza de Jehová hablará mi boca; y bendiga toda carne su santo nombre por siglo y para siempre.
-    
+     
 
 ## ¡Bienaventurados los que confían en el Señor!
 # 146 
@@ -3111,7 +3069,7 @@
 <sup class='bibleverse'>18</sup> Enviará su palabra, y los derretirá: soplará su viento, y fluirán las aguas.\
 <sup class='bibleverse'>19</sup> El denuncia sus palabras á Jacob, sus estatutos y sus juicios á Israel.\
 <sup class='bibleverse'>20</sup> No ha hecho esto con toda gente; y no conocieron sus juicios. Aleluya.
-   
+    
 
 ## ¡Todo el mundo, toda la creación, alabado sea el Señor!
 # 148 
@@ -3142,7 +3100,7 @@
 <sup class='bibleverse'>7</sup> Para hacer venganza de las gentes, y castigo en los pueblos;\
 <sup class='bibleverse'>8</sup> Para aprisionar sus reyes en grillos, y sus nobles con cadenas de hierro;\
 <sup class='bibleverse'>9</sup> Para ejecutar en ellos el juicio escrito: gloria será esta para todos sus santos. Aleluya.
- 
+  
 
 ## ¡Todo lo que respira, alabado sea el Señor!
 # 150 

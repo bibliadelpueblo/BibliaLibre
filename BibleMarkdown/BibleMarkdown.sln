@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncapitalizeReinaValera1909
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibleMarkdown", "BibleMarkdown\BibleMarkdown.csproj", "{86E1157D-519C-4777-A5B9-3C0B50274BE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrateFramework", "MigrateFramework\MigrateFramework.csproj", "{981C92AE-623E-449E-9D88-A4C0B0928A92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{86E1157D-519C-4777-A5B9-3C0B50274BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E1157D-519C-4777-A5B9-3C0B50274BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E1157D-519C-4777-A5B9-3C0B50274BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981C92AE-623E-449E-9D88-A4C0B0928A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981C92AE-623E-449E-9D88-A4C0B0928A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981C92AE-623E-449E-9D88-A4C0B0928A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981C92AE-623E-449E-9D88-A4C0B0928A92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,12 +1,14 @@
 BibleMarkdown or bibmark.exe is an application that transforms USFM markup to Bible Markdown and then to LaTeX and HTML.
 
 Bible Markdown is normal pandoc Markdown with the following extensions:
-- For Footnotes you can make them more readable, by placing a marker ^^ at the place of the footnote, but specifying the footnote later in the text with ordinary ^[Footnote] markdown
+- For Footnotes you can make them more readable, by placing a marker ^label^ at the place of the footnote, but specifying the footnote later in the text with ordinary ^label^[Footnote] markdown. "label" must be a letter or word without any digits.
 syntax.
 - You can have comments by bracing them with two % characters. Comments can span multiple lines.
 - Verse numbers are noted with superscript Markdown notation, like this ^1^ In the beginning was the Word and the Word was with God and the Word was God. ^2^ This was in the beginning...
 - if the text contains the comment %!verse-paragraphs%, each verse is rendered in a paragraph. For use in Psalms and Proverbs.
 - Chapter numbers are denoted with a # markdown title and Chapter headings with a ## markdown title
+- A special comment %!verse-paragraphs% can be placed in the text, so that for this document, all verses are placed in a separate paragraph
+- A special comment %!replace /regularexpression/replacement/regularexpression/replacement/...% can be placed in the text. All the regular expressions will be replaced. You can choose another delimiter char than /, the first character encountered will be used as delimiter.
 
 If you have the source text of your Bible in USFM markup, you can place those files in a subfolder src. bibmark searches this folder for USFM source and creates Bible Markdown
 files in the main folder if the source files are newer than the Bible Markdown files.

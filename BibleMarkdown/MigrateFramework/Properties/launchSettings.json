@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "profiles": {
+    "MigrateFramework": {
+      "commandName": "Project",
+      "commandLineArgs": "",
+      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\German.Luther1912"
+    }
+  }
+}

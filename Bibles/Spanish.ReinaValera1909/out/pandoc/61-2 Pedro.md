@@ -2,25 +2,16 @@
 # 1 
 \bibleverse{1} Simón Pedro, siervo y apóstol de Jesucristo, á los que habéis alcanzado fe igualmente preciosa con nosotros en la justicia de nuestro Dios y Salvador Jesucristo: \bibleverse{2} Gracia y paz os sea multiplicada en el conocimiento de Dios, y de nuestro Señor Jesús. 
 
-
-
-
-
 ## Recordatorio de perseverancia y progreso en el desarrollo de la fe para la aceptación en el reino eterno de Cristo
 \bibleverse{3} Como todas las cosas que pertenecen á la vida y á la piedad nos sean dadas de su divina potencia, por el conocimiento de aquel que nos ha llamado por su gloria y virtud: \bibleverse{4} Por las cuales nos son dadas preciosas y grandísimas promesas, para que por ellas fueseis hechos participantes de la naturaleza divina, habiendo huído de la corrupción que está en el mundo por concupiscencia. \bibleverse{5} Vosotros también, poniendo toda diligencia por esto mismo, mostrad en vuestra fe virtud, y en la virtud ciencia; ^[**1:5** Gal 5,6; Gal 5,22] \bibleverse{6} Y en la ciencia templanza, y en la templanza paciencia, y en la paciencia temor de Dios; \bibleverse{7} Y en el temor de Dios, amor fraternal, y en el amor fraternal caridad. \bibleverse{8} Porque si en vosotros hay estas cosas, y abundan, no os dejarán estar ociosos, ni estériles en el conocimiento de nuestro Señor Jesucristo. \bibleverse{9} Mas el que no tiene estas cosas, es ciego, y tiene la vista muy corta, habiendo olvidado la purificación de sus antiguos pecados. ^[**1:9** 1Jn 2,9; 1Jn 1,2-11] \bibleverse{10} Por lo cual, hermanos, procurad tanto más de hacer firme vuestra vocación y elección; porque haciendo estas cosas, no caeréis jamás. \bibleverse{11} Porque de esta manera os será abundantemente administrada la entrada en el reino eterno de nuestro Señor y Salvador Jesucristo. 
-
-
  
 
 ## La indicación del apóstol de su muerte inminente
 \bibleverse{12} Por esto, yo no dejaré de amonestaros siempre de estas cosas, aunque vosotros las sepáis, y estéis confirmados en la verdad presente. \bibleverse{13} Porque tengo por justo, en tanto que estoy en este tabernáculo, de incitaros con amonestación: \bibleverse{14} Sabiendo que brevemente tengo de dejar mi tabernáculo, como nuestro Señor Jesucristo me ha declarado. ^[**1:14** Juan 21,18-19] \bibleverse{15} También yo procuraré con diligencia, que después de mi fallecimiento, vosotros podáis siempre tener memoria de estas cosas. 
 
 
-
-
 ## Referencia a la fiabilidad del sermón apostólico y la palabra profética
 \bibleverse{16} Porque no os hemos dado á conocer la potencia y la venida de nuestro Señor Jesucristo, siguiendo fábulas por arte compuestas; sino como habiendo con nuestros propios ojos visto su majestad. \bibleverse{17} Porque él había recibido de Dios Padre honra y gloria, cuando una tal voz fué á él enviada de la magnífica gloria: Este es el amado Hijo mío, en el cual yo me he agradado. \bibleverse{18} Y nosotros oímos esta voz enviada del cielo, cuando estábamos juntamente con él en el monte santo. 
-
 
 \bibleverse{19} Tenemos también la palabra profética más permanente, á la cual hacéis bien de estar atentos como á una antorcha que alumbra en lugar oscuro hasta que el día esclarezca, y el lucero de la mañana salga en vuestros corazones: \bibleverse{20} Entendiendo primero esto, que ninguna profecía de la Escritura es de particular interpretación; \bibleverse{21} Porque la profecía no fué en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo. ^[**1:21** 2Tim 3,16-17] 
  
@@ -30,20 +21,14 @@
 \bibleverse{1} Pero hubo también falsos profetas en el pueblo, como habrá entre vosotros falsos doctores, que introducirán encubiertamente herejías de perdición, y negarán al Señor que los rescató, atrayendo sobre sí mismos perdición acelerada. ^[**2:1** Mat 24,11; 1Tim 4,1] \bibleverse{2} Y muchos seguirán sus disoluciones, por los cuales el camino de la verdad será blasfemado; \bibleverse{3} Y por avaricia harán mercadería de vosotros con palabras fingidas; sobre los cuales la condenación ya de largo tiempo no se tarda, y su perdición no se duerme. 
 
 
-
-
 ## Tres ejemplos del Antiguo Testamento
 \bibleverse{4} Porque si Dios no perdonó á los ángeles que habían pecado, sino que habiéndolos despeñado en el infierno con cadenas de oscuridad, los entregó para ser reservados al juicio; \bibleverse{5} Y si no perdonó al mundo viejo, mas guardó á Noé, pregonero de justicia, con otras siete personas, trayendo el diluvio sobre el mundo de malvados; ^[**2:5** 1Pe 3,20; 2Pe 3,6; Gén 8,18] \bibleverse{6} Y si condenó por destrucción las ciudades de Sodoma y de Gomorra, tornándolas en ceniza, y poniéndolas por ejemplo á los que habían de vivir sin temor y reverencia de Dios; ^[**2:6** Gén 19,24-25] \bibleverse{7} Y libró al justo Lot, acosado por la nefanda conducta de los malvados; \bibleverse{8} (Porque este justo, con ver y oir, morando entre ellos, afligía cada día su alma justa con los hechos de aquellos injustos;) \bibleverse{9} Sabe el Señor librar de tentación á los píos, y reservar á los injustos para ser atormentados en el día del juicio; ^[**2:9** 1Cor 10,13] \bibleverse{10} Y principalmente á aquellos que, siguiendo la carne, andan en concupiscencia é inmundicia, y desprecian la potestad; atrevidos, contumaces, que no temen decir mal de las potestades superiores: \bibleverse{11} Como quiera que los mismos ángeles, que son mayores en fuerza y en potencia, no pronuncian juicio de maldición contra ellas delante del Señor. 
-
-
   
 
 ## Descripción de la maldad y la inmoralidad de los falsos maestros
 \bibleverse{12} Mas éstos, diciendo mal de las cosas que no entienden, como bestias brutas, que naturalmente son hechas para presa y destrucción, perecerán en su perdición, \bibleverse{13} Recibiendo el galardón de su injusticia, ya que reputan por delicia poder gozar de deleites cada día. Estos son suciedades y manchas, los cuales comiendo con vosotros, juntamente se recrean en sus errores; \bibleverse{14} Teniendo los ojos llenos de adulterio, y no saben cesar de pecar; cebando las almas inconstantes; teniendo el corazón ejercitado en codicias, siendo hijos de maldición; \bibleverse{15} Que han dejado el camino derecho, y se han extraviado, siguiendo el camino de Balaam, hijo de Bosor, el cual amó el premio de la maldad. \bibleverse{16} Y fué reprendido por su iniquidad: una muda bestia de carga, hablando en voz de hombre, refrenó la locura del profeta. 
 
-
 \bibleverse{17} Estos son fuentes sin agua, y nubes traídas de torbellino de viento: para los cuales está guardada la oscuridad de las tinieblas para siempre. ^[**2:17** Prov 25,14] \bibleverse{18} Porque hablando arrogantes palabras de vanidad, ceban con las concupiscencias de la carne en disoluciones á los que verdaderamente habían huído de los que conversan en error; \bibleverse{19} Prometiéndoles libertad, siendo ellos mismos siervos de corrupción. Porque el que es de alguno vencido, es sujeto á la servidumbre del que lo venció. 
-
 
 
 \bibleverse{20} Ciertamente, si habiéndose ellos apartado de las contaminaciones del mundo, por el conocimiento del Señor y Salvador Jesucristo, y otra vez envolviéndose en ellas, son vencidos, sus postrimerías les son hechas peores que los principios. ^[**2:20** Mat 12,45] \bibleverse{21} Porque mejor les hubiera sido no haber conocido el camino de la justicia, que después de haberlo conocido, tornarse atrás del santo mandamiento que les fué dado. ^[**2:21** Luc 12,47-48] \bibleverse{22} Pero les ha acontecido lo del verdadero proverbio: El perro se volvió á su vómito, y la puerca lavada á revolcarse en el cieno. ^[**2:22** Prov 26,11] 
@@ -52,20 +37,14 @@
 ## Contra los negadores de la segunda venida de Cristo
 # 3 
 \bibleverse{1} Carísimos, yo os escribo ahora esta segunda carta, por las cuales ambas despierto con exhortación vuestro limpio entendimiento; ^[**3:1** 2Pe 1,13] \bibleverse{2} Para que tengáis memoria de las palabras que antes han sido dichas por los santos profetas, y de nuestro mandamiento, que somos apóstoles del Señor y Salvador: \bibleverse{3} Sabiendo primero esto, que en los postrimeros días vendrán burladores, andando según sus propias concupiscencias, ^[**3:3** 1Tim 4,1; Jds 1,18] \bibleverse{4} Y diciendo: ¿Dónde está la promesa de su advenimiento? porque desde el día en que los padres durmieron, todas las cosas permanecen así como desde el principio de la creación. ^[**3:4** Is 5,19; Ezeq 12,22; Mat 24,48] \bibleverse{5} Cierto ellos ignoran voluntariamente, que los cielos fueron en el tiempo antiguo, y la tierra que por agua y en agua está asentada, por la palabra de Dios; ^[**3:5** Mat 24,38; Gén 1,2; Gén 1,6; Gén 1,9; Sal 24,2] \bibleverse{6} Por lo cual el mundo de entonces pereció anegado en agua: ^[**3:6** 2Pe 2,5; Gén 7,21] \bibleverse{7} Mas los cielos que son ahora, y la tierra, son conservados por la misma palabra, guardados para el fuego en el día del juicio, y de la perdición de los hombres impíos. 
-
-
     
 
 ## La paciencia del Señor
-\bibleverse{8} Mas, oh amados, no ignoréis esta una cosa: que un día delante del Señor es como mil años y mil años como un día. ^[**3:8** Sal 90,4] \bibleverse{9} El Señor no tarda su promesa, como algunos la tienen por tardanza; sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento. 
-
-^[**3:9** Hab 2,3; 1Tim 2,4] 
+\bibleverse{8} Mas, oh amados, no ignoréis esta una cosa: que un día delante del Señor es como mil años y mil años como un día. ^[**3:8** Sal 90,4] \bibleverse{9} El Señor no tarda su promesa, como algunos la tienen por tardanza; sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento. ^[**3:9** Hab 2,3; 1Tim 2,4] 
  
 
 ## Referencia a la ocurrencia repentina y el temor del fin del mundo; Un nuevo mundo emerge
 \bibleverse{10} Mas el día del Señor vendrá como ladrón en la noche; en el cual los cielos pasarán con grande estruendo, y los elementos ardiendo serán deshechos, y la tierra y las obras que en ella están serán quemadas. ^[**3:10** 1Tes 5,23; Mat 24,29; Apoc 20,11] \bibleverse{11} Pues como todas estas cosas han de ser deshechas, ¿qué tales conviene que vosotros seáis en santas y pías conversaciones, \bibleverse{12} Esperando y apresurándoos para la venida del día de Dios, en el cual los cielos siendo encendidos serán deshechos, y los elementos siendo abrasados, se fundirán? \bibleverse{13} Bien que esperamos cielos nuevos y tierra nueva, según sus promesas, en los cuales mora la justicia. 
-
-
 
 
 ## Zusammenfassende Schlußmahnung mit Bezugnahme auf die Briefe des Paulus
