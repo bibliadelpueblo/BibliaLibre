@@ -468,133 +468,133 @@
 # 02-2. Mose.md
 ## 1
 ^0^ 
-### Los hijos de Israel multiplicaron
+### Die Israeliten vermehren sich
 ^1^ ^a^ ^6^ ^b^ ^7^ ^c^ ^a^[**1:1** 1Mo 46,8] ^b^[**1:6** 1Mo 50,26] ^c^[**1:7** Apg 7,17]  \ ^11^ ^a^ ^14^ ^a^[**1:11** 1Mo 15,13; 1Mo 47,11]  
-### El temor de Dios de los dos parteras
+### Die Gottesfurcht der zwei Hebammen
 ^18^ \ ^19^ \ 
 ## 2
 ^0^ 
-### Nacimiento y abandono, salvación y educación de Moisés
+### Geburt und Aussetzung, Rettung und Erziehung Moses
 ^2^ ^a^ ^6^ ^a^[**2:2** Apg 7,20; Hebr 11,23]  \ ^7^ \ ^8^ \ ^9^ \ ^10^ 
-### Moisés mató al Egipcio
+### Moses schlägt einen Ägypter tot
 ^11^ ^a^ ^12^ ^b^ ^a^[**2:11** Hebr 11,24-25] ^b^[**2:12** Apg 7,24]  \ ^13^ \ ^14^ ^a^ ^a^[**2:14** Apg 7,27-28; Apg 7,35]  
-### Moisés huyó a Madián y se casa con Séphora
+### Mose flieht nach Midian und heiratet dort Zippora
 ^15^ ^a^ ^a^[**2:15** Hebr 11,27]  \ ^16^ ^a^ ^17^ ^b^ ^18^ ^a^[**2:16** 2Mo 3,1] ^b^[**2:17** 1Mo 29,10]  \ ^19^ \ ^20^ \ ^22^ ^a^ ^a^[**2:22** 2Mo 18,3]  
-### Dios escucha las aflicciones de los israelitas oprimidos
+### Gott hört die Wehklagen der bedrückten Israeliten
 ^23^ ^a^ ^24^ ^b^ ^25^ ^a^[**2:23** 2Mo 3,7] ^b^[**2:24** 1Mo 15,18; 1Mo 26,3; 1Mo 28,13-14]  
 ## 3
 ^0^ 
-### Dios se revela a Moisés en la zarza como el “Yo soy”
+### Gott offenbart sich dem Mose im Dornbusch als der “Ich bin”
 ^3^ \ ^4^ \ ^5^ ^a^ ^6^ ^b^ ^a^[**3:5** Jos 5,15; 1Mo 28,17] ^b^[**3:6** Mt 22,32]  \ ^7^ ^a^ ^10^ ^a^[**3:7** 2Mo 2,23]  \ ^11^ \ ^12^ 
-### La revelacion del nombre de Dios
+### Die Offenbarung des Gottesnamens
 ^13^ \ ^14^ ^a^ ^15^ ^b^ ^a^[**3:14** Offb 1,4; Offb 1,8] ^b^[**3:15** 2Mo 6,2-3; Jes 42,8]  
-### El llamado de Dios y su promesa por Moisés
+### Gottes Auftrag und Verheißung an Mose
 ^18^ ^a^ ^22^ ^a^[**3:18** 2Mo 5,1; 2Mo 5,3]  
 ## 4
 ^0^ 
-### Los milagros de la autenticación
+### Die Beglaubigungswunder
 ^1^ \ ^2^ \ ^3^ ^a^ ^a^[**4:3** 2Mo 7,10]  \ ^4^ \ ^6^ \ ^7^ \ ^9^ 
-### Nuevas objeciones de Moisés; Nombramiento de Aarón como orador
+### Neue Einwendungen Moses; Bestellung Aarons zum Sprecher
 ^10^ ^a^ ^a^[**4:10** 2Mo 3,11; 2Mo 6,12; 2Mo 6,30]  \ ^11^ ^a^ ^12^ ^b^ ^a^[**4:11** Ps 94,9] ^b^[**4:12** Mt 10,19]  \ ^13^ \ ^17^ 
-### Moisés despidiéndose de su suegro Jetro; Instrucción de Dios
+### Moses Abschied von seinem Schwiegervater Jethro; Gottes Weisung
 ^18^ ^a^ ^a^[**4:18** 2Mo 3,1]  \ ^19^ ^a^ ^a^[**4:19** Mt 2,20]  \ ^20^ ^a^ ^21^ ^b^ ^22^ ^c^ ^23^ ^d^ ^a^[**4:20** 2Mo 18,3-4] ^b^[**4:21** 2Mo 7,3; 2Mo 7,13; 2Mo 8,11; 2Mo 8,15; 2Mo 8,28; 2Mo 9,12; 2Mo 9,23; 2Mo 10,1; 2Mo 10,20; 2Mo 10,27; 2Mo 11,10; 2Mo 14,4; 2Mo 14,17] ^c^[**4:22** Jer 31,9; Hos 11,1] ^d^[**4:23** 2Mo 11,5; 2Mo 12,29]  
-### Dios quiso matar a Moisés en la noche
+### Gott sucht Mose in der Nacht zu töten
 ^24^ ^a^ ^25^ ^b^ ^a^[**4:24** 1Mo 17,14] ^b^[**4:25** Jos 5,2]  \ ^26^ 
-### Moisés y Aarón encontraron fe entre los israelitas en Egipto
+### Mose und Aaron finden in Ägypten Glauben bei den Israeliten
 ^27^ \ ^31^ ^a^ ^a^[**4:31** 2Mo 3,16]  
 ## 5
 ^0^ 
-### La primera negociación fallida con el faraón
+### Die erste erfolglose Verhandlung mit dem Pharao
 ^1^ ^a^ ^a^[**5:1** 2Mo 3,18; 2Mo 7,16; 2Mo 7,26; 2Mo 8,16; 2Mo 9,1; 2Mo 9,13]  \ ^2^ ^a^ ^a^[**5:2** Dan 3,15]  \ ^3^ \ ^5^ 
-### El pueblo está aún más oprimida; los israelitas reprochan amargamente a Moisés y a Aarón
+### Das Volk wird noch härter bedrückt; die israelitischen Aufseher machen Mose und Aaron bittere Vorwürfe
 ^9^ \ ^14^ \ ^16^ ^a^ ^a^[**5:16** 1Kö 1,21]  \ ^18^ \ ^19^ \ ^21^ 
-### El lamento de Moisés y la promesa de Dios
+### Die Klage Moses und die Verheißung Gottes
 
 ## 6
 ^1^ ^a^ ^a^[**6:1** 2Mo 11,1; 2Mo 12,33]  
-### Dios se revela a sí mismo a Moisés de nuevo y promete la salvación del pueblo
+### Gott offenbart sich Mose aufs neue und verheißt die Rettung des Volkes
 ^4^ ^a^ ^8^ ^a^[**6:4** 1Mo 12,7]  
-### Moisés, rechazado por su pueblo desesperado, recibe nuevas instrucciones de Dios
+### Mose, von seinem verzagten Volk abgewiesen, erhält von Gott neue Weisung
 ^9^ \ ^11^ \ ^12^ ^a^ ^13^ ^a^[**6:12** 2Mo 6,30; 2Mo 4,10]  
-### Árbol genealógico de Aarons y Moisés
+### Stammbaum Aarons und Moses
 ^16^ ^a^ ^21^ ^b^ ^22^ ^c^ ^23^ ^d^ ^24^ ^e^ ^27^ ^a^[**6:16** 1Chr 5,27-30; 1Chr 6,1-4] ^b^[**6:21** 4Mo 16,1] ^c^[**6:22** 3Mo 10,4] ^d^[**6:23** 2Mo 28,1] ^e^[**6:24** 4Mo 25,7]  
-### La nueva misión de Moisés y Aarón ante el faraón
+### Die neue Sendung Moses und Aarons an den Pharao
 ^29^ \ ^30^ ^a^ ^a^[**6:30** 2Mo 6,12]  
 ## 7
 ^1^ ^a^ ^3^ ^b^ ^5^ ^a^[**7:1** 2Mo 4,16] ^b^[**7:3** 2Mo 4,21]  \ ^7^ 
-### Transformación del bastón en serpiente
+### Verwandlung des Stabes in eine Schlange
 ^9^ ^a^ ^a^[**7:9** 2Mo 4,3]  \ ^13^ ^a^ ^a^[**7:13** 2Mo 4,21]  
-### La primer plaga: Transformación de las aguas del Nilo en sangre
+### Die erste Plage: Verwandlung des Nilwassers in Blut
 ^17^ ^a^ ^19^ ^a^[**7:17** 2Mo 4,9]  \ ^22^ ^a^ ^29^ ^a^[**7:22** 2Mo 7,11]  
 ## 8
 ^0^ 
-### La segunda plaga de las ranas
+### Die zweite Plage der Frösche
 ^3^ ^a^ ^4^ ^b^ ^6^ ^c^ ^7^ ^a^[**8:3** 2Mo 7,11] ^b^[**8:4** 2Mo 8,24; 2Mo 9,28; 2Mo 10,17] ^c^[**8:6** 2Mo 9,14; 2Mo 15,11]  \ ^8^ \ ^9^ \ ^10^ \ ^11^ \ ^14^ ^a^ ^15^ ^b^ ^a^[**8:14** 2Mo 9,11] ^b^[**8:15** 2Mo 14,25; 2Mo 4,21]  
-### La tercera plaga: Mosquitos
+### Dritte Plage: Stechmücken
 ^16^ ^a^ ^19^ ^a^[**8:16** 2Mo 5,1]  
-### Cuarto plaga: moscas del perro
+### Die vierte Plage: Hundsfliegen
 ^22^ ^a^ ^23^ ^b^ ^24^ ^c^ ^a^[**8:22** 1Mo 43,32] ^b^[**8:23** 2Mo 3,18] ^c^[**8:24** 2Mo 8,4]  \ ^25^ \ ^27^ \ 
 ## 9
 ^0^ 
-### Quinta plaga: plaga del ganado
+### Die fünfte Plage: Viehpest
 ^1^ ^a^ ^7^ ^b^ ^a^[**9:1** 2Mo 5,1] ^b^[**9:7** 2Mo 4,21]  
-### La sexta plaga: tumores
+### Die sechste Plage: Beulen
 ^9^ \ ^10^ ^a^ ^12^ ^a^[**9:10** Offb 16,2]  
-### La séptima plaga: el granizo
+### Die siebte Plage: Hagel
 ^13^ ^a^ ^14^ ^b^ ^16^ ^c^ ^19^ ^a^[**9:13** 2Mo 5,1] ^b^[**9:14** 2Mo 8,6] ^c^[**9:16** 2Mo 7,3; 2Mo 14,4; Röm 9,17]  \ ^21^ \ ^22^ \ ^23^ ^a^ ^26^ ^a^[**9:23** Offb 16,21]  \ ^28^ ^a^ ^a^[**9:28** 2Mo 8,4]  \ ^30^ \ 
 ## 10
 ^0^ 
-### La octava plaga: langostas
+### Die achte Plage: Heuschrecken
 ^2^ ^a^ ^a^[**10:2** 2Mo 6,2-7]  \ ^3^ ^a^ ^6^ ^a^[**10:3** 2Mo 5,3]  \ ^7^ \ ^8^ \ ^9^ ^a^ ^a^[**10:9** 2Mo 5,1]  \ ^11^ \ ^16^ ^a^ ^17^ ^b^ ^a^[**10:16** 2Mo 9,27] ^b^[**10:17** 2Mo 8,4; 1Sam 12,19]  \ ^18^ ^a^ ^20^ ^a^[**10:18** 4Mo 11,2]  
-### La novena plaga: oscuridad
+### Die neunte Plage: Finsternis
 ^23^ \ ^24^ ^a^ ^a^[**10:24** 2Mo 10,10]  \ ^26^ \ ^28^ \ 
 ## 11
 ^0^ 
-### Anuncio de la décima plaga, la muerte del primogénito
+### Ankündigung der zehnten Plage, des Sterbens der Erstgeburten
 ^2^ ^a^ ^3^ ^a^[**11:2** 2Mo 3,21-22]  \ ^7^ ^a^ ^8^ ^a^[**11:7** 2Mo 9,4; 2Mo 9,26]  \ 
 ## 12
 ^0^ 
-### Institución de Pascua
+### Einsetzung des Passah
 ^2^ ^a^ ^7^ ^b^ ^12^ ^c^ ^13^ ^d^ ^a^[**12:2** 2Mo 13,4] ^b^[**12:7** 2Mo 12,13; 2Mo 12,22] ^c^[**12:12** 4Mo 33,4] ^d^[**12:13** Hebr 11,28]  
-### Arreglos para la fiesta de los panes sin levadura
+### Anordnungen über die Feier des Festes der ungesäuerten Brote
 ^14^ \ ^15^ ^a^ ^20^ ^a^[**12:15** 2Mo 13,7]  
-### Moisés enseña a los ancianos los preceptos sobre la Pascua
+### Mose teilt den Ältesten die Vorschriften über das Passah mit
 ^27^ \ ^28^ 
-### La décima plaga: la muerte del primogénito egipcio
+### Die zehnte Plage: Sterben der ägyptischen Erstgeburten
 ^29^ ^a^ ^32^ ^a^[**12:29** 2Mo 4,23]  \ ^33^ ^a^ ^36^ ^b^ ^a^[**12:33** 2Mo 6,1] ^b^[**12:36** 2Mo 3,21]  
-### El éxodo de Israel de Egipto
+### Der Auszug Israels aus Ägypten
 ^42^ 
-### Ordenanza de la Pascua; Santificación del primogénito
+### Nachtrag zur Passahverordnung; Heiligung der Erstgeburt
 ^46^ ^a^ ^51^ ^a^[**12:46** Joh 19,36]  
 ## 13
 ^2^ ^a^ ^a^[**13:2** 4Mo 8,17-18; 4Mo 18,15; Lk 2,23]  
-### El reglamento sobre la celebración de la Fiesta de los Panes sin Levadura
+### Die Vorschriften über die Feier des Festes der ungesäuerten Brote
 ^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^10^ ^a^[**13:5** 1Mo 17,8] ^b^[**13:6** 2Mo 12,15-16] ^c^[**13:7** 1Kor 5,8]  
-### Santificación del primogénito
+### Heiligung der Erstgeburten
 ^14^ ^a^ ^15^ ^b^ ^16^ ^a^[**13:14** 2Mo 12,26] ^b^[**13:15** 2Mo 12,29]  
-### El tren al desierto y el Mar Rojo a Etham
+### Der Zug nach der Wüste und dem Schilfmeer zu bis Etham
 ^19^ ^a^ ^22^ ^a^[**13:19** 1Mo 50,25; Jos 24,32]  
 ## 14
 ^0^ 
-### Dios ordena el cambio de dirección
+### Gott befiehlt die Änderung der Marschrichtung
 ^4^ ^a^ ^a^[**14:4** 2Mo 4,21; 2Mo 9,16; Hes 28,22]  
-### El faraón persigue a los israelitas y los alcanza
+### Der Pharao verfolgt die Israeliten und holt sie ein
 ^9^ 
-### Moisés anima a los israelitas desanimados; La intervención de Dios
+### Die verzagten Israeliten werden von Mose ermutigt; Das Eingreifen Gottes
 ^12^ \ ^14^ ^a^ ^a^[**14:14** 5Mo 1,30; 2Chr 20,15; Jes 30,15]  \ ^19^ ^a^ ^20^ ^a^[**14:19** 2Mo 13,21]  
-### Paso de los israelitas por el Mar Rojo; Caída de los egipcios
+### Durchzug der Israeliten durch das Schilfmeer; Untergang der Ägypter
 ^23^ ^a^ ^24^ ^b^ ^25^ ^c^ ^a^[**14:23** 2Mo 15,19] ^b^[**14:24** Ps 34,17; Ps 104,32] ^c^[**14:25** 2Mo 14,14; Ps 64,10]  \ ^31^ ^a^ ^a^[**14:31** 2Mo 19,9; 2Chr 20,20]  
 ## 15
 ^0^ 
-### Canción de victoria de los israelitas en el Mar Rojo
+### Siegeslied der Israeliten am Schilfmeer
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^7^ ^d^ ^14^ ^e^ ^18^ ^a^[**15:1** Offb 15,3] ^b^[**15:2** Ps 118,14; Jes 12,2] ^c^[**15:3** 2Mo 14,14; Ps 46,10; 2Mo 3,15] ^d^[**15:7** Jes 47,14] ^e^[**15:14** Jos 2,9-11]  \ ^19^ ^a^ ^a^[**15:19** 2Mo 14,22-29]  
-### Participación de mujeres en la alabanza del Señor
+### Beteiligung der Frauen am Preise des Herrn
 ^20^ ^a^ ^21^ ^b^ ^a^[**15:20** Ps 68,26] ^b^[**15:21** 2Mo 15,1]  
-### El agua amarga de Mara se volvió apetecible; la llegada a la encantadora Elim
+### Das bittere Wasser in Mara genießbar gemacht; die Ankunft im lieblichen Elim
 ^26^ \ 
 ## 16
 ^0^ 
-### El murmullo del pueblo; la exaltación divina mediante la donación de codornices y maná
+### Das Murren des Volkes; die göttliche Erhörung durch die Wachtel- und Mannaspende
 ^2^ ^a^ ^3^ ^b^ ^a^[**16:2** 2Mo 17,2] ^b^[**16:3** 2Mo 14,11]  \ ^4^ ^a^ ^5^ ^a^[**16:4** Joh 6,31; 1Kor 10,3]  \ ^12^ \ ^13^ ^a^ ^15^ ^a^[**16:13** 4Mo 11,31]  
 ### Reglas sobre recolección de maná; Moisés explica un fenómeno milagroso que ocurrió
 ^18^ ^a^ ^19^ ^b^ ^23^ ^c^ ^30^ ^a^[**16:18** 2Kor 8,15] ^b^[**16:19** Mt 6,34; Lk 11,3] ^c^[**16:23** 1Mo 2,2-3; 2Mo 20,8]  \ ^35^ ^a^ ^36^ ^a^[**16:35** Jos 5,12]  

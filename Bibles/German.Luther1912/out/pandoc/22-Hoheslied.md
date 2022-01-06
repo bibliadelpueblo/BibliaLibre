@@ -86,7 +86,7 @@
  
 
 ## En el destino en la casa del esposo
-\bibleverse{5} Wer ist die, die heraufsteigt von der Wüste und lehnt sich auf ihren Freund? Unter dem Apfelbaum weckte ich dich; da ist dein genesen deine Mutter, da ist dein genesen, die dich geboren hat. \bibleverse{6} Setze mich wie ein Siegel auf dein Herz und wie ein Siegel auf deinen Arm. Denn Liebe ist stark wie der Tod, und ihr Eifer ist fest wie die Hölle. Ihre Glut ist feurig und eine Flamme des HErrn, \bibleverse{7} dass auch viele Wasser nicht mögen die Liebe auslöschen noch die Ströme sie ertränken. Wenn einer alles Gut in seinem Hause um die Liebe geben wollte, so gälte es alles nichts. 
+\bibleverse{5} Wer ist die, die heraufsteigt von der Wüste und lehnt sich auf ihren Freund? Unter dem Apfelbaum weckte ich dich; da ist dein genesen deine Mutter, da ist dein genesen, die dich geboren hat. \bibleverse{6} Setze mich wie ein Siegel auf dein Herz und wie ein Siegel auf deinen Arm. Denn Liebe ist stark wie der Tod, und ihr Eifer ist fest wie die Hölle. Ihre Glut ist feurig und eine Flamme des [Herrn]{.smallcaps}, \bibleverse{7} dass auch viele Wasser nicht mögen die Liebe auslöschen noch die Ströme sie ertränken. Wenn einer alles Gut in seinem Hause um die Liebe geben wollte, so gälte es alles nichts. 
 
 ## Canción de la hermana pequeña que frustró los planes de los codiciosos hermanos
 \bibleverse{8} Unsere Schwester ist klein und hat keine Brüste. Was sollen wir unserer Schwester tun, wenn man nun um sie werben wird? \bibleverse{9} Ist sie eine Mauer, so wollen wir ein silbernes Bollwerk darauf bauen. Ist sie eine Tür, so wollen wir sie festigen mit Zedernbohlen. \bibleverse{10} Ich bin eine Mauer, und meine Brüste sind wie Türme. Da bin ich geworden vor seinen Augen, als die Frieden findet. 

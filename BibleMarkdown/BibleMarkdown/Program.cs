@@ -312,10 +312,11 @@ namespace BibleMarkdown
 				text = Regex.Replace(text, @"(\^[0-9]+\^[^#]*?)(\s*?)(?=\^[0-9]+\^)", "$1\\\n", RegexOptions.Singleline);
 			}
 
-			text = Regex.Replace(text, @"\^([0-9]+)\^", @"\bibleverse{$1}", RegexOptions.Singleline); // verses
+			text = Regex.Replace(text, @"\^([0-9]+)\^", @"\bibleverse{$1}"); // verses
 			text = Regex.Replace(text, @"%.*?%", "", RegexOptions.Singleline); // comments
 			text = Regex.Replace(text, @"^(# .*?)$\n^(## .*?)$", "$2\n$1", RegexOptions.Multiline); // titles
-			text = Regex.Replace(text, @"\^\^", "^", RegexOptions.Singleline); // alternative for superscript
+			text = Regex.Replace(text, @"\^\^", "^"); // alternative for superscript
+			text = Regex.Replace(text, @"""(.*?)""", $"“$1”"); // replace quotation mark with nicer letters
 
 			/*
 			text = Regex.Replace(text, @" ^# (.*?)$", @"\chapter{$1}", RegexOptions.Multiline);
