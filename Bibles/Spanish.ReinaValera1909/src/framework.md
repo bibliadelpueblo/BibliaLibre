@@ -664,11 +664,11 @@
 ^17^ ^a^ ^22^ ^b^ ^a^[**25:17** Heb 4,16] ^b^[**25:22** Núm 7,89] \ ^30^ \ ^40^ ^a^ ^a^[**25:40** Éxod 26,30; Hech 7,44; Heb 8,5] 
 ## 26
 ^0^ 
-### Instrucciones para hacer el apartamento: Los cuatro techos.
+### Instrucciones para hacer el apartamento: Los cuatro techos
 ^6^ \ ^14^ 
 ### El marco de madera, que consta de tablas y cinco barras
 ^25^ \ ^30^ 
-### Die beiden Vorhänge und die innere Ausstattung der Wohnung
+### Las dos cortinas y el interior del apartamento
 ^31^ ^a^ ^34^ ^b^ ^35^ ^c^ ^a^[**26:31** Mat 27,51] ^b^[**26:34** Éxod 25,21] ^c^[**26:35** Éxod 40,22] \ 
 ## 27
 ^0^ 
@@ -730,7 +730,7 @@
 ^0^ 
 ### El mandato de Dios de ir a la tierra prometida; El dolor de la gente por el rechazo de Dios
 ^2^ ^a^ ^3^ ^b^ ^a^[**33:2** Éxod 32,34] ^b^[**33:3** Éxod 32,9-10] \ ^4^ \ ^5^ \ ^6^ ^a^ ^a^[**33:6** Jon 3,6] 
-### La fundación y uso de la tienda de revelación frente al campamento.
+### La fundación y uso de la tienda de revelación frente al campamento
 ^7^ ^a^ ^9^ ^b^ ^11^ ^a^[**33:7** Éxod 29,42] ^b^[**33:9** Éxod 13,21] 
 ### Nuevas negociaciones entre Moisés y Dios sobre la dirección divina adicional del pueblo
 ^12^ ^a^ ^13^ ^b^ ^a^[**33:12** Éxod 33,2-5] ^b^[**33:13** Sal 103,7] \ ^14^ \ ^16^ ^a^ ^a^[**33:16** Deut 4,6-8] \ ^17^ ^a^ ^a^[**33:17** Éxod 33,12; 2Tim 2,19] 
@@ -746,7 +746,7 @@
 ^13^ ^a^ ^14^ ^b^ ^a^[**34:13** Éxod 23,24] ^b^[**34:14** Éxod 20,3; Éxod 20,5] \ ^16^ ^a^ ^a^[**34:16** Deut 7,3; Jue 3,6; 1Re 11,2] 
 ### Las nuevas regulaciones federales sobre el debido culto a Dios
 ^17^ ^a^ ^a^[**34:17** Éxod 20,23] \ ^18^ ^a^ ^a^[**34:18** Éxod 23,14-19] \ ^20^ \ ^21^ \ ^24^ \ ^25^ \ ^26^ 
-### Mose schreibt die Bundesgebote auf; Gott erneuert die Gesetzestafeln
+### Moisés escribe los mandamientos del pacto; Dios renueva las tablas de la ley
 ^27^ ^a^ ^a^[**34:27** Éxod 24,4] \ ^28^ ^a^ ^a^[**34:28** Éxod 24,18; Mat 4,2; Éxod 31,18] 
 ### El descenso de Moisés; el brillo de la piel de su rostro
 ^30^ ^a^ ^35^ ^a^[**34:30** 2Cor 3,7-18] 
@@ -794,7 +794,7 @@
 ^21^ 
 ### La prenda superior para el vestido de hombros
 ^22^ ^a^ ^26^ ^a^[**39:22** Éxod 28,31-35] 
-### La ropa oficial restante de los sacerdotes.
+### La ropa oficial restante de los sacerdotes
 ^29^ 
 ### El rostro del sumo sacerdote
 ^30^ ^a^ ^31^ ^b^ ^a^[**39:30** Éxod 29,6; Lev 8,9] ^b^[**39:31** Éxod 28,36-38] 
@@ -875,7 +875,7 @@
 ^9^ ^a^ ^10^ ^a^[**7:9** Lev 2,4-5; Lev 2,7] 
 ### Regulaciones para diferentes tipos de ofrendas de salvación
 ^12^ ^a^ ^15^ ^a^[**7:12** Lev 22,29] \ ^18^ \ ^21^ 
-### Prohibición del consumo de grasas y sangre.
+### Prohibición del consumo de grasas y sangre
 ^23^ ^a^ ^24^ ^b^ ^26^ ^c^ ^27^ ^a^[**7:23** Lev 3,7] ^b^[**7:24** Éxod 22,30] ^c^[**7:26** Lev 3,17] 
 ### Disposiciones sobre la participación de los sacerdotes en los sacrificios de salvación
 ^32^ ^a^ ^34^ ^a^[**7:32** Lev 9,21] \ 
@@ -1047,7 +1047,7 @@
 ^15^ ^a^ ^21^ ^a^[**23:15** Éxod 23,16; Éxod 34,22; Núm 28,26-31; Deut 16,9-12] \ ^22^ 
 ### La celebracion del año nuevo
 ^24^ ^a^ ^25^ ^a^[**23:24** Núm 29,1-6; Núm 10,10] 
-### Der große Versöhnungstag
+### El gran día de la expiación
 ^32^ 
 ### La fiesta de los tabernáculos
 ^34^ ^a^ ^36^ ^a^[**23:34** Éxod 23,16; Éxod 34,22; Núm 29,12-39; Deut 16,13-15] 
@@ -1073,11 +1073,11 @@
 ^38^ \ ^39^ ^a^ ^43^ ^a^[**25:39** Éxod 21,2] \ ^46^ \ ^53^ ^a^ ^55^ ^a^[**25:53** Lev 25,43] 
 ## 26
 ^0^ 
-### Bendiciones y maldiciones dadas por Dios como opción.
+### Bendiciones y maldiciones dadas por Dios como opción
 ^1^ \ ^2^ ^a^ ^a^[**26:2** Éxod 20,8] 
 ### Promesas de bendiciones en caso de obediencia
 ^5^ ^a^ ^a^[**26:5** Am 9,13] \ ^6^ ^a^ ^8^ ^b^ ^a^[**26:6** Job 11,19] ^b^[**26:8** Deut 32,30] \ ^13^ 
-### Tödliche Krankheiten und schimpfliche Niederlagen
+### Enfermedades mortales y derrotas vergonzosas
 ^17^ 
 ### Sequía y mal crecimiento
 ^19^ ^a^ ^20^ ^a^[**26:19** Deut 11,17; 1Re 17,1] 
@@ -1085,7 +1085,7 @@
 ^22^ 
 ### Angustia de guerra combinada con peste y hambre
 ^24^ ^a^ ^25^ ^b^ ^26^ ^a^[**26:24** 2Sam 22,27] ^b^[**26:25** Is 1,20] 
-### El sufrimiento del pueblo durante el exilio en los países de sus enemigos.
+### El sufrimiento del pueblo durante el exilio en los países de sus enemigos
 ^29^ ^a^ ^35^ ^a^[**26:29** 2Re 6,28] \ ^39^ 
 ### Perspectiva sobre el arrepentimiento y la conversión de Israel en el exilio
 ^40^ ^a^ ^41^ ^b^ ^42^ ^c^ ^43^ ^d^ ^45^ ^e^ ^a^[**26:40** Deut 4,30; Deut 30,2] ^b^[**26:41** Jer 9,25; Luc 23,41] ^c^[**26:42** Éxod 2,24; 2Re 13,23] ^d^[**26:43** Lev 26,41] ^e^[**26:45** Gén 15,18; Éxod 12,33; Éxod 12,51] \ 
@@ -1110,13 +1110,13 @@
 ^49^ ^a^ ^50^ ^b^ ^51^ ^c^ ^53^ ^a^[**1:49** Núm 2,33; Núm 3,15] ^b^[**1:50** Núm 4,-1; Núm 3,23-38] ^c^[**1:51** Núm 3,10; Núm 3,38] \ 
 ## 2
 ^0^ 
-### El orden de acampamiento de las tribus.
+### El orden de acampamiento de las tribus
 ^2^ \ ^4^ \ ^6^ \ ^8^ \ ^9^ \ ^11^ \ ^13^ \ ^15^ \ ^16^ \ ^17^ \ ^19^ \ ^21^ \ ^23^ \ ^24^ \ ^26^ \ ^28^ \ ^30^ \ ^31^ \ ^32^ ^a^ ^33^ ^b^ ^a^[**2:32** Núm 1,46] ^b^[**2:33** Núm 1,48-49] \ ^34^ ^a^ ^a^[**2:34** Núm 2,2] 
 ## 3
 ^0^ 
 ### Los hijos de Aaron
 ^1^ ^a^ ^2^ ^a^[**3:1** Éxod 6,23] \ ^4^ ^a^ ^a^[**3:4** Lev 10,1-2] 
-### Los levitas fueron designados para ayudar a los sacerdotes y servir en el santuario.
+### Los levitas fueron designados para ayudar a los sacerdotes y servir en el santuario
 ^8^ ^a^ ^10^ ^a^[**3:8** Núm 4,-1] 
 ### Los levitas fueran designados para redimir al primogénito israelita
 ^12^ ^a^ ^13^ ^a^[**3:12** Núm 8,16; Éxod 13,2] 
@@ -1479,7 +1479,7 @@
 ^26^ ^a^ ^27^ ^a^[**5:26** Deut 29,3; Núm 11,29] \ ^29^ \ ^31^ \ 
 ## 6
 ^0^ 
-### Explique y promulgue los dos mandamientos básicos: la adoración a Dios únicamente y el amor a Dios.
+### Explique y promulgue los dos mandamientos básicos: la adoración a Dios únicamente y el amor a Dios
 ^3^ \ ^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^7^ ^d^ ^8^ ^e^ ^9^ ^a^[**6:4** Mar 12,29; 1Cor 8,4; 1Cor 8,6] ^b^[**6:5** Deut 10,12; Mat 22,37] ^c^[**6:6** Deut 11,18-20] ^d^[**6:7** Gén 18,19] ^e^[**6:8** Éxod 13,9] 
 ### ¡Sirvan al Señor fielmente y con agradecida obediencia también en la gloriosa tierra prometida!
 ^13^ ^a^ ^15^ ^a^[**6:13** Deut 10,20; Mat 4,10] 
@@ -1491,11 +1491,11 @@
 ^0^ 
 ### Los cananeos idólatras y su idolatría serán eliminados; cualquier conexión con ellos es pecaminosa
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^7^ ^e^ ^9^ ^f^ ^11^ ^a^[**7:1** Deut 31,3] ^b^[**7:2** Núm 21,2] ^c^[**7:3** Éxod 23,32; Éxod 34,15-16] ^d^[**7:6** Éxod 19,5-6] ^e^[**7:7** Efes 2,8] ^f^[**7:9** Éxod 20,6] 
-### El cumplimiento de la ley traerá ricas bendiciones y también será beneficioso en la lucha contra los cananeos.
+### El cumplimiento de la ley traerá ricas bendiciones y también será beneficioso en la lucha contra los cananeos
 ^12^ ^a^ ^15^ ^a^[**7:12** Éxod 23,22-31] \ ^17^ ^a^ ^20^ ^b^ ^26^ ^a^[**7:17** Núm 13,31; Núm 14,1-4] ^b^[**7:20** Éxod 23,28-30] 
 ## 8
 ^0^ 
-### Recordatorio de obedecer la ley divina y estar agradecido con Dios por los beneficios mostrados durante la caminata por el desierto.
+### Recordatorio de obedecer la ley divina y estar agradecido con Dios por los beneficios mostrados durante la caminata por el desierto
 ^2^ ^a^ ^3^ ^b^ ^5^ ^c^ ^6^ ^a^[**8:2** Deut 13,4; Jue 2,22] ^b^[**8:3** Éxod 16,13-15; Mat 4,4] ^c^[**8:5** Deut 1,31] 
 ### Descripción de la gloria de la tierra prometida ricamente bendecida con todos los bienes
 ^10^ 
@@ -1509,7 +1509,7 @@
 ^8^ ^a^ ^10^ ^a^[**9:8** Éxod 32,-1] \ ^12^ \ ^14^ \ ^19^ ^a^ ^21^ ^a^[**9:19** Heb 12,21] 
 ### Otra evidencia más de desobediencia popular
 ^23^ ^a^ ^24^ ^a^[**9:23** Núm 13,2; Núm 13,31; Deut 14,1-4] 
-### En ese momento, la destrucción de Israel se evitó solo mediante la intercesión de Moisés y la renovación del pacto se llevó a cabo mediante la gracia de Dios.
+### En ese momento, la destrucción de Israel se evitó solo mediante la intercesión de Moisés y la renovación del pacto se llevó a cabo mediante la gracia de Dios
 ^28^ ^a^ ^29^ ^a^[**9:28** Núm 14,16] 
 ## 10
 ^2^ ^a^ ^5^ ^a^[**10:2** Éxod 32,19] \ ^6^ ^a^ ^9^ ^b^ ^a^[**10:6** Núm 33,32-33; Núm 20,28] ^b^[**10:9** Núm 18,20] \ ^10^ ^a^ ^11^ ^a^[**10:10** Deut 9,9] 
@@ -1523,13 +1523,13 @@
 ^13^ ^a^ ^17^ ^a^[**11:13** Lev 26,3-39] 
 ### Otra advertencia a la obediencia fiel; Presentación de bendiciones y maldiciones
 ^18^ ^a^ ^26^ ^b^ ^27^ ^c^ ^28^ ^a^[**11:18** Deut 6,6-9] ^b^[**11:26** Deut 30,1; Deut 30,15] ^c^[**11:27** Deut 28,2; Deut 28,15] 
-### El Garizim fue ordenado como el monte de las bendiciones y el Ebal como el monte de la maldición.
+### El Garizim fue ordenado como el monte de las bendiciones y el Ebal como el monte de la maldición
 ^29^ ^a^ ^30^ ^b^ ^32^ ^a^[**11:29** Deut 27,12-13; Jos 8,33-34] ^b^[**11:30** Gén 12,6] 
 ## 12
 ^0^ 
-### Establecimiento de la Ley Básica: Dios solo puede ser adorado a través del sacrificio en un lugar elegido por Dios.
+### Establecimiento de la Ley Básica: Dios solo puede ser adorado a través del sacrificio en un lugar elegido por Dios
 ^2^ ^a^ ^12^ ^b^ ^14^ ^a^[**12:2** Deut 7,5; Deut 7,25] ^b^[**12:12** Núm 18,20; Núm 18,24] \ ^16^ ^a^ ^19^ ^b^ ^a^[**12:16** Lev 3,17] ^b^[**12:19** Deut 12,12; Deut 14,27] 
-### El sacrificio de ganado y el consumo de carne (excepto sangre y carne de sacrificio) están permitidos en todas partes.
+### El sacrificio de ganado y el consumo de carne (excepto sangre y carne de sacrificio) están permitidos en todas partes
 ^23^ ^a^ ^27^ ^a^[**12:23** Deut 12,16] \ ^28^ 
 ### Prohibición de cualquier imitación del culto pagano; Castigando a los idólatras
 ^30^ ^a^ ^32^ ^a^[**12:30** Deut 7,16] 
@@ -1605,7 +1605,7 @@
 ^0^ 
 ### Algunos deberes queridos en apuros del vecino; Devolución de propiedad perdida
 ^1^ ^a^ ^4^ ^a^[**22:1** Éxod 23,4] 
-### Varias regulaciones, especialmente en lo que respecta a evitar desastres naturales.
+### Varias regulaciones, especialmente en lo que respecta a evitar desastres naturales
 ^5^ \ ^7^ ^a^ ^a^[**22:7** Lev 22,28] \ ^8^ \ ^11^ ^a^ ^a^[**22:11** Lev 19,19] \ ^12^ ^a^ ^a^[**22:12** Núm 15,38] 
 ### Cómo tratar a una mujer acusada por su esposo de perder la virginidad antes del matrimonio
 ^19^ ^a^ ^a^[**22:19** Deut 22,29] \ ^21^ 
@@ -1850,7 +1850,7 @@
 ^13^ ^a^ ^14^ ^b^ ^28^ ^c^ ^a^[**18:13** Gén 12,8; Gén 28,19] ^b^[**18:14** Jos 15,6-9] ^c^[**18:28** Jos 15,63; Jue 1,21] 
 ## 19
 ^0^ 
-### El territorio de la tribu Simeón.
+### El territorio de la tribu Simeón
 ^9^ 
 ### El territorio de la tribu Zabulón
 ^16^ 
@@ -1967,7 +1967,7 @@
 ^0^ 
 ### La victoria de Gedeón sobre los madianitas
 ^1^ 
-### La fuerza de Gideon se reduce a 300 hombres a través de dos avistamientos.
+### La fuerza de Gideon se reduce a 300 hombres a través de dos avistamientos
 ^3^ ^a^ ^a^[**7:3** Deut 20,8] \ ^7^ \ ^8^ 
 ### La confianza de Gedeón se fortalece al infiltrarse en el campamento enemigo
 ^11^ \ ^12^ \ ^13^ ^a^ ^a^[**7:13** Gén 40,9; Gén 40,16] \ ^14^ \ ^15^ 
@@ -2189,7 +2189,7 @@
 ^19^ \ ^20^ ^a^ ^22^ ^a^[**10:20** 1Sam 14,41-42; Jos 7,16] \ ^24^ \ ^25^ ^a^ ^27^ ^a^[**10:25** 1Sam 8,11; Deut 17,14-20] 
 ## 11
 ^0^ 
-### La ciudad de Jabés, que está en apuros por los amonitas Nahas, pide la ayuda de los israelitas.
+### La ciudad de Jabés, que está en apuros por los amonitas Nahas, pide la ayuda de los israelitas
 ^1^ ^a^ ^a^[**11:1** 1Sam 31,11] \ ^2^ ^a^ ^a^[**11:2** Jer 39,7] \ ^3^ 
 ### La conducta decidida de Saúl y su espléndida victoria
 ^4^ \ ^6^ ^a^ ^7^ ^b^ ^11^ ^a^[**11:6** Jue 14,6] ^b^[**11:7** Jue 19,29] 
@@ -2635,7 +2635,7 @@
 ^14^ 
 ### Betsabé le recuerda al rey su promesa; La intervención de Nathan
 ^16^ \ ^19^ ^a^ ^21^ ^a^[**1:19** 1Re 1,9-10] \ ^23^ \ ^25^ ^a^ ^26^ ^b^ ^27^ ^a^[**1:25** 2Sam 16,16] ^b^[**1:26** 1Re 1,10] 
-### David confirma su promesa anterior con un juramento, nombra a Salomón como su sucesor y determina su unción inmediata.
+### David confirma su promesa anterior con un juramento, nombra a Salomón como su sucesor y determina su unción inmediata
 ^30^ \ ^31^ \ ^35^ \ ^37^ 
 ### La unción solemne de Salomón; Efecto del mensaje en cuestión en los reunidos en la comida del sacrificio
 ^39^ ^a^ ^a^[**1:39** 1Cró 23,1; 1Cró 29,22] \ ^41^ \ ^42^ \ ^46^ ^a^ ^48^ ^a^[**1:46** 1Cró 28,5] \ ^49^ 
@@ -3217,7 +3217,7 @@
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^8^ ^a^[**5:1** Gén 35,22; Gén 49,4] ^b^[**5:2** Gén 49,8; Gén 49,10; Gén 49,22; Deut 33,7; Deut 33,13-17] ^c^[**5:3** Éxod 6,14] 
 ### Información histórica sobre Bela
 ^9^ \ ^10^ 
-### Información sobre la estirpe y lugares de residencia, así como sobre la valoración de los gaditas.
+### Información sobre la estirpe y lugares de residencia, así como sobre la valoración de los gaditas
 ^17^ ^a^ ^a^[**5:17** 2Re 15,32; 2Re 14,23] 
 ### La lucha de las tres tribus de Transjordania con los agaritascon los agaritas
 ^22^ 
@@ -3311,7 +3311,7 @@
 ^28^ ^a^ ^37^ ^a^[**12:28** 2Sam 15,24; 1Cró 5,34] \ 
 ## 13
 ^0^ 
-### Movilización de todo el pueblo con fines de recuperación.
+### Movilización de todo el pueblo con fines de recuperación
 ^3^ \ ^5^ 
 ### Fracaso del plan
 ^8^ \ ^11^ 
@@ -3486,7 +3486,7 @@
 ^6^ \ ^10^ \ ^11^ \ ^18^ \ 
 ## 5
 ^0^ 
-### Los objetos de valor almacenados en las cámaras del tesoro.
+### Los objetos de valor almacenados en las cámaras del tesoro
 ^1^ ^a^ ^a^[**5:1** 1Cró 28,14-18] 
 ### La transferencia del arca al lugar santísimo
 ^10^ ^a^ ^a^[**5:10** Heb 9,4] 
@@ -3811,7 +3811,7 @@
 ^0^ 
 ### Rechazo de los samaritanos de participar en la construcción del templo
 ^2^ ^a^ ^a^[**4:2** 2Re 17,24; 2Re 17,33; 2Re 19,37] \ ^3^ ^a^ ^a^[**4:3** Esd 1,3] \ ^5^ ^a^ ^a^[**4:5** Esd 4,24] 
-### Varias acusaciones contra los judíos y su templo y la construcción de muros bajo el gobierno de Jerjes y Artajerjes.
+### Varias acusaciones contra los judíos y su templo y la construcción de muros bajo el gobierno de Jerjes y Artajerjes
 ^6^ \ ^10^ \ ^11^ \ ^16^ 
 ### La construcción del templo se paralizó como consecuencia de un real decreto
 ^24^ ^a^ ^a^[**4:24** Esd 4,5; Esd 6,15] 
@@ -4005,7 +4005,7 @@
 ^3^ 
 ### Ester es informada por Mardochai sobre el desastre inminente y le pide que ruegue al rey por misericordia
 ^8^ 
-### La negativa de Esther es derrotada por Mardochai; Sin embargo, requiere que los judíos mantengan un ayuno estricto a su favor.
+### La negativa de Esther es derrotada por Mardochai; Sin embargo, requiere que los judíos mantengan un ayuno estricto a su favor
 ^11^ ^a^ ^a^[**4:11** Est 5,2; Est 8,4] \ ^14^ \ ^16^ ^a^ ^17^ ^a^[**4:16** 2Re 7,4] 
 ## 5
 ^0^ 
@@ -4019,7 +4019,7 @@
 ^0^ 
 ### Mardochai criado en alto honor por Amán
 ^2^ ^a^ ^3^ ^a^[**6:2** Est 2,21-23] \ ^4^ 
-### Amán involuntariamente hace que el rey decida sobre un honor extraordinario para Mardochai y que lo lleve a cabo personalmente.
+### Amán involuntariamente hace que el rey decida sobre un honor extraordinario para Mardochai y que lo lleve a cabo personalmente
 ^5^ \ ^6^ \ ^9^ \ ^10^ \ ^11^ 
 ### El dolor de Amán; Lleno de presentimientos, fue al banquete de la reina
 ^14^ ^a^ ^a^[**6:14** Est 5,8] 
@@ -5096,7 +5096,7 @@
 # 21-Eclesiastés.md
 ## 1
 ^0^ 
-### La inutilidad de todo esfuerzo humano como resultado de la constante monotonía en el ciclo de las cosas.
+### La inutilidad de todo esfuerzo humano como resultado de la constante monotonía en el ciclo de las cosas
 ^1^ \ ^4^ ^a^ ^11^ ^a^[**1:4** Sal 90,3] 
 ### La inutilidad de luchar por la sabiduría y el conocimiento; La vida humana resulta inútil para el espectador
 ^12^ ^a^ ^15^ ^a^[**1:12** Ecl 1,1] 
@@ -5110,7 +5110,7 @@
 ^12^ ^a^ ^14^ ^b^ ^16^ ^a^[**2:12** Ecl 1,17] ^b^[**2:14** Prov 17,24] \ ^17^ 
 ### Referencia al mal de que el sabio debe dejar el beneficio y el disfrute de su laboriosa labor a un heredero quizás insensato
 ^18^ ^a^ ^19^ ^a^[**2:18** Ecl 2,21; Ecl 2,26; Sal 39,7] \ ^23^ 
-### Entonces lo mejor para el hombre es disfrutar el momento en la medida en que Dios se lo conceda.
+### Entonces lo mejor para el hombre es disfrutar el momento en la medida en que Dios se lo conceda
 ^26^ ^a^ ^a^[**2:26** Prov 13,22; Prov 28,8] 
 ## 3
 ^0^ 
@@ -7015,7 +7015,7 @@
 ^0^ 
 ### La infidelidad de Israel a Dios representada visiblemente por el pacto matrimonial del profeta con una esposa infiel
 ^1^ ^a^ ^a^[**1:1** Is 1,1; 2Re 14,23; Am 1,1] \ ^2^ ^a^ ^a^[**1:2** Os 3,1] \ ^3^ \ ^4^ ^a^ ^5^ ^a^[**1:4** 2Re 10,30] \ ^6^ \ ^7^ \ ^8^ \ ^9^ ^a^ ^a^[**1:9** Os 2,3; Os 2,25] 
-### Un día, después de circunstancias más felices, los tres nombres desafortunados experimentarán una reinterpretación favorable.
+### Un día, después de circunstancias más felices, los tres nombres desafortunados experimentarán una reinterpretación favorable
 
 ## 2
 ^1^ 
@@ -7240,7 +7240,7 @@
 
 ## 2
 ^0^ 
-### Amenaza a los grandes ricos y violentos y a los oponentes del Profeta.
+### Amenaza a los grandes ricos y violentos y a los oponentes del Profeta
 ^1^ ^a^ ^5^ ^a^[**2:1** Sal 36,5] 
 ### El argumento de Micha con sus oponentes, los líderes del pueblo
 ^6^ ^a^ ^7^ ^b^ ^11^ ^a^[**2:6** Am 7,16] ^b^[**2:7** Am 6,3] 
@@ -7503,7 +7503,7 @@
 ^18^ ^a^ ^21^ ^a^[**1:18** Luc 1,35] \ ^23^ \ ^25^ ^a^ ^a^[**1:25** Luc 2,7] 
 ## 2
 ^0^ 
-### Los magos del oriente vienen al niño Jesús y le rinden homenaje.
+### Los magos del oriente vienen al niño Jesús y le rinden homenaje
 ^1^ ^a^ ^2^ ^b^ ^6^ ^a^[**2:1** Luc 2,1-7] ^b^[**2:2** Núm 24,17] \ ^8^ \ ^11^ ^a^ ^12^ ^a^[**2:11** Sal 72,10; Sal 72,15; Is 60,6] 
 ### La huida de José a Egipto
 ^13^ \ ^15^ 
