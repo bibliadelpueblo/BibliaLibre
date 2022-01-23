@@ -51,7 +51,6 @@ namespace BibleMarkdown
 				var mdtime = DateTime.MinValue;
 				var sourcetime = DateTime.MinValue;
 
-
 				foreach (var time in mdtimes) mdtime = time > mdtime ? time : mdtime;
 				foreach (var time in sourcetimes) sourcetime = time > sourcetime ? time : sourcetime;
 
@@ -71,44 +70,48 @@ namespace BibleMarkdown
 						book = bookm.Groups[1].Value.Trim();
 
 						src = Regex.Match(src, @"\\c\s+[0-9]+.*", RegexOptions.Singleline).Value; // remove header that is not content of a chapter
+						
 						src = src.Replace("\r", "").Replace("\n", ""); // remove newlines
+						
 						src = Regex.Replace(src, @"(?<=\\c\s+[0-9]+\s*(\\s[0-9]+\s+[^\\]*?)?)\\p", ""); // remove empty paragraph after chapter
-						src = Regex.Replace(src, @"\\m?s([0-9]+)\s*([^\\]+)", m =>
+
+						src = src.Replace("[", "\\[").Replace("]", "\\]"); // escape [ and ]
+
+						src = Regex.Replace(src, @"\\m?s(?<level>[0-9]+)\s*(?<text>[^\\$]+)", m => // section titles
 						{
 							int n = 1;
-							int.TryParse(m.Groups[1].Value, out n);
+							int.TryParse(m.Groups["level"].Value, out n);
 							n++;
-							return $"{new String('#', n)} {m.Groups[2].Value.Trim()}{Environment.NewLine}";
-						}); // section titles
+							return $"{new String('#', n)} {m.Groups["text"].Value.Trim()}{Environment.NewLine}";
+						}, RegexOptions.Singleline);
+
 						bool firstchapter = true;
-						src = Regex.Replace(src, @"\\c\s+([0-9]+\s*)", m =>
+						src = Regex.Replace(src, @"\\c\s+([0-9]+\s*)", m => // chapters
 						{
 							var res = firstchapter ? $"# {m.Groups[1].Value}{Environment.NewLine}" : $"{Environment.NewLine}{Environment.NewLine}# {m.Groups[1].Value}{Environment.NewLine}";
 							firstchapter = false;
 							return res;
-						}); // chapters
+						});
+
 						src = Regex.Replace(src, @"\\v\s+([0-9]+)", "^$1^"); // verse numbers
 
 						// footnotes
-						var n = 0;
+						int n = 0;
 						string osrc;
 						do {
 							osrc = src;
-							src = Regex.Replace(src, @"\\(?<type>[fx])\s*[+-?]\s*(?<footnote>.*?)\\\k<type>\*(?<body>.*?(?=\s*#|\\p))|(?<par>\\p)", m =>
+							src = Regex.Replace(src, @"(?<=(?<dotbefore>[.:;?!¿¡])?)\\(?<type>[fx])\s*[+-?]\s*(?<footnote>.*?)\\\k<type>\*(?=(?<spaceafter>\s)?)(?<body>.*?(?=\s*#|\\p|$))", m =>
 							{
-								if (m.Groups["par"].Success)
-								{
-									n = 0;
-									return m.Value;
-								} else
-								{
-									return $"^{Label(n)}^{m.Groups["body"].Value}{Environment.NewLine}^{Label(n++)}^[{m.Groups["footnote"].Value}]";
-								}
-							}, RegexOptions.Singleline); 
+								var space = n == 0 ? Environment.NewLine : " ";
+								var spacebefore = m.Groups["dotbefore"].Success ? "" : "";
+								var spaceafter = m.Groups["spaceafter"].Success ? "" : " ";
+								return $"{spacebefore}^{Label(n)}^{spaceafter}{m.Groups["body"].Value}{space}^{Label(n)}^[{m.Groups["footnote"].Value}]";
+							}, RegexOptions.Singleline);
+							n++;
 						} while (osrc != src);
 
-						src = Regex.Replace(src, @"\\p *", string.Concat(Enumerable.Repeat(Environment.NewLine, 2))); // replace new paragraph with empty line
-						src = Regex.Replace(src, @"\|([a-z-]+=""[^""]*""\s*)+", ""); // remove word attributes
+						src = Regex.Replace(src, @"\\p *", $"{Environment.NewLine}{Environment.NewLine}"); // replace new paragraph with empty line
+						src = Regex.Replace(src, @"\|([a-zA-Z-]+=""[^""]*""\s*)+", ""); // remove word attributes
 						src = Regex.Replace(src, @"\\\+?\w+(\*|\s*)?", ""); // remove usfm tags
 						src = Regex.Replace(src, @" +", " "); // remove multiple spaces
 						src = Regex.Replace(src, @"\^\[([0-9]+)[.:]([0-9]+)", "^[**$1:$2**"); // bold verse references in footnotes
@@ -301,7 +304,7 @@ namespace BibleMarkdown
 
 			var exit = false;
 			while (!exit) {
-				var txt = Regex.Replace(text, @"\^(?<mark>[a-zA-Z]+)\^(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[.*?\]))", "${footnote}${text}", RegexOptions.Singleline); // ^^ footnotes
+				var txt = Regex.Replace(text, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))", "${footnote}${text}", RegexOptions.Singleline); // ^^ footnotes
 				if (txt == text) exit = true;
 				text = txt;
 			} 
@@ -317,7 +320,6 @@ namespace BibleMarkdown
 			text = Regex.Replace(text, @"^(# .*?)$\n^(## .*?)$", "$2\n$1", RegexOptions.Multiline); // titles
 			text = Regex.Replace(text, @"\^\^", "^"); // alternative for superscript
 			text = Regex.Replace(text, @"""(.*?)""", $"“$1”"); // replace quotation mark with nicer letters
-
 			/*
 			text = Regex.Replace(text, @" ^# (.*?)$", @"\chapter{$1}", RegexOptions.Multiline);
 			text = Regex.Replace(text, @"^## (.*?)$", @"\section{$1}", RegexOptions.Multiline);
@@ -786,7 +788,7 @@ namespace BibleMarkdown
 			bibmarktime = File.GetLastWriteTimeUtc(exe);
 
 			LowercaseFirstWords = args.Contains("-plc");
-			FromSource = args.Contains("-s") || args.Contains("-src");
+			FromSource = args.Contains("-s") || args.Contains("-src") || args.Contains("-source");
 			var lnpos = Array.IndexOf(args, "-ln");
 			if (lnpos >= 0 && (lnpos + 1 < args.Length)) Language = args[lnpos + 1];
 
@@ -809,15 +811,15 @@ namespace BibleMarkdown
 			if (paths.Count == 0)
 			{
 				path = Directory.GetCurrentDirectory();
-				ProcessPath(path);
+				ProcessPath(path).Wait();
 			} else
 			{
 				path = paths[0];
 				if (Directory.Exists(path))
 				{
-					ProcessPath(path);
+					ProcessPath(path).Wait();
 				}
-				else if (File.Exists(path)) ProcessFile(path);
+				else if (File.Exists(path)) ProcessFile(path).Wait();
 			}
 		}
 	}

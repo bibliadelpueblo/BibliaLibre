@@ -3,11 +3,11 @@
 
 ^6^ Finalmente José, todos sus hermanos, y toda esa generación murieron. ^7^ Sin embargo, los israelitas tenían muchos hijos y su número aumentaba rápidamente. De hecho, eran tantos que se volvieron muy poderosos, y el país estaba lleno de ellos. 
 
-^8^ Entonces subió al poder un nuevo rey que no tenía ningún conocimiento acerca deJosé.^^ ^9^ Este rey se reunió con sus compatriotas egipcios y les dijo: “Debemos tener cuidado con estos israelitas, pues son más numerosos y más poderosos que nosotros. ^10^ Tenemos que hacer un plan para evitar que sigan multiplicándose, porque que si llega a haber una guerra, se pondrán del lado de nuestros enemigos, lucharán contra nosotros, y huirán del país”. 
-^[**1:8** Se cree que se refiere a una dinastía egipcia diferente.]
+^8^ Entonces subió al poder un nuevo rey que no tenía ningún conocimiento acerca deJosé.^a^ ^9^ Este rey se reunió con sus compatriotas egipcios y les dijo: “Debemos tener cuidado con estos israelitas, pues son más numerosos y más poderosos que nosotros. ^10^ Tenemos que hacer un plan para evitar que sigan multiplicándose, porque que si llega a haber una guerra, se pondrán del lado de nuestros enemigos, lucharán contra nosotros, y huirán del país”. 
+^a^[**1:8** Se cree que se refiere a una dinastía egipcia diferente.]
 
-^11^ Entonceslos egipcios comenzaron a obligarlos a hacer trabajos forzados y asignaron capataces para que estuvieran a cargo de ellos. Los usaron para construir las ciudades de almacenamiento de Pitón y Ramsés. ^12^ Pero cuanto más maltrataban a los israelitas, más se multiplicaban y se extendían, y también los egipcios los detestaban^^ aún más. ^13^ Los egipcios trataban a los israelitas con violencia, ^14^ haciendo de sus vidas una miseria. Los obligaban a hacer trabajos duros, construyendo con mortero y ladrillos, y haciendo todo tipo de trabajo pesado en los campos. Y en medio de todo este trabajo duro los trataban con crueldad. 
-^[**1:12** “Detestaban” o “temían”.]
+^11^ Entonceslos egipcios comenzaron a obligarlos a hacer trabajos forzados y asignaron capataces para que estuvieran a cargo de ellos. Los usaron para construir las ciudades de almacenamiento de Pitón y Ramsés. ^12^ Pero cuanto más maltrataban a los israelitas, más se multiplicaban y se extendían, y también los egipcios los detestaban^a^ aún más. ^13^ Los egipcios trataban a los israelitas con violencia, ^14^ haciendo de sus vidas una miseria. Los obligaban a hacer trabajos duros, construyendo con mortero y ladrillos, y haciendo todo tipo de trabajo pesado en los campos. Y en medio de todo este trabajo duro los trataban con crueldad. 
+^a^[**1:12** “Detestaban” o “temían”.]
 
 ^15^ Entonces el rey les dio órdenes a las parteras hebreas Sifra y Fúa. ^16^ Y les dijo: “Cuando ayuden a las mujeres hebreas durante el parto, si ven que es un niño, mátenlo; pero si es una niña, déjenla vivir”. ^17^ Pero como las parteras respetaban a Dios, no hicieron lo que el rey de Egipto les había ordenado, sinoque dejaban vivir a los niños también. 
 
@@ -30,8 +30,8 @@
 
 ^9^ “Toma a este niño y amamántalo por mí”, le dijo la hija del Faraóna la madre del niño. “Yo misma te pagaré”. Así que su madre se lo llevó a casa y lo cuidó. 
 
-^10^ Cuando el niño creció, se lo llevó a la hija del Faraón, quien lo adoptó como su hijo. Ella lo llamó Moisés^^, porque dijo: “Yo lo saqué del agua”. 
-^[**2:10** “Moisés” suena como la palabra hebrea “sacar”. En egipcio es una abreviatura que significa “hijo de”.]
+^10^ Cuando el niño creció, se lo llevó a la hija del Faraón, quien lo adoptó como su hijo. Ella lo llamó Moisés^a^ , porque dijo: “Yo lo saqué del agua”. 
+^a^[**2:10** “Moisés” suena como la palabra hebrea “sacar”. En egipcio es una abreviatura que significa “hijo de”.]
 
 ^11^ Más tarde, cuando Moisés había crecido, fue a visitar a su pueblo, los hebreos. Los vio haciendo trabajos forzados. También vio a un egipcio golpeando a un hebreo, uno de su propio pueblo. ^12^ Entonces miró a su alrededor para asegurarse de que nadie estuviera mirando, yluego mató al egipcio y enterró su cuerpo en la arena. 
 
@@ -51,16 +51,15 @@ Un día, mientras estaba sentado junto a un pozo, ^16^ las siete hijas del sacer
 
 ^20^ “¿Y dónde está?” le preguntó Reuel a su hija. “No lo dejaste allí, ¿verdad? ¡Ve e invítalo a comer con nosotros!” 
 
-^21^ Y Moisés aceptó quedarse con el hombre, quien arregló que su hija Séfora se casara con Moisés. ^22^ Ella tuvo un hijo, y Moisés le puso el nombre de Gersón,^^ porque dijo: “Soy un exiliado que vive en un país extranjero”. 
-^[**2:22** “Gersón” suena como “Allí hay un extranjero”.]
+^21^ Y Moisés aceptó quedarse con el hombre, quien arregló que su hija Séfora se casara con Moisés. ^22^ Ella tuvo un hijo, y Moisés le puso el nombre de Gersón,^a^ porque dijo: “Soy un exiliado que vive en un país extranjero”. 
+^a^[**2:22** “Gersón” suena como “Allí hay un extranjero”.]
 
-^23^ Años más tarde, el rey de Egipto murió. Pero los israelitas seguían gimiendo por su duro trabajo. Su clamor pidiendo ayuda en medio de sus dificultades llegó hasta Dios. ^24^ Dios escuchó sus gemidos yse acordó de su pacto con Abraham, Isaac, y Jacob. ^25^ Además Dios mirabacon compasión a los israelitas, y se preocupaba por ellos.^^
-^[**2:25** “Se preocupaba por ellos”: literalmente, “sabía”.] 
+^23^ Años más tarde, el rey de Egipto murió. Pero los israelitas seguían gimiendo por su duro trabajo. Su clamor pidiendo ayuda en medio de sus dificultades llegó hasta Dios. ^24^ Dios escuchó sus gemidos yse acordó de su pacto con Abraham, Isaac, y Jacob. ^25^ Además Dios mirabacon compasión a los israelitas, y se preocupaba por ellos.^a^
+^a^[**2:25** “Se preocupaba por ellos”: literalmente, “sabía”.] 
 
 # 3 
-^1^ Moisés era un pastor que cuidaba el rebaño de Jetro,^^su suegro, el sacerdote de Madián. Condujo el rebaño lejos en el desierto hasta que llegó al monte de Dios, el monte Horeb.^^ ^2^ Allí el ángel del Señor se le apareció en una llama de fuego desde dentro de un arbusto. Moisés miró con atención y vio que, aunque la zarza estaba ardiendo, no se estaba quemando. 
-^[**3:1** “Jetro”: Otro nombre de Reuel.]
-^[**3:1** “Monte Horeb”: Otro nombre para el Monte Sinaí.]
+^1^ Moisés era un pastor que cuidaba el rebaño de Jetro,^a^ su suegro, el sacerdote de Madián. Condujo el rebaño lejos en el desierto hasta que llegó al monte de Dios, el monte Horeb.^b^ ^2^ Allí el ángel del Señor se le apareció en una llama de fuego desde dentro de un arbusto. Moisés miró con atención y vio que, aunque la zarza estaba ardiendo, no se estaba quemando. 
+^a^[**3:1** “Jetro”: Otro nombre de Reuel.] ^b^[**3:1** “Monte Horeb”: Otro nombre para el Monte Sinaí.]
 
 ^3^ “Iré a echar un vistazo”, se dijo a sí mismo Moisés. “Es muy extraño ver un arbusto que no se queme”. 
 
@@ -84,8 +83,8 @@ Un día, mientras estaba sentado junto a un pozo, ^16^ las siete hijas del sacer
 
 ^16^ Ve y llama a todos los ancianos de Israel para que se reúnan contigo. Diles: “El Señor, el Dios de tus padres, se me ha aparecido, el Dios de Abraham, Isaac y Jacob. Él dijo: “He prestado mucha atención a lo que te ha pasado en Egipto. ^17^ He decidido sacarlos de la miseria que están teniendo en Egipto y llevarlos a la tierra de los cananeos, hititas, amorreos, ferezeos, heveos y jebuseos, una tierra que fluye leche y miel”. 
 
-^18^ “Los ancianos de Israel aceptarán lo que tú digas. Entonces debes ir con ellos al rey de Egipto y decirle: “El Señor, el Dios de los hebreos se nos ha revelado. Así que, por favor, hagamos un viaje de tres días al desierto para poder ofrecer sacrificios al Señor nuestro Dios allí”.’ ^19^ Pero sé que el rey de Egipto no te dejará ir a menos que se vea obligado a hacerlo por un poder más fuerte que él.^^ ^20^ Así que usaré mi poder para infligir a Egipto todas las cosas aterradoras que estoy a punto de hacerles. Después de eso los dejará ir. ^21^ Haré que los egipcios los traten bien como pueblo, para que cuando se vayan, no se vayan con las manos vacías. ^22^ Toda mujer pedirá a su vecina, así como a cualquier mujer que viva en su casa, joyas y ropa de plata y oro, y se las pondrá a sus hijos e hijas. De esta manera se llevarán la riqueza de los egipcios con ustedes”.
-^[**3:19** “Un poder más fuerte que él”: literalmente, “una mano poderosa”. ] 
+^18^ “Los ancianos de Israel aceptarán lo que tú digas. Entonces debes ir con ellos al rey de Egipto y decirle: “El Señor, el Dios de los hebreos se nos ha revelado. Así que, por favor, hagamos un viaje de tres días al desierto para poder ofrecer sacrificios al Señor nuestro Dios allí”.’ ^19^ Pero sé que el rey de Egipto no te dejará ir a menos que se vea obligado a hacerlo por un poder más fuerte que él.^a^ ^20^ Así que usaré mi poder para infligir a Egipto todas las cosas aterradoras que estoy a punto de hacerles. Después de eso los dejará ir. ^21^ Haré que los egipcios los traten bien como pueblo, para que cuando se vayan, no se vayan con las manos vacías. ^22^ Toda mujer pedirá a su vecina, así como a cualquier mujer que viva en su casa, joyas y ropa de plata y oro, y se las pondrá a sus hijos e hijas. De esta manera se llevarán la riqueza de los egipcios con ustedes”.
+^a^[**3:19** “Un poder más fuerte que él”: literalmente, “una mano poderosa”. ] 
 
 # 4 
 ^1^ “Pero,¿qué pasa si no me creen, o no escuchan lo que digo?” Preguntó Moisés. “Podrían decir: ‘El Señor no se te apareció’. 
@@ -102,13 +101,13 @@ Un día, mientras estaba sentado junto a un pozo, ^16^ las siete hijas del sacer
 
 ^6^ El Señor le dijo: “Pon tu mano dentro de tus ropas cerca de tu pecho”. Así que Moisés hizo lo que se le dijo. Cuando sacó su mano, estaba blanca como la nieve, con una enfermedad de la piel. 
 
-^7^ “Vuelve a meter la mano dentro de tu ropa”, dijo el Señor. Y Moisés lo hizo. Cuando la sacó de nuevo, su mano había vuelto a la normalidad.^^ 
-^[**4:7** “A la normalidad”: literalmente, “como su carne”.]
+^7^ “Vuelve a meter la mano dentro de tu ropa”, dijo el Señor. Y Moisés lo hizo. Cuando la sacó de nuevo, su mano había vuelto a la normalidad.^a^ 
+^a^[**4:7** “A la normalidad”: literalmente, “como su carne”.]
 
 ^8^ “Si no te creen y no les convence la primera señal, creerán por la segunda señal”, explicó el Señor. ^9^ “Pero si todavía no te creen o no te escuchan debido a estos dos signos, entonces debes tomar un poco de agua del Nilo y ponerla en el suelo. El agua del Nilo se convertirá en sangre en el suelo”. 
 
-^10^ Entonces Moisés dijo al Señor: “Discúlpame, pero no soy bueno con las palabras, ni lo he sido en el pasado, ni desde que comenzaste a hablar conmigo, tu siervo. Soy de hablar lento y no digo las cosas bien”.^^ 
-^[**4:10** “Soy de hablar lento y no digo las cosas bien”: literalmente: “Me pesa la boca y la lengua”.]
+^10^ Entonces Moisés dijo al Señor: “Discúlpame, pero no soy bueno con las palabras, ni lo he sido en el pasado, ni desde que comenzaste a hablar conmigo, tu siervo. Soy de hablar lento y no digo las cosas bien”.^a^ 
+^a^[**4:10** “Soy de hablar lento y no digo las cosas bien”: literalmente: “Me pesa la boca y la lengua”.]
 
 ^11^ “¿Quién le dio la boca a la gente?” le preguntó el Señor. “¿Quién hace a la gente sorda o muda, capaz de ver o ciega? Soy yo, el Señor, quien lo hace. ^12^ Ahora ve, y yo mismo seré tu boca, y te diré lo que debes decir”. 
 
@@ -122,14 +121,14 @@ Un día, mientras estaba sentado junto a un pozo, ^16^ las siete hijas del sacer
 
 ^19^ Mientras Moisés estaba en Madián, el Señor le dijo: “Vuelve a Egipto porque todos los que querían matarte han muerto”. 
 
-^20^ Moisés puso a su esposa e hijos sobre un asno y regresó a Egipto, llevando el bastón que Dios había usado para hacer milagros.^^ 
-^[**4:20** “El bastón que Dios había usado para hacer milagros:” literalmente, “el bastón de Dios”. Esta interpretación se refiere a los milagros que se registran en los versículos 3 y 4.]
+^20^ Moisés puso a su esposa e hijos sobre un asno y regresó a Egipto, llevando el bastón que Dios había usado para hacer milagros.^a^ 
+^a^[**4:20** “El bastón que Dios había usado para hacer milagros:” literalmente, “el bastón de Dios”. Esta interpretación se refiere a los milagros que se registran en los versículos 3 y 4.]
 
-^21^ El Señor le dijo a Moisés: “Cuando regreses a Egipto, asegúrate de ir al Faraón y realizar los milagros que te he enseñado para que los hagas. Lo volveré terco^^y no dejará ir al pueblo. ^22^ Pero esto es lo que debes decirle al Faraón: “Esto es lo que dice el Señor:‘Israel es mi hijo primogénito. ^23^ Te ordené que dejaras ir a mi hijo para que pueda adorarme. Pero te negaste a liberarlo, así que ahora mataré a tu hijo primogénito’”. 
-^[**4:21** “Terco”: literalmente, “endureceré su corazón,” traducido de manera similar a lo largo del libro. La misma experiencia se describe como acto de Dios, también como una acción del propio Faraón, y también en voz pasiva sin un agente identificado.]
+^21^ El Señor le dijo a Moisés: “Cuando regreses a Egipto, asegúrate de ir al Faraón y realizar los milagros que te he enseñado para que los hagas. Lo volveré terco^a^ y no dejará ir al pueblo. ^22^ Pero esto es lo que debes decirle al Faraón: “Esto es lo que dice el Señor:‘Israel es mi hijo primogénito. ^23^ Te ordené que dejaras ir a mi hijo para que pueda adorarme. Pero te negaste a liberarlo, así que ahora mataré a tu hijo primogénito’”. 
+^a^[**4:21** “Terco”: literalmente, “endureceré su corazón,” traducido de manera similar a lo largo del libro. La misma experiencia se describe como acto de Dios, también como una acción del propio Faraón, y también en voz pasiva sin un agente identificado.]
 
-^24^ Pero mientras iban de camino, el Señor llegó al lugar donde se encontraban, queriendo matar a Moisés. ^25^ Sin embargo, Séfora usó un cuchillo de pedernal para cortar el prepucio de su hijo. Le tocó los pies con él y le dijo: “Para mí eres un marido de sangre”. ^26^ (Llamarlo marido de sangre se refiere a la circuncisión.)^^Después de esto el Señor dejó a Moisés tranquilo. 
-^[**4:26** El término utilizado aquí no está muy claro. Puede significar algo como: “A través de esta sangre que he derramado, ahora estás emparentado conmigo a través del matrimonio”. Algunos intérpretes creen que la palabra significa “alguien que está circuncidado”.]
+^24^ Pero mientras iban de camino, el Señor llegó al lugar donde se encontraban, queriendo matar a Moisés. ^25^ Sin embargo, Séfora usó un cuchillo de pedernal para cortar el prepucio de su hijo. Le tocó los pies con él y le dijo: “Para mí eres un marido de sangre”. ^26^ (Llamarlo marido de sangre se refiere a la circuncisión.)^a^ Después de esto el Señor dejó a Moisés tranquilo. 
+^a^[**4:26** El término utilizado aquí no está muy claro. Puede significar algo como: “A través de esta sangre que he derramado, ahora estás emparentado conmigo a través del matrimonio”. Algunos intérpretes creen que la palabra significa “alguien que está circuncidado”.]
 
 ^27^ El Señor le había dicho a Aarón: “Ve a encontrarte con Moisés en el desierto”. Así que Aarón fue y se encontró con Moisés en el monte de Dios y lo saludó con un beso. ^28^ Entonces Moisés le explicó a Aarón todo lo que el Señor le había mandado a decir, y todos los milagros que le había ordenado hacer. ^29^ Moisés y Aarón viajaron a Egipto. Allí reunieron a todos los ancianos israelitas. ^30^ Aarón compartió con ellos todo lo que el Señor le había dicho a Moisés, y Moisés realizó los milagros para que pudieran verlos. ^31^ Los israelitas estaban convencidos. Cuando oyeron que el Señor había venido a ellos, y que había sido tocado por su sufrimiento, inclinaron sus cabezas y adoraron. 
 
@@ -163,8 +162,8 @@ Un día, mientras estaba sentado junto a un pozo, ^16^ las siete hijas del sacer
 # 6 
 ^1^ Pero el Señor le dijo a Moisés: “Ahora verás lo que le haré al Faraón. Con mi gran fuerza lo obligaré a dejarlos ir; por mi poder los enviará fuera de su país”. 
 
-^2^ Dios habló a Moisés y le dijo: “¡Yo soy Yahvé!^^ ^3^ Me revelé como Dios Todopoderoso a Abraham, a Isaac y a Jacob, pero ellos no conocían mi nombre, 'Yahvé'’ ^4^ También confirmé mi acuerdo solemne con ellos de darles la tierra de Canaán, el país donde vivían como extranjeros. ^5^ Además he escuchado los gemidos de los israelitas que los egipcios tratan como esclavos, y no he olvidado el acuerdo que les prometí. 
-^[**6:2** “Yahvé”: Este término suele traducirse como “Señor”, pero dado que se identifica específicamente por su nombre, parece apropiado utilizar “Yahvé” aquí. ]
+^2^ Dios habló a Moisés y le dijo: “¡Yo soy Yahvé!^a^ ^3^ Me revelé como Dios Todopoderoso a Abraham, a Isaac y a Jacob, pero ellos no conocían mi nombre, 'Yahvé'’ ^4^ También confirmé mi acuerdo solemne con ellos de darles la tierra de Canaán, el país donde vivían como extranjeros. ^5^ Además he escuchado los gemidos de los israelitas que los egipcios tratan como esclavos, y no he olvidado el acuerdo que les prometí. 
+^a^[**6:2** “Yahvé”: Este término suele traducirse como “Señor”, pero dado que se identifica específicamente por su nombre, parece apropiado utilizar “Yahvé” aquí. ]
 
 ^6^ Así que di a los israelitas: “Yo soy el Señor y los salvaré del trabajo forzoso que les imponen los egipcios; yo los liberaré su esclavitud. Los rescataré usando mi poder e imponiendo fuertes castigos. ^7^ Yo los convertiré en mi propio pueblo. Entonces sabrán que soy el Señor su Dios, que los rescató de la esclavitud en Egipto. ^8^ Los llevaré a la tierra que prometí solemnemente darles a Abraham, Isaac y Jacob. Se las daré y será de ellos. ¡Yo soy el Señor!” 
 
@@ -203,8 +202,8 @@ Un día, mientras estaba sentado junto a un pozo, ^16^ las siete hijas del sacer
 ^26^ Aarón y Moisés mencionados aquí son los que el Señor dijo, “Saquen a los israelitas de Egipto, divididos en sus respectivas tribus”. ^27^ Moisés y Aarón también fueron los que fueron a hablar con el Faraón, rey de Egipto, sobre la salida de los israelitas de Egipto. ^28^ Cuando el Señor habló a Moisés en Egipto, ^29^ le dijo: “Yo soy el Señor. Dile al Faraón, rey de Egipto, todo lo que te digo” ^30^ Pero Moisés respondió: “No soy un buen orador, ¿por qué me escucharía el Faraón?” 
 
 # 7 
-^1^ Entonces el Señor le dijo a Moisés: “Mira, te haré parecer como Dios ante elFaraón, y tu hermano Aarón será tu profeta”. ^2^ Debes repetir todo lo que te digo, y tu hermano Aarón debe repetirlo al Faraón para que deje salir a los israelitas de su país. ^3^ Pero le daré al Faraón una actitud terca, y aunque haré muchas señales y milagros en Egipto, no te escuchará. ^4^ Entoncesatacaré^^a Egipto, imponiéndoles fuertes castigos, y sacaré a mi pueblo, los israelitas, tribu por tribu. ^5^ De esta manera los egipcios sabrán que yo soy el Señor cuando actúe contra Egipto y saque a los israelitas del país”. 
-^[**7:4** Literalmente, “pondré mi mano sobre”.]
+^1^ Entonces el Señor le dijo a Moisés: “Mira, te haré parecer como Dios ante elFaraón, y tu hermano Aarón será tu profeta”. ^2^ Debes repetir todo lo que te digo, y tu hermano Aarón debe repetirlo al Faraón para que deje salir a los israelitas de su país. ^3^ Pero le daré al Faraón una actitud terca, y aunque haré muchas señales y milagros en Egipto, no te escuchará. ^4^ Entoncesatacaré^a^ a Egipto, imponiéndoles fuertes castigos, y sacaré a mi pueblo, los israelitas, tribu por tribu. ^5^ De esta manera los egipcios sabrán que yo soy el Señor cuando actúe contra Egipto y saque a los israelitas del país”. 
+^a^[**7:4** Literalmente, “pondré mi mano sobre”.]
 
 ^6^ Moisés y Aarón hicieron exactamente lo que el Señor había ordenado. ^7^ MMoisés tenía ochenta y Aarón ochenta y tres años cuando fueron a hablar con el Faraón. 
 
@@ -227,8 +226,8 @@ Un día, mientras estaba sentado junto a un pozo, ^16^ las siete hijas del sacer
 
 ^8^ El Faraón llamó a Moisés y a Aarón y les suplicó: “Oren al Señor y pídanle que me quite las ranas a mí y a mi pueblo. Entonces dejaré ir a tu pueblo para que pueda ofrecer sacrificios al Señor”. 
 
-^9^ “Ustedes tendrán el honor de decidir^^cuándo oraré por ustedes, sus funcionarios y su pueblo para que os quiten las ranas a ustedes y a sus casas. Permanecerán sólo en el Nilo”.”. 
-^[**8:9** “Ustedes tendrán el honor de decidir”: Literalmente, “Glorifícate a ti mismo sobre mí”.]
+^9^ “Ustedes tendrán el honor de decidir^a^ cuándo oraré por ustedes, sus funcionarios y su pueblo para que os quiten las ranas a ustedes y a sus casas. Permanecerán sólo en el Nilo”.”. 
+^a^[**8:9** “Ustedes tendrán el honor de decidir”: Literalmente, “Glorifícate a ti mismo sobre mí”.]
 
 ^10^ “Hazlo mañana”, respondió el Faraón. 
 
@@ -236,15 +235,15 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 
 ^12^ Moisés y Aarón dejaron al Faraón, y Moisés le suplicó al Señor por las ranas que había enviado contra el Faraón. ^13^ El Señor hizo lo que Moisés le pidió. Las ranas de las casas, los patios y los campos murieron. ^14^ El pueblo las recogió montón tras montón, y todo el país olía fatal. ^15^ Pero cuando el Faraón se dio cuenta de que la plaga había pasado, decidió volver a ser duro y terco, y no quiso escuchar a Moisés y Aarón, tal como el Señor había predicho. 
 
-^16^ Entonces el Señor le dijo a Moisés: “Dile a Aarón: ‘Recoge tu bastón y golpea el polvo del suelo. El polvo se convertirá en un enjambrede mosquitos^^ por todo Egipto’”. 
-^[**8:16** El nombre exacto del insecto que se menciona aquí no se conoce con certeza. El hebreo sugiere “insecto molesto”, y ha sido traducido como piojos, mosquitos o pulgas además de mosquitos. Sin embargo, alguna forma de pequeño insecto volador que muerde como un mosquito encajaría mejor en el contexto de “polvo”.]
+^16^ Entonces el Señor le dijo a Moisés: “Dile a Aarón: ‘Recoge tu bastón y golpea el polvo del suelo. El polvo se convertirá en un enjambrede mosquitos^a^ por todo Egipto’”. 
+^a^[**8:16** El nombre exacto del insecto que se menciona aquí no se conoce con certeza. El hebreo sugiere “insecto molesto”, y ha sido traducido como piojos, mosquitos o pulgas además de mosquitos. Sin embargo, alguna forma de pequeño insecto volador que muerde como un mosquito encajaría mejor en el contexto de “polvo”.]
 
 ^17^ Así que hicieron lo que el Señor dijo. Cuando Aarón levantó su bastón y golpeó el polvo de la tierra, los mosquitos pululaban sobre las personas y los animales. El polvo de todo Egipto se convirtió en mosquitos. ^18^ Los magos también trataron de hacer mosquitos usando sus artes mágicas, pero no pudieron. Los mosquitos se mantuvieron tanto sobre las personas como sobre los animales. 
 
 ^19^ “Este es un acto de Dios”, le dijeron los magos al Faraón. Pero el Faraón eligió ser obstinado y duro de corazón, y no quiso escuchar a Moisés y Aarón, como el Señor había predicho. 
 
-^20^ El Señor le dijo a Moisés: “Mañana por la mañana levántate temprano y bloquea el camino del Faraón mientras baja al río. Dile: ¨Esto es lo que dice el Señor: Deja ir a mi pueblo, para que me adoren. ^21^ Si no dejas que mi pueblo se vaya, enviaré enjambres de moscas sobre ti y tus funcionarios, y sobre tu pueblo y tus casas. Todas las casas egipcias, e incluso el suelo sobre el que se levantan, se llenarán de enjambres de moscas. ^22^ Sin embargo, en esta ocasión trataré a la tierra de Gosén de manera diferente, que es donde vive mi pueblo, y no habrá allí ningún enjambre de moscas. Así es como sabrán que yo, el Señor, estoy aquí en su país. ^23^ Distinguiré^^ a mi pueblo de su pueblo. Verás esta señal que lo confirma mañana”. 
-^[**8:23** El hebreo menciona aquí “redención”, pero parece ser una errata. En este versículo hemos usado el término que propone la Septuaginta. ]
+^20^ El Señor le dijo a Moisés: “Mañana por la mañana levántate temprano y bloquea el camino del Faraón mientras baja al río. Dile: ¨Esto es lo que dice el Señor: Deja ir a mi pueblo, para que me adoren. ^21^ Si no dejas que mi pueblo se vaya, enviaré enjambres de moscas sobre ti y tus funcionarios, y sobre tu pueblo y tus casas. Todas las casas egipcias, e incluso el suelo sobre el que se levantan, se llenarán de enjambres de moscas. ^22^ Sin embargo, en esta ocasión trataré a la tierra de Gosén de manera diferente, que es donde vive mi pueblo, y no habrá allí ningún enjambre de moscas. Así es como sabrán que yo, el Señor, estoy aquí en su país. ^23^ Distinguiré^a^ a mi pueblo de su pueblo. Verás esta señal que lo confirma mañana”. 
+^a^[**8:23** El hebreo menciona aquí “redención”, pero parece ser una errata. En este versículo hemos usado el término que propone la Septuaginta. ]
 
 ^24^ Y el Señor hizo lo que había dicho. Enormes enjambres de moscas entraron en el palacio del Faraón y en las casas de sus oficiales. Todo Egipto fue devastado por estos enjambres de moscas. 
 
@@ -252,8 +251,8 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 
 ^26^ “No, eso no sería lo correcto”, respondió Moisés. “Los sacrificios que ofrecemos al Señor nuestro Dios serían ofensivos para los egipcios. ¡Si nos adelantáramos y ofreciéramos sacrificios ofensivos a los egipcios, nos apedrearían! ^27^ Debemos hacer un viaje de tres días al desierto y ofrecer allí los sacrificios al Señor nuestro Dios como nos ha dicho”. 
 
-^28^ “Los dejaré ir para que ofrezcan sacrificios al Señor su Dios en el desierto, pero no vayan muy lejos”, respondió el Faraón. “Ahora ora por mí para que esta plaga termine”.^^ 
-^[**8:28** “Que esta plaga termine”. Idea implícita.]
+^28^ “Los dejaré ir para que ofrezcan sacrificios al Señor su Dios en el desierto, pero no vayan muy lejos”, respondió el Faraón. “Ahora ora por mí para que esta plaga termine”.^a^ 
+^a^[**8:28** “Que esta plaga termine”. Idea implícita.]
 
 ^29^ “Tan pronto como te deje, oraré al Señor”, respondió Moisés, “y mañana las moscas dejarán al Faraón y a sus oficiales y a su pueblo. Pero el Faraón debe asegurarse de no volver a ser mentiroso, negándose después a dejar que el pueblo vaya a ofrecerle sacrificios al Señor”. 
 
@@ -266,8 +265,8 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 
 ^8^ El Señor les dijo a Moisés y a Aarón: “Vayan y saquen unos puñados de hollín de un horno. Luego Moisés deberá arrojarlo al aire delante del Faraón. ^9^ Se esparcirá como polvo fino por todo el país de Egipto, y aparecerán llagas abiertas en la gente y en los animales de toda la tierra”. ^10^ Entonces sacaron hollín de un horno y fueron a ver al Faraón. Moisés lo arrojó al aire, y se comenzaron a abrir llagas en las personas y los animales. ^11^ Los magos no pudieron venir nicomparecer ante Moisés, porque ellos y todos los demás egipcios estaban cubiertos de llagas. ^12^ Pero el Señor puso en el Faraón una actitud obstinada, y el Faraón no los escuchó, tal como el Señor le había dicho a Moisés. 
 
-^13^ El Señor le dijo a Moisés: “Mañana por la mañana levántate temprano y ve al Faraón, y dile que esto es lo que el Señor, el Dios de los hebreos, dice: ‘Deja ir a mi pueblo para que me adore’. ^14^ Esta vez dirigiré todas mis plagas contra ti y tus funcionarios y tu pueblo, para que te des cuenta de que no hay nadie como yo en toda la tierra. ^15^ A estas alturas ya podría haber extendido mi mano para atacarte a ti y a tu pueblo con una plaga que te habría destruido por completo.^^ ^16^ Sin embargo, te he dejado vivir para que veas mi poder, y para que mi reputación sea conocida por toda la tierra. ^17^ Pero en tu orgullo sigues tiranizando a mi pueblo, y te niegas a dejar que se vaya. ^18^ ¡Así que ten cuidado! Mañana a esta hora enviaré la peor granizada que haya caído sobre Egipto, desde el principio de su historia hasta ahora. ^19^ Así que haz guardar a tu ganado y todo lo que tienes en el campo. Porque toda persona y todo animal que permanezcan fuera morirán cuando el granizo caiga sobre ellos”. 
-^[**9:15** “Te habría destruído por completo”: Literalmente, “Habrías perecido en la tierra”.]
+^13^ El Señor le dijo a Moisés: “Mañana por la mañana levántate temprano y ve al Faraón, y dile que esto es lo que el Señor, el Dios de los hebreos, dice: ‘Deja ir a mi pueblo para que me adore’. ^14^ Esta vez dirigiré todas mis plagas contra ti y tus funcionarios y tu pueblo, para que te des cuenta de que no hay nadie como yo en toda la tierra. ^15^ A estas alturas ya podría haber extendido mi mano para atacarte a ti y a tu pueblo con una plaga que te habría destruido por completo.^a^ ^16^ Sin embargo, te he dejado vivir para que veas mi poder, y para que mi reputación sea conocida por toda la tierra. ^17^ Pero en tu orgullo sigues tiranizando a mi pueblo, y te niegas a dejar que se vaya. ^18^ ¡Así que ten cuidado! Mañana a esta hora enviaré la peor granizada que haya caído sobre Egipto, desde el principio de su historia hasta ahora. ^19^ Así que haz guardar a tu ganado y todo lo que tienes en el campo. Porque toda persona y todo animal que permanezcan fuera morirán cuando el granizo caiga sobre ellos”. 
+^a^[**9:15** “Te habría destruído por completo”: Literalmente, “Habrías perecido en la tierra”.]
 
 ^20^ Aquellos oficiales del Faraón que tomaron en serio lo que el Señor dijo, se apresuraron a traer a sus sirvientes y a su ganado adentro. ^21^ Pero aquellos a los que no les importó lo que el Señor decía, dejaron a sus sirvientes y ganado afuera. 
 
@@ -284,13 +283,13 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 ^33^ Moisés dejó al Faraón y salió de la ciudad, y oró al Señor. Los truenos y el granizo se detuvieron, y la tormenta de lluvia terminó. ^34^ Cuando el Faraón vio que la lluvia, el granizo y los truenos habían cesado, volvió a pecar, y eligió volver a ser obstinado, junto con sus funcionarios. ^35^ Debido a su actitud terca, el Faraón no permitió que los israelitas se fueran, tal como el Señor había predicho a través de Moisés. 
 
 # 10 
-^1^ El Señor le dijo a Moisés: “Ve a ver al Faraón, porque fui yo quien le dio a él y a sus oficiales una actitud obstinada para que yo pudiera hacer mis milagros ante ellos. ^2^ Esto es para que puedas contar a tus hijos y nietos cómo hice que los egipcios parecieran tontos^^haciendo estos milagros entre ellos, y para que sepas que yo soy el Señor”. 
-^[**10:2** “parecieran tontos”: La palabra sugiere que el Señor se está burlando de los egipcios, y esto sería principalmente por su devoción a ídolos inútiles.]
+^1^ El Señor le dijo a Moisés: “Ve a ver al Faraón, porque fui yo quien le dio a él y a sus oficiales una actitud obstinada para que yo pudiera hacer mis milagros ante ellos. ^2^ Esto es para que puedas contar a tus hijos y nietos cómo hice que los egipcios parecieran tontos^a^ haciendo estos milagros entre ellos, y para que sepas que yo soy el Señor”. 
+^a^[**10:2** “parecieran tontos”: La palabra sugiere que el Señor se está burlando de los egipcios, y esto sería principalmente por su devoción a ídolos inútiles.]
 
 ^3^ Moisés y Aarón fueron a ver al Faraón y le dijeron: “Esto es lo que dice el Señor, el Dios de los hebreos: ‘¿Hasta cuándo te negarás a humillarte ante mí? Deja ir a mi pueblo, para que me adore. ^4^ Sino dejas que mi pueblo se vaya, mañana enviaré una plaga de langostas a tu país. ^5^ Habrá tantas que cubrirán el suelo para que nadie pueda verlas. Comerán los cultivos que haya dejado el granizo, así como todos los árboles que crezcan en tus campos. ^6^ Entrarán en enjambres en tus casas y en las casas de todos tus funcionarios, de hecho en las casas de todos los egipcios. Esto es algo que ninguno de tus antepasados ha visto desde que llegaron a este país”. Entonces Moisés y Aarón se volvieron y dejaron al Faraón. 
 
-^7^ Los oficiales del Faraón se acercaron a él y le preguntaron: “¿Cuánto tiempo vas a dejar que este hombre nos cause problemas?^^Deja que esta gente se vaya para que puedan adorar al Señor su Dios. ¿No te das cuenta de que Egipto ha quedado destruido?” 
-^[**10:7** “Nos cause problemas”: Literalmente, “sea una trampa para nosotros”.]
+^7^ Los oficiales del Faraón se acercaron a él y le preguntaron: “¿Cuánto tiempo vas a dejar que este hombre nos cause problemas?^a^ Deja que esta gente se vaya para que puedan adorar al Señor su Dios. ¿No te das cuenta de que Egipto ha quedado destruido?” 
+^a^[**10:7** “Nos cause problemas”: Literalmente, “sea una trampa para nosotros”.]
 
 ^8^ Moisés y Aarón fueron traídos nuevamente ante el Faraón. “Vayan y adoren al Señor su Dios”, les dijo. “Pero ¿quién de ustedes irá?” 
 
@@ -328,8 +327,8 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 ^9^ El Señor le dijo a Moisés: “El Faraón se niega a escucharte para que pueda hacer más milagros en Egipto”. ^10^ Moisés y Aarón hicieron estos milagros ante el Faraón, pero el Señor le dio al Faraón una actitud obstinada, y no dejó que los israelitas salieran de su país. 
 
 # 12 
-^1^ El Señor le dijo a Moisés y a Aarón cuando aún estaban en Egipto: ^2^ “Este mes será para ti el primer mes, el primer mes de tu año. ^3^ Diles a todos los israelitas que el décimo día de este mes, cada hombre debe elegir un cordero^^para su familia, uno para cada hogar. ^4^ Sin embargo, si la casa es demasiado pequeña para un cordero entero, entonces él y su vecino más cercano pueden elegir un cordero según el número total de personas. Dividirán el cordero según lo que cada uno pueda comer. ^5^ El cordero debe ser un macho de un año sin ningún defecto, y puede ser tomado del rebaño de ovejas o del rebaño de cabras. 
-^[**12:3** “Cordero”: O una cabra joven. La palabra usada aquí se aplica a ambos.]
+^1^ El Señor le dijo a Moisés y a Aarón cuando aún estaban en Egipto: ^2^ “Este mes será para ti el primer mes, el primer mes de tu año. ^3^ Diles a todos los israelitas que el décimo día de este mes, cada hombre debe elegir un cordero^a^ para su familia, uno para cada hogar. ^4^ Sin embargo, si la casa es demasiado pequeña para un cordero entero, entonces él y su vecino más cercano pueden elegir un cordero según el número total de personas. Dividirán el cordero según lo que cada uno pueda comer. ^5^ El cordero debe ser un macho de un año sin ningún defecto, y puede ser tomado del rebaño de ovejas o del rebaño de cabras. 
+^a^[**12:3** “Cordero”: O una cabra joven. La palabra usada aquí se aplica a ambos.]
 
 ^6^ Guárdalo hasta el día catorce del mes, cuando todos los israelitas sacrificarán los animales después de la puesta del sol y antes de que oscurezca. ^7^ Tomarán un poco de sangre y la pondrán a los lados y en la parte superior de los marcos de las puertas de las casas en las que coman. ^8^ Asarán la carne en el fuego y la comerán esa noche, junto con pan sin levadura y hierbas amargas. ^9^ No deben comer la carne cruda o hervida en agua. Todo debe ser asado sobre el fuego, incluyendo la cabeza, las piernas y los intestinos. ^10^ Asegúrense de que no quede nada hasta la mañana. Si sobra algo, deben quemarlo por la mañana. 
 
@@ -347,8 +346,8 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 
 ^33^ Los egipcios instaron a los israelitas a dejar su país lo más rápido posible, diciendo: “¡Si no, moriremos todos!” ^34^ Así que los israelitas recogieron su masa antes de que se levantara y la llevaron sobre sus hombros en tazones de amasar envueltos en ropa ^35^ Además, los israelitas hicieron lo que Moisés les había dicho y pidieron a los egipcios objetos de plata y oro, y ropa. ^36^ El Señor había hecho que los egipcios miraran tan favorablemente a los israelitas que aceptaron su petición. De esta manera se llevaron las riquezas de los egipcios. 
 
-^37^ Los israelitas partieron a pie desde Ramsés hacia Sucot y fueron unos 600.000 hombres, así como mujeres y niños.^^ ^38^ Además, muchos extranjeros se les unieron. También se llevaron consigo grandes rebaños y manadas de ganado. ^39^ Como su masa de pan no tenía levadura, los israelitas cocinaron lo que habían sacado de Egipto en panes sin levadura. Esto se debió a que cuando fueron expulsados de Egipto tuvieron que salir de prisa y no tuvieron tiempo de prepararse la comida. 
-^[**12:37** “Mujeres y niños”: Literalmente, “dependientes”.]
+^37^ Los israelitas partieron a pie desde Ramsés hacia Sucot y fueron unos 600.000 hombres, así como mujeres y niños.^a^ ^38^ Además, muchos extranjeros se les unieron. También se llevaron consigo grandes rebaños y manadas de ganado. ^39^ Como su masa de pan no tenía levadura, los israelitas cocinaron lo que habían sacado de Egipto en panes sin levadura. Esto se debió a que cuando fueron expulsados de Egipto tuvieron que salir de prisa y no tuvieron tiempo de prepararse la comida. 
+^a^[**12:37** “Mujeres y niños”: Literalmente, “dependientes”.]
 
 ^40^ Los israelitas habían vivido en Egipto durante 430 años. ^41^ El mismo día en que terminaron los 430 años, todas las tribus del Señor, por sus respectivas divisiones, salieron de Egipto. ^42^ Siendo que el Señor veló esa noche para sacarlos de la tierra de Egipto, ustedes deben velar esa misma noche como una observancia para honrar al Señor, que será guardada por todos los israelitas para las generaciones futuras. 
 
@@ -361,8 +360,8 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 
 ^3^ Así que Moisés le dijo al pueblo: “Recuerden que este es el día en que dejaron Egipto, la tierra de su esclavitud, porque el Señor los sacó de allí con su asombroso poder. (Nada con levadura en él será comido). ^4^ Hoyustedes están en camino, este día en el mes de Abib. ^5^ El Señor los llevará a la tierra de los cananeos, hititas, amorreos, heveos y jebuseos, la tierra que le prometió a sus antepasados, una tierra que fluye leche y miel. Así que deben observar esta ceremonia en este mes. ^6^ Durante siete días sólo comerán pan sin levadura, y el séptimo día celebrarán una fiesta religiosa para honrar al Señor. ^7^ Durante esos siete días solo podrán comer pan sin levadura. No deben tener levadura; de hecho, no debe haber levadura en ningún lugar donde vivan. 
 
-^8^ Ese día digan a sus hijos: “Esto es por causa de lo que el Señor hizo por mí cuando salí de Egipto”. ^9^ Cuando celebren esta ceremonia^^será como una señal en su mano y un recordatorio en la frente de que esta enseñanza del Señor debe ser contada con regularidad. Porque el Señor los sacó de Egipto con su gran poder. ^10^ Es por eso que deben observar esta ceremonia año tras año, en esta fecha. ^11^ Una vez que el Señor los lleve a la tierra de los cananeos y se las entregue, como se los prometió a ustedes y a sus antepasados, ^12^ deben presentar al Señor todos los primogénitos varones, humanos o animales. Todos los primogénitos de su ganado le pertenecen al Señor. ^13^ Deben rescatara cada asno primogénito a cambio de un cordero, y si no lo hacen, deberán romperle el cuello. Deberánrescatar a cada primogénito de sus hijos. 
-^[**13:9** “Cuando celebren esta ceremonia”: añadido para mayor claridad.]
+^8^ Ese día digan a sus hijos: “Esto es por causa de lo que el Señor hizo por mí cuando salí de Egipto”. ^9^ Cuando celebren esta ceremonia^a^ será como una señal en su mano y un recordatorio en la frente de que esta enseñanza del Señor debe ser contada con regularidad. Porque el Señor los sacó de Egipto con su gran poder. ^10^ Es por eso que deben observar esta ceremonia año tras año, en esta fecha. ^11^ Una vez que el Señor los lleve a la tierra de los cananeos y se las entregue, como se los prometió a ustedes y a sus antepasados, ^12^ deben presentar al Señor todos los primogénitos varones, humanos o animales. Todos los primogénitos de su ganado le pertenecen al Señor. ^13^ Deben rescatara cada asno primogénito a cambio de un cordero, y si no lo hacen, deberán romperle el cuello. Deberánrescatar a cada primogénito de sus hijos. 
+^a^[**13:9** “Cuando celebren esta ceremonia”: añadido para mayor claridad.]
 
 ^14^ Cuando en el futuro sus hijos vengan a ustedes y les pregunten: “¿Por qué es importante esta ceremonia?” deberán decirles: “El Señor nos sacó de Egipto, la tierra de nuestra esclavitud, mediante su asombroso poder. ^15^ El Faraón se negó obstinadamente a dejarnos ir, así que el Señor mató a todos los primogénitos de la tierra de Egipto, tanto humanos como animales. Por eso sacrificamos al Señor el primogénito de cada animal, y compramos todos los primogénitos de nuestros hijos”. ^16^ De esta manera, será como una señal en la mano y un recordatorio en la frente, porque el Señor nos sacó de Egipto por su asombroso poder”. 
 
@@ -373,8 +372,8 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 ^20^ Viajaron desde Sucot y acamparon en Etam, a la entrada del desierto. ^21^ El Señor iba delante de ellos como una columna de nubes para mostrarles el camino durante el día, y como una columna de fuego para proporcionarles luz por la noche. Así podían viajar de día o de noche. ^22^ La columna de nubes durante el día y la columna de fuego por la noche iban siempre delante del pueblo. 
 
 # 14 
-^1^ Entonces el Señor le dijo a Moisés: ^2^ “Diles a los israelitas que vuelvan y acampen cerca de Pi-Ajirot, entre Migdol y el mar. Deben acampar junto al mar, frente a Baal-Zefón. ^3^ El Faraónsacará su conclusión respecto a los israelitas: “Están vagando por el país con gran confusión, y el desierto les ha impedido salir” ^4^ Daré a Faraón una actitud terca para que los persiga a fin derecuperarlos.^^Pero ganaré honra por lo que le sucederá al Faraón y a todo su ejército, y los egipcios sabrán que yo soy el Señor”. Así que los israelitas hicieron lo que se les ordenó. 
-^[**14:4** “A fin de recuperarlos”: añadido para mayor claridad.]
+^1^ Entonces el Señor le dijo a Moisés: ^2^ “Diles a los israelitas que vuelvan y acampen cerca de Pi-Ajirot, entre Migdol y el mar. Deben acampar junto al mar, frente a Baal-Zefón. ^3^ El Faraónsacará su conclusión respecto a los israelitas: “Están vagando por el país con gran confusión, y el desierto les ha impedido salir” ^4^ Daré a Faraón una actitud terca para que los persiga a fin derecuperarlos.^a^ Pero ganaré honra por lo que le sucederá al Faraón y a todo su ejército, y los egipcios sabrán que yo soy el Señor”. Así que los israelitas hicieron lo que se les ordenó. 
+^a^[**14:4** “A fin de recuperarlos”: añadido para mayor claridad.]
 
 ^5^ Cuando el rey de Egipto se enteró de que los israelitas se habían marchado apresuradamente, el Faraón y sus oficiales cambiaron de opinión sobre lo que había sucedido y dijeron: “¿Qué hemos hecho? Hemos dejado ir a todos estos esclavos israelitas.” ^6^ Así que el Faraón hizo preparar su carro y se puso en marcha con su ejército. ^7^ Tomó 600 de sus mejores carros junto con todos los demás carros de Egipto, cada uno con su oficial a cargo. ^8^ El Señor le dio al Faraón, rey de Egipto, una actitud terca, así que persiguió a los israelitas, que salían con los puños levantados en triunfo. ^9^ Los egipcios salieron en persecución, con todos los caballos y carros del Faraón, así como jinetes y soldados. Alcanzaron a los israelitas mientras estaban acampandojunto al mar cerca de Pi-Ajirot, frente a Baal-Zefón. 
 
@@ -411,8 +410,8 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 
 ^7^ Con tu majestuoso poder destruiste a los que se te oponían. Tu cólera ardió y los quemó como un rastrojo. 
 
-^8^ Túsoplaste^^y el mar se amontonó. Las olas se alzaron como un muro. Las profundidades del océano se volvieron sólidas. 
-^[**15:8** Literalmente, “por el aliento de tu nariz”.]
+^8^ Túsoplaste^a^ y el mar se amontonó. Las olas se alzaron como un muro. Las profundidades del océano se volvieron sólidas. 
+^a^[**15:8** Literalmente, “por el aliento de tu nariz”.]
 
 ^9^ El enemigo se jactó: “Los perseguiré y los alcanzaré”. Dividiré el botín. Los comeré vivos. Bailaré con laespada. Con mi mano los destruiré’. 
 
@@ -442,8 +441,8 @@ Moisés dijo: “Sucederá como has pedido para que sepas que no hay nadie como 
 
 ^24^ Entonces el pueblo se quejó a Moisés, preguntando: “¿Qué vamos a beber?” ^25^ Moisés le pidió ayuda al Señor, y el Señor le mostró un trozo de madera. Cuando lo arrojó al agua, se volvió dulce. 
 
-Allí el Señor les dio reglas e instrucciones y también puso a prueba su lealtad hacia él.^^ ^26^ Les dijo: “Si prestan atención a lo que dice el Señor su Dios, hagan lo que es correcto ante sus ojos, obedezcan sus órdenes y cumplan todos sus reglamentos, entonces no les haré sufrir ninguna de las enfermedades que les di a los egipcios porque yo soy el Señor que los sana”. 
-^[**15:25** “Lealtad hacia él”: añadido para mayor claridad.]
+Allí el Señor les dio reglas e instrucciones y también puso a prueba su lealtad hacia él.^a^ ^26^ Les dijo: “Si prestan atención a lo que dice el Señor su Dios, hagan lo que es correcto ante sus ojos, obedezcan sus órdenes y cumplan todos sus reglamentos, entonces no les haré sufrir ninguna de las enfermedades que les di a los egipcios porque yo soy el Señor que los sana”. 
+^a^[**15:25** “Lealtad hacia él”: añadido para mayor claridad.]
 
 ^27^ Luego viajaron a Elim, que tenía doce manantiales de agua y setenta palmeras. Allí acamparon junto al agua. 
 
@@ -478,9 +477,8 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^28^ El Señor le dijo a Moisés: “¿Cuánto tiempo te negarás a obedecer mis órdenes e instrucciones? ^29^ Debes entender que el Señor te ha dado el sábado, así que el sexto día te dará comida para dos días. El séptimo día, todos tienen que quedarse donde están, y nadie tiene que salir” ^30^ Así que el pueblo no hizo ningún trabajo en el séptimo día. 
 
-^31^ Los israelitas llamaron a esta comida maná.^^Era blanca como la semilla de cilantro y sabía a obleas con miel. ^32^ Moisés dijo: “Esto es lo que el Señor ha ordenado: ‘Guarda un gomer de maná como recordatorio para las generaciones futuras, para que puedan ver la comida que usé para alimentarlos en el desierto cuando los saqué de Egipto’”. ^33^ Así que Moisés le dijo a Aarón: “Toma un frasco y pon un gomer de maná en él. Luego ponlo ante el Señor para que lo guarde como un recordatorio para las generaciones futuras”. ^34^ Aarón lo hizo y colocó la jarra delante del Testimonio,^^para que se conservara tal y como el Señor se lo había ordenado a Moisés. ^35^ Los israelitas comieron maná durante cuarenta años, hasta que llegaron a la tierra en la que se asentarían; comieron maná hasta que llegaron a la frontera de Canaán. ^36^ (Un gómer es una décima parte de una efa).
-^[**16:31** Que significa, “¿Qué es esto?” Ver versículo 15.]
-^[**16:34** El significado de este término en el contexto es incierto. Normalmente se refiere a las dos tablas de los Diez Mandamientos (ver 25:16, 40:20 etc.) El recipiente con maná fue finalmente colocado dentro del Arca del Pacto junto con las tablas de piedra de los Diez Mandamientos, pero ni el arca ni las tablas existían todavía (ver capítulos 25 y 26). ] 
+^31^ Los israelitas llamaron a esta comida maná.^a^ Era blanca como la semilla de cilantro y sabía a obleas con miel. ^32^ Moisés dijo: “Esto es lo que el Señor ha ordenado: ‘Guarda un gomer de maná como recordatorio para las generaciones futuras, para que puedan ver la comida que usé para alimentarlos en el desierto cuando los saqué de Egipto’”. ^33^ Así que Moisés le dijo a Aarón: “Toma un frasco y pon un gomer de maná en él. Luego ponlo ante el Señor para que lo guarde como un recordatorio para las generaciones futuras”. ^34^ Aarón lo hizo y colocó la jarra delante del Testimonio,^b^ para que se conservara tal y como el Señor se lo había ordenado a Moisés. ^35^ Los israelitas comieron maná durante cuarenta años, hasta que llegaron a la tierra en la que se asentarían; comieron maná hasta que llegaron a la frontera de Canaán. ^36^ (Un gómer es una décima parte de una efa).
+^a^[**16:31** Que significa, “¿Qué es esto?” Ver versículo 15.] ^b^[**16:34** El significado de este término en el contexto es incierto. Normalmente se refiere a las dos tablas de los Diez Mandamientos (ver 25:16, 40:20 etc.) El recipiente con maná fue finalmente colocado dentro del Arca del Pacto junto con las tablas de piedra de los Diez Mandamientos, pero ni el arca ni las tablas existían todavía (ver capítulos 25 y 26). ] 
 
 # 17 
 ^1^ Todos los israelitas dejaron el desierto de Sin, yendo de un lugar hacia otro, según las órdenes del Señor. Acamparon en Refidim, pero no había agua para que el pueblo la bebiera. ^2^ Algunos de ellos vinieron y se quejaron a Moisés, diciendo: “¡Danos agua para beber!” Moisés respondió, 
@@ -491,23 +489,21 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^4^ Moisés le gritó al Señor: “¿Qué voy a hacer con esta gente? ¡Un poco más de esto y me apedrearán!” 
 
-^5^ El Señor le dijo a Moisés: “Ve delante del pueblo y llévate a algunos de los ancianos de Israel contigo. Lleva contigo el bastón que usaste para golpear el Nilo, y sigue adelante. ^6^ Mira, me pararé a tu lado junto a la roca en Horeb. Cuando golpees la roca, el agua se derramará para que la gente beba”. Así que Moisés hizo esto mientras los ancianos de Israel observaban. ^7^ Llamó al lugar Masá y Meribá^^porque los israelitas discutieron allí, y porque desafiaron al Señor, diciendo: “¿Está el Señor con nosotros o no?” 
-^[**17:7** Masá significa “prueba” y Meribá significa “queja”.]
+^5^ El Señor le dijo a Moisés: “Ve delante del pueblo y llévate a algunos de los ancianos de Israel contigo. Lleva contigo el bastón que usaste para golpear el Nilo, y sigue adelante. ^6^ Mira, me pararé a tu lado junto a la roca en Horeb. Cuando golpees la roca, el agua se derramará para que la gente beba”. Así que Moisés hizo esto mientras los ancianos de Israel observaban. ^7^ Llamó al lugar Masá y Meribá^a^ porque los israelitas discutieron allí, y porque desafiaron al Señor, diciendo: “¿Está el Señor con nosotros o no?” 
+^a^[**17:7** Masá significa “prueba” y Meribá significa “queja”.]
 
 ^8^ Entonces vinieron unos amalecitas y atacaron a los israelitas en Refidim. ^9^ Moisés le dijo a Josué: “Escoge algunos hombres y sal a combatir a los amalecitas. Mañana me pararé en la cima de esta colina con el bastón de Dios”. 
 
-^10^ Josué hizo lo que le dijo Moisés y luchó contra los amalecitas, mientras que Moisés, Aarón y Hur subieron a la cima de la colina. ^11^ Mientras Moisés sostenía el bastón^^ con sus manos,los israelitas eran los que ganaban, pero cuando los bajaba, eran los amalecitas. ^12^ Así que cuando las manos de Moisés se volvieron pesadas, los otros tomaron una piedra y la pusieron debajo de él para que se sentara. Aarón y Hur se pararon a cada lado de Moisés y le levantaron las manos. De esta manera sus manos se mantuvieron firmes hasta que el sol se puso. ^13^ Como resultado, Josué derrotó al ejército amalecita. 
-^[**17:11** “El bastón”: implícito.]
+^10^ Josué hizo lo que le dijo Moisés y luchó contra los amalecitas, mientras que Moisés, Aarón y Hur subieron a la cima de la colina. ^11^ Mientras Moisés sostenía el bastón^a^ con sus manos,los israelitas eran los que ganaban, pero cuando los bajaba, eran los amalecitas. ^12^ Así que cuando las manos de Moisés se volvieron pesadas, los otros tomaron una piedra y la pusieron debajo de él para que se sentara. Aarón y Hur se pararon a cada lado de Moisés y le levantaron las manos. De esta manera sus manos se mantuvieron firmes hasta que el sol se puso. ^13^ Como resultado, Josué derrotó al ejército amalecita. 
+^a^[**17:11** “El bastón”: implícito.]
 
 ^14^ El Señor le dijo a Moisés: “Escribe todo esto en un pergamino como recordatorio y léeselo en voz alta a Josué, porque voy a eliminar por completo a los amalecitas para que nadie en la tierra se acuerde de ellos”. 
 
 ^15^ Moisés construyó un altar y lo llamó “el Señor es mi bandera de la victoria”. ^16^ “¡Levanten el estandarte de la victoria del Señor!”, declaró Moisés. “¡El Señor seguirá luchando contra los amalecitas por todas las generaciones!” 
 
 # 18 
-^1^ EntoncesJetro^^, el suegro de Moisés y sacerdote de Madián, escuchó todo lo que Dios había hecho por Moisés y su pueblo, los israelitas, y cómo el Señor los había sacado de Egipto. ^2^ Cuando Moisés envió a casa a su esposa Séfora, su suegro Jetro la acogió, ^3^ junto con sus dos hijos. Uno de los hijos se llamaba Gersón,^^ya que Moisés había dicho: “He sido un extranjero en tierra extranjera”. ^4^ El otro hijo se llamaba Eliezer,^^porque Moisés había dicho: “El Dios de mi padre fue mi ayuda, y me salvó de la muerte de la mano del Faraón”. 
-^[**18:1** También llamado Reuel en el capítulo 2.]
-^[**18:3** Ver 2:22.]
-^[**18:4** Que significa, “mi Dios es mi ayuda”.]
+^1^ EntoncesJetro^a^ , el suegro de Moisés y sacerdote de Madián, escuchó todo lo que Dios había hecho por Moisés y su pueblo, los israelitas, y cómo el Señor los había sacado de Egipto. ^2^ Cuando Moisés envió a casa a su esposa Séfora, su suegro Jetro la acogió, ^3^ junto con sus dos hijos. Uno de los hijos se llamaba Gersón,^b^ ya que Moisés había dicho: “He sido un extranjero en tierra extranjera”. ^4^ El otro hijo se llamaba Eliezer,^c^ porque Moisés había dicho: “El Dios de mi padre fue mi ayuda, y me salvó de la muerte de la mano del Faraón”. 
+^a^[**18:1** También llamado Reuel en el capítulo 2.] ^b^[**18:3** Ver 2:22.] ^c^[**18:4** Que significa, “mi Dios es mi ayuda”.]
 
 ^5^ El suegro de Moisés, Jetro, junto con la esposa y los hijos de Moisés, fue a verlo en el desierto en el campamento cerca de la montaña de Dios. ^6^ A Moisés se le dijo de antemano: “Yo, tu suegro Jetro, vengo a verte junto con tu esposa y sus dos hijos”. 
 
@@ -521,16 +517,16 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^15^ “Porque el pueblo viene a mí para consultar la decisión de Dios”, respondió Moisés. ^16^ “Cuando discuten sobre algo, el caso se presenta ante mí para decidir entre uno de ellos, y les explico las leyes y reglamentos de Dios”. 
 
-^17^ Jetro le dijo: “Lo que estás haciendo no es lo mejor. ^18^ Tú y los que vienen a ti se van a agotar, porque la carga de trabajo es demasiado pesada. No pueden manejarlo solos. ^19^ Así que, por favor, escúchame. Voy a darte un consejo, y Dios estará contigo. Sí, debes continuar siendo el representante del pueblo ante Dios, y llevarle sus casos a él. ^20^ Sigue enseñándoles las leyes y los reglamentos. Muéstrales cómo vivir y el trabajo que deben hacer. ^21^ Pero ahora debes elegir entre el pueblo hombres competentes, hombres que respeten a Dios y que sean dignos de confianza y no corruptos. Ponlos a cargo del pueblo como líderes de miles, cientos, cincuenta y decenas. ^22^ Estos hombres deben juzgar al pueblo de manera continua. Pueden traertelos asuntos más grandes, pero podrán decidirpor sí mismos respecto a todos los asuntos pequeños. De esta manera su carga se hará más ligera a medida que la compartan. ^23^ Si sigues mi consejo, y si es lo que Dios te dice que hagas, entonces podrás sobrevivir, y toda esta gente podrá volver a casa satisfecha de que sus casos han sido escuchados”.^^ 
-^[**18:23** “satisfecha de que sus casos han sido escuchados”: Literalmente, “en paz”. La palabra shalom, sin embargo, significa más que paz, pues también tiene el significado de bienestar y armonía dentro de la comunidad.]
+^17^ Jetro le dijo: “Lo que estás haciendo no es lo mejor. ^18^ Tú y los que vienen a ti se van a agotar, porque la carga de trabajo es demasiado pesada. No pueden manejarlo solos. ^19^ Así que, por favor, escúchame. Voy a darte un consejo, y Dios estará contigo. Sí, debes continuar siendo el representante del pueblo ante Dios, y llevarle sus casos a él. ^20^ Sigue enseñándoles las leyes y los reglamentos. Muéstrales cómo vivir y el trabajo que deben hacer. ^21^ Pero ahora debes elegir entre el pueblo hombres competentes, hombres que respeten a Dios y que sean dignos de confianza y no corruptos. Ponlos a cargo del pueblo como líderes de miles, cientos, cincuenta y decenas. ^22^ Estos hombres deben juzgar al pueblo de manera continua. Pueden traertelos asuntos más grandes, pero podrán decidirpor sí mismos respecto a todos los asuntos pequeños. De esta manera su carga se hará más ligera a medida que la compartan. ^23^ Si sigues mi consejo, y si es lo que Dios te dice que hagas, entonces podrás sobrevivir, y toda esta gente podrá volver a casa satisfecha de que sus casos han sido escuchados”.^a^ 
+^a^[**18:23** “satisfecha de que sus casos han sido escuchados”: Literalmente, “en paz”. La palabra shalom, sin embargo, significa más que paz, pues también tiene el significado de bienestar y armonía dentro de la comunidad.]
 
 ^24^ Moisés escuchó lo que dijo su suegro y siguió todos sus consejos. ^25^ Así que Moisés eligió hombres competentes de todo Israel y los puso a cargo del pueblo como líderes de miles, cientos, cincuenta y decenas. ^26^ Y actuaron como jueces del pueblo de manera continua. Llevaban los casos difíciles a Moisés, pero juzgaban los pequeños asuntos por sí mismos. 
 
 ^27^ Entonces Moisés envió a Jetrode camino, y regresó a su propio país. 
 
 # 19 
-^1^ Dos meses después del día^^en que habían salido de Egipto, los israelitas llegaron al desierto del Sinaí. ^2^ Habían partido de Refidim, y después de entrar en el desierto del Sinaí acamparon allí frente a la montaña. 
-^[**19:1** “Dos meses después del día”: Literalmente, “El día de la tercera luna nueva”. ]
+^1^ Dos meses después del día^a^ en que habían salido de Egipto, los israelitas llegaron al desierto del Sinaí. ^2^ Habían partido de Refidim, y después de entrar en el desierto del Sinaí acamparon allí frente a la montaña. 
+^a^[**19:1** “Dos meses después del día”: Literalmente, “El día de la tercera luna nueva”. ]
 
 ^3^ Moisés subió al monte de Dios. Y el Señor habló con Moisés desde la montaña y le dijo: “Esto es lo que debes decirles a los descendientes de Jacob, los israelitas: ^4^ ‘Vieron con sus propios ojos lo que hice con los egipcios, y cómo los llevé sobre alas de águila, y cómo los traje hacia mí. ^5^ Ahora bien, si realmente obedecen lo que digo y cumplen el acuerdo conmigo, entonces, de todas las naciones, serán mi pueblo especial. Aunque que el mundo entero es mío, ^6^ para mí serán un reino de sacerdotes, una nación santa.’ Esto es lo que debes decirles a los israelitas”. 
 
@@ -538,21 +534,21 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^9^ El Señor le dijo a Moisés: “Voy a ir hacia ti en una nube espesa para que el pueblo me oiga hablar contigo y así siempre confiarán en ti”. Entonces Moisés le informó al Señor lo que el pueblo había dicho. 
 
-^10^ El Señor le dijo a Moisés: “Baja y prepáralos espiritualmente^^ hoy y mañana. Deben lavar sus ropas ^11^ y estar listos al tercer día porque es cuando el Señor descenderá al Monte Sinaí a la vista de todos. ^12^ Establezcan un límite alrededor de la montaña y adviértanles:‘Tengan cuidado yno intenten subir a la montaña, ¡ni siquiera la toquen! Porque cualquiera que toque la montaña seguramente morirá. No toquen a ninguna persona o animal que haya tocado la montaña. ^13^ Asegúrate de que sean apedreados o disparados con flechas, pues no se les debe permitir vivir. Sólo cuando escuchen un fuerte sonido de cuerno de carnero,el pueblo podrá subir a la montaña”. 
-^[**19:10** “Prepáralos espiritualmente”: Literalmente, “conságralos, apártalos,” quizás mediante algún ritual. Ver también versículos 14 y 22.]
+^10^ El Señor le dijo a Moisés: “Baja y prepáralos espiritualmente^a^ hoy y mañana. Deben lavar sus ropas ^11^ y estar listos al tercer día porque es cuando el Señor descenderá al Monte Sinaí a la vista de todos. ^12^ Establezcan un límite alrededor de la montaña y adviértanles:‘Tengan cuidado yno intenten subir a la montaña, ¡ni siquiera la toquen! Porque cualquiera que toque la montaña seguramente morirá. No toquen a ninguna persona o animal que haya tocado la montaña. ^13^ Asegúrate de que sean apedreados o disparados con flechas, pues no se les debe permitir vivir. Sólo cuando escuchen un fuerte sonido de cuerno de carnero,el pueblo podrá subir a la montaña”. 
+^a^[**19:10** “Prepáralos espiritualmente”: Literalmente, “conságralos, apártalos,” quizás mediante algún ritual. Ver también versículos 14 y 22.]
 
-^14^ Moisés bajó de la montaña y preparó al pueblo espiritualmente y lavó sus ropas. ^15^ Luego instruyó al pueblo: “Prepárense para el tercer día, y no tengan relación íntima con^^una mujer”. 
-^[**19:15** “No tengan relación íntima con”: Literalmente, “no se acerquen a mujer alguna”.]
+^14^ Moisés bajó de la montaña y preparó al pueblo espiritualmente y lavó sus ropas. ^15^ Luego instruyó al pueblo: “Prepárense para el tercer día, y no tengan relación íntima con^a^ una mujer”. 
+^a^[**19:15** “No tengan relación íntima con”: Literalmente, “no se acerquen a mujer alguna”.]
 
 ^16^ Cuando llegó la mañana del tercer día hubo truenos y relámpagos, y una nube espesa cubrió la montaña. Hubo un fuerte sonido de cuerno de carnero, y todos en el campamento temblaron de miedo. ^17^ Moisés condujo al pueblo fuera del campamento para encontrarse con Dios. Se pararon al pie de la montaña ^18^ El humo se derramó sobre todo el Monte Sinaí porque la presencia del Señor había descendido como el fuego. El humo se elevó como el humo de un horno, y toda la montaña tembló furiosamente. ^19^ A medida que el sonido del cuerno de carnero se hacía cada vez más fuerte, Moisés hablaba, y Dios le respondía con una voz fuerte y atronadora. ^20^ El Señor descendió a la cima del Monte Sinaí, y llamó a Moisés para que subiera allí. Así que Moisés subió, ^21^ y el Señor le dijo: “Vuelve a bajar, y adviértele al pueblo que no se esfuercen en cruzar el límite para intentar subir donde está el Señor o morirán. ^22^ Incluso los sacerdotes, que vienen ante el Señor, deben prepararse espiritualmente, para que el Señor no los castigue”. 
 
-^23^ Pero Moisés le dijo al Señor: “El pueblo no puede subir al monte Sinaí. Tu mismo nos advertiste diciendo: 'Establezcan un límite alrededor de la montaña, y considérenla como sagrada.’”^^ 
-^[**19:23** “Trátenla como sagrada”: se utiliza la misma palabra que para preparar o consagrar al pueblo espiritualmente. Sin embargo, es evidente que un objeto inanimado como una montaña no puede ser “consagrada” de la misma manera que una persona.]
+^23^ Pero Moisés le dijo al Señor: “El pueblo no puede subir al monte Sinaí. Tu mismo nos advertiste diciendo: 'Establezcan un límite alrededor de la montaña, y considérenla como sagrada.’”^a^ 
+^a^[**19:23** “Trátenla como sagrada”: se utiliza la misma palabra que para preparar o consagrar al pueblo espiritualmente. Sin embargo, es evidente que un objeto inanimado como una montaña no puede ser “consagrada” de la misma manera que una persona.]
 
 ^24^ El Señor le dijo: “Baja y trae a Aarón contigo. Pero los sacerdotes y el pueblo no deben tratar de subir donde estáel Señor, o él los castigará” 
 
-^25^ Entonces Moisés bajó y le explicó al pueblo lo que el Señor había dicho.^^
-^[**19:25** “Lo que el Señor le había dicho”: añadido para mayor claridad.] 
+^25^ Entonces Moisés bajó y le explicó al pueblo lo que el Señor había dicho.^a^
+^a^[**19:25** “Lo que el Señor le había dicho”: añadido para mayor claridad.] 
 
 # 20 
 ^1^ Dios dijo todas las siguientes palabras: 
@@ -590,14 +586,14 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^2^ Si compran un esclavo hebreo, debe trabajar para ustedes durante seis años. Pero en el séptimo año, debe ser liberado sin tener que pagar nada. ^3^ Si era soltero cuando llegó, debe irse soltero. Si tenía una esposa cuando llegó, ella debe irse con él. ^4^ Si su amo le da una esposa y ella tiene hijos con él, la mujer y sus hijos pertenecerán a su amo, y sólo el hombre será liberado. 
 
-^5^ Sin embargo, si el esclavo declara formalmente: “Amo a mi señor, a mi esposa y a mis hijos; no quiero ser liberado’ ^6^ entonces su señor lo llevará ante los jueces.^^Luego lo pondrá de pie contra la puerta o el poste de la puerta y usará una herramienta de metal para hacerle un agujero en la oreja. Entonces trabajará para su amo de por vida. 
-^[**21:6** La palabra utilizada aquí también puede referirse a Dios, pero en este contexto parece que se está hablando de un tribunal civil. Ver también 22:8, 9.]
+^5^ Sin embargo, si el esclavo declara formalmente: “Amo a mi señor, a mi esposa y a mis hijos; no quiero ser liberado’ ^6^ entonces su señor lo llevará ante los jueces.^a^ Luego lo pondrá de pie contra la puerta o el poste de la puerta y usará una herramienta de metal para hacerle un agujero en la oreja. Entonces trabajará para su amo de por vida. 
+^a^[**21:6** La palabra utilizada aquí también puede referirse a Dios, pero en este contexto parece que se está hablando de un tribunal civil. Ver también 22:8, 9.]
 
-^7^ Si un hombre vende a su hija como esclava, no será liberada de la misma manera que los esclavos. ^8^ Si el hombre que la eligió para sí^^no está satisfecho con ella, debe dejar que sea comprada de nuevo. No podrá venderla a los extranjeros, ya que ha sido injusto con ella. ^9^ Si decide dársela a su hijo, debe tratarla como a una hija. ^10^ Si toma a otra mujer, no debe reducir los subsidios de comida y ropa, ni los derechos maritales de la primera. ^11^ Si no le da estas tres cosas, ella es libre de irse sin pagar nada. 
-^[**21:8** “La eligió para sí”: probablemente refiriéndose a ella como concubina.]
+^7^ Si un hombre vende a su hija como esclava, no será liberada de la misma manera que los esclavos. ^8^ Si el hombre que la eligió para sí^a^ no está satisfecho con ella, debe dejar que sea comprada de nuevo. No podrá venderla a los extranjeros, ya que ha sido injusto con ella. ^9^ Si decide dársela a su hijo, debe tratarla como a una hija. ^10^ Si toma a otra mujer, no debe reducir los subsidios de comida y ropa, ni los derechos maritales de la primera. ^11^ Si no le da estas tres cosas, ella es libre de irse sin pagar nada. 
+^a^[**21:8** “La eligió para sí”: probablemente refiriéndose a ella como concubina.]
 
-^12^ Todo aquel que golpee y mate a otra persona debe ser ejecutado. ^13^ Sin embargo, si no fue intencional y Dios permitió que sucediera, entonces arreglaré un lugar para ustedes donde puedan correr y estar seguros. ^14^ Pero si alguien planea deliberadamente y mata a propósito a otro, debe alejarlo de mi altar^^ y ejecutarlo. 
-^[**21:14** “De mi altar”: donde la gente iba considerándolo santuario.]
+^12^ Todo aquel que golpee y mate a otra persona debe ser ejecutado. ^13^ Sin embargo, si no fue intencional y Dios permitió que sucediera, entonces arreglaré un lugar para ustedes donde puedan correr y estar seguros. ^14^ Pero si alguien planea deliberadamente y mata a propósito a otro, debe alejarlo de mi altar^a^ y ejecutarlo. 
+^a^[**21:14** “De mi altar”: donde la gente iba considerándolo santuario.]
 
 ^15^ Cualquiera que golpee a su padre o madre debe ser ejecutado. ^16^ Cualquiera que secuestre a alguien más debe ser ejecutado, ya sea que la víctima sea vendida o que aún esté en su posesión. 
 
@@ -607,8 +603,8 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^20^ Cualquiera que golpee a su esclavo o esclava con una vara, y el esclavo muera como resultado, debe ser castigado. ^21^ Sin embargo, si después de un día o dos el esclavo mejora, el dueño no será castigado porque el esclavo es de su propiedad. 
 
-^22^ Si los hombres que están peleando golpean a una mujer embarazada para que dé a luz prematuramente,^^pero no se produce ninguna lesión grave, debe ser multado con la cantidad que el marido de la mujer demande y según lo permitan los jueces. ^23^ Pero si se produce una lesión grave, entonces debe pagar una vida por otra vida; ^24^ ojo por ojo, diente por diente, mano por mano, pie por pie, ^25^ quemadura por quemadura, herida por herida y moretón por moretón. 
-^[**21:22** “Dé a luz prematuramente”: o, “tiene un aborto espontáneo”.]
+^22^ Si los hombres que están peleando golpean a una mujer embarazada para que dé a luz prematuramente,^a^ pero no se produce ninguna lesión grave, debe ser multado con la cantidad que el marido de la mujer demande y según lo permitan los jueces. ^23^ Pero si se produce una lesión grave, entonces debe pagar una vida por otra vida; ^24^ ojo por ojo, diente por diente, mano por mano, pie por pie, ^25^ quemadura por quemadura, herida por herida y moretón por moretón. 
+^a^[**21:22** “Dé a luz prematuramente”: o, “tiene un aborto espontáneo”.]
 
 ^26^ El que golpee a su esclavo o esclava en el ojo y lo ciegue, debe liberar al esclavo como compensación por el ojo. ^27^ El que golpee el diente de su esclavo o esclava debe liberar al esclavo como compensación por el diente. 
 
@@ -643,8 +639,8 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^19^ Todo aquel que tenga relaciones sexuales con un animal debe ser ejecutado. 
 
-^20^ Cualquiera que se sacrifique a cualquier otro dios que no sea el Señor debe ser apartado y ejecutado.^^ 
-^[**22:20** “Set apart and executed”: the term used here means “devoted to destruction” in the sense they now are to suffer God's punishment.]
+^20^ Cualquiera que se sacrifique a cualquier otro dios que no sea el Señor debe ser apartado y ejecutado.^a^ 
+^a^[**22:20** “Set apart and executed”: the term used here means “devoted to destruction” in the sense they now are to suffer God's punishment.]
 
 ^21^ No se debe explotar o maltratar a un extranjero. Recuerden que ustedes mismos fueron una vez extranjeros en Egipto. 
 
@@ -656,16 +652,16 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^28^ Nodesprecies a Dios ni maldigas al líder de tu pueblo. 
 
-^29^ Noretengas las ofrendas requeridas de tus productos, aceite de oliva y vino.^^Debes darme el primogénito de tus hijos. ^30^ También debes darme el primogénito de tus vacas, ovejas y cabras. Podrás dejarlos con sus madres durante los primeros siete días, pero debes darmelos al octavo día. 
-^[**22:29** “aceite de oliva y vino”: Literalmente, “mejores vendimias”.]
+^29^ Noretengas las ofrendas requeridas de tus productos, aceite de oliva y vino.^a^ Debes darme el primogénito de tus hijos. ^30^ También debes darme el primogénito de tus vacas, ovejas y cabras. Podrás dejarlos con sus madres durante los primeros siete días, pero debes darmelos al octavo día. 
+^a^[**22:29** “aceite de oliva y vino”: Literalmente, “mejores vendimias”.]
 
 ^31^ Ustedes deben ser un pueblo santo para mí. No coman ningún cadáver de animal que encuentren en el campo y que haya sido asesinado por animales salvajes. Láncenlos a los perros para que se lo coman”. 
 
 # 23 
 ^1^ “No ayudes a difundir historias que son mentiras. No ayudes a la gente mala dando mal testimonio. 
 
-^2^ No sigas a la multitud haciendo el mal. Cuando testifiques en un juicio, no corrompas la justicia poniéndote del lado de la mayoría. ^3^ Tampoco^^ muestres favoritismo hacia los pobres en sus casos legales. 
-^[**23:3** “Tampoco”: añadido para mayor claridad. La justicia tiene que ser imparcial, así que mostrar favoritismo a cualquier parte está mal. Sin embargo, el problema más usual es la negación de la justicia a los pobres (ver por ejemplo el versículo 6.]
+^2^ No sigas a la multitud haciendo el mal. Cuando testifiques en un juicio, no corrompas la justicia poniéndote del lado de la mayoría. ^3^ Tampoco^a^ muestres favoritismo hacia los pobres en sus casos legales. 
+^a^[**23:3** “Tampoco”: añadido para mayor claridad. La justicia tiene que ser imparcial, así que mostrar favoritismo a cualquier parte está mal. Sin embargo, el problema más usual es la negación de la justicia a los pobres (ver por ejemplo el versículo 6.]
 
 ^4^ Si te encuentras con el buey o asno de tu enemigo que se ha extraviado, devuélveselo. ^5^ Si ves el asno de alguien que te odia y que ha caído porel peso de su carga, no lo dejes ahí. Debes detenerte y ayudarle. 
 
@@ -675,39 +671,39 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^9^ No abusen de los extranjeros que viven entre ustedes, pues ustedes saben muy bien lo que es ser extranjeros, ya que una vez fueron extranjeros en Egipto. 
 
-^10^ Seis años deben sembrar la tierra y cosechar los cultivos, ^11^ pero en el séptimo año deben dejarla descansar y dejarla sin cultivar, para que los pobres puedan comer lo que crece naturalmente^^ en el campo y los animales salvajes puedan terminar lo que queda. Sigan el mismo procedimiento para sus viñedos y olivares. 
-^[**23:11** “Lo que crece naturalmente”: añadido para mayor claridad.]
+^10^ Seis años deben sembrar la tierra y cosechar los cultivos, ^11^ pero en el séptimo año deben dejarla descansar y dejarla sin cultivar, para que los pobres puedan comer lo que crece naturalmente^a^ en el campo y los animales salvajes puedan terminar lo que queda. Sigan el mismo procedimiento para sus viñedos y olivares. 
+^a^[**23:11** “Lo que crece naturalmente”: añadido para mayor claridad.]
 
 ^12^ Tendrán seis días para hacer su trabajo, pero el séptimo día deben dejar de trabajar, para que su buey y su asno puedan descansar, y las familias de sus esclavos puedan recuperar el aliento, así como los extranjeros que viven entre ustedes. 
 
 ^13^ Asegúrate de prestar atención a todo lo que te he dicho. Que no pase por tu mente invocar el nombre de otros dioses, ni siquiera debes mencionarlos. 
 
-^14^ Tres veces al año celebrarán una fiesta dedicada a mí. ^15^ Deben observar el Festival de los Panes sin Levadura como se los he instruído.^^Deben comer pan sin levadura durante siete días en el momento apropiado en el mes de Abib, porque ese fue el mes en que saliste de Egipto. Nadie puede venir delante mí sin traer una ofrenda. 
-^[**23:15** Ver el capítulo 13.]
+^14^ Tres veces al año celebrarán una fiesta dedicada a mí. ^15^ Deben observar el Festival de los Panes sin Levadura como se los he instruído.^a^ Deben comer pan sin levadura durante siete días en el momento apropiado en el mes de Abib, porque ese fue el mes en que saliste de Egipto. Nadie puede venir delante mí sin traer una ofrenda. 
+^a^[**23:15** Ver el capítulo 13.]
 
-^16^ Ytambién observarán el Festival de las Cosechas cuando presenten las primicias de los productos de lo que hayan sembrado en los campos. Por último, deben observar el Festival de la Cosecha^^ al final del año, cuando recojan la cosecha del resto de tus cultivos en el campo. ^17^ Todo varón israelita debe presentarse ante el Señor Dios en estas tres ocasiones cada año. 
-^[**23:16** El nombre más familiar, dado más tarde, es el Festival de los tabernáculos. ]
+^16^ Ytambién observarán el Festival de las Cosechas cuando presenten las primicias de los productos de lo que hayan sembrado en los campos. Por último, deben observar el Festival de la Cosecha^a^ al final del año, cuando recojan la cosecha del resto de tus cultivos en el campo. ^17^ Todo varón israelita debe presentarse ante el Señor Dios en estas tres ocasiones cada año. 
+^a^[**23:16** El nombre más familiar, dado más tarde, es el Festival de los tabernáculos. ]
 
 ^18^ No ofrecerán la sangre de mis sacrificios junto con nada que contenga levadura, y la grasa de las ofrendas presentadas en mi festival no debe dejarse hasta la mañana. 
 
 ^19^ Traigan las mejores primicias de sus cosechas a la casa del Señor su Dios. No cocinarán a un cabrito en la leche de su madre. 
 
-^20^ Yoenvío un ángel delante de ti para que te proteja en el camino y te lleve al lugar que te he preparado. ^21^ Asegúrate de prestarle atención y hacer lo que te diga. No te opongas a él, porque no perdonará la rebelión, pues lleva mi autoridad.^^ 
-^[**23:21** “lleva mi autoridad”: Literalmente, “mi nombre está en medio de él”.]
+^20^ Yoenvío un ángel delante de ti para que te proteja en el camino y te lleve al lugar que te he preparado. ^21^ Asegúrate de prestarle atención y hacer lo que te diga. No te opongas a él, porque no perdonará la rebelión, pues lleva mi autoridad.^a^ 
+^a^[**23:21** “lleva mi autoridad”: Literalmente, “mi nombre está en medio de él”.]
 
 ^22^ Sin embargo, si le escuchas atentamente y haces todo lo que te digo, entonces seré enemigo de tus enemigos y lucharé contra los que luchan contra ti. ^23^ Porque mi ángel irá delante de ti y te llevará a la tierra de los amorreos, hititas, ferezeos, cananeos, heveos y jebuseos, y los aniquilaré. ^24^ No debes inclinarte ante sus dioses ni adorarlos, ni seguir sus prácticas paganas. Más biendestruirás sus ídolos y derribarás sus altares. 
 
 ^25^ Adorarásal Señor tu Dios, y él bendecirá tu comida y tu agua. Me aseguraré de que ninguno de ustedes se enferme. ^26^ Ninguna mujer tendrá un aborto espontáneo ni se quedará sin hijos. Me aseguraré de que vivan una larga vida. 
 
-^27^ Enviaré un terror sobre mí delante de ustedes que hará que todas las naciones que los conozcan entren en pánico. Haré que todos sus enemigos se den la vuelta y huyan. ^28^ Y enviaré avispones^^delante de ti para expulsar a los heveos, cananeos e hititas. ^29^ No los expulsaré en un año, porque la tierra se volvería desolada y tendrías que enfrentarte a un mayor número de animales salvajes. ^30^ Poco a poco los expulsaré delante de ti, hasta que haya suficientes para tomar posesión de la tierra. 
-^[**23:28** “Avispones”: El significado de la palabra utilizada aquí aún se debate. Algunos lo ven de manera similar al “terror” del verso anterior que causa pánico.]
+^27^ Enviaré un terror sobre mí delante de ustedes que hará que todas las naciones que los conozcan entren en pánico. Haré que todos sus enemigos se den la vuelta y huyan. ^28^ Y enviaré avispones^a^ delante de ti para expulsar a los heveos, cananeos e hititas. ^29^ No los expulsaré en un año, porque la tierra se volvería desolada y tendrías que enfrentarte a un mayor número de animales salvajes. ^30^ Poco a poco los expulsaré delante de ti, hasta que haya suficientes para tomar posesión de la tierra. 
+^a^[**23:28** “Avispones”: El significado de la palabra utilizada aquí aún se debate. Algunos lo ven de manera similar al “terror” del verso anterior que causa pánico.]
 
-^31^ Fijaré sus fronteras desde el Mar Rojo hasta el Mar de los Filisteos,^^ y desde el desierto hasta el río Éufrates. Te entregaré los habitantes de la tierra y tú los expulsarás. ^32^ No debes hacer ningún acuerdo con ellos ni con sus dioses. ^33^ No se les debe permitir permanecer en tu tierra, de lo contrario te llevarán a pecar contra mí. Porque si adoras a sus dioses, definitivamente se convertirán en una trampa para ti”.
-^[**23:31** “Mar de los filisteos”: El mediterráneo.] 
+^31^ Fijaré sus fronteras desde el Mar Rojo hasta el Mar de los Filisteos,^a^ y desde el desierto hasta el río Éufrates. Te entregaré los habitantes de la tierra y tú los expulsarás. ^32^ No debes hacer ningún acuerdo con ellos ni con sus dioses. ^33^ No se les debe permitir permanecer en tu tierra, de lo contrario te llevarán a pecar contra mí. Porque si adoras a sus dioses, definitivamente se convertirán en una trampa para ti”.
+^a^[**23:31** “Mar de los filisteos”: El mediterráneo.] 
 
 # 24 
-^1^ El Señor le dijo a Moisés: “Subana la presencia del Señor, tú y Aarón, Nadab y Abiú, y setenta de los ancianos de Israel. Deben adorar a distancia. ^2^ Sólo Moisés puede acercarse al Señor, los demás no deben acercarse. El pueblo no puede subir al monte^^ con él”. 
-^[**24:2** “Al monte”: añadido para mayor claridad.]
+^1^ El Señor le dijo a Moisés: “Subana la presencia del Señor, tú y Aarón, Nadab y Abiú, y setenta de los ancianos de Israel. Deben adorar a distancia. ^2^ Sólo Moisés puede acercarse al Señor, los demás no deben acercarse. El pueblo no puede subir al monte^a^ con él”. 
+^a^[**24:2** “Al monte”: añadido para mayor claridad.]
 
 ^3^ Moisés fue y le dijo al pueblo todas las instrucciones y reglamentos del Señor. Todos respondieron juntos: “¡Haremos todo lo que el Señor diga!” ^4^ Moisés escribió todo lo que el Señor había dicho. Se levantó temprano a la mañana siguiente y construyó un altar al pie de la montaña, y levantó doce pilares para cada una de las doce tribus de Israel. ^5^ Luego envió a algunos jóvenes israelitas que fueron y ofrecieron holocaustos y sacrificaron toros jóvenes como ofrendas de paz al Señor. ^6^ Moisés puso la mitad de la sangre en tazones y roció la otra mitad en el altar. 
 
@@ -715,9 +711,8 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^8^ Entonces Moisés tomó la sangre, la roció sobre el pueblo y dijo: “Mira, esta es la sangre del pacto que el Señor ha hecho contigo siguiendo estos términos”. 
 
-^9^ Entonces Moisés y Aarón, Nadab y Abiú, y setenta de los ancianos de Israel subieron al monte, ^10^ y vieron al Dios de Israel. Bajo sus pies había algo así como un pavimento de azulejos hecho de lapislázuli, tan azul claro como el propio cielo. ^11^ Pero Dios no hirió^^a los líderes de Israel. Ellos lo vieron, y luego comieron y bebieron una comida sagrada.^^ 
-^[**24:11** “hirió”: esto se debió a la expectativa de que cualquiera que viera a Dios moriría (Génesis 32:30; Jueces 6:22), respaldado por el mismo Dios (33:20)]
-^[**24:11** “Una comida sagrada”: añadido para mayor claridad.]
+^9^ Entonces Moisés y Aarón, Nadab y Abiú, y setenta de los ancianos de Israel subieron al monte, ^10^ y vieron al Dios de Israel. Bajo sus pies había algo así como un pavimento de azulejos hecho de lapislázuli, tan azul claro como el propio cielo. ^11^ Pero Dios no hirió^a^ a los líderes de Israel. Ellos lo vieron, y luego comieron y bebieron una comida sagrada.^b^ 
+^a^[**24:11** “hirió”: esto se debió a la expectativa de que cualquiera que viera a Dios moriría (Génesis 32:30; Jueces 6:22), respaldado por el mismo Dios (33:20)] ^b^[**24:11** “Una comida sagrada”: añadido para mayor claridad.]
 
 ^12^ Entonces el Señor le dijo a Moisés: “Sube a mí al monte y quédate aquí, para que te dé las tablas de piedra, con las instrucciones y órdenes que he escrito para que las aprendan”. 
 
@@ -730,14 +725,13 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^3^ Estos son los artículos que debes aceptar de ellos como contribuciones: oro, plata y bronce; ^4^ hilos azules, púrpura y carmesí; lino y pelo de cabra finamente hilados; ^5^ pieles de carnero curtidas y cuero fino; madera de acacia; ^6^ aceite de oliva para las lámparas; especias para el aceite de oliva usado en la unción y para el incienso fragante; ^7^ y piedras de ónix y otras gemas para ser usadas en la fabricación del efod y el pectoral. 
 
-^8^ Me harán un santuario para que pueda vivir entre ellos. ^9^ Debes hacer el Tabernáculo^^y todos sus muebles según el diseño que te voy a mostrar. 
-^[**25:9** La palabra “Tabernáculo” viene del latín para “tienda de campaña”, y traduce el hebreo que se refiere a una morada, o lugar donde se habita.]
+^8^ Me harán un santuario para que pueda vivir entre ellos. ^9^ Debes hacer el Tabernáculo^a^ y todos sus muebles según el diseño que te voy a mostrar. 
+^a^[**25:9** La palabra “Tabernáculo” viene del latín para “tienda de campaña”, y traduce el hebreo que se refiere a una morada, o lugar donde se habita.]
 
 ^10^ Deben hacer un Arca de madera de acacia que mida dos codos y medio de largo por codo y medio de ancho por codo y medio de alto. ^11^ Cúbranla con oro puro por dentro y por fuera, y hagan un adorno de oro para rodearla. ^12^ Fundirán cuatro anillos de oro y fijarlos a sus cuatro pies, dos en un lado y dos en el otro. ^13^ Harán palos de madera de acacia y cubrirlos con oro. ^14^ Colocarán las varas en los anillos de los lados del Arca, para que pueda ser transportada. ^15^ Las varas deben permanecer en los anillos del Arca; no las saques. ^16^ Pongan dentro del Arca el testimonio que os voy a dar. 
 
-^17^ Harás una tapa de expiación^^de oro puro, de dos codos y medio de largo por codo y medio de ancho. ^18^ Haz dos querubines^^de oro forjado para los extremos de la cubierta de la expiación, ^19^ y pon un querubín en cada extremo. Todo esto debe ser hecho a partir de una sola pieza de oro. ^20^ Los querubines deben ser diseñados con alas extendidas apuntando hacia arriba, cubriendo la cubierta de expiación. Los querubines se colocarán uno frente al otro, mirando hacia abajo, hacia la cubierta de expiación. ^21^ Pondrán la cubiertade expiación encima del Arca, y también podrán el testimonio que les daré dentro del Arca. ^22^ Me reuniré contigo allí como está dispuesto sobre la tapa de la expiación, entre los dos querubines que están de pie sobre el Arca del Testimonio, y hablaré contigo sobre todas las órdenes que daré a los israelitas. ^23^ Entonces harás una mesa de madera de acacia de dos codos de largo por un codo de ancho por un codo y medio de alto. ^24^ Cúbrela con oro puro y haz un adorno de oro para rodearla. ^25^ Haz un borde a su alrededor del ancho de una mano y pon un ribete de oro en el borde. ^26^ Haz cuatro anillos de oro para la mesa y sujétalos a las cuatro esquinas de la mesa por las patas. ^27^ Los anillos deben estar cerca del borde para sostener los palos usados para llevar la mesa. ^28^ Haránlas varas de madera de acacia para llevar la mesa y las cubrirán con oro. ^29^ Harán platos y fuentes para la mesa, así como jarras y tazones para verter las ofrendas de bebida. Todos serán de oro puro. ^30^ Pongan el Pan de la Presencia sobre la mesa para que esté siempre en mi presencia. 
-^[**25:17** “Cubierta de expiación”: la palabra usada aquí significa “cubrir”, en el sentido de tratar con los pecados. La traducción tradicional de “propiciatorio” se originó en Martín Lutero. Desde un punto de vista físico era la “tapa” del Arca.]
-^[**25:18** Una clase de ángel.]
+^17^ Harás una tapa de expiación^a^ de oro puro, de dos codos y medio de largo por codo y medio de ancho. ^18^ Haz dos querubines^b^ de oro forjado para los extremos de la cubierta de la expiación, ^19^ y pon un querubín en cada extremo. Todo esto debe ser hecho a partir de una sola pieza de oro. ^20^ Los querubines deben ser diseñados con alas extendidas apuntando hacia arriba, cubriendo la cubierta de expiación. Los querubines se colocarán uno frente al otro, mirando hacia abajo, hacia la cubierta de expiación. ^21^ Pondrán la cubiertade expiación encima del Arca, y también podrán el testimonio que les daré dentro del Arca. ^22^ Me reuniré contigo allí como está dispuesto sobre la tapa de la expiación, entre los dos querubines que están de pie sobre el Arca del Testimonio, y hablaré contigo sobre todas las órdenes que daré a los israelitas. ^23^ Entonces harás una mesa de madera de acacia de dos codos de largo por un codo de ancho por un codo y medio de alto. ^24^ Cúbrela con oro puro y haz un adorno de oro para rodearla. ^25^ Haz un borde a su alrededor del ancho de una mano y pon un ribete de oro en el borde. ^26^ Haz cuatro anillos de oro para la mesa y sujétalos a las cuatro esquinas de la mesa por las patas. ^27^ Los anillos deben estar cerca del borde para sostener los palos usados para llevar la mesa. ^28^ Haránlas varas de madera de acacia para llevar la mesa y las cubrirán con oro. ^29^ Harán platos y fuentes para la mesa, así como jarras y tazones para verter las ofrendas de bebida. Todos serán de oro puro. ^30^ Pongan el Pan de la Presencia sobre la mesa para que esté siempre en mi presencia. 
+^a^[**25:17** “Cubierta de expiación”: la palabra usada aquí significa “cubrir”, en el sentido de tratar con los pecados. La traducción tradicional de “propiciatorio” se originó en Martín Lutero. Desde un punto de vista físico era la “tapa” del Arca.] ^b^[**25:18** Una clase de ángel.]
 
 ^31^ Haz un candelabro de oro puro, modelado con martillo. Todo debe ser hecho de una sola pieza: su base, su eje, sus copas, sus capullos y sus flores. ^32^ Debe tener seis ramas que salgan de los lados del candelabro, tres en cada lado. ^33^ Tiene tres tazas en forma de flores de almendra en la primera rama, cada una con capullos y pétalos, tres en la siguiente rama. Cada una de las seis ramas que salen tendrá tres tazas en forma de flores de almendra, todas con brotes y pétalos. 
 
@@ -774,13 +768,11 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 
 ^6^ Harán el efod de lino finamente tejido y bordado con oro, y con hilos azules, púrpura y carmesí, hábilmente trabajado. ^7^ Dos piezas de hombro deben ser unidas a las piezas delanteras y traseras. ^8^ La cintura del efod será una pieza hecha de la misma manera, usando hilo de oro, con hilo azul, púrpura y carmesí, y con lino finamente tejido. 
 
-^9^ Escribe en dos piedras de ónice los nombres de las tribus de Israel, ^10^ seis nombres en una piedra, y seis en la otra, en orden de nacimiento.^^ ^11^ Escribe los nombres en las dos piedras de la misma manera que un joyero graba un sello personal. Luego coloque las piedras en un adorno de oro. ^12^ Ata ambas piedras a las piezas del hombro del efod como recordatorio para las tribus israelitas. Aarón debe llevar sus nombres en sus dos hombros para recordar a los israelitas que los representa cuando va a la presencia del Señor. ^13^ Hagan adornos de oro ^14^ y dos cadenas trenzadas de oro puro, y sujetar estas cadenas a los adornos. 
-^[**28:10** “En orden de nacimiento”: Literalmente, “según su generación”.]
+^9^ Escribe en dos piedras de ónice los nombres de las tribus de Israel, ^10^ seis nombres en una piedra, y seis en la otra, en orden de nacimiento.^a^ ^11^ Escribe los nombres en las dos piedras de la misma manera que un joyero graba un sello personal. Luego coloque las piedras en un adorno de oro. ^12^ Ata ambas piedras a las piezas del hombro del efod como recordatorio para las tribus israelitas. Aarón debe llevar sus nombres en sus dos hombros para recordar a los israelitas que los representa cuando va a la presencia del Señor. ^13^ Hagan adornos de oro ^14^ y dos cadenas trenzadas de oro puro, y sujetar estas cadenas a los adornos. 
+^a^[**28:10** “En orden de nacimiento”: Literalmente, “según su generación”.]
 
-^15^ También debe hacer un pectoral para las decisiones^^de la misma manera hábil que el efod, para ser usado en la determinación de la voluntad del Señor. Háganlo usando hilo de oro, con hilo azul, púrpura y carmesí, y con lino finamente tejido. ^16^ Tiene que ser cuadrado cuando se pliega, midiendo alrededor de nueve pulgadas^^ de largo y ancho. ^17^ Adjunta un arreglo de piedras preciosas en cuatro filas como sigue: ^^En la primera fila cornalina, peridoto y esmeralda. ^18^ En la segunda fila turquesa, lapislázuli y sardónice. ^19^ En la tercera fila jacinto, ágata y amatista. ^20^ En la cuarta fila topacio, berilo y jaspe. Coloca estas piedras en los adornos de oro. ^21^ Cada una de las doce piedras se grabará como un sello personal con el nombre de una de las doce tribus israelitas y las representará. 
-^[**28:15** “Para las decisiones”: el pectoral debía sostener el Urim y el Tumim utilizados para determinar la voluntad del Señor y las decisiones sobre diferentes cuestiones (véase el versículo 30).]
-^[**28:16** “Nueve pulgadas”: Literalmente, “un espacio,” la distancia entre el pulgar y el dedo meñique cuando la mano está estirada.]
-^[**28:17** Ninguna de las siguientes piedras ha sido identificada con certeza.]
+^15^ También debe hacer un pectoral para las decisiones^a^ de la misma manera hábil que el efod, para ser usado en la determinación de la voluntad del Señor. Háganlo usando hilo de oro, con hilo azul, púrpura y carmesí, y con lino finamente tejido. ^16^ Tiene que ser cuadrado cuando se pliega, midiendo alrededor de nueve pulgadas^b^ de largo y ancho. ^17^ Adjunta un arreglo de piedras preciosas en cuatro filas como sigue: ^c^ En la primera fila cornalina, peridoto y esmeralda. ^18^ En la segunda fila turquesa, lapislázuli y sardónice. ^19^ En la tercera fila jacinto, ágata y amatista. ^20^ En la cuarta fila topacio, berilo y jaspe. Coloca estas piedras en los adornos de oro. ^21^ Cada una de las doce piedras se grabará como un sello personal con el nombre de una de las doce tribus israelitas y las representará. 
+^a^[**28:15** “Para las decisiones”: el pectoral debía sostener el Urim y el Tumim utilizados para determinar la voluntad del Señor y las decisiones sobre diferentes cuestiones (véase el versículo 30).] ^b^[**28:16** “Nueve pulgadas”: Literalmente, “un espacio,” la distancia entre el pulgar y el dedo meñique cuando la mano está estirada.] ^c^[**28:17** Ninguna de las siguientes piedras ha sido identificada con certeza.]
 
 ^22^ Haz cordones de cadenas trenzadas de oro puro para sujetar el pectoral. ^23^ Harás dos anillos de oro y sujételos a las dos esquinas superiores del pectoral. ^24^ Ata las dos cadenas de oro a los dos anillos de oro de las esquinas del pectoral, ^25^ y luego ata los extremos opuestos de las dos cadenas a los adornos de oro de los hombros de la parte delantera del efod. ^26^ Haz dos anillos de oro más y fíjelos a las dos esquinas inferiores del pectoral, en el borde interior junto al efod. ^27^ Haz dos anillos de oro más y póngalos en la parte inferior de las dos hombreras de la parte delantera del efod, cerca de donde se une a su cintura tejida. ^28^ Ata los anillos del pectoral a los anillos del efod con un cordón de hilo azul, para que el pectoral no se suelte del efod. 
 
@@ -801,46 +793,45 @@ Así que Moisés les explicó, “Es el pan que el Señor ha provisto para que c
 # 29 
 ^1^ Así es como debes proceder para dedicarlos y que me sirvan como sacerdotes. Coge un novillo y dos carneros sin defectos. ^2^ Luego, con la mejor harina de trigo, haced lo siguiente sin levadura: pan, pasteles mezclados con aceite de oliva y barquillos espolvoreados con aceite de oliva. ^3^ Ponlos todos en una cesta y tráelos como ofrenda, junto con el toro y los dos carneros. 
 
-^4^ Lleva a Aarón y a sus hijos a la entrada delTabernáculo de Reunión y lávalos con agua.^^ ^5^ Toma los vestidos y pónselos a Aarón: la túnica, el manto del efod, el efod mismo y el pectoral. Ata el efod sobre él con su cinturón. ^6^ Envuelve el turbante en la cabeza y ata la corona sagrada al turbante. ^7^ Luego usa el aceite de la unción para ungirlo, vertiéndolo sobre su cabeza. 
-^[**29:4** Esta era una limpieza ceremonial, no era como la limpieza diaria.]
+^4^ Lleva a Aarón y a sus hijos a la entrada delTabernáculo de Reunión y lávalos con agua.^a^ ^5^ Toma los vestidos y pónselos a Aarón: la túnica, el manto del efod, el efod mismo y el pectoral. Ata el efod sobre él con su cinturón. ^6^ Envuelve el turbante en la cabeza y ata la corona sagrada al turbante. ^7^ Luego usa el aceite de la unción para ungirlo, vertiéndolo sobre su cabeza. 
+^a^[**29:4** Esta era una limpieza ceremonial, no era como la limpieza diaria.]
 
 ^8^ Luego que vengan sus hijos y les pongan las túnicas. ^9^ Ata las fajas alrededor de Aarón y sus hijos y ponles los tocados. El sacerdocio les pertenece para siempre. 
 
-Así es como debes ordenar a Aarón y a sus hijos. ^10^ Lleva el toro al frente del Tabernáculo de Reunión, y Aarón y sus hijos deben poner sus manos sobre su cabeza. ^11^ Luego mata el toro en presencia del Señor a la entrada del Tabernáculo de Reunión. ^12^ Toma un poco de la sangre del toro y úntasela con el dedo en los cuernos del altar. Luego vierte el resto de la sangre en la base del altar. ^13^ Tomen toda la grasa que cubre los intestinos, las mejores partes^^del hígado y los dos riñones con su grasa, y quemadlos en el altar. ^14^ Pero quema la carne del toro, su piel y sus excrementos fuera del campamento, pues es una ofrenda por el pecado. 
-^[**29:13** “Mejores partes”: Se cree que se refiere al epiplón.]
+Así es como debes ordenar a Aarón y a sus hijos. ^10^ Lleva el toro al frente del Tabernáculo de Reunión, y Aarón y sus hijos deben poner sus manos sobre su cabeza. ^11^ Luego mata el toro en presencia del Señor a la entrada del Tabernáculo de Reunión. ^12^ Toma un poco de la sangre del toro y úntasela con el dedo en los cuernos del altar. Luego vierte el resto de la sangre en la base del altar. ^13^ Tomen toda la grasa que cubre los intestinos, las mejores partes^a^ del hígado y los dos riñones con su grasa, y quemadlos en el altar. ^14^ Pero quema la carne del toro, su piel y sus excrementos fuera del campamento, pues es una ofrenda por el pecado. 
+^a^[**29:13** “Mejores partes”: Se cree que se refiere al epiplón.]
 
 ^15^ A continuación, que Aarón y sus hijos pongan sus manos en la cabeza de uno de los carneros. ^16^ Sacrifiquen el carnero, tomen su sangre y salpicaalrededor del altar. ^17^ Corta el carnero en pedazos, lava los intestinos y las piernas, y ponlos con los otros pedazos y con la cabeza. ^18^ Luego quema todo el carnero en el altar. Es una ofrenda quemada al Señor para ser aceptada por él. 
 
 ^19^ Entonces haz que Aarón y sus hijos coloquen sus manos sobre la cabeza del otro carnero. ^20^ Luegosacrifica el carnero y pon un poco de su sangre en los lóbulos de las orejas derechas de Aarón y sus hijos, en los pulgares de sus manos derechas y en los dedos gordos de sus pies derechos. Salpica el resto de su sangre alrededor del altar. ^21^ Toma un poco de la sangre del altar y un poco del aceite de la unción y rociadlo sobre Aarón y sus ropas, y sobre sus hijos y sus ropas. Entonces él y sus ropas serán sagradas, así como sus hijos y sus ropas. 
 
-^22^ Toma la grasa del carnero, incluyendo la grasa de su amplio rabo, la grasa que cubre los intestinos, las mejores partes del hígado, los dos riñones con su grasa, así como el muslo derecho (porque este es un carnero para la ordenación). ^23^ Toma también una barra de pan, una torta de pan hecha con aceite de oliva y una oblea de la cesta de pan hecho sin levadura que está en la presencia del Señor. ^24^ Dáselos todos a Aarón y a sus hijos para que los mezan^^ante el Señor como ofrendamecida. ^25^ Luego toma los diferentes panes y quémalos en el altar sobre el holocausto,para que sean agradables para el Señor. 
-^[**29:24** Algunos estudiosos creen que en lugar de “mecer” la ofrenda ante el Señor, la elevaban hasta él. Sin embargo, esto parecería ser lo mismo que lo que tradicionalmente se llama la ofrenda “levantada”. ]
+^22^ Toma la grasa del carnero, incluyendo la grasa de su amplio rabo, la grasa que cubre los intestinos, las mejores partes del hígado, los dos riñones con su grasa, así como el muslo derecho (porque este es un carnero para la ordenación). ^23^ Toma también una barra de pan, una torta de pan hecha con aceite de oliva y una oblea de la cesta de pan hecho sin levadura que está en la presencia del Señor. ^24^ Dáselos todos a Aarón y a sus hijos para que los mezan^a^ ante el Señor como ofrendamecida. ^25^ Luego toma los diferentes panes y quémalos en el altar sobre el holocausto,para que sean agradables para el Señor. 
+^a^[**29:24** Algunos estudiosos creen que en lugar de “mecer” la ofrenda ante el Señor, la elevaban hasta él. Sin embargo, esto parecería ser lo mismo que lo que tradicionalmente se llama la ofrenda “levantada”. ]
 
-^26^ Toma el pecho del carnero de la ordenación de Aarón y mécelo ante el Señor como ofrenda mecida. Esta es la parte que puedes guardar.^^ ^27^ Separa para Aarón y sus hijos el pecho de la ofrenda mecida y el muslo de la ofrenda mecida, ambos tomados del carnero de la ordenación. ^28^ De ahora en adelante, cuando los israelitas levanten las ofrendas de paz al Señor, estas partes pertenecerán a Aarón y a sus hijos para siempre como una parte regular de los israelitas. 
-^[**29:26** De aquí en adelante esta porción estaba reservada para los sacerdotes. ]
+^26^ Toma el pecho del carnero de la ordenación de Aarón y mécelo ante el Señor como ofrenda mecida. Esta es la parte que puedes guardar.^a^ ^27^ Separa para Aarón y sus hijos el pecho de la ofrenda mecida y el muslo de la ofrenda mecida, ambos tomados del carnero de la ordenación. ^28^ De ahora en adelante, cuando los israelitas levanten las ofrendas de paz al Señor, estas partes pertenecerán a Aarón y a sus hijos para siempre como una parte regular de los israelitas. 
+^a^[**29:26** De aquí en adelante esta porción estaba reservada para los sacerdotes. ]
 
-^29^ Las vestiduras sagradas que tiene Aarón serán transmitidas a sus descendientes, para que las lleven cuando sean ungidos y ordenados. ^30^ El descendiente que le suceda como sacerdote y entre al Tabernáculo de Reunión para servir en el Lugar Santo deberá llevarlas durante los siete días de su ordenación.^^ 
-^[**29:30** “De su ordenación”: añadido para mayor claridad.]
+^29^ Las vestiduras sagradas que tiene Aarón serán transmitidas a sus descendientes, para que las lleven cuando sean ungidos y ordenados. ^30^ El descendiente que le suceda como sacerdote y entre al Tabernáculo de Reunión para servir en el Lugar Santo deberá llevarlas durante los siete días de su ordenación.^a^ 
+^a^[**29:30** “De su ordenación”: añadido para mayor claridad.]
 
-^31^ Toma el carnero de la ordenación y hierve su carne en un lugar sagrado. ^32^ Aarón y sus hijos comerán la carne del carnero y el pan que está en la cesta, a la entrada del Tabernáculo de Reunión, ^33^ Comerán la carne y el pan que formaban parte de las ofrendas que simbolizaban el perdón requerido^^ para su ordenación y dedicación. Nadie más puede comerlos, porque son sagrados. ^34^ Si alguna de las carnes de la ordenación o algún pan permanece hasta la mañana siguiente, quemen lo que sobre. No debe ser comido, porque es sagrado. 
-^[**29:33** “Que simbolizaban el perdón requerido”: añadido para mayor claridad. La palabra hebrea es sencillamente “cubrir sobre,” y se usa para describir perdón y reconciliación. ]
+^31^ Toma el carnero de la ordenación y hierve su carne en un lugar sagrado. ^32^ Aarón y sus hijos comerán la carne del carnero y el pan que está en la cesta, a la entrada del Tabernáculo de Reunión, ^33^ Comerán la carne y el pan que formaban parte de las ofrendas que simbolizaban el perdón requerido^a^ para su ordenación y dedicación. Nadie más puede comerlos, porque son sagrados. ^34^ Si alguna de las carnes de la ordenación o algún pan permanece hasta la mañana siguiente, quemen lo que sobre. No debe ser comido, porque es sagrado. 
+^a^[**29:33** “Que simbolizaban el perdón requerido”: añadido para mayor claridad. La palabra hebrea es sencillamente “cubrir sobre,” y se usa para describir perdón y reconciliación. ]
 
 ^35^ Este es el proceso que debes seguir para Aarón y sus hijos, observando todas las instrucciones que les he dado. La ordenación durará siete días. ^36^ Cada día debes sacrificar un toro como ofrenda para el perdón por el pecado. Al hacer esto, el altar necesita ser purificado. Úngelo para hacerlo sagrado. ^37^ Durante siete días purificarás el altar y lo consagrarás. Entonces el altar se volverá completamente santo, y todo lo que toque el altar se volverá santo. 
 
-^38^ Ofrecerás dos corderos de un año en el altar, diaria y continuamente. ^39^ Por la mañana ofrece un cordero y por la tarde, antes de que oscurezca, ofrece el otro.^^ ^40^ Con el primer cordero ofrece también una décima parte de una efa de harina de la mejor calidad, mezclada con un cuarto de hin de aceite de oliva, y una libación de un cuarto de hin de vino. ^41^ Entonces ofrece el segundo cordero por la tarde, con las mismas ofrendas de grano y bebida que por la mañana, un holocausto al Señor y aceptado por él. 
-^[**29:39** “Por la tarde, antes de que oscurezca”: Literalmente, “entre las noches”.]
+^38^ Ofrecerás dos corderos de un año en el altar, diaria y continuamente. ^39^ Por la mañana ofrece un cordero y por la tarde, antes de que oscurezca, ofrece el otro.^a^ ^40^ Con el primer cordero ofrece también una décima parte de una efa de harina de la mejor calidad, mezclada con un cuarto de hin de aceite de oliva, y una libación de un cuarto de hin de vino. ^41^ Entonces ofrece el segundo cordero por la tarde, con las mismas ofrendas de grano y bebida que por la mañana, un holocausto al Señor y aceptado por él. 
+^a^[**29:39** “Por la tarde, antes de que oscurezca”: Literalmente, “entre las noches”.]
 
 ^42^ Estos holocaustos se harán continuamente por todas las generaciones a la entrada del Tabernáculo de Reunión en presencia del Señor. Allí me reuniré para hablar con ustedes. ^43^ Me reuniré con los israelitas allí, y ese lugar será sagrado por mi gloria. ^44^ De esta manera dedicaré el Tabernáculo de Reunión y el altar, y dedicaré a Aarón y sus hijos a servirme como sacerdotes. 
 
 ^45^ Entonces viviré con los israelitas y seré su Dios. ^46^ Ellos sabrán que soy el Señor su Dios, que los sacó de Egipto, para poder vivir con ellos. Yo soy el Señor su Dios. 
 
 # 30 
-^1^ ”Haz un altar de madera de acacia^^para quemar incienso. ^2^ Será cuadrado, medirá un codo por codo, de dos codos de alto, con cuernos en sus esquinas que son todos de una sola pieza con el altar. ^3^ Cubre su parte superior, su lado y sus cuernos con oro puro, y hace un adorno de oro para rodearlo. ^4^ Hagan dos anillos de oro para el altar y pónganlos debajo de la moldura, dos a ambos lados, para sostener las varas para llevarlo. ^5^ Haz las varas de madera de acacia y cúbrelas con oro. ^6^ Pon el altar delante del velo que cuelga delante del Arca del Testimonio y la tapa de expiación que está sobre el Testimonio^^ donde me reuniré con ustedes. 
-^[**30:1** Esta es una adición al altar que se menciona en el capítulo 27. ]
-^[**30:6** “Testimonio”: se refiere a las tablas de piedra donde se escribieron los Diez Mandamientos.]
+^1^ ”Haz un altar de madera de acacia^a^ para quemar incienso. ^2^ Será cuadrado, medirá un codo por codo, de dos codos de alto, con cuernos en sus esquinas que son todos de una sola pieza con el altar. ^3^ Cubre su parte superior, su lado y sus cuernos con oro puro, y hace un adorno de oro para rodearlo. ^4^ Hagan dos anillos de oro para el altar y pónganlos debajo de la moldura, dos a ambos lados, para sostener las varas para llevarlo. ^5^ Haz las varas de madera de acacia y cúbrelas con oro. ^6^ Pon el altar delante del velo que cuelga delante del Arca del Testimonio y la tapa de expiación que está sobre el Testimonio^b^ donde me reuniré con ustedes. 
+^a^[**30:1** Esta es una adición al altar que se menciona en el capítulo 27. ] ^b^[**30:6** “Testimonio”: se refiere a las tablas de piedra donde se escribieron los Diez Mandamientos.]
 
-^7^ Aarón debe quemar incienso fragante en el altar cada mañana cuando cuida las lámparas. ^8^ Cuando enciendas las lámparas por la noche, se debe quemar incienso de nuevo para que hay incienso siempre en la presencia del Señor por las generaciones futuras. ^9^ No ofrezcas en este altar ningún incienso no aprobado,^^ ni ningún holocausto ni ofrenda de grano, y no derrames sobre él ninguna libación. 
-^[**30:9** “Incienso no aprobado”: En otras palabras, incienso no preparado según las instrucciones dadas en los versículos 34-38.]
+^7^ Aarón debe quemar incienso fragante en el altar cada mañana cuando cuida las lámparas. ^8^ Cuando enciendas las lámparas por la noche, se debe quemar incienso de nuevo para que hay incienso siempre en la presencia del Señor por las generaciones futuras. ^9^ No ofrezcas en este altar ningún incienso no aprobado,^a^ ni ningún holocausto ni ofrenda de grano, y no derrames sobre él ninguna libación. 
+^a^[**30:9** “Incienso no aprobado”: En otras palabras, incienso no preparado según las instrucciones dadas en los versículos 34-38.]
 
 ^10^ Una vez al año, Aarón debe realizar el ritual de expiación poniendo en los cuernos del altar la sangre de la ofrenda por el pecado para la expiación. Este ritual anual de expiación debe ser llevado a cabo por las generaciones futuras. Este es el altar sagrado del Señor.” 
 
@@ -850,8 +841,8 @@ Así es como debes ordenar a Aarón y a sus hijos. ^10^ Lleva el toro al frente 
 
 ^22^ Entonces el Señor le dijo a Moisés: ^23^ “Toma las especias de mejor calidad: 500 siclos de mirra líquida, 250 siclos de canela de olor dulce, 250 siclos de caña aromática, ^24^ 500 siclos de casia, (pesos usando el estándar del siclo del santuario), y un hin de aceite de oliva. ^25^ Mezcla todo esto en el aceite de la unción sagrada, una mezcla aromática como el producto de un experto perfumista. Úsalo como aceite de la unción sagrada. ^26^ Úsalo para ungir el Tabernáculo de Reunión, el Arca del Testimonio, ^27^ la mesa y todo su equipo, el candelabro y su equipo, el altar de incienso, ^28^ el altar de los holocaustos y todos sus utensilios, y la vasija más su soporte. ^29^ Dedícalos para que sean especialmente santos. Todo lo que los toque será sagrado. 
 
-^30^ Unjan a Aarón y a sus hijos también y dedíquenlos para que sirvan como sacerdotes para mí. ^31^ Diles a los israelitas: “Este será mi aceite santo de unción para todas las generaciones futuras. ^32^ No lo usen en la gente común y no hagan nada parecido usando la misma fórmula. Es santo, y debes tratarlo como si fuera santo. ^33^ Cualquiera que mezcle aceite de unción como éste, o lo ponga sobre alguien que no sea un sacerdote,^^ será expulsado de su pueblo”. 
-^[**30:33** “Alguien que no sea sacerdote”: Literalmente, “un extraño”.]
+^30^ Unjan a Aarón y a sus hijos también y dedíquenlos para que sirvan como sacerdotes para mí. ^31^ Diles a los israelitas: “Este será mi aceite santo de unción para todas las generaciones futuras. ^32^ No lo usen en la gente común y no hagan nada parecido usando la misma fórmula. Es santo, y debes tratarlo como si fuera santo. ^33^ Cualquiera que mezcle aceite de unción como éste, o lo ponga sobre alguien que no sea un sacerdote,^a^ será expulsado de su pueblo”. 
+^a^[**30:33** “Alguien que no sea sacerdote”: Literalmente, “un extraño”.]
 
 ^34^ El Señor le dijo a Moisés: “Toma cantidades iguales de estas especias aromáticas: resina de bálsamo, perfume, gálbano e incienso puro. ^35^ Añade un poco de sal y haz incienso puro y santo mezclado como el producto de un experto perfumista. ^36^ Muele un poco en polvo y colóquelo delante del Arca del Testimonio en el Terbenáculo de Reunión, donde me reuniré contigo. Será especialmente sagrado para ti. ^37^ Nopreparen ningún incienso como éste usando la misma fórmula. Deben considerar este incienso como sagrado para el Señor. ^38^ Cualquiera que se haga un incienso como este para su propio deleite será expulsado de su pueblo”. 
 
@@ -875,16 +866,16 @@ Así es como debes ordenar a Aarón y a sus hijos. ^10^ Lleva el toro al frente 
 
 ^5^ Al día siguiente, temprano, sacrificaron holocaustos y presentaron ofrendas de paz. Luego se sentaron a celebrar con comida y bebida. Luego se levantaron para bailar, y se convirtió en una orgía”. 
 
-^6^ Al día siguiente, temprano, sacrificaron ofrendas quemadas y presentaron ofrendas de paz. Luego se sentaron a celebrar con comida y bebida. Luego se levantaron para bailar, y se convirtió en una orgía.^^ 
-^[**32:6** La palabra utilizada en este sentido, a veces traducida como “juego”, no era una especie de juego de fiestas. Los matices sexuales están claros por su uso en el Génesis 26:8 donde se refiere a las “caricias” de la intimidad entre Isaac y su esposa Rebeca. Tal resultado final de un festival que incluía la indulgencia en la comida y la bebida era habitual en las ceremonias paganas. ]
+^6^ Al día siguiente, temprano, sacrificaron ofrendas quemadas y presentaron ofrendas de paz. Luego se sentaron a celebrar con comida y bebida. Luego se levantaron para bailar, y se convirtió en una orgía.^a^ 
+^a^[**32:6** La palabra utilizada en este sentido, a veces traducida como “juego”, no era una especie de juego de fiestas. Los matices sexuales están claros por su uso en el Génesis 26:8 donde se refiere a las “caricias” de la intimidad entre Isaac y su esposa Rebeca. Tal resultado final de un festival que incluía la indulgencia en la comida y la bebida era habitual en las ceremonias paganas. ]
 
 ^7^ Entonces el Señor le dijo a Moisés, “Baja, porque tu pueblo, el que sacaste de Egipto está actuando inmoralmente. ^8^ Han abandonado rápidamente el camino que les ordené seguir. Se han hecho un ídolo de metal con forma de becerro, inclinándose ante él en adoración y ofreciéndole sacrificios. Dicen: “Estos son los dioses que los sacaron de la tierra de Egipto.’” 
 
-^9^ “Sé cómo es este pueblo”, continuó diciendo el Señor a Moisés. “¡Son tan rebeldes!”^^ ^10^ ¡Ahora déjame! Estoy enfadado con ellos... ¡déjame acabar con ellos! Te convertiré en una gran nación”. 
-^[**32:9** “Rebeldes” o “perversos”: la imagen es de un caballo siendo tirado por las riendas en una dirección pero deliberadamente yendo en la dirección opuesta. Esto significa más que simplemente ser obstinado, sino que trata de hacer lo opuesto.]
+^9^ “Sé cómo es este pueblo”, continuó diciendo el Señor a Moisés. “¡Son tan rebeldes!”^a^ ^10^ ¡Ahora déjame! Estoy enfadado con ellos... ¡déjame acabar con ellos! Te convertiré en una gran nación”. 
+^a^[**32:9** “Rebeldes” o “perversos”: la imagen es de un caballo siendo tirado por las riendas en una dirección pero deliberadamente yendo en la dirección opuesta. Esto significa más que simplemente ser obstinado, sino que trata de hacer lo opuesto.]
 
-^11^ Pero Moisés suplicó al Señor su Dios, diciendo: “¿Por qué estás enojado con el pueblo que sacaste de la tierra de Egipto con tremendo poder y gran fuerza? ^12^ ¿Por qué permitirás que los egipcios digan “los sacó con el malvado propósito de matarlos en las montañas, borrándolos de la faz de la tierra”? Apártate de tu feroz ira. Por favor, arrepiéntete de esta amenaza contra tu pueblo. ^13^ Recuerda que juraste una promesa a tus siervos Abraham, Isaac y Jacob,^^ diciéndoles: “Haré que tu descendencia sea tan numerosa como las estrellas del cielo, y te daré toda la tierra que les prometí, y la poseerán para siempre.” 
-^[**32:13** “Jacob”: literalmente, “Israel.”]
+^11^ Pero Moisés suplicó al Señor su Dios, diciendo: “¿Por qué estás enojado con el pueblo que sacaste de la tierra de Egipto con tremendo poder y gran fuerza? ^12^ ¿Por qué permitirás que los egipcios digan “los sacó con el malvado propósito de matarlos en las montañas, borrándolos de la faz de la tierra”? Apártate de tu feroz ira. Por favor, arrepiéntete de esta amenaza contra tu pueblo. ^13^ Recuerda que juraste una promesa a tus siervos Abraham, Isaac y Jacob,^a^ diciéndoles: “Haré que tu descendencia sea tan numerosa como las estrellas del cielo, y te daré toda la tierra que les prometí, y la poseerán para siempre.” 
+^a^[**32:13** “Jacob”: literalmente, “Israel.”]
 
 ^14^ El Señor se arrepintió sobre el desastre que amenazó con causar a su pueblo. ^15^ Moisés se volvió y bajó del monte, llevando las dos tablas de piedra de la Ley escritas a ambos lados. ^16^ Dios había hecho las tablas, y Dios mismo había grabado la escritura. 
 
@@ -915,15 +906,15 @@ Así es como debes ordenar a Aarón y a sus hijos. ^10^ Lleva el toro al frente 
 # 33 
 ^1^ Entonces el Señor le dijo a Moisés: “Deja este lugar, tú y el pueblo que sacaste de Egipto, y ve a la tierra que prometí con juramento dar a Abraham, Isaac y Jacob, diciéndoles: ‘Daré esta tierra a tu descendencia.’ ^2^ Enviaré un ángel delante de ti y expulsaré a los cananeos, amorreos, hititas, ferezeos, heveos y jebuseos. ^3^ Entra en una tierra que fluye leche y miel, pero no te acompañaré porque eres un pueblo rebelde. De lo contrario, te destruiría en el camino”. 
 
-^4^ Cuando el pueblo escuchó estas palabras de crítica, se pusieron de luto y no se pusieron sus joyas. ^5^ Porque el Señor ya le había dicho a Moisés: “Dile al pueblo de Israel: “Tú eres un pueblo rebelde. Si estuviera contigo un momento, te aniquilaría. Ahora quítate las joyas, y yo decidiré qué hacer contigo.’” ^6^ Así que los israelitas se quitaron las joyas desde que dejaron el Monte Sinaí.^^ 
-^[**33:6** “Monte Sinaí”: Literalmente, “Monte Horeb,” otro nombre para este mismo monte.]
+^4^ Cuando el pueblo escuchó estas palabras de crítica, se pusieron de luto y no se pusieron sus joyas. ^5^ Porque el Señor ya le había dicho a Moisés: “Dile al pueblo de Israel: “Tú eres un pueblo rebelde. Si estuviera contigo un momento, te aniquilaría. Ahora quítate las joyas, y yo decidiré qué hacer contigo.’” ^6^ Así que los israelitas se quitaron las joyas desde que dejaron el Monte Sinaí.^a^ 
+^a^[**33:6** “Monte Sinaí”: Literalmente, “Monte Horeb,” otro nombre para este mismo monte.]
 
 ^7^ Moisés solía montar el Tabernáculo de Reunión en las afueras del campamento. Cualquiera que quisiera preguntarle algo al Señor podía ir a el Tabernáculo de Reunión. ^8^ Cada vez que Moisés salía a la tienda, todo el pueblo iba y se paraba a la entrada de sus tiendas. Lo observaban hasta que entraba. ^9^ Tan pronto como Moisés entraba en la tienda, la columna de nubes descendía y se quedaba en la entrada mientras el Señor hablaba con Moisés. ^10^ Cuandoel pueblo veía la columna de nubes de pie en la puerta de la tienda, todos se levantaban y se inclinaban en adoración a la entrada de sus tiendas. ^11^ Moisés hablaba con el Señor cara a cara como si fuera un amigo, y luego regresaba al campamento. Sin embargo, su joven ayudante Josué, hijo de Nun, se quedó en la Tienda. 
 
 ^12^ Moisés le dijo al Señor: “Mira, me has estado diciendo: ‘Ve y dirige a estepueblo’, pero no me has hecho saber a quién vas a enviar conmigo. Y sin embargo has declarado: ‘Te conozco personalmente, x y estoy feliz contigo.’ ^13^ Ahora bien, si es cierto que eres feliz conmigo, por favor, enséñame tus caminos para que pueda conocerte y seguir agradándote. Recuerda que la gente de esta nación es tuya”. 
 
-^14^ El Señor respondió: “Yo mismo iré contigo y te apoyaré”.^^ 
-^[**33:14** “Te apoyaré”: Literalmente, “te daré descanso”.]
+^14^ El Señor respondió: “Yo mismo iré contigo y te apoyaré”.^a^ 
+^a^[**33:14** “Te apoyaré”: Literalmente, “te daré descanso”.]
 
 ^15^ “Si no vas con nosotros, por favor no nos saques de aquí”, respondió Moisés. ^16^ “¿Cómo sabrán los demás que eres feliz conmigo y con tu pueblo si no nos acompañas? ¿Cómo podría alguien separarnos a mí y a tu pueblo de todos los demás pueblos que viven en la tierra?” 
 
@@ -931,8 +922,8 @@ Así es como debes ordenar a Aarón y a sus hijos. ^10^ Lleva el toro al frente 
 
 ^18^ “Ahora, por favor, revélame tu gloria”, pidió Moisés. 
 
-^19^ “Haré pasar toda la bondad de mi carácter delante de ti, gritaré el nombre ‘Yahvé’,^^mostraré gracia a los que les quiero mostrar gracia, y mostraré misericordia a los que les quiero mostrar misericordia. ^20^ Pero no podrás ver mi rostro, porque nadie puede ver mi rostro y vivir”. 
-^[**33:19** “Yahvé”: esta es la palabra normalmente traducida como “el Señor”, por lo que en los siguientes versos se observa que “Yahvé” y “el Señor” son lo mismo.]
+^19^ “Haré pasar toda la bondad de mi carácter delante de ti, gritaré el nombre ‘Yahvé’,^a^ mostraré gracia a los que les quiero mostrar gracia, y mostraré misericordia a los que les quiero mostrar misericordia. ^20^ Pero no podrás ver mi rostro, porque nadie puede ver mi rostro y vivir”. 
+^a^[**33:19** “Yahvé”: esta es la palabra normalmente traducida como “el Señor”, por lo que en los siguientes versos se observa que “Yahvé” y “el Señor” son lo mismo.]
 
 ^21^ “Ven aquí y quédate a mi lado en esta roca”, continuó el Señor, ^22^ “y a medida que pase mi gloria te pondré en una grieta de la roca y te cubriré con mi mano hasta que haya pasado. ^23^ Entonces quitaré mi mano y verás mi espalda; pero no verás mi cara”. 
 
@@ -945,9 +936,8 @@ Así es como debes ordenar a Aarón y a sus hijos. ^10^ Lleva el toro al frente 
 
 ^8^ Moisés se inclinó rápidamente hasta el suelo y adoró. ^9^ Dijo: “Señor, si es verdad que eres feliz conmigo, por favor acompáñanos. Es cierto que este es un pueblo rebelde, pero por favor perdona nuestra culpa y nuestro pecado. Acéptanos como algo que te pertenece especialmente”. 
 
-^10^ El Señor dijo: “Verás que estoy haciendo un pacto contigo. Frente a todos ustedes haré milagros que nunca se han hecho, ni entre nadie en ningún lugar de la tierra. Todos aquí y los que están alrededor verán al Señor trabajando, porque lo que voy a hacer por ustedes será increíble. ^11^ Pero deben seguir cuidadosamente lo que les digo que hagan hoy. ¡Presten atención! Voy a expulsar delante de ustedes a los amorreos, cananeos, hititas, ferezeos, heveos y jebuseos. ^12^ Asegúrense de no acordar un tratado de paz^^con el pueblo que habite en la tierra a la que van. De lo contrario, se convertirán en una trampa para ustedes. ^13^ Porque deben derribar sus altares, derribar sus pilares idólatras y cortar sus postes de Asera, ^14^ porque no debes adorar a ningún otro dios que no sea el Señor. Su nombre significa exclusivo,^^ porque es un Dios que exige una relación exclusiva. 
-^[**34:12** “Acordar tratado de paz”: La palabra es la misma que “pacto” con Dios en el versículo 10. También “acuerdo” en el versículo 15.]
-^[**34:14** “Ser exclusivo”: Literalmente “celoso.”Sin embargo, esto en términos humanos se asocia con la envidia y el resentimiento. Dios es “celoso” al querer ser el único Dios que es adorado. ]
+^10^ El Señor dijo: “Verás que estoy haciendo un pacto contigo. Frente a todos ustedes haré milagros que nunca se han hecho, ni entre nadie en ningún lugar de la tierra. Todos aquí y los que están alrededor verán al Señor trabajando, porque lo que voy a hacer por ustedes será increíble. ^11^ Pero deben seguir cuidadosamente lo que les digo que hagan hoy. ¡Presten atención! Voy a expulsar delante de ustedes a los amorreos, cananeos, hititas, ferezeos, heveos y jebuseos. ^12^ Asegúrense de no acordar un tratado de paz^a^ con el pueblo que habite en la tierra a la que van. De lo contrario, se convertirán en una trampa para ustedes. ^13^ Porque deben derribar sus altares, derribar sus pilares idólatras y cortar sus postes de Asera, ^14^ porque no debes adorar a ningún otro dios que no sea el Señor. Su nombre significa exclusivo,^b^ porque es un Dios que exige una relación exclusiva. 
+^a^[**34:12** “Acordar tratado de paz”: La palabra es la misma que “pacto” con Dios en el versículo 10. También “acuerdo” en el versículo 15.] ^b^[**34:14** “Ser exclusivo”: Literalmente “celoso.”Sin embargo, esto en términos humanos se asocia con la envidia y el resentimiento. Dios es “celoso” al querer ser el único Dios que es adorado. ]
 
 ^15^ Asegúrense de no hacer un acuerdode paz con el pueblo que habita enesa tierra, porque cuando se prostituyen adorando y sacrificándose a sus dioses, los invitarán a unirse a ellos, y comerás de sus sacrificios paganos. ^16^ Cuando hagas que sus hijas se casen con tus hijos y esas hijas se prostituyan con sus dioses, harán que tus hijos adoren a sus dioses de la misma manera. ^17^ Nohagan ningún ídolo. 
 
@@ -1028,12 +1018,11 @@ No cocines un cabrito joven en la leche de su madre.”
 ^29^ La cantidad total de bronce de la ofrenda fue de 70 talentos y 2.400 siclos. ^30^ Bezalel lo usó para hacer las gradas para la entrada a el Tabernáculo de Reunión, el altar de bronce y su rejilla de bronce, todos los utensilios para el altar, ^31^ las gradas para el patio y su entrada, y todas las estacas de la tienda para el Tabernáculo y el patio. 
 
 # 39 
-^1^ Estoshombres^^confeccionaron ropa tejida con hilos azules, púrpura y carmesí para servir en el santuario. También hicieron vestimentas sagradas para Aarón, como el Señor le había ordenado a Moisés. ^2^ Hicieron el efod de lino finamente tejido bordado con oro, y con hilos azules, púrpura y carmesí. ^3^ Martillaron finas láminas de oro y cortaron hilos para tejerlos con los hilos azul, púrpura y escarlata, junto con lino fino, todo hábilmente trabajado. ^4^ Dos piezas de hombro fueron unidas a las piezas delanteras y traseras ^5^ La cintura del efod era una pieza hecha de la misma manera, usando hilo de oro, con hilo azul, púrpura y carmesí, y con lino fino, como el Señor había ordenado a Moisés. ^6^ Colocaron las piedras de ónix en engastes de oro ornamental, grabando los nombres de las tribus israelitas de la misma manera que un joyero graba un sello personal. ^7^ Pusieron ambas piedras en los hombros del efod como recordatorio para las tribus israelitas, como el Señor le había ordenado a Moisés. 
-^[**39:1** Refiriéndose a los artesanos.]
+^1^ Estoshombres^a^ confeccionaron ropa tejida con hilos azules, púrpura y carmesí para servir en el santuario. También hicieron vestimentas sagradas para Aarón, como el Señor le había ordenado a Moisés. ^2^ Hicieron el efod de lino finamente tejido bordado con oro, y con hilos azules, púrpura y carmesí. ^3^ Martillaron finas láminas de oro y cortaron hilos para tejerlos con los hilos azul, púrpura y escarlata, junto con lino fino, todo hábilmente trabajado. ^4^ Dos piezas de hombro fueron unidas a las piezas delanteras y traseras ^5^ La cintura del efod era una pieza hecha de la misma manera, usando hilo de oro, con hilo azul, púrpura y carmesí, y con lino fino, como el Señor había ordenado a Moisés. ^6^ Colocaron las piedras de ónix en engastes de oro ornamental, grabando los nombres de las tribus israelitas de la misma manera que un joyero graba un sello personal. ^7^ Pusieron ambas piedras en los hombros del efod como recordatorio para las tribus israelitas, como el Señor le había ordenado a Moisés. 
+^a^[**39:1** Refiriéndose a los artesanos.]
 
-^8^ También hicieron un pectoral para las decisiones de la misma manera hábil que el efod, para ser usado en la determinación de la voluntad del Señor. Lo hicieron usando hilo de oro, con hilos azules, púrpura y carmesí, y con lino finamente tejido. ^9^ Era cuadrado cuando se doblaba, midiendo alrededor de nueve pulgadas^^ de largo y ancho. ^10^ Adjuntaron un arreglo de piedras preciosas en cuatro filas como sigue.^^ En la primera fila cornalina, peridoto y esmeralda. ^11^ En la segunda fila turquesa, lapislázuli y sardónice. ^12^ En la tercera fila jacinto, ágata y amatista. ^13^ En la cuarta fila topacio, berilo y jaspe. Todos ellos fueron colocados en un marco de oro ornamental. ^14^ Cada una de las doce piedras estaba grabada como un sello personal con el nombre de una de las doce tribus israelitas y las representaba. 
-^[**39:9** “Nueve pulgadas”: Literalmente, “un espacio,” la distancia entre el pulgar y el dedo meñique cuando la mano está estirada.]
-^[**39:10** Ninguna de las siguientes piedras ha sido identificada con certeza.]
+^8^ También hicieron un pectoral para las decisiones de la misma manera hábil que el efod, para ser usado en la determinación de la voluntad del Señor. Lo hicieron usando hilo de oro, con hilos azules, púrpura y carmesí, y con lino finamente tejido. ^9^ Era cuadrado cuando se doblaba, midiendo alrededor de nueve pulgadas^a^ de largo y ancho. ^10^ Adjuntaron un arreglo de piedras preciosas en cuatro filas como sigue.^b^ En la primera fila cornalina, peridoto y esmeralda. ^11^ En la segunda fila turquesa, lapislázuli y sardónice. ^12^ En la tercera fila jacinto, ágata y amatista. ^13^ En la cuarta fila topacio, berilo y jaspe. Todos ellos fueron colocados en un marco de oro ornamental. ^14^ Cada una de las doce piedras estaba grabada como un sello personal con el nombre de una de las doce tribus israelitas y las representaba. 
+^a^[**39:9** “Nueve pulgadas”: Literalmente, “un espacio,” la distancia entre el pulgar y el dedo meñique cuando la mano está estirada.] ^b^[**39:10** Ninguna de las siguientes piedras ha sido identificada con certeza.]
 
 ^15^ Confeccionaron cordones de cadenas trenzadas de oro puro para sujetar el pectoral. ^16^ Hicieron dos ajustes de oro y dos anillos de oro y sujetaron los anillos a las dos esquinas superiores del pectoral. ^17^ Fijaron las dos cadenas de oro a los dos anillos de oro de las esquinas del pectoral, ^18^ y luego sujetaron los extremos opuestos de las dos cadenas a los adornos de oro de los hombros de la parte delantera del efod. ^19^ Hicieron dos anillos de oro más y los fijaron a las dos esquinas inferiores del pectoral, en el borde interior junto al efod. ^20^ Hicieron dos anillos de oro más y los fijaron en la parte inferior de las dos hombreras de la parte delantera del efod, cerca de donde se une a su cintura tejida. ^21^ Ataron los anillos del pectoral a los anillos del efod con un cordón de hilo azul, para que el pectoral no se soltara del efod, como el Señor había ordenado a Moisés. 
 
@@ -1056,12 +1045,11 @@ No cocines un cabrito joven en la leche de su madre.”
 
 ^12^ Lleva a Aarón y a sus hijos a la entrada del Tabernáculo de Reunión y lávalos allí con agua. ^13^ Luegovistea Aarón con los vestidos sagrados, úngelo y dedícalo, para que me sirva de sacerdote. ^14^ Que sus hijos se acerquen y los vistan con túnicas. ^15^ Úngelos de la misma manera que ungiste a su padre, para que también me sirvan como sacerdotes. Su unción hará que su linaje de sacerdotes sea eterno, para las generaciones futuras”. 
 
-^16^ Moisés llevó a cabo todas las instrucciones del Señor. ^17^ El tabernáculo se levantó el primer día del primer mes del segundo año.^^ ^18^ Cuando Moisés levantó el tabernáculo,^^ colocó sus soportes, fijó sus marcos, conectó sus travesaños y erigió sus postes. ^19^ Luego extendió la tienda sobre el tabernáculo y colocó la cubierta sobre la tienda, como el Señor le había ordenado. 
-^[**40:17** En otras palabras, hacía un año que habían salido de Egipto.]
-^[**40:18** Es evidente que Moisés no hizo todo este trabajo por sí mismo, sino que lo supervisaba.]
+^16^ Moisés llevó a cabo todas las instrucciones del Señor. ^17^ El tabernáculo se levantó el primer día del primer mes del segundo año.^a^ ^18^ Cuando Moisés levantó el tabernáculo,^b^ colocó sus soportes, fijó sus marcos, conectó sus travesaños y erigió sus postes. ^19^ Luego extendió la tienda sobre el tabernáculo y colocó la cubierta sobre la tienda, como el Señor le había ordenado. 
+^a^[**40:17** En otras palabras, hacía un año que habían salido de Egipto.] ^b^[**40:18** Es evidente que Moisés no hizo todo este trabajo por sí mismo, sino que lo supervisaba.]
 
-^20^ Moisés tomó el testimonio^^y lo puso en el arca. Ató los postes al Arca, y colocó la tapa de expiación en la parte superior del Arca. ^21^ Luego llevó el Arca al Tabernáculo. Levantó el velo y se aseguró de que el Arca del Testimonio estuviera detrás de ella, como el Señor le había ordenado. 
-^[**40:20** Las dos tablas inscritas con los Diez Mandamientos.]
+^20^ Moisés tomó el testimonio^a^ y lo puso en el arca. Ató los postes al Arca, y colocó la tapa de expiación en la parte superior del Arca. ^21^ Luego llevó el Arca al Tabernáculo. Levantó el velo y se aseguró de que el Arca del Testimonio estuviera detrás de ella, como el Señor le había ordenado. 
+^a^[**40:20** Las dos tablas inscritas con los Diez Mandamientos.]
 
 ^22^ Moisés colocó la mesa dentro delTabernáculo de Reunión en el lado norte del Tabernáculo, fuera del velo. ^23^ Puso el pan sobre ella en presencia del Señor, como el Señor le había ordenado. ^24^ Colocó el candelabro en la tienda de la Reunión, frente a la mesa, en el lado sur del Tabernáculo ^25^ y levantó las lámparas en presencia del Señor, como el Señor le había ordenado. 
 

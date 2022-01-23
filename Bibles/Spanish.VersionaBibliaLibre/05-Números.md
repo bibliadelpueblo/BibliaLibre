@@ -53,15 +53,14 @@ De la tribu de Rubén, Elisur, hijo de Sedeur;
 
 ^44^ Estos fueron los totales de los hombres contados y registrados por Moisés y Aarón, con la ayuda de los doce líderes de Israel, que representaban cada uno a su familia. ^45^ De esta manera, todos los hombres israelitas de veinte años o más que pudieron servir en el ejército de Israel fueron registrados según sus familias. ^46^ La suma total de los registrados fue de 603.550. 
 
-^47^ Sin embargo, los levitas no estaban registrados con los demás según su tribu y sus familias. ^48^ Esto se debió a que el Señor le había dicho a Moisés: ^49^ No registres la tribu de Leví, ni los cuentes en el censo con los otros israelitas. ^50^ Pon a los levitas a cargo del Tabernáculo y del Testimonio,^^ así como de todo su mobiliario y de todo lo que hay en él. Ellos serán los responsables de llevar el Tabernáculo y todos sus artículos. Deben cuidarlo, y hacer su campamento alrededor de él. ^51^ Cuando llegue el momento de trasladar el Tabernáculo, los levitas lo bajarán, y cuando llegue el momento de acampar, los levitas lo levantarán. Cualquier forastero que se acerque al Tabernáculo debe ser condenado a muerte. ^52^ Los israelitas acamparán por tribus, cada uno estará en su propio campamento, bajo su propia bandera. ^53^ Pero los levitas deben levantar su campamento alrededor del Tabernáculo del Testimonio para evitar que alguien me haga enojar con los israelitas.^^Los levitas son responsables de cuidar el Tabernáculo del Testimonio”. 
-^[**1:50** El Testimonio se refiere a las tablas de piedra de los Diez Mandamientos contenidas en el interior del Arca.]
-^[**1:53** Presumiblemente impidiendo que cualquiera que no fuera sacerdote se acercara demasiado al Tabernáculo.]
+^47^ Sin embargo, los levitas no estaban registrados con los demás según su tribu y sus familias. ^48^ Esto se debió a que el Señor le había dicho a Moisés: ^49^ No registres la tribu de Leví, ni los cuentes en el censo con los otros israelitas. ^50^ Pon a los levitas a cargo del Tabernáculo y del Testimonio,^a^ así como de todo su mobiliario y de todo lo que hay en él. Ellos serán los responsables de llevar el Tabernáculo y todos sus artículos. Deben cuidarlo, y hacer su campamento alrededor de él. ^51^ Cuando llegue el momento de trasladar el Tabernáculo, los levitas lo bajarán, y cuando llegue el momento de acampar, los levitas lo levantarán. Cualquier forastero que se acerque al Tabernáculo debe ser condenado a muerte. ^52^ Los israelitas acamparán por tribus, cada uno estará en su propio campamento, bajo su propia bandera. ^53^ Pero los levitas deben levantar su campamento alrededor del Tabernáculo del Testimonio para evitar que alguien me haga enojar con los israelitas.^b^ Los levitas son responsables de cuidar el Tabernáculo del Testimonio”. 
+^a^[**1:50** El Testimonio se refiere a las tablas de piedra de los Diez Mandamientos contenidas en el interior del Arca.] ^b^[**1:53** Presumiblemente impidiendo que cualquiera que no fuera sacerdote se acercara demasiado al Tabernáculo.]
 
 ^54^ los israelitas hicieron todo lo que el Señor les ordenó a través de Moisés. 
 
 # 2 
-^1^ El Señor les dijo a Moisés y Aarón: ^2^ Los israelitas deben establecer su campamento alrededor del Tabernáculo de Reunión pero a cierta distancia de él. Cada miembro de cada tribu acampará bajo su propia bandera y estandarte familiar. ^3^ La tribu de Judá acampará bajo su bandera en el lado este. Su líder es Naasón, hijo de Aminadab, ^4^ tiene 74.600 hombres. ^5^ La tribu de Isacar acampará junto a ellos. Su líder es Natanael, hijo de Zuar, ^6^ y tiene 54.400 hombres. ^7^ La siguiente es la tribu de Zabulón. Su líder es Eliab, hijo de Helón, ^8^ y tiene 57.400 hombres. ^9^ Así que el total de hombres en el territorio de Judá e de 186,400. Y cuando llegue la hora de marcharse,^^ellos irán a la cabeza. 
-^[**2:9** “Cuando llegue la hora de marcharse”: añadido para mayor claridad.]
+^1^ El Señor les dijo a Moisés y Aarón: ^2^ Los israelitas deben establecer su campamento alrededor del Tabernáculo de Reunión pero a cierta distancia de él. Cada miembro de cada tribu acampará bajo su propia bandera y estandarte familiar. ^3^ La tribu de Judá acampará bajo su bandera en el lado este. Su líder es Naasón, hijo de Aminadab, ^4^ tiene 74.600 hombres. ^5^ La tribu de Isacar acampará junto a ellos. Su líder es Natanael, hijo de Zuar, ^6^ y tiene 54.400 hombres. ^7^ La siguiente es la tribu de Zabulón. Su líder es Eliab, hijo de Helón, ^8^ y tiene 57.400 hombres. ^9^ Así que el total de hombres en el territorio de Judá e de 186,400. Y cuando llegue la hora de marcharse,^a^ ellos irán a la cabeza. 
+^a^[**2:9** “Cuando llegue la hora de marcharse”: añadido para mayor claridad.]
 
 ^10^ La tribu de Rubén acampará bajo su bandera en el lado sur. Su líder es Elisur, hijo de Sedeúr, ^11^ cuenta con 46.500 hombres. ^12^ La tribu de Simeón acampará junto a ellos. Su líder es Selumiel, hijo de Zurisadai, ^13^ y cuenta con 59.300 hombres. ^14^ La siguiente es la tribu de Gad. Su líder es Eliasaph, hijo de Deuel, ^15^ y cuenta con 45.650 hombres. ^16^ Así que el número total de hombres en el área del campamento de Rubén es de 151.450. Ellos marcharán en segundo lugar. 
 
@@ -128,33 +127,33 @@ De la tribu de Rubén, Elisur, hijo de Sedeur;
 ^46^ Así es como Moisés, Aarón y los líderes israelitas registraron a todos los levitas de acuerdo a su familia y linaje paterno. ^47^ Contarona los hombres de treinta a cincuenta años que tenían derecho a hacer el trabajo de servir en el Tabernáculo de Reunión y llevarlo. ^48^ La suma total fue de 8.580. ^49^ Fue en respuesta a las instrucciones del Señor que fueron registrados por Moisés. A cada uno de los inscritos se les dijo qué hacer y qué llevar, tal como el Señor se lo había ordenado a Moisés. 
 
 # 5 
-^1^ Entonces el Señor le dijo a Moisés: ^2^ Ordena a los israelitas que expulsen del campamento a cualquiera que tenga una enfermedad de la piel, o que tenga una secreción, o que esté sucio por tocar un cuerpo muerto.^^ ^3^ Ya sea hombre o mujer, debes expulsarlos para que no ensucien su campamento, porque ahí es donde yo habito con ellos.” 
-^[**5:2** “Sucio por tocar un cuerpo muerto”: Esta parece ser una exclusión temporal. Ver Levítico 11:24.]
+^1^ Entonces el Señor le dijo a Moisés: ^2^ Ordena a los israelitas que expulsen del campamento a cualquiera que tenga una enfermedad de la piel, o que tenga una secreción, o que esté sucio por tocar un cuerpo muerto.^a^ ^3^ Ya sea hombre o mujer, debes expulsarlos para que no ensucien su campamento, porque ahí es donde yo habito con ellos.” 
+^a^[**5:2** “Sucio por tocar un cuerpo muerto”: Esta parece ser una exclusión temporal. Ver Levítico 11:24.]
 
 ^4^ Los israelitas siguieron estas instrucciones y expulsaron a esas personas del campamento. Hicieron lo que el Señor le había dicho a Moisés que debían hacer. 
 
-^5^ El Señor le dijo a Moisés: ^6^ Dile a los israelitas que cuando un hombre o una mujer es infiel al Señor pecando contra alguien más, son culpables ^7^ y deben confesar su pecado. Tienen que pagar el monto total de la compensación más un quinto de su valor, y darlo a la persona a la que han agraviado. ^8^ Sin embargo, si esa persona^^ no tiene un pariente que pueda recibir la compensación, ésta le pertenece al Señor y será entregada al sacerdote, junto con un carnero de sacrificio con el que se justifica al culpable. ^9^ Todas las ofrendas sagradas que los israelitas traigan al sacerdote, le pertenecen a él. ^10^ us santas ofrendas les pertenecen, pero una vez que se las dan al sacerdote, le pertenecen a él.” 
-^[**5:8** Esta disposición se refiere a una situación en la que la persona agraviada ha muerto.]
+^5^ El Señor le dijo a Moisés: ^6^ Dile a los israelitas que cuando un hombre o una mujer es infiel al Señor pecando contra alguien más, son culpables ^7^ y deben confesar su pecado. Tienen que pagar el monto total de la compensación más un quinto de su valor, y darlo a la persona a la que han agraviado. ^8^ Sin embargo, si esa persona^a^ no tiene un pariente que pueda recibir la compensación, ésta le pertenece al Señor y será entregada al sacerdote, junto con un carnero de sacrificio con el que se justifica al culpable. ^9^ Todas las ofrendas sagradas que los israelitas traigan al sacerdote, le pertenecen a él. ^10^ us santas ofrendas les pertenecen, pero una vez que se las dan al sacerdote, le pertenecen a él.” 
+^a^[**5:8** Esta disposición se refiere a una situación en la que la persona agraviada ha muerto.]
 
-^11^ El Señor le dijo a Moisés: ^12^ Dile a los israelitas que estas son las instrucciones a seguir^^en caso de que la esposa de un hombre tenga una aventura amorosa, siéndole infiel a él ^13^ por acostarse con otra persona. Puede ser que su marido no se entere y que su acto sucio no haya sido presenciado. No la atraparon. ^14^ Pero si su marido se pone celoso y sospecha de su mujer, sea culpable o no, ^15^ debe llevarla ante el sacerdote. También debe llevar en su nombre una ofrenda de un décimo de efa de harina de cebada. También debe llevar para ella una ofrenda de un efa de harina de cebada. No debe verter aceite de oliva o poner incienso sobre ella, ya que es una ofrenda de grano por los celos, una ofrenda recordatoria para recordarle a las personas sobre el pecado. 
-^[**5:12** “Estas son las instrucciones a seguir”: añadido para mayor claridad.]
+^11^ El Señor le dijo a Moisés: ^12^ Dile a los israelitas que estas son las instrucciones a seguir^a^ en caso de que la esposa de un hombre tenga una aventura amorosa, siéndole infiel a él ^13^ por acostarse con otra persona. Puede ser que su marido no se entere y que su acto sucio no haya sido presenciado. No la atraparon. ^14^ Pero si su marido se pone celoso y sospecha de su mujer, sea culpable o no, ^15^ debe llevarla ante el sacerdote. También debe llevar en su nombre una ofrenda de un décimo de efa de harina de cebada. También debe llevar para ella una ofrenda de un efa de harina de cebada. No debe verter aceite de oliva o poner incienso sobre ella, ya que es una ofrenda de grano por los celos, una ofrenda recordatoria para recordarle a las personas sobre el pecado. 
+^a^[**5:12** “Estas son las instrucciones a seguir”: añadido para mayor claridad.]
 
 ^16^ El sacerdote debe guiar a la esposa hacia adelante y hacer que se presente ante el Señor. ^17^ Luego llenará una vasija de barro con agua sagrada y rociará sobre ella polvo del suelo del Tabernáculo. ^18^ Una vez que el sacerdote haya hecho que la mujer se ponga de pie ante el Señor, le soltará el pelo y le hará sostener la ofrenda de grano recordatoria, la ofrenda de grano que se usa en casos de celos. El sacerdote sostendrá el agua amarga que maldice. ^19^ Pondrá a la mujer bajo juramento y le dirá: ‘Si nadie más ha dormido contigo y no has sido infiel ni te has vuelto impura mientras estabas casada con tu marido, que no te perjudique esta agua amarga que maldice. ^20^ Pero si has sido infiel mientras estabas casada con tu marido y te has vuelto impura y has tenido relaciones sexuales con otra persona...” ^21^ Aquí el sacerdote pondrá a la mujer bajo juramento de la maldición como sigue).“Que el Señor te envíe una maldición que todo el mundo conoce, haciendo que tus muslos se encojan y tu vientre se hinche. ^22^ Que esta agua que maldice entre en tu estómago y haga que tu vientre se hinche y tus muslos se encojan.” 
 
-La mujer debe responder: “De acuerdo, estoy de acuerdo.”^^ 
-^[**5:22** Literalmente, “Amén, Amén.”]
+La mujer debe responder: “De acuerdo, estoy de acuerdo.”^a^ 
+^a^[**5:22** Literalmente, “Amén, Amén.”]
 
-^23^ El sacerdote debe escribir estas maldiciones en un pergamino y luego lavarlas en el agua amarga. ^24^ Hará que la mujer beba el agua amarga que maldice, y le causará un dolor amargo si es culpable.^^ ^25^ El sacerdote le quitará la ofrenda de grano por los celos, la agitará ante el Señor y la llevará al altar. ^26^ Entonces el sacerdote tomará un puñado de la ofrenda de grano como porción de recuerdo y lo quemará en el altar, y hará que la mujer beba el agua. 
-^[**5:24** “Si es culpable”: implícito.]
+^23^ El sacerdote debe escribir estas maldiciones en un pergamino y luego lavarlas en el agua amarga. ^24^ Hará que la mujer beba el agua amarga que maldice, y le causará un dolor amargo si es culpable.^a^ ^25^ El sacerdote le quitará la ofrenda de grano por los celos, la agitará ante el Señor y la llevará al altar. ^26^ Entonces el sacerdote tomará un puñado de la ofrenda de grano como porción de recuerdo y lo quemará en el altar, y hará que la mujer beba el agua. 
+^a^[**5:24** “Si es culpable”: implícito.]
 
 ^27^ Después de hacerla beber el agua, si ella se ha hecho impura y ha sido infiel a su marido, entonces el agua que maldice le causará un dolor amargo. Su vientre se hinchará y sus muslos se encogerán. Se convertirá en una mujer maldita entre su pueblo. ^28^ Pero si la mujer no se ha hecho impura por ser infiel y está limpia, no experimentará este castigo y aún podrá tener hijos. 
 
-^29^ Esta es la regla a seguir en casos de celos cuando una mujer tiene una aventura y se hace impura mientras está casada con su marido, ^30^ o cuando el marido empieza a sentir celos y sospecha de su esposa. Su esposa deberá presentarse ante el Señor, y el sacerdote deberá cumplir cada parte de esta regla. ^31^ Si es hallada culpable,^^su marido no será responsable. Pero la mujer cargará con las consecuencias de su pecado.
-^[**5:31** “Si es hallada culpable”: implícito.] 
+^29^ Esta es la regla a seguir en casos de celos cuando una mujer tiene una aventura y se hace impura mientras está casada con su marido, ^30^ o cuando el marido empieza a sentir celos y sospecha de su esposa. Su esposa deberá presentarse ante el Señor, y el sacerdote deberá cumplir cada parte de esta regla. ^31^ Si es hallada culpable,^a^ su marido no será responsable. Pero la mujer cargará con las consecuencias de su pecado.
+^a^[**5:31** “Si es hallada culpable”: implícito.] 
 
 # 6 
-^1^ El Señor le dijo a Moisés: ^2^ Dile a los israelitas: Si un hombre o una mujer hace una promesa especial de convertirse en nazareo,^^para dedicarse al Señor, ^3^ no deben beber vino u otra bebida alcohólica. No deben ni siquiera beber vinagre de vino o cualquier otra bebida alcohólica, o cualquier jugo de uva o comer uvas o pasas. ^4^ Durante todo el tiempo que estén dedicados al Señor no deben comer nadaque sea fruto de una vid, ni siquiera las semillas o las cáscaras de uva. 
-^[**6:2** “Nazareo”: significa “dedicado.”]
+^1^ El Señor le dijo a Moisés: ^2^ Dile a los israelitas: Si un hombre o una mujer hace una promesa especial de convertirse en nazareo,^a^ para dedicarse al Señor, ^3^ no deben beber vino u otra bebida alcohólica. No deben ni siquiera beber vinagre de vino o cualquier otra bebida alcohólica, o cualquier jugo de uva o comer uvas o pasas. ^4^ Durante todo el tiempo que estén dedicados al Señor no deben comer nadaque sea fruto de una vid, ni siquiera las semillas o las cáscaras de uva. 
+^a^[**6:2** “Nazareo”: significa “dedicado.”]
 
 ^5^ No deben usar una navaja de afeitar sobre sus cabezas durante todo el tiempo de esta promesa de dedicación. Deben permanecer santos hasta que su tiempo de dedicación al Señor haya terminado. Deben dejar crecer su cabello. 
 
@@ -171,8 +170,8 @@ La mujer debe responder: “De acuerdo, estoy de acuerdo.”^^
 ^24^ Que el Señor te bendiga y te cuide. ^25^ Que el Señor te sonría y sea misericordioso contigo. ^26^ Que el Señor te cuide y te dé la paz.’ ^27^ cuando los sacerdotes bendigan a los israelitas en mi nombre, yo los bendeciré.” 
 
 # 7 
-^1^ El mismo día que Moisés terminó de montar el Tabernáculo, lo ungió y lo dedicó, junto con todo su mobiliario, el altar y todos sus utensilios. ^2^ Los líderes israelitas, que eran los jefes de sus familias, vinieron y dieron una ofrenda. Eran los mismos líderes de las tribus que habían trabajado en el registro^^ de los israelitas. ^3^ Trajeron al Señor una ofrenda de seis carros cubiertos y doce bueyes. Cada líder dio un buey, y dos líderes compartieron la ofrenda de un carro. Los presentaron frente al Tabernáculo. 
-^[**7:2** Ver el capítulo 1.]
+^1^ El mismo día que Moisés terminó de montar el Tabernáculo, lo ungió y lo dedicó, junto con todo su mobiliario, el altar y todos sus utensilios. ^2^ Los líderes israelitas, que eran los jefes de sus familias, vinieron y dieron una ofrenda. Eran los mismos líderes de las tribus que habían trabajado en el registro^a^ de los israelitas. ^3^ Trajeron al Señor una ofrenda de seis carros cubiertos y doce bueyes. Cada líder dio un buey, y dos líderes compartieron la ofrenda de un carro. Los presentaron frente al Tabernáculo. 
+^a^[**7:2** Ver el capítulo 1.]
 
 ^4^ El Señor le dijo a Moisés: ^5^ Acepta lo que te dan y úsalo para el trabajo del Tabernáculo de Reunión. Dáselo a los levitas para que los usen según sea necesario”. 
 
@@ -234,8 +233,8 @@ La mujer debe responder: “De acuerdo, estoy de acuerdo.”^^
 
 ^13^ Sin embargo, cualquiera que esté ceremonialmente limpio y no viaje lejos y que no observe la Pascua debe ser expulsado de su pueblo, porque no presentó la ofrenda del Señor en el momento apropiado. Ellos serán responsables de las consecuencias de su pecado. ^14^ Cualquier extranjero que viva entre ustedes y que quiera observar la Pascua del Señor puede hacerlo siguiendo las normas y preceptos de la Pascua. Las mismas reglas se aplican a los extranjeros como a ustedes.” 
 
-^15^ La nube cubrió la Tienda del Testimonio (el Tabernáculo) el día en que fue erigida, y se vio como fuego sobre ella desde la noche hasta la mañana. ^16^ Siempre era así. La nube cubría el Tabernáculo durante el día^^ y por la noche parecía fuego. ^17^ Cuando la nube se levantaba sobre la Tienda, los israelitas marchaban, y cuando la nube se detenía, los israelitas acampaban allí. ^18^ Los israelitas se movían cuando el Señor les decía, y levantaban el campamento cuando el Señor les decía. Mientras la nube permanecía sobre el Tabernáculo, ellos permanecían acampados allí. ^19^ Aunque la nube no se moviera durante mucho tiempo, los israelitas hicieron lo que el Señor les decía y no seguían adelante. ^20^ A veces la nube sólo permanecía sobre el Tabernáculo durante unos pocos días. Como siempre, siguieron la orden del Señor de acampar o seguir adelante. ^21^ A veces la nube sólo se quedaba durante la noche, así que cuando se levantaban por la mañana seguían avanzando. Cada vez que la nube se levantaba, de día o de noche, se marchaban. ^22^ Si la nube se quedaba en un lugar durante dos días, o un mes, o más tiempo, los israelitas se quedaban donde estaban y no se iban mientras la nube permaneciera sobre el Tabernáculo. Sin embargo, una vez que se levantaba, se iban. ^23^ Acampaban cuando el Señor les decía, y se iban cuando él les decía. Ellos seguían las instrucciones del Señor le daba a Moisés.
-^[**9:16** “Durante el día”: Tomado de la Septuaginta.] 
+^15^ La nube cubrió la Tienda del Testimonio (el Tabernáculo) el día en que fue erigida, y se vio como fuego sobre ella desde la noche hasta la mañana. ^16^ Siempre era así. La nube cubría el Tabernáculo durante el día^a^ y por la noche parecía fuego. ^17^ Cuando la nube se levantaba sobre la Tienda, los israelitas marchaban, y cuando la nube se detenía, los israelitas acampaban allí. ^18^ Los israelitas se movían cuando el Señor les decía, y levantaban el campamento cuando el Señor les decía. Mientras la nube permanecía sobre el Tabernáculo, ellos permanecían acampados allí. ^19^ Aunque la nube no se moviera durante mucho tiempo, los israelitas hicieron lo que el Señor les decía y no seguían adelante. ^20^ A veces la nube sólo permanecía sobre el Tabernáculo durante unos pocos días. Como siempre, siguieron la orden del Señor de acampar o seguir adelante. ^21^ A veces la nube sólo se quedaba durante la noche, así que cuando se levantaban por la mañana seguían avanzando. Cada vez que la nube se levantaba, de día o de noche, se marchaban. ^22^ Si la nube se quedaba en un lugar durante dos días, o un mes, o más tiempo, los israelitas se quedaban donde estaban y no se iban mientras la nube permaneciera sobre el Tabernáculo. Sin embargo, una vez que se levantaba, se iban. ^23^ Acampaban cuando el Señor les decía, y se iban cuando él les decía. Ellos seguían las instrucciones del Señor le daba a Moisés.
+^a^[**9:16** “Durante el día”: Tomado de la Septuaginta.] 
 
 # 10 
 ^1^ El Señor le dijo a Moisés: ^2^ Haz dos trompetas de plata martillada. Se usarán para convocar a los israelitas y para hacer que el campamento se mueva. ^3^ Cuando se toquen las dos trompetas, todos los israelitas se reunirán ante ti en la entrada del Tabernáculo de Reunión. ^4^ Pero si sólo se toca una, sólo los líderes de la tribu se reunirán ante ti. 
@@ -254,8 +253,8 @@ La mujer debe responder: “De acuerdo, estoy de acuerdo.”^^
 
 ^25^ Finalmente llegaron las divisiones de Dan que marcharon bajo su bandera, defendiendo la retaguardia de todos los grupos tribales, con Ahiezer, hijo de Amisadai, a cargo. ^26^ Pagiel, hijo de Ocrán, estaba a cargo de la tribu de Aser, ^27^ y Ajirá, hijo de Enán, estaba a cargo de la tribu de Neftalí. ^28^ Este era el orden en el se desplazaban las tribus de Israel. 
 
-^29^ Moisés le explicó a Hobab, el hijo del suegro de Moisés, Reuel, el madianita,^^“Nos vamos al lugar que el Señor prometió diciendo: ‘Te daré esta tierra’. Ven con nosotros y seremos buenos contigo, porque el Señor le ha prometido cosas buenas a Israel.” 
-^[**10:29** Esto convertía a Hobab en el cuñado de Moisés.]
+^29^ Moisés le explicó a Hobab, el hijo del suegro de Moisés, Reuel, el madianita,^a^ “Nos vamos al lugar que el Señor prometió diciendo: ‘Te daré esta tierra’. Ven con nosotros y seremos buenos contigo, porque el Señor le ha prometido cosas buenas a Israel.” 
+^a^[**10:29** Esto convertía a Hobab en el cuñado de Moisés.]
 
 ^30^ No, no me iré, volveré a mi país y a mi pueblo”, respondió Hobab. 
 
@@ -268,11 +267,11 @@ La mujer debe responder: “De acuerdo, estoy de acuerdo.”^^
 ^36^ cada vez que se detenía, Moisés gritaba: “Vuelve, Señor, a los miles y miles del pueblo de Israel.” 
 
 # 11 
-^1^ No pasó mucho tiempo antes de que la gente empezara a quejarse de lo mucho que estaban sufriendo. Cuando el Señor escuchó lo que decían, se enfadó. El fuego del Señor los quemó, destruyendo algunos que iban por los extremos del campamento. ^2^ l pueblo clamó a Moisés por ayuda. Entones él oró al Señor y el fuego se apagó. ^3^ Ese lugar se llamó Taberá,^^ porque el fuego del Señor los quemó. 
-^[**11:3** “Taberá” significa “arder.”]
+^1^ No pasó mucho tiempo antes de que la gente empezara a quejarse de lo mucho que estaban sufriendo. Cuando el Señor escuchó lo que decían, se enfadó. El fuego del Señor los quemó, destruyendo algunos que iban por los extremos del campamento. ^2^ l pueblo clamó a Moisés por ayuda. Entones él oró al Señor y el fuego se apagó. ^3^ Ese lugar se llamó Taberá,^a^ porque el fuego del Señor los quemó. 
+^a^[**11:3** “Taberá” significa “arder.”]
 
-^4^ Entonces un grupo de alborotadores^^que estaba entre ellos tenían antojos de comida tan intensos que afectaron a los israelitas que empezaron a llorar de nuevo, preguntando “¿Quién va a conseguirnos algo de carne para comer? ^5^ Recuerden todo el pescado que comíamos en Egipto y que no nos costaba nada, así como los pepinos, los melones, los puerros, las cebollas y el ajo. ^6^ ¡Pero ahora nos estamos desvaneciendo aquí! ¡Lo único que vemos es este maná!” 
-^[**11:4** Generalmente asociado con una “multitud mixta” que salió de Egipto con los Israelitas (ver Éxodo 12:38)]
+^4^ Entonces un grupo de alborotadores^a^ que estaba entre ellos tenían antojos de comida tan intensos que afectaron a los israelitas que empezaron a llorar de nuevo, preguntando “¿Quién va a conseguirnos algo de carne para comer? ^5^ Recuerden todo el pescado que comíamos en Egipto y que no nos costaba nada, así como los pepinos, los melones, los puerros, las cebollas y el ajo. ^6^ ¡Pero ahora nos estamos desvaneciendo aquí! ¡Lo único que vemos es este maná!” 
+^a^[**11:4** Generalmente asociado con una “multitud mixta” que salió de Egipto con los Israelitas (ver Éxodo 12:38)]
 
 ^7^ El maná tenía la apariencia de semillas de cilantro, de color claro como la resina. ^8^ l pueblo salía a recogerlo, lo molíancon un molino o lo trituraban en un mortero;luego lo hervirían en una olla y lo convertirían en pan plano. EL sabor era como de pasteles hechos con el mejor aceite de oliva. ^9^ Cuando el rocío descendíasobre el campamento por la noche, el maná bajaba con él. 
 
@@ -294,17 +293,17 @@ La mujer debe responder: “De acuerdo, estoy de acuerdo.”^^
 
 ^29^ ¿Estás celoso de mi reputación?”respondió Moisés. “¡Deseo que cada uno en el pueblo del Señor sea profeta y que el Señor les dé su espíritu a todos!” ^30^ Entonces Moisés volvió al campamento con los ancianos de Israel. 
 
-^31^ el Señor envió un viento que sopló codornices desde el mar y las hizo caer cerca del campamento. Cubrieron el suelo hasta una profundidad de unos dos codos y se extendieron durante un día de viaje en todas direcciones del campamento. ^32^ Durante todo ese día y noche, y durante todo el día siguiente, el pueblo siguió recogiendo codornices. Todos recolectaron al menos diez homers,^^ y las repartieron por todo el campamento. 
-^[**11:32** Estimado en un volumen de 220 litros.]
+^31^ el Señor envió un viento que sopló codornices desde el mar y las hizo caer cerca del campamento. Cubrieron el suelo hasta una profundidad de unos dos codos y se extendieron durante un día de viaje en todas direcciones del campamento. ^32^ Durante todo ese día y noche, y durante todo el día siguiente, el pueblo siguió recogiendo codornices. Todos recolectaron al menos diez homers,^a^ y las repartieron por todo el campamento. 
+^a^[**11:32** Estimado en un volumen de 220 litros.]
 
-^33^ Pero mientras la gente seguía mordiendo la carne, incluso antes de que la masticaran, el Señor mostró su ardiente ira contra ellos, matando a algunos de ellos con una grave enfermedad. ^34^ Llamaron a ese lugar Quibrot-Hatavá,^^ porque allí enterraron a la gente que tenía estos intensos antojos de comida. 
-^[**11:34** Que significa: “sepulturas de glotonería.”]
+^33^ Pero mientras la gente seguía mordiendo la carne, incluso antes de que la masticaran, el Señor mostró su ardiente ira contra ellos, matando a algunos de ellos con una grave enfermedad. ^34^ Llamaron a ese lugar Quibrot-Hatavá,^a^ porque allí enterraron a la gente que tenía estos intensos antojos de comida. 
+^a^[**11:34** Que significa: “sepulturas de glotonería.”]
 
 ^35^ Luego se trasladaron de Quibrot-HataváhaciaJazerot, donde permanecieron durante algún tiempo. 
 
 # 12 
-^1^ Pero Miriam y Aarón criticaban a Moisés por su esposa,pues Moisés se había casado con una mujer etíope.^^ ^2^ ”¿Acaso el Señor solo habla a través de Moisés?”, cuestionaban. “¿No habla también a través de nosotros?” Y el Señor escuchó todo esto. 
-^[**12:1** “Etíope”: literalmente, “Cusita,” refiriéndose a la tierra que quedaba en el sureste de Egipto.]
+^1^ Pero Miriam y Aarón criticaban a Moisés por su esposa,pues Moisés se había casado con una mujer etíope.^a^ ^2^ ”¿Acaso el Señor solo habla a través de Moisés?”, cuestionaban. “¿No habla también a través de nosotros?” Y el Señor escuchó todo esto. 
+^a^[**12:1** “Etíope”: literalmente, “Cusita,” refiriéndose a la tierra que quedaba en el sureste de Egipto.]
 
 ^3^ Moisés era un hombre muy humilde, más que nadie en la tierra. 
 
@@ -333,8 +332,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 
 ^7^ Igal, hijo de José, de la tribu de Isacar. 
 
-^8^ Oseas,^^hijo de Nun, de la tribu de Efraín. 
-^[**13:8** También llamado Josué. Ver el versículo 16.]
+^8^ Oseas,^a^ hijo de Nun, de la tribu de Efraín. 
+^a^[**13:8** También llamado Josué. Ver el versículo 16.]
 
 ^9^ Palti hijo de Raphu, de la tribu de Benjamin. 
 
@@ -356,8 +355,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 
 ^21^ Así que los hombres fueron y exploraron la tierra desde el desierto de Zin hasta Rejob, el oso Lebó Jamat. ^22^ Atravesaron el Néguev y llegaron a Hebrón donde vivían Ahiman, Seshai y Talmai, los descendientes de Anac. Esta ciudad fue construida siete años antes que la ciudad egipcia de Zoán. 
 
-^23^ Cuando llegaron al Valle de Escol cortaron una rama que tenía un solo racimo de uvas. Tenían que cargarla en un palo sostenido entre dos hombres. También recogieron algunas granadas e higos. ^24^ (El lugar fue llamado el Valle de Escol^^ por el racimo de uvas que tomaron de allí.) 
-^[**13:24** “Escol” significa “manojo.”]
+^23^ Cuando llegaron al Valle de Escol cortaron una rama que tenía un solo racimo de uvas. Tenían que cargarla en un palo sostenido entre dos hombres. También recogieron algunas granadas e higos. ^24^ (El lugar fue llamado el Valle de Escol^a^ por el racimo de uvas que tomaron de allí.) 
+^a^[**13:24** “Escol” significa “manojo.”]
 
 ^25^ Cuarenta días después los hombres regresaron de explorar el país. ^26^ Fueron a ver a Moisés y Aarón, y todos los israelitas se reunieron allí en su campamento en Cades, en el desierto de Parán. Dieron un informe ante todos y les mostraron los frutos que habían traído del país. 
 
@@ -372,8 +371,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 
 ^4^ Se dijeron unos a otros: “Elijamos un nuevo líder y volvamos a Egipto”. 
 
-^5^ Moisés y Aarón se postraron en el suelo frente a todos los israelitas reunidos. ^6^ Josué, hijo de Nun, y Caleb, hijo de Jefone, estaban allí. Habían sido parte del grupo que había ido a espiar la tierra. Se rasgaron la ropa,^^ ^7^ y les dijeron a los israelitas: “El país que viajamos y exploramos tiene muy buena tierra. ^8^ Si el Señor está contento con nosotros, nos llevará allí y nos la dará, una tierra tan productiva que es como si fluyera leche y miel. ^9^ No se rebelen ni luchen contra el Señor. No hay que tener miedo de la gente que vive en el campo, ¡podemos cogerlos fácilmente! Están indefensos y el Señor está con nosotros. ¡No les tengan miedo!” 
-^[**14:6** En señal de duelo y emoción intensa.]
+^5^ Moisés y Aarón se postraron en el suelo frente a todos los israelitas reunidos. ^6^ Josué, hijo de Nun, y Caleb, hijo de Jefone, estaban allí. Habían sido parte del grupo que había ido a espiar la tierra. Se rasgaron la ropa,^a^ ^7^ y les dijeron a los israelitas: “El país que viajamos y exploramos tiene muy buena tierra. ^8^ Si el Señor está contento con nosotros, nos llevará allí y nos la dará, una tierra tan productiva que es como si fluyera leche y miel. ^9^ No se rebelen ni luchen contra el Señor. No hay que tener miedo de la gente que vive en el campo, ¡podemos cogerlos fácilmente! Están indefensos y el Señor está con nosotros. ¡No les tengan miedo!” 
+^a^[**14:6** En señal de duelo y emoción intensa.]
 
 ^10^ En respuesta, todo el pueblo gritó: “¡Apedréenlos!” Pero la gloria del Señor apareció de repente en el Tabernáculo de Reunión, justo en medio de los israelitas. 
 
@@ -383,8 +382,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 
 ^17^ Ahora, Señor, por favor demuestra el alcance de tu poder tal como lo has dicho: ^18^ El Señor es lento para enojarse y está lleno de amor confiable, perdonando el pecado y la rebelión. Sin embargo, no permitirá que los culpables queden impunes, trayendo las consecuencias del pecado de los padres a sus hijos, nietos y bisnietos. ^19^ Por favor, perdona el pecado de estas personas ya que tu amor digno de confianza es tan grande, de la misma manera que los has perdonado desde que salieron de Egipto hasta ahora”. 
 
-^20^ Los he perdonado como me lo pediste”, respondió el Señor. ^21^ “Pero aún así, juro por mi vida y toda mi gloria en la tierra, ^22^ ue ni uno solo de los que vieron mi gloria y los milagros que hice en Egipto y en el desierto, sino que me provocaron y se negaron a obedecerme una y otra vez; ^^ ^23^ ni uno solo de ellos va a ver el país que prometí a sus antepasados. Ninguno de los que me rechazaron lo verá. 
-^[**14:22** “Una y otra vez”: literalmente, “diez veces,” pero se cree que es una expresión que se refiere a múltiples ocasiones.]
+^20^ Los he perdonado como me lo pediste”, respondió el Señor. ^21^ “Pero aún así, juro por mi vida y toda mi gloria en la tierra, ^22^ ue ni uno solo de los que vieron mi gloria y los milagros que hice en Egipto y en el desierto, sino que me provocaron y se negaron a obedecerme una y otra vez; ^a^ ^23^ ni uno solo de ellos va a ver el país que prometí a sus antepasados. Ninguno de los que me rechazaron lo verá. 
+^a^[**14:22** “Una y otra vez”: literalmente, “diez veces,” pero se cree que es una expresión que se refiere a múltiples ocasiones.]
 
 ^24^ Pero como mi siervo Caleb tiene un espíritu totalmente diferente y está totalmente comprometido conmigo, lo llevaré al país que visitó, y sus descendientes serán los dueños. ^25^ Como los amalecitas y los cananeos viven en los valles, mañana deberán dar la vuelta y volver al desierto, tomando la ruta hacia el Mar Rojo”. 
 
@@ -407,8 +406,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 
 ^8^ Cuando traigas un novillo como holocausto o sacrificio para cumplir una promesa que hiciste o como ofrenda de paz al Señor, ^9^ también llevarás con el novillo una ofrenda de grano de tres décimas de efa de la mejor harina mezclada con medio hin de aceite de oliva. ^10^ Añade medio hin de vino como ofrenda de bebida. Todo esto es una ofrenda para ser aceptable al Señor. 
 
-^11^ Esto debe hacerse por cada toro, carnero, cordero o cabra que se traiga como ofrenda.^^ ^12^ Esto es lo que tienes que hacer para cada uno, sin importar cuántos sean. ^13^ Todo israelita debe seguir estas instrucciones cuando presente una ofrenda que sea aceptable para el Señor. ^14^ Esto también se aplica a todas las generaciones futuras que si un extranjero que vive entre ustedes o cualquier otra persona entre ustedes desea presentar una ofrenda aceptable para el Señor: deben hacer exactamente lo que ustedes hacen. ^15^ Toda la congregación debe tener las mismas reglas para ustedes y para el extranjero que vive entre ustedes. Esta es una ley permanente para todas las generaciones futuras. Tú y el extranjero deben ser tratados de la misma manera ante la ley. ^16^ Las mismas reglas y normas se aplican a ustedes y al extranjero que vive entre ustedes.” 
-^[**15:11** “Que se traiga como ofrenda”: añadido para mayor claridad.]
+^11^ Esto debe hacerse por cada toro, carnero, cordero o cabra que se traiga como ofrenda.^a^ ^12^ Esto es lo que tienes que hacer para cada uno, sin importar cuántos sean. ^13^ Todo israelita debe seguir estas instrucciones cuando presente una ofrenda que sea aceptable para el Señor. ^14^ Esto también se aplica a todas las generaciones futuras que si un extranjero que vive entre ustedes o cualquier otra persona entre ustedes desea presentar una ofrenda aceptable para el Señor: deben hacer exactamente lo que ustedes hacen. ^15^ Toda la congregación debe tener las mismas reglas para ustedes y para el extranjero que vive entre ustedes. Esta es una ley permanente para todas las generaciones futuras. Tú y el extranjero deben ser tratados de la misma manera ante la ley. ^16^ Las mismas reglas y normas se aplican a ustedes y al extranjero que vive entre ustedes.” 
+^a^[**15:11** “Que se traiga como ofrenda”: añadido para mayor claridad.]
 
 ^17^ El Señor le dijo a Moisés: ^18^ Diles a los israelitas: ‘Cuando lleguen al país al que yo los llevo ^19^ y cománde los alimentos que allí se producen, darán parte de ellos como ofrenda al Señor. ^20^ Darán como ofrenda una parte de la harina que usen para hacer los panes, y la presentarás como una ofrenda de la era. ^21^ Para todas las generaciones futuras, darás al Señor una ofrenda de la primera de tus harinas. 
 
@@ -416,24 +415,23 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 
 ^27^ En el caso de un individuo que peca sin intención, deben presentar una cabra hembra de un año como ofrenda por el pecado. ^28^ El sacerdote hará que la persona que pecó sin querer esté en su derecho ante el Señor. Una vez que hayan sido expiados, serán perdonados. ^29^ Aplicarás la misma ley para el que peca por error a un israelita o a un extranjero que viva entre ustedes. 
 
-^30^ Pero la persona que peca a manera de desafío, ya sea un israelita o un extranjero, está blasfemando^^ al Señor. Serán expulsados de su pueblo. ^31^ Deben ser expulsados, porque han tratado la palabra del Señor con desprecio y han quebrantado su mandamiento. Son responsables de las consecuencias de su propia culpa”. 
-^[**15:30** “Blasfemando”: en el sentido de abusar deliberadamente del Señor.]
+^30^ Pero la persona que peca a manera de desafío, ya sea un israelita o un extranjero, está blasfemando^a^ al Señor. Serán expulsados de su pueblo. ^31^ Deben ser expulsados, porque han tratado la palabra del Señor con desprecio y han quebrantado su mandamiento. Son responsables de las consecuencias de su propia culpa”. 
+^a^[**15:30** “Blasfemando”: en el sentido de abusar deliberadamente del Señor.]
 
 ^32^ Durante el tiempo en que los israelitas vagaban por el desierto, un hombre fue sorprendido recogiendo leña en el día Sábado. ^33^ as personas que lo encontraron recogiendo leña lo llevaron ante Moisés, Aarón y el resto de los israelitas. ^34^ Lo pusieron bajo vigilancia porque no estaba claro qué le iba a pasar. ^35^ El Señor le dijo a Moisés: “Este hombre tiene que ser ejecutado. Todos los israelitas deben apedrearlo fuera del campamento”. ^36^ Así que todos tomaron al hombre fuera del campamento y lo apedrearon hasta la muerte como el Señor había ordenado a Moisés. 
 
 ^37^ Poco después el Señor le dijo a Moisés: ^38^ Diles a los israelitas que para todas las generaciones futuras harán borlas para los dobladillos de tu ropa y deberán atarlas con un cordón azul. ^39^ Cuando miren estas borlas recordarán que deben guardar todos los mandamientos del Señor y que no sean infieles, siguiendo sus propios pensamientos y deseos. ^40^ De esta manera serecordarán que deben guardar todos mis mandamientos y serán santos para Dios. Yo soy el Señor su Dios que los sacó de Egipto para ser su Dios. ^41^ ¡Yo soy el Señor su Dios!” 
 
 # 16 
-^1^ Coré, ^^hijo de Izhar, hijo de Coat, hijo de Levi, trató de asumir el liderazgo, junto con Datán y Abiram, hijos de Eliab, y On, hijo de Pelet, que eran de la tribu de Rubén. ^2^ stos se rebelaron contra Moisés, y se les unieron 250 respetados líderes israelitas y miembros de la asamblea. ^3^ Se unieron en oposición a Moisés y Aarón, diciéndoles: “¡Ustedes se han adueñado del poder! Cada uno de los israelitas es santo, y el Señor está entre ellos. Entonces, ¿por qué se ponen ustedes por encima de la asamblea del Señor?” 
-^[**16:1** Coré era primo de Moisés y Aarón, y el celo por su posición pudo haber sido la causa de su rebelión.]
+^1^ Coré, ^a^ hijo de Izhar, hijo de Coat, hijo de Levi, trató de asumir el liderazgo, junto con Datán y Abiram, hijos de Eliab, y On, hijo de Pelet, que eran de la tribu de Rubén. ^2^ stos se rebelaron contra Moisés, y se les unieron 250 respetados líderes israelitas y miembros de la asamblea. ^3^ Se unieron en oposición a Moisés y Aarón, diciéndoles: “¡Ustedes se han adueñado del poder! Cada uno de los israelitas es santo, y el Señor está entre ellos. Entonces, ¿por qué se ponen ustedes por encima de la asamblea del Señor?” 
+^a^[**16:1** Coré era primo de Moisés y Aarón, y el celo por su posición pudo haber sido la causa de su rebelión.]
 
 ^4^ Cuando Moisés oyó lo que decían, cayó al suelo boca abajo. ^5^ Entonces le dijo a Coré y a todos los que estaban con él: “Por la mañana el Señor va a demostrar quién es suyo y quién es santo, y permitirá que esa persona se acerque a él. Sólo permitirá que se acerque a él quien él elija. ^6^ Esto es lo que tú, Coré, y todos los que están contigo van a hacer. Toma unos quemadores de incienso, ^7^ y mañana pon incienso en ellos y enciéndelo en la presencia del Señor. Entonces el hombre que el Señor elija es el que es santo. ¡Son ustedes, los levitas, los que están tomando demasiado poder para ustedes mismos!” 
 
 ^8^ Moisés también le dijo a Coré: “¡Escuchen, levitas! ^9^ ¿Les parece poco que el Dios de Israel los haya elegido entre todos los demás israelitas y les haya permitido acercarse a él y realizar la obra en el Tabernáculo del Señor, estar ante los israelitas y servirles? ^10^ estedado el privilegio de acercarte a él, a ti, Coré, a y a todos los demás levitas, ¡pero ahora también quieren tener el sacerdocio! ^11^ Así que en realidad tú y los que se han unido a ti están luchando contra el Señor, porque ¿quién es Aarón para que murmurencontra él?” 
 
-^12^ ntonces Moisés convocó a Datán y a Abiram, los hijos de Eliab, pero ellos respondieron: “No vamos a comparecer ante ustedes!^^ ^13^ ¿No has hecho suficiente alejándonos de una tierra que fluye leche y miel para matarnos aquí en el desierto? ¿También tienes que hacerte un dictador y gobernante? ^14^ Además, no nos has llevado a una tierra que fluye leche y miel ni nos has dado campos y viñedos para que los poseamos. ¿De verdad crees que puedes engañar a todo el mundo?^^¡No, no asistiremos!” 
-^[**16:12** En otras palabras, se negaron a reconocer la autoridad de Moisés para exigirles que comparecieran ante él para ser juzgados.]
-^[**16:14** La expresión usada aquí “¿Le sacarás los ojos a estos hombres?” se entiende como algo así como “¿Les vas a tirar de la lana en los ojos?”]
+^12^ ntonces Moisés convocó a Datán y a Abiram, los hijos de Eliab, pero ellos respondieron: “No vamos a comparecer ante ustedes!^a^ ^13^ ¿No has hecho suficiente alejándonos de una tierra que fluye leche y miel para matarnos aquí en el desierto? ¿También tienes que hacerte un dictador y gobernante? ^14^ Además, no nos has llevado a una tierra que fluye leche y miel ni nos has dado campos y viñedos para que los poseamos. ¿De verdad crees que puedes engañar a todo el mundo?^b^ ¡No, no asistiremos!” 
+^a^[**16:12** En otras palabras, se negaron a reconocer la autoridad de Moisés para exigirles que comparecieran ante él para ser juzgados.] ^b^[**16:14** La expresión usada aquí “¿Le sacarás los ojos a estos hombres?” se entiende como algo así como “¿Les vas a tirar de la lana en los ojos?”]
 
 ^15^ Moisés se enfadó mucho y le dijo al Señor: “No aceptes sus ofrendas. Nunca les he quitado ni un burro ni he tratado mal a ninguno de ellos”. 
 
@@ -451,8 +449,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 
 ^27^ El pueblo se alejó de las casas de Coré, Datán y Abiram. Dathan y Abiram salieron y se pararon en las entradas de sus tiendas junto con sus esposas, hijos y pequeños. 
 
-^28^ Moisés dijo: “Así es como sabrán que el Señor me envió para llevar a cabo todo lo que he hecho, porque no fue nada que surgiera de mi pernsamiento.^^ ^29^ Si estos hombres mueren de muerte natural, experimentando el destino de cada ser humano, entonces el Señor no me envió. ^30^ Pero si el Señor hace algo totalmente diferente, y la tierra se abre y se los traga junto con todo lo que les pertenece para que bajen vivos al Seol, entonces sabrán que estos hombres han actuado con desprecio ante Señor.” 
-^[**16:28** “Nada que surgiera de mi pensamiento”: literalmente, “no salió de mi mente,” porque se creía que el corazón era el lugar donde se generaban los pensamientos.]
+^28^ Moisés dijo: “Así es como sabrán que el Señor me envió para llevar a cabo todo lo que he hecho, porque no fue nada que surgiera de mi pernsamiento.^a^ ^29^ Si estos hombres mueren de muerte natural, experimentando el destino de cada ser humano, entonces el Señor no me envió. ^30^ Pero si el Señor hace algo totalmente diferente, y la tierra se abre y se los traga junto con todo lo que les pertenece para que bajen vivos al Seol, entonces sabrán que estos hombres han actuado con desprecio ante Señor.” 
+^a^[**16:28** “Nada que surgiera de mi pensamiento”: literalmente, “no salió de mi mente,” porque se creía que el corazón era el lugar donde se generaban los pensamientos.]
 
 ^31^ Tan pronto como Moisés terminó de decir todo esto, la tierra debajo de los rebeldes se abrió, ^32^ y la tierra se los tragó así como a sus hogares, y a todos los que estaban allí con Coré y todo lo que les pertenecía. ^33^ Bajaron vivos al Seol con todo lo que tenían. La tierra se cerró sobre ellos, y ya no estaban. 
 
@@ -471,8 +469,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 ^50^ Entonces Aarón regresó a Moisés a la entrada del Tabernáculo de Reunión porque la plaga había sido detenida. 
 
 # 17 
-^1^ El Señor le dijo a Moisés: ^2^ Dile a los israelitas que traigan doce bastones, uno del líder de cada tribu. Escriban el nombre de cada hombre en el bastón, ^3^ y escriban el nombre de Aarón en el bastón de la tribu de Leví, porque tiene que haber un bastón para el jefe de cada tribu. ^4^ Coloca los bastones en el Tabernáculo de Reunión frente al Testimonio^^donde me encuentro contigo. ^5^ El bastón que pertenece al hombre que yo elija brotará ramas, y pondré fin a las constantes quejas de los israelitas contra ti”. 
-^[**17:4** El testimonio se refería a las dos tablas de piedra de los Diez Mandamientos que se guardaban dentro del Arca.]
+^1^ El Señor le dijo a Moisés: ^2^ Dile a los israelitas que traigan doce bastones, uno del líder de cada tribu. Escriban el nombre de cada hombre en el bastón, ^3^ y escriban el nombre de Aarón en el bastón de la tribu de Leví, porque tiene que haber un bastón para el jefe de cada tribu. ^4^ Coloca los bastones en el Tabernáculo de Reunión frente al Testimonio^a^ donde me encuentro contigo. ^5^ El bastón que pertenece al hombre que yo elija brotará ramas, y pondré fin a las constantes quejas de los israelitas contra ti”. 
+^a^[**17:4** El testimonio se refería a las dos tablas de piedra de los Diez Mandamientos que se guardaban dentro del Arca.]
 
 ^6^ Moisés explicó esto a los israelitas, y cada uno de sus líderes le dio un bastón, uno para cada uno de los líderes de sus tribus. Así que había doce bastones incluyendo el de Aarón. ^7^ Moisés colocó los bastones ante el Señor en la Tienda del Testimonio. 
 
@@ -483,13 +481,13 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 ^12^ Entonces los israelitas vinieron y le dijeron a Moisés: “¿No ves que todos vamos a morir? ¡Nos van a destruir! ¡Nos van a matar a todos! ^13^ El que se atreva a acercarse al Tabernáculo del Señor morirá. ¿Nos van a aniquilar a todos?” 
 
 # 18 
-^1^ El Señor le dijo a Aarón: “Tú y tus hijos y los otros levitas son responsables de los pecados relacionados con el santuario. Sólo tú y tus hijos son responsables de los pecados relacionados con su sacerdocio. ^2^ Haz que tus hermanos de la tribu de Leví, la tribu de tu padre, se unan a ti para ayudarte a ti y a tus hijos con tu servicio en la Tienda del Testimonio. ^3^ Ellos se encargarán de tus responsabilidades y de las relacionadas con la Tienda, pero no deben acercarse demasiado a los objetos sagrados del santuario o del altar, de lo contrario morirán, y tú también. ^4^ Deben ayudarte y cuidar de las responsabilidades del Tabernáculo de Reunión, haciendo todo el trabajo en la Tienda, pero no se les permite estar contigo durante tu ministerio sacerdotal.^^ 
-^[**18:4** “Durante tu ministerio sacerdotal”: añadido para mayor claridad.]
+^1^ El Señor le dijo a Aarón: “Tú y tus hijos y los otros levitas son responsables de los pecados relacionados con el santuario. Sólo tú y tus hijos son responsables de los pecados relacionados con su sacerdocio. ^2^ Haz que tus hermanos de la tribu de Leví, la tribu de tu padre, se unan a ti para ayudarte a ti y a tus hijos con tu servicio en la Tienda del Testimonio. ^3^ Ellos se encargarán de tus responsabilidades y de las relacionadas con la Tienda, pero no deben acercarse demasiado a los objetos sagrados del santuario o del altar, de lo contrario morirán, y tú también. ^4^ Deben ayudarte y cuidar de las responsabilidades del Tabernáculo de Reunión, haciendo todo el trabajo en la Tienda, pero no se les permite estar contigo durante tu ministerio sacerdotal.^a^ 
+^a^[**18:4** “Durante tu ministerio sacerdotal”: añadido para mayor claridad.]
 
 ^5^ Debes llevar a cabo las responsabilidades relacionadas con el santuario y el altar, para que mi ira no vuelva a caer sobre los israelitas. ^6^ Mira, yo mismo he elegido a tus hermanos los levitas de los israelitas como mi regalo para ti, dedicado al Señor para hacer el trabajo que relaciona el Tabernáculo de Reunión. ^7^ Pero sólo tú y tus hijos son responsables de tu sacerdocio, haciendo todo lo que concierne al altar y está detrás del velo. Sólo tú debes realizar ese servicio. Te estoy dando el don de tu sacerdocio, pero cualquier otro que se acerque al santuario debe ser ejecutado.” 
 
-^8^ El Señor le dijo a Aarón, “Escucha, te he puesto a cargo de oficiar mis ofrendas. Todas las santas contribuciones de los israelitas que traen están reservadas para ti, y esta es una regla permanente. ^9^ Parte de las ofrendas más sagradas tomadas de los holocaustos son tuyas. Parte de todas las ofrendas que me dan como ofrendas sagradas, ya sean ofrendas de grano o de pecado o de culpa, esa parte pertenece a ti y a tus hijos. ^10^ Lo comerás en un lugar santísimo.^^A todo macho se le permite comerlo. Deben considerarlo como algo sagrado. 
-^[**18:10** Según lo requería la ley levítica: Ver por ejemplo Lev. 6:16, Lev. 16:26; Lev. 7:6.]
+^8^ El Señor le dijo a Aarón, “Escucha, te he puesto a cargo de oficiar mis ofrendas. Todas las santas contribuciones de los israelitas que traen están reservadas para ti, y esta es una regla permanente. ^9^ Parte de las ofrendas más sagradas tomadas de los holocaustos son tuyas. Parte de todas las ofrendas que me dan como ofrendas sagradas, ya sean ofrendas de grano o de pecado o de culpa, esa parte pertenece a ti y a tus hijos. ^10^ Lo comerás en un lugar santísimo.^a^ A todo macho se le permite comerlo. Deben considerarlo como algo sagrado. 
+^a^[**18:10** Según lo requería la ley levítica: Ver por ejemplo Lev. 6:16, Lev. 16:26; Lev. 7:6.]
 
 ^11^ También te pertenecen los regalos voluntarios y las ofrendas de los israelitas. Te he dado esto a ti y a tus hijos e hijas como una regla permanente. Todos los de tu casa que estén ceremonialmente limpios pueden comerlo. ^12^ Les doy el mejor aceite de oliva y el mejor vino y grano que los israelitas dan como primicias al Señor. ^13^ Las primicias de todas las cosechas que produzcan en su tierra y que traigan al Señor son tuyas. Todos los miembros de tu familia que estén ceremonialmente limpios pueden comerlas. 
 
@@ -497,8 +495,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 
 ^17^ Pero no se te permitirá redimir al primogénito de un buey, una oveja o una cabra porque son sagrados. Esparcirás su sangre sobre el altar y quemarás su grasa como holocausto aceptado por el Señor. ^18^ Su carne es tuya, de la misma manera que el pecho y el muslo derecho de la ofrenda ondulada son tuyos. 
 
-^19^ e doy todas las ofrendas voluntarias que los israelitas presentan al Señor así como a tus hijos e hijas como una regla permanente. Es un acuerdo permanente de sal^^ ante el Señor para ti y tus descendientes.” 
-^[**18:19** “Acuerdo permanente de sal”: se refiere a un acuerdo que no puede romperse. La sal se usaba como conservante, y las ofrendas al Señor incluían sal (ver Levítico 2:13).]
+^19^ e doy todas las ofrendas voluntarias que los israelitas presentan al Señor así como a tus hijos e hijas como una regla permanente. Es un acuerdo permanente de sal^a^ ante el Señor para ti y tus descendientes.” 
+^a^[**18:19** “Acuerdo permanente de sal”: se refiere a un acuerdo que no puede romperse. La sal se usaba como conservante, y las ofrendas al Señor incluían sal (ver Levítico 2:13).]
 
 ^20^ “No tendrás propiedades en su país, y no tendrás una parte de sus tierras. Yo soy tu parte y tu posesión entre los israelitas. ^21^ En cambio, he dado a los levitas todos los diezmos de Israel como compensación por el servicio que prestan al hacer el trabajo en el Tabernáculo de Reunión. 
 
@@ -509,8 +507,8 @@ Samúa hijo de Zacur, de la tribu de Rubén.
 ^30^ Así que di a los levitas, “Cuando hayas presentado la mejor parte, será considerada como tu contribución producida por tu trilladora o lagar. ^31^ stedes y sus familias pueden comerla en cualquier sitio porque es la compensación por su servicio en el Tabernáculo de Reunión. ^32^ No se considerará que han pecado si han presentado la mejor parte. Pero si tratan las sagradas ofrendas de los israelitas con falta de respeto morirán.’” 
 
 # 19 
-^1^ El Señor le dijo a Moisés y Aarón: ^2^ Esta es una norma que el Señor ha ordenado, diciendo, ‘Dile a los israelitas que te traigan una vaca roja^^ sin defectos, que nunca haya sido uncida. ^3^ Entrégasela al sacerdote Eleazar, y él la llevará fuera del campamento ylamandará a masacrar. ^4^ El sacerdote Eleazar pondrá un poco de su sangre en su dedo y la rociará siete veces hacia la entrada del Tabernáculo de Reunión. ^5^ Luego la vaca debe ser quemada mientras él observa. Todo debe ser quemado: su piel, carne y sangre, así como sus excrementos. ^6^ El sacerdote arrojará madera de cedro, hisopo e hilo carmesí sobre la vaca en llamas. 
-^[**19:2** “Vaca”: la palabra utilizada aquí se traduce generalmente como “novilla” que en inglés se refiere a una joven vaca hembra que no ha tenido un ternero. Sin embargo, como se desprende de 1 Samuel 6:7, la palabra también se utiliza para describir a una vaca que ha tenido un ternero y está produciendo leche.]
+^1^ El Señor le dijo a Moisés y Aarón: ^2^ Esta es una norma que el Señor ha ordenado, diciendo, ‘Dile a los israelitas que te traigan una vaca roja^a^ sin defectos, que nunca haya sido uncida. ^3^ Entrégasela al sacerdote Eleazar, y él la llevará fuera del campamento ylamandará a masacrar. ^4^ El sacerdote Eleazar pondrá un poco de su sangre en su dedo y la rociará siete veces hacia la entrada del Tabernáculo de Reunión. ^5^ Luego la vaca debe ser quemada mientras él observa. Todo debe ser quemado: su piel, carne y sangre, así como sus excrementos. ^6^ El sacerdote arrojará madera de cedro, hisopo e hilo carmesí sobre la vaca en llamas. 
+^a^[**19:2** “Vaca”: la palabra utilizada aquí se traduce generalmente como “novilla” que en inglés se refiere a una joven vaca hembra que no ha tenido un ternero. Sin embargo, como se desprende de 1 Samuel 6:7, la palabra también se utiliza para describir a una vaca que ha tenido un ternero y está produciendo leche.]
 
 ^7^ Entonces el sacerdote lavará sus ropas y su cuerpo en agua, y después podrá entrar en el campamento, pero permanecerá impuro hasta la noche. ^8^ La persona que quemó la vaca también lavará sus ropas y su cuerpo en agua, y él también permanecerá impuro hasta la noche. 
 
@@ -554,11 +552,11 @@ Escuchen, ahora estamos en Cades, un pueblo en la frontera de su territorio. ^17
 # 21 
 ^1^ El rey cananeo de Arad, que vivía en el Néguev, se enteró de que los israelitas se acercaban por el camino de Atharim. Fue y atacó a Israel y tomó a algunos de ellos prisioneros. ^2^ Así que Israel hizo una promesa solemne al Señor: “Si nos entregas a esta gente, nos comprometemos a destruir completamente sus pueblos.” 
 
-^3^ El Señor respondió a su invitación y les entregó a los cananeos. Los israelitas los destruyeron completamente a ellos y a sus pueblos, y llamaron al lugar Horma.^^ 
-^[**21:3** “Horma” significa “destrucción.”]
+^3^ El Señor respondió a su invitación y les entregó a los cananeos. Los israelitas los destruyeron completamente a ellos y a sus pueblos, y llamaron al lugar Horma.^a^ 
+^a^[**21:3** “Horma” significa “destrucción.”]
 
-^4^ Los israelitas dejaron el Monte Hor por el camino que lleva al Mar Rojo para evitar viajar por el país de Edom. Pero el pueblo se puso de mal humor en el camino ^5^ y se quejó contra Dios y contra Moisés, diciendo: “¿Por qué nos sacaste de Egipto para morir en el desierto? No tenemos ni pan ni agua, y odiamos esta horrible comida!”^^ 
-^[**21:5** “Horrible comida”: refiriéndose al maná.]
+^4^ Los israelitas dejaron el Monte Hor por el camino que lleva al Mar Rojo para evitar viajar por el país de Edom. Pero el pueblo se puso de mal humor en el camino ^5^ y se quejó contra Dios y contra Moisés, diciendo: “¿Por qué nos sacaste de Egipto para morir en el desierto? No tenemos ni pan ni agua, y odiamos esta horrible comida!”^a^ 
+^a^[**21:5** “Horrible comida”: refiriéndose al maná.]
 
 ^6^ Así que el Señor envió serpientes venenosas para atacarlos, y muchos israelitas fueron mordidos y murieron. 
 
@@ -578,8 +576,8 @@ Los israelitas dejaron el desierto y siguieron hasta Matanaá ^19^ Desde Mataná
 
 ^23^ Pero Sehón se negó a permitir que los israelitas viajaran por su territorio. En su lugar, llamó a todo su ejército y salió al encuentro de los israelitas de frente en el desierto. Cuando llegó a Jahaz, atacó a los israelitas. ^24^ Los israelitas los derrotaron, matándolos con sus espadas. Se apoderaron de su tierra desde el río Arnón hasta el río Jaboc, pero sólo hasta la frontera de los amonitas, porque estaba bien defendida. 
 
-^25^ Los israelitas conquistaron todos los pueblos amorreos y se apoderaron de ellos, incluyendo Hesbón y sus pueblos vecinos. ^26^ Hesbón era la capital de Sehón, rey de los amorreos, que había luchado contra el anterior rey de Moab y le había quitado todas sus tierras hasta el río Arnón. ^27^ Por eso los antiguos compositores escribieron: “¡Vengan a Hesbón y hagan que la reconstruyan; restauren la ciudad de Sehón! ^28^ Porque un fuego salió de Hesbón, una llama de la ciudad de Sihón. Quemó a Ar en Moab, donde los gobernantes viven en las alturas de Arnón. ^29^ ¡Qué desastre enfrentas, Moab! ¡Vais a morir todos, pueblo de Quemos!^^Entregaste a tus hijos como exiliados y a tus hijas como prisioneras a Sehón, rey de los amorreos. ^30^ ¡Pero ahora hemos derrotado a los amorreos! El gobierno de Heshbon ha sido destruido hasta Dibon. Los aniquilamos hasta Nofa y hasta Medeba”. 
-^[**21:29** Quemos era un dios al que se le presentaban sacrificios humanos.]
+^25^ Los israelitas conquistaron todos los pueblos amorreos y se apoderaron de ellos, incluyendo Hesbón y sus pueblos vecinos. ^26^ Hesbón era la capital de Sehón, rey de los amorreos, que había luchado contra el anterior rey de Moab y le había quitado todas sus tierras hasta el río Arnón. ^27^ Por eso los antiguos compositores escribieron: “¡Vengan a Hesbón y hagan que la reconstruyan; restauren la ciudad de Sehón! ^28^ Porque un fuego salió de Hesbón, una llama de la ciudad de Sihón. Quemó a Ar en Moab, donde los gobernantes viven en las alturas de Arnón. ^29^ ¡Qué desastre enfrentas, Moab! ¡Vais a morir todos, pueblo de Quemos!^a^ Entregaste a tus hijos como exiliados y a tus hijas como prisioneras a Sehón, rey de los amorreos. ^30^ ¡Pero ahora hemos derrotado a los amorreos! El gobierno de Heshbon ha sido destruido hasta Dibon. Los aniquilamos hasta Nofa y hasta Medeba”. 
+^a^[**21:29** Quemos era un dios al que se le presentaban sacrificios humanos.]
 
 ^31^ Los israelitas ocuparon el país de los amorreos. ^32^ Moisés envió hombres a explorar Jazer. Los israelitas conquistaron los pueblos de los alrededores y expulsaron a los amorreos que vivían allí. ^33^ Luego continuaron en el camino hacia Basán. Og, rey de Basán, dirigió a todo su ejército para enfrentarse a ellos de frente, y luchó contra ellos en Edrei. ^34^ El Señor le dijo a Moisés: “No tienes que temerle, porque yo te lo he entregado, junto con todo su pueblo y su tierra. Hazle lo que hiciste con Sehón, rey de los amorreos, que gobernó desde Hesbón”. 
 
@@ -592,8 +590,8 @@ Los israelitas dejaron el desierto y siguieron hasta Matanaá ^19^ Desde Mataná
 
 ^7^ Entonces los líderes moabitas y madianitas partieron, llevándose el pago de la adivinación con ellos. Cuando llegaron, le dieron a Balaam el mensaje de Balac. 
 
-^8^ “Pasen la noche y les haré saber la respuesta que me da el Señor^^,” les dijo Balaam. Así que los líderes moabitas se quedaron allí con Balaam. 
-^[**22:8** Aunque Balaam no es un israelita, usa su nombre para Dios.]
+^8^ “Pasen la noche y les haré saber la respuesta que me da el Señor^a^ ,” les dijo Balaam. Así que los líderes moabitas se quedaron allí con Balaam. 
+^a^[**22:8** Aunque Balaam no es un israelita, usa su nombre para Dios.]
 
 ^9^ Dios vino a Balaam y le preguntó: “¿Quiénes son estos hombres que están contigo?” 
 
@@ -607,15 +605,15 @@ Los israelitas dejaron el desierto y siguieron hasta Matanaá ^19^ Desde Mataná
 
 ^15^ Entonces Balac envió más líderes, unos que eran más prestigiosos que los anteriores. ^16^ Cuando llegaron le dijeron a Balaam: “Esto es lo que dice Balac hijo de Zipor: ‘Por favor, no dejes que nada te impida venir a verme, ^17^ porque te pagaré mucho y seguiré todos los consejos que me des. Por favor, ven y maldice a este pueblo por mí”. 
 
-^18^ Pero Balaam le dijo a los oficiales de Balac, “Aunque Balac me diera todo su palacio lleno de plata y oro, no podría desobedecer el mandato del Señor mi Dios de ninguna manera.^^ ^19^ Ahora también deberías pasar la noche para ver si el Señor tiene algo más que decirme.” 
-^[**22:18** “De ninguna manera”: literalmente, “Ya sea por poco o mucho.”]
+^18^ Pero Balaam le dijo a los oficiales de Balac, “Aunque Balac me diera todo su palacio lleno de plata y oro, no podría desobedecer el mandato del Señor mi Dios de ninguna manera.^a^ ^19^ Ahora también deberías pasar la noche para ver si el Señor tiene algo más que decirme.” 
+^a^[**22:18** “De ninguna manera”: literalmente, “Ya sea por poco o mucho.”]
 
 ^20^ Dios vino a Balaam durante la noche y le dijo, “Ya que estos hombres han venido por ti, levántate y ve con ellos. Pero sólo haz lo que yo te diga.” ^21^ Por la mañana Balaam se levantó, puso una silla en su burro y se fue con los líderes moabitas. 
 
 ^22^ Dios se enfadó porque Balaam había decidido irse. El ángel del Señor vino y se paró en el camino para enfrentarlo. Balaam iba montado en su burro, y estaba acompañado por sus dos sirvientes. ^23^ El burro vio al ángel del Señor de pie en el camino con una espada desenvainada, así que se apartó del camino y se fue a un campo. Así que Balaam lo golpeó para que volviera al camino. 
 
-^24^ Entonces el ángel del Señor se paró en una parte estrecha del camino que pasaba entre dos viñedos, con muros a ambos lados. ^25^ El burro vio al ángel del Señor e intentó pasar.^^Empujó contra la pared y aplastó el pie de Balaam contra ella. Así que lo golpeó de nuevo. 
-^[**22:25** “E intentó pasar”: añadido para mayor claridad.]
+^24^ Entonces el ángel del Señor se paró en una parte estrecha del camino que pasaba entre dos viñedos, con muros a ambos lados. ^25^ El burro vio al ángel del Señor e intentó pasar.^a^ Empujó contra la pared y aplastó el pie de Balaam contra ella. Así que lo golpeó de nuevo. 
+^a^[**22:25** “E intentó pasar”: añadido para mayor claridad.]
 
 ^26^ Entonces el ángel del Señor se adelantó y se paró en un lugar estrecho donde no había espacio para pasar, ni a la derecha ni a la izquierda. ^27^ El burro vio al ángel del Señor y se acostó bajo Balaam. Se enfadó y lo golpeó con su bastón. 
 
@@ -641,8 +639,8 @@ Los israelitas dejaron el desierto y siguieron hasta Matanaá ^19^ Desde Mataná
 
 ^39^ Así que Balaam se fue con Balac y llegaron a Quiriath-huzot. ^40^ alac sacrificó ganado y ovejas, y compartió la carne con Balaam y los líderes que estaban con él. 
 
-^41^ A la mañana siguiente Balac llevó a Balaam hasta Bamot-baal.^^ Desde allí pudo ver la extensión del campamento israelita.
-^[**22:41** “Bamot-baal”: que significa “Los Altos Lugares de Baal”. Algunos han llegado a la conclusión de que un templo pagano a Baal ocupaba este punto alto.] 
+^41^ A la mañana siguiente Balac llevó a Balaam hasta Bamot-baal.^a^ Desde allí pudo ver la extensión del campamento israelita.
+^a^[**22:41** “Bamot-baal”: que significa “Los Altos Lugares de Baal”. Algunos han llegado a la conclusión de que un templo pagano a Baal ocupaba este punto alto.] 
 
 # 23 
 ^1^ Entonces Balaam le dijo a Balac, “Constrúyeme siete altares aquí, y prepárame siete toros y siete carneros para un sacrificio”. ^2^ alac hizo lo que Balaam había dicho, y juntos ofrecieron un toro y un carnero en cada altar. 
@@ -702,8 +700,8 @@ Los israelitas dejaron el desierto y siguieron hasta Matanaá ^19^ Desde Mataná
 # 24 
 ^1^ Cuando Balaam vio que el Señor quería bendecir a Israel, eligió no usar la adivinación como lo había hecho anteriormente. En su lugar se volvió hacia el desierto, ^2^ y al mirar a Israel acampado allí según sus respectivas tribus, el Espíritu de Dios vino sobre él. ^3^ Hizo una declaración, diciendo: 
 
-^4^ “Esta es la profecía de Balaam, hijo de Beor, la profecía de un hombre que ve con los ojos bien abiertos,^^ la profecía de uno que oye las palabras de Dios, que ve la visión dada por el Todopoderoso, que se inclina con respeto con los ojos abiertos. 
-^[**24:4** “Con los ojos abiertos”: Esta palabra sólo aparece aquí y en el versículo 15. Se traduce como “cerrado” o “abierto”, sin embargo, el significado es esencialmente claro en que Balaam se refiere a la visión profética. La Vulgata Latina tiene “Ojos que están bloqueados” mientras que la Septuaginta Griega dice:“el que ve realmente.”]
+^4^ “Esta es la profecía de Balaam, hijo de Beor, la profecía de un hombre que ve con los ojos bien abiertos,^a^ la profecía de uno que oye las palabras de Dios, que ve la visión dada por el Todopoderoso, que se inclina con respeto con los ojos abiertos. 
+^a^[**24:4** “Con los ojos abiertos”: Esta palabra sólo aparece aquí y en el versículo 15. Se traduce como “cerrado” o “abierto”, sin embargo, el significado es esencialmente claro en que Balaam se refiere a la visión profética. La Vulgata Latina tiene “Ojos que están bloqueados” mientras que la Septuaginta Griega dice:“el que ve realmente.”]
 
 ^5^ ¡Qué bien puestas tus tiendas, Jacob; los lugares donde vives, Israel! ^6^ Parecen valles boscosos, como jardines junto a un río, como árboles de áloe que el Señor ha plantado, como cedros a la orilla del agua. ^7^ Los israelitas derramarán cubos de agua; sus descendientes tendrán mucha agua. Su rey será más grande que el rey Agag; su reino será glorioso. ^8^ Dios los sacó de Egipto con gran poder, tan fuerte como un buey, destruyendo a las naciones enemigas, rompiéndoles los huesos, atravesándolos con flechas. ^9^ Son como un león que se agacha y se acuesta. Son como una leona que nadie se atreve a molestar. Quienes los bendigan serán bendecidos; y quienes los maldigan serán malditos”. 
 
@@ -713,9 +711,8 @@ Los israelitas dejaron el desierto y siguieron hasta Matanaá ^19^ Desde Mataná
 
 ^15^ Entonces Balaam hizo una declaración, diciendo: “Esta es la profecía de Balaam, hijo de Beor, la profecía de un hombre con los ojos bien abiertos ^16^ la profecía de uno que escucha las palabras de Dios, que recibe el conocimiento del Altísimo, que ve la visión dada por el Todopoderoso, que se inclina con respeto con los ojos abiertos. 
 
-^17^ Lo veo, pero esto no es ahora. Lo observo, pero esto no está cerca. En el futuro, un líder como una estrella vendrá de Jacob, un gobernante con un cetro llegará al poder desde Israel. Aplastará las cabezas de los moabitas, y destruirá a todo el pueblo de Set.^^ ^18^ El país de Edom será conquistado, su enemigo Seir^^serán conquistados, y los israelitas saldrán victoriosos. ^19^ Un gobernante de Jacob vendrá y destruirá a los que queden en la ciudad.” 
-^[**24:17** “El pueblo de Set”: si esto se tomara literalmente, tal descripción también incluiría a los israelitas como descendientes de Set. En el contexto de la poesía paralela hebrea aquí probablemente se refiere específicamente a los moabitas. En el pasaje paralelo de Jeremías 48:45 se lee “pueblo rebelde.”]
-^[**24:18** Seir era el nombre antiguo de Edom.]
+^17^ Lo veo, pero esto no es ahora. Lo observo, pero esto no está cerca. En el futuro, un líder como una estrella vendrá de Jacob, un gobernante con un cetro llegará al poder desde Israel. Aplastará las cabezas de los moabitas, y destruirá a todo el pueblo de Set.^a^ ^18^ El país de Edom será conquistado, su enemigo Seir^b^ serán conquistados, y los israelitas saldrán victoriosos. ^19^ Un gobernante de Jacob vendrá y destruirá a los que queden en la ciudad.” 
+^a^[**24:17** “El pueblo de Set”: si esto se tomara literalmente, tal descripción también incluiría a los israelitas como descendientes de Set. En el contexto de la poesía paralela hebrea aquí probablemente se refiere específicamente a los moabitas. En el pasaje paralelo de Jeremías 48:45 se lee “pueblo rebelde.”] ^b^[**24:18** Seir era el nombre antiguo de Edom.]
 
 ^20^ Balaam dirigió su atención a los amalecitas y dio esta declaración sobre ellos, diciendo, “Amalec fue el primero entre las naciones, pero terminarán siendo destruidos”. 
 
@@ -728,11 +725,11 @@ Los israelitas dejaron el desierto y siguieron hasta Matanaá ^19^ Desde Mataná
 # 25 
 ^1^ Cuando los israelitas se alojaban en Sitím los hombres empezaron a tener sexo con mujeres moabitas ^2^ que los invitaban a los sacrificios hechos a sus dioses. Los israelitas comían las comidas paganas y se inclinaban ante estos dioses. ^3^ De esta manera los israelitas se dedicaban a la adoración de Baal de Peor, y el Señor estaba enojado con ellos. 
 
-^4^ El Señor le dijo a Moisés, “Arresta a todos los líderes israelitas y mátalos ante el Señor donde todos puedan ver^^ para alejar la furiosa ira del Señor del pueblo.” 
-^[**25:4** “Donde todos puedan ver”: literalmente, “delante del sol.”]
+^4^ El Señor le dijo a Moisés, “Arresta a todos los líderes israelitas y mátalos ante el Señor donde todos puedan ver^a^ para alejar la furiosa ira del Señor del pueblo.” 
+^a^[**25:4** “Donde todos puedan ver”: literalmente, “delante del sol.”]
 
-^5^ Así que Moisés instruyó a los jueces de Israel,^^“Cada uno de ustedes tiene que matar a todos sus hombres que se han dedicado a adorar a Baal de Peor.” 
-^[**25:5** Estos eran “jueces líderes” que desempeñaban más que un rol legal en la sociedad israelita.]
+^5^ Así que Moisés instruyó a los jueces de Israel,^a^ “Cada uno de ustedes tiene que matar a todos sus hombres que se han dedicado a adorar a Baal de Peor.” 
+^a^[**25:5** Estos eran “jueces líderes” que desempeñaban más que un rol legal en la sociedad israelita.]
 
 ^6^ En ese momento un hombre israelita llevó a una mujer madianita a la tienda de su familia a la vista de Moisés y de todos los israelitas mientras lloraban a la entrada del Tabernáculo de Reunión. ^7^ Al ver esto, Finees, hijo de Eleazar, hijo del sacerdote Aarón, abandonó la asamblea, agarró una lanza ^8^ y siguió al hombre a su tienda. Allí, Finees atravesó con la lanza a ambos, al israelita y al estómago de la mujer. Esta acción detuvo la plaga que había empezado a matar a los israelitas, ^9^ pero ya habían muerto 24.000. 
 
@@ -753,15 +750,13 @@ El siguiente es el registro genealógico de los que dejaron la tierra de Egipto.
 
 Hanoc, antepasado de la familia hanocítica; Falú, antepasado de la familia faluita; ^6^ Hezrón, antepasado de la familia hezronita; y Carmi, antepasado de la familia carmita. ^7^ Estas fueron las familias descendientes de Rubén y fueron 43.730. ^8^ El hijo de Falú era Eliab, ^9^ y los hijos de Eliab eran Nemuel, Datán y Abiram. (Fueron Datán y Abiram, líderes escogidos por los israelitas, los que se unieron a la rebelión contra Moisés y Aarón con los seguidores de Coré cuando se rebelaron contra el Señor. ^10^ La tierra se abrió y se los tragó, junto con Coré. Sus seguidores murieron cuando el fuego quemó a 250 hombres. Lo que les sucedió fue una advertencia para los israelitas. ^11^ Pero los hijos de Coré no murieron). ^12^ Estos fueron los descendientes de Simeón por familia: 
 
-Nemuel,^^antepasado de la familia Nemuelita; Jamin, antepasado de la familia Jaminita; Jacín, antepasado de la familia Jaquinita; ^13^ Zera,^^ancestro de la familia Zeraita; y Saul, ancestro de la familia Saulita. ^14^ Estas eran las familias descendientes de Simeón y eran 22.200. 
-^[**26:12** Or “Jemuel,” see the parallel lists in Genesis 46:10 y Exodus 6:15.]
-^[**26:13** Escrito también como “Zojar” en las listas paralelas de Génesis 46:10 y Éxodo 6:15.]
+Nemuel,^a^ antepasado de la familia Nemuelita; Jamin, antepasado de la familia Jaminita; Jacín, antepasado de la familia Jaquinita; ^13^ Zera,^b^ ancestro de la familia Zeraita; y Saul, ancestro de la familia Saulita. ^14^ Estas eran las familias descendientes de Simeón y eran 22.200. 
+^a^[**26:12** Or “Jemuel,” see the parallel lists in Genesis 46:10 y Exodus 6:15.] ^b^[**26:13** Escrito también como “Zojar” en las listas paralelas de Génesis 46:10 y Éxodo 6:15.]
 
 ^15^ Estos fueron los descendientes de Gad por familia: 
 
-Sefón,^^ancestro de la familia sefonita; Haggi, ancestro de la familia Haggite; Shuni, ancestro de la familia Shunite; ^16^ Ozni, ancestro de la familia Oznite; Eri, ancestro de la familia Erite; ^17^ Arod,^^antepasado de la familia Arodita; Areli, antepasado de la familia Arelite. ^18^ Estas eran las familias descendientes de Gad y eran 40.500. 
-^[**26:15** Escrito también Zefón en Génesis 46:15.]
-^[**26:17** Escrito también como Arodí en Génesis 46:16.]
+Sefón,^a^ ancestro de la familia sefonita; Haggi, ancestro de la familia Haggite; Shuni, ancestro de la familia Shunite; ^16^ Ozni, ancestro de la familia Oznite; Eri, ancestro de la familia Erite; ^17^ Arod,^b^ antepasado de la familia Arodita; Areli, antepasado de la familia Arelite. ^18^ Estas eran las familias descendientes de Gad y eran 40.500. 
+^a^[**26:15** Escrito también Zefón en Génesis 46:15.] ^b^[**26:17** Escrito también como Arodí en Génesis 46:16.]
 
 ^19^ Los hijos de Judá que murieron en Canaán fueron Er y Onan. Estos eran los descendientes de Judá por familia: 
 
@@ -769,8 +764,8 @@ Sefón,^^ancestro de la familia sefonita; Haggi, ancestro de la familia Haggite;
 
 ^23^ Estos fueron los descendientes de Isacar por familia: 
 
-Tola, antepasado de la familia tolaíta; Púa,^^ antepasado de la familia punita; ^24^ Jasub, antepasado de la familia jasubita; y Simrón, antepasado de la familia simronita. ^25^ Estas eran las familias descendientes de Isacar y sumaban 64.300. 
-^[**26:23** Escrito como “Puah” en algunas traducciones antiguas.]
+Tola, antepasado de la familia tolaíta; Púa,^a^ antepasado de la familia punita; ^24^ Jasub, antepasado de la familia jasubita; y Simrón, antepasado de la familia simronita. ^25^ Estas eran las familias descendientes de Isacar y sumaban 64.300. 
+^a^[**26:23** Escrito como “Puah” en algunas traducciones antiguas.]
 
 ^26^ Estos eran los descendientes de Zabulón por familia: 
 
@@ -786,8 +781,8 @@ Sutela, antepasado de la familia sutelaíta; Bequer, antepasado de la familia be
 
 ^38^ Estos eran los descendientes de Benjamín por familia: 
 
-Bela, antepasado de la familia Belaite; Asbel, antepasado de la familia asbelita; Ahiram, antepasado de la familia ahiramita; ^39^ Sufán,^^antepasado de la familia sufamita; y Hufam, antepasado de la familia hufamita. ^40^ Los descendientes de Bela fueron Ard, ancestro de la familia de arditas; y Naamán, ancestro de la familia Naamita. ^41^ Estas fueron las familias descendientes de Benjamín, y sumaban 45.600. 
-^[**26:39** O “Sefufán.”]
+Bela, antepasado de la familia Belaite; Asbel, antepasado de la familia asbelita; Ahiram, antepasado de la familia ahiramita; ^39^ Sufán,^a^ antepasado de la familia sufamita; y Hufam, antepasado de la familia hufamita. ^40^ Los descendientes de Bela fueron Ard, ancestro de la familia de arditas; y Naamán, ancestro de la familia Naamita. ^41^ Estas fueron las familias descendientes de Benjamín, y sumaban 45.600. 
+^a^[**26:39** O “Sefufán.”]
 
 ^42^ Estos fueron los descendientes de Dan por familia: 
 
@@ -818,8 +813,8 @@ Gerson, antepasado de la familia gersonita; Coat, antepasado de la familia coati
 ^64^ Sin embargo, no incluyeron ni uno solo que hubiera sido censado previamente por Moisés y el sacerdote Aarón cuando contaron a los israelitas en el desierto del Sinaí, ^65^ porque el Señor les había dicho que todos morirían en el desierto. No quedó nadie excepto Caleb, hijo de Jefone, y Josué, hijo de Nun. 
 
 # 27 
-^1^ Las hijas de Zelofead vinieron a presentar su caso.^^Su padre Zelofehad era hijo de Hefer, hijo de Galaad, hijo de Maquir, hijo de Manasés, y era de la tribu de Manasés, hijo de José. Los nombres de sus hijas eran Maala, Noa, Hogla, Milca y Tirsa. Vinieron ^2^ y se presentaron ante Moisés, el sacerdote Eleazar, los líderes y todos los israelitas a la entrada del Tabernáculo de Reunión. Dijeron, ^3^ Nuestro padre murió en el desierto, pero no era uno de los seguidores de Coré que se unieron para rebelarse contra el Señor. No, murió por sus propios pecados, y no tuvo hijos. ^4^ ¿Por qué debería perderse el nombre de nuestra familia simplemente porque no tuvo un hijo? Danos tierra para que la poseamos junto a nuestros tíos”. 
-^[**27:1** Ver también Josué 17:3-6.]
+^1^ Las hijas de Zelofead vinieron a presentar su caso.^a^ Su padre Zelofehad era hijo de Hefer, hijo de Galaad, hijo de Maquir, hijo de Manasés, y era de la tribu de Manasés, hijo de José. Los nombres de sus hijas eran Maala, Noa, Hogla, Milca y Tirsa. Vinieron ^2^ y se presentaron ante Moisés, el sacerdote Eleazar, los líderes y todos los israelitas a la entrada del Tabernáculo de Reunión. Dijeron, ^3^ Nuestro padre murió en el desierto, pero no era uno de los seguidores de Coré que se unieron para rebelarse contra el Señor. No, murió por sus propios pecados, y no tuvo hijos. ^4^ ¿Por qué debería perderse el nombre de nuestra familia simplemente porque no tuvo un hijo? Danos tierra para que la poseamos junto a nuestros tíos”. 
+^a^[**27:1** Ver también Josué 17:3-6.]
 
 ^5^ Moisés llevó su caso ante el Señor. ^6^ El Señor le dio esta respuesta, ^7^ Lo que las hijas de Zelofehad están diciendo es correcto. Debes darles tierra para que la posean junto a sus tíos, dales lo que se le habría asignado a su padre. ^8^ Además, dile a los israelitas: “Si un hombre muere y no tiene un hijo, dale su propiedad a su hija. ^9^ Si no tiene una hija, da su propiedad a sus hermanos. ^10^ Si no tiene hermanos, dé su propiedad a los hermanos de su padre. ^11^ Si su padre no tiene hermanos, déle su propiedad a los parientes más cercanos de su familia para que puedan ser dueños de ella. Esta es una regulación legal para los israelitas, dada como una orden del Señor a Moisés.” 
 
@@ -827,14 +822,14 @@ Gerson, antepasado de la familia gersonita; Coat, antepasado de la familia coati
 
 ^15^ Entonces Moisés suplicó al Señor, ^16^ Que el Señor, el Dios que da la vida a todos los seres vivos, elija un hombre que guíe a los israelitas ^17^ que les diga qué hacer y les muestre dónde ir, para que el pueblo del Señor no sea como ovejas sin pastor”. 
 
-^18^ El Señor le dijo a Moisés: “Llama a Josué, hijo de Nun, un hombre que tiene el Espíritu en él, y pon tus manos sobre él. ^19^ Haz que se ponga delante del sacerdote Eleazar y de todos los israelitas, y dedícalo mientras ellos velan. ^20^ Entrégale algo de tu autoridad para que todos los israelitas le obedezcan. ^21^ Cuando necesite instrucciones deberá ir ante Eleazar, el sacerdote, quien orará al Señor en su nombre y consultará la decisión usando el Urim.^^ Josué les dará órdenes a todos los israelitas sobre todo lo que deben hacer.” 
-^[**27:21** Elemento que se usaba para determinar la voluntad del Señor. Ver Éxodo 28:30, Levítico 8:8.]
+^18^ El Señor le dijo a Moisés: “Llama a Josué, hijo de Nun, un hombre que tiene el Espíritu en él, y pon tus manos sobre él. ^19^ Haz que se ponga delante del sacerdote Eleazar y de todos los israelitas, y dedícalo mientras ellos velan. ^20^ Entrégale algo de tu autoridad para que todos los israelitas le obedezcan. ^21^ Cuando necesite instrucciones deberá ir ante Eleazar, el sacerdote, quien orará al Señor en su nombre y consultará la decisión usando el Urim.^a^ Josué les dará órdenes a todos los israelitas sobre todo lo que deben hacer.” 
+^a^[**27:21** Elemento que se usaba para determinar la voluntad del Señor. Ver Éxodo 28:30, Levítico 8:8.]
 
 ^22^ Moisés siguió las instrucciones del Señor. Hizo que Josué viniera y se pusiera delante del sacerdote Eleazar y de todos los israelitas. ^23^ Moisés puso sus manos sobre Josué y lo dedicó, tal como el Señor le había dicho que hiciera. 
 
 # 28 
-^1^ El Señor le dijo a Moisés: ^2^ Dales las siguientes normas a los israelitas:^^ ‘Debes presentarme en el momento apropiado mis ofrendas de comida para que las acepte. ^3^ Diles que debes presentar al Señor cada día dos corderos machos de un año como holocausto continua. ^4^ Ofrece un cordero por la mañana y otro por la tarde antes de que oscurezca, ^5^ junto con una décima parte de una efa de la mejor harina para una ofrenda de grano, mezclada con un cuarto de hin de aceite de oliva prensado. 
-^[**28:2** Este pasaje es paralelo a las instrucciones dadas en Éxodo 29:38-41.]
+^1^ El Señor le dijo a Moisés: ^2^ Dales las siguientes normas a los israelitas:^a^ ‘Debes presentarme en el momento apropiado mis ofrendas de comida para que las acepte. ^3^ Diles que debes presentar al Señor cada día dos corderos machos de un año como holocausto continua. ^4^ Ofrece un cordero por la mañana y otro por la tarde antes de que oscurezca, ^5^ junto con una décima parte de una efa de la mejor harina para una ofrenda de grano, mezclada con un cuarto de hin de aceite de oliva prensado. 
+^a^[**28:2** Este pasaje es paralelo a las instrucciones dadas en Éxodo 29:38-41.]
 
 ^6^ Este es un holocausto continuo que se inició en el Monte Sinaí como una ofrenda aceptable para el Señor. ^7^ La ofrenda de bebida que acompaña a cada cordero debe ser un cuarto de hin. Vierte la ofrenda de bebida fermentada al Señor en el santuario. ^8^ Ofrecerás el segundo cordero por la tarde antes de que oscurezca, junto con las mismas ofrendas de grano y bebida que por la mañana. Es un holocausto aceptable para el Señor. 
 
@@ -846,8 +841,8 @@ Gerson, antepasado de la familia gersonita; Coat, antepasado de la familia coati
 
 ^16^ La Pascua del Señor es el día catorce del primer mes. ^17^ Habrá una fiesta a los quince días de este mes, y durante siete días sólo se comerá pan sin levadura. ^18^ Celebrarán una reunión sagrada el primer día de la fiesta. No hagan ninguna actividad de su trabajo normal. ^19^ Preséntense ante el Señor con las siguientes ofrendas: un holocausto de dos novillos, un carnero y siete corderos de un año, todos ellos sin defectos. ^20^ Sus ofrendas de grano se harán con la mejor harina mezclada con aceite de oliva: tres décimas de efa para cada toro, dos décimas de efa para el carnero, ^21^ y una décima de efa para cada uno de los siete corderos. ^22^ Presenten también una cabra macho como ofrenda por el pecado para hacerte justicia. ^23^ Deben presentar estas ofrendas además del continuo holocausto de la mañana. ^24^ Presenta las mismas ofrendas todos los días durante siete días como holocausto para ser aceptado por el Señor. Deben ser ofrecidas con su libación y el continuo holocausto. ^25^ Celebren una reunión sagrada el séptimo día del festival. Ese día no harán su trabajo usual. 
 
-^26^ Durante la celebración del Festival de las Semanas,^^celebrarán una reunión sagrada el día de las primicias cuando presenten una ofrenda de grano nuevo al Señor. No hagan ningún tipo de trabajo. ^27^ Presenten un holocausto de dos novillos, un carnero y siete corderos de un año para ser aceptados por el Señor. ^28^ Deben ir acompañados de sus ofrendas de grano de la mejor harina mezclada con aceite de oliva: tres décimos de un efa para cada toro, dos décimos de un efa para el carnero, ^29^ y un décimo de un efa para cada uno de los siete corderos. ^30^ Presenten también una cabra macho como ofrenda para que los justifique. ^31^ Presenten estas ofrendas junto con sus libaciones además del holocausto continuo y su ofrenda de grano. Asegúrate de que los animales sacrificados no tengan defectos.”
-^[**28:26** También llamado el “Festival de la Cosecha” en Éxodo 23:16.] 
+^26^ Durante la celebración del Festival de las Semanas,^a^ celebrarán una reunión sagrada el día de las primicias cuando presenten una ofrenda de grano nuevo al Señor. No hagan ningún tipo de trabajo. ^27^ Presenten un holocausto de dos novillos, un carnero y siete corderos de un año para ser aceptados por el Señor. ^28^ Deben ir acompañados de sus ofrendas de grano de la mejor harina mezclada con aceite de oliva: tres décimos de un efa para cada toro, dos décimos de un efa para el carnero, ^29^ y un décimo de un efa para cada uno de los siete corderos. ^30^ Presenten también una cabra macho como ofrenda para que los justifique. ^31^ Presenten estas ofrendas junto con sus libaciones además del holocausto continuo y su ofrenda de grano. Asegúrate de que los animales sacrificados no tengan defectos.”
+^a^[**28:26** También llamado el “Festival de la Cosecha” en Éxodo 23:16.] 
 
 # 29 
 ^1^ “Celebren una reunión sagrada el primer día del séptimo mes. No hagas nada de tu trabajo normal. Este es el día en que tocarás las trompetas. ^2^ Presenten un holocausto de un novillo, un carnero y siete corderos machos de un año, todos ellos sin defectos, como sacrificio aceptable al Señor, ^3^ junto con sus ofrendas de grano de la mejor harina mezclada con aceite de oliva: tres décimos de un efa para el toro, dos décimos de un efa para el carnero, ^4^ y un décimo de un efa para cada uno de los siete corderos machos. ^5^ Presenten también una cabra macho como ofrenda por el pecado para hacerte justicia. ^6^ Estas ofrendas se suman a los holocaustos mensuales y diarios junto con las ofrendas de grano y las ofrendas de bebida requeridas. Son ofrendas quemadas aceptables para el Señor. 
@@ -921,8 +916,8 @@ Gerson, antepasado de la familia gersonita; Coat, antepasado de la familia coati
 ^51^ El sacerdote Moisés y Eleazar aceptaron de ellos todos los objetos de oro. ^52^ El oro que los comandantes de miles y cientos de personas dieron como ofrenda al Señor pesaba en total 16.750 siclos. ^53^ (Los hombres que habían luchado en la batalla habían tomado cada uno un botín para sí mismos.) ^54^ Moisés y el sacerdote Eleazar aceptaron el oro de los comandantes de miles y cientos y lo llevaron al Tabernáculo de Reunión como ofrenda conmemorativa para los israelitas en presencia del Señor. 
 
 # 32 
-^1^ Las tribus de Rubén y Gad tenían grandes cantidades de ganado y vieron que la tierra de Jazer y Galaad era un buen lugar para criarlos. ^2^ Entonces vinieron a Moisés, al sacerdote Eleazar y a los líderes israelitas y dijeron, ^3^ Las ciudades de Atarot, Dibón, Jazer, Nimra, Hesbón, Eleale, Sebam,^^Nebo y Beón, ^4^ que el Señor conquistó a la vista de los israelitas, son adecuados para el ganado que poseemos tus siervos”. 
-^[**32:3** También conocido como Sibma en el versículo 38.]
+^1^ Las tribus de Rubén y Gad tenían grandes cantidades de ganado y vieron que la tierra de Jazer y Galaad era un buen lugar para criarlos. ^2^ Entonces vinieron a Moisés, al sacerdote Eleazar y a los líderes israelitas y dijeron, ^3^ Las ciudades de Atarot, Dibón, Jazer, Nimra, Hesbón, Eleale, Sebam,^a^ Nebo y Beón, ^4^ que el Señor conquistó a la vista de los israelitas, son adecuados para el ganado que poseemos tus siervos”. 
+^a^[**32:3** También conocido como Sibma en el versículo 38.]
 
 ^5^ Continuaron: “Por favor, responde favorablemente a nuestra petición: danos esta tierra. No nos hagas cruzar el Jordán”. 
 
@@ -955,8 +950,8 @@ Gerson, antepasado de la familia gersonita; Coat, antepasado de la familia coati
 
 ^7^ Se alejaron de Etam, volviendo a Pi-hahiroth, frente a Baal-zefón, y acamparon cerca de Migdol. 
 
-^8^ Se mudaron de Pi-hahirot^^y cruzó por el medio del mar hacia el desierto. Viajaron durante tres días al desierto de Etham y establecieron un campamento en Marah. 
-^[**33:8** Ver Éxodo 14:2.]
+^8^ Se mudaron de Pi-hahirot^a^ y cruzó por el medio del mar hacia el desierto. Viajaron durante tres días al desierto de Etham y establecieron un campamento en Marah. 
+^a^[**33:8** Ver Éxodo 14:2.]
 
 ^9^ Se desplazaron desde Mara y llegaron a Elim, donde había doce manantiales de agua y setenta palmeras, y acamparon allí. 
 
@@ -1026,8 +1021,8 @@ Gerson, antepasado de la familia gersonita; Coat, antepasado de la familia coati
 
 ^44^ Se trasladaron de Oboth y acamparon en Iye-abarim, en la frontera de Moab. 
 
-^45^ Se mudaron de Iye-abarim^^y acamparon en Dibon-gad. 
-^[**33:45** Como se escribe en el versículo 21:11. Aquí el nombre se menciona como “Iyim.”]
+^45^ Se mudaron de Iye-abarim^a^ y acamparon en Dibon-gad. 
+^a^[**33:45** Como se escribe en el versículo 21:11. Aquí el nombre se menciona como “Iyim.”]
 
 ^46^ Se mudaron de Dibon-gad y acamparon en Almon-diblataim. 
 
@@ -1035,17 +1030,17 @@ Gerson, antepasado de la familia gersonita; Coat, antepasado de la familia coati
 
 ^48^ Se trasladaron de las montañas de Abarim y acamparon en las llanuras de Moab, junto al Jordán, frente a Jericó. 
 
-^49^ Allí, en las llanuras de Moab, acamparon al lado del Jordán, desde Beth-jesimot hasta Abel-sitim. ^50^ Aquí fue donde, en la llanura de Moab junto al Jordán, frente a Jericó, el Señor le dijo a Moisés, ^51^ Dile a los israelitas:‘Tan pronto crucen el Jordán y entren en el país de Canaán, ^52^ deben expulsar a todos los que viven en la tierra, destruir todas sus imágenes talladas e ídolos de metal, y derribar todos sus templos paganos.^^ ^53^ Debes tomar el país y establecerte allí, porque te he dado la tierra y te pertenece. ^54^ Debes dividir la tierra y asignarla por sorteo a las diferentes familias tribales. Dale una porción más grande a una familia más grande, y una porción más pequeña a una familia más pequeña. La asignación de cada uno se decide por sorteo, y todos ustedes recibirán una asignación dependiendo de su tribu. 
-^[**33:52** “Templos paganos”: literalmente, “lugares altos.”]
+^49^ Allí, en las llanuras de Moab, acamparon al lado del Jordán, desde Beth-jesimot hasta Abel-sitim. ^50^ Aquí fue donde, en la llanura de Moab junto al Jordán, frente a Jericó, el Señor le dijo a Moisés, ^51^ Dile a los israelitas:‘Tan pronto crucen el Jordán y entren en el país de Canaán, ^52^ deben expulsar a todos los que viven en la tierra, destruir todas sus imágenes talladas e ídolos de metal, y derribar todos sus templos paganos.^a^ ^53^ Debes tomar el país y establecerte allí, porque te he dado la tierra y te pertenece. ^54^ Debes dividir la tierra y asignarla por sorteo a las diferentes familias tribales. Dale una porción más grande a una familia más grande, y una porción más pequeña a una familia más pequeña. La asignación de cada uno se decide por sorteo, y todos ustedes recibirán una asignación dependiendo de su tribu. 
+^a^[**33:52** “Templos paganos”: literalmente, “lugares altos.”]
 
 ^55^ Pero si no expulsan a todos los que viven en la tierra, las personas que dejen permanecer serán como arena en sus ojos y espinas en sus costados. Les causarán problemas cuando se establezcan en el país. ^56^ Eventualmente, el castigo que planeé para ellos se los infligiré a ustedes.” 
 
 # 34 
-^1^ El Señor le dijo a Moisés, ^2^ Dales esta orden a los israelitas: ‘Cuando entren en el país de Canaán, se les asignarán las posesiones con los siguientes límites:^^ 
-^[**34:2** Otros pasajes que incluyen demarcaciones de límites son: Josué 13:8-33, Josué 14:1-19:51, Ezequiel 47:13-20.]
+^1^ El Señor le dijo a Moisés, ^2^ Dales esta orden a los israelitas: ‘Cuando entren en el país de Canaán, se les asignarán las posesiones con los siguientes límites:^a^ 
+^a^[**34:2** Otros pasajes que incluyen demarcaciones de límites son: Josué 13:8-33, Josué 14:1-19:51, Ezequiel 47:13-20.]
 
-^3^ La extensión sur de su país será desde el desierto de Zin a lo largo de la frontera de Edom. Su frontera sur correrá hacia el este desde el final del Mar Muerto, ^4^ cruzará al sur del Paso del Escorpión, hasta Zin, y alcanzará su límite sur al sur de Cades-barnea. Luego irá a Hazar-addar y a Azmon. ^5^ TAllí la frontera girará desde Azmon hasta el Wadi de Egipto,^^ terminando en el Mar Mediterráneo. 
-^[**34:5** Normalmente se identifica como Wadi El-Arish. No se cree que se refiera al Nilo.]
+^3^ La extensión sur de su país será desde el desierto de Zin a lo largo de la frontera de Edom. Su frontera sur correrá hacia el este desde el final del Mar Muerto, ^4^ cruzará al sur del Paso del Escorpión, hasta Zin, y alcanzará su límite sur al sur de Cades-barnea. Luego irá a Hazar-addar y a Azmon. ^5^ TAllí la frontera girará desde Azmon hasta el Wadi de Egipto,^a^ terminando en el Mar Mediterráneo. 
+^a^[**34:5** Normalmente se identifica como Wadi El-Arish. No se cree que se refiera al Nilo.]
 
 ^6^ Su frontera occidental será la costa del Mar Mediterráneo. Este será su límite al oeste. 
 
@@ -1082,8 +1077,8 @@ De la tribu de Judá: Caleb, hijo de Jefone.
 # 35 
 ^1^ El Señor le habló a Moisés en las llanuras de Moab junto al Jordán, frente a Jericó. Le dijo, ^2^ Ordena a los israelitas que provean de sus ciudades de asignación de tierras para que los levitas vivan y pasten alrededor de las ciudades. ^3^ Las ciudades son para que vivan en ellas, y los pastos serán para sus rebaños y para todo su ganado. ^4^ Los pastos alrededor de las ciudades que le des a los levitas se extenderán desde el muro mil codos por todos lados. ^5^ Mide dos mil codos fuera de la ciudad al Este, dos mil al Sur, dos mil al Oeste y dos mil al Norte, con la ciudad en el medio. Estas áreas serán sus pastos alrededor de las ciudades. 
 
-^6^ Seis de los pueblos que le das a los levitas serán pueblos santuarios,^^ donde una persona que mata a alguien puede correr para protegerse. Además de estas ciudades, dale a los levitas cuarenta y dos más . ^7^ El número total de pueblos que le darás a los levitas es de cuarenta y ocho, junto con sus pastos. ^8^ Las ciudades que asignes para ser entregadas a los levitas serán tomadas del territorio de los israelitas, y tomarás más de las tribus más grandes y menos las más pequeñas. El número será proporcional al tamaño de la asignación de tierras de cada tribu”. 
-^[**35:6** Ver también Josué 20.]
+^6^ Seis de los pueblos que le das a los levitas serán pueblos santuarios,^a^ donde una persona que mata a alguien puede correr para protegerse. Además de estas ciudades, dale a los levitas cuarenta y dos más . ^7^ El número total de pueblos que le darás a los levitas es de cuarenta y ocho, junto con sus pastos. ^8^ Las ciudades que asignes para ser entregadas a los levitas serán tomadas del territorio de los israelitas, y tomarás más de las tribus más grandes y menos las más pequeñas. El número será proporcional al tamaño de la asignación de tierras de cada tribu”. 
+^a^[**35:6** Ver también Josué 20.]
 
 ^9^ El Señor le dijo a Moisés, ^10^ Dile a los israelitas: 'Cuando cruces el Jordán hacia Canaán, ^11^ escoge pueblos como tus pueblos de santuario, para que una persona que mate a alguien por error pueda correr allí. ^12^ Estas ciudades serán para ustedes santuario de los que buscan venganza, para que el asesino no muera hasta que sea juzgado en un tribunal. 
 
@@ -1091,8 +1086,8 @@ De la tribu de Judá: Caleb, hijo de Jefone.
 
 ^16^ Pero si alguien golpea deliberadamente a alguien con algo hecho de hierro y lo mata, esa persona es un asesino y debe ser ejecutado. ^17^ Si alguien tomaun trozo de piedra que pueda ser usado como arma y golpea a alguien con ella, y lo mata, esa persona es un asesino y debe ser ejecutado. ^18^ Si alguien tomaun trozo de madera que pueda ser usado como arma y golpea a alguien con ella, y lo mata, esa persona es un asesino y debe ser ejecutado. 
 
-^19^ El vengador^^ debe ejecutar al asesino. Cuando encuentre al asesino, lo matará. ^20^ De la misma manera, si uno odia al otro y lo derriba o le tira algo deliberadamente, y lo mata; ^21^ o si alguien golpea a otro con su mano y mueren, el que lo golpeó debe ser ejecutado porque es un asesino. Cuando el vengador encuentra al asesino, debe matarlo. 
-^[**35:19** “El vengador:” este era el pariente más cercano a la víctima: literalmente, “el vengador de la sangre”.]
+^19^ El vengador^a^ debe ejecutar al asesino. Cuando encuentre al asesino, lo matará. ^20^ De la misma manera, si uno odia al otro y lo derriba o le tira algo deliberadamente, y lo mata; ^21^ o si alguien golpea a otro con su mano y mueren, el que lo golpeó debe ser ejecutado porque es un asesino. Cuando el vengador encuentra al asesino, debe matarlo. 
+^a^[**35:19** “El vengador:” este era el pariente más cercano a la víctima: literalmente, “el vengador de la sangre”.]
 
 ^22^ Pero si alguien derriba a otro sin querer y sin odiarlo, o le tira algo sin querer hacerle daño, ^23^ o deja caer descuidadamente una piedra pesada que lo mata, pero no como enemigo o con intención de hacerle daño, ^24^ entonces la comunidad debe juzgar entre el asesino y el vengador siguiendo este reglamento. ^25^ El tribunal debe proteger al asesino de ser atacado por el vengador y debe devolverlo a la ciudad santuario a la que corrió, y debe permanecer allí hasta la muerte del sumo sacerdote, que fue ungido con el óleo santo. 
 

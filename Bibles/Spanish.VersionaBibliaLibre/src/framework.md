@@ -1,3 +1,20 @@
+# 00.0-Impressum.md
+
+# 00.1-Prefacio.md
+## 0
+
+## 0
+
+## 0
+
+## 0
+^26^ \ \ ^27^ \ \ 
+## 0
+
+## 0
+
+## 0
+
 # 01-Génesis.md
 ## 1
 ^0^ 
@@ -56,7 +73,7 @@
 ### La maldad de los hombres. Anuncio del diluvio
 ^6^ ^a^ ^8^ ^a^[**6:6** Jer 18,10; Núm 23,19; Sal 18,27] 
 ### Llamado de Noé y la construcción del arca
-^12^ ^a^ ^a^[**6:12** Sal 14,2-3] \ ^13^ ^a^ ^a^[**6:13** Am 8,2] 
+^12^ ^a^ ^a^[**6:12** Sal 14,2-3] \ ^13^ ^a^ ^a^[**6:13** Am 8,2] \ 
 ## 7
 ^0^ 
 ### El diluvio. Noé entra la arca
@@ -88,7 +105,7 @@
 ### Los descendientes de Sem
 ^10^ ^a^ ^11^ ^a^[**11:10** Gén 10,22; Luc 3,36] \ ^13^ \ ^15^ \ ^17^ \ ^19^ \ ^21^ \ ^23^ \ ^25^ \ ^26^ 
 ### Los descendientes de Thare
-^30^ ^a^ ^a^[**11:30** Jos 24,2; Neh 9,7] 
+^30^ ^a^ ^a^[**11:30** Jos 24,2; Neh 9,7] \ 
 ## 12
 ^0^ 
 ### El llamado de Abram
@@ -122,7 +139,7 @@
 ### Dios promete a Abram un hijo
 ^1^ ^a^ ^a^[**15:1** Sal 3,4; Sal 84,12; Sal 119,114] \ ^3^ \ ^6^ ^a^ ^a^[**15:6** Rom 4,3-5; Rom 4,18-22; Sant 2,23] 
 ### Dios confirme su promesa
-^7^ ^a^ ^8^ ^b^ ^a^[**15:7** Gén 11,31] ^b^[**15:8** 2Re 20,8; Luc 1,18] \ ^11^ \ ^12^ ^a^ ^13^ ^b^ ^14^ ^c^ ^19^ ^d^ ^20^ ^e^ ^a^[**15:12** Job 4,13-14] ^b^[**15:13** Éxod 12,40; Hech 7,6] ^c^[**15:14** Éxod 3,21-22] ^d^[**15:19** Gén 10,15-18] ^e^[**15:20** Núm 13,33] 
+^7^ ^a^ ^8^ ^b^ ^a^[**15:7** Gén 11,31] ^b^[**15:8** 2Re 20,8; Luc 1,18] \ ^11^ \ ^12^ ^a^ ^13^ ^b^ ^14^ ^c^ ^19^ ^d^ ^20^ ^e^ ^a^[**15:12** Job 4,13-14] ^b^[**15:13** Éxod 12,40; Hech 7,6] ^c^[**15:14** Éxod 3,21-22] ^d^[**15:19** Gén 10,15-18] ^e^[**15:20** Núm 13,33] \ 
 ## 16
 ^0^ 
 ### Sarai da a su sierva Agar como mujer á Abram
@@ -164,7 +181,7 @@
 ### El repudio y la salvación de Ismael
 ^10^ \ ^12^ ^a^ ^13^ ^b^ ^17^ ^a^[**21:12** Rom 9,7-8; Heb 11,18] ^b^[**21:13** Gén 17,20] \ ^18^ \ ^19^ \ ^21^ ^a^ ^a^[**21:21** Gén 16,3] 
 ### El pacto entre Abraham y Abimelech
-^22^ ^a^ ^23^ ^b^ ^a^[**21:22** Gén 26,26] ^b^[**21:23** Gén 20,15] \ ^26^ \ ^29^ \ ^31^ ^a^ ^a^[**21:31** Gén 26,33] 
+^22^ ^a^ ^23^ ^b^ ^a^[**21:22** Gén 26,26] ^b^[**21:23** Gén 20,15] \ ^26^ \ ^29^ \ ^31^ ^a^ ^a^[**21:31** Gén 26,33] \ 
 ## 22
 ^0^ 
 ### El orden de Dios para sacrificar Isaac
@@ -176,7 +193,7 @@
 ### La aprobación de Dios y promesas por Abraham
 ^16^ ^a^ ^17^ ^b^ ^18^ ^c^ ^a^[**22:16** Heb 6,13] ^b^[**22:17** Gén 13,16; Gén 15,5; Heb 11,12; Gén 24,60] ^c^[**22:18** Gén 12,3; Gal 3,16] \ ^19^ 
 ### Los descendientes de Nahor, el hermano de Abraham
-^23^ ^a^ ^a^[**22:23** Gén 24,15] 
+^23^ ^a^ ^a^[**22:23** Gén 24,15] \ 
 ## 23
 ^0^ 
 ### Muerte y sepultura de Sara
@@ -214,7 +231,7 @@
 ### El pacto entre Isaac y Abimelech en Beerseba
 ^26^ ^a^ ^27^ ^a^[**26:26** Gén 21,22] \ ^29^ \ ^33^ ^a^ ^a^[**26:33** Gén 21,31] 
 ### Esaú se casa con dos mujeres hititas en contra de la voluntad de sus padres
-^34^ ^a^ ^a^[**26:34** Gén 36,2-3] 
+^34^ ^a^ ^a^[**26:34** Gén 36,2-3] \ 
 ## 27
 ^0^ 
 ### Isaac se prepara para bendecir Esau
@@ -236,7 +253,7 @@
 ### El sueño de Jacob en Betel de la escalera al cielo
 ^12^ ^a^ ^13^ ^b^ ^14^ ^c^ ^15^ ^a^[**28:12** Juan 1,51] ^b^[**28:13** Gén 12,7] ^c^[**28:14** Gén 13,16; Gén 12,3] 
 ### Jacob consagra una piedra conmemorativa como el comienzo de una casa de Dios en Betel
-^17^ \ ^19^ ^a^ ^a^[**28:19** Gén 35,14-15] 
+^17^ \ ^19^ ^a^ ^a^[**28:19** Gén 35,14-15] \ 
 ## 29
 ^0^ 
 ### Jacob al pozo de Haran
@@ -274,7 +291,7 @@
 ### Discurso de acusación de Jacob
 ^37^ \ ^39^ ^a^ ^42^ ^b^ ^a^[**31:39** Éxod 22,11-12] ^b^[**31:42** Gén 31,54; Gén 31,24] 
 ### La respuesta de Labán; el tratado de paz entre él y Jacob
-^44^ \ ^48^ ^a^ ^54^ ^b^ ^a^[**31:48** Jos 22,27; Jos 24,27] ^b^[**31:54** Gén 31,42] 
+^44^ \ ^48^ ^a^ ^54^ ^b^ ^a^[**31:48** Jos 22,27; Jos 24,27] ^b^[**31:54** Gén 31,42] \ 
 ## 32
 ^0^ 
 ### Jacob envía mensajeros a Esaú
@@ -284,7 +301,7 @@
 ### Jacob enviá regalos a Esau
 ^20^ \ ^21^ 
 ### Jacob luchando con Dios por la noche
-^25^ ^a^ ^26^ ^a^[**32:25** Os 12,4-5] \ ^27^ \ ^28^ \ ^29^ ^a^ ^a^[**32:29** Gén 35,10] \ ^30^ ^a^ ^31^ ^b^ ^a^[**32:30** Jue 13,17-18] ^b^[**32:31** Éxod 33,20] 
+^25^ ^a^ ^26^ ^a^[**32:25** Os 12,4-5] \ ^27^ \ ^28^ \ ^29^ ^a^ ^a^[**32:29** Gén 35,10] \ ^30^ ^a^ ^31^ ^b^ ^a^[**32:30** Jue 13,17-18] ^b^[**32:31** Éxod 33,20] \ 
 ## 33
 ^0^ 
 ### La reconciliación de Jacob con Esaú
@@ -299,7 +316,7 @@
 ^1^ ^a^ ^4^ ^a^[**34:1** Gén 30,21] \ ^5^ 
 ### Hemor corteja a Dina de los hijos de Jacob
 ^10^ \ ^12^ ^a^ ^a^[**34:12** Éxod 22,15] 
-### La demanda de los hijos de Jacob es aceptada por los sichêmitas
+### La demanda de los hijos de Jacob es aceptada por los sichêmitas.
 ^17^ \ ^23^ \ ^24^ 
 ### La venganza engañosa de los hijos de Jacob
 ^29^ 
@@ -344,7 +361,7 @@
 ### José es vendido a Egipto
 ^28^ ^a^ ^a^[**37:28** Gén 25,2] \ ^29^ ^a^ ^32^ ^a^[**37:29** Gén 44,13; 2Sam 1,11] 
 ### El dolor de Jacob; José vendido a Potifar en Egipto
-^33^ ^a^ ^34^ ^b^ ^a^[**37:33** Gén 37,20] ^b^[**37:34** Gén 37,29] 
+^33^ ^a^ ^34^ ^b^ ^a^[**37:33** Gén 37,20] ^b^[**37:34** Gén 37,29] \ 
 ## 38
 ^0^ 
 ### Los hijos de Juda y Thamar
@@ -354,7 +371,7 @@
 ### Judas juicio justo sobre sí mismo y Thamar
 ^24^ \ ^25^ \ ^26^ 
 ### Thamar da a luz a los gemelos Pérez y Serah
-^29^ ^a^ ^a^[**38:29** Mat 1,3] 
+^29^ ^a^ ^a^[**38:29** Mat 1,3] \ 
 ## 39
 ^0^ 
 ### José en la casa de Potifar
@@ -383,7 +400,7 @@
 ^13^ \ ^14^ 
 ### José interpreta los sueños del faraón
 ^15^ \ ^16^ ^a^ ^a^[**41:16** Gén 40,8] \ ^24^ \ ^32^ 
-### El consejo de José por el faraón
+### El consejo de José sobre cómo hacer uso de la interpretación de sus sueños
 ^36^ 
 ### Joseph fue ascendido a funcionario más alto del estado
 ^40^ ^a^ ^41^ ^b^ ^42^ ^c^ ^45^ ^a^[**41:40** Ecl 4,14; Sal 113,7; Sal 37,37] ^b^[**41:41** Hech 7,10] ^c^[**41:42** Est 3,10; Est 8,2; Dan 5,29] 
@@ -414,7 +431,7 @@
 ### José está probando a sus hermanos por última vez
 ^6^ \ ^8^ ^a^ ^9^ ^a^[**44:8** Gén 43,22] \ ^10^ \ ^13^ 
 ### Los hermanos regresan a la ciudad y se humillan ante José
-^15^ \ ^16^ ^a^ ^a^[**44:16** Gén 42,21-22; Lam 1,14] \ ^17^ \ ^23^ ^a^ ^29^ ^b^ ^a^[**44:23** Gén 42,15; Gén 43,3-5] ^b^[**44:29** Gén 42,38] 
+^15^ \ ^16^ ^a^ ^a^[**44:16** Gén 42,21-22; Lam 1,14] \ ^17^ \ ^23^ ^a^ ^29^ ^b^ ^a^[**44:23** Gén 42,15; Gén 43,3-5] ^b^[**44:29** Gén 42,38] \ 
 ## 45
 ^0^ 
 ### José se revela a sus hermanos
@@ -450,13 +467,13 @@
 ### Jacob toma a los dos hijos de José en lugar de niños
 ^4^ ^a^ ^5^ ^b^ ^7^ ^c^ ^a^[**48:4** Gén 35,11-12] ^b^[**48:5** Gén 41,50-52] ^c^[**48:7** Gén 35,19] 
 ### Jacob bendice a los dos hijos de José
-^8^ \ ^9^ \ ^11^ ^a^ ^16^ ^b^ ^a^[**48:11** Gén 37,33; Gén 37,35; Gén 45,26; Sal 128,6] ^b^[**48:16** Gén 31,11-13] \ ^18^ \ ^20^ ^a^ ^a^[**48:20** Heb 11,21] 
+^8^ \ ^9^ \ ^11^ ^a^ ^16^ ^b^ ^a^[**48:11** Gén 37,33; Gén 37,35; Gén 45,26; Sal 128,6] ^b^[**48:16** Gén 31,11-13] \ ^18^ \ ^20^ ^a^ ^a^[**48:20** Heb 11,21] \ 
 ## 49
 ^0^ 
 ### Las profecías de Jacob sobre sus hijos
 ^2^ \ ^3^ ^a^ ^4^ ^b^ ^a^[**49:3** Gén 29,32; Deut 21,17] ^b^[**49:4** Gén 35,22] \ ^6^ ^a^ ^7^ ^b^ ^a^[**49:6** Sal 16,9; Sal 30,13; Gén 34,25] ^b^[**49:7** Jos 19,1-9; Jos 21,1-42] \ ^8^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^12^ ^a^[**49:8** Núm 10,14; Jue 1,1-2] ^b^[**49:9** Núm 23,24; Apoc 5,5] ^c^[**49:10** Núm 24,17; 1Cró 5,2; Heb 7,14] ^d^[**49:11** Jl 4,18] \ ^13^ ^a^ ^a^[**49:13** Jos 19,10-16] \ ^15^ \ ^18^ ^a^ ^a^[**49:18** Sal 119,166; Hab 2,3] \ ^19^ \ ^20^ \ ^21^ ^a^ ^a^[**49:21** Jue 4,6-10] \ ^22^ ^a^ ^26^ ^b^ ^a^[**49:22** Os 13,15] ^b^[**49:26** Gén 45,8] \ ^27^ ^a^ ^a^[**49:27** Jue 20,25; 1Sam 9,1-2] 
 ### La solicitud de Jacob para su entierro en Hebrón
-^29^ ^a^ ^a^[**49:29** Gén 23,16-20; Gén 47,30] 
+^29^ ^a^ ^a^[**49:29** Gén 23,16-20; Gén 47,30] \ 
 ## 50
 ^0^ 
 ### Embalsamamiento y traslado solemne de Jacob después del entierro hereditario en Hebrón
@@ -464,7 +481,7 @@
 ### La generosidad de José hacia sus hermanos
 ^20^ ^a^ ^21^ ^a^[**50:20** Gén 45,5; Is 28,29] 
 ### La vejez y la muerte de José; su ultimo deseo
-^24^ ^a^ 
+^24^ ^^ 
 # 02-Éxodo.md
 ## 1
 ^0^ 
@@ -481,7 +498,7 @@
 ### Moisés huyó a Madián y se casa con Séphora
 ^15^ ^a^ ^a^[**2:15** Heb 11,27] \ ^16^ ^a^ ^17^ ^b^ ^18^ ^a^[**2:16** Éxod 3,1] ^b^[**2:17** Gén 29,10] \ ^19^ \ ^20^ \ ^22^ ^a^ ^a^[**2:22** Éxod 18,3] 
 ### Dios escucha las aflicciones de los israelitas oprimidos
-^23^ ^a^ ^24^ ^b^ ^25^ ^a^[**2:23** Éxod 3,7] ^b^[**2:24** Gén 15,18; Gén 26,3; Gén 28,13-14] 
+^23^ ^a^ ^24^ ^b^ ^a^[**2:23** Éxod 3,7] ^b^[**2:24** Gén 15,18; Gén 26,3; Gén 28,13-14] \ 
 ## 3
 ^0^ 
 ### Dios se revela a Moisés en la zarza como el “Yo soy”
@@ -489,7 +506,7 @@
 ### La revelacion del nombre de Dios
 ^13^ \ ^14^ ^a^ ^15^ ^b^ ^a^[**3:14** Apoc 1,4; Apoc 1,8] ^b^[**3:15** Éxod 6,2-3; Is 42,8] 
 ### El llamado de Dios y su promesa por Moisés
-^18^ ^a^ ^22^ ^a^[**3:18** Éxod 5,1; Éxod 5,3] 
+^18^ ^a^ ^a^[**3:18** Éxod 5,1; Éxod 5,3] \ 
 ## 4
 ^0^ 
 ### Los milagros de la autenticación
@@ -525,7 +542,7 @@
 ### Transformación del bastón en serpiente
 ^9^ ^a^ ^a^[**7:9** Éxod 4,3] \ ^13^ ^a^ ^a^[**7:13** Éxod 4,21] 
 ### La primer plaga: Transformación de las aguas del Nilo en sangre
-^17^ ^a^ ^19^ ^a^[**7:17** Éxod 4,9] \ ^22^ ^a^ ^25^ ^a^[**7:22** Éxod 7,11] 
+^17^ ^a^ ^19^ ^a^[**7:17** Éxod 4,9] \ ^22^ ^a^ ^a^[**7:22** Éxod 7,11] \ 
 ## 8
 ^0^ 
 ### La segunda plaga de las ranas
@@ -565,7 +582,7 @@
 ### El éxodo de Israel de Egipto
 ^42^ 
 ### Ordenanza de la Pascua; Santificación del primogénito
-^46^ ^a^ ^51^ ^a^[**12:46** Juan 19,36] 
+^46^ ^a^ ^a^[**12:46** Juan 19,36] \ 
 ## 13
 ^2^ ^a^ ^a^[**13:2** Núm 8,17-18; Núm 18,15; Luc 2,23] 
 ### El reglamento sobre la celebración de la Fiesta de los Panes sin Levadura
@@ -573,7 +590,7 @@
 ### Santificación del primogénito
 ^14^ ^a^ ^15^ ^b^ ^16^ ^a^[**13:14** Éxod 12,26] ^b^[**13:15** Éxod 12,29] 
 ### El tren al desierto y el Mar Rojo a Etham
-^19^ ^a^ ^22^ ^a^[**13:19** Gén 50,25; Jos 24,32] 
+^19^ ^a^ ^a^[**13:19** Gén 50,25; Jos 24,32] \ 
 ## 14
 ^0^ 
 ### Dios ordena el cambio de dirección
@@ -597,13 +614,13 @@
 ### El murmullo del pueblo; la exaltación divina mediante la donación de codornices y maná
 ^2^ ^a^ ^3^ ^b^ ^a^[**16:2** Éxod 17,2] ^b^[**16:3** Éxod 14,11] \ ^4^ ^a^ ^5^ ^a^[**16:4** Juan 6,31; 1Cor 10,3] \ ^12^ \ ^13^ ^a^ ^15^ ^a^[**16:13** Núm 11,31] 
 ### Reglas sobre recolección de maná; Moisés explica un fenómeno milagroso que ocurrió
-^18^ ^a^ ^19^ ^b^ ^23^ ^c^ ^30^ ^a^[**16:18** 2Cor 8,15] ^b^[**16:19** Mat 6,34; Luc 11,3] ^c^[**16:23** Gén 2,2-3; Éxod 20,8] \ ^35^ ^a^ ^36^ ^a^[**16:35** Jos 5,12] 
+^18^ ^a^ ^19^ ^b^ ^23^ ^c^ ^30^ ^a^[**16:18** 2Cor 8,15] ^b^[**16:19** Mat 6,34; Luc 11,3] ^c^[**16:23** Gén 2,2-3; Éxod 20,8] \ ^35^ ^a^ ^a^[**16:35** Jos 5,12] \ 
 ## 17
 ^0^ 
 ### La maravillosa donación de agua de la roca cerca de Massa y Meriba
 ^2^ \ ^3^ \ ^4^ ^a^ ^a^[**17:4** Núm 14,10] \ ^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^a^[**17:5** Éxod 7,20] ^b^[**17:6** Núm 20,11; 1Cor 10,4] ^c^[**17:7** Sal 95,8-9] 
 ### La victoria sobre los amalecitas en Refidim
-^9^ ^a^ ^16^ ^a^[**17:9** Núm 13,8; Núm 13,16] 
+^9^ ^a^ ^a^[**17:9** Núm 13,8; Núm 13,16] \ 
 ## 18
 ^0^ 
 ### La visita de Jetro a Moisés en el monte de Dios; Nombramiento de jueces
@@ -623,7 +640,7 @@
 ### El efecto de la aparición divina en la gente; Discurso tranquilizador de Moisés
 ^19^ \ ^21^ ^a^ ^a^[**20:21** Heb 12,18] 
 ### Orden provisional de culto
-^25^ ^a^ ^26^ ^a^[**20:25** Deut 27,5; Jos 8,31] 
+^25^ ^a^ ^a^[**20:25** Deut 27,5; Jos 8,31] \ 
 ## 21
 ^0^ 
 ### Los derechos de los esclavos hebreos
@@ -664,11 +681,11 @@
 ^17^ ^a^ ^22^ ^b^ ^a^[**25:17** Heb 4,16] ^b^[**25:22** Núm 7,89] \ ^30^ \ ^40^ ^a^ ^a^[**25:40** Éxod 26,30; Hech 7,44; Heb 8,5] 
 ## 26
 ^0^ 
-### Instrucciones para hacer el apartamento: Los cuatro techos
+### Instrucciones para hacer el apartamento: Los cuatro techos.
 ^6^ \ ^14^ 
 ### El marco de madera, que consta de tablas y cinco barras
 ^25^ \ ^30^ 
-### Las dos cortinas y el interior del apartamento
+### Die beiden Vorhänge und die innere Ausstattung der Wohnung
 ^31^ ^a^ ^34^ ^b^ ^35^ ^c^ ^a^[**26:31** Mat 27,51] ^b^[**26:34** Éxod 25,21] ^c^[**26:35** Éxod 40,22] \ 
 ## 27
 ^0^ 
@@ -687,7 +704,7 @@
 ### Frente, ropa interior, diadema y cinturón
 ^39^ 
 ### La ropa de los hijos de Aarón
-^41^ ^a^ ^43^ ^a^[**28:41** Lev 8,12; Éxod 29,9; Éxod 29,24] 
+^41^ ^a^ ^a^[**28:41** Lev 8,12; Éxod 29,9; Éxod 29,24] \ 
 ## 29
 ^0^ 
 ### Instrucción para la ordenación de sacerdotes
@@ -695,7 +712,7 @@
 ### La santificación y unción del altar del holocausto
 ^37^ 
 ### La ofrenda diaria de quema, bebida y comida por la mañana y por la noche
-^39^ ^a^ ^46^ ^a^[**29:39** Sal 141,2] 
+^39^ ^a^ ^a^[**29:39** Sal 141,2] \ 
 ## 30
 ^0^ 
 ### Regulaciones sobre el altar humeante
@@ -707,7 +724,7 @@
 ### Preparación y uso del aceite de la unción sagrada
 ^25^ ^a^ ^30^ ^b^ ^33^ ^a^[**30:25** Éxod 37,29] ^b^[**30:30** Éxod 29,7] 
 ### Preparación y uso del incienso sagrado
-^36^ ^a^ ^38^ ^a^[**30:36** Éxod 30,6] 
+^36^ ^a^ ^a^[**30:36** Éxod 30,6] \ 
 ## 31
 ^0^ 
 ### Nombramiento de dos capataces y sus ayudantes
@@ -725,17 +742,17 @@
 ### El celo de Moisés por Dios; castiga al pueblo a través de los levitas
 ^20^ \ ^21^ \ ^24^ \ ^26^ \ ^29^ ^a^ ^a^[**32:29** Éxod 28,41; Núm 3,6-10; Deut 33,8-11] 
 ### Intercesión de Moisés por el pueblo; El respiro de dios
-^30^ \ ^32^ \ ^34^ ^a^ ^35^ ^a^[**32:34** Éxod 33,2; Éxod 33,12; Éxod 33,14] 
+^30^ \ ^32^ \ ^34^ ^a^ ^a^[**32:34** Éxod 33,2; Éxod 33,12; Éxod 33,14] \ 
 ## 33
 ^0^ 
 ### El mandato de Dios de ir a la tierra prometida; El dolor de la gente por el rechazo de Dios
 ^2^ ^a^ ^3^ ^b^ ^a^[**33:2** Éxod 32,34] ^b^[**33:3** Éxod 32,9-10] \ ^4^ \ ^5^ \ ^6^ ^a^ ^a^[**33:6** Jon 3,6] 
-### La fundación y uso de la tienda de revelación frente al campamento
+### La fundación y uso de la tienda de revelación frente al campamento.
 ^7^ ^a^ ^9^ ^b^ ^11^ ^a^[**33:7** Éxod 29,42] ^b^[**33:9** Éxod 13,21] 
 ### Nuevas negociaciones entre Moisés y Dios sobre la dirección divina adicional del pueblo
 ^12^ ^a^ ^13^ ^b^ ^a^[**33:12** Éxod 33,2-5] ^b^[**33:13** Sal 103,7] \ ^14^ \ ^16^ ^a^ ^a^[**33:16** Deut 4,6-8] \ ^17^ ^a^ ^a^[**33:17** Éxod 33,12; 2Tim 2,19] 
 ### Dios le promete a Moisés que verá su gloria como una muestra de gracia
-^18^ \ ^19^ ^a^ ^20^ ^b^ ^21^ ^c^ ^22^ ^d^ ^23^ ^a^[**33:19** Rom 9,15] ^b^[**33:20** Gén 32,31; Is 6,5; 1Tim 6,16] ^c^[**33:21** 1Re 19,8-13] ^d^[**33:22** Éxod 34,5-6; Éxod 24,11] 
+^18^ \ ^19^ ^a^ ^20^ ^b^ ^21^ ^c^ ^22^ ^d^ ^a^[**33:19** Rom 9,15] ^b^[**33:20** Gén 32,31; Is 6,5; 1Tim 6,16] ^c^[**33:21** 1Re 19,8-13] ^d^[**33:22** Éxod 34,5-6; Éxod 24,11] \ 
 ## 34
 ^0^ 
 ### Por orden de Dios, Moisés sube al Sinaí con dos tablas de piedra en blanco
@@ -746,10 +763,10 @@
 ^13^ ^a^ ^14^ ^b^ ^a^[**34:13** Éxod 23,24] ^b^[**34:14** Éxod 20,3; Éxod 20,5] \ ^16^ ^a^ ^a^[**34:16** Deut 7,3; Jue 3,6; 1Re 11,2] 
 ### Las nuevas regulaciones federales sobre el debido culto a Dios
 ^17^ ^a^ ^a^[**34:17** Éxod 20,23] \ ^18^ ^a^ ^a^[**34:18** Éxod 23,14-19] \ ^20^ \ ^21^ \ ^24^ \ ^25^ \ ^26^ 
-### Moisés escribe los mandamientos del pacto; Dios renueva las tablas de la ley
+### Mose schreibt die Bundesgebote auf; Gott erneuert die Gesetzestafeln
 ^27^ ^a^ ^a^[**34:27** Éxod 24,4] \ ^28^ ^a^ ^a^[**34:28** Éxod 24,18; Mat 4,2; Éxod 31,18] 
 ### El descenso de Moisés; el brillo de la piel de su rostro
-^30^ ^a^ ^35^ ^a^[**34:30** 2Cor 3,7-18] 
+^30^ ^a^ ^a^[**34:30** 2Cor 3,7-18] \ 
 ## 35
 ^0^ 
 ### Comunicación del mandamiento del sábado; Invitación a contribuir al tabernáculo
@@ -783,7 +800,7 @@
 ### El atrio
 ^9^ ^a^ ^20^ ^a^[**38:9** Éxod 27,9-19] 
 ### El cálculo del costo de los metales utilizados para el santuario
-^21^ ^a^ ^22^ ^b^ ^23^ ^a^[**38:21** Núm 4,28] ^b^[**38:22** Éxod 31,1-11] \ ^24^ ^a^ ^31^ ^a^[**38:24** Éxod 30,13] 
+^21^ ^a^ ^22^ ^b^ ^23^ ^a^[**38:21** Núm 4,28] ^b^[**38:22** Éxod 31,1-11] \ ^24^ ^a^ ^a^[**38:24** Éxod 30,13] \ 
 ## 39
 ^0^ 
 ### Confección de la ropa sacerdotal
@@ -794,7 +811,7 @@
 ^21^ 
 ### La prenda superior para el vestido de hombros
 ^22^ ^a^ ^26^ ^a^[**39:22** Éxod 28,31-35] 
-### La ropa oficial restante de los sacerdotes
+### La ropa oficial restante de los sacerdotes.
 ^29^ 
 ### El rostro del sumo sacerdote
 ^30^ ^a^ ^31^ ^b^ ^a^[**39:30** Éxod 29,6; Lev 8,9] ^b^[**39:31** Éxod 28,36-38] 
@@ -826,7 +843,7 @@
 ### Información general sobre la preparación y oferta de las comidas
 ^10^ \ ^11^ ^a^ ^12^ ^b^ ^13^ ^c^ ^a^[**2:11** Lev 6,10] ^b^[**2:12** Núm 18,12] ^c^[**2:13** Mar 9,49] 
 ### Ofrenda de comida de las primicias de los cereales
-^14^ ^a^ ^16^ ^a^[**2:14** Deut 26,2-3] 
+^14^ ^a^ ^a^[**2:14** Deut 26,2-3] \ 
 ## 3
 ^0^ 
 ### Ofrendas de salvación del ganado
@@ -875,7 +892,7 @@
 ^9^ ^a^ ^10^ ^a^[**7:9** Lev 2,4-5; Lev 2,7] 
 ### Regulaciones para diferentes tipos de ofrendas de salvación
 ^12^ ^a^ ^15^ ^a^[**7:12** Lev 22,29] \ ^18^ \ ^21^ 
-### Prohibición del consumo de grasas y sangre
+### Prohibición del consumo de grasas y sangre.
 ^23^ ^a^ ^24^ ^b^ ^26^ ^c^ ^27^ ^a^[**7:23** Lev 3,7] ^b^[**7:24** Éxod 22,30] ^c^[**7:26** Lev 3,17] 
 ### Disposiciones sobre la participación de los sacerdotes en los sacrificios de salvación
 ^32^ ^a^ ^34^ ^a^[**7:32** Lev 9,21] \ 
@@ -994,7 +1011,7 @@
 ### Prohibición de cualquier consumo de sangre
 ^10^ ^a^ ^11^ ^b^ ^12^ ^a^[**17:10** Lev 3,17] ^b^[**17:11** Heb 9,22] 
 ### Tratamiento de la sangre de caza y la carne de animales caídos o desgarrados
-^14^ \ ^15^ ^a^ ^16^ ^a^[**17:15** Lev 11,40] 
+^14^ \ ^15^ ^a^ ^a^[**17:15** Lev 11,40] \ 
 ## 18
 ^0^ 
 ### Leyes de castidad y matrimonio
@@ -1047,7 +1064,7 @@
 ^15^ ^a^ ^21^ ^a^[**23:15** Éxod 23,16; Éxod 34,22; Núm 28,26-31; Deut 16,9-12] \ ^22^ 
 ### La celebracion del año nuevo
 ^24^ ^a^ ^25^ ^a^[**23:24** Núm 29,1-6; Núm 10,10] 
-### El gran día de la expiación
+### Der große Versöhnungstag
 ^32^ 
 ### La fiesta de los tabernáculos
 ^34^ ^a^ ^36^ ^a^[**23:34** Éxod 23,16; Éxod 34,22; Núm 29,12-39; Deut 16,13-15] 
@@ -1070,14 +1087,14 @@
 ### Redención o recaída de la propiedad de la tierra y la vivienda
 ^28^ \ ^31^ \ ^32^ ^a^ ^34^ ^a^[**25:32** Núm 35,-1] 
 ### Mandamiento de ayudar a los israelitas empobrecidos; Compra de esclavos hebreos o su liberación en el año de jubileo
-^38^ \ ^39^ ^a^ ^43^ ^a^[**25:39** Éxod 21,2] \ ^46^ \ ^53^ ^a^ ^55^ ^a^[**25:53** Lev 25,43] 
+^38^ \ ^39^ ^a^ ^43^ ^a^[**25:39** Éxod 21,2] \ ^46^ \ ^53^ ^a^ ^a^[**25:53** Lev 25,43] \ 
 ## 26
 ^0^ 
-### Bendiciones y maldiciones dadas por Dios como opción
+### Bendiciones y maldiciones dadas por Dios como opción.
 ^1^ \ ^2^ ^a^ ^a^[**26:2** Éxod 20,8] 
 ### Promesas de bendiciones en caso de obediencia
 ^5^ ^a^ ^a^[**26:5** Am 9,13] \ ^6^ ^a^ ^8^ ^b^ ^a^[**26:6** Job 11,19] ^b^[**26:8** Deut 32,30] \ ^13^ 
-### Enfermedades mortales y derrotas vergonzosas
+### Tödliche Krankheiten und schimpfliche Niederlagen
 ^17^ 
 ### Sequía y mal crecimiento
 ^19^ ^a^ ^20^ ^a^[**26:19** Deut 11,17; 1Re 17,1] 
@@ -1085,7 +1102,7 @@
 ^22^ 
 ### Angustia de guerra combinada con peste y hambre
 ^24^ ^a^ ^25^ ^b^ ^26^ ^a^[**26:24** 2Sam 22,27] ^b^[**26:25** Is 1,20] 
-### El sufrimiento del pueblo durante el exilio en los países de sus enemigos
+### El sufrimiento del pueblo durante el exilio en los países de sus enemigos.
 ^29^ ^a^ ^35^ ^a^[**26:29** 2Re 6,28] \ ^39^ 
 ### Perspectiva sobre el arrepentimiento y la conversión de Israel en el exilio
 ^40^ ^a^ ^41^ ^b^ ^42^ ^c^ ^43^ ^d^ ^45^ ^e^ ^a^[**26:40** Deut 4,30; Deut 30,2] ^b^[**26:41** Jer 9,25; Luc 23,41] ^c^[**26:42** Éxod 2,24; 2Re 13,23] ^d^[**26:43** Lev 26,41] ^e^[**26:45** Gén 15,18; Éxod 12,33; Éxod 12,51] \ 
@@ -1110,13 +1127,13 @@
 ^49^ ^a^ ^50^ ^b^ ^51^ ^c^ ^53^ ^a^[**1:49** Núm 2,33; Núm 3,15] ^b^[**1:50** Núm 4,-1; Núm 3,23-38] ^c^[**1:51** Núm 3,10; Núm 3,38] \ 
 ## 2
 ^0^ 
-### El orden de acampamiento de las tribus
+### El orden de acampamiento de las tribus.
 ^2^ \ ^4^ \ ^6^ \ ^8^ \ ^9^ \ ^11^ \ ^13^ \ ^15^ \ ^16^ \ ^17^ \ ^19^ \ ^21^ \ ^23^ \ ^24^ \ ^26^ \ ^28^ \ ^30^ \ ^31^ \ ^32^ ^a^ ^33^ ^b^ ^a^[**2:32** Núm 1,46] ^b^[**2:33** Núm 1,48-49] \ ^34^ ^a^ ^a^[**2:34** Núm 2,2] 
 ## 3
 ^0^ 
 ### Los hijos de Aaron
 ^1^ ^a^ ^2^ ^a^[**3:1** Éxod 6,23] \ ^4^ ^a^ ^a^[**3:4** Lev 10,1-2] 
-### Los levitas fueron designados para ayudar a los sacerdotes y servir en el santuario
+### Los levitas fueron designados para ayudar a los sacerdotes y servir en el santuario.
 ^8^ ^a^ ^10^ ^a^[**3:8** Núm 4,-1] 
 ### Los levitas fueran designados para redimir al primogénito israelita
 ^12^ ^a^ ^13^ ^a^[**3:12** Núm 8,16; Éxod 13,2] 
@@ -1159,7 +1176,7 @@
 ### La consagración de los levitas como un regalo santo a Dios
 ^6^ ^a^ ^7^ ^b^ ^11^ ^c^ ^a^[**8:6** Mal 3,3] ^b^[**8:7** Núm 5,17; Núm 19,9; Núm 19,17; Lev 14,8] ^c^[**8:11** Núm 8,21] \ ^14^ \ ^16^ ^a^ ^17^ ^b^ ^19^ ^c^ ^a^[**8:16** Núm 3,12] ^b^[**8:17** Éxod 13,2] ^c^[**8:19** Núm 3,9] \ ^22^ 
 ### El tiempo del deber de los levitas
-^24^ ^a^ ^26^ ^a^[**8:24** Núm 4,3; Núm 4,23; Núm 4,30; Núm 4,47] 
+^24^ ^a^ ^a^[**8:24** Núm 4,3; Núm 4,23; Núm 4,30; Núm 4,47] \ 
 ## 9
 ^0^ 
 ### La celebración posterior a la Pascua para los inmundos y los viajeros; la pascua de los extraños
@@ -1177,7 +1194,7 @@
 ### Moisés intenta ganarse a su cuñado Hobab como guía para el viaje hacia adelante
 ^29^ \ ^30^ \ ^32^ 
 ### La partida del monte de Dios bajo la guía del arca
-^34^ ^a^ ^35^ ^b^ ^36^ ^a^[**10:34** Éxod 13,21] ^b^[**10:35** Sal 68,2; Sal 132,8] 
+^34^ ^a^ ^35^ ^b^ ^a^[**10:34** Éxod 13,21] ^b^[**10:35** Sal 68,2; Sal 132,8] \ 
 ## 11
 ^0^ 
 ### El murmullo de la gente y la fogata en Thabera
@@ -1186,7 +1203,7 @@
 ^7^ ^a^ ^9^ ^a^[**11:7** Éxod 16,14-31] 
 ### El lamento de Moisés ante Dios
 ^15^ 
-### Ordenanza de Dios (nombramiento de setenta asistentes de Moisés) La promesa de Dios de donación de carne; la respuesta incrédula de Moisés
+### Ordenanza de Dios (nombramiento de setenta asistentes de Moisés); La promesa de Dios de donación de carne; la respuesta incrédula de Moisés
 ^16^ ^a^ ^17^ ^a^[**11:16** Éxod 18,21; Éxod 24,1] \ ^20^ \ ^22^ ^a^ ^a^[**11:22** Juan 6,7] \ ^23^ ^a^ ^a^[**11:23** Is 50,2; Is 59,1] 
 ### El entusiasmo profético de los setenta ancianos
 ^27^ \ ^28^ ^a^ ^a^[**11:28** Núm 13,16; Éxod 24,13] \ ^29^ ^a^ ^a^[**11:29** Mar 9,39; Jl 3,1] \ ^30^ 
@@ -1203,13 +1220,13 @@
 ## 13
 ^0^ 
 ### Envío de los doce exploradores
-^2^ \ ^8^ ^a^ ^17^ ^a^[**13:8** Núm 13,16; 1Cró 7,27] 
+^2^ \ ^9^ ^a^ ^17^ ^a^[**13:9** Núm 13,16; 1Cró 7,27] 
 ### La instrucción de Moisés a los espías
 ^21^ 
 ### Explorando la tierra
 ^25^ 
 ### Regreso e informe de los emisarios
-^27^ ^a^ ^29^ ^a^[**13:27** Éxod 3,8; Éxod 3,17] \ ^30^ 
+^28^ ^a^ ^29^ ^a^[**13:28** Éxod 3,8; Éxod 3,17] \ ^30^ 
 ### Las palabras tranquilizadoras de Caleb y las palabras desalentadoras de los otros exploradores
 ^33^ ^a^ ^a^[**13:33** Deut 9,2] 
 ## 14
@@ -1237,7 +1254,7 @@
 ### Informe de la lapidación de un abusador del sábado
 ^34^ \ ^36^ 
 ### Ordenanza sobre las borlas para adherir a las puntas de la ropa
-^38^ ^a^ ^41^ ^a^[**15:38** Deut 22,12; Mat 23,5] 
+^38^ ^a^ ^a^[**15:38** Deut 22,12; Mat 23,5] \ 
 ## 16
 ^0^ 
 ### El ultraje de Coré y los rubenitas
@@ -1248,7 +1265,7 @@
 ^14^ \ ^15^ ^a^ ^a^[**16:15** 1Sam 12,3; Hech 20,33] 
 ### Moisés convoca a Coré y sus compañeros para realizar el sacrificio; La aparición de la gloria de Dios; Intercesión de Moisés
 ^17^ \ ^19^ \ ^21^ \ ^22^ ^a^ ^a^[**16:22** Job 12,10; 2Sam 24,17] \ ^24^ 
-### Moisés con Datán y Abiram; el juicio divino sobre ellos y sobre los 250 compañeros de Coré
+### Moisés convoca a Coré y sus compañeros para realizar el sacrificio; La aparición de la gloria de Dios; Intercesión de Moisés
 ^26^ \ ^27^ \ ^30^ \ ^35^ ^a^ ^a^[**16:35** Lev 10,1-2; Sal 106,18] 
 ### El uso de las 250 ollas humeantes por parte de Coré y sus compañeros como cubierta para el altar de sacrificios
 ^38^ \ ^40^ 
@@ -1333,7 +1350,7 @@
 ### La intervención de Phinehas; su enajenación de Dios con un sacerdocio eterno
 ^9^ ^a^ ^a^[**25:9** 1Cor 10,8] \ ^13^ ^a^ ^a^[**25:13** Sal 106,30-31] \ ^15^ 
 ### Gottes Gebot, an den Midianitern Rache zu nehmen
-^17^ ^a^ ^18^ ^a^[**25:17** Núm 31,2-10] 
+^17^ ^a^ ^a^[**25:17** Núm 31,2-10] \ 
 ## 26
 ^0^ 
 ### El segundo censo de la gente en la llanura de los moabitas con el propósito de distribuir la tierra
@@ -1363,7 +1380,7 @@
 ### Las ofrendas adicionales para los siete días de la Fiesta de los Panes sin Levadura
 ^16^ ^a^ ^18^ ^b^ ^22^ ^c^ ^25^ ^a^[**28:16** Lev 23,5-14] ^b^[**28:18** Núm 28,25-26] ^c^[**28:22** Núm 28,15] 
 ### Los sacrificios adicionales en la fiesta de las primicias
-^30^ ^a^ ^31^ ^a^[**28:30** Núm 28,15] 
+^30^ ^a^ ^a^[**28:30** Núm 28,15] \ 
 ## 29
 ^0^ 
 ### Los sacrificios adicionales el día de Año Nuevo
@@ -1405,13 +1422,13 @@
 ### Lista de los campamentos en los que pasaron los israelitas durante los cuarenta años del desierto
 ^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^6^ ^d^ ^7^ ^e^ ^8^ ^f^ ^9^ ^g^ ^14^ ^h^ ^15^ ^i^ ^16^ ^j^ ^17^ ^k^ ^18^ ^l^ ^33^ ^m^ ^37^ ^n^ ^43^ ^o^ ^44^ ^p^ ^47^ ^q^ ^48^ ^r^ ^49^ ^s^ ^a^[**33:3** Éxod 1,11; Éxod 14,8] ^b^[**33:4** Éxod 12,12] ^c^[**33:5** Éxod 12,37] ^d^[**33:6** Éxod 13,20] ^e^[**33:7** Éxod 14,2] ^f^[**33:8** Éxod 14,22; Éxod 15,23] ^g^[**33:9** Éxod 15,27] ^h^[**33:14** Éxod 17,1] ^i^[**33:15** Éxod 19,1] ^j^[**33:16** Núm 11,34] ^k^[**33:17** Núm 11,35] ^l^[**33:18** Núm 12,16] ^m^[**33:33** Deut 10,7] ^n^[**33:37** Núm 20,22-29] ^o^[**33:43** Núm 21,10] ^p^[**33:44** Núm 21,11] ^q^[**33:47** Núm 21,20] ^r^[**33:48** Núm 22,1; Deut 32,49] ^s^[**33:49** Núm 25,1] 
 ### Ordenanzas provisionales de Dios con respecto a la conquista y distribución de Cisjordania de Canaán
-^54^ \ ^55^ ^a^ ^56^ ^a^[**33:55** Jos 23,13] 
+^54^ \ ^55^ ^a^ ^a^[**33:55** Jos 23,13] \ 
 ## 34
 ^0^ 
 ### Establecer los límites de la tierra de Canaán que se tomarán
 ^3^ ^a^ ^5^ ^a^[**34:3** Jos 15,1] \ ^6^ \ ^9^ \ ^12^ \ ^14^ ^a^ ^15^ ^a^[**34:14** Núm 32,33] 
 ### Lista de hombres que se encargarán de la distribución de la tierra
-^19^ ^a^ ^29^ ^a^[**34:19** Núm 13,6; Núm 13,30] 
+^19^ ^a^ ^a^[**34:19** Núm 13,6; Núm 13,30] \ 
 ## 35
 ^0^ 
 ### Regulaciones relativas a las ciudades levitas y las seis ciudades libres designadas para asesinos
@@ -1454,7 +1471,7 @@
 ### Moisés exhorta a las tribus del este del Jordan a prepararse para luchar por sus hermanos; Ánimo de Josué
 ^20^ \ ^22^ ^a^ ^a^[**3:22** Deut 1,30] 
 ### Moisés pide en vano al Señor que le permita conducir al pueblo a través del Jordán
-^25^ \ ^28^ ^a^ ^29^ ^a^[**3:28** Deut 31,3; Deut 31,7] 
+^25^ \ ^28^ ^a^ ^a^[**3:28** Deut 31,3; Deut 31,7] \ 
 ## 4
 ^0^ 
 ### 2. Exhortación a observar estrictamente los mandamientos divinos y advertencia contra el servicio de imágenes y la idolatría
@@ -1479,23 +1496,23 @@
 ^26^ ^a^ ^27^ ^a^[**5:26** Deut 29,3; Núm 11,29] \ ^29^ \ ^31^ \ 
 ## 6
 ^0^ 
-### Explique y promulgue los dos mandamientos básicos: la adoración a Dios únicamente y el amor a Dios
+### Explique y promulgue los dos mandamientos básicos: la adoración a Dios únicamente y el amor a Dios.
 ^3^ \ ^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^7^ ^d^ ^8^ ^e^ ^9^ ^a^[**6:4** Mar 12,29; 1Cor 8,4; 1Cor 8,6] ^b^[**6:5** Deut 10,12; Mat 22,37] ^c^[**6:6** Deut 11,18-20] ^d^[**6:7** Gén 18,19] ^e^[**6:8** Éxod 13,9] 
 ### ¡Sirvan al Señor fielmente y con agradecida obediencia también en la gloriosa tierra prometida!
 ^13^ ^a^ ^15^ ^a^[**6:13** Deut 10,20; Mat 4,10] 
 ### ¡No pongas a prueba la paciencia de Dios con la incredulidad y la apostasía!
 ^16^ ^a^ ^19^ ^a^[**6:16** Mat 4,7; Éxod 17,2; Éxod 17,7] 
 ### ¡También enseñe a sus hijos sobre los actos divinos de redención y el significado de la ley!
-^20^ ^a^ ^21^ ^b^ ^25^ ^a^[**6:20** Éxod 13,14] ^b^[**6:21** Sal 44,2] 
+^20^ ^a^ ^21^ ^b^ ^a^[**6:20** Éxod 13,14] ^b^[**6:21** Sal 44,2] \ 
 ## 7
 ^0^ 
 ### Los cananeos idólatras y su idolatría serán eliminados; cualquier conexión con ellos es pecaminosa
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^7^ ^e^ ^9^ ^f^ ^11^ ^a^[**7:1** Deut 31,3] ^b^[**7:2** Núm 21,2] ^c^[**7:3** Éxod 23,32; Éxod 34,15-16] ^d^[**7:6** Éxod 19,5-6] ^e^[**7:7** Efes 2,8] ^f^[**7:9** Éxod 20,6] 
-### El cumplimiento de la ley traerá ricas bendiciones y también será beneficioso en la lucha contra los cananeos
-^12^ ^a^ ^15^ ^a^[**7:12** Éxod 23,22-31] \ ^17^ ^a^ ^20^ ^b^ ^26^ ^a^[**7:17** Núm 13,31; Núm 14,1-4] ^b^[**7:20** Éxod 23,28-30] 
+### El cumplimiento de la ley traerá ricas bendiciones y también será beneficioso en la lucha contra los cananeos.
+^12^ ^a^ ^15^ ^a^[**7:12** Éxod 23,22-31] \ ^17^ ^a^ ^20^ ^b^ ^a^[**7:17** Núm 13,31; Núm 14,1-4] ^b^[**7:20** Éxod 23,28-30] \ 
 ## 8
 ^0^ 
-### Recordatorio de obedecer la ley divina y estar agradecido con Dios por los beneficios mostrados durante la caminata por el desierto
+### Recordatorio de obedecer la ley divina y estar agradecido con Dios por los beneficios mostrados durante la caminata por el desierto.
 ^2^ ^a^ ^3^ ^b^ ^5^ ^c^ ^6^ ^a^[**8:2** Deut 13,4; Jue 2,22] ^b^[**8:3** Éxod 16,13-15; Mat 4,4] ^c^[**8:5** Deut 1,31] 
 ### Descripción de la gloria de la tierra prometida ricamente bendecida con todos los bienes
 ^10^ 
@@ -1509,12 +1526,12 @@
 ^8^ ^a^ ^10^ ^a^[**9:8** Éxod 32,-1] \ ^12^ \ ^14^ \ ^19^ ^a^ ^21^ ^a^[**9:19** Heb 12,21] 
 ### Otra evidencia más de desobediencia popular
 ^23^ ^a^ ^24^ ^a^[**9:23** Núm 13,2; Núm 13,31; Deut 14,1-4] 
-### En ese momento, la destrucción de Israel se evitó solo mediante la intercesión de Moisés y la renovación del pacto se llevó a cabo mediante la gracia de Dios
-^28^ ^a^ ^29^ ^a^[**9:28** Núm 14,16] 
+### En ese momento, la destrucción de Israel se evitó solo mediante la intercesión de Moisés y la renovación del pacto se llevó a cabo mediante la gracia de Dios.
+^28^ ^a^ ^a^[**9:28** Núm 14,16] \ 
 ## 10
 ^2^ ^a^ ^5^ ^a^[**10:2** Éxod 32,19] \ ^6^ ^a^ ^9^ ^b^ ^a^[**10:6** Núm 33,32-33; Núm 20,28] ^b^[**10:9** Núm 18,20] \ ^10^ ^a^ ^11^ ^a^[**10:10** Deut 9,9] 
 ### Recordatorio de cumplir fielmente los mandamientos divinos, temer a Dios y amar a Dios; bendición y maldición
-^12^ ^a^ ^19^ ^b^ ^22^ ^a^[**10:12** Miq 6,8] ^b^[**10:19** Éxod 22,20-23] 
+^12^ ^a^ ^19^ ^b^ ^a^[**10:12** Miq 6,8] ^b^[**10:19** Éxod 22,20-23] \ 
 ## 11
 ^0^ 
 ### Referencia a los juicios destructivos de Dios experimentados personalmente
@@ -1523,16 +1540,16 @@
 ^13^ ^a^ ^17^ ^a^[**11:13** Lev 26,3-39] 
 ### Otra advertencia a la obediencia fiel; Presentación de bendiciones y maldiciones
 ^18^ ^a^ ^26^ ^b^ ^27^ ^c^ ^28^ ^a^[**11:18** Deut 6,6-9] ^b^[**11:26** Deut 30,1; Deut 30,15] ^c^[**11:27** Deut 28,2; Deut 28,15] 
-### El Garizim fue ordenado como el monte de las bendiciones y el Ebal como el monte de la maldición
-^29^ ^a^ ^30^ ^b^ ^32^ ^a^[**11:29** Deut 27,12-13; Jos 8,33-34] ^b^[**11:30** Gén 12,6] 
+### El Garizim fue ordenado como el monte de las bendiciones y el Ebal como el monte de la maldición.
+^29^ ^a^ ^30^ ^b^ ^a^[**11:29** Deut 27,12-13; Jos 8,33-34] ^b^[**11:30** Gén 12,6] \ 
 ## 12
 ^0^ 
-### Establecimiento de la Ley Básica: Dios solo puede ser adorado a través del sacrificio en un lugar elegido por Dios
+### Establecimiento de la Ley Básica: Dios solo puede ser adorado a través del sacrificio en un lugar elegido por Dios.
 ^2^ ^a^ ^12^ ^b^ ^14^ ^a^[**12:2** Deut 7,5; Deut 7,25] ^b^[**12:12** Núm 18,20; Núm 18,24] \ ^16^ ^a^ ^19^ ^b^ ^a^[**12:16** Lev 3,17] ^b^[**12:19** Deut 12,12; Deut 14,27] 
-### El sacrificio de ganado y el consumo de carne (excepto sangre y carne de sacrificio) están permitidos en todas partes
+### El sacrificio de ganado y el consumo de carne (excepto sangre y carne de sacrificio) están permitidos en todas partes.
 ^23^ ^a^ ^27^ ^a^[**12:23** Deut 12,16] \ ^28^ 
 ### Prohibición de cualquier imitación del culto pagano; Castigando a los idólatras
-^30^ ^a^ ^32^ ^a^[**12:30** Deut 7,16] 
+^30^ ^a^ ^a^[**12:30** Deut 7,16] \ 
 ## 13
 ^0^ 
 ### El castigo más severo de todos los falsos profetas y parientes cercanos idólatras
@@ -1544,7 +1561,7 @@
 ### Prohibición de las costumbres paganas de duelo y los alimentos inmundos
 ^1^ ^a^ ^2^ ^a^[**14:1** Lev 19,27-28] \ ^20^ \ ^21^ ^a^ ^a^[**14:21** Éxod 22,30; Éxod 23,19] 
 ### Regulaciones sobre la entrega del diezmo (especialmente el diezmo del tercer año)
-^22^ ^a^ ^23^ ^b^ ^28^ ^c^ ^29^ ^a^[**14:22** Lev 27,30] ^b^[**14:23** Deut 12,18] ^c^[**14:28** Deut 26,12-15] 
+^22^ ^a^ ^23^ ^b^ ^28^ ^c^ ^a^[**14:22** Lev 27,30] ^b^[**14:23** Deut 12,18] ^c^[**14:28** Deut 26,12-15] \ 
 ## 15
 ^0^ 
 ### Regulaciones sobre la cancelación de la deuda cada siete años y la liberación de esclavos hebreos
@@ -1582,13 +1599,13 @@
 ### Separación de tres a seis ciudades libres para aliviar la venganza de sangre
 ^13^ 
 ### Verbot der Grenzverrückung; Vorschriften bezüglich der Zeugenschaft vor Gericht und der Bestrafung falscher Zeugen
-^14^ ^a^ ^a^[**19:14** Deut 27,17] \ ^15^ ^a^ ^17^ ^b^ ^21^ ^a^[**19:15** Deut 17,6; Juan 8,17; 2Cor 13,1] ^b^[**19:17** Deut 17,9] 
+^14^ ^a^ ^a^[**19:14** Deut 27,17] \ ^15^ ^a^ ^17^ ^b^ ^a^[**19:15** Deut 17,6; Juan 8,17; 2Cor 13,1] ^b^[**19:17** Deut 17,9] \ 
 ## 20
 ^0^ 
 ### Comportamiento hacia la propia gente; Leyes sobre exención del servicio militar
 ^4^ \ ^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^8^ ^d^ ^9^ ^a^[**20:5** Deut 16,18] ^b^[**20:6** Deut 28,30; Lev 19,24-25] ^c^[**20:7** Deut 24,5] ^d^[**20:8** Jue 7,3] 
 ### Comportamiento contra el enemigo (especialmente en el caso de asedios de ciudades)
-^10^ ^a^ ^16^ ^b^ ^17^ ^c^ ^20^ ^a^[**20:10** Núm 21,21-22] ^b^[**20:16** Jos 10,40] ^c^[**20:17** Deut 7,1-2] 
+^10^ ^a^ ^16^ ^b^ ^17^ ^c^ ^a^[**20:10** Núm 21,21-22] ^b^[**20:16** Jos 10,40] ^c^[**20:17** Deut 7,1-2] \ 
 ## 21
 ^0^ 
 ### Expiación por un asesinato cometido por mano desconocida
@@ -1605,12 +1622,12 @@
 ^0^ 
 ### Algunos deberes queridos en apuros del vecino; Devolución de propiedad perdida
 ^1^ ^a^ ^4^ ^a^[**22:1** Éxod 23,4] 
-### Varias regulaciones, especialmente en lo que respecta a evitar desastres naturales
+### Varias regulaciones, especialmente en lo que respecta a evitar desastres naturales.
 ^5^ \ ^7^ ^a^ ^a^[**22:7** Lev 22,28] \ ^8^ \ ^11^ ^a^ ^a^[**22:11** Lev 19,19] \ ^12^ ^a^ ^a^[**22:12** Núm 15,38] 
 ### Cómo tratar a una mujer acusada por su esposo de perder la virginidad antes del matrimonio
 ^19^ ^a^ ^a^[**22:19** Deut 22,29] \ ^21^ 
 ### Reglas contra el adulterio, la profanación de una joven comprometida y la violación de una virgen soltera
-^22^ ^a^ ^30^ ^a^[**22:22** Lev 20,10] 
+^22^ ^a^ ^a^[**22:22** Lev 20,10] \ 
 ## 23
 ^0^ 
 ### ¿Quién puede unirse a la iglesia de Israel y quién debe ser excluido?
@@ -1630,7 +1647,7 @@
 ### Castigo por la desvergüenza femenina; Honestidad en el comercio y el cambio
 ^12^ \ ^16^ 
 ### Mandamiento de exterminar a los amalecitas
-^17^ ^a^ ^19^ ^a^[**25:17** Éxod 17,8-16] 
+^17^ ^a^ ^a^[**25:17** Éxod 17,8-16] \ 
 ## 26
 ^0^ 
 ### La confesión agradecida en la ofrenda de los primeros frutos en el santuario
@@ -1654,12 +1671,12 @@
 ### Primera parte de las maldiciones del pueblo desobediente
 ^15^ ^a^ ^22^ ^b^ ^23^ ^c^ ^27^ ^d^ ^33^ ^e^ ^37^ ^f^ ^38^ ^g^ ^44^ ^h^ ^a^[**28:15** Dan 9,11] ^b^[**28:22** 1Re 17,7] ^c^[**28:23** Deut 11,17] ^d^[**28:27** Éxod 9,9] ^e^[**28:33** Jue 6,3] ^f^[**28:37** 1Re 9,7] ^g^[**28:38** Jer 12,13; Miq 6,15] ^h^[**28:44** Deut 28,12-13] \ ^46^ 
 ### Segunda parte de las maldiciones
-^50^ ^a^ ^60^ ^b^ ^63^ ^c^ ^68^ ^a^[**28:50** Dan 8,23; Lam 5,12] ^b^[**28:60** Deut 28,27] ^c^[**28:63** Prov 1,26] 
+^50^ ^a^ ^60^ ^b^ ^63^ ^c^ ^a^[**28:50** Dan 8,23; Lam 5,12] ^b^[**28:60** Deut 28,27] ^c^[**28:63** Prov 1,26] \ 
 ## 29
 ^0^ 
 ### Referencia a los grandes tribunales y beneficios penales divinos anteriores
 ^1^ ^a^ ^2^ ^a^[**29:1** Éxod 19,4] \ ^3^ ^a^ ^4^ ^b^ ^6^ ^c^ ^7^ ^d^ ^9^ ^a^[**29:3** Deut 5,26; Is 6,9-10] ^b^[**29:4** Deut 8,2; Deut 8,4] ^c^[**29:6** Núm 21,21-35] ^d^[**29:7** Núm 32,-1] 
-### El (nuevo) pacto de hoy está hecho para todas las generaciones futuras y es el más sagrado
+### El pacto de hoy está hecho para todas las generaciones futuras y es el más sagrado
 ^13^ ^a^ ^15^ ^a^[**29:13** Deut 5,3] 
 ### Advertencia de idolatría y ruptura del nuevo pacto, que será seguido por el castigo más severo
 ^19^ ^a^ ^21^ ^a^[**29:19** Deut 18,15-68] \ ^24^ \ ^28^ ^a^ ^a^[**29:28** Deut 32,34; Sal 147,19-20] \ 
@@ -1670,7 +1687,7 @@
 ### La ley ordenada por Dios no requiere lo imposible; más bien, es fácil de entender y de seguir
 ^14^ 
 ### Última advertencia; Elección entre la vida y la muerte
-^15^ ^a^ ^19^ ^b^ ^20^ ^a^[**30:15** Deut 11,26; Deut 28,2; Deut 2,15] ^b^[**30:19** Deut 4,26] 
+^15^ ^a^ ^19^ ^b^ ^a^[**30:15** Deut 11,26; Deut 28,2; Deut 2,15] ^b^[**30:19** Deut 4,26] \ 
 ## 31
 ^0^ 
 ### Instalación de Josué para suceder a Moisés
@@ -1727,13 +1744,13 @@
 ### La promesa de Dios de salvación a Josué; Anuncio del milagro divino a través de Josué
 ^7^ ^a^ ^8^ ^a^[**3:7** Jos 4,14; Jos 1,5; Jos 1,17] \ ^13^ 
 ### El Jordán se detiene y se divide
-^16^ ^a^ ^17^ ^a^[**3:16** Éxod 14,21; Sal 114,3] 
+^16^ ^a^ ^a^[**3:16** Éxod 14,21; Sal 114,3] \ 
 ## 4
 ^0^ 
 ### Erigiendo un monumento de piedra en el lecho del Jordán y otro en la otra orilla de Gilgal
 ^3^ \ ^7^ \ ^11^ \ ^12^ ^a^ ^13^ ^a^[**4:12** Núm 32,21; Núm 32,29] 
 ### Efecto del maravilloso evento sobre los israelitas y sobre todos los pueblos; información final
-^14^ \ ^16^ \ ^19^ ^a^ ^a^[**4:19** Jos 5,9] \ ^23^ ^a^ ^24^ ^a^[**4:23** Éxod 14,21-22] 
+^14^ \ ^16^ \ ^19^ ^a^ ^a^[**4:19** Jos 5,9] \ ^23^ ^a^ ^a^[**4:23** Éxod 14,21-22] \ 
 ## 5
 ^0^ 
 ### Realizar la circuncisión de Israel
@@ -1751,7 +1768,7 @@
 ### Los siete desfiles del séptimo día; Conquista y destrucción de la ciudad
 ^17^ ^a^ ^18^ ^b^ ^19^ ^a^[**6:17** Núm 21,2; Jos 2,12-13; Heb 11,31] ^b^[**6:18** Lev 27,28; Deut 13,18] \ ^20^ ^a^ ^21^ ^a^[**6:20** Heb 11,30] 
 ### Perdonando a Rahab y sus parientes; Maldice la reconstrucción de la ciudad
-^23^ ^a^ ^25^ ^a^[**6:23** Núm 31,19] \ ^26^ ^a^ ^27^ ^a^[**6:26** 1Re 16,34] 
+^23^ ^a^ ^25^ ^a^[**6:23** Núm 31,19] \ ^26^ ^a^ ^a^[**6:26** 1Re 16,34] \ 
 ## 7
 ^0^ 
 ### Fracaso del movimiento cuidadosamente preparado contra Ai; Desánimo del pueblo; Oración suplicante de Josué
@@ -1769,7 +1786,7 @@
 ### Ejecución de la prohibición de la ciudad; el rey mató y ahorcó hasta la noche
 ^29^ ^a^ ^a^[**8:29** Jos 10,27; Deut 21,23] 
 ### Construcción de un altar en el monte Ebal y lectura de la ley por Josué después de la fiesta del sacrificio
-^30^ ^a^ ^33^ ^b^ ^35^ ^a^[**8:30** Deut 27,2-8] ^b^[**8:33** Deut 11,29; Deut 27,12-13] 
+^30^ ^a^ ^33^ ^b^ ^a^[**8:30** Deut 27,2-8] ^b^[**8:33** Deut 11,29; Deut 27,12-13] \ 
 ## 9
 ^0^ 
 ### Los reyes cananeos hacen un pacto contra Israel
@@ -1803,7 +1820,7 @@
 ### Los dos reyes de Cisjordania derrotados por Moisés
 ^2^ ^a^ ^6^ ^b^ ^a^[**12:2** Núm 21,24] ^b^[**12:6** Núm 32,33] 
 ### Los 31 reyes derrotados por Josué en Cisjordania
-^9^ ^a^ ^10^ ^b^ ^11^ ^c^ ^12^ ^d^ ^13^ ^e^ ^14^ ^f^ ^15^ ^g^ ^16^ ^h^ ^18^ ^i^ ^19^ ^j^ ^20^ ^k^ ^24^ ^a^[**12:9** Jos 6,2; Jos 8,29] ^b^[**12:10** Jos 10,1; Jos 10,3] ^c^[**12:11** Jos 10,3] ^d^[**12:12** Jos 10,3; Jos 10,26; Jos 10,33] ^e^[**12:13** Jos 10,39; Jue 1,11] ^f^[**12:14** Jue 1,17; Núm 21,1] ^g^[**12:15** Jos 10,29-30] ^h^[**12:16** Jos 10,28] ^i^[**12:18** Jos 15,53; 1Sam 4,1] ^j^[**12:19** Jos 11,1; Jos 11,10] ^k^[**12:20** Jos 11,1] 
+^9^ ^a^ ^10^ ^b^ ^11^ ^c^ ^12^ ^d^ ^13^ ^e^ ^14^ ^f^ ^15^ ^g^ ^16^ ^h^ ^18^ ^i^ ^19^ ^j^ ^20^ ^k^ ^a^[**12:9** Jos 6,2; Jos 8,29] ^b^[**12:10** Jos 10,1; Jos 10,3] ^c^[**12:11** Jos 10,3] ^d^[**12:12** Jos 10,3; Jos 10,26; Jos 10,33] ^e^[**12:13** Jos 10,39; Jue 1,11] ^f^[**12:14** Jue 1,17; Núm 21,1] ^g^[**12:15** Jos 10,29-30] ^h^[**12:16** Jos 10,28] ^i^[**12:18** Jos 15,53; 1Sam 4,1] ^j^[**12:19** Jos 11,1; Jos 11,10] ^k^[**12:20** Jos 11,1] \ 
 ## 13
 ^0^ 
 ### Enumeración de las áreas previamente no conquistadas; El mandato de Dios de distribuir
@@ -1850,7 +1867,7 @@
 ^13^ ^a^ ^14^ ^b^ ^28^ ^c^ ^a^[**18:13** Gén 12,8; Gén 28,19] ^b^[**18:14** Jos 15,6-9] ^c^[**18:28** Jos 15,63; Jue 1,21] 
 ## 19
 ^0^ 
-### El territorio de la tribu Simeón
+### El territorio de la tribu Simeón.
 ^9^ 
 ### El territorio de la tribu Zabulón
 ^16^ 
@@ -1869,7 +1886,7 @@
 ### Die sechs Zufluchts- oder Freistädte; El mandato divino
 ^2^ ^a^ ^6^ ^a^[**20:2** Núm 35,6-29] 
 ### Ejecución del mandato
-^8^ ^a^ ^9^ ^a^[**20:8** Deut 4,43] 
+^8^ ^a^ ^a^[**20:8** Deut 4,43] \ 
 ## 21
 ^0^ 
 ### Las cuarenta y ocho ciudades sacerdotales y levitas
@@ -1887,7 +1904,7 @@
 ## 23
 ^0^ 
 ### El primer discurso de amonestación de Josué a los representantes de Israel
-^5^ \ ^6^ ^a^ ^7^ ^b^ ^8^ ^a^[**23:6** Deut 5,29] ^b^[**23:7** Éxod 23,13; Éxod 23,24] \ ^9^ ^a^ ^11^ ^a^[**23:9** Lev 26,7-8; Deut 28,7] \ ^13^ \ ^14^ ^a^ ^16^ ^a^[**23:14** 1Re 2,2; Jos 21,45] 
+^5^ \ ^6^ ^a^ ^7^ ^b^ ^8^ ^a^[**23:6** Deut 5,29] ^b^[**23:7** Éxod 23,13; Éxod 23,24] \ ^9^ ^a^ ^11^ ^a^[**23:9** Lev 26,7-8; Deut 28,7] \ ^13^ \ ^14^ ^a^ ^a^[**23:14** 1Re 2,2; Jos 21,45] 
 ## 24
 ^0^ 
 ### Josué se despide de la gente en la Dieta de Siquem
@@ -1895,7 +1912,7 @@
 ### El pueblo promete obediencia leal y Josué se compromete de nuevo solemnemente con Dios
 ^18^ \ ^19^ ^a^ ^20^ ^a^[**24:19** Deut 5,26; Éxod 20,5] \ ^22^ \ ^23^ \ ^24^ \ ^25^ ^a^ ^26^ ^b^ ^27^ ^c^ ^28^ ^a^[**24:25** 2Re 23,3] ^b^[**24:26** Gén 35,4; Jue 9,6] ^c^[**24:27** Jos 22,27; Gén 31,48] 
 ### La muerte y el entierro de Josué; Entierro de los huesos de José; Muerte de Eleazar
-^31^ ^a^ 
+^31^ ^^ 
 # 07-Jueces.md
 ## 1
 ^0^ 
@@ -1910,7 +1927,7 @@
 ### Empresas de los Josefitas y otras tribus; los cananeos no serán completamente expulsados
 ^25^ ^a^ ^26^ ^a^[**1:25** Jos 6,25] 
 ### Panorama general de los territorios no conquistados
-^29^ ^a^ ^30^ ^b^ ^33^ ^c^ ^36^ ^a^[**1:29** Jos 16,10] ^b^[**1:30** Jos 19,15] ^c^[**1:33** Jos 19,38] 
+^29^ ^a^ ^30^ ^b^ ^33^ ^c^ ^a^[**1:29** Jos 16,10] ^b^[**1:30** Jos 19,15] ^c^[**1:33** Jos 19,38] \ 
 ## 2
 ^0^ 
 ### La amenaza de castigo del ángel del Señor contra Israel por violar el deber del pacto
@@ -1918,7 +1935,7 @@
 ### Después de la muerte de Josué y sus compañeros, Israel se volvió idolatría
 ^7^ ^a^ ^12^ ^a^[**2:7** Jos 24,31] 
 ### Alternancia regular de apostasía y castigo, arrepentimiento y salvación; ira de Dios
-^15^ ^a^ ^16^ ^b^ ^22^ ^c^ ^23^ ^a^[**2:15** Lev 26,17; Deut 28,20] ^b^[**2:16** Hech 13,20] ^c^[**2:22** Jue 3,1; Jue 3,4; Deut 8,2] 
+^15^ ^a^ ^16^ ^b^ ^22^ ^c^ ^a^[**2:15** Lev 26,17; Deut 28,20] ^b^[**2:16** Hech 13,20] ^c^[**2:22** Jue 3,1; Jue 3,4; Deut 8,2] \ 
 ## 3
 ^0^ 
 ### Indicación de los pueblos paganos que permanecieron en Canaán, cuyo Dios usó a los israelitas para probar y guiar
@@ -1967,7 +1984,7 @@
 ^0^ 
 ### La victoria de Gedeón sobre los madianitas
 ^1^ 
-### La fuerza de Gideon se reduce a 300 hombres a través de dos avistamientos
+### La fuerza de Gideon se reduce a 300 hombres a través de dos avistamientos.
 ^3^ ^a^ ^a^[**7:3** Deut 20,8] \ ^7^ \ ^8^ 
 ### La confianza de Gedeón se fortalece al infiltrarse en el campamento enemigo
 ^11^ \ ^12^ \ ^13^ ^a^ ^a^[**7:13** Gén 40,9; Gén 40,16] \ ^14^ \ ^15^ 
@@ -2072,7 +2089,7 @@
 ### Derrota sangrienta de los israelitas en los dos primeros días de la batalla; tu solicitud en Betel
 ^18^ ^a^ ^a^[**20:18** Jue 20,26-27; Jue 21,2; Jue 1,1-2] \ ^23^ \ ^25^ \ ^26^ ^a^ ^28^ ^a^[**20:26** Jue 20,18] 
 ### La destrucción de Gibeas y el exterminio casi completo de la tribu de Benjamín
-^31^ \ ^32^ \ ^47^ ^a^ ^48^ ^a^[**20:47** Jue 21,13] 
+^31^ \ ^32^ \ ^47^ ^a^ ^a^[**20:47** Jue 21,13] \ 
 ## 21
 ^0^ 
 ### Duelo de la comunidad; a los benjaminitas se les asignan doncellas de la ciudad de Jabes
@@ -2087,7 +2104,7 @@
 ### Partida de Noemí y sus dos nueras para regresar a Belén; La despedida de Orpa, la lealtad de Ruth
 ^9^ \ ^10^ \ ^13^ ^a^ ^a^[**1:13** Job 19,21] \ ^15^ \ ^17^ \ ^18^ 
 ### Llegada y recepción de las dos mujeres en Belén
-^19^ \ ^20^ ^a^ ^22^ ^a^[**1:20** Éxod 15,23] 
+^19^ \ ^20^ ^a^ ^a^[**1:20** Éxod 15,23] \ 
 ## 2
 ^0^ 
 ### Rut viene a recoger espigas en el campo del booz, quien pregunta por ella y la recibe amablemente
@@ -2105,7 +2122,7 @@
 ### La negociación pública entre Booz y el Solver
 ^4^ ^a^ ^a^[**4:4** Lev 25,25] \ ^5^ ^a^ ^a^[**4:5** Deut 25,5-6] \ ^6^ \ ^7^ ^a^ ^8^ ^a^[**4:7** Deut 25,7-10] \ ^10^ \ ^12^ 
 ### El matrimonio de Des Booz con Rut se completó y fue bendecido con el nacimiento de Obed; Índice de género de Pérez a David
-^13^ ^a^ ^17^ ^a^[**4:13** Sal 127,3] \ ^18^ ^a^ ^19^ ^b^ 
+^13^ ^a^ ^17^ ^a^[**4:13** Sal 127,3] \ ^18^ ^^ ^19^ ^^ 
 # 09-1 Samuel.md
 ## 1
 ^0^ 
@@ -2126,7 +2143,7 @@
 ### Las suaves amonestaciones de Elí a sus hijos degenerados
 ^22^ ^a^ ^25^ ^a^[**2:22** Éxod 38,8] \ ^26^ ^a^ ^a^[**2:26** Luc 2,52] 
 ### Refrán del Profeta: Anuncio de la caída de Eli y su casa
-^30^ ^a^ ^31^ ^b^ ^33^ ^c^ ^34^ ^d^ ^36^ ^a^[**2:30** Éxod 28,1] ^b^[**2:31** 1Re 2,27] ^c^[**2:33** 1Sam 22,20] ^d^[**2:34** 1Sam 4,11] 
+^30^ ^a^ ^31^ ^b^ ^33^ ^c^ ^34^ ^d^ ^a^[**2:30** Éxod 28,1] ^b^[**2:31** 1Re 2,27] ^c^[**2:33** 1Sam 22,20] ^d^[**2:34** 1Sam 4,11] \ 
 ## 3
 ^0^ 
 ### Dios se revela a Samuel y anuncia la caída de la casa de Elí
@@ -2140,7 +2157,7 @@
 ### El efecto de este evento en las partes en conflicto; Derrota de los israelitas y pérdida del arca
 ^9^ ^a^ ^11^ ^a^[**4:9** Jue 13,1] 
 ### Los tristes efectos del mensaje en Shiloh; la muerte de Eli y su nuera
-^14^ \ ^16^ \ ^17^ \ ^18^ \ ^20^ ^a^ ^21^ ^b^ ^22^ ^a^[**4:20** Gén 35,17] ^b^[**4:21** Sal 78,61] 
+^14^ \ ^16^ \ ^17^ \ ^18^ \ ^20^ ^a^ ^21^ ^b^ ^a^[**4:20** Gén 35,17] ^b^[**4:21** Sal 78,61] \ 
 ## 5
 ^0^ 
 ### En la tierra de los filisteos, el arca está causando estragos en varias ciudades
@@ -2186,15 +2203,15 @@
 ### Saul de regreso a casa; su conversación reservada con su prima
 ^14^ \ ^15^ \ ^16^ 
 ### Saúl está decidido a ser rey en Mizpa por la santa suerte
-^19^ \ ^20^ ^a^ ^22^ ^a^[**10:20** 1Sam 14,41-42; Jos 7,16] \ ^24^ \ ^25^ ^a^ ^27^ ^a^[**10:25** 1Sam 8,11; Deut 17,14-20] 
+^19^ \ ^20^ ^a^ ^22^ ^a^[**10:20** 1Sam 14,41-42; Jos 7,16] \ ^24^ \ ^25^ ^a^ ^a^[**10:25** 1Sam 8,11; Deut 17,14-20] \ 
 ## 11
 ^0^ 
-### La ciudad de Jabés, que está en apuros por los amonitas Nahas, pide la ayuda de los israelitas
+### La ciudad de Jabés, que está en apuros por los amonitas Nahas, pide la ayuda de los israelitas.
 ^1^ ^a^ ^a^[**11:1** 1Sam 31,11] \ ^2^ ^a^ ^a^[**11:2** Jer 39,7] \ ^3^ 
 ### La conducta decidida de Saúl y su espléndida victoria
 ^4^ \ ^6^ ^a^ ^7^ ^b^ ^11^ ^a^[**11:6** Jue 14,6] ^b^[**11:7** Jue 19,29] 
 ### La generosidad de Saúl hacia sus despreciadores; Celebración de la alegría en Gilgal
-^12^ ^a^ ^a^[**11:12** 1Sam 10,27] \ ^13^ ^a^ ^a^[**11:13** 1Sam 14,45] \ ^14^ ^a^ ^15^ ^a^[**11:14** 1Sam 10,8] 
+^12^ ^a^ ^a^[**11:12** 1Sam 10,27] \ ^13^ ^a^ ^a^[**11:13** 1Sam 14,45] \ ^14^ ^a^ ^a^[**11:14** 1Sam 10,8] \ 
 ## 12
 ^0^ 
 ### La renuncia voluntaria de Samuel y la solemne despedida del pueblo
@@ -2204,7 +2221,7 @@
 ### Samuel demuestra al pueblo a través de una maravillosa señal divina que han pecado al elegir un rey
 ^12^ ^a^ ^15^ ^a^[**12:12** 1Sam 8,19] \ ^17^ \ ^18^ 
 ### Samuel anima al pueblo, les exhorta a temer a Dios y les manda recibir bendiciones divinas
-^19^ \ ^22^ ^a^ ^23^ ^b^ ^24^ ^c^ ^25^ ^a^[**12:22** Éxod 19,6] ^b^[**12:23** 1Sam 7,8] ^c^[**12:24** 2Re 17,39] 
+^19^ \ ^22^ ^a^ ^23^ ^b^ ^24^ ^c^ ^a^[**12:22** Éxod 19,6] ^b^[**12:23** 1Sam 7,8] ^c^[**12:24** 2Re 17,39] \ 
 ## 13
 ^0^ 
 ### Estallido de la guerra filistea; La primera desobediencia de Saúl mediante un sacrificio apresurado
@@ -2294,7 +2311,7 @@
 ### David como refugiado en Nob y Gat; El asesinato del sacerdote por parte de Saúl
 ^3^ \ ^4^ \ ^5^ ^a^ ^6^ ^a^[**21:5** Lev 24,5-9; Lev 22,3-7; Éxod 19,15] \ ^7^ \ ^8^ ^a^ ^a^[**21:8** 1Sam 22,9; 1Sam 22,18] \ ^9^ 
 ### David se vuelve loco con el rey Achis en Gat
-^11^ ^a^ ^a^[**21:11** Sal 56,1] \ ^12^ ^a^ ^14^ ^b^ ^15^ ^a^[**21:12** 1Sam 18,7; 1Sam 29,5] ^b^[**21:14** Sal 34,1] 
+^11^ ^a^ ^a^[**21:11** Sal 56,1] \ ^12^ ^a^ ^14^ ^b^ ^a^[**21:12** 1Sam 18,7; 1Sam 29,5] ^b^[**21:14** Sal 34,1] \ 
 ## 22
 ^0^ 
 ### La posterior huida de David a Adullam, Mizpe en Moab y Jaar-Hereth en Judá; su cuidado por sus padres
@@ -2385,7 +2402,7 @@
 ### El dolor de David; Matando al mensajero
 ^11^ ^a^ ^12^ ^b^ ^a^[**1:11** Gén 37,29] ^b^[**1:12** 1Sam 31,13] \ ^13^ \ ^14^ ^a^ ^15^ ^b^ ^16^ ^c^ ^a^[**1:14** 1Sam 24,7] ^b^[**1:15** 2Sam 4,10; 2Sam 4,12] ^c^[**1:16** 1Re 2,23; 1Re 2,33] 
 ### Lamentación de David por Saúl y Jonatán
-^20^ ^a^ ^21^ ^b^ ^27^ ^a^[**1:20** Miq 1,10; 1Sam 18,6] ^b^[**1:21** Núm 15,18-21] 
+^20^ ^a^ ^21^ ^b^ ^a^[**1:20** Miq 1,10; 1Sam 18,6] ^b^[**1:21** Núm 15,18-21] \ 
 ## 2
 ^0^ 
 ### David llega a ser rey sobre la tribu de Judá, Isboseth sobre Israel
@@ -2445,7 +2462,7 @@
 ### La gran proclamación de salvación de Dios a David con respecto a la eternidad de su casa
 ^14^ ^a^ ^15^ ^b^ ^16^ ^c^ ^a^[**7:14** Sal 89,27; Heb 1,5; Luc 1,32] ^b^[**7:15** 1Sam 15,23; 1Sam 15,26] ^c^[**7:16** Sal 72,17; Is 55,3] 
 ### Acción de gracias y súplica de David
-^17^ \ ^23^ ^a^ ^24^ ^a^[**7:23** Deut 4,7] \ ^27^ \ ^28^ ^a^ ^29^ ^a^[**7:28** 1Re 8,26] 
+^17^ \ ^23^ ^a^ ^24^ ^a^[**7:23** Deut 4,7] \ ^27^ \ ^28^ ^a^ ^a^[**7:28** 1Re 8,26] \ 
 ## 8
 ^0^ 
 ### Las victorias de David sobre los filisteos, moabitas y sirios
@@ -2455,13 +2472,13 @@
 ### Derrota y subyugación de los edomitas
 ^13^ ^a^ ^14^ ^b^ ^a^[**8:13** Sal 60,2] ^b^[**8:14** Gén 27,40] 
 ### Directorio de los principales oficiales de David
-^16^ ^a^ ^18^ ^a^[**8:16** 2Sam 20,23-26] 
+^16^ ^a^ ^a^[**8:16** 2Sam 20,23-26] \ 
 ## 9
 ^0^ 
 ### La generosidad de David hacia el hijo de Jonatán, Mefiboset
 ^2^ ^a^ ^a^[**9:2** 2Sam 16,1] \ ^3^ ^a^ ^a^[**9:3** 2Sam 4,4] \ ^4^ ^a^ ^a^[**9:4** 2Sam 17,27] 
 ### Las magnánimas disposiciones de David con respecto a Mefiboset
-^6^ \ ^7^ \ ^8^ \ ^10^ \ ^11^ ^a^ ^13^ ^a^[**9:11** 2Sam 19,29] 
+^6^ \ ^7^ \ ^8^ \ ^10^ \ ^11^ ^a^ ^a^[**9:11** 2Sam 19,29] \ 
 ## 10
 ^0^ 
 ### El vergonzoso crimen de los amonitas contra el mensajero de David
@@ -2553,7 +2570,7 @@
 ### El suicidio de Ahitofel
 ^23^ ^a^ ^a^[**17:23** Mat 27,5] 
 ### Absalón comienza la persecución de David y le da a Amasa el mando supremo; David en Mahanaim
-^26^ \ ^27^ ^a^ ^29^ ^a^[**17:27** 2Sam 9,4; 1Re 2,7] 
+^26^ \ ^27^ ^a^ ^a^[**17:27** 2Sam 9,4; 1Re 2,7] \ 
 ## 18
 ^0^ 
 ### Las órdenes militares de David; Salida de su ejército
@@ -2597,7 +2614,7 @@
 ### La maravillosa muestra de amor de Rizpa; Sepultura de los huesos de Saúl y sus descendientes
 ^12^ ^a^ ^14^ ^a^[**21:12** 1Sam 31,12] 
 ### Algunas hazañas de los guerreros de David en las guerras filisteas
-^17^ ^a^ ^a^[**21:17** 2Sam 23,18] \ ^18^ ^a^ ^19^ ^b^ ^22^ ^a^[**21:18** 1Cró 20,4-8] ^b^[**21:19** 1Sam 17,7] 
+^17^ ^a^ ^a^[**21:17** 2Sam 23,18] \ ^18^ ^a^ ^19^ ^b^ ^a^[**21:18** 1Cró 20,4-8] ^b^[**21:19** 1Sam 17,7] \ 
 ## 22
 ^0^ 
 ### El cántico de acción de gracias y victoria de David después de derrotar a sus enemigos
@@ -2613,7 +2630,7 @@
 ### Abisai y Benaja
 ^18^ ^a^ ^19^ ^a^[**23:18** 2Sam 21,17] \ ^23^ 
 ### Una lista de otros héroes de David
-^24^ ^a^ ^34^ ^b^ ^39^ ^a^[**23:24** 2Sam 2,18] ^b^[**23:34** 2Sam 15,12] 
+^24^ ^a^ ^34^ ^b^ ^a^[**23:24** 2Sam 2,18] ^b^[**23:34** 2Sam 15,12] \ 
 ## 24
 ^0^ 
 ### David decide el censo a pesar de la advertencia de Joab
@@ -2635,7 +2652,7 @@
 ^14^ 
 ### Betsabé le recuerda al rey su promesa; La intervención de Nathan
 ^16^ \ ^19^ ^a^ ^21^ ^a^[**1:19** 1Re 1,9-10] \ ^23^ \ ^25^ ^a^ ^26^ ^b^ ^27^ ^a^[**1:25** 2Sam 16,16] ^b^[**1:26** 1Re 1,10] 
-### David confirma su promesa anterior con un juramento, nombra a Salomón como su sucesor y determina su unción inmediata
+### David confirma su promesa anterior con un juramento, nombra a Salomón como su sucesor y determina su unción inmediata.
 ^30^ \ ^31^ \ ^35^ \ ^37^ 
 ### La unción solemne de Salomón; Efecto del mensaje en cuestión en los reunidos en la comida del sacrificio
 ^39^ ^a^ ^a^[**1:39** 1Cró 23,1; 1Cró 29,22] \ ^41^ \ ^42^ \ ^46^ ^a^ ^48^ ^a^[**1:46** 1Cró 28,5] \ ^49^ 
@@ -2678,7 +2695,7 @@
 ### La respuesta y la promesa de Hiram
 ^9^ \ ^12^ ^a^ ^a^[**5:12** Ecl 12,9] 
 ### Los obreros de Salomón y la obra preparatoria final para la construcción del templo
-^15^ ^a^ ^18^ ^a^[**5:15** 2Sam 5,11] 
+^15^ ^a^ ^a^[**5:15** 2Sam 5,11] \ 
 ## 6
 ^0^ 
 ### Construcción del templo y palacios reales
@@ -2742,7 +2759,7 @@
 ### Visita de la Reina de Saba
 ^1^ ^a^ ^8^ ^b^ ^9^ ^c^ ^10^ ^a^[**10:1** Mat 12,42] ^b^[**10:8** Luc 10,23] ^c^[**10:9** 1Re 5,21] \ ^11^ ^a^ ^12^ ^a^[**10:11** 1Re 9,27-28] \ ^13^ 
 ### Información diversa sobre los ingresos, los objetos de valor, la reputación y el poder de Salomón, el comercio de caballos
-^22^ \ ^25^ \ ^26^ ^a^ ^29^ ^a^[**10:26** 1Re 5,6; 2Cró 1,14-17] 
+^22^ \ ^25^ \ ^26^ ^a^ ^a^[**10:26** 1Re 5,6; 2Cró 1,14-17] \ 
 ## 11
 ^0^ 
 ### La poligamia y la idolatría de Salomón; La amenaza de dios
@@ -2886,7 +2903,7 @@
 ### Josafat, rey de Judá
 ^41^ ^a^ ^44^ ^b^ ^a^[**22:41** 1Re 15,24] ^b^[**22:44** 1Re 15,14; 2Re 12,4] \ ^47^ ^a^ ^50^ ^a^[**22:47** 1Re 15,12] \ ^51^ ^a^ ^a^[**22:51** 2Re 8,16] 
 ### Ochôzías, rey de Israel
-^52^ ^a^ 
+^52^ ^^ 
 # 12-2 Reyes.md
 ## 1
 ^0^ 
@@ -2895,7 +2912,7 @@
 ### Elijah y los tres capitanes
 ^9^ \ ^10^ \ ^11^ \ ^12^ \ ^14^ 
 ### Elías con Ochôzías; Muerte del rey
-^15^ \ ^16^ ^a^ ^a^[**1:16** 2Re 1,3-4] \ ^17^ ^a^ ^18^ ^a^[**1:17** 2Re 3,1] 
+^15^ \ ^16^ ^a^ ^a^[**1:16** 2Re 1,3-4] \ ^17^ ^a^ ^a^[**1:17** 2Re 3,1] \ 
 ## 2
 ^0^ 
 ### Elías en la caminata con su fiel sirvienta Elisa
@@ -2959,7 +2976,7 @@
 ### Reporta los leprosos en la ciudad y sus efectos
 ^10^ \ ^11^ \ ^12^ \ ^13^ \ ^14^ 
 ### La profecía de Eliseo se hace realidad
-^17^ ^a^ ^20^ ^a^[**7:17** 2Re 7,2] 
+^17^ ^a^ ^a^[**7:17** 2Re 7,2] \ 
 ## 8
 ^0^ 
 ### Elisa y la Sunamita
@@ -2995,7 +3012,7 @@
 ### Jehú extermina a los adoradores de Baals en Samaria
 ^18^ ^a^ ^19^ ^a^[**10:18** 1Re 16,31-33] \ ^20^ \ ^22^ \ ^23^ ^a^ ^a^[**10:23** 2Re 10,15] \ ^24^ ^a^ ^a^[**10:24** 1Re 20,39] \ ^25^ ^a^ ^26^ ^b^ ^27^ ^c^ ^a^[**10:25** 1Re 18,40] ^b^[**10:26** 2Re 11,18] ^c^[**10:27** 2Re 3,2] 
 ### La predicación de Dios a Jehú; Fracasos de Jehú; Conclusión de la historia de Jehú
-^30^ ^a^ ^a^[**10:30** 2Re 15,12] \ ^31^ \ ^35^ ^a^ ^36^ ^a^[**10:35** 2Re 13,1] 
+^30^ ^a^ ^a^[**10:30** 2Re 15,12] \ ^31^ \ ^35^ ^a^ ^a^[**10:35** 2Re 13,1] \ 
 ## 11
 ^0^ 
 ### El robo y el asesinato de Atalía; Rescate de Joás
@@ -3055,7 +3072,7 @@
 ### Peka, rey de Israel
 ^28^ ^a^ ^29^ ^b^ ^30^ ^c^ ^31^ ^a^[**15:28** 2Re 15,9] ^b^[**15:29** 1Cró 5,26] ^c^[**15:30** 2Re 17,1; 2Re 15,25] 
 ### Jotam rey de Judá
-^34^ ^a^ ^38^ ^a^[**15:34** 2Re 15,3-4] 
+^34^ ^a^ ^a^[**15:34** 2Re 15,3-4] \ 
 ## 16
 ^0^ 
 ### Las abominaciones paganas de Acaz
@@ -3063,7 +3080,7 @@
 ### Su guerra con Siria e Israel; Acaz se convierte en tributo a los asirios
 ^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^8^ ^d^ ^9^ ^a^[**16:5** Is 7,1-9] ^b^[**16:6** 2Re 14,22] ^c^[**16:7** 2Re 15,29] ^d^[**16:8** 1Re 15,18] 
 ### Acaz tiene un nuevo altar para los holocaustos construido, emite una nueva orden de sacrificio e interviene en la propiedad del templo
-^16^ \ ^17^ ^a^ ^20^ ^a^[**16:17** 1Re 7,23-39] 
+^16^ \ ^17^ ^a^ ^a^[**16:17** 1Re 7,23-39] \ 
 ## 17
 ^0^ 
 ### Oseas rey de Israel; Caída del imperio; Cautiverio asirio
@@ -3123,7 +3140,7 @@
 ### Josías se encarga de la reparación del templo; Informe sobre el descubrimiento del código y su primer efecto
 ^7^ \ ^10^ \ ^13^ 
 ### Interrogatorio y respuesta de la profetisa Hulda
-^17^ ^a^ ^20^ ^a^[**22:17** Deut 31,29; Deut 32,21-23] 
+^17^ ^a^ ^a^[**22:17** Deut 31,29; Deut 32,21-23] \ 
 ## 23
 ^0^ 
 ### Josías concluye el nuevo pacto de Dios en asociación con los ancianos del pueblo
@@ -3178,7 +3195,7 @@
 ### Los descendientes de Esaú
 ^35^ ^a^ ^37^ ^a^[**1:35** Gén 36,10-19] \ ^42^ 
 ### Los reyes y jefes edomitas
-^43^ ^a^ ^54^ ^a^[**1:43** Gén 36,31-43] 
+^43^ ^a^ ^a^[**1:43** Gén 36,31-43] \ 
 ## 2
 ^0^ 
 ### Los hijos de Jacob Israel y las familias de la tribu de Judá
@@ -3200,7 +3217,7 @@
 ### Los reyes davídicos desde Salomón hasta la destrucción de Jerusalén
 ^10^ ^a^ ^16^ ^a^[**3:10** Mat 1,7-12] 
 ### Los otros descendientes de David (desde Jechonja en adelante)
-^17^ ^a^ ^24^ ^a^[**3:17** 2Cró 36,10] 
+^17^ ^a^ ^a^[**3:17** 2Cró 36,10] \ 
 ## 4
 ^0^ 
 ### Más información sobre las familias de la tribu de Judá
@@ -3210,14 +3227,14 @@
 ### Las residencias más antiguas de la tribu
 ^28^ ^a^ ^33^ ^a^[**4:28** Jos 19,2-8] 
 ### Indicación de otros jefes de familia simeonitas; las dos conquistas de los simeonitas
-^38^ \ ^41^ ^a^ ^43^ ^a^[**4:41** 2Re 18,1] 
+^38^ \ ^41^ ^a^ ^a^[**4:41** 2Re 18,1] \ 
 ## 5
 ^0^ 
 ### Información sobre Rubén y sus descendientes
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^8^ ^a^[**5:1** Gén 35,22; Gén 49,4] ^b^[**5:2** Gén 49,8; Gén 49,10; Gén 49,22; Deut 33,7; Deut 33,13-17] ^c^[**5:3** Éxod 6,14] 
 ### Información histórica sobre Bela
 ^9^ \ ^10^ 
-### Información sobre la estirpe y lugares de residencia, así como sobre la valoración de los gaditas
+### Información sobre la estirpe y lugares de residencia, así como sobre la valoración de los gaditas.
 ^17^ ^a^ ^a^[**5:17** 2Re 15,32; 2Re 14,23] 
 ### La lucha de las tres tribus de Transjordania con los agaritascon los agaritas
 ^22^ 
@@ -3256,7 +3273,7 @@
 ### Residencias de la tribu
 ^28^ ^a^ ^29^ ^b^ ^a^[**7:28** Jos 16,1; Jos 16,10] ^b^[**7:29** Jos 17,11] 
 ### La tribu de Asser
-^30^ ^a^ ^40^ ^a^[**7:30** Gén 46,17] 
+^30^ ^a^ ^a^[**7:30** Gén 46,17] \ 
 ## 8
 ^0^ 
 ### Hijos y descendientes de Benjamín a través de Bela
@@ -3282,7 +3299,7 @@
 ### Información sobre los cantantes del templo; Palabra final
 ^33^ ^a^ ^34^ ^a^[**9:33** 1Cró 9,14-16] 
 ### Apéndice: Los habitantes de Gabaón y una segunda genealogía de la casa de Saúl
-^35^ ^a^ ^44^ ^a^[**9:35** 1Cró 8,29-38] 
+^35^ ^a^ ^a^[**9:35** 1Cró 8,29-38] \ 
 ## 10
 ^0^ 
 ### Israel derrotado por los filisteos en el monte Gilboa; Muerte de Saúl y sus tres hijos
@@ -3290,7 +3307,7 @@
 ### El destino de los cadáveres de Saúl y sus hijos
 ^12^ 
 ### Revisión de la deuda de Saúl con Dios
-^13^ ^a^ ^14^ ^a^[**10:13** 1Sam 15,11; 1Sam 28,8] 
+^13^ ^a^ ^a^[**10:13** 1Sam 15,11; 1Sam 28,8] \ 
 ## 11
 ^0^ 
 ### La unción de David en Hebrón y la conquista de Jerusalén
@@ -3302,7 +3319,7 @@
 ### Abisai y Benaías
 ^21^ \ ^24^ ^a^ ^25^ ^a^[**11:24** 1Cró 27,5-6] 
 ### Una lista de otros héroes de David
-^41^ ^a^ ^47^ ^a^[**11:41** 2Sam 11,3] 
+^41^ ^a^ ^a^[**11:41** 2Sam 11,3] \ 
 ## 12
 ^0^ 
 ### Los seguidores de David en Siclag y Adullam mientras Saúl todavía estaba vivo
@@ -3311,7 +3328,7 @@
 ^28^ ^a^ ^37^ ^a^[**12:28** 2Sam 15,24; 1Cró 5,34] \ 
 ## 13
 ^0^ 
-### Movilización de todo el pueblo con fines de recuperación
+### Movilización de todo el pueblo con fines de recuperación.
 ^3^ \ ^5^ 
 ### Fracaso del plan
 ^8^ \ ^11^ 
@@ -3332,7 +3349,7 @@
 ### Orden de los cantantes, músicos y porteadores levíticos
 ^24^ 
 ### La participación personal de David en la transferencia; la fiesta del sacrificio y la acción de gracias
-^25^ ^a^ ^29^ ^a^[**15:25** 2Sam 6,12-16] 
+^25^ ^a^ ^a^[**15:25** 2Sam 6,12-16] \ 
 ## 16
 ^3^ 
 ### Orden del servicio de canto y música en el Arca
@@ -3340,7 +3357,7 @@
 ### Canto de agradecimiento y alabanza de David
 ^8^ ^a^ ^23^ ^b^ ^34^ ^c^ ^36^ ^a^[**16:8** Sal 105,1-15] ^b^[**16:23** Sal 96,-1] ^c^[**16:34** Sal 106,47-48] 
 ### Establecimiento del servicio de portero, sacerdote y cantante en el arca; Fin del festival
-^39^ ^a^ ^40^ ^b^ ^43^ ^a^[**16:39** 1Cró 21,29] ^b^[**16:40** Éxod 29,38-39] 
+^39^ ^a^ ^40^ ^b^ ^a^[**16:39** 1Cró 21,29] ^b^[**16:40** Éxod 29,38-39] \ 
 ## 17
 ^0^ 
 ### Natán aprueba el plan de David para construir el templo
@@ -3374,7 +3391,7 @@
 ### Joab conquista Rabá; El triunfo de David y el castigo de los amonitas
 ^3^ 
 ### Algunas hazañas de los guerreros de David en las guerras filisteas
-^4^ \ ^7^ ^a^ ^8^ ^a^[**20:7** 1Sam 17,10] 
+^4^ \ ^7^ ^a^ ^a^[**20:7** 1Sam 17,10] \ 
 ## 21
 ^0^ 
 ### David, a instigación de Satanás, completa el censo a pesar de la advertencia de Joab; Resultado del recuento
@@ -3400,7 +3417,7 @@
 ### Clasificación de los levitas según Gerson, Kehath y Merari
 ^6^ \ ^8^ ^a^ ^11^ ^a^[**23:8** 1Cró 26,21] \ ^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^16^ ^d^ ^17^ ^e^ ^20^ ^a^[**23:13** 1Cró 6,34; Heb 5,4; Deut 10,8] ^b^[**23:14** Deut 33,1] ^c^[**23:15** Éxod 18,3-4] ^d^[**23:16** 1Cró 26,24] ^e^[**23:17** 1Cró 24,21-30] \ ^23^ 
 ### Instrucciones oficiales para los levitas
-^25^ ^a^ ^32^ ^a^[**23:25** Jl 4,21] 
+^25^ ^a^ ^a^[**23:25** Jl 4,21] \ 
 ## 24
 ^0^ 
 ### El dibujo de las 24 clases sacerdotales
@@ -3440,7 +3457,7 @@
 ### Las instrucciones de David y su contribución a Salomón
 ^9^ ^a^ ^10^ ^a^[**28:9** Sal 7,10] 
 ### David le da a Salomón el modelo de la casa del templo y los tesoros recolectados para su construcción
-^19^ \ ^20^ ^a^ ^21^ ^a^[**28:20** 1Cró 22,13; Deut 31,6] 
+^19^ \ ^20^ ^a^ ^a^[**28:20** 1Cró 22,13; Deut 31,6] \ 
 ## 29
 ^0^ 
 ### La contribución de los príncipes a la construcción del templo siguiendo la amonestación de David
@@ -3459,7 +3476,7 @@
 ### La aparición de Dios (o sueño) después del sacrificio
 ^7^ \ ^10^ \ ^12^ \ ^13^ 
 ### La riqueza y el comercio de Salomón en carros y caballos
-^14^ ^a^ ^15^ ^b^ ^17^ ^a^[**1:14** 1Re 10,26-29] ^b^[**1:15** 2Cró 9,27] 
+^14^ ^a^ ^15^ ^b^ ^a^[**1:14** 1Re 10,26-29] ^b^[**1:15** 2Cró 9,27] \ 
 ## 2
 ^0^ 
 ### El tratado de Salomón con Hiram de Tiro; Preparativos para la construcción del templo
@@ -3469,7 +3486,7 @@
 ### Respuesta y aceptación de Hiram
 ^12^ \ ^14^ \ ^16^ 
 ### Salomón eleva a los no israelitas al trabajo esclavo
-^17^ ^a^ ^18^ ^a^[**2:17** Jos 9,27] 
+^17^ ^a^ ^a^[**2:17** Jos 9,27] \ 
 ## 3
 ^0^ 
 ### Inicio de la construcción del templo; los muebles del templo
@@ -3486,7 +3503,7 @@
 ^6^ \ ^10^ \ ^11^ \ ^18^ \ 
 ## 5
 ^0^ 
-### Los objetos de valor almacenados en las cámaras del tesoro
+### Los objetos de valor almacenados en las cámaras del tesoro.
 ^1^ ^a^ ^a^[**5:1** 1Cró 28,14-18] 
 ### La transferencia del arca al lugar santísimo
 ^10^ ^a^ ^a^[**5:10** Heb 9,4] 
@@ -3503,7 +3520,7 @@
 ### Aparición de la gloria de Dios; Salomón y el pueblo fiesta solemne de sacrificios y asamblea de celebración
 ^1^ ^a^ ^3^ ^a^[**7:1** Lev 9,24; 1Re 18,38; Éxod 40,34] \ ^6^ \ ^7^ ^a^ ^a^[**7:7** 1Re 8,62-66] \ ^8^ \ ^10^ 
 ### La repetida aparición de Dios y su respuesta (promesa y amenaza) a la oración de Salomón
-^11^ \ ^12^ ^a^ ^a^[**7:12** Deut 12,5] \ ^16^ \ ^18^ ^a^ ^a^[**7:18** 2Sam 7,12; 2Sam 7,16] \ ^21^ ^a^ ^22^ ^a^[**7:21** Deut 29,23-26; Jer 22,8-9] 
+^11^ \ ^12^ ^a^ ^a^[**7:12** Deut 12,5] \ ^16^ \ ^18^ ^a^ ^a^[**7:18** 2Sam 7,12; 2Sam 7,16] \ ^21^ ^a^ ^a^[**7:21** Deut 29,23-26; Jer 22,8-9] \ 
 ## 8
 ^0^ 
 ### Información sobre las ciudades y fortalezas de Salomón
@@ -3541,13 +3558,13 @@
 ### Entrada de sacerdotes, levitas y personas piadosas del reino de diez tribus
 ^14^ ^a^ ^15^ ^b^ ^17^ ^a^[**11:14** 2Cró 13,9] ^b^[**11:15** 1Re 12,31] 
 ### Historia familiar de rehaboam
-^18^ ^a^ ^23^ ^a^[**11:18** 1Sam 16,6] 
+^18^ ^a^ ^a^[**11:18** 1Sam 16,6] \ 
 ## 12
 ^0^ 
 ### Incursión y saqueo del rey egipcio Sisak; Aparición del profeta Semeías
 ^4^ ^a^ ^5^ ^a^[**12:4** 2Cró 11,4-10] \ ^6^ \ ^8^ \ ^12^ 
 ### Conclusión del gobierno de Roboam y las fuentes de su historia
-^14^ \ ^15^ ^a^ ^16^ ^a^[**12:15** 2Cró 13,22] 
+^14^ \ ^15^ ^a^ ^a^[**12:15** 2Cró 13,22] \ 
 ## 13
 ^0^ 
 ### La guerra de Abias con Jeroboam; su discurso al ejército de Jeroboam
@@ -3603,7 +3620,7 @@
 ### Discurso de castigo del profeta Jehú a Josafat
 ^3^ ^a^ ^a^[**19:3** 2Cró 17,3-6] 
 ### La reorganización de la administración de justicia por parte de Josafat
-^7^ \ ^8^ ^a^ ^11^ ^a^[**19:8** Deut 17,8-9; Deut 19,17] 
+^7^ \ ^8^ ^a^ ^a^[**19:8** Deut 17,8-9; Deut 19,17] \ 
 ## 20
 ^0^ 
 ### La oración de Josafat después de que el enemigo invadió
@@ -3647,7 +3664,7 @@
 ### Captura y asesinato de Athalja; Elevación de Joás a rey
 ^11^ \ ^13^ \ ^15^ 
 ### Medidas de Joiada para la gloria de Dios; Coronación de Joás
-^18^ ^a^ ^21^ ^a^[**23:18** 2Cró 29,30] 
+^18^ ^a^ ^a^[**23:18** 2Cró 29,30] \ 
 ## 24
 ^0^ 
 ### El gobierno del rey Joás
@@ -3657,7 +3674,7 @@
 ### El alejamiento de Joás de Dios después de la muerte de Joiada; El discurso de Zachârías y su lapidación
 ^16^ \ ^19^ \ ^20^ \ ^22^ 
 ### Guerra desafortunada con los sirios; Asesinato del rey por conspiradores; Palabra final
-^24^ \ ^25^ ^a^ ^27^ ^a^[**24:25** 2Cró 21,20] 
+^24^ \ ^25^ ^a^ ^a^[**24:25** 2Cró 21,20] \ 
 ## 25
 ^0^ 
 ### El gobierno del rey Amasías; Buen comienzo para el gobierno
@@ -3669,7 +3686,7 @@
 ### La desafortunada guerra de Amasías con Joás de Israel
 ^17^ \ ^19^ \ ^22^ \ ^24^ 
 ### Palabra final; Asesinato del rey por conspiradores
-^27^ ^a^ ^28^ ^a^[**25:27** 2Cró 24,25] 
+^27^ ^a^ ^a^[**25:27** 2Cró 24,25] \ 
 ## 26
 ^0^ 
 ### El gobierno del rey Ussia; Buen comienzo para el gobierno; La felicidad de Ussia en la guerra y la paz
@@ -3679,11 +3696,11 @@
 ### La invasión de Ussia al sacerdocio es castigada por Dios con lepra
 ^18^ ^a^ ^a^[**26:18** Núm 18,7] \ ^21^ 
 ### Muerte y entierro de Ussia
-^22^ ^a^ ^23^ ^a^[**26:22** 2Re 15,5-7; Is 1,1; Is 6,1] 
+^22^ ^a^ ^a^[**26:22** 2Re 15,5-7; Is 1,1; Is 6,1] \ 
 ## 27
 ^0^ 
 ### El gobierno del rey Jotam; Gobierno bueno y feliz; Edificios y guerras exitosas
-^4^ ^a^ ^9^ ^a^[**27:4** 2Cró 26,10] 
+^4^ ^a^ ^a^[**27:4** 2Cró 26,10] \ 
 ## 28
 ^0^ 
 ### El reinado del rey Acaz; Las abominaciones paganas de Acaz
@@ -3705,7 +3722,7 @@
 ### Purificación del templo por los levitas
 ^19^ 
 ### La nueva consagración del templo con sacrificios, oración y cánticos
-^24^ \ ^25^ ^a^ ^28^ ^a^[**29:25** 1Cró 25,1] \ ^30^ \ ^34^ ^a^ ^35^ ^b^ ^36^ ^a^[**29:34** 2Cró 30,3; 2Cró 30,16-17] ^b^[**29:35** Lev 3,16-17; Núm 15,5; Núm 15,7; Núm 15,10] 
+^24^ \ ^25^ ^a^ ^28^ ^a^[**29:25** 1Cró 25,1] \ ^30^ \ ^34^ ^a^ ^35^ ^b^ ^a^[**29:34** 2Cró 30,3; 2Cró 30,16-17] ^b^[**29:35** Lev 3,16-17; Núm 15,5; Núm 15,7; Núm 15,10] \ 
 ## 30
 ^0^ 
 ### Celebración de la Pascua de Ezechîas
@@ -3713,7 +3730,7 @@
 ### Curso de Pascua en la primera semana
 ^15^ ^a^ ^16^ ^b^ ^18^ ^c^ ^19^ ^a^[**30:15** Núm 9,11] ^b^[**30:16** 2Cró 29,34] ^c^[**30:18** Éxod 12,-1] \ ^22^ 
 ### Continuación de la celebración en la segunda semana
-^24^ ^a^ ^27^ ^a^[**30:24** 2Cró 35,7] 
+^24^ ^a^ ^a^[**30:24** 2Cró 35,7] \ 
 ## 31
 ^0^ 
 ### Limpiando la tierra de la idolatría
@@ -3747,7 +3764,7 @@
 ### Manasés construyendo muros y esfuerzos para eliminar la idolatría
 ^17^ \ ^18^ ^a^ ^19^ ^a^[**33:18** 2Re 21,17-18] 
 ### Amón Rey de Judá
-^23^ ^a^ ^25^ ^a^[**33:23** 2Cró 33,12] 
+^23^ ^a^ ^a^[**33:23** 2Cró 33,12] \ 
 ## 34
 ^0^ 
 ### El gobierno del rey Josías
@@ -3761,13 +3778,13 @@
 ### Interrogatorio y respuesta de la profetisa Hulda
 ^22^ \ ^27^ ^a^ ^28^ ^a^[**34:27** 2Cró 33,12] 
 ### Josías concluye el nuevo pacto de Dios en asociación con los ancianos del pueblo
-^31^ ^a^ ^32^ ^b^ ^33^ ^a^[**34:31** 2Cró 15,12; Jos 24,25] ^b^[**34:32** 2Re 23,3] 
+^31^ ^a^ ^32^ ^b^ ^a^[**34:31** 2Cró 15,12; Jos 24,25] ^b^[**34:32** 2Re 23,3] \ 
 ## 35
 ^0^ 
 ### La estricta celebración de la Pascua de Josías
 ^3^ ^a^ ^6^ ^a^[**35:3** 1Re 6,1] \ ^9^ \ ^15^ ^a^ ^a^[**35:15** 1Cró 25,1; 1Cró 26,1] \ ^19^ 
 ### Necao de Egipto y la muerte de Josías; Dolor por el
-^21^ \ ^23^ \ ^25^ ^a^ ^27^ ^a^[**35:25** Jer 22,10-11] 
+^21^ \ ^23^ \ ^25^ ^a^ ^a^[**35:25** Jer 22,10-11] \ 
 ## 36
 ^0^ 
 ### Joachâz rey de Judá
@@ -3790,7 +3807,7 @@
 ### El efecto y ejecución de la disposición
 ^6^ 
 ### Publicación y listado de los implementos del templo entregados a Sesbassar (Zorobabel)
-^8^ ^a^ ^11^ ^a^[**1:8** Esd 2,2; Esd 2,63; Esd 5,14] 
+^8^ ^a^ ^a^[**1:8** Esd 2,2; Esd 2,63; Esd 5,14] \ 
 ## 2
 ^0^ 
 ### Directorio de judíos que regresan
@@ -3806,12 +3823,12 @@
 ### Construcción del altar de las ofrendas quemadas y establecimiento del servicio de sacrificios regular; Celebración de la Fiesta de los Tabernáculos
 ^1^ ^a^ ^2^ ^b^ ^4^ ^c^ ^6^ ^a^[**3:1** Esd 2,64] ^b^[**3:2** Esd 2,2; 1Cró 3,17-19; Éxod 27,1; Lev 6,2] ^c^[**3:4** Lev 23,34; Núm 29,12-38] 
 ### Preparaciones para la construcción de templos; Colocación ceremonial de la primera piedra
-^7^ \ ^9^ \ ^11^ ^a^ ^a^[**3:11** 2Cró 5,13; 2Cró 7,3; Sal 118,1] \ ^12^ ^a^ ^13^ ^a^[**3:12** Ag 2,3] 
+^7^ \ ^9^ \ ^11^ ^a^ ^a^[**3:11** 2Cró 5,13; 2Cró 7,3; Sal 118,1] \ ^12^ ^a^ ^a^[**3:12** Ag 2,3] \ 
 ## 4
 ^0^ 
 ### Rechazo de los samaritanos de participar en la construcción del templo
 ^2^ ^a^ ^a^[**4:2** 2Re 17,24; 2Re 17,33; 2Re 19,37] \ ^3^ ^a^ ^a^[**4:3** Esd 1,3] \ ^5^ ^a^ ^a^[**4:5** Esd 4,24] 
-### Varias acusaciones contra los judíos y su templo y la construcción de muros bajo el gobierno de Jerjes y Artajerjes
+### Varias acusaciones contra los judíos y su templo y la construcción de muros bajo el gobierno de Jerjes y Artajerjes.
 ^6^ \ ^10^ \ ^11^ \ ^16^ 
 ### La construcción del templo se paralizó como consecuencia de un real decreto
 ^24^ ^a^ ^a^[**4:24** Esd 4,5; Esd 6,15] 
@@ -3830,7 +3847,7 @@
 ### Terminación y dedicación solemne del templo
 ^13^ \ ^15^ \ ^16^ ^a^ ^17^ ^b^ ^18^ ^c^ ^a^[**6:16** Núm 7,10; 1Re 8,62-66] ^b^[**6:17** Esd 8,35] ^c^[**6:18** Núm 3,6; Núm 8,24] 
 ### Celebración de la Pascua
-^19^ ^a^ ^22^ ^a^[**6:19** Éxod 12,6] 
+^19^ ^a^ ^a^[**6:19** Éxod 12,6] \ 
 ## 7
 ^0^ 
 ### El regreso de Esdras y su banda de Babilonia a Jerusalén
@@ -3915,7 +3932,7 @@
 ### La invitación de Nehemías y Esdras a las personas afligidas a celebrar el día con alegría festiva
 ^9^ ^a^ ^10^ ^a^[**8:9** Neh 5,14] \ ^11^ \ ^12^ 
 ### Celebración de la Fiesta de los Tabernáculos con lectura constante de la ley
-^15^ \ ^16^ ^a^ ^18^ ^a^[**8:16** Neh 8,1] 
+^15^ \ ^16^ ^a^ ^a^[**8:16** Neh 8,1] \ 
 ## 9
 ^0^ 
 ### Celebración del día de la penitencia con varias horas de lectura de la ley y varias horas de confesión
@@ -3941,7 +3958,7 @@
 ### Listas de los jefes de los judíos y benjaminitas que vivían en Jerusalén (incluidos sacerdotes, porteros, etc.)
 ^3^ ^a^ ^6^ ^a^[**11:3** Neh 7,57; 1Cró 9,2-17] \ ^9^ \ ^14^ \ ^18^ \ ^21^ \ ^24^ 
 ### Lista de lugares que luego fueron poblados por judíos, benjaminitas y levitas
-^28^ ^a^ ^36^ ^a^[**11:28** Jos 15,31] 
+^28^ ^a^ ^a^[**11:28** Jos 15,31] \ 
 ## 12
 ^0^ 
 ### Clases de sacerdotes y levitas que regresaron con Zorobabel y Jesús
@@ -3990,7 +4007,7 @@
 ### El año de preparación de Ester en el palacio real y su elevación a reina
 ^11^ \ ^14^ \ ^15^ \ ^17^ \ ^18^ 
 ### Mardochai descubre una conspiración contra el rey; su mérito está registrado en las crónicas del reino
-^20^ ^a^ ^23^ ^a^[**2:20** Est 2,10] 
+^20^ ^a^ ^a^[**2:20** Est 2,10] \ 
 ## 3
 ^0^ 
 ### Promoción de Amán al más alto honor; Mardochai se niega a doblar las rodillas; Amán decide exterminar a todos los judíos
@@ -3998,15 +4015,15 @@
 ### Amán hace cumplir su resolución con el rey
 ^7^ ^a^ ^9^ ^a^[**3:7** Est 9,24] \ ^11^ 
 ### El exterminio de los judíos en todo el imperio ordenado por el rey
-^12^ ^a^ ^15^ ^a^[**3:12** Est 1,22] 
+^12^ ^a^ ^a^[**3:12** Est 1,22] \ 
 ## 4
 ^0^ 
 ### El dolor de Mardochai; sus esfuerzos para mover a Ester a salvar a los judíos
 ^3^ 
 ### Ester es informada por Mardochai sobre el desastre inminente y le pide que ruegue al rey por misericordia
 ^8^ 
-### La negativa de Esther es derrotada por Mardochai; Sin embargo, requiere que los judíos mantengan un ayuno estricto a su favor
-^11^ ^a^ ^a^[**4:11** Est 5,2; Est 8,4] \ ^14^ \ ^16^ ^a^ ^17^ ^a^[**4:16** 2Re 7,4] 
+### La negativa de Esther es derrotada por Mardochai; Sin embargo, requiere que los judíos mantengan un ayuno estricto a su favor.
+^11^ ^a^ ^a^[**4:11** Est 5,2; Est 8,4] \ ^14^ \ ^16^ ^a^ ^a^[**4:16** 2Re 7,4] \ 
 ## 5
 ^0^ 
 ### La recepción amistosa de Ester por parte del rey y el engaño de Amán
@@ -4019,7 +4036,7 @@
 ^0^ 
 ### Mardochai criado en alto honor por Amán
 ^2^ ^a^ ^3^ ^a^[**6:2** Est 2,21-23] \ ^4^ 
-### Amán involuntariamente hace que el rey decida sobre un honor extraordinario para Mardochai y que lo lleve a cabo personalmente
+### Amán involuntariamente hace que el rey decida sobre un honor extraordinario para Mardochai y que lo lleve a cabo personalmente.
 ^5^ \ ^6^ \ ^9^ \ ^10^ \ ^11^ 
 ### El dolor de Amán; Lleno de presentimientos, fue al banquete de la reina
 ^14^ ^a^ ^a^[**6:14** Est 5,8] 
@@ -4059,7 +4076,7 @@
 ### Destrucción de la fortuna externa de Job
 ^15^ ^a^ ^a^[**1:15** Gén 10,7; Gén 10,28; Gén 25,3] \ ^16^ \ ^17^ \ ^19^ 
 #### La humilde sumisión de Job a la voluntad de Dios
-^20^ ^a^ ^21^ ^b^ ^22^ ^a^[**1:20** Gén 37,34] ^b^[**1:21** Ecl 5,14; 1Tim 6,7] 
+^20^ ^a^ ^21^ ^b^ ^a^[**1:20** Gén 37,34] ^b^[**1:21** Ecl 5,14; 1Tim 6,7] \ 
 ## 2
 ^0^ 
 ### La piedad de Job también se prueba en la segunda prueba; Nuevos acuerdos entre Dios y Satanás
@@ -4067,11 +4084,11 @@
 ### Job, incluso enfermo de lepra, sigue siendo inquebrantablemente piadoso a pesar de la tentación de su esposa
 ^9^ ^a^ ^a^[**2:9** Job 19,17] \ ^10^ ^a^ ^a^[**2:10** Job 1,22; Sant 5,11] 
 ### Los tres amigos de Job guardan silencio con horror cuando visitan; El estallido de dolor de Job
-^11^ ^a^ ^13^ ^a^[**2:11** Gén 36,15; Jer 49,7; Gén 25,2; Jos 15,41] 
+^11^ ^a^ ^a^[**2:11** Gén 36,15; Jer 49,7; Gén 25,2; Jos 15,41] \ 
 ## 3
 ^0^ 
 ### El lamento desesperado de Job
-^21^ ^a^ ^26^ ^a^[**3:21** Apoc 9,6] 
+^21^ ^a^ ^a^[**3:21** Apoc 9,6] \ 
 ## 4
 ^0^ 
 ### Eliphaz excusa su intento de corregir a Job señalando el comportamiento pasado de Job hacia muchos que sufren
@@ -4079,7 +4096,7 @@
 ### Job debe recordar que nadie sufre inocentemente y que solo los malhechores perecen
 ^8^ ^a^ ^11^ ^a^[**4:8** Prov 22,8] 
 ### Eliphaz sabe a través de una aparición nocturna que ante Dios nadie está libre de culpa
-^18^ ^a^ ^19^ ^b^ ^21^ ^a^[**4:18** Job 15,15] ^b^[**4:19** 2Cor 5,1] 
+^18^ ^a^ ^19^ ^b^ ^a^[**4:18** Job 15,15] ^b^[**4:19** 2Cor 5,1] \ 
 ## 5
 ^0^ 
 ### El sufrimiento autoinfligido no tiene defensor y solo aumenta con el resentimiento
@@ -4087,7 +4104,7 @@
 ### Job solo puede obtener la salvación mediante la humildad y la invocación de la bondad de Dios
 ^11^ ^a^ ^14^ ^b^ ^16^ ^a^[**5:11** Sal 75,8; Luc 1,52] ^b^[**5:14** Is 59,9-10] 
 ### Si Job cede al castigo de Dios, la visitación será beneficiosa para toda su vida futura
-^18^ ^a^ ^19^ ^b^ ^23^ ^c^ ^27^ ^a^[**5:18** Deut 32,39; Os 6,1] ^b^[**5:19** Prov 24,16] ^c^[**5:23** Os 2,20; Is 11,6-9] 
+^18^ ^a^ ^19^ ^b^ ^23^ ^c^ ^a^[**5:18** Deut 32,39; Os 6,1] ^b^[**5:19** Prov 24,16] ^c^[**5:23** Os 2,20; Is 11,6-9] \ 
 ## 6
 ^0^ 
 ### Job excusa la amargura de la queja que expresa con la terrible severidad de su sufrimiento
@@ -4103,7 +4120,7 @@
 ### Job deplora las dificultades y la brevedad de la vida humana en general y su propia situación desesperada en particular
 ^1^ ^a^ ^10^ ^b^ ^a^[**7:1** Job 14,6] ^b^[**7:10** Job 10,21; Job 14,10-12; Job 16,22; Sal 103,16] 
 ### Job declara justificada su queja y la conducta de Dios contra él, que está cerca de la muerte, despiadada; su petición a Dios de protección
-^17^ ^a^ ^21^ ^a^[**7:17** Job 14,1-5; Sal 8,5] 
+^17^ ^a^ ^a^[**7:17** Job 14,1-5; Sal 8,5] \ 
 ## 8
 ^0^ 
 ### Fuerte énfasis en la justicia de Dios, que se ha demostrado que es un juicio contra los hijos de Job y resultará ser bueno para Job si busca a Dios con sinceridad
@@ -4129,7 +4146,7 @@
 ### Dios preparó hábilmente a Job y antes le mostró amor y bondad, pero desde el principio lo quiso decir con hostilidad
 ^9^ ^a^ ^17^ ^a^[**10:9** Job 33,6; Gén 2,7; Gén 3,19] 
 ### ¡Que Dios nunca lo haya creado ni le haya dado un pequeño descanso ahora antes de la muerte!
-^18^ ^a^ ^22^ ^a^[**10:18** Job 3,3; Job 3,11; Jer 20,14] 
+^18^ ^a^ ^a^[**10:18** Job 3,3; Job 3,11; Jer 20,14] \ 
 ## 11
 ^0^ 
 ### El discurso de Job exige rechazo; Con su perspicacia, Dios vio claramente a través de la culpa de Job y lo castigó con paciencia
@@ -4149,7 +4166,7 @@
 ### Job equipara su conocimiento con el de sus amigos y apela al conocimiento de Dios, quien solo puede ver en sus amigos defensores mentirosos de su justicia dignos de castigo
 ^5^ ^a^ ^12^ ^a^[**13:5** Prov 17,28] 
 ### Job entra con confianza en esta batalla legal, siempre que Dios le dé la consideración necesaria manteniendo alejado su horror
-^24^ ^a^ ^28^ ^a^[**13:24** Job 19,11] 
+^24^ ^a^ ^a^[**13:24** Job 19,11] \ 
 ## 14
 ^0^ 
 ### La vida humana es corta y al mismo tiempo llena de privaciones; ¿Por qué Dios no lo deja ir en paz?
@@ -4157,7 +4174,7 @@
 ### Después de la muerte ya no hay esperanza ni futuro para las personas
 ^12^ ^a^ ^a^[**14:12** Job 7,10; Job 19,25] 
 ### Debido a la condición del difunto en el reino de los muertos, Job no puede tener ninguna esperanza de resurrección, de justificación y felicidad, porque todo lo bueno se acaba con la muerte
-^13^ ^a^ ^14^ ^b^ ^19^ ^c^ ^22^ ^a^[**14:13** Is 26,20; Sal 27,5; Sal 31,21] ^b^[**14:14** Job 7,1] ^c^[**14:19** Rom 5,5] 
+^13^ ^a^ ^14^ ^b^ ^19^ ^c^ ^a^[**14:13** Is 26,20; Sal 27,5; Sal 31,21] ^b^[**14:14** Job 7,1] ^c^[**14:19** Rom 5,5] \ 
 ## 15
 ^0^ 
 ### Eliphas reprende las declaraciones de Job como vanas, impías y arrogantes palabras contra Dios
@@ -4177,13 +4194,13 @@
 ### Job expone las razones que deben hacer que Dios lo defienda ante la locura y la insensibilidad de los amigos y respecto a la participación de los piadosos
 ^6^ ^a^ ^7^ ^b^ ^9^ ^a^[**17:6** Job 30,9] ^b^[**17:7** Sal 6,8] 
 ### Job rechaza los discursos de conversión y consolación de los amigos como tontos, ya que ha terminado con su vida
-^14^ ^a^ ^16^ ^a^[**17:14** Job 4,19] 
+^14^ ^a^ ^a^[**17:14** Job 4,19] \ 
 ## 18
 ^0^ 
 ### Expresando disgusto por el discurso arrogante y moralista de Job
 ^4^ 
 ### Descripción repetida de la infalible y terrible caída que Dios tiene reservada para los malvados y sus parientes
-^5^ ^a^ ^17^ ^b^ ^21^ ^a^[**18:5** Job 18,18; Job 21,17; Sal 73,18-20; Prov 13,9; Prov 24,20] ^b^[**18:17** Prov 10,7] 
+^5^ ^a^ ^17^ ^b^ ^a^[**18:5** Job 18,18; Job 21,17; Sal 73,18-20; Prov 13,9; Prov 24,20] ^b^[**18:17** Prov 10,7] \ 
 ## 19
 ^0^ 
 ### La queja de Job sobre sus amigos que lo reprenden sin evidencia en lugar de culpar a Dios por una enemistad sin fundamento
@@ -4191,13 +4208,13 @@
 ### La queja de Job sobre el grave sufrimiento que Dios le infligió injustamente y sobre el comportamiento despectivo de la gente contra él
 ^7^ ^a^ ^8^ ^b^ ^11^ ^c^ ^12^ ^d^ ^13^ ^e^ ^14^ ^f^ ^17^ ^g^ ^18^ ^h^ ^19^ ^i^ ^20^ ^j^ ^a^[**19:7** Job 30,20] ^b^[**19:8** Lam 3,7; Lam 3,9] ^c^[**19:11** Job 13,24; Job 33,10] ^d^[**19:12** Job 30,12] ^e^[**19:13** Sal 69,9; Sal 31,12] ^f^[**19:14** Sal 38,12] ^g^[**19:17** Job 2,9] ^h^[**19:18** Job 30,1] ^i^[**19:19** Job 19,13] ^j^[**19:20** Sal 102,6] 
 ### Job pide compasión a sus amigos y expresa la firme esperanza de que algún día Dios lo justifique, pero también castigue la insensibilidad de sus amigos
-^21^ ^a^ ^22^ ^b^ ^25^ ^c^ ^26^ ^d^ ^27^ ^e^ ^29^ ^a^[**19:21** Rut 1,13] ^b^[**19:22** Sal 27,2] ^c^[**19:25** 2Tim 1,12; Is 41,14] ^d^[**19:26** Sal 17,15; Sal 73,24] ^e^[**19:27** 1Jn 3,2] 
+^21^ ^a^ ^22^ ^b^ ^25^ ^c^ ^26^ ^d^ ^27^ ^e^ ^a^[**19:21** Rut 1,13] ^b^[**19:22** Sal 27,2] ^c^[**19:25** 2Tim 1,12; Is 41,14] ^d^[**19:26** Sal 17,15; Sal 73,24] ^e^[**19:27** 1Jn 3,2] \ 
 ## 20
 ^0^ 
 ### Breve rechazo del discurso ofensivo de Job
 ^3^ 
 ### Representación apasionada de la infalible caída de los malvados con una alusión sin amor a la presunta indignación de Job
-^7^ ^a^ ^8^ ^b^ ^9^ ^c^ ^10^ ^d^ ^18^ ^e^ ^26^ ^f^ ^29^ ^a^[**20:7** 1Re 14,10] ^b^[**20:8** Sal 73,20] ^c^[**20:9** Sal 37,10] ^d^[**20:10** Job 27,14] ^e^[**20:18** Deut 28,30-33] ^f^[**20:26** Deut 32,22] 
+^7^ ^a^ ^8^ ^b^ ^9^ ^c^ ^10^ ^d^ ^18^ ^e^ ^26^ ^f^ ^a^[**20:7** 1Re 14,10] ^b^[**20:8** Sal 73,20] ^c^[**20:9** Sal 37,10] ^d^[**20:10** Job 27,14] ^e^[**20:18** Deut 28,30-33] ^f^[**20:26** Deut 32,22] \ 
 ## 21
 ^0^ 
 ### La solicitud de Job a sus amigos de escuchar su declaración significativa, aunque dolorosa, que sigue
@@ -4221,11 +4238,11 @@
 ## 23
 ^0^ 
 ### Job se siente menos perturbado por su sufrimiento inocente que por la conducta incomprensible e injustificable de Dios
-^10^ ^a^ ^17^ ^a^[**23:10** Sal 17,3; Sal 139,23-24] 
+^10^ ^a^ ^a^[**23:10** Sal 17,3; Sal 139,23-24] \ 
 ## 24
 ^0^ 
 ### Job da ejemplos del incomprensible gobierno de Dios en el sufrimiento de los inocentes y en la felicidad de los malvados
-^10^ ^a^ ^11^ ^b^ ^18^ ^c^ ^25^ ^a^[**24:10** Is 58,7] ^b^[**24:11** Sant 5,4] ^c^[**24:18** Gén 49,4] 
+^10^ ^a^ ^11^ ^b^ ^18^ ^c^ ^a^[**24:10** Is 58,7] ^b^[**24:11** Sant 5,4] ^c^[**24:18** Gén 49,4] \ 
 ## 25
 ^0^ 
 ### Referencia al irresistible gobierno de Dios en las alturas y a la naturaleza pecaminosa e imperfección del hombre
@@ -4235,7 +4252,7 @@
 ### Manejo amargo del discurso de Bildad, que no contenía ni consuelo ni sabios consejos
 ^4^ 
 ### Job reconoce la inconmensurable majestad de Dios en una brillante descripción
-^6^ ^a^ ^10^ ^b^ ^14^ ^a^[**26:6** Prov 15,11] ^b^[**26:10** Job 38,10-11; Prov 8,27-29] 
+^6^ ^a^ ^10^ ^b^ ^a^[**26:6** Prov 15,11] ^b^[**26:10** Job 38,10-11; Prov 8,27-29] \ 
 ## 27
 ^0^ 
 ### Job declara que debe aferrarse a la convicción de su inocencia jurada para no convertirse en un mentiroso
@@ -4243,7 +4260,7 @@
 ### Job bien conoce el destino del malhechor (es decir, el mentiroso)
 ^8^ ^a^ ^10^ ^a^[**27:8** Luc 12,20] 
 ### Descripción de la infalible caída de los malvados (a pesar de toda la voluntad de Dios)
-^17^ ^a^ ^23^ ^a^[**27:17** Prov 13,22] 
+^17^ ^a^ ^a^[**27:17** Prov 13,22] \ 
 ## 28
 ^0^ 
 ### Todos los tesoros, incluidos los escondidos en las profundidades de la tierra, se pueden encontrar y hacer suyos
@@ -4251,13 +4268,13 @@
 ### Pero la sabiduría, el bien más preciado, no se encuentra en ninguna parte de la creación
 ^15^ ^a^ ^16^ ^b^ ^19^ ^c^ ^22^ ^a^[**28:15** Prov 3,14-15; Prov 8,10-11] ^b^[**28:16** 1Re 9,28] ^c^[**28:19** Éxod 28,17] 
 ### Solo Dios posee sabiduría y la ha ejercido en la creación del mundo; el hombre solo puede poseerlo como temor de Dios
-^25^ ^a^ ^28^ ^a^[**28:25** Job 26,10] 
+^25^ ^a^ ^a^[**28:25** Job 26,10] \ 
 ## 29
 ^0^ 
 ### Descripción de la bendición divina anterior
 ^3^ ^a^ ^4^ ^b^ ^6^ ^a^[**29:3** Sal 18,29] ^b^[**29:4** Sal 25,14] 
 ### Descripción de su alta reputación anterior, su justicia y su trabajo exitoso
-^12^ ^a^ ^17^ ^b^ ^25^ ^a^[**29:12** Lev 19,18; Éxod 22,20-21] ^b^[**29:17** Sal 58,7] 
+^12^ ^a^ ^17^ ^b^ ^a^[**29:12** Lev 19,18; Éxod 22,20-21] ^b^[**29:17** Sal 58,7] \ 
 ## 30
 ^0^ 
 ### Job recibe desprecio, insultos y ataques incluso de las personas más deshonrosas
@@ -4271,7 +4288,7 @@
 ### El gran juramento de limpieza de Job para establecer su justicia (= temor de Dios sin daño)
 ^1^ ^a^ ^4^ ^b^ ^10^ ^c^ ^16^ ^d^ ^21^ ^e^ ^24^ ^f^ ^27^ ^g^ ^30^ ^h^ ^34^ ^a^[**31:1** Mat 5,28-29] ^b^[**31:4** Job 23,10] ^c^[**31:10** Deut 28,30; 2Sam 12,11] ^d^[**31:16** Job 29,12] ^e^[**31:21** Job 29,7] ^f^[**31:24** Sal 52,9] ^g^[**31:27** 1Re 19,18] ^h^[**31:30** 1Pe 3,9] 
 ### El deseo y la voluntad de Job de entablar un litigio con Dios
-^35^ ^a^ ^40^ ^a^[**31:35** Job 23,3-7] 
+^35^ ^a^ ^a^[**31:35** Job 23,3-7] \ 
 ## 32
 ^0^ 
 ### Información sobre Eliú y su comportamiento anterior
@@ -4303,7 +4320,7 @@
 ### Eliú combate la afirmación de Job de que el temor de Dios no sirve de nada, y señala que lo que la gente hace no es importante para Dios, sino solo para la gente
 ^3^ ^a^ ^7^ ^b^ ^8^ ^a^[**35:3** Job 34,9] ^b^[**35:7** Rom 11,35] 
 ### Los frecuentes casos de personas inocentes que no responden y se quejan de un trato violento pueden explicarse por la falta de confianza o el temor de Dios por parte de los afectados
-^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^16^ ^a^[**35:13** Juan 9,31] ^b^[**35:14** Job 23,8-9] ^c^[**35:15** Ecl 8,11] 
+^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^a^[**35:13** Juan 9,31] ^b^[**35:14** Job 23,8-9] ^c^[**35:15** Ecl 8,11] 
 ## 36
 ^0^ 
 ### Eliú justifica su siguiente enseñanza con referencia a su perfecto conocimiento
@@ -4313,23 +4330,23 @@
 ### Por tanto, que ahora Job también se deje purificar a través de su sufrimiento para participar de la bendición divina
 ^22^ ^a^ ^25^ ^a^[**36:22** Sal 25,9] 
 ### Representación de la grandeza, la gloria y la sabiduría de Dios, que se revelan en la naturaleza
-^29^ ^a^ ^30^ ^b^ ^33^ ^a^[**36:29** Sal 104,3] ^b^[**36:30** Sal 18,15-16] 
+^29^ ^a^ ^30^ ^b^ ^a^[**36:29** Sal 104,3] ^b^[**36:30** Sal 18,15-16] \ 
 ## 37
 ^2^ ^a^ ^8^ ^b^ ^13^ ^a^[**37:2** Sal 29,3] ^b^[**37:8** Sal 104,22] 
 ### Amonestación a Job de no observar un desafío altivo hacia este Dios, sino más bien una reverencia humilde
-^23^ ^a^ ^24^ ^a^[**37:23** Job 28,12-28] 
+^23^ ^a^ ^a^[**37:23** Job 28,12-28] \ 
 ## 38
 ^0^ 
 ### La invitación de Dios a Job para que le hable
 ^2^ ^a^ ^3^ ^b^ ^a^[**38:2** Job 34,35] ^b^[**38:3** Job 40,7] 
 ### Preguntas del campo de la creación del mundo y la naturaleza sin vida, así como la vida animal, a las que Job no responde
-^5^ ^a^ ^11^ ^b^ ^25^ ^c^ ^31^ ^d^ ^40^ ^e^ ^41^ ^f^ ^a^[**38:5** Prov 30,4] ^b^[**38:11** Sal 104,8-9] ^c^[**38:25** Job 28,26] ^d^[**38:31** Job 9,9] ^e^[**38:40** Job 37,8] ^f^[**38:41** Sal 147,9] 
+^5^ ^a^ ^11^ ^b^ ^25^ ^c^ ^31^ ^d^ ^39^ ^a^[**38:5** Prov 30,4] ^b^[**38:11** Sal 104,8-9] ^c^[**38:25** Job 28,26] ^d^[**38:31** Job 9,9] 
 ## 39
 ^30^ ^a^ ^a^[**39:30** Hab 1,8; Mat 24,28] 
 ## 40
 ^0^ 
 ### La invitación de Dios a Job para entablar un litigio con él; Job renuncia a sus cargos contra Dios
-^7^ ^a^ ^24^ ^a^[**40:7** Job 38,3] 
+^7^ ^a^ ^a^[**40:7** Job 38,3] \ 
 ## 41
 
 ## 42
@@ -4341,11 +4358,10 @@
 ### Restauración y aumento del estado externo de felicidad de Job
 ^10^ ^a^ ^11^ ^a^[**42:10** Job 8,7] \ 
 # 19-Salmos.md
-%!verse-paragraphs%
 ## 1
 ^0^ 
 ### Las dos formas de vida
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^6^ ^a^[**1:1** Sal 119,1; Sal 26,4; Prov 4,14; Jer 15,17] ^b^[**1:2** Sal 119,35; Sal 119,47; Sal 119,70; Sal 119,97; Jos 1,8; Deut 6,7] ^c^[**1:3** Sal 92,13-16; Jer 17,8] ^d^[**1:4** Sal 35,5; Job 21,18; Os 13,3] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^a^[**1:1** Sal 119,1; Sal 26,4; Prov 4,14; Jer 15,17] ^b^[**1:2** Sal 119,35; Sal 119,47; Sal 119,70; Sal 119,97; Jos 1,8; Deut 6,7] ^c^[**1:3** Sal 92,13-16; Jer 17,8] ^d^[**1:4** Sal 35,5; Job 21,18; Os 13,3] \ 
 ## 2
 ^0^ 
 ### La victoria de Dios y del rey ungido por él sobre las naciones furiosas
@@ -4357,31 +4373,31 @@
 ## 4
 ^0^ 
 ### Canción vespertina de un hombre piadoso en tiempos de angustia
-^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^8^ ^a^[**4:5** Efes 4,26; Sal 16,7] ^b^[**4:6** Sal 51,19; Sal 51,21] ^c^[**4:7** Núm 6,25-26] 
+^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^a^[**4:5** Efes 4,26; Sal 16,7] ^b^[**4:6** Sal 51,19; Sal 51,21] ^c^[**4:7** Núm 6,25-26] \ 
 ## 5
 ^0^ 
 ### Oración matutina en el templo contra enemigos impíos
-^3^ ^a^ ^10^ ^b^ ^12^ ^a^[**5:3** Sal 84,4] ^b^[**5:10** Rom 6,13] 
+^3^ ^a^ ^10^ ^b^ ^a^[**5:3** Sal 84,4] ^b^[**5:10** Rom 6,13] \ 
 ## 6
 ^0^ 
 ### Pedir ayuda a alguien gravemente enfermo en cuerpo y alma (Primer Salmo Penitencial)
-^3^ ^a^ ^4^ ^b^ ^6^ ^c^ ^10^ ^a^[**6:3** Sal 51,10] ^b^[**6:4** Sal 13,2-3] ^c^[**6:6** Sal 30,10; Sal 88,11; Sal 115,17] 
+^3^ ^a^ ^4^ ^b^ ^6^ ^c^ ^a^[**6:3** Sal 51,10] ^b^[**6:4** Sal 13,2-3] ^c^[**6:6** Sal 30,10; Sal 88,11; Sal 115,17] \ 
 ## 7
 ^0^ 
 ### El Señor como juez justo y salvador de los afligidos
-^1^ ^a^ ^3^ ^b^ ^4^ ^c^ ^9^ ^d^ ^10^ ^e^ ^11^ ^f^ ^12^ ^g^ ^13^ ^h^ ^17^ ^a^[**7:1** 1Sam 24,10; 1Sam 26,19; 2Sam 16,5-11] ^b^[**7:3** Sal 10,8-9] ^c^[**7:4** Job 31,7-34] ^d^[**7:9** Sal 18,1-27] ^e^[**7:10** Sal 104,35; Jer 11,20; Jer 17,10; Apoc 2,23] ^f^[**7:11** Sal 3,4] ^g^[**7:12** Sal 9,5] ^h^[**7:13** Deut 32,41; Lam 2,4; Lam 3,12] 
+^1^ ^a^ ^3^ ^b^ ^4^ ^c^ ^9^ ^d^ ^10^ ^e^ ^11^ ^f^ ^12^ ^g^ ^13^ ^h^ ^a^[**7:1** 1Sam 24,10; 1Sam 26,19; 2Sam 16,5-11] ^b^[**7:3** Sal 10,8-9] ^c^[**7:4** Job 31,7-34] ^d^[**7:9** Sal 18,1-27] ^e^[**7:10** Sal 104,35; Jer 11,20; Jer 17,10; Apoc 2,23] ^f^[**7:11** Sal 3,4] ^g^[**7:12** Sal 9,5] ^h^[**7:13** Deut 32,41; Lam 2,4; Lam 3,12] \ 
 ## 8
 ^0^ 
 ### La humildad y la alteza del hombre en la creación
-^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^6^ ^d^ ^7^ ^e^ ^9^ ^a^[**8:3** Mat 21,16] ^b^[**8:4** Sal 19,2] ^c^[**8:5** Sal 144,3; Heb 2,6-9] ^d^[**8:6** Gén 1,26] ^e^[**8:7** Mat 28,18; 1Cor 15,27] 
+^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^6^ ^d^ ^7^ ^e^ ^a^[**8:3** Mat 21,16] ^b^[**8:4** Sal 19,2] ^c^[**8:5** Sal 144,3; Heb 2,6-9] ^d^[**8:6** Gén 1,26] ^e^[**8:7** Mat 28,18; 1Cor 15,27] \ 
 ## 9
 ^0^ 
 ### Canto de acción de gracias por el juicio de Dios sobre los enemigos paganos y solicitud de nueva ayuda
-^7^ ^a^ ^8^ ^b^ ^9^ ^c^ ^13^ ^d^ ^16^ ^e^ ^17^ ^f^ ^19^ ^g^ ^20^ ^a^[**9:7** Sal 34,17] ^b^[**9:8** Sal 103,19] ^c^[**9:9** Sal 96,13] ^d^[**9:13** Gén 4,10] ^e^[**9:16** Sal 7,16] ^f^[**9:17** Sal 7,17] ^g^[**9:19** Sal 22,25; Sal 10,17-18] 
+^7^ ^a^ ^8^ ^b^ ^9^ ^c^ ^13^ ^d^ ^16^ ^e^ ^17^ ^f^ ^19^ ^g^ ^a^[**9:7** Sal 34,17] ^b^[**9:8** Sal 103,19] ^c^[**9:9** Sal 96,13] ^d^[**9:13** Gén 4,10] ^e^[**9:16** Sal 7,16] ^f^[**9:17** Sal 7,17] ^g^[**9:19** Sal 22,25; Sal 10,17-18] \ 
 ## 10
 ^0^ 
 ### Pide ayuda contra los malvados de la violencia
-^1^ ^a^ ^6^ ^b^ ^7^ ^c^ ^9^ ^d^ ^14^ ^e^ ^15^ ^f^ ^16^ ^g^ ^18^ ^a^[**10:1** Sal 44,25] ^b^[**10:6** Sal 73,4-8] ^c^[**10:7** Rom 3,14] ^d^[**10:9** Sal 17,12] ^e^[**10:14** Sal 68,6; Éxod 22,22] ^f^[**10:15** Sal 37,10; Sal 37,36] ^g^[**10:16** Sal 99,1] 
+^1^ ^a^ ^6^ ^b^ ^7^ ^c^ ^9^ ^d^ ^14^ ^e^ ^15^ ^f^ ^16^ ^g^ ^a^[**10:1** Sal 44,25] ^b^[**10:6** Sal 73,4-8] ^c^[**10:7** Rom 3,14] ^d^[**10:9** Sal 17,12] ^e^[**10:14** Sal 68,6; Éxod 22,22] ^f^[**10:15** Sal 37,10; Sal 37,36] ^g^[**10:16** Sal 99,1] \ 
 ## 11
 ^0^ 
 ### El Señor es fiel y justo
@@ -4389,15 +4405,15 @@
 ## 12
 ^0^ 
 ### Consuelo de los rectos contra la violencia de la mentira
-^7^ ^a^ ^8^ ^a^[**12:7** Sal 19,9] 
+^7^ ^a^ ^a^[**12:7** Sal 19,9] \ 
 ## 13
 ^0^ 
 ### ¿Por cuánto tiempo más?
-^2^ ^a^ ^6^ ^a^[**13:2** Sal 77,8; Hab 1,2] 
+^2^ ^a^ ^a^[**13:2** Sal 77,8; Hab 1,2] \ 
 ## 14
 ^0^ 
 ### Pensamientos sobre la depravación general del mundo y pedir redención
-^2^ ^a^ ^3^ ^b^ ^4^ ^c^ ^7^ ^a^[**14:2** Sal 33,13] ^b^[**14:3** Gén 6,12; Rom 3,10-12] ^c^[**14:4** Miq 3,3] 
+^2^ ^a^ ^3^ ^b^ ^4^ ^c^ ^a^[**14:2** Sal 33,13] ^b^[**14:3** Gén 6,12; Rom 3,10-12] ^c^[**14:4** Miq 3,3] \ 
 ## 15
 ^0^ 
 ### ¿Quién puede ser el invitado del Señor?
@@ -4405,11 +4421,11 @@
 ## 16
 ^0^ 
 ### Dios el más alto, sí, solo bien por sí mismo
-^5^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^a^[**16:5** Lam 3,24] ^b^[**16:9** Gén 49,6] ^c^[**16:10** Hech 2,25-32; Hech 13,35-37] 
+^5^ ^a^ ^9^ ^b^ ^10^ ^c^ ^a^[**16:5** Lam 3,24] ^b^[**16:9** Gén 49,6] ^c^[**16:10** Hech 2,25-32; Hech 13,35-37] \ 
 ## 17
 ^0^ 
 ### El grito de un hombre angustiado por ayuda contra enemigos nefastos
-^2^ ^a^ ^3^ ^b^ ^7^ ^c^ ^8^ ^d^ ^12^ ^e^ ^15^ ^a^[**17:2** Sal 43,1] ^b^[**17:3** Sal 16,7; Sal 139,1] ^c^[**17:7** Sal 4,4] ^d^[**17:8** Deut 32,10] ^e^[**17:12** Sal 10,9] 
+^2^ ^a^ ^3^ ^b^ ^7^ ^c^ ^8^ ^d^ ^12^ ^e^ ^a^[**17:2** Sal 43,1] ^b^[**17:3** Sal 16,7; Sal 139,1] ^c^[**17:7** Sal 4,4] ^d^[**17:8** Deut 32,10] ^e^[**17:12** Sal 10,9] \ 
 ## 18
 ^0^ 
 ### El cántico de agradecimiento y victoria de David tras la derrota de sus enemigos
@@ -4421,7 +4437,7 @@
 ## 20
 ^0^ 
 ### Intercesión del pueblo por el rey a la salida del ejército
-^2^ ^a^ ^7^ ^b^ ^8^ ^c^ ^9^ ^a^[**20:2** Prov 18,10] ^b^[**20:7** Éxod 15,16] ^c^[**20:8** Deut 20,1; Is 31,1] 
+^2^ ^a^ ^7^ ^b^ ^8^ ^c^ ^a^[**20:2** Prov 18,10] ^b^[**20:7** Éxod 15,16] ^c^[**20:8** Deut 20,1; Is 31,1] \ 
 ## 21
 ^0^ 
 ### Oración de acción de gracias por los beneficios que Dios le ha mostrado al rey (especialmente por la victoria que le ha otorgado) y esperanza de nuevas bendiciones
@@ -4437,7 +4453,7 @@
 ## 24
 ^0^ 
 ### Canto ceremonial a la entrada (del pueblo y del rey de honor) al santuario
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^5^ ^d^ ^6^ ^e^ ^7^ ^f^ ^10^ ^a^[**24:1** Sal 50,12; 1Cor 10,26] ^b^[**24:2** Gén 1,9-10] ^c^[**24:3** Sal 15,-1] ^d^[**24:5** Is 48,18] ^e^[**24:6** Rom 2,28-29] ^f^[**24:7** Is 40,3-4] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^5^ ^d^ ^6^ ^e^ ^7^ ^f^ ^a^[**24:1** Sal 50,12; 1Cor 10,26] ^b^[**24:2** Gén 1,9-10] ^c^[**24:3** Sal 15,-1] ^d^[**24:5** Is 48,18] ^e^[**24:6** Rom 2,28-29] ^f^[**24:7** Is 40,3-4] \ 
 ## 25
 ^0^ 
 ### Oración por la protección de Dios, por la guía llena de gracia y el perdón de los pecados
@@ -4445,7 +4461,7 @@
 ## 26
 ^0^ 
 ### Un piadoso grito de auxilio, consciente de su inocencia
-^4^ ^a^ ^8^ ^b^ ^12^ ^a^[**26:4** Sal 1,1] ^b^[**26:8** Sal 27,4] 
+^4^ ^a^ ^8^ ^b^ ^a^[**26:4** Sal 1,1] ^b^[**26:8** Sal 27,4] \ 
 ## 27
 ^0^ 
 ### Confianza gozosa en el Señor y solicitud de mayor protección
@@ -4453,7 +4469,7 @@
 ## 28
 ^0^ 
 ### Oración y ayuda contra enemigos impíos y gracias por la respuesta
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^7^ ^d^ ^9^ ^a^[**28:1** Sal 143,7] ^b^[**28:2** 1Re 8,30; Lam 3,41] ^c^[**28:3** Sal 26,9] ^d^[**28:7** Sal 18,2-3] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^7^ ^d^ ^a^[**28:1** Sal 143,7] ^b^[**28:2** 1Re 8,30; Lam 3,41] ^c^[**28:3** Sal 26,9] ^d^[**28:7** Sal 18,2-3] \ 
 ## 29
 ^0^ 
 ### La gloria de Dios en una tormenta
@@ -4461,11 +4477,11 @@
 ## 30
 ^0^ 
 ### Canción de agradecimiento para alguien rescatado de la angustia
-^4^ ^a^ ^10^ ^b^ ^12^ ^a^[**30:4** Sal 116,3-4] ^b^[**30:10** Sal 6,6] 
+^4^ ^a^ ^10^ ^b^ ^a^[**30:4** Sal 116,3-4] ^b^[**30:10** Sal 6,6] \ 
 ## 31
 ^0^ 
 ### Oración confiada en extrema necesidad
-^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^10^ ^d^ ^14^ ^e^ ^17^ ^f^ ^22^ ^g^ ^23^ ^h^ ^24^ ^a^[**31:4** Sal 23,3] ^b^[**31:5** Sal 25,15] ^c^[**31:6** Luc 23,46] ^d^[**31:10** Sal 6,8] ^e^[**31:14** Jer 20,10; Jer 46,5] ^f^[**31:17** Núm 6,25; Sal 80,4] ^g^[**31:22** Sal 17,7] ^h^[**31:23** Sal 116,11] 
+^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^10^ ^d^ ^14^ ^e^ ^17^ ^f^ ^22^ ^g^ ^23^ ^h^ ^a^[**31:4** Sal 23,3] ^b^[**31:5** Sal 25,15] ^c^[**31:6** Luc 23,46] ^d^[**31:10** Sal 6,8] ^e^[**31:14** Jer 20,10; Jer 46,5] ^f^[**31:17** Núm 6,25; Sal 80,4] ^g^[**31:22** Sal 17,7] ^h^[**31:23** Sal 116,11] \ 
 ## 32
 ^0^ 
 ### Bendiciones del arrepentimiento y bienaventuranza del perdón de los pecados (Salmo Segundo Penitencial)
@@ -4473,19 +4489,19 @@
 ## 33
 ^0^ 
 ### Invitación a alabar la omnipotencia y la gracia de Dios
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^7^ ^e^ ^12^ ^f^ ^17^ ^g^ ^18^ ^h^ ^19^ ^i^ ^20^ ^j^ ^22^ ^a^[**33:1** Sal 31,11] ^b^[**33:2** Sal 92,4] ^c^[**33:3** Sal 40,4; Sal 96,1; Sal 98,1; Apoc 5,9] ^d^[**33:6** Gén 1,6; Gén 1,14] ^e^[**33:7** Sal 104,9] ^f^[**33:12** Deut 33,29] ^g^[**33:17** Sal 20,8] ^h^[**33:18** Sal 34,16; Sal 34,18] ^i^[**33:19** Sal 34,10-11] ^j^[**33:20** Sal 3,4] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^7^ ^e^ ^12^ ^f^ ^17^ ^g^ ^18^ ^h^ ^19^ ^i^ ^20^ ^j^ ^a^[**33:1** Sal 31,11] ^b^[**33:2** Sal 92,4] ^c^[**33:3** Sal 40,4; Sal 96,1; Sal 98,1; Apoc 5,9] ^d^[**33:6** Gén 1,6; Gén 1,14] ^e^[**33:7** Sal 104,9] ^f^[**33:12** Deut 33,29] ^g^[**33:17** Sal 20,8] ^h^[**33:18** Sal 34,16; Sal 34,18] ^i^[**33:19** Sal 34,10-11] ^j^[**33:20** Sal 3,4] \ 
 ## 34
 ^0^ 
 ### Dios ayuda a los suyos en cada necesidad
-^1^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^15^ ^e^ ^19^ ^f^ ^20^ ^g^ ^22^ ^a^[**34:1** 1Sam 21,14-16] ^b^[**34:9** 1Pe 2,3] ^c^[**34:10** Sal 37,19] ^d^[**34:11** Sal 33,18-19; Sal 37,25; Luc 1,53] ^e^[**34:15** Sal 37,27] ^f^[**34:19** Sal 51,19] ^g^[**34:20** 2Cor 1,5] 
+^1^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^15^ ^e^ ^19^ ^f^ ^20^ ^g^ ^a^[**34:1** 1Sam 21,14-16] ^b^[**34:9** 1Pe 2,3] ^c^[**34:10** Sal 37,19] ^d^[**34:11** Sal 33,18-19; Sal 37,25; Luc 1,53] ^e^[**34:15** Sal 37,27] ^f^[**34:19** Sal 51,19] ^g^[**34:20** 2Cor 1,5] \ 
 ## 35
 ^0^ 
 ### Pide ayuda a un tolerante contra enemigos infieles e ingratos
-^2^ ^a^ ^7^ ^b^ ^8^ ^c^ ^12^ ^d^ ^13^ ^e^ ^16^ ^f^ ^17^ ^g^ ^18^ ^h^ ^19^ ^i^ ^21^ ^j^ ^26^ ^k^ ^27^ ^l^ ^28^ ^a^[**35:2** Sal 7,13-14] ^b^[**35:7** Sal 35,19] ^c^[**35:8** Sal 9,16] ^d^[**35:12** Sal 38,21] ^e^[**35:13** Rom 12,15; Job 31,29] ^f^[**35:16** Job 16,9] ^g^[**35:17** Sal 22,21] ^h^[**35:18** Sal 22,23] ^i^[**35:19** Sal 25,19; Sal 69,5; Juan 15,25] ^j^[**35:21** Sal 40,16] ^k^[**35:26** Sal 35,4] ^l^[**35:27** Sal 40,17] 
+^2^ ^a^ ^7^ ^b^ ^8^ ^c^ ^12^ ^d^ ^13^ ^e^ ^16^ ^f^ ^17^ ^g^ ^18^ ^h^ ^19^ ^i^ ^21^ ^j^ ^26^ ^k^ ^27^ ^l^ ^a^[**35:2** Sal 7,13-14] ^b^[**35:7** Sal 35,19] ^c^[**35:8** Sal 9,16] ^d^[**35:12** Sal 38,21] ^e^[**35:13** Rom 12,15; Job 31,29] ^f^[**35:16** Job 16,9] ^g^[**35:17** Sal 22,21] ^h^[**35:18** Sal 22,23] ^i^[**35:19** Sal 25,19; Sal 69,5; Juan 15,25] ^j^[**35:21** Sal 40,16] ^k^[**35:26** Sal 35,4] ^l^[**35:27** Sal 40,17] \ 
 ## 36
 ^0^ 
 ### Los acontecimientos desesperados de los malvados y las bendiciones de la comunión con Dios
-^2^ ^a^ ^6^ ^b^ ^7^ ^c^ ^9^ ^d^ ^10^ ^e^ ^12^ ^a^[**36:2** Rom 3,18] ^b^[**36:6** Sal 57,11; Sal 108,5] ^c^[**36:7** Sal 125,1-2] ^d^[**36:9** Sal 23,5] ^e^[**36:10** Jer 2,13] 
+^2^ ^a^ ^6^ ^b^ ^7^ ^c^ ^9^ ^d^ ^10^ ^e^ ^a^[**36:2** Rom 3,18] ^b^[**36:6** Sal 57,11; Sal 108,5] ^c^[**36:7** Sal 125,1-2] ^d^[**36:9** Sal 23,5] ^e^[**36:10** Jer 2,13] \ 
 ## 37
 ^0^ 
 ### La falsa suerte de los malvados (= impíos) permite que los justos sean piadosos
@@ -4493,7 +4509,7 @@
 ## 38
 ^0^ 
 ### Oración penitencial y clamor por ayuda en enfermedades graves y angustias (tercer salmo penitencial)
-^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^14^ ^d^ ^21^ ^e^ ^22^ ^a^[**38:3** Job 6,4; Sal 32,4] ^b^[**38:4** Sal 51,10] ^c^[**38:5** Lam 1,14] ^d^[**38:14** Sal 39,3] ^e^[**38:21** Sal 35,12] 
+^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^14^ ^d^ ^21^ ^e^ ^a^[**38:3** Job 6,4; Sal 32,4] ^b^[**38:4** Sal 51,10] ^c^[**38:5** Lam 1,14] ^d^[**38:14** Sal 39,3] ^e^[**38:21** Sal 35,12] \ 
 ## 39
 ^0^ 
 ### Demanda y solicitud de una persona fuertemente impugnada
@@ -4501,45 +4517,45 @@
 ## 40
 ^0^ 
 ### Acción de gracias y súplica
-^6^ ^a^ ^7^ ^b^ ^10^ ^c^ ^15^ ^d^ ^16^ ^e^ ^17^ ^a^[**40:6** Sal 139,17-18] ^b^[**40:7** Sal 51,18; Heb 10,5-10; Is 50,5] ^c^[**40:10** Sal 22,23; Sal 22,26] ^d^[**40:15** Sal 6,11] ^e^[**40:16** Sal 35,21; Sal 35,25] 
+^6^ ^a^ ^7^ ^b^ ^10^ ^c^ ^15^ ^d^ ^16^ ^e^ ^a^[**40:6** Sal 139,17-18] ^b^[**40:7** Sal 51,18; Heb 10,5-10; Is 50,5] ^c^[**40:10** Sal 22,23; Sal 22,26] ^d^[**40:15** Sal 6,11] ^e^[**40:16** Sal 35,21; Sal 35,25] \ 
 ## 41
 ^0^ 
 ### Un enfermo se queja de enemigos maliciosos y amigos infieles
-^5^ ^a^ ^13^ ^a^[**41:5** Sal 6,3] 
+^5^ ^a^ ^a^[**41:5** Sal 6,3] \ 
 ## 42
 ^0^ 
 ### Anhelo de Dios y su santuario en Sion
-^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^10^ ^d^ ^11^ ^a^[**42:4** Sal 79,10] ^b^[**42:5** Sal 27,4] ^c^[**42:6** Sal 42,12; Sal 43,5] ^d^[**42:10** Deut 32,4; Sal 43,2] 
+^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^10^ ^d^ ^a^[**42:4** Sal 79,10] ^b^[**42:5** Sal 27,4] ^c^[**42:6** Sal 42,12; Sal 43,5] ^d^[**42:10** Deut 32,4; Sal 43,2] \ 
 ## 43
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^5^ ^e^ ^a^[**43:1** Sal 26,1] ^b^[**43:2** Sal 42,10] ^c^[**43:3** Sal 15,1] ^d^[**43:4** Sal 63,6] ^e^[**43:5** Sal 42,6; Sal 42,12] 
 ## 44
 ^0^ 
 ### Lamentar y clamar por ayuda del pueblo respetuoso de la ley, pero derrotado y maltratado por sus enemigos
-^5^ ^a^ ^14^ ^b^ ^23^ ^c^ ^24^ ^d^ ^25^ ^e^ ^26^ ^a^[**44:5** Sal 74,12] ^b^[**44:14** Sal 79,4; 1Re 9,7] ^c^[**44:23** Rom 8,36] ^d^[**44:24** Sal 35,23] ^e^[**44:25** Sal 10,1] 
+^5^ ^a^ ^14^ ^b^ ^23^ ^c^ ^24^ ^d^ ^25^ ^e^ ^a^[**44:5** Sal 74,12] ^b^[**44:14** Sal 79,4; 1Re 9,7] ^c^[**44:23** Rom 8,36] ^d^[**44:24** Sal 35,23] ^e^[**44:25** Sal 10,1] \ 
 ## 45
 ^0^ 
 ### Canción de celebración de la boda del rey
-^3^ ^a^ ^7^ ^b^ ^11^ ^c^ ^17^ ^a^[**45:3** Cant 5,10-16] ^b^[**45:7** 2Sam 7,13; Heb 1,8-9] ^c^[**45:11** Gén 2,24] 
+^3^ ^a^ ^7^ ^b^ ^11^ ^c^ ^a^[**45:3** Cant 5,10-16] ^b^[**45:7** 2Sam 7,13; Heb 1,8-9] ^c^[**45:11** Gén 2,24] \ 
 ## 46
 ^0^ 
 ### Una poderosa fortaleza es nuestro Dios
-^9^ ^a^ ^10^ ^b^ ^11^ ^a^[**46:9** 2Re 19,35] ^b^[**46:10** Sal 76,4] 
+^9^ ^a^ ^10^ ^b^ ^a^[**46:9** 2Re 19,35] ^b^[**46:10** Sal 76,4] \ 
 ## 47
 ^0^ 
 ### El Dios de Israel como Rey de todos los pueblos
-^5^ ^a^ ^6^ ^b^ ^8^ ^c^ ^9^ ^a^[**47:5** Sal 16,6] ^b^[**47:6** Sal 68,19] ^c^[**47:8** Sal 93,1] 
+^5^ ^a^ ^6^ ^b^ ^8^ ^c^ ^a^[**47:5** Sal 16,6] ^b^[**47:6** Sal 68,19] ^c^[**47:8** Sal 93,1] \ 
 ## 48
 ^0^ 
 ### La fiesta de los peregrinos alaba a Sión, la ciudad invicta de Dios
-^2^ ^a^ ^3^ ^b^ ^5^ ^c^ ^14^ ^a^[**48:2** Sal 46,5] ^b^[**48:3** Lam 2,15; Mat 5,35] ^c^[**48:5** 2Re 19,-1] 
+^2^ ^a^ ^3^ ^b^ ^5^ ^c^ ^a^[**48:2** Sal 46,5] ^b^[**48:3** Lam 2,15; Mat 5,35] ^c^[**48:5** 2Re 19,-1] \ 
 ## 49
 ^0^ 
 ### Impermanencia de la felicidad exterior de los malvados
-^5^ ^a^ ^11^ ^b^ ^16^ ^c^ ^17^ ^d^ ^18^ ^e^ ^19^ ^f^ ^20^ ^a^[**49:5** Sal 78,2] ^b^[**49:11** Ecl 2,16; Ecl 6,2] ^c^[**49:16** Os 13,14] ^d^[**49:17** Job 21,7-15] ^e^[**49:18** Ecl 5,13-14] ^f^[**49:19** Luc 16,19-31] 
+^5^ ^a^ ^11^ ^b^ ^16^ ^c^ ^17^ ^d^ ^18^ ^e^ ^19^ ^f^ ^a^[**49:5** Sal 78,2] ^b^[**49:11** Ecl 2,16; Ecl 6,2] ^c^[**49:16** Os 13,14] ^d^[**49:17** Job 21,7-15] ^e^[**49:18** Ecl 5,13-14] ^f^[**49:19** Luc 16,19-31] \ 
 ## 50
 ^0^ 
 ### La adoración correcta
-^1^ ^a^ ^3^ ^b^ ^4^ ^c^ ^5^ ^d^ ^15^ ^e^ ^16^ ^f^ ^18^ ^g^ ^23^ ^a^[**50:1** 1Cró 25,1] ^b^[**50:3** Sal 96,13] ^c^[**50:4** Is 1,2] ^d^[**50:5** Éxod 24,4-8] ^e^[**50:15** Sal 81,8; Sal 91,15; Job 22,27] ^f^[**50:16** Rom 2,21-23] ^g^[**50:18** Efes 5,11] 
+^1^ ^a^ ^3^ ^b^ ^4^ ^c^ ^5^ ^d^ ^15^ ^e^ ^16^ ^f^ ^18^ ^g^ ^a^[**50:1** 1Cró 25,1] ^b^[**50:3** Sal 96,13] ^c^[**50:4** Is 1,2] ^d^[**50:5** Éxod 24,4-8] ^e^[**50:15** Sal 81,8; Sal 91,15; Job 22,27] ^f^[**50:16** Rom 2,21-23] ^g^[**50:18** Efes 5,11] \ 
 ## 51
 ^0^ 
 ### Oración penitencial de David (cuarto salmo penitencial)
@@ -4547,7 +4563,7 @@
 ## 52
 ^0^ 
 ### Quejarse de un enemigo violento y regocijarse con la ayuda divina
-^2^ ^a^ ^9^ ^a^[**52:2** 1Sam 22,9-19] 
+^2^ ^a^ ^a^[**52:2** 1Sam 22,9-19] \ 
 ## 53
 ^0^ 
 ### Pensamientos sobre la depravación general del mundo y pedir redención
@@ -4563,7 +4579,7 @@
 ## 56
 ^0^ 
 ### Coraje seguro en una situación desesperada
-^1^ ^a^ ^5^ ^b^ ^13^ ^a^[**56:1** 1Sam 21,11-16] ^b^[**56:5** Sal 27,1; Sal 118,6; Is 12,2; Is 51,12; Heb 13,6] 
+^1^ ^a^ ^5^ ^b^ ^a^[**56:1** 1Sam 21,11-16] ^b^[**56:5** Sal 27,1; Sal 118,6; Is 12,2; Is 51,12; Heb 13,6] \ 
 ## 57
 ^0^ 
 ### Confianza en Dios en medio de enemigos
@@ -4571,15 +4587,15 @@
 ## 58
 ^0^ 
 ### Contra jueces (o gobernantes) injustos
-^6^ ^a^ ^11^ ^a^[**58:6** Ecl 10,11] 
+^6^ ^a^ ^a^[**58:6** Ecl 10,11] \ 
 ## 59
 ^0^ 
 ### Un grito de ayuda de un enemigo violento
-^1^ ^a^ ^7^ ^b^ ^11^ ^c^ ^17^ ^a^[**59:1** 1Sam 19,11] ^b^[**59:7** Sal 59,15] ^c^[**59:11** Sal 54,9] 
+^1^ ^a^ ^7^ ^b^ ^11^ ^c^ ^a^[**59:1** 1Sam 19,11] ^b^[**59:7** Sal 59,15] ^c^[**59:11** Sal 54,9] \ 
 ## 60
 ^0^ 
 ### Oración después de una severa derrota en la guerra
-^2^ ^a^ ^6^ ^b^ ^7^ ^c^ ^9^ ^d^ ^12^ ^a^[**60:2** 2Sam 8,3; 2Sam 8,13; 2Sam 10,13; 2Sam 10,18] ^b^[**60:6** Sal 20,6] ^c^[**60:7** Sal 108,7-14] ^d^[**60:9** Gén 49,10] 
+^2^ ^a^ ^6^ ^b^ ^7^ ^c^ ^9^ ^d^ ^a^[**60:2** 2Sam 8,3; 2Sam 8,13; 2Sam 10,13; 2Sam 10,18] ^b^[**60:6** Sal 20,6] ^c^[**60:7** Sal 108,7-14] ^d^[**60:9** Gén 49,10] \ 
 ## 61
 ^0^ 
 ### Intercesión por el Rey desde lejos
@@ -4587,35 +4603,35 @@
 ## 62
 ^0^ 
 ### ¡Silencio en Dios! La nada de la gente
-^1^ ^a^ ^2^ ^b^ ^8^ ^c^ ^12^ ^a^[**62:1** Sal 39,1] ^b^[**62:2** Is 30,15] ^c^[**62:8** Sal 61,4] 
+^1^ ^a^ ^2^ ^b^ ^8^ ^c^ ^a^[**62:1** Sal 39,1] ^b^[**62:2** Is 30,15] ^c^[**62:8** Sal 61,4] \ 
 ## 63
 ^0^ 
 ### Anhelo de Dios, el refrigerio del alma y el bien supremo
-^1^ ^a^ ^2^ ^b^ ^11^ ^a^[**63:1** 1Sam 22,5; 1Sam 23,14] ^b^[**63:2** Sal 42,3; Sal 143,6] 
+^1^ ^a^ ^2^ ^b^ ^a^[**63:1** 1Sam 22,5; 1Sam 23,14] ^b^[**63:2** Sal 42,3; Sal 143,6] \ 
 ## 64
 ^0^ 
 ### Pide protección contra enemigos maliciosos
-^5^ ^a^ ^6^ ^b^ ^9^ ^c^ ^10^ ^a^[**64:5** Sal 11,2] ^b^[**64:6** Sal 94,7] ^c^[**64:9** Sal 7,16] 
+^5^ ^a^ ^6^ ^b^ ^9^ ^c^ ^a^[**64:5** Sal 11,2] ^b^[**64:6** Sal 94,7] ^c^[**64:9** Sal 7,16] \ 
 ## 65
 ^0^ 
 ### Canción de acción de gracias por los beneficios espirituales divinos y las bendiciones de la cosecha
-^8^ ^a^ ^11^ ^b^ ^13^ ^a^[**65:8** Sal 89,10] ^b^[**65:11** Sal 104,13-16] 
+^8^ ^a^ ^11^ ^b^ ^a^[**65:8** Sal 89,10] ^b^[**65:11** Sal 104,13-16] \ 
 ## 66
 ^0^ 
 ### Canto de agradecimiento del pueblo por su maravillosa guía y salvación
-^10^ ^a^ ^18^ ^b^ ^20^ ^a^[**66:10** Prov 17,3] ^b^[**66:18** Prov 28,9; Juan 9,31] 
+^10^ ^a^ ^18^ ^b^ ^a^[**66:10** Prov 17,3] ^b^[**66:18** Prov 28,9; Juan 9,31] \ 
 ## 67
 ^0^ 
 ### ¡Dios bendiga a Israel! (Canción de Acción de Gracias)
-^4^ ^a^ ^7^ ^a^[**67:4** Sal 117,1] 
+^4^ ^a^ ^a^[**67:4** Sal 117,1] \ 
 ## 68
 ^0^ 
 ### La victoria del Dios de Israel sobre sus enemigos
-^5^ ^a^ ^6^ ^b^ ^8^ ^c^ ^9^ ^d^ ^12^ ^e^ ^17^ ^f^ ^18^ ^g^ ^19^ ^h^ ^20^ ^i^ ^25^ ^j^ ^26^ ^k^ ^27^ ^l^ ^32^ ^m^ ^35^ ^a^[**68:5** Is 57,14] ^b^[**68:6** Sal 10,14] ^c^[**68:8** Éxod 13,21; Jue 5,4-5] ^d^[**68:9** Éxod 19,16-18] ^e^[**68:12** Is 52,7] ^f^[**68:17** Sal 132,13] ^g^[**68:18** 2Re 6,17; Dan 7,10] ^h^[**68:19** Efes 4,8-10] ^i^[**68:20** 1Cor 10,13] ^j^[**68:25** 2Sam 6,13-14; Sal 24,7] ^k^[**68:26** Éxod 15,20] ^l^[**68:27** Is 48,1] ^m^[**68:32** Is 19,21; Sal 87,4] 
+^5^ ^a^ ^6^ ^b^ ^8^ ^c^ ^9^ ^d^ ^12^ ^e^ ^17^ ^f^ ^18^ ^g^ ^19^ ^h^ ^20^ ^i^ ^25^ ^j^ ^26^ ^k^ ^27^ ^l^ ^32^ ^m^ ^a^[**68:5** Is 57,14] ^b^[**68:6** Sal 10,14] ^c^[**68:8** Éxod 13,21; Jue 5,4-5] ^d^[**68:9** Éxod 19,16-18] ^e^[**68:12** Is 52,7] ^f^[**68:17** Sal 132,13] ^g^[**68:18** 2Re 6,17; Dan 7,10] ^h^[**68:19** Efes 4,8-10] ^i^[**68:20** 1Cor 10,13] ^j^[**68:25** 2Sam 6,13-14; Sal 24,7] ^k^[**68:26** Éxod 15,20] ^l^[**68:27** Is 48,1] ^m^[**68:32** Is 19,21; Sal 87,4] \ 
 ## 69
 ^0^ 
 ### La oración de un hombre piadoso por la salvación de la vergüenza y la angustia
-^1^ ^a^ ^5^ ^b^ ^9^ ^c^ ^10^ ^d^ ^13^ ^e^ ^14^ ^f^ ^21^ ^g^ ^22^ ^h^ ^23^ ^i^ ^27^ ^j^ ^28^ ^k^ ^29^ ^l^ ^33^ ^m^ ^36^ ^a^[**69:1** Sal 45,1] ^b^[**69:5** Sal 35,19; Juan 15,25] ^c^[**69:9** Sal 38,12; Job 19,13] ^d^[**69:10** Juan 2,17; Rom 15,3] ^e^[**69:13** Job 30,9] ^f^[**69:14** Is 49,8] ^g^[**69:21** Lam 1,2; Lam 1,9] ^h^[**69:22** Mat 27,34; Mat 27,48] ^i^[**69:23** Rom 11,9-10] ^j^[**69:27** Is 53,4] ^k^[**69:28** Rom 1,24] ^l^[**69:29** Luc 10,20] ^m^[**69:33** Sal 22,27] 
+^1^ ^a^ ^5^ ^b^ ^9^ ^c^ ^10^ ^d^ ^13^ ^e^ ^14^ ^f^ ^21^ ^g^ ^22^ ^h^ ^23^ ^i^ ^27^ ^j^ ^28^ ^k^ ^29^ ^l^ ^33^ ^m^ ^a^[**69:1** Sal 45,1] ^b^[**69:5** Sal 35,19; Juan 15,25] ^c^[**69:9** Sal 38,12; Job 19,13] ^d^[**69:10** Juan 2,17; Rom 15,3] ^e^[**69:13** Job 30,9] ^f^[**69:14** Is 49,8] ^g^[**69:21** Lam 1,2; Lam 1,9] ^h^[**69:22** Mat 27,34; Mat 27,48] ^i^[**69:23** Rom 11,9-10] ^j^[**69:27** Is 53,4] ^k^[**69:28** Rom 1,24] ^l^[**69:29** Luc 10,20] ^m^[**69:33** Sal 22,27] \ 
 ## 70
 ^0^ 
 ### Pide ayuda en la búsqueda
@@ -4623,23 +4639,23 @@
 ## 71
 ^0^ 
 ### ¡No me dejes en la vejez!
-^3^ ^a^ ^7^ ^b^ ^15^ ^c^ ^18^ ^d^ ^19^ ^e^ ^20^ ^f^ ^24^ ^a^[**71:3** Sal 18,3; Sal 31,3-4] ^b^[**71:7** Sal 4,4] ^c^[**71:15** Sal 71,8; Sal 40,6] ^d^[**71:18** Sal 71,9; Is 46,4] ^e^[**71:19** Éxod 15,11] ^f^[**71:20** 1Sam 2,6] 
+^3^ ^a^ ^7^ ^b^ ^15^ ^c^ ^18^ ^d^ ^19^ ^e^ ^20^ ^f^ ^a^[**71:3** Sal 18,3; Sal 31,3-4] ^b^[**71:7** Sal 4,4] ^c^[**71:15** Sal 71,8; Sal 40,6] ^d^[**71:18** Sal 71,9; Is 46,4] ^e^[**71:19** Éxod 15,11] ^f^[**71:20** 1Sam 2,6] \ 
 ## 72
 ^0^ 
 ### Bendiciones al rey
-^4^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^12^ ^e^ ^14^ ^f^ ^15^ ^g^ ^17^ ^h^ ^20^ ^a^[**72:4** Sal 72,12] ^b^[**72:9** Is 49,23] ^c^[**72:10** Sal 68,30; Is 60,9] ^d^[**72:11** Sal 2,8; Sal 2,10-12] ^e^[**72:12** Job 36,15; Sal 35,10] ^f^[**72:14** Sal 9,13] ^g^[**72:15** Sal 72,10; Sal 84,10] ^h^[**72:17** Gén 12,3; Gén 22,18] 
+^4^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^12^ ^e^ ^14^ ^f^ ^15^ ^g^ ^17^ ^h^ ^a^[**72:4** Sal 72,12] ^b^[**72:9** Is 49,23] ^c^[**72:10** Sal 68,30; Is 60,9] ^d^[**72:11** Sal 2,8; Sal 2,10-12] ^e^[**72:12** Job 36,15; Sal 35,10] ^f^[**72:14** Sal 9,13] ^g^[**72:15** Sal 72,10; Sal 84,10] ^h^[**72:17** Gén 12,3; Gén 22,18] \ 
 ## 73
 ^0^ 
 ### El hecho por Dios »sin embargo«
-^2^ ^a^ ^3^ ^b^ ^7^ ^c^ ^23^ ^d^ ^28^ ^a^[**73:2** Sal 94,18] ^b^[**73:3** Job 21,7] ^c^[**73:7** Job 15,27] ^d^[**73:23** Rom 8,35-38] 
+^2^ ^a^ ^3^ ^b^ ^7^ ^c^ ^23^ ^d^ ^a^[**73:2** Sal 94,18] ^b^[**73:3** Job 21,7] ^c^[**73:7** Job 15,27] ^d^[**73:23** Rom 8,35-38] \ 
 ## 74
 ^0^ 
 ### Quejarse ante la congregación de la devastación del templo y pedir ayuda
-^2^ ^a^ ^8^ ^b^ ^15^ ^c^ ^16^ ^d^ ^23^ ^a^[**74:2** Sal 132,13] ^b^[**74:8** Sal 83,13] ^c^[**74:15** Sal 104,10] ^d^[**74:16** Sal 104,19] 
+^2^ ^a^ ^8^ ^b^ ^15^ ^c^ ^16^ ^d^ ^a^[**74:2** Sal 132,13] ^b^[**74:8** Sal 83,13] ^c^[**74:15** Sal 104,10] ^d^[**74:16** Sal 104,19] \ 
 ## 75
 ^0^ 
 ### Dios, el juez del mundo justo
-^2^ ^a^ ^9^ ^b^ ^10^ ^a^[**75:2** Is 46,13] ^b^[**75:9** Sal 60,5] 
+^2^ ^a^ ^9^ ^b^ ^a^[**75:2** Is 46,13] ^b^[**75:9** Sal 60,5] \ 
 ## 76
 ^0^ 
 ### El canto de la victoria de Israel en alabanza a Dios
@@ -4647,31 +4663,31 @@
 ## 77
 ^0^ 
 ### Recuerdos en tiempos dolorosos del liderazgo anterior de Dios y quejas sobre el cambio en el comportamiento divino hacia su pueblo
-^1^ ^a^ ^6^ ^b^ ^14^ ^c^ ^20^ ^a^[**77:1** Sal 62,1] ^b^[**77:6** Sal 143,5] ^c^[**77:14** Éxod 15,11] 
+^1^ ^a^ ^6^ ^b^ ^14^ ^c^ ^a^[**77:1** Sal 62,1] ^b^[**77:6** Sal 143,5] ^c^[**77:14** Éxod 15,11] \ 
 ## 78
 ^0^ 
 ### Revisión de advertencia de la desobediencia repetida de Israel
-^2^ ^a^ ^3^ ^b^ ^8^ ^c^ ^13^ ^d^ ^14^ ^e^ ^15^ ^f^ ^21^ ^g^ ^31^ ^h^ ^39^ ^i^ ^40^ ^j^ ^43^ ^k^ ^44^ ^l^ ^45^ ^m^ ^46^ ^n^ ^47^ ^o^ ^51^ ^p^ ^52^ ^q^ ^53^ ^r^ ^54^ ^s^ ^57^ ^t^ ^58^ ^u^ ^60^ ^v^ ^67^ ^w^ ^68^ ^x^ ^70^ ^y^ ^71^ ^z^ ^72^ ^a^[**78:2** Sal 49,4-5; Mat 13,35] ^b^[**78:3** Éxod 13,14; Deut 4,9-10] ^c^[**78:8** Deut 32,5-6] ^d^[**78:13** Éxod 14,21-22] ^e^[**78:14** Éxod 13,21] ^f^[**78:15** Éxod 17,6; Núm 20,7-11] ^g^[**78:21** Núm 11,1] ^h^[**78:31** Núm 11,33] ^i^[**78:39** Sal 103,14-16] ^j^[**78:40** Núm 14,22] ^k^[**78:43** Sal 78,12] ^l^[**78:44** Éxod 7,19-20] ^m^[**78:45** Éxod 8,2; Éxod 8,20] ^n^[**78:46** Éxod 10,13] ^o^[**78:47** Éxod 9,25] ^p^[**78:51** Éxod 12,29] ^q^[**78:52** Sal 77,21] ^r^[**78:53** Éxod 14,19; Éxod 14,22; Éxod 14,27] ^s^[**78:54** Éxod 15,17] ^t^[**78:57** Os 7,16] ^u^[**78:58** Deut 32,21] ^v^[**78:60** 1Sam 1,3; 1Sam 4,11] ^w^[**78:67** Sal 78,9] ^x^[**78:68** 2Cró 6,6] ^y^[**78:70** 1Sam 16,11-12] ^z^[**78:71** 2Sam 7,8] 
+^2^ ^a^ ^3^ ^b^ ^8^ ^c^ ^13^ ^d^ ^14^ ^e^ ^15^ ^f^ ^21^ ^g^ ^31^ ^h^ ^39^ ^i^ ^40^ ^j^ ^43^ ^k^ ^44^ ^l^ ^45^ ^m^ ^46^ ^n^ ^47^ ^o^ ^51^ ^p^ ^52^ ^q^ ^53^ ^r^ ^54^ ^s^ ^57^ ^t^ ^58^ ^u^ ^60^ ^v^ ^67^ ^w^ ^68^ ^x^ ^70^ ^y^ ^71^ ^z^ ^a^[**78:2** Sal 49,4-5; Mat 13,35] ^b^[**78:3** Éxod 13,14; Deut 4,9-10] ^c^[**78:8** Deut 32,5-6] ^d^[**78:13** Éxod 14,21-22] ^e^[**78:14** Éxod 13,21] ^f^[**78:15** Éxod 17,6; Núm 20,7-11] ^g^[**78:21** Núm 11,1] ^h^[**78:31** Núm 11,33] ^i^[**78:39** Sal 103,14-16] ^j^[**78:40** Núm 14,22] ^k^[**78:43** Sal 78,12] ^l^[**78:44** Éxod 7,19-20] ^m^[**78:45** Éxod 8,2; Éxod 8,20] ^n^[**78:46** Éxod 10,13] ^o^[**78:47** Éxod 9,25] ^p^[**78:51** Éxod 12,29] ^q^[**78:52** Sal 77,21] ^r^[**78:53** Éxod 14,19; Éxod 14,22; Éxod 14,27] ^s^[**78:54** Éxod 15,17] ^t^[**78:57** Os 7,16] ^u^[**78:58** Deut 32,21] ^v^[**78:60** 1Sam 1,3; 1Sam 4,11] ^w^[**78:67** Sal 78,9] ^x^[**78:68** 2Cró 6,6] ^y^[**78:70** 1Sam 16,11-12] ^z^[**78:71** 2Sam 7,8] \ 
 ## 79
 ^0^ 
 ### Lamentación del pueblo de Dios por la desolación de Jerusalén
-^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^11^ ^d^ ^12^ ^e^ ^13^ ^a^[**79:4** Sal 44,14] ^b^[**79:5** Sal 80,5] ^c^[**79:6** Jer 10,25] ^d^[**79:11** Sal 102,21] ^e^[**79:12** Sal 137,7] 
+^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^11^ ^d^ ^12^ ^e^ ^a^[**79:4** Sal 44,14] ^b^[**79:5** Sal 80,5] ^c^[**79:6** Jer 10,25] ^d^[**79:11** Sal 102,21] ^e^[**79:12** Sal 137,7] \ 
 ## 80
 ^0^ 
 ### Oración por la restauración de Israel, la vid que Dios plantó
-^1^ ^a^ ^2^ ^b^ ^4^ ^c^ ^8^ ^d^ ^9^ ^e^ ^13^ ^f^ ^19^ ^a^[**80:1** Sal 45,1] ^b^[**80:2** 1Sam 4,4; Sal 99,1] ^c^[**80:4** Sal 80,8; Sal 80,20] ^d^[**80:8** Sal 80,4; Sal 80,20] ^e^[**80:9** Is 5,1-7; Os 10,1] ^f^[**80:13** Sal 89,42] 
+^1^ ^a^ ^2^ ^b^ ^4^ ^c^ ^8^ ^d^ ^9^ ^e^ ^13^ ^f^ ^a^[**80:1** Sal 45,1] ^b^[**80:2** 1Sam 4,4; Sal 99,1] ^c^[**80:4** Sal 80,8; Sal 80,20] ^d^[**80:8** Sal 80,4; Sal 80,20] ^e^[**80:9** Is 5,1-7; Os 10,1] ^f^[**80:13** Sal 89,42] \ 
 ## 81
 ^0^ 
 ### Canción del festival. Con penitencia
-^4^ ^a^ ^10^ ^b^ ^16^ ^a^[**81:4** Lev 23,24; Lev 23,34] ^b^[**81:10** Éxod 20,2-3] 
+^4^ ^a^ ^10^ ^b^ ^a^[**81:4** Lev 23,24; Lev 23,34] ^b^[**81:10** Éxod 20,2-3] \ 
 ## 82
 ^0^ 
 ### El juicio de Dios sobre jueces injustos (es decir, gobernantes obedientes)
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^8^ ^a^[**82:1** Sal 82,6] ^b^[**82:2** Deut 1,17] ^c^[**82:3** Is 1,17] ^d^[**82:6** Sal 82,1; Éxod 21,6; Juan 10,34] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^a^[**82:1** Sal 82,6] ^b^[**82:2** Deut 1,17] ^c^[**82:3** Is 1,17] ^d^[**82:6** Sal 82,1; Éxod 21,6; Juan 10,34] \ 
 ## 83
 ^0^ 
 ### ¡Enemigos por todas partes! (Oración del pueblo angustiado)
-^10^ ^a^ ^13^ ^b^ ^18^ ^a^[**83:10** Jue 7,22; Jue 4,15; Jue 4,21; Jue 4,23] ^b^[**83:13** Sal 74,8] 
+^10^ ^a^ ^13^ ^b^ ^a^[**83:10** Jue 7,22; Jue 4,15; Jue 4,21; Jue 4,23] ^b^[**83:13** Sal 74,8] \ 
 ## 84
 ^0^ 
 ### Anhelo de la casa de Dios (¿una canción de peregrinaje?)
@@ -4679,31 +4695,31 @@
 ## 85
 ^0^ 
 ### La oración de Israel por nueva gracia y la promesa de bendición de Dios
-^6^ ^a^ ^13^ ^a^[**85:6** Sal 77,8] 
+^6^ ^a^ ^a^[**85:6** Sal 77,8] \ 
 ## 86
 ^0^ 
 ### Oración de los piadosos en angustia hostil
-^2^ ^a^ ^3^ ^b^ ^5^ ^c^ ^8^ ^d^ ^15^ ^e^ ^16^ ^f^ ^17^ ^a^[**86:2** Sal 18,21-27] ^b^[**86:3** Sal 6,3] ^c^[**86:5** Sal 86,15] ^d^[**86:8** Sal 71,19] ^e^[**86:15** Éxod 34,6] ^f^[**86:16** Sal 116,16] 
+^2^ ^a^ ^3^ ^b^ ^5^ ^c^ ^8^ ^d^ ^15^ ^e^ ^16^ ^f^ ^a^[**86:2** Sal 18,21-27] ^b^[**86:3** Sal 6,3] ^c^[**86:5** Sal 86,15] ^d^[**86:8** Sal 71,19] ^e^[**86:15** Éxod 34,6] ^f^[**86:16** Sal 116,16] \ 
 ## 87
 ^0^ 
 ### Sion, la piadosa ciudad madre de las naciones
-^4^ ^a^ ^7^ ^a^[**87:4** Is 30,7; Sal 68,32] 
+^4^ ^a^ ^a^[**87:4** Is 30,7; Sal 68,32] \ 
 ## 88
 ^0^ 
 ### Queja desesperada de un enfermo grave
-^9^ ^a^ ^18^ ^a^[**88:9** Sal 88,19; Sal 31,12; Sal 38,12] 
+^9^ ^a^ ^a^[**88:9** Sal 88,19; Sal 31,12; Sal 38,12] \ 
 ## 89
 ^0^ 
 ### ¿Dónde se dan las promesas de gracia de Dios a la Casa de David?
-^7^ ^a^ ^10^ ^b^ ^11^ ^c^ ^12^ ^d^ ^19^ ^e^ ^20^ ^f^ ^21^ ^g^ ^26^ ^h^ ^27^ ^i^ ^29^ ^j^ ^38^ ^k^ ^39^ ^l^ ^42^ ^m^ ^48^ ^n^ ^52^ ^a^[**89:7** Job 1,6] ^b^[**89:10** Mat 8,26; Sal 65,8] ^c^[**89:11** Sal 87,4] ^d^[**89:12** Sal 24,1] ^e^[**89:19** Sal 47,10] ^f^[**89:20** Sal 89,4; 1Sam 13,14] ^g^[**89:21** 1Sam 16,18] ^h^[**89:26** Sal 72,8] ^i^[**89:27** 2Sam 7,14] ^j^[**89:29** Is 54,10] ^k^[**89:38** Gén 9,13] ^l^[**89:39** Sal 44,10-25; Sal 74,1-74; Sal 79,1-79] ^m^[**89:42** Sal 80,13] ^n^[**89:48** Sal 90,9-10] 
+^7^ ^a^ ^10^ ^b^ ^11^ ^c^ ^12^ ^d^ ^19^ ^e^ ^20^ ^f^ ^21^ ^g^ ^26^ ^h^ ^27^ ^i^ ^29^ ^j^ ^38^ ^k^ ^39^ ^l^ ^42^ ^m^ ^48^ ^n^ ^a^[**89:7** Job 1,6] ^b^[**89:10** Mat 8,26; Sal 65,8] ^c^[**89:11** Sal 87,4] ^d^[**89:12** Sal 24,1] ^e^[**89:19** Sal 47,10] ^f^[**89:20** Sal 89,4; 1Sam 13,14] ^g^[**89:21** 1Sam 16,18] ^h^[**89:26** Sal 72,8] ^i^[**89:27** 2Sam 7,14] ^j^[**89:29** Is 54,10] ^k^[**89:38** Gén 9,13] ^l^[**89:39** Sal 44,10-25; Sal 74,1-74; Sal 79,1-79] ^m^[**89:42** Sal 80,13] ^n^[**89:48** Sal 90,9-10] \ 
 ## 90
 ^0^ 
 ### Dios eterno el refugio de los perecederos
-^4^ ^a^ ^5^ ^b^ ^10^ ^c^ ^17^ ^a^[**90:4** 2Pe 3,8] ^b^[**90:5** Sal 102,12; Sal 103,15; Job 14,2; Is 40,6-7] ^c^[**90:10** Ecl 1,3; Ecl 1,8] 
+^4^ ^a^ ^5^ ^b^ ^10^ ^c^ ^a^[**90:4** 2Pe 3,8] ^b^[**90:5** Sal 102,12; Sal 103,15; Job 14,2; Is 40,6-7] ^c^[**90:10** Ecl 1,3; Ecl 1,8] \ 
 ## 91
 ^0^ 
 ### Bajo el cuidado del Altísimo
-^2^ ^a^ ^3^ ^b^ ^8^ ^c^ ^13^ ^d^ ^16^ ^a^[**91:2** Sal 18,3] ^b^[**91:3** Sal 124,7] ^c^[**91:8** Sal 54,9] ^d^[**91:13** Luc 10,19] 
+^2^ ^a^ ^3^ ^b^ ^8^ ^c^ ^13^ ^d^ ^a^[**91:2** Sal 18,3] ^b^[**91:3** Sal 124,7] ^c^[**91:8** Sal 54,9] ^d^[**91:13** Luc 10,19] \ 
 ## 92
 ^0^ 
 ### Alabado sea el justo gobierno de Dios
@@ -4715,11 +4731,11 @@
 ## 94
 ^0^ 
 ### Pide venganza contra los impíos opresores del pueblo de Dios
-^1^ ^a^ ^2^ ^b^ ^8^ ^c^ ^9^ ^d^ ^11^ ^e^ ^12^ ^f^ ^13^ ^g^ ^23^ ^a^[**94:1** Deut 32,35] ^b^[**94:2** Gén 18,25] ^c^[**94:8** Sal 92,7] ^d^[**94:9** Éxod 4,11] ^e^[**94:11** 1Cor 3,20] ^f^[**94:12** Sal 19,12-14; Job 5,17] ^g^[**94:13** Sal 37,7] 
+^1^ ^a^ ^2^ ^b^ ^8^ ^c^ ^9^ ^d^ ^11^ ^e^ ^12^ ^f^ ^13^ ^g^ ^a^[**94:1** Deut 32,35] ^b^[**94:2** Gén 18,25] ^c^[**94:8** Sal 92,7] ^d^[**94:9** Éxod 4,11] ^e^[**94:11** 1Cor 3,20] ^f^[**94:12** Sal 19,12-14; Job 5,17] ^g^[**94:13** Sal 37,7] \ 
 ## 95
 ^0^ 
 ### Alabanza a Dios al entrar al templo y penitencia
-^3^ ^a^ ^9^ ^b^ ^11^ ^a^[**95:3** Sal 96,4] ^b^[**95:9** Éxod 17,2; Éxod 17,7] 
+^3^ ^a^ ^9^ ^b^ ^a^[**95:3** Sal 96,4] ^b^[**95:9** Éxod 17,2; Éxod 17,7] \ 
 ## 96
 ^0^ 
 ### Alabado sea Dios como el gobernante del mundo en los últimos tiempos
@@ -4727,15 +4743,15 @@
 ## 97
 ^0^ 
 ### El ascenso y el reinado de Dios en los últimos tiempos
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^7^ ^e^ ^8^ ^f^ ^9^ ^g^ ^10^ ^h^ ^11^ ^i^ ^12^ ^a^[**97:1** Sal 93,1] ^b^[**97:2** Sal 89,15] ^c^[**97:3** Hab 3,3-6] ^d^[**97:6** Sal 19,2] ^e^[**97:7** Heb 1,6] ^f^[**97:8** Fil 4,4-5] ^g^[**97:9** Sal 96,4] ^h^[**97:10** Am 5,14; Am 1,5-15] ^i^[**97:11** Sal 112,4] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^7^ ^e^ ^8^ ^f^ ^9^ ^g^ ^10^ ^h^ ^11^ ^i^ ^a^[**97:1** Sal 93,1] ^b^[**97:2** Sal 89,15] ^c^[**97:3** Hab 3,3-6] ^d^[**97:6** Sal 19,2] ^e^[**97:7** Heb 1,6] ^f^[**97:8** Fil 4,4-5] ^g^[**97:9** Sal 96,4] ^h^[**97:10** Am 5,14; Am 1,5-15] ^i^[**97:11** Sal 112,4] \ 
 ## 98
 ^0^ 
 ### Alabado sea Dios como rey y juez justo del mundo
-^1^ ^a^ ^6^ ^b^ ^7^ ^c^ ^9^ ^a^[**98:1** Sal 33,3] ^b^[**98:6** Núm 23,21] ^c^[**98:7** Sal 96,11-13] 
+^1^ ^a^ ^6^ ^b^ ^7^ ^c^ ^a^[**98:1** Sal 33,3] ^b^[**98:6** Núm 23,21] ^c^[**98:7** Sal 96,11-13] \ 
 ## 99
 ^0^ 
 ### Alabado sea el Dios santo, el Rey que todo lo gobierna
-^1^ ^a^ ^6^ ^b^ ^9^ ^a^[**99:1** Sal 93,1; Sal 80,2] ^b^[**99:6** Jer 15,1] 
+^1^ ^a^ ^6^ ^b^ ^a^[**99:1** Sal 93,1; Sal 80,2] ^b^[**99:6** Jer 15,1] \ 
 ## 100
 ^0^ 
 ### Alabado sea Dios al entrar al templo
@@ -4743,7 +4759,7 @@
 ## 101
 ^0^ 
 ### Votos de un gobernante (o: príncipe espejo)
-^6^ ^a^ ^8^ ^a^[**101:6** Prov 22,11] 
+^6^ ^a^ ^a^[**101:6** Prov 22,11] \ 
 ## 102
 ^0^ 
 ### Oración penitente de una víctima y solicitud de la restauración de Sion (quinto salmo penitencial)
@@ -4755,11 +4771,11 @@
 ## 104
 ^0^ 
 ### La gloria de Dios en la naturaleza
-^7^ ^a^ ^15^ ^b^ ^29^ ^c^ ^35^ ^a^[**104:7** Job 38,8-11] ^b^[**104:15** Jue 9,13; Ecl 10,19] ^c^[**104:29** Gén 3,19] 
+^7^ ^a^ ^15^ ^b^ ^29^ ^c^ ^a^[**104:7** Job 38,8-11] ^b^[**104:15** Jue 9,13; Ecl 10,19] ^c^[**104:29** Gén 3,19] \ 
 ## 105
 ^0^ 
 ### Los actos salvadores de Dios en el antiguo Israel
-^1^ ^a^ ^14^ ^b^ ^17^ ^c^ ^23^ ^d^ ^24^ ^e^ ^27^ ^f^ ^39^ ^g^ ^40^ ^h^ ^41^ ^i^ ^45^ ^a^[**105:1** Is 12,4; 1Cró 16,8-22] ^b^[**105:14** Núm 23,7] ^c^[**105:17** Gén 37,28] ^d^[**105:23** Gén 46,1] ^e^[**105:24** Éxod 1,7; Éxod 1,12] ^f^[**105:27** Éxod 3,1-12] ^g^[**105:39** Éxod 13,21] ^h^[**105:40** Éxod 16,13-15; Juan 6,31] ^i^[**105:41** Éxod 17,6] 
+^1^ ^a^ ^14^ ^b^ ^17^ ^c^ ^23^ ^d^ ^24^ ^e^ ^27^ ^f^ ^39^ ^g^ ^40^ ^h^ ^41^ ^i^ ^a^[**105:1** Is 12,4; 1Cró 16,8-22] ^b^[**105:14** Núm 23,7] ^c^[**105:17** Gén 37,28] ^d^[**105:23** Gén 46,1] ^e^[**105:24** Éxod 1,7; Éxod 1,12] ^f^[**105:27** Éxod 3,1-12] ^g^[**105:39** Éxod 13,21] ^h^[**105:40** Éxod 16,13-15; Juan 6,31] ^i^[**105:41** Éxod 17,6] \ 
 ## 106
 ^0^ 
 ### La gracia de Dios y la ingratitud de Israel
@@ -4767,23 +4783,23 @@
 ## 107
 ^0^ 
 ### Alabado sea Dios, el Salvador de toda adversidad
-^1^ ^a^ ^8^ ^b^ ^9^ ^c^ ^13^ ^d^ ^19^ ^e^ ^22^ ^f^ ^31^ ^g^ ^43^ ^a^[**107:1** Sal 106,1] ^b^[**107:8** Sal 107,15; Sal 107,21; Sal 107,31] ^c^[**107:9** Luc 1,53] ^d^[**107:13** Sal 107,6] ^e^[**107:19** Sal 107,6] ^f^[**107:22** Sal 50,14] ^g^[**107:31** Sal 107,8] 
+^1^ ^a^ ^8^ ^b^ ^9^ ^c^ ^13^ ^d^ ^19^ ^e^ ^22^ ^f^ ^31^ ^g^ ^a^[**107:1** Sal 106,1] ^b^[**107:8** Sal 107,15; Sal 107,21; Sal 107,31] ^c^[**107:9** Luc 1,53] ^d^[**107:13** Sal 107,6] ^e^[**107:19** Sal 107,6] ^f^[**107:22** Sal 50,14] ^g^[**107:31** Sal 107,8] \ 
 ## 108
 ^0^ 
 ### Alaba la gracia de Dios y pide ayuda
-^2^ ^a^ ^13^ ^a^[**108:2** Sal 16,9; Sal 57,8-12] 
+^2^ ^a^ ^a^[**108:2** Sal 16,9; Sal 57,8-12] \ 
 ## 109
 ^0^ 
 ### Maldición de enemigos impíos
-^5^ ^a^ ^14^ ^b^ ^15^ ^c^ ^18^ ^d^ ^28^ ^e^ ^29^ ^f^ ^31^ ^a^[**109:5** Sal 35,12] ^b^[**109:14** Éxod 20,5] ^c^[**109:15** Prov 10,7] ^d^[**109:18** Núm 5,22] ^e^[**109:28** Mat 5,11] ^f^[**109:29** Sal 35,26] 
+^5^ ^a^ ^14^ ^b^ ^15^ ^c^ ^18^ ^d^ ^28^ ^e^ ^29^ ^f^ ^a^[**109:5** Sal 35,12] ^b^[**109:14** Éxod 20,5] ^c^[**109:15** Prov 10,7] ^d^[**109:18** Núm 5,22] ^e^[**109:28** Mat 5,11] ^f^[**109:29** Sal 35,26] \ 
 ## 110
 ^0^ 
 ### El mensaje de Dios al Sacerdote-Rey
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^5^ ^e^ ^7^ ^a^[**110:1** Fil 2,8-9; 1Cor 15,25; Heb 10,12-13] ^b^[**110:2** Sal 2,6] ^c^[**110:3** Sal 29,2] ^d^[**110:4** Gén 14,18-20; Heb 5,10; Heb 6,20; Heb 7,17; Heb 7,21] ^e^[**110:5** Sal 2,2; Sal 2,5; Sal 2,9] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^5^ ^e^ ^a^[**110:1** Fil 2,8-9; 1Cor 15,25; Heb 10,12-13] ^b^[**110:2** Sal 2,6] ^c^[**110:3** Sal 29,2] ^d^[**110:4** Gén 14,18-20; Heb 5,10; Heb 6,20; Heb 7,17; Heb 7,21] ^e^[**110:5** Sal 2,2; Sal 2,5; Sal 2,9] \ 
 ## 111
 ^0^ 
 ### Alabe las bendiciones físicas y espirituales de Dios
-^5^ ^a^ ^10^ ^a^[**111:5** Sal 145,15] 
+^5^ ^a^ ^a^[**111:5** Sal 145,15] \ 
 ## 112
 ^0^ 
 ### La bendición del temor de Dios y la misericordia
@@ -4799,11 +4815,11 @@
 ## 115
 ^0^ 
 ### Solo el Dios vivo merece gloria
-^2^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^18^ ^a^[**115:2** Sal 42,4] ^b^[**115:9** Sal 118,2] ^c^[**115:10** Sal 118,3] ^d^[**115:11** Sal 118,4] 
+^2^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^a^[**115:2** Sal 42,4] ^b^[**115:9** Sal 118,2] ^c^[**115:10** Sal 118,3] ^d^[**115:11** Sal 118,4] \ 
 ## 116
 ^0^ 
 ### Canción de acción de gracias y votos de alguien rescatado del peligro de muerte (al ofrecer el sacrificio de acción de gracias)
-^3^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^15^ ^e^ ^19^ ^a^[**116:3** Sal 116,8; Sal 18,6] ^b^[**116:9** Sal 27,13; Sal 56,14] ^c^[**116:10** 2Cor 4,13] ^d^[**116:11** Rom 3,4] ^e^[**116:15** Sal 72,14] 
+^3^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^d^ ^15^ ^e^ ^a^[**116:3** Sal 116,8; Sal 18,6] ^b^[**116:9** Sal 27,13; Sal 56,14] ^c^[**116:10** 2Cor 4,13] ^d^[**116:11** Rom 3,4] ^e^[**116:15** Sal 72,14] \ 
 ## 117
 ^0^ 
 ### Llamando a los gentiles a alabar a Dios
@@ -4811,7 +4827,7 @@
 ## 118
 ^0^ 
 ### Oración de acción de gracias y canción de victoria de la comunidad del festival
-^1^ ^a^ ^2^ ^b^ ^7^ ^c^ ^12^ ^d^ ^18^ ^e^ ^22^ ^f^ ^29^ ^a^[**118:1** Sal 107,1] ^b^[**118:2** Sal 115,9-13] ^c^[**118:7** Sal 54,9] ^d^[**118:12** Is 33,12] ^e^[**118:18** 2Cor 6,9] ^f^[**118:22** Is 28,16; Mat 21,42] 
+^1^ ^a^ ^2^ ^b^ ^7^ ^c^ ^12^ ^d^ ^18^ ^e^ ^22^ ^f^ ^a^[**118:1** Sal 107,1] ^b^[**118:2** Sal 115,9-13] ^c^[**118:7** Sal 54,9] ^d^[**118:12** Is 33,12] ^e^[**118:18** 2Cor 6,9] ^f^[**118:22** Is 28,16; Mat 21,42] \ 
 ## 119
 ^0^ 
 ### Gloria de la palabra y ley divinas (o: el alfabeto dorado)
@@ -4869,7 +4885,7 @@
 ## 122
 ^0^ 
 ### Las bendiciones de un peregrino para Jerusalén
-^1^ ^a^ ^9^ ^a^[**122:1** Sal 26,6-8] 
+^1^ ^a^ ^a^[**122:1** Sal 26,6-8] \ 
 ## 123
 ^0^ 
 ### Los creyentes miran a Dios con vergüenza y burla
@@ -4877,11 +4893,11 @@
 ## 124
 ^0^ 
 ### El salvador de Israel necesitado
-^4^ ^a^ ^8^ ^a^[**124:4** Sal 42,8; Sal 69,16] 
+^4^ ^a^ ^a^[**124:4** Sal 42,8; Sal 69,16] \ 
 ## 125
 ^0^ 
 ### Dios protege a su pueblo Israel y a todos los rectos
-^2^ ^a^ ^5^ ^a^[**125:2** Sal 36,7] 
+^2^ ^a^ ^a^[**125:2** Sal 36,7] \ 
 ## 126
 ^0^ 
 ### Consuelo en las lágrimas
@@ -4889,7 +4905,7 @@
 ## 127
 ^0^ 
 ### Todo depende de la bendición de Dios
-^3^ ^a^ ^5^ ^a^[**127:3** Gén 33,5; Sal 128,3-4] 
+^3^ ^a^ ^a^[**127:3** Gén 33,5; Sal 128,3-4] \ 
 ## 128
 ^0^ 
 ### La felicidad doméstica como bendición del temor de Dios
@@ -4909,7 +4925,7 @@
 ## 132
 ^0^ 
 ### Oración por Sion en vista de la promesa de Dios a David
-^2^ ^a^ ^6^ ^b^ ^11^ ^c^ ^17^ ^d^ ^18^ ^a^[**132:2** 2Sam 7,-1] ^b^[**132:6** 1Sam 7,1; 2Sam 6,3] ^c^[**132:11** Sal 89,4] ^d^[**132:17** Luc 1,69; Sal 89,25] 
+^2^ ^a^ ^6^ ^b^ ^11^ ^c^ ^17^ ^d^ ^a^[**132:2** 2Sam 7,-1] ^b^[**132:6** 1Sam 7,1; 2Sam 6,3] ^c^[**132:11** Sal 89,4] ^d^[**132:17** Luc 1,69; Sal 89,25] \ 
 ## 133
 ^0^ 
 ### Bendiciones de la unidad fraterna
@@ -4921,11 +4937,11 @@
 ## 135
 ^0^ 
 ### Alabado sea el único Dios verdadero
-^5^ ^a^ ^8^ ^b^ ^9^ ^c^ ^11^ ^d^ ^12^ ^e^ ^13^ ^f^ ^14^ ^g^ ^15^ ^h^ ^21^ ^a^[**135:5** Sal 86,8] ^b^[**135:8** Éxod 12,29] ^c^[**135:9** Sal 78,43-52] ^d^[**135:11** Núm 21,21-35] ^e^[**135:12** Jos 12,-1] ^f^[**135:13** Sal 102,13] ^g^[**135:14** Deut 32,36; Deut 32,43] ^h^[**135:15** Sal 115,4-11] 
+^5^ ^a^ ^8^ ^b^ ^9^ ^c^ ^11^ ^d^ ^12^ ^e^ ^13^ ^f^ ^14^ ^g^ ^15^ ^h^ ^a^[**135:5** Sal 86,8] ^b^[**135:8** Éxod 12,29] ^c^[**135:9** Sal 78,43-52] ^d^[**135:11** Núm 21,21-35] ^e^[**135:12** Jos 12,-1] ^f^[**135:13** Sal 102,13] ^g^[**135:14** Deut 32,36; Deut 32,43] ^h^[**135:15** Sal 115,4-11] \ 
 ## 136
 ^0^ 
 ### Canto de acción de gracias por los beneficios de Dios para Israel
-^1^ ^a^ ^10^ ^b^ ^26^ ^a^[**136:1** Sal 106,1] ^b^[**136:10** Sal 78,51; Sal 135,8-12] 
+^1^ ^a^ ^10^ ^b^ ^a^[**136:1** Sal 106,1] ^b^[**136:10** Sal 78,51; Sal 135,8-12] \ 
 ## 137
 ^0^ 
 ### Lamento de los judíos capturados a los ríos de Babilonia
@@ -4941,7 +4957,7 @@
 ## 140
 ^0^ 
 ### Oración por la salvación de enemigos engañosos
-^7^ ^a^ ^13^ ^a^[**140:7** Sal 22,11] 
+^7^ ^a^ ^a^[**140:7** Sal 22,11] \ 
 ## 141
 ^0^ 
 ### Oración por protección contra el mal y los perseguidores
@@ -4957,11 +4973,11 @@
 ## 144
 ^0^ 
 ### Oración de alabanza y súplica; La abundancia de bendiciones de Israel
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^5^ ^e^ ^9^ ^f^ ^12^ ^g^ ^15^ ^a^[**144:1** Sal 18,35] ^b^[**144:2** Sal 18,3] ^c^[**144:3** Sal 8,5] ^d^[**144:4** Job 14,2] ^e^[**144:5** Sal 18,10; Sal 104,32] ^f^[**144:9** Sal 33,2-3] ^g^[**144:12** Sal 128,3] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^5^ ^e^ ^9^ ^f^ ^12^ ^g^ ^a^[**144:1** Sal 18,35] ^b^[**144:2** Sal 18,3] ^c^[**144:3** Sal 8,5] ^d^[**144:4** Job 14,2] ^e^[**144:5** Sal 18,10; Sal 104,32] ^f^[**144:9** Sal 33,2-3] ^g^[**144:12** Sal 128,3] \ 
 ## 145
 ^0^ 
 ### Canto de alabanza a la grandeza y bondad de Dios, sustentador y gobernante del mundo
-^8^ ^a^ ^9^ ^b^ ^12^ ^c^ ^15^ ^d^ ^19^ ^e^ ^21^ ^a^[**145:8** Éxod 34,6] ^b^[**145:9** Rom 11,32] ^c^[**145:12** Sal 145,5] ^d^[**145:15** Sal 104,27-28; Sal 136,25] ^e^[**145:19** Prov 10,24] 
+^8^ ^a^ ^9^ ^b^ ^12^ ^c^ ^15^ ^d^ ^19^ ^e^ ^a^[**145:8** Éxod 34,6] ^b^[**145:9** Rom 11,32] ^c^[**145:12** Sal 145,5] ^d^[**145:15** Sal 104,27-28; Sal 136,25] ^e^[**145:19** Prov 10,24] \ 
 ## 146
 ^0^ 
 ### ¡Bienaventurados los que confían en el Señor!
@@ -4969,7 +4985,7 @@
 ## 147
 ^0^ 
 ### Alabado sea la omnipotencia, la bondad y la sabiduría de Dios
-^1^ ^a^ ^4^ ^b^ ^9^ ^c^ ^16^ ^d^ ^20^ ^a^[**147:1** Sal 92,2] ^b^[**147:4** Is 40,26] ^c^[**147:9** Job 38,41] ^d^[**147:16** Sal 148,8; Job 38,22-30] 
+^1^ ^a^ ^4^ ^b^ ^9^ ^c^ ^16^ ^d^ ^a^[**147:1** Sal 92,2] ^b^[**147:4** Is 40,26] ^c^[**147:9** Job 38,41] ^d^[**147:16** Sal 148,8; Job 38,22-30] \ 
 ## 148
 ^0^ 
 ### ¡Todo el mundo, toda la creación, alabado sea el Señor!
@@ -4977,7 +4993,7 @@
 ## 149
 ^0^ 
 ### El cántico de victoria y venganza de Israel
-^1^ ^a^ ^2^ ^b^ ^9^ ^a^[**149:1** Sal 96,1] ^b^[**149:2** Sal 100,3; Sal 93,1] 
+^1^ ^a^ ^2^ ^b^ ^a^[**149:1** Sal 96,1] ^b^[**149:2** Sal 100,3; Sal 93,1] \ 
 ## 150
 ^0^ 
 ### ¡Todo lo que respira, alabado sea el Señor!
@@ -5002,7 +5018,7 @@
 ### Valor y bendición de la sabiduría
 ^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^16^ ^d^ ^22^ ^e^ ^26^ ^f^ ^a^[**3:13** Mat 13,44] ^b^[**3:14** Prov 8,10; Prov 8,19] ^c^[**3:15** Mat 13,45-46] ^d^[**3:16** Prov 3,2] ^e^[**3:22** Prov 1,9] ^f^[**3:26** Prov 10,29] 
 ### Advertencias contra el desamor hacia el prójimo y contra la violencia
-^34^ ^a^ ^35^ ^a^[**3:34** Prov 1,26; 1Pe 5,5] 
+^34^ ^a^ ^a^[**3:34** Prov 1,26; 1Pe 5,5] \ 
 ## 4
 ^0^ 
 ### Exhortación paternal a buscar sabiduría y obedecer sus enseñanzas
@@ -5016,7 +5032,7 @@
 ### Advertencias sobre seguridad, indolencia, falsedad y todos los seres impiedosos
 ^1^ ^a^ ^5^ ^a^[**6:1** Prov 11,15; Prov 17,8; Prov 20,16] \ ^10^ ^a^ ^11^ ^a^[**6:10** Prov 24,33-34] \ ^13^ ^a^ ^15^ ^a^[**6:13** Prov 10,10] \ ^19^ 
 ### Otra advertencia contra el coito con adúlteras
-^21^ ^a^ ^22^ ^b^ ^24^ ^c^ ^32^ ^d^ ^35^ ^a^[**6:21** Prov 3,3] ^b^[**6:22** Sal 119,172] ^c^[**6:24** Prov 2,16] ^d^[**6:32** 1Cor 6,18] 
+^21^ ^a^ ^22^ ^b^ ^24^ ^c^ ^32^ ^d^ ^a^[**6:21** Prov 3,3] ^b^[**6:22** Sal 119,172] ^c^[**6:24** Prov 2,16] ^d^[**6:32** 1Cor 6,18] \ 
 ## 7
 ^0^ 
 ### Descripción de la seducción a la fornicación adúltera; Advertencia de sus nefastas consecuencias
@@ -5036,11 +5052,11 @@
 ### La invitación a la locura
 
 ## 10
-^1^ ^a^ ^4^ ^b^ ^10^ ^c^ ^11^ ^d^ ^12^ ^e^ ^16^ ^f^ ^24^ ^g^ ^28^ ^h^ ^29^ ^i^ ^30^ ^j^ ^31^ ^k^ ^32^ ^a^[**10:1** Prov 15,20; Prov 17,21; Prov 17,25] ^b^[**10:4** Prov 6,6-11; Prov 12,24; Prov 12,27; Prov 19,15; Prov 28,19] ^c^[**10:10** Prov 6,13] ^d^[**10:11** Prov 10,31; Prov 13,14] ^e^[**10:12** 1Pe 4,8] ^f^[**10:16** Luc 16,19] ^g^[**10:24** Prov 1,27; Sal 37,4] ^h^[**10:28** Sal 9,19; Job 8,13] ^i^[**10:29** Prov 3,26] ^j^[**10:30** Sal 112,6; Prov 2,22] ^k^[**10:31** Prov 10,11; Sal 37,30] 
+^1^ ^a^ ^4^ ^b^ ^10^ ^c^ ^11^ ^d^ ^12^ ^e^ ^16^ ^f^ ^24^ ^g^ ^28^ ^h^ ^29^ ^i^ ^30^ ^j^ ^31^ ^k^ ^a^[**10:1** Prov 15,20; Prov 17,21; Prov 17,25] ^b^[**10:4** Prov 6,6-11; Prov 12,24; Prov 12,27; Prov 19,15; Prov 28,19] ^c^[**10:10** Prov 6,13] ^d^[**10:11** Prov 10,31; Prov 13,14] ^e^[**10:12** 1Pe 4,8] ^f^[**10:16** Luc 16,19] ^g^[**10:24** Prov 1,27; Sal 37,4] ^h^[**10:28** Sal 9,19; Job 8,13] ^i^[**10:29** Prov 3,26] ^j^[**10:30** Sal 112,6; Prov 2,22] ^k^[**10:31** Prov 10,11; Sal 37,30] \ 
 ## 11
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^7^ ^e^ ^8^ ^f^ ^11^ ^g^ ^19^ ^h^ ^23^ ^i^ ^28^ ^j^ ^31^ ^k^ ^a^[**11:1** Prov 16,11; Prov 20,10; Lev 19,35] ^b^[**11:2** Prov 16,18; Prov 18,12] ^c^[**11:3** Sal 52,7] ^d^[**11:4** Prov 10,2] ^e^[**11:7** Prov 10,28] ^f^[**11:8** Prov 21,18; Is 43,3] ^g^[**11:11** Prov 28,12; Prov 29,2] ^h^[**11:19** Prov 19,23] ^i^[**11:23** Prov 11,7] ^j^[**11:28** Sal 52,9-10] ^k^[**11:31** 1Pe 4,17-18] 
 ## 12
-^1^ ^a^ ^3^ ^b^ ^4^ ^c^ ^5^ ^d^ ^10^ ^e^ ^11^ ^f^ ^12^ ^g^ ^18^ ^h^ ^23^ ^i^ ^24^ ^j^ ^25^ ^k^ ^28^ ^a^[**12:1** Prov 13,1; Prov 13,18] ^b^[**12:3** Prov 12,12] ^c^[**12:4** Prov 31,10-31] ^d^[**12:5** 1Re 12,6-19] ^e^[**12:10** Éxod 23,5] ^f^[**12:11** Prov 28,19] ^g^[**12:12** Prov 12,3] ^h^[**12:18** Prov 13,3] ^i^[**12:23** Prov 29,11] ^j^[**12:24** Prov 10,4] ^k^[**12:25** Prov 16,24] 
+^1^ ^a^ ^3^ ^b^ ^4^ ^c^ ^5^ ^d^ ^10^ ^e^ ^11^ ^f^ ^12^ ^g^ ^18^ ^h^ ^23^ ^i^ ^24^ ^j^ ^25^ ^k^ ^a^[**12:1** Prov 13,1; Prov 13,18] ^b^[**12:3** Prov 12,12] ^c^[**12:4** Prov 31,10-31] ^d^[**12:5** 1Re 12,6-19] ^e^[**12:10** Éxod 23,5] ^f^[**12:11** Prov 28,19] ^g^[**12:12** Prov 12,3] ^h^[**12:18** Prov 13,3] ^i^[**12:23** Prov 29,11] ^j^[**12:24** Prov 10,4] ^k^[**12:25** Prov 16,24] \ 
 ## 13
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^7^ ^e^ ^10^ ^f^ ^16^ ^g^ ^22^ ^h^ ^25^ ^i^ ^a^[**13:1** Prov 1,8; Prov 12,1] ^b^[**13:2** Prov 12,14] ^c^[**13:3** Prov 12,18; Prov 21,23] ^d^[**13:4** Prov 10,4] ^e^[**13:7** Mat 5,3; Apoc 2,9; Apoc 3,17] ^f^[**13:10** Prov 28,25; Prov 1,5] ^g^[**13:16** Prov 12,23; Prov 15,2] ^h^[**13:22** Prov 14,14; Prov 19,1-19; Prov 28,8; Ecl 2,26] ^i^[**13:25** Sal 34,11] 
 ## 14
@@ -5048,15 +5064,15 @@
 ## 15
 ^1^ ^a^ ^2^ ^b^ ^8^ ^c^ ^9^ ^d^ ^10^ ^e^ ^11^ ^f^ ^12^ ^g^ ^13^ ^h^ ^15^ ^i^ ^16^ ^j^ ^18^ ^k^ ^19^ ^l^ ^20^ ^m^ ^27^ ^n^ ^30^ ^o^ ^33^ ^p^ ^a^[**15:1** Prov 15,18; 1Re 12,13; 1Re 12,16] ^b^[**15:2** Prov 12,23] ^c^[**15:8** Prov 15,29; Prov 21,27; Prov 28,9; Gén 4,4-5; Is 1,11; Is 1,15; Luc 18,9-14] ^d^[**15:9** Prov 11,20] ^e^[**15:10** Prov 10,17; Prov 29,1] ^f^[**15:11** Job 26,6; Sal 139,8; Jer 17,10] ^g^[**15:12** Prov 9,8; Prov 13,1] ^h^[**15:13** Prov 15,15] ^i^[**15:15** Prov 15,13; Prov 17,22] ^j^[**15:16** Prov 16,8; Prov 17,1; Sal 37,16] ^k^[**15:18** Prov 15,1; Prov 26,21; Prov 29,22] ^l^[**15:19** Prov 24,30-31] ^m^[**15:20** Prov 10,1] ^n^[**15:27** Sal 15,5] ^o^[**15:30** Prov 25,25] ^p^[**15:33** Prov 1,7; Prov 18,12] 
 ## 16
-^3^ ^a^ ^7^ ^b^ ^8^ ^c^ ^9^ ^d^ ^12^ ^e^ ^15^ ^f^ ^16^ ^g^ ^18^ ^h^ ^24^ ^i^ ^25^ ^j^ ^26^ ^k^ ^29^ ^l^ ^30^ ^m^ ^31^ ^n^ ^32^ ^o^ ^33^ ^a^[**16:3** Sal 37,5] ^b^[**16:7** Gén 31,24; Gén 33,4] ^c^[**16:8** Prov 15,16] ^d^[**16:9** Prov 19,21] ^e^[**16:12** Prov 20,28; Prov 25,5; Prov 29,14] ^f^[**16:15** Prov 19,12] ^g^[**16:16** Prov 3,14; Prov 8,10-11; Prov 8,19] ^h^[**16:18** Prov 18,12] ^i^[**16:24** Prov 12,25] ^j^[**16:25** Prov 14,12] ^k^[**16:26** Prov 18,7] ^l^[**16:29** Prov 1,10-14] ^m^[**16:30** Prov 6,13] ^n^[**16:31** Prov 20,29] ^o^[**16:32** Prov 14,29] 
+^3^ ^a^ ^7^ ^b^ ^8^ ^c^ ^9^ ^d^ ^12^ ^e^ ^15^ ^f^ ^16^ ^g^ ^18^ ^h^ ^24^ ^i^ ^25^ ^j^ ^26^ ^k^ ^29^ ^l^ ^30^ ^m^ ^31^ ^n^ ^32^ ^o^ ^a^[**16:3** Sal 37,5] ^b^[**16:7** Gén 31,24; Gén 33,4] ^c^[**16:8** Prov 15,16] ^d^[**16:9** Prov 19,21] ^e^[**16:12** Prov 20,28; Prov 25,5; Prov 29,14] ^f^[**16:15** Prov 19,12] ^g^[**16:16** Prov 3,14; Prov 8,10-11; Prov 8,19] ^h^[**16:18** Prov 18,12] ^i^[**16:24** Prov 12,25] ^j^[**16:25** Prov 14,12] ^k^[**16:26** Prov 18,7] ^l^[**16:29** Prov 1,10-14] ^m^[**16:30** Prov 6,13] ^n^[**16:31** Prov 20,29] ^o^[**16:32** Prov 14,29] \ 
 ## 17
 ^1^ ^a^ ^5^ ^b^ ^6^ ^c^ ^13^ ^d^ ^17^ ^e^ ^18^ ^f^ ^21^ ^g^ ^22^ ^h^ ^24^ ^i^ ^25^ ^j^ ^27^ ^k^ ^28^ ^l^ ^a^[**17:1** Prov 15,16-17; Prov 16,8] ^b^[**17:5** Prov 14,31] ^c^[**17:6** Sal 128,6] ^d^[**17:13** Sal 109,5] ^e^[**17:17** Prov 18,24] ^f^[**17:18** Prov 6,1] ^g^[**17:21** Prov 10,1] ^h^[**17:22** Prov 15,13; Prov 15,15] ^i^[**17:24** Prov 4,25] ^j^[**17:25** Prov 17,21] ^k^[**17:27** Prov 10,19; Sant 1,19] ^l^[**17:28** Job 13,5] 
 ## 18
-^5^ ^a^ ^8^ ^b^ ^9^ ^c^ ^10^ ^d^ ^11^ ^e^ ^12^ ^f^ ^16^ ^g^ ^20^ ^h^ ^21^ ^i^ ^22^ ^j^ ^24^ ^a^[**18:5** Deut 1,17] ^b^[**18:8** Prov 26,22] ^c^[**18:9** Prov 10,4] ^d^[**18:10** Prov 14,26; Sal 20,2] ^e^[**18:11** Prov 10,15] ^f^[**18:12** Prov 16,18; Prov 15,33] ^g^[**18:16** Gén 43,11] ^h^[**18:20** Prov 12,14; Prov 13,2] ^i^[**18:21** Prov 13,3] ^j^[**18:22** Prov 19,14; Prov 31,10] 
+^5^ ^a^ ^8^ ^b^ ^9^ ^c^ ^10^ ^d^ ^11^ ^e^ ^12^ ^f^ ^16^ ^g^ ^20^ ^h^ ^21^ ^i^ ^22^ ^j^ ^a^[**18:5** Deut 1,17] ^b^[**18:8** Prov 26,22] ^c^[**18:9** Prov 10,4] ^d^[**18:10** Prov 14,26; Sal 20,2] ^e^[**18:11** Prov 10,15] ^f^[**18:12** Prov 16,18; Prov 15,33] ^g^[**18:16** Gén 43,11] ^h^[**18:20** Prov 12,14; Prov 13,2] ^i^[**18:21** Prov 13,3] ^j^[**18:22** Prov 19,14; Prov 31,10] \ 
 ## 19
-^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^9^ ^d^ ^13^ ^e^ ^14^ ^f^ ^15^ ^g^ ^16^ ^h^ ^17^ ^i^ ^18^ ^j^ ^21^ ^k^ ^24^ ^l^ ^25^ ^m^ ^27^ ^n^ ^29^ ^a^[**19:3** Lam 3,39] ^b^[**19:4** Prov 14,20] ^c^[**19:5** Prov 19,9; Prov 21,28; Deut 19,18-21] ^d^[**19:9** Prov 19,5] ^e^[**19:13** Prov 10,1] ^f^[**19:14** Prov 18,22] ^g^[**19:15** Prov 10,4; Prov 23,21] ^h^[**19:16** Prov 16,17] ^i^[**19:17** Prov 14,31; Sal 41,2-4; Mat 25,40] ^j^[**19:18** Efes 6,4] ^k^[**19:21** Prov 16,9; Jer 10,23] ^l^[**19:24** Prov 26,15] ^m^[**19:25** Prov 21,11] ^n^[**19:27** Sant 1,22] 
+^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^9^ ^d^ ^13^ ^e^ ^14^ ^f^ ^15^ ^g^ ^16^ ^h^ ^17^ ^i^ ^18^ ^j^ ^21^ ^k^ ^24^ ^l^ ^25^ ^m^ ^27^ ^n^ ^a^[**19:3** Lam 3,39] ^b^[**19:4** Prov 14,20] ^c^[**19:5** Prov 19,9; Prov 21,28; Deut 19,18-21] ^d^[**19:9** Prov 19,5] ^e^[**19:13** Prov 10,1] ^f^[**19:14** Prov 18,22] ^g^[**19:15** Prov 10,4; Prov 23,21] ^h^[**19:16** Prov 16,17] ^i^[**19:17** Prov 14,31; Sal 41,2-4; Mat 25,40] ^j^[**19:18** Efes 6,4] ^k^[**19:21** Prov 16,9; Jer 10,23] ^l^[**19:24** Prov 26,15] ^m^[**19:25** Prov 21,11] ^n^[**19:27** Sant 1,22] \ 
 ## 20
-^1^ ^a^ ^2^ ^b^ ^4^ ^c^ ^5^ ^d^ ^7^ ^e^ ^8^ ^f^ ^9^ ^g^ ^10^ ^h^ ^11^ ^i^ ^16^ ^j^ ^17^ ^k^ ^18^ ^l^ ^22^ ^m^ ^23^ ^n^ ^25^ ^o^ ^28^ ^p^ ^29^ ^q^ ^30^ ^a^[**20:1** Prov 23,29-35; Prov 31,5] ^b^[**20:2** Prov 16,14; Prov 19,12] ^c^[**20:4** Prov 6,6-8] ^d^[**20:5** Prov 18,4] ^e^[**20:7** Prov 14,26; Sal 112,2] ^f^[**20:8** Sal 101,3-8] ^g^[**20:9** Prov 28,13; Prov 30,12] ^h^[**20:10** Prov 20,23; Prov 11,1] ^i^[**20:11** Prov 22,6] ^j^[**20:16** Prov 6,1-5; Prov 27,13] ^k^[**20:17** Prov 9,17] ^l^[**20:18** Prov 24,6] ^m^[**20:22** Prov 24,29; Rom 12,17-19] ^n^[**20:23** Prov 20,10] ^o^[**20:25** Sal 101,8] ^p^[**20:28** Prov 16,12] ^q^[**20:29** Prov 16,31] 
+^1^ ^a^ ^2^ ^b^ ^4^ ^c^ ^5^ ^d^ ^7^ ^e^ ^8^ ^f^ ^9^ ^g^ ^10^ ^h^ ^11^ ^i^ ^16^ ^j^ ^17^ ^k^ ^18^ ^l^ ^22^ ^m^ ^23^ ^n^ ^25^ ^o^ ^28^ ^p^ ^29^ ^q^ ^a^[**20:1** Prov 23,29-35; Prov 31,5] ^b^[**20:2** Prov 16,14; Prov 19,12] ^c^[**20:4** Prov 6,6-8] ^d^[**20:5** Prov 18,4] ^e^[**20:7** Prov 14,26; Sal 112,2] ^f^[**20:8** Sal 101,3-8] ^g^[**20:9** Prov 28,13; Prov 30,12] ^h^[**20:10** Prov 20,23; Prov 11,1] ^i^[**20:11** Prov 22,6] ^j^[**20:16** Prov 6,1-5; Prov 27,13] ^k^[**20:17** Prov 9,17] ^l^[**20:18** Prov 24,6] ^m^[**20:22** Prov 24,29; Rom 12,17-19] ^n^[**20:23** Prov 20,10] ^o^[**20:25** Sal 101,8] ^p^[**20:28** Prov 16,12] ^q^[**20:29** Prov 16,31] \ 
 ## 21
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^6^ ^e^ ^11^ ^f^ ^17^ ^g^ ^18^ ^h^ ^19^ ^i^ ^23^ ^j^ ^27^ ^k^ ^28^ ^l^ ^30^ ^m^ ^31^ ^n^ ^a^[**21:1** Sal 33,15] ^b^[**21:2** Prov 16,2; Prov 24,12] ^c^[**21:3** 1Sam 15,22; Is 1,11-18; Os 6,6] ^d^[**21:4** Is 2,11] ^e^[**21:6** Prov 10,2] ^f^[**21:11** Prov 19,25] ^g^[**21:17** Prov 23,21] ^h^[**21:18** Prov 11,8] ^i^[**21:19** Prov 21,9] ^j^[**21:23** Prov 13,3] ^k^[**21:27** Prov 15,8] ^l^[**21:28** Prov 19,5; Prov 19,9] ^m^[**21:30** Sal 33,10-11] ^n^[**21:31** Sal 33,17; Is 31,1; Is 31,3] 
 ## 22
@@ -5066,7 +5082,7 @@
 ### Recordatorios individuales
 ^23^ ^a^ ^a^[**22:23** Prov 23,11] \ ^24^ ^a^ ^25^ ^a^[**22:24** Prov 29,22] \ ^26^ ^a^ ^27^ ^a^[**22:26** Prov 6,1] \ ^29^ ^a^ ^a^[**22:29** Prov 21,5] 
 ## 23
-^3^ \ ^5^ \ ^8^ \ ^9^ ^a^ ^10^ ^b^ ^11^ ^a^[**23:9** Prov 9,8] ^b^[**23:10** Prov 22,28] \ ^12^ \ ^14^ ^a^ ^a^[**23:14** Prov 13,24; Prov 22,15] \ ^16^ \ ^18^ \ ^21^ \ ^22^ ^a^ ^25^ ^a^[**23:22** Prov 1,8] \ ^28^ ^a^ ^a^[**23:28** Prov 7,12] \ ^29^ ^a^ ^30^ ^b^ ^35^ ^a^[**23:29** Prov 21,17; Prov 20,13] ^b^[**23:30** Prov 20,1; Is 5,11; Is 5,22] 
+^3^ \ ^5^ \ ^8^ \ ^9^ ^a^ ^10^ ^b^ ^11^ ^a^[**23:9** Prov 9,8] ^b^[**23:10** Prov 22,28] \ ^12^ \ ^14^ ^a^ ^a^[**23:14** Prov 13,24; Prov 22,15] \ ^16^ \ ^18^ \ ^21^ \ ^22^ ^a^ ^25^ ^a^[**23:22** Prov 1,8] \ ^28^ ^a^ ^a^[**23:28** Prov 7,12] \ ^29^ ^a^ ^30^ ^b^ ^a^[**23:29** Prov 21,17; Prov 20,13] ^b^[**23:30** Prov 20,1; Is 5,11; Is 5,22] \ 
 ## 24
 ^2^ \ ^4^ ^a^ ^a^[**24:4** Prov 31,10-31] \ ^6^ \ ^7^ \ ^8^ \ ^9^ \ ^10^ \ ^11^ ^a^ ^12^ ^b^ ^a^[**24:11** Job 29,12; Sal 82,4] ^b^[**24:12** Prov 16,2; 1Sam 16,7; Rom 2,6] \ ^14^ ^a^ ^a^[**24:14** Prov 23,18] \ ^16^ \ ^17^ ^a^ ^18^ ^a^[**24:17** Job 31,29] \ ^20^ ^a^ ^a^[**24:20** Prov 13,9] \ ^21^ ^a^ ^22^ ^b^ ^a^[**24:21** 1Pe 2,17] ^b^[**24:22** Rom 13,2] 
 ### Segunda colección de dichos de los sabios
@@ -5076,13 +5092,13 @@
 ### Tercera colección de Proverbios de Salomón
 ^1^ \ ^7^ ^a^ ^11^ ^b^ ^15^ ^c^ ^21^ ^d^ ^28^ ^e^ ^a^[**25:7** Luc 14,7-11] ^b^[**25:11** Prov 15,23] ^c^[**25:15** Prov 15,1] ^d^[**25:21** Rom 12,20; Mat 5,44] ^e^[**25:28** Prov 29,11] 
 ## 26
-^1^ ^a^ ^3^ ^b^ ^11^ ^c^ ^12^ ^d^ ^13^ ^e^ ^14^ ^f^ ^15^ ^g^ ^21^ ^h^ ^22^ ^i^ ^27^ ^j^ ^28^ ^a^[**26:1** Prov 26,8] ^b^[**26:3** Sal 32,9; Prov 10,13] ^c^[**26:11** 2Pe 2,22] ^d^[**26:12** Prov 3,7] ^e^[**26:13** Prov 22,13] ^f^[**26:14** Prov 6,9-11] ^g^[**26:15** Prov 19,24] ^h^[**26:21** Prov 15,18] ^i^[**26:22** Prov 18,8] ^j^[**26:27** Sal 7,16; Ecl 10,8] 
+^1^ ^a^ ^3^ ^b^ ^11^ ^c^ ^12^ ^d^ ^13^ ^e^ ^14^ ^f^ ^15^ ^g^ ^21^ ^h^ ^22^ ^i^ ^27^ ^j^ ^a^[**26:1** Prov 26,8] ^b^[**26:3** Sal 32,9; Prov 10,13] ^c^[**26:11** 2Pe 2,22] ^d^[**26:12** Prov 3,7] ^e^[**26:13** Prov 22,13] ^f^[**26:14** Prov 6,9-11] ^g^[**26:15** Prov 19,24] ^h^[**26:21** Prov 15,18] ^i^[**26:22** Prov 18,8] ^j^[**26:27** Sal 7,16; Ecl 10,8] \ 
 ## 27
 ^2^ ^a^ ^10^ ^b^ ^13^ ^c^ ^20^ ^d^ ^22^ ^a^[**27:2** 2Cor 10,12] ^b^[**27:10** Prov 14,20] ^c^[**27:13** Prov 20,16] ^d^[**27:20** Prov 30,15-16; Ecl 1,8] \ 
 ## 28
 ^4^ ^a^ ^8^ ^b^ ^9^ ^c^ ^12^ ^d^ ^13^ ^e^ ^17^ ^f^ ^20^ ^g^ ^24^ ^h^ ^27^ ^i^ ^28^ ^j^ ^a^[**28:4** Sal 49,14] ^b^[**28:8** Prov 13,22] ^c^[**28:9** Prov 21,27] ^d^[**28:12** Prov 11,10-11] ^e^[**28:13** Sal 32,3-5; 1Jn 1,8; 1Jn 1,1-9] ^f^[**28:17** Gén 4,14] ^g^[**28:20** Prov 28,22; Prov 20,21] ^h^[**28:24** Mat 15,5] ^i^[**28:27** 2Cor 9,6; 2Cor 9,9] ^j^[**28:28** Prov 29,2] 
 ## 29
-^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^9^ ^e^ ^14^ ^f^ ^15^ ^g^ ^16^ ^h^ ^17^ ^i^ ^20^ ^j^ ^23^ ^k^ ^24^ ^l^ ^27^ ^a^[**29:1** Prov 15,10] ^b^[**29:2** Prov 11,10] ^c^[**29:3** Luc 15,13] ^d^[**29:4** Is 32,7] ^e^[**29:9** Mat 11,17] ^f^[**29:14** Prov 16,12] ^g^[**29:15** Prov 29,17; Prov 22,15] ^h^[**29:16** Sal 37,36] ^i^[**29:17** Prov 23,13] ^j^[**29:20** Ecl 5,1-2; Sant 1,19] ^k^[**29:23** Mat 23,12; 1Pe 5,5] ^l^[**29:24** Lev 5,1] 
+^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^9^ ^e^ ^14^ ^f^ ^15^ ^g^ ^16^ ^h^ ^17^ ^i^ ^20^ ^j^ ^23^ ^k^ ^24^ ^l^ ^a^[**29:1** Prov 15,10] ^b^[**29:2** Prov 11,10] ^c^[**29:3** Luc 15,13] ^d^[**29:4** Is 32,7] ^e^[**29:9** Mat 11,17] ^f^[**29:14** Prov 16,12] ^g^[**29:15** Prov 29,17; Prov 22,15] ^h^[**29:16** Sal 37,36] ^i^[**29:17** Prov 23,13] ^j^[**29:20** Ecl 5,1-2; Sant 1,19] ^k^[**29:23** Mat 23,12; 1Pe 5,5] ^l^[**29:24** Lev 5,1] \ 
 ## 30
 ^0^ 
 ### Dichos de Agur
@@ -5092,11 +5108,11 @@
 ### Dichos para Lemuel
 ^1^ \ ^3^ ^a^ ^4^ ^b^ ^8^ ^c^ ^9^ ^a^[**31:3** Deut 17,17; 1Re 11,1] ^b^[**31:4** Prov 20,1] ^c^[**31:8** Job 29,12; Job 29,15] 
 ### Alabado sea el ama de casa capaz
-^24^ ^a^ ^25^ ^b^ 
+^24^ ^^ ^25^ ^^ 
 # 21-Eclesiastés.md
 ## 1
 ^0^ 
-### La inutilidad de todo esfuerzo humano como resultado de la constante monotonía en el ciclo de las cosas
+### La inutilidad de todo esfuerzo humano como resultado de la constante monotonía en el ciclo de las cosas.
 ^1^ \ ^4^ ^a^ ^11^ ^a^[**1:4** Sal 90,3] 
 ### La inutilidad de luchar por la sabiduría y el conocimiento; La vida humana resulta inútil para el espectador
 ^12^ ^a^ ^15^ ^a^[**1:12** Ecl 1,1] 
@@ -5110,7 +5126,7 @@
 ^12^ ^a^ ^14^ ^b^ ^16^ ^a^[**2:12** Ecl 1,17] ^b^[**2:14** Prov 17,24] \ ^17^ 
 ### Referencia al mal de que el sabio debe dejar el beneficio y el disfrute de su laboriosa labor a un heredero quizás insensato
 ^18^ ^a^ ^19^ ^a^[**2:18** Ecl 2,21; Ecl 2,26; Sal 39,7] \ ^23^ 
-### Entonces lo mejor para el hombre es disfrutar el momento en la medida en que Dios se lo conceda
+### Entonces lo mejor para el hombre es disfrutar el momento en la medida en que Dios se lo conceda.
 ^26^ ^a^ ^a^[**2:26** Prov 13,22; Prov 28,8] 
 ## 3
 ^0^ 
@@ -5129,7 +5145,7 @@
 ### El esfuerzo de la persona soltera es inútil; dos trabajadores que trabajan juntos están mejor
 ^7^ ^a^ ^8^ ^a^[**4:7** Ecl 2,12] \ ^12^ 
 ### Comunicación de un evento histórico que confirma la observación del predicador de que el favor popular no es confiable
-^14^ ^a^ ^16^ ^a^[**4:14** Gén 41,14] 
+^14^ ^a^ ^a^[**4:14** Gén 41,14] \ 
 ## 5
 ^0^ 
 ### Recordatorio de tener cuidado al realizar deberes religiosos (con sacrificios, oración y votos)
@@ -5181,7 +5197,7 @@
 ### Actuación inteligente y rentable ante la incertidumbre de todo lo terrenal
 ^1^ ^a^ ^8^ ^a^[**11:1** Prov 19,17] 
 ### Recordatorio para disfrutar plenamente de la vida en la juventud, pero agrada a Dios
-^9^ ^a^ ^10^ ^a^[**11:9** Ecl 8,15] 
+^9^ ^a^ ^a^[**11:9** Ecl 8,15] \ 
 ## 12
 ^1^ 
 ### Descripción de las dolencias de la vejez
@@ -5195,10 +5211,10 @@
 ^4^ 
 ### Queja de belleza de niña en riesgo
 ^6^ 
-### TSolicitud de la novia para una cita
+### Solicitud de la novia para una cita
 ^8^ 
 ### Dulce charla de amor
-^15^ ^a^ ^16^ ^b^ ^17^ ^a^[**1:15** Cant 2,14; Cant 4,1; Cant 7,1-7; Cant 6,4] ^b^[**1:16** Cant 5,16] 
+^15^ ^a^ ^16^ ^b^ ^a^[**1:15** Cant 2,14; Cant 4,1; Cant 7,1-7; Cant 6,4] ^b^[**1:16** Cant 5,16] \ 
 ## 2
 ^0^ 
 ### Cantos y compromiso
@@ -5228,7 +5244,7 @@
 ### Besuch des Bräutigams
 ^2^ ^a^ ^6^ ^b^ ^7^ ^a^[**5:2** Cant 6,9] ^b^[**5:6** Cant 3,1] 
 ### Descripción del novio por la novia
-^12^ ^a^ ^13^ ^b^ ^16^ ^a^[**5:12** Cant 4,1] ^b^[**5:13** Sal 45,3] 
+^12^ ^a^ ^13^ ^b^ ^a^[**5:12** Cant 4,1] ^b^[**5:13** Sal 45,3] \ 
 ## 6
 ^2^ ^a^ ^3^ ^b^ ^a^[**6:2** Cant 4,6] ^b^[**6:3** Cant 2,16] 
 ### Descripción de la novia por el novio
@@ -5267,7 +5283,7 @@
 ### Los tratos de Dios con Judá; la condición para la reconciliación y la salvación del pueblo
 ^18^ ^a^ ^19^ ^b^ ^20^ ^c^ ^a^[**1:18** Is 43,25; Is 44,22; Sal 51,9] ^b^[**1:19** Lev 25,18-19] ^c^[**1:20** Lev 26,25] 
 ### Lamentación por la profunda corrupción de Sion; la futura purificación de la ciudad y la aniquilación de los pecadores
-^21^ ^a^ ^23^ ^b^ ^26^ ^c^ ^27^ ^d^ ^29^ ^e^ ^31^ ^a^[**1:21** Mat 23,37] ^b^[**1:23** Is 1,17] ^c^[**1:26** Zac 8,3] ^d^[**1:27** Is 46,13] ^e^[**1:29** Is 65,3] 
+^21^ ^a^ ^23^ ^b^ ^26^ ^c^ ^27^ ^d^ ^29^ ^e^ ^a^[**1:21** Mat 23,37] ^b^[**1:23** Is 1,17] ^c^[**1:26** Zac 8,3] ^d^[**1:27** Is 46,13] ^e^[**1:29** Is 65,3] \ 
 ## 2
 ^0^ 
 ### Nuevo título; el mundo venidero como reino de paz de Dios alrededor de Jerusalén
@@ -5337,7 +5353,7 @@
 ### La gente impenitente tampoco ha mejorado con las pérdidas masivas de personas
 ^13^ ^a^ ^17^ ^a^[**9:13** Is 10,33] 
 ### La autodestrucción interior inexorablemente progresiva
-^20^ ^a^ ^21^ ^a^[**9:20** Is 10,4] 
+^20^ ^a^ ^a^[**9:20** Is 10,4] \ 
 ## 10
 ^0^ 
 ### ¡Ay de las cabezas despreciables del pueblo! Un destino terrible te espera
@@ -5361,7 +5377,7 @@
 ## 12
 ^0^ 
 ### Oración y votos de agradecimiento de la Iglesia Sion salvado
-^3^ ^a^ ^4^ ^b^ ^6^ ^a^[**12:3** Zac 13,1; Sal 46,5] ^b^[**12:4** 1Cró 16,8; Sal 105,1] 
+^3^ ^a^ ^4^ ^b^ ^a^[**12:3** Zac 13,1; Sal 46,5] ^b^[**12:4** 1Cró 16,8; Sal 105,1] \ 
 ## 13
 ^0^ 
 ### Juicio sobre la ciudad de Babilonia
@@ -5393,7 +5409,7 @@
 ## 15
 ^0^ 
 ### Lamento por la desolación de Moab
-^1^ \ ^2^ ^a^ ^3^ ^b^ ^5^ ^c^ ^9^ ^a^[**15:2** Ezeq 7,18] ^b^[**15:3** Is 22,1] ^c^[**15:5** Is 16,9-11] 
+^1^ \ ^2^ ^a^ ^3^ ^b^ ^5^ ^c^ ^a^[**15:2** Ezeq 7,18] ^b^[**15:3** Is 22,1] ^c^[**15:5** Is 16,9-11] \ 
 ## 16
 ^0^ 
 ### Una solicitud de ayuda de los moabitas fugitivos al pueblo judío
@@ -5427,7 +5443,7 @@
 ## 20
 ^0^ 
 ### Isaías anuncia el cautiverio de Egipto y Etiopía por los asirios a través de un acto simbólico
-^1^ ^a^ ^2^ ^b^ ^6^ ^a^[**20:1** 2Re 18,17] ^b^[**20:2** Ezeq 24,24] 
+^1^ ^a^ ^2^ ^b^ ^a^[**20:1** 2Re 18,17] ^b^[**20:2** Ezeq 24,24] \ 
 ## 21
 ^0^ 
 ### Anuncio de la terrible visión
@@ -5445,7 +5461,7 @@
 ### Contra la presunción del gobernante de palacio Sebna
 ^19^ 
 ### Profecía y advertencia para Eljakim, sucesor de Sebna en el cargo
-^20^ ^a^ ^25^ ^a^[**22:20** Is 36,3] 
+^20^ ^a^ ^a^[**22:20** Is 36,3] \ 
 ## 23
 ^0^ 
 ### Lamento por la destrucción del país y la ciudad
@@ -5461,7 +5477,7 @@
 ### El juicio será despiadado; Todavía no hay motivo para celebrar, porque todavía están por llegar visitas horribles
 ^13^ ^a^ ^a^[**24:13** Is 17,6] \ ^16^ \ ^19^ ^a^ ^20^ ^b^ ^a^[**24:19** 2Pe 3,10] ^b^[**24:20** Is 19,14] 
 ### Solo después de que los poderes celestiales y terrenales hayan sido castigados, Dios asumirá su reinado en el monte Sión
-^21^ ^a^ ^23^ ^a^[**24:21** Apoc 19,18-21] 
+^21^ ^a^ ^a^[**24:21** Apoc 19,18-21] \ 
 ## 25
 ^0^ 
 ### El cántico de agradecimiento y alabanza de Israel por la salvación experimentada hasta ese momento
@@ -5479,7 +5495,7 @@
 ### La congregación mira hacia atrás al pasado turbulento y pidió el cumplimiento de sus últimos deseos, especialmente a través de la resurrección de sus piadosos muertos
 ^16^ ^a^ ^17^ ^b^ ^18^ ^c^ ^19^ ^d^ ^a^[**26:16** Is 28,19; Os 5,15] ^b^[**26:17** Juan 16,21; Apoc 12,2] ^c^[**26:18** Miq 4,10] ^d^[**26:19** Ezeq 37,1-14; Apoc 20,12] 
 ### Recordatorio de ser paciente
-^20^ ^a^ ^21^ ^a^[**26:20** Sal 57,2] 
+^20^ ^a^ ^a^[**26:20** Sal 57,2] \ 
 ## 27
 ^0^ 
 ### Aniquilación de las potencias mundiales; El amor de Dios por su pueblo, expresado en el canto de la viña cuidadosamente custodiada
@@ -5545,17 +5561,17 @@
 ### El llamado final de aflicción y angustia para el infame conquistador para quien ahora ha llegado el juicio de Dios
 ^3^ ^a^ ^6^ ^a^[**33:3** Sal 68,2] \ ^13^ 
 ### El efecto santificador del juicio; la felicidad futura del pueblo bajo la protección divina
-^15^ ^a^ ^16^ ^a^[**33:15** Sal 15,2-5; Sal 24,3-4] \ ^19^ ^a^ ^24^ ^a^[**33:19** Deut 28,49] 
+^15^ ^a^ ^16^ ^a^[**33:15** Sal 15,2-5; Sal 24,3-4] \ ^19^ ^a^ ^a^[**33:19** Deut 28,49] \ 
 ## 34
 ^0^ 
 ### El juicio de Dios contra todos los pueblos extranjeros hostiles al reino de Dios, especialmente Edom
 ^3^ ^a^ ^4^ ^b^ ^a^[**34:3** Is 14,19] ^b^[**34:4** Apoc 14,11; Apoc 19,3] 
 ### El juicio de la ira de Dios contra Edom en venganza por Sion
-^13^ ^a^ ^17^ ^a^[**34:13** Is 13,21-22] 
+^13^ ^a^ ^a^[**34:13** Is 13,21-22] \ 
 ## 35
 ^0^ 
 ### El regreso a casa del pueblo redimido y la gloriosa renovación de Jerusalén
-^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^8^ ^d^ ^10^ ^a^[**35:3** Heb 12,12] ^b^[**35:4** Sal 94,1] ^c^[**35:5** Is 29,18; Mat 11,5] ^d^[**35:8** Is 62,10] 
+^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^8^ ^d^ ^a^[**35:3** Heb 12,12] ^b^[**35:4** Sal 94,1] ^c^[**35:5** Is 29,18; Mat 11,5] ^d^[**35:8** Is 62,10] \ 
 ## 36
 ^0^ 
 ### Jerusalén amenazada por Senaquerib y maravillosamente salvada
@@ -5605,7 +5621,7 @@
 ### La nada de todos los pueblos, de todos los ídolos, de todas las cosas en el cielo y en la tierra
 ^22^ ^a^ ^26^ ^a^[**40:22** Sal 104,2] 
 ### Advertencia de abatimiento a pesar de todas las desgracias
-^28^ ^a^ ^31^ ^a^[**40:28** Is 45,12; Is 40,13] 
+^28^ ^a^ ^a^[**40:28** Is 45,12; Is 40,13] \ 
 ## 41
 ^0^ 
 ### Dios como gobernante de la historia de las naciones y señor de la profecía
@@ -5625,7 +5641,7 @@
 ### Alabado sea el Señor que realiza la salvación (especialmente la liberación de su pueblo); La promesa de Dios de su acción enérgica a pesar de los adoradores de ídolos
 ^17^ ^a^ ^a^[**42:17** Is 44,9-20] 
 ### Quejarse de la ceguera y la falta de idoneidad del actual Israel, el siervo de Dios
-^18^ ^a^ ^19^ ^b^ ^20^ ^c^ ^25^ ^a^[**42:18** Is 43,8] ^b^[**42:19** Is 41,8] ^c^[**42:20** Is 53,1] 
+^18^ ^a^ ^19^ ^b^ ^20^ ^c^ ^a^[**42:18** Is 43,8] ^b^[**42:19** Is 41,8] ^c^[**42:20** Is 53,1] \ 
 ## 43
 ^0^ 
 ### Anuncio de la liberación y reunión de todo el pueblo de Dios de todas partes del cielo
@@ -5637,7 +5653,7 @@
 ### El próximo acto redentor de Dios comparado con los milagros anteriores de Dios
 ^19^ ^a^ ^21^ ^a^[**43:19** Is 41,18] 
 ### La infidelidad y la culpa del pecado de Israel expiadas por la gracia gratuita de Dios
-^23^ ^a^ ^26^ ^b^ ^27^ ^c^ ^28^ ^a^[**43:23** Is 1,11-15] ^b^[**43:26** Is 58,2; Jer 2,35] ^c^[**43:27** Dan 9,6; Dan 9,8] 
+^23^ ^a^ ^26^ ^b^ ^27^ ^c^ ^a^[**43:23** Is 1,11-15] ^b^[**43:26** Is 58,2; Jer 2,35] ^c^[**43:27** Dan 9,6; Dan 9,8] \ 
 ## 44
 ^0^ 
 ### Prometen ricas bendiciones divinas, especialmente la dispensación del espíritu divino
@@ -5679,7 +5695,7 @@
 ### El juicio criminal cayendo sobre la amante altiva impía
 ^11^ 
 ### Las artes mágicas y las ciencias secretas no pueden evitar la ruina
-^12^ ^a^ ^15^ ^a^[**47:12** Dan 2,2] 
+^12^ ^a^ ^a^[**47:12** Dan 2,2] \ 
 ## 48
 ^0^ 
 ### Forma dura de dirigirse a la gente terca
@@ -5739,13 +5755,13 @@
 ### La graciosa aceptación y la bendición del niño rico de Sion; el pacto de paz eterna
 ^1^ ^a^ ^5^ ^b^ ^6^ ^c^ ^7^ ^d^ ^8^ ^e^ ^9^ ^f^ ^10^ ^g^ ^a^[**54:1** Is 49,20; Gal 4,27] ^b^[**54:5** Os 2,21] ^c^[**54:6** Is 50,1] ^d^[**54:7** Sal 30,6] ^e^[**54:8** Is 60,10] ^f^[**54:9** Gén 9,11-17] ^g^[**54:10** Ezeq 37,26] 
 ### La gloria futura y la existencia segura de la ciudad de Dios
-^12^ ^a^ ^13^ ^b^ ^15^ ^c^ ^17^ ^a^[**54:12** Apoc 21,18-21] ^b^[**54:13** Juan 6,45] ^c^[**54:15** Rom 8,31] 
+^12^ ^a^ ^13^ ^b^ ^15^ ^c^ ^a^[**54:12** Apoc 21,18-21] ^b^[**54:13** Juan 6,45] ^c^[**54:15** Rom 8,31] \ 
 ## 55
 ^0^ 
 ### Amonestación urgente al pueblo para que se apodere de los bienes salvíficos prometidos en el pacto davídico y ahora ofrecidos gratuitamente
 ^3^ ^a^ ^5^ ^a^[**55:3** Jer 31,31-34; Sal 89,3-5; Hech 13,34] 
 ### Frente a tal salvación, ¡que se lleve a cabo el gran plan de Dios para que Israel regrese feliz a casa!
-^7^ ^a^ ^11^ ^b^ ^12^ ^c^ ^13^ ^a^[**55:7** Ezeq 33,11; Sal 130,4] ^b^[**55:11** Mat 13,8] ^c^[**55:12** Is 44,23] 
+^7^ ^a^ ^11^ ^b^ ^12^ ^c^ ^a^[**55:7** Ezeq 33,11; Sal 130,4] ^b^[**55:11** Mat 13,8] ^c^[**55:12** Is 44,23] \ 
 ## 56
 ^0^ 
 ### La salvación está cerca y la membresía de la iglesia es posible para todos, incluidos los no israelitas
@@ -5765,7 +5781,7 @@
 ### El amor misericordioso agrada a Dios
 ^7^ ^a^ ^8^ ^b^ ^9^ ^c^ ^12^ ^d^ ^a^[**58:7** Mat 25,35] ^b^[**58:8** Is 58,10; Sal 37,6] ^c^[**58:9** Is 30,19] ^d^[**58:12** Is 61,4] 
 ### La bendición de la correcta observancia del sábado
-^13^ ^a^ ^14^ ^a^[**58:13** Is 56,2; Is 56,4] 
+^13^ ^a^ ^a^[**58:13** Is 56,2; Is 56,4] \ 
 ## 59
 ^0^ 
 ### Discurso de castigo del profeta sobre la pecaminosidad general
@@ -5785,7 +5801,7 @@
 ### Sion la gloria y el gozo de los pueblos como el centro pacífico de la tierra
 ^16^ ^a^ ^17^ ^b^ ^18^ ^c^ ^a^[**60:16** Is 49,23] ^b^[**60:17** Is 52,7] ^c^[**60:18** Is 26,1] 
 ### Sión como una ciudad de luz llena de Dios está floreciendo gloriosamente
-^19^ ^a^ ^22^ ^a^[**60:19** Is 24,23; Is 30,26; Apoc 21,23] 
+^19^ ^a^ ^a^[**60:19** Is 24,23; Is 30,26; Apoc 21,23] \ 
 ## 61
 ^0^ 
 ### Discurso de consolación del Mensajero de Dios a su pueblo afligido
@@ -5813,13 +5829,13 @@
 ### Anhelo del pueblo correctamente castigado por el amor y la lealtad del Dios antiguo
 ^11^ ^a^ ^14^ ^a^[**63:11** Éxod 14,30] 
 ### Por favor pida piedad y ayuda con la actual miseria externa e interna
-^18^ ^a^ ^19^ ^a^[**63:18** Sal 79,1] 
+^18^ ^a^ ^a^[**63:18** Sal 79,1] \ 
 ## 64
 ^0^ 
 ### Anhelo por la revelación completa del terrible poder de Dios
 ^4^ 
 ### Humilde confesión de culpa y solicitud de nueva gracia
-^6^ \ ^7^ ^a^ ^12^ ^a^[**64:7** Is 63,16; Is 45,9] 
+^6^ \ ^7^ ^a^ ^a^[**64:7** Is 63,16; Is 45,9] \ 
 ## 65
 ^0^ 
 ### ottes se lamentan contra el pueblo apóstata; Amenaza de castigo para los apóstatas
@@ -5964,7 +5980,7 @@
 ### Los sacrificios y las ofrendas elegidas por uno mismo no evitan la caída del pueblo que alguna vez fue amado por Dios
 ^17^ 
 ### El intento de asesinato de los habitantes de Anathoth contra Jeremías y su castigo
-^19^ ^a^ ^20^ ^b^ ^a^[**11:19** Is 53,7] ^b^[**11:20** Sal 7,10] \ ^21^ ^a^ ^23^ ^a^[**11:21** Jer 1,1] 
+^19^ ^a^ ^20^ ^b^ ^a^[**11:19** Is 53,7] ^b^[**11:20** Sal 7,10] \ ^21^ ^a^ ^a^[**11:21** Jer 1,1] \ 
 ## 12
 ^0^ 
 ### La pregunta de Jeremías a Dios sobre la felicidad de los malvados
@@ -5974,7 +5990,7 @@
 ### Lamento de Dios por su tierra devastada por los pueblos vecinos
 ^13^ 
 ### Anuncio de juicio y salvación para los pueblos paganos vecinos
-^16^ ^a^ ^17^ ^a^[**12:16** Jer 4,2; Deut 6,13] 
+^16^ ^a^ ^a^[**12:16** Jer 4,2; Deut 6,13] \ 
 ## 13
 ^0^ 
 ### Parábola del cinturón de lino
@@ -5988,7 +6004,7 @@
 ### Discurso amenazador para el rey y la reina madre
 ^18^ ^a^ ^19^ ^a^[**13:18** Lam 5,16] 
 ### Lamento y ay de Jerusalén
-^23^ ^a^ ^27^ ^a^[**13:23** Sal 55,20] 
+^23^ ^a^ ^a^[**13:23** Sal 55,20] \ 
 ## 14
 ^0^ 
 ### Descripción de la gran sequía
@@ -6038,7 +6054,7 @@
 ### La oración de venganza de Jeremías contra los burladores y oponentes
 ^18^ 
 ### Ampliación de la observancia del sábado con las correspondientes promesas y amenazas
-^22^ ^a^ ^23^ ^b^ ^27^ ^a^[**17:22** Is 56,2; Is 58,13] ^b^[**17:23** Jer 11,8] 
+^22^ ^a^ ^23^ ^b^ ^a^[**17:22** Is 56,2; Is 58,13] ^b^[**17:23** Jer 11,8] \ 
 ## 18
 ^0^ 
 ### La obra del alfarero como símbolo del dominio divino sobre el destino de los pueblos
@@ -6046,7 +6062,7 @@
 ### La apostasía del pueblo es incomprensible y antinatural
 ^17^ 
 ### Ataques hostiles de sacerdotes y profetas impenitentes contra Jeremías; Oración de venganza del profeta
-^20^ ^a^ ^23^ ^a^[**18:20** Sal 35,7] 
+^20^ ^a^ ^a^[**18:20** Sal 35,7] \ 
 ## 19
 ^0^ 
 ### La abominación de Thopheth; la destrucción de Judá simbólicamente anunciada por el rompimiento de una jarra
@@ -6058,7 +6074,7 @@
 ### El amargo lamento del profeta por los sufrimientos de su profesión; sus luchas internas y su consuelo
 ^8^ ^a^ ^10^ ^a^[**20:8** Is 49,4] \ ^11^ ^a^ ^12^ ^b^ ^13^ ^a^[**20:11** Jer 1,8; Jer 1,19; Jer 15,20] ^b^[**20:12** Jer 11,20] 
 ### Jeremías maldice su vida
-^14^ ^a^ ^18^ ^a^[**20:14** Jer 15,10; Job 3,1-10; Job 10,18] 
+^14^ ^a^ ^a^[**20:14** Jer 15,10; Job 3,1-10; Job 10,18] \ 
 ## 21
 ^0^ 
 ### Unheilvolle Antwort Jeremias an Zedekias Gesandte und Mahnungen an das Volk während der Belagerung Jerusalems
@@ -6082,7 +6098,7 @@
 ### Proclamación de la condenación de Jerusalén y su rey Joaquín
 ^22^ ^a^ ^23^ ^b^ ^a^[**22:22** Jer 25,9; Jer 25,18] ^b^[**22:23** Jer 13,21] 
 ### Tres dichos sobre el rey Conías (Joaquín)
-^24^ ^a^ ^30^ ^a^[**22:24** Jer 24,1] 
+^24^ ^a^ ^a^[**22:24** Jer 24,1] \ 
 ## 23
 ^0^ 
 ### Ay de los pastores infieles y la promesa del verdadero pastor de la casa de David
@@ -6100,7 +6116,7 @@
 ## 24
 ^0^ 
 ### La cara de las dos cestas de higos y el significado de las cestas
-^1^ ^a^ ^2^ ^a^[**24:1** Jer 29,2; 2Re 24,14-15] \ ^3^ \ ^6^ ^a^ ^7^ ^b^ ^a^[**24:6** Jer 31,28] ^b^[**24:7** Jer 31,33-34] \ ^8^ ^a^ ^9^ ^b^ ^10^ ^a^[**24:8** Jer 29,17] ^b^[**24:9** Jer 29,18] 
+^1^ ^a^ ^2^ ^a^[**24:1** Jer 29,2; 2Re 24,14-15] \ ^3^ \ ^6^ ^a^ ^7^ ^b^ ^a^[**24:6** Jer 31,28] ^b^[**24:7** Jer 31,33-34] \ ^8^ ^a^ ^9^ ^b^ ^a^[**24:8** Jer 29,17] ^b^[**24:9** Jer 29,18] \ 
 ## 25
 ^0^ 
 ### Indicación de tiempo; La referencia de Jeremías a su efectividad fallida de 23 años
@@ -6154,7 +6170,7 @@
 ### La caída de Israel como resultado de sus pecados
 ^12^ ^a^ ^15^ ^a^[**30:12** Jer 15,18] 
 ### La restauración del pueblo y el país
-^16^ ^a^ ^17^ ^b^ ^a^[**30:16** Is 33,1] ^b^[**30:17** Jer 33,6] \ ^18^ ^a^ ^22^ ^b^ ^23^ ^c^ ^24^ ^a^[**30:18** Jer 30,3] ^b^[**30:22** Jer 24,7] ^c^[**30:23** Jer 23,19] 
+^16^ ^a^ ^17^ ^b^ ^a^[**30:16** Is 33,1] ^b^[**30:17** Jer 33,6] \ ^18^ ^a^ ^22^ ^b^ ^23^ ^c^ ^a^[**30:18** Jer 30,3] ^b^[**30:22** Jer 24,7] ^c^[**30:23** Jer 23,19] \ 
 ## 31
 ^0^ 
 ### El encuentro de Dios e Israel en el desierto; las esperanzadas palabras de saludo
@@ -6180,7 +6196,7 @@
 ### La eterna existencia de la salvación
 ^37^ 
 ### Restaurar Jerusalén a una ciudad perfectamente santa
-^38^ ^a^ ^40^ ^a^[**31:38** Zac 14,10] 
+^38^ ^a^ ^a^[**31:38** Zac 14,10] \ 
 ## 32
 ^0^ 
 ### Como prisionero, Jeremías compra un campo en Anatot según la dirección de Dios
@@ -6270,7 +6286,7 @@
 ### Desobediencia de los advertidos; Jeremías y Baruc son llevados contra su voluntad a Egipto
 ^3^ \ ^7^ ^a^ ^a^[**43:7** 2Re 25,26] 
 ### En Thachpanches, Jeremías anuncia la inminente sumisión de Egipto por Nabucodonosor
-^11^ ^a^ ^12^ ^b^ ^13^ ^a^[**43:11** Jer 15,2] ^b^[**43:12** Jer 46,25] 
+^11^ ^a^ ^12^ ^b^ ^a^[**43:11** Jer 15,2] ^b^[**43:12** Jer 46,25] \ 
 ## 44
 ^0^ 
 ### El discurso amenazador de Jeremías contra la idolatría de los judíos
@@ -6298,7 +6314,7 @@
 ## 47
 ^0^ 
 ### Diciendo de la tierra filistea
-^1^ ^a^ ^a^[**47:1** Is 14,29-32; Ezeq 25,15-17] \ ^5^ ^a^ ^7^ ^a^[**47:5** Am 1,6-8; Sof 2,4; Zac 9,5; Jer 41,5; Jer 48,37] 
+^1^ ^a^ ^a^[**47:1** Is 14,29-32; Ezeq 25,15-17] \ ^5^ ^a^ ^a^[**47:5** Am 1,6-8; Sof 2,4; Zac 9,5; Jer 41,5; Jer 48,37] \ 
 ## 48
 ^0^ 
 ### La devastación de la tierra y la huida general
@@ -6314,7 +6330,7 @@
 ### Nueva descripción de la angustia de la guerra de Moab; varios aditivos
 ^37^ ^a^ ^39^ ^a^[**48:37** Jer 47,5] 
 ### El juicio y sus devastadoras consecuencias; reconfortante referencia a la restauración de Moab
-^44^ ^a^ ^45^ ^b^ ^47^ ^a^[**48:44** Is 24,17-18] ^b^[**48:45** Núm 21,28-29] 
+^44^ ^a^ ^45^ ^b^ ^a^[**48:44** Is 24,17-18] ^b^[**48:45** Núm 21,28-29] \ 
 ## 49
 ^0^ 
 ### Hablando de los amonitas
@@ -6340,7 +6356,7 @@
 ### Espada diciendo
 ^38^ 
 ### Varias adiciones y repeticiones
-^40^ ^a^ ^41^ ^b^ ^42^ ^c^ ^46^ ^a^[**50:40** Gén 19,24-25] ^b^[**50:41** Jer 50,9] ^c^[**50:42** Jer 6,23] 
+^40^ ^a^ ^41^ ^b^ ^42^ ^c^ ^a^[**50:40** Gén 19,24-25] ^b^[**50:41** Jer 50,9] ^c^[**50:42** Jer 6,23] \ 
 ## 51
 ^0^ 
 ### El juicio de Babilonia ha sido decidido
@@ -6362,7 +6378,7 @@
 ### Conclusión y revisión
 ^56^ ^a^ ^57^ ^b^ ^a^[**51:56** Deut 32,35] ^b^[**51:57** Jer 51,39] \ ^58^ ^a^ ^a^[**51:58** Hab 2,13] 
 ### La maldición sobre Babilonia es hundida en el Éufrates por Seraja en nombre de Jeremías
-^59^ ^a^ ^63^ ^b^ ^64^ ^a^[**51:59** Jer 36,4] ^b^[**51:63** Apoc 18,21] 
+^59^ ^a^ ^63^ ^b^ ^a^[**51:59** Jer 36,4] ^b^[**51:63** Apoc 18,21] \ 
 ## 52
 ^0^ 
 ### La desolación de Sedequías; El sitio de Jerusalén; Escape y captura del rey; Juzgado penal de Ribla
@@ -6381,7 +6397,7 @@
 ### Desafortunadamente, la ciudad se llenó de lamentos y confesiones arrepentidas
 ^12^ ^a^ ^16^ ^b^ ^17^ ^c^ ^a^[**1:12** Lam 1,5] ^b^[**1:16** Jer 8,23] ^c^[**1:17** Lam 1,8] 
 ### La oración de Sion a Dios pidiendo ayuda y venganza contra los enemigos
-^18^ ^a^ ^19^ ^b^ ^21^ ^c^ ^22^ ^a^[**1:18** Lam 3,42; Lam 5,16] ^b^[**1:19** Lam 1,11] ^c^[**1:21** Lam 4,21] 
+^18^ ^a^ ^19^ ^b^ ^21^ ^c^ ^a^[**1:18** Lam 3,42; Lam 5,16] ^b^[**1:19** Lam 1,11] ^c^[**1:21** Lam 4,21] \ 
 ## 2
 ^0^ 
 ### Descripción de la calamidad de la cual la tierra y la gente y especialmente Jerusalén se ven afectados por la ira de Dios
@@ -6389,7 +6405,7 @@
 ### Pensamientos y sentimientos del escritor y el mundo exterior; Dios cumplió su consejo
 ^14^ ^a^ ^15^ ^b^ ^16^ ^c^ ^17^ ^a^[**2:14** Jer 14,14-16; Jer 23,14-22] ^b^[**2:15** Sal 48,3; Ezeq 16,14] ^c^[**2:16** Job 16,9; Sal 35,25; Sal 137,7] 
 ### Invitación a Sion para clamar a Dios por misericordia; El clamor de Sion pidiendo ayuda y una pregunta terrible a Dios
-^20^ ^a^ ^22^ ^a^[**2:20** Deut 28,53-57] 
+^20^ ^a^ ^a^[**2:20** Deut 28,53-57] \ 
 ## 3
 ^0^ 
 ### Queja desesperada de un solo compañero nacional por los difíciles juicios sufridos; Pide gracia y esperanza por una nueva salvación
@@ -6397,7 +6413,7 @@
 ### Referencia a la bondad y misericordia de Dios, al pecado y la destrucción del pueblo y a la participación del escritor en el destino de su pueblo
 ^32^ ^a^ ^42^ ^b^ ^51^ ^c^ ^a^[**3:32** Is 54,8] ^b^[**3:42** Sal 106,6; Dan 9,5] ^c^[**3:51** Lam 2,11] 
 ### Nueva denuncia del infeliz camarada nacional; Pide rescate y venganza del enemigo
-^63^ ^a^ ^64^ ^b^ ^66^ ^a^[**3:63** Lam 3,14] ^b^[**3:64** Lam 1,21; Sal 137,8] 
+^63^ ^a^ ^64^ ^b^ ^a^[**3:63** Lam 3,14] ^b^[**3:64** Lam 1,21; Sal 137,8] \ 
 ## 4
 ^0^ 
 ### Descripción del terrible destino de toda la población de Jerusalén, especialmente los niños
@@ -6420,7 +6436,7 @@
 ### Las cuatro ruedas del coche
 ^18^ \ ^20^ ^a^ ^21^ ^a^[**1:20** Ezeq 1,12] 
 ### La bóveda del cielo arriba y el dios entronizado en ella
-^24^ \ ^26^ ^a^ ^28^ ^a^[**1:26** Ezeq 1,22] 
+^24^ \ ^26^ ^a^ ^a^[**1:26** Ezeq 1,22] \ 
 ## 2
 ^0^ 
 ### La misión de Ezequiel por Israel renegado
@@ -6570,7 +6586,7 @@
 ### La imagen de la madre león con sus dos cachorros
 ^4^ ^a^ ^9^ ^b^ ^a^[**19:4** 2Re 23,30-34] ^b^[**19:9** 2Re 24,15] 
 ### La imagen de la vid espléndida y luego destruida
-^10^ ^a^ ^12^ ^b^ ^14^ ^a^[**19:10** Ezeq 17,6] ^b^[**19:12** Ezeq 15,4] 
+^10^ ^a^ ^12^ ^b^ ^a^[**19:10** Ezeq 17,6] ^b^[**19:12** Ezeq 15,4] \ 
 ## 20
 ^0^ 
 ### Ezequiel presenta ante los ancianos los pecados de sus padres e hijos
@@ -6636,11 +6652,11 @@
 ### Ocurrencia de la muerte de la esposa; Mensajes esclarecedores de Ezequiel a la comunidad de exiliados
 ^18^ \ ^19^ \ ^24^ 
 ### Anunciando nuevos eventos maravillosos
-^26^ ^a^ ^27^ ^a^[**24:26** Ezeq 33,21] 
+^26^ ^a^ ^a^[**24:26** Ezeq 33,21] \ 
 ## 25
 ^0^ 
 ### Discursos de amenaza contra Ammón, Moab, Edom y los filisteos
-^3^ ^a^ ^7^ ^a^[**25:3** Ezeq 36,2; Lam 2,16] \ ^11^ \ ^12^ ^a^ ^14^ ^a^[**25:12** Jer 49,7-22; Abd 1,-1; Sal 137,7] \ ^16^ ^a^ ^17^ ^a^[**25:16** 1Sam 30,14] 
+^3^ ^a^ ^7^ ^a^[**25:3** Ezeq 36,2; Lam 2,16] \ ^11^ \ ^12^ ^a^ ^14^ ^a^[**25:12** Jer 49,7-22; Abd 1,-1; Sal 137,7] \ ^16^ ^a^ ^a^[**25:16** 1Sam 30,14] \ 
 ## 26
 ^0^ 
 ### El hechizo de Dios contra Tiro
@@ -6690,7 +6706,7 @@
 ### El aplastamiento del brazo del faraón
 ^21^ 
 ### Amenaza contra el faraón y contra Egipto
-^24^ ^a^ ^26^ ^a^[**30:24** Ezeq 29,20] 
+^24^ ^a^ ^a^[**30:24** Ezeq 29,20] \ 
 ## 31
 ^0^ 
 ### Altura orgullosa y caída repentina del faraón en comparación con un magnífico cedro
@@ -6712,7 +6728,7 @@
 ### El faraón en el inframundo en medio de los infelices
 ^23^ \ ^25^ \ ^26^ ^a^ ^27^ ^a^[**32:26** Ezeq 38,2] \ ^28^ \ ^29^ \ ^30^ ^a^ ^a^[**32:30** Ezeq 38,6; Ezeq 28,21-23] 
 ### El faraón expulsado por Dios al inframundo
-^31^ ^a^ ^32^ ^a^[**32:31** Is 14,10] 
+^31^ ^a^ ^a^[**32:31** Is 14,10] \ 
 ## 33
 ^0^ 
 ### La importancia del mandamiento del guardio
@@ -6754,7 +6770,7 @@
 ### La ejecución gradual del plan divino, por gracia
 ^26^ ^a^ ^27^ ^b^ ^28^ ^c^ ^30^ ^a^[**36:26** Ezeq 11,19] ^b^[**36:27** Ezeq 37,24; Ezeq 39,29; Is 44,3] ^c^[**36:28** Ezeq 11,20] \ ^31^ ^a^ ^32^ ^b^ ^a^[**36:31** Ezeq 16,61; Ezeq 16,63] ^b^[**36:32** Ezeq 36,22] 
 ### Die Anerkennung der Größe Gottes auch von seiten der Heiden
-^36^ ^a^ ^a^[**36:36** Ezeq 17,24] \ ^37^ ^a^ ^38^ ^a^[**36:37** Miq 2,12] 
+^36^ ^a^ ^a^[**36:36** Ezeq 17,24] \ ^37^ ^a^ ^a^[**36:37** Miq 2,12] \ 
 ## 37
 ^0^ 
 ### El rostro del avivamiento de los huesos muertos entregado al profeta
@@ -6766,7 +6782,7 @@
 ### La interpretación de la acción simbólica
 ^21^ ^a^ ^22^ ^b^ ^a^[**37:21** Ezeq 36,24] ^b^[**37:22** Is 11,12-13; Os 2,2; Jer 3,18] 
 ### El glorioso futuro del pueblo unido
-^23^ ^a^ ^a^[**37:23** Ezeq 36,28] \ ^24^ ^a^ ^26^ ^b^ ^28^ ^a^[**37:24** Ezeq 34,23; Ezeq 36,27] ^b^[**37:26** Ezeq 34,25; Is 54,10] 
+^23^ ^a^ ^a^[**37:23** Ezeq 36,28] \ ^24^ ^a^ ^26^ ^b^ ^a^[**37:24** Ezeq 34,23; Ezeq 36,27] ^b^[**37:26** Ezeq 34,25; Is 54,10] \ 
 ## 38
 ^0^ 
 ### Dios mismo saca a las hordas brutas de Gog de la tierra de Magog contra Palestina
@@ -6834,7 +6850,7 @@
 ### El altar del holocausto y su consagración
 ^13^ ^a^ ^17^ ^a^[**43:13** Ezeq 40,47; Éxod 27,1-8] 
 ### La dedicación del altar
-^21^ \ ^24^ \ ^26^ ^a^ ^27^ ^a^[**43:26** Éxod 28,41] 
+^21^ \ ^24^ \ ^26^ ^a^ ^a^[**43:26** Éxod 28,41] \ 
 ## 44
 ^0^ 
 ### La puerta este exterior del recinto del templo y su destino para el príncipe
@@ -6923,13 +6939,13 @@
 ## 4
 ^0^ 
 ### El segundo sueño de Nabucodonosor, su humillación y exaltación
-^1^ \ ^3^ \ ^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^8^ ^a^[**4:5** Dan 5,11; Dan 5,14] ^b^[**4:6** Ezeq 28,3] ^c^[**4:7** Ezeq 31,3-14] \ ^9^ 
+^1^ \ ^3^ \ ^8^ ^a^ ^a^[**4:8** Dan 5,11; Dan 5,14] \ ^9^ ^a^ ^a^[**4:9** Ezeq 28,3] 
 ### Nabucodonosor comparte el sueño con Daniel
-^11^ ^a^ ^12^ ^a^[**4:11** Dan 4,20] \ ^14^ ^a^ ^16^ ^a^[**4:14** Dan 2,21] \ ^17^ \ ^18^ 
+^10^ ^a^ ^12^ ^a^[**4:10** Ezeq 31,3-14] \ ^14^ ^a^ ^16^ ^a^[**4:14** Dan 4,20] \ ^17^ ^a^ ^a^[**4:17** Dan 2,21] \ \ ^18^ 
 ### La consternación de Daniel y la interpretación del sueño
 ^19^ \ ^22^ \ ^23^ \ ^24^ 
 ### El cumplimiento de todas las profecías de Daniel: la arrogancia de Nabucodonosor, desprecio por el espíritu, conversión, restauración
-^27^ ^a^ ^a^[**4:27** Prov 16,18; Hech 12,23] \ ^30^ \ ^31^ ^a^ ^32^ ^a^[**4:31** Dan 3,33] \ ^33^ \ ^35^ \ ^36^ 
+^27^ \ ^30^ ^a^ ^a^[**4:30** Prov 16,18; Hech 12,23] \ ^31^ ^a^ ^32^ \ ^33^ \ ^34^ ^^ ^35^ ^a^[**4:34** Dan 3,33] \ ^36^ 
 ### El decreto termina con alabanza por la grandeza de Dios
 
 ## 5
@@ -6944,16 +6960,16 @@
 ^29^ ^a^ ^a^[**5:29** Dan 2,48; Gén 41,42-43] \ 
 ## 6
 ^0^ 
-### El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios
-^3^ \ ^4^ ^a^ ^5^ ^a^[**6:4** Dan 5,12] \ ^6^ 
+### El levantamiento de Daniel durante la reorganización de la administración del Reino por Darío; Envidia de sus compañeros funcionarios
+^3^ ^a^ ^a^[**6:3** Dan 5,12] \ ^5^ \ \ ^6^ 
 ### Los funcionarios celosos obtienen un decreto real sobre un ejercicio de oración único en el reino
-^9^ ^a^ ^a^[**6:9** Dan 6,16; Est 1,19; Est 8,8] \ ^10^ 
+^8^ ^a^ ^9^ ^a^[**6:8** Dan 6,16; Est 1,19; Est 8,8] \ ^10^ 
 ### La transgresión del edicto de Daniel como resultado de su temor de Dios; su condena a pesar del dolor del rey
-^12^ \ ^13^ ^a^ ^14^ ^a^[**6:13** Dan 3,10] \ ^15^ \ ^16^ \ ^18^ 
+^12^ ^a^ ^a^[**6:12** Dan 3,10] \ ^14^ \ ^15^ \ ^16^ \ ^18^ 
 ### El rescate de Daniel; la alegría y la gracia del rey; Castigo de los envidiosos culpables
-^20^ \ ^21^ ^a^ ^22^ ^b^ ^a^[**6:21** Dan 3,17] ^b^[**6:22** Dan 6,7] \ ^23^ ^a^ ^a^[**6:23** Dan 3,28; Heb 11,33] \ ^24^ ^a^ ^a^[**6:24** Sal 37,40] 
+^20^ ^a^ ^a^[**6:20** Dan 3,17] \ ^21^ ^a^ ^22^ ^b^ ^a^[**6:21** Dan 6,7] ^b^[**6:22** Dan 3,28; Heb 11,33] \ ^23^ ^a^ ^a^[**6:23** Sal 37,40] \ ^24^ 
 ### Reconocimiento de la grandeza del Dios de los judíos por un nuevo edicto real; Daniel permanece en una posición alta
-^25^ \ ^27^ ^a^ ^a^[**6:27** Dan 3,33] \ 
+^25^ \ ^26^ ^a^ ^27^ ^a^[**6:26** Dan 3,33] \ 
 ## 7
 ^0^ 
 ### Daniels Traum von dem Erscheinen eines Löwen, eines Bären, eines Panthers, eines furchtbaren Tieres mit zehn Hörnern sowie eines kleinen Horns
@@ -6993,7 +7009,7 @@
 ### Mensajes persuasivos y alentadores del ángel
 ^11^ \ ^14^ ^a^ ^a^[**10:14** Dan 9,22] 
 ### Daniel fortalecido en su debilidad por el ángel; Anuncio de la lucha del mensajero celestial con los príncipes de Persia y Grecia
-^17^ \ ^19^ ^a^ ^a^[**10:19** Apoc 1,17] \ ^20^ ^a^ ^21^ ^a^[**10:20** Dan 10,13] 
+^17^ \ ^19^ ^a^ ^a^[**10:19** Apoc 1,17] \ ^20^ ^a^ ^a^[**10:20** Dan 10,13] \ 
 ## 11
 ^1^ \ ^2^ ^a^ ^4^ ^a^[**11:2** Dan 10,21] 
 ### Resumen de las batallas de los reyes egipcios y sirios después de la muerte de Alejandro, excepto Antíoco Epífanes
@@ -7003,7 +7019,7 @@
 ### Persecución de los judíos en Jerusalén
 ^32^ ^a^ ^a^[**11:32** 1Macc 2,1-6] \ ^33^ ^a^ ^35^ ^a^[**11:33** Dan 12,3] 
 ### Actos violentos, atropellos contra el culto judío y el resultado del rey antijudío
-^36^ ^a^ ^37^ ^b^ ^39^ ^a^[**11:36** 2Tes 2,4; Dan 7,8; Dan 7,25; Apoc 13,5-6] ^b^[**11:37** 1Tim 4,3] \ ^41^ ^a^ ^45^ ^a^[**11:41** Dan 11,16] 
+^36^ ^a^ ^37^ ^b^ ^39^ ^a^[**11:36** 2Tes 2,4; Dan 7,8; Dan 7,25; Apoc 13,5-6] ^b^[**11:37** 1Tim 4,3] \ ^41^ ^a^ ^a^[**11:41** Dan 11,16] \ 
 ## 12
 ^0^ 
 ### El amanecer del fin de los tiempos con su miseria, su retribución y la resurrección de los impíos y de los rectos
@@ -7015,14 +7031,14 @@
 ^0^ 
 ### La infidelidad de Israel a Dios representada visiblemente por el pacto matrimonial del profeta con una esposa infiel
 ^1^ ^a^ ^a^[**1:1** Is 1,1; 2Re 14,23; Am 1,1] \ ^2^ ^a^ ^a^[**1:2** Os 3,1] \ ^3^ \ ^4^ ^a^ ^5^ ^a^[**1:4** 2Re 10,30] \ ^6^ \ ^7^ \ ^8^ \ ^9^ ^a^ ^a^[**1:9** Os 2,3; Os 2,25] 
-### Un día, después de circunstancias más felices, los tres nombres desafortunados experimentarán una reinterpretación favorable
-
+### Un día, después de circunstancias más felices, los tres nombres desafortunados experimentarán una reinterpretación favorable.
+^11^ ^a^ ^a^[**1:11** Is 11,11-13; Jer 3,18; Ezeq 37,22] 
 ## 2
-^1^ 
+^1^ ^a^ ^a^[**2:1** Os 1,9; Os 1,6] 
 ### La falta de fe de la madre, es decir, del pueblo de Israel, y su castigo
-^2^ ^a^ ^3^ ^b^ ^4^ ^c^ ^12^ ^d^ ^13^ ^a^[**2:2** Is 11,11-13; Jer 3,18; Ezeq 37,22] ^b^[**2:3** Os 1,9; Os 1,6] ^c^[**2:4** Ezeq 16,-1; Ezeq 23,1-23] ^d^[**2:12** Jer 13,22; Jer 13,26] 
+^2^ ^a^ ^3^ ^b^ ^4^ ^^ ^10^ ^^ ^13^ ^a^[**2:2** Ezeq 16,-1; Ezeq 23,1-23] ^b^[**2:10** Jer 13,22; Jer 13,26] 
 ### Vergonzosa fidelidad de Dios y reunión con su esposa, es decir, su pueblo Israel
-^17^ ^a^ ^21^ ^b^ ^22^ ^c^ ^23^ ^a^[**2:17** Jos 7,24-26; Éxod 15,1] ^b^[**2:21** Apoc 19,7] ^c^[**2:22** Sal 146,6; Jer 31,34] 
+^15^ ^a^ ^19^ ^b^ ^20^ ^c^ ^22^ ^a^[**2:15** Jos 7,24-26; Éxod 15,1] ^b^[**2:19** Apoc 19,7] ^c^[**2:20** Sal 146,6; Jer 31,34] \ 
 ## 3
 ^0^ 
 ### El mejoramiento del pueblo infiel a través de la coacción, representado por el comportamiento del profeta hacia su esposa infiel
@@ -7066,17 +7082,17 @@
 ### Las recreaciones preparadas para Oseas
 ^9^ ^a^ ^a^[**9:9** Jue 19,22-30; Jue 20,13] 
 ### Israel castigado sin hijos como resultado de su apostasía a Baal y rechazado por Dios
-^10^ ^a^ ^13^ ^b^ ^17^ ^a^[**9:10** Deut 32,10; Núm 25,3] ^b^[**9:13** Ezeq 27,3] 
+^10^ ^a^ ^13^ ^b^ ^a^[**9:10** Deut 32,10; Núm 25,3] ^b^[**9:13** Ezeq 27,3] \ 
 ## 10
 ^0^ 
 ### Desolación de los ídolos de Israel
 ^5^ ^a^ ^6^ ^b^ ^8^ ^c^ ^a^[**10:5** Os 10,15; Os 4,15] ^b^[**10:6** Os 5,13] ^c^[**10:8** Os 9,6; Luc 23,30; Apoc 6,16] 
 ### La continua pecaminosidad de Israel; su castigo y eventual aniquilación por la guerra
-^9^ ^a^ ^12^ ^b^ ^13^ ^c^ ^15^ ^a^[**10:9** Os 9,9] ^b^[**10:12** Jer 4,3; Is 55,6] ^c^[**10:13** Job 4,8] 
+^9^ ^a^ ^12^ ^b^ ^13^ ^c^ ^a^[**10:9** Os 9,9] ^b^[**10:12** Jer 4,3; Is 55,6] ^c^[**10:13** Job 4,8] \ 
 ## 11
 ^0^ 
 ### El amor inicial de Dios por Israel finalmente triunfará sobre toda ingratitud e infidelidad del pueblo
-^1^ ^a^ ^9^ ^b^ ^10^ ^c^ ^12^ ^a^[**11:1** Éxod 4,22; Mat 2,15] ^b^[**11:9** Lam 3,31-36] ^c^[**11:10** Is 31,4-5; Jer 25,30; Os 3,1] 
+^1^ ^a^ ^9^ ^b^ ^10^ ^c^ ^a^[**11:1** Éxod 4,22; Mat 2,15] ^b^[**11:9** Lam 3,31-36] ^c^[**11:10** Is 31,4-5; Jer 25,30; Os 3,1] \ 
 ## 12
 ^0^ 
 ### El ejemplo de su antepasado Jacob, característico de los infieles
@@ -7088,11 +7104,11 @@
 ### Amenaza de devastadora ira divina
 ^5^ ^a^ ^6^ ^b^ ^7^ ^c^ ^10^ ^d^ ^11^ ^a^[**13:5** Os 9,10] ^b^[**13:6** Deut 32,15] ^c^[**13:7** Os 5,14] ^d^[**13:10** 1Sam 8,5] 
 ### Anuncio de la terrible caída del pueblo pecador
-^14^ ^a^ ^15^ ^b^ ^16^ ^a^[**13:14** 1Cor 15,54-55; 2Tim 1,10; Apoc 20,14; Apoc 21,4] ^b^[**13:15** Gén 49,22; Os 4,19] 
+^14^ ^a^ ^15^ ^b^ ^a^[**13:14** 1Cor 15,54-55; 2Tim 1,10; Apoc 20,14; Apoc 21,4] ^b^[**13:15** Gén 49,22; Os 4,19] \ 
 ## 14
 ^0^ 
 ### Recordatorio de arrepentimiento y oración penitencial del pueblo
-^2^ ^a^ ^3^ ^b^ ^4^ ^a^[**14:2** Os 12,7; Zac 1,4] ^b^[**14:3** Heb 13,15] 
+^1^ ^a^ ^2^ ^b^ ^4^ ^a^[**14:1** Os 12,7; Zac 1,4] ^b^[**14:2** Heb 13,15] 
 ### La promesa de Dios de salvación
 
 # 29-Joel.md
@@ -7134,7 +7150,7 @@
 ### Amenaza contra los edomitas
 ^12^ 
 ### Amenaza contra los amonitas
-^13^ ^a^ ^15^ ^a^[**1:13** Jer 49,1-6] 
+^13^ ^a^ ^a^[**1:13** Jer 49,1-6] \ 
 ## 2
 ^0^ 
 ### Amenaza contra los moabitas
@@ -7142,7 +7158,7 @@
 ### Amenaza contra Judá
 ^5^ 
 ### Amenaza contra Israel
-^7^ ^a^ ^8^ ^b^ ^9^ ^c^ ^12^ ^d^ ^16^ ^a^[**2:7** Am 8,4] ^b^[**2:8** Éxod 22,25] ^c^[**2:9** Núm 21,21-28] ^d^[**2:12** Am 7,13; Am 1,7-16; Jer 11,21] 
+^7^ ^a^ ^8^ ^b^ ^9^ ^c^ ^12^ ^d^ ^a^[**2:7** Am 8,4] ^b^[**2:8** Éxod 22,25] ^c^[**2:9** Núm 21,21-28] ^d^[**2:12** Am 7,13; Am 1,7-16; Jer 11,21] \ 
 ## 3
 ^0^ 
 ### La responsabilidad de Israel como resultado de su elección al pueblo de Dios
@@ -7178,7 +7194,7 @@
 ### La vida despreocupada de los grandes orgullosos e indulgentes de Judá y Samaria desafía el juicio divino
 ^3^ ^a^ ^4^ ^b^ ^5^ ^c^ ^7^ ^a^[**6:3** Sal 10,5] ^b^[**6:4** Am 3,15] ^c^[**6:5** Is 5,12] 
 ### Tres amenazas de calamidad con respecto a la corrupción moral de Israel
-^9^ \ ^12^ ^a^ ^14^ ^a^[**6:12** Am 5,7] 
+^9^ \ ^12^ ^a^ ^a^[**6:12** Am 5,7] \ 
 ## 7
 ^0^ 
 ### Las dos primeras visionas amenazantes (langostas y sequía)
@@ -7186,7 +7202,7 @@
 ### Soldadura de plomo o plomo: el fin de la longanimidad divina
 ^8^ \ ^9^ 
 ### Informe sobre la expulsión de Amós de Betel
-^10^ ^a^ ^11^ ^a^[**7:10** Jer 38,4] \ ^13^ \ ^14^ ^a^ ^17^ ^a^[**7:14** Am 1,1] 
+^10^ ^a^ ^11^ ^a^[**7:10** Jer 38,4] \ ^13^ \ ^14^ ^a^ ^a^[**7:14** Am 1,1] \ 
 ## 8
 ^0^ 
 ### La visión de la canasta de frutas maduras
@@ -7194,7 +7210,7 @@
 ### Amenaza contra los comerciantes de granos usureros
 ^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^8^ ^a^[**8:4** Am 2,7] ^b^[**8:5** Neh 10,32; Neh 13,15] ^c^[**8:6** Am 2,6] 
 ### Anuncio de los castigos divinos, eclipses solares, duelo, abandonado por Dios en extrema necesidad
-^9^ ^a^ ^10^ ^b^ ^a^[**8:9** Jer 15,9] ^b^[**8:10** Jer 6,26] \ ^12^ ^a^ ^14^ ^a^[**8:12** Miq 3,7] 
+^9^ ^a^ ^10^ ^b^ ^a^[**8:9** Jer 15,9] ^b^[**8:10** Jer 6,26] \ ^12^ ^a^ ^a^[**8:12** Miq 3,7] \ 
 ## 9
 ^0^ 
 ### El Señor en el altar, con respecto a la destrucción del santuario en Betel y la ineludibilidad del juicio venidero
@@ -7240,7 +7256,7 @@
 
 ## 2
 ^0^ 
-### Amenaza a los grandes ricos y violentos y a los oponentes del Profeta
+### Amenaza a los grandes ricos y violentos y a los oponentes del Profeta.
 ^1^ ^a^ ^5^ ^a^[**2:1** Sal 36,5] 
 ### El argumento de Micha con sus oponentes, los líderes del pueblo
 ^6^ ^a^ ^7^ ^b^ ^11^ ^a^[**2:6** Am 7,16] ^b^[**2:7** Am 6,3] 
@@ -7289,7 +7305,7 @@
 ### Pida a la gente que le otorguen las partes fértiles del país y la promesa de la gracia de Dios
 ^14^ ^a^ ^17^ ^b^ ^a^[**7:14** Miq 5,3; Núm 23,9] ^b^[**7:17** Is 49,23] 
 ### Confesión de confianza en la gracia de Dios
-^18^ ^a^ 
+^18^ ^^ 
 # 34-Nahum.md
 ## 1
 ^0^ 
@@ -7317,7 +7333,7 @@
 ### Anuncio del próximo tribunal penal; Descripción del terrible enemigo que se acerca
 ^5^ ^a^ ^11^ ^a^[**1:5** Hech 13,41] 
 ### El profeta le preguntó a Dios con reproche por qué permitiría que el enemigo hiciera algo tan terrible
-^12^ ^a^ ^17^ ^a^[**1:12** Jer 10,24] 
+^12^ ^a^ ^a^[**1:12** Jer 10,24] \ 
 ## 2
 ^0^ 
 ### Habacuc espera y recibe la respuesta de Dios a su queja
@@ -7329,7 +7345,7 @@
 ### Canción a la aparición del Señor en el juicio
 ^1^ \ ^2^ \ ^6^ ^a^ ^11^ ^b^ ^15^ ^a^[**3:6** Sal 104,32] ^b^[**3:11** Jos 10,13] 
 ### Efecto aterrador y al mismo tiempo alentador de la aparición de Dios en el profeta
-^16^ \ ^18^ ^a^ 
+^16^ \ ^18^ ^^ 
 # 36-Sofonías.md
 ## 1
 ^0^ 
@@ -7342,7 +7358,7 @@
 ### ¡Arrepiéntanse, porque el juicio viene sobre todo el mundo!
 ^1^ ^a^ ^3^ ^a^[**2:1** 1Sam 30,14; Jer 47,-1] 
 ### El juicio sobre la tierra filistea, Moab-Ammón, Etiopía y Asiria
-^7^ ^a^ ^a^[**2:7** Sof 3,20] \ ^8^ ^a^ ^9^ ^b^ ^11^ ^a^[**2:8** Jer 48,-1; Jer 49,1] ^b^[**2:9** Gén 19,24] \ ^12^ \ ^13^ ^a^ ^15^ ^a^[**2:13** Is 13,21; Is 34,11] 
+^7^ ^a^ ^a^[**2:7** Sof 3,20] \ ^8^ ^a^ ^9^ ^b^ ^11^ ^a^[**2:8** Jer 48,-1; Jer 49,1] ^b^[**2:9** Gén 19,24] \ ^12^ \ ^13^ ^a^ ^a^[**2:13** Is 13,21; Is 34,11] \ 
 ## 3
 ^0^ 
 ### Las tristes condiciones en Jerusalén
@@ -7350,12 +7366,12 @@
 ### Anuncio del tribunal de depuración de la ciudad
 ^8^ ^a^ ^a^[**3:8** Jl 4,2; Sal 79,6] \ ^12^ ^a^ ^13^ ^a^[**3:12** Ezeq 6,8] 
 ### Llamando a Jerusalén a alabar por su salvación
-^17^ ^a^ 
+^17^ ^^ 
 # 37-Hageo.md
 ## 1
 ^0^ 
 ### La invitación a construir el templo junto con una indicación de su éxito
-^1^ ^a^ ^4^ ^b^ ^6^ ^a^[**1:1** Esd 4,24; Esd 5,1-2] ^b^[**1:4** 2Sam 7,2] \ ^10^ ^a^ ^11^ ^b^ ^a^[**1:10** 1Re 17,1] ^b^[**1:11** Ag 2,17; Am 4,9] \ ^13^ ^a^ ^15^ ^a^[**1:13** Mal 2,7] 
+^1^ ^a^ ^4^ ^b^ ^6^ ^a^[**1:1** Esd 4,24; Esd 5,1-2] ^b^[**1:4** 2Sam 7,2] \ ^10^ ^a^ ^11^ ^b^ ^a^[**1:10** 1Re 17,1] ^b^[**1:11** Ag 2,17; Am 4,9] \ ^13^ ^a^ ^a^[**1:13** Mal 2,7] \ 
 ## 2
 ^0^ 
 ### La promesa de la gloria futura del nuevo templo
@@ -7382,7 +7398,7 @@
 ### Invitación a regresar a casa a todos los camaradas que todavía están en Babilonia
 ^7^ 
 ### Tres proclamas de salvación para Judá
-^8^ ^a^ ^9^ ^b^ ^a^[**2:8** Ezeq 38,11] ^b^[**2:9** Zac 9,8] \ ^12^ ^a^ ^13^ ^a^[**2:12** Deut 32,10] 
+^8^ ^a^ ^9^ ^b^ ^a^[**2:8** Ezeq 38,11] ^b^[**2:9** Zac 9,8] \ ^12^ ^a^ ^a^[**2:12** Deut 32,10] \ 
 ## 3
 ^0^ 
 ### El sacerdocio que recibió el sumo sacerdote Josué y que promete para el futuro
@@ -7412,7 +7428,7 @@
 ### Los días de ayuno son algo externo, sin sentido para Dios
 ^5^ ^a^ ^6^ ^a^[**7:5** Zac 8,19; Is 58,5] 
 ### A través de los profetas, Dios siempre solo ha exigido justicia y amor a su pueblo
-^7^ \ ^10^ ^a^ ^14^ ^a^[**7:10** Éxod 22,20-21] 
+^7^ \ ^10^ ^a^ ^a^[**7:10** Éxod 22,20-21] \ 
 ## 8
 ^0^ 
 ### Dios ama a su pueblo y le permitirá alcanzar una gran felicidad, pero siempre defiende sus exigencias morales
@@ -7426,7 +7442,7 @@
 ### Entrada y bendición del Rey de la Paz en Jerusalén
 ^9^ ^a^ ^10^ ^b^ ^a^[**9:9** Sof 3,14; Mat 21,5] ^b^[**9:10** Miq 5,9] 
 ### Liberación y regreso a casa de los judíos capturados, su victoria y prosperidad
-^11^ ^a^ ^12^ ^b^ ^13^ ^c^ ^17^ ^a^[**9:11** Éxod 24,8] ^b^[**9:12** Is 61,7] ^c^[**9:13** Dan 8,21-22] 
+^11^ ^a^ ^12^ ^b^ ^13^ ^c^ ^a^[**9:11** Éxod 24,8] ^b^[**9:12** Is 61,7] ^c^[**9:13** Dan 8,21-22] \ 
 ## 10
 ^0^ 
 ### Dios solo otorga todas las bendiciones; los ídolos y los profetas mentirosos solo crean daño
@@ -7434,7 +7450,7 @@
 ### Dios despierta a líderes heroicos a batallas victoriosas para su pueblo, a quien ahora se le ha confiado el sombrero de malos pastores
 ^3^ ^a^ ^4^ ^b^ ^7^ ^a^[**10:3** Zac 11,5] ^b^[**10:4** Jer 30,21] 
 ### La gente esparcida por todo el mundo volverá purificada, especialmente de Egipto y Asiria, y volverá a ser un pueblo fuerte de Dios
-^9^ ^a^ ^12^ ^a^[**10:9** Is 66,19] 
+^9^ ^a^ ^a^[**10:9** Is 66,19] \ 
 ## 11
 ^0^ 
 ### El terrible colapso de la potencia mundial hostil
@@ -7450,7 +7466,7 @@
 ### Embestida de los gentiles en Jerusalén; Salvación de la ciudad por Dios y por el mérito de Judá
 ^3^ ^a^ ^5^ ^a^[**12:3** Zac 14,2; Jl 4,12] \ ^6^ \ ^8^ ^a^ ^a^[**12:8** Is 33,24] 
 ### Derramamiento del Espíritu sobre Jerusalén; gran lamento del pueblo por un acto de sangre cometido
-^9^ ^a^ ^a^[**12:9** Apoc 20,9] \ ^10^ ^a^ ^11^ ^b^ ^14^ ^a^[**12:10** Jl 3,1; Juan 19,37; Apoc 1,7] ^b^[**12:11** 2Cró 35,22-25] 
+^9^ ^a^ ^a^[**12:9** Apoc 20,9] \ ^10^ ^a^ ^11^ ^b^ ^a^[**12:10** Jl 3,1; Juan 19,37; Apoc 1,7] ^b^[**12:11** 2Cró 35,22-25] \ 
 ## 13
 ^0^ 
 ### El pecado divino del pueblo; Eliminación de la idolatría, la falsa profecía y toda inmundicia
@@ -7489,7 +7505,7 @@
 ### La mala situación actual de la gente es autoinfligida a través de múltiples delitos
 ^7^ \ ^9^ ^a^ ^12^ ^a^[**3:9** Ag 1,6] 
 ### Reproche y corrección de los piadosos descontentos y dudosos; promesa consoladora a los justos
-^15^ \ ^17^ ^a^ ^18^ ^a^[**3:17** Éxod 19,5] 
+^15^ \ ^17^ ^a^ ^a^[**3:17** Éxod 19,5] \ 
 ## 4
 ^3^ 
 ### Advertencia final y promesa de la misión del profeta Elías
@@ -7503,7 +7519,7 @@
 ^18^ ^a^ ^21^ ^a^[**1:18** Luc 1,35] \ ^23^ \ ^25^ ^a^ ^a^[**1:25** Luc 2,7] 
 ## 2
 ^0^ 
-### Los magos del oriente vienen al niño Jesús y le rinden homenaje
+### Los magos del oriente vienen al niño Jesús y le rinden homenaje.
 ^1^ ^a^ ^2^ ^b^ ^6^ ^a^[**2:1** Luc 2,1-7] ^b^[**2:2** Núm 24,17] \ ^8^ \ ^11^ ^a^ ^12^ ^a^[**2:11** Sal 72,10; Sal 72,15; Is 60,6] 
 ### La huida de José a Egipto
 ^13^ \ ^15^ 
@@ -7544,7 +7560,7 @@
 ### Sobre jurar
 ^34^ ^a^ ^35^ ^b^ ^37^ ^c^ ^a^[**5:34** Mat 2,16-22; Is 66,1] ^b^[**5:35** Sal 48,3] ^c^[**5:37** Sant 5,12] 
 ### Sobre l'amor al projimo y al enemigo
-^40^ ^a^ ^42^ ^a^[**5:40** 1Cor 6,7; Heb 10,34] \ ^45^ ^a^ ^48^ ^a^[**5:45** Efes 5,1] 
+^40^ ^a^ ^42^ ^a^[**5:40** 1Cor 6,7; Heb 10,34] \ ^45^ ^a^ ^a^[**5:45** Efes 5,1] \ 
 ## 6
 ^0^ 
 ### Ten cuidado al dar limosna
@@ -7596,7 +7612,7 @@
 ### Curación de dos ciegos y un mudo endemoniado; Graduación
 ^27^ ^a^ ^28^ ^b^ ^a^[**9:27** Mat 20,29-34] ^b^[**9:28** Hech 14,9] \ ^29^ ^a^ ^30^ ^b^ ^31^ ^a^[**9:29** Mat 8,13] ^b^[**9:30** Mat 8,4] \ ^33^ \ ^34^ ^a^ ^a^[**9:34** Mat 12,24-32] \ ^35^ 
 ### La compasión de Jesús a la vista de la gente; la palabra de la cosecha
-^37^ ^a^ ^38^ ^a^[**9:37** Luc 10,2] 
+^37^ ^a^ ^a^[**9:37** Luc 10,2] \ 
 ## 10
 ^0^ 
 ### Llamadas y nombres de los doce discípulos
@@ -7714,7 +7730,7 @@
 ### La conversación de Jesús con el joven rico; el peligro de la riqueza
 ^16^ \ ^17^ \ ^18^ ^a^ ^a^[**19:18** Éxod 20,12-16] \ ^19^ ^a^ ^a^[**19:19** Lev 19,18] \ ^20^ \ ^21^ ^a^ ^22^ ^b^ ^a^[**19:21** Mat 6,20; Luc 12,33] ^b^[**19:22** Sal 62,11] \ ^24^ ^a^ ^a^[**19:24** Mat 7,14] \ ^25^ \ ^26^ 
 ### La recompensa de seguir a Jesús y la renuncia
-^27^ ^a^ ^a^[**19:27** Mat 4,20; Mat 4,22] \ ^28^ ^a^ ^30^ ^a^[**19:28** Luc 22,30; 1Cor 6,2; Apoc 3,21] 
+^27^ ^a^ ^a^[**19:27** Mat 4,20; Mat 4,22] \ ^28^ ^a^ ^a^[**19:28** Luc 22,30; 1Cor 6,2; Apoc 3,21] \ 
 ## 20
 ^0^ 
 ### Parábola de los trabajadores de la viña
@@ -7784,7 +7800,7 @@
 ### Advertencia de estar alerta en general
 ^44^ ^a^ ^a^[**24:44** 1Tes 5,2] 
 ### Parábola del siervo fiel y del infiel
-^48^ ^a^ ^51^ ^a^[**24:48** 2Pe 3,4] 
+^48^ ^a^ ^a^[**24:48** 2Pe 3,4] \ 
 ## 25
 ^0^ 
 ### La parábola de las diez vírgenes prudentes y necias
@@ -7838,7 +7854,7 @@
 ### La falsa afirmación de los líderes del pueblo del cuerpo robado de Jesús
 ^15^ 
 ### Jesús apareció en la montaña de Galilea; su último mandato a los once discípulos
-^18^ ^a^ ^19^ ^b^ 
+^18^ ^^ ^19^ ^^ 
 # 41-Marcos.md
 ## 1
 ^0^ 
@@ -7867,7 +7883,7 @@
 ### La pregunta del ayuno de los discípulos de Juan y los fariseos
 ^18^ \ ^22^ 
 ### El arranco de espigas de los discípulos en sábado; La primera disputa de Jesús con los fariseos sobre la santificación del día de reposo
-^24^ \ ^26^ \ ^27^ ^a^ ^28^ ^a^[**2:27** Deut 5,14] 
+^24^ \ ^26^ \ ^27^ ^a^ ^a^[**2:27** Deut 5,14] \ 
 ## 3
 ^0^ 
 ### Sanación del hombre con el brazo paralizado en sábado; el segundo argumento sobre la observancia del sábado
@@ -7899,7 +7915,7 @@
 ### Jesús sana a los poseídos en la tierra de los gerasenos
 ^8^ \ ^9^ \ ^12^ \ ^14^ \ ^17^ \ ^19^ \ ^20^ ^a^ ^a^[**5:20** Mar 7,31] 
 ### Jesús sana a la mujer ensangrentada en Capernaum y despierta a la hija de Jairo
-^23^ \ ^29^ \ ^30^ \ ^31^ \ ^33^ \ ^34^ \ ^35^ \ ^37^ ^a^ ^39^ ^a^[**5:37** Mat 17,1] \ ^41^ ^a^ ^43^ ^a^[**5:41** Luc 7,14; Hech 9,40] 
+^23^ \ ^29^ \ ^30^ \ ^31^ \ ^33^ \ ^34^ \ ^35^ \ ^37^ ^a^ ^39^ ^a^[**5:37** Mat 17,1] \ ^41^ ^a^ ^a^[**5:41** Luc 7,14; Hech 9,40] \ 
 ## 6
 ^0^ 
 ### Rechazo y fracaso de Jesús en su natal Nazaret
@@ -7919,7 +7935,7 @@
 ### Jesús y la sirofenicia en el área de Tiro y Sidón
 ^27^ \ ^28^ \ ^29^ \ ^30^ 
 ### El regreso de Jesús a Galilea en la orilla oriental del lago; Sanando a un sordomudo
-^31^ ^a^ ^37^ ^a^[**7:31** Mar 5,20; Mat 15,29-31] 
+^31^ ^a^ ^a^[**7:31** Mar 5,20; Mat 15,29-31] \ 
 ## 8
 ^0^ 
 ### Alimentando a los cuatro mil
@@ -7977,7 +7993,7 @@
 ### Repaso de la higuera seca con posterior referencia al poder de la fe y la oración; advertencia
 ^21^ \ ^23^ ^a^ ^24^ ^b^ ^25^ ^c^ ^26^ ^d^ ^a^[**11:23** Mar 9,23; Mat 17,20] ^b^[**11:24** Mat 7,7; Juan 14,13; 1Jn 5,14; 1Jn 1,5-15] ^c^[**11:25** Mat 5,23] ^d^[**11:26** Mat 6,14-15] 
 ### La pregunta del sumo consejo sobre la autoridad de Jesús
-^28^ \ ^30^ \ ^32^ ^a^ ^33^ ^a^[**11:32** Luc 7,29-30] 
+^28^ \ ^30^ \ ^32^ ^a^ ^a^[**11:32** Luc 7,29-30] \ 
 ## 12
 ^0^ 
 ### Parábola de los viticultores infieles
@@ -7993,7 +8009,7 @@
 ### La advertencia de Jesús sobre la ambición y la codicia de los escribas
 ^40^ ^a^ ^a^[**12:40** Sant 1,27] 
 ### Jesús alaba las dos blancas de la viuda pobre
-^41^ ^a^ ^44^ ^a^[**12:41** 2Re 12,10] 
+^41^ ^a^ ^a^[**12:41** 2Re 12,10] \ 
 ## 13
 ^0^ 
 ### Los primeros signos del fin de los tiempos
@@ -8053,7 +8069,7 @@
 ### La aparición de Jesús a los once apóstoles y su mandato misional
 ^15^ ^a^ ^16^ ^b^ ^17^ ^c^ ^18^ ^d^ ^a^[**16:15** Mar 13,10; Mat 28,18-20] ^b^[**16:16** Hech 2,38; Hech 16,31; Hech 16,33] ^c^[**16:17** Hech 16,18; Hech 10,46; Hech 19,6] ^d^[**16:18** Luc 10,19; Hech 28,3-6; Sant 5,14; Sant 1,5-15] 
 ### Ascensión de Jesús
-^19^ ^a^ 
+^19^ ^^ 
 # 42-San Lucas.md
 ## 1
 ^0^ 
@@ -8094,7 +8110,7 @@
 ### Bautismo y consagración del Mesías de Jesús
 ^22^ 
 ### Árbol genealógico de Jesús
-^23^ ^a^ ^32^ ^b^ ^33^ ^c^ ^38^ ^a^[**3:23** Luc 4,22] ^b^[**3:32** Rut 4,17-22] ^c^[**3:33** Gén 5,1-32; Gén 11,10-26; Gén 21,2-3; Gén 29,35] 
+^23^ ^a^ ^32^ ^b^ ^33^ ^c^ ^a^[**3:23** Luc 4,22] ^b^[**3:32** Rut 4,17-22] ^c^[**3:33** Gén 5,1-32; Gén 11,10-26; Gén 21,2-3; Gén 29,35] \ 
 ## 4
 ^0^ 
 ### La tentación de Jesús como prueba de Mesías
@@ -8230,7 +8246,7 @@
 ### Jesús trae fuego y conflicto a la tierra
 ^50^ ^a^ ^53^ ^a^[**12:50** Luc 18,31; Mat 20,22; Mat 26,38] 
 ### Los signos de los tiempos te instan a tomar en serio la salvación de tu alma
-^56^ \ ^58^ ^a^ ^59^ ^a^[**12:58** Mat 5,25-26] 
+^56^ \ ^58^ ^a^ ^a^[**12:58** Mat 5,25-26] \ 
 ## 13
 ^0^ 
 ### Recordatorios de penitencia
@@ -8252,7 +8268,7 @@
 ### La parábola de la gran cena
 ^15^ ^a^ ^a^[**14:15** Luc 13,29] \ ^18^ \ ^19^ \ ^20^ ^a^ ^a^[**14:20** 1Cor 7,33] \ ^21^ \ ^22^ \ ^24^ 
 ### Sobre las condiciones del discipulado y la seriedad de seguir a Jesús
-^27^ ^a^ ^33^ ^a^[**14:27** Luc 9,23] \ ^34^ ^a^ ^35^ ^a^[**14:34** Mat 5,13; Mar 9,50] 
+^27^ ^a^ ^33^ ^a^[**14:27** Luc 9,23] \ ^34^ ^a^ ^a^[**14:34** Mat 5,13; Mar 9,50] \ 
 ## 15
 ^0^ 
 ### Parábolas de la oveja perdida y la dracma perdida
@@ -8411,7 +8427,7 @@
 ### Jesús y Nicodemo
 ^1^ ^a^ ^2^ ^a^[**3:1** Juan 7,50; Juan 19,39] \ ^3^ \ ^4^ \ ^5^ ^a^ ^6^ ^b^ ^8^ ^a^[**3:5** Ezeq 36,25-27; Mat 3,11; Tit 3,5] ^b^[**3:6** Juan 1,13; Rom 8,5-9] \ ^9^ \ ^14^ ^a^ ^17^ ^b^ ^18^ ^c^ ^19^ ^d^ ^20^ ^e^ ^21^ ^f^ ^a^[**3:14** Núm 21,8-9] ^b^[**3:17** Luc 19,10] ^c^[**3:18** Juan 5,24] ^d^[**3:19** Juan 1,5; Juan 1,9-11] ^e^[**3:20** Efes 5,13] ^f^[**3:21** 1Jn 1,6] 
 ### Jesús en Judea y el testimonio final del Bautista
-^22^ ^a^ ^24^ ^b^ ^26^ ^a^[**3:22** Juan 4,1-2] ^b^[**3:24** Mar 1,14] \ ^27^ ^a^ ^28^ ^b^ ^29^ ^c^ ^30^ ^a^[**3:27** Heb 5,4] ^b^[**3:28** Juan 1,20; Juan 1,23; Juan 1,27] ^c^[**3:29** Mat 9,15] \ ^34^ ^a^ ^35^ ^b^ ^36^ ^a^[**3:34** Juan 1,16] ^b^[**3:35** Juan 5,20; Mat 11,27] 
+^22^ ^a^ ^24^ ^b^ ^26^ ^a^[**3:22** Juan 4,1-2] ^b^[**3:24** Mar 1,14] \ ^27^ ^a^ ^28^ ^b^ ^29^ ^c^ ^30^ ^a^[**3:27** Heb 5,4] ^b^[**3:28** Juan 1,20; Juan 1,23; Juan 1,27] ^c^[**3:29** Mat 9,15] \ ^34^ ^a^ ^35^ ^b^ ^a^[**3:34** Juan 1,16] ^b^[**3:35** Juan 5,20; Mat 11,27] \ 
 ## 4
 ^0^ 
 ### Jesús habla con la mujer samaritana junto al pozo de Jacob
@@ -8495,7 +8511,7 @@
 ### La última justificación de Jesús a los judíos en la fiesta de la dedicación del templo
 ^23^ ^a^ ^24^ ^a^[**10:23** Hech 3,11] \ ^26^ ^a^ ^30^ ^a^[**10:26** Juan 8,45; Juan 8,47] \ ^32^ \ ^33^ ^a^ ^a^[**10:33** Juan 5,18; Mat 9,3; Mat 26,65] \ ^38^ \ ^39^ ^a^ ^a^[**10:39** Juan 8,59; Luc 4,30] 
 ### Jesús y Lázaro; Jesús como la resurrección y la vida
-^40^ ^a^ ^42^ ^a^[**10:40** Juan 1,28] 
+^40^ ^a^ ^a^[**10:40** Juan 1,28] \ 
 ## 11
 ^1^ ^a^ ^2^ ^b^ ^3^ ^a^[**11:1** Luc 10,38-39] ^b^[**11:2** Juan 12,3] \ ^4^ ^a^ ^7^ ^a^[**11:4** Juan 9,3] \ ^8^ \ ^9^ ^a^ ^10^ ^b^ ^11^ ^c^ ^a^[**11:9** Juan 9,4-5] ^b^[**11:10** Juan 12,35] ^c^[**11:11** Mat 9,24] \ ^12^ \ ^15^ \ ^16^ 
 ### El regreso de Jesús a Betania; su encuentro con Martha y Maria
@@ -8515,7 +8531,7 @@
 ### La revisión del evangelista de la actividad pública de Jesús
 ^38^ \ ^40^ ^a^ ^a^[**12:40** Mat 13,14-15] \ ^41^ ^a^ ^42^ ^b^ ^43^ ^c^ ^a^[**12:41** Is 6,1] ^b^[**12:42** Juan 9,22] ^c^[**12:43** Juan 5,44] 
 ### El testimonio de Jesús sobre sí mismo y sobre su relación con Dios
-^45^ ^a^ ^50^ ^a^[**12:45** Juan 14,9] 
+^45^ ^a^ ^a^[**12:45** Juan 14,9] \ 
 ## 13
 ^0^ 
 ### El lavado de pies
@@ -8563,7 +8579,7 @@
 ### La intercesión de Jesús por el mantenimiento de los discípulos en el conocimiento correcto de Dios
 ^8^ ^a^ ^9^ ^b^ ^10^ ^c^ ^13^ ^d^ ^14^ ^e^ ^15^ ^f^ ^18^ ^g^ ^19^ ^h^ ^a^[**17:8** Juan 16,30] ^b^[**17:9** Juan 6,37; Juan 6,44] ^c^[**17:10** Juan 16,15] ^d^[**17:13** Juan 15,11] ^e^[**17:14** Juan 15,19] ^f^[**17:15** Mat 6,13; 2Tes 3,3] ^g^[**17:18** Juan 20,21] ^h^[**17:19** Heb 10,10] 
 ### Intercesión por todos los creyentes
-^20^ ^a^ ^21^ ^b^ ^22^ ^c^ ^23^ ^d^ ^24^ ^e^ ^26^ ^a^[**17:20** Rom 10,17] ^b^[**17:21** Gal 3,28] ^c^[**17:22** Hech 4,32] ^d^[**17:23** 1Cor 6,17] ^e^[**17:24** Juan 12,26] 
+^20^ ^a^ ^21^ ^b^ ^22^ ^c^ ^23^ ^d^ ^24^ ^e^ ^a^[**17:20** Rom 10,17] ^b^[**17:21** Gal 3,28] ^c^[**17:22** Hech 4,32] ^d^[**17:23** 1Cor 6,17] ^e^[**17:24** Juan 12,26] \ 
 ## 18
 ^0^ 
 ### Jesús en Getsemaní: Judas, Malco, arresto de Jesús
@@ -8581,7 +8597,7 @@
 ### La crucifixión y muerte de Jesús
 ^21^ \ ^22^ \ ^24^ \ ^27^ \ ^28^ ^a^ ^29^ ^b^ ^30^ ^a^[**19:28** Sal 22,16] ^b^[**19:29** Sal 69,22] \ ^31^ ^a^ ^37^ ^a^[**19:31** Lev 23,7; Deut 21,23] 
 ### Descenso de la cruz y sepultura de Jesús
-^38^ ^a^ ^39^ ^b^ ^42^ ^a^[**19:38** Juan 7,13] ^b^[**19:39** Juan 3,2] 
+^38^ ^a^ ^39^ ^b^ ^a^[**19:38** Juan 7,13] ^b^[**19:39** Juan 3,2] \ 
 ## 20
 ^0^ 
 ### María Magdalena y el sepulcro vacío; Pedro y Juan en la tumba
@@ -8597,7 +8613,7 @@
 ### Jesús se revela a sus discípulos en el lago de Tiberíades
 ^3^ \ ^4^ ^a^ ^5^ ^b^ ^a^[**21:4** Juan 20,14; Luc 24,16] ^b^[**21:5** Luc 24,41] \ ^6^ ^a^ ^a^[**21:6** Luc 5,4-7] \ ^7^ ^a^ ^a^[**21:7** Juan 13,23] \ ^10^ \ ^11^ \ ^12^ \ ^13^ ^a^ ^14^ ^a^[**21:13** Juan 6,11] 
 ### Trus reinstalado en su cargo pastoral; Profecía sobre el fin de la vida de Pedro y el discípulo amado
-^15^ \ ^16^ ^a^ ^a^[**21:16** 1Pe 5,2; 1Pe 5,4] \ ^17^ ^a^ ^a^[**21:17** Juan 13,38; Juan 16,30] \ ^18^ \ ^19^ ^a^ ^a^[**21:19** Juan 13,36] \ ^20^ ^a^ ^21^ ^a^[**21:20** Juan 13,23; Juan 13,25] \ ^23^ \ ^24^ ^a^ 
+^15^ \ ^16^ ^a^ ^a^[**21:16** 1Pe 5,2; 1Pe 5,4] \ ^17^ ^a^ ^a^[**21:17** Juan 13,38; Juan 16,30] \ ^18^ \ ^19^ ^a^ ^a^[**21:19** Juan 13,36] \ ^20^ ^a^ ^21^ ^a^[**21:20** Juan 13,23; Juan 13,25] \ ^23^ \ ^24^ ^^ 
 # 44-Hechos.md
 ## 1
 ^0^ 
@@ -8622,7 +8638,7 @@
 ### Pedro y Juan curan a un cojo de nacimiento
 ^11^ 
 ### Discurso en el templo, sermón penitencial de Pedro después de sanar al cojo
-^14^ ^a^ ^16^ ^a^[**3:14** Mat 27,20-21] \ ^18^ ^a^ ^a^[**3:18** Luc 24,44] \ ^19^ ^a^ ^24^ ^b^ ^26^ ^a^[**3:19** Hech 2,38] ^b^[**3:24** 2Sam 7,12-16] 
+^14^ ^a^ ^16^ ^a^[**3:14** Mat 27,20-21] \ ^18^ ^a^ ^a^[**3:18** Luc 24,44] \ ^19^ ^a^ ^24^ ^b^ ^a^[**3:19** Hech 2,38] ^b^[**3:24** 2Sam 7,12-16] \ 
 ## 4
 ^0^ 
 ### Pedro y Juan en la cárcel y ante el concilio
@@ -8630,7 +8646,7 @@
 ### Regreso de los apóstoles; Acción de gracias y súplica de la congregación
 ^26^ \ ^27^ ^a^ ^28^ ^b^ ^29^ ^c^ ^30^ ^a^[**4:27** Luc 23,12] ^b^[**4:28** Hech 2,23] ^c^[**4:29** Efes 6,19] \ ^31^ 
 ### La comunidad de bienes
-^33^ ^a^ ^34^ ^b^ ^35^ ^a^[**4:33** Hech 2,47] ^b^[**4:34** Hech 2,45] \ ^36^ ^a^ ^37^ ^a^[**4:36** Hech 11,22-26; Hech 12,25; Hech 15,2; Gal 2,1; Col 4,10] 
+^33^ ^a^ ^34^ ^b^ ^35^ ^a^[**4:33** Hech 2,47] ^b^[**4:34** Hech 2,45] \ ^36^ ^a^ ^a^[**4:36** Hech 11,22-26; Hech 12,25; Hech 15,2; Gal 2,1; Col 4,10] \ 
 ## 5
 ^0^ 
 ### Un ejemplo de disciplina eclesiástica seria: Ananías y Safira
@@ -8648,7 +8664,7 @@
 ### Separación de la oficina de predicación y ayuda a los pobres; Elección y nombramiento de los siete cuidadores pobres
 ^1^ ^a^ ^4^ ^a^[**6:1** Hech 4,35] \ ^5^ ^a^ ^6^ ^b^ ^a^[**6:5** Hech 8,5] ^b^[**6:6** Hech 1,24; Hech 13,3; Hech 14,23] \ ^7^ ^a^ ^a^[**6:7** Hech 2,47; Hech 19,20] 
 ### Acusación y muerte de Esteban, el primer mártir
-^11^ ^a^ ^14^ ^b^ ^15^ ^a^[**6:11** Mat 26,60-66] ^b^[**6:14** Juan 2,19] 
+^11^ ^a^ ^14^ ^b^ ^a^[**6:11** Mat 26,60-66] ^b^[**6:14** Juan 2,19] \ 
 ## 7
 ^0^ 
 ### Discurso de defensa de Esteban: la época de los patriarcas
@@ -8660,7 +8676,7 @@
 ### Fin del discurso; Acusación del pueblo
 ^52^ ^a^ ^53^ ^b^ ^a^[**7:52** 2Cró 36,16; Mat 23,31] ^b^[**7:53** Éxod 20,-1; Gal 3,19; Heb 2,2] 
 ### El martirio de Esteban
-^56^ ^a^ ^a^[**7:56** Luc 22,69] \ ^59^ ^a^ ^60^ ^a^[**7:59** Luc 23,46] 
+^56^ ^a^ ^a^[**7:56** Luc 22,69] \ ^59^ ^a^ ^a^[**7:59** Luc 23,46] \ 
 ## 8
 ^0^ 
 ### La primera persecución de la comunidad cristiana en Jerusalén
@@ -8702,7 +8718,7 @@
 ### Pedro justifica el bautismo pagano en Jerusalén
 ^3^ \ ^5^ ^a^ ^16^ ^b^ ^17^ ^a^[**11:5** Hech 10,9-48] ^b^[**11:16** Hech 1,5] \ ^18^ 
 ### Fundación de la primera comunidad cristiana gentil en Antioquía en Siria; su ayuda para los cristianos necesitados en Judea
-^21^ ^a^ ^22^ ^b^ ^24^ ^c^ ^a^[**11:21** Hech 2,47] ^b^[**11:22** Hech 4,36] ^c^[**11:24** Hech 5,14] \ ^25^ ^a^ ^26^ ^b^ ^a^[**11:25** Hech 9,30] ^b^[**11:26** Gal 2,11] \ ^27^ ^a^ ^28^ ^b^ ^30^ ^a^[**11:27** Hech 13,1; Hech 15,32] ^b^[**11:28** Hech 21,10] 
+^21^ ^a^ ^22^ ^b^ ^24^ ^c^ ^a^[**11:21** Hech 2,47] ^b^[**11:22** Hech 4,36] ^c^[**11:24** Hech 5,14] \ ^25^ ^a^ ^26^ ^b^ ^a^[**11:25** Hech 9,30] ^b^[**11:26** Gal 2,11] \ ^27^ ^a^ ^28^ ^b^ ^a^[**11:27** Hech 13,1; Hech 15,32] ^b^[**11:28** Hech 21,10] \ 
 ## 12
 ^0^ 
 ### Muerte de Santiago, arresto de Pedro
@@ -8718,7 +8734,7 @@
 ### Continuación del viaje a Asia Menor y estancia en Antioquía de Pisidia
 ^15^ ^a^ ^a^[**13:15** Hech 15,21] \ ^18^ ^a^ ^19^ ^b^ ^20^ ^c^ ^21^ ^d^ ^23^ ^e^ ^24^ ^f^ ^25^ ^g^ ^a^[**13:18** Éxod 16,35] ^b^[**13:19** Deut 7,1; Jos 14,2] ^c^[**13:20** Jue 2,16; 1Sam 3,20] ^d^[**13:21** 1Sam 8,5; 1Sam 10,21; 1Sam 10,24] ^e^[**13:23** Is 11,1] ^f^[**13:24** Luc 3,3] ^g^[**13:25** Juan 1,20; Juan 1,27; Luc 3,16; Mar 1,7] \ ^28^ ^a^ ^29^ ^b^ ^30^ ^c^ ^31^ ^d^ ^33^ ^a^[**13:28** Mat 27,22-23] ^b^[**13:29** Mat 27,59-60] ^c^[**13:30** Hech 3,15] ^d^[**13:31** Hech 1,3] \ ^39^ ^a^ ^41^ ^a^[**13:39** Rom 8,3-4; Rom 10,4] 
 ### Varios éxitos del discurso
-^43^ \ ^45^ \ ^47^ \ ^48^ ^a^ ^52^ ^a^[**13:48** Rom 8,29-30] 
+^43^ \ ^45^ \ ^47^ \ ^48^ ^a^ ^a^[**13:48** Rom 8,29-30] \ 
 ## 14
 ^0^ 
 ### Efectividad de los Apóstoles en Iconio
@@ -8726,7 +8742,7 @@
 ### Curación de un cojo y lapidación de Pablo en Listra; los dos apóstoles escapan a Derbe
 ^9^ ^a^ ^13^ ^a^[**14:9** Mat 9,28] \ ^15^ ^a^ ^16^ ^b^ ^17^ ^a^[**14:15** Hech 10,26] ^b^[**14:16** Hech 17,30] \ ^19^ ^a^ ^a^[**14:19** 2Cor 11,25; 2Tim 3,11] 
 ### Los apóstoles en Derbe; Fortalecimiento de las comunidades fundadas; Regreso a Antioquía en Siria
-^20^ \ ^23^ ^a^ ^a^[**14:23** Hech 6,6] \ ^27^ ^a^ ^28^ ^a^[**14:27** 1Cor 16,9] 
+^20^ \ ^23^ ^a^ ^a^[**14:23** Hech 6,6] \ ^27^ ^a^ ^a^[**14:27** 1Cor 16,9] \ 
 ## 15
 ^0^ 
 ### La causa de la Convención; Envío de Pablo y Bernabé a Jerusalén
@@ -8738,7 +8754,7 @@
 ### El resultado: Judas y Silas en Antioquía
 ^34^ 
 ### La pelea de Pablo con Bernabé; Salida de Pablo y Silas de Antioquía
-^35^ \ ^37^ ^a^ ^38^ ^b^ ^41^ ^a^[**15:37** Hech 1,12; Hech 1,25] ^b^[**15:38** Hech 13,13] 
+^35^ \ ^37^ ^a^ ^38^ ^b^ ^a^[**15:37** Hech 1,12; Hech 1,25] ^b^[**15:38** Hech 13,13] \ 
 ## 16
 ^0^ 
 ### El viaje por tierra a través de Asia Menor hasta Troas
@@ -8877,7 +8893,7 @@
 ### La culpa del pecado de todo paganismo
 ^19^ ^a^ ^20^ ^b^ ^21^ ^c^ ^a^[**1:19** Hech 14,15-17; Hech 17,24-28] ^b^[**1:20** Sal 19,2; Heb 11,3] ^c^[**1:21** Efes 4,18] \ ^22^ ^a^ ^23^ ^b^ ^a^[**1:22** Jer 10,14; 1Cor 1,20] ^b^[**1:23** Deut 4,15-19] 
 ### El juicio divino sobre el mundo pagano debido a su ruina
-^24^ ^a^ ^25^ ^a^[**1:24** Hech 14,16] \ ^27^ ^a^ ^32^ ^a^[**1:27** Lev 18,22; Lev 20,13; 1Cor 6,9] 
+^24^ ^a^ ^25^ ^a^[**1:24** Hech 14,16] \ ^27^ ^a^ ^a^[**1:27** Lev 18,22; Lev 20,13; 1Cor 6,9] \ 
 ## 2
 ^0^ 
 ### El juicio de la ira también está ante los judíos; juzgar a los demás no los libera del juicio de Dios
@@ -8947,7 +8963,7 @@
 ### El comienzo de nuestra comunión con Dios, obra de Dios, garantiza su finalización final
 ^29^ ^a^ ^30^ ^b^ ^a^[**8:29** Col 1,18; Heb 1,6] ^b^[**8:30** Rom 3,26; 2Tes 2,13-14] 
 ### Por tanto, nuestro estado de salvación está divinamente asegurado contra todos los poderes y nuestra certeza de fe y seguridad de la salvación está justificada
-^31^ ^a^ ^32^ ^b^ ^34^ ^c^ ^a^[**8:31** Sal 118,6] ^b^[**8:32** Juan 3,16] ^c^[**8:34** 1Jn 2,1; Heb 7,25] \ ^37^ ^a^ ^38^ ^b^ ^39^ ^a^[**8:37** 1Jn 5,4] ^b^[**8:38** Efes 6,12] 
+^31^ ^a^ ^32^ ^b^ ^34^ ^c^ ^a^[**8:31** Sal 118,6] ^b^[**8:32** Juan 3,16] ^c^[**8:34** 1Jn 2,1; Heb 7,25] \ ^37^ ^a^ ^38^ ^b^ ^a^[**8:37** 1Jn 5,4] ^b^[**8:38** Efes 6,12] \ 
 ## 9
 ^0^ 
 ### Introducción: El profundo dolor del apóstol por la exclusión temporal de su pueblo de la salvación
@@ -8957,7 +8973,7 @@
 ### La elección para la salvación es obra gratuita de la gracia de Dios; la negación de la salvación y la gracia no permite al hombre pelear con Dios
 ^18^ ^a^ ^a^[**9:18** Éxod 4,21; 1Pe 2,8] \ ^22^ ^a^ ^23^ ^b^ ^26^ ^a^[**9:22** Rom 2,4; Prov 16,4] ^b^[**9:23** Rom 8,29; Efes 1,3-12] \ ^27^ ^a^ ^28^ ^a^[**9:27** Rom 11,5] \ ^29^ 
 ### La culpa de los judíos consistió en el rechazo de la justicia de la fe y en la persecución excesiva de la justicia de las obras
-^30^ \ ^31^ ^a^ ^33^ ^a^[**9:31** Rom 10,2-3] 
+^30^ \ ^31^ ^a^ ^a^[**9:31** Rom 10,2-3] \ 
 ## 10
 ^3^ 
 ### La falta de Israel es aún más grave ya que Dios no ha descuidado nada para llevar a Israel a la justicia de la fe desde la época de Moisés
@@ -8993,7 +9009,7 @@
 ### Juicio sobre el tema que conmueve a la comunidad y advierte contra la condena sin amor del modo de vida externo del prójimo
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^4^ ^d^ ^a^[**14:1** Rom 15,1; 1Cor 8,9] ^b^[**14:2** Gén 1,29; Gén 9,3] ^c^[**14:3** Col 2,16] ^d^[**14:4** Mat 7,1; Sant 4,11; Sant 1,4-12] \ ^5^ ^a^ ^9^ ^a^[**14:5** Gal 4,10] \ ^10^ ^a^ ^11^ ^b^ ^a^[**14:10** Mat 25,31-32; Hech 17,31; 2Cor 5,10] ^b^[**14:11** Fil 2,10-11] \ ^12^ ^a^ ^a^[**14:12** Gal 6,5] 
 ### Exhortación a los que tienen una fe fuerte a no ofender a los que tienen una fe débil y a esforzarse por tener una conciencia segura en todo lo que hacen
-^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^17^ ^d^ ^21^ ^a^[**14:13** 1Cor 10,33] ^b^[**14:14** Mat 15,11; Hech 10,15; Tit 1,15] ^c^[**14:15** 1Cor 8,11-13] ^d^[**14:17** 1Cor 8,8; Heb 13,9] \ ^22^ ^a^ ^23^ ^a^[**14:22** Rom 14,2; 1Cor 10,25-27] 
+^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^17^ ^d^ ^21^ ^a^[**14:13** 1Cor 10,33] ^b^[**14:14** Mat 15,11; Hech 10,15; Tit 1,15] ^c^[**14:15** 1Cor 8,11-13] ^d^[**14:17** 1Cor 8,8; Heb 13,9] \ ^22^ ^a^ ^a^[**14:22** Rom 14,2; 1Cor 10,25-27] \ 
 ## 15
 ^0^ 
 ### Exhortación a ser pacientes con los débiles y a la unidad de los cristianos basada en el ejemplo de Cristo
@@ -9005,7 +9021,7 @@
 ### Anuncio de los próximos planes de viaje del apóstol
 ^22^ ^a^ ^23^ ^b^ ^25^ ^c^ ^26^ ^d^ ^27^ ^e^ ^29^ ^a^[**15:22** Rom 1,13] ^b^[**15:23** Rom 1,10-11] ^c^[**15:25** Hech 18,21; Hech 19,21; Hech 20,22; Hech 24,17] ^d^[**15:26** 1Cor 16,1; 2Cor 8,1-4; 2Cor 8,9] ^e^[**15:27** 1Cor 9,11; Gal 6,6] 
 ### La amonestación del apóstol a la iglesia de que interceda por él
-^31^ ^a^ ^33^ ^a^[**15:31** 1Tes 2,15] 
+^31^ ^a^ ^a^[**15:31** 1Tes 2,15] \ 
 ## 16
 ^0^ 
 ### Recomendación de Phöbe, portador de la carta; Saludos del Apóstol a los hermanos en Roma
@@ -9013,7 +9029,7 @@
 ### Advertencia a los engañadores que causan divisiones y errores en la iglesia
 ^17^ ^a^ ^18^ ^b^ ^19^ ^c^ ^20^ ^a^[**16:17** Mat 7,15; Tit 3,10; 2Tes 3,6] ^b^[**16:18** Fil 3,19; Col 2,4] ^c^[**16:19** Rom 1,8; 1Cor 14,20] 
 ### Saludos de los amigos de Pablo a Roma y finalmente alabanza a Dios
-^23^ ^a^ 
+^23^ ^^ 
 # 46-1 Corintios.md
 ## 1
 ^0^ 
@@ -9078,7 +9094,7 @@
 ### Sobre el celibato de ambos sexos; Consejos para casarse con mujeres solteras y volver a casarse con viudas
 ^26^ ^a^ ^31^ ^b^ ^a^[**7:26** 1Cor 10,11] ^b^[**7:31** 1Jn 2,15-17] \ ^35^ \ ^38^ 
 ### Sobre el nuevo matrimonio de las viudas
-^39^ ^a^ ^40^ ^a^[**7:39** Rom 7,2] 
+^39^ ^a^ ^a^[**7:39** Rom 7,2] \ 
 ## 8
 ^0^ 
 ### El conocimiento en sí mismo tiene menos valor que el amor
@@ -9086,7 +9102,7 @@
 ### No todo el mundo tiene un conocimiento perfecto
 ^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^a^[**8:4** Deut 6,4] ^b^[**8:5** 1Cor 10,19-20; Sal 136,2-3; Rom 8,38-39] ^c^[**8:6** 1Cor 12,5-6; Col 1,16; Efes 4,5-6; Mal 2,10; Juan 1,3] \ ^7^ ^a^ ^a^[**8:7** 1Cor 10,28] 
 ### Para el uso de la libertad cristiana, la consideración amorosa por los débiles es decisiva
-^8^ ^a^ ^9^ ^b^ ^11^ ^c^ ^13^ ^a^[**8:8** Rom 14,17] ^b^[**8:9** Gal 5,13] ^c^[**8:11** Rom 14,15] 
+^8^ ^a^ ^9^ ^b^ ^11^ ^c^ ^a^[**8:8** Rom 14,17] ^b^[**8:9** Gal 5,13] ^c^[**8:11** Rom 14,15] \ 
 ## 9
 ^0^ 
 ### Explicación y justificación de los derechos debidos a Pablo como apóstol
@@ -9096,7 +9112,7 @@
 ### Pablo, aunque exteriormente es completamente libre, es sin embargo un servidor de todos los hombres
 ^20^ ^a^ ^21^ ^b^ ^22^ ^c^ ^23^ ^a^[**9:20** 1Cor 10,33; Hech 16,3; Hech 21,20-26] ^b^[**9:21** Gal 2,3] ^c^[**9:22** Rom 11,14] 
 ### El apóstol como competidor por el premio celestial
-^25^ ^a^ ^27^ ^a^[**9:25** 2Tim 2,4-5; 1Pe 5,4] 
+^25^ ^a^ ^a^[**9:25** 2Tim 2,4-5; 1Pe 5,4] \ 
 ## 10
 ^0^ 
 ### Das durch göttliche Gnadenerweise in der Wüste gesegnete und zur Rettung ins heilige Land berufene Israel
@@ -9118,7 +9134,7 @@
 ### Seria reprimenda por los agravios en las comidas comunes e instrucciones para la celebración digna de la Cena del Señor
 ^19^ ^a^ ^22^ ^b^ ^a^[**11:19** Mat 18,7; 1Jn 2,19] ^b^[**11:22** Sant 2,5; Sant 1,2-6] 
 ### La celebración correcta de la Cena del Señor y las malas consecuencias de un disfrute indigno; recordatorio final
-^23^ ^a^ ^26^ ^b^ ^a^[**11:23** Mat 26,26-28; Mar 14,22-24; Luc 22,19-20] ^b^[**11:26** Mat 26,29] \ ^27^ ^a^ ^28^ ^b^ ^29^ ^c^ ^32^ ^d^ ^34^ ^a^[**11:27** 1Cor 11,21-22] ^b^[**11:28** Mat 26,22] ^c^[**11:29** 1Cor 10,16-17] ^d^[**11:32** Prov 3,11-12] 
+^23^ ^a^ ^26^ ^b^ ^a^[**11:23** Mat 26,26-28; Mar 14,22-24; Luc 22,19-20] ^b^[**11:26** Mat 26,29] \ ^27^ ^a^ ^28^ ^b^ ^29^ ^c^ ^32^ ^d^ ^a^[**11:27** 1Cor 11,21-22] ^b^[**11:28** Mat 26,22] ^c^[**11:29** 1Cor 10,16-17] ^d^[**11:32** Prov 3,11-12] \ 
 ## 12
 ^0^ 
 ### La marca de los dones espirituales divinamente forjados
@@ -9227,7 +9243,7 @@
 ### Petición solemne y amorosa a los corintios para la restauración completa de la comunión
 ^13^ ^a^ ^a^[**6:13** 1Cor 4,14] 
 ### Advertencia contra los seres paganos y demanda de perfecta santificación
-^14^ ^a^ ^16^ ^b^ ^17^ ^c^ ^18^ ^a^[**6:14** Efes 5,11] ^b^[**6:16** 1Cor 3,16] ^c^[**6:17** Apoc 18,14] 
+^14^ ^a^ ^16^ ^b^ ^17^ ^c^ ^a^[**6:14** Efes 5,11] ^b^[**6:16** 1Cor 3,16] ^c^[**6:17** Apoc 18,14] \ 
 ## 7
 ^1^ 
 ### La petición del apóstol de amor, afirmación de amor y testimonio de confianza
@@ -9267,7 +9283,7 @@
 ### Otra petición del apóstol por su tonta fama propia
 ^16^ ^a^ ^20^ ^a^[**11:16** 2Cor 12,6] 
 ### El apóstol se jacta de su ascendencia, de su oficio, de la plenitud de sus sufrimientos en el servicio apostólico
-^22^ ^a^ ^23^ ^b^ ^24^ ^c^ ^25^ ^d^ ^27^ ^e^ ^a^[**11:22** Fil 3,5] ^b^[**11:23** 2Cor 6,4-5; 1Cor 15,10] ^c^[**11:24** Deut 25,3] ^d^[**11:25** Hech 16,22; Hech 14,19] ^e^[**11:27** 2Cor 6,5] \ ^28^ ^a^ ^29^ ^a^[**11:28** Hech 20,18-21; Hech 20,31] \ ^30^ ^a^ ^33^ ^a^[**11:30** 2Cor 12,5] 
+^22^ ^a^ ^23^ ^b^ ^24^ ^c^ ^25^ ^d^ ^27^ ^e^ ^a^[**11:22** Fil 3,5] ^b^[**11:23** 2Cor 6,4-5; 1Cor 15,10] ^c^[**11:24** Deut 25,3] ^d^[**11:25** Hech 16,22; Hech 14,19] ^e^[**11:27** 2Cor 6,5] \ ^28^ ^a^ ^29^ ^a^[**11:28** Hech 20,18-21; Hech 20,31] \ ^30^ ^a^ ^a^[**11:30** 2Cor 12,5] \ 
 ## 12
 ^0^ 
 ### El apóstol se jacta de las más altas gracias (a través de revelaciones celestiales) y la más profunda humillación (a través del sufrimiento físico)
@@ -9296,7 +9312,7 @@
 ### La conducta de Pablo antes de su conversión e inmediatamente después
 ^15^ ^a^ ^16^ ^b^ ^17^ ^a^[**1:15** Rom 1,1; Jer 1,5] ^b^[**1:16** Mat 16,17; Gal 2,7] 
 ### La actividad independiente de Pablo durante el tiempo anterior a la reunión de los apóstoles
-^18^ ^a^ ^19^ ^b^ ^21^ ^c^ ^24^ ^a^[**1:18** Juan 1,42; Hech 9,26-27] ^b^[**1:19** Mat 13,55] ^c^[**1:21** Hech 9,30] 
+^18^ ^a^ ^19^ ^b^ ^21^ ^c^ ^a^[**1:18** Juan 1,42; Hech 9,26-27] ^b^[**1:19** Mat 13,55] ^c^[**1:21** Hech 9,30] \ 
 ## 2
 ^0^ 
 ### Aparición de Pablo en la consulta del apóstol en Jerusalén
@@ -9306,7 +9322,7 @@
 ### Aparición justificada de Pablo contra Pedro en Antioquía
 ^12^ ^a^ ^13^ ^a^[**2:12** Hech 11,2-3] 
 ### El discurso de reprensión de Pablo contra Pedro
-^14^ \ ^19^ ^a^ ^20^ ^b^ ^21^ ^a^[**2:19** Rom 7,6] ^b^[**2:20** Gal 1,4; Juan 17,23] 
+^14^ \ ^19^ ^a^ ^20^ ^b^ ^a^[**2:19** Rom 7,6] ^b^[**2:20** Gal 1,4; Juan 17,23] \ 
 ## 3
 ^0^ 
 ### Referencia a la experiencia de los mismos Gálatas de que la recepción del Espíritu es el resultado de la fe
@@ -9322,7 +9338,7 @@
 ### El propósito educativo externo de la ley
 ^23^ ^a^ ^24^ ^a^[**3:23** Gal 4,3] 
 ### Todos los cristianos creyentes son ahora, después del fin del imperio de la ley, de Dios y de los hijos y herederos de Abraham
-^25^ ^a^ ^26^ ^b^ ^27^ ^c^ ^28^ ^d^ ^29^ ^a^[**3:25** Rom 10,4] ^b^[**3:26** Juan 1,12; Rom 8,17] ^c^[**3:27** Rom 6,3; Rom 13,14] ^d^[**3:28** Rom 10,12; 1Cor 12,13] 
+^25^ ^a^ ^26^ ^b^ ^27^ ^c^ ^28^ ^d^ ^a^[**3:25** Rom 10,4] ^b^[**3:26** Juan 1,12; Rom 8,17] ^c^[**3:27** Rom 6,3; Rom 13,14] ^d^[**3:28** Rom 10,12; 1Cor 12,13] \ 
 ## 4
 ^0^ 
 ### Para los creyentes, la posición de hijos, filiación, en Cristo ha tomado el lugar de la esclavitud a la ley
@@ -9363,7 +9379,7 @@
 ### Anteriormente muerto en pecado, el creyente ahora se reconoce a sí mismo como obra de gracia de Dios y una nueva formación en Cristo Jesús resucitado
 ^1^ ^a^ ^2^ ^b^ ^3^ ^c^ ^6^ ^d^ ^7^ ^e^ ^8^ ^f^ ^9^ ^g^ ^10^ ^h^ ^a^[**2:1** Col 2,13; Luc 15,24; Luc 15,32] ^b^[**2:2** Tit 3,3; Efes 6,12; Juan 12,31] ^c^[**2:3** Col 3,6; 1Pe 4,3] ^d^[**2:6** Fil 3,20] ^e^[**2:7** Efes 1,7] ^f^[**2:8** Gal 2,16; Rom 3,23-24] ^g^[**2:9** Rom 3,28; 1Cor 1,19] ^h^[**2:10** Tit 2,14] 
 ### Como nueva formación de Dios en Cristo Jesús, los judíos creyentes son herederos de la promesa y de la casa de Dios, pero con ellos también los gentiles creyentes
-^11^ ^a^ ^12^ ^b^ ^15^ ^c^ ^18^ ^d^ ^19^ ^e^ ^20^ ^f^ ^22^ ^a^[**2:11** Efes 5,8] ^b^[**2:12** Rom 9,4; 1Tes 4,13] ^c^[**2:15** Col 2,14] ^d^[**2:18** Efes 3,12] ^e^[**2:19** Efes 3,6; Heb 12,22-23] ^f^[**2:20** Mat 16,18; Is 28,16; 1Pe 2,4-6] 
+^11^ ^a^ ^12^ ^b^ ^15^ ^c^ ^18^ ^d^ ^19^ ^e^ ^20^ ^f^ ^a^[**2:11** Efes 5,8] ^b^[**2:12** Rom 9,4; 1Tes 4,13] ^c^[**2:15** Col 2,14] ^d^[**2:18** Efes 3,12] ^e^[**2:19** Efes 3,6; Heb 12,22-23] ^f^[**2:20** Mat 16,18; Is 28,16; 1Pe 2,4-6] \ 
 ## 3
 ^0^ 
 ### El glorioso oficio del apóstol de proclamar el mensaje de salvación a los gentiles como el secreto revelado a él de su derecho a participar de las promesas de Israel
@@ -9387,7 +9403,7 @@
 ### Camina con cuidado como hijos de luz
 ^6^ ^a^ ^8^ ^b^ ^9^ ^c^ ^10^ ^d^ ^13^ ^e^ ^14^ ^f^ ^a^[**5:6** Col 3,6] ^b^[**5:8** Efes 2,11; 1Pe 2,9] ^c^[**5:9** Mat 5,14; Juan 12,36; Gal 5,22; Fil 1,11; 1Tes 5,5] ^d^[**5:10** Rom 12,1; Fil 1,10] ^e^[**5:13** Juan 3,10; Juan 3,21] ^f^[**5:14** Is 60,1; Rom 13,11; Juan 8,12] \ ^15^ ^a^ ^19^ ^b^ ^20^ ^c^ ^a^[**5:15** Mat 10,16; Col 4,5] ^b^[**5:19** Sal 33,2-3; Col 3,16] ^c^[**5:20** 1Tes 5,18] 
 ### Obligaciones de los cónyuges
-^21^ ^a^ ^a^[**5:21** 1Pe 5,5] \ ^22^ ^a^ ^23^ ^b^ ^24^ ^a^[**5:22** 1Tim 2,11; Tit 2,5; Gén 3,16] ^b^[**5:23** 1Cor 11,3; Efes 1,22-23] \ ^27^ ^a^ ^33^ ^a^[**5:27** 2Cor 11,2; Col 1,22] 
+^21^ ^a^ ^a^[**5:21** 1Pe 5,5] \ ^22^ ^a^ ^23^ ^b^ ^24^ ^a^[**5:22** 1Tim 2,11; Tit 2,5; Gén 3,16] ^b^[**5:23** 1Cor 11,3; Efes 1,22-23] \ ^27^ ^a^ ^a^[**5:27** 2Cor 11,2; Col 1,22] \ 
 ## 6
 ^0^ 
 ### Deberes de los niños y los padres
@@ -9410,7 +9426,7 @@
 ### Tanto el testimonio de la muerte de Pablo como su vida continua servirán para glorificar a Cristo
 ^18^ ^a^ ^19^ ^b^ ^20^ ^c^ ^21^ ^d^ ^23^ ^e^ ^26^ ^a^[**1:18** Fil 2,17-18] ^b^[**1:19** 2Cor 1,11] ^c^[**1:20** 1Pe 4,16] ^d^[**1:21** Gal 2,20] ^e^[**1:23** 2Cor 5,8] 
 ### Recordatorio para caminar con dignidad y luchar unánimemente por el mensaje de salvación bajo toda hostilidad externa
-^28^ ^a^ ^30^ ^a^[**1:28** 2Tes 1,5] 
+^28^ ^a^ ^a^[**1:28** 2Tes 1,5] \ 
 ## 2
 ^0^ 
 ### Recordatorio de unidad dentro de la comunidad, de abnegación y voluntad de sufrir según el ejemplo de Cristo
@@ -9418,7 +9434,7 @@
 ### Amonestación a la obediencia voluntaria y a ser completamente serio en el cristianismo
 ^12^ ^a^ ^13^ ^b^ ^a^[**2:12** 1Pe 1,17] ^b^[**2:13** Fil 1,6] \ ^15^ ^a^ ^16^ ^b^ ^17^ ^c^ ^18^ ^d^ ^a^[**2:15** Mat 5,14; Efes 5,8-9; Fil 1,10] ^b^[**2:16** 2Cor 1,14; 1Tes 2,19] ^c^[**2:17** 2Tim 4,6] ^d^[**2:18** Fil 4,4] 
 ### Información sobre la misión prevista de Timoteo y el regreso de Epafrodito
-^20^ ^a^ ^21^ ^b^ ^24^ ^c^ ^a^[**2:20** 1Cor 16,10] ^b^[**2:21** 2Tim 4,10; 2Tim 4,16] ^c^[**2:24** Fil 1,25] \ ^25^ ^a^ ^29^ ^b^ ^30^ ^a^[**2:25** Fil 4,18] ^b^[**2:29** 1Cor 16,16] 
+^20^ ^a^ ^21^ ^b^ ^24^ ^c^ ^a^[**2:20** 1Cor 16,10] ^b^[**2:21** 2Tim 4,10; 2Tim 4,16] ^c^[**2:24** Fil 1,25] \ ^25^ ^a^ ^29^ ^b^ ^a^[**2:25** Fil 4,18] ^b^[**2:29** 1Cor 16,16] \ 
 ## 3
 ^0^ 
 ### Clama al gozo en el Señor; Invalidez de las virtudes externas y justicia de la ley en comparación con el conocimiento de la salvación en Cristo; Advertencia contra los falsos maestros judaístas
@@ -9449,7 +9465,7 @@
 ### Referencia a la bendición que recibieron los colosenses por la predicación del mensaje de salvación; Recordatorio para perseverar
 ^21^ ^a^ ^22^ ^b^ ^23^ ^a^[**1:21** Rom 5,10; Efes 2,12-13; Efes 4,18] ^b^[**1:22** Efes 5,27] 
 ### El llamado de Pablo y su derecho a trabajar como apóstol gentil en la predicación del concilio de salvación de Dios a pesar de todos los sufrimientos y luchas duras
-^26^ ^a^ ^27^ ^b^ ^29^ ^a^[**1:26** Rom 16,25-26; Efes 3,3-6] ^b^[**1:27** 1Tim 1,1] 
+^26^ ^a^ ^27^ ^b^ ^a^[**1:26** Rom 16,25-26; Efes 3,3-6] ^b^[**1:27** 1Tim 1,1] \ 
 ## 2
 ^0^ 
 ### El propósito de la carta, la revelación de un secreto de salvación
@@ -9490,7 +9506,7 @@
 ### Acción de gracias por la recepción voluntaria del mensaje de salvación por parte de la comunidad y alabanza por su constancia en el sufrimiento
 ^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^16^ ^d^ ^a^[**2:13** Gal 1,11-12] ^b^[**2:14** Hech 17,5-6; Hech 8,1] ^c^[**2:15** Mat 23,37; Hech 2,23; Hech 7,52] ^d^[**2:16** Mat 23,32-33] 
 ### Anhelo del apóstol; sus planes de viaje frustrados
-^19^ ^a^ ^20^ ^a^[**2:19** Fil 2,16; Fil 4,1] 
+^19^ ^a^ ^a^[**2:19** Fil 2,16; Fil 4,1] \ 
 ## 3
 ^0^ 
 ### Información sobre la misión de Timoteo y el resultado favorable de su misión; el agradecimiento del apóstol y su deseo de oración
@@ -9502,7 +9518,7 @@
 ### Recordatorio de amor fraternal y trabajo duro y silencioso
 ^9^ ^a^ ^11^ ^b^ ^12^ ^c^ ^a^[**4:9** Juan 13,34; Jer 31,33-34; Lev 19,18] ^b^[**4:11** 1Tes 2,9; Efes 4,28; 2Tes 3,8; 2Tes 3,12] ^c^[**4:12** Col 4,5] 
 ### Sin dolor desesperado por los muertos
-^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^18^ ^a^[**4:13** 1Cor 15,20; Efes 2,12] ^b^[**4:14** Rom 14,9; 1Cor 15,3-4; 1Cor 15,12] ^c^[**4:15** Mat 16,28; Mat 24,30-31; 1Cor 15,51-52; Juan 17,24] 
+^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^a^[**4:13** 1Cor 15,20; Efes 2,12] ^b^[**4:14** Rom 14,9; 1Cor 15,3-4; 1Cor 15,12] ^c^[**4:15** Mat 16,28; Mat 24,30-31; 1Cor 15,51-52; Juan 17,24] \ 
 ## 5
 ^0^ 
 ### Recordatorio de estar alerta y sobrio sobre la incertidumbre del momento del regreso de Cristo
@@ -9574,7 +9590,7 @@
 ### El correcto ejercicio cristiano de la piedad y la bendición que se le prometió
 ^6^ ^a^ ^7^ ^b^ ^8^ ^c^ ^11^ ^a^[**4:6** 2Tim 2,15] ^b^[**4:7** 1Tim 6,20; 2Tim 2,16; 2Tim 2,23; 2Tim 4,4; Tit 1,14; Tit 3,9] ^c^[**4:8** 1Tim 6,6; Heb 13,9] 
 ### Reglas generales para Timoteo, especialmente con respecto a su juventud
-^14^ ^a^ ^16^ ^a^[**4:14** 1Tim 1,18; 1Tim 5,22; Hech 6,6; Hech 8,17; 2Tim 1,6] 
+^14^ ^a^ ^a^[**4:14** 1Tim 1,18; 1Tim 5,22; Hech 6,6; Hech 8,17; 2Tim 1,6] \ 
 ## 5
 ^0^ 
 ### Del correcto comportamiento pastoral hacia las diferentes edades de ambos sexos
@@ -9596,7 +9612,7 @@
 ### Recordatorio para los ricos hermanos
 ^17^ ^a^ ^19^ ^b^ ^a^[**6:17** Sal 62,11; Luc 12,15-21] ^b^[**6:19** Mat 6,20; Luc 16,9] 
 ### Advertencia final contra la herejía
-^20^ ^a^ 
+^20^ ^^ 
 # 55-2 Timoteo.md
 ## 1
 ^0^ 
@@ -9607,7 +9623,7 @@
 ### El regalo de Dios mantiene a Timoteo y Pablo conectados
 ^6^ ^a^ ^7^ ^b^ ^8^ ^c^ ^9^ ^d^ ^10^ ^e^ ^11^ ^f^ ^a^[**1:6** 1Tim 4,14] ^b^[**1:7** Rom 8,15] ^c^[**1:8** Rom 1,16] ^d^[**1:9** Tit 3,5] ^e^[**1:10** 1Cor 15,55; 1Cor 15,57; Heb 2,14] ^f^[**1:11** 1Tim 2,7] 
 ### Referencia al ejemplo del apóstol, la infidelidad de algunos hermanos y el comportamiento glorioso de Onesíforo
-^12^ \ ^13^ ^a^ ^14^ ^b^ ^a^[**1:13** 1Tim 6,3; Tit 2,1] ^b^[**1:14** 1Tim 6,20] \ ^15^ ^a^ ^16^ ^b^ ^18^ ^a^[**1:15** 2Tim 4,16] ^b^[**1:16** 2Tim 4,20] 
+^12^ \ ^13^ ^a^ ^14^ ^b^ ^a^[**1:13** 1Tim 6,3; Tit 2,1] ^b^[**1:14** 1Tim 6,20] \ ^15^ ^a^ ^16^ ^b^ ^a^[**1:15** 2Tim 4,16] ^b^[**1:16** 2Tim 4,20] \ 
 ## 2
 ^0^ 
 ### Exhortación a Timoteo para que se preocupe por la predicación de la doctrina de la salvación y se fortalezca en la batalla y el sufrimiento
@@ -9617,7 +9633,7 @@
 ### Advertencia de verborrea inútil, de cháchara vacía y de falsedades de falsos maestros
 ^14^ ^a^ ^a^[**2:14** 1Tim 6,4; Tit 3,9] \ ^15^ ^a^ ^16^ ^b^ ^17^ ^c^ ^18^ ^a^[**2:15** 1Tim 4,6; Tit 2,7; Tit 1,2-8] ^b^[**2:16** 1Tim 4,7] ^c^[**2:17** 1Tim 1,20] 
 ### La desesperanza de los falsos maestros debido al sólido fundamento de la iglesia puesto por Dios
-^19^ \ ^21^ \ ^22^ ^a^ ^23^ ^b^ ^24^ ^c^ ^26^ ^a^[**2:22** 1Tim 4,12; 1Tim 6,11; Heb 12,14] ^b^[**2:23** 1Tim 4,7] ^c^[**2:24** Tit 1,7] 
+^19^ \ ^21^ \ ^22^ ^a^ ^23^ ^b^ ^24^ ^c^ ^a^[**2:22** 1Tim 4,12; 1Tim 6,11; Heb 12,14] ^b^[**2:23** 1Tim 4,7] ^c^[**2:24** Tit 1,7] \ 
 ## 3
 ^0^ 
 ### Descripción de los futuros falsos maestros y la corrupción moral del último tiempo
@@ -9665,7 +9681,7 @@
 ### Defensa de Onésimo
 ^10^ ^a^ ^14^ ^b^ ^20^ ^a^[**1:10** Gal 4,19; 1Cor 4,15] ^b^[**1:14** 2Cor 9,7] 
 ### Cierre de cartas, anuncio de visita, saludos y bendiciones
-^22^ ^a^ 
+^22^ ^^ 
 # 58-Hebreos.md
 ## 1
 ^0^ 
@@ -9690,7 +9706,7 @@
 ### La advertencia del salmista contra la incredulidad y la apostasía
 ^7^ ^a^ ^8^ ^b^ ^11^ ^a^[**3:7** Heb 4,7] ^b^[**3:8** Éxod 17,7; Núm 20,2-5] \ ^13^ ^a^ ^a^[**3:13** 1Tes 5,11] 
 ### El ejemplo de advertencia de los israelitas en el desierto
-^14^ ^a^ ^15^ ^a^[**3:14** Heb 6,11] \ ^17^ ^a^ ^19^ ^a^[**3:17** Núm 14,29; 1Cor 10,10] 
+^14^ ^a^ ^15^ ^a^[**3:14** Heb 6,11] \ ^17^ ^a^ ^a^[**3:17** Núm 14,29; 1Cor 10,10] \ 
 ## 4
 ^0^ 
 ### Interpretación de la promesa del salmo sobre el resto del pueblo de Dios
@@ -9704,7 +9720,7 @@
 ### Con Cristo se encuentran los requisitos necesarios del sumo sacerdote sugeridos en Melquisedec
 ^4^ ^a^ ^5^ ^a^[**5:4** Éxod 28,1] \ ^6^ \ ^7^ ^a^ ^8^ ^b^ ^10^ ^c^ ^a^[**5:7** Mat 26,39-46] ^b^[**5:8** Fil 2,8] ^c^[**5:10** Heb 7,-1] 
 ### Quejarse de la inmadurez, la indolencia intelectual y el atraso de los lectores
-^13^ ^a^ ^14^ ^a^[**5:13** Efes 4,14] 
+^13^ ^a^ ^a^[**5:13** Efes 4,14] \ 
 ## 6
 ^0^ 
 ### Es una cuestión de progreso; La recaída es peligrosa y puede provocar daños incurables
@@ -9724,7 +9740,7 @@
 ### La razón del cambio en el orden de los sacerdotes es que Jesús debería ser el garante de un pacto superior
 ^21^ \ ^22^ ^a^ ^a^[**7:22** Heb 8,6; Heb 12,24] \ ^25^ 
 ### Jesús como el sumo sacerdote perfecto y eterno
-^27^ ^a^ ^28^ ^a^[**7:27** Lev 16,6; Lev 16,15] 
+^27^ ^a^ ^a^[**7:27** Lev 16,6; Lev 16,15] \ 
 ## 8
 ^0^ 
 ### La superioridad del ministerio sumo sacerdotal celestial de Jesús y el nuevo pacto del que él es mediador
@@ -9799,7 +9815,7 @@
 ### Sea no solo un oyente, sino también un hacedor de la palabra
 ^19^ ^a^ ^20^ ^b^ ^21^ ^c^ ^a^[**1:19** Prov 29,20; Ecl 5,1-2; Ecl 7,9] ^b^[**1:20** Prov 29,22; Efes 4,26] ^c^[**1:21** 1Pe 2,1] \ ^22^ ^a^ ^25^ ^b^ ^a^[**1:22** Mat 7,26; Rom 2,13] ^b^[**1:25** Sant 2,12; Rom 8,2; Juan 13,17] 
 ### Algunos ejemplos de cómo hacer los trabajos correctos
-^26^ ^a^ ^27^ ^a^[**1:26** 1Pe 3,10] 
+^26^ ^a^ ^a^[**1:26** 1Pe 3,10] \ 
 ## 2
 ^0^ 
 ### Cuidado con la reputación de la persona, especialmente de los pobres
@@ -9809,7 +9825,7 @@
 ### La fe sin obras está muerta e inútil; la verdadera fe se muestra en la abnegación y en las buenas obras
 ^14^ ^a^ ^16^ ^b^ ^18^ ^a^[**2:14** Mat 7,21] ^b^[**2:16** 1Jn 3,18] \ ^20^ 
 ### Dos ejemplos del Antiguo Testamento como evidencia bíblica de las obras que conducen a la consumación de la fe
-^21^ ^a^ ^26^ ^a^[**2:21** Gén 22,-1; Heb 11,17] 
+^21^ ^a^ ^a^[**2:21** Gén 22,-1; Heb 11,17] \ 
 ## 3
 ^0^ 
 ### Advertencia contra las prisas no solicitadas para enseñar y contra los pecados de la lengua
@@ -9829,7 +9845,7 @@
 ### Exhortación a los creyentes a perseverar con paciencia en vista del inminente regreso del Señor
 ^7^ ^a^ ^8^ ^a^[**5:7** Luc 21,19; Heb 10,36] \ ^11^ ^a^ ^a^[**5:11** Job 1,21; Job 42,10-16] 
 ### Advertencias finales sobre el juramento y la oración, sobre el comportamiento hacia la alegría y el dolor, en la enfermedad y contra los descarriados
-^12^ ^a^ ^a^[**5:12** Mat 5,34-37] \ ^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^16^ ^d^ ^17^ ^e^ ^18^ ^f^ ^a^[**5:13** Sal 50,15; Col 3,16] ^b^[**5:14** Mar 6,13] ^c^[**5:15** Mar 16,18] ^d^[**5:16** Hech 12,5] ^e^[**5:17** 1Re 17,1; Luc 4,25] ^f^[**5:18** 1Re 18,41-45] \ ^19^ ^a^ 
+^12^ ^a^ ^a^[**5:12** Mat 5,34-37] \ ^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^16^ ^d^ ^17^ ^e^ ^18^ ^f^ ^a^[**5:13** Sal 50,15; Col 3,16] ^b^[**5:14** Mar 6,13] ^c^[**5:15** Mar 16,18] ^d^[**5:16** Hech 12,5] ^e^[**5:17** 1Re 17,1; Luc 4,25] ^f^[**5:18** 1Re 18,41-45] \ ^19^ ^^ 
 # 60-1 Pedro.md
 ## 1
 ^0^ 
@@ -9842,7 +9858,7 @@
 ### Camine en santo temor de Dios con gozosa confianza en la salvación que se logra mediante la redención y con la esperanza de gloria
 ^13^ ^a^ ^14^ ^b^ ^16^ ^a^[**1:13** Luc 12,35-36] ^b^[**1:14** Rom 12,2] \ ^17^ ^a^ ^18^ ^b^ ^19^ ^c^ ^20^ ^d^ ^21^ ^a^[**1:17** Rom 2,11; Fil 2,12] ^b^[**1:18** 1Cor 6,20; 1Cor 7,23; 1Pe 4,3] ^c^[**1:19** Juan 1,29; Is 53,7; Heb 9,14] ^d^[**1:20** Rom 16,25-26] 
 ### Camine dentro de la iglesia en puro amor fraternal y digno de la nueva vida que se le ha dado
-^23^ ^a^ ^24^ ^b^ ^25^ ^a^[**1:23** Juan 1,13; Juan 3,5; Sant 1,18] ^b^[**1:24** Sant 1,10; Sant 1,1-11] 
+^23^ ^a^ ^24^ ^b^ ^a^[**1:23** Juan 1,13; Juan 3,5; Sant 1,18] ^b^[**1:24** Sant 1,10; Sant 1,1-11] \ 
 ## 2
 ^0^ 
 ### Procedan en la santificación y edifíquense como piedras vivas sobre Cristo, la piedra angular, para un pueblo espiritual de sacerdotes
@@ -9907,7 +9923,7 @@
 ### Referencia a la ocurrencia repentina y el temor del fin del mundo; Un nuevo mundo emerge
 ^10^ ^a^ ^13^ ^a^[**3:10** 1Tes 5,23; Mat 24,29; Apoc 20,11] 
 ### Zusammenfassende Schlußmahnung mit Bezugnahme auf die Briefe des Paulus
-^14^ ^a^ 
+^14^ ^^ 
 # 62-1 Juan.md
 ## 1
 ^0^ 
@@ -10001,7 +10017,7 @@
 ^4^ ^a^ ^5^ ^b^ ^6^ ^c^ ^a^[**1:4** Éxod 3,14-15; Apoc 3,1; Apoc 5,6] ^b^[**1:5** Apoc 3,14; Juan 18,37; 1Tim 6,13; Col 1,18] ^c^[**1:6** Apoc 5,10; 1Pe 2,5; 1Pe 2,9; Éxod 19,6] 
 ### Resumen: Anuncio de la venida de Jesús al juicio
 ^7^ ^a^ ^a^[**1:7** Mat 24,30; Zac 12,10; Juan 19,37] \ ^8^ ^a^ ^a^[**1:8** Is 41,4; Apoc 4,8; Apoc 21,6] 
-### La primera vista (en Patmos) de las siete estrellas y los siete candeleros: Cómo está preparado el Señor para venir a su cristianismo; Llamar a John para que escriba las visiones
+### Las siete estrellas y los siete candeleros
 ^11^ \ ^14^ ^a^ ^17^ ^a^[**1:14** Dan 7,9; Apoc 2,18; Apoc 19,12] \ 
 ## 2
 ^0^ 
@@ -10012,7 +10028,7 @@
 ### Carta a la parroquia de Pérgamo: “¡No sigas al mundo vanidoso!”
 ^12^ ^a^ ^a^[**2:12** Heb 4,12] \ ^14^ ^a^ ^17^ ^a^[**2:14** Núm 31,16; Jds 1,11; 2Pe 2,15] 
 ### Carta a la iglesia de Tiatira: “¡Examina sabiamente todo espíritu!”
-^18^ ^a^ ^a^[**2:18** Hech 16,14; Apoc 1,14-15] \ ^23^ ^a^ ^27^ ^b^ ^29^ ^a^[**2:23** Sal 7,10; Jer 17,10] ^b^[**2:27** Sal 2,8-9] 
+^18^ ^a^ ^a^[**2:18** Hech 16,14; Apoc 1,14-15] \ ^23^ ^a^ ^27^ ^b^ ^a^[**2:23** Sal 7,10; Jer 17,10] ^b^[**2:27** Sal 2,8-9] \ 
 ## 3
 ^0^ 
 ### Carta a la comunidad de Sardis: “¡No estés muerto como los demás!”
@@ -10020,7 +10036,7 @@
 ### Carta a la Iglesia de Filadelfia: “¡Aférrate a tu corona!”
 ^7^ ^a^ ^a^[**3:7** Is 22,22] \ ^10^ ^a^ ^11^ ^b^ ^12^ ^c^ ^13^ ^a^[**3:10** Apoc 14,12; Mat 6,13] ^b^[**3:11** Apoc 2,10] ^c^[**3:12** Apoc 14,1; Apoc 22,4; Apoc 21,2] 
 ### Carta a la congregación de Laodicea: “¡No seas tibio y lento para encontrarte!”
-^14^ \ ^17^ ^a^ ^18^ ^b^ ^19^ ^c^ ^20^ ^d^ ^21^ ^e^ ^22^ ^a^[**3:17** 1Cor 3,18; 1Cor 4,8] ^b^[**3:18** Is 55,1] ^c^[**3:19** Prov 3,12; Heb 12,6; 1Cor 11,32] ^d^[**3:20** Juan 14,23] ^e^[**3:21** Mat 19,28] 
+^14^ \ ^17^ ^a^ ^18^ ^b^ ^19^ ^c^ ^20^ ^d^ ^21^ ^e^ ^a^[**3:17** 1Cor 3,18; 1Cor 4,8] ^b^[**3:18** Is 55,1] ^c^[**3:19** Prov 3,12; Heb 12,6; 1Cor 11,32] ^d^[**3:20** Juan 14,23] ^e^[**3:21** Mat 19,28] \ 
 ## 4
 ^0^ 
 ### Dios el Padre y el concilio celestial en el salón del trono de Dios
@@ -10041,24 +10057,24 @@
 ^13^ ^a^ ^16^ ^b^ ^17^ ^c^ ^a^[**6:13** Is 34,4] ^b^[**6:16** Luc 23,30] ^c^[**6:17** Am 5,18; Rom 2,5; Mal 3,2] 
 ## 7
 ^0^ 
-### El sellamiento de una selección (de 144.000 de las doce tribus de Israel)
+### El sellamiento de una selección, de 144.000 de las doce tribus de Israel
 ^1^ ^a^ ^4^ ^b^ ^8^ ^a^[**7:1** Dan 7,2] ^b^[**7:4** Apoc 14,1; Apoc 14,3] 
 ### El homenaje a las innumerables, probadas y probadas almas creyentes de todos los pueblos ante el trono de Dios, que han salido de la gran tribulación
 ^10^ \ ^12^ \ ^13^ \ ^14^ \ ^16^ ^a^ ^17^ ^b^ ^a^[**7:16** Is 49,10] ^b^[**7:17** Sal 23,2; Apoc 21,4; Is 25,8] 
 ## 8
 ^0^ 
-### La solución del séptimo sello y el silencio en el cielo (presentando los juicios de las trompetas)
+### La solución del séptimo sello y el silencio en el cielo, presentando los juicios de las trompetas
 ^1^ ^a^ ^2^ ^b^ ^a^[**8:1** Zac 2,17; Hab 2,20] ^b^[**8:2** Mat 24,31] \ ^4^ ^a^ ^5^ ^b^ ^a^[**8:4** Sal 141,2] ^b^[**8:5** Ezeq 10,2] \ ^6^ 
-### Las primeras cuatro trompetas (es decir, las plagas que vienen de arriba)
+### Las primeras cuatro trompetas, es decir, las plagas que vienen de arriba
 ^7^ ^a^ ^a^[**8:7** Éxod 9,23-26] \ ^8^ ^a^ ^9^ ^a^[**8:8** Éxod 7,20-21] \ ^10^ ^a^ ^11^ ^a^[**8:10** Is 14,12] \ ^12^ 
-### La primera llamada del águila y la quinta y sexta trompetas (las dos plagas que vienen de abajo, es decir, del infierno)
+### La primera llamada del águila y la quinta y sexta trompetas, las dos plagas que vienen de abajo, es decir, del infierno
 
 ## 9
 ^0^ 
 ### La quinta trompeta o el primer ay
 ^2^ ^a^ ^6^ ^b^ ^a^[**9:2** Jl 2,2; Jl 2,10] ^b^[**9:6** Apoc 6,16] \ ^11^ \ ^12^ 
 ### La sexta trompeta o el segundo ay
-^14^ ^a^ ^a^[**9:14** Apoc 16,12] \ ^15^ ^a^ ^19^ ^a^[**9:15** Apoc 8,-1] \ ^20^ ^a^ ^21^ ^a^[**9:20** Apoc 16,9] 
+^14^ ^a^ ^a^[**9:14** Apoc 16,12] \ ^15^ ^a^ ^19^ ^a^[**9:15** Apoc 8,-1] \ ^20^ ^a^ ^a^[**9:20** Apoc 16,9] \ 
 ## 10
 ^0^ 
 ### Un ángel sostiene un libro abierto y jura
@@ -10112,7 +10128,7 @@
 ### Descripción del animal de siete cabezas y diez cuernos, así como su destino pasado y futuro
 ^8^ \ ^12^ ^a^ ^14^ ^a^[**17:12** Apoc 13,1] 
 ### Interpretación de la imagen
-^15^ ^a^ ^18^ ^a^[**17:15** Is 8,7; Jer 47,2] 
+^15^ ^a^ ^a^[**17:15** Is 8,7; Jer 47,2] \ 
 ## 18
 ^0^ 
 ### Anuncio del juicio que cae sobre Babilonia; La primera llamada del ángel
@@ -10130,21 +10146,21 @@
 ### El júbilo en el cielo por la caída de Babilonia; la próxima boda del Cordero
 ^2^ \ ^3^ ^a^ ^4^ ^b^ ^a^[**19:3** Is 34,10] ^b^[**19:4** Apoc 4,4; Apoc 4,6; Apoc 5,11; Sal 106,48] \ ^5^ \ ^7^ ^a^ ^8^ ^b^ ^a^[**19:7** Apoc 21,9] ^b^[**19:8** Is 61,10] \ ^9^ \ ^10^ ^a^ ^a^[**19:10** Apoc 22,8-9] 
 ### La batalla del Mesías; la destrucción de la bestia y sus seguidores, es decir, todos los ejércitos o pueblos hostiles
-^11^ ^a^ ^12^ ^b^ ^13^ ^c^ ^14^ ^d^ ^15^ ^e^ ^16^ ^f^ ^a^[**19:11** Apoc 3,14; Mat 24,30; Is 11,4-5] ^b^[**19:12** Apoc 1,14; Apoc 3,12] ^c^[**19:13** Is 63,1-2; Juan 1,1] ^d^[**19:14** Apoc 17,14] ^e^[**19:15** Sal 2,9; Apoc 14,19-20] ^f^[**19:16** Apoc 1,5; 1Tim 6,15] \ ^17^ ^a^ ^19^ ^b^ ^20^ ^c^ ^21^ ^a^[**19:17** Ezeq 39,4; Ezeq 39,17-20] ^b^[**19:19** Apoc 16,14; Apoc 16,16] ^c^[**19:20** 2Tes 2,8; Apoc 13,11-17] 
+^11^ ^a^ ^12^ ^b^ ^13^ ^c^ ^14^ ^d^ ^15^ ^e^ ^16^ ^f^ ^a^[**19:11** Apoc 3,14; Mat 24,30; Is 11,4-5] ^b^[**19:12** Apoc 1,14; Apoc 3,12] ^c^[**19:13** Is 63,1-2; Juan 1,1] ^d^[**19:14** Apoc 17,14] ^e^[**19:15** Sal 2,9; Apoc 14,19-20] ^f^[**19:16** Apoc 1,5; 1Tim 6,15] \ ^17^ ^a^ ^19^ ^b^ ^20^ ^c^ ^a^[**19:17** Ezeq 39,4; Ezeq 39,17-20] ^b^[**19:19** Apoc 16,14; Apoc 16,16] ^c^[**19:20** 2Tes 2,8; Apoc 13,11-17] \ 
 ## 20
 ^0^ 
 ### Encadenamiento de Satanás; la primera resurrección y el reino milenario de paz
 ^1^ ^a^ ^2^ ^b^ ^3^ ^a^[**20:1** Apoc 9,1] ^b^[**20:2** Apoc 12,9] \ ^4^ ^a^ ^5^ ^b^ ^6^ ^a^[**20:4** Apoc 3,21; Mat 19,28; 1Cor 6,2] ^b^[**20:5** 1Tes 4,16] 
 ### Gog y Magog; aparición final y aniquilación eterna de Satanás y sus huestes
 ^8^ ^a^ ^10^ ^a^[**20:8** Ezeq 38,2] 
-### La segunda resurrección (general) y el juicio final
-^11^ ^a^ ^12^ ^b^ ^14^ ^c^ ^15^ ^a^[**20:11** Mat 25,31-46; 2Pe 3,7; 2Pe 3,10; 2Pe 3,12] ^b^[**20:12** Juan 5,28-29] ^c^[**20:14** 1Cor 15,26; 1Cor 15,55] 
+### La segunda resurrección y el juicio final
+^11^ ^a^ ^12^ ^b^ ^14^ ^c^ ^a^[**20:11** Mat 25,31-46; 2Pe 3,7; 2Pe 3,10; 2Pe 3,12] ^b^[**20:12** Juan 5,28-29] ^c^[**20:14** 1Cor 15,26; 1Cor 15,55] \ 
 ## 21
 ^1^ 
 ### La nueva Jerusalén como morada de Dios con el pueblo y la promesa y el juicio de Dios
 ^2^ ^a^ ^3^ ^b^ ^4^ ^c^ ^a^[**21:2** Heb 12,22; Gal 4,26; Apoc 19,7-8] ^b^[**21:3** Ezeq 37,26-27] ^c^[**21:4** Apoc 7,17; Is 25,8; Is 35,10] \ ^8^ 
 ### La descripción de la nueva Jerusalén
-^9^ ^a^ ^14^ ^a^[**21:9** Apoc 15,1; Apoc 15,6-7; Apoc 19,7] \ ^15^ ^a^ ^21^ ^a^[**21:15** Ezeq 40,3] \ ^23^ ^a^ ^27^ ^a^[**21:23** Is 60,3; Is 60,5; Is 60,11; Is 60,19-20] 
+^9^ ^a^ ^14^ ^a^[**21:9** Apoc 15,1; Apoc 15,6-7; Apoc 19,7] \ ^15^ ^a^ ^21^ ^a^[**21:15** Ezeq 40,3] \ ^23^ ^a^ ^a^[**21:23** Is 60,3; Is 60,5; Is 60,11; Is 60,19-20] \ 
 ## 22
 ^0^ 
 ### La corriente de la vida, los árboles de la vida, la comunión plena con Dios y el reino eterno de la luz

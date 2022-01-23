@@ -21,8 +21,8 @@ Le dije: “Soy amalecita”.
 
 ^10^ Así que me acerqué a él y lo maté, porque sabía que, herido como estaba, no aguantaría mucho tiempo. Le quité la corona de la cabeza y el brazalete del brazo, y te los he traído aquí, mi señor”. 
 
-^11^ Entonces David se agarró su ropa y la rasgó,^^ así como lo habían hecho sus hombres. ^12^ Se lamentaron, lloraron y ayunaron hasta la noche por Saúl y su hijo Jonatán, y por el ejército del Señor, los israelitas, que habían muerto a espada. 
-^[**1:11** Una señal de emoción extrema, generalmente de dolor.]
+^11^ Entonces David se agarró su ropa y la rasgó,^a^ así como lo habían hecho sus hombres. ^12^ Se lamentaron, lloraron y ayunaron hasta la noche por Saúl y su hijo Jonatán, y por el ejército del Señor, los israelitas, que habían muerto a espada. 
+^a^[**1:11** Una señal de emoción extrema, generalmente de dolor.]
 
 ^13^ David preguntó al hombre que le trajo el informe: “¿De dónde eres?” 
 
@@ -36,8 +36,8 @@ Le dije: “Soy amalecita”.
 
 ^17^ Entonces David cantó este lamento por Saúl y su hijo Jonatán. ^18^ Ordenó que se enseñara al pueblo de Judá. Se llama “el Arco” y está registrado en el Libro de los Justos: 
 
-^19^ “Israel, el glorioso yace muerto en tus montañas. ¡Cómo han caído los poderosos! ^20^ No lo anuncies en la ciudad de Gat, no lo proclames en las calles de Ascalón, para que las mujeres filisteas no se alegren, para que las mujeres paganas no lo celebren. ^21^ ¡Montes de Gilboa, que no caiga rocío ni lluvia sobre ustedes! Que no tengas campos que produzcan ofrendas de grano. Porque allí fue profanado el escudo de los poderosos; el escudo de Saúl, ya no se cuida con aceite de oliva.^^ ^22^ Jonatán con su arco no se retiró de atacar al enemigo; Saúl con su espada no regresó con las manos vacías de derramar sangre. ^23^ Durante su vida, Saúl y Jonatán fueron muy queridos y agradables, y la muerte no los dividió. Eran más rápidos que las águilas, más fuertes que los leones. ^24^ Mujeres de Israel, lloren por Saúl, que les ha dado ropas finas de color escarlata adornadas con adornos de oro. ^25^ ¡Cómo han caído los poderosos en la batalla! Jonatán yace muerto en vuestros montes. ^26^ ¡Lloro tanto por ti, hermano mío Jonatán! ¡Eras tan querido para mí! Tu amor por mí era tan maravilloso, más grande que el amor de las mujeres. ^27^ ¡Cómo han caído los poderosos! ¡Las armas de la guerra han desaparecido!”
-^[**1:21** El escudo de Saúl sería ritualmente profanado por la sangre, y ya no se cuidaría con aplicaciones regulares de aceite de oliva.] 
+^19^ “Israel, el glorioso yace muerto en tus montañas. ¡Cómo han caído los poderosos! ^20^ No lo anuncies en la ciudad de Gat, no lo proclames en las calles de Ascalón, para que las mujeres filisteas no se alegren, para que las mujeres paganas no lo celebren. ^21^ ¡Montes de Gilboa, que no caiga rocío ni lluvia sobre ustedes! Que no tengas campos que produzcan ofrendas de grano. Porque allí fue profanado el escudo de los poderosos; el escudo de Saúl, ya no se cuida con aceite de oliva.^a^ ^22^ Jonatán con su arco no se retiró de atacar al enemigo; Saúl con su espada no regresó con las manos vacías de derramar sangre. ^23^ Durante su vida, Saúl y Jonatán fueron muy queridos y agradables, y la muerte no los dividió. Eran más rápidos que las águilas, más fuertes que los leones. ^24^ Mujeres de Israel, lloren por Saúl, que les ha dado ropas finas de color escarlata adornadas con adornos de oro. ^25^ ¡Cómo han caído los poderosos en la batalla! Jonatán yace muerto en vuestros montes. ^26^ ¡Lloro tanto por ti, hermano mío Jonatán! ¡Eras tan querido para mí! Tu amor por mí era tan maravilloso, más grande que el amor de las mujeres. ^27^ ¡Cómo han caído los poderosos! ¡Las armas de la guerra han desaparecido!”
+^a^[**1:21** El escudo de Saúl sería ritualmente profanado por la sangre, y ya no se cuidaría con aplicaciones regulares de aceite de oliva.] 
 
 # 2 
 ^1^ Algún tiempo después de esto, David le preguntó al Señor: “¿Debo ir a una de las ciudades de Judá?”. 
@@ -50,8 +50,8 @@ Le dije: “Soy amalecita”.
 
 ^2^ Así que David se trasladó allí con sus dos esposas, Ahinoam, de Jezreel, y Abigail, la viuda de Nabal, de Carmel. ^3^ También trajo a los hombres que estaban con él, junto con sus familias, y se instalaron en las aldeas cercanas a Hebrón. ^4^ Entonces los hombres de Judá llegaron a Hebrón, y allí ungieron a David como rey del pueblo de Judá. Cuando David se enteró de que eran los hombres de Jabes de Galaad los que habían enterrado a Saúl, ^5^ les envió mensajeros, diciendo: “Que el Señor los bendiga, porque demostraron su amor leal a Saúl, su amo, y lo enterraron debidamente. ^6^ Que el Señor les demuestre amor leal y confianza, y yo también seré bueno con ustedes por lo que hicieron por Saúl. ^7^ Así que sé fuerte y valiente, porque aunque Saúl, tu amo, ha muerto, el pueblo de Judá me ha ungido como su rey.” 
 
-^8^ Sin embargo, Abner, hijo de Ner, comandante del ejército de Saúl, había tomado a Isboset,^^ hijo de Saúl, a Mahanaim. ^9^ Allí puso a Isboset como rey sobre Galaad, Aser, Jezreel, Efraín y Benjamín, de hecho sobre todo Israel. 
-^[**2:8** Isboset. Es muy improbable que se le llamara así en su cara. Se le identifica como “Eshbaal” en 1 Crónicas 8:33 y 1 Crónicas 9:39, que significa “hombre de Baal”. Sin embargo, al escritor de este relato le pareció intolerable que el nombre del rey incluyera una referencia al dios pagano “Baal”, por lo que modificó el nombre a Isboset, que significa “hombre de la vergüenza.”]
+^8^ Sin embargo, Abner, hijo de Ner, comandante del ejército de Saúl, había tomado a Isboset,^a^ hijo de Saúl, a Mahanaim. ^9^ Allí puso a Isboset como rey sobre Galaad, Aser, Jezreel, Efraín y Benjamín, de hecho sobre todo Israel. 
+^a^[**2:8** Isboset. Es muy improbable que se le llamara así en su cara. Se le identifica como “Eshbaal” en 1 Crónicas 8:33 y 1 Crónicas 9:39, que significa “hombre de Baal”. Sin embargo, al escritor de este relato le pareció intolerable que el nombre del rey incluyera una referencia al dios pagano “Baal”, por lo que modificó el nombre a Isboset, que significa “hombre de la vergüenza.”]
 
 ^10^ Isboset, hijo de Saúl, tenía cuarenta años cuando se convirtió en rey de Israel, y reinó durante dos años. Sin embargo, el pueblo de Judá estaba del lado de David. ^11^ David gobernó en Hebrón como rey del pueblo de Judá durante siete años y seis meses. 
 
@@ -65,18 +65,18 @@ Le dije: “Soy amalecita”.
 
 ^17^ La batalla que siguió fue muy reñida, pero finalmente Abner y sus hombres fueron derrotados por los de David. 
 
-^18^ Los tres hijos de Sarvia estaban allí: Joab, Abisai y Asael. Asael era un corredor rápido, como una gacela que corre por el campo. ^19^ Persiguió a Abner con una determinación absoluta.^^ ^20^ Abner miró hacia atrás y preguntó: “¿Eres tú, Asahel?” 
-^[**2:19** “Determinación absoluta”: literalmente, “no girar a la derecha ni a la izquierda”.]
+^18^ Los tres hijos de Sarvia estaban allí: Joab, Abisai y Asael. Asael era un corredor rápido, como una gacela que corre por el campo. ^19^ Persiguió a Abner con una determinación absoluta.^a^ ^20^ Abner miró hacia atrás y preguntó: “¿Eres tú, Asahel?” 
+^a^[**2:19** “Determinación absoluta”: literalmente, “no girar a la derecha ni a la izquierda”.]
 
 “Sí, soy yo”, respondió Asahel. 
 
 ^21^ Abner le dijo: “¡Déjame en paz! Ve a pelear con otro y toma sus armas para ti”. Pero Asahel se negó a dejar de perseguirlo. 
 
-^22^ Abner volvió a advertir a Asahel. “¡Deja de perseguirme!”, le gritó. “¿Por qué quieres que te mate? ¿Cómo podría enfrentarme a tu hermano Joab?” ^23^ BPero Asahel no dejaba de perseguirlo, así que Abner le clavó el mango^^ de su lanza en el vientre. Salió por la espalda, y cayó muerto allí mismo. Todos los que pasaban se detenían en el lugar donde Asahel había caído muerto. 
-^[**2:23** El mango solía estar afilado en punta para poder clavarlo en el suelo.]
+^22^ Abner volvió a advertir a Asahel. “¡Deja de perseguirme!”, le gritó. “¿Por qué quieres que te mate? ¿Cómo podría enfrentarme a tu hermano Joab?” ^23^ BPero Asahel no dejaba de perseguirlo, así que Abner le clavó el mango^a^ de su lanza en el vientre. Salió por la espalda, y cayó muerto allí mismo. Todos los que pasaban se detenían en el lugar donde Asahel había caído muerto. 
+^a^[**2:23** El mango solía estar afilado en punta para poder clavarlo en el suelo.]
 
-^24^ Pero Joab y Abisá^^ se pusieron a perseguir a Abner. Cuando se puso el sol, llegaron hasta la colina de Amma, cerca de Giah, en el camino hacia el desierto de Gabaón. ^25^ Los hombres de Abner, de la tribu de Benjamín, se unieron a él y formaron un grupo compacto a su alrededor, de pie en la cima de la colina. 
-^[**2:24** Joab y Abisai eran hermanos de Asahel.]
+^24^ Pero Joab y Abisá^a^ se pusieron a perseguir a Abner. Cuando se puso el sol, llegaron hasta la colina de Amma, cerca de Giah, en el camino hacia el desierto de Gabaón. ^25^ Los hombres de Abner, de la tribu de Benjamín, se unieron a él y formaron un grupo compacto a su alrededor, de pie en la cima de la colina. 
+^a^[**2:24** Joab y Abisai eran hermanos de Asahel.]
 
 ^26^ Abner le gritó a Joab “¿Tenemos que seguir matándonos para siempre? ¿No te das cuenta de que si seguimos así sólo será peor? ¿Cuánto tiempo vas a esperar antes de ordenar a tus hombres que dejen de perseguir a sus hermanos?” 
 
@@ -113,8 +113,8 @@ Le dije: “Soy amalecita”.
 
 ^26^ Cuando Joab salió de la presencia de David, envió mensajeros tras Abner. Lo encontraron en el pozo de Sira y lo trajeron de vuelta, pero David no sabía nada al respecto. ^27^ Cuando Abner regresó a Hebrón, Joab lo llevó aparte a la puerta de la ciudad, como si fuera a hablar con él en privado. Pero Joab lo apuñaló en el vientre, matándolo en venganza por haber matado a Asael, el hermano de Joab. 
 
-^28^ Y cuando David se enteró de esto, dijo: “¡Yo y mi reino somos totalmente inocentes ante el Señor en lo que respecta a la muerte de Abner, hijo de Ner! ^29^ Que la culpa de su muerte caiga sobre Joab y su familia. Que los descendientes de Joab siempre tengan a alguien que tenga llagas, o lepra, o esté lisiado^^ o que lo maten a espada, o que se muera de hambre.” 
-^[**3:29** “Lisiado”: siguiendo la lectura de la Septuaginta que sugiere que una persona así siempre tiene que apoyarse en una muleta.]
+^28^ Y cuando David se enteró de esto, dijo: “¡Yo y mi reino somos totalmente inocentes ante el Señor en lo que respecta a la muerte de Abner, hijo de Ner! ^29^ Que la culpa de su muerte caiga sobre Joab y su familia. Que los descendientes de Joab siempre tengan a alguien que tenga llagas, o lepra, o esté lisiado^a^ o que lo maten a espada, o que se muera de hambre.” 
+^a^[**3:29** “Lisiado”: siguiendo la lectura de la Septuaginta que sugiere que una persona así siempre tiene que apoyarse en una muleta.]
 
 ^30^ (Por eso Joab y su hermano Abisai mataron a Abner, porque éste había matado a su hermano Asael durante la batalla de Gabaón). 
 
@@ -129,17 +129,16 @@ Le dije: “Soy amalecita”.
 ^38^ Entonces el rey dijo a sus oficiales: “¿No reconocen que hoy ha caído en Israel un comandante y un hombre verdaderamente grande? ^39^ En este momento soy débil, a pesar de haber sido ungido como rey, y estos hombres, los hijos de Sarvia, son demasiado poderosos para mí. Pero que el Señor pague al hombre malo según el mal que haya hecho.” 
 
 # 4 
-^1^ Cuando Isboset,^^ hijo de Saúl, supo que Abner había muerto en Hebrón, sintió gran desánimo,^^ y todos en Israel estaban consternados. 
-^[**4:1** Tanto aquí como en el versículo 2, se hace referencia a Isboset simplemente como “hijo de Saúl”. No se da su nombre.]
-^[**4:1** “Sintió gran desánimo”: literalmente, “sus manos colgaban sin fuerza.”]
+^1^ Cuando Isboset,^a^ hijo de Saúl, supo que Abner había muerto en Hebrón, sintió gran desánimo,^b^ y todos en Israel estaban consternados. 
+^a^[**4:1** Tanto aquí como en el versículo 2, se hace referencia a Isboset simplemente como “hijo de Saúl”. No se da su nombre.] ^b^[**4:1** “Sintió gran desánimo”: literalmente, “sus manos colgaban sin fuerza.”]
 
 ^2^ Isboset tenía dos comandantes de sus bandas de asalto. Eran hermanos y sus nombres eran Baná y Recab. Eran hijos de Rimón, de la tribu de Benjamín, de la ciudad de Berot. Berot se considera parte del territorio de Benjamín, ^3^ porque el pueblo que había vivido en Berot antes huyó a Guitayin y han vivido allí como extranjeros hasta el presente. 
 
-^4^ Jonatán, hijo de Saúl, tenía un hijo que era cojo de ambos pies. Cuando el niño tenía cinco años, llegó de Jezreel la noticia de la muerte de Saúl y Jonatán. Su nodriza lo había recogido y había salido corriendo con él para huir. Pero mientras corría, el niño se cayó y quedó cojo. Su nombre era Mefi-boset.^^ 
-^[**4:4** Mefi-boset. Su nombre se da como “Meribaal” en 1 Crónicas 8:34 y 1 Crónicas 9:40. El nombre aquí refleja la reticencia del escritor a utilizar el nombre de un dios pagano en el nombre de uno de los reyes de Israel. Véase la nota a pie de página de 2:8.]
+^4^ Jonatán, hijo de Saúl, tenía un hijo que era cojo de ambos pies. Cuando el niño tenía cinco años, llegó de Jezreel la noticia de la muerte de Saúl y Jonatán. Su nodriza lo había recogido y había salido corriendo con él para huir. Pero mientras corría, el niño se cayó y quedó cojo. Su nombre era Mefi-boset.^a^ 
+^a^[**4:4** Mefi-boset. Su nombre se da como “Meribaal” en 1 Crónicas 8:34 y 1 Crónicas 9:40. El nombre aquí refleja la reticencia del escritor a utilizar el nombre de un dios pagano en el nombre de uno de los reyes de Israel. Véase la nota a pie de página de 2:8.]
 
-^5^ Recab y Baná, hijos de Rimón de Berot, se dirigieron a la casa de Isboset, llegando con el calor del día, cuando el rey estaba tomando su descanso de mediodía. ^6^ La portera había estado limpiando el trigo, pero se había cansado y se había quedado dormida, así que Recab y Baná pudieron entrar sin que se dieran cuenta.^^ ^7^ Entraron en la casa mientras Isboset dormía en su habitación. Después de apuñalarlo y matarlo, le cortaron la cabeza, la cual se llevaron, y viajaron toda la noche por el camino del valle del Jordán. 
-^[**4:6** Este versículo plantea una serie de problemas. En este caso, la traducción sigue a la Septuaginta. El texto hebreo dice: “Entraron en la casa como para coger trigo, y le apuñalaron en el vientre. Entonces Recab y su hermano Baná se escabulleron”. Lamentablemente este verso no existe en ninguno de los Rollos del Mar Muerto.]
+^5^ Recab y Baná, hijos de Rimón de Berot, se dirigieron a la casa de Isboset, llegando con el calor del día, cuando el rey estaba tomando su descanso de mediodía. ^6^ La portera había estado limpiando el trigo, pero se había cansado y se había quedado dormida, así que Recab y Baná pudieron entrar sin que se dieran cuenta.^a^ ^7^ Entraron en la casa mientras Isboset dormía en su habitación. Después de apuñalarlo y matarlo, le cortaron la cabeza, la cual se llevaron, y viajaron toda la noche por el camino del valle del Jordán. 
+^a^[**4:6** Este versículo plantea una serie de problemas. En este caso, la traducción sigue a la Septuaginta. El texto hebreo dice: “Entraron en la casa como para coger trigo, y le apuñalaron en el vientre. Entonces Recab y su hermano Baná se escabulleron”. Lamentablemente este verso no existe en ninguno de los Rollos del Mar Muerto.]
 
 ^8^ Luego le llevaron la cabeza de Isboset a David en Hebrón. Le dijeron al rey: “Aquí está la cabeza de Isboset, hijo de Saúl, tu enemigo que intentó matarte. Hoy el Señor se ha vengado de Saúl y su familia por mi señor el rey”. 
 
@@ -156,8 +155,8 @@ Le dije: “Soy amalecita”.
 
 ^6^ El rey David y sus hombres fueron a Jerusalén para atacar a los jebuseos que vivían allí. Los jebuseos le dijeron a David: “Nunca entrarás aquí. Hasta los ciegos y los cojos podrían impedírtelo”. Estaban convencidos de que David no podría entrar. 
 
-^7^ Pero David sí capturó la fortaleza de Sión, ahora conocida como la Ciudad de David. ^8^ En ese momento dijo: “Si queremos conquistar a los jebuseos, tendremos que subir por el pozo de agua para atacar a esos “cojos y ciegos”, a esa gente que odia a David. Por eso se dice: ‘Los ciegos y los cojos nunca entrarán en la casa.’”^^ 
-^[**5:8** Existe un debate sobre el significado de “casa” aquí. Podría referirse a las casas ordinarias, o a la casa del rey (palacio). Sin embargo, la Septuaginta dice “casa del Señor”, lo que probablemente se refiera a lo estipulado en Levítico 21:17-23.]
+^7^ Pero David sí capturó la fortaleza de Sión, ahora conocida como la Ciudad de David. ^8^ En ese momento dijo: “Si queremos conquistar a los jebuseos, tendremos que subir por el pozo de agua para atacar a esos “cojos y ciegos”, a esa gente que odia a David. Por eso se dice: ‘Los ciegos y los cojos nunca entrarán en la casa.’”^a^ 
+^a^[**5:8** Existe un debate sobre el significado de “casa” aquí. Podría referirse a las casas ordinarias, o a la casa del rey (palacio). Sin embargo, la Septuaginta dice “casa del Señor”, lo que probablemente se refiera a lo estipulado en Levítico 21:17-23.]
 
 ^9^ David se fue a vivir a la fortaleza y la llamó Ciudad de David. La extendió en todas las direcciones, empezando por las terrazas de apoyo exteriores y avanzando hacia el interior. ^10^ David se volvía cada vez más poderoso, porque el Señor Dios Todopoderoso estaba con él. 
 
@@ -176,13 +175,11 @@ Le dije: “Soy amalecita”.
 ^25^ David cumplió las órdenes del Señor, y mató a los filisteos desde Geba hasta Gezer. 
 
 # 6 
-^1^ Una vez más, David convocó a todos los hombres especialmente elegidos de Israel, y eran treinta mil en total. ^2^ Entonces fue con todos sus hombres a Baalá, en Judá, para traer de vuelta el Arca de Dios, que pertenece al Señor Todopoderoso, que está sentado entre los querubines que están sobre el Arca. ^3^ Colocaron el Arca de Dios en un carro nuevo y la trajeron desde la casa de Abinadab, que estaba en una colina. Uza y Ahío, hijos de Abinadab, dirigían el carruaje ^4^ que transportaba el Arca de Dios, y Ahío caminaba delante de él.^^ ^5^ David y todos los israelitas estaban celebrando en presencia del Señor, cantando canciones acompañadas de cítaras, arpas, panderetas, sonajas y címbalos.^^ 
-^[**6:4** Lectura de la Septuaginta, apoyada por uno de los Rollos del Mar Muerto.]
-^[**6:5** La referencia en el hebreo a los abetos es improbable en este caso, y el pasaje paralelo de 1 Crónicas 13:8 ayuda a clarificar.]
+^1^ Una vez más, David convocó a todos los hombres especialmente elegidos de Israel, y eran treinta mil en total. ^2^ Entonces fue con todos sus hombres a Baalá, en Judá, para traer de vuelta el Arca de Dios, que pertenece al Señor Todopoderoso, que está sentado entre los querubines que están sobre el Arca. ^3^ Colocaron el Arca de Dios en un carro nuevo y la trajeron desde la casa de Abinadab, que estaba en una colina. Uza y Ahío, hijos de Abinadab, dirigían el carruaje ^4^ que transportaba el Arca de Dios, y Ahío caminaba delante de él.^a^ ^5^ David y todos los israelitas estaban celebrando en presencia del Señor, cantando canciones acompañadas de cítaras, arpas, panderetas, sonajas y címbalos.^b^ 
+^a^[**6:4** Lectura de la Septuaginta, apoyada por uno de los Rollos del Mar Muerto.] ^b^[**6:5** La referencia en el hebreo a los abetos es improbable en este caso, y el pasaje paralelo de 1 Crónicas 13:8 ayuda a clarificar.]
 
-^6^ Pero cuando llegaron a la era de Nachón, los bueyes tropezaron, por lo que Uza extendió la mano para evitar que el Arca de Dios cayera. ^7^ El Señor se enojó con Uza, y Dios lo hirió allí mismo por su desobediencia,^^ y murió junto al Arca de Dios. ^8^ David se enfadó por el violento arrebato del Señor contra Uza. Llamó al lugar Perez-uza,^^ que sigue siendo su nombre hasta hoy. 
-^[**6:7** El significado de la palabra utilizada aquí es incierto. Puede indicar una acción precipitada o irreverente. Aquí parece reflejar una actitud presuntuosa que trataba el Arca como un simple objeto ordinario.]
-^[**6:8** Significa “arrebato contra Uza.”]
+^6^ Pero cuando llegaron a la era de Nachón, los bueyes tropezaron, por lo que Uza extendió la mano para evitar que el Arca de Dios cayera. ^7^ El Señor se enojó con Uza, y Dios lo hirió allí mismo por su desobediencia,^a^ y murió junto al Arca de Dios. ^8^ David se enfadó por el violento arrebato del Señor contra Uza. Llamó al lugar Perez-uza,^b^ que sigue siendo su nombre hasta hoy. 
+^a^[**6:7** El significado de la palabra utilizada aquí es incierto. Puede indicar una acción precipitada o irreverente. Aquí parece reflejar una actitud presuntuosa que trataba el Arca como un simple objeto ordinario.] ^b^[**6:8** Significa “arrebato contra Uza.”]
 
 ^9^ Ese día, David tuvo miedo del Señor. “¿Cómo podré traer el Arca de Dios a mi casa?”, se preguntó. ^10^ Al no querer traer el Arca del Señor para que estuviera con él en la Ciudad de David, la hizo llevar a la casa de Obed-edom el gitano. ^11^ Entonces el Arca del Señor permaneció en la casa de Obed-edom durante tres meses, y el Señor bendijo a toda la familia de Obed-edom. 
 
@@ -205,11 +202,11 @@ Le dije: “Soy amalecita”.
 
 ^8^ Entonces, dile a mi siervo David que esto es lo que dice el Señor Todopoderoso: Fui yo quien te sacó del campo, de cuidar ovejas, para convertirte en jefe de mi pueblo Israel. ^9^ He estado contigo dondequiera que has ido. He destruido a todos tus enemigos delante de ti, y haré que tu reputación sea tan grande como la de las personas más famosas de la tierra. ^10^ Elegiré un lugar para mi pueblo Israel. Allí los asentaré y ya no serán molestados. Los malvados no los perseguirán como antes, ^11^ desde que puse jueces a cargo de mi pueblo. Derrotaré a todos sus enemigos. 
 
-También quiero dejar claro que yo, el Señor, les construiré una casa.^^ ^12^ Porque cuando llegues al final de tu vida y te unas a tus antepasados en la muerte, llevaré al poder a uno de tus descendientes, a uno de tus hijos, y me aseguraré de que su reino tenga éxito. ^13^ Él será quien me construya una casa, y me aseguraré de que su reino dure para siempre. ^14^ Yo seré un padre para él, y él será un hijo para mí. Si hace el mal, lo disciplinaré con la vara como se hace con la gente, como un padre que castiga a un hijo. ^15^ Pero nunca le quitaré mi bondad y mi amor, como hice en el caso de Saúl, a quien quité de en medio. ^16^ Tu casa y tu reino serán eternos; tu dinastía estará segura para siempre”. ^17^ Así que esto fue lo que Natán le explicó a David, y fue todo lo que se le dijo en esta revelación divina. 
-^[**7:11** En otras palabras, el Señor construiría una “casa” para David en el sentido de establecer una dinastía real.]
+También quiero dejar claro que yo, el Señor, les construiré una casa.^a^ ^12^ Porque cuando llegues al final de tu vida y te unas a tus antepasados en la muerte, llevaré al poder a uno de tus descendientes, a uno de tus hijos, y me aseguraré de que su reino tenga éxito. ^13^ Él será quien me construya una casa, y me aseguraré de que su reino dure para siempre. ^14^ Yo seré un padre para él, y él será un hijo para mí. Si hace el mal, lo disciplinaré con la vara como se hace con la gente, como un padre que castiga a un hijo. ^15^ Pero nunca le quitaré mi bondad y mi amor, como hice en el caso de Saúl, a quien quité de en medio. ^16^ Tu casa y tu reino serán eternos; tu dinastía estará segura para siempre”. ^17^ Así que esto fue lo que Natán le explicó a David, y fue todo lo que se le dijo en esta revelación divina. 
+^a^[**7:11** En otras palabras, el Señor construiría una “casa” para David en el sentido de establecer una dinastía real.]
 
-^18^ Entonces el rey David fue y se sentó en presencia del Señor. Oró: “¿Quién soy yo, Señor Dios? ¿Qué importancia tiene mi familia para que me hayas traído hasta este lugar? ^19^ Dios, hablas como si esto fuera una cosa pequeña para ti, y también has hablado del futuro de mi casa, de la dinastía de mi familia.^^ ¿Es esta tu forma habitual de tratar con los seres humanos, Señor Dios? 
-^[**7:19** “La dinastía demi familia”: explicando el significado de “casa” en este contexto.]
+^18^ Entonces el rey David fue y se sentó en presencia del Señor. Oró: “¿Quién soy yo, Señor Dios? ¿Qué importancia tiene mi familia para que me hayas traído hasta este lugar? ^19^ Dios, hablas como si esto fuera una cosa pequeña para ti, y también has hablado del futuro de mi casa, de la dinastía de mi familia.^a^ ¿Es esta tu forma habitual de tratar con los seres humanos, Señor Dios? 
+^a^[**7:19** “La dinastía demi familia”: explicando el significado de “casa” en este contexto.]
 
 ^20^ ¿Qué más puedo decirte? Tú sabes perfectamente cómo es tu siervo David, Señor Dios. ^21^ Todo esto lo haces por mí y me lo has explicado, a mí, tu siervo, por tu promesa y porque así lo deseas tú. 
 
@@ -218,8 +215,8 @@ También quiero dejar claro que yo, el Señor, les construiré una casa.^^ ^12^ 
 ^25^ Así que ahora, Señor Dios, haz que lo que has dicho de mí y de mi casa se cumpla y se confirme para siempre. Por favor, haz lo que has prometido, ^26^ y que tu verdadera naturaleza sea honrada para siempre, y que el pueblo declare: ‘¡El Señor Todopoderoso es el Dios de Israel!’ Que la casa de tu siervo David siga estando en tu presencia. ^27^ Señor Todopoderoso, Dios de Israel, tú me lo has revelado a mí, tu siervo, diciéndome: ‘Voy a construir una casa para ti’. Por eso tu siervo ha tenido el valor de hacerte esta oración. ^28^ ¡Señor Todopoderoso, tú eres Dios! Tus palabras son verdaderas, y tú eres quien ha prometido estas cosas buenas a tu siervo. ^29^ Así que ahora, por favor, bendice la casa de tu siervo para que continúe en tu presencia para siempre. Porque tú has hablado, Señor Dios, y con tu bendición la casa de tu siervo será bendecida para siempre.” 
 
 # 8 
-^1^ Poco después de esto, David atacó y subyugó a los filisteos, quitándoles Metheg-ammah^^. ^2^ David también derrotó a los moabitas. Los hizo tumbarse en el suelo y los midió con un tramo de cuerda. Midió dos tramos para los que debían morir, y un tramo de cuerda para los que debían vivir. Entonces los sometió bajo su gobierno, y les exigió que pagaran impuestos. 
-^[**8:1** Se desconoce el significado de este término. Puede ser un nombre de lugar. El pasaje paralelo en Crónicas identifica “Gat y sus ciudades cercanas”. 1 Crónicas 18:1.]
+^1^ Poco después de esto, David atacó y subyugó a los filisteos, quitándoles Metheg-ammah^a^ . ^2^ David también derrotó a los moabitas. Los hizo tumbarse en el suelo y los midió con un tramo de cuerda. Midió dos tramos para los que debían morir, y un tramo de cuerda para los que debían vivir. Entonces los sometió bajo su gobierno, y les exigió que pagaran impuestos. 
+^a^[**8:1** Se desconoce el significado de este término. Puede ser un nombre de lugar. El pasaje paralelo en Crónicas identifica “Gat y sus ciudades cercanas”. 1 Crónicas 18:1.]
 
 ^3^ David también derrotó a Hadad-ezer, hijo de Rehob, rey de Soba, cuando intentaba imponer su control a lo largo del río Éufrates. ^4^ David capturó 1.000 de sus carros, 7.000 jinetes y 20.000 soldados de a pie. Ató por las patas a todos los caballos que llevaban carros, pero dejó suficientes caballos para 100 carros de guerra. 
 
@@ -229,10 +226,8 @@ También quiero dejar claro que yo, el Señor, les construiré una casa.^^ ^12^ 
 
 ^9^ Cuando Toi, rey de Hamat, se enteró de que David había destruido todo el ejército de Hadadzer, rey de Soba, ^10^ envió a su hijo Joram a David para que se hiciera amigo de él y lo felicitara por su victoria en la batalla contra Hadad-ezer. Toi y Hadadezer habían estado en guerra con frecuencia. Joram trajo toda clase de regalos de oro, plata y bronce. ^11^ El rey David le dedicó estos regalos al Señor, junto con la plata y el oro que había tomado de todas las naciones que había sometido: ^12^ Edom, Moab, los amonitas, los filisteos y los amalecitas; así como el botín tomado a Hadad-ezer, hijo de Rehob, rey de Soba. 
 
-^13^ David también se dio a conocer cuando regresó tras derrotar a dieciocho mil edomitas^^ en el Valle de la Sal. ^14^ Colocó guarniciones por todo Edom, y todos los edomitas se sometieron a David. El Señor le dio a David victorias dondequiera que fuera. ^15^ David gobernó sobre todo Israel. Hizo lo que era justo y correcto para todo su pueblo. ^16^ Joab, hijo de Sarvia, era el comandante del ejército, y Josafat, hijo de Ahilud, llevaba los registros oficiales. ^17^ Sadoc, hijo de Ahitob, y Ahimelec, hijo de Abiatar, eran sacerdotes, mientras que Seraías era el secretario. ^18^ Benaía, hijo de Joiada, estaba a cargo de los queretanos y peletanos;^^ y los hijos de David eran sacerdotes.^^
-^[**8:13** El texto hebreo se refiere en realidad a los arameos, pero en el contexto debe ser un error de los escribas.]
-^[**8:18** “Los queretanos y peletanos”: la guardia personal del rey.]
-^[**8:18** “Los hijos de David eran sacerdotes”: evidentemente, al no ser levitas, los hijos de David no serían sacerdotes en el sentido de oficiar en ceremonias religiosas. Algunos han sugerido que, tal como se usa aquí, la palabra significa “administradores”. Véase el pasaje paralelo en 1 Crónicas 18:17.] 
+^13^ David también se dio a conocer cuando regresó tras derrotar a dieciocho mil edomitas^a^ en el Valle de la Sal. ^14^ Colocó guarniciones por todo Edom, y todos los edomitas se sometieron a David. El Señor le dio a David victorias dondequiera que fuera. ^15^ David gobernó sobre todo Israel. Hizo lo que era justo y correcto para todo su pueblo. ^16^ Joab, hijo de Sarvia, era el comandante del ejército, y Josafat, hijo de Ahilud, llevaba los registros oficiales. ^17^ Sadoc, hijo de Ahitob, y Ahimelec, hijo de Abiatar, eran sacerdotes, mientras que Seraías era el secretario. ^18^ Benaía, hijo de Joiada, estaba a cargo de los queretanos y peletanos;^b^ y los hijos de David eran sacerdotes.^c^
+^a^[**8:13** El texto hebreo se refiere en realidad a los arameos, pero en el contexto debe ser un error de los escribas.] ^b^[**8:18** “Los queretanos y peletanos”: la guardia personal del rey.] ^c^[**8:18** “Los hijos de David eran sacerdotes”: evidentemente, al no ser levitas, los hijos de David no serían sacerdotes en el sentido de oficiar en ceremonias religiosas. Algunos han sugerido que, tal como se usa aquí, la palabra significa “administradores”. Véase el pasaje paralelo en 1 Crónicas 18:17.] 
 
 # 9 
 ^1^ Entonces David dijo: “¿Queda alguien de la familia de Saúl a quien yo pueda mostrarle mi bondad por amor a Jonatán?”. 
@@ -241,8 +236,8 @@ También quiero dejar claro que yo, el Señor, les construiré una casa.^^ ^12^ 
 
 “Sí, soy tu siervo”, respondió. 
 
-^3^ El rey le preguntó: “¿Queda alguien de la familia de Saúl a quien pueda mostrar mi bondad como se lo prometí ante Dios?”^^ 
-^[**9:3** “Se lo prometí ante Dios”: Probablemente David está recordando la promesa mutua compartida con Jonatán. 1 Samuel 20:42.]
+^3^ El rey le preguntó: “¿Queda alguien de la familia de Saúl a quien pueda mostrar mi bondad como se lo prometí ante Dios?”^a^ 
+^a^[**9:3** “Se lo prometí ante Dios”: Probablemente David está recordando la promesa mutua compartida con Jonatán. 1 Samuel 20:42.]
 
 “Todavía queda uno de los hijos de Jonatán, que es cojo de ambos pies”, respondió Siba. 
 
@@ -250,8 +245,8 @@ También quiero dejar claro que yo, el Señor, les construiré una casa.^^ ^12^ 
 
 “Está en la ciudad de Lo-debar, viviendo en la casa de Maquir, hijo de Amiel”, respondió Siba. 
 
-^5^ Así que el rey David hizo que lo trajeran de la casa de Maquir. ^6^ Cuando Mefi-boset,^^ hijo de Jonatán, hijo de Saúl, se acercó a David, se inclinó hacia el suelo en señal de respeto. Entonces David dijo: “Bienvenido Mefi-boset”. 
-^[**9:6** Se le llama Meribbaal en 1 Crónicas 8:34 y 1 Crónicas 9:40. En este caso se plantea la misma cuestión que en la nota a pie de página de 2:8.]
+^5^ Así que el rey David hizo que lo trajeran de la casa de Maquir. ^6^ Cuando Mefi-boset,^a^ hijo de Jonatán, hijo de Saúl, se acercó a David, se inclinó hacia el suelo en señal de respeto. Entonces David dijo: “Bienvenido Mefi-boset”. 
+^a^[**9:6** Se le llama Meribbaal en 1 Crónicas 8:34 y 1 Crónicas 9:40. En este caso se plantea la misma cuestión que en la nota a pie de página de 2:8.]
 
 “Soy tu siervo”, respondió él.” 
 
@@ -283,11 +278,11 @@ También quiero dejar claro que yo, el Señor, les construiré una casa.^^ ^12^ 
 # 11 
 ^1^ En la primavera, en la época del año en que los reyes salen a la guerra, David envió a Joab y a sus oficiales y a todo el ejército israelí al ataque. Masacraron a los amonitas y sitiaron Rabá. Sin embargo, David se quedó en Jerusalén. 
 
-^2^ Una tarde, David se levantó de dormir la siesta y se paseó por el tejado del palacio. Desde el tejado vio a una mujer bañándose, una mujer muy hermosa. ^3^ David envió a alguien a averiguar sobre la mujer. Le dijeron: “Es Betsabé, hija de Eliam y esposa de Urías el hitita.” ^4^ David envió mensajeros a buscarla. Cuando ella llegó a él, David tuvo relaciones sexuales con ella. (Ella acababa de purificarse al tener la regla).^^ Después volvió a casa. ^5^ Betsabé quedó embarazada y le envió un mensaje a David para decirle: “Estoy embarazada.” 
-^[**11:4** El hebreo se refiere a la “impureza.”]
+^2^ Una tarde, David se levantó de dormir la siesta y se paseó por el tejado del palacio. Desde el tejado vio a una mujer bañándose, una mujer muy hermosa. ^3^ David envió a alguien a averiguar sobre la mujer. Le dijeron: “Es Betsabé, hija de Eliam y esposa de Urías el hitita.” ^4^ David envió mensajeros a buscarla. Cuando ella llegó a él, David tuvo relaciones sexuales con ella. (Ella acababa de purificarse al tener la regla).^a^ Después volvió a casa. ^5^ Betsabé quedó embarazada y le envió un mensaje a David para decirle: “Estoy embarazada.” 
+^a^[**11:4** El hebreo se refiere a la “impureza.”]
 
-^6^ Entonces David envió un mensaje a Joab, diciéndole: “Envíame a Urías el hitita”. Y Joab lo envió a David. ^7^ Cuando Urías fue a verlo, David le preguntó cómo estaba Joab, cómo estaba el ejército y cómo iba la guerra. ^8^ Entonces David le dijo a Urías: “Vete a casa y descansa.”^^ Urías abandonó el palacio, y el rey le envió un regalo después de su partida. ^9^ Pero Urías no se fue a su casa. Durmió en la sala de guardia a la entrada del palacio con todos los guardias del rey. 
-^[**11:8** “Descansa”: literalmente, “lava tus pies.”]
+^6^ Entonces David envió un mensaje a Joab, diciéndole: “Envíame a Urías el hitita”. Y Joab lo envió a David. ^7^ Cuando Urías fue a verlo, David le preguntó cómo estaba Joab, cómo estaba el ejército y cómo iba la guerra. ^8^ Entonces David le dijo a Urías: “Vete a casa y descansa.”^a^ Urías abandonó el palacio, y el rey le envió un regalo después de su partida. ^9^ Pero Urías no se fue a su casa. Durmió en la sala de guardia a la entrada del palacio con todos los guardias del rey. 
+^a^[**11:8** “Descansa”: literalmente, “lava tus pies.”]
 
 ^10^ A David le dijeron: “Urías no fue a casa”, así que le preguntó a Urías: “¿No acabas de regresar de estar fuera? ¿Por qué no has ido a casa?” 
 
@@ -308,11 +303,11 @@ También quiero dejar claro que yo, el Señor, les construiré una casa.^^ ^12^ 
 # 12 
 ^1^ El Señor envió a Natán a ver a David. Cuando llegó allí, le dijo: “Había una vez dos hombres que vivían en la misma ciudad. Uno era rico y el otro pobre. ^2^ El rico tenía muchos miles de ovejas y ganado, ^3^ pero el pobre no tenía más que una pequeña oveja que había comprado. La cuidó y creció con él y con sus hijos. Comía de su plato y bebía de su copa. Dormía en su regazo y era como una hija para él. ^4^ Un día, el hombre rico tuvo una visita. No quiso tomar una de sus ovejas o ganado para alimentar a su visitante. En cambio, tomó el cordero del pobre para preparar una comida para su visitante”. 
 
-^5^ David se puso absolutamente furioso con lo que hizo aquel hombre, y le dijo airadamente a Natán “¡Vive el Señor, que el hombre que hizo esto debe ser condenado a muerte! ^6^ Debe pagar a ese cordero con cuatro^^ de los suyos por hacer esto y por ser tan despiadado.” 
-^[**12:6** Ver Éxodo22:1.]
+^5^ David se puso absolutamente furioso con lo que hizo aquel hombre, y le dijo airadamente a Natán “¡Vive el Señor, que el hombre que hizo esto debe ser condenado a muerte! ^6^ Debe pagar a ese cordero con cuatro^a^ de los suyos por hacer esto y por ser tan despiadado.” 
+^a^[**12:6** Ver Éxodo22:1.]
 
-^7^ “Tú eres ese hombre”. Le dijo Natán a David. “Esto es lo que dice el Señor, el Dios de Israel: ‘Yo te ungí rey de Israel y te salvé de Saúl. ^8^ Te di la casa de tu amo y puse en tu regazo a las mujeres de tu amo. Te di el reino de Israel y de Judá, y si eso no hubiera sido suficiente, te habría dado mucho más. ^9^ Entonces, ¿por qué has tratado con desprecio lo que dijo el Señor, haciendo el mal ante sus ojos? Mataste a Urías el hitita con la espada y le robaste su esposa; lo mataste usando la espada de los amonitas. ^10^ Por ello tus descendientes siempre se enfrentarán a la espada^^ porque me has despreciado y robaste la mujer de Urías.’” 
-^[**12:10** “Espada” utilizada en estos versos se refiere a cualquier tipo de muerte violenta.]
+^7^ “Tú eres ese hombre”. Le dijo Natán a David. “Esto es lo que dice el Señor, el Dios de Israel: ‘Yo te ungí rey de Israel y te salvé de Saúl. ^8^ Te di la casa de tu amo y puse en tu regazo a las mujeres de tu amo. Te di el reino de Israel y de Judá, y si eso no hubiera sido suficiente, te habría dado mucho más. ^9^ Entonces, ¿por qué has tratado con desprecio lo que dijo el Señor, haciendo el mal ante sus ojos? Mataste a Urías el hitita con la espada y le robaste su esposa; lo mataste usando la espada de los amonitas. ^10^ Por ello tus descendientes siempre se enfrentarán a la espada^a^ porque me has despreciado y robaste la mujer de Urías.’” 
+^a^[**12:10** “Espada” utilizada en estos versos se refiere a cualquier tipo de muerte violenta.]
 
 ^11^ Esto es lo que dice el Señor ahora: ‘Por lo que hiciste, voy a traer desastre sobre tu propia familia. Arrebataré a tus esposas ante tus propios ojos y se las daré a otro, y él se acostará con tus esposas a la vista de todos. ^12^ Tú lo hiciste todo en secreto, pero yo lo haré abiertamente donde todo Israel lo pueda ver’”. 
 
@@ -320,8 +315,8 @@ También quiero dejar claro que yo, el Señor, les construiré una casa.^^ ^12^ 
 
 “El Señor ha perdonado tus pecados. No vas a morir”, respondió Natán. ^14^ “Pero como al hacer esto has tratado al Señor con total desprecio, el hijo que tienes morirá”. ^15^ Entonces Natán se fue a su casa. 
 
-El Señor hizo que el hijo que la mujer de Urías había dado a luz a David se pusiera muy enfermo. ^16^ David suplicó a Dios en favor del niño. Ayunó, se dirigió a su habitación y pasó la noche tumbado en el suelo con ropa de silicio^^. ^17^ Sus superiores se acercaron a él y trataron de ayudarle a levantarse del suelo, pero no quiso y rechazó sus llamados para ir comer. 
-^[**12:16** “En tela de silicio”: Lectura de la Septuaginta y de los Rollos del Mar Muerto.]
+El Señor hizo que el hijo que la mujer de Urías había dado a luz a David se pusiera muy enfermo. ^16^ David suplicó a Dios en favor del niño. Ayunó, se dirigió a su habitación y pasó la noche tumbado en el suelo con ropa de silicio^a^ . ^17^ Sus superiores se acercaron a él y trataron de ayudarle a levantarse del suelo, pero no quiso y rechazó sus llamados para ir comer. 
+^a^[**12:16** “En tela de silicio”: Lectura de la Septuaginta y de los Rollos del Mar Muerto.]
 
 ^18^ Al séptimo día el niño murió. Pero los funcionarios de David tenían miedo de decirle que el niño había muerto, pues se decían unos a otros: “Mira, mientras el niño estaba vivo, hablamos con él, y se negó a escucharnos. ¿Cómo vamos a decirle que el niño ha muerto? Puede hacer algo muy malo”. 
 
@@ -335,13 +330,13 @@ El Señor hizo que el hijo que la mujer de Urías había dado a luz a David se p
 
 ^22^ David respondió: “Mientras el niño vivía, ayunaba y lloraba en voz alta, porque pensaba: ‘Tal vez el Señor se apiade de mí y lo deje vivir’. ^23^ Pero ahora que ha muerto, ¿qué sentido tiene que siga ayunando? ¿Podré traerlo de vuelta? Un día moriré y me iré con él, pero él nunca volverá a mí.” 
 
-^24^ David consoló a su esposa Betsabé y le hizo el amor. Ella dio a luz a un hijo y lo llamó Salomón. El Señor amaba al niño, ^25^ por lo que envió un mensaje a través del profeta Natán para que le pusiera el nombre de Jedidías,^^ porque el Señor lo amaba. 
-^[**12:25** Que significa “amado por el Lord.”]
+^24^ David consoló a su esposa Betsabé y le hizo el amor. Ella dio a luz a un hijo y lo llamó Salomón. El Señor amaba al niño, ^25^ por lo que envió un mensaje a través del profeta Natán para que le pusiera el nombre de Jedidías,^a^ porque el Señor lo amaba. 
+^a^[**12:25** Que significa “amado por el Lord.”]
 
 ^26^ En ese momento, Joab había estado luchando contra la ciudad amonita de Rabá, y había capturado la fortaleza real. ^27^ Joab envió mensajeros a David para decirle: “He atacado Rabá y también he capturado su suministro de agua. ^28^ Así que llama al resto del ejército, asedia la ciudad y captúrala. De lo contrario, capturaré la ciudad y me llevaré el crédito”. 
 
-^29^ Así que David convocó al resto del ejército y marchó hacia Rabá. La atacó y la capturó. ^30^ Tomó la corona de la cabeza de su rey y la colocó en la cabeza de David. Pesaba un talento de oro y estaba decorada con piedras preciosas. David tomó una gran cantidad de botín de la ciudad. ^31^ David tomó a los habitantes y los obligó a trabajar con sierras, picos de hierro y hachas, y también los hizo trabajar haciendo ladrillos.^^ Lo mismo hizo en todas las ciudades amonitas. Luego David y todo el ejército israelita regresaron a Jerusalén.
-^[**12:31** El hebreo aquí no está claro.] 
+^29^ Así que David convocó al resto del ejército y marchó hacia Rabá. La atacó y la capturó. ^30^ Tomó la corona de la cabeza de su rey y la colocó en la cabeza de David. Pesaba un talento de oro y estaba decorada con piedras preciosas. David tomó una gran cantidad de botín de la ciudad. ^31^ David tomó a los habitantes y los obligó a trabajar con sierras, picos de hierro y hachas, y también los hizo trabajar haciendo ladrillos.^a^ Lo mismo hizo en todas las ciudades amonitas. Luego David y todo el ejército israelita regresaron a Jerusalén.
+^a^[**12:31** El hebreo aquí no está claro.] 
 
 # 13 
 ^1^ El hijo de David, Absalón, tenía una hermosa hermana llamada Tamar, y otro de los hijos de David, Amnón, se enamoró de ella. ^2^ Amnón se encaprichó tanto de su hermana Tamar que se sintió mal. Ella era virgen, y Amnón vio que era imposible tenerla. 
@@ -372,8 +367,8 @@ El Señor hizo que el hijo que la mujer de Urías había dado a luz a David se p
 
 ^21^ Cuando el rey David se enteró, se enojó mucho. ^22^ Absalón no hablaba con Amnón lo odiaba por haber violado a su hermana Tamar. 
 
-^23^ Unos dos años después, cuando sus pastores estaban en Baal-hazor, cerca de Efraín, Absalón invitó a todos los hijos del rey a unirse a las celebraciones.^^ ^24^ Se dirigió al rey y le dijo: “Yo, tu siervo, he contratado esquiladores. ¿Podrían acompañarme el rey y sus siervos?” 
-^[**13:23** “A unirse a las celebraciones”. Para mayor claridad, la esquila anual de ovejas era también un momento de fiesta.]
+^23^ Unos dos años después, cuando sus pastores estaban en Baal-hazor, cerca de Efraín, Absalón invitó a todos los hijos del rey a unirse a las celebraciones.^a^ ^24^ Se dirigió al rey y le dijo: “Yo, tu siervo, he contratado esquiladores. ¿Podrían acompañarme el rey y sus siervos?” 
+^a^[**13:23** “A unirse a las celebraciones”. Para mayor claridad, la esquila anual de ovejas era también un momento de fiesta.]
 
 ^25^ “No, hijo mío”, respondió el rey, “no podemos ir todos. Seríamos una carga para ti”. Aunque Absalón insistió, David no estuvo dispuesto a ir, pero le dio a Absalón su bendición. 
 
@@ -393,18 +388,17 @@ El Señor hizo que el hijo que la mujer de Urías había dado a luz a David se p
 
 ^34^ Mientras tanto, Absalón había huido. 
 
-Cuando el vigilante de Jerusalén^^ se asomó, vio que una gran multitud se acercaba por el camino al oeste de él, bajando por la ladera de la colina.^^ 
-^[**13:34** “En Jerusalén”: Añadido para mayor a claridad.]
-^[**13:34** La Septuaginta añade aquí: “El vigilante fue y le dijo al rey: ‘Veo hombres que vienen de la dirección de Beth-horon, por la ladera de la colina.’”]
+Cuando el vigilante de Jerusalén^a^ se asomó, vio que una gran multitud se acercaba por el camino al oeste de él, bajando por la ladera de la colina.^b^ 
+^a^[**13:34** “En Jerusalén”: Añadido para mayor a claridad.] ^b^[**13:34** La Septuaginta añade aquí: “El vigilante fue y le dijo al rey: ‘Veo hombres que vienen de la dirección de Beth-horon, por la ladera de la colina.’”]
 
 ^35^ Jonadab le dijo al rey: “¿Lo ves? ¡Los hijos del rey están llegando! Es exactamente como lo dijo tu siervo”. ^36^ Cuando terminó de hablar, los hijos del rey entraron llorando y lamentándose. Entonces el rey y todos sus funcionarios también lloraron. 
 
-^37^ Absalón huyó a Talmai, hijo de Amihud, el rey de Gesur. Todos los días David se lamentaba por su hijo Amnón.^^ ^38^ Después de que Absalón huyó a Gesur, permaneció allí durante tres años. ^39^ El rey David anhelaba ir a ver a Absalón, pues había terminado de llorar la muerte de Amnón.
-^[**13:37** “Amnón”: el nombre no se da explícitamente en el texto hebreo.] 
+^37^ Absalón huyó a Talmai, hijo de Amihud, el rey de Gesur. Todos los días David se lamentaba por su hijo Amnón.^a^ ^38^ Después de que Absalón huyó a Gesur, permaneció allí durante tres años. ^39^ El rey David anhelaba ir a ver a Absalón, pues había terminado de llorar la muerte de Amnón.
+^a^[**13:37** “Amnón”: el nombre no se da explícitamente en el texto hebreo.] 
 
 # 14 
-^1^ Joab, hijo de Sarvia, sabía que el rey seguía pensando en Absalón.^^ ^2^ Entonces Joab envió un mensajero a Tecoa para que trajera a una mujer sabia que vivía allí. Y le dijo: “Finge estar de luto. Ponte ropa de luto y no uses aceites perfumados. Ponte como una mujer que lleva mucho tiempo de luto por los muertos. ^3^ Luego ve al rey y dile esto”. Entonces Joab le indicó lo que debía decir. 
-^[**14:1** El texto no dice si eran pensamientos positivos o negativos. Tal vez lo mejor sea mantenerlo neutral, ya que David ciertamente habría tenido sentimientos encontrados hacia Absalón.]
+^1^ Joab, hijo de Sarvia, sabía que el rey seguía pensando en Absalón.^a^ ^2^ Entonces Joab envió un mensajero a Tecoa para que trajera a una mujer sabia que vivía allí. Y le dijo: “Finge estar de luto. Ponte ropa de luto y no uses aceites perfumados. Ponte como una mujer que lleva mucho tiempo de luto por los muertos. ^3^ Luego ve al rey y dile esto”. Entonces Joab le indicó lo que debía decir. 
+^a^[**14:1** El texto no dice si eran pensamientos positivos o negativos. Tal vez lo mejor sea mantenerlo neutral, ya que David ciertamente habría tenido sentimientos encontrados hacia Absalón.]
 
 ^4^ Cuando la mujer de Tecoa fue a ver al rey, se inclinó hacia el suelo en señal de respeto y dijo: “¡Por favor, ayúdeme, Su Majestad!” 
 
@@ -416,8 +410,8 @@ Cuando el vigilante de Jerusalén^^ se asomó, vio que una gran multitud se acer
 
 ^8^ “Vete a casa”, le dijo el rey a la mujer, “y yo mismo me encargaré de que se resuelva tu caso.” 
 
-^9^ “Gracias, Su Majestad”, dijo la mujer. “Yo y mi familia asumiremos la culpa,^^ y que Su Majestad y su familia sean considerados inocentes.” 
-^[**14:9** La mujer está sugiriendo que porque no está siguiendo la Ley de Moisés en la ejecución del asesino entonces ella y su familia deben ser culpados.]
+^9^ “Gracias, Su Majestad”, dijo la mujer. “Yo y mi familia asumiremos la culpa,^a^ y que Su Majestad y su familia sean considerados inocentes.” 
+^a^[**14:9** La mujer está sugiriendo que porque no está siguiendo la Ley de Moisés en la ejecución del asesino entonces ella y su familia deben ser culpados.]
 
 ^10^ “Si alguien se queja de ello, tráemelo aquí y no volverá a molestarte”, le dijo el rey. 
 
@@ -458,8 +452,8 @@ La mujer respondió: “Como usted vive, Su Majestad, nadie puede ocultarle nada
 
 ^5^ Así, Cuando alguien venía a inclinarse ante él, Absalón lo detenía extendiendo la mano, tomándolo y besándolo. ^6^ Absalón trataba así a todos los israelitas que acudían al rey para que les hiciera justicia. De esta manera captó la lealtad de los hombres de Israel. 
 
-^7^ Cuatro^^ años después, Absalón le pidió al rey: “Por favor, déjame ir a Hebrón para cumplir una promesa que le hice al Señor. ^8^ Porque yo, tu siervo, hice esta promesa mientras vivía en Guesur, en Aram, diciendo: ‘Si el Señor me hace volver a Jerusalén, adoraré al Señor en Hebrón’”. 
-^[**15:7** Lectura de la Septuaginta y de la versión siríaca. El hebreo dice “cuarenta.”]
+^7^ Cuatro^a^ años después, Absalón le pidió al rey: “Por favor, déjame ir a Hebrón para cumplir una promesa que le hice al Señor. ^8^ Porque yo, tu siervo, hice esta promesa mientras vivía en Guesur, en Aram, diciendo: ‘Si el Señor me hace volver a Jerusalén, adoraré al Señor en Hebrón’”. 
+^a^[**15:7** Lectura de la Septuaginta y de la versión siríaca. El hebreo dice “cuarenta.”]
 
 ^9^ “Ve en paz”, dijo el rey. Así que Absalón se fue a Hebrón. 
 
@@ -483,26 +477,26 @@ La mujer respondió: “Como usted vive, Su Majestad, nadie puede ocultarle nada
 
 ^25^ Entonces el rey le dijo a Sadoc: “Lleva el Arca de Dios de vuelta a la ciudad. Si el Señor me aprueba, me hará volver y me dejará ver de nuevo el Arca y su Tienda. ^26^ Pero si dice: ‘No estoy conforme contigo’, aquí estoy. Que me haga lo que mejor le parezca.” 
 
-^27^ TEl rey también le dijo al sacerdote Sadoc: “Entiendes la situación, ¿cierto?^^ Regresa a la ciudad sano y salvo con tu hijo Ajimaz, y también con Jonatán, hijo de Abiatar. Tú y Abiatar llevad a vuestros dos hijos de vuelta con ustedes. ^28^ Esperaré en los vados del desierto hasta que tenga noticias tuyas”. 29 Sadoc y Abiatar llevaron el Arca de Dios de vuelta a Jerusalén y se quedaron allí. 
-^[**15:27** “Entiendes la situación, ¿cierto?” Esto podría traducirse como “¿Sí ves?” o “¿No eres vidente?”. La implicación es que David está confiando en Sadoc para que le haga saber lo que está sucediendo en Jerusalén.]
+^27^ TEl rey también le dijo al sacerdote Sadoc: “Entiendes la situación, ¿cierto?^a^ Regresa a la ciudad sano y salvo con tu hijo Ajimaz, y también con Jonatán, hijo de Abiatar. Tú y Abiatar llevad a vuestros dos hijos de vuelta con ustedes. ^28^ Esperaré en los vados del desierto hasta que tenga noticias tuyas”. 29 Sadoc y Abiatar llevaron el Arca de Dios de vuelta a Jerusalén y se quedaron allí. 
+^a^[**15:27** “Entiendes la situación, ¿cierto?” Esto podría traducirse como “¿Sí ves?” o “¿No eres vidente?”. La implicación es que David está confiando en Sadoc para que le haga saber lo que está sucediendo en Jerusalén.]
 
-30 David siguió su camino hacia el Monte de los Olivos, llorando mientras lo hacía. Llevaba la cabeza cubierta y caminaba descalzo. Toda la gente que lo acompañaba se cubría la cabeza, llorando a su paso. ^31^ Y a David le dijeron: “Ahitofel^^ es uno de los que conspiran con Absalón.” Así que David oró: “Señor, por favor, haz que el consejo de Ahitofel no prospere.” 
-^[**15:31** Ahitofel, consejero de David, era el padre de Eliam, según 23:34, quien a su vez era el padre de Betsabé (11:3). Esto seguramente habría sido un factor para que Ahitofel se uniera a la rebelión de Absalón.]
+30 David siguió su camino hacia el Monte de los Olivos, llorando mientras lo hacía. Llevaba la cabeza cubierta y caminaba descalzo. Toda la gente que lo acompañaba se cubría la cabeza, llorando a su paso. ^31^ Y a David le dijeron: “Ahitofel^a^ es uno de los que conspiran con Absalón.” Así que David oró: “Señor, por favor, haz que el consejo de Ahitofel no prospere.” 
+^a^[**15:31** Ahitofel, consejero de David, era el padre de Eliam, según 23:34, quien a su vez era el padre de Betsabé (11:3). Esto seguramente habría sido un factor para que Ahitofel se uniera a la rebelión de Absalón.]
 
 ^32^ Cuando David llegó a la cima del monte de los Olivos, donde la gente adoraba a Dios, le salió al encuentro Husai, el arquita, con el manto roto y con polvo en la cabeza. 
 
 ^33^ David le dijo: “Si vienes conmigo, sólo serás una carga para mí, ^34^ pero si regresas a la ciudad y le dices a Absalón: '¡Seré tu siervo, Su Majestad! Antes trabajaba para tu padre, pero ahora trabajaré para ti', entonces podrás bloquear el consejo de Ahitofel para mí. ^35^ Sadoc y Abiatar, los sacerdotes, también estarán allí. Cuéntales todo lo que oigas en el palacio del rey. 36 Sus dos hijos, Ajimaz y Jonatán, están allí con ellos. Envíamelos para que me cuenten todo lo que oyes”. ^37^ El amigo de David, Husai, llegó a Jerusalén al mismo tiempo que Absalón entraba en la ciudad. 
 
 # 16 
-^1^ Cuando David pasó un poco más allá de la cima de la montaña, allí estaba Ziba, el siervo de Mefi-boset, esperándole. Llevaba ya ensillados dos asnos con doscientos panes, cien tortas de pasas, cien frutas de verano,^^ y un odre de vino. 
-^[**16:1** “Frutas de verano”: Probablementehigos.]
+^1^ Cuando David pasó un poco más allá de la cima de la montaña, allí estaba Ziba, el siervo de Mefi-boset, esperándole. Llevaba ya ensillados dos asnos con doscientos panes, cien tortas de pasas, cien frutas de verano,^a^ y un odre de vino. 
+^a^[**16:1** “Frutas de verano”: Probablementehigos.]
 
 ^2^ “¿Para qué has traído esto?” le preguntó David a Siba. 
 
 Siba respondió: “Los burros son para que los monte la familia del rey, el pan y la fruta de verano son para que coman los hombres, y el vino es para que lo beban los que se desgastan en el desierto.” 
 
-^3^ ”¿Dónde está el nieto de tu amo?”^^, preguntó el rey. 
-^[**16:3** Refiriéndose a Mefi-boset.]
+^3^ ”¿Dónde está el nieto de tu amo?”^a^ , preguntó el rey. 
+^a^[**16:3** Refiriéndose a Mefi-boset.]
 
 Siba respondió: “Ha decidido quedarse en Jerusalén. Dice: 'Hoy el pueblo de Israel me devolverá el reino de mi abuelo'“. 
 
@@ -518,11 +512,11 @@ Siba respondió: “Ha decidido quedarse en Jerusalén. Dice: 'Hoy el pueblo de 
 
 ^10^ “¿Qué tiene eso que ver con ustedes, hijos de Sarvia?”, respondió el rey. “Si me está maldiciendo porque el Señor se lo ha dicho, ¿quién puede cuestionar lo que hace?”. 
 
-^11^ David dijo a Abisai y a todos sus oficiales: “Miren, si mi propio hijo está tratando de matarme, ¿por qué no va a quererlo aún más este Benjamíta^^? Déjenlo en paz; que me maldiga, porque el Señor se lo ha dicho. ^12^ Tal vez el Señor vea cómo estoy sufriendo y me pague con bien sus maldiciones de hoy”. ^13^ David y sus hombres continuaron por el camino, y Simei los seguía por la ladera de enfrente. Siguió maldiciendo mientras avanzaba, arrojándole piedras y tierra a David. 
-^[**16:11** La gente de la tribu de Benjamín era generalmente partidaria de Saúl, y en 1 Samuel 9:21 se describe a Saúl como benjamita.]
+^11^ David dijo a Abisai y a todos sus oficiales: “Miren, si mi propio hijo está tratando de matarme, ¿por qué no va a quererlo aún más este Benjamíta^a^ ? Déjenlo en paz; que me maldiga, porque el Señor se lo ha dicho. ^12^ Tal vez el Señor vea cómo estoy sufriendo y me pague con bien sus maldiciones de hoy”. ^13^ David y sus hombres continuaron por el camino, y Simei los seguía por la ladera de enfrente. Siguió maldiciendo mientras avanzaba, arrojándole piedras y tierra a David. 
+^a^[**16:11** La gente de la tribu de Benjamín era generalmente partidaria de Saúl, y en 1 Samuel 9:21 se describe a Saúl como benjamita.]
 
-^14^ El rey y todos los que estaban con él estaban cansados cuando llegaron al Jordán.^^ Y David descansó allí. 
-^[**16:14** “Jordán”. No aparece en el hebreo, pero sí en algunos manuscritos de la Septuaginta. Dado que el destino fue dado en 15:28 como “los vados del desierto” esto parece razonable.]
+^14^ El rey y todos los que estaban con él estaban cansados cuando llegaron al Jordán.^a^ Y David descansó allí. 
+^a^[**16:14** “Jordán”. No aparece en el hebreo, pero sí en algunos manuscritos de la Septuaginta. Dado que el destino fue dado en 15:28 como “los vados del desierto” esto parece razonable.]
 
 ^15^ Mientras tanto, Absalón y todos los israelitas que lo acompañaban llegaron a Jerusalén, junto con Ahitofel. ^16^ Husai el arquita, amigo de David, fue a ver a Absalón y declaró: “¡Viva el rey! ¡Viva el rey!” 
 
@@ -547,8 +541,8 @@ Siba respondió: “Ha decidido quedarse en Jerusalén. Dice: 'Hoy el pueblo de 
 
 ^14^ Absalón y todos los jefes israelitas dijeron: “El consejo de Husai el arquita es mejor que el de Ahitofel”. Pero el Señor había decidido frustrar el buen consejo de Ahitofel, que era mejor, para traer el desastre a Absalón. 
 
-^15^ Husai habló con Sadoc y Abiatar, los sacerdotes, y les dijo: “Ahitofel ha aconsejado a Absalón y a los dirigentes israelitas que actúen de una manera, pero yo les he aconsejado que actúen de esta otra manera. 16 Así que envíen rápidamente un mensaje a David y díganle: ‘No esperes ni pases la noche en los vados del desierto, sino cruza inmediatamente o el rey y todos los que están con él serán destruidos.’”^^ 
-^[**17:15** “Destruidos”: literalmente, “engullidos.”]
+^15^ Husai habló con Sadoc y Abiatar, los sacerdotes, y les dijo: “Ahitofel ha aconsejado a Absalón y a los dirigentes israelitas que actúen de una manera, pero yo les he aconsejado que actúen de esta otra manera. 16 Así que envíen rápidamente un mensaje a David y díganle: ‘No esperes ni pases la noche en los vados del desierto, sino cruza inmediatamente o el rey y todos los que están con él serán destruidos.’”^a^ 
+^a^[**17:15** “Destruidos”: literalmente, “engullidos.”]
 
 ^17^ Jonatán y Ahimaas se alojaban en En-rogel porque no podían ser vistos al entrar en la ciudad. Una sirvienta vendría a decirles lo que estaba sucediendo. Luego irían a avisarle al rey David. ^18^ Pero un muchacho los vio y se lo dijo a Absalón. Así que los dos salieron inmediatamente y fueron a la casa de un hombre en la ciudad de Bahurim. Él tenía un pozo en su patio, y ellos se metieron en él. ^19^ Su mujer tomó una tela para cubrir el pozo y la extendió sobre la abertura, y luego esparció grano sobre ella. Nadie sabía que los hombres estaban allí. 
 
@@ -558,8 +552,8 @@ Siba respondió: “Ha decidido quedarse en Jerusalén. Dice: 'Hoy el pueblo de 
 
 ^23^ Cuando Ahitofel se dio cuenta de que su consejo había sido ignorado, ensilló su burro y se fue a su casa en la ciudad donde vivía. Puso en orden sus asuntos y luego se ahorcó. Murió y fue enterrado en la tumba de su padre. 
 
-^24^ David siguió hasta Mahanaim, y Absalón cruzó el Jordán con todo el ejército israelita. ^25^ Absalón había puesto a Amasa al frente del ejército para sustituir a Joab. Amasa era hijo de un hombre llamado Itra, el ismaelita^^ que vivía con Abigail, la hija de Nahas y hermana de Servia, la madre de Joab. ^26^ Los israelitas al mando de Absalón acamparon en la tierra de Galaad. 
-^[**17:25** “Ismaelita”: Según 1 Crónicas 2:17. El hebreo aquí dice “israelita.”]
+^24^ David siguió hasta Mahanaim, y Absalón cruzó el Jordán con todo el ejército israelita. ^25^ Absalón había puesto a Amasa al frente del ejército para sustituir a Joab. Amasa era hijo de un hombre llamado Itra, el ismaelita^a^ que vivía con Abigail, la hija de Nahas y hermana de Servia, la madre de Joab. ^26^ Los israelitas al mando de Absalón acamparon en la tierra de Galaad. 
+^a^[**17:25** “Ismaelita”: Según 1 Crónicas 2:17. El hebreo aquí dice “israelita.”]
 
 ^27^ Cuando David llegó a Mahanaim, lo recibieron Sobi, hijo de Nahas, de Rabá de los amonitas, Maquir, hijo de Ammiel, de Lo-debar, y Barzilai el galaadita de Rogelim. ^28^ Trajeron lechos, cuencos y jarras de barro, así como trigo, cebada, harina, grano tostado, frijoles, lentejas, ^29^ miel, cuajada, ovejas y queso de leche de vaca para que David y el pueblo que lo acompañaba comieran. Porque decían: “El pueblo está hambriento, cansado y sediento por su travesía por el desierto”. 
 
@@ -576,16 +570,15 @@ Siba respondió: “Ha decidido quedarse en Jerusalén. Dice: 'Hoy el pueblo de 
 
 ^11^ “¿Qué? ¿Lo viste así?” le dijo Joab al hombre. “¿Por qué no lo mataste allí mismo? ¡Te habría dado diez siclos de plata y un cinturón de soldado como recompensa!” 
 
-^12^ Pero el hombre respondió: “Aunque me dieras mil siclos de plata, no le haría daño al hijo del rey. Todos oímos que el rey les dio la orden a ti, a Abisai y a Itai: ‘Cuiden al joven Absalón por mí.’^^ ^13^ Si hubiera desobedecido y matado a Absalón^^— y el rey se entera de todo, tú mismo no me habrías defendido’”. 
-^[**18:12** El hebreo aquí es difícil, y no es el mismo que el del verso 5.]
-^[**18:13** Alternativamente, “Si hubiera puesto mi propia vida en peligro matando a Absalón.”]
+^12^ Pero el hombre respondió: “Aunque me dieras mil siclos de plata, no le haría daño al hijo del rey. Todos oímos que el rey les dio la orden a ti, a Abisai y a Itai: ‘Cuiden al joven Absalón por mí.’^a^ ^13^ Si hubiera desobedecido y matado a Absalón^b^ — y el rey se entera de todo, tú mismo no me habrías defendido’”. 
+^a^[**18:12** El hebreo aquí es difícil, y no es el mismo que el del verso 5.] ^b^[**18:13** Alternativamente, “Si hubiera puesto mi propia vida en peligro matando a Absalón.”]
 
 ^14^ ”No voy a perder el tiempo esperando así contigo”. le dijo Joab. Agarró tres lanzas y se las clavó en el corazón a Absalón cuando aún estaba vivo, colgado de la encina. ^15^ Diez de los guardias de Joab rodearon a Absalón y lo mataron a hachazos. 
 
 ^16^ Entonces Joab tocó el cuerno de carnero, y sus hombres dejaron de perseguir a los israelitas porque Joab les había indicado que se detuvieran. ^17^ Tomaron a Absalón y lo arrojaron a un pozo profundo en el bosque, y amontonaron un gran montón de piedras sobre él. Y todos los israelitas huyeron a sus casas. 
 
-^18^ Absalón, en vida, había hecho una columna de piedra y la había erigido en el Valle del Rey como monumento a sí mismo, pues pensaba: “No tengo un hijo^^ que mantenga vivo el recuerdo de mi nombre.” Le puso su nombre al pilar, y aún hoy se llama Monumento a Absalón. 
-^[**18:18** En 14:27 consta que Absalón tenía tres hijos, así que o bien habían muerto o bien Absalón los había repudiado.]
+^18^ Absalón, en vida, había hecho una columna de piedra y la había erigido en el Valle del Rey como monumento a sí mismo, pues pensaba: “No tengo un hijo^a^ que mantenga vivo el recuerdo de mi nombre.” Le puso su nombre al pilar, y aún hoy se llama Monumento a Absalón. 
+^a^[**18:18** En 14:27 consta que Absalón tenía tres hijos, así que o bien habían muerto o bien Absalón los había repudiado.]
 
 ^19^ Entonces Ahimaas, hijo de Sadoc, dijo: “Por favor, déjame correr y llevar la buena noticia al rey de que el Señor lo ha vindicado sobre sus enemigos”. 
 
@@ -632,31 +625,30 @@ El etíope respondió: “¡Que lo que le ha sucedido al joven les suceda a los 
 
 ^5^ Entonces Joab entró y le dijo al rey: “Hoy has humillado a todos tus hombres que han salvado tu vida y la de tus hijos, tus hijas, tus esposas y tus concubinas. ^6^ Lo has hecho amando a los que te odian y odiando a los que te aman. Hoy has dejado claro que los comandantes y los hombres no significan nada para ti. Hoy estoy seguro de que serías muy feliz si Absalón estuviera vivo y todos nosotros estuviéramos muertos. ^7^ Así que levántate, sal y da las gracias a tus hombres. Te juro por el Señor que si no lo haces, no te quedará ni un hombre para esta noche. Eso será mucho peor para ti que todos los desastres que has tenido desde tu juventud hasta ahora”. 
 
-^8^ Entonces el rey se levantó y fue a sentarse a la puerta de la ciudad.^^ A todos se les dijo: “Mira, el rey está sentado en la puerta de la ciudad”. Todos vinieron a ver al rey. 
-^[**19:8** En otras palabras, David se hizo accesible a ellos, en lugar de quedarse encerrado en su habitación.]
+^8^ Entonces el rey se levantó y fue a sentarse a la puerta de la ciudad.^a^ A todos se les dijo: “Mira, el rey está sentado en la puerta de la ciudad”. Todos vinieron a ver al rey. 
+^a^[**19:8** En otras palabras, David se hizo accesible a ellos, en lugar de quedarse encerrado en su habitación.]
 
-Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ Todos entre las tribus de Israel discutían entre sí, diciendo: “El rey nos rescató de la persecución de nuestros enemigos, nos salvó de los filisteos, pero ahora ha tenido que huir del país por culpa de Absalón. ^10^ Ahora Absalón, el hombre que elegimos para ser nuestro rey al ungirlo, ha muerto en la batalla. ¿Por qué no hacemos algo e invitamos al rey David^^ a volver?” 
-^[**19:10** “David”: nombre suministrado para mayor claridad.]
+Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ Todos entre las tribus de Israel discutían entre sí, diciendo: “El rey nos rescató de la persecución de nuestros enemigos, nos salvó de los filisteos, pero ahora ha tenido que huir del país por culpa de Absalón. ^10^ Ahora Absalón, el hombre que elegimos para ser nuestro rey al ungirlo, ha muerto en la batalla. ¿Por qué no hacemos algo e invitamos al rey David^a^ a volver?” 
+^a^[**19:10** “David”: nombre suministrado para mayor claridad.]
 
 ^11^ El rey David envió este mensaje a Sadoc y Abiatar, los sacerdotes: “Díganles a los ancianos de Judá: “¿Van a ser ustedes los últimos en llevar al rey a su palacio, ya que el rey ha oído que todo Israel lo quiere? ^12^ Ustedes son mis hermanos, mi propia carne y sangre. ¿Por qué tendrían que ser los últimos en querer el regreso del rey?’ ^13^ Díganle a Amasa: ‘¿No eres tú también mi carne y mi sangre? Que Dios me castigue muy severamente si a partir de ahora no eres tú el comandante de mi ejército en lugar de Joab’”. 
 
-^14^ Amasa convenció a todo el pueblo de Judá para que apoyara unánimemente a David,^^ así que enviaron un mensaje al rey: “Por favor, regresa, tú y todos los que están contigo”. ^15^ El rey emprendió su viaje de regreso, y cuando llegó al Jordán, los hombres de Judá se reunieron con él en Gilgal para ayudarle a cruzar el río. ^16^ Simeí,^^ hijo de Gera, el benjamita de Bahurim, se apresuró a bajar con los hombres de Judá a recibir al rey David. ^17^ Con él iban mil hombres de la tribu de Benjamín, incluyendo a Siba, siervo de la familia de Saúl, así como los quince hijos de Siba y veinte siervos. Se apresuraron a bajar al Jordán para recibir al rey. ^18^ Cruzaron por el vado para llevar la casa del rey y todo lo que éste quisiera. Simei cruzó el Jordán y cayó de bruces ante el rey. 
-^[**19:14** “David”: nombre suministrado para mayor claridad.]
-^[**19:16** Ver 16:5.]
+^14^ Amasa convenció a todo el pueblo de Judá para que apoyara unánimemente a David,^a^ así que enviaron un mensaje al rey: “Por favor, regresa, tú y todos los que están contigo”. ^15^ El rey emprendió su viaje de regreso, y cuando llegó al Jordán, los hombres de Judá se reunieron con él en Gilgal para ayudarle a cruzar el río. ^16^ Simeí,^b^ hijo de Gera, el benjamita de Bahurim, se apresuró a bajar con los hombres de Judá a recibir al rey David. ^17^ Con él iban mil hombres de la tribu de Benjamín, incluyendo a Siba, siervo de la familia de Saúl, así como los quince hijos de Siba y veinte siervos. Se apresuraron a bajar al Jordán para recibir al rey. ^18^ Cruzaron por el vado para llevar la casa del rey y todo lo que éste quisiera. Simei cruzó el Jordán y cayó de bruces ante el rey. 
+^a^[**19:14** “David”: nombre suministrado para mayor claridad.] ^b^[**19:16** Ver 16:5.]
 
 ^19^ “Su Majestad, por favor, perdóneme y no tenga en cuenta el mal que yo, su siervo, hice cuando Su Majestad salió de Jerusalén. Por favor, olvídelo todo. ^20^ Yo, tu siervo, reconozco que he pecado. Pero ¡mira! Hoy soy el primero de las tribus de José que baja a recibir a Su Majestad”. 
 
 ^21^ Abisai, hijo de Sarvia, dijo: “¿No debería ser ejecutado Simei por esto, por haber maldecido al ungido del Señor?” 
 
-^22^ Pero David respondió: “¿Qué tiene que ver eso con ustedes, hijos de Sarvia?^^ ¿Quieren ser mis enemigos hoy? ¿Es este un día para ejecutar a alguien en Israel? ¿No estoy seguro de que hoy vuelvo a ser el rey de Israel?” 
-^[**19:22** David no sólo responde a Abisai, sino también a Joab, el hermano de Abisai.]
+^22^ Pero David respondió: “¿Qué tiene que ver eso con ustedes, hijos de Sarvia?^a^ ¿Quieren ser mis enemigos hoy? ¿Es este un día para ejecutar a alguien en Israel? ¿No estoy seguro de que hoy vuelvo a ser el rey de Israel?” 
+^a^[**19:22** David no sólo responde a Abisai, sino también a Joab, el hermano de Abisai.]
 
 ^23^ David se volvió hacia Simei y le juró: “No vas a morir”. 
 
 ^24^ Entonces Mefi-boset, nieto de Saúl, fue a recibir al rey. Se había negado a cuidarse los pies, a recortarse el bigote y a lavarse la ropa desde el día en que el rey se fue hasta el día de su regreso pacífico. ^25^ Cuando llegó de Jerusalén al encuentro del rey, éste le preguntó: “¿Por qué no has venido conmigo, Mefi-boset?”. 
 
-^26^ Mefi-boset respondió: “Su Majestad, mi siervo Ziba me engañó. Le dije: ‘Ensilla mi asno^^ para que pueda montarlo y partir con el rey’, porque sabes que soy cojo. ^27^ Siba me ha representado mal a mí, tu siervo, ante Su Majestad. Sin embargo, Su Majestad es como un ángel de Dios, así que haga lo que crea mejor. ^28^ Toda la familia de mi abuelo sólo podía esperar la muerte de Su Majestad, pero usted me incluyó a mí, su siervo, entre los que comen en su mesa. Entonces, ¿qué derecho tengo a pedirle al rey algo más?”. 
-^[**19:26** Lectura de la Septuaginta. Hebreo: “Déjame ensillar mi asno.”]
+^26^ Mefi-boset respondió: “Su Majestad, mi siervo Ziba me engañó. Le dije: ‘Ensilla mi asno^a^ para que pueda montarlo y partir con el rey’, porque sabes que soy cojo. ^27^ Siba me ha representado mal a mí, tu siervo, ante Su Majestad. Sin embargo, Su Majestad es como un ángel de Dios, así que haga lo que crea mejor. ^28^ Toda la familia de mi abuelo sólo podía esperar la muerte de Su Majestad, pero usted me incluyó a mí, su siervo, entre los que comen en su mesa. Entonces, ¿qué derecho tengo a pedirle al rey algo más?”. 
+^a^[**19:26** Lectura de la Septuaginta. Hebreo: “Déjame ensillar mi asno.”]
 
 ^29^ “¿Para qué hablar más de estos asuntos tuyos?” respondió David. “He decidido que tú y Siba se repartan la tierra”. 
 
@@ -666,9 +658,8 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^33^ El rey le dijo a Barzilai: “Cruza el Jordán conmigo, y yo te mantendré mientras te quedes conmigo en Jerusalén”. 
 
-^34^ “¿Cuánto tiempo crees que tengo que vivir para poder ir a Jerusalén y quedarme allí con el rey?” Barzilai respondió. ^35^ “Ya tengo ochenta años. Ya no disfruto de nada. No puedo saborear lo que como o bebo. No puedo oír cuando la gente canta. No tiene sentido que yo, tu siervo, sea otra carga para tu majestad. ^36^ ¡Que tu siervo pueza cruzar el río Jordán con el rey es suficiente recompensa para mí!^^ ^37^ Entonces, que tu siervo vuelva a su casa, para que yo muera en mi ciudad natal, cerca de la tumba de mi padre y de mi madre. Pero aquí está tu siervo, hijo mío^^ Quimán. Deja que cruce con Tu Majestad, y trátalo como mejor te parezca”. 
-^[**19:36** Estos dos versos se presentan como preguntas en hebreo, pero funcionan mejor como afirmaciones en inglés y español.]
-^[**19:37** El texto no dice explícitamente que Quimán es hijo de Barzillai, pero algunos manuscritos de la Septuaginta lo hacen y es una conclusión probable.]
+^34^ “¿Cuánto tiempo crees que tengo que vivir para poder ir a Jerusalén y quedarme allí con el rey?” Barzilai respondió. ^35^ “Ya tengo ochenta años. Ya no disfruto de nada. No puedo saborear lo que como o bebo. No puedo oír cuando la gente canta. No tiene sentido que yo, tu siervo, sea otra carga para tu majestad. ^36^ ¡Que tu siervo pueza cruzar el río Jordán con el rey es suficiente recompensa para mí!^a^ ^37^ Entonces, que tu siervo vuelva a su casa, para que yo muera en mi ciudad natal, cerca de la tumba de mi padre y de mi madre. Pero aquí está tu siervo, hijo mío^b^ Quimán. Deja que cruce con Tu Majestad, y trátalo como mejor te parezca”. 
+^a^[**19:36** Estos dos versos se presentan como preguntas en hebreo, pero funcionan mejor como afirmaciones en inglés y español.] ^b^[**19:37** El texto no dice explícitamente que Quimán es hijo de Barzillai, pero algunos manuscritos de la Septuaginta lo hacen y es una conclusión probable.]
 
 ^38^ El rey respondió: “Quimán cruzará conmigo, y yo lo trataré como mejor te parezca, y haré por ti lo que quieras.” 
 
@@ -683,23 +674,22 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 # 20 
 ^1^ Un agitador llamado Seba, hijo de Bicri, de la tribu de Benjamín, se encontraba allí. Hizo sonar el cuerno de carnero y gritó: “No tenemos ningún interés en David, ningún compromiso con el hijo de Isaí. Israelitas, vámonos todos a casa”. 
 
-^2^ Así que todos los hombres de Israel abandonaron a David para seguir a Seba, hijo de Bicri. Pero los hombres de Judá acompañaron a su rey todo el camino desde el Jordán hasta Jerusalén. ^3^ Cuando David regresó a su palacio en Jerusalén, tomó a las diez concubinas que había dejado para que cuidaran el palacio^^ y los puso en una casa bajo vigilancia. Se ocupó de sus necesidades, pero no se acostó con ellas. Estuvieron presas hasta que murieron, viviendo como viudas. 
-^[**20:3** See 15:16.]
+^2^ Así que todos los hombres de Israel abandonaron a David para seguir a Seba, hijo de Bicri. Pero los hombres de Judá acompañaron a su rey todo el camino desde el Jordán hasta Jerusalén. ^3^ Cuando David regresó a su palacio en Jerusalén, tomó a las diez concubinas que había dejado para que cuidaran el palacio^a^ y los puso en una casa bajo vigilancia. Se ocupó de sus necesidades, pero no se acostó con ellas. Estuvieron presas hasta que murieron, viviendo como viudas. 
+^a^[**20:3** See 15:16.]
 
 ^4^ Entonces el rey ordenó a Amasa: “Convoca al ejército de Judá. Haz que vengan a mí dentro de tres días, y ven tú también”. ^5^ Amasa convocó al ejército de Judá, pero tardó más del tiempo que le habían dado. 
 
 ^6^ David habló entonces con Abisai y le dijo: “Ahora Seba, hijo de Bichri, nos va a causar más problemas que Absalón. Lleva a los hombres del rey y persíguelo, o se apoderará de las ciudades fortificadas y se alejará de nosotros”. 
 
-^7^ Así que los hombres de Joab, junto con los queretanos, los peletanos,^^ y todos los combatientes experimentados, salieron de Jerusalén para perseguir a Seba, hijo de Bichri. ^8^ Mientras estaban en la gran roca de Gabaón, Amasa los alcanzó. Joab estaba vestido para la batalla. Sobre su ropa llevaba un cinturón alrededor de la cintura con una daga en su vaina. Al avanzar, se le cayó.^^ 
-^[**20:7** “Los queretanos, los peletanos”: La guardia personal de David.]
-^[**20:8** Los detalles de lo que ocurre aquí no están claros. Algunos piensan que Joab tenía una daga oculta que se le cayó, tal vez dentro de su túnica. Otros piensan que dejó caer intencionadamente su espada para que pareciera que estaba desarmado, pero que tenía otra arma, una daga, todavía en su cinturón.]
+^7^ Así que los hombres de Joab, junto con los queretanos, los peletanos,^a^ y todos los combatientes experimentados, salieron de Jerusalén para perseguir a Seba, hijo de Bichri. ^8^ Mientras estaban en la gran roca de Gabaón, Amasa los alcanzó. Joab estaba vestido para la batalla. Sobre su ropa llevaba un cinturón alrededor de la cintura con una daga en su vaina. Al avanzar, se le cayó.^b^ 
+^a^[**20:7** “Los queretanos, los peletanos”: La guardia personal de David.] ^b^[**20:8** Los detalles de lo que ocurre aquí no están claros. Algunos piensan que Joab tenía una daga oculta que se le cayó, tal vez dentro de su túnica. Otros piensan que dejó caer intencionadamente su espada para que pareciera que estaba desarmado, pero que tenía otra arma, una daga, todavía en su cinturón.]
 
 ^9^ “¿Cómo estás, hermano mío?” preguntó Joab a Amasa. Joab tomó a Amasa por la barba con su mano derecha para besarlo. 10 Amasa no estaba preparado para el puñal que Joab tenía en la mano izquierda. Joab lo apuñaló en el vientre y sus intestinos se derramaron en el suelo. Joab no necesitó apuñalarlo dos veces, porque Amasa ya estaba muerto. Entonces Joab y su hermano Abisai salieron en persecución de Sabá. 
 
 ^11^ Uno de los hombres de Joab se puso al lado de Amasa y le gritó: “Si están del lado de Joab y de David, ¡vengan y siguan a Joab!”. ^12^ Pero Amasa estaba allí, tendido en su sangre en medio del camino principal. Cuando el hombre vio que todo el mundo se detenía a mirar, sacó el cuerpo del camino a un campo y arrojó un paño sobre él. ^13^ Una vez que el cuerpo de Amasa estuvo fuera del camino, todos los hombres siguieron a Joab en busca de Sabá. 
 
-^14^ Mientras tanto, Sabá había recorrido todas las tribus de Israel y finalmente llegó a la ciudad de Abel-bet-maaca. Todos los bicritas^^ se reunieron para la batalla y lo siguieron hasta la ciudad. ^15^ El ejército de Joab llegó y sitió a Sabá en Abel-Bet-Maacá. Construyeron una rampa de asedio contra la muralla exterior de la ciudad. Mientras todo el ejército de Joab golpeaba la muralla para derribarla, ^16^ una mujer sabia de la ciudad gritó: “¡Escuchen! ¡Por favor, escuchen! Díganle a Joab que venga aquí para hablar con él’”. 
-^[**20:14** Miembros de su propio grupo familiar.]
+^14^ Mientras tanto, Sabá había recorrido todas las tribus de Israel y finalmente llegó a la ciudad de Abel-bet-maaca. Todos los bicritas^a^ se reunieron para la batalla y lo siguieron hasta la ciudad. ^15^ El ejército de Joab llegó y sitió a Sabá en Abel-Bet-Maacá. Construyeron una rampa de asedio contra la muralla exterior de la ciudad. Mientras todo el ejército de Joab golpeaba la muralla para derribarla, ^16^ una mujer sabia de la ciudad gritó: “¡Escuchen! ¡Por favor, escuchen! Díganle a Joab que venga aquí para hablar con él’”. 
+^a^[**20:14** Miembros de su propio grupo familiar.]
 
 ^17^ Él se acercó a ella, y la mujer le preguntó: “¿Eres Joab?” 
 
@@ -722,8 +712,8 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 # 21 
 ^1^ Una vez, durante el reinado de David, hubo una hambruna durante tres años seguidos, y David le preguntó al Señor por ello. El Señor le respondió: “Es porque Saúl y su familia son culpables de asesinar a los gabaonitas”. 
 
-^2^ Entonces David convocó a los gabaonitas y habló con ellos. Los gabaonitas no eran israelitas, sino que eran lo que quedaba del pueblo de los amorreos. Los israelitas les habían hecho un juramento,^^ pero en su fervor nacionalista por los israelitas y Judá, Saúl había tratado de eliminarlos. 
-^[**21:2** Ver Josué 3.]
+^2^ Entonces David convocó a los gabaonitas y habló con ellos. Los gabaonitas no eran israelitas, sino que eran lo que quedaba del pueblo de los amorreos. Los israelitas les habían hecho un juramento,^a^ pero en su fervor nacionalista por los israelitas y Judá, Saúl había tratado de eliminarlos. 
+^a^[**21:2** Ver Josué 3.]
 
 ^3^ “¿Qué puedo hacer por ustedes?” les preguntó David a los gabaonitas. “¿Cómo puedo compensaros para que puedan bendecir al pueblo del Señor?” 
 
@@ -733,11 +723,11 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^5^ Ellos replicaron: “En cuanto al hombre que nos destruyó, que planeó impedir que tuviéramos un lugar donde vivir en todo el país de Israel, ^6^ haz que nos entreguen a siete de los descendientes varones de Saúl, y los colgaremos en presencia del Señor en Gabaón de Saúl, el elegido del Señor.” 
 
-“Se los entregaré”, dijo el rey. ^7^ Sin embargo, el rey perdonó a Mefi-boset, hijo de Jonatán, hijo de Saúl, a causa del juramento hecho ante el Señor entre David y Jonatán, hijo de Saúl. ^8^ El rey tomó a Armoni y a Mefi-boset, los dos hijos de Rizpa, hija de Aia, que ella había dado a luz a Saúl, y los cinco hijos de Merab,^^ la hija de Saúl, que había dado a luz a Adriel, hijo de Barzillai de Meola. ^9^ Los entregó a los gabaonitas, y ellos los colgaron en la colina en presencia del Señor. Los siete murieron al mismo tiempo, ejecutados al comienzo de la cosecha de cebada. 
-^[**21:8** En el texto hebreo se lee Mical, pero se la identifica como sin hijos en 6:23, y Merab se da como esposa de Adriel en 1 Samuel 18:19.]
+“Se los entregaré”, dijo el rey. ^7^ Sin embargo, el rey perdonó a Mefi-boset, hijo de Jonatán, hijo de Saúl, a causa del juramento hecho ante el Señor entre David y Jonatán, hijo de Saúl. ^8^ El rey tomó a Armoni y a Mefi-boset, los dos hijos de Rizpa, hija de Aia, que ella había dado a luz a Saúl, y los cinco hijos de Merab,^a^ la hija de Saúl, que había dado a luz a Adriel, hijo de Barzillai de Meola. ^9^ Los entregó a los gabaonitas, y ellos los colgaron en la colina en presencia del Señor. Los siete murieron al mismo tiempo, ejecutados al comienzo de la cosecha de cebada. 
+^a^[**21:8** En el texto hebreo se lee Mical, pero se la identifica como sin hijos en 6:23, y Merab se da como esposa de Adriel en 1 Samuel 18:19.]
 
-^10^ Rizpa, hija de Aja, tomó un poco de tela de silicio y la extendió para sí misma sobre una roca.^^ Desde el comienzo de la cosecha hasta el momento en que llegaron las lluvias y se derramaron sobre los cuerpos, ella mantenía alejados a los pájaros durante el día y a los animales salvajes durante la noche. 
-^[**21:10** Probablemente para cubrir el suelo y como una sábana sobre ella para protegerla del sol y la lluvia.]
+^10^ Rizpa, hija de Aja, tomó un poco de tela de silicio y la extendió para sí misma sobre una roca.^a^ Desde el comienzo de la cosecha hasta el momento en que llegaron las lluvias y se derramaron sobre los cuerpos, ella mantenía alejados a los pájaros durante el día y a los animales salvajes durante la noche. 
+^a^[**21:10** Probablemente para cubrir el suelo y como una sábana sobre ella para protegerla del sol y la lluvia.]
 
 ^11^ Cuando David se enteró de lo que había hecho Rizpa, hija de Aja, concubina de Saúl, ^12^ recuperó los huesos de Saúl y de su hijo Jonatán de manos de los hombres de Jabes de Galaad, que los habían sacado de la plaza pública de Bet-sán, donde los filisteos habían colgado los cuerpos después de matar a Saúl en Gilboa. ^13^ David hizo traer los huesos de Saúl y de su hijo Jonatán, y también hizo recoger los huesos de los ahorcados. ^14^ Entonces enterraron los huesos de Saúl y de su hijo Jonatán en Zela, en la tierra de Benjamín, en la tumba de Cis, el padre de Saúl. Una vez que terminaron de hacer todo lo que el rey había ordenado, Dios respondió a sus oraciones para poner fin al hambre en la tierra. 
 
@@ -750,13 +740,13 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 ^20^ En otra batalla en Gat, había un hombre gigantesco, que tenía seis dedos en cada mano y seis dedos en cada pie, haciendo un total de veinticuatro. También él descendía de los gigantes. ^21^ Pero cuando insultó a Israel, Jonatán, hijo de Simea, hermano de David, lo mató. ^22^ Estos cuatro eran los descendientes de los gigantes de Gat, pero todos murieron en manos de David y de sus hombres. 
 
 # 22 
-^1^ David cantó las palabras de este cántico al Señor el día en que el Señor lo salvó de todos sus enemigos y de Saúl.^^ ^2^ Entonces cantó: 
-^[**22:1** Este pasaje es paralelo a Salmos 18.]
+^1^ David cantó las palabras de este cántico al Señor el día en que el Señor lo salvó de todos sus enemigos y de Saúl.^a^ ^2^ Entonces cantó: 
+^a^[**22:1** Este pasaje es paralelo a Salmos 18.]
 
 “El Señor es mi roca, mi fortaleza y mi salvador. 
 
-^3^ Él es mi Dios, mi roca que me protege. Él me protege del mal, su poder me salva,^^ me mantiene seguro. Él es mi protector; es mi salvador; me libra de la violencia. 
-^[**22:3** Literalmente, “cuerno de mi salvación.”]
+^3^ Él es mi Dios, mi roca que me protege. Él me protege del mal, su poder me salva,^a^ me mantiene seguro. Él es mi protector; es mi salvador; me libra de la violencia. 
+^a^[**22:3** Literalmente, “cuerno de mi salvación.”]
 
 ^4^ Pido ayuda al Señor, merecedor de alabanza, y me salva de los que me odian. 
 
@@ -772,8 +762,8 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^10^ Apartó los cielos y descendió, con nubes oscuras bajo sus pies. 
 
-^11^ Montado en un ser celestial^^ voló, abalanzándose sobre las alas del viento. 
-^[**22:11** Literalmente, “querubín”, pero en inglés se ha asociado con un bebé angelical.]
+^11^ Montado en un ser celestial^a^ voló, abalanzándose sobre las alas del viento. 
+^a^[**22:11** Literalmente, “querubín”, pero en inglés se ha asociado con un bebé angelical.]
 
 ^12^ Se escondió en las tinieblas, cubriéndose con negras nubes de lluvia. 
 
@@ -781,8 +771,8 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^14^ El Señor tronó desde el cielo; resonó la voz del Altísimo. 
 
-^15^ Disparó sus flechas, dispersando a sus enemigos,^^ los derrotó con sus rayos. 
-^[**22:15** Implícito.]
+^15^ Disparó sus flechas, dispersando a sus enemigos,^a^ los derrotó con sus rayos. 
+^a^[**22:15** Implícito.]
 
 ^16^ El Señor rugió, y con el viento del aliento de su nariz se vieron los valles del mar y se descubrieron los cimientos de la tierra. 
 
@@ -790,15 +780,14 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^18^ Me rescató de mis poderosos enemigos, de los que me odiaban y eran mucho más fuertes que yo. 
 
-^19^ Se abalanzaron sobre mí en mi peor momento,^^ pero el Señor me sostuvo. 
-^[**22:19** Literalmente, “el día de mi destraste.”]
+^19^ Se abalanzaron sobre mí en mi peor momento,^a^ pero el Señor me sostuvo. 
+^a^[**22:19** Literalmente, “el día de mi destraste.”]
 
-^20^ Me liberó,^^ me rescató porque es feliz conmigo.^^ 
-^[**22:20** Literalmente, “me llevó a un lugar espacioso.”]
-^[**22:20** O “Se deleira en mi.”]
+^20^ Me liberó,^a^ me rescató porque es feliz conmigo.^b^ 
+^a^[**22:20** Literalmente, “me llevó a un lugar espacioso.”] ^b^[**22:20** O “Se deleira en mi.”]
 
-^21^ El Señor me recompensó por hacer lo correcto; me pagó porque soy inocente.^^ 
-^[**22:21** Literalmente, “por la limpieza de mis manos.”]
+^21^ El Señor me recompensó por hacer lo correcto; me pagó porque soy inocente.^a^ 
+^a^[**22:21** Literalmente, “por la limpieza de mis manos.”]
 
 ^22^ Porque he seguido los caminos del Señor; no he pecado apartándome de mi Dios. 
 
@@ -808,8 +797,8 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^25^ El Señor me ha recompensado por hacer lo justo. Soy inocente ante sus ojos. 
 
-^26^ Demuestras tu fidelidad a los que son fieles; demuestras integridad a los que son íntegros,^^ 
-^[**22:26** La palabra utilizada aquí significa “complete” o “bueno.”]
+^26^ Demuestras tu fidelidad a los que son fieles; demuestras integridad a los que son íntegros,^a^ 
+^a^[**22:26** La palabra utilizada aquí significa “complete” o “bueno.”]
 
 ^27^ Te muestras puro a los que son puros, pero te muestras astuto con los astutos. 
 
@@ -819,8 +808,8 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^30^ Contigo puedo abatir una tropa de soldados; contigo, Dios mío, puedo escalar un muro de la fortaleza. 
 
-^31^ El camino de Dios es absolutamente correcto.^^ La palabra del Señor es digna de confianza. Es un escudo para todos los que acuden a él en busca de protección. 
-^[**22:31** La palabra utilizada aquí, a menudo traducida como “perfecto”, es la misma que en 18:25.]
+^31^ El camino de Dios es absolutamente correcto.^a^ La palabra del Señor es digna de confianza. Es un escudo para todos los que acuden a él en busca de protección. 
+^a^[**22:31** La palabra utilizada aquí, a menudo traducida como “perfecto”, es la misma que en 18:25.]
 
 ^32^ Porque ¿quién es Dios sino el Señor? ¿Quién es la Roca, sino nuestro Dios? 
 
@@ -858,11 +847,11 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^49^ y me libera de los que me odian. Me mantiene a salvo de los que se rebelan contra mí, me salva de los hombres violentos. 
 
-^50^ Por eso te alabaré entre las naciones, Señor; cantaré alabanzas sobre lo que tú eres.^^ 
-^[**22:50** “sobrelo quetú eres”: literalmente, “a tu nombre”: el concepto de nombre en hebreo es mucho más que una simple designación; se refiere al carácter de la persona.]
+^50^ Por eso te alabaré entre las naciones, Señor; cantaré alabanzas sobre lo que tú eres.^a^ 
+^a^[**22:50** “sobrelo quetú eres”: literalmente, “a tu nombre”: el concepto de nombre en hebreo es mucho más que una simple designación; se refiere al carácter de la persona.]
 
-^51^ Has salvado al rey tantas veces,^^ mostrando tu amor fiel a David, tu ungido, y a sus descendientes por siempre.”
-^[**22:51** O “Has dado muchas victorias al rey.”] 
+^51^ Has salvado al rey tantas veces,^a^ mostrando tu amor fiel a David, tu ungido, y a sus descendientes por siempre.”
+^a^[**22:51** O “Has dado muchas victorias al rey.”] 
 
 # 23 
 ^1^ Estas son las últimas palabras de David. El mensaje divino de David hijo de Isaí, el mensaje divino del hombre engrandecido por Dios, el ungido por el Dios de Jacob, el maravilloso salmista de Israel: 
@@ -885,26 +874,25 @@ Mientras tanto, los israelitas habían huido y se habían ido a sus casas. ^9^ T
 
 ^16^ Los tres guerreros principales rompieron las defensas filisteas, tomaron un poco de agua del pozo de la puerta de Belén y se la llevaron a David. Pero David se negó a beberla y la derramó como ofrenda al Señor. ^17^ “¡Señor, no me dejes hacer esto!”, dijo. “¿No es como beber la sangre de esos hombres que arriesgaron sus vidas?” Así que no la bebió. Estas son algunas de las cosas que hicieron los tres guerreros principales. 
 
-^18^ Abisai, hermano de Joab, era el líder del segundo Tres.^^ Usando su lanza, una vez mató a 300 hombres, y se hizo famoso entre los Tres. ^19^ Era el más apreciado de los Tres y era su comandante, aunque no fue uno del grupo del primer Tres.^^ 
-^[**23:18** Sin embargo, ya se ha mencionado a Jasobeam como líder de los Tres (11:11), y también se ha mencionado la muerte de 300 con su lanza. Algunos sugieren una confusión de nombres o una ortografía alternativa, o que esto se refiere a otra persona en conjunto como líder no de los Tres sino de los Treinta, o que había otro “Tres.”]
-^[**23:19** Identificar un primer y un segundo Tres parece ser la solución más sencilla a estos versos confusos.]
+^18^ Abisai, hermano de Joab, era el líder del segundo Tres.^a^ Usando su lanza, una vez mató a 300 hombres, y se hizo famoso entre los Tres. ^19^ Era el más apreciado de los Tres y era su comandante, aunque no fue uno del grupo del primer Tres.^b^ 
+^a^[**23:18** Sin embargo, ya se ha mencionado a Jasobeam como líder de los Tres (11:11), y también se ha mencionado la muerte de 300 con su lanza. Algunos sugieren una confusión de nombres o una ortografía alternativa, o que esto se refiere a otra persona en conjunto como líder no de los Tres sino de los Treinta, o que había otro “Tres.”] ^b^[**23:19** Identificar un primer y un segundo Tres parece ser la solución más sencilla a estos versos confusos.]
 
-^20^ Benaía, hijo de Joiada, un fuerte guerrero de Cabseel, hizo muchas cosas sorprendentes. Mató a dos hijos de Ariel de Moab.^^ También fue tras un león a un pozo en la nieve y lo mató. ^21^ En otra ocasión mató a un enorme egipcio. El egipcio tenía una lanza en la mano, pero Benaía lo atacó sólo con un garrote. Agarró la lanza de la mano del egipcio y lo mató con su propia lanza. ^22^ Este fue el tipo de cosas que hizo Benaía y que lo hicieron tan famoso como los tres principales guerreros. ^23^ Era el más apreciado de los Treinta, aunque no era uno de los Tres. David lo puso a cargo de su guardia personal. 
-^[**23:20** Entendido en la Septuaginta; puede referirse a dos campeones de lucha de Moab.]
+^20^ Benaía, hijo de Joiada, un fuerte guerrero de Cabseel, hizo muchas cosas sorprendentes. Mató a dos hijos de Ariel de Moab.^a^ También fue tras un león a un pozo en la nieve y lo mató. ^21^ En otra ocasión mató a un enorme egipcio. El egipcio tenía una lanza en la mano, pero Benaía lo atacó sólo con un garrote. Agarró la lanza de la mano del egipcio y lo mató con su propia lanza. ^22^ Este fue el tipo de cosas que hizo Benaía y que lo hicieron tan famoso como los tres principales guerreros. ^23^ Era el más apreciado de los Treinta, aunque no era uno de los Tres. David lo puso a cargo de su guardia personal. 
+^a^[**23:20** Entendido en la Septuaginta; puede referirse a dos campeones de lucha de Moab.]
 
 ^24^ Entre los Treinta estaban: 
 
-Asael, hermano de Joab; Elhanan, hijo de Dodo, de Belén; ^25^ Sama el harorita; Elica el harodita, ^26^ Heles el paltita; Ira, hijo de Iques, de Tecoa; ^27^ Abiezer de Anatot; Mebunai el husatita; ^28^ Salmón el ahohita; Maharai el netofita; ^29^ Heleb, hijo de Baná el netofita; Itai, hijo de Ribai, de Guibeá de los benjamitas; ^30^ Benaía el piratonita; Hidai, de los arroyos de Gaas; ^31^ Abi-albón el arbateo; Azmavet el baharumita; ^32^ Eliahba el saalbonita; los hijos de Jasem; Jonatán, ^33^ hijo de^^ Sage el hararita; Ahiam, hijo de Sarar el ararita; ^34^ Elifelet, hijo de Ahasbai, hijo del maacateo; Eliam, hijo de Ahitofel, de Gilo, ^35^ Hezro el carmelita; Paarai el arbita; ^36^ Igal, hijo de Natán de Soba; Bani el gadita, ^37^ Selec el amonita; Naharai, el berotita, que era el escudero de Joab, hijo de Servia, ^38^ Ira de Jatir; Gareb de Jatir, ^39^ y Urías el hitita, para un total de treinta y siete.
-^[**23:33** El hebreo no tiene “hijo de.”] 
+Asael, hermano de Joab; Elhanan, hijo de Dodo, de Belén; ^25^ Sama el harorita; Elica el harodita, ^26^ Heles el paltita; Ira, hijo de Iques, de Tecoa; ^27^ Abiezer de Anatot; Mebunai el husatita; ^28^ Salmón el ahohita; Maharai el netofita; ^29^ Heleb, hijo de Baná el netofita; Itai, hijo de Ribai, de Guibeá de los benjamitas; ^30^ Benaía el piratonita; Hidai, de los arroyos de Gaas; ^31^ Abi-albón el arbateo; Azmavet el baharumita; ^32^ Eliahba el saalbonita; los hijos de Jasem; Jonatán, ^33^ hijo de^a^ Sage el hararita; Ahiam, hijo de Sarar el ararita; ^34^ Elifelet, hijo de Ahasbai, hijo del maacateo; Eliam, hijo de Ahitofel, de Gilo, ^35^ Hezro el carmelita; Paarai el arbita; ^36^ Igal, hijo de Natán de Soba; Bani el gadita, ^37^ Selec el amonita; Naharai, el berotita, que era el escudero de Joab, hijo de Servia, ^38^ Ira de Jatir; Gareb de Jatir, ^39^ y Urías el hitita, para un total de treinta y siete.
+^a^[**23:33** El hebreo no tiene “hijo de.”] 
 
 # 24 
-^1^ El Señor^^ estaba enojado con Israel, y provocó a David contra ellos, diciendo: “Ve y haz un censo de Israel y de Judá”. ^2^ Entonces David le dijo a Joab, el comandante del ejército: “Ve y cuenta a los israelitas desde Dan hasta Beerseba, para que yo tenga un número total.” 
-^[**24:1** En 1 Crónicas 21:1 se identifica a Satanás como el que provocó a David a realizar el censo. Aquí, como en otras partes de la Escritura, puede ser que, puesto que Dios es todopoderoso, se le atribuya la responsabilidad incluso de las acciones que no comete específicamente.]
+^1^ El Señor^a^ estaba enojado con Israel, y provocó a David contra ellos, diciendo: “Ve y haz un censo de Israel y de Judá”. ^2^ Entonces David le dijo a Joab, el comandante del ejército: “Ve y cuenta a los israelitas desde Dan hasta Beerseba, para que yo tenga un número total.” 
+^a^[**24:1** En 1 Crónicas 21:1 se identifica a Satanás como el que provocó a David a realizar el censo. Aquí, como en otras partes de la Escritura, puede ser que, puesto que Dios es todopoderoso, se le atribuya la responsabilidad incluso de las acciones que no comete específicamente.]
 
 ^3^ Pero Joab le respondió al rey: “¡Que el Señor multiplique su pueblo cien veces, Su Majestad, y que usted viva para verlo! Pero, ¿por qué quiere hacer esto Su Majestad?” 
 
-^4^ Pero el rey se mostró inflexible, así que Joab y los comandantes del ejército dejaron al rey y fueron a censar al pueblo^^ de Israel. 
-^[**24:4** Por supuesto, David está interesado principalmente en el número de hombres que puede llamar para servir en su ejército.]
+^4^ Pero el rey se mostró inflexible, así que Joab y los comandantes del ejército dejaron al rey y fueron a censar al pueblo^a^ de Israel. 
+^a^[**24:4** Por supuesto, David está interesado principalmente en el número de hombres que puede llamar para servir en su ejército.]
 
 ^5^ Cruzaron el Jordán y acamparon al sur de la ciudad de Aroer, en medio del valle, y luego siguieron hacia Gad y Jazer. ^6^ Luego pasaron a Galaad y a la tierra de Tahtim-hodshi, y después siguieron hacia Dan, y de Dan a Sidón. ^7^ Después fueron a la fortaleza de Tiro y a todas las ciudades de los heveos y cananeos. Terminaron en el Néguev de Judá, en Beerseba. ^8^ Después de recorrer todo el país durante nueve meses y veinte días, regresaron a Jerusalén. ^9^ Joab informó al rey del número de personas que habían sido contadas. En Israel había 800.000 hombres combatientes que podían usar la espada, y en Judá había 500.000. 
 
@@ -912,11 +900,11 @@ Asael, hermano de Joab; Elhanan, hijo de Dodo, de Belén; ^25^ Sama el harorita;
 
 ^11^ Cuando David se levantó por la mañana, el Señor había enviado un mensaje al profeta Gad, vidente de David, diciendo: ^12^ “Ve y dile a David que esto es lo que dice el Señor: ‘Te doy tres opciones. Elige una de ellas, y eso es lo que haré contigo’”. 
 
-^13^ Entonces Gad fue y le dijo a David: “Puedes elegir tres^^ años de hambre en tu tierra; o tres meses huyendo de tus enemigos mientras te persiguen; o tres días de peste en tu tierra. Así que piénsalo y decide cómo debo responder a quien me ha enviado”. 
-^[**24:13** Lectura de la Septuaginta. En hebreo se lee “siete años”, como en 1 Crónicas 21:12.]
+^13^ Entonces Gad fue y le dijo a David: “Puedes elegir tres^a^ años de hambre en tu tierra; o tres meses huyendo de tus enemigos mientras te persiguen; o tres días de peste en tu tierra. Así que piénsalo y decide cómo debo responder a quien me ha enviado”. 
+^a^[**24:13** Lectura de la Septuaginta. En hebreo se lee “siete años”, como en 1 Crónicas 21:12.]
 
-^14^ Entonces David le respondió a Gad: “¡Esta es una situación terrible para mí! Por favor, deja que el Señor decida mi castigo,^^ porque es misericordioso. No permitas que la gente me castigue”. 
-^[**24:14** “Deja que el Señor decida mi castigo”: literalmente, “déjame caer en manos del Señor”. También al final del verso, “No me dejes caer en manos humanas.”]
+^14^ Entonces David le respondió a Gad: “¡Esta es una situación terrible para mí! Por favor, deja que el Señor decida mi castigo,^a^ porque es misericordioso. No permitas que la gente me castigue”. 
+^a^[**24:14** “Deja que el Señor decida mi castigo”: literalmente, “déjame caer en manos del Señor”. También al final del verso, “No me dejes caer en manos humanas.”]
 
 ^15^ Así que el Señor envió una plaga sobre Israel desde aquella mañana hasta la hora señalada, y murieron setenta mil personas desde Dan hasta Beerseba. ^16^ Pero justo cuando el ángel se disponía a destruir Jerusalén, el Señor cedió de causar semejante desastre y le dijo al ángel destructor: “Es suficiente. Ya puedes parar”. Justo en ese momento el ángel del Señor estaba junto a la era de Arauna el jebuseo. 
 
@@ -928,8 +916,8 @@ Asael, hermano de Joab; Elhanan, hijo de Dodo, de Belén; ^25^ Sama el harorita;
 
 “Para comprar tu era y así poder construir un altar al Señor para que se detenga la plaga del pueblo,” respondió David. 
 
-^22^ “Tómala, y tu majestad podrá usarla para hacer ofrendas como mejor te parezca”, le dijo Arauná a David. “Aquí están los bueyes para los holocaustos, y aquí están las tablas de trillar y los yugos para los bueyes para la leña. ^23^ Su Majestad, yo, Arauna, se lo doy todo al rey”. Arauna concluyó diciendo: “Que el Señor, tu Dios, te responda positivamente^^.” 
-^[**24:23** “Te responda positivamente”: o, “acepte.”]
+^22^ “Tómala, y tu majestad podrá usarla para hacer ofrendas como mejor te parezca”, le dijo Arauná a David. “Aquí están los bueyes para los holocaustos, y aquí están las tablas de trillar y los yugos para los bueyes para la leña. ^23^ Su Majestad, yo, Arauna, se lo doy todo al rey”. Arauna concluyó diciendo: “Que el Señor, tu Dios, te responda positivamente^a^ .” 
+^a^[**24:23** “Te responda positivamente”: o, “acepte.”]
 
 ^24^ “No, insisto en pagarte por ello”, respondió el rey. “No presentaré al Señor, mi Dios, holocaustos que no me han costado nada”. David compró la era y los bueyes por cincuenta siclos de plata. 
 

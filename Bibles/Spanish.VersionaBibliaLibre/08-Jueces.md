@@ -3,37 +3,37 @@
 
 ^2^ “Judá debe ir primero”, respondió el Señor. “Les he entregado la tierra”. 
 
-^3^ Los hombres de Judá dijeron a sus parientes de la tribu de Simeón: “Vengan con nosotros a la tierra que nos ha sido asignada y luchen juntos con nosotros contra los cananeos. Entonces haremos lo mismo con ustedes y con la tierra que les fue asignada.”^^Así que la tribu de Simeón se unió a ellos. 
-^[**1:3** Las asignaciones de tierra estaban al lado de las otras.]
+^3^ Los hombres de Judá dijeron a sus parientes de la tribu de Simeón: “Vengan con nosotros a la tierra que nos ha sido asignada y luchen juntos con nosotros contra los cananeos. Entonces haremos lo mismo con ustedes y con la tierra que les fue asignada.”^a^ Así que la tribu de Simeón se unió a ellos. 
+^a^[**1:3** Las asignaciones de tierra estaban al lado de las otras.]
 
-^4^ Los hombres de Judá atacaron a los cananeos y a los ferezeos, y el Señor los entregó derrotados. Mataron a diez mil enemigos en la ciudad de Bezec. ^5^ Allí se enfrentaron a AdoníBezec^^y lucharon con él, derrotando a los cananeos y a los ferezeos. ^6^ AdoníBezec huyó, pero ellos lo persiguieron y lo capturaron, y luego le cortaron los pulgares y los dedos gordos de los pies. 
-^[**1:5** Significa “el señor de Bezek.”]
+^4^ Los hombres de Judá atacaron a los cananeos y a los ferezeos, y el Señor los entregó derrotados. Mataron a diez mil enemigos en la ciudad de Bezec. ^5^ Allí se enfrentaron a AdoníBezec^a^ y lucharon con él, derrotando a los cananeos y a los ferezeos. ^6^ AdoníBezec huyó, pero ellos lo persiguieron y lo capturaron, y luego le cortaron los pulgares y los dedos gordos de los pies. 
+^a^[**1:5** Significa “el señor de Bezek.”]
 
 ^7^ AdoníBezec dijo: “Tuve setenta reyes con los pulgares y los dedos gordos de los pies cortados recogiendo las sobras de debajo de mi mesa. Ahora Dios me ha devuelto de la misma manera lo que les hice a ellos”. Lo llevaron a Jerusalén, donde murió. 
 
-^8^ Los hombres de Judá atacaron Jerusalén y la conquistaron.^^Mataron a los habitantes a espada y quemaron la ciudad. ^9^ Después de esto, los hombres de Judá fueron a luchar contra los cananeos que vivían en la región montañosa, en el Néguev y en las estribaciones de las tierras bajas. ^10^ Atacaron a los cananeos que vivían en Hebrón (antes conocida como Quiriat Arba) y derrotaron a Sesay, Ajimán y Talmai. 
-^[**1:8** Es evidente que no se trataba de una conquista permanente, ya que David tuvo que tomar Jerusalén varios siglos después.]
+^8^ Los hombres de Judá atacaron Jerusalén y la conquistaron.^a^ Mataron a los habitantes a espada y quemaron la ciudad. ^9^ Después de esto, los hombres de Judá fueron a luchar contra los cananeos que vivían en la región montañosa, en el Néguev y en las estribaciones de las tierras bajas. ^10^ Atacaron a los cananeos que vivían en Hebrón (antes conocida como Quiriat Arba) y derrotaron a Sesay, Ajimán y Talmai. 
+^a^[**1:8** Es evidente que no se trataba de una conquista permanente, ya que David tuvo que tomar Jerusalén varios siglos después.]
 
 ^11^ De allí pasaron a atacar a los que vivían en Debir (antes conocida como QuiriatSefer). ^12^ Caleb anunció: “Daré a mi hija Acsa en matrimonio al que ataque y capture QuiriatSefer”. ^13^ Otoniel, hijo de Quenaz, hermano menor de Caleb, fue quien la capturó, así que le dio a su hija Acsa en matrimonio. 
 
-^14^ CuandoAcsa se acercó a Otoniel, laconvención^^para que le pidiera un terreno a su padre. Cuando ella se bajó del asno, Caleb le preguntó: “¿Qué quieres?” 
-^[**1:14** Texto hebreo. Algunas versiones de la Septuaginta dicen: “La animó.”]
+^14^ CuandoAcsa se acercó a Otoniel, laconvención^a^ para que le pidiera un terreno a su padre. Cuando ella se bajó del asno, Caleb le preguntó: “¿Qué quieres?” 
+^a^[**1:14** Texto hebreo. Algunas versiones de la Septuaginta dicen: “La animó.”]
 
-^15^ “Por favor, dame una bendición,”^^respondió ella. “Me diste una tierra que es como el desierto, así que por favor dame también manantiales de agua”. Así que Caleb le dio los manantiales superiores e inferiores. 
-^[**1:15** “Bendición”: se refiere a la costumbre del padre de la novia de dar a su hija una bendición especial con motivo de su matrimonio.]
+^15^ “Por favor, dame una bendición,”^a^ respondió ella. “Me diste una tierra que es como el desierto, así que por favor dame también manantiales de agua”. Así que Caleb le dio los manantiales superiores e inferiores. 
+^a^[**1:15** “Bendición”: se refiere a la costumbre del padre de la novia de dar a su hija una bendición especial con motivo de su matrimonio.]
 
 ^16^ Los descendientes del suegro de Moisés, el ceneo, fueron con el pueblo de Judá desde la ciudad de las palmeras hasta el desierto de Judá, en el Néguev, cerca de Arad, donde se establecieron entre el pueblo. 
 
-^17^ Entonces Judá se unió a Simeón y derrotó a los cananeos que vivían en Zefat. Destruyeron completamente la ciudad, por lo que la llamaron Horma^^ ^18^ Judá también capturó las ciudades de Gaza, Ascalón y Ecrón, cada una con su territorio circundante. 
-^[**1:17** “Horma”: significa “dedicado a la destrucción.”]
+^17^ Entonces Judá se unió a Simeón y derrotó a los cananeos que vivían en Zefat. Destruyeron completamente la ciudad, por lo que la llamaron Horma^a^ ^18^ Judá también capturó las ciudades de Gaza, Ascalón y Ecrón, cada una con su territorio circundante. 
+^a^[**1:17** “Horma”: significa “dedicado a la destrucción.”]
 
 ^19^ El Señor estaba con Judá, y se apoderaron de la región montañosa, pero no pudieron expulsar a los habitantes de la llanura porque tenían carros de hierro. 
 
-^20^ Como Moisés había estipulado, Hebrón fue entregada a Caleb, quien expulsó de ella a los descendientes de tres hijos de Anac. ^21^ Sin embargo, Benjamín no pudo expulsar a los jebuseos, los habitantes de Jerusalén, por lo que los jebuseos viven entre el pueblo de Benjamín en Jerusalén hasta el día de hoy.^^ 
-^[**1:21** Véase también Josué 15:63, donde Judá fue igualmente incapaz de tomar Jerusalén.]
+^20^ Como Moisés había estipulado, Hebrón fue entregada a Caleb, quien expulsó de ella a los descendientes de tres hijos de Anac. ^21^ Sin embargo, Benjamín no pudo expulsar a los jebuseos, los habitantes de Jerusalén, por lo que los jebuseos viven entre el pueblo de Benjamín en Jerusalén hasta el día de hoy.^a^ 
+^a^[**1:21** Véase también Josué 15:63, donde Judá fue igualmente incapaz de tomar Jerusalén.]
 
-^22^ Los descendientes de José^^fueron y atacaron la ciudad de Betel, y el Señor estaba con ellos. ^23^ Enviaron espías a investigar Betel, que antes se llamaba Luz. ^24^ Los espías vieron a un hombre que salía de la ciudad y le dijeron: “Por favor, muéstranos cómo entrar en la ciudad, y te trataremos bien.” 
-^[**1:22** Significa la tribu de Efraín y la media tribu de Manasés.]
+^22^ Los descendientes de José^a^ fueron y atacaron la ciudad de Betel, y el Señor estaba con ellos. ^23^ Enviaron espías a investigar Betel, que antes se llamaba Luz. ^24^ Los espías vieron a un hombre que salía de la ciudad y le dijeron: “Por favor, muéstranos cómo entrar en la ciudad, y te trataremos bien.” 
+^a^[**1:22** Significa la tribu de Efraín y la media tribu de Manasés.]
 
 ^25^ El hombre les mostró el camino para entrar en la ciudad, y mataron a todos los habitantes, excepto al hombre y a su familia, a quienes dejaron ir. ^26^ El hombre se trasladó al país de los hititas, construyó allí una ciudad y la llamó Luz, que es su nombre hasta hoy. ^27^ Sin embargo, Manasés no expulsó a los habitantes de las ciudades de BetSeán, Taanac, Dor, Ibleam, Meguido y sus aldeas circundantes porque los cananeos insistieron en vivir en la tierra. ^28^ Cuando los israelitas se hicieron más fuertes, obligaron a los cananeos a realizar trabajos forzados, pero nunca los expulsaron del todo. 
 
@@ -48,21 +48,21 @@
 ^34^ Los amorreos hicieron retroceder al pueblo de Dan a la región montañosa; no los dejaron bajar a las tierras bajas. ^35^ Los amorreos insistieron en quedarse en el monte Heres, Ajalón y Salbim, pero cuando las tribus de José se hicieron más fuertes, los amorreos fueron obligados a hacer trabajos forzados. ^36^ La frontera con los amorreos iba desde el Paso del Escorpión, pasando por Sela y subiendo desde allí. 
 
 # 2 
-^1^ El ángel del Señor fue de Gilgal a Boquín y le dijo al pueblo: “Yo los saqué de la tierra de Egipto y los traje a esta tierra que les prometí a sus antepasados, y les dije que nunca rompería el acuerdo que hice con ustedes. ^2^ También les dije que no hicieran ningún acuerdo con los pueblos que vivían en la tierra y que derribaran sus altares. Pero ustedes se negaron a obedecer lo que les dije. ¿Por qué hiciste esto? ^3^ También os advertí: ‘No los expulsaré delante de ustedes, y serán trampas para ustedes, y sus dioses serán trampas para ustedes.’”^^ 
-^[**2:3** Véase Números 33:55; Josué 23:13]
+^1^ El ángel del Señor fue de Gilgal a Boquín y le dijo al pueblo: “Yo los saqué de la tierra de Egipto y los traje a esta tierra que les prometí a sus antepasados, y les dije que nunca rompería el acuerdo que hice con ustedes. ^2^ También les dije que no hicieran ningún acuerdo con los pueblos que vivían en la tierra y que derribaran sus altares. Pero ustedes se negaron a obedecer lo que les dije. ¿Por qué hiciste esto? ^3^ También os advertí: ‘No los expulsaré delante de ustedes, y serán trampas para ustedes, y sus dioses serán trampas para ustedes.’”^a^ 
+^a^[**2:3** Véase Números 33:55; Josué 23:13]
 
-^4^ Después de que el ángel del Señor explicó esto a todos los israelitas, el pueblo lloró a gritos. ^5^ Por eso llamaron al lugar Boquín,^^y presentaron allí sacrificios al Señor. 
-^[**2:5** “Boquín” significa “llanto.”]
+^4^ Después de que el ángel del Señor explicó esto a todos los israelitas, el pueblo lloró a gritos. ^5^ Por eso llamaron al lugar Boquín,^a^ y presentaron allí sacrificios al Señor. 
+^a^[**2:5** “Boquín” significa “llanto.”]
 
 ^6^ Después de que Josué despidió al pueblo, los israelitas fueron a tomar posesión de la tierra, cada uno a su tierra asignada. ^7^ El pueblo siguió adorando al Señor durante toda la vida de Josué, y durante toda la vida de los ancianos que le sobrevivieron, los que habían visto todas las cosas maravillosas que el Señor había hecho por Israel. 
 
 ^8^ Josué, hijo de Nun, siervo del Señor, murió a la edad de ciento diez años. ^9^ Lo enterraron en Timnat-Jeres, en la región montañosa de Efraín, al norte del monte Gaas, la tierra que le había sido asignada. 
 
-^10^ Una vez que pasó esa generación, la siguiente no conoció al Señor ni lo que había hecho por Israel. ^11^ Los israelitas hicieron lo que era malo a los ojos del Señor, y adoraron a los baales.^^ ^12^ Abandonaron al Señor, el Dios de sus antepasados, que los había sacado de Egipto. Siguieron a otros dioses, inclinándose en adoración a los dioses de los pueblos que los rodeaban, haciendo enojar al Señor. ^13^ Abandonaron al Señor y adoraron a los ídolos Baal y Astarot. ^14^ Como el Señor se enojó con Israel, los entregó a los invasores que los saquearon. Los vendió a sus enemigos de alrededor, enemigos a los que ya no podían resistir. ^15^ Cada vez que Israel entraba en batalla, el Señor luchaba contra ellos y los derrotaba, tal como les había advertido y como había jurado que haría. Estaban en un gran apuro. 
-^[**2:11** “Baales”: dioses paganos.]
+^10^ Una vez que pasó esa generación, la siguiente no conoció al Señor ni lo que había hecho por Israel. ^11^ Los israelitas hicieron lo que era malo a los ojos del Señor, y adoraron a los baales.^a^ ^12^ Abandonaron al Señor, el Dios de sus antepasados, que los había sacado de Egipto. Siguieron a otros dioses, inclinándose en adoración a los dioses de los pueblos que los rodeaban, haciendo enojar al Señor. ^13^ Abandonaron al Señor y adoraron a los ídolos Baal y Astarot. ^14^ Como el Señor se enojó con Israel, los entregó a los invasores que los saquearon. Los vendió a sus enemigos de alrededor, enemigos a los que ya no podían resistir. ^15^ Cada vez que Israel entraba en batalla, el Señor luchaba contra ellos y los derrotaba, tal como les había advertido y como había jurado que haría. Estaban en un gran apuro. 
+^a^[**2:11** “Baales”: dioses paganos.]
 
-^16^ Entonces el Señor les dio jueces,^^que los salvaran de sus invasores. ^17^ Pero aun así, se negaban a escuchar a sus jueces y se prostituyeron siguiendo a otros dioses, inclinándose ante ellos. Rápidamente abandonaron el camino que habían seguido sus antepasados, y no obedecieron los mandamientos del Señor como lo habían hecho sus antepasados. 
-^[**2:16** “Jueces”: o “líderes.”]
+^16^ Entonces el Señor les dio jueces,^a^ que los salvaran de sus invasores. ^17^ Pero aun así, se negaban a escuchar a sus jueces y se prostituyeron siguiendo a otros dioses, inclinándose ante ellos. Rápidamente abandonaron el camino que habían seguido sus antepasados, y no obedecieron los mandamientos del Señor como lo habían hecho sus antepasados. 
+^a^[**2:16** “Jueces”: o “líderes.”]
 
 ^18^ Cuando el Señor proveyó a Israel de jueces, estuvo con cada juez y salvó al pueblo de sus enemigos durante la vida de ese juez, porque el Señor se compadecía de su pueblo, que gemía bajo sus opresores y perseguidores. ^19^ Pero cuando el juez moría, el pueblo recaíay hacía cosas incluso peores que sus antepasados, siguiendo a otros dioses y adorándolos. Se negaron a dejar lo que hacían y se aferraron a sus costumbres obstinadas. 
 
@@ -75,8 +75,8 @@
 
 ^9^ Pero cuando los israelitas clamaron al Señor para que los ayudara, él proveyó a alguien para rescatarlos, Otoniel, hijo de Quenaz, hermano menor de Caleb, y él los salvó. ^10^ El Espíritu del Señor vino sobre él, y se convirtió en juez de Israel. Fue a la guerra con Cusán-Risatayín, rey de Aram, y el Señor entregó al rey a Otoniel, que salió victorioso. ^11^ Como resultado, el país estuvo en paz durante cuarenta años, hasta que murió Otoniel, hijo de Cenaz. 
 
-^12^ Pero una vez más los israelitas hicieron lo que era malo a los ojos del Señor, y por eso el Señor le dio poder a Eglón, rey de Moab, para que conquistara a Israel. ^13^ Eglón hizo que los amonitas y los amalecitas se unieran a él, y luego atacó y derrotó a Israel, tomando posesión de la Ciudad de las Palmas.^^ ^14^ Los israelitas estuvieron sometidos a Eglón, rey de Moab, durante dieciocho años. 
-^[**3:13** “Ciudad de las Palmas”: Jericó.]
+^12^ Pero una vez más los israelitas hicieron lo que era malo a los ojos del Señor, y por eso el Señor le dio poder a Eglón, rey de Moab, para que conquistara a Israel. ^13^ Eglón hizo que los amonitas y los amalecitas se unieran a él, y luego atacó y derrotó a Israel, tomando posesión de la Ciudad de las Palmas.^a^ ^14^ Los israelitas estuvieron sometidos a Eglón, rey de Moab, durante dieciocho años. 
+^a^[**3:13** “Ciudad de las Palmas”: Jericó.]
 
 ^15^ Nuevamente los israelitas clamaron al Señor para que los ayudara, y él les proporcionó a alguien que los rescatara, Aod, hijo de Guerá el benjamita, un hombre zurdo. Los israelitas lo enviaron a pagar el tributo a Eglón, rey de Moab. ^16^ Aod se había hecho una espada de doble filo de un codo de largo, y se la ató al muslo derecho debajo de su ropa. ^17^ Llegó y presentó el tributo a Eglón, rey de Moab, que era un hombre muy gordo. 
 
@@ -84,8 +84,8 @@
 
 ^20^ Aod se acercó entonces a donde Eglón estaba sentado solo en su fresca habitación del piso superior, y le dijo: “Tengo un mensaje de Dios para usted”. Cuando el rey se levantó de su asiento, ^21^ Aod tomó su espada con la mano izquierda desde su muslo derecho y la clavó en el vientre de Eglón. ^22^ La empuñadura entró con la hoja y la grasa se cerró sobre ella. Entonces Aod no sacó la espada, y el rey defecó. 
 
-^23^ Entonces Aod cerró y echó el cerrojo a las puertas, y escapó por la letrina.^^ ^24^ Cuando se hubo marchado, llegaron los criados y vieron que las puertas de la habitación estaban cerradas con llave. “Debe estar usando la letrina”, concluyeron. ^25^ Así que esperaron hasta que no pudieron aguantar más, y como todavía no había abierto las puertas de la habitación, fueron a buscar la llave y abrieron las puertas. Allí estaba su señor, muerto en el suelo. 
-^[**3:23** “Letrina”: El significado de la palabra es incierto, algunos creen que significa “cobertizo”, sin embargo parece que Aod consiguió salir de la habitación en secreto. Descender por una letrina abierta parece ser la mejor conclusión.]
+^23^ Entonces Aod cerró y echó el cerrojo a las puertas, y escapó por la letrina.^a^ ^24^ Cuando se hubo marchado, llegaron los criados y vieron que las puertas de la habitación estaban cerradas con llave. “Debe estar usando la letrina”, concluyeron. ^25^ Así que esperaron hasta que no pudieron aguantar más, y como todavía no había abierto las puertas de la habitación, fueron a buscar la llave y abrieron las puertas. Allí estaba su señor, muerto en el suelo. 
+^a^[**3:23** “Letrina”: El significado de la palabra es incierto, algunos creen que significa “cobertizo”, sin embargo parece que Aod consiguió salir de la habitación en secreto. Descender por una letrina abierta parece ser la mejor conclusión.]
 
 ^26^ Mientras los sirvientes se demoraban en actuar, Aod escapó, pasando los ídolos de piedra y dirigiéndose a Seirat. ^27^ Al llegar allí, hizo sonar una trompeta en la región montañosa de Efraín, y los israelitas se le unieron. Bajaron de las colinas, con Aod a la cabeza. ^28^ Él les dijo: “Síganme, porque el Señor les ha entregado a Moab, su enemigo”. Así que lo siguieron hacia abajo y se apoderaron de los vados del Jordán que llevaban a Moab. No dejaron que nadie cruzara. ^29^ Luego atacaron a los moabitas y mataron a unos 10.000 de sus mejores y más fuertes combatientes. Ni uno solo escapó. ^30^ Ese día Moab fue conquistado y sometido a Israel, y el país estuvo en paz durante ochenta años. 
 
@@ -94,8 +94,8 @@
 # 4 
 ^1^ Después de la muerte de Aod, los israelitas volvieron a hacer lo que era malo a los ojos del Señor. ^2^ Así que el Señor los vendió a Jabín, rey de Canaán, que gobernaba desde Hazor. Su comandante del ejército era Sísara, que vivía en JarosetGoyim. ^3^ Los israelitas clamaron al Señor para que los ayudara, porque Sísara tenía novecientos carros de hierro y los maltrató cruelmente durante veinte años. 
 
-^4^ Débora, esposa de Lapidot, era profeta y dirigía a Israel como juez en ese momento. ^5^ Se sentaba bajo la palma de Débora, entre Ramá y Betel, en la región montañosa de Efraín, y los israelitas acudían a ella para que tomara sus decisiones.^^ ^6^ Mandó llamar a Barac, hijo de Abinoam, desde la ciudad de Cedes, en Neftalí, y le dijo: “El Señor, el Dios de Israel, te lo ordena: ‘Ve al monte Tabor, y toma contigo diez mil hombres de Neftalí y Zabulón, y llévalos allí. ^7^ Yo llevaré a Sísara, el comandante del ejército de Jabín, con sus carros y sus tropas, hasta el río Cisón, y te lo entregaré”. 
-^[**4:5** Aunque a Débora se le llama “juez”, su papel es mucho más que el de un magistrado. Las decisiones que tomó eran de importancia nacional, más que la mera resolución de disputas legales. Enestecaso, “juzgar” tendría el significado de “gobernar”.]
+^4^ Débora, esposa de Lapidot, era profeta y dirigía a Israel como juez en ese momento. ^5^ Se sentaba bajo la palma de Débora, entre Ramá y Betel, en la región montañosa de Efraín, y los israelitas acudían a ella para que tomara sus decisiones.^a^ ^6^ Mandó llamar a Barac, hijo de Abinoam, desde la ciudad de Cedes, en Neftalí, y le dijo: “El Señor, el Dios de Israel, te lo ordena: ‘Ve al monte Tabor, y toma contigo diez mil hombres de Neftalí y Zabulón, y llévalos allí. ^7^ Yo llevaré a Sísara, el comandante del ejército de Jabín, con sus carros y sus tropas, hasta el río Cisón, y te lo entregaré”. 
+^a^[**4:5** Aunque a Débora se le llama “juez”, su papel es mucho más que el de un magistrado. Las decisiones que tomó eran de importancia nacional, más que la mera resolución de disputas legales. Enestecaso, “juzgar” tendría el significado de “gobernar”.]
 
 ^8^ Barac respondió: “Si vienes conmigo, iré; pero si no vienes conmigo, no iré”. 
 
@@ -132,11 +132,11 @@
 
 ^6^ En los días de Shamgar, hijo de Anat, en los días de Jael, la gente no usaba las carreteras principales y se quedaba en caminos sinuosos. 
 
-^7^ La vida de las aldeas en Israel estaba abandonada^^hasta que yo, Débora, entré en escena como madre en Israel. 
-^[**5:7** Es de suponer que la gente se trasladó a ciudades fortificadas para protegerse.]
+^7^ La vida de las aldeas en Israel estaba abandonada^a^ hasta que yo, Débora, entré en escena como madre en Israel. 
+^a^[**5:7** Es de suponer que la gente se trasladó a ciudades fortificadas para protegerse.]
 
-^8^ Cuando el pueblo eligió nuevos dioses,^^entonces la guerra llegó a sus puertas. Ni siquiera un escudo o una lanza podían encontrarse entre los cuarenta mil guerreros de Israel. 
-^[**5:8** O “Cuando Dios eligió nuevos líderes.”]
+^8^ Cuando el pueblo eligió nuevos dioses,^a^ entonces la guerra llegó a sus puertas. Ni siquiera un escudo o una lanza podían encontrarse entre los cuarenta mil guerreros de Israel. 
+^a^[**5:8** O “Cuando Dios eligió nuevos líderes.”]
 
 ^9^ Mis pensamientos están con los comandantes israelitas y con la gente que se ofreció como voluntaria. ¡Alabado sea el Señor! 
 
@@ -146,8 +146,8 @@
 
 ^12^ ‘¡Despierta, Débora, despierta! ¡Despierta, despierta, canta una canción! ¡Levántate, Barac! Captura a tus prisioneros, hijo de Abinoam.’ 
 
-^13^ Lossobrevivientes^^fueron a atacar a los nobles, el pueblo del Señor fue a atacar a los poderosos. 
-^[**5:13** “Sobrevivientes”: refiriéndose al “remanente” de Israel. Los “nobles” y los “poderosos” se refieren a los señores cananeos.]
+^13^ Lossobrevivientes^a^ fueron a atacar a los nobles, el pueblo del Señor fue a atacar a los poderosos. 
+^a^[**5:13** “Sobrevivientes”: refiriéndose al “remanente” de Israel. Los “nobles” y los “poderosos” se refieren a los señores cananeos.]
 
 ^14^ Algunos vinieron de Efraín, tierra que solía pertenecer a los amalecitas; la tribu de Benjamín te siguió con sus hombres. Los comandantes vinieron de Maquir; de Zabulón vinieron los que llevan el bastón de mando de un militar. 
 
@@ -159,18 +159,18 @@
 
 ^18^ El pueblo de Zabulón arriesgó su vida, al igual que Neftalí en los campos de batalla de altura. 
 
-^19^ Los reyes vinieron y lucharon, los reyes cananeos lucharon en Tanac, cerca de las aguas de Meguido, pero no obtuvieron ningún botín de plata.^^ 
-^[**5:19** No recibieron el botín que esperaban al unirse a la batalla contra los israelitas.]
+^19^ Los reyes vinieron y lucharon, los reyes cananeos lucharon en Tanac, cerca de las aguas de Meguido, pero no obtuvieron ningún botín de plata.^a^ 
+^a^[**5:19** No recibieron el botín que esperaban al unirse a la batalla contra los israelitas.]
 
 ^20^ Las estrellas lucharon desde el cielo. Las estrellas en sus cursos lucharon contra Sísara. 
 
-^21^ El río Cisón los arrastró: ¡el viejo río se convirtió en un torrente impetuoso!^^¡Pero yo marché con valentía! 
-^[**5:21** La participación de las estrellas del cielo y la tormenta que provocó la inundación del río son significativas, ya que los dioses cananeos estaban asociados con el clima y las estrellas, mostrando a los involucrados la supremacía del Señor sobre tales “dioses.”]
+^21^ El río Cisón los arrastró: ¡el viejo río se convirtió en un torrente impetuoso!^a^ ¡Pero yo marché con valentía! 
+^a^[**5:21** La participación de las estrellas del cielo y la tormenta que provocó la inundación del río son significativas, ya que los dioses cananeos estaban asociados con el clima y las estrellas, mostrando a los involucrados la supremacía del Señor sobre tales “dioses.”]
 
 ^22^ Then the horses’ hooves flailed loudly, his stallions stampeded. 
 
-^23^ ’Maldice a Meroz,’^^dice el ángel del Señor. ‘Maldice totalmente a los que viven allí, porque se negaron a venir a ayudar al Señor, a ayudar al Señor contra los poderosos enemigos.’ 
-^[**5:23** “Meroz”: el lugar no se menciona en ninguna otra parte de las Escrituras. Se piensa que puede referirse a los israelitas que se habían “cananizado” tanto que se negaban a ayudar a sus compatriotas.]
+^23^ ’Maldice a Meroz,’^a^ dice el ángel del Señor. ‘Maldice totalmente a los que viven allí, porque se negaron a venir a ayudar al Señor, a ayudar al Señor contra los poderosos enemigos.’ 
+^a^[**5:23** “Meroz”: el lugar no se menciona en ninguna otra parte de las Escrituras. Se piensa que puede referirse a los israelitas que se habían “cananizado” tanto que se negaban a ayudar a sus compatriotas.]
 
 ^24^ Jael, la esposa de Heber el ceneo, es la más alabada entre las mujeres. Ella merece ser alabada por encima de todas las demás mujeres que viven en tiendas. 
 
@@ -178,24 +178,23 @@
 
 ^26^ Con una mano tomó la estaca de la tienda y con la derecha sostuvo un martillo de obrero. Golpeó a Sísara y le rompió el cráneo; le destrozó y perforó la sien. 
 
-^27^ A sus pies se desplomó, cayó, quedó inmóvil. A sus pies se desplomó, cayó; donde se desplomó, allí cayó, su vida le fue arrebatada.^^ 
-^[**5:27** Aunque hay mucha repetición en este versículo, se mantiene en la traducción por su efecto dramático. También se mantiene en la traducción la última palabra del texto hebreo, que significa “saqueado” o “expoliado”, en lugar de decir simplemente que estaba muerto, ya que se le quitó la vida de forma similar a la de un soldado que saquea la casa de una víctima.]
+^27^ A sus pies se desplomó, cayó, quedó inmóvil. A sus pies se desplomó, cayó; donde se desplomó, allí cayó, su vida le fue arrebatada.^a^ 
+^a^[**5:27** Aunque hay mucha repetición en este versículo, se mantiene en la traducción por su efecto dramático. También se mantiene en la traducción la última palabra del texto hebreo, que significa “saqueado” o “expoliado”, en lugar de decir simplemente que estaba muerto, ya que se le quitó la vida de forma similar a la de un soldado que saquea la casa de una víctima.]
 
 ^28^ La madre de Sísara se asomó a la ventana. A través de la ventana enrejada gritó: “¿Por qué tarda tanto en llegar su carro? ¿Por qué se retrasa tanto el sonido de su carro? 
 
 ^29^ La más sabia de sus damas le dice, y ella se repite a sí misma las mismas palabras: 
 
-^30^ ’Están ocupados repartiendo el botín y asignando una o dos jóvenes^^ para cada hombre. Dentro del botín seguro habrá ropas de colores para Sísara; en el botín habrá ropas de colores bellamente bordadas; un botín^^ de ropas de doble bordado que llegan hasta el cuello.’ 
-^[**5:30** “dos jóvenes”: literalmente, “vientres,” un término despectivo para referirse a las mujeres.]
-^[**5:30** La repetición es de nuevo significativa: La palabra “saqueo” se utiliza tres veces: se imagina a la madre de Sísara pensando en todo el maravilloso botín que recibirá. Sin embargo, es Sísara quien ha sido “saqueado” (la palabra que se utiliza allí suele significar simplemente destruido, pero puede incluir el saqueo y el pillaje), y por supuesto la madre de Sísara se sentirá amargamente decepcionada.]
+^30^ ’Están ocupados repartiendo el botín y asignando una o dos jóvenes^a^ para cada hombre. Dentro del botín seguro habrá ropas de colores para Sísara; en el botín habrá ropas de colores bellamente bordadas; un botín^b^ de ropas de doble bordado que llegan hasta el cuello.’ 
+^a^[**5:30** “dos jóvenes”: literalmente, “vientres,” un término despectivo para referirse a las mujeres.] ^b^[**5:30** La repetición es de nuevo significativa: La palabra “saqueo” se utiliza tres veces: se imagina a la madre de Sísara pensando en todo el maravilloso botín que recibirá. Sin embargo, es Sísara quien ha sido “saqueado” (la palabra que se utiliza allí suele significar simplemente destruido, pero puede incluir el saqueo y el pillaje), y por supuesto la madre de Sísara se sentirá amargamente decepcionada.]
 
 ^31^ ¡Que todos tus enemigos mueran así, Señor! ¡Pero que los que te aman brillen como el sol en todo su esplendor!” La tierra estuvo en paz por cuarenta años. 
 
 # 6 
 ^1^ Pero los israelitas hicieron lo que era malo a los ojos del Señor. Así que el Señor los entregó a los madianitas durante siete años. ^2^ La opresión madianita era tan grande que, a causa de ellos, los israelitas se hicieron de escondites en montañas, cuevas y fortificaciones. ^3^ Cada vez que los israelitas sembraban sus cosechas, los madianitas, amalecitas y otros pueblos del este venían a atacarlos. ^4^ Instalaban sus campamentos y destruían las cosechas del país hasta Gaza. No dejaban nada para comer en todo Israel, y tomaban para sí todas las ovejas, el ganado y los asnos. ^5^ Llegaron en gran número con su ganado y sus tiendas como enjambres de langostas, con tantos camellos que no se podían contar. Invadieron la tierra para devastarla por completo. ^6^ Los israelitas se vieron desesperadamente empobrecidos por los madianitas y pidieron ayuda al Señor. 
 
-^7^ Cuando los israelitas clamaron al Señor por ayuda a causa de los madianitas, ^8^ el Señor envió a los israelitas un profeta. Éste les dijo: “Esto es lo que dice el Señor, el Dios de Israel: ‘Yo os saqué de Egipto; yo os saqué del lugar^^donde erais esclavos. ^9^ Lossalvé del poder de los egipcios y de todos los que os oprimían. Los expulsé delante de ustedes y les di su tierra. ^10^ Yo te advertí: Yo soy el Señor, tu Dios. No debes adorar a los dioses de los amorreos, en cuya tierra vives ahora’. Pero no me escuchaste”. 
-^[**6:8** Literalmente, “casa.”]
+^7^ Cuando los israelitas clamaron al Señor por ayuda a causa de los madianitas, ^8^ el Señor envió a los israelitas un profeta. Éste les dijo: “Esto es lo que dice el Señor, el Dios de Israel: ‘Yo os saqué de Egipto; yo os saqué del lugar^a^ donde erais esclavos. ^9^ Lossalvé del poder de los egipcios y de todos los que os oprimían. Los expulsé delante de ustedes y les di su tierra. ^10^ Yo te advertí: Yo soy el Señor, tu Dios. No debes adorar a los dioses de los amorreos, en cuya tierra vives ahora’. Pero no me escuchaste”. 
+^a^[**6:8** Literalmente, “casa.”]
 
 ^11^ El ángel del Señor vino y se sentó bajo la encina de Ofra que pertenecía a Joás el abiezerita. Su hijo Gedeón estaba trillando allí el trigo en un lagar para ocultarlo de los madianitas. ^12^ El ángel del Señor se le apareció y le dijo: “¡El Señor está contigo, gran hombre valiente!” 
 
@@ -235,8 +234,8 @@
 
 ^32^ Aquel día llamaron a Gedeón Jerub-baal, que significa “Que Baal luche con él”, porque había derribado su altar. 
 
-^33^ Todos los madianitas, amalecitas y otros pueblos del Oriente se reunieron y cruzaron el Jordán. Acamparon en el valle de Jezreel. ^34^ El Espíritu del Señor vino^^ sobre Gedeón, y tocó la trompeta, llamando a los del clan de Abiezerpara que se les unieran. ^35^ Envió mensajeros por todo el territorio de Manasés, llamándolos para que se unieran a él, y también a Aser, Zabulón y Neftalí, para que también vinieran y se unieran a los demás. 
-^[**6:34** Literalmente, “vistió.”]
+^33^ Todos los madianitas, amalecitas y otros pueblos del Oriente se reunieron y cruzaron el Jordán. Acamparon en el valle de Jezreel. ^34^ El Espíritu del Señor vino^a^ sobre Gedeón, y tocó la trompeta, llamando a los del clan de Abiezerpara que se les unieran. ^35^ Envió mensajeros por todo el territorio de Manasés, llamándolos para que se unieran a él, y también a Aser, Zabulón y Neftalí, para que también vinieran y se unieran a los demás. 
+^a^[**6:34** Literalmente, “vistió.”]
 
 ^36^ Gedeón dijo a Dios: “Si salvas a Israel por medio de mí, como lo prometiste, ^37^ entonces mira: pondré un vellón de lana en la era. Si el vellón está mojado por el rocío pero la tierra está seca, entonces sabré que vas a salvar a Israel a través de mí como lo prometiste.” 
 
@@ -251,8 +250,8 @@
 
 ^2^ El Señor le dijo a Gedeón: “Hay demasiados soldados contigo para que les entregue a los madianitas, pues de lo contrario Israel se jactará ante mí diciendo: ‘Me salvé con mis propias fuerzas’. ^3^ Así que dile a los soldados: ‘Cualquiera que esté preocupado o tenga miedo puede abandonar el monte Galaad y volver a su casa’”. Veintidós mil de ellos volvieron a casa, pero diez mil se quedaron. 
 
-^4^ Entonces el Señor le dijo a Gedeón: “Todavía hay demasiados soldados. Llévalos al agua y yo los reduciré ^^por ti. El que yo te diga: ‘Irá contigo’, irá. Pero el que te diga: ‘No irá contigo’, no irá”. 
-^[**7:4** O “probaré,” “tamizaré,” “purgaré.”]
+^4^ Entonces el Señor le dijo a Gedeón: “Todavía hay demasiados soldados. Llévalos al agua y yo los reduciré ^a^ por ti. El que yo te diga: ‘Irá contigo’, irá. Pero el que te diga: ‘No irá contigo’, no irá”. 
+^a^[**7:4** O “probaré,” “tamizaré,” “purgaré.”]
 
 ^5^ Gedeón llevó a los soldados al agua. El Señor le dijo a Gedeón: “Pongan a un lado a los que lamen el agua con la lengua, como hace un perro, y al otro lado a los que se arrodillen para beber.” ^6^ Trescientos lamieron el agua de sus manos a la boca. Todos los demás se arrodillaron para beber el agua. 
 
@@ -266,13 +265,13 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 
 ^14^ “Esto sólo puede representar la victoria por la espada de Gedeón, hijo de Joás, un hombre de Israel”, respondió su amigo. “Dios le ha entregado a los madianitas y a todos los que están acampados aquí”. 
 
-^15^ Cuando Gedeón escuchó el sueño y lo que significaba, se inclinó en señal de agradecimiento a Dios.^^Volvió al campamento israelita y anunció: “¡De pie! Porque el Señor te ha entregado el campamento madianita”. 
-^[**7:15** “En señal de agradecimiento a Dios”: implícito. El hebreo dice simplemente dice: “se inclinó.”]
+^15^ Cuando Gedeón escuchó el sueño y lo que significaba, se inclinó en señal de agradecimiento a Dios.^a^ Volvió al campamento israelita y anunció: “¡De pie! Porque el Señor te ha entregado el campamento madianita”. 
+^a^[**7:15** “En señal de agradecimiento a Dios”: implícito. El hebreo dice simplemente dice: “se inclinó.”]
 
 ^16^ Dividió a los trescientos hombres en tres compañías. A todos les entregó trompetas y jarras vacías con antorchas en su interior. ^17^ “Observadme y seguid mi ejemplo”, les dijo. “Cuando llegue al límite del campamento, haced exactamente lo que yo haga. ^18^ Inmediatamente, yo y los que están conmigo tocaremos las trompetas, y luego ustedes tocarán sus trompetas desde todo el campamento y gritarán: “¡Por el Señor y por Gedeón!” 
 
-^19^ Gedeón y los cien hombres que lo acompañaban llegaron a las afueras del campamento alrededor de la medianoche,^^después de que se cambiaron los guardias. Hicieron sonar sus trompetas y rompieron las jarras que llevaban. ^20^ Las tres compañías tocaron sus trompetas y rompieron sus jarras. Tenían las antorchas en la mano izquierda y las trompetas en la derecha, y gritaban: “¡Una espada para el Señor y para Gedeón!” 
-^[**7:19** Literalmente, “el comienzo de la media vigilia”]
+^19^ Gedeón y los cien hombres que lo acompañaban llegaron a las afueras del campamento alrededor de la medianoche,^a^ después de que se cambiaron los guardias. Hicieron sonar sus trompetas y rompieron las jarras que llevaban. ^20^ Las tres compañías tocaron sus trompetas y rompieron sus jarras. Tenían las antorchas en la mano izquierda y las trompetas en la derecha, y gritaban: “¡Una espada para el Señor y para Gedeón!” 
+^a^[**7:19** Literalmente, “el comienzo de la media vigilia”]
 
 ^21^ Cada uno se puso en su lugar rodeando el campamento, y todos los soldados enemigos corrieron gritando; luego huyeron. ^22^ Cuando tocaron las trescientas trompetas, el Señor hizo que todos los hombres del campamento se atacaran unos a otros con sus espadas. El ejército enemigo huyó hacia BetShitá, cerca de Zererá, hasta la frontera de Abel Meholá, cerca de Tabbá. ^23^ Los soldados israelitas fueron convocados desde Neftalí, Aser y todo Manasés, y persiguieron a los madianitas. ^24^ Gedeón envió mensajeros por toda la región montañosa de Efraín diciendo: “Vengan a atacar a los madianitas y tomen el control de los vados del Jordán delante de ellos hasta Bet-Bara.” Así que todos los hombres de Efraín fueron convocados, y tomaron el control de los vados del Jordán hasta Bet-Bara. ^25^ También capturaron a Oreb y Zeeb, dos de los comandantes madianitas. Mataron a Oreb en la roca de Oreb, y a Zeeb en el lagar de Zeeb. Siguieron persiguiendo a los madianitas y llevaron las cabezas de Oreb y Zeeb a Gedeón, que estaba al otro lado del Jordán. 
 
@@ -301,8 +300,8 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 
 ^20^ Le dijo a Jéter, su hijo mayor: “¡Anda, mátalos!”. Pero el muchacho se negó a sacar la espada, porque era joven y tenía miedo. 
 
-^21^ Zeba y Zalmuna le dijeron a Gedeón: “¡Vamos, hazlo tú! Muéstrate como un hombre y mátanos”. Entonces Gedeón se acercó y mató a Zeba y a Zalmuna, y tomó los adornos en forma de media luna^^del cuello de sus camellos. 
-^[**8:21** Probablemente de oro e indicaba que los camellos pertenecían a los reyes.]
+^21^ Zeba y Zalmuna le dijeron a Gedeón: “¡Vamos, hazlo tú! Muéstrate como un hombre y mátanos”. Entonces Gedeón se acercó y mató a Zeba y a Zalmuna, y tomó los adornos en forma de media luna^a^ del cuello de sus camellos. 
+^a^[**8:21** Probablemente de oro e indicaba que los camellos pertenecían a los reyes.]
 
 ^22^ porque nos has salvado de los madianitas.” 
 
@@ -312,9 +311,8 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 
 ^25^ “Te los daremos con gusto”, respondieron. Extendieron un manto, y cada uno de ellos echó sobre él pendientes de su botín. ^26^ El peso de los pendientes que había pedido era de 1.700 siclos, sin incluir los adornos, sino los colgantes y las prendas de color púrpura que llevaban los reyes madianitas ni las cadenas que llevaban al cuello de sus camellos. 
 
-^27^ Con el oro, Gedeón hizo un efod,^^que colocó en su ciudad natal de Ofra. Todo Israel se prostituyó allí adorándolo como un ídolo,^^y se convirtió en una trampa para Gedeón y su familia. 
-^[**8:27** El pectoral que llevaba el sumo sacerdote. Esta acción de Gedeón sugiere que pensaba que debía establecerse un centro de culto en Ofra.]
-^[**8:27** “Adorándolo como un ídolo”: se ha añadido para mayor claridad.]
+^27^ Con el oro, Gedeón hizo un efod,^a^ que colocó en su ciudad natal de Ofra. Todo Israel se prostituyó allí adorándolo como un ídolo,^b^ y se convirtió en una trampa para Gedeón y su familia. 
+^a^[**8:27** El pectoral que llevaba el sumo sacerdote. Esta acción de Gedeón sugiere que pensaba que debía establecerse un centro de culto en Ofra.] ^b^[**8:27** “Adorándolo como un ídolo”: se ha añadido para mayor claridad.]
 
 ^28^ Así fue como los madianitas fueron subyugados ante los israelitas y no volvieron a ganar poder. Así, la tierra estuvo en paz durante cuarenta años en vida de Gedeón. ^29^ Jerob-baal, hijo de Joás, se fue a su casa, viviendo en su propia casa. ^30^ Gedeón tuvo setenta hijos, todos suyos, porque tenía muchas mujeres. ^31^ Su concubina, que vivía en Siquem, también tuvo un hijo. Lo llamó Abimelec. ^32^ Gedeón, hijo de Joás, murió a una edad avanzada y fue enterrado en la tumba de su padre Joás, en Ofra de los abiezritas. ^33^ Pero en cuanto murió Gedeón, los israelitas volvieron a prostituirse, adorando ante los baales. Hicieron de Baal-berit su dios. ^34^ Se olvidaron del Señor, su Dios, que los había salvado de todos los enemigos que los rodeaban. ^35^ No mostraron ningún respeto a la familia de Jerob-baal (Gedeón) por todo el bien que había hecho por Israel. 
 
@@ -351,8 +349,8 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 
 ^39^ Así que Gaal condujo a los líderes de Siquem fuera de la ciudad y luchó con Abimelec. ^40^ Abimelec los atacó y los persiguió a él y a sus hombres mientras huían, matando a muchos de ellos cuando trataban de regresar a la puerta del pueblo. ^41^ Abimelec regresó a Arumá, mientras Zebul expulsaba a Gaal y a sus parientes de Siquem. 
 
-^42^ Al día siguiente el pueblo deSiquem salió a los campos, y Abimelec fue informado de ello. ^43^ Dividió a su ejército en tres compañías y las hizo emboscar en los campos. Cuando vio que la gente salía de la ciudad, los atacó y los mató. ^44^ Abimelec y su compañía corrieron a ocupar la puerta de entrada de la ciudad, mientras que las dos compañías corrieron a atacar a todos en los campos y matarlos. ^45^ La batalla por la ciudad duró todo el día, pero finalmente Abimelec la capturó. Mató a la gente, demolió la ciudad y esparció sal por el suelo.^^ 
-^[**9:45** Para evitar que algo creciera.]
+^42^ Al día siguiente el pueblo deSiquem salió a los campos, y Abimelec fue informado de ello. ^43^ Dividió a su ejército en tres compañías y las hizo emboscar en los campos. Cuando vio que la gente salía de la ciudad, los atacó y los mató. ^44^ Abimelec y su compañía corrieron a ocupar la puerta de entrada de la ciudad, mientras que las dos compañías corrieron a atacar a todos en los campos y matarlos. ^45^ La batalla por la ciudad duró todo el día, pero finalmente Abimelec la capturó. Mató a la gente, demolió la ciudad y esparció sal por el suelo.^a^ 
+^a^[**9:45** Para evitar que algo creciera.]
 
 ^46^ Cuando todos los líderes de la torre de Siquem se dieron cuenta de lo que había sucedido, se refugiaron en la cámara acorazada del templo de El-berit. ^47^ CuandoAbimelec se enteró de que todos los líderes de la torre de Siquem se habían reunido allí, ^48^ él y todos los hombres que lo acompañaban subieron al monte Zalmón. Abimelec tomó un hacha y cortó una rama de los árboles. Se la subió al hombro y les dijo a sus hombres: “¡Rápido! Ya vieron lo que hice. Hagan ustedes lo mismo”. ^49^ Cada uno de ellos cortó una rama y siguió a Abimelec. Colocaron las ramas contra la cámara acorazada y le prendieron fuego. Así murió toda la gente que vivía en la torre de Siquem, unos mil hombres y mujeres. 
 
@@ -363,8 +361,8 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 ^56^ Así pagó Dios a Abimelec el crimen que cometió contra su padre al asesinar a sus setenta hermanos. ^57^ También pagó al pueblo de Siquem por su maldad, y la maldición de Jotam, hijo de Jerob-baal, cayó sobre ellos. 
 
 # 10 
-^1^ Después del tiempo de Abimelec, Tola, hijo de Fuvá, hijo de Dodóde la tribu de Isacar, entró en escena para salvar a Israel. Vivía en la ciudad de Shamir, en la región montañosa de Efraín. ^2^ Dirigió a Israel como juez^^durante veintitrés años. Luego murió y fue enterrado en Shamir. 
-^[**10:2** Véase la nota en el vserículo 4:5.]
+^1^ Después del tiempo de Abimelec, Tola, hijo de Fuvá, hijo de Dodóde la tribu de Isacar, entró en escena para salvar a Israel. Vivía en la ciudad de Shamir, en la región montañosa de Efraín. ^2^ Dirigió a Israel como juez^a^ durante veintitrés años. Luego murió y fue enterrado en Shamir. 
+^a^[**10:2** Véase la nota en el vserículo 4:5.]
 
 ^3^ Después de Tola vino Jair, de Galaad, quien dirigió a Israel como juez durante veintidós años. ^4^ Tenía treinta hijos que montaban treinta asnos. Tenían treinta ciudades en la tierra de Galaad, que hasta hoy se llaman las Ciudades de Jair. ^5^ Jair murió y fue enterrado en Camón. 
 
@@ -379,11 +377,11 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 ^17^ Los ejércitos amonitas habían sido convocados y estaban acampados en Galaad. Los israelitas se reunieron y acamparon en Mizpa. ^18^ Los comandantes del pueblo de Galaad se pusieron de acuerdo entre ellos: “El que dirija el ataque contra los amonitas se convertirá en gobernante de todos los que viven en Galaad.” 
 
 # 11 
-^1^ Jeftéel gaaladitaera un fuerte luchador. Era hijo de una prostituta, y su padre era Galaad. ^2^ La mujer de Galaad le dio hijos, que cuando crecieron, echaron a Jefté, diciéndole: “No heredarás nada de nuestro padre porque eres hijo de otra mujer.”^^ 
-^[**11:2** “Hijo de otra mujer”: esto es lo que dice el hebreo, sin embargo, probablemente tenga el significado de “el hijo de una prostituta”. Ciertamente, así lo entendieron los traductores de la Septuaginta.]
+^1^ Jeftéel gaaladitaera un fuerte luchador. Era hijo de una prostituta, y su padre era Galaad. ^2^ La mujer de Galaad le dio hijos, que cuando crecieron, echaron a Jefté, diciéndole: “No heredarás nada de nuestro padre porque eres hijo de otra mujer.”^a^ 
+^a^[**11:2** “Hijo de otra mujer”: esto es lo que dice el hebreo, sin embargo, probablemente tenga el significado de “el hijo de una prostituta”. Ciertamente, así lo entendieron los traductores de la Septuaginta.]
 
-^3^ Jefté huyó de sus hermanos y se fue a vivir a la tierra de Tob. Se unió a él una banda de alborotadores y los dirigió en sus incursiones.^^ 
-^[**11:3** El hebreo simplemente dice: “salieron con él”, sin embargo el contexto indica que eran una banda de mercenarios.]
+^3^ Jefté huyó de sus hermanos y se fue a vivir a la tierra de Tob. Se unió a él una banda de alborotadores y los dirigió en sus incursiones.^a^ 
+^a^[**11:3** El hebreo simplemente dice: “salieron con él”, sin embargo el contexto indica que eran una banda de mercenarios.]
 
 ^4^ Más tarde, los amonitas estaban en guerra con Israel. ^5^ Mientras los amonitas atacaban a Israel, los ancianos de Galaad vinieron a buscar a Jefté a la tierra de Tob. ^6^ “Ven y sé nuestro comandante del ejército”, le pidieron a Jefté, “para que podamos luchar contra los amonitas”. 
 
@@ -430,8 +428,8 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 
 ^4^ Jefté convocó a todos los hombres de Galaad y luchó contra los efraimitas. Los hombres de Galaad los mataron porque los efraimitas se burlaban de ellos, diciendo: “Ustedes los galaaditas no son más que fugitivos que viven entre Efraín y Manasés.” 
 
-^5^ Los galaaditas tomaron el control de los vados sobre el río Jordán que conducían al territorio de Efraín, y cuando un efraimita que escapaba^^de la batalla venía y pedía: “Déjenme cruzar”, los galaaditas le preguntaban: “¿Eres efraimita?”;si respondían“No”, ^6^ le decían: “Di Shibboleth”. Y los que eran de Efraín, dirían“Sibboleth” porque ellos no podían pronunciarlo bien, y así los agarrarían y los matarían allí en los vados del Jordán. Un total de 42.000 fueron asesinados en esa ocasión. 
-^[**12:5** La palabra es la misma que se usó para burlarse de los Galaaditas en el verso anterior. Ahora los efraimitas son los “fugitivos.”]
+^5^ Los galaaditas tomaron el control de los vados sobre el río Jordán que conducían al territorio de Efraín, y cuando un efraimita que escapaba^a^ de la batalla venía y pedía: “Déjenme cruzar”, los galaaditas le preguntaban: “¿Eres efraimita?”;si respondían“No”, ^6^ le decían: “Di Shibboleth”. Y los que eran de Efraín, dirían“Sibboleth” porque ellos no podían pronunciarlo bien, y así los agarrarían y los matarían allí en los vados del Jordán. Un total de 42.000 fueron asesinados en esa ocasión. 
+^a^[**12:5** La palabra es la misma que se usó para burlarse de los Galaaditas en el verso anterior. Ahora los efraimitas son los “fugitivos.”]
 
 ^7^ Jefté dirigió a Israel como juez durante seis años. Luego murió y fue enterrado en una de las ciudades de Galaad. 
 
@@ -458,8 +456,8 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 
 “Sí, soy yo”, respondió él. 
 
-^12^ EntoncesManoa dijo: “¡Que se cumpla tu promesa! ¿Qué se decidirá^^para el niño, y cuál será su vocación?” 
-^[**13:12** La palabra empleada aquí es la misma que la utilizada para describir las decisiones de Débora en 4:5.]
+^12^ EntoncesManoa dijo: “¡Que se cumpla tu promesa! ¿Qué se decidirá^a^ para el niño, y cuál será su vocación?” 
+^a^[**13:12** La palabra empleada aquí es la misma que la utilizada para describir las decisiones de Débora en 4:5.]
 
 ^13^ “Asegúrate de que tu esposa sea cuidadosa y siga las instrucciones que le di”, respondió el ángel del Señor. ^14^ “No debe comer nada que provenga de la vid ni beber vino, ni ninguna otra bebida alcohólica. No debe comer nada impuro. Tu esposa debe seguir todo lo que le indiqué”. 
 
@@ -477,35 +475,35 @@ El campamento madianita estaba debajo de él en el valle. ^9^ Esa noche el Seño
 
 ^23^ Pero su esposa le respondió: “Si el Señor hubiera querido matarnos, no habría aceptado nuestro holocausto y nuestra ofrenda de grano. No nos habría mostrado todas estas cosas, y no habría venido ahora a anunciarnos esto”. 
 
-^24^ Dio a luz un hijo y lo llamó Sansón. El niño creció, y el Señor lo bendijo. ^25^ ElEspíritu del Señor comenzó a impulsarlo^^en MajanéDan, un lugar entre Zora y Estaol.
-^[**13:25** Literalmente, “perturbar”, “agitar” o “impulsar.”] 
+^24^ Dio a luz un hijo y lo llamó Sansón. El niño creció, y el Señor lo bendijo. ^25^ ElEspíritu del Señor comenzó a impulsarlo^a^ en MajanéDan, un lugar entre Zora y Estaol.
+^a^[**13:25** Literalmente, “perturbar”, “agitar” o “impulsar.”] 
 
 # 14 
 ^1^ Un día Sansón fue a Timná, donde le llamó la atención una joven filistea. ^2^ Volvió a su casa y les dijo a su padre y a su madre: “Una mujer filistea en Timná me ha llamado la atención. Tráiganmela porque quiero casarme con ella.” 
 
-^3^ Pero su padre y su madre le respondieron: “¿No puedes encontrar una joven de nuestra tribu o de nuestro propio pueblo? ¿Tienes que ir donde los filisteos paganos^^ para conseguir una esposa?” 
-^[**14:3** Literalmente, “incircuncisos.”]
+^3^ Pero su padre y su madre le respondieron: “¿No puedes encontrar una joven de nuestra tribu o de nuestro propio pueblo? ¿Tienes que ir donde los filisteos paganos^a^ para conseguir una esposa?” 
+^a^[**14:3** Literalmente, “incircuncisos.”]
 
-Pero Sansón le dijo a su padre: “Sólo búscamela, ella es^^ la que me gusta.” 
-^[**14:3** “Ella”: En el hebreo aparece con énfasis, indicando la determinación de Sansón de que esta mujer en particular se convirtiera en su esposa.]
+Pero Sansón le dijo a su padre: “Sólo búscamela, ella es^a^ la que me gusta.” 
+^a^[**14:3** “Ella”: En el hebreo aparece con énfasis, indicando la determinación de Sansón de que esta mujer en particular se convirtiera en su esposa.]
 
 ^4^ (Su padre y su madre no se daban cuenta de que esto estaba en los planes del Señor, que buscaba una oportunidad para enfrentarse a los filisteos, porque en ese momento los filisteos gobernaban sobre Israel). 
 
-^5^ Sansón fue a Timná con su padre y su madre. Cuando pasaron por los viñedos de Timna, de repente salió un león joven rugiendo para atacarlo. ^6^ El Espíritu del Señor se apoderó de él y desgarró al león con sus propias manos^^, con la misma facilidad con que se desgarra un cabrito. Pero no le dijo a su padre ni a su madre lo que había hecho. Luegosiguiósucamino. ^7^ When Samson talked with the woman and decided she was right for him. 
-^[**14:6** “Con sus propias manos”: Literalmente “pero no había nada en su mano,” en otras palabras, no tenía ningún arma.]
+^5^ Sansón fue a Timná con su padre y su madre. Cuando pasaron por los viñedos de Timna, de repente salió un león joven rugiendo para atacarlo. ^6^ El Espíritu del Señor se apoderó de él y desgarró al león con sus propias manos^a^ , con la misma facilidad con que se desgarra un cabrito. Pero no le dijo a su padre ni a su madre lo que había hecho. Luegosiguiósucamino. ^7^ When Samson talked with the woman and decided she was right for him. 
+^a^[**14:6** “Con sus propias manos”: Literalmente “pero no había nada en su mano,” en otras palabras, no tenía ningún arma.]
 
-^8^ Más tarde, cuando Sansón volvió para casarse con ella, se apartó del camino para buscar el cadáver del león. Dentro del cuerpo había un enjambre de abejas y su miel. ^9^ Raspó un poco de miel en sus manos y la comió mientras caminaba. Cuando volvió con su padre y su madre, les dio un poco y se la comieron. Pero no les dijo que había tomado la miel del cadáver de un león.^^ 
-^[**14:9** Incluso el mero hecho de tocar cualquier cosa de un cadáver los habría hecho ceremonialmente impuros.]
+^8^ Más tarde, cuando Sansón volvió para casarse con ella, se apartó del camino para buscar el cadáver del león. Dentro del cuerpo había un enjambre de abejas y su miel. ^9^ Raspó un poco de miel en sus manos y la comió mientras caminaba. Cuando volvió con su padre y su madre, les dio un poco y se la comieron. Pero no les dijo que había tomado la miel del cadáver de un león.^a^ 
+^a^[**14:9** Incluso el mero hecho de tocar cualquier cosa de un cadáver los habría hecho ceremonialmente impuros.]
 
-^10^ Mientras su padre iba a visitar a la mujer, Sansón organizó una fiesta para beber, porque esa era la costumbre entre los jóvenes de clase alta. ^11^ Cuando el pueblo filisteo lo vio, dispuso que treinta hombres lo acompañaran.^^ 
-^[**14:11** Más bien como “cuidadores” que como “asistentes”, ya que parece que los filisteos tenían bastante miedo de lo que Sansón pudiera hacer.]
+^10^ Mientras su padre iba a visitar a la mujer, Sansón organizó una fiesta para beber, porque esa era la costumbre entre los jóvenes de clase alta. ^11^ Cuando el pueblo filisteo lo vio, dispuso que treinta hombres lo acompañaran.^a^ 
+^a^[**14:11** Más bien como “cuidadores” que como “asistentes”, ya que parece que los filisteos tenían bastante miedo de lo que Sansón pudiera hacer.]
 
 ^12^ “Dejen que les diga un acertijo”, les dijo Sansón. “Si pueden encontrar su significado y explicármelo durante los siete días de la fiesta, yo les daré treinta mantos de lino y treinta mudas de ropa. ^13^ Pero si no pueden explicármelo, ustedes me darána mi treinta mantos de lino y treinta mudas de ropa”. 
 
 “De acuerdo”, respondieron. “¡Queremos oír tu acertijo!” 
 
-^14^ “La comida salió del que come, y la dulzura salió del fuerte”, dijo. Tres días después todavía no lo habían resuelto. ^15^ Alcuarto^^ díase acercaron a la mujer de Sansón y le dijeron: “Utiliza tus encantos para que tu marido te explique el acertijo y luego nos lo cuentes, o te quemaremos a ti y a toda tu familia hasta la muerte. ¿Nos has traído aquí sólo para robarnos?” 
-^[**14:15** “Cuarto”: Según la Septuaginta. En el hebreo dice “séptimo.”]
+^14^ “La comida salió del que come, y la dulzura salió del fuerte”, dijo. Tres días después todavía no lo habían resuelto. ^15^ Alcuarto^a^ díase acercaron a la mujer de Sansón y le dijeron: “Utiliza tus encantos para que tu marido te explique el acertijo y luego nos lo cuentes, o te quemaremos a ti y a toda tu familia hasta la muerte. ¿Nos has traído aquí sólo para robarnos?” 
+^a^[**14:15** “Cuarto”: Según la Septuaginta. En el hebreo dice “séptimo.”]
 
 ^16^ Entonces la mujer de Sansón fue llorando hacia él, diciendo: “¡Realmente me odias, no es así! ¡No me amas en absoluto! Has planteado un enigma a mi pueblo, pero ni siquiera me lo has explicado”. 
 
@@ -520,8 +518,8 @@ Pero Sansón le dijo a su padre: “Sólo búscamela, ella es^^ la que me gusta.
 ^19^ El Espíritu del Señor se apoderó de él y se dirigió a Ascalón, mató a treinta de sus hombres, tomó sus ropas y se las dio a los que habían explicado el enigma. Furioso, Sansón devolvió a la casa de su padre. ^20^ La mujer de Sansón fue entregada a su padrino, que lo había acompañado en su boda. 
 
 # 15 
-^1^ Algún tiempo después, cuando se estaba cosechando el trigo, Sansón fue a visitar a su mujer, llevando consigo un cabrito de regalo. “Quiero ir a ver a mi mujer a su habitación”, le dijo al llegar,^^ pero su padre no lo dejó entrar. 
-^[**15:1** “Al llegar”: Añadido para mayor claridad.]
+^1^ Algún tiempo después, cuando se estaba cosechando el trigo, Sansón fue a visitar a su mujer, llevando consigo un cabrito de regalo. “Quiero ir a ver a mi mujer a su habitación”, le dijo al llegar,^a^ pero su padre no lo dejó entrar. 
+^a^[**15:1** “Al llegar”: Añadido para mayor claridad.]
 
 ^2^ “Pensé que la odiabas por completo y por eso se la di a tu padrino”, le dijo a Sansón. “Pero su hermana menor es aún más atractiva; ¿por qué no te casas con ella en su lugar?”. 
 
@@ -529,8 +527,8 @@ Pero Sansón le dijo a su padre: “Sólo búscamela, ella es^^ la que me gusta.
 
 ^6^ “¿Quién ha hecho esto?”, preguntaron los filisteos. “Fue Sansón, el yerno del hombre de Timná”, les dijeron. “Ese hombre le dio la mujer de Sansón al padrino de Sansón”. Entonces los filisteos fueron y la quemaron a ella y a su padre hasta la muerte. 
 
-^7^ Sansón les dijo: “¡Si así van a actuar, no pararé hasta vengarme de ustedes!” ^8^ Entonces los atacó violentamente,^^matándolos, y luego se fue a vivir a una cueva en la roca de Etam. 
-^[**15:8** “Los atacó violentamente”: Literalmente, “les golpeó la cadera y el muslo,” que quiere decir: “completamente.”]
+^7^ Sansón les dijo: “¡Si así van a actuar, no pararé hasta vengarme de ustedes!” ^8^ Entonces los atacó violentamente,^a^ matándolos, y luego se fue a vivir a una cueva en la roca de Etam. 
+^a^[**15:8** “Los atacó violentamente”: Literalmente, “les golpeó la cadera y el muslo,” que quiere decir: “completamente.”]
 
 ^9^ Entonces el ejército filisteo llegó y acampó en Judá, preparado para la batalla cerca de Lehi. ^10^ El pueblo de Judá preguntó: “¿Por qué nos han invadido?” 
 
@@ -546,13 +544,13 @@ Pero Sansón le dijo a su padre: “Sólo búscamela, ella es^^ la que me gusta.
 
 ^13^ “No, no lo haremos”, le aseguraron. “Sólo te ataremos y te entregaremos a los filisteos. Desde luego, no te vamos a matar”. Lo ataron con dos cuerdas nuevas y lo sacaron de la roca. 
 
-^14^ Cuando Sansón se acercó a Lejí, los filisteos corrieron hacia él, gritándole. Pero el Espíritu del Señor lo invadió, y las cuerdas que le ataban los brazos se debilitaron como el lino quemado, y sus manos se soltaron. ^15^ Agarró la mandíbula fresca^^de un asno y con ella mató a mil filisteos. 
-^[**15:15** En otras palabras, el hueso no estaba seco y quebradizo.]
+^14^ Cuando Sansón se acercó a Lejí, los filisteos corrieron hacia él, gritándole. Pero el Espíritu del Señor lo invadió, y las cuerdas que le ataban los brazos se debilitaron como el lino quemado, y sus manos se soltaron. ^15^ Agarró la mandíbula fresca^a^ de un asno y con ella mató a mil filisteos. 
+^a^[**15:15** En otras palabras, el hueso no estaba seco y quebradizo.]
 
 ^16^ Entonces Sansón declaró: “Con la quijada de un burro he amontonado a los muertos. Con la quijada de un burro he matado a mil hombres”. 
 
-^17^ Cuando Sansón terminó su discurso, tiró la quijada y llamó al lugar Colina de la Quijada. ^18^ Ahora tenía mucha sed, y Sansón clamó al Señor diciendo: “Tú has logrado esta asombrosa victoria^^por medio de tu siervo, pero ¿ahora tengo que morir de sed y ser capturado por los paganos?” 
-^[**15:18** Literalmente, “salvación.”]
+^17^ Cuando Sansón terminó su discurso, tiró la quijada y llamó al lugar Colina de la Quijada. ^18^ Ahora tenía mucha sed, y Sansón clamó al Señor diciendo: “Tú has logrado esta asombrosa victoria^a^ por medio de tu siervo, pero ¿ahora tengo que morir de sed y ser capturado por los paganos?” 
+^a^[**15:18** Literalmente, “salvación.”]
 
 ^19^ Entonces Dios abrió una hondonada en Lejí, y salió agua de ella. Sansón bebió, recuperó las fuerzas y se sintió mucho mejor. Por eso le puso el nombre de Manantial del que clama, y hasta el día de hoy sigue allí en Lejí. 
 
@@ -561,8 +559,8 @@ Pero Sansón le dijo a su padre: “Sólo búscamela, ella es^^ la que me gusta.
 # 16 
 ^1^ Sansón fue a Gaza. Allí vio a una prostituta y fue a acostarse con ella esa noche. ^2^ Los hombres de Gaza se enteraron de que Sansón estaba allí, así que se reunieron para pasar la noche acechándolo a las puertas de la ciudad. Estuvieron callados toda la noche, susurrando entre ellos: “Lo mataremos cuando amanezca”. 
 
-^3^ Pero Sansón sólo se quedó hasta la mitad de la noche. Agarró las puertas de la ciudad junto con sus dos postes y las arrancó, junto con la barra de la cerradura. Se las puso sobre los hombros y las llevó a la colina frente a Hebrón.^^ 
-^[**16:3** De Gaza a Hebrón hay unas 40 millas.]
+^3^ Pero Sansón sólo se quedó hasta la mitad de la noche. Agarró las puertas de la ciudad junto con sus dos postes y las arrancó, junto con la barra de la cerradura. Se las puso sobre los hombros y las llevó a la colina frente a Hebrón.^a^ 
+^a^[**16:3** De Gaza a Hebrón hay unas 40 millas.]
 
 ^4^ Más tarde se enamoró de una mujer llamada Dalila que vivía en el valle de Sorec. ^5^ Los jefes filisteos se acercaron a ella y le dijeron: “A ver si puedes seducirlo y conseguir que te muestre el secreto de su increíble fuerza, y averiguar cómo podemos dominarlo y atarlo para que no pueda hacer nada. Todos te daremos mil cien siclos de plata cada uno”. 
 
@@ -580,11 +578,11 @@ Pero Sansón le dijo a su padre: “Sólo búscamela, ella es^^ la que me gusta.
 
 ^13^ Dalila le dijo a Sansón: “¡Sigues haciéndome quedar como una estúpida, diciéndome estas mentiras! Sólo dime qué se puede usar para atarte”. 
 
-“Si tejieras las siete trenzas de mi cabello en la red del telar y las apretaras con el alfiler, me volvería tan débil como cualquier otro”, le dijo él. Así que, mientras él dormía, Dalila tomó las siete trenzas de su cabeza, las tejió en la red, ^14^ y apretó el alfiler. Gritó: “¡Sansón, los filisteos han venido a por ti!”. Pero Sansón se despertó y arrancó del telar tanto el alfiler como la telaraña.^^ 
-^[**16:14** El hebreo de este verso y del siguiente aparecen dañados. Aquí se utiliza la versión de la Septuaginta.]
+“Si tejieras las siete trenzas de mi cabello en la red del telar y las apretaras con el alfiler, me volvería tan débil como cualquier otro”, le dijo él. Así que, mientras él dormía, Dalila tomó las siete trenzas de su cabeza, las tejió en la red, ^14^ y apretó el alfiler. Gritó: “¡Sansón, los filisteos han venido a por ti!”. Pero Sansón se despertó y arrancó del telar tanto el alfiler como la telaraña.^a^ 
+^a^[**16:14** El hebreo de este verso y del siguiente aparecen dañados. Aquí se utiliza la versión de la Septuaginta.]
 
-^15^ Entonces Dalila se quejó con Sansón: “¿Cómo puedes decirme: ‘Te amo’, cuando no me tienes confianza?^^¡Tres veces me has hecho quedar como una estúpida, sin decirme de dónde viene tu increíble fuerza!” 
-^[**16:15** “No me tienes confianza”: Literalmente, “tu corazón no está conmigo.”]
+^15^ Entonces Dalila se quejó con Sansón: “¿Cómo puedes decirme: ‘Te amo’, cuando no me tienes confianza?^a^ ¡Tres veces me has hecho quedar como una estúpida, sin decirme de dónde viene tu increíble fuerza!” 
+^a^[**16:15** “No me tienes confianza”: Literalmente, “tu corazón no está conmigo.”]
 
 ^16^ Ella se quejaba y lo regañaba todo el tiempo, fastidiándolo hasta que deseó morir. ^17^ Finalmente, Sansón le confió todo. “Nunca me he cortado el pelo, porque estoy dedicado como nazareo a Dios desde mi nacimiento. Si me afeitan, mi fuerza me abandonará, y me volveré tan débil como cualquier otro”. 
 
@@ -613,17 +611,17 @@ Sansón se despertó y pensó: “Haré como antes y me liberaré”. Pero no sa
 # 17 
 ^1^ Un hombre llamado Miqueas, de la región montañosa de Efraín ^2^ , le dijo a su madre: “Esos mil cien siclos de plata que te robaron y que te oí maldecir, yo tengo la plata. Yo fui quien la tomó”. 
 
-Entonces su madre le dijo: “¡Hijo mío, que el Señor te bendiga!”^^ 
-^[**17:2** Esto puede significar que la madre intentaba neutralizar la maldición con una bendición, ya que afectaba a su hijo, o que se alegraba de que hubiera reconocido el robo.]
+Entonces su madre le dijo: “¡Hijo mío, que el Señor te bendiga!”^a^ 
+^a^[**17:2** Esto puede significar que la madre intentaba neutralizar la maldición con una bendición, ya que afectaba a su hijo, o que se alegraba de que hubiera reconocido el robo.]
 
-^3^ Élle devolvió a su madre los mil cien siclos de plata. Su madre anunció: “Dedico este dinero por completo al Señor. Se lo voy a entregar a mi hijo para que haga tallar un ídolo, una imagen hecha con plata fundida.^^Así que ahora te lo devuelvo.” 
-^[**17:3** No está claro si se refiere a dos objetos o a uno. Véase 18:17, que parece sugerir dos objetos, mientras que 18:20 y 18:31 se refieren a uno solo.]
+^3^ Élle devolvió a su madre los mil cien siclos de plata. Su madre anunció: “Dedico este dinero por completo al Señor. Se lo voy a entregar a mi hijo para que haga tallar un ídolo, una imagen hecha con plata fundida.^a^ Así que ahora te lo devuelvo.” 
+^a^[**17:3** No está claro si se refiere a dos objetos o a uno. Véase 18:17, que parece sugerir dos objetos, mientras que 18:20 y 18:31 se refieren a uno solo.]
 
-^4^ Después de devolverle la plata a su madre, ella le dio doscientos siclos a un platero que los convirtió en un ídolo tallado, una imagen hecha con plata fundida. Los guardó en la casa de Miqueas. ^5^ Miqueas hizo construir un santuario para el ídolo. También hizo un efod y algunos dioses domésticos, y ordenó a uno de sus hijos como sacerdote. ^6^ En aquel tiempo Israel no tenía un rey: cada uno hacía lo que le parecía correcto.^^ 
-^[**17:6** Esto es exactamente lo contrario de la frase habitual “hizo lo que era correcto a los ojos del Señor”. En lugar de un elogio, esto debe verse como la “democratización de la maldad”. La misma expresión se utiliza en 21:25.]
+^4^ Después de devolverle la plata a su madre, ella le dio doscientos siclos a un platero que los convirtió en un ídolo tallado, una imagen hecha con plata fundida. Los guardó en la casa de Miqueas. ^5^ Miqueas hizo construir un santuario para el ídolo. También hizo un efod y algunos dioses domésticos, y ordenó a uno de sus hijos como sacerdote. ^6^ En aquel tiempo Israel no tenía un rey: cada uno hacía lo que le parecía correcto.^a^ 
+^a^[**17:6** Esto es exactamente lo contrario de la frase habitual “hizo lo que era correcto a los ojos del Señor”. En lugar de un elogio, esto debe verse como la “democratización de la maldad”. La misma expresión se utiliza en 21:25.]
 
-^7^ Un joven, levita de la tribu de Judá,^^ que vivía en Belén de Judá, ^8^ se fue deBelén para buscar otro lugar donde vivir. Mientras viajaba por la región montañosa de Efraín, llegó a la casa de Miqueas. 
-^[**17:7** No está claro cómo este hombre podía pertenecer tanto a la tribu de Leví como a la tribu de Judá, a menos que sus padres fueran de tribus diferentes.]
+^7^ Un joven, levita de la tribu de Judá,^a^ que vivía en Belén de Judá, ^8^ se fue deBelén para buscar otro lugar donde vivir. Mientras viajaba por la región montañosa de Efraín, llegó a la casa de Miqueas. 
+^a^[**17:7** No está claro cómo este hombre podía pertenecer tanto a la tribu de Leví como a la tribu de Judá, a menos que sus padres fueran de tribus diferentes.]
 
 ^9^ “¿De dónde eres? le preguntó Miqueas. 
 
@@ -642,11 +640,11 @@ Entonces su madre le dijo: “¡Hijo mío, que el Señor te bendiga!”^^
 
 ^5^ “Por favor, pide al Señor por nosotros para saber si nuestro viaje tendrá éxito”, le pidieron. 
 
-^6^ “Id en paz”, respondió el sacerdote. “El viaje que están haciendo está siendo observado por el Señor.”^^ 
-^[**18:6** Nótese que el sacerdote no está declarando el éxito o lo contrario. Literalmente dice que el viaje “está delante del Señor”, lo que puede significar o bien que el Señor está guiando, o bien que el Señor está escudriñando sus acciones. La rápida respuesta del sacerdote también hace sospechar que en realidad no dedicó mucho tiempo a pedir una respuesta al Señor.]
+^6^ “Id en paz”, respondió el sacerdote. “El viaje que están haciendo está siendo observado por el Señor.”^a^ 
+^a^[**18:6** Nótese que el sacerdote no está declarando el éxito o lo contrario. Literalmente dice que el viaje “está delante del Señor”, lo que puede significar o bien que el Señor está guiando, o bien que el Señor está escudriñando sus acciones. La rápida respuesta del sacerdote también hace sospechar que en realidad no dedicó mucho tiempo a pedir una respuesta al Señor.]
 
-^7^ Los cinco hombres partieron y se dirigieron a la ciudad de Lais. Observaron que el pueblo de allí vivía con seguridad y seguía las costumbres de los sidonios. El pueblo estaba desprevenido y confiado en su seguridad, en su casa, en una tierra productiva. No tenían un gobernante fuerte, vivían muy lejos de los sidonios y no tenían otros aliados que los ayudaran.^^ 
-^[**18:7** “Que lo ayudaran.” Añadido para mayor claridad. Los espías, obviamente, se preocupan por saber quién podría acudir en ayuda de esta ciudad si fuera atacada. La distancia de Sidón y la falta de alianzas aparentes los animaba a pensar que un ataque tendría éxito. Además, la falta de un “gobernante fuerte” (literalmente, “un poseedor de moderación”) significaba que la defensa de la ciudad no estaría a cargo de un poderoso comandante militar.]
+^7^ Los cinco hombres partieron y se dirigieron a la ciudad de Lais. Observaron que el pueblo de allí vivía con seguridad y seguía las costumbres de los sidonios. El pueblo estaba desprevenido y confiado en su seguridad, en su casa, en una tierra productiva. No tenían un gobernante fuerte, vivían muy lejos de los sidonios y no tenían otros aliados que los ayudaran.^a^ 
+^a^[**18:7** “Que lo ayudaran.” Añadido para mayor claridad. Los espías, obviamente, se preocupan por saber quién podría acudir en ayuda de esta ciudad si fuera atacada. La distancia de Sidón y la falta de alianzas aparentes los animaba a pensar que un ataque tendría éxito. Además, la falta de un “gobernante fuerte” (literalmente, “un poseedor de moderación”) significaba que la defensa de la ciudad no estaría a cargo de un poderoso comandante militar.]
 
 ^8^ Los hombres regresaron a Zora y Estaol, y sus parientes les preguntaron: “¿Qué han hecho?” 
 
@@ -656,8 +654,8 @@ Entonces su madre le dijo: “¡Hijo mío, que el Señor te bendiga!”^^
 
 ^14^ Entonces los cinco hombres que habían ido a explorar la tierra de Lais dijeron a los demás miembros de la tribu: “¿Se dan cuenta de que aquí, en estas casas, hay un efod, dioses domésticos y un ídolo tallado, una imagen hecha con plata fundida? Así que ya saben lo que deben hacer”. ^15^ Los cinco hombres dejaron el camino y fueron a donde vivía el joven levita en la casa de Miqueas para preguntar cómo estaba. ^16^ Los seiscientos hombres armados danitas estaban a la entrada, junto a la puerta. ^17^ Los cinco hombres entraron y tomaron el ídolo tallado, el efod, los ídolos domésticos y la imagen hecha con plata fundida. El sacerdote estaba junto a la puerta con los seiscientos hombres armados. 
 
-^18^ Cuando el sacerdote los vio llevarse todos los objetos religiosos^^de la casa de Miqueas, les preguntó: “¿Qué están haciendo?” 
-^[**18:18** El texto repite los elementos enumerados en el versículo 17.]
+^18^ Cuando el sacerdote los vio llevarse todos los objetos religiosos^a^ de la casa de Miqueas, les preguntó: “¿Qué están haciendo?” 
+^a^[**18:18** El texto repite los elementos enumerados en el versículo 17.]
 
 ^19^ “¡Cállense! ¡No digan nada! Vengan con nosotros, y podrán ser nuestro ‘padre’ y sacerdote. ¿No sería mejor para ti que en lugar de ser sacerdote de la casa de un solo hombre fueras el sacerdote de una tribu y una familia israelita?” 
 
@@ -669,13 +667,12 @@ Entonces su madre le dijo: “¡Hijo mío, que el Señor te bendiga!”^^
 
 ^25^ “¡No te quejes con nosotros!” contestaron los danitas. “¡Algunos de los que están de mal humor aquí podrían atacarte y tú y tu familia perderían la vida!” ^26^ Los danitas siguieron su camino. Miqueas vio que eran demasiado fuertes para luchar, así que se dio la vuelta y regresó a su casa. 
 
-^27^ Así que los danitas se llevaron los ídolos que había hecho Miqueas, así como a su sacerdote. Atacaron a Lais con su gente pacífica y desprevenida, los mataron a espada y quemaron la ciudad. ^28^ Nadie pudo salvarlos porque estaban muy lejos de Sidón y no tenían otros aliados que los ayudaran. La ciudad estaba en el valle que pertenece a Bet-rejob. Los danitas reconstruyeron la ciudad y vivieron allí. ^29^ Cambiaron el nombre de la ciudad a Dan, en honor a su antepasado, el hijo de Israel. Laish era su nombre anterior. ^30^ Losdanitas erigieron el ídolo tallado para adorarlo, y Jonatán, hijo de Gersón, hijo de Moisés, y sus hijos se convirtieron en sacerdotes de la tribu de Dan hasta el momento en que el pueblo salió del país en cautiverio. ^31^ Ellos adoraron el ídolo tallado que Miqueas había hecho todo el tiempo que el Templo^^ de Dios estuvo en Silo.
-^[**18:31** Aunque no se hace ninguna referencia específica a la construcción de un Templo en Silo, se cree que allí existía una estructura más permanente, ya que de lo contrario se habría hablado del lugar como “Tienda de la Reunión”. El relato del principio de 1 Samuel apoya esta opinión.] 
+^27^ Así que los danitas se llevaron los ídolos que había hecho Miqueas, así como a su sacerdote. Atacaron a Lais con su gente pacífica y desprevenida, los mataron a espada y quemaron la ciudad. ^28^ Nadie pudo salvarlos porque estaban muy lejos de Sidón y no tenían otros aliados que los ayudaran. La ciudad estaba en el valle que pertenece a Bet-rejob. Los danitas reconstruyeron la ciudad y vivieron allí. ^29^ Cambiaron el nombre de la ciudad a Dan, en honor a su antepasado, el hijo de Israel. Laish era su nombre anterior. ^30^ Losdanitas erigieron el ídolo tallado para adorarlo, y Jonatán, hijo de Gersón, hijo de Moisés, y sus hijos se convirtieron en sacerdotes de la tribu de Dan hasta el momento en que el pueblo salió del país en cautiverio. ^31^ Ellos adoraron el ídolo tallado que Miqueas había hecho todo el tiempo que el Templo^a^ de Dios estuvo en Silo.
+^a^[**18:31** Aunque no se hace ninguna referencia específica a la construcción de un Templo en Silo, se cree que allí existía una estructura más permanente, ya que de lo contrario se habría hablado del lugar como “Tienda de la Reunión”. El relato del principio de 1 Samuel apoya esta opinión.] 
 
 # 19 
-^1^ En aquella época Israel no tenía rey. Un levita que vivía en una zona remota de la región montañosa de Efraín se casó con una esposa concubina^^ de Belén de Judá. ^2^ Pero ella le fue infiel^^y lo abandonó, volviendo a la casa de su padre en Belén. Allí se quedó durante cuatro meses. 
-^[**19:1** En otras palabras, una esposa de “segunda clase”, que no tenía el estatus social de una verdadera esposa.]
-^[**19:2** “Infiel”: Literalmente, “actuaba como una prostituta”. Sin embargo, algunas versiones antiguas tienen “se enojó con él.”]
+^1^ En aquella época Israel no tenía rey. Un levita que vivía en una zona remota de la región montañosa de Efraín se casó con una esposa concubina^a^ de Belén de Judá. ^2^ Pero ella le fue infiel^b^ y lo abandonó, volviendo a la casa de su padre en Belén. Allí se quedó durante cuatro meses. 
+^a^[**19:1** En otras palabras, una esposa de “segunda clase”, que no tenía el estatus social de una verdadera esposa.] ^b^[**19:2** “Infiel”: Literalmente, “actuaba como una prostituta”. Sin embargo, algunas versiones antiguas tienen “se enojó con él.”]
 
 ^3^ Entonces su marido fue tras ella para hablarle con amabilidad y traerla de vuelta a casa. Con él iba su criado y dos burros. Lo llevó a la casa de su padre y, cuando éste lo conoció, lo acogió con gusto. ^4^ Su padre le presionó para que se quedara con ellos, así que se quedó tres días, comiendo, bebiendo y durmiendo allí. ^5^ Al cuarto día, él y su concubina se levantaron temprano por la mañana y se prepararon para irse, pero el padre de ella le dijo a su yerno: “Te sentirás mejor si comes algo antes de irte”. ^6^ Así que los dos hombres se sentaron a comer y beber juntos. El padre le dijo a su yerno: “¡Accede a pasar otra noche aquí, y podrás disfrutar!” ^7^ El hombre se levantó para irse, pero su suegro le presionó para que se quedara, así que al final pasó la noche allí. 
 
@@ -687,8 +684,8 @@ Entonces su madre le dijo: “¡Hijo mío, que el Señor te bendiga!”^^
 
 ^16^ Pero más tarde, esa misma noche, llegó un anciano que volvía de trabajar en el campo. Era de la región montañosa de Efraín, pero ahora vivía en Gabaa, en el territorio de Benjamín. ^17^ Se asomó y se fijó en el viajero de la plaza y le preguntó: “¿Adónde van y de dónde vienen?” 
 
-^18^ “Venimos de Belén, en Judá, y nos dirigimos a una zona remota en la región montañosa de Efraín”, respondió el hombre. “Soy de allí y fui a Belén, y ahora voy al Templo del Señor.^^Aquí nadie me ha invitado a quedarme. ^19^ Hay paja y comida para nuestros burros, y nosotros, tus siervos, tenemos pan y vino, suficiente para mí, la mujer y mi siervo. Tenemos todo lo que necesitamos”. 
-^[**19:18** “Al templo del Señor”: La Septuaginta dice: “a mi casa.”]
+^18^ “Venimos de Belén, en Judá, y nos dirigimos a una zona remota en la región montañosa de Efraín”, respondió el hombre. “Soy de allí y fui a Belén, y ahora voy al Templo del Señor.^a^ Aquí nadie me ha invitado a quedarme. ^19^ Hay paja y comida para nuestros burros, y nosotros, tus siervos, tenemos pan y vino, suficiente para mí, la mujer y mi siervo. Tenemos todo lo que necesitamos”. 
+^a^[**19:18** “Al templo del Señor”: La Septuaginta dice: “a mi casa.”]
 
 ^20^ “Son bienvenidos a quedarse conmigo”, respondió el hombre. “Puedo dejarles todo lo que necesiten. Pero no pases la noche aquí en la plaza”. ^21^ Lo llevó a su casa y dio de comer a los burros. Los viajeros se lavaron los pies y luego se pusieron a comer y beber. 
 
@@ -700,14 +697,14 @@ Entonces su madre le dijo: “¡Hijo mío, que el Señor te bendiga!”^^
 
 ^27^ Su amo se levantó por la mañana y abrió la puerta de la casa. Salió para continuar su viaje y allí estaba su concubina, tendida en la puerta de la casa, con las manos agarradas al umbral. 
 
-^28^ “Levántate, vamos”, le dijo, pero no hubo respuesta. Entonces el hombre la subió a su burro y se fue a su casa. ^29^ Cuando llegó a su casa, tomó un cuchillo y, aferrándose a su concubina, la cortó, miembro por miembro, en doce pedazos, y envió estos pedazos a todas las partes de Israel. ^30^ Todos los que la vieron^^ dijeron:“Nunca se había visto nada igual, desde que los israelitas salieron de Egipto hasta ahora. ¡Deberían consideraresto que le pasó a ella! ¡Decidan qué vanhacer! ¡Hablen ahora!”
-^[**19:30** “la”: La mayoría de las traducciones usan “lo”, pero el hebreo literal dice: “Todos los que veían dijeron...” Está claro que aquí se habla de las partes desmembradas del cuerpo de la concubina, por lo que el pronombre femenino tiene más sentido.] 
+^28^ “Levántate, vamos”, le dijo, pero no hubo respuesta. Entonces el hombre la subió a su burro y se fue a su casa. ^29^ Cuando llegó a su casa, tomó un cuchillo y, aferrándose a su concubina, la cortó, miembro por miembro, en doce pedazos, y envió estos pedazos a todas las partes de Israel. ^30^ Todos los que la vieron^a^ dijeron:“Nunca se había visto nada igual, desde que los israelitas salieron de Egipto hasta ahora. ¡Deberían consideraresto que le pasó a ella! ¡Decidan qué vanhacer! ¡Hablen ahora!”
+^a^[**19:30** “la”: La mayoría de las traducciones usan “lo”, pero el hebreo literal dice: “Todos los que veían dijeron...” Está claro que aquí se habla de las partes desmembradas del cuerpo de la concubina, por lo que el pronombre femenino tiene más sentido.] 
 
 # 20 
 ^1^ Todos los israelitas, desde Dan hasta Beerseba, incluyendo la tierra de Galaad, fueron y se reunieron en Mizpa ante el Señor. La asamblea estaba unida en su propósito. ^2^ Los líderes de todo el pueblo de cada tribu israelita tomaron sus posiciones asignadas en el ejército reunido del pueblo de Dios, cuatrocientos mil soldados armados con espadas. ^3^ La tribu de Benjamín se enteró de que los israelitas se habían reunido en Mizpa. Los israelitas preguntaron: “Díganos, ¿cómo pudo ocurrir un acto tan horrendo?”. 
 
-^4^ El levita, esposo de la mujer asesinada, explicó: “Yo y mi concubina vinimos a pasar la noche a la ciudad de Guibeá, en el territorio de Benjamín. ^5^ Los dirigentes de Guibeá vinieron a atacarme por la noche. Rodearon la casa con la intención de matarme.^^Violaron a mi concubina y ésta murió. ^6^ Tomé a mi concubina y la corté en pedazos, y envié estos pedazos a todas las partes del país que habían sido entregadas a Israel, porque esos hombres habían hecho algo vergonzoso y repugnante en Israel. ^7^ ¡Así que todos ustedes, israelitas, tienen que decidir aquí y ahora qué van a hacer al respecto!” 
-^[**20:5** Es interesante que el levita pase por alto la pretendida violación homosexual y en su lugar afirme que se trata de un caso de intento de asesinato.]
+^4^ El levita, esposo de la mujer asesinada, explicó: “Yo y mi concubina vinimos a pasar la noche a la ciudad de Guibeá, en el territorio de Benjamín. ^5^ Los dirigentes de Guibeá vinieron a atacarme por la noche. Rodearon la casa con la intención de matarme.^a^ Violaron a mi concubina y ésta murió. ^6^ Tomé a mi concubina y la corté en pedazos, y envié estos pedazos a todas las partes del país que habían sido entregadas a Israel, porque esos hombres habían hecho algo vergonzoso y repugnante en Israel. ^7^ ¡Así que todos ustedes, israelitas, tienen que decidir aquí y ahora qué van a hacer al respecto!” 
+^a^[**20:5** Es interesante que el levita pase por alto la pretendida violación homosexual y en su lugar afirme que se trata de un caso de intento de asesinato.]
 
 ^8^ Todos se pusieron de pie y declararon unidos: “¡Ninguno de nosotros va a volver a su casa, ni a sus tiendas! Ninguno de nosotros volverá a sus casas. ^9^ Esto es lo que vamos a hacer a Guibeá: la atacaremos con nuestras fuerzas elegidas por sorteo. ^10^ Tomaremos diez hombres de cien de todas las tribus israelitas, luego cien de mil, y luego mil de diez mil, para organizar la comida del ejército, de modo que cuando las tropas lleguen a Guibeá, en Benjamín, puedan pagarles por todas estas cosas repugnantes que han hecho en Israel.” 
 
@@ -735,8 +732,8 @@ Pero los israelitas dijeron: “Huyamos de ellos y alejémoslos del pueblo hacia
 
 ^33^ El grueso del ejército israelita salió de donde estaba y tomó posiciones en Baal-tamar, mientras que los que estaban en la emboscada al oeste de Guibeá salieron a atacar desde donde se habían escondido. ^34^ Diez mil aguerridos guerreros israelitas atacaron Guibeá, y la lucha fue tan intensa que los benjamitas no se dieron cuenta de que estaban al borde del desastre. ^35^ Así que el Señor derrotó a Benjamín ante Israel. Ese día los israelitas mataron a veinticinco mil cien benjamitas, todos armados con espadas. ^36^ Los benjamitas vieron que estaban derrotados. 
 
-Los israelitas habían retrocedido ante los benjamitas porque confiaban en que la emboscada que habían preparado cerca de Guibeá tendría éxito. ^37^ Los hombres de la emboscada corrieron a atacar el pueblo, y mataron a todos los que estaban en él. ^38^ El acuerdo fue que enviarían una gran nube de humo para mostrar que la ciudad había caído.^^ ^39^ El ejército israelita se volvió para atacar a los benjamitas, que ya habían matado a unos treinta israelitas. Los benjamitas decían: “¡Los estamos derrotando completamente, como en la primera batalla!”. 
-^[**20:38** “Mostrar que la ciudad había caído”: suministrado para mayor claridad.]
+Los israelitas habían retrocedido ante los benjamitas porque confiaban en que la emboscada que habían preparado cerca de Guibeá tendría éxito. ^37^ Los hombres de la emboscada corrieron a atacar el pueblo, y mataron a todos los que estaban en él. ^38^ El acuerdo fue que enviarían una gran nube de humo para mostrar que la ciudad había caído.^a^ ^39^ El ejército israelita se volvió para atacar a los benjamitas, que ya habían matado a unos treinta israelitas. Los benjamitas decían: “¡Los estamos derrotando completamente, como en la primera batalla!”. 
+^a^[**20:38** “Mostrar que la ciudad había caído”: suministrado para mayor claridad.]
 
 ^40^ Sin embargo, cuando los israelitas vieron que las columnas de humo se elevaban hacia el cielo hasta formar una gran nube sobre toda la ciudad, ^41^ se volvieron contra sus enemigos. Los benjamitas se horrorizaron al verlo y se dieron cuenta de que estaban condenados. ^42^ Se volvieron y huyeron de los israelitas hacia el desierto, pero la batalla los alcanzó, y los israelitas también mataron a los que salieron de las ciudades en el camino. ^43^ Persiguiendo a los benjamitas, los israelitas los rodearon y los alcanzaron fácilmente al este de Guibeá. ^44^ Murieron dieciocho mil benjamitas, todos ellos valientes guerreros. ^45^ Algunos de los benjamitas que quedaron corrieron hacia la Roca de la Granada en el desierto, y los israelitas mataron a otros cinco mil hombres en el camino. Persiguieron a otro grupo de benjamitas hasta Guidón y mataron a otros mil. 
 
@@ -751,19 +748,18 @@ Los israelitas habían retrocedido ante los benjamitas porque confiaban en que l
 
 ^8^ Entonces preguntaron: “¿Quién de todas las tribus de Israel no asistió a la asamblea que celebramos ante el Señor en Mizpa?” Descubrieron que nadie de Jabés Galaad había acudido al campamento para la asamblea, ^9^ pues una vez hecho el recuento, no había nadie de Jabés Galaad. 
 
-^10^ Así que la asamblea envió allí a doce mil de sus mejores guerreros. Les dieron órdenes, diciendo: “Vayan y maten a los habitantes de Jabes de Galaad con sus espadas, incluso a las mujeres y a los niños. ^11^ Esto es lo que tienen que hacer: Destruyan^^ a todo varón y a toda mujer que haya tenido relaciones sexuales con un hombre.” 
-^[**21:11** Literalmente, “dediquen para su destrucción”: esto era lo que Dios les había ordenado a los israelitas que hicieran con las ciudades cananeas (por ejemplo, Jericó). Ahora se aplica ilegítimamente a otra ciudad israelita.]
+^10^ Así que la asamblea envió allí a doce mil de sus mejores guerreros. Les dieron órdenes, diciendo: “Vayan y maten a los habitantes de Jabes de Galaad con sus espadas, incluso a las mujeres y a los niños. ^11^ Esto es lo que tienen que hacer: Destruyan^a^ a todo varón y a toda mujer que haya tenido relaciones sexuales con un hombre.” 
+^a^[**21:11** Literalmente, “dediquen para su destrucción”: esto era lo que Dios les había ordenado a los israelitas que hicieran con las ciudades cananeas (por ejemplo, Jericó). Ahora se aplica ilegítimamente a otra ciudad israelita.]
 
-^12^ Lograron encontrar entre los habitantes de Jabés Galaad cuatrocientas vírgenes que no habían tenido relaciones sexuales con un hombre. Las llevaron al campamento de Silo, en la tierra de Canaán.^^ ^13^ Entonces toda la asamblea envió un mensaje a los benjamitas en la Roca de Rimónpara decirles: “¡Paz!” ^14^ Así que los hombres de Benjamín regresaron a sus casas y les dieron como esposas a las cuatrocientas mujeres de Jabes Galaad que se habían salvado. Sin embargo, no había suficiente para todos ellos. 
-^[**21:12** Parece que esta referencia a Israel como “la tierra de Canaán” es deliberada y pretende mostrar hasta qué punto Israel había caído en la idolatría.]
+^12^ Lograron encontrar entre los habitantes de Jabés Galaad cuatrocientas vírgenes que no habían tenido relaciones sexuales con un hombre. Las llevaron al campamento de Silo, en la tierra de Canaán.^a^ ^13^ Entonces toda la asamblea envió un mensaje a los benjamitas en la Roca de Rimónpara decirles: “¡Paz!” ^14^ Así que los hombres de Benjamín regresaron a sus casas y les dieron como esposas a las cuatrocientas mujeres de Jabes Galaad que se habían salvado. Sin embargo, no había suficiente para todos ellos. 
+^a^[**21:12** Parece que esta referencia a Israel como “la tierra de Canaán” es deliberada y pretende mostrar hasta qué punto Israel había caído en la idolatría.]
 
 ^15^ El pueblo se compadeció de los benjamitas porque el Señor había hecho este vacío entre las tribus israelitas. ^16^ Los ancianos de la asamblea preguntaron: “¿Qué haremos para suplir a las esposas restantes, porque todas las mujeres de Benjamín han sido destruidas?” ^17^ Añadieron: “Tiene que haber herederos para los supervivientes benjaminitas; una tribu israelita de Israel no puede ser aniquilada. ^18^ Pero no podemos permitirles que tengan a nuestras hijas como esposas, ya que nosotros, como pueblo de Israel, hicimos un juramento sagrado, diciendo: ‘¡Maldito aquél que le dé una esposa a un benjaminita!’” 
 
 ^19^ Entonces dijeron: “¡Mira! Todos los años se celebra la fiesta del Señor en Silo. Se celebra al norte de Betel, y al este del camino que va de Betel a Siquem, al sur de Lebona”. 
 
-^20^ Entonces ordenaron a los benjamitas: “Vayan y escóndanse en las viñas. ^21^ Estén atentos, y cuando vean a las jóvenes de Silo salir a hacer sus danzas, salgan corriendo de las viñas, y cada uno de ustedes secuestre^^ una esposa para sí mismo y regrese a su casa en la tierra de Benjamín. ^22^ Si sus padres o hermanos vienen a quejarse a nosotros, les diremos: “Por favor, hágannos un favor, porque no pudimos encontrar suficientes esposas para ellos en la guerra.^^ Y no es que ustedes sean culpables de romper el juramento, ya que no las dieron en matrimonio”. 
-^[**21:21** La palabra utilizada aquí es inusual y significa apoderarse de alguien por la fuerza.]
-^[**21:22** Refiriéndose al ataque a Jabes Galaad.]
+^20^ Entonces ordenaron a los benjamitas: “Vayan y escóndanse en las viñas. ^21^ Estén atentos, y cuando vean a las jóvenes de Silo salir a hacer sus danzas, salgan corriendo de las viñas, y cada uno de ustedes secuestre^a^ una esposa para sí mismo y regrese a su casa en la tierra de Benjamín. ^22^ Si sus padres o hermanos vienen a quejarse a nosotros, les diremos: “Por favor, hágannos un favor, porque no pudimos encontrar suficientes esposas para ellos en la guerra.^b^ Y no es que ustedes sean culpables de romper el juramento, ya que no las dieron en matrimonio”. 
+^a^[**21:21** La palabra utilizada aquí es inusual y significa apoderarse de alguien por la fuerza.] ^b^[**21:22** Refiriéndose al ataque a Jabes Galaad.]
 
 ^23^ Losbenjaminitas hicieron lo que se les ordenó. Cada hombre tomó a una de las mujeres bailarinas hasta donde fue necesario y se la llevó para que fuera su esposa. Luego regresaron a su tierra, donde reconstruyeron sus ciudades y habitaron en ellas. 
 

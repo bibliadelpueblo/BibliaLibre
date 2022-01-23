@@ -5,15 +5,15 @@
 
 ^3^ Todos los años Elcana salía de su ciudad y se iba a adorar y sacrificar al Señor Todopoderoso en Silo, donde los dos hijos de Elí, Ofni y Finees, eran los sacerdotes del Señor. 
 
-^4^ Cada vez que Elcana ofrecía un sacrificio, daba porciones del mismo a Penina, su esposa, y a todos sus hijos e hijas. ^5^ Y le daba una porción^^ extra a Ana, para mostrar su amor por ella aunque el Señor no le había dado ningún hijo. ^6^ Su rival – la otra esposa – se burlaba de ella para entristecerla porque el Señor no le había dado hijos. 
-^[**1:5** Al dar una porción extra, Elcanah estaba mostrando a todos que trataba a Ana como si tuviera un hijo.]
+^4^ Cada vez que Elcana ofrecía un sacrificio, daba porciones del mismo a Penina, su esposa, y a todos sus hijos e hijas. ^5^ Y le daba una porción^a^ extra a Ana, para mostrar su amor por ella aunque el Señor no le había dado ningún hijo. ^6^ Su rival – la otra esposa – se burlaba de ella para entristecerla porque el Señor no le había dado hijos. 
+^a^[**1:5** Al dar una porción extra, Elcanah estaba mostrando a todos que trataba a Ana como si tuviera un hijo.]
 
 ^7^ Esta situación duró años, y cada vez que Ana iba al templo del Señor, Penina se burlaba de ella hasta que Ana lloraba y no podía comer. 
 
 ^8^ Su esposo le preguntaba: “Ana, ¿por qué lloras? ¿Por qué no comes? ¿Por qué estás tan alterada? ¿No soy mejor para ti que diez hijos?” 
 
-^9^ En cierta ocasión, después haber comido y bebido en Silo, Ana se levantó y se dirigió al Templo^^. El sacerdote Elí estaba sentado en su silla junto a la entrada del Templo del Señor. ^10^ Ana estaba terriblemente disgustada, y le oraba al Señor mientras lloraba inconsolablemente. ^11^ Allí hizo un voto, pidiendo: “Señor Todopoderoso, si tan sólo te fijas en el sufrimiento de tu sierva y te acuerdas de mí, y no me olvidas, sino que me das un hijo, lo dedicaré al Señor durante toda su vida, y ninguna navaja de afeitar tocará su cabeza.” 
-^[**1:9** “Y se dirigió al templo”: Añadido para mayor claridad.]
+^9^ En cierta ocasión, después haber comido y bebido en Silo, Ana se levantó y se dirigió al Templo^a^ . El sacerdote Elí estaba sentado en su silla junto a la entrada del Templo del Señor. ^10^ Ana estaba terriblemente disgustada, y le oraba al Señor mientras lloraba inconsolablemente. ^11^ Allí hizo un voto, pidiendo: “Señor Todopoderoso, si tan sólo te fijas en el sufrimiento de tu sierva y te acuerdas de mí, y no me olvidas, sino que me das un hijo, lo dedicaré al Señor durante toda su vida, y ninguna navaja de afeitar tocará su cabeza.” 
+^a^[**1:9** “Y se dirigió al templo”: Añadido para mayor claridad.]
 
 ^12^ Mientras Ana seguía orando ante el Señor, Elí observaba su boca. ^13^ Ana oraba mentalmente, y aunque sus labios se movían, su voz no producía ningún sonido, y por eso Elí pensó que debía estar ebria. 
 
@@ -29,26 +29,26 @@
 
 ^21^ Elcana y toda su familia fueron a hacer el sacrificio anual al Señor y a cumplir sus votos. ^22^ Pero Ana no fue. Le dijo a su marido: “Una vez destetado el niño, lo llevaré para presentarlo al Señor y que se quede allí para siempre.” 
 
-^23^ “Haz lo que creas conveniente”, le respondió su marido Elcana. “Quédate aquí hasta que lo hayas destetado, y que el Señor cumpla lo que ha dicho.”^^ Así que Ana se quedó y amamantó a su hijo hasta que lo destetó. 
-^[**1:23** “Lo que ha dicho”: refiriéndose al Señor. En la Septuaginta y en un rollo de Qumrán se lee “lo que has dicho”, refiriéndose a Ana.]
+^23^ “Haz lo que creas conveniente”, le respondió su marido Elcana. “Quédate aquí hasta que lo hayas destetado, y que el Señor cumpla lo que ha dicho.”^a^ Así que Ana se quedó y amamantó a su hijo hasta que lo destetó. 
+^a^[**1:23** “Lo que ha dicho”: refiriéndose al Señor. En la Septuaginta y en un rollo de Qumrán se lee “lo que has dicho”, refiriéndose a Ana.]
 
 ^24^ Cuando hubo destetado al niño, Ana se lo llevó junto con un novillo de tres años, un efa de harina y un odre con vino. Aunque el niño era pequeño, lo llevó al Templo del Señor en Silo. ^25^ Después de sacrificar el novillo, presentaron el niño a Elí. 
 
-^26^ “Por favor, mi señor”, dijo Ana, “con toda seguridad, mi señor, yo soy la mujer que estuvo aquí con usted orando al Señor. ^27^ Yo oré por este niño, y como el Señor me ha dado lo que le pedí, ^28^ ahora se lo entrego al Señor. Mientras viva estará dedicado al Señor”. Entoncesadoró^^ al Señor en ese lugar.
-^[**1:28** “Adoró”: Se presume que se refiere a Elcana. Algunas versiones cambian el pronombre y dice “Adoraron.”] 
+^26^ “Por favor, mi señor”, dijo Ana, “con toda seguridad, mi señor, yo soy la mujer que estuvo aquí con usted orando al Señor. ^27^ Yo oré por este niño, y como el Señor me ha dado lo que le pedí, ^28^ ahora se lo entrego al Señor. Mientras viva estará dedicado al Señor”. Entoncesadoró^a^ al Señor en ese lugar.
+^a^[**1:28** “Adoró”: Se presume que se refiere a Elcana. Algunas versiones cambian el pronombre y dice “Adoraron.”] 
 
 # 2 
 ^1^ Ana oró: “¡Estoy tan feliz en el Señor! ¡Él me ha dado poder! Ahora tengo mucho que decir en respuesta a los que me odian. ¡Celebro su salvación! ^2^ ¡No hay nadie santo como el Señor, nadie aparte de ti, ninguna Roca como nuestro Dios! 
 
 ^3^ ¡No hables con tanta arrogancia! ¡No hablen con tanta arrogancia! Porque el Señor es un Dios que lo sabe todo: ¿acaso no juzga lo que hacen? 
 
-^4^ Las armas^^ de los poderosos son destrozadas, mientras que los que tropiezan se vuelven fuertes. ^5^ Los que tenían mucha comida ahora tienen que trabajar para ganarse un mendrugo, mientras que los que tenían hambre ahora han engordado. La mujer que no tenía hijos ahora tiene siete, mientras que la que tenía muchos se desvanece. 
-^[**2:4** “Armas”: literalmente, “arco.”]
+^4^ Las armas^a^ de los poderosos son destrozadas, mientras que los que tropiezan se vuelven fuertes. ^5^ Los que tenían mucha comida ahora tienen que trabajar para ganarse un mendrugo, mientras que los que tenían hambre ahora han engordado. La mujer que no tenía hijos ahora tiene siete, mientras que la que tenía muchos se desvanece. 
+^a^[**2:4** “Armas”: literalmente, “arco.”]
 
 ^6^ El Señor mata y otorga vida; a unos los manda a la tumba, pero a otros los resucita. ^7^ El Señor empobrece a unos, pero enriquece a otros; abate a unos, pero levanta a otros. ^8^ Ayuda a los pobres a levantarse del polvo; saca a los humildes del muladar y los sienta con la clase alta en lugares de gran honor. Porque los cimientos de la tierra son del Señor, y sobre ellos ha colocado el mundo. 
 
-^9^ Él cuidará de los que confían en él, pero los malvados se desvanecen en las tinieblas, pues el hombre no puede triunfar por sus propias fuerzas. ^10^ El Señor aplasta a sus enemigos, truena desde el cielo contra ellos. Él gobierna^^ toda la tierra; fortalece a su rey y otorga poder al que ha ungido.” 
-^[**2:10** “Gobierna”: o “juzga.”]
+^9^ Él cuidará de los que confían en él, pero los malvados se desvanecen en las tinieblas, pues el hombre no puede triunfar por sus propias fuerzas. ^10^ El Señor aplasta a sus enemigos, truena desde el cielo contra ellos. Él gobierna^a^ toda la tierra; fortalece a su rey y otorga poder al que ha ungido.” 
+^a^[**2:10** “Gobierna”: o “juzga.”]
 
 ^11^ Entonces Elcana se fue a su casa en Ramá, mientras el niño se quedó con el sacerdote Elí sirviendo al Señor. 
 
@@ -58,19 +58,18 @@
 
 Pero el criado del sacerdote le contestaba: “No, debes dármela ahora. Si no lo haces, la tomaré por la fuerza”. ^17^ Los pecados de estos jóvenes eran extremadamente graves ante los ojos del Señor, porque estaban tratando las ofrendas del Señor con desprecio. 
 
-^18^ Pero Samuel servía ante el Señor: era un muchacho vestido de sacerdote, con un efod de lino. ^19^ Cada año, su madre le hacía un pequeño manto y se lo llevaba cuando iba con su marido a ofrecer el sacrificio anual. ^20^ Elí bendecía a Elcana y a su esposa, diciendo: “Que el Señor le dé hijos de esta mujer para reemplazar al que ella dedicó al Señor”. Luego regresaban a casa. ^21^ Y el Señor bendijo^^ a Ana con tres hijos y dos hijas. El niño Samuel creció en la presencia del Señor. 
-^[**2:21** “Bendijo”: literalmente, “Le presto atención.”]
+^18^ Pero Samuel servía ante el Señor: era un muchacho vestido de sacerdote, con un efod de lino. ^19^ Cada año, su madre le hacía un pequeño manto y se lo llevaba cuando iba con su marido a ofrecer el sacrificio anual. ^20^ Elí bendecía a Elcana y a su esposa, diciendo: “Que el Señor le dé hijos de esta mujer para reemplazar al que ella dedicó al Señor”. Luego regresaban a casa. ^21^ Y el Señor bendijo^a^ a Ana con tres hijos y dos hijas. El niño Samuel creció en la presencia del Señor. 
+^a^[**2:21** “Bendijo”: literalmente, “Le presto atención.”]
 
 ^22^ Elí era muy anciano, pero se había enterado de todas las cosas que sus hijos hacían con el pueblo de Israel, y de cómo seducían a las mujeres que servían a la entrada del Tabernáculo de Reunión. ^23^ Entonces les preguntó: “¿Por qué se comportan de esta manera? Sigo oyendo las quejas de todo el mundo por sus malas acciones. ^24^ No, hijos míos, lo que escucho sobre ustedes de parte del pueblo del Señor no es bueno. ^25^ Si un hombre peca contra alguien, Dios puede interceder por él; pero si un hombre peca contra el Señor, ¿quién podrá interceder por él?” Pero no prestaron atención a lo que les dijo su padre, pues el Señor planeaba darles muerte. 
 
 ^26^ El niño Samuel crecía en estatura, y también crecía en cuanto a la aprobación del Señor y del pueblo. 
 
-^27^ Un hombre de Dios se acercó a Elí y le dijo: “Esto es lo que dice el Señor: ¿Acaso no me revelé claramente a la familia de tu antepasado cuando era gobernado por el faraón en Egipto? ^28^ Yo lo elegí^^ de todas las tribus de Israel como mi sacerdote, para ofrecer sacrificios en mi altar, para quemar incienso y llevar un efod en mi presencia. También le di a la familia de tu antepasado todos los holocaustos de los israelitas. ^29^ ¿Por qué, entonces, has tratado con desprecio mis sacrificios y las ofrendas que he ordenado para mi lugar de culto? Ustedes honran más a sus hijos que a mí, se engordan ustedes con las mejores partes de todas las ofrendas de mi pueblo Israel. 
-^[**2:28** Refiiriéndose a Aarón.]
+^27^ Un hombre de Dios se acercó a Elí y le dijo: “Esto es lo que dice el Señor: ¿Acaso no me revelé claramente a la familia de tu antepasado cuando era gobernado por el faraón en Egipto? ^28^ Yo lo elegí^a^ de todas las tribus de Israel como mi sacerdote, para ofrecer sacrificios en mi altar, para quemar incienso y llevar un efod en mi presencia. También le di a la familia de tu antepasado todos los holocaustos de los israelitas. ^29^ ¿Por qué, entonces, has tratado con desprecio mis sacrificios y las ofrendas que he ordenado para mi lugar de culto? Ustedes honran más a sus hijos que a mí, se engordan ustedes con las mejores partes de todas las ofrendas de mi pueblo Israel. 
+^a^[**2:28** Refiiriéndose a Aarón.]
 
-^30^ En consecuencia, esta es la declaración del Señor: Hice la promesa definitiva de que tu familia y la de tu padre me servirían siempre como sacerdotes. Pero ahora el Señor declara: ¡Ya no más! En cambio, honraré a los que me honran, pero trataré con desprecio a los que me desprecian. ^31^ Se acerca el momento en que pondré fin a tu familia y a la de tu padre.^^ Nadie vivirá hasta la vejez. ^32^ Verás tragedia en el lugar de adoración.^^ Mientras Israel prospere, ninguno en tu familia volverá a vivir hasta la vejez. ^33^ Cualquiera de tu familia que no haya sido apartado para servir en mi altar, te hará llorar y te causará dolor. Todos tus descendientes morirán aún estando llenos de vida. ^34^ He aquí una señal para ti de que esto sucederá con respecto a tus dos hijos Ofni y Finees: ambos morirán el mismo día. ^35^ Yo elegiré para mí a un sacerdote digno de confianza que hará lo que realmente quiero, lo que tengo en mente. Me aseguraré de que él y sus descendientes sean dignos de confianza y que siempre sirvan a mi ungido. ^36^ Cada uno de tus descendientes que quede vendrá y se inclinará ante él, pidiendo dinero y comida, diciendo: ‘Por favor, dame trabajo como sacerdote para que pueda tener comida.’”
-^[**2:31** “Pondré fin a tu familia”: literalmente, “cortaré tu fuerza.”]
-^[**2:32** Quizás refiriéndose a la pérdida del Arca a manos de los filisteos.] 
+^30^ En consecuencia, esta es la declaración del Señor: Hice la promesa definitiva de que tu familia y la de tu padre me servirían siempre como sacerdotes. Pero ahora el Señor declara: ¡Ya no más! En cambio, honraré a los que me honran, pero trataré con desprecio a los que me desprecian. ^31^ Se acerca el momento en que pondré fin a tu familia y a la de tu padre.^a^ Nadie vivirá hasta la vejez. ^32^ Verás tragedia en el lugar de adoración.^b^ Mientras Israel prospere, ninguno en tu familia volverá a vivir hasta la vejez. ^33^ Cualquiera de tu familia que no haya sido apartado para servir en mi altar, te hará llorar y te causará dolor. Todos tus descendientes morirán aún estando llenos de vida. ^34^ He aquí una señal para ti de que esto sucederá con respecto a tus dos hijos Ofni y Finees: ambos morirán el mismo día. ^35^ Yo elegiré para mí a un sacerdote digno de confianza que hará lo que realmente quiero, lo que tengo en mente. Me aseguraré de que él y sus descendientes sean dignos de confianza y que siempre sirvan a mi ungido. ^36^ Cada uno de tus descendientes que quede vendrá y se inclinará ante él, pidiendo dinero y comida, diciendo: ‘Por favor, dame trabajo como sacerdote para que pueda tener comida.’”
+^a^[**2:31** “Pondré fin a tu familia”: literalmente, “cortaré tu fuerza.”] ^b^[**2:32** Quizás refiriéndose a la pérdida del Arca a manos de los filisteos.] 
 
 # 3 
 ^1^ El niño Samuel servía ante el Señor bajo la supervisión de Elí. En aquella época no se escuchaba un mensaje del Señor con frecuencia, y las visiones no eran comunes. ^2^ Una noche, Elí se había ido a acostar en su habitación. Sus ojos estaban tan débiles que no podía ver. ^3^ La lámpara de Dios aún no se había apagado, y Samuel estaba durmiendo en el Templo del Señor, donde estaba el Arca de Dios. 
@@ -93,8 +92,8 @@ Samuel entonces respondió: “Aquí estoy”. ^5^ Entonces corrió hacia Elí y
 
 ^10^ El Señor llegó y se quedó allí, llamando igual que antes: “¡Samuel! Samuel!” Entonces Samuel respondió: “Habla, porque tu siervo te escucha”. 
 
-^11^ El Señor le dijo entonces a Samuel: “Presta atención, porque voy a hacer algo en Israel que sorprenderá a todos los que lo escuchen.^^ ^12^ Es entonces cuando cumpliré todo lo que he dicho, de principio a fin, contra Elí y su familia. ^13^ Le dije que juzgaré a su familia para siempre por los pecados que él conoce, porque sus hijos blasfemaron contra Dios y él no trató de detenerlos. ^14^ Por eso le juré a Elí y a su familia: ‘La culpa de Elí y de sus descendientes no se quitará nunca con sacrificios ni con ofrendas’”. 
-^[**3:11** “Sorprenderá a todos los que lo escuchen”: literalmente, “estremecerá los oídos de todos los que lo escuchen.”]
+^11^ El Señor le dijo entonces a Samuel: “Presta atención, porque voy a hacer algo en Israel que sorprenderá a todos los que lo escuchen.^a^ ^12^ Es entonces cuando cumpliré todo lo que he dicho, de principio a fin, contra Elí y su familia. ^13^ Le dije que juzgaré a su familia para siempre por los pecados que él conoce, porque sus hijos blasfemaron contra Dios y él no trató de detenerlos. ^14^ Por eso le juré a Elí y a su familia: ‘La culpa de Elí y de sus descendientes no se quitará nunca con sacrificios ni con ofrendas’”. 
+^a^[**3:11** “Sorprenderá a todos los que lo escuchen”: literalmente, “estremecerá los oídos de todos los que lo escuchen.”]
 
 ^15^ Samuel permaneció en la cama hasta la mañana. Luego se levantó y abrió las puertas del Templo del Señor como de costumbre. Tenía miedo de contarle a Elí la visión. ^16^ Pero Elí lo llamó y le dijo: “Samuel, hijo mío”. 
 
@@ -119,8 +118,8 @@ Los israelitas marcharon para enfrentarse a los filisteos en la batalla. Acampar
 
 ^10^ Así que los filisteos lucharon, y los israelitas fueron derrotados: cada uno huyó a su casa. El número de muertos fue muy grande: treinta mil de la infantería israelita murieron. ^11^ El Arca de Dios fue capturada y murieron Ofni y Finees, los dos hijos de Elí. 
 
-^12^ Un hombre de la tribu de Benjamín huyó aquel día de la batalla hasta Silo. Su ropa estaba rota y tenía tierra en la cabeza.^^ ^13^ Cuando llegó, Elí estaba sentado en su silla junto al camino, atento a las noticias porque estaba preocupado por el Arca de Dios. Cuando el hombre llegó a la ciudad y dio su informe, todo el pueblo lloró a gritos. 
-^[**4:12** “Su ropa estaba rota y tenía tierra en la cabeza”. Esto simbolizaba una gran angustia.]
+^12^ Un hombre de la tribu de Benjamín huyó aquel día de la batalla hasta Silo. Su ropa estaba rota y tenía tierra en la cabeza.^a^ ^13^ Cuando llegó, Elí estaba sentado en su silla junto al camino, atento a las noticias porque estaba preocupado por el Arca de Dios. Cuando el hombre llegó a la ciudad y dio su informe, todo el pueblo lloró a gritos. 
+^a^[**4:12** “Su ropa estaba rota y tenía tierra en la cabeza”. Esto simbolizaba una gran angustia.]
 
 ^14^ Elí oyó el llanto y preguntó: “¿Qué es todo este ruido?”. El hombre corrió hacia Elí y le contó lo que había sucedido. 
 
@@ -141,9 +140,8 @@ Los israelitas marcharon para enfrentarse a los filisteos en la batalla. Acampar
 # 5 
 ^1^ Después de que los filisteos capturaron el Arca de Dios, la llevaron de Ebenezer a Asdod. ^2^ Llevaron el Arca de Dios al Templo de Dagón y la colocaron junto a Dagón. ^3^ Cuando el pueblo de Asdod se levantó temprano al día siguiente, vio que Dagón había caído de bruces frente al Arca del Señor. Así que tomaron a Dagón y lo volvieron a colocar. ^4^ Cuando se levantaron temprano a la mañana siguiente, vieron que Dagón había caído de bruces frente al Arca del Señor, con la cabeza y las manos rotas, tirado en el umbral. Sólo su cuerpo permanecía intacto. ^5^ (Por eso los sacerdotes de Dagón, y todos los que entran en el templo de Dagón en Asdod, no pisan el umbral, ni siquiera hasta ahora). 
 
-^6^ El Señor castigó^^ a los habitantes de Asdod y sus alrededores, devastándolos y plagándolos de hinchazones.^^ ^7^ Cuando los habitantes de Asdod vieron lo que sucedía, dijeron: “No podemos dejar que el Arca del Dios de Israel se quede aquí con nosotros, porque nos está castigando a nosotros y a Dagón, nuestro dios.” ^8^ Así que mandaron llamar a todos los gobernantes filisteos y les preguntaron: “¿Qué debemos hacer con el Arca del Dios de Israel?” 
-^[**5:6** “El Señor castigó”: literalmente, “La mano del Señor fue pesada.”]
-^[**5:6** Algunos piensan que estas “hinchazones” o “tumores” estaban relacionados con la peste bubónica. La Septuaginta añade al final de este versículo: “y las ratas pululaban por toda la tierra, y había muerte y destrucción en la ciudad.”]
+^6^ El Señor castigó^a^ a los habitantes de Asdod y sus alrededores, devastándolos y plagándolos de hinchazones.^b^ ^7^ Cuando los habitantes de Asdod vieron lo que sucedía, dijeron: “No podemos dejar que el Arca del Dios de Israel se quede aquí con nosotros, porque nos está castigando a nosotros y a Dagón, nuestro dios.” ^8^ Así que mandaron llamar a todos los gobernantes filisteos y les preguntaron: “¿Qué debemos hacer con el Arca del Dios de Israel?” 
+^a^[**5:6** “El Señor castigó”: literalmente, “La mano del Señor fue pesada.”] ^b^[**5:6** Algunos piensan que estas “hinchazones” o “tumores” estaban relacionados con la peste bubónica. La Septuaginta añade al final de este versículo: “y las ratas pululaban por toda la tierra, y había muerte y destrucción en la ciudad.”]
 
 “Lleven el Arca del Dios de Israel a Gat”, respondieron. Así que la trasladaron a Gat. ^9^ Pero una vez que trasladaron el Arca a Gat, el Señor también actuó contra esa ciudad, sumiéndola en una gran confusión y atacando a la gente de la ciudad, jóvenes y ancianos, con una plaga de hinchazones. 
 
@@ -156,8 +154,8 @@ Los israelitas marcharon para enfrentarse a los filisteos en la batalla. Acampar
 
 ^4^ “¿Qué clase de ofrenda por la culpa debemos enviarle?”, preguntaron los filisteos. “Cinco objetos de oro en forma de tumor y cinco ratas de oro que representen el número de gobernantes de los filisteos”, respondieron. “La misma plaga los atacó a ustedes y a sus gobernantes. ^5^ Haz modelos que representen tus hinchazones y las ratas que destruyen el país, y honra al Dios de Israel. Tal vez deje de castigarte a ti, a tus dioses y a tu tierra. ^6^ ¿Por qué ser tercos como los egipcios y el faraón? ¿Acaso cuando Dios los castigó no dejaron ir a los israelitas para seguir su camino? 
 
-7 Así que preparen un nuevo carro, tirado por dos vacas con crías y que nunca hayan sido uncidas. Aten las vacas al carro, pero quiten sus terneros y pónganlos en un establo.^^ ^8^ Recojan el Arca del Señor, pónganla en el carro y coloquen los objetos de oro que envían como ofrenda por la culpa en un cofre junto a ella. Luego envíen el Arca. Dejen que se vaya por donde quiera, ^9^ pero no dejen de vigilarla. Si sube por el camino hacia su patria, hacia Bet-Semes, entonces es el Señor quien nos ha causado todo este terrible problema. Pero si no lo hace, entonces sabremos que no fue él quien nos castigó, sino que nos ocurrió por casualidad”. 
-^[**6:6** El propósito de esto era forzar a las vacas a hacer algo inusual dejando voluntariamente sus terneros. De este modo, el pueblo estaría seguro de que esta acción contaba con la aprobación de Dios si la hacía realidad.]
+7 Así que preparen un nuevo carro, tirado por dos vacas con crías y que nunca hayan sido uncidas. Aten las vacas al carro, pero quiten sus terneros y pónganlos en un establo.^a^ ^8^ Recojan el Arca del Señor, pónganla en el carro y coloquen los objetos de oro que envían como ofrenda por la culpa en un cofre junto a ella. Luego envíen el Arca. Dejen que se vaya por donde quiera, ^9^ pero no dejen de vigilarla. Si sube por el camino hacia su patria, hacia Bet-Semes, entonces es el Señor quien nos ha causado todo este terrible problema. Pero si no lo hace, entonces sabremos que no fue él quien nos castigó, sino que nos ocurrió por casualidad”. 
+^a^[**6:6** El propósito de esto era forzar a las vacas a hacer algo inusual dejando voluntariamente sus terneros. De este modo, el pueblo estaría seguro de que esta acción contaba con la aprobación de Dios si la hacía realidad.]
 
 ^10^ Entonces el pueblo lo hizo así. Tomaron dos vacas con crías y las ataron al carro, y guardaron sus terneros en un establo. ^11^ Pusieron el Arca del Señor en el carro, junto con el cofre que contenía las ratas de oro y los modelos de sus hinchazones. ^12^ Las vacas subieron en línea recta por el camino de Bet-Semes, mugiendo mientras avanzaban, yendo directamente por el camino principal y sin girar ni a la izquierda ni a la derecha. Los jefes filisteos las siguieron hasta la frontera de Bet-Semes. 
 
@@ -165,8 +163,8 @@ Los israelitas marcharon para enfrentarse a los filisteos en la batalla. Acampar
 
 ^17^ Los cinco modelos de oro de las hinchadas enviados por los filisteos como ofrenda de culpa al Señor eran de los gobernantes de Asdod, Gaza, Ascalón, Gat y Ecrón. ^18^ Las ratas de oro representaban el número de ciudades filisteas de los cinco gobernantes: las ciudades fortificadas y sus aldeas circundantes. La gran roca sobre la que colocaron el Arca del Señor sigue en pie hasta el día de hoy en el campo de Josué de Bet-semes como testigo de lo que allí ocurrió. 
 
-^19^ Pero Dios mató a algunos de los habitantes de Bet-semes porque revisaron el interior del Arca del Señor. Mató a setenta,^^ y el pueblo se lamentó profundamente porque el Señor había matado a tantos. ^20^ El pueblo de Bet-semes preguntó: “¿Quién puede estar frente al Señor, este Dios santo? ¿Adónde debe ir el Arca de aquí en adelante?” 
-^[**6:19** Algunos manuscritos parecen decir 50.070, pero esta es una cifra improbable para un pequeño asentamiento.]
+^19^ Pero Dios mató a algunos de los habitantes de Bet-semes porque revisaron el interior del Arca del Señor. Mató a setenta,^a^ y el pueblo se lamentó profundamente porque el Señor había matado a tantos. ^20^ El pueblo de Bet-semes preguntó: “¿Quién puede estar frente al Señor, este Dios santo? ¿Adónde debe ir el Arca de aquí en adelante?” 
+^a^[**6:19** Algunos manuscritos parecen decir 50.070, pero esta es una cifra improbable para un pequeño asentamiento.]
 
 ^21^ Entonces enviaron mensajeros al pueblo de Quiriat-jearim para decirles: “Los filisteos han devuelto el Arca del Señor. Desciendan y llévensela a casa.” 
 
@@ -177,8 +175,8 @@ Los israelitas marcharon para enfrentarse a los filisteos en la batalla. Acampar
 
 ^5^ Entonces Samuel dijo: “Que todo el pueblo de Israel se reúna en Mizpa, y yo oraré al Señor por ustedes.” 
 
-^6^ Una vez reunidos en Mizpa, sacaron agua y la derramaron ante el Señor. Ese día ayunaron y reconocieron: “Hemos pecado contra el Señor”. Y Samuel se convirtió en el líder^^ de los israelitas en Mizpa. 
-^[**7:6** Literalmente “juez,” que era el equivalente a “líder.” Ver también, vers. 15.]
+^6^ Una vez reunidos en Mizpa, sacaron agua y la derramaron ante el Señor. Ese día ayunaron y reconocieron: “Hemos pecado contra el Señor”. Y Samuel se convirtió en el líder^a^ de los israelitas en Mizpa. 
+^a^[**7:6** Literalmente “juez,” que era el equivalente a “líder.” Ver también, vers. 15.]
 
 ^7^ Cuando los filisteos se enteraron de que los israelitas se habían reunido en Mizpa, sus gobernantes dirigieron un ataque contra Israel. Cuando los israelitas se enteraron de esto, se aterraron por lo que los filisteos podrían hacer. ^8^ Le dijeron a Samuel: “No dejes de rogarle al Señor nuestro Dios por nosotros, para que nos salve de los filisteos”. ^9^ Samuel tomó un cordero joven y lo presentó como holocausto completo al Señor. Clamó al Señor por ayuda para Israel, y el Señor le respondió. 
 
@@ -191,8 +189,8 @@ Los israelitas marcharon para enfrentarse a los filisteos en la batalla. Acampar
 ^15^ Y Samuel fue el líder de Israel por el resto de su vida. ^16^ Todos los años recorría el país, yendo a Betel, Gilgal y Mizpa. En todos estos lugares atendía los asuntos de Israel. ^17^ Luego regresaba a Ramá, porque allí vivía. Desde allí gobernaba a Israel, y también construyó un altar para el Señor. 
 
 # 8 
-^1^ Cuando Samuel envejeció, nombró a sus hijos como jefes^^ de Israel. ^2^ Su primer hijo se llamaba Joel, y su segundo hijo se llamaba Abías. Ambos fueron gobernantes en Beerseba. ^3^ Sin embargo, sus hijos no siguieron su camino. Eran corruptos, ganaban dinero aceptando sobornos y pervertían la justicia. 
-^[**8:1** Nuevamente la palabra utilizada es “jueces”, pero en este período de la historia de Israel, antes de que tuvieran reyes, los jueces no sólo resolvían casos legales, sino que actuaban como gobernantes.]
+^1^ Cuando Samuel envejeció, nombró a sus hijos como jefes^a^ de Israel. ^2^ Su primer hijo se llamaba Joel, y su segundo hijo se llamaba Abías. Ambos fueron gobernantes en Beerseba. ^3^ Sin embargo, sus hijos no siguieron su camino. Eran corruptos, ganaban dinero aceptando sobornos y pervertían la justicia. 
+^a^[**8:1** Nuevamente la palabra utilizada es “jueces”, pero en este período de la historia de Israel, antes de que tuvieran reyes, los jueces no sólo resolvían casos legales, sino que actuaban como gobernantes.]
 
 ^4^ Así que los ancianos de Israel se reunieron y fueron a buscar a Samuel a Ramá. ^5^ “Mira” – le dijeron – “tú ya eres viejo y tus hijos no siguen tus caminos. Elige un rey que nos gobierne como a todas las demás naciones”. 
 
@@ -239,30 +237,30 @@ Los israelitas marcharon para enfrentarse a los filisteos en la batalla. Acampar
 
 ^22^ Entonces Samuel llevó a Saúl y a su criado al salón, y los sentó a la cabeza de las treinta personas que habían sido invitadas. ^23^ Entonces Samuel le dijo al cocinero: “Trae el trozo de carne especial que te di y que te dije que reservaras”. 
 
-^24^ Así que el cocinero tomó el muslo superior^^ de la carne y lo puso delante de Saúl. Entonces Samuel le dijo: “Mira, esto es lo que estaba reservado para ti. Cómelo, pues estaba apartado para ti, para este momento en particular, desde que dije: ‘He invitado al pueblo’”. Así que Saúl comió con Samuel aquel día. 
-^[**9:24** A Saúl se le dio la carne que sólo debían comer los sacerdotes. Ver Levítico 10:14-15.]
+^24^ Así que el cocinero tomó el muslo superior^a^ de la carne y lo puso delante de Saúl. Entonces Samuel le dijo: “Mira, esto es lo que estaba reservado para ti. Cómelo, pues estaba apartado para ti, para este momento en particular, desde que dije: ‘He invitado al pueblo’”. Así que Saúl comió con Samuel aquel día. 
+^a^[**9:24** A Saúl se le dio la carne que sólo debían comer los sacerdotes. Ver Levítico 10:14-15.]
 
-^25^ Cuando descendieron del lugar de adoración en lo alto a la ciudad, Samuel habló con Saúl en el techo de su casa.^^ ^26^ Al amanecer del día siguiente, Samuel llamó a Saúl desde el tejado: “¡Levántate! Tengo que enviarte de regreso”. Así que Saúl se levantó y salió con Samuel. ^27^ Cuando se acercaban a las afueras de la ciudad, Samuel le dijo a Saúl: “Dile a tu siervo que se vaya adelante, antes que nosotros. Cuando se haya ido, quédate aquí un rato, porque tengo un mensaje de Dios para ti”. Así que el criado se adelantó.
-^[**9:25** A falta de otras habitaciones, la azotea de la casa se utilizaba como alojamiento temporal.] 
+^25^ Cuando descendieron del lugar de adoración en lo alto a la ciudad, Samuel habló con Saúl en el techo de su casa.^a^ ^26^ Al amanecer del día siguiente, Samuel llamó a Saúl desde el tejado: “¡Levántate! Tengo que enviarte de regreso”. Así que Saúl se levantó y salió con Samuel. ^27^ Cuando se acercaban a las afueras de la ciudad, Samuel le dijo a Saúl: “Dile a tu siervo que se vaya adelante, antes que nosotros. Cuando se haya ido, quédate aquí un rato, porque tengo un mensaje de Dios para ti”. Así que el criado se adelantó.
+^a^[**9:25** A falta de otras habitaciones, la azotea de la casa se utilizaba como alojamiento temporal.] 
 
 # 10 
-^1^ Entonces Samuel tomó un frasco de aceite de oliva y lo derramó sobre la cabeza de Saúl, y lo besó diciendo: “El Señor te ha ungido como gobernante de su pueblo elegido.^^ ^2^ Cuando me dejes hoy, te encontrarás con dos hombres cerca de la tumba de Raquel en Selsa, en la frontera del territorio de Benjamín. Te dirán que han encontrado los burros que fuiste a buscar. 
-^[**10:1** Esta línea se da en forma de pregunta, pero es mejor traducirla como una declaración, ya que una pregunta puede implicar incertidumbre.]
+^1^ Entonces Samuel tomó un frasco de aceite de oliva y lo derramó sobre la cabeza de Saúl, y lo besó diciendo: “El Señor te ha ungido como gobernante de su pueblo elegido.^a^ ^2^ Cuando me dejes hoy, te encontrarás con dos hombres cerca de la tumba de Raquel en Selsa, en la frontera del territorio de Benjamín. Te dirán que han encontrado los burros que fuiste a buscar. 
+^a^[**10:1** Esta línea se da en forma de pregunta, pero es mejor traducirla como una declaración, ya que una pregunta puede implicar incertidumbre.]
 
 Ahora tu padre no está preocupado por ellos, sino por ti, y se pregunta: “¿Qué pasará con mi hijo?”. 
 
-^3^ Saldrás de allí y seguirás hasta la encina de Tabor, donde te encontrarás con tres hombres que van a adorar a Dios en Betel. Uno llevará tres cabritos, otro llevará tres panes y otro llevará un odre de vino. ^4^ Te saludarán^^ y te darán dos panes que deberás tomar. 
-^[**10:4** Literalmente, “shalom,” el saludo usual de la época.]
+^3^ Saldrás de allí y seguirás hasta la encina de Tabor, donde te encontrarás con tres hombres que van a adorar a Dios en Betel. Uno llevará tres cabritos, otro llevará tres panes y otro llevará un odre de vino. ^4^ Te saludarán^a^ y te darán dos panes que deberás tomar. 
+^a^[**10:4** Literalmente, “shalom,” el saludo usual de la época.]
 
 ^5^ A continuación llegarás a Guibeá de Dios, donde los filisteos tienen una guarnición. Al entrar en la ciudad, te encontrarás con una procesión de profetas que desciende del lugar alto, tocando arpas, panderetas, flautas y liras, y estarán profetizando. ^6^ Entonces el Espíritu del Señor vendrá sobre ti con poder. Profetizarás con ellos, y te convertirás en un hombre diferente. ^7^ Después de que hayan ocurrido estas señales, haz lo que tengas que hacer, porque Dios está contigo. ^8^ Luego ve delante de mí a Gilgal. Te aseguro que iré y me reuniré contigo para presentar holocaustos y ofrendas de paz. Espera allí siete días hasta que yo vaya a verte y te haga saber lo que debes hacer”. 
 
-^9^ En el momento mismo que Saúl se volvió y dejó a Samuel, Dios le dio a Saúl una forma de pensar diferente,^^ y todas las señales se cumplieron aquel día. ^10^ Cuando Saúl y su criado llegaron a Guibeá, había una procesión de profetas que salía a su encuentro. Y el Espíritu de Dios vino sobre Saúl con poder, y él también comenzó a profetizar con ellos. 
-^[**10:9** “Una manera de pensardiferente”: literalmente “hizo que su corazón fuera otro”. Dado que en hebreo el corazón era donde se pensaba, esto se relaciona con la mente. En muchos sentidos, esto se corresponde con el concepto griego de un “cambio de mente”, que es el verdadero significado de la conversión. Así que en cierto sentido se podría decir que Saúl se “convirtió” en ese momento.]
+^9^ En el momento mismo que Saúl se volvió y dejó a Samuel, Dios le dio a Saúl una forma de pensar diferente,^a^ y todas las señales se cumplieron aquel día. ^10^ Cuando Saúl y su criado llegaron a Guibeá, había una procesión de profetas que salía a su encuentro. Y el Espíritu de Dios vino sobre Saúl con poder, y él también comenzó a profetizar con ellos. 
+^a^[**10:9** “Una manera de pensardiferente”: literalmente “hizo que su corazón fuera otro”. Dado que en hebreo el corazón era donde se pensaba, esto se relaciona con la mente. En muchos sentidos, esto se corresponde con el concepto griego de un “cambio de mente”, que es el verdadero significado de la conversión. Así que en cierto sentido se podría decir que Saúl se “convirtió” en ese momento.]
 
 ^11^ Todos los que conocían a Saúl y lo veían profetizar con los profetas se decían: “¿Qué pasa con el hijo de Cis? ¿Acaso Saúl es también uno de los profetas?” 
 
-^12^ Un hombre que vivía allí respondió: “¿Pero quién es su padre?”^^ Así que se convirtió en un dicho: “¿Es Saúl también uno de los profetas?” 
-^[**10:12** En otras palabras, el don profético no depende de la genealogía.]
+^12^ Un hombre que vivía allí respondió: “¿Pero quién es su padre?”^a^ Así que se convirtió en un dicho: “¿Es Saúl también uno de los profetas?” 
+^a^[**10:12** En otras palabras, el don profético no depende de la genealogía.]
 
 ^13^ Cuando Saúl terminó de profetizar, fue al lugar alto de adoración. ^14^ El tío de Saúl le preguntó a éste y a su criado: “¿Dónde estaban?” 
 
@@ -288,14 +286,14 @@ Y todo el pueblo gritó: “¡Viva el rey!”.
 
 ^26^ Saúl también regresó a su casa en Guibeá, acompañado de los guerreros a quienes Dios había convencido para que lo ayudaran. 
 
-^27^ Pero algunos hombres odiosos preguntaron: “¿Cómo podría salvarnos este hombre?”. Lo odiaron y no le trajeron ningún regalo; pero Saúl no tomó represalias.^^ 
-^[**10:27** En el texto hebreo tradicional el capítulo termina aquí. Sin embargo, en un rollo encontrado en Qumrán hay la siguiente información adicional que se relaciona con el siguiente capítulo y se incluye aquí por su interés. “Nahas, rey de los amonitas, había estado oprimiendo severamente al pueblo de Gad y Rubén. Les sacaba el ojo derecho y no dejaba que nadie los ayudara. No quedó nadie de los israelitas al otro lado del Jordán a quien Nahas, rey de los amonitas, no le hubiera sacado el ojo derecho. Sin embargo, había siete mil hombres que habían escapado de los amonitas y se habían ido a vivir a Jabes de Galaad.”]
+^27^ Pero algunos hombres odiosos preguntaron: “¿Cómo podría salvarnos este hombre?”. Lo odiaron y no le trajeron ningún regalo; pero Saúl no tomó represalias.^a^ 
+^a^[**10:27** En el texto hebreo tradicional el capítulo termina aquí. Sin embargo, en un rollo encontrado en Qumrán hay la siguiente información adicional que se relaciona con el siguiente capítulo y se incluye aquí por su interés. “Nahas, rey de los amonitas, había estado oprimiendo severamente al pueblo de Gad y Rubén. Les sacaba el ojo derecho y no dejaba que nadie los ayudara. No quedó nadie de los israelitas al otro lado del Jordán a quien Nahas, rey de los amonitas, no le hubiera sacado el ojo derecho. Sin embargo, había siete mil hombres que habían escapado de los amonitas y se habían ido a vivir a Jabes de Galaad.”]
 
 
 
 # 11 
-^1^ Nahas el amonita llegó con su ejército^^ y sitió Jabes de Galaad. Todo el pueblo de Jabes le dijo: “Haz un acuerdo de paz con nosotros, y seremos tus súbditos.” 
-^[**11:1** “Con su ejército”: añadido para mayor claridad.]
+^1^ Nahas el amonita llegó con su ejército^a^ y sitió Jabes de Galaad. Todo el pueblo de Jabes le dijo: “Haz un acuerdo de paz con nosotros, y seremos tus súbditos.” 
+^a^[**11:1** “Con su ejército”: añadido para mayor claridad.]
 
 ^2^ Pero Nahas el amonita respondió: “Haré un tratado de paz con ustedes con una condición: que les saque a todos el ojo derecho para avergonzar a todos los israelitas.” 
 
@@ -305,8 +303,8 @@ Y todo el pueblo gritó: “¡Viva el rey!”.
 
 ^5^ Justo en ese momento Saúl volvía de arar un campo con sus bueyes. “¿Por qué están todos tan alterados?”, preguntó. Entonces le contaron lo que habían dicho los hombres de Jabes. 
 
-^6^ Cuando se enteró de esto, el Espíritu de Dios se apoderó de Saúl, y se enojó mucho. ^7^ Entonces tomó un par de bueyes y los cortó en pedazos. Luego los envió con los mensajeros por todo Israel con el mensaje: “Esto es lo que pasará con los bueyes de cualquiera que no siga a Saúl y a Samuel”. Y el Señor hizo que el pueblo se pusiera ansioso^^ por hacerlo, y el pueblo salió como si fueran uno solo. ^8^ Cuando Saúl los contó en Bezek, había 300.000 hombres de Israel y 30.000 de Judá. 
-^[**11:7** “El Señor hizo que el pueblo se pudiera ansioso”: literalmente “El temor del Señor cayó sobre el pueblo”. Esto podría interpretarse como que el Señor es la fuente del temor, o el objeto de temor. En cualquier caso, el resultado es que el pueblo apoya a Saúl.]
+^6^ Cuando se enteró de esto, el Espíritu de Dios se apoderó de Saúl, y se enojó mucho. ^7^ Entonces tomó un par de bueyes y los cortó en pedazos. Luego los envió con los mensajeros por todo Israel con el mensaje: “Esto es lo que pasará con los bueyes de cualquiera que no siga a Saúl y a Samuel”. Y el Señor hizo que el pueblo se pusiera ansioso^a^ por hacerlo, y el pueblo salió como si fueran uno solo. ^8^ Cuando Saúl los contó en Bezek, había 300.000 hombres de Israel y 30.000 de Judá. 
+^a^[**11:7** “El Señor hizo que el pueblo se pudiera ansioso”: literalmente “El temor del Señor cayó sobre el pueblo”. Esto podría interpretarse como que el Señor es la fuente del temor, o el objeto de temor. En cualquier caso, el resultado es que el pueblo apoya a Saúl.]
 
 ^9^ A los mensajeros que llegaron les dijeron: “Diganles a los hombres de Jabes de Galaad: “Mañana serán rescatados, para cuando el sol caliente al medio día”. El pueblo de Jabes se puso muy contento cuando los mensajeros les dieron este mensaje. ^10^ Entonces les dijeron a los amonitas: “Nos rendiremos a ustedes mañana, y entonces podrán hacer con nosotros lo que quieran.” 
 
@@ -321,31 +319,30 @@ Y todo el pueblo gritó: “¡Viva el rey!”.
 ^15^ Y todos fueron a Gilgal, y confirmaron a Saúl como rey ante el Señor. Sacaron ofrendas de paz para el Señor, y Saúl, junto con todos los israelitas, hizo una gran celebración. 
 
 # 12 
-^1^ Entonces Samuel le dijo a todo Israel: “He prestado atención a todo lo que me han pedido, y les he dado un rey para que los gobierne. ^2^ Ahora su rey es su líder. Yo soy viejo y canoso, y mis hijos están aquí con ustedes. Los he guiado desde que era un niño hasta hoy. ^3^ Aquí estoy ante ustedes. Traigan cualquier acusación que tengan contra mí en presencia del Señor y de su ungido.^^ ¿Me he apropiadodel buey o del burro de alguien? ¿He perjudicado a alguien? ¿He oprimido a alguien? ¿He aceptado un soborno de alguien para hacerme el de la vista gorda? Díganmelo y les pagaré por ello”. 
-^[**12:3** “Su ungido”: Refiriéndose al rey.]
+^1^ Entonces Samuel le dijo a todo Israel: “He prestado atención a todo lo que me han pedido, y les he dado un rey para que los gobierne. ^2^ Ahora su rey es su líder. Yo soy viejo y canoso, y mis hijos están aquí con ustedes. Los he guiado desde que era un niño hasta hoy. ^3^ Aquí estoy ante ustedes. Traigan cualquier acusación que tengan contra mí en presencia del Señor y de su ungido.^a^ ¿Me he apropiadodel buey o del burro de alguien? ¿He perjudicado a alguien? ¿He oprimido a alguien? ¿He aceptado un soborno de alguien para hacerme el de la vista gorda? Díganmelo y les pagaré por ello”. 
+^a^[**12:3** “Su ungido”: Refiriéndose al rey.]
 
 ^4^ “No, nunca nos has engañado ni nos has oprimido”, respondieron, “y nunca has tomado nada de nadie”. 
 
-^5^ Samuel les dijo: “El Señor es testigo, y su ungido es testigo hoy, en este caso que les concierne, de que no soy culpable de nada.”^^ 
-^[**12:5** “No soy culpable de nada”: literalmente, “no han encontrado nada en mi mano.”]
+^5^ Samuel les dijo: “El Señor es testigo, y su ungido es testigo hoy, en este caso que les concierne, de que no soy culpable de nada.”^a^ 
+^a^[**12:5** “No soy culpable de nada”: literalmente, “no han encontrado nada en mi mano.”]
 
 “El Señor es testigo”, respondieron. 
 
-^6^ “El Señor es testigo,^^ el que designó a Moisés y a Aarón”, continuó Samuel. “Él sacó a sus antepasados de la tierra de Egipto. ^7^ Así pues, permanezcan aquí mientras les presento, en presencia del Señor, la prueba de todas las cosas buenas que el Señor ha hecho por ustedes y por sus antepasados. 
-^[**12:6** Tomado de la Septuaginta.]
+^6^ “El Señor es testigo,^a^ el que designó a Moisés y a Aarón”, continuó Samuel. “Él sacó a sus antepasados de la tierra de Egipto. ^7^ Así pues, permanezcan aquí mientras les presento, en presencia del Señor, la prueba de todas las cosas buenas que el Señor ha hecho por ustedes y por sus antepasados. 
+^a^[**12:6** Tomado de la Septuaginta.]
 
 ^8^ Después de que Jacob fue a Egipto, sus padres clamaron al Señor por ayuda, y él envió a Moisés y a Aarón para que ayudaran a sus antepasados a salir de Egipto y para establecerse aquí. ^9^ Pero se olvidaron del Señor, su Dios, y éste los abandonó en manos de Sísara, comandante del ejército de Hazor, de los filisteos y del rey de Moab, que los atacó. 
 
-^10^ Ellos clamaron al Señor por ayuda y dijeron: ‘Hemos pecado, pues hemos rechazado al Señor y hemos adorado a los baales y a Astoret. Por favor, sálvanos de las manos de nuestros enemigos, y te adoraremos’. ^11^ Entonces el Señor envió a Gedeón,^^ Barak,^^ Jefté y Samuel, y los salvó de los enemigos que los rodeaban para que pudieran vivir con seguridad. 
-^[**12:11** “Gedeón”: Llamado aquí “Jerub-Baal.”]
-^[**12:11** Tomado de la Septuaginta y version siríaca. El hebreo era “Bedán.”]
+^10^ Ellos clamaron al Señor por ayuda y dijeron: ‘Hemos pecado, pues hemos rechazado al Señor y hemos adorado a los baales y a Astoret. Por favor, sálvanos de las manos de nuestros enemigos, y te adoraremos’. ^11^ Entonces el Señor envió a Gedeón,^a^ Barak,^b^ Jefté y Samuel, y los salvó de los enemigos que los rodeaban para que pudieran vivir con seguridad. 
+^a^[**12:11** “Gedeón”: Llamado aquí “Jerub-Baal.”] ^b^[**12:11** Tomado de la Septuaginta y version siríaca. El hebreo era “Bedán.”]
 
 ^12^ Pero cuando vieron que Nahas, rey de los amonitas, venía a atacarlos, me dijeron: “No, queremos nuestro propio rey”, aunque el Señor, su Dios, era su rey. ^13^ Así que aquí está el rey que ustedes han elegido, el que pidieron. Miren: ¡el Señor se los entrega ahora como su rey! 
 
 ^14^ Si honran al Señor, lo adoran, hacen lo que les dice y no se rebelan contra las instrucciones del Señor, y si tanto ustedes como su rey siguen al Señor su Dios, ¡entonces todo estará bien! ^15^ Sin embargo, si se niegan a hacer su voluntad y se rebelan contra las instrucciones del Señor, entonces el Señor estará contra ustedes como lo estuvo contra sus antepasados. 
 
-^16^ Ahora quédense quietos y observen lo que el Señor va a hacer, ante sus propios ojos. ^17^ ¿No es el tiempo de la cosecha de trigo?^^ Pues bien, le pediré al Señor que envíe truenos y lluvia. Entonces se darán cuenta del mal que han hecho ante los ojos del Señor cuando exigieron su propio rey”. 
-^[**12:17** En esta época no solía producirse la lluvia.]
+^16^ Ahora quédense quietos y observen lo que el Señor va a hacer, ante sus propios ojos. ^17^ ¿No es el tiempo de la cosecha de trigo?^a^ Pues bien, le pediré al Señor que envíe truenos y lluvia. Entonces se darán cuenta del mal que han hecho ante los ojos del Señor cuando exigieron su propio rey”. 
+^a^[**12:17** En esta época no solía producirse la lluvia.]
 
 ^18^ Entonces Samuel oró al Señor, y ese mismo día el Señor envió truenos y lluvia. Todos estaban totalmente asombrados del Señor y de Samuel. 
 
@@ -358,13 +355,13 @@ Y todo el pueblo gritó: “¡Viva el rey!”.
 # 13 
 ^1^ Saúl tenía treinta años cuando llegó a ser rey, y reinó sobre Israel durante cuarenta y dos años. ^2^ Saúl había elegido a tres mil hombres de Israel. Dos mil de ellos estaban con Saúl en Micmas y en la región montañosa de Betel, y otros mil estaban con Jonatán en Guibeá de Benjamín. Y envió al resto del ejército a casa. 
 
-^3^ Tiempo después, Jonatán atacó la guarnición de los filisteos en Geba. Los filisteos no tardaron en enterarse, así que Saúl hizo sonar la trompeta de llamada a las armas por todo el país, diciendo: “Hebreos,^^ presten atención!” 
-^[**13:3** “Hebreos”: el término es el nombre dado por otros a los israelitas, y así utilizado aquí recuerda a los israelitas que son dominados por otras naciones. Algunos han sugerido incluso que el término se utilizaba para los israelitas que eran esclavos de los extranjeros.]
+^3^ Tiempo después, Jonatán atacó la guarnición de los filisteos en Geba. Los filisteos no tardaron en enterarse, así que Saúl hizo sonar la trompeta de llamada a las armas por todo el país, diciendo: “Hebreos,^a^ presten atención!” 
+^a^[**13:3** “Hebreos”: el término es el nombre dado por otros a los israelitas, y así utilizado aquí recuerda a los israelitas que son dominados por otras naciones. Algunos han sugerido incluso que el término se utilizaba para los israelitas que eran esclavos de los extranjeros.]
 
 ^4^ Entonces todo Israel escuchó la noticia: “¡Saúl ha atacado la guarnición filistea, y ahora los filisteos odian a Israel!” Así que todo el ejército fue convocado para unirse a Saúl en Gilgal. 
 
-^5^ Los filisteos se reunieron para pelear contra Israel. Tenían tres mil^^ carros, seis mil jinetes y soldados tan numerosos como la arena en la orilla del mar. Avanzaron y acamparon en Micmas, al este de Bet-aven. 
-^[**13:5** El texto hebreo dice “30.000”, lo que parece excesivo. La versión luciana de la Septuaginta y la versión siríaca dicen 3.000.]
+^5^ Los filisteos se reunieron para pelear contra Israel. Tenían tres mil^a^ carros, seis mil jinetes y soldados tan numerosos como la arena en la orilla del mar. Avanzaron y acamparon en Micmas, al este de Bet-aven. 
+^a^[**13:5** El texto hebreo dice “30.000”, lo que parece excesivo. La versión luciana de la Septuaginta y la versión siríaca dicen 3.000.]
 
 ^6^ Cuando los hombres israelitas se dieron cuenta de la difícil situación en la que se encontraban y de que el ejército estaba recibiendo una paliza, se escondieron en cuevas, agujeros, rocas, pozos y cisternas. ^7^ Algunos de los hebreos incluso cruzaron el Jordán hacia el territorio de Gad y Galaad, pero Saúl se quedó en Gilgal, y todos los hombres que estaban con él temblaban de miedo. ^8^ Saúl esperó allí siete días el tiempo que Samuel había dicho, pero Samuel no llegó a Gilgal, y el ejército comenzó a abandonarlo. 
 
@@ -378,61 +375,60 @@ Saúl respondió: “Bueno, vi que mis hombres me abandonaban, y que tú no hab�
 
 ^13^ “Has sido muy estúpido”, le dijo Samuel. “No has cumplido los mandatos del Señor, tu Dios. Si lo hubieras hecho, el Señor habría asegurado tu reino sobre Israel para siempre. ^14^ Pero ahora tu reino no durará. El Señor ha encontrado para sí un hombre que piensa como él, y lo ha elegido para que sea el gobernante de su pueblo, porque tú no has cumplido los mandatos del Señor.” 
 
-^15^ Entonces Samuel se fue de Gilgal. El resto de los soldados siguió a Saúl para reunirse con el ejército, yendo de Gilgal a Geba, en Benjamín.^^ Saúl contó el número de soldados que estaban con él y eran unos seiscientos. ^16^ Saúl, su hijo Jonatán y los soldados que estaban con ellos se alojaban en Geba de Benjamín, mientras los filisteos estaban acampados en Micmas. ^17^ Tres grupos de asaltantes salieron del campamento filisteo para ir a atacar. Un grupo se dirigió hacia Ofra en la tierra de Shual, ^18^ otro hacia Bet-horón, y otro hacia la frontera que da al Valle de Seboim por el desierto. 
-^[**13:15** En el texto hebreo falta una parte de este versículo, probablemente debido a un error de los copistas. Aquí se sigue la Septuaginta.]
+^15^ Entonces Samuel se fue de Gilgal. El resto de los soldados siguió a Saúl para reunirse con el ejército, yendo de Gilgal a Geba, en Benjamín.^a^ Saúl contó el número de soldados que estaban con él y eran unos seiscientos. ^16^ Saúl, su hijo Jonatán y los soldados que estaban con ellos se alojaban en Geba de Benjamín, mientras los filisteos estaban acampados en Micmas. ^17^ Tres grupos de asaltantes salieron del campamento filisteo para ir a atacar. Un grupo se dirigió hacia Ofra en la tierra de Shual, ^18^ otro hacia Bet-horón, y otro hacia la frontera que da al Valle de Seboim por el desierto. 
+^a^[**13:15** En el texto hebreo falta una parte de este versículo, probablemente debido a un error de los copistas. Aquí se sigue la Septuaginta.]
 
-^19^ En esos días no había un herrero en ninguna parte de Israel. Los filisteos lo impedían para que los hebreos no hicieran espadas y lanzas. ^20^ Todos los israelitas tenían que acudir a los filisteos para afilar sus rejas de hierro, picos, hachas y hoces. ^21^ La tarifa era de dos tercios de siclo^^ por rejas de arado y picos, y un tercio de siclo para afilar las hachas y las picas de ganado. 
-^[**13:21** “Dos tercios de siclo”: literalmente “un pim.”]
+^19^ En esos días no había un herrero en ninguna parte de Israel. Los filisteos lo impedían para que los hebreos no hicieran espadas y lanzas. ^20^ Todos los israelitas tenían que acudir a los filisteos para afilar sus rejas de hierro, picos, hachas y hoces. ^21^ La tarifa era de dos tercios de siclo^a^ por rejas de arado y picos, y un tercio de siclo para afilar las hachas y las picas de ganado. 
+^a^[**13:21** “Dos tercios de siclo”: literalmente “un pim.”]
 
 ^22^ Así que cuando llegó el día de la batalla ninguno de los soldados que acompañaban a Saúl y a Jonatán tenía espadas ni lanzas; sólo Saúl y su hijo Jonatán tenían esas armas. 
 
-^23^ Una guarnición filistea había tomado el control del paso de Micmas.^^
-^[**13:23** Este versículo es mejor tomarlo como parte del siguiente capítulo.] 
+^23^ Una guarnición filistea había tomado el control del paso de Micmas.^a^
+^a^[**13:23** Este versículo es mejor tomarlo como parte del siguiente capítulo.] 
 
 # 14 
-^1^ Un día Jonatán, hijo de Saúl, le dijo al joven escudero: “Vamos, crucemos a la guarnición filistea del otro lado”. Pero no le hizo saber a su padre acerca de sus planes. ^2^ Saúl se encontraba cerca de Guibeá, bajo un granado^^ en Migrón. Tenía unos seiscientos hombres con él, ^3^ incluyendo a Ahija, que llevaba un efod.^^ Era hijo del hermano de Icabod, Ahitob, hijo de Finees, hijo de Elí, sacerdote del Señor en Silo. Nadie se dio cuenta de que Jonatán se había ido. ^4^ A ambos lados del paso que Jonatán planeaba cruzar para llegar a la guarnición filistea se erigían dos acantilados, uno llamado Boses y el otro Sene. ^5^ El acantilado del norte estaba en el lado de Michmash, el del sur en el lado de Geba. 
-^[**14:2** “Un granado” (árbol): o “la roca de Rimón.”]
-^[**14:3** “Efod”: Un accesorio sacerdotal.]
+^1^ Un día Jonatán, hijo de Saúl, le dijo al joven escudero: “Vamos, crucemos a la guarnición filistea del otro lado”. Pero no le hizo saber a su padre acerca de sus planes. ^2^ Saúl se encontraba cerca de Guibeá, bajo un granado^a^ en Migrón. Tenía unos seiscientos hombres con él, ^3^ incluyendo a Ahija, que llevaba un efod.^b^ Era hijo del hermano de Icabod, Ahitob, hijo de Finees, hijo de Elí, sacerdote del Señor en Silo. Nadie se dio cuenta de que Jonatán se había ido. ^4^ A ambos lados del paso que Jonatán planeaba cruzar para llegar a la guarnición filistea se erigían dos acantilados, uno llamado Boses y el otro Sene. ^5^ El acantilado del norte estaba en el lado de Michmash, el del sur en el lado de Geba. 
+^a^[**14:2** “Un granado” \[árbol\]: o “la roca de Rimón.”] ^b^[**14:3** “Efod”: Un accesorio sacerdotal.]
 
-^6^ Jonatán le dijo al joven que llevaba la armadura: “Vamos, crucemos a la guarnición de estos hombres paganos^^. Tal vez el Señor nos ayude. Al Señor no le cuesta ganar, sea por muchos o por pocos”. 
-^[**14:6** “Paganos”: literalmente, “incircuncisos.”]
+^6^ Jonatán le dijo al joven que llevaba la armadura: “Vamos, crucemos a la guarnición de estos hombres paganos^a^ . Tal vez el Señor nos ayude. Al Señor no le cuesta ganar, sea por muchos o por pocos”. 
+^a^[**14:6** “Paganos”: literalmente, “incircuncisos.”]
 
 ^7^ “Tú decides qué hacer”, respondió el escudero. “¡Estoy contigo sin importar lo que decidas!” 
 
 ^8^ “¡Vamos entonces!” dijo Jonathan. “Cruzaremos en su dirección para que nos vean. ^9^ Si nos dicen: ‘Esperen allí hasta que bajemos a ustedes’, esperaremos donde estamos y no subiremos a ellos. ^10^ Pero si nos dicen: “Suban hacia nosotros”, subiremos, porque eso será la señal de que el Señor nos los ha entregado”. 
 
-^11^ Así que ambos se dejaron ver por la guarnición filistea. “¡Mira!”, gritaron los filisteos. “Los hebreos están saliendo de los huecos^^ donde se escondían.” 
-^[**14:11** “Huecos”: la palabra se utiliza a menudo para describir las madrigueras donde viven los animales.]
+^11^ Así que ambos se dejaron ver por la guarnición filistea. “¡Mira!”, gritaron los filisteos. “Los hebreos están saliendo de los huecos^a^ donde se escondían.” 
+^a^[**14:11** “Huecos”: la palabra se utiliza a menudo para describir las madrigueras donde viven los animales.]
 
 ^12^ Los hombres de la guarnición llamaron a Jonatán y a su escudero: “¡Suban aquí y les mostraremos un par de cosas!”. 
 
 “Sígueme arriba”, dijo Jonatán a su escudero, “porque el Señor los ha entregado a Israel”. 
 
-^13^ Así que Jonatán subió de manos y pies, con su escudero que iba justo detrás de él. Jonatán los atacó y los mató,^^ y su escudero le siguió haciendo lo mismo. ^14^ En este primer ataque, Jonatán y su escudero mataron a unos veinte hombres en un área de media hectárea. ^15^ Entonces los filisteos entraron en pánico, en el campamento, en el campo y en todo su ejército. Incluso los que estaban en los puestos de avanzada y los grupos de asaltantes se aterrorizaron. La tierra se estremeció. Era terror proveniente de Dios. 
-^[**14:13** “Jonatán los atacó y los mató”: literalmente, “cayeron ante Jonatán.”]
+^13^ Así que Jonatán subió de manos y pies, con su escudero que iba justo detrás de él. Jonatán los atacó y los mató,^a^ y su escudero le siguió haciendo lo mismo. ^14^ En este primer ataque, Jonatán y su escudero mataron a unos veinte hombres en un área de media hectárea. ^15^ Entonces los filisteos entraron en pánico, en el campamento, en el campo y en todo su ejército. Incluso los que estaban en los puestos de avanzada y los grupos de asaltantes se aterrorizaron. La tierra se estremeció. Era terror proveniente de Dios. 
+^a^[**14:13** “Jonatán los atacó y los mató”: literalmente, “cayeron ante Jonatán.”]
 
 ^16^ Los vigías de Saúl en Guibeá, en Benjamín, vieron cómo el ejército filisteo se desvanecía y se dispersaba en todas direcciones. ^17^ Saúl les dijo a los soldados que estaban con él: “Pasen lista y averigüen quiénes no están con nosotros”. Cuando pasaron lista, descubrieron que Jonatán y su escudero no estaban allí. 
 
 ^18^ Saúl le dijo a Ajías: “Trae el Arca de Dios aquí”. (En esa época el Arca de Dios viajaba con los israelitas). 
 
-^19^ Pero mientras Saúl hablaba con el sacerdote, el alboroto que venía del campamento filisteo era cada vez más fuerte. Así que Saúl le dijo al sacerdote: “¡Olvídalo!”^^ 
-^[**14:19** “¡Olvídalo!”: literalmente, “Quita tu mano”. El sacerdote estaba a punto de intentar determinar la voluntad del Señor con respecto a un ataque contra los filisteos, tal vez consultando el Urim y el Tumin en el efod o mediante el uso del Arca de Dios de alguna manera. Cualquiera que sea el caso, Saúl revocó su orden anterior de guía divina diciéndole al sacerdote que detuviera lo que estaba a punto de hacer.]
+^19^ Pero mientras Saúl hablaba con el sacerdote, el alboroto que venía del campamento filisteo era cada vez más fuerte. Así que Saúl le dijo al sacerdote: “¡Olvídalo!”^a^ 
+^a^[**14:19** “¡Olvídalo!”: literalmente, “Quita tu mano”. El sacerdote estaba a punto de intentar determinar la voluntad del Señor con respecto a un ataque contra los filisteos, tal vez consultando el Urim y el Tumin en el efod o mediante el uso del Arca de Dios de alguna manera. Cualquiera que sea el caso, Saúl revocó su orden anterior de guía divina diciéndole al sacerdote que detuviera lo que estaba a punto de hacer.]
 
-^20^ Entonces Saúl y todo su ejército se reunieron y entraron en batalla. Descubrieron que los filisteos estaban en total desorden, atacándose unos a otros con las espadas. ^21^ Los hebreos que antes se habían puesto del lado de los filisteos, y que estaban con ellos en su campamento, cambiaron de bando y se unieron a los israelitas que estaban con Saúl y Jonatán. ^22^ Cuando todos los israelitas que se habían escondido en la región montañosa de Efraín se enteraron de que los filisteos estaban huyendo, también se unieron para perseguir a los filisteos y atacarlos. ^23^ Ese día el Señor salvó a Israel, y la batalla se extendió más allá de Bet-aven.^^ 
-^[**14:23** La Septuaginta añade lo siguiente en este punto: “y el ejército que acompañaba a Saúl contaba con unos diez mil hombres”. La batalla se extendió por la región montañosa de Efraín.”]
+^20^ Entonces Saúl y todo su ejército se reunieron y entraron en batalla. Descubrieron que los filisteos estaban en total desorden, atacándose unos a otros con las espadas. ^21^ Los hebreos que antes se habían puesto del lado de los filisteos, y que estaban con ellos en su campamento, cambiaron de bando y se unieron a los israelitas que estaban con Saúl y Jonatán. ^22^ Cuando todos los israelitas que se habían escondido en la región montañosa de Efraín se enteraron de que los filisteos estaban huyendo, también se unieron para perseguir a los filisteos y atacarlos. ^23^ Ese día el Señor salvó a Israel, y la batalla se extendió más allá de Bet-aven.^a^ 
+^a^[**14:23** La Septuaginta añade lo siguiente en este punto: “y el ejército que acompañaba a Saúl contaba con unos diez mil hombres”. La batalla se extendió por la región montañosa de Efraín.”]
 
-^24^ Aquel día fue difícil para los hombres de Israel porque Saúl había ordenado al ejército hacer un juramento, diciendo: “Maldito el que coma algo antes de la noche, antes de que me haya vengado de mis enemigos”. Así que nadie del ejército había comido nada. ^25^ Cuando todos entraron en el bosque, encontraron panales de miel en el suelo. ^26^ Mientras estaban en el bosque, vieron que la miel se acababa, pero nadie la recogió para comerla porque todos tenían miedo del juramento que habían hecho. ^27^ Pero Jonatán no se había enterado de que su padre había ordenado al ejército hacer ese juramento. Así que metió la punta de su bastón en el panal, cogió un trozo para comer y se sintió mucho mejor.^^ ^28^ Pero uno de los soldados le dijo: “Tu padre hizo que el ejército hiciera un juramento solemne, diciendo: “¡Maldito el que coma algo hoy! Por eso los hombres están agotados”. 
-^[**14:27** “Se sintió mucho mejor”: literalmente, “sus ojos brillaron.” Igual que en el versículo 29.]
+^24^ Aquel día fue difícil para los hombres de Israel porque Saúl había ordenado al ejército hacer un juramento, diciendo: “Maldito el que coma algo antes de la noche, antes de que me haya vengado de mis enemigos”. Así que nadie del ejército había comido nada. ^25^ Cuando todos entraron en el bosque, encontraron panales de miel en el suelo. ^26^ Mientras estaban en el bosque, vieron que la miel se acababa, pero nadie la recogió para comerla porque todos tenían miedo del juramento que habían hecho. ^27^ Pero Jonatán no se había enterado de que su padre había ordenado al ejército hacer ese juramento. Así que metió la punta de su bastón en el panal, cogió un trozo para comer y se sintió mucho mejor.^a^ ^28^ Pero uno de los soldados le dijo: “Tu padre hizo que el ejército hiciera un juramento solemne, diciendo: “¡Maldito el que coma algo hoy! Por eso los hombres están agotados”. 
+^a^[**14:27** “Se sintió mucho mejor”: literalmente, “sus ojos brillaron.” Igual que en el versículo 29.]
 
-^29^ “Mi padre nos ha causado un montón de problemas a todos,”^^ respondió Jonatán. “Mira qué bien estoy porque he comido un poco de esta miel. ^30^ ¡Habría sido mucho mejor si el ejército hubiera comido hoy en abundancia del botín tomado a sus enemigos! ¿Cuántos filisteos más habrían matado?” 
-^[**14:29** “A todos”: literalmente, “la tierra.”]
+^29^ “Mi padre nos ha causado un montón de problemas a todos,”^a^ respondió Jonatán. “Mira qué bien estoy porque he comido un poco de esta miel. ^30^ ¡Habría sido mucho mejor si el ejército hubiera comido hoy en abundancia del botín tomado a sus enemigos! ¿Cuántos filisteos más habrían matado?” 
+^a^[**14:29** “A todos”: literalmente, “la tierra.”]
 
 ^31^ Después de derrotar a los filisteos ese día, matándolos desde Micmas hasta Ajalón, los israelitas estaban totalmente agotados. ^32^ Se apoderaron del botín, tomando ovejas, vacas y terneros, y los sacrificaron allí mismo en el suelo. Pero se los comieron con la sangre. 
 
 ^33^ Entonces le dijeron a Saúl: “Mira, los hombres están pecando contra el Señor al comer carne con la sangre”. 
 
-“¡Infractores de la ley!”, les dijo Saúl. “¡Tira una piedra grande aquí ahora mismo!” ^34^ Luego les dijo: “Recorran todo el lugar donde están los soldados y díganles: “Cada uno debe traerme su ganado o sus ovejas y sacrificarlos aquí, y luego comer. No pequen contra el Señor comiendo carne con sangre'“. Cada uno del ejército trajo lo que tenía^^ y lo sacrificó allí aquella noche. ^35^ Entonces Saúl construyó un altar al Señor. Este fue el primer altar que construyó al Señor. 
-^[**14:34** “Lo que tenía”: Tomado de la Septuaginta.]
+“¡Infractores de la ley!”, les dijo Saúl. “¡Tira una piedra grande aquí ahora mismo!” ^34^ Luego les dijo: “Recorran todo el lugar donde están los soldados y díganles: “Cada uno debe traerme su ganado o sus ovejas y sacrificarlos aquí, y luego comer. No pequen contra el Señor comiendo carne con sangre'“. Cada uno del ejército trajo lo que tenía^a^ y lo sacrificó allí aquella noche. ^35^ Entonces Saúl construyó un altar al Señor. Este fue el primer altar que construyó al Señor. 
+^a^[**14:34** “Lo que tenía”: Tomado de la Septuaginta.]
 
 ^36^ Saúl dijo: “Vamos a perseguir a los filisteos durante la noche y a saquearlos hasta el amanecer, sin dejar sobrevivientes”. 
 
@@ -446,8 +442,8 @@ Saúl respondió: “Bueno, vi que mis hombres me abandonaban, y que tú no hab�
 
 “Hagan lo que les parezca mejor”, respondió el ejército. 
 
-^41^ Saúl oró al Señor, el Dios de Israel: “Que el Tumím nos muestre.”^^ Jonatán y Saúl fueron identificados, mientras que todos los demás fueron absueltos. 
-^[**14:41** En otras palabras, que el Tumin muestre quién es el culpable.]
+^41^ Saúl oró al Señor, el Dios de Israel: “Que el Tumím nos muestre.”^a^ Jonatán y Saúl fueron identificados, mientras que todos los demás fueron absueltos. 
+^a^[**14:41** En otras palabras, que el Tumin muestre quién es el culpable.]
 
 ^42^ Entonces Saúl dijo: “Echen suertes entre mi hijo Jonatán y yo”. Jonatán fue seleccionado. 
 
@@ -463,16 +459,16 @@ Saúl respondió: “Bueno, vi que mis hombres me abandonaban, y que tú no hab�
 
 ^47^ Después de que Saúl aseguró su dominio sobre Israel, luchó contra todos sus enemigos de alrededor: Moabitas, amonitas, edomitas, los reyes de Soba y los filisteos. En cualquier dirección que tomara, los derrotaba a todos. ^48^ Luchó con valentía, conquistando a los amalecitas y salvando a Israel de los que los saqueaban. 
 
-^49^ Los hijos de Saúl fueron Jonatán, Isvi,^^ y Malquisúa. Los nombres de sus dos hijas eran Merab, (la primogénita), y Mical, (la menor). ^50^ El nombre de su esposa era Ahinoam, hija de Ahimaas. El nombre del comandante del ejército de Saúl era Abner, hijo de Ner, y Ner era tío de Saúl. ^51^ Cis, padre de Saúl, y Ner, padre de Abner, eran hijos de Abiel. 
-^[**14:49** Llamado tambiénIsboset.]
+^49^ Los hijos de Saúl fueron Jonatán, Isvi,^a^ y Malquisúa. Los nombres de sus dos hijas eran Merab, (la primogénita), y Mical, (la menor). ^50^ El nombre de su esposa era Ahinoam, hija de Ahimaas. El nombre del comandante del ejército de Saúl era Abner, hijo de Ner, y Ner era tío de Saúl. ^51^ Cis, padre de Saúl, y Ner, padre de Abner, eran hijos de Abiel. 
+^a^[**14:49** Llamado tambiénIsboset.]
 
 ^52^ Durante toda su vida Saúl estuvo en guerra constante con los filisteos. Saúl reclutó para su ejército a todo guerrero fuerte y a todo luchador valiente que encontró. 
 
 # 15 
 ^1^ Entonces Samuel le dijo a Saúl: “El Señor me ha enviado para ungirte como rey de su pueblo Israel. Así que presta atención a lo que el Señor dice. ^2^ Y esto es lo que dice el Señor Todopoderoso: He observado lo que los amalecitas le hicieron a Israel cuando los emboscaron en su camino desde Egipto. ^3^ Ve y ataca a los amalecitas y extermínalos a todos. No perdones a nadie, sino que mata a todo hombre, mujer, niño y bebé; a todo buey, oveja, camello y asno”. 
 
-^4^ Saúl convocó a su ejército en Telem.^^ Había 200.000 infantes israelitas y 10.000 hombres de Judá. ^5^ Saúl avanzó hacia el pueblo de Amalec y preparó una emboscada en el valle. ^6^ Saúl envió un mensaje para advertirles a los ceneos: “Salgan de la zona y dejen a los amalecitas para que no los destruya a ustedes con ellos, porque ustedes mostraron bondad con todo el pueblo de Israel en su camino desde Egipto.” Así que los ceneos se alejaron y dejaron abandonaron a los amalecitas. 
-^[**15:4** Aquí se escribe Telaim, pero se cree que es la misma ciudad llamada Telem en Josué 15:24.]
+^4^ Saúl convocó a su ejército en Telem.^a^ Había 200.000 infantes israelitas y 10.000 hombres de Judá. ^5^ Saúl avanzó hacia el pueblo de Amalec y preparó una emboscada en el valle. ^6^ Saúl envió un mensaje para advertirles a los ceneos: “Salgan de la zona y dejen a los amalecitas para que no los destruya a ustedes con ellos, porque ustedes mostraron bondad con todo el pueblo de Israel en su camino desde Egipto.” Así que los ceneos se alejaron y dejaron abandonaron a los amalecitas. 
+^a^[**15:4** Aquí se escribe Telaim, pero se cree que es la misma ciudad llamada Telem en Josué 15:24.]
 
 ^7^ Saúl derrotó a los amalecitas desde Havila hasta Shur, al oriente de Egipto. ^8^ Capturó vivo a Agag, rey de Amalec, pero exterminó a todo el pueblo a espada. ^9^ Saúl y su ejército perdonaron a Agag, junto con las mejores ovejas y ganado, los terneros y corderos gordos, y todo lo que era bueno. No quisieron destruir eso, sino que destruyeron por completo todo lo despreciable y que no tenía valor. 
 
@@ -513,8 +509,8 @@ Saúl respondió: “Bueno, vi que mis hombres me abandonaban, y que tú no hab�
 ^34^ Samuel se fue a Ramá, y Saúl se fue a su casa en Guibeá de Saúl. ^35^ Hasta el día de su muerte, Samuel no volvió a visitar a Saúl. Samuel se lamentó por Saúl, y el Señor se arrepintió de haber hecho a Saúl rey de Israel. 
 
 # 16 
-^1^ El Señor un día le preguntó a Samuel: “¿Hasta cuándo vas a seguir llorando a Saúl porque lo he rechazado como rey de Israel? Llena tu frasco^^ con aceite de oliva y vete. Ve donde Isaí de Belén, porque he elegido un rey para mí de entre sus hijos”. 
-^[**16:1** “Frasco”: literalmente, “cuerno.”]
+^1^ El Señor un día le preguntó a Samuel: “¿Hasta cuándo vas a seguir llorando a Saúl porque lo he rechazado como rey de Israel? Llena tu frasco^a^ con aceite de oliva y vete. Ve donde Isaí de Belén, porque he elegido un rey para mí de entre sus hijos”. 
+^a^[**16:1** “Frasco”: literalmente, “cuerno.”]
 
 ^2^ “¿Cómo puedo ir a hacer eso?” preguntó Samuel. “¡Saúl se enterará y me matará!”. 
 
@@ -538,15 +534,15 @@ El Señor respondió: “Lleva contigo una novilla y di: ‘He venido a sacrific
 
 “Bueno, aún queda el más joven”, respondió Isaí, “pero está fuera cuidando las ovejas”. 
 
-“Manda a buscarlo y tráelo aquí, porque no nos vamos a sentar a comer^^ hasta que llegue aquí”, le dijo Samuel a Isaí. 
-^[**16:11** “sentar a comer”: literalmente, “rodear.” Normalmente se piensa que significa rodear una mesa antes de sentarse, pero también podría significar “rodear” un altar, es decir, el comienzo de los rituales de sacrificio.]
+“Manda a buscarlo y tráelo aquí, porque no nos vamos a sentar a comer^a^ hasta que llegue aquí”, le dijo Samuel a Isaí. 
+^a^[**16:11** “sentar a comer”: literalmente, “rodear.” Normalmente se piensa que significa rodear una mesa antes de sentarse, pero también podría significar “rodear” un altar, es decir, el comienzo de los rituales de sacrificio.]
 
 ^12^ Así que Isaí mandó a buscarlo y lo trajo delante de Samuel. Tenía una tez roja y unos ojos hermosos, y tenía buen parecer. El Señor dijo: “Ve a ungirlo, porque es él”. 
 
 ^13^ Samuel tomó el frasco de aceite de oliva y lo ungió en presencia de sus hermanos, y el Espíritu del Señor vino sobre David con poder desde aquel día. Luego Samuel se fue y regresó a Ramá. 
 
-^14^ El Espíritu del Señor había abandonado a Saúl, y un espíritu maligno del Señor lo atormentaba.^^ ^15^ Los siervos de Saúl le dijeron: “Sin duda es un espíritu maligno de Dios el que te atormenta. ^16^ Danos aquí la orden de encontrar a alguien que sea bueno tocando el arpa, para que cuando el espíritu maligno de Dios venga sobre ti, pueda tocar y te sientas mucho mejor.” 
-^[**16:14** Como en otras partes de la Escritura, a veces se presenta a Dios como si hiciera algo que en realidad no impide. La eliminación del Espíritu del Señor dejó a Saúl abierto al control de otro espíritu. La forma en que los siervos reaccionan muestra que esta era una visión común de la época: se responsabiliza a Dios de los problemas de Saúl.]
+^14^ El Espíritu del Señor había abandonado a Saúl, y un espíritu maligno del Señor lo atormentaba.^a^ ^15^ Los siervos de Saúl le dijeron: “Sin duda es un espíritu maligno de Dios el que te atormenta. ^16^ Danos aquí la orden de encontrar a alguien que sea bueno tocando el arpa, para que cuando el espíritu maligno de Dios venga sobre ti, pueda tocar y te sientas mucho mejor.” 
+^a^[**16:14** Como en otras partes de la Escritura, a veces se presenta a Dios como si hiciera algo que en realidad no impide. La eliminación del Espíritu del Señor dejó a Saúl abierto al control de otro espíritu. La forma en que los siervos reaccionan muestra que esta era una visión común de la época: se responsabiliza a Dios de los problemas de Saúl.]
 
 ^17^ Saúl dio la orden a sus siervos: “Busquen a alguien que sea bueno tocando el arpa y tráiganlo aquí”. 
 
@@ -563,11 +559,8 @@ El Señor respondió: “Lleva contigo una novilla y di: ‘He venido a sacrific
 # 17 
 ^1^ Los ejércitos filisteos se reunieron para la batalla en Soco, en Judá. Acamparon en Efes-damim, entre Socoh y Azeca. ^2^ Saúl y los israelitas se reunieron y acamparon en el Valle de Ela y tomaron sus posiciones para comenzar la batalla contra los filisteos. ^3^ Los filisteos estaban en una colina y los israelitas en otra, con el valle entre ellos. 
 
-^4^ Entonces salió del campamento filisteo un campeón^^. Se llamaba Goliat, de Gat, y medía seis codos y un palmo.^^ ^5^ Tenía en la cabeza un casco de bronce y llevaba una cota de malla de bronce que pesaba cinco mil siclos. ^6^ En las piernas llevaba una armadura de bronce y una jabalina^^ colgada entre sus hombros. ^7^ El asta de su lanza era tan gruesa como una viga de tejedor, con una punta de hierro que pesaba seiscientos siclos. Su escudero caminaba delante de él llevando su escudo.^^ 
-^[**17:4** “Campeón”: literalmente “un hombre del espacio intermedio”. Suele entenderse como un campeón que luchará contra otro en una especie de batalla por delegación, pero su significado preciso es incierto, ya que sólo aparece aquí y en el versículo 23 en todo el Antiguo Testamento.]
-^[**17:4** “Seis codos y un palmo de altura”. Esto equivale a unos nueve pies y medio. La Septuaginta y un manuscrito de Qumrán tienen cuatro codos y un palmo, lo que equivale a seis pies y medio.]
-^[**17:6** “Jabalina”: algunos creen que se trata más bien de una espada curva o una cimitarra, y ciertamente se hace referencia a una espada en el versículo 51.]
-^[**17:7** “Llevando su escudo”: añadido para mayor claridad.]
+^4^ Entonces salió del campamento filisteo un campeón^a^ . Se llamaba Goliat, de Gat, y medía seis codos y un palmo.^b^ ^5^ Tenía en la cabeza un casco de bronce y llevaba una cota de malla de bronce que pesaba cinco mil siclos. ^6^ En las piernas llevaba una armadura de bronce y una jabalina^c^ colgada entre sus hombros. ^7^ El asta de su lanza era tan gruesa como una viga de tejedor, con una punta de hierro que pesaba seiscientos siclos. Su escudero caminaba delante de él llevando su escudo.^d^ 
+^a^[**17:4** “Campeón”: literalmente “un hombre del espacio intermedio”. Suele entenderse como un campeón que luchará contra otro en una especie de batalla por delegación, pero su significado preciso es incierto, ya que sólo aparece aquí y en el versículo 23 en todo el Antiguo Testamento.] ^b^[**17:4** “Seis codos y un palmo de altura”. Esto equivale a unos nueve pies y medio. La Septuaginta y un manuscrito de Qumrán tienen cuatro codos y un palmo, lo que equivale a seis pies y medio.] ^c^[**17:6** “Jabalina”: algunos creen que se trata más bien de una espada curva o una cimitarra, y ciertamente se hace referencia a una espada en el versículo 51.] ^d^[**17:7** “Llevando su escudo”: añadido para mayor claridad.]
 
 ^8^ Goliat se puso de pie y gritó a las filas de soldados israelitas: “¿Por qué han venido y se han puesto en fila para la batalla? Yo soy el filisteo, y ustedes son los siervos de Saúl. Elijan a uno de sus hombres y hagan que descienda a pelear conmigo. ^9^ Si él puede pelear conmigo y logra matarme, entonces los filisteos seremos sus esclavos. Pero si lo venzo y lo mato, entonces ustedes serán nuestros esclavos y trabajarán para nosotros”. 
 
@@ -585,8 +578,8 @@ El Señor respondió: “Lleva contigo una novilla y di: ‘He venido a sacrific
 
 ^24^ Todos los soldados israelitas huyeron al verlo, porque tenían un miedo terrible. ^25^ “¿Han visto a ese hombre que no deja de salir para burlarse de Israel?”, preguntaron. “El rey hará muy rico al hombre que lo mate. También le dará a su hija en matrimonio, y su familia vivirá libre de impuestos en Israel”. 
 
-^26^ Entonces David les preguntó a los hombres que estaban a su lado: “¿Qué recibirá el hombre que mate a este filisteo y elimine esta vergüenza de Israel? ¿Quién se cree que es este Filisteo pagano^^ para burlarse del Dios vivo de los ejércitos?”. 
-^[**17:26** “Pagano”: literalmente, “incircunciso.” Del mismo modo ocurre en el versículo 36.]
+^26^ Entonces David les preguntó a los hombres que estaban a su lado: “¿Qué recibirá el hombre que mate a este filisteo y elimine esta vergüenza de Israel? ¿Quién se cree que es este Filisteo pagano^a^ para burlarse del Dios vivo de los ejércitos?”. 
+^a^[**17:26** “Pagano”: literalmente, “incircunciso.” Del mismo modo ocurre en el versículo 36.]
 
 ^27^ Los soldados repitieron lo que habían dicho, diciéndole: “Esto es lo que recibirá el que lo mate”. 
 
@@ -635,8 +628,8 @@ El Señor respondió: “Lleva contigo una novilla y di: ‘He venido a sacrific
 “Soy hijo de tu siervo Isaí de Belén”, respondió David. 
 
 # 18 
-^1^ Después de que David terminó de hablar con Saúl, Jonatán se hizo gran amigo de David. Amaba a David como a sí mismo. ^2^ Desde entonces, Jonatán hizo que David trabajara para él y no lo dejó volver a su casa. ^3^ Jonatán hizo un acuerdo solemne con David porque lo amaba como a sí mismo. ^4^ Jonatán se quitó la túnica que llevaba puesta y se la dio a David, junto con su túnica, su espada, su arco y su cinturón.^^ 
-^[**18:4** Estas acciones fueron una forma de confirmar el acuerdo.]
+^1^ Después de que David terminó de hablar con Saúl, Jonatán se hizo gran amigo de David. Amaba a David como a sí mismo. ^2^ Desde entonces, Jonatán hizo que David trabajara para él y no lo dejó volver a su casa. ^3^ Jonatán hizo un acuerdo solemne con David porque lo amaba como a sí mismo. ^4^ Jonatán se quitó la túnica que llevaba puesta y se la dio a David, junto con su túnica, su espada, su arco y su cinturón.^a^ 
+^a^[**18:4** Estas acciones fueron una forma de confirmar el acuerdo.]
 
 ^5^ David tenían éxito al hacer todo lo que Saúl le pedía, así que Saúl lo nombró oficial del ejército. Esto complació a todos, incluso a los demás oficiales de Saúl. 
 
@@ -644,8 +637,8 @@ El Señor respondió: “Lleva contigo una novilla y di: ‘He venido a sacrific
 
 ^8^ Lo que cantaban enojó mucho a Saúl, pues no le pareció bien. Se dijo a sí mismo: “A David le han dado el crédito de haber matado a decenas de miles, pero a mí sólo a miles. Lo único que falta es darle el reino”. ^9^ Desde entonces Saúl miró a David con recelo. 
 
-^10^ Al día siguiente, un espíritu maligno de Dios se apoderó de Saúl con fuerza, y despotricó^^ dentro de la casa mientras David tocaba el arpa como lo hacía habitualmente. Resulta que Saúl tenía una lanza en la mano, ^11^ y se la lanzó a David, mientras pensaba: “Clavaré a David en la pared”. Pero David logró escapar de él dos veces. 
-^[**18:10** “Despotricó”: la palabra se traduce normalmente como “profetizar” (véase, por ejemplo, 10:10 cuando se aplica a Saúl), pero la función principal de un verdadero profeta de Dios era entregar mensajes de Dios. Que la fuente fuera “un espíritu maligno” no encaja en tal imagen, incluso si el espíritu maligno “viniera de Dios.”]
+^10^ Al día siguiente, un espíritu maligno de Dios se apoderó de Saúl con fuerza, y despotricó^a^ dentro de la casa mientras David tocaba el arpa como lo hacía habitualmente. Resulta que Saúl tenía una lanza en la mano, ^11^ y se la lanzó a David, mientras pensaba: “Clavaré a David en la pared”. Pero David logró escapar de él dos veces. 
+^a^[**18:10** “Despotricó”: la palabra se traduce normalmente como “profetizar” (véase, por ejemplo, 10:10 cuando se aplica a Saúl), pero la función principal de un verdadero profeta de Dios era entregar mensajes de Dios. Que la fuente fuera “un espíritu maligno” no encaja en tal imagen, incluso si el espíritu maligno “viniera de Dios.”]
 
 ^12^ Saúl tenía miedo de David, porque el Señor estaba con él, pero se había rendido ante Saúl. ^13^ Así que Saúl despidió a David y lo nombró comandante de mil soldados, dirigiéndolos de ida y vuelta como parte del ejército. 
 
@@ -653,8 +646,8 @@ El Señor respondió: “Lleva contigo una novilla y di: ‘He venido a sacrific
 
 ^17^ Un día Saúl le dijo a David: “Aquí está mi hija mayor, Merab. Te la daré en matrimonio, pero sólo si me demuestras que eres un guerrero valiente y luchas en las batallas del Señor”. Porque Saúl pensaba: “No hace falta que sea yo quien lo mate; que lo hagan los filisteos”. 
 
-^18^ “Pero, ¿quién soy yo, y qué categoría tiene mi familia en Israel, para que me convierta en yerno del rey?” respondió David.^^ 
-^[**18:18** David may have been concerned at the cost of providing a dowry, especially as this is a condition of marriage mentioned later in verse 25.]
+^18^ “Pero, ¿quién soy yo, y qué categoría tiene mi familia en Israel, para que me convierta en yerno del rey?” respondió David.^a^ 
+^a^[**18:18** David may have been concerned at the cost of providing a dowry, especially as this is a condition of marriage mentioned later in verse 25.]
 
 ^19^ Sin embargo, cuando llegó el momento de entregar a Merab, la hija de Saúl, a David, ésta fue dada en matrimonio a Adriel de Meholá en su lugar. 
 
@@ -687,8 +680,8 @@ El Señor respondió: “Lleva contigo una novilla y di: ‘He venido a sacrific
 
 ^11^ Saúl envió algunos mensajeros a la casa de David para que vigilaran y lo mataran por la mañana. Pero Mical, la mujer de David, le advirtió: “Si no te escapas esta noche, mañana te matarán”. 
 
-^12^ Mical bajó a David desde una ventana, y él salió corriendo, logrando escapar. ^13^ Luego tomó un ídolo de casa^^ y lo acostó en la cama, le puso una peluca de pelo de cabra en la cabeza y lo cubrió con la ropa de cama. 
-^[**19:13** “Ídolo de casa”: la palabra hebrea utilizada aquí es teraphim y se mencionan por primera vez en Génesis 31. Eran objetos de culto que se utilizaban para determinar la voluntad del “dios”, véase Ezequiel 21:21; Zacarías 10:2. El hecho de que tales ídolos estuvieran allí en la casa de David muestra el grado en que la “religión pura” se había corrompido con el tiempo.]
+^12^ Mical bajó a David desde una ventana, y él salió corriendo, logrando escapar. ^13^ Luego tomó un ídolo de casa^a^ y lo acostó en la cama, le puso una peluca de pelo de cabra en la cabeza y lo cubrió con la ropa de cama. 
+^a^[**19:13** “Ídolo de casa”: la palabra hebrea utilizada aquí es teraphim y se mencionan por primera vez en Génesis 31. Eran objetos de culto que se utilizaban para determinar la voluntad del “dios”, véase Ezequiel 21:21; Zacarías 10:2. El hecho de que tales ídolos estuvieran allí en la casa de David muestra el grado en que la “religión pura” se había corrompido con el tiempo.]
 
 ^14^ Cuando Saúl envió a los mensajeros a detener a David, Mical les dijo: “Está enfermo”. 
 
@@ -709,8 +702,8 @@ Así que Saúl se dirigió a Naiot en Ramá, pero el Espíritu de Dios incluso v
 
 ^2^ “¡Nada!” Respondió Jonatán. “¡No vas a morir! ¡Escucha! Mi padre me cuenta todo lo que planea, sea lo que sea. ¿Por qué iba mi padre a ocultarme algo así? No es cierto”. 
 
-^3^ Pero David volvió a jurar: “Tu padre sabe muy bien que soy tu amigo, y por eso seguro ha pensado: ‘Jonatán no puede enterarse de esto, porque si no se enfadará mucho’. Te juro por la vida del Señor, y por tu propia vida, que mi vida pende de un hilo.”^^ 
-^[**20:3** “Mi vida pende de un hilo”: literalmente, “sólo hay un paso entre mí y la muerte.”]
+^3^ Pero David volvió a jurar: “Tu padre sabe muy bien que soy tu amigo, y por eso seguro ha pensado: ‘Jonatán no puede enterarse de esto, porque si no se enfadará mucho’. Te juro por la vida del Señor, y por tu propia vida, que mi vida pende de un hilo.”^a^ 
+^a^[**20:3** “Mi vida pende de un hilo”: literalmente, “sólo hay un paso entre mí y la muerte.”]
 
 ^4^ “Dime qué quieres que haga por ti y lo haré”, le dijo Jonatán a David. 
 
@@ -724,8 +717,8 @@ Así que Saúl se dirigió a Naiot en Ramá, pero el Espíritu de Dios incluso v
 
 ^12^ Jonatán le dijo a David: “Te prometo por el Señor, el Dios de Israel, que mañana a esta hora o pasado mañana interrogaré a mi padre. Si las cosas se ven bien para ti, te enviaré un mensaje y te lo haré saber. ^13^ Pero si mi padre planea hacerte daño, que el Señor me castigue muy severamente, si no te lo hago saber enviándote un mensaje para que puedas salir a salvo. Que el Señor esté contigo, como lo estuvo con mi padre. ^14^ Mientras viva, por favor, demuéstrame un amor digno de confianza como el del Señor para que no muera, ^15^ y por favor, no retires tu amor fiel a mi familia, aunque el Señor haya eliminado a todos tus enemigos de la tierra.” 
 
-^16^ Jonatán hizo un acuerdo solemne con la familia de David, diciendo: “Que el Señor imponga su castigo a los enemigos de David.”^^ ^17^ Jonatán se lo hizo jurar a David una vez más, basándose en el amor que le profesaba, pues Jonatán ya amaba a David como a sí mismo. 
-^[**20:16** Éste y los versos anteriores tienen una serie de problemas de traducción.]
+^16^ Jonatán hizo un acuerdo solemne con la familia de David, diciendo: “Que el Señor imponga su castigo a los enemigos de David.”^a^ ^17^ Jonatán se lo hizo jurar a David una vez más, basándose en el amor que le profesaba, pues Jonatán ya amaba a David como a sí mismo. 
+^a^[**20:16** Éste y los versos anteriores tienen una serie de problemas de traducción.]
 
 ^18^ Entonces Jonatán le dijo a David: “La fiesta de la Luna Nueva es mañana. Se te echará de menos, porque tu lugar estará vacío. ^19^ Dentro de tres días, ve rápidamente al lugar donde te escondiste cuando todo esto empezó, y quédate allí junto al montón de piedras. ^20^ Yo lanzaré tres flechas a su lado, como si estuviera disparando a un blanco. ^21^ Luego enviaré a un muchacho y le diré: “¡Ve a buscar las flechas! Si le digo concretamente: “Mira, las flechas están a este lado; tráelas aquí”, entonces te juro por la vida del Señor que puedes salir sin peligro. ^22^ Pero si le digo al muchacho: “Mira, las flechas están más allá de ti”, entonces tendrás que salir, porque el Señor quiere que te vayas. ^23^ En cuanto a lo que tú y yo hablamos, recuerda que el Señor es testigo entre tú y yo para siempre”. 
 
@@ -756,11 +749,11 @@ Así que Saúl se dirigió a Naiot en Ramá, pero el Espíritu de Dios incluso v
 
 ^5^ “No nos hemos acostado con ninguna mujer”, respondió David. “De hecho, esa es la norma cuando dirijo las tropas en misión. Se mantienen puros incluso durante las misiones ordinarias, y con mayor razón en este momento”. 
 
-^6^ Entonces el sacerdote le dio el pan sagrado, ya que allí no tenían otro pan que el “Pan de la Presencia”, que había sido retirado de la presencia del Señor^^ ese día y lo sustituyeron por pan fresco. 
-^[**21:6** En otras palabras, colocado en la Tienda de la Reunión.]
+^6^ Entonces el sacerdote le dio el pan sagrado, ya que allí no tenían otro pan que el “Pan de la Presencia”, que había sido retirado de la presencia del Señor^a^ ese día y lo sustituyeron por pan fresco. 
+^a^[**21:6** En otras palabras, colocado en la Tienda de la Reunión.]
 
-^7^ Uno de los siervos de Saúl estaba allí ese día, tratando de enmendarse^^ con el Señor. Era Doeg el edomita, el pastor principal de Saúl. 
-^[**21:7** “Enmendarse”: literalmente “detenerse”. Parece que Doeg estaba ofreciendo un sacrificio por algún pecado que había cometido y que el sacerdote Ahimelec conocía. Esta parece ser una de las razones por las que Doeg delató a David (22:9) y ejecutó la orden de Saúl de matar a Ahimelec y a los demás sacerdotes.]
+^7^ Uno de los siervos de Saúl estaba allí ese día, tratando de enmendarse^a^ con el Señor. Era Doeg el edomita, el pastor principal de Saúl. 
+^a^[**21:7** “Enmendarse”: literalmente “detenerse”. Parece que Doeg estaba ofreciendo un sacrificio por algún pecado que había cometido y que el sacerdote Ahimelec conocía. Esta parece ser una de las razones por las que Doeg delató a David (22:9) y ejecutó la orden de Saúl de matar a Ahimelec y a los demás sacerdotes.]
 
 ^8^ “¿Tienes aquí una lanza o una espada?” le preguntó David a Ahimelec. “No traje mi espada ni ninguna de mis armas, porque lo que el rey necesitaba que hiciera era urgente”. 
 
@@ -768,8 +761,8 @@ Así que Saúl se dirigió a Naiot en Ramá, pero el Espíritu de Dios incluso v
 
 “¡Es mejor que cualquier otra espada! Por favor, dámela”, respondió David. 
 
-^10^ Ese día David huyó de Saúl y se dirigió a Aquis, rey de Gat.^^ 
-^[**21:10** Gat era una ciudad filistea.]
+^10^ Ese día David huyó de Saúl y se dirigió a Aquis, rey de Gat.^a^ 
+^a^[**21:10** Gat era una ciudad filistea.]
 
 ^11^ Pero los oficiales de Aquis preguntaron al rey: “¿No es éste David, el rey de ese país? ¿No cantaban sobre él en sus danzas: ‘Saúl ha matado a sus miles, y David a sus decenas de miles’”? 
 
@@ -778,8 +771,8 @@ Así que Saúl se dirigió a Naiot en Ramá, pero el Espíritu de Dios incluso v
 # 22 
 ^1^ Después David escapó y se fue a la cueva de Adulam. Cuando se enteraron de dónde estaba, sus hermanos y todo el resto de su familia fueron y se reunieron con él allí. ^2^ Todos los que tenían problemas o deudas o estaban resentidos también acudieron a él y se convirtió en su líder. Ahora tenía unos cuatrocientos hombres con él. 
 
-^3^ Luego David se fue a Mizpa, en el país de Moab. Le pidió al rey de Moab: “Por favor, deja que mi padre y mi madre vengan y se queden contigo hasta que averigüe lo que Dios planea para mí”. ^4^ Así que los dejó con el rey de Moab, y se quedaron con el rey todo el tiempo que David vivió en la fortaleza.^^ 
-^[**22:4** “Fortaleza”: probablemente refiriéndose a su campamento en la cueva de Adulam.]
+^3^ Luego David se fue a Mizpa, en el país de Moab. Le pidió al rey de Moab: “Por favor, deja que mi padre y mi madre vengan y se queden contigo hasta que averigüe lo que Dios planea para mí”. ^4^ Así que los dejó con el rey de Moab, y se quedaron con el rey todo el tiempo que David vivió en la fortaleza.^a^ 
+^a^[**22:4** “Fortaleza”: probablemente refiriéndose a su campamento en la cueva de Adulam.]
 
 ^5^ Pero entonces el profeta Gad le dijo a David: “No te quedes en la fortaleza. Vuelve a la tierra de Judá”. Así que David se marchó y se dirigió al bosque de Haret. 
 
@@ -832,15 +825,15 @@ Y el Señor le dijo a David: “Ve y ataca a los filisteos y salva a Keila”.
 
 ^13^ Así que David y sus hombres, que eran unos seiscientos, salieron de Keila y se desplazaron de un lugar a otro. Cuando Saúl descubrió que David había escapado de Keila, no se molestó en ir allí. 14 David acampó en las fortalezas del desierto, quedándose en las montañas del desierto de Zif. Saúl lo buscó continuamente, pero Dios no permitió que David fuera capturado. 
 
-^15^ Mientras David se alojaba en Horesh, en el desierto de Zif, descubrió^^ que Saúl iba a matarlo. 16 El hijo de Saúl, Jonatán, fue a ver a David a Horesh y lo animó a seguir confiando en Dios, diciéndole: ^17^ “No te preocupes, porque mi padre Saúl nunca te va a encontrar. Vas a ser rey de Israel y yo seré tu sustituto. Hasta mi padre Saúl lo sabe”. ^18^ Los dos hicieron un acuerdo ante el Señor. David se quedó en Horesh y Jonatán se fue a su casa. 
-^[**23:15** “Descubrió”: o “temió.”]
+^15^ Mientras David se alojaba en Horesh, en el desierto de Zif, descubrió^a^ que Saúl iba a matarlo. 16 El hijo de Saúl, Jonatán, fue a ver a David a Horesh y lo animó a seguir confiando en Dios, diciéndole: ^17^ “No te preocupes, porque mi padre Saúl nunca te va a encontrar. Vas a ser rey de Israel y yo seré tu sustituto. Hasta mi padre Saúl lo sabe”. ^18^ Los dos hicieron un acuerdo ante el Señor. David se quedó en Horesh y Jonatán se fue a su casa. 
+^a^[**23:15** “Descubrió”: o “temió.”]
 
 ^19^ Entonces los hombres de Zif fueron a ver a Saúl a Guibeá y le dijeron: “David se esconde en nuestra zona, en las fortalezas de Hores, en la colina de Haquila, en los páramos del sur. 20 Así que, Su Majestad, venga cuando quiera, y nos aseguraremos de entregárselo”. 
 
 ^21^ Y Saúl le respondió: “Que el Señor te bendiga por pensar en mí. ^22^ Por favor, ve y asegúrate de saber exactamente dónde está – dónde se hospeda y quién lo ha visitado – porque la gente me dice que es muy taimado. ^23^ Busca y anota todos sus escondites. Luego vuelve a mí cuando estés seguro, y yo volveré contigo. Si está aquí en el campo, lo cazaré entre todo el pueblo de Judá”. 
 
-^24^ Así que los hombres de Zif se pusieron en marcha, regresando a Zif por delante de Saúl. David y sus hombres estaban en el desierto de Maón, en el valle de Araba^^ en los páramos del sur. ^25^ Saúl y sus hombres comenzaron a buscarlo. Cuando David se enteró, bajó a la roca y se quedó en el desierto de Maón. Y cuando Saúl se enteró, persiguió a David en el desierto de Maón. 
-^[**23:24** “El valle de Araba”: otro nombre para el Valle del Jordán.]
+^24^ Así que los hombres de Zif se pusieron en marcha, regresando a Zif por delante de Saúl. David y sus hombres estaban en el desierto de Maón, en el valle de Araba^a^ en los páramos del sur. ^25^ Saúl y sus hombres comenzaron a buscarlo. Cuando David se enteró, bajó a la roca y se quedó en el desierto de Maón. Y cuando Saúl se enteró, persiguió a David en el desierto de Maón. 
+^a^[**23:24** “El valle de Araba”: otro nombre para el Valle del Jordán.]
 
 ^26^ Saúl iba por un lado de la montaña, mientras que David y sus hombres iban por el otro lado, apurando la marcha. Pero justo cuando Saúl y sus hombres se acercaban a David y a los suyos, a punto de capturarlos, ^27^ llegó un mensajero para decirle a Saúl: “¡Ven de inmediato! Los filisteos han invadido el país”. 
 
@@ -851,8 +844,8 @@ Y el Señor le dijo a David: “Ve y ataca a los filisteos y salva a Keila”.
 
 ^4^ Los hombres de David le dijeron: “Hoy es el día que el Señor te prometió al decirte: ‘Escucha, voy a entregarte a tu enemigo, para que hagas con él lo que quieras’”. Entonces David se acercó sigilosamente y cortó un trozo del borde del manto de Saúl. 
 
-^5^ Pero después David se sintió muy mal porque había cortado un trozo del manto de Saúl. ^6^ Y les dijo a sus hombres: “Que el Señor me impida hacer algo así^^ a mi amo, el ungido del Señor. Nunca lo atacaré, porque es el ungido del Señor”. ^7^ Y reprendió a sus hombres, y no les permitió atacar a Saúl. 
-^[**24:6** “Algo así”: probablemente refiriéndose al deseo de sus hombres de atacar al rey.]
+^5^ Pero después David se sintió muy mal porque había cortado un trozo del manto de Saúl. ^6^ Y les dijo a sus hombres: “Que el Señor me impida hacer algo así^a^ a mi amo, el ungido del Señor. Nunca lo atacaré, porque es el ungido del Señor”. ^7^ Y reprendió a sus hombres, y no les permitió atacar a Saúl. 
+^a^[**24:6** “Algo así”: probablemente refiriéndose al deseo de sus hombres de atacar al rey.]
 
 Saúl se levantó y siguió su camino. ^8^ Un poco más tarde, David salió de la cueva y gritó: “¡Mi amo el rey!”. Cuando Saúl miró a su alrededor, David se inclinó con el rostro hacia el suelo. 
 
@@ -867,8 +860,8 @@ Saúl se levantó y siguió su camino. ^8^ Un poco más tarde, David salió de l
 # 25 
 ^1^ Samuel murió. Todos en Israel se reunieron para llorar por él, y lo enterraron en su casa de Ramá. David partió y se fue al desierto de Parán. 
 
-^2^ Había un hombre de Maón que era muy rico. Tenía propiedades en el Carmelo y poseía mil cabras y tres mil ovejas. Estaba en el Carmelo esquilando las ovejas. ^3^ El hombre se llamaba Nabal,^^ y su esposa se llamaba Abigail. Era una mujer sabia y hermosa, pero su marido era cruel y trataba mal a la gente. Era descendiente de Caleb. ^4^ David estaba en el desierto y se enteró de que Nabal estaba esquilando ovejas. ^5^ Entonces David envió a diez de sus jóvenes y les dijo: “Vayan a ver a Nabal al Carmelo. Salúdenlo en mi nombre y salúdenlo de mi parte. ^6^ Díganle: ‘¡Te deseo una larga vida! Paz a ti y a tu familia, y que todo lo que hagas prospere. ^7^ Me he enterado de que estás ocupado esquilando. Cuando tus pastores estuvieron con nosotros, no los maltratamos, y nada de lo que les pertenecía fue robado en todo el tiempo que estuvieron en el Carmelo. ^8^ Pregúntales a tus hombres y ellos te lo confirmarán. Por favor, sean amables con mis hombres, sobre todo porque hemos venido en este día de fiesta. Por favor, danos la comida que puedas a nosotros y a tu buen amigo David”. 
-^[**25:3** “Nabal” significa “tonto.”]
+^2^ Había un hombre de Maón que era muy rico. Tenía propiedades en el Carmelo y poseía mil cabras y tres mil ovejas. Estaba en el Carmelo esquilando las ovejas. ^3^ El hombre se llamaba Nabal,^a^ y su esposa se llamaba Abigail. Era una mujer sabia y hermosa, pero su marido era cruel y trataba mal a la gente. Era descendiente de Caleb. ^4^ David estaba en el desierto y se enteró de que Nabal estaba esquilando ovejas. ^5^ Entonces David envió a diez de sus jóvenes y les dijo: “Vayan a ver a Nabal al Carmelo. Salúdenlo en mi nombre y salúdenlo de mi parte. ^6^ Díganle: ‘¡Te deseo una larga vida! Paz a ti y a tu familia, y que todo lo que hagas prospere. ^7^ Me he enterado de que estás ocupado esquilando. Cuando tus pastores estuvieron con nosotros, no los maltratamos, y nada de lo que les pertenecía fue robado en todo el tiempo que estuvieron en el Carmelo. ^8^ Pregúntales a tus hombres y ellos te lo confirmarán. Por favor, sean amables con mis hombres, sobre todo porque hemos venido en este día de fiesta. Por favor, danos la comida que puedas a nosotros y a tu buen amigo David”. 
+^a^[**25:3** “Nabal” significa “tonto.”]
 
 ^9^ Los jóvenes de David llegaron, le dieron a Nabal este mensaje de parte de David y esperaron su respuesta. 
 
@@ -886,15 +879,15 @@ Saúl se levantó y siguió su camino. ^8^ Un poco más tarde, David salió de l
 
 ^23^ Cuando Abigail vio a David, se bajó rápidamente del asno y se inclinó ante él, con el rostro en el suelo. ^24^ Cayendo a sus pies en señal de respeto, le dijo: “Señor, acepto toda la responsabilidad por lo que ha sucedido. Por favor, escuche lo que yo, su sierva, tengo que decir. ^25^ Por favor, no te inquietes por ese despreciable de Nabal. Su nombre significa “tonto”, y él es realmente tonto. En cuanto a mí, tu siervo, ni siquiera vi a los hombres que enviaste. 
 
-^26^ Ahora, señor, vive el Señor y vives tú, el Señor te ha impedido derramar sangre y tomar tu propia venganza. Señor, que tus enemigos y los que quieren hacerte daño sean como Nabal. ^27^ Te ruego que aceptes este presente que yo, tu sierva, te he traído, señor, y se lo des a tus hombres. ^28^ Por favor, perdona cualquier ofensa que yo, tu sierva, haya cometido, porque el Señor está seguro de establecer una dinastía para ti que durará mucho tiempo, porque tú, señor, peleas las batallas del Señor. La maldad no debe encontrarse en ti mientras vivas.^^ ^29^ Si alguien te persigue y trata de matarte, tu vida quedará ligada a los que el Señor, tu Dios, cuida, a salvo en su cuidado. Pero él tirará las vidas de tus enemigos como piedras de una honda. ^30^ Así que cuando el Señor haya hecho por ti, señor, todo el bien que te prometió, y te haya hecho gobernar sobre Israel, 31 no tendrás sentimientos de remordimiento ni conciencia culpable por el derramamiento innecesario de sangre ni por tomar tu propia venganza. Y cuando el Señor haya hecho estas cosas buenas por ti, señor, por favor acuérdate de mí, tu sierva”. 
-^[**25:28** Tal vez Abigail está sugiriendo que la misión actual de David no está sancionada por Dios y que seguir con ella sería comprometer su reputación, especialmente como futuro rey de Israel.]
+^26^ Ahora, señor, vive el Señor y vives tú, el Señor te ha impedido derramar sangre y tomar tu propia venganza. Señor, que tus enemigos y los que quieren hacerte daño sean como Nabal. ^27^ Te ruego que aceptes este presente que yo, tu sierva, te he traído, señor, y se lo des a tus hombres. ^28^ Por favor, perdona cualquier ofensa que yo, tu sierva, haya cometido, porque el Señor está seguro de establecer una dinastía para ti que durará mucho tiempo, porque tú, señor, peleas las batallas del Señor. La maldad no debe encontrarse en ti mientras vivas.^a^ ^29^ Si alguien te persigue y trata de matarte, tu vida quedará ligada a los que el Señor, tu Dios, cuida, a salvo en su cuidado. Pero él tirará las vidas de tus enemigos como piedras de una honda. ^30^ Así que cuando el Señor haya hecho por ti, señor, todo el bien que te prometió, y te haya hecho gobernar sobre Israel, 31 no tendrás sentimientos de remordimiento ni conciencia culpable por el derramamiento innecesario de sangre ni por tomar tu propia venganza. Y cuando el Señor haya hecho estas cosas buenas por ti, señor, por favor acuérdate de mí, tu sierva”. 
+^a^[**25:28** Tal vez Abigail está sugiriendo que la misión actual de David no está sancionada por Dios y que seguir con ella sería comprometer su reputación, especialmente como futuro rey de Israel.]
 
 ^32^ Entonces David le dijo a Abigail: “¡Alabado sea el Señor, el Dios de Israel, que te ha enviado hoy a mi encuentro! ^33^ Que seas recompensada por tus sabias decisiones, por haber evitado que hoy derramara sangre y me vengara. ^34^ Por el contrario, vive el Señor, el Dios de Israel, que me ha impedido hacerte daño, si no hubieras salido corriendo a mi encuentro, definitivamente no habría quedado vivo ni uno solo de los hombres de Nabal al amanecer.” 
 
 ^35^ David aceptó de Abigail lo que le había traído y le dijo: “Puedes irte a casa en paz, porque estoy de acuerdo con tu consejo y te concedo tu petición.” 
 
-^36^ Cuando Abigail volvió a casa de Nabal, éste estaba en la casa, de fiesta como un rey. Se sentía muy alegre y estaba muy borracho. Así que ella no le dijo nada hasta la mañana. ^37^ A la mañana siguiente, cuando Nabal estaba sobrio, su mujer le contó lo que había sucedido. Cuando él la escuchó, le dio un ataque al corazón y se quedó paralizado.^^ ^38^ Unos diez días después, el Señor abatió a Nabal y éste murió. 
-^[**25:37** “Quedó paralizado”: literalmente, “estaba como una piedra.”]
+^36^ Cuando Abigail volvió a casa de Nabal, éste estaba en la casa, de fiesta como un rey. Se sentía muy alegre y estaba muy borracho. Así que ella no le dijo nada hasta la mañana. ^37^ A la mañana siguiente, cuando Nabal estaba sobrio, su mujer le contó lo que había sucedido. Cuando él la escuchó, le dio un ataque al corazón y se quedó paralizado.^a^ ^38^ Unos diez días después, el Señor abatió a Nabal y éste murió. 
+^a^[**25:37** “Quedó paralizado”: literalmente, “estaba como una piedra.”]
 
 ^39^ Cuando David se enteró de que Nabal había muerto, dijo: “Alabado sea el Señor, que me ha apoyado contra la injuria de Nabal y me ha impedido hacer el mal. Porque el Señor hizo que la maldad de Nabal recayera sobre él”. Entonces David envió un mensaje a Abigail, pidiéndole que se casara con él. 
 
@@ -907,9 +900,8 @@ Saúl se levantó y siguió su camino. ^8^ Un poco más tarde, David salió de l
 
 ^2^ Así que Saúl se dirigió al desierto de Zif junto con tres mil hombres de Israel especialmente escogidos para buscar a David allí. ^3^ Saúl acampó junto al camino en la colina de Haquilá, frente a los páramos, cerca de donde David vivía en el desierto. Cuando se dio cuenta de que Saúl había ido a buscarlo allí, ^4^ envió espías y descubrió que Saúl había llegado definitivamente. 
 
-^5^ Una noche^^, David se levantó y fue al campamento de Saúl y vio dónde dormía éste, junto con Abner, hijo de Ner, el comandante del ejército. Saúl estaba acostado en medio del campamento, con sus hombres a su alrededor. ^6^ David les preguntó a Ahimelec el hitita y a Abisai, hijo de Sarvia,^^ hermano de Joab: “¿Quién quiere acompañarme al campamento a ver a Saúl? 
-^[**26:5** “Una noche”: implícito.]
-^[**26:6** Servia era hermana de David y madre de Joab, Abisai y Asahel.]
+^5^ Una noche^a^ , David se levantó y fue al campamento de Saúl y vio dónde dormía éste, junto con Abner, hijo de Ner, el comandante del ejército. Saúl estaba acostado en medio del campamento, con sus hombres a su alrededor. ^6^ David les preguntó a Ahimelec el hitita y a Abisai, hijo de Sarvia,^b^ hermano de Joab: “¿Quién quiere acompañarme al campamento a ver a Saúl? 
+^a^[**26:5** “Una noche”: implícito.] ^b^[**26:6** Servia era hermana de David y madre de Joab, Abisai y Asahel.]
 
 “Iré contigo”, respondió Abisai. 
 
@@ -948,8 +940,8 @@ Saúl se levantó y siguió su camino. ^8^ Un poco más tarde, David salió de l
 
 ^6^ Aquis le dio de inmediato Siclag, y la ciudad sigue perteneciendo a los reyes de Judá hasta el día de hoy. ^7^ Y David vivió en el país de los filisteos durante un año y cuatro meses. 
 
-^8^ Durante ese tiempo, David y sus hombres hicieron incursiones contra los guesuritas, los girzitas y los amalecitas. Estos pueblos habían vivido en la tierra hasta Sur y Egipto desde tiempos antiguos. ^9^ Cuando David atacaba un lugar, no dejaba a nadie con vida. Tomaba los rebaños y las manadas, los asnos, los camellos y la ropa. Luego regresaba a Aquis. ^10^ Cuando Aquis le preguntaba: “¿Dónde has estado asaltando hoy?” David respondía: “En el desierto^^ de Judá”, o “el desierto de Jerameel”, o “el desierto de los ceneos”. 
-^[**27:10** “Desierto”, literalmente “el Negev”, la región árida del sur.]
+^8^ Durante ese tiempo, David y sus hombres hicieron incursiones contra los guesuritas, los girzitas y los amalecitas. Estos pueblos habían vivido en la tierra hasta Sur y Egipto desde tiempos antiguos. ^9^ Cuando David atacaba un lugar, no dejaba a nadie con vida. Tomaba los rebaños y las manadas, los asnos, los camellos y la ropa. Luego regresaba a Aquis. ^10^ Cuando Aquis le preguntaba: “¿Dónde has estado asaltando hoy?” David respondía: “En el desierto^a^ de Judá”, o “el desierto de Jerameel”, o “el desierto de los ceneos”. 
+^a^[**27:10** “Desierto”, literalmente “el Negev”, la región árida del sur.]
 
 ^11^ David no dejó a nadie con vida que pudiera ir a Gat porque pensó: “Podrían delatarnos y decir: ‘David hizo esto’”. Así hizo todo el tiempo que vivió en el país de los filisteos. ^12^ Aquis confió en David y pensaba: “Se ha hecho tan ofensivo para su pueblo, los israelitas, que tendrá que servirme para siempre.” 
 
@@ -997,8 +989,8 @@ Saúl se levantó y siguió su camino. ^8^ Un poco más tarde, David salió de l
 ^24^ La mujer tenía un ternero cebado en la casa, y rápidamente fue a sacrificarlo. También cogió harina, la amasó y coció panes sin levadura. ^25^ Luego ella sirvió la comida a Saúl y a sus hombres, y ellos la comieron. Luego se levantaron y se fueron, esa misma noche. 
 
 # 29 
-^1^ Los filisteos reunieron todos sus ejércitos en Afec, y los israelitas acamparon junto al manantial de Jezreel. ^2^ Los jefes filisteos marchaban en sus divisiones de cientos y miles de personas, con David y sus hombres en la retaguardia con el rey Aquis. ^3^ Pero los jefes filisteos preguntaron: “¿Qué hacen aquí estos hebreos?”^^ 
-^[**29:3** Esto también podría traducirse como “¿Quiénes son estos hebreos?”, ya que el texto simplemente dice “Qué estos hebreos?”]
+^1^ Los filisteos reunieron todos sus ejércitos en Afec, y los israelitas acamparon junto al manantial de Jezreel. ^2^ Los jefes filisteos marchaban en sus divisiones de cientos y miles de personas, con David y sus hombres en la retaguardia con el rey Aquis. ^3^ Pero los jefes filisteos preguntaron: “¿Qué hacen aquí estos hebreos?”^a^ 
+^a^[**29:3** Esto también podría traducirse como “¿Quiénes son estos hebreos?”, ya que el texto simplemente dice “Qué estos hebreos?”]
 
 Entonces Aquis les respondió a los comandantes filisteos: “Ese es David, un oficial del rey Saúl de Israel. Lleva mucho tiempo conmigo, incluso años, y no he encontrado ninguna falta en él desde el día en que se pasó a nuestro lado hasta ahora.” 
 
@@ -1037,16 +1029,16 @@ Pero confiando en el Señor, su Dios, ^7^ David fue a ver al sacerdote Abiatar, 
 
 ^23^ Pero David intervino diciendo: “No, hermanos míos, no deben hacer esto con lo que el Señor nos ha dado. Él nos ha protegido y nos ha entregado a los asaltantes que nos habían atacado. ^24^ ¿Quién los va a escuchar cuando digan tales cosas? La parte que reciban los que fueron a la batalla será la misma que la de los que se quedaron para guardar las provisiones”. ^25^ David hizo que esta fuera la regla y norma para Israel desde ese día hasta ahora. 
 
-^26^ Cuando David regresó a Siclag, envió parte del botín a cada uno de sus amigos entre los ancianos de Judá, diciendo: “Aquí tienen un regalo para ustedes del botín de los enemigos del Señor.” ^27^ David lo envió a los que vivían en Betuel,^^ Ramot Néguev, Jattir, ^28^ Aroer, Sifmot, Eshtemoa, 29 Racal, y las ciudades de los jeraelitas y ceneos, ^30^ Hormah, Bor-ashan, Athach, ^31^ Hebrón: todos los lugares a los que David y sus hombres habían ido.
-^[**30:27** “Betuel”: mucho más probable que “Betel” como aparece en el texto hebreo.] 
+^26^ Cuando David regresó a Siclag, envió parte del botín a cada uno de sus amigos entre los ancianos de Judá, diciendo: “Aquí tienen un regalo para ustedes del botín de los enemigos del Señor.” ^27^ David lo envió a los que vivían en Betuel,^a^ Ramot Néguev, Jattir, ^28^ Aroer, Sifmot, Eshtemoa, 29 Racal, y las ciudades de los jeraelitas y ceneos, ^30^ Hormah, Bor-ashan, Athach, ^31^ Hebrón: todos los lugares a los que David y sus hombres habían ido.
+^a^[**30:27** “Betuel”: mucho más probable que “Betel” como aparece en el texto hebreo.] 
 
 # 31 
 
 
 ^1^ Mientras tanto, los filisteos habían atacado a Israel, y el ejército israelita huyó de ellos, y muchos murieron en el monte Gilboa. ^2^ Los filisteos persiguieron a Saúl y a sus hijos, y mataron a los hijos de Saúl: Jonatán, Abinadab y Malquisúa. ^3^ La lucha se hizo muy intensa en torno a Saúl, y las flechas de los arqueros filisteos encontraron su objetivo, hiriendo gravemente a Saúl. 
 
-^4^ Entonces Saúl le dijo a su escudero: “Toma tu espada y mátame, o estos hombres paganos^^ vendrán a matarme y a torturarme”. 
-^[**31:4** “Paganos”: literalmente, “incircuncisos.”]
+^4^ Entonces Saúl le dijo a su escudero: “Toma tu espada y mátame, o estos hombres paganos^a^ vendrán a matarme y a torturarme”. 
+^a^[**31:4** “Paganos”: literalmente, “incircuncisos.”]
 
 Pero el escudero no quiso hacerlo porque tenía demasiado miedo. Entonces Saúl tomó su propia espada y cayó sobre ella. ^5^ Cuando su escudero vio que Saúl estaba muerto, también cayó sobre su propia espada y murió con él. ^6^ Saúl, sus tres hijos, su escudero y todos los hombres que estaban con él murieron el mismo día. 
 

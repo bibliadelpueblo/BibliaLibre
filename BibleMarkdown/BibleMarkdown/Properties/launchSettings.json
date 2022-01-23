@@ -2,8 +2,13 @@
   "profiles": {
     "BibleMarkdown": {
       "commandName": "Project",
-      "commandLineArgs": "-s -replace /HErrn/[Herrn]{.smallcaps}/HErr/[Herr]{.smallcaps}",
-      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\German.Luther1912"
+      "commandLineArgs": "-s",
+      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\Spanish.VersionaBibliaLibre"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
     }
   }
 }

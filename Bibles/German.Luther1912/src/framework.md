@@ -1165,106 +1165,136 @@
 ^26^
 ## 9
 ^0^ 
-### La celebración posterior a la Pascua para los inmundos y los viajeros; la pascua de los extraños
+### Die nachträgliche Passahfeier für Unreine und Reisende; das Passah der Fremdlinge
 ^2^ ^a^ ^3^ ^a^[**9:2** 2Mo 12,3; 3Mo 23,5]  \ ^7^ \ ^8^ \ ^13^ \ ^14^ 
-### La aparición de la columna de nubes y fuego sobre el santuario
+### Das Erscheinen der Wolken- und Feuersäule über dem Heiligtum
 ^15^ ^a^ ^23^ ^a^[**9:15** 2Mo 40,34-38]  
 ## 10
 ^0^ 
-### Ordenanza sobre dos trompetas de plata
+### Verordnung bezüglich zweier silberner Trompeten
 ^7^ \ ^9^ \ ^10^ ^a^ ^a^[**10:10** 3Mo 23,24; 2Kö 11,14; 2Chr 7,6]  
-### Salida del Sinaí hacia el desierto de Paran
+### Aufbruch vom Sinai nach der Wüste Paran
 ^12^ 
-### Descripción del pedido de tren
+### Beschreibung der Zugordnung
 ^20^ \ ^21^ \ ^24^ \ ^28^ 
-### Moisés intenta ganarse a su cuñado Hobab como guía para el viaje hacia adelante
+### Mose sucht seinen Schwager Hobab zum Führer für die Weiterwanderung zu gewinnen
 ^29^ ^a^ ^a^[**10:29** Ri 1,16; 2Mo 2,18]  \ ^30^ \ ^32^ 
-### La partida del monte de Dios bajo la guía del arca
+### Der Aufbruch vom Gottesberge unter Führung der Bundeslade
 ^35^ ^a^ ^36^ ^a^[**10:35** Ps 68,2; Ps 132,8]  
 ## 11
 ^0^ 
-### El murmullo de la gente y la fogata en Thabera
+### Das Murren des Volkes und der Lagerbrand zu Thabera
 ^3^ 
-### La gente se queja de la comida
+### Die Leute beschweren sich über das Essen
 ^4^ ^a^ ^9^ ^a^[**11:4** 2Mo 16,3]  
-### El lamento de Moisés ante Dios
+### Die Klage Moses vor Gott
 ^15^ ^a^ ^a^[**11:15** 2Mo 32,32]  
-### Ordenanza de Dios (nombramiento de setenta asistentes de Moisés) La promesa de Dios de donación de carne; la respuesta incrédula de Moisés
+### Gottes Anordnung (Bestellung von siebzig Gehilfen Moses); Gottes Verheißung der Fleischspende; die ungläubige Entgegnung Moses
 ^16^ ^a^ ^17^ ^a^[**11:16** 2Mo 18,21; 2Mo 24,1]  \ ^18^ ^a^ ^20^ ^a^[**11:18** 2Mo 19,10]  \ ^22^ \ ^23^ ^a^ ^a^[**11:23** Jes 50,2; Jes 59,1]  
-### El entusiasmo profético de los setenta ancianos
+### Die prophetische Begeisterung der siebzig Ältesten
 ^27^ \ ^28^ \ ^29^ ^a^ ^a^[**11:29** Mk 9,39; Joe 3,1]  \ ^30^ 
-### Alimentación de codornices; Juicio de Dios; las tumbas del placer
+### Speisung durch Wachteln; Gottes Strafgericht; die Lustgräber
 ^34^ ^a^ ^a^[**11:34** 1Kor 10,6]  \ 
 ## 12
 ^0^ 
-### La rebelión de Miriam y Aarón contra Moisés
+### Mirjams und Aarons Auflehnung gegen Mose
 ^3^ 
-### Dios está defendiendo a Moisés; El castigo de miriam
+### Gottes Eintreten für Mose; Mirjams Bestrafung
 ^4^ \ ^5^ ^a^ ^8^ ^b^ ^9^ ^a^[**12:5** 2Mo 16,10] ^b^[**12:8** 2Mo 33,11; 2Mo 33,23]  \ ^10^ 
-### La intercesión de Aarón y Moisés; La respuesta de Dios; La curación de Miriam; Llegada al desierto de Paran
+### Aarons und Moses Fürbitte; Gottes Antwort; Mirjams Heilung; Ankunft in der Wüste Paran
 ^12^ \ ^13^ ^a^ ^a^[**12:13** 2Mo 15,26]  \ ^14^ ^a^ ^a^[**12:14** 3Mo 13,46]  \ 
 ## 13
 ^0^ 
-### Envío de los doce exploradores
-^2^ \ ^6^ ^a^ ^16^ ^b^ ^17^ ^a^[**13:6** Jos 14,7] ^b^[**13:16** 4Mo 11,28]  
-### La instrucción de Moisés a los espías
-^21^ 
-### Explorando la tierra
+### Aussendung der zwölf Kundschafter
+^2^ \ ^6^ ^a^ ^16^ ^b^ ^16^ ^a^[**13:6** Jos 14,7] ^b^[**13:16** 4Mo 11,28]  
+### Die Weisung Moses an die Kundschafter
+^20^ 
+### Die Auskundschaftung des Landes
 ^25^ 
-### Regreso e informe de los emisarios
+### Rückkehr und Bericht der Ausgesandten
 ^29^ \ ^30^ ^a^ ^a^[**13:30** 4Mo 13,6]  
-### Las palabras tranquilizadoras de Caleb y las palabras desalentadoras de los otros exploradores
+### Kalebs beschwichtigende und der übrigen Kundschafter entmutigende Worte
 
 ## 14
 ^0^ 
-### El efecto del informe en la gente
+### Die Wirkung des Berichts auf das Volk
 ^2^ ^a^ ^3^ ^b^ ^4^ ^a^[**14:2** 2Mo 16,3] ^b^[**14:3** Ps 106,24]  \ ^5^ ^a^ ^a^[**14:5** 4Mo 16,4]  
-### El intento fallido de apaciguamiento de Joshua y Caleb
+### Josuas und Kalebs vergeblicher Beschwichtigungsversuch
 ^6^ ^a^ ^8^ ^b^ ^9^ ^a^[**14:6** 4Mo 13,16; 4Mo 13,30] ^b^[**14:8** 4Mo 13,27]  
-### Ira de Dios; la exitosa intercesión de Moisés; el juicio divino
+### Gottes Zorn; die erfolgreiche Fürbitte Moses; das göttliche Strafurteil
 ^10^ \ ^12^ ^a^ ^a^[**14:12** 2Mo 32,10-14]  \ ^18^ ^a^ ^19^ ^a^[**14:18** 2Mo 34,6-7]  \ ^23^ ^a^ ^24^ ^b^ ^25^ ^a^[**14:23** Ps 95,11; Hebr 3,17-19] ^b^[**14:24** Jos 14,6; Jos 14,9]  
-### El castigo de Dios para las personas y los espías se especifica con más detalle
+### Die Strafe Gottes für Volk und Kundschafter
 ^34^ ^a^ ^35^ ^a^[**14:34** Jer 2,19]  
-### Muerte repentina de los espías excepto Josué y Caleb
+### Plötzlicher Tod der Kundschafter außer Josua und Kaleb
 ^38^ ^a^ ^a^[**14:38** 4Mo 14,30]  
-### Arrepentimiento del pueblo; el intento fallido de penetrar en el país enemigo
+### Die Reue des Volkes; der verunglückte Versuch, in das feindliche Land einzudringen
 ^40^ \ ^43^ \ ^45^ ^a^ ^a^[**14:45** 4Mo 31,3]  
 ## 15
 ^0^ 
-### Regulaciones con respecto a las ofrendas de comida y bebida como adición a los holocaustos y las ofrendas de salvación
+### Vorschriften bezüglich der Speis- und Trankopfer als Beigabe zu den Brand- und Heilsopfern
 ^5^ ^a^ ^a^[**15:5** 4Mo 28,7]  \ ^12^ \ ^16^ 
-### Disposición sobre los primeros pasteles
+### Bestimmung über die Erstlingskuchen
 ^19^ ^a^ ^21^ ^a^[**15:19** 2Mo 23,16; 2Mo 23,19]  
-### Reglas con respecto a las ofrendas por el pecado por obrar mal involuntariamente; Impunidad por transgresiones intencionales
+### Vorschriften bezüglich der Sündopfer für unwissentliche Verfehlungen; Unsühnbarkeit vorsätzlicher Übertretungen
 ^26^ \ ^27^ ^a^ ^29^ ^a^[**15:27** 3Mo 4,27-28]  \ ^31^ 
-### Informe de la lapidación de un abusador del sábado
+### Bericht über die Steinigung eines Sabbatschänders
 ^34^ ^a^ ^a^[**15:34** 3Mo 24,12; 2Mo 31,14; 2Mo 35,2]  \ ^36^ 
-### Ordenanza sobre las borlas para adherir a las puntas de la ropa
+### Verordnung über die an den Kleiderzipfeln anzubringenden Quasten
 
 ## 16
 ^0^ 
-### El ultraje de Coré y los rubenitas
+### Die Empörung Korahs und der Rubeniten
 ^1^ ^a^ ^2^ ^b^ ^3^ ^a^[**16:1** 2Mo 6,18; 2Mo 6,21; 4Mo 26,9; Jud 1,11] ^b^[**16:2** 4Mo 12,1-2]  
-### Moisés confronta al grupo de Coré y anuncia un juicio divino en el santuario
+### Mose tritt der Rotte Korahs entgegen und kündigt ihnen ein Gottesurteil am Heiligtum an
 ^4^ ^a^ ^5^ ^b^ ^7^ ^a^[**16:4** 4Mo 14,5] ^b^[**16:5** 2Tim 2,19]  \ ^9^ ^a^ ^11^ ^a^[**16:9** 4Mo 3,6-13; 4Mo 4,4-20]  
-### Datán y Abiram se burlan de la invitación de Moisés; Moisés oración a Dios
+### Dathan und Abiram setzen der Aufforderung Moses Hohn entgegen; Moses Gebet zu Gott
 ^14^ ^a^ ^a^[**16:14** 2Mo 3,8; 2Mo 3,17]  \ ^15^ ^a^ ^a^[**16:15** 1Sam 12,3; Apg 20,33]  
-### Moisés convoca a Coré y sus compañeros para realizar el sacrificio; La aparición de la gloria de Dios; Intercesión de Moisés
+### Mose ladet Korah und seine Genossen zur Opfervollziehung vor; Gottes Herrlichkeitserscheinung; Fürbitte Moses
 ^17^ \ ^19^ ^a^ ^a^[**16:19** 4Mo 14,10]  \ ^21^ \ ^22^ \ ^24^ 
-### Moisés convoca a Coré y sus compañeros para realizar el sacrificio; La aparición de la gloria de Dios; Intercesión de Moisés
+### Mose bei Dathan und Abiram; das Gottesgericht an ihnen sowie an den 250 Genossen Korahs
 ^26^ \ ^27^ \ ^30^ \ ^31^ ^a^ ^35^ ^a^[**16:31** 5Mo 11,6]  
-### El uso de las 250 ollas humeantes por parte de Coré y sus compañeros como cubierta para el altar de sacrificios
+### Die Verwendung der 250 Räucherpfannen Korahs und seiner Genossen zum Überzug für den Opferaltar
 
 ## 17
-^5^ ^a^ ^10^ ^b^ ^11^ ^c^ ^19^ ^d^ ^28^ ^e^ ^a^[**17:5** 4Mo 1,51] ^b^[**17:10** 4Mo 16,4; 4Mo 16,22] ^c^[**17:11** 2Mo 28,38; 3Mo 16,13] ^d^[**17:19** 2Mo 25,22] ^e^[**17:28** 4Mo 17,5]  
+^5^ ^a^ ^a^[**17:5** 4Mo 1,51]
+### Bestrafung der über den Untergang der Aufrührer murrenden Gemeinde; die durch Mose und Aaron bewirkte Sühne
+ ^7^ \ ^9^ \ ^10^ ^a^ ^11^ ^b^ \ ^15^ ^a^[**17:10** 4Mo 16,4; 4Mo 16,22] ^b^[**17:11** 2Mo 28,38; 3Mo 16,13]
+ ### Erweis des Priesterrechts Aarons durch das wunderbare Sprossen seines Stabes
+ ^19^ ^a^ ^26^ \ ^28^ ^b^ ^a^[**17:19** 2Mo 25,22] ^b^[**17:28** 4Mo 17,5]  
 ## 18
-^1^ ^a^ ^2^ ^b^ ^6^ ^c^ ^7^ ^d^ ^8^ ^e^ ^13^ ^f^ ^14^ ^g^ ^15^ ^h^ ^21^ ^i^ ^32^ ^a^[**18:1** 2Mo 28,38; 3Mo 16,32-33] ^b^[**18:2** 4Mo 3,6-10] ^c^[**18:6** 4Mo 3,12; 4Mo 3,45] ^d^[**18:7** 4Mo 1,51] ^e^[**18:8** 3Mo 2,3; 3Mo 2,10; 3Mo 6,9-11; 3Mo 6,19-22; 3Mo 7,6-10] ^f^[**18:13** 2Mo 23,19; 5Mo 18,4] ^g^[**18:14** 3Mo 27,28] ^h^[**18:15** 2Mo 13,12-13; 2Mo 34,19-20] ^i^[**18:21** 3Mo 27,30]  
+^0^ 
+### Allgemeine Verordnungen über die Pflichten der Priester und ihrer Gehilfen, der Leviten
+^1^ ^a^ ^2^ ^b^ ^6^ ^c^ ^7^ ^d^ ^a^[**18:1** 2Mo 28,38; 3Mo 16,32-33] ^b^[**18:2** 4Mo 3,6-10] ^c^[**18:6** 4Mo 3,12; 4Mo 3,45] ^d^[**18:7** 4Mo 1,51] \
+### Die Einkünfte der Priester
+^8^ ^a^ ^13^ ^b^ ^14^ ^c^ ^15^ ^d^ ^19^ ^a^[**18:8** 3Mo 2,3; 3Mo 2,10; 3Mo 6,9-11; 3Mo 6,19-22; 3Mo 7,6-10] ^b^[**18:13** 2Mo 23,19; 5Mo 18,4] ^c^[**18:14** 3Mo 27,28] ^d^[**18:15** 2Mo 13,12-13; 2Mo 34,19-20] \
+### Die Zuweisung des Zehnten an die Leviten bei Versagung von Landbesitz
+^21^ ^a^ ^24^ ^a^[**18:21** 3Mo 27,30] \
+### Die Abgabe des Zehnten von den Einkünften der Leviten an die Priester
+ ^32^ \
 ## 19
+^0^
+### Herstellung und Gebrauch des Reinigungswassers aus der Asche einer rötlichen Kuh zur Reinigung der durch Leichenberührung Verunreinigten
 ^2^ ^a^ ^6^ ^b^ ^7^ ^c^ ^13^ ^d^ ^22^ ^a^[**19:2** Hebr 9,13; 3Mo 22,20] ^b^[**19:6** 3Mo 14,6] ^c^[**19:7** 3Mo 16,28] ^d^[**19:13** 3Mo 15,31]  
 ## 20
-^2^ ^a^ ^10^ ^b^ ^13^ ^c^ ^14^ ^d^ ^16^ ^e^ ^17^ ^f^ ^26^ ^g^ ^29^ ^a^[**20:2** 2Mo 17,1-7] ^b^[**20:10** Ps 106,33] ^c^[**20:13** Ps 81,8] ^d^[**20:14** 1Mo 32,4; Ri 11,17; 5Mo 23,8] ^e^[**20:16** 2Mo 23,20] ^f^[**20:17** 4Mo 21,22] ^g^[**20:26** 3Mo 21,10]  
+^0^
+### Ankunft in Kades und Mirjams Tod; erneutes Murren des Volkes; die für Mose und Aaron verhängnisvolle Wasserspende aus dem Felsen
+^1^ \ ^2^ ^a^ ^6^ \ ^10^ ^b^ ^13^ ^c^ ^a^[**20:2** 2Mo 17,1-7] ^b^[**20:10** Ps 106,33] ^c^[**20:13** Ps 81,8] \
+### Die Edomiter verweigern die Erlaubnis zum Durchzug
+ ^14^ ^a^ ^16^ ^b^ ^17^ ^c^ ^21^ ^a^[**20:14** 1Mo 32,4; Ri 11,17; 5Mo 23,8] ^b^[**20:16** 2Mo 23,20] ^c^[**20:17** 4Mo 21,22] \
+ ### Der Zug von Kades bis zum Berge Hor; Aarons Tod
+ ^26^ ^a^ ^29^ ^a^[**20:26** 3Mo 21,10] \
 ## 21
-^2^ ^a^ ^6^ ^b^ ^21^ ^c^ ^34^ ^d^ ^35^ ^a^[**21:2** 5Mo 13,16; Jos 6,17; Ri 1,17; 1Sam 15,3] ^b^[**21:6** 1Kor 10,9] ^c^[**21:21** 5Mo 2,26-37] ^d^[**21:34** Ps 136,17-22]  
+^0^
+### Siegreicher Kampf mit dem König von Arad
+^2^ ^a^ ^3^ ^a^[**21:2** 5Mo 13,16; Jos 6,17; Ri 1,17; 1Sam 15,3] \
+### Murren des Volkes; die Giftschlangen und die eherne Schlange
+^6^ ^a^ ^9^ ^a^[**21:6** 1Kor 10,9] \
+### Der Zug bis an den Arnon und bis in die Steppen der Moabiter; das Brunnenlied
+^20^ \
+### Besiegung des Amoriterkönigs Sihon und Eroberung seines Landes; Triumphlied der Israeliten
+^21^ ^a^ ^30^ ^a^[**21:21** 5Mo 2,26-37] \ 
+### Weiteres Vorrücken der Israeliten; Besiegung des Königs Og von Basan
+^34^ ^a^ ^35^ ^a^[**21:34** Ps 136,17-22] \ 
 ## 22
 ^7^ ^a^ ^23^ ^b^ ^38^ ^a^[**22:7** 2Petr 2,15] ^b^[**22:23** 1Mo 3,24; Jos 5,13]  \ ^40^ 
 ### Castigo a la comunidad quejándose por la desaparición de los alborotadores; la expiación hecha por Moisés y Aarón

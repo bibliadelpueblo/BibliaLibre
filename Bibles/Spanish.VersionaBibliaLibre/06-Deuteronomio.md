@@ -1,12 +1,12 @@
 # 1 
-^1^ Este es el registro de lo que Moisés le dijo a todos los israelitas durante su permanencia en el desierto al Este del Jordán. Estaban en el Arabahu^^ cerca de Suf, entre Parán por un lado y Tofel, Laban, Hazerot y Di-zahab por el otro. ^2^ (Se necesitan once días para ir de Horebv a Cades-barnea por el camino que pasa por el Monte Seir). 
-^[**1:1** “El Arabá”: otro nombre para el Valle del Jordán.]
+^1^ Este es el registro de lo que Moisés le dijo a todos los israelitas durante su permanencia en el desierto al Este del Jordán. Estaban en el Arabahu^a^ cerca de Suf, entre Parán por un lado y Tofel, Laban, Hazerot y Di-zahab por el otro. ^2^ (Se necesitan once días para ir de Horebv a Cades-barnea por el camino que pasa por el Monte Seir). 
+^a^[**1:1** “El Arabá”: otro nombre para el Valle del Jordán.]
 
-^3^ El primer día del undécimo mes del cuadragésimo año,^^Moisés contó a los israelitas todo lo que el Señor le había ordenado que les dijera. ^4^ Esto sucedió después de que derrotó a Sehón, rey de los amorreos, que gobernaba en Hesbón, y luego en Edrei después de que derrotó a Og, rey de Basán, que gobernaba en Astarot. 
-^[**1:3** “Cuadragésimo año”: después de que salieron de Egipto.]
+^3^ El primer día del undécimo mes del cuadragésimo año,^a^ Moisés contó a los israelitas todo lo que el Señor le había ordenado que les dijera. ^4^ Esto sucedió después de que derrotó a Sehón, rey de los amorreos, que gobernaba en Hesbón, y luego en Edrei después de que derrotó a Og, rey de Basán, que gobernaba en Astarot. 
+^a^[**1:3** “Cuadragésimo año”: después de que salieron de Egipto.]
 
-^5^ Hablando en el lado este del Jordán en la tierra de Moab, Moisés comenzó a explicar estas instrucciones, diciendo:^^ 
-^[**1:5** Moisés da tres largos discursos que constituyen la mayor parte del libro. Este discurso comienza desde el versículo 4:40. Para reducir el número de citas dentro de las comillas, esta sección no comienza ni termina con comillas. Este procedimiento se repite para los otros discursos. ]
+^5^ Hablando en el lado este del Jordán en la tierra de Moab, Moisés comenzó a explicar estas instrucciones, diciendo:^a^ 
+^a^[**1:5** Moisés da tres largos discursos que constituyen la mayor parte del libro. Este discurso comienza desde el versículo 4:40. Para reducir el número de citas dentro de las comillas, esta sección no comienza ni termina con comillas. Este procedimiento se repite para los otros discursos. ]
 
 ^6^ El Señor nuestro Dios nos dijo en Horeb: “Han permanecido aquí al lado de esta montaña por mucho tiempo. ^7^ Continúensu viaje y vayan a las colinas de los amorreos y de todos sus vecinos, al valle del Jordán, a las colinas, a las estribaciones, al Néguev, y a lo largo de la costa al país de los cananeos hasta el Líbano, hasta el gran río Éufrates. 
 
@@ -28,8 +28,8 @@
 
 ^23^ Me pareció un buen plan, así que elegí a doce de sus hombres, uno de cada tribu. ^24^ Partieron y subieron a las colinas hasta el Valle de Escol, para explorar la tierra. ^25^ Trajeron de vuelta algunos de los frutos del país, llevándolos hasta nosotros, y nos dieron el informe: “El Señor nuestro Dios nos está dando buena tierra”. 
 
-^26^ Pero ustedes no quisieron ir. Se rebelaron contra las instrucciones del Señor su Dios. ^27^ e quejaron en sus tiendas y dijeron: “Parece que el Señor nos odia, y nos sacó de Egipto para entregarnos a los amorreos para ser aniquilados. ^28^ ¿Adónde vamos? Nuestros hermanos nos aterrorizaron^^porque nos dijeron: “La gente es más grande y alta que nosotros; los pueblos son grandes, con altos muros que llegan hasta el cielo”. ¡Hasta vimos a los descendientes del gigante Anac allí!” 
-^[**1:28** “Nos aterrorizaron”: literalmente, “hicieron que nuestros corazones se derritieran.”]
+^26^ Pero ustedes no quisieron ir. Se rebelaron contra las instrucciones del Señor su Dios. ^27^ e quejaron en sus tiendas y dijeron: “Parece que el Señor nos odia, y nos sacó de Egipto para entregarnos a los amorreos para ser aniquilados. ^28^ ¿Adónde vamos? Nuestros hermanos nos aterrorizaron^a^ porque nos dijeron: “La gente es más grande y alta que nosotros; los pueblos son grandes, con altos muros que llegan hasta el cielo”. ¡Hasta vimos a los descendientes del gigante Anac allí!” 
+^a^[**1:28** “Nos aterrorizaron”: literalmente, “hicieron que nuestros corazones se derritieran.”]
 
 ^29^ Así que yo les dije: “¡No se asusten, ni tengan miedo de ellos! ^30^ El Señor nuestro Dios que guía su camino luchará por ustedes de la misma manera que ya lo vieron hacerlo en Egipto. ^31^ o mismo hizo en el desierto, y ustedes vieron cómo el Señor su Dios los llevó como un padre lleva a su hijo durante todo el viaje hasta que llegaron aquí.” ^32^ A pesar de todo esto, no confiaron en el Señor su Dios, ^33^ que los guió en el viaje, estando presente en el fuego durante la noche y en la nube durante el día, buscando encontrar un lugar para acampar y mostrándoles el camino a seguir. 
 
@@ -54,34 +54,31 @@
 
 ^8^ Así que pasamos por la tierra de nuestros parientes, los descendientes de Esaú, que viven en Seir. No tomamos el camino de la Arabá desde Elath y Ezion-geber. En su lugar usamos el camino que atraviesa el desierto de Moab. ^9^ Entonces el Señor me dijo: “No causes problemas a los moabitas ni los combatas, porque no te voy a dar nada de su tierra, porque he dado Ar a los descendientes de Lot y les pertenece”. 
 
-^10^ (Un pueblo fuerte y numeroso llamado los Emim vivió una vez allí. Ellos eran tan altos como los anaceos, ^^ ^11^ y al igual que los anaceos, también fueron considerados como Refaim,^^pero los moabitas los llamaron Emim. ^12^ Anteriormente los horeos vivían en Seir, pero los descendientes de Esaú se apoderaron de sus tierras. Mataron a los horeos y se establecieron allí, como hizo Israel cuando ocuparon la tierra que el Señor les había dado). 
-^[**2:10** Ver 1:28.]
-^[**2:11** “Refaím”: Una raza de gigantes.]
+^10^ (Un pueblo fuerte y numeroso llamado los Emim vivió una vez allí. Ellos eran tan altos como los anaceos, ^a^ ^11^ y al igual que los anaceos, también fueron considerados como Refaim,^b^ pero los moabitas los llamaron Emim. ^12^ Anteriormente los horeos vivían en Seir, pero los descendientes de Esaú se apoderaron de sus tierras. Mataron a los horeos y se establecieron allí, como hizo Israel cuando ocuparon la tierra que el Señor les había dado). 
+^a^[**2:10** Ver 1:28.] ^b^[**2:11** “Refaím”: Una raza de gigantes.]
 
-^13^ Entonces el Señor nos dijo:^^“Vayan y crucen el arroyo Zered”. Así que cruzamos el arroyo Zered. 
-^[**2:13** “Entonces el Señor nos dijo”: añadido para mayor claridad.]
+^13^ Entonces el Señor nos dijo:^a^ “Vayan y crucen el arroyo Zered”. Así que cruzamos el arroyo Zered. 
+^a^[**2:13** “Entonces el Señor nos dijo”: añadido para mayor claridad.]
 
 ^14^ El tiempo que tardamos en viajar desde Cades-barnea hasta que cruzamos el arroyo de Zered fue de treinta y ocho años. Para entonces, toda la generación de guerreros había muerto y ya no formaban parte del campamento, como el Señor les había jurado que sucedería. ^15^ De hecho, el Señor trabajó contra ellos para sacarlos del campamento, hasta que todos murieron. 
 
 ^16^ Una vez muertos los guerreros del pueblo, ^17^ el Señor me dijo: ^18^ Hoy cruzarás la frontera de Moab por la ciudad de Ar. ^19^ Sin embargo, cuando entres en territorio amonita, no les causes problemas ni luches con ellos, porque no les daré a ustedes ninguna tierra amonita, pues se la he dado a los descendientes de Lot y les pertenece”. 
 
-^20^ (Esta tierra era considerada anteriormente como el país de los Refaim que solían vivir allí. Sin embargo, los amonitas los llamaban Zamzumitas. ^21^ Eran un pueblo fuerte y numeroso, tan alto como los descendientes de Anac. Pero el Señor los destruyó cuando los amonitas los invadieron y los expulsaron y se establecieron allí, ^22^ tal como lo hizo con los descendientes de Esaú que vivían en Seir cuando destruyó a los horeos.^^Los expulsaron y se establecieron donde vivían y siguen allí hasta hoy. ^23^ Los Avvim, que vivían en aldeas tan lejanas como Gaza, fueron destruidos por los filisteos,^^quienes vinieron desde Creta,^^y se establecieron en el lugar donde solían vivir.) 
-^[**2:22** Ver el versículo 12.]
-^[**2:23** “Filisteos”: literalmente, “Caftoreos.”]
-^[**2:23** “Creta”: literalmente, “Caftor.”]
+^20^ (Esta tierra era considerada anteriormente como el país de los Refaim que solían vivir allí. Sin embargo, los amonitas los llamaban Zamzumitas. ^21^ Eran un pueblo fuerte y numeroso, tan alto como los descendientes de Anac. Pero el Señor los destruyó cuando los amonitas los invadieron y los expulsaron y se establecieron allí, ^22^ tal como lo hizo con los descendientes de Esaú que vivían en Seir cuando destruyó a los horeos.^a^ Los expulsaron y se establecieron donde vivían y siguen allí hasta hoy. ^23^ Los Avvim, que vivían en aldeas tan lejanas como Gaza, fueron destruidos por los filisteos,^b^ quienes vinieron desde Creta,^c^ y se establecieron en el lugar donde solían vivir.) 
+^a^[**2:22** Ver el versículo 12.] ^b^[**2:23** “Filisteos”: literalmente, “Caftoreos.”] ^c^[**2:23** “Creta”: literalmente, “Caftor.”]
 
-^24^ Entonces el Señor nos dijo,^^“Levántense y crucen el Valle de Arnón. Sepan que les he entregado a Sehón el Amorita, rey de Heshbon, así como su tierra. Vayan y comiencen a tomarla, y peleen con él en batalla. ^25^ A partir de este día, haré que todas las naciones de la tierra les teman. Temblarán de terror cuando aparezcas por causa de las noticias que oirán sobre ustedes”. 
-^[**2:24** “Entonces el Señor nos dijo”: añadido para mayor claridad.]
+^24^ Entonces el Señor nos dijo,^a^ “Levántense y crucen el Valle de Arnón. Sepan que les he entregado a Sehón el Amorita, rey de Heshbon, así como su tierra. Vayan y comiencen a tomarla, y peleen con él en batalla. ^25^ A partir de este día, haré que todas las naciones de la tierra les teman. Temblarán de terror cuando aparezcas por causa de las noticias que oirán sobre ustedes”. 
+^a^[**2:24** “Entonces el Señor nos dijo”: añadido para mayor claridad.]
 
-^26^ ntonces Moisés les dijo a los israelitas:^^“Desde el desierto de Cademot envié mensajeros con una oferta de paz para Sehón, rey de Hesbón, diciéndole, ^27^ Déjanos pasar por tu tierra”. Nos quedaremos en el camino principal y no nos desviaremos ni a la derecha ni a la izquierda. ^28^ Véndenos comida para comer y agua para beber por dinero. Déjanos pasar a pie, ^29^ como nos permitieron los descendientes de Esaú que viven en Seir y los moabitas que viven en Ar, hasta que crucemos el Jordán hacia el país que el Señor nuestro Dios nos da”. 
-^[**2:26** “Moisés les dijo a los israelitas:” añadido para mayor claridad.]
+^26^ ntonces Moisés les dijo a los israelitas:^a^ “Desde el desierto de Cademot envié mensajeros con una oferta de paz para Sehón, rey de Hesbón, diciéndole, ^27^ Déjanos pasar por tu tierra”. Nos quedaremos en el camino principal y no nos desviaremos ni a la derecha ni a la izquierda. ^28^ Véndenos comida para comer y agua para beber por dinero. Déjanos pasar a pie, ^29^ como nos permitieron los descendientes de Esaú que viven en Seir y los moabitas que viven en Ar, hasta que crucemos el Jordán hacia el país que el Señor nuestro Dios nos da”. 
+^a^[**2:26** “Moisés les dijo a los israelitas:” añadido para mayor claridad.]
 
 ^30^ Pero Sehón, rey de Hesbón, se negó a dejarnos pasar, porque el Señor su Dios le dio un espíritu terco y una actitud obstinada, para entonces entregárnoslo, como lo ha hecho ahora. 
 
 ^31^ Entonces el Señor me dijo: “Mira, he empezado a entregarte a Sehón y su tierra. Ahora puedes empezar a conquistar y tomar su tierra.” 
 
-^32^ Sehón y todo su ejército salieron a luchar contra nosotros en Yahaza. ^33^ El Señor nuestro Dios nos lo entregó y lo matamos a él, a sus hijos y a todo su ejército. ^34^ También capturamos a toda su gente, ylos separamos para su destrucción^^a la gente de cada pueblo: hombres, mujeres y niños. No dejamos ningún sobreviviente. ^35^ Todo lo que tomamos para nosotros fue el ganado y el saqueo de los pueblos que habíamos capturado. ^36^ Ningún pueblo tenía muros demasiado altos que no pudiéramos conquista, desde Aroer en el borde del valle del Arnón, hasta Galaad. El Señor nuestro Dios nos los entregó todos. ^37^ Pero no fueron a ningún sitio cerca del país de los amonitas, la zona que rodea el río Jabocni los pueblos de las colinas, ni cualquier otro lugar que el Señor nuestro Dios haya puesto fuera de los límites.
-^[**2:34** “Los separamos para su destrucción”: un término especial que describía una dedicación al Señor, indicando que lo prometido debía ser entregado al Señor y no retenido.] 
+^32^ Sehón y todo su ejército salieron a luchar contra nosotros en Yahaza. ^33^ El Señor nuestro Dios nos lo entregó y lo matamos a él, a sus hijos y a todo su ejército. ^34^ También capturamos a toda su gente, ylos separamos para su destrucción^a^ a la gente de cada pueblo: hombres, mujeres y niños. No dejamos ningún sobreviviente. ^35^ Todo lo que tomamos para nosotros fue el ganado y el saqueo de los pueblos que habíamos capturado. ^36^ Ningún pueblo tenía muros demasiado altos que no pudiéramos conquista, desde Aroer en el borde del valle del Arnón, hasta Galaad. El Señor nuestro Dios nos los entregó todos. ^37^ Pero no fueron a ningún sitio cerca del país de los amonitas, la zona que rodea el río Jabocni los pueblos de las colinas, ni cualquier otro lugar que el Señor nuestro Dios haya puesto fuera de los límites.
+^a^[**2:34** “Los separamos para su destrucción”: un término especial que describía una dedicación al Señor, indicando que lo prometido debía ser entregado al Señor y no retenido.] 
 
 # 3 
 ^1^ Salimos y subimos por la carretera hacia Basán. Entonces Og, el rey de Basán, y todo su ejército salieron a luchar contra nosotros en Edrei. ^2^ Pero el Señor me dijo: “No le tengas miedo, porque te lo he entregado, junto con todo su pueblo y su tierra. Trata con él como lo hiciste con Sehón, rey de los amorreos, que gobernó en Hesbón”. 
@@ -90,12 +87,11 @@
 
 ^8^ Así que en resumen, en ese momento tomamos de los dos reyes amorreos la tierra al Este del Jordán, desde el valle de Arnón hasta el Monte Hermón. ^9^ (El Monte Hermón es llamado Sirión por los sidonios y Senir por los amorreos.) ^10^ El área incluía todas las ciudades de la llanura, todo Galaad y todo Basán, hasta e incluyendo las ciudades de Salcá y Edrei, en el reino de Og. ^11^ (Sólo Og, rey de Basán, quedó de la raza de los Refaim. Tenía una cama de hierro de nueve codos de largo y cuatro de ancho. Todavía está en la ciudad amonita de Rabá). 
 
-^12^ Fue entonces cuando nos hicimos cargo de la tierra. Asigné a las tribus de Rubén y Gad la tierra al norte del pueblo de Aroer en el valle del Arnón, y la mitad de la región montañosa de Galaad, junto con sus pueblos. ^13^ Asigné a la media tribu de Manasés el resto de Galaad, y todo Basán, el reino de Og. (Toda la región de Argob, todo el territorio de Basán, se llamaba antiguamente la tierra de los Refaim). ^14^ Jair, descendiente de Manasés, se apoderó de toda la región de Argob hasta la frontera de los geshuritas y maacathitas y cambió el nombre de Basán por el de Havvoth-jair^^poniéndole su propio nombre, que sigue siendo su nombre hasta el día de hoy. ^15^ Asigné el resto de^^Galaad to the descendants of Maquir, ^16^ mientras que yo asigné a las tribus de Rubén y Gad el área desde Galaad hasta el Valle de Arnón, siendo la línea fronteriza el centro del valle, hasta el río Jaboc en la frontera amonita. ^17^ El río Jordán en la Arabá lo bordeaba por el Oeste, desde el Mar de Galilea hasta el Mar de la Arabá (el Mar Muerto). Al Este se encontraban las laderas de la cordillera del Pisga. 
-^[**3:14** “Havvoth-jair” quiere decir: “las ciudades de Jair.”]
-^[**3:15** “El resto de”: añadido para mayor claridad.]
+^12^ Fue entonces cuando nos hicimos cargo de la tierra. Asigné a las tribus de Rubén y Gad la tierra al norte del pueblo de Aroer en el valle del Arnón, y la mitad de la región montañosa de Galaad, junto con sus pueblos. ^13^ Asigné a la media tribu de Manasés el resto de Galaad, y todo Basán, el reino de Og. (Toda la región de Argob, todo el territorio de Basán, se llamaba antiguamente la tierra de los Refaim). ^14^ Jair, descendiente de Manasés, se apoderó de toda la región de Argob hasta la frontera de los geshuritas y maacathitas y cambió el nombre de Basán por el de Havvoth-jair^a^ poniéndole su propio nombre, que sigue siendo su nombre hasta el día de hoy. ^15^ Asigné el resto de^b^ Galaad to the descendants of Maquir, ^16^ mientras que yo asigné a las tribus de Rubén y Gad el área desde Galaad hasta el Valle de Arnón, siendo la línea fronteriza el centro del valle, hasta el río Jaboc en la frontera amonita. ^17^ El río Jordán en la Arabá lo bordeaba por el Oeste, desde el Mar de Galilea hasta el Mar de la Arabá (el Mar Muerto). Al Este se encontraban las laderas de la cordillera del Pisga. 
+^a^[**3:14** “Havvoth-jair” quiere decir: “las ciudades de Jair.”] ^b^[**3:15** “El resto de”: añadido para mayor claridad.]
 
-^18^ Fue entonces cuando te^^ di estas instrucciones: “El Señor tu Dios te ha dado este país como tuyo para que lo poseas. Todos tus guerreros deben cruzar, listos para la batalla, guiando a tus compañeros israelitas. ^19^ Sin embargo, tus mujeres, tus hijos y tus ganados (sé que tienes mucho ganado) pueden quedarse en las ciudades que les he dado, ^20^ hasta que el Señor le dé la victoria a sus hermanos israelitas y tengan paz, como la tienen ustedes, después de apoderarse de la tierra que el Señor les da al otro lado del Jordán. Entonces todos podrán volver a la tierra que les he dado para que la posean”. 
-^[**3:18** Refiriéndose a las tribus de Rubén, Gad y la mitad de la tribu de Manasés.]
+^18^ Fue entonces cuando te^a^ di estas instrucciones: “El Señor tu Dios te ha dado este país como tuyo para que lo poseas. Todos tus guerreros deben cruzar, listos para la batalla, guiando a tus compañeros israelitas. ^19^ Sin embargo, tus mujeres, tus hijos y tus ganados (sé que tienes mucho ganado) pueden quedarse en las ciudades que les he dado, ^20^ hasta que el Señor le dé la victoria a sus hermanos israelitas y tengan paz, como la tienen ustedes, después de apoderarse de la tierra que el Señor les da al otro lado del Jordán. Entonces todos podrán volver a la tierra que les he dado para que la posean”. 
+^a^[**3:18** Refiriéndose a las tribus de Rubén, Gad y la mitad de la tribu de Manasés.]
 
 ^21^ Esta fue la vez que le ordené a Josué: “Has visto con tus propios ojos todo lo que el Señor tu Dios hizo a estos dos reyes. El Señor hará lo mismo con todos los reinos a los que vas. ^22^ No tengas miedo de ellos, porque el Señor tu Dios mismo estará luchando a tu lado.” 
 
@@ -110,8 +106,8 @@
 
 ^5^ Escuchen, yo les he enseñado los preceptos y normas tal y como el Señor mi Dios me ordenó, para que puedan seguirlos en el país al que van a entrar y poseer. ^6^ segúrense de observarlas, porque esto demostrará su sabiduría e inteligencia a los otros pueblos que viven allí y que las están observando. Ellos se enterarán de todas estas reglas y dirán:“La gente de esta gran nación es muy sabia y tienen inteligencia.” ^7^ ¿Qué nación es tan grande como nosotros, teniendo un dios tan cerca de ellos como el Señor nuestro Dios es para nosotros cada vez que lo invocamos? ^8^ ¿Qué nación es tan grande como nosotros, teniendo tan buenas reglas y normas como todas estas leyes que estoy poniendo ante ustedes hoy? 
 
-^9^ Sólo asegúrate de ser muy cuidadosos, y realmente cuidar lo que hacen, para que no olviden las cosas que han visto. Téngalas en cuenta mientras vivan. Enséñenselas a sus hijos y nietos. ^10^ Aquel día en que estuvieron en la presencia del Señor su Dios en Horeb,^^ el Señor me dijo: “Que el pueblo venga a mí y escuche lo que tengo que decirles, para que aprendan a respetarme a lo largo de sus vidas aquí en la tierra, y para que le enseñen esto a sus hijos”. 
-^[**4:10** “Horeb”: another name for Mount Sinai.]
+^9^ Sólo asegúrate de ser muy cuidadosos, y realmente cuidar lo que hacen, para que no olviden las cosas que han visto. Téngalas en cuenta mientras vivan. Enséñenselas a sus hijos y nietos. ^10^ Aquel día en que estuvieron en la presencia del Señor su Dios en Horeb,^a^ el Señor me dijo: “Que el pueblo venga a mí y escuche lo que tengo que decirles, para que aprendan a respetarme a lo largo de sus vidas aquí en la tierra, y para que le enseñen esto a sus hijos”. 
+^a^[**4:10** “Horeb”: another name for Mount Sinai.]
 
 ^11^ Se reunieron y se pararon al pie de la montaña. La montaña estaba ardiendo, lanzando llamas al cielo y produciendo gruesas y oscuras nubes. ^12^ El Señor les habló desde el fuego. Escucharon las palabras, pero no vieron la forma en que nadie hablaba, sólo había una voz. ^13^ es explicó su pacto, los Diez Mandamientos, que les ordenó seguir. Los escribió en dos tablas de piedra. ^14^ Este fue el momento en que el Señor me ordenó que les enseñara las normas y preceptos que deben seguir cuando lleguen al país que vas a poseer una vez que hayan cruzado el Jordán. 
 
@@ -127,12 +123,12 @@
 
 ^41^ Entonces Moisés asignó tres pueblos santuarios al este del Jordán ^42^ a los que una persona podía acudir corriendo después de matar accidentalmente a alguien sin odio deliberado. Para salvar su vida podían correr a uno de estos pueblos: ^43^ Bezer en la llanura del desierto perteneciente a la tribu de Rubén; Ramot en Galaad, perteneciente a la tribu de Gad, o Golán en Basán perteneciente a la tribu de Manasés. 
 
-^44^ Esta es la ley que Moisés puso ante los israelitas. ^45^ Estas son las leyes, reglas y normas que Moisés les dio después de que salieran de Egipto. ^46^ Esto fue cuando estaban en el valle al este del Jordán cerca de Beth-peor en el país de Sehón rey de los amorreos. Él había gobernado desde Hesbón y había sido derrotado por Moisés y los israelitas después de que habían salido de Egipto. ^47^ Se apoderaron de su país y del país de Og, rey de Basán. (Eran los dos reyes de los amorreos que anteriormente gobernaban en el lado este del Jordán.) ^48^ El territorio iba desde la ciudad de Aroer, en el borde del valle del Arnón, hasta el Monte Sirion,^^ también conocido como el Monte Hermón, ^49^ e incluía toda la Arabá al este del Jordán hasta el Mar Muerto, junto a las laderas del Monte Pisga.
-^[**4:48** “Sirión,” aquí es “Sión,” pero vea 3:9. ] 
+^44^ Esta es la ley que Moisés puso ante los israelitas. ^45^ Estas son las leyes, reglas y normas que Moisés les dio después de que salieran de Egipto. ^46^ Esto fue cuando estaban en el valle al este del Jordán cerca de Beth-peor en el país de Sehón rey de los amorreos. Él había gobernado desde Hesbón y había sido derrotado por Moisés y los israelitas después de que habían salido de Egipto. ^47^ Se apoderaron de su país y del país de Og, rey de Basán. (Eran los dos reyes de los amorreos que anteriormente gobernaban en el lado este del Jordán.) ^48^ El territorio iba desde la ciudad de Aroer, en el borde del valle del Arnón, hasta el Monte Sirion,^a^ también conocido como el Monte Hermón, ^49^ e incluía toda la Arabá al este del Jordán hasta el Mar Muerto, junto a las laderas del Monte Pisga.
+^a^[**4:48** “Sirión,” aquí es “Sión,” pero vea 3:9. ] 
 
 # 5 
-^1^ Entonces Moisés convocó a todos los israelitas y les dijo:^^Escuchen, pueblo de Israel, las reglas y preceptos que les doy hoy. Apréndanlas y asegúrense de seguirlas cuidadosamente. ^2^ Recuerden que el Señor nuestro Dios hizo un acuerdo con nosotros en Horeb. 
-^[**5:1** Ver 1:6.]
+^1^ Entonces Moisés convocó a todos los israelitas y les dijo:^a^ Escuchen, pueblo de Israel, las reglas y preceptos que les doy hoy. Apréndanlas y asegúrense de seguirlas cuidadosamente. ^2^ Recuerden que el Señor nuestro Dios hizo un acuerdo con nosotros en Horeb. 
+^a^[**5:1** Ver 1:6.]
 
 ^3^ No hizo este acuerdo con nuestros padres, sino con nosotros, todos los que aún viven hoy. ^4^ El Señor habló con ustedes de persona a persona desde el fuego de la montaña. 
 
@@ -167,13 +163,13 @@
 # 6 
 ^1^ Estos son los mandamientos y ordenanzas que el Señor su Dios me ha pedidoque les enseñe a seguir en el país que van a entrar y ocupar. ^2^ Esto es para que tú y tus hijos y nietos muestren respeto al Señor tu Dios a lo largo de sus vidas guardando todas sus reglas y preceptos que yo te doy, y para que tengas una larga vida. 
 
-^3^ Escucha, pueblo de Israel, y está atento a observarlas, para que les vaya bien y tengan mucha descendencia en una tierra que fluye leche y miel, tal como se los prometió el Señor, el Dios de sus antepasados. ^4^ Escucha, pueblo de Israel, el Señor nuestro Dios, el Señor es el único.^^ ^5^ Amarás al Señor tu Dios con toda tu mente, con todo tu ser y con todas tus fuerzas. ^6^ Las órdenes que les doy hoy deben permanecer en sus mentes. ^7^ Deberán explicarlas cuidadosamente a sus hijos y hablar de ellas cuando estén en casa y al viajar, cuando se acuesten y cuando se levanten. ^8^ Amárrenlas en sus manos como recordatorio y pónganlas también en sus frentes. ^9^ Escríbanlas en los postes de sus casas y en sus puertas. 
-^[**6:4** “Es el único”: o “is uno.”]
+^3^ Escucha, pueblo de Israel, y está atento a observarlas, para que les vaya bien y tengan mucha descendencia en una tierra que fluye leche y miel, tal como se los prometió el Señor, el Dios de sus antepasados. ^4^ Escucha, pueblo de Israel, el Señor nuestro Dios, el Señor es el único.^a^ ^5^ Amarás al Señor tu Dios con toda tu mente, con todo tu ser y con todas tus fuerzas. ^6^ Las órdenes que les doy hoy deben permanecer en sus mentes. ^7^ Deberán explicarlas cuidadosamente a sus hijos y hablar de ellas cuando estén en casa y al viajar, cuando se acuesten y cuando se levanten. ^8^ Amárrenlas en sus manos como recordatorio y pónganlas también en sus frentes. ^9^ Escríbanlas en los postes de sus casas y en sus puertas. 
+^a^[**6:4** “Es el único”: o “is uno.”]
 
 ^10^ El Señor tu Dios te llevará al país que prometió darte a ti y a tus antepasados, Abraham, Isaac y Jacob. Es un país con grandes y prósperas ciudades que no construiste, ^11^ con casas llenas de muchas cosas buenas que no proporcionaste, que tienen pozos que no cavaste, y viñedos y olivares que no plantaste. Cuando comas y estés lleno ^12^ asegúrate de no olvidartedel Señor que te sacó de Egipto, de la prisión de la esclavitud. 
 
-^13^ Respeta al Señor tu Dios, adórale sólo a él, y haz sólo promesas en su nombre. ^14^ No adores a ningún otro dios, ni a los dioses de los pueblos que te rodean, ^15^ porque el Señor tu Dios, que vive entre ustedes, es un Dios exclusivo, y el Señor tu Dios se enfadará contigo y te aniquilará. ^16^ No pongas a prueba al Señor tu Dios como lo hiciste en Massa.^^ ^17^ Debes tener cuidado de guardar los mandamientos del Señor tu Dios y las leyes y reglas que te ha dado. 
-^[**6:16** Ver Éxodo 17:7.]
+^13^ Respeta al Señor tu Dios, adórale sólo a él, y haz sólo promesas en su nombre. ^14^ No adores a ningún otro dios, ni a los dioses de los pueblos que te rodean, ^15^ porque el Señor tu Dios, que vive entre ustedes, es un Dios exclusivo, y el Señor tu Dios se enfadará contigo y te aniquilará. ^16^ No pongas a prueba al Señor tu Dios como lo hiciste en Massa.^a^ ^17^ Debes tener cuidado de guardar los mandamientos del Señor tu Dios y las leyes y reglas que te ha dado. 
+^a^[**6:16** Ver Éxodo 17:7.]
 
 ^18^ Haz lo que es bueno y correcto ante los ojos del Señor para que te vaya bien y puedas entrar y apoderarte de la buena tierra que el Señor tu Dios prometió dar a tus antepasados, ^19^ Él expulsará a todos tus enemigos delante de ti, tal como dijo. 
 
@@ -182,8 +178,8 @@
 # 7 
 ^1^ El Señor tu Dios te va a conducir a la tierra que estás tomando para poseerla, y expulsará delante de ti a muchas otras naciones: los hititas, los gergeseos, los amorreos, los cananeos, los ferezeos, los heveos y los jebuseos, siete naciones que son más grandes y fuertes que tú. 
 
-^2^ Cuando el Señor tu Dios te los entregue para que los derrotes, entonces debes apartarlos para la destrucción.^^No hagas ningún tratado de paz con ellos y no les muestres ninguna piedad. ^3^ No te cases con ellos. No dejes que tus hijas se casen con sus hijos o que sus hijas se casen con tus hijos, ^4^ porque alejarán a tus hijos de mi, para que vayan a adorar a otros dioses. Entonces el Señor se enfadará contigo y vendrá rápidamente a matarte. 
-^[**7:2** Ver nota al pie correspondiente a 2:34.]
+^2^ Cuando el Señor tu Dios te los entregue para que los derrotes, entonces debes apartarlos para la destrucción.^a^ No hagas ningún tratado de paz con ellos y no les muestres ninguna piedad. ^3^ No te cases con ellos. No dejes que tus hijas se casen con sus hijos o que sus hijas se casen con tus hijos, ^4^ porque alejarán a tus hijos de mi, para que vayan a adorar a otros dioses. Entonces el Señor se enfadará contigo y vendrá rápidamente a matarte. 
+^a^[**7:2** Ver nota al pie correspondiente a 2:34.]
 
 ^5^ Por el contrario, esto es lo que debes hacer con ellos: derribar sus altares, derribar sus pilares idólatras, cortar sus postes de Asera y quemar sus ídolos. ^6^ Porque tú eres el Señor, el pueblo santo de tu Dios. El Señor tu Dios te ha elegido para ser su propio pueblo especial, valorado por encima de todos los demás pueblos de la tierra. ^7^ No fue por ser numerosos que el Señor los amó más que a cualquier otra nación; de hecho, los eligió a pesar de ser tan pocos. 
 
@@ -195,9 +191,8 @@
 
 ^16^ Destruirás todas las naciones que el Señor tu Dios te entregue. No las mires con simpatía. No adores a sus dioses, porque eso terminará siendo una trampa para ti. ^17^ Podrán pensar: “Estas naciones son más fuertes que nosotros. ¿Cómo podemos expulsarlas?” ^18^ Pero no les tengan miedo. Asegúrense de recordar lo que el Señor su Dios hizo con el Faraón y con todo Egipto: ^19^ las pruebas asombrosas de las que fueron testigos, las señales y los milagros, el gran poder y la increíble fuerza que el Señor su Dios utilizó para sacarlos de allí. El Señor tu Dios hará lo mismo con todas las naciones que actualmente temes. 
 
-^20^ Además de esto, el Señor tu Dios enviará el avispón^^contra ellos hasta que cualquiera que haya sobrevivido y cualquiera que se esconda de ti haya sido asesinado. ^21^ No tengas miedo de estas naciones, porque el Señor tu Dios, que está contigo, es un Dios poderoso y asombroso. ^22^ El Señor tu Dios expulsará a estas naciones delante de ti por etapas. No podrás deshacerte de todas ellas al mismo tiempo, o te verías abrumado por los animales salvajes.^^ ^23^ Pero el Señor tu Dios te los entregará y los arrojará en un terrible pánico, hasta que sean aniquilados. ^24^ Él te dará sus reyes derrotados para que los mates, e incluso sus nombres serán olvidados. Nadie podrá resistirse a ti; los destruirás completamente. 
-^[**7:20** Ver nota al pie correspondiente a Josué 24:12,]
-^[**7:22** Ver Éxodo 23:29. ]
+^20^ Además de esto, el Señor tu Dios enviará el avispón^a^ contra ellos hasta que cualquiera que haya sobrevivido y cualquiera que se esconda de ti haya sido asesinado. ^21^ No tengas miedo de estas naciones, porque el Señor tu Dios, que está contigo, es un Dios poderoso y asombroso. ^22^ El Señor tu Dios expulsará a estas naciones delante de ti por etapas. No podrás deshacerte de todas ellas al mismo tiempo, o te verías abrumado por los animales salvajes.^b^ ^23^ Pero el Señor tu Dios te los entregará y los arrojará en un terrible pánico, hasta que sean aniquilados. ^24^ Él te dará sus reyes derrotados para que los mates, e incluso sus nombres serán olvidados. Nadie podrá resistirse a ti; los destruirás completamente. 
+^a^[**7:20** Ver nota al pie correspondiente a Josué 24:12,] ^b^[**7:22** Ver Éxodo 23:29. ]
 
 ^25^ Debes quemar los ídolos de su dios. No desees la plata y el oro que los cubre. No lo tomes o de lo contrario será una trampa para ti porque el Señor tu Dios detesta todo lo que tenga que ver con los ídolos. ^26^ No traigas ningún ídolo detestable a tu casa, de lo contrario serás tratado como tal, siendo apartado para su destrucción. Debes tratar a los ídolos como totalmente despreciables, y permanecer lejos de ellos, porque son apartados para su destrucción. 
 
@@ -250,8 +245,8 @@ Pero ustedes desafiaron la orden del Señor su Dios. No le creyeron y no le obed
 
 ^10^ Permanecí en la montaña cuarenta días y cuarenta noches como antes, y durante ese tiempo el Señor escuchó mis oraciones una vez más y aceptó no destruirte. ^11^ Entonces el Señor me dijo: “Prepárate y continúa tu viaje guiando al pueblo para que entre y se apodere de la tierra que prometí a sus antepasados que les daría”. 
 
-^12^ Pueblo de Israel, ¿qué quiere el Señor su Dios de ustedes? Quiere que respeten al Señor su Dios siguiendo todos sus caminos. Quiere que lo amen. Quiere que adoren al Señor su Dios con toda su mente y con todo su ser, ^13^ quiere que guarden los mandamientos y preceptos del Señor que yo les doy hoy para su propio bien. ^14^ Miren! Todo pertenece al Señor su Dios: los cielos, los cielos más altos, la tierra y todo lo que está en ellos. ^15^ Pero el Señor sintió gran simpatía por sus antepasados y los amó. También los ha elegido a ustedes, su descendencia, por encima de cualquier otro pueblo, incluso hasta hoy. ^16^ Dedíquense a Dios.^^No sean más tercos ni duros de corazón. 
-^[**10:16** “Dedíquense a Dios” literalmente, “circunciden el prepucio de sus corazones.”]
+^12^ Pueblo de Israel, ¿qué quiere el Señor su Dios de ustedes? Quiere que respeten al Señor su Dios siguiendo todos sus caminos. Quiere que lo amen. Quiere que adoren al Señor su Dios con toda su mente y con todo su ser, ^13^ quiere que guarden los mandamientos y preceptos del Señor que yo les doy hoy para su propio bien. ^14^ Miren! Todo pertenece al Señor su Dios: los cielos, los cielos más altos, la tierra y todo lo que está en ellos. ^15^ Pero el Señor sintió gran simpatía por sus antepasados y los amó. También los ha elegido a ustedes, su descendencia, por encima de cualquier otro pueblo, incluso hasta hoy. ^16^ Dedíquense a Dios.^a^ No sean más tercos ni duros de corazón. 
+^a^[**10:16** “Dedíquense a Dios” literalmente, “circunciden el prepucio de sus corazones.”]
 
 ^17^ Porque el Señor su Dios es Dios de los dioses y Señor de los señores. Él es el gran, poderoso y asombroso Dios. No muestra favoritismo y no acepta sobornos. ^18^ Se asegura de que los huérfanos y las viudas reciban justicia, y ama a los extranjeros, proveyéndolos de comida y ropa. ^19^ También ustedes deben amar al extranjero porque ustedes mismos fueron una vez extranjeros en Egipto. 
 
@@ -305,11 +300,11 @@ Pero ustedes desafiaron la orden del Señor su Dios. No le creyeron y no le obed
 Si se demuestra,sin lugar a duda, que este terrible pecado se ha cometido realmente entre ustedes, ^15^ entonces tienen que matar con espada al pueblo que vive en esa ciudad. Sepáralos para la destrucción, tanto a la gente como a su ganado. ^16^ Deberás amontonar todas las posesiones del pueblo en medio de la plaza pública, y quemar completamente el pueblo y todo lo que hay en él como una completa ofrenda quemada al Señor tu Dios. La ciudad debe permanecer como un montón de ruinas para siempre. Nunca debe ser reconstruida. ^17^ No tomen para ustedes nada de lo que ha sido apartado para la destrucción, para que el Señor no se enfade más. Él será misericordioso con ustedes, mostrándoles compasión y dándoles muchos descendientes como se lo prometió a sus antepasados, ^18^ porque obedecen al Señor su Dios, guardando todos sus mandamientos que yo les doy hoy, y haciendo lo que es correcto ante los ojos del Señor su Dios. 
 
 # 14 
-^1^ Ustedes son los hijos del Señor su Dios. No se mutilen ni se afeiten la frente como hacen los paganos^^cuando lloran a los muertos, ^2^ porque ustedes son un pueblo santo que pertenece al Señor su Dios. El Señor loseligiócomo su pueblo especial entre todas las naciones de la tierra. 
-^[**14:1** “Como hacen los paganos”: añadido para mayor claridad.]
+^1^ Ustedes son los hijos del Señor su Dios. No se mutilen ni se afeiten la frente como hacen los paganos^a^ cuando lloran a los muertos, ^2^ porque ustedes son un pueblo santo que pertenece al Señor su Dios. El Señor loseligiócomo su pueblo especial entre todas las naciones de la tierra. 
+^a^[**14:1** “Como hacen los paganos”: añadido para mayor claridad.]
 
-^3^ No deberán comer nada repulsivo. ^4^ Estos son los animales que podrás comer:^^ganado vacuno, ovejas, cabras, ^5^ ciervos, gacelas, cabras salvajes, antílopes y ovejas de montaña. ^6^ Puedes comer cualquier animal que tenga la pezuña dividida y que también mastique el bolo alimenticio. ^7^ Pero no puedes comer de aquellos que, o bien mastican el bolo alimenticio, o tienen la pezuña dividida. Esto incluye: camellos, conejos y damanes de las rocas. Aunque mastiquen el bolo alimenticio, no tienen la pezuña dividida. Debes tratarlos como inmundos. ^8^ Lo mismo se aplica al cerdo. Aunque tenga una pezuña dividida, no mastica el bolo alimenticio. Así que debes tratarlo como inmundo. No debes comer su carne ni tocar su cuerpo muerto. 
-^[**14:4** Véase también la lista en el Levítico 11. No todos los animales y aves están identificados de manera específica.]
+^3^ No deberán comer nada repulsivo. ^4^ Estos son los animales que podrás comer:^a^ ganado vacuno, ovejas, cabras, ^5^ ciervos, gacelas, cabras salvajes, antílopes y ovejas de montaña. ^6^ Puedes comer cualquier animal que tenga la pezuña dividida y que también mastique el bolo alimenticio. ^7^ Pero no puedes comer de aquellos que, o bien mastican el bolo alimenticio, o tienen la pezuña dividida. Esto incluye: camellos, conejos y damanes de las rocas. Aunque mastiquen el bolo alimenticio, no tienen la pezuña dividida. Debes tratarlos como inmundos. ^8^ Lo mismo se aplica al cerdo. Aunque tenga una pezuña dividida, no mastica el bolo alimenticio. Así que debes tratarlo como inmundo. No debes comer su carne ni tocar su cuerpo muerto. 
+^a^[**14:4** Véase también la lista en el Levítico 11. No todos los animales y aves están identificados de manera específica.]
 
 ^9^ Cuando se trata de criaturas que viven en el agua, se permite comer cualquier cosa que tenga aletas y escamas. ^10^ Pero no debes comer nada que no tenga aletas y escamas. Debes tratarlos como inmundos. ^11^ Está permitido comer cualquier ave limpia. ^12^ Pero no debes comer lo siguiente: águila, buitre leonado, quebrantahuesos, ^13^ ratonero, milanos, cualquier clase de halcón, ^14^ cualquier miembro de la familia de los cuervos, ^15^ cárabo, búho chico, gaviotas, cualquier clase de halcón, ^16^ búho pequeño, búho real, lechuza, ^17^ búho del desierto, buitre egipcio, búho pescador, ^18^ cigüeñas, cualquier clase de garza, abubilla o murciélago. ^19^ Todos los insectos que vuelan son inmundos para ustedes; no deben comerlos. ^20^ Pero podrán comer cualquier animal limpio que tenga alas. ^21^ No deben comer ningún animal que muera. Puedes dárselo a un extranjero en tu ciudad, y ellos pueden comérselo, o puedes venderlo a un extranjero. Tú, sin embargo, eres un pueblo santo que pertenece al Señor tu Dios. No cocines una cabra joven en la leche de su madre. 
 
@@ -328,14 +323,14 @@ Si se demuestra,sin lugar a duda, que este terrible pecado se ha cometido realme
 
 ^12^ Si un hebreo, uno de tu propio pueblo, sea hombre o mujer, se vende a ti como esclavo y trabaja para ti durante seis años, tienes que liberarlo en el séptimo año. ^13^ Y cuando los liberes, no los despidas sin nada. ^14^ Dales muchos regalos: animales de tus rebaños, grano de tu era y vino de tu lagar. Dales tan generosamente como el Señor tu Dios te ha bendecido. ^15^ No olviden que una vez fueron esclavos en Egipto, y el Señor su Dios los liberó. Por eso hoy les doy esta orden. 
 
-^16^ Sin embargo, si tu esclavo varón te dice: “No quiero dejarte”, porque te ama a ti y a tu familia y es mejor que se quede contigo, ^17^ entonces usa una herramienta de metal^^para perforar su oreja contra la puerta, y será tu esclavo de por vida. Haz lo mismo con tu esclava. ^18^ No veas como un problema liberar a tu esclava, porque los seis años de servicio de tu esclava valieron el doble de lo que hubieras pagado por contratar a alguien. El Señor tu Dios te bendecirá en todo lo que hagas por actuar de esta manera. 
-^[**15:17** “Herramienta de metal,” literalmente, “un punzón.”]
+^16^ Sin embargo, si tu esclavo varón te dice: “No quiero dejarte”, porque te ama a ti y a tu familia y es mejor que se quede contigo, ^17^ entonces usa una herramienta de metal^a^ para perforar su oreja contra la puerta, y será tu esclavo de por vida. Haz lo mismo con tu esclava. ^18^ No veas como un problema liberar a tu esclava, porque los seis años de servicio de tu esclava valieron el doble de lo que hubieras pagado por contratar a alguien. El Señor tu Dios te bendecirá en todo lo que hagas por actuar de esta manera. 
+^a^[**15:17** “Herramienta de metal,” literalmente, “un punzón.”]
 
 ^19^ Debes separarte para darle al Señor tu Dios todos los primogénitos de tus rebaños y manadas. No debes hacer trabajar al primogénito de tu ganado, y no esquilar al primogénito de tus ovejas. ^20^ Cada año tú y tu familia comerán estos animales que han sido sacrificados en presencia del Señor tu Dios en el lugar que el Señor elija. ^21^ Sin embargo, si un animal tiene algún defecto o es cojo o ciego, de hecho si tiene algún defecto grave, no debes sacrificarlo al Señor tu Dios. ^22^ Cómanlo en casa. Todos ustedes, tanto si están ceremonialmente limpios como si no, pueden comerlo como si se comieran una gacela o un ciervo, ^23^ pero no comeránla sangre derramada en el suelo. 
 
 # 16 
-^1^ Debes observar el mes de Abib y celebrar la Pascua^^ al Señor tu Dios, porque fue en el mes de Abib que el Señor tu Dios te sacó de Egipto por la noche. 
-^[**16:1** Ver también Éxodo 12:14-28; Levítico 23:4-8; Números 28:16-25.]
+^1^ Debes observar el mes de Abib y celebrar la Pascua^a^ al Señor tu Dios, porque fue en el mes de Abib que el Señor tu Dios te sacó de Egipto por la noche. 
+^a^[**16:1** Ver también Éxodo 12:14-28; Levítico 23:4-8; Números 28:16-25.]
 
 ^2^ El sacrificio de la Pascua de tu rebaño o manada debe ser ofrecido al Señor tu Dios en el lugar que el Señor elija. ^3^ No comas pan ordinario con él. Durante siete días debes comer pan hecho sin levadura con él, el pan de las penurias, porque tuviste que salir de Egipto con tanta prisa. Así recordarán el día en que dejasteis Egipto para el resto de sus vidas. 
 
@@ -358,8 +353,8 @@ Si se demuestra,sin lugar a duda, que este terrible pecado se ha cometido realme
 
 ^8^ Si hay un caso ante el tribunal de su ciudad que sea demasiado problemático para resolverlo ustedes mismos, ya sea que la discusión sea sobre asesinato u homicidio, una decisión legal contra otra, o diferentes grados de asalto, debentraer el asunto al lugar que el Señor su Dios elija. ^9^ Acudan a los sacerdotes, a los levitas y al juez encargado. Preséntenles el caso y ellos te darán su decisión. ^10^ Deben acatar la decisión que les den allí, en el lugar que el Señor elija. Asegúrense de hacer todo lo queles digan, ^11^ de acuerdo con las instrucciones legales que les den y con el veredicto que dicten. No te desvíes de tal decisión. ^12^ Todo aquel que trate con desprecio al sacerdote (que ministra ante el Señor su Dios) o al juez, debe ser ejecutado. Debes eliminar este mal de Israel. ^13^ Entonces todos los demás se enterarán y tendrán miedo, y no actuarán con desprecio en el futuro. 
 
-^14^ Una vez que hayas entrado en la tierra que el Señor tu Dios te da, y la hayas tomado y te hayas establecido en ella, y decidas: “Tengamos un rey que nos gobierne como lo hacen todas las demás naciones que nos rodean”, ^15^ puedes tener un rey pero sólo uno elegido por el Señor tu Dios. Debe ser un israelita. No debes tener un rey que sea extranjero, alguien que no sea israelita. ^16^ Tu rey no debe tener grandes cantidades de caballos,^^ni enviar a sus hombres a Egipto para comprar más caballos, porque el Señor ha declarado: “No debes volver allí nunca más”. ^17^ No debe tener muchas esposas, para que no lo alejen de seguir al Señor. No debe tener grandes cantidades de plata y oro. ^18^ Una vez que sea rey y se siente en su trono real, debe hacer una copia para sí mismo de estas instrucciones, escribiéndolas en un pergamino en presencia de los sacerdotes levitas. ^19^ Debe guardarlo con él, y debe leerlo cada día durante toda su vida, para que aprenda a respetar al Señor su Dios, teniendo cuidado de seguir cada palabra de estas instrucciones y normas. ^20^ Entonces no pensará más en sí mismo que en sus compatriotas israelitas, y no se desviará de los mandamientos, para que él y sus hijos puedan tener un largo reinado sobre el reino de Israel.
-^[**17:16** Los caballos se usaban para proporcionar al rey la caballería necesaria para luchar en las batallas.] 
+^14^ Una vez que hayas entrado en la tierra que el Señor tu Dios te da, y la hayas tomado y te hayas establecido en ella, y decidas: “Tengamos un rey que nos gobierne como lo hacen todas las demás naciones que nos rodean”, ^15^ puedes tener un rey pero sólo uno elegido por el Señor tu Dios. Debe ser un israelita. No debes tener un rey que sea extranjero, alguien que no sea israelita. ^16^ Tu rey no debe tener grandes cantidades de caballos,^a^ ni enviar a sus hombres a Egipto para comprar más caballos, porque el Señor ha declarado: “No debes volver allí nunca más”. ^17^ No debe tener muchas esposas, para que no lo alejen de seguir al Señor. No debe tener grandes cantidades de plata y oro. ^18^ Una vez que sea rey y se siente en su trono real, debe hacer una copia para sí mismo de estas instrucciones, escribiéndolas en un pergamino en presencia de los sacerdotes levitas. ^19^ Debe guardarlo con él, y debe leerlo cada día durante toda su vida, para que aprenda a respetar al Señor su Dios, teniendo cuidado de seguir cada palabra de estas instrucciones y normas. ^20^ Entonces no pensará más en sí mismo que en sus compatriotas israelitas, y no se desviará de los mandamientos, para que él y sus hijos puedan tener un largo reinado sobre el reino de Israel.
+^a^[**17:16** Los caballos se usaban para proporcionar al rey la caballería necesaria para luchar en las batallas.] 
 
 # 18 
 ^1^ Los sacerdotes levitas, de hecho toda la tribu de Leví, no tendrán una participación en la asignación de tierras con los otros israelitas. Deben comer de las ofrendas de comida presentadas al Señor, que es lo que tienen derecho a recibir. ^2^ Aunque no son dueños de tierras entre las otras tribus, el Señor cuida de ellos, como lo prometió. 
@@ -377,8 +372,8 @@ Si se demuestra,sin lugar a duda, que este terrible pecado se ha cometido realme
 # 19 
 ^1^ Después de que el Señor tu Dios haya destruido las naciones cuya tierra te da, y después de que las hayas expulsado y te hayas establecido en sus ciudades y casas, ^2^ entonces debes elegir tres pueblos santuarios en el país que el Señor tu Dios te da como posesión. ^3^ Debes construir caminos a estas ciudades. Divide el país en tres secciones. De esta manera, cualquiera que mate a alguien más puede fácilmente correr a estos pueblos para protegerse. 
 
-^4^ Esto es lo que sucederá cuando una persona mate accidentalmente a alguien sin quererlo y corra a uno de estos pueblos santuarios para salvar su vida. ^5^ Por ejemplo, si un hombre va a cortar madera en el bosque con su amigo y balancea su hacha para cortar un árbol, pero la cabeza se sale del mango y golpea y mata a su amigo, puede correr a uno de estos pueblos para salvar su vida. ^6^ De lo contrario, el vengador^^ en su ira podría perseguir al hombre y atraparlo y matarlo. El hombre sería asesinado, aunque no mereciera morir, porque lo hizo sin intención de causar daño alguno. 
-^[**19:6** Ver números 35:19.]
+^4^ Esto es lo que sucederá cuando una persona mate accidentalmente a alguien sin quererlo y corra a uno de estos pueblos santuarios para salvar su vida. ^5^ Por ejemplo, si un hombre va a cortar madera en el bosque con su amigo y balancea su hacha para cortar un árbol, pero la cabeza se sale del mango y golpea y mata a su amigo, puede correr a uno de estos pueblos para salvar su vida. ^6^ De lo contrario, el vengador^a^ en su ira podría perseguir al hombre y atraparlo y matarlo. El hombre sería asesinado, aunque no mereciera morir, porque lo hizo sin intención de causar daño alguno. 
+^a^[**19:6** Ver números 35:19.]
 
 ^7^ Esta es la razón por la que doy esta orden de elegir tres ciudades santuario. ^8^ Si el Señor tu Dios expande tu territorio, como prometió a tus antepasados, y te da toda la tierra que te prometió, ^9^ y si te preocupas por cumplir todos estos mandamientos que te doy hoy, amando al Señor tu Dios y siguiendo siempre sus caminos, entonces debes elegir tres ciudades santuario adicionales. ^10^ De esta manera, la sangre de los inocentes no será derramada en el país que el Señor tu Dios te da para que lo poseas y no serás responsable de la muerte de los inocentes que no son culpables de perder sus vidas. 
 
@@ -391,8 +386,8 @@ Si se demuestra,sin lugar a duda, que este terrible pecado se ha cometido realme
 # 20 
 ^1^ Cuando vayas a la guerra con tus enemigos y veas caballos y carros, y un ejército más grande que el tuyo, no les tengas miedo, porque el Señor tu Dios que te sacó de Egipto está contigo. ^2^ Antes de ir a la batalla, el sacerdote vendrá y hablará con el ejército. ^3^ Les dirá: “¡Escuchen, hombres de Israel! Hoy van a luchar contra sus enemigos. No se pongan nerviosos ni tengan miedo; no se dejen llevar por el pánico ni tengan temor de ellos. ^4^ Porque el Señor su Dios va con ustedes y luchará por ustedes contra sus enemigos, y les dará la victoria”. 
 
-^5^ Los oficiales también hablarán al ejército y les dirán: “¿Hay alguien aquí que haya construido una casa nueva y no la haya dedicado al Señor?^^Puede irse a casa, de lo contrario podría morir en la batalla y otro hombre se lo dedicará. ^6^ ¿Hay algún hombre aquí que haya plantado un viñedo y aún no haya disfrutado de su fruto? Puede irse a casa, de lo contrario podría morir en la batalla y otro hombre disfrutaría de su fruto. ^7^ ¿Hay algún hombre aquí que esté comprometido con una mujer y no se haya casado con ella? Puede irse a casa, de lo contrario podría morir en la batalla y otro hombre se casaría con ella”. 
-^[**20:5** “Al Señor”: implícito.]
+^5^ Los oficiales también hablarán al ejército y les dirán: “¿Hay alguien aquí que haya construido una casa nueva y no la haya dedicado al Señor?^a^ Puede irse a casa, de lo contrario podría morir en la batalla y otro hombre se lo dedicará. ^6^ ¿Hay algún hombre aquí que haya plantado un viñedo y aún no haya disfrutado de su fruto? Puede irse a casa, de lo contrario podría morir en la batalla y otro hombre disfrutaría de su fruto. ^7^ ¿Hay algún hombre aquí que esté comprometido con una mujer y no se haya casado con ella? Puede irse a casa, de lo contrario podría morir en la batalla y otro hombre se casaría con ella”. 
+^a^[**20:5** “Al Señor”: implícito.]
 
 ^8^ Los oficiales también deben decir al ejército: “¿Hay algún hombre aquí que tenga miedo o esté nervioso? Puede irse a casa, así no afectará a sus compañeros y los asustará tanto como a él mismo.” 
 
@@ -417,8 +412,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 
 ^15^ Si un hombre tiene dos esposas, una que ama y otra que no, y ambas tienen hijos a su cargo, pero el hijo primogénito es de la esposa que no ama, ^16^ cuando llegue el momento de que el hombre decida lo que cada hijo heredará de él, no debe preferir al hijo de la esposa que ama y tratarlo como primogénito en lugar del hijo de la esposa que no ama. 
 
-^17^ ino que debe reconocer al primogénito, el hijo de la esposa que no ama por medio de la costumbre habitual de^^darle una doble porción de todo lo que posee. El hijo primogénito es la primicia de la fuerza de su padre, y por lo tanto los derechos del primogénito son suyos. 
-^[**21:17** “Por medio de la costumbre habitual de”: añadido para mayor claridad.]
+^17^ ino que debe reconocer al primogénito, el hijo de la esposa que no ama por medio de la costumbre habitual de^a^ darle una doble porción de todo lo que posee. El hijo primogénito es la primicia de la fuerza de su padre, y por lo tanto los derechos del primogénito son suyos. 
+^a^[**21:17** “Por medio de la costumbre habitual de”: añadido para mayor claridad.]
 
 ^18^ Si alguien tiene un hijo obstinado y rebelde que no obedece a sus padres y no les obedece ni siquiera cuando está castigado, ^19^ sus padres deben llevarlo a los ancianos del pueblo, al tribunal de su ciudad natal, ^20^ y decirles: “Nuestro hijo es obstinado y rebelde, no nos obedece. ¡Es un borracho inútil!” ^21^ Entonces todos los hombres de su pueblo lo apedrearán hasta la muerte. Deben eliminar el mal de entre ustedes, y todo israelita se enterará y tendrá miedo. 
 
@@ -433,8 +428,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 
 ^8^ Cuando construyas una casa nueva, asegúrate de instalar una barandilla alrededor del techo, para que no te culpen si alguien muere al caer de él. 
 
-^9^ No plantestu viñedo con otro tipo de cultivo. De lo contrario, todo lo que produzcas, la cosecha que hayas plantado y el fruto de tu viñedo, deben ser dedicados al Señor.^^ 
-^[**22:9** “Al Señor”: añadido para mayor claridad.]
+^9^ No plantestu viñedo con otro tipo de cultivo. De lo contrario, todo lo que produzcas, la cosecha que hayas plantado y el fruto de tu viñedo, deben ser dedicados al Señor.^a^ 
+^a^[**22:9** “Al Señor”: añadido para mayor claridad.]
 
 ^10^ No se debe unir un buey y un burro cuando se ara. 
 
@@ -446,8 +441,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 
 ^15^ Los padres de la mujer llevarán la prueba de su virginidad a los ancianos a la puerta del pueblo, ^16^ y el padre les explicará: “Di mi hija en matrimonio a este hombre, pero él ha acabado odiándola. ^17^ Ahora la ha acusado de ser inmoral, diciendo: “Descubrí que su hija no era virgen”. Pero aquí está la prueba de su virginidad”. Los padres extenderán la sábana delante de los ancianos del pueblo. 
 
-^18^ Entonces los ancianos de esa ciudad tomarán al hombre y lo castigarán^^. ^19^ También le multarán con cien siclos de plata y le darán el dinero al padre de la joven, porque este hombre ha dado un mal nombre a una virgen israelita. Ella seguirá siendo su esposa; no se le permite divorciarse de ella mientras viva. 
-^[**22:18** Probablemente por medio de azotes en público.]
+^18^ Entonces los ancianos de esa ciudad tomarán al hombre y lo castigarán^a^ . ^19^ También le multarán con cien siclos de plata y le darán el dinero al padre de la joven, porque este hombre ha dado un mal nombre a una virgen israelita. Ella seguirá siendo su esposa; no se le permite divorciarse de ella mientras viva. 
+^a^[**22:18** Probablemente por medio de azotes en público.]
 
 ^20^ Pero si la acusación es cierta y no hay pruebas de la virginidad de la mujer, ^21^ ésta será llevada a la puerta de la casa de su padre y allí los hombres de su pueblo la apedrearán hasta matarla. Ella ha hecho algo vergonzoso en Israel al actuar inmoralmente en la casa de su padre. Deben eliminar el mal de entre ustedes. 
 
@@ -462,8 +457,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 # 23 
 ^1^ Ningún hombre cuyos genitales hayan sido dañados o cortados puede entrar en el santuario del Señor. 
 
-^2^ A nadie de raza mixta^^ se le permite entrar en el santuario del Señor, y ninguno de sus descendientes puede hacerlo tampoco, hasta la décima generación. 
-^[**23:2** “Raza mixta”: Esta palabra solo se usa aquí y en Zacarías 9:6, y su significado no está claro. Algunos la toman como “ilegítimo” y otros como “nacido del incesto”.]
+^2^ A nadie de raza mixta^a^ se le permite entrar en el santuario del Señor, y ninguno de sus descendientes puede hacerlo tampoco, hasta la décima generación. 
+^a^[**23:2** “Raza mixta”: Esta palabra solo se usa aquí y en Zacarías 9:6, y su significado no está claro. Algunos la toman como “ilegítimo” y otros como “nacido del incesto”.]
 
 ^3^ Ningún amonita o moabita o cualquiera de sus descendientes puede entrar en el santuario del Señor, hasta la décima generación. ^4^ Porque no vinieron a recibiros con comida y agua en su viaje desde Egipto, y contrataron a Balaam, hijo de Beor, de Petor en Mesopotamia, para maldeciros. ^5^ Pero el Señor tu Dios se negó a escuchar a Balaam. El Señor tu Dios convirtió lo que debía ser una maldición en una bendición para ti porque el Señor tu Dios te ama. ^6^ No organices un tratado de paz con ellos ni les ayudes mientras vivas. 
 
@@ -475,8 +470,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 
 ^15^ No envíes a un esclavo de vuelta a su amo si ha venido a ti en busca de protección. ^16^ Deja que el esclavo viva en tu país donde quiera, en el pueblo que quiera. No lo maltrates. 
 
-^17^ Ninguna mujer ni hombre israelita debe ser una prostituta de culto. ^18^ No traigas a la casa del Señor tu Dios ningún dinero de una prostituta, ya sea mujer u hombre,^^ con el fin de cumplir una promesa al Señor, porque ambos son ofensivos para el Señor tu Dios. 
-^[**23:18** “Hombre”: el hebreo utiliza el término despectivo “perro.”]
+^17^ Ninguna mujer ni hombre israelita debe ser una prostituta de culto. ^18^ No traigas a la casa del Señor tu Dios ningún dinero de una prostituta, ya sea mujer u hombre,^a^ con el fin de cumplir una promesa al Señor, porque ambos son ofensivos para el Señor tu Dios. 
+^a^[**23:18** “Hombre”: el hebreo utiliza el término despectivo “perro.”]
 
 ^19^ No le cobres a un compañero israelita intereses por dinero, comida o cualquier otro tipo de préstamo. ^20^ Puedes cobrarle intereses a un extranjero, pero no a un israelita, para que el Señor tu Dios te bendiga en todo lo que hagas en el país que vas a ocupar. 
 
@@ -487,22 +482,22 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 ^25^ Cuando camines por el campo de tu prójimo, podrás recoger las espigas con tu mano, pero no debes usar una hoz para cosecharlas. 
 
 # 24 
-^1^ Si un hombre se casa con una mujer, pero no está contento con ella porque descubre algo vergonzoso^^ sobre ella, se le permite escribir un certificado de divorcio para ella, dárselo, y enviarla fuera de su casa. 
-^[**24:1** “Vergonzoso”: la palabra significa “desnudez” o “genitales”. Es probable que esté relacionado con el sexo.]
+^1^ Si un hombre se casa con una mujer, pero no está contento con ella porque descubre algo vergonzoso^a^ sobre ella, se le permite escribir un certificado de divorcio para ella, dárselo, y enviarla fuera de su casa. 
+^a^[**24:1** “Vergonzoso”: la palabra significa “desnudez” o “genitales”. Es probable que esté relacionado con el sexo.]
 
 ^2^ Supongamos que después de salir de su casa, se casa con otro hombre, ^3^ y supongamos que el segundo hombre también termina odiándola, le escribe un certificado de divorcio, se lo da, y la envía fuera de su casa, o puede que él muera. ^4^ El primer marido que se divorció de ella no puede volver a casarse con ella después de que se avergonzara, porque eso ofende al Señor. No traerás la culpa a la tierra que el Señor tu Dios te da para que la poseas. 
 
 ^5^ Si un hombre acaba de casarse, no debe ser enviado a la guerra ni obligado a cumplir ningún otro deber. Es libre de quedarse en casa durante un año y hacer feliz a su esposa. 
 
-^6^ No aceptes un par de piedras de molino, o incluso sólo una piedra de molino superior, como garantía de una deuda, porque eso pondría la vida del prestatario en peligro.^^ 
-^[**24:6** Porque sin el molino la familia no podría moler el grano para hacer pan.]
+^6^ No aceptes un par de piedras de molino, o incluso sólo una piedra de molino superior, como garantía de una deuda, porque eso pondría la vida del prestatario en peligro.^a^ 
+^a^[**24:6** Porque sin el molino la familia no podría moler el grano para hacer pan.]
 
 ^7^ Cualquiera que sea sorprendido secuestrando a un compañero israelita debe ser ejecutado, ya sea que el secuestrador lo haga esclavo o lo venda. Deben eliminar el mal de entre ustedes. 
 
 ^8^ Cuando se trata de enfermedades infecciosas de la piel, asegúrense de seguir cuidadosamente todas las instrucciones de los sacerdotes levitas. Tengan cuidado de seguir las órdenes que les he dado. ^9^ Recuerda lo que el Señor tu Dios le hizo a Miriam en el viaje al salir de Egipto. 
 
-^10^ Si le prestas algo a alguien, no entres en su casa para tomar algún tipo de seguridad. ^11^ Permanece afuera mientras ellos entran y te traen la seguridad. ^12^ Si es un hombre pobre, puede dar su capa como promesa de pago,^^ pero no debes guardarla al irte a dormir. ^13^ Asegúrate de devolverlo antes de la puesta de sol, para que pueda dormir con su propia capa y gracias, y serás considerado como haciendo el bien por el Señor tu Dios. 
-^[**24:12** “Puede dar su capa como promesa de pago”: añadido para mayor claridad. Por el contexto esto es lo que ha sucedido, pero el texto no lo hace explícito.]
+^10^ Si le prestas algo a alguien, no entres en su casa para tomar algún tipo de seguridad. ^11^ Permanece afuera mientras ellos entran y te traen la seguridad. ^12^ Si es un hombre pobre, puede dar su capa como promesa de pago,^a^ pero no debes guardarla al irte a dormir. ^13^ Asegúrate de devolverlo antes de la puesta de sol, para que pueda dormir con su propia capa y gracias, y serás considerado como haciendo el bien por el Señor tu Dios. 
+^a^[**24:12** “Puede dar su capa como promesa de pago”: añadido para mayor claridad. Por el contexto esto es lo que ha sucedido, pero el texto no lo hace explícito.]
 
 ^14^ No maltrates a un sirviente asalariado, pobre y necesitado, sea israelita o extranjero que viva en uno de tus pueblos. ^15^ Paga su salario todos los días antes de la puesta del sol, porque es pobre y depende de ellos. Si no lo hace, puede quejarse al Señor de ti, y serás encontrado culpable de pecado. 
 
@@ -521,8 +516,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 
 ^4^ No se debe amordazar a un buey cuando está pisando el grano. 
 
-^5^ Cuando dos hermanos viven cerca uno del otro y uno de ellos muere sin tener un hijo, la viuda no debe casarse con un extraño fuera de la familia. El hermano de su marido se casará con ella y se acostará con ella, cumpliendo los requisitos de un cuñado para proporcionarle hijos.^^ ^6^ El primer hijo que tenga se llamará como el hermano muerto, para que su nombre no sea olvidado en Israel. 
-^[**25:5** Ver Génesis 38:8. ]
+^5^ Cuando dos hermanos viven cerca uno del otro y uno de ellos muere sin tener un hijo, la viuda no debe casarse con un extraño fuera de la familia. El hermano de su marido se casará con ella y se acostará con ella, cumpliendo los requisitos de un cuñado para proporcionarle hijos.^a^ ^6^ El primer hijo que tenga se llamará como el hermano muerto, para que su nombre no sea olvidado en Israel. 
+^a^[**25:5** Ver Génesis 38:8. ]
 
 ^7^ Sin embargo, si el hombre se niega a casarse con la viuda de su hermano, ella irá a los ancianos a la puerta del pueblo y les dirá: “El hermano de mi marido se niega a mantener vivo el nombre de su hermano en Israel. No quiere cumplir los requisitos de un cuñado para mí”. ^8^ Los ancianos del pueblo deben llamarlo y hablar con él. Si continúa negándose y dice:“No quiero casarme con ella,” ^9^ la viuda de su hermano debe confrontarlo en presencia de los ancianos, sacarle la sandalia, escupirle en la cara y anunciar, “Esto es lo que le pasa al hombre que se niega a mantener vivo el nombre de la familia de su hermano.” ^10^ A partir de entonces su apellido en Israel se llamará “La familia de la sandalia arrancada”. 
 
@@ -537,8 +532,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 # 26 
 ^1^ Una vez que hayas entrado en el país que el Señor tu Dios te da, y lo tomes y te establezcas allí, ^2^ toma algunas de las primicias de todas tus cosechas producidas por la tierra que el Señor tu Dios te da y ponlas en una cesta. Luego ve al lugar que el Señor tu Dios elija, ^3^ y dile al sacerdote a cargo en ese momento, “Hoy declaro al Señor tu Dios que ahora vivo en el país que el Señor prometió a nuestros antepasados que nos daría”. ^4^ El sacerdote te quitará la cesta y la pondrá delante del altar del Señor tu Dios. 
 
-^5^ Entonces esto es lo que debes declarar públicamente ante el Señor tu Dios, “Mi padre era un arameo^^ que andaba de un lugar a otro. Sólo había unos pocos cuando él y su familia se fueron a vivir a Egipto. Pero se convirtieron en una nación grande y poderosa. ^6^ Pero los egipcios nos trataron muy mal, nos oprimieron y nos obligaron a hacer trabajos forzados. ^7^ Clamamos al Señor, el Dios de nuestros antepasados, y el Señor nos respondió al ver cuánto estábamos sufriendo, obligados a trabajar tan duro con tanta crueldad. ^8^ El Señor nos sacó de Egipto con su gran poder y su increíble fuerza y con acciones, señales y milagros aterradores. ^9^ Nos trajo aquí y nos dio este país, una tierra que fluye leche y miel. ^10^ ¡Mira, Señor! Te he traído las primicias de la tierra que me has dado”. Colocarás la cesta ante el Señor tu Dios y te inclinarás en adoración ante él. ^11^ Entonces tú, los levitas y los extranjeros que viven contigo celebrarán todas las cosas buenas que el Señor tu Dios te ha dado a ti y a tu familia. 
-^[**26:5** Probablemente se refiere a Jacob.]
+^5^ Entonces esto es lo que debes declarar públicamente ante el Señor tu Dios, “Mi padre era un arameo^a^ que andaba de un lugar a otro. Sólo había unos pocos cuando él y su familia se fueron a vivir a Egipto. Pero se convirtieron en una nación grande y poderosa. ^6^ Pero los egipcios nos trataron muy mal, nos oprimieron y nos obligaron a hacer trabajos forzados. ^7^ Clamamos al Señor, el Dios de nuestros antepasados, y el Señor nos respondió al ver cuánto estábamos sufriendo, obligados a trabajar tan duro con tanta crueldad. ^8^ El Señor nos sacó de Egipto con su gran poder y su increíble fuerza y con acciones, señales y milagros aterradores. ^9^ Nos trajo aquí y nos dio este país, una tierra que fluye leche y miel. ^10^ ¡Mira, Señor! Te he traído las primicias de la tierra que me has dado”. Colocarás la cesta ante el Señor tu Dios y te inclinarás en adoración ante él. ^11^ Entonces tú, los levitas y los extranjeros que viven contigo celebrarán todas las cosas buenas que el Señor tu Dios te ha dado a ti y a tu familia. 
+^a^[**26:5** Probablemente se refiere a Jacob.]
 
 ^12^ Cuando terminen de almacenar la décima parte de su cosecha en el tercer año (el año del diezmo), la darán a los levitas, a los extranjeros, a los huérfanos y a las viudas, para que tengan suficiente comida en sus ciudades. ^13^ Entonces harás esta declaración en presencia del Señor tu Dios: “He traído el santo diezmo y se lo he dado al levita, al extranjero, al huérfano y a las viudas como me ordenaste. No he roto ni olvidado tus mandamientos. ^14^ No he comido nada del santo diezmo mientras estaba de luto, ni he tomado nada de él mientras estaba sucio, ni lo he usado como ofrenda para los muertos. He obedecido al Señor mi Dios. He hecho todo lo que me ordenaste hacer. ^15^ Por favor, mira desde tu casa en el cielo y bendice a tu pueblo, los israelitas, y el país que nos has dado, como prometiste a nuestros padres, una tierra que fluye leche y miel”. 
 
@@ -549,11 +544,11 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 ^18^ Hoy el Señor ha anunciado que ustedes son un pueblo especial que le pertenece como lo prometió. Ha anunciado que deben guardar todos sus mandamientos. ^19^ Ha anunciado que les dará mayor alabanza, reputación y honor que a cualquier otra nación. Ha anunciado que serán un pueblo santo para el Señor su Dios, como lo prometió. 
 
 # 27 
-^1^ Moisés y los ancianos israelitas de Israel dieron estas instrucciones al pueblo: Guarden todos los mandamientos que yo^^ les doy hoy. ^2^ El día que cruces el Jordán hacia el país que el Señor tu Dios te da, coloca unas grandes piedras y píntalas con cal. ^3^ Entonces escribe todas estas leyes en ellas una vez que hayas cruzado para entrar en el país que el Señor tu Dios te está dando, una tierra que fluye leche y miel, tal como el Señor, el Dios de tus antepasados, te prometió. ^4^ Una vez que hayas cruzado el Jordán, debes colocar estas piedras en el Monte Ebal, habiéndolas pintado con cal, como te he ordenado hacer hoy. 
-^[**27:1** “Yo”: Aquí habla Moisés.]
+^1^ Moisés y los ancianos israelitas de Israel dieron estas instrucciones al pueblo: Guarden todos los mandamientos que yo^a^ les doy hoy. ^2^ El día que cruces el Jordán hacia el país que el Señor tu Dios te da, coloca unas grandes piedras y píntalas con cal. ^3^ Entonces escribe todas estas leyes en ellas una vez que hayas cruzado para entrar en el país que el Señor tu Dios te está dando, una tierra que fluye leche y miel, tal como el Señor, el Dios de tus antepasados, te prometió. ^4^ Una vez que hayas cruzado el Jordán, debes colocar estas piedras en el Monte Ebal, habiéndolas pintado con cal, como te he ordenado hacer hoy. 
+^a^[**27:1** “Yo”: Aquí habla Moisés.]
 
-^5^ Construye también allí un altar de piedra para el Señor tu Dios, un altar de piedras. No uses ninguna herramienta de piedra en su construcción. ^6^ Construye el altar del Señor tu Dios con piedras sin cortar y sacrifícalo con holocaustos para el Señor tu Dios. ^7^ Ahí es también donde debes sacrificar y comer tus ofrendas de paz,^^celebrando en la presencia del Señor tu Dios. ^8^ Escribe todas estas leyes claramente en las piedras. 
-^[**27:7** Ver Éxodo 20:24.]
+^5^ Construye también allí un altar de piedra para el Señor tu Dios, un altar de piedras. No uses ninguna herramienta de piedra en su construcción. ^6^ Construye el altar del Señor tu Dios con piedras sin cortar y sacrifícalo con holocaustos para el Señor tu Dios. ^7^ Ahí es también donde debes sacrificar y comer tus ofrendas de paz,^a^ celebrando en la presencia del Señor tu Dios. ^8^ Escribe todas estas leyes claramente en las piedras. 
+^a^[**27:7** Ver Éxodo 20:24.]
 
 ^9^ Moisés y los sacerdotes levitas dieron estas órdenes a todos los israelitas: “¡Cállense, pueblo de Israel, y escuchen! Hoy sehan convertido en el pueblo del Señor su Dios. ^10^ Así que obedezcan lo que el Señor su Dios les dice, y sigan los mandamientos y preceptos que les doy hoy.” 
 
@@ -590,19 +585,18 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 
 ^2^ Tendrás todas las siguientes bendiciones y aún más, si haces lo que el Señor tu Dios dice. 
 
-^3^ Serás bendecido cuando estés en la ciudad; serás bendecido cuando estés en el campo. ^4^ Serás bendecido con muchos hijos. Serás bendecido con buenas cosechas. Serás bendecido con ganado: tu ganado tendrá muchos terneros, y tus ovejas tendrán muchos corderos. ^5^ Serás bendecido con mucho pan.^^ ^6^ Serás bendecido dondequiera que vayas y en todo lo que hagas. 
-^[**28:5** Literalmente, “tu cesta y tu bol de amasar serán bendecidos”. De manera similar, lo opuesto en el versículo 17.]
+^3^ Serás bendecido cuando estés en la ciudad; serás bendecido cuando estés en el campo. ^4^ Serás bendecido con muchos hijos. Serás bendecido con buenas cosechas. Serás bendecido con ganado: tu ganado tendrá muchos terneros, y tus ovejas tendrán muchos corderos. ^5^ Serás bendecido con mucho pan.^a^ ^6^ Serás bendecido dondequiera que vayas y en todo lo que hagas. 
+^a^[**28:5** Literalmente, “tu cesta y tu bol de amasar serán bendecidos”. De manera similar, lo opuesto en el versículo 17.]
 
-^7^ El Señor derrotará a los enemigos que vengan a atacarte. Vendrán a ti desde una dirección, pero se dispersarán por siete caminos diferentes. ^8^ El Señor bendecirá tu ingreso^^ y todo lo que hagas. El Señor tu Dios te bendecirá en el país que te está dando. ^9^ El Señor te hará su pueblo santo, como te prometió, si obedeces los mandamientos del Señor tu Dios y sigues sus caminos. ^10^ Entonces todos en la tierra verán que el Señor te ha elegido para ser suyo,^^ y tendrán miedo de ti. 
-^[**28:8** Literalmente, “ordena una bendición para tus graneros.”]
-^[**28:10** Literalmente, “llamado por el nombre del Señor.”]
+^7^ El Señor derrotará a los enemigos que vengan a atacarte. Vendrán a ti desde una dirección, pero se dispersarán por siete caminos diferentes. ^8^ El Señor bendecirá tu ingreso^a^ y todo lo que hagas. El Señor tu Dios te bendecirá en el país que te está dando. ^9^ El Señor te hará su pueblo santo, como te prometió, si obedeces los mandamientos del Señor tu Dios y sigues sus caminos. ^10^ Entonces todos en la tierra verán que el Señor te ha elegido para ser suyo,^b^ y tendrán miedo de ti. 
+^a^[**28:8** Literalmente, “ordena una bendición para tus graneros.”] ^b^[**28:10** Literalmente, “llamado por el nombre del Señor.”]
 
 ^11^ El Señor te hará muy próspero. Tendrás muchos hijos, tu ganado producirá muchas crías, y tu tierra tendrá buenas cosechas, todo esto en el país que el Señor prometió a tus antepasados que te daría. ^12^ El Señor proveerá de lluvia a tu tierra en el momento adecuado desde su almacén celestial para bendecir todo tu trabajo de cultivo. Prestarás dinero a muchas naciones, pero no necesitarás pedir prestado a ninguna de ellas. ^13^ El Señor te pondrá en el primer lugar, no en el último. Sólo subirás, nunca bajarás, siempre y cuando escuches y sigas cuidadosamente los mandamientos del Señor tu Dios que te doy hoy. ^14^ No te desvíes hoy de ninguna de mis instrucciones. No vayas a adorar a otros dioses. 
 
 ^15^ Pero si no obedeces al Señor tu Dios siguiendo cuidadosamente todos sus mandamientos y normas que te estoy dando hoy, entonces experimentarás todas las siguientes maldiciones y más: ^16^ Serás maldito cuando estés en la ciudad; serás maldito cuando estés en el campo. ^17^ Serás malditoal no tener pan. ^18^ Serás malditosin poder tener hijos, ni buenas cosechas, ni tus vacas tendrán terneros ni tus ovejas tendrán corderos. ^19^ Serásmaldito dondequiera que vayas y en todo lo que hagas. 
 
-^20^ El Señor te enviará maldiciones, haciéndote confundir y frustrar en todo lo que hagas, hasta que seas derribado y mueras rápidamente por el mal que has hecho al abandonarlo.^^ ^21^ El Señor te dará enfermedades infecciosas hasta que te haya borrado del país en el que estás entrando. ^22^ Entonces el Señor te golpeará con una enfermedad que te hará consumir, con una fiebre severa e hinchazón como si te estuvieras quemando, mientras que tus cosechas serán dañadas por la sequía y la plaga y el moho. Estos te atacarán hasta que mueras. ^23^ El cielo sobre ti será como el bronce, y la tierra debajo de ti será como el hierro. ^24^ El Señor cambiará la lluvia de tu tierra en polvo y arena; caerá del cielo sobre ti hasta que seas destruido. 
-^[**28:20** “Abandonarlo”: Hebreo “abandonarme.”]
+^20^ El Señor te enviará maldiciones, haciéndote confundir y frustrar en todo lo que hagas, hasta que seas derribado y mueras rápidamente por el mal que has hecho al abandonarlo.^a^ ^21^ El Señor te dará enfermedades infecciosas hasta que te haya borrado del país en el que estás entrando. ^22^ Entonces el Señor te golpeará con una enfermedad que te hará consumir, con una fiebre severa e hinchazón como si te estuvieras quemando, mientras que tus cosechas serán dañadas por la sequía y la plaga y el moho. Estos te atacarán hasta que mueras. ^23^ El cielo sobre ti será como el bronce, y la tierra debajo de ti será como el hierro. ^24^ El Señor cambiará la lluvia de tu tierra en polvo y arena; caerá del cielo sobre ti hasta que seas destruido. 
+^a^[**28:20** “Abandonarlo”: Hebreo “abandonarme.”]
 
 ^25^ El Señor hará que tus enemigos te derroten. Los atacarás desde una sola dirección, pero te dispersarás por siete caminos diferentes. Todos en la tierra se horrorizarán con lo que te pase. ^26^ u cadáver será alimento para las aves de rapiña y los animales salvajes, y no habrá nadie que los espante. ^27^ El Señor tecausará forúnculos como a los egipcios, con hinchazones y costras y sarpullidos que no se pueden curar. ^28^ El Señor te volverá loco y te hará quedar ciego y confundido, ^29^ de modo que incluso al mediodía estarás a tientas como un ciego en la oscuridad. No tendrás éxito en lo que hagas. Serás perseguido y te robarán todo el tiempo, y nadie vendrá a salvarte. 
 
@@ -610,8 +604,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 
 ^36^ El Señor te desterrará a ti y a tu rey elegido hacia una nación extranjera de la que ni tú ni tus antepasados habían oído hablar. Allí adorarás a otros dioses, ídolos hechos de madera y piedra. ^37^ ucirás comoun espanto para todas las naciones donde has sido exiliado por el Señor. Se reirán de ti y te ridiculizarán. 
 
-^38^ Sembrarás mucha semilla en el campo, pero cosecharás muy poco porque las langostas la destruirán. ^39^ Sembrarás y cuidarás los viñedos, pero no cosecharás las uvas ni beberás el vino, porque serán comidos por los gusanos. ^40^ YTendrás olivos por todo el país pero no tendrás aceite de oliva para usar,^^ porque las aceitunas se caerán pronto de los árboles. ^41^ Tendrás hijos e hijas, pero no los tendrás por mucho tiempo, porque serán llevados en cautiverio como esclavos. ^42^ Nubes de langostas destruirán todos tus árboles y cultivos. ^43^ Los extranjeros que vivan con ustedes se elevarán cada vez más por encima de ustedes, mientras que ustedes se hundirán cada vez más. ^44^ Ellos te prestarán, pero tú no les prestarás a ellos. Ellos serán los primeros y tú serás el último. 
-^[**28:40** “Usar”: literalmente, “ungir,” el proceso de aplicar aceite de oliva en la piel.]
+^38^ Sembrarás mucha semilla en el campo, pero cosecharás muy poco porque las langostas la destruirán. ^39^ Sembrarás y cuidarás los viñedos, pero no cosecharás las uvas ni beberás el vino, porque serán comidos por los gusanos. ^40^ YTendrás olivos por todo el país pero no tendrás aceite de oliva para usar,^a^ porque las aceitunas se caerán pronto de los árboles. ^41^ Tendrás hijos e hijas, pero no los tendrás por mucho tiempo, porque serán llevados en cautiverio como esclavos. ^42^ Nubes de langostas destruirán todos tus árboles y cultivos. ^43^ Los extranjeros que vivan con ustedes se elevarán cada vez más por encima de ustedes, mientras que ustedes se hundirán cada vez más. ^44^ Ellos te prestarán, pero tú no les prestarás a ellos. Ellos serán los primeros y tú serás el último. 
+^a^[**28:40** “Usar”: literalmente, “ungir,” el proceso de aplicar aceite de oliva en la piel.]
 
 ^45^ Todas estas maldiciones caerán sobre ti. Te perseguirán y atacarán hasta que mueras porque no has obedecido al Señor tu Dios y no has guardado los mandamientos y preceptos que te dio. ^46^ Serán una evidencia duradera, signos visibles de lo que te pasó a ti y a tus descendientes. ^47^ Por no haber servido al Señor tu Dios con alegría y con una actitud alegre, ^48^ servirás a tus enemigos que el Señor envía a atacarte con hambre, sed, desnudez y pobreza. Él atará un yugo de hierro en tu cuello hasta destruirte. 
 
@@ -628,8 +622,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 ^68^ El Señor los enviará de vuelta a Egipto en barcos, a un lugar que no debían volver a ver. Se ofrecerán a la venta allí como esclavos y esclavas para sus enemigos, pero nadie querrá comprarlos. 
 
 # 29 
-^1^ Los siguientes son los términos del acuerdo que el Señor ordenó a Moisés hacer con los israelitas en el país de Moab Esto fue en adición al acuerdo que había hecho con ellos en Horeb.^^ 
-^[**29:1** “Horeb”: Otro nombre dado al Monte Sinaí.]
+^1^ Los siguientes son los términos del acuerdo que el Señor ordenó a Moisés hacer con los israelitas en el país de Moab Esto fue en adición al acuerdo que había hecho con ellos en Horeb.^a^ 
+^a^[**29:1** “Horeb”: Otro nombre dado al Monte Sinaí.]
 
 ^2^ Moisés convocó a todos los israelitas y les anunció: “Han visto con sus propios ojos todo lo que el Señor hizo en Egipto con el faraón, con todos sus funcionarios y con todo su país”. ^3^ Vieron con sus propios ojos las pruebas asombrosas, y las grandes señales y milagros. ^4^ Pero hasta ahora el Señor no les ha dado mentes que entiendan, ni ojos que vean, ni oídos que oigan, diciendo: ^5^ Durante cuarenta años los conduje por el desierto, pero sus vestidos y sandalias no se desgastaron. ^6^ No tenían pan para comer, ni vino o alcohol para beber, para que se dieran cuenta de que yo soy el Señor tu Dios. 
 
@@ -641,8 +635,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 
 ^16^ Ustedes saben muy bien cómo era cuando vivíamos en la tierra de Egipto y nuestras experiencias al pasar por las naciones en el camino hacia aquí. ^17^ ieron sus repugnantes prácticas religiosas y sus ídolos de madera y piedra, y plata y oro. 
 
-^18^ Hoy deben asegurarse de que no haya ningún hombre o mujer, familia o tribu que quiera alejarse del Señor nuestro Dios e ir a adorar a los dioses de estas naciones. Asegúrense de que no hay nada de eso entre ustedes que produzca tal veneno y amargura. ^19^ Porque cuando alguien así oye las palabras de esta solemne promesa, cree que aún recibirá una bendición, diciéndose a sí mismo: “Estaré a salvo, aunque seguiré haciendo lo que me plazca”. Tal actitud destruiría lo bueno y lo malo por igual.^^ ^20^ El Señor nunca querría perdonarlos. De hecho, su ferviente ira arderá contra ellos, y cada maldición escrita en este libro caerá sobre ellos. El Señor borrará su nombre de la tierra, ^21^ y los castigará como un ejemplo de ellos para todas las tribus israelitas, de acuerdo con todas las maldiciones del acuerdo escrito en este Libro de la Ley. 
-^[**29:19** “Destruiría lo bueno y lo malo por igual”: literalmente, “destruye tanto el suelo regado como el suelo reseco”.]
+^18^ Hoy deben asegurarse de que no haya ningún hombre o mujer, familia o tribu que quiera alejarse del Señor nuestro Dios e ir a adorar a los dioses de estas naciones. Asegúrense de que no hay nada de eso entre ustedes que produzca tal veneno y amargura. ^19^ Porque cuando alguien así oye las palabras de esta solemne promesa, cree que aún recibirá una bendición, diciéndose a sí mismo: “Estaré a salvo, aunque seguiré haciendo lo que me plazca”. Tal actitud destruiría lo bueno y lo malo por igual.^a^ ^20^ El Señor nunca querría perdonarlos. De hecho, su ferviente ira arderá contra ellos, y cada maldición escrita en este libro caerá sobre ellos. El Señor borrará su nombre de la tierra, ^21^ y los castigará como un ejemplo de ellos para todas las tribus israelitas, de acuerdo con todas las maldiciones del acuerdo escrito en este Libro de la Ley. 
+^a^[**29:19** “Destruiría lo bueno y lo malo por igual”: literalmente, “destruye tanto el suelo regado como el suelo reseco”.]
 
 ^22^ Las generaciones posteriores, sus descendientes y los extranjeros de lejos, verán cómo el Señor ha traído el desastre al país y lo ha devastado. ^23^ Todo el país será un páramo ardiente de azufre y sal. Nada se siembra, es totalmente improductivo; ninguna planta crece allí, como la destrucción de Sodoma y Gomorra, Adma y Zeboiim, que el Señor destruyó en su ardiente ira. 
 
@@ -655,8 +649,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 # 30 
 ^1^ Un día después de que experimenten todo esto, las bendiciones y maldiciones de las que te he hablado, pensarás en ellas, viviendo en todas las diferentes naciones donde el Señor tu Dios te ha exiliado. ^2^ Cuando eso suceda, y cuando tú y tus hijos regresen al Señor tu Dios, y cuando hagas lo que él dice con toda tu mente y todo tu ser de acuerdo con todo lo que te estoy diciendo hoy, entonces el Señor tu Dios será misericordioso contigo. ^3^ Él te traerá de vuelta a casa, reuniéndote de todas las naciones donde te dispersó. ^4^ Aunque te exiliases hasta los confines de la tierra, te recogerá de allí y te traerá de vuelta. 
 
-^5^ El Señor tu Dios te traerá de vuelta al país que perteneció a tus antepasados y lo volverás a poseer. Él te hará triunfar, y tendrás aún más descendientes que tus antepasados. ^6^ El Señor tu Dios te hará a ti y a tus descendientes suyos de nuevo,^^ y lo amarás con toda tu mente y con todo tu ser, para que vivas. 
-^[**30:6** “Te hará a ti y a tus descendientes suyos de nuevo”: literalmente, “circuncidará tu corazón y el de tus descendientes.” La circuncisión era un signo de la “titularidad” de Dios sobre el pueblo, y la circuncisión del corazón era una descripción de la verdadera dedicación al Señor.]
+^5^ El Señor tu Dios te traerá de vuelta al país que perteneció a tus antepasados y lo volverás a poseer. Él te hará triunfar, y tendrás aún más descendientes que tus antepasados. ^6^ El Señor tu Dios te hará a ti y a tus descendientes suyos de nuevo,^a^ y lo amarás con toda tu mente y con todo tu ser, para que vivas. 
+^a^[**30:6** “Te hará a ti y a tus descendientes suyos de nuevo”: literalmente, “circuncidará tu corazón y el de tus descendientes.” La circuncisión era un signo de la “titularidad” de Dios sobre el pueblo, y la circuncisión del corazón era una descripción de la verdadera dedicación al Señor.]
 
 ^7^ Entonces el Señor tu Dios hará caer todas estas maldiciones sobre tus enemigos, sobre aquellos que te odian y persiguen. ^8^ Una vez más harás lo que el Señor te diga y seguirás todos sus mandamientos que te doy hoy. ^9^ El Señor tu Dios te hará triunfar en todo lo que hagas, tendrás hijos, tu ganado será productivo y tendrás buenas cosechas. El Señor, una vez más, se alegrará de hacerte el bien, como lo hizo con tus antepasados, ^10^ si obedeces al Señor tu Dios guardando sus mandamientos y preceptos escritos en este libro de la Ley, y si vuelves a él con toda tu mente y con todo tu ser. 
 
@@ -669,8 +663,8 @@ Después de que haya vivido en tu casa y haya terminado su mes de luto por su pa
 ^19^ oy invoco al cielo y a la tierra para que sean mis testigos contra ti hoy que he puesto ante ustedes la vida y la muerte, las bendiciones y las maldiciones. Escojan la vida, para que ustedes y sus descendientes vivan, ^20^ para que amen al Señor su Dios, le obedezcan y se aferren a él. Porque él es su vida, y les dará largas vidas en el país que el Señor prometió darles a sus antepasados, a Abraham, Isaac y Jacob. 
 
 # 31 
-^1^ Cuando Moisés terminó^^ de darles estas instrucciones a todos los israelitas, ^2^ les dijo, ahora tengo ciento veinte años. No puedo moverme como antes, y el Señor me ha dicho, “No deben cruzar el Jordán.” 
-^[**31:1** Tomado de los Rollos del Mar Muerto y de la Septuaginta.]
+^1^ Cuando Moisés terminó^a^ de darles estas instrucciones a todos los israelitas, ^2^ les dijo, ahora tengo ciento veinte años. No puedo moverme como antes, y el Señor me ha dicho, “No deben cruzar el Jordán.” 
+^a^[**31:1** Tomado de los Rollos del Mar Muerto y de la Septuaginta.]
 
 ^3^ El Señor tu Dios en persona te va a guiar a través. Él destruirá estas naciones a medida que avancen, y se apoderará de su tierra. Josué cruzará delante de ustedes, como dijo el Señor. ^4^ El Señor hará con ellos lo que hizo con Sehón y Og, los reyes de los amorreos, y su tierra cuando los destruyó. 
 
@@ -721,27 +715,26 @@ En ese momento dirán: “¡Estamos sufriendo estos desastres porque nuestro Dio
 
 ^7^ Recuerda los tiempos antiguos; piensa en los tiempos pasados. Pregúntenle a Dios y a su padre, y él se los explicará. Hablen con los ancianos, y ellos se lo harán saber. 
 
-^8^ El Altísimo les dio a las naciones sus tierras cuando dividió la raza humana; fijó sus fronteras según sus dioses.^^ 
-^[**32:8** “Según sus dioses”: esta frase no está clara. El texto masorético tiene “según el número de los hijos de Israel”. Algunos de los Rollos del Mar Muerto y la Septuaginta tienen “según el número de dioses”. Si esta última es la lectura correcta, puede significar que cada nación fue separada y se le dieron sus fronteras según los dioses que adoraban.]
+^8^ El Altísimo les dio a las naciones sus tierras cuando dividió la raza humana; fijó sus fronteras según sus dioses.^a^ 
+^a^[**32:8** “Según sus dioses”: esta frase no está clara. El texto masorético tiene “según el número de los hijos de Israel”. Algunos de los Rollos del Mar Muerto y la Septuaginta tienen “según el número de dioses”. Si esta última es la lectura correcta, puede significar que cada nación fue separada y se le dieron sus fronteras según los dioses que adoraban.]
 
 ^9^ Pero el pueblo del Señor es suyo, Israel es su elegido. 
 
-^10^ os encontró en una tierra desértica, en un páramo desolado de torbellinos. Los protegió, los cuidó, los cuidó como a la persona que más amaba.^^ 
-^[**32:10** “La persona que más amaba”: o “la niña de sus ojos.”]
+^10^ os encontró en una tierra desértica, en un páramo desolado de torbellinos. Los protegió, los cuidó, los cuidó como a la persona que más amaba.^a^ 
+^a^[**32:10** “La persona que más amaba”: o “la niña de sus ojos.”]
 
-^11^ Como un águila que vigila^^ su nido, revoloteando sobre sus polluelos, extendió sus alas, te recogió y te llevó consigo.^^ 
-^[**32:11** “Que vigila”: Lectura de la Septuaginta. Hebreo: “Que está despierta.” ]
-^[**32:11** “Te llevó consigo”: literalmente, “sobre sus piñones,” el nombre de una parte del ala de un ave, que a menudo no se usa en el lenguaje.]
+^11^ Como un águila que vigila^a^ su nido, revoloteando sobre sus polluelos, extendió sus alas, te recogió y te llevó consigo.^b^ 
+^a^[**32:11** “Que vigila”: Lectura de la Septuaginta. Hebreo: “Que está despierta.” ] ^b^[**32:11** “Te llevó consigo”: literalmente, “sobre sus piñones,” el nombre de una parte del ala de un ave, que a menudo no se usa en el lenguaje.]
 
 ^12^ El Señor fue el único que te guió; ningún dios extranjero estaba con él. 
 
-^13^ El Señor te dio el país alto para gobernar,^^ y te alimentó con los cultivos del campo para comer. Te alimentó con miel de la roca y aceite de oliva del peñón de piedra, 
-^[**32:13** “Te dio el país alto para gobernar”: literalmente, “Lo puso en las espaldas de la nación”.]
+^13^ El Señor te dio el país alto para gobernar,^a^ y te alimentó con los cultivos del campo para comer. Te alimentó con miel de la roca y aceite de oliva del peñón de piedra, 
+^a^[**32:13** “Te dio el país alto para gobernar”: literalmente, “Lo puso en las espaldas de la nación”.]
 
 ^14^ con yogur del rebaño y leche del rebaño, con grasa de corderos, con carneros de Basán, y cabras, junto con el mejor trigo. Bebiste el vino hecho de las mejores uvas. 
 
-^15^ Pero Israel,^^te engordaste y te rebelaste: con grasa, sobrepeso y llenura de comida. Abandonaste al Dios que te hizo y despreciaste la Roca de tu salvación. 
-^[**32:15** Literalmente, “Jesurún,” que sifgnifica: “el bueno.”]
+^15^ Pero Israel,^a^ te engordaste y te rebelaste: con grasa, sobrepeso y llenura de comida. Abandonaste al Dios que te hizo y despreciaste la Roca de tu salvación. 
+^a^[**32:15** Literalmente, “Jesurún,” que sifgnifica: “el bueno.”]
 
 ^16^ Celebraste al Señor adorando a dioses extranjeros; lo enojaste con prácticas tan repugnantes. 
 
@@ -755,8 +748,8 @@ En ese momento dirán: “¡Estamos sufriendo estos desastres porque nuestro Dio
 
 ^21^ Me han dado celos adorando cosas que no son Dios; me han hecho enojar con sus ídolos inútiles. Así que los pondré celosos usando un pueblo que no es realmente una nación; los haré enojar usando extranjeros ignorantes. 
 
-^22^ Mi ira se ha encendido, quemando hasta las profundidades de la tumba,^^ destruyendo la tierra y todo lo que produce, incluso prendiendo fuego a los cimientos de las montañas. 
-^[**32:22** “La tumba”: literalmente, “Seol.”]
+^22^ Mi ira se ha encendido, quemando hasta las profundidades de la tumba,^a^ destruyendo la tierra y todo lo que produce, incluso prendiendo fuego a los cimientos de las montañas. 
+^a^[**32:22** “La tumba”: literalmente, “Seol.”]
 
 ^23^ Amontonaré desastres sobre ellos; usaré mis flechas para dispararles. 
 
@@ -774,8 +767,8 @@ En ese momento dirán: “¡Estamos sufriendo estos desastres porque nuestro Dio
 
 ^30^ ¿Cómo podría un hombre perseguir a mil, o dos hacer huir a diez mil, si su Roca de protección no los hubiera vendido, si el Señor no los hubiera entregado? 
 
-^31^ La roca en la que confían no es como nuestra Roca, como incluso nuestros enemigos admiten.^^ 
-^[**32:31** Tomado de la Septuaginta.]
+^31^ La roca en la que confían no es como nuestra Roca, como incluso nuestros enemigos admiten.^a^ 
+^a^[**32:31** Tomado de la Septuaginta.]
 
 ^32^ Pero su vid proviene de la vid de Sodoma, de los campos de Gomorra. Sus uvas son venenosas; son racimos amargos. 
 
@@ -799,10 +792,8 @@ En ese momento dirán: “¡Estamos sufriendo estos desastres porque nuestro Dio
 
 ^42^ Mis flechas se emborracharán de sangre, como mi espada come carne; la sangre de los muertos y capturados, las cabezas de los líderes del enemigo.” 
 
-^43^ ¡Celebren con él! ¡Que todos los ángeles de Dios lo adoren!^^ Celebren, extranjeros, con su pueblo; porque él pagará a los que mataron a sus hijos.^^ Castigará a sus enemigos, y pagará a los que lo odien;^^ purificará su tierra y su pueblo. 
-^[**32:43** Esta línea no está en el texto masorético, pero sí en los Pergaminos del Mar Muerto y la Septuaginta. También se cita en Hebreos 1:6.]
-^[**32:43** Lectura según los Pergaminos del Mar Muerto y la Septuaginta.]
-^[**32:43** “Pagará a los que lo odien”: Según la Septuaginta y la Vulgata.]
+^43^ ¡Celebren con él! ¡Que todos los ángeles de Dios lo adoren!^a^ Celebren, extranjeros, con su pueblo; porque él pagará a los que mataron a sus hijos.^b^ Castigará a sus enemigos, y pagará a los que lo odien;^c^ purificará su tierra y su pueblo. 
+^a^[**32:43** Esta línea no está en el texto masorético, pero sí en los Pergaminos del Mar Muerto y la Septuaginta. También se cita en Hebreos 1:6.] ^b^[**32:43** Lectura según los Pergaminos del Mar Muerto y la Septuaginta.] ^c^[**32:43** “Pagará a los que lo odien”: Según la Septuaginta y la Vulgata.]
 
 ^44^ Entonces Moisés vino con Josué hijo de Nun y recitó todas las palabras de esta canción para que el pueblo la escuchara. 
 
@@ -817,22 +808,22 @@ En ese momento dirán: “¡Estamos sufriendo estos desastres porque nuestro Dio
 # 33 
 ^1^ La siguiente es la bendición que Moisés, el hombre de Dios, les dio a los israelitas antes de morir. ^2^ Dijo: “El Señor vino del monte Sinaí y nos iluminó desde el monte Seir. Salió del monte Paran con diez mil santos, con fuego ardiente en su mano derecha. 
 
-^3^ Cuánto amas al pueblo; tienes a todos los santos en tu mano. Se sientan a tus pies para escuchar tus palabras: ^4^ la ley que Moisés nos entregó y que pertenece a todos los israelitas. ^5^ El Señor se convirtió en el Rey en Israel^^ cuando los líderes del pueblo se reunieron, cuando las tribus de Israel se reunieron. 
-^[**33:5** “Israel”: literalmente, “Jesurún.” Ver 32:15. También el versículo 26.]
+^3^ Cuánto amas al pueblo; tienes a todos los santos en tu mano. Se sientan a tus pies para escuchar tus palabras: ^4^ la ley que Moisés nos entregó y que pertenece a todos los israelitas. ^5^ El Señor se convirtió en el Rey en Israel^a^ cuando los líderes del pueblo se reunieron, cuando las tribus de Israel se reunieron. 
+^a^[**33:5** “Israel”: literalmente, “Jesurún.” Ver 32:15. También el versículo 26.]
 
 ^6^ A Rubén le dijo: “Que viva y no muera, pero que sólo tenga unos pocos hombres”. 
 
 ^7^ A Judá le dijo: “Señor, por favor escucha el clamor de Judá y reúnelo con su pueblo. Aunque él luche por sí mismo, ayúdalo contra sus enemigos”. 
 
-^8^ A Leví le dijo: “Tu Tumim le fue dado a Leví y tu Urim a los consagrados a Dios, los que probaste en Masá y con los cuales discutiste en las aguas de Meribá. ^9^ Leví dijo que no prestaba atención a su padre y a su madre, que no reconocía a sus hermanos y que no reconocía a sus hijos.^^Los levitas hicieron lo que usted dijo y cumplieron su acuerdo. ^10^ Ellos le enseñarán tu reglamento a Jacob y tu ley a Israel. Pondrán incienso ante ti y sacrificarán holocaustos enteros en tu altar. ^11^ Señor, por favor bendice lo que tienen y acepta su servicio para ti. Destruye a los que los atacan; asegúrate de que sus enemigos no se levanten nunca más”. 
-^[**33:9** Meaning that he wasn't influenced by the opinion of anyone in his family. ]
+^8^ A Leví le dijo: “Tu Tumim le fue dado a Leví y tu Urim a los consagrados a Dios, los que probaste en Masá y con los cuales discutiste en las aguas de Meribá. ^9^ Leví dijo que no prestaba atención a su padre y a su madre, que no reconocía a sus hermanos y que no reconocía a sus hijos.^a^ Los levitas hicieron lo que usted dijo y cumplieron su acuerdo. ^10^ Ellos le enseñarán tu reglamento a Jacob y tu ley a Israel. Pondrán incienso ante ti y sacrificarán holocaustos enteros en tu altar. ^11^ Señor, por favor bendice lo que tienen y acepta su servicio para ti. Destruye a los que los atacan; asegúrate de que sus enemigos no se levanten nunca más”. 
+^a^[**33:9** Meaning that he wasn't influenced by the opinion of anyone in his family. ]
 
 ^12^ A Benjamín le dijo: “Que el que ama el Señor se mantenga seguro y a salvo en el Señor. El Señor siempre lo protege, dejándolo descansar sobre sus hombros”. 
 
 ^13^ A José le dijo: “Que el Señor bendiga su tierra con los mejores regalos del cielo, con el rocío y el agua de las profundidades de abajo; ^14^ con las mejores cosechas maduradas por el sol y los mejores productos de las estaciones; ^15^ con las mejores contribuciones de las antiguas montañas y los mejores materiales de las colinas eternas; ^16^ con los mejores regalos de la tierra y de todo lo que hay en ella, junto con el aprecio de quien estaba en la zarza ardiente. Que estas bendiciones descansen en la cabeza de José como una corona para este príncipe entre sus hermanos. ^17^ Es tan majestuoso como un toro primogénito; sus cuernos son como los de un buey salvaje. Los usará para cornear a las naciones, conduciéndolas hasta los confines de la tierra. Los cuernos representan los diez mil de Efraín, y los miles de Manasés.” 
 
-^18^ A Zabulón le dijo: “Que celebre Zabulón en sus viajes e Isacar en sus tiendas. ^19^ Convocarán a los pueblos^^ a una montaña; ofrecerán los sacrificios apropiados allí. Disfrutarán de los ricos productos de los mares y del comercio a orillas del mar.” 
-^[**33:19** “Pueblos”: No está claro si esto se refiere a otras tribus israelitas o a naciones extranjeras.]
+^18^ A Zabulón le dijo: “Que celebre Zabulón en sus viajes e Isacar en sus tiendas. ^19^ Convocarán a los pueblos^a^ a una montaña; ofrecerán los sacrificios apropiados allí. Disfrutarán de los ricos productos de los mares y del comercio a orillas del mar.” 
+^a^[**33:19** “Pueblos”: No está claro si esto se refiere a otras tribus israelitas o a naciones extranjeras.]
 
 ^20^ A Gad le dijo: “¡Bienaventurado el que extienda el territorio de Gad! Gad es como un león al acecho, listo para arrancar un brazo o una cabeza. ^21^ Eligió la mejor tierra para sí mismo, ya que se le asignó una parte de la regla. Se reunió con los líderes del pueblo; hizo lo que el Señor dijo que era correcto, siguiendo los preceptos del Señor para Israel.” 
 
@@ -848,8 +839,8 @@ En ese momento dirán: “¡Estamos sufriendo estos desastres porque nuestro Dio
 
 ^28^ Como resultado, Israel vive en paz; Jacob no tiene problemas en un país de grano y vino nuevo, donde los cielos gotean de rocío. 
 
-^29^ ¡Cuán bendito eres, Israel! ¿Hay alguien como tú, un pueblo salvado por el Señor? Él es el escudo que te protege, la espada que te da confianza. Tus enemigos se estremecerán ante ti, y tú los pisotearás.^^
-^[**33:29** O “sus lugares altos,” los santuarios paganos.] 
+^29^ ¡Cuán bendito eres, Israel! ¿Hay alguien como tú, un pueblo salvado por el Señor? Él es el escudo que te protege, la espada que te da confianza. Tus enemigos se estremecerán ante ti, y tú los pisotearás.^a^
+^a^[**33:29** O “sus lugares altos,” los santuarios paganos.] 
 
 # 34 
 ^1^ Moisés dejó las llanuras de Moab y se dirigió al Monte Nebo, subiendo hasta la cima del Pisga que mira en dirección a Jericó. El Señor le mostró todo el país, desde Galaad hasta Dan. ^2^ Esto incluía todos los territorios de Neftalí, Efraín y Manasés, Judá hasta el mar Mediterráneo, ^3^ el Néguev y el valle del Jordán desde Jericó (la ciudad de las palmeras) hasta Zoar. 
@@ -860,4 +851,5 @@ En ese momento dirán: “¡Estamos sufriendo estos desastres porque nuestro Dio
 
 ^7^ Moisés tenía 120 años cuando murió, pero aún veía claramente y era fuerte. ^8^ Los israelitas lloraron por Moisés en las llanuras de Moab durante treinta días, hasta que el tiempo de duelo terminó. 
 
-^9^ Josué, hijo de Nun, se llenó de espíritu de sabiduría porque Moisés había puesto sus manos sobre él para dedicarlo.+ 34.9 Ver Números 27:18. Los israelitas atendieron y siguieron las instrucciones que el Señor le había dado a Moisés. ^10^ Desde entonces nunca ha habido un profeta en Israel como Moisés que fuera amigo íntimo del Señor.+ 34.10 “Que fuera amigo íntimo del Señor”: literalmente, “a quien el Señor conoció cara a cara.” ^11^ El Señor lo envió a llevar a cabo todas las señales y milagros en Egipto para convencer al Faraón y a sus oficiales, y a toda la gente del país. ^12^ Moisés hizo estas increíbles cosas con tremendo poder mientras los israelitas lo observaban. 
+^9^ Josué, hijo de Nun, se llenó de espíritu de sabiduría porque Moisés había puesto sus manos sobre él para dedicarlo.^a^ Los israelitas atendieron y siguieron las instrucciones que el Señor le había dado a Moisés. ^10^ Desde entonces nunca ha habido un profeta en Israel como Moisés que fuera amigo íntimo del Señor.^b^ ^11^ El Señor lo envió a llevar a cabo todas las señales y milagros en Egipto para convencer al Faraón y a sus oficiales, y a toda la gente del país. ^12^ Moisés hizo estas increíbles cosas con tremendo poder mientras los israelitas lo observaban. 
+^a^[**34:9** Ver Números 27:18. ] ^b^[**34:10** “Que fuera amigo íntimo del Señor”: literalmente, “a quien el Señor conoció cara a cara.”]
