@@ -4,698 +4,698 @@
 \contentsline {section}{\numberline {3}Solo un libro, o palabra de Dios?}{5}{section.0.3}%
 \contentsline {section}{\numberline {4}Como leer la Biblia}{6}{section.0.4}%
 \contentsline {section}{\numberline {5}Como la Biblia fue creado}{7}{section.0.5}%
-\contentsline {section}{\numberline {6}La Biblia Reina Valera}{8}{section.0.6}%
+\contentsline {section}{\numberline {6}La Biblia Reina Valera}{7}{section.0.6}%
 \contentsline {section}{\numberline {7}Ministerio Biblia del Pueblo}{8}{section.0.7}%
 \contentsline {chapter}{\numberline {1}1. Mose}{11}{chapter.1}%
-\contentsline {subsection}{La creación del mundo}{11}{chapter.1}%
+\contentsline {subsection}{Die Erschaffung der Welt}{11}{chapter.1}%
 \contentsline {section}{\numberline {1}1}{11}{section.1.1}%
-\contentsline {subsection}{La creación de la luz}{11}{section.1.1}%
-\contentsline {subsection}{La creación de la expansion de los Cielos}{11}{section.1.1}%
-\contentsline {subsection}{La separacion de la tierra y el mar y la creación de las plantas}{11}{section.1.1}%
-\contentsline {subsection}{La creación de las estrellas}{12}{section.1.1}%
-\contentsline {subsection}{La creación de los animales acuáticos y de los aves}{12}{section.1.1}%
-\contentsline {subsection}{La creación de los animales terrestres y del hombre}{12}{section.1.1}%
-\contentsline {subsection}{El dia de reposo}{13}{section.1.1}%
+\contentsline {subsection}{Die Erschaffung des Lichts}{11}{section.1.1}%
+\contentsline {subsection}{Die Erschaffung des Himmels}{11}{section.1.1}%
+\contentsline {subsection}{Die Teilung der Erde in Land und Meer und die Erschaffung der Pflanzen}{11}{section.1.1}%
+\contentsline {subsection}{Die Erschaffung der Sterne}{12}{section.1.1}%
+\contentsline {subsection}{Die Erschaffung der Wassertiere und der Vögel}{12}{section.1.1}%
+\contentsline {subsection}{Die Erschaffung der Landtiere und des Menschen}{12}{section.1.1}%
+\contentsline {subsection}{Der Sabbat}{13}{section.1.1}%
 \contentsline {section}{\numberline {2}2}{13}{section.1.2}%
-\contentsline {subsection}{La creacion del hombre y de la mujer en el paraíso}{13}{section.1.2}%
-\contentsline {subsection}{El río en el paraíso y sus ramales}{14}{section.1.2}%
-\contentsline {subsection}{El mandamiento de Dios por Adam}{14}{section.1.2}%
-\contentsline {subsection}{La creación de la mujer y la fundación del matrimonio}{14}{section.1.2}%
-\contentsline {subsection}{La tentacion y la caída del hombre}{15}{section.1.2}%
+\contentsline {subsection}{Die Erschaffung des Menschen und der Frau im Paradies}{13}{section.1.2}%
+\contentsline {subsection}{Der Fluss im Paradies und seine Arme}{14}{section.1.2}%
+\contentsline {subsection}{Das Gebot Gottes für Adam}{14}{section.1.2}%
+\contentsline {subsection}{Die Erschaffung der Frau und Stiftung der Ehe}{14}{section.1.2}%
+\contentsline {subsection}{Die Versuchung und der Fall des Menschen}{15}{section.1.2}%
 \contentsline {section}{\numberline {3}3}{15}{section.1.3}%
-\contentsline {subsection}{El interrogatorio y el castigo}{16}{section.1.3}%
-\contentsline {subsection}{La expulsión del paraíso}{17}{section.1.3}%
-\contentsline {subsection}{Caín y Abel}{17}{section.1.3}%
+\contentsline {subsection}{Das Verhör und die Strafe}{16}{section.1.3}%
+\contentsline {subsection}{Die Verstossung aus dem Paradies}{17}{section.1.3}%
+\contentsline {subsection}{Kain und Abel}{17}{section.1.3}%
 \contentsline {section}{\numberline {4}4}{17}{section.1.4}%
-\contentsline {subsection}{El castigo de Caín}{18}{section.1.4}%
-\contentsline {subsection}{Los hijos de Caín}{18}{section.1.4}%
-\contentsline {subsection}{El nacimiento de Seth}{19}{section.1.4}%
-\contentsline {subsection}{La descendiencia de Seth hasta Noé}{19}{section.1.4}%
+\contentsline {subsection}{Die Bestrafung Kains}{18}{section.1.4}%
+\contentsline {subsection}{Die Nachkommen von Kain}{18}{section.1.4}%
+\contentsline {subsection}{Die Geburt Seths}{19}{section.1.4}%
+\contentsline {subsection}{Die Nachkommen von Seth bis zu Noah}{19}{section.1.4}%
 \contentsline {section}{\numberline {5}5}{19}{section.1.5}%
-\contentsline {subsection}{Los matrimonios de los hijos de Dios con las hijas de los hombres}{20}{section.1.5}%
+\contentsline {subsection}{Die Ehen der Gottessöhne mit den Töchtern der Menschen}{20}{section.1.5}%
 \contentsline {section}{\numberline {6}6}{20}{section.1.6}%
-\contentsline {subsection}{La maldad de los hombres. Anuncio del diluvio}{21}{section.1.6}%
-\contentsline {subsection}{Llamado de Noé y la construcción del arca}{21}{section.1.6}%
-\contentsline {subsection}{El diluvio. Noé entra la arca}{22}{section.1.6}%
+\contentsline {subsection}{Die Bosheit der Menschen, Ankündigung der Sintflut}{20}{section.1.6}%
+\contentsline {subsection}{Noahs Berufung und der Bau der Arche}{21}{section.1.6}%
+\contentsline {subsection}{Die Sintflut. Noah geht in die Arche}{22}{section.1.6}%
 \contentsline {section}{\numberline {7}7}{22}{section.1.7}%
-\contentsline {subsection}{El aumento del diluvio}{22}{section.1.7}%
-\contentsline {subsection}{El fin del diluvio}{24}{section.1.7}%
-\contentsline {section}{\numberline {8}8}{24}{section.1.8}%
-\contentsline {subsection}{El holocausto de Noé y la promesa de Dios}{25}{section.1.8}%
-\contentsline {subsection}{Renovación de la bendición de la creación}{25}{section.1.8}%
+\contentsline {subsection}{Das steigen der Flut}{22}{section.1.7}%
+\contentsline {subsection}{Das Ende der Sintflut}{23}{section.1.7}%
+\contentsline {section}{\numberline {8}8}{23}{section.1.8}%
+\contentsline {subsection}{Das Opfer Noahs und Gottes Versprechen}{24}{section.1.8}%
+\contentsline {subsection}{Erneuerung des Segens über der Schöpfung}{25}{section.1.8}%
 \contentsline {section}{\numberline {9}9}{25}{section.1.9}%
-\contentsline {subsection}{El pacto entro Dios y Noé y la creación}{26}{section.1.9}%
-\contentsline {subsection}{La embriaguez de Noé}{26}{section.1.9}%
-\contentsline {subsection}{Los descendientes de los hijos de Noé}{27}{section.1.9}%
+\contentsline {subsection}{Der Bund zwischen Gott und Noah und der Schöpfung}{25}{section.1.9}%
+\contentsline {subsection}{Noahs Trunkenheit; Noahs Fluch und Segen}{26}{section.1.9}%
+\contentsline {subsection}{Die Nachkommen der Söhne von Noah}{27}{section.1.9}%
 \contentsline {section}{\numberline {10}10}{27}{section.1.10}%
-\contentsline {subsection}{La torre de Babel}{29}{section.1.10}%
-\contentsline {section}{\numberline {11}11}{29}{section.1.11}%
-\contentsline {subsection}{Los descendientes de Sem}{29}{section.1.11}%
-\contentsline {subsection}{Los descendientes de Thare}{30}{section.1.11}%
-\contentsline {subsection}{El llamado de Abram}{30}{section.1.11}%
+\contentsline {subsection}{Der Turmbau zu Babel}{28}{section.1.10}%
+\contentsline {section}{\numberline {11}11}{28}{section.1.11}%
+\contentsline {subsection}{Die Nachkommen von Sem}{29}{section.1.11}%
+\contentsline {subsection}{Die Nachkommen von Tharah}{29}{section.1.11}%
+\contentsline {subsection}{Abrams Berufung}{30}{section.1.11}%
 \contentsline {section}{\numberline {12}12}{30}{section.1.12}%
-\contentsline {subsection}{La Inmigración de Abram a Canaán}{30}{section.1.12}%
-\contentsline {subsection}{Abram y Sarai en Egipto}{31}{section.1.12}%
-\contentsline {subsection}{El regreso de Abram}{32}{section.1.12}%
-\contentsline {section}{\numberline {13}13}{32}{section.1.13}%
-\contentsline {subsection}{Abram se separa de Lot}{32}{section.1.13}%
-\contentsline {subsection}{Salida de Lot por el valle del Jordán}{32}{section.1.13}%
-\contentsline {subsection}{Dios promete a Abram el país de Canán}{33}{section.1.13}%
-\contentsline {subsection}{Guerra del rey Kedorlaomer en el valle del Jordan}{33}{section.1.13}%
-\contentsline {section}{\numberline {14}14}{33}{section.1.14}%
-\contentsline {subsection}{Ayuda de Abram por Lot}{34}{section.1.14}%
-\contentsline {subsection}{Abram encuentra Melchîsedec, rey de Salem}{34}{section.1.14}%
-\contentsline {subsection}{La humildad de Abram con el rey de Sodoma}{35}{section.1.14}%
-\contentsline {subsection}{Dios promete a Abram un hijo}{35}{section.1.14}%
-\contentsline {section}{\numberline {15}15}{35}{section.1.15}%
-\contentsline {subsection}{Dios confirme su promesa}{36}{section.1.15}%
-\contentsline {subsection}{Sarai da a su sierva Agar como mujer á Abram}{37}{section.1.15}%
-\contentsline {section}{\numberline {16}16}{37}{section.1.16}%
-\contentsline {subsection}{Dios se aparece a Agar á una fuente de agua en el desierto}{37}{section.1.16}%
-\contentsline {subsection}{Dios confirme su pacto con Abram}{38}{section.1.16}%
-\contentsline {section}{\numberline {17}17}{38}{section.1.17}%
-\contentsline {subsection}{La circuncision}{38}{section.1.17}%
-\contentsline {subsection}{Dios promete Abraham un hijo de Sara}{39}{section.1.17}%
-\contentsline {subsection}{Abraham realiza la circuncisión}{39}{section.1.17}%
-\contentsline {subsection}{Dios visita a Abraham}{40}{section.1.17}%
-\contentsline {section}{\numberline {18}18}{40}{section.1.18}%
-\contentsline {subsection}{La intercesión de Abraham por Sodoma}{41}{section.1.18}%
-\contentsline {subsection}{La caída de Sodoma y Gomorrha}{42}{section.1.18}%
-\contentsline {section}{\numberline {19}19}{42}{section.1.19}%
-\contentsline {subsection}{La salvacion de Lot}{43}{section.1.19}%
-\contentsline {subsection}{El pecado de las hijas de Lot; El nacimiento de los padres de los Moabitas y Ammonitas}{45}{section.1.19}%
-\contentsline {subsection}{Abraham donde Abimelech en Gerar}{46}{section.1.19}%
-\contentsline {section}{\numberline {20}20}{46}{section.1.20}%
-\contentsline {subsection}{Nacimiento de Isaac}{47}{section.1.20}%
-\contentsline {section}{\numberline {21}21}{47}{section.1.21}%
-\contentsline {subsection}{El repudio y la salvación de Ismael}{48}{section.1.21}%
-\contentsline {subsection}{El pacto entre Abraham y Abimelech}{49}{section.1.21}%
-\contentsline {subsection}{El orden de Dios para sacrificar Isaac}{49}{section.1.21}%
-\contentsline {section}{\numberline {22}22}{49}{section.1.22}%
-\contentsline {subsection}{La obedencia de Abraham}{50}{section.1.22}%
-\contentsline {subsection}{La preparacion del holocausto y la intervención de Dios}{50}{section.1.22}%
-\contentsline {subsection}{La aprobación de Dios y promesas por Abraham}{51}{section.1.22}%
-\contentsline {subsection}{Los descendientes de Nahor, el hermano de Abraham}{51}{section.1.22}%
-\contentsline {subsection}{Muerte y sepultura de Sara}{51}{section.1.22}%
-\contentsline {section}{\numberline {23}23}{51}{section.1.23}%
-\contentsline {subsection}{Abraham envía a su criado para buscar una esposa por Isaac}{53}{section.1.23}%
-\contentsline {section}{\numberline {24}24}{53}{section.1.24}%
-\contentsline {subsection}{La viaje del criado por Haran}{54}{section.1.24}%
-\contentsline {subsection}{El criado llega a la casa de Nachôr}{55}{section.1.24}%
-\contentsline {subsection}{El cortejo por la novia}{55}{section.1.24}%
-\contentsline {subsection}{La despedida de Rebeca}{57}{section.1.24}%
-\contentsline {subsection}{La llegada de la novia al novio}{58}{section.1.24}%
-\contentsline {subsection}{Segundo matrimonio de Abraham; su muerte y entierro}{58}{section.1.24}%
-\contentsline {section}{\numberline {25}25}{58}{section.1.25}%
-\contentsline {subsection}{Los descendientes de Ismael}{59}{section.1.25}%
-\contentsline {subsection}{El nacimiento de Esau y Jacob}{59}{section.1.25}%
-\contentsline {subsection}{Jacob compra la primogenitura de Esaú}{60}{section.1.25}%
-\contentsline {subsection}{Isaac se muda a Gerar cuando hay hambre}{60}{section.1.25}%
-\contentsline {section}{\numberline {26}26}{60}{section.1.26}%
-\contentsline {subsection}{La creciente riqueza de Isaac; Disputas de fuentes;}{61}{section.1.26}%
-\contentsline {subsection}{El pacto entre Isaac y Abimelech en Beerseba}{62}{section.1.26}%
-\contentsline {subsection}{Esaú se casa con dos mujeres hititas en contra de la voluntad de sus padres}{63}{section.1.26}%
-\contentsline {subsection}{Isaac se prepara para bendecir Esau}{63}{section.1.26}%
-\contentsline {section}{\numberline {27}27}{63}{section.1.27}%
-\contentsline {subsection}{La intervención engañosa de Rebeca}{63}{section.1.27}%
-\contentsline {subsection}{Jacob recibe la bendición del primogénito}{64}{section.1.27}%
-\contentsline {subsection}{El regreso de Esaú, su lamento y la bendición que le dio su padre}{65}{section.1.27}%
-\contentsline {subsection}{Esaú busca matar a su hermano}{66}{section.1.27}%
-\contentsline {subsection}{Jacob huye a Padan-aram}{67}{section.1.27}%
-\contentsline {section}{\numberline {28}28}{67}{section.1.28}%
-\contentsline {subsection}{El nuevo matrimonio de Esaú con una hija de Ismael}{67}{section.1.28}%
-\contentsline {subsection}{El sueño de Jacob en Betel de la escalera al cielo}{67}{section.1.28}%
-\contentsline {subsection}{Jacob consagra una piedra conmemorativa como el comienzo de una casa de Dios en Betel}{68}{section.1.28}%
-\contentsline {subsection}{Jacob al pozo de Haran}{69}{section.1.28}%
-\contentsline {section}{\numberline {29}29}{69}{section.1.29}%
-\contentsline {subsection}{El saludo de Jacob con Rachêl y su admisión a Labán}{69}{section.1.29}%
-\contentsline {subsection}{Jacob entra en servicio con Labán}{70}{section.1.29}%
-\contentsline {subsection}{Los primer cuatro hijos de Lea}{71}{section.1.29}%
-\contentsline {subsection}{Los dos hijos de Bilha, la sierva de Rachêl}{71}{section.1.29}%
-\contentsline {section}{\numberline {30}30}{71}{section.1.30}%
-\contentsline {subsection}{Los dos hijos de Silpa, la sierva de Lea}{72}{section.1.30}%
-\contentsline {subsection}{Los ultimos niños de Lea}{72}{section.1.30}%
-\contentsline {subsection}{Rachêl cresce madre de José}{72}{section.1.30}%
-\contentsline {subsection}{El nuevo pacto de servicio de Jacob con Labán}{73}{section.1.30}%
-\contentsline {subsection}{Jacob obtuvo una gran propiedad de ganado a través de la astucia}{73}{section.1.30}%
-\contentsline {subsection}{Las razones de la fuga de Jacob}{74}{section.1.30}%
-\contentsline {section}{\numberline {31}31}{74}{section.1.31}%
-\contentsline {subsection}{La consulta de Jacob con sus esposas}{74}{section.1.31}%
-\contentsline {subsection}{La fuga de Jacob y la persecución de Labán}{75}{section.1.31}%
-\contentsline {subsection}{Discurso de castigo de Labán y registro de la casa}{76}{section.1.31}%
-\contentsline {subsection}{Discurso de acusación de Jacob}{77}{section.1.31}%
-\contentsline {subsection}{La respuesta de Labán; el tratado de paz entre él y Jacob}{77}{section.1.31}%
-\contentsline {subsection}{Jacob envía mensajeros a Esaú}{78}{section.1.31}%
-\contentsline {section}{\numberline {32}32}{78}{section.1.32}%
-\contentsline {subsection}{La oracion de Jacob por la ayuda de Dios}{79}{section.1.32}%
-\contentsline {subsection}{Jacob enviá regalos a Esau}{79}{section.1.32}%
-\contentsline {subsection}{Jacob luchando con Dios por la noche}{80}{section.1.32}%
-\contentsline {subsection}{La reconciliación de Jacob con Esaú}{81}{section.1.32}%
-\contentsline {section}{\numberline {33}33}{81}{section.1.33}%
-\contentsline {subsection}{Jacob se niega a escoltar a Esaú; esto vuelve a Seir}{81}{section.1.33}%
-\contentsline {subsection}{Jacob se traslada a Succoth y se instala con Sichêm}{82}{section.1.33}%
-\contentsline {subsection}{La ofensa de Sichêm contra Dina}{82}{section.1.33}%
-\contentsline {section}{\numberline {34}34}{82}{section.1.34}%
-\contentsline {subsection}{Hemor corteja a Dina de los hijos de Jacob}{82}{section.1.34}%
-\contentsline {subsection}{La demanda de los hijos de Jacob es aceptada por los sichêmitas.}{83}{section.1.34}%
-\contentsline {subsection}{La venganza engañosa de los hijos de Jacob}{84}{section.1.34}%
-\contentsline {subsection}{El disgusto de Jacob por el acto reprensible de sus hijos}{84}{section.1.34}%
-\contentsline {subsection}{Por amonestación de Dios, Jacob parte de Siquem}{85}{section.1.34}%
-\contentsline {section}{\numberline {35}35}{85}{section.1.35}%
-\contentsline {subsection}{Llegada de Jacob y construcción del altar en Betel}{85}{section.1.35}%
-\contentsline {subsection}{Jacob bendecido por Dios}{85}{section.1.35}%
-\contentsline {subsection}{Salida de Betel; Rahel muere al dar a luz a Benjamín}{86}{section.1.35}%
-\contentsline {subsection}{La indignación de Rubens; Los doce hijos de Jacob; su regreso a Hebrón; Muerte y entierro de Isaac}{86}{section.1.35}%
-\contentsline {subsection}{La familia y la residencia de Esaú}{87}{section.1.35}%
-\contentsline {section}{\numberline {36}36}{87}{section.1.36}%
-\contentsline {subsection}{Los hijos y nietos de Esaú como progenitores}{87}{section.1.36}%
-\contentsline {subsection}{Los duques descendieron de Esaú}{88}{section.1.36}%
-\contentsline {subsection}{Los horeos que eran independientes de Esaú}{88}{section.1.36}%
-\contentsline {subsection}{Los reyes de la tierra de Edom hasta David}{89}{section.1.36}%
-\contentsline {subsection}{Los duques de Edom por sus lugares}{89}{section.1.36}%
-\contentsline {subsection}{Los inicios de la enemistad de los hermanos contra José}{89}{section.1.36}%
-\contentsline {section}{\numberline {37}37}{89}{section.1.37}%
-\contentsline {subsection}{Los sueños de José}{90}{section.1.37}%
-\contentsline {subsection}{La oportunidad de deshacerse de Joseph}{90}{section.1.37}%
-\contentsline {subsection}{Rubén y Judá intentan salvar a José}{91}{section.1.37}%
-\contentsline {subsection}{José es vendido a Egipto}{91}{section.1.37}%
-\contentsline {subsection}{El dolor de Jacob; José vendido a Potifar en Egipto}{92}{section.1.37}%
-\contentsline {subsection}{Los hijos de Juda y Thamar}{92}{section.1.37}%
-\contentsline {section}{\numberline {38}38}{92}{section.1.38}%
-\contentsline {subsection}{Thamar usa astucia para obtener descendencia de su suegro Judah}{93}{section.1.38}%
-\contentsline {subsection}{Judas juicio justo sobre sí mismo y Thamar}{94}{section.1.38}%
-\contentsline {subsection}{Thamar da a luz a los gemelos Pérez y Serah}{94}{section.1.38}%
-\contentsline {subsection}{José en la casa de Potifar}{95}{section.1.38}%
-\contentsline {section}{\numberline {39}39}{95}{section.1.39}%
-\contentsline {subsection}{La seducción de la esposa de Potifar}{95}{section.1.39}%
-\contentsline {subsection}{José en el Carcel}{96}{section.1.39}%
-\contentsline {subsection}{Encarcelamiento del copero y panadero del faraón}{96}{section.1.39}%
-\contentsline {section}{\numberline {40}40}{96}{section.1.40}%
-\contentsline {subsection}{José consuela a los dos oficiales de la corte}{97}{section.1.40}%
-\contentsline {subsection}{El sueño del copero y su interpretación}{97}{section.1.40}%
-\contentsline {subsection}{El sueño del panadero y su interpretación}{97}{section.1.40}%
-\contentsline {subsection}{El cumplimiento de ambos sueños}{98}{section.1.40}%
-\contentsline {subsection}{Los dos sueños del faraón son insolubles para los intérpretes egipcios}{98}{section.1.40}%
-\contentsline {section}{\numberline {41}41}{98}{section.1.41}%
-\contentsline {subsection}{El copero hace los arreglos para que vayan a buscar a José}{99}{section.1.41}%
-\contentsline {subsection}{José interpreta los sueños del faraón}{99}{section.1.41}%
-\contentsline {subsection}{El consejo de José sobre cómo hacer uso de la interpretación de sus sueños}{100}{section.1.41}%
-\contentsline {subsection}{Joseph fue ascendido a funcionario más alto del estado}{101}{section.1.41}%
-\contentsline {subsection}{Medidas de José durante los siete años fértiles; el nacimiento de sus dos hijos}{101}{section.1.41}%
-\contentsline {subsection}{Los siete años estériles y las ventas de cereales de José durante la hambruna}{102}{section.1.41}%
-\contentsline {subsection}{Los diez hijos mayores de Jacob se mudan a Egipto para comprar grano}{102}{section.1.41}%
-\contentsline {section}{\numberline {42}42}{102}{section.1.42}%
-\contentsline {subsection}{La primera conversación dura de José con sus hermanos}{103}{section.1.42}%
-\contentsline {subsection}{La segunda conversación: Simeón como rehén}{103}{section.1.42}%
-\contentsline {subsection}{Regreso de los hermanos a Canaán}{104}{section.1.42}%
-\contentsline {subsection}{Segundo viaje de los hermanos de José a Egipto con Benjamín}{105}{section.1.42}%
-\contentsline {section}{\numberline {43}43}{105}{section.1.43}%
-\contentsline {subsection}{Acogida amistosa por parte de José de sus hermanos}{106}{section.1.43}%
-\contentsline {subsection}{José recibe y entretiene a sus hermanos de la manera más amistosa}{107}{section.1.43}%
-\contentsline {subsection}{José está probando a sus hermanos por última vez}{108}{section.1.43}%
-\contentsline {section}{\numberline {44}44}{108}{section.1.44}%
-\contentsline {subsection}{Los hermanos regresan a la ciudad y se humillan ante José}{109}{section.1.44}%
-\contentsline {subsection}{José se revela a sus hermanos}{111}{section.1.44}%
-\contentsline {section}{\numberline {45}45}{111}{section.1.45}%
-\contentsline {subsection}{José fue enviado por Dios para la salvación de Israel}{111}{section.1.45}%
-\contentsline {subsection}{La amable invitación del faraón a Jacob para que se mudara a Egipto}{112}{section.1.45}%
-\contentsline {subsection}{José da obsequios generosos a sus hermanos que regresan a casa y los amonesta con amor}{112}{section.1.45}%
-\contentsline {subsection}{Jacob se muda a su hijo en Egipto}{113}{section.1.45}%
-\contentsline {subsection}{Dios aprueba el traslado de Jacob a Beerseba en una revelación}{113}{section.1.45}%
-\contentsline {section}{\numberline {46}46}{113}{section.1.46}%
-\contentsline {subsection}{El linaje de toda la familia de Jacob}{113}{section.1.46}%
-\contentsline {subsection}{José saluda a su padre en Gosen}{115}{section.1.46}%
-\contentsline {subsection}{El faraón promete a los hijos de Jacob establecerse en Gosen}{115}{section.1.46}%
-\contentsline {section}{\numberline {47}47}{115}{section.1.47}%
-\contentsline {subsection}{Jacob se presentó al faraón y luego se instaló en Gosen}{116}{section.1.47}%
-\contentsline {subsection}{José compra la tierra para el faraón}{116}{section.1.47}%
-\contentsline {subsection}{Feliz situación para los israelitas en Egipto; El último deseo de Jacob con respecto a su funeral}{117}{section.1.47}%
-\contentsline {subsection}{Jacob toma a los dos hijos de José en lugar de niños}{118}{section.1.47}%
-\contentsline {section}{\numberline {48}48}{118}{section.1.48}%
-\contentsline {subsection}{Jacob bendice a los dos hijos de José}{118}{section.1.48}%
-\contentsline {subsection}{Las profecías de Jacob sobre sus hijos}{120}{section.1.48}%
-\contentsline {section}{\numberline {49}49}{120}{section.1.49}%
-\contentsline {subsection}{La solicitud de Jacob para su entierro en Hebrón}{122}{section.1.49}%
-\contentsline {subsection}{Embalsamamiento y traslado solemne de Jacob después del entierro hereditario en Hebrón}{122}{section.1.49}%
-\contentsline {section}{\numberline {50}50}{122}{section.1.50}%
-\contentsline {subsection}{La generosidad de José hacia sus hermanos}{123}{section.1.50}%
-\contentsline {subsection}{La vejez y la muerte de José; su ultimo deseo}{124}{section.1.50}%
-\contentsline {chapter}{\numberline {2}Psalmen}{124}{chapter.2}%
-\contentsline {subsection}{Las dos formas de vida}{124}{chapter.2}%
-\contentsline {section}{\numberline {1}1}{124}{section.2.1}%
-\contentsline {subsection}{La victoria de Dios y del rey ungido por él sobre las naciones furiosas}{125}{section.2.1}%
-\contentsline {section}{\numberline {2}2}{125}{section.2.2}%
-\contentsline {subsection}{Canción de la mañana de un hombre piadoso en los malos tiempos}{125}{section.2.2}%
-\contentsline {section}{\numberline {3}3}{125}{section.2.3}%
-\contentsline {subsection}{Canción vespertina de un hombre piadoso en tiempos de angustia}{126}{section.2.3}%
-\contentsline {section}{\numberline {4}4}{126}{section.2.4}%
-\contentsline {subsection}{Oración matutina en el templo contra enemigos impíos}{126}{section.2.4}%
-\contentsline {section}{\numberline {5}5}{126}{section.2.5}%
-\contentsline {subsection}{Pedir ayuda a alguien gravemente enfermo en cuerpo y alma (Primer Salmo Penitencial)}{127}{section.2.5}%
-\contentsline {section}{\numberline {6}6}{127}{section.2.6}%
-\contentsline {subsection}{El Señor como juez justo y salvador de los afligidos}{128}{section.2.6}%
-\contentsline {section}{\numberline {7}7}{128}{section.2.7}%
-\contentsline {subsection}{La humildad y la alteza del hombre en la creación}{129}{section.2.7}%
-\contentsline {section}{\numberline {8}8}{129}{section.2.8}%
-\contentsline {subsection}{Canto de acción de gracias por el juicio de Dios sobre los enemigos paganos y solicitud de nueva ayuda}{130}{section.2.8}%
-\contentsline {section}{\numberline {9}9}{130}{section.2.9}%
-\contentsline {subsection}{Pide ayuda contra los malvados de la violencia}{131}{section.2.9}%
-\contentsline {section}{\numberline {10}10}{131}{section.2.10}%
-\contentsline {subsection}{El Señor es fiel y justo}{132}{section.2.10}%
-\contentsline {section}{\numberline {11}11}{132}{section.2.11}%
-\contentsline {subsection}{Consuelo de los rectos contra la violencia de la mentira}{132}{section.2.11}%
-\contentsline {section}{\numberline {12}12}{132}{section.2.12}%
-\contentsline {subsection}{¿Por cuánto tiempo más?}{133}{section.2.12}%
-\contentsline {section}{\numberline {13}13}{133}{section.2.13}%
-\contentsline {subsection}{Pensamientos sobre la depravación general del mundo y pedir redención}{133}{section.2.13}%
-\contentsline {section}{\numberline {14}14}{133}{section.2.14}%
-\contentsline {subsection}{¿Quién puede ser el invitado del Señor?}{134}{section.2.14}%
-\contentsline {section}{\numberline {15}15}{134}{section.2.15}%
-\contentsline {subsection}{Dios el más alto, sí, solo bien por sí mismo}{134}{section.2.15}%
-\contentsline {section}{\numberline {16}16}{134}{section.2.16}%
-\contentsline {subsection}{El grito de un hombre angustiado por ayuda contra enemigos nefastos}{135}{section.2.16}%
-\contentsline {section}{\numberline {17}17}{135}{section.2.17}%
-\contentsline {subsection}{El cántico de agradecimiento y victoria de David tras la derrota de sus enemigos}{136}{section.2.17}%
-\contentsline {section}{\numberline {18}18}{136}{section.2.18}%
-\contentsline {subsection}{Alabado sea Dios Creador y su ley; Pide perdón de pecados y santificación}{139}{section.2.18}%
-\contentsline {section}{\numberline {19}19}{139}{section.2.19}%
-\contentsline {subsection}{Intercesión del pueblo por el rey a la salida del ejército}{140}{section.2.19}%
-\contentsline {section}{\numberline {20}20}{140}{section.2.20}%
-\contentsline {subsection}{Oración de acción de gracias por los beneficios que Dios le ha mostrado al rey (especialmente por la victoria que le ha otorgado) y esperanza de nuevas bendiciones}{140}{section.2.20}%
-\contentsline {section}{\numberline {21}21}{140}{section.2.21}%
-\contentsline {subsection}{Lamento y esperanza de alguien abandonado por Dios (Salmo de la pasión del Salvador)}{141}{section.2.21}%
-\contentsline {section}{\numberline {22}22}{141}{section.2.22}%
-\contentsline {subsection}{El Señor como buen pastor y bondadoso dador de consuelo y seguridad}{143}{section.2.22}%
-\contentsline {section}{\numberline {23}23}{143}{section.2.23}%
-\contentsline {subsection}{Canto ceremonial a la entrada (del pueblo y del rey de honor) al santuario}{144}{section.2.23}%
-\contentsline {section}{\numberline {24}24}{144}{section.2.24}%
-\contentsline {subsection}{Oración por la protección de Dios, por la guía llena de gracia y el perdón de los pecados}{144}{section.2.24}%
-\contentsline {section}{\numberline {25}25}{144}{section.2.25}%
-\contentsline {subsection}{Un piadoso grito de auxilio, consciente de su inocencia}{145}{section.2.25}%
-\contentsline {section}{\numberline {26}26}{145}{section.2.26}%
-\contentsline {subsection}{Confianza gozosa en el Señor y solicitud de mayor protección}{146}{section.2.26}%
-\contentsline {section}{\numberline {27}27}{146}{section.2.27}%
-\contentsline {subsection}{Oración y ayuda contra enemigos impíos y gracias por la respuesta}{147}{section.2.27}%
-\contentsline {section}{\numberline {28}28}{147}{section.2.28}%
-\contentsline {subsection}{La gloria de Dios en una tormenta}{148}{section.2.28}%
-\contentsline {section}{\numberline {29}29}{148}{section.2.29}%
-\contentsline {subsection}{Canción de agradecimiento para alguien rescatado de la angustia}{148}{section.2.29}%
-\contentsline {section}{\numberline {30}30}{148}{section.2.30}%
-\contentsline {subsection}{Oración confiada en extrema necesidad}{149}{section.2.30}%
-\contentsline {section}{\numberline {31}31}{149}{section.2.31}%
-\contentsline {subsection}{Bendiciones del arrepentimiento y bienaventuranza del perdón de los pecados (Salmo Segundo Penitencial)}{151}{section.2.31}%
-\contentsline {section}{\numberline {32}32}{151}{section.2.32}%
-\contentsline {subsection}{Invitación a alabar la omnipotencia y la gracia de Dios}{152}{section.2.32}%
-\contentsline {section}{\numberline {33}33}{152}{section.2.33}%
-\contentsline {subsection}{Dios ayuda a los suyos en cada necesidad}{153}{section.2.33}%
-\contentsline {section}{\numberline {34}34}{153}{section.2.34}%
-\contentsline {subsection}{Pide ayuda a un tolerante contra enemigos infieles e ingratos}{154}{section.2.34}%
-\contentsline {section}{\numberline {35}35}{154}{section.2.35}%
-\contentsline {subsection}{Los acontecimientos desesperados de los malvados y las bendiciones de la comunión con Dios}{156}{section.2.35}%
-\contentsline {section}{\numberline {36}36}{156}{section.2.36}%
-\contentsline {subsection}{La falsa suerte de los malvados (= impíos) permite que los justos sean piadosos}{157}{section.2.36}%
-\contentsline {section}{\numberline {37}37}{157}{section.2.37}%
-\contentsline {subsection}{Oración penitencial y clamor por ayuda en enfermedades graves y angustias (tercer salmo penitencial)}{159}{section.2.37}%
-\contentsline {section}{\numberline {38}38}{159}{section.2.38}%
-\contentsline {subsection}{Demanda y solicitud de una persona fuertemente impugnada}{160}{section.2.38}%
-\contentsline {section}{\numberline {39}39}{160}{section.2.39}%
-\contentsline {subsection}{Acción de gracias y súplica}{161}{section.2.39}%
-\contentsline {section}{\numberline {40}40}{161}{section.2.40}%
-\contentsline {subsection}{Un enfermo se queja de enemigos maliciosos y amigos infieles}{163}{section.2.40}%
-\contentsline {section}{\numberline {41}41}{163}{section.2.41}%
-\contentsline {subsection}{Anhelo de Dios y su santuario en Sion}{163}{section.2.41}%
-\contentsline {section}{\numberline {42}42}{163}{section.2.42}%
-\contentsline {section}{\numberline {43}43}{164}{section.2.43}%
-\contentsline {subsection}{Lamentar y clamar por ayuda del pueblo respetuoso de la ley, pero derrotado y maltratado por sus enemigos}{165}{section.2.43}%
-\contentsline {section}{\numberline {44}44}{165}{section.2.44}%
-\contentsline {subsection}{Canción de celebración de la boda del rey}{166}{section.2.44}%
-\contentsline {section}{\numberline {45}45}{166}{section.2.45}%
-\contentsline {subsection}{Una poderosa fortaleza es nuestro Dios}{167}{section.2.45}%
-\contentsline {section}{\numberline {46}46}{167}{section.2.46}%
-\contentsline {subsection}{El Dios de Israel como Rey de todos los pueblos}{168}{section.2.46}%
-\contentsline {section}{\numberline {47}47}{168}{section.2.47}%
-\contentsline {subsection}{La fiesta de los peregrinos alaba a Sión, la ciudad invicta de Dios}{169}{section.2.47}%
-\contentsline {section}{\numberline {48}48}{169}{section.2.48}%
-\contentsline {subsection}{Impermanencia de la felicidad exterior de los malvados}{170}{section.2.48}%
-\contentsline {section}{\numberline {49}49}{170}{section.2.49}%
-\contentsline {subsection}{La adoración correcta}{171}{section.2.49}%
-\contentsline {section}{\numberline {50}50}{171}{section.2.50}%
-\contentsline {subsection}{Oración penitencial de David (cuarto salmo penitencial)}{172}{section.2.50}%
-\contentsline {section}{\numberline {51}51}{172}{section.2.51}%
-\contentsline {subsection}{Quejarse de un enemigo violento y regocijarse con la ayuda divina}{173}{section.2.51}%
-\contentsline {section}{\numberline {52}52}{173}{section.2.52}%
-\contentsline {subsection}{Pensamientos sobre la depravación general del mundo y pedir redención}{174}{section.2.52}%
-\contentsline {section}{\numberline {53}53}{174}{section.2.53}%
-\contentsline {subsection}{Pide ayuda contra enemigos impíos}{175}{section.2.53}%
-\contentsline {section}{\numberline {54}54}{175}{section.2.54}%
-\contentsline {subsection}{Oración contra un enemigo impío y queja contra un amigo infiel}{175}{section.2.54}%
-\contentsline {section}{\numberline {55}55}{175}{section.2.55}%
-\contentsline {subsection}{Coraje seguro en una situación desesperada}{176}{section.2.55}%
-\contentsline {section}{\numberline {56}56}{176}{section.2.56}%
-\contentsline {subsection}{Confianza en Dios en medio de enemigos}{177}{section.2.56}%
-\contentsline {section}{\numberline {57}57}{177}{section.2.57}%
-\contentsline {subsection}{Contra jueces (o gobernantes) injustos}{178}{section.2.57}%
-\contentsline {section}{\numberline {58}58}{178}{section.2.58}%
-\contentsline {subsection}{Un grito de ayuda de un enemigo violento}{179}{section.2.58}%
-\contentsline {section}{\numberline {59}59}{179}{section.2.59}%
-\contentsline {subsection}{Oración después de una severa derrota en la guerra}{180}{section.2.59}%
-\contentsline {section}{\numberline {60}60}{180}{section.2.60}%
-\contentsline {subsection}{Intercesión por el Rey desde lejos}{181}{section.2.60}%
-\contentsline {section}{\numberline {61}61}{181}{section.2.61}%
-\contentsline {subsection}{¡Silencio en Dios! La nada de la gente}{181}{section.2.61}%
-\contentsline {section}{\numberline {62}62}{181}{section.2.62}%
-\contentsline {subsection}{Anhelo de Dios, el refrigerio del alma y el bien supremo}{182}{section.2.62}%
-\contentsline {section}{\numberline {63}63}{182}{section.2.63}%
-\contentsline {subsection}{Pide protección contra enemigos maliciosos}{183}{section.2.63}%
-\contentsline {section}{\numberline {64}64}{183}{section.2.64}%
-\contentsline {subsection}{Canción de acción de gracias por los beneficios espirituales divinos y las bendiciones de la cosecha}{183}{section.2.64}%
-\contentsline {section}{\numberline {65}65}{183}{section.2.65}%
-\contentsline {subsection}{Canto de agradecimiento del pueblo por su maravillosa guía y salvación}{184}{section.2.65}%
-\contentsline {section}{\numberline {66}66}{184}{section.2.66}%
-\contentsline {subsection}{¡Dios bendiga a Israel! (Canción de Acción de Gracias)}{185}{section.2.66}%
-\contentsline {section}{\numberline {67}67}{185}{section.2.67}%
-\contentsline {subsection}{La victoria del Dios de Israel sobre sus enemigos}{186}{section.2.67}%
-\contentsline {section}{\numberline {68}68}{186}{section.2.68}%
-\contentsline {subsection}{La oración de un hombre piadoso por la salvación de la vergüenza y la angustia}{188}{section.2.68}%
-\contentsline {section}{\numberline {69}69}{188}{section.2.69}%
-\contentsline {subsection}{Pide ayuda en la búsqueda}{190}{section.2.69}%
-\contentsline {section}{\numberline {70}70}{190}{section.2.70}%
-\contentsline {subsection}{¡No me dejes en la vejez!}{190}{section.2.70}%
-\contentsline {section}{\numberline {71}71}{190}{section.2.71}%
-\contentsline {subsection}{Bendiciones al rey}{192}{section.2.71}%
-\contentsline {section}{\numberline {72}72}{192}{section.2.72}%
-\contentsline {subsection}{El hecho por Dios »sin embargo«}{193}{section.2.72}%
-\contentsline {section}{\numberline {73}73}{193}{section.2.73}%
-\contentsline {subsection}{Quejarse ante la congregación de la devastación del templo y pedir ayuda}{195}{section.2.73}%
-\contentsline {section}{\numberline {74}74}{195}{section.2.74}%
-\contentsline {subsection}{Dios, el juez del mundo justo}{196}{section.2.74}%
-\contentsline {section}{\numberline {75}75}{196}{section.2.75}%
-\contentsline {subsection}{El canto de la victoria de Israel en alabanza a Dios}{197}{section.2.75}%
-\contentsline {section}{\numberline {76}76}{197}{section.2.76}%
-\contentsline {subsection}{Recuerdos en tiempos dolorosos del liderazgo anterior de Dios y quejas sobre el cambio en el comportamiento divino hacia su pueblo}{197}{section.2.76}%
-\contentsline {section}{\numberline {77}77}{197}{section.2.77}%
-\contentsline {subsection}{Revisión de advertencia de la desobediencia repetida de Israel}{199}{section.2.77}%
-\contentsline {section}{\numberline {78}78}{199}{section.2.78}%
-\contentsline {subsection}{Lamentación del pueblo de Dios por la desolación de Jerusalén}{202}{section.2.78}%
-\contentsline {section}{\numberline {79}79}{202}{section.2.79}%
-\contentsline {subsection}{Oración por la restauración de Israel, la vid que Dios plantó}{203}{section.2.79}%
-\contentsline {section}{\numberline {80}80}{203}{section.2.80}%
-\contentsline {subsection}{Canción del festival. Con penitencia}{204}{section.2.80}%
-\contentsline {section}{\numberline {81}81}{204}{section.2.81}%
-\contentsline {subsection}{El juicio de Dios sobre jueces injustos (es decir, gobernantes obedientes)}{205}{section.2.81}%
-\contentsline {section}{\numberline {82}82}{205}{section.2.82}%
-\contentsline {subsection}{¡Enemigos por todas partes! (Oración del pueblo angustiado)}{206}{section.2.82}%
-\contentsline {section}{\numberline {83}83}{206}{section.2.83}%
-\contentsline {subsection}{Anhelo de la casa de Dios (¿una canción de peregrinaje?)}{207}{section.2.83}%
-\contentsline {section}{\numberline {84}84}{207}{section.2.84}%
-\contentsline {subsection}{La oración de Israel por nueva gracia y la promesa de bendición de Dios}{208}{section.2.84}%
-\contentsline {section}{\numberline {85}85}{208}{section.2.85}%
-\contentsline {subsection}{Oración de los piadosos en angustia hostil}{208}{section.2.85}%
-\contentsline {section}{\numberline {86}86}{208}{section.2.86}%
-\contentsline {subsection}{Sion, la piadosa ciudad madre de las naciones}{209}{section.2.86}%
-\contentsline {section}{\numberline {87}87}{209}{section.2.87}%
-\contentsline {subsection}{Queja desesperada de un enfermo grave}{210}{section.2.87}%
-\contentsline {section}{\numberline {88}88}{210}{section.2.88}%
-\contentsline {subsection}{¿Dónde se dan las promesas de gracia de Dios a la Casa de David?}{211}{section.2.88}%
-\contentsline {section}{\numberline {89}89}{211}{section.2.89}%
-\contentsline {subsection}{Dios eterno el refugio de los perecederos}{214}{section.2.89}%
-\contentsline {section}{\numberline {90}90}{214}{section.2.90}%
-\contentsline {subsection}{Bajo el cuidado del Altísimo}{215}{section.2.90}%
-\contentsline {section}{\numberline {91}91}{215}{section.2.91}%
-\contentsline {subsection}{Alabado sea el justo gobierno de Dios}{216}{section.2.91}%
-\contentsline {section}{\numberline {92}92}{216}{section.2.92}%
-\contentsline {subsection}{La gloria de Dios, el Rey eterno del mundo}{217}{section.2.92}%
-\contentsline {section}{\numberline {93}93}{217}{section.2.93}%
-\contentsline {subsection}{Pide venganza contra los impíos opresores del pueblo de Dios}{217}{section.2.93}%
-\contentsline {section}{\numberline {94}94}{217}{section.2.94}%
-\contentsline {subsection}{Alabanza a Dios al entrar al templo y penitencia}{218}{section.2.94}%
-\contentsline {section}{\numberline {95}95}{218}{section.2.95}%
-\contentsline {subsection}{Alabado sea Dios como el gobernante del mundo en los últimos tiempos}{219}{section.2.95}%
-\contentsline {section}{\numberline {96}96}{219}{section.2.96}%
-\contentsline {subsection}{El ascenso y el reinado de Dios en los últimos tiempos}{220}{section.2.96}%
-\contentsline {section}{\numberline {97}97}{220}{section.2.97}%
-\contentsline {subsection}{Alabado sea Dios como rey y juez justo del mundo}{220}{section.2.97}%
-\contentsline {section}{\numberline {98}98}{220}{section.2.98}%
-\contentsline {subsection}{Alabado sea el Dios santo, el Rey que todo lo gobierna}{221}{section.2.98}%
-\contentsline {section}{\numberline {99}99}{221}{section.2.99}%
-\contentsline {subsection}{Alabado sea Dios al entrar al templo}{222}{section.2.99}%
-\contentsline {section}{\numberline {100}100}{222}{section.2.100}%
-\contentsline {subsection}{Votos de un gobernante (o: príncipe espejo)}{222}{section.2.100}%
-\contentsline {section}{\numberline {101}101}{222}{section.2.101}%
-\contentsline {subsection}{Oración penitente de una víctima y solicitud de la restauración de Sion (quinto salmo penitencial)}{222}{section.2.101}%
-\contentsline {section}{\numberline {102}102}{222}{section.2.102}%
-\contentsline {subsection}{¡Alabado sea el Señor, alma mía!}{224}{section.2.102}%
-\contentsline {section}{\numberline {103}103}{224}{section.2.103}%
-\contentsline {subsection}{La gloria de Dios en la naturaleza}{225}{section.2.103}%
-\contentsline {section}{\numberline {104}104}{225}{section.2.104}%
-\contentsline {subsection}{Los actos salvadores de Dios en el antiguo Israel}{227}{section.2.104}%
-\contentsline {section}{\numberline {105}105}{227}{section.2.105}%
-\contentsline {subsection}{La gracia de Dios y la ingratitud de Israel}{229}{section.2.105}%
-\contentsline {section}{\numberline {106}106}{229}{section.2.106}%
-\contentsline {subsection}{Alabado sea Dios, el Salvador de toda adversidad}{232}{section.2.106}%
-\contentsline {section}{\numberline {107}107}{232}{section.2.107}%
-\contentsline {subsection}{Alaba la gracia de Dios y pide ayuda}{234}{section.2.107}%
-\contentsline {section}{\numberline {108}108}{234}{section.2.108}%
-\contentsline {subsection}{Maldición de enemigos impíos}{235}{section.2.108}%
-\contentsline {section}{\numberline {109}109}{235}{section.2.109}%
-\contentsline {subsection}{El mensaje de Dios al Sacerdote-Rey}{237}{section.2.109}%
-\contentsline {section}{\numberline {110}110}{237}{section.2.110}%
-\contentsline {subsection}{Alabe las bendiciones físicas y espirituales de Dios}{237}{section.2.110}%
-\contentsline {section}{\numberline {111}111}{237}{section.2.111}%
-\contentsline {subsection}{La bendición del temor de Dios y la misericordia}{238}{section.2.111}%
-\contentsline {section}{\numberline {112}112}{238}{section.2.112}%
-\contentsline {subsection}{Alabado sea el Dios exaltado y misericordioso}{239}{section.2.112}%
-\contentsline {section}{\numberline {113}113}{239}{section.2.113}%
-\contentsline {subsection}{El poder milagroso de Dios durante el paso de los israelitas por el Mar Rojo y el Jordán}{239}{section.2.113}%
-\contentsline {section}{\numberline {114}114}{239}{section.2.114}%
-\contentsline {subsection}{Solo el Dios vivo merece gloria}{240}{section.2.114}%
-\contentsline {section}{\numberline {115}115}{240}{section.2.115}%
-\contentsline {subsection}{Canción de acción de gracias y votos de alguien rescatado del peligro de muerte (al ofrecer el sacrificio de acción de gracias)}{241}{section.2.115}%
-\contentsline {section}{\numberline {116}116}{241}{section.2.116}%
-\contentsline {subsection}{Llamando a los gentiles a alabar a Dios}{242}{section.2.116}%
-\contentsline {section}{\numberline {117}117}{242}{section.2.117}%
-\contentsline {subsection}{Oración de acción de gracias y canción de victoria de la comunidad del festival}{242}{section.2.117}%
-\contentsline {section}{\numberline {118}118}{242}{section.2.118}%
-\contentsline {subsection}{Gloria de la palabra y ley divinas (o: el alfabeto dorado)}{243}{section.2.118}%
-\contentsline {section}{\numberline {119}119}{243}{section.2.119}%
-\contentsline {subsection}{Beth}{244}{section.2.119}%
-\contentsline {subsection}{Gimel}{244}{section.2.119}%
-\contentsline {subsection}{Daleth}{244}{section.2.119}%
-\contentsline {subsection}{He}{245}{section.2.119}%
-\contentsline {subsection}{Vau}{245}{section.2.119}%
-\contentsline {subsection}{Zain}{246}{section.2.119}%
-\contentsline {subsection}{Cheth}{246}{section.2.119}%
-\contentsline {subsection}{Teth}{246}{section.2.119}%
-\contentsline {subsection}{Jod}{247}{section.2.119}%
-\contentsline {subsection}{Caph}{247}{section.2.119}%
-\contentsline {subsection}{Lamed}{248}{section.2.119}%
-\contentsline {subsection}{Mem}{248}{section.2.119}%
-\contentsline {subsection}{Nun}{248}{section.2.119}%
-\contentsline {subsection}{Samech}{249}{section.2.119}%
-\contentsline {subsection}{Ain}{249}{section.2.119}%
-\contentsline {subsection}{Pe}{250}{section.2.119}%
-\contentsline {subsection}{Tzaddi}{250}{section.2.119}%
-\contentsline {subsection}{Coph}{250}{section.2.119}%
-\contentsline {subsection}{Resh}{251}{section.2.119}%
-\contentsline {subsection}{Sin}{251}{section.2.119}%
-\contentsline {subsection}{Tau}{252}{section.2.119}%
-\contentsline {subsection}{Pida ayuda contra adversarios engañosos y contenciosos}{252}{section.2.119}%
-\contentsline {section}{\numberline {120}120}{252}{section.2.120}%
-\contentsline {subsection}{El fiel guardián del pueblo}{252}{section.2.120}%
-\contentsline {section}{\numberline {121}121}{252}{section.2.121}%
-\contentsline {subsection}{Las bendiciones de un peregrino para Jerusalén}{253}{section.2.121}%
-\contentsline {section}{\numberline {122}122}{253}{section.2.122}%
-\contentsline {subsection}{Los creyentes miran a Dios con vergüenza y burla}{253}{section.2.122}%
-\contentsline {section}{\numberline {123}123}{253}{section.2.123}%
-\contentsline {subsection}{El salvador de Israel necesitado}{254}{section.2.123}%
-\contentsline {section}{\numberline {124}124}{254}{section.2.124}%
-\contentsline {subsection}{Dios protege a su pueblo Israel y a todos los rectos}{254}{section.2.124}%
-\contentsline {section}{\numberline {125}125}{254}{section.2.125}%
-\contentsline {subsection}{Consuelo en las lágrimas}{254}{section.2.125}%
-\contentsline {section}{\numberline {126}126}{254}{section.2.126}%
-\contentsline {subsection}{Todo depende de la bendición de Dios}{255}{section.2.126}%
-\contentsline {section}{\numberline {127}127}{255}{section.2.127}%
-\contentsline {subsection}{La felicidad doméstica como bendición del temor de Dios}{255}{section.2.127}%
-\contentsline {section}{\numberline {128}128}{255}{section.2.128}%
-\contentsline {subsection}{Tribulaciones y salvación de Israel}{256}{section.2.128}%
-\contentsline {section}{\numberline {129}129}{256}{section.2.129}%
-\contentsline {subsection}{Por profunda necesidad (Sexto Salmo Penitencial)}{256}{section.2.129}%
-\contentsline {section}{\numberline {130}130}{256}{section.2.130}%
-\contentsline {subsection}{Satisfacción tranquila (o descanso en Dios)}{257}{section.2.130}%
-\contentsline {section}{\numberline {131}131}{257}{section.2.131}%
-\contentsline {subsection}{Oración por Sion en vista de la promesa de Dios a David}{257}{section.2.131}%
-\contentsline {section}{\numberline {132}132}{257}{section.2.132}%
-\contentsline {subsection}{Bendiciones de la unidad fraterna}{258}{section.2.132}%
-\contentsline {section}{\numberline {133}133}{258}{section.2.133}%
-\contentsline {subsection}{Canción de los guardias del templo en el servicio nocturno}{258}{section.2.133}%
-\contentsline {section}{\numberline {134}134}{258}{section.2.134}%
-\contentsline {subsection}{Alabado sea el único Dios verdadero}{258}{section.2.134}%
-\contentsline {section}{\numberline {135}135}{258}{section.2.135}%
-\contentsline {subsection}{Canto de acción de gracias por los beneficios de Dios para Israel}{259}{section.2.135}%
-\contentsline {section}{\numberline {136}136}{259}{section.2.136}%
-\contentsline {subsection}{Lamento de los judíos capturados a los ríos de Babilonia}{261}{section.2.136}%
-\contentsline {section}{\numberline {137}137}{261}{section.2.137}%
-\contentsline {subsection}{Lamento de los judíos capturados a los ríos de Babilonia}{261}{section.2.137}%
-\contentsline {section}{\numberline {138}138}{261}{section.2.138}%
-\contentsline {subsection}{Dios el omnisciente y omnipresente}{262}{section.2.138}%
-\contentsline {section}{\numberline {139}139}{262}{section.2.139}%
-\contentsline {subsection}{Oración por la salvación de enemigos engañosos}{263}{section.2.139}%
-\contentsline {section}{\numberline {140}140}{263}{section.2.140}%
-\contentsline {subsection}{Oración por protección contra el mal y los perseguidores}{264}{section.2.140}%
-\contentsline {section}{\numberline {141}141}{264}{section.2.141}%
-\contentsline {subsection}{Pide ayuda en una situación desesperada}{265}{section.2.141}%
-\contentsline {section}{\numberline {142}142}{265}{section.2.142}%
-\contentsline {subsection}{Pedir ayuda en aflicciones externas e internas (Séptimo Salmo Penitencial)}{265}{section.2.142}%
-\contentsline {section}{\numberline {143}143}{265}{section.2.143}%
-\contentsline {subsection}{Oración de alabanza y súplica; La abundancia de bendiciones de Israel}{266}{section.2.143}%
-\contentsline {section}{\numberline {144}144}{266}{section.2.144}%
-\contentsline {subsection}{Canto de alabanza a la grandeza y bondad de Dios, sustentador y gobernante del mundo}{267}{section.2.144}%
-\contentsline {section}{\numberline {145}145}{267}{section.2.145}%
-\contentsline {subsection}{¡Bienaventurados los que confían en el Señor!}{268}{section.2.145}%
-\contentsline {section}{\numberline {146}146}{268}{section.2.146}%
-\contentsline {subsection}{Alabado sea la omnipotencia, la bondad y la sabiduría de Dios}{269}{section.2.146}%
-\contentsline {section}{\numberline {147}147}{269}{section.2.147}%
-\contentsline {subsection}{¡Todo el mundo, toda la creación, alabado sea el Señor!}{270}{section.2.147}%
-\contentsline {section}{\numberline {148}148}{270}{section.2.148}%
-\contentsline {subsection}{El cántico de victoria y venganza de Israel}{270}{section.2.148}%
-\contentsline {section}{\numberline {149}149}{270}{section.2.149}%
-\contentsline {subsection}{¡Todo lo que respira, alabado sea el Señor!}{271}{section.2.149}%
-\contentsline {section}{\numberline {150}150}{271}{section.2.150}%
-\contentsline {chapter}{\numberline {3}Sprüche}{271}{chapter.3}%
-\contentsline {subsection}{Indicación del propósito de las escrituras}{271}{chapter.3}%
-\contentsline {section}{\numberline {1}1}{272}{section.3.1}%
-\contentsline {subsection}{Invitación a la obediencia voluntaria; Advertencia contra la seducción, especialmente antes de participar en actos de violencia}{272}{section.3.1}%
-\contentsline {subsection}{El llamado de la sabiduría para obedecer voluntariamente sus mandamientos; Amenazas para los reacios}{273}{section.3.1}%
-\contentsline {subsection}{Las bendiciones de buscar diligentemente la sabiduría}{273}{section.3.1}%
-\contentsline {section}{\numberline {2}2}{273}{section.3.2}%
-\contentsline {subsection}{Advertencias sobre el temor de Dios y el comportamiento moral con referencia a la recompensa esperada}{274}{section.3.2}%
-\contentsline {section}{\numberline {3}3}{274}{section.3.3}%
-\contentsline {subsection}{Valor y bendición de la sabiduría}{275}{section.3.3}%
-\contentsline {subsection}{Advertencias contra el desamor hacia el prójimo y contra la violencia}{276}{section.3.3}%
-\contentsline {subsection}{Exhortación paternal a buscar sabiduría y obedecer sus enseñanzas}{276}{section.3.3}%
-\contentsline {section}{\numberline {4}4}{276}{section.3.4}%
-\contentsline {subsection}{Advertencia contra el coito con adúlteras; Alabanza de la vida conyugal}{277}{section.3.4}%
-\contentsline {section}{\numberline {5}5}{277}{section.3.5}%
-\contentsline {subsection}{Advertencias sobre seguridad, indolencia, falsedad y todos los seres impiedosos}{279}{section.3.5}%
-\contentsline {section}{\numberline {6}6}{279}{section.3.6}%
-\contentsline {subsection}{Otra advertencia contra el coito con adúlteras}{280}{section.3.6}%
-\contentsline {subsection}{Descripción de la seducción a la fornicación adúltera; Advertencia de sus nefastas consecuencias}{280}{section.3.6}%
-\contentsline {section}{\numberline {7}7}{280}{section.3.7}%
-\contentsline {subsection}{Invitación y auto recomendación de la sabiduría como docente}{282}{section.3.7}%
-\contentsline {section}{\numberline {8}8}{282}{section.3.8}%
-\contentsline {subsection}{La sabiduría como primera y más excelente criatura de Dios}{283}{section.3.8}%
-\contentsline {subsection}{Recordatorio y advertencia}{283}{section.3.8}%
-\contentsline {subsection}{La Sra. Sabiduria y la Sra. Locura invitan a los invitados}{284}{section.3.8}%
-\contentsline {section}{\numberline {9}9}{284}{section.3.9}%
-\contentsline {subsection}{La invitación a la locura}{284}{section.3.9}%
-\contentsline {section}{\numberline {10}10}{284}{section.3.10}%
-\contentsline {section}{\numberline {11}11}{286}{section.3.11}%
-\contentsline {section}{\numberline {12}12}{288}{section.3.12}%
-\contentsline {section}{\numberline {13}13}{289}{section.3.13}%
-\contentsline {section}{\numberline {14}14}{290}{section.3.14}%
-\contentsline {section}{\numberline {15}15}{292}{section.3.15}%
-\contentsline {section}{\numberline {16}16}{294}{section.3.16}%
-\contentsline {section}{\numberline {17}17}{295}{section.3.17}%
-\contentsline {section}{\numberline {18}18}{297}{section.3.18}%
-\contentsline {section}{\numberline {19}19}{298}{section.3.19}%
-\contentsline {section}{\numberline {20}20}{299}{section.3.20}%
-\contentsline {section}{\numberline {21}21}{301}{section.3.21}%
-\contentsline {section}{\numberline {22}22}{302}{section.3.22}%
-\contentsline {subsection}{Primera colección de dichos de los sabios; Introducción}{303}{section.3.22}%
-\contentsline {subsection}{Recordatorios individuales}{303}{section.3.22}%
-\contentsline {section}{\numberline {23}23}{304}{section.3.23}%
-\contentsline {section}{\numberline {24}24}{306}{section.3.24}%
-\contentsline {subsection}{Segunda colección de dichos de los sabios}{307}{section.3.24}%
-\contentsline {subsection}{Tercera colección de Proverbios de Salomón}{307}{section.3.24}%
-\contentsline {section}{\numberline {25}25}{307}{section.3.25}%
-\contentsline {section}{\numberline {26}26}{309}{section.3.26}%
-\contentsline {section}{\numberline {27}27}{310}{section.3.27}%
-\contentsline {section}{\numberline {28}28}{312}{section.3.28}%
-\contentsline {section}{\numberline {29}29}{313}{section.3.29}%
-\contentsline {subsection}{Dichos de Agur}{315}{section.3.29}%
-\contentsline {section}{\numberline {30}30}{315}{section.3.30}%
-\contentsline {subsection}{Dichos para Lemuel}{317}{section.3.30}%
-\contentsline {section}{\numberline {31}31}{317}{section.3.31}%
-\contentsline {subsection}{Alabado sea el ama de casa capaz}{317}{section.3.31}%
-\contentsline {chapter}{\numberline {4}Offenbarung}{320}{chapter.4}%
-\contentsline {subsection}{El título que indica el origen, el propósito y el significado de esta fuente}{320}{chapter.4}%
-\contentsline {section}{\numberline {1}1}{320}{section.4.1}%
-\contentsline {subsection}{Bendiciones a las siete parroquias de la provincia romana de Asia}{320}{section.4.1}%
-\contentsline {subsection}{Resumen: Anuncio de la venida de Jesús al juicio}{320}{section.4.1}%
-\contentsline {subsection}{La primera vista (en Patmos) de las siete estrellas y los siete candeleros: Cómo está preparado el Señor para venir a su cristianismo; Llamar a John para que escriba las visiones}{321}{section.4.1}%
-\contentsline {subsection}{Carta a la iglesia en Éfeso: ``¡No dejes el primer amor!''}{322}{section.4.1}%
-\contentsline {section}{\numberline {2}2}{322}{section.4.2}%
-\contentsline {subsection}{Carta a la comunidad de Esmirna: ``¡Sé fiel hasta la muerte!''}{322}{section.4.2}%
-\contentsline {subsection}{Carta a la parroquia de Pérgamo: ``¡No sigas al mundo vanidoso!''}{323}{section.4.2}%
-\contentsline {subsection}{Carta a la iglesia de Tiatira: ``¡Examina sabiamente todo espíritu!''}{323}{section.4.2}%
-\contentsline {subsection}{Carta a la comunidad de Sardis: ``¡No estés muerto como los demás!''}{324}{section.4.2}%
-\contentsline {section}{\numberline {3}3}{324}{section.4.3}%
-\contentsline {subsection}{Carta a la Iglesia de Filadelfia: ``¡Aférrate a tu corona!''}{325}{section.4.3}%
-\contentsline {subsection}{Carta a la congregación de Laodicea: ``¡No seas tibio y lento para encontrarte!''}{325}{section.4.3}%
-\contentsline {subsection}{Dios el Padre y el concilio celestial en el salón del trono de Dios}{326}{section.4.3}%
-\contentsline {section}{\numberline {4}4}{326}{section.4.4}%
-\contentsline {subsection}{El libro del destino con los siete sellos y el Cordero de Dios en el trono}{327}{section.4.4}%
-\contentsline {section}{\numberline {5}5}{327}{section.4.5}%
-\contentsline {subsection}{El himno de alabanza de los ángeles y de toda la creación}{328}{section.4.5}%
-\contentsline {subsection}{La apertura de los primeros seis sellos por el Cordero; Los cuatro jinetes}{328}{section.4.5}%
-\contentsline {section}{\numberline {6}6}{328}{section.4.6}%
-\contentsline {subsection}{Los mártires}{329}{section.4.6}%
-\contentsline {subsection}{Platos terribles en la imagen de los fenómenos naturales}{329}{section.4.6}%
-\contentsline {subsection}{El sellamiento de una selección (de 144.000 de las doce tribus de Israel)}{330}{section.4.6}%
-\contentsline {section}{\numberline {7}7}{330}{section.4.7}%
-\contentsline {subsection}{El homenaje a las innumerables, probadas y probadas almas creyentes de todos los pueblos ante el trono de Dios, que han salido de la gran tribulación}{331}{section.4.7}%
-\contentsline {subsection}{La solución del séptimo sello y el silencio en el cielo (presentando los juicios de las trompetas)}{332}{section.4.7}%
-\contentsline {section}{\numberline {8}8}{332}{section.4.8}%
-\contentsline {subsection}{Las primeras cuatro trompetas (es decir, las plagas que vienen de arriba)}{332}{section.4.8}%
-\contentsline {subsection}{La primera llamada del águila y la quinta y sexta trompetas (las dos plagas que vienen de abajo, es decir, del infierno)}{333}{section.4.8}%
-\contentsline {subsection}{La quinta trompeta o el primer ay}{333}{section.4.8}%
-\contentsline {section}{\numberline {9}9}{333}{section.4.9}%
-\contentsline {subsection}{La sexta trompeta o el segundo ay}{334}{section.4.9}%
-\contentsline {subsection}{Un ángel sostiene un libro abierto y jura}{335}{section.4.9}%
-\contentsline {section}{\numberline {10}10}{335}{section.4.10}%
-\contentsline {subsection}{Johannes consume el librito agridulce}{335}{section.4.10}%
-\contentsline {subsection}{La medida del templo; la preservación de los fieles durante la intensa visita de los gentiles a la ciudad santa}{336}{section.4.10}%
-\contentsline {section}{\numberline {11}11}{336}{section.4.11}%
-\contentsline {subsection}{Efectividad, muerte y ascensión de los dos testigos de Dios}{336}{section.4.11}%
-\contentsline {subsection}{La séptima trompeta; Júbilo de victoria en el cielo; la aparición del arca}{337}{section.4.11}%
-\contentsline {subsection}{La Mujer Sol y el Dragón; Rescate de la mujer y su hijo recién nacido}{338}{section.4.11}%
-\contentsline {section}{\numberline {12}12}{338}{section.4.12}%
-\contentsline {subsection}{La victoria de Michael sobre el dragón en el cielo; Caída del dragón; himno celestial de alabanza; el reinado de Dios y su ungido está amaneciendo}{338}{section.4.12}%
-\contentsline {subsection}{Persecución infructuosa de mujeres por parte del dragón}{339}{section.4.12}%
-\contentsline {subsection}{La primera bestia del mar, de diez cuernos y siete cabezas; Amonestación a perseverar}{339}{section.4.12}%
-\contentsline {section}{\numberline {13}13}{339}{section.4.13}%
-\contentsline {subsection}{El Cordero y la iglesia perfecta de los 144.000 en el monte Sion}{341}{section.4.13}%
-\contentsline {section}{\numberline {14}14}{341}{section.4.14}%
-\contentsline {subsection}{Tres llamados de ángeles proclaman un mensaje eterno de salvación para todos los pueblos, así como la caída de Babilonia y anuncian el juicio de los adoradores de la bestia}{341}{section.4.14}%
-\contentsline {subsection}{Una voz celestial proclama la bienaventuranza de los creyentes (mártires) que son fieles hasta la muerte}{342}{section.4.14}%
-\contentsline {subsection}{El juicio del Hijo del Hombre en la tierra bajo la imagen de una cosecha de grano y una vendimia}{342}{section.4.14}%
-\contentsline {subsection}{Los siete ángeles con las siete últimas plagas; la alabanza de los vencedores en el mar de cristal}{343}{section.4.14}%
-\contentsline {section}{\numberline {15}15}{343}{section.4.15}%
-\contentsline {subsection}{La aparición y el equipamiento de los siete ángeles de la copa de la ira}{343}{section.4.15}%
-\contentsline {subsection}{El derramamiento de los siete tazones de ira}{344}{section.4.15}%
-\contentsline {section}{\numberline {16}16}{344}{section.4.16}%
-\contentsline {subsection}{Descripción de la espléndida pero abominable mujer entronizada sobre la bestia}{345}{section.4.16}%
-\contentsline {section}{\numberline {17}17}{345}{section.4.17}%
-\contentsline {subsection}{Descripción del animal de siete cabezas y diez cuernos, así como su destino pasado y futuro}{346}{section.4.17}%
-\contentsline {subsection}{Interpretación de la imagen}{347}{section.4.17}%
-\contentsline {subsection}{Anuncio del juicio que cae sobre Babilonia; La primera llamada del ángel}{347}{section.4.17}%
-\contentsline {section}{\numberline {18}18}{347}{section.4.18}%
-\contentsline {subsection}{Una segunda voz}{347}{section.4.18}%
-\contentsline {subsection}{Las lamentaciones de los reyes de la tierra, de los comerciantes y marineros por la caída de la ciudad}{348}{section.4.18}%
-\contentsline {subsection}{Aclamación gozosa, la voz celestial, a los habitantes celestiales}{349}{section.4.18}%
-\contentsline {subsection}{El signo simbólico de la aniquilación; la desolación que prevalece en la ciudad destruida}{349}{section.4.18}%
-\contentsline {subsection}{El júbilo en el cielo por la caída de Babilonia; la próxima boda del Cordero}{350}{section.4.18}%
-\contentsline {section}{\numberline {19}19}{350}{section.4.19}%
-\contentsline {subsection}{La batalla del Mesías; la destrucción de la bestia y sus seguidores, es decir, todos los ejércitos o pueblos hostiles}{350}{section.4.19}%
-\contentsline {subsection}{Encadenamiento de Satanás; la primera resurrección y el reino milenario de paz}{352}{section.4.19}%
-\contentsline {section}{\numberline {20}20}{352}{section.4.20}%
-\contentsline {subsection}{Gog y Magog; aparición final y aniquilación eterna de Satanás y sus huestes}{352}{section.4.20}%
-\contentsline {subsection}{La segunda resurrección (general) y el juicio final}{353}{section.4.20}%
-\contentsline {section}{\numberline {21}21}{353}{section.4.21}%
-\contentsline {subsection}{La nueva Jerusalén como morada de Dios con el pueblo y la promesa y el juicio de Dios}{353}{section.4.21}%
-\contentsline {subsection}{La descripción de la nueva Jerusalén}{354}{section.4.21}%
-\contentsline {subsection}{La corriente de la vida, los árboles de la vida, la comunión plena con Dios y el reino eterno de la luz}{355}{section.4.21}%
-\contentsline {section}{\numberline {22}22}{355}{section.4.22}%
-\contentsline {subsection}{Promesa de Cristo y testimonio de Juan; La adoración no se debe a la criatura, sino solo a Dios}{356}{section.4.22}%
-\contentsline {subsection}{Dirección y amonestación del ángel y discurso de Jesús}{356}{section.4.22}%
-\contentsline {subsection}{Las palabras finales de Jesús; Testimonio del espíritu profético y de la iglesia; La ordenación de Juan para su libro; Seguro, añoranza y despedida}{357}{section.4.22}%
+\contentsline {subsection}{Die Einwanderung Abrams in Kanaan}{30}{section.1.12}%
+\contentsline {subsection}{Abram und Sarai in Ägypten}{30}{section.1.12}%
+\contentsline {subsection}{Die Rückkehr Abrams}{31}{section.1.12}%
+\contentsline {section}{\numberline {13}13}{31}{section.1.13}%
+\contentsline {subsection}{Abram trennt sich von Lot}{31}{section.1.13}%
+\contentsline {subsection}{Der Wegzug Lots nach dem Jordantal}{32}{section.1.13}%
+\contentsline {subsection}{Gott verheisst Abram das Land Kanaan}{32}{section.1.13}%
+\contentsline {subsection}{Krieg der Könige im Jordantal}{32}{section.1.13}%
+\contentsline {section}{\numberline {14}14}{32}{section.1.14}%
+\contentsline {subsection}{Abrams Hilfe für Lot}{33}{section.1.14}%
+\contentsline {subsection}{Abrams Begegnung mit Melichsedek, dem König von Salem}{34}{section.1.14}%
+\contentsline {subsection}{Abrams Edelmut gegen den König von Sodom}{34}{section.1.14}%
+\contentsline {subsection}{Gott verheisst Abram einen Sohn}{34}{section.1.14}%
+\contentsline {section}{\numberline {15}15}{34}{section.1.15}%
+\contentsline {subsection}{Gott bestätigt seine Verheißung}{35}{section.1.15}%
+\contentsline {subsection}{Sarai gibt ihre Magd Hagar Abram zur Frau}{36}{section.1.15}%
+\contentsline {section}{\numberline {16}16}{36}{section.1.16}%
+\contentsline {subsection}{Gott offenbart sich der Hagar an der Quelle in der Wüste; Ismaels Geburt}{36}{section.1.16}%
+\contentsline {subsection}{Gott bestätigt seinen Bund mit Abraham}{37}{section.1.16}%
+\contentsline {section}{\numberline {17}17}{37}{section.1.17}%
+\contentsline {subsection}{Die Beschneidung}{37}{section.1.17}%
+\contentsline {subsection}{Gott verheisst Abraham einen Sohn von Sarah}{38}{section.1.17}%
+\contentsline {subsection}{Abraham vollzieht die Beschneidung}{39}{section.1.17}%
+\contentsline {subsection}{Gott besucht Abraham}{39}{section.1.17}%
+\contentsline {section}{\numberline {18}18}{39}{section.1.18}%
+\contentsline {subsection}{Die Fürbitte Abrahams für Sodom}{40}{section.1.18}%
+\contentsline {subsection}{Der Untergang von Sodom und Gomorrha}{41}{section.1.18}%
+\contentsline {section}{\numberline {19}19}{41}{section.1.19}%
+\contentsline {subsection}{Die Erretung Lots}{42}{section.1.19}%
+\contentsline {subsection}{Die Sünde von Lots Töchtern; Die Geburt der Stammväter der Moabiter und Ammoniter}{44}{section.1.19}%
+\contentsline {subsection}{Abraham bei Abimelech in Gerar}{44}{section.1.19}%
+\contentsline {section}{\numberline {20}20}{44}{section.1.20}%
+\contentsline {subsection}{Die Geburt von Isaak}{46}{section.1.20}%
+\contentsline {section}{\numberline {21}21}{46}{section.1.21}%
+\contentsline {subsection}{Ismaels Verstoßung und Errettung}{46}{section.1.21}%
+\contentsline {subsection}{Der Bund zwischen Abraham und Abimelech}{47}{section.1.21}%
+\contentsline {subsection}{Die Anordnug Gottes Isaak zu Opfern}{48}{section.1.21}%
+\contentsline {section}{\numberline {22}22}{48}{section.1.22}%
+\contentsline {subsection}{Der Gehorsam von Abraham}{48}{section.1.22}%
+\contentsline {subsection}{Die Vorbereitungen zum Opfer; Gottes Eingreifen}{49}{section.1.22}%
+\contentsline {subsection}{Gottes Anerkennung und Verheißungen für Abraham}{49}{section.1.22}%
+\contentsline {subsection}{Die Nachkommen Nahors, des Bruders von Abraham}{50}{section.1.22}%
+\contentsline {subsection}{Tod und Begräbnis von Sarah}{50}{section.1.22}%
+\contentsline {section}{\numberline {23}23}{50}{section.1.23}%
+\contentsline {subsection}{Abraham sendet seinen Knecht um für Isaak eine Frau zu suchen}{51}{section.1.23}%
+\contentsline {section}{\numberline {24}24}{51}{section.1.24}%
+\contentsline {subsection}{Die Reise des Kenchts nach Haran}{52}{section.1.24}%
+\contentsline {subsection}{Der Knecht kommt ins Haus von Nahor}{53}{section.1.24}%
+\contentsline {subsection}{Die Werbung um die Braut}{54}{section.1.24}%
+\contentsline {subsection}{Der Abschied von Rebekka}{55}{section.1.24}%
+\contentsline {subsection}{Die Ankunft der Braut beim Bräutiga}{56}{section.1.24}%
+\contentsline {subsection}{Die zweite Ehe von Abraham; sein Tod und Begräbnis}{56}{section.1.24}%
+\contentsline {section}{\numberline {25}25}{56}{section.1.25}%
+\contentsline {subsection}{Die Nachkommen von Ismael}{57}{section.1.25}%
+\contentsline {subsection}{Die Geburt von Esau und Jakob}{57}{section.1.25}%
+\contentsline {subsection}{Jakob erkauft das Erstgeburtsrecht von Esau}{58}{section.1.25}%
+\contentsline {subsection}{Isaak zieht bei einer Hungersnot nach Gerar}{58}{section.1.25}%
+\contentsline {section}{\numberline {26}26}{58}{section.1.26}%
+\contentsline {subsection}{Isaaks wachsender Reichtum; Streitigkeiten um Brunnen}{59}{section.1.26}%
+\contentsline {subsection}{Der Bund zwischen Isaak und Abimelech in Beerseba}{60}{section.1.26}%
+\contentsline {subsection}{Esau heiratet zwi Hethiterfrauen, gegen den Willen der Eltern}{61}{section.1.26}%
+\contentsline {subsection}{Isaak bereitet sich vor, Esau zu segnen}{61}{section.1.26}%
+\contentsline {section}{\numberline {27}27}{61}{section.1.27}%
+\contentsline {subsection}{Rebekkas betrügliches Eingreifen}{61}{section.1.27}%
+\contentsline {subsection}{Jakob erlangt den Erstgeburtssegen}{62}{section.1.27}%
+\contentsline {subsection}{Esaus Rückkehr, seine Klage und der ihm vom Vater erteilte Segen}{63}{section.1.27}%
+\contentsline {subsection}{Esau trachtet seinem Bruder nach dem Leben}{64}{section.1.27}%
+\contentsline {subsection}{Jakob flieht nach Haran}{64}{section.1.27}%
+\contentsline {section}{\numberline {28}28}{64}{section.1.28}%
+\contentsline {subsection}{Esaus neue Heirat mit einer Tochter Ismaels}{65}{section.1.28}%
+\contentsline {subsection}{Jakobs Traum in Bethel von der Himmelsleiter}{65}{section.1.28}%
+\contentsline {subsection}{Jakob weiht einen Denkstein als Anfang zu einem Gotteshause in Bethel}{66}{section.1.28}%
+\contentsline {subsection}{Jakob am Brunnen zu Haran}{66}{section.1.28}%
+\contentsline {section}{\numberline {29}29}{66}{section.1.29}%
+\contentsline {subsection}{Jakobs Begrüßung mit Rahel und seine Aufnahme bei Laban}{67}{section.1.29}%
+\contentsline {subsection}{Jakob tritt bei Laban in Dienst}{67}{section.1.29}%
+\contentsline {subsection}{Leas vier erste Söhne}{68}{section.1.29}%
+\contentsline {subsection}{Die zwei Söhne der Bilha, der Magd Rahels}{68}{section.1.29}%
+\contentsline {section}{\numberline {30}30}{68}{section.1.30}%
+\contentsline {subsection}{Die zwei Söhne der Silpa, der Magd Leas}{69}{section.1.30}%
+\contentsline {subsection}{Die letzten Kinder der Lea}{69}{section.1.30}%
+\contentsline {subsection}{Rahel wird die Mutter Josephs}{70}{section.1.30}%
+\contentsline {subsection}{Jakobs neuer Dienstvertrag mit Laban}{70}{section.1.30}%
+\contentsline {subsection}{Jakob gelangt durch List zu großem Viehbesitz}{71}{section.1.30}%
+\contentsline {subsection}{Die Anlässe zu Jakobs Flucht}{71}{section.1.30}%
+\contentsline {section}{\numberline {31}31}{71}{section.1.31}%
+\contentsline {subsection}{Jakobs Beratung mit seinen Frauen}{72}{section.1.31}%
+\contentsline {subsection}{Jakobs Flucht und Labans Verfolgung}{72}{section.1.31}%
+\contentsline {subsection}{Labans Strafrede und Haussuchung}{73}{section.1.31}%
+\contentsline {subsection}{Jakobs Anklagerede}{74}{section.1.31}%
+\contentsline {subsection}{\#\# Labans Antwort; der Friedensvertrag zwischen ihm und Jakob}{74}{section.1.31}%
+\contentsline {subsection}{Jakob sendet Boten zu Esau}{75}{section.1.31}%
+\contentsline {section}{\numberline {32}32}{75}{section.1.32}%
+\contentsline {subsection}{Das Gebet Jakobs um Gottes Hilfe}{76}{section.1.32}%
+\contentsline {subsection}{Jakob sendet Esau Geschenke}{76}{section.1.32}%
+\contentsline {subsection}{Jakob kämpft in der Nacht mit Gott}{77}{section.1.32}%
+\contentsline {subsection}{Jakobs Aussöhnung mit Esau}{78}{section.1.32}%
+\contentsline {section}{\numberline {33}33}{78}{section.1.33}%
+\contentsline {subsection}{Jakob lehnt das Geleit Esaus ab; dieser kehrt nach Seir zurück}{78}{section.1.33}%
+\contentsline {subsection}{Jakob zieht nach Sukkoth weiter und läßt sich bei Sichem nieder}{79}{section.1.33}%
+\contentsline {subsection}{Sichems Vergehen an Dina}{79}{section.1.33}%
+\contentsline {section}{\numberline {34}34}{79}{section.1.34}%
+\contentsline {subsection}{Hemor wirbt um Dina bei den Söhnen Jakobs}{79}{section.1.34}%
+\contentsline {subsection}{Die Forderung der Söhne Jakobs wird von den Sichemiten angenommen}{80}{section.1.34}%
+\contentsline {subsection}{Die hinterlistige Rache der Söhne Jakobs}{81}{section.1.34}%
+\contentsline {subsection}{Jakobs Unwille über die verwerfliche Tat seiner Söhne}{81}{section.1.34}%
+\contentsline {subsection}{Auf Gottes Mahnung bricht Jakob von Sichem auf}{81}{section.1.34}%
+\contentsline {section}{\numberline {35}35}{81}{section.1.35}%
+\contentsline {subsection}{Jakobs Ankunft und Altarbau in Bethel}{82}{section.1.35}%
+\contentsline {subsection}{Jakob von Gott gesegnet}{82}{section.1.35}%
+\contentsline {subsection}{Aufbruch von Bethel; Rahel stirbt bei der Geburt Benjamins}{83}{section.1.35}%
+\contentsline {subsection}{Rubens Schandtat; Jakobs zwölf Söhne; seine Heimkehr nach Hebron; Isaaks Tod und Begräbnis}{83}{section.1.35}%
+\contentsline {subsection}{Esaus Familie und Wohnsitz}{83}{section.1.35}%
+\contentsline {section}{\numberline {36}36}{83}{section.1.36}%
+\contentsline {subsection}{Esaus Söhne und Enkel als Stammväter}{84}{section.1.36}%
+\contentsline {subsection}{Die von Esau abstammenden Fürsten}{84}{section.1.36}%
+\contentsline {subsection}{Die von Esau unabhängigen Horiter}{85}{section.1.36}%
+\contentsline {subsection}{Die Könige im Lande Edom}{85}{section.1.36}%
+\contentsline {subsection}{Die Fürsten Edoms nach ihren Wohnsitzen}{86}{section.1.36}%
+\contentsline {subsection}{Die Anfänge der Feindschaft der Brüder gegen Joseph}{86}{section.1.36}%
+\contentsline {section}{\numberline {37}37}{86}{section.1.37}%
+\contentsline {subsection}{Josephs Träume}{86}{section.1.37}%
+\contentsline {subsection}{Die Gelegenheit zur Beseitigung Josephs}{87}{section.1.37}%
+\contentsline {subsection}{Ruben und Juda suchen Joseph zu retten}{87}{section.1.37}%
+\contentsline {subsection}{Joseph wird nach Ägypten verkauft}{88}{section.1.37}%
+\contentsline {subsection}{Jakobs Trauer; Joseph in Ägypten an Potiphar verkauft}{88}{section.1.37}%
+\contentsline {subsection}{Die Söhne von Juda und Thamar}{89}{section.1.37}%
+\contentsline {section}{\numberline {38}38}{89}{section.1.38}%
+\contentsline {subsection}{Thamar verschafft sich durch List Nachkommenschaft von ihrem Schwiegervater Juda}{89}{section.1.38}%
+\contentsline {subsection}{Judas gerechter Urteilsspruch über sich und Thamar}{90}{section.1.38}%
+\contentsline {subsection}{Thamar gebiert die Zwillinge Perez und Serah}{91}{section.1.38}%
+\contentsline {subsection}{Joseph im Hause Potiphars}{91}{section.1.38}%
+\contentsline {section}{\numberline {39}39}{91}{section.1.39}%
+\contentsline {subsection}{Die Verführung der Frau Potiphars}{91}{section.1.39}%
+\contentsline {subsection}{Josef im Gefängnis}{92}{section.1.39}%
+\contentsline {subsection}{Einkerkerung des Mundschenken und des Hofbäckers des Pharaos}{93}{section.1.39}%
+\contentsline {section}{\numberline {40}40}{93}{section.1.40}%
+\contentsline {subsection}{Joseph tröstet die beiden Hofbeamten}{93}{section.1.40}%
+\contentsline {subsection}{Der Traum des Mundschenken und seine Deutung}{93}{section.1.40}%
+\contentsline {subsection}{Der Traum des Bäckers und seine Deutung}{94}{section.1.40}%
+\contentsline {subsection}{El cumplimiento de ambos sueños}{94}{section.1.40}%
+\contentsline {subsection}{Die beiden Träume des Pharaos sind für die ägyptischen Traumdeuter unlösbar}{94}{section.1.40}%
+\contentsline {section}{\numberline {41}41}{94}{section.1.41}%
+\contentsline {subsection}{Der Mundschenk veranlaßt das Herbeiholen Josephs}{95}{section.1.41}%
+\contentsline {subsection}{Joseph deutet die Träume des Pharao}{95}{section.1.41}%
+\contentsline {subsection}{Josephs Rat an den Pharao}{96}{section.1.41}%
+\contentsline {subsection}{\#\# Josephs Erhebung zum höchsten Beamten im Staat}{97}{section.1.41}%
+\contentsline {subsection}{Josephs Maßnahmen während der sieben fruchtbaren Jahre; die Geburt seiner beiden Söhne}{97}{section.1.41}%
+\contentsline {subsection}{Die sieben unfruchtbaren Jahre und Josephs Getreideverkauf während der Hungersnot}{98}{section.1.41}%
+\contentsline {subsection}{Die zehn älteren Söhne Jakobs ziehen nach Ägypten zum Getreideeinkauf}{98}{section.1.41}%
+\contentsline {section}{\numberline {42}42}{98}{section.1.42}%
+\contentsline {subsection}{Das erste schroffe Gespräch Josephs mit seinen Brüdern}{98}{section.1.42}%
+\contentsline {subsection}{Das zweite Gespräch: Simeon als Geisel zurückbehalten}{99}{section.1.42}%
+\contentsline {subsection}{Die Rückkehr der Brüder nach Kanaan}{100}{section.1.42}%
+\contentsline {subsection}{Zweite Reise der Brüder Josephs nach Ägypten mit Benjamin}{101}{section.1.42}%
+\contentsline {section}{\numberline {43}43}{101}{section.1.43}%
+\contentsline {subsection}{Freundlicher Empfang Josefs für seine Brüder}{102}{section.1.43}%
+\contentsline {subsection}{Joseph empfängt und bewirtet seine Brüder aufs freundlichste}{103}{section.1.43}%
+\contentsline {subsection}{Joseph prüft seine Brüder zum letzten mal}{104}{section.1.43}%
+\contentsline {section}{\numberline {44}44}{104}{section.1.44}%
+\contentsline {subsection}{Die Brüder kehren in die Stadt zurück und demütigen sich vor Joseph}{104}{section.1.44}%
+\contentsline {subsection}{Joseph gibt sich seinen Brüdern zu erkennen}{106}{section.1.44}%
+\contentsline {section}{\numberline {45}45}{106}{section.1.45}%
+\contentsline {subsection}{Joseph ist von Gott ausgesandt auch zu Israels Heil}{107}{section.1.45}%
+\contentsline {subsection}{Des Pharaos gnädige Einladung an Jakob, nach Ägypten überzusiedeln}{107}{section.1.45}%
+\contentsline {subsection}{Joseph beschenkt seine Brüder reichlich und ermahnt sie liebevoll}{108}{section.1.45}%
+\contentsline {subsection}{Jakob zieht zu seinem Sohn nach Ägypten}{108}{section.1.45}%
+\contentsline {subsection}{Gott billigt Jakobs Übersiedelung in einer Offenbarung zu Beerseba}{108}{section.1.45}%
+\contentsline {section}{\numberline {46}46}{108}{section.1.46}%
+\contentsline {subsection}{Der damalige Bestand von Jakobs Gesamtfamilie}{109}{section.1.46}%
+\contentsline {subsection}{Joseph begrüßt seinen Vater in Gosen}{110}{section.1.46}%
+\contentsline {subsection}{Der Pharao sagt den Söhnen Jakobs bei einer Vorstellung die Ansiedlung in Gosen zu}{110}{section.1.46}%
+\contentsline {section}{\numberline {47}47}{110}{section.1.47}%
+\contentsline {subsection}{Jakob stellt sich dem Pharao vor und siedelt sich in Gosen an}{111}{section.1.47}%
+\contentsline {subsection}{Josef kauft das Land für den Pharao}{111}{section.1.47}%
+\contentsline {subsection}{Glückliche Lage der Israeliten in Ägypten; Jakobs letzter Wunsch bezüglich seiner Bestattung}{113}{section.1.47}%
+\contentsline {subsection}{Jakob nimmt die beiden Söhne Josephs an Kindes Statt an}{113}{section.1.47}%
+\contentsline {section}{\numberline {48}48}{113}{section.1.48}%
+\contentsline {subsection}{Jakob segnet die beiden Söhne Josephs}{114}{section.1.48}%
+\contentsline {subsection}{Jakobs Weissagungen über seine Söhne}{115}{section.1.48}%
+\contentsline {section}{\numberline {49}49}{115}{section.1.49}%
+\contentsline {subsection}{La solicitud de Jacob para su entierro en Hebrón}{117}{section.1.49}%
+\contentsline {subsection}{Jakobs Einbalsamierung und feierliche Überführung nach dem Grab in Hebron}{117}{section.1.49}%
+\contentsline {section}{\numberline {50}50}{117}{section.1.50}%
+\contentsline {subsection}{Josephs Grosszügigkeit gegen seine Brüder}{118}{section.1.50}%
+\contentsline {subsection}{Josephs Alter und Tod; sein letzter Wunsch}{119}{section.1.50}%
+\contentsline {chapter}{\numberline {2}Psalmen}{119}{chapter.2}%
+\contentsline {subsection}{Las dos formas de vida}{119}{chapter.2}%
+\contentsline {section}{\numberline {1}1}{119}{section.2.1}%
+\contentsline {subsection}{La victoria de Dios y del rey ungido por él sobre las naciones furiosas}{120}{section.2.1}%
+\contentsline {section}{\numberline {2}2}{120}{section.2.2}%
+\contentsline {subsection}{Canción de la mañana de un hombre piadoso en los malos tiempos}{120}{section.2.2}%
+\contentsline {section}{\numberline {3}3}{120}{section.2.3}%
+\contentsline {subsection}{Canción vespertina de un hombre piadoso en tiempos de angustia}{121}{section.2.3}%
+\contentsline {section}{\numberline {4}4}{121}{section.2.4}%
+\contentsline {subsection}{Oración matutina en el templo contra enemigos impíos}{121}{section.2.4}%
+\contentsline {section}{\numberline {5}5}{121}{section.2.5}%
+\contentsline {subsection}{Pedir ayuda a alguien gravemente enfermo en cuerpo y alma (Primer Salmo Penitencial)}{122}{section.2.5}%
+\contentsline {section}{\numberline {6}6}{122}{section.2.6}%
+\contentsline {subsection}{El Señor como juez justo y salvador de los afligidos}{123}{section.2.6}%
+\contentsline {section}{\numberline {7}7}{123}{section.2.7}%
+\contentsline {subsection}{La humildad y la alteza del hombre en la creación}{124}{section.2.7}%
+\contentsline {section}{\numberline {8}8}{124}{section.2.8}%
+\contentsline {subsection}{Canto de acción de gracias por el juicio de Dios sobre los enemigos paganos y solicitud de nueva ayuda}{124}{section.2.8}%
+\contentsline {section}{\numberline {9}9}{124}{section.2.9}%
+\contentsline {subsection}{Pide ayuda contra los malvados de la violencia}{125}{section.2.9}%
+\contentsline {section}{\numberline {10}10}{125}{section.2.10}%
+\contentsline {subsection}{El Señor es fiel y justo}{126}{section.2.10}%
+\contentsline {section}{\numberline {11}11}{126}{section.2.11}%
+\contentsline {subsection}{Consuelo de los rectos contra la violencia de la mentira}{127}{section.2.11}%
+\contentsline {section}{\numberline {12}12}{127}{section.2.12}%
+\contentsline {subsection}{¿Por cuánto tiempo más?}{127}{section.2.12}%
+\contentsline {section}{\numberline {13}13}{127}{section.2.13}%
+\contentsline {subsection}{Pensamientos sobre la depravación general del mundo y pedir redención}{128}{section.2.13}%
+\contentsline {section}{\numberline {14}14}{128}{section.2.14}%
+\contentsline {subsection}{¿Quién puede ser el invitado del Señor?}{128}{section.2.14}%
+\contentsline {section}{\numberline {15}15}{128}{section.2.15}%
+\contentsline {subsection}{Dios el más alto, sí, solo bien por sí mismo}{128}{section.2.15}%
+\contentsline {section}{\numberline {16}16}{128}{section.2.16}%
+\contentsline {subsection}{El grito de un hombre angustiado por ayuda contra enemigos nefastos}{129}{section.2.16}%
+\contentsline {section}{\numberline {17}17}{129}{section.2.17}%
+\contentsline {subsection}{El cántico de agradecimiento y victoria de David tras la derrota de sus enemigos}{130}{section.2.17}%
+\contentsline {section}{\numberline {18}18}{130}{section.2.18}%
+\contentsline {subsection}{Alabado sea Dios Creador y su ley; Pide perdón de pecados y santificación}{132}{section.2.18}%
+\contentsline {section}{\numberline {19}19}{132}{section.2.19}%
+\contentsline {subsection}{Intercesión del pueblo por el rey a la salida del ejército}{133}{section.2.19}%
+\contentsline {section}{\numberline {20}20}{133}{section.2.20}%
+\contentsline {subsection}{Oración de acción de gracias por los beneficios que Dios le ha mostrado al rey (especialmente por la victoria que le ha otorgado) y esperanza de nuevas bendiciones}{134}{section.2.20}%
+\contentsline {section}{\numberline {21}21}{134}{section.2.21}%
+\contentsline {subsection}{Lamento y esperanza de alguien abandonado por Dios (Salmo de la pasión del Salvador)}{134}{section.2.21}%
+\contentsline {section}{\numberline {22}22}{134}{section.2.22}%
+\contentsline {subsection}{El Señor como buen pastor y bondadoso dador de consuelo y seguridad}{136}{section.2.22}%
+\contentsline {section}{\numberline {23}23}{136}{section.2.23}%
+\contentsline {subsection}{Canto ceremonial a la entrada (del pueblo y del rey de honor) al santuario}{136}{section.2.23}%
+\contentsline {section}{\numberline {24}24}{136}{section.2.24}%
+\contentsline {subsection}{Oración por la protección de Dios, por la guía llena de gracia y el perdón de los pecados}{137}{section.2.24}%
+\contentsline {section}{\numberline {25}25}{137}{section.2.25}%
+\contentsline {subsection}{Un piadoso grito de auxilio, consciente de su inocencia}{138}{section.2.25}%
+\contentsline {section}{\numberline {26}26}{138}{section.2.26}%
+\contentsline {subsection}{Confianza gozosa en el Señor y solicitud de mayor protección}{139}{section.2.26}%
+\contentsline {section}{\numberline {27}27}{139}{section.2.27}%
+\contentsline {subsection}{Oración y ayuda contra enemigos impíos y gracias por la respuesta}{140}{section.2.27}%
+\contentsline {section}{\numberline {28}28}{140}{section.2.28}%
+\contentsline {subsection}{La gloria de Dios en una tormenta}{140}{section.2.28}%
+\contentsline {section}{\numberline {29}29}{140}{section.2.29}%
+\contentsline {subsection}{Canción de agradecimiento para alguien rescatado de la angustia}{141}{section.2.29}%
+\contentsline {section}{\numberline {30}30}{141}{section.2.30}%
+\contentsline {subsection}{Oración confiada en extrema necesidad}{141}{section.2.30}%
+\contentsline {section}{\numberline {31}31}{141}{section.2.31}%
+\contentsline {subsection}{Bendiciones del arrepentimiento y bienaventuranza del perdón de los pecados (Salmo Segundo Penitencial)}{143}{section.2.31}%
+\contentsline {section}{\numberline {32}32}{143}{section.2.32}%
+\contentsline {subsection}{Invitación a alabar la omnipotencia y la gracia de Dios}{144}{section.2.32}%
+\contentsline {section}{\numberline {33}33}{144}{section.2.33}%
+\contentsline {subsection}{Dios ayuda a los suyos en cada necesidad}{145}{section.2.33}%
+\contentsline {section}{\numberline {34}34}{145}{section.2.34}%
+\contentsline {subsection}{Pide ayuda a un tolerante contra enemigos infieles e ingratos}{146}{section.2.34}%
+\contentsline {section}{\numberline {35}35}{146}{section.2.35}%
+\contentsline {subsection}{Los acontecimientos desesperados de los malvados y las bendiciones de la comunión con Dios}{147}{section.2.35}%
+\contentsline {section}{\numberline {36}36}{147}{section.2.36}%
+\contentsline {subsection}{La falsa suerte de los malvados (= impíos) permite que los justos sean piadosos}{148}{section.2.36}%
+\contentsline {section}{\numberline {37}37}{148}{section.2.37}%
+\contentsline {subsection}{Oración penitencial y clamor por ayuda en enfermedades graves y angustias (tercer salmo penitencial)}{150}{section.2.37}%
+\contentsline {section}{\numberline {38}38}{150}{section.2.38}%
+\contentsline {subsection}{Demanda y solicitud de una persona fuertemente impugnada}{151}{section.2.38}%
+\contentsline {section}{\numberline {39}39}{151}{section.2.39}%
+\contentsline {subsection}{Acción de gracias y súplica}{152}{section.2.39}%
+\contentsline {section}{\numberline {40}40}{152}{section.2.40}%
+\contentsline {subsection}{Un enfermo se queja de enemigos maliciosos y amigos infieles}{153}{section.2.40}%
+\contentsline {section}{\numberline {41}41}{153}{section.2.41}%
+\contentsline {subsection}{Anhelo de Dios y su santuario en Sion}{154}{section.2.41}%
+\contentsline {section}{\numberline {42}42}{154}{section.2.42}%
+\contentsline {section}{\numberline {43}43}{155}{section.2.43}%
+\contentsline {subsection}{Lamentar y clamar por ayuda del pueblo respetuoso de la ley, pero derrotado y maltratado por sus enemigos}{155}{section.2.43}%
+\contentsline {section}{\numberline {44}44}{155}{section.2.44}%
+\contentsline {subsection}{Canción de celebración de la boda del rey}{156}{section.2.44}%
+\contentsline {section}{\numberline {45}45}{156}{section.2.45}%
+\contentsline {subsection}{Una poderosa fortaleza es nuestro Dios}{157}{section.2.45}%
+\contentsline {section}{\numberline {46}46}{157}{section.2.46}%
+\contentsline {subsection}{El Dios de Israel como Rey de todos los pueblos}{158}{section.2.46}%
+\contentsline {section}{\numberline {47}47}{158}{section.2.47}%
+\contentsline {subsection}{La fiesta de los peregrinos alaba a Sión, la ciudad invicta de Dios}{159}{section.2.47}%
+\contentsline {section}{\numberline {48}48}{159}{section.2.48}%
+\contentsline {subsection}{Impermanencia de la felicidad exterior de los malvados}{159}{section.2.48}%
+\contentsline {section}{\numberline {49}49}{159}{section.2.49}%
+\contentsline {subsection}{La adoración correcta}{160}{section.2.49}%
+\contentsline {section}{\numberline {50}50}{160}{section.2.50}%
+\contentsline {subsection}{Oración penitencial de David (cuarto salmo penitencial)}{161}{section.2.50}%
+\contentsline {section}{\numberline {51}51}{161}{section.2.51}%
+\contentsline {subsection}{Quejarse de un enemigo violento y regocijarse con la ayuda divina}{162}{section.2.51}%
+\contentsline {section}{\numberline {52}52}{162}{section.2.52}%
+\contentsline {subsection}{Pensamientos sobre la depravación general del mundo y pedir redención}{163}{section.2.52}%
+\contentsline {section}{\numberline {53}53}{163}{section.2.53}%
+\contentsline {subsection}{Pide ayuda contra enemigos impíos}{164}{section.2.53}%
+\contentsline {section}{\numberline {54}54}{164}{section.2.54}%
+\contentsline {subsection}{Oración contra un enemigo impío y queja contra un amigo infiel}{164}{section.2.54}%
+\contentsline {section}{\numberline {55}55}{164}{section.2.55}%
+\contentsline {subsection}{Coraje seguro en una situación desesperada}{165}{section.2.55}%
+\contentsline {section}{\numberline {56}56}{165}{section.2.56}%
+\contentsline {subsection}{Confianza en Dios en medio de enemigos}{166}{section.2.56}%
+\contentsline {section}{\numberline {57}57}{166}{section.2.57}%
+\contentsline {subsection}{Contra jueces (o gobernantes) injustos}{167}{section.2.57}%
+\contentsline {section}{\numberline {58}58}{167}{section.2.58}%
+\contentsline {subsection}{Un grito de ayuda de un enemigo violento}{167}{section.2.58}%
+\contentsline {section}{\numberline {59}59}{167}{section.2.59}%
+\contentsline {subsection}{Oración después de una severa derrota en la guerra}{168}{section.2.59}%
+\contentsline {section}{\numberline {60}60}{168}{section.2.60}%
+\contentsline {subsection}{Intercesión por el Rey desde lejos}{169}{section.2.60}%
+\contentsline {section}{\numberline {61}61}{169}{section.2.61}%
+\contentsline {subsection}{¡Silencio en Dios! La nada de la gente}{169}{section.2.61}%
+\contentsline {section}{\numberline {62}62}{169}{section.2.62}%
+\contentsline {subsection}{Anhelo de Dios, el refrigerio del alma y el bien supremo}{170}{section.2.62}%
+\contentsline {section}{\numberline {63}63}{170}{section.2.63}%
+\contentsline {subsection}{Pide protección contra enemigos maliciosos}{171}{section.2.63}%
+\contentsline {section}{\numberline {64}64}{171}{section.2.64}%
+\contentsline {subsection}{Canción de acción de gracias por los beneficios espirituales divinos y las bendiciones de la cosecha}{171}{section.2.64}%
+\contentsline {section}{\numberline {65}65}{171}{section.2.65}%
+\contentsline {subsection}{Canto de agradecimiento del pueblo por su maravillosa guía y salvación}{172}{section.2.65}%
+\contentsline {section}{\numberline {66}66}{172}{section.2.66}%
+\contentsline {subsection}{¡Dios bendiga a Israel! (Canción de Acción de Gracias)}{173}{section.2.66}%
+\contentsline {section}{\numberline {67}67}{173}{section.2.67}%
+\contentsline {subsection}{La victoria del Dios de Israel sobre sus enemigos}{173}{section.2.67}%
+\contentsline {section}{\numberline {68}68}{173}{section.2.68}%
+\contentsline {subsection}{La oración de un hombre piadoso por la salvación de la vergüenza y la angustia}{175}{section.2.68}%
+\contentsline {section}{\numberline {69}69}{175}{section.2.69}%
+\contentsline {subsection}{Pide ayuda en la búsqueda}{177}{section.2.69}%
+\contentsline {section}{\numberline {70}70}{177}{section.2.70}%
+\contentsline {subsection}{¡No me dejes en la vejez!}{177}{section.2.70}%
+\contentsline {section}{\numberline {71}71}{177}{section.2.71}%
+\contentsline {subsection}{Bendiciones al rey}{179}{section.2.71}%
+\contentsline {section}{\numberline {72}72}{179}{section.2.72}%
+\contentsline {subsection}{El hecho por Dios »sin embargo«}{180}{section.2.72}%
+\contentsline {section}{\numberline {73}73}{180}{section.2.73}%
+\contentsline {subsection}{Quejarse ante la congregación de la devastación del templo y pedir ayuda}{181}{section.2.73}%
+\contentsline {section}{\numberline {74}74}{181}{section.2.74}%
+\contentsline {subsection}{Dios, el juez del mundo justo}{182}{section.2.74}%
+\contentsline {section}{\numberline {75}75}{182}{section.2.75}%
+\contentsline {subsection}{El canto de la victoria de Israel en alabanza a Dios}{183}{section.2.75}%
+\contentsline {section}{\numberline {76}76}{183}{section.2.76}%
+\contentsline {subsection}{Recuerdos en tiempos dolorosos del liderazgo anterior de Dios y quejas sobre el cambio en el comportamiento divino hacia su pueblo}{183}{section.2.76}%
+\contentsline {section}{\numberline {77}77}{183}{section.2.77}%
+\contentsline {subsection}{Revisión de advertencia de la desobediencia repetida de Israel}{184}{section.2.77}%
+\contentsline {section}{\numberline {78}78}{184}{section.2.78}%
+\contentsline {subsection}{Lamentación del pueblo de Dios por la desolación de Jerusalén}{187}{section.2.78}%
+\contentsline {section}{\numberline {79}79}{187}{section.2.79}%
+\contentsline {subsection}{Oración por la restauración de Israel, la vid que Dios plantó}{188}{section.2.79}%
+\contentsline {section}{\numberline {80}80}{188}{section.2.80}%
+\contentsline {subsection}{Canción del festival. Con penitencia}{189}{section.2.80}%
+\contentsline {section}{\numberline {81}81}{189}{section.2.81}%
+\contentsline {subsection}{El juicio de Dios sobre jueces injustos (es decir, gobernantes obedientes)}{190}{section.2.81}%
+\contentsline {section}{\numberline {82}82}{190}{section.2.82}%
+\contentsline {subsection}{¡Enemigos por todas partes! (Oración del pueblo angustiado)}{190}{section.2.82}%
+\contentsline {section}{\numberline {83}83}{190}{section.2.83}%
+\contentsline {subsection}{Anhelo de la casa de Dios (¿una canción de peregrinaje?)}{191}{section.2.83}%
+\contentsline {section}{\numberline {84}84}{191}{section.2.84}%
+\contentsline {subsection}{La oración de Israel por nueva gracia y la promesa de bendición de Dios}{192}{section.2.84}%
+\contentsline {section}{\numberline {85}85}{192}{section.2.85}%
+\contentsline {subsection}{Oración de los piadosos en angustia hostil}{193}{section.2.85}%
+\contentsline {section}{\numberline {86}86}{193}{section.2.86}%
+\contentsline {subsection}{Sion, la piadosa ciudad madre de las naciones}{193}{section.2.86}%
+\contentsline {section}{\numberline {87}87}{193}{section.2.87}%
+\contentsline {subsection}{Queja desesperada de un enfermo grave}{194}{section.2.87}%
+\contentsline {section}{\numberline {88}88}{194}{section.2.88}%
+\contentsline {subsection}{¿Dónde se dan las promesas de gracia de Dios a la Casa de David?}{195}{section.2.88}%
+\contentsline {section}{\numberline {89}89}{195}{section.2.89}%
+\contentsline {subsection}{Dios eterno el refugio de los perecederos}{197}{section.2.89}%
+\contentsline {section}{\numberline {90}90}{197}{section.2.90}%
+\contentsline {subsection}{Bajo el cuidado del Altísimo}{198}{section.2.90}%
+\contentsline {section}{\numberline {91}91}{198}{section.2.91}%
+\contentsline {subsection}{Alabado sea el justo gobierno de Dios}{199}{section.2.91}%
+\contentsline {section}{\numberline {92}92}{199}{section.2.92}%
+\contentsline {subsection}{La gloria de Dios, el Rey eterno del mundo}{200}{section.2.92}%
+\contentsline {section}{\numberline {93}93}{200}{section.2.93}%
+\contentsline {subsection}{Pide venganza contra los impíos opresores del pueblo de Dios}{200}{section.2.93}%
+\contentsline {section}{\numberline {94}94}{200}{section.2.94}%
+\contentsline {subsection}{Alabanza a Dios al entrar al templo y penitencia}{201}{section.2.94}%
+\contentsline {section}{\numberline {95}95}{201}{section.2.95}%
+\contentsline {subsection}{Alabado sea Dios como el gobernante del mundo en los últimos tiempos}{202}{section.2.95}%
+\contentsline {section}{\numberline {96}96}{202}{section.2.96}%
+\contentsline {subsection}{El ascenso y el reinado de Dios en los últimos tiempos}{202}{section.2.96}%
+\contentsline {section}{\numberline {97}97}{202}{section.2.97}%
+\contentsline {subsection}{Alabado sea Dios como rey y juez justo del mundo}{203}{section.2.97}%
+\contentsline {section}{\numberline {98}98}{203}{section.2.98}%
+\contentsline {subsection}{Alabado sea el Dios santo, el Rey que todo lo gobierna}{203}{section.2.98}%
+\contentsline {section}{\numberline {99}99}{203}{section.2.99}%
+\contentsline {subsection}{Alabado sea Dios al entrar al templo}{204}{section.2.99}%
+\contentsline {section}{\numberline {100}100}{204}{section.2.100}%
+\contentsline {subsection}{Votos de un gobernante (o: príncipe espejo)}{204}{section.2.100}%
+\contentsline {section}{\numberline {101}101}{204}{section.2.101}%
+\contentsline {subsection}{Oración penitente de una víctima y solicitud de la restauración de Sion (quinto salmo penitencial)}{205}{section.2.101}%
+\contentsline {section}{\numberline {102}102}{205}{section.2.102}%
+\contentsline {subsection}{¡Alabado sea el Señor, alma mía!}{206}{section.2.102}%
+\contentsline {section}{\numberline {103}103}{206}{section.2.103}%
+\contentsline {subsection}{La gloria de Dios en la naturaleza}{207}{section.2.103}%
+\contentsline {section}{\numberline {104}104}{207}{section.2.104}%
+\contentsline {subsection}{Los actos salvadores de Dios en el antiguo Israel}{209}{section.2.104}%
+\contentsline {section}{\numberline {105}105}{209}{section.2.105}%
+\contentsline {subsection}{La gracia de Dios y la ingratitud de Israel}{210}{section.2.105}%
+\contentsline {section}{\numberline {106}106}{210}{section.2.106}%
+\contentsline {subsection}{Alabado sea Dios, el Salvador de toda adversidad}{213}{section.2.106}%
+\contentsline {section}{\numberline {107}107}{213}{section.2.107}%
+\contentsline {subsection}{Alaba la gracia de Dios y pide ayuda}{215}{section.2.107}%
+\contentsline {section}{\numberline {108}108}{215}{section.2.108}%
+\contentsline {subsection}{Maldición de enemigos impíos}{215}{section.2.108}%
+\contentsline {section}{\numberline {109}109}{215}{section.2.109}%
+\contentsline {subsection}{El mensaje de Dios al Sacerdote-Rey}{217}{section.2.109}%
+\contentsline {section}{\numberline {110}110}{217}{section.2.110}%
+\contentsline {subsection}{Alabe las bendiciones físicas y espirituales de Dios}{217}{section.2.110}%
+\contentsline {section}{\numberline {111}111}{217}{section.2.111}%
+\contentsline {subsection}{La bendición del temor de Dios y la misericordia}{218}{section.2.111}%
+\contentsline {section}{\numberline {112}112}{218}{section.2.112}%
+\contentsline {subsection}{Alabado sea el Dios exaltado y misericordioso}{218}{section.2.112}%
+\contentsline {section}{\numberline {113}113}{218}{section.2.113}%
+\contentsline {subsection}{El poder milagroso de Dios durante el paso de los israelitas por el Mar Rojo y el Jordán}{219}{section.2.113}%
+\contentsline {section}{\numberline {114}114}{219}{section.2.114}%
+\contentsline {subsection}{Solo el Dios vivo merece gloria}{219}{section.2.114}%
+\contentsline {section}{\numberline {115}115}{219}{section.2.115}%
+\contentsline {subsection}{Canción de acción de gracias y votos de alguien rescatado del peligro de muerte (al ofrecer el sacrificio de acción de gracias)}{220}{section.2.115}%
+\contentsline {section}{\numberline {116}116}{220}{section.2.116}%
+\contentsline {subsection}{Llamando a los gentiles a alabar a Dios}{221}{section.2.116}%
+\contentsline {section}{\numberline {117}117}{221}{section.2.117}%
+\contentsline {subsection}{Oración de acción de gracias y canción de victoria de la comunidad del festival}{221}{section.2.117}%
+\contentsline {section}{\numberline {118}118}{221}{section.2.118}%
+\contentsline {subsection}{Gloria de la palabra y ley divinas (o: el alfabeto dorado)}{222}{section.2.118}%
+\contentsline {section}{\numberline {119}119}{222}{section.2.119}%
+\contentsline {subsection}{Beth}{222}{section.2.119}%
+\contentsline {subsection}{Gimel}{223}{section.2.119}%
+\contentsline {subsection}{Daleth}{223}{section.2.119}%
+\contentsline {subsection}{He}{223}{section.2.119}%
+\contentsline {subsection}{Vau}{223}{section.2.119}%
+\contentsline {subsection}{Zain}{224}{section.2.119}%
+\contentsline {subsection}{Cheth}{224}{section.2.119}%
+\contentsline {subsection}{Teth}{224}{section.2.119}%
+\contentsline {subsection}{Jod}{225}{section.2.119}%
+\contentsline {subsection}{Caph}{225}{section.2.119}%
+\contentsline {subsection}{Lamed}{226}{section.2.119}%
+\contentsline {subsection}{Mem}{226}{section.2.119}%
+\contentsline {subsection}{Nun}{226}{section.2.119}%
+\contentsline {subsection}{Samech}{227}{section.2.119}%
+\contentsline {subsection}{Ain}{227}{section.2.119}%
+\contentsline {subsection}{Pe}{227}{section.2.119}%
+\contentsline {subsection}{Tzaddi}{228}{section.2.119}%
+\contentsline {subsection}{Coph}{228}{section.2.119}%
+\contentsline {subsection}{Resh}{228}{section.2.119}%
+\contentsline {subsection}{Sin}{229}{section.2.119}%
+\contentsline {subsection}{Tau}{229}{section.2.119}%
+\contentsline {subsection}{Pida ayuda contra adversarios engañosos y contenciosos}{229}{section.2.119}%
+\contentsline {section}{\numberline {120}120}{229}{section.2.120}%
+\contentsline {subsection}{El fiel guardián del pueblo}{230}{section.2.120}%
+\contentsline {section}{\numberline {121}121}{230}{section.2.121}%
+\contentsline {subsection}{Las bendiciones de un peregrino para Jerusalén}{230}{section.2.121}%
+\contentsline {section}{\numberline {122}122}{230}{section.2.122}%
+\contentsline {subsection}{Los creyentes miran a Dios con vergüenza y burla}{230}{section.2.122}%
+\contentsline {section}{\numberline {123}123}{230}{section.2.123}%
+\contentsline {subsection}{El salvador de Israel necesitado}{231}{section.2.123}%
+\contentsline {section}{\numberline {124}124}{231}{section.2.124}%
+\contentsline {subsection}{Dios protege a su pueblo Israel y a todos los rectos}{231}{section.2.124}%
+\contentsline {section}{\numberline {125}125}{231}{section.2.125}%
+\contentsline {subsection}{Consuelo en las lágrimas}{231}{section.2.125}%
+\contentsline {section}{\numberline {126}126}{231}{section.2.126}%
+\contentsline {subsection}{Todo depende de la bendición de Dios}{232}{section.2.126}%
+\contentsline {section}{\numberline {127}127}{232}{section.2.127}%
+\contentsline {subsection}{La felicidad doméstica como bendición del temor de Dios}{232}{section.2.127}%
+\contentsline {section}{\numberline {128}128}{232}{section.2.128}%
+\contentsline {subsection}{Tribulaciones y salvación de Israel}{232}{section.2.128}%
+\contentsline {section}{\numberline {129}129}{232}{section.2.129}%
+\contentsline {subsection}{Por profunda necesidad (Sexto Salmo Penitencial)}{233}{section.2.129}%
+\contentsline {section}{\numberline {130}130}{233}{section.2.130}%
+\contentsline {subsection}{Satisfacción tranquila (o descanso en Dios)}{233}{section.2.130}%
+\contentsline {section}{\numberline {131}131}{233}{section.2.131}%
+\contentsline {subsection}{Oración por Sion en vista de la promesa de Dios a David}{233}{section.2.131}%
+\contentsline {section}{\numberline {132}132}{233}{section.2.132}%
+\contentsline {subsection}{Bendiciones de la unidad fraterna}{234}{section.2.132}%
+\contentsline {section}{\numberline {133}133}{234}{section.2.133}%
+\contentsline {subsection}{Canción de los guardias del templo en el servicio nocturno}{235}{section.2.133}%
+\contentsline {section}{\numberline {134}134}{235}{section.2.134}%
+\contentsline {subsection}{Alabado sea el único Dios verdadero}{235}{section.2.134}%
+\contentsline {section}{\numberline {135}135}{235}{section.2.135}%
+\contentsline {subsection}{Canto de acción de gracias por los beneficios de Dios para Israel}{236}{section.2.135}%
+\contentsline {section}{\numberline {136}136}{236}{section.2.136}%
+\contentsline {subsection}{Lamento de los judíos capturados a los ríos de Babilonia}{237}{section.2.136}%
+\contentsline {section}{\numberline {137}137}{237}{section.2.137}%
+\contentsline {subsection}{Lamento de los judíos capturados a los ríos de Babilonia}{237}{section.2.137}%
+\contentsline {section}{\numberline {138}138}{237}{section.2.138}%
+\contentsline {subsection}{Dios el omnisciente y omnipresente}{238}{section.2.138}%
+\contentsline {section}{\numberline {139}139}{238}{section.2.139}%
+\contentsline {subsection}{Oración por la salvación de enemigos engañosos}{239}{section.2.139}%
+\contentsline {section}{\numberline {140}140}{239}{section.2.140}%
+\contentsline {subsection}{Oración por protección contra el mal y los perseguidores}{240}{section.2.140}%
+\contentsline {section}{\numberline {141}141}{240}{section.2.141}%
+\contentsline {subsection}{Pide ayuda en una situación desesperada}{240}{section.2.141}%
+\contentsline {section}{\numberline {142}142}{240}{section.2.142}%
+\contentsline {subsection}{Pedir ayuda en aflicciones externas e internas (Séptimo Salmo Penitencial)}{241}{section.2.142}%
+\contentsline {section}{\numberline {143}143}{241}{section.2.143}%
+\contentsline {subsection}{Oración de alabanza y súplica; La abundancia de bendiciones de Israel}{241}{section.2.143}%
+\contentsline {section}{\numberline {144}144}{241}{section.2.144}%
+\contentsline {subsection}{Canto de alabanza a la grandeza y bondad de Dios, sustentador y gobernante del mundo}{242}{section.2.144}%
+\contentsline {section}{\numberline {145}145}{242}{section.2.145}%
+\contentsline {subsection}{¡Bienaventurados los que confían en el Señor!}{243}{section.2.145}%
+\contentsline {section}{\numberline {146}146}{243}{section.2.146}%
+\contentsline {subsection}{Alabado sea la omnipotencia, la bondad y la sabiduría de Dios}{244}{section.2.146}%
+\contentsline {section}{\numberline {147}147}{244}{section.2.147}%
+\contentsline {subsection}{¡Todo el mundo, toda la creación, alabado sea el Señor!}{245}{section.2.147}%
+\contentsline {section}{\numberline {148}148}{245}{section.2.148}%
+\contentsline {subsection}{El cántico de victoria y venganza de Israel}{245}{section.2.148}%
+\contentsline {section}{\numberline {149}149}{245}{section.2.149}%
+\contentsline {subsection}{¡Todo lo que respira, alabado sea el Señor!}{246}{section.2.149}%
+\contentsline {section}{\numberline {150}150}{246}{section.2.150}%
+\contentsline {chapter}{\numberline {3}Sprüche}{246}{chapter.3}%
+\contentsline {subsection}{Indicación del propósito de las escrituras}{246}{chapter.3}%
+\contentsline {section}{\numberline {1}1}{246}{section.3.1}%
+\contentsline {subsection}{Invitación a la obediencia voluntaria; Advertencia contra la seducción, especialmente antes de participar en actos de violencia}{246}{section.3.1}%
+\contentsline {subsection}{El llamado de la sabiduría para obedecer voluntariamente sus mandamientos; Amenazas para los reacios}{247}{section.3.1}%
+\contentsline {subsection}{Las bendiciones de buscar diligentemente la sabiduría}{248}{section.3.1}%
+\contentsline {section}{\numberline {2}2}{248}{section.3.2}%
+\contentsline {subsection}{Advertencias sobre el temor de Dios y el comportamiento moral con referencia a la recompensa esperada}{249}{section.3.2}%
+\contentsline {section}{\numberline {3}3}{249}{section.3.3}%
+\contentsline {subsection}{Valor y bendición de la sabiduría}{249}{section.3.3}%
+\contentsline {subsection}{Advertencias contra el desamor hacia el prójimo y contra la violencia}{250}{section.3.3}%
+\contentsline {subsection}{Exhortación paternal a buscar sabiduría y obedecer sus enseñanzas}{250}{section.3.3}%
+\contentsline {section}{\numberline {4}4}{250}{section.3.4}%
+\contentsline {subsection}{Advertencia contra el coito con adúlteras; Alabanza de la vida conyugal}{252}{section.3.4}%
+\contentsline {section}{\numberline {5}5}{252}{section.3.5}%
+\contentsline {subsection}{Advertencias sobre seguridad, indolencia, falsedad y todos los seres impiedosos}{253}{section.3.5}%
+\contentsline {section}{\numberline {6}6}{253}{section.3.6}%
+\contentsline {subsection}{Otra advertencia contra el coito con adúlteras}{254}{section.3.6}%
+\contentsline {subsection}{Descripción de la seducción a la fornicación adúltera; Advertencia de sus nefastas consecuencias}{254}{section.3.6}%
+\contentsline {section}{\numberline {7}7}{254}{section.3.7}%
+\contentsline {subsection}{Invitación y auto recomendación de la sabiduría como docente}{256}{section.3.7}%
+\contentsline {section}{\numberline {8}8}{256}{section.3.8}%
+\contentsline {subsection}{La sabiduría como primera y más excelente criatura de Dios}{256}{section.3.8}%
+\contentsline {subsection}{Recordatorio y advertencia}{257}{section.3.8}%
+\contentsline {subsection}{La Sra. Sabiduria y la Sra. Locura invitan a los invitados}{257}{section.3.8}%
+\contentsline {section}{\numberline {9}9}{257}{section.3.9}%
+\contentsline {subsection}{La invitación a la locura}{258}{section.3.9}%
+\contentsline {section}{\numberline {10}10}{258}{section.3.10}%
+\contentsline {section}{\numberline {11}11}{260}{section.3.11}%
+\contentsline {section}{\numberline {12}12}{261}{section.3.12}%
+\contentsline {section}{\numberline {13}13}{262}{section.3.13}%
+\contentsline {section}{\numberline {14}14}{264}{section.3.14}%
+\contentsline {section}{\numberline {15}15}{265}{section.3.15}%
+\contentsline {section}{\numberline {16}16}{267}{section.3.16}%
+\contentsline {section}{\numberline {17}17}{268}{section.3.17}%
+\contentsline {section}{\numberline {18}18}{270}{section.3.18}%
+\contentsline {section}{\numberline {19}19}{271}{section.3.19}%
+\contentsline {section}{\numberline {20}20}{272}{section.3.20}%
+\contentsline {section}{\numberline {21}21}{274}{section.3.21}%
+\contentsline {section}{\numberline {22}22}{275}{section.3.22}%
+\contentsline {subsection}{Primera colección de dichos de los sabios; Introducción}{276}{section.3.22}%
+\contentsline {subsection}{Recordatorios individuales}{276}{section.3.22}%
+\contentsline {section}{\numberline {23}23}{276}{section.3.23}%
+\contentsline {section}{\numberline {24}24}{278}{section.3.24}%
+\contentsline {subsection}{Segunda colección de dichos de los sabios}{279}{section.3.24}%
+\contentsline {subsection}{Tercera colección de Proverbios de Salomón}{280}{section.3.24}%
+\contentsline {section}{\numberline {25}25}{280}{section.3.25}%
+\contentsline {section}{\numberline {26}26}{281}{section.3.26}%
+\contentsline {section}{\numberline {27}27}{282}{section.3.27}%
+\contentsline {section}{\numberline {28}28}{284}{section.3.28}%
+\contentsline {section}{\numberline {29}29}{285}{section.3.29}%
+\contentsline {subsection}{Dichos de Agur}{286}{section.3.29}%
+\contentsline {section}{\numberline {30}30}{286}{section.3.30}%
+\contentsline {subsection}{Dichos para Lemuel}{288}{section.3.30}%
+\contentsline {section}{\numberline {31}31}{288}{section.3.31}%
+\contentsline {subsection}{Alabado sea el ama de casa capaz}{289}{section.3.31}%
+\contentsline {chapter}{\numberline {4}Offenbarung}{291}{chapter.4}%
+\contentsline {subsection}{El título que indica el origen, el propósito y el significado de esta fuente}{291}{chapter.4}%
+\contentsline {section}{\numberline {1}1}{291}{section.4.1}%
+\contentsline {subsection}{Bendiciones a las siete parroquias de la provincia romana de Asia}{291}{section.4.1}%
+\contentsline {subsection}{Resumen: Anuncio de la venida de Jesús al juicio}{291}{section.4.1}%
+\contentsline {subsection}{La primera vista (en Patmos) de las siete estrellas y los siete candeleros: Cómo está preparado el Señor para venir a su cristianismo; Llamar a John para que escriba las visiones}{292}{section.4.1}%
+\contentsline {subsection}{Carta a la iglesia en Éfeso: ``¡No dejes el primer amor!''}{293}{section.4.1}%
+\contentsline {section}{\numberline {2}2}{293}{section.4.2}%
+\contentsline {subsection}{Carta a la comunidad de Esmirna: ``¡Sé fiel hasta la muerte!''}{293}{section.4.2}%
+\contentsline {subsection}{Carta a la parroquia de Pérgamo: ``¡No sigas al mundo vanidoso!''}{294}{section.4.2}%
+\contentsline {subsection}{Carta a la iglesia de Tiatira: ``¡Examina sabiamente todo espíritu!''}{294}{section.4.2}%
+\contentsline {subsection}{Carta a la comunidad de Sardis: ``¡No estés muerto como los demás!''}{295}{section.4.2}%
+\contentsline {section}{\numberline {3}3}{295}{section.4.3}%
+\contentsline {subsection}{Carta a la Iglesia de Filadelfia: ``¡Aférrate a tu corona!''}{296}{section.4.3}%
+\contentsline {subsection}{Carta a la congregación de Laodicea: ``¡No seas tibio y lento para encontrarte!''}{296}{section.4.3}%
+\contentsline {subsection}{Dios el Padre y el concilio celestial en el salón del trono de Dios}{297}{section.4.3}%
+\contentsline {section}{\numberline {4}4}{297}{section.4.4}%
+\contentsline {subsection}{El libro del destino con los siete sellos y el Cordero de Dios en el trono}{298}{section.4.4}%
+\contentsline {section}{\numberline {5}5}{298}{section.4.5}%
+\contentsline {subsection}{El himno de alabanza de los ángeles y de toda la creación}{299}{section.4.5}%
+\contentsline {subsection}{La apertura de los primeros seis sellos por el Cordero; Los cuatro jinetes}{299}{section.4.5}%
+\contentsline {section}{\numberline {6}6}{299}{section.4.6}%
+\contentsline {subsection}{Los mártires}{300}{section.4.6}%
+\contentsline {subsection}{Platos terribles en la imagen de los fenómenos naturales}{300}{section.4.6}%
+\contentsline {subsection}{El sellamiento de una selección (de 144.000 de las doce tribus de Israel)}{301}{section.4.6}%
+\contentsline {section}{\numberline {7}7}{301}{section.4.7}%
+\contentsline {subsection}{El homenaje a las innumerables, probadas y probadas almas creyentes de todos los pueblos ante el trono de Dios, que han salido de la gran tribulación}{302}{section.4.7}%
+\contentsline {subsection}{La solución del séptimo sello y el silencio en el cielo (presentando los juicios de las trompetas)}{303}{section.4.7}%
+\contentsline {section}{\numberline {8}8}{303}{section.4.8}%
+\contentsline {subsection}{Las primeras cuatro trompetas (es decir, las plagas que vienen de arriba)}{303}{section.4.8}%
+\contentsline {subsection}{La primera llamada del águila y la quinta y sexta trompetas (las dos plagas que vienen de abajo, es decir, del infierno)}{304}{section.4.8}%
+\contentsline {subsection}{La quinta trompeta o el primer ay}{304}{section.4.8}%
+\contentsline {section}{\numberline {9}9}{304}{section.4.9}%
+\contentsline {subsection}{La sexta trompeta o el segundo ay}{305}{section.4.9}%
+\contentsline {subsection}{Un ángel sostiene un libro abierto y jura}{306}{section.4.9}%
+\contentsline {section}{\numberline {10}10}{306}{section.4.10}%
+\contentsline {subsection}{Johannes consume el librito agridulce}{306}{section.4.10}%
+\contentsline {subsection}{La medida del templo; la preservación de los fieles durante la intensa visita de los gentiles a la ciudad santa}{307}{section.4.10}%
+\contentsline {section}{\numberline {11}11}{307}{section.4.11}%
+\contentsline {subsection}{Efectividad, muerte y ascensión de los dos testigos de Dios}{307}{section.4.11}%
+\contentsline {subsection}{La séptima trompeta; Júbilo de victoria en el cielo; la aparición del arca}{308}{section.4.11}%
+\contentsline {subsection}{La Mujer Sol y el Dragón; Rescate de la mujer y su hijo recién nacido}{308}{section.4.11}%
+\contentsline {section}{\numberline {12}12}{308}{section.4.12}%
+\contentsline {subsection}{La victoria de Michael sobre el dragón en el cielo; Caída del dragón; himno celestial de alabanza; el reinado de Dios y su ungido está amaneciendo}{309}{section.4.12}%
+\contentsline {subsection}{Persecución infructuosa de mujeres por parte del dragón}{310}{section.4.12}%
+\contentsline {subsection}{La primera bestia del mar, de diez cuernos y siete cabezas; Amonestación a perseverar}{310}{section.4.12}%
+\contentsline {section}{\numberline {13}13}{310}{section.4.13}%
+\contentsline {subsection}{El Cordero y la iglesia perfecta de los 144.000 en el monte Sion}{311}{section.4.13}%
+\contentsline {section}{\numberline {14}14}{311}{section.4.14}%
+\contentsline {subsection}{Tres llamados de ángeles proclaman un mensaje eterno de salvación para todos los pueblos, así como la caída de Babilonia y anuncian el juicio de los adoradores de la bestia}{312}{section.4.14}%
+\contentsline {subsection}{Una voz celestial proclama la bienaventuranza de los creyentes (mártires) que son fieles hasta la muerte}{313}{section.4.14}%
+\contentsline {subsection}{El juicio del Hijo del Hombre en la tierra bajo la imagen de una cosecha de grano y una vendimia}{313}{section.4.14}%
+\contentsline {subsection}{Los siete ángeles con las siete últimas plagas; la alabanza de los vencedores en el mar de cristal}{314}{section.4.14}%
+\contentsline {section}{\numberline {15}15}{314}{section.4.15}%
+\contentsline {subsection}{La aparición y el equipamiento de los siete ángeles de la copa de la ira}{314}{section.4.15}%
+\contentsline {subsection}{El derramamiento de los siete tazones de ira}{315}{section.4.15}%
+\contentsline {section}{\numberline {16}16}{315}{section.4.16}%
+\contentsline {subsection}{Descripción de la espléndida pero abominable mujer entronizada sobre la bestia}{316}{section.4.16}%
+\contentsline {section}{\numberline {17}17}{316}{section.4.17}%
+\contentsline {subsection}{Descripción del animal de siete cabezas y diez cuernos, así como su destino pasado y futuro}{317}{section.4.17}%
+\contentsline {subsection}{Interpretación de la imagen}{318}{section.4.17}%
+\contentsline {subsection}{Anuncio del juicio que cae sobre Babilonia; La primera llamada del ángel}{318}{section.4.17}%
+\contentsline {section}{\numberline {18}18}{318}{section.4.18}%
+\contentsline {subsection}{Una segunda voz}{318}{section.4.18}%
+\contentsline {subsection}{Las lamentaciones de los reyes de la tierra, de los comerciantes y marineros por la caída de la ciudad}{319}{section.4.18}%
+\contentsline {subsection}{Aclamación gozosa, la voz celestial, a los habitantes celestiales}{320}{section.4.18}%
+\contentsline {subsection}{El signo simbólico de la aniquilación; la desolación que prevalece en la ciudad destruida}{320}{section.4.18}%
+\contentsline {subsection}{El júbilo en el cielo por la caída de Babilonia; la próxima boda del Cordero}{320}{section.4.18}%
+\contentsline {section}{\numberline {19}19}{320}{section.4.19}%
+\contentsline {subsection}{La batalla del Mesías; la destrucción de la bestia y sus seguidores, es decir, todos los ejércitos o pueblos hostiles}{321}{section.4.19}%
+\contentsline {subsection}{Encadenamiento de Satanás; la primera resurrección y el reino milenario de paz}{322}{section.4.19}%
+\contentsline {section}{\numberline {20}20}{322}{section.4.20}%
+\contentsline {subsection}{Gog y Magog; aparición final y aniquilación eterna de Satanás y sus huestes}{323}{section.4.20}%
+\contentsline {subsection}{La segunda resurrección (general) y el juicio final}{323}{section.4.20}%
+\contentsline {section}{\numberline {21}21}{324}{section.4.21}%
+\contentsline {subsection}{La nueva Jerusalén como morada de Dios con el pueblo y la promesa y el juicio de Dios}{324}{section.4.21}%
+\contentsline {subsection}{La descripción de la nueva Jerusalén}{325}{section.4.21}%
+\contentsline {subsection}{La corriente de la vida, los árboles de la vida, la comunión plena con Dios y el reino eterno de la luz}{326}{section.4.21}%
+\contentsline {section}{\numberline {22}22}{326}{section.4.22}%
+\contentsline {subsection}{Promesa de Cristo y testimonio de Juan; La adoración no se debe a la criatura, sino solo a Dios}{326}{section.4.22}%
+\contentsline {subsection}{Dirección y amonestación del ángel y discurso de Jesús}{327}{section.4.22}%
+\contentsline {subsection}{Las palabras finales de Jesús; Testimonio del espíritu profético y de la iglesia; La ordenación de Juan para su libro; Seguro, añoranza y despedida}{327}{section.4.22}%

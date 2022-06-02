@@ -1,0 +1,44 @@
+# 1 
+## Bendiciones
+^1^ Esta carta viene de parte de Pablo, siervo de Dios y apóstol de Jesucristo. Fui enviado para edificar la fe del pueblo escogido de Dios y para compartir el conocimiento de la verdad que conduce a vidas dedicadas a Dios. ^2^ Esto les da la esperanza de una vida eterna que Dios (quien no puede mentir) prometió desde edades atrás, ^3^ pero que a su debido tiempo reveló por medio de su palabra, en el mensaje que se me encomendó predicar, siguiendo el mandato de Dios, nuestro Salvador. ^a^ ^4^ Esta carta va dirigida a Tito, mi verdadero hijo por medio de la fe en Dios que tenemos en común. Ten gracia y paz de Dios el Padre, y de Cristo Jesús, nuestro Salvador. ^b^ 
+^a^[**1:3** Efes 1,9-10] ^b^[**1:4** 1Tim 1,2]
+
+## Regulaciones que rigen el nombramiento de ancianos como líderes de la iglesia
+^5^ La razón por la cual te dejé en Creta fue para que organizaras lo que era necesario y para designar ancianos en cada ciudad, como te dije. ^a^ ^6^ Un anciano debe tener una buena reputación, ser esposo de una mujer, y tener hijos creyentes y de los cuales no se diga que son rebeldes y desobedientes. ^b^ ^7^ Como líder de Dios, un anciano líder debe tener una buena reputación y no ser arrogante. No debe tener un mal carácter ni embriagarse; no debe ser violento ni tener avaricia por el dinero. ^c^ ^8^ Debe ser hospitalario, amar el bien y hacer lo recto. Debe vivir una vida dedicada a Dios, tener dominio propio, ^9^ y consagrarse al mensaje fiel, tal como se le enseño. De esta manera podrá animar a otros por medio de la enseñanza correcta, y convencer a los que se oponen. 
+^a^[**1:5** Hech 14,23] ^b^[**1:6** 1Tim 3,1-7] ^c^[**1:7** 1Cor 4,1; 2Tim 2,24]
+
+## Reglas de conducta contra seductores maliciosos y falsos maestros hipócritas
+^10^ Pues hay muchos rebeldes por ahí que predican engaños sin sentido, especialmente los del grupo de la circuncisión.^a^ ^11^ Toda su habladuría debe parar. Pues ellos causan inestabilidad en las familias, enseñando cosas que no son correctas, por interés de ganar dinero. ^12^ Tal como ha dicho uno de su propio pueblo,^b^ un profeta: “Todos los cretenses son mentirosos, bestias del mal, perezosas y avaras”. ^13^ ¡Esto es muy cierto! Por ello, repréndelos con severidad para que puedan llegar a tener una fe sana en Dios, ^14^ dejando de atender los mandamientos humanos y mitos judíos de aquellos que se desvían de la verdad. ^c^ ^15^ A los que tienen mentes puras, todo les parece puro; pero para los que son corruptos y se niegan a creer en Dios, nada es puro. Porque tanto sus mentes como sus conciencias están corrompidas. ^d^ ^16^ Ellos dicen conocer a Dios, pero con sus actos demuestran que es mentira. Son aborrecibles y desobedientes, y no sirven para hacer nada bueno.^e^ 
+^a^[**1:10** Refiriéndose a los creyentes judíos que enseñaban que la circuncisión era necesaria para la salvación.] ^b^[**1:12** No necesariamente se refiere a alguien de la facción que estaba a favor de la circuncisión o de cualquier otro grupo disidente, sino alguien proveniente de Creta.] ^c^[**1:14** 1Tim 4,7; 2Tim 4,4] ^d^[**1:15** Mat 15,11; Rom 14,20] ^e^[**1:16** 2Tim 3,5]
+
+# 2 
+## Regulaciones para las fincas individuales en la comunidad
+^1^ Sin embargo, tú enseña lo que está acorde a las creencias sanas. ^a^ ^2^ Los hombres de mayor edad deben ser respetables y sensatos,^b^ con una fe sana en Dios, amorosos y pacientes. ^c^ ^3^ Del mismo modo, las mujeres de mayor edad deben comportarse de una manera que demuestre que tienen vidas dedicadas a Dios. No deben destruir la reputación de la gente con su hablar, y no deben ser adictas al vino. ^d^ ^4^ Deben ser maestras de lo bueno, y enseñar a las esposas más jóvenes a amar a sus esposos y a sus hijos. ^5^ Deben ser sensatas y puras, hacendosas, hacedoras del bien y tener oídos prestos a lo que sus esposos les dicen. De este modo, no habrá nada malo que decir de la palabra de Dios. ^e^ 
+^a^[**2:1** 2Tim 1,13] ^b^[**2:2** “Sensato”, o “considerado”, “con dominio propio”, “decente”. También en 2:5, 2:6 y 2:12. ] ^c^[**2:2** 1Tim 5,1] ^d^[**2:3** 1Tim 3,11] ^e^[**2:5** Efes 5,22]
+
+^6^ Del mismo modo, enseña a los hombres jóvenes a ser sensatos. ^7^ Tú debes ser ejemplo de cómo hacer el bien en todas las áreas de la vida: muestra integridad y seriedad en lo que enseñas, ^8^ compartiendo creencias sanas que no puedan ser cuestionadas. Así, los que se oponen, se avergonzarán de sí mismos y no tendrán nada malo que decir acerca de nosotros. 
+
+^9^ Enseña a los siervos a que siempre obedezcan a sus amos. Enséñales que siempre deben procurar agradarles y no hablar mal a sus espaldas. ^a^ ^10^ Diles que no deben robar cosas para sí, sino demostrar que son completamente fieles y que pueden representar correctamente la verdad acerca de Dios, nuestro Salvador, en todas las formas. 
+^a^[**2:9** Efes 6,5-6; 1Tim 6,1-2; 1Pe 2,18]
+
+## Justificación de estos reglamentos haciendo referencia a la gracia de Dios que apareció en el mundo
+^11^ Pues la gracia de Dios ha sido revelada, otorgando salvación a todos. ^12^ Nos enseña a rechazar el estilo de vida impío junto a los deseos de este mundo. Por el contrario, debemos vivir con sensatez, vidas de dominio propio que sean rectas ante Dios, en presencia del mundo ^13^ mientras aguardamos la maravillosa esperanza de la aparición gloriosa de nuestro gran Dios y Salvador Jesucristo. ^a^ ^14^ Pues él se entregó a sí mismo por nosotros, para podernos libertar de toda nuestra maldad, y para limpiarnos para él, como un pueblo que le pertenece, y que está dispuesto a hacer el bien. ^b^ 
+^a^[**2:13** 1Cor 1,7; Fil 3,20; 1Tes 1,10] ^b^[**2:14** Gal 1,4; 1Tim 2,6; Éxod 19,5; Efes 2,10]
+
+^15^ Tales cosas debes enseñar. Pues tienes autoridad para animar y corregir en cuanto sea necesario. No permitas que nadie te menosprecie.^a^ 
+^a^[**2:15** 1Tim 4,12]
+
+# 3 
+## Sobre el comportamiento contra las autoridades paganas y los no cristianos y sobre el camino de los cristianos como pueblo renovado
+^1^ Recuérdales que deben seguir lo que los gobernantes les dicen, y que deben obedecer a las autoridades. Siempre deben estar listos para hacer el bien. ^a^ ^2^ Diles que no deben hablar mal de nadie, y que no deben estar en contiendas. Enséñales a mostrar bondad con todas las personas. ^b^ ^3^ Pues hubo un tiempo en que nosotros también fuimos necios y desobedientes. Éramos engañados y andábamos como esclavos de diversos deseos y placeres. Vivíamos vidas de maldad, llenas de celos. Estábamos llenos de odio los unos por los otros. ^c^ ^4^ Pero cuando la bondad y el amor de Dios nuestro Salvador fueron revelados, nos salvó, ^d^ ^5^ no porque hubiésemos hecho algo bueno, sino por su misericordia. Lo hizo por medio de la limpieza del nuevo nacimiento y renovación del Espíritu Santo, ^e^ ^6^ el cual derramó sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador. ^f^ ^7^ Ahora que estamos justificados por su gracia, nos hemos convertido en herederos por la esperanza de la vida eterna. ^g^ 
+^a^[**3:1** Rom 13,1; 1Pe 2,13] ^b^[**3:2** Fil 4,5] ^c^[**3:3** 1Cor 6,11; Efes 2,2; Efes 5,8; 1Pe 4,3] ^d^[**3:4** Tit 2,11] ^e^[**3:5** 2Tim 1,9; Juan 3,5; Efes 5,26] ^f^[**3:6** Jl 3,1] ^g^[**3:7** Rom 3,26]
+
+## Conclusión sobre el comportamiento frente a las aberraciones doctrinales y sus representantes
+^8^ Puedes confiar en lo que te digo, y quiero que hagas énfasis en estas instrucciones para que los que creen en Dios tomen su vida con seriedad y sigan haciendo el bien. Ellos son excelentes personas y siempre están prestos a ayudar a todos. ^9^ Evita las discusiones insensatas sobre linajes. No entres en contiendas y evita las discusiones sobre las leyes judías, pues tales discusiones son vanas y no sirven para nada. ^a^ ^10^ A aquella persona que cause división, adviértele una vez, y después no le prestes atención, ^b^ ^11^ entendiendo que es una persona perversa y pecadora que ya ha traído su propia condenación. ^c^ 
+^a^[**3:9** 1Tim 1,4; 1Tim 4,7; 2Tim 2,14] ^b^[**3:10** Mat 18,15-17; 2Jn 1,10] ^c^[**3:11** 1Tim 6,4-5]
+
+## Comentarios personales finales, últimos pedidos y saludos
+^12^ Tan pronto envíe a Artemas o a Tíquico donde ti, procura venir a visitarme a Nicópolis, pues tengo planes de pasar el invierno allí. ^a^ ^13^ Haz todo lo que puedas por ayudar a Zenas, el abogado, y a Apolo cuando vayan de camino para que puedan tener lo que necesitan. ^b^ ^14^ Ojalá nuestro pueblo aprenda el hábito de hacer el bien, proveyendo para las necesidades diarias de los demás. ¡Necesitan ser productivos! ^c^ 
+^a^[**3:12** Efes 6,21] ^b^[**3:13** Hech 18,24; 1Cor 3,5-6] ^c^[**3:14** Tit 2,14; Mat 7,19]
+
+^15^ Todos los que están aquí conmigo envían sus saludos. Envía mis saludos a quienes nos aman, los que tienen fe en Dios. Que la gracia esté con todos ustedes. 
