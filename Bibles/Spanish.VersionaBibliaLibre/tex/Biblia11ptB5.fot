@@ -691,8 +691,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@597\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@598\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@599\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@600\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@601\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@602\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@603\endcsname {\number\c@footnote }
@@ -1197,8 +1197,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1021\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1022\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1023\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@1024\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@1024\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1025\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1026\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1027\endcsname {\number\c@footnote }
@@ -1400,8 +1400,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1190\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1191\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1192\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@1193\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@1193\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1194\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1195\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -1451,8 +1451,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1232\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1233\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1234\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@1235\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@1235\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1236\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@1237\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -3201,16 +3201,16 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2718\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2719\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2720\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@2721\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@2721\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2722\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2723\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2724\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2725\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2726\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2727\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@2728\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@2728\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2729\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2730\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@2731\endcsname {\number\c@footnote }
@@ -4317,8 +4317,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3670\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3671\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3672\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@3673\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@3673\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3674\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3675\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3676\endcsname {\number\c@footnote }
@@ -4340,8 +4340,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3692\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3693\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3694\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@3695\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@3695\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3696\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3697\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3698\endcsname {\number\c@footnote }
@@ -4562,8 +4562,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3899\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3900\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3901\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3902\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3903\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3904\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3905\endcsname {\number\c@footnote }
@@ -4578,8 +4578,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3914\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3915\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3916\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3917\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3918\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3919\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3920\endcsname {\number\c@footnote }
@@ -4625,8 +4625,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3957\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3958\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3959\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3960\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3961\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3962\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@3963\endcsname {\number\c@footnote }
@@ -5212,21 +5212,21 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4504\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4505\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4506\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@4507\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@4507\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4508\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4509\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4510\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4511\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4512\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4513\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4514\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4515\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4516\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4517\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4518\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4519\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4520\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4521\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4522\endcsname {\number\c@footnote }
@@ -5238,9 +5238,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4528\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4529\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4530\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4531\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4532\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4533\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4534\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4535\endcsname {\number\c@footnote }
@@ -5255,9 +5255,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4544\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4545\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4546\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4547\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4548\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4549\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4550\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4551\endcsname {\number\c@footnote }
@@ -5284,9 +5284,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4571\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4572\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4573\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4574\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4575\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4576\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4577\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4578\endcsname {\number\c@footnote }
@@ -5298,9 +5298,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4584\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4585\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4586\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4587\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4588\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4589\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4590\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4591\endcsname {\number\c@footnote }
@@ -5309,10 +5309,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4594\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4595\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4596\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4597\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4598\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4599\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4600\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4601\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4602\endcsname {\number\c@footnote }
@@ -5322,6 +5322,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4606\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4607\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4608\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4609\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4610\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4611\endcsname {\number\c@footnote }
@@ -5332,26 +5333,26 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4616\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4617\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4618\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4619\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4620\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4621\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4622\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4623\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4624\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4625\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4626\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4627\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4628\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4629\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4630\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4631\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4632\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4633\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4634\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4635\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4636\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4637\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4638\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4639\endcsname {\number\c@footnote }
@@ -5359,7 +5360,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4641\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4642\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4643\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4644\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4645\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4646\endcsname {\number\c@footnote }
@@ -5367,24 +5367,24 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4648\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4649\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4650\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4651\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4652\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4653\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4654\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4655\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4656\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4657\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4658\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4659\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4660\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4661\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4662\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4663\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4664\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4665\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4666\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4667\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4668\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4669\endcsname {\number\c@footnote }
@@ -5394,10 +5394,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4673\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4674\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4675\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4676\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4677\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4678\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4679\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4680\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4681\endcsname {\number\c@footnote }
@@ -5408,6 +5408,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4686\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4687\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4688\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4689\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4690\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4691\endcsname {\number\c@footnote }
@@ -5418,7 +5419,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4696\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4697\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4698\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4699\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4700\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4701\endcsname {\number\c@footnote }
@@ -5427,16 +5427,17 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4704\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4705\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4706\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4707\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4708\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4709\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4710\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4711\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4712\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4713\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4714\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4715\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4716\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4717\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4718\endcsname {\number\c@footnote }
@@ -5447,7 +5448,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4723\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4724\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4725\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4726\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4727\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4728\endcsname {\number\c@footnote }
@@ -5457,10 +5457,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4732\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4733\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4734\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4735\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4736\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4737\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4738\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4739\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4740\endcsname {\number\c@footnote }
@@ -5468,9 +5468,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4742\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4743\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4744\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4745\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4746\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4747\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4748\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4749\endcsname {\number\c@footnote }
@@ -5487,16 +5487,16 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4760\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4761\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4762\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@4763\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@4763\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4764\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4765\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4766\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4767\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4768\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4769\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4770\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4771\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4772\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4773\endcsname {\number\c@footnote }
@@ -5507,6 +5507,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4778\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4779\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4780\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4781\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4782\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4783\endcsname {\number\c@footnote }
@@ -5515,20 +5516,20 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4786\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4787\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4788\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4789\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4790\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4791\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4792\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4793\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4794\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4795\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4796\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4797\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4798\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4799\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4800\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4801\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4802\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4803\endcsname {\number\c@footnote }
@@ -5541,11 +5542,11 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4810\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4811\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4812\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4813\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4814\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4815\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4816\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4817\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4818\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4819\endcsname {\number\c@footnote }
@@ -5554,7 +5555,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4822\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4823\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4824\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4825\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4826\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4827\endcsname {\number\c@footnote }
@@ -5565,6 +5565,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4832\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4833\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4834\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4835\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4836\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4837\endcsname {\number\c@footnote }
@@ -5572,27 +5573,27 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4839\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4840\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4841\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4842\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4843\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4844\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4845\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4846\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4847\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4848\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4849\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4850\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4851\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4852\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4853\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@4854\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@4854\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4855\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4856\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4857\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4858\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4859\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4860\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4861\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4862\endcsname {\number\c@footnote }
@@ -5602,7 +5603,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4866\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4867\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4868\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4869\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4870\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4871\endcsname {\number\c@footnote }
@@ -5610,6 +5610,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4873\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4874\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4875\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4876\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4877\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4878\endcsname {\number\c@footnote }
@@ -5619,7 +5620,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4882\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4883\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4884\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4885\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4886\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4887\endcsname {\number\c@footnote }
@@ -5631,6 +5631,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4893\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4894\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4895\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4896\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4897\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4898\endcsname {\number\c@footnote }
@@ -5639,12 +5640,12 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4901\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4902\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4903\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4904\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4905\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4906\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4907\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4908\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4909\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4910\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4911\endcsname {\number\c@footnote }
@@ -5654,7 +5655,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4915\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4916\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4917\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4918\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4919\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4920\endcsname {\number\c@footnote }
@@ -5662,25 +5662,26 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4922\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4923\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4924\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4925\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4926\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4927\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4928\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4929\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4930\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4931\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4932\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4933\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4934\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4935\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4936\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4937\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4938\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4939\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4940\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4941\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4942\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4943\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4944\endcsname {\number\c@footnote }
@@ -5694,7 +5695,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4952\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4953\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4954\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4955\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4956\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4957\endcsname {\number\c@footnote }
@@ -5702,6 +5702,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4959\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4960\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4961\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4962\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4963\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4964\endcsname {\number\c@footnote }
@@ -5710,38 +5711,37 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4967\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4968\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4969\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4970\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4971\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4972\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4973\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4974\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4975\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4976\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4977\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4978\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4979\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4980\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4981\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4982\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4983\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4984\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4985\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4986\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4987\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4988\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4989\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4990\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4991\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4992\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4993\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4994\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4995\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4996\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4997\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4998\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@4999\endcsname {\number\c@footnote }
@@ -5749,6 +5749,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5001\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5002\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5003\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5004\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5005\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5006\endcsname {\number\c@footnote }
@@ -5756,9 +5757,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5008\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5009\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5010\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5011\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5012\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5013\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5014\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5015\endcsname {\number\c@footnote }
@@ -5771,23 +5772,22 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5022\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5023\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5024\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5025\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5026\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5027\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@5028\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@5028\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5029\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5030\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5031\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5032\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5033\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5034\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5035\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5036\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5037\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5038\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5039\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5040\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5041\endcsname {\number\c@footnote }
@@ -5799,16 +5799,17 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5047\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5048\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5049\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5050\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5051\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5052\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5053\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5054\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5055\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5056\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5057\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5058\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5059\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5060\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5061\endcsname {\number\c@footnote }
@@ -5817,30 +5818,29 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5064\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5065\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5066\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5067\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5068\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5069\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5070\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5071\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5072\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5073\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5074\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5075\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5076\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5077\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5078\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5079\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5080\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5081\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5082\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5083\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5084\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5085\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5086\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5087\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5088\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5089\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5090\endcsname {\number\c@footnote }
@@ -5848,10 +5848,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5092\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5093\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5094\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5095\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5096\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5097\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5098\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5099\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5100\endcsname {\number\c@footnote }
@@ -5861,6 +5861,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5104\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5105\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5106\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5107\endcsname {\number\c@footnote }
 \c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5108\endcsname {\number\c@footnote }
@@ -5951,8 +5952,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5185\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5186\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5187\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@5188\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@5188\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5189\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5190\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5191\endcsname {\number\c@footnote }
@@ -6030,8 +6031,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5259\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5260\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5261\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@5262\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@5262\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5263\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5264\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5265\endcsname {\number\c@footnote }
@@ -6046,8 +6047,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5274\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5275\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5276\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@5277\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@5277\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5278\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5279\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5280\endcsname {\number\c@footnote }
@@ -6068,8 +6069,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5295\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5296\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5297\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@5298\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@5298\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5299\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5300\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5301\endcsname {\number\c@footnote }
@@ -6089,8 +6090,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5315\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5316\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5317\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@5318\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@5318\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5319\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5320\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5321\endcsname {\number\c@footnote }
@@ -6111,8 +6112,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5336\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5337\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5338\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@5339\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@5339\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5340\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5341\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@5342\endcsname {\number\c@footnote }
@@ -6925,11 +6926,11 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6072\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6073\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6074\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6075\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6076\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6077\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6078\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6079\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6080\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6081\endcsname {\number\c@footnote }
@@ -6938,10 +6939,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6084\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6085\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6086\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6087\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6088\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6089\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6090\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6091\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6092\endcsname {\number\c@footnote }
@@ -6951,15 +6952,15 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6096\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6097\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6098\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6099\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6100\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6101\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6102\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6103\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6104\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6105\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6106\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6107\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6108\endcsname {\number\c@footnote }
@@ -6969,9 +6970,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6112\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6113\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6114\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6115\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6116\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6117\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6118\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6119\endcsname {\number\c@footnote }
@@ -6992,16 +6993,16 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6133\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6134\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6135\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6136\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6137\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6138\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6139\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6140\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6141\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6142\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6143\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6144\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6145\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6146\endcsname {\number\c@footnote }
@@ -7021,17 +7022,17 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6159\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6160\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6161\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6162\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6163\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6164\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6165\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6166\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6167\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6168\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6169\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6170\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6171\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6172\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6173\endcsname {\number\c@footnote }
@@ -7040,10 +7041,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6176\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6177\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6178\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6179\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6180\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6181\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6182\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6183\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6184\endcsname {\number\c@footnote }
@@ -7053,11 +7054,11 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6188\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6189\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6190\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6191\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6192\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6193\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6194\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6195\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6196\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6197\endcsname {\number\c@footnote }
@@ -7072,10 +7073,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6206\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6207\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6208\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6209\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6210\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6211\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6212\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6213\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6214\endcsname {\number\c@footnote }
@@ -7084,17 +7085,17 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6217\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6218\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6219\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6220\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6221\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6222\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6223\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6224\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6225\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6226\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6227\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6228\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6229\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6230\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6231\endcsname {\number\c@footnote }
@@ -7103,11 +7104,11 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6234\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6235\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6236\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6237\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6238\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6239\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6240\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6241\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6242\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6243\endcsname {\number\c@footnote }
@@ -7117,9 +7118,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6247\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6248\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6249\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6250\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6251\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6252\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6253\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6254\endcsname {\number\c@footnote }
@@ -7127,35 +7128,35 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6256\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6257\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6258\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6259\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6260\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6261\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6262\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6263\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6264\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6265\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6266\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6267\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6268\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6269\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6270\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6271\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6272\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6273\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6274\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6275\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6276\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6277\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6278\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6279\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6280\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6281\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6282\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6283\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6284\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6285\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6286\endcsname {\number\c@footnote }
@@ -7168,24 +7169,24 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6293\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6294\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6295\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6296\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6297\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6298\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6299\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6300\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6301\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6302\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6303\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6304\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6305\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6306\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6307\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6308\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6309\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6310\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6311\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6312\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6313\endcsname {\number\c@footnote }
@@ -7195,12 +7196,12 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6317\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6318\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6319\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6320\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6321\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6322\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6323\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6324\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6325\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6326\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6327\endcsname {\number\c@footnote }
@@ -7208,11 +7209,11 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6329\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6330\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6331\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6332\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6333\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6334\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6335\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6336\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6337\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -7284,8 +7285,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6395\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6396\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6397\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@6398\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@6398\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6399\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6400\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@6401\endcsname {\number\c@footnote }
@@ -8012,8 +8013,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7020\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7021\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7022\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7023\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7023\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7024\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7025\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7026\endcsname {\number\c@footnote }
@@ -8028,8 +8029,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7033\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7034\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7035\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7036\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7036\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7037\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7038\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -8037,9 +8038,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7040\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7041\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7042\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7043\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7044\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7045\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7046\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -8051,14 +8052,14 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7052\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7053\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7054\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7055\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7055\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7056\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7057\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7058\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7059\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7060\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7061\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7062\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7063\endcsname {\number\c@footnote }
@@ -8178,23 +8179,23 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7155\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7156\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7157\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7158\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7158\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7159\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7160\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7161\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7162\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7163\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7164\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7165\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7165\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7166\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7167\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7168\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7169\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7170\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7171\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7171\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7172\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7173\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7174\endcsname {\number\c@footnote }
@@ -8202,8 +8203,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7176\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7177\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7178\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7179\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7179\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7180\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7181\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7182\endcsname {\number\c@footnote }
@@ -8388,8 +8389,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7339\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7340\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7341\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7342\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7342\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7343\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7344\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7345\endcsname {\number\c@footnote }
@@ -8493,8 +8494,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7435\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7436\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7437\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7438\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7438\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7439\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7440\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7441\endcsname {\number\c@footnote }
@@ -8503,11 +8504,12 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7444\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7445\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7446\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7447\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7448\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7449\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7450\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7451\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7452\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7453\endcsname {\number\c@footnote }
@@ -8524,9 +8526,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7464\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7465\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7466\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7467\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7468\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7469\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7470\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7471\endcsname {\number\c@footnote }
@@ -8537,10 +8539,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7476\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7477\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7478\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7479\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7480\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7481\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7482\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7483\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7484\endcsname {\number\c@footnote }
@@ -8711,8 +8713,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7635\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7636\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7637\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7638\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7639\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7640\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7641\endcsname {\number\c@footnote }
@@ -8738,8 +8740,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7660\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7661\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7662\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7663\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7664\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7665\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7666\endcsname {\number\c@footnote }
@@ -8835,8 +8837,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7748\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7749\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7750\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7751\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7752\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7753\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7754\endcsname {\number\c@footnote }
@@ -8848,9 +8850,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7760\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7761\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7762\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7763\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7764\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7765\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7766\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7767\endcsname {\number\c@footnote }
@@ -8861,9 +8863,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7772\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7773\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7774\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7775\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7776\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7777\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7778\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7779\endcsname {\number\c@footnote }
@@ -8872,8 +8874,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7782\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7783\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7784\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7785\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7786\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7787\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -9047,8 +9049,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7938\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7939\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7940\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7941\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7941\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7942\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7943\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7944\endcsname {\number\c@footnote }
@@ -9060,16 +9062,16 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7950\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7951\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7952\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7953\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7953\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7954\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7955\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7956\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7957\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7958\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7959\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@7960\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@7960\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7961\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7962\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7963\endcsname {\number\c@footnote }
@@ -9097,9 +9099,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7984\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7985\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7986\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7987\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7988\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7989\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7990\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@7991\endcsname {\number\c@footnote }
@@ -9183,8 +9185,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8063\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8064\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8065\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8066\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8067\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8068\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8069\endcsname {\number\c@footnote }
@@ -9327,8 +9329,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8196\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8197\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8198\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8199\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8199\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8200\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8201\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8202\endcsname {\number\c@footnote }
@@ -9375,9 +9377,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8240\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8241\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8242\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8243\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8244\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8245\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8246\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8247\endcsname {\number\c@footnote }
@@ -9453,8 +9455,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8313\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8314\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8315\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8316\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8316\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8317\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8318\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8319\endcsname {\number\c@footnote }
@@ -9587,8 +9589,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8435\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8436\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8437\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8438\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8438\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8439\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8440\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8441\endcsname {\number\c@footnote }
@@ -9600,9 +9602,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8447\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8448\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8449\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8450\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8451\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8452\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8453\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8454\endcsname {\number\c@footnote }
@@ -9724,9 +9726,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8558\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8559\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8560\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8561\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8562\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8563\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8564\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8565\endcsname {\number\c@footnote }
@@ -9952,8 +9954,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8756\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8757\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8758\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8759\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8759\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8760\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8761\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8762\endcsname {\number\c@footnote }
@@ -9992,8 +9994,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8791\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8792\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8793\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8794\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8794\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8795\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8796\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8797\endcsname {\number\c@footnote }
@@ -10019,8 +10021,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8815\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8816\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8817\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8818\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8818\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8819\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8820\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8821\endcsname {\number\c@footnote }
@@ -10091,8 +10093,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8877\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8878\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8879\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8880\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8880\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8881\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8882\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8883\endcsname {\number\c@footnote }
@@ -10102,9 +10104,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8886\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8887\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8888\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8889\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8890\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8891\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8892\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8893\endcsname {\number\c@footnote }
@@ -10116,19 +10118,19 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8899\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8900\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8901\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8902\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8903\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8904\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8905\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8906\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8907\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8908\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8909\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8910\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8911\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8912\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8913\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8914\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8915\endcsname {\number\c@footnote }
@@ -10140,8 +10142,8 @@
 \c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8920\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8921\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8922\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8922\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8923\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8924\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8925\endcsname {\number\c@footnote }
@@ -10156,8 +10158,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8933\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8934\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8935\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8936\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8936\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8937\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8938\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8939\endcsname {\number\c@footnote }
@@ -10172,23 +10174,23 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8947\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8948\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8949\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8950\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8950\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8951\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8952\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8953\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8954\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8955\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8956\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8957\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8957\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8958\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8959\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8960\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8961\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8962\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8963\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8963\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8964\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8965\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8966\endcsname {\number\c@footnote }
@@ -10196,8 +10198,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8968\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8969\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8970\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8971\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8971\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8972\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8973\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8974\endcsname {\number\c@footnote }
@@ -10209,8 +10211,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8979\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8980\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8981\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@8982\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@8982\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8983\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8984\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@8985\endcsname {\number\c@footnote }
@@ -10234,8 +10236,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9001\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9002\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9003\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9004\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9004\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9005\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9006\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9007\endcsname {\number\c@footnote }
@@ -10255,9 +10257,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9019\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9020\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9021\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9022\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9023\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9024\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9025\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9026\endcsname {\number\c@footnote }
@@ -10284,9 +10286,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9045\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9046\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9047\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9048\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9049\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9050\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9051\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9052\endcsname {\number\c@footnote }
@@ -10306,9 +10308,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9064\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9065\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9066\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9067\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9068\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9069\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9070\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9071\endcsname {\number\c@footnote }
@@ -10316,8 +10318,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9073\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9074\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9075\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9076\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9076\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9077\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9078\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9079\endcsname {\number\c@footnote }
@@ -10336,8 +10338,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9091\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9092\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9093\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9094\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9094\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9095\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9096\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9097\endcsname {\number\c@footnote }
@@ -10350,18 +10352,18 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9103\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9104\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9105\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9106\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9106\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9107\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9108\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9109\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9110\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9111\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9112\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9113\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9114\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9115\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9116\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9117\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9118\endcsname {\number\c@footnote }
@@ -10371,10 +10373,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9122\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9123\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9124\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9125\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9126\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9127\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9128\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9129\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9130\endcsname {\number\c@footnote }
@@ -10387,6 +10389,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9136\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9137\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9138\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9139\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9140\endcsname {\number\c@footnote }
@@ -10454,9 +10457,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9198\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9199\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9200\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9201\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9202\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9203\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9204\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9205\endcsname {\number\c@footnote }
@@ -10507,8 +10510,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9247\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9248\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9249\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9250\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9250\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9251\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9252\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9253\endcsname {\number\c@footnote }
@@ -10636,8 +10639,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9363\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9364\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9365\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9366\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9366\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9367\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9368\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9369\endcsname {\number\c@footnote }
@@ -10666,8 +10669,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9391\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9392\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9393\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9394\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9394\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9395\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9396\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9397\endcsname {\number\c@footnote }
@@ -10691,8 +10694,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9414\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9415\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9416\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9417\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9417\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9418\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9419\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9420\endcsname {\number\c@footnote }
@@ -10705,9 +10708,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9427\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9428\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9429\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9430\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9431\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9432\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9433\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9434\endcsname {\number\c@footnote }
@@ -10723,8 +10726,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9444\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9445\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9446\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9447\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9447\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9448\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9449\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9450\endcsname {\number\c@footnote }
@@ -10737,9 +10740,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9457\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9458\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9459\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9460\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9461\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9462\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9463\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9464\endcsname {\number\c@footnote }
@@ -10763,15 +10766,15 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9481\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9482\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9483\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9484\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9485\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9486\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9487\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9488\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9489\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9490\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9490\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9491\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9492\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -10783,16 +10786,16 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9498\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9499\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9500\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9501\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9501\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9502\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9503\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9504\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9505\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9506\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9507\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9508\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9508\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9509\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9510\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9511\endcsname {\number\c@footnote }
@@ -10804,10 +10807,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9517\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9518\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9519\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9520\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9521\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9522\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9523\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9524\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9525\endcsname {\number\c@footnote }
@@ -10911,8 +10914,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9614\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9615\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9616\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9617\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9617\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9618\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9619\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9620\endcsname {\number\c@footnote }
@@ -10961,8 +10964,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9658\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9659\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9660\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9661\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9661\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9662\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9663\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9664\endcsname {\number\c@footnote }
@@ -11045,8 +11048,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9733\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9734\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9735\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9736\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9736\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9737\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9738\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9739\endcsname {\number\c@footnote }
@@ -11084,8 +11087,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9767\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9768\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9769\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9770\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9770\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9771\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9772\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9773\endcsname {\number\c@footnote }
@@ -11098,8 +11101,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9780\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9781\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9782\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9783\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9783\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9784\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9785\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9786\endcsname {\number\c@footnote }
@@ -11127,9 +11130,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9805\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9806\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9807\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9808\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9809\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9810\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9811\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9812\endcsname {\number\c@footnote }
@@ -11146,8 +11149,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9822\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9823\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9824\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9825\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9825\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9826\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9827\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9828\endcsname {\number\c@footnote }
@@ -11163,8 +11166,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9836\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9837\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9838\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9839\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9839\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9840\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9841\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9842\endcsname {\number\c@footnote }
@@ -11174,15 +11177,15 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9846\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9847\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9848\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9849\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9849\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9850\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9851\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9852\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9853\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9854\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9855\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9855\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9856\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9857\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -11270,8 +11273,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9931\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9932\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9933\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9934\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9934\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9935\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9936\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9937\endcsname {\number\c@footnote }
@@ -11303,8 +11306,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9962\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9963\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9964\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9965\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9965\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9966\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9967\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9968\endcsname {\number\c@footnote }
@@ -11319,8 +11322,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9977\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9978\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9979\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9980\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9980\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9981\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9982\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9983\endcsname {\number\c@footnote }
@@ -11331,8 +11334,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9988\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9989\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9990\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@9991\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@9991\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9992\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9993\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9994\endcsname {\number\c@footnote }
@@ -11341,9 +11344,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9997\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9998\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@9999\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10000\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10001\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10002\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10003\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10004\endcsname {\number\c@footnote }
@@ -11353,10 +11356,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10008\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10009\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10010\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10011\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10012\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10013\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10014\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10015\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10016\endcsname {\number\c@footnote }
@@ -11366,13 +11369,13 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10020\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10021\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10022\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10023\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10024\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10025\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10026\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10027\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10028\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10029\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10030\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10031\endcsname {\number\c@footnote }
@@ -11383,10 +11386,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10036\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10037\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10038\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10039\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10040\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10041\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10042\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10043\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10044\endcsname {\number\c@footnote }
@@ -11398,8 +11401,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10050\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10051\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10052\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@10053\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@10053\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10054\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10055\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10056\endcsname {\number\c@footnote }
@@ -11631,17 +11634,17 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10264\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10265\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10266\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@10267\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@10267\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10268\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10269\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10270\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10271\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10272\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10273\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10274\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10275\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10276\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10277\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10278\endcsname {\number\c@footnote }
@@ -11667,9 +11670,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10297\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10298\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10299\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10300\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10301\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10302\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10303\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10304\endcsname {\number\c@footnote }
@@ -11681,9 +11684,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10310\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10311\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10312\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10313\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10314\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10315\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10316\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10317\endcsname {\number\c@footnote }
@@ -11695,11 +11698,11 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10323\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10324\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10325\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10326\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10327\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10328\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10329\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10330\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10331\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10332\endcsname {\number\c@footnote }
@@ -11709,9 +11712,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10336\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10337\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10338\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10339\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10340\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10341\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10342\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10343\endcsname {\number\c@footnote }
@@ -11721,8 +11724,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10347\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10348\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10349\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10350\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10351\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10352\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10353\endcsname {\number\c@footnote }
@@ -11747,17 +11750,17 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10370\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10371\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10372\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10373\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10374\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10375\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10376\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10377\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10378\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10379\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10380\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10381\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10382\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10383\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10384\endcsname {\number\c@footnote }
@@ -11792,9 +11795,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10411\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10412\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10413\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10414\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10415\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10416\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10417\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10418\endcsname {\number\c@footnote }
@@ -11805,7 +11808,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10423\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10424\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10425\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10426\endcsname {\number\c@footnote }
 \c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10427\endcsname {\number\c@footnote }
@@ -11922,8 +11924,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10529\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10530\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10531\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@10532\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@10532\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10533\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10534\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10535\endcsname {\number\c@footnote }
@@ -12136,8 +12138,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10726\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10727\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10728\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@10729\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@10729\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10730\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10731\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10732\endcsname {\number\c@footnote }
@@ -12307,8 +12309,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10884\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10885\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10886\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@10887\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@10887\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10888\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10889\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@10890\endcsname {\number\c@footnote }
@@ -12440,9 +12442,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11005\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11006\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11007\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11008\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11009\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11010\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11011\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11012\endcsname {\number\c@footnote }
@@ -12456,8 +12458,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11020\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11021\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11022\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11023\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11023\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11024\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11025\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11026\endcsname {\number\c@footnote }
@@ -12466,12 +12468,13 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11029\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11030\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11031\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11032\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11032\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11033\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11034\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11035\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11036\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11037\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11038\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11039\endcsname {\number\c@footnote }
@@ -12479,7 +12482,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11041\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11042\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11043\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11044\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11045\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11046\endcsname {\number\c@footnote }
@@ -12488,6 +12490,7 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11049\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11050\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11051\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11052\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11053\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11054\endcsname {\number\c@footnote }
@@ -12495,7 +12498,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11056\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11057\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11058\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11059\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11060\endcsname {\number\c@footnote }
@@ -12556,8 +12558,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11112\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11113\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11114\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11115\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11115\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11116\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11117\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11118\endcsname {\number\c@footnote }
@@ -12619,8 +12621,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11168\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11169\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11170\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11171\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11171\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11172\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11173\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11174\endcsname {\number\c@footnote }
@@ -12628,13 +12630,13 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11176\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11177\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11178\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11179\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11180\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11181\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11182\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11183\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11184\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11185\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11186\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11187\endcsname {\number\c@footnote }
@@ -12645,11 +12647,11 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11192\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11193\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11194\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11195\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11196\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11197\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11198\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11199\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11200\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11201\endcsname {\number\c@footnote }
@@ -12657,12 +12659,12 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11203\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11204\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11205\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11206\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11207\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11208\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11209\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11210\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11211\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11212\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11213\endcsname {\number\c@footnote }
@@ -12670,37 +12672,37 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11215\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11216\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11217\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11218\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11219\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11220\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11221\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11222\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11223\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11224\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11225\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11226\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11227\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11228\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11229\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11230\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11231\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11232\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11233\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11234\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11235\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11236\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11237\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11238\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11239\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11240\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11241\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11242\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11243\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11244\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11245\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11246\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11247\endcsname {\number\c@footnote }
@@ -12709,10 +12711,10 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11250\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11251\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11252\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11253\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11254\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11255\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11256\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11257\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11258\endcsname {\number\c@footnote }
@@ -12720,21 +12722,21 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11260\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11261\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11262\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11263\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11264\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11265\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11266\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11267\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11268\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11269\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11270\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11271\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11272\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11273\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11274\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11275\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11276\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11277\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11278\endcsname {\number\c@footnote }
@@ -12743,23 +12745,23 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11281\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11282\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11283\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11284\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11285\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11286\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11287\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11288\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11289\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11290\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11291\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11292\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11293\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11294\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11295\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11296\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11297\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11298\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11299\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11300\endcsname {\number\c@footnote }
 \c@footnote \z@ 
@@ -12771,12 +12773,12 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11306\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11307\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11308\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11309\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11310\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11311\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11312\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11313\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11314\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11315\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11316\endcsname {\number\c@footnote }
@@ -12789,13 +12791,13 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11323\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11324\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11325\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11326\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11327\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11328\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11329\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11330\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11331\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11332\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11333\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11334\endcsname {\number\c@footnote }
@@ -12805,7 +12807,6 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11338\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11339\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11340\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11341\endcsname {\number\c@footnote }
 \c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11342\endcsname {\number\c@footnote }
@@ -13000,9 +13001,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11516\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11517\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11518\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11519\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11520\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11521\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11522\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11523\endcsname {\number\c@footnote }
@@ -13197,8 +13198,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11696\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11697\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11698\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11699\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11700\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11701\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11702\endcsname {\number\c@footnote }
@@ -13221,8 +13222,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11718\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11719\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11720\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11721\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11721\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11722\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11723\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11724\endcsname {\number\c@footnote }
@@ -13233,8 +13234,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11729\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11730\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11731\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11732\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11732\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11733\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11734\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11735\endcsname {\number\c@footnote }
@@ -13242,9 +13243,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11737\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11738\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11739\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11740\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11741\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11742\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11743\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11744\endcsname {\number\c@footnote }
@@ -13252,9 +13253,9 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11746\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11747\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11748\endcsname {\number\c@footnote }
+\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11749\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11750\endcsname {\number\c@footnote }
-\c@footnote \z@ 
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11751\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11752\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11753\endcsname {\number\c@footnote }
@@ -13317,8 +13318,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11805\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11806\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11807\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11808\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11808\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11809\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11810\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11811\endcsname {\number\c@footnote }
@@ -13379,8 +13380,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11863\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11864\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11865\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11866\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11866\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11867\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11868\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11869\endcsname {\number\c@footnote }
@@ -13388,8 +13389,8 @@
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11871\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11872\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11873\endcsname {\number\c@footnote }
-\advance\c@footnote \@ne \expandafter\xdef \csname f@11874\endcsname {\number\c@footnote }
 \c@footnote \z@ 
+\advance\c@footnote \@ne \expandafter\xdef \csname f@11874\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11875\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11876\endcsname {\number\c@footnote }
 \advance\c@footnote \@ne \expandafter\xdef \csname f@11877\endcsname {\number\c@footnote }

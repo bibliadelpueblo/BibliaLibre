@@ -91,10 +91,10 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter5669"
-       x="-0.0099604693"
-       y="-0.018362494"
-       width="1.0341008"
-       height="1.0631848">
+       x="-0.010653876"
+       y="-0.032684875"
+       width="1.0364747"
+       height="1.1124677">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -239,7 +239,7 @@
            x="402.12946"
            y="87.801598"
            style="font-size:87.3282px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-           id="tspan713">Versiona</tspan><tspan
+           id="tspan713">Versión</tspan><tspan
            sodipodi:role="line"
            x="402.12946"
            y="196.96185"
