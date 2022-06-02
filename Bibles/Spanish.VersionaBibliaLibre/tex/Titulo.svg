@@ -23,10 +23,10 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter5941"
-       x="-0.013441908"
-       y="-0.10049246"
-       width="1.0460199"
-       height="1.3457918">
+       x="-0.011091608"
+       y="-0.082850645"
+       width="1.0379734"
+       height="1.2850868">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -91,10 +91,10 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter5669"
-       x="-0.011791388"
-       y="-0.033974382"
-       width="1.0403691"
-       height="1.1169049">
+       x="-0.0099604693"
+       y="-0.018362494"
+       width="1.0341008"
+       height="1.0631848">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -127,10 +127,10 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter6359"
-       x="-0.013027484"
-       y="-0.1309175"
-       width="1.0355542"
-       height="1.3572957">
+       x="-0.014430349"
+       y="-0.10968434"
+       width="1.0393828"
+       height="1.2993469">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -171,7 +171,7 @@
      inkscape:cx="-334.36049"
      inkscape:cy="506.08642"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g13154"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="829"
@@ -236,20 +236,15 @@
          id="text4410"
          transform="matrix(0.09695222,0,0,0.09695222,34.393477,252.48193)"><tspan
            sodipodi:role="line"
-           id="tspan4408"
            x="402.12946"
            y="87.801598"
-           style="font-size:87.3282px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Reina-Valera</tspan><tspan
+           style="font-size:87.3282px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           id="tspan713">Versiona</tspan><tspan
            sodipodi:role="line"
            x="402.12946"
            y="196.96185"
            style="font-size:87.3282px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-           id="tspan3747">del Pueblo</tspan><tspan
-           sodipodi:role="line"
-           x="402.12946"
-           y="306.1221"
-           style="font-size:87.3282px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-           id="tspan713">Antigua</tspan></text>
+           id="tspan8040">Biblia Libre</tspan></text>
     </g>
     <text
        xml:space="preserve"

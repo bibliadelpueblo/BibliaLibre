@@ -115,6 +115,7 @@ namespace BibleMarkdown
 						src = Regex.Replace(src, @"\\\+?\w+(\*|\s*)?", ""); // remove usfm tags
 						src = Regex.Replace(src, @" +", " "); // remove multiple spaces
 						src = Regex.Replace(src, @"\^\[([0-9]+)[.:]([0-9]+)", "^[**$1:$2**"); // bold verse references in footnotes
+						src = Regex.Replace(src, @"\.(\w)", ". $1"); // Add space after dot
 						src = Regex.Replace(src, @"(?<!^|(r?\n\r?\n)|#)#(?!#)", $"{Environment.NewLine}#", RegexOptions.Singleline); // add blank line over title
 						if (LowercaseFirstWords) // needed for ReinaValera1909, it has uppercase words on every beginning of a chapter
 						{
@@ -302,13 +303,14 @@ namespace BibleMarkdown
 				}
 			}
 
-			var exit = false;
-			while (!exit) {
-				var txt = Regex.Replace(text, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))", "${footnote}${text}", RegexOptions.Singleline); // ^^ footnotes
-				if (txt == text) exit = true;
-				text = txt;
+			bool replaced = true;
+			while (replaced) {
+				replaced = false;
+				text = Regex.Replace(text, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))", m => {
+					replaced = true;
+					return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
+				}, RegexOptions.Singleline);// ^^ footnotes
 			} 
-
 
 			if (text.Contains(@"%!verse-paragraphs.*?%")) // each verse in a separate paragraph. For use in Psalms & Proverbs
 			{
@@ -644,6 +646,17 @@ namespace BibleMarkdown
 			Log(frames);
 		}
 
+		static string Marker(int n)
+		{
+			StringBuilder s = new StringBuilder();
+			while (n > 0)
+			{
+				s.Append((char)((int)'a' + n % 26 - 1));
+				n = n / 26;
+			}
+			return s.ToString();
+		}
+
 		static void ImportFramework(string path)
 		{
 			var frmfile = Path.Combine(path, @"src\framework.md");
@@ -675,10 +688,25 @@ namespace BibleMarkdown
 						{
 
 							// remove current frame
-							src = Regex.Replace(src, @"(?<=\r?\n|^)\r?\n(?!\s*#)", @""); // remove blank line
-							src = Regex.Replace(src, @"(?<=^|\n)##+.*?\r?\n", ""); // remove titles
-							src = Regex.Replace(src, @"(\s*\^[a-zA-Z]+\^)|(([ \t]*\^[a-zA-Z]+\^\[[^\]]*\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
-							src = Regex.Replace(src, @"%!verse-paragraphs.*?%\r?\n?", ""); // remove verse paragraphs
+
+							// remove bibmark footnotes.
+							bool replaced = true;
+							while (replaced)
+							{
+								replaced = false;
+								src = Regex.Replace(src, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))[ \t]*\r?\n?", m => {
+									replaced = true;
+									return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
+								}, RegexOptions.Singleline);
+							}
+							src = Regex.Replace(src, @"(?<=\r?\n|^)\r?\n(?!\s*#)", "", RegexOptions.Singleline); // remove blank line
+							src = Regex.Replace(src, @"(?<!(^|\n)#[^\n]*)\r?\n(?!\s*#)", " ", RegexOptions.Singleline);
+							src = Regex.Replace(src, " +", " ");
+							
+
+							src = Regex.Replace(src, @"(?<=^|\n)##+.*?\r?\n", "", RegexOptions.Singleline); // remove titles
+							// src = Regex.Replace(src, @"(\s*\^[a-zA-Z]+\^)|(([ \t]*\^[a-zA-Z]+\^\[[^\]]*\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
+							src = Regex.Replace(src, @"%!verse-paragraphs.*?%\r?\n?", "", RegexOptions.Singleline); // remove verse paragraphs
 
 							var frmpart = frmpartmatch.Value;
 							var frames = Regex.Matches(frmpart, @"(?<=(^|\n)## (?<chapter>[0-9]+)(?:\r?\n|$).*?)\^(?<verse>[0-9]+)\^(?<versecontent>(\s*((?<marker>\^[a-zA-Z]+\^(?!\[))|(?<footnote>\^[a-zA-Z]+\^\[[^\]]*\])))*\s*(?:(?:\r?\n#(?<titlelevel>#+)\s*(?<title>.*?)(\r?\n|$))|\\|(?=\^[0-9]+\^)))", RegexOptions.Singleline).GetEnumerator();
@@ -689,8 +717,13 @@ namespace BibleMarkdown
 
 							int chapter = 0;
 							int verse = 0;
-							src = Regex.Replace(src, @"(?<=^|\n)#\s+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#)", m =>
+							int markerno = 1;
+							Queue<int> footers = new Queue<int>();
+
+							src = Regex.Replace(src, @"(?<=^|\n)#\s+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)", m =>
 							{
+								var txt = m.Value;
+
 								if (m.Groups["chapter"].Success) // chapter
 								{
 									int.TryParse(m.Groups["chapter"].Value, out chapter); verse = 0;
@@ -699,6 +732,7 @@ namespace BibleMarkdown
 								{
 									int.TryParse(m.Groups["verse"].Value, out verse);
 								}
+
 
 								if (hasFrame)
 								{
@@ -711,16 +745,18 @@ namespace BibleMarkdown
 									if (fchapter <= chapter && fverse <= verse)
 									{
 										hasFrame = frames.MoveNext();
-										var res = new StringBuilder(m.Value);
+
+										var res = new StringBuilder(txt);
 										if (f.Groups["marker"].Success) { 
 											var markers = Regex.Matches(f.Groups["versecontent"].Value, @"\^[a-zA-Z]+\^(?!\[)");
 											foreach (Match marker in markers)
 											{
-												if (!char.IsWhiteSpace(m.Value[m.Value.Length - 1])) res.Append(" ");
+												//if (!char.IsWhiteSpace(m.Value[m.Value.Length - 1])) res.Append(" ");
+												
 												res.Append($"{marker.Value} ");
 											}
 										}
-										var foots = Regex.Matches(f.Groups["versecontent"].Value, @"\^[a-zA-Z]+\^\[[^\]]*\]");
+										var foots = Regex.Matches(f.Groups["versecontent"].Value, @"\^[a-zA-Z]+\^(?<footbody>\[[^\]]*\])");
 										bool hasFoots = false;
 										foreach (Match foot in foots) {
 											if (hasFoots) res.Append(" ");
@@ -741,8 +777,35 @@ namespace BibleMarkdown
 										return res.ToString();
 									}
 								}
-								return m.Value;
+
+								return txt;
 							}, RegexOptions.Singleline);
+
+							// remove bibmark footnotes
+							replaced = true;
+							while (replaced)
+							{
+								replaced = false;
+								src = Regex.Replace(src, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)[ \t]*(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))[ \t]*\r?\n?", m => {
+									replaced = true;
+									return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
+								}, RegexOptions.Singleline);
+							}
+
+							// apply bibmark footnotes
+							replaced = true;
+							int markno = 1;
+							while (replaced)
+							{
+								replaced = false;
+								src = Regex.Replace(src, @"(?<!\^[a-zA-Z]+)\^\[(?<footnote>.*?)(?<!\\)\](?<text>.*?)(?=\r?\n[ \t]*\r?\n)", m => {
+									replaced = true;
+									string space;
+									if (markno == 1) space = "\r\n"; else space = " ";
+									return $"^{Marker(markno)}^{m.Groups["text"].Value}{space}^{Marker(markno)}^[{m.Groups["footnote"].Value}]";
+								}, RegexOptions.Singleline);
+								markno++;
+							}
 
 							File.WriteAllText(srcfile, src);
 							Log(srcfile);
@@ -752,7 +815,7 @@ namespace BibleMarkdown
 			}
 		}
 
-		static async Task ProcessPath(string path)
+		static void ProcessPath(string path)
 		{
 			var srcpath = Path.Combine(path, "src");
 			var outpath = Path.Combine(path, "out");
@@ -811,13 +874,13 @@ namespace BibleMarkdown
 			if (paths.Count == 0)
 			{
 				path = Directory.GetCurrentDirectory();
-				ProcessPath(path).Wait();
+				ProcessPath(path);
 			} else
 			{
 				path = paths[0];
 				if (Directory.Exists(path))
 				{
-					ProcessPath(path).Wait();
+					ProcessPath(path);
 				}
 				else if (File.Exists(path)) ProcessFile(path).Wait();
 			}

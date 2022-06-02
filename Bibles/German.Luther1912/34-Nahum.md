@@ -1,0 +1,39 @@
+# 1
+## El Señor, Dios de venganza y gracia, aparece en el juicio de Nínive
+^1^ Dies ist die Last über Ninive und das Buch der Weissagung Nahums von Elkos. ^2^ Der HErr ist ein eifriger Gott und ein Rächer, ja, ein Rächer ist der HErr und zornig; der HErr ist ein Rächer wider seine Widersacher und der es seinen Feinden nicht vergessen wird. ^3^ Der HErr ist geduldig und von großer Kraft, vor welchem niemand unschuldig ist; er ist der HErr, des Weg in Wetter und Sturm ist und Gewölke der Staub unter seinen Füßen, ^a^ ^4^ der das Meer schilt und trocken macht und alle Wasser vertrocknet. Basan und Karmel verschmachten; und was auf dem Berge Libanon blüht, verschmachtet. ^5^ Die Berge zittern vor ihm, und die Hügel zergehen; das Erdreich bebt vor ihm, der Weltkreis und alle, die darauf wohnen. ^6^ Wer kann vor seinem Zorn stehen, und wer kann vor seinem Grimm bleiben? Sein Zorn brennt wie Feuer, und die Felsen zerspringen vor ihm. ^7^ Der HErr ist gütig und eine Feste zur Zeit der Not und kennt die, die auf ihn trauen. ^b^ ^8^ Er lässt die Flut überher laufen und macht mit derselben Stätte ein Ende, und seine Feinde verfolgt er mit Finsternis. ^9^ Was gedenkt ihr wider den HErrn? Er wird doch ein Ende machen; es wird das Unglück nicht zweimal kommen. ^10^ Denn wenn sie gleich sind wie die Dornen, die noch ineinanderwachsen und im besten Saft sind, so sollen sie doch verbrannt werden wie ganz dürres Stroh. ^11^ Denn von dir ist gekommen der Schalksrat, der Böses wider den HErrn gedachte. 
+^a^[**1:3** 2Mo 34,7] ^b^[**1:7** 5Mo 4,31; Ps 1,6]
+
+## La amenaza a Asiria y la proclamación de la salvación de Judá
+^12^ So spricht der HErr: Sie kommen so gerüstet und mächtig, wie sie wollen, so sollen sie doch umgehauen werden und dahinfahren. Ich habe dich gedemütigt; aber ich will dich nicht wiederum demütigen. ^13^ Alsdann will ich sein Joch, das du trägst, zerbrechen und deine Bande zerreißen. 
+
+^14^ Aber wider dich hat der HErr geboten, dass deines Namens kein Same mehr soll bleiben. Vom Hause deines Gottes will ich dich ausrotten, die Götzen und Bilder will ich dir zum Grab machen; denn du bist zunichte geworden.
+
+# 2
+## Asedio y destrucción de Nínive como resultado del juicio divino
+^1^ Siehe, auf den Bergen kommen Füße eines guten Boten, der da Frieden verkündigt! Halte deine Feiertage, Juda, und bezahle deine Gelübde! denn es wird der Arge nicht mehr über dich kommen; er ist ganz ausgerottet. 
+
+^2^ Es wird der Zerstreuer wider dich heraufziehen und die Feste belagern. Siehe wohl auf die Straße, rüste dich aufs beste und stärke dich aufs gewaltigste! 
+
+^3^ Denn der HErr wird die Pracht Jakobs wiederbringen wie die Pracht Israels; denn die Ableser haben sie abgelesen und ihre Reben verderbt. ^4^ Die Schilde seiner Starken sind rot, sein Heervolk glänzt wie Purpur, seine Wagen leuchten wie Feuer, wenn er sich rüstet; ihre Spieße beben. ^5^ Die Wagen rollen auf den Gassen und rasseln auf den Straßen; sie glänzen wie Fackeln und fahren einher wie die Blitze. ^6^ Er aber wird an seine Gewaltigen gedenken; doch werden sie fallen, wo sie hinaus wollen, und werden eilen zur Mauer und zu dem Schirm, da sie sicher seien. ^7^ Aber die Tore an den Wassern werden doch geöffnet, und der Palast wird untergehen. ^8^ Die Königin wird gefangen weggeführt werden, und ihre Jungfrauen werden seufzen wie die Tauben und an ihre Brust schlagen. ^9^ Denn Ninive ist wie ein Teich voll Wasser von jeher; aber dasselbe wird verfließen müssen. „Stehet, stehet!“ (werden sie rufen); aber da wird sich niemand umwenden. ^10^ So raubet nun Silber! raubet Gold! denn hier ist der Schätze kein Ende und die Menge aller köstlichen Kleinode. 
+
+^11^ Nun muss sie rein abgelesen und geplündert werden, dass ihr Herz muss verzagen, die Knie schlottern, alle Lenden zittern und alle Angesichter bleich werden. ^a^ ^12^ Wo ist nun die Wohnung der Löwen und die Weide der jungen Löwen, da der Löwe und die Löwin mit den jungen Löwen wandelten, und niemand durfte sie scheuchen? 
+^a^[**2:11** Jes 13,7-8]
+
+^13^ Der Löwe raubte genug für seine Jungen und würgte es für seine Löwinnen; seine Höhlen füllte er mit Raub und seine Wohnung mit dem, was er zerrissen hatte. ^14^ Siehe, ich will an dich, spricht der HErr Zebaoth, und deine Wagen im Rauch anzünden, und das Schwert soll deine jungen Löwen fressen; und will deines Raubens ein Ende machen auf Erden, dass man deiner Boten Stimme nicht mehr hören soll.
+
+# 3
+## Los pecados y el castigo de la cosmopolita ciudad de Nínive: un grito de aflicción y un cántico de burla
+^1^ Weh der mörderischen Stadt, die voll Lügen und Räuberei ist und von ihrem Rauben nicht lassen will! ^2^ Denn da wird man hören die Geißeln klappen und die Räder rasseln und die Rosse jagen und die Wagen rollen. ^3^ Reiter rücken herauf mit glänzenden Schwertern und mit blitzenden Spießen. Da liegen viel Erschlagene und große Haufen Leichname, dass ihrer keine Zahl ist und man über die Leichname fallen muss. ^4^ Das alles um der großen Hurerei willen der schönen, lieben Hure, die mit Zauberei umgeht, die mit ihrer Hurerei die Heiden und mit ihrer Zauberei Land und Leute zu Knechten gemacht hat. ^a^ 
+^a^[**3:4** Jes 23,16; Offb 17,-1]
+
+^5^ Siehe, ich will an dich, spricht der HErr Zebaoth; ich will dir deine Säume aufdecken unter dein Angesicht und will den Heiden deine Blöße und den Königreichen deine Schande zeigen. ^a^ ^6^ Ich will dich ganz gräulich machen und dich schänden und ein Schauspiel aus dir machen, ^7^ dass alle, die dich sehen, von dir fliehen und sagen sollen: Ninive ist zerstört; wer will Mitleiden mit ihr haben? Und wo soll ich dir Tröster suchen? 
+^a^[**3:5** Jes 47,3]
+
+## La caída de la ciudad es inevitable
+^8^ Meinst du, du seist besser denn die Stadt No-Amon, die da lag an den Wassern und ringsumher Wasser hatte, deren Mauern und Feste war das Meer? ^a^ ^9^ Mohren und Ägypten war ihre unzählige Macht, Put und Libyen waren ihre Hilfe. ^10^ Doch hat sie müssen vertrieben werden und gefangen wegziehen; und sind ihre Kinder auf allen Gassen zerschmettert worden, und um ihre Edlen warf man das Los, und alle ihre Gewaltigen wurden in Ketten und Fesseln gelegt. ^11^ Also musst du auch trunken werden und dich verbergen und eine Feste suchen vor dem Feinde. ^b^ ^12^ Alle deine festen Städte sind wie Feigenbäume mit reifen Feigen, die, wenn man sie schüttelt, dem ins Maul fallen, der sie essen will. ^13^ Siehe, dein Volk soll zu Weibern werden in dir, und die Tore deines Landes sollen deinen Feinden geöffnet werden, und das Feuer soll deine Riegel verzehren. 
+^a^[**3:8** Jer 46,25] ^b^[**3:11** Jer 25,15]
+
+^14^ Schöpfe dir Wasser, denn du wirst belagert werden! Bessere deine Festen! Gehe in den Ton und tritt den Lehm und mache starke Ziegel! ^15^ Aber das Feuer wir dich fressen und das Schwert töten; es wird dich abfressen die ein Käfer, ob deines Volks schon viel ist wie Käfer, ob deines Volks schon viel ist wie Heuschrecken. ^16^ Du hast mehr Händler, denn Sterne am Himmel sind; aber nun werden sie sich ausbreiten wie Käfer und davonfliegen. ^17^ Deiner Herren sind so viel wie Heuschrecken und deiner Hauptleute wie Käfer, die sich an die Zäune lagern in den kalten Tagen; wenn aber die Sonne aufgeht, heben sie sich davon, dass man nicht weiß, wo sie bleiben. 
+
+## Un canto fúnebre en Nínive
+^18^ Deine Hirten werden schlafen, o König zu Assur, deine Mächtigen werden sich legen; und dein Volk wird auf den Bergen zerstreut sein, und niemand wird sie versammeln. ^19^ Niemand wird deinen Schaden lindern, und deine Wunde wird unheilbar sein. Alle, die solches von dir hören, werden mit ihren Händen über dich klatschen; denn über wen ist nicht deine Bosheit ohne Unterlass gegangen?
