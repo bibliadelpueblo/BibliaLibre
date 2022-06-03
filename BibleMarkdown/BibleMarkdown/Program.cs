@@ -369,6 +369,15 @@ namespace BibleMarkdown
 			Log(htmlfile);
 		}
 
+		static async Task CreateEpub(string mdfile, string epubfile)
+		{
+
+			var src = File.ReadAllText(mdfile);
+			src = Regex.Replace(src, @"\\bibleverse\{([0-9]+)\}", "<sup class='bibleverse'>$1</sup>", RegexOptions.Singleline);
+			File.WriteAllText(epubfile, src);
+			Log(epubfile);
+		}
+
 		static async Task ProcessFile(string file)
 		{
 			var path = Path.GetDirectoryName(file);
@@ -381,8 +390,10 @@ namespace BibleMarkdown
 			var mdfile = Path.Combine(md, Path.GetFileName(file));
 			var texfile = Path.Combine(tex, Path.GetFileNameWithoutExtension(file) + ".tex");
 			var htmlfile = Path.Combine(html, Path.GetFileNameWithoutExtension(file) + ".html");
+			var epubfile = Path.Combine(md, Path.GetFileNameWithoutExtension(file) + ".epub.md");
 
 			var mdfiletime = DateTime.MinValue;
+			var epubfiletime = DateTime.MinValue;
 			var texfiletime = DateTime.MinValue;
 			var htmlfiletime = DateTime.MinValue;
 			var filetime = File.GetLastWriteTimeUtc(file);
@@ -394,6 +405,13 @@ namespace BibleMarkdown
 			{
 				CreatePandoc(file, mdfile);
 				mdfiletime = DateTime.Now;
+			}
+
+			if (File.Exists(epubfile)) epubfiletime = File.GetLastWriteTimeUtc(epubfile);
+			if (epubfiletime < mdfiletime || epubfiletime < bibmarktime)
+			{
+				CreateEpub(mdfile, epubfile);
+				epubfiletime = DateTime.Now;
 			}
 
 			if (File.Exists(texfile)) texfiletime = File.GetLastWriteTimeUtc(texfile);
