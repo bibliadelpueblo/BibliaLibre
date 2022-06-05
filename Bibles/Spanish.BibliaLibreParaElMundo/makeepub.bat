@@ -1,0 +1,7 @@
+chcp 65001
+..\..\bin\bibmark.exe
+
+cd out\pandoc\epub
+pandoc -o ..\..\..\epub\BibliaDelPinolero.epub --epub-embed-font ..\..\..\..\..\Fonts\DayRoman.ttf --epub-embed-font "..\..\..\..\..\Fonts\DayRoman*.ttf" --css=..\..\..\tex\fonts.css 00.1-Impressum.md 00.2-Prefacio.md 01-GÉNESIS.md 02-ÉXODO.md 03-LEVÍTICO.md 04-NÚMEROS.md 05-DEUTERONOMIO.md 06-JOSUÉ.md 07-JUECES.md 08-RUT.md "09-1 SAMUEL.md" "10-2 SAMUEL.md" "11-1 REYES.md" "12-2 REYES.md" "13-1 CRÓNICAS.md" "14-2 CRÓNICAS.md" 15-ESDRAS.md 16-NEHEMÍAS.md 17-ESTER.md 18-JOB.md 19-SALMOS.md 20-PROVERBIOS.md 21-ECLESIASTÉS.md "22-CANTARES.md" 23-ISAÍAS.md 24-JEREMÍAS.md 25-LAMENTACIONES.md 26-EZEQUIEL.md 27-DANIEL.md 28-OSEAS.md 29-JOEL.md 30-AMÓS.md 31-ABDÍAS.md 32-JONÁS.md 33-MIQUEAS.md 34-NAHUM.md 35-HABACUC.md 36-SOFONÍAS.md 37-HAGEO.md 38-ZACARÍAS.md 39-MALAQUÍAS.md "55-SAN MATEO.md" "56-SAN MARCOS.md" "57-SAN LUCAS.md" "58-SAN JUAN.md" 59-HECHOS.md 60-ROMANOS.md "61-1 CORINTIOS.md" "62-2 CORINTIOS.md" 63-GÁLATAS.md 64-EFESIOS.md 65-FILIPENSES.md 66-COLOSENSES.md "67-1 TESALONICENSES.md" "68-2 TESALONICENSES.md" "69-1 TIMOTEO.md" "70-2 TIMOTEO.md" 71-TITO.md 72-FILEMÓN.md 73-HEBREOS.md 74-SANTIAGO.md "75-1 PEDRO.md" "76-2 PEDRO.md" "77-1 JUAN.md" "78-2 JUAN.md" "79-3 JUAN.md" "80-SAN JUDAS.md" "81-EL APOCALIPSIS.md" 
+
+cd ..\..\..

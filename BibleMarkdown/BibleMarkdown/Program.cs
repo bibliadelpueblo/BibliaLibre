@@ -52,10 +52,11 @@ namespace BibleMarkdown
 		}
 		public static bool IsNewer(string file, string srcfile)
 		{
-			var srctime = File.GetLastWriteTimeUtc(srcfile);
+			var srctime = DateTime.MaxValue;
+			if (File.Exists(srcfile)) srctime = File.GetLastWriteTimeUtc(srcfile);
 			var filetime = DateTime.MinValue;
 			if (File.Exists(file)) filetime = File.GetLastWriteTimeUtc(file);
-			return filetime > srctime || filetime < bibmarktime;
+			return filetime > srctime && filetime > bibmarktime;
 		}
 
 		static string Label(int i)

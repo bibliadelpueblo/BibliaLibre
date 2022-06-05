@@ -3,7 +3,7 @@
     "BibleMarkdown": {
       "commandName": "Project",
       "commandLineArgs": "-s",
-      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\German.Luther1912"
+      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\Spanish.BibliaLibreParaElMundo"
     },
     "WSL": {
       "commandName": "WSL2",
