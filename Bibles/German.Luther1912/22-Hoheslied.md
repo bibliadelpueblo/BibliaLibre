@@ -23,7 +23,7 @@
 ^a^[**2:9** Hl 2,17; Hl 8,14]
 
 ## Dos suspiros de amor de la novia
-^15^ Fanget uns die Füchse, die kleinen Füchse, die die Weinberge verderben; denn unsere Weinberge haben Blüten gewonnen. ^16^ Mein Freund ist mein, und ich bin sein, der unter Rosen weidet. ^a^ ^17^ Bis der Tag kühl wird und die Schatten weichen, kehre um; werde wie ein Reh, mein Freund, oder wie ein junger Hirsch auf den Scheidebergen. ^b^ 
+^15^ Fanget uns die Füchse, die kleinen Füchse, die die Weinberge verderben; denn unsere Weinberge haben Blüten gewonnen. ^16^ Mein Freund ist mein, und ich bin sein, der unter Rosen weidet. ^a^ ^17^ Bis der Tag kühl wird und die Schatten weichen, kehre um; werde wie ein Reh, mein Freund, oder wie ein junger Hirsch auf den Scheidebergen.^b^ 
 ^a^[**2:16** Hl 6,3] ^b^[**2:17** Hl 8,14]
 
 # 3

@@ -50,7 +50,7 @@
 
 ^49^ Nathanael antwortete und spricht zu ihm: Rabbi, du bist Gottes Sohn, du bist der König von Israel! 
 
-^50^ Jesus antwortete und sprach zu ihm: Du glaubst, weil ich dir gesagt habe, dass ich dich gesehen habe unter dem Feigenbaum; du wirst noch Größeres denn das sehen. ^51^ Und spricht zu ihm: Wahrlich, wahrlich ich sage euch: Von nun an werdet ihr den Himmel offen sehen und die Engel Gottes hinauf und herab fahren auf des Menschen Sohn. ^a^ 
+^50^ Jesus antwortete und sprach zu ihm: Du glaubst, weil ich dir gesagt habe, dass ich dich gesehen habe unter dem Feigenbaum; du wirst noch Größeres denn das sehen. ^51^ Und spricht zu ihm: Wahrlich, wahrlich ich sage euch: Von nun an werdet ihr den Himmel offen sehen und die Engel Gottes hinauf und herab fahren auf des Menschen Sohn.^a^ 
 ^a^[**1:51** 1Mo 28,12; Mt 4,11]
 
 # 2
@@ -80,7 +80,7 @@
 ^20^ Da sprachen die Juden: Dieser Tempel ist in sechsundvierzig Jahren erbaut; und du willst ihn in drei Tagen aufrichten? ^21^ (Er aber redete von dem Tempel seines Leibes. ^a^ ^22^ Da er nun auferstanden war von den Toten, gedachten seine Jünger daran, dass er dies gesagt hatte, und glaubten der Schrift und der Rede, die Jesus gesagt hatte.) ^b^ 
 ^a^[**2:21** 1Kor 6,19] ^b^[**2:22** Hos 6,2]
 
-^23^ Als er aber zu Jerusalem war am Osterfest, glaubten viele an seinen Namen, da sie die Zeichen sahen, die er tat. ^24^ Aber Jesus vertraute sich ihnen nicht; denn er kannte sie alle ^25^ und bedurfte nicht, dass jemand Zeugnis gäbe von einem Menschen; denn er wusste wohl, was im Menschen war. ^a^ 
+^23^ Als er aber zu Jerusalem war am Osterfest, glaubten viele an seinen Namen, da sie die Zeichen sahen, die er tat. ^24^ Aber Jesus vertraute sich ihnen nicht; denn er kannte sie alle ^25^ und bedurfte nicht, dass jemand Zeugnis gäbe von einem Menschen; denn er wusste wohl, was im Menschen war.^a^ 
 ^a^[**2:25** Mk 2,8]
 
 # 3
@@ -217,7 +217,7 @@
 ^41^ Ich nehme nicht Ehre von Menschen; ^42^ aber ich kenne euch, dass ihr nicht Gottes Liebe in euch habt. ^43^ Ich bin gekommen in meines Vaters Namen, und ihr nehmet mich nicht an. So ein anderer wird in seinem eigenen Namen kommen, den werdet ihr annehmen. ^44^ Wie könnet ihr glauben, die ihr Ehre voneinander nehmet? und die Ehre, die von Gott allein ist, suchet ihr nicht. ^a^ 
 ^a^[**5:44** Joh 12,42-43; 1Thes 2,6]
 
-^45^ Ihr sollt nicht meinen, dass ich euch vor dem Vater verklagen werde; es ist einer, der euch verklagt, der Mose, auf welchen ihr hoffet. ^a^ ^46^ Wenn ihr Mose glaubtet, so glaubtet ihr auch mir; denn er hat von mir geschrieben. ^b^ ^47^ So ihr aber seinen Schriften nicht glaubet, wie werdet ihr meinen Worten glauben? ^c^ 
+^45^ Ihr sollt nicht meinen, dass ich euch vor dem Vater verklagen werde; es ist einer, der euch verklagt, der Mose, auf welchen ihr hoffet. ^a^ ^46^ Wenn ihr Mose glaubtet, so glaubtet ihr auch mir; denn er hat von mir geschrieben. ^b^ ^47^ So ihr aber seinen Schriften nicht glaubet, wie werdet ihr meinen Worten glauben?^c^ 
 ^a^[**5:45** 5Mo 31,26-27] ^b^[**5:46** 1Mo 3,15; 1Mo 49,10; 5Mo 18,15] ^c^[**5:47** Lk 16,31]
 
 # 6
@@ -415,7 +415,7 @@
 ^58^ Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Ehe denn Abraham ward, bin ich. ^a^ 
 ^a^[**8:58** Joh 1,1-2]
 
-^59^ Da hoben sie Steine auf, dass sie auf ihn würfen. Aber Jesus verbarg sich und ging zum Tempel hinaus. ^a^ 
+^59^ Da hoben sie Steine auf, dass sie auf ihn würfen. Aber Jesus verbarg sich und ging zum Tempel hinaus.^a^ 
 ^a^[**8:59** Joh 10,31]
 
 # 9
@@ -706,7 +706,7 @@
 ^a^[**14:23** Spr 8,17; Eph 3,17] ^b^[**14:24** Joh 7,16-17]
 
 ## Promesa de enseñar del Espíritu Santo
-^25^ Solches habe ich zu euch geredet, solange ich bei euch gewesen bin. ^26^ Aber der Tröster, der Heilige Geist, welchen mein Vater senden wird in meinem Namen, der wird euch alles lehren und euch erinnern alles des, das ich euch gesagt habe. ^27^ Den Frieden lasse ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht. ^a^ ^28^ Ihr habt gehört, dass ich euch gesagt habe: Ich gehe hin, und komme wieder zu euch. Hättet ihr mich lieb, so würdet ihr euch freuen, dass ich gesagt habe: „Ich gehe zum Vater“; denn der Vater ist größer als ich. ^29^ Und nun habe ich es euch gesagt habe, ehe denn es geschieht, auf dass, wenn es nun geschehen wird, ihr glaubet. ^30^ Ich werde nicht mehr viel mit euch reden; denn es kommt der Fürst dieser Welt, und hat nichts an mir. ^31^ Aber auf dass die Welt erkenne, dass ich den Vater liebe und ich also tue, wie mir der Vater geboten hat: stehet auf und lasset uns von hinnen gehen. ^b^ 
+^25^ Solches habe ich zu euch geredet, solange ich bei euch gewesen bin. ^26^ Aber der Tröster, der Heilige Geist, welchen mein Vater senden wird in meinem Namen, der wird euch alles lehren und euch erinnern alles des, das ich euch gesagt habe. ^27^ Den Frieden lasse ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht. ^a^ ^28^ Ihr habt gehört, dass ich euch gesagt habe: Ich gehe hin, und komme wieder zu euch. Hättet ihr mich lieb, so würdet ihr euch freuen, dass ich gesagt habe: „Ich gehe zum Vater“; denn der Vater ist größer als ich. ^29^ Und nun habe ich es euch gesagt habe, ehe denn es geschieht, auf dass, wenn es nun geschehen wird, ihr glaubet. ^30^ Ich werde nicht mehr viel mit euch reden; denn es kommt der Fürst dieser Welt, und hat nichts an mir. ^31^ Aber auf dass die Welt erkenne, dass ich den Vater liebe und ich also tue, wie mir der Vater geboten hat: stehet auf und lasset uns von hinnen gehen.^b^ 
 ^a^[**14:27** Joh 16,33; Phil 4,7] ^b^[**14:31** Joh 10,18]
 
 # 15
@@ -729,7 +729,7 @@
 ^18^ So euch die Welt hasst, so wisset, dass sie mich vor euch gehasst hat. ^19^ Wäret ihr von der Welt, so hätte die Welt das Ihre lieb; weil ihr aber nicht von der Welt seid, sondern ich habe euch von der Welt erwählt, darum hasst euch die Welt. ^a^ ^20^ Gedenket an mein Wort, das ich euch gesagt habe: „Der Knecht ist nicht größer als sein Herr.“ Haben sie mich verfolgt, sie werden euch auch verfolgen; haben sie mein Wort gehalten, so werden sie eures auch halten. ^b^ ^21^ Aber das alles werden sie euch tun um meines Namens willen; denn sie kennen den nicht, der mich gesandt hat. ^c^ ^22^ Wenn ich nicht gekommen wäre und hätte es ihnen gesagt, so hätten sie keine Sünde; nun aber können sie nichts vorwenden, ihre Sünde zu entschuldigen. ^d^ ^23^ Wer mich hasst, der hasst auch meinen Vater. ^e^ ^24^ Hätte ich nicht die Werke getan unter ihnen, die kein anderer getan hat, so hätten sie keine Sünde; nun aber haben sie es gesehen und hassen doch beide, mich und meinen Vater. ^25^ Doch dass erfüllet werde der Spruch, in ihrem Gesetz geschrieben: „Sie hassen mich ohne Ursache.“ 
 ^a^[**15:19** 1Jo 4,4; 1Jo 1,4-5; Joh 17,14] ^b^[**15:20** Joh 13,16; Mt 10,24-25] ^c^[**15:21** Joh 16,3] ^d^[**15:22** Joh 9,41] ^e^[**15:23** Lk 10,16]
 
-^26^ Wenn aber der Tröster kommen wird, welchen ich euch senden werde vom Vater, der Geist der Wahrheit, der vom Vater ausgeht, der wird zeugen von mir. ^27^ Und ihr werdet auch zeugen; denn ihr seid von Anfang bei mir gewesen. ^a^ 
+^26^ Wenn aber der Tröster kommen wird, welchen ich euch senden werde vom Vater, der Geist der Wahrheit, der vom Vater ausgeht, der wird zeugen von mir. ^27^ Und ihr werdet auch zeugen; denn ihr seid von Anfang bei mir gewesen.^a^ 
 ^a^[**15:27** Apg 1,8; Apg 1,21-22; Apg 5,32]
 
 # 16
@@ -760,7 +760,7 @@
 
 ^29^ Sprechen zu ihm seine Jünger: Siehe, nun redest du frei heraus und sagst kein Sprichwort. ^30^ Nun wissen wir, dass du alle Dinge weißt und bedarfst nicht, dass dich jemand frage; darum glauben wir, dass du von Gott ausgegangen bist. 
 
-^31^ Jesus antwortete ihnen: Jetzt glaubet ihr? ^32^ Siehe, es kommt die Stunde und ist schon gekommen, dass ihr zerstreut werdet, ein jeglicher in das Seine, und mich allein lasset. Aber ich bin nicht allein; denn der Vater ist bei mir. ^a^ ^33^ Solches habe ich mit euch geredet, dass ihr in mir Frieden habet. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden. ^b^ 
+^31^ Jesus antwortete ihnen: Jetzt glaubet ihr? ^32^ Siehe, es kommt die Stunde und ist schon gekommen, dass ihr zerstreut werdet, ein jeglicher in das Seine, und mich allein lasset. Aber ich bin nicht allein; denn der Vater ist bei mir. ^a^ ^33^ Solches habe ich mit euch geredet, dass ihr in mir Frieden habet. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden.^b^ 
 ^a^[**16:32** Sach 13,7; Mt 26,31] ^b^[**16:33** Joh 14,27; Röm 5,1; 1Jo 5,4]
 
 # 17
@@ -926,7 +926,7 @@
 ^29^ Spricht Jesus zu ihm: Dieweil du mich gesehen hast, Thomas, so glaubst du. Selig sind, die nicht sehen und doch glauben! ^a^ 
 ^a^[**20:29** 1Petr 1,8; Hebr 11,1]
 
-^30^ Auch viele andere Zeichen tat Jesus vor seinen Jüngern, die nicht geschrieben sind in diesem Buch. ^a^ ^31^ Diese aber sind geschrieben, dass ihr glaubet, Jesus sei Christus, der Sohn Gottes, und dass ihr durch den Glauben das Leben habet in seinem Namen. ^b^ 
+^30^ Auch viele andere Zeichen tat Jesus vor seinen Jüngern, die nicht geschrieben sind in diesem Buch. ^a^ ^31^ Diese aber sind geschrieben, dass ihr glaubet, Jesus sei Christus, der Sohn Gottes, und dass ihr durch den Glauben das Leben habet in seinem Namen.^b^ 
 ^a^[**20:30** Joh 21,24-25] ^b^[**20:31** 1Jo 5,13]
 
 # 21

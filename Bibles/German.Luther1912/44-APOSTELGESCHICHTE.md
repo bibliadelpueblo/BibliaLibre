@@ -69,7 +69,7 @@
 ^17^ Nun, liebe Brüder, ich weiß, dass ihr's durch Unwissenheit getan habt wie auch eure Obersten. ^a^ ^18^ Gott aber, was er durch den Mund aller seiner Propheten zuvor verkündigt hat, wie Christus leiden sollte, hat's also erfüllet. ^b^ 
 ^a^[**3:17** Lk 23,34] ^b^[**3:18** Lk 24,44]
 
-^19^ So tut nun Buße und bekehret euch, dass eure Sünden vertilgt werden; ^a^ ^20^ auf dass da komme die Zeit der Erquickung von dem Angesichte des Herrn, wenn er senden wird den, der euch jetzt zuvor gepredigt wird, Jesus Christus, ^21^ welcher muss den Himmel einnehmen bis auf die Zeit, da herwiedergebracht werde alles, was Gott geredet hat durch den Mund aller seiner heiligen Propheten von der Welt an. ^22^ Denn Mose hat gesagt zu den Vätern: „Einen Propheten wird euch der Herr, euer Gott, erwecken aus euren Brüdern gleich wie mich; den sollt ihr hören in allem, was er zu euch sagen wird. ^23^ Und es wird geschehen, welche Seele denselben Propheten nicht hören wird, die soll vertilgt werden aus dem Volk.“ ^24^ Und alle Propheten von Samuel an und hernach, wieviel ihrer geredet haben, die haben von diesen Tagen verkündigt. ^25^ Ihr seid der Propheten und des Bundes Kinder, welchen Gott gemacht hat mit euren Vätern, da er sprach zu Abraham: „Durch deinen Samen sollen gesegnet werden alle Völker auf Erden.“ ^26^ Euch zuvörderst hat Gott auferweckt seinen Knecht Jesus und hat ihn zu euch gesandt, euch zu segnen, dass ein jeglicher sich bekehre von seiner Bosheit. ^b^ 
+^19^ So tut nun Buße und bekehret euch, dass eure Sünden vertilgt werden; ^a^ ^20^ auf dass da komme die Zeit der Erquickung von dem Angesichte des Herrn, wenn er senden wird den, der euch jetzt zuvor gepredigt wird, Jesus Christus, ^21^ welcher muss den Himmel einnehmen bis auf die Zeit, da herwiedergebracht werde alles, was Gott geredet hat durch den Mund aller seiner heiligen Propheten von der Welt an. ^22^ Denn Mose hat gesagt zu den Vätern: „Einen Propheten wird euch der Herr, euer Gott, erwecken aus euren Brüdern gleich wie mich; den sollt ihr hören in allem, was er zu euch sagen wird. ^23^ Und es wird geschehen, welche Seele denselben Propheten nicht hören wird, die soll vertilgt werden aus dem Volk.“ ^24^ Und alle Propheten von Samuel an und hernach, wieviel ihrer geredet haben, die haben von diesen Tagen verkündigt. ^25^ Ihr seid der Propheten und des Bundes Kinder, welchen Gott gemacht hat mit euren Vätern, da er sprach zu Abraham: „Durch deinen Samen sollen gesegnet werden alle Völker auf Erden.“ ^26^ Euch zuvörderst hat Gott auferweckt seinen Knecht Jesus und hat ihn zu euch gesandt, euch zu segnen, dass ein jeglicher sich bekehre von seiner Bosheit.^b^ 
 ^a^[**3:19** Apg 2,38] ^b^[**3:26** Apg 13,46]
 
 # 4
@@ -232,7 +232,7 @@
 ^37^ Philippus aber sprach: Glaubst du von ganzem Herzen, so mag's wohl sein. Er antwortete und sprach: Ich glaube, dass Jesus Christus Gottes Sohn ist. ^a^ ^38^ Und er hieß den Wagen halten, und stiegen hinab in das Wasser beide, Philippus und der Kämmerer, und er taufte ihn. 
 ^a^[**8:37** Mt 16,16]
 
-^39^ Da sie aber heraufstiegen aus dem Wasser, rückte der Geist des Herrn Philippus hinweg, und der Kämmerer sah ihn nicht mehr; er zog aber seine Straße fröhlich. ^40^ Philippus aber ward gefunden zu Asdod und wandelte umher und predigte allen Städten das Evangelium, bis dass er kam gen Cäsarea. ^a^ 
+^39^ Da sie aber heraufstiegen aus dem Wasser, rückte der Geist des Herrn Philippus hinweg, und der Kämmerer sah ihn nicht mehr; er zog aber seine Straße fröhlich. ^40^ Philippus aber ward gefunden zu Asdod und wandelte umher und predigte allen Städten das Evangelium, bis dass er kam gen Cäsarea.^a^ 
 ^a^[**8:40** Apg 21,8-9]
 
 # 9
@@ -334,7 +334,7 @@
 ^25^ Barnabas aber zog aus gen Tarsus, Saulus wieder zu suchen; ^a^ ^26^ und da er ihn fand, führte er ihn gen Antiochien. Und sie blieben bei der Gemeinde ein ganzes Jahr und lehrten viel Volks; daher die Jünger am ersten zu Antiochien Christen genannt wurden. ^b^ 
 ^a^[**11:25** Apg 9,30] ^b^[**11:26** Gal 2,11]
 
-^27^ In diesen Tagen kamen Propheten von Jerusalem gen Antiochien. ^a^ ^28^ Und einer unter ihnen mit Namen Agabus stand auf und deutete durch den Geist eine große Teuerung, die da kommen sollte über den ganzen Kreis der Erde; welche geschah unter dem Kaiser Klaudius. ^b^ ^29^ Aber unter den Jüngern beschloss ein jeglicher, nach dem er vermochte, zu senden eine Handreichung den Brüdern, die in Judäa wohnten; ^30^ wie sie denn auch taten, und schickten's zu den Ältesten durch die Hand des Barnabas und Saulus. ^c^ 
+^27^ In diesen Tagen kamen Propheten von Jerusalem gen Antiochien. ^a^ ^28^ Und einer unter ihnen mit Namen Agabus stand auf und deutete durch den Geist eine große Teuerung, die da kommen sollte über den ganzen Kreis der Erde; welche geschah unter dem Kaiser Klaudius. ^b^ ^29^ Aber unter den Jüngern beschloss ein jeglicher, nach dem er vermochte, zu senden eine Handreichung den Brüdern, die in Judäa wohnten; ^30^ wie sie denn auch taten, und schickten's zu den Ältesten durch die Hand des Barnabas und Saulus.^c^ 
 ^a^[**11:27** Apg 13,1; Apg 15,32] ^b^[**11:28** Apg 21,10] ^c^[**11:30** Apg 12,25; 1Kor 16,1-4]
 
 # 12
@@ -358,7 +358,7 @@
 ^20^ Denn er gedachte, wider die von Tyrus und Sidon zu kriegen. Sie aber kamen einmütig zu ihm und überredeten des Königs Kämmerer, Blastus, und baten um Frieden, darum dass ihre Lande sich nähren mussten von des Königs Land. ^21^ Aber auf einen bestimmten Tag tat Herodes das königliche Kleid an, setzte sich auf den Richtstuhl und tat eine Rede zu ihnen. ^22^ Das Volk aber rief zu: Das ist Gottes Stimme und nicht eines Menschen! ^a^ ^23^ Alsbald schlug ihn der Engel des Herrn, darum dass er die Ehre nicht Gott gab; und ward gefressen von den Würmern und gab den Geist auf. ^b^ 
 ^a^[**12:22** Hes 28,2] ^b^[**12:23** Dan 5,20]
 
-^24^ Das Wort Gottes aber wuchs und mehrte sich. ^a^ ^25^ Barnabas aber und Saulus kehrten wieder von Jerusalem, nachdem sie überantwortet hatten die Handreichung, und nahmen mit sich Johannes, mit dem Zunamen Markus. ^b^ 
+^24^ Das Wort Gottes aber wuchs und mehrte sich. ^a^ ^25^ Barnabas aber und Saulus kehrten wieder von Jerusalem, nachdem sie überantwortet hatten die Handreichung, und nahmen mit sich Johannes, mit dem Zunamen Markus.^b^ 
 ^a^[**12:24** Apg 6,7; Jes 55,11] ^b^[**12:25** Apg 11,29-30; Apg 13,5]
 
 # 13
@@ -550,7 +550,7 @@
 ^23^ Und verzog etliche Zeit und reiste weiter und durchwandelte nacheinander das galatische Land und Phrygien und stärkte alle Jünger. ^24^ Es kam aber gen Ephesus ein Jude mit namen Apollos, von Geburt aus Alexandrien, ein beredter Mann und mächtig in der Schrift. ^a^ ^25^ Dieser war unterwiesen im Weg des Herrn und redete mit brünstigem Geist und lehrte mit Fleiß von dem Herrn, wusste aber allein von der Taufe des Johannes. ^b^ ^26^ Dieser fing an, frei zu predigen in der Schule. Da ihn aber Aquila und Priscilla hörten, nahmen sie ihn zu sich und legten ihm den Weg Gottes noch fleißiger aus. 
 ^a^[**18:24** 1Kor 3,5-6] ^b^[**18:25** Apg 19,3]
 
-^27^ Da er aber wollte nach Achaja reisen, schrieben die Brüder und vermahnten die Jünger, dass sie ihn aufnähmen. Und als er dahingekommen war, half er viel denen, die gläubig waren geworden durch die Gnade. ^28^ Denn er überwand die Juden beständig und erwies öffentlich durch die Schrift, dass Jesus der Christus sei. ^a^ 
+^27^ Da er aber wollte nach Achaja reisen, schrieben die Brüder und vermahnten die Jünger, dass sie ihn aufnähmen. Und als er dahingekommen war, half er viel denen, die gläubig waren geworden durch die Gnade. ^28^ Denn er überwand die Juden beständig und erwies öffentlich durch die Schrift, dass Jesus der Christus sei.^a^ 
 ^a^[**18:28** Apg 9,22; Apg 17,3]
 
 # 19
@@ -819,7 +819,7 @@
 
 ^29^ Paulus aber sprach: Ich wünschte vor Gott, es fehle nun an viel oder an wenig, dass nicht allein du, sondern alle, die mich heute hören, solche würden, wie ich bin, ausgenommen diese Bande. 
 
-^30^ Und da er das gesagt, stand der König auf und der Landpfleger und Bernice und die die mit ihnen saßen, ^31^ und wichen beiseits, redeten miteinander und sprachen: Dieser Mensch hat nichts getan, das des Todes oder der Bande wert sei. ^32^ Agrippa aber sprach zu Festus: Dieser Mensch hätte können losgegeben werden, wenn er sich nicht auf den Kaiser berufen hätte. ^a^ 
+^30^ Und da er das gesagt, stand der König auf und der Landpfleger und Bernice und die die mit ihnen saßen, ^31^ und wichen beiseits, redeten miteinander und sprachen: Dieser Mensch hat nichts getan, das des Todes oder der Bande wert sei. ^32^ Agrippa aber sprach zu Festus: Dieser Mensch hätte können losgegeben werden, wenn er sich nicht auf den Kaiser berufen hätte.^a^ 
 ^a^[**26:32** Apg 25,11]
 
 # 27

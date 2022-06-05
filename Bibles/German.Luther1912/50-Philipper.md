@@ -18,7 +18,7 @@
 ^a^[**1:19** 2Kor 1,11] ^b^[**1:20** 1Petr 4,16] ^c^[**1:21** Gal 2,20] ^d^[**1:25** Phil 2,24]
 
 ## Recordatorio para caminar con dignidad y luchar unánimemente por el mensaje de salvación bajo toda hostilidad externa
-^27^ Wandelt nur würdig dem Evangelium Christi, auf dass, ob ich komme und sehe euch oder abwesend von euch höre, ihr steht in einem Geist und einer Seele und samt uns kämpfet für den Glauben des Evangeliums ^28^ und euch in keinem Weg erschrecken lasset von den Widersachern, welches ist ein Anzeichen, ihnen der Verdammnis, euch aber der Seligkeit, und das von Gott. ^29^ Denn euch ist gegeben, um Christi willen zu tun, dass ihr nicht allein an ihn glaubet sondern auch um seinetwillen leidet; ^30^ und habet denselben Kampf, welchen ihr an mir gesehen habt und nun von mir höret. ^a^ 
+^27^ Wandelt nur würdig dem Evangelium Christi, auf dass, ob ich komme und sehe euch oder abwesend von euch höre, ihr steht in einem Geist und einer Seele und samt uns kämpfet für den Glauben des Evangeliums ^28^ und euch in keinem Weg erschrecken lasset von den Widersachern, welches ist ein Anzeichen, ihnen der Verdammnis, euch aber der Seligkeit, und das von Gott. ^29^ Denn euch ist gegeben, um Christi willen zu tun, dass ihr nicht allein an ihn glaubet sondern auch um seinetwillen leidet; ^30^ und habet denselben Kampf, welchen ihr an mir gesehen habt und nun von mir höret.^a^ 
 ^a^[**1:30** Apg 16,22; 1Thes 2,2]
 
 # 2
@@ -61,7 +61,7 @@
 ^a^[**3:13** Lk 9,62] ^b^[**3:14** 1Kor 9,24] ^c^[**3:16** Gal 6,16]
 
 ## Admoniciones para cambiar hacia el cielo
-^17^ Folget mir, liebe Brüder, und sehet auf die, die also wandeln, wie ihr uns habt zum Vorbilde. ^a^ ^18^ Denn viele wandeln, von welchen ich euch oft gesagt habe, nun aber sage ich auch mit Weinen, dass sie sind die Feinde des Kreuzes Christi, ^b^ ^19^ welcher Ende ist die Verdammnis, welchen der Bauch ihr Gott ist, und deren Ehre zu Schanden wird, die irdisch gesinnt sind. ^c^ ^20^ Unser Wandel aber ist im Himmel, von dannen wir auch warten des Heilands Jesu Christi, des Herrn, ^d^ ^21^ welcher unseren nichtigen Leib verklären wird, dass er ähnlich werde seinem verklärten Leibe nach der Wirkung, mit der er kann auch alle Dinge sich untertänig machen. ^e^ 
+^17^ Folget mir, liebe Brüder, und sehet auf die, die also wandeln, wie ihr uns habt zum Vorbilde. ^a^ ^18^ Denn viele wandeln, von welchen ich euch oft gesagt habe, nun aber sage ich auch mit Weinen, dass sie sind die Feinde des Kreuzes Christi, ^b^ ^19^ welcher Ende ist die Verdammnis, welchen der Bauch ihr Gott ist, und deren Ehre zu Schanden wird, die irdisch gesinnt sind. ^c^ ^20^ Unser Wandel aber ist im Himmel, von dannen wir auch warten des Heilands Jesu Christi, des Herrn, ^d^ ^21^ welcher unseren nichtigen Leib verklären wird, dass er ähnlich werde seinem verklärten Leibe nach der Wirkung, mit der er kann auch alle Dinge sich untertänig machen.^e^ 
 ^a^[**3:17** 1Kor 11,1] ^b^[**3:18** Gal 6,12; 1Kor 1,23] ^c^[**3:19** Röm 16,18] ^d^[**3:20** Eph 2,6; Kol 3,1; Tit 2,13; Hebr 12,22] ^e^[**3:21** 1Kor 15,49; 2Kor 5,1; 1Jo 3,2]
 
 # 4

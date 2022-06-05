@@ -71,7 +71,7 @@
 ^11^ Ich kehrte unter euch um, wie Gott Sodom und Gomorra umkehrte, dass ihr waret wie ein Brand, der aus dem Feuer gerissen wird; doch bekehrtet ihr euch nicht zu mir, spricht der HErr. ^a^ 
 ^a^[**4:11** 1Mo 19,24-25; Sach 3,2]
 
-^12^ Darum will ich dir weiter also tun, Israel. Weil ich denn dir also tun will, so schicke dich, Israel, und begegne deinem Gott. ^13^ Denn siehe, er ist's, der die Berge macht, den Wind schafft und zeigt dem Menschen, was er im Sinne hat. Er macht die Morgenröte und die Finsternis; er tritt einher auf den Höhen der Erde, – er heißt HErr, Gott Zebaoth. ^a^ 
+^12^ Darum will ich dir weiter also tun, Israel. Weil ich denn dir also tun will, so schicke dich, Israel, und begegne deinem Gott. ^13^ Denn siehe, er ist's, der die Berge macht, den Wind schafft und zeigt dem Menschen, was er im Sinne hat. Er macht die Morgenröte und die Finsternis; er tritt einher auf den Höhen der Erde, – er heißt HErr, Gott Zebaoth.^a^ 
 ^a^[**4:13** Mi 1,3]
 
 # 5

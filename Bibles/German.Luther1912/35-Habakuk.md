@@ -29,7 +29,7 @@
 
 ^15^ Weh dir, der du deinem Nächsten einschenkst und mischest deinen Grimm darunter und ihn trunken machst, dass du sein Blöße sehest! ^16^ Du hast dich gesättigt mit Schande und nicht mit Ehre. So saufe du nun auch, dass du taumelst! denn zu dir wird umgehen der Kelch in der Rechten des HErrn, und musst eitel Schande haben für deine Herrlichkeit. ^17^ Denn der Frevel, am Libanon begangen, wird dich überfallen, und die verstörten Tiere werden dich schrecken um des Menschenbluts willen und um des Frevels willen, im Lande und in der Stadt und an allen, die darin wohnen, begangen. 
 
-^18^ Was wird dann helfen das Bild, das sein Meister gebildet hat, und das falsche gegossene Bild, darauf sich verlässt sein Meister, dass er stumme Götzen machte? ^a^ ^19^ Weh dem, der zum Holz spricht: Wache auf! und zum stummen Steine: Stehe auf! Wie sollte es lehren? Siehe, es ist mit Gold und Silber überzogen und ist kein Odem in ihm. ^b^ ^20^ Aber der HErr ist in seinem heiligen Tempel. Es sei vor ihm still alle Welt! ^c^ 
+^18^ Was wird dann helfen das Bild, das sein Meister gebildet hat, und das falsche gegossene Bild, darauf sich verlässt sein Meister, dass er stumme Götzen machte? ^a^ ^19^ Weh dem, der zum Holz spricht: Wache auf! und zum stummen Steine: Stehe auf! Wie sollte es lehren? Siehe, es ist mit Gold und Silber überzogen und ist kein Odem in ihm. ^b^ ^20^ Aber der HErr ist in seinem heiligen Tempel. Es sei vor ihm still alle Welt!^c^ 
 ^a^[**2:18** Jes 44,10] ^b^[**2:19** Ps 115,4-8] ^c^[**2:20** Ps 11,4; Ps 76,9; Sach 2,17; Offb 8,1]
 
 # 3

@@ -68,7 +68,7 @@
 ^27^ Wo bleibt nun der Ruhm? Er ist ausgeschlossen. Durch welches Gesetz? Durch der Werke Gesetz? Nicht also, sondern durch des Glaubens Gesetz. ^a^ ^28^ So halten wir nun dafür, dass der Mensch gerecht werde ohne des Gesetzes Werke, allein durch den Glauben. ^b^ ^29^ Oder ist Gott allein der Juden Gott? Ist er nicht auch der Heiden Gott? Ja freilich, auch der Heiden Gott. ^c^ ^30^ Sintemal es ist ein einiger Gott, der da gerecht macht die Beschnittenen aus dem Glauben und die Unbeschnittenen durch den Glauben. ^d^ 
 ^a^[**3:27** 1Kor 1,29; 1Kor 1,31] ^b^[**3:28** Gal 2,16] ^c^[**3:29** Röm 10,12] ^d^[**3:30** Röm 4,11-12]
 
-^31^ Wie? Heben wir denn das Gesetz auf durch den Glauben? Das sei ferne! sondern wir richten das Gesetz auf. ^a^ 
+^31^ Wie? Heben wir denn das Gesetz auf durch den Glauben? Das sei ferne! sondern wir richten das Gesetz auf.^a^ 
 ^a^[**3:31** Mt 5,17]
 
 # 4
@@ -112,7 +112,7 @@
 
 ^15^ Aber nicht verhält sich's mit der Gabe wie mit der Sünde. Denn so an eines Sünde viele gestorben sind, so ist viel mehr Gottes Gnade und Gabe vielen reichlich widerfahren durch die Gnade des einen Menschen Jesus Christus. ^16^ Und nicht ist die Gabe allein über eine Sünde, wie durch des einen Sünders eine Sünde alles Verderben. Denn das Urteil ist gekommen aus einer Sünde zur Verdammnis; die Gabe aber hilft auch aus vielen Sünden zur Gerechtigkeit. ^17^ Denn so um des einen Sünde willen der Tod geherrscht hat durch den einen, viel mehr werden die, die da empfangen die Fülle der Gnade und der Gabe zur Gerechtigkeit, herrschen im Leben durch einen, Jesum Christum. 
 
-^18^ Wie nun durch eines Sünde die Verdammnis über alle Menschen gekommen ist, also ist auch durch eines Gerechtigkeit die Rechtfertigung des Lebens über alle Menschen gekommen. ^a^ ^19^ Denn gleichwie durch eines Menschen Ungehorsam viele Sünder geworden sind, also auch durch eines Gehorsam werden viele Gerechte. ^b^ ^20^ Das Gesetz aber ist neben eingekommen, auf dass die Sünde mächtiger würde. Wo aber die Sünde mächtig geworden ist, da ist doch die Gnade viel mächtiger geworden, ^c^ ^21^ auf dass, gleichwie die Sünde geherrscht hat zum Tode, also auch herrsche die Gnade durch die Gerechtigkeit zum ewigen Leben durch Jesum Christum, unseren Herrn. ^d^ 
+^18^ Wie nun durch eines Sünde die Verdammnis über alle Menschen gekommen ist, also ist auch durch eines Gerechtigkeit die Rechtfertigung des Lebens über alle Menschen gekommen. ^a^ ^19^ Denn gleichwie durch eines Menschen Ungehorsam viele Sünder geworden sind, also auch durch eines Gehorsam werden viele Gerechte. ^b^ ^20^ Das Gesetz aber ist neben eingekommen, auf dass die Sünde mächtiger würde. Wo aber die Sünde mächtig geworden ist, da ist doch die Gnade viel mächtiger geworden, ^c^ ^21^ auf dass, gleichwie die Sünde geherrscht hat zum Tode, also auch herrsche die Gnade durch die Gerechtigkeit zum ewigen Leben durch Jesum Christum, unseren Herrn.^d^ 
 ^a^[**5:18** 1Kor 15,21-22] ^b^[**5:19** Röm 3,26; Jes 53,11] ^c^[**5:20** Röm 7,8; Röm 7,13; Gal 3,19] ^d^[**5:21** Röm 6,23]
 
 # 6
@@ -212,7 +212,7 @@
 ^30^ Was wollen wir nun hier sagen? Das wollen wir sagen: Die Heiden, die nicht haben nach der Gerechtigkeit getrachtet, haben Gerechtigkeit erlangt; ich sage aber von der Gerechtigkeit, die aus dem Glauben kommt. ^a^ 
 ^a^[**9:30** Röm 10,20]
 
-^31^ Israel aber hat dem Gesetz der Gerechtigkeit nachgetrachtet, und hat das Gesetz der Gerechtigkeit nicht erreicht. ^a^ ^32^ Warum das? Darum dass sie es nicht aus dem Glauben, sondern aus den Werken des Gesetzes suchen. Denn sie haben sich gestoßen an den Stein des Anlaufens, ^33^ wie geschrieben steht: „Siehe da, ich lege in Zion einen Stein des Anlaufens und einen Fels des Ärgernisses; und wer an ihn glaubt, der soll nicht zu Schanden werden.“ ^b^ 
+^31^ Israel aber hat dem Gesetz der Gerechtigkeit nachgetrachtet, und hat das Gesetz der Gerechtigkeit nicht erreicht. ^a^ ^32^ Warum das? Darum dass sie es nicht aus dem Glauben, sondern aus den Werken des Gesetzes suchen. Denn sie haben sich gestoßen an den Stein des Anlaufens, ^33^ wie geschrieben steht: „Siehe da, ich lege in Zion einen Stein des Anlaufens und einen Fels des Ärgernisses; und wer an ihn glaubt, der soll nicht zu Schanden werden.“^b^ 
 ^a^[**9:31** Röm 10,2-3] ^b^[**9:33** Mt 21,42; Mt 21,44; 1Petr 2,8]
 
 # 10
@@ -299,7 +299,7 @@
 ^a^[**13:8** Gal 5,14; 1Tim 1,5] ^b^[**13:10** 1Kor 13,4; Mt 22,40]
 
 ## El fin cercano del mundo advierte caminar en luz y santificar la vida personal
-^11^ Und weil wir solches wissen, nämlich die Zeit, dass die Stunde da ist, aufzustehen vom Schlaf (sintemal unser Heil jetzt näher ist, denn da wir gläubig wurden; ^a^ ^12^ die Nacht ist vorgerückt, der Tag aber nahe herbeigekommen): so lasset uns ablegen die Werke der Finsternis und anlegen die Waffen des Lichtes. ^b^ ^13^ Lasset uns ehrbar wandeln als am Tage, nicht in Fressen und Saufen, nicht in Kammern und Unzucht, nicht in Hader und Neid; ^c^ ^14^ sondern ziehet an den Herrn Jesus Christus und wartet des Leibes, doch also, dass er nicht geil werde. ^d^ 
+^11^ Und weil wir solches wissen, nämlich die Zeit, dass die Stunde da ist, aufzustehen vom Schlaf (sintemal unser Heil jetzt näher ist, denn da wir gläubig wurden; ^a^ ^12^ die Nacht ist vorgerückt, der Tag aber nahe herbeigekommen): so lasset uns ablegen die Werke der Finsternis und anlegen die Waffen des Lichtes. ^b^ ^13^ Lasset uns ehrbar wandeln als am Tage, nicht in Fressen und Saufen, nicht in Kammern und Unzucht, nicht in Hader und Neid; ^c^ ^14^ sondern ziehet an den Herrn Jesus Christus und wartet des Leibes, doch also, dass er nicht geil werde.^d^ 
 ^a^[**13:11** Eph 5,14; 1Thes 5,6-8] ^b^[**13:12** 1Jo 2,8; Eph 5,11] ^c^[**13:13** Lk 21,34; Eph 5,18] ^d^[**13:14** Gal 3,27; 1Kor 9,27; Kol 2,23]
 
 # 14

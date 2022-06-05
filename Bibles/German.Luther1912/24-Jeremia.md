@@ -188,7 +188,7 @@
 ^a^[**6:26** Am 8,10]
 
 ## Jeremías como probador de metales: su trabajo inútil en su pueblo
-^27^ Ich habe dich zum Schmelzer gesetzt unter mein Volk, das so hart ist, dass du ihr Wesen erfahren und prüfen sollst. ^28^ Sie sind allzumal Abtrünnige und wandeln verräterisch, sind Erz und Eisen; alle sind sie verderbt. ^29^ Der Blasebalg ist verbrannt, das Blei verschwindet; das Schmelzen ist umsonst, denn das Böse ist nicht davon geschieden. ^30^ Darum heißen sie auch ein verworfenes Silber; denn der HErr hat sie verworfen. ^a^ 
+^27^ Ich habe dich zum Schmelzer gesetzt unter mein Volk, das so hart ist, dass du ihr Wesen erfahren und prüfen sollst. ^28^ Sie sind allzumal Abtrünnige und wandeln verräterisch, sind Erz und Eisen; alle sind sie verderbt. ^29^ Der Blasebalg ist verbrannt, das Blei verschwindet; das Schmelzen ist umsonst, denn das Böse ist nicht davon geschieden. ^30^ Darum heißen sie auch ein verworfenes Silber; denn der HErr hat sie verworfen.^a^ 
 ^a^[**6:30** Jes 1,22]
 
 # 7
@@ -218,7 +218,7 @@
 ## La aborrecible idolatría encontrará una terrible expiación
 ^29^ Schneide deine Haare ab und wirf sie von dir und wehklage auf den Höhen; denn der HErr hat dies Geschlecht, über das er zornig ist, verworfen und verstoßen. 
 
-^30^ Denn die Kinder Juda tun übel vor meinen Augen, spricht der HErr. Sie setzen ihre Gräuel in das Haus, das nach meinem Namen genannt ist, dass sie es verunreinigen, ^31^ und bauen die Altäre des Thopheth im Tal Ben-Hinnom, dass sie ihre Söhne und Töchter verbrennen, was ich nie geboten noch in den Sinn genommen habe. ^a^ ^32^ Darum siehe, es kommt die Zeit, spricht der HErr, dass man's nicht mehr heißen soll Thopheth und das Tal Ben-Hinnom, sondern Würgetal; und man wird im Thopheth müssen begraben, weil sonst kein Raum mehr sein wird. ^b^ ^33^ Und die Leichname dieses Volks sollen den Vögeln des Himmels und den Tieren auf Erden zur Speise werden, davon sie niemand scheuchen wird. ^c^ ^34^ Und ich will in den Städten Judas und auf den Gassen zu Jerusalem wegnehmen das Geschrei der Freude und Wonne und die Stimme des Bräutigams und der Braut; denn das Land soll wüst sein. ^d^ 
+^30^ Denn die Kinder Juda tun übel vor meinen Augen, spricht der HErr. Sie setzen ihre Gräuel in das Haus, das nach meinem Namen genannt ist, dass sie es verunreinigen, ^31^ und bauen die Altäre des Thopheth im Tal Ben-Hinnom, dass sie ihre Söhne und Töchter verbrennen, was ich nie geboten noch in den Sinn genommen habe. ^a^ ^32^ Darum siehe, es kommt die Zeit, spricht der HErr, dass man's nicht mehr heißen soll Thopheth und das Tal Ben-Hinnom, sondern Würgetal; und man wird im Thopheth müssen begraben, weil sonst kein Raum mehr sein wird. ^b^ ^33^ Und die Leichname dieses Volks sollen den Vögeln des Himmels und den Tieren auf Erden zur Speise werden, davon sie niemand scheuchen wird. ^c^ ^34^ Und ich will in den Städten Judas und auf den Gassen zu Jerusalem wegnehmen das Geschrei der Freude und Wonne und die Stimme des Bräutigams und der Braut; denn das Land soll wüst sein.^d^ 
 ^a^[**7:31** 2Kö 23,10; 3Mo 18,21] ^b^[**7:32** Jer 19,6] ^c^[**7:33** Jer 19,7; Jer 9,21] ^d^[**7:34** Jer 16,9]
 
 # 8
@@ -243,7 +243,7 @@
 ^18^ Was mag mich in meinem Jammer erquicken? Mein Herz in mir ist krank. ^a^ ^19^ Siehe, die Tochter meines Volks wird schreien aus fernem Lande her: „Will denn der HErr nicht mehr Gott sein zu Zion, oder soll sie keinen König mehr haben?“ Ja, warum haben sie mich so erzürnt durch ihre Bilder und fremde, unnütze Gottesdienste? ^20^ „Die Ernte ist vergangen, der Sommer ist dahin, und uns ist keine Hilfe gekommen.“ 
 ^a^[**8:18** Jer 4,19]
 
-^21^ Mich jammert herzlich, dass mein Volk so verderbt ist; ich gräme mich und gehabe mich übel. ^22^ Ist denn keine Salbe in Gilead, oder ist kein Arzt da? Warum ist denn die Tochter meines Volks nicht geheilt? ^23^ Ach, dass ich Wasser genug hätte in meinem Haupte und meine Augen Tränenquellen wären, dass ich Tag und Nacht beweinen möchte die Erschlagenen in meinem Volk! ^a^ 
+^21^ Mich jammert herzlich, dass mein Volk so verderbt ist; ich gräme mich und gehabe mich übel. ^22^ Ist denn keine Salbe in Gilead, oder ist kein Arzt da? Warum ist denn die Tochter meines Volks nicht geheilt? ^23^ Ach, dass ich Wasser genug hätte in meinem Haupte und meine Augen Tränenquellen wären, dass ich Tag und Nacht beweinen möchte die Erschlagenen in meinem Volk!^a^ 
 ^a^[**8:23** Jer 13,17; Kla 1,16]
 
 # 9
@@ -298,7 +298,7 @@
 ^22^ Siehe, es kommt ein Geschrei daher und ein großes Beben aus dem Lande von Mitternacht, dass die Städte Judas verwüstet und zur Wohnung der Schakale werden sollen. 
 
 ## Oración del pueblo por la gracia de Dios y por el castigo de los paganos rudos
-^23^ Ich weiß, HErr, dass des Menschen Tun steht nicht in seiner Gewalt, und steht in niemands Macht, wie er wandle oder seinen Gang richte. ^24^ Züchtige mich, HErr, – doch mit Maßen und nicht in deinem Grimm, auf dass du mich nicht aufreibest. ^a^ ^25^ Schütte aber deinen Zorn über die Heiden, so dich nicht kennen, und über die Geschlechter, so deinen Namen nicht anrufen. Denn sie haben Jakob aufgefressen und verschlungen; sie haben ihn weggeräumt und seine Wohnung verwüstet. ^b^ 
+^23^ Ich weiß, HErr, dass des Menschen Tun steht nicht in seiner Gewalt, und steht in niemands Macht, wie er wandle oder seinen Gang richte. ^24^ Züchtige mich, HErr, – doch mit Maßen und nicht in deinem Grimm, auf dass du mich nicht aufreibest. ^a^ ^25^ Schütte aber deinen Zorn über die Heiden, so dich nicht kennen, und über die Geschlechter, so deinen Namen nicht anrufen. Denn sie haben Jakob aufgefressen und verschlungen; sie haben ihn weggeräumt und seine Wohnung verwüstet.^b^ 
 ^a^[**10:24** Jer 46,28; Ps 6,2; Hab 1,12] ^b^[**10:25** Ps 79,6]
 
 # 11
@@ -632,7 +632,7 @@
 ^30^ Und du sollst alle diese Worte ihnen weissagen und sprich zu ihnen: Der HErr wird brüllen aus der Höhe und seinen Donner hören lassen aus seiner heiligen Wohnung; er wird brüllen über seine Hürden; er wird singen ein Lied wie die Weintreter über alle Einwohner des Landes, des Hall erschallen wird bis an der Welt Ende. ^a^ ^31^ Der HErr hat zu rechten mit den Heiden und will mit allem Fleisch Gericht halten; die Gottlosen wird er dem Schwert übergeben, spricht der HErr. 
 ^a^[**25:30** Joe 4,16; Am 1,2; Hos 11,10]
 
-^32^ So spricht der HErr Zebaoth: Siehe, es wird eine Plage kommen von einem Volk zum anderen, und ein großes Wetter wird erweckt werden aus einem fernen Lande. ^33^ Da werden die Erschlagenen des HErrn zu derselben Zeit liegen von einem Ende der Erde bis ans andere Ende; die werden nicht beklagt noch aufgehoben noch begraben werden, sondern müssen auf dem Felde liegen und zu Dung werden. ^a^ ^34^ Heulet nun, ihr Hirten, und schreiet, wälzet euch in der Asche, ihr Gewaltigen über die Herde; denn die Zeit ist hier, dass ihr geschlachtet und zerstreut werdet und zerfallen müsst wie ein köstliches Gefäß. ^b^ ^35^ Und die Hirten werden nicht fliehen können, und die Gewaltigen über die Herde werden nicht entrinnen können. ^36^ Da werden die Hirten schreien, und die Gewaltigen über die Herde werden heulen, dass der HErr ihre Weide so verwüstet hat ^37^ und ihre Auen, die so wohl standen, verderbt sind vor dem grimmigen Zorn des HErrn. ^38^ Er hat seine Hütte verlassen wie ein junger Löwe, und ist also ihr Land zerstört vor dem Zorn des Tyrannen und vor seinem grimmigen Zorn. ^c^ 
+^32^ So spricht der HErr Zebaoth: Siehe, es wird eine Plage kommen von einem Volk zum anderen, und ein großes Wetter wird erweckt werden aus einem fernen Lande. ^33^ Da werden die Erschlagenen des HErrn zu derselben Zeit liegen von einem Ende der Erde bis ans andere Ende; die werden nicht beklagt noch aufgehoben noch begraben werden, sondern müssen auf dem Felde liegen und zu Dung werden. ^a^ ^34^ Heulet nun, ihr Hirten, und schreiet, wälzet euch in der Asche, ihr Gewaltigen über die Herde; denn die Zeit ist hier, dass ihr geschlachtet und zerstreut werdet und zerfallen müsst wie ein köstliches Gefäß. ^b^ ^35^ Und die Hirten werden nicht fliehen können, und die Gewaltigen über die Herde werden nicht entrinnen können. ^36^ Da werden die Hirten schreien, und die Gewaltigen über die Herde werden heulen, dass der HErr ihre Weide so verwüstet hat ^37^ und ihre Auen, die so wohl standen, verderbt sind vor dem grimmigen Zorn des HErrn. ^38^ Er hat seine Hütte verlassen wie ein junger Löwe, und ist also ihr Land zerstört vor dem Zorn des Tyrannen und vor seinem grimmigen Zorn.^c^ 
 ^a^[**25:33** Jer 7,33] ^b^[**25:34** Jer 23,1] ^c^[**25:38** Jer 4,7]
 
 # 26
@@ -656,7 +656,7 @@
 ## El siniestro destino del profeta Urías
 ^20^ So war auch einer, der im Namen des HErrn weissagte, Uria, der Sohn Semajas, von Kirjath-Jearim. Derselbe weissagte wider diese Stadt und wider dieses Land gleichwie Jeremia. ^21^ Da aber der König Jojakim und alle seine Gewaltigen und die Fürsten seine Worte hörten, wollte ihn der König töten lassen. Und Uria erfuhr das, fürchtete sich und floh und zog nach Ägypten. ^22^ Aber der König Jojakim schickte Leute nach Ägypten, Elnathan, den Sohn Achbors, und andere mit ihm; ^23^ die führten ihn aus Ägypten und brachten ihn zum König Jojakim; der ließ ihn mit dem Schwert töten und ließ seinen Leichnam unter dem gemeinen Pöbel begraben. 
 
-^24^ Aber mit Jeremia war die Hand Ahikams, des Sohnes Saphans, dass er nicht dem Volk in die Hände kam, dass sie ihn töteten. ^a^ 
+^24^ Aber mit Jeremia war die Hand Ahikams, des Sohnes Saphans, dass er nicht dem Volk in die Hände kam, dass sie ihn töteten.^a^ 
 ^a^[**26:24** 2Kö 22,12]
 
 # 27
@@ -671,7 +671,7 @@
 ^a^[**27:14** Jer 27,9]
 
 ## La advertencia de Jeremías a los sacerdotes y al pueblo
-^16^ Und zu den Priestern und zu allem diesem Volk redete ich und sprach: So spricht der HErr: Gehorchet nicht den Worten eurer Propheten, die euch weissagen und sprechen: „Siehe, die Gefäße aus dem Hause des HErrn werden nun bald von Babel wieder herkommen“! Denn sie weissagen euch falsch. ^17^ Gehorchet ihnen nicht, sondern dienet dem König zu Babel, so werdet ihr lebendig bleiben. Warum soll doch diese Stadt zur Wüste werden? ^18^ Sind sie aber Propheten und haben sie des HErrn Wort, so lasst sie vom HErrn Zebaoth erbitten, dass die übrigen Gefäße im Hause des HErrn und im Hause des Königs in Juda und zu Jerusalem nicht auch gen Babel geführt werden. ^19^ Denn also spricht der HErr Zebaoth von den Säulen und vom Meer und von dem Gestühl und von den Gefäßen, die noch übrig sind in dieser Stadt, ^a^ ^20^ welche Nebukadnezar, der König zu Babel, nicht wegnahm, da er Jechonja, den Sohn Jojakims, den König Judas, von Jerusalem wegführte gen Babel samt allen Fürsten in Juda und Jerusalem, ^b^ ^21^ – denn so spricht der HErr Zebaoth, der Gott Israels, von den Gefäßen, die noch übrig sind im Hause des HErrn und im Hause des Königs in Juda und zu Jerusalem: ^22^ Sie sollen gen Babel geführt werden und daselbst bleiben bis auf den Tag, da ich sie heimsuche, spricht der HErr, und ich sie wiederum herauf an diesen Ort bringen lasse. ^c^ 
+^16^ Und zu den Priestern und zu allem diesem Volk redete ich und sprach: So spricht der HErr: Gehorchet nicht den Worten eurer Propheten, die euch weissagen und sprechen: „Siehe, die Gefäße aus dem Hause des HErrn werden nun bald von Babel wieder herkommen“! Denn sie weissagen euch falsch. ^17^ Gehorchet ihnen nicht, sondern dienet dem König zu Babel, so werdet ihr lebendig bleiben. Warum soll doch diese Stadt zur Wüste werden? ^18^ Sind sie aber Propheten und haben sie des HErrn Wort, so lasst sie vom HErrn Zebaoth erbitten, dass die übrigen Gefäße im Hause des HErrn und im Hause des Königs in Juda und zu Jerusalem nicht auch gen Babel geführt werden. ^19^ Denn also spricht der HErr Zebaoth von den Säulen und vom Meer und von dem Gestühl und von den Gefäßen, die noch übrig sind in dieser Stadt, ^a^ ^20^ welche Nebukadnezar, der König zu Babel, nicht wegnahm, da er Jechonja, den Sohn Jojakims, den König Judas, von Jerusalem wegführte gen Babel samt allen Fürsten in Juda und Jerusalem, ^b^ ^21^ – denn so spricht der HErr Zebaoth, der Gott Israels, von den Gefäßen, die noch übrig sind im Hause des HErrn und im Hause des Königs in Juda und zu Jerusalem: ^22^ Sie sollen gen Babel geführt werden und daselbst bleiben bis auf den Tag, da ich sie heimsuche, spricht der HErr, und ich sie wiederum herauf an diesen Ort bringen lasse.^c^ 
 ^a^[**27:19** Jer 52,17] ^b^[**27:20** 2Kö 24,14-15] ^c^[**27:22** 2Chr 36,22; Esr 1,7-11]
 
 # 28
@@ -842,7 +842,7 @@
 ^19^ Und des HErrn Wort geschah zu Jeremia und sprach: ^20^ So spricht der HErr: Wenn mein Bund aufhören wird mit Tag und Nacht, dass nicht Tag und Nacht sei zu seiner Zeit, ^21^ so wird auch mein Bund aufhören mit meinem Knechte David, dass er nicht einen Sohn habe zum König auf seinem Stuhl, und mit den Leviten und Priestern, meinen Dienern. ^22^ Wie man des Himmels Heer nicht zählen noch den Sand am Meer nicht messen kann, also will ich mehren den Samen Davids, meines Knechtes, und die Leviten, die mir dienen. ^a^ 
 ^a^[**33:22** 1Mo 15,5; 1Mo 22,17]
 
-^23^ Und des HErrn Wort geschah zu Jeremia und sprach: ^24^ Hast du nicht gesehen, was dieses Volk redet und spricht: „Hat doch der HErr auch die zwei Geschlechter verworfen, welche er auserwählt hatte“; und lästern mein Volk, als sollten sie nicht mehr mein Volk sein. ^25^ So spricht der HErr: Halte ich meinen Bund nicht mit Tag und Nacht noch die Ordnungen des Himmels und der Erde, ^26^ so will ich auch verwerfen den Samen Jakobs und Davids, meines Knechtes, dass ich nicht aus ihrem Samen nehme, die da herrschen über den Samen Abrahams, Isaaks und Jakobs. Denn ich will ihr Gefängnis wenden und mich über sie erbarmen. ^a^ 
+^23^ Und des HErrn Wort geschah zu Jeremia und sprach: ^24^ Hast du nicht gesehen, was dieses Volk redet und spricht: „Hat doch der HErr auch die zwei Geschlechter verworfen, welche er auserwählt hatte“; und lästern mein Volk, als sollten sie nicht mehr mein Volk sein. ^25^ So spricht der HErr: Halte ich meinen Bund nicht mit Tag und Nacht noch die Ordnungen des Himmels und der Erde, ^26^ so will ich auch verwerfen den Samen Jakobs und Davids, meines Knechtes, dass ich nicht aus ihrem Samen nehme, die da herrschen über den Samen Abrahams, Isaaks und Jakobs. Denn ich will ihr Gefängnis wenden und mich über sie erbarmen.^a^ 
 ^a^[**33:26** Jer 32,44]
 
 # 34
@@ -1004,7 +1004,7 @@
 ^a^[**39:14** Jer 38,28; Jer 40,5-6]
 
 ## Hechizo de salvación para el etíope Ebedmelech
-^15^ Es war auch des HErrn Wort geschehen zu Jeremia, als er noch im Vorhof des Gefängnisses gefangen lag, und hatte gesprochen: ^16^ Gehe hin und sage Ebed-Melech, dem Mohren: So spricht der HErr Zebaoth, der Gott Israels: Siehe, ich will meine Worte kommen lassen über diese Stadt zum Unglück und zu keinem Guten, und du sollst es sehen zur selben Zeit. ^17^ Aber dich will ich erretten zur selben Zeit, spricht der HErr, und sollst den Leuten nicht zuteil werden, vor welchen du dich fürchtest. ^18^ Denn ich will dir davonhelfen, dass du nicht durchs Schwert fällst, sondern sollst dein Leben wie eine Beute davonbringen, darum dass du mir vertraut hast, spricht der HErr. ^a^ 
+^15^ Es war auch des HErrn Wort geschehen zu Jeremia, als er noch im Vorhof des Gefängnisses gefangen lag, und hatte gesprochen: ^16^ Gehe hin und sage Ebed-Melech, dem Mohren: So spricht der HErr Zebaoth, der Gott Israels: Siehe, ich will meine Worte kommen lassen über diese Stadt zum Unglück und zu keinem Guten, und du sollst es sehen zur selben Zeit. ^17^ Aber dich will ich erretten zur selben Zeit, spricht der HErr, und sollst den Leuten nicht zuteil werden, vor welchen du dich fürchtest. ^18^ Denn ich will dir davonhelfen, dass du nicht durchs Schwert fällst, sondern sollst dein Leben wie eine Beute davonbringen, darum dass du mir vertraut hast, spricht der HErr.^a^ 
 ^a^[**39:18** Hi 5,20]
 
 # 40
@@ -1098,14 +1098,14 @@
 ## La última profecía de la desgracia de Jeremías sobre la comunidad egipcia
 ^26^ So höret nun des HErrn Wort, ihr alle aus Juda, die ihr in Ägyptenland wohnet: Siehe, ich schwöre bei meinem großen Namen, spricht der HErr, dass mein Name nicht mehr soll durch irgendeines Menschen Mund aus Juda genannt werden in ganz Ägyptenland, der da sagt: „So wahr der Herr HErr lebt!“ ^27^ Siehe, ich will über sie wachen zum Unglück und zu keinem Guten, dass, wer aus Juda in Ägyptenland ist, soll durch Schwert und Hunger umkommen, bis es ein Ende mit ihnen habe. ^28^ Welche aber dem Schwert entrinnen, die werden aus Ägyptenland ins Land Juda wiederkommen müssen als ein geringer Haufe. Und also werden dann alle die Übrigen aus Juda, die nach Ägyptenland gezogen waren, dass sie daselbst herbergten, erfahren, wessen Wort wahr geworden sei, meines oder ihres. 
 
-^29^ Und zum Zeichen, spricht der HErr, dass ich euch an diesem Ort heimsuchen will, damit ihr wisset, dass mein Wort soll wahr werden über euch zum Unglück, ^30^ so spricht der HErr also: Siehe, ich will Pharao Hophra, den König in Ägypten, übergeben in die Hände seiner Feinde und derer, die ihm nach dem Leben stehen, gleichwie ich Zedekia, den König Judas, übergeben habe in die Hand Nebukadnezars, des Königs zu Babel, seines Feindes, und der ihm nach seinem Leben stand. ^a^ 
+^29^ Und zum Zeichen, spricht der HErr, dass ich euch an diesem Ort heimsuchen will, damit ihr wisset, dass mein Wort soll wahr werden über euch zum Unglück, ^30^ so spricht der HErr also: Siehe, ich will Pharao Hophra, den König in Ägypten, übergeben in die Hände seiner Feinde und derer, die ihm nach dem Leben stehen, gleichwie ich Zedekia, den König Judas, übergeben habe in die Hand Nebukadnezars, des Königs zu Babel, seines Feindes, und der ihm nach seinem Leben stand.^a^ 
 ^a^[**44:30** 2Chr 36,13; 2Chr 36,20]
 
 # 45
 ## Palabras de advertencia y consuelo de Jeremías a Baruc
 ^1^ Dies ist das Wort, das der Prophet Jeremia redete zu Baruch, dem Sohn Nerias, da er diese Reden in ein Buch schrieb aus dem Munde Jeremias im vierten Jahr Jojakims, des Sohnes Josias, des Königs in Juda, und sprach: ^2^ So spricht der HErr Zebaoth, der Gott Israels, von dir, Baruch: ^3^ Du sprichst: Weh mir, wie hat mir der HErr Jammer zu meinem Schmerz hinzugefügt! Ich seufze mich müde und finde keine Ruhe. 
 
-^4^ Sage ihm also: So spricht der HErr: Siehe, was ich gebaut habe, das breche ich ab; und was ich gepflanzt habe, das reute ich aus, nämlich dieses mein ganzes Land. ^5^ Und du begehrst dir große Dinge? Begehre es nicht! Denn siehe, ich will Unglück kommen lassen über alles Fleisch, spricht der HErr; aber deine Seele will ich dir zur Beute geben, an welchen Ort du ziehest. ^a^ 
+^4^ Sage ihm also: So spricht der HErr: Siehe, was ich gebaut habe, das breche ich ab; und was ich gepflanzt habe, das reute ich aus, nämlich dieses mein ganzes Land. ^5^ Und du begehrst dir große Dinge? Begehre es nicht! Denn siehe, ich will Unglück kommen lassen über alles Fleisch, spricht der HErr; aber deine Seele will ich dir zur Beute geben, an welchen Ort du ziehest.^a^ 
 ^a^[**45:5** Jer 39,18; Jer 43,6]
 
 # 46
@@ -1123,7 +1123,7 @@
 ^a^[**46:25** Jer 43,12]
 
 ## Palabra de consuelo para Israel
-^27^ Aber du, mein Knecht Jakob, fürchte dich nicht, und du, Israel, verzage nicht! Denn siehe, ich will dir aus fernen Landen und deinem Samen aus dem Lande seines Gefängnisses helfen, dass Jakob soll wiederkommen und in Frieden sein und die Fülle haben, und niemand soll ihn schrecken. ^28^ Darum fürchte dich nicht, du, Jakob, mein Knecht, spricht der HErr; denn ich bin bei dir. Mit allen Heiden, dahin ich dich verstoßen habe, will ich ein Ende machen; aber mit dir will ich nicht ein Ende machen, sondern ich will dich züchtigen mit Maßen, auf dass ich dich nicht ungestraft lasse. ^a^ 
+^27^ Aber du, mein Knecht Jakob, fürchte dich nicht, und du, Israel, verzage nicht! Denn siehe, ich will dir aus fernen Landen und deinem Samen aus dem Lande seines Gefängnisses helfen, dass Jakob soll wiederkommen und in Frieden sein und die Fülle haben, und niemand soll ihn schrecken. ^28^ Darum fürchte dich nicht, du, Jakob, mein Knecht, spricht der HErr; denn ich bin bei dir. Mit allen Heiden, dahin ich dich verstoßen habe, will ich ein Ende machen; aber mit dir will ich nicht ein Ende machen, sondern ich will dich züchtigen mit Maßen, auf dass ich dich nicht ungestraft lasse.^a^ 
 ^a^[**46:28** Jer 30,11]
 
 # 47
@@ -1181,7 +1181,7 @@
 ^a^[**49:30** Jer 49,8] ^b^[**49:33** Jer 9,10]
 
 ## Diciendo sobre Elam
-^34^ Dies ist das Wort des HErrn, welches geschah zu Jeremia, dem Propheten, wider Elam im Anfang des Königreichs Zedekias, des Königs in Juda, und sprach: ^a^ ^35^ So spricht der HErr Zebaoth: Siehe, ich will den Bogen Elams zerbrechen, ihre vornehmste Gewalt, ^36^ und will die vier Winde aus den vier Enden des Himmels über sie kommen lassen und will sie in alle diese Winde zerstreuen, dass kein Volk sein soll, dahin nicht Vertriebene aus Elam kommen werden. ^37^ Und ich will Elam verzagt machen vor ihren Feinden und denen, die ihnen nach ihrem Leben stehen, und Unglück über sie kommen lassen mit meinem grimmigen Zorn, spricht der HErr, und will das Schwert hinter ihnen her schicken, bis ich sie aufreibe. ^38^ Meinen Stuhl will ich in Elam aufrichten und will beide, den König und die Fürsten, daselbst umbringen, spricht der HErr. ^39^ Aber in der letzten Zeit will ich das Gefängnis Elams wieder wenden, spricht der HErr. ^b^ 
+^34^ Dies ist das Wort des HErrn, welches geschah zu Jeremia, dem Propheten, wider Elam im Anfang des Königreichs Zedekias, des Königs in Juda, und sprach: ^a^ ^35^ So spricht der HErr Zebaoth: Siehe, ich will den Bogen Elams zerbrechen, ihre vornehmste Gewalt, ^36^ und will die vier Winde aus den vier Enden des Himmels über sie kommen lassen und will sie in alle diese Winde zerstreuen, dass kein Volk sein soll, dahin nicht Vertriebene aus Elam kommen werden. ^37^ Und ich will Elam verzagt machen vor ihren Feinden und denen, die ihnen nach ihrem Leben stehen, und Unglück über sie kommen lassen mit meinem grimmigen Zorn, spricht der HErr, und will das Schwert hinter ihnen her schicken, bis ich sie aufreibe. ^38^ Meinen Stuhl will ich in Elam aufrichten und will beide, den König und die Fürsten, daselbst umbringen, spricht der HErr. ^39^ Aber in der letzten Zeit will ich das Gefängnis Elams wieder wenden, spricht der HErr.^b^ 
 ^a^[**49:34** Jer 25,25] ^b^[**49:39** Jer 49,6]
 
 # 50

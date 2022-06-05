@@ -1,0 +1,19 @@
+@font-face {
+    font-family: DayRoman;
+    font-style: normal;
+    font-weight: normal;
+    src:url("../fonts/DayRoman.ttf");
+}
+@font-face {
+    font-family: DayRoman;
+    font-style: italic;
+    font-weight: normal;
+    src:url("../fonts/DayRomanItalic.ttf");
+}
+@font-face {
+    font-family: DayRoman;
+    font-style: normal;
+    font-weight: bold;
+    src:url("../fonts/DayRomanBold.ttf");
+}
+body { font-family: "DayRoman"; }
