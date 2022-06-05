@@ -34,7 +34,7 @@
 ^13^ Und abermals: „Ich will mein Vertrauen auf ihn setzen.“ Und abermals: „Siehe da, ich und die Kinder, welche mir Gott gegeben hat.“ 
 
 ## Las beneficiosas consecuencias de la humillación
-^14^ Nachdem nun die Kinder Fleisch und Blut haben, ist er dessen gleichermaßen teilhaftig geworden, auf dass er durch den Tod die Macht nehme dem, der des Todes Gewalt hatte, das ist dem Teufel, ^a^ ^15^ und erlösete die, die durch Furcht des Todes im ganzen Leben Knechte sein mussten. ^16^ Denn er nimmt sich ja nicht der Engel an, sondern des Samens Abrahams nimmt er sich an. ^17^ Daher musste er in allen Dingen seinen Brüdern gleich werden, auf dass er barmherzig würde und ein treuer Hoherpriester vor Gott, zu versöhnen die Sünden des Volks. ^18^ Denn worin er gelitten hat und versucht ist, kann er helfen denen, die versucht werden. ^b^ 
+^14^ Nachdem nun die Kinder Fleisch und Blut haben, ist er dessen gleichermaßen teilhaftig geworden, auf dass er durch den Tod die Macht nehme dem, der des Todes Gewalt hatte, das ist dem Teufel, ^a^ ^15^ und erlösete die, die durch Furcht des Todes im ganzen Leben Knechte sein mussten. ^16^ Denn er nimmt sich ja nicht der Engel an, sondern des Samens Abrahams nimmt er sich an. ^17^ Daher musste er in allen Dingen seinen Brüdern gleich werden, auf dass er barmherzig würde und ein treuer Hoherpriester vor Gott, zu versöhnen die Sünden des Volks. ^18^ Denn worin er gelitten hat und versucht ist, kann er helfen denen, die versucht werden.^b^ 
 ^a^[**2:14** 2Tim 1,10; 1Jo 3,8] ^b^[**2:18** Hebr 4,15]
 
 # 3
@@ -69,7 +69,7 @@
 ^a^[**4:11** Hebr 3,16-19] ^b^[**4:12** Jer 23,29; Offb 2,12]
 
 ## Jesús conoce las debilidades humanas por experiencia personal
-^14^ Dieweil wir denn einen großen Hohenpriester haben, Jesum, den Sohn Gottes, der gen Himmel gefahren ist, so lasset uns halten an dem Bekenntnis. ^15^ Denn wir haben nicht einen Hohenpriester, der nicht könnte Mitleiden haben mit unseren Schwachheiten, sondern der versucht ist allenthalben gleichwie wir, doch ohne Sünde. ^a^ ^16^ Darum lasset uns hinzutreten mit Freudigkeit zu dem Gnadenstuhl, auf dass wir Barmherzigkeit empfangen und Gnade finden auf die Zeit, wenn uns Hilfe not sein wird. ^b^ 
+^14^ Dieweil wir denn einen großen Hohenpriester haben, Jesum, den Sohn Gottes, der gen Himmel gefahren ist, so lasset uns halten an dem Bekenntnis. ^15^ Denn wir haben nicht einen Hohenpriester, der nicht könnte Mitleiden haben mit unseren Schwachheiten, sondern der versucht ist allenthalben gleichwie wir, doch ohne Sünde. ^a^ ^16^ Darum lasset uns hinzutreten mit Freudigkeit zu dem Gnadenstuhl, auf dass wir Barmherzigkeit empfangen und Gnade finden auf die Zeit, wenn uns Hilfe not sein wird.^b^ 
 ^a^[**4:15** Hebr 2,18; Joh 8,46] ^b^[**4:16** Röm 3,25; Röm 5,2]
 
 # 5
@@ -97,7 +97,7 @@
 ^a^[**6:11** Hebr 3,14; Phil 1,6]
 
 ## El fundamento firme de la esperanza en la gloria que seguramente se espera radica en las confiables promesas de Dios
-^13^ Denn als Gott Abraham verhieß, da er bei keinem Größeren zu schwören hatte, schwur er bei sich selbst ^14^ und sprach: „Wahrlich, ich will dich segnen und vermehren.“ ^15^ Und also trug er Geduld und erlangte die Verheißung. ^16^ Die Menschen schwören ja bei einem Größeren, denn sie sind; und der Eid macht ein Ende alles Haders, dabei es fest bleibt unter ihnen. ^17^ So hat Gott, da er wollte den Erben der Verheißung überschwenglich beweisen, dass sein Rat nicht wankte, einen Eid dazu getan, ^18^ auf dass wir durch zwei Stücke, die nicht wanken (denn es ist unmöglich, dass Gott lüge), einen starken Trost hätten, die wir Zuflucht haben und halten an der angebotenen Hoffnung, ^19^ welche wir haben als einen sicheren und festen Anker unserer Seele, der auch hineingeht in das Inwendige des Vorhangs, ^a^ ^20^ dahin der Vorläufer für uns eingegangen, Jesus, ein Hoherpriester geworden in Ewigkeit nach der Ordnung Melchisedeks. ^b^ 
+^13^ Denn als Gott Abraham verhieß, da er bei keinem Größeren zu schwören hatte, schwur er bei sich selbst ^14^ und sprach: „Wahrlich, ich will dich segnen und vermehren.“ ^15^ Und also trug er Geduld und erlangte die Verheißung. ^16^ Die Menschen schwören ja bei einem Größeren, denn sie sind; und der Eid macht ein Ende alles Haders, dabei es fest bleibt unter ihnen. ^17^ So hat Gott, da er wollte den Erben der Verheißung überschwenglich beweisen, dass sein Rat nicht wankte, einen Eid dazu getan, ^18^ auf dass wir durch zwei Stücke, die nicht wanken (denn es ist unmöglich, dass Gott lüge), einen starken Trost hätten, die wir Zuflucht haben und halten an der angebotenen Hoffnung, ^19^ welche wir haben als einen sicheren und festen Anker unserer Seele, der auch hineingeht in das Inwendige des Vorhangs, ^a^ ^20^ dahin der Vorläufer für uns eingegangen, Jesus, ein Hoherpriester geworden in Ewigkeit nach der Ordnung Melchisedeks.^b^ 
 ^a^[**6:19** 3Mo 16,2; 3Mo 16,12] ^b^[**6:20** Hebr 5,6]
 
 # 7
@@ -153,7 +153,7 @@
 ^a^[**9:21** 3Mo 8,15; 3Mo 8,19] ^b^[**9:22** 3Mo 17,11]
 
 ## El autosacrificio único y sangriento de Cristo y su tremendo significado de salvación para los creyentes
-^23^ So mussten nun der himmlischen Dinge Vorbilder mit solchem gereinigt werden; aber sie selbst, die himmlischen, müssen bessere Opfer haben, denn jene waren. ^24^ Denn Christus ist nicht eingegangen in das Heilige, das mit Händen gemacht ist (welches ist ein Gegenbild des wahrhaftigen), sondern in den Himmel selbst, nun zu erscheinen vor dem Angesicht Gottes für uns; ^25^ auch nicht, dass er sich oftmals opfere, gleichwie der Hohepriester geht alle Jahre in das Heilige mit fremdem Blut; ^26^ sonst hätte er oft müssen leiden von Anfang der Welt her. Nun aber, am Ende der Welt, ist er einmal erschienen, durch sein eigen Opfer die Sünde aufzuheben. ^a^ ^27^ Und wie den Menschen gesetzt ist, einmal zu sterben, darnach aber das Gericht: ^b^ ^28^ also ist auch Christus einmal geopfert, wegzunehmen vieler Sünden; zum andernmal wird er ohne Sünde erscheinen denen, die auf ihn warten, zur Seligkeit. ^c^ 
+^23^ So mussten nun der himmlischen Dinge Vorbilder mit solchem gereinigt werden; aber sie selbst, die himmlischen, müssen bessere Opfer haben, denn jene waren. ^24^ Denn Christus ist nicht eingegangen in das Heilige, das mit Händen gemacht ist (welches ist ein Gegenbild des wahrhaftigen), sondern in den Himmel selbst, nun zu erscheinen vor dem Angesicht Gottes für uns; ^25^ auch nicht, dass er sich oftmals opfere, gleichwie der Hohepriester geht alle Jahre in das Heilige mit fremdem Blut; ^26^ sonst hätte er oft müssen leiden von Anfang der Welt her. Nun aber, am Ende der Welt, ist er einmal erschienen, durch sein eigen Opfer die Sünde aufzuheben. ^a^ ^27^ Und wie den Menschen gesetzt ist, einmal zu sterben, darnach aber das Gericht: ^b^ ^28^ also ist auch Christus einmal geopfert, wegzunehmen vieler Sünden; zum andernmal wird er ohne Sünde erscheinen denen, die auf ihn warten, zur Seligkeit.^c^ 
 ^a^[**9:26** Hebr 1,3; 1Kor 10,11; Gal 4,4] ^b^[**9:27** 1Mo 3,19] ^c^[**9:28** Hebr 10,10; Hebr 10,12; Hebr 10,14]
 
 # 10
@@ -193,7 +193,7 @@
 ^32^ Gedenket aber an die vorigen Tage, in welchen ihr, nachdem ihr erleuchtet waret, erduldet habt einen großen Kampf des Leidens ^a^ ^33^ und zum Teil selbst durch Schmach und Trübsal ein Schauspiel wurdet, zum Teil Gemeinschaft hattet mit denen, welchen es also geht. ^b^ ^34^ Denn ihr habt mit den Gebundenen Mitleiden gehabt und den Raub eurer Güter mit Freuden erduldet, als die ihr wisset, dass ihr bei euch selbst eine bessere und bleibende Habe im Himmel habt. ^c^ ^35^ Werfet euer Vertrauen nicht weg, welches eine große Belohnung hat. ^36^ Geduld aber ist euch not, auf dass ihr den Willen Gottes tut und die Verheißung empfanget. ^d^ ^37^ Denn „noch über eine kleine Weile, so wird kommen, der da kommen soll, und nicht verziehen. ^38^ Der Gerechte aber wird des Glaubens leben. Wer aber weichen wird, an dem wird meine Seele keinen Gefallen haben.“ 
 ^a^[**10:32** Hebr 6,4] ^b^[**10:33** 1Kor 4,9] ^c^[**10:34** Mt 6,20; Mt 19,21; Mt 19,29] ^d^[**10:36** Lk 21,19; Jak 5,7]
 
-^39^ Wir aber sind nicht von denen, die da weichen und verdammt werden, sondern von denen, die da glauben und die Seele erretten. ^a^ 
+^39^ Wir aber sind nicht von denen, die da weichen und verdammt werden, sondern von denen, die da glauben und die Seele erretten.^a^ 
 ^a^[**10:39** 1Thes 3,3]
 
 # 11

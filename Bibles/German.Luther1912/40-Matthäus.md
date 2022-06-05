@@ -40,7 +40,7 @@
 ## El regreso de José de Egipto y su asentamiento en Nazaret
 ^19^ Da aber Herodes gestorben war, siehe, da erschien der Engel des Herrn dem Joseph im Traum in Ägyptenland ^20^ und sprach: Stehe auf und nimm das Kindlein und seine Mutter zu dir und zieh hin in das Land Israel; sie sind gestorben, die dem Kinde nach dem Leben standen. 
 
-^21^ Und er stand auf und nahm das Kindlein und seine Mutter zu sich und kam in das Land Israel. ^22^ Da er aber hörte, dass Archelaus im jüdischen Lande König war anstatt seines Vaters Herodes, fürchtete er sich, dahin zu kommen. Und im Traum empfing er Befehl von Gott und zog in die Örter des galiläischen Landes. ^23^ und kam und wohnte in der Stadt die da heißt Nazareth; auf dass erfüllet würde, was da gesagt ist durch die Propheten: Er soll Nazarenus heißen. ^a^ 
+^21^ Und er stand auf und nahm das Kindlein und seine Mutter zu sich und kam in das Land Israel. ^22^ Da er aber hörte, dass Archelaus im jüdischen Lande König war anstatt seines Vaters Herodes, fürchtete er sich, dahin zu kommen. Und im Traum empfing er Befehl von Gott und zog in die Örter des galiläischen Landes. ^23^ und kam und wohnte in der Stadt die da heißt Nazareth; auf dass erfüllet würde, was da gesagt ist durch die Propheten: Er soll Nazarenus heißen.^a^ 
 ^a^[**2:23** Lk 2,39; Joh 1,46]
 
 # 3
@@ -63,7 +63,7 @@
 
 ^15^ Jesus aber antwortete und sprach zu ihm: Lass es jetzt also sein! also gebührt es uns, alle Gerechtigkeit zu erfüllen. Da ließ er's ihm zu. 
 
-^16^ Und da Jesus getauft war, stieg er alsbald herauf aus dem Wasser; und siehe, da tat sich der Himmel auf über ihm. Und er sah den Geist Gottes gleich als eine Taube herabfahren und über ihn kommen. ^17^ Und siehe, eine Stimme vom Himmel herab sprach: Dies ist mein lieber Sohn, an welchem ich Wohlgefallen habe. ^a^ 
+^16^ Und da Jesus getauft war, stieg er alsbald herauf aus dem Wasser; und siehe, da tat sich der Himmel auf über ihm. Und er sah den Geist Gottes gleich als eine Taube herabfahren und über ihn kommen. ^17^ Und siehe, eine Stimme vom Himmel herab sprach: Dies ist mein lieber Sohn, an welchem ich Wohlgefallen habe.^a^ 
 ^a^[**3:17** Mt 17,5; Jes 42,1]
 
 # 4
@@ -98,7 +98,7 @@
 ^a^[**4:20** Mt 19,27]
 
 ## Descripción de los efectos de enseñanza y curación de Jesús y su éxito
-^23^ Und Jesus ging umher im ganzen galiläischen Lande, lehrte in ihren Schulen und predigte das Evangelium von dem Reich und heilte allerlei Seuche und Krankheit im Volk. ^24^ Und sein Gerücht erscholl in das ganze Syrienland. Und sie brachten zu ihm allerlei Kranke, mit mancherlei Seuchen und Qual behaftet, die Besessenen, die Mondsüchtigen und die Gichtbrüchigen; und er machte sie alle gesund. ^a^ ^25^ Und es folgte ihm nach viel Volks aus Galiläa, aus den Zehn-Städten, von Jerusalem, aus dem jüdischen Lande und von jenseits des Jordans. ^b^ 
+^23^ Und Jesus ging umher im ganzen galiläischen Lande, lehrte in ihren Schulen und predigte das Evangelium von dem Reich und heilte allerlei Seuche und Krankheit im Volk. ^24^ Und sein Gerücht erscholl in das ganze Syrienland. Und sie brachten zu ihm allerlei Kranke, mit mancherlei Seuchen und Qual behaftet, die Besessenen, die Mondsüchtigen und die Gichtbrüchigen; und er machte sie alle gesund. ^a^ ^25^ Und es folgte ihm nach viel Volks aus Galiläa, aus den Zehn-Städten, von Jerusalem, aus dem jüdischen Lande und von jenseits des Jordans.^b^ 
 ^a^[**4:24** Mk 6,55] ^b^[**4:25** Mk 3,7-8; Lk 6,17-19]
 
 # 5
@@ -145,7 +145,7 @@
 ^38^ Ihr habt gehört, dass da gesagt ist: „Auge um Auge, Zahn um Zahn.“ ^39^ Ich aber sage euch, dass ihr nicht widerstreben sollt dem Übel; sondern, so dir jemand einen Streich gibt auf deinen rechten Backen, dem biete den anderen auch dar. ^a^ ^40^ Und wenn jemand mit dir rechten will und deinen Rock nehmen, dem lass auch den Mantel. ^b^ ^41^ Und so dich jemand nötigt eine Meile, so gehe mit ihm zwei. ^42^ Gib dem, der dich bittet, und wende dich nicht von dem, der dir abborgen will. 
 ^a^[**5:39** Kla 3,27-32; Joh 18,22-23; Röm 12,19; Röm 12,21; 1Petr 2,20-23] ^b^[**5:40** 1Kor 6,7; Hebr 10,34]
 
-^43^ Ihr habt gehört, dass gesagt ist: „Du sollst deinen Nächsten lieben und deinen Feind hassen.“ ^44^ Ich aber sage euch: Liebet eure Feinde; segnet, die euch fluchen; tut wohl denen, die euch hassen; bittet für die, die euch beleidigen und verfolgen, ^a^ ^45^ auf dass ihr Kinder seid eures Vaters im Himmel; denn er lässt seine Sonne aufgehen über die Bösen und über die Guten und lässt regnen über Gerechte und Ungerechte. ^b^ ^46^ Denn so ihr liebet, die euch lieben, was werdet ihr für Lohn haben? Tun nicht dasselbe auch die Zöllner? ^47^ Und so ihr euch nur zu euren Brüdern freundlich tut, was tut ihr Sonderliches? Tun nicht die Zöllner auch also? ^48^ Darum sollt ihr vollkommen sein, gleichwie euer Vater im Himmel vollkommen ist. ^c^ 
+^43^ Ihr habt gehört, dass gesagt ist: „Du sollst deinen Nächsten lieben und deinen Feind hassen.“ ^44^ Ich aber sage euch: Liebet eure Feinde; segnet, die euch fluchen; tut wohl denen, die euch hassen; bittet für die, die euch beleidigen und verfolgen, ^a^ ^45^ auf dass ihr Kinder seid eures Vaters im Himmel; denn er lässt seine Sonne aufgehen über die Bösen und über die Guten und lässt regnen über Gerechte und Ungerechte. ^b^ ^46^ Denn so ihr liebet, die euch lieben, was werdet ihr für Lohn haben? Tun nicht dasselbe auch die Zöllner? ^47^ Und so ihr euch nur zu euren Brüdern freundlich tut, was tut ihr Sonderliches? Tun nicht die Zöllner auch also? ^48^ Darum sollt ihr vollkommen sein, gleichwie euer Vater im Himmel vollkommen ist.^c^ 
 ^a^[**5:44** 2Mo 23,4-5; Lk 6,27-28; Lk 23,34; Röm 12,14; Röm 12,20; Apg 7,59] ^b^[**5:45** Eph 5,1] ^c^[**5:48** 3Mo 19,2]
 
 # 6
@@ -181,7 +181,7 @@
 ^27^ Wer ist aber unter euch, der seiner Länge eine Elle zusetzen möge, ob er gleich darum sorget? ^28^ Und warum sorget ihr für die Kleidung? Schauet die Lilien auf dem Felde, wie sie wachsen: sie arbeiten nicht, auch spinnen sie nicht. ^29^ Ich sage euch, dass auch Salomo in aller seiner Herrlichkeit nicht bekleidet gewesen ist wie derselben eins. ^a^ ^30^ So denn Gott das Gras auf dem Felde also kleidet, das doch heute steht und morgen in den Ofen geworfen wird: sollte er das nicht viel mehr euch tun, o ihr Kleingläubigen? 
 ^a^[**6:29** 1Kö 10,-1]
 
-^31^ Darum sollt ihr nicht sorgen und sagen: Was werden wir essen, was werden wir trinken, womit werden wir uns kleiden? ^32^ Nach solchem allem trachten die Heiden. Denn euer himmlischer Vater weiß, dass ihr des alles bedürfet. ^33^ Trachtet am ersten nach dem Reich Gottes und nach seiner Gerechtigkeit, so wird euch solches alles zufallen. ^34^ Darum sorgt nicht für den anderen Morgen; denn der morgende Tag wird für das Seine sorgen. Es ist genug, dass ein jeglicher Tag seine eigene Plage habe. ^a^ 
+^31^ Darum sollt ihr nicht sorgen und sagen: Was werden wir essen, was werden wir trinken, womit werden wir uns kleiden? ^32^ Nach solchem allem trachten die Heiden. Denn euer himmlischer Vater weiß, dass ihr des alles bedürfet. ^33^ Trachtet am ersten nach dem Reich Gottes und nach seiner Gerechtigkeit, so wird euch solches alles zufallen. ^34^ Darum sorgt nicht für den anderen Morgen; denn der morgende Tag wird für das Seine sorgen. Es ist genug, dass ein jeglicher Tag seine eigene Plage habe.^a^ 
 ^a^[**6:34** 2Mo 16,19]
 
 # 7
@@ -213,7 +213,7 @@
 ^24^ Darum, wer diese meine Rede hört und tut sie, den vergleiche ich einem klugen Mann, der sein Haus auf einen Felsen baute. ^25^ Da nun ein Platzregen fiel und ein Gewässer kam und wehten die Winde und stießen an das Haus, fiel es doch nicht; denn es war auf einen Felsen gegründet. ^26^ Und wer diese meine Rede hört und tut sie nicht, der ist einem törichten Manne gleich, der sein Haus auf den Sand baute. ^27^ Da nun ein Platzregen fiel und kam ein Gewässer und wehten die Winde und stießen an das Haus, da fiel es und tat einen großen Fall. ^a^ 
 ^a^[**7:27** Hes 13,10-11]
 
-^28^ Und es begab sich, da Jesus diese Rede vollendet hatte, entsetzte sich das Volk über seine Lehre; ^a^ ^29^ denn er predigte gewaltig und nicht wie die Schriftgelehrten. ^b^ 
+^28^ Und es begab sich, da Jesus diese Rede vollendet hatte, entsetzte sich das Volk über seine Lehre; ^a^ ^29^ denn er predigte gewaltig und nicht wie die Schriftgelehrten.^b^ 
 ^a^[**7:28** Apg 2,12] ^b^[**7:29** Joh 7,16; Joh 7,46]
 
 # 8
@@ -353,7 +353,7 @@
 ^a^[**10:34** Lk 12,51-53] ^b^[**10:37** 5Mo 13,7-12; 5Mo 33,9; Lk 14,26-27] ^c^[**10:38** Mt 16,24-25] ^d^[**10:39** Lk 9,24; Joh 12,25]
 
 ## Promesas de ayuda fraternal
-^40^ Wer euch aufnimmt, der nimmt mich auf; und wer mich aufnimmt, der nimmt den auf, der mich gesandt hat. ^a^ ^41^ Wer einen Propheten aufnimmt in eines Propheten Namen, der wird eines Propheten Lohn empfangen. Wer einen Gerechten aufnimmt in eines Gerechten Namen, der wird eines Gerechten Lohn empfangen. ^b^ ^42^ Und wer dieser Geringsten einen nur mit einem Becher kalten Wassers tränkt in eines Jüngers Namen, wahrlich ich sage euch: es wird ihm nicht unbelohnt bleiben. ^c^ 
+^40^ Wer euch aufnimmt, der nimmt mich auf; und wer mich aufnimmt, der nimmt den auf, der mich gesandt hat. ^a^ ^41^ Wer einen Propheten aufnimmt in eines Propheten Namen, der wird eines Propheten Lohn empfangen. Wer einen Gerechten aufnimmt in eines Gerechten Namen, der wird eines Gerechten Lohn empfangen. ^b^ ^42^ Und wer dieser Geringsten einen nur mit einem Becher kalten Wassers tränkt in eines Jüngers Namen, wahrlich ich sage euch: es wird ihm nicht unbelohnt bleiben.^c^ 
 ^a^[**10:40** Lk 9,48; Joh 13,20; Gal 4,14] ^b^[**10:41** 1Kö 17,9-24] ^c^[**10:42** Mt 25,40; Mk 9,41]
 
 # 11
@@ -381,7 +381,7 @@
 ^a^[**11:25** 1Kor 1,19-29; Jes 29,14; Lk 10,21-22; Joh 17,25] ^b^[**11:27** Mt 28,18; Joh 3,35; Joh 17,2; Phil 2,9]
 
 ## El llamado del Salvador a los cansados ​​y agobiados
-^28^ Kommet her zu mir alle, die ihr mühselig und beladen seid; ich will euch erquicken. ^a^ ^29^ Nehmet auf euch mein Joch und lernet von mir; denn ich bin sanftmütig und von Herzen demütig; so werdet ihr Ruhe finden für eure Seelen. ^b^ ^30^ Denn mein Joch ist sanft, und meine Last ist leicht. ^c^ 
+^28^ Kommet her zu mir alle, die ihr mühselig und beladen seid; ich will euch erquicken. ^a^ ^29^ Nehmet auf euch mein Joch und lernet von mir; denn ich bin sanftmütig und von Herzen demütig; so werdet ihr Ruhe finden für eure Seelen. ^b^ ^30^ Denn mein Joch ist sanft, und meine Last ist leicht.^c^ 
 ^a^[**11:28** Mt 12,20; Mt 23,4; Jer 31,25] ^b^[**11:29** Jes 28,12; Jer 6,16; Sach 9,9] ^c^[**11:30** Lk 11,46; 1Jo 5,3]
 
 # 12
@@ -432,7 +432,7 @@
 ^46^ Da er noch also zu dem Volk redete, siehe, da standen seine Mutter und seine Brüder draußen, die wollten mit ihm reden. ^a^ ^47^ Da sprach einer zu ihm: Siehe, deine Mutter und deine Brüder stehen draußen und wollen mit dir reden. 
 ^a^[**12:46** Mt 13,55]
 
-^48^ Er antwortete aber und sprach zu dem, der es ihm ansagte: Wer ist meine Mutter, und wer sind meine Brüder? ^a^ ^49^ Und er reckte die Hand aus über seine Jünger und sprach: Siehe da, das ist meine Mutter und meine Brüder! ^b^ ^50^ Denn wer den Willen tut meines Vaters im Himmel, der ist mein Bruder, Schwester und Mutter. ^c^ 
+^48^ Er antwortete aber und sprach zu dem, der es ihm ansagte: Wer ist meine Mutter, und wer sind meine Brüder? ^a^ ^49^ Und er reckte die Hand aus über seine Jünger und sprach: Siehe da, das ist meine Mutter und meine Brüder! ^b^ ^50^ Denn wer den Willen tut meines Vaters im Himmel, der ist mein Bruder, Schwester und Mutter.^c^ 
 ^a^[**12:48** Mt 10,37; Lk 2,49] ^b^[**12:49** Hebr 2,11] ^c^[**12:50** Röm 8,29]
 
 # 13
@@ -610,7 +610,7 @@
 ^23^ Aber er wandte sich um und sprach zu Petrus: Hebe dich, Satan, von mir! du bist mir ärgerlich; denn du meinst nicht was göttlich, sondern was menschlich ist. 
 
 ## Proverbios sobre el seguimiento de los discípulos en el sufrimiento
-^24^ Da sprach Jesus zu seinen Jüngern: Will mir jemand nachfolgen, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir. ^a^ ^25^ Denn wer sein Leben erhalten will, der wird's verlieren; wer aber sein Leben verliert um meinetwillen, der wird's finden. ^b^ ^26^ Was hülfe es dem Menschen, wenn er die ganze Welt gewönne und nähme doch Schaden an seiner Seele? Oder was kann der Mensch geben, damit er seine Seele wieder löse? ^c^ ^27^ Denn es wird geschehen, dass des Menschen Sohn komme in der Herrlichkeit seines Vaters mit seinen Engeln; und alsdann wird er einem jeglichen vergelten nach seinen Werken. ^d^ ^28^ Wahrlich ich sage euch: Es stehen etliche hier, die nicht schmecken werden den Tod, bis dass sie des Menschen Sohn kommen sehen in seinem Reich. ^e^ 
+^24^ Da sprach Jesus zu seinen Jüngern: Will mir jemand nachfolgen, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir. ^a^ ^25^ Denn wer sein Leben erhalten will, der wird's verlieren; wer aber sein Leben verliert um meinetwillen, der wird's finden. ^b^ ^26^ Was hülfe es dem Menschen, wenn er die ganze Welt gewönne und nähme doch Schaden an seiner Seele? Oder was kann der Mensch geben, damit er seine Seele wieder löse? ^c^ ^27^ Denn es wird geschehen, dass des Menschen Sohn komme in der Herrlichkeit seines Vaters mit seinen Engeln; und alsdann wird er einem jeglichen vergelten nach seinen Werken. ^d^ ^28^ Wahrlich ich sage euch: Es stehen etliche hier, die nicht schmecken werden den Tod, bis dass sie des Menschen Sohn kommen sehen in seinem Reich.^e^ 
 ^a^[**16:24** Mt 10,38-39; 1Petr 2,21] ^b^[**16:25** Offb 12,11] ^c^[**16:26** Lk 12,20] ^d^[**16:27** Röm 2,6] ^e^[**16:28** Mt 10,23]
 
 # 17
@@ -684,7 +684,7 @@
 
 ^28^ Da ging derselbe Knecht hinaus und fand einen seiner Mitknechte, der war ihm hundert Groschen schuldig; und er griff ihn an und würgte ihn und sprach: Bezahle mir, was du mir schuldig bist! 
 
-^29^ Da fiel sein Mitknecht nieder und bat ihn und sprach: Habe Geduld mit mir; ich will dir's alles bezahlen. ^30^ Er wollte aber nicht, sondern ging hin und warf ihn ins Gefängnis, bis dass er bezahlte, was er schuldig war. ^31^ Da aber seine Mitknechte solches sahen, wurden sie sehr betrübt und kamen und brachten vor ihren Herrn alles, was sich begeben hatte. ^32^ Da forderte ihn sein Herr vor sich und sprach zu ihm: Du Schalksknecht, alle diese Schuld habe ich dir erlassen, dieweil du mich batest; ^a^ ^33^ solltest du denn dich nicht auch erbarmen über deinen Mitknecht, wie ich mich über dich erbarmt habe? ^b^ ^34^ Und sein Herr ward zornig und überantwortete ihn den Peinigern, bis dass er bezahlte alles, was er ihm schuldig war. ^c^ ^35^ Also wird euch mein himmlischer Vater auch tun, so ihr nicht vergebet von eurem Herzen, ein jeglicher seinem Bruder seine Fehler. ^d^ 
+^29^ Da fiel sein Mitknecht nieder und bat ihn und sprach: Habe Geduld mit mir; ich will dir's alles bezahlen. ^30^ Er wollte aber nicht, sondern ging hin und warf ihn ins Gefängnis, bis dass er bezahlte, was er schuldig war. ^31^ Da aber seine Mitknechte solches sahen, wurden sie sehr betrübt und kamen und brachten vor ihren Herrn alles, was sich begeben hatte. ^32^ Da forderte ihn sein Herr vor sich und sprach zu ihm: Du Schalksknecht, alle diese Schuld habe ich dir erlassen, dieweil du mich batest; ^a^ ^33^ solltest du denn dich nicht auch erbarmen über deinen Mitknecht, wie ich mich über dich erbarmt habe? ^b^ ^34^ Und sein Herr ward zornig und überantwortete ihn den Peinigern, bis dass er bezahlte alles, was er ihm schuldig war. ^c^ ^35^ Also wird euch mein himmlischer Vater auch tun, so ihr nicht vergebet von eurem Herzen, ein jeglicher seinem Bruder seine Fehler.^d^ 
 ^a^[**18:32** Lk 6,36] ^b^[**18:33** 1Jo 4,11] ^c^[**18:34** Mt 5,26] ^d^[**18:35** Mt 6,14-15; Jak 2,13]
 
 # 19
@@ -914,7 +914,7 @@
 ^a^[**23:35** 1Mo 4,8; 2Chr 24,20-21]
 
 ## Salida de Jesús de la ciudad de Jerusalén y anuncio de su regreso
-^37^ Jerusalem, Jerusalem, die du tötest die Propheten und steinigst, die zu dir gesandt sind! wie oft habe ich deine Kinder versammeln wollen, wie eine Henne versammelt ihre Küchlein unter ihre Flügel; und ihr habt nicht gewollt! ^38^ Siehe, euer Haus soll euch wüst gelassen werden. ^39^ Denn ich sage euch: Ihr werdet mich von jetzt an nicht sehen, bis ihr sprecht: Gelobt sei, der da kommt im Namen des Herrn! ^a^ 
+^37^ Jerusalem, Jerusalem, die du tötest die Propheten und steinigst, die zu dir gesandt sind! wie oft habe ich deine Kinder versammeln wollen, wie eine Henne versammelt ihre Küchlein unter ihre Flügel; und ihr habt nicht gewollt! ^38^ Siehe, euer Haus soll euch wüst gelassen werden. ^39^ Denn ich sage euch: Ihr werdet mich von jetzt an nicht sehen, bis ihr sprecht: Gelobt sei, der da kommt im Namen des Herrn!^a^ 
 ^a^[**23:39** Mt 21,9; Mt 26,64]
 
 # 24
@@ -995,7 +995,7 @@
 
 ^44^ Da werden sie ihm auch antworten und sagen: Herr, wann haben wir dich gesehen hungrig oder durstig oder als einen Gast oder nackt oder krank oder gefangen und haben dir nicht gedient? 
 
-^45^ Dann wird er ihnen antworten und sagen: Wahrlich ich sage euch: Was ihr nicht getan habt einem unter diesen Geringsten, das habt ihr mir auch nicht getan. ^46^ Und sie werden in die ewige Pein gehen, aber die Gerechten in das ewige Leben. ^a^ 
+^45^ Dann wird er ihnen antworten und sagen: Wahrlich ich sage euch: Was ihr nicht getan habt einem unter diesen Geringsten, das habt ihr mir auch nicht getan. ^46^ Und sie werden in die ewige Pein gehen, aber die Gerechten in das ewige Leben.^a^ 
 ^a^[**25:46** Joh 5,29; Jak 2,13]
 
 # 26

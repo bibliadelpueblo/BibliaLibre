@@ -40,7 +40,7 @@
 
 ^2^ Und ich ward mit ihr eins um fünfzehn Silberlinge und anderthalb Scheffel Gerste ^3^ und sprach zu ihr: Halt dich als die Meine eine lange Zeit und hure nicht und gehöre keinem anderen an; denn ich will mich auch als den Deinen halten. 
 
-^4^ Denn die Kinder Israel werden lange Zeit ohne König, ohne Fürsten, ohne Opfer, ohne Altar, ohne Leibrock und ohne Heiligtum bleiben. ^5^ Darnach werden sich die Kinder Israel bekehren und den HErrn, ihren Gott, und ihren König David suchen und werden mit Zittern zu dem HErrn und seiner Gnade kommen in der letzten Zeit. ^a^ 
+^4^ Denn die Kinder Israel werden lange Zeit ohne König, ohne Fürsten, ohne Opfer, ohne Altar, ohne Leibrock und ohne Heiligtum bleiben. ^5^ Darnach werden sich die Kinder Israel bekehren und den HErrn, ihren Gott, und ihren König David suchen und werden mit Zittern zu dem HErrn und seiner Gnade kommen in der letzten Zeit.^a^ 
 ^a^[**3:5** Jer 30,9; Jer 30,21-22; Hes 34,23-24]
 
 # 4
@@ -69,7 +69,7 @@
 ^a^[**5:8** Hos 4,15] ^b^[**5:13** Hos 7,11; Hos 10,6] ^c^[**5:14** Hos 13,7; Hos 6,1]
 
 ## Dios deja a Israel en su ruina; Rechaza la confesión de penitencia del pueblo por frívola
-^15^ Ich will wiederum an meinen Ort gehen, bis sie ihre Schuld erkennen und mein Angesicht suchen; wenn's ihnen übel geht, so werden sie mich suchen und sagen: ^a^ 
+^15^ Ich will wiederum an meinen Ort gehen, bis sie ihre Schuld erkennen und mein Angesicht suchen; wenn's ihnen übel geht, so werden sie mich suchen und sagen:^a^ 
 ^a^[**5:15** Jes 26,16]
 
 # 6
@@ -77,7 +77,7 @@
 ^a^[**6:1** Hos 5,14] ^b^[**6:2** 5Mo 32,39] ^c^[**6:6** 1Sam 15,22; Mt 9,13; Mt 12,7]
 
 ## Lamentarse por el incumplimiento del pacto por parte de Israel y la ominosa depravación en toda la tierra
-^7^ Aber sie übertreten den Bund wie Adam; darin verachten sie mich. ^a^ ^8^ Denn Gilead ist eine Stadt voll Abgötterei und Blutschulden. ^9^ Und die Priester samt ihrem Haufen sind wie die Räuber, die da lauern auf die Leute und würgen auf dem Wege, der gen Sichem geht; denn sie tun, was sie wollen. ^10^ Ich sehe im Hause Israel, davor mir graut; denn da hurt Ephraim und verunreinigt sich Israel. ^b^ ^11^ Aber auch Juda wird noch eine Ernte vor sich haben, wenn ich meines Volks Gefängnis wenden werde. ^c^ 
+^7^ Aber sie übertreten den Bund wie Adam; darin verachten sie mich. ^a^ ^8^ Denn Gilead ist eine Stadt voll Abgötterei und Blutschulden. ^9^ Und die Priester samt ihrem Haufen sind wie die Räuber, die da lauern auf die Leute und würgen auf dem Wege, der gen Sichem geht; denn sie tun, was sie wollen. ^10^ Ich sehe im Hause Israel, davor mir graut; denn da hurt Ephraim und verunreinigt sich Israel. ^b^ ^11^ Aber auch Juda wird noch eine Ernte vor sich haben, wenn ich meines Volks Gefängnis wenden werde.^c^ 
 ^a^[**6:7** 1Mo 3,6] ^b^[**6:10** Hos 5,3] ^c^[**6:11** Joe 4,13; Joe 4,1]
 
 # 7
@@ -91,7 +91,7 @@
 
 # 8
 ## Nueva llamada de atención por los graves pecados de Israel
-^1^ Rufe laut wie eine Posaune: Er kommt über das Haus des HErrn wie ein Adler, darum dass sie meinen Bund übertreten und von meinem Gesetze abtrünnig werden. ^a^ ^2^ Dann werden sie zu mir schreien: Du bist mein Gott; wir, Israel, kennen dich! ^3^ Israel verwirft das Gute; darum muss sie der Feind verfolgen. ^4^ Sie machen Könige, aber ohne mich; sie setzen Fürsten, und ich darf es nicht wissen. Aus ihrem Silber und Gold machen sie Götzen, dass sie ja bald ausgerottet werden. ^5^ Dein Kalb, Samaria, verwirft er; mein Zorn ist über sie ergrimmt. Es kann nicht lange anstehen, sie müssen gestraft werden. ^b^ ^6^ Denn das Kalb ist aus Israel hergekommen, und ein Werkmann hat's gemacht, und es kann ja kein Gott sein; darum soll das Kalb Samarias zerpulvert werden. ^c^ ^7^ Denn sie säen Wind und werden Ungewitter einernten; ihre Saat soll nicht aufkommen und ihr Gewächs kein Mehl geben; und ob's geben würde, sollen's doch Fremde fressen. ^d^ ^8^ Israel wird aufgefressen; die Heiden gehen mit ihnen um wie mit einem unwerten Gefäß, ^e^ ^9^ darum dass sie hinauf zum Assur laufen wie ein Wild in der Irre. Ephraim schenkt den Buhlern und gibt den Heiden Tribut. ^f^ ^10^ Dieselben Heiden will ich nun über sie sammeln; sie sollen der Last des Königs der Fürsten bald müde werden. ^11^ Denn Ephraim hat der Altäre viel gemacht zu sündigen; so sollen auch die Altäre ihm zur Sünde geraten. ^12^ Wenn ich ihm gleich viel tausend Gebote meines Gesetzes schreibe, so wird's geachtet wie eine fremde Lehre. ^13^ Ob sie schon viel opfern und Fleisch herbringen und essen's, so hat doch der HErr kein Gefallen an ihnen; sondern er will ihrer Missetat gedenken und ihre Sünden heimsuchen; sie sollen wieder nach Ägypten kommen! ^14^ Israel vergisst seines Schöpfers und baut Paläste; so macht Juda viel feste Städte; aber ich will Feuer in seine Städte schicken, welches soll seine Häuser verzehren. ^g^ 
+^1^ Rufe laut wie eine Posaune: Er kommt über das Haus des HErrn wie ein Adler, darum dass sie meinen Bund übertreten und von meinem Gesetze abtrünnig werden. ^a^ ^2^ Dann werden sie zu mir schreien: Du bist mein Gott; wir, Israel, kennen dich! ^3^ Israel verwirft das Gute; darum muss sie der Feind verfolgen. ^4^ Sie machen Könige, aber ohne mich; sie setzen Fürsten, und ich darf es nicht wissen. Aus ihrem Silber und Gold machen sie Götzen, dass sie ja bald ausgerottet werden. ^5^ Dein Kalb, Samaria, verwirft er; mein Zorn ist über sie ergrimmt. Es kann nicht lange anstehen, sie müssen gestraft werden. ^b^ ^6^ Denn das Kalb ist aus Israel hergekommen, und ein Werkmann hat's gemacht, und es kann ja kein Gott sein; darum soll das Kalb Samarias zerpulvert werden. ^c^ ^7^ Denn sie säen Wind und werden Ungewitter einernten; ihre Saat soll nicht aufkommen und ihr Gewächs kein Mehl geben; und ob's geben würde, sollen's doch Fremde fressen. ^d^ ^8^ Israel wird aufgefressen; die Heiden gehen mit ihnen um wie mit einem unwerten Gefäß, ^e^ ^9^ darum dass sie hinauf zum Assur laufen wie ein Wild in der Irre. Ephraim schenkt den Buhlern und gibt den Heiden Tribut. ^f^ ^10^ Dieselben Heiden will ich nun über sie sammeln; sie sollen der Last des Königs der Fürsten bald müde werden. ^11^ Denn Ephraim hat der Altäre viel gemacht zu sündigen; so sollen auch die Altäre ihm zur Sünde geraten. ^12^ Wenn ich ihm gleich viel tausend Gebote meines Gesetzes schreibe, so wird's geachtet wie eine fremde Lehre. ^13^ Ob sie schon viel opfern und Fleisch herbringen und essen's, so hat doch der HErr kein Gefallen an ihnen; sondern er will ihrer Missetat gedenken und ihre Sünden heimsuchen; sie sollen wieder nach Ägypten kommen! ^14^ Israel vergisst seines Schöpfers und baut Paläste; so macht Juda viel feste Städte; aber ich will Feuer in seine Städte schicken, welches soll seine Häuser verzehren.^g^ 
 ^a^[**8:1** Jes 58,1] ^b^[**8:5** 1Kö 12,28] ^c^[**8:6** 2Mo 32,20] ^d^[**8:7** Jer 12,13] ^e^[**8:8** Jer 22,28] ^f^[**8:9** Hos 5,13; Hos 7,11] ^g^[**8:14** Jer 17,27; Am 2,5]
 
 # 9
@@ -139,7 +139,7 @@
 ^a^[**13:5** Hos 9,10] ^b^[**13:6** 5Mo 32,15] ^c^[**13:7** Hos 5,14] ^d^[**13:9** Jer 2,17] ^e^[**13:10** 1Sam 8,5]
 
 ## Anuncio de la terrible caída del pueblo pecador
-^12^ Die Missetat Ephraims ist zusammengebunden, und seine Sünde ist behalten. ^13^ Denn es soll ihm wehe werden wie einer Gebärerin. Er ist ein unverständig Kind; denn wenn die Zeit gekommen ist, so will er die Mutter nicht brechen. ^a^ ^14^ Aber ich will sie erlösen aus der Hölle und vom Tod erretten. Tod, ich will dir ein Gift sein; Hölle ich will dir eine Pestilenz sein. Doch ist der Trost vor meinen Augen verborgen. ^b^ ^15^ Denn wenn er auch zwischen Brüdern Frucht bringt, so wird doch ein Ostwind des HErrn aus der Wüste herauffahren, dass sein Brunnen vertrocknet und seine Quelle versiegt; und er wird rauben den Schatz alles köstlichen Gerätes. ^c^ 
+^12^ Die Missetat Ephraims ist zusammengebunden, und seine Sünde ist behalten. ^13^ Denn es soll ihm wehe werden wie einer Gebärerin. Er ist ein unverständig Kind; denn wenn die Zeit gekommen ist, so will er die Mutter nicht brechen. ^a^ ^14^ Aber ich will sie erlösen aus der Hölle und vom Tod erretten. Tod, ich will dir ein Gift sein; Hölle ich will dir eine Pestilenz sein. Doch ist der Trost vor meinen Augen verborgen. ^b^ ^15^ Denn wenn er auch zwischen Brüdern Frucht bringt, so wird doch ein Ostwind des HErrn aus der Wüste herauffahren, dass sein Brunnen vertrocknet und seine Quelle versiegt; und er wird rauben den Schatz alles köstlichen Gerätes.^c^ 
 ^a^[**13:13** Mi 4,10; Jes 37,3] ^b^[**13:14** 1Kor 15,54-55; 2Tim 1,10; Offb 20,14; Offb 21,4] ^c^[**13:15** 1Mo 49,22; Hos 4,19]
 
 # 14

@@ -56,7 +56,7 @@
 ^67^ Und sein Vater Zacharias ward des heiligen Geistes voll, weissagte und sprach: ^68^ Gelobet sei der Herr, der Gott Israels! denn er hat besucht und erlöst sein Volk ^a^ ^69^ und hat uns aufgerichtet ein Horn des Heils in dem Hause seines Dieners David, ^b^ ^70^ wie er vorzeiten geredet hat durch den Mund seiner heiligen Propheten: ^71^ dass er uns errettete von unseren Feinden und von der Hand aller, die uns hassen, ^72^ und Barmherzigkeit erzeigte unseren Vätern und gedächte an seinen heiligen Bund ^c^ ^73^ und an den Eid, den er geschworen hat unserem Vater Abraham, uns zu geben, ^d^ ^74^ dass wir, erlöst aus der Hand unserer Feinde, ihm dienten ohne Furcht unser Leben lang ^e^ ^75^ in Heiligkeit und Gerechtigkeit, die ihm gefällig ist. ^76^ Und du, Kindlein, wirst ein Prophet des Höchsten heißen. Du wirst vor dem Herrn hergehen, dass du seinen Weg bereitest ^77^ und Erkenntnis des Heils gebest seinem Volk, das da ist in Vergebung ihrer Sünden; ^f^ ^78^ durch die herzliche Barmherzigkeit unseres Gottes, durch welche uns besucht hat der Aufgang aus der Höhe, ^g^ ^79^ auf dass er erscheine denen, die da sitzen in Finsternis und Schatten des Todes, und richte unsere Füße auf den Weg des Friedens. ^h^ 
 ^a^[**1:68** Lk 7,16] ^b^[**1:69** Ps 132,17] ^c^[**1:72** 1Mo 17,7] ^d^[**1:73** 1Mo 22,16-18; Mi 7,20] ^e^[**1:74** Tit 2,12; Tit 1,2-14] ^f^[**1:77** Jer 31,34] ^g^[**1:78** 4Mo 24,17; Jes 60,1-2; Mal 3,20] ^h^[**1:79** Jes 9,1]
 
-^80^ Und das Kindlein wuchs und ward stark im Geist; und er war in der Wüste, bis dass er sollte hervortreten vor das Volk Israel. ^a^ 
+^80^ Und das Kindlein wuchs und ward stark im Geist; und er war in der Wüste, bis dass er sollte hervortreten vor das Volk Israel.^a^ 
 ^a^[**1:80** Mt 3,1]
 
 # 2
@@ -312,7 +312,7 @@
 
 ^49^ Da fingen die an, die mit zu Tische saßen, und sprachen bei sich selbst: Wer ist dieser, der auch Sünden vergibt? 
 
-^50^ Er aber sprach zu dem Weibe: Dein Glaube hat dir geholfen; gehe hin mit Frieden! ^a^ 
+^50^ Er aber sprach zu dem Weibe: Dein Glaube hat dir geholfen; gehe hin mit Frieden!^a^ 
 ^a^[**7:50** Lk 8,48; Lk 17,19; Lk 18,42]
 
 # 8
@@ -368,7 +368,7 @@
 ^51^ Da er aber in das Haus kam, ließ er niemand hineingehen denn Petrus und Jakobus und Johannes und des Kindes Vater und Mutter. ^a^ ^52^ Sie weinten aber alle und klagten um sie. Er aber sprach: Weinet nicht; sie ist nicht gestorben, sondern sie schläft. ^b^ 
 ^a^[**8:51** Mt 17,1] ^b^[**8:52** Lk 7,13]
 
-^53^ Und sie verlachten ihn, wussten wohl, dass sie gestorben war. ^54^ Er aber trieb sie alle hinaus, nahm sie bei der Hand und rief und sprach: Kind, stehe auf! ^55^ Und ihr Geist kam wieder, und sie stand alsobald auf. Und er befahl, man sollte ihr zu essen geben. ^56^ Und ihre Eltern entsetzten sich. Er aber gebot ihnen, dass sie niemand sagten, was geschehen war. ^a^ 
+^53^ Und sie verlachten ihn, wussten wohl, dass sie gestorben war. ^54^ Er aber trieb sie alle hinaus, nahm sie bei der Hand und rief und sprach: Kind, stehe auf! ^55^ Und ihr Geist kam wieder, und sie stand alsobald auf. Und er befahl, man sollte ihr zu essen geben. ^56^ Und ihre Eltern entsetzten sich. Er aber gebot ihnen, dass sie niemand sagten, was geschehen war.^a^ 
 ^a^[**8:56** Lk 5,14; Mk 7,36]
 
 # 9
@@ -451,7 +451,7 @@
 
 ^61^ Und ein anderer sprach: Herr, ich will dir nachfolgen; aber erlaube mir zuvor, dass ich einen Abschied mache mit denen, die in meinem Hause sind. 
 
-^62^ Jesus aber sprach zu ihm: Wer seine Hand an den Pflug legt und sieht zurück, der ist nicht geschickt zum Reich Gottes. ^a^ 
+^62^ Jesus aber sprach zu ihm: Wer seine Hand an den Pflug legt und sieht zurück, der ist nicht geschickt zum Reich Gottes.^a^ 
 ^a^[**9:62** Phil 3,13]
 
 # 10
@@ -643,7 +643,7 @@
 
 ^32^ Und er sprach zu ihnen: Gehet hin und saget diesem Fuchs: Siehe, ich treibe Teufel aus und mache gesund heut und morgen, und am dritten Tage werde ich ein Ende nehmen. ^33^ Doch muss ich heute und morgen und am Tage darnach wandeln; denn es tut's nicht, dass ein Prophet umkomme außer Jerusalem. 
 
-^34^ Jerusalem, Jerusalem, die du tötest die Propheten und steinigest, die zu dir gesandt werden, wie oft habe ich wollen deine Kinder versammeln, wie eine Henne ihr Nest unter ihre Flügel, und ihr habt nicht gewollt! ^a^ ^35^ Sehet, euer Haus soll euch wüst gelassen werden. Denn ich sage euch: Ihr werdet mich nicht sehen, bis dass es komme, dass ihr sagen werdet: Gelobt ist, der da kommt im Namen des Herrn! ^b^ 
+^34^ Jerusalem, Jerusalem, die du tötest die Propheten und steinigest, die zu dir gesandt werden, wie oft habe ich wollen deine Kinder versammeln, wie eine Henne ihr Nest unter ihre Flügel, und ihr habt nicht gewollt! ^a^ ^35^ Sehet, euer Haus soll euch wüst gelassen werden. Denn ich sage euch: Ihr werdet mich nicht sehen, bis dass es komme, dass ihr sagen werdet: Gelobt ist, der da kommt im Namen des Herrn!^b^ 
 ^a^[**13:34** Lk 19,41-44; Mt 23,37-39] ^b^[**13:35** Ps 118,26]
 
 # 14

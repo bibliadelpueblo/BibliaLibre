@@ -19,7 +19,7 @@
 ^10^ Dass doch einer unter euch die Türen zuschlösse, damit ihr nicht umsonst auf meinem Altar Feuer anzündet! Ich habe kein Gefallen an euch, spricht der HErr Zebaoth, und das Speisopfer von euren Händen ist mir nicht angenehm. ^a^ ^11^ Aber vom Aufgang der Sonne bis zum Niedergang soll mein Name herrlich werden unter den Heiden, und an allen Orten soll meinem Namen geräuchert werden und ein reines Speisopfer geopfert werden; denn mein Name soll herrlich werden unter den Heiden, spricht der HErr Zebaoth. ^b^ ^12^ Ihr aber entheiligt ihn damit, dass ihr sagt: „Des HErrn Tisch ist unheilig, und sein Opfer ist verachtet samt seiner Speise.“ ^13^ Und ihr sprecht: „Siehe, es ist nur Mühe!“ und schlaget's in den Wind, spricht der HErr Zebaoth. Und ihr bringt her, was geraubt, lahm und krank ist, und opfert dann Speisopfer. Sollte mir solches gefallen von eurer Hand? spricht der HErr. 
 ^a^[**1:10** Mal 2,13; Jes 1,13] ^b^[**1:11** Jes 60,1-7]
 
-^14^ Verflucht sei der Betrüger, der in seiner Herde ein Männlein hat, und wenn er ein Gelübde tut, opfert er dem HErrn ein untüchtiges. Denn ich bin ein großer König, spricht der HErr Zebaoth, und mein Name ist schrecklich unter den Heiden. ^a^ 
+^14^ Verflucht sei der Betrüger, der in seiner Herde ein Männlein hat, und wenn er ein Gelübde tut, opfert er dem HErrn ein untüchtiges. Denn ich bin ein großer König, spricht der HErr Zebaoth, und mein Name ist schrecklich unter den Heiden.^a^ 
 ^a^[**1:14** 3Mo 22,19]
 
 # 2
@@ -35,7 +35,7 @@
 ^a^[**2:15** Jes 51,2; Hes 33,24; 1Mo 15,5-6; 1Mo 21,12] ^b^[**2:16** 5Mo 24,1]
 
 ## Reprende a los que dudan de la justicia de Dios; Descripción del curso del juicio infalible
-^17^ Ihr macht den HErrn unwillig durch eure Reden. So sprecht ihr: „Womit machen wir ihn unwillig?“ Damit dass ihr sprecht: „Wer Böses tut, der gefällt dem HErrn, und zu solchen hat er Lust“, oder: „Wo ist der Gott, der da strafe?“ ^a^ 
+^17^ Ihr macht den HErrn unwillig durch eure Reden. So sprecht ihr: „Womit machen wir ihn unwillig?“ Damit dass ihr sprecht: „Wer Böses tut, der gefällt dem HErrn, und zu solchen hat er Lust“, oder: „Wo ist der Gott, der da strafe?“^a^ 
 ^a^[**2:17** Mal 3,13-14]
 
 # 3

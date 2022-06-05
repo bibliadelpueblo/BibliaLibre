@@ -121,7 +121,7 @@
 ^a^[**5:22** Eph 5,9] ^b^[**5:23** 1Tim 1,9] ^c^[**5:24** Röm 6,6]
 
 ## Exhortaciones morales individuales para preservar la nueva vida en el espíritu; Referencia al juicio de Dios
-^25^ So wir im Geist leben, so lasset uns auch im Geist wandeln. ^a^ ^26^ Lasset uns nicht eitler Ehre geizig sein, einander zu entrüsten und zu hassen. ^b^ 
+^25^ So wir im Geist leben, so lasset uns auch im Geist wandeln. ^a^ ^26^ Lasset uns nicht eitler Ehre geizig sein, einander zu entrüsten und zu hassen.^b^ 
 ^a^[**5:25** Röm 8,4] ^b^[**5:26** Phil 2,3]
 
 # 6

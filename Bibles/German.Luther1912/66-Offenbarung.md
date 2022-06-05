@@ -114,7 +114,7 @@
 ^9^ Und da es das fünfte Siegel auftat, sah ich unter dem Altar die Seelen derer, die erwürgt waren um des Wortes Gottes willen und um des Zeugnisses willen, das sie hatten. ^10^ Und sie schrien mit großer Stimme und sprachen: Herr, du Heiliger und Wahrhaftiger, wie lange richtest du nicht und rächest unser Blut an denen, die auf der Erde wohnen? ^11^ Und ihnen wurde gegeben einem jeglichen ein weißes Kleid, und ward zu ihnen gesagt, dass sie ruhten noch eine kleine Zeit, bis dass vollends dazukämen ihre Mitknechte und Brüder, die auch sollten noch getötet werden gleich wie sie. 
 
 ## Platos terribles en la imagen de los fenómenos naturales
-^12^ Und ich sah, dass es das sechste Siegel auftat, und siehe, da ward ein großes Erdbeben, und die Sonne ward schwarz wie ein härener Sack, und der Mond ward wie Blut; ^a^ ^13^ und die Sterne des Himmels fielen auf die Erde, gleichwie ein Feigenbaum seine Feigen abwirft, wenn er von großem Wind bewegt wird. ^b^ ^14^ Und der Himmel entwich wie ein zusammengerolltes Buch; und alle Berge und Inseln wurden bewegt aus ihren Örtern. ^15^ Und die Könige auf Erden und die Großen und die Reichen und die Hauptleute und die Gewaltigen und alle Knechte und alle Freien verbargen sich in den Klüften und Felsen an den Bergen ^c^ ^16^ und sprachen zu den Bergen und Felsen: Fallet über uns und verberget uns vor dem Angesichte des, der auf dem Stuhl sitzt, und vor dem Zorn des Lammes! ^d^ ^17^ Denn es ist gekommen der große Tag seines Zorns, und wer kann bestehen? ^e^ 
+^12^ Und ich sah, dass es das sechste Siegel auftat, und siehe, da ward ein großes Erdbeben, und die Sonne ward schwarz wie ein härener Sack, und der Mond ward wie Blut; ^a^ ^13^ und die Sterne des Himmels fielen auf die Erde, gleichwie ein Feigenbaum seine Feigen abwirft, wenn er von großem Wind bewegt wird. ^b^ ^14^ Und der Himmel entwich wie ein zusammengerolltes Buch; und alle Berge und Inseln wurden bewegt aus ihren Örtern. ^15^ Und die Könige auf Erden und die Großen und die Reichen und die Hauptleute und die Gewaltigen und alle Knechte und alle Freien verbargen sich in den Klüften und Felsen an den Bergen ^c^ ^16^ und sprachen zu den Bergen und Felsen: Fallet über uns und verberget uns vor dem Angesichte des, der auf dem Stuhl sitzt, und vor dem Zorn des Lammes! ^d^ ^17^ Denn es ist gekommen der große Tag seines Zorns, und wer kann bestehen?^e^ 
 ^a^[**6:12** Jes 24,21-23; Joe 3,3-4; Mt 24,29] ^b^[**6:13** Jes 34,4] ^c^[**6:15** Jes 2,10; Jes 2,19] ^d^[**6:16** Lk 23,30] ^e^[**6:17** Am 5,18; Röm 2,5; Mal 3,2]
 
 # 7
@@ -132,7 +132,7 @@
 ^14^ Und ich sprach zu ihm: Herr, du weißt es. Und er sprach zu mir: Diese sind's, die gekommen sind aus großer Trübsal und haben ihre Kleider gewaschen und haben ihre Kleider hell gemacht im Blut des Lammes. ^a^ 
 ^a^[**7:14** Offb 12,11; Mt 24,21]
 
-^15^ Darum sind sie vor dem Stuhl Gottes und dienen ihm Tag und Nacht in seinem Tempel; und der auf dem Stuhl sitzt, wird über ihnen wohnen. ^16^ Sie wird nicht mehr hungern noch dürsten; es wird auch nicht auf sie fallen die Sonne oder irgendeine Hitze; ^17^ denn das Lamm mitten im Stuhl wird sie weiden und leiten zu den lebendigen Wasserbrunnen, und Gott wird abwischen alle Tränen von ihren Augen. ^a^ 
+^15^ Darum sind sie vor dem Stuhl Gottes und dienen ihm Tag und Nacht in seinem Tempel; und der auf dem Stuhl sitzt, wird über ihnen wohnen. ^16^ Sie wird nicht mehr hungern noch dürsten; es wird auch nicht auf sie fallen die Sonne oder irgendeine Hitze; ^17^ denn das Lamm mitten im Stuhl wird sie weiden und leiten zu den lebendigen Wasserbrunnen, und Gott wird abwischen alle Tränen von ihren Augen.^a^ 
 ^a^[**7:17** Ps 23,2; Offb 21,4; Jes 25,8]
 
 # 8
@@ -219,7 +219,7 @@
 ^16^ Und die vierundzwanzig Ältesten, die vor Gott auf ihren Stühlen saßen, fielen auf ihr Angesicht und beteten Gott an ^17^ und sprachen: Wir danken dir, Herr, allmächtiger Gott, der du bist und warest, dass du hast angenommen deine große Kraft und herrschest; ^18^ und die Heiden sind zornig geworden, und es ist gekommen dein Zorn und die Zeit der Toten, zu richten und zu geben den Lohn deinen Knechten, den Propheten, und den Heiligen und denen, die deinen Namen fürchten, den Kleinen und Großen, und zu verderben, die die Erde verderbt haben. ^a^ 
 ^a^[**11:18** Ps 2,1]
 
-^19^ Und der Tempel Gottes ward aufgetan im Himmel, und die Lade seines Bundes ward in seinem Tempel gesehen; und es geschahen Blitze und Stimmen und Donner und Erdbeben und ein großer Hagel. ^a^ 
+^19^ Und der Tempel Gottes ward aufgetan im Himmel, und die Lade seines Bundes ward in seinem Tempel gesehen; und es geschahen Blitze und Stimmen und Donner und Erdbeben und ein großer Hagel.^a^ 
 ^a^[**11:19** Offb 15,5]
 
 # 12
@@ -272,7 +272,7 @@
 ^14^ Und ich sah, und siehe, eine weiße Wolke. Und auf der Wolke saß einer, der gleich war eines Menschen Sohn; der hatte eine goldene Krone auf seinem Haupt und in seiner Hand eine scharfe Sichel. ^a^ ^15^ Und ein anderer Engel ging aus dem Tempel und schrie mit großer Stimme zu dem, der auf der Wolke saß: Schlag an mit deiner Sichel und ernte; denn die Zeit zu ernten ist gekommen, denn die Ernte der Erde ist dürr geworden! ^b^ ^16^ Und der auf der Wolke saß, schlug an mit seiner Sichel an die Erde, und die Erde ward geerntet. 
 ^a^[**14:14** Mk 13,26] ^b^[**14:15** Mt 13,39; Joe 4,13]
 
-^17^ Und ein anderer Engel ging aus dem Tempel im Himmel, der hatte eine scharfe Hippe. ^18^ Und ein anderer Engel ging aus vom Altar, der hatte Macht über das Feuer und rief mit großem Geschrei zu dem, der die scharfe Hippe hatte, und sprach: Schlag an mit deiner scharfen Hippe und schneide die Trauben vom Weinstock der Erde; denn seine Beeren sind reif! ^19^ Und der Engel schlug an mit seiner Hippe an die Erde und schnitt die Trauben der Erde und warf sie in die große Kelter des Zorns Gottes. ^20^ Und die Kelter ward draußen vor der Stadt getreten; und das Blut ging von der Kelter bis an die Zäume der Pferde durch tausend sechshundert Feld Wegs. ^a^ 
+^17^ Und ein anderer Engel ging aus dem Tempel im Himmel, der hatte eine scharfe Hippe. ^18^ Und ein anderer Engel ging aus vom Altar, der hatte Macht über das Feuer und rief mit großem Geschrei zu dem, der die scharfe Hippe hatte, und sprach: Schlag an mit deiner scharfen Hippe und schneide die Trauben vom Weinstock der Erde; denn seine Beeren sind reif! ^19^ Und der Engel schlug an mit seiner Hippe an die Erde und schnitt die Trauben der Erde und warf sie in die große Kelter des Zorns Gottes. ^20^ Und die Kelter ward draußen vor der Stadt getreten; und das Blut ging von der Kelter bis an die Zäume der Pferde durch tausend sechshundert Feld Wegs.^a^ 
 ^a^[**14:20** Jes 63,3]
 
 # 15
@@ -287,7 +287,7 @@
 ^5^ Darnach sah ich, und siehe, da ward aufgetan der Tempel der Hütte des Zeugnisses im Himmel; ^a^ ^6^ und gingen aus dem Tempel die sieben Engel, die die sieben Plagen hatten, angetan mit reiner, heller Leinwand und umgürtet an ihren Brüsten mit goldenen Gürteln. 
 ^a^[**15:5** Offb 11,19]
 
-^7^ Und eines der vier Tiere gab den sieben Engeln sieben goldene Schalen voll Zorns Gottes, der da lebt von Ewigkeit zu Ewigkeit. ^a^ ^8^ Und der Tempel ward voll Rauch von der Herrlichkeit Gottes und von seiner Kraft; und niemand konnte in den Tempel gehen, bis dass die sieben Plagen der sieben Engel vollendet wurden. ^b^ 
+^7^ Und eines der vier Tiere gab den sieben Engeln sieben goldene Schalen voll Zorns Gottes, der da lebt von Ewigkeit zu Ewigkeit. ^a^ ^8^ Und der Tempel ward voll Rauch von der Herrlichkeit Gottes und von seiner Kraft; und niemand konnte in den Tempel gehen, bis dass die sieben Plagen der sieben Engel vollendet wurden.^b^ 
 ^a^[**15:7** Offb 4,6-8; Offb 14,10] ^b^[**15:8** 2Mo 40,34; 1Kö 8,10; Jes 6,4; Hes 44,4]
 
 # 16
@@ -313,7 +313,7 @@
 
 ^15^ Siehe, ich komme wie ein Dieb. Selig ist, der da wacht und hält seine Kleider, dass er nicht bloß wandle und man nicht seine Schande sehe. ^16^ Und er hat sie versammelt an einen Ort, der da heißt auf hebräisch Harmagedon. 
 
-^17^ Und der siebente Engel goss aus seine Schale in die Luft; und es ging aus eine Stimme vom Himmel aus dem Stuhl, die sprach: Es ist geschehen. ^18^ Und es wurden Stimmen und Donner und Blitze; und ward ein großes Erdbeben, wie solches nicht gewesen ist, seit Menschen auf Erden gewesen sind, solch Erdbeben also groß. ^19^ Und aus der großen Stadt wurden drei Teile, und die Städte der Heiden fielen. Und Babylon, der großen, ward gedacht vor Gott, ihr zu geben den Kelch des Weins von seinem grimmigen Zorn. ^a^ ^20^ Und alle Inseln entflohen, und keine Berge wurden gefunden. ^b^ ^21^ Und ein großer Hagel, wie ein Zentner, fiel vom Himmel auf die Menschen; und die Menschen lästerten Gott über die Plage des Hagels, denn seine Plage ist sehr groß. ^c^ 
+^17^ Und der siebente Engel goss aus seine Schale in die Luft; und es ging aus eine Stimme vom Himmel aus dem Stuhl, die sprach: Es ist geschehen. ^18^ Und es wurden Stimmen und Donner und Blitze; und ward ein großes Erdbeben, wie solches nicht gewesen ist, seit Menschen auf Erden gewesen sind, solch Erdbeben also groß. ^19^ Und aus der großen Stadt wurden drei Teile, und die Städte der Heiden fielen. Und Babylon, der großen, ward gedacht vor Gott, ihr zu geben den Kelch des Weins von seinem grimmigen Zorn. ^a^ ^20^ Und alle Inseln entflohen, und keine Berge wurden gefunden. ^b^ ^21^ Und ein großer Hagel, wie ein Zentner, fiel vom Himmel auf die Menschen; und die Menschen lästerten Gott über die Plage des Hagels, denn seine Plage ist sehr groß.^c^ 
 ^a^[**16:19** Offb 14,8-10] ^b^[**16:20** Offb 6,14] ^c^[**16:21** 2Mo 9,23]
 
 # 17
@@ -328,7 +328,7 @@
 ^a^[**17:9** Offb 13,18] ^b^[**17:14** Offb 19,14; Offb 19,16]
 
 ## Interpretación de la imagen
-^15^ Und er sprach zu mir: Die Wasser, die du gesehen hast, da die Hure sitzt, sind Völker und Scharen und Heiden und Sprachen. ^a^ ^16^ Und die zehn Hörner, die du gesehen hast, und das Tier, die werden die Hure hassen und werden sie einsam machen und bloß und werden ihr Fleisch essen und werden sie mit Feuer verbrennen. ^17^ Denn Gott hat's ihnen gegeben in ihr Herz, zu tun seine Meinung und zu tun einerlei Meinung und zu geben ihr Reich dem Tier, bis dass vollendet werden die Worte Gottes. ^18^ Und das Weib, das du gesehen hast, ist die große Stadt, die das Reich hat über die Könige auf Erden. ^b^ 
+^15^ Und er sprach zu mir: Die Wasser, die du gesehen hast, da die Hure sitzt, sind Völker und Scharen und Heiden und Sprachen. ^a^ ^16^ Und die zehn Hörner, die du gesehen hast, und das Tier, die werden die Hure hassen und werden sie einsam machen und bloß und werden ihr Fleisch essen und werden sie mit Feuer verbrennen. ^17^ Denn Gott hat's ihnen gegeben in ihr Herz, zu tun seine Meinung und zu tun einerlei Meinung und zu geben ihr Reich dem Tier, bis dass vollendet werden die Worte Gottes. ^18^ Und das Weib, das du gesehen hast, ist die große Stadt, die das Reich hat über die Könige auf Erden.^b^ 
 ^a^[**17:15** Jes 8,7; Jer 47,2] ^b^[**17:18** Offb 18,10]
 
 # 18
@@ -348,7 +348,7 @@
 ^20^ Freue dich über sie, Himmel und ihr Heiligen und Apostel und Propheten; denn Gott hat euer Urteil an ihr gerichtet! 
 
 ## El signo simbólico de la aniquilación; la desolación que prevalece en la ciudad destruida
-^21^ Und ein starker Engel hob einen großen Stein auf wie einen Mühlstein, warf ihn ins Meer und sprach: Also wird mit einem Sturm verworfen die große Stadt Babylon und nicht mehr gefunden werden. ^a^ ^22^ Und die Stimme der Sänger und Saitenspieler, Pfeifer und Posauner soll nicht mehr in dir gehört werden, und kein Handwerksmann irgendeines Handwerks soll mehr in dir gefunden werden, und die Stimme der Mühle soll nicht mehr in dir gehört werden, ^b^ ^23^ und das Licht der Leuchte soll nicht mehr in dir leuchten, und die Stimme des Bräutigams und der Braut soll nicht mehr in dir gehört werden! Denn deine Kaufleute waren Fürsten auf Erden; denn durch deine Zauberei sind verführt worden alle Heiden. ^c^ ^24^ Und das Blut der Propheten und der Heiligen ist in ihr gefunden worden und all derer, die auf Erden erwürgt sind. ^d^ 
+^21^ Und ein starker Engel hob einen großen Stein auf wie einen Mühlstein, warf ihn ins Meer und sprach: Also wird mit einem Sturm verworfen die große Stadt Babylon und nicht mehr gefunden werden. ^a^ ^22^ Und die Stimme der Sänger und Saitenspieler, Pfeifer und Posauner soll nicht mehr in dir gehört werden, und kein Handwerksmann irgendeines Handwerks soll mehr in dir gefunden werden, und die Stimme der Mühle soll nicht mehr in dir gehört werden, ^b^ ^23^ und das Licht der Leuchte soll nicht mehr in dir leuchten, und die Stimme des Bräutigams und der Braut soll nicht mehr in dir gehört werden! Denn deine Kaufleute waren Fürsten auf Erden; denn durch deine Zauberei sind verführt worden alle Heiden. ^c^ ^24^ Und das Blut der Propheten und der Heiligen ist in ihr gefunden worden und all derer, die auf Erden erwürgt sind.^d^ 
 ^a^[**18:21** Jer 51,63-64] ^b^[**18:22** Jes 24,8; Hes 26,13] ^c^[**18:23** Jer 25,10; Jes 23,8] ^d^[**18:24** Offb 6,10; Offb 17,6]
 
 # 19

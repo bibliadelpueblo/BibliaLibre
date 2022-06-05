@@ -67,7 +67,7 @@
 ^9^ So ist's ja besser zwei als eins; denn sie genießen doch ihrer Arbeit wohl. ^10^ Fällt ihrer einer, so hilft ihm sein Gesell auf. Weh dem, der allein ist! Wenn er fällt, so ist kein anderer da, der ihm aufhelfe. ^11^ Auch wenn zwei beieinander liegen, wärmen sie sich; wie kann ein einzelner warm werden? ^12^ Einer mag überwältigt werden, aber zwei mögen widerstehen; und eine dreifältige Schnur reißt nicht leicht entzwei. 
 
 ## Comunicación de un evento histórico que confirma la observación del predicador de que el favor popular no es confiable
-^13^ Ein armes Kind, das weise ist, ist besser denn ein alter König, der ein Narr ist und weiß sich nicht zu hüten. ^14^ Es kommt einer aus dem Gefängnis zum Königreich; und einer, der in seinem Königreich geboren ist, verarmt. ^15^ Und ich sah, dass alle Lebendigen unter der Sonne wandelten bei dem anderen, dem Kinde, das an jenes Statt sollte aufkommen. ^16^ Und des Volks, das vor ihm ging, war kein Ende und des, das ihm nachging; und wurden sein doch nicht froh. Das ist auch eitel und Mühe um Wind. ^a^ ^17^ Bewahre deinen Fuß, wenn du zum Hause Gottes gehst, und komme, dass du hörest. Das ist besser als der Narren Opfer; denn sie wissen nicht, was sie Böses tun. ^b^ 
+^13^ Ein armes Kind, das weise ist, ist besser denn ein alter König, der ein Narr ist und weiß sich nicht zu hüten. ^14^ Es kommt einer aus dem Gefängnis zum Königreich; und einer, der in seinem Königreich geboren ist, verarmt. ^15^ Und ich sah, dass alle Lebendigen unter der Sonne wandelten bei dem anderen, dem Kinde, das an jenes Statt sollte aufkommen. ^16^ Und des Volks, das vor ihm ging, war kein Ende und des, das ihm nachging; und wurden sein doch nicht froh. Das ist auch eitel und Mühe um Wind. ^a^ ^17^ Bewahre deinen Fuß, wenn du zum Hause Gottes gehst, und komme, dass du hörest. Das ist besser als der Narren Opfer; denn sie wissen nicht, was sie Böses tun.^b^ 
 ^a^[**4:16** Pred 1,14] ^b^[**4:17** 1Sam 15,22]
 
 # 5
@@ -100,7 +100,7 @@
 ^7^ Alle Arbeit des Menschen ist für seinen Mund; aber doch wird die Seele nicht davon satt. ^8^ Denn was hat ein Weiser mehr als ein Narr? Was hilft's den Armen, dass er weiß zu wandeln vor den Lebendigen? ^9^ Es ist besser, das gegenwärtige Gut gebrauchen, denn nach anderem gedenken. Das ist auch Eitelkeit und Haschen nach Wind. 
 
 ## La impotencia humana en relación con la predestinación divina de todas las cosas (especialmente la vida de personas individuales)
-^10^ Was da ist, des Name ist zuvor genannt, und es ist bestimmt, was ein Mensch sein wird; und er kann nicht hadern mit dem, der ihm zu mächtig ist. ^11^ Denn es ist des eitlen Dings zuviel; was hat ein Mensch davon? ^12^ Denn wer weiß, was dem Menschen nütze ist im Leben, solange er lebt in seiner Eitelkeit, welches dahinfährt wie ein Schatten? Oder wer will dem Menschen sagen, was nach ihm kommen wird unter der Sonne? ^a^ 
+^10^ Was da ist, des Name ist zuvor genannt, und es ist bestimmt, was ein Mensch sein wird; und er kann nicht hadern mit dem, der ihm zu mächtig ist. ^11^ Denn es ist des eitlen Dings zuviel; was hat ein Mensch davon? ^12^ Denn wer weiß, was dem Menschen nütze ist im Leben, solange er lebt in seiner Eitelkeit, welches dahinfährt wie ein Schatten? Oder wer will dem Menschen sagen, was nach ihm kommen wird unter der Sonne?^a^ 
 ^a^[**6:12** 1Chr 29,15; Ps 90,5]
 
 # 7
@@ -145,7 +145,7 @@
 ^a^[**8:14** Pred 7,15] ^b^[**8:15** Pred 2,24]
 
 ## El gobierno de Dios en el gobierno mundial es insondable para el hombre
-^16^ Ich gab mein Herz, zu wissen die Weisheit und zu schauen die Mühe, die auf Erden geschieht, dass auch einer weder Tag noch Nacht den Schlaf sieht mit seinen Augen. ^17^ Und ich sah alle Werke Gottes, dass ein Mensch das Werk nicht finden kann, das unter der Sonne geschieht; und je mehr der Mensch arbeitet, zu suchen, je weniger er findet. Wenn er gleich spricht: „Ich bin weise und weiß es“, so kann er's doch nicht finden. ^a^ 
+^16^ Ich gab mein Herz, zu wissen die Weisheit und zu schauen die Mühe, die auf Erden geschieht, dass auch einer weder Tag noch Nacht den Schlaf sieht mit seinen Augen. ^17^ Und ich sah alle Werke Gottes, dass ein Mensch das Werk nicht finden kann, das unter der Sonne geschieht; und je mehr der Mensch arbeitet, zu suchen, je weniger er findet. Wenn er gleich spricht: „Ich bin weise und weiß es“, so kann er's doch nicht finden.^a^ 
 ^a^[**8:17** Pred 3,11]
 
 # 9
@@ -172,7 +172,7 @@
 ^11^ Ein Schwätzer ist nichts Besseres denn eine Schlange, die ohne Beschwörung sticht. ^12^ Die Worte aus dem Mund eines Weisen sind holdselig; aber des Narren Lippen verschlingen ihn selbst. ^13^ Der Anfang seiner Worte ist Narrheit, und das Ende ist schädliche Torheit. ^14^ Ein Narr macht viele Worte; aber der Mensch weiß nicht, was gewesen ist, und wer will ihm sagen, was nach ihm werden wird? ^a^ 
 ^a^[**10:14** Pred 5,2; Pred 8,7]
 
-^15^ Die Arbeit der Narren wird ihnen sauer, weil sie nicht wissen in die Stadt zu gehen. ^16^ Weh dir, Land, dessen König ein Kind ist und dessen Fürsten in der Frühe speisen! ^17^ Wohl dir, Land, dessen König edel ist und dessen Fürsten zu rechter Zeit speisen, zur Stärke und nicht zur Lust! ^18^ Denn durch Faulheit sinken die Balken, und durch lässige Hände wird das Haus triefend. ^a^ ^19^ Das macht, sie halten Mahlzeiten, um zu lachen, und der Wein muss die Lebendigen erfreuen, und das Geld muss ihnen alles zuwege bringen. ^b^ ^20^ Fluche dem König nicht in deinem Herzen und fluche dem Reichen nicht in deiner Schlafkammer; denn die Vögel des Himmels führen die Stimme fort, und die Fittiche haben, sagen's weiter. ^c^ 
+^15^ Die Arbeit der Narren wird ihnen sauer, weil sie nicht wissen in die Stadt zu gehen. ^16^ Weh dir, Land, dessen König ein Kind ist und dessen Fürsten in der Frühe speisen! ^17^ Wohl dir, Land, dessen König edel ist und dessen Fürsten zu rechter Zeit speisen, zur Stärke und nicht zur Lust! ^18^ Denn durch Faulheit sinken die Balken, und durch lässige Hände wird das Haus triefend. ^a^ ^19^ Das macht, sie halten Mahlzeiten, um zu lachen, und der Wein muss die Lebendigen erfreuen, und das Geld muss ihnen alles zuwege bringen. ^b^ ^20^ Fluche dem König nicht in deinem Herzen und fluche dem Reichen nicht in deiner Schlafkammer; denn die Vögel des Himmels führen die Stimme fort, und die Fittiche haben, sagen's weiter.^c^ 
 ^a^[**10:18** Spr 19,15] ^b^[**10:19** Ri 9,13; Ps 104,15] ^c^[**10:20** 2Mo 22,27]
 
 # 11

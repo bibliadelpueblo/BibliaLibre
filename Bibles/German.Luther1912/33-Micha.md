@@ -20,7 +20,7 @@
 ^a^[**2:6** Am 7,16] ^b^[**2:7** Am 6,3]
 
 ## Reunir y liberar al resto de Israel
-^12^ Ich will aber dich, Jakob, versammeln ganz und die Übrigen in Israel zuhauf bringen; ich will sie wie Schafe miteinander in einen festen Stall tun und wie eine Herde in ihre Hürden, dass es von Menschen tönen soll. ^13^ Es wird ein Durchbrecher vor ihnen herauffahren; sie werden durchbrechen und zum Tor ausziehen; und ihr König wird vor ihnen her gehen und der HErr vornean. ^a^ 
+^12^ Ich will aber dich, Jakob, versammeln ganz und die Übrigen in Israel zuhauf bringen; ich will sie wie Schafe miteinander in einen festen Stall tun und wie eine Herde in ihre Hürden, dass es von Menschen tönen soll. ^13^ Es wird ein Durchbrecher vor ihnen herauffahren; sie werden durchbrechen und zum Tor ausziehen; und ihr König wird vor ihnen her gehen und der HErr vornean.^a^ 
 ^a^[**2:13** Jes 52,12]
 
 # 3
@@ -32,7 +32,7 @@
 ^a^[**3:8** Jes 58,1]
 
 ## Anuncio de la caída de Jerusalén
-^9^ So höret doch dies, ihr Häupter im Hause Jakob und ihr Fürsten im Hause Israel, die ihr das Recht verschmähet und alles, was aufrichtig ist, verkehret; ^10^ die ihr Zion mit Blut bauet und Jerusalem mit Unrecht: ^11^ Ihre Häupter richten um Geschenke, ihre Priester lehren um Lohn, und ihre Propheten wahrsagen um Geld, verlassen sich auf den HErrn und sprechen: Ist nicht der HErr unter uns? Es kann kein Unglück über uns kommen. ^a^ ^12^ Darum wird Zion um euretwillen wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen werden und der Berg des Tempels zu einer wilden Höhe. ^b^ 
+^9^ So höret doch dies, ihr Häupter im Hause Jakob und ihr Fürsten im Hause Israel, die ihr das Recht verschmähet und alles, was aufrichtig ist, verkehret; ^10^ die ihr Zion mit Blut bauet und Jerusalem mit Unrecht: ^11^ Ihre Häupter richten um Geschenke, ihre Priester lehren um Lohn, und ihre Propheten wahrsagen um Geld, verlassen sich auf den HErrn und sprechen: Ist nicht der HErr unter uns? Es kann kein Unglück über uns kommen. ^a^ ^12^ Darum wird Zion um euretwillen wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen werden und der Berg des Tempels zu einer wilden Höhe.^b^ 
 ^a^[**3:11** Jer 7,4] ^b^[**3:12** Jer 9,10; Jer 26,18]
 
 # 4
@@ -78,7 +78,7 @@
 ^a^[**6:6** Jes 1,11; Am 5,21; Am 1,5-22]
 
 ## El juicio aplastante sobre la deshonestidad del pueblo de Jerusalén
-^9^ Es wird des HErrn Stimme über die Stadt rufen; aber wer deinen Namen fürchtet, dem wird's gelingen. Höret, ihr Stämme, was gepredigt wird! ^10^ Noch bleibt unrecht Gut in des Gottlosen Hause und das heillose geringe Maß. ^a^ ^11^ Oder sollte ich die unrechte Waage und falsche Gewichte im Beutel billigen, ^12^ durch welche ihre Reichen viel Unrecht tun? Und ihre Einwohner gehen mit Lügen um und haben falsche Zungen in ihrem Halse. ^13^ Darum will ich dich auch übel plagen und dich um deiner Sünden willen wüst machen. ^14^ Du sollst nicht genug zu essen haben und sollst verschmachten. Und was du beiseite schaffst, soll doch nicht davonkommen; und was davonkommt, will ich doch dem Schwert überantworten. ^15^ Du sollst säen, und nicht ernten; du sollst Öl keltern, und dich damit nicht salben, und Most keltern, und nicht Wein trinken. ^16^ Denn man hält die Weise Omris und alle Werke des Hauses Ahab und folgt ihrem Rat. Darum will ich dich zur Wüste machen und ihre Einwohner, dass man sie anpfeifen soll; und ihr sollt meines Volkes Schmach tragen. ^b^ 
+^9^ Es wird des HErrn Stimme über die Stadt rufen; aber wer deinen Namen fürchtet, dem wird's gelingen. Höret, ihr Stämme, was gepredigt wird! ^10^ Noch bleibt unrecht Gut in des Gottlosen Hause und das heillose geringe Maß. ^a^ ^11^ Oder sollte ich die unrechte Waage und falsche Gewichte im Beutel billigen, ^12^ durch welche ihre Reichen viel Unrecht tun? Und ihre Einwohner gehen mit Lügen um und haben falsche Zungen in ihrem Halse. ^13^ Darum will ich dich auch übel plagen und dich um deiner Sünden willen wüst machen. ^14^ Du sollst nicht genug zu essen haben und sollst verschmachten. Und was du beiseite schaffst, soll doch nicht davonkommen; und was davonkommt, will ich doch dem Schwert überantworten. ^15^ Du sollst säen, und nicht ernten; du sollst Öl keltern, und dich damit nicht salben, und Most keltern, und nicht Wein trinken. ^16^ Denn man hält die Weise Omris und alle Werke des Hauses Ahab und folgt ihrem Rat. Darum will ich dich zur Wüste machen und ihre Einwohner, dass man sie anpfeifen soll; und ihr sollt meines Volkes Schmach tragen.^b^ 
 ^a^[**6:10** Am 8,5] ^b^[**6:16** 1Kö 16,25; 1Kö 16,29-33]
 
 # 7

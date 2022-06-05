@@ -125,7 +125,7 @@
 ^28^ Die Mutter Siseras sah zum Fenster hinaus und heulte durchs Gitter: Warum verzieht sein Wagen, dass er nicht kommt? Wie bleiben die Räder seiner Wagen so dahinten? ^29^ Die weisesten unter ihren Frauen antworteten, da sie ihre Klageworte immer wiederholte: ^30^ Sollen sie denn nicht finden und austeilen den Raub, einem jeglichen Mann eine Dirne oder zwei zur Ausbeute und Sisera bunte gestickte Kleider zur Ausbeute, gestickte bunte Kleider um dem Hals zur Ausbeute? 
 
 ## El canto del cisne
-^31^ Also müssen umkommen, HErr, alle deine Feinde! Die ihn aber liebhaben, müssen sein, wie die Sonne aufgeht in ihrer Macht! – Und das Land war still 40 Jahre. ^a^ 
+^31^ Also müssen umkommen, HErr, alle deine Feinde! Die ihn aber liebhaben, müssen sein, wie die Sonne aufgeht in ihrer Macht! – Und das Land war still 40 Jahre.^a^ 
 ^a^[**5:31** Ri 3,11]
 
 # 6
@@ -255,7 +255,7 @@
 ^a^[**8:32** Ri 6,11]
 
 ## Nueva apostasía de los israelitas de Dios y su ingratitud hacia Gedeón
-^33^ Da aber Gideon gestorben war, kehrten sich die Kinder Israel um und liefen den Baalim nach und machten sich Baal-Berith zum Gott. ^a^ ^34^ Und die Kinder Israel gedachten nicht an den HErrn, ihren Gott, der sie errettet hatte von der Hand aller ihrer Feinde umher, ^35^ und taten nicht Barmherzigkeit an dem Hause des Jerubbaal Gideon, wie er alles Gute an Israel getan hatte. ^b^ 
+^33^ Da aber Gideon gestorben war, kehrten sich die Kinder Israel um und liefen den Baalim nach und machten sich Baal-Berith zum Gott. ^a^ ^34^ Und die Kinder Israel gedachten nicht an den HErrn, ihren Gott, der sie errettet hatte von der Hand aller ihrer Feinde umher, ^35^ und taten nicht Barmherzigkeit an dem Hause des Jerubbaal Gideon, wie er alles Gute an Israel getan hatte.^b^ 
 ^a^[**8:33** Ri 2,11; Ri 9,4] ^b^[**8:35** Ri 9,5; Ri 9,19; Ri 9,24]
 
 # 9
@@ -314,7 +314,7 @@
 
 ^54^ Da rief Abimelech eilend dem Diener, der seine Waffen trug, und sprach zu ihm: Zieh dein Schwert aus und töte mich, dass man nicht von mir sage: Ein Weib hat ihn erwürgt. Da durchstach ihn sein Diener, und er starb. 
 
-^55^ Da aber die Israeliten, die mit ihm waren, sahen, dass Abimelech tot war, ging ein jeglicher an seinen Ort. ^56^ Also bezahlte Gott Abimelech das Übel, das er an seinem Vater getan hatte, da er seine 70 Brüder erwürgte; ^a^ ^57^ desgleichen alles Übel der Männer Sichems vergalt ihnen Gott auf ihren Kopf, und es kam über sie der Fluch Jothams, des Sohnes Serubbaals. ^b^ 
+^55^ Da aber die Israeliten, die mit ihm waren, sahen, dass Abimelech tot war, ging ein jeglicher an seinen Ort. ^56^ Also bezahlte Gott Abimelech das Übel, das er an seinem Vater getan hatte, da er seine 70 Brüder erwürgte; ^a^ ^57^ desgleichen alles Übel der Männer Sichems vergalt ihnen Gott auf ihren Kopf, und es kam über sie der Fluch Jothams, des Sohnes Serubbaals.^b^ 
 ^a^[**9:56** Ri 9,5] ^b^[**9:57** Ri 9,20]
 
 # 10
@@ -333,7 +333,7 @@
 ^15^ Aber die Kinder Israel sprachen zu dem HErrn: Wir haben gesündigt, mache es nur du mit uns, wie dir's gefällt; allein errette uns zu dieser Zeit. ^16^ Und sie taten von sich die fremden Götter und dienten dem HErrn. Und es jammerte ihn, dass Israel so geplagt ward. 
 
 ## El llamado de Jefté a juzgar
-^17^ Und die Kinder Ammon kamen zuhauf und lagerten sich in Gilead; aber die Kinder Israel versammelten sich und lagerten sich zu Mizpa. ^18^ Und die Obersten des Volks zu Gilead sprachen untereinander: Welcher anfängt zu streiten wider die Kinder Ammon, der soll das Haupt sein über alle, die in Gilead wohnen. ^a^ 
+^17^ Und die Kinder Ammon kamen zuhauf und lagerten sich in Gilead; aber die Kinder Israel versammelten sich und lagerten sich zu Mizpa. ^18^ Und die Obersten des Volks zu Gilead sprachen untereinander: Welcher anfängt zu streiten wider die Kinder Ammon, der soll das Haupt sein über alle, die in Gilead wohnen.^a^ 
 ^a^[**10:18** Ri 11,6-11]
 
 # 11
@@ -430,7 +430,7 @@
 ^23^ Aber sein Weib antwortete ihm: Wenn der HErr Lust hätte, uns zu töten, so hätte er das Brandopfer und Speisopfer nicht genommen von unseren Händen; er hätte uns auch nicht solches alles erzeigt noch uns solches hören lassen, wie jetzt geschehen ist. ^24^ Und das Weib gebar einen Sohn und hieß ihn Simson. Und der Knabe wuchs, und der HErr segnete ihn. 
 
 ## El noviazgo de los Simpson para una mujer filistea; su desgarro de un león, su boda, su acertijo y su venganza
-^25^ Und der Geist des HErrn fing an, ihn zu treiben im Lager Dan zwischen Zora und Esthaol. ^a^ 
+^25^ Und der Geist des HErrn fing an, ihn zu treiben im Lager Dan zwischen Zora und Esthaol.^a^ 
 ^a^[**13:25** Ri 6,34; Ri 14,6; Ri 14,19; Ri 15,14]
 
 # 14
@@ -453,7 +453,7 @@
 
 ^17^ Und sie weinte die sieben Tage vor ihm, da sie Hochzeit hatten; aber am siebenten Tage sagte er's ihr, denn sie drängte ihn. Und sie sagte das Rätsel ihres Volkes Kindern. ^18^ Da sprachen die Männer der Stadt zu ihm am siebenten Tage, ehe die Sonne unterging: Was ist süßer denn Honig? Was ist stärker denn der Löwe? Aber er sprach zu ihnen: Wenn ihr nicht hättet mit meinem Kalb gepflügt, ihr hättet mein Rätsel nicht getroffen. 
 
-^19^ Und der Geist des HErrn geriet über ihn, und er ging hinab gen Askalon und schlug 30 Mann unter ihnen und nahm ihr Gewand und gab Feierkleider denen, die das Rätsel erraten hatten. Und ergrimmte in seinem Zorn und ging herauf in seines Vaters Haus. ^20^ Aber Simsons Weib ward einem seiner Gesellen gegeben, der ihm zugehörte. ^a^ 
+^19^ Und der Geist des HErrn geriet über ihn, und er ging hinab gen Askalon und schlug 30 Mann unter ihnen und nahm ihr Gewand und gab Feierkleider denen, die das Rätsel erraten hatten. Und ergrimmte in seinem Zorn und ging herauf in seines Vaters Haus. ^20^ Aber Simsons Weib ward einem seiner Gesellen gegeben, der ihm zugehörte.^a^ 
 ^a^[**14:20** Ri 15,2]
 
 # 15
@@ -484,7 +484,7 @@
 
 ^18^ Da ihn aber sehr dürstete, rief er den HErrn an und sprach: Du hast solch großes Heil gegeben durch die Hand deines Knechtes; nun aber muss ich Durstes sterben und in der Unbeschnittenen Hände fallen. 
 
-^19^ Da spaltete Gott die Höhlung in Lehi, dass Wasser herausging; und als er trank, kam sein Geist wieder, und er ward erquickt. Darum heißt er noch heutigestages „des Anrufers Brunnen“, der in Lehi ist. ^20^ Und er richtete Israel zu der Philister Zeit 20 Jahre. ^a^ 
+^19^ Da spaltete Gott die Höhlung in Lehi, dass Wasser herausging; und als er trank, kam sein Geist wieder, und er ward erquickt. Darum heißt er noch heutigestages „des Anrufers Brunnen“, der in Lehi ist. ^20^ Und er richtete Israel zu der Philister Zeit 20 Jahre.^a^ 
 ^a^[**15:20** Ri 16,31]
 
 # 16
@@ -584,7 +584,7 @@
 ^26^ Also gingen die Kinder Dan ihres Weges. Und Micha, da er sah, dass sie ihm zu stark waren, wandte er sich um und kam wieder zu seinem Hause. 
 
 ## Los danitas conquistan Lais y establecieron allí el servicio de pinturas de Miqueas y el sacerdocio de Jonatán mosaico
-^27^ Sie aber nahmen, was Micha gemacht hatte, und den Priester, den er hatte, und kamen an Lais, an ein stilles, sicheres Volk, und schlugen es mit der Schärfe des Schwerts und verbrannten die Stadt mit Feuer. ^28^ Und war niemand, der sie errettete; denn sie lag fern von Sidon, und sie hatten mit den Leuten nichts zu schaffen; und sie lag im Grunde, welcher an Beth-Rehob liegt. Da bauten sie die Stadt und wohnten darin ^29^ und nannten sie Dan nach dem Namen ihres Vaters Dan, der Israel geboren war. (Und die Stadt hieß vorzeiten Lais.) ^a^ ^30^ Und die Kinder Dan richteten für sich auf das Bild. Und Jonathan, der Sohn Gersons, des Sohnes Manasses, und seine Söhne waren Priester unter dem Stamm der Daniter bis an die Zeit, da sie aus dem Lande gefangen geführt wurden. ^b^ ^31^ Also setzten sie unter sich das Bild Michas, das er gemacht hatte, so lange, als das Haus Gottes war zu Silo. ^c^ 
+^27^ Sie aber nahmen, was Micha gemacht hatte, und den Priester, den er hatte, und kamen an Lais, an ein stilles, sicheres Volk, und schlugen es mit der Schärfe des Schwerts und verbrannten die Stadt mit Feuer. ^28^ Und war niemand, der sie errettete; denn sie lag fern von Sidon, und sie hatten mit den Leuten nichts zu schaffen; und sie lag im Grunde, welcher an Beth-Rehob liegt. Da bauten sie die Stadt und wohnten darin ^29^ und nannten sie Dan nach dem Namen ihres Vaters Dan, der Israel geboren war. (Und die Stadt hieß vorzeiten Lais.) ^a^ ^30^ Und die Kinder Dan richteten für sich auf das Bild. Und Jonathan, der Sohn Gersons, des Sohnes Manasses, und seine Söhne waren Priester unter dem Stamm der Daniter bis an die Zeit, da sie aus dem Lande gefangen geführt wurden. ^b^ ^31^ Also setzten sie unter sich das Bild Michas, das er gemacht hatte, so lange, als das Haus Gottes war zu Silo.^c^ 
 ^a^[**18:29** Jos 19,47] ^b^[**18:30** 1Kö 12,29] ^c^[**18:31** Jos 18,1]
 
 # 19

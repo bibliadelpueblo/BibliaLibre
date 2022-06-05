@@ -130,7 +130,7 @@
 ^25^ Du aber, Esra, nach der Weisheit deines Gottes, die unter deiner Hand ist, setze Richter und Pfleger, die alles Volk richten, das jenseits des Wassers ist, alle, die das Gesetz deines Gottes wissen; und welche es nicht wissen, die lehret es. ^26^ Und ein jeglicher, der nicht mit Fleiß tun wird das Gesetz deines Gottes und das Gesetz des Königs, der soll sein Urteil um der Tat willen haben, es sei zum Tod oder in die Acht oder zur Buße am Gut oder ins Gefängnis. 
 
 ## Oración de acción de gracias de Esdras e inicio de su actividad
-^27^ Gelobet sei der HErr, unserer Väter Gott, der solches hat dem König eingegeben, dass er das Haus des HErrn zu Jerusalem ziere, ^28^ und hat zu mir Barmherzigkeit geneigt vor dem König und seinen Ratsherren und allen Gewaltigen des Königs! Und ich ward getrost nach der Hand des HErrn, meines Gottes, über mir und versammelte Häupter aus Israel, dass sie mit mir hinaufzögen. ^a^ 
+^27^ Gelobet sei der HErr, unserer Väter Gott, der solches hat dem König eingegeben, dass er das Haus des HErrn zu Jerusalem ziere, ^28^ und hat zu mir Barmherzigkeit geneigt vor dem König und seinen Ratsherren und allen Gewaltigen des Königs! Und ich ward getrost nach der Hand des HErrn, meines Gottes, über mir und versammelte Häupter aus Israel, dass sie mit mir hinaufzögen.^a^ 
 ^a^[**7:28** Esr 7,6]
 
 # 8
@@ -152,7 +152,7 @@
 ## Llegada a Jerusalén; Entrega de los obsequios votivos; Hacer ofrendas; Apoyo de funcionarios reales
 ^31^ Also brachen wir auf von dem Wasser Ahava am zwölften Tage des ersten Monats, dass wir gen Jerusalem zögen. Und die Hand unseres Gottes war über uns und errettete uns von der Hand der Feinde und derer, die uns nachstellten auf dem Wege. ^32^ Und wir kamen gen Jerusalem und blieben daselbst drei Tage. ^33^ Aber am vierten Tage wurden dargewogen das Silber und Gold und die Gefäße ins Haus unseres Gottes unter die Hand des Priesters Meremoth, des Sohnes Urias, und mit ihm Eleasar, dem Sohn des Pinehas, und mit ihnen Josabad, dem Sohn Jesuas, und Noadja, dem Sohn Binnuis, den Leviten, ^34^ nach Zahl und Gewicht eines jeglichen; und das Gewicht ward zu der Zeit alles aufgeschrieben. 
 
-^35^ Und die Kinder der Gefangenschaft, die aus der Gefangenschaft gekommen waren, opferten Brandopfer dem Gott Israels: 12 Farren für das ganze Israel, 96 Widder, 77 Lämmer, zwölf Böcke zum Sündopfer, alles zum Brandopfer dem HErrn. ^36^ Und sie überantworteten des Königs Befehle den Amtleuten des Königs und den Landpflegern diesseits des Wassers. Und diese halfen dem Volk und dem Hause Gottes. ^a^ 
+^35^ Und die Kinder der Gefangenschaft, die aus der Gefangenschaft gekommen waren, opferten Brandopfer dem Gott Israels: 12 Farren für das ganze Israel, 96 Widder, 77 Lämmer, zwölf Böcke zum Sündopfer, alles zum Brandopfer dem HErrn. ^36^ Und sie überantworteten des Königs Befehle den Amtleuten des Königs und den Landpflegern diesseits des Wassers. Und diese halfen dem Volk und dem Hause Gottes.^a^ 
 ^a^[**8:36** Esr 7,12-26]
 
 # 9
@@ -169,7 +169,7 @@
 ^10^ Nun, was sollen wir sagen, unser Gott, nach diesem, dass wir deine Gebote verlassen haben, ^11^ die du durch deine Knechte, die Propheten, geboten hast und gesagt: Das Land, darein ihr kommt, es zu erben, ist ein unreines Land durch die Unreinigkeit der Völker in den Ländern in ihren Gräueln, womit sie es an allen Enden voll Unreinigkeit gemacht haben. ^a^ ^12^ So sollt ihr nun eure Töchter nicht geben ihren Söhnen, und ihre Töchter sollt ihr euren Söhnen nicht nehmen; und suchet nicht ihren Frieden noch ihr Gutes ewiglich, auf dass ihr mächtig werdet und esset das Gut im Lande und vererbet es auf eure Kinder ewiglich. ^b^ 
 ^a^[**9:11** 3Mo 18,24-25] ^b^[**9:12** 5Mo 7,2-3]
 
-^13^ Und nach dem allem, was über uns gekommen ist um unserer bösen Werke und großer Schuld willen, hast du, unser Gott, unsere Missetat verschont und hast uns eine Errettung gegeben, wie es da steht. ^14^ Sollten wir wiederum deine Gebote lassen fahren, dadurch dass wir uns mit den Völkern dieser Gräuel verschwägerten? Wirst du nicht über uns zürnen, bis dass es ganz aus sei, dass nichts Übriges noch keine Errettung sei? ^15^ HErr, Gott Israels, du bist gerecht; denn wir sind übriggeblieben als Errettete, wie es heutigestages steht. Siehe, wir sind vor dir in unserer Schuld; denn um deswillen ist nicht zu bestehen vor dir. ^a^ 
+^13^ Und nach dem allem, was über uns gekommen ist um unserer bösen Werke und großer Schuld willen, hast du, unser Gott, unsere Missetat verschont und hast uns eine Errettung gegeben, wie es da steht. ^14^ Sollten wir wiederum deine Gebote lassen fahren, dadurch dass wir uns mit den Völkern dieser Gräuel verschwägerten? Wirst du nicht über uns zürnen, bis dass es ganz aus sei, dass nichts Übriges noch keine Errettung sei? ^15^ HErr, Gott Israels, du bist gerecht; denn wir sind übriggeblieben als Errettete, wie es heutigestages steht. Siehe, wir sind vor dir in unserer Schuld; denn um deswillen ist nicht zu bestehen vor dir.^a^ 
 ^a^[**9:15** Neh 9,33]
 
 # 10
