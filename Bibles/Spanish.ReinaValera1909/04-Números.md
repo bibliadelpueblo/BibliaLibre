@@ -516,7 +516,7 @@
 ^14^ Respondió Jehová á Moisés: Pues si su padre hubiera escupido en su cara, ¿no se avergonzaría por siete días?: sea echada fuera del real por siete días, y después se reunirá. ^a^ 
 ^a^[**12:14** Lev 13,46]
 
-^15^ Así María fué echada del real siete días; y el pueblo no pasó adelante hasta que se le reunió María. ^16^ 
+^15^ Así María fué echada del real siete días; y el pueblo no pasó adelante hasta que se le reunió María.
 
 # 13 
 ## Envío de los doce exploradores
@@ -1065,7 +1065,7 @@
 ^35^ El octavo día tendréis solemnidad: ninguna obra servil haréis: ^36^ Y ofreceréis en holocausto, en ofrenda encendida de olor suave á Jehová, un novillo, un carnero, siete corderos de un año sin defecto; ^37^ Sus presentes y sus libaciones con el novillo, con el carnero, y con los corderos, según el número de ellos, conforme á la ley; ^38^ Y un macho cabrío por expiación: además del holocausto continuo, con su presente y su libación. 
 
 ## Sentencia final de las leyes de víctimas
-^39^ Estas cosas ofreceréis á Jehová en vuestras solemnidades, además de vuestros votos, y de vuestras ofrendas libres, para vuestros holocaustos, y para vuestros presentes, y para vuestras libaciones, y para vuestras paces. ^40^ 
+^39^ Estas cosas ofreceréis á Jehová en vuestras solemnidades, además de vuestros votos, y de vuestras ofrendas libres, para vuestros holocaustos, y para vuestros presentes, y para vuestras libaciones, y para vuestras paces. 
 
 # 30 
 ^1^ Y Moisés dijo á los hijos de Israel, conforme á todo lo que Jehová le había mandado. 

@@ -2,7 +2,7 @@
 
 ### Die Überschrift des ganzen Buches
 
- # 1
+# 1
 ^1^ (Dies ist) das Wort des HERRN, das an Hosea, den Sohn Beeris, ergangen ist in den Tagen der judäischen Könige Ussia, Jotham, Ahas und Hiskia und in den Tagen des israelitischen Königs Jerobeam, des Sohnes des Joas.
 
 ## I. Sinnbildlicher Teil: Der Ehebund Gottes mit seinem Volke Israel (Kap. 1-3)
@@ -22,7 +22,7 @@
 
 #### Anhang: Dereinst, nach Eintritt glücklicherer Verhältnisse, werden die drei Unglücksnamen eine günstige Umdeutung erfahren
 
- # 2
+# 2
 ^1^ (Dereinst) jedoch wird die Zahl der Kinder Israel dem Sand am Meer gleichen, der sich nicht messen und nicht zählen läßt; und es wird geschehen: statt daß man jetzt zu<sup title="oder: von">&#x2732;</sup> ihnen sagt: »Ihr seid ›Nicht-mein-Volk‹«, werden sie »Söhne des lebendigen Gottes« genannt werden.
 ^2^ Dann werden die Kinder Juda und die Kinder Israel sich zusammentun und über sich ein Oberhaupt setzen und aus dem Lande hinaufziehen; denn groß ist der Tag von Jesreel.
 ^3^ Sagt zu eurem Bruder<sup title="oder: nennt euren Bruder">&#x2732;</sup>: »Mein Volk« und zu eurer Schwester »Gnadenreiche«<sup title="oder: Vielgeliebte">&#x2732;</sup>!
@@ -60,7 +60,7 @@
 
 ### 3. Die Besserung des untreuen Volkes durch Zwang, dargestellt durch das Verhalten des Propheten gegen sein untreues Weib
 
- # 3
+# 3
 ^1^ Hierauf sagte der HERR zu mir: »Gehe noch einmal hin und liebe ein Weib, das sich von einem andern lieben läßt und Ehebruch treibt, gleichwie der HERR die Kinder Israel liebt, obwohl sie sich fremden Göttern zuwenden und Liebhaber von Traubenkuchen sind.«
 ^2^ So erkaufte ich mir denn (ein Weib) um fünfzehn Silberstücke und um anderthalb Scheffel Gerste,
 ^3^ sagte aber zu ihr: »Viele Tage lang sollst du mir still dasitzen, ohne Untreue zu begehen und ohne einem (andern) Manne anzugehören; und auch ich selbst werde nicht zu dir kommen<sup title="= eingehen">&#x2732;</sup>.«
@@ -73,7 +73,7 @@
 
 #### a) Erhebung der Anklage gegen das gottlose Volk
 
- # 4
+# 4
 ^1^ Vernehmt das Wort des HERRN, ihr Kinder Israel! Denn der HERR erhebt eine Anklage gegen die Bewohner des Landes, weil keine Treue, keine Liebe<sup title="oder: Frömmigkeit">&#x2732;</sup> und keine Gotteserkenntnis im Lande mehr vorhanden ist:
 ^2^ man schwört (falsch) und lügt, man mordet und stiehlt, man treibt Ehebruch und verübt Gewalttaten, so daß Blutschuld sich an Blutschuld reiht.
 ^3^ Darob muß das Land trauern<sup title="oder: verfallen">&#x2732;</sup>, und alles, was darin wohnt, welkt dahin bis zu den Tieren des Feldes und den Vögeln des Himmels; ja selbst die Fische im Meer vergehen!
@@ -107,7 +107,7 @@
 
 #### a) Worte Hoseas an die Priester und das Königshaus von Israel wegen ihrer Pflege des falschen Gottesdienstes
 
- # 5
+# 5
 ^1^ »Vernehmt dieses, ihr Priester, und merkt auf, ihr vom Hause Israel! Und ihr (Herren) vom Hofe des Königs, gebt acht! Denn euch steht das Gericht bevor, weil ihr eine Schlinge für Mizpa geworden seid und ein ausgespanntes Fangnetz auf dem Thabor
 ^2^ und eine tiefe Fallgrube zu Sittim; ich aber werde für sie alle eine Zuchtrute werden!
 ^3^ Ich kenne Ephraim wohl, und Israel ist mir nicht verborgen; denn soeben erst hast du Ehebruch<sup title="= Götzendienst">&#x2732;</sup> getrieben, Ephraim, und Israel hat sich verunreinigt.
@@ -131,7 +131,7 @@
 
 ^15^ »Ich will davongehen, mich an meine Wohnstätte zurückbegeben, bis sie sich schuldig fühlen und mein Angesicht suchen; wenn sie in Not sind, werden sie ernstliches Verlangen nach mir tragen (und sprechen):
 
- # 6
+# 6
 ^1^ ›Kommt, laßt uns zum HERRN umkehren! Denn er hat uns zerrissen und wird uns auch wieder heilen; er hat uns (blutig) geschlagen und wird uns auch verbinden;
 ^2^ schon nach zwei Tagen wird er uns genesen lassen, am dritten Tage uns wieder aufhelfen, daß wir vor seinen Augen<sup title="= in seiner Hut">&#x2732;</sup> leben<sup title="oder: neues Leben haben">&#x2732;</sup>.
 ^3^ So laßt uns denn zur Erkenntnis kommen, ja der Erkenntnis des HERRN nachtrachten! Er wird so sicher erscheinen wie das Morgenlicht und wird über uns<sup title="oder: zu unserm Heil">&#x2732;</sup> kommen wie der Regen, wie der Spätregen<sup title="= Frühjahrsregen">&#x2732;</sup>, der das Land tränkt.‹
@@ -150,7 +150,7 @@
 
 #### Die Verkommenheit Israels tritt in der politischen Zerrüttung (besonders in den Königsmorden) zutage
 
- # 7
+# 7
 ^1^ »Sooft ich Israel heilen will, treten die Verschuldung Ephraims und die Bosheit Samarias klar zutage; denn sie verüben Trug<sup title="oder: Meineid">&#x2732;</sup>, brechen als Diebe (in die Häuser) ein, plündern draußen als Räuberbanden.
 ^2^ Sie sagen sich nicht in ihrem Herzen, daß ich all ihrer Bosheit eingedenk bin; nunmehr stehen ihre Missetaten rings um sie her und sind vor meinen Augen offenbar.
 ^3^ Mit ihrer Bosheit erfreuen sie den König und mit ihrer Falschheit die Fürsten.
@@ -173,7 +173,7 @@
 
 #### e) Neuer Weckruf wegen der schweren Sünden Israels
 
- # 8
+# 8
 ^1^ »(Setze) die Posaune an den Mund! Ein dem Adler gleicher Feind stürzt sich auf das Haus des HERRN zur Strafe dafür, daß sie meinen Bund übertreten und gegen mein Gesetz sich aufgelehnt haben.
 ^2^ Sie werden mir nun laut zurufen: ›Mein Gott, wir kennen dich ja, wir Israeliten!‹
 ^3^ Israel hat das Heil zurückgestoßen (oder verworfen) – der Feind soll es dafür verfolgen<sup title="= vor sich her jagen">&#x2732;</sup>!
@@ -191,7 +191,7 @@
 
 #### f) Ankündigung des Gerichts der Verbannung bei einem Herbstfest
 
- # 9
+# 9
 ^1^ Freue dich nicht, Israel, (frohlocke) nicht wie die Heidenvölker, daß du von deinem Gott ehebrecherisch<sup title="= treulos">&#x2732;</sup> abgefallen bist und gern Buhlerlohn<sup title="vgl. 2,7; 1,4">&#x2732;</sup> auf allen Getreidetennen angenommen hast!
 ^2^ denn Tenne und Kelter werden sie nicht nähren<sup title="oder: verpflegen">&#x2732;</sup>, und der Most wird ihre Hoffnung täuschen.
 ^3^ Sie sollen im Lande des HERRN nicht wohnen bleiben, sondern Ephraim muß nach Ägypten zurückkehren, und in Assyrien werden sie unreine Speisen genießen.
@@ -222,7 +222,7 @@
 
 ##### aa) Verwüstung der Götzenstätten Israels
 
- # 10
+# 10
 ^1^ Ein üppig rankender Weinstock war Israel, (ein Weinstock,) der auch Früchte ansetzte; aber wie seine Früchte sich mehrten, so mehrten sich bei ihm auch die Altäre; je reicher sein Land trug, desto schönere Malsteine<sup title="oder: Standbilder Baals">&#x2732;</sup> fertigten sie an.
 ^2^ Untreu war ihr Herz: jetzt sollen sie es büßen! Ihre Altäre wird er<sup title="d.h. der HERR">&#x2732;</sup> zertrümmern, ihre Malsteine zerschlagen.
 ^3^ Sie sagen jetzt ja bereits: »Wir haben keinen König mehr! Denn den HERRN haben wir nicht gefürchtet, und der König – was kann der für uns tun?«
@@ -246,7 +246,7 @@
 
 #### c) Gottes anfängliche Liebe zu Israel wird schließlich über alle Undankbarkeit und Untreue des Volkes siegen
 
- # 11
+# 11
 ^1^ »Als Israel jung war, gewann ich es lieb, und aus Ägypten habe ich meinen Sohn gerufen.
 ^2^ Je öfter ich sie aber gerufen habe, desto weiter haben sie sich von mir entfernt, während sie den Baalen Schlachtopfer und den Schnitzbildern Weihrauch darbrachten.
 ^3^ Dennoch bin ich es gewesen, der Ephraim am Gängelbande geleitet und es auf die Arme genommen hat; aber sie haben nicht erkannt, daß ich ihr Arzt<sup title="oder: Heiland">&#x2732;</sup> bin.
@@ -265,7 +265,7 @@
 
 #### a) Das für das treulose Volk bezeichnende Vorbild seines Stammvaters Jakob
 
- # 12
+# 12
 ^1^ »Mit Treulosigkeit hat Ephraim mich umringt, mit Trug das Haus Israel«; auch Juda ist immer noch wankelmütig gegen Gott und gegen den Hochheiligen, der treu ist.
 ^2^ Ephraim hat seine Freude an windigem Treiben und jagt dem Ostwind nach: täglich wird es verlogener und eigenmächtiger; mit Assyrien schließen sie ein Bündnis, und nach Ägypten wird Öl gebracht.
 ^3^ Auch gegen Juda hat der HERR Anklage zu erheben, und er muß Jakob zur Rechenschaft ziehen wegen seines Verhaltens, nach seinem ganzen Tun ihm vergelten.
@@ -284,7 +284,7 @@
 
 #### b) Ephraims Verfehlungen (besonders sein Bilderdienst) als Grund des göttlichen Zorns und des unentrinnbaren Untergangs
 
- # 13
+# 13
 ^1^ Sooft Ephraim (nur) redete, herrschte Schrecken: hoch<sup title="= angesehen">&#x2732;</sup> stand es in Israel da; als es sich aber durch den Baalsdienst versündigte, starb es hin.
 ^2^ Und jetzt sündigen sie immer aufs neue: sie fertigen sich Gußbilder aus ihrem Silber an, Götzen nach ihrem Geschmack, allesamt Machwerke von Handwerkern<sup title="oder: Künstlern">&#x2732;</sup>. »Ihnen«, sagen sie, »bringet Opfer dar!« Menschen sollen Stiere küssen!
 ^3^ »Darum sollen sie dem Morgengewölk gleich werden und dem Tau, der gar bald verschwindet, wie Spreu, die von der Tenne verweht wird, und wie Rauch, der durch die Gitteröffnung abzieht.
@@ -307,7 +307,7 @@
 ^14^ Aus der Gewalt des Totenreiches sollte ich sie befreien, vom Tode sie loskaufen? Nein, wo sind deine Seuchen, o Tod? Wo ist deine Pest, o Unterwelt<sup title="= Hölle">&#x2732;</sup>? Mitleid ist meinen Augen unbekannt!
 ^15^ Denn mag Ephraim auch wie Riedgras zwischen Wassern üppig sprossen – der Ostwind wird kommen, ein Sturm des HERRN aus der Steppe hereinbrechen; da wird sein Born versiegen und sein Quellgrund vertrocknen: der<sup title="d.h. der als Ostwind heranstürmende Feind">&#x2732;</sup> wird die Schatzkammer aller kostbaren Kleinodien berauben.
 
- # 14
+# 14
 ^1^ Samaria soll für seine Auflehnung gegen seinen Gott büßen: durch das Schwert sollen sie fallen, ihre jungen Kinder sollen zerschmettert und ihre schwangeren Weiber aufgeschlitzt werden!«
 
 #### c) Das künftige Heil Israels im Falle der Bekehrung

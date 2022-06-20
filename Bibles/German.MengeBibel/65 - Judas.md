@@ -2,7 +2,7 @@
 
 ### 1. Zuschrift und Segensgruß; Zweck und Anlaß des Schreibens
 
- # 1
+# 1
 ^1^ Ich, Judas, ein Knecht Jesu Christi und ein Bruder des Jakobus<sup title="Mt 13,55">&#x2732;</sup>, sende meinen Gruß den Berufenen, die in Gott, dem Vater, geliebt und für Jesus Christus bewahrt sind.
 ^2^ Barmherzigkeit, Friede und Liebe mögen euch immer reichlicher zuteil werden!
 

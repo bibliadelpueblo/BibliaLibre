@@ -6,7 +6,7 @@
 
 #### a) Gottes Eroberungsauftrag und Ermutigung Josuas; Vorbereitungen zum Übergang über den Jordan
 
- # 1
+# 1
 <sup>1</sup>Nach dem Tode Moses, des Knechtes des HERRN, sagte der HERR zu Josua, dem Sohne Nuns, dem Diener Moses:
 <sup>2</sup>»Mein Knecht Mose ist tot; so mache du dich nun auf und ziehe über den Jordan dort, du und das ganze Volk da, in das Land hinüber, das ich ihnen, den Israeliten, geben will.
 <sup>3</sup>Allen Grund und Boden, auf den eure Fußsohle treten wird, gebe ich euch, wie ich es Mose zugesagt habe.
@@ -34,7 +34,7 @@
 
 #### b) Die Auskundschaftung von Jericho; die Errettung der beiden Kundschafter durch die Dirne Rahab
 
- # 2
+# 2
 <sup>1</sup>Hierauf sandte Josua, der Sohn Nuns, von Sittim aus heimlich zwei Männer als Kundschafter aus mit der Weisung: »Geht hin, seht euch das Land und besonders Jericho an!« Da machten sie sich auf den Weg und kamen in das Haus einer Dirne namens Rahab und legten sich dort schlafen.
 <sup>2</sup>Als nun dem König von Jericho die Meldung zuging: »Wisse wohl: es sind heute abend einige Männer von den Israeliten hierher gekommen, um das ganze Land auszukundschaften«,
 <sup>3</sup>da sandte der König von Jericho zu Rahab und ließ ihr sagen: »Gib die Männer heraus, die zu dir gekommen und in deinem Hause eingekehrt sind; denn sie sind hergekommen, um das ganze Land auszukundschaften.«
@@ -70,7 +70,7 @@
 
 ##### aa) Ankunft am Jordan; Bekanntmachung der Obmänner und zwei Befehle Josuas; Aufbruch des Volkes
 
- # 3
+# 3
 <sup>1</sup>Darauf ließ Josua am andern Morgen früh aufbrechen, und sie kamen von Sittim an den Jordan, er mit allen Israeliten; und sie blieben dort über Nacht, ehe sie hinüberzogen.
 <sup>2</sup>Nach drei Tagen aber gingen die Obmänner<sup title="vgl. 5.Mose 1,15">&#x2732;</sup> im ganzen Lager hin und her
 <sup>3</sup>und gaben dem Volke folgenden Befehl: »Sobald ihr die Bundeslade des HERRN, eures Gottes, erblickt, wie sie von den levitischen Priestern aufgehoben<sup title="oder: weggetragen">&#x2732;</sup> wird, so brecht auch ihr von eurem Standort auf und zieht hinter ihr her;
@@ -98,7 +98,7 @@
 
 ##### dd) Errichtung eines Steindenkmals im Jordanbett und eines andern am jenseitigen Ufer in Gilgal
 
- # 4
+# 4
 <sup>1</sup>Als nun das ganze Volk den Übergang über den Jordan vollständig bewerkstelligt hatte, gebot der HERR dem Josua folgendes:
 <sup>2</sup>»Wählt euch aus dem Volke zwölf Männer, aus jedem Stamme einen Mann,
 <sup>3</sup>und erteilt ihnen folgenden Befehl: ›Nehmt euch von hier, aus der Mitte des Jordans, von der Stelle, wo die Füße der Priester festgestanden<sup title="= Halt gemacht">&#x2732;</sup> haben, zwölf Steine auf, schafft sie mit euch hinüber und legt sie auf dem Lagerplatz nieder, wo ihr diese Nacht zubringen werdet.‹«
@@ -133,7 +133,7 @@
 
 ##### aa) Vornahme der Beschneidung Israels
 
- # 5
+# 5
 <sup>1</sup>Als nun alle Könige der Amoriter, die jenseits des Jordans nach Westen hin wohnten, und alle Könige der Kanaanäer an der Meeresküste die Kunde erhielten, daß der HERR das Wasser des Jordans vor den Israeliten hatte vertrocknen lassen, bis sie hinübergezogen waren, da schwand ihnen alles Vertrauen, und sie hatten den Israeliten gegenüber keinen Mut mehr.
 
 <sup>2</sup>Damals gebot der HERR dem Josua: »Fertige dir Steinmesser an und beschneide wiederum die Israeliten zum zweitenmal!«
@@ -163,7 +163,7 @@
 
 ##### aa) Josua wird von Gott über die Art und Weise der Eroberung Jerichos belehrt
 
- # 6
+# 6
 <sup>1</sup>Jericho aber hatte (seine Tore) geschlossen und blieb den Israeliten gegenüber verriegelt<sup title="= geschlossen">&#x2732;</sup>, so daß niemand aus- oder eingehen konnte.
 <sup>2</sup>Da sagte der HERR zu Josua: »Hiermit gebe ich Jericho und seinen König samt den streitbaren Männern in deine Gewalt.
 <sup>3</sup>So zieht denn um die Stadt herum, alle Kriegsleute, einmal rings um die Stadt her. So sollst du es sechs Tage lang tun;
@@ -207,7 +207,7 @@
 
 ##### aa) Mißlingen des sorgsam vorbereiteten Zuges gegen Ai; Verzagtheit des Volkes; Josuas flehentliches Gebet
 
- # 7
+# 7
 <sup>1</sup>Die Israeliten hatten sich aber eine Veruntreuung an dem gebannten Gut zuschulden kommen lassen; denn Achan, der Sohn Karmis, des Sohnes Sabdis, des Sohnes Serahs, vom Stamme Juda, hatte sich etwas von dem gebannten Gut angeeignet. Darob entbrannte der Zorn des HERRN gegen die Israeliten. –
 <sup>2</sup>Nun sandte Josua einige Männer von Jericho aus nach Ai, das bei Beth-Awen östlich von Bethel liegt, mit der Weisung: »Geht hinauf und kundschaftet die Gegend aus!« Als nun die Männer hinaufgegangen waren und Ai ausgekundschaftet hatten,
 <sup>3</sup>berichteten sie dem Josua nach ihrer Rückkehr: »Nicht das gesamte Volk braucht hinaufzuziehen; zwei- bis dreitausend Mann genügen, um Ai zu erobern. Bemühe nicht das ganze Volk dorthin; denn die Zahl ihrer Leute ist gering.«
@@ -245,7 +245,7 @@
 
 ##### aa) Auf göttliche Anweisung zieht Josua gegen Ai und legt einen Hinterhalt im Westen der Stadt
 
- # 8
+# 8
 <sup>1</sup>Hierauf sagte der HERR zu Josua: »Fürchte dich nicht und sei ohne Angst! Nimm das gesamte Kriegsvolk mit dir und mache dich auf, ziehe gegen Ai hinauf: hiermit gebe ich den König von Ai samt seinem Volk, seiner Stadt und seinem Lande in deine Gewalt.
 <sup>2</sup>Du sollst mit Ai und seinem König so verfahren, wie du mit Jericho und seinem König verfahren bist; jedoch die dortige Beute und das Vieh dürft ihr für euch behalten. Lege dir einen Hinterhalt gegen die Stadt auf ihrer Westseite!«
 
@@ -297,7 +297,7 @@
 
 ##### aa) Die Kanaanäerkönige schließen einen Bund gegen Israel
 
- # 9
+# 9
 <sup>1</sup>Als nun alle Könige dies vernahmen, die diesseits des Jordans im Berglande, in der Niederung und an der ganzen Küste des großen Meeres nach dem Libanon hin wohnten, nämlich die Hethiter und die Amoriter, die Kanaanäer, Pherissiter, Hewiter und Jebusiter,
 <sup>2</sup>da taten sie sich alle zusammen, um einmütig gegen Josua und die Israeliten zu kämpfen.
 
@@ -337,7 +337,7 @@
 
 ##### aa) Der Zug der fünf Könige gegen Gibeon; Josuas Sieg bei Gibeon
 
- # 10
+# 10
 <sup>1</sup>Als nun Adoni-Zedek, der König von Jerusalem, die Kunde erhielt, daß Josua Ai erobert und den Bann an der Stadt vollstreckt habe, daß er mit Ai und seinem König ebenso wie mit Jericho und seinem König verfahren sei und daß die Bewohner von Gibeon Frieden mit den Israeliten geschlossen hätten und mitten unter ihnen wohnen geblieben seien,
 <sup>2</sup>da fürchteten sie sich sehr; denn Gibeon war eine bedeutende Stadt, so groß wie irgendeine von den Königstädten und noch größer als Ai, und alle ihre Männer tapfere Krieger.
 <sup>3</sup>Daher schickte Adoni-Zedek, der König von Jerusalem, Gesandte an Hoham, den König von Hebron, sowie an Piream, den König von Jarmuth, an Japhia, den König von Lachis, und an Debir, den König von Eglon, und ließ ihnen sagen:
@@ -397,7 +397,7 @@
 
 ##### aa) Die von Jabin zum Bunde vereinigten Könige werden von Josua vernichtet
 
- # 11
+# 11
 <sup>1</sup>Als nun Jabin, der König von Hazor, Kunde davon erhielt, schickte er Gesandte an Jobab, den König von Madon, sowie an den König von Simron und an den König von Achsaph
 <sup>2</sup>und an die Könige, die im Norden im Berglande sowie in der Jordanebene südlich vom See Genezareth und in der Niederung und im Hügelgelände von Dor gegen Westen wohnten,
 <sup>3</sup>an die Kanaanäer gegen Osten und gegen Westen und an die Amoriter, Hethiter, Pherissiter und Jebusiter im Berglande und an die Hewiter am Fuß des Hermon in der Landschaft Mizpa.
@@ -436,7 +436,7 @@
 
 ##### aa) Die zwei von Mose besiegten ostjordanischen Könige
 
- # 12
+# 12
 <sup>1</sup>Dies sind die Könige des Landes, welche die Israeliten besiegt und deren Land sie in Besitz genommen haben: im Ostjordanlande (die Gebiete) vom Fluß Arnon an bis zum Hermongebirge nebst der ganzen Steppe östlich vom Jordan:
 <sup>2</sup>Sihon, der König der Amoriter, der in Hesbon seinen Sitz hatte; er herrschte von Aroer an, das am Ufer des Flusses Arnon liegt, und zwar von der Mitte des Flußtals an und über die Hälfte von Gilead bis zum Fluß Jabbok, der Grenze der Ammoniter,
 <sup>3</sup>und über das Jordantal bis an die Ostseite des Sees Genezareth und bis an die Ostseite des Meeres der Steppe, des Salzsees, nach Beth-Jesimoth hin und südwärts (über das Land) am Fuß der Abhänge des Pisgagebirges.
@@ -471,7 +471,7 @@
 
 #### a) Aufzählung der bisher unerobert gebliebenen Gebiete; der Verteilungsauftrag Gottes
 
- # 13
+# 13
 <sup>1</sup>Als nun Josua alt und hochbetagt geworden war, sagte der HERR zu ihm: »Du bist nun alt und hochbetagt, und von dem Lande sind sehr viele Teile bisher noch unerobert geblieben.
 <sup>2</sup>Dies ist das noch uneroberte Land: sämtliche Bezirke der Philister und das ganze Gesuriterland.
 <sup>3</sup>Vom Sihorbach an, der östlich von Ägypten fließt, bis an das Gebiet von Ekron im Norden – es wird zum Gebiet der Kanaanäer gerechnet –: die fünf Fürsten der Philister, nämlich der von Gaza, der von Asdod, der von Askalon, der von Gath und der von Ekron, sowie die Awwiter im Süden;
@@ -521,7 +521,7 @@
 
 #### a) Überschrift und einleitende Bemerkungen; der Erbbesitz Kalebs in Hebron
 
- # 14
+# 14
 <sup>1</sup>Und dies sind die Gebiete, welche die Israeliten im Lande Kanaan als Erbbesitz empfangen haben, die ihnen der Priester Eleasar und Josua, der Sohn Nuns, und die Häupter der israelitischen Stämme
 <sup>2</sup>als ihren Erbbesitz durch das Los zugeteilt haben, wie der HERR es durch Mose bezüglich der neuneinhalb Stämme verordnet hatte;
 <sup>3</sup>denn den zweieinhalb Stämmen hatte Mose ihren Erbbesitz jenseits des Jordans angewiesen, den Leviten aber keinen Erbbesitz unter den Israeliten verliehen.
@@ -543,7 +543,7 @@
 
 #### b) Das Gebiet des Stammes Juda
 
- # 15
+# 15
 <sup>1</sup>Für die einzelnen Geschlechter des Stammes Juda aber fiel das Los südwärts nach dem Gebiet der Edomiter, nach der Wüste Zin hin im äußersten Süden des Landes;
 <sup>2</sup>und zwar geht ihre Südgrenze vom Ende des Salzmeeres, von seiner Südspitze aus,
 <sup>3</sup>läuft dann weiter gegen die Südseite der Skorpionenhöhe, dann nach Zin hinüber, steigt aufwärts südlich von Kades-Barnea, geht dann weiter nach Hezron, zieht sich aufwärts nach Addar, wendet sich herum nach Karka,
@@ -622,7 +622,7 @@
 
 ##### aa) Die Südgrenze des Gebiets
 
- # 16
+# 16
 <sup>1</sup>Sodann fiel den Nachkommen Josephs durch das Los ihr Anteil zu vom Jordan bei Jericho an und begriff im Osten das Uferland von Jericho, dann die Wüste<sup title="oder: Steppe">&#x2732;</sup>, die sich von Jericho an aufsteigend im Gebirge nach Bethel erstreckt.
 <sup>2</sup>Die Grenze läuft dann von Bethel weiter nach Lus und zieht sich hinüber nach dem Gebiet der Arkiter, nach Atharoth,
 <sup>3</sup>läuft hierauf westwärts hinab zum Gebiet der Japhletiter bis zum Gebiet von Unter-Beth-Horon und bis Geser; ihr Endpunkt liegt dann am Meer.
@@ -639,7 +639,7 @@
 
 ##### cc) Gebiet des Stammes Manasse
 
- # 17
+# 17
 <sup>1</sup>Sodann fiel dem Stamm Manasse – dieser war nämlich der erstgeborene Sohn Josephs – sein Losanteil zu. Machir, dem erstgeborenen Sohne Manasses, dem Vater Gileads, wurde Gilead und Basan zuteil, denn er war ein Kriegsmann.
 <sup>2</sup>Sodann erhielten die übrigen Nachkommen Manasses, Geschlecht für Geschlecht, ihren Anteil, nämlich die Nachkommen Abiesers, die Nachkommen Heleks, die Nachkommen Asriels, die Nachkommen Sichems, die Nachkommen Hephers und die Nachkommen Semidas; dies waren die männlichen Nachkommen Manasses, des Sohnes Josephs, Geschlecht für Geschlecht.
 
@@ -672,7 +672,7 @@
 
 ##### aa) Das Offenbarungszelt in Silo aufgeschlagen; schriftliche Aufnahme und Verteilung des noch unbesetzten Landes
 
- # 18
+# 18
 <sup>1</sup>Hierauf versammelte sich die ganze Volksgemeinde der Israeliten in Silo und schlug dort das Offenbarungszelt auf; denn das Land lag unterworfen vor ihnen da.
 <sup>2</sup>Nun waren aber unter den Israeliten noch sieben Stämme übrig, deren Erbbesitz man noch nicht ausgeteilt hatte.
 <sup>3</sup>Da sagte Josua zu den Israeliten: »Wie lange wollt ihr noch lässig bleiben, statt hinzugehen, um das Land in Besitz zu nehmen, das der HERR, der Gott eurer Väter, euch gegeben hat?
@@ -709,7 +709,7 @@
 
 ##### cc) Das Gebiet des Stammes Simeon
 
- # 19
+# 19
 <sup>1</sup>Dann kam das zweite Los heraus für Simeon, für die Geschlechter des Stammes der Simeoniten; und zwar lag ihr Erbteil mitten im Erbbesitz der Judäer.
 <sup>2</sup>Es wurde ihnen aber als ihr Erbbesitz zuteil: Beerseba, Seba, Molada,
 <sup>3</sup>Hazar-Sual, Bala, Ezem,
@@ -787,7 +787,7 @@
 
 Als sie dann mit der Verteilung des Landes fertig waren,
 
- # 20
+# 20
 <sup>1</sup>gebot der HERR dem Josua folgendes:
 <sup>2</sup>»Mache den Israeliten folgende Mitteilung: ›Bestimmt euch noch die Zufluchtsstädte<sup title="oder: Freistädte">&#x2732;</sup>, von denen ich zu euch durch Mose gesagt habe<sup title="4.Mose 35,9-15; 5.Mose 19,1-13">&#x2732;</sup>,
 <sup>3</sup>daß ein Totschläger dahin fliehen solle, der jemand aus Versehen, unvorsätzlich, getötet hat; die sollen euch als Zufluchtsstätten vor dem Bluträcher dienen.‹
@@ -803,7 +803,7 @@ Als sie dann mit der Verteilung des Landes fertig waren,
 
 #### f) Die achtundvierzig Priester- und Levitenstädte
 
- # 21
+# 21
 <sup>1</sup>Hierauf traten die Familienhäupter der Leviten zu dem Priester Eleasar und zu Josua, dem Sohne Nuns, und zu den Häuptern der israelitischen Stämme
 <sup>2</sup>und sagten zu ihnen in Silo im Lande Kanaan: »Der HERR hat durch Mose geboten, daß man uns Städte zu Wohnsitzen und die zugehörigen Weidetriften für unser Vieh anweise.«
 <sup>3</sup>So überwiesen denn die Israeliten von ihrem Erbbesitz den Leviten nach dem Gebot des HERRN folgende Städte nebst den zugehörigen Weidetriften:
@@ -865,7 +865,7 @@ Als sie dann mit der Verteilung des Landes fertig waren,
 
 #### a) Josua entläßt die Stämme mit Worten der Anerkennung, mit Mahnung und Segen
 
- # 22
+# 22
 <sup>1</sup>Damals berief Josua die Stämme Ruben, Gad und halb Manasse
 <sup>2</sup>und sagte zu ihnen: »Ihr habt alles erfüllt, was euch Mose, der Knecht des HERRN, geboten hat, und habt euch auch mir gegenüber in allem, was ich euch befohlen habe, gehorsam bewiesen:
 <sup>3</sup>ihr habt eure Volksgenossen diese lange Zeit hindurch bis auf den heutigen Tag nicht im Stich gelassen und das Gebot des HERRN, eures Gottes, treu erfüllt.
@@ -913,7 +913,7 @@ Als sie dann mit der Verteilung des Landes fertig waren,
 
 #### a) Josuas erste ermahnende Ansprache an die Vertreter Israels
 
- # 23
+# 23
 <sup>1</sup>Geraume Zeit später, nachdem der HERR den Israeliten Ruhe vor allen ihren Feinden ringsum verschafft hatte und Josua alt und hochbetagt geworden war,
 <sup>2</sup>berief Josua das gesamte Israel, die Ältesten<sup title="oder: Vornehmsten">&#x2732;</sup> und die Oberhäupter des Volkes, seine Richter und Obmänner<sup title="vgl. 5.Mose 1,15">&#x2732;</sup>, und sprach zu ihnen: »Ich bin nun alt geworden und hochbetagt;
 <sup>3</sup>ihr aber habt alles gesehen, was der HERR, euer Gott, allen diesen Völkerschaften vor euch her hat widerfahren lassen; denn der HERR, euer Gott, ist es, der für euch gestritten hat.
@@ -934,7 +934,7 @@ Als sie dann mit der Verteilung des Landes fertig waren,
 
 #### b) Josua nimmt auf dem Landtage zu Sichem Abschied vom Volk
 
- # 24
+# 24
 <sup>1</sup>Weiter versammelte Josua alle Stämme der Israeliten in Sichem und berief dorthin die Ältesten<sup title="oder: Vornehmsten">&#x2732;</sup> der Israeliten sowie ihre Oberhäupter, ihre Richter und Obmänner. Als sie sich dann vor Gott aufgestellt hatten,
 <sup>2</sup>sagte Josua zu dem ganzen Volke: »So spricht der HERR, der Gott Israels: ›Eure Väter haben vor alters jenseits des Euphratstromes gewohnt, nämlich Tharah, der Vater Abrahams und Nahors, und haben andere Götter verehrt.
 <sup>3</sup>Da holte ich euren Vater Abraham aus dem Lande jenseits des Euphratstromes und ließ ihn im ganzen Lande Kanaan umherwandern und gab ihm zahlreiche Nachkommenschaft, nachdem ich ihm Isaak geschenkt hatte.

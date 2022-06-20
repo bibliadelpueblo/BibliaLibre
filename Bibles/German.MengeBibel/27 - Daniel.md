@@ -6,7 +6,7 @@
 
 #### a) Geschichtliche Vorbemerkungen
 
- # 1
+# 1
 ^1^Im dritten Jahre der Regierung Jojakims, des Königs von Juda, zog Nebukadnezar, der König von Babylon, gegen Jerusalem und belagerte es.
 ^2^Und der Herr ließ Jojakim, den König von Juda, und einen Teil der Geräte des Gotteshauses in seine Gewalt fallen, und er brachte sie nach dem Lande Sinear<sup title="= Babylonien">&#x2732;</sup> in den Tempel seines Gottes; die Geräte aber legte er im Schatzhause seines Gottes nieder.
 
@@ -42,7 +42,7 @@
 
 #### a) Des Königs Beunruhigung durch einen Traum; die babylonischen Wahrsager vermögen den Inhalt des Traumes nicht anzugeben
 
- # 2
+# 2
 ^1^Im zweiten Jahre seiner Regierung hatte Nebukadnezar einen bedeutungsvollen Traum, durch den er innerlich beunruhigt wurde, so daß es um seinen Schlaf geschehen war.
 ^2^Da befahl der König, man solle die Gelehrten und Beschwörer, die Zauberer<sup title="oder: Wahrsager">&#x2732;</sup> und Chaldäer berufen, damit sie ihm Auskunft über sein Traumgesicht gäben. Als sie nun gekommen und vor den König getreten waren,
 ^3^sagte dieser zu ihnen: »Ich habe einen Traum gehabt und fühle mich nun beunruhigt durch das Verlangen, den Traum zu verstehen.«
@@ -113,7 +113,7 @@
 
 #### a) Nebukadnezar läßt ein Götzenbild aufstellen und gebietet dessen Anbetung bei Strafe des Feuertodes
 
- # 3
+# 3
 ^1^Der König Nebukadnezar ließ eine goldene Bildsäule von sechzig Ellen Höhe und sechs Ellen Breite anfertigen und sie in der Ebene Dura in der Provinz Babylon aufstellen.
 ^2^Hierauf sandte der König Nebukadnezar Boten aus, um die Satrapen<sup title="= Landpfleger">&#x2732;</sup>, Statthalter und Befehlshaber, Oberrichter, Schatzmeister, Rechtsgelehrten, Ratsherren und alle anderen höheren Beamten der Provinz zu berufen, damit sie der Einweihung der Bildsäule beiwohnten, die der König Nebukadnezar hatte aufstellen lassen.
 ^3^Da versammelten sich die Satrapen<sup title="= Landpfleger">&#x2732;</sup>, Statthalter und Befehlshaber, Oberrichter, Schatzmeister, Rechtsgelehrten, Ratsherren und alle anderen höheren Beamten der Provinz zur Einweihung der Bildsäule, die der König Nebukadnezar hatte aufrichten lassen, und nahmen Aufstellung vor der Bildsäule, die Nebukadnezar hatte aufrichten lassen.
@@ -165,7 +165,7 @@
 ^32^Es hat mir beliebt, die Zeichen und Wunder, die der höchste Gott an mir getan hat, zu allgemeiner Kenntnis zu bringen.
 ^33^Wie sind doch seine Zeichen so groß und wie gewaltig seine Wunder! Sein Reich ist ein ewiges Reich, und seine Herrschaft währt von Geschlecht zu Geschlecht!
 
- # 4
+# 4
 ^1^Ich, Nebukadnezar, lebte sorglos in meinem Hause und lebensfroh in meinem Palast.
 ^2^Da hatte ich einen Traum, der mich erschreckte; und die Gedanken, die in mir auf meinem Lager aufstiegen, und die Erscheinungen<sup title="oder: Gesichte">&#x2732;</sup>, die mir vor die Augen traten, versetzten mich in Angst.
 ^3^Ich erließ daher den Befehl, man solle alle Weisen Babylons vor mich führen, damit sie mir die Deutung des Traumes angäben.
@@ -218,7 +218,7 @@
 
 #### a) Belsazar entweiht die Tempelgefäße der Juden
 
- # 5
+# 5
 ^1^Der König Belsazar veranstaltete für seine tausend Großen ein prächtiges Gastmahl und trank Wein, vor den Tausend<sup title="oder: den Tausend gegenüber">&#x2732;</sup> sitzend.
 ^2^In der Weinlaune befahl Belsazar dann, man solle die goldenen und silbernen Gefäße herbeibringen, die sein Vater Nebukadnezar aus dem Tempel zu Jerusalem weggenommen hatte, damit aus ihnen der König und seine Großen, seine Gemahlinnen und Nebenfrauen tränken.
 ^3^So wurden denn die goldenen (und silbernen) Gefäße, die man aus dem Tempel des Hauses Gottes zu Jerusalem geraubt hatte, herbeigebracht; und der König und seine Großen, seine Gemahlinnen und Nebenfrauen tranken.
@@ -260,7 +260,7 @@
 ^29^Hierauf gab Belsazar Befehl, und man kleidete Daniel in Purpur, legte ihm eine goldene Kette um den Hals und rief öffentlich von ihm<sup title="= über ihn">&#x2732;</sup> aus, daß er als Dritter im Reiche herrschen solle. –
 ^30^Noch in derselben Nacht wurde Belsazar, der Chaldäerkönig, ermordet,
 
- # 6
+# 6
 ^1^und Darius, der Meder, erhielt die Herrschaft im Alter von zweiundsechzig Jahren.
 
 ### 6. Daniels Errettung aus der Löwengrube
@@ -315,7 +315,7 @@
 
 #### a) Daniels Traum von dem Erscheinen eines Löwen, eines Bären, eines Panthers, eines furchtbaren Tieres mit zehn Hörnern sowie eines kleinen Horns
 
- # 7
+# 7
 ^1^Im ersten Regierungsjahre Belsazars, des Königs von Babylon, sah<sup title="= hatte">&#x2732;</sup> Daniel einen Traum<sup title="= Traumgesicht">&#x2732;</sup>, und Erscheinungen traten ihm auf seinem Lager vor die Augen. Darauf schrieb er den Traum nieder und berichtete die Hauptsachen,
 ^2^mit folgenden Worten: »Ich, Daniel, hatte in meinem Nachtgesicht eine Erscheinung und sah, wie die vier Winde des Himmels das große Meer<sup title="= Weltmeer">&#x2732;</sup> erregten<sup title="oder: aufwühlten">&#x2732;</sup>.
 ^3^Da stiegen vier gewaltige Tiere aus dem Meere hervor, jedes von dem andern verschieden.
@@ -359,7 +359,7 @@
 
 #### a) Schauplatz des Traumgesichts; Kampf des ungleich gehörnten (persischen) Widders und des einhörnigen (griechischen) Ziegenbocks; Sieg und Erstarken des letzteren; plötzliches Abbrechen seines Horns, an dessen Stelle vier Hörner treten
 
- # 8
+# 8
 ^1^Im dritten Regierungsjahre des Königs Belsazar erschien mir, Daniel, ein Gesicht nach jenem, das mir als erstes<sup title="= schon früher">&#x2732;</sup> erschienen war.
 ^2^Als ich das Gesicht hatte, war es mir beim Anschauen, als ob ich mich in der Burg<sup title="= Residenz">&#x2732;</sup> Susa, die in der Landschaft Elam liegt, befände; und ich sah mich in diesem Gesicht am Fluß Ulai.
 ^3^Als ich nun meine Augen aufschlug und Umschau hielt, sah ich da einen Widder, der vor dem Fluß<sup title="= am Ufer des Flusses">&#x2732;</sup> stand und zwei Hörner hatte; beide Hörner waren hoch, aber das eine war höher als das andere, und das höhere war zuletzt emporgewachsen.
@@ -405,7 +405,7 @@
 
 #### a) Daniel, durch eine Weissagung Jeremias beunruhigt, beschließt, Auskunft von Gott durch ein feierliches Gebet zu erlangen
 
- # 9
+# 9
 ^1^Im ersten Regierungsjahre des Darius, des Sohnes des Ahasveros<sup title="= Xerxes">&#x2732;</sup>, der von medischer Herkunft war und die Herrschaft über das Reich der Chaldäer erlangt hatte,
 ^2^im ersten Jahre seiner Regierung, richtete ich, Daniel, meine Aufmerksamkeit in den (heiligen) Schriften auf die Zahl der Jahre, in betreff derer das Wort des HERRN einst an den Propheten Jeremia ergangen war, daß nämlich über den Trümmern<sup title="oder: der Verödung">&#x2732;</sup> Jerusalems eine Zeit von siebzig Jahren hingehen sollte.
 ^3^So richtete ich denn mein Angesicht zu Gott dem Herrn, um ihn mit Gebet und Flehen zu suchen unter Fasten und in Sack<sup title="= Trauergewand">&#x2732;</sup> und Asche.
@@ -445,7 +445,7 @@
 
 #### a) Daniels Vorbereitung auf das Gesicht durch Fasten
 
- # 10
+# 10
 ^1^Im dritten Regierungsjahre des Perserkönigs Cyrus wurde dem Daniel, der auch den Namen Beltsazar führte, ein Wort geoffenbart<sup title="= eine Offenbarung zuteil">&#x2732;</sup>, und das Wort<sup title="= diese Offenbarung">&#x2732;</sup> ist zuverlässig und (bezieht sich auf) große Trübsal; er aber achtete genau auf die Offenbarung und gab auf das Gesicht acht.
 ^2^In jener Zeit stellte ich, Daniel, drei volle Wochen hindurch Trauer an:
 ^3^leckere Speisen genoß ich nicht, und weder Fleisch noch Wein kam in meinen Mund; auch salbte ich mich nicht, bis drei volle Wochen vergangen waren.
@@ -480,9 +480,9 @@
 ^20^Da erwiderte er: »Weißt du, warum ich zu dir gekommen bin? Allerdings muß ich sogleich wieder umkehren, um mit dem Schutzengel Persiens zu kämpfen; und wenn ich mit ihm fertig bin, dann kommt sogleich der Schutzengel von Griechenland herbei,
 ^21^b und kein einziger steht mir im Kampfe gegen jene (beiden) mit Entschiedenheit zur Seite außer eurem Schutzengel Michael.
 
- # 11
+# 11
 ^1^Aber auch ich habe ihm im ersten Regierungsjahre des Meders Darius als Helfer und Beschützer zur Seite gestanden.«
- # 11
+# 11
 ^2^a Doch ich will dir nun verkünden, was im Buch der Wahrheit aufgezeichnet steht.
 ^3^Da wird dann ein Heldenkönig auftreten und über ein gewaltiges Reich herrschen und alles ausführen, was ihm beliebt.
 ^3^Da wird dann ein Heldenkönig auftreten und über ein gewaltiges Reich herrschen und alles ausführen, was ihm beliebt.
@@ -548,7 +548,7 @@
 
 ##### ff) Anbruch der Endzeit mit ihrer Not, ihrer Vergeltung und der Auferstehung der Gottlosen wie der Frommen
 
- # 12
+# 12
 ^1^»Zu jener Zeit nämlich wird Michael auftreten, der große Engelfürst, der deine Volksgenossen beschützt, und es wird eine Zeit der Bedrängnis eintreten, wie noch keine dagewesen ist, seitdem es Völker gibt, bis zu jener Zeit; aber dein Volk wird in jener Zeit gerettet werden, nämlich ein jeder, der sich im Buch (des Lebens) aufgezeichnet findet.
 ^2^Und viele von denen, die im Staube der Erde schlafen, werden erwachen, die einen zu ewigem Leben, die anderen zu Schmach, zu ewigem Abscheu.
 ^3^Die Verständigen aber werden leuchten wie der Glanz der Himmelsfeste, und die, welche viele zur Gerechtigkeit geführt haben, wie die Sterne in alle Ewigkeit.«<sup title="vgl. Mt 13,43">&#x2732;</sup>

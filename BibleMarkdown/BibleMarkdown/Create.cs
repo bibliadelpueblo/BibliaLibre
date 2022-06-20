@@ -106,12 +106,40 @@ namespace BibleMarkdown
 			Log(htmlfile);
 		}
 
-		static void CreateEpub(string mdfile, string epubfile)
+		static void CreateEpub(string path, string mdfile, string epubfile)
 		{
 			if (IsNewer(epubfile, mdfile)) return;
 
 			var src = File.ReadAllText(mdfile);
+			string? book = Regex.Match(Path.GetFileNameWithoutExtension(mdfile), "^[0-9]*-?(?<name>.*?)$", RegexOptions.Singleline)?.Groups["name"]?.Value;
+
+			src = Regex.Replace(src, @"(?<=^|\n#\s(?<chapter>[0-9]+).*?)\^(?<verse>[0-9]+)\^", m =>
+			{
+				return @$"[**{m.Groups["verse"].Value}**]{{#{m.Groups["chapter"].Value}-{m.Groups["verse"].Value}}}";
+			}, RegexOptions.Singleline);
+
 			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
+
+			var namesfile = $@"{path}\src\bnames.xml";
+			var booknames = XElement.Load(File.Open(namesfile, FileMode.Open, FileAccess.Read))
+				.Elements("ID")
+				.SelectMany(x => x.Elements("BOOK"))
+				.Select(x => new
+				{
+					Book = x.Value,
+					Abbreviation = (string)x.Attribute("bshort"),
+					Number = (int)x.Attribute("bnumber")
+				})
+				.ToDictionary(x => x.Abbreviation ?? "");
+
+			var pattern = String.Join('|', booknames.Keys);
+			src = Regex.Replace(@$"(?<book>{pattern})\s+(?<chapter>[0-9]+)([:,](?<verse>[0-9]+))?", m =>
+			{
+				var book = booknames[m.Groups["book"].Value];
+				return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}](]"
+
+			}, RegexOptions.Singleline);
+
 			src = Regex.Replace(src, @"\^([0-9]+)\^", "**$1**", RegexOptions.Singleline);
 			var name = Regex.Replace(Path.GetFileNameWithoutExtension(mdfile), @"^[0-9\.]+-", "", RegexOptions.Singleline);
 			src = $"# {name}{Environment.NewLine}{Environment.NewLine}{src}";
@@ -129,7 +157,7 @@ namespace BibleMarkdown
 			var frametime = DateTime.MinValue;
 			if (File.Exists(frames)) frametime = File.GetLastWriteTimeUtc(frames);
 
-			if (sources.All(src => File.GetLastWriteTimeUtc(src) < frametime)) return;
+			if (sources.All(src => File.GetLastWriteTimeUtc(src) < frametime) && frametime > bibmarktime) return;
 
 			bool firstsrc = true;
 			int btotal = 0;
@@ -146,12 +174,12 @@ namespace BibleMarkdown
 				int verse = 0;
 				int nverses = 0;
 				int totalverses = 0;
-				var matches = Regex.Matches(txt, @"((^|\n)# ([0-9]+))|(\^([0-9]+)\^(?!\s*[#\^$]))");
+				var matches = Regex.Matches(txt, @"((^|\n)#\s+(?<chapter>[0-9]+))|(\^(?<verse>[0-9]+)\^(?!\s*[#\^$]))", RegexOptions.Singleline);
 				foreach (Match m in matches)
 				{
 					if (m.Groups[1].Success)
 					{
-						int.TryParse(m.Groups[3].Value, out chapter);
+						int.TryParse(m.Groups["chapter"].Value, out chapter);
 						if (verse != 0)
 						{
 							verses.Append(verse);
@@ -161,9 +189,9 @@ namespace BibleMarkdown
 						totalverses += nverses;
 						nverses = 0;
 					}
-					else if (m.Groups[4].Success)
+					else if (m.Groups["verse"].Success)
 					{
-						int.TryParse(m.Groups[5].Value, out verse);
+						int.TryParse(m.Groups["verse"].Value, out verse);
 						nverses = Math.Max(nverses, verse);
 
 					}
@@ -194,7 +222,7 @@ namespace BibleMarkdown
 			var frametime = DateTime.MinValue;
 			if (File.Exists(frames)) frametime = File.GetLastWriteTimeUtc(frames);
 
-			if (sources.All(src => File.GetLastWriteTimeUtc(src) < frametime)) return;
+			if (sources.All(src => File.GetLastWriteTimeUtc(src) < frametime) && frametime > bibmarktime) return;
 
 			var linklistfile = $@"{path}\src\linklist.xml";
 			var namesfile = $@"{path}\src\bnames.xml";
@@ -207,7 +235,7 @@ namespace BibleMarkdown
 				newrefs = true;
 				var list = XElement.Load(File.OpenRead(linklistfile));
 				var language = ((string)list.Element("collection").Attribute("id"));
-				bnames = XElement.Load(File.OpenRead(namesfile))
+				bnames = XElement.Load(File.Open(namesfile, FileMode.Open, FileAccess.Read))
 					.Elements("ID")
 					.Where(id => ((string)id.Attribute("descr")) == language)
 					.FirstOrDefault()
@@ -288,7 +316,8 @@ namespace BibleMarkdown
 										Book = bookname?.Value ?? "",
 										Chapter = ((int)r.Attribute("cn")),
 										Verse = ((int)r.Attribute("vn"))
-									}.Map();
+									};
+									loc = Verses.ParallelVerses.Map(loc);
 
 								} while ((refi + 1 < refs.Length) && (bookno < book) ||
 										(bookno == book) && (loc.Chapter < nchapter) ||
@@ -302,30 +331,32 @@ namespace BibleMarkdown
 									verses.Append($"^{label}^ ");
 									footnotes.Append($"^{label}^[**{nchapter}:{nvers}**");
 									bool firstlink = true;
-										foreach (var link in r.Elements("link"))
+									foreach (var link in r.Elements("link"))
+									{
+										var linkbookname = bnames.FirstOrDefault(b => ((int)b.Attribute("bnumber")) == ((int)link.Attribute("bn")));
+										if (linkbookname != null)
 										{
-											var linkbookname = bnames.FirstOrDefault(b => ((int)b.Attribute("bnumber")) == ((int)link.Attribute("bn")));
-											if (linkbookname != null)
+											var blong = (string)linkbookname.Value;
+											var bshort = (string)linkbookname.Attribute("bshort");
+											var linkfrom = new Location
 											{
-												var blong = (string)linkbookname.Value;
-												var bshort = (string)linkbookname.Attribute("bshort");
-												var linkfrom = new Location
-												{
-													Book = blong,
-													Chapter = (int)link.Attribute("cn1"),
-													Verse = (int)link.Attribute("vn1")
-												}.Map();
+												Book = blong,
+												Chapter = (int)link.Attribute("cn1"),
+												Verse = (int)link.Attribute("vn1")
+											};
+											linkfrom = Verses.ParallelVerses.Map(linkfrom);
 
-												if (!firstlink) footnotes.Append(';');
-												else firstlink = false;
-												footnotes.Append($" {bshort} {linkfrom.Chapter},{linkfrom.Verse}");
-												if (link.Attribute("vn2") != null) {
-													var linkto = new Location
-													{
-														Book = linkfrom.Book,
-														Chapter = linkfrom.Chapter,
-														Verse = (int)link.Attribute("vn2")
-													}.Map();
+											if (!firstlink) footnotes.Append(';');
+											else firstlink = false;
+											footnotes.Append($" {bshort} {linkfrom.Chapter},{linkfrom.Verse}");
+											if (link.Attribute("vn2") != null) {
+												var linkto = new Location
+												{
+													Book = linkfrom.Book,
+													Chapter = linkfrom.Chapter,
+													Verse = (int)link.Attribute("vn2")
+												};
+												linkto = Verses.ParallelVerses.Map(linkto);
 
 												if (linkto.Chapter == linkfrom.Chapter) footnotes.Append($"-{linkto.Verse}");
 												else footnotes.Append($"-{linkto.Chapter},{linkto.Verse}");

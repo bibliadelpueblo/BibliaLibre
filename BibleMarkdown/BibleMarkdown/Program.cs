@@ -111,7 +111,10 @@ namespace BibleMarkdown
 			if (!Directory.Exists(outpath)) Directory.CreateDirectory(outpath);
 			if (Directory.Exists(srcpath))
 			{
-				Location.ImportMap(Path.Combine(srcpath, "versemap.md"));
+				Verses.ParallelVerses.Import(Path.Combine(srcpath, "parallelversesmap.md"));
+				Verses.Paragraphs.Import(Path.Combine(srcpath, "paragraphsmap.md"));
+				Verses.Titles.Import(Path.Combine(srcpath, "titlesmap.md"));
+				Verses.Footnotes.Import(Path.Combine(srcpath, "footnotesmap.md"));
 				ImportFromUSFM(path, srcpath);
 				ImportFromTXT(path, srcpath);
 				ImportFromZefania(path, srcpath);

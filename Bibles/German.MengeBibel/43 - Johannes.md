@@ -4,7 +4,7 @@
 
 #### a) Wesen, Wirken und Bedeutung des uranfänglichen ›Wortes‹
 
- # 1
+# 1
 ^1^ Im Anfang war das Wort, und das Wort war bei Gott, und Gott<sup title="= göttlichen Wesens">&#x2732;</sup> war das Wort.
 ^2^ Dieses war im Anfang bei Gott.
 ^3^ Alle Dinge sind durch dieses (Wort) geworden<sup title="= geschaffen">&#x2732;</sup>, und ohne dieses ist nichts geworden (von allem), was geworden ist.
@@ -81,7 +81,7 @@
 
 ### 1. Jesu erstes Wunderzeichen auf der Hochzeit zu Kana
 
- # 2
+# 2
 ^1^ Am dritten Tage darauf fand zu Kana in Galiläa eine Hochzeit statt, und die Mutter Jesu nahm daran teil;
 ^2^ aber auch Jesus wurde mit seinen Jüngern zu der Hochzeit eingeladen.
 ^3^ Als es nun an Wein mangelte, sagte die Mutter Jesu zu ihm: »Sie haben keinen Wein (mehr)!«
@@ -121,7 +121,7 @@
 
 ##### bb) Das Gespräch mit Nikodemus über die innerliche Grundlegung des Reiches Gottes (d.h. über die Wiedergeburt, den neuen Heilsweg und den rechten Glauben)
 
- # 3
+# 3
 ^1^ Nun war da unter den Pharisäern ein Mann namens Nikodemus, ein Mitglied des Hohen Rates der Juden;
 ^2^ dieser kam zu Jesus bei Nacht und sagte zu ihm: »Rabbi<sup title="= Meister">&#x2732;</sup>, wir wissen: du bist als Lehrer von Gott gekommen; denn niemand kann solche Wunderzeichen tun, wie du sie tust, wenn Gott nicht mit ihm ist.«
 ^3^ Jesus gab ihm zur Antwort: »Wahrlich, wahrlich ich sage dir: Wenn jemand nicht von oben her<sup title="oder: von neuem">&#x2732;</sup> geboren wird, kann er das Reich Gottes nicht sehen.«
@@ -167,7 +167,7 @@
 
 #### a) Jesu Rückkehr aus Judäa; sein Gespräch mit der Samariterin am Jakobsbrunnen; seine Selbstoffenbarung
 
- # 4
+# 4
 ^1^ Als nun der Herr erfuhr, den Pharisäern sei zu Ohren gekommen, daß Jesus mehr Jünger gewinne und taufe als Johannes –
 ^2^ übrigens taufte Jesus nicht selbst, sondern nur seine Jünger –,
 ^3^ verließ er Judäa und kehrte wieder nach Galiläa zurück;
@@ -241,7 +241,7 @@ Es war aber in Kapernaum ein königlicher Beamter, dessen Sohn krank darniederla
 
 #### a) Heilung des Kranken am Teich Bethesda bei Jerusalem und Sabbatstreit
 
- # 5
+# 5
 ^1^ Hierauf fand ein Fest der Juden statt, und Jesus zog nach Jerusalem hinauf.
 ^2^ Nun liegt in Jerusalem am Schaftor ein Teich, der auf hebräisch Bethesda heißt und fünf Hallen hat.
 ^3^ In diesen lagen Kranke in großer Zahl, Blinde, Lahme und Schwindsüchtige [die auf die Bewegung des Wassers warteten.
@@ -310,7 +310,7 @@ Es war aber (gerade) Sabbat an jenem Tage.
 
 #### a) Jesus speist die Fünftausend
 
- # 6
+# 6
 ^1^ Hierauf begab sich Jesus auf die andere Seite des Galiläischen Sees, des Sees von Tiberias;
 ^2^ es zog ihm aber dorthin eine große Volksmenge nach, weil sie die Wunderzeichen sahen, die er an den Kranken tat.
 ^3^ Jesus stieg aber auf den Berg hinauf und ließ sich dort mit seinen Jüngern nieder;
@@ -409,7 +409,7 @@ Es war aber (gerade) Sabbat an jenem Tage.
 
 #### a) Jesus und seine Brüder; seine Reise nach Jerusalem zum Fest
 
- # 7
+# 7
 ^1^ Hierauf zog Jesus in Galiläa umher; denn in Judäa wollte er nicht umherziehen, weil die Juden ihm nach dem Leben trachteten;
 ^2^ es stand aber das jüdische Laubhüttenfest nahe bevor.
 ^3^ Darum sagten seine Brüder zu ihm: »Mache dich von hier auf den Weg und begib dich nach Judäa, damit deine Jünger<sup title="= Anhänger">&#x2732;</sup> auch dort die Werke sehen, die du tust;
@@ -490,7 +490,7 @@ Es war aber (gerade) Sabbat an jenem Tage.
 
 ^53^ Dann gingen sie weg, ein jeder in sein Haus;
 
- # 8
+# 8
 ^1^ Jesus aber begab sich an den Ölberg.
 ^2^ Am folgenden Morgen jedoch fand er sich wieder im Tempel ein, und das gesamte Volk kam zu ihm; er setzte sich dann und lehrte sie.
 ^3^ Da führten die Schriftgelehrten und Pharisäer eine Frau herbei, die beim Ehebruch ergriffen<sup title="oder: ertappt">&#x2732;</sup> worden war, stellten sie in die Mitte
@@ -572,7 +572,7 @@ Es war aber (gerade) Sabbat an jenem Tage.
 
 #### a) Heilung des Blindgeborenen am Sabbat
 
- # 9
+# 9
 ^1^ Im Vorübergehen sah er alsdann einen Mann, der von Geburt an blind war.
 ^2^ Da fragten ihn seine Jünger: »Rabbi<sup title="oder: Meister">&#x2732;</sup>, wer hat gesündigt, dieser Mann oder seine Eltern, daß er als Blinder geboren worden ist?«
 ^3^ Jesus antwortete: »Weder dieser hat gesündigt noch seine Eltern; sondern (dazu ist es geschehen) damit das Wirken Gottes an ihm offenbar würde.
@@ -633,7 +633,7 @@ Es war aber (gerade) Sabbat an jenem Tage.
 
 #### a) Der Hirt und der Dieb (oder: Räuber)
 
- # 10
+# 10
 ^1^ »Wahrlich, wahrlich ich sage euch: Wer nicht durch die Tür in die Hürde der Schafe hineingeht, sondern anderswo hineinsteigt, der ist ein Dieb und ein Räuber;
 ^2^ wer aber durch die Tür hineingeht, der ist der Hirt der Schafe.
 ^3^ Diesem macht der Türhüter auf, und die Schafe hören auf seine Stimme; er ruft die ihm gehörenden Schafe mit Namen und führt sie hinaus.
@@ -695,7 +695,7 @@ Es war aber (gerade) Sabbat an jenem Tage.
 ^41^ Da kamen viele zu ihm und sagten: »Johannes hat zwar keinerlei Wunder getan, alles aber, was Johannes über diesen Mann gesagt hat, ist wahr gewesen.«
 ^42^ Und viele kamen dort zum Glauben an ihn.
 
- # 11
+# 11
 ^1^ Es lag aber ein Mann krank darnieder, Lazarus von Bethanien, aus dem Dorfe, in welchem Maria und ihre Schwester Martha wohnten –
 ^2^ es war die Maria, die den Herrn mit Myrrhenbalsam gesalbt und seine Füße mit ihren Haaren getrocknet hat<sup title="vgl. 12,1-8">&#x2732;</sup> –: deren Bruder Lazarus lag krank darnieder.
 ^3^ Da sandten die Schwestern zu Jesus und ließen ihm sagen: »Herr, siehe, der, den du lieb hast, der ist krank!«
@@ -767,7 +767,7 @@ Es war aber (gerade) Sabbat an jenem Tage.
 
 ### 14. Jesu Salbung (Todesweihe) in Bethanien; Lazarus in Gefahr
 
- # 12
+# 12
 ^1^ Jesus kam nun sechs Tage vor dem Passah nach Bethanien, wo Lazarus wohnte, den Jesus von den Toten auferweckt hatte.
 ^2^ Sie veranstalteten ihm zu Ehren dort ein Mahl, bei dem Martha die Bedienung<sup title="oder: Bewirtung">&#x2732;</sup> besorgte, während Lazarus sich unter denen befand, die mit ihm zu Tische saßen.
 ^3^ Da nahm Maria ein Pfund Myrrhenbalsam, echte, kostbare Nardensalbe, salbte Jesus die Füße und trocknete ihm die Füße mit ihrem Haar ab; das ganze Haus wurde dabei vom Duft der Salbe erfüllt.
@@ -839,7 +839,7 @@ So sprach Jesus, entfernte sich dann und hielt sich vor ihnen verborgen.
 
 #### a) Die Fußwaschung
 
- # 13
+# 13
 ^1^ Vor dem Passahfest aber, da Jesus wohl wußte, daß für ihn die Stunde gekommen sei, aus dieser Welt zum Vater hinüberzugehen, bewies er den Seinen, die in der Welt waren, die Liebe, die er (bisher) zu ihnen gehegt hatte, bis zum letzten Augenblick.
 ^2^ Es war bei einem Mahl<sup title="d.h. Abendessen">&#x2732;</sup>, und schon hatte der Teufel dem Judas Iskariot, dem Sohne Simons, den Entschluß des Verrats eingegeben.
 ^3^ Weil Jesus nun wußte, daß der Vater ihm alles in die Hände gegeben hatte und daß er von Gott ausgegangen sei und wieder zu Gott hingehe,
@@ -902,7 +902,7 @@ So sprach Jesus, entfernte sich dann und hielt sich vor ihnen verborgen.
 
 ##### aa) Jesu Verheißung seiner Wiederkunft und der Aufnahme der Jünger in die bei Gott bereitete Stätte; Jesus der Weg zu Gott, seine Einheit mit Gott
 
- # 14
+# 14
 ^1^ »Euer Herz erschrecke nicht! Vertrauet auf Gott und vertrauet auf mich!
 ^2^ In meines Vaters Hause sind viele Wohnungen; wenn es nicht so wäre, hätte ich es euch gesagt; denn ich gehe hin, euch eine Stätte zu bereiten;
 ^3^ und wenn ich hingegangen bin und euch eine Stätte bereitet habe, komme ich wieder und werde euch zu mir nehmen, damit da, wo ich bin, auch ihr seid.
@@ -948,7 +948,7 @@ So sprach Jesus, entfernte sich dann und hielt sich vor ihnen verborgen.
 
 ##### aa) Gleichnis vom Weinstock und den Reben
 
- # 15
+# 15
 ^1^ »Ich bin der wahre Weinstock, und mein Vater ist der Weingärtner.
 ^2^ Jede Rebe an mir, die keine Frucht bringt, entfernt er, und jede (Rebe), die Frucht bringt, reinigt er, damit sie noch mehr Frucht bringe.
 ^3^ Ihr seid bereits rein infolge des Wortes, das ich zu euch geredet habe:
@@ -983,7 +983,7 @@ So sprach Jesus, entfernte sich dann und hielt sich vor ihnen verborgen.
 ^26^ Wenn aber der Helfer<sup title="oder: Anwalt, Beistand">&#x2732;</sup> kommt, den ich euch vom Vater her senden werde, der Geist der Wahrheit, der vom Vater ausgeht, der wird Zeugnis über mich<sup title="oder: für mich">&#x2732;</sup> ablegen.
 ^27^ Doch auch ihr seid (meine) Zeugen, weil ihr von Anfang an bei mir (gewesen) seid.
 
- # 16
+# 16
 ^1^ Dies habe ich euch gesagt, damit ihr nicht Anstoß nehmt<sup title="= im Glauben irre werdet">&#x2732;</sup>.
 ^2^ Man wird euch in den Bann tun<sup title="vgl. 9,22">&#x2732;</sup>; ja, es kommt die Stunde, wo jeder, der euch tötet, Gott eine Opfergabe darzubringen<sup title="= einen heiligen Dienst zu erweisen">&#x2732;</sup> meint.
 ^3^ Und so werden sie verfahren, weil sie weder den Vater noch mich erkannt haben<sup title="oder: kennen">&#x2732;</sup>.
@@ -1033,7 +1033,7 @@ So sprach Jesus, entfernte sich dann und hielt sich vor ihnen verborgen.
 
 ##### aa) Jesu Gebet für sich selbst (um seine Verherrlichung nach Vollendung seines Werkes)
 
- # 17
+# 17
 ^1^ So redete Jesus; dann richtete er seine Augen zum Himmel empor und betete: »Vater, die Stunde ist gekommen: verherrliche deinen Sohn, damit der Sohn dich verherrliche!
 ^2^ Du hast ihm ja Macht über alles Fleisch<sup title="= über die ganze Menschheit">&#x2732;</sup> verliehen, damit er allen, die du ihm gegeben hast, ewiges Leben gebe.
 ^3^ Darin besteht aber das ewige Leben, daß sie dich, den allein wahren Gott, und den du gesandt hast, Jesus Christus, erkennen.
@@ -1072,7 +1072,7 @@ So sprach Jesus, entfernte sich dann und hielt sich vor ihnen verborgen.
 
 ### 1. Jesus in Gethsemane: Judas, Malchus, Gefangennahme Jesu
 
- # 18
+# 18
 ^1^ Nachdem Jesus so gebetet hatte, ging er mit seinen Jüngern (aus der Stadt) hinaus über den Bach Kidron hinüber an einen Ort, wo ein Garten war, in den er mit seinen Jüngern eintrat.
 ^2^ Aber auch Judas, sein Verräter, kannte diesen Ort, weil Jesus dort oft mit seinen Jüngern zusammengekommen war.
 ^3^ Nachdem nun Judas die Abteilung<sup title="oder: eine Schar">&#x2732;</sup> Soldaten und von den Hohenpriestern und Pharisäern Diener erhalten hatte, kam er mit Fackeln, Laternen und Waffen dorthin.
@@ -1131,7 +1131,7 @@ Nach diesen Worten ging er wieder zu den Juden hinaus und sagte zu ihnen: »Ich 
 ^39^ Es ist aber herkömmlich bei euch, daß ich euch am Passah einen (Gefangenen) freigebe: soll ich euch also den König der Juden freigeben?«
 ^40^ Da riefen sie wieder laut: »Nein, nicht diesen, sondern den Barabbas!« Barabbas war aber ein Räuber<sup title="= Raubmörder">&#x2732;</sup>.
 
- # 19
+# 19
 ^1^ Da ließ nun Pilatus Jesus ergreifen und geißeln;
 ^2^ dann flochten die Soldaten eine Dornenkrone, setzten sie ihm aufs Haupt und legten ihm einen scharlachroten Mantel um;
 ^3^ hierauf traten sie vor ihn hin und riefen aus: »Sei gegrüßt, Judenkönig!« und versetzten ihm Schläge ins Gesicht.
@@ -1192,7 +1192,7 @@ b So übernahmen sie<sup title="d.h. die Soldaten">&#x2732;</sup> denn Jesus;
 
 #### a) Maria von Magdala und das leere Grab; Petrus und Johannes am Grabe
 
- # 20
+# 20
 ^1^ Am ersten Tage nach dem Sabbat<sup title="oder: am ersten Tage der Woche">&#x2732;</sup> aber ging Maria Magdalena frühmorgens, als es noch dunkel war, zum Grabe hin und sah, daß der Stein vom Grabe weggenommen war.
 ^2^ Da eilte sie hin und kam zu Simon Petrus und zu dem anderen Jünger, den Jesus (besonders) lieb gehabt hatte, und sagte zu ihnen: »Man hat den Herrn aus dem Grabe weggenommen, und wir wissen nicht, wohin man ihn gelegt hat!«
 ^3^ Da gingen Petrus und der andere Jünger hinaus und machten sich auf den Weg zum Grabe.
@@ -1243,7 +1243,7 @@ b So übernahmen sie<sup title="d.h. die Soldaten">&#x2732;</sup> denn Jesus;
 
 #### a) Jesus offenbart sich seinen Jüngern am See von Tiberias; der wunderbare Fischzug
 
- # 21
+# 21
 ^1^ Danach<sup title="= später">&#x2732;</sup> offenbarte Jesus sich seinen Jüngern noch einmal am See von Tiberias, und zwar offenbarte er sich auf folgende Weise:
 ^2^ Es waren beisammen Simon Petrus und Thomas, der den Namen ›Zwilling‹ führt<sup title="20,24">&#x2732;</sup>, Nathanael aus Kana in Galiläa, die (beiden) Söhne des Zebedäus und noch zwei andere aus der Zahl seiner Jünger.
 ^3^ Da sagte Simon Petrus zu ihnen: »Ich gehe hin und fische!« Sie erwiderten ihm: »Dann gehen auch wir mit dir!« So gingen sie denn hinaus und stiegen in das Boot, fingen aber in jener Nacht nichts.

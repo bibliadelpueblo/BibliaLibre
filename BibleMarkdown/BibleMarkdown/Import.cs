@@ -101,6 +101,8 @@ namespace BibleMarkdown
 							src = Regex.Replace(src, @"(\^1\^ \w )(\w*)", m => $"{m.Groups[1].Value}{m.Groups[2].Value.ToLower()}");
 						}
 
+						src = Regex.Replace(src, @"\^[0-9]\^(?=\s*(\^[0-9]+\^|#|$))", "", RegexOptions.Singleline); // remove empty verses
+
 						var md = Path.Combine(mdpath, $"{bookno:D2}-{book}.md");
 						bookno++;
 						File.WriteAllText(md, src);
@@ -204,7 +206,7 @@ namespace BibleMarkdown
 
 				foreach (var source in sources)
 				{
-					var root = XElement.Load(File.Open(source, FileMode.Open));
+					var root = XElement.Load(File.Open(source, FileMode.Open, FileAccess.Read));
 
 					foreach (var book in root.Elements("BIBLEBOOK"))
 					{
@@ -258,8 +260,23 @@ namespace BibleMarkdown
 				var frame = File.ReadAllText(frmfile);
 				frame = Regex.Replace(frame, "%(!=!).*?%", "", RegexOptions.Singleline); // remove comments
 
-				var linklistfile = $@"{path}\src\linklist.xml";
 				var namesfile = $@"{path}\src\bnames.xml";
+				var linklistfile = $@"{path}\src\linklist.xml";
+
+				bool MapVerses = false;
+				string language = "english";
+				frame = Regex.Replace(frame, @"%!map-verses (?<language>[a-zA-Z0-9]+).*?%\r?\n?", m => {
+					MapVerses = true;
+					language = m.Groups["language"].Value;
+					return "";
+				}, RegexOptions.Singleline);
+				var bnames = XElement.Load(File.Open(namesfile, FileMode.Open, FileAccess.Read))
+				  .Elements("ID")
+				  .Where(id => ((string)id.Attribute("descr")) == language)
+				  .FirstOrDefault()
+				  .Elements("BOOK")
+				  .ToArray();
+
 
 				if (FromSource || Imported)
 				{
@@ -270,7 +287,7 @@ namespace BibleMarkdown
 						File.SetLastWriteTimeUtc(srcfile, DateTime.Now);
 						var src = File.ReadAllText(srcfile);
 						var srcname = Path.GetFileName(srcfile);
-						var book = Regex.Replace(srcname, @"[0-9]+\.?[0-9]*-", "");
+						string book = Regex.Replace(srcname, @"[0-9]+\.?[0-9]*-", "");
 
 						var frmpartmatch = Regex.Match(frame, $@"(?<=(^|\n)# {srcname}\r?\n).*?(?=\n# |$)", RegexOptions.Singleline);
 						if (frmpartmatch.Success)
@@ -297,19 +314,6 @@ namespace BibleMarkdown
 							src = Regex.Replace(src, @"(?<=^|\n)##+.*?\r?\n", "", RegexOptions.Singleline); // remove titles
 																																	  // src = Regex.Replace(src, @"(\s*\^[a-zA-Z]+\^)|(([ \t]*\^[a-zA-Z]+\^\[[^\]]*\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
 							src = Regex.Replace(src, @"%!verse-paragraphs.*?%\r?\n?", "", RegexOptions.Singleline); // remove verse paragraphs
-							bool MapVerses = false;
-							string language = "default";
-							src = Regex.Replace(src, @"%!map-verses (?<language>[a-zA-Z]+).*?%\r?\n?", m => {
-								MapVerses = true;
-								language = m.Groups["language"].Value;
-								return "";
-							}, RegexOptions.Singleline);
-							 var bnames = XElement.Load(File.OpenRead(namesfile))
-								.Elements("ID")
-								.Where(id => ((string)id.Attribute("descr")) == language)
-								.FirstOrDefault()
-								.Elements("BOOK")
-								.ToArray();
 
 							var frmpart = frmpartmatch.Value;
 							var frames = Regex.Matches(frmpart, @"(?<=(^|\n)## (?<chapter>[0-9]+)(?:\r?\n|$).*?)\^(?<verse>[0-9]+)\^(?<versecontent>(\s*((?<marker>\^[a-zA-Z]+\^(?!\[))|(?<footnote>\^[a-zA-Z]+\^\[[^\]]*\])))*\s*(?:(?:\r?\n#(?<titlelevel>#+)\s*(?<title>.*?)(\r?\n|$))|\\|(?=\^[0-9]+\^)))", RegexOptions.Singleline).GetEnumerator();
@@ -320,38 +324,89 @@ namespace BibleMarkdown
 
 							int chapter = 0;
 							int verse = 0;
-							int markerno = 1;
-							Queue<int> footers = new Queue<int>();
 
-							src = Regex.Replace(src, @"(?<=^|\n)#\s+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)", m =>
+							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?).*?(?=\^[0-9]+\^|\s*#|\s*$)", m =>
 							{
-							var txt = m.Value;
+								var txt = m.Value;
 
-							if (m.Groups["chapter"].Success) // chapter
-							{
-								int.TryParse(m.Groups["chapter"].Value, out chapter); verse = 0;
-							}
-							else if (m.Groups["verse"].Success) // verse
-							{
-								int.TryParse(m.Groups["verse"].Value, out verse);
-							}
-
-
-							if (hasFrame)
-							{
-								var f = (Match)frames.Current;
-								int fchapter = 0;
-								int fverse = 0;
-								int.TryParse(f.Groups["chapter"].Value, out fchapter);
-								int.TryParse(f.Groups["verse"].Value, out fverse);
-
-								var loc = new Location
+								if (m.Groups["chapter"].Success) // chapter
 								{
-									Book = book,
-									Chapter = fchapter,
-									Verse = fverse
-								};
-									if (MapVerses) loc = loc.Map();
+									int.TryParse(m.Groups["chapter"].Value, out chapter); verse = 0;
+								}
+								else if (m.Groups["verse"].Success) // verse
+								{
+									int.TryParse(m.Groups["verse"].Value, out verse);
+								}
+
+								if (hasFrame)
+								{
+									var f = (Match)frames.Current;
+									int fchapter = 0;
+									int fverse = 0;
+									int.TryParse(f.Groups["chapter"].Value, out fchapter);
+									int.TryParse(f.Groups["verse"].Value, out fverse);
+
+									var loc = new Location
+									{
+										Book = book,
+										Chapter = fchapter,
+										Verse = fverse
+									};
+									if (MapVerses) loc = Verses.Titles.Map(loc);
+
+									if (loc.Chapter <= chapter && loc.Verse <= verse)
+									{
+										hasFrame = frames.MoveNext();
+
+										if (f.Groups["title"].Success && f.Groups["titlelevel"].Value != "#")
+											if (m.Groups["chapter"].Success)
+											{
+												return $"{txt}## {f.Groups["title"].Value}{Environment.NewLine}";
+											}
+											else
+											{
+												return $"{txt}{Environment.NewLine}{Environment.NewLine}## {f.Groups["title"].Value}{Environment.NewLine}"; // add title
+											}
+									//if (hasFoots) res.AppendLine();
+										return txt;
+									}
+								}
+
+								return txt;
+							}, RegexOptions.Singleline);
+
+							chapter = 0;
+							verse = 0;
+							frames.Reset();
+							hasFrame = frames.MoveNext();
+							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?).*?(?=\^[0-9]+\^|\s*#|\s*$)", m =>
+							{
+								var txt = m.Value;
+
+								if (m.Groups["chapter"].Success) // chapter
+								{
+									int.TryParse(m.Groups["chapter"].Value, out chapter); verse = 0;
+								}
+								else if (m.Groups["verse"].Success) // verse
+								{
+									int.TryParse(m.Groups["verse"].Value, out verse);
+								}
+
+								if (hasFrame)
+								{
+									var f = (Match)frames.Current;
+									int fchapter = 0;
+									int fverse = 0;
+									int.TryParse(f.Groups["chapter"].Value, out fchapter);
+									int.TryParse(f.Groups["verse"].Value, out fverse);
+
+									var loc = new Location
+									{
+										Book = book,
+										Chapter = fchapter,
+										Verse = fverse
+									};
+									if (MapVerses) loc = Verses.Footnotes.Map(loc);
 
 									if (loc.Chapter <= chapter && loc.Verse <= verse)
 									{
@@ -363,7 +418,7 @@ namespace BibleMarkdown
 											var markers = Regex.Matches(f.Groups["versecontent"].Value, @"\^[a-zA-Z]+\^(?!\[)");
 											foreach (Match marker in markers)
 											{
-											//if (!char.IsWhiteSpace(m.Value[m.Value.Length - 1])) res.Append(" ");
+												if (!char.IsWhiteSpace(txt[txt.Length - 1])) res.Append(" ");
 
 												res.Append($"{marker.Value} ");
 											}
@@ -375,23 +430,24 @@ namespace BibleMarkdown
 											if (hasFoots) res.Append(" ");
 											else res.AppendLine();
 
-											var footer = Regex.Replace(foot.Groups["foottext"].Value, @"(?<book>\w+)\s+(?<chapter>[0-9]+):(?<verse>[0-9]+)(?:-(?<tochapter>[0-9]+)(?<toverse>[0-9]+))", m =>
+											var footer = Regex.Replace(foot.Value, @"(?<book>\w+)\s+(?<chapter>[0-9]+):(?<verse>[0-9]+)(?:-(?<tochapter>[0-9]+)(?<toverse>[0-9]+))", m =>
 											{
 												var booksname = m.Groups["book"].Value;
-												var book = bnames.FirstOrDefault(x => (string)x.Attribute("bshort") == booksname);
-												var bookname = book.Value;
+												var book = bnames?.FirstOrDefault(x => (string)x.Attribute("bshort") == booksname);
+												var bookname = book?.Value;
 												var from = new Location
 												{
 													Book = bookname,
 													Chapter = int.Parse(m.Groups["chapter"].Value),
 													Verse = int.Parse(m.Groups["verse"].Value)
 												};
-												if (MapVerses) from = from.Map();
+												if (MapVerses) from = Verses.Footnotes.Map(from);
 
 												int tochapter = -1, toverse = -1;
 
 												var str = new StringBuilder($"{booksname} {from.Chapter}:{from.Verse}");
-												if (m.Groups["tochapter"].Success) {
+												if (m.Groups["tochapter"].Success)
+												{
 													tochapter = int.Parse(m.Groups["tochapter"].Value);
 													if (m.Groups["toverse"].Success)
 													{
@@ -402,16 +458,19 @@ namespace BibleMarkdown
 															Book = bookname,
 															Chapter = tochapter,
 															Verse = toverse
-														}.Map();
+														};
+														if (MapVerses) to = Verses.Footnotes.Map(to);
 														str.Append($"-{to.Chapter}:{to.Verse}");
-													} else
+													}
+													else
 													{
 														var to = new Location
 														{
 															Book = bookname,
 															Chapter = from.Chapter,
 															Verse = tochapter
-														}.Map();
+														};
+														if (MapVerses) to = Verses.Footnotes.Map(to);
 														if (to.Chapter == from.Chapter) str.Append($"-{to.Verse}");
 														else str.Append($"-{to.Chapter}:{to.Verse}");
 													}
@@ -420,24 +479,56 @@ namespace BibleMarkdown
 												return str.ToString();
 
 											}, RegexOptions.Singleline);
-										
 
-
-											res.Append(foot.Value);
+											res.Append(footer);
 											hasFoots = true;
 										}
-										if (f.Groups["versecontent"].Value.Contains("\\")) { res.AppendLine(); res.AppendLine(); }
-										else if (f.Groups["title"].Success && f.Groups["titlelevel"].Value != "#")
-											if (m.Groups["chapter"].Success)
-											{
-												return $"{res.ToString()}## {f.Groups["title"].Value}{Environment.NewLine}";
-											}
-											else
-											{
-												return $"{res.ToString()}{Environment.NewLine}{Environment.NewLine}## {f.Groups["title"].Value}{Environment.NewLine}"; // add title
-											}
-									//if (hasFoots) res.AppendLine();
 										return res.ToString();
+									}
+								}
+
+								return txt;
+							}, RegexOptions.Singleline);
+
+							chapter = 0;
+							verse = 0;
+							frames.Reset();
+							hasFrame = frames.MoveNext();
+							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?).*?(?=\^[0-9]+\^|\s*#|\s*$)", m =>
+							{
+								var txt = m.Value;
+
+								if (m.Groups["chapter"].Success) // chapter
+								{
+									int.TryParse(m.Groups["chapter"].Value, out chapter); verse = 0;
+								}
+								else if (m.Groups["verse"].Success) // verse
+								{
+									int.TryParse(m.Groups["verse"].Value, out verse);
+								}
+
+								if (hasFrame)
+								{
+									var f = (Match)frames.Current;
+									int fchapter = 0;
+									int fverse = 0;
+									int.TryParse(f.Groups["chapter"].Value, out fchapter);
+									int.TryParse(f.Groups["verse"].Value, out fverse);
+
+									var loc = new Location
+									{
+										Book = book,
+										Chapter = fchapter,
+										Verse = fverse
+									};
+									if (MapVerses) loc = Verses.Paragraphs.Map(loc);
+
+									if (loc.Chapter <= chapter && loc.Verse <= verse)
+									{
+										hasFrame = frames.MoveNext();
+
+										if (f.Groups["versecontent"].Value.Contains("\\")) return $"{txt}{Environment.NewLine}{Environment.NewLine}";
+										else return txt;
 									}
 								}
 
@@ -480,25 +571,17 @@ namespace BibleMarkdown
 			}
 		}
 
-		public class Location
+		public class Verses : Dictionary<string, SortedList<Location, Location>>
 		{
-			public string Book = "";
-			public int Chapter;
-			public int Verse;
+			public static Verses ParallelVerses = new Verses();
+			public static Verses Paragraphs = new Verses();
+			public static Verses Titles = new Verses();
+			public static Verses Footnotes = new Verses();
 
-			static Dictionary<string, SortedList<Location, Location>> VerseMap = new Dictionary<string, SortedList<Location, Location>>();
-
-			public static void Clear() => VerseMap.Clear();
-			public static void Add(Location edge, Location dest)
-			{
-				Contract.Assert(edge.Book == dest.Book);
-				VerseMap[edge.Book].Add(edge, dest);
-			}
-
-			public static Location Map(Location verse)
+			public Location Map(Location verse)
 			{
 				SortedList<Location, Location> book;
-				if (!VerseMap.TryGetValue(verse.Book, out book)) return verse;
+				if (!TryGetValue(verse.Book, out book)) return verse;
 				int i = 0, j = book.Count, m = 0;
 				Location key = null, dest;
 				while (i != j)
@@ -522,7 +605,7 @@ namespace BibleMarkdown
 					{
 						Book = verse.Book,
 						Chapter = verse.Chapter - key.Chapter + dest.Chapter,
-						Verse = verse.Verse - key.Verse + dest.Verse
+						Verse = verse.Verse - key.Verse + dest.Verse,
 					};
 				}
 				else
@@ -531,9 +614,8 @@ namespace BibleMarkdown
 				}
 			}
 
-			public Location Map() => Map(this);
 
-			public static void ImportMap(string mapfile)
+			public void Import(string mapfile)
 			{
 				if (!File.Exists(mapfile)) return;
 
@@ -546,6 +628,9 @@ namespace BibleMarkdown
 					var book = match.Groups["book"].Value;
 					if (match.Groups["map"].Success)
 					{
+						var list = new SortedList<Location, Location>();
+						Add(book, list);
+
 						var map = Regex.Matches(match.Groups["map"].Value, @"(?<keychapter>[0-9]+):(?<keyverse>[0-9]+)=>(?<destchapter>[0-9]+):(?<destverse>[0-9]+)", RegexOptions.Singleline);
 						foreach (Match edge in map)
 						{
@@ -553,20 +638,26 @@ namespace BibleMarkdown
 							{
 								Book = book,
 								Chapter = int.Parse(edge.Groups["keychapter"].Value),
-								Verse = int.Parse(edge.Groups["keyverse"].Value)
+								Verse = int.Parse(edge.Groups["keyverse"].Value),
 							};
 							var dest = new Location
 							{
 								Book = book,
 								Chapter = int.Parse(edge.Groups["destchapter"].Value),
-								Verse = int.Parse(edge.Groups["destverse"].Value)
+								Verse = int.Parse(edge.Groups["destverse"].Value),
 							};
-							Add(key, dest);
+							list.Add(key, dest);
 						}
 					}
 				}
-
 			}
+
+		}
+		public class Location
+		{
+			public string Book = "";
+			public int Chapter;
+			public int Verse;
 		}
 	}
 }

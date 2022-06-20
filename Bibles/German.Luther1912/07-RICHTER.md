@@ -25,7 +25,7 @@
 ^a^[**1:17** 4Mo 21,2] ^b^[**1:21** Ri 1,8; Jos 15,63; Jos 18,28]
 
 ## Empresas de los Josefitas y otras tribus; los cananeos no serán completamente expulsados
-^22^ Desgleichen zogen auch die Kinder Joseph hinauf gen Beth-El, und der HErr war mit ihnen. ^23^ Und das Haus Josephs ließ auskundschaften Beth-El, das vorzeiten Lus hieß. ^24^ Und die Wächter sahen einen Mann aus der Stadt gehen und sprachen zu ihm: Weise uns, wo wir in die Stadt kommen, so wollen wir Barmherzigkeit an dir tun. ^25^ Und da er ihnen zeigte, wo sie in die Stadt kämen, schlugen sie die Stadt mit der Schärfe des Schwerts; aber den Mann und all sein Geschlecht ließen sie gehen. ^a^ ^26^ Da zog derselbe Mann ins Land der Hethiter und baute eine Stadt und hieß sie Lus; die heißt noch heutigestages also. 
+^22^ Desgleichen zogen auch die Kinder Joseph hinauf gen Beth-El, und der HErr war mit ihnen. ^23^ Und das Haus Josephs ließ auskundschaften Beth-El, das vorzeiten Lus hieß. ^24^ Und die Wächter sahen einen Mann aus der Stadt gehen und sprachen zu ihm: Weise uns, wo wir in die Stadt kommen, so wollen wir Barmherzigkeit an dir tun. ^25^ Und da er ihnen zeigte, wo sie in die Stadt kämen, schlugen sie die Stadt mit der Schärfe des Schwerts; aber den Mann und all sein Geschlecht ließen sie gehen. ^a^ ^26^ Da zog derselbe Mann ins Land der Hethiter und baute eine Stadt und hieß sie Lus; die heißt noch heutigestages also.
 ^a^[**1:25** Jos 6,25]
 
 ## Panorama general de los territorios no conquistados
@@ -40,7 +40,7 @@
 ^4^ Und da der Engel des HErrn solche Worte geredet hatte zu allen Kindern Israel, hob das Volk seine Stimme auf und weinte, ^5^ und hießen die Stätte Bochim und opferten daselbst dem HErrn. 
 
 ## Después de la muerte de Josué y sus compañeros, Israel se volvió idolatría
-^6^ Als Josua das Volk von sich gelassen hatte und die Kinder Israel hingezogen waren, ein jeglicher in sein Erbteil, das Land einzunehmen, ^7^ diente das Volk dem HErrn, solange Josua lebte und die Ältesten, die noch lange nach Josua lebten und alle die großen Werke des HErrn gesehen hatten, die er Israel getan hatte. ^a^ ^8^ Da nun Josua, der Sohn Nuns, gestorben war, der Knecht des HErrn, als er 110 Jahre alt war, ^9^ begruben sie ihn in den Grenzen seines Erbteile zu Thimnath-Heres auf dem Gebirge Ephraim, mitternachtwärts vom Berge Gaas. ^10^ Da auch alle, die zu der Zeit gelebt hatten, zu ihren Vätern versammelt wurden, kam nach ihnen ein anderes Geschlecht auf, das den HErrn nicht kannte noch sein Werke, die er an Israel getan hatte. ^11^ Da taten die Kinder Israel übel vor dem HErrn und dienten den Baalim ^12^ und verließen den HErrn, ihrer Väter Gott, der sie aus Ägyptenland geführt hatte, und folgten anderen Göttern nach von den Göttern der Völker, die um sie her wohnten, und beteten sie an und erzürnten den HErrn; 
+^6^ Als Josua das Volk von sich gelassen hatte und die Kinder Israel hingezogen waren, ein jeglicher in sein Erbteil, das Land einzunehmen, ^7^ diente das Volk dem HErrn, solange Josua lebte und die Ältesten, die noch lange nach Josua lebten und alle die großen Werke des HErrn gesehen hatten, die er Israel getan hatte. ^a^ ^8^ Da nun Josua, der Sohn Nuns, gestorben war, der Knecht des HErrn, als er 110 Jahre alt war, ^9^ begruben sie ihn in den Grenzen seines Erbteile zu Thimnath-Heres auf dem Gebirge Ephraim, mitternachtwärts vom Berge Gaas. ^10^ Da auch alle, die zu der Zeit gelebt hatten, zu ihren Vätern versammelt wurden, kam nach ihnen ein anderes Geschlecht auf, das den HErrn nicht kannte noch sein Werke, die er an Israel getan hatte. ^11^ Da taten die Kinder Israel übel vor dem HErrn und dienten den Baalim ^12^ und verließen den HErrn, ihrer Väter Gott, der sie aus Ägyptenland geführt hatte, und folgten anderen Göttern nach von den Göttern der Völker, die um sie her wohnten, und beteten sie an und erzürnten den HErrn;
 ^a^[**2:7** Jos 24,31]
 
 ## Alternancia regular de apostasía y castigo, arrepentimiento y salvación; ira de Dios
@@ -49,7 +49,7 @@
 
 # 3
 ## Indicación de los pueblos paganos que permanecieron en Canaán, cuyo Dios usó a los israelitas para probar y guiar
-^1^ Dies sind die Heiden, die der HErr ließ bleiben, dass er durch sie Israel versuchte, alle, die nicht wussten um die Kriege Kanaans, ^2^ und dass die Geschlechter der Kinder Israel wüssten und lernten streiten, die zuvor nichts darum wussten, ^3^ nämlich die fünf Fürsten der Philister und alle Kanaaniter und Sidonier und Heviter, die am Berg Libanon wohnten, von dem Berg Baal-Hermon an, bis wo man kommt gen Hamath. ^a^ ^4^ Dieselben blieben, Israel durch sie zu versuchen, dass es kund würde, ob sie den Geboten des HErrn gehorchten, die er ihren Vätern geboten hatte durch Mose. ^5^ Da nun die Kinder Israel also wohnten unter den Kanaanitern, Hethitern, Amoritern, Pheresitern, Hevitern und Jebusitern, ^6^ nahmen sie jener Töchter zu Weibern und gaben ihre Töchter jener Söhnen und dienten jener Göttern. 
+^1^ Dies sind die Heiden, die der HErr ließ bleiben, dass er durch sie Israel versuchte, alle, die nicht wussten um die Kriege Kanaans, ^2^ und dass die Geschlechter der Kinder Israel wüssten und lernten streiten, die zuvor nichts darum wussten, ^3^ nämlich die fünf Fürsten der Philister und alle Kanaaniter und Sidonier und Heviter, die am Berg Libanon wohnten, von dem Berg Baal-Hermon an, bis wo man kommt gen Hamath. ^a^ ^4^ Dieselben blieben, Israel durch sie zu versuchen, dass es kund würde, ob sie den Geboten des HErrn gehorchten, die er ihren Vätern geboten hatte durch Mose. ^5^ Da nun die Kinder Israel also wohnten unter den Kanaanitern, Hethitern, Amoritern, Pheresitern, Hevitern und Jebusitern, ^6^ nahmen sie jener Töchter zu Weibern und gaben ihre Töchter jener Söhnen und dienten jener Göttern.
 ^a^[**3:3** Jos 13,3]
 
 ## Los primeros jueces: Otoniel, Ehud y Samgar
@@ -104,18 +104,18 @@
 ^a^[**5:4** 5Mo 33,2; Hab 3,3-6] ^b^[**5:5** Ps 68,9]
 
 ## Las tristes condiciones hasta ahora
-^6^ Zu den Zeiten Samgars, des Sohnes Anaths, zu den Zeiten Jaels waren verlassen die Wege; und die da auf Straßen gehen sollten, die wandelten durch krumme Wege. ^a^ ^7^ Es gebrach, an Regiment gebrach's in Israel, bis dass ich, Debora, aufkam, bis ich aufkam, eine Mutter in Israel. ^8^ Ein Neues hat Gott erwählt, er hat die Tore bestritten. Es war kein Schild noch Speer unter 40.000 in Israel zu sehen. 
+^6^ Zu den Zeiten Samgars, des Sohnes Anaths, zu den Zeiten Jaels waren verlassen die Wege; und die da auf Straßen gehen sollten, die wandelten durch krumme Wege. ^a^ ^7^ Es gebrach, an Regiment gebrach's in Israel, bis dass ich, Debora, aufkam, bis ich aufkam, eine Mutter in Israel. ^8^ Ein Neues hat Gott erwählt, er hat die Tore bestritten. Es war kein Schild noch Speer unter 40.000 in Israel zu sehen.
 ^a^[**5:6** Ri 3,31]
 
 ## El presente feliz
-^9^ Mein Herz ist mit den Gebietern Israels, mit denen, die willig waren unter dem Volk. Lobet den HErrn! ^10^ Die ihr auf schönen Eselinnen reitet, die ihr auf Teppichen sitzet, und die ihr auf dem Wege gehet: singet! ^a^ ^11^ Da die Schützen schreien zwischen den Schöpf-Rinnen, da sage man von der Gerechtigkeit des HErrn, von der Gerechtigkeit seines Regiments in Israel. Da zog des HErrn Volk herab zu den Toren. 
+^9^ Mein Herz ist mit den Gebietern Israels, mit denen, die willig waren unter dem Volk. Lobet den HErrn! ^10^ Die ihr auf schönen Eselinnen reitet, die ihr auf Teppichen sitzet, und die ihr auf dem Wege gehet: singet! ^a^ ^11^ Da die Schützen schreien zwischen den Schöpf-Rinnen, da sage man von der Gerechtigkeit des HErrn, von der Gerechtigkeit seines Regiments in Israel. Da zog des HErrn Volk herab zu den Toren.
 ^a^[**5:10** Ri 10,4; Ri 12,14]
 
 ## Las tribus de Israel en batalla
 ^12^ Wohlauf, wohlauf, Debora! Wohlauf, wohlauf, und singe ein Lied! Mache dich auf, Barak, und fange deine Fänger, du Sohn Abinoams! ^13^ Da zog herab, was übrig war von Herrlichen im Volk; der HErr zog mit mir herab unter den Helden. ^14^ Aus Ephraim die, die ihre Wurzel haben in Amalek, und nach dir Benjamin in deinem Volk; von Machir zogen Gebieter herab und von Sebulon, die den Führerstab hielten. ^15^ Und Fürsten zu Isaschar waren mit Debora. Und Isaschar war wie Barak, in den Grund gesandt ihm nach. Ruben hielt hoch von sich und sonderte sich von uns. ^16^ Warum bleibst du zwischen den Hürden, zu hören das Blöken der Herden, und hältst groß von dir und sonderst dich von uns? ^17^ Gilead blieb jenseits des Jordans. Und warum wohnt Dan unter den Schiffen? Asser saß an der Anfurt des Meers und blieb an seinen zerrissenen Ufern. ^18^ Sebulons Volk aber wagte seine Seele in den Tod, Naphthali auch auf der Höhe des Gefildes. 
 
 ## La batalla
-^19^ Die Könige kamen und stritten; da stritten die Könige der Kanaaniter zu Thaanach am Wasser Megiddos; aber sie brachten keinen Gewinn davon. ^20^ Vom Himmel ward wider sie gestritten; die Sterne in ihren Bahnen stritten wider Sisera. ^a^ ^21^ Der Bach Kison wälzte sie, der Bach Kedumim, der Bach Kison. Tritt, meine Seele, auf die Starken! ^22^ Da rasselten der Pferde Füße von dem Jagen ihrer mächtigen Reiter. ^23^ Fluchet der Stadt Meros, sprach der Engel des HErrn; fluchet ihren Bürgern, dass sie nicht kamen dem HErrn zu Hilfe, zu Hilfe dem HErrn unter den Helden! 
+^19^ Die Könige kamen und stritten; da stritten die Könige der Kanaaniter zu Thaanach am Wasser Megiddos; aber sie brachten keinen Gewinn davon. ^20^ Vom Himmel ward wider sie gestritten; die Sterne in ihren Bahnen stritten wider Sisera. ^a^ ^21^ Der Bach Kison wälzte sie, der Bach Kedumim, der Bach Kison. Tritt, meine Seele, auf die Starken! ^22^ Da rasselten der Pferde Füße von dem Jagen ihrer mächtigen Reiter. ^23^ Fluchet der Stadt Meros, sprach der Engel des HErrn; fluchet ihren Bürgern, dass sie nicht kamen dem HErrn zu Hilfe, zu Hilfe dem HErrn unter den Helden!
 ^a^[**5:20** Ri 4,15; 2Mo 14,25; Jos 10,14; Jos 10,42]
 
 ## La hazaña de Jael
@@ -125,7 +125,7 @@
 ^28^ Die Mutter Siseras sah zum Fenster hinaus und heulte durchs Gitter: Warum verzieht sein Wagen, dass er nicht kommt? Wie bleiben die Räder seiner Wagen so dahinten? ^29^ Die weisesten unter ihren Frauen antworteten, da sie ihre Klageworte immer wiederholte: ^30^ Sollen sie denn nicht finden und austeilen den Raub, einem jeglichen Mann eine Dirne oder zwei zur Ausbeute und Sisera bunte gestickte Kleider zur Ausbeute, gestickte bunte Kleider um dem Hals zur Ausbeute? 
 
 ## El canto del cisne
-^31^ Also müssen umkommen, HErr, alle deine Feinde! Die ihn aber liebhaben, müssen sein, wie die Sonne aufgeht in ihrer Macht! – Und das Land war still 40 Jahre.^a^ 
+^31^ Also müssen umkommen, HErr, alle deine Feinde! Die ihn aber liebhaben, müssen sein, wie die Sonne aufgeht in ihrer Macht! – Und das Land war still 40 Jahre. ^a^ 
 ^a^[**5:31** Ri 3,11]
 
 # 6
@@ -219,7 +219,7 @@
 ^23^ Und die Männer Israels von Naphthali, von Asser und vom ganzen Manasse wurden zuhauf gerufen und jagten den Midianitern nach. ^24^ Und Gideon sandte Botschaft auf das ganze Gebirge Ephraim und ließ sagen: Kommt herab, den Midianitern entgegen, und gewinnt das Wasser vor ihnen bis gen Beth-Bara und auch den Jordan. Da eilten zusammen alle, die von Ephraim waren, und gewannen das Wasser vor ihnen bis gen Beth-Bara und den Jordan ^25^ und fingen zwei Fürsten der Midianiter, Oreb und Seeb, und erwürgten Oreb auf dem Fels Oreb und Seeb in der Kelter Seeb, und jagten die Midianiter und brachten die Häupter Orebs und Seebs zu Gideon über den Jordan.
 
 # 8
-^1^ Und die Männer von Ephraim sprachen zu ihm: Warum hast du uns das getan, dass du uns nicht riefst, da du in den Streit zogst wider die Midianiter? Und zankten mit ihm heftig. ^a^ ^2^ Er aber sprach zu ihnen: Was habe ich jetzt getan, das eurer Tat gleich sei? Ist nicht die Nachlese Ephraims besser denn die ganze Weinernte Abiesers? ^b^ ^3^ Gott hat die Fürsten der Midianiter, Oreb und Seeb, in eure Hände gegeben. Wie hätte ich können das tun, was ihr getan habt? Da er solches redete, ließ ihr Zorn von ihm ab. 
+^1^ Und die Männer von Ephraim sprachen zu ihm: Warum hast du uns das getan, dass du uns nicht riefst, da du in den Streit zogst wider die Midianiter? Und zankten mit ihm heftig. ^a^ ^2^ Er aber sprach zu ihnen: Was habe ich jetzt getan, das eurer Tat gleich sei? Ist nicht die Nachlese Ephraims besser denn die ganze Weinernte Abiesers? ^b^ ^3^ Gott hat die Fürsten der Midianiter, Oreb und Seeb, in eure Hände gegeben. Wie hätte ich können das tun, was ihr getan habt? Da er solches redete, ließ ihr Zorn von ihm ab.
 ^a^[**8:1** Ri 12,1] ^b^[**8:2** Ri 6,11; Ri 6,15]
 
 ## La solicitud de Gedeón en Sukkoth y Pnuel fue rechazada cruelmente
@@ -255,7 +255,7 @@
 ^a^[**8:32** Ri 6,11]
 
 ## Nueva apostasía de los israelitas de Dios y su ingratitud hacia Gedeón
-^33^ Da aber Gideon gestorben war, kehrten sich die Kinder Israel um und liefen den Baalim nach und machten sich Baal-Berith zum Gott. ^a^ ^34^ Und die Kinder Israel gedachten nicht an den HErrn, ihren Gott, der sie errettet hatte von der Hand aller ihrer Feinde umher, ^35^ und taten nicht Barmherzigkeit an dem Hause des Jerubbaal Gideon, wie er alles Gute an Israel getan hatte.^b^ 
+^33^ Da aber Gideon gestorben war, kehrten sich die Kinder Israel um und liefen den Baalim nach und machten sich Baal-Berith zum Gott. ^a^ ^34^ Und die Kinder Israel gedachten nicht an den HErrn, ihren Gott, der sie errettet hatte von der Hand aller ihrer Feinde umher, ^35^ und taten nicht Barmherzigkeit an dem Hause des Jerubbaal Gideon, wie er alles Gute an Israel getan hatte. ^b^ 
 ^a^[**8:33** Ri 2,11; Ri 9,4] ^b^[**8:35** Ri 9,5; Ri 9,19; Ri 9,24]
 
 # 9
@@ -263,7 +263,7 @@
 ^1^ Abimelech aber, der Sohn Jerubbaals, ging hin gen Sichem zu den Brüdern seiner Mutter und redete mit ihnen und mit dem ganzen Geschlecht des Vaterhauses seiner Mutter und sprach: ^a^ ^2^ Redet doch vor den Ohren aller Männer zu Sichem: was ist euch besser, dass 70 Männer, alle Kinder Jerubbaals, über euch Herren seien, oder dass ein Mann über euch Herr sei? Gedenkt auch dabei, dass ich euer Gebein und Fleisch bin. 
 ^a^[**9:1** Ri 8,31]
 
-^3^ Da redeten die Brüder seiner Mutter von ihm alle diese Worte vor den Ohren aller Männer zu Sichem. Und ihr Herz neigte sich Abimelech nach; denn sie gedachten: Er ist unser Bruder. ^4^ Und sie gaben ihm 70 Silberlinge aus dem Haus Baal-Beriths. Und Abimelech dingte damit lose, leichtfertige Männer, die ihm nachfolgten. ^a^ ^5^ Und er kam in seines Vaters Haus gen Ophra und erwürgte seine Brüder, die Kinder Jerubbaals, 70 Mann, auf einem Stein. Es blieb aber übrig Jotham, der jüngste Sohn Jerubbaals; denn er war versteckt. ^6^ Und es versammelten sich alle Männer von Sichem und das ganze Haus Millo, gingen hin und machten Abimelech zum König bei der hohen Eiche, die zu Sichem steht. 
+^3^ Da redeten die Brüder seiner Mutter von ihm alle diese Worte vor den Ohren aller Männer zu Sichem. Und ihr Herz neigte sich Abimelech nach; denn sie gedachten: Er ist unser Bruder. ^4^ Und sie gaben ihm 70 Silberlinge aus dem Haus Baal-Beriths. Und Abimelech dingte damit lose, leichtfertige Männer, die ihm nachfolgten. ^a^ ^5^ Und er kam in seines Vaters Haus gen Ophra und erwürgte seine Brüder, die Kinder Jerubbaals, 70 Mann, auf einem Stein. Es blieb aber übrig Jotham, der jüngste Sohn Jerubbaals; denn er war versteckt. ^6^ Und es versammelten sich alle Männer von Sichem und das ganze Haus Millo, gingen hin und machten Abimelech zum König bei der hohen Eiche, die zu Sichem steht.
 ^a^[**9:4** Ri 8,33]
 
 ## Jotam lee una seria fábula de advertencia a los siquemitas y los maldice a ellos y a Abimelec
@@ -314,14 +314,14 @@
 
 ^54^ Da rief Abimelech eilend dem Diener, der seine Waffen trug, und sprach zu ihm: Zieh dein Schwert aus und töte mich, dass man nicht von mir sage: Ein Weib hat ihn erwürgt. Da durchstach ihn sein Diener, und er starb. 
 
-^55^ Da aber die Israeliten, die mit ihm waren, sahen, dass Abimelech tot war, ging ein jeglicher an seinen Ort. ^56^ Also bezahlte Gott Abimelech das Übel, das er an seinem Vater getan hatte, da er seine 70 Brüder erwürgte; ^a^ ^57^ desgleichen alles Übel der Männer Sichems vergalt ihnen Gott auf ihren Kopf, und es kam über sie der Fluch Jothams, des Sohnes Serubbaals.^b^ 
+^55^ Da aber die Israeliten, die mit ihm waren, sahen, dass Abimelech tot war, ging ein jeglicher an seinen Ort. ^56^ Also bezahlte Gott Abimelech das Übel, das er an seinem Vater getan hatte, da er seine 70 Brüder erwürgte; ^a^ ^57^ desgleichen alles Übel der Männer Sichems vergalt ihnen Gott auf ihren Kopf, und es kam über sie der Fluch Jothams, des Sohnes Serubbaals. ^b^ 
 ^a^[**9:56** Ri 9,5] ^b^[**9:57** Ri 9,20]
 
 # 10
 ## Los jueces Thola y Jair
 ^1^ Nach Abimelech machte sich auf, zu helfen Israel, Thola, ein Mann von Isaschar, ein Sohn Phuas, des Sohnes Dodos. Und er wohnte zu Samir auf dem Gebirge Ephraim ^2^ und richtete Israel 23 Jahre und starb und wurde begraben zu Samir. 
 
-^3^ Nach ihm machte sich auf Jair, ein Gileaditer, und richtete Israel 22 Jahre. ^a^ ^4^ Der hatte 30 Söhne auf 30 Eselsfüllen reiten; und sie hatten 30 Städte, die hießen Dörfer Jairs bis auf diesen Tag und liegen in Gilead. ^b^ ^5^ Und Jair starb und ward begraben zu Kamon. 
+^3^ Nach ihm machte sich auf Jair, ein Gileaditer, und richtete Israel 22 Jahre. ^a^ ^4^ Der hatte 30 Söhne auf 30 Eselsfüllen reiten; und sie hatten 30 Städte, die hießen Dörfer Jairs bis auf diesen Tag und liegen in Gilead. ^b^ ^5^ Und Jair starb und ward begraben zu Kamon.
 ^a^[**10:3** 4Mo 32,41] ^b^[**10:4** Ri 12,14]
 
 ## La nueva apostasía del pueblo provoca nuevas tribulaciones entre los amonitas; el arrepentimiento sincero produce la gracia divina
@@ -333,7 +333,7 @@
 ^15^ Aber die Kinder Israel sprachen zu dem HErrn: Wir haben gesündigt, mache es nur du mit uns, wie dir's gefällt; allein errette uns zu dieser Zeit. ^16^ Und sie taten von sich die fremden Götter und dienten dem HErrn. Und es jammerte ihn, dass Israel so geplagt ward. 
 
 ## El llamado de Jefté a juzgar
-^17^ Und die Kinder Ammon kamen zuhauf und lagerten sich in Gilead; aber die Kinder Israel versammelten sich und lagerten sich zu Mizpa. ^18^ Und die Obersten des Volks zu Gilead sprachen untereinander: Welcher anfängt zu streiten wider die Kinder Ammon, der soll das Haupt sein über alle, die in Gilead wohnen.^a^ 
+^17^ Und die Kinder Ammon kamen zuhauf und lagerten sich in Gilead; aber die Kinder Israel versammelten sich und lagerten sich zu Mizpa. ^18^ Und die Obersten des Volks zu Gilead sprachen untereinander: Welcher anfängt zu streiten wider die Kinder Ammon, der soll das Haupt sein über alle, die in Gilead wohnen. ^a^ 
 ^a^[**10:18** Ri 11,6-11]
 
 # 11
@@ -430,7 +430,7 @@
 ^23^ Aber sein Weib antwortete ihm: Wenn der HErr Lust hätte, uns zu töten, so hätte er das Brandopfer und Speisopfer nicht genommen von unseren Händen; er hätte uns auch nicht solches alles erzeigt noch uns solches hören lassen, wie jetzt geschehen ist. ^24^ Und das Weib gebar einen Sohn und hieß ihn Simson. Und der Knabe wuchs, und der HErr segnete ihn. 
 
 ## El noviazgo de los Simpson para una mujer filistea; su desgarro de un león, su boda, su acertijo y su venganza
-^25^ Und der Geist des HErrn fing an, ihn zu treiben im Lager Dan zwischen Zora und Esthaol.^a^ 
+^25^ Und der Geist des HErrn fing an, ihn zu treiben im Lager Dan zwischen Zora und Esthaol. ^a^ 
 ^a^[**13:25** Ri 6,34; Ri 14,6; Ri 14,19; Ri 15,14]
 
 # 14
@@ -453,7 +453,7 @@
 
 ^17^ Und sie weinte die sieben Tage vor ihm, da sie Hochzeit hatten; aber am siebenten Tage sagte er's ihr, denn sie drängte ihn. Und sie sagte das Rätsel ihres Volkes Kindern. ^18^ Da sprachen die Männer der Stadt zu ihm am siebenten Tage, ehe die Sonne unterging: Was ist süßer denn Honig? Was ist stärker denn der Löwe? Aber er sprach zu ihnen: Wenn ihr nicht hättet mit meinem Kalb gepflügt, ihr hättet mein Rätsel nicht getroffen. 
 
-^19^ Und der Geist des HErrn geriet über ihn, und er ging hinab gen Askalon und schlug 30 Mann unter ihnen und nahm ihr Gewand und gab Feierkleider denen, die das Rätsel erraten hatten. Und ergrimmte in seinem Zorn und ging herauf in seines Vaters Haus. ^20^ Aber Simsons Weib ward einem seiner Gesellen gegeben, der ihm zugehörte.^a^ 
+^19^ Und der Geist des HErrn geriet über ihn, und er ging hinab gen Askalon und schlug 30 Mann unter ihnen und nahm ihr Gewand und gab Feierkleider denen, die das Rätsel erraten hatten. Und ergrimmte in seinem Zorn und ging herauf in seines Vaters Haus. ^20^ Aber Simsons Weib ward einem seiner Gesellen gegeben, der ihm zugehörte. ^a^ 
 ^a^[**14:20** Ri 15,2]
 
 # 15
@@ -484,7 +484,7 @@
 
 ^18^ Da ihn aber sehr dürstete, rief er den HErrn an und sprach: Du hast solch großes Heil gegeben durch die Hand deines Knechtes; nun aber muss ich Durstes sterben und in der Unbeschnittenen Hände fallen. 
 
-^19^ Da spaltete Gott die Höhlung in Lehi, dass Wasser herausging; und als er trank, kam sein Geist wieder, und er ward erquickt. Darum heißt er noch heutigestages „des Anrufers Brunnen“, der in Lehi ist. ^20^ Und er richtete Israel zu der Philister Zeit 20 Jahre.^a^ 
+^19^ Da spaltete Gott die Höhlung in Lehi, dass Wasser herausging; und als er trank, kam sein Geist wieder, und er ward erquickt. Darum heißt er noch heutigestages „des Anrufers Brunnen“, der in Lehi ist. ^20^ Und er richtete Israel zu der Philister Zeit 20 Jahre. ^a^ 
 ^a^[**15:20** Ri 16,31]
 
 # 16
@@ -584,7 +584,7 @@
 ^26^ Also gingen die Kinder Dan ihres Weges. Und Micha, da er sah, dass sie ihm zu stark waren, wandte er sich um und kam wieder zu seinem Hause. 
 
 ## Los danitas conquistan Lais y establecieron allí el servicio de pinturas de Miqueas y el sacerdocio de Jonatán mosaico
-^27^ Sie aber nahmen, was Micha gemacht hatte, und den Priester, den er hatte, und kamen an Lais, an ein stilles, sicheres Volk, und schlugen es mit der Schärfe des Schwerts und verbrannten die Stadt mit Feuer. ^28^ Und war niemand, der sie errettete; denn sie lag fern von Sidon, und sie hatten mit den Leuten nichts zu schaffen; und sie lag im Grunde, welcher an Beth-Rehob liegt. Da bauten sie die Stadt und wohnten darin ^29^ und nannten sie Dan nach dem Namen ihres Vaters Dan, der Israel geboren war. (Und die Stadt hieß vorzeiten Lais.) ^a^ ^30^ Und die Kinder Dan richteten für sich auf das Bild. Und Jonathan, der Sohn Gersons, des Sohnes Manasses, und seine Söhne waren Priester unter dem Stamm der Daniter bis an die Zeit, da sie aus dem Lande gefangen geführt wurden. ^b^ ^31^ Also setzten sie unter sich das Bild Michas, das er gemacht hatte, so lange, als das Haus Gottes war zu Silo.^c^ 
+^27^ Sie aber nahmen, was Micha gemacht hatte, und den Priester, den er hatte, und kamen an Lais, an ein stilles, sicheres Volk, und schlugen es mit der Schärfe des Schwerts und verbrannten die Stadt mit Feuer. ^28^ Und war niemand, der sie errettete; denn sie lag fern von Sidon, und sie hatten mit den Leuten nichts zu schaffen; und sie lag im Grunde, welcher an Beth-Rehob liegt. Da bauten sie die Stadt und wohnten darin ^29^ und nannten sie Dan nach dem Namen ihres Vaters Dan, der Israel geboren war. (Und die Stadt hieß vorzeiten Lais.) ^a^ ^30^ Und die Kinder Dan richteten für sich auf das Bild. Und Jonathan, der Sohn Gersons, des Sohnes Manasses, und seine Söhne waren Priester unter dem Stamm der Daniter bis an die Zeit, da sie aus dem Lande gefangen geführt wurden. ^b^ ^31^ Also setzten sie unter sich das Bild Michas, das er gemacht hatte, so lange, als das Haus Gottes war zu Silo. ^c^ 
 ^a^[**18:29** Jos 19,47] ^b^[**18:30** 1Kö 12,29] ^c^[**18:31** Jos 18,1]
 
 # 19
@@ -642,7 +642,7 @@
 
 ^24^ Und da die Kinder Israel sich machten an die Kinder Benjamin des anderen Tages, ^25^ fielen die Benjaminiter heraus aus Gibea ihnen entgegen desselben Tages und schlugen von den Kindern Israel noch 18.000 zu Boden, die alle das Schwert führten. 
 
-^26^ Da zogen alle Kinder Israel hinauf und alles Volk und kamen gen Beth-El und weinten und blieben daselbst vor dem HErrn und fasteten den Tag bis zum Abend und opferten Brandopfer und Dankopfer vor dem HErrn. ^a^ ^27^ Und die Kinder Israel fragten den HErrn (es war aber daselbst die Lade des Bundes Gottes zu der Zeit, ^28^ und Pinehas, der Sohn Eleasars, Aarons Sohns, stand vor ihm zu der Zeit) und sprachen: Sollen wir weiter ausziehen, zu streiten mit den Kindern Benjamin, unseren Brüdern, oder sollen wir ablassen? Der HErr sprach: Ziehet hinauf; morgen will ich sie in eure Hände geben. 
+^26^ Da zogen alle Kinder Israel hinauf und alles Volk und kamen gen Beth-El und weinten und blieben daselbst vor dem HErrn und fasteten den Tag bis zum Abend und opferten Brandopfer und Dankopfer vor dem HErrn. ^a^ ^27^ Und die Kinder Israel fragten den HErrn (es war aber daselbst die Lade des Bundes Gottes zu der Zeit, ^28^ und Pinehas, der Sohn Eleasars, Aarons Sohns, stand vor ihm zu der Zeit) und sprachen: Sollen wir weiter ausziehen, zu streiten mit den Kindern Benjamin, unseren Brüdern, oder sollen wir ablassen? Der HErr sprach: Ziehet hinauf; morgen will ich sie in eure Hände geben.
 ^a^[**20:26** Ri 20,18]
 
 ## La destrucción de Gibeas y el exterminio casi completo de la tribu de Benjamín
@@ -661,7 +661,7 @@
 ^4^ Des anderen Morgens machte sich das Volk früh auf und baute da einen Altar und opferte Brandopfer und Dankopfer. ^5^ Und die Kinder Israel sprachen: Wer ist irgend von den Stämmen Israels, der nicht mit der Gemeinde ist heraufgekommen zum HErrn? Denn es war ein großer Eid geschehen, dass wer nicht hinaufkäme zum HErrn gen Mizpa, der sollte des Todes sterben. ^6^ Und es reute die Kinder Israel über Benjamin, ihre Brüder, und sie sprachen: Heute ist ein Stamm von Israel abgebrochen. ^7^ Wie wollen wir ihnen tun, dass die Übriggebliebenen Weiber kriegen? Denn wir haben geschworen bei dem HErrn, dass wir ihnen von unseren Töchtern nicht Weiber geben. ^a^ ^8^ Und sprachen: Wer ist irgend von den Stämmen Israels, die nicht hinaufgekommen sind zum HErrn gen Mizpa? Und siehe, da war im Lager der Gemeinde niemand gewesen von Jabes in Gilead. ^9^ Denn sie zählten das Volk, und siehe, da war kein Bürger da von Jabes in Gilead. ^10^ Da sandte die Gemeinde 12.000 Mann dahin von streitbaren Männern und geboten ihnen und sprachen: Gehet hin und schlaget mit der Schärfe des Schwerts die Bürger zu Jabes in Gilead mit Weib und Kind. ^11^ Doch also sollt ihr tun: alles, was männlich ist, und alle Weiber, die beim Mann gelegen haben, verbannt. ^12^ Und sie fanden bei den Bürgern zu Jabes in Gilead 400 Dirnen, die Jungfrauen waren und bei keinem Mann gelegen hatten; die brachten sie ins Lager gen Silo, das da liegt im Lande Kanaan. 
 ^a^[**21:7** Ri 21,1]
 
-^13^ Da sandte die ganze Gemeinde hin und ließ reden mit den Kindern Benjamin, die im Fels Rimmon waren, und sagten ihnen Frieden zu. ^a^ ^14^ Also kamen die Kinder Benjamin wieder zu der Zeit. Und sie gaben ihnen die Weiber, die sie hatten erhalten von den Weibern zu Jabes in Gilead; aber es waren ihrer also nicht genug für sie. 
+^13^ Da sandte die ganze Gemeinde hin und ließ reden mit den Kindern Benjamin, die im Fels Rimmon waren, und sagten ihnen Frieden zu. ^a^ ^14^ Also kamen die Kinder Benjamin wieder zu der Zeit. Und sie gaben ihnen die Weiber, die sie hatten erhalten von den Weibern zu Jabes in Gilead; aber es waren ihrer also nicht genug für sie.
 ^a^[**21:13** Ri 20,47]
 
 ## El robo de las doncellas de Silo por los benjaminitas; La historia termina

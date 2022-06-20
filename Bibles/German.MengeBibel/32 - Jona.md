@@ -2,7 +2,7 @@
 
 ### 1. Jonas Berufung, Ungehorsam und Bestrafung
 
- # 1
+# 1
 ^1^Einst erging das Wort des HERRN an Jona, den Sohn Amitthais<sup title="2.Kön 14,25">&#x2732;</sup>, folgendermaßen:
 ^2^»Mache dich auf, begib dich nach der großen Stadt Ninive<sup title="1.Mose 10,11-12">&#x2732;</sup> und kündige ihr an, daß ihr böses Tun vor mich gekommen ist!«
 ^3^Aber Jona machte sich auf den Weg, um aus dem Angesicht des HERRN hinweg nach Tharsis zu fliehen; und als er nach Joppe hinabgegangen war und dort ein Schiff gefunden hatte, das nach Tharsis fahren wollte, bezahlte er das Fahrgeld und stieg ein, um mit ihnen<sup title="d.h. den Schiffern">&#x2732;</sup> nach Tharsis zu fahren und so dem HERRN aus den Augen zu kommen.
@@ -21,7 +21,7 @@
 ^15^Darauf ergriffen sie Jona und warfen ihn ins Meer, und sogleich legte sich das Toben des Meeres.
 ^16^Da gerieten die Männer in große Furcht vor dem HERRN; sie brachten dem HERRN ein Schlachtopfer dar und taten Gelübde.
 
- # 2
+# 2
 ^1^Der HERR aber ließ einen großen Fisch kommen, der Jona verschlingen sollte; und Jona befand sich im Bauche des Fisches drei Tage und drei Nächte lang.
 
 ### 2. Jonas Gebet und Errettung
@@ -40,7 +40,7 @@
 
 ### 3. Jonas erfolgreiche Bußpredigt in Ninive
 
- # 3
+# 3
 ^1^Nun erging das Wort des HERRN an Jona zum zweitenmal folgendermaßen:
 ^2^»Mache dich auf, begib dich nach der großen Stadt Ninive und laß sie die Botschaft<sup title="oder: Predigt">&#x2732;</sup> hören, die ich dir ansagen werde!«
 
@@ -56,7 +56,7 @@
 
 ### 4. Jonas Mißmut und Zurechtweisung
 
- # 4
+# 4
 ^1^Das verursachte aber dem Jona großen Verdruß, und er geriet in Zorn,
 ^2^so daß er folgendes Gebet an den HERRN richtete: »Ach, HERR, das ist es ja, was ich gedacht habe, als ich noch daheim war, und eben darum habe ich das vorige Mal die Flucht nach Tharsis ergriffen; denn ich wußte wohl, daß du ein gnädiger und barmherziger Gott bist, langsam zum Zorn und reich an Güte und geneigt, dich das Unheil gereuen zu lassen.
 ^3^Und nun, HERR, nimm doch mein Leben von mir! Denn es ist besser für mich<sup title="oder: ist mir lieber">&#x2732;</sup>, zu sterben als noch am Leben zu bleiben.«

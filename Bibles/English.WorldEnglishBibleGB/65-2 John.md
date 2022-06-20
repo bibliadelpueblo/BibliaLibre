@@ -1,6 +1,6 @@
 # 1 
-^1^ The elder, to the chosen lady and her children, whom I love in truth, and not I only, but also all those who know the truth, ^2^ for the truth’s sake, which remains in us, and it will be with us forever: ^3^ Grace, mercy, and peace will be with us, from God the Father and from the Lord Jesus Christ,^^ the Son of the Father, in truth and love. 
-^[1:3 “Christ” means “Anointed One”.]
+^1^ The elder, to the chosen lady and her children, whom I love in truth, and not I only, but also all those who know the truth, ^2^ for the truth’s sake, which remains in us, and it will be with us forever: ^3^ Grace, mercy, and peace will be with us, from God the Father and from the Lord Jesus Christ,^a^ the Son of the Father, in truth and love. 
+^a^[**1:3** “Christ” means “Anointed One”.]
 
 ^4^ I rejoice greatly that I have found some of your children walking in truth, even as we have been commanded by the Father. ^5^ Now I beg you, dear lady, not as though I wrote to you a new commandment, but that which we had from the beginning, that we love one another. ^6^ This is love, that we should walk according to his commandments. This is the commandment, even as you heard from the beginning, that you should walk in it. 
 

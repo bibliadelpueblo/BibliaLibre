@@ -1,23 +1,23 @@
 # 1 
-^1^ In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went to live in the country of Moab with his wife and his two sons. ^2^ The name of the man was Elimelech, and the name of his wife Naomi. The names of his two sons were Mahlon and Chilion, Ephrathites of Bethlehem Judah. They came into the country of Moab and lived there. ^3^ Elimelech, Naomi’s husband, died; and she was left with her two sons. ^4^ They took for themselves wives of the women of Moab. The name of the one was Orpah, and the name of the other was Ruth. They lived there about ten years. ^5^ Mahlon and Chilion both died, and the woman was bereaved of her two children and of her husband. ^6^ Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how the LORD^^ had visited his people in giving them bread. ^7^ She went out of the place where she was, and her two daughters-in-law with her. They went on the way to return to the land of Judah. ^8^ Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May the LORD deal kindly with you, as you have dealt with the dead and with me. ^9^ May The LORD grant you that you may find rest, each of you in the house of her husband.” 
-^[1:6 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name.]
+^1^ In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went to live in the country of Moab with his wife and his two sons. ^2^ The name of the man was Elimelech, and the name of his wife Naomi. The names of his two sons were Mahlon and Chilion, Ephrathites of Bethlehem Judah. They came into the country of Moab and lived there. ^3^ Elimelech, Naomi’s husband, died; and she was left with her two sons. ^4^ They took for themselves wives of the women of Moab. The name of the one was Orpah, and the name of the other was Ruth. They lived there about ten years. ^5^ Mahlon and Chilion both died, and the woman was bereaved of her two children and of her husband. ^6^ Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how the LORD^a^ had visited his people in giving them bread. ^7^ She went out of the place where she was, and her two daughters-in-law with her. They went on the way to return to the land of Judah. ^8^ Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May the LORD deal kindly with you, as you have dealt with the dead and with me. ^9^ May The LORD grant you that you may find rest, each of you in the house of her husband.” 
+^a^[**1:6** When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name.]
 
 Then she kissed them, and they lifted up their voices, and wept. ^10^ They said to her, “No, but we will return with you to your people.” 
 
 ^11^ Naomi said, “Go back, my daughters. Why do you want to go with me? Do I still have sons in my womb, that they may be your husbands? ^12^ Go back, my daughters, go your way; for I am too old to have a husband. If I should say, ‘I have hope,’ if I should even have a husband tonight, and should also bear sons, ^13^ would you then wait until they were grown? Would you then refrain from having husbands? No, my daughters, for it grieves me seriously for your sakes, for the LORD’s hand has gone out against me.” 
 
-^14^ They lifted up their voices and wept again; then Orpah kissed her mother-in-law, but Ruth stayed with her. ^15^ She said, “Behold,^^ your sister-in-law has gone back to her people and to her god. Follow your sister-in-law.” 
-^[1:15 “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
+^14^ They lifted up their voices and wept again; then Orpah kissed her mother-in-law, but Ruth stayed with her. ^15^ She said, “Behold,^a^ your sister-in-law has gone back to her people and to her god. Follow your sister-in-law.” 
+^a^[**1:15** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
-^16^ Ruth said, “Don’t urge me to leave you, and to return from following you, for where you go, I will go; and where you stay, I will stay. Your people will be my people, and your God^^ my God. ^17^ Where you die, I will die, and there I will be buried. May The LORD do so to me, and more also, if anything but death parts you and me.” 
-^[1:16 The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
+^16^ Ruth said, “Don’t urge me to leave you, and to return from following you, for where you go, I will go; and where you stay, I will stay. Your people will be my people, and your God^a^ my God. ^17^ Where you die, I will die, and there I will be buried. May The LORD do so to me, and more also, if anything but death parts you and me.” 
+^a^[**1:16** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 ^18^ When Naomi saw that she was determined to go with her, she stopped urging her. 
 
 ^19^ So they both went until they came to Bethlehem. When they had come to Bethlehem, all the city was excited about them, and they asked, “Is this Naomi?” 
 
-^20^ She said to them, “Don’t call me Naomi.^^ Call me Mara,+ 1:20 “Mara” means “bitter”. for the Almighty has dealt very bitterly with me. ^21^ I went out full, and the LORD has brought me home again empty. Why do you call me Naomi, since the LORD has testified against me, and the Almighty has afflicted me?” ^22^ So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the country of Moab. They came to Bethlehem in the beginning of barley harvest.
-^[1:20 “Naomi” means “pleasant”.] 
+^20^ She said to them, “Don’t call me Naomi.^a^ Call me Mara,^b^ for the Almighty has dealt very bitterly with me. ^21^ I went out full, and the LORD has brought me home again empty. Why do you call me Naomi, since the LORD has testified against me, and the Almighty has afflicted me?” ^22^ So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the country of Moab. They came to Bethlehem in the beginning of barley harvest.
+^a^[**1:20** “Naomi” means “pleasant”.] ^b^[**1:20** “Mara” means “bitter”.] 
 
 # 2 
 ^1^ Naomi had a relative of her husband’s, a mighty man of wealth, of the family of Elimelech, and his name was Boaz. ^2^ Ruth the Moabitess said to Naomi, “Let me now go to the field, and glean amongst the ears of grain after him in whose sight I find favour.” 
@@ -44,8 +44,8 @@ They answered him, “May The LORD bless you.”
 
 She sat beside the reapers, and they passed her parched grain. She ate, was satisfied, and left some of it. ^15^ When she had risen up to glean, Boaz commanded his young men, saying, “Let her glean even amongst the sheaves, and don’t reproach her. ^16^ Also pull out some for her from the bundles, and leave it. Let her glean, and don’t rebuke her.” 
 
-^17^ So she gleaned in the field until evening; and she beat out that which she had gleaned, and it was about an ephah^^ of barley. ^18^ She took it up, and went into the city. Then her mother-in-law saw what she had gleaned; and she brought out and gave to her that which she had left after she had enough. 
-^[2:17 1 ephah is about 22 litres or about 2/3 of a bushel]
+^17^ So she gleaned in the field until evening; and she beat out that which she had gleaned, and it was about an ephah^a^ of barley. ^18^ She took it up, and went into the city. Then her mother-in-law saw what she had gleaned; and she brought out and gave to her that which she had left after she had enough. 
+^a^[**2:17** 1 ephah is about 22 litres or about 2/3 of a bushel]
 
 ^19^ Her mother-in-law said to her, “Where have you gleaned today? Where have you worked? Blessed be he who noticed you.” 
 
@@ -85,8 +85,8 @@ He said, “I will redeem it.”
 
 ^9^ Boaz said to the elders and to all the people, “You are witnesses today, that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, from the hand of Naomi. ^10^ Moreover, Ruth the Moabitess, the wife of Mahlon, I have purchased to be my wife, to raise up the name of the dead on his inheritance, that the name of the dead may not be cut off from amongst his brothers and from the gate of his place. You are witnesses today.” 
 
-^11^ All the people who were in the gate, and the elders, said, “We are witnesses. May the LORD make the woman who has come into your house like Rachel and like Leah, which both built the house of Israel; and treat you worthily in Ephrathah, and be famous in Bethlehem. ^12^ Let your house be like the house of Perez, whom Tamar bore to Judah, of the offspring^^ which the LORD will give you by this young woman.” 
-^[4:12 or, seed]
+^11^ All the people who were in the gate, and the elders, said, “We are witnesses. May the LORD make the woman who has come into your house like Rachel and like Leah, which both built the house of Israel; and treat you worthily in Ephrathah, and be famous in Bethlehem. ^12^ Let your house be like the house of Perez, whom Tamar bore to Judah, of the offspring^a^ which the LORD will give you by this young woman.” 
+^a^[**4:12** or, seed]
 
 ^13^ So Boaz took Ruth and she became his wife; and he went in to her, and the LORD enabled her to conceive, and she bore a son. ^14^ The women said to Naomi, “Blessed be the LORD, who has not left you today without a near kinsman. Let his name be famous in Israel. ^15^ He shall be to you a restorer of life and sustain you in your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has given birth to him.” ^16^ Naomi took the child, laid him in her bosom, and became nurse to him. ^17^ The women, her neighbours, gave him a name, saying, “A son is born to Naomi”. They named him Obed. He is the father of Jesse, the father of David. 
 

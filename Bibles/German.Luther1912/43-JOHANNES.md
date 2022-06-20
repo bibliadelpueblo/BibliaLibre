@@ -50,7 +50,7 @@
 
 ^49^ Nathanael antwortete und spricht zu ihm: Rabbi, du bist Gottes Sohn, du bist der König von Israel! 
 
-^50^ Jesus antwortete und sprach zu ihm: Du glaubst, weil ich dir gesagt habe, dass ich dich gesehen habe unter dem Feigenbaum; du wirst noch Größeres denn das sehen. ^51^ Und spricht zu ihm: Wahrlich, wahrlich ich sage euch: Von nun an werdet ihr den Himmel offen sehen und die Engel Gottes hinauf und herab fahren auf des Menschen Sohn.^a^ 
+^50^ Jesus antwortete und sprach zu ihm: Du glaubst, weil ich dir gesagt habe, dass ich dich gesehen habe unter dem Feigenbaum; du wirst noch Größeres denn das sehen. ^51^ Und spricht zu ihm: Wahrlich, wahrlich ich sage euch: Von nun an werdet ihr den Himmel offen sehen und die Engel Gottes hinauf und herab fahren auf des Menschen Sohn. ^a^ 
 ^a^[**1:51** 1Mo 28,12; Mt 4,11]
 
 # 2
@@ -61,7 +61,7 @@
 
 ^5^ Seine Mutter spricht zu den Dienern: Was er euch sagt, das tut. 
 
-^6^ Es waren aber allda sechs steinerne Wasserkrüge gesetzt nach der Weise der jüdischen Reinigung, und ging in je einen zwei oder drei Maß. ^a^ ^7^ Jesus spricht zu ihnen: Füllet die Wasserkrüge mit Wasser! Und sie füllten sie bis obenan. ^8^ Und er spricht zu ihnen: Schöpfet nun und bringet's dem Speisemeister! Und sie brachten's. ^9^ Als aber der Speisemeister kostete den Wein, der Wasser gewesen war, und wusste nicht, woher er kam (die Diener aber wussten's, die das Wasser geschöpft hatten), ruft der Speisemeister den Bräutigam ^10^ und spricht zu ihm: Jedermann gibt zum ersten guten Wein, und wenn sie trunken geworden sind, alsdann den geringeren; du hast den guten Wein bisher behalten. ^11^ Das ist das erste Zeichen, das Jesus tat, geschehen zu Kana in Galiläa, und offenbarte seine Herrlichkeit. Und seine Jünger glaubten an ihn. 
+^6^ Es waren aber allda sechs steinerne Wasserkrüge gesetzt nach der Weise der jüdischen Reinigung, und ging in je einen zwei oder drei Maß. ^a^ ^7^ Jesus spricht zu ihnen: Füllet die Wasserkrüge mit Wasser! Und sie füllten sie bis obenan. ^8^ Und er spricht zu ihnen: Schöpfet nun und bringet's dem Speisemeister! Und sie brachten's. ^9^ Als aber der Speisemeister kostete den Wein, der Wasser gewesen war, und wusste nicht, woher er kam (die Diener aber wussten's, die das Wasser geschöpft hatten), ruft der Speisemeister den Bräutigam ^10^ und spricht zu ihm: Jedermann gibt zum ersten guten Wein, und wenn sie trunken geworden sind, alsdann den geringeren; du hast den guten Wein bisher behalten. ^11^ Das ist das erste Zeichen, das Jesus tat, geschehen zu Kana in Galiläa, und offenbarte seine Herrlichkeit. Und seine Jünger glaubten an ihn.
 ^a^[**2:6** Mk 7,3-4]
 
 ## Jesús por primera vez en Jerusalén en la Pascua
@@ -80,7 +80,7 @@
 ^20^ Da sprachen die Juden: Dieser Tempel ist in sechsundvierzig Jahren erbaut; und du willst ihn in drei Tagen aufrichten? ^21^ (Er aber redete von dem Tempel seines Leibes. ^a^ ^22^ Da er nun auferstanden war von den Toten, gedachten seine Jünger daran, dass er dies gesagt hatte, und glaubten der Schrift und der Rede, die Jesus gesagt hatte.) ^b^ 
 ^a^[**2:21** 1Kor 6,19] ^b^[**2:22** Hos 6,2]
 
-^23^ Als er aber zu Jerusalem war am Osterfest, glaubten viele an seinen Namen, da sie die Zeichen sahen, die er tat. ^24^ Aber Jesus vertraute sich ihnen nicht; denn er kannte sie alle ^25^ und bedurfte nicht, dass jemand Zeugnis gäbe von einem Menschen; denn er wusste wohl, was im Menschen war.^a^ 
+^23^ Als er aber zu Jerusalem war am Osterfest, glaubten viele an seinen Namen, da sie die Zeichen sahen, die er tat. ^24^ Aber Jesus vertraute sich ihnen nicht; denn er kannte sie alle ^25^ und bedurfte nicht, dass jemand Zeugnis gäbe von einem Menschen; denn er wusste wohl, was im Menschen war. ^a^ 
 ^a^[**2:25** Mk 2,8]
 
 # 3
@@ -210,14 +210,14 @@
 ^36^ Ich aber habe ein größeres Zeugnis; denn des Johannes Zeugnis; denn die Werke, die mir der Vater gegeben hat, dass ich sie vollende, eben diese Werke, die ich tue, zeugen von mir, dass mich der Vater gesandt habe. ^a^ ^37^ Und der Vater, der mich gesandt hat, derselbe hat von mir gezeugt. Ihr habt nie weder seine Stimme gehört noch seine Gestalt gesehen, ^b^ ^38^ und sein Wort habt ihr nicht in euch wohnend; denn ihr glaubet dem nicht, den er gesandt hat. 
 ^a^[**5:36** Joh 3,2; Joh 10,25; Joh 10,38] ^b^[**5:37** Mt 3,17]
 
-^39^ Suchet in der Schrift; denn ihr meinet, ihr habet das ewige Leben darin; und sie ist's, die von mir zeuget; ^a^ ^40^ und ihr wollt nicht zu mir kommen, dass ihr das Leben haben möchtet. 
+^39^ Suchet in der Schrift; denn ihr meinet, ihr habet das ewige Leben darin; und sie ist's, die von mir zeuget; ^a^ ^40^ und ihr wollt nicht zu mir kommen, dass ihr das Leben haben möchtet.
 ^a^[**5:39** Lk 24,27; Lk 24,44; 2Tim 3,15-17]
 
 ## Ataque a la incredulidad y ambición de los judíos; Testimonio de moisés
 ^41^ Ich nehme nicht Ehre von Menschen; ^42^ aber ich kenne euch, dass ihr nicht Gottes Liebe in euch habt. ^43^ Ich bin gekommen in meines Vaters Namen, und ihr nehmet mich nicht an. So ein anderer wird in seinem eigenen Namen kommen, den werdet ihr annehmen. ^44^ Wie könnet ihr glauben, die ihr Ehre voneinander nehmet? und die Ehre, die von Gott allein ist, suchet ihr nicht. ^a^ 
 ^a^[**5:44** Joh 12,42-43; 1Thes 2,6]
 
-^45^ Ihr sollt nicht meinen, dass ich euch vor dem Vater verklagen werde; es ist einer, der euch verklagt, der Mose, auf welchen ihr hoffet. ^a^ ^46^ Wenn ihr Mose glaubtet, so glaubtet ihr auch mir; denn er hat von mir geschrieben. ^b^ ^47^ So ihr aber seinen Schriften nicht glaubet, wie werdet ihr meinen Worten glauben?^c^ 
+^45^ Ihr sollt nicht meinen, dass ich euch vor dem Vater verklagen werde; es ist einer, der euch verklagt, der Mose, auf welchen ihr hoffet. ^a^ ^46^ Wenn ihr Mose glaubtet, so glaubtet ihr auch mir; denn er hat von mir geschrieben. ^b^ ^47^ So ihr aber seinen Schriften nicht glaubet, wie werdet ihr meinen Worten glauben? ^c^ 
 ^a^[**5:45** 5Mo 31,26-27] ^b^[**5:46** 1Mo 3,15; 1Mo 49,10; 5Mo 18,15] ^c^[**5:47** Lk 16,31]
 
 # 6
@@ -263,7 +263,7 @@
 
 ^52^ Da zankten die Juden untereinander und sprachen: Wie kann dieser uns sein Fleisch zu essen geben? 
 
-^53^ Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Werdet ihr nicht essen das Fleisch des Menschensohnes und trinken sein Blut, so habt ihr kein Leben in euch. ^54^ Wer mein Fleisch isset und trinket mein Blut, der hat das ewige Leben, und ich werde ihn am Jüngsten Tage auferwecken. ^55^ Denn mein Fleisch ist die rechte Speise, und mein Blut ist der rechte Trank. ^56^ Wer mein Fleisch isset und trinket mein Blut, der bleibt in mir und ich in ihm. ^a^ ^57^ Wie mich gesandt hat der lebendige Vater und ich lebe um des Vaters willen, also, wer mich isset, der wird auch leben um meinetwillen. ^58^ Dies ist das Brot, das vom Himmel gekommen ist; nicht, wie eure Väter haben Manna gegessen und sind gestorben: wer dies Brot isset, der wird leben in Ewigkeit. ^59^ Solches sagte er in der Schule, da er lehrte zu Kapernaum. 
+^53^ Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Werdet ihr nicht essen das Fleisch des Menschensohnes und trinken sein Blut, so habt ihr kein Leben in euch. ^54^ Wer mein Fleisch isset und trinket mein Blut, der hat das ewige Leben, und ich werde ihn am Jüngsten Tage auferwecken. ^55^ Denn mein Fleisch ist die rechte Speise, und mein Blut ist der rechte Trank. ^56^ Wer mein Fleisch isset und trinket mein Blut, der bleibt in mir und ich in ihm. ^a^ ^57^ Wie mich gesandt hat der lebendige Vater und ich lebe um des Vaters willen, also, wer mich isset, der wird auch leben um meinetwillen. ^58^ Dies ist das Brot, das vom Himmel gekommen ist; nicht, wie eure Väter haben Manna gegessen und sind gestorben: wer dies Brot isset, der wird leben in Ewigkeit. ^59^ Solches sagte er in der Schule, da er lehrte zu Kapernaum.
 ^a^[**6:56** Joh 15,4; 1Jo 3,24]
 
 ## El divorcio de los discípulos de Jesús como efecto del habla
@@ -298,7 +298,7 @@
 ^20^ Das Volk antwortete und sprach: Du hast den Teufel; wer sucht dich zu töten? ^a^ 
 ^a^[**7:20** Joh 10,20]
 
-^21^ Jesus antwortete und sprach: Ein einziges Werk habe ich getan, und es wundert euch alle. ^a^ ^22^ Mose hat euch darum gegeben die Beschneidung – nicht dass sie von Mose kommt, sondern von den Vätern –, und ihr beschneidet den Menschen am Sabbat. ^b^ ^23^ So ein Mensch die Beschneidung annimmt am Sabbat, auf dass nicht das Gesetz Moses gebrochen werde, zürnet ihr denn über mich, dass ich den ganzen Menschen habe am Sabbat gesund gemacht? ^24^ Richtet nicht nach dem Ansehen, sondern richtet ein rechtes Gericht. 
+^21^ Jesus antwortete und sprach: Ein einziges Werk habe ich getan, und es wundert euch alle. ^a^ ^22^ Mose hat euch darum gegeben die Beschneidung – nicht dass sie von Mose kommt, sondern von den Vätern –, und ihr beschneidet den Menschen am Sabbat. ^b^ ^23^ So ein Mensch die Beschneidung annimmt am Sabbat, auf dass nicht das Gesetz Moses gebrochen werde, zürnet ihr denn über mich, dass ich den ganzen Menschen habe am Sabbat gesund gemacht? ^24^ Richtet nicht nach dem Ansehen, sondern richtet ein rechtes Gericht.
 ^a^[**7:21** Joh 5,16] ^b^[**7:22** 1Mo 17,10-12; 3Mo 12,3]
 
 ## Jesús viene de Dios
@@ -307,7 +307,7 @@
 ^28^ Da rief Jesus im Tempel, lehrte und sprach: Ja, ihr kennet mich und wisset, woher ich bin; und von mir selbst bin ich nicht gekommen, sondern es ist ein Wahrhaftiger, der mich gesandt hat, welchen ihr nicht kennet. ^29^ Ich kenne ihn aber; denn ich bin von ihm, und er hat mich gesandt. ^a^ 
 ^a^[**7:29** Mt 11,27]
 
-^30^ Da suchten sie ihn zu greifen; aber niemand legte die Hand an ihn, denn seine Stunde war noch nicht gekommen. ^a^ ^31^ Aber viele vom Volk glaubten an ihn und sprachen: Wenn Christus kommen wird, wird er auch mehr Zeichen tun, denn dieser tut? ^32^ Und es kam vor die Pharisäer, dass das Volk solches von ihm murmelte. Da sandten die Pharisäer und Hohenpriester Knechte aus, das sie ihn griffen. 
+^30^ Da suchten sie ihn zu greifen; aber niemand legte die Hand an ihn, denn seine Stunde war noch nicht gekommen. ^a^ ^31^ Aber viele vom Volk glaubten an ihn und sprachen: Wenn Christus kommen wird, wird er auch mehr Zeichen tun, denn dieser tut? ^32^ Und es kam vor die Pharisäer, dass das Volk solches von ihm murmelte. Da sandten die Pharisäer und Hohenpriester Knechte aus, das sie ihn griffen.
 ^a^[**7:30** Joh 8,20; Lk 22,53]
 
 ## Jesús anuncia su regressa a Dios
@@ -320,7 +320,7 @@
 ^37^ Aber am letzten Tage des Festes, der am herrlichsten war, trat Jesus auf, rief und sprach: Wen da dürstet, der komme zu mir und trinke! ^a^ ^38^ Wer an mich glaubt, wie die Schrift sagt, von des Leibe werden Ströme des lebendigen Wassers fließen. ^b^ ^39^ Das sagte er aber von dem Geist, welchen empfangen sollten, die an ihn glaubten; denn der Heilige Geist war noch nicht da, denn Jesus war noch nicht verklärt. ^c^ 
 ^a^[**7:37** 3Mo 23,36; Joh 4,10; Jes 55,1; Offb 22,17] ^b^[**7:38** Jes 58,11] ^c^[**7:39** Joh 16,7]
 
-^40^ Viele nun vom Volk, die diese Rede hörten, sprachen: Dieser ist wahrlich der Prophet. ^a^ ^41^ Andere sprachen: Er ist Christus. Etliche aber sprachen: Soll Christus aus Galiläa kommen? ^b^ ^42^ Spricht nicht die Schrift: von dem Samen Davids und aus dem Flecken Bethlehem, da David war, solle Christus kommen? ^c^ ^43^ Also ward eine Zwietracht unter dem Volk über ihn. ^d^ ^44^ Es wollten aber etliche ihn greifen; aber niemand legte die Hand an ihn. 
+^40^ Viele nun vom Volk, die diese Rede hörten, sprachen: Dieser ist wahrlich der Prophet. ^a^ ^41^ Andere sprachen: Er ist Christus. Etliche aber sprachen: Soll Christus aus Galiläa kommen? ^b^ ^42^ Spricht nicht die Schrift: von dem Samen Davids und aus dem Flecken Bethlehem, da David war, solle Christus kommen? ^c^ ^43^ Also ward eine Zwietracht unter dem Volk über ihn. ^d^ ^44^ Es wollten aber etliche ihn greifen; aber niemand legte die Hand an ihn.
 ^a^[**7:40** Joh 6,14] ^b^[**7:41** Joh 1,46] ^c^[**7:42** Mi 5,1; Mt 2,5-6; Mt 22,42] ^d^[**7:43** Joh 9,16]
 
 ## Fracaso del plan de arresto de los líderes; División entre los miembros del sumo consejo; Amonestación de Nicodemo
@@ -415,7 +415,7 @@
 ^58^ Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Ehe denn Abraham ward, bin ich. ^a^ 
 ^a^[**8:58** Joh 1,1-2]
 
-^59^ Da hoben sie Steine auf, dass sie auf ihn würfen. Aber Jesus verbarg sich und ging zum Tempel hinaus.^a^ 
+^59^ Da hoben sie Steine auf, dass sie auf ihn würfen. Aber Jesus verbarg sich und ging zum Tempel hinaus. ^a^ 
 ^a^[**8:59** Joh 10,31]
 
 # 9
@@ -483,14 +483,14 @@
 ^1^ Wahrlich, wahrlich ich sage euch: Wer nicht zur Tür hineingeht in den Schafstall, sondern steigt anderswo hinein, der ist ein Dieb und ein Mörder. ^2^ Der aber zur Tür hineingeht, der ist ein Hirte der Schafe. ^3^ Dem tut der Türhüter auf, und die Schafe hören seine Stimme; und er ruft seine Schafe mit Namen und führt sie aus. ^4^ Und wenn er seine Schafe hat ausgelassen, geht er vor ihnen hin, und die Schafe folgen ihm nach; denn sie kennen seine Stimme. ^5^ Einem Fremden aber folgen sie nicht nach, sondern fliehen von ihm; denn sie kennen der Fremden Stimme nicht. ^6^ Diesen Spruch sagte Jesus zu ihnen; sie verstanden aber nicht, was es war, das er zu ihnen sagte. 
 
 ## ¡Yo soy la puerta para las ovejas!
-^7^ Da sprach Jesus wieder zu ihnen: Wahrlich, wahrlich ich sage euch: Ich bin die Tür zu den Schafen. ^8^ Alle, die vor mir gekommen sind, die sind Diebe und Mörder; aber die Schafe haben ihnen nicht gehorcht. ^9^ Ich bin die Tür; wenn jemand durch mich eingeht, der wird selig werden und wird ein und aus gehen und Weide finden. ^a^ ^10^ Ein Dieb kommt nur, dass er stehle, würge und umbringe. Ich bin gekommen, dass sie das Leben und volle Genüge haben sollen. 
+^7^ Da sprach Jesus wieder zu ihnen: Wahrlich, wahrlich ich sage euch: Ich bin die Tür zu den Schafen. ^8^ Alle, die vor mir gekommen sind, die sind Diebe und Mörder; aber die Schafe haben ihnen nicht gehorcht. ^9^ Ich bin die Tür; wenn jemand durch mich eingeht, der wird selig werden und wird ein und aus gehen und Weide finden. ^a^ ^10^ Ein Dieb kommt nur, dass er stehle, würge und umbringe. Ich bin gekommen, dass sie das Leben und volle Genüge haben sollen.
 ^a^[**10:9** Joh 14,6]
 
 ## Jesús como el buen pastor
 ^11^ Ich bin der gute Hirte. Der gute Hirte lässt sein Leben für die Schafe. ^12^ Der Mietling aber, der nicht Hirte ist, des die Schafe nicht eigen sind, sieht den Wolf kommen und verlässt die Schafe und flieht; und der Wolf erhascht und zerstreut die Schafe. ^13^ Der Mietling aber flieht; denn er ist ein Mietling und achtet der Schafe nicht. ^14^ Ich bin der gute Hirte und erkenne die Meinen und bin bekannt den Meinen, ^a^ ^15^ wie mich mein Vater kennt und ich kenne den Vater. Und ich lasse mein Leben für die Schafe. ^16^ Und ich habe noch andere Schafe, die sind nicht aus diesem Stalle; und dieselben muss ich herführen, und sie werden meine Stimme hören, und wird eine Herde und ein Hirte werden. ^17^ Darum liebt mich mein Vater, dass ich mein Leben lasse, auf dass ich's wiedernehme. ^18^ Niemand nimmt es von mir, sondern ich lasse es von mir selber. Ich habe Macht, es zu lassen, und habe Macht, es wiederzunehmen. Solch Gebot habe ich empfangen von meinem Vater. ^b^ 
 ^a^[**10:14** 2Tim 2,19] ^b^[**10:18** Joh 5,26]
 
-^19^ Da ward abermals eine Zwietracht unter den Juden über diese Worte. ^a^ ^20^ Viele unter ihnen sprachen: Er hat den Teufel und ist unsinnig; was höret ihr ihm zu? ^b^ ^21^ Die anderen sprachen: Das sind nicht Worte eines Besessenen; kann der Teufel auch der Blinden Augen auftun? 
+^19^ Da ward abermals eine Zwietracht unter den Juden über diese Worte. ^a^ ^20^ Viele unter ihnen sprachen: Er hat den Teufel und ist unsinnig; was höret ihr ihm zu? ^b^ ^21^ Die anderen sprachen: Das sind nicht Worte eines Besessenen; kann der Teufel auch der Blinden Augen auftun?
 ^a^[**10:19** Joh 7,43; Joh 9,16] ^b^[**10:20** Joh 7,20; Mk 3,21]
 
 ## La última justificación de Jesús a los judíos en la fiesta de la dedicación del templo
@@ -641,7 +641,7 @@
 
 ^9^ Spricht zu ihm Simon Petrus: Herr, nicht die Füße allein, sondern auch die Hände und das Haupt! 
 
-^10^ Spricht Jesus zu ihm: Wer gewaschen ist, der bedarf nichts denn die Füße waschen, sondern er ist ganz rein. Und ihr seid rein, aber nicht alle. ^a^ ^11^ (Denn er wusste seinen Verräter wohl; darum sprach er: Ihr seid nicht alle rein.) 
+^10^ Spricht Jesus zu ihm: Wer gewaschen ist, der bedarf nichts denn die Füße waschen, sondern er ist ganz rein. Und ihr seid rein, aber nicht alle. ^a^ ^11^ (Denn er wusste seinen Verräter wohl; darum sprach er: Ihr seid nicht alle rein.)
 ^a^[**13:10** Joh 15,3]
 
 ## La interpretación de Jesús de su humilde servicio de amor
@@ -666,7 +666,7 @@
 ^a^[**13:32** Joh 17,1-5] ^b^[**13:33** Joh 9,21]
 
 ## El nuevo mandamiento de amar
-^34^ Ein neu Gebot gebe ich euch, dass ihr euch untereinander liebet, wie ich euch geliebt habe, auf dass auch ihr einander liebhabet. ^a^ ^35^ Dabei wird jedermann erkennen, dass ihr meine Jünger seid, so ihr Liebe untereinander habt. 
+^34^ Ein neu Gebot gebe ich euch, dass ihr euch untereinander liebet, wie ich euch geliebt habe, auf dass auch ihr einander liebhabet. ^a^ ^35^ Dabei wird jedermann erkennen, dass ihr meine Jünger seid, so ihr Liebe untereinander habt.
 ^a^[**13:34** Joh 15,12-13; Joh 15,17]
 
 ## Anuncio de la negación de Pedro
@@ -692,7 +692,7 @@
 ^a^[**14:10** Joh 12,49] ^b^[**14:11** Joh 10,25; Joh 10,38]
 
 ## Promesa del Espíritu Santo
-^12^ Wahrlich, wahrlich ich sage euch: Wer an mich glaubt, der wird die Werke auch tun, die ich tue, und wird größere als diese tun; denn ich gehe zum Vater. ^a^ ^13^ Und was ihr bitten werdet in meinem Namen, das will ich tun, auf dass der Vater geehrt werde in dem Sohne. ^b^ ^14^ Was ihr bitten werdet in meinem Namen, das will ich tun. ^15^ Liebet ihr mich, so haltet meine Gebote. ^c^ ^16^ Und ich will den Vater bitten, und er soll euch einen anderen Tröster geben, dass er bei euch bleibe ewiglich: ^d^ ^17^ den Geist der Wahrheit, welchen die Welt nicht kann empfangen; denn sie sieht ihn nicht und kennt ihn nicht. Ihr aber kennet ihn; denn er bleibt bei euch und wird in euch sein. ^e^ ^18^ Ich will euch nicht Waisen lassen; ich komme zu euch. ^19^ Es ist noch um ein kleines, so wird mich die Welt nicht mehr sehen; ihr aber sollt mich sehen; denn ich lebe, und ihr sollt auch leben. ^20^ An dem Tage werdet ihr erkennen, dass ich in meinem Vater bin und ihr in mir und ich in euch. 
+^12^ Wahrlich, wahrlich ich sage euch: Wer an mich glaubt, der wird die Werke auch tun, die ich tue, und wird größere als diese tun; denn ich gehe zum Vater. ^a^ ^13^ Und was ihr bitten werdet in meinem Namen, das will ich tun, auf dass der Vater geehrt werde in dem Sohne. ^b^ ^14^ Was ihr bitten werdet in meinem Namen, das will ich tun. ^15^ Liebet ihr mich, so haltet meine Gebote. ^c^ ^16^ Und ich will den Vater bitten, und er soll euch einen anderen Tröster geben, dass er bei euch bleibe ewiglich: ^d^ ^17^ den Geist der Wahrheit, welchen die Welt nicht kann empfangen; denn sie sieht ihn nicht und kennt ihn nicht. Ihr aber kennet ihn; denn er bleibt bei euch und wird in euch sein. ^e^ ^18^ Ich will euch nicht Waisen lassen; ich komme zu euch. ^19^ Es ist noch um ein kleines, so wird mich die Welt nicht mehr sehen; ihr aber sollt mich sehen; denn ich lebe, und ihr sollt auch leben. ^20^ An dem Tage werdet ihr erkennen, dass ich in meinem Vater bin und ihr in mir und ich in euch.
 ^a^[**14:12** Mt 28,19] ^b^[**14:13** Joh 15,7; Joh 16,24; Mk 11,24; 1Jo 5,14; 1Jo 1,5-15] ^c^[**14:15** Joh 15,10; 1Jo 5,3] ^d^[**14:16** Joh 15,26; Joh 16,7] ^e^[**14:17** Joh 16,13]
 
 ## Promesa de la más íntima comunidad de espíritu y amor con Dios y Jesús
@@ -706,7 +706,7 @@
 ^a^[**14:23** Spr 8,17; Eph 3,17] ^b^[**14:24** Joh 7,16-17]
 
 ## Promesa de enseñar del Espíritu Santo
-^25^ Solches habe ich zu euch geredet, solange ich bei euch gewesen bin. ^26^ Aber der Tröster, der Heilige Geist, welchen mein Vater senden wird in meinem Namen, der wird euch alles lehren und euch erinnern alles des, das ich euch gesagt habe. ^27^ Den Frieden lasse ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht. ^a^ ^28^ Ihr habt gehört, dass ich euch gesagt habe: Ich gehe hin, und komme wieder zu euch. Hättet ihr mich lieb, so würdet ihr euch freuen, dass ich gesagt habe: „Ich gehe zum Vater“; denn der Vater ist größer als ich. ^29^ Und nun habe ich es euch gesagt habe, ehe denn es geschieht, auf dass, wenn es nun geschehen wird, ihr glaubet. ^30^ Ich werde nicht mehr viel mit euch reden; denn es kommt der Fürst dieser Welt, und hat nichts an mir. ^31^ Aber auf dass die Welt erkenne, dass ich den Vater liebe und ich also tue, wie mir der Vater geboten hat: stehet auf und lasset uns von hinnen gehen.^b^ 
+^25^ Solches habe ich zu euch geredet, solange ich bei euch gewesen bin. ^26^ Aber der Tröster, der Heilige Geist, welchen mein Vater senden wird in meinem Namen, der wird euch alles lehren und euch erinnern alles des, das ich euch gesagt habe. ^27^ Den Frieden lasse ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht. ^a^ ^28^ Ihr habt gehört, dass ich euch gesagt habe: Ich gehe hin, und komme wieder zu euch. Hättet ihr mich lieb, so würdet ihr euch freuen, dass ich gesagt habe: „Ich gehe zum Vater“; denn der Vater ist größer als ich. ^29^ Und nun habe ich es euch gesagt habe, ehe denn es geschieht, auf dass, wenn es nun geschehen wird, ihr glaubet. ^30^ Ich werde nicht mehr viel mit euch reden; denn es kommt der Fürst dieser Welt, und hat nichts an mir. ^31^ Aber auf dass die Welt erkenne, dass ich den Vater liebe und ich also tue, wie mir der Vater geboten hat: stehet auf und lasset uns von hinnen gehen. ^b^ 
 ^a^[**14:27** Joh 16,33; Phil 4,7] ^b^[**14:31** Joh 10,18]
 
 # 15
@@ -729,18 +729,18 @@
 ^18^ So euch die Welt hasst, so wisset, dass sie mich vor euch gehasst hat. ^19^ Wäret ihr von der Welt, so hätte die Welt das Ihre lieb; weil ihr aber nicht von der Welt seid, sondern ich habe euch von der Welt erwählt, darum hasst euch die Welt. ^a^ ^20^ Gedenket an mein Wort, das ich euch gesagt habe: „Der Knecht ist nicht größer als sein Herr.“ Haben sie mich verfolgt, sie werden euch auch verfolgen; haben sie mein Wort gehalten, so werden sie eures auch halten. ^b^ ^21^ Aber das alles werden sie euch tun um meines Namens willen; denn sie kennen den nicht, der mich gesandt hat. ^c^ ^22^ Wenn ich nicht gekommen wäre und hätte es ihnen gesagt, so hätten sie keine Sünde; nun aber können sie nichts vorwenden, ihre Sünde zu entschuldigen. ^d^ ^23^ Wer mich hasst, der hasst auch meinen Vater. ^e^ ^24^ Hätte ich nicht die Werke getan unter ihnen, die kein anderer getan hat, so hätten sie keine Sünde; nun aber haben sie es gesehen und hassen doch beide, mich und meinen Vater. ^25^ Doch dass erfüllet werde der Spruch, in ihrem Gesetz geschrieben: „Sie hassen mich ohne Ursache.“ 
 ^a^[**15:19** 1Jo 4,4; 1Jo 1,4-5; Joh 17,14] ^b^[**15:20** Joh 13,16; Mt 10,24-25] ^c^[**15:21** Joh 16,3] ^d^[**15:22** Joh 9,41] ^e^[**15:23** Lk 10,16]
 
-^26^ Wenn aber der Tröster kommen wird, welchen ich euch senden werde vom Vater, der Geist der Wahrheit, der vom Vater ausgeht, der wird zeugen von mir. ^27^ Und ihr werdet auch zeugen; denn ihr seid von Anfang bei mir gewesen.^a^ 
+^26^ Wenn aber der Tröster kommen wird, welchen ich euch senden werde vom Vater, der Geist der Wahrheit, der vom Vater ausgeht, der wird zeugen von mir. ^27^ Und ihr werdet auch zeugen; denn ihr seid von Anfang bei mir gewesen. ^a^ 
 ^a^[**15:27** Apg 1,8; Apg 1,21-22; Apg 5,32]
 
 # 16
-^1^ Solches habe ich zu euch geredet, dass ihr euch nicht ärgert. ^2^ Sie werden euch in den Bann tun. Es kommt aber die Zeit, dass wer euch tötet, wird meinen, er tue Gott einen Dienst daran. ^3^ Und solches werden sie euch darum tun, dass sie weder meinen Vater noch mich erkennen. ^a^ ^4^ Aber solches habe ich zu euch geredet, auf dass, wenn die Zeit kommen wird, ihr daran gedenket, dass ich's euch gesagt habe. Solches aber habe ich von Anfang nicht gesagt; denn ich war bei euch. 
+^1^ Solches habe ich zu euch geredet, dass ihr euch nicht ärgert. ^2^ Sie werden euch in den Bann tun. Es kommt aber die Zeit, dass wer euch tötet, wird meinen, er tue Gott einen Dienst daran. ^3^ Und solches werden sie euch darum tun, dass sie weder meinen Vater noch mich erkennen. ^a^ ^4^ Aber solches habe ich zu euch geredet, auf dass, wenn die Zeit kommen wird, ihr daran gedenket, dass ich's euch gesagt habe. Solches aber habe ich von Anfang nicht gesagt; denn ich war bei euch.
 ^a^[**16:3** Joh 15,21]
 
 ## Promesa del Espíritu Santo y su obra benéfica en el mundo y en los discípulos
 ^5^ Nun aber gehe ich hin zu dem, der mich gesandt hat; und niemand unter euch fragt mich: Wo gehst du hin? ^6^ Sondern weil ich solches zu euch geredet habe, ist euer Herz voll Trauerns geworden. ^7^ Aber ich sage euch die Wahrheit: es ist euch gut, dass ich hingehe. Denn wenn ich nicht hingehe, so kommt der Tröster nicht zu euch; wenn ich aber gehe, will ich ihn zu euch senden. ^8^ Und wenn derselbe kommt, wird er die Welt strafen um die Sünde und um die Gerechtigkeit und um das Gericht: ^9^ um die Sünde, dass sie nicht glauben an mich; ^a^ ^10^ um die Gerechtigkeit aber, dass ich zum Vater gehe und ihr mich hinfort nicht sehet; ^b^ ^11^ um das Gericht, dass der Fürst dieser Welt gerichtet ist. ^c^ 
 ^a^[**16:9** Joh 15,22; Joh 15,24] ^b^[**16:10** Apg 5,31; Röm 4,25] ^c^[**16:11** Joh 12,31]
 
-^12^ Ich habe euch noch viel zu sagen; aber ihr könnt es jetzt nicht tragen. ^a^ ^13^ Wenn aber jener, der Geist der Wahrheit, kommen wird, der wird euch in alle Wahrheit leiten. Denn er wird nicht von sich selber reden; sondern was er hören wird, das wird er reden, und was zukünftig ist, wird er euch verkündigen. ^b^ ^14^ Derselbe wird mich verklären; denn von dem Meinen wird er's nehmen und euch verkündigen. ^15^ Alles, was der Vater hat, das ist mein. Darum habe ich euch gesagt: Er wird's von dem Meinen nehmen und euch verkündigen. 
+^12^ Ich habe euch noch viel zu sagen; aber ihr könnt es jetzt nicht tragen. ^a^ ^13^ Wenn aber jener, der Geist der Wahrheit, kommen wird, der wird euch in alle Wahrheit leiten. Denn er wird nicht von sich selber reden; sondern was er hören wird, das wird er reden, und was zukünftig ist, wird er euch verkündigen. ^b^ ^14^ Derselbe wird mich verklären; denn von dem Meinen wird er's nehmen und euch verkündigen. ^15^ Alles, was der Vater hat, das ist mein. Darum habe ich euch gesagt: Er wird's von dem Meinen nehmen und euch verkündigen.
 ^a^[**16:12** 1Kor 3,1] ^b^[**16:13** Joh 14,26; 1Jo 2,27]
 
 ## Promesa de una reunión temprana y amonestación de orar en el nombre de Jesús
@@ -760,7 +760,7 @@
 
 ^29^ Sprechen zu ihm seine Jünger: Siehe, nun redest du frei heraus und sagst kein Sprichwort. ^30^ Nun wissen wir, dass du alle Dinge weißt und bedarfst nicht, dass dich jemand frage; darum glauben wir, dass du von Gott ausgegangen bist. 
 
-^31^ Jesus antwortete ihnen: Jetzt glaubet ihr? ^32^ Siehe, es kommt die Stunde und ist schon gekommen, dass ihr zerstreut werdet, ein jeglicher in das Seine, und mich allein lasset. Aber ich bin nicht allein; denn der Vater ist bei mir. ^a^ ^33^ Solches habe ich mit euch geredet, dass ihr in mir Frieden habet. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden.^b^ 
+^31^ Jesus antwortete ihnen: Jetzt glaubet ihr? ^32^ Siehe, es kommt die Stunde und ist schon gekommen, dass ihr zerstreut werdet, ein jeglicher in das Seine, und mich allein lasset. Aber ich bin nicht allein; denn der Vater ist bei mir. ^a^ ^33^ Solches habe ich mit euch geredet, dass ihr in mir Frieden habet. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden. ^b^ 
 ^a^[**16:32** Sach 13,7; Mt 26,31] ^b^[**16:33** Joh 14,27; Röm 5,1; 1Jo 5,4]
 
 # 17
@@ -891,7 +891,7 @@
 ## María Magdalena y el sepulcro vacío; Pedro y Juan en la tumba
 ^1^ An dem ersten Tage der Woche kommt Maria Magdalena früh, da es noch finster war, zum Grabe und sieht, dass der Stein vom Grabe hinweg war. ^2^ Da läuft sie und kommt zu Simon Petrus und zu dem anderen Jünger, welchen Jesus liebhatte, und spricht zu ihnen: Sie haben den Herrn weggenommen aus dem Grabe, und wir wissen nicht, wo sie ihn hin gelegt haben. 
 
-^3^ Da ging Petrus und der andere Jünger hinaus und kamen zum Grabe. ^4^ Es liefen aber die zwei miteinander, und der andere Jünger lief zuvor, schneller denn Petrus, und kam am ersten zum Grabe, ^5^ guckt hinein und sieht die Leinen gelegt; er ging aber nicht hinein. ^6^ Da kam Simon Petrus ihm nach und ging hinein in das Grab und sieht die Leinen gelegt, ^7^ und das Schweißtuch, das Jesus um das Haupt gebunden war, nicht zu den Leinen gelegt, sondern beiseite, zusammengewickelt, an einen besonderen Ort. ^a^ ^8^ Da ging auch der andere Jünger hinein, der am ersten zum Grabe kam, und sah und glaubte es. ^9^ Denn sie wussten die Schrift noch nicht, dass er von den Toten auferstehen müsste. ^10^ Da gingen die Jünger wieder heim. 
+^3^ Da ging Petrus und der andere Jünger hinaus und kamen zum Grabe. ^4^ Es liefen aber die zwei miteinander, und der andere Jünger lief zuvor, schneller denn Petrus, und kam am ersten zum Grabe, ^5^ guckt hinein und sieht die Leinen gelegt; er ging aber nicht hinein. ^6^ Da kam Simon Petrus ihm nach und ging hinein in das Grab und sieht die Leinen gelegt, ^7^ und das Schweißtuch, das Jesus um das Haupt gebunden war, nicht zu den Leinen gelegt, sondern beiseite, zusammengewickelt, an einen besonderen Ort. ^a^ ^8^ Da ging auch der andere Jünger hinein, der am ersten zum Grabe kam, und sah und glaubte es. ^9^ Denn sie wussten die Schrift noch nicht, dass er von den Toten auferstehen müsste. ^10^ Da gingen die Jünger wieder heim.
 ^a^[**20:7** Joh 11,44]
 
 ## Aparición de Jesús a María Magdalena
@@ -911,7 +911,7 @@
 ## Jesús y los discípulos en la noche del domingo de Pascua
 ^19^ Am Abend aber desselben ersten Tages der Woche, da die Jünger versammelt und die Türen verschlossen waren aus Furcht vor den Juden, kam Jesus und trat mitten ein und spricht zu ihnen: Friede sei mit euch! 
 
-^20^ Und als er das gesagt hatte, zeigte er ihnen die Hände und seine Seite. Da wurden die Jünger froh, dass sie den Herrn sahen. ^21^ Da sprach Jesus abermals zu ihnen: Friede sei mit euch! Gleichwie mich der Vater gesandt hat, so sende ich euch. ^a^ ^22^ Und da er das gesagt hatte, blies er sie an und spricht zu ihnen: Nehmet hin den Heiligen Geist! ^23^ Welchen ihr die Sünden erlasset, denen sind sie erlassen; und welchen ihr sie behaltet, denen sind sie behalten. 
+^20^ Und als er das gesagt hatte, zeigte er ihnen die Hände und seine Seite. Da wurden die Jünger froh, dass sie den Herrn sahen. ^21^ Da sprach Jesus abermals zu ihnen: Friede sei mit euch! Gleichwie mich der Vater gesandt hat, so sende ich euch. ^a^ ^22^ Und da er das gesagt hatte, blies er sie an und spricht zu ihnen: Nehmet hin den Heiligen Geist! ^23^ Welchen ihr die Sünden erlasset, denen sind sie erlassen; und welchen ihr sie behaltet, denen sind sie behalten.
 ^a^[**20:21** Joh 17,18]
 
 ## Los discípulos con Tomás
@@ -926,7 +926,7 @@
 ^29^ Spricht Jesus zu ihm: Dieweil du mich gesehen hast, Thomas, so glaubst du. Selig sind, die nicht sehen und doch glauben! ^a^ 
 ^a^[**20:29** 1Petr 1,8; Hebr 11,1]
 
-^30^ Auch viele andere Zeichen tat Jesus vor seinen Jüngern, die nicht geschrieben sind in diesem Buch. ^a^ ^31^ Diese aber sind geschrieben, dass ihr glaubet, Jesus sei Christus, der Sohn Gottes, und dass ihr durch den Glauben das Leben habet in seinem Namen.^b^ 
+^30^ Auch viele andere Zeichen tat Jesus vor seinen Jüngern, die nicht geschrieben sind in diesem Buch. ^a^ ^31^ Diese aber sind geschrieben, dass ihr glaubet, Jesus sei Christus, der Sohn Gottes, und dass ihr durch den Glauben das Leben habet in seinem Namen. ^b^ 
 ^a^[**20:30** Joh 21,24-25] ^b^[**20:31** 1Jo 5,13]
 
 # 21

@@ -2,7 +2,7 @@
 
 ### Zuschrift und Segensgruß
 
- # 1
+# 1
 ^1^ Ich, Paulus, ein Apostel – nicht von Menschen her (entsandt), auch nicht durch Vermittlung<sup title="= Berufung">&#x2732;</sup> eines Menschen (dazu gemacht), sondern durch Jesus Christus und Gott den Vater, der ihn von den Toten auferweckt hat –:
 ^2^ ich und sämtliche Brüder, die hier bei mir sind, senden den Gemeinden in Galatien unsern Gruß:
 ^3^ Gnade sei mit euch und Friede von Gott, unserm Vater, und dem Herrn Jesus Christus,
@@ -48,7 +48,7 @@
 
 #### a) Sein Aufenthalt in Jerusalem
 
- # 2
+# 2
 ^1^ Darauf, vierzehn Jahre später, zog ich wieder nach Jerusalem hinauf, (diesmal) mit Barnabas, und nahm auch Titus mit.
 ^2^ Ich unternahm aber diese Reise aufgrund einer (göttlichen) Offenbarung und legte ihnen, insbesondere<sup title="= in einer Privatbesprechung">&#x2732;</sup> den Angesehenen, die Heilsbotschaft dar, die ich unter den Heiden verkündige, (um feststellen zu lassen) ob meine Arbeit vergeblich wäre oder gewesen wäre.
 ^3^ Doch nicht einmal mein Begleiter Titus, der doch (ein Heidenchrist) aus den Griechen war, wurde zur Beschneidung genötigt.
@@ -86,7 +86,7 @@
 
 ### 1. Hinweis auf die Erfahrung, welche die Galater selbst gemacht haben, daß der Empfang des Geistes eine Folge des Glaubens ist
 
- # 3
+# 3
 ^1^ O ihr unverständigen Galater! Wer hat euch nur bezaubert, da euch doch Jesus Christus vor die Augen gemalt worden ist als Gekreuzigter?
 ^2^ Nur das eine möchte ich von euch erfahren: Habt ihr den Geist aufgrund von Gesetzeswerken empfangen oder infolge der Predigt vom Glauben?
 ^3^ Seid ihr wirklich so unverständig? Im Geist habt ihr den Anfang gemacht und wollt jetzt im Fleisch den Abschluß machen?
@@ -143,7 +143,7 @@
 
 #### a) An die Stelle der Gesetzesknechtschaft ist für die Gläubigen die Sohnesstellung (oder: Kindschaft) in Christus getreten
 
- # 4
+# 4
 ^1^ Ich sage<sup title="oder: meine">&#x2732;</sup> aber: Solange der Erbe noch unmündig ist, besteht zwischen ihm und einem Knecht<sup title="oder: Sklaven">&#x2732;</sup> kein Unterschied, wenn er auch der Herr von allem<sup title="oder: Besitzer aller Güter">&#x2732;</sup> ist;
 ^2^ er steht vielmehr unter Vormündern und Vermögensverwaltern bis zu dem vom Vater festgesetzten Zeitpunkt.
 ^3^ So standen auch wir, solange wir (geistlich) unmündig waren, als Sklaven unter der Herrschaft der Elemente<sup title="vgl. Kol 2,8">&#x2732;</sup> der Welt.
@@ -186,7 +186,7 @@
 
 ^31^ Darum, liebe Brüder: Wir sind nicht Kinder einer Magd<sup title="= Sklavin">&#x2732;</sup>, sondern der Freien!
 
- # 5
+# 5
 ^1^ Zur<sup title="oder: für die">&#x2732;</sup> Freiheit hat Christus uns frei gemacht. Stehet also fest und laßt euch nicht wieder in das Joch der Knechtschaft spannen!
 ^2^ Seht, ich, Paulus, erkläre euch: Wenn ihr euch beschneiden laßt, so wird Christus euch nichts mehr nützen.
 ^3^ Nochmals bezeuge ich es einem jeden, der sich beschneiden läßt: er ist damit zur Beobachtung des ganzen Gesetzes verpflichtet.
@@ -228,7 +228,7 @@
 ^25^ Wenn wir nun im Geiste leben, so laßt uns im Geiste auch wandeln!
 ^26^ Laßt uns nicht nach eitler Ehre begierig sein, einander nicht (zum Streit) herausfordern, einander nicht beneiden! –
 
- # 6
+# 6
 ^1^ Liebe Brüder, wenn auch jemand sich von einem Fehltritt hat übereilen lassen, so bringt ihr Geistesmenschen den Betreffenden mit dem Geist der Sanftmut wieder zurecht, und gib dabei auf dich selbst acht, damit du nicht auch in Versuchung gerätst!
 ^2^ Traget einer des andern Lasten, so werdet ihr dadurch das Gesetz Christi erfüllen.
 ^3^ Denn wenn jemand sich dünken läßt, er sei etwas, obwohl er doch nichts ist, so betrügt er sich selbst in seinem Sinn.

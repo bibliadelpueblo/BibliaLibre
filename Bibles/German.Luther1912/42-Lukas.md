@@ -1,6 +1,6 @@
 # 1
 ## Introducción
-^1^ Sintemal sich's viele unterwunden haben, Bericht zu geben von den Geschichten, die unter uns ergangen sind, ^2^ wie uns das gegeben haben, die es von Anfang selbst gesehen und Diener des Worts gewesen sind; ^3^ habe ich's auch für gut angesehen, nachdem ich's alles von Anbeginn mit Fleiß erkundet habe, dass ich's dir, mein guter Theophilus, in Ordnung schriebe, ^a^ ^4^ auf dass du gewissen Grund erfahrest der Lehre, in welcher du unterrichtet bist. 
+^1^ Sintemal sich's viele unterwunden haben, Bericht zu geben von den Geschichten, die unter uns ergangen sind, ^2^ wie uns das gegeben haben, die es von Anfang selbst gesehen und Diener des Worts gewesen sind; ^3^ habe ich's auch für gut angesehen, nachdem ich's alles von Anbeginn mit Fleiß erkundet habe, dass ich's dir, mein guter Theophilus, in Ordnung schriebe, ^a^ ^4^ auf dass du gewissen Grund erfahrest der Lehre, in welcher du unterrichtet bist.
 ^a^[**1:3** Apg 1,1; Kol 4,14]
 
 ## Anuncio del nacimiento de Juan el Bautista
@@ -56,7 +56,7 @@
 ^67^ Und sein Vater Zacharias ward des heiligen Geistes voll, weissagte und sprach: ^68^ Gelobet sei der Herr, der Gott Israels! denn er hat besucht und erlöst sein Volk ^a^ ^69^ und hat uns aufgerichtet ein Horn des Heils in dem Hause seines Dieners David, ^b^ ^70^ wie er vorzeiten geredet hat durch den Mund seiner heiligen Propheten: ^71^ dass er uns errettete von unseren Feinden und von der Hand aller, die uns hassen, ^72^ und Barmherzigkeit erzeigte unseren Vätern und gedächte an seinen heiligen Bund ^c^ ^73^ und an den Eid, den er geschworen hat unserem Vater Abraham, uns zu geben, ^d^ ^74^ dass wir, erlöst aus der Hand unserer Feinde, ihm dienten ohne Furcht unser Leben lang ^e^ ^75^ in Heiligkeit und Gerechtigkeit, die ihm gefällig ist. ^76^ Und du, Kindlein, wirst ein Prophet des Höchsten heißen. Du wirst vor dem Herrn hergehen, dass du seinen Weg bereitest ^77^ und Erkenntnis des Heils gebest seinem Volk, das da ist in Vergebung ihrer Sünden; ^f^ ^78^ durch die herzliche Barmherzigkeit unseres Gottes, durch welche uns besucht hat der Aufgang aus der Höhe, ^g^ ^79^ auf dass er erscheine denen, die da sitzen in Finsternis und Schatten des Todes, und richte unsere Füße auf den Weg des Friedens. ^h^ 
 ^a^[**1:68** Lk 7,16] ^b^[**1:69** Ps 132,17] ^c^[**1:72** 1Mo 17,7] ^d^[**1:73** 1Mo 22,16-18; Mi 7,20] ^e^[**1:74** Tit 2,12; Tit 1,2-14] ^f^[**1:77** Jer 31,34] ^g^[**1:78** 4Mo 24,17; Jes 60,1-2; Mal 3,20] ^h^[**1:79** Jes 9,1]
 
-^80^ Und das Kindlein wuchs und ward stark im Geist; und er war in der Wüste, bis dass er sollte hervortreten vor das Volk Israel.^a^ 
+^80^ Und das Kindlein wuchs und ward stark im Geist; und er war in der Wüste, bis dass er sollte hervortreten vor das Volk Israel. ^a^ 
 ^a^[**1:80** Mt 3,1]
 
 # 2
@@ -76,7 +76,7 @@
 ## Circuncisión y presentación de Jesús en el templo
 ^21^ Und da acht Tage um waren, dass das Kind beschnitten würde, da ward sein Name genannt Jesus, welcher genannt war von dem Engel, ehe denn er in Mutterleibe empfangen ward. 
 
-^22^ Und da die Tage ihrer Reinigung nach dem Gesetz Moses kamen, brachten sie ihn gen Jerusalem, auf dass sie ihn darstellten dem Herrn ^a^ ^23^ (wie denn geschrieben steht in dem Gesetz des Herrn: „Allerlei Männliches, das zum ersten die Mutter bricht, soll dem Herrn geheiligt heißen“) ^24^ und dass sie gäben das Opfer, wie es gesagt ist im Gesetz des Herrn: „ein Paar Turteltauben oder zwei junge Tauben.“ 
+^22^ Und da die Tage ihrer Reinigung nach dem Gesetz Moses kamen, brachten sie ihn gen Jerusalem, auf dass sie ihn darstellten dem Herrn ^a^ ^23^ (wie denn geschrieben steht in dem Gesetz des Herrn: „Allerlei Männliches, das zum ersten die Mutter bricht, soll dem Herrn geheiligt heißen“) ^24^ und dass sie gäben das Opfer, wie es gesagt ist im Gesetz des Herrn: „ein Paar Turteltauben oder zwei junge Tauben.“
 ^a^[**2:22** 4Mo 18,15-16]
 
 ## Saludos, himnos y profecía de Simeón envejecido
@@ -228,7 +228,7 @@
 ## El arranco de espigas de los discípulos en sábado; La primera disputa de Jesús con los fariseos sobre la santificación del día de reposo
 ^1^ Und es begab sich an einem Sabbat, dass er durchs Getreide ging; und seine Jünger rauften Ähren aus und aßen und rieben sie mit den Händen. ^2^ Etliche aber der Pharisäer sprachen zu ihnen: Warum tut ihr, was sich nicht ziemt zu tun an den Sabbaten? 
 
-^3^ Und Jesus antwortete und sprach zu ihnen: Habt ihr nicht das gelesen, was David tat, da ihn hungerte und die mit ihm waren? ^a^ ^4^ wie er zum Hause Gottes einging und nahm die Schaubrote und aß und gab auch denen, die mit ihm waren; die doch niemand durfte essen als die Priester allein? ^b^ ^5^ Und er sprach zu ihnen: Des Menschen Sohn ist ein Herr auch des Sabbats. 
+^3^ Und Jesus antwortete und sprach zu ihnen: Habt ihr nicht das gelesen, was David tat, da ihn hungerte und die mit ihm waren? ^a^ ^4^ wie er zum Hause Gottes einging und nahm die Schaubrote und aß und gab auch denen, die mit ihm waren; die doch niemand durfte essen als die Priester allein? ^b^ ^5^ Und er sprach zu ihnen: Des Menschen Sohn ist ein Herr auch des Sabbats.
 ^a^[**6:3** 1Sam 21,7] ^b^[**6:4** 3Mo 24,9]
 
 ## Sanación del hombre con el brazo paralizado en sábado; el segundo argumento sobre la observancia del sábado
@@ -258,7 +258,7 @@
 
 ^38^ Gebet, so wird euch gegeben. Ein voll, gedrückt, gerüttelt und überfließend Maß wird man in euren Schoß geben; denn eben mit dem Maß, mit dem ihr messet, wird man euch wieder messen. 
 
-^39^ Und er sagte ihnen ein Gleichnis: Kann auch ein Blinder einem Blinden den Weg weisen? Werden sie nicht alle beide in die Grube fallen? ^a^ ^40^ Der Jünger ist nicht über seinen Meister; wenn der Jünger ist wie sein Meister, so ist er vollkommen. ^b^ ^41^ Was siehst du aber einen Splitter in deines Bruders Auge, und des Balkens in deinem Auge wirst du nicht gewahr? ^42^ Oder wie kannst du sagen zu deinem Bruder: Halt stille, Bruder, ich will den Splitter aus deinem Auge ziehen, – und du siehst selbst nicht den Balken in deinem Auge? Du Heuchler, zieh zuvor den Balken aus deinem Auge und siehe dann zu, dass du den Splitter aus deines Bruders Auge ziehest! 
+^39^ Und er sagte ihnen ein Gleichnis: Kann auch ein Blinder einem Blinden den Weg weisen? Werden sie nicht alle beide in die Grube fallen? ^a^ ^40^ Der Jünger ist nicht über seinen Meister; wenn der Jünger ist wie sein Meister, so ist er vollkommen. ^b^ ^41^ Was siehst du aber einen Splitter in deines Bruders Auge, und des Balkens in deinem Auge wirst du nicht gewahr? ^42^ Oder wie kannst du sagen zu deinem Bruder: Halt stille, Bruder, ich will den Splitter aus deinem Auge ziehen, – und du siehst selbst nicht den Balken in deinem Auge? Du Heuchler, zieh zuvor den Balken aus deinem Auge und siehe dann zu, dass du den Splitter aus deines Bruders Auge ziehest!
 ^a^[**6:39** Mt 15,14] ^b^[**6:40** Mt 10,24-25; Joh 15,20]
 
 ## Tanto la obediencia de la fe como la incredulidad de la gente viene del corazón, como el fruto de la especie del árbol
@@ -278,7 +278,7 @@
 ^11^ Und es begab sich darnach, dass er in eine Stadt mit Namen Nain ging; und seiner Jünger gingen viele mit ihm und viel Volks. ^12^ Als er aber nahe an das Stadttor kam, siehe, da trug man einen Toten heraus, der ein einziger Sohn war seiner Mutter, und sie war eine Witwe; und viel Volks aus der Stadt ging mit ihr. ^13^ Und da sie der Herr sah, jammerte ihn derselben, und er sprach zu ihr: Weine nicht! ^14^ Und trat hinzu und rührte den Sarg an; und die Träger standen. Und er sprach: Jüngling, ich sage dir, stehe auf! ^a^ ^15^ Und der Tote richtete sich auf und fing an zu reden; und er gab ihn seiner Mutter. ^b^ 
 ^a^[**7:14** Mk 5,41] ^b^[**7:15** 1Kö 17,23; 2Kö 4,36]
 
-^16^ Und es kam sie alle eine Furcht an, und sie priesen Gott und sprachen: Es ist ein großer Prophet unter uns aufgestanden, und Gott hat sein Volk heimgesucht. ^a^ ^17^ Und diese Rede von ihm erscholl in das ganze jüdische Land und in alle umliegenden Länder. 
+^16^ Und es kam sie alle eine Furcht an, und sie priesen Gott und sprachen: Es ist ein großer Prophet unter uns aufgestanden, und Gott hat sein Volk heimgesucht. ^a^ ^17^ Und diese Rede von ihm erscholl in das ganze jüdische Land und in alle umliegenden Länder.
 ^a^[**7:16** Lk 1,68; Mt 16,14]
 
 ## Embajada de Juan el Bautista; La respuesta y el testimonio de Jesús sobre Juan
@@ -312,7 +312,7 @@
 
 ^49^ Da fingen die an, die mit zu Tische saßen, und sprachen bei sich selbst: Wer ist dieser, der auch Sünden vergibt? 
 
-^50^ Er aber sprach zu dem Weibe: Dein Glaube hat dir geholfen; gehe hin mit Frieden!^a^ 
+^50^ Er aber sprach zu dem Weibe: Dein Glaube hat dir geholfen; gehe hin mit Frieden! ^a^ 
 ^a^[**7:50** Lk 8,48; Lk 17,19; Lk 18,42]
 
 # 8
@@ -368,7 +368,7 @@
 ^51^ Da er aber in das Haus kam, ließ er niemand hineingehen denn Petrus und Jakobus und Johannes und des Kindes Vater und Mutter. ^a^ ^52^ Sie weinten aber alle und klagten um sie. Er aber sprach: Weinet nicht; sie ist nicht gestorben, sondern sie schläft. ^b^ 
 ^a^[**8:51** Mt 17,1] ^b^[**8:52** Lk 7,13]
 
-^53^ Und sie verlachten ihn, wussten wohl, dass sie gestorben war. ^54^ Er aber trieb sie alle hinaus, nahm sie bei der Hand und rief und sprach: Kind, stehe auf! ^55^ Und ihr Geist kam wieder, und sie stand alsobald auf. Und er befahl, man sollte ihr zu essen geben. ^56^ Und ihre Eltern entsetzten sich. Er aber gebot ihnen, dass sie niemand sagten, was geschehen war.^a^ 
+^53^ Und sie verlachten ihn, wussten wohl, dass sie gestorben war. ^54^ Er aber trieb sie alle hinaus, nahm sie bei der Hand und rief und sprach: Kind, stehe auf! ^55^ Und ihr Geist kam wieder, und sie stand alsobald auf. Und er befahl, man sollte ihr zu essen geben. ^56^ Und ihre Eltern entsetzten sich. Er aber gebot ihnen, dass sie niemand sagten, was geschehen war. ^a^ 
 ^a^[**8:56** Lk 5,14; Mk 7,36]
 
 # 9
@@ -403,7 +403,7 @@
 ^21^ Und er bedrohte sie und gebot, dass sie das niemand sagten, ^22^ und sprach: Des Menschen Sohn muss noch viel leiden und verworfen werden von den Ältesten und Hohenpriestern und Schriftgelehrten und getötet werden und am dritten Tage auferstehen. 
 
 ## Proverbios sobre seguir por los discípulos
-^23^ Da sprach er zu ihnen allen: Wer mir folgen will, der verleugne sich selbst und nehme sein Kreuz auf sich täglich und folge mir nach. ^24^ Denn wer sein Leben erhalten will, der wird es verlieren; wer aber sein Leben verliert um meinetwillen, der wird's erhalten. ^25^ Und welchen Nutzen hätte der Mensch, ob er die ganze Welt gewönne, und verlöre sich selbst oder beschädigte sich selbst? ^26^ Wer sich aber mein und meiner Worte schämt, des wird sich des Menschen Sohn auch schämen, wenn er kommen wird in seiner Herrlichkeit und seines Vaters und der heiligen Engel. ^a^ ^27^ Ich sage euch aber wahrlich, dass etliche sind von denen, die hier stehen, die den Tod nicht schmecken werden, bis dass sie das Reich Gottes sehen. 
+^23^ Da sprach er zu ihnen allen: Wer mir folgen will, der verleugne sich selbst und nehme sein Kreuz auf sich täglich und folge mir nach. ^24^ Denn wer sein Leben erhalten will, der wird es verlieren; wer aber sein Leben verliert um meinetwillen, der wird's erhalten. ^25^ Und welchen Nutzen hätte der Mensch, ob er die ganze Welt gewönne, und verlöre sich selbst oder beschädigte sich selbst? ^26^ Wer sich aber mein und meiner Worte schämt, des wird sich des Menschen Sohn auch schämen, wenn er kommen wird in seiner Herrlichkeit und seines Vaters und der heiligen Engel. ^a^ ^27^ Ich sage euch aber wahrlich, dass etliche sind von denen, die hier stehen, die den Tod nicht schmecken werden, bis dass sie das Reich Gottes sehen.
 ^a^[**9:26** Mt 10,33; 2Tim 1,8]
 
 ## La transfiguración de Jesús en la montaña
@@ -451,7 +451,7 @@
 
 ^61^ Und ein anderer sprach: Herr, ich will dir nachfolgen; aber erlaube mir zuvor, dass ich einen Abschied mache mit denen, die in meinem Hause sind. 
 
-^62^ Jesus aber sprach zu ihm: Wer seine Hand an den Pflug legt und sieht zurück, der ist nicht geschickt zum Reich Gottes.^a^ 
+^62^ Jesus aber sprach zu ihm: Wer seine Hand an den Pflug legt und sieht zurück, der ist nicht geschickt zum Reich Gottes. ^a^ 
 ^a^[**9:62** Phil 3,13]
 
 # 10
@@ -536,11 +536,11 @@
 ^29^ Das Volk aber drang hinzu. Da fing er an und sagte: Dies ist eine arge Art; sie begehrt ein Zeichen, und es wird ihr kein Zeichen gegeben denn nur das Zeichen des Propheten Jona. ^30^ Denn wie Jona ein Zeichen war den Niniviten, also wird des Menschen Sohn sein diesem Geschlecht. ^31^ Die Königin von Mittag wird auftreten vor dem Gericht mit den Leuten dieses Geschlechts und wird sie verdammen; denn sie kam von der Welt Ende, zu hören die Weisheit Salomos. Und siehe, hier ist mehr als Salomo. ^32^ Die Leute von Ninive werden auftreten vor dem Gericht mit diesem Geschlecht und werden's verdammen; denn sie taten Buße nach der Predigt des Jona. Und siehe, hier ist mehr als Jona. ^a^ 
 ^a^[**11:32** Jon 3,5]
 
-^33^ Niemand zündet ein Licht an und setzt es an einen heimlichen Ort, auch nicht unter einen Scheffel, sondern auf den Leuchter, auf dass, wer hineingeht, das Licht sehe. ^a^ ^34^ Das Auge ist des Leibes Licht. Wenn nun dein Auge einfältig ist, so ist dein ganzer Leib licht; so aber dein Auge ein Schalk ist, so ist auch dein Leib finster. ^35^ So schaue darauf, dass nicht das Licht in dir Finsternis sei. ^36^ Wenn nun dein Leib ganz licht ist, dass er kein Stück von Finsternis hat, so wird er ganz licht sein, wie wenn ein Licht mit hellem Blitz dich erleuchtet. 
+^33^ Niemand zündet ein Licht an und setzt es an einen heimlichen Ort, auch nicht unter einen Scheffel, sondern auf den Leuchter, auf dass, wer hineingeht, das Licht sehe. ^a^ ^34^ Das Auge ist des Leibes Licht. Wenn nun dein Auge einfältig ist, so ist dein ganzer Leib licht; so aber dein Auge ein Schalk ist, so ist auch dein Leib finster. ^35^ So schaue darauf, dass nicht das Licht in dir Finsternis sei. ^36^ Wenn nun dein Leib ganz licht ist, dass er kein Stück von Finsternis hat, so wird er ganz licht sein, wie wenn ein Licht mit hellem Blitz dich erleuchtet.
 ^a^[**11:33** Lk 8,16]
 
 ## Contra la hipocresía de los fariseos
-^37^ Da er aber in der Rede war, bat ihn ein Pharisäer, dass er mit ihm das Mittagsmahl äße. Und er ging hinein und setzte sich zu Tische. ^a^ ^38^ Da das der Pharisäer sah, verwunderte er sich, dass er sich nicht vor dem Essen gewaschen hätte. ^b^ ^39^ Der Herr aber sprach zu ihm: Ihr Pharisäer haltet die Becher und Schüsseln auswendig reinlich, aber euer Inwendiges ist voll Raubes und Bosheit. ^40^ Ihr Narren, meinet ihr, dass es inwendig rein sei, wenn's auswendig rein ist? ^41^ Doch gebt Almosen von dem, was da ist, siehe, so ist's euch alles rein. ^42^ Aber weh euch Pharisäern, dass ihr verzehntet die Minze und Raute und allerlei Kohl, und geht vorbei an dem Gericht und an der Liebe Gottes! Dies sollte man tun und jenes nicht lassen. ^c^ ^43^ Weh euch Pharisäern, dass ihr gern obenan sitzet in den Schulen und wollt gegrüßt sein auf dem Markte! ^d^ ^44^ Weh euch, Schriftgelehrte und Pharisäer, ihr Heuchler, dass ihr seid wie die verdeckten Totengräber, darüber die Leute laufen, und kennen sie nicht! 
+^37^ Da er aber in der Rede war, bat ihn ein Pharisäer, dass er mit ihm das Mittagsmahl äße. Und er ging hinein und setzte sich zu Tische. ^a^ ^38^ Da das der Pharisäer sah, verwunderte er sich, dass er sich nicht vor dem Essen gewaschen hätte. ^b^ ^39^ Der Herr aber sprach zu ihm: Ihr Pharisäer haltet die Becher und Schüsseln auswendig reinlich, aber euer Inwendiges ist voll Raubes und Bosheit. ^40^ Ihr Narren, meinet ihr, dass es inwendig rein sei, wenn's auswendig rein ist? ^41^ Doch gebt Almosen von dem, was da ist, siehe, so ist's euch alles rein. ^42^ Aber weh euch Pharisäern, dass ihr verzehntet die Minze und Raute und allerlei Kohl, und geht vorbei an dem Gericht und an der Liebe Gottes! Dies sollte man tun und jenes nicht lassen. ^c^ ^43^ Weh euch Pharisäern, dass ihr gern obenan sitzet in den Schulen und wollt gegrüßt sein auf dem Markte! ^d^ ^44^ Weh euch, Schriftgelehrte und Pharisäer, ihr Heuchler, dass ihr seid wie die verdeckten Totengräber, darüber die Leute laufen, und kennen sie nicht!
 ^a^[**11:37** Lk 7,36; Lk 14,1] ^b^[**11:38** Mt 15,2] ^c^[**11:42** Joh 5,42] ^d^[**11:43** Lk 14,7]
 
 ## Gritos de defensa sobre la malicia de los maestros de la ley
@@ -553,7 +553,7 @@
 
 # 12
 ## Advertencia de hipocresía farisea
-^1^ Es lief das Volk zu und kamen etliche Tausend zusammen, also dass sie sich untereinander traten. Da fing er an und sagte zu seinen Jüngern: Zum ersten hütet euch vor dem Sauerteig der Pharisäer, welches ist die Heuchelei. ^a^ ^2^ Es ist aber nichts verborgen, das nicht offenbar werde, noch heimlich, das man nicht wissen werde. ^b^ ^3^ Darum, was ihr in der Finsternis saget, das wird man im Licht hören; was ihr redet ins Ohr in den Kammern, das wird man auf den Dächern predigen. 
+^1^ Es lief das Volk zu und kamen etliche Tausend zusammen, also dass sie sich untereinander traten. Da fing er an und sagte zu seinen Jüngern: Zum ersten hütet euch vor dem Sauerteig der Pharisäer, welches ist die Heuchelei. ^a^ ^2^ Es ist aber nichts verborgen, das nicht offenbar werde, noch heimlich, das man nicht wissen werde. ^b^ ^3^ Darum, was ihr in der Finsternis saget, das wird man im Licht hören; was ihr redet ins Ohr in den Kammern, das wird man auf den Dächern predigen.
 ^a^[**12:1** Mt 16,6; Mk 8,15] ^b^[**12:2** Lk 8,17]
 
 ## Advertencia de miedo al hombre
@@ -587,7 +587,7 @@
 
 ^29^ Darum auch ihr, fraget nicht darnach, was ihr essen oder was ihr trinken sollt, und fahret nicht hoch her. ^30^ Nach solchem allen trachten die Heiden in der Welt; aber euer Vater weiß wohl, das ihr des bedürfet. ^31^ Doch trachtet nach dem Reich Gottes, so wird euch das alles zufallen. 
 
-^32^ Fürchte dich nicht, du kleine Herde! denn es ist eures Vaters Wohlgefallen, euch das Reich zu geben. ^33^ Verkaufet, was ihr habt, und gebet Almosen. Machet euch Beutel, die nicht veralten, einen Schatz, der nimmer abnimmt, im Himmel, da kein Dieb zukommt, und den keine Motten fressen. ^a^ ^34^ Denn wo euer Schatz ist, da wird auch euer Herz sein. 
+^32^ Fürchte dich nicht, du kleine Herde! denn es ist eures Vaters Wohlgefallen, euch das Reich zu geben. ^33^ Verkaufet, was ihr habt, und gebet Almosen. Machet euch Beutel, die nicht veralten, einen Schatz, der nimmer abnimmt, im Himmel, da kein Dieb zukommt, und den keine Motten fressen. ^a^ ^34^ Denn wo euer Schatz ist, da wird auch euer Herz sein.
 ^a^[**12:33** Lk 18,22]
 
 ## Recordatorios de vigilancia y preparación; Igualdad de disposición de los siervos fieles y del maligno
@@ -596,7 +596,7 @@
 
 ^41^ Petrus aber sprach zu ihm: Herr, sagest du dies Gleichnis zu uns oder auch zu allen? 
 
-^42^ Der Herr aber sprach: Wie ein großes Ding ist's um einen treuen und klugen Haushalter, welchen der Herr setzt über sein Gesinde, dass er ihnen zur rechten Zeit ihre Gebühr gebe! ^43^ Selig ist der Knecht, welchen sein Herr findet tun also, wenn er kommt. ^44^ Wahrlich, ich sage euch: Er wird ihn über alle seine Güter setzen. ^45^ So aber der Knecht in seinem Herzen sagen wird: Mein Herr verzieht zu kommen, – und fängt an zu schlagen die Knechte und Mägde, auch zu essen und zu trinken und sich vollzusaufen: ^46^ so wird des Knechtes Herr kommen an dem Tage, da er sich's nicht versieht, und zu der Stunde, die er nicht weiß, und wird ihn zerscheitern und wird ihm seinen Lohn geben mit den Ungläubigen. ^47^ Der Knecht aber, der seines Herrn Willen weiß, und hat sich nicht bereitet, auch nicht nach seinem Willen getan, der wird viel Streiche leiden müssen. ^a^ ^48^ Der es aber nicht weiß, hat aber getan, was der Streiche wert ist, wird wenig Streiche leiden. Denn welchem viel gegeben ist, bei dem wird man viel suchen; und welchem viel befohlen ist, von dem wird man viel fordern. 
+^42^ Der Herr aber sprach: Wie ein großes Ding ist's um einen treuen und klugen Haushalter, welchen der Herr setzt über sein Gesinde, dass er ihnen zur rechten Zeit ihre Gebühr gebe! ^43^ Selig ist der Knecht, welchen sein Herr findet tun also, wenn er kommt. ^44^ Wahrlich, ich sage euch: Er wird ihn über alle seine Güter setzen. ^45^ So aber der Knecht in seinem Herzen sagen wird: Mein Herr verzieht zu kommen, – und fängt an zu schlagen die Knechte und Mägde, auch zu essen und zu trinken und sich vollzusaufen: ^46^ so wird des Knechtes Herr kommen an dem Tage, da er sich's nicht versieht, und zu der Stunde, die er nicht weiß, und wird ihn zerscheitern und wird ihm seinen Lohn geben mit den Ungläubigen. ^47^ Der Knecht aber, der seines Herrn Willen weiß, und hat sich nicht bereitet, auch nicht nach seinem Willen getan, der wird viel Streiche leiden müssen. ^a^ ^48^ Der es aber nicht weiß, hat aber getan, was der Streiche wert ist, wird wenig Streiche leiden. Denn welchem viel gegeben ist, bei dem wird man viel suchen; und welchem viel befohlen ist, von dem wird man viel fordern.
 ^a^[**12:47** Jak 4,17]
 
 ## Jesús trae fuego y conflicto a la tierra
@@ -643,7 +643,7 @@
 
 ^32^ Und er sprach zu ihnen: Gehet hin und saget diesem Fuchs: Siehe, ich treibe Teufel aus und mache gesund heut und morgen, und am dritten Tage werde ich ein Ende nehmen. ^33^ Doch muss ich heute und morgen und am Tage darnach wandeln; denn es tut's nicht, dass ein Prophet umkomme außer Jerusalem. 
 
-^34^ Jerusalem, Jerusalem, die du tötest die Propheten und steinigest, die zu dir gesandt werden, wie oft habe ich wollen deine Kinder versammeln, wie eine Henne ihr Nest unter ihre Flügel, und ihr habt nicht gewollt! ^a^ ^35^ Sehet, euer Haus soll euch wüst gelassen werden. Denn ich sage euch: Ihr werdet mich nicht sehen, bis dass es komme, dass ihr sagen werdet: Gelobt ist, der da kommt im Namen des Herrn!^b^ 
+^34^ Jerusalem, Jerusalem, die du tötest die Propheten und steinigest, die zu dir gesandt werden, wie oft habe ich wollen deine Kinder versammeln, wie eine Henne ihr Nest unter ihre Flügel, und ihr habt nicht gewollt! ^a^ ^35^ Sehet, euer Haus soll euch wüst gelassen werden. Denn ich sage euch: Ihr werdet mich nicht sehen, bis dass es komme, dass ihr sagen werdet: Gelobt ist, der da kommt im Namen des Herrn! ^b^ 
 ^a^[**13:34** Lk 19,41-44; Mt 23,37-39] ^b^[**13:35** Ps 118,26]
 
 # 14
@@ -720,7 +720,7 @@
 ^a^[**16:8** Eph 5,8-9] ^b^[**16:9** Lk 14,14; Mt 6,20; Mt 19,21]
 
 ## De lealtad
-^10^ Wer im Geringsten treu ist, der ist auch im Großen treu; und wer im Geringsten unrecht ist, der ist auch im Großen unrecht. ^a^ ^11^ So ihr nun in dem ungerechten Mammon nicht treu seid, wer will euch das Wahrhaftige vertrauen? ^12^ Und so ihr in dem Fremden nicht treu seid, wer wird euch geben, was euer ist? ^13^ Kein Knecht kann zwei Herren dienen: entweder er wird den einen hassen und den anderen lieben, oder er wird dem einen anhangen und den anderen verachten. Ihr könnt nicht Gott samt dem Mammon dienen. 
+^10^ Wer im Geringsten treu ist, der ist auch im Großen treu; und wer im Geringsten unrecht ist, der ist auch im Großen unrecht. ^a^ ^11^ So ihr nun in dem ungerechten Mammon nicht treu seid, wer will euch das Wahrhaftige vertrauen? ^12^ Und so ihr in dem Fremden nicht treu seid, wer wird euch geben, was euer ist? ^13^ Kein Knecht kann zwei Herren dienen: entweder er wird den einen hassen und den anderen lieben, oder er wird dem einen anhangen und den anderen verachten. Ihr könnt nicht Gott samt dem Mammon dienen.
 ^a^[**16:10** Lk 19,17]
 
 ## Jesús reprende a los fariseos codiciosos y burladores
@@ -749,7 +749,7 @@
 
 # 17
 ## Advertencia contra la seducción y recordatorio de perdonar
-^1^ Er sprach aber zu seinen Jüngern: Es ist unmöglich, dass nicht Ärgernisse kommen; weh aber dem, durch welchen sie kommen! ^2^ Es wäre ihm besser, dass man einen Mühlstein an seinen Hals hängte und würfe ihm ins Meer, denn dass er dieser Kleinen einen ärgert. ^a^ ^3^ Hütet euch! So dein Bruder an dir sündigt, so strafe ihn; und so es ihn reut, vergib ihm. ^4^ Und wenn er siebenmal des Tages an dir sündigen würde und siebenmal des Tages wiederkäme zu dir und spräche: Es reut mich! so sollst du ihm vergeben. 
+^1^ Er sprach aber zu seinen Jüngern: Es ist unmöglich, dass nicht Ärgernisse kommen; weh aber dem, durch welchen sie kommen! ^2^ Es wäre ihm besser, dass man einen Mühlstein an seinen Hals hängte und würfe ihm ins Meer, denn dass er dieser Kleinen einen ärgert. ^a^ ^3^ Hütet euch! So dein Bruder an dir sündigt, so strafe ihn; und so es ihn reut, vergib ihm. ^4^ Und wenn er siebenmal des Tages an dir sündigen würde und siebenmal des Tages wiederkäme zu dir und spräche: Es reut mich! so sollst du ihm vergeben.
 ^a^[**17:2** Mt 18,6-7]
 
 ## Del poder de la fe
@@ -876,7 +876,7 @@
 ^40^ Er antwortete und sprach zu ihnen: Ich sage euch: Wenn diese werden schweigen, so werden die Steine schreien. 
 
 ## Jesús llora por Jerusalén y profecía de la destrucción de Jerusalén
-^41^ Und als er nahe hinzukam, sah er die Stadt an und weinte über sie ^42^ und sprach: Wenn doch auch du erkenntest zu dieser deiner Zeit, was zu deinem Frieden dient! Aber nun ist's vor deinen Augen verborgen. ^a^ ^43^ Denn es wird die Zeit über dich kommen, dass deine Feinde werden um dich und deine Kinder mit dir eine Wagenburg schlagen, dich belagern und an allen Orten ängsten; ^44^ und werden dich schleifen und keinen Stein auf dem anderen lassen, darum dass du nicht erkannt hast die Zeit, darin du heimgesucht bist. 
+^41^ Und als er nahe hinzukam, sah er die Stadt an und weinte über sie ^42^ und sprach: Wenn doch auch du erkenntest zu dieser deiner Zeit, was zu deinem Frieden dient! Aber nun ist's vor deinen Augen verborgen. ^a^ ^43^ Denn es wird die Zeit über dich kommen, dass deine Feinde werden um dich und deine Kinder mit dir eine Wagenburg schlagen, dich belagern und an allen Orten ängsten; ^44^ und werden dich schleifen und keinen Stein auf dem anderen lassen, darum dass du nicht erkannt hast die Zeit, darin du heimgesucht bist.
 ^a^[**19:42** Lk 13,34; 5Mo 32,29; Mt 13,14]
 
 ## Jesús limpiando el templo
@@ -955,7 +955,7 @@
 ^a^[**21:19** Hebr 10,36]
 
 ## La destrucción de Jerusalén y la difícil situación del pueblo judío
-^20^ Wenn ihr aber sehen werdet Jerusalem belagert mit einem Heer, so merket, dass herbeigekommen ist seine Verwüstung. ^21^ Alsdann, wer in Judäa ist, der fliehe auf das Gebirge, und wer drinnen ist, der weiche heraus, und wer auf dem Lande ist, der komme nicht hinein. ^22^ Denn das sind die Tage der Rache, dass erfüllet werde alles, was geschrieben ist. ^a^ ^23^ Weh aber den Schwangeren und Säugerinnen in jenen Tagen! Denn es wird große Not auf Erden sein und ein Zorn über dieses Volk, ^24^ und sie werden fallen durch des Schwertes Schärfe und gefangen geführt werden unter alle Völker; und Jerusalem wird zertreten werden von den Heiden, bis dass der Heiden Zeit erfüllt wird. 
+^20^ Wenn ihr aber sehen werdet Jerusalem belagert mit einem Heer, so merket, dass herbeigekommen ist seine Verwüstung. ^21^ Alsdann, wer in Judäa ist, der fliehe auf das Gebirge, und wer drinnen ist, der weiche heraus, und wer auf dem Lande ist, der komme nicht hinein. ^22^ Denn das sind die Tage der Rache, dass erfüllet werde alles, was geschrieben ist. ^a^ ^23^ Weh aber den Schwangeren und Säugerinnen in jenen Tagen! Denn es wird große Not auf Erden sein und ein Zorn über dieses Volk, ^24^ und sie werden fallen durch des Schwertes Schärfe und gefangen geführt werden unter alle Völker; und Jerusalem wird zertreten werden von den Heiden, bis dass der Heiden Zeit erfüllt wird.
 ^a^[**21:22** Jer 5,29]
 
 ## Las últimas señales del fin y la aparición del Hijo del Hombre
@@ -976,7 +976,7 @@
 ^a^[**22:2** Lk 20,19]
 
 ## Traición de Judas
-^3^ Es war aber der Satanas gefahren in den Judas, genannt Ischariot, der da war aus der Zahl der Zwölf. ^a^ ^4^ Und er ging hin und redete mit den Hohenpriestern und mit den Hauptleuten, wie er ihn wollte ihnen überantworten. ^5^ Und sie wurden froh und gelobten, ihm Geld zu geben. ^6^ Und er versprach es und suchte Gelegenheit, dass er ihn überantwortete ohne Lärmen. 
+^3^ Es war aber der Satanas gefahren in den Judas, genannt Ischariot, der da war aus der Zahl der Zwölf. ^a^ ^4^ Und er ging hin und redete mit den Hohenpriestern und mit den Hauptleuten, wie er ihn wollte ihnen überantworten. ^5^ Und sie wurden froh und gelobten, ihm Geld zu geben. ^6^ Und er versprach es und suchte Gelegenheit, dass er ihn überantwortete ohne Lärmen.
 ^a^[**22:3** Joh 13,2; Joh 13,27]
 
 ## Preparación de la cena de Pascua
@@ -1075,7 +1075,7 @@
 ^a^[**23:7** Lk 3,1]
 
 ## Jesus antes Herodes
-^8^ Da aber Herodes Jesum sah, ward er sehr froh; denn er hätte ihn längst gern gesehen – denn er hatte viel von ihm gehört – und hoffte, er würde ein Zeichen von ihm sehen. ^a^ ^9^ Und er fragte ihn mancherlei; er antwortete ihm aber nichts. ^10^ Die Hohenpriester aber und Schriftgelehrten standen und verklagten ihn hart. ^11^ Aber Herodes mit seinem Hofgesinde verachtete und verspottete ihn, legte ihm ein weißes Kleid an und sandte ihn wieder zu Pilatus. ^12^ Auf den Tag wurden Pilatus und Herodes Freunde miteinander; denn zuvor waren sie einander feind. 
+^8^ Da aber Herodes Jesum sah, ward er sehr froh; denn er hätte ihn längst gern gesehen – denn er hatte viel von ihm gehört – und hoffte, er würde ein Zeichen von ihm sehen. ^a^ ^9^ Und er fragte ihn mancherlei; er antwortete ihm aber nichts. ^10^ Die Hohenpriester aber und Schriftgelehrten standen und verklagten ihn hart. ^11^ Aber Herodes mit seinem Hofgesinde verachtete und verspottete ihn, legte ihm ein weißes Kleid an und sandte ihn wieder zu Pilatus. ^12^ Auf den Tag wurden Pilatus und Herodes Freunde miteinander; denn zuvor waren sie einander feind.
 ^a^[**23:8** Lk 9,9]
 
 ## Jesús de nuevo ante Pilato
@@ -1148,7 +1148,7 @@
 
 ^29^ Und sie nötigten ihn und sprachen: Bleibe bei uns; denn es will Abend werden, und der Tag hat sich geneigt. Und er ging hinein, bei ihnen zu bleiben. 
 
-^30^ Und es geschah, da er mit ihnen zu Tische saß, nahm er das Brot, dankte, brach's und gab's ihnen. ^a^ ^31^ Da wurden ihre Augen geöffnet, und sie erkannten ihn. Und er verschwand vor ihnen. ^32^ Und sie sprachen untereinander: Brannte nicht unser Herz in uns, da er mit uns redete auf dem Wege, als er uns die Schrift öffnete? ^33^ Und sie standen auf zu derselben Stunde, kehrten wieder gen Jerusalem und fanden die Elf versammelt und die bei ihnen waren, ^34^ welche sprachen: Der Herr ist wahrhaftig auferstanden und Simon erschienen. ^35^ Und sie erzählten ihnen, was auf dem Wege geschehen war und wie er von ihnen erkannt wäre an dem, da er das Brot brach. 
+^30^ Und es geschah, da er mit ihnen zu Tische saß, nahm er das Brot, dankte, brach's und gab's ihnen. ^a^ ^31^ Da wurden ihre Augen geöffnet, und sie erkannten ihn. Und er verschwand vor ihnen. ^32^ Und sie sprachen untereinander: Brannte nicht unser Herz in uns, da er mit uns redete auf dem Wege, als er uns die Schrift öffnete? ^33^ Und sie standen auf zu derselben Stunde, kehrten wieder gen Jerusalem und fanden die Elf versammelt und die bei ihnen waren, ^34^ welche sprachen: Der Herr ist wahrhaftig auferstanden und Simon erschienen. ^35^ Und sie erzählten ihnen, was auf dem Wege geschehen war und wie er von ihnen erkannt wäre an dem, da er das Brot brach.
 ^a^[**24:30** Lk 9,16; Lk 22,19]
 
 ## Jesús se apareció al círculo de los discípulos la noche del domingo de Pascua; su mandato misionero y despedida de los discípulos
@@ -1162,7 +1162,7 @@
 ^42^ Und sie legten ihm vor ein Stück von gebratenem Fisch und Honigseim. ^a^ ^43^ Und er nahm's und aß vor ihnen. ^44^ Er sprach aber zu ihnen: Das sind die Reden, die ich zu euch sagte, da ich noch bei euch war; denn es muss alles erfüllet werden, was von mir geschrieben ist im Gesetz Moses, in den Propheten und in den Psalmen. 
 ^a^[**24:42** Joh 21,5; Joh 21,10; Apg 10,41]
 
-^45^ Da öffnete er ihnen das Verständnis, dass sie die Schrift verstanden, ^a^ ^46^ und er sprach zu ihnen: Also ist's geschrieben, und also musste Christus leiden und auferstehen von den Toten am dritten Tage ^b^ ^47^ und predigen lassen in seinem Namen Buße und Vergebung der Sünden unter allen Völkern und anheben zu Jerusalem. ^c^ ^48^ Ihr aber seid des alles Zeugen. ^49^ Und siehe, ich will auf euch senden die Verheißung meines Vaters. Ihr aber sollt in der Stadt Jerusalem bleiben, bis dass ihr angetan werdet mit der Kraft aus der Höhe. 
+^45^ Da öffnete er ihnen das Verständnis, dass sie die Schrift verstanden, ^a^ ^46^ und er sprach zu ihnen: Also ist's geschrieben, und also musste Christus leiden und auferstehen von den Toten am dritten Tage ^b^ ^47^ und predigen lassen in seinem Namen Buße und Vergebung der Sünden unter allen Völkern und anheben zu Jerusalem. ^c^ ^48^ Ihr aber seid des alles Zeugen. ^49^ Und siehe, ich will auf euch senden die Verheißung meines Vaters. Ihr aber sollt in der Stadt Jerusalem bleiben, bis dass ihr angetan werdet mit der Kraft aus der Höhe.
 ^a^[**24:45** Lk 9,45] ^b^[**24:46** Hos 6,2; Joh 12,16] ^c^[**24:47** Apg 2,38; Apg 17,30]
 
 ## Ascensión de jesús

@@ -39,7 +39,7 @@
 ^5^ Da glaubten die Leute zu Ninive an Gott und ließen predigen, man sollte fasten, und zogen Säcke an, beide, groß und klein. ^6^ Und da das vor den König zu Ninive kam, stand er auf von seinem Thron und legte seinen Purpur ab und hüllte einen Sack um sich und setzte sich in die Asche ^7^ und ließ ausrufen und sagen zu Ninive nach Befehl des Königs und seiner Gewaltigen also: Es sollen weder Mensch noch Vieh, weder Ochsen noch Schafe Nahrung nehmen, und man soll sie nicht weiden noch sie Wasser trinken lassen; ^8^ und sollen Säcke um sich hüllen, beide, Menschen und Vieh, und zu Gott rufen heftig; und ein jeglicher bekehre sich von seinem bösen Wege und vom Frevel seiner Hände. ^9^ Wer weiß? Es möchte Gott wiederum gereuen und er sich wenden von seinem grimmigen Zorn, dass wir nicht verderben. ^a^ 
 ^a^[**3:9** Joe 2,14]
 
-^10^ Da aber Gott sah ihre Werke, dass sie sich bekehrten von ihrem bösen Wege, reute ihn des Übels, das er geredet hatte ihnen zu tun, und tat's nicht.^a^ 
+^10^ Da aber Gott sah ihre Werke, dass sie sich bekehrten von ihrem bösen Wege, reute ihn des Übels, das er geredet hatte ihnen zu tun, und tat's nicht. ^a^ 
 ^a^[**3:10** Jer 18,7-8]
 
 # 4

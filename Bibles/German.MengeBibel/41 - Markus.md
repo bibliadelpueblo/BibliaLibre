@@ -4,7 +4,7 @@
 
 ### 1. Auftreten und Wirksamkeit Johannes des Täufers
 
- # 1
+# 1
 ^1^ Die Heilsbotschaft von Jesus Christus, dem Sohne Gottes, hat folgenden Anfang:
 ^2^ Wie beim Propheten Jesaja geschrieben steht: »Siehe<sup title="oder: Wisset wohl">&#x2732;</sup>, ich sende meinen Boten vor dir her, der dir den Weg herrichten soll«<sup title="Mal 3,1">&#x2732;</sup>;
 ^3^ »eine Stimme ruft in der Wüste: ›Bereitet den Weg des Herrn, macht gerade<sup title="oder: ebnet">&#x2732;</sup> seine Pfade!‹«<sup title="Jes 40,3">&#x2732;</sup> –:
@@ -79,7 +79,7 @@
 
 ### 1. Heilung eines Gelähmten in Kapernaum; Jesus vergibt Sünden
 
- # 2
+# 2
 ^1^ Als er dann nach einiger Zeit wieder nach Kapernaum heimgekommen war und die Kunde sich verbreitet hatte, daß er im Hause<sup title="= daheim">&#x2732;</sup> sei,
 ^2^ da versammelten sich alsbald so viele Leute, daß selbst der Platz vor der Tür für sie nicht mehr ausreichte; und er verkündigte ihnen das Wort<sup title="= die Heilsbotschaft">&#x2732;</sup>.
 ^3^ Da kamen Leute zu ihm, die einen Gelähmten brachten, der von vier Männern getragen wurde.
@@ -120,7 +120,7 @@
 
 ### 5. Heilung des Mannes mit dem gelähmten Arm am Sabbat; der zweite Streit über die Sabbatheiligung
 
- # 3
+# 3
 ^1^ Als er dann wieder einmal in eine Synagoge gegangen war, befand sich dort ein Mann, der einen gelähmten<sup title="eig. verdorrten">&#x2732;</sup> Arm hatte;
 ^2^ und sie lauerten ihm auf, ob er ihn am Sabbat heilen würde, um dann eine Anklage gegen ihn zu erheben.
 ^3^ Da sagte er zu dem Manne, der den gelähmten Arm hatte: »Stehe auf (und tritt vor) in die Mitte!«
@@ -180,7 +180,7 @@
 
 #### a) Einleitende Bemerkungen; Gleichnis vom Sämann und viererlei Acker
 
- # 4
+# 4
 ^1^ Und wieder einmal begann er am See zu lehren; und es sammelte sich eine sehr große Volksmenge bei ihm, so daß er in ein Boot stieg und sich darin auf dem See niedersetzte, während das gesamte Volk sich auf dem Lande am Ufer des Sees befand.
 ^2^ Da trug er ihnen vielerlei Lehren in Gleichnissen vor und sagte zu ihnen in seiner Belehrung:
 
@@ -245,7 +245,7 @@
 
 #### b) Jesus heilt den Besessenen im Lande der Gerasener
 
- # 5
+# 5
 ^1^ Sie kamen dann an das jenseitige Ufer des Sees in das Gebiet der Gerasener.
 ^2^ Als er dort aus dem Boot gestiegen war, lief ihm sogleich von den Gräbern<sup title="= der Gräberstätte">&#x2732;</sup> her ein Mann entgegen, der von einem unreinen Geist besessen war.
 ^3^ Er hatte seinen Aufenthalt in den Gräbern<sup title="vgl. Lk 8,27">&#x2732;</sup>, und niemand vermochte ihn zu fesseln, auch nicht mit einer Kette;
@@ -299,7 +299,7 @@
 
 ### 6. Verwerfung und Mißerfolg Jesu in seiner Vaterstadt Nazareth
 
- # 6
+# 6
 ^1^ Er zog dann von dort weiter und kam in seine Vaterstadt (Nazareth), und seine Jünger begleiteten ihn.
 ^2^ Als nun der Sabbat gekommen war, fing er an, in der Synagoge zu lehren; und die vielen, die ihm zuhörten, gerieten in Staunen und sagten: »Woher hat er das<sup title="d.h. solche Gaben">&#x2732;</sup>? Und was ist das für eine Weisheit, die diesem verliehen ist? Und solche Wundertaten geschehen durch seine Hände!
 ^3^ Ist dieser nicht der Zimmermann, der Sohn der Maria und der Bruder des Jakobus, des Joses, des Judas und des Simon? Und leben nicht auch seine Schwestern bei uns?« So wurden sie irre an ihm.
@@ -375,7 +375,7 @@ Er zog dann in den umliegenden Ortschaften umher und lehrte dort.
 
 ### 11. Streit mit den Gegnern um das Händewaschen; Warnung vor Menschensatzungen und Kennzeichnung der wahren Unreinheit
 
- # 7
+# 7
 ^1^ Da versammelten sich bei ihm die Pharisäer und einige Schriftgelehrte, die von Jerusalem gekommen waren;
 ^2^ und als sie einige seiner Jünger die Brote<sup title="oder: Speisen">&#x2732;</sup> mit unreinen, das heißt ungewaschenen Händen zu sich nehmen sahen –
 ^3^ die Pharisäer nämlich und die Juden überhaupt essen nur, wenn sie sich die Hände mit der Faust<sup title="= gründlich">&#x2732;</sup> gewaschen haben, weil sie an den von den Alten überlieferten Satzungen festhalten;
@@ -424,7 +424,7 @@ Er zog dann in den umliegenden Ortschaften umher und lehrte dort.
 
 ### 14. Speisung der Viertausend
 
- # 8
+# 8
 ^1^ Als in jenen Tagen wieder einmal eine große Volksmenge zugegen war und sie nichts zu essen hatten, rief Jesus seine Jünger herbei und sagte zu ihnen:
 ^2^ »Mich jammert des Volkes; denn sie halten nun schon drei Tage bei mir aus und haben nichts zu essen;
 ^3^ und wenn ich sie nach Hause gehen lasse, ohne daß sie gegessen haben, so werden sie unterwegs verschmachten; sie sind ja auch zum Teil von weit her gekommen.«
@@ -484,7 +484,7 @@ Er zog dann in den umliegenden Ortschaften umher und lehrte dort.
 ^37^ Denn was könnte ein Mensch als Gegenwert<sup title="= Entgelt oder: Lösegeld">&#x2732;</sup> für sein Leben geben?
 ^38^ Denn wer sich meiner und meiner Worte unter diesem ehebrecherischen<sup title="= von Gott abtrünnigen">&#x2732;</sup> und sündigen Geschlecht schämt, dessen wird sich auch der Menschensohn schämen, wenn er in der Herrlichkeit seines Vaters mit den heiligen Engeln kommt.«
 
- # 9
+# 9
 ^1^ Dann fuhr er fort: »Wahrlich ich sage euch: Einige von denen, die hier stehen, werden den Tod nicht schmecken, bis sie das Reich Gottes mit Macht haben kommen sehen.«
 
 ### 4. Jesu Verklärung auf dem Berge und sein Gespräch mit den Jüngern beim Abstieg
@@ -559,7 +559,7 @@ Er zog dann in den umliegenden Ortschaften umher und lehrte dort.
 
 ### 8. Jesus in Judäa und im Ostjordanlande; Gespräche über die Ehe und über Ehescheidung
 
- # 10
+# 10
 ^1^ Jesus brach dann von dort auf und kam in das Gebiet von Judäa, und zwar in das Ostjordanland; und wieder strömte das Volk in Scharen bei ihm zusammen, und wieder lehrte er sie, wie es seine Gewohnheit war.
 ^2^ Da traten Pharisäer an ihn heran und fragten ihn, ob ein Ehemann seine Frau entlassen<sup title="oder: sich von seiner Frau scheiden lassen">&#x2732;</sup> dürfe; sie wollten ihn nämlich versuchen.
 ^3^ Er aber gab ihnen zur Antwort: »Was hat Mose euch geboten?«
@@ -638,7 +638,7 @@ Er zog dann in den umliegenden Ortschaften umher und lehrte dort.
 
 ### 2. Jesu Einzug in Jerusalem
 
- # 11
+# 11
 ^1^ Als sie dann in die Nähe von Jerusalem nach [Bethphage und] Bethanien an den Ölberg gekommen waren, sandte er zwei von seinen Jüngern ab
 ^2^ mit der Weisung: »Geht in das Dorf, das dort vor euch liegt; und sogleich, wenn ihr hineinkommt, werdet ihr ein Eselsfüllen angebunden finden, auf dem noch nie ein Mensch gesessen hat; bindet es los und bringt es her!
 ^3^ Und wenn jemand euch fragen sollte: ›Was macht ihr da?‹, so antwortet: ›Der Herr bedarf seiner und schickt es sogleich wieder her.‹«
@@ -689,7 +689,7 @@ Er zog dann in den umliegenden Ortschaften umher und lehrte dort.
 
 ### 5. Gleichnis von den treulosen Weingärtnern
 
- # 12
+# 12
 ^1^ Er begann dann in Gleichnissen zu ihnen zu reden: »Ein Mann legte einen Weinberg an, umgab ihn mit einem Zaun, grub eine Kelter darin, baute einen Wachtturm, verpachtete ihn an Weingärtner und ging außer Landes<sup title="Jes 5,1-2">&#x2732;</sup>.
 ^2^ Zu rechter Zeit sandte er dann einen Knecht zu den Weingärtnern, um seinen Teil der Früchte des Weinbergs von den Weingärtnern in Empfang zu nehmen.
 ^3^ Die aber ergriffen den Knecht, mißhandelten ihn und schickten ihn mit leeren Händen zurück.
@@ -757,7 +757,7 @@ Er zog dann in den umliegenden Ortschaften umher und lehrte dort.
 
 #### a) Einleitung: Anlaß der Rede (mit Ankündigung der Zerstörung des Tempels)
 
- # 13
+# 13
 ^1^ Als Jesus dann den Tempel verließ, sagte einer von seinen Jüngern zu ihm: »Meister, sieh einmal: was für Steine und was für ein Prachtbau ist das!«
 ^2^ Da antwortete ihm Jesus: »Ja, jetzt siehst du dieses gewaltige Bauwerk (noch stehen). Es wird hier (aber) kein Stein auf dem andern bleiben, der nicht niedergerissen wird!« –
 ^3^ Als er sich dann am Ölberg dem Tempel gegenüber niedergesetzt hatte, fragten ihn Petrus, Jakobus, Johannes und Andreas, als sie für sich allein waren:
@@ -822,7 +822,7 @@ b »Gebt ihr jedoch acht auf euch selbst<sup title="d.h. auf das, was mit euch s
 
 ### 1. Mordanschlag der Führer des Volkes
 
- # 14
+# 14
 ^1^ Es stand aber in zwei Tagen das Passahfest und die (Tage der) ungesäuerten Brote bevor. Da überlegten die Hohenpriester und die Schriftgelehrten, auf welche Weise sie Jesus mit List festnehmen und töten könnten;
 ^2^ denn sie sagten: »Nur nicht während des Festes (selbst), damit keine Unruhen im Volk entstehen!«
 
@@ -930,7 +930,7 @@ b »Gebt ihr jedoch acht auf euch selbst<sup title="d.h. auf das, was mit euch s
 
 ### 9. Jesu Verhör vor dem römischen Statthalter Pontius Pilatus; seine Verurteilung und Geißelung
 
- # 15
+# 15
 ^1^ Und sogleich frühmorgens fertigten die Hohenpriester mit den Ältesten und Schriftgelehrten und (somit) der gesamte Hohe Rat den (endgültigen) Beschluß aus, ließen Jesus fesseln und abführen und übergaben ihn dem Pilatus.
 ^2^ Dieser befragte ihn: »Bist du der König der Juden?« Er antwortete ihm mit den Worten: »Ja, ich bin es.«
 ^3^ Die Hohenpriester brachten dann viele Anklagen gegen ihn vor;
@@ -998,7 +998,7 @@ b Dann führten sie ihn zur Kreuzigung (aus der Stadt) hinaus
 
 ### 1. Entdeckung des leeren Grabes am Ostermorgen; die Offenbarung des Engels an die Frauen
 
- # 16
+# 16
 ^1^ Als dann der Sabbat vorüber war, kauften Maria von Magdala und Maria, die Mutter des Jakobus, und Salome wohlriechende Salben, um hinzugehen und ihn zu salben;
 ^2^ und ganz früh am ersten Tage der Woche<sup title="oder: nach dem Sabbat, d.h. am Sonntag">&#x2732;</sup> kamen sie zum Grabe, als die Sonne (eben) aufgegangen war;
 ^3^ und sie sagten zueinander: »Wer wird uns den Stein vom Eingang des Grabes wegwälzen?«, er war nämlich sehr groß;

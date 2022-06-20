@@ -695,7 +695,7 @@
 ^22^ La mujer fué luego á todo el pueblo con su sabiduría; y ellos cortaron la cabeza á Seba hijo de Bichri, y echáronla á Joab. Y él tocó la corneta, y esparciéronse de la ciudad, cada uno á su estancia. Y Joab se volvió al rey á Jerusalem. 
 
 ## Los altos funcionarios de David
-^23^ Así quedó Joab sobre todo el ejército de Israel; y Benaía hijo de Joiada sobre los Ceretheos y Peletheos; ^24^ Y Adoram sobre los tributos; y Josaphat hijo de Ahillud, el canciller; ^25^ Y Seba, escriba; y Sadoc y Abiathar, sacerdotes; é Ira Jaireo fué un jefe principal cerca de David. ^26^ 
+^23^ Así quedó Joab sobre todo el ejército de Israel; y Benaía hijo de Joiada sobre los Ceretheos y Peletheos; ^24^ Y Adoram sobre los tributos; y Josaphat hijo de Ahillud, el canciller; ^25^ Y Seba, escriba; y Sadoc y Abiathar, sacerdotes; é Ira Jaireo fué un jefe principal cerca de David.
 
 # 21 
 ## Declaración de la deuda de Saúl; el requisito de los gabaonitas

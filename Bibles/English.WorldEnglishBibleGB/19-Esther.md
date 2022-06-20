@@ -35,8 +35,8 @@
 # 3 
 ^1^ After these things King Ahasuerus promoted Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes who were with him. ^2^ All the king’s servants who were in the king’s gate bowed down and paid homage to Haman, for the king had so commanded concerning him. But Mordecai didn’t bow down or pay him homage. ^3^ Then the king’s servants who were in the king’s gate said to Mordecai, “Why do you disobey the king’s commandment?” ^4^ Now it came to pass, when they spoke daily to him, and he didn’t listen to them, that they told Haman, to see whether Mordecai’s reason would stand; for he had told them that he was a Jew. ^5^ When Haman saw that Mordecai didn’t bow down nor pay him homage, Haman was full of wrath. ^6^ But he scorned the thought of laying hands on Mordecai alone, for they had made known to him Mordecai’s people. Therefore Haman sought to destroy all the Jews who were throughout the whole kingdom of Ahasuerus, even Mordecai’s people. 
 
-^7^ In the first month, which is the month Nisan, in the twelfth year of King Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, and chose the twelfth month, which is the month Adar. ^8^ Haman said to King Ahasuerus, “There is a certain people scattered abroad and dispersed amongst the peoples in all the provinces of your kingdom, and their laws are different from other people’s. They don’t keep the king’s laws. Therefore it is not for the king’s profit to allow them to remain. ^9^ If it pleases the king, let it be written that they be destroyed; and I will pay ten thousand talents^^ of silver into the hands of those who are in charge of the king’s business, to bring it into the king’s treasuries.” 
-^[3:9 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces]
+^7^ In the first month, which is the month Nisan, in the twelfth year of King Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, and chose the twelfth month, which is the month Adar. ^8^ Haman said to King Ahasuerus, “There is a certain people scattered abroad and dispersed amongst the peoples in all the provinces of your kingdom, and their laws are different from other people’s. They don’t keep the king’s laws. Therefore it is not for the king’s profit to allow them to remain. ^9^ If it pleases the king, let it be written that they be destroyed; and I will pay ten thousand talents^a^ of silver into the hands of those who are in charge of the king’s business, to bring it into the king’s treasuries.” 
+^a^[**3:9** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces]
 
 ^10^ The king took his ring from his hand, and gave it to Haman the son of Hammedatha the Agagite, the Jews’ enemy. ^11^ The king said to Haman, “The silver is given to you, the people also, to do with them as it seems good to you.” 
 
@@ -70,8 +70,8 @@
 
 ^12^ Haman also said, “Yes, Esther the queen let no man come in with the king to the banquet that she had prepared but myself; and tomorrow I am also invited by her together with the king. ^13^ Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.” 
 
-^14^ Then Zeresh his wife and all his friends said to him, “Let a gallows be made fifty cubits^^ high, and in the morning speak to the king about hanging Mordecai on it. Then go in merrily with the king to the banquet.” This pleased Haman, so he had the gallows made.
-^[5:14 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres.] 
+^14^ Then Zeresh his wife and all his friends said to him, “Let a gallows be made fifty cubits^a^ high, and in the morning speak to the king about hanging Mordecai on it. Then go in merrily with the king to the banquet.” This pleased Haman, so he had the gallows made.
+^a^[**5:14** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres.] 
 
 # 6 
 ^1^ On that night, the king couldn’t sleep. He commanded the book of records of the chronicles to be brought, and they were read to the king. ^2^ It was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, who were doorkeepers, who had tried to lay hands on the King Ahasuerus. ^3^ The king said, “What honour and dignity has been given to Mordecai for this?” 
@@ -80,8 +80,8 @@ Then the king’s servants who attended him said, “Nothing has been done for h
 
 ^4^ The king said, “Who is in the court?” Now Haman had come into the outer court of the king’s house, to speak to the king about hanging Mordecai on the gallows that he had prepared for him. 
 
-^5^ The king’s servants said to him, “Behold,^^ Haman stands in the court.” 
-^[6:5 “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
+^5^ The king’s servants said to him, “Behold,^a^ Haman stands in the court.” 
+^a^[**6:5** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
 The king said, “Let him come in.” ^6^ So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honour?” 
 
@@ -104,8 +104,8 @@ Now Haman said in his heart, “Who would the king delight to honour more than m
 
 Then Haman was afraid before the king and the queen. ^7^ The king arose in his wrath from the banquet of wine and went into the palace garden. Haman stood up to make request for his life to Esther the queen, for he saw that there was evil determined against him by the king. ^8^ Then the king returned out of the palace garden into the place of the banquet of wine; and Haman had fallen on the couch where Esther was. Then the king said, “Will he even assault the queen in front of me in the house?” As the word went out of the king’s mouth, they covered Haman’s face. 
 
-^9^ Then Harbonah, one of the eunuchs who were with the king, said, “Behold, the gallows fifty cubits^^ high, which Haman has made for Mordecai, who spoke good for the king, is standing at Haman’s house.” 
-^[7:9 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres.]
+^9^ Then Harbonah, one of the eunuchs who were with the king, said, “Behold, the gallows fifty cubits^a^ high, which Haman has made for Mordecai, who spoke good for the king, is standing at Haman’s house.” 
+^a^[**7:9** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres.]
 
 The king said, “Hang him on it!” 
 
@@ -137,8 +137,8 @@ The king said, “Hang him on it!”
 
 ^20^ Mordecai wrote these things, and sent letters to all the Jews who were in all the provinces of the king Ahasuerus, both near and far, ^21^ to enjoin them that they should keep the fourteenth and fifteenth days of the month Adar yearly, ^22^ as the days in which the Jews had rest from their enemies, and the month which was turned to them from sorrow to gladness, and from mourning into a holiday; that they should make them days of feasting and gladness, and of sending presents of food to one another, and gifts to the needy. ^23^ The Jews accepted the custom that they had begun, as Mordecai had written to them, ^24^ because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them, and had cast “Pur”, that is the lot, to consume them and to destroy them; ^25^ but when this became known to the king, he commanded by letters that his wicked plan, which he had planned against the Jews, should return on his own head, and that he and his sons should be hanged on the gallows. 
 
-^26^ Therefore they called these days “Purim”,^^ from the word “Pur.” Therefore because of all the words of this letter, and of that which they had seen concerning this matter, and that which had come to them, ^27^ the Jews established and imposed on themselves, on their descendants, and on all those who joined themselves to them, so that it should not fail that they would keep these two days according to what was written and according to its appointed time every year; ^28^ and that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not fail from amongst the Jews, nor their memory perish from their offspring.+ 9:28 or, seed 
-^[9:26 Purim is the Hebrew plural for pur, which means lot.]
+^26^ Therefore they called these days “Purim”,^a^ from the word “Pur.” Therefore because of all the words of this letter, and of that which they had seen concerning this matter, and that which had come to them, ^27^ the Jews established and imposed on themselves, on their descendants, and on all those who joined themselves to them, so that it should not fail that they would keep these two days according to what was written and according to its appointed time every year; ^28^ and that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not fail from amongst the Jews, nor their memory perish from their offspring.^b^ 
+^a^[**9:26** Purim is the Hebrew plural for pur, which means lot.] ^b^[**9:28** or, seed]
 
 ^29^ Then Esther the queen, the daughter of Abihail, and Mordecai the Jew wrote with all authority to confirm this second letter of Purim. ^30^ He sent letters to all the Jews in the hundred and twenty-seven provinces of the kingdom of Ahasuerus with words of peace and truth, ^31^ to confirm these days of Purim in their appointed times, as Mordecai the Jew and Esther the queen had decreed, and as they had imposed upon themselves and their descendants in the matter of the fastings and their mourning. ^32^ The commandment of Esther confirmed these matters of Purim; and it was written in the book. 
 

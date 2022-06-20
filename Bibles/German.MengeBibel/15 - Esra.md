@@ -6,7 +6,7 @@
 
 #### a) Wortlaut der königlichen Verfügung
 
- # 1
+# 1
 <sup>1</sup>Im ersten Regierungsjahre des Kores<sup title="= Cyrus">&#x2732;</sup>, des Königs von Persien – damit das durch den Mund Jeremias ergangene Wort des HERRN in Erfüllung ginge – regte der HERR den Geist des Perserkönigs Kores dazu an, folgende Verfügung in seinem ganzen Reiche ausrufen und auch durch schriftlichen Erlaß bekanntmachen zu lassen:
 <sup>2</sup>»So spricht<sup title="= Folgendes verfügt">&#x2732;</sup> Kores, der König von Persien: Alle Reiche der Erde hat der HERR, der Gott des Himmels, mir übergeben, und er ist’s auch, der mir aufgetragen hat, ihm zu Jerusalem in Juda ein Haus<sup title="= einen Tempel">&#x2732;</sup> zu erbauen.
 <sup>3</sup>Wer also unter euch allen zu seinem Volke gehört, mit dem sei sein Gott, und er ziehe hinauf nach Jerusalem in Juda und baue dort das Haus<sup title="= den Tempel">&#x2732;</sup> des HERRN, des Gottes Israels; das ist der Gott, der in Jerusalem wohnt.
@@ -29,7 +29,7 @@
 
 #### a) Eingangswort und Angabe der leitenden Männer
 
- # 2
+# 2
 <sup>1</sup>Folgendes nun sind die Bewohner der Landschaft<sup title="oder: Provinz">&#x2732;</sup> Juda, die aus der Gefangenschaft der in der Verbannung Lebenden, welche Nebukadnezar, der König von Babylon, (einst) nach Babylon weggeführt hatte, hinaufgezogen sind und (nun) nach Jerusalem und Juda zurückkehrten, ein jeder in seine<sup title="d.h. ihm zustehende oder: ihm angewiesene">&#x2732;</sup> Ortschaft.
 <sup>2</sup>Sie sind dorthin gekommen zusammen mit Serubbabel, Jesua, Nehemia, Seraja, Reelaja, Mordochai, Bilsan, Mispar, Bigwai, Rehum und Baana.
 
@@ -120,7 +120,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 #### a) Erbauung des Brandopferaltars und Einrichtung des regelmäßigen Opferdienstes; Feier des Laubhüttenfestes
 
- # 3
+# 3
 <sup>1</sup>Als nun der siebte Monat herangekommen war – die Israeliten befanden sich bereits in ihren Ortschaften –, da kam das Volk wie ein Mann<sup title="= bis auf den letzten Mann">&#x2732;</sup> in Jerusalem zusammen.
 <sup>2</sup>Da machten sich Jesua, der Sohn Jozadaks, mit seinen Genossen, den Priestern, und Serubbabel, der Sohn Sealthiels, mit seinen Genossen daran, den Altar des Gottes Israels wieder aufzubauen, um Brandopfer auf ihm darzubringen, wie es im Gesetz Moses, des Mannes Gottes, vorgeschrieben war;
 <sup>3</sup>und zwar errichteten sie den Altar auf seinem alten Unterbau; denn wenn sie auch in Angst vor den heidnischen Bewohnern der (umliegenden) Landschaften waren, brachten sie doch dem HERRN Brandopfer auf ihm dar, und zwar Brandopfer am Morgen und am Abend.
@@ -144,7 +144,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 #### a) Abweisung der Samaritaner von der Teilnahme am Tempelbau
 
- # 4
+# 4
 <sup>1</sup>Als aber die Widersacher Judas und Benjamins vernahmen, daß die aus der Verbannung<sup title="oder: Gefangenschaft">&#x2732;</sup> Zurückgekehrten dabei waren, dem HERRN, dem Gott Israels, einen Tempel zu bauen,
 <sup>2</sup>begaben sie sich zu Serubbabel und den Familienhäuptern und sagten zu ihnen: »Wir möchten zusammen mit euch bauen; denn wir verehren euren Gott ebenso wie ihr und wir opfern ihm seit der Zeit des Assyrerkönigs Assarhaddon, der uns hierhergebracht (hier angesiedelt) hat.«
 <sup>3</sup>Aber Serubbabel und Jesua und die übrigen Familienhäupter der Israeliten antworteten ihnen: »Es geht nicht an, daß ihr und wir zusammen unserm Gott einen Tempel bauen, sondern wir wollen allein dem HERRN, dem Gott Israels, (einen Tempel) bauen, wie der König Kores, der König von Persien, uns geboten hat.«
@@ -183,7 +183,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 #### a) Günstige Weissagungen zweier Propheten; Erlaubnis des Statthalters zur Wiederaufnahme des Baues
 
- # 5
+# 5
 <sup>1</sup>Es weissagten aber der Prophet Haggai und der Prophet Sacharja, der Sohn Iddos, den Juden in Juda und Jerusalem im Namen des Gottes Israels, dessen Geist über ihnen war.
 <sup>2</sup>Daraufhin machten sich Serubbabel, der Sohn Sealthiels, und Jesua, der Sohn Jozadaks, daran, den Bau des Gotteshauses in Jerusalem aufs neue in Angriff zu nehmen, und mit ihnen waren die (beiden) Propheten Gottes, welche sie unterstützten.
 
@@ -210,7 +210,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 #### c) Auffindung der Verfügung des Cyrus in Ekbatana und Mitteilungen daraus
 
- # 6
+# 6
 <sup>1</sup>Als hierauf der König Darius anordnete, im Schatzhause, in welchem man auch die Urkunden in Babylon aufbewahrte, nachzusehen,
 <sup>2</sup>fand man in Ahmetha<sup title="d.h. Ekbatana">&#x2732;</sup>, in der Königsstadt<sup title="= Residenz">&#x2732;</sup>, die in der Landschaft<sup title="= Provinz">&#x2732;</sup> Medien liegt, eine Schriftrolle, in der folgendes geschrieben stand:
 
@@ -250,7 +250,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 #### a) Die Rückwanderung Esras und seiner Schar von Babylon nach Jerusalem
 
- # 7
+# 7
 <sup>1</sup>Nach diesen Begebenheiten nun unter der Regierung des Perserkönigs Arthasastha<sup title="d.h. Artaxerxes">&#x2732;</sup> zog Esra, der Sohn Serajas, des Sohnes Asarjas, des Sohnes Hilkias,
 <sup>2</sup>des Sohnes Sallums, des Sohnes Zadoks, des Sohnes Ahitubs,
 <sup>3</sup>des Sohnes Amarjas, des Sohnes Asarjas, des Sohnes Merajoths,
@@ -288,7 +288,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 #### d) Verzeichnis der mit Esra rückwandernden judäischen Familienhäupter
 
- # 8
+# 8
 <sup>1</sup>Folgendes ist das Verzeichnis der Familienhäupter nebst der Angabe ihrer Geschlechtszugehörigkeit, nämlich derer, die unter der Regierung des Königs Arthasastha mit mir von Babylon (nach Jerusalem) hinaufgezogen sind:
 <sup>2</sup>Von den Nachkommen des Pinehas: Gersom; von den Nachkommen Ithamars: Daniel; von den Nachkommen Davids: Hattus,
 <sup>3</sup>(der Sohn) Sechanjas; von den Nachkommen des Parhos: Sacharja, und mit ihm waren aufgezeichnet an männlichen Personen 150;
@@ -340,7 +340,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 #### a) Esra erhält Kenntnis von den Mischheiraten; seine Bestürzung darüber
 
- # 9
+# 9
 <sup>1</sup>Als nun dieses abgemacht war, traten die Obersten<sup title="= Vorsteher">&#x2732;</sup> zu mir und sagten: »Das Volk Israel, auch die Priester und die Leviten haben sich von den Völkerschaften des Landes, trotz deren greulichem Götzendienst, nicht abgesondert gehalten, nämlich von den Kanaanäern, Hethitern, Pherissitern, Jebusitern, Ammonitern, Moabitern, Ägyptern und Amoritern<sup title="oder: Edomitern">&#x2732;</sup>;
 <sup>2</sup>sie haben vielmehr von deren Töchtern Frauen für sich und ihre Söhne genommen, und so hat sich der heilige Same<sup title="oder: das heilige Geschlecht">&#x2732;</sup> mit den (heidnischen) Völkerschaften des Landes vermischt, und die Obersten und Vorsteher haben zu dieser Treulosigkeit zuerst die Hand geboten.«
 <sup>3</sup>Als ich diese Mitteilung vernahm, zerriß ich mir das Gewand und den Mantel, raufte mir das Haar aus Kopf und Bart aus und setzte mich erstarrt<sup title="= tieferschüttert">&#x2732;</sup> nieder.
@@ -362,7 +362,7 @@ Die Zahl der Männer des Volkes Israel betrug:
 
 #### c) Das Vorgehen gegen die Mischehen
 
- # 10
+# 10
 <sup>1</sup>Während nun Esra so betete und weinend und vor dem Hause Gottes hingestreckt sein Bußbekenntnis ablegte, sammelte sich um ihn eine sehr große Schar von Israeliten, Männer, Frauen und Kinder; denn das Volk war in heftiges Weinen ausgebrochen.
 <sup>2</sup>Da nahm Sechanja, der Sohn Jehiels, aus der Familie Elam, das Wort und sagte zu Esra: »Wir haben uns an unserm Gott versündigt, daß wir fremde Frauen aus den Völkerschaften<sup title="vgl. V.11">&#x2732;</sup> des Landes geheiratet haben; aber trotzdem ist auch jetzt noch Hoffnung für Israel vorhanden.
 <sup>3</sup>Wir wollen uns jetzt unserm Gott gegenüber feierlich verpflichten, alle fremden Frauen und die von diesen geborenen Kinder aus dem Hause zu entfernen nach deinem Rat, o Herr, und nach dem Rat derer, die das Gebot unsers Gottes fürchten, damit nach dem Gesetz verfahren wird!

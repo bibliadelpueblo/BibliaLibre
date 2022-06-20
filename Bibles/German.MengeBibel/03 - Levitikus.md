@@ -6,7 +6,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### a) Vorschriften in betreff der Brandopfer
 
- # 1
+# 1
 ^1^Der HERR berief hierauf Mose und gebot ihm aus dem Offenbarungszelte folgendes:
 ^2^»Rede zu den Israeliten und befiehl ihnen: Wenn jemand von euch dem HERRN eine Opfergabe darbringen will, so sollt ihr eure Opfergabe vom Vieh, und zwar von den Rindern und vom Kleinvieh, darbringen.«
 
@@ -36,7 +36,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### b) Vorschriften in betreff der Speisopfer
 
- # 2
+# 2
 ^1^»Wenn aber jemand dem HERRN ein Speisopfer als Opfergabe darbringen will, so muß seine Gabe aus Feinmehl bestehen, das er mit Öl übergießen und zu dem er Weihrauch hinzufügen muß.
 ^2^Wenn er es dann den Söhnen Aarons, den Priestern, gebracht hat, soll der Priester eine Handvoll davon nehmen, nämlich von dem dargebrachten Feinmehl und Öl samt dem ganzen zugehörigen Weihrauch, und der Priester soll den zum Duftopfer bestimmten Teil auf dem Altar in Rauch aufgehen lassen: so ist es ein Feueropfer zu lieblichem Geruch für den HERRN.
 ^3^Was dann von dem Speisopfer noch übrig ist, soll Aaron und seinen Söhnen gehören als etwas Hochheiliges von den Feueropfern des HERRN.
@@ -65,7 +65,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Heilsopfer vom Rindvieh
 
- # 3
+# 3
 ^1^»Soll aber seine Opfergabe ein Heilsopfer sein, so soll er, wenn er sie von den Rindern darbringen will, mag es ein männliches oder ein weibliches Tier sein, ein fehlerloses Tier vor den HERRN bringen.
 ^2^Dann lege er seine Hand fest auf den Kopf seines Opfertieres, und man schlachte es am Eingang<sup title="= vor der Tür">&#x2732;</sup> des Offenbarungszeltes; die Söhne Aarons aber, die Priester, sollen das Blut ringsum an den Altar sprengen.
 ^3^Hierauf soll er von dem Heilsopfer dem HERRN ein Feueropfer darbringen, nämlich das Fett, das die Eingeweide bedeckt, und alles Fett, das an den Eingeweiden sitzt,
@@ -90,7 +90,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### d) Vorschriften in betreff der Sündopfer
 
- # 4
+# 4
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Rede zu den Israeliten und befiehl ihnen: Wenn jemand sich unvorsätzlich<sup title="oder: aus Versehen">&#x2732;</sup> gegen irgendein Verbot des HERRN (über Dinge) vergeht, die nicht getan werden dürfen, und gegen irgendeins von ihnen verstößt (so sollen folgende Bestimmungen gelten).«
 
@@ -141,7 +141,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### ee) Über einige besondere Anlässe zu Sündopfern
 
- # 5
+# 5
 ^1^»Wenn jemand sich dadurch vergeht, daß er nach Anhörung der gerichtlichen Verfluchung (über einen Verbrecher), obgleich er als Zeuge auftreten könnte, weil er entweder die Tat gesehen oder die Sache sonst in Erfahrung gebracht hat, trotzdem keine Aussage<sup title="oder: Anzeige">&#x2732;</sup> macht und so in Verschuldung gerät; –
 ^2^oder wenn jemand irgend etwas Unreines berührt, sei es das Aas eines unreinen wilden Tieres oder das Aas eines unreinen Haustieres oder das Aas eines unreinen Kriechtieres, ohne sich dessen (zunächst) bewußt zu sein, aber doch so, daß er unrein geworden ist und sich dessen bewußt wird; –
 ^3^oder wenn er mit der Unreinigkeit eines Menschen in Berührung kommt, mit irgendeiner Unreinigkeit, durch die man sich verunreinigen kann, ohne daß er es (zunächst) weiß, nachher aber Kenntnis davon erhält und er sich schuldig fühlt; –
@@ -187,7 +187,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Vorschriften für die Priester in betreff des täglichen Brandopfers
 
- # 6
+# 6
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Gib Aaron und seinen Söhnen folgende Weisungen: Diese Vorschriften gelten für das Brandopfer: Dieses, das Brandopfer, soll auf dem Altar da, wo es angezündet worden ist, die ganze Nacht hindurch bis zum Morgen verbleiben, und das Altarfeuer soll dadurch brennend erhalten werden.
 ^3^Der Priester soll sein linnenes Gewand anziehen und sich die linnenen Beinkleider an den Leib legen und die Fettasche, in welche das Feuer das Brandopfer auf dem Altar verbrannt hat, wegräumen und sie neben den Altar schütten.
@@ -223,7 +223,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### ee) Vorschriften in betreff des Schuldopfers
 
- # 7
+# 7
 ^1^»Folgende Vorschriften gelten für das Schuldopfer: es ist hochheilig.
 ^2^An dem Orte, wo man das Brandopfer schlachtet, soll man auch das Schuldopfer schlachten, und sein Blut soll man ringsum an den Altar sprengen;
 ^3^das gesamte Fett des Tieres aber soll man darbringen, nämlich den Fettschwanz und das Fett, das die Eingeweide bedeckt,
@@ -283,7 +283,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### a) Weihe Aarons und seiner vier Söhne
 
- # 8
+# 8
 ^1^Hierauf gebot der HERR dem Mose folgendes:
 ^2^»Nimm Aaron und seine Söhne mit ihm, dazu die heiligen Kleider und das Salböl, ferner den jungen Stier zum Sündopfer, die beiden Widder sowie den Korb mit dem ungesäuerten Backwerk,
 ^3^und versammle die ganze Gemeinde am Eingang des Offenbarungszeltes!«
@@ -340,7 +340,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Die Vorbereitungen
 
- # 9
+# 9
 ^1^Am achten Tage aber berief Mose Aaron und dessen Söhne sowie die Ältesten der Israeliten
 ^2^und gebot dem Aaron: »Nimm dir ein junges Rind zum Sündopfer und einen Widder zum Brandopfer, beides fehlerlose Tiere, und bringe sie vor dem HERRN dar.
 ^3^Den Israeliten aber gebiete folgendes: ›Nehmt einen Ziegenbock zum Sündopfer sowie ein Kalb und ein Schaf, beides einjährige, fehlerlose Tiere, zum Brandopfer;
@@ -379,7 +379,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Nadabs und Abihus Versündigung und Tod
 
- # 10
+# 10
 ^1^Die Söhne Aarons aber, Nadab und Abihu, nahmen beide ihre Räucherpfannen, taten glühende Kohlen hinein, legten Räucherwerk darauf und brachten so dem HERRN ein ungehöriges Feueropfer dar, das er ihnen nicht geboten hatte.
 ^2^Da ging Feuer vom HERRN aus und verzehrte<sup title="= tötete">&#x2732;</sup> sie, so daß sie vor dem HERRN starben.
 ^3^Da sagte Mose zu Aaron: »Hier trifft das ein, was der HERR angekündigt hat mit den Worten: ›An denen, die mir nahestehen, will ich mich als den Heiligen erweisen und vor dem ganzen Volk meine Herrlichkeit offenbaren.‹« Aaron aber sagte kein Wort.
@@ -417,7 +417,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### a) Verordnungen über die reinen und unreinen Tiere
 
- # 11
+# 11
 ^1^Hierauf gebot der HERR dem Mose und Aaron folgendes:
 ^2^»Teilt den Israeliten folgende Verordnung mit: Dies sind die Tiere, die ihr von allen Vierfüßlern auf der Erde<sup title="= größeren Landtieren">&#x2732;</sup> essen dürft:
 ^3^Alles, was unter den Vierfüßlern gespaltene Klauen<sup title="oder: Hufe">&#x2732;</sup> hat, und zwar ganz durchgespaltene Klauen, und was zugleich wiederkäut, das dürft ihr essen.
@@ -482,7 +482,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### b) Vorschriften bezüglich der Wöchnerinnen
 
- # 12
+# 12
 ^1^Darauf gebot der HERR dem Mose folgendes:
 ^2^»Teile den Israeliten folgende Verordnungen mit: Wenn ein Weib Mutter wird und einen Knaben gebiert, so ist sie sieben Tage lang unrein! Ebenso lange wie in den Tagen ihrer Unreinheit infolge ihres regelmäßigen Unwohlseins ist sie unrein.
 ^3^Am achten Tage soll dann das Kind an seiner Vorhaut beschnitten werden.
@@ -496,7 +496,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Ausschlag und Flecken bei Menschen auf der bloßen Haut
 
- # 13
+# 13
 ^1^Hierauf gebot der HERR dem Mose und dem Aaron folgendes:
 ^2^»Wenn sich bei einem Menschen auf seiner bloßen Haut eine Anschwellung oder ein Ausschlag oder ein heller Fleck bildet und sich so auf seiner Haut ein aussatzartiges Leiden entwickeln könnte, so soll der Betreffende zu dem Priester Aaron oder zu einem von dessen Söhnen, den Priestern, gebracht werden.
 ^3^Wenn dann der Priester die betroffene Stelle auf der Haut ansieht und dabei findet, daß die Haare auf der betroffenen Stelle weiß geworden sind und daß die betroffene Stelle tiefer liegend erscheint als die sie umgebende Haut, so handelt es sich um wirklichen Aussatz; und sobald der Priester dies wahrnimmt, soll er den Betreffenden für unrein erklären.
@@ -582,7 +582,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### ii) Die Reinigung aussätziger Personen
 
- # 14
+# 14
 ^1^Weiter gab der HERR dem Mose folgende Weisungen:
 ^2^»Folgende Vorschriften gelten für einen Aussätzigen am Tage, da er für rein erklärt wird: Er soll zu dem Priester geführt werden;
 ^3^und zwar muß der Priester vor das Lager hinausgehen. Wenn der Priester ihn dann untersucht und dabei findet, daß der bösartige Aussatz an dem Aussätzigen zur Heilung gekommen ist,
@@ -658,7 +658,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Unreinheit der Männer
 
- # 15
+# 15
 ^1^Weiter gebot der HERR dem Mose und Aaron folgendes:
 ^2^»Teilt den Israeliten folgende Verordnungen mit: Wenn ein Mann einen Ausfluß aus seiner Scham hat, so ist dieser sein Ausfluß etwas Unreines;
 ^3^und zwar steht es mit seiner Unreinheit infolge seines Ausflusses so: Mag der Ausfluß aus seiner Scham dauernd sein oder nur zeitweise eintreten: in beiden Fällen liegt Unreinheit für ihn vor.
@@ -706,7 +706,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Die Vorbereitungen
 
- # 16
+# 16
 ^1^Weiter redete der HERR mit Mose nach dem Tode der beiden Söhne Aarons, die da hatten sterben müssen, als sie (mit einem ungehörigen Opfer) vor den HERRN getreten waren.
 ^2^Der HERR gebot damals dem Mose: »Sage deinem Bruder Aaron, er dürfe nicht zu jeder beliebigen Zeit in das (innerste) Heiligtum hinter den Vorhang eintreten vor die Deckplatte, die über der Lade liegt, er müßte sonst sterben; denn ich offenbare mich in der Wolke über der Deckplatte.
 ^3^Nur in dem Falle darf Aaron in das (innerste) Heiligtum eintreten, wenn er mit einem jungen Stier zum Sündopfer und mit einem Widder zum Brandopfer erscheint.
@@ -766,7 +766,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### a) Vorschriften über Schlachtung der Haustiere, über Blutgenuß u.a.
 
- # 17
+# 17
 ^1^Hierauf gebot der HERR dem Mose folgendes:
 ^2^»Rede mit Aaron und seinen Söhnen und mit allen Israeliten und sage ihnen: Dies ist es, was der HERR geboten hat:«
 
@@ -800,7 +800,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Gottes Mahnung, nicht nach der Weise der Ägypter und Kanaanäer, sondern in Gottes Satzungen zu wandeln
 
- # 18
+# 18
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Teile den Israeliten folgende Verordnungen mit: Ich bin der HERR, euer Gott!
 ^3^Nach der Weise der Bewohner des Landes Ägypten, in dem ihr gewohnt habt, dürft ihr nicht verfahren; auch nach der Weise der Bewohner des Landes Kanaan, wohin ich euch bringen werde, dürft ihr nicht verfahren und nach ihren Satzungen nicht wandeln;
@@ -843,7 +843,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### c) Allerlei Vorschriften auf Grund der Zehn Gebote, besonders in betreff heiliger Pflichten im täglichen Leben
 
- # 19
+# 19
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Teile der ganzen Gemeinde der Israeliten folgende Verordnungen mit: Ihr sollt heilig sein, denn ich, der HERR euer Gott, bin heilig!
 ^3^Ihr sollt ein jeder Ehrfurcht vor seiner Mutter und seinem Vater haben und meine Ruhetage beobachten: ich bin der HERR, euer Gott. –
@@ -898,7 +898,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### d) Strafbestimmungen besonders für die in Kap. 18 (auch 19) verbotenen Vergehungen
 
- # 20
+# 20
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Den Israeliten sollst du sagen: Wenn irgendeiner von den Israeliten oder von den Fremdlingen, die in Israel als Gäste leben, eins von seinen Kindern dem Moloch<sup title="18,21">&#x2732;</sup> hingibt, so soll er unfehlbar mit dem Tode bestraft werden: das Volk des Landes soll ihn steinigen!
 ^3^Ich selbst will mein Angesicht gegen einen solchen Menschen kehren und ihn aus der Mitte seines Volkes ausrotten, weil er eins von seinen Kindern dem Moloch hingegeben und so mein Heiligtum verunreinigt und meinen heiligen Namen entweiht hat.
@@ -941,7 +941,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Verordnungen in betreff der Verunreinigungen durch Tote, Trauergebräuche und Ehehindernisse
 
- # 21
+# 21
 ^1^Weiter gebot der HERR dem Mose: »Teile den Priestern, den Söhnen Aarons, folgende Verordnungen mit: (Ein Priester) darf sich unter seinen Volksgenossen an keiner Leiche verunreinigen;
 ^2^nur an seinen nächsten Blutsverwandten, nämlich an seiner Mutter und seinem Vater, an seinem Sohn und seiner Tochter und seinem Bruder,
 ^3^auch an seiner Schwester, wenn sie noch Jungfrau ist und ihm darum nahesteht und noch keinem Manne angehört hat – an dieser darf er sich verunreinigen.
@@ -974,7 +974,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### cc) Verhalten gegenüber den heiligen Gaben seitens der Priester und seitens der Nichtpriester
 
- # 22
+# 22
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Befiehl Aaron und seinen Söhnen, daß sie den heiligen Gaben gegenüber, die die Israeliten mir weihen, Zurückhaltung<sup title="oder: Vorsicht">&#x2732;</sup> beobachten, damit sie meinen heiligen Namen nicht entweihen: ich bin der HERR.
 ^3^Sage zu ihnen: (Diese Verordnung gilt) für alle eure künftigen Geschlechter: Wenn irgendeiner von all euren Nachkommen den heiligen Gaben, welche die Israeliten dem HERRN weihen, nahekommt, während er eine Unreinheit an sich hat, ein solcher Mensch soll von meinem Angesicht hinweg ausgerottet werden: ich bin der HERR!
@@ -1022,7 +1022,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### g) Gesetze für die Feier des Sabbats und der Jahresfeste
 
- # 23
+# 23
 ^1^Hierauf gebot der HERR dem Mose folgendes:
 ^2^»Teile den Israeliten folgende Verordnungen mit: Die Feste des HERRN, die ihr als Festversammlungen am Heiligtum ausrufen sollt, meine Feste, sind folgende:«
 
@@ -1098,7 +1098,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 #### h) Vorschriften bezüglich der Zurichtung des heiligen Leuchters und der Schaubrote
 
- # 24
+# 24
 ^1^Weiter gebot der HERR dem Mose folgendes:
 ^2^»Gib den Israeliten die Weisung, dir reines Öl von zerstoßenen Oliven für den Leuchter zu bringen, damit beständig Lampen aufgesetzt werden können.
 ^3^Außerhalb des Vorhangs vor der Lade mit dem Gesetz im Offenbarungszelt soll Aaron (den Leuchter) zurichten, damit er vom Abend bis zum Morgen ohne Unterbrechung vor dem HERRN brenne<sup title="vgl. 2.Mose 27,20-21">&#x2732;</sup>. Diese Verordnung hat ewige Geltung für alle eure künftigen Geschlechter:
@@ -1132,7 +1132,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Das Sabbatjahr
 
- # 25
+# 25
 ^1^Und der HERR gebot dem Mose auf dem Berge Sinai folgendes:
 ^2^»Teile den Israeliten folgende Verordnungen mit: Wenn ihr in das Land kommt, das ich euch geben werde, so soll das Land dem HERRN einen Sabbat<sup title="= eine Ruhezeit">&#x2732;</sup> halten.
 ^3^Sechs Jahre sollst du dein Feld bestellen und sechs Jahre deinen Weinberg beschneiden und den Ertrag des Landes einbringen;
@@ -1208,7 +1208,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Einleitung: Einschärfung zweier Grundgebote
 
- # 26
+# 26
 ^1^»Ihr sollt euch keine Götzen verfertigen und dürft euch keine Schnitzbilder und Malsteine<sup title="vgl. 5.Mose 7,5">&#x2732;</sup> aufrichten, auch keine Steine mit Bildwerk in eurem Lande aufstellen, um euch davor niederzuwerfen; denn ich, der HERR, bin euer Gott!
 ^2^Meine Sabbate sollt ihr beobachten und mein Heiligtum fürchten<sup title="= mit Ehrfurcht scheuen">&#x2732;</sup>: ich bin der Herr!«
 
@@ -1286,7 +1286,7 @@ _(genannt Levitikus, d.h. Priesterbuch)_
 
 ##### aa) Angelobungen und deren Lösung
 
- # 27
+# 27
 ^1^Hierauf gebot der HERR dem Mose folgendes:
 ^2^»Teile den Israeliten folgende Verordnungen mit: Wenn jemand dem HERRN ein besonderes Gelübde erfüllen will, und zwar in betreff von Personen nach dem Schätzungswert,
 ^3^so soll der Schätzungswert einer männlichen Person im Alter von zwanzig bis zu sechzig Jahren fünfzig Silberschekel nach dem Gewicht des Heiligtums betragen;
