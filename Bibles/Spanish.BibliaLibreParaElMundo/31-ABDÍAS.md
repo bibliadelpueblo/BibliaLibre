@@ -4,12 +4,20 @@
 
 ^8^ “¿No destruiré yo en aquel día — dice el Señor — a los sabios de Edom, y al entendimiento del monte de Esaú? ^9^ Tus valientes, Temán, quedarán consternados, hasta el punto de que todos serán eliminados del monte de Esaú mediante la matanza. 
 
+
+
+
+
 ## Indicación de las deudas de los edomitas en la conquista y saqueo de Jerusalén
-^10^ Por la violencia hecha a tu hermano Jacob, la vergüenza te cubrirá, y serás cortado para siempre. ^a^ ^11^ El día en que te pusiste al otro lado, el día en que los extraños se llevaron su hacienda y los extranjeros entraron por sus puertas y echaron suertes sobre Jerusalén, también tú fuiste como uno de ellos. ^12^ Pero no desprecies a tu hermano en el día de su desastre, ni te alegres de los hijos de Judá en el día de su destrucción. No hables con orgullo en el día de la angustia. ^13^ No entres por la puerta de mi pueblo en el día de su calamidad. No desprecies su aflicción en el día de su calamidad, ni te apoderes de sus riquezas en el día de su calamidad. ^14^ No te pongas en las encrucijadas para cortar a los suyos que escapan. No entregues a los suyos que se quedan en el día de la angustia.
-^a^[**1:10** Jl 4,19]
+^10^ Por la violencia hecha a tu hermano Jacob, la vergüenza te cubrirá, y serás cortado para siempre. ^a^ ^b^ ^c^ ^11^ El día en que te pusiste al otro lado, el día en que los extraños se llevaron su hacienda y los extranjeros entraron por sus puertas y echaron suertes sobre Jerusalén, también tú fuiste como uno de ellos. ^12^ Pero no desprecies a tu hermano en el día de su desastre, ni te alegres de los hijos de Judá en el día de su destrucción. No hables con orgullo en el día de la angustia. ^13^ No entres por la puerta de mi pueblo en el día de su calamidad. No desprecies su aflicción en el día de su calamidad, ni te apoderes de sus riquezas en el día de su calamidad. ^14^ No te pongas en las encrucijadas para cortar a los suyos que escapan. No entregues a los suyos que se quedan en el día de la angustia.
+^a^[**1:10** Jl 4,19] ^b^[**1:10** Jl 4,19] ^c^[**1:10** Jl 4,19]
+
+
+
+
 
 ## El día del juicio para todas las naciones en el día del Señor; la futura grandeza del reino de Israel
-^15^ ¡Porque el día de Yahvé está cerca de todas las naciones! Lo que hayas hecho, se te hará a ti. Tus obras volverán sobre tu propia cabeza. ^a^ ^16^ Porque como ustedes han bebido en mi monte santo, así beberán continuamente todas las naciones. Sí, beberán, tragarán, y serán como si no hubieran estado. ^b^ ^17^ Pero en el monte de Sión habrá quienes escapen, y será santo. La casa de Jacob poseerá sus bienes. ^c^ ^18^ La casa de Jacob será un fuego, la casa de José una llama, y la casa de Esaú por rastrojo. Arderán entre ellos y los devorarán. No quedará nada para la casa de Esaú”. En efecto, Yahvé ha hablado. ^d^ 
-^a^[**1:15** Jl 1,15; Jer 50,15; Jer 50,29] ^b^[**1:16** Jer 25,15] ^c^[**1:17** Jl 3,5; Jl 4,17] ^d^[**1:18** Zac 12,6]
+^15^ ¡Porque el día de Yahvé está cerca de todas las naciones! Lo que hayas hecho, se te hará a ti. Tus obras volverán sobre tu propia cabeza. ^a^ ^b^ ^c^ ^16^ Porque como ustedes han bebido en mi monte santo, así beberán continuamente todas las naciones. Sí, beberán, tragarán, y serán como si no hubieran estado. ^d^ ^e^ ^f^ ^17^ Pero en el monte de Sión habrá quienes escapen, y será santo. La casa de Jacob poseerá sus bienes. ^g^ ^h^ ^i^ ^18^ La casa de Jacob será un fuego, la casa de José una llama, y la casa de Esaú por rastrojo. Arderán entre ellos y los devorarán. No quedará nada para la casa de Esaú”. En efecto, Yahvé ha hablado. ^j^ ^k^ ^l^ 
+^a^[**1:15** Jl 1,15; Jer 50,15; Jer 50,29] ^b^[**1:15** Jl 1,15; Jer 50,15; Jer 50,29] ^c^[**1:15** Jl 1,15; Jer 50,15; Jer 50,29] ^d^[**1:16** Jer 25,15] ^e^[**1:16** Jer 25,15] ^f^[**1:16** Jer 25,15] ^g^[**1:17** Jl 3,5; Jl 4,17] ^h^[**1:17** Jl 3,5; Jl 4,17] ^i^[**1:17** Jl 3,5; Jl 4,17] ^j^[**1:18** Zac 12,6] ^k^[**1:18** Zac 12,6] ^l^[**1:18** Zac 12,6]
 
 ^19^ Los del sur poseerán la montaña de Esaú, y los de la tierra baja, los filisteos. Poseerán el campo de Efraín, y el campo de Samaria. Benjamín poseerá Galaad. ^20^ Los cautivos de este ejército de los hijos de Israel, que están entre los cananeos, poseerán hasta Sarepta; y los cautivos de Jerusalén, que están en Sefarad, poseerán las ciudades del Néguev. ^21^ Los salvadores subirán al monte Sión para juzgar los montes de Esaú, y el reino será de Yahvé. 

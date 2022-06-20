@@ -120,8 +120,8 @@ namespace BibleMarkdown
 
 			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
 
-			var namesfile = $@"{path}\src\bnames.xml";
-			var booknames = XElement.Load(File.Open(namesfile, FileMode.Open, FileAccess.Read))
+			var namesfile = Path.Combine(path, "src", "bnames.xml");
+			var books = XElement.Load(File.Open(namesfile, FileMode.Open, FileAccess.Read))
 				.Elements("ID")
 				.SelectMany(x => x.Elements("BOOK"))
 				.Select(x => new
@@ -130,14 +130,14 @@ namespace BibleMarkdown
 					Abbreviation = (string)x.Attribute("bshort"),
 					Number = (int)x.Attribute("bnumber")
 				})
-				.ToDictionary(x => x.Abbreviation ?? "");
+				.ToArray();
 
-			var pattern = String.Join('|', booknames.Keys);
-			src = Regex.Replace(@$"(?<book>{pattern})\s+(?<chapter>[0-9]+)([:,](?<verse>[0-9]+))?", m =>
+			var pattern = String.Join('|', books.Select(b => b.Abbreviation).ToArray());
+			src = Regex.Replace(src, @$"(?<book>{pattern})\s+(?<chapter>[0-9]+)([:,](?<verse>[0-9]+)(-(?<upto>[0-9]+))?)", m =>
 			{
-				var book = booknames[m.Groups["book"].Value];
-				return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}](]"
-
+				var book = books.FirstOrDefault(b => b.Abbreviation == m.Groups["book"].Value);
+				if (!m.Groups["upto"].Success) return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}]()";
+				else return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}-{m.Groups["upto"].Value}]()";
 			}, RegexOptions.Singleline);
 
 			src = Regex.Replace(src, @"\^([0-9]+)\^", "**$1**", RegexOptions.Singleline);

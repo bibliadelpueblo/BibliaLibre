@@ -42,8 +42,11 @@ namespace BibleMarkdown
 						var bookm = Regex.Match(src, @"\\h\s+(.*?)$", RegexOptions.Multiline);
 						var book = bookm.Groups[1].Value.Trim();
 
-						if (book == "") bookm = Regex.Match(src, @"\\toc1\s+(.*?)$", RegexOptions.Multiline);
-						book = bookm.Groups[1].Value.Trim();
+						if (book == "")
+						{
+							bookm = Regex.Match(src, @"\\toc1\s+(.*?)$", RegexOptions.Multiline);
+							book = bookm.Groups[1].Value.Trim();
+						}
 
 						src = Regex.Match(src, @"\\c\s+[0-9]+.*", RegexOptions.Singleline).Value; // remove header that is not content of a chapter
 
@@ -114,6 +117,60 @@ namespace BibleMarkdown
 			}
 		}
 
+		public static void ImportFromBibleEdit(string srcpath)
+		{
+			var root = Path.Combine(srcpath, "bibleedit");
+			if (FromSource && Directory.Exists(root))
+			{
+				var folders = Directory.EnumerateDirectories(root).ToArray();
+				if (folders.Length == 1) folders = Directory.EnumerateDirectories(Path.Combine(folders[0])).ToArray();
+
+				var namesfile = Path.Combine(srcpath, "bnames.xml");
+				XElement[] books;
+				using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
+				{
+					books = XElement.Load(stream)
+						.Elements("ID")
+						.SelectMany(id => id.Elements("BOOK"))
+						.ToArray();
+				}
+
+				int fileno = 1;
+				
+				foreach (string folder in folders)
+				{
+					var chapters = Directory.EnumerateDirectories(folder);
+					var files = chapters
+						.Select(ch => File.ReadAllText(Path.Combine(ch, "data")))
+						.ToArray();
+
+					var bookm = Regex.Match(files[0], @"\\h\s+(.*?)$", RegexOptions.Multiline);
+					var book = bookm.Groups[1].Value.Trim();
+
+					if (book == "")
+					{
+						bookm = Regex.Match(files[0], @"\\toc1\s+(.*?)$", RegexOptions.Multiline);
+						book = bookm.Groups[1].Value.Trim();
+					}
+
+					var txt = new StringBuilder();
+					foreach (string file in files)
+					{
+						txt.AppendLine(file);
+					}
+
+					var bookxml =	books
+						.Where(e=> string.Compare((string)e.Value, book, true) == 0)
+						.FirstOrDefault();
+					int index = fileno++;
+
+					if (bookxml != null) index = ((int)bookxml.Attribute("bnumber"));
+					var usfmfile = Path.Combine(srcpath, $"{index:d2}-{book}.usfm");
+					File.WriteAllText(usfmfile, txt.ToString());
+					Log(usfmfile);
+				}
+			}
+		}
 		public static void ImportFromTXT(string mdpath, string srcpath)
 		{
 			var sources = Directory.EnumerateFiles(srcpath)
@@ -206,47 +263,49 @@ namespace BibleMarkdown
 
 				foreach (var source in sources)
 				{
-					var root = XElement.Load(File.Open(source, FileMode.Open, FileAccess.Read));
-
-					foreach (var book in root.Elements("BIBLEBOOK"))
+					using (var stream = File.Open(source, FileMode.Open, FileAccess.Read))
 					{
-						Imported = true;
+						var root = XElement.Load(stream);
 
-						StringBuilder text = new StringBuilder();
-						var file = $"{((int)book.Attribute("bnumber")):D2}-{(string)book.Attribute("bname")}.md";
-						var firstchapter = true;
-
-						foreach (var chapter in book.Elements("CHAPTER"))
+						foreach (var book in root.Elements("BIBLEBOOK"))
 						{
-							if (!firstchapter)
-							{
-								text.AppendLine(""); text.AppendLine();
-							}
-							firstchapter = false;
-							text.Append($"# {((int)chapter.Attribute("cnumber"))}{Environment.NewLine}");
-							var firstverse = true;
+							Imported = true;
 
-							foreach (var verse in chapter.Elements("VERS"))
+							StringBuilder text = new StringBuilder();
+							var file = $"{((int)book.Attribute("bnumber")):D2}-{(string)book.Attribute("bname")}.md";
+							var firstchapter = true;
+
+							foreach (var chapter in book.Elements("CHAPTER"))
 							{
-								if (!firstverse) text.Append(" ");
-								firstverse = false;
-								text.Append($"^{((int)verse.Attribute("vnumber"))}^ ");
-								text.Append(verse.Value);
+								if (!firstchapter)
+								{
+									text.AppendLine(""); text.AppendLine();
+								}
+								firstchapter = false;
+								text.Append($"# {((int)chapter.Attribute("cnumber"))}{Environment.NewLine}");
+								var firstverse = true;
+
+								foreach (var verse in chapter.Elements("VERS"))
+								{
+									if (!firstverse) text.Append(" ");
+									firstverse = false;
+									text.Append($"^{((int)verse.Attribute("vnumber"))}^ ");
+									text.Append(verse.Value);
+								}
 							}
+
+							var md = Path.Combine(mdpath, file);
+							File.WriteAllText(md, text.ToString());
+							Log(md);
+
 						}
-
-						var md = Path.Combine(mdpath, file);
-						File.WriteAllText(md, text.ToString());
-						Log(md);
-
 					}
 				}
 			}
 		}
-
 		static void ImportFramework(string path)
 		{
-			var frmfile = Path.Combine(path, @"src\framework.md");
+			var frmfile = Path.Combine(path, "src", "framework.md");
 
 			if (File.Exists(frmfile))
 			{
@@ -260,8 +319,8 @@ namespace BibleMarkdown
 				var frame = File.ReadAllText(frmfile);
 				frame = Regex.Replace(frame, "%(!=!).*?%", "", RegexOptions.Singleline); // remove comments
 
-				var namesfile = $@"{path}\src\bnames.xml";
-				var linklistfile = $@"{path}\src\linklist.xml";
+				var namesfile = Path.Combine(path, "src", "bnames.xml");
+				var linklistfile = Path.Combine(path, "src", "linklist.xml");
 
 				bool MapVerses = false;
 				string language = "english";
@@ -270,16 +329,20 @@ namespace BibleMarkdown
 					language = m.Groups["language"].Value;
 					return "";
 				}, RegexOptions.Singleline);
-				var bnames = XElement.Load(File.Open(namesfile, FileMode.Open, FileAccess.Read))
-				  .Elements("ID")
-				  .Where(id => ((string)id.Attribute("descr")) == language)
-				  .FirstOrDefault()
-				  .Elements("BOOK")
-				  .ToArray();
-
+				XElement[] bnames;
+				using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
+				{
+					bnames = XElement.Load(stream)
+						.Elements("ID")
+						.Where(id => ((string)id.Attribute("descr")) == language)
+						.FirstOrDefault()
+						.Elements("BOOK")
+						.ToArray();
+				}
 
 				if (FromSource || Imported)
 				{
+					Log(frmfile, "Importing");
 
 					foreach (string srcfile in mdfiles)
 					{
@@ -418,7 +481,7 @@ namespace BibleMarkdown
 											var markers = Regex.Matches(f.Groups["versecontent"].Value, @"\^[a-zA-Z]+\^(?!\[)");
 											foreach (Match marker in markers)
 											{
-												if (!char.IsWhiteSpace(txt[txt.Length - 1])) res.Append(" ");
+												if (txt.Length == 0 || !char.IsWhiteSpace(txt[txt.Length - 1])) res.Append(" ");
 
 												res.Append($"{marker.Value} ");
 											}
@@ -601,12 +664,17 @@ namespace BibleMarkdown
 				if (key == null) return verse;
 				if ((key.Chapter <= verse.Chapter || key.Chapter == verse.Chapter && key.Verse <= verse.Verse))
 				{
-					return new Location
+					var loc = new Location
 					{
 						Book = verse.Book,
 						Chapter = verse.Chapter - key.Chapter + dest.Chapter,
 						Verse = verse.Verse - key.Verse + dest.Verse,
 					};
+					if (loc.Chapter != verse.Chapter || loc.Verse != verse.Verse)
+					{
+						Console.WriteLine($"Verse mapped from {verse.Book} {verse.Chapter}:{verse.Verse} to {loc.Chapter}:{loc.Verse}.");
+					}
+					return loc;
 				}
 				else
 				{

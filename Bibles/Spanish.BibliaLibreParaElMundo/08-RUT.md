@@ -3,13 +3,21 @@
 ^1^ En los días en que los jueces juzgaban, hubo hambre en la tierra. Un hombre de Belén de Judá se fue a vivir al país de Moab con su mujer y sus dos hijos. ^2^ El nombre de aquel hombre era Elimelec, y el de su mujer Noemí. Los nombres de sus dos hijos eran Mahlón y Quelión, efrateos de Belén de Judá. Llegaron al país de Moab y vivieron allí. ^3^ Elimelec, el esposo de Noemí, murió, y ella quedó con sus dos hijos. ^4^ Ellos tomaron para sí esposas de las mujeres de Moab. El nombre de una era Orfa, y el de la otra era Rut. Vivieron allí unos diez años. ^5^ Mahlón y Quelión murieron, y la mujer quedó despojada de sus dos hijos y de su marido. ^6^ Entonces se levantó con sus nueras para volver del país de Moab, porque había oído en el país de Moab cómo el Señor^a^ había visitado a su pueblo dándole pan. 
 ^a^[**1:6** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
 
+
+
+
+
+
+
+
+
 ## Partida de Noemí y sus dos nueras para regresar a Belén; La despedida de Orpa, la lealtad de Ruth
 ^7^ Salió del lugar donde estaba, y sus dos nueras con ella. Siguieron el camino para regresar a la tierra de Judá. ^8^ Noemí dijo a sus dos nueras: “Vayan, vuelvan cada una a la casa de su madre. Que el Señor las trate con bondad, como ha tratado a los muertos y a mí. ^9^ Que Yahvé les conceda que encuentren descanso, cada una en la casa de su marido”. Entonces ella los besó, y ellos alzaron la voz y lloraron. 
 
 ^10^ Le dijeron: “No, pero volveremos contigo a tu pueblo”. 
 
-^11^ Noemí dijo: “Volved, hijas mías. ¿Por qué queréis ir conmigo? ¿Aún tengo hijos en mi vientre, para que sean vuestros maridos? ^12^ Volved, hijas mías, seguid vuestro camino, porque soy demasiado vieja para tener marido. Si dijera: “Tengo esperanza”, si incluso tuviera un marido esta noche, y también diera a luz hijos, ^13^ ¿esperaríais entonces a que crecieran? ¿Os abstendríais entonces de tener maridos? No, hijas mías, porque me duele mucho por vosotras, pues la mano de Yahvé ha salido contra mí”. ^a^ 
-^a^[**1:13** Job 19,21]
+^11^ Noemí dijo: “Volved, hijas mías. ¿Por qué queréis ir conmigo? ¿Aún tengo hijos en mi vientre, para que sean vuestros maridos? ^12^ Volved, hijas mías, seguid vuestro camino, porque soy demasiado vieja para tener marido. Si dijera: “Tengo esperanza”, si incluso tuviera un marido esta noche, y también diera a luz hijos, ^13^ ¿esperaríais entonces a que crecieran? ¿Os abstendríais entonces de tener maridos? No, hijas mías, porque me duele mucho por vosotras, pues la mano de Yahvé ha salido contra mí”. ^a^ ^b^ ^c^ ^d^ ^e^ 
+^a^[**1:13** Job 19,21] ^b^[**1:13** Job 19,21] ^c^[**1:13** Job 19,21] ^d^[**1:13** Job 19,21] ^e^[**1:13** Job 19,21]
 
 ^14^ Levantaron la voz y volvieron a llorar; entonces Orfa besó a su suegra, pero Rut se quedó con ella. ^15^ Ella dijo: “Mira,^a^ tu cuñada ha vuelto a su pueblo y a su dios. Sigue a tu cuñada”. 
 ^a^[**1:15** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
@@ -19,11 +27,19 @@
 
 ^18^ Cuando Noemí vio que estaba decidida a ir con ella, dejó de insistirle. 
 
+
+
+
+
+
+
+
+
 ## Llegada y recepción de las dos mujeres en Belén
 ^19^ Así fueron las dos hasta que llegaron a Belén. Cuando llegaron a Belén, toda la ciudad se entusiasmó con ellas, y preguntaron: “¿Esta es Noemí?”. 
 
-^20^ Ella les dijo: “No me llaméis Noemí.^a^ Llámenme Mara,^b^ porque el Todopoderoso me ha tratado con mucha amargura. ^c^ ^21^ Salí llena, y el Señor me ha hecho volver a casa vacía. ¿Por qué me llamas Noemí, ya que Yahvé ha testificado contra mí, y el Todopoderoso me ha afligido?” ^22^ Volvió, pues, Noemí, y con ella Rut la moabita, su nuera, que había vuelto del país de Moab. Llegaron a Belén al comienzo de la cosecha de cebada.
-^a^[**1:20** “Noemí” significa “agradable”.] ^b^[**1:20** Un payim (o pim) era 2/3 siclos de plata, es decir, 0,26 onzas o 7,6 gramos] ^c^[**1:20** Éxod 15,23]
+^20^ Ella les dijo: “No me llaméis Noemí.^a^ Llámenme Mara,^b^ porque el Todopoderoso me ha tratado con mucha amargura. ^c^ ^d^ ^e^ ^f^ ^g^ ^21^ Salí llena, y el Señor me ha hecho volver a casa vacía. ¿Por qué me llamas Noemí, ya que Yahvé ha testificado contra mí, y el Todopoderoso me ha afligido?” ^22^ Volvió, pues, Noemí, y con ella Rut la moabita, su nuera, que había vuelto del país de Moab. Llegaron a Belén al comienzo de la cosecha de cebada.
+^a^[**1:20** “Noemí” significa “agradable”.] ^b^[**1:20** Un payim (o pim) era 2/3 siclos de plata, es decir, 0,26 onzas o 7,6 gramos] ^c^[**1:20** Éxod 15,23] ^d^[**1:20** Éxod 15,23] ^e^[**1:20** Éxod 15,23] ^f^[**1:20** Éxod 15,23] ^g^[**1:20** Éxod 15,23]
 
 # 2 
 ## Rut viene a recoger espigas en el campo del booz, quien pregunta por ella y la recibe amablemente
@@ -45,11 +61,19 @@
 
 ^13^ Entonces ella dijo: “Halle yo gracia ante tus ojos, señor mío, porque me has consolado y porque has hablado con bondad a tu sierva, aunque no soy como una de tus siervas.” 
 
+
+
+
+
+
+
+
+
 ## Rut sigue siendo tratada amablemente por Booz, llega a casa con una rica cosecha y recibe información sobre Booz de su suegra
 ^14^ A la hora de comer, Booz le dijo: “Ven aquí, come un poco de pan y moja tu bocado en el vinagre”. Se sentó junto a los segadores, y éstos le pasaron el grano reseco. Ella comió, quedó satisfecha y dejó un poco. 
 
-^15^ Cuando se levantó a espigar, Booz ordenó a sus criados, diciendo: “Dejadla espigar incluso entre las gavillas, y no la reprochéis. ^16^ También saquen algo para ella de los manojos y déjenlo. Dejadla espigar, y no la reprendáis”. ^a^ 
-^a^[**2:16** Lev 19,9]
+^15^ Cuando se levantó a espigar, Booz ordenó a sus criados, diciendo: “Dejadla espigar incluso entre las gavillas, y no la reprochéis. ^16^ También saquen algo para ella de los manojos y déjenlo. Dejadla espigar, y no la reprendáis”. ^a^ ^b^ ^c^ ^d^ ^e^ 
+^a^[**2:16** Lev 19,9] ^b^[**2:16** Lev 19,9] ^c^[**2:16** Lev 19,9] ^d^[**2:16** Lev 19,9] ^e^[**2:16** Lev 19,9]
 
 ^17^ Así que espigó en el campo hasta la noche; y sacó lo que había espigado, que era como un efa de cebada. ^18^ Lo recogió y se fue a la ciudad. Entonces su suegra vio lo que había espigado, y sacó y le dio lo que le había sobrado. 
 
@@ -67,12 +91,20 @@
 
 ^5^ Ella le dijo: “Todo lo que digas, lo haré”. ^6^ Bajó a la era e hizo todo lo que su suegra le dijo. ^7^ Cuando Booz hubo comido y bebido, y su corazón estaba alegre, fue a acostarse al final del montón de grano. Ella se acercó suavemente, le descubrió los pies y se acostó. 
 
-## Rut habla con Booz, recibe la confirmación solicitada y regresa a Noemí con un regalo
-^8^ A medianoche, el hombre se asustó y se volvió; y he aquí que una mujer yacía a sus pies. ^9^ Le dijo: “¿Quién eres?”. Ella respondió: “Yo soy Rut, tu sierva. Extiende, pues, la esquina de tu manto sobre tu sierva, porque eres pariente cercano”. ^a^ 
-^a^[**3:9** Deut 25,5; Ezeq 16,8]
 
-^10^ Él dijo: “Has sido bendecida por Yahvé, hija mía. Has mostrado más bondad al final que al principio, porque no seguiste a los jóvenes, sean pobres o ricos. ^a^ ^11^ Ahora, hija mía, no tengas miedo. Haré contigo todo lo que digas; porque toda la ciudad de mi pueblo sabe que eres una mujer digna. ^12^ Es cierto que soy un pariente cercano. Sin embargo, hay un pariente más cercano que yo. ^13^ Quédate esta noche, y por la mañana, si él hace por ti la parte de un pariente, bien. Que cumpla con el deber de pariente. Pero si no cumple con el deber de un pariente para ti, entonces yo haré el deber de un pariente para ti, vive Yahvé. Acuéstate hasta la mañana”. 
-^a^[**3:10** Rut 2,11]
+
+
+
+
+
+
+
+## Rut habla con Booz, recibe la confirmación solicitada y regresa a Noemí con un regalo
+^8^ A medianoche, el hombre se asustó y se volvió; y he aquí que una mujer yacía a sus pies. ^9^ Le dijo: “¿Quién eres?”. Ella respondió: “Yo soy Rut, tu sierva. Extiende, pues, la esquina de tu manto sobre tu sierva, porque eres pariente cercano”. ^a^ ^b^ ^c^ ^d^ ^e^ 
+^a^[**3:9** Deut 25,5; Ezeq 16,8] ^b^[**3:9** Deut 25,5; Ezeq 16,8] ^c^[**3:9** Deut 25,5; Ezeq 16,8] ^d^[**3:9** Deut 25,5; Ezeq 16,8] ^e^[**3:9** Deut 25,5; Ezeq 16,8]
+
+^10^ Él dijo: “Has sido bendecida por Yahvé, hija mía. Has mostrado más bondad al final que al principio, porque no seguiste a los jóvenes, sean pobres o ricos. ^a^ ^b^ ^c^ ^d^ ^e^ ^11^ Ahora, hija mía, no tengas miedo. Haré contigo todo lo que digas; porque toda la ciudad de mi pueblo sabe que eres una mujer digna. ^12^ Es cierto que soy un pariente cercano. Sin embargo, hay un pariente más cercano que yo. ^13^ Quédate esta noche, y por la mañana, si él hace por ti la parte de un pariente, bien. Que cumpla con el deber de pariente. Pero si no cumple con el deber de un pariente para ti, entonces yo haré el deber de un pariente para ti, vive Yahvé. Acuéstate hasta la mañana”. 
+^a^[**3:10** Rut 2,11] ^b^[**3:10** Rut 2,11] ^c^[**3:10** Rut 2,11] ^d^[**3:10** Rut 2,11] ^e^[**3:10** Rut 2,11]
 
 ^14^ La mujer se echó a sus pies hasta la mañana, y luego se levantó antes de que se pudiera discernir otra cosa. Porque dijo: “Que no se sepa que la mujer vino a la era”. ^15^ Le dijo: “Trae el manto que llevas puesto y sostenlo”. Ella lo sostuvo; y él midió seis medidas de cebada, y se las puso encima; luego se fue a la ciudad. 
 
@@ -84,23 +116,31 @@
 
 # 4 
 ## La negociación pública entre Booz y el Solver
-^1^ Booz subió a la puerta y se sentó allí. He aquí que el pariente cercano del que hablaba Booz pasaba por allí. Booz le dijo: “¡Ven aquí, amigo, y siéntate!”. Se acercó y se sentó. ^2^ Booz tomó a diez hombres de los ancianos de la ciudad y les dijo: “Siéntate aquí”, y se sentaron. ^3^ Le dijo al pariente cercano: “Noemí, que ha vuelto del país de Moab, está vendiendo la parcela que era de nuestro hermano Elimelec. ^4^ Pensé que debía decírtelo, diciendo: ‘Cómpralo ante los que están aquí sentados y ante los ancianos de mi pueblo’. Si quieres redimirla, redímela; pero si no quieres redimirla, dímelo para que lo sepa. Porque no hay nadie que la redima aparte de ti; y yo estoy detrás de ti”. Dijo: “Lo redimiré”. ^a^ 
-^a^[**4:4** Lev 25,25]
+^1^ Booz subió a la puerta y se sentó allí. He aquí que el pariente cercano del que hablaba Booz pasaba por allí. Booz le dijo: “¡Ven aquí, amigo, y siéntate!”. Se acercó y se sentó. ^2^ Booz tomó a diez hombres de los ancianos de la ciudad y les dijo: “Siéntate aquí”, y se sentaron. ^3^ Le dijo al pariente cercano: “Noemí, que ha vuelto del país de Moab, está vendiendo la parcela que era de nuestro hermano Elimelec. ^4^ Pensé que debía decírtelo, diciendo: ‘Cómpralo ante los que están aquí sentados y ante los ancianos de mi pueblo’. Si quieres redimirla, redímela; pero si no quieres redimirla, dímelo para que lo sepa. Porque no hay nadie que la redima aparte de ti; y yo estoy detrás de ti”. Dijo: “Lo redimiré”. ^a^ ^b^ ^c^ ^d^ ^e^ 
+^a^[**4:4** Lev 25,25] ^b^[**4:4** Lev 25,25] ^c^[**4:4** Lev 25,25] ^d^[**4:4** Lev 25,25] ^e^[**4:4** Lev 25,25]
 
-^5^ Entonces Booz dijo: “El día que compres el campo de la mano de Noemí, deberás comprárselo también a Rut la moabita, la mujer del muerto, para levantar el nombre del muerto sobre su herencia.” ^a^ 
-^a^[**4:5** Deut 25,5-6]
+^5^ Entonces Booz dijo: “El día que compres el campo de la mano de Noemí, deberás comprárselo también a Rut la moabita, la mujer del muerto, para levantar el nombre del muerto sobre su herencia.” ^a^ ^b^ ^c^ ^d^ ^e^ 
+^a^[**4:5** Deut 25,5-6] ^b^[**4:5** Deut 25,5-6] ^c^[**4:5** Deut 25,5-6] ^d^[**4:5** Deut 25,5-6] ^e^[**4:5** Deut 25,5-6]
 
 ^6^ El pariente cercano dijo: “No puedo redimirlo por mí mismo, para no poner en peligro mi propia herencia. Toma para ti mi derecho de redención, pues no puedo redimirlo”. 
 
-^7^ Esta era la costumbre de antaño en Israel en cuanto al rescate y al intercambio, para confirmar todas las cosas: un hombre se quitaba la sandalia y se la daba a su vecino; y esta era la manera de formalizar las transacciones en Israel. ^a^ ^8^ Entonces el pariente cercano dijo a Booz: “Cómpralo para ti”, y se quitó la sandalia. 
-^a^[**4:7** Deut 25,7-10]
+^7^ Esta era la costumbre de antaño en Israel en cuanto al rescate y al intercambio, para confirmar todas las cosas: un hombre se quitaba la sandalia y se la daba a su vecino; y esta era la manera de formalizar las transacciones en Israel. ^a^ ^b^ ^c^ ^d^ ^e^ ^8^ Entonces el pariente cercano dijo a Booz: “Cómpralo para ti”, y se quitó la sandalia. 
+^a^[**4:7** Deut 25,7-10] ^b^[**4:7** Deut 25,7-10] ^c^[**4:7** Deut 25,7-10] ^d^[**4:7** Deut 25,7-10] ^e^[**4:7** Deut 25,7-10]
 
 ^9^ Booz dijo a los ancianos y a todo el pueblo: “Vosotros sois testigos hoy de que he comprado todo lo que era de Elimelec, y todo lo que era de Quelión y de Mahlón, de la mano de Noemí. ^10^ Además, a Rut la moabita, esposa de Mahlón, la he comprado para que sea mi esposa, para levantar el nombre del muerto en su herencia, para que el nombre del muerto no sea cortado de entre sus hermanos y de la puerta de su lugar. Vosotros sois hoy testigos”. 
 
 ^11^ Todo el pueblo que estaba en la puerta, y los ancianos, dijeron: “Somos testigos. Que el Señor haga que la mujer que ha entrado en tu casa sea como Raquel y como Lea, que ambas edificaron la casa de Israel; y que te trate dignamente en Efrata, y que seas famosa en Belén. ^12^ Que tu casa sea como la casa de Pérez, que Tamar dio a Judá, de la descendencia que Yahvé te dará por esta joven.” 
 
-## El matrimonio de Des Booz con Rut se completó y fue bendecido con el nacimiento de Obed; Índice de género de Pérez a David
-^13^ Booz tomó a Rut y ella se convirtió en su esposa; se acercó a ella, y el Señor le permitió concebir, y dio a luz un hijo. ^a^ ^14^ Las mujeres dijeron a Noemí: “Bendito sea Yahvé, que no te ha dejado hoy sin pariente cercano. Que su nombre sea famoso en Israel. ^15^ Él será para ti un restaurador de la vida y te sostendrá en tu vejez; porque tu nuera, que te ama, que es mejor para ti que siete hijos, lo ha dado a luz.” ^16^ Noemí tomó al niño, lo puso en su seno y lo amamantó. ^17^ Las mujeres, sus vecinas, le pusieron un nombre, diciendo: “Le ha nacido un hijo a Noemí”. Le pusieron el nombre de Obed. Es el padre de Jesé, el padre de David. 
-^a^[**4:13** Sal 127,3]
 
-^18^ Esta es la historia de las generaciones de Pérez: Pérez fue padre de Hezrón, ^a^ ^19^ y Hezrón fue padre de Rama, y Rama fue padre de Aminadab, ^20^ y Aminadab fue padre de Nashón, y Nashón fue padre de Salmón, ^21^ y Salmón fue padre de Booz, y Booz fue padre de Obed, ^22^ y Obed fue padre de Jesé, y Jesé fue padre de David. 
+
+
+
+
+
+
+
+## El matrimonio de Des Booz con Rut se completó y fue bendecido con el nacimiento de Obed; Índice de género de Pérez a David
+^13^ Booz tomó a Rut y ella se convirtió en su esposa; se acercó a ella, y el Señor le permitió concebir, y dio a luz un hijo. ^a^ ^b^ ^c^ ^d^ ^e^ ^14^ Las mujeres dijeron a Noemí: “Bendito sea Yahvé, que no te ha dejado hoy sin pariente cercano. Que su nombre sea famoso en Israel. ^15^ Él será para ti un restaurador de la vida y te sostendrá en tu vejez; porque tu nuera, que te ama, que es mejor para ti que siete hijos, lo ha dado a luz.” ^16^ Noemí tomó al niño, lo puso en su seno y lo amamantó. ^17^ Las mujeres, sus vecinas, le pusieron un nombre, diciendo: “Le ha nacido un hijo a Noemí”. Le pusieron el nombre de Obed. Es el padre de Jesé, el padre de David. 
+^a^[**4:13** Sal 127,3] ^b^[**4:13** Sal 127,3] ^c^[**4:13** Sal 127,3] ^d^[**4:13** Sal 127,3] ^e^[**4:13** Sal 127,3]
+
+^18^ Esta es la historia de las generaciones de Pérez: Pérez fue padre de Hezrón, ^a^ ^a^ ^a^ ^a^ ^a^ ^19^ y Hezrón fue padre de Rama, y Rama fue padre de Aminadab, ^20^ y Aminadab fue padre de Nashón, y Nashón fue padre de Salmón, ^21^ y Salmón fue padre de Booz, y Booz fue padre de Obed, ^22^ y Obed fue padre de Jesé, y Jesé fue padre de David. 

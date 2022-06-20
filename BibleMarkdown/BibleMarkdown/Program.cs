@@ -43,12 +43,17 @@ namespace BibleMarkdown
 
 		static void Log(string file)
 		{
+			Log(file, "Created");
+		}
+		static void Log(string file, string label)
+		{
 			var current = Directory.GetCurrentDirectory();
 			if (file.StartsWith(current))
 			{
 				file = file.Substring(current.Length);
 			}
-			Console.WriteLine($"Created {file}.");
+			Console.WriteLine($"{label} {file}.");
+
 		}
 		public static bool IsNewer(string file, string srcfile)
 		{
@@ -99,7 +104,7 @@ namespace BibleMarkdown
 			Task TeXTask = Task.CompletedTask, HtmlTask = Task.CompletedTask;
 
 			CreatePandoc(file, mdfile);
-			CreateEpub(mdfile, epubfile);
+			CreateEpub(path, mdfile, epubfile);
 			return Task.WhenAll(CreateTeXAsync(mdfile, texfile), CreateHtmlAsync(mdfile, htmlfile));
 		}
 
@@ -115,6 +120,7 @@ namespace BibleMarkdown
 				Verses.Paragraphs.Import(Path.Combine(srcpath, "paragraphsmap.md"));
 				Verses.Titles.Import(Path.Combine(srcpath, "titlesmap.md"));
 				Verses.Footnotes.Import(Path.Combine(srcpath, "footnotesmap.md"));
+				ImportFromBibleEdit(srcpath);
 				ImportFromUSFM(path, srcpath);
 				ImportFromTXT(path, srcpath);
 				ImportFromZefania(path, srcpath);

@@ -2,60 +2,104 @@
 ## Queja y acusación, sermón de penitencia y amenaza de castigo
 ^1^ Visión de Isaías, hijo de Amoz, que vio sobre Judá y Jerusalén, en los días de Uzías, Jotam, Acaz y Ezequías, reyes de Judá. 
 
+
+
+
+
 ## La acusación de Dios contra la gente infiel
 ^2^ Oíd, cielos, y escucha, tierra; porque Yahvé^a^ ha hablado: “He alimentado y criado a niños y se han rebelado contra mí. ^3^ El buey conoce a su dueño, y el burro el pesebre de su amo; pero Israel no lo sabe. Mi gente no tiene en cuenta”. 
 ^a^[**1:2** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
 
+
+
+
+
 ## La queja del profeta contra el pueblo pecador
-^4^ Ah nación pecadora, un pueblo cargado de iniquidad, descendencia^a^ de los malhechores, ¡los niños que hacen tratos corruptos! Han abandonado a Yahvé. Han despreciado al Santo de Israel. Están distanciados y atrasados. ^5^ Por qué hay que golpear más, que te revuelves cada vez más? Toda la cabeza está enferma, y todo el corazón se desmaya. ^b^ ^6^ Desde la planta del pie hasta la cabeza no hay solidez en él, sino heridas, ronchas y llagas abiertas. No han sido cerradas, vendadas o calmadas con aceite. ^c^ ^7^ Tu país está desolado. Sus ciudades se han quemado con fuego. Los extraños devoran tu tierra en tu presencia y está desolada, como derrocado por extraños. ^8^ La hija de Sión queda como un refugio en una viña, como una cabaña en un campo de melones, como una ciudad sitiada. ^9^ A no ser que Yahvé de los Ejércitos nos haya dejado un remanente muy pequeño, habríamos sido como Sodoma. Habríamos sido como Gomorra. ^d^ 
-^a^[**1:4** o, semilla] ^b^[**1:5** Jer 2,20; Ezeq 21,18] ^c^[**1:6** Deut 28,25] ^d^[**1:9** Rom 9,29; Gén 19,24-25; Deut 29,21-27]
+^4^ Ah nación pecadora, un pueblo cargado de iniquidad, descendencia^a^ de los malhechores, ¡los niños que hacen tratos corruptos! Han abandonado a Yahvé. Han despreciado al Santo de Israel. Están distanciados y atrasados. ^5^ Por qué hay que golpear más, que te revuelves cada vez más? Toda la cabeza está enferma, y todo el corazón se desmaya. ^b^ ^c^ ^d^ ^6^ Desde la planta del pie hasta la cabeza no hay solidez en él, sino heridas, ronchas y llagas abiertas. No han sido cerradas, vendadas o calmadas con aceite. ^e^ ^f^ ^g^ ^7^ Tu país está desolado. Sus ciudades se han quemado con fuego. Los extraños devoran tu tierra en tu presencia y está desolada, como derrocado por extraños. ^8^ La hija de Sión queda como un refugio en una viña, como una cabaña en un campo de melones, como una ciudad sitiada. ^9^ A no ser que Yahvé de los Ejércitos nos haya dejado un remanente muy pequeño, habríamos sido como Sodoma. Habríamos sido como Gomorra. ^h^ ^i^ ^j^ 
+^a^[**1:4** o, semilla] ^b^[**1:5** Jer 2,20; Ezeq 21,18] ^c^[**1:5** Jer 2,20; Ezeq 21,18] ^d^[**1:5** Jer 2,20; Ezeq 21,18] ^e^[**1:6** Deut 28,25] ^f^[**1:6** Deut 28,25] ^g^[**1:6** Deut 28,25] ^h^[**1:9** Rom 9,29; Gén 19,24-25; Deut 29,21-27] ^i^[**1:9** Rom 9,29; Gén 19,24-25; Deut 29,21-27] ^j^[**1:9** Rom 9,29; Gén 19,24-25; Deut 29,21-27]
+
+
+
+
 
 ## Enseñar a Dios acerca de la adoración correcta y incorrecta
-^10^ ¡Oigan la palabra de Yahvé, gobernantes de Sodoma! Escuchen la ley de nuestro Dios,^a^ ¡gente de Gomorra! ^b^ ^11^ “¿Cuál es la multitud de tus sacrificios para mí?”, dice Yahvé. “Estoy harto de los holocaustos de carneros y la grasa de los animales alimentados. No me deleito con la sangre de los toros, o de corderos, o de machos cabríos. ^c^ ^12^ Cuando vengas a comparecer ante mí, ¿Quién ha exigido esto de tu mano, para pisotear mis tribunales? ^13^ No traigas más ofrendas vanas. El incienso es una abominación para mí. Lunas nuevas, sábados y convocatorias... No soporto las asambleas malignas. ^14^ Mi alma odia tus lunas nuevas y tus fiestas señaladas. Son una carga para mí. Estoy cansado de soportarlas. ^15^ Cuando extiendas tus manos, ocultaré mis ojos de ti. Sí, cuando hagas muchas oraciones, no te escucharé. Tus manos están llenas de sangre. ^16^ Lávense. Límpiense. Quita la maldad de tus acciones de delante de mis ojos. Deja de hacer el mal. ^d^ ^17^ Aprender a hacerlo bien. Busca la justicia. Aliviar a los oprimidos. Defiende a los huérfanos. Ruega por la viuda”. ^e^ 
-^a^[**1:10** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**1:10** Jer 23,14; Lam 4,6] ^c^[**1:11** Sal 50,8; Prov 21,27; Jer 6,20; Am 5,22] ^d^[**1:16** Jl 2,12-13; Miq 6,6-8] ^e^[**1:17** Is 1,23; Jer 7,3-7; 1Sam 15,22]
+^10^ ¡Oigan la palabra de Yahvé, gobernantes de Sodoma! Escuchen la ley de nuestro Dios,^a^ ¡gente de Gomorra! ^b^ ^c^ ^d^ ^11^ “¿Cuál es la multitud de tus sacrificios para mí?”, dice Yahvé. “Estoy harto de los holocaustos de carneros y la grasa de los animales alimentados. No me deleito con la sangre de los toros, o de corderos, o de machos cabríos. ^e^ ^f^ ^g^ ^12^ Cuando vengas a comparecer ante mí, ¿Quién ha exigido esto de tu mano, para pisotear mis tribunales? ^13^ No traigas más ofrendas vanas. El incienso es una abominación para mí. Lunas nuevas, sábados y convocatorias... No soporto las asambleas malignas. ^14^ Mi alma odia tus lunas nuevas y tus fiestas señaladas. Son una carga para mí. Estoy cansado de soportarlas. ^15^ Cuando extiendas tus manos, ocultaré mis ojos de ti. Sí, cuando hagas muchas oraciones, no te escucharé. Tus manos están llenas de sangre. ^16^ Lávense. Límpiense. Quita la maldad de tus acciones de delante de mis ojos. Deja de hacer el mal. ^h^ ^i^ ^j^ ^17^ Aprender a hacerlo bien. Busca la justicia. Aliviar a los oprimidos. Defiende a los huérfanos. Ruega por la viuda”. ^k^ ^l^ ^m^ 
+^a^[**1:10** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**1:10** Jer 23,14; Lam 4,6] ^c^[**1:10** Jer 23,14; Lam 4,6] ^d^[**1:10** Jer 23,14; Lam 4,6] ^e^[**1:11** Sal 50,8; Prov 21,27; Jer 6,20; Am 5,22] ^f^[**1:11** Sal 50,8; Prov 21,27; Jer 6,20; Am 5,22] ^g^[**1:11** Sal 50,8; Prov 21,27; Jer 6,20; Am 5,22] ^h^[**1:16** Jl 2,12-13; Miq 6,6-8] ^i^[**1:16** Jl 2,12-13; Miq 6,6-8] ^j^[**1:16** Jl 2,12-13; Miq 6,6-8] ^k^[**1:17** Is 1,23; Jer 7,3-7; 1Sam 15,22] ^l^[**1:17** Is 1,23; Jer 7,3-7; 1Sam 15,22] ^m^[**1:17** Is 1,23; Jer 7,3-7; 1Sam 15,22]
+
+
+
+
 
 ## Los tratos de Dios con Judá; la condición para la reconciliación y la salvación del pueblo
-^18^ “Ven ahora y razonemos juntos”, dice Yahvé: “Aunque tus pecados sean como la grana, serán blancos como la nieve. Aunque sean rojos como el carmesí, serán como la lana. ^a^ ^19^ Si estás dispuesto y eres obediente, comerás el bien de la tierra; ^b^ ^20^ pero si os negáis y os rebeláis, seréis devorados por la espada; porque la boca de Yahvé lo ha dicho”. ^c^ 
-^a^[**1:18** Is 43,25; Is 44,22; Sal 51,9] ^b^[**1:19** Lev 25,18-19] ^c^[**1:20** Lev 26,25]
+^18^ “Ven ahora y razonemos juntos”, dice Yahvé: “Aunque tus pecados sean como la grana, serán blancos como la nieve. Aunque sean rojos como el carmesí, serán como la lana. ^a^ ^b^ ^c^ ^19^ Si estás dispuesto y eres obediente, comerás el bien de la tierra; ^d^ ^e^ ^f^ ^20^ pero si os negáis y os rebeláis, seréis devorados por la espada; porque la boca de Yahvé lo ha dicho”. ^g^ ^h^ ^i^ 
+^a^[**1:18** Is 43,25; Is 44,22; Sal 51,9] ^b^[**1:18** Is 43,25; Is 44,22; Sal 51,9] ^c^[**1:18** Is 43,25; Is 44,22; Sal 51,9] ^d^[**1:19** Lev 25,18-19] ^e^[**1:19** Lev 25,18-19] ^f^[**1:19** Lev 25,18-19] ^g^[**1:20** Lev 26,25] ^h^[**1:20** Lev 26,25] ^i^[**1:20** Lev 26,25]
+
+
+
+
 
 ## Lamentación por la profunda corrupción de Sion; la futura purificación de la ciudad y la aniquilación de los pecadores
-^21^ ¡Cómo la ciudad fiel se ha convertido en una prostituta! Estaba llena de justicia. La justicia se alojó en ella, pero ahora hay asesinos. ^a^ ^22^ Tu plata se ha convertido en escoria, su vino mezclado con agua. ^23^ Tus príncipes son rebeldes y compañeros de los ladrones. A todo el mundo le gustan los sobornos y va detrás de las recompensas. No defienden a los huérfanos, ni la causa de la viuda llega a ellos. ^b^ ^24^ Por eso el Señor,^c^ Yahvé de los Ejércitos, el Poderoso de Israel, dice: “Ah, me aliviaré de mis adversarios, y vengarme de mis enemigos. ^25^ Volveré mi mano sobre ti, purga a fondo tu escoria, y se llevará toda su lata. ^d^ ^26^ Restauraré a tus jueces como al principio, y sus consejeros como al principio. Después serás llamada ‘La ciudad de la justicia’, un pueblo fiel”. ^e^ ^27^ Sión será redimida con justicia, y sus conversos con la justicia. ^f^ ^28^ Pero la destrucción de los transgresores y de los pecadores será conjunta, y los que abandonen a Yahvé serán consumidos. ^29^ Porque se avergonzarán de las encinas que has deseado, y serás confundido por los jardines que has elegido. ^g^ ^30^ Porque serás como un roble cuya hoja se marchita, y como un jardín que no tiene agua. ^31^ Los fuertes serán como la yesca, y su trabajo como una chispa. Ambos arderán juntos, y nadie los apagará”.
-^a^[**1:21** Mat 23,37] ^b^[**1:23** Is 1,17] ^c^[**1:24** La palabra traducida “Señor” es “Adonai”. ] ^d^[**1:25** El estaño es un metal que se separa de la plata durante el proceso de refinado y purificación.] ^e^[**1:26** Zac 8,3] ^f^[**1:27** Is 46,13] ^g^[**1:29** Is 65,3]
+^21^ ¡Cómo la ciudad fiel se ha convertido en una prostituta! Estaba llena de justicia. La justicia se alojó en ella, pero ahora hay asesinos. ^a^ ^b^ ^c^ ^22^ Tu plata se ha convertido en escoria, su vino mezclado con agua. ^23^ Tus príncipes son rebeldes y compañeros de los ladrones. A todo el mundo le gustan los sobornos y va detrás de las recompensas. No defienden a los huérfanos, ni la causa de la viuda llega a ellos. ^d^ ^e^ ^f^ ^24^ Por eso el Señor,^g^ Yahvé de los Ejércitos, el Poderoso de Israel, dice: “Ah, me aliviaré de mis adversarios, y vengarme de mis enemigos. ^25^ Volveré mi mano sobre ti, purga a fondo tu escoria, y se llevará toda su lata. ^h^ ^26^ Restauraré a tus jueces como al principio, y sus consejeros como al principio. Después serás llamada ‘La ciudad de la justicia’, un pueblo fiel”. ^i^ ^j^ ^k^ ^27^ Sión será redimida con justicia, y sus conversos con la justicia. ^l^ ^m^ ^n^ ^28^ Pero la destrucción de los transgresores y de los pecadores será conjunta, y los que abandonen a Yahvé serán consumidos. ^29^ Porque se avergonzarán de las encinas que has deseado, y serás confundido por los jardines que has elegido. ^o^ ^p^ ^q^ ^30^ Porque serás como un roble cuya hoja se marchita, y como un jardín que no tiene agua. ^31^ Los fuertes serán como la yesca, y su trabajo como una chispa. Ambos arderán juntos, y nadie los apagará”.
+^a^[**1:21** Mat 23,37] ^b^[**1:21** Mat 23,37] ^c^[**1:21** Mat 23,37] ^d^[**1:23** Is 1,17] ^e^[**1:23** Is 1,17] ^f^[**1:23** Is 1,17] ^g^[**1:24** La palabra traducida “Señor” es “Adonai”. ] ^h^[**1:25** El estaño es un metal que se separa de la plata durante el proceso de refinado y purificación.] ^i^[**1:26** Zac 8,3] ^j^[**1:26** Zac 8,3] ^k^[**1:26** Zac 8,3] ^l^[**1:27** Is 46,13] ^m^[**1:27** Is 46,13] ^n^[**1:27** Is 46,13] ^o^[**1:29** Is 65,3] ^p^[**1:29** Is 65,3] ^q^[**1:29** Is 65,3]
 
 # 2 
 ## Nuevo título; el mundo venidero como reino de paz de Dios alrededor de Jerusalén
 ^1^ Esto es lo que vio Isaías, hijo de Amoz, respecto a Judá y Jerusalén. 
 
-^2^ Sucederá en los últimos días que el monte de la casa de Yahvé se establecerá en la cima de los montes, y se elevará por encima de las colinas; y todas las naciones acudirán a ella. ^3^ Muchos pueblos irán y dirán, “Ven, subamos al monte de Yahvé, a la casa del Dios de Jacob; y nos enseñará sus caminos, y caminaremos por sus senderos”. Porque la ley saldrá de Sión, y la palabra de Yahvé desde Jerusalén. ^a^ ^4^ Él juzgará entre las naciones, y decidirá sobre muchos pueblos. Convertirán sus espadas en rejas de arado, y sus lanzas en podaderas. La nación no levantará la espada contra la nación, ni aprenderán más la guerra. ^b^ ^5^ Casa de Jacob, venid y caminemos a la luz de Yahvé.
-^a^[**2:3** Juan 4,22] ^b^[**2:4** Is 9,4]
+^2^ Sucederá en los últimos días que el monte de la casa de Yahvé se establecerá en la cima de los montes, y se elevará por encima de las colinas; y todas las naciones acudirán a ella. ^3^ Muchos pueblos irán y dirán, “Ven, subamos al monte de Yahvé, a la casa del Dios de Jacob; y nos enseñará sus caminos, y caminaremos por sus senderos”. Porque la ley saldrá de Sión, y la palabra de Yahvé desde Jerusalén. ^a^ ^b^ ^c^ ^4^ Él juzgará entre las naciones, y decidirá sobre muchos pueblos. Convertirán sus espadas en rejas de arado, y sus lanzas en podaderas. La nación no levantará la espada contra la nación, ni aprenderán más la guerra. ^d^ ^e^ ^f^ ^5^ Casa de Jacob, venid y caminemos a la luz de Yahvé.
+^a^[**2:3** Juan 4,22] ^b^[**2:3** Juan 4,22] ^c^[**2:3** Juan 4,22] ^d^[**2:4** Is 9,4] ^e^[**2:4** Is 9,4] ^f^[**2:4** Is 9,4]
+
+
+
+
 
 ## La idolatría y la dependencia de la riqueza y el poder externo desafían la ira y el castigo de Dios
-^6^ Porque has abandonado a tu pueblo, la casa de Jacob, porque se llenan desde el este, con los que practican la adivinación como los filisteos, y se dan la mano con los hijos de los extranjeros. ^7^ Su tierra está llena de plata y oro, ni hay fin de sus tesoros. Sus tierras también están llenas de caballos, ni hay fin de sus carros. ^a^ ^8^ Su tierra también está llena de ídolos. Adoran el trabajo de sus propias manos, lo que sus propios dedos han hecho. ^9^ El hombre es abatido, y la humanidad se humilla; por lo tanto no los perdones. ^10^ Entra en la roca, y esconderse en el polvo, ante el terror de Yahvé, y de la gloria de su majestad. ^11^ Las miradas altivas del hombre serán abatidas, la arrogancia de los hombres será doblegada, y sólo Yahvé será exaltado en ese día. ^b^ 
-^a^[**2:7** Deut 17,16; Miq 5,9] ^b^[**2:11** Is 5,15]
+^6^ Porque has abandonado a tu pueblo, la casa de Jacob, porque se llenan desde el este, con los que practican la adivinación como los filisteos, y se dan la mano con los hijos de los extranjeros. ^7^ Su tierra está llena de plata y oro, ni hay fin de sus tesoros. Sus tierras también están llenas de caballos, ni hay fin de sus carros. ^a^ ^b^ ^c^ ^8^ Su tierra también está llena de ídolos. Adoran el trabajo de sus propias manos, lo que sus propios dedos han hecho. ^9^ El hombre es abatido, y la humanidad se humilla; por lo tanto no los perdones. ^10^ Entra en la roca, y esconderse en el polvo, ante el terror de Yahvé, y de la gloria de su majestad. ^11^ Las miradas altivas del hombre serán abatidas, la arrogancia de los hombres será doblegada, y sólo Yahvé será exaltado en ese día. ^d^ ^e^ ^f^ 
+^a^[**2:7** Deut 17,16; Miq 5,9] ^b^[**2:7** Deut 17,16; Miq 5,9] ^c^[**2:7** Deut 17,16; Miq 5,9] ^d^[**2:11** Is 5,15] ^e^[**2:11** Is 5,15] ^f^[**2:11** Is 5,15]
+
+
+
+
 
 ## Anuncio del juicio de Dios sobre toda la soberanía terrenal y el orgullo humano
 ^12^ Porque habrá un día de Yahvé de los Ejércitos para todos los soberbios y arrogantes, y por todo lo que se levanta, y será traído bajo ^13^ para todos los cedros del Líbano, que son altos y elevados, por todos los robles de Basán, ^14^ por todas las altas montañas, por todas las colinas que se levantan, ^15^ por cada torre elevada, por cada muro fortificado, ^16^ para todos los barcos de Tarsis, y para todas las imágenes agradables. ^17^ La altivez del hombre se inclinará, y la arrogancia de los hombres será abatida; y sólo Yahvé será exaltado en ese día. 
 
+
+
+
+
 ## Los ídolos en particular sufrirán una gran desgracia
-^18^ Los ídolos desaparecerán por completo. ^19^ Los hombres entrarán en las cuevas de las rocas, y en los agujeros de la tierra, ante el terror de Yahvé, y de la gloria de su majestad, cuando se levante para sacudir la tierra poderosamente. ^20^ En ese día, los hombres se desharán de sus ídolos de plata y sus ídolos de oro, que se han hecho para adorar, a los topos y a los murciélagos, ^21^ para entrar en las cavernas de las rocas, y en las hendiduras de las rocas desgarradas, ante el terror de Yahvé, y de la gloria de su majestad, cuando se levante para sacudir la tierra poderosamente. ^a^ ^22^ Deja de confiar en el hombre, cuyo aliento está en sus narices; pues ¿de qué sirve? ^b^ 
-^a^[**2:21** 2Tes 1,9] ^b^[**2:22** Gén 2,7]
+^18^ Los ídolos desaparecerán por completo. ^19^ Los hombres entrarán en las cuevas de las rocas, y en los agujeros de la tierra, ante el terror de Yahvé, y de la gloria de su majestad, cuando se levante para sacudir la tierra poderosamente. ^20^ En ese día, los hombres se desharán de sus ídolos de plata y sus ídolos de oro, que se han hecho para adorar, a los topos y a los murciélagos, ^21^ para entrar en las cavernas de las rocas, y en las hendiduras de las rocas desgarradas, ante el terror de Yahvé, y de la gloria de su majestad, cuando se levante para sacudir la tierra poderosamente. ^a^ ^b^ ^c^ ^22^ Deja de confiar en el hombre, cuyo aliento está en sus narices; pues ¿de qué sirve? ^d^ ^e^ ^f^ 
+^a^[**2:21** 2Tes 1,9] ^b^[**2:21** 2Tes 1,9] ^c^[**2:21** 2Tes 1,9] ^d^[**2:22** Gén 2,7] ^e^[**2:22** Gén 2,7] ^f^[**2:22** Gén 2,7]
 
 # 3 
 ## El colapso del estado de Judea como castigo por el mal gobierno
-^1^ Porque, he aquí,^a^ el Señor, Yahvé de los Ejércitos, quita a Jerusalén y a Judá el suministro y el apoyo, todo el suministro de pan, y todo el suministro de agua; ^b^ ^2^ el hombre poderoso, el hombre de la guerra, el juez, el profeta, el adivino, el mayor, ^3^ el capitán de cincuenta, el hombre honorable, el consejero, el artesano experto, y el inteligente hechicero. ^4^ Daré muchachos para que sean sus príncipes, y los niños gobernarán sobre ellos. ^5^ El pueblo será oprimido, todos por otro, y cada uno por su vecino. El niño se comportará con orgullo frente al anciano, y los malvados contra los honorables. ^6^ En efecto, un hombre se apoderará de su hermano en la casa de su padre, diciendo, “Tienes ropa, serás nuestro gobernante, y que esta ruina esté bajo tu mano”. ^7^ En ese día gritará diciendo: “No seré un sanador; porque en mi casa no hay ni pan ni ropa. No me harás gobernante del pueblo”. 
-^a^[**3:1** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**3:1** Lev 26,26; Ezeq 4,16]
+^1^ Porque, he aquí,^a^ el Señor, Yahvé de los Ejércitos, quita a Jerusalén y a Judá el suministro y el apoyo, todo el suministro de pan, y todo el suministro de agua; ^b^ ^c^ ^d^ ^2^ el hombre poderoso, el hombre de la guerra, el juez, el profeta, el adivino, el mayor, ^3^ el capitán de cincuenta, el hombre honorable, el consejero, el artesano experto, y el inteligente hechicero. ^4^ Daré muchachos para que sean sus príncipes, y los niños gobernarán sobre ellos. ^5^ El pueblo será oprimido, todos por otro, y cada uno por su vecino. El niño se comportará con orgullo frente al anciano, y los malvados contra los honorables. ^6^ En efecto, un hombre se apoderará de su hermano en la casa de su padre, diciendo, “Tienes ropa, serás nuestro gobernante, y que esta ruina esté bajo tu mano”. ^7^ En ese día gritará diciendo: “No seré un sanador; porque en mi casa no hay ni pan ni ropa. No me harás gobernante del pueblo”. 
+^a^[**3:1** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**3:1** Lev 26,26; Ezeq 4,16] ^c^[**3:1** Lev 26,26; Ezeq 4,16] ^d^[**3:1** Lev 26,26; Ezeq 4,16]
 
-^8^ Porque Jerusalén está arruinada y Judá ha caído; porque su lengua y sus acciones son contra Yahvé, para provocar los ojos de su gloria. ^9^ La mirada de sus rostros atestigua contra ellos. Hacen alarde de su pecado como Sodoma. No lo ocultan. ¡Ay de su alma! Porque ellos mismos han provocado el desastre. ^a^ ^10^ Di a los justos que les irá bien, porque comerán el fruto de sus actos. ^b^ ^11^ ¡Ay de los malvados! El desastre está sobre ellos, porque las obras de sus manos les serán devueltas. ^12^ En cuanto a mi pueblo, los niños son sus opresores, y las mujeres gobiernan sobre ellos. Pueblo mío, los que te dirigen te hacen errar, y destruir el camino de tus senderos.
-^a^[**3:9** Os 13,9] ^b^[**3:10** Is 32,17]
+^8^ Porque Jerusalén está arruinada y Judá ha caído; porque su lengua y sus acciones son contra Yahvé, para provocar los ojos de su gloria. ^9^ La mirada de sus rostros atestigua contra ellos. Hacen alarde de su pecado como Sodoma. No lo ocultan. ¡Ay de su alma! Porque ellos mismos han provocado el desastre. ^a^ ^b^ ^c^ ^10^ Di a los justos que les irá bien, porque comerán el fruto de sus actos. ^d^ ^e^ ^f^ ^11^ ¡Ay de los malvados! El desastre está sobre ellos, porque las obras de sus manos les serán devueltas. ^12^ En cuanto a mi pueblo, los niños son sus opresores, y las mujeres gobiernan sobre ellos. Pueblo mío, los que te dirigen te hacen errar, y destruir el camino de tus senderos.
+^a^[**3:9** Os 13,9] ^b^[**3:9** Os 13,9] ^c^[**3:9** Os 13,9] ^d^[**3:10** Is 32,17] ^e^[**3:10** Is 32,17] ^f^[**3:10** Is 32,17]
+
+
+
+
 
 ## Dios anuncia juicio a la cabeza del pueblo
 ^13^ Yahvé se levanta para contender, y está en pie para juzgar a los pueblos. ^14^ El Señor entrará en juicio con los ancianos de su pueblo y sus líderes: “Sois vosotros los que os habéis comido la viña. El botín de los pobres está en vuestras casas. ^15^ ¿Qué quieres decir con que aplastas a mi pueblo, y moler la cara de los pobres?” dice el Señor, Yahvé de los Ejércitos. 
 
+
+
+
+
 ## El juicio de Dios sobre las mujeres altivas y degeneradas de las clases altas de Jerusalén
-^16^ Además, Yahvé dijo: “Porque las hijas de Sion son arrogantes, y caminan con el cuello extendido y los ojos coquetos, caminando con delicadeza a medida que avanzan, adornos tintineantes en sus pies; ^a^ ^17^ por lo tanto, el Señor hace aparecer llagas en la coronilla de las mujeres de Sión, y Yahvé les dejará el cuero cabelludo calvo”. 
-^a^[**3:16** Prov 31,30; 1Tim 2,9]
+^16^ Además, Yahvé dijo: “Porque las hijas de Sion son arrogantes, y caminan con el cuello extendido y los ojos coquetos, caminando con delicadeza a medida que avanzan, adornos tintineantes en sus pies; ^a^ ^b^ ^c^ ^17^ por lo tanto, el Señor hace aparecer llagas en la coronilla de las mujeres de Sión, y Yahvé les dejará el cuero cabelludo calvo”. 
+^a^[**3:16** Prov 31,30; 1Tim 2,9] ^b^[**3:16** Prov 31,30; 1Tim 2,9] ^c^[**3:16** Prov 31,30; 1Tim 2,9]
 
 ^18^ En aquel día el Señor les quitará la belleza de las tobilleras, las diademas, los collares de media luna, ^19^ los pendientes, los brazaletes, los velos, ^20^ los tocados, las cadenas de los tobillos, las fajas, los recipientes de perfume, los amuletos, ^21^ los anillos de sello, los narigueros, ^22^ las túnicas finas, las capas, los bolsos, ^23^ los espejos de mano, los vestidos de lino fino, las diademas y los chales. ^24^ Sucederá que en lugar de especias dulces, habrá podredumbre; en lugar de un cinturón, una cuerda; en lugar de un pelo bien cuajado, la calvicie; en lugar de una túnica, una vestimenta de arpillera; y la marca en lugar de la belleza. 
+
+
+
+
 
 ## La ciudad despojada de sus hombres
 ^25^ Tus hombres caerán por la espada, y su poderío en la guerra. ^26^ Suspuertas se lamentarán y llorarán. Será desolada y se sentará en el suelo. 
@@ -63,52 +107,68 @@
 # 4 
 ^1^ Siete mujeres se apoderarán de un solo hombre en aquel día, diciendo: “Comeremos nuestro propio pan y vestiremos nuestra propia ropa. Deja que nos llamen por tu nombre. Quita nuestro reproche”. 
 
+
+
+
+
 ## Gloria de la Jerusalén purificada después del juicio del mundo bajo la protección personal de Dios
-^2^ En ese día, la rama de Yahvé será hermosa y gloriosa, y el fruto de la tierra será la belleza y la gloria de los sobrevivientes de Israel. ^a^ ^3^ Sucederá que el que quede en Sión y el que permanezca en Jerusalén serán llamados santos, todos los que estén inscritos entre los vivos de Jerusalén, ^b^ ^4^ cuando el Señor haya lavado la inmundicia de las hijas de Sión, y haya purificado la sangre de Jerusalén de su interior, por el espíritu de justicia y por el espíritu de ardor. ^c^ ^5^ Yahvé creará sobre toda la morada del monte Sión y sobre sus asambleas, una nube y un humo de día, y el resplandor de un fuego ardiente de noche, pues sobre toda la gloria habrá un dosel. ^d^ ^6^ Habrá un pabellón para dar sombra durante el día contra el calor, y para refugiarse y resguardarse de la tormenta y de la lluvia. ^e^ 
-^a^[**4:2** Is 11,1] ^b^[**4:3** Luc 10,20] ^c^[**4:4** Zac 13,1; Mat 3,11] ^d^[**4:5** Éxod 13,21; Éxod 40,34; Éxod 40,38] ^e^[**4:6** Is 25,4-5]
+^2^ En ese día, la rama de Yahvé será hermosa y gloriosa, y el fruto de la tierra será la belleza y la gloria de los sobrevivientes de Israel. ^a^ ^b^ ^c^ ^3^ Sucederá que el que quede en Sión y el que permanezca en Jerusalén serán llamados santos, todos los que estén inscritos entre los vivos de Jerusalén, ^d^ ^e^ ^f^ ^4^ cuando el Señor haya lavado la inmundicia de las hijas de Sión, y haya purificado la sangre de Jerusalén de su interior, por el espíritu de justicia y por el espíritu de ardor. ^g^ ^h^ ^i^ ^5^ Yahvé creará sobre toda la morada del monte Sión y sobre sus asambleas, una nube y un humo de día, y el resplandor de un fuego ardiente de noche, pues sobre toda la gloria habrá un dosel. ^j^ ^k^ ^l^ ^6^ Habrá un pabellón para dar sombra durante el día contra el calor, y para refugiarse y resguardarse de la tormenta y de la lluvia. ^m^ ^n^ ^o^ 
+^a^[**4:2** Is 11,1] ^b^[**4:2** Is 11,1] ^c^[**4:2** Is 11,1] ^d^[**4:3** Luc 10,20] ^e^[**4:3** Luc 10,20] ^f^[**4:3** Luc 10,20] ^g^[**4:4** Zac 13,1; Mat 3,11] ^h^[**4:4** Zac 13,1; Mat 3,11] ^i^[**4:4** Zac 13,1; Mat 3,11] ^j^[**4:5** Éxod 13,21; Éxod 40,34; Éxod 40,38] ^k^[**4:5** Éxod 13,21; Éxod 40,34; Éxod 40,38] ^l^[**4:5** Éxod 13,21; Éxod 40,34; Éxod 40,38] ^m^[**4:6** Is 25,4-5] ^n^[**4:6** Is 25,4-5] ^o^[**4:6** Is 25,4-5]
 
 # 5 
 ## La parábola de la viña estéril
-^1^ Déjenme cantar para mi bien amado una canción de mi amado sobre su viña. Mi amado tenía un viñedo en una colina muy fructífera. ^a^ ^2^ Lo desenterró, recogió sus piedras, la plantó con la vid más selecta, construyó una torre en el centro, y también recortó una prensa de vino en ella. Buscó que diera uvas, pero dio uvas silvestres. 
-^a^[**5:1** Is 27,2; Sal 80,9-16; Mar 12,1-9]
+^1^ Déjenme cantar para mi bien amado una canción de mi amado sobre su viña. Mi amado tenía un viñedo en una colina muy fructífera. ^a^ ^b^ ^c^ ^2^ Lo desenterró, recogió sus piedras, la plantó con la vid más selecta, construyó una torre en el centro, y también recortó una prensa de vino en ella. Buscó que diera uvas, pero dio uvas silvestres. 
+^a^[**5:1** Is 27,2; Sal 80,9-16; Mar 12,1-9] ^b^[**5:1** Is 27,2; Sal 80,9-16; Mar 12,1-9] ^c^[**5:1** Is 27,2; Sal 80,9-16; Mar 12,1-9]
 
 ^3^ “Ahora, habitantes de Jerusalén y hombres de Judá, por favor, juzga entre mi viña y yo. ^4^ ¿Qué más se puede hacer a mi viña que no haya hecho yo en ella? ¿Por qué, cuando busqué que diera uvas, dio uvas silvestres? ^5^ Ahora te diré lo que haré con mi viña. Quitaré su seto y será devorado. Derribaré su muro, y será pisoteado. ^6^ La convertiré en un páramo. No se podará ni se azadonará, pero le crecerán zarzas y espinas. También ordenaré a las nubes que no llueva sobre él”. ^7^ Porque la viña del Señor de los Ejércitos es la casa de Israel, y los hombres de Judá su planta agradable. Buscó la justicia, pero he aquí la opresión, por la justicia, pero he aquí un grito de angustia. 
 
-## Seis ayes del profeta por los pecados y los vicios del pueblo
-^8^ Ay de los que se unen de casa en casa, que se acuestan campo a campo, hasta que no hay espacio, ¡y se te hace habitar solo en medio de la tierra! ^a^ ^9^ En mis oídos, el Señor de los Ejércitos dice: “Seguramente muchas casas quedarán desoladas, incluso grande y hermosa, desocupada. ^10^ Por diez acres^b^ de viñedo se producirá un baño, ^c^ y un homer^d^ de semilla dará un efa”. ^e^ 
-^a^[**5:8** Miq 2,2] ^b^[**5:10** literalmente, diez yuntas, o la cantidad de tierra que diez yuntas de bueyes pueden arar en un día, lo que equivale a unos 10 acres o 4 hectáreas.] ^c^[**5:10** 1 baño equivale a unos 22 litros o 5,8 galones americanos] ^d^[**5:10** 1 homer es aproximadamente 220 litros o 6 bushels] ^e^[**5:10** 1 efa equivale a unos 22 litros o 0,6 fanegas, o sea, a unos 2 picotazos: sólo una décima parte de lo que se sembró.]
 
-^11^ Ay de los que se levantan de madrugada para seguir la bebida fuerte, que se quedan hasta altas horas de la noche, ¡hasta que el vino los enardece! ^12^ El arpa, la lira, la pandereta y la flauta, con vino, están en sus fiestas; pero no respetan la obra de Yahvé, ni han considerado la operación de sus manos. ^13^ Por eso mi pueblo va al cautiverio por falta de conocimiento. Sus honorables hombres están hambrientos, y sus multitudes están muertas de sed. ^14^ Por lo tanto, el Seol^a^ ha ampliado su deseo, y abrió su boca sin medida; y su gloria, su multitud, su pompa, y el que se regocija entre ellos, descienden a ella. ^15^ Así el hombre se rebaja, la humanidad es humilde, y los ojos de los arrogantes se humillan; ^b^ ^16^ pero Yahvé de los Ejércitos es exaltado en la justicia, y Dios el Santo es santificado en justicia. ^17^ Entonces los corderos pastarán como en su pasto, y los extraños comerán las ruinas de los ricos. 
-^a^[**5:14** El Seol es el lugar de los muertos.] ^b^[**5:15** Is 2,11]
+
+
+
+## Seis ayes del profeta por los pecados y los vicios del pueblo
+^8^ Ay de los que se unen de casa en casa, que se acuestan campo a campo, hasta que no hay espacio, ¡y se te hace habitar solo en medio de la tierra! ^a^ ^b^ ^c^ ^9^ En mis oídos, el Señor de los Ejércitos dice: “Seguramente muchas casas quedarán desoladas, incluso grande y hermosa, desocupada. ^10^ Por diez acres^d^ de viñedo se producirá un baño, ^e^ y un homer^f^ de semilla dará un efa”. ^g^ 
+^a^[**5:8** Miq 2,2] ^b^[**5:8** Miq 2,2] ^c^[**5:8** Miq 2,2] ^d^[**5:10** literalmente, diez yuntas, o la cantidad de tierra que diez yuntas de bueyes pueden arar en un día, lo que equivale a unos 10 acres o 4 hectáreas.] ^e^[**5:10** 1 baño equivale a unos 22 litros o 5,8 galones americanos] ^f^[**5:10** 1 homer es aproximadamente 220 litros o 6 bushels] ^g^[**5:10** 1 efa equivale a unos 22 litros o 0,6 fanegas, o sea, a unos 2 picotazos: sólo una décima parte de lo que se sembró.]
+
+^11^ Ay de los que se levantan de madrugada para seguir la bebida fuerte, que se quedan hasta altas horas de la noche, ¡hasta que el vino los enardece! ^12^ El arpa, la lira, la pandereta y la flauta, con vino, están en sus fiestas; pero no respetan la obra de Yahvé, ni han considerado la operación de sus manos. ^13^ Por eso mi pueblo va al cautiverio por falta de conocimiento. Sus honorables hombres están hambrientos, y sus multitudes están muertas de sed. ^14^ Por lo tanto, el Seol^a^ ha ampliado su deseo, y abrió su boca sin medida; y su gloria, su multitud, su pompa, y el que se regocija entre ellos, descienden a ella. ^15^ Así el hombre se rebaja, la humanidad es humilde, y los ojos de los arrogantes se humillan; ^b^ ^c^ ^d^ ^16^ pero Yahvé de los Ejércitos es exaltado en la justicia, y Dios el Santo es santificado en justicia. ^17^ Entonces los corderos pastarán como en su pasto, y los extraños comerán las ruinas de los ricos. 
+^a^[**5:14** El Seol es el lugar de los muertos.] ^b^[**5:15** Is 2,11] ^c^[**5:15** Is 2,11] ^d^[**5:15** Is 2,11]
 
 ^18^ Ay de los que atraen la iniquidad con cuerdas de mentira, y la maldad como con cuerda de carreta, ^19^ que dicen: “Que se apresure, que acelere su obra, para que la veamos; que el consejo del Santo de Israel se acerque y venga, para que lo conozcamos”. 
 
 ^20^ Ay de los que llaman bueno al mal y malo al bien; que puso la oscuridad por la luz, y la luz para la oscuridad; que puso lo amargo por lo dulce, ¡y dulce por amargo! 
 
-^21^ Ay de los que son sabios a sus propios ojos, ¡y prudente ante sus propios ojos! ^a^ 
-^a^[**5:21** Prov 3,7; Rom 12,17]
+^21^ Ay de los que son sabios a sus propios ojos, ¡y prudente ante sus propios ojos! ^a^ ^b^ ^c^ 
+^a^[**5:21** Prov 3,7; Rom 12,17] ^b^[**5:21** Prov 3,7; Rom 12,17] ^c^[**5:21** Prov 3,7; Rom 12,17]
 
 ^22^ Ay de los que son poderosos para beber vino, y campeones en la mezcla de bebidas fuertes; ^23^ que absuelven a los culpables a cambio de un soborno, ¡pero negar la justicia a los inocentes! ^24^ Por eso, como la lengua de fuego devora el rastrojo, y como la hierba seca se hunde en la llama, por lo que su raíz será como la podredumbre, y su flor se convertirá en polvo, porque han rechazado la ley de Yahvé de los Ejércitos, y despreciaron la palabra del Santo de Israel. 
+
+
+
+
 
 ## El juicio destructivo de Dios amenazado por el terrible enemigo (asirio)
 ^25^ Por eso la ira de Yahvé arde contra su pueblo, y ha extendido su mano contra ellos y los ha golpeado. Las montañas tiemblan, y sus cadáveres son como basura en medio de las calles. Por todo esto, su ira no se desvía, pero su mano sigue extendida. ^26^ Él levantará un estandarte a las naciones desde muy lejos, y les silbará desde el fin de la tierra. He aquí que vendrán rápida y velozmente. ^27^ Nadie se cansará ni tropezará entre ellos; nadie se adormecerá ni dormirá, ni se desatará el cinturón de su cintura, ni se rompa la correa de sus sandalias, ^28^ cuyas flechas son afiladas, y todos sus arcos doblados. Los cascos de sus caballos serán como el pedernal, y sus ruedas como un torbellino. ^29^ Su rugido será como el de una leona. Rugirán como jóvenes leones. Sí, rugirán, y agarrar su presa y llevársela, y no habrá nadie que lo entregue. ^30^ En aquel día rugirán contra ellos como el rugido del mar. Si uno mira a la tierra, he aquí la oscuridad y la angustia. La luz se oscurece en sus nubes.
 
 # 6 
 ## El llamado y la consagración de Isaías como profeta
-^1^ El año en que murió el rey Uzías, vi al Señor sentado en un trono alto y elevado, y su cortejo llenaba el templo. ^a^ ^2^ Sobre él estaban los serafines. Cada uno tenía seis alas. Con dos se cubría el rostro. Con dos se cubría los pies. Con dos volaba. ^3^ Uno llamó a otro y le dijo “¡Santo, santo, santo, es Yahvé de los Ejércitos! Toda la tierra está llena de su gloria”. 
-^a^[**6:1** Juan 12,41]
+^1^ El año en que murió el rey Uzías, vi al Señor sentado en un trono alto y elevado, y su cortejo llenaba el templo. ^a^ ^b^ ^c^ ^2^ Sobre él estaban los serafines. Cada uno tenía seis alas. Con dos se cubría el rostro. Con dos se cubría los pies. Con dos volaba. ^3^ Uno llamó a otro y le dijo “¡Santo, santo, santo, es Yahvé de los Ejércitos! Toda la tierra está llena de su gloria”. 
+^a^[**6:1** Juan 12,41] ^b^[**6:1** Juan 12,41] ^c^[**6:1** Juan 12,41]
 
-^4^ Los cimientos de los umbrales temblaron a la voz del que llamaba, y la casa se llenó de humo. ^a^ ^5^ Entonces dije: “¡Ay de mí! Porque estoy deshecho, ya que soy un hombre de labios impuros y vivo en medio de un pueblo de labios impuros, ¡pues mis ojos han visto al Rey, Yahvé de los Ejércitos!” ^b^ 
-^a^[**6:4** Ezeq 10,4; Apoc 15,8] ^b^[**6:5** Éxod 33,20]
+^4^ Los cimientos de los umbrales temblaron a la voz del que llamaba, y la casa se llenó de humo. ^a^ ^b^ ^c^ ^5^ Entonces dije: “¡Ay de mí! Porque estoy deshecho, ya que soy un hombre de labios impuros y vivo en medio de un pueblo de labios impuros, ¡pues mis ojos han visto al Rey, Yahvé de los Ejércitos!” ^d^ ^e^ ^f^ 
+^a^[**6:4** Ezeq 10,4; Apoc 15,8] ^b^[**6:4** Ezeq 10,4; Apoc 15,8] ^c^[**6:4** Ezeq 10,4; Apoc 15,8] ^d^[**6:5** Éxod 33,20] ^e^[**6:5** Éxod 33,20] ^f^[**6:5** Éxod 33,20]
 
-^6^ Entonces uno de los serafines voló hacia mí, teniendo en su mano un carbón vivo, que había tomado con las tenazas del altar. ^7^ Tocó mi boca con él, y dijo: “He aquí que esto ha tocado tus labios; y tu iniquidad es quitada, y tu pecado perdonado.” ^a^ 
-^a^[**6:7** Zac 3,4]
+^6^ Entonces uno de los serafines voló hacia mí, teniendo en su mano un carbón vivo, que había tomado con las tenazas del altar. ^7^ Tocó mi boca con él, y dijo: “He aquí que esto ha tocado tus labios; y tu iniquidad es quitada, y tu pecado perdonado.” ^a^ ^b^ ^c^ 
+^a^[**6:7** Zac 3,4] ^b^[**6:7** Zac 3,4] ^c^[**6:7** Zac 3,4]
+
+
+
+
 
 ## La comisión de Dios al profeta de aumentar la terquedad del pueblo a través de su sermón y preparar los juicios más difíciles
 ^8^ Oí la voz del Señor, que decía: “¿A quién enviaré y quién irá por nosotros?” Entonces dije: “Aquí estoy. Envíame”. 
 
-^9^ Dijo: “Ve y dile a este pueblo, ‘Oyes, en efecto, pero no lo entienden. Ya ves que sí, pero no perciben’. ^10^ Engorda el corazón de este pueblo. Haz que les pesen los oídos y que cierren los ojos; para que no vean con sus ojos, oyen con sus oídos, entender con el corazón, y vuélvete, y cúrate”. ^a^ 
-^a^[**6:10** Deut 29,3]
+^9^ Dijo: “Ve y dile a este pueblo, ‘Oyes, en efecto, pero no lo entienden. Ya ves que sí, pero no perciben’. ^10^ Engorda el corazón de este pueblo. Haz que les pesen los oídos y que cierren los ojos; para que no vean con sus ojos, oyen con sus oídos, entender con el corazón, y vuélvete, y cúrate”. ^a^ ^b^ ^c^ 
+^a^[**6:10** Deut 29,3] ^b^[**6:10** Deut 29,3] ^c^[**6:10** Deut 29,3]
 
 ^11^ Entonces dije: “Señor, ¿hasta cuándo?” Él respondió, “Hasta que las ciudades sean residuos sin habitante, casas sin hombre, la tierra se convierte en un completo desperdicio, 
 
@@ -116,19 +176,27 @@
 
 # 7 
 ## El aliento de Isaías al rey Acaz después del estallido de la guerra sirio-efraimita
-^1^ En tiempos de Acaz hijo de Jotam, hijo de Uzías, rey de Judá, Rezín, rey de Siria, y Peka, hijo de Remalías, rey de Israel, subieron a Jerusalén para hacerle la guerra, pero no pudieron vencerla. ^a^ ^2^ A la casa de David le dijeron: “Siria está aliada con Efraín”. Su corazón tembló, y el de su pueblo, como tiemblan los árboles del bosque con el viento. 
-^a^[**7:1** 2Re 15,37; 2Re 16,5]
+^1^ En tiempos de Acaz hijo de Jotam, hijo de Uzías, rey de Judá, Rezín, rey de Siria, y Peka, hijo de Remalías, rey de Israel, subieron a Jerusalén para hacerle la guerra, pero no pudieron vencerla. ^a^ ^b^ ^c^ ^2^ A la casa de David le dijeron: “Siria está aliada con Efraín”. Su corazón tembló, y el de su pueblo, como tiemblan los árboles del bosque con el viento. 
+^a^[**7:1** 2Re 15,37; 2Re 16,5] ^b^[**7:1** 2Re 15,37; 2Re 16,5] ^c^[**7:1** 2Re 15,37; 2Re 16,5]
 
-^3^ Entonces Yahvé dijo a Isaías: “Sal ahora al encuentro de Acaz, tú y Searjashub, tu hijo, al final del conducto del estanque superior, en el camino del campo del batán. ^4^ Dile: ‘Ten cuidado y mantén la calma. No temas, ni desmaye tu corazón a causa de estas dos colas de antorchas humeantes, por la feroz ira de Rezín y de Siria, y del hijo de Remalías. ^5^ Porque Siria, Efraín y el hijo de Remalías han tramado el mal contra ti, diciendo: ^6^ “Subamos contra Judá y hagámosla pedazos, y dividámosla entre nosotros, y pongamos en ella un rey, el hijo de Tabeel.” ^7^ Esto es lo que dice el Señor Yahvé: “No se mantendrá, ni sucederá.” ^8^ Porque el jefe de Siria es Damasco, y el jefe de Damasco es Rezín. Dentro de sesenta y cinco años Efraín será despedazado, de modo que no será un pueblo. ^9^ La cabeza de Efraín es Samaria, y la cabeza de Samaria es el hijo de Remalías. Si no creen, ciertamente no serán establecidos’”. ^a^ 
-^a^[**7:9** 2Cró 20,20]
+^3^ Entonces Yahvé dijo a Isaías: “Sal ahora al encuentro de Acaz, tú y Searjashub, tu hijo, al final del conducto del estanque superior, en el camino del campo del batán. ^4^ Dile: ‘Ten cuidado y mantén la calma. No temas, ni desmaye tu corazón a causa de estas dos colas de antorchas humeantes, por la feroz ira de Rezín y de Siria, y del hijo de Remalías. ^5^ Porque Siria, Efraín y el hijo de Remalías han tramado el mal contra ti, diciendo: ^6^ “Subamos contra Judá y hagámosla pedazos, y dividámosla entre nosotros, y pongamos en ella un rey, el hijo de Tabeel.” ^7^ Esto es lo que dice el Señor Yahvé: “No se mantendrá, ni sucederá.” ^8^ Porque el jefe de Siria es Damasco, y el jefe de Damasco es Rezín. Dentro de sesenta y cinco años Efraín será despedazado, de modo que no será un pueblo. ^9^ La cabeza de Efraín es Samaria, y la cabeza de Samaria es el hijo de Remalías. Si no creen, ciertamente no serán establecidos’”. ^a^ ^b^ ^c^ 
+^a^[**7:9** 2Cró 20,20] ^b^[**7:9** 2Cró 20,20] ^c^[**7:9** 2Cró 20,20]
+
+
+
+
 
 ## El discurso amenazador de Isaías al incrédulo Acaz; el signo de immanuel; la futura desolación de Judá
 ^10^ Yahvé volvió a hablar a Ajaz, diciendo: ^11^ “Pide una señal a Yahvé, tu Dios; pídela en lo profundo o en lo alto”. 
 
 ^12^ Pero Acaz dijo: “No preguntaré. No tentaré a Yahvé”. 
 
-^13^ Dijo: “Escuchad ahora, casa de David. ¿No os basta con probar la paciencia de los hombres, para que también probéis la paciencia de mi Dios? ^14^ Por eso el Señor mismo os dará una señal. He aquí que la virgen concebirá y dará a luz un hijo, y lo llamará Emanuel. ^a^ ^15^ Comerá mantequilla y miel cuando sepa rechazar lo malo y elegir lo bueno. ^b^ ^16^ Porque antes de que el niño sepa rechazar el mal y elegir el bien, la tierra cuyos dos reyes aborreces será abandonada. ^c^ ^17^ El Señor traerá sobre ti, sobre tu pueblo y sobre la casa de tu padre días que no han llegado, desde el día en que Efraín se apartó de Judá, hasta el rey de Asiria.
-^a^[**7:14** “Emanuel” significa “Dios con nosotros”.] ^b^[**7:15** Is 7,21-22] ^c^[**7:16** Is 8,4]
+^13^ Dijo: “Escuchad ahora, casa de David. ¿No os basta con probar la paciencia de los hombres, para que también probéis la paciencia de mi Dios? ^14^ Por eso el Señor mismo os dará una señal. He aquí que la virgen concebirá y dará a luz un hijo, y lo llamará Emanuel. ^a^ ^15^ Comerá mantequilla y miel cuando sepa rechazar lo malo y elegir lo bueno. ^b^ ^c^ ^d^ ^16^ Porque antes de que el niño sepa rechazar el mal y elegir el bien, la tierra cuyos dos reyes aborreces será abandonada. ^e^ ^f^ ^g^ ^17^ El Señor traerá sobre ti, sobre tu pueblo y sobre la casa de tu padre días que no han llegado, desde el día en que Efraín se apartó de Judá, hasta el rey de Asiria.
+^a^[**7:14** “Emanuel” significa “Dios con nosotros”.] ^b^[**7:15** Is 7,21-22] ^c^[**7:15** Is 7,21-22] ^d^[**7:15** Is 7,21-22] ^e^[**7:16** Is 8,4] ^f^[**7:16** Is 8,4] ^g^[**7:16** Is 8,4]
+
+
+
+
 
 ## Señal del juicio futuro para Jerusalén
 ^18^ Sucederá en aquel día que Yahvé silbará por la mosca que está en el extremo de los ríos de Egipto, y por la abeja que está en la tierra de Asiria. ^19^ Vendrán y se posarán todas en los valles desolados, en las hendiduras de las rocas, en todos los setos de espinos y en todos los pastos. 
@@ -145,51 +213,83 @@
 ^1^ El Señor me dijo: “Toma una tabla grande y escribe en ella con pluma de hombre: ‘Para Maher Shalal Hash Baz’; ^a^ ^2^ y tomaré para mí testigos fieles que den testimonio: El sacerdote Urías, y Zacarías, hijo de Jeberecías”. 
 ^a^[**8:1** “Maher Shalal Hash Baz” significa “rápido al saqueo, rápido a la presa”.]
 
-^3^ Fui a la profetisa, y ella concibió y dio a luz un hijo. Entonces Yahvé me dijo: “Llámalo ‘Maher Shalal Hash Baz’. ^4^ Porque antes de que el niño sepa decir: ‘Mi padre’ y ‘Mi madre’, las riquezas de Damasco y el saqueo de Samaria serán llevados por el rey de Asiria.” ^a^ 
-^a^[**8:4** Is 7,16; 2Re 16,9; 2Re 15,29]
+^3^ Fui a la profetisa, y ella concibió y dio a luz un hijo. Entonces Yahvé me dijo: “Llámalo ‘Maher Shalal Hash Baz’. ^4^ Porque antes de que el niño sepa decir: ‘Mi padre’ y ‘Mi madre’, las riquezas de Damasco y el saqueo de Samaria serán llevados por el rey de Asiria.” ^a^ ^b^ ^c^ 
+^a^[**8:4** Is 7,16; 2Re 16,9; 2Re 15,29] ^b^[**8:4** Is 7,16; 2Re 16,9; 2Re 15,29] ^c^[**8:4** Is 7,16; 2Re 16,9; 2Re 15,29]
+
+
+
+
 
 ## Profecía de la destrucción de Judá por los asirios
-^5^ El Señor me habló de nuevo, diciendo: ^6^ “Porque este pueblo ha rechazado las aguas de Siloé que van suavemente, y se regocija en Rezín y en el hijo de Remalías; ^7^ ahora, pues, he aquí que el Señor trae sobre ellos la poderosa crecida del río: el rey de Asiria y toda su gloria. Subirá por todos sus cauces, y desbordará todas sus riberas. ^8^ Arrasará con Judá. Se desbordará y pasará. Llegará hasta el cuello. El despliegue de sus alas llenará la anchura de tu tierra, oh Emanuel. ^a^ 
-^a^[**8:8** Is 7,14]
+^5^ El Señor me habló de nuevo, diciendo: ^6^ “Porque este pueblo ha rechazado las aguas de Siloé que van suavemente, y se regocija en Rezín y en el hijo de Remalías; ^7^ ahora, pues, he aquí que el Señor trae sobre ellos la poderosa crecida del río: el rey de Asiria y toda su gloria. Subirá por todos sus cauces, y desbordará todas sus riberas. ^8^ Arrasará con Judá. Se desbordará y pasará. Llegará hasta el cuello. El despliegue de sus alas llenará la anchura de tu tierra, oh Emanuel. ^a^ ^b^ ^c^ 
+^a^[**8:8** Is 7,14] ^b^[**8:8** Is 7,14] ^c^[**8:8** Is 7,14]
+
+
+
+
 
 ## El profeta anuncia el fracaso de sus planes a los pueblos
-^9^ ¡Armad un escándalo, pueblos, y destrozaos! Escuchad, todos los que venís de países lejanos: ¡vestid la batalla y sed destrozados! ¡Vestíos para la batalla, y sed destrozados! ^a^ ^10^ Haced consejo juntos, y quedará en nada; hablad la palabra, y no se mantendrá, porque Dios está con nosotros.” ^b^ 
-^a^[**8:9** Sal 2,-1] ^b^[**8:10** Is 8,8]
+^9^ ¡Armad un escándalo, pueblos, y destrozaos! Escuchad, todos los que venís de países lejanos: ¡vestid la batalla y sed destrozados! ¡Vestíos para la batalla, y sed destrozados! ^a^ ^b^ ^c^ ^10^ Haced consejo juntos, y quedará en nada; hablad la palabra, y no se mantendrá, porque Dios está con nosotros.” ^d^ ^e^ ^f^ 
+^a^[**8:9** Sal 2,-1] ^b^[**8:9** Sal 2,-1] ^c^[**8:9** Sal 2,-1] ^d^[**8:10** Is 8,8] ^e^[**8:10** Is 8,8] ^f^[**8:10** Is 8,8]
+
+
+
+
 
 ## El peligro real no proviene de los planes y convenios humanos, sino del desprecio por Dios
-^11^ Porque Yahvé me habló de esto con mano fuerte, y me instruyó para que no siguiera el camino de este pueblo, diciendo: ^12^ “No llames conspiración a todo lo que este pueblo llama conspiración. No temas sus amenazas ni te dejes aterrorizar. ^13^ El Señor de los Ejércitos es a quien debes respetar como santo. A él es a quien debes temer. A él es a quien debes temer. ^14^ Él será un santuario, pero para ambas casas de Israel será una piedra de tropiezo y una roca que los haga caer. Para el pueblo de Jerusalén, será una trampa y un lazo. ^a^ ^15^ Muchos tropezarán con él, caerán, se romperán, quedarán atrapados y serán capturados.”
-^a^[**8:14** Is 28,16; Rom 9,33; 1Pe 2,7-8]
+^11^ Porque Yahvé me habló de esto con mano fuerte, y me instruyó para que no siguiera el camino de este pueblo, diciendo: ^12^ “No llames conspiración a todo lo que este pueblo llama conspiración. No temas sus amenazas ni te dejes aterrorizar. ^13^ El Señor de los Ejércitos es a quien debes respetar como santo. A él es a quien debes temer. A él es a quien debes temer. ^14^ Él será un santuario, pero para ambas casas de Israel será una piedra de tropiezo y una roca que los haga caer. Para el pueblo de Jerusalén, será una trampa y un lazo. ^a^ ^b^ ^c^ ^15^ Muchos tropezarán con él, caerán, se romperán, quedarán atrapados y serán capturados.”
+^a^[**8:14** Is 28,16; Rom 9,33; 1Pe 2,7-8] ^b^[**8:14** Is 28,16; Rom 9,33; 1Pe 2,7-8] ^c^[**8:14** Is 28,16; Rom 9,33; 1Pe 2,7-8]
+
+
+
+
 
 ## La firme confianza de Isaías en la verdad de las palabras que Dios le hizo
 ^16^ Envuelve el pacto. Sella la ley entre mis discípulos. ^17^ Esperaré a Yahvé, que esconde su rostro de la casa de Jacob, y lo buscaré. ^18^ He aquí que yo y los hijos que Yahvé me ha dado somos para señales y prodigios en Israel de parte de Yahvé de los Ejércitos, que habita en el monte Sión. 
 
+
+
+
+
 ## La locura y las consecuencias destructivas de la apostasía de Dios para el pueblo
-^19^ Cuando os dicen: “Consultad con los que tienen espíritus familiares y con los magos, que gorjean y que murmuran”, ¿no debería un pueblo consultar a su Dios? ¿Deben consultar a los muertos en nombre de los vivos? ^a^ ^20^ ¡Vuelvan a la ley y al pacto! Si no hablan conforme a esta palabra, ciertamente no hay mañana para ellos. ^21^ Pasarán por ella, muy angustiados y hambrientos. Sucederá que cuando tengan hambre, se preocuparán y maldecirán a su rey y a su Dios. Volverán sus rostros hacia arriba, ^22^ entonces mirarán a la tierra y verán la angustia, las tinieblas y la oscuridad de la angustia. Se verán sumidos en densas tinieblas. ^b^ 
-^a^[**8:19** 2Re 1,3] ^b^[**8:22** Is 5,30]
+^19^ Cuando os dicen: “Consultad con los que tienen espíritus familiares y con los magos, que gorjean y que murmuran”, ¿no debería un pueblo consultar a su Dios? ¿Deben consultar a los muertos en nombre de los vivos? ^a^ ^b^ ^c^ ^20^ ¡Vuelvan a la ley y al pacto! Si no hablan conforme a esta palabra, ciertamente no hay mañana para ellos. ^21^ Pasarán por ella, muy angustiados y hambrientos. Sucederá que cuando tengan hambre, se preocuparán y maldecirán a su rey y a su Dios. Volverán sus rostros hacia arriba, ^22^ entonces mirarán a la tierra y verán la angustia, las tinieblas y la oscuridad de la angustia. Se verán sumidos en densas tinieblas. ^d^ ^e^ ^f^ 
+^a^[**8:19** 2Re 1,3] ^b^[**8:19** 2Re 1,3] ^c^[**8:19** 2Re 1,3] ^d^[**8:22** Is 5,30] ^e^[**8:22** Is 5,30] ^f^[**8:22** Is 5,30]
 
 # 9 
 ## Profecía del establecimiento del reino de Dios por el descendiente prometido de David
-^1^ Pero ya no habrá más tristeza para la que estaba angustiada. En el primer tiempo, despreció la tierra de Zabulón y la tierra de Neftalí; pero en el último tiempo la ha hecho gloriosa, por el camino del mar, al otro lado del Jordán, Galilea de las naciones. ^a^ 
-^a^[**9:1** Luc 1,79]
+^1^ Pero ya no habrá más tristeza para la que estaba angustiada. En el primer tiempo, despreció la tierra de Zabulón y la tierra de Neftalí; pero en el último tiempo la ha hecho gloriosa, por el camino del mar, al otro lado del Jordán, Galilea de las naciones. ^a^ ^b^ ^c^ 
+^a^[**9:1** Luc 1,79] ^b^[**9:1** Luc 1,79] ^c^[**9:1** Luc 1,79]
 
-^2^ El pueblo que caminaba en la oscuridad ha visto una gran luz. La luz ha brillado sobre los que vivían en el país de la sombra de la muerte. ^3^ Has multiplicado la nación. Has aumentado su alegría. Se alegran ante ti según la alegría de la cosecha, como se alegran los hombres cuando se reparten el botín. ^a^ 
-^a^[**9:3** Jue 7,22]
+^2^ El pueblo que caminaba en la oscuridad ha visto una gran luz. La luz ha brillado sobre los que vivían en el país de la sombra de la muerte. ^3^ Has multiplicado la nación. Has aumentado su alegría. Se alegran ante ti según la alegría de la cosecha, como se alegran los hombres cuando se reparten el botín. ^a^ ^b^ ^c^ 
+^a^[**9:3** Jue 7,22] ^b^[**9:3** Jue 7,22] ^c^[**9:3** Jue 7,22]
 
-^4^ Porque el yugo de su carga, y el bastón de su hombro, la vara de su opresor, has roto como en el día de Madián. ^5^ Porque toda la armadura del hombre armado en la batalla ruidosa, y las vestiduras revueltas en sangre, serán para arder, combustible para el fuego. ^6^ Porque nos ha nacido un niño. Un hijo se nos ha dado; y el gobierno estará sobre sus hombros. Su nombre será llamado Consejero maravilloso, Dios poderoso, Padre eterno, Príncipe de la paz. ^a^ 
-^a^[**9:6** Is 11,-1; Sal 72,3-4; 2Sam 7,12-13; Luc 1,32]
+^4^ Porque el yugo de su carga, y el bastón de su hombro, la vara de su opresor, has roto como en el día de Madián. ^5^ Porque toda la armadura del hombre armado en la batalla ruidosa, y las vestiduras revueltas en sangre, serán para arder, combustible para el fuego. ^6^ Porque nos ha nacido un niño. Un hijo se nos ha dado; y el gobierno estará sobre sus hombros. Su nombre será llamado Consejero maravilloso, Dios poderoso, Padre eterno, Príncipe de la paz. ^a^ ^b^ ^c^ 
+^a^[**9:6** Is 11,-1; Sal 72,3-4; 2Sam 7,12-13; Luc 1,32] ^b^[**9:6** Is 11,-1; Sal 72,3-4; 2Sam 7,12-13; Luc 1,32] ^c^[**9:6** Is 11,-1; Sal 72,3-4; 2Sam 7,12-13; Luc 1,32]
 
 ^7^ El aumento de su gobierno y de la paz no tendrá fin, en el trono de David y en su reino, para establecerlo y sostenerlo con justicia y con rectitud desde entonces y para siempre. El celo de Yahvé de los Ejércitos lo llevará a cabo. 
+
+
+
+
 
 ## Los castigos del altivo reino norteño de Efraín no han tenido ningún efecto en todo Israel
 ^8^ El Señor envió una palabra a Jacob, y cae sobre Israel. ^9^ Todo el pueblo lo sabrá, incluyendo a Efraín y a los habitantes de Samaria, que dicen con orgullo y arrogancia de corazón, ^10^ “Los ladrillos han caído, pero construiremos con piedra cortada. Las higueras de sicomoro han sido cortadas, pero pondremos cedros en su lugar”. ^11^ Por lo tanto, Yahvé pondrá en alto a los adversarios de Rezín, y agitará a sus enemigos, ^12^ Los sirios al frente, y los filisteos detrás; y devorarán a Israel con la boca abierta. Por todo esto, su ira no se desvía, pero su mano está extendida todavía. 
 
+
+
+
+
 ## La gente impenitente tampoco ha mejorado con las pérdidas masivas de personas
-^13^ Sin embargo, el pueblo no se ha vuelto hacia el que lo golpeó, ni han buscado a Yahvé de los Ejércitos. ^a^ ^14^ Por eso el Señor cortará de Israel la cabeza y la cola, rama de palma y caña, en un día. ^15^ El hombre mayor y honorable es la cabeza, y el profeta que enseña la mentira es la cola. ^16^ Porque los que guían a este pueblo lo extravían; y los que son guiados por ellos son destruidos. ^17^ Por eso el Señor no se alegrará de sus jóvenes, ni tendrá compasión de sus huérfanos y viudas; porque todos son profanos y malhechores, y toda boca habla con locura. Por todo esto su ira no se desvía, pero su mano está extendida todavía.
-^a^[**9:13** Is 10,33]
+^13^ Sin embargo, el pueblo no se ha vuelto hacia el que lo golpeó, ni han buscado a Yahvé de los Ejércitos. ^a^ ^b^ ^c^ ^14^ Por eso el Señor cortará de Israel la cabeza y la cola, rama de palma y caña, en un día. ^15^ El hombre mayor y honorable es la cabeza, y el profeta que enseña la mentira es la cola. ^16^ Porque los que guían a este pueblo lo extravían; y los que son guiados por ellos son destruidos. ^17^ Por eso el Señor no se alegrará de sus jóvenes, ni tendrá compasión de sus huérfanos y viudas; porque todos son profanos y malhechores, y toda boca habla con locura. Por todo esto su ira no se desvía, pero su mano está extendida todavía.
+^a^[**9:13** Is 10,33] ^b^[**9:13** Is 10,33] ^c^[**9:13** Is 10,33]
+
+
+
+
 
 ## La autodestrucción interior inexorablemente progresiva
-^18^ Porque la maldad arde como el fuego. Devora las zarzas y las espinas; sí, se enciende en la espesura del bosque, y ruedan hacia arriba en una columna de humo. ^19^ Por la ira de Yahvé de los Ejércitos, la tierra es quemada; y la gente es el combustible para el fuego. Nadie perdona a su hermano. ^20^ Uno devorará a la derecha y tendrá hambre; y comerá a la izquierda, y no quedarán satisfechos. Cada uno comerá la carne de su propio brazo: ^a^ ^21^ Manasés comiendo a Efraín y Efraín comiendo a Manasés, y juntos estarán contra Judá. Por todo esto su ira no se desvía, pero su mano está extendida todavía.
-^a^[**9:20** Is 10,4]
+^18^ Porque la maldad arde como el fuego. Devora las zarzas y las espinas; sí, se enciende en la espesura del bosque, y ruedan hacia arriba en una columna de humo. ^19^ Por la ira de Yahvé de los Ejércitos, la tierra es quemada; y la gente es el combustible para el fuego. Nadie perdona a su hermano. ^20^ Uno devorará a la derecha y tendrá hambre; y comerá a la izquierda, y no quedarán satisfechos. Cada uno comerá la carne de su propio brazo: ^a^ ^b^ ^c^ ^21^ Manasés comiendo a Efraín y Efraín comiendo a Manasés, y juntos estarán contra Judá. Por todo esto su ira no se desvía, pero su mano está extendida todavía.
+^a^[**9:20** Is 10,4] ^b^[**9:20** Is 10,4] ^c^[**9:20** Is 10,4]
 
 # 10 
 ## ¡Ay de las cabezas despreciables del pueblo! Un destino terrible te espera
@@ -197,23 +297,43 @@
 
 ^4^ Sólo se inclinarán bajo los prisioneros, y caerá bajo los muertos. Por todo esto su ira no se desvía, pero su mano está extendida todavía. 
 
+
+
+
+
 ## Asiria ha transgredido el mandato de Dios con arrogancia
-^5^ ¡Ay, Asirio, vara de mi ira, báculo en cuya mano está mi indignación! ^a^ ^6^ Lo enviaré contra una nación profana, y contra el pueblo que me enfurece le daré la orden de tomar el botín y de apoderarse de la presa, y de hollarlos como el lodo de las calles. ^7^ Sin embargo, él no tiene esa intención, ni su corazón piensa así, sino que está en su corazón destruir, y cortar no pocas naciones. ^8^ Porque dice: “¿No son todos mis príncipes reyes? ^9^ ¿No es Calno como Carchemish? ¿No es Hamat como Arpad? ¿No es Samaria como Damasco?” ^10^ Como mi mano ha encontrado los reinos de los ídolos, cuyas imágenes grabadas superaban a las de Jerusalén y de Samaria, ^b^ ^11^ ¿no haré, como he hecho con Samaria y sus ídolos, lo mismo con Jerusalén y sus ídolos?
-^a^[**10:5** Is 7,20] ^b^[**10:10** Is 36,18-20]
+^5^ ¡Ay, Asirio, vara de mi ira, báculo en cuya mano está mi indignación! ^a^ ^b^ ^c^ ^6^ Lo enviaré contra una nación profana, y contra el pueblo que me enfurece le daré la orden de tomar el botín y de apoderarse de la presa, y de hollarlos como el lodo de las calles. ^7^ Sin embargo, él no tiene esa intención, ni su corazón piensa así, sino que está en su corazón destruir, y cortar no pocas naciones. ^8^ Porque dice: “¿No son todos mis príncipes reyes? ^9^ ¿No es Calno como Carchemish? ¿No es Hamat como Arpad? ¿No es Samaria como Damasco?” ^10^ Como mi mano ha encontrado los reinos de los ídolos, cuyas imágenes grabadas superaban a las de Jerusalén y de Samaria, ^d^ ^e^ ^f^ ^11^ ¿no haré, como he hecho con Samaria y sus ídolos, lo mismo con Jerusalén y sus ídolos?
+^a^[**10:5** Is 7,20] ^b^[**10:5** Is 7,20] ^c^[**10:5** Is 7,20] ^d^[**10:10** Is 36,18-20] ^e^[**10:10** Is 36,18-20] ^f^[**10:10** Is 36,18-20]
+
+
+
+
 
 ## El juicio divino sobre la arrogancia de los asirios
 ^12^ Por lo tanto, sucederá que cuando el Señor haya realizado toda su obra en el monte Sión y en Jerusalén, castigaré el fruto de la soberbia del corazón del rey de Asiria y la insolencia de su mirada arrogante. ^13^ Porque él ha dicho: “Con la fuerza de mi mano lo he hecho, y con mi sabiduría, pues tengo entendimiento. He removido los límites de los pueblos, y he robado sus tesoros. Como un hombre valiente he derribado a sus gobernantes. ^14^ Mi mano ha encontrado las riquezas de los pueblos como un nido, y como se recogen los huevos abandonados, he recogido toda la tierra. No hubo ninguno que moviera el ala, ni que abriera la boca, ni que piara”. 
 
-^15^ ¿Deberá el hacha jactarse del que corta con ella? ¿Acaso la sierra debe enaltecerse sobre el que sierra con ella? Como si una vara levantara al que la levanta, o como si un bastón levantara al que no es de madera. ^a^ ^16^ Por eso el Señor, Yahvé de los Ejércitos, enviará entre sus gordos la delgadez; y bajo su gloria se encenderá un fuego como el fuego. ^17^ La luz de Israel será como un fuego, y su Santo como una llama; y quemará y devorará sus espinas y sus cardos en un solo día. ^18^ Consumirá la gloria de su bosque y de su campo fructífero, tanto el alma como el cuerpo. Será como cuando un abanderado desfallece. ^19^ El remanente de los árboles de su bosque será escaso, de modo que un niño podría escribir su número.
-^a^[**10:15** Is 10,5]
+^15^ ¿Deberá el hacha jactarse del que corta con ella? ¿Acaso la sierra debe enaltecerse sobre el que sierra con ella? Como si una vara levantara al que la levanta, o como si un bastón levantara al que no es de madera. ^a^ ^b^ ^c^ ^16^ Por eso el Señor, Yahvé de los Ejércitos, enviará entre sus gordos la delgadez; y bajo su gloria se encenderá un fuego como el fuego. ^17^ La luz de Israel será como un fuego, y su Santo como una llama; y quemará y devorará sus espinas y sus cardos en un solo día. ^18^ Consumirá la gloria de su bosque y de su campo fructífero, tanto el alma como el cuerpo. Será como cuando un abanderado desfallece. ^19^ El remanente de los árboles de su bosque será escaso, de modo que un niño podría escribir su número.
+^a^[**10:15** Is 10,5] ^b^[**10:15** Is 10,5] ^c^[**10:15** Is 10,5]
+
+
+
+
 
 ## La salvación del remanente de Israel, reparada por la Visitación
-^20^ Sucederá en ese día que el remanente de Israel y los que hayan escapado de la casa de Jacob no volverán a apoyarse en el que los golpeó, sino que se apoyarán en Yahvé, el Santo de Israel, en la verdad. ^21^ Un remanente volverá, el remanente de Jacob, al Dios poderoso. ^22^ Porque aunque tu pueblo, Israel, es como la arena del mar, sólo un remanente de él volverá. Se ha determinado una destrucción desbordante de justicia. ^a^ ^23^ Porque el Señor, Yahvé de los Ejércitos, hará un final completo, y determinado, en toda la tierra. ^b^ 
-^a^[**10:22** Rom 9,27] ^b^[**10:23** Is 28,22]
+^20^ Sucederá en ese día que el remanente de Israel y los que hayan escapado de la casa de Jacob no volverán a apoyarse en el que los golpeó, sino que se apoyarán en Yahvé, el Santo de Israel, en la verdad. ^21^ Un remanente volverá, el remanente de Jacob, al Dios poderoso. ^22^ Porque aunque tu pueblo, Israel, es como la arena del mar, sólo un remanente de él volverá. Se ha determinado una destrucción desbordante de justicia. ^a^ ^b^ ^c^ ^23^ Porque el Señor, Yahvé de los Ejércitos, hará un final completo, y determinado, en toda la tierra. ^d^ ^e^ ^f^ 
+^a^[**10:22** Rom 9,27] ^b^[**10:22** Rom 9,27] ^c^[**10:22** Rom 9,27] ^d^[**10:23** Is 28,22] ^e^[**10:23** Is 28,22] ^f^[**10:23** Is 28,22]
+
+
+
+
 
 ## Dios anima a su pueblo al anunciar la destrucción del enemigo que se aproxima
-^24^ Por eso el Señor, Yahvé de los Ejércitos, dice: “Pueblo mío que habitas en Sión, no tengas miedo del asirio, aunque te golpee con la vara y levante su bastón contra ti, como hizo Egipto. ^25^ Todavía falta muy poco, y la indignación contra ustedes se cumplirá, y mi ira se dirigirá a su destrucción.” ^26^ El Señor de los Ejércitos levantará un azote contra él, como en la matanza de Madián en la roca de Oreb. Su vara estará sobre el mar, y la levantará como lo hizo contra Egipto. ^a^ ^27^ Sucederá en ese día que su carga se apartará de tu hombro, y su yugo de tu cuello, y el yugo será destruido a causa del aceite de la unción.
-^a^[**10:26** Jue 7,25; Éxod 14,26]
+^24^ Por eso el Señor, Yahvé de los Ejércitos, dice: “Pueblo mío que habitas en Sión, no tengas miedo del asirio, aunque te golpee con la vara y levante su bastón contra ti, como hizo Egipto. ^25^ Todavía falta muy poco, y la indignación contra ustedes se cumplirá, y mi ira se dirigirá a su destrucción.” ^26^ El Señor de los Ejércitos levantará un azote contra él, como en la matanza de Madián en la roca de Oreb. Su vara estará sobre el mar, y la levantará como lo hizo contra Egipto. ^a^ ^b^ ^c^ ^27^ Sucederá en ese día que su carga se apartará de tu hombro, y su yugo de tu cuello, y el yugo será destruido a causa del aceite de la unción.
+^a^[**10:26** Jue 7,25; Éxod 14,26] ^b^[**10:26** Jue 7,25; Éxod 14,26] ^c^[**10:26** Jue 7,25; Éxod 14,26]
+
+
+
+
 
 ## El acercamiento del enemigo desde el norte y su destrucción ante Jerusalén
 ^28^ Ha llegado a Aiath. Ha pasado por Migrón. En Michmash guarda su equipaje. ^29^ Han atravesado el paso. Se han alojado en Geba. Ramá tiembla. Gabaa de Saúl ha huido. ^30^ ¡Grita con tu voz, hija de Galim! ¡Escucha, Laishah! ¡Pobre Anatot! ^31^ Madmena es una fugitiva. Los habitantes de Gebim huyen para ponerse a salvo. ^32^ Hoy mismo se detendrá en Nob. Se estrechará en el monte de la hija de Sión, en la colina de Jerusalén. 
@@ -222,77 +342,121 @@
 
 # 11 
 ## El vástago de David se llenó del espíritu de Dios como fundador del futuro reino de paz
-^1^ Un brote saldrá del tronco de Jesé, y una rama de sus raíces dará fruto. ^2^ El Espíritu de Yahvé descansará sobre él: el espíritu de la sabiduría y el entendimiento, el espíritu del consejo y la fuerza, el espíritu del conocimiento y del temor de Yahvé. ^a^ ^3^ Su deleite estará en el temor de Yahvé. No juzgará por la vista de sus ojos, ni decidir por el oído; ^4^ pero juzgará a los pobres con justicia, y decide con equidad para los humildes de la tierra. Golpeará la tierra con la vara de su boca; y con el aliento de sus labios matará a los malvados. ^5^ La justicia será el cinturón de su cintura, y la fidelidad el cinturón alrededor de su cintura. 
-^a^[**11:2** Is 42,1; Mat 12,18]
+^1^ Un brote saldrá del tronco de Jesé, y una rama de sus raíces dará fruto. ^2^ El Espíritu de Yahvé descansará sobre él: el espíritu de la sabiduría y el entendimiento, el espíritu del consejo y la fuerza, el espíritu del conocimiento y del temor de Yahvé. ^a^ ^b^ ^c^ ^3^ Su deleite estará en el temor de Yahvé. No juzgará por la vista de sus ojos, ni decidir por el oído; ^4^ pero juzgará a los pobres con justicia, y decide con equidad para los humildes de la tierra. Golpeará la tierra con la vara de su boca; y con el aliento de sus labios matará a los malvados. ^5^ La justicia será el cinturón de su cintura, y la fidelidad el cinturón alrededor de su cintura. 
+^a^[**11:2** Is 42,1; Mat 12,18] ^b^[**11:2** Is 42,1; Mat 12,18] ^c^[**11:2** Is 42,1; Mat 12,18]
 
-^6^ El lobo vivirá con el cordero, y el leopardo se acostará con el cabrito, el ternero, el león joven y el ternero cebado juntos; y un niño pequeño los guiará. ^a^ ^7^ La vaca y el oso pastarán. Sus crías se acostarán juntas. El león comerá paja como el buey. ^8^ El niño lactante jugará cerca del agujero de una cobra, y el niño destetado pondrá su mano en la guarida de la víbora. ^9^ No harán daño ni destruirán en todo mi santo monte; porque la tierra estará llena del conocimiento de Yahvé, como las aguas cubren el mar.
-^a^[**11:6** Is 65,25]
+^6^ El lobo vivirá con el cordero, y el leopardo se acostará con el cabrito, el ternero, el león joven y el ternero cebado juntos; y un niño pequeño los guiará. ^a^ ^b^ ^c^ ^7^ La vaca y el oso pastarán. Sus crías se acostarán juntas. El león comerá paja como el buey. ^8^ El niño lactante jugará cerca del agujero de una cobra, y el niño destetado pondrá su mano en la guarida de la víbora. ^9^ No harán daño ni destruirán en todo mi santo monte; porque la tierra estará llena del conocimiento de Yahvé, como las aguas cubren el mar.
+^a^[**11:6** Is 65,25] ^b^[**11:6** Is 65,25] ^c^[**11:6** Is 65,25]
+
+
+
+
 
 ## El recogimiento del pueblo de Dios esparcido y la gloria del reino del Mesías al mundo exterior
-^10^ Sucederá en ese día que las naciones buscarán la raíz de Jesé, que se erige como estandarte de los pueblos; y su lugar de descanso será glorioso. ^a^ ^11^ Sucederá en ese día que el Señor volverá a poner su mano por segunda vez para recuperar el remanente que queda de su pueblo de Asiria, de Egipto, de Patros, de Cus, de Elam, de Sinar, de Hamat y de las islas del mar. ^12^ Él levantará un estandarte para las naciones, y reunirá a los desterrados de Israel, y reunirá a los dispersos de Judá desde los cuatro rincones de la tierra. ^13^ También la envidia de Efraín se alejará, y los que persiguen a Judá serán eliminados. Efraín no envidiará a Judá, y Judá no perseguirá a Efraín. ^14^ Volarán sobre los hombros de los filisteos en el oeste. Juntos saquearán a los hijos del este. Extenderán su poder sobre Edom y Moab, y los hijos de Amón les obedecerán. ^15^ El Señor destruirá por completo la lengua del mar egipcio, y con su viento abrasador agitará su mano sobre el río, lo dividirá en siete arroyos y hará que los hombres marchen con sandalias. ^16^ Habrá un camino para el remanente que quede de su pueblo desde Asiria, como lo hubo para Israel el día que subió de la tierra de Egipto. ^b^ 
-^a^[**11:10** Rom 15,12] ^b^[**11:16** Éxod 14,29]
+^10^ Sucederá en ese día que las naciones buscarán la raíz de Jesé, que se erige como estandarte de los pueblos; y su lugar de descanso será glorioso. ^a^ ^b^ ^c^ ^11^ Sucederá en ese día que el Señor volverá a poner su mano por segunda vez para recuperar el remanente que queda de su pueblo de Asiria, de Egipto, de Patros, de Cus, de Elam, de Sinar, de Hamat y de las islas del mar. ^12^ Él levantará un estandarte para las naciones, y reunirá a los desterrados de Israel, y reunirá a los dispersos de Judá desde los cuatro rincones de la tierra. ^13^ También la envidia de Efraín se alejará, y los que persiguen a Judá serán eliminados. Efraín no envidiará a Judá, y Judá no perseguirá a Efraín. ^14^ Volarán sobre los hombros de los filisteos en el oeste. Juntos saquearán a los hijos del este. Extenderán su poder sobre Edom y Moab, y los hijos de Amón les obedecerán. ^15^ El Señor destruirá por completo la lengua del mar egipcio, y con su viento abrasador agitará su mano sobre el río, lo dividirá en siete arroyos y hará que los hombres marchen con sandalias. ^16^ Habrá un camino para el remanente que quede de su pueblo desde Asiria, como lo hubo para Israel el día que subió de la tierra de Egipto. ^d^ ^e^ ^f^ 
+^a^[**11:10** Rom 15,12] ^b^[**11:10** Rom 15,12] ^c^[**11:10** Rom 15,12] ^d^[**11:16** Éxod 14,29] ^e^[**11:16** Éxod 14,29] ^f^[**11:16** Éxod 14,29]
 
 # 12 
 ## Oración y votos de agradecimiento de la Iglesia Sion salvado
-^1^ En ese día dirás: “Te daré gracias, Yahvé; porque aunque te enojaste conmigo, tu ira se ha apartado y me consuelas. ^2^ He aquí que Dios es mi salvación. Confiaré y no temeré; porque Yah, Yahvé, es mi fuerza y mi canción; y él se ha convertido en mi salvación.” ^3^ Por eso, con alegría sacarás agua de los pozos de la salvación. ^a^ ^4^ En ese día dirás: “¡Gracias a Yahvé! ¡Invocad su nombre! ¡Anuncien sus obras entre los pueblos! Proclamad que su nombre es excelso. ^b^ ^5^ ¡Cantad a Yahvé, porque ha hecho cosas excelentes! ¡Que esto se sepa en toda la tierra! ^6^ ¡Griten y den voces, habitantes de Sión, porque el Santo de Israel es grande entre ustedes!”
-^a^[**12:3** Zac 13,1; Sal 46,5] ^b^[**12:4** 1Cró 16,8; Sal 105,1]
+^1^ En ese día dirás: “Te daré gracias, Yahvé; porque aunque te enojaste conmigo, tu ira se ha apartado y me consuelas. ^2^ He aquí que Dios es mi salvación. Confiaré y no temeré; porque Yah, Yahvé, es mi fuerza y mi canción; y él se ha convertido en mi salvación.” ^3^ Por eso, con alegría sacarás agua de los pozos de la salvación. ^a^ ^b^ ^c^ ^4^ En ese día dirás: “¡Gracias a Yahvé! ¡Invocad su nombre! ¡Anuncien sus obras entre los pueblos! Proclamad que su nombre es excelso. ^d^ ^e^ ^f^ ^5^ ¡Cantad a Yahvé, porque ha hecho cosas excelentes! ¡Que esto se sepa en toda la tierra! ^6^ ¡Griten y den voces, habitantes de Sión, porque el Santo de Israel es grande entre ustedes!”
+^a^[**12:3** Zac 13,1; Sal 46,5] ^b^[**12:3** Zac 13,1; Sal 46,5] ^c^[**12:3** Zac 13,1; Sal 46,5] ^d^[**12:4** 1Cró 16,8; Sal 105,1] ^e^[**12:4** 1Cró 16,8; Sal 105,1] ^f^[**12:4** 1Cró 16,8; Sal 105,1]
 
 # 13 
 ## Juicio sobre la ciudad de Babilonia
-^1^ La carga de Babilonia que vio Isaías, hijo de Amoz. ^a^ 
-^a^[**13:1** Jer 50,-1; Jer 51,1-51]
+^1^ La carga de Babilonia que vio Isaías, hijo de Amoz. ^a^ ^b^ ^c^ 
+^a^[**13:1** Jer 50,-1; Jer 51,1-51] ^b^[**13:1** Jer 50,-1; Jer 51,1-51] ^c^[**13:1** Jer 50,-1; Jer 51,1-51]
+
+
+
+
 
 ## Anuncio del Día Mundial del Juicio; el aterrador acercamiento del ejército convocado por Dios
-^2^ ¡Establece una bandera en la montaña desnuda! ¡Alza tu voz hacia ellos! Agita tu mano, para que entren en las puertas de los nobles. ^a^ ^3^ He ordenado a mis consagrados; sí, he llamado a mis valientes para mi ira, a mis orgullosos exaltados. ^4^ ¡El ruido de una multitud está en los montes, como de un gran pueblo; el ruido de un alboroto de los reinos de las naciones reunidos! El Señor de los Ejércitos está reuniendo el ejército para la batalla. ^5^ Vienen de un país lejano, del extremo del cielo, Yahvé, y las armas de su indignación, para destruir toda la tierra. 
-^a^[**13:2** Is 13,17]
+^2^ ¡Establece una bandera en la montaña desnuda! ¡Alza tu voz hacia ellos! Agita tu mano, para que entren en las puertas de los nobles. ^a^ ^b^ ^c^ ^3^ He ordenado a mis consagrados; sí, he llamado a mis valientes para mi ira, a mis orgullosos exaltados. ^4^ ¡El ruido de una multitud está en los montes, como de un gran pueblo; el ruido de un alboroto de los reinos de las naciones reunidos! El Señor de los Ejércitos está reuniendo el ejército para la batalla. ^5^ Vienen de un país lejano, del extremo del cielo, Yahvé, y las armas de su indignación, para destruir toda la tierra. 
+^a^[**13:2** Is 13,17] ^b^[**13:2** Is 13,17] ^c^[**13:2** Is 13,17]
 
-^6^ ¡Lloren, porque se acerca el día de Yahvé! Vendrá como una destrucción del Todopoderoso. ^a^ ^7^ Por eso todas las manos se debilitarán, y el corazón de todos se derretirá. ^8^ Estarán consternados. Se apoderarán de ellos dolores y penas. Tendrán dolores como una mujer de parto. Se mirarán con asombro unos a otros. Sus rostros serán rostros de fuego.
-^a^[**13:6** Jl 1,15]
+^6^ ¡Lloren, porque se acerca el día de Yahvé! Vendrá como una destrucción del Todopoderoso. ^a^ ^b^ ^c^ ^7^ Por eso todas las manos se debilitarán, y el corazón de todos se derretirá. ^8^ Estarán consternados. Se apoderarán de ellos dolores y penas. Tendrán dolores como una mujer de parto. Se mirarán con asombro unos a otros. Sus rostros serán rostros de fuego.
+^a^[**13:6** Jl 1,15] ^b^[**13:6** Jl 1,15] ^c^[**13:6** Jl 1,15]
+
+
+
+
 
 ## Los horrores y terribles efectos de este día del juicio (también en la naturaleza)
-^9^ He aquí que viene el día de Yahvé, cruel, con cólera y furor; para hacer de la tierra una desolación, y para destruir de ella a sus pecadores. ^10^ Porque las estrellas del cielo y sus constelaciones no darán su luz. El sol se oscurecerá al salir, y la luna no hará brillar su luz. ^11^ Castigaré al mundo por su maldad, y a los impíos por su iniquidad. Haré cesar la arrogancia de los soberbios, y humillaré la prepotencia de los terribles. ^12^ Haré que las personas sean más raras que el oro fino, que el oro puro de Ofir. ^a^ ^13^ Por eso haré temblar los cielos, y la tierra será sacudida de su lugar en la ira del Señor de los Ejércitos, y en el día de su furia. ^14^ Sucederá que, como gacela cazada y como oveja que nadie recoge, cada uno se volverá a su pueblo y huirá a su tierra. ^15^ Todo el que sea encontrado será atravesado. Todo el que sea capturado caerá a espada. ^16^ Sus hijos también serán despedazados ante sus ojos. Sus casas serán saqueadas, y sus mujeres violadas.
-^a^[**13:12** 1Re 9,28]
+^9^ He aquí que viene el día de Yahvé, cruel, con cólera y furor; para hacer de la tierra una desolación, y para destruir de ella a sus pecadores. ^10^ Porque las estrellas del cielo y sus constelaciones no darán su luz. El sol se oscurecerá al salir, y la luna no hará brillar su luz. ^11^ Castigaré al mundo por su maldad, y a los impíos por su iniquidad. Haré cesar la arrogancia de los soberbios, y humillaré la prepotencia de los terribles. ^12^ Haré que las personas sean más raras que el oro fino, que el oro puro de Ofir. ^a^ ^b^ ^c^ ^13^ Por eso haré temblar los cielos, y la tierra será sacudida de su lugar en la ira del Señor de los Ejércitos, y en el día de su furia. ^14^ Sucederá que, como gacela cazada y como oveja que nadie recoge, cada uno se volverá a su pueblo y huirá a su tierra. ^15^ Todo el que sea encontrado será atravesado. Todo el que sea capturado caerá a espada. ^16^ Sus hijos también serán despedazados ante sus ojos. Sus casas serán saqueadas, y sus mujeres violadas.
+^a^[**13:12** 1Re 9,28] ^b^[**13:12** 1Re 9,28] ^c^[**13:12** 1Re 9,28]
+
+
+
+
 
 ## La conquista y destrucción de Babilonia por los medos
-^17^ He aquí que yo despierto contra ellos a los medos, que no valorarán la plata, y en cuanto al oro, no se deleitarán en él. ^18^ Sus arcos harán pedazos a los jóvenes, y no tendrán piedad del fruto del vientre. Sus ojos no perdonarán a los niños. ^a^ ^19^ Babilonia, la gloria de los reinos, la belleza del orgullo de los caldeos, será como cuando Dios derribó a Sodoma y Gomorra. ^b^ ^20^ Nunca será habitada, ni se habitará de generación en generación. El árabe no levantará allí una tienda, ni los pastores harán descansar allí sus rebaños. ^21^ Pero los animales salvajes del desierto se acostarán allí, y sus casas estarán llenas de chacales. Los avestruces habitarán allí, y las cabras salvajes retozarán. ^22^ Las hienas gritarán en sus fortalezas, y los chacales en los palacios agradables. Su tiempo está próximo a llegar, y sus días no se prolongarán. ^c^ 
-^a^[**13:18** Is 13,16] ^b^[**13:19** Gén 19,24-25] ^c^[**13:22** Is 34,10-15]
+^17^ He aquí que yo despierto contra ellos a los medos, que no valorarán la plata, y en cuanto al oro, no se deleitarán en él. ^18^ Sus arcos harán pedazos a los jóvenes, y no tendrán piedad del fruto del vientre. Sus ojos no perdonarán a los niños. ^a^ ^b^ ^c^ ^19^ Babilonia, la gloria de los reinos, la belleza del orgullo de los caldeos, será como cuando Dios derribó a Sodoma y Gomorra. ^d^ ^e^ ^f^ ^20^ Nunca será habitada, ni se habitará de generación en generación. El árabe no levantará allí una tienda, ni los pastores harán descansar allí sus rebaños. ^21^ Pero los animales salvajes del desierto se acostarán allí, y sus casas estarán llenas de chacales. Los avestruces habitarán allí, y las cabras salvajes retozarán. ^22^ Las hienas gritarán en sus fortalezas, y los chacales en los palacios agradables. Su tiempo está próximo a llegar, y sus días no se prolongarán. ^g^ ^h^ ^i^ 
+^a^[**13:18** Is 13,16] ^b^[**13:18** Is 13,16] ^c^[**13:18** Is 13,16] ^d^[**13:19** Gén 19,24-25] ^e^[**13:19** Gén 19,24-25] ^f^[**13:19** Gén 19,24-25] ^g^[**13:22** Is 34,10-15] ^h^[**13:22** Is 34,10-15] ^i^[**13:22** Is 34,10-15]
 
 # 14 
 ## Dios restaurará a su pueblo Israel por misericordia después de la caída de Babilonia
-^1^ Porque el Señor se compadecerá de Jacob, y aún escogerá a Israel, y lo pondrá en su propia tierra. El extranjero se unirá a ellos, y ellos se unirán a la casa de Jacob. ^a^ ^2^ Los pueblos los tomarán y los llevarán a su lugar. La casa de Israel los poseerá en la tierra de Yavé como siervos y siervas. Tomarán como cautivos a los que fueron cautivos; y gobernarán a sus opresores. ^b^ 
-^a^[**14:1** Zac 1,17] ^b^[**14:2** Is 49,22]
+^1^ Porque el Señor se compadecerá de Jacob, y aún escogerá a Israel, y lo pondrá en su propia tierra. El extranjero se unirá a ellos, y ellos se unirán a la casa de Jacob. ^a^ ^b^ ^c^ ^2^ Los pueblos los tomarán y los llevarán a su lugar. La casa de Israel los poseerá en la tierra de Yavé como siervos y siervas. Tomarán como cautivos a los que fueron cautivos; y gobernarán a sus opresores. ^d^ ^e^ ^f^ 
+^a^[**14:1** Zac 1,17] ^b^[**14:1** Zac 1,17] ^c^[**14:1** Zac 1,17] ^d^[**14:2** Is 49,22] ^e^[**14:2** Is 49,22] ^f^[**14:2** Is 49,22]
+
+
+
+
 
 ## Canción burlona del pueblo liberado de Israel sobre el derrocamiento del rey de Babilonia
 ^3^ Sucederá en el día en que Yahvé te dé descanso de tu dolor, de tu angustia y del duro servicio en el que te hicieron servir, 
 
+
+
+
+
 ## Alegría de toda la tierra por la caída de los poderosos
-^4^ que tomarás esta parábola contra el rey de Babilonia, y dirás: “¡Cómo ha cesado el opresor! La ciudad de oro ha cesado!” ^5^ Yahvé ha quebrado el báculo de los malvados, el cetro de los gobernantes, ^6^ que golpeaban con ira a los pueblos con un golpe continuo, que gobernaban a las naciones con ira, con una persecución que nadie frenaba. ^7^ Toda la tierra descansa y se aquieta. Prorrumpen en cánticos. ^8^ Sí, los cipreses se alegran contigo, con los cedros del Líbano, diciendo: “Desde que te humillaste, ningún leñador ha subido contra nosotros.” ^a^ 
-^a^[**14:8** Is 37,24]
+^4^ que tomarás esta parábola contra el rey de Babilonia, y dirás: “¡Cómo ha cesado el opresor! La ciudad de oro ha cesado!” ^5^ Yahvé ha quebrado el báculo de los malvados, el cetro de los gobernantes, ^6^ que golpeaban con ira a los pueblos con un golpe continuo, que gobernaban a las naciones con ira, con una persecución que nadie frenaba. ^7^ Toda la tierra descansa y se aquieta. Prorrumpen en cánticos. ^8^ Sí, los cipreses se alegran contigo, con los cedros del Líbano, diciendo: “Desde que te humillaste, ningún leñador ha subido contra nosotros.” ^a^ ^b^ ^c^ 
+^a^[**14:8** Is 37,24] ^b^[**14:8** Is 37,24] ^c^[**14:8** Is 37,24]
+
+
+
+
 
 ## Gozoso asombro del reino de los muertos
 ^9^ El Seol^a^ de abajo se ha movido por ti para recibirte en tu llegada. Se agita los espíritus difuntos para usted, incluso todos los gobernantes de la tierra. Ha levantado de sus tronos a todos los reyes de las naciones. ^10^ Todos ellos responderán y te preguntarán: “¿Te has vuelto tan débil como nosotros? ¿Os habéis vuelto como nosotros?” ^11^ Tu pompa desciende al Seol,^b^ con el sonido de tus instrumentos de cuerda. Los gusanos se extienden debajo de ti, y los gusanos te cubren. 
 ^a^[**14:9** El Seol es el lugar de los muertos.] ^b^[**14:11** El Seol es el lugar de los muertos. ]
 
+
+
+
+
 ## ¡Qué caída de los presuntuosos! ¡Qué final vergonzoso!
-^12^ ¡Cómo has caído del cielo, resplandeciente, hijo de la aurora! ¡Cómo has sido derribado al suelo, el que abatió a las naciones! ^13^ Dijiste en tu corazón: “¡Subiré al cielo! ¡Exaltaré mi trono por encima de las estrellas de Dios! Me sentaré en el monte de la asamblea, en el lejano norte. ^14^ ¡Subiré a las alturas de las nubes! Me haré semejante al Altísimo”. ^a^ ^15^ Sin embargo, serás llevado al Seol,^b^ a las profundidades de la fosa. ^16^ Los que te vean te mirarán fijamente. Te meditarán, diciendo: “¿Es éste el hombre que hizo temblar la tierra, que hizo temblar los reinos, ^17^ que convirtió el mundo en un desierto y asoló sus ciudades, que no liberó a sus prisioneros a su hogar?” 
-^a^[**14:14** Ezeq 28,14] ^b^[**14:15** El Seol es el lugar de los muertos.]
+^12^ ¡Cómo has caído del cielo, resplandeciente, hijo de la aurora! ¡Cómo has sido derribado al suelo, el que abatió a las naciones! ^13^ Dijiste en tu corazón: “¡Subiré al cielo! ¡Exaltaré mi trono por encima de las estrellas de Dios! Me sentaré en el monte de la asamblea, en el lejano norte. ^14^ ¡Subiré a las alturas de las nubes! Me haré semejante al Altísimo”. ^a^ ^b^ ^c^ ^15^ Sin embargo, serás llevado al Seol,^d^ a las profundidades de la fosa. ^16^ Los que te vean te mirarán fijamente. Te meditarán, diciendo: “¿Es éste el hombre que hizo temblar la tierra, que hizo temblar los reinos, ^17^ que convirtió el mundo en un desierto y asoló sus ciudades, que no liberó a sus prisioneros a su hogar?” 
+^a^[**14:14** Ezeq 28,14] ^b^[**14:14** Ezeq 28,14] ^c^[**14:14** Ezeq 28,14] ^d^[**14:15** El Seol es el lugar de los muertos.]
 
 ^18^ Todos los reyes de las naciones duermen en la gloria, cada uno en su casa. ^19^ Pero tú eres arrojado de tu tumba como una rama abominable, vestido con los muertos que son atravesados por la espada, que descienden a las piedras de la fosa; como un cadáver pisoteado. ^20^ No te unirás a ellos en la sepultura, porque has destruido tu tierra. Has matado a tu pueblo. La descendencia de los malhechores no será nombrada para siempre. 
 
-^21^ Prepara la matanza de sus hijos a causa de la iniquidad de sus padres, para que no se levanten y posean la tierra y llenen de ciudades la superficie del mundo. ^a^ 
-^a^[**14:21** Éxod 20,5]
+^21^ Prepara la matanza de sus hijos a causa de la iniquidad de sus padres, para que no se levanten y posean la tierra y llenen de ciudades la superficie del mundo. ^a^ ^b^ ^c^ 
+^a^[**14:21** Éxod 20,5] ^b^[**14:21** Éxod 20,5] ^c^[**14:21** Éxod 20,5]
+
+
+
+
 
 ## El juicio afirmativo de destrucción de Dios
 ^22^ “Me levantaré contra ellos — dice el Señor de los Ejércitos — y cortaré de Babilonia el nombre y el remanente, el hijo y el hijo del hijo — dice el Señor — ^23^ “También la convertiré en una posesión para el puercoespín, y en estanques de agua. La barreré con la escoba de la destrucción”, dice el Señor de los Ejércitos. 
 
+
+
+
+
 ## Amenaza a Asiria en caso de ataque a Israel
 ^24^ El Señor de los Ejércitos ha jurado, diciendo: “Ciertamente, como lo he pensado, así sucederá; y como lo he propuesto, así será: ^25^ que quebraré al asirio en mi tierra, y lo pisotearé en mis montes. Entonces su yugo los abandonará, y su carga dejará sus hombros. ^26^ Este es el plan que está determinado para toda la tierra. Esta es la mano que está extendida sobre todas las naciones. ^27^ Porque el Señor de los Ejércitos ha planeado, y ¿quién puede detenerlo? Su mano está extendida, ¿y quién podrá hacerla retroceder?” 
+
+
+
+
 
 ## Amenaza contra los filisteos y salvación para Jerusalén
 ^28^ Esta carga fue en el año en que murió el rey Acaz. 
 
-^29^ No os alegréis, oh Filistea, todos vosotros, porque la vara que os golpeaba se ha quebrado; porque de la raíz de la serpiente saldrá una víbora, y su fruto será una serpiente ardiente y voladora. ^a^ ^30^ Los primogénitos de los pobres comerán, y los necesitados se acostarán con seguridad; y yo mataré tu raíz con el hambre, y tu remanente morirá. 
-^a^[**14:29** Jer 47,-1]
+^29^ No os alegréis, oh Filistea, todos vosotros, porque la vara que os golpeaba se ha quebrado; porque de la raíz de la serpiente saldrá una víbora, y su fruto será una serpiente ardiente y voladora. ^a^ ^b^ ^c^ ^30^ Los primogénitos de los pobres comerán, y los necesitados se acostarán con seguridad; y yo mataré tu raíz con el hambre, y tu remanente morirá. 
+^a^[**14:29** Jer 47,-1] ^b^[**14:29** Jer 47,-1] ^c^[**14:29** Jer 47,-1]
 
 ^31^ ¡Aúlla, puerta! ¡Grita, ciudad! Os habéis derretido, Filistea, todos vosotros; porque el humo sale del norte, y no hay ningún rezagado en sus filas. 
 
@@ -302,34 +466,46 @@
 ## Lamento por la desolación de Moab
 ^1^ La carga de Moab. Porque en una noche, Ar de Moab es asolada, y reducida a la nada. Porque en una noche Kir de Moab es asolada y reducida a la nada. 
 
-^2^ Subieron a Bayit y a Dibón, a los lugares altos, para llorar. Moab se lamenta sobre Nebo y sobre Medeba. La calvicie está en todas sus cabezas. Todas las barbas están cortadas. ^a^ ^3^ En sus calles se visten de cilicio. En sus calles y en las azoteas, todos se lamentan, llorando abundantemente. ^b^ ^4^ Hesbón grita con Elealeh. Su voz se oye hasta Jahaz. Por eso los hombres armados de Moab gritan en voz alta. Sus almas tiemblan dentro de ellos. ^5^ ¡Mi corazón clama por Moab! Sus nobles huyen a Zoar, a Eglath Shelishiyah; porque suben por la subida de Luhit con llanto; porque en el camino a Horonaim, lanzan un grito de destrucción. ^c^ ^6^ Porque las aguas de Nimrim quedarán desoladas; porque la hierba se ha marchitado, la hierba tierna se ha secado, no hay nada verde. ^7^ Por eso se llevarán la abundancia que han conseguido, y lo que han almacenado, sobre el arroyo de los sauces. ^8^ Porque el clamor ha recorrido las fronteras de Moab, su lamento hasta Eglaim, y su lamento hasta Beer Elim. ^9^ Porque las aguas de Dimón están llenas de sangre; porque aún traeré más sobre Dimón, un león sobre los de Moab que escapan, y sobre el resto de la tierra.
-^a^[**15:2** Ezeq 7,18] ^b^[**15:3** Is 22,1] ^c^[**15:5** Is 16,9-11]
+^2^ Subieron a Bayit y a Dibón, a los lugares altos, para llorar. Moab se lamenta sobre Nebo y sobre Medeba. La calvicie está en todas sus cabezas. Todas las barbas están cortadas. ^a^ ^b^ ^c^ ^3^ En sus calles se visten de cilicio. En sus calles y en las azoteas, todos se lamentan, llorando abundantemente. ^d^ ^e^ ^f^ ^4^ Hesbón grita con Elealeh. Su voz se oye hasta Jahaz. Por eso los hombres armados de Moab gritan en voz alta. Sus almas tiemblan dentro de ellos. ^5^ ¡Mi corazón clama por Moab! Sus nobles huyen a Zoar, a Eglath Shelishiyah; porque suben por la subida de Luhit con llanto; porque en el camino a Horonaim, lanzan un grito de destrucción. ^g^ ^h^ ^i^ ^6^ Porque las aguas de Nimrim quedarán desoladas; porque la hierba se ha marchitado, la hierba tierna se ha secado, no hay nada verde. ^7^ Por eso se llevarán la abundancia que han conseguido, y lo que han almacenado, sobre el arroyo de los sauces. ^8^ Porque el clamor ha recorrido las fronteras de Moab, su lamento hasta Eglaim, y su lamento hasta Beer Elim. ^9^ Porque las aguas de Dimón están llenas de sangre; porque aún traeré más sobre Dimón, un león sobre los de Moab que escapan, y sobre el resto de la tierra.
+^a^[**15:2** Ezeq 7,18] ^b^[**15:2** Ezeq 7,18] ^c^[**15:2** Ezeq 7,18] ^d^[**15:3** Is 22,1] ^e^[**15:3** Is 22,1] ^f^[**15:3** Is 22,1] ^g^[**15:5** Is 16,9-11] ^h^[**15:5** Is 16,9-11] ^i^[**15:5** Is 16,9-11]
 
 # 16 
 ## Una solicitud de ayuda de los moabitas fugitivos al pueblo judío
 ^1^ Envía los corderos para el gobernante de la tierra de Selah al desierto, al monte de la hija de Sion. ^2^ Porque será que como aves errantes, como nido disperso, así serán las hijas de Moab en los vados del Arnón. ^3^ ¡Consejen! ¡Ejecuta la justicia! ¡Haz tu sombra como la noche en medio del mediodía! ¡Esconde a los desterrados! ¡No traiciones al fugitivo! ^4^ ¡Deja que mis desterrados habiten contigo! En cuanto a Moab, sé un escondite para él de la cara del destructor. Porque el extorsionador es llevado a la nada. La destrucción cesa. Los opresores son consumidos fuera de la tierra. ^5^ Un trono será establecido en la bondad amorosa. Uno se sentará en él en la verdad, en la tienda de David, juzgando, buscando la justicia, y rápido para hacer la justicia. 
 
-## Rechazo de la solicitud de ayuda; nuevos anuncios de fatalidad
-^6^ Hemos oído hablar de la soberbia de Moab, que es muy orgulloso; incluso de su arrogancia, su orgullo y su ira. Sus jactancias no son nada. ^7^ Por eso Moab se lamentará por Moab. Todos se lamentarán. Se lamentarán por las tortas de pasas de Kir Hareseth, totalmente golpeadas. ^8^ Porque los campos de Hesbón languidecen con la vid de Sibma. Los señores de las naciones han derribado sus ramas selectas, que llegaban hasta Jazer, que se desviaban hacia el desierto. Sus sarmientos se extendieron por doquier. Pasaron por encima del mar. ^9^ Por eso lloraré con el llanto de Jazer por la vid de Sibma. Te regaré con mis lágrimas, Hesbón y Elealeh; porque sobre tus frutos de verano y sobre tu cosecha ha caído el grito de guerra. ^a^ ^10^ Se ha quitado la alegría y el júbilo del campo fructífero; y en las viñas no habrá canto, ni ruido alegre. Nadie pisará el vino en los lagares. He hecho cesar los gritos. ^11^ Por eso mi corazón suena como un arpa por Moab, y mis entrañas por Kir Heres. ^12^ Sucederá que cuando Moab se presente, cuando se canse en el lugar alto y venga a su santuario a orar, no prevalecerá. 
-^a^[**16:9** Is 15,5; Jer 4,19; Am 2,2]
 
-^13^ Esta es la palabra que Yahvé habló sobre Moab en el pasado. ^14^ Pero ahora Yahvé ha hablado, diciendo: “Dentro de tres años, como los contaría un obrero obligado por contrato, la gloria de Moab será despreciada, con toda su gran multitud; y el remanente será muy pequeño y débil.” ^a^ 
-^a^[**16:14** Is 21,16]
+
+
+
+## Rechazo de la solicitud de ayuda; nuevos anuncios de fatalidad
+^6^ Hemos oído hablar de la soberbia de Moab, que es muy orgulloso; incluso de su arrogancia, su orgullo y su ira. Sus jactancias no son nada. ^7^ Por eso Moab se lamentará por Moab. Todos se lamentarán. Se lamentarán por las tortas de pasas de Kir Hareseth, totalmente golpeadas. ^8^ Porque los campos de Hesbón languidecen con la vid de Sibma. Los señores de las naciones han derribado sus ramas selectas, que llegaban hasta Jazer, que se desviaban hacia el desierto. Sus sarmientos se extendieron por doquier. Pasaron por encima del mar. ^9^ Por eso lloraré con el llanto de Jazer por la vid de Sibma. Te regaré con mis lágrimas, Hesbón y Elealeh; porque sobre tus frutos de verano y sobre tu cosecha ha caído el grito de guerra. ^a^ ^b^ ^c^ ^10^ Se ha quitado la alegría y el júbilo del campo fructífero; y en las viñas no habrá canto, ni ruido alegre. Nadie pisará el vino en los lagares. He hecho cesar los gritos. ^11^ Por eso mi corazón suena como un arpa por Moab, y mis entrañas por Kir Heres. ^12^ Sucederá que cuando Moab se presente, cuando se canse en el lugar alto y venga a su santuario a orar, no prevalecerá. 
+^a^[**16:9** Is 15,5; Jer 4,19; Am 2,2] ^b^[**16:9** Is 15,5; Jer 4,19; Am 2,2] ^c^[**16:9** Is 15,5; Jer 4,19; Am 2,2]
+
+^13^ Esta es la palabra que Yahvé habló sobre Moab en el pasado. ^14^ Pero ahora Yahvé ha hablado, diciendo: “Dentro de tres años, como los contaría un obrero obligado por contrato, la gloria de Moab será despreciada, con toda su gran multitud; y el remanente será muy pequeño y débil.” ^a^ ^b^ ^c^ 
+^a^[**16:14** Is 21,16] ^b^[**16:14** Is 21,16] ^c^[**16:14** Is 21,16]
 
 # 17 
 ## Anuncio de la caída de los reinos de Damasco e Israel
-^1^ La carga de Damasco. “He aquí que Damasco ha dejado de ser una ciudad, y será un montón de ruinas. ^a^ 
-^a^[**17:1** Jer 49,23; Am 1,3]
+^1^ La carga de Damasco. “He aquí que Damasco ha dejado de ser una ciudad, y será un montón de ruinas. ^a^ ^b^ ^c^ 
+^a^[**17:1** Jer 49,23; Am 1,3] ^b^[**17:1** Jer 49,23; Am 1,3] ^c^[**17:1** Jer 49,23; Am 1,3]
 
-^2^ Las ciudades de Aroer están abandonadas. Serán para los rebaños, que se acostarán, y nadie los hará temer. ^3^ Cesará la fortaleza de Efraín, el reino de Damasco y el resto de Siria. Serán como la gloria de los hijos de Israel”, dice el Señor de los Ejércitos. ^a^ 
-^a^[**17:3** Is 7,1; Is 7,8]
+^2^ Las ciudades de Aroer están abandonadas. Serán para los rebaños, que se acostarán, y nadie los hará temer. ^3^ Cesará la fortaleza de Efraín, el reino de Damasco y el resto de Siria. Serán como la gloria de los hijos de Israel”, dice el Señor de los Ejércitos. ^a^ ^b^ ^c^ 
+^a^[**17:3** Is 7,1; Is 7,8] ^b^[**17:3** Is 7,1; Is 7,8] ^c^[**17:3** Is 7,1; Is 7,8]
+
+
+
+
 
 ## Descripción del destino futuro de Israel e indicación del motivo de su visita
 ^4^ “Sucederá en ese día que la gloria de Jacob se adelgazará, y la gordura de su carne se volverá flaca. ^5^ Será como cuando el cosechador recoge el trigo, y su brazo siega el grano. Sí, será como cuando uno espiga el grano en el valle de Refaim. ^6^ Pero allí quedarán espigas, como el temblor de un olivo, dos o tres aceitunas en la copa de la rama más alta, cuatro o cinco en las ramas más externas de un árbol fructífero”, dice Yavé, el Dios de Israel. ^7^ En ese día, la gente mirará a su Hacedor, y sus ojos tendrán respeto por el Santo de Israel. ^8^ No mirarán a los altares, obra de sus manos, ni respetarán lo que hicieron sus dedos, ni los postes de Asera ni los altares de incienso. ^9^ En aquel día, sus ciudades fuertes serán como los lugares abandonados en los bosques y en la cima del monte, que fueron abandonados desde antes de los hijos de Israel; y será una desolación. ^10^ Porque os habéis olvidado del Dios de vuestra salvación, y no os habéis acordado de la roca de vuestra fortaleza. Por eso plantáis plantas agradables, y ponéis semilleros extraños. ^11^ El día de tu siembra, la cercas. Por la mañana haces florecer tu semilla, pero la cosecha huye en el día de la aflicción y del dolor desesperado. 
 
+
+
+
+
 ## Dios amenaza a los pueblos furiosos, los oponentes del pueblo de Dios
-^12^ ¡Ah, el alboroto de muchos pueblos que rugen como el bramido de los mares; y la carrera de las naciones que se precipitan como la carrera de las aguas impetuosas! ^13^ Las naciones se precipitarán como el estruendo de muchas aguas, pero él las reprenderá, y huirán lejos, y serán perseguidas como el tamo de los montes ante el viento, y como el polvo que se arremolina ante la tempestad. ^14^ Al atardecer, ¡he aquí el terror! Antes de la mañana, ya no existen. Esta es la porción de los que nos saquean, y la suerte de los que nos roban. ^a^ 
-^a^[**17:14** Is 37,36]
+^12^ ¡Ah, el alboroto de muchos pueblos que rugen como el bramido de los mares; y la carrera de las naciones que se precipitan como la carrera de las aguas impetuosas! ^13^ Las naciones se precipitarán como el estruendo de muchas aguas, pero él las reprenderá, y huirán lejos, y serán perseguidas como el tamo de los montes ante el viento, y como el polvo que se arremolina ante la tempestad. ^14^ Al atardecer, ¡he aquí el terror! Antes de la mañana, ya no existen. Esta es la porción de los que nos saquean, y la suerte de los que nos roban. ^a^ ^b^ ^c^ 
+^a^[**17:14** Is 37,36] ^b^[**17:14** Is 37,36] ^c^[**17:14** Is 37,36]
 
 # 18 
 ## El mensaje de Dios a los embajadores etíopes en Jerusalén
@@ -339,35 +515,51 @@
 
 # 19 
 ## Las tribulaciones que aguardan a la tierra por la intervención de Dios
-^1^ La carga de Egipto. “He aquí que el Señor cabalga sobre una nube veloz y llega a Egipto. Los ídolos de Egipto temblarán ante su presencia, y el corazón de Egipto se derretirá en su interior. ^a^ 
-^a^[**19:1** Jer 46,-1; Ezeq 29,-1; Ezeq 30,1-30]
+^1^ La carga de Egipto. “He aquí que el Señor cabalga sobre una nube veloz y llega a Egipto. Los ídolos de Egipto temblarán ante su presencia, y el corazón de Egipto se derretirá en su interior. ^a^ ^b^ ^c^ 
+^a^[**19:1** Jer 46,-1; Ezeq 29,-1; Ezeq 30,1-30] ^b^[**19:1** Jer 46,-1; Ezeq 29,-1; Ezeq 30,1-30] ^c^[**19:1** Jer 46,-1; Ezeq 29,-1; Ezeq 30,1-30]
 
 ^2^ Yo incitaré a los egipcios contra los egipcios, y lucharán cada uno contra su hermano, y cada uno contra su vecino; ciudad contra ciudad, y reino contra reino. ^3^ El espíritu de los egipcios fracasará dentro de ellos. Destruiré su consejo. Buscarán a los ídolos, a los encantadores, a los que tienen espíritus familiares y a los magos. ^4^ Entregaré a los egipcios en manos de un señor cruel. Un rey feroz los gobernará”, dice el Señor, Yahvé de los Ejércitos. 
 
 ^5^ Las aguas del mar faltarán, y el río se perderá y se secará. ^6^ Los ríos se ensuciarán. Los arroyos de Egipto disminuirán y se secarán. Los juncos y las banderas se marchitarán. ^7^ Las praderas junto al Nilo, junto al borde del Nilo, y todos los campos sembrados del Nilo, se secarán, serán expulsados y ya no existirán. ^8^ Los pescadores se lamentarán, y todos los que pescan en el Nilo se lamentarán, y los que tienden redes en las aguas languidecerán. ^9^ Además, los que trabajan el lino peinado y los que tejen telas blancas se confundirán. ^10^ Las columnas se romperán en pedazos. Todos los que trabajan por cuenta ajena tendrán el alma afligida. 
 
+
+
+
+
 ## Los líderes del estado egipcio están perdidos
-^11^ Los príncipes de Zoán son completamente necios. El consejo de los más sabios consejeros del Faraón se ha vuelto estúpido. ¿Cómo dices al Faraón: “Yo soy hijo de sabios, hijo de reyes antiguos”? ^12^ ¿Dónde están, pues, tus sabios? Deja que ellos te lo digan ahora; y que sepan lo que el Señor de los Ejércitos ha dispuesto respecto a Egipto. ^13^ Los príncipes de Zoán se han vuelto necios. Los príncipes de Menfis están engañados. Ellos han hecho que Egipto se extravíe, los que son la piedra angular de sus tribus. ^14^ El Señor ha mezclado un espíritu de perversidad en medio de ella, y han hecho que Egipto se extravíe en todas sus obras, como un borracho que se tambalea en su vómito. ^15^ No habrá obra alguna para Egipto, que pueda hacer cabeza o cola, rama de palma o junco. ^a^ 
-^a^[**19:15** Is 9,13]
+^11^ Los príncipes de Zoán son completamente necios. El consejo de los más sabios consejeros del Faraón se ha vuelto estúpido. ¿Cómo dices al Faraón: “Yo soy hijo de sabios, hijo de reyes antiguos”? ^12^ ¿Dónde están, pues, tus sabios? Deja que ellos te lo digan ahora; y que sepan lo que el Señor de los Ejércitos ha dispuesto respecto a Egipto. ^13^ Los príncipes de Zoán se han vuelto necios. Los príncipes de Menfis están engañados. Ellos han hecho que Egipto se extravíe, los que son la piedra angular de sus tribus. ^14^ El Señor ha mezclado un espíritu de perversidad en medio de ella, y han hecho que Egipto se extravíe en todas sus obras, como un borracho que se tambalea en su vómito. ^15^ No habrá obra alguna para Egipto, que pueda hacer cabeza o cola, rama de palma o junco. ^a^ ^b^ ^c^ 
+^a^[**19:15** Is 9,13] ^b^[**19:15** Is 9,13] ^c^[**19:15** Is 9,13]
+
+
+
+
 
 ## El temor de los egipcios a Dios y a su pueblo
 ^16^ En aquel día los egipcios serán como mujeres. Temerán y se estremecerán a causa del temblor de la mano de Yavé de los Ejércitos, que sacude sobre ellos. ^17^ La tierra de Judá se convertirá en un terror para Egipto. Todo aquel a quien se le mencione tendrá miedo, a causa de los planes del Señor de los Ejércitos, que él determina contra ella. 
+
+
+
+
 
 ## Las primeras ciudades de Egipto y la adoración de Dios se extendió entre los egipcios
 ^18^ En ese día, habrá cinco ciudades en la tierra de Egipto que hablen la lengua de Canaán y juren a Yavé de los Ejércitos. Una se llamará “La ciudad de la destrucción”. 
 
 ^19^ En ese día, habrá un altar a Yavé en medio de la tierra de Egipto, y una columna a Yavé en su frontera. ^20^ Será para señal y para testimonio del Señor de los Ejércitos en la tierra de Egipto; porque clamarán al Señor a causa de los opresores, y él les enviará un salvador y un defensor, y los librará. ^21^ Yahvé será conocido en Egipto, y los egipcios conocerán a Yahvé en ese día. Sí, adorarán con sacrificios y ofrendas, y harán un voto a Yavé, y lo cumplirán. ^22^ Yahvé golpeará a Egipto, golpeando y sanando. Volverán a Yahvé, y él se dejará implorar por ellos, y los sanará. 
 
+
+
+
+
 ## Asiria, Egipto e Israel formarán un gran imperio mundial al servicio de Dios
 ^23^ En aquel día habrá una carretera de Egipto a Asiria, y el asirio entrará en Egipto, y el egipcio en Asiria; y los egipcios adorarán con los asirios. 
 
-^24^ En ese día, Israel será el tercero con Egipto y con Asiria, una bendición dentro de la tierra; ^25^ porque el Señor de los Ejércitos los ha bendecido, diciendo: “Bendito sea Egipto, mi pueblo, Asiria, obra de mis manos, e Israel, mi herencia.” ^a^ 
-^a^[**19:25** Rom 15,10]
+^24^ En ese día, Israel será el tercero con Egipto y con Asiria, una bendición dentro de la tierra; ^25^ porque el Señor de los Ejércitos los ha bendecido, diciendo: “Bendito sea Egipto, mi pueblo, Asiria, obra de mis manos, e Israel, mi herencia.” ^a^ ^b^ ^c^ 
+^a^[**19:25** Rom 15,10] ^b^[**19:25** Rom 15,10] ^c^[**19:25** Rom 15,10]
 
 # 20 
 ## Isaías anuncia el cautiverio de Egipto y Etiopía por los asirios a través de un acto simbólico
-^1^ En el año en que Tartán llegó a Asdod, cuando lo envió Sargón, rey de Asiria, y combatió contra Asdod y la tomó; ^a^ ^2^ en aquel tiempo Yahvé habló por medio de Isaías, hijo de Amoz, diciendo: “Ve y afloja el cilicio de tu cintura, y quítate las sandalias de los pies.” Así lo hizo, caminando desnudo y descalzo. ^b^ ^3^ Yahvé dijo: “Como mi siervo Isaías ha caminado desnudo y descalzo durante tres años como señal y maravilla sobre Egipto y sobre Etiopía, ^4^ así el rey de Asiria llevará a los cautivos de Egipto y a los exiliados de Etiopía, jóvenes y viejos, desnudos y descalzos, y con las nalgas descubiertas, para vergüenza de Egipto. ^5^ Estarán consternados y confundidos, a causa de Etiopía, su expectativa, y de Egipto, su gloria. ^6^ Los habitantes de esta tierra costera dirán en aquel día: “He aquí, ésta es nuestra expectativa, donde huimos en busca de ayuda para ser liberados del rey de Asiria. Y nosotros, ¿cómo escaparemos?”
-^a^[**20:1** 2Re 18,17] ^b^[**20:2** Ezeq 24,24]
+^1^ En el año en que Tartán llegó a Asdod, cuando lo envió Sargón, rey de Asiria, y combatió contra Asdod y la tomó; ^a^ ^b^ ^c^ ^2^ en aquel tiempo Yahvé habló por medio de Isaías, hijo de Amoz, diciendo: “Ve y afloja el cilicio de tu cintura, y quítate las sandalias de los pies.” Así lo hizo, caminando desnudo y descalzo. ^d^ ^e^ ^f^ ^3^ Yahvé dijo: “Como mi siervo Isaías ha caminado desnudo y descalzo durante tres años como señal y maravilla sobre Egipto y sobre Etiopía, ^4^ así el rey de Asiria llevará a los cautivos de Egipto y a los exiliados de Etiopía, jóvenes y viejos, desnudos y descalzos, y con las nalgas descubiertas, para vergüenza de Egipto. ^5^ Estarán consternados y confundidos, a causa de Etiopía, su expectativa, y de Egipto, su gloria. ^6^ Los habitantes de esta tierra costera dirán en aquel día: “He aquí, ésta es nuestra expectativa, donde huimos en busca de ayuda para ser liberados del rey de Asiria. Y nosotros, ¿cómo escaparemos?”
+^a^[**20:1** 2Re 18,17] ^b^[**20:1** 2Re 18,17] ^c^[**20:1** 2Re 18,17] ^d^[**20:2** Ezeq 24,24] ^e^[**20:2** Ezeq 24,24] ^f^[**20:2** Ezeq 24,24]
 
 # 21 
 ## Anuncio de la terrible visión
@@ -375,16 +567,28 @@
 
 ^2^ Se me declara una visión penosa. El hombre traicionero trata con traición, y el destructor destruye. Sube, Elam; ¡ataca! He detenido todos los suspiros de Media. ^3^ Por eso mis muslos están llenos de angustia. Los dolores se han apoderado de mí, como los dolores de una mujer de parto. Tengo tanto dolor que no puedo oír. Estoy tan consternada que no puedo ver. ^4^ Mi corazón se agita. El horror me ha asustado. El crepúsculo que deseaba se ha convertido en temblor para mí. 
 
+
+
+
+
 ## Descripción de la visión
-^5^ Preparan la mesa. Ponen el reloj. Comen. Beben. ¡Levántense, príncipes, engrasen el escudo! ^6^ Porque el Señor me dijo: “Ve, pon un vigilante. Que declare lo que ve. ^7^ Cuando vea una tropa, jinetes de a dos, una tropa de asnos, una tropa de camellos, escuchará diligentemente con gran atención.” ^8^ Gritó como un león: “Señor, de día estoy continuamente en la atalaya, y cada noche permanezco en mi puesto. ^a^ ^9^ He aquí que viene una tropa de hombres, de a caballo, en parejas”. Él respondió: “Caída, caída está Babilonia; y todas las imágenes grabadas de sus dioses están rotas en el suelo. ^b^ 
-^a^[**21:8** Hab 2,1] ^b^[**21:9** Apoc 18,2]
+^5^ Preparan la mesa. Ponen el reloj. Comen. Beben. ¡Levántense, príncipes, engrasen el escudo! ^6^ Porque el Señor me dijo: “Ve, pon un vigilante. Que declare lo que ve. ^7^ Cuando vea una tropa, jinetes de a dos, una tropa de asnos, una tropa de camellos, escuchará diligentemente con gran atención.” ^8^ Gritó como un león: “Señor, de día estoy continuamente en la atalaya, y cada noche permanezco en mi puesto. ^a^ ^b^ ^c^ ^9^ He aquí que viene una tropa de hombres, de a caballo, en parejas”. Él respondió: “Caída, caída está Babilonia; y todas las imágenes grabadas de sus dioses están rotas en el suelo. ^d^ ^e^ ^f^ 
+^a^[**21:8** Hab 2,1] ^b^[**21:8** Hab 2,1] ^c^[**21:8** Hab 2,1] ^d^[**21:9** Apoc 18,2] ^e^[**21:9** Apoc 18,2] ^f^[**21:9** Apoc 18,2]
+
+
+
+
 
 ## Llamada del profeta a su pueblo sufriente
 ^10^ ¡Tú eres mi trilla y el grano de mi suelo!” Lo que he oído de Yahvé de los Ejércitos, el Dios de Israel, te lo he declarado. 
 
+
+
+
+
 ## Palabra de Dios sobre Duma y Arabia
-^11^ La carga de Dumah. Uno me llama desde Seir: “Vigilante, ¿qué hay de la noche? Vigilante, ¿qué hay de la noche?” ^a^ 
-^a^[**21:11** Jer 49,7; Deut 2,5]
+^11^ La carga de Dumah. Uno me llama desde Seir: “Vigilante, ¿qué hay de la noche? Vigilante, ¿qué hay de la noche?” ^a^ ^b^ ^c^ 
+^a^[**21:11** Jer 49,7; Deut 2,5] ^b^[**21:11** Jer 49,7; Deut 2,5] ^c^[**21:11** Jer 49,7; Deut 2,5]
 
 ^12^ El vigilante dijo: “Llega la mañana, y también la noche. Si quieres preguntar, pregunta. Vuelve otra vez”. 
 
@@ -394,35 +598,47 @@
 
 # 22 
 ## Discurso de castigo contra la Jerusalén alegremente emocionada, alejada de Dios e impenitente
-^1^ La carga del valle de la visión. ¿Qué os aflige ahora, que todos habéis subido a los tejados? ^a^ 
-^a^[**22:1** Is 15,3]
+^1^ La carga del valle de la visión. ¿Qué os aflige ahora, que todos habéis subido a los tejados? ^a^ ^b^ ^c^ 
+^a^[**22:1** Is 15,3] ^b^[**22:1** Is 15,3] ^c^[**22:1** Is 15,3]
 
 ^2^ Tú que estás llena de gritos, ciudad tumultuosa, pueblo alegre, tus muertos no son muertos a espada, ni son muertos en la batalla. ^3^ Todos tus gobernantes huyeron juntos. Fueron atados por los arqueros. Todos los que fueron encontrados por ti fueron atados juntos. Huyeron lejos. ^4^ Por eso dije: “Mira lejos de mí. Lloraré amargamente. No te esfuerces en consolarme por la destrucción de la hija de mi pueblo. 
 
-^5^ Porque es un día de confusión, de pisoteo y de perplejidad de parte del Señor, Yahvé de los Ejércitos, en el valle de la visión, de derrumbe de los muros y de clamor a los montes”. ^6^ Elam llevaba su carcaj, con carros de hombres y jinetes, y Kir descubría el escudo. ^7^ Sus valles más selectos se llenaron de carros, y los jinetes se dispusieron en la puerta. ^8^ Quitó la cubierta de Judá; y miraste en aquel día la armadura en la casa del bosque. ^9^ Viste las brechas de la ciudad de David, que eran muchas; y recogiste las aguas del estanque inferior. ^a^ ^10^ Contaste las casas de Jerusalén, y derribaste las casas para fortificar la muralla. ^b^ ^11^ También hiciste un depósito entre las dos murallas para el agua del estanque viejo. Pero no miraste al que había hecho esto, ni tuviste respeto por el que lo había planeado hace tiempo. 
-^a^[**22:9** Is 7,3] ^b^[**22:10** Jer 33,4]
+^5^ Porque es un día de confusión, de pisoteo y de perplejidad de parte del Señor, Yahvé de los Ejércitos, en el valle de la visión, de derrumbe de los muros y de clamor a los montes”. ^6^ Elam llevaba su carcaj, con carros de hombres y jinetes, y Kir descubría el escudo. ^7^ Sus valles más selectos se llenaron de carros, y los jinetes se dispusieron en la puerta. ^8^ Quitó la cubierta de Judá; y miraste en aquel día la armadura en la casa del bosque. ^9^ Viste las brechas de la ciudad de David, que eran muchas; y recogiste las aguas del estanque inferior. ^a^ ^b^ ^c^ ^10^ Contaste las casas de Jerusalén, y derribaste las casas para fortificar la muralla. ^d^ ^e^ ^f^ ^11^ También hiciste un depósito entre las dos murallas para el agua del estanque viejo. Pero no miraste al que había hecho esto, ni tuviste respeto por el que lo había planeado hace tiempo. 
+^a^[**22:9** Is 7,3] ^b^[**22:9** Is 7,3] ^c^[**22:9** Is 7,3] ^d^[**22:10** Jer 33,4] ^e^[**22:10** Jer 33,4] ^f^[**22:10** Jer 33,4]
 
-^12^ En aquel día, el Señor, Yahvé de los Ejércitos, llamó al llanto, al luto, a la calvicie y a vestirse de cilicio; ^13^ y he aquí que hay alegría y gozo, matando ganado y matando ovejas, comiendo carne y bebiendo vino: “Comamos y bebamos, porque mañana moriremos.” ^a^ ^14^ El Señor de los Ejércitos se reveló a mis oídos: “Ciertamente esta iniquidad no te será perdonada hasta que mueras”, dice el Señor, el Señor de los Ejércitos.
-^a^[**22:13** 1Cor 15,32]
+^12^ En aquel día, el Señor, Yahvé de los Ejércitos, llamó al llanto, al luto, a la calvicie y a vestirse de cilicio; ^13^ y he aquí que hay alegría y gozo, matando ganado y matando ovejas, comiendo carne y bebiendo vino: “Comamos y bebamos, porque mañana moriremos.” ^a^ ^b^ ^c^ ^14^ El Señor de los Ejércitos se reveló a mis oídos: “Ciertamente esta iniquidad no te será perdonada hasta que mueras”, dice el Señor, el Señor de los Ejércitos.
+^a^[**22:13** 1Cor 15,32] ^b^[**22:13** 1Cor 15,32] ^c^[**22:13** 1Cor 15,32]
+
+
+
+
 
 ## Contra la presunción del gobernante de palacio Sebna
 ^15^ El Señor, Yahvé de los Ejércitos, dice: “Ve, acude a este tesorero, a Sebna, que está al frente de la casa, y dile: ^16^ ‘¿Qué haces aquí? ¿Quién te tiene aquí, que has cavado una tumba aquí?’ Se está cavando una tumba en lo alto, cincelando una morada para sí mismo en la roca!” ^17^ He aquí que el Señor te vencerá y te arrojará con violencia. Sí, te sujetará con firmeza. ^18^ Seguramente te hará dar vueltas y vueltas, y te arrojará como una pelota a un gran país. Allí morirás, y allí estarán los carros de tu gloria, tú, desgracia de la casa de tu señor. ^19^ Te expulsaré de tu cargo. Serás derribado de tu puesto. 
 
+
+
+
+
 ## Profecía y advertencia para Eljakim, sucesor de Sebna en el cargo
-^20^ Sucederá en ese día que llamaré a mi siervo Eliaquim, hijo de Hilcías, ^a^ ^21^ y lo vestiré con tu túnica, y lo fortaleceré con tu cinturón. Pondré tu gobierno en sus manos, y será un padre para los habitantes de Jerusalén y para la casa de Judá. ^22^ Pondré la llave de la casa de David sobre su hombro. Él abrirá, y nadie cerrará. El cerrará, y nadie abrirá. ^23^ Lo fijaré como un clavo en un lugar seguro. Será para la casa de su padre un trono de gloria. ^24^ De él colgarán toda la gloria de la casa de su padre, la descendencia y el caudal, toda vasija pequeña, desde las copas hasta todos los cántaros. ^25^ “En aquel día — dice el Señor de los Ejércitos — el clavo que estaba fijado en un lugar seguro cederá. Será cortado y caerá. La carga que llevaba será cortada, porque Yahvé lo ha dicho”.
-^a^[**22:20** Is 36,3]
+^20^ Sucederá en ese día que llamaré a mi siervo Eliaquim, hijo de Hilcías, ^a^ ^b^ ^c^ ^21^ y lo vestiré con tu túnica, y lo fortaleceré con tu cinturón. Pondré tu gobierno en sus manos, y será un padre para los habitantes de Jerusalén y para la casa de Judá. ^22^ Pondré la llave de la casa de David sobre su hombro. Él abrirá, y nadie cerrará. El cerrará, y nadie abrirá. ^23^ Lo fijaré como un clavo en un lugar seguro. Será para la casa de su padre un trono de gloria. ^24^ De él colgarán toda la gloria de la casa de su padre, la descendencia y el caudal, toda vasija pequeña, desde las copas hasta todos los cántaros. ^25^ “En aquel día — dice el Señor de los Ejércitos — el clavo que estaba fijado en un lugar seguro cederá. Será cortado y caerá. La carga que llevaba será cortada, porque Yahvé lo ha dicho”.
+^a^[**22:20** Is 36,3] ^b^[**22:20** Is 36,3] ^c^[**22:20** Is 36,3]
 
 # 23 
 ## Lamento por la destrucción del país y la ciudad
-^1^ La carga de Tiro. ¡Aullad, naves de Tarsis! Porque está asolada, de modo que no hay casa, ni se puede entrar en ella. Desde la tierra de Kittim se les ha revelado. ^a^ 
-^a^[**23:1** Ezeq 26,-1; Ezeq 27,1-27]
+^1^ La carga de Tiro. ¡Aullad, naves de Tarsis! Porque está asolada, de modo que no hay casa, ni se puede entrar en ella. Desde la tierra de Kittim se les ha revelado. ^a^ ^b^ ^c^ 
+^a^[**23:1** Ezeq 26,-1; Ezeq 27,1-27] ^b^[**23:1** Ezeq 26,-1; Ezeq 27,1-27] ^c^[**23:1** Ezeq 26,-1; Ezeq 27,1-27]
 
 ^2^ Quedaos quietos, habitantes de la costa, vosotros a quienes los mercaderes de Sidón que pasan por el mar han reabastecido. ^3^ Sobre grandes aguas, la semilla del Shihor, la cosecha del Nilo, era su ingreso. Ella era el mercado de las naciones. ^4^ Avergüénzate, Sidón, porque el mar ha hablado, la fortaleza del mar, diciendo: “No he parido, ni he dado a luz, ni he alimentado jóvenes, ni he criado vírgenes.” ^5^ Cuando el informe llegue a Egipto, se angustiarán ante el informe de Tiro. ^6^ ¡Pasen a Tarsis! ¡Aullad, habitantes de la costa! ^7^ ¿Esta es vuestra ciudad alegre, cuya antigüedad es de días antiguos, cuyos pies la llevaron lejos para viajar? 
 
-^8^ ¿Quién ha planeado esto contra Tiro, la dadora de coronas, cuyos mercaderes son príncipes, cuyos comerciantes son los honorables de la tierra? ^9^ El Señor de los Ejércitos lo ha planeado, para manchar el orgullo de toda gloria, para despreciar a todos los honorables de la tierra. ^10^ Pasa por tu tierra como el Nilo, hija de Tarsis. Ya no hay freno. ^a^ ^11^ Ha extendido su mano sobre el mar. Ha hecho temblar los reinos. El Señor ha ordenado la destrucción de las fortalezas de Canaán. ^12^ Ha dicho: “No te alegrarás más, virgen oprimida hija de Sidón. Levántate, pasa a Kittim. Ni siquiera allí tendrás descanso”. 
-^a^[**23:10** Job 12,21; Job 12,18]
+^8^ ¿Quién ha planeado esto contra Tiro, la dadora de coronas, cuyos mercaderes son príncipes, cuyos comerciantes son los honorables de la tierra? ^9^ El Señor de los Ejércitos lo ha planeado, para manchar el orgullo de toda gloria, para despreciar a todos los honorables de la tierra. ^10^ Pasa por tu tierra como el Nilo, hija de Tarsis. Ya no hay freno. ^a^ ^b^ ^c^ ^11^ Ha extendido su mano sobre el mar. Ha hecho temblar los reinos. El Señor ha ordenado la destrucción de las fortalezas de Canaán. ^12^ Ha dicho: “No te alegrarás más, virgen oprimida hija de Sidón. Levántate, pasa a Kittim. Ni siquiera allí tendrás descanso”. 
+^a^[**23:10** Job 12,21; Job 12,18] ^b^[**23:10** Job 12,21; Job 12,18] ^c^[**23:10** Job 12,21; Job 12,18]
 
 ^13^ He aquí la tierra de los caldeos. Este pueblo no existía. Los asirios la fundaron para los que habitan en el desierto. Levantaron sus torres. Derribaron sus palacios. La convirtieron en una ruina. ^14^ ¡Aúllen, barcos de Tarsis, porque su fortaleza ha sido destruida! 
+
+
+
+
 
 ## La ciudad volverá a florecer más tarde y servirá al Señor
 ^15^ Sucederá en ese día que Tiro será olvidada setenta años, según los días de un rey. Al cabo de los setenta años le sucederá a Tiro como en la canción de la prostituta. ^16^ Toma un arpa; recorre la ciudad, prostituta olvidada. Haz una dulce melodía. Canta muchas canciones, para que seas recordada. ^17^ Sucederá después del fin de los setenta años que el Señor visitará a Tiro. Ella volverá a su salario, y jugará a la prostitución con todos los reinos del mundo en la superficie de la tierra. ^18^ Su mercancía y su salario serán la santidad para el Señor. No se atesorará ni se guardará; porque su mercancía será para los que habitan delante de Yahvé, para que coman lo suficiente, y para que tengan ropa duradera. 
@@ -431,115 +647,187 @@
 ## La tierra y su gente enfrentan un juicio desolado
 ^1^ He aquí que el Señor vacía la tierra, la convierte en un desierto, la revuelve y dispersa a sus habitantes. ^2^ Será como con el pueblo, así con el sacerdote; como con el siervo, así con su amo; como con la criada, así con su ama; como con el comprador, así con el vendedor; como con el acreedor, así con el deudor; como con el que cobra intereses, así con el que los da. ^3^ La tierra será totalmente vaciada y asolada; porque Yahvé ha dicho esta palabra. 
 
+
+
+
+
 ## Desolada y sin alegría, la tierra yace bajo la maldición del pecado
-^4^ La tierra se lamenta y se desvanece. El mundo languidece y se desvanece. Los pueblos elevados de la tierra languidecen. ^5^ La tierra también está contaminada bajo sus habitantes, porque han transgredido las leyes, violado los estatutos y roto el pacto eterno. ^6^ Por eso la maldición ha devorado la tierra, y los que la habitan son hallados culpables. Por eso los habitantes de la tierra se han quemado, y han quedado pocos hombres. ^7^ El vino nuevo está de luto. La vid languidece. Todos los alegres de corazón suspiran. ^a^ ^8^ El júbilo de los panderetas cesa. Se acaba el sonido de los que se alegran. Cesa la alegría del arpa. ^b^ ^9^ No beberán vino con una canción. La bebida fuerte será amarga para los que la beben. ^10^ La ciudad confusa se derrumba. Todas las casas están cerradas, para que nadie entre. ^11^ Hay llanto en las calles a causa del vino. Toda la alegría se ha oscurecido. La alegría del país ha desaparecido. ^12^ La ciudad ha quedado desolada, y la puerta ha sido golpeada por la destrucción.
-^a^[**24:7** Jl 1,12] ^b^[**24:8** Jer 7,34; Jer 16,9]
+^4^ La tierra se lamenta y se desvanece. El mundo languidece y se desvanece. Los pueblos elevados de la tierra languidecen. ^5^ La tierra también está contaminada bajo sus habitantes, porque han transgredido las leyes, violado los estatutos y roto el pacto eterno. ^6^ Por eso la maldición ha devorado la tierra, y los que la habitan son hallados culpables. Por eso los habitantes de la tierra se han quemado, y han quedado pocos hombres. ^7^ El vino nuevo está de luto. La vid languidece. Todos los alegres de corazón suspiran. ^a^ ^b^ ^c^ ^8^ El júbilo de los panderetas cesa. Se acaba el sonido de los que se alegran. Cesa la alegría del arpa. ^d^ ^e^ ^f^ ^9^ No beberán vino con una canción. La bebida fuerte será amarga para los que la beben. ^10^ La ciudad confusa se derrumba. Todas las casas están cerradas, para que nadie entre. ^11^ Hay llanto en las calles a causa del vino. Toda la alegría se ha oscurecido. La alegría del país ha desaparecido. ^12^ La ciudad ha quedado desolada, y la puerta ha sido golpeada por la destrucción.
+^a^[**24:7** Jl 1,12] ^b^[**24:7** Jl 1,12] ^c^[**24:7** Jl 1,12] ^d^[**24:8** Jer 7,34; Jer 16,9] ^e^[**24:8** Jer 7,34; Jer 16,9] ^f^[**24:8** Jer 7,34; Jer 16,9]
+
+
+
+
 
 ## El juicio será despiadado; Todavía no hay motivo para celebrar, porque todavía están por llegar visitas horribles
-^13^ Así será en la tierra, entre los pueblos, como el temblor de un olivo, como las espigas cuando se acaba la cosecha. ^a^ 
-^a^[**24:13** Is 17,6]
+^13^ Así será en la tierra, entre los pueblos, como el temblor de un olivo, como las espigas cuando se acaba la cosecha. ^a^ ^b^ ^c^ 
+^a^[**24:13** Is 17,6] ^b^[**24:13** Is 17,6] ^c^[**24:13** Is 17,6]
 
 ^14^ Estos alzarán su voz. Gritarán por la majestad de Yahvé. Gritan en voz alta desde el mar. ^15^ ¡Glorifiquen, pues, a Yahvé en el oriente, el nombre de Yahvé, el Dios de Israel, en las islas del mar! ^16^ Desde el extremo de la tierra se oyen cantos. ¡Gloria a los justos! Pero yo dije: “¡Me muero de ganas! Me desvanezco! ¡Ay de mí!” Los traidores han actuado con traición. Sí, los traidores han actuado con mucha traición. 
 
-^17^ El miedo, la fosa y la trampa están sobre vosotros, los que habitáis la tierra. ^18^ Sucederá que el que huya del ruido del miedo caerá en la fosa; y el que salga de en medio de la fosa será apresado en el lazo; porque las ventanas de lo alto están abiertas, y los cimientos de la tierra tiemblan. ^19^ La tierra está totalmente destrozada. La tierra se desgarra. La tierra es sacudida violentamente. ^a^ ^20^ La tierra se tambaleará como un borracho, y se balanceará de un lado a otro como una hamaca. Su desobediencia le pesará, y caerá y no se levantará. ^b^ 
-^a^[**24:19** 2Pe 3,10] ^b^[**24:20** Is 19,14]
+^17^ El miedo, la fosa y la trampa están sobre vosotros, los que habitáis la tierra. ^18^ Sucederá que el que huya del ruido del miedo caerá en la fosa; y el que salga de en medio de la fosa será apresado en el lazo; porque las ventanas de lo alto están abiertas, y los cimientos de la tierra tiemblan. ^19^ La tierra está totalmente destrozada. La tierra se desgarra. La tierra es sacudida violentamente. ^a^ ^b^ ^c^ ^20^ La tierra se tambaleará como un borracho, y se balanceará de un lado a otro como una hamaca. Su desobediencia le pesará, y caerá y no se levantará. ^d^ ^e^ ^f^ 
+^a^[**24:19** 2Pe 3,10] ^b^[**24:19** 2Pe 3,10] ^c^[**24:19** 2Pe 3,10] ^d^[**24:20** Is 19,14] ^e^[**24:20** Is 19,14] ^f^[**24:20** Is 19,14]
+
+
+
+
 
 ## Solo después de que los poderes celestiales y terrenales hayan sido castigados, Dios asumirá su reinado en el monte Sión
-^21^ Sucederá en ese día que el Señor castigará al ejército de los altos en lo alto, y a los reyes de la tierra en la tierra. ^a^ ^22^ Serán reunidos como se reúne a los prisioneros en la fosa, y serán encerrados en la cárcel; y después de muchos días serán visitados. ^23^ Entonces la luna se confundirá y el sol se avergonzará, porque el Señor de los Ejércitos reinará en el monte Sión y en Jerusalén, y la gloria estará delante de sus ancianos.
-^a^[**24:21** Apoc 19,18-21]
+^21^ Sucederá en ese día que el Señor castigará al ejército de los altos en lo alto, y a los reyes de la tierra en la tierra. ^a^ ^b^ ^c^ ^22^ Serán reunidos como se reúne a los prisioneros en la fosa, y serán encerrados en la cárcel; y después de muchos días serán visitados. ^23^ Entonces la luna se confundirá y el sol se avergonzará, porque el Señor de los Ejércitos reinará en el monte Sión y en Jerusalén, y la gloria estará delante de sus ancianos.
+^a^[**24:21** Apoc 19,18-21] ^b^[**24:21** Apoc 19,18-21] ^c^[**24:21** Apoc 19,18-21]
 
 # 25 
 ## El cántico de agradecimiento y alabanza de Israel por la salvación experimentada hasta ese momento
-^1^ Yahvé, tú eres mi Dios. Te exaltaré. Alabaré tu nombre, porque has hecho cosas maravillosas, cosas planeadas hace mucho tiempo, con total fidelidad y verdad. ^2^ Porque has convertido una ciudad en un montón, una ciudad fortificada en una ruina, un palacio de extraños en una ciudad. Nunca se construirá. ^3^ Por eso te glorificará un pueblo fuerte. Una ciudad de naciones imponentes te temerá. ^4^ Porque has sido una fortaleza para el pobre, un baluarte para el necesitado en su angustia, un refugio contra la tormenta, una sombra contra el calor, cuando la ráfaga de los temibles es como una tormenta contra el muro. ^a^ ^5^ Como el calor en un lugar seco, harás caer el ruido de los extraños; como el calor a la sombra de una nube, el canto de los temibles será abatido.
-^a^[**25:4** Is 4,6]
+^1^ Yahvé, tú eres mi Dios. Te exaltaré. Alabaré tu nombre, porque has hecho cosas maravillosas, cosas planeadas hace mucho tiempo, con total fidelidad y verdad. ^2^ Porque has convertido una ciudad en un montón, una ciudad fortificada en una ruina, un palacio de extraños en una ciudad. Nunca se construirá. ^3^ Por eso te glorificará un pueblo fuerte. Una ciudad de naciones imponentes te temerá. ^4^ Porque has sido una fortaleza para el pobre, un baluarte para el necesitado en su angustia, un refugio contra la tormenta, una sombra contra el calor, cuando la ráfaga de los temibles es como una tormenta contra el muro. ^a^ ^b^ ^c^ ^5^ Como el calor en un lugar seco, harás caer el ruido de los extraños; como el calor a la sombra de una nube, el canto de los temibles será abatido.
+^a^[**25:4** Is 4,6] ^b^[**25:4** Is 4,6] ^c^[**25:4** Is 4,6]
+
+
+
+
 
 ## Profecía de la bienaventurada felicidad del reino completo de Dios
-^6^ En este monte, el Señor de los Ejércitos hará a todos los pueblos un festín de carne selecta,^a^ un festín de vinos selectos, de carne selecta llena de tuétano, de vinos selectos bien refinados. ^7^ Él destruirá en este monte la superficie de la cubierta que cubre a todos los pueblos, y el velo que se extiende sobre todas las naciones. ^8^ ¡Él se ha tragado la muerte para siempre! El Señor Yahvé enjugará las lágrimas de todos los rostros. Quitará el oprobio de su pueblo de toda la tierra, porque Yahvé lo ha dicho. ^b^ 
-^a^[**25:6** literalmente, cosas gordas] ^b^[**25:8** 1Cor 15,55; Apoc 7,17]
+^6^ En este monte, el Señor de los Ejércitos hará a todos los pueblos un festín de carne selecta,^a^ un festín de vinos selectos, de carne selecta llena de tuétano, de vinos selectos bien refinados. ^7^ Él destruirá en este monte la superficie de la cubierta que cubre a todos los pueblos, y el velo que se extiende sobre todas las naciones. ^8^ ¡Él se ha tragado la muerte para siempre! El Señor Yahvé enjugará las lágrimas de todos los rostros. Quitará el oprobio de su pueblo de toda la tierra, porque Yahvé lo ha dicho. ^b^ ^c^ ^d^ 
+^a^[**25:6** literalmente, cosas gordas] ^b^[**25:8** 1Cor 15,55; Apoc 7,17] ^c^[**25:8** 1Cor 15,55; Apoc 7,17] ^d^[**25:8** 1Cor 15,55; Apoc 7,17]
+
+
+
+
 
 ## Nuevo júbilo de la comunidad por la salvación y alegría por la humillación de enemigos obstinados, especialmente los moabitas
-^9^ En aquel día se dirá: “¡He aquí nuestro Dios! ¡Lo hemos esperado, y él nos salvará! ¡Este es Yahvé! Lo hemos esperado. Nos alegraremos y nos regocijaremos en su salvación”. ^a^ ^10^ Porque la mano de Yahvé se posará en este monte. Moab será pisoteado en su lugar, como se pisotea la paja en el agua del estercolero. 
-^a^[**25:9** Sal 48,15]
+^9^ En aquel día se dirá: “¡He aquí nuestro Dios! ¡Lo hemos esperado, y él nos salvará! ¡Este es Yahvé! Lo hemos esperado. Nos alegraremos y nos regocijaremos en su salvación”. ^a^ ^b^ ^c^ ^10^ Porque la mano de Yahvé se posará en este monte. Moab será pisoteado en su lugar, como se pisotea la paja en el agua del estercolero. 
+^a^[**25:9** Sal 48,15] ^b^[**25:9** Sal 48,15] ^c^[**25:9** Sal 48,15]
 
 ^11^ Extenderá sus manos en medio de él, como el que nada extiende las manos para nadar, pero su orgullo será humillado junto con el oficio de sus manos. ^12^ Él ha derribado la alta fortaleza de tus murallas, la ha rebajado y la ha llevado a la tierra, hasta el polvo. 
 
 # 26 
 ## Canto de alabanza de la ciudad de Dios firme y fiel a la justicia divina
-^1^ En aquel día se cantará esta canción en la tierra de Judá: “Tenemos una ciudad fuerte. Dios designa la salvación para los muros y los baluartes. ^a^ ^2^ Abrid las puertas para que entre la nación justa: el que mantiene la fe. ^b^ ^3^ Mantendrás la mente del que esté firme en perfecta paz, porque confía en ti. ^4^ Confía en Yahvé para siempre; porque en Yah, Yahvé, hay una Roca eterna. ^c^ ^5^ Porque ha derribado a los que habitan en las alturas, la ciudad elevada. Lo pone bajo. Lo pone bajo incluso hasta el suelo. Lo lleva hasta el polvo. ^6^ El pie lo pisará, hasta los pies de los pobres y los pasos de los necesitados”.
-^a^[**26:1** Is 60,18] ^b^[**26:2** Sal 118,19] ^c^[**26:4** Deut 32,4]
+^1^ En aquel día se cantará esta canción en la tierra de Judá: “Tenemos una ciudad fuerte. Dios designa la salvación para los muros y los baluartes. ^a^ ^b^ ^c^ ^2^ Abrid las puertas para que entre la nación justa: el que mantiene la fe. ^d^ ^e^ ^f^ ^3^ Mantendrás la mente del que esté firme en perfecta paz, porque confía en ti. ^4^ Confía en Yahvé para siempre; porque en Yah, Yahvé, hay una Roca eterna. ^g^ ^h^ ^i^ ^5^ Porque ha derribado a los que habitan en las alturas, la ciudad elevada. Lo pone bajo. Lo pone bajo incluso hasta el suelo. Lo lleva hasta el polvo. ^6^ El pie lo pisará, hasta los pies de los pobres y los pasos de los necesitados”.
+^a^[**26:1** Is 60,18] ^b^[**26:1** Is 60,18] ^c^[**26:1** Is 60,18] ^d^[**26:2** Sal 118,19] ^e^[**26:2** Sal 118,19] ^f^[**26:2** Sal 118,19] ^g^[**26:4** Deut 32,4] ^h^[**26:4** Deut 32,4] ^i^[**26:4** Deut 32,4]
+
+
+
+
 
 ## Alabe los caminos de Dios y dé gracias por los juicios dolorosos pero sanos de Dios
 ^7^ El camino del justo es la rectitud. Tú, que eres recto, haces que el camino de los justos sea llano. ^8^ Sí, en el camino de tus juicios, Yahvé, te hemos esperado. Tu nombre y tu fama son el deseo de nuestra alma. ^9^ Con mi alma te he deseado en la noche. Sí, con mi espíritu dentro de mí te buscaré con ahínco; porque cuando tus juicios están en la tierra, los habitantes del mundo aprenden la justicia. ^10^ Que se muestre el favor a los malvados, pero no aprenderá la justicia. En la tierra de la rectitud hará un trato incorrecto, y no verán la majestad de Yahvé. ^11^ Yahvé, tu mano está levantada, pero ellos no ven; pero verán tu celo por el pueblo y se decepcionarán. Sí, el fuego consumirá a tus adversarios. ^12^ Yahvé, tú ordenarás la paz para nosotros, ya que tú también has hecho todo nuestro trabajo por nosotros. 
 
+
+
+
+
 ## La congregación mira hacia atrás al pasado turbulento y pidió el cumplimiento de sus últimos deseos, especialmente a través de la resurrección de sus piadosos muertos
-^13^ Yahvé, nuestro Dios, otros señores, además de ti, se han enseñoreado de nosotros, pero sólo reconoceremos su nombre. ^14^ Los muertos no vivirán. Los espíritus difuntos no se levantarán. Por eso los has visitado y destruido, y ha hecho perecer todo recuerdo de ellos. ^15^ Tú has aumentado la nación, oh Yahvé. ¡Has aumentado la nación! ¡Estás glorificado! Has ampliado todas las fronteras de la tierra. ^16^ Yahvé, en la angustia te han visitado. Derramaron una oración cuando su castigo estaba sobre ellos. ^a^ ^17^ Como una mujer embarazada, que se acerca al momento del parto, está en el dolor y grita en sus dolores, así hemos estado ante ti, Yahvé. ^b^ ^18^ Hemos estado con el niño. Hemos sufrido. Parece que sólo hemos dado a luz al viento. No hemos obrado ninguna liberación en la tierra; tampoco han caído los habitantes del mundo. ^c^ ^19^ Tus muertos vivirán. Sus cadáveres se levantarán. Despierta y canta, tú que habitas en el polvo; porque tu rocío es como el rocío de las hierbas, y la tierra expulsará a los espíritus difuntos. ^d^ 
-^a^[**26:16** Is 28,19; Os 5,15] ^b^[**26:17** Juan 16,21; Apoc 12,2] ^c^[**26:18** Miq 4,10] ^d^[**26:19** Ezeq 37,1-14; Apoc 20,12]
+^13^ Yahvé, nuestro Dios, otros señores, además de ti, se han enseñoreado de nosotros, pero sólo reconoceremos su nombre. ^14^ Los muertos no vivirán. Los espíritus difuntos no se levantarán. Por eso los has visitado y destruido, y ha hecho perecer todo recuerdo de ellos. ^15^ Tú has aumentado la nación, oh Yahvé. ¡Has aumentado la nación! ¡Estás glorificado! Has ampliado todas las fronteras de la tierra. ^16^ Yahvé, en la angustia te han visitado. Derramaron una oración cuando su castigo estaba sobre ellos. ^a^ ^b^ ^c^ ^17^ Como una mujer embarazada, que se acerca al momento del parto, está en el dolor y grita en sus dolores, así hemos estado ante ti, Yahvé. ^d^ ^e^ ^f^ ^18^ Hemos estado con el niño. Hemos sufrido. Parece que sólo hemos dado a luz al viento. No hemos obrado ninguna liberación en la tierra; tampoco han caído los habitantes del mundo. ^g^ ^h^ ^i^ ^19^ Tus muertos vivirán. Sus cadáveres se levantarán. Despierta y canta, tú que habitas en el polvo; porque tu rocío es como el rocío de las hierbas, y la tierra expulsará a los espíritus difuntos. ^j^ ^k^ ^l^ 
+^a^[**26:16** Is 28,19; Os 5,15] ^b^[**26:16** Is 28,19; Os 5,15] ^c^[**26:16** Is 28,19; Os 5,15] ^d^[**26:17** Juan 16,21; Apoc 12,2] ^e^[**26:17** Juan 16,21; Apoc 12,2] ^f^[**26:17** Juan 16,21; Apoc 12,2] ^g^[**26:18** Miq 4,10] ^h^[**26:18** Miq 4,10] ^i^[**26:18** Miq 4,10] ^j^[**26:19** Ezeq 37,1-14; Apoc 20,12] ^k^[**26:19** Ezeq 37,1-14; Apoc 20,12] ^l^[**26:19** Ezeq 37,1-14; Apoc 20,12]
+
+
+
+
 
 ## Recordatorio de ser paciente
-^20^ Venid, pueblo mío, entrad en vuestras habitaciones, y cerrar las puertas detrás de ti. Escóndete por un momento, hasta que pase la indignación. ^a^ ^21^ Porque he aquí que Yahvé sale de su lugar para castigar a los habitantes de la tierra por su iniquidad. La tierra también revelará su sangre, y ya no cubrirá a sus muertos.
-^a^[**26:20** Sal 57,2]
+^20^ Venid, pueblo mío, entrad en vuestras habitaciones, y cerrar las puertas detrás de ti. Escóndete por un momento, hasta que pase la indignación. ^a^ ^b^ ^c^ ^21^ Porque he aquí que Yahvé sale de su lugar para castigar a los habitantes de la tierra por su iniquidad. La tierra también revelará su sangre, y ya no cubrirá a sus muertos.
+^a^[**26:20** Sal 57,2] ^b^[**26:20** Sal 57,2] ^c^[**26:20** Sal 57,2]
 
 # 27 
 ## Aniquilación de las potencias mundiales; El amor de Dios por su pueblo, expresado en el canto de la viña cuidadosamente custodiada
 ^1^ En aquel día, Yahvé, con su espada dura, grande y fuerte, castigará al leviatán, la serpiente que huye, y al leviatán, la serpiente retorcida; y matará al dragón que está en el mar. 
 
-^2^ En ese día, cántale: “¡Una viña agradable! ^a^ ^3^ Yo, Yahvé, soy su guardián. La regaré a cada momento. Para que nadie la dañe, la guardaré de noche y de día. ^4^ No hay ira en mí, pero si encontrara cardos y espinas, ¡haría la batalla! Marcharía sobre ellos y los quemaría juntos. ^5^ O bien, que se apodere de mi fuerza, para que haga las paces conmigo. Que haga las paces conmigo”.
-^a^[**27:2** Is 5,1]
+^2^ En ese día, cántale: “¡Una viña agradable! ^a^ ^b^ ^c^ ^3^ Yo, Yahvé, soy su guardián. La regaré a cada momento. Para que nadie la dañe, la guardaré de noche y de día. ^4^ No hay ira en mí, pero si encontrara cardos y espinas, ¡haría la batalla! Marcharía sobre ellos y los quemaría juntos. ^5^ O bien, que se apodere de mi fuerza, para que haga las paces conmigo. Que haga las paces conmigo”.
+^a^[**27:2** Is 5,1] ^b^[**27:2** Is 5,1] ^c^[**27:2** Is 5,1]
+
+
+
+
 
 ## El castigo suave y saludable del pueblo judío en oposición a la aniquilación total de las potencias mundiales
-^6^ En los días venideros, Jacob echará raíces. Israel florecerá y brotará. Llenarán de frutos la superficie del mundo. ^7^ ¿Los ha golpeado como golpeó a los que los golpearon? ¿O los ha matado como mató a los que los mataron? ^8^ En la medida en que los expulsa, contiende con ellos. Los ha eliminado con su áspera ráfaga en el día del viento del este. ^a^ ^9^ Por tanto, con esto será perdonada la iniquidad de Jacob, y éste es todo el fruto de la remoción de su pecado: que él haga que todas las piedras del altar sean como piedras de tiza desmenuzadas, de modo que los postes de Asera y los altares de incienso no se levanten más. ^b^ ^10^ Porque la ciudad fortificada es solitaria, una morada desierta y abandonada, como el desierto. El becerro se alimentará allí, y allí se acostará, y consumirá sus ramas. ^11^ Cuando sus ramas se marchiten, serán cortadas. Las mujeres vendrán y les prenderán fuego, porque son un pueblo sin entendimiento. Por eso el que los hizo no tendrá compasión de ellos, y el que los formó no les mostrará ningún favor.
-^a^[**27:8** Jer 30,11; Jer 18,17] ^b^[**27:9** Is 31,7; Lev 26,30]
+^6^ En los días venideros, Jacob echará raíces. Israel florecerá y brotará. Llenarán de frutos la superficie del mundo. ^7^ ¿Los ha golpeado como golpeó a los que los golpearon? ¿O los ha matado como mató a los que los mataron? ^8^ En la medida en que los expulsa, contiende con ellos. Los ha eliminado con su áspera ráfaga en el día del viento del este. ^a^ ^b^ ^c^ ^9^ Por tanto, con esto será perdonada la iniquidad de Jacob, y éste es todo el fruto de la remoción de su pecado: que él haga que todas las piedras del altar sean como piedras de tiza desmenuzadas, de modo que los postes de Asera y los altares de incienso no se levanten más. ^d^ ^e^ ^f^ ^10^ Porque la ciudad fortificada es solitaria, una morada desierta y abandonada, como el desierto. El becerro se alimentará allí, y allí se acostará, y consumirá sus ramas. ^11^ Cuando sus ramas se marchiten, serán cortadas. Las mujeres vendrán y les prenderán fuego, porque son un pueblo sin entendimiento. Por eso el que los hizo no tendrá compasión de ellos, y el que los formó no les mostrará ningún favor.
+^a^[**27:8** Jer 30,11; Jer 18,17] ^b^[**27:8** Jer 30,11; Jer 18,17] ^c^[**27:8** Jer 30,11; Jer 18,17] ^d^[**27:9** Is 31,7; Lev 26,30] ^e^[**27:9** Is 31,7; Lev 26,30] ^f^[**27:9** Is 31,7; Lev 26,30]
+
+
+
+
 
 ## La purificación de Israel y el regreso de los camaradas del cautiverio
 ^12^ Sucederá en ese día que Yahvé trillará desde la corriente del Éufrates hasta el arroyo de Egipto; y ustedes serán reunidos uno por uno, hijos de Israel. 
 
-^13^ Sucederá en ese día que se tocará una gran trompeta; y vendrán los que estaban listos para perecer en la tierra de Asiria, y los que estaban desterrados en la tierra de Egipto, y adorarán a Yahvé en el monte santo de Jerusalén. ^a^ 
-^a^[**27:13** Is 11,10-16]
+^13^ Sucederá en ese día que se tocará una gran trompeta; y vendrán los que estaban listos para perecer en la tierra de Asiria, y los que estaban desterrados en la tierra de Egipto, y adorarán a Yahvé en el monte santo de Jerusalén. ^a^ ^b^ ^c^ 
+^a^[**27:13** Is 11,10-16] ^b^[**27:13** Is 11,10-16] ^c^[**27:13** Is 11,10-16]
 
 # 28 
 ## Anuncio de la caída de Samaria
 ^1^ ¡Ay de la corona de orgullo de los borrachos de Efraín, y de la flor marchita de su gloriosa belleza, que está en la cabeza del fértil valle de los que se dejan vencer por el vino! ^2^ He aquí que el Señor tiene uno que es poderoso y fuerte. Como una tormenta de granizo, una tormenta destructora, y como una tormenta de aguas poderosas que se desbordan, los arrojará a la tierra con su mano. ^3^ La corona de orgullo de los borrachos de Efraín será pisoteada. ^4^ La flor marchita de su gloriosa belleza, que está en la cabeza del valle fértil, será como el higo de primera maduración antes del verano, que alguien recoge y come en cuanto lo ve. 
 
+
+
+
+
 ## Esta visitación servirá a la gloria de Dios y a la renovación del pueblo
 ^5^ En ese día, el Señor de los Ejércitos se convertirá en una corona de gloria y en una diadema de belleza para el resto de su pueblo, ^6^ y en un espíritu de justicia para el que se sienta a juzgar, y en fuerza para los que hacen retroceder la batalla en la puerta. 
+
+
+
+
 
 ## Corrigiendo y amenazando a los sacerdotes y profetas borrachos hostiles al profeta
 ^7^ También se tambalean con el vino, y se tambalean con la bebida fuerte. El sacerdote y el profeta se tambalean con la bebida fuerte. El vino se los tragó. Se tambalean con la bebida fuerte. Se equivocan en la visión. Tropiezan en el juicio. ^8^ Porque todas las mesas están completamente llenas de vómito e inmundicia. 
 
 ^9^ ¿A quién le enseñará el conocimiento? ¿A quiénes les explicará el mensaje? ¿A los que han sido destetados de la leche y sacados de los pechos? ^10^ Porque es precepto sobre precepto, precepto sobre precepto; línea sobre línea, línea sobre línea; aquí un poco, allí un poco. 
 
-^11^ Pero hablará a esta nación de labios tartamudos y en otra lengua, ^12^ a la que dijo: “Este es el lugar de descanso. Da descanso al cansado” y “Este es el refrigerio”; pero no quisieron escuchar. ^a^ ^13^ Por lo tanto, la palabra de Yahvé será para ellos precepto sobre precepto, precepto sobre precepto; línea sobre línea, línea sobre línea; aquí un poco, allí un poco; para que vayan, caigan de espaldas, sean quebrantados, atrapados y tomados. ^b^ 
-^a^[**28:12** Mat 11,28-29] ^b^[**28:13** Is 28,10]
+^11^ Pero hablará a esta nación de labios tartamudos y en otra lengua, ^12^ a la que dijo: “Este es el lugar de descanso. Da descanso al cansado” y “Este es el refrigerio”; pero no quisieron escuchar. ^a^ ^b^ ^c^ ^13^ Por lo tanto, la palabra de Yahvé será para ellos precepto sobre precepto, precepto sobre precepto; línea sobre línea, línea sobre línea; aquí un poco, allí un poco; para que vayan, caigan de espaldas, sean quebrantados, atrapados y tomados. ^d^ ^e^ ^f^ 
+^a^[**28:12** Mat 11,28-29] ^b^[**28:12** Mat 11,28-29] ^c^[**28:12** Mat 11,28-29] ^d^[**28:13** Is 28,10] ^e^[**28:13** Is 28,10] ^f^[**28:13** Is 28,10]
+
+
+
+
 
 ## Condenar y amenazar a los líderes confiados del estado
-^14^ Escuchen, pues, la palabra de Yahvé, burlones, que gobiernan a este pueblo en Jerusalén: ^15^ “Porque ustedes han dicho: ‘Hemos hecho un pacto con la muerte, y estamos de acuerdo con el Seol.^a^ Cuando pase el azote desbordante, no vendrá a nosotros; porque hemos hecho de la mentira nuestro refugio, y nos hemos escondido bajo la mentira.’” ^16^ Por eso dice el Señor Yahvé: “He aquí que pongo en Sión como fundamento una piedra, una piedra probada, una piedra angular preciosa de fundamento seguro. El que crea no actuará precipitadamente. ^b^ ^17^ Haré que la justicia sea la línea de medida, y la rectitud la línea de plomada. El granizo barrerá el refugio de la mentira, y las aguas desbordarán el escondite. ^18^ Tu pacto con la muerte será anulado, y tu acuerdo con el Seol no se mantendrá. Cuando pase el azote desbordante, entonces serás pisoteado por él. ^19^ Todas las veces que pase, te apresará; porque de mañana a mañana pasará, de día y de noche; y no será más que terror entender el mensaje”. ^20^ Porque el lecho es demasiado corto para extenderse, y la manta es demasiado estrecha para envolverse en ella. ^21^ Porque Yahvé se levantará como en el monte Perazim. Se enfurecerá como en el valle de Gabaón; para hacer su obra, su insólita obra, y llevar a cabo su acto, su extraordinario acto. ^c^ ^22^ Ahora, pues, no sean burlones, para que no se fortalezcan sus ataduras; porque he oído un decreto de destrucción de parte del Señor, Yahvé de los Ejércitos, sobre toda la tierra. ^d^ 
-^a^[**28:15** El Seol es el lugar de los muertos.] ^b^[**28:16** Sal 118,22; Rom 9,33; Rom 10,11; 1Pe 2,6] ^c^[**28:21** 2Sam 5,20; 1Cró 14,16] ^d^[**28:22** Is 10,22-23]
+^14^ Escuchen, pues, la palabra de Yahvé, burlones, que gobiernan a este pueblo en Jerusalén: ^15^ “Porque ustedes han dicho: ‘Hemos hecho un pacto con la muerte, y estamos de acuerdo con el Seol.^a^ Cuando pase el azote desbordante, no vendrá a nosotros; porque hemos hecho de la mentira nuestro refugio, y nos hemos escondido bajo la mentira.’” ^16^ Por eso dice el Señor Yahvé: “He aquí que pongo en Sión como fundamento una piedra, una piedra probada, una piedra angular preciosa de fundamento seguro. El que crea no actuará precipitadamente. ^b^ ^c^ ^d^ ^17^ Haré que la justicia sea la línea de medida, y la rectitud la línea de plomada. El granizo barrerá el refugio de la mentira, y las aguas desbordarán el escondite. ^18^ Tu pacto con la muerte será anulado, y tu acuerdo con el Seol no se mantendrá. Cuando pase el azote desbordante, entonces serás pisoteado por él. ^19^ Todas las veces que pase, te apresará; porque de mañana a mañana pasará, de día y de noche; y no será más que terror entender el mensaje”. ^20^ Porque el lecho es demasiado corto para extenderse, y la manta es demasiado estrecha para envolverse en ella. ^21^ Porque Yahvé se levantará como en el monte Perazim. Se enfurecerá como en el valle de Gabaón; para hacer su obra, su insólita obra, y llevar a cabo su acto, su extraordinario acto. ^e^ ^f^ ^g^ ^22^ Ahora, pues, no sean burlones, para que no se fortalezcan sus ataduras; porque he oído un decreto de destrucción de parte del Señor, Yahvé de los Ejércitos, sobre toda la tierra. ^h^ ^i^ ^j^ 
+^a^[**28:15** El Seol es el lugar de los muertos.] ^b^[**28:16** Sal 118,22; Rom 9,33; Rom 10,11; 1Pe 2,6] ^c^[**28:16** Sal 118,22; Rom 9,33; Rom 10,11; 1Pe 2,6] ^d^[**28:16** Sal 118,22; Rom 9,33; Rom 10,11; 1Pe 2,6] ^e^[**28:21** 2Sam 5,20; 1Cró 14,16] ^f^[**28:21** 2Sam 5,20; 1Cró 14,16] ^g^[**28:21** 2Sam 5,20; 1Cró 14,16] ^h^[**28:22** Is 10,22-23] ^i^[**28:22** Is 10,22-23] ^j^[**28:22** Is 10,22-23]
+
+
+
+
 
 ## El sabio comportamiento de Dios en su obra educativa sobre los pueblos a pesar de todos los cambios está ilustrado por una parábola (del agricultor)
 ^23^ ¡Escuchen y oigan mi voz! ¡Escuchen, y oigan mi discurso! ^24^ ¿Acaso el que ara para sembrar lo hace continuamente? ¿Acaso no revuelve la tierra y rompe los terrones? ^25^ Cuando ha nivelado su superficie, ¿no planta el eneldo y esparce la semilla de comino, y coloca el trigo en hileras, la cebada en el lugar señalado y la escanda en su sitio? ^26^ Porque su Dios le instruye en el recto juicio y le enseña. ^27^ Porque el eneldo no se trilla con instrumento afilado, ni se hace girar una rueda de carro sobre el comino; sino que el eneldo se golpea con un palo, y el comino con una vara. ^28^ La harina de pan debe ser molida, por lo que no siempre estará trillando. Aunque pase la rueda de su carro de trillar sobre ella, sus caballos no la muelen. ^29^ Esto también sale de Yahvé de los Ejércitos, que es maravilloso en el consejo, y excelente en la sabiduría. 
 
 # 29 
 ## Anuncio del asedio, la humillación y la maravillosa salvación de Jerusalén, el Ariel
-^1^ ¡Ay de Ariel! ¡Ariel, la ciudad donde acampó David! Añade año a año; que vengan las fiestas; ^a^ ^2^ entonces afligiré a Ariel, y habrá luto y lamentación. Ella será para mí como el hogar de un altar. ^3^ Acamparé contra ti a tu alrededor y te sitiaré con tropas apostadas. Levantaré contra ti obras de asedio. ^4^ Serás derribado y hablarás desde la tierra. Tu discurso será un murmullo del polvo. Tu voz será como la de un espíritu familiar, desde la tierra, y tu discurso susurrará desde el polvo. 
-^a^[**29:1** Is 29,7-8]
+^1^ ¡Ay de Ariel! ¡Ariel, la ciudad donde acampó David! Añade año a año; que vengan las fiestas; ^a^ ^b^ ^c^ ^2^ entonces afligiré a Ariel, y habrá luto y lamentación. Ella será para mí como el hogar de un altar. ^3^ Acamparé contra ti a tu alrededor y te sitiaré con tropas apostadas. Levantaré contra ti obras de asedio. ^4^ Serás derribado y hablarás desde la tierra. Tu discurso será un murmullo del polvo. Tu voz será como la de un espíritu familiar, desde la tierra, y tu discurso susurrará desde el polvo. 
+^a^[**29:1** Is 29,7-8] ^b^[**29:1** Is 29,7-8] ^c^[**29:1** Is 29,7-8]
 
-^5^ Pero la multitud de tus enemigos será como polvo fino, y la multitud de los despiadados como paja que se desvanece. Sí, será en un instante, de repente. ^6^ Será visitada por el Señor de los Ejércitos con truenos, con terremotos, con gran ruido, con torbellino y tormenta, y con la llama de un fuego devorador. ^a^ ^7^ La multitud de todas las naciones que luchan contra Ariel, todos los que luchan contra ella y su fortaleza, y que la angustian, será como un sueño, una visión de la noche. ^8^ Será como cuando un hombre hambriento sueña, y he aquí que come; pero se despierta, y su hambre no está satisfecha; o como cuando un hombre sediento sueña, y he aquí que bebe; pero se despierta, y he aquí que está desfallecido, y todavía tiene sed. Así será la multitud de todas las naciones que luchan contra el monte Sión.
-^a^[**29:6** Is 30,30]
+^5^ Pero la multitud de tus enemigos será como polvo fino, y la multitud de los despiadados como paja que se desvanece. Sí, será en un instante, de repente. ^6^ Será visitada por el Señor de los Ejércitos con truenos, con terremotos, con gran ruido, con torbellino y tormenta, y con la llama de un fuego devorador. ^a^ ^b^ ^c^ ^7^ La multitud de todas las naciones que luchan contra Ariel, todos los que luchan contra ella y su fortaleza, y que la angustian, será como un sueño, una visión de la noche. ^8^ Será como cuando un hombre hambriento sueña, y he aquí que come; pero se despierta, y su hambre no está satisfecha; o como cuando un hombre sediento sueña, y he aquí que bebe; pero se despierta, y he aquí que está desfallecido, y todavía tiene sed. Así será la multitud de todas las naciones que luchan contra el monte Sión.
+^a^[**29:6** Is 30,30] ^b^[**29:6** Is 30,30] ^c^[**29:6** Is 30,30]
+
+
+
+
 
 ## La profunda ceguera del pueblo obra de Dios
 ^9^ ¡Parad y preguntad! ¡Cegad y sed ciegos! Están ebrios, pero no de vino; se tambalean, pero no de bebida fuerte. ^10^ Porque el Señor ha derramado sobre ustedes un espíritu de sueño profundo, y ha cerrado sus ojos, los profetas, y ha cubierto sus cabezas, los videntes. ^11^ Toda visión se ha vuelto para ustedes como las palabras de un libro sellado, que los hombres entregan a uno instruido, diciéndole: “Lee esto, por favor”; y él dice: “No puedo, porque está sellado”; ^12^ y el libro se entrega a uno no instruido, diciéndole: “Lee esto, por favor”; y él dice: “No puedo leer”. 
 
+
+
+
+
 ## La piedad exterior de la gente hace necesarias medidas especiales de Dios
-^13^ El Señor dijo: “Porque este pueblo se acerca con su boca y me honra con sus labios, pero ha alejado su corazón de mí, y su temor a mí es un mandamiento de hombres que ha sido enseñado; ^a^ ^14^ por lo tanto, he aquí que procederé a hacer una obra maravillosa en este pueblo, una obra maravillosa y un prodigio; y la sabiduría de sus sabios perecerá, y el entendimiento de sus prudentes se ocultará.” ^b^ 
-^a^[**29:13** Is 1,15; Is 58,2-3; Mat 15,8-9] ^b^[**29:14** Is 44,25; 1Cor 1,19]
+^13^ El Señor dijo: “Porque este pueblo se acerca con su boca y me honra con sus labios, pero ha alejado su corazón de mí, y su temor a mí es un mandamiento de hombres que ha sido enseñado; ^a^ ^b^ ^c^ ^14^ por lo tanto, he aquí que procederé a hacer una obra maravillosa en este pueblo, una obra maravillosa y un prodigio; y la sabiduría de sus sabios perecerá, y el entendimiento de sus prudentes se ocultará.” ^d^ ^e^ ^f^ 
+^a^[**29:13** Is 1,15; Is 58,2-3; Mat 15,8-9] ^b^[**29:13** Is 1,15; Is 58,2-3; Mat 15,8-9] ^c^[**29:13** Is 1,15; Is 58,2-3; Mat 15,8-9] ^d^[**29:14** Is 44,25; 1Cor 1,19] ^e^[**29:14** Is 44,25; 1Cor 1,19] ^f^[**29:14** Is 44,25; 1Cor 1,19]
+
+
+
+
 
 ## Ay del gobierno idiosincrásico (política) de Juda
-^15^ Ay de los que ocultan profundamente su consejo a Yahvé, y cuyas obras están en la oscuridad, y que dicen: “¿Quién nos ve?” y “¿Quién nos conoce?” ^a^ ^16^ ¡Ustedes ponen las cosas al revés! ¿Acaso el alfarero debe ser considerado como el barro, para que la cosa hecha diga de quien la hizo: “Él no me hizo”; o la cosa formada diga de quien la formó: “Él no tiene entendimiento”? ^b^ 
-^a^[**29:15** Sal 10,11] ^b^[**29:16** Is 45,9]
+^15^ Ay de los que ocultan profundamente su consejo a Yahvé, y cuyas obras están en la oscuridad, y que dicen: “¿Quién nos ve?” y “¿Quién nos conoce?” ^a^ ^b^ ^c^ ^16^ ¡Ustedes ponen las cosas al revés! ¿Acaso el alfarero debe ser considerado como el barro, para que la cosa hecha diga de quien la hizo: “Él no me hizo”; o la cosa formada diga de quien la formó: “Él no tiene entendimiento”? ^d^ ^e^ ^f^ 
+^a^[**29:15** Sal 10,11] ^b^[**29:15** Sal 10,11] ^c^[**29:15** Sal 10,11] ^d^[**29:16** Is 45,9] ^e^[**29:16** Is 45,9] ^f^[**29:16** Is 45,9]
+
+
+
+
 
 ## El giro consolador de las cosas en el futuro
-^17^ ¿No es todavía muy poco tiempo, y el Líbano se convertirá en un campo fructífero, y el campo fructífero será considerado como un bosque? ^a^ ^18^ En aquel día, los sordos oirán las palabras del libro, y los ojos de los ciegos verán desde la oscuridad y desde las tinieblas. ^b^ ^19^ También los humildes aumentarán su alegría en Yahvé, y los pobres entre los hombres se alegrarán en el Santo de Israel. ^20^ Porque el despiadado queda reducido a la nada, y el burlón cesa, y todos los que están alertas para hacer el mal son cortados — ^21^ que hacen que una persona sea acusada por una palabra, y ponen una trampa al que reprende en la puerta, y que privan al inocente de la justicia con un testimonio falso. ^c^ 
-^a^[**29:17** Is 32,15] ^b^[**29:18** Is 35,5] ^c^[**29:21** Am 5,10]
+^17^ ¿No es todavía muy poco tiempo, y el Líbano se convertirá en un campo fructífero, y el campo fructífero será considerado como un bosque? ^a^ ^b^ ^c^ ^18^ En aquel día, los sordos oirán las palabras del libro, y los ojos de los ciegos verán desde la oscuridad y desde las tinieblas. ^d^ ^e^ ^f^ ^19^ También los humildes aumentarán su alegría en Yahvé, y los pobres entre los hombres se alegrarán en el Santo de Israel. ^20^ Porque el despiadado queda reducido a la nada, y el burlón cesa, y todos los que están alertas para hacer el mal son cortados — ^21^ que hacen que una persona sea acusada por una palabra, y ponen una trampa al que reprende en la puerta, y que privan al inocente de la justicia con un testimonio falso. ^g^ ^h^ ^i^ 
+^a^[**29:17** Is 32,15] ^b^[**29:17** Is 32,15] ^c^[**29:17** Is 32,15] ^d^[**29:18** Is 35,5] ^e^[**29:18** Is 35,5] ^f^[**29:18** Is 35,5] ^g^[**29:21** Am 5,10] ^h^[**29:21** Am 5,10] ^i^[**29:21** Am 5,10]
 
 ^22^ Por eso Yahvé, que redimió a Abraham, dice respecto a la casa de Jacob: “Jacob ya no se avergonzará, ni su rostro palidecerá. ^23^ Pero cuando vea a sus hijos, obra de mis manos, en medio de él, santificarán mi nombre. Sí, santificarán al Santo de Jacob, y se pondrán a temer al Dios de Israel. ^24^ Tambiénlos que se equivocan de espíritu llegarán al entendimiento, y los que refunfuñan recibirán instrucción.” 
 
@@ -547,95 +835,139 @@
 ## Ay de los impíos e inútiles que buscan ayuda en Egipto
 ^1^ “¡Ay de los hijos rebeldes — dice el Señor — que toman consejo, pero no de mí; y que se alían, pero no con mi Espíritu, para añadir pecado al pecado; ^2^ que se proponen bajar a Egipto sin pedir mi consejo, para fortalecerse en la fuerza del Faraón, y para refugiarse en la sombra de Egipto! ^3^ Por eso la fuerza del Faraón será su vergüenza, y el refugio en la sombra de Egipto su confusión. ^4^ Porque sus príncipes están en Zoán, y sus embajadores han llegado a Hanes. ^5^ Todos ellos se avergonzarán a causa de un pueblo que no puede aprovecharles, que no es una ayuda ni un beneficio, sino una vergüenza, y también un oprobio.” 
 
+
+
+
+
 ## Descartando dicho sobre la importancia política de Egipto
 ^6^ La carga de los animales del Sur. A través de la tierra de la angustia y del sufrimiento, de la leona y del león, de la víbora y de la serpiente voladora, llevan sus riquezas sobre los hombros de los burros jóvenes, y sus tesoros sobre las jorobas de los camellos, a un pueblo inútil. 
 
-^7^ Porque Egipto ayuda en vano y en vano; por eso la he llamado Rahab, la que se queda quieta. ^a^ 
-^a^[**30:7** Sal 87,4; Sal 89,11]
+^7^ Porque Egipto ayuda en vano y en vano; por eso la he llamado Rahab, la que se queda quieta. ^a^ ^b^ ^c^ 
+^a^[**30:7** Sal 87,4; Sal 89,11] ^b^[**30:7** Sal 87,4; Sal 89,11] ^c^[**30:7** Sal 87,4; Sal 89,11]
+
+
+
+
 
 ## Se supone que Isaías debe escribir sus profecías como testimonio del terrible futuro de la gente reacia
 ^8^ Ahora ve, escríbelo delante de ellos en una tabla, e inscríbelo en un libro, para que quede para los tiempos venideros por siempre y para siempre. ^9^ Porque es un pueblo rebelde, hijos mentirosos, hijos que no quieren escuchar la ley de Yahvé; ^10^ que dicen a los videntes: “¡No veas!” y a los profetas: “No nos profeticen cosas buenas. Dígannos cosas agradables. Profetizad engaños. ^11^ Quítate del camino. Apartaos del camino. Haced que el Santo de Israel deje de estar delante de nosotros”. ^12^ Por lo tanto, el Santo de Israel dice: “Por cuanto desprecias esta palabra y confías en la opresión y la perversidad, y te apoyas en ella, ^13^ por lo tanto, esta iniquidad será para ti como una brecha a punto de caer, que se hincha en un muro alto, cuya ruptura llega de repente en un instante. ^14^ La romperá como se rompe una vasija de alfarero, partiéndola en pedazos sin escatimar, de modo que no se encontrará entre los pedazos rotos una pieza lo suficientemente buena para tomar fuego del hogar, o para sacar agua de la cisterna.” 
 
+
+
+
+
 ## Tu fuerza está en quedarte quieto y confiar
-^15^ Porque así ha dicho el Señor Yahvé, el Santo de Israel: “Te salvarás en el retorno y el descanso. Vuestra fuerza estará en la tranquilidad y en la confianza”. Vosotros os negasteis, ^16^ pero dijisteis: “No, porque huiremos a caballo”; por tanto, huiréis; y “montaremos en los veloces”; por tanto, los que os persigan serán veloces. ^17^ Mil huirán ante la amenaza de uno. Ante la amenaza de cinco, huiréis hasta quedar como un faro en la cima de una montaña, y como un estandarte en una colina. ^a^ 
-^a^[**30:17** Lev 26,36]
+^15^ Porque así ha dicho el Señor Yahvé, el Santo de Israel: “Te salvarás en el retorno y el descanso. Vuestra fuerza estará en la tranquilidad y en la confianza”. Vosotros os negasteis, ^16^ pero dijisteis: “No, porque huiremos a caballo”; por tanto, huiréis; y “montaremos en los veloces”; por tanto, los que os persigan serán veloces. ^17^ Mil huirán ante la amenaza de uno. Ante la amenaza de cinco, huiréis hasta quedar como un faro en la cima de una montaña, y como un estandarte en una colina. ^a^ ^b^ ^c^ 
+^a^[**30:17** Lev 26,36] ^b^[**30:17** Lev 26,36] ^c^[**30:17** Lev 26,36]
 
 ^18^ Por eso Yahvé esperará, para que tenga piedad de ustedes; y por eso será exaltado, para que tenga piedad de ustedes, porque Yahvé es un Dios de justicia. Bienaventurados todos los que lo esperan. 
 
-## La futura renovación y felicidad de los fieles
-^19^ Porque el pueblo habitará en Sión, en Jerusalén. No llorará más. Ciertamente, él se apiadará de ti a la voz de tu clamor. Cuando te escuche, te responderá. ^20^ Aunque el Señor te dé el pan de la adversidad y el agua de la aflicción, tus maestros ya no estarán ocultos, sino que tus ojos verán a tus maestros; ^21^ y cuando te gires a la derecha, y cuando te gires a la izquierda, tus oídos oirán una voz detrás de ti, que dirá: “Este es el camino. Camina por él”. ^a^ ^22^ Profanarás el revestimiento de tus imágenes grabadas de plata y el revestimiento de tus imágenes fundidas de oro. Las desecharás como cosa inmunda. Le dirás: “¡Vete!” ^b^ 
-^a^[**30:21** Deut 5,29; Deut 28,14] ^b^[**30:22** Is 2,20; Is 27,9; Gén 35,2; Gén 35,4]
 
-^23^ Él dará la lluvia para tu semilla, con la que sembrarás la tierra; y el pan del crecimiento de la tierra será rico y abundante. En ese día, tu ganado se alimentará en grandes pastos. ^24^ También los bueyes y los asnos jóvenes que cultivan la tierra comerán un alimento sabroso, que ha sido aventado con la pala y con el tenedor. ^25^ Habrá arroyos y corrientes de agua en toda montaña elevada y en todo cerro alto en el día de la gran matanza, cuando caigan las torres. ^26^ Además, la luz de la luna será como la luz del sol, y la luz del sol será siete veces más brillante, como la luz de siete días, el día en que Yahvé cure la fractura de su pueblo y sane la herida con que fue herido. ^a^ 
-^a^[**30:26** Is 60,19; Is 61,1]
+
+
+
+## La futura renovación y felicidad de los fieles
+^19^ Porque el pueblo habitará en Sión, en Jerusalén. No llorará más. Ciertamente, él se apiadará de ti a la voz de tu clamor. Cuando te escuche, te responderá. ^20^ Aunque el Señor te dé el pan de la adversidad y el agua de la aflicción, tus maestros ya no estarán ocultos, sino que tus ojos verán a tus maestros; ^21^ y cuando te gires a la derecha, y cuando te gires a la izquierda, tus oídos oirán una voz detrás de ti, que dirá: “Este es el camino. Camina por él”. ^a^ ^b^ ^c^ ^22^ Profanarás el revestimiento de tus imágenes grabadas de plata y el revestimiento de tus imágenes fundidas de oro. Las desecharás como cosa inmunda. Le dirás: “¡Vete!” ^d^ ^e^ ^f^ 
+^a^[**30:21** Deut 5,29; Deut 28,14] ^b^[**30:21** Deut 5,29; Deut 28,14] ^c^[**30:21** Deut 5,29; Deut 28,14] ^d^[**30:22** Is 2,20; Is 27,9; Gén 35,2; Gén 35,4] ^e^[**30:22** Is 2,20; Is 27,9; Gén 35,2; Gén 35,4] ^f^[**30:22** Is 2,20; Is 27,9; Gén 35,2; Gén 35,4]
+
+^23^ Él dará la lluvia para tu semilla, con la que sembrarás la tierra; y el pan del crecimiento de la tierra será rico y abundante. En ese día, tu ganado se alimentará en grandes pastos. ^24^ También los bueyes y los asnos jóvenes que cultivan la tierra comerán un alimento sabroso, que ha sido aventado con la pala y con el tenedor. ^25^ Habrá arroyos y corrientes de agua en toda montaña elevada y en todo cerro alto en el día de la gran matanza, cuando caigan las torres. ^26^ Además, la luz de la luna será como la luz del sol, y la luz del sol será siete veces más brillante, como la luz de siete días, el día en que Yahvé cure la fractura de su pueblo y sane la herida con que fue herido. ^a^ ^b^ ^c^ 
+^a^[**30:26** Is 60,19; Is 61,1] ^b^[**30:26** Is 60,19; Is 61,1] ^c^[**30:26** Is 60,19; Is 61,1]
+
+
+
+
 
 ## La aparición personal de Dios para destruir al enemigo, especialmente a los asirios
-^27^ He aquí que el nombre de Yahvé viene de lejos, ardiendo con su cólera y en espeso humo creciente. Sus labios están llenos de indignación. Su lengua es como un fuego devorador. ^28^ Su aliento es como un torrente desbordante que llega hasta el cuello, para tamizar a las naciones con el cedazo de la destrucción. Un freno que lleva a la ruina estará en las fauces de los pueblos. ^29^ Tendrás un canto, como en la noche en que se celebra una fiesta sagrada, y alegría de corazón, como cuando se va con una flauta a venir al monte de Yavé, a la Roca de Israel. ^30^ Yahvé hará oír su voz gloriosa y mostrará el descenso de su brazo, con la indignación de su cólera y la llama de un fuego devorador, con ráfaga, tormenta y granizo. ^31^ Porque por la voz de Yahvé el asirio será desalentado. Lo golpeará con su vara. ^32^ Cada golpe de la vara de castigo que Yahvé impondrá sobre él, será con el sonido de panderetas y arpas. Luchará con ellos en las batallas, blandiendo armas. ^33^ Porque su lugar de ardor está preparado desde hace tiempo. Sí, está preparado para el rey. Ha hecho su pira profunda y grande con fuego y mucha leña. El aliento de Yahvé, como una corriente de azufre, lo enciende. ^a^ 
-^a^[**30:33** Apoc 19,20]
+^27^ He aquí que el nombre de Yahvé viene de lejos, ardiendo con su cólera y en espeso humo creciente. Sus labios están llenos de indignación. Su lengua es como un fuego devorador. ^28^ Su aliento es como un torrente desbordante que llega hasta el cuello, para tamizar a las naciones con el cedazo de la destrucción. Un freno que lleva a la ruina estará en las fauces de los pueblos. ^29^ Tendrás un canto, como en la noche en que se celebra una fiesta sagrada, y alegría de corazón, como cuando se va con una flauta a venir al monte de Yavé, a la Roca de Israel. ^30^ Yahvé hará oír su voz gloriosa y mostrará el descenso de su brazo, con la indignación de su cólera y la llama de un fuego devorador, con ráfaga, tormenta y granizo. ^31^ Porque por la voz de Yahvé el asirio será desalentado. Lo golpeará con su vara. ^32^ Cada golpe de la vara de castigo que Yahvé impondrá sobre él, será con el sonido de panderetas y arpas. Luchará con ellos en las batallas, blandiendo armas. ^33^ Porque su lugar de ardor está preparado desde hace tiempo. Sí, está preparado para el rey. Ha hecho su pira profunda y grande con fuego y mucha leña. El aliento de Yahvé, como una corriente de azufre, lo enciende. ^a^ ^b^ ^c^ 
+^a^[**30:33** Apoc 19,20] ^b^[**30:33** Apoc 19,20] ^c^[**30:33** Apoc 19,20]
 
 # 31 
 ## Egipto no puede proteger a aquellos cuya impiedad el Eterno debe castigar
-^1^ Ay de los que bajan a Egipto en busca de ayuda, y dependen de los caballos, y confía en los carros porque son muchos, y en los jinetes porque son muy fuertes, pero no miran al Santo de Israel, y no buscan a Yahvé. ^a^ ^2^ Pero él también es sabio, y traerá el desastre, y no retirará sus palabras, sino que se levantará contra la casa de los malhechores, y contra la ayuda de los que obran la iniquidad. ^b^ ^3^ Los egipcios son hombres y no Dios; y sus caballos carne, y no espíritu. Cuando Yahvé extienda su mano, tanto el que ayuda como el que no, tropezará, y el que sea ayudado caerá, y todos ellos serán consumidos juntos.
-^a^[**31:1** Is 30,1-2] ^b^[**31:2** Am 3,6; Núm 23,19]
+^1^ Ay de los que bajan a Egipto en busca de ayuda, y dependen de los caballos, y confía en los carros porque son muchos, y en los jinetes porque son muy fuertes, pero no miran al Santo de Israel, y no buscan a Yahvé. ^a^ ^b^ ^c^ ^2^ Pero él también es sabio, y traerá el desastre, y no retirará sus palabras, sino que se levantará contra la casa de los malhechores, y contra la ayuda de los que obran la iniquidad. ^d^ ^e^ ^f^ ^3^ Los egipcios son hombres y no Dios; y sus caballos carne, y no espíritu. Cuando Yahvé extienda su mano, tanto el que ayuda como el que no, tropezará, y el que sea ayudado caerá, y todos ellos serán consumidos juntos.
+^a^[**31:1** Is 30,1-2] ^b^[**31:1** Is 30,1-2] ^c^[**31:1** Is 30,1-2] ^d^[**31:2** Am 3,6; Núm 23,19] ^e^[**31:2** Am 3,6; Núm 23,19] ^f^[**31:2** Am 3,6; Núm 23,19]
+
+
+
+
 
 ## El Señor quiere salvar su ciudad para los piadosos y destruir Asiria
-^4^ Porque Yahvé me dice, “Como el león y el joven león gruñendo sobre su presa, si se convoca una multitud de pastores contra él, no se desanimará ante su voz, ni rebajarse por su ruido, por lo que Yahvé de los Ejércitos bajará a luchar en el monte Sión y en sus alturas. ^5^ Como las aves que revolotean, así protegerá el Señor de los Ejércitos a Jerusalén. Él lo protegerá y lo entregará. Pasará por encima y lo preservará”. ^6^ Volved a aquel de quien os habéis rebelado profundamente, hijos de Israel. ^7^ Porque en aquel día cada uno se deshará de sus ídolos de plata y de sus ídolos de oro, pecado que vuestras propias manos han hecho para vosotros. ^a^ 
-^a^[**31:7** Is 2,20]
+^4^ Porque Yahvé me dice, “Como el león y el joven león gruñendo sobre su presa, si se convoca una multitud de pastores contra él, no se desanimará ante su voz, ni rebajarse por su ruido, por lo que Yahvé de los Ejércitos bajará a luchar en el monte Sión y en sus alturas. ^5^ Como las aves que revolotean, así protegerá el Señor de los Ejércitos a Jerusalén. Él lo protegerá y lo entregará. Pasará por encima y lo preservará”. ^6^ Volved a aquel de quien os habéis rebelado profundamente, hijos de Israel. ^7^ Porque en aquel día cada uno se deshará de sus ídolos de plata y de sus ídolos de oro, pecado que vuestras propias manos han hecho para vosotros. ^a^ ^b^ ^c^ 
+^a^[**31:7** Is 2,20] ^b^[**31:7** Is 2,20] ^c^[**31:7** Is 2,20]
 
-^8^ “El asirio caerá por la espada, no por el hombre; y la espada, no de la humanidad, lo devorará. Huirá de la espada, y sus jóvenes serán sometidos a trabajos forzados. ^a^ ^9^ Su roca desaparecerá a causa del terror, y sus príncipes tendrán miedo del estandarte”. dice Yahvé, cuyo fuego está en Sión, y su horno en Jerusalén. ^b^ 
-^a^[**31:8** Is 37,36] ^b^[**31:9** Deut 32,31]
+^8^ “El asirio caerá por la espada, no por el hombre; y la espada, no de la humanidad, lo devorará. Huirá de la espada, y sus jóvenes serán sometidos a trabajos forzados. ^a^ ^b^ ^c^ ^9^ Su roca desaparecerá a causa del terror, y sus príncipes tendrán miedo del estandarte”. dice Yahvé, cuyo fuego está en Sión, y su horno en Jerusalén. ^d^ ^e^ ^f^ 
+^a^[**31:8** Is 37,36] ^b^[**31:8** Is 37,36] ^c^[**31:8** Is 37,36] ^d^[**31:9** Deut 32,31] ^e^[**31:9** Deut 32,31] ^f^[**31:9** Deut 32,31]
 
 # 32 
 ## El sentido maravillosamente renovado de los gobernantes y del pueblo a través del juicio
-^1^ He aquí que un rey reinará con justicia, y los príncipes gobernarán con justicia. ^a^ ^2^ El hombre será como un escondite del viento, y una cobertura de la tormenta, como corrientes de agua en un lugar seco, como la sombra de una gran roca en una tierra cansada. ^3^ Los ojos de los que ven no se oscurecerán, y los oídos de los que oyen escucharán. ^4^ El corazón de los temerarios comprenderá el conocimiento, y la lengua de los tartamudos estará lista para hablar con claridad. ^b^ ^5^ El necio ya no será llamado noble, ni el canalla sea muy respetado. ^6^ Porque el necio dirá tonterías, y su corazón obrará la iniquidad, para practicar la blasfemia, y a proferir errores contra Yahvé, para dejar vacía el alma del hambriento, y para hacer fracasar la bebida del sediento. ^7^ Los caminos del canalla son malos. Idea planes perversos para destruir a los humildes con palabras mentirosas, incluso cuando el necesitado habla bien. ^8^ Pero el noble concibe cosas nobles, y continuará en las cosas nobles.
-^a^[**32:1** Jer 23,5] ^b^[**32:4** Is 35,6]
+^1^ He aquí que un rey reinará con justicia, y los príncipes gobernarán con justicia. ^a^ ^b^ ^c^ ^2^ El hombre será como un escondite del viento, y una cobertura de la tormenta, como corrientes de agua en un lugar seco, como la sombra de una gran roca en una tierra cansada. ^3^ Los ojos de los que ven no se oscurecerán, y los oídos de los que oyen escucharán. ^4^ El corazón de los temerarios comprenderá el conocimiento, y la lengua de los tartamudos estará lista para hablar con claridad. ^d^ ^e^ ^f^ ^5^ El necio ya no será llamado noble, ni el canalla sea muy respetado. ^6^ Porque el necio dirá tonterías, y su corazón obrará la iniquidad, para practicar la blasfemia, y a proferir errores contra Yahvé, para dejar vacía el alma del hambriento, y para hacer fracasar la bebida del sediento. ^7^ Los caminos del canalla son malos. Idea planes perversos para destruir a los humildes con palabras mentirosas, incluso cuando el necesitado habla bien. ^8^ Pero el noble concibe cosas nobles, y continuará en las cosas nobles.
+^a^[**32:1** Jer 23,5] ^b^[**32:1** Jer 23,5] ^c^[**32:1** Jer 23,5] ^d^[**32:4** Is 35,6] ^e^[**32:4** Is 35,6] ^f^[**32:4** Is 35,6]
+
+
+
+
 
 ## Discurso punitivo y amenazador a las mujeres que viven con una frivolidad despreocupada
-^9^ ¡Levántense, mujeres que están tranquilas! ¡Escuchad mi voz! Hijas descuidadas, prestad atención a mi discurso. ^a^ ^10^ Por días más allá de un año seréis turbadas, mujeres descuidadas; para la vendimia fallará. La cosecha no llegará. ^11^ ¡Temblad, mujeres que estáis a gusto! ¡Preocúpense, descuidados! Desnúdense, desnúdense, y ponte un saco en la cintura. ^12^ Golpea tus pechos por los campos agradables, para la vid fructífera. ^13^ En la tierra de mi pueblo surgirán espinas y cardos; sí, en todas las casas de la alegría de la ciudad alegre. ^14^ Porque el palacio será abandonado. La populosa ciudad quedará desierta. La colina y la atalaya serán para siempre guaridas, una delicia para los burros salvajes, un pasto de rebaños,
-^a^[**32:9** Is 3,16-999]
+^9^ ¡Levántense, mujeres que están tranquilas! ¡Escuchad mi voz! Hijas descuidadas, prestad atención a mi discurso. ^a^ ^b^ ^c^ ^10^ Por días más allá de un año seréis turbadas, mujeres descuidadas; para la vendimia fallará. La cosecha no llegará. ^11^ ¡Temblad, mujeres que estáis a gusto! ¡Preocúpense, descuidados! Desnúdense, desnúdense, y ponte un saco en la cintura. ^12^ Golpea tus pechos por los campos agradables, para la vid fructífera. ^13^ En la tierra de mi pueblo surgirán espinas y cardos; sí, en todas las casas de la alegría de la ciudad alegre. ^14^ Porque el palacio será abandonado. La populosa ciudad quedará desierta. La colina y la atalaya serán para siempre guaridas, una delicia para los burros salvajes, un pasto de rebaños,
+^a^[**32:9** Is 3,16-999] ^b^[**32:9** Is 3,16-999] ^c^[**32:9** Is 3,16-999]
+
+
+
+
 
 ## Promesa de salvación para las personas que finalmente han sido purificadas después del derramamiento del espíritu
 ^15^ hasta que el Espíritu sea derramado sobre nosotros desde lo alto, y el desierto se convierte en un campo fructífero, y el campo fructífero se considera un bosque. ^16^ Entonces la justicia habitará en el desierto; y la justicia permanecerá en el campo fructífero. ^17^ La obra de la justicia será la paz, y el efecto de la rectitud, la tranquilidad y la confianza para siempre. ^18^ Mi pueblo vivirá en paz, en viviendas seguras, y en lugares de descanso tranquilos, ^19^ aunque el granizo aplane el bosque, y la ciudad es arrasada por completo. ^20^ Benditos seáis los que sembráis junto a todas las aguas, que envían las patas del buey y del asno. 
 
 # 33 
 ## El llamado final de aflicción y angustia para el infame conquistador para quien ahora ha llegado el juicio de Dios
-^1^ Ay de los que destruyen, pero no fueron destruidos, y que traicionan, ¡pero nadie te ha traicionado! Cuando hayas terminado de destruir, serás destruido; y cuando hayas terminado de traicionar, serás traicionado. ^2^ Yahvé, ten piedad de nosotros. Te hemos esperado. Sé nuestra fuerza cada mañana, nuestra salvación también en el tiempo de angustia. ^3^ Al ruido del trueno, los pueblos han huido. Cuando te levantas, las naciones se dispersan. ^a^ ^4^ Tu botín será recogido como recoge la oruga. Los hombres saltarán sobre ella como saltan las langostas. ^5^ Yahvé es exaltado, pues habita en las alturas. Ha llenado Sión de justicia y rectitud. ^6^ Habrá estabilidad en tus tiempos, abundancia de salvación, sabiduría y conocimiento. El temor de Yahvé es tu tesoro. 
-^a^[**33:3** Sal 68,2]
+^1^ Ay de los que destruyen, pero no fueron destruidos, y que traicionan, ¡pero nadie te ha traicionado! Cuando hayas terminado de destruir, serás destruido; y cuando hayas terminado de traicionar, serás traicionado. ^2^ Yahvé, ten piedad de nosotros. Te hemos esperado. Sé nuestra fuerza cada mañana, nuestra salvación también en el tiempo de angustia. ^3^ Al ruido del trueno, los pueblos han huido. Cuando te levantas, las naciones se dispersan. ^a^ ^b^ ^c^ ^4^ Tu botín será recogido como recoge la oruga. Los hombres saltarán sobre ella como saltan las langostas. ^5^ Yahvé es exaltado, pues habita en las alturas. Ha llenado Sión de justicia y rectitud. ^6^ Habrá estabilidad en tus tiempos, abundancia de salvación, sabiduría y conocimiento. El temor de Yahvé es tu tesoro. 
+^a^[**33:3** Sal 68,2] ^b^[**33:3** Sal 68,2] ^c^[**33:3** Sal 68,2]
 
 ^7^ He aquí que sus valientes gritan fuera; los embajadores de la paz lloran amargamente. ^8^ Las carreteras están desoladas. El hombre que viaja cesa. El pacto está roto. Ha despreciado las ciudades. No respeta al hombre. ^9^ La tierra se lamenta y languidece. El Líbano está confundido y se marchita. Sarón es como un desierto, y Basán y Carmelo están desnudos. ^10^ “Ahora me levantaré”, dice Yahvé. “Ahora me levantaré. Ahora seré exaltado. ^11^ Concebirás paja. Darás a luz a rastrojos. Tu aliento es un fuego que te devorará. ^12^ Los pueblos serán como la cal ardiente, como espinas que se cortan y se queman en el fuego. ^13^ Oíd, los que estáis lejos, lo que he hecho; y, vosotros que estáis cerca, reconoced mi poderío”. 
 
-## El efecto santificador del juicio; la felicidad futura del pueblo bajo la protección divina
-^14^ Los pecadores de Sión tienen miedo. El temblor se ha apoderado de los impíos. ¿Quién de nosotros puede vivir con el fuego devorador? ¿Quién de nosotros puede vivir con un ardor eterno? ^15^ El que camina con rectitud y habla sin tapujos, el que desprecia la ganancia de las opresiones, que gesticula con las manos, negándose a aceptar un soborno, que impide que sus oídos escuchen el derramamiento de sangre, y cierra los ojos para no mirar el mal — ^a^ ^16^ morará en las alturas. Su lugar de defensa será la fortaleza de las rocas. Su pan será suministrado. Sus aguas serán seguras. 
-^a^[**33:15** Sal 15,2-5; Sal 24,3-4]
 
-^17^ Tus ojos verán al rey en su belleza. Verán una tierra lejana. ^18^ Tu corazón meditará en el terror. ¿Dónde está el que contaba? ¿Dónde está el que pesó? ¿Dónde está el que contaba las torres? ^19^ Ya no verás al pueblo feroz, un pueblo de un discurso profundo que no puedes comprender, con un lenguaje extraño que no puedes entender. ^a^ ^20^ Mira a Sión, la ciudad de nuestras fiestas señaladas. Tus ojos verán a Jerusalén, una morada tranquila, una tienda de campaña que no se va a quitar. Sus estacas nunca serán arrancadas, ni se romperá ninguna de sus cuerdas. ^21^ Pero allí Yahvé estará con nosotros en majestad, un lugar de amplios ríos y arroyos, en la que no irá ninguna galera con remos, tampoco pasará por allí ningún barco gallardo. ^22^ Porque Yahvé es nuestro juez. Yahvé es nuestro legislador. Yahvé es nuestro rey. Él nos salvará. ^23^ Su aparejo está desatado. No pudieron reforzar el pie de su mástil. No pudieron extender la vela. Entonces se repartió la presa de un gran botín. El cojo se llevó la presa. ^24^ El habitante no dirá: “Estoy enfermo”. Las personas que lo habitan serán perdonadas de su iniquidad.
-^a^[**33:19** Deut 28,49]
+
+
+
+## El efecto santificador del juicio; la felicidad futura del pueblo bajo la protección divina
+^14^ Los pecadores de Sión tienen miedo. El temblor se ha apoderado de los impíos. ¿Quién de nosotros puede vivir con el fuego devorador? ¿Quién de nosotros puede vivir con un ardor eterno? ^15^ El que camina con rectitud y habla sin tapujos, el que desprecia la ganancia de las opresiones, que gesticula con las manos, negándose a aceptar un soborno, que impide que sus oídos escuchen el derramamiento de sangre, y cierra los ojos para no mirar el mal — ^a^ ^b^ ^c^ ^16^ morará en las alturas. Su lugar de defensa será la fortaleza de las rocas. Su pan será suministrado. Sus aguas serán seguras. 
+^a^[**33:15** Sal 15,2-5; Sal 24,3-4] ^b^[**33:15** Sal 15,2-5; Sal 24,3-4] ^c^[**33:15** Sal 15,2-5; Sal 24,3-4]
+
+^17^ Tus ojos verán al rey en su belleza. Verán una tierra lejana. ^18^ Tu corazón meditará en el terror. ¿Dónde está el que contaba? ¿Dónde está el que pesó? ¿Dónde está el que contaba las torres? ^19^ Ya no verás al pueblo feroz, un pueblo de un discurso profundo que no puedes comprender, con un lenguaje extraño que no puedes entender. ^a^ ^b^ ^c^ ^20^ Mira a Sión, la ciudad de nuestras fiestas señaladas. Tus ojos verán a Jerusalén, una morada tranquila, una tienda de campaña que no se va a quitar. Sus estacas nunca serán arrancadas, ni se romperá ninguna de sus cuerdas. ^21^ Pero allí Yahvé estará con nosotros en majestad, un lugar de amplios ríos y arroyos, en la que no irá ninguna galera con remos, tampoco pasará por allí ningún barco gallardo. ^22^ Porque Yahvé es nuestro juez. Yahvé es nuestro legislador. Yahvé es nuestro rey. Él nos salvará. ^23^ Su aparejo está desatado. No pudieron reforzar el pie de su mástil. No pudieron extender la vela. Entonces se repartió la presa de un gran botín. El cojo se llevó la presa. ^24^ El habitante no dirá: “Estoy enfermo”. Las personas que lo habitan serán perdonadas de su iniquidad.
+^a^[**33:19** Deut 28,49] ^b^[**33:19** Deut 28,49] ^c^[**33:19** Deut 28,49]
 
 # 34 
 ## El juicio de Dios contra todos los pueblos extranjeros hostiles al reino de Dios, especialmente Edom
-^1^ ¡Acérquense, naciones, para escuchar! Escuchad, pueblos. Que oiga la tierra y todo lo que contiene, el mundo, y todo lo que proviene de él. ^2^ Porque Yahvé está enfurecido contra todas las naciones, y enojado con todos sus ejércitos. Los ha destruido por completo. Los ha entregado a la matanza. ^3^ Sus muertos también serán expulsados, y subirá el hedor de sus cadáveres. Las montañas se derretirán en su sangre. ^a^ ^4^ Todo el ejército del cielo será disuelto. El cielo se enrollará como un pergamino, y todos sus ejércitos se desvanecerán, como se desvanece una hoja de una vid o de una higuera. ^b^ 
-^a^[**34:3** Is 14,19] ^b^[**34:4** Apoc 14,11; Apoc 19,3]
+^1^ ¡Acérquense, naciones, para escuchar! Escuchad, pueblos. Que oiga la tierra y todo lo que contiene, el mundo, y todo lo que proviene de él. ^2^ Porque Yahvé está enfurecido contra todas las naciones, y enojado con todos sus ejércitos. Los ha destruido por completo. Los ha entregado a la matanza. ^3^ Sus muertos también serán expulsados, y subirá el hedor de sus cadáveres. Las montañas se derretirán en su sangre. ^a^ ^b^ ^c^ ^4^ Todo el ejército del cielo será disuelto. El cielo se enrollará como un pergamino, y todos sus ejércitos se desvanecerán, como se desvanece una hoja de una vid o de una higuera. ^d^ ^e^ ^f^ 
+^a^[**34:3** Is 14,19] ^b^[**34:3** Is 14,19] ^c^[**34:3** Is 14,19] ^d^[**34:4** Apoc 14,11; Apoc 19,3] ^e^[**34:4** Apoc 14,11; Apoc 19,3] ^f^[**34:4** Apoc 14,11; Apoc 19,3]
+
+
+
+
 
 ## El juicio de la ira de Dios contra Edom en venganza por Sion
-^5^ Porque mi espada ha bebido hasta la saciedad en el cielo. He aquí que descenderá sobre Edom, y sobre el pueblo de mi maldición, para el juicio. ^6^ La espada de Yahvé está llena de sangre. Está cubierto de grasa, de sangre de corderos y cabras, con la grasa de los riñones de los carneros; porque Yahvé tiene un sacrificio en Bozra, y una gran matanza en la tierra de Edom. ^7^ Los bueyes salvajes bajarán con ellos, y los novillos con los toros poderosos; y su tierra se embriagará de sangre, y su polvo engrasado con grasa. ^8^ Porque Yahvé tiene un día de venganza, un año de recompensa para la causa de Sion. ^9^ Sus arroyos se convertirán en brea, su polvo en azufre, y su tierra se convertirá en brea ardiente. ^10^ No se apagará ni de noche ni de día. Su humo subirá para siempre. De generación en generación, será un residuo. Nadie pasará por ella para siempre. ^11^ Pero el pelícano y el puercoespín la poseerán. El búho y el cuervo habitarán en él. Él estirará la línea de confusión sobre ella, y la plomada del vacío. ^12^ Llamarán a sus nobles al reino, pero ninguno estará allí; y todos sus príncipes no serán nada. ^13^ En sus palacios surgirán espinas, ortigas y cardos en sus fortalezas; y será morada de chacales, un tribunal para avestruces. ^a^ ^14^ Los animales salvajes del desierto se encontrarán con los lobos, y la cabra salvaje gritará a su compañero. Sí, la criatura nocturna se instalará allí, y encontrará un lugar de descanso. ^15^ La serpiente flecha hará su nido allí, y se acuestan, empollan y reúnen bajo su sombra. Sí, los cometas se reunirán allí, cada uno con su pareja. ^16^ Busca en el libro de Yahvé y lee: no faltará ninguno de ellos. A ninguna le faltará su pareja. Porque mi boca lo ha ordenado, y su Espíritu los ha reunido. ^17^ Ha echado la suerte por ellos, y su mano se la ha repartido con una línea de medida. La poseerán para siempre. De generación en generación, habitarán en ella.
+^5^ Porque mi espada ha bebido hasta la saciedad en el cielo. He aquí que descenderá sobre Edom, y sobre el pueblo de mi maldición, para el juicio. ^6^ La espada de Yahvé está llena de sangre. Está cubierto de grasa, de sangre de corderos y cabras, con la grasa de los riñones de los carneros; porque Yahvé tiene un sacrificio en Bozra, y una gran matanza en la tierra de Edom. ^7^ Los bueyes salvajes bajarán con ellos, y los novillos con los toros poderosos; y su tierra se embriagará de sangre, y su polvo engrasado con grasa. ^8^ Porque Yahvé tiene un día de venganza, un año de recompensa para la causa de Sion. ^9^ Sus arroyos se convertirán en brea, su polvo en azufre, y su tierra se convertirá en brea ardiente. ^10^ No se apagará ni de noche ni de día. Su humo subirá para siempre. De generación en generación, será un residuo. Nadie pasará por ella para siempre. ^11^ Pero el pelícano y el puercoespín la poseerán. El búho y el cuervo habitarán en él. Él estirará la línea de confusión sobre ella, y la plomada del vacío. ^12^ Llamarán a sus nobles al reino, pero ninguno estará allí; y todos sus príncipes no serán nada. ^13^ En sus palacios surgirán espinas, ortigas y cardos en sus fortalezas; y será morada de chacales, un tribunal para avestruces. ^a^ ^b^ ^c^ ^14^ Los animales salvajes del desierto se encontrarán con los lobos, y la cabra salvaje gritará a su compañero. Sí, la criatura nocturna se instalará allí, y encontrará un lugar de descanso. ^15^ La serpiente flecha hará su nido allí, y se acuestan, empollan y reúnen bajo su sombra. Sí, los cometas se reunirán allí, cada uno con su pareja. ^16^ Busca en el libro de Yahvé y lee: no faltará ninguno de ellos. A ninguna le faltará su pareja. Porque mi boca lo ha ordenado, y su Espíritu los ha reunido. ^17^ Ha echado la suerte por ellos, y su mano se la ha repartido con una línea de medida. La poseerán para siempre. De generación en generación, habitarán en ella.
 # 35 
 ## El regreso a casa del pueblo redimido y la gloriosa renovación de Jerusalén
-^1^ El desierto y la tierra seca se alegrarán. El desierto se alegrará y florecerá como una rosa. ^2^ Florecerá abundantemente, y se regocijan incluso con alegría y cantos. La gloria del Líbano le será otorgada, la excelencia de Carmel y Sharon. Verán la gloria de Yahvé, la excelencia de nuestro Dios. ^3^ Fortalecer las manos débiles, y hacer firmes las débiles rodillas. ^b^ ^4^ Dile a los que tienen un corazón temeroso: “¡Sé fuerte! No tengas miedo. He aquí que tu Dios vendrá con la venganza, el castigo de Dios. Él vendrá y te salvará. ^c^ ^5^ Entonces se abrirán los ojos de los ciegos, y los oídos de los sordos no se taparán. ^d^ ^6^ Entonces el cojo saltará como un ciervo, y la lengua del mudo cantará; porque las aguas brotarán en el desierto, y arroyos en el desierto. ^7^ La arena ardiente se convertirá en un estanque, y la tierra sedienta manantiales de agua. La hierba con cañas y juncos estará en la morada de los chacales, donde se acuestan. ^8^ Habrá una carretera, un camino, y se llamará “El Camino Santo”. Los impuros no pasarán por encima, sino que será para los que caminan en el Camino. Los tontos malvados no irán allí. ^e^ ^9^ No habrá ningún león, ni ningún animal voraz subirá a ella. No se encontrarán allí; pero los redimidos caminarán allí. ^10^ Entonces volverán los rescatados de Yahvé, y venir con el canto a Sión; y la alegría eterna estará sobre sus cabezas. Obtendrán alegría y gozo, y la pena y el suspiro huirán”.
-^a^[**34:13** Is 13,21-22] ^b^[**35:3** Heb 12,12] ^c^[**35:4** Sal 94,1] ^d^[**35:5** Is 29,18; Mat 11,5] ^e^[**35:8** Is 62,10]
+^1^ El desierto y la tierra seca se alegrarán. El desierto se alegrará y florecerá como una rosa. ^2^ Florecerá abundantemente, y se regocijan incluso con alegría y cantos. La gloria del Líbano le será otorgada, la excelencia de Carmel y Sharon. Verán la gloria de Yahvé, la excelencia de nuestro Dios. ^3^ Fortalecer las manos débiles, y hacer firmes las débiles rodillas. ^d^ ^e^ ^f^ ^4^ Dile a los que tienen un corazón temeroso: “¡Sé fuerte! No tengas miedo. He aquí que tu Dios vendrá con la venganza, el castigo de Dios. Él vendrá y te salvará. ^g^ ^h^ ^i^ ^5^ Entonces se abrirán los ojos de los ciegos, y los oídos de los sordos no se taparán. ^j^ ^k^ ^l^ ^6^ Entonces el cojo saltará como un ciervo, y la lengua del mudo cantará; porque las aguas brotarán en el desierto, y arroyos en el desierto. ^7^ La arena ardiente se convertirá en un estanque, y la tierra sedienta manantiales de agua. La hierba con cañas y juncos estará en la morada de los chacales, donde se acuestan. ^8^ Habrá una carretera, un camino, y se llamará “El Camino Santo”. Los impuros no pasarán por encima, sino que será para los que caminan en el Camino. Los tontos malvados no irán allí. ^m^ ^n^ ^o^ ^9^ No habrá ningún león, ni ningún animal voraz subirá a ella. No se encontrarán allí; pero los redimidos caminarán allí. ^10^ Entonces volverán los rescatados de Yahvé, y venir con el canto a Sión; y la alegría eterna estará sobre sus cabezas. Obtendrán alegría y gozo, y la pena y el suspiro huirán”.
+^a^[**34:13** Is 13,21-22] ^b^[**34:13** Is 13,21-22] ^c^[**34:13** Is 13,21-22] ^d^[**35:3** Heb 12,12] ^e^[**35:3** Heb 12,12] ^f^[**35:3** Heb 12,12] ^g^[**35:4** Sal 94,1] ^h^[**35:4** Sal 94,1] ^i^[**35:4** Sal 94,1] ^j^[**35:5** Is 29,18; Mat 11,5] ^k^[**35:5** Is 29,18; Mat 11,5] ^l^[**35:5** Is 29,18; Mat 11,5] ^m^[**35:8** Is 62,10] ^n^[**35:8** Is 62,10] ^o^[**35:8** Is 62,10]
 
 # 36 
 ## Jerusalén amenazada por Senaquerib y maravillosamente salvada
-^1^ En el año catorce del rey Ezequías, Senaquerib, rey de Asiria, atacó todas las ciudades fortificadas de Judá y las capturó. ^2^ El rey de Asiria envió a Rabsaces desde Laquis a Jerusalén al rey Ezequías con un gran ejército. Se paró junto al acueducto del estanque superior en la carretera del campo del batán. ^3^ Entonces salieron hacia él Eliaquim, hijo de Hilcías, que estaba al frente de la casa, y Sebna, el escriba, y Joah, hijo de Asaf, el registrador. ^a^ 
-^a^[**36:3** Is 22,20]
+^1^ En el año catorce del rey Ezequías, Senaquerib, rey de Asiria, atacó todas las ciudades fortificadas de Judá y las capturó. ^2^ El rey de Asiria envió a Rabsaces desde Laquis a Jerusalén al rey Ezequías con un gran ejército. Se paró junto al acueducto del estanque superior en la carretera del campo del batán. ^3^ Entonces salieron hacia él Eliaquim, hijo de Hilcías, que estaba al frente de la casa, y Sebna, el escriba, y Joah, hijo de Asaf, el registrador. ^a^ ^b^ ^c^ 
+^a^[**36:3** Is 22,20] ^b^[**36:3** Is 22,20] ^c^[**36:3** Is 22,20]
 
-^4^ Rabsaces les dijo: “Ahora dile a Ezequías: “El gran rey, el rey de Asiria, dice: “¿Qué confianza es ésta en la que confías? ^a^ ^5^ Yo digo que tu consejo y tu fuerza para la guerra son sólo palabras vanas. ¿En quién confías ahora que te has rebelado contra mí? ^6^ He aquí que tú confías en el bastón de esta caña cascada, en Egipto, que si un hombre se apoya en él, se le mete en la mano y lo atraviesa. Así es el Faraón, rey de Egipto, para todos los que confían en él. ^7^ Pero si me dicen: ‘Confiamos en Yavé, nuestro Dios’, ¿no es aquel cuyos lugares altos y cuyos altares ha quitado Ezequías, y ha dicho a Judá y a Jerusalén: ‘Ante este altar adoraréis’?” ^8^ Ahora, pues, hazle una promesa a mi amo el rey de Asiria, y yo te daré dos mil caballos, si eres capaz de poner jinetes en ellos. ^9^ ¿Cómo, pues, puedes rechazar el rostro de un capitán del más pequeño de los siervos de mi amo, y poner tu confianza en Egipto para carros y jinetes? ^10^ ¿Acaso he subido ahora sin Yahvé contra esta tierra para destruirla? Yahvé me dijo: “Sube contra esta tierra y destrúyela””.
-^a^[**36:4** Is 36,13]
+^4^ Rabsaces les dijo: “Ahora dile a Ezequías: “El gran rey, el rey de Asiria, dice: “¿Qué confianza es ésta en la que confías? ^a^ ^b^ ^c^ ^5^ Yo digo que tu consejo y tu fuerza para la guerra son sólo palabras vanas. ¿En quién confías ahora que te has rebelado contra mí? ^6^ He aquí que tú confías en el bastón de esta caña cascada, en Egipto, que si un hombre se apoya en él, se le mete en la mano y lo atraviesa. Así es el Faraón, rey de Egipto, para todos los que confían en él. ^7^ Pero si me dicen: ‘Confiamos en Yavé, nuestro Dios’, ¿no es aquel cuyos lugares altos y cuyos altares ha quitado Ezequías, y ha dicho a Judá y a Jerusalén: ‘Ante este altar adoraréis’?” ^8^ Ahora, pues, hazle una promesa a mi amo el rey de Asiria, y yo te daré dos mil caballos, si eres capaz de poner jinetes en ellos. ^9^ ¿Cómo, pues, puedes rechazar el rostro de un capitán del más pequeño de los siervos de mi amo, y poner tu confianza en Egipto para carros y jinetes? ^10^ ¿Acaso he subido ahora sin Yahvé contra esta tierra para destruirla? Yahvé me dijo: “Sube contra esta tierra y destrúyela””.
+^a^[**36:4** Is 36,13] ^b^[**36:4** Is 36,13] ^c^[**36:4** Is 36,13]
+
+
+
+
 
 ## Senaquerib y la arrogancia de sus embajadores
 ^11^ Entonces Eliaquim, Sebna y Joa dijeron a Rabsaces: “Por favor, habla a tus siervos en arameo, porque lo entendemos. No nos hables en la lengua de los judíos a oídos del pueblo que está en el muro”. 
 
-^12^ Pero Rabsaces dijo: “¿Acaso mi amo me ha enviado sólo a tu amo y a ti para decir estas palabras, y no a los hombres que se sientan en el muro, que comerán su propio estiércol y beberán su propia orina contigo?” ^13^ Entonces Rabsaces se puso de pie y gritó en voz alta en el idioma de los judíos y dijo: “¡Oigan las palabras del gran rey, el rey de Asiria! ^a^ ^14^ El rey dice: ‘No se dejen engañar por Ezequías, porque no podrá liberarlos. ^15^ No dejes que Ezequías te haga confiar en Yavé, diciendo: “Yavé seguramente nos librará. Esta ciudad no será entregada a la mano del rey de Asiria”. ^16^ No escuchen a Ezequías, porque el rey de Asiria dice: “Hagan las paces conmigo y salgan a mi encuentro; y cada uno de ustedes coma de su vid, y cada uno de su higuera, y cada uno de ustedes beba las aguas de su cisterna; ^17^ hasta que yo venga y los lleve a una tierra como la suya, una tierra de grano y de vino nuevo, una tierra de pan y de viñedos. ^18^ Cuídense de que Ezequías no los persuada diciendo: “Yahvé nos librará”. ¿Acaso alguno de los dioses de las naciones ha librado sus tierras de la mano del rey de Asiria? ^b^ ^19^ ¿Dónde están los dioses de Hamat y de Arpad? ¿Dónde están los dioses de Sefarvaim? ¿Han librado a Samaria de mi mano? ^20^ ¿Quiénes son, entre todos los dioses de estas naciones, los que han librado su país de mi mano, para que Yahvé libere a Jerusalén de mi mano?” 
-^a^[**36:13** Is 36,4] ^b^[**36:18** Is 10,10; Is 37,12]
+^12^ Pero Rabsaces dijo: “¿Acaso mi amo me ha enviado sólo a tu amo y a ti para decir estas palabras, y no a los hombres que se sientan en el muro, que comerán su propio estiércol y beberán su propia orina contigo?” ^13^ Entonces Rabsaces se puso de pie y gritó en voz alta en el idioma de los judíos y dijo: “¡Oigan las palabras del gran rey, el rey de Asiria! ^a^ ^b^ ^c^ ^14^ El rey dice: ‘No se dejen engañar por Ezequías, porque no podrá liberarlos. ^15^ No dejes que Ezequías te haga confiar en Yavé, diciendo: “Yavé seguramente nos librará. Esta ciudad no será entregada a la mano del rey de Asiria”. ^16^ No escuchen a Ezequías, porque el rey de Asiria dice: “Hagan las paces conmigo y salgan a mi encuentro; y cada uno de ustedes coma de su vid, y cada uno de su higuera, y cada uno de ustedes beba las aguas de su cisterna; ^17^ hasta que yo venga y los lleve a una tierra como la suya, una tierra de grano y de vino nuevo, una tierra de pan y de viñedos. ^18^ Cuídense de que Ezequías no los persuada diciendo: “Yahvé nos librará”. ¿Acaso alguno de los dioses de las naciones ha librado sus tierras de la mano del rey de Asiria? ^d^ ^e^ ^f^ ^19^ ¿Dónde están los dioses de Hamat y de Arpad? ¿Dónde están los dioses de Sefarvaim? ¿Han librado a Samaria de mi mano? ^20^ ¿Quiénes son, entre todos los dioses de estas naciones, los que han librado su país de mi mano, para que Yahvé libere a Jerusalén de mi mano?” 
+^a^[**36:13** Is 36,4] ^b^[**36:13** Is 36,4] ^c^[**36:13** Is 36,4] ^d^[**36:18** Is 10,10; Is 37,12] ^e^[**36:18** Is 10,10; Is 37,12] ^f^[**36:18** Is 10,10; Is 37,12]
 
 ^21^ Pero ellos permanecieron en silencio y no dijeron nada en respuesta, porque la orden del rey era: “No le respondan”. 
 
@@ -649,51 +981,79 @@
 
 ^6^ Isaías les dijo: “Díganle a su amo: “No temas las palabras que has oído, con las que los siervos del rey de Asiria me han blasfemado. ^7^ He aquí que yo pondré un espíritu en él y oirá noticias, y volverá a su tierra. Haré que caiga a espada en su propia tierra”. 
 
+
+
+
+
 ## La segunda solicitud de Sennacherib a través de una carta amenazante de Libna
-^8^ Volvió, pues, Rabsaces, y encontró al rey de Asiria guerreando contra Libna, pues había oído que había salido de Laquis. ^9^ Oyó noticias sobre Tirhakah, rey de Etiopía: “Ha salido a luchar contra ti”. Cuando lo oyó, envió mensajeros a Ezequías, diciéndole: ^10^ “Así hablarás a Ezequías, rey de Judá, diciéndole: “No dejes que tu Dios, en quien confías, te engañe diciendo: “Jerusalén no será entregada en manos del rey de Asiria.” ^11^ He aquí que has oído lo que los reyes de Asiria han hecho a todas las tierras, destruyéndolas por completo. ¿Serás liberado? ^12^ ¿Los dioses de las naciones han librado a los que mis padres destruyeron, a Gozán, a Harán, a Rezef y a los hijos de Edén que estaban en Telasar? ^a^ ^13^ ¿Dónde está el rey de Hamat, y el rey de Arpad, y el rey de la ciudad de Sefarvaim, de Hena y de Ivva?”
-^a^[**37:12** Is 36,18]
+^8^ Volvió, pues, Rabsaces, y encontró al rey de Asiria guerreando contra Libna, pues había oído que había salido de Laquis. ^9^ Oyó noticias sobre Tirhakah, rey de Etiopía: “Ha salido a luchar contra ti”. Cuando lo oyó, envió mensajeros a Ezequías, diciéndole: ^10^ “Así hablarás a Ezequías, rey de Judá, diciéndole: “No dejes que tu Dios, en quien confías, te engañe diciendo: “Jerusalén no será entregada en manos del rey de Asiria.” ^11^ He aquí que has oído lo que los reyes de Asiria han hecho a todas las tierras, destruyéndolas por completo. ¿Serás liberado? ^12^ ¿Los dioses de las naciones han librado a los que mis padres destruyeron, a Gozán, a Harán, a Rezef y a los hijos de Edén que estaban en Telasar? ^a^ ^b^ ^c^ ^13^ ¿Dónde está el rey de Hamat, y el rey de Arpad, y el rey de la ciudad de Sefarvaim, de Hena y de Ivva?”
+^a^[**37:12** Is 36,18] ^b^[**37:12** Is 36,18] ^c^[**37:12** Is 36,18]
+
+
+
+
 
 ## La súplica de Ezechîas en el templo
 ^14^ Ezequías recibió la carta de manos de los mensajeros y la leyó. Entonces Ezequías subió a la casa de Yavé y la extendió ante Yavé. ^15^ Ezequías oró a Yavé, diciendo: ^16^ “Yavé de los Ejércitos, el Dios de Israel, que está entronizado entre los querubines, tú eres el Dios, sólo tú, de todos los reinos de la tierra. Tú has hecho el cielo y la tierra. ^17^ Vuelve tu oído, Yahvé, y escucha. Abre tus ojos, Yahvé, y mira. Escucha todas las palabras de Senaquerib, que ha enviado a desafiar al Dios vivo. ^18^ En verdad, Yahvé, los reyes de Asiria han destruido todos los países y sus tierras, ^19^ y han echado al fuego a sus dioses, pues no eran dioses, sino obra de manos de hombres, madera y piedra; por eso los han destruido. ^20^ Ahora, pues, Yahvé, nuestro Dios, sálvanos de su mano, para que todos los reinos de la tierra sepan que tú eres Yahvé, tú solo”. 
 
+
+
+
+
 ## Isaías envía notificación de su oración al rey Ezechîas en el nombre de Dios
 ^21^ Entonces Isaías, hijo de Amoz, envió a decir a Ezequías: “Yahvé, el Dios de Israel, dice: ‘Por haberme rogado contra Senaquerib, rey de Asiria, ^22^ esta es la palabra que Yahvé ha dicho sobre él: La virgen hija de Sión te ha despreciado y te ha ridiculizado. La hija de Jerusalén ha sacudido la cabeza ante ti. 
 
-^23^ ¿A quién has desafiado y blasfemado? ¿Contra quién has alzado tu voz y levantado tus ojos en alto? Contra el Santo de Israel. ^24^ Por medio de tus siervos, has desafiado al Señor y has dicho: “Con la multitud de mis carros he subido a la altura de los montes, a lo más recóndito del Líbano. Cortaré sus altos cedros y sus selectos cipreses. Entraré en su altura más lejana, en el bosque de su campo fructífero. ^a^ ^25^ He cavado y bebido agua, y con la planta de mis pies secaré todos los ríos de Egipto.” 
-^a^[**37:24** Is 14,8]
+^23^ ¿A quién has desafiado y blasfemado? ¿Contra quién has alzado tu voz y levantado tus ojos en alto? Contra el Santo de Israel. ^24^ Por medio de tus siervos, has desafiado al Señor y has dicho: “Con la multitud de mis carros he subido a la altura de los montes, a lo más recóndito del Líbano. Cortaré sus altos cedros y sus selectos cipreses. Entraré en su altura más lejana, en el bosque de su campo fructífero. ^a^ ^b^ ^c^ ^25^ He cavado y bebido agua, y con la planta de mis pies secaré todos los ríos de Egipto.” 
+^a^[**37:24** Is 14,8] ^b^[**37:24** Is 14,8] ^c^[**37:24** Is 14,8]
 
 ^26^ “‘¿No has oído cómo lo he hecho hace mucho tiempo, y lo he formado en tiempos antiguos? Ahora he hecho que sea tuya la destrucción de las ciudades fortificadas, convirtiéndolas en montones ruinosos. ^27^ Por eso sus habitantes tenían poco poder. Estaban consternados y confundidos. Eran como la hierba del campo, y como la hierba verde, como la hierba de los tejados, y como un campo antes de que haya crecido su cosecha. ^28^ Pero yo sé que te sientas, que sales, que entras y que te enfureces contra mí. ^29^ A causa de tu furia contra mí, y porque tu arrogancia ha subido a mis oídos, pondré mi garfio en tu nariz y mi freno en tus labios, y te haré volver por el camino por el que viniste. 
 
-^30^ “‘Esta será la señal para vosotros: Este año comeréis lo que crece por sí mismo, y el segundo año lo que brota de él; y el tercer año sembraréis y segaréis y plantaréis viñas, y comeréis su fruto. ^31^ El remanente que se ha escapado de la casa de Judá volverá a echar raíces hacia abajo y a dar fruto hacia arriba. ^a^ ^32^ Porque de Jerusalén saldrá un remanente, y los sobrevivientes escaparán del monte Sión. El celo de Yahvé de los Ejércitos realizará esto”. 
-^a^[**37:31** Is 27,6]
+^30^ “‘Esta será la señal para vosotros: Este año comeréis lo que crece por sí mismo, y el segundo año lo que brota de él; y el tercer año sembraréis y segaréis y plantaréis viñas, y comeréis su fruto. ^31^ El remanente que se ha escapado de la casa de Judá volverá a echar raíces hacia abajo y a dar fruto hacia arriba. ^a^ ^b^ ^c^ ^32^ Porque de Jerusalén saldrá un remanente, y los sobrevivientes escaparán del monte Sión. El celo de Yahvé de los Ejércitos realizará esto”. 
+^a^[**37:31** Is 27,6] ^b^[**37:31** Is 27,6] ^c^[**37:31** Is 27,6]
 
 ^33^ “Por eso dice el Señor acerca del rey de Asiria: ‘No vendrá a esta ciudad, ni disparará una flecha en ella, ni se presentará ante ella con escudo, ni levantará un montículo contra ella. ^34^ Volverá por donde vino, y no vendrá a esta ciudad’, dice el Señor. ^35^ ‘Porque yo defenderé esta ciudad para salvarla, por mí y por mi siervo David’”. 
+
+
+
+
 
 ## El cumplimiento de la promesa: la partida y el asesinato de Senaquerib
 ^36^ Entonces el ángel de Yahvé salió e hirió a ciento ochenta y cinco mil hombres en el campamento de los asirios. Cuando los hombres se levantaron de madrugada, he aquí que todos ellos eran cadáveres. ^37^ Entonces Senaquerib, rey de Asiria, se marchó, volvió a Nínive y se quedó allí. ^38^ Mientras adoraba en la casa de Nisroc, su dios, Adramelec y Sharezer, sus hijos, lo hirieron con la espada, y escaparon a la tierra de Ararat. Su hijo Esar Haddón reinó en su lugar. 
 
 # 38 
 ## Enfermedad, recuperación y cántico de alabanza de Ezequías
-^1^ En aquellos días Ezequías estaba enfermo y a punto de morir. El profeta Isaías, hijo de Amoz, se acercó a él y le dijo: “Yahvé dice: ‘Pon en orden tu casa, porque morirás y no vivirás’”. ^a^ 
-^a^[**38:1** 2Re 20,1-11; 2Cró 32,24]
+^1^ En aquellos días Ezequías estaba enfermo y a punto de morir. El profeta Isaías, hijo de Amoz, se acercó a él y le dijo: “Yahvé dice: ‘Pon en orden tu casa, porque morirás y no vivirás’”. ^a^ ^b^ ^c^ 
+^a^[**38:1** 2Re 20,1-11; 2Cró 32,24] ^b^[**38:1** 2Re 20,1-11; 2Cró 32,24] ^c^[**38:1** 2Re 20,1-11; 2Cró 32,24]
 
 ^2^ Entonces Ezequías volvió su rostro hacia la pared y oró a Yavé, ^3^ y dijo: “Acuérdate ahora, Yavé, te lo ruego, de cómo he andado delante de ti con verdad y con un corazón perfecto, y he hecho lo que es bueno a tus ojos.” Entonces Ezequías lloró amargamente. 
 
 ^4^ Entonces vino la palabra de Yahvé a Isaías, diciendo: ^5^ “Ve y dile a Ezequías: ‘Yahvé, el Dios de David, tu padre, dice: “He escuchado tu oración. He visto tus lágrimas. He aquí que añadiré quince años a tu vida. ^6^ Te libraré a ti y a esta ciudad de la mano del rey de Asiria, y defenderé esta ciudad. ^7^ Esta será la señal de Yahvé para ti, de que Yahvé hará esto que ha dicho. ^8^ He aquí que yo haré que la sombra del reloj de sol, que se ha puesto en el reloj de sol de Acaz con el sol, regrese diez pasos hacia atrás.”’ Así que el sol volvió diez pasos sobre el reloj de sol en el que se había puesto. 
 
+
+
+
+
 ## Mirando hacia atrás a las dificultades
-^9^ La escritura de Ezequías, rey de Judá, cuando estuvo enfermo y se recuperó de su enfermedad: ^10^ Dije: “En la mitad de mi vida voy a las puertas del Seol. Estoy privado del residuo de mis años”. ^11^ Dije: “No veré a Yah, Yah en la tierra de los vivos. No veré más al hombre con los habitantes del mundo. ^a^ ^12^ Mi vivienda se ha retirado, y se aleja de mí como la tienda de un pastor. He enrollado mi vida como una tejedora. Me cortará el telar. Desde el día hasta la noche me harás acabar. ^b^ ^13^ Esperé pacientemente hasta la mañana. Rompe todos mis huesos como un león. Desde el día hasta la noche me harás acabar. ^c^ ^14^ Parloteaba como una golondrina o una grulla. Gemí como una paloma. Mis ojos se debilitan mirando hacia arriba. Señor, estoy oprimido. Sé mi seguridad”.
-^a^[**38:11** Sal 27,13] ^b^[**38:12** Job 7,6] ^c^[**38:13** Job 10,16]
+^9^ La escritura de Ezequías, rey de Judá, cuando estuvo enfermo y se recuperó de su enfermedad: ^10^ Dije: “En la mitad de mi vida voy a las puertas del Seol. Estoy privado del residuo de mis años”. ^11^ Dije: “No veré a Yah, Yah en la tierra de los vivos. No veré más al hombre con los habitantes del mundo. ^a^ ^b^ ^c^ ^12^ Mi vivienda se ha retirado, y se aleja de mí como la tienda de un pastor. He enrollado mi vida como una tejedora. Me cortará el telar. Desde el día hasta la noche me harás acabar. ^d^ ^e^ ^f^ ^13^ Esperé pacientemente hasta la mañana. Rompe todos mis huesos como un león. Desde el día hasta la noche me harás acabar. ^g^ ^h^ ^i^ ^14^ Parloteaba como una golondrina o una grulla. Gemí como una paloma. Mis ojos se debilitan mirando hacia arriba. Señor, estoy oprimido. Sé mi seguridad”.
+^a^[**38:11** Sal 27,13] ^b^[**38:11** Sal 27,13] ^c^[**38:11** Sal 27,13] ^d^[**38:12** Job 7,6] ^e^[**38:12** Job 7,6] ^f^[**38:12** Job 7,6] ^g^[**38:13** Job 10,16] ^h^[**38:13** Job 10,16] ^i^[**38:13** Job 10,16]
+
+
+
+
 
 ## Expresión de alegría agradecida; Graduación
-^15^ ¿Qué voy a decir? Tanto ha hablado conmigo, como lo ha hecho él mismo. Caminaré con cuidado todos mis años por la angustia de mi alma. ^16^ Señor, de estas cosas viven los hombres; y mi espíritu encuentra vida en todos ellos. Me restableces y me haces vivir. ^17^ He aquí que por la paz he tenido grandes angustias, pero tú, por amor a mi alma, la has liberado del pozo de la corrupción; porque has echado todos mis pecados a tus espaldas. ^18^ Porque el Seol^a^ no puede alabarte. La muerte no puede celebrarlo. Los que bajan al pozo no pueden esperar su verdad. ^b^ ^19^ El que vive, el que vive, te alabará, como yo lo hago hoy. El padre dará a conocer su verdad a los hijos. ^20^ El Señor me salvará. Por eso cantaremos mis canciones con instrumentos de cuerda todos los días de nuestra vida en la casa de Yahvé. 
-^a^[**38:18** El Seol es el lugar de los muertos.] ^b^[**38:18** Sal 6,6]
+^15^ ¿Qué voy a decir? Tanto ha hablado conmigo, como lo ha hecho él mismo. Caminaré con cuidado todos mis años por la angustia de mi alma. ^16^ Señor, de estas cosas viven los hombres; y mi espíritu encuentra vida en todos ellos. Me restableces y me haces vivir. ^17^ He aquí que por la paz he tenido grandes angustias, pero tú, por amor a mi alma, la has liberado del pozo de la corrupción; porque has echado todos mis pecados a tus espaldas. ^18^ Porque el Seol^a^ no puede alabarte. La muerte no puede celebrarlo. Los que bajan al pozo no pueden esperar su verdad. ^b^ ^c^ ^d^ ^19^ El que vive, el que vive, te alabará, como yo lo hago hoy. El padre dará a conocer su verdad a los hijos. ^20^ El Señor me salvará. Por eso cantaremos mis canciones con instrumentos de cuerda todos los días de nuestra vida en la casa de Yahvé. 
+^a^[**38:18** El Seol es el lugar de los muertos.] ^b^[**38:18** Sal 6,6] ^c^[**38:18** Sal 6,6] ^d^[**38:18** Sal 6,6]
 
 ^21^ Isaías había dicho: “Que tomen una torta de higos y la pongan como cataplasma sobre el forúnculo, y se recuperará.” ^22^ También Ezequías había dicho: “¿Cuál es la señal de que subiré a la casa de Yavé?” 
 
 # 39 
 ## Embajada de Merodac-Baladan de Babilonia a Ezequías
 ^1^ En aquel tiempo, Merodac-baladán, hijo de Baladán, rey de Babilonia, envió cartas y un regalo a Ezequías, pues se enteró de que había estado enfermo y se había recuperado. ^2^ Ezequías se alegró de ellos, y les mostró la casa de sus cosas preciosas, la plata, el oro, las especias y el aceite precioso, y toda la casa de su armadura, y todo lo que se encontraba en sus tesoros. No había nada en su casa, ni en todo su dominio, que Ezequías no les mostrara. 
+
+
+
+
 
 ## El discurso de castigo de Isaías sobre la pompa descuidada del rey y su profecía sobre el cautiverio en Babilonia
 ^3^ Entonces el profeta Isaías se acercó al rey Ezequías y le preguntó: “¿Qué han dicho estos hombres? ¿De dónde vinieron a ti?” Ezequías dijo: “Han venido de un país lejano a mí, incluso de Babilonia”. 
@@ -702,457 +1062,749 @@
 
 ^5^ Entonces Isaías dijo a Ezequías: “Escucha la palabra de Yavé de los Ejércitos: ^6^ ‘He aquí que vienen días en que todo lo que hay en tu casa, y lo que tus padres han almacenado hasta hoy, será llevado a Babilonia. No quedará nada’, dice el Señor. ^7^ ‘Se llevarán a tus hijos que saldrán de ti, a los que engendrarás, y serán eunucos en el palacio del rey de Babilonia’”. 
 
+
+
+
+
 ## La respuesta devota pero impenitente de Ezechîas
 ^8^ Entonces Ezequías dijo a Isaías: “La palabra de Yahvé que has dicho es buena”. Dijo además: “Porque habrá paz y verdad en mis días”. 
 
 # 40 
 ## El dicho consolador de Dios sobre el perdón del pueblo
-^1^ “Consuela, consuela a mi pueblo”, dice tu Dios. ^2^ “Habla confortablemente a Jerusalén, y dile que su guerra está consumada, que su iniquidad está perdonada, que ha recibido de la mano de Yahvé el doble de todos sus pecados.” ^a^ 
-^a^[**40:2** Os 2,16; Zac 9,12]
+^1^ “Consuela, consuela a mi pueblo”, dice tu Dios. ^2^ “Habla confortablemente a Jerusalén, y dile que su guerra está consumada, que su iniquidad está perdonada, que ha recibido de la mano de Yahvé el doble de todos sus pecados.” ^a^ ^b^ ^c^ 
+^a^[**40:2** Os 2,16; Zac 9,12] ^b^[**40:2** Os 2,16; Zac 9,12] ^c^[**40:2** Os 2,16; Zac 9,12]
+
+
+
+
 
 ## ¡Preparen un camino para el Señor a través del desierto!
-^3^ La voz de quien llama, “¡Preparen el camino de Yahvé en el desierto! Haz una carretera llana en el desierto para nuestro Dios. ^a^ ^4^ Todo valle será exaltado, y todo monte y colina será rebajado. Los desniveles se harán a nivel, y los lugares ásperos una llanura. ^5^ La gloria de Yahvé se revelará, y toda la carne la verá junta; porque la boca de Yahvé lo ha dicho”.
-^a^[**40:3** Luc 3,4-6; Juan 1,23]
+^3^ La voz de quien llama, “¡Preparen el camino de Yahvé en el desierto! Haz una carretera llana en el desierto para nuestro Dios. ^a^ ^b^ ^c^ ^4^ Todo valle será exaltado, y todo monte y colina será rebajado. Los desniveles se harán a nivel, y los lugares ásperos una llanura. ^5^ La gloria de Yahvé se revelará, y toda la carne la verá junta; porque la boca de Yahvé lo ha dicho”.
+^a^[**40:3** Luc 3,4-6; Juan 1,23] ^b^[**40:3** Luc 3,4-6; Juan 1,23] ^c^[**40:3** Luc 3,4-6; Juan 1,23]
+
+
+
+
 
 ## Nada del hombre, pero existencia eterna de la palabra de Dios
-^6^ La voz de uno que dice: “¡Grita!” Uno dijo: “¿Qué voy a llorar?” “Toda la carne es como la hierba, y toda su gloria es como la flor del campo. ^a^ ^7^ La hierba se marchita, la flor se desvanece, porque el aliento de Yahvé sopla sobre ella. Seguramente la gente es como la hierba. ^8^ La hierba se seca, la flor se desvanece; pero la palabra de nuestro Dios permanece para siempre”.
-^a^[**40:6** 1Pe 1,23-25; Sant 1,10; Sant 1,1-11; Sal 90,5-6]
+^6^ La voz de uno que dice: “¡Grita!” Uno dijo: “¿Qué voy a llorar?” “Toda la carne es como la hierba, y toda su gloria es como la flor del campo. ^a^ ^b^ ^c^ ^7^ La hierba se marchita, la flor se desvanece, porque el aliento de Yahvé sopla sobre ella. Seguramente la gente es como la hierba. ^8^ La hierba se seca, la flor se desvanece; pero la palabra de nuestro Dios permanece para siempre”.
+^a^[**40:6** 1Pe 1,23-25; Sant 1,10; Sant 1,1-11; Sal 90,5-6] ^b^[**40:6** 1Pe 1,23-25; Sant 1,10; Sant 1,1-11; Sal 90,5-6] ^c^[**40:6** 1Pe 1,23-25; Sant 1,10; Sant 1,1-11; Sal 90,5-6]
+
+
+
+
 
 ## La canción de la victoria de Sion: El Dios todopoderoso y fiel está aquí
-^9^ Tú, que das buenas noticias a Sión, sube a un monte alto. Tú, que das buenas noticias a Jerusalén, levanta tu voz con fuerza. ¡Levántalo! ¡No tengas miedo! Di a las ciudades de Judá: “¡Contempla a tu Dios!” ^10^ He aquí que el Señor Yahvé vendrá como un poderoso, y su brazo gobernará por él. He aquí que su recompensa está con él, y su recompensa ante él. ^a^ ^11^ Alimentará su rebaño como un pastor. Recogerá los corderos en su brazo, y llevarlos en su seno. Guiará suavemente a los que tienen sus crías. ^b^ 
-^a^[**40:10** Is 62,11] ^b^[**40:11** Juan 10,11-12]
+^9^ Tú, que das buenas noticias a Sión, sube a un monte alto. Tú, que das buenas noticias a Jerusalén, levanta tu voz con fuerza. ¡Levántalo! ¡No tengas miedo! Di a las ciudades de Judá: “¡Contempla a tu Dios!” ^10^ He aquí que el Señor Yahvé vendrá como un poderoso, y su brazo gobernará por él. He aquí que su recompensa está con él, y su recompensa ante él. ^a^ ^b^ ^c^ ^11^ Alimentará su rebaño como un pastor. Recogerá los corderos en su brazo, y llevarlos en su seno. Guiará suavemente a los que tienen sus crías. ^d^ ^e^ ^f^ 
+^a^[**40:10** Is 62,11] ^b^[**40:10** Is 62,11] ^c^[**40:10** Is 62,11] ^d^[**40:11** Juan 10,11-12] ^e^[**40:11** Juan 10,11-12] ^f^[**40:11** Juan 10,11-12]
+
+
+
+
 
 ## La grandeza de Dios en la creación
-^12^ Que ha medido las aguas en el hueco de su mano, y marcó el cielo con su palmo, y calculó el polvo de la tierra en una cesta de medición, y pesaba las montañas en balanzas, y las colinas en una balanza? ^13^ Que ha dirigido el Espíritu de Yahvé, o le ha enseñado como su consejero? ^a^ ^14^ Con quién se asesoró, y que lo instruyó, y le enseñó el camino de la justicia, y le enseñó el conocimiento, y le mostró el camino del entendimiento? ^15^ He aquí que las naciones son como una gota en un cubo, y son considerados como una mota de polvo en una balanza. He aquí que levanta las islas como una cosa muy pequeña. ^16^ Líbano no es suficiente para quemar, ni sus animales suficientes para un holocausto.
-^a^[**40:13** 1Cor 2,16; Rom 11,34]
+^12^ Que ha medido las aguas en el hueco de su mano, y marcó el cielo con su palmo, y calculó el polvo de la tierra en una cesta de medición, y pesaba las montañas en balanzas, y las colinas en una balanza? ^13^ Que ha dirigido el Espíritu de Yahvé, o le ha enseñado como su consejero? ^a^ ^b^ ^c^ ^14^ Con quién se asesoró, y que lo instruyó, y le enseñó el camino de la justicia, y le enseñó el conocimiento, y le mostró el camino del entendimiento? ^15^ He aquí que las naciones son como una gota en un cubo, y son considerados como una mota de polvo en una balanza. He aquí que levanta las islas como una cosa muy pequeña. ^16^ Líbano no es suficiente para quemar, ni sus animales suficientes para un holocausto.
+^a^[**40:13** 1Cor 2,16; Rom 11,34] ^b^[**40:13** 1Cor 2,16; Rom 11,34] ^c^[**40:13** 1Cor 2,16; Rom 11,34]
+
+
+
+
 
 ## La nada de todos los pueblos, de todos los ídolos, de todas las cosas en el cielo y en la tierra
-^17^ Todas las naciones son como nada ante él. Son considerados por él como menos que nada, y vanidad. ^18^ ¿A quién, pues, vas a comparar a Dios? ¿O con qué semejanza se le comparará? ^19^ Un obrero ha fundido una imagen, y el orfebre lo recubre de oro, y le echa cadenas de plata. ^20^ El que está demasiado empobrecido para una ofrenda así, elige un árbol que no se pudra. Busca a un hábil obrero para que le instale una imagen tallada que no se mueva. ^21^ ¿No lo sabías? ¿No te has enterado? ¿No te lo han dicho desde el principio? ¿No has entendido desde los cimientos de la tierra? ^22^ Es el que se sienta sobre el círculo de la tierra, y sus habitantes son como saltamontes; que extiende los cielos como una cortina, y los extiende como una tienda para habitar, ^a^ ^23^ que lleva a los príncipes a la nada, que hace que los jueces de la tierra no tengan sentido. ^24^ Se plantan apenas. Están sembrados apenas. Sus acciones apenas han echado raíces en el suelo. Simplemente sopla sobre ellos y se marchitan, y el torbellino se los lleva como rastrojos. ^25^ “¿A quién, pues, me compararéis? ¿Quién es mi igual?”, dice el Santo. ^26^ Levanta tus ojos a lo alto, y ver quién las ha creado, que saca su ejército por número. Los llama a todos por su nombre. por la grandeza de su poderío, y porque es fuerte en el poder, no falta ni uno.
-^a^[**40:22** Sal 104,2]
+^17^ Todas las naciones son como nada ante él. Son considerados por él como menos que nada, y vanidad. ^18^ ¿A quién, pues, vas a comparar a Dios? ¿O con qué semejanza se le comparará? ^19^ Un obrero ha fundido una imagen, y el orfebre lo recubre de oro, y le echa cadenas de plata. ^20^ El que está demasiado empobrecido para una ofrenda así, elige un árbol que no se pudra. Busca a un hábil obrero para que le instale una imagen tallada que no se mueva. ^21^ ¿No lo sabías? ¿No te has enterado? ¿No te lo han dicho desde el principio? ¿No has entendido desde los cimientos de la tierra? ^22^ Es el que se sienta sobre el círculo de la tierra, y sus habitantes son como saltamontes; que extiende los cielos como una cortina, y los extiende como una tienda para habitar, ^a^ ^b^ ^c^ ^23^ que lleva a los príncipes a la nada, que hace que los jueces de la tierra no tengan sentido. ^24^ Se plantan apenas. Están sembrados apenas. Sus acciones apenas han echado raíces en el suelo. Simplemente sopla sobre ellos y se marchitan, y el torbellino se los lleva como rastrojos. ^25^ “¿A quién, pues, me compararéis? ¿Quién es mi igual?”, dice el Santo. ^26^ Levanta tus ojos a lo alto, y ver quién las ha creado, que saca su ejército por número. Los llama a todos por su nombre. por la grandeza de su poderío, y porque es fuerte en el poder, no falta ni uno.
+^a^[**40:22** Sal 104,2] ^b^[**40:22** Sal 104,2] ^c^[**40:22** Sal 104,2]
+
+
+
+
 
 ## Advertencia de abatimiento a pesar de todas las desgracias
-^27^ ¿Por qué dices, Jacob, y habla, Israel, “Mi camino está oculto a Yahvé, ¿y la justicia que me corresponde es despreciada por mi Dios?” ^28^ ¿No lo sabías? ¿No te has enterado? El Dios eterno, Yahvé, el Creador de los confines de la tierra, no desmaya. No está cansado. Su entendimiento es inescrutable. ^a^ ^29^ Él da poder a los débiles. Aumenta la fuerza del que no tiene fuerza. ^30^ Incluso los jóvenes desfallecen y se cansan, y los jóvenes caen por completo; ^31^ pero los que esperan a Yahvé renovarán sus fuerzas. Se alzarán con alas como águilas. Correrán y no se cansarán. Caminarán y no desfallecerán.
-^a^[**40:28** Is 45,12; Is 40,13]
+^27^ ¿Por qué dices, Jacob, y habla, Israel, “Mi camino está oculto a Yahvé, ¿y la justicia que me corresponde es despreciada por mi Dios?” ^28^ ¿No lo sabías? ¿No te has enterado? El Dios eterno, Yahvé, el Creador de los confines de la tierra, no desmaya. No está cansado. Su entendimiento es inescrutable. ^a^ ^b^ ^c^ ^29^ Él da poder a los débiles. Aumenta la fuerza del que no tiene fuerza. ^30^ Incluso los jóvenes desfallecen y se cansan, y los jóvenes caen por completo; ^31^ pero los que esperan a Yahvé renovarán sus fuerzas. Se alzarán con alas como águilas. Correrán y no se cansarán. Caminarán y no desfallecerán.
+^a^[**40:28** Is 45,12; Is 40,13] ^b^[**40:28** Is 45,12; Is 40,13] ^c^[**40:28** Is 45,12; Is 40,13]
 
 # 41 
 ## Dios como gobernante de la historia de las naciones y señor de la profecía
-^1^ “Guardad silencio ante mí, islas, y que los pueblos renueven sus fuerzas. Que se acerquen, entonces que hablen. Reunámonos para el juicio. ^2^ ¿Quién ha levantado a uno del este? ¿Quién lo llamó a sus pies con justicia? Le entrega las naciones y lo hace gobernar sobre los reyes. Los da como el polvo a su espada, como el rastrojo conducido a su arco. ^a^ ^3^ Los persigue y pasa con seguridad, incluso por un camino que no había recorrido con sus pies. ^4^ Que ha trabajado y lo ha hecho, llamando a las generaciones desde el principio? Yo, Yahvé, el primero, y con el último, yo soy”. ^5^ Las islas han visto y temen. Los confines de la tierra tiemblan. Se acercan y vienen. ^6^ Cada uno ayuda a su prójimo. Dicen a sus hermanos: “¡Sed fuertes!” ^7^ Así que el carpintero anima al orfebre. El que alisa con el martillo anima al que golpea el yunque, diciendo de la soldadura: “Es buena;” y la sujeta con clavos, para que no se tambalee.
-^a^[**41:2** Is 41,25; Is 44,28; Is 45,1; Is 45,13; Is 46,11; Is 48,14-15]
+^1^ “Guardad silencio ante mí, islas, y que los pueblos renueven sus fuerzas. Que se acerquen, entonces que hablen. Reunámonos para el juicio. ^2^ ¿Quién ha levantado a uno del este? ¿Quién lo llamó a sus pies con justicia? Le entrega las naciones y lo hace gobernar sobre los reyes. Los da como el polvo a su espada, como el rastrojo conducido a su arco. ^a^ ^b^ ^c^ ^3^ Los persigue y pasa con seguridad, incluso por un camino que no había recorrido con sus pies. ^4^ Que ha trabajado y lo ha hecho, llamando a las generaciones desde el principio? Yo, Yahvé, el primero, y con el último, yo soy”. ^5^ Las islas han visto y temen. Los confines de la tierra tiemblan. Se acercan y vienen. ^6^ Cada uno ayuda a su prójimo. Dicen a sus hermanos: “¡Sed fuertes!” ^7^ Así que el carpintero anima al orfebre. El que alisa con el martillo anima al que golpea el yunque, diciendo de la soldadura: “Es buena;” y la sujeta con clavos, para que no se tambalee.
+^a^[**41:2** Is 41,25; Is 44,28; Is 45,1; Is 45,13; Is 46,11; Is 48,14-15] ^b^[**41:2** Is 41,25; Is 44,28; Is 45,1; Is 45,13; Is 46,11; Is 48,14-15] ^c^[**41:2** Is 41,25; Is 44,28; Is 45,1; Is 45,13; Is 46,11; Is 48,14-15]
+
+
+
+
 
 ## Israel como siervo de Dios escogido en Abraham y no rechazado desde entonces
-^8^ “Pero tú, Israel, mi siervo, Jacob, a quien he elegido, la descendencia de Abraham mi amigo, ^a^ ^9^ a vosotros, a los que he cogido de los confines de la tierra, y llamado desde sus rincones, y te dijo: ‘Tú eres mi siervo. Te he elegido y no te he desechado’. ^10^ No tengas miedo, porque yo estoy contigo. No te desanimes, porque yo soy tu Dios. Yo te fortaleceré. Sí, te ayudaré. Sí, te sostendré con la diestra de mi justicia. ^11^ He aquí que todos los que se indignan contra ti se verán defraudados y confundidos. Los que luchan contigo serán como nada, y perecerán. ^12^ Los buscarás y no los encontrarás, incluso a los que se enfrentan a ti. Los que te hacen la guerra serán como nada, como algo inexistente. ^13^ Porque yo, Yahvé, tu Dios, te tomaré de la mano derecha, diciéndote: “No tengas miedo. Yo te ayudaré’.
-^a^[**41:8** Is 43,10; Is 42,19; Is 44,1; Is 44,21; Is 45,4; Is 42,1; Sant 2,23]
+^8^ “Pero tú, Israel, mi siervo, Jacob, a quien he elegido, la descendencia de Abraham mi amigo, ^a^ ^b^ ^c^ ^9^ a vosotros, a los que he cogido de los confines de la tierra, y llamado desde sus rincones, y te dijo: ‘Tú eres mi siervo. Te he elegido y no te he desechado’. ^10^ No tengas miedo, porque yo estoy contigo. No te desanimes, porque yo soy tu Dios. Yo te fortaleceré. Sí, te ayudaré. Sí, te sostendré con la diestra de mi justicia. ^11^ He aquí que todos los que se indignan contra ti se verán defraudados y confundidos. Los que luchan contigo serán como nada, y perecerán. ^12^ Los buscarás y no los encontrarás, incluso a los que se enfrentan a ti. Los que te hacen la guerra serán como nada, como algo inexistente. ^13^ Porque yo, Yahvé, tu Dios, te tomaré de la mano derecha, diciéndote: “No tengas miedo. Yo te ayudaré’.
+^a^[**41:8** Is 43,10; Is 42,19; Is 44,1; Is 44,21; Is 45,4; Is 42,1; Sant 2,23] ^b^[**41:8** Is 43,10; Is 42,19; Is 44,1; Is 44,21; Is 45,4; Is 42,1; Sant 2,23] ^c^[**41:8** Is 43,10; Is 42,19; Is 44,1; Is 44,21; Is 45,4; Is 42,1; Sant 2,23]
+
+
+
+
 
 ## Israel como el pueblo aparentemente pobre, pero fuerte y bendecido en Dios
-^14^ No tengas miedo, gusano Jacob, y vosotros, hombres de Israel. Yo te ayudaré”, dice Yahvé. “Tu Redentor es el Santo de Israel. ^a^ ^15^ He aquí que te he convertido en un nuevo instrumento de trilla afilado y con dientes. Trillarás las montañas, y los golpeó en pequeño, y hará que las colinas sean como la paja. ^16^ Tú los aventarás, y el viento se los llevará, y el torbellino los dispersará. Te alegrarás en Yahvé. Te glorificarás en el Santo de Israel. 
-^a^[**41:14** Is 43,3]
+^14^ No tengas miedo, gusano Jacob, y vosotros, hombres de Israel. Yo te ayudaré”, dice Yahvé. “Tu Redentor es el Santo de Israel. ^a^ ^b^ ^c^ ^15^ He aquí que te he convertido en un nuevo instrumento de trilla afilado y con dientes. Trillarás las montañas, y los golpeó en pequeño, y hará que las colinas sean como la paja. ^16^ Tú los aventarás, y el viento se los llevará, y el torbellino los dispersará. Te alegrarás en Yahvé. Te glorificarás en el Santo de Israel. 
+^a^[**41:14** Is 43,3] ^b^[**41:14** Is 43,3] ^c^[**41:14** Is 43,3]
 
 ^17^ El pobre y el necesitado buscan agua, y no la hay. Su lengua falla por la sed. Yo, Yahvé, les responderé. Yo, el Dios de Israel, no los abandonaré. ^18^ Abriré ríos en las alturas desnudas, y manantiales en medio de los valles. Haré del desierto un estanque de agua, y la tierra seca manantiales de agua. ^19^ Pondré árboles de cedro, acacia, mirto y aceite en el desierto. Pondré juntos cipreses, pinos y bojes en el desierto; ^20^ para que vean, conozcan, consideren y comprendan juntos, que la mano de Yahvé ha hecho esto, y el Santo de Israel lo ha creado. 
 
-## La nada de los ídolos que no tienen profecía mientras Dios trae y predice el futuro
-^21^ Produce tu causa”, dice Yahvé. “¡Saca tus fuertes razones!”, dice el Rey de Jacob. ^22^ “¡Que nos anuncien y declaren lo que va a pasar! Declarar las cosas anteriores, lo que son, para que los consideremos y conozcamos su fin último; o mostrarnos lo que está por venir. ^a^ ^23^ Anuncia las cosas que han de venir después, para que sepamos que sois dioses. Sí, haz el bien o haz el mal, para que podamos estar consternados, y verlo juntos. ^24^ Mira, no eres nada, y tu trabajo no es nada. El que te elige es una abominación. 
-^a^[**41:22** Is 43,8-9; Is 44,7]
 
-^25^ “He levantado a uno del norte, y ha venido, desde la salida del sol, el que invoca mi nombre, y vendrá sobre los gobernantes como sobre el mortero, y como el alfarero pisa la arcilla. ^26^ ¿Quién lo ha declarado desde el principio para que lo sepamos? y antes, para que podamos decir: “Tiene razón”. Seguramente, no hay nadie que declare. Seguramente, no hay nadie que lo demuestre. Seguramente, no hay nadie que escuche tus palabras. ^27^ Yo soy el primero en decir a Sión: “Mira, míralos”. y daré a uno que traiga buenas noticias a Jerusalén. ^28^ Cuando miro, no hay ningún hombre, incluso entre ellos no hay ningún consejero que, cuando pregunto, pueda responder una palabra. ^29^ He aquí que todas sus obras son vanidad y nada. Sus imágenes fundidas son viento y confusión. ^a^ 
-^a^[**41:29** Sal 96,5]
+
+
+
+## La nada de los ídolos que no tienen profecía mientras Dios trae y predice el futuro
+^21^ Produce tu causa”, dice Yahvé. “¡Saca tus fuertes razones!”, dice el Rey de Jacob. ^22^ “¡Que nos anuncien y declaren lo que va a pasar! Declarar las cosas anteriores, lo que son, para que los consideremos y conozcamos su fin último; o mostrarnos lo que está por venir. ^a^ ^b^ ^c^ ^23^ Anuncia las cosas que han de venir después, para que sepamos que sois dioses. Sí, haz el bien o haz el mal, para que podamos estar consternados, y verlo juntos. ^24^ Mira, no eres nada, y tu trabajo no es nada. El que te elige es una abominación. 
+^a^[**41:22** Is 43,8-9; Is 44,7] ^b^[**41:22** Is 43,8-9; Is 44,7] ^c^[**41:22** Is 43,8-9; Is 44,7]
+
+^25^ “He levantado a uno del norte, y ha venido, desde la salida del sol, el que invoca mi nombre, y vendrá sobre los gobernantes como sobre el mortero, y como el alfarero pisa la arcilla. ^26^ ¿Quién lo ha declarado desde el principio para que lo sepamos? y antes, para que podamos decir: “Tiene razón”. Seguramente, no hay nadie que declare. Seguramente, no hay nadie que lo demuestre. Seguramente, no hay nadie que escuche tus palabras. ^27^ Yo soy el primero en decir a Sión: “Mira, míralos”. y daré a uno que traiga buenas noticias a Jerusalén. ^28^ Cuando miro, no hay ningún hombre, incluso entre ellos no hay ningún consejero que, cuando pregunto, pueda responder una palabra. ^29^ He aquí que todas sus obras son vanidad y nada. Sus imágenes fundidas son viento y confusión. ^a^ ^b^ ^c^ 
+^a^[**41:29** Sal 96,5] ^b^[**41:29** Sal 96,5] ^c^[**41:29** Sal 96,5]
 
 # 42 
 ## La referencia de Dios a su siervo elegido y su naturaleza y obra
-^1^ “He aquí mi siervo, a quien yo sostengo, mi elegido, en quien se deleita mi alma: He puesto mi Espíritu en él. Llevará la justicia a las naciones. ^a^ ^2^ No gritará, ni levantar la voz, ni hacer que se escuche en la calle. ^3^ No romperá una caña magullada. No apagará una mecha apenas encendida. Él hará justicia fielmente. ^b^ ^4^ No fracasará ni se desanimará, hasta que haya establecido la justicia en la tierra, y las islas esperan su ley”.
-^a^[**42:1** Is 49,1-6; Is 52,13; Is 41,8; Mat 12,18-21; Mat 3,17] ^b^[**42:3** Sal 34,19]
+^1^ “He aquí mi siervo, a quien yo sostengo, mi elegido, en quien se deleita mi alma: He puesto mi Espíritu en él. Llevará la justicia a las naciones. ^a^ ^b^ ^c^ ^2^ No gritará, ni levantar la voz, ni hacer que se escuche en la calle. ^3^ No romperá una caña magullada. No apagará una mecha apenas encendida. Él hará justicia fielmente. ^d^ ^e^ ^f^ ^4^ No fracasará ni se desanimará, hasta que haya establecido la justicia en la tierra, y las islas esperan su ley”.
+^a^[**42:1** Is 49,1-6; Is 52,13; Is 41,8; Mat 12,18-21; Mat 3,17] ^b^[**42:1** Is 49,1-6; Is 52,13; Is 41,8; Mat 12,18-21; Mat 3,17] ^c^[**42:1** Is 49,1-6; Is 52,13; Is 41,8; Mat 12,18-21; Mat 3,17] ^d^[**42:3** Sal 34,19] ^e^[**42:3** Sal 34,19] ^f^[**42:3** Sal 34,19]
+
+
+
+
 
 ## Dios anuncia su llamado misionero a su siervo
-^5^ Dios Yahvé, el que creó los cielos y los extendió, el que extendió la tierra y lo que sale de ella, el que da aliento a su pueblo y espíritu a los que caminan en él, dice: ^6^ “Yo, Yahvé, te he llamado en justicia. Te llevaré de la mano. Te mantendré, y te haré un pacto para el pueblo, como luz para las naciones, ^7^ para abrir los ojos ciegos, para sacar a los prisioneros del calabozo, y a los que se sientan en las tinieblas fuera de la cárcel. ^a^ ^8^ “Yo soy Yahvé. Ese es mi nombre. No daré mi gloria a otro, ni mi alabanza a las imágenes grabadas. ^b^ ^9^ He aquí que las cosas anteriores han sucedido y declaro cosas nuevas. Te las cuento antes de que surjan”. ^c^ 
-^a^[**42:7** Is 35,5] ^b^[**42:8** Éxod 3,15; Is 48,11] ^c^[**42:9** Is 41,2; Is 41,27]
+^5^ Dios Yahvé, el que creó los cielos y los extendió, el que extendió la tierra y lo que sale de ella, el que da aliento a su pueblo y espíritu a los que caminan en él, dice: ^6^ “Yo, Yahvé, te he llamado en justicia. Te llevaré de la mano. Te mantendré, y te haré un pacto para el pueblo, como luz para las naciones, ^7^ para abrir los ojos ciegos, para sacar a los prisioneros del calabozo, y a los que se sientan en las tinieblas fuera de la cárcel. ^a^ ^b^ ^c^ ^8^ “Yo soy Yahvé. Ese es mi nombre. No daré mi gloria a otro, ni mi alabanza a las imágenes grabadas. ^d^ ^e^ ^f^ ^9^ He aquí que las cosas anteriores han sucedido y declaro cosas nuevas. Te las cuento antes de que surjan”. ^g^ ^h^ ^i^ 
+^a^[**42:7** Is 35,5] ^b^[**42:7** Is 35,5] ^c^[**42:7** Is 35,5] ^d^[**42:8** Éxod 3,15; Is 48,11] ^e^[**42:8** Éxod 3,15; Is 48,11] ^f^[**42:8** Éxod 3,15; Is 48,11] ^g^[**42:9** Is 41,2; Is 41,27] ^h^[**42:9** Is 41,2; Is 41,27] ^i^[**42:9** Is 41,2; Is 41,27]
+
+
+
+
 
 ## Alabado sea el Señor que realiza la salvación (especialmente la liberación de su pueblo); La promesa de Dios de su acción enérgica a pesar de los adoradores de ídolos
-^10^ Canten a Yahvé un cántico nuevo, y su alabanza desde el fin de la tierra, tú que bajas al mar, y todo lo que hay en ella, las islas y sus habitantes. ^11^ Que el desierto y sus ciudades alcen la voz, con los pueblos que habita Kedar. Que canten los habitantes de Sela. ¡Que griten desde la cima de las montañas! ^12^ Que den gloria a Yahvé, y declarar su alabanza en las islas. ^13^ Yahvé saldrá como un hombre poderoso. Despertará el celo como un hombre de guerra. Lanzará un grito de guerra. Sí, gritará en voz alta. Triunfará sobre sus enemigos. ^14^ “He estado mucho tiempo en silencio. Me he callado y me he contenido. Ahora gritaré como una mujer de parto. Jadearé y jadearé. ^15^ Destruiré montañas y colinas, y secar todas sus hierbas. Haré que los ríos sean islas, y secará los estanques. ^16^ Llevaré a los ciegos por un camino que no conocen. Los guiaré por caminos que no conocen. Haré que las tinieblas se iluminen ante ellos, y los lugares torcidos se enderezan. Haré estas cosas, y no los abandonaré. ^17^ “Los que confían en las imágenes grabadas, que cuentan imágenes fundidas, ‘Ustedes son nuestros dioses’. será devuelto. Se sentirán totalmente decepcionados. ^a^ 
-^a^[**42:17** Is 44,9-20]
+^10^ Canten a Yahvé un cántico nuevo, y su alabanza desde el fin de la tierra, tú que bajas al mar, y todo lo que hay en ella, las islas y sus habitantes. ^11^ Que el desierto y sus ciudades alcen la voz, con los pueblos que habita Kedar. Que canten los habitantes de Sela. ¡Que griten desde la cima de las montañas! ^12^ Que den gloria a Yahvé, y declarar su alabanza en las islas. ^13^ Yahvé saldrá como un hombre poderoso. Despertará el celo como un hombre de guerra. Lanzará un grito de guerra. Sí, gritará en voz alta. Triunfará sobre sus enemigos. ^14^ “He estado mucho tiempo en silencio. Me he callado y me he contenido. Ahora gritaré como una mujer de parto. Jadearé y jadearé. ^15^ Destruiré montañas y colinas, y secar todas sus hierbas. Haré que los ríos sean islas, y secará los estanques. ^16^ Llevaré a los ciegos por un camino que no conocen. Los guiaré por caminos que no conocen. Haré que las tinieblas se iluminen ante ellos, y los lugares torcidos se enderezan. Haré estas cosas, y no los abandonaré. ^17^ “Los que confían en las imágenes grabadas, que cuentan imágenes fundidas, ‘Ustedes son nuestros dioses’. será devuelto. Se sentirán totalmente decepcionados. ^a^ ^b^ ^c^ 
+^a^[**42:17** Is 44,9-20] ^b^[**42:17** Is 44,9-20] ^c^[**42:17** Is 44,9-20]
+
+
+
+
 
 ## Quejarse de la ceguera y la falta de idoneidad del actual Israel, el siervo de Dios
-^18^ “Oíd, sordos, y mira, eres ciego, para que puedas ver. ^a^ ^19^ ¿Quién es ciego, sino mi siervo? ¿O quién es tan sordo como el mensajero que envío? Que es tan ciego como el que está en paz, y tan ciego como el siervo de Yahvé? ^b^ ^20^ Ves muchas cosas, pero no observas. Sus oídos están abiertos, pero no escucha. ^c^ ^21^ A Yahvé le agradó, por su justicia, engrandecer la ley y hacerla honorable. ^22^ Pero este es un pueblo robado y saqueado. Todos ellos están atrapados en agujeros, y están escondidos en las cárceles. Se han convertido en cautivos, y nadie los entrega, y un saqueo, y nadie dice: “¡Respóndelos! ^23^ ¿Quién hay entre vosotros que preste atención a esto? ¿Quién escuchará y oirá en el futuro? ^24^ Que dio a Jacob como botín, e Israel a los ladrones? ¿No lo hizo Yahvé, aquel contra quien hemos pecado? Porque no quisieron seguir sus caminos, y desobedecieron su ley. ^25^ Por eso derramó sobre él el ardor de su ira, y la fuerza de la batalla. Le prendió fuego a todo, pero no lo sabía. Le quemó, pero no se lo tomó a pecho”.
-^a^[**42:18** Is 43,8] ^b^[**42:19** Is 41,8] ^c^[**42:20** Is 53,1]
+^18^ “Oíd, sordos, y mira, eres ciego, para que puedas ver. ^a^ ^b^ ^c^ ^19^ ¿Quién es ciego, sino mi siervo? ¿O quién es tan sordo como el mensajero que envío? Que es tan ciego como el que está en paz, y tan ciego como el siervo de Yahvé? ^d^ ^e^ ^f^ ^20^ Ves muchas cosas, pero no observas. Sus oídos están abiertos, pero no escucha. ^g^ ^h^ ^i^ ^21^ A Yahvé le agradó, por su justicia, engrandecer la ley y hacerla honorable. ^22^ Pero este es un pueblo robado y saqueado. Todos ellos están atrapados en agujeros, y están escondidos en las cárceles. Se han convertido en cautivos, y nadie los entrega, y un saqueo, y nadie dice: “¡Respóndelos! ^23^ ¿Quién hay entre vosotros que preste atención a esto? ¿Quién escuchará y oirá en el futuro? ^24^ Que dio a Jacob como botín, e Israel a los ladrones? ¿No lo hizo Yahvé, aquel contra quien hemos pecado? Porque no quisieron seguir sus caminos, y desobedecieron su ley. ^25^ Por eso derramó sobre él el ardor de su ira, y la fuerza de la batalla. Le prendió fuego a todo, pero no lo sabía. Le quemó, pero no se lo tomó a pecho”.
+^a^[**42:18** Is 43,8] ^b^[**42:18** Is 43,8] ^c^[**42:18** Is 43,8] ^d^[**42:19** Is 41,8] ^e^[**42:19** Is 41,8] ^f^[**42:19** Is 41,8] ^g^[**42:20** Is 53,1] ^h^[**42:20** Is 53,1] ^i^[**42:20** Is 53,1]
 
 # 43 
 ## Anuncio de la liberación y reunión de todo el pueblo de Dios de todas partes del cielo
-^1^ Pero ahora Yahvé, que te ha creado, Jacob, y el que te formó, Israel, dice: “No tengas miedo, porque te he redimido. Te he llamado por tu nombre. Tú eres mío. ^2^ Cuando pases por las aguas, yo estaré contigo, y por los ríos, no te desbordarán. Cuando pases por el fuego, no te quemarás, y la llama no te abrasará. ^a^ ^3^ Porque yo soy Yahvé, tu Dios, el Santo de Israel, tu Salvador. He dado a Egipto como su rescate, Etiopía y Seba en su lugar. ^b^ ^4^ Ya que has sido precioso y honrado ante mis ojos, y te he amado, por lo que daré a la gente en su lugar, y naciones en lugar de su vida. ^5^ No tengas miedo, porque yo estoy contigo. Traeré tu descendencia desde el este, y te recogerá desde el oeste. ^c^ ^6^ Le diré al norte: “¡Ríndanse! y dile al sur: “¡No los retengas! Trae a mis hijos desde muy lejos, y mis hijas de los confines de la tierra — ^7^ todos los que son llamados por mi nombre, y que he creado para mi gloria, que he formado, sí, a quien he hecho’”.
-^a^[**43:2** Sal 66,12] ^b^[**43:3** Prov 11,8] ^c^[**43:5** Is 11,11-16]
+^1^ Pero ahora Yahvé, que te ha creado, Jacob, y el que te formó, Israel, dice: “No tengas miedo, porque te he redimido. Te he llamado por tu nombre. Tú eres mío. ^2^ Cuando pases por las aguas, yo estaré contigo, y por los ríos, no te desbordarán. Cuando pases por el fuego, no te quemarás, y la llama no te abrasará. ^a^ ^b^ ^c^ ^3^ Porque yo soy Yahvé, tu Dios, el Santo de Israel, tu Salvador. He dado a Egipto como su rescate, Etiopía y Seba en su lugar. ^d^ ^e^ ^f^ ^4^ Ya que has sido precioso y honrado ante mis ojos, y te he amado, por lo que daré a la gente en su lugar, y naciones en lugar de su vida. ^5^ No tengas miedo, porque yo estoy contigo. Traeré tu descendencia desde el este, y te recogerá desde el oeste. ^g^ ^h^ ^i^ ^6^ Le diré al norte: “¡Ríndanse! y dile al sur: “¡No los retengas! Trae a mis hijos desde muy lejos, y mis hijas de los confines de la tierra — ^7^ todos los que son llamados por mi nombre, y que he creado para mi gloria, que he formado, sí, a quien he hecho’”.
+^a^[**43:2** Sal 66,12] ^b^[**43:2** Sal 66,12] ^c^[**43:2** Sal 66,12] ^d^[**43:3** Prov 11,8] ^e^[**43:3** Prov 11,8] ^f^[**43:3** Prov 11,8] ^g^[**43:5** Is 11,11-16] ^h^[**43:5** Is 11,11-16] ^i^[**43:5** Is 11,11-16]
+
+
+
+
 
 ## A pesar de la ceguera de Israel, el Señor testifica como el Dios verdadero a los mudos ídolos de los gentiles
-^8^ Saca a los ciegos que tienen ojos, y los sordos que tienen oídos. ^a^ ^9^ Que se reúnan todas las naciones, y que se reúnan los pueblos. ¿Quién de ellos puede declarar esto? y mostrarnos cosas anteriores? Que traigan sus testigos, para que sean justificados, o que escuchen y digan: “Eso es verdad”. ^b^ ^10^ “Vosotros sois mis testigos”, dice Yahvé, “Con mi siervo que he elegido; para que me conozcas y me creas, y entender que yo soy él. Antes de mí no se había formado ningún Dios, tampoco lo habrá después de mí. ^c^ ^11^ Yo mismo soy Yahvé. Además de mí, no hay ningún salvador. ^d^ ^12^ He declarado, he salvado y he mostrado, y no había ningún dios extraño entre vosotros. Por tanto, vosotros sois mis testigos”, dice Yahvé, “y yo soy Dios. ^e^ ^13^ Sí, desde el día que fue, yo soy. No hay nadie que pueda liberar de mi mano. Voy a trabajar, ¿y quién puede impedirlo?”
-^a^[**43:8** Is 42,18] ^b^[**43:9** Is 41,22-26] ^c^[**43:10** Is 41,8] ^d^[**43:11** Is 44,6; Deut 32,39] ^e^[**43:12** Is 43,10]
+^8^ Saca a los ciegos que tienen ojos, y los sordos que tienen oídos. ^a^ ^b^ ^c^ ^9^ Que se reúnan todas las naciones, y que se reúnan los pueblos. ¿Quién de ellos puede declarar esto? y mostrarnos cosas anteriores? Que traigan sus testigos, para que sean justificados, o que escuchen y digan: “Eso es verdad”. ^d^ ^e^ ^f^ ^10^ “Vosotros sois mis testigos”, dice Yahvé, “Con mi siervo que he elegido; para que me conozcas y me creas, y entender que yo soy él. Antes de mí no se había formado ningún Dios, tampoco lo habrá después de mí. ^g^ ^h^ ^i^ ^11^ Yo mismo soy Yahvé. Además de mí, no hay ningún salvador. ^j^ ^k^ ^l^ ^12^ He declarado, he salvado y he mostrado, y no había ningún dios extraño entre vosotros. Por tanto, vosotros sois mis testigos”, dice Yahvé, “y yo soy Dios. ^m^ ^n^ ^o^ ^13^ Sí, desde el día que fue, yo soy. No hay nadie que pueda liberar de mi mano. Voy a trabajar, ¿y quién puede impedirlo?”
+^a^[**43:8** Is 42,18] ^b^[**43:8** Is 42,18] ^c^[**43:8** Is 42,18] ^d^[**43:9** Is 41,22-26] ^e^[**43:9** Is 41,22-26] ^f^[**43:9** Is 41,22-26] ^g^[**43:10** Is 41,8] ^h^[**43:10** Is 41,8] ^i^[**43:10** Is 41,8] ^j^[**43:11** Is 44,6; Deut 32,39] ^k^[**43:11** Is 44,6; Deut 32,39] ^l^[**43:11** Is 44,6; Deut 32,39] ^m^[**43:12** Is 43,10] ^n^[**43:12** Is 43,10] ^o^[**43:12** Is 43,10]
+
+
+
+
 
 ## Palabra de Dios contra Babilonia
 ^14^ Yahvé, tu Redentor, el Santo de Israel, dice: “Por ti, he enviado a Babilonia, y haré descender a todos ellos como fugitivos, incluso a los caldeos, en las naves de su regocijo. ^15^ Yo soy Yahvé, tu Santo, el Creador de Israel, tu Rey”. 
 
+
+
+
+
 ## El próximo acto redentor de Dios comparado con los milagros anteriores de Dios
-^16^ Yahvé, que hace un camino en el mar, y un camino en las poderosas aguas, ^17^ que saca el carro y el caballo, el ejército y el hombre poderoso (se acuestan juntos, no se levantarán; se extinguen, se apagan como una mecha) dice: ^18^ “No te acuerdes de las cosas anteriores, y no consideres las cosas de antaño. ^19^ He aquí que voy a hacer una cosa nueva. Ahora sale a la luz. ¿No lo sabes? Incluso haré un camino en el desierto, y ríos en el desierto. ^a^ ^20^ Los animales del campo, los chacales y las avestruces, me honrarán, porque yo doy agua en el desierto y ríos en la soledad, para dar de beber a mi pueblo, a mis elegidos, ^21^ el pueblo que formé para mí, para que declaren mi alabanza.
-^a^[**43:19** Is 41,18]
+^16^ Yahvé, que hace un camino en el mar, y un camino en las poderosas aguas, ^17^ que saca el carro y el caballo, el ejército y el hombre poderoso (se acuestan juntos, no se levantarán; se extinguen, se apagan como una mecha) dice: ^18^ “No te acuerdes de las cosas anteriores, y no consideres las cosas de antaño. ^19^ He aquí que voy a hacer una cosa nueva. Ahora sale a la luz. ¿No lo sabes? Incluso haré un camino en el desierto, y ríos en el desierto. ^a^ ^b^ ^c^ ^20^ Los animales del campo, los chacales y las avestruces, me honrarán, porque yo doy agua en el desierto y ríos en la soledad, para dar de beber a mi pueblo, a mis elegidos, ^21^ el pueblo que formé para mí, para que declaren mi alabanza.
+^a^[**43:19** Is 41,18] ^b^[**43:19** Is 41,18] ^c^[**43:19** Is 41,18]
+
+
+
+
 
 ## La infidelidad y la culpa del pecado de Israel expiadas por la gracia gratuita de Dios
-^22^ Sin embargo, no me has invocado, Jacob; pero te has cansado de mí, Israel. ^23^ No me has traído ninguna de tus ovejas para los holocaustos, tampoco me has honrado con tus sacrificios. No te he cargado con ofrendas, ni te cansaste con el incienso. ^a^ ^24^ No me has comprado ninguna caña dulce con dinero, ni me has llenado con la grasa de tus sacrificios, pero me has cargado con tus pecados. Me has cansado con tus iniquidades. ^25^ Yo, yo mismo, soy el que borra tus transgresiones por mi cuenta; y no me acordaré de tus pecados. ^26^ Hazme acordar. Roguemos juntos. Declare su caso, para que puedas ser justificado. ^b^ ^27^ Tu primer padre pecó, y tus maestros han transgredido contra mí. ^c^ ^28^ Por tanto, profanaré los príncipes del santuario; y haré de Jacob una maldición, e Israel un insulto”.
-^a^[**43:23** Is 1,11-15] ^b^[**43:26** Is 58,2; Jer 2,35] ^c^[**43:27** Dan 9,6; Dan 9,8]
+^22^ Sin embargo, no me has invocado, Jacob; pero te has cansado de mí, Israel. ^23^ No me has traído ninguna de tus ovejas para los holocaustos, tampoco me has honrado con tus sacrificios. No te he cargado con ofrendas, ni te cansaste con el incienso. ^a^ ^b^ ^c^ ^24^ No me has comprado ninguna caña dulce con dinero, ni me has llenado con la grasa de tus sacrificios, pero me has cargado con tus pecados. Me has cansado con tus iniquidades. ^25^ Yo, yo mismo, soy el que borra tus transgresiones por mi cuenta; y no me acordaré de tus pecados. ^26^ Hazme acordar. Roguemos juntos. Declare su caso, para que puedas ser justificado. ^d^ ^e^ ^f^ ^27^ Tu primer padre pecó, y tus maestros han transgredido contra mí. ^g^ ^h^ ^i^ ^28^ Por tanto, profanaré los príncipes del santuario; y haré de Jacob una maldición, e Israel un insulto”.
+^a^[**43:23** Is 1,11-15] ^b^[**43:23** Is 1,11-15] ^c^[**43:23** Is 1,11-15] ^d^[**43:26** Is 58,2; Jer 2,35] ^e^[**43:26** Is 58,2; Jer 2,35] ^f^[**43:26** Is 58,2; Jer 2,35] ^g^[**43:27** Dan 9,6; Dan 9,8] ^h^[**43:27** Dan 9,6; Dan 9,8] ^i^[**43:27** Dan 9,6; Dan 9,8]
 
 # 44 
 ## Prometen ricas bendiciones divinas, especialmente la dispensación del espíritu divino
-^1^ Pero escucha ahora, Jacob, mi siervo, e Israel, a quienes he elegido. ^a^ ^2^ Esto es lo que hace el Señor que te hizo, y te formó desde el vientre materno, que te ayudará dice: “No tengas miedo, Jacobo, mi siervo; y tú, Jeshurun, a quien he elegido. ^b^ ^3^ Porque derramaré agua sobre el sediento, y arroyos en la tierra seca. Derramaré mi Espíritu sobre tus descendientes, y mi bendición sobre tu descendencia; ^c^ ^4^ y brotarán entre la hierba, como sauces junto a los cursos de agua. ^5^ Uno dirá: “Yo soy de Yahvé”. Otro será llamado con el nombre de Jacob; y otro escribirá con su mano ‘a Yahvé’. y honrar el nombre de Israel”.
-^a^[**44:1** Is 41,8] ^b^[**44:2** Deut 32,15; Deut 33,5] ^c^[**44:3** Is 32,15; Jl 3,1]
+^1^ Pero escucha ahora, Jacob, mi siervo, e Israel, a quienes he elegido. ^a^ ^b^ ^c^ ^2^ Esto es lo que hace el Señor que te hizo, y te formó desde el vientre materno, que te ayudará dice: “No tengas miedo, Jacobo, mi siervo; y tú, Jeshurun, a quien he elegido. ^d^ ^e^ ^f^ ^3^ Porque derramaré agua sobre el sediento, y arroyos en la tierra seca. Derramaré mi Espíritu sobre tus descendientes, y mi bendición sobre tu descendencia; ^g^ ^h^ ^i^ ^4^ y brotarán entre la hierba, como sauces junto a los cursos de agua. ^5^ Uno dirá: “Yo soy de Yahvé”. Otro será llamado con el nombre de Jacob; y otro escribirá con su mano ‘a Yahvé’. y honrar el nombre de Israel”.
+^a^[**44:1** Is 41,8] ^b^[**44:1** Is 41,8] ^c^[**44:1** Is 41,8] ^d^[**44:2** Deut 32,15; Deut 33,5] ^e^[**44:2** Deut 32,15; Deut 33,5] ^f^[**44:2** Deut 32,15; Deut 33,5] ^g^[**44:3** Is 32,15; Jl 3,1] ^h^[**44:3** Is 32,15; Jl 3,1] ^i^[**44:3** Is 32,15; Jl 3,1]
+
+
+
+
 
 ## Referencia a la divinidad única del Señor y al desprecio de la idolatría
-^6^ Esto es lo que Yahvé, el Rey de Israel, y su Redentor, Yahvé de los Ejércitos, dice: “Soy el primero y soy el último; y además de mí no hay Dios. ^7^ ¿Quién es como yo? Quién llamará, y lo declarará, y ponerlo en orden para mí, desde que establecí el pueblo antiguo? Que declaren las cosas que vienen, y eso sucederá. ^a^ ^8^ No temas, ni tener miedo. ¿No te lo declaré hace tiempo? y se lo mostraron? Ustedes son mis testigos. ¿Existe un Dios aparte de mí? De hecho, no lo hay. No conozco ninguna otra Roca”. 
-^a^[**44:7** Is 41,22]
+^6^ Esto es lo que Yahvé, el Rey de Israel, y su Redentor, Yahvé de los Ejércitos, dice: “Soy el primero y soy el último; y además de mí no hay Dios. ^7^ ¿Quién es como yo? Quién llamará, y lo declarará, y ponerlo en orden para mí, desde que establecí el pueblo antiguo? Que declaren las cosas que vienen, y eso sucederá. ^a^ ^b^ ^c^ ^8^ No temas, ni tener miedo. ¿No te lo declaré hace tiempo? y se lo mostraron? Ustedes son mis testigos. ¿Existe un Dios aparte de mí? De hecho, no lo hay. No conozco ninguna otra Roca”. 
+^a^[**44:7** Is 41,22] ^b^[**44:7** Is 41,22] ^c^[**44:7** Is 41,22]
 
-^9^ Todo el que hace una imagen tallada es vano. Las cosas en las que se deleitan no serán de provecho. Sus propios testigos no ven, ni saben, que pueden ser decepcionados. ^10^ Que ha creado un dios, o moldea una imagen que es rentable para nada? ^11^ He aquí que todos sus compañeros se verán defraudados; y los obreros son simples hombres. Que se reúnan todos. Que se pongan de pie. Tendrán miedo. Se pondrán en evidencia juntos. ^a^ 
-^a^[**44:11** Is 42,17]
+^9^ Todo el que hace una imagen tallada es vano. Las cosas en las que se deleitan no serán de provecho. Sus propios testigos no ven, ni saben, que pueden ser decepcionados. ^10^ Que ha creado un dios, o moldea una imagen que es rentable para nada? ^11^ He aquí que todos sus compañeros se verán defraudados; y los obreros son simples hombres. Que se reúnan todos. Que se pongan de pie. Tendrán miedo. Se pondrán en evidencia juntos. ^a^ ^b^ ^c^ 
+^a^[**44:11** Is 42,17] ^b^[**44:11** Is 42,17] ^c^[**44:11** Is 42,17]
+
+
+
+
 
 ## Representación burlona de la creación de los ídolos
-^12^ El herrero toma un hacha, trabaja en las brasas, lo hace con martillos, y lo trabaja con su fuerte brazo. Tiene hambre, y le fallan las fuerzas; no bebe agua, y es débil. ^a^ ^13^ El carpintero extiende una línea. Lo marca con un lápiz. Le da forma con planos. Lo marca con brújulas, y le da la forma de la figura de un hombre, con la belleza de un hombre, residir en una casa. ^14^ Corta cedros para sí mismo, y toma el ciprés y el roble, y fortalece para sí uno entre los árboles del bosque. Planta un ciprés, y la lluvia la alimenta. ^15^ Entonces será para un hombre que se queme; y toma un poco de ella y se calienta. Sí, lo quema y hornea el pan. Sí, hace un dios y lo adora; lo convierte en una imagen tallada, y cae ante ella. ^16^ Quema una parte en el fuego. Con parte de ella, come carne. Asa un asado y queda satisfecho. Sí, se calienta y dice: “¡Ah! Estoy caliente. He visto el fuego”. ^17^ El resto lo convierte en un dios, incluso su imagen grabada. Se inclina ante ella y la adora, y le reza, y dice: “¡Libérame, porque tú eres mi dios!” ^18^ No lo saben, ni lo consideran, porque les ha cerrado los ojos, para que no puedan ver, y sus corazones, que no pueden entender. ^19^ Nadie piensa, ni hay conocimiento ni entendimiento para decir, “He quemado una parte en el fuego. Sí, también he horneado pan en sus brasas. He asado carne y la he comido. ¿Debo convertir el resto en una abominación? ¿Debo inclinarme ante un tronco de árbol?” ^20^ Se alimenta de cenizas. Un corazón engañado lo ha desviado; y no puede entregar su alma, ni decir: “¿No hay una mentira en mi mano derecha?”
-^a^[**44:12** Is 40,18-20]
+^12^ El herrero toma un hacha, trabaja en las brasas, lo hace con martillos, y lo trabaja con su fuerte brazo. Tiene hambre, y le fallan las fuerzas; no bebe agua, y es débil. ^a^ ^b^ ^c^ ^13^ El carpintero extiende una línea. Lo marca con un lápiz. Le da forma con planos. Lo marca con brújulas, y le da la forma de la figura de un hombre, con la belleza de un hombre, residir en una casa. ^14^ Corta cedros para sí mismo, y toma el ciprés y el roble, y fortalece para sí uno entre los árboles del bosque. Planta un ciprés, y la lluvia la alimenta. ^15^ Entonces será para un hombre que se queme; y toma un poco de ella y se calienta. Sí, lo quema y hornea el pan. Sí, hace un dios y lo adora; lo convierte en una imagen tallada, y cae ante ella. ^16^ Quema una parte en el fuego. Con parte de ella, come carne. Asa un asado y queda satisfecho. Sí, se calienta y dice: “¡Ah! Estoy caliente. He visto el fuego”. ^17^ El resto lo convierte en un dios, incluso su imagen grabada. Se inclina ante ella y la adora, y le reza, y dice: “¡Libérame, porque tú eres mi dios!” ^18^ No lo saben, ni lo consideran, porque les ha cerrado los ojos, para que no puedan ver, y sus corazones, que no pueden entender. ^19^ Nadie piensa, ni hay conocimiento ni entendimiento para decir, “He quemado una parte en el fuego. Sí, también he horneado pan en sus brasas. He asado carne y la he comido. ¿Debo convertir el resto en una abominación? ¿Debo inclinarme ante un tronco de árbol?” ^20^ Se alimenta de cenizas. Un corazón engañado lo ha desviado; y no puede entregar su alma, ni decir: “¿No hay una mentira en mi mano derecha?”
+^a^[**44:12** Is 40,18-20] ^b^[**44:12** Is 40,18-20] ^c^[**44:12** Is 40,18-20]
+
+
+
+
 
 ## Recordatorio de una nueva fidelidad a Dios e himno de alabanza final
-^21^ Recuerda estas cosas, Jacob e Israel, porque eres mi siervo. Yo te he formado. Eres mi sirviente. Israel, no serás olvidado por mí. ^a^ ^22^ He borrado, como una nube espesa, tus transgresiones, y, como una nube, tus pecados. Vuelve a mí, porque te he redimido. ^b^ 
-^a^[**44:21** Is 41,8; Is 44,2] ^b^[**44:22** Is 1,18; Is 43,25]
+^21^ Recuerda estas cosas, Jacob e Israel, porque eres mi siervo. Yo te he formado. Eres mi sirviente. Israel, no serás olvidado por mí. ^a^ ^b^ ^c^ ^22^ He borrado, como una nube espesa, tus transgresiones, y, como una nube, tus pecados. Vuelve a mí, porque te he redimido. ^d^ ^e^ ^f^ 
+^a^[**44:21** Is 41,8; Is 44,2] ^b^[**44:21** Is 41,8; Is 44,2] ^c^[**44:21** Is 41,8; Is 44,2] ^d^[**44:22** Is 1,18; Is 43,25] ^e^[**44:22** Is 1,18; Is 43,25] ^f^[**44:22** Is 1,18; Is 43,25]
 
-^23^ ¡Cantad, cielos, porque Yahvé lo ha hecho! ¡Gritad, partes bajas de la tierra! Rompan a cantar, ustedes montañas, oh bosque, todos sus árboles, porque Yahvé ha redimido a Jacob, y se glorificará en Israel. ^a^ 
-^a^[**44:23** Is 49,13; Is 55,12; Sal 96,11]
+^23^ ¡Cantad, cielos, porque Yahvé lo ha hecho! ¡Gritad, partes bajas de la tierra! Rompan a cantar, ustedes montañas, oh bosque, todos sus árboles, porque Yahvé ha redimido a Jacob, y se glorificará en Israel. ^a^ ^b^ ^c^ 
+^a^[**44:23** Is 49,13; Is 55,12; Sal 96,11] ^b^[**44:23** Is 49,13; Is 55,12; Sal 96,11] ^c^[**44:23** Is 49,13; Is 55,12; Sal 96,11]
+
+
+
+
 
 ## Anuncio del gran plan divino
-^24^ Yahvé, tu Redentor, y el que te formó desde el vientre materno dice: “Yo soy Yahvé, que hace todas las cosas; que es el único que extiende los cielos; que extienda la tierra por mí mismo; ^25^ que frustra las señales de los mentirosos, y vuelve locos a los adivinos; que hace retroceder a los sabios, y hace que su conocimiento sea tonto; ^26^ que confirma la palabra de su siervo, y realiza el consejo de sus mensajeros; que dice de Jerusalén: “Estará habitada”. y de las ciudades de Judá: “Serán construidas”. y “levantaré sus despojos”. ^27^ que dice a las profundidades: “Sécate”. y “secaré tus ríos”. ^a^ ^28^ que dice de Ciro: “Él es mi pastor y cumplirá todo lo que yo quiera”. incluso diciendo de Jerusalén, ‘Ella será construida;’ y del templo: “Se pondrán sus cimientos””. ^b^ 
-^a^[**44:27** Éxod 14,21; Jos 3,9-17] ^b^[**44:28** Is 45,1; Esd 1,1-3]
+^24^ Yahvé, tu Redentor, y el que te formó desde el vientre materno dice: “Yo soy Yahvé, que hace todas las cosas; que es el único que extiende los cielos; que extienda la tierra por mí mismo; ^25^ que frustra las señales de los mentirosos, y vuelve locos a los adivinos; que hace retroceder a los sabios, y hace que su conocimiento sea tonto; ^26^ que confirma la palabra de su siervo, y realiza el consejo de sus mensajeros; que dice de Jerusalén: “Estará habitada”. y de las ciudades de Judá: “Serán construidas”. y “levantaré sus despojos”. ^27^ que dice a las profundidades: “Sécate”. y “secaré tus ríos”. ^a^ ^b^ ^c^ ^28^ que dice de Ciro: “Él es mi pastor y cumplirá todo lo que yo quiera”. incluso diciendo de Jerusalén, ‘Ella será construida;’ y del templo: “Se pondrán sus cimientos””. ^d^ ^e^ ^f^ 
+^a^[**44:27** Éxod 14,21; Jos 3,9-17] ^b^[**44:27** Éxod 14,21; Jos 3,9-17] ^c^[**44:27** Éxod 14,21; Jos 3,9-17] ^d^[**44:28** Is 45,1; Esd 1,1-3] ^e^[**44:28** Is 45,1; Esd 1,1-3] ^f^[**44:28** Is 45,1; Esd 1,1-3]
 
 # 45 
 ## La elección de Dios de Ciro para la redención de Israel; Anunciación de la salvación para el héroe de Dios
-^1^ Yahvé dice a su ungido, a Ciro, cuya mano derecha he sostenido para someter a las naciones ante él y despojar a los reyes de sus armaduras, que abra las puertas ante él, y que las puertas no se cierren: ^a^ ^2^ “Iré delante de ti y alisar las asperezas. Romperé las puertas de bronce en pedazos y cortar las barras de hierro. ^3^ Te daré los tesoros de la oscuridad y las riquezas ocultas de los lugares secretos, para que sepas que soy yo, Yahvé, quien te llama por tu nombre, el Dios de Israel. ^4^ Por el bien de Jacob, mi siervo, e Israel mis elegidos, Te he llamado por tu nombre. Te he dado un título, aunque no me hayas conocido. ^5^ Yo soy Yahvé, y no hay nadie más. Además de mí, no hay ningún Dios. Te fortaleceré^b^ , aunque no me hayas conocido, ^c^ ^6^ para que sepan desde la salida del sol, y desde el oeste, que no hay nadie más que yo. Yo soy Yahvé, y no hay nadie más. ^7^ Formo la luz y crear oscuridad. Hago las paces y crear calamidades. Yo soy Yahvé, que hace todas estas cosas.
-^a^[**45:1** Is 44,28; Is 41,2] ^b^[**45:5** LXX y DSS añaden: recuperación de la vista para los ciegos] ^c^[**45:5** Is 44,6]
+^1^ Yahvé dice a su ungido, a Ciro, cuya mano derecha he sostenido para someter a las naciones ante él y despojar a los reyes de sus armaduras, que abra las puertas ante él, y que las puertas no se cierren: ^a^ ^b^ ^c^ ^2^ “Iré delante de ti y alisar las asperezas. Romperé las puertas de bronce en pedazos y cortar las barras de hierro. ^3^ Te daré los tesoros de la oscuridad y las riquezas ocultas de los lugares secretos, para que sepas que soy yo, Yahvé, quien te llama por tu nombre, el Dios de Israel. ^4^ Por el bien de Jacob, mi siervo, e Israel mis elegidos, Te he llamado por tu nombre. Te he dado un título, aunque no me hayas conocido. ^5^ Yo soy Yahvé, y no hay nadie más. Además de mí, no hay ningún Dios. Te fortaleceré^d^ , aunque no me hayas conocido, ^e^ ^f^ ^g^ ^6^ para que sepan desde la salida del sol, y desde el oeste, que no hay nadie más que yo. Yo soy Yahvé, y no hay nadie más. ^7^ Formo la luz y crear oscuridad. Hago las paces y crear calamidades. Yo soy Yahvé, que hace todas estas cosas.
+^a^[**45:1** Is 44,28; Is 41,2] ^b^[**45:1** Is 44,28; Is 41,2] ^c^[**45:1** Is 44,28; Is 41,2] ^d^[**45:5** LXX y DSS añaden: recuperación de la vista para los ciegos] ^e^[**45:5** Is 44,6] ^f^[**45:5** Is 44,6] ^g^[**45:5** Is 44,6]
+
+
+
+
 
 ## La bendición de Dios sobre la obra terminada
-^8^ Llueve, cielos, desde arriba, y que los cielos derramen justicia. Que la tierra se abra, para que produzca la salvación, y que haga brotar la justicia con ella. Yo, Yahvé, lo he creado. ^a^ 
-^a^[**45:8** Sal 72,3]
+^8^ Llueve, cielos, desde arriba, y que los cielos derramen justicia. Que la tierra se abra, para que produzca la salvación, y que haga brotar la justicia con ella. Yo, Yahvé, lo he creado. ^a^ ^b^ ^c^ 
+^a^[**45:8** Sal 72,3] ^b^[**45:8** Sal 72,3] ^c^[**45:8** Sal 72,3]
+
+
+
+
 
 ## Rechazo de los insatisfechos con este camino de Dios; Referencia al florecimiento de la salvación para Israel
-^9^ Ay de aquel que lucha con su Hacedor — ¡una olla de barro entre las ollas de barro de la tierra! ¿Preguntará el barro al que lo moldea: “Qué estás haciendo”? o su trabajo, ‘No tiene manos’? ^a^ ^10^ Ay del que diga a un padre: “¿De qué te has convertido en padre?”. o a una madre: “¿Qué has dado a luz?” ^11^ Yahvé, el Santo de Israel y su Hacedor dice: “Me preguntas sobre las cosas que están por venir, sobre mis hijos, ¡y tú me mandas sobre la obra de mis manos! ^12^ Yo hice la tierra y creé al hombre sobre ella. Yo, hasta mis manos, he extendido los cielos. He comandado todo su ejército. ^13^ Yo lo he resucitado en la justicia, y enderezaré todos sus caminos. Él construirá mi ciudad, y dejará libres a mis exiliados, no por precio ni por recompensa”, dice Yahvé de los Ejércitos. ^b^ 
-^a^[**45:9** Is 29,16; Jer 18,6; Rom 9,20-21] ^b^[**45:13** Is 45,1; Is 41,2]
+^9^ Ay de aquel que lucha con su Hacedor — ¡una olla de barro entre las ollas de barro de la tierra! ¿Preguntará el barro al que lo moldea: “Qué estás haciendo”? o su trabajo, ‘No tiene manos’? ^a^ ^b^ ^c^ ^10^ Ay del que diga a un padre: “¿De qué te has convertido en padre?”. o a una madre: “¿Qué has dado a luz?” ^11^ Yahvé, el Santo de Israel y su Hacedor dice: “Me preguntas sobre las cosas que están por venir, sobre mis hijos, ¡y tú me mandas sobre la obra de mis manos! ^12^ Yo hice la tierra y creé al hombre sobre ella. Yo, hasta mis manos, he extendido los cielos. He comandado todo su ejército. ^13^ Yo lo he resucitado en la justicia, y enderezaré todos sus caminos. Él construirá mi ciudad, y dejará libres a mis exiliados, no por precio ni por recompensa”, dice Yahvé de los Ejércitos. ^d^ ^e^ ^f^ 
+^a^[**45:9** Is 29,16; Jer 18,6; Rom 9,20-21] ^b^[**45:9** Is 29,16; Jer 18,6; Rom 9,20-21] ^c^[**45:9** Is 29,16; Jer 18,6; Rom 9,20-21] ^d^[**45:13** Is 45,1; Is 41,2] ^e^[**45:13** Is 45,1; Is 41,2] ^f^[**45:13** Is 45,1; Is 41,2]
+
+
+
+
 
 ## Una glorificación cada vez mayor de Israel (o Jerusalén) y su Dios será el resultado
-^14^ Yahvé dice: “El trabajo de Egipto, y las mercancías de Etiopía, y los sabeos, hombres de talla, se acercarán a ti, y serán tuyos. Irán a por ti. Vendrán encadenados. Se inclinarán ante ti. Te harán una súplica: Ciertamente, Dios está en ti, y no hay nadie más. No hay otro dios. ^a^ ^15^ Ciertamente eres un Dios que se ha escondido, Dios de Israel, el Salvador”. ^b^ ^16^ Se sentirán decepcionados, sí, confundidos, todos ellos. Los que son fabricantes de ídolos irán juntos a la confusión. ^c^ ^17^ Israel será salvado por Yahvé con una salvación eterna. No serás defraudado ni confundido por los siglos de los siglos.
-^a^[**45:14** Is 45,5] ^b^[**45:15** Rom 11,33] ^c^[**45:16** Is 44,9; Is 44,11]
+^14^ Yahvé dice: “El trabajo de Egipto, y las mercancías de Etiopía, y los sabeos, hombres de talla, se acercarán a ti, y serán tuyos. Irán a por ti. Vendrán encadenados. Se inclinarán ante ti. Te harán una súplica: Ciertamente, Dios está en ti, y no hay nadie más. No hay otro dios. ^a^ ^b^ ^c^ ^15^ Ciertamente eres un Dios que se ha escondido, Dios de Israel, el Salvador”. ^d^ ^e^ ^f^ ^16^ Se sentirán decepcionados, sí, confundidos, todos ellos. Los que son fabricantes de ídolos irán juntos a la confusión. ^g^ ^h^ ^i^ ^17^ Israel será salvado por Yahvé con una salvación eterna. No serás defraudado ni confundido por los siglos de los siglos.
+^a^[**45:14** Is 45,5] ^b^[**45:14** Is 45,5] ^c^[**45:14** Is 45,5] ^d^[**45:15** Rom 11,33] ^e^[**45:15** Rom 11,33] ^f^[**45:15** Rom 11,33] ^g^[**45:16** Is 44,9; Is 44,11] ^h^[**45:16** Is 44,9; Is 44,11] ^i^[**45:16** Is 44,9; Is 44,11]
+
+
+
+
 
 ## Otro llamado a todo el mundo de las naciones con referencia a la futura bendición del plan divino de salvación
-^18^ Porque Yahvé, que creó los cielos, el Dios que formó la tierra y la hizo, que lo estableció y no lo creó un desperdicio, que lo formó para ser habitado dice: “Yo soy Yahvé. No hay otra. ^19^ No he hablado en secreto, en un lugar de la tierra de las tinieblas. No he dicho a la descendencia de Jacob: “Buscadme en vano”. Yo, Yahvé, hablo de justicia. Declaro cosas que son correctas. ^20^ “Reúnanse y vengan. Acercaos juntos, los que habéis escapado de las naciones. No tienen conocimiento los que llevan la madera de su imagen grabada, y rezar a un dios que no puede salvar. ^a^ ^21^ Decláralo y preséntalo. Sí, que se asesoren juntos. ¿Quién lo ha demostrado desde la antigüedad? ¿Quién lo ha declarado de antiguo? ¿No es así, Yahvé? No hay otro Dios más que yo, un Dios justo y un Salvador. No hay nadie más que yo. ^b^ ^22^ “Miradme y salvaos, todos los confines de la tierra; porque yo soy Dios y no hay otro. ^23^ He jurado por mí mismo. La palabra ha salido de mi boca en justicia, y no será revocada, que ante mí se doblará toda rodilla, toda lengua prestará juramento. ^c^ ^24^ Dirán de mí, ‘Sólo en Yahvé hay justicia y fuerza’”. Incluso a él vendrán los hombres. Todos los que se ensañaron con él se sentirán decepcionados. ^d^ ^25^ Toda la descendencia de Israel será justificada en Yahvé, y se alegrará. ^e^ 
-^a^[**45:20** Is 43,9] ^b^[**45:21** Is 45,5] ^c^[**45:23** Rom 14,11; Fil 2,10-11] ^d^[**45:24** Jer 23,6] ^e^[**45:25** 1Cor 1,31]
+^18^ Porque Yahvé, que creó los cielos, el Dios que formó la tierra y la hizo, que lo estableció y no lo creó un desperdicio, que lo formó para ser habitado dice: “Yo soy Yahvé. No hay otra. ^19^ No he hablado en secreto, en un lugar de la tierra de las tinieblas. No he dicho a la descendencia de Jacob: “Buscadme en vano”. Yo, Yahvé, hablo de justicia. Declaro cosas que son correctas. ^20^ “Reúnanse y vengan. Acercaos juntos, los que habéis escapado de las naciones. No tienen conocimiento los que llevan la madera de su imagen grabada, y rezar a un dios que no puede salvar. ^a^ ^b^ ^c^ ^21^ Decláralo y preséntalo. Sí, que se asesoren juntos. ¿Quién lo ha demostrado desde la antigüedad? ¿Quién lo ha declarado de antiguo? ¿No es así, Yahvé? No hay otro Dios más que yo, un Dios justo y un Salvador. No hay nadie más que yo. ^d^ ^e^ ^f^ ^22^ “Miradme y salvaos, todos los confines de la tierra; porque yo soy Dios y no hay otro. ^23^ He jurado por mí mismo. La palabra ha salido de mi boca en justicia, y no será revocada, que ante mí se doblará toda rodilla, toda lengua prestará juramento. ^g^ ^h^ ^i^ ^24^ Dirán de mí, ‘Sólo en Yahvé hay justicia y fuerza’”. Incluso a él vendrán los hombres. Todos los que se ensañaron con él se sentirán decepcionados. ^j^ ^k^ ^l^ ^25^ Toda la descendencia de Israel será justificada en Yahvé, y se alegrará. ^m^ ^n^ ^o^ 
+^a^[**45:20** Is 43,9] ^b^[**45:20** Is 43,9] ^c^[**45:20** Is 43,9] ^d^[**45:21** Is 45,5] ^e^[**45:21** Is 45,5] ^f^[**45:21** Is 45,5] ^g^[**45:23** Rom 14,11; Fil 2,10-11] ^h^[**45:23** Rom 14,11; Fil 2,10-11] ^i^[**45:23** Rom 14,11; Fil 2,10-11] ^j^[**45:24** Jer 23,6] ^k^[**45:24** Jer 23,6] ^l^[**45:24** Jer 23,6] ^m^[**45:25** 1Cor 1,31] ^n^[**45:25** 1Cor 1,31] ^o^[**45:25** 1Cor 1,31]
 
 # 46 
 ## El final miserable de los ídolos babilónicos
 ^1^ Bel se inclina. Nebo se inclina. Sus ídolos son llevados por animales, y en el ganado. Las cosas que llevabas son cargas pesadas, una carga para los cansados. ^2^ Se agachan y se inclinan juntos. No pudieron entregar la carga, pero han ido al cautiverio. 
 
+
+
+
+
 ## El recordatorio de Dios de la lealtad mostrada a su pueblo hasta ahora y la locura de toda idolatría
-^3^ “Escúchame, casa de Jacob, y todo el resto de la casa de Israel, que llevan desde su nacimiento, que se han llevado desde el vientre materno. ^4^ Hasta la vejez soy yo, y hasta las canas te llevaré. He hecho, y soportaré. Sí, llevaré y entregaré. ^5^ “¿Con quién me compararás y me considerarás igual? y compararme, como si fuéramos iguales? ^a^ ^6^ Algunos vierten oro de la bolsa, y pesa la plata en la balanza. Contratan a un orfebre, y lo convierte en un dios. Se caen... sí, adoran. ^7^ Lo llevan al hombro. Lo llevan y lo colocan en su sitio, y allí se queda. No puede moverse de su sitio. Sí, se le puede gritar, pero no puede responder. No puede salvarle de su problema.
-^a^[**46:5** Is 44,9-20]
+^3^ “Escúchame, casa de Jacob, y todo el resto de la casa de Israel, que llevan desde su nacimiento, que se han llevado desde el vientre materno. ^4^ Hasta la vejez soy yo, y hasta las canas te llevaré. He hecho, y soportaré. Sí, llevaré y entregaré. ^5^ “¿Con quién me compararás y me considerarás igual? y compararme, como si fuéramos iguales? ^a^ ^b^ ^c^ ^6^ Algunos vierten oro de la bolsa, y pesa la plata en la balanza. Contratan a un orfebre, y lo convierte en un dios. Se caen... sí, adoran. ^7^ Lo llevan al hombro. Lo llevan y lo colocan en su sitio, y allí se queda. No puede moverse de su sitio. Sí, se le puede gritar, pero no puede responder. No puede salvarle de su problema.
+^a^[**46:5** Is 44,9-20] ^b^[**46:5** Is 44,9-20] ^c^[**46:5** Is 44,9-20]
+
+
+
+
 
 ## Insinuación alentadora de la cercanía de la salvación
-^8^ “Recordad esto y mostraos como hombres. Recuérdenlo, transgresores. ^9^ Acuérdate de las cosas antiguas; porque yo soy Dios y no hay otro. Yo soy Dios, y no hay nadie como yo. ^10^ Declaro el fin desde el principio, y de los tiempos antiguos las cosas que aún no se han hecho. Yo digo: Mi consejo se mantendrá, y haré todo lo que me plazca. ^a^ ^11^ Llamo a un pájaro voraz del este, el hombre de mi consejo desde un país lejano. Sí, he hablado. Yo también lo llevaré a cabo. Lo he planeado. Yo también lo haré. ^b^ 
-^a^[**46:10** Is 42,9] ^b^[**46:11** Is 41,2]
+^8^ “Recordad esto y mostraos como hombres. Recuérdenlo, transgresores. ^9^ Acuérdate de las cosas antiguas; porque yo soy Dios y no hay otro. Yo soy Dios, y no hay nadie como yo. ^10^ Declaro el fin desde el principio, y de los tiempos antiguos las cosas que aún no se han hecho. Yo digo: Mi consejo se mantendrá, y haré todo lo que me plazca. ^a^ ^b^ ^c^ ^11^ Llamo a un pájaro voraz del este, el hombre de mi consejo desde un país lejano. Sí, he hablado. Yo también lo llevaré a cabo. Lo he planeado. Yo también lo haré. ^d^ ^e^ ^f^ 
+^a^[**46:10** Is 42,9] ^b^[**46:10** Is 42,9] ^c^[**46:10** Is 42,9] ^d^[**46:11** Is 41,2] ^e^[**46:11** Is 41,2] ^f^[**46:11** Is 41,2]
 
 ^12^ Escúchame, terco de corazón, ¡que están lejos de la justicia! ^13^ Acerco mi justicia. No está lejos, y mi salvación no esperará. Yo concederé la salvación a Sión, mi gloria a Israel. 
 # 47 
 ## Humillación del gobernante orgulloso y exuberante a la suerte de un esclavo
-^1^ “Baja y siéntate en el polvo, virgen hija de Babilonia. Siéntate en el suelo sin trono, hija de los caldeos. Porque ya no te llamarán tierna y delicada. ^a^ ^2^ Toma las piedras de molino y muele la harina. Quítate el velo, levántate la falda, descubre tus piernas, y vadear los ríos. ^3^ Su desnudez será descubierta. Sí, tu vergüenza se verá. Me vengaré, y no perdonará a nadie”. ^4^ Nuestro Redentor, Yahvé de los Ejércitos es su nombre, es el Santo de Israel.
-^a^[**47:1** Deut 28,56]
+^1^ “Baja y siéntate en el polvo, virgen hija de Babilonia. Siéntate en el suelo sin trono, hija de los caldeos. Porque ya no te llamarán tierna y delicada. ^a^ ^b^ ^c^ ^2^ Toma las piedras de molino y muele la harina. Quítate el velo, levántate la falda, descubre tus piernas, y vadear los ríos. ^3^ Su desnudez será descubierta. Sí, tu vergüenza se verá. Me vengaré, y no perdonará a nadie”. ^4^ Nuestro Redentor, Yahvé de los Ejércitos es su nombre, es el Santo de Israel.
+^a^[**47:1** Deut 28,56] ^b^[**47:1** Deut 28,56] ^c^[**47:1** Deut 28,56]
+
+
+
+
 
 ## Humillación del gobernante mundial como castigo por su crueldad hacia Judá y por su excesivo descuido
-^5^ “Siéntate en silencio y entra en la oscuridad, hija de los caldeos. Porque ya no se te llamará la dueña de los reinos. ^6^ Me enfadé con mi pueblo. He profanado mi herencia y los entregó en tu mano. No tuviste piedad de ellos. Has puesto un yugo muy pesado a los ancianos. ^a^ ^7^ Dijiste: “Seré una princesa para siempre”. para que no te pongas estas cosas en el corazón, ni recordó los resultados.
-^a^[**47:6** Is 10,5-7; Zac 1,15]
+^5^ “Siéntate en silencio y entra en la oscuridad, hija de los caldeos. Porque ya no se te llamará la dueña de los reinos. ^6^ Me enfadé con mi pueblo. He profanado mi herencia y los entregó en tu mano. No tuviste piedad de ellos. Has puesto un yugo muy pesado a los ancianos. ^a^ ^b^ ^c^ ^7^ Dijiste: “Seré una princesa para siempre”. para que no te pongas estas cosas en el corazón, ni recordó los resultados.
+^a^[**47:6** Is 10,5-7; Zac 1,15] ^b^[**47:6** Is 10,5-7; Zac 1,15] ^c^[**47:6** Is 10,5-7; Zac 1,15]
+
+
+
+
 
 ## El juicio criminal cayendo sobre la amante altiva impía
 ^8^ “Ahora, pues, escuchad esto, vosotros que sois dados a los placeres, que se sientan con seguridad, que dicen en su corazón, ‘Yo soy, y no hay nadie más que yo. No me sentaré como una viuda, ni conoceré la pérdida de los hijos’. ^9^ Pero estas dos cosas te llegarán en un momento en un día: la pérdida de los hijos y la viudez. Vendrán sobre ti en toda su extensión, en la multitud de sus hechicerías, y la gran abundancia de sus encantos. ^10^ Porque has confiado en tu maldad. Has dicho: “Nadie me ve”. Tu sabiduría y tus conocimientos te han pervertido. Has dicho en tu corazón: “Yo soy, y no hay nadie más que yo”. ^11^ Por lo tanto, el desastre vendrá sobre ti. No sabrás cuando amanezca. El malestar caerá sobre ti. No podrás guardarlo. La desolación te llegará de repente, que no entiendes. 
 
+
+
+
+
 ## Las artes mágicas y las ciencias secretas no pueden evitar la ruina
-^12^ “Ponte ahora con tus encantos y con la multitud de tus hechicerías, en la que has trabajado desde tu juventud, como si pudieras beneficiarte, como si pudiera prevalecer. ^a^ ^13^ Te cansas en la multitud de tus consejos. Ahora deja que los astrólogos, los observadores de las estrellas y los pronosticadores mensuales se levanten y te salven de las cosas que te van a pasar. ^14^ He aquí que son como el rastrojo. El fuego los quemará. No se librarán del poder de la llama. No será un carbón para calentar en o un fuego junto al que sentarse. ^15^ Las cosas en las que trabajasteis serán así: los que han traficado con vosotros desde vuestra juventud, cada uno de ellos vagará por su camino. No habrá nadie que te salve.
+^12^ “Ponte ahora con tus encantos y con la multitud de tus hechicerías, en la que has trabajado desde tu juventud, como si pudieras beneficiarte, como si pudiera prevalecer. ^a^ ^b^ ^c^ ^13^ Te cansas en la multitud de tus consejos. Ahora deja que los astrólogos, los observadores de las estrellas y los pronosticadores mensuales se levanten y te salven de las cosas que te van a pasar. ^14^ He aquí que son como el rastrojo. El fuego los quemará. No se librarán del poder de la llama. No será un carbón para calentar en o un fuego junto al que sentarse. ^15^ Las cosas en las que trabajasteis serán así: los que han traficado con vosotros desde vuestra juventud, cada uno de ellos vagará por su camino. No habrá nadie que te salve.
 # 48 
 ## Forma dura de dirigirse a la gente terca
 ^1^ “Escucha esto, casa de Jacob, tú que te llamas con el nombre de Israel, y han salido de las aguas de Judá. Juras por el nombre de Yahvé, y hacer mención del Dios de Israel, pero no en la verdad, ni en la justicia — ^2^ porque se llaman a sí mismos ciudadanos de la ciudad santa, y confiar en el Dios de Israel; Yavé de los Ejércitos es su nombre. 
-^a^[**47:12** Dan 2,2]
+^a^[**47:12** Dan 2,2] ^b^[**47:12** Dan 2,2] ^c^[**47:12** Dan 2,2]
+
+
+
+
 
 ## Las profecías anteriores han permanecido ineficaces, y las nuevas promesas de salvación se encuentran con un pueblo sin refinar
-^3^ He declarado las cosas anteriores desde la antigüedad. Sí, salieron de mi boca y los revelé. Los hice de repente, y sucedieron. ^4^ Porque sabía que eras obstinado, y tu cuello es un tendón de hierro, y el bronce de tu frente; ^a^ ^5^ por eso os lo he declarado desde antiguo; antes de que ocurriera te lo mostré; para que no digas: “Mi ídolo los ha hecho”. Mi imagen grabada y mi imagen fundida les ha ordenado’. ^6^ Lo habéis oído. Ahora vea todo esto. Y tú, ¿no lo vas a declarar? “Te he mostrado cosas nuevas de este tiempo, incluso cosas ocultas, que no has conocido. ^7^ Son creados ahora, y no desde la antigüedad. Antes de hoy, no se oían, para que no digáis: ‘He aquí que los conocía’. ^8^ Sí, no lo has oído. Sí, no lo sabías. Sí, desde antaño no se te abría el oído, ya que sabía que tratabas con mucha alevosía, y fueron llamados transgresores desde el vientre. ^9^ Por mi nombre, aplazaré mi ira, y para mi alabanza, lo retengo para ti para que no te corte el paso. ^10^ He aquí que te he refinado, pero no como la plata. Te he elegido en el horno de la aflicción. ^11^ Por mi propio bien, por mi propio bien, lo haré; pues ¿cómo se profanaría mi nombre? No daré mi gloria a otro. ^b^ 
-^a^[**48:4** Jer 5,3] ^b^[**48:11** Is 42,8]
+^3^ He declarado las cosas anteriores desde la antigüedad. Sí, salieron de mi boca y los revelé. Los hice de repente, y sucedieron. ^4^ Porque sabía que eras obstinado, y tu cuello es un tendón de hierro, y el bronce de tu frente; ^a^ ^b^ ^c^ ^5^ por eso os lo he declarado desde antiguo; antes de que ocurriera te lo mostré; para que no digas: “Mi ídolo los ha hecho”. Mi imagen grabada y mi imagen fundida les ha ordenado’. ^6^ Lo habéis oído. Ahora vea todo esto. Y tú, ¿no lo vas a declarar? “Te he mostrado cosas nuevas de este tiempo, incluso cosas ocultas, que no has conocido. ^7^ Son creados ahora, y no desde la antigüedad. Antes de hoy, no se oían, para que no digáis: ‘He aquí que los conocía’. ^8^ Sí, no lo has oído. Sí, no lo sabías. Sí, desde antaño no se te abría el oído, ya que sabía que tratabas con mucha alevosía, y fueron llamados transgresores desde el vientre. ^9^ Por mi nombre, aplazaré mi ira, y para mi alabanza, lo retengo para ti para que no te corte el paso. ^10^ He aquí que te he refinado, pero no como la plata. Te he elegido en el horno de la aflicción. ^11^ Por mi propio bien, por mi propio bien, lo haré; pues ¿cómo se profanaría mi nombre? No daré mi gloria a otro. ^d^ ^e^ ^f^ 
+^a^[**48:4** Jer 5,3] ^b^[**48:4** Jer 5,3] ^c^[**48:4** Jer 5,3] ^d^[**48:11** Is 42,8] ^e^[**48:11** Is 42,8] ^f^[**48:11** Is 42,8]
+
+
+
+
 
 ## Nueva referencia al llamado de Ciro y las terribles consecuencias de una desobediencia anterior
-^12^ “Escúchame, oh Jacob, e Israel mi llamado: Yo soy él. Yo soy el primero. También soy el último. ^a^ ^13^ Sí, mi mano ha puesto los cimientos de la tierra, y mi mano derecha ha extendido los cielos. cuando los llamo, se levantan juntos. ^14^ “¡Reúnanse todos y escuchen! ¿Quién de ellos ha declarado estas cosas? Aquel a quien Yahvé ama hará lo que le gusta a Babilonia, y su brazo estará contra los caldeos. ^b^ ^15^ Yo, incluso yo, he hablado. Sí, le he llamado. Le he traído y hará que su camino sea próspero. 
-^a^[**48:12** Is 41,4] ^b^[**48:14** Is 41,2]
+^12^ “Escúchame, oh Jacob, e Israel mi llamado: Yo soy él. Yo soy el primero. También soy el último. ^a^ ^b^ ^c^ ^13^ Sí, mi mano ha puesto los cimientos de la tierra, y mi mano derecha ha extendido los cielos. cuando los llamo, se levantan juntos. ^14^ “¡Reúnanse todos y escuchen! ¿Quién de ellos ha declarado estas cosas? Aquel a quien Yahvé ama hará lo que le gusta a Babilonia, y su brazo estará contra los caldeos. ^d^ ^e^ ^f^ ^15^ Yo, incluso yo, he hablado. Sí, le he llamado. Le he traído y hará que su camino sea próspero. 
+^a^[**48:12** Is 41,4] ^b^[**48:12** Is 41,4] ^c^[**48:12** Is 41,4] ^d^[**48:14** Is 41,2] ^e^[**48:14** Is 41,2] ^f^[**48:14** Is 41,2]
 
-^16^ “Acércate a mí y escucha esto: “Desde el principio no he hablado en secreto; desde el momento en que ocurrió, yo estaba allí”. Ahora el Señor Yahvé me ha enviado con su Espíritu. ^17^ Yahvé, tu Redentor, el Santo de Israel, dice: “Yo soy Yahvé, tu Dios, que te enseña a sacar provecho, que te guía por el camino que debes seguir. ^18^ ¡Oh, si hubieras escuchado mis mandamientos! Entonces tu paz habría sido como un río y tu justicia como las olas del mar. ^a^ ^19^ Tu descendencia también habría sido como la arena y los descendientes de tu cuerpo como sus granos. Su nombre no será cortado ni destruido ante mí”.
-^a^[**48:18** Deut 5,26]
+^16^ “Acércate a mí y escucha esto: “Desde el principio no he hablado en secreto; desde el momento en que ocurrió, yo estaba allí”. Ahora el Señor Yahvé me ha enviado con su Espíritu. ^17^ Yahvé, tu Redentor, el Santo de Israel, dice: “Yo soy Yahvé, tu Dios, que te enseña a sacar provecho, que te guía por el camino que debes seguir. ^18^ ¡Oh, si hubieras escuchado mis mandamientos! Entonces tu paz habría sido como un río y tu justicia como las olas del mar. ^a^ ^b^ ^c^ ^19^ Tu descendencia también habría sido como la arena y los descendientes de tu cuerpo como sus granos. Su nombre no será cortado ni destruido ante mí”.
+^a^[**48:18** Deut 5,26] ^b^[**48:18** Deut 5,26] ^c^[**48:18** Deut 5,26]
+
+
+
+
 
 ## Llamado para regresar de Babilonia y vítores de los redimidos
-^20^ ¡Salgan de Babilonia! ¡Huye de los caldeos! Con una voz de canto anuncie esto, cuéntalo hasta el fin de la tierra; decir: “¡Yahvé ha redimido a su siervo Jacob!” ^21^ No tuvieron sed cuando los condujo por los desiertos. Hizo que las aguas fluyeran de la roca para ellos. También partió la roca y las aguas brotaron. ^a^ ^22^ “No hay paz”, dice Yahvé, “para los malvados”. ^b^ 
-^a^[**48:21** Éxod 17,6] ^b^[**48:22** Is 57,21; Is 66,24]
+^20^ ¡Salgan de Babilonia! ¡Huye de los caldeos! Con una voz de canto anuncie esto, cuéntalo hasta el fin de la tierra; decir: “¡Yahvé ha redimido a su siervo Jacob!” ^21^ No tuvieron sed cuando los condujo por los desiertos. Hizo que las aguas fluyeran de la roca para ellos. También partió la roca y las aguas brotaron. ^a^ ^b^ ^c^ ^22^ “No hay paz”, dice Yahvé, “para los malvados”. ^d^ ^e^ ^f^ 
+^a^[**48:21** Éxod 17,6] ^b^[**48:21** Éxod 17,6] ^c^[**48:21** Éxod 17,6] ^d^[**48:22** Is 57,21; Is 66,24] ^e^[**48:22** Is 57,21; Is 66,24] ^f^[**48:22** Is 57,21; Is 66,24]
 
 # 49 
 ## Habla del siervo a los paganos sobre su oficio según la voluntad divina
-^1^ Escúchame, islas, a mí. Escuchad, pueblos, desde lejos: Yahvé me ha llamado desde el vientre; desde el interior de mi madre, ha mencionado mi nombre. ^2^ Ha hecho que mi boca sea como una espada afilada. Me ha escondido en la sombra de su mano. Me ha hecho un eje pulido. Me ha mantenido cerca en su carcaj. ^a^ ^3^ Me dijo: “Tú eres mi siervo, Israel, en quien seré glorificado”. ^b^ ^4^ Pero yo dije: “He trabajado en vano. He gastado mis fuerzas en vano para nada; pero ciertamente la justicia que me corresponde está con Yahvé, y mi recompensa con mi Dios”. ^c^ ^5^ Ahora bien, Yahvé, el que me formó desde el vientre para ser su siervo, dice que traiga a Jacob de nuevo a él, y reunir a Israel con él, porque soy honorable a los ojos de Yahvé, y mi Dios se ha convertido en mi fuerza. ^6^ En efecto, dice: “Es muy poco que seas mi siervo para levantar las tribus de Jacob, y para restaurar lo preservado de Israel. También te daré como luz a las naciones, para que seas mi salvación hasta el fin de la tierra”.
-^a^[**49:2** Apoc 1,16; Is 51,16] ^b^[**49:3** Is 49,5; Is 42,1; Is 41,8] ^c^[**49:4** 1Re 19,10]
+^1^ Escúchame, islas, a mí. Escuchad, pueblos, desde lejos: Yahvé me ha llamado desde el vientre; desde el interior de mi madre, ha mencionado mi nombre. ^2^ Ha hecho que mi boca sea como una espada afilada. Me ha escondido en la sombra de su mano. Me ha hecho un eje pulido. Me ha mantenido cerca en su carcaj. ^a^ ^b^ ^c^ ^3^ Me dijo: “Tú eres mi siervo, Israel, en quien seré glorificado”. ^d^ ^e^ ^f^ ^4^ Pero yo dije: “He trabajado en vano. He gastado mis fuerzas en vano para nada; pero ciertamente la justicia que me corresponde está con Yahvé, y mi recompensa con mi Dios”. ^g^ ^h^ ^i^ ^5^ Ahora bien, Yahvé, el que me formó desde el vientre para ser su siervo, dice que traiga a Jacob de nuevo a él, y reunir a Israel con él, porque soy honorable a los ojos de Yahvé, y mi Dios se ha convertido en mi fuerza. ^6^ En efecto, dice: “Es muy poco que seas mi siervo para levantar las tribus de Jacob, y para restaurar lo preservado de Israel. También te daré como luz a las naciones, para que seas mi salvación hasta el fin de la tierra”.
+^a^[**49:2** Apoc 1,16; Is 51,16] ^b^[**49:2** Apoc 1,16; Is 51,16] ^c^[**49:2** Apoc 1,16; Is 51,16] ^d^[**49:3** Is 49,5; Is 42,1; Is 41,8] ^e^[**49:3** Is 49,5; Is 42,1; Is 41,8] ^f^[**49:3** Is 49,5; Is 42,1; Is 41,8] ^g^[**49:4** 1Re 19,10] ^h^[**49:4** 1Re 19,10] ^i^[**49:4** 1Re 19,10]
+
+
+
+
 
 ## Dios promete la mayor glorificación a su pueblo profundamente humillado
 ^7^ Yahvé, el Redentor de Israel, y su Santo, dice al que el hombre desprecia, al que la nación aborrece, al servidor de los gobernantes: “Los reyes verán y se levantarán, príncipes, y ellos adorarán, a causa de Yahvé, que es fiel, el Santo de Israel, que te ha elegido”. 
 
-^8^ Yahvé dice: “Te he respondido en un tiempo aceptable. Te he ayudado en un día de salvación. Te preservaré y te daré como pacto del pueblo, para levantar la tierra, para hacerles heredar la herencia desolada, ^a^ ^9^ diciendo a los que están atados: “¡Salid!”; a los que están en las tinieblas: “¡Muéstrense! “Se alimentarán a lo largo de los caminos, y sus pastos estarán en todas las alturas sin árboles. ^10^ No tendrán hambre ni sed; ni el calor ni el sol los golpearán, porque el que se apiada de ellos los guiará. Los guiará por manantiales de agua. ^11^ Haré de todas mis montañas un camino, y mis carreteras serán exaltadas. ^12^ He aquí que éstos vendrán de lejos, y he aquí, estos del norte y del oeste, y estos de la tierra de Sinim”. ^b^ ^13^ ¡Cantad, cielos, y alegraos, tierra! ¡Arranquen a cantar, montañas! Porque Yahvé ha consolado a su pueblo, y tendrá compasión de sus afligidos. ^c^ 
-^a^[**49:8** Sal 69,14; 2Cor 6,2; Is 42,6] ^b^[**49:12** Luc 13,29] ^c^[**49:13** Is 44,23]
+^8^ Yahvé dice: “Te he respondido en un tiempo aceptable. Te he ayudado en un día de salvación. Te preservaré y te daré como pacto del pueblo, para levantar la tierra, para hacerles heredar la herencia desolada, ^a^ ^b^ ^c^ ^9^ diciendo a los que están atados: “¡Salid!”; a los que están en las tinieblas: “¡Muéstrense! “Se alimentarán a lo largo de los caminos, y sus pastos estarán en todas las alturas sin árboles. ^10^ No tendrán hambre ni sed; ni el calor ni el sol los golpearán, porque el que se apiada de ellos los guiará. Los guiará por manantiales de agua. ^11^ Haré de todas mis montañas un camino, y mis carreteras serán exaltadas. ^12^ He aquí que éstos vendrán de lejos, y he aquí, estos del norte y del oeste, y estos de la tierra de Sinim”. ^d^ ^e^ ^f^ ^13^ ¡Cantad, cielos, y alegraos, tierra! ¡Arranquen a cantar, montañas! Porque Yahvé ha consolado a su pueblo, y tendrá compasión de sus afligidos. ^g^ ^h^ ^i^ 
+^a^[**49:8** Sal 69,14; 2Cor 6,2; Is 42,6] ^b^[**49:8** Sal 69,14; 2Cor 6,2; Is 42,6] ^c^[**49:8** Sal 69,14; 2Cor 6,2; Is 42,6] ^d^[**49:12** Luc 13,29] ^e^[**49:12** Luc 13,29] ^f^[**49:12** Luc 13,29] ^g^[**49:13** Is 44,23] ^h^[**49:13** Is 44,23] ^i^[**49:13** Is 44,23]
+
+
+
+
 
 ## Consuelo de la abatida Sión con la promesa de una pronta restauración y una población abundante
-^14^ Pero Sión dijo: “Yahvé me ha abandonado, y el Señor me ha olvidado”. ^15^ “¿Puede una mujer olvidar a su hijo lactante, ¿que no tenga compasión del hijo de su vientre? Sí, estos pueden olvidar, pero no te olvidaré. ^a^ ^16^ He aquí que te he grabado en las palmas de mis manos. Sus muros están continuamente ante mí. ^17^ Tus hijos se apresuran. Tus destructores y los que te devastaron te dejarán. ^18^ Levanta los ojos a tu alrededor y mira: todos estos se reúnen, y vienen a ti. Vivo yo”, dice Yahvé, “ciertamente te vestirás con todos ellos como con un adorno, y vístete con ellos, como una novia. ^19^ “Porque, en cuanto a tus desechos y tus lugares desolados, y su tierra que ha sido destruida, seguramente ahora esa tierra será demasiado pequeña para los habitantes, y los que te tragaron estarán lejos. ^20^ Los hijos de tu duelo dirán en tus oídos, ‘Este lugar es demasiado pequeño para mí. Dame un lugar para vivir’. ^b^ ^21^ Entonces dirás en tu corazón: “¿Quién ha concebido esto para mí, ya que he sido despojado de mis hijos y estoy solo, exiliado, y vagando de un lado a otro? ¿Quién ha sacado esto a relucir? He aquí que me he quedado solo. ¿Dónde estaban estos?”
-^a^[**49:15** 1Re 3,26; Jer 31,20] ^b^[**49:20** Is 54,1]
+^14^ Pero Sión dijo: “Yahvé me ha abandonado, y el Señor me ha olvidado”. ^15^ “¿Puede una mujer olvidar a su hijo lactante, ¿que no tenga compasión del hijo de su vientre? Sí, estos pueden olvidar, pero no te olvidaré. ^a^ ^b^ ^c^ ^16^ He aquí que te he grabado en las palmas de mis manos. Sus muros están continuamente ante mí. ^17^ Tus hijos se apresuran. Tus destructores y los que te devastaron te dejarán. ^18^ Levanta los ojos a tu alrededor y mira: todos estos se reúnen, y vienen a ti. Vivo yo”, dice Yahvé, “ciertamente te vestirás con todos ellos como con un adorno, y vístete con ellos, como una novia. ^19^ “Porque, en cuanto a tus desechos y tus lugares desolados, y su tierra que ha sido destruida, seguramente ahora esa tierra será demasiado pequeña para los habitantes, y los que te tragaron estarán lejos. ^20^ Los hijos de tu duelo dirán en tus oídos, ‘Este lugar es demasiado pequeño para mí. Dame un lugar para vivir’. ^d^ ^e^ ^f^ ^21^ Entonces dirás en tu corazón: “¿Quién ha concebido esto para mí, ya que he sido despojado de mis hijos y estoy solo, exiliado, y vagando de un lado a otro? ¿Quién ha sacado esto a relucir? He aquí que me he quedado solo. ¿Dónde estaban estos?”
+^a^[**49:15** 1Re 3,26; Jer 31,20] ^b^[**49:15** 1Re 3,26; Jer 31,20] ^c^[**49:15** 1Re 3,26; Jer 31,20] ^d^[**49:20** Is 54,1] ^e^[**49:20** Is 54,1] ^f^[**49:20** Is 54,1]
+
+
+
+
 
 ## Los gentiles como siervos sumisos y cuidadores del pueblo de Dios
-^22^ El Señor Yahvé dice: “He aquí que yo alzo mi mano a las naciones, y levantaré mi bandera ante los pueblos. Traerán a tus hijos en su seno, y tus hijas serán llevadas a hombros. ^23^ Los reyes serán vuestros padres adoptivos, y sus reinas sus madres lactantes. Se inclinarán ante ti con el rostro hacia la tierra, y lamer el polvo de tus pies. Entonces sabrás que yo soy Yahvé; y los que me esperan no quedarán decepcionados”. ^a^ 
-^a^[**49:23** Is 60,16; Sal 72,9; Miq 7,17]
+^22^ El Señor Yahvé dice: “He aquí que yo alzo mi mano a las naciones, y levantaré mi bandera ante los pueblos. Traerán a tus hijos en su seno, y tus hijas serán llevadas a hombros. ^23^ Los reyes serán vuestros padres adoptivos, y sus reinas sus madres lactantes. Se inclinarán ante ti con el rostro hacia la tierra, y lamer el polvo de tus pies. Entonces sabrás que yo soy Yahvé; y los que me esperan no quedarán decepcionados”. ^a^ ^b^ ^c^ 
+^a^[**49:23** Is 60,16; Sal 72,9; Miq 7,17] ^b^[**49:23** Is 60,16; Sal 72,9; Miq 7,17] ^c^[**49:23** Is 60,16; Sal 72,9; Miq 7,17]
+
+
+
+
 
 ## El mismo Dios Todopoderoso derrocará al gobernante de Israel
 ^24^ Se tomará el botín de los poderosos, o los cautivos legítimos sean liberados? ^25^ Pero Yahvé dice: “Hasta los cautivos de los poderosos serán llevados, y el botín recuperado de la ferocidad, porque yo contenderé con el que contendrá con vosotros y salvaré a tus hijos. ^26^ Alimentaré a los que te oprimen con su propia carne; y se embriagarán con su propia sangre, como con vino dulce. Entonces toda carne sabrá que yo, Yahvé, soy su Salvador y tu Redentor, el Poderoso de Jacob”. 
 
 # 50 
 ## Dios no ha echado ni vendido a su pueblo para bien; tiene el derecho y el poder de redimirlo
-^1^ Yahvé dice: “¿Dónde está la factura del divorcio de tu madre, con la que la he despedido? ¿O a cuál de mis acreedores te he vendido? He aquí que fuisteis vendidos por vuestras iniquidades, y tu madre fue apartada por tus transgresiones. ^a^ ^2^ ¿Por qué, cuando llegué, no había nadie? Cuando llamé, ¿por qué no había nadie que respondiera? ¿Está mi mano acortada en absoluto, que no puede redimir? ¿O es que no tengo poder de entrega? He aquí que con mi reprimenda seco el mar. Hago de los ríos un desierto. Sus peces apestan porque no hay agua, y mueren de sed. ^b^ ^3^ Yo visto los cielos con negrura. Hago de la arpillera su cobertura”.
-^a^[**50:1** Deut 24,1; Is 54,6; Is 52,3] ^b^[**50:2** Is 59,1; Núm 11,23; Éxod 14,21]
+^1^ Yahvé dice: “¿Dónde está la factura del divorcio de tu madre, con la que la he despedido? ¿O a cuál de mis acreedores te he vendido? He aquí que fuisteis vendidos por vuestras iniquidades, y tu madre fue apartada por tus transgresiones. ^a^ ^b^ ^c^ ^2^ ¿Por qué, cuando llegué, no había nadie? Cuando llamé, ¿por qué no había nadie que respondiera? ¿Está mi mano acortada en absoluto, que no puede redimir? ¿O es que no tengo poder de entrega? He aquí que con mi reprimenda seco el mar. Hago de los ríos un desierto. Sus peces apestan porque no hay agua, y mueren de sed. ^d^ ^e^ ^f^ ^3^ Yo visto los cielos con negrura. Hago de la arpillera su cobertura”.
+^a^[**50:1** Deut 24,1; Is 54,6; Is 52,3] ^b^[**50:1** Deut 24,1; Is 54,6; Is 52,3] ^c^[**50:1** Deut 24,1; Is 54,6; Is 52,3] ^d^[**50:2** Is 59,1; Núm 11,23; Éxod 14,21] ^e^[**50:2** Is 59,1; Núm 11,23; Éxod 14,21] ^f^[**50:2** Is 59,1; Núm 11,23; Éxod 14,21]
+
+
+
+
 
 ## Entre los dones que le ha dado Dios, el siervo de Dios hace especial hincapié en la lealtad profesional, la firmeza de fe y la tolerancia
-^4^ El Señor Yahvé me ha dado la lengua de los enseñados, para saber cómo sostener con palabras al que está cansado. Se despierta mañana a mañana, despierta mi oído para escuchar como los que son enseñados. ^a^ ^5^ El Señor Yahvé ha abierto mi oído. No era rebelde. No he dado marcha atrás. ^b^ ^6^ Le di la espalda a los que me golpearon, y mis mejillas a los que arrancaron el pelo. No escondí mi cara de vergüenza ni escupí. ^c^ ^7^ Porque el Señor Yahvé me ayudará. Por lo tanto, no me he confundido. Por eso he puesto mi cara como un pedernal, y sé que no me decepcionará. ^8^ El que me justifica está cerca. ¿Quién presentará cargos contra mí? Levantémonos juntos. ¿Quién es mi adversario? Que se acerque a mí. ^9^ ¡He aquí que el Señor Yahvé me ayudará! ¿Quién es el que me condenará? He aquí que todos envejecerán como un vestido. Las polillas se las comerán.
-^a^[**50:4** Mat 7,28-29; Mat 11,28] ^b^[**50:5** Sal 40,7] ^c^[**50:6** Mat 26,67-68; Juan 19,1]
+^4^ El Señor Yahvé me ha dado la lengua de los enseñados, para saber cómo sostener con palabras al que está cansado. Se despierta mañana a mañana, despierta mi oído para escuchar como los que son enseñados. ^a^ ^b^ ^c^ ^5^ El Señor Yahvé ha abierto mi oído. No era rebelde. No he dado marcha atrás. ^d^ ^e^ ^f^ ^6^ Le di la espalda a los que me golpearon, y mis mejillas a los que arrancaron el pelo. No escondí mi cara de vergüenza ni escupí. ^g^ ^h^ ^i^ ^7^ Porque el Señor Yahvé me ayudará. Por lo tanto, no me he confundido. Por eso he puesto mi cara como un pedernal, y sé que no me decepcionará. ^8^ El que me justifica está cerca. ¿Quién presentará cargos contra mí? Levantémonos juntos. ¿Quién es mi adversario? Que se acerque a mí. ^9^ ¡He aquí que el Señor Yahvé me ayudará! ¿Quién es el que me condenará? He aquí que todos envejecerán como un vestido. Las polillas se las comerán.
+^a^[**50:4** Mat 7,28-29; Mat 11,28] ^b^[**50:4** Mat 7,28-29; Mat 11,28] ^c^[**50:4** Mat 7,28-29; Mat 11,28] ^d^[**50:5** Sal 40,7] ^e^[**50:5** Sal 40,7] ^f^[**50:5** Sal 40,7] ^g^[**50:6** Mat 26,67-68; Juan 19,1] ^h^[**50:6** Mat 26,67-68; Juan 19,1] ^i^[**50:6** Mat 26,67-68; Juan 19,1]
+
+
+
+
 
 ## Aliento a los piadosos y amenaza a los oponentes violentos e impíos
 ^10^ ¿Quién de vosotros teme a Yahvé? y obedece la voz de su siervo? El que camina en la oscuridad y no tiene luz, que confíe en el nombre de Yahvé, y confiar en su Dios. ^11^ Mirad, todos los que encendéis el fuego, que se adornan con antorchas a su alrededor, caminar en la llama de tu fuego, y entre las antorchas que has encendido. Tendrás esto de mi mano: te acostarás en la tristeza. 
 
 # 51 
 ## Discurso de amonestación sincero y aliento reconfortante para aquellos que anhelan la salvación entre la gente
-^1^ “Escúchame, tú que sigues la justicia, vosotros que buscáis a Yahvé. Mira a la roca de la que fuiste cortado, y a la cantera de la que fuiste excavado. ^a^ ^2^ Mira a Abraham, tu padre, y a Sarah que te parió; ya que cuando no era más que uno le llamé, Lo bendije, y le hizo muchos. ^b^ ^3^ Porque Yahvé ha consolado a Sión. Él ha reconfortado todos sus lugares de desecho, y ha hecho que su desierto sea como el Edén, y su desierto como el jardín de Yahvé. La alegría y el gozo se encontrarán en ellos, acción de gracias, y la voz de la melodía. 
-^a^[**51:1** Is 48,1] ^b^[**51:2** Ezeq 33,24]
+^1^ “Escúchame, tú que sigues la justicia, vosotros que buscáis a Yahvé. Mira a la roca de la que fuiste cortado, y a la cantera de la que fuiste excavado. ^a^ ^b^ ^c^ ^2^ Mira a Abraham, tu padre, y a Sarah que te parió; ya que cuando no era más que uno le llamé, Lo bendije, y le hizo muchos. ^d^ ^e^ ^f^ ^3^ Porque Yahvé ha consolado a Sión. Él ha reconfortado todos sus lugares de desecho, y ha hecho que su desierto sea como el Edén, y su desierto como el jardín de Yahvé. La alegría y el gozo se encontrarán en ellos, acción de gracias, y la voz de la melodía. 
+^a^[**51:1** Is 48,1] ^b^[**51:1** Is 48,1] ^c^[**51:1** Is 48,1] ^d^[**51:2** Ezeq 33,24] ^e^[**51:2** Ezeq 33,24] ^f^[**51:2** Ezeq 33,24]
 
-^4^ “Escuchadme, pueblo mío; y escuchadme, nación mía, porque una ley saldrá de mí, y estableceré mi justicia para luz de los pueblos. ^5^ Mi justicia está cerca. Mi salvación se ha apagado, y mis brazos juzgarán a los pueblos. Las islas me esperarán, y confiarán en mi brazo. ^6^ Alza tus ojos al cielo, y mira la tierra que hay debajo; porque los cielos se desvanecerán como el humo, y la tierra se desgastará como un vestido. Sus habitantes morirán de la misma manera, pero mi salvación será para siempre, y mi justicia no será abolida. ^a^ 
-^a^[**51:6** Sal 102,27]
+^4^ “Escuchadme, pueblo mío; y escuchadme, nación mía, porque una ley saldrá de mí, y estableceré mi justicia para luz de los pueblos. ^5^ Mi justicia está cerca. Mi salvación se ha apagado, y mis brazos juzgarán a los pueblos. Las islas me esperarán, y confiarán en mi brazo. ^6^ Alza tus ojos al cielo, y mira la tierra que hay debajo; porque los cielos se desvanecerán como el humo, y la tierra se desgastará como un vestido. Sus habitantes morirán de la misma manera, pero mi salvación será para siempre, y mi justicia no será abolida. ^a^ ^b^ ^c^ 
+^a^[**51:6** Sal 102,27] ^b^[**51:6** Sal 102,27] ^c^[**51:6** Sal 102,27]
 
-^7^ “Escúchame, tú que conoces la justicia, el pueblo en cuyo corazón está mi ley. No temas el reproche de los hombres, y no te desanimes por sus insultos. ^a^ ^8^ Porque la polilla se los comerá como un vestido, y el gusano los comerá como si fueran lana; pero mi justicia será para siempre, y mi salvación para todas las generaciones”.
-^a^[**51:7** Mat 5,11]
+^7^ “Escúchame, tú que conoces la justicia, el pueblo en cuyo corazón está mi ley. No temas el reproche de los hombres, y no te desanimes por sus insultos. ^a^ ^b^ ^c^ ^8^ Porque la polilla se los comerá como un vestido, y el gusano los comerá como si fueran lana; pero mi justicia será para siempre, y mi salvación para todas las generaciones”.
+^a^[**51:7** Mat 5,11] ^b^[**51:7** Mat 5,11] ^c^[**51:7** Mat 5,11]
+
+
+
+
 
 ## Petición a Dios para que vuelva a mostrar su omnipotencia para la salvación de su pueblo
-^9^ ¡Despierta, despierta, ponte fuerte, brazo de Yahvé! Despierta, como en los viejos tiempos, las generaciones de la antigüedad. ¿No fuiste tú quien cortó en pedazos a Rahab? ¿quién perforó al monstruo? ^a^ ^10^ ¿No fuiste tú quien secó el mar? las aguas de las grandes profundidades; ¿quién hizo de las profundidades del mar un camino para que pasaran los redimidos? ^b^ ^11^ Los rescatados por Yahvé volverán, y venir con el canto a Sión. La alegría eterna estará sobre sus cabezas. Obtendrán alegría y gozo. La pena y el suspiro huirán. ^c^ 
-^a^[**51:9** Éxod 14,14; Éxod 15,7] ^b^[**51:10** Éxod 14,21-22] ^c^[**51:11** Is 35,10]
+^9^ ¡Despierta, despierta, ponte fuerte, brazo de Yahvé! Despierta, como en los viejos tiempos, las generaciones de la antigüedad. ¿No fuiste tú quien cortó en pedazos a Rahab? ¿quién perforó al monstruo? ^a^ ^b^ ^c^ ^10^ ¿No fuiste tú quien secó el mar? las aguas de las grandes profundidades; ¿quién hizo de las profundidades del mar un camino para que pasaran los redimidos? ^d^ ^e^ ^f^ ^11^ Los rescatados por Yahvé volverán, y venir con el canto a Sión. La alegría eterna estará sobre sus cabezas. Obtendrán alegría y gozo. La pena y el suspiro huirán. ^g^ ^h^ ^i^ 
+^a^[**51:9** Éxod 14,14; Éxod 15,7] ^b^[**51:9** Éxod 14,14; Éxod 15,7] ^c^[**51:9** Éxod 14,14; Éxod 15,7] ^d^[**51:10** Éxod 14,21-22] ^e^[**51:10** Éxod 14,21-22] ^f^[**51:10** Éxod 14,21-22] ^g^[**51:11** Is 35,10] ^h^[**51:11** Is 35,10] ^i^[**51:11** Is 35,10]
+
+
+
+
 
 ## Nuevo consuelo y aliento del pueblo por Dios
-^12^ “Yo, yo mismo, soy el que te consuela. ¿Quiénes sois vosotros, que tenéis miedo del hombre que va a morir? y del hijo del hombre que será hecho como hierba? ^a^ ^13^ ¿Has olvidado a Yahvé, tu Hacedor? que extendió los cielos, y puso los cimientos de la tierra? ¿Vives continuamente con miedo por la furia del opresor? cuando se prepara para destruir? ¿Dónde está la furia del opresor? ^14^ El exiliado cautivo será liberado rápidamente. No morirá y bajará a la fosa. Su pan no fallará. ^15^ Porque yo soy Yahvé, tu Dios, que agita el mar de modo que sus olas rugen. Yavé de los Ejércitos es su nombre. ^16^ He puesto mis palabras en tu boca y te he cubierto con la sombra de mi mano, para plantar los cielos, y poner los cimientos de la tierra, y dile a Sión: ‘Tú eres mi pueblo’”. ^b^ 
-^a^[**51:12** Sal 56,5; Is 40,6] ^b^[**51:16** Is 49,2]
+^12^ “Yo, yo mismo, soy el que te consuela. ¿Quiénes sois vosotros, que tenéis miedo del hombre que va a morir? y del hijo del hombre que será hecho como hierba? ^a^ ^b^ ^c^ ^13^ ¿Has olvidado a Yahvé, tu Hacedor? que extendió los cielos, y puso los cimientos de la tierra? ¿Vives continuamente con miedo por la furia del opresor? cuando se prepara para destruir? ¿Dónde está la furia del opresor? ^14^ El exiliado cautivo será liberado rápidamente. No morirá y bajará a la fosa. Su pan no fallará. ^15^ Porque yo soy Yahvé, tu Dios, que agita el mar de modo que sus olas rugen. Yavé de los Ejércitos es su nombre. ^16^ He puesto mis palabras en tu boca y te he cubierto con la sombra de mi mano, para plantar los cielos, y poner los cimientos de la tierra, y dile a Sión: ‘Tú eres mi pueblo’”. ^d^ ^e^ ^f^ 
+^a^[**51:12** Sal 56,5; Is 40,6] ^b^[**51:12** Sal 56,5; Is 40,6] ^c^[**51:12** Sal 56,5; Is 40,6] ^d^[**51:16** Is 49,2] ^e^[**51:16** Is 49,2] ^f^[**51:16** Is 49,2]
+
+
+
+
 
 ## Descripción de la situación de la ciudad, que ha sido severamente probada por la copa de Dios que cae, y el anuncio de la redención
-^17^ ¡Despierta, despierta! Levántate, Jerusalén, tú que has bebido de la mano de Yahvé el cáliz de su ira. Te has bebido el cuenco de la copa del tambaleo, y lo escurrió. ^a^ ^18^ No hay nadie que la guíe entre todos los hijos que ha dado a luz; y no hay nadie que la tome de la mano entre todos los hijos que ha criado. ^19^ Estas dos cosas te han sucedido... ¿quién se afligirá contigo? desolación y destrucción, y el hambre y la espada. ¿Cómo puedo consolarte? ^b^ ^20^ Tus hijos se han desmayado. Están a la cabeza de todas las calles, como un antílope en una red. Están llenos de la ira de Yahvé, la reprimenda de tu Dios. ^c^ ^21^ Por lo tanto, escuchad ahora esto, afligidos, y borracho, pero no con vino: ^22^ Tu Señor Yahvé, tu Dios que defiende la causa de su pueblo, dice, “He aquí que he quitado de tu mano el cáliz del tambaleo, hasta el cuenco de la copa de mi ira. No lo beberás más. ^d^ ^23^ La pondré en manos de los que te afligen, que han dicho a tu alma: “Inclínate, para que caminemos sobre ti”. y has puesto tu espalda como el suelo, como una calle para los que pasan por encima”. ^e^ 
-^a^[**51:17** Sal 60,5; Sal 75,9; Jer 25,15-18] ^b^[**51:19** Is 47,9] ^c^[**51:20** Lam 2,11; Lam 2,19] ^d^[**51:22** Is 51,17] ^e^[**51:23** Sal 129,3]
+^17^ ¡Despierta, despierta! Levántate, Jerusalén, tú que has bebido de la mano de Yahvé el cáliz de su ira. Te has bebido el cuenco de la copa del tambaleo, y lo escurrió. ^a^ ^b^ ^c^ ^18^ No hay nadie que la guíe entre todos los hijos que ha dado a luz; y no hay nadie que la tome de la mano entre todos los hijos que ha criado. ^19^ Estas dos cosas te han sucedido... ¿quién se afligirá contigo? desolación y destrucción, y el hambre y la espada. ¿Cómo puedo consolarte? ^d^ ^e^ ^f^ ^20^ Tus hijos se han desmayado. Están a la cabeza de todas las calles, como un antílope en una red. Están llenos de la ira de Yahvé, la reprimenda de tu Dios. ^g^ ^h^ ^i^ ^21^ Por lo tanto, escuchad ahora esto, afligidos, y borracho, pero no con vino: ^22^ Tu Señor Yahvé, tu Dios que defiende la causa de su pueblo, dice, “He aquí que he quitado de tu mano el cáliz del tambaleo, hasta el cuenco de la copa de mi ira. No lo beberás más. ^j^ ^k^ ^l^ ^23^ La pondré en manos de los que te afligen, que han dicho a tu alma: “Inclínate, para que caminemos sobre ti”. y has puesto tu espalda como el suelo, como una calle para los que pasan por encima”. ^m^ ^n^ ^o^ 
+^a^[**51:17** Sal 60,5; Sal 75,9; Jer 25,15-18] ^b^[**51:17** Sal 60,5; Sal 75,9; Jer 25,15-18] ^c^[**51:17** Sal 60,5; Sal 75,9; Jer 25,15-18] ^d^[**51:19** Is 47,9] ^e^[**51:19** Is 47,9] ^f^[**51:19** Is 47,9] ^g^[**51:20** Lam 2,11; Lam 2,19] ^h^[**51:20** Lam 2,11; Lam 2,19] ^i^[**51:20** Lam 2,11; Lam 2,19] ^j^[**51:22** Is 51,17] ^k^[**51:22** Is 51,17] ^l^[**51:22** Is 51,17] ^m^[**51:23** Sal 129,3] ^n^[**51:23** Sal 129,3] ^o^[**51:23** Sal 129,3]
 
 # 52 
 ## Invitación a Sión para prepararse dignamente para recibir a los redimidos
-^1^ ¡Despierta, despierta! Ponte en marcha, Sión. Ponte tus hermosas vestiduras, Jerusalén, la ciudad santa, porque a partir de ahora ya no entrarán en vosotros los incircuncisos ni los impuros. ^2^ ¡Sacúdase del polvo! ¡Levántate, siéntate, Jerusalén! Libérate de las ataduras de tu cuello, hija cautiva de Sión. ^3^ Porque Yahvé dice: “Fuisteis vendidos por nada; y serás redimido sin dinero”. ^a^ ^4^ Porque el Señor Yahvé dice: “Mi pueblo bajó al principio a Egipto para vivir allí; y el asirio los ha oprimido sin causa. ^5^ “Ahora, pues, ¿qué hago yo aquí?”, dice Yahvé, “¿Viendo que a mi pueblo se le quita por nada? Los que los gobiernan se burlan”, dice Yahvé, “y mi nombre es blasfemado continuamente durante todo el día. ^6^ Por eso mi pueblo conocerá mi nombre. Por tanto, en aquel día sabrán que yo soy el que habla. He aquí que soy yo”.
-^a^[**52:3** Is 50,1]
+^1^ ¡Despierta, despierta! Ponte en marcha, Sión. Ponte tus hermosas vestiduras, Jerusalén, la ciudad santa, porque a partir de ahora ya no entrarán en vosotros los incircuncisos ni los impuros. ^2^ ¡Sacúdase del polvo! ¡Levántate, siéntate, Jerusalén! Libérate de las ataduras de tu cuello, hija cautiva de Sión. ^3^ Porque Yahvé dice: “Fuisteis vendidos por nada; y serás redimido sin dinero”. ^a^ ^b^ ^c^ ^4^ Porque el Señor Yahvé dice: “Mi pueblo bajó al principio a Egipto para vivir allí; y el asirio los ha oprimido sin causa. ^5^ “Ahora, pues, ¿qué hago yo aquí?”, dice Yahvé, “¿Viendo que a mi pueblo se le quita por nada? Los que los gobiernan se burlan”, dice Yahvé, “y mi nombre es blasfemado continuamente durante todo el día. ^6^ Por eso mi pueblo conocerá mi nombre. Por tanto, en aquel día sabrán que yo soy el que habla. He aquí que soy yo”.
+^a^[**52:3** Is 50,1] ^b^[**52:3** Is 50,1] ^c^[**52:3** Is 50,1]
+
+
+
+
 
 ## Invitación a regocijarse por el regreso de Dios y los redimidos a Sion
-^7^ Qué hermosos son sobre los montes los pies del que trae buenas noticias, que publica la paz, que trae buenas noticias, que anuncia la salvación, que dice a Sión: “¡Tu Dios reina!” ^a^ ^8^ Tus vigilantes alzan la voz. Juntos cantan; porque se verán cara a cara cuando Yahvé vuelva a Sión. ^b^ ^9^ ¡Disfruta de la alegría! Cantad juntos, lugares desperdiciados de Jerusalén; porque Yahvé ha consolado a su pueblo. Ha redimido a Jerusalén. ^10^ Yahvé ha desnudado su santo brazo a los ojos de todas las naciones. Todos los confines de la tierra han visto la salvación de nuestro Dios. ^c^ ^11^ ¡Salgan! ¡Salgan! ¡Salgan de ahí! ¡No toques ninguna cosa impura! ¡Sal de entre ella! Limpiaos, vosotros que lleváis los vasos de Yahvé. ^d^ ^12^ Porque no saldrás con prisas, ni tampoco irás en volandas; porque Yahvé irá delante de ti, y el Dios de Israel será su retaguardia. ^e^ 
-^a^[**52:7** Nah 2,1; Rom 10,15; Zac 9,9] ^b^[**52:8** Is 56,10; Is 62,6; Ezeq 3,17] ^c^[**52:10** Is 53,1] ^d^[**52:11** Is 48,20; 2Cor 6,17] ^e^[**52:12** Éxod 12,11]
+^7^ Qué hermosos son sobre los montes los pies del que trae buenas noticias, que publica la paz, que trae buenas noticias, que anuncia la salvación, que dice a Sión: “¡Tu Dios reina!” ^a^ ^b^ ^c^ ^8^ Tus vigilantes alzan la voz. Juntos cantan; porque se verán cara a cara cuando Yahvé vuelva a Sión. ^d^ ^e^ ^f^ ^9^ ¡Disfruta de la alegría! Cantad juntos, lugares desperdiciados de Jerusalén; porque Yahvé ha consolado a su pueblo. Ha redimido a Jerusalén. ^10^ Yahvé ha desnudado su santo brazo a los ojos de todas las naciones. Todos los confines de la tierra han visto la salvación de nuestro Dios. ^g^ ^h^ ^i^ ^11^ ¡Salgan! ¡Salgan! ¡Salgan de ahí! ¡No toques ninguna cosa impura! ¡Sal de entre ella! Limpiaos, vosotros que lleváis los vasos de Yahvé. ^j^ ^k^ ^l^ ^12^ Porque no saldrás con prisas, ni tampoco irás en volandas; porque Yahvé irá delante de ti, y el Dios de Israel será su retaguardia. ^m^ ^n^ ^o^ 
+^a^[**52:7** Nah 2,1; Rom 10,15; Zac 9,9] ^b^[**52:7** Nah 2,1; Rom 10,15; Zac 9,9] ^c^[**52:7** Nah 2,1; Rom 10,15; Zac 9,9] ^d^[**52:8** Is 56,10; Is 62,6; Ezeq 3,17] ^e^[**52:8** Is 56,10; Is 62,6; Ezeq 3,17] ^f^[**52:8** Is 56,10; Is 62,6; Ezeq 3,17] ^g^[**52:10** Is 53,1] ^h^[**52:10** Is 53,1] ^i^[**52:10** Is 53,1] ^j^[**52:11** Is 48,20; 2Cor 6,17] ^k^[**52:11** Is 48,20; 2Cor 6,17] ^l^[**52:11** Is 48,20; 2Cor 6,17] ^m^[**52:12** Éxod 12,11] ^n^[**52:12** Éxod 12,11] ^o^[**52:12** Éxod 12,11]
+
+
+
+
 
 ## Dios anuncia la humillación sufrida y la exaltación brillante de su siervo
-^13^ He aquí que mi siervo actuará con sabiduría. Será exaltado y elevado, y será muy alta. ^a^ ^14^ Así como muchos se asombraron de ti — su aspecto estaba más estropeado que el de cualquier hombre, y su forma más que la de los hijos de los hombres — ^15^ así limpiará muchas naciones. Los reyes le cerrarán la boca; porque verán lo que no se les había dicho, y entenderán lo que no habían oído. ^b^ 
-^a^[**52:13** Is 42,1] ^b^[**52:15** Is 65,1; Rom 15,21]
+^13^ He aquí que mi siervo actuará con sabiduría. Será exaltado y elevado, y será muy alta. ^a^ ^b^ ^c^ ^14^ Así como muchos se asombraron de ti — su aspecto estaba más estropeado que el de cualquier hombre, y su forma más que la de los hijos de los hombres — ^15^ así limpiará muchas naciones. Los reyes le cerrarán la boca; porque verán lo que no se les había dicho, y entenderán lo que no habían oído. ^d^ ^e^ ^f^ 
+^a^[**52:13** Is 42,1] ^b^[**52:13** Is 42,1] ^c^[**52:13** Is 42,1] ^d^[**52:15** Is 65,1; Rom 15,21] ^e^[**52:15** Is 65,1; Rom 15,21] ^f^[**52:15** Is 65,1; Rom 15,21]
 
 # 53 
 ## La profunda humillación del Siervo de Dios, sus graves sufrimientos por los pecadores, su muerte paciente y la promesa que le hizo
-^1^ ¿Quién ha creído en nuestro mensaje? ¿A quién se le ha revelado el brazo de Yahvé? ^a^ ^2^ Porque creció ante él como una planta tierna, y como una raíz de la tierra seca. No tiene buen aspecto ni majestuosidad. Cuando lo vemos, no hay belleza que nos haga desearlo. ^b^ ^3^ Fue despreciado y rechazada por los hombres, un hombre que sufre y familiarizado con la enfermedad. Fue despreciado como alguien de quien los hombres ocultan su rostro; y no lo respetamos. ^c^ ^4^ Ciertamente ha soportado nuestra enfermedad y llevó nuestro sufrimiento; sin embargo, lo consideramos plagado, golpeado por Dios, y afligido. ^d^ ^5^ Pero fue traspasado por nuestras transgresiones. Fue aplastado por nuestras iniquidades. El castigo que trajo nuestra paz estuvo en él; y por sus heridas quedamos curados. ^e^ ^6^ Todos nosotros, como ovejas, nos hemos extraviado. Cada uno se ha vuelto a su manera; y Yahvé ha hecho recaer sobre él la iniquidad de todos nosotros. ^f^ ^7^ Estaba oprimido, sin embargo, cuando fue afligido no abrió la boca. Como un cordero que es llevado al matadero, y como una oveja que ante sus esquiladores calla, así que no abrió la boca. ^g^ ^8^ Fue llevado por la opresión y el juicio. En cuanto a su generación, que consideraba que había sido eliminado de la tierra de los vivos y golpeado por la desobediencia de mi pueblo? ^9^ Hicieron su tumba con los malvados, y con un hombre rico en su muerte, aunque no había ejercido ninguna violencia, ni hubo engaño en su boca. ^h^ ^10^ Sin embargo, a Yahvé le agradó herirlo. Le ha hecho sufrir. Cuando haces de su alma una ofrenda por el pecado, verá a su descendencia. Prolongará sus días y la voluntad de Yahvé prosperará en su mano. ^i^ 
-^a^[**53:1** Juan 12,38; Rom 10,16; Is 52,10] ^b^[**53:2** Is 11,1] ^c^[**53:3** Sal 22,7-8; Mar 9,12] ^d^[**53:4** Mat 8,17] ^e^[**53:5** 1Pe 2,24] ^f^[**53:6** 1Pe 2,25; 2Cor 5,21] ^g^[**53:7** Juan 1,29; Hech 8,32] ^h^[**53:9** 1Pe 2,22; 1Jn 3,5] ^i^[**53:10** Sal 22,31]
+^1^ ¿Quién ha creído en nuestro mensaje? ¿A quién se le ha revelado el brazo de Yahvé? ^a^ ^b^ ^c^ ^2^ Porque creció ante él como una planta tierna, y como una raíz de la tierra seca. No tiene buen aspecto ni majestuosidad. Cuando lo vemos, no hay belleza que nos haga desearlo. ^d^ ^e^ ^f^ ^3^ Fue despreciado y rechazada por los hombres, un hombre que sufre y familiarizado con la enfermedad. Fue despreciado como alguien de quien los hombres ocultan su rostro; y no lo respetamos. ^g^ ^h^ ^i^ ^4^ Ciertamente ha soportado nuestra enfermedad y llevó nuestro sufrimiento; sin embargo, lo consideramos plagado, golpeado por Dios, y afligido. ^j^ ^k^ ^l^ ^5^ Pero fue traspasado por nuestras transgresiones. Fue aplastado por nuestras iniquidades. El castigo que trajo nuestra paz estuvo en él; y por sus heridas quedamos curados. ^m^ ^n^ ^o^ ^6^ Todos nosotros, como ovejas, nos hemos extraviado. Cada uno se ha vuelto a su manera; y Yahvé ha hecho recaer sobre él la iniquidad de todos nosotros. ^p^ ^q^ ^r^ ^7^ Estaba oprimido, sin embargo, cuando fue afligido no abrió la boca. Como un cordero que es llevado al matadero, y como una oveja que ante sus esquiladores calla, así que no abrió la boca. ^s^ ^t^ ^u^ ^8^ Fue llevado por la opresión y el juicio. En cuanto a su generación, que consideraba que había sido eliminado de la tierra de los vivos y golpeado por la desobediencia de mi pueblo? ^9^ Hicieron su tumba con los malvados, y con un hombre rico en su muerte, aunque no había ejercido ninguna violencia, ni hubo engaño en su boca. ^v^ ^w^ ^x^ ^10^ Sin embargo, a Yahvé le agradó herirlo. Le ha hecho sufrir. Cuando haces de su alma una ofrenda por el pecado, verá a su descendencia. Prolongará sus días y la voluntad de Yahvé prosperará en su mano. ^y^ ^`a^ ^aa^ 
+^a^[**53:1** Juan 12,38; Rom 10,16; Is 52,10] ^b^[**53:1** Juan 12,38; Rom 10,16; Is 52,10] ^c^[**53:1** Juan 12,38; Rom 10,16; Is 52,10] ^d^[**53:2** Is 11,1] ^e^[**53:2** Is 11,1] ^f^[**53:2** Is 11,1] ^g^[**53:3** Sal 22,7-8; Mar 9,12] ^h^[**53:3** Sal 22,7-8; Mar 9,12] ^i^[**53:3** Sal 22,7-8; Mar 9,12] ^j^[**53:4** Mat 8,17] ^k^[**53:4** Mat 8,17] ^l^[**53:4** Mat 8,17] ^m^[**53:5** 1Pe 2,24] ^n^[**53:5** 1Pe 2,24] ^o^[**53:5** 1Pe 2,24] ^p^[**53:6** 1Pe 2,25; 2Cor 5,21] ^q^[**53:6** 1Pe 2,25; 2Cor 5,21] ^r^[**53:6** 1Pe 2,25; 2Cor 5,21] ^s^[**53:7** Juan 1,29; Hech 8,32] ^t^[**53:7** Juan 1,29; Hech 8,32] ^u^[**53:7** Juan 1,29; Hech 8,32] ^v^[**53:9** 1Pe 2,22; 1Jn 3,5] ^w^[**53:9** 1Pe 2,22; 1Jn 3,5] ^x^[**53:9** 1Pe 2,22; 1Jn 3,5] ^y^[**53:10** Sal 22,31] ^`a^ba^ ^aa^[**53:10** Sal 22,31] ^ba^[**53:10** Sal 22,31]
+
+
+
+
 
 ## Dios confirma la recompensa del siervo por su sufrimiento vicario
-^11^ Tras el sufrimiento de su alma, verá la luz y estará satisfecho. Mi siervo justo justificará a muchos por el conocimiento de sí mismo; y cargará con sus iniquidades. ^a^ ^12^ Por eso le daré una parte con los grandes. Repartirá el botín con los fuertes, porque derramó su alma hasta la muerte y fue contado con los transgresores; pero llevó los pecados de muchos e intercedió por los transgresores. ^b^ 
-^a^[**53:11** Rom 10,4; 2Cor 5,21; Juan 1,29] ^b^[**53:12** Mar 15,28; Luc 22,37; Luc 23,34]
+^11^ Tras el sufrimiento de su alma, verá la luz y estará satisfecho. Mi siervo justo justificará a muchos por el conocimiento de sí mismo; y cargará con sus iniquidades. ^a^ ^b^ ^c^ ^12^ Por eso le daré una parte con los grandes. Repartirá el botín con los fuertes, porque derramó su alma hasta la muerte y fue contado con los transgresores; pero llevó los pecados de muchos e intercedió por los transgresores. ^d^ ^e^ ^f^ 
+^a^[**53:11** Rom 10,4; 2Cor 5,21; Juan 1,29] ^b^[**53:11** Rom 10,4; 2Cor 5,21; Juan 1,29] ^c^[**53:11** Rom 10,4; 2Cor 5,21; Juan 1,29] ^d^[**53:12** Mar 15,28; Luc 22,37; Luc 23,34] ^e^[**53:12** Mar 15,28; Luc 22,37; Luc 23,34] ^f^[**53:12** Mar 15,28; Luc 22,37; Luc 23,34]
 
 # 54 
 ## La graciosa aceptación y la bendición del niño rico de Sion; el pacto de paz eterna
-^1^ “¡Canta, estéril, tú que no has dado a luz! Rompe a cantar y clama en voz alta, tú que no has dado a luz. Porque más son los hijos de la desolada que los de la casada”, dice Yahvé. ^a^ ^2^ “Amplía el lugar de tu tienda, y que extiendan las cortinas de sus moradas; no escatimes; alarga tus cuerdas y refuerza tus estacas. ^3^ Porque te extenderás a la derecha y a la izquierda; y tu descendencia poseerá las naciones y se establecen en ciudades desoladas. ^4^ “No tengas miedo, porque no te avergonzarás. No te confundas, porque no te decepcionará. Porque olvidarás la vergüenza de tu juventud. No recordarás más el reproche de tu viudez. ^5^ Porque tu Hacedor es tu esposo; Yahvé de los Ejércitos es su nombre. El Santo de Israel es tu Redentor. Será llamado el Dios de toda la tierra. ^b^ ^6^ Porque Yahvé te ha llamado como a una esposa abandonada y afligida de espíritu, incluso la esposa de la juventud, cuando es desechada”, dice tu Dios. ^c^ ^7^ “Por un pequeño momento te he abandonado, pero te reuniré con grandes misericordias. ^d^ ^8^ Con una ira desbordante escondí mi rostro de ti por un momento, sino que con amor eterno tendré misericordia de ti”, dice Yahvé, tu Redentor. ^e^ ^9^ “Porque esto es para mí como las aguas de Noé; porque como he jurado que las aguas de Noé no volverán a pasar por la tierra, por lo que he jurado que no me enfadaré con vosotros, ni os reprenderé. ^f^ ^10^ Porque las montañas pueden partir, y las colinas sean eliminadas, pero mi bondad no se apartará de ti, y mi pacto de paz no será removido”. dice Yahvé, que se apiada de ti. ^g^ 
-^a^[**54:1** Is 49,20; Gal 4,27] ^b^[**54:5** Os 2,21] ^c^[**54:6** Is 50,1] ^d^[**54:7** Sal 30,6] ^e^[**54:8** Is 60,10] ^f^[**54:9** Gén 9,11-17] ^g^[**54:10** Ezeq 37,26]
+^1^ “¡Canta, estéril, tú que no has dado a luz! Rompe a cantar y clama en voz alta, tú que no has dado a luz. Porque más son los hijos de la desolada que los de la casada”, dice Yahvé. ^a^ ^b^ ^c^ ^2^ “Amplía el lugar de tu tienda, y que extiendan las cortinas de sus moradas; no escatimes; alarga tus cuerdas y refuerza tus estacas. ^3^ Porque te extenderás a la derecha y a la izquierda; y tu descendencia poseerá las naciones y se establecen en ciudades desoladas. ^4^ “No tengas miedo, porque no te avergonzarás. No te confundas, porque no te decepcionará. Porque olvidarás la vergüenza de tu juventud. No recordarás más el reproche de tu viudez. ^5^ Porque tu Hacedor es tu esposo; Yahvé de los Ejércitos es su nombre. El Santo de Israel es tu Redentor. Será llamado el Dios de toda la tierra. ^d^ ^e^ ^f^ ^6^ Porque Yahvé te ha llamado como a una esposa abandonada y afligida de espíritu, incluso la esposa de la juventud, cuando es desechada”, dice tu Dios. ^g^ ^h^ ^i^ ^7^ “Por un pequeño momento te he abandonado, pero te reuniré con grandes misericordias. ^j^ ^k^ ^l^ ^8^ Con una ira desbordante escondí mi rostro de ti por un momento, sino que con amor eterno tendré misericordia de ti”, dice Yahvé, tu Redentor. ^m^ ^n^ ^o^ ^9^ “Porque esto es para mí como las aguas de Noé; porque como he jurado que las aguas de Noé no volverán a pasar por la tierra, por lo que he jurado que no me enfadaré con vosotros, ni os reprenderé. ^p^ ^q^ ^r^ ^10^ Porque las montañas pueden partir, y las colinas sean eliminadas, pero mi bondad no se apartará de ti, y mi pacto de paz no será removido”. dice Yahvé, que se apiada de ti. ^s^ ^t^ ^u^ 
+^a^[**54:1** Is 49,20; Gal 4,27] ^b^[**54:1** Is 49,20; Gal 4,27] ^c^[**54:1** Is 49,20; Gal 4,27] ^d^[**54:5** Os 2,21] ^e^[**54:5** Os 2,21] ^f^[**54:5** Os 2,21] ^g^[**54:6** Is 50,1] ^h^[**54:6** Is 50,1] ^i^[**54:6** Is 50,1] ^j^[**54:7** Sal 30,6] ^k^[**54:7** Sal 30,6] ^l^[**54:7** Sal 30,6] ^m^[**54:8** Is 60,10] ^n^[**54:8** Is 60,10] ^o^[**54:8** Is 60,10] ^p^[**54:9** Gén 9,11-17] ^q^[**54:9** Gén 9,11-17] ^r^[**54:9** Gén 9,11-17] ^s^[**54:10** Ezeq 37,26] ^t^[**54:10** Ezeq 37,26] ^u^[**54:10** Ezeq 37,26]
+
+
+
+
 
 ## La gloria futura y la existencia segura de la ciudad de Dios
-^11^ “Afligidos, zarandeados por las tormentas y sin consuelo, he aquí que engastaré tus piedras con hermosos colores, y pon tus cimientos con zafiros. ^12^ Haré sus pináculos de rubíes, sus puertas de joyas brillantes, y todos sus muros de piedras preciosas. ^a^ ^13^ Todos tus hijos serán enseñados por Yahvé, y la paz de tus hijos será grande. ^b^ ^14^ Serás establecido en la justicia. Estarás lejos de la opresión, porque no tendrás miedo, y lejos del terror, porque no se acercará a ti. ^15^ He aquí que pueden reunirse, pero no por mí. Quien se reúna contra ti, caerá por tu culpa. ^c^ ^16^ “He aquí que he creado al herrero que aviva las brasas hasta convertirlas en llamas, y forja un arma para su trabajo; y he creado el destructor para destruir. ^17^ Ningún arma que se forme contra ti prevalecerá; y condenarás toda lengua que se levante contra ti en el juicio. Esta es la herencia de los siervos de Yahvé, y su justicia proviene de mí”, dice Yahvé.
-^a^[**54:12** Apoc 21,18-21] ^b^[**54:13** Juan 6,45] ^c^[**54:15** Rom 8,31]
+^11^ “Afligidos, zarandeados por las tormentas y sin consuelo, he aquí que engastaré tus piedras con hermosos colores, y pon tus cimientos con zafiros. ^12^ Haré sus pináculos de rubíes, sus puertas de joyas brillantes, y todos sus muros de piedras preciosas. ^a^ ^b^ ^c^ ^13^ Todos tus hijos serán enseñados por Yahvé, y la paz de tus hijos será grande. ^d^ ^e^ ^f^ ^14^ Serás establecido en la justicia. Estarás lejos de la opresión, porque no tendrás miedo, y lejos del terror, porque no se acercará a ti. ^15^ He aquí que pueden reunirse, pero no por mí. Quien se reúna contra ti, caerá por tu culpa. ^g^ ^h^ ^i^ ^16^ “He aquí que he creado al herrero que aviva las brasas hasta convertirlas en llamas, y forja un arma para su trabajo; y he creado el destructor para destruir. ^17^ Ningún arma que se forme contra ti prevalecerá; y condenarás toda lengua que se levante contra ti en el juicio. Esta es la herencia de los siervos de Yahvé, y su justicia proviene de mí”, dice Yahvé.
+^a^[**54:12** Apoc 21,18-21] ^b^[**54:12** Apoc 21,18-21] ^c^[**54:12** Apoc 21,18-21] ^d^[**54:13** Juan 6,45] ^e^[**54:13** Juan 6,45] ^f^[**54:13** Juan 6,45] ^g^[**54:15** Rom 8,31] ^h^[**54:15** Rom 8,31] ^i^[**54:15** Rom 8,31]
 
 # 55 
 ## Amonestación urgente al pueblo para que se apodere de los bienes salvíficos prometidos en el pacto davídico y ahora ofrecidos gratuitamente
-^1^ “¡Oye! ¡Venid todos los que tengáis sed a las aguas! Ven, el que no tiene dinero, compra y come. Sí, ven, compra vino y leche sin dinero y sin precio. ^2^ ¿Por qué gastas dinero en lo que no es pan? y tu trabajo por lo que no satisface? Escúchame con atención y come lo que es bueno, y deja que tu alma se deleite en la riqueza. ^3^ Vuelve tu oído y ven a mí. Escucha, y tu alma vivirá. Haré con vosotros un pacto eterno, las misericordias seguras de David. ^a^ ^4^ He aquí que lo he dado por testigo a los pueblos, un líder y comandante de los pueblos. ^5^ He aquí que llamarás a una nación que no conoces; y una nación que no te conocía correrá hacia ti, a causa de Yahvé, tu Dios, y para el Santo de Israel; porque te ha glorificado”.
-^a^[**55:3** Jer 31,31-34; Sal 89,3-5; Hech 13,34]
+^1^ “¡Oye! ¡Venid todos los que tengáis sed a las aguas! Ven, el que no tiene dinero, compra y come. Sí, ven, compra vino y leche sin dinero y sin precio. ^2^ ¿Por qué gastas dinero en lo que no es pan? y tu trabajo por lo que no satisface? Escúchame con atención y come lo que es bueno, y deja que tu alma se deleite en la riqueza. ^3^ Vuelve tu oído y ven a mí. Escucha, y tu alma vivirá. Haré con vosotros un pacto eterno, las misericordias seguras de David. ^a^ ^b^ ^c^ ^4^ He aquí que lo he dado por testigo a los pueblos, un líder y comandante de los pueblos. ^5^ He aquí que llamarás a una nación que no conoces; y una nación que no te conocía correrá hacia ti, a causa de Yahvé, tu Dios, y para el Santo de Israel; porque te ha glorificado”.
+^a^[**55:3** Jer 31,31-34; Sal 89,3-5; Hech 13,34] ^b^[**55:3** Jer 31,31-34; Sal 89,3-5; Hech 13,34] ^c^[**55:3** Jer 31,31-34; Sal 89,3-5; Hech 13,34]
+
+
+
+
 
 ## Frente a tal salvación, ¡que se lleve a cabo el gran plan de Dios para que Israel regrese feliz a casa!
-^6^ Busca a Yahvé mientras pueda ser encontrado. Invócalo mientras esté cerca. ^7^ Que el malvado abandone su camino, y el hombre injusto sus pensamientos. Que vuelva a Yahvé, y él se apiadará de él, a nuestro Dios, porque él perdonará libremente. ^a^ ^8^ “Porque mis pensamientos no son vuestros pensamientos, y tus caminos no son mis caminos”, dice Yahvé. ^9^ “Porque como los cielos son más altos que la tierra, así que mis caminos son más altos que los tuyos, y mis pensamientos que tus pensamientos. ^10^ Porque como la lluvia baja y la nieve del cielo, y no vuelve allí, sino que riega la tierra, y lo hace crecer y brotar, y da semilla al que siembra y pan al que come; ^11^ así es mi palabra que sale de mi boca: no volverá a mi vacío, pero logrará lo que yo quiera, y prosperará en lo que le he mandado hacer. ^b^ ^12^ Porque saldrás con alegría, y ser conducido con paz. Los montes y las colinas romperán a cantar ante ti; y todos los árboles de los campos aplaudirán. ^c^ ^13^ En lugar de la espina surgirá el ciprés; y en lugar de la zarza surgirá el mirto. Hará un nombre para Yahvé, para una señal eterna que no será cortada”.
-^a^[**55:7** Ezeq 33,11; Sal 130,4] ^b^[**55:11** Mat 13,8] ^c^[**55:12** Is 44,23]
+^6^ Busca a Yahvé mientras pueda ser encontrado. Invócalo mientras esté cerca. ^7^ Que el malvado abandone su camino, y el hombre injusto sus pensamientos. Que vuelva a Yahvé, y él se apiadará de él, a nuestro Dios, porque él perdonará libremente. ^a^ ^b^ ^c^ ^8^ “Porque mis pensamientos no son vuestros pensamientos, y tus caminos no son mis caminos”, dice Yahvé. ^9^ “Porque como los cielos son más altos que la tierra, así que mis caminos son más altos que los tuyos, y mis pensamientos que tus pensamientos. ^10^ Porque como la lluvia baja y la nieve del cielo, y no vuelve allí, sino que riega la tierra, y lo hace crecer y brotar, y da semilla al que siembra y pan al que come; ^11^ así es mi palabra que sale de mi boca: no volverá a mi vacío, pero logrará lo que yo quiera, y prosperará en lo que le he mandado hacer. ^d^ ^e^ ^f^ ^12^ Porque saldrás con alegría, y ser conducido con paz. Los montes y las colinas romperán a cantar ante ti; y todos los árboles de los campos aplaudirán. ^g^ ^h^ ^i^ ^13^ En lugar de la espina surgirá el ciprés; y en lugar de la zarza surgirá el mirto. Hará un nombre para Yahvé, para una señal eterna que no será cortada”.
+^a^[**55:7** Ezeq 33,11; Sal 130,4] ^b^[**55:7** Ezeq 33,11; Sal 130,4] ^c^[**55:7** Ezeq 33,11; Sal 130,4] ^d^[**55:11** Mat 13,8] ^e^[**55:11** Mat 13,8] ^f^[**55:11** Mat 13,8] ^g^[**55:12** Is 44,23] ^h^[**55:12** Is 44,23] ^i^[**55:12** Is 44,23]
 
 # 56 
 ## La salvación está cerca y la membresía de la iglesia es posible para todos, incluidos los no israelitas
-^1^ Yahvé dice: “Mantener la justicia y hacer lo que es correcto, porque mi salvación está cerca y mi justicia se revelará pronto. ^2^ Dichoso el hombre que hace esto, y el hijo del hombre que la sostiene; que guarda el sábado sin profanarlo y evita que su mano haga algún mal”. ^a^ ^3^ Que ningún extranjero que se haya unido a Yahvé hable diciendo, “Yahvé seguramente me separará de su pueblo”. Que el eunuco no diga: “He aquí que soy un árbol seco”. ^b^ ^4^ Porque Yahvé dice: “A los eunucos que guardan mis sábados, elegir las cosas que me gustan, y mantén mi pacto, ^5^ Les daré en mi casa y dentro de mis muros un recuerdo y un nombre mejor que el de los hijos y las hijas. Les daré un nombre eterno que no será cortado. ^6^ También los extranjeros que se unen a Yahvé para servirle, y amar el nombre de Yahvé, para ser sus sirvientes, todos los que guardan el sábado para no profanarlo, y mantiene firme mi pacto, ^7^ Los llevaré a mi santo monte, y haz que se alegren en mi casa de oración. Sus holocaustos y sus sacrificios serán aceptados en mi altar; porque mi casa será llamada casa de oración para todos los pueblos”. ^c^ ^8^ El Señor Yahvé, que reúne a los desterrados de Israel, dice, “Todavía reuniré a otros con él, además de los suyos que están reunidos”.
-^a^[**56:2** Is 58,13] ^b^[**56:3** Is 14,1; Deut 23,2] ^c^[**56:7** Mar 11,17]
+^1^ Yahvé dice: “Mantener la justicia y hacer lo que es correcto, porque mi salvación está cerca y mi justicia se revelará pronto. ^2^ Dichoso el hombre que hace esto, y el hijo del hombre que la sostiene; que guarda el sábado sin profanarlo y evita que su mano haga algún mal”. ^a^ ^b^ ^c^ ^3^ Que ningún extranjero que se haya unido a Yahvé hable diciendo, “Yahvé seguramente me separará de su pueblo”. Que el eunuco no diga: “He aquí que soy un árbol seco”. ^d^ ^e^ ^f^ ^4^ Porque Yahvé dice: “A los eunucos que guardan mis sábados, elegir las cosas que me gustan, y mantén mi pacto, ^5^ Les daré en mi casa y dentro de mis muros un recuerdo y un nombre mejor que el de los hijos y las hijas. Les daré un nombre eterno que no será cortado. ^6^ También los extranjeros que se unen a Yahvé para servirle, y amar el nombre de Yahvé, para ser sus sirvientes, todos los que guardan el sábado para no profanarlo, y mantiene firme mi pacto, ^7^ Los llevaré a mi santo monte, y haz que se alegren en mi casa de oración. Sus holocaustos y sus sacrificios serán aceptados en mi altar; porque mi casa será llamada casa de oración para todos los pueblos”. ^g^ ^h^ ^i^ ^8^ El Señor Yahvé, que reúne a los desterrados de Israel, dice, “Todavía reuniré a otros con él, además de los suyos que están reunidos”.
+^a^[**56:2** Is 58,13] ^b^[**56:2** Is 58,13] ^c^[**56:2** Is 58,13] ^d^[**56:3** Is 14,1; Deut 23,2] ^e^[**56:3** Is 14,1; Deut 23,2] ^f^[**56:3** Is 14,1; Deut 23,2] ^g^[**56:7** Mar 11,17] ^h^[**56:7** Mar 11,17] ^i^[**56:7** Mar 11,17]
+
+
+
+
 
 ## Sobre la falta de escrúpulos y el egoísmo de los líderes del pueblo
-^9^ Todos ustedes, animales del campo, vienen a devorar, todos los animales del bosque. ^10^ Sus vigilantes son ciegos. Todos ellos carecen de conocimiento. Todos son perros mudos. No pueden ladrar... soñando, acostado, amando el sueño. ^11^ Sí, los perros son codiciosos. Nunca tienen suficiente. Son pastores que no pueden entender. Todos se han vuelto a su manera, cada uno en su beneficio, desde todos los ámbitos. ^a^ ^12^ “Ven, dicen, voy a buscar vino, y nos llenaremos de bebida fuerte; y mañana será como hoy, grande más allá de la medida”. ^b^ 
-^a^[**56:11** Jer 6,13] ^b^[**56:12** Prov 23,35]
+^9^ Todos ustedes, animales del campo, vienen a devorar, todos los animales del bosque. ^10^ Sus vigilantes son ciegos. Todos ellos carecen de conocimiento. Todos son perros mudos. No pueden ladrar... soñando, acostado, amando el sueño. ^11^ Sí, los perros son codiciosos. Nunca tienen suficiente. Son pastores que no pueden entender. Todos se han vuelto a su manera, cada uno en su beneficio, desde todos los ámbitos. ^a^ ^b^ ^c^ ^12^ “Ven, dicen, voy a buscar vino, y nos llenaremos de bebida fuerte; y mañana será como hoy, grande más allá de la medida”. ^d^ ^e^ ^f^ 
+^a^[**56:11** Jer 6,13] ^b^[**56:11** Jer 6,13] ^c^[**56:11** Jer 6,13] ^d^[**56:12** Prov 23,35] ^e^[**56:12** Prov 23,35] ^f^[**56:12** Prov 23,35]
 
 # 57 
-^1^ Los justos perecen, y nadie se lo toma a pecho. Los hombres misericordiosos son llevados, y nadie considera que el justo se aleja del malo. ^a^ ^2^ Entra en la paz. Descansan en sus camas, cada uno que camina en su rectitud. ^b^ 
-^a^[**57:1** 2Re 22,20] ^b^[**57:2** Is 26,20; Dan 12,13]
+^1^ Los justos perecen, y nadie se lo toma a pecho. Los hombres misericordiosos son llevados, y nadie considera que el justo se aleja del malo. ^a^ ^b^ ^c^ ^2^ Entra en la paz. Descansan en sus camas, cada uno que camina en su rectitud. ^d^ ^e^ ^f^ 
+^a^[**57:1** 2Re 22,20] ^b^[**57:1** 2Re 22,20] ^c^[**57:1** 2Re 22,20] ^d^[**57:2** Is 26,20; Dan 12,13] ^e^[**57:2** Is 26,20; Dan 12,13] ^f^[**57:2** Is 26,20; Dan 12,13]
+
+
+
+
 
 ## Sobre las actividades idólatras e indecentes de todo el pueblo
-^3^ “Pero acercaos aquí, hijos de una hechicera, hijos de adúlteros y prostitutas. ^a^ ^4^ ¿De quién te burlas? Contra quién haces una boca ancha y sacar la lengua? ¿No son ustedes hijos de la desobediencia y la descendencia de la falsedad, ^5^ vosotros que os inflamáis entre las encinas, bajo cada árbol verde; que matan a los niños en los valles, bajo las hendiduras de las rocas? ^6^ Entre las piedras lisas del valle está tu parte. Ellos, ellos son su lote. Incluso les has hecho una ofrenda de bebida. Has ofrecido una ofrenda. ¿Debo ser apaciguado por estas cosas? ^7^ En un monte alto y elevado has puesto tu cama. También subiste a ofrecer sacrificios. ^8^ Has colocado tu monumento detrás de las puertas y los postes, porque te has expuesto a alguien más que a mí, y han subido. Has ampliado tu cama y te hizo un pacto con ellos. Te encantó lo que viste en su cama. ^9^ Fuiste al rey con aceite, aumentó sus perfumes, envió a sus embajadores lejos, y te has degradado hasta el Seol. ^10^ Te cansaste de la longitud de tus caminos; sin embargo, no dijiste: “Es en vano”. Has encontrado un reavivamiento de tus fuerzas; por lo tanto, no te has desmayado. ^11^ “A quién habéis temido y teméis, para que mientas, y no te has acordado de mí, ni lo has puesto en tu corazón? No he callado durante mucho tiempo, ¿y no me temes? ^b^ ^12^ Yo declararé tu justicia; y en cuanto a tus obras, no te beneficiarán. ^13^ Cuando llores, deja que te entreguen los que has reunido, pero el viento se los llevará. Un soplo se los llevará a todos, pero el que se refugie en mí poseerá la tierra, y heredarán mi santo monte”.
-^a^[**57:3** Mat 12,39] ^b^[**57:11** Sal 50,21]
+^3^ “Pero acercaos aquí, hijos de una hechicera, hijos de adúlteros y prostitutas. ^a^ ^b^ ^c^ ^4^ ¿De quién te burlas? Contra quién haces una boca ancha y sacar la lengua? ¿No son ustedes hijos de la desobediencia y la descendencia de la falsedad, ^5^ vosotros que os inflamáis entre las encinas, bajo cada árbol verde; que matan a los niños en los valles, bajo las hendiduras de las rocas? ^6^ Entre las piedras lisas del valle está tu parte. Ellos, ellos son su lote. Incluso les has hecho una ofrenda de bebida. Has ofrecido una ofrenda. ¿Debo ser apaciguado por estas cosas? ^7^ En un monte alto y elevado has puesto tu cama. También subiste a ofrecer sacrificios. ^8^ Has colocado tu monumento detrás de las puertas y los postes, porque te has expuesto a alguien más que a mí, y han subido. Has ampliado tu cama y te hizo un pacto con ellos. Te encantó lo que viste en su cama. ^9^ Fuiste al rey con aceite, aumentó sus perfumes, envió a sus embajadores lejos, y te has degradado hasta el Seol. ^10^ Te cansaste de la longitud de tus caminos; sin embargo, no dijiste: “Es en vano”. Has encontrado un reavivamiento de tus fuerzas; por lo tanto, no te has desmayado. ^11^ “A quién habéis temido y teméis, para que mientas, y no te has acordado de mí, ni lo has puesto en tu corazón? No he callado durante mucho tiempo, ¿y no me temes? ^d^ ^e^ ^f^ ^12^ Yo declararé tu justicia; y en cuanto a tus obras, no te beneficiarán. ^13^ Cuando llores, deja que te entreguen los que has reunido, pero el viento se los llevará. Un soplo se los llevará a todos, pero el que se refugie en mí poseerá la tierra, y heredarán mi santo monte”.
+^a^[**57:3** Mat 12,39] ^b^[**57:3** Mat 12,39] ^c^[**57:3** Mat 12,39] ^d^[**57:11** Sal 50,21] ^e^[**57:11** Sal 50,21] ^f^[**57:11** Sal 50,21]
+
+
+
+
 
 ## Nueva promesa de gracia de Dios para los humildes, piadosos y penitentes
-^14^ Él dirá: “¡Construyan, construyan, preparen el camino! Quita el escollo del camino de mi pueblo”. ^15^ Para el alto y excelso que habita la eternidad, cuyo nombre es Santo, dice: “Yo habito en el lugar alto y santo, también con el que tiene un espíritu contrito y humilde, para reanimar el espíritu de los humildes, y para reanimar el corazón de los contritos. ^a^ ^16^ Porque no contenderé eternamente, ni me enfadaré siempre; pues el espíritu desfallecería ante mí, y las almas que he hecho. ^b^ ^17^ Me enojé por la iniquidad de su codicia y lo golpeé. Me escondí y me enfadé; y siguió reincidiendo en el camino de su corazón. ^18^ He visto sus caminos y lo sanaré. Yo también lo guiaré, y devuelve el consuelo a él y a sus dolientes. ^19^ Yo creo el fruto de los labios: Paz, paz, al que está lejos y al que está cerca”. dice Yahvé; “y los sanaré”. ^c^ ^20^ Pero los malvados son como el mar agitado; porque no puede descansar y sus aguas arrojan fango y lodo. ^d^ ^21^ “No hay paz”, dice mi Dios, “para los malvados”. ^e^ 
-^a^[**57:15** Sal 113,5-9; Is 66,1-2; Sal 51,19] ^b^[**57:16** Sal 103,9] ^c^[**57:19** Efes 2,17] ^d^[**57:20** Jds 1,13] ^e^[**57:21** Is 48,22]
+^14^ Él dirá: “¡Construyan, construyan, preparen el camino! Quita el escollo del camino de mi pueblo”. ^15^ Para el alto y excelso que habita la eternidad, cuyo nombre es Santo, dice: “Yo habito en el lugar alto y santo, también con el que tiene un espíritu contrito y humilde, para reanimar el espíritu de los humildes, y para reanimar el corazón de los contritos. ^a^ ^b^ ^c^ ^16^ Porque no contenderé eternamente, ni me enfadaré siempre; pues el espíritu desfallecería ante mí, y las almas que he hecho. ^d^ ^e^ ^f^ ^17^ Me enojé por la iniquidad de su codicia y lo golpeé. Me escondí y me enfadé; y siguió reincidiendo en el camino de su corazón. ^18^ He visto sus caminos y lo sanaré. Yo también lo guiaré, y devuelve el consuelo a él y a sus dolientes. ^19^ Yo creo el fruto de los labios: Paz, paz, al que está lejos y al que está cerca”. dice Yahvé; “y los sanaré”. ^g^ ^h^ ^i^ ^20^ Pero los malvados son como el mar agitado; porque no puede descansar y sus aguas arrojan fango y lodo. ^j^ ^k^ ^l^ ^21^ “No hay paz”, dice mi Dios, “para los malvados”. ^m^ ^n^ ^o^ 
+^a^[**57:15** Sal 113,5-9; Is 66,1-2; Sal 51,19] ^b^[**57:15** Sal 113,5-9; Is 66,1-2; Sal 51,19] ^c^[**57:15** Sal 113,5-9; Is 66,1-2; Sal 51,19] ^d^[**57:16** Sal 103,9] ^e^[**57:16** Sal 103,9] ^f^[**57:16** Sal 103,9] ^g^[**57:19** Efes 2,17] ^h^[**57:19** Efes 2,17] ^i^[**57:19** Efes 2,17] ^j^[**57:20** Jds 1,13] ^k^[**57:20** Jds 1,13] ^l^[**57:20** Jds 1,13] ^m^[**57:21** Is 48,22] ^n^[**57:21** Is 48,22] ^o^[**57:21** Is 48,22]
 
 # 58 
 ## La vana adoración del presente; Indigno de ayuno externo
-^1^ “¡Grita en voz alta! ¡No escatimes! ¡Levanta tu voz como una trompeta! Declara a mi pueblo su desobediencia, y a la casa de Jacob sus pecados. ^a^ ^2^ Sin embargo, cada día me buscan, y se deleitan en conocer mis caminos. Como una nación que hizo justicia, y no abandonaron la ordenanza de su Dios, me piden juicios justos. Se deleitan en acercarse a Dios. ^b^ ^3^ “¿Por qué hemos ayunado — dicen — y no lo veis? ¿Por qué hemos afligido nuestra alma y no te das cuenta? “He aquí que en el día de tu ayuno encuentras placer, y oprimir a todos sus trabajadores. ^4^ He aquí que ayunáis para la contienda y el pleito, y golpear con el puño de la maldad. Hoy no ayunas para que tu voz sea escuchada en lo alto. ^5^ ¿Es este el ayuno que he elegido? ¿Un día para que un hombre humille su alma? ¿Es para agachar la cabeza como una caña, y que extienda saco y ceniza debajo de sí mismo? ¿Llamará a esto un ayuno? y un día aceptable para Yahvé?
-^a^[**58:1** Miq 3,8] ^b^[**58:2** Is 43,26]
+^1^ “¡Grita en voz alta! ¡No escatimes! ¡Levanta tu voz como una trompeta! Declara a mi pueblo su desobediencia, y a la casa de Jacob sus pecados. ^a^ ^b^ ^c^ ^2^ Sin embargo, cada día me buscan, y se deleitan en conocer mis caminos. Como una nación que hizo justicia, y no abandonaron la ordenanza de su Dios, me piden juicios justos. Se deleitan en acercarse a Dios. ^d^ ^e^ ^f^ ^3^ “¿Por qué hemos ayunado — dicen — y no lo veis? ¿Por qué hemos afligido nuestra alma y no te das cuenta? “He aquí que en el día de tu ayuno encuentras placer, y oprimir a todos sus trabajadores. ^4^ He aquí que ayunáis para la contienda y el pleito, y golpear con el puño de la maldad. Hoy no ayunas para que tu voz sea escuchada en lo alto. ^5^ ¿Es este el ayuno que he elegido? ¿Un día para que un hombre humille su alma? ¿Es para agachar la cabeza como una caña, y que extienda saco y ceniza debajo de sí mismo? ¿Llamará a esto un ayuno? y un día aceptable para Yahvé?
+^a^[**58:1** Miq 3,8] ^b^[**58:1** Miq 3,8] ^c^[**58:1** Miq 3,8] ^d^[**58:2** Is 43,26] ^e^[**58:2** Is 43,26] ^f^[**58:2** Is 43,26]
+
+
+
+
 
 ## El amor misericordioso agrada a Dios
-^6^ “¿No es éste el ayuno que he elegido: para liberar las ataduras de la maldad, para desatar las correas del yugo, para dejar libres a los oprimidos, y que rompas todo yugo? ^7^ ¿No es para repartir su pan a los hambrientos, y que traigas a tu casa a los pobres expulsados? Cuando veas el desnudo, que lo cubra; y que no te escondas de tu propia carne? ^a^ ^8^ Entonces tu luz brotará como la mañana, y su curación aparecerá rápidamente; entonces tu justicia irá delante de ti, y la gloria de Yahvé será su retaguardia. ^b^ ^9^ Entonces llamarás, y el Señor responderá. Pedirás ayuda y él dirá: “Aquí estoy”. “Si quitáis de entre vosotros el yugo, señalando con el dedo, y hablando con maldad; ^c^ ^10^ y si derramas tu alma al hambriento, y satisfacer el alma afligida, entonces tu luz se alzará en la oscuridad, y tu oscuridad será como el mediodía; ^11^ y Yahvé te guiará continuamente, saciar tu alma en lugares secos, y hacer que tus huesos sean fuertes. Serás como un jardín regado, y como un manantial de agua cuyas aguas no fallan. ^12^ Los que serán de vosotros construirán los antiguos lugares de desecho. Levantarás los cimientos de muchas generaciones. Se le llamará Reparador de la Brecha, Restaurador de caminos con viviendas. ^d^ 
-^a^[**58:7** Mat 25,35] ^b^[**58:8** Is 58,10; Sal 37,6] ^c^[**58:9** Is 30,19] ^d^[**58:12** Is 61,4]
+^6^ “¿No es éste el ayuno que he elegido: para liberar las ataduras de la maldad, para desatar las correas del yugo, para dejar libres a los oprimidos, y que rompas todo yugo? ^7^ ¿No es para repartir su pan a los hambrientos, y que traigas a tu casa a los pobres expulsados? Cuando veas el desnudo, que lo cubra; y que no te escondas de tu propia carne? ^a^ ^b^ ^c^ ^8^ Entonces tu luz brotará como la mañana, y su curación aparecerá rápidamente; entonces tu justicia irá delante de ti, y la gloria de Yahvé será su retaguardia. ^d^ ^e^ ^f^ ^9^ Entonces llamarás, y el Señor responderá. Pedirás ayuda y él dirá: “Aquí estoy”. “Si quitáis de entre vosotros el yugo, señalando con el dedo, y hablando con maldad; ^g^ ^h^ ^i^ ^10^ y si derramas tu alma al hambriento, y satisfacer el alma afligida, entonces tu luz se alzará en la oscuridad, y tu oscuridad será como el mediodía; ^11^ y Yahvé te guiará continuamente, saciar tu alma en lugares secos, y hacer que tus huesos sean fuertes. Serás como un jardín regado, y como un manantial de agua cuyas aguas no fallan. ^12^ Los que serán de vosotros construirán los antiguos lugares de desecho. Levantarás los cimientos de muchas generaciones. Se le llamará Reparador de la Brecha, Restaurador de caminos con viviendas. ^j^ ^k^ ^l^ 
+^a^[**58:7** Mat 25,35] ^b^[**58:7** Mat 25,35] ^c^[**58:7** Mat 25,35] ^d^[**58:8** Is 58,10; Sal 37,6] ^e^[**58:8** Is 58,10; Sal 37,6] ^f^[**58:8** Is 58,10; Sal 37,6] ^g^[**58:9** Is 30,19] ^h^[**58:9** Is 30,19] ^i^[**58:9** Is 30,19] ^j^[**58:12** Is 61,4] ^k^[**58:12** Is 61,4] ^l^[**58:12** Is 61,4]
+
+
+
+
 
 ## La bendición de la correcta observancia del sábado
-^13^ “Si apartas tu pie del sábado, de hacer tu placer en mi día sagrado, y llamar al sábado una delicia, y lo sagrado de Yahvé honorable, y honrarlo, no haciendo sus propios caminos, ni encontrar su propio placer, ni hablar de sus propias palabras, ^a^ ^14^ entonces te deleitarás en Yahvé, y te haré cabalgar sobre las alturas de la tierra, y te alimentaré con la herencia de Jacob, tu padre”. porque la boca de Yahvé lo ha dicho.
-^a^[**58:13** Is 56,2; Is 56,4]
+^13^ “Si apartas tu pie del sábado, de hacer tu placer en mi día sagrado, y llamar al sábado una delicia, y lo sagrado de Yahvé honorable, y honrarlo, no haciendo sus propios caminos, ni encontrar su propio placer, ni hablar de sus propias palabras, ^a^ ^b^ ^c^ ^14^ entonces te deleitarás en Yahvé, y te haré cabalgar sobre las alturas de la tierra, y te alimentaré con la herencia de Jacob, tu padre”. porque la boca de Yahvé lo ha dicho.
+^a^[**58:13** Is 56,2; Is 56,4] ^b^[**58:13** Is 56,2; Is 56,4] ^c^[**58:13** Is 56,2; Is 56,4]
 
 # 59 
 ## Discurso de castigo del profeta sobre la pecaminosidad general
-^1^ He aquí que la mano de Yahvé no se ha acortado para no salvar; ni su oído embotado, que no puede oír. ^a^ ^2^ Pero tus iniquidades te han separado de tu Dios, y tus pecados te han ocultado su rostro, para que no oiga. ^3^ Porque tus manos están manchadas de sangre, y tus dedos con iniquidad. Tus labios han dicho mentiras. Tu lengua murmura maldades. ^4^ Nadie demanda en justicia, y nadie aboga por la verdad. Confían en la vanidad y decir mentiras. Conciben el mal y dar a luz a la iniquidad. ^5^ Incuban los huevos de los sumideros y tejer la tela de araña. El que come de sus huevos muere; y lo que se aplasta se convierte en una víbora. ^6^ Sus telarañas no se convertirán en prendas de vestir. No se cubrirán con sus obras. Sus obras son obras de iniquidad, y los actos de violencia están en sus manos. ^7^ Sus pies corren hacia el mal, y se apresuran a derramar sangre inocente. Sus pensamientos son pensamientos de iniquidad. La desolación y la destrucción están en su camino. ^b^ ^8^ No conocen el camino de la paz; y no hay justicia en sus caminos. Se han hecho caminos torcidos; Quien entra en ellas no conoce la paz.
-^a^[**59:1** Is 50,2] ^b^[**59:7** Rom 3,15-17]
+^1^ He aquí que la mano de Yahvé no se ha acortado para no salvar; ni su oído embotado, que no puede oír. ^a^ ^b^ ^c^ ^2^ Pero tus iniquidades te han separado de tu Dios, y tus pecados te han ocultado su rostro, para que no oiga. ^3^ Porque tus manos están manchadas de sangre, y tus dedos con iniquidad. Tus labios han dicho mentiras. Tu lengua murmura maldades. ^4^ Nadie demanda en justicia, y nadie aboga por la verdad. Confían en la vanidad y decir mentiras. Conciben el mal y dar a luz a la iniquidad. ^5^ Incuban los huevos de los sumideros y tejer la tela de araña. El que come de sus huevos muere; y lo que se aplasta se convierte en una víbora. ^6^ Sus telarañas no se convertirán en prendas de vestir. No se cubrirán con sus obras. Sus obras son obras de iniquidad, y los actos de violencia están en sus manos. ^7^ Sus pies corren hacia el mal, y se apresuran a derramar sangre inocente. Sus pensamientos son pensamientos de iniquidad. La desolación y la destrucción están en su camino. ^d^ ^e^ ^f^ ^8^ No conocen el camino de la paz; y no hay justicia en sus caminos. Se han hecho caminos torcidos; Quien entra en ellas no conoce la paz.
+^a^[**59:1** Is 50,2] ^b^[**59:1** Is 50,2] ^c^[**59:1** Is 50,2] ^d^[**59:7** Rom 3,15-17] ^e^[**59:7** Rom 3,15-17] ^f^[**59:7** Rom 3,15-17]
+
+
+
+
 
 ## Des Volkes Bekenntnis seiner Sünden und seiner Ratlosigkeit
 ^9^ Por eso la justicia está lejos de nosotros, y la justicia no nos sobrepasa. Buscamos la luz, pero vemos la oscuridad; para el brillo, pero caminamos en la oscuridad. ^10^ Buscamos a tientas la pared como los ciegos. Sí, andamos a tientas como los que no tienen ojos. Tropezamos con el mediodía como si fuera el crepúsculo. Entre los que son fuertes, somos como hombres muertos. ^11^ Todos rugimos como osos y gimen tristemente como palomas. Buscamos justicia, pero no la hay, para la salvación, pero está lejos de nosotros. ^12^ Porque nuestras transgresiones se multiplican ante ti, y nuestros pecados testifican contra nosotros; porque nuestras transgresiones están con nosotros, y en cuanto a nuestras iniquidades, las conocemos: ^13^ transgrediendo y negando a Yahvé, y alejándose de seguir a nuestro Dios, hablando de opresión y revuelta, concibiendo y pronunciando desde el corazón palabras de falsedad. ^14^ La justicia se vuelve hacia atrás, y la justicia está lejos; porque la verdad ha caído en la calle, y la rectitud no puede entrar. 
 
-## La intervención salvadora de Dios y su promesa de salvación
-^15^ Sí, falta la verdad; y el que se aparta del mal se convierte en presa. Yahvé lo vio, y le disgustaba que no hubiera justicia. ^16^ Vio que no había ningún hombre, y se extrañó de que no hubiera ningún intercesor. Por lo tanto, su propio brazo le trajo la salvación; y su justicia lo sostenía. ^17^ Se puso la justicia como coraza, y un casco de salvación en su cabeza. Se puso ropas de venganza para vestirse, y estaba revestido de celo como un manto. ^18^ Según sus actos, que se reembolsará según corresponda: ira a sus adversarios, recompensa a sus enemigos. Él devolverá a las islas lo que les corresponde. ^19^ Así temerán el nombre de Yahvé desde el oeste, y su gloria desde la salida del sol; porque vendrá como una corriente de agua, que impulsa el aliento de Yahvé. ^20^ “Un Redentor vendrá a Sión, y a los que se apartan de la desobediencia en Jacob”, dice Yahvé. ^a^ 
-^a^[**59:20** Is 1,27; Rom 11,26]
 
-^21^ “En cuanto a mí, éste es mi pacto con ellos”, dice Yahvé. “Mi Espíritu, que está sobre ti, y mis palabras que he puesto en tu boca no se apartarán de tu boca, ni de la boca de tu descendencia, ni de la boca de la descendencia de tu descendencia”, dice Yahvé, “desde ahora y para siempre”. ^a^ 
-^a^[**59:21** Jer 1,9]
+
+
+
+## La intervención salvadora de Dios y su promesa de salvación
+^15^ Sí, falta la verdad; y el que se aparta del mal se convierte en presa. Yahvé lo vio, y le disgustaba que no hubiera justicia. ^16^ Vio que no había ningún hombre, y se extrañó de que no hubiera ningún intercesor. Por lo tanto, su propio brazo le trajo la salvación; y su justicia lo sostenía. ^17^ Se puso la justicia como coraza, y un casco de salvación en su cabeza. Se puso ropas de venganza para vestirse, y estaba revestido de celo como un manto. ^18^ Según sus actos, que se reembolsará según corresponda: ira a sus adversarios, recompensa a sus enemigos. Él devolverá a las islas lo que les corresponde. ^19^ Así temerán el nombre de Yahvé desde el oeste, y su gloria desde la salida del sol; porque vendrá como una corriente de agua, que impulsa el aliento de Yahvé. ^20^ “Un Redentor vendrá a Sión, y a los que se apartan de la desobediencia en Jacob”, dice Yahvé. ^a^ ^b^ ^c^ 
+^a^[**59:20** Is 1,27; Rom 11,26] ^b^[**59:20** Is 1,27; Rom 11,26] ^c^[**59:20** Is 1,27; Rom 11,26]
+
+^21^ “En cuanto a mí, éste es mi pacto con ellos”, dice Yahvé. “Mi Espíritu, que está sobre ti, y mis palabras que he puesto en tu boca no se apartarán de tu boca, ni de la boca de tu descendencia, ni de la boca de la descendencia de tu descendencia”, dice Yahvé, “desde ahora y para siempre”. ^a^ ^b^ ^c^ 
+^a^[**59:21** Jer 1,9] ^b^[**59:21** Jer 1,9] ^c^[**59:21** Jer 1,9]
 
 # 60 
 ## Sion eclipsada por la luz de Dios
-^1^ “Levántate, brilla, porque ha llegado tu luz, y la gloria de Yahvé se ha levantado sobre ti. ^2^ Porque he aquí que las tinieblas cubrirán la tierra, y espesa oscuridad los pueblos; pero Yahvé se levantará sobre ti, y su gloria se verá en ti. ^3^ Las naciones vendrán a tu luz, y los reyes al brillo de su ascenso. ^a^ 
-^a^[**60:3** Apoc 21,24]
+^1^ “Levántate, brilla, porque ha llegado tu luz, y la gloria de Yahvé se ha levantado sobre ti. ^2^ Porque he aquí que las tinieblas cubrirán la tierra, y espesa oscuridad los pueblos; pero Yahvé se levantará sobre ti, y su gloria se verá en ti. ^3^ Las naciones vendrán a tu luz, y los reyes al brillo de su ascenso. ^a^ ^b^ ^c^ 
+^a^[**60:3** Apoc 21,24] ^b^[**60:3** Apoc 21,24] ^c^[**60:3** Apoc 21,24]
+
+
+
+
 
 ## Sión como lugar de reunión para sus hijos y los tesoros del mundo
-^4^ “Alza los ojos a tu alrededor y mira: todos se reúnen. Vienen a ti. Sus hijos vendrán de lejos, y sus hijas serán llevadas en brazos. ^a^ ^5^ Entonces verás y estarás radiante, y tu corazón se estremecerá y se ensanchará; porque la abundancia del mar se volverá hacia ti. La riqueza de las naciones vendrá a ti. ^6^ Una multitud de camellos te cubrirá, los dromedarios de Madián y Efá. Todos los de Saba vendrán. Traerán oro e incienso, y proclamarán las alabanzas de Yahvé. ^b^ ^7^ Todos los rebaños de Cedar se reunirán contigo. Los carneros de Nebaioth te servirán. Serán aceptados como ofrendas en mi altar; y embelleceré mi gloriosa casa. ^8^ “¿Quiénes son esos que vuelan como una nube? y como las palomas a sus ventanas? ^9^ Seguramente las islas me esperarán, y los barcos de Tarsis primero, para traer a tus hijos desde muy lejos, su plata y su oro con ellos, por el nombre de Yahvé, tu Dios, y para el Santo de Israel, porque te ha glorificado.
-^a^[**60:4** Is 49,18; Is 66,12] ^b^[**60:6** Sal 72,10; Mat 2,1-11]
+^4^ “Alza los ojos a tu alrededor y mira: todos se reúnen. Vienen a ti. Sus hijos vendrán de lejos, y sus hijas serán llevadas en brazos. ^a^ ^b^ ^c^ ^5^ Entonces verás y estarás radiante, y tu corazón se estremecerá y se ensanchará; porque la abundancia del mar se volverá hacia ti. La riqueza de las naciones vendrá a ti. ^6^ Una multitud de camellos te cubrirá, los dromedarios de Madián y Efá. Todos los de Saba vendrán. Traerán oro e incienso, y proclamarán las alabanzas de Yahvé. ^d^ ^e^ ^f^ ^7^ Todos los rebaños de Cedar se reunirán contigo. Los carneros de Nebaioth te servirán. Serán aceptados como ofrendas en mi altar; y embelleceré mi gloriosa casa. ^8^ “¿Quiénes son esos que vuelan como una nube? y como las palomas a sus ventanas? ^9^ Seguramente las islas me esperarán, y los barcos de Tarsis primero, para traer a tus hijos desde muy lejos, su plata y su oro con ellos, por el nombre de Yahvé, tu Dios, y para el Santo de Israel, porque te ha glorificado.
+^a^[**60:4** Is 49,18; Is 66,12] ^b^[**60:4** Is 49,18; Is 66,12] ^c^[**60:4** Is 49,18; Is 66,12] ^d^[**60:6** Sal 72,10; Mat 2,1-11] ^e^[**60:6** Sal 72,10; Mat 2,1-11] ^f^[**60:6** Sal 72,10; Mat 2,1-11]
+
+
+
+
 
 ## Sion honrada y agraciada como dueña del mundo
-^10^ “Los extranjeros construirán sus muros, y sus reyes te servirán; porque en mi ira te golpeé, pero en mi favor he tenido misericordia de ti. ^11^ Tus puertas estarán siempre abiertas; no se cerrarán ni de día ni de noche, para que los hombres traigan a ti las riquezas de las naciones, y sus reyes sean llevados cautivos. ^a^ ^12^ Porque la nación y el reino que no te sirvan, perecerán; sí, esas naciones serán totalmente desechas. ^13^ “La gloria del Líbano vendrá a ti, el ciprés, el pino y el boj juntos, para embellecer el lugar de mi santuario; y haré glorioso el lugar de mis pies. ^14^ Los hijos de los que te afligieron vendrán a inclinarse ante ti; y todos los que te despreciaron se postrarán a las plantas de tus pies. Te llamarán Ciudad de Yahvé, la Sión del Santo de Israel.
-^a^[**60:11** Apoc 21,25-26]
+^10^ “Los extranjeros construirán sus muros, y sus reyes te servirán; porque en mi ira te golpeé, pero en mi favor he tenido misericordia de ti. ^11^ Tus puertas estarán siempre abiertas; no se cerrarán ni de día ni de noche, para que los hombres traigan a ti las riquezas de las naciones, y sus reyes sean llevados cautivos. ^a^ ^b^ ^c^ ^12^ Porque la nación y el reino que no te sirvan, perecerán; sí, esas naciones serán totalmente desechas. ^13^ “La gloria del Líbano vendrá a ti, el ciprés, el pino y el boj juntos, para embellecer el lugar de mi santuario; y haré glorioso el lugar de mis pies. ^14^ Los hijos de los que te afligieron vendrán a inclinarse ante ti; y todos los que te despreciaron se postrarán a las plantas de tus pies. Te llamarán Ciudad de Yahvé, la Sión del Santo de Israel.
+^a^[**60:11** Apoc 21,25-26] ^b^[**60:11** Apoc 21,25-26] ^c^[**60:11** Apoc 21,25-26]
+
+
+
+
 
 ## Sion la gloria y el gozo de los pueblos como el centro pacífico de la tierra
-^15^ “Mientras que tú has sido abandonado y odiado, para que nadie pase por ti, Te haré una excelencia eterna, una alegría de muchas generaciones. ^16^ También beberás la leche de las naciones, y se amamantará de los pechos reales. Entonces sabrás que yo, Yahvé, soy tu Salvador, tu Redentor, el Poderoso de Jacob. ^a^ ^17^ Para el bronce traeré oro; por el hierro traeré plata; para la madera, el bronce, y para las piedras, el hierro. También haré de la paz su gobernador, y la justicia tu gobernante. ^b^ ^18^ No se oirá más la violencia en tu tierra, ni desolación ni destrucción dentro de tus fronteras; pero tú llamarás a tus muros Salvación, y sus puertas Alabanza. ^c^ 
-^a^[**60:16** Is 49,23] ^b^[**60:17** Is 52,7] ^c^[**60:18** Is 26,1]
+^15^ “Mientras que tú has sido abandonado y odiado, para que nadie pase por ti, Te haré una excelencia eterna, una alegría de muchas generaciones. ^16^ También beberás la leche de las naciones, y se amamantará de los pechos reales. Entonces sabrás que yo, Yahvé, soy tu Salvador, tu Redentor, el Poderoso de Jacob. ^a^ ^b^ ^c^ ^17^ Para el bronce traeré oro; por el hierro traeré plata; para la madera, el bronce, y para las piedras, el hierro. También haré de la paz su gobernador, y la justicia tu gobernante. ^d^ ^e^ ^f^ ^18^ No se oirá más la violencia en tu tierra, ni desolación ni destrucción dentro de tus fronteras; pero tú llamarás a tus muros Salvación, y sus puertas Alabanza. ^g^ ^h^ ^i^ 
+^a^[**60:16** Is 49,23] ^b^[**60:16** Is 49,23] ^c^[**60:16** Is 49,23] ^d^[**60:17** Is 52,7] ^e^[**60:17** Is 52,7] ^f^[**60:17** Is 52,7] ^g^[**60:18** Is 26,1] ^h^[**60:18** Is 26,1] ^i^[**60:18** Is 26,1]
+
+
+
+
 
 ## Sión como una ciudad de luz llena de Dios está floreciendo gloriosamente
-^19^ El sol ya no será tu luz de día, ni el brillo de la luna te alumbrará, pero Yahvé será su luz eterna, y tu Dios será tu gloria. ^a^ ^20^ Tu sol no se pondrá más, ni su luna se retirará; porque Yahvé será tu luz eterna, y los días de tu luto terminarán. ^21^ Entonces todo tu pueblo será justo. Heredarán la tierra para siempre, la rama de mi plantación, el trabajo de mis manos, para que yo sea glorificado. ^22^ El pequeño se convertirá en mil, y la pequeña una nación fuerte. Yo, Yahvé, haré esto rápidamente en su momento”.
-^a^[**60:19** Is 24,23; Is 30,26; Apoc 21,23]
+^19^ El sol ya no será tu luz de día, ni el brillo de la luna te alumbrará, pero Yahvé será su luz eterna, y tu Dios será tu gloria. ^a^ ^b^ ^c^ ^20^ Tu sol no se pondrá más, ni su luna se retirará; porque Yahvé será tu luz eterna, y los días de tu luto terminarán. ^21^ Entonces todo tu pueblo será justo. Heredarán la tierra para siempre, la rama de mi plantación, el trabajo de mis manos, para que yo sea glorificado. ^22^ El pequeño se convertirá en mil, y la pequeña una nación fuerte. Yo, Yahvé, haré esto rápidamente en su momento”.
+^a^[**60:19** Is 24,23; Is 30,26; Apoc 21,23] ^b^[**60:19** Is 24,23; Is 30,26; Apoc 21,23] ^c^[**60:19** Is 24,23; Is 30,26; Apoc 21,23]
 
 # 61 
 ## Discurso de consolación del Mensajero de Dios a su pueblo afligido
-^1^ El Espíritu del Señor Yahvé está sobre mí, porque Yahvé me ha ungido para predicar la buena nueva a los humildes. Me ha enviado a vendar a los corazones rotos, para proclamar la libertad de los cautivos y liberar a los que están atados, ^a^ ^2^ para proclamar el año de gracia de Yahvé y el día de la venganza de nuestro Dios, para consolar a todos los que lloran, ^b^ ^3^ para proveer a los que lloran en Sión, para darles una guirnalda para las cenizas, el aceite de la alegría para el luto, el vestido de alabanza para el espíritu de pesadez, para que sean llamados árboles de la justicia, la siembra de Yahvé, para que sea glorificado.
-^a^[**61:1** Mat 11,5; Luc 4,18-19] ^b^[**61:2** Lev 25,10; Is 63,4]
+^1^ El Espíritu del Señor Yahvé está sobre mí, porque Yahvé me ha ungido para predicar la buena nueva a los humildes. Me ha enviado a vendar a los corazones rotos, para proclamar la libertad de los cautivos y liberar a los que están atados, ^a^ ^b^ ^c^ ^2^ para proclamar el año de gracia de Yahvé y el día de la venganza de nuestro Dios, para consolar a todos los que lloran, ^d^ ^e^ ^f^ ^3^ para proveer a los que lloran en Sión, para darles una guirnalda para las cenizas, el aceite de la alegría para el luto, el vestido de alabanza para el espíritu de pesadez, para que sean llamados árboles de la justicia, la siembra de Yahvé, para que sea glorificado.
+^a^[**61:1** Mat 11,5; Luc 4,18-19] ^b^[**61:1** Mat 11,5; Luc 4,18-19] ^c^[**61:1** Mat 11,5; Luc 4,18-19] ^d^[**61:2** Lev 25,10; Is 63,4] ^e^[**61:2** Lev 25,10; Is 63,4] ^f^[**61:2** Lev 25,10; Is 63,4]
+
+
+
+
 
 ## Presentación de la gloria prometida por Dios
-^4^ Reconstruirán las antiguas ruinas. Levantarán los antiguos lugares devastados. Repararán las ciudades arruinadas que han sido devastadas durante muchas generaciones. ^5^ Los extraños se pondrán de pie y alimentarán sus rebaños. Los extranjeros trabajarán sus campos y sus viñedos. ^a^ ^6^ Pero ustedes serán llamados sacerdotes de Yahvé. Los hombres os llamarán siervos de nuestro Dios. Comerás la riqueza de las naciones. Te jactarás de su gloria. ^b^ ^7^ En lugar de tu vergüenza tendrás el doble. En lugar de la deshonra, se alegrarán de su porción. Por lo tanto, en su tierra poseerán el doble. La alegría eterna será para ellos. ^8^ “Porque yo, Yahvé, amo la justicia. Odio el robo y la iniquidad. Les daré su recompensa en la verdad y haré un pacto eterno con ellos. ^c^ ^9^ Su descendencia será conocida entre las naciones, y su descendencia entre los pueblos. Todos los que los vean los reconocerán, que son la descendencia que Yahvé ha bendecido”.
-^a^[**61:5** Is 60,10-16] ^b^[**61:6** Is 66,21] ^c^[**61:8** Is 54,10; Is 55,3]
+^4^ Reconstruirán las antiguas ruinas. Levantarán los antiguos lugares devastados. Repararán las ciudades arruinadas que han sido devastadas durante muchas generaciones. ^5^ Los extraños se pondrán de pie y alimentarán sus rebaños. Los extranjeros trabajarán sus campos y sus viñedos. ^a^ ^b^ ^c^ ^6^ Pero ustedes serán llamados sacerdotes de Yahvé. Los hombres os llamarán siervos de nuestro Dios. Comerás la riqueza de las naciones. Te jactarás de su gloria. ^d^ ^e^ ^f^ ^7^ En lugar de tu vergüenza tendrás el doble. En lugar de la deshonra, se alegrarán de su porción. Por lo tanto, en su tierra poseerán el doble. La alegría eterna será para ellos. ^8^ “Porque yo, Yahvé, amo la justicia. Odio el robo y la iniquidad. Les daré su recompensa en la verdad y haré un pacto eterno con ellos. ^g^ ^h^ ^i^ ^9^ Su descendencia será conocida entre las naciones, y su descendencia entre los pueblos. Todos los que los vean los reconocerán, que son la descendencia que Yahvé ha bendecido”.
+^a^[**61:5** Is 60,10-16] ^b^[**61:5** Is 60,10-16] ^c^[**61:5** Is 60,10-16] ^d^[**61:6** Is 66,21] ^e^[**61:6** Is 66,21] ^f^[**61:6** Is 66,21] ^g^[**61:8** Is 54,10; Is 55,3] ^h^[**61:8** Is 54,10; Is 55,3] ^i^[**61:8** Is 54,10; Is 55,3]
+
+
+
+
 
 ## Saludos de la comunidad por la graciosa glorificación
 ^10^ ¡Me regocijaré mucho en Yahvé! Mi alma se alegrará en mi Dios, porque me ha revestido con las vestiduras de la salvación. Me ha cubierto con el manto de la justicia, como un novio se engalana con una guirnalda y como una novia se adorna con sus joyas. ^11^ Pues como la tierra produce su brote, y como el jardín hace brotar lo que se siembra en él, así el Señor Yahvé hará brotar la justicia y la alabanza ante todas las naciones. 
 
 # 62 
 ## Dios proclama que no se detendrá hasta que llegue el apogeo de Sion
-^1^ Por el bien de Sión no callaré, y por el bien de Jerusalén no descansaré, hasta que su rectitud brille como el amanecer, y su salvación como una lámpara encendida. ^2^ Las naciones verán tu justicia, y todos los reyes tu gloria. Se le llamará por un nuevo nombre, que la boca de Yahvé nombrará. ^a^ 
-^a^[**62:2** Is 65,15; Apoc 2,17]
+^1^ Por el bien de Sión no callaré, y por el bien de Jerusalén no descansaré, hasta que su rectitud brille como el amanecer, y su salvación como una lámpara encendida. ^2^ Las naciones verán tu justicia, y todos los reyes tu gloria. Se le llamará por un nuevo nombre, que la boca de Yahvé nombrará. ^a^ ^b^ ^c^ 
+^a^[**62:2** Is 65,15; Apoc 2,17] ^b^[**62:2** Is 65,15; Apoc 2,17] ^c^[**62:2** Is 65,15; Apoc 2,17]
+
+
+
+
 
 ## El consejo de Dios de glorificar y asegurar su ciudad inevitablemente se llevará a cabo
-^3^ Tú también serás una corona de belleza en la mano de Yahvé, y una diadema real en la mano de tu Dios. ^4^ Ya no te llamarán Desamparado, ni tu tierra se llamará nunca más Desolada; pero te llamarán Hephzibah, ^a^ y tu tierra Beulah; ^b^ porque Yahvé se deleita en ti, y tu tierra se casará. ^5^ Porque como un joven se casa con una virgen, para que tus hijos se casen contigo. Como un novio se regocija por su novia, para que tu Dios se alegre de ti. ^c^ 
-^a^[**62:4** Hephzibah significa “me deleito en ella”.] ^b^[**62:4** Beulah significa “casada”] ^c^[**62:5** Sof 3,17]
+^3^ Tú también serás una corona de belleza en la mano de Yahvé, y una diadema real en la mano de tu Dios. ^4^ Ya no te llamarán Desamparado, ni tu tierra se llamará nunca más Desolada; pero te llamarán Hephzibah, ^a^ y tu tierra Beulah; ^b^ porque Yahvé se deleita en ti, y tu tierra se casará. ^5^ Porque como un joven se casa con una virgen, para que tus hijos se casen contigo. Como un novio se regocija por su novia, para que tu Dios se alegre de ti. ^c^ ^d^ ^e^ 
+^a^[**62:4** Hephzibah significa “me deleito en ella”.] ^b^[**62:4** Beulah significa “casada”] ^c^[**62:5** Sof 3,17] ^d^[**62:5** Sof 3,17] ^e^[**62:5** Sof 3,17]
+
+
+
+
 
 ## Recordatorio a los guardias designados sobre Jerusalén de no dejar al Señor en paz hasta que no haya cumplido sus promesas
-^6^ He puesto centinelas en tus muros, Jerusalén. Nunca estarán en silencio ni de día ni de noche. Tú que invocas a Yahvé, no descanses, ^a^ ^7^ y no le den descanso hasta que se establezca, y hasta que haga de Jerusalén una alabanza en la tierra. ^8^ Yahvé ha jurado por su mano derecha, y por el brazo de su fuerza, “Ciertamente no daré más tu grano para que sea alimento de tus enemigos, y los extranjeros no beberán tu vino nuevo, por el que has trabajado, ^b^ ^9^ pero los que lo han cosechado lo comerán y alabarán a Yahvé. Los que lo hayan recogido lo beberán en los atrios de mi santuario”.
-^a^[**62:6** Is 52,8] ^b^[**62:8** Is 65,21-22]
+^6^ He puesto centinelas en tus muros, Jerusalén. Nunca estarán en silencio ni de día ni de noche. Tú que invocas a Yahvé, no descanses, ^a^ ^b^ ^c^ ^7^ y no le den descanso hasta que se establezca, y hasta que haga de Jerusalén una alabanza en la tierra. ^8^ Yahvé ha jurado por su mano derecha, y por el brazo de su fuerza, “Ciertamente no daré más tu grano para que sea alimento de tus enemigos, y los extranjeros no beberán tu vino nuevo, por el que has trabajado, ^d^ ^e^ ^f^ ^9^ pero los que lo han cosechado lo comerán y alabarán a Yahvé. Los que lo hayan recogido lo beberán en los atrios de mi santuario”.
+^a^[**62:6** Is 52,8] ^b^[**62:6** Is 52,8] ^c^[**62:6** Is 52,8] ^d^[**62:8** Is 65,21-22] ^e^[**62:8** Is 65,21-22] ^f^[**62:8** Is 65,21-22]
+
+
+
+
 
 ## Llamado al éxodo de las tierras paganas a la ciudad de Dios destinada a la alta salvación
-^10^ ¡Pasa, pasa por las puertas! ¡Preparen el camino del pueblo! ¡Construyan, construyan la autopista! ¡Recojan las piedras! Levantar una bandera para los pueblos. ^11^ He aquí que Yahvé ha proclamado hasta el fin de la tierra: “Di a la hija de Sión, He aquí que viene tu salvación. He aquí que su recompensa está con él, y su recompensa ante él”. ^a^ ^12^ Los llamarán “El Pueblo Santo”, Los redimidos de Yahvé”. Se le llamará “Buscada”, Una ciudad no abandonada”. ^b^ 
-^a^[**62:11** Zac 9,9; Is 40,10; Apoc 22,12] ^b^[**62:12** Is 35,10]
+^10^ ¡Pasa, pasa por las puertas! ¡Preparen el camino del pueblo! ¡Construyan, construyan la autopista! ¡Recojan las piedras! Levantar una bandera para los pueblos. ^11^ He aquí que Yahvé ha proclamado hasta el fin de la tierra: “Di a la hija de Sión, He aquí que viene tu salvación. He aquí que su recompensa está con él, y su recompensa ante él”. ^a^ ^b^ ^c^ ^12^ Los llamarán “El Pueblo Santo”, Los redimidos de Yahvé”. Se le llamará “Buscada”, Una ciudad no abandonada”. ^d^ ^e^ ^f^ 
+^a^[**62:11** Zac 9,9; Is 40,10; Apoc 22,12] ^b^[**62:11** Zac 9,9; Is 40,10; Apoc 22,12] ^c^[**62:11** Zac 9,9; Is 40,10; Apoc 22,12] ^d^[**62:12** Is 35,10] ^e^[**62:12** Is 35,10] ^f^[**62:12** Is 35,10]
 
 # 63 
 ## El juicio inminente de Edom y otras naciones hostiles piadosas
-^1^ ¿Quién es este que viene de Edom, con prendas teñidas de Bozrah? ¿Quién es este que es glorioso en su ropa, marchando en la grandeza de su fuerza? “Soy yo quien habla con justicia, poderoso para salvar”. ^a^ ^2^ Por qué su ropa es roja, y tus vestidos como el que pisa la cuba de vino? ^b^ ^3^ “He pisado el lagar solo. De los pueblos, nadie estaba conmigo. Sí, los pisé en mi ira y los pisoteé en mi ira. Su sangre vital está rociada en mis prendas, y he manchado toda mi ropa. ^c^ ^4^ Porque el día de la venganza estaba en mi corazón, y el año de mi redención ha llegado. ^d^ ^5^ Miré, y no había nadie para ayudar; y me pregunté si no había nadie que lo defendiera. Por lo tanto, mi propio brazo me trajo la salvación. Mi propia ira me sostuvo. ^e^ ^6^ Yo pisoteé a los pueblos en mi cólera y los emborraché en mi ira. Derramé su sangre vital sobre la tierra”. ^f^ 
-^a^[**63:1** Is 42,1; Is 42,3] ^b^[**63:2** Apoc 19,13] ^c^[**63:3** Apoc 14,20; Jl 4,13] ^d^[**63:4** Is 13,9; Is 34,8; Is 61,2] ^e^[**63:5** Is 59,16] ^f^[**63:6** Is 51,17]
+^1^ ¿Quién es este que viene de Edom, con prendas teñidas de Bozrah? ¿Quién es este que es glorioso en su ropa, marchando en la grandeza de su fuerza? “Soy yo quien habla con justicia, poderoso para salvar”. ^a^ ^b^ ^c^ ^2^ Por qué su ropa es roja, y tus vestidos como el que pisa la cuba de vino? ^d^ ^e^ ^f^ ^3^ “He pisado el lagar solo. De los pueblos, nadie estaba conmigo. Sí, los pisé en mi ira y los pisoteé en mi ira. Su sangre vital está rociada en mis prendas, y he manchado toda mi ropa. ^g^ ^h^ ^i^ ^4^ Porque el día de la venganza estaba en mi corazón, y el año de mi redención ha llegado. ^j^ ^k^ ^l^ ^5^ Miré, y no había nadie para ayudar; y me pregunté si no había nadie que lo defendiera. Por lo tanto, mi propio brazo me trajo la salvación. Mi propia ira me sostuvo. ^m^ ^n^ ^o^ ^6^ Yo pisoteé a los pueblos en mi cólera y los emborraché en mi ira. Derramé su sangre vital sobre la tierra”. ^p^ ^q^ ^r^ 
+^a^[**63:1** Is 42,1; Is 42,3] ^b^[**63:1** Is 42,1; Is 42,3] ^c^[**63:1** Is 42,1; Is 42,3] ^d^[**63:2** Apoc 19,13] ^e^[**63:2** Apoc 19,13] ^f^[**63:2** Apoc 19,13] ^g^[**63:3** Apoc 14,20; Jl 4,13] ^h^[**63:3** Apoc 14,20; Jl 4,13] ^i^[**63:3** Apoc 14,20; Jl 4,13] ^j^[**63:4** Is 13,9; Is 34,8; Is 61,2] ^k^[**63:4** Is 13,9; Is 34,8; Is 61,2] ^l^[**63:4** Is 13,9; Is 34,8; Is 61,2] ^m^[**63:5** Is 59,16] ^n^[**63:5** Is 59,16] ^o^[**63:5** Is 59,16] ^p^[**63:6** Is 51,17] ^q^[**63:6** Is 51,17] ^r^[**63:6** Is 51,17]
+
+
+
+
 
 ## Mirando hacia atrás a los beneficios divinos mostrados a la gente en el pasado
-^7^ Voy a contar las bondades de Yahvé y las alabanzas de Yahvé, según todo lo que Yahvé nos ha dado, y la gran bondad hacia la casa de Israel, que les ha dado según sus misericordias, y según la multitud de sus amorosas bondades. ^8^ Porque dijo: “Ciertamente, ellos son mi pueblo, niños que no traten con falsedad”. por lo que se convirtió en su Salvador. ^a^ ^9^ En toda la aflicción de ellos fue afligido, y el ángel de su presencia los salvó. En su amor y en su piedad los redimió. Él los soportó, y los llevó todos los días de antaño. ^b^ 
-^a^[**63:8** Deut 32,5; Deut 32,20] ^b^[**63:9** Éxod 33,14-15]
+^7^ Voy a contar las bondades de Yahvé y las alabanzas de Yahvé, según todo lo que Yahvé nos ha dado, y la gran bondad hacia la casa de Israel, que les ha dado según sus misericordias, y según la multitud de sus amorosas bondades. ^8^ Porque dijo: “Ciertamente, ellos son mi pueblo, niños que no traten con falsedad”. por lo que se convirtió en su Salvador. ^a^ ^b^ ^c^ ^9^ En toda la aflicción de ellos fue afligido, y el ángel de su presencia los salvó. En su amor y en su piedad los redimió. Él los soportó, y los llevó todos los días de antaño. ^d^ ^e^ ^f^ 
+^a^[**63:8** Deut 32,5; Deut 32,20] ^b^[**63:8** Deut 32,5; Deut 32,20] ^c^[**63:8** Deut 32,5; Deut 32,20] ^d^[**63:9** Éxod 33,14-15] ^e^[**63:9** Éxod 33,14-15] ^f^[**63:9** Éxod 33,14-15]
+
+
+
+
 
 ## Anhelo del pueblo correctamente castigado por el amor y la lealtad del Dios antiguo
-^10^ Pero se rebelaron y entristeció a su Espíritu Santo. Por eso se volvió y se convirtió en su enemigo, y él mismo luchó contra ellos. ^11^ Entonces se acordó de los días de antaño, Moisés y su pueblo, diciendo, “¿Dónde está el que los sacó del mar con los pastores de su rebaño? ¿Dónde está el que puso su Espíritu Santo entre ellos?” ^a^ ^12^ ¿Quién hizo que su brazo glorioso estuviera a la derecha de Moisés? ¿Quién dividió las aguas ante ellos, para hacerse un nombre eterno? ^13^ Que los condujo a través de las profundidades, como un caballo en el desierto, ¿para que no tropezaran? ^14^ Como el ganado que baja al valle, El Espíritu de Yahvé les hizo descansar. Así que dirigiste a tu pueblo para hacerte un nombre glorioso.
-^a^[**63:11** Éxod 14,30]
+^10^ Pero se rebelaron y entristeció a su Espíritu Santo. Por eso se volvió y se convirtió en su enemigo, y él mismo luchó contra ellos. ^11^ Entonces se acordó de los días de antaño, Moisés y su pueblo, diciendo, “¿Dónde está el que los sacó del mar con los pastores de su rebaño? ¿Dónde está el que puso su Espíritu Santo entre ellos?” ^a^ ^b^ ^c^ ^12^ ¿Quién hizo que su brazo glorioso estuviera a la derecha de Moisés? ¿Quién dividió las aguas ante ellos, para hacerse un nombre eterno? ^13^ Que los condujo a través de las profundidades, como un caballo en el desierto, ¿para que no tropezaran? ^14^ Como el ganado que baja al valle, El Espíritu de Yahvé les hizo descansar. Así que dirigiste a tu pueblo para hacerte un nombre glorioso.
+^a^[**63:11** Éxod 14,30] ^b^[**63:11** Éxod 14,30] ^c^[**63:11** Éxod 14,30]
+
+
+
+
 
 ## Por favor pida piedad y ayuda con la actual miseria externa e interna
-^15^ Mira desde el cielo, y ver desde la morada de tu santidad y de tu gloria. ¿Dónde están tu celo y tus actos de poder? El anhelo de tu corazón y tu compasión se contienen hacia mí. ^16^ Porque tú eres nuestro Padre, aunque Abraham no nos conoce, e Israel no nos reconoce. Tú, Yahvé, eres nuestro Padre. Nuestro Redentor desde siempre es tu nombre. ^17^ Oh, Yahvé, ¿por qué nos haces desviarnos de tus caminos? y endurecer nuestro corazón por tu miedo? Regresa por el bien de tus sirvientes, las tribus de su herencia. ^18^ Tu pueblo santo lo poseyó sólo por un tiempo. Nuestros adversarios han pisoteado tu santuario. ^a^ ^19^ Nosotros,, nos hemos vuelto como aquellos sobre los que nunca has gobernado, como los que no fueron llamados por su nombre.
-^a^[**63:18** Sal 79,1]
+^15^ Mira desde el cielo, y ver desde la morada de tu santidad y de tu gloria. ¿Dónde están tu celo y tus actos de poder? El anhelo de tu corazón y tu compasión se contienen hacia mí. ^16^ Porque tú eres nuestro Padre, aunque Abraham no nos conoce, e Israel no nos reconoce. Tú, Yahvé, eres nuestro Padre. Nuestro Redentor desde siempre es tu nombre. ^17^ Oh, Yahvé, ¿por qué nos haces desviarnos de tus caminos? y endurecer nuestro corazón por tu miedo? Regresa por el bien de tus sirvientes, las tribus de su herencia. ^18^ Tu pueblo santo lo poseyó sólo por un tiempo. Nuestros adversarios han pisoteado tu santuario. ^a^ ^b^ ^c^ ^19^ Nosotros,, nos hemos vuelto como aquellos sobre los que nunca has gobernado, como los que no fueron llamados por su nombre.
+^a^[**63:18** Sal 79,1] ^b^[**63:18** Sal 79,1] ^c^[**63:18** Sal 79,1]
 
 # 64 
 ## Anhelo por la revelación completa del terrible poder de Dios
 ^1^ Oh, que desgarres los cielos, que bajaras, para que las montañas tiemblen ante tu presencia... ^2^ como cuando el fuego enciende la broza, y el fuego hace que el agua hierva. Da a conocer tu nombre a tus adversarios, para que las naciones tiemblen ante tu presencia. ^3^ Cuando hiciste cosas increíbles que no buscamos, bajaste, y las montañas temblaron ante tu presencia. ^4^ Porque desde antiguo los hombres no han oído, ni percibido por el oído, ni el ojo ha visto un Dios aparte de ti, que trabaja para él y que le espera. 
 
+
+
+
+
 ## Humilde confesión de culpa y solicitud de nueva gracia
 ^5^ Te encuentras con el que se alegra y hace justicia, los que te recuerdan en tus caminos. He aquí que te enojaste y pecamos. Llevamos mucho tiempo en pecado. ¿Nos salvaremos? ^6^ Porque todos nos hemos vuelto como un impuro, y toda nuestra justicia es como un vestido contaminado. Todos nos desvanecemos como una hoja; y nuestras iniquidades, como el viento, nos llevan. 
 
-^7^ No hay nadie que invoque tu nombre, que se agita para agarrarte; pues nos has ocultado tu rostro, y nos han consumido por medio de nuestras iniquidades. ^a^ ^8^ Pero ahora, Yahvé, tú eres nuestro Padre. Nosotros somos la arcilla y tú nuestro alfarero. Todos somos obra de tu mano. ^9^ No te enfades, Yahvé. No te acuerdes de la iniquidad para siempre. Mire y vea, se lo rogamos, todos somos tu gente. ^10^ Tus ciudades sagradas se han convertido en un desierto. Sión se ha convertido en un desierto, Jerusalén una desolación. ^11^ Nuestra santa y hermosa casa donde nuestros padres te alabaron se quema con fuego. Todos nuestros lugares placenteros están despojados. ^12^ ¿Te vas a contener por estas cosas, Yahvé? ¿Guardarás silencio y nos castigarás muy severamente?
-^a^[**64:7** Is 63,16; Is 45,9]
+^7^ No hay nadie que invoque tu nombre, que se agita para agarrarte; pues nos has ocultado tu rostro, y nos han consumido por medio de nuestras iniquidades. ^a^ ^b^ ^c^ ^8^ Pero ahora, Yahvé, tú eres nuestro Padre. Nosotros somos la arcilla y tú nuestro alfarero. Todos somos obra de tu mano. ^9^ No te enfades, Yahvé. No te acuerdes de la iniquidad para siempre. Mire y vea, se lo rogamos, todos somos tu gente. ^10^ Tus ciudades sagradas se han convertido en un desierto. Sión se ha convertido en un desierto, Jerusalén una desolación. ^11^ Nuestra santa y hermosa casa donde nuestros padres te alabaron se quema con fuego. Todos nuestros lugares placenteros están despojados. ^12^ ¿Te vas a contener por estas cosas, Yahvé? ¿Guardarás silencio y nos castigarás muy severamente?
+^a^[**64:7** Is 63,16; Is 45,9] ^b^[**64:7** Is 63,16; Is 45,9] ^c^[**64:7** Is 63,16; Is 45,9]
 
 # 65 
 ## ottes se lamentan contra el pueblo apóstata; Amenaza de castigo para los apóstatas
-^1^ “Me preguntan los que no preguntaron. Me encuentran los que no me buscaron. Dije: “Vedme, vedme”, a una nación que no se llamaba por mi nombre. ^a^ ^2^ He extendido mis manos todo el día a un pueblo rebelde, que andan por un camino que no es bueno, tras sus propios pensamientos; ^b^ ^3^ un pueblo que me provoca en la cara continuamente, sacrificando en los jardines, y quemando incienso en ladrillos; ^4^ que se sientan entre las tumbas, y pasar las noches en lugares secretos; que comen carne de cerdo, y el caldo de las cosas abominables está en sus recipientes; ^c^ ^5^ que dicen: “Quédate solo”, no te acerques a mí, porque yo soy más santo que tú”. Esto es humo en mi nariz, un fuego que arde todo el día. ^6^ “He aquí que está escrito ante mí: No guardaré silencio, pero lo pagará, sí, pagaré en su seno ^7^ tus propias iniquidades y las iniquidades de tus padres juntas”, dice Yahvé, “que han quemado incienso en las montañas, y me blasfemaron en las colinas. Por lo tanto, primero mediré su trabajo en su seno”.
-^a^[**65:1** Rom 10,20] ^b^[**65:2** Prov 1,24; Jer 3,17] ^c^[**65:4** Is 66,17; Lev 11,7]
+^1^ “Me preguntan los que no preguntaron. Me encuentran los que no me buscaron. Dije: “Vedme, vedme”, a una nación que no se llamaba por mi nombre. ^a^ ^b^ ^c^ ^2^ He extendido mis manos todo el día a un pueblo rebelde, que andan por un camino que no es bueno, tras sus propios pensamientos; ^d^ ^e^ ^f^ ^3^ un pueblo que me provoca en la cara continuamente, sacrificando en los jardines, y quemando incienso en ladrillos; ^4^ que se sientan entre las tumbas, y pasar las noches en lugares secretos; que comen carne de cerdo, y el caldo de las cosas abominables está en sus recipientes; ^g^ ^h^ ^i^ ^5^ que dicen: “Quédate solo”, no te acerques a mí, porque yo soy más santo que tú”. Esto es humo en mi nariz, un fuego que arde todo el día. ^6^ “He aquí que está escrito ante mí: No guardaré silencio, pero lo pagará, sí, pagaré en su seno ^7^ tus propias iniquidades y las iniquidades de tus padres juntas”, dice Yahvé, “que han quemado incienso en las montañas, y me blasfemaron en las colinas. Por lo tanto, primero mediré su trabajo en su seno”.
+^a^[**65:1** Rom 10,20] ^b^[**65:1** Rom 10,20] ^c^[**65:1** Rom 10,20] ^d^[**65:2** Prov 1,24; Jer 3,17] ^e^[**65:2** Prov 1,24; Jer 3,17] ^f^[**65:2** Prov 1,24; Jer 3,17] ^g^[**65:4** Is 66,17; Lev 11,7] ^h^[**65:4** Is 66,17; Lev 11,7] ^i^[**65:4** Is 66,17; Lev 11,7]
+
+
+
+
 
 ## Anuncio del divorcio entre los siervos fieles y los que persisten en la apostasía; se debe guardar una selección
-^8^ Yahvé dice, “Como el vino nuevo se encuentra en el racimo, y uno dice: ‘No lo destruyas, porque hay una bendición en él:’ así lo haré por el bien de mis siervos, para que no los destruya a todos. ^9^ Sacaré descendencia de Jacob, y de Judá un heredero de mis montes. Mis elegidos lo heredarán, y mis siervos habitarán allí. ^10^ Sarón será un redil de rebaños, y el valle de Acor un lugar para que se acuesten los rebaños, para mi pueblo que me ha buscado. ^a^ ^11^ “Pero ustedes que abandonan a Yahvé, que se olvidan de mi montaña sagrada, que preparan una mesa para la Fortuna, y que llenan de vino mezclado al Destino; ^12^ Te destinaré a la espada, y todos se inclinarán ante la matanza; porque cuando llamé, no contestaste. Cuando hablé, no escuchaste; pero tú hiciste lo que era malo a mis ojos, y elegí aquello en lo que no me deleité”.
-^a^[**65:10** Jos 7,26]
+^8^ Yahvé dice, “Como el vino nuevo se encuentra en el racimo, y uno dice: ‘No lo destruyas, porque hay una bendición en él:’ así lo haré por el bien de mis siervos, para que no los destruya a todos. ^9^ Sacaré descendencia de Jacob, y de Judá un heredero de mis montes. Mis elegidos lo heredarán, y mis siervos habitarán allí. ^10^ Sarón será un redil de rebaños, y el valle de Acor un lugar para que se acuesten los rebaños, para mi pueblo que me ha buscado. ^a^ ^b^ ^c^ ^11^ “Pero ustedes que abandonan a Yahvé, que se olvidan de mi montaña sagrada, que preparan una mesa para la Fortuna, y que llenan de vino mezclado al Destino; ^12^ Te destinaré a la espada, y todos se inclinarán ante la matanza; porque cuando llamé, no contestaste. Cuando hablé, no escuchaste; pero tú hiciste lo que era malo a mis ojos, y elegí aquello en lo que no me deleité”.
+^a^[**65:10** Jos 7,26] ^b^[**65:10** Jos 7,26] ^c^[**65:10** Jos 7,26]
+
+
+
+
 
 ## El destino de los que adoran y desprecian a Dios; la exuberante felicidad del futuro pueblo de Dios
-^13^ Por eso dice el Señor Yahvé, “He aquí que mis siervos comerán, pero tendrás hambre; he aquí que mis siervos beberán, pero tendrás sed. He aquí que mis siervos se alegrarán, pero se sentirá decepcionado. ^a^ ^14^ He aquí que mis siervos cantarán con alegría de corazón, pero llorarás de pena de corazón, y se lamentará por la angustia del espíritu. ^15^ Dejarás tu nombre como una maldición para mis elegidos, y el Señor Yahvé te matará. Llamará a sus siervos por otro nombre, ^16^ para que el que se bendiga en la tierra se bendiga en el Dios de la verdad; y el que jura en la tierra lo hará por el Dios de la verdad; porque los problemas anteriores se han olvidado, y porque están ocultos a mis ojos. ^b^ 
-^a^[**65:13** Is 55,1] ^b^[**65:16** Is 19,18; Jer 4,2; Jer 12,16]
+^13^ Por eso dice el Señor Yahvé, “He aquí que mis siervos comerán, pero tendrás hambre; he aquí que mis siervos beberán, pero tendrás sed. He aquí que mis siervos se alegrarán, pero se sentirá decepcionado. ^a^ ^b^ ^c^ ^14^ He aquí que mis siervos cantarán con alegría de corazón, pero llorarás de pena de corazón, y se lamentará por la angustia del espíritu. ^15^ Dejarás tu nombre como una maldición para mis elegidos, y el Señor Yahvé te matará. Llamará a sus siervos por otro nombre, ^16^ para que el que se bendiga en la tierra se bendiga en el Dios de la verdad; y el que jura en la tierra lo hará por el Dios de la verdad; porque los problemas anteriores se han olvidado, y porque están ocultos a mis ojos. ^d^ ^e^ ^f^ 
+^a^[**65:13** Is 55,1] ^b^[**65:13** Is 55,1] ^c^[**65:13** Is 55,1] ^d^[**65:16** Is 19,18; Jer 4,2; Jer 12,16] ^e^[**65:16** Is 19,18; Jer 4,2; Jer 12,16] ^f^[**65:16** Is 19,18; Jer 4,2; Jer 12,16]
+
+
+
+
 
 ## La bienaventuranza del pueblo de Dios en los últimos tiempos
-^17^ “Porque he aquí que yo creo cielos nuevos y tierra nueva; y las cosas anteriores no serán recordadas, ni se les ocurra. ^a^ ^18^ Pero alégrate y regocíjate para siempre en lo que yo creo; porque, he aquí que yo creo a Jerusalén para que sea una delicia, y su pueblo una alegría. ^b^ ^19^ Me alegraré en Jerusalén, y deleitarse con mi pueblo; y la voz del llanto y la voz del grito no se escuchará más en ella. ^c^ ^20^ “Ya no habrá un niño que sólo viva unos días, ni un anciano que no ha llenado sus días; porque el niño morirá con cien años, y el pecador que tenga cien años será maldito. ^d^ ^21^ Construirán casas y las habitarán. Plantarán viñedos y comerán sus frutos. ^e^ ^22^ No construirán y otro habitará. No plantarán y otro comerá; porque los días de mi pueblo serán como los días de un árbol, y mis elegidos disfrutarán durante mucho tiempo del trabajo de sus manos. ^f^ ^23^ No trabajarán en vano ni dar a luz para la calamidad; porque son los descendientes de los benditos de Yahvé y sus descendientes con ellos. ^24^ Sucederá que antes de que llamen, yo responderé; y mientras ellos hablan, yo escucharé. ^25^ El lobo y el cordero se alimentarán juntos. El león comerá paja como el buey. El polvo será el alimento de la serpiente. No harán daño ni destruirán en todo mi santo monte”. dice Yahvé. ^g^ 
-^a^[**65:17** Is 66,22; 2Pe 3,13; Apoc 21,1] ^b^[**65:18** Is 35,10] ^c^[**65:19** Is 25,8] ^d^[**65:20** Zac 8,4] ^e^[**65:21** Is 62,8] ^f^[**65:22** Deut 28,30] ^g^[**65:25** Is 11,6-9]
+^17^ “Porque he aquí que yo creo cielos nuevos y tierra nueva; y las cosas anteriores no serán recordadas, ni se les ocurra. ^a^ ^b^ ^c^ ^18^ Pero alégrate y regocíjate para siempre en lo que yo creo; porque, he aquí que yo creo a Jerusalén para que sea una delicia, y su pueblo una alegría. ^d^ ^e^ ^f^ ^19^ Me alegraré en Jerusalén, y deleitarse con mi pueblo; y la voz del llanto y la voz del grito no se escuchará más en ella. ^g^ ^h^ ^i^ ^20^ “Ya no habrá un niño que sólo viva unos días, ni un anciano que no ha llenado sus días; porque el niño morirá con cien años, y el pecador que tenga cien años será maldito. ^j^ ^k^ ^l^ ^21^ Construirán casas y las habitarán. Plantarán viñedos y comerán sus frutos. ^m^ ^n^ ^o^ ^22^ No construirán y otro habitará. No plantarán y otro comerá; porque los días de mi pueblo serán como los días de un árbol, y mis elegidos disfrutarán durante mucho tiempo del trabajo de sus manos. ^p^ ^q^ ^r^ ^23^ No trabajarán en vano ni dar a luz para la calamidad; porque son los descendientes de los benditos de Yahvé y sus descendientes con ellos. ^24^ Sucederá que antes de que llamen, yo responderé; y mientras ellos hablan, yo escucharé. ^25^ El lobo y el cordero se alimentarán juntos. El león comerá paja como el buey. El polvo será el alimento de la serpiente. No harán daño ni destruirán en todo mi santo monte”. dice Yahvé. ^s^ ^t^ ^u^ 
+^a^[**65:17** Is 66,22; 2Pe 3,13; Apoc 21,1] ^b^[**65:17** Is 66,22; 2Pe 3,13; Apoc 21,1] ^c^[**65:17** Is 66,22; 2Pe 3,13; Apoc 21,1] ^d^[**65:18** Is 35,10] ^e^[**65:18** Is 35,10] ^f^[**65:18** Is 35,10] ^g^[**65:19** Is 25,8] ^h^[**65:19** Is 25,8] ^i^[**65:19** Is 25,8] ^j^[**65:20** Zac 8,4] ^k^[**65:20** Zac 8,4] ^l^[**65:20** Zac 8,4] ^m^[**65:21** Is 62,8] ^n^[**65:21** Is 62,8] ^o^[**65:21** Is 62,8] ^p^[**65:22** Deut 28,30] ^q^[**65:22** Deut 28,30] ^r^[**65:22** Deut 28,30] ^s^[**65:25** Is 11,6-9] ^t^[**65:25** Is 11,6-9] ^u^[**65:25** Is 11,6-9]
 
 # 66 
 ## Dios rechaza la construcción de templos y el servicio a los adoradores paganos
-^1^ Yahvé dice: “El cielo es mi trono y la tierra es el escabel de mis pies. ¿Qué tipo de casa me van a construir? ¿Dónde voy a descansar? ^a^ ^2^ Porque mi mano ha hecho todas estas cosas, y así se produjeron todas estas cosas”, dice Yahvé: “pero miraré a este hombre, incluso al que es pobre y de espíritu contrito, y que tiembla ante mi palabra. ^b^ ^3^ El que mata a un buey es como el que mata a un hombre; el que sacrifica un cordero, como el que le rompe el cuello a un perro; el que ofrece una ofrenda, como el que ofrece sangre de cerdo; el que quema incienso, como el que bendice a un ídolo. Sí, han elegido sus propios caminos, y su alma se deleita en sus abominaciones. ^c^ ^4^ Yo también elegiré sus engaños, y les hará pasar sus miedos, porque cuando llamé, nadie respondió; cuando hablé, no me escucharon, pero hicieron lo que era malo a mis ojos, y elegí aquello en lo que no me deleité”. ^d^ 
-^a^[**66:1** 1Re 8,27; Hech 7,49; Hech 17,24] ^b^[**66:2** Is 57,15] ^c^[**66:3** Lev 17,4] ^d^[**66:4** Is 65,12]
+^1^ Yahvé dice: “El cielo es mi trono y la tierra es el escabel de mis pies. ¿Qué tipo de casa me van a construir? ¿Dónde voy a descansar? ^a^ ^b^ ^c^ ^2^ Porque mi mano ha hecho todas estas cosas, y así se produjeron todas estas cosas”, dice Yahvé: “pero miraré a este hombre, incluso al que es pobre y de espíritu contrito, y que tiembla ante mi palabra. ^d^ ^e^ ^f^ ^3^ El que mata a un buey es como el que mata a un hombre; el que sacrifica un cordero, como el que le rompe el cuello a un perro; el que ofrece una ofrenda, como el que ofrece sangre de cerdo; el que quema incienso, como el que bendice a un ídolo. Sí, han elegido sus propios caminos, y su alma se deleita en sus abominaciones. ^g^ ^h^ ^i^ ^4^ Yo también elegiré sus engaños, y les hará pasar sus miedos, porque cuando llamé, nadie respondió; cuando hablé, no me escucharon, pero hicieron lo que era malo a mis ojos, y elegí aquello en lo que no me deleité”. ^j^ ^k^ ^l^ 
+^a^[**66:1** 1Re 8,27; Hech 7,49; Hech 17,24] ^b^[**66:1** 1Re 8,27; Hech 7,49; Hech 17,24] ^c^[**66:1** 1Re 8,27; Hech 7,49; Hech 17,24] ^d^[**66:2** Is 57,15] ^e^[**66:2** Is 57,15] ^f^[**66:2** Is 57,15] ^g^[**66:3** Lev 17,4] ^h^[**66:3** Lev 17,4] ^i^[**66:3** Lev 17,4] ^j^[**66:4** Is 65,12] ^k^[**66:4** Is 65,12] ^l^[**66:4** Is 65,12]
+
+
+
+
 
 ## Palabra de amenaza a los camaradas renegados
-^5^ Escucha la palabra de Yahvé, tú que tiemblas ante su palabra: “Tus hermanos que te odian, que te echaron por mi nombre, han dicho, Que Yahvé sea glorificado, para que veamos tu alegría;’ pero son los que se verán defraudados. ^a^ 
-^a^[**66:5** Luc 6,22]
+^5^ Escucha la palabra de Yahvé, tú que tiemblas ante su palabra: “Tus hermanos que te odian, que te echaron por mi nombre, han dicho, Que Yahvé sea glorificado, para que veamos tu alegría;’ pero son los que se verán defraudados. ^a^ ^b^ ^c^ 
+^a^[**66:5** Luc 6,22] ^b^[**66:5** Luc 6,22] ^c^[**66:5** Luc 6,22]
+
+
+
+
 
 ## Cumplimiento de la salvación para Jerusalén en los últimos tiempos
-^6^ Una voz de tumulto desde la ciudad, una voz desde el templo, una voz de Yahvé que devuelve a sus enemigos lo que merecen. ^7^ “Antes de dar a luz, dio a luz. Antes de que llegara su dolor, dio a luz a un hijo. ^8^ ¿Quién ha oído hablar de algo así? ¿Quién ha visto esas cosas? ¿Nacerá una tierra en un día? ¿Debe nacer una nación de una vez? Porque tan pronto como Sion se afanó, dio a luz a sus hijos. ^9^ ¿Haré nacer y no haré nacer?”, dice Yahvé. “¿Acaso yo, que hago dar a luz, cerraré el vientre?”, dice tu Dios. ^a^ 
-^a^[**66:9** Is 37,3]
+^6^ Una voz de tumulto desde la ciudad, una voz desde el templo, una voz de Yahvé que devuelve a sus enemigos lo que merecen. ^7^ “Antes de dar a luz, dio a luz. Antes de que llegara su dolor, dio a luz a un hijo. ^8^ ¿Quién ha oído hablar de algo así? ¿Quién ha visto esas cosas? ¿Nacerá una tierra en un día? ¿Debe nacer una nación de una vez? Porque tan pronto como Sion se afanó, dio a luz a sus hijos. ^9^ ¿Haré nacer y no haré nacer?”, dice Yahvé. “¿Acaso yo, que hago dar a luz, cerraré el vientre?”, dice tu Dios. ^a^ ^b^ ^c^ 
+^a^[**66:9** Is 37,3] ^b^[**66:9** Is 37,3] ^c^[**66:9** Is 37,3]
 
-^10^ “Alégrense con Jerusalén y gócense por ella, todos los que la aman. Alegraos con ella, todos los que lloráis por ella; ^a^ ^11^ para que amamantes y te sacies en los pechos consoladores; para que puedas beber profundamente, y se deleite con la abundancia de su gloria”. ^12^ Porque Yahvé dice: “He aquí que yo extiendo la paz hacia ella como un río, y la gloria de las naciones como un arroyo desbordado, y tú amamantarás. Te llevarán a su lado, y se le colgará de las rodillas. ^b^ ^13^ Como quien consuela a su madre, así que te consolaré. Serás consolado en Jerusalén”. ^14^ Lo verás y tu corazón se alegrará, y tus huesos florecerán como la hierba tierna. La mano de Yahvé será conocida entre sus siervos; y tendrá indignación contra sus enemigos.
-^a^[**66:10** Sal 122,6] ^b^[**66:12** Is 60,4]
+^10^ “Alégrense con Jerusalén y gócense por ella, todos los que la aman. Alegraos con ella, todos los que lloráis por ella; ^a^ ^b^ ^c^ ^11^ para que amamantes y te sacies en los pechos consoladores; para que puedas beber profundamente, y se deleite con la abundancia de su gloria”. ^12^ Porque Yahvé dice: “He aquí que yo extiendo la paz hacia ella como un río, y la gloria de las naciones como un arroyo desbordado, y tú amamantarás. Te llevarán a su lado, y se le colgará de las rodillas. ^d^ ^e^ ^f^ ^13^ Como quien consuela a su madre, así que te consolaré. Serás consolado en Jerusalén”. ^14^ Lo verás y tu corazón se alegrará, y tus huesos florecerán como la hierba tierna. La mano de Yahvé será conocida entre sus siervos; y tendrá indignación contra sus enemigos.
+^a^[**66:10** Sal 122,6] ^b^[**66:10** Sal 122,6] ^c^[**66:10** Sal 122,6] ^d^[**66:12** Is 60,4] ^e^[**66:12** Is 60,4] ^f^[**66:12** Is 60,4]
+
+
+
+
 
 ## El juicio sobre los contaminados por seres paganos; Regreso al hogar del pueblo de Dios disperso; tormento eterno del apóstata
 ^15^ Porque he aquí que Yahvé vendrá con fuego, y sus carros serán como un torbellino; para rendir su ira con fiereza, y su reprimenda con llamas de fuego. ^16^ Porque Yahvé ejecutará el juicio con fuego y con su espada sobre toda carne; y los muertos por Yahvé serán muchos. 
 
-^17^ “Los que se santiguan y se purifican para ir a los jardines, siguiendo a uno en medio, comiendo carne de cerdo, cosas abominables y el ratón, acabarán juntos”, dice Yahvé. ^a^ 
-^a^[**66:17** Is 65,4-5]
+^17^ “Los que se santiguan y se purifican para ir a los jardines, siguiendo a uno en medio, comiendo carne de cerdo, cosas abominables y el ratón, acabarán juntos”, dice Yahvé. ^a^ ^b^ ^c^ 
+^a^[**66:17** Is 65,4-5] ^b^[**66:17** Is 65,4-5] ^c^[**66:17** Is 65,4-5]
 
 ^18^ “Porque yo conozco sus obras y sus pensamientos. Llega el momento en que reuniré a todas las naciones y lenguas, y vendrán y verán mi gloria. 
 
-^19^ “Pondré una señal entre ellos, y enviaré a los que escapen de ellos a las naciones, a Tarsis, Pul y Lud, que tensan el arco, a Tubal y Javán, a islas lejanas, que no han oído mi fama ni han visto mi gloria; y ellos anunciarán mi gloria entre las naciones. ^20^ Traerán a todos tus hermanos de todas las naciones como ofrenda a Yavé, en caballos, en carros, en literas, en mulos y en camellos, a mi santo monte de Jerusalén, dice Yavé, como los hijos de Israel traen su ofrenda en vasija limpia a la casa de Yavé. ^a^ ^21^ De ellos seleccionaré también a los sacerdotes y a los levitas, dice el Señor. ^b^ 
-^a^[**66:20** Is 60,3-7] ^b^[**66:21** Is 61,6]
+^19^ “Pondré una señal entre ellos, y enviaré a los que escapen de ellos a las naciones, a Tarsis, Pul y Lud, que tensan el arco, a Tubal y Javán, a islas lejanas, que no han oído mi fama ni han visto mi gloria; y ellos anunciarán mi gloria entre las naciones. ^20^ Traerán a todos tus hermanos de todas las naciones como ofrenda a Yavé, en caballos, en carros, en literas, en mulos y en camellos, a mi santo monte de Jerusalén, dice Yavé, como los hijos de Israel traen su ofrenda en vasija limpia a la casa de Yavé. ^a^ ^b^ ^c^ ^21^ De ellos seleccionaré también a los sacerdotes y a los levitas, dice el Señor. ^d^ ^e^ ^f^ 
+^a^[**66:20** Is 60,3-7] ^b^[**66:20** Is 60,3-7] ^c^[**66:20** Is 60,3-7] ^d^[**66:21** Is 61,6] ^e^[**66:21** Is 61,6] ^f^[**66:21** Is 61,6]
 
 ^22^ “Porque como los cielos nuevos y la tierra nueva que haré, permanecerán ante mí — dice el Señor —, así permanecerán tu descendencia y tu nombre. ^23^ Sucederá que de una luna nueva a otra, y de un sábado a otro, toda la carne vendrá a adorar ante mí”, dice Yahvé. ^24^ “Saldrán y mirarán los cadáveres de los hombres que han prevaricado contra mí; porque su gusano no morirá, ni se apagará su fuego, y serán repugnantes para toda la humanidad.” 
