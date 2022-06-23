@@ -310,8 +310,8 @@
 		<BOOK bnumber="18" bshort="Job">Job</BOOK>
 		<BOOK bnumber="19" bshort="Sal">Salmos</BOOK>
 		<BOOK bnumber="20" bshort="Prov">Proverbios</BOOK>
-		<BOOK bnumber="21" bshort="Ecl">Ecclesiastés</BOOK>
-		<BOOK bnumber="22" bshort="Cant">Cantar de los Cantares</BOOK>
+		<BOOK bnumber="21" bshort="Ecl">Eclesiastés</BOOK>
+		<BOOK bnumber="22" bshort="Cant">Cantares</BOOK>
 		<BOOK bnumber="23" bshort="Is">Isaías</BOOK>
 		<BOOK bnumber="24" bshort="Jer">Jeremías</BOOK>
 		<BOOK bnumber="25" bshort="Lam">Lamentaciones</BOOK>
@@ -326,7 +326,7 @@
 		<BOOK bnumber="34" bshort="Nah">Nahún</BOOK>
 		<BOOK bnumber="35" bshort="Hab">Habacuc</BOOK>
 		<BOOK bnumber="36" bshort="Sof">Sofonías</BOOK>
-		<BOOK bnumber="37" bshort="Ag">Ageo</BOOK>
+		<BOOK bnumber="37" bshort="Hag">Hageo</BOOK>
 		<BOOK bnumber="38" bshort="Zac">Zacarías</BOOK>
 		<BOOK bnumber="39" bshort="Mal">Malaquías</BOOK>
 		<BOOK bnumber="40" bshort="Mat">Mateo</BOOK>
@@ -335,14 +335,14 @@
 		<BOOK bnumber="43" bshort="Juan">Juan</BOOK>
 		<BOOK bnumber="44" bshort="Hech">Hechos</BOOK>
 		<BOOK bnumber="45" bshort="Rom">Romanos</BOOK>
-		<BOOK bnumber="46" bshort="1Cor">1 Corinthios</BOOK>
-		<BOOK bnumber="47" bshort="2Cor">2 Corinthios</BOOK>
+		<BOOK bnumber="46" bshort="1Cor">1 Corintios</BOOK>
+		<BOOK bnumber="47" bshort="2Cor">2 Corintios</BOOK>
 		<BOOK bnumber="48" bshort="Gal">Gálatas</BOOK>
 		<BOOK bnumber="49" bshort="Efes">Efesios</BOOK>
 		<BOOK bnumber="50" bshort="Fil">Filipenses</BOOK>
 		<BOOK bnumber="51" bshort="Col">Colosenses</BOOK>
-		<BOOK bnumber="52" bshort="1Tes">1 Tessalonicenses</BOOK>
-		<BOOK bnumber="53" bshort="2Tes">2 Tessalonicenses</BOOK>
+		<BOOK bnumber="52" bshort="1Tes">1 Tesalonicenses</BOOK>
+		<BOOK bnumber="53" bshort="2Tes">2 Tesalonicenses</BOOK>
 		<BOOK bnumber="54" bshort="1Tim">1 Timoteo</BOOK>
 		<BOOK bnumber="55" bshort="2Tim">2 Timoteo</BOOK>
 		<BOOK bnumber="56" bshort="Tit">Tito</BOOK>
@@ -356,18 +356,18 @@
 		<BOOK bnumber="64" bshort="3Jn">3 Juan</BOOK>
 		<BOOK bnumber="65" bshort="Jds">Judas</BOOK>
 		<BOOK bnumber="66" bshort="Apoc">Apocalipsis</BOOK>
-		<BOOK bnumber="67" bshort="Jdt">Judith</BOOK>
-		<BOOK bnumber="68" bshort="Wis">Wisdom</BOOK>
+		<BOOK bnumber="67" bshort="Jdt">Judit</BOOK>
+		<BOOK bnumber="68" bshort="Wis">Sabiduría</BOOK>
 		<BOOK bnumber="69" bshort="Tob">Tobit</BOOK>
-		<BOOK bnumber="70" bshort="Sir">Sirach</BOOK>
-		<BOOK bnumber="71" bshort="Bar">Baruch</BOOK>
-		<BOOK bnumber="72" bshort="1Macc">1 Maccabees</BOOK>
-		<BOOK bnumber="73" bshort="2Macc">2 Maccabees</BOOK>
-		<BOOK bnumber="74" bshort="AddDan">AddDan</BOOK>
-		<BOOK bnumber="75" bshort="AddEsth">AddEsth</BOOK>
-		<BOOK bnumber="76" bshort="PrMan">Manassse</BOOK>
-		<BOOK bnumber="77" bshort="3Macc">3 Maccabees</BOOK>
-		<BOOK bnumber="78" bshort="4Macc">4 Maccabees</BOOK>
+		<BOOK bnumber="70" bshort="Sir">Sirácide</BOOK>
+		<BOOK bnumber="71" bshort="Bar">Baruc</BOOK>
+		<BOOK bnumber="72" bshort="1Macc">1 Macabeos</BOOK>
+		<BOOK bnumber="73" bshort="2Macc">2 Macabeos</BOOK>
+		<BOOK bnumber="74" bshort="AddDan">Daniel (griego)</BOOK>
+		<BOOK bnumber="75" bshort="AddEsth">Ester griega</BOOK>
+		<BOOK bnumber="76" bshort="PrMan">Manasés</BOOK>
+		<BOOK bnumber="77" bshort="3Macc">3 Macabeos</BOOK>
+		<BOOK bnumber="78" bshort="4Macc">4 Macabeos</BOOK>
 		<BOOK bnumber="79" bshort="EpJer">Letter of Jeremiah</BOOK>
 		<BOOK bnumber="80" bshort="1Esd">1 Esdras</BOOK>
 		<BOOK bnumber="81" bshort="2Esd">2 Esdras</BOOK>
@@ -378,7 +378,7 @@
 		<BOOK bnumber="86" bshort="Jub">Jubilees</BOOK>
 		<BOOK bnumber="87" bshort="Sus">Susanna</BOOK>
 		<BOOK bnumber="88" bshort="Bel">Bel and the Dragon</BOOK>
-		<BOOK bnumber="89" bshort="Ps151">Psalm 151</BOOK>
+		<BOOK bnumber="89" bshort="Ps151">Salmo 151</BOOK>
 	</ID>
 	<ID descr="lat1">
     	<AT>Vetus Testamentum</AT>

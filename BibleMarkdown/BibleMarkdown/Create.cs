@@ -92,7 +92,7 @@ namespace BibleMarkdown
 
 		static async Task CreateHtmlAsync(string mdfile, string htmlfile)
 		{
-			if (IsNewer(htmlfile, mdfile)) return;
+			if (IsNewer(htmlfile, mdfile) || TwoLanguage) return;
 
 			//var mdhtmlfile = Path.ChangeExtension(mdfile, ".html.md");
 
@@ -108,7 +108,7 @@ namespace BibleMarkdown
 
 		static void CreateEpub(string path, string mdfile, string epubfile)
 		{
-			if (IsNewer(epubfile, mdfile)) return;
+			if (IsNewer(epubfile, mdfile) || TwoLanguage) return;
 
 			var src = File.ReadAllText(mdfile);
 			string? book = Regex.Match(Path.GetFileNameWithoutExtension(mdfile), "^[0-9]*-?(?<name>.*?)$", RegexOptions.Singleline)?.Groups["name"]?.Value;
@@ -121,9 +121,18 @@ namespace BibleMarkdown
 			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
 
 			var namesfile = Path.Combine(path, "src", "bnames.xml");
-			var books = XElement.Load(File.Open(namesfile, FileMode.Open, FileAccess.Read))
-				.Elements("ID")
-				.SelectMany(x => x.Elements("BOOK"))
+			
+			if (!File.Exists(namesfile)) return;
+
+			XElement[] xmlbooks;
+			using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
+			{
+				xmlbooks = XElement.Load(stream)
+					.Elements("ID")
+					.SelectMany(x => x.Elements("BOOK"))
+					.ToArray();
+			}
+			var books = xmlbooks
 				.Select(x => new
 				{
 					Book = x.Value,
@@ -147,6 +156,107 @@ namespace BibleMarkdown
 			Log(epubfile);
 		}
 
+		static void CreateTwoLanguage(string path, string path1, string path2)
+		{
+			var namesfile = Path.Combine(path, "src", "bnames.xml");
+
+			if (!File.Exists(namesfile)) return;
+
+			XElement[] xmlbooks;
+			using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
+			{
+				xmlbooks = XElement.Load(stream)
+					.Elements("ID")
+					.SelectMany(x => x.Elements("BOOK"))
+					.ToArray();
+			}
+			var books = xmlbooks
+				.Select(x => new
+				{
+					Book = x.Value,
+					Abbreviation = (string)x.Attribute("bshort"),
+					Number = (int)x.Attribute("bnumber")
+				})
+				.OrderBy(b => b.Number)
+				.ToArray();
+			var leftfiles = Directory.EnumerateFiles(path1, "*.md").ToArray();
+			var rightfiles = Directory.EnumerateFiles(path2, "*.md").ToArray();
+			int bookno = 1;
+			var booknames = books.Where(b => b.Number == bookno);
+			string? leftbook = null, rightbook = null;
+			while (booknames.Any())
+			{
+				var leftfile = leftfiles.FirstOrDefault(f =>
+				{
+					var bn = booknames.FirstOrDefault(b =>
+						b.Book == Regex.Replace(Path.GetFileNameWithoutExtension(f), @"^[0-9]+(\.[0-9]+)?-", ""));
+					if (bn != null)
+					{
+						leftbook = bn.Book;
+						return true;
+					}
+					else
+					{
+						return false;
+					}
+				});
+				var rightfile = rightfiles.FirstOrDefault(f =>
+				{
+					var bn = booknames.FirstOrDefault(b =>
+						b.Book == Regex.Replace(Path.GetFileNameWithoutExtension(f), @"^[0-9]+(\.[0-9]+)?-", ""));
+					if (bn != null)
+					{
+						rightbook = bn.Book;
+						return true;
+					}
+					else
+					{
+						return false;
+					}
+				});
+
+				if (leftfile != null && rightfile != null)
+				{
+					var lefttext = File.ReadAllText(leftfile);
+					var righttext = File.ReadAllText(rightfile);
+
+					var leftm = Regex.Matches(lefttext, @"(^|\n)#[ \t]+(?<chapter>[0-9]+)[ \t]*\r?\n(?<text>.*?)(\r?\n#(?!#)|$)", RegexOptions.Singleline);
+
+					var text = new StringBuilder();
+					foreach (Match m in leftm)
+					{
+						var leftchaptertext = m.Groups["text"].Value;
+						int chapter = int.Parse(m.Groups["chapter"].Value);
+						var endverse = Regex.Matches(leftchaptertext, @"\^([0-9]+)\^")
+							.Select(m => int.Parse(m.Groups[1].Value))
+							.Max();
+						text.Append($@"# {chapter}{Environment.NewLine}\begin{{paracol}}{{2}}{Environment.NewLine}");
+						text.Append(leftchaptertext);
+						text.Append(@"\switchcolum");
+
+						var rightstart = new Location
+						{
+							Book = leftbook,
+							Chapter = chapter,
+							Verse = 0
+						};
+						var rightend = new Location
+						{
+							Book = leftbook,
+							Chapter = chapter,
+							Verse = endverse
+						};
+						rightstart = Verses.DualLanguage.Map(rightstart);
+						rightend = Verses.DualLanguage.Map(rightend);
+
+						var rightpart = new StringBuilder();
+
+						var ms = Regex.Matches(righttext, @"(^|\n)#[ \t]+(?<[0-9]+)");
+					}
+					booknames = books.Where(b => b.Number == bookno++);
+				}
+			}
+		}
 		static void CreateVerseStats(string path)
 		{
 			var sources = Directory.EnumerateFiles(path, "*.md")

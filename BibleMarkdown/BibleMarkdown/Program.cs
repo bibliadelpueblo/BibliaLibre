@@ -24,8 +24,9 @@ namespace BibleMarkdown
 		static bool LowercaseFirstWords = false;
 		static bool FromSource = false;
 		static bool Imported = false;
-		static string Language = null;
-		static string Replace = null;
+		static string? Language = null;
+		static string? Replace = null;
+		static bool TwoLanguage = false;
 
 		public struct Footnote
 		{
@@ -120,6 +121,7 @@ namespace BibleMarkdown
 				Verses.Paragraphs.Import(Path.Combine(srcpath, "paragraphsmap.md"));
 				Verses.Titles.Import(Path.Combine(srcpath, "titlesmap.md"));
 				Verses.Footnotes.Import(Path.Combine(srcpath, "footnotesmap.md"));
+				Verses.DualLanguage.Import(Path.Combine(srcpath, "duallanguagemap.md"));
 				ImportFromBibleEdit(srcpath);
 				ImportFromUSFM(path, srcpath);
 				ImportFromTXT(path, srcpath);
@@ -132,6 +134,14 @@ namespace BibleMarkdown
 			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
 		}
 
+		static void ProcessTwoLanguagesPath(string path, string path1, string path2)
+		{
+			ProcessPath(path1);
+			ProcessPath(path2);
+			CreateTwoLanguage(path, path1, path2);
+			var files = Directory.EnumerateFiles(path, "*.md");
+			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
+		}
 		static void InitPandoc()
 		{
 			if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows)) PandocInstance.SetPandocPath("pandoc.exe");
@@ -158,10 +168,22 @@ namespace BibleMarkdown
 			if (replacepos == -1) replacepos = Array.IndexOf(args, "-r");
 			if (replacepos >= 0 && replacepos + 1 < args.Length) Replace = args[replacepos + 1];
 
+			var twolangpos = Array.IndexOf(args, "-twolanguage");
+			if (twolangpos >= 0 && twolangpos + 2 < args.Length)
+			{
+				var left = args[twolangpos + 1];
+				var right = args[twolangpos + 2];
+				var p = Directory.GetCurrentDirectory();
+				ProcessTwoLanguagesPath(p, left, right);
+			}
 			var paths = args.ToList();
 			for (int i = 0; i < paths.Count; i++)
 			{
-				if (paths[i] == "-ln" || paths[i] == "-replace" || paths[i] == "-r")
+				if (paths[i] == "-twolanguage")
+				{
+					paths.RemoveAt(i); paths.RemoveAt(i); paths.RemoveAt(i); i--;
+				}
+				else if (paths[i] == "-ln" || paths[i] == "-replace" || paths[i] == "-r")
 				{
 					paths.RemoveAt(i); paths.RemoveAt(i); i--;
 				} else if (paths[i].StartsWith('-'))

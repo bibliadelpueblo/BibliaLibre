@@ -39,13 +39,42 @@ namespace BibleMarkdown
 					foreach (var source in sources)
 					{
 						var src = File.ReadAllText(source);
-						var bookm = Regex.Match(src, @"\\h\s+(.*?)$", RegexOptions.Multiline);
-						var book = bookm.Groups[1].Value.Trim();
+						var bookm = Regex.Matches(src, @"(\\h|\\toc1|\\toc2|\\toc3)\s+(.*?)$", RegexOptions.Multiline)
+							.Select(m => m.Groups[2].Value.Trim())
+							.OrderBy(b => b.Length)
+							.ThenBy(b => b.Count(ch => char.IsUpper(ch)))
+							.ToArray();
+						var book = bookm
+							.FirstOrDefault();
 
-						if (book == "")
+						var namesfile = Path.Combine(mdpath, "src", "bnames.xml");
+						var useNames = File.Exists(namesfile);
+
+						XElement[] xmlbooks = new XElement[0];
+
+						if (useNames) {
+							using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
+							{
+								xmlbooks = XElement.Load(stream)
+									.Elements("ID")
+									.SelectMany(x => x.Elements("BOOK"))
+									.ToArray();
+							}
+						}
+
+						var books = xmlbooks
+							.Select(x => new
+							{
+								Book = x.Value,
+								Abbreviation = (string)x.Attribute("bshort"),
+								Number = (int)x.Attribute("bnumber")
+							})
+							.ToArray();
+
+						if (useNames)
 						{
-							bookm = Regex.Match(src, @"\\toc1\s+(.*?)$", RegexOptions.Multiline);
-							book = bookm.Groups[1].Value.Trim();
+							var book2 = books.FirstOrDefault(b => bookm.Any(bm => b.Book == bm));
+							if (book2 != null) bookno = book2.Number;
 						}
 
 						src = Regex.Match(src, @"\\c\s+[0-9]+.*", RegexOptions.Singleline).Value; // remove header that is not content of a chapter
@@ -96,7 +125,7 @@ namespace BibleMarkdown
 						src = Regex.Replace(src, @"\\\+?\w+(\*|\s*)?", ""); // remove usfm tags
 						src = Regex.Replace(src, @" +", " "); // remove multiple spaces
 						src = Regex.Replace(src, @"\^\[([0-9]+)[.:]([0-9]+)", "^[**$1:$2**"); // bold verse references in footnotes
-						src = Regex.Replace(src, @"\.(\w)", ". $1"); // Add space after dot
+						src = Regex.Replace(src, @"(\.|\?|!|;|:|,)(\w|“|¿|¡)", "$1 $2"); // Add space after dot
 						src = Regex.Replace(src, @"(?<!^|(r?\n\r?\n)|#)#(?!#)", $"{Environment.NewLine}#", RegexOptions.Singleline); // add blank line over title
 						if (LowercaseFirstWords) // needed for ReinaValera1909, it has uppercase words on every beginning of a chapter
 						{
@@ -105,6 +134,7 @@ namespace BibleMarkdown
 						}
 
 						src = Regex.Replace(src, @"\^[0-9]\^(?=\s*(\^[0-9]+\^|#|$))", "", RegexOptions.Singleline); // remove empty verses
+						src = Regex.Replace(src, @"(?<!\s|^)(\^[0-9]+\^)", " $1", RegexOptions.Singleline);
 
 						var md = Path.Combine(mdpath, $"{bookno:D2}-{book}.md");
 						bookno++;
@@ -122,6 +152,11 @@ namespace BibleMarkdown
 			var root = Path.Combine(srcpath, "bibleedit");
 			if (FromSource && Directory.Exists(root))
 			{
+				Console.WriteLine("Import from BibleEdit");
+
+				var oldfiles = Directory.EnumerateFiles(srcpath, "*.usfm");
+				foreach (var of in oldfiles) File.Delete(of);
+
 				var folders = Directory.EnumerateDirectories(root).ToArray();
 				if (folders.Length == 1) folders = Directory.EnumerateDirectories(Path.Combine(folders[0])).ToArray();
 
@@ -139,18 +174,35 @@ namespace BibleMarkdown
 				
 				foreach (string folder in folders)
 				{
-					var chapters = Directory.EnumerateDirectories(folder);
+					var chapters = Directory.EnumerateDirectories(folder).ToArray();
+					int i = 0;
+					chapters= chapters.OrderBy(f =>
+					{
+						var name = Path.GetFileName(f);
+						int n;
+						if (!int.TryParse(name, out n)) n = i;
+						i++;
+						return n;
+					})
+					.ToArray();
+
 					var files = chapters
 						.Select(ch => File.ReadAllText(Path.Combine(ch, "data")))
 						.ToArray();
 
-					var bookm = Regex.Match(files[0], @"\\h\s+(.*?)$", RegexOptions.Multiline);
-					var book = bookm.Groups[1].Value.Trim();
+					var bookm = Regex.Matches(files[0], @"(\\h|\\toc1|\\toc2|\\toc3)\s+(.*?)$", RegexOptions.Multiline)
+						.Select(m => m.Groups[2].Value.Trim())
+						.ToArray();
+					var bookxml = books
+						.Where(e => bookm.Any(b => string.Compare(e.Value, b, true) == 0))
+						.FirstOrDefault();
+					int index = fileno++;
+					string book = bookm.FirstOrDefault();
 
-					if (book == "")
+					if (bookxml != null)
 					{
-						bookm = Regex.Match(files[0], @"\\toc1\s+(.*?)$", RegexOptions.Multiline);
-						book = bookm.Groups[1].Value.Trim();
+						index = ((int)bookxml.Attribute("bnumber"));
+						book = bookxml.Value.Trim();
 					}
 
 					var txt = new StringBuilder();
@@ -159,12 +211,6 @@ namespace BibleMarkdown
 						txt.AppendLine(file);
 					}
 
-					var bookxml =	books
-						.Where(e=> string.Compare((string)e.Value, book, true) == 0)
-						.FirstOrDefault();
-					int index = fileno++;
-
-					if (bookxml != null) index = ((int)bookxml.Attribute("bnumber"));
 					var usfmfile = Path.Combine(srcpath, $"{index:d2}-{book}.usfm");
 					File.WriteAllText(usfmfile, txt.ToString());
 					Log(usfmfile);
@@ -350,7 +396,7 @@ namespace BibleMarkdown
 						File.SetLastWriteTimeUtc(srcfile, DateTime.Now);
 						var src = File.ReadAllText(srcfile);
 						var srcname = Path.GetFileName(srcfile);
-						string book = Regex.Replace(srcname, @"[0-9]+\.?[0-9]*-", "");
+						string book = Path.GetFileNameWithoutExtension(Regex.Replace(srcname, @"[0-9]+\.?[0-9]*-", ""));
 
 						var frmpartmatch = Regex.Match(frame, $@"(?<=(^|\n)# {srcname}\r?\n).*?(?=\n# |$)", RegexOptions.Singleline);
 						if (frmpartmatch.Success)
@@ -388,7 +434,7 @@ namespace BibleMarkdown
 							int chapter = 0;
 							int verse = 0;
 
-							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?).*?(?=\^[0-9]+\^|\s*#|\s*$)", m =>
+							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?)(?<empty>.*?)(?=\^[0-9]+\^|\s*#|\s*$)", m =>
 							{
 								var txt = m.Value;
 
@@ -442,7 +488,7 @@ namespace BibleMarkdown
 							verse = 0;
 							frames.Reset();
 							hasFrame = frames.MoveNext();
-							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?).*?(?=\^[0-9]+\^|\s*#|\s*$)", m =>
+							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?)(?<empty>.*?)(?=\^[0-9]+\^|\s*#|\s*$)", m =>
 							{
 								var txt = m.Value;
 
@@ -557,7 +603,7 @@ namespace BibleMarkdown
 							verse = 0;
 							frames.Reset();
 							hasFrame = frames.MoveNext();
-							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?).*?(?=\^[0-9]+\^|\s*#|\s*$)", m =>
+							src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?)(?<empty>.*?)(?=\^[0-9]+\^|\s*#|\s*$)", m =>
 							{
 								var txt = m.Value;
 
@@ -640,6 +686,7 @@ namespace BibleMarkdown
 			public static Verses Paragraphs = new Verses();
 			public static Verses Titles = new Verses();
 			public static Verses Footnotes = new Verses();
+			public static Verses DualLanguage = new Verses();
 
 			public Location Map(Location verse)
 			{

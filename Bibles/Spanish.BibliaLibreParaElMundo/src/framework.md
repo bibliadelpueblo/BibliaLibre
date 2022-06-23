@@ -1,4 +1,4 @@
-# 01-GÉNESIS.md
+# 01-Génesis.md
 ## 1
 ^0^ 
 ### La creación del mundo
@@ -465,7 +465,7 @@
 ^20^ ^a^ ^21^ ^a^[**50:20** Gén 45,5; Is 28,29] 
 ### La vejez y la muerte de José; su ultimo deseo
 ^24^ ^a^ 
-# 02-ÉXODO.md
+# 02-Éxodo.md
 ## 1
 ^0^ 
 ### Los hijos de Israel multiplicaron
@@ -808,7 +808,7 @@
 ^16^ \ ^33^ 
 ### La gloria del Señor se apodera de la morada
 
-# 03-LEVÍTICO.md
+# 03-Levítico.md
 ## 1
 ^0^ 
 ### Normas relativas a los holocaustos
@@ -1099,7 +1099,7 @@
 ^28^ ^a^ ^a^[**27:28** Núm 18,14; Núm 21,2] \ ^29^ ^a^ ^a^[**27:29** 1Sam 15,3; 1Sam 15,9] 
 ### Disposiciones relativas a los diezmos de frutas y ganado
 ^30^ ^a^ ^33^ ^a^[**27:30** Núm 18,21] \ 
-# 04-NÚMEROS.md
+# 04-Números.md
 ## 1
 ^0^ 
 ### Primer recuento de los hombres de guerra
@@ -1424,7 +1424,7 @@
 ^2^ ^a^ ^4^ ^a^[**36:2** Núm 26,55; Núm 27,6-7] 
 ### La nueva regulación de aplicación general sobre el matrimonio de reliquias
 ^9^ \ ^11^ ^a^ ^12^ ^a^[**36:11** Núm 26,33] \ 
-# 05-DEUTERONOMIO.md
+# 05-Deuteronomio.md
 ## 1
 ^0^ 
 ### Repaso de las experiencias en el desierto
@@ -1703,7 +1703,7 @@
 ^1^ ^a^ ^4^ ^a^[**34:1** Deut 3,27] \ ^5^ ^a^ ^6^ ^b^ ^8^ ^c^ ^9^ ^d^ ^a^[**34:5** Deut 32,50] ^b^[**34:6** Jds 1,9] ^c^[**34:8** Núm 20,29] ^d^[**34:9** Núm 27,18] 
 ### Valoración de la grandeza e importancia de Moisés
 
-# 06-JOSUÉ.md
+# 06-Josué.md
 ## 1
 ^0^ 
 ### La comisión de Dios de conquistar y animar a Josué; Preparativos para cruzar el Jordán
@@ -1896,7 +1896,7 @@
 ^18^ \ ^19^ ^a^ ^20^ ^a^[**24:19** Deut 5,26; Éxod 20,5] \ ^22^ \ ^23^ \ ^24^ \ ^25^ ^a^ ^26^ ^b^ ^27^ ^c^ ^28^ ^a^[**24:25** 2Re 23,3] ^b^[**24:26** Gén 35,4; Jue 9,6] ^c^[**24:27** Jos 22,27; Gén 31,48] 
 ### La muerte y el entierro de Josué; Entierro de los huesos de José; Muerte de Eleazar
 ^31^ ^a^ 
-# 07-JUECES.md
+# 07-Jueces.md
 ## 1
 ^0^ 
 ### Campañas y actos armados de los judíos en relación con los simeonitas
@@ -2079,7 +2079,7 @@
 ^2^ ^a^ ^3^ ^a^[**21:2** Jue 20,18] \ ^7^ ^a^ ^12^ ^a^[**21:7** Jue 21,1] \ ^13^ ^a^ ^14^ ^a^[**21:13** Jue 20,47] 
 ### El robo de las doncellas de Silo por los benjaminitas; La historia termina
 ^22^ \ 
-# 08-RUT.md
+# 08-Rut.md
 ## 1
 ^0^ 
 ### El destino de Noemí en la tierra de los moabitas
@@ -2106,7 +2106,7 @@
 ^4^ ^a^ ^a^[**4:4** Lev 25,25] \ ^5^ ^a^ ^a^[**4:5** Deut 25,5-6] \ ^6^ \ ^7^ ^a^ ^8^ ^a^[**4:7** Deut 25,7-10] \ ^10^ \ ^12^ 
 ### El matrimonio de Des Booz con Rut se completó y fue bendecido con el nacimiento de Obed; Índice de género de Pérez a David
 ^13^ ^a^ ^17^ ^a^[**4:13** Sal 127,3] \ ^18^ ^a^ ^19^ ^b^ 
-# 09-1 SAMUEL.md
+# 09-1 Samuel.md
 ## 1
 ^0^ 
 ### El nacimiento y ordenación de Samuel como siervo del Señor en Silo; Canción de alabanza de Hanna
@@ -2375,7 +2375,7 @@
 ^4^ ^a^ ^6^ ^a^[**31:4** Jue 9,54] \ ^7^ 
 ### El destino de los cadáveres de Saúl y sus hijos
 
-# 10-2 SAMUEL.md
+# 10-2 Samuel.md
 ## 1
 ^0^ 
 ### La queja de David por Saúl y Jonatán ante la noticia de sus muertes
@@ -2624,7 +2624,7 @@
 ^10^ \ ^12^ \ ^13^ ^a^ ^a^[**24:13** Jer 24,10; Jer 29,17; Ezeq 6,12] \ ^14^ \ ^16^ \ ^17^ 
 ### Montaje de un altar en la era de Arawnas; Fin de la plaga
 ^18^ \ ^21^ \ ^23^ \ 
-# 11-1 REYES.md
+# 11-1 Reyes.md
 ## 1
 ^0^ 
 ### La vejez de David; Abisag ordenó por Sunem cuidar al rey
@@ -2887,7 +2887,7 @@
 ^41^ ^a^ ^44^ ^b^ ^a^[**22:41** 1Re 15,24] ^b^[**22:44** 1Re 15,14; 2Re 12,4] \ ^47^ ^a^ ^50^ ^a^[**22:47** 1Re 15,12] \ ^51^ ^a^ ^a^[**22:51** 2Re 8,16] 
 ### Ochôzías, rey de Israel
 ^52^ ^a^ 
-# 12-2 REYES.md
+# 12-2 Reyes.md
 ## 1
 ^0^ 
 ### Elías anuncia la muerte del rey enfermo e idólatra Ochôzías
@@ -3158,7 +3158,7 @@
 ^24^ \ ^26^ 
 ### Jojachín indultado tras treinta y siete años de prisión
 
-# 13-1 CRÓNICAS.md
+# 13-1 Crónicas.md
 ## 1
 ^0^ 
 ### Los antepasados ​​hasta el diluvio
@@ -3451,7 +3451,7 @@
 ^20^ \ ^22^ ^a^ ^a^[**29:22** 1Cró 23,1] \ ^23^ ^a^ ^25^ ^b^ ^a^[**29:23** 1Cró 28,5; 1Re 1,35; 1Re 1,39] ^b^[**29:25** 2Cró 1,1] 
 ### El final de David y las fuentes de su historia
 
-# 14-2 CRÓNICAS.md
+# 14-2 Crónicas.md
 ## 1
 ^0^ 
 ### Acceso de Salomón al gobierno; su ejército y su riqueza
@@ -3782,7 +3782,7 @@
 ^21^ ^a^ ^a^[**36:21** Lev 26,34; Jer 25,8-11] 
 ### El permiso para regresar a casa del rey persa Ciro
 
-# 15-ESDRAS.md
+# 15-Esdras.md
 ## 1
 ^0^ 
 ### El permiso de Ciro para el regreso de los judíos restantes y para la construcción del templo
@@ -3861,7 +3861,7 @@
 ^4^ \ ^8^ \ ^9^ \ ^11^ \ ^14^ \ ^15^ \ ^17^ 
 ### Lista de sacerdotes, levitas y laicos que se casaron con mujeres extrañas
 ^18^ ^a^ ^43^ ^a^[**10:18** Esd 3,2; Esd 9,2] \ 
-# 16-NEHEMÍAS.md
+# 16-Nehemías.md
 ## 1
 ^0^ 
 ### Nehemías como copero del rey Artajerjes en Susa; su dolor por la desgracia de su país
@@ -3970,7 +3970,7 @@
 ^25^ ^a^ ^26^ ^b^ ^27^ ^a^[**13:25** Deut 7,3] ^b^[**13:26** 1Re 11,3-8] \ ^28^ ^a^ ^29^ ^a^[**13:28** Neh 11,10; Neh 2,19] 
 ### Fin del memorando
 
-# 17-ESTER.md
+# 17-Ester.md
 ## 1
 ^0^ 
 ### La fiesta del rey persa Assuero en Susa para los dignatarios y altos funcionarios de su imperio
@@ -4049,7 +4049,7 @@
 ^0^ 
 ### Posición de poder y servicios de Mardochai para el bienestar de los judíos
 
-# 18-JOB.md
+# 18-Job.md
 ## 1
 ^0^ 
 ### La piedad y la fortuna exterior de Job; su preocupación por el temor de Dios de sus hijos
@@ -4340,7 +4340,7 @@
 ^8^ \ ^9^ 
 ### Restauración y aumento del estado externo de felicidad de Job
 ^10^ ^a^ ^11^ ^a^[**42:10** Job 8,7] \ 
-# 19-SALMOS.md
+# 19-Salmos.md
 %!verse-paragraphs%
 ## 1
 ^0^ 
@@ -4982,7 +4982,7 @@
 ^0^ 
 ### ¡Todo lo que respira, alabado sea el Señor!
 
-# 20-PROVERBIOS.md
+# 20-Proverbios.md
 ## 1
 ^0^ 
 ### Indicación del propósito de las escrituras
@@ -5093,7 +5093,7 @@
 ^1^ \ ^3^ ^a^ ^4^ ^b^ ^8^ ^c^ ^9^ ^a^[**31:3** Deut 17,17; 1Re 11,1] ^b^[**31:4** Prov 20,1] ^c^[**31:8** Job 29,12; Job 29,15] 
 ### Alabado sea el ama de casa capaz
 ^24^ ^a^ ^25^ ^b^ 
-# 21-ECLESIASTÉS.md
+# 21-Eclesiastés.md
 ## 1
 ^0^ 
 ### La inutilidad de todo esfuerzo humano como resultado de la constante monotonía en el ciclo de las cosas
@@ -5188,7 +5188,7 @@
 ^7^ \ ^8^ ^a^ ^a^[**12:8** Ecl 1,2] \ ^9^ ^a^ ^11^ ^b^ ^a^[**12:9** 1Re 5,12] ^b^[**12:11** Heb 4,12] 
 ### Advertencia contra cavilaciones inútiles; Lista del resultado final
 ^12^ \ 
-# 22-CANTAR DE LOS CANTARES.md
+# 22-Cantares.md
 ## 1
 ^0^ 
 ### El diálogo interno de Sulammith y su anhelo de amor
@@ -5253,7 +5253,7 @@
 ^10^ 
 ### Canción de los dos viñedos
 
-# 23-ISAÍAS.md
+# 23-Isaías.md
 ## 1
 ^0^ 
 ### Queja y acusación, sermón de penitencia y amenaza de castigo
@@ -5840,7 +5840,7 @@
 ^9^ ^a^ ^a^[**66:9** Is 37,3] \ ^10^ ^a^ ^12^ ^b^ ^14^ ^a^[**66:10** Sal 122,6] ^b^[**66:12** Is 60,4] 
 ### El juicio sobre los contaminados por seres paganos; Regreso al hogar del pueblo de Dios disperso; tormento eterno del apóstata
 ^16^ \ ^17^ ^a^ ^a^[**66:17** Is 65,4-5] \ ^18^ \ ^20^ ^a^ ^21^ ^b^ ^a^[**66:20** Is 60,3-7] ^b^[**66:21** Is 61,6] \ 
-# 24-JEREMÍAS.md
+# 24-Jeremías.md
 ## 1
 ^0^ 
 ### Llamando al profeta
@@ -6373,7 +6373,7 @@
 ^28^ ^a^ ^30^ ^a^[**52:28** 2Re 24,11-16] 
 ### Jojachín indultado tras treinta y siete años de prisión
 
-# 25-LAMENTACIONES.md
+# 25-Lamentaciones.md
 ## 1
 ^0^ 
 ### Lamento la miseria de la ciudad
@@ -6410,7 +6410,7 @@
 ^16^ ^a^ ^18^ ^a^[**5:16** Jer 13,18] 
 ### Pide nueva gracia
 
-# 26-EZEQUIEL.md
+# 26-Ezequiel.md
 ## 1
 ^0^ 
 ### El llamamiento y ordenación de Ezequiel como profeta; la aparición de la gloria de Dios
@@ -6885,7 +6885,7 @@
 ^23^ \ ^24^ \ ^25^ \ ^26^ \ ^27^ \ ^28^ \ ^29^ 
 ### La ciudad santa, sus doce puertas, su perímetro y su nombre
 ^31^ ^a^ ^a^[**48:31** Apoc 21,12-13] \ ^32^ \ ^33^ \ ^34^ \ 
-# 27-DANIEL.md
+# 27-Daniel.md
 ## 1
 ^0^ 
 ### La crianza de Daniel en la corte pagana de Babilonia
@@ -7010,7 +7010,7 @@
 ^2^ ^a^ ^3^ ^b^ ^a^[**12:2** Juan 5,29] ^b^[**12:3** Mat 13,43; 1Cor 15,41-42] 
 ### Comisión del ángel a Daniel; Revelación sobre la duración del período de sufrimiento; y finalmente una promesa de salvación para Daniel
 ^4^ ^a^ ^a^[**12:4** Dan 12,9; Apoc 10,4] \ ^6^ \ ^7^ ^a^ ^a^[**12:7** Apoc 10,5-6; Dan 7,25] \ ^8^ \ ^10^ \ ^12^ \ 
-# 28-OSEAS.md
+# 28-Oseas.md
 ## 1
 ^0^ 
 ### La infidelidad de Israel a Dios representada visiblemente por el pacto matrimonial del profeta con una esposa infiel
@@ -7095,7 +7095,7 @@
 ^2^ ^a^ ^3^ ^b^ ^4^ ^a^[**14:2** Os 12,7; Zac 1,4] ^b^[**14:3** Heb 13,15] 
 ### La promesa de Dios de salvación
 
-# 29-JOEL.md
+# 29-Joel.md
 ## 1
 ^0^ 
 ### Llamado al lamento por la devastación causada por las langostas
@@ -7120,7 +7120,7 @@
 ^17^ 
 ### El tiempo de bendición para Judá
 
-# 30-AMÓS.md
+# 30-Amós.md
 ## 1
 ^0^ 
 ### Anuncio del juicio divino sobre las naciones
@@ -7203,7 +7203,7 @@
 ^10^ ^a^ ^12^ ^a^[**9:10** Am 6,3] 
 ### La gloria de la dispensación futura
 
-# 31-ABDÍAS.md
+# 31-Abdías.md
 ## 1
 ^0^ 
 ### Anuncio y ejecución segura del juicio divino sobre los edomitas
@@ -7212,7 +7212,7 @@
 ^10^ ^a^ ^14^ ^a^[**1:10** Jl 4,19] 
 ### El día del juicio para todas las naciones en el día del Señor; la futura grandeza del reino de Israel
 ^15^ ^a^ ^16^ ^b^ ^17^ ^c^ ^18^ ^d^ ^a^[**1:15** Jl 1,15; Jer 50,15; Jer 50,29] ^b^[**1:16** Jer 25,15] ^c^[**1:17** Jl 3,5; Jl 4,17] ^d^[**1:18** Zac 12,6] \ 
-# 32-JONÁS.md
+# 32-Jonás.md
 ## 1
 ^0^ 
 ### El llamado, la desobediencia y el castigo de Jonás
@@ -7229,20 +7229,20 @@
 ^0^ 
 ### Jonás disgusto y reprensión
 ^2^ ^a^ ^3^ ^b^ ^a^[**4:2** Éxod 34,6] ^b^[**4:3** 1Re 19,4] \ ^4^ ^a^ ^a^[**4:4** Jon 4,9] \ ^8^ \ ^9^ \ 
-# 33-MIQUEAS.md
+# 33-Miqueas.md
 ## 1
 ^0^ 
 ### La venida de Dios al juicio de los gentiles, así como de Israel y Judá
 ^1^ ^a^ ^3^ ^b^ ^5^ ^a^[**1:1** Jer 26,18; Is 1,1] ^b^[**1:3** Am 4,13] 
 ### Anuncio de la caída de Samaria
 ^7^ ^a^ ^a^[**1:7** Os 2,7; Os 2,14] 
-### La denuncia de Micha sobre un tribunal penal que se acerca a través de un enemigo abrumador
+### La denuncia de Miqueas sobre un tribunal penal que se acerca a través de un enemigo abrumador
 
 ## 2
 ^0^ 
 ### Amenaza a los grandes ricos y violentos y a los oponentes del Profeta
 ^1^ ^a^ ^5^ ^a^[**2:1** Sal 36,5] 
-### El argumento de Micha con sus oponentes, los líderes del pueblo
+### El argumento de Miqueas con sus oponentes, los líderes del pueblo
 ^6^ ^a^ ^7^ ^b^ ^11^ ^a^[**2:6** Am 7,16] ^b^[**2:7** Am 6,3] 
 ### Reunir y liberar al resto de Israel
 ^13^ ^a^ ^a^[**2:13** Is 52,12] 
@@ -7250,7 +7250,7 @@
 ^0^ 
 ### Acusaciones y amenazas de Miqueas contra los líderes violentos del pueblo y los falsos profetas
 ^4^ 
-### Amenaza para los profetas de la luna de miel en contraste con Micha, el profeta lleno del espíritu de Dios
+### Amenaza para los profetas de la luna de miel en contraste con Miqueas, el profeta lleno del espíritu de Dios
 ^8^ ^a^ ^a^[**3:8** Is 58,1] 
 ### Anuncio de la caída de Jerusalén
 ^11^ ^a^ ^12^ ^b^ ^a^[**3:11** Jer 7,4] ^b^[**3:12** Jer 9,10; Jer 26,18] 
@@ -7290,7 +7290,7 @@
 ^14^ ^a^ ^17^ ^b^ ^a^[**7:14** Miq 5,3; Núm 23,9] ^b^[**7:17** Is 49,23] 
 ### Confesión de confianza en la gracia de Dios
 ^18^ ^a^ 
-# 34-NAHUM.md
+# 34-Nahum.md
 ## 1
 ^0^ 
 ### El Señor, Dios de venganza y gracia, aparece en el juicio de Nínive
@@ -7309,7 +7309,7 @@
 ^8^ ^a^ ^11^ ^b^ ^13^ ^a^[**3:8** Jer 46,25] ^b^[**3:11** Jer 25,15] \ ^17^ 
 ### Un canto fúnebre en Nínive
 
-# 35-HABACUC.md
+# 35-Habacuc.md
 ## 1
 ^0^ 
 ### El lamento del Profeta por las pésimas condiciones de su tiempo y la depravación de su pueblo
@@ -7330,7 +7330,7 @@
 ^1^ \ ^2^ \ ^6^ ^a^ ^11^ ^b^ ^15^ ^a^[**3:6** Sal 104,32] ^b^[**3:11** Jos 10,13] 
 ### Efecto aterrador y al mismo tiempo alentador de la aparición de Dios en el profeta
 ^16^ \ ^18^ ^a^ 
-# 36-SOFONÍAS.md
+# 36-Sofonías.md
 ## 1
 ^0^ 
 ### Anuncio del juicio destructivo sobre todo el mundo de las naciones y especialmente sobre Judá
@@ -7351,7 +7351,7 @@
 ^8^ ^a^ ^a^[**3:8** Jl 4,2; Sal 79,6] \ ^12^ ^a^ ^13^ ^a^[**3:12** Ezeq 6,8] 
 ### Llamando a Jerusalén a alabar por su salvación
 ^17^ ^a^ 
-# 37-HAGEO.md
+# 37-Hageo.md
 ## 1
 ^0^ 
 ### La invitación a construir el templo junto con una indicación de su éxito
@@ -7366,7 +7366,7 @@
 ^16^ ^a^ ^17^ ^b^ ^19^ ^a^[**2:16** Ag 1,6] ^b^[**2:17** Ag 1,11] 
 ### La caída de los reinos paganos y la promesa de la exaltación de Zorobabel
 
-# 38-ZACARÍAS.md
+# 38-Zacarías.md
 ## 1
 ^0^ 
 ### La penitencia introductoria
@@ -7469,7 +7469,7 @@
 ^16^ ^a^ ^19^ ^a^[**14:16** Zac 14,9] 
 ### En Judá y Jerusalén, incluso los objetos de uso más comunes serán santificados
 
-# 39-MALAQUÍAS.md
+# 39-Malaquías.md
 ## 1
 ^0^ 
 ### El amor de Dios por Israel en contraste con su trato al pueblo hermano de Edom
@@ -7494,7 +7494,7 @@
 ^3^ 
 ### Advertencia final y promesa de la misión del profeta Elías
 ^4^ \ 
-# 55-SAN MATEO.md
+# 40-Mateo.md
 ## 1
 ^0^ 
 ### Árbol genealógico de Jesús como descendiente de Abraham y David
@@ -7839,7 +7839,7 @@
 ^15^ 
 ### Jesús apareció en la montaña de Galilea; su último mandato a los once discípulos
 ^18^ ^a^ ^19^ ^b^ 
-# 56-SAN MARCOS.md
+# 41-Marcos.md
 ## 1
 ^0^ 
 ### Aparición y eficacia de Juan el Bautista
@@ -8054,7 +8054,7 @@
 ^15^ ^a^ ^16^ ^b^ ^17^ ^c^ ^18^ ^d^ ^a^[**16:15** Mar 13,10; Mat 28,18-20] ^b^[**16:16** Hech 2,38; Hech 16,31; Hech 16,33] ^c^[**16:17** Hech 16,18; Hech 10,46; Hech 19,6] ^d^[**16:18** Luc 10,19; Hech 28,3-6; Sant 5,14; Sant 1,5-15] 
 ### Ascensión de Jesús
 ^19^ ^a^ 
-# 57-SAN LUCAS.md
+# 42-Lucas.md
 ## 1
 ^0^ 
 ### Introducción
@@ -8391,7 +8391,7 @@
 ^36^ \ ^37^ \ ^40^ ^a^ ^41^ ^a^[**24:40** Juan 20,20] \ ^44^ ^a^ ^a^[**24:44** Luc 9,22; Luc 18,31-33] \ ^45^ ^a^ ^46^ ^b^ ^47^ ^c^ ^49^ ^d^ ^a^[**24:45** Luc 9,45] ^b^[**24:46** Os 6,2; Juan 12,16] ^c^[**24:47** Hech 2,38; Hech 17,30] ^d^[**24:49** Juan 15,26; Juan 16,7; Hech 2,1-4] 
 ### Ascensión de jesús
 
-# 58-SAN JUAN.md
+# 43-Juan.md
 ## 1
 ^0^ 
 ### Jesús como el “Verbo” hecho hombre
@@ -8598,7 +8598,7 @@
 ^3^ \ ^4^ ^a^ ^5^ ^b^ ^a^[**21:4** Juan 20,14; Luc 24,16] ^b^[**21:5** Luc 24,41] \ ^6^ ^a^ ^a^[**21:6** Luc 5,4-7] \ ^7^ ^a^ ^a^[**21:7** Juan 13,23] \ ^10^ \ ^11^ \ ^12^ \ ^13^ ^a^ ^14^ ^a^[**21:13** Juan 6,11] 
 ### Trus reinstalado en su cargo pastoral; Profecía sobre el fin de la vida de Pedro y el discípulo amado
 ^15^ \ ^16^ ^a^ ^a^[**21:16** 1Pe 5,2; 1Pe 5,4] \ ^17^ ^a^ ^a^[**21:17** Juan 13,38; Juan 16,30] \ ^18^ \ ^19^ ^a^ ^a^[**21:19** Juan 13,36] \ ^20^ ^a^ ^21^ ^a^[**21:20** Juan 13,23; Juan 13,25] \ ^23^ \ ^24^ ^a^ 
-# 59-HECHOS.md
+# 44-Hechos.md
 ## 1
 ^0^ 
 ### Las ordenanzas finales de Jesús y su promesa a los discípulos; Ascensión
@@ -8865,7 +8865,7 @@
 ^17^ ^a^ ^19^ ^b^ ^20^ ^c^ ^a^[**28:17** Hech 23,1] ^b^[**28:19** Hech 25,11] ^c^[**28:20** Hech 26,6-7] \ ^22^ ^a^ ^a^[**28:22** Hech 24,14; Luc 2,34] \ ^27^ \ ^28^ \ ^29^ 
 ### El ministerio de dos años de Pablo en cautiverio en Roma
 
-# 60-ROMANOS.md
+# 45-Romanos.md
 ## 1
 ^0^ 
 ### Nombre del remitente y destinatario de la carta y bendición apostólica a la congregación
@@ -9014,7 +9014,7 @@
 ^17^ ^a^ ^18^ ^b^ ^19^ ^c^ ^20^ ^a^[**16:17** Mat 7,15; Tit 3,10; 2Tes 3,6] ^b^[**16:18** Fil 3,19; Col 2,4] ^c^[**16:19** Rom 1,8; 1Cor 14,20] 
 ### Saludos de los amigos de Pablo a Roma y finalmente alabanza a Dios
 ^23^ ^a^ 
-# 61-1 CORINTIOS.md
+# 46-1 Corintios.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9175,7 +9175,7 @@
 ^5^ ^a^ ^8^ ^b^ ^9^ ^c^ ^a^[**16:5** Hech 19,21] ^b^[**16:8** Hech 19,1; Hech 19,10] ^c^[**16:9** 2Cor 2,12; Col 4,3] \ ^10^ ^a^ ^11^ ^a^[**16:10** 1Cor 4,17; Fil 2,19-22] \ ^12^ 
 ### Advertencias finales, recomendaciones personales, saludos y bendiciones
 ^13^ ^a^ ^14^ ^a^[**16:13** Efes 6,10] \ ^16^ ^a^ ^18^ ^a^[**16:16** Fil 2,29] \ ^19^ ^a^ ^20^ ^a^[**16:19** Hech 18,2; Rom 16,3; Rom 16,5] \ 
-# 62-2 CORINTIOS.md
+# 47-2 Corintios.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9284,7 +9284,7 @@
 ^1^ ^a^ ^4^ ^a^[**13:1** 2Cor 10,2; Mat 18,16] \ ^6^ \ ^10^ 
 ### Advertencias finales, saludos y bendiciones
 ^11^ ^a^ ^12^ ^a^[**13:11** Rom 15,33; Fil 4,4] \ 
-# 63-GÁLATAS.md
+# 48-Gálatas.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9349,7 +9349,7 @@
 ^13^ 
 ### Confesión final personal; Bendición
 ^14^ ^a^ ^15^ ^b^ ^16^ ^c^ ^a^[**6:14** 1Cor 1,31; 1Cor 2,2] ^b^[**6:15** Gal 5,6; 1Cor 7,19; 2Cor 5,17] ^c^[**6:16** Sal 125,5; Fil 3,16] \ ^17^ ^a^ ^a^[**6:17** 2Cor 4,10] \ 
-# 64-EFESIOS.md
+# 49-Efesios.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9398,7 +9398,7 @@
 ^10^ ^a^ ^14^ ^b^ ^17^ ^c^ ^20^ ^d^ ^a^[**6:10** Efes 3,16; 1Cor 16,13; 1Jn 2,14; 2Tim 2,1] ^b^[**6:14** Luc 12,35; 1Tes 5,8; 1Pe 1,13] ^c^[**6:17** 1Tes 5,8; Heb 4,12] ^d^[**6:20** Hech 28,31; 2Cor 5,20] 
 ### Anuncio de la misión de Tíquico; Bendición
 ^21^ ^a^ ^22^ ^a^[**6:21** Hech 20,4; 2Tim 4,12; Tit 3,12; Col 4,7-8] \ 
-# 65-FILIPENSES.md
+# 50-Filipenses.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9435,7 +9435,7 @@
 ^12^ ^a^ ^13^ ^b^ ^15^ ^c^ ^20^ ^a^[**4:12** 2Cor 6,10] ^b^[**4:13** 2Cor 12,10] ^c^[**4:15** 2Cor 11,9] 
 ### Conclusión: saludos y bendición
 ^22^ ^a^ ^a^[**4:22** Fil 1,13] \ 
-# 66-COLOSENSES.md
+# 51-Colosenses.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9476,7 +9476,7 @@
 ^2^ ^a^ ^3^ ^b^ ^4^ ^a^[**4:2** Rom 12,12; 1Tes 5,17] ^b^[**4:3** Col 1,26-27; Rom 15,30; 1Cor 16,9; Efes 6,19; 2Tes 3,1] \ ^5^ ^a^ ^6^ ^b^ ^a^[**4:5** Efes 5,15-16; 1Tes 4,12] ^b^[**4:6** Mar 9,50; Efes 4,29] 
 ### Personal (la misión de Tíquico y Onésimo) y el final de las letras; Saludos y bendiciones
 ^8^ ^a^ ^9^ ^b^ ^a^[**4:8** Efes 6,21-22] ^b^[**4:9** Filem 1,10] \ ^10^ ^a^ ^11^ ^a^[**4:10** Hech 12,12; Hech 12,25; Hech 16,29; Hech 27,2] \ ^13^ ^a^ ^14^ ^b^ ^17^ ^c^ ^a^[**4:13** Apoc 1,11; Apoc 3,14] ^b^[**4:14** 2Tim 4,10-11; Filem 1,24] ^c^[**4:17** Filem 1,2] \ 
-# 67-1 TESALONICENSES.md
+# 52-1 Tesalonicenses.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9517,7 +9517,7 @@
 ^23^ \ ^24^ ^a^ ^a^[**5:24** 1Cor 1,9; 2Tes 3,3] 
 ### Fin de la carta; Paz y bendiciones
 ^25^ \ ^27^ \ 
-# 68-2 TESALONICENSES.md
+# 53-2 Tesalonicenses.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9540,7 +9540,7 @@
 ^6^ ^a^ ^7^ ^b^ ^8^ ^c^ ^9^ ^d^ ^10^ ^e^ ^12^ ^a^[**3:6** 2Tes 2,15; Mat 18,17; Rom 16,17] ^b^[**3:7** 1Tes 1,6] ^c^[**3:8** 1Tes 2,9] ^d^[**3:9** Hech 20,35; Fil 3,17; Mat 10,10] ^e^[**3:10** Gén 3,19; Éxod 20,9] \ ^13^ ^a^ ^15^ ^a^[**3:13** Gal 6,9] \ ^16^ ^a^ ^a^[**3:16** Juan 14,27] 
 ### Saludo personal y bendición de Pablo
 
-# 69-1 TIMOTEO.md
+# 54-1 Timoteo.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9597,7 +9597,7 @@
 ^17^ ^a^ ^19^ ^b^ ^a^[**6:17** Sal 62,11; Luc 12,15-21] ^b^[**6:19** Mat 6,20; Luc 16,9] 
 ### Advertencia final contra la herejía
 ^20^ ^a^ 
-# 70-2 TIMOTEO.md
+# 55-2 Timoteo.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9632,7 +9632,7 @@
 ^6^ ^a^ ^7^ ^b^ ^8^ ^c^ ^a^[**4:6** Fil 2,17] ^b^[**4:7** Hech 20,24; 1Cor 9,25; Fil 3,14; 1Tim 6,12] ^c^[**4:8** 2Tim 2,5; Mat 25,21; 1Pe 5,4; Sant 1,12; Apoc 2,10] 
 ### Situación personal del apóstol, últimas órdenes, peticiones, mensajes, saludos y bendiciones
 ^9^ ^a^ ^10^ ^b^ ^11^ ^c^ ^12^ ^d^ ^14^ ^e^ ^15^ ^a^[**4:9** 2Tim 1,4] ^b^[**4:10** Col 4,7; Col 4,10; Col 4,14] ^c^[**4:11** Hech 15,37; Col 4,10] ^d^[**4:12** Efes 6,21] ^e^[**4:14** 1Tim 1,20] \ ^17^ ^a^ ^18^ ^a^[**4:17** Hech 23,11; Hech 27,23] \ ^20^ ^a^ ^21^ ^a^[**4:20** Hech 19,22; Hech 20,4; 2Tim 1,16] \ 
-# 71-TITO.md
+# 56-Tito.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9655,7 +9655,7 @@
 ^9^ ^a^ ^10^ ^b^ ^11^ ^c^ ^a^[**3:9** 1Tim 1,4; 1Tim 4,7; 2Tim 2,14] ^b^[**3:10** Mat 18,15-17; 2Jn 1,10] ^c^[**3:11** 1Tim 6,4-5] 
 ### Comentarios personales finales, últimos pedidos y saludos
 ^12^ ^a^ ^13^ ^b^ ^14^ ^c^ ^a^[**3:12** Efes 6,21] ^b^[**3:13** Hech 18,24; 1Cor 3,5-6] ^c^[**3:14** Tit 2,14; Mat 7,19] \ 
-# 72-FILEMÓN.md
+# 57-Filemón.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9666,7 +9666,7 @@
 ^10^ ^a^ ^14^ ^b^ ^20^ ^a^[**1:10** Gal 4,19; 1Cor 4,15] ^b^[**1:14** 2Cor 9,7] 
 ### Cierre de cartas, anuncio de visita, saludos y bendiciones
 ^22^ ^a^ 
-# 73-HEBREOS.md
+# 58-Hebreos.md
 ## 1
 ^0^ 
 ### La soberanía única del Hijo de Dios sobre los mensajeros de Dios del Antiguo Testamento
@@ -9783,7 +9783,7 @@
 ^16^ \ ^17^ ^a^ ^a^[**13:17** 1Tes 5,12; Ezeq 3,17-19] \ ^18^ ^a^ ^19^ ^a^[**13:18** Rom 15,30; 2Cor 1,11-12] 
 ### Clausura de la carta, bendición, mensajes personales, saludos
 ^20^ ^a^ ^21^ ^a^[**13:20** Juan 10,12; 1Pe 2,25] \ ^23^ \ ^24^ \ 
-# 74-SANTIAGO.md
+# 59-Santiago.md
 ## 1
 ^0^ 
 ### Salutaciones y Bendiciones
@@ -9830,7 +9830,7 @@
 ^7^ ^a^ ^8^ ^a^[**5:7** Luc 21,19; Heb 10,36] \ ^11^ ^a^ ^a^[**5:11** Job 1,21; Job 42,10-16] 
 ### Advertencias finales sobre el juramento y la oración, sobre el comportamiento hacia la alegría y el dolor, en la enfermedad y contra los descarriados
 ^12^ ^a^ ^a^[**5:12** Mat 5,34-37] \ ^13^ ^a^ ^14^ ^b^ ^15^ ^c^ ^16^ ^d^ ^17^ ^e^ ^18^ ^f^ ^a^[**5:13** Sal 50,15; Col 3,16] ^b^[**5:14** Mar 6,13] ^c^[**5:15** Mar 16,18] ^d^[**5:16** Hech 12,5] ^e^[**5:17** 1Re 17,1; Luc 4,25] ^f^[**5:18** 1Re 18,41-45] \ ^19^ ^a^ 
-# 75-1 PEDRO.md
+# 60-1 Pedro.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9879,7 +9879,7 @@
 ^8^ ^a^ ^10^ ^b^ ^11^ ^a^[**5:8** 2Cor 2,11; 1Tes 5,6; Luc 22,31] ^b^[**5:10** 1Pe 1,6] 
 ### Fin de la carta; Saludos y bendiciones
 
-# 76-2 PEDRO.md
+# 61-2 Pedro.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9908,7 +9908,7 @@
 ^10^ ^a^ ^13^ ^a^[**3:10** 1Tes 5,23; Mat 24,29; Apoc 20,11] 
 ### Zusammenfassende Schlußmahnung mit Bezugnahme auf die Briefe des Paulus
 ^14^ ^a^ 
-# 77-1 JUAN.md
+# 62-1 Juan.md
 ## 1
 ^0^ 
 ### Contenido, fiabilidad y finalidad del mensaje apostólico de la palabra de vida
@@ -9957,7 +9957,7 @@
 ^13^ ^a^ ^a^[**5:13** Juan 20,31] \ ^14^ ^a^ ^15^ ^a^[**5:14** Juan 14,13] \ ^16^ ^a^ ^17^ ^a^[**5:16** Mar 3,20-30] 
 ### A través de la comunión con Dios y Jesús, el creyente está protegido del pecado y el sentido del mundo
 ^19^ ^a^ ^20^ ^b^ ^a^[**5:19** Gal 1,4] ^b^[**5:20** Juan 17,3] \ 
-# 78-2 JUAN.md
+# 63-2 Juan.md
 ## 1
 ^0^ 
 ### Bendiciones
@@ -9966,7 +9966,7 @@
 ^5^ ^a^ ^6^ ^a^[**1:5** 1Jn 2,7] \ ^8^ ^a^ ^9^ ^b^ ^10^ ^c^ ^11^ ^a^[**1:8** Gal 4,11] ^b^[**1:9** 1Jn 2,23] ^c^[**1:10** 2Tes 3,6] 
 ### Cierre de carta; saludos
 
-# 79-3 JUAN.md
+# 64-3 Juan.md
 ## 1
 ^0^ 
 ### Bendición para Gayo y reconocimiento a su caminar cristiano
@@ -9979,7 +9979,7 @@
 ^12^ 
 ### Cierre de carta; saludos
 
-# 80-JUDAS.md
+# 65-Judas.md
 ## 1
 ^0^ 
 ### Carta y bendición; Objeto y motivo de la redacción
@@ -9992,7 +9992,7 @@
 ^11^ ^a^ ^12^ ^b^ ^13^ ^c^ ^14^ ^d^ ^16^ ^a^[**1:11** Gén 4,-1; Núm 16,-1; Núm 31,16] ^b^[**1:12** 1Cor 11,21] ^c^[**1:13** Is 57,20] ^d^[**1:14** Gén 5,21] 
 ### Referencia al anuncio apostólico; Advertencias finales, especialmente con respecto al trato de los seducidos; Alabado sea Dios como el final de una carta
 ^18^ ^a^ ^19^ ^b^ ^a^[**1:18** 1Tim 4,1; 2Pe 3,3] ^b^[**1:19** 1Cor 2,14] \ ^20^ ^a^ ^23^ ^a^[**1:20** Col 2,7; 1Tes 5,11] \ 
-# 81-EL APOCALIPSIS.md
+# 66-Apocalipsis.md
 ## 1
 ^0^ 
 ### El título que indica el origen, el propósito y el significado de esta fuente
