@@ -7,7 +7,7 @@
 ^a^[**1:2** 1Re 22,52; Is 19,3]
 
 ^3^ Pero el ángel de Yahvé^a^ dijo a Elías tisbita: “Levántate, sube a recibir a los mensajeros del rey de Samaria y diles: ‘¿Es porque no hay un Dios^b^ en Israel que vas a consultar a Baal Zebub, el dios de Ecrón? ^c^ ^4^ Ahora, pues, Yahvé dice: “No bajarás del lecho al que has subido, sino que ciertamente morirás””. Entonces Elías partió. 
-^a^[**1: 3** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1: 3** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^c^[**1:3** Is 8,19]
+^a^[**1:3** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:3** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^c^[**1:3** Is 8,19]
 
 ^5^ Los mensajeros volvieron a él y les dijo: “¿Por qué habéis vuelto?”. 
 
@@ -20,7 +20,7 @@
 
 ## Elijah y los tres capitanes
 ^9^ Entonces el rey envió a un capitán de cincuenta con sus cincuenta a él. Subió hasta él; y he aquí que^a^ estaba sentado en la cima del monte. Le dijo: “Hombre de Dios, el rey ha dicho que bajes”. 
-^a^[**1: 9** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
+^a^[**1:9** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
 
 ^10^ Elías respondió al capitán de los cincuenta: “¡Si soy un hombre de Dios, que baje fuego del cielo y te consuma a ti y a tus cincuenta!” Entonces bajó fuego del cielo y lo consumió a él y a sus cincuenta. 
 
@@ -190,7 +190,7 @@
 ^4^ Alguien entró y se lo contó a su señor, diciendo: “La chica que es de la tierra de Israel dijo esto”. 
 
 ^5^ El rey de Siria dijo: “Ve ahora y enviaré una carta al rey de Israel”. Partió, y tomó consigo diez talentos^a^ de plata, seis mil piezas de oro y diez mudas de ropa. 
-^a^[**5: 5** Un talento son unos 30 kilogramos o 66 libras]
+^a^[**5:5** Un talento son unos 30 kilogramos o 66 libras]
 
 ^6^ Llevó la carta al rey de Israel, diciendo: “Cuando te llegue esta carta, he aquí que he enviado a mi siervo Naamán a ti, para que lo cures de su lepra.” 
 
@@ -222,7 +222,7 @@
 ^21^ Entonces Giezi siguió a Naamán. Cuando Naamán vio que uno corría detrás de él, bajó del carro a su encuentro y le dijo: “¿Está todo bien?”. 
 
 ^22^ Él dijo: “Todo está bien. Mi amo me ha enviado diciendo: ‘He aquí que ahora mismo han venido a mí, de la región montañosa de Efraín, dos jóvenes de los hijos de los profetas. Por favor, dales un talento^a^ de plata y dos mudas de ropa’”. 
-^a^[**5: 22** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**5:22** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^23^ Naamán dijo: “Tengan a bien tomar dos talentos”. Él lo instó, y ató dos talentos de plata en dos bolsas, con dos mudas de ropa, y se los puso a dos de sus siervos; y ellos los llevaron delante de él. ^24^ Cuando llegó al monte, se los quitó de las manos y los guardó en la casa. Luego dejó ir a los hombres y se marcharon. ^25^ Pero él entró y se puso delante de su amo. Eliseo le dijo: “¿De dónde vienes, Guejazi?” Dijo: “Su servidor no fue a ninguna parte”. 
 
@@ -571,7 +571,7 @@
 
 ## Menahem Rey de Israel
 ^17^ En el año treinta y nueve de Azarías, rey de Judá, Menahem, hijo de Gadi, comenzó a reinar sobre Israel durante diez años en Samaria. ^18^ Hizo lo que era malo a los ojos de Yavé. No se apartó en todos sus días de los pecados de Jeroboam hijo de Nabat, con los que hizo pecar a Israel. ^a^ ^19^ Pul, el rey de Asiria, vino contra el país, y Menahem le dio a Pul mil talentos^b^ de plata, para que su mano estuviera con él para confirmar el reino en su mano. ^20^ Menahem exigió el dinero a Israel, a todos los hombres poderosos y ricos, a cada uno cincuenta siclos^c^ de plata, para dárselos al rey de Asiria. Y el rey de Asiria se volvió, y no se quedó allí en la tierra. ^21^ El resto de los hechos de Menahem y todo lo que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Israel? ^22^ Menahem durmió con sus padres, y su hijo Pekaía reinó en su lugar.
-^a^[**15:18** 2Re 15,9] ^b^[**15: 19** Un talento equivale a unos 30 kilogramos o 66 libras, por lo que 1000 talentos son unas 30 toneladas métricas] ^c^[**15: 20** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 50 siclos eran unos 0, 5 kilogramos o 1, 1 libras.]
+^a^[**15:18** 2Re 15,9] ^b^[**15:19** Un talento equivale a unos 30 kilogramos o 66 libras, por lo que 1000 talentos son unas 30 toneladas métricas] ^c^[**15:20** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 50 siclos eran unos 0, 5 kilogramos o 1, 1 libras.]
 
 ## Pekaja, rey de Israel
 ^23^ En el año cincuenta de Azarías, rey de Judá, Pekaías, hijo de Menahem, comenzó a reinar sobre Israel en Samaria durante dos años. ^24^ Hizo lo que era malo a los ojos de Yavé. No se apartó de los pecados de Jeroboam hijo de Nabat, con los que hizo pecar a Israel. ^a^ ^25^ Peka, hijo de Remalías, su capitán, conspiró contra él y lo atacó en Samaria, en la fortaleza de la casa del rey, con Argob y Arieh; y con él había cincuenta hombres de los galaaditas. Lo mató y reinó en su lugar. ^b^ ^26^ El resto de los hechos de Pekahiah, y todo lo que hizo, están escritos en el libro de las crónicas de los reyes de Israel.
@@ -618,7 +618,7 @@
 ^24^ El rey de Asiria trajo gente de Babilonia, de Cuta, de Avva, de Hamat y de Sefarvaim, y los colocó en las ciudades de Samaria en lugar de los hijos de Israel; y se apoderaron de Samaria y vivieron en sus ciudades. ^25^ Así fue que, al principio de su permanencia allí, no temieron a Yavé. Por eso Yahvé envió leones entre ellos, que mataron a algunos de ellos. ^26^ Por eso hablaron con el rey de Asiria, diciendo: “Las naciones que has transportado y colocado en las ciudades de Samaria no conocen la ley del dios de la tierra. Por eso ha enviado leones entre ellos; y he aquí que los matan, porque no conocen la ley del dios de la tierra.” 
 
 ^27^ Entonces el rey de Asiria ordenó: “Lleva allí a uno de los sacerdotes que trajiste de allí, y que^a^ vaya y habite allí, y que les enseñe la ley del dios de la tierra.” 
-^a^[**17: 27** Hebreo: ellos]
+^a^[**17:27** Hebreo: ellos]
 
 ^28^ Entonces uno de los sacerdotes que habían llevado de Samaria vino y vivió en Betel, y les enseñó cómo debían temer a Yavé. 
 
@@ -638,7 +638,7 @@
 
 ## Ezequías envía sin éxito el tributo exigido por Senaquerib
 ^13^ En el año catorce del rey Ezequías, Senaquerib, rey de Asiria, subió contra todas las ciudades fortificadas de Judá y las tomó. ^14^ Ezequías, rey de Judá, envió al rey de Asiria a Laquis, diciendo: “Te he ofendido. Retírate de mí. Lo que me impongas, lo soportaré”. El rey de Asiria asignó a Ezequías, rey de Judá, trescientos talentos de plata y treinta talentos^a^ de oro. ^15^ Ezequías le dio toda la plata que se encontraba en la casa de Yavé y en los tesoros de la casa real. ^b^ ^16^ En aquel tiempo, Ezequías cortó el oro de las puertas del templo de Yavé y de las columnas que Ezequías, rey de Judá, había recubierto, y se lo dio al rey de Asiria.
-^a^[**18: 14** Un talento equivale a unos 30 kilogramos o 66 libras o 965 onzas troyanas] ^b^[**18:15** 2Re 16,8]
+^a^[**18:14** Un talento equivale a unos 30 kilogramos o 66 libras o 965 onzas troyanas] ^b^[**18:15** 2Re 16,8]
 
 ## Desde Laquis, Senaquerib hace que la ciudad de Jerusalén sea convocada desdeñosamente a rendirse por su gran visir
 ^17^ El rey de Asiria envió a Tartán, a Rabsaris y a Rabsaces desde Laquis al rey Ezequías con un gran ejército a Jerusalén. Subieron y llegaron a Jerusalén. Cuando subieron, vinieron y se pararon junto al conducto del estanque superior, que está en el camino del campo del batán. ^18^ Cuando llamaron al rey, salieron hacia ellos Eliaquim, hijo de Hilcías, que estaba al frente de la casa, y Sebnah, el escriba, y Joah, hijo de Asaf, el registrador. ^19^ Rabsaces les dijo: “Di ahora a Ezequías: “El gran rey, el rey de Asiria, dice: “¿Qué confianza es ésta en la que confías? ^20^ Ustedes dicen (pero no son más que palabras vanas): ‘Hay consejo y fuerza para la guerra’. Ahora bien, ¿en quién confían ustedes, que se han rebelado contra mí? ^21^ Ahora bien, he aquí que confiáis en el bastón de esta caña magullada, incluso en Egipto. Si un hombre se apoya en ella, se le meterá en la mano y la atravesará. Así es el Faraón, rey de Egipto, para todos los que confían en él. ^22^ Pero si me decís: “Confiamos en el Señor, nuestro Dios”, ¿no es aquel cuyos lugares altos y cuyos altares ha quitado Ezequías, y ha dicho a Judá y a Jerusalén: “Adoraréis ante este altar en Jerusalén”? ^23^ Ahora, pues, por favor, dad prendas a mi amo el rey de Asiria, y yo os daré dos mil caballos si sois capaces de poner jinetes en ellos. ^24^ ¿Cómo, pues, puedes rechazar el rostro de un capitán del más pequeño de los siervos de mi amo, y poner tu confianza en Egipto para carros y jinetes? ^25^ ¿Acaso he subido sin Yahvé contra este lugar para destruirlo? Yahvé me dijo: “Sube contra esta tierra y destrúyela””. 
@@ -769,7 +769,7 @@
 
 ## Actuar contra la idolatría en la vida privada; Persistencia de la ira divina contra Judá
 ^24^ Además, Josías eliminó a los que tenían espíritus familiares, a los magos y a los terafines,^a^ y a los ídolos, y todas las abominaciones que se veían en la tierra de Judá y en Jerusalén, para confirmar las palabras de la ley que estaban escritas en el libro que el sacerdote Hilcías encontró en la casa de Yavé. ^b^ ^25^ No hubo antes de él ningún rey que se convirtiera a Yavé con todo su corazón, con toda su alma y con todas sus fuerzas, según toda la ley de Moisés; y no hubo ninguno como él que se levantara después de él. ^c^ ^26^ Sin embargo, Yahvé no se apartó del ardor de su gran ira, con la que ardía su enojo contra Judá, a causa de toda la provocación con que Manasés lo había provocado. ^d^ ^27^ Yahvé dijo: “También quitaré a Judá de mi vista, como he quitado a Israel; y desecharé esta ciudad que he elegido, Jerusalén, y la casa de la que dije: ‘Mi nombre estará allí’.” ^e^ 
-^a^[**23: 24** Los terafines eran ídolos domésticos.] ^b^[**23:24** Lev 20,27; Deut 29,16-17] ^c^[**23:25** 2Re 18,5] ^d^[**23:26** 2Re 21,11-16] ^e^[**23:27** 2Re 17,18; 1Re 8,29]
+^a^[**23:24** Los terafines eran ídolos domésticos.] ^b^[**23:24** Lev 20,27; Deut 29,16-17] ^c^[**23:25** 2Re 18,5] ^d^[**23:26** 2Re 21,11-16] ^e^[**23:27** 2Re 17,18; 1Re 8,29]
 
 ## Palabra final; Necao de Egipto y la muerte de Josías
 ^28^ Los demás hechos de Josías, y todo lo que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Judá? ^29^ En sus días el faraón Necoh, rey de Egipto, subió contra el rey de Asiria hasta el río Éufrates; y el rey Josías fue contra él, pero el faraón Necoh lo mató en Meguido cuando lo vio. ^30^ Sus servidores lo llevaron muerto en un carro desde Meguido, lo trajeron a Jerusalén y lo enterraron en su propia tumba. El pueblo del país tomó a Joacaz, hijo de Josías, lo ungió y lo hizo rey en lugar de su padre. ^a^ 
@@ -777,7 +777,7 @@
 
 ## Los hijos de Josías y su nieto reyes de Judá; Joachâz
 ^31^ Joacaz tenía veintitrés años cuando comenzó a reinar, y reinó tres meses en Jerusalén. Su madre se llamaba Hamutal, hija de Jeremías de Libna. ^32^ Hizo lo que era malo a los ojos de Yavé, según todo lo que habían hecho sus padres. ^33^ El faraón Necoh lo puso en prisión en Ribla, en la tierra de Hamat, para que no reinara en Jerusalén, y le impuso un tributo de cien talentos de plata y un talento^a^ de oro. ^34^ El faraón Necoh hizo rey a Eliaquim, hijo de Josías, en lugar de Josías, su padre, y le cambió el nombre por el de Joacim; pero se llevó a Joacaz, que vino a Egipto y murió allí. ^35^ Joacim entregó la plata y el oro al faraón, pero gravó la tierra para dar el dinero según el mandato del faraón. Exigió la plata y el oro del pueblo de la tierra, a cada uno según su valoración, para dárselo al faraón Necó. ^b^ 
-^a^[**23: 33** Un talento es de unos 30 kilogramos o 66 libras o 965 onzas troyanas] ^b^[**23:35** 2Re 15,20]
+^a^[**23:33** Un talento es de unos 30 kilogramos o 66 libras o 965 onzas troyanas] ^b^[**23:35** 2Re 15,20]
 
 ## Joacim de Judá
 ^36^ Joacim tenía veinticinco años cuando comenzó a reinar, y reinó once años en Jerusalén. Su madre se llamaba Zebida, hija de Pedaías de Rumah. ^37^ Hizo lo que era malo a los ojos de Yahvé, según todo lo que habían hecho sus padres.
@@ -803,7 +803,7 @@
 ^8^ En el mes quinto, a los siete días del mes, que era el año decimonoveno del rey Nabucodonosor, rey de Babilonia, llegó a Jerusalén Nabuzaradán, capitán de la guardia, siervo del rey de Babilonia. ^9^ Quemó la casa de Yahvé, la casa del rey y todas las casas de Jerusalén. Quemó con fuego todas las casas grandes. ^10^ Todo el ejército de los caldeos, que estaba con el capitán de la guardia, derribó los muros alrededor de Jerusalén. ^11^ Nabuzaradán, el capitán de la guardia, se llevó cautivo al resto del pueblo que había quedado en la ciudad y a los que habían desertado al rey de Babilonia; todo el resto de la multitud. ^12^ Pero el capitán de la guardia dejó a algunos de los más pobres de la tierra para que trabajaran las viñas y los campos. 
 
 ^13^ Los caldeos rompieron las columnas de bronce que había en la casa de Yavé, así como las bases y el mar de bronce que había en la casa de Yavé, y llevaron los pedazos de bronce a Babilonia. ^14^ Se llevaron las ollas, las palas, los apagadores, las cucharas y todos los recipientes de bronce con los que servían. ^15^ El capitán de la guardia se llevó las sartenes para el fuego, las palanganas, lo que era de oro, por oro, y lo que era de plata, por plata. ^16^ Los dos pilares, el único mar y las bases, que Salomón había hecho para la casa de Yavé, el bronce de todos estos recipientes no se pesaba. ^a^ ^17^ La altura de la única columna era de dieciocho codos,^b^ y sobre ella había un capitel de bronce. La altura del capitel era de tres codos, con red y granadas en el capitel alrededor, todo de bronce; y la segunda columna con su red era como éstas. 
-^a^[**25:16** 1Re 7,15; 1Re 7,23; 1Re 7,27] ^b^[**25: 17** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**25:16** 1Re 7,15; 1Re 7,23; 1Re 7,27] ^b^[**25:17** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^18^ El capitán de la guardia tomó a Seraías, el sumo sacerdote, a Sofonías, el segundo sacerdote, y a los tres guardianes del umbral; ^19^ y de la ciudad tomó a un oficial que estaba al frente de los hombres de guerra, y a cinco hombres de los que habían visto la cara del rey, que se encontraban en la ciudad, y al escriba, al capitán del ejército que reunía al pueblo del país, y a sesenta hombres del pueblo del país que se encontraban en la ciudad. ^20^ Nabuzaradán, capitán de la guardia, los tomó y los llevó al rey de Babilonia, a Ribla. ^21^ El rey de Babilonia los atacó y los mató en Ribla, en la tierra de Hamat. Y Judá fue llevado cautivo fuera de su tierra. 
 

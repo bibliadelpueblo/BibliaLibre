@@ -272,7 +272,7 @@
 # 25
 ## Referencia al irresistible gobierno de Dios en las alturas y a la naturaleza pecaminosa e imperfección del hombre
 ^1^ Entonces Bildad el Suhita respondió, ^2^ “El dominio y el temor están con él. Él hace la paz en sus lugares altos. ^3^ ¿Se pueden contar sus ejércitos? ¿Sobre quién no surge su luz? ^4^ ¿Cómo puede entonces el hombre ser justo con Dios? ¿O cómo puede estar limpio el que ha nacido de una mujer? ^5^ He aquí que hasta la luna no tiene brillo, y las estrellas no son puras a su vista; ^f^ ^6^ Cuánto menos el hombre, que es un gusano, y el hijo del hombre, que es un gusano”. ^g^ 
-^a^[**23:10** Sal 17,3; Sal 139,23-24] ^b^[**24:10** Is 58,7] ^c^[**24:11** Sant 5,4] ^d^[**24:18** Gén 49,4] ^e^[**24: 19** El Seol es el lugar de los muertos.] ^f^[**25:5** Job 15,15] ^g^[**25:6** Job 4,19-20]
+^a^[**23:10** Sal 17,3; Sal 139,23-24] ^b^[**24:10** Is 58,7] ^c^[**24:11** Sant 5,4] ^d^[**24:18** Gén 49,4] ^e^[**24:19** El Seol es el lugar de los muertos.] ^f^[**25:5** Job 15,15] ^g^[**25:6** Job 4,19-20]
 
 # 26
 ## Manejo amargo del discurso de Bildad, que no contenía ni consuelo ni sabios consejos
@@ -280,7 +280,7 @@
 
 ## Job reconoce la inconmensurable majestad de Dios en una brillante descripción
 ^5^ “Los espíritus difuntos tiemblan, los que están debajo de las aguas y todos los que viven en ellas. ^6^ Sheol^a^ está desnudo ante Dios, y Abaddon^b^ no tiene cobertura. ^c^ ^7^ Extiende el norte sobre el espacio vacío, y cuelga la tierra en la nada. ^8^ Él ata las aguas en sus densas nubes, y la nube no está reventada bajo ellos. ^9^ Encierra la cara de su trono, y extiende su nube sobre ella. ^10^ Ha descrito un límite en la superficie de las aguas, y a los confines de la luz y la oscuridad. ^d^ ^11^ Las columnas del cielo tiemblany se asombran de su reprimenda. ^12^ Él agita el mar con su poder, y por su entendimiento golpea a través de Rahab. ^13^ Por su Espíritu se adornan los cielos. Su mano ha atravesado la serpiente veloz. ^14^ He aquí que éstos no son más que las afueras de sus caminos. ¡Qué pequeño es el susurro que oímos de él! Pero el trueno de su poder ¿quién puede entenderlo?”
-^a^[**26: 6** El Seol es el lugar de los muertos.] ^b^[**26: 6** Abadón significa Destructor.] ^c^[**26:6** Prov 15,11] ^d^[**26:10** Job 38,10-11; Prov 8,27-29]
+^a^[**26:6** El Seol es el lugar de los muertos.] ^b^[**26:6** Abadón significa Destructor.] ^c^[**26:6** Prov 15,11] ^d^[**26:10** Job 38,10-11; Prov 8,27-29]
 
 # 27
 ## Job declara que debe aferrarse a la convicción de su inocencia jurada para no convertirse en un mentiroso
@@ -300,14 +300,14 @@
 
 ## Pero la sabiduría, el bien más preciado, no se encuentra en ninguna parte de la creación
 ^12^ “Pero, ¿dónde se encontrará la sabiduría? ¿Dónde está el lugar del entendimiento? ^13^ El hombre no conoce su precio, y no se encuentra en la tierra de los vivos. ^14^ Lo profundo dice: “No está en mí”. El mar dice: “No está conmigo”. ^15^ No se puede conseguir por oro, tampoco se pesará la plata por su precio. ^a^ ^16^ No se puede valorar con el oro de Ofir, con el precioso ónix, o el zafiro. ^b^ ^c^ ^17^ El oro y el cristal no pueden igualarlo, ni se cambiará por joyas de oro fino. ^18^ No se mencionará el coral ni el cristal. Sí, el precio de la sabiduría está por encima de los rubíes. ^19^ El topacio de Etiopía no lo igualará. No se valorará con oro puro. ^d^ ^20^ ¿De dónde viene entonces la sabiduría? ¿Dónde está el lugar del entendimiento? ^21^ Verlo está oculto a los ojos de todos los vivos, y se mantuvo cerca de las aves del cielo. ^22^ La destrucción y la muerte dicen,‘Hemos oído el rumor con nuestros oídos’.
-^a^[**28:15** Prov 3,14-15; Prov 8,10-11] ^b^[**28: 16** o, lapislázuli] ^c^[**28:16** 1Re 9,28] ^d^[**28:19** Éxod 28,17]
+^a^[**28:15** Prov 3,14-15; Prov 8,10-11] ^b^[**28:16** o, lapislázuli] ^c^[**28:16** 1Re 9,28] ^d^[**28:19** Éxod 28,17]
 
 ## Solo Dios posee sabiduría y la ha ejercido en la creación del mundo; el hombre solo puede poseerlo como temor de Dios
 ^23^ “Dios entiende su camino, y conoce su lugar. ^24^ Porque mira hasta los confines de la tierra, y ve bajo todo el cielo. ^25^ Él establece la fuerza del viento. Sí, mide las aguas por medida. ^a^ ^26^ Cuando hizo un decreto para la lluvia, y un camino para el relámpago del trueno, ^27^ entonces lo vio y lo declaró. Lo estableció, sí, y lo buscó. ^28^ Al hombre le dijo, He aquí el temor del Señor,^b^ que es la sabiduría. Apartarse del mal es la comprensión’”.
 # 29
 ## Descripción de la bendición divina anterior
 ^1^ Job retomó su parábola y dijo ^2^ “Oh, si yo fuera como en los meses de antaño, como en los días en que Dios velaba por mí; ^3^ cuando su lámpara brilló sobre mi cabeza, y con su luz atravesé las tinieblas, ^c^ ^4^ como estaba en mi mejor momento, cuando la amistad de Dios estaba en mi tienda, ^d^ ^5^ cuando el Todopoderoso aún estaba conmigo, y mis hijos estaban a mi alrededor, ^6^ cuando mis pasos fueron lavados con mantequilla, y la roca derramó chorros de aceite para mí,
-^a^[**28:25** Job 26,10] ^b^[**28: 28** La palabra traducida “Señor” es “Adonai”. ] ^c^[**29:3** Sal 18,29] ^d^[**29:4** Sal 25,14]
+^a^[**28:25** Job 26,10] ^b^[**28:28** La palabra traducida “Señor” es “Adonai”. ] ^c^[**29:3** Sal 18,29] ^d^[**29:4** Sal 25,14]
 
 ## Descripción de su alta reputación anterior, su justicia y su trabajo exitoso
 ^7^ cuando salí a la puerta de la ciudad, cuando preparé mi asiento en la calle. ^8^ Los jóvenes me vieron y se escondieron. Los ancianos se levantaron y se pusieron de pie. ^9^ Los príncipes se abstuvieron de hablar, y se puso la mano en la boca. ^10^ La voz de los nobles se acalló, y su lengua se pegó al paladar. ^11^ Porque cuando el oído me escuchó, entonces me bendijo, y cuando el ojo me vio, me elogió, ^12^ porque liberé a los pobres que lloraban, y también al huérfano, que no tenía quien le ayudara, ^a^ ^13^ la bendición del que estaba dispuesto a perecer vino sobre mí, y he hecho que el corazón de la viuda cante de alegría. ^14^ Me vestí de justicia, y me vistió. Mi justicia era como un manto y una diadema. ^15^ Yo era los ojos de los ciegos, y los pies a los cojos. ^16^ Fui padre de los necesitados. Investigué la causa de él que no conocía. ^17^ Rompí las mandíbulas de los injustosy arrancó la presa de sus dientes. ^b^ ^18^ Entonces dije: “Moriré en mi propia casa, Contaré mis días como la arena. ^19^ Mi raíz se extiende hasta las aguas. El rocío reposa toda la noche en mi rama. ^20^ Mi gloria está fresca en mí. Mi arco se renueva en mi mano’. ^21^ “Los hombres me escucharon, esperaron, y guardé silencio por mi consejo. ^22^ Después de mis palabras no volvieron a hablar. Mi discurso cayó sobre ellos. ^23^ Me esperaron como a la lluvia. Sus bocas bebieron como con la lluvia de primavera. ^24^ Les sonreí cuando no tenían confianza. No rechazaron la luz de mi rostro. ^25^ elegí fuera de su camino, y me senté como jefe. Viví como un rey en el ejército, como quien consuela a los dolientes.
@@ -338,7 +338,7 @@
 
 ## Eliú justifica su silencio anterior
 ^7^ Dije: “Los días deben hablar, y la multitud de años debe enseñar la sabiduría”. ^a^ ^8^ Pero hay un espíritu en el hombre, y el Espíritu^b^ del Todopoderoso les da entendimiento. ^9^ No son los grandes los que son sabios, ni a los ancianos que entienden de justicia. ^10^ Por eso le dije: “Escúchame; Yo también mostraré mi opinión”. ^11^ “He aquí que he esperado tus palabras, y escuché su razonamiento, mientras buscabas qué decir. ^12^ Sí, te he prestado toda mi atención, pero no hubo nadie que convenciera a Job, o que respondió a sus palabras, entre vosotros. ^13^ Tened cuidado, no sea que digáis: “Hemos encontrado la sabiduría”. Dios puede refutarlo, no el hombre;’ ^14^ pues no ha dirigido sus palabras contra mí; tampoco le responderé con sus discursos.
-^a^[**32:7** Job 12,12] ^b^[**32: 8** o, aliento]
+^a^[**32:7** Job 12,12] ^b^[**32:8** o, aliento]
 
 ## Eliú explica que su mente está impulsada a mostrar imparcialmente su comprensión
 ^15^ “Están asombrados. No responden más. No tienen nada que decir. ^16^ ¿Debo esperar, porque ellos no hablan, porque se quedan quietos y no responden más? ^17^ Yo también responderé a mi parte, y también mostraré mi opinión. ^18^ Porque estoy lleno de palabras. El espíritu dentro de mí me constriñe. ^19^ He aquí que mi pecho es como el vino que no tiene salida; como los odres nuevos, está a punto de reventar. ^20^ Voy a hablar para que me refresquen. Abriré mis labios y responderé. ^21^ Por favor, no permitas que respete la persona de ningún hombre, ni daré títulos lisonjeros a ningún hombre. ^22^ Porque no sé dar títulos halagadores, o si no, mi Hacedor me llevaría pronto.
@@ -412,7 +412,7 @@
 # 42
 ## La respuesta final de Job: su reconocimiento de la grandeza de Dios y su arrepentida retractación
 ^1^ Entonces Job respondió a Yahvé: ^2^ “Sé que todo lo puedes hacer, y que ningún propósito tuyo puede ser frenado. ^3^ Preguntasteis: “¿Quién es ese que esconde el consejo sin conocimiento?”. por lo que he pronunciado lo que no entendía, cosas demasiado maravillosas para mí, que no conocía. ^4^ Dijiste: “Escucha, ahora, y yo hablaré; Te interrogaré y tú me responderás’. ^j^ ^5^ Había oído hablar de ti por el oído, pero ahora mi ojo te ve. ^6^ Por eso me aborrezco, y arrepentirse en polvo y ceniza”.
-^a^[**38:5** Prov 30,4] ^b^[**38:11** Sal 104,8-9] ^c^[**38:25** Job 28,26] ^d^[**38:31** Job 9,9] ^e^[**38:40** Job 37,8] ^f^[**38:41** Sal 147,9] ^g^[**39:30** Hab 1,8; Mat 24,28] ^h^[**40:7** Job 38,3] ^i^[**41: 1** Leviatán es el nombre de un cocodrilo o criatura similar.] ^j^[**42:4** Job 38,3]
+^a^[**38:5** Prov 30,4] ^b^[**38:11** Sal 104,8-9] ^c^[**38:25** Job 28,26] ^d^[**38:31** Job 9,9] ^e^[**38:40** Job 37,8] ^f^[**38:41** Sal 147,9] ^g^[**39:30** Hab 1,8; Mat 24,28] ^h^[**40:7** Job 38,3] ^i^[**41:1** Leviatán es el nombre de un cocodrilo o criatura similar.] ^j^[**42:4** Job 38,3]
 
 ## La condenación de Dios a los tres amigos y su perdón después del sacrificio hecho por intercesión de Job
 ^7^ Fue así que, después de que Yahvé hubo pronunciado estas palabras a Job, Yahvé dijo a Elifaz el temanita: “Mi ira se ha encendido contra ti y contra tus dos amigos, porque no habéis hablado de mí lo que es justo, como lo ha hecho mi siervo Job. ^8^ Ahora, pues, tomad para vosotros siete toros y siete carneros, e id a mi siervo Job, y ofreced para vosotros un holocausto; y mi siervo Job rogará por vosotros, pues yo lo aceptaré, para que no os trate según vuestra insensatez. Porque no habéis hablado de mí lo que es justo, como mi siervo Job”. 
@@ -421,6 +421,6 @@
 
 ## Restauración y aumento del estado externo de felicidad de Job
 ^10^ Yahvé restauró la prosperidad de Job cuando éste oró por sus amigos. El Señor le dio a Job el doble de lo que tenía antes. ^a^ ^11^ Entonces todos sus hermanos, todas sus hermanas y todos los que antes lo conocían, vinieron a él y comieron con él en su casa. Lo consolaron, y lo consolaron por todo el mal que el Señor le había hecho pasar. Todos le dieron también una pieza de dinero,^b^ y todos un anillo de oro. 
-^a^[**42:10** Job 8,7] ^b^[**42: 11** literalmente, kesitah, una unidad de dinero, probablemente plata]
+^a^[**42:10** Job 8,7] ^b^[**42:11** literalmente, kesitah, una unidad de dinero, probablemente plata]
 
 ^12^ Así, el Señor bendijo el final de Job más que su principio. Tenía catorce mil ovejas, seis mil camellos, mil yuntas de bueyes y mil burras. ^13^ Tenía también siete hijos y tres hijas. ^14^ A la primera la llamó Jemimah, a la segunda Keziah y a la tercera Keren Happuch. ^15^ En toda la tierra no se encontraron mujeres tan hermosas como las hijas de Job. Su padre les dio una herencia entre sus hermanos. ^16^ Después de esto, Job vivió ciento cuarenta años, y vio a sus hijos, y a los hijos de sus hijos, hasta cuatro generaciones. ^17^ Así murió Job, siendo viejo y lleno de días.

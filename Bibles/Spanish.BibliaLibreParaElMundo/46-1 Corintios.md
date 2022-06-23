@@ -1,7 +1,7 @@
 # 1
 ## Bendiciones
 ^1^ Pablo, llamado a ser apóstol de Jesucristo^a^ por la voluntad de Dios, y nuestro hermano Sóstenes, ^2^ a la asamblea de Dios que está en Corinto: los santificados en Cristo Jesús, llamados santos, con todos los que invocan el nombre de nuestro Señor Jesucristo en todo lugar, tanto de ellos como de nosotros: ^3^ Gracia a vosotros y paz de parte de Dios nuestro Padre y del Señor Jesucristo. 
-^a^[**1: 1** “Cristo” significa “Ungido”.]
+^a^[**1:1** “Cristo” significa “Ungido”.]
 
 ## Acción de gracias del apóstol por la rica gracia de Dios que cayó sobre los corintios; esperanza segura para el futuro
 ^4^ Siempre doy gracias a mi Dios respecto a vosotros por la gracia de Dios que os fue dada en Cristo Jesús, ^5^ que en todo fuisteis enriquecidos en él, en toda palabra y en todo sabiduria — ^6^ así como el testimonio de Cristo fue confirmado en vosotros — ^7^ para que no os quedéis atrás en ningún don, esperando la revelación de nuestro Señor Jesucristo, ^a^ ^8^ que también os confirmará hasta el fin, irreprochables en el día de nuestro Señor Jesucristo. ^b^ ^9^ Fiel es Dios, por quien fuisteis llamados a la comunión de su Hijo Jesucristo, nuestro Señor. ^c^ 
@@ -13,14 +13,14 @@
 
 ## La palabra de la cruz es un poder divino, opuesto a la sabiduría mundial y respetado por el mundo como una locura
 ^18^ Porque la palabra de la cruz es una tontería para los que mueren, pero para los que se salvan es poder de Dios. ^19^ Porque está escrito, “Destruiré la sabiduría de los sabios. Haré que el discernimiento de los perspicaces quede en nada^a^ ”. 
-^a^[**1: 19** Isaías 29: 14]
+^a^[**1:19** Isaías 29:14]
 
 ^20^ ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el polemista de este siglo? ¿Acaso Dios no ha hecho insensata la sabiduría de este mundo? ^a^ ^21^ Pues viendo que en la sabiduría de Dios, el mundo por su sabiduría no conoció a Dios, a Dios le agradó salvar a los creyentes por medio de la locura de la predicación. ^22^ Porque los judíos piden señales, los griegos buscan sabiduría, ^23^ pero nosotros predicamos a Cristo crucificado, escándalo para los judíos y necedad para los griegos, ^b^ ^24^ pero para los llamados, tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios; ^c^ ^25^ porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.
 ^a^[**1:20** Rom 1,22; Mat 11,25] ^b^[**1:23** 1Cor 2,14; Gal 5,11; Hech 17,32] ^c^[**1:24** Col 2,3]
 
 ## Prueba de la existencia real de la comunidad cristiana llamada por Dios en Corinto
 ^26^ Porque ya veis vuestra vocación, hermanos, que no hay muchos sabios según la carne, ni muchos poderosos, ni muchos nobles; ^a^ ^27^ sino que Dios eligió lo necio del mundo para avergonzar a los sabios. Dios eligió a los débiles del mundo para avergonzar a los fuertes. ^28^ Dios eligió lo humilde del mundo, lo despreciable y lo que no existe, para reducir a la nada lo que existe, ^29^ a fin de que nadie se jacte ante Dios. ^30^ Porque por él estáis en Cristo Jesús, que nos fue hecho sabiduría de Dios, y justicia y santificación, y redención, ^b^ ^31^ para que, como está escrito: “El que se gloríe, que se gloríe en el Señor”. ^c^ ^d^ 
-^a^[**1:26** Juan 7,48; Sant 2,1-5] ^b^[**1:30** Jer 23,5-6; 2Cor 5,21; Juan 17,19; Mat 20,28] ^c^[**1: 31** Jeremías 9: 24] ^d^[**1:31** 2Cor 10,17]
+^a^[**1:26** Juan 7,48; Sant 2,1-5] ^b^[**1:30** Jer 23,5-6; 2Cor 5,21; Juan 17,19; Mat 20,28] ^c^[**1:31** Jeremías 9:24] ^d^[**1:31** 2Cor 10,17]
 
 # 2
 ## La manera de predicar de Pablo cuando se fundó la iglesia era poco exigente y carecía de sabiduría mundana
@@ -29,11 +29,11 @@
 
 ## La misteriosa sabiduría de Dios para los perfectos
 ^6^ Sin embargo, hablamos de la sabiduría de los que ya han crecido, pero una sabiduría que no es de este mundo ni de los gobernantes de este mundo que están llegando a la nada. ^7^ Pero hablamos la sabiduría de Dios en un misterio, la sabiduría que ha estado oculta, que Dios preordenó antes de los mundos para nuestra gloria, ^a^ ^8^ que ninguno de los gobernantes de este mundo ha conocido. Porque si la hubieran conocido, no habrían crucificado al Señor de la gloria. ^9^ Pero como está escrito, “Cosas que un ojo no vio, y un oído no oyó, que no entró en el corazón del hombre, que Dios ha preparado para los que le aman^b^ ”.
-^a^[**2:7** Rom 16,25; Mat 11,24] ^b^[**2: 9** Isaías 64: 4]
+^a^[**2:7** Rom 16,25; Mat 11,24] ^b^[**2:9** Isaías 64:4]
 
 ## La exploración y absorción de esta sabiduría solo es posible para personas espirituales
 ^10^ Pero a nosotros, Dios nos las reveló por medio del Espíritu. Porque el Espíritu escudriña todas las cosas, sí, las cosas profundas de Dios. ^11^ Porque ¿quién de los hombres conoce las cosas del hombre sino el espíritu del hombre que está en él? Así, nadie conoce las cosas de Dios sino el Espíritu de Dios. ^12^ Pero nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que viene de Dios, para conocer las cosas que nos han sido dadas gratuitamente por Dios. ^a^ ^13^ También hablamos estas cosas, no con las palabras que enseña la sabiduría de los hombres, sino con las que enseña el Espíritu Santo, comparando las cosas espirituales con las espirituales. ^14^ Ahora bien, el hombre natural no recibe las cosas del Espíritu de Dios, porque para él son locura, y no puede conocerlas, porque se disciernen espiritualmente. ^15^ Pero el que es espiritual discierne todas las cosas, y no debe ser juzgado por nadie. ^16^ “Porque ¿quién ha conocido la mente del Señor para instruirlo?” ^b^ Pero nosotros tenemos la mente de Cristo. ^c^ 
-^a^[**2:12** Juan 14,16-17] ^b^[**2: 16** Isaías 40: 13] ^c^[**2:16** Rom 11,34]
+^a^[**2:12** Juan 14,16-17] ^b^[**2:16** Isaías 40:13] ^c^[**2:16** Rom 11,34]
 
 # 3
 ## Hasta ahora Pablo no ha podido proclamar plena sabiduría a los corintios debido a su inmadurez, que ha sido demostrada por la picardía del partido
@@ -52,7 +52,7 @@
 ^a^[**3:16** 1Cor 6,19; 2Cor 6,16]
 
 ^18^ Que nadie se engañe a sí mismo. Si alguno se cree sabio entre vosotros en este mundo, que se haga tonto para llegar a ser sabio. ^19^ Porque la sabiduría de este mundo es una tontería para Dios. Porque está escrito: “Él ha tomado a los sabios en su astucia”. ^a^ ^20^ Y también: “El Señor conoce el razonamiento de los sabios, que es inútil”. ^b^ ^21^ Por tanto, que nadie se jacte en los hombres. Porque todas las cosas son vuestras, ^22^ ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o las cosas presentes, o las cosas por venir. Todo es vuestro, ^23^ y vosotros sois de Cristo, y Cristo es de Dios. ^c^ 
-^a^[**3: 19** Job 5: 13] ^b^[**3: 20** Salmo 94: 11] ^c^[**3:23** 1Cor 11,3]
+^a^[**3:19** Job 5:13] ^b^[**3:20** Salmo 94:11] ^c^[**3:23** 1Cor 11,3]
 
 # 4
 ## Pablo sabe que es responsable solo ante el Señor
@@ -81,7 +81,7 @@
 
 ## Corrección de un malentendido corintio sobre la advertencia contra los fornicadores
 ^9^ Os escribí en mi carta que no os juntarais con los pecadores sexuales; ^10^ pero no me refiero en absoluto a los pecadores sexuales de este mundo, ni a los avaros y extorsionadores, ni a los idólatras, porque entonces tendríais que dejar el mundo. ^11^ Pero tal como es, os escribí que no os juntéis con ninguno de los llamados hermanos que sean pecadores sexuales, o codiciosos, o idólatras, o calumniadores, o borrachos, o extorsionistas. Ni siquiera comas con una persona así. ^12^ Porque, ¿qué tengo yo que ver con juzgar también a los que están fuera? ¿No juzgas tú a los que están dentro? ^13^ Pero a los que están fuera, Dios los juzga. “Quitad al malvado de entre vosotros”. ^a^ ^b^ 
-^a^[**5: 13** Deuteronomio 17: 7; 19: 19; 21: 21; 22: 21; 24: 7] ^b^[**5:13** Deut 13,6; Mat 18,17]
+^a^[**5:13** Deuteronomio 17:7; 19:19; 21:21; 22:21; 24:7] ^b^[**5:13** Deut 13,6; Mat 18,17]
 
 # 6
 ## Denuncia de litigio en tribunales paganos y litigio en general
@@ -93,12 +93,12 @@
 
 ## Los pecados de fornicación no tienen nada que ver con la libertad cristiana; Advertencia de fornicación
 ^12^ “Todo me es lícito”, pero no todo es conveniente. “Todas las cosas me son lícitas”, pero no me someteré al poder de nada. ^a^ ^13^ “Alimentos para el vientre, y el vientre para los alimentos”, pero Dios hará desaparecer tanto a él como a ellos. Pero el cuerpo no es para la inmoralidad sexual, sino para el Señor, y el Señor para el cuerpo. ^b^ ^14^ Ahora bien, Dios resucitó al Señor, y también nos resucitará a nosotros con su poder. ^c^ ^15^ ¿No sabéis que vuestros cuerpos son miembros de Cristo? ¿Acaso voy a tomar los miembros de Cristo para hacerlos miembros de una prostituta? ¡Que nunca sea así! ^16^ ¿Acaso no sabéis que el que se une a una prostituta es un solo cuerpo? Porque, “Los dos”, dice, “se convertirán en una sola carne”. ^d^ ^17^ Pero el que se une al Señor es un solo espíritu. ^e^ ^18^ ¡Huye de la inmoralidad sexual! “Todo pecado que el hombre hace está fuera del cuerpo”, pero el que comete inmoralidad sexual peca contra su propio cuerpo. ^19^ ¿O no sabéis que vuestro cuerpo es templo del Espíritu Santo que está en vosotros, el cual tenéis de Dios? No sois vuestros, ^20^ porque habéis sido comprados por un precio. Por tanto, glorificad a Dios en vuestro cuerpo y en vuestro espíritu, que son de Dios. ^f^ 
-^a^[**6:12** 1Cor 10,23] ^b^[**6:13** 1Cor 1,3-5] ^c^[**6:14** 1Cor 15,20; 2Cor 4,14] ^d^[**6: 16** Génesis 2: 24] ^e^[**6:17** Juan 17,21-22] ^f^[**6:20** 1Cor 7,23; 1Pe 1,18-19; Fil 1,20]
+^a^[**6:12** 1Cor 10,23] ^b^[**6:13** 1Cor 1,3-5] ^c^[**6:14** 1Cor 15,20; 2Cor 4,14] ^d^[**6:16** Génesis 2:24] ^e^[**6:17** Juan 17,21-22] ^f^[**6:20** 1Cor 7,23; 1Pe 1,18-19; Fil 1,20]
 
 # 7
 ## El valor y las necesidades del matrimonio y la vida conyugal en general
 ^1^ En cuanto a lo que me escribisteis, es bueno que el hombre no toque a la mujer. ^2^ Pero, a causa de las inmoralidades sexuales, que cada hombre tenga su propia esposa, y que cada mujer tenga su propio marido. ^3^ Que el marido dé a su mujer el afecto que se le debe, ^a^ y así también la mujer a su marido. ^4^ La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Así también el marido no tiene autoridad sobre su propio cuerpo, sino la mujer. ^5^ No os privéis los unos a los otros, a no ser que sea de común acuerdo por un tiempo, para que os dediquéis al ayuno y a la oración, y estéis de nuevo juntos, para que Satanás no os tiente por vuestra falta de dominio propio. 
-^a^[**7: 3** NU y TR tienen “lo que se le debe” en lugar de “el afecto que se le debe”.]
+^a^[**7:3** NU y TR tienen “lo que se le debe” en lugar de “el afecto que se le debe”.]
 
 ^6^ Pero esto lo digo a modo de concesión, no de mandamiento. ^7^ Sin embargo, quisiera que todos los hombres fueran como yo. Sin embargo, cada hombre tiene su propio don de Dios, uno de este tipo y otro de aquel. 
 
@@ -153,7 +153,7 @@
 ^a^[**9:4** Luc 10,8] ^b^[**9:5** Juan 1,42; Mat 8,14] ^c^[**9:6** Hech 4,36; 2Tes 3,7-9]
 
 ^8^ ¿Digo estas cosas según las costumbres de los hombres? ¿O no dice también la ley lo mismo? ^9^ Porque está escrito en la ley de Moisés: “No pondrás bozal al buey mientras pisa el grano”.^a^ ¿Es por los bueyes que Dios se preocupa, ^10^ o lo dice seguramente por nosotros? Sí, fue escrito por nuestro bien, porque el que ara debe arar con esperanza, y el que trilla con esperanza debe participar de su esperanza. ^11^ Si hemos sembrado para vosotros cosas espirituales, ¿es gran cosa si cosechamos vuestras cosas carnales? ^b^ ^12^ Si otros participan de este derecho sobre vosotros, ¿no lo hacemos nosotros aún más? Sin embargo, no usamos este derecho, sino que lo soportamos todo, para no causar ningún obstáculo a la Buena Nueva de Cristo. ^c^ 
-^a^[**9: 9** Deuteronomio 25: 4] ^b^[**9:11** Rom 15,27] ^c^[**9:12** Hech 20,33-35; 2Cor 11,9]
+^a^[**9:9** Deuteronomio 25:4] ^b^[**9:11** Rom 15,27] ^c^[**9:12** Hech 20,33-35; 2Cor 11,9]
 
 ## Explique las razones por las que Pablo renuncia a sus derechos
 ^13^ ¿No sabéis que los que sirven en torno a las cosas sagradas comen de las cosas del templo, y los que sirven en el altar tienen su parte con el altar? ^a^ ^14^ Así ordenó el Señor que los que anuncian la Buena Nueva vivan de ella. ^b^ 
@@ -164,7 +164,7 @@
 
 ## Pablo, aunque exteriormente es completamente libre, es sin embargo un servidor de todos los hombres
 ^19^ Porque siendo libre de todo, me sometí a todos para ganar más. ^20^ Para los judíos me hice como judío, para ganar a los judíos; para los que están bajo la ley, como bajo la ley,^a^ para ganar a los que están bajo la ley; ^b^ ^21^ para los que están sin ley, como sin ley (no estando sin ley para con Dios, sino bajo la ley para con Cristo), para ganar a los que están sin ley. ^c^ ^22^ A los débiles me hice como débil, para ganar a los débiles. Me he hecho todo para todos, a fin de salvar a algunos por todos los medios. ^d^ ^23^ Esto lo hago por la Buena Nueva, para ser partícipe de ella.
-^a^[**9: 20** NU añade: aunque yo mismo no estoy bajo la ley] ^b^[**9:20** 1Cor 10,33; Hech 16,3; Hech 21,20-26] ^c^[**9:21** Gal 2,3] ^d^[**9:22** Rom 11,14]
+^a^[**9:20** NU añade: aunque yo mismo no estoy bajo la ley] ^b^[**9:20** 1Cor 10,33; Hech 16,3; Hech 21,20-26] ^c^[**9:21** Gal 2,3] ^d^[**9:22** Rom 11,14]
 
 ## El apóstol como competidor por el premio celestial
 ^24^ ¿No sabéis que los que corren en una carrera corren todos, pero uno recibe el premio? Corred así, para que podáis ganar. ^25^ Todo hombre que se esfuerza en los juegos ejerce el autocontrol en todas las cosas. Ellos lo hacen para recibir una corona corruptible, pero nosotros una incorruptible. ^a^ ^26^ Yo, pues, corro así, no sin rumbo. Lucho así, no golpeando el aire, ^27^ sino que golpeo mi cuerpo y lo someto, no sea que, después de haber predicado a otros, yo mismo quede descalificado.
@@ -180,7 +180,7 @@
 ^a^[**10:5** Núm 14,22-32]
 
 ^6^ Estos fueron nuestros ejemplos, para que no codiciemos cosas malas como ellos también codiciaron. ^a^ ^7^ No seáis idólatras, como lo fueron algunos de ellos. Como está escrito: “El pueblo se sentaba a comer y beber, y se levantaba a jugar”. ^b^ ^8^ No cometamos inmoralidad sexual, como algunos de ellos, y en un día cayeron veintitrés mil. ^9^ No pongamos a prueba a Cristo, ^c^ como algunos de ellos lo hicieron, y perecieron a causa de las serpientes. ^d^ ^10^ No refunfuñen, como también refunfuñaron algunos de ellos, y perecieron a manos del destructor. ^e^ ^11^ Ahora bien, todas estas cosas les sucedieron a modo de ejemplo, y fueron escritas para nuestra amonestación, sobre la cual ha llegado el fin de los tiempos. ^f^ ^12^ Por lo tanto, el que piensa que está en pie, tenga cuidado de no caer. 
-^a^[**10:6** Núm 11,4] ^b^[**10: 7** Éxodo 32: 6] ^c^[**10: 9** NU lee “el Señor” en lugar de “Cristo”.] ^d^[**10:9** Núm 21,4-6] ^e^[**10:10** Núm 14,2; Núm 14,35-36; Heb 3,11; Heb 3,17] ^f^[**10:11** 1Pe 4,7]
+^a^[**10:6** Núm 11,4] ^b^[**10:7** Éxodo 32:6] ^c^[**10:9** NU lee “el Señor” en lugar de “Cristo”.] ^d^[**10:9** Núm 21,4-6] ^e^[**10:10** Núm 14,2; Núm 14,35-36; Heb 3,11; Heb 3,17] ^f^[**10:11** 1Pe 4,7]
 
 ^13^ Ninguna tentación os ha cogido sino la que es común al hombre. Fiel es Dios, que no permitirá que seáis tentados por encima de vuestras posibilidades, sino que junto con la tentación os dará la vía de escape, para que podáis soportarla. 
 
@@ -193,7 +193,7 @@
 
 ## ¿Cuándo es seguro el consumo de carne sacrificada a los ídolos? Restricción de la libertad cristiana por consideración al amor fraternal
 ^23^ “Todo me es lícito,” pero no todo es provechoso. “Todo me es lícito,” pero no todo edifica. ^a^ ^24^ Que nadie busque lo suyo, sino que cada uno busque el bien de su prójimo. ^b^ ^25^ Todo lo que se vende en la carnicería, cómelo, sin preguntar por la conciencia, ^c^ ^26^ porque “del Señor es la tierra y su plenitud”. ^d^ ^27^ Pero si alguno de los que no creen os invita a comer y os apetece ir, comed lo que os pongan delante, sin preguntar nada por motivos de conciencia. ^28^ Pero si alguien te dice: “Esto ha sido ofrecido a los ídolos”, no lo comas por el bien de quien te lo dijo y por el bien de la conciencia. Porque “la tierra es del Señor, con toda su plenitud”. ^29^ Conciencia, digo, no la tuya, sino la de los demás. Pues, ¿por qué mi libertad es juzgada por otra conciencia? ^30^ Si participo con agradecimiento, ¿por qué se me denuncia por algo por lo que doy gracias? ^e^ 
-^a^[**10:23** 1Cor 6,12] ^b^[**10:24** Rom 15,2; Fil 2,4] ^c^[**10:25** Rom 14,2-10; Rom 14,22] ^d^[**10: 26** Salmo 24: 1 ] ^e^[**10:30** 1Tim 4,4]
+^a^[**10:23** 1Cor 6,12] ^b^[**10:24** Rom 15,2; Fil 2,4] ^c^[**10:25** Rom 14,2-10; Rom 14,22] ^d^[**10:26** Salmo 24:1 ] ^e^[**10:30** 1Tim 4,4]
 
 ## Amonestación final para el correcto caminar cristiano en todo momento
 ^31^ Así que, ya sea que comas o bebas, o hagas lo que hagas, hazlo todo para la gloria de Dios. ^a^ ^32^ No deis ocasión de tropiezo, ni a los judíos, ni a los griegos, ni a la asamblea de Dios; ^b^ ^33^ así como yo también complazco a todos en todo, no buscando mi propio provecho, sino el de muchos, para que se salven. ^c^ 
@@ -204,7 +204,7 @@
 
 ## Sobre el comportamiento decente de los hombres y el velo de las mujeres durante la oración y el culto
 ^2^ Ahora bien, os alabo, hermanos, porque os acordáis de mí en todo y mantenéis firmes las tradiciones, tal como os las entregué. ^3^ Pero quiero que sepáis que la cabeza ^a^ de todo hombre es Cristo, y la cabeza^b^ de la mujer es el hombre, y la cabeza^c^ de Cristo es Dios. ^d^ ^4^ Todo hombre que ora o profetiza con la cabeza cubierta, deshonra su cabeza. ^5^ Pero toda mujer que ora o profetiza con la cabeza descubierta, deshonra su cabeza. Porque es lo mismo que si se afeitara. ^6^ Porque si la mujer no se cubre, que se le corte también el cabello. Pero si es vergonzoso que la mujer se corte el pelo o se afeite, que se cubra. ^7^ Porque el hombre no debe cubrirse la cabeza, porque es imagen y gloria de Dios, pero la mujer es la gloria del hombre. ^8^ Porque el hombre no procede de la mujer, sino la mujer del hombre; ^9^ pues el hombre no fue creado para la mujer, sino la mujer para el hombre. ^e^ ^10^ Por eso la mujer debe tener autoridad sobre su propia cabeza, a causa de los ángeles.
-^a^[**11: 3** o, origen] ^b^[**11: 3** o, origen] ^c^[**11: 3** o, origen] ^d^[**11:3** Gén 3,16; Efes 5,23; 1Cor 3,23] ^e^[**11:9** Gén 2,18]
+^a^[**11:3** o, origen] ^b^[**11:3** o, origen] ^c^[**11:3** o, origen] ^d^[**11:3** Gén 3,16; Efes 5,23; 1Cor 3,23] ^e^[**11:9** Gén 2,18]
 
 ## Rechazo del desdén por la mujer y todas las discusiones sobre el tema
 ^11^ Sin embargo, ni la mujer es independiente del hombre, ni el hombre es independiente de la mujer, en el Señor. ^12^ Porque así como la mujer procede del hombre, también el hombre procede de la mujer; pero todo procede de Dios. ^13^ Juzguen ustedes mismos. ¿Es apropiado que una mujer ore a Dios sin velo? ^14^ ¿Acaso no os enseña la misma naturaleza que si un hombre tiene el pelo largo, es una deshonra para él? ^15^ Pero si una mujer tiene el cabello largo, es una gloria para ella, pues su cabello le es dado para cubrirse. ^16^ Pero si alguno parece ser pendenciero, no tenemos esa costumbre, ni tampoco las asambleas de Dios. 
@@ -223,7 +223,7 @@
 # 12
 ## La marca de los dones espirituales divinamente forjados
 ^1^ Ahora bien, respecto a las cosas espirituales, hermanos, no quiero que seáis ignorantes. ^2^ Sabéis que cuando erais paganos,^a^ os dejasteis llevar por aquellos ídolos mudos, como quiera que fueseis. ^3^ Por eso os hago saber que ningún hombre que hable por el Espíritu de Dios dice: “Jesús es maldito”. Nadie puede decir: “Jesús es el Señor”, sino por el Espíritu Santo. ^b^ 
-^a^[**12: 2** o gentiles] ^b^[**12:3** Mar 9,39; 1Jn 4,2; 1Jn 1,4-3]
+^a^[**12:2** o gentiles] ^b^[**12:3** Mar 9,39; 1Jn 4,2; 1Jn 1,4-3]
 
 ## Diversidad de dones espirituales, pero solo un espíritu activo y un propósito
 ^4^ Hay diversas clases de dones, pero el Espíritu es el mismo. ^a^ ^5^ Hay diversas clases de servicio, pero el mismo Señor. ^b^ ^6^ Hay diversas clases de obras, pero un mismo Dios que hace todas las cosas en todos. ^7^ Pero a cada uno se le da la manifestación del Espíritu para beneficio de todos. ^8^ Porque a uno se le da por medio del Espíritu la palabra de sabiduría, y a otro la palabra de conocimiento según el mismo Espíritu, ^9^ a otro la fe por el mismo Espíritu, y a otro los dones de curación por el mismo Espíritu, ^10^ y a otro la realización de milagros, y a otro la profecía, y a otro el discernimiento de espíritus, a otro las diversas clases de lenguas, y a otro la interpretación de lenguas. ^c^ ^11^ Pero el mismo Espíritu produce todo esto, distribuyendo a cada uno por separado como quiera. ^d^ 
@@ -274,7 +274,7 @@
 
 ## El Antiguo Testamento y el mundo exterior no cristiano también condenan este incomprensible discurso
 ^20^ Hermanos, no seáis niños en los pensamientos, pero en la malicia sed bebés, pero en los pensamientos sed maduros. ^a^ ^21^ En la ley está escrito: “Por hombres de lenguas extrañas y por labios de extraños hablaré a este pueblo. Ni siquiera me escucharán así, dice el Señor”. ^b^ ^22^ Por tanto, las lenguas extrañas sirven de señal, no para los que creen, sino para los incrédulos; pero la profecía sirve de señal, no para los incrédulos, sino para los que creen. ^23^ Por tanto, si toda la asamblea está reunida y todos hablan con otras lenguas, y entran personas indoctas o incrédulas, ¿no dirán que estáis locos? ^24^ Pero si todos profetizan, y entra alguien incrédulo o indocto, es reprendido por todos, y es juzgado por todos. ^25^ Y así se revelan los secretos de su corazón. Entonces se postrará sobre su rostro y adorará a Dios, declarando que Dios está realmente entre vosotros.
-^a^[**14:20** Efes 4,14] ^b^[**14: 21** Isaías 28: 11-12]
+^a^[**14:20** Efes 4,14] ^b^[**14:21** Isaías 28:11-12]
 
 ## Orden de los altavoces
 ^26^ ¿Qué es, pues, hermanos? Cuando os reunís, cada uno de vosotros tiene un salmo, tiene una enseñanza, tiene una revelación, tiene otra lengua o tiene una interpretación. Hacedlo todo para edificaros mutuamente. ^a^ ^27^ Si alguno habla en otra lengua, que sean dos, o a lo sumo tres, y por turno, y que uno interprete. ^28^ Pero si no hay intérprete, que guarde silencio en la asamblea, y que hable para sí mismo y para Dios. ^29^ Que hablen dos o tres de los profetas, y que los demás disciernan. ^30^ Pero si se hace una revelación a otro que esté sentado, que el primero guarde silencio. ^31^ Porque todos pueden profetizar uno por uno, para que todos aprendan y todos sean exhortados. ^32^ Los espíritus de los profetas están sujetos a los profetas, ^33^ porque Dios no es un Dios de confusión, sino de paz, como en todas las asambleas de los santos. ^b^ 
@@ -282,7 +282,7 @@
 
 ## Contra los discursos inapropiados de mujeres en reuniones
 ^34^ Que las esposas guarden silencio en las asambleas, pues no se les ha permitido hablar sino con sumisión, como dice también la ley, ^a^ ^b^ ^35^ si desean aprender algo. “Que pregunten a sus propios maridos en casa, porque es vergonzoso que una esposa esté hablando en la asamblea.” ^36^ ¿Qué? ¿Salió de ti la palabra de Dios? ¿O vino a ti sola? 
-^a^[**14: 34** Deuteronomio 27: 9] ^b^[**14:34** 1Tim 2,11-12; Gén 3,16]
+^a^[**14:34** Deuteronomio 27:9] ^b^[**14:34** 1Tim 2,11-12; Gén 3,16]
 
 ^37^ Si alguno se cree profeta o espiritual, que reconozca las cosas que os escribo, que son mandamiento del Señor. ^a^ ^38^ Pero si alguien es ignorante, que sea ignorante. 
 ^a^[**14:37** 1Jn 4,6]
@@ -301,11 +301,11 @@
 
 ## Exposición de las consecuencias de la resurrección de Cristo; los procesos en los que la resurrección tiene lugar hasta su finalización
 ^20^ Pero ahora Cristo ha resucitado de entre los muertos. Se convirtió en la primicia de los que duermen. ^a^ ^21^ Porque como la muerte vino por el hombre, también la resurrección de los muertos vino por el hombre. ^b^ ^22^ Porque así como en Adán todos mueren, también en Cristo todos serán vivificados. ^23^ Pero cada uno en su orden: Cristo las primicias, luego los que son de Cristo en su venida. ^c^ ^24^ Luego vendrá el fin, cuando entregue el Reino a Dios Padre, cuando haya abolido todo gobierno y toda autoridad y poder. ^d^ ^25^ Porque es necesario que reine hasta que haya puesto a todos sus enemigos bajo sus pies. ^e^ ^26^ El último enemigo que será abolido es la muerte. ^f^ ^27^ Porque “Todo lo sometió bajo sus pies”.^g^ Pero cuando dice: “Todas las cosas están sometidas”, es evidente que se exceptúa al que sometió todas las cosas a él. ^28^ Cuando todas las cosas le hayan sido sometidas, entonces también el Hijo se someterá al que le sometió todas las cosas, para que Dios sea todo en todos.
-^a^[**15:20** 1Cor 6,14; Col 1,18] ^b^[**15:21** Gén 3,17-19; Rom 5,18] ^c^[**15:23** 1Tes 4,16-17] ^d^[**15:24** Rom 8,38] ^e^[**15:25** Mat 22,44] ^f^[**15:26** Apoc 20,14; Apoc 21,4] ^g^[**15: 27** Salmo 8: 6]
+^a^[**15:20** 1Cor 6,14; Col 1,18] ^b^[**15:21** Gén 3,17-19; Rom 5,18] ^c^[**15:23** 1Tes 4,16-17] ^d^[**15:24** Rom 8,38] ^e^[**15:25** Mat 22,44] ^f^[**15:26** Apoc 20,14; Apoc 21,4] ^g^[**15:27** Salmo 8:6]
 
 ## Mucho de lo que los cristianos hacen y sufren solo es justificado y comprensible cuando creen en la resurrección
 ^29^ ¿O qué harán los que se bautizan por los muertos? Si los muertos no resucitan en absoluto, ¿por qué entonces se bautizan por los muertos? ^30^ ¿Por qué también nosotros estamos en peligro cada hora? ^a^ ^31^ Afirmo que por la jactancia que tengo en Cristo Jesús, nuestro Señor, muero cada día. ^b^ ^32^ Si en Éfeso luché con animales para fines humanos, ¿de qué me sirve? Si los muertos no resucitan, entonces “comamos y bebamos, porque mañana moriremos”. ^c^ ^33^ ¡No te engañes! “Las malas compañías corrompen las buenas costumbres”. ^34^ Despierta con rectitud y no peques, porque algunos no conocen a Dios. Digo esto para su vergüenza. ^d^ 
-^a^[**15:30** Rom 8,36; Gal 5,11] ^b^[**15:31** 2Cor 4,10] ^c^[**15: 32** Isaías 22: 13] ^d^[**15:34** 1Tes 5,8]
+^a^[**15:30** Rom 8,36; Gal 5,11] ^b^[**15:31** 2Cor 4,10] ^c^[**15:32** Isaías 22:13] ^d^[**15:34** 1Tes 5,8]
 
 ## La imagen de la semilla
 ^35^ Pero alguien dirá: “¿Cómo resucitan los muertos?” y: “¿Con qué clase de cuerpo vienen?” ^36^ Necio, lo que tú mismo siembras no se vivifica si no muere. ^37^ Lo que tú siembras, no siembras el cuerpo que será, sino un grano desnudo, tal vez de trigo, o de otra clase. ^38^ Pero Dios le da un cuerpo tal como le ha gustado, y a cada semilla un cuerpo propio. ^a^ 
@@ -318,13 +318,13 @@
 
 ## La realidad de un cuerpo celestial, incorruptible
 ^45^ Así también está escrito: “El primer hombre Adán se convirtió en un alma viviente”. ^a^ El último Adán se convirtió en un espíritu viviente. ^b^ ^46^ Sin embargo, lo que es espiritual no es lo primero, sino lo que es natural, y luego lo que es espiritual. ^47^ El primer hombre es de la tierra, hecho de polvo. El segundo hombre es el Señor del cielo. ^48^ Como el que está hecho de polvo, así son los que también están hechos de polvo; y como el celestial, así son también los celestiales. ^49^ Así como hemos llevado la imagen de los que están hechos de polvo, llevemos ^c^ también la imagen de los celestiales.
-^a^[**15: 45** Génesis 2: 7] ^b^[**15:45** 2Cor 3,17] ^c^[**15: 49** NU, TR dice “vamos a” en lugar de “vamos a”]
+^a^[**15:45** Génesis 2:7] ^b^[**15:45** 2Cor 3,17] ^c^[**15:49** NU, TR dice “vamos a” en lugar de “vamos a”]
 
 ## La transformación final en la consumación de los creyentes
 ^50^ Ahora bien, hermanos, digo que la carne y la sangre no pueden heredar el Reino de Dios; ni lo perecedero hereda lo imperecedero. 
 
 ^51^ He aquí,^a^ os digo un misterio. No todos dormiremos, sino que todos seremos transformados, ^b^ ^52^ en un momento, en un abrir y cerrar de ojos, a la última trompeta. Porque sonará la trompeta y los muertos resucitarán incorruptibles, y nosotros seremos transformados. ^c^ ^53^ Porque es necesario que este cuerpo perecedero se convierta en incorruptible, y que este mortal se vista de inmortalidad. ^d^ ^54^ Pero cuando este cuerpo perecedero se convierta en incorruptible, y este mortal se vista de inmortalidad, entonces sucederá lo que está escrito: “La muerte es absorbida por la victoria”. ^55^ “Muerte, ¿dónde está tu aguijón? Hades, ¿dónde está tu victoria?” 
-^a^[**15: 51** TR añade “y estando convencido de”] ^b^[**15:51** 1Tes 4,15-17] ^c^[**15:52** Mat 24,31] ^d^[**15:53** 2Cor 5,4]
+^a^[**15:51** TR añade “y estando convencido de”] ^b^[**15:51** 1Tes 4,15-17] ^c^[**15:52** Mat 24,31] ^d^[**15:53** 2Cor 5,4]
 
 ^56^ El aguijón de la muerte es el pecado, y el poder del pecado es la ley. ^57^ Pero gracias a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo. ^a^ ^58^ Por lo tanto, mis amados hermanos, estad firmes, inamovibles, abundando siempre en la obra del Señor, porque sabéis que vuestro trabajo no es en vano en el Señor. ^b^ 
 ^a^[**15:57** 1Jn 5,4] ^b^[**15:58** 2Cró 15,7]

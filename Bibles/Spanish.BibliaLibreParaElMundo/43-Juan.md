@@ -506,7 +506,7 @@
 ^a^[**10:33** Juan 5,18; Mat 9,3; Mat 26,65]
 
 ^34^ Jesús les contestó: “¿No está escrito en vuestra ley: “Yo dije que sois dioses”? ^a^ ^35^ Si los llamó dioses, a los que vino la palabra de Dios (y la Escritura no puede ser quebrantada), ^36^ ¿decís de aquel a quien el Padre santificó y envió al mundo: “Tú blasfemas”, porque yo dije: “Yo soy el Hijo de Dios”? ^37^ Si no hago las obras de mi Padre, no me creáis. ^38^ Pero si las hago, aunque no me creáis, creed en las obras, para que sepáis y creáis que el Padre está en mí, y yo en el Padre.” 
-^a^[**10: 34** Salmo 82: 6]
+^a^[**10:34** Salmo 82:6]
 
 ^39^ Volvieron a buscarlo para apresarlo, pero se les escapó de las manos. ^a^ 
 ^a^[**10:39** Juan 8,59; Luc 4,30]
@@ -532,11 +532,11 @@
 ^13^ Ahora bien, Jesús había hablado de su muerte, pero ellos pensaron que hablaba de descansar en el sueño. ^14^ Entonces Jesús les dijo claramente: “Lázaro ha muerto. ^15^ Me alegro por vosotros de no haber estado allí, para que creáis. Sin embargo, vayamos a verlo”. 
 
 ^16^ Entonces Tomás, que se llama Dídimo,^a^ dijo a sus condiscípulos: “Vayamos también nosotros, para morir con él.” 
-^a^[**11: 16** “Dídimo” significa “gemelo”.]
+^a^[**11:16** “Dídimo” significa “gemelo”.]
 
 ## El regreso de Jesús a Betania; su encuentro con Martha y Maria
 ^17^ Cuando llegó Jesús, se dio cuenta de que ya llevaba cuatro días en el sepulcro. ^18^ Betania estaba cerca de Jerusalén, a unos quince pasos^a^ . ^19^ Muchos de los judíos se habían reunido con las mujeres en torno a Marta y María, para consolarlas por su hermano. ^20^ Cuando Marta se enteró de que Jesús venía, fue a recibirlo, pero María se quedó en la casa. ^21^ Entonces Marta dijo a Jesús: “Señor, si hubieras estado aquí, mi hermano no habría muerto. ^22^ Incluso ahora sé que todo lo que pidas a Dios, Dios te lo dará”. 
-^a^[**11: 18** 15 estadios son unos 2, 8 kilómetros o 1, 7 millas]
+^a^[**11:18** 15 estadios son unos 2, 8 kilómetros o 1, 7 millas]
 
 ^23^ Jesús le dijo: “Tu hermano resucitará”. 
 
@@ -570,7 +570,7 @@
 ^40^ Jesús le dijo: ¿No te dije que, si crees, verás la gloria de Dios?” 
 
 ^41^ Entonces quitaron la piedra del lugar donde yacía el muerto.^a^ Jesús levantó los ojos y dijo: “Padre, te agradezco que me hayas escuchado. ^42^ Sé que siempre me escuchas, pero a causa de la multitud que está alrededor he dicho esto, para que crean que tú me has enviado.” ^b^ ^43^ Cuando hubo dicho esto, gritó a gran voz: “¡Lázaro, ven afuera!” 
-^a^[**11: 41** NU omite “del lugar donde yacía el muerto”.] ^b^[**11:42** Juan 12,30]
+^a^[**11:41** NU omite “del lugar donde yacía el muerto”.] ^b^[**11:42** Juan 12,30]
 
 ^44^ El que estaba muerto salió, atado de pies y manos con vendas, y su rostro estaba envuelto con un paño. Jesús les dijo: “Libéralo y déjalo ir”. 
 
@@ -585,7 +585,7 @@
 # 12
 ## La unción de Jesús (consagración de la muerte) en Betania
 ^1^ Seis días antes de la Pascua, Jesús llegó a Betania, donde estaba Lázaro, que había estado muerto, al que resucitó de entre los muertos. ^a^ ^2^ Y le prepararon allí una cena. Marta servía, pero Lázaro era uno de los que se sentaban a la mesa con él. ^3^ Entonces María tomó una libra^b^ de ungüento de nardo puro, muy precioso, y ungió los pies de Jesús y le secó los pies con sus cabellos. La casa se llenó de la fragancia del ungüento. 
-^a^[**12:1** Juan 11,1; Juan 11,43] ^b^[**12: 3** 300 denarios era el salario de un año para un trabajador agrícola.]
+^a^[**12:1** Juan 11,1; Juan 11,43] ^b^[**12:3** 300 denarios era el salario de un año para un trabajador agrícola.]
 
 ^4^ Entonces Judas Iscariote, hijo de Simón, uno de sus discípulos, que lo iba a traicionar, dijo: ^5^ “¿Por qué no se vendió este ungüento por trescientos denarios y se dio a los pobres?” ^6^ Esto lo dijo, no porque se preocupara por los pobres, sino porque era un ladrón, y teniendo la bolsa, solía robar lo que se echaba en ella. ^a^ 
 ^a^[**12:6** Luc 8,3]
@@ -596,10 +596,10 @@
 
 ## La entrada de Jesús a Jerusalén el Domingo de Ramos
 ^12^ Al día siguiente, una gran multitud había acudido a la fiesta. Al enterarse de que Jesús venía a Jerusalén, ^13^ tomaron las ramas de las palmeras y salieron a recibirlo, y gritaron: “¡Hosanna!^a^ Bendito el que viene en nombre del Señor,^b^ el Rey de Israel”. ^c^ 
-^a^[**12: 13** “Hosanna” significa “sálvanos” o “ayúdanos, te rogamos”.] ^b^[**12: 13** Salmo 118: 25-26 ] ^c^[**12:13** Sal 118,25-26]
+^a^[**12:13** “Hosanna” significa “sálvanos” o “ayúdanos, te rogamos”.] ^b^[**12:13** Salmo 118:25-26 ] ^c^[**12:13** Sal 118,25-26]
 
 ^14^ Jesús, habiendo encontrado un asnillo, se sentó en él. Como está escrito: ^15^ “No temas, hija de Sión. He aquí que viene tu Rey, sentado en un pollino de asna”. ^a^ ^16^ Sus discípulos no entendían estas cosas al principio, pero cuando Jesús fue glorificado, entonces se acordaron de que estas cosas estaban escritas sobre él, y de que le habían hecho estas cosas. ^17^ La multitud, pues, que estaba con él cuando llamó a Lázaro del sepulcro y lo resucitó de entre los muertos, daba testimonio de ello. ^18^ Por esta razón también la multitud fue a su encuentro, porque oyeron que había hecho esta señal. ^19^ Entonces los fariseos decían entre sí: “Mirad cómo no conseguís nada. He aquí que el mundo ha ido tras él”. 
-^a^[**12: 15** Zacarías 9: 9]
+^a^[**12:15** Zacarías 9:9]
 
 ## Jesús anuncia su sufrimiento mortal y su subsiguiente glorificación como salvador del mundo
 ^20^ Había algunos griegos entre los que subían a adorar en la fiesta. ^21^ Estos, pues, se acercaron a Felipe, que era de Betsaida de Galilea, y le preguntaron: “Señor, queremos ver a Jesús.” ^a^ ^22^ Felipe vino y se lo comunicó a Andrés, y a su vez, Andrés vino con Felipe, y se lo comunicaron a Jesús. 
@@ -617,20 +617,20 @@
 ^a^[**12:30** Juan 11,42] ^b^[**12:31** Juan 14,30; Juan 16,11; Luc 10,18] ^c^[**12:32** Juan 8,28]
 
 ^34^ La multitud le respondió: “Hemos oído por la ley que el Cristo permanece para siempre.^a^ ¿Cómo dices que el Hijo del Hombre debe ser levantado? ¿Quién es ese Hijo del Hombre?” 
-^a^[**12: 34** Isaías 9: 7; Daniel 2: 44; Véase Isaías 53: 8]
+^a^[**12:34** Isaías 9:7; Daniel 2:44; Véase Isaías 53:8]
 
 ^35^ Por eso Jesús les dijo: “Todavía un poco de tiempo la luz está con vosotros. Caminen mientras tienen la luz, para que las tinieblas no los alcancen. El que camina en las tinieblas no sabe a dónde va. ^a^ ^36^ Mientras tengáis la luz, creed en la luz, para que seáis hijos de la luz”. Jesús dijo estas cosas, y se alejó y se escondió de ellos. ^b^ 
 ^a^[**12:35** Juan 11,10] ^b^[**12:36** Efes 5,9]
 
 ## La revisión del evangelista de la actividad pública de Jesús
 ^37^ Pero aunque había hecho tantas señales delante de ellos, no creían en él, ^38^ para que se cumpliera la palabra del profeta Isaías que había dicho: “Señor, ¿quién ha creído en nuestro informe? ¿A quién se le ha revelado el brazo del Señor?” ^a^ 
-^a^[**12: 38** Isaías 53: 1]
+^a^[**12:38** Isaías 53:1]
 
 ^39^ Por eso no podían creer, pues Isaías volvió a decir ^40^ “Ha cegado sus ojos y ha endurecido su corazón, para que no vean con sus ojos, y entiendan con el corazón, y se conviertan, y yo los sane^a^ ”. ^b^ 
-^a^[**12: 40** Isaías 6: 10] ^b^[**12:40** Mat 13,14-15]
+^a^[**12:40** Isaías 6:10] ^b^[**12:40** Mat 13,14-15]
 
 ^41^ Isaías dijo estas cosas al ver su gloria, y habló de él. ^a^ ^b^ ^42^ Sin embargo, incluso muchos de los gobernantes creyeron en él, pero a causa de los fariseos no lo confesaron, para no ser expulsados de la sinagoga, ^c^ ^43^ porque amaban más la alabanza de los hombres que la de Dios. ^d^ 
-^a^[**12: 41** Isaías 6: 1] ^b^[**12:41** Is 6,1] ^c^[**12:42** Juan 9,22] ^d^[**12:43** Juan 5,44]
+^a^[**12:41** Isaías 6:1] ^b^[**12:41** Is 6,1] ^c^[**12:42** Juan 9,22] ^d^[**12:43** Juan 5,44]
 
 ## El testimonio de Jesús sobre sí mismo y sobre su relación con Dios
 ^44^ Jesús clamó y dijo: “El que cree en mí, no cree en mí, sino en el que me ha enviado. ^45^ El que me ve, ve al que me ha enviado. ^a^ ^46^ Yo he venido al mundo como una luz, para que quien crea en mí no permanezca en las tinieblas. ^47^ Si alguien escucha mis palabras y no cree, yo no lo juzgo. Porque no he venido a juzgar al mundo, sino a salvar al mundo. ^48^ El que me rechaza y no recibe mis palabras, tiene quien lo juzgue. La palabra que yo hablé lo juzgará en el último día. ^49^ Porque no he hablado por mí mismo, sino que el Padre que me ha enviado me ha dado un mandamiento sobre lo que debo decir y lo que debo hablar. ^50^ Yosé que su mandamiento es la vida eterna. Por lo tanto, las cosas que hablo, como el Padre me ha dicho, así las hablo”.
@@ -651,7 +651,7 @@
 
 ## La interpretación de Jesús de su humilde servicio de amor
 ^12^ Así que, después de lavarles los pies, volver a ponerse la ropa exterior y sentarse de nuevo, les dijo: “¿Sabéis lo que os he hecho? ^13^ Me llamáis “Maestro” y “Señor”. Lo decís con razón, porque así soy. ^a^ ^14^ Si yo, el Señor y el Maestro, os he lavado los pies, también vosotros debéis lavaros los pies unos a otros. ^b^ ^15^ Porque os he dado ejemplo, para que también vosotros hagáis lo que yo he hecho con vosotros. ^c^ ^16^ De cierto os digo que el siervo no es mayor que su señor, ni el enviado es mayor que el que lo envió. ^d^ ^17^ Si sabéis estas cosas, dichosos vosotros si las ponéis en práctica. ^e^ ^18^ No hablo de todos vosotros. Yo sé a quién he escogido; pero para que se cumpla la Escritura: ‘El que come pan conmigo, ha levantado su talón contra mí’. ^f^ ^19^ Desde ahora os lo digo antes de que ocurra, para que cuando ocurra, creáis que yo soy. ^20^ De cierto os digo que el que recibe a quien yo envío, me recibe a mí; y el que me recibe a mí, recibe al que me envió.”
-^a^[**13:13** Mat 23,8; Mat 23,10] ^b^[**13:14** Luc 22,27] ^c^[**13:15** Fil 2,5; 1Pe 2,21] ^d^[**13:16** Mat 10,24] ^e^[**13:17** Mat 7,24] ^f^[**13: 18** Salmo 41: 9]
+^a^[**13:13** Mat 23,8; Mat 23,10] ^b^[**13:14** Luc 22,27] ^c^[**13:15** Fil 2,5; 1Pe 2,21] ^d^[**13:16** Mat 10,24] ^e^[**13:17** Mat 7,24] ^f^[**13:18** Salmo 41:9]
 
 ## Identificación y remoción del traidor
 ^21^ Al decir esto, Jesús se turbó en su espíritu y declaró: “Os aseguro que uno de vosotros me va a traicionar.” ^a^ 
@@ -697,7 +697,7 @@
 
 ## Promesa del Espíritu Santo
 ^12^ De cierto os digo que el que cree en mí, las obras que yo hago, él también las hará; y hará obras mayores que éstas, porque yo voy a mi Padre. ^a^ ^13^ Todo lo que pidáis en mi nombre, lo haré, para que el Padre sea glorificado en el Hijo. ^b^ ^14^ Si pedís algo en mi nombre, yo lo haré. ^15^ Si me amáis, guardad mis mandamientos. ^16^ Yo rogaré al Padre, y él os dará otro Consejero, para^c^ que esté con vosotros para siempre: ^d^ ^17^ el Espíritu de la verdad, al que el mundo no puede recibir, porque no lo ve y no lo conoce. Vosotros lo conocéis, porque vive con vosotros y estará en vosotros. ^e^ ^18^ No os dejaré huérfanos. Vendré a vosotros. ^19^ Todavía un poco, y el mundo no me verá más; pero vosotros me veréis. Porque yo vivo, vosotros también viviréis. ^f^ ^20^ En aquel día sabréis que yo estoy en mi Padre, y vosotros en mí, y yo en vosotros.
-^a^[**14:12** Mat 28,19] ^b^[**14:13** Juan 15,7; Juan 16,24; Mar 11,24; 1Jn 5,14; 1Jn 1,5-15] ^c^[**14: 16** Griego παρακλητον: Consejero, Ayudante, Intercesor, Abogado y Consolador.] ^d^[**14:16** Juan 15,26; Juan 16,7] ^e^[**14:17** Juan 16,13] ^f^[**14:19** Juan 20,20]
+^a^[**14:12** Mat 28,19] ^b^[**14:13** Juan 15,7; Juan 16,24; Mar 11,24; 1Jn 5,14; 1Jn 1,5-15] ^c^[**14:16** Griego παρακλητον: Consejero, Ayudante, Intercesor, Abogado y Consolador.] ^d^[**14:16** Juan 15,26; Juan 16,7] ^e^[**14:17** Juan 16,13] ^f^[**14:19** Juan 20,20]
 
 ## Promesa de la más íntima comunidad de espíritu y amor con Dios y Jesús
 ^21^ El que tiene mis mandamientos y los cumple, ése es el que me ama. El que me ama será amado por mi Padre, y yo le amaré y me revelaré a él”. 
@@ -731,21 +731,21 @@
 
 ## Profecía del destino de los discípulos, sufriendo el odio del mundo
 ^18^ Si el mundo os odia, sabed que me ha odiado a mí antes que a vosotros. ^a^ ^19^ Si fuerais del mundo, el mundo amaría a los suyos. Pero como no sois del mundo, puesto que yo os elegí del mundo, por eso el mundo os odia. ^b^ ^20^ Recordad la palabra que os dije: ‘Un siervo no es mayor que su señor’.^c^ Si me persiguieron a mí, también os perseguirán a vosotros. Si ellos cumplieron mi palabra, también cumplirán la vuestra. ^d^ ^21^ Pero todo esto os lo harán por mi nombre, porque no conocen al que me ha enviado. ^e^ ^22^ Si yo no hubiera venido a hablarles, no tendrían pecado; pero ahora no tienen excusa para su pecado. ^f^ ^23^ El que me odia, odia también a mi Padre. ^g^ ^24^ Si yo no hubiera hecho entre ellos las obras que nadie hizo, no tendrían pecado. Pero ahora han visto y también me han odiado a mí y a mi Padre. ^25^ Pero esto ha sucedido para que se cumpla la palabra que estaba escrita en su ley: “Me odiaron sin causa”. ^h^ 
-^a^[**15:18** Juan 7,7] ^b^[**15:19** 1Jn 4,4; 1Jn 1,4-5; Juan 17,14] ^c^[**15: 20** Juan 13: 16] ^d^[**15:20** Juan 13,16; Mat 10,24-25] ^e^[**15:21** Juan 16,3] ^f^[**15:22** Juan 9,41] ^g^[**15:23** Luc 10,16] ^h^[**15: 25** Salmo 35: 19; 69: 4]
+^a^[**15:18** Juan 7,7] ^b^[**15:19** 1Jn 4,4; 1Jn 1,4-5; Juan 17,14] ^c^[**15:20** Juan 13:16] ^d^[**15:20** Juan 13,16; Mat 10,24-25] ^e^[**15:21** Juan 16,3] ^f^[**15:22** Juan 9,41] ^g^[**15:23** Luc 10,16] ^h^[**15:25** Salmo 35:19; 69:4]
 
 ^26^ “Cuando venga el Consejero^a^ que os enviaré de parte del Padre, el Espíritu de la verdad, que procede del Padre, él dará testimonio de mí. ^b^ ^27^ También vosotrosdaréis testimonio, porque habéis estado conmigo desde el principio. ^c^ 
-^a^[**15: 26** Parakletos griego: Consejero, Ayudante, Abogado, Intercesor y Consolador.] ^b^[**15:26** Juan 14,16; Juan 14,26; Luc 24,49] ^c^[**15:27** Hech 1,8; Hech 1,21-22; Hech 5,32]
+^a^[**15:26** Parakletos griego: Consejero, Ayudante, Abogado, Intercesor y Consolador.] ^b^[**15:26** Juan 14,16; Juan 14,26; Luc 24,49] ^c^[**15:27** Hech 1,8; Hech 1,21-22; Hech 5,32]
 
 # 16
 ^1^ “Os he dicho estas cosas para no haceros tropezar. ^2^ Os expulsarán de las sinagogas. Sí, viene el tiempo en que quien os mate pensará que ofrece un servicio a Dios. ^a^ ^3^ Ellos harán estas cosas ^b^ porque no han conocido al Padre ni a mí. ^c^ ^4^ Pero os he dicho estas cosas para que, cuando llegue el momento, os acordéis de que os las he contado. No os dije estas cosas desde el principio, porque estaba con vosotros.
-^a^[**16:2** Mat 10,17; Mat 10,22; Mat 24,9] ^b^[**16: 3** TR añade “a ti”] ^c^[**16:3** Juan 15,21]
+^a^[**16:2** Mat 10,17; Mat 10,22; Mat 24,9] ^b^[**16:3** TR añade “a ti”] ^c^[**16:3** Juan 15,21]
 
 ## Promesa del Espíritu Santo y su obra benéfica en el mundo y en los discípulos
 ^5^ Pero ahora me voy con el que me ha enviado, y ninguno de vosotros me pregunta: “¿Adónde vas?” ^6^ Pero como os he dicho estas cosas, la tristeza ha llenado vuestro corazón. ^7^ Sin embargo, os digo la verdad: os conviene que me vaya, porque si no me voy, el Consejero no vendrá a vosotros. Pero si me voy, os lo enviaré. ^a^ ^8^ Cuando venga, convencerá al mundo de pecado, de justicia y de juicio; ^9^ de pecado, porque no creen en mí; ^10^ de justicia, porque me voy a mi Padre y ya no me veréis; ^b^ ^11^ de juicio, porque el príncipe de este mundo ha sido juzgado. ^c^ 
 ^a^[**16:7** Juan 14,16; Juan 14,26] ^b^[**16:10** Hech 5,31; Rom 4,25] ^c^[**16:11** Juan 12,31]
 
 ^12^ “Todavía tengo muchas cosas que deciros, pero ahora no podéis soportarlas. ^a^ ^13^ Sin embargo, cuando él, el Espíritu de la verdad, haya venido, os guiará a toda la verdad, porque no hablará por su cuenta, sino que hablará todo lo que oiga. Él os anunciará las cosas que se avecinan. ^b^ ^14^ Él me glorificará, porque tomará de lo mío y os lo declarará. ^15^ Todo lo que tiene el Padre es mío; por eso he dicho que toma^c^ de lo mío y os lo anunciará. ^d^ 
-^a^[**16:12** 1Cor 3,1] ^b^[**16:13** Juan 14,26; 1Jn 2,27] ^c^[**16: 15** TR dice “tomará” en lugar de “toma”] ^d^[**16:15** Juan 3,35; Juan 17,10]
+^a^[**16:12** 1Cor 3,1] ^b^[**16:13** Juan 14,26; 1Jn 2,27] ^c^[**16:15** TR dice “tomará” en lugar de “toma”] ^d^[**16:15** Juan 3,35; Juan 17,10]
 
 ## Promesa de una reunión temprana y amonestación de orar en el nombre de Jesús
 ^16^ “Un poco de tiempo, y no me verás. De nuevo un poco de tiempo, y me verás”. ^a^ 
@@ -775,7 +775,7 @@
 
 ## La intercesión de Jesús por el mantenimiento de los discípulos en el conocimiento correcto de Dios
 ^6^ “He revelado tu nombre al pueblo que me has dado fuera del mundo. Eran tuyos y me los has dado. Ellos han cumplido tu palabra. ^7^ Ahora han sabido que todas las cosas que me has dado vienen de ti, ^8^ porque las palabras que me has dado se las he dado a ellos; y las han recibido, y han sabido con certeza que vengo de ti. Han creído que tú me has enviado. ^a^ ^9^ Yo rezo por ellos. No ruego por el mundo, sino por los que me has dado, porque son tuyos. ^b^ ^10^ Todas las cosas que son mías son tuyas, y las tuyas son mías, y yo soy glorificado en ellas. ^c^ ^11^ Yo ya no estoy en el mundo, pero éstos están en el mundo, y yo voy a ti. Padre santo, guárdalos por tu nombre que me has dado, para que sean uno, como nosotros. ^12^ Mientras estuve con ellos en el mundo, los guardé en tu nombre. He guardado a los que me has dado. Ninguno de ellos se ha perdido, sino el hijo de la destrucción, para que se cumpla la Escritura. ^13^ Pero ahora vengo a ti, y digo estas cosas en el mundo, para que tengan mi gozo pleno en ellos. ^d^ ^14^ Les he dado tu palabra. El mundo los ha odiado porque no son del mundo, así como yo no soy del mundo. ^e^ ^15^ No ruego que los quites del mundo, sino que los guardes del maligno. ^f^ ^16^ No son del mundo, como tampoco yo soy del mundo. ^17^ Santifícalos en tu verdad. Tu palabra es la verdad. ^g^ ^18^ Como me enviaste al mundo, así los he enviado yo al mundo. ^h^ ^19^ Por ellos me santifico, para que ellos también sean santificados en la verdad. ^i^ 
-^a^[**17:8** Juan 16,30] ^b^[**17:9** Juan 6,37; Juan 6,44] ^c^[**17:10** Juan 16,15] ^d^[**17:13** Juan 15,11] ^e^[**17:14** Juan 15,19] ^f^[**17:15** Mat 6,13; 2Tes 3,3] ^g^[**17: 17** 17: 17 Salmo 119: 142] ^h^[**17:18** Juan 20,21] ^i^[**17:19** Heb 10,10]
+^a^[**17:8** Juan 16,30] ^b^[**17:9** Juan 6,37; Juan 6,44] ^c^[**17:10** Juan 16,15] ^d^[**17:13** Juan 15,11] ^e^[**17:14** Juan 15,19] ^f^[**17:15** Mat 6,13; 2Tes 3,3] ^g^[**17:17** 17:17 Salmo 119:142] ^h^[**17:18** Juan 20,21] ^i^[**17:19** Heb 10,10]
 
 ## Intercesión por todos los creyentes
 ^20^ “No ruego sólo por éstos, sino también por los que crean en mí por medio de su palabra, ^a^ ^21^ para que todos sean uno, como tú, Padre, estás en mí, y yo en ti, para que también ellos sean uno en nosotros; para que el mundo crea que tú me has enviado. ^b^ ^22^ La gloria que me has dado, yo se la he dado a ellos, para que sean uno, como nosotros somos uno, ^c^ ^23^ yo en ellos y tú en mí, para que se perfeccionen en uno, para que el mundo sepa que tú me has enviado y que los has amado, como a mí. ^d^ ^24^ Padre, quiero que también los que me has dado estén conmigo donde yo estoy, para que vean mi gloria que me has dado, porque me has amado antes de la fundación del mundo. ^e^ ^25^ Padre justo, el mundo no te ha conocido, pero yo te he conocido, y éstos han sabido que tú me has enviado. ^26^ Yoles he dado a conocer tu nombre, y lo daré a conocer, para que el amor con que me has amado esté en ellos, y yo en ellos.”
@@ -792,7 +792,7 @@
 ^7^ Por eso les preguntó de nuevo: “¿A quién buscáis?”. Dijeron: “Jesús de Nazaret”. 
 
 ^8^ Jesús respondió: “Os he dicho que yo soy. Si, pues, me buscáis, dejad que éstos se vayan”, ^9^ para que se cumpla la palabra que dijo: “De los que me has dado, no he perdido a ninguno”. ^a^ ^b^ 
-^a^[**18: 9** Juan 6: 39] ^b^[**18:9** Juan 17,12]
+^a^[**18:9** Juan 6:39] ^b^[**18:9** Juan 17,12]
 
 ^10^ Entonces Simón Pedro, teniendo una espada, la sacó, hirió al siervo del sumo sacerdote y le cortó la oreja derecha. El siervo se llamaba Malco. ^11^ Entonces Jesús dijo a Pedro: “Mete la espada en la vaina. El cáliz que el Padre me ha dado, ¿no lo voy a beber?” 
 
@@ -867,7 +867,7 @@
 ^12^ Ante esto, Pilato quiso ponerlo en libertad, pero los judíos gritaron diciendo: “¡Si sueltas a este hombre, no eres amigo del César! Todo el que se hace rey habla contra el César”. 
 
 ^13^ Cuando Pilato oyó estas palabras, sacó a Jesús y se sentó en el tribunal en un lugar llamado “El Pavimento”, pero en hebreo, “Gabbatha.” ^14^ Era el día de la preparación de la Pascua, hacia la hora sexta.^a^ Dijo a los judíos: “¡He aquí vuestro Rey!” 
-^a^[**19: 14** “la hora sexta” habría sido las 06: 00 h. según el sistema horario romano, o el mediodía para el sistema horario judío en uso, entonces. ]
+^a^[**19:14** “la hora sexta” habría sido las 06:00 h. según el sistema horario romano, o el mediodía para el sistema horario judío en uso, entonces. ]
 
 ^15^ Gritaron: “¡Fuera de aquí! ¡Fuera de aquí! Crucifíquenlo”. Pilato les dijo: “¿Debo crucificar a vuestro Rey?” Los jefes de los sacerdotes respondieron: “No tenemos más rey que el César”. ^a^ 
 ^a^[**19:15** Juan 18,37]
@@ -878,19 +878,19 @@
 ^22^ Pilato respondió: “Lo que he escrito, lo he escrito”. 
 
 ^23^ Entonces los soldados, después de crucificar a Jesús, tomaron sus vestidos e hicieron cuatro partes, a cada soldado una parte; y también la túnica. La túnica era sin costura, tejida de arriba abajo. ^24^ Entonces se dijeron unos a otros: “No la rasguemos, sino echemos suertes para decidir de quién será”, para que se cumpla la Escritura que dice“Se repartieron mis ropas entre ellos. Echan a suertes mi ropa^a^ ”. Por eso los soldados hicieron estas cosas. 
-^a^[**19: 24** Salmo 22: 18]
+^a^[**19:24** Salmo 22:18]
 
 ^25^ Pero junto a la cruz de Jesús estaban su madre, la hermana de su madre, María la mujer de Cleofás y María Magdalena. ^26^ Por eso, al ver Jesús a su madre y al discípulo al que amaba que estaban allí, dijo a su madre: “Mujer, ahí tienes a tu hijo”. ^27^ Luego dijo al discípulo: “¡He ahí a tu madre! A partir de esa hora, el discípulo se la llevó a su casa. 
 
 ^28^ Después de esto, Jesús, viendo^a^ que todo estaba ya terminado, para que se cumpliera la Escritura, dijo: “¡Tengo sed!” ^b^ ^29^ Se puso allí una vasija llena de vinagre; entonces pusieron una esponja llena de vinagre sobre un hisopo, y se la acercaron a la boca. ^c^ ^30^ Así pues, cuando Jesús recibió el vinagre, dijo: “¡Se acabó!”. Entonces inclinó la cabeza y entregó su espíritu. 
-^a^[**19: 28** NU, TR lee “saber” en lugar de “ver” ] ^b^[**19:28** Sal 22,16] ^c^[**19:29** Sal 69,22]
+^a^[**19:28** NU, TR lee “saber” en lugar de “ver” ] ^b^[**19:28** Sal 22,16] ^c^[**19:29** Sal 69,22]
 
 ^31^ Por lo tanto, los judíos, como era el día de la preparación, para que los cuerpos no permanecieran en la cruz durante el día de reposo (pues ese día de reposo era especial), pidieron a Pilato que les quebraran las piernas y se los llevaran. ^a^ ^32^ Vinieron, pues, los soldados y rompieron las piernas del primero y del otro que estaba crucificado con él; ^33^ pero cuando llegaron a Jesús y vieron que ya estaba muerto, no le rompieron las piernas. ^34^ Sin embargo, uno de los soldados le atravesó el costado con una lanza, e inmediatamente salió sangre y agua. ^35^ El que ha visto ha dado testimonio, y su testimonio es verdadero. Sabe que dice la verdad, para que creáis. ^36^ Porque estas cosas sucedieron para que se cumpliera la Escritura: “Un hueso de él no será quebrado”. ^b^ ^37^ Otra Escritura dice: “Mirarán al que traspasaron”. ^c^
-^a^[**19:31** Lev 23,7; Deut 21,23] ^b^[**19: 36** Éxodo 12: 46; Números 9: 12; Salmo 34: 20 ] ^c^[**19: 37** Zacarías 12: 10]
+^a^[**19:31** Lev 23,7; Deut 21,23] ^b^[**19:36** Éxodo 12:46; Números 9:12; Salmo 34:20 ] ^c^[**19:37** Zacarías 12:10]
 
 ## Descenso de la cruz y sepultura de Jesús
 ^38^ Después de estas cosas, José de Arimatea, que era discípulo de Jesús, pero en secreto por miedo a los judíos, pidió a Pilato poder llevarse el cuerpo de Jesús. Pilato le dio permiso. Vino, pues, y se llevó el cuerpo. ^a^ ^39^ Nicodemo, que al principio se acercó a Jesús de noche, vino también trayendo una mezcla de mirra y áloes, como cien libras romanas. ^b^ ^c^ ^40^ Tomaron, pues, el cuerpo de Jesús y lo envolvieron en telas de lino con las especias, según la costumbre de los judíos de enterrarlo. ^41^ En el lugar donde fue crucificado había un jardín. En el jardín había un sepulcro nuevo en el que nunca se había puesto a nadie. ^42^ Entonces, a causa del día de preparación de los judíos (pues el sepulcro estaba cerca), pusieron allí a Jesús.
-^a^[**19:38** Juan 7,13] ^b^[**19: 39** 100 libras romanas de 12 onzas cada una, es decir, unas 72 libras o 33 kilogramos.] ^c^[**19:39** Juan 3,2]
+^a^[**19:38** Juan 7,13] ^b^[**19:39** 100 libras romanas de 12 onzas cada una, es decir, unas 72 libras o 33 kilogramos.] ^c^[**19:39** Juan 3,2]
 
 # 20
 ## María Magdalena y el sepulcro vacío; Pedro y Juan en la tumba
@@ -908,7 +908,7 @@
 ^15^ Jesús le dijo: “Mujer, ¿por qué lloras? ¿A quién buscas?” Ella, suponiendo que era el jardinero, le dijo: “Señor, si te lo has llevado, dime dónde lo has puesto y me lo llevaré”. 
 
 ^16^ Jesús le dijo: “María”. Se volvió y le dijo: “¡Rabboni!”, ^a^ que es como decir “¡Maestro!”. ^b^ 
-^a^[**20: 16** Rabboni es una transliteración de la palabra hebrea “gran maestro”.] ^b^[**20: 16** o, Maestro]
+^a^[**20:16** Rabboni es una transliteración de la palabra hebrea “gran maestro”.] ^b^[**20:16** o, Maestro]
 
 ^17^ Jesús le dijo: “No me retengas, porque todavía no he subido a mi Padre; pero vete a mis hermanos y diles: “Subo a mi Padre y a vuestro Padre, a mi Dios y a vuestro Dios””. 
 
@@ -922,14 +922,14 @@
 
 ## Los discípulos con Tomás
 ^24^ Pero Tomás, uno de los doce, llamado Dídimo,^a^ no estaba con ellos cuando vino Jesús. ^b^ ^25^ Los demás discípulos le dijeron: “¡Hemos visto al Señor!” Pero él les dijo: “Si no veo en sus manos la huella de los clavos, si no meto mi dedo en la huella de los clavos y si no meto mi mano en su costado, no creeré”. ^c^ 
-^a^[**20: 24** o, Twin] ^b^[**20:24** Juan 11,16; Juan 14,5; Juan 21,2] ^c^[**20:25** Juan 19,34]
+^a^[**20:24** o, Twin] ^b^[**20:24** Juan 11,16; Juan 14,5; Juan 21,2] ^c^[**20:25** Juan 19,34]
 
 ^26^ Al cabo de ocho días, sus discípulos estaban de nuevo dentro y Tomás estaba con ellos. Llegó Jesús, con las puertas cerradas, se puso en medio y dijo: “La paz sea con vosotros”. ^27^ Luego dijo a Tomás: “Alcanza aquí tu dedo y mira mis manos. Alcanza aquí tu mano, y métela en mi costado. No seas incrédulo, sino creyente”. 
 
 ^28^ Tomás le respondió: “¡Señor mío y Dios mío!” 
 
 ^29^ Jesús le dijo: “Porque me has visto,^a^ has creído. Dichosos los que no han visto y han creído”. ^b^ 
-^a^[**20: 29** TR añade “Thomas,”] ^b^[**20:29** 1Pe 1,8; Heb 11,1]
+^a^[**20:29** TR añade “Thomas,”] ^b^[**20:29** 1Pe 1,8; Heb 11,1]
 
 ^30^ Por eso Jesús hizo otras muchas señales en presencia de sus discípulos, que no están escritas en este libro; ^a^ ^31^ pero éstas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo tengáis vida en su nombre. ^b^ 
 ^a^[**20:30** Juan 21,24-25] ^b^[**20:31** 1Jn 5,13]
@@ -937,7 +937,7 @@
 # 21
 ## Jesús se revela a sus discípulos en el lago de Tiberíades
 ^1^ Después de estas cosas, Jesús se reveló de nuevo a los discípulos en el mar de Tiberias. Se reveló así. ^2^ Estaban juntos Simón Pedro, Tomás, llamado Dídimo, ^a^ Natanael, de Caná de Galilea, y los hijos de Zebedeo, y otros dos de sus discípulos. ^3^ Simón Pedro les dijo: “Voy a pescar”. Le dijeron: “Nosotros también vamos contigo”. Inmediatamente salieron y entraron en la barca. Aquella noche no pescaron nada. 
-^a^[**21: 2** o, Twin]
+^a^[**21:2** o, Twin]
 
 ^4^ Pero cuando ya se hizo de día, Jesús se paró en la playa; pero los discípulos no sabían que era Jesús. ^a^ ^5^ Entonces Jesús les dijo: “Hijos, ¿tenéis algo de comer?” Le respondieron: “No”. ^b^ 
 ^a^[**21:4** Juan 20,14; Luc 24,16] ^b^[**21:5** Luc 24,41]
@@ -949,7 +949,7 @@
 ^a^[**21:7** Juan 13,23]
 
 ^8^ Pero los demás discípulos venían en la barca pequeña (pues no estaban lejos de la tierra, sino a unos doscientos codos^a^ ), arrastrando la red llena de peces. ^9^ Cuando salieron a tierra, vieron allí un fuego de brasas, con peces y panes puestos sobre él. ^10^ Jesús les dijo: “Traed algunos de los peces que acabáis de pescar”. 
-^a^[**21: 8** 200 codos son unas 100 yardas o unos 91 metros]
+^a^[**21:8** 200 codos son unas 100 yardas o unos 91 metros]
 
 ^11^ Simón Pedro subió y sacó la red a tierra, llena de ciento cincuenta y tres peces grandes. A pesar de ser tantos, la red no se rompió. 
 

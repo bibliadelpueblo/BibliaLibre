@@ -1,13 +1,13 @@
 # 1
 ## Campañas y actos armados de los judíos en relación con los simeonitas
 ^1^ Después de la muerte de Josué, los hijos de Israel preguntaron a Yahvé,^a^ diciendo: “¿Quién debe subir por nosotros primero contra los cananeos, para luchar contra ellos?” ^b^ 
-^a^[**1: 1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:1** Jue 20,18]
+^a^[**1:1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:1** Jue 20,18]
 
 ^2^ Yahvé dijo: “Judá subirá. He aquí que^a^ he entregado la tierra en su mano”. 
-^a^[**1: 2** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
+^a^[**1:2** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
 
 ^3^ Judá dijo a su hermano Simeón: “Sube conmigo a mi suerte, para que luchemos contra los cananeos; y yo también iré contigo a tu suerte.” Así que Simeón fue con él. ^4^ Judá subió, y el Señor entregó en sus manos a los cananeos y a los ferezeos. Hicieron diez mil hombres en Bezec. ^5^ Encontraron a Adoni-Bezek en Bezec, y lucharon contra él. Golpearon al cananeo y al ferezeo. ^6^ Pero Adoni-Bezek huyó. Lo persiguieron, lo atraparon y le cortaron los pulgares y los dedos gordos de los pies. ^7^ Adoni-Bezek dijo: “Setenta reyes, con los pulgares y los dedos gordos de los pies cortados, hurgaron bajo mi mesa. Como yo he hecho, así me ha hecho Dios^a^ . “Lo llevaron a Jerusalén, y allí murió. ^8^ Los hijos de Judá lucharon contra Jerusalén, la tomaron, la golpearon con el filo de la espada y le prendieron fuego a la ciudad. 
-^a^[**1: 7** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
+^a^[**1:7** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
 
 ## Conquista de Hebrón y Debir por Kaleb y Otoniel
 ^9^ Después de eso, los hijos de Judá bajaron a luchar contra los cananeos que vivían en la región montañosa, en el sur y en la llanura. ^10^ Judá fue contra los cananeos que vivían en Hebrón. (El nombre de Hebrón antes de eso era Kiriath Arba.) Golpearon a Sheshai, Ahiman y Talmai. ^a^ 
@@ -40,7 +40,7 @@
 ^a^[**2:2** Deut 7,2-5] ^b^[**2:3** Jos 23,13]
 
 ^4^ Cuando el ángel de Yavé dijo estas palabras a todos los hijos de Israel, el pueblo alzó la voz y lloró. ^5^ Llamaron el nombre de aquel lugar Bochim,^a^ y sacrificaron allí a Yavé. 
-^a^[**2: 5** “Bochim” significa “llorones”.]
+^a^[**2:5** “Bochim” significa “llorones”.]
 
 ## Después de la muerte de Josué y sus compañeros, Israel se volvió idolatría
 ^6^ Cuando Josué despidió al pueblo, los hijos de Israel se dirigieron cada uno a su heredad para poseer la tierra. ^7^ El pueblo sirvió a Yavé todos los días de Josué, y todos los días de los ancianos que sobrevivieron a Josué, quienes habían visto toda la gran obra de Yavé que él había realizado para Israel. ^a^ ^8^ Josué hijo de Nun, siervo de Yavé, murió, siendo de ciento diez años. ^9^ Lo enterraron en el límite de su heredad, en Timnat Heres, en la región montañosa de Efraín, al norte de la montaña de Gaas. ^10^ Después de que toda esa generación se reunió con sus padres, se levantó tras ella otra generación que no conoció a Yavé ni la obra que había hecho por Israel. ^11^ Los hijos de Israel hicieron lo que era malo a los ojos de Yavé, y sirvieron a los baales. ^12^ Abandonaron a Yavé, el Dios de sus padres, que los sacó de la tierra de Egipto, y siguieron a otros dioses, de los pueblos que los rodeaban, y se inclinaron ante ellos; y provocaron la ira de Yavé.
@@ -60,12 +60,12 @@
 ^a^[**3:9** Jue 1,13] ^b^[**3:10** Jue 6,34]
 
 ^12^ Los hijos de Israel volvieron a hacer lo que era malo a los ojos de Yavé, y Yavé fortaleció a Eglón, rey de Moab, contra Israel, porque habían hecho lo que era malo a los ojos de Yavé. ^13^ Reunió a los hijos de Amón y de Amalec, y fue a golpear a Israel, y se apoderaron de la ciudad de las palmeras. ^a^ ^14^ Los hijos de Israel sirvieron a Eglón, rey de Moab, durante dieciocho años. ^15^ Pero cuando los hijos de Israel clamaron a Yavé, éste les suscitó un salvador: Ehud, hijo de Gera, el benjamita, un hombre zurdo. Los hijos de Israel enviaron por él tributo a Eglón, rey de Moab. ^16^ Aod se hizo una espada de dos filos, de un codo de longitud^b^ , y la llevaba bajo su ropa en el muslo derecho. ^17^ Ofreció el tributo a Eglón, rey de Moab. Eglón era un hombre muy gordo. ^18^ Cuando Aod terminó de ofrecer el tributo, despidió a la gente que lo llevaba. ^19^ Pero él mismo se apartó de los ídolos de piedra que estaban junto a Gilgal, y dijo: “Tengo un mensaje secreto para ti, oh rey.” El rey dijo: “¡Cállate!” Todos los que estaban a su lado lo dejaron. 
-^a^[**3:13** Jue 1,16] ^b^[**3: 16** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**3:13** Jue 1,16] ^b^[**3:16** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^20^ Ehud se acercó a él, y estaba sentado solo en la fresca habitación superior. Ehud le dijo: “Tengo un mensaje de Dios para ti”. Se levantó de su asiento. ^21^ Ehud extendió su mano izquierda, tomó la espada de su muslo derecho y se la clavó en el cuerpo. ^22^ La empuñadura también entró tras la hoja, y la grasa se cerró sobre la hoja, pues no sacó la espada de su cuerpo; y salió por detrás. ^23^ Entonces Ehud salió al pórtico, y cerró las puertas de la habitación superior sobre él, y las cerró con llave. 
 
 ^24^ Cuando se fue, llegaron sus criados y vieron que las puertas del aposento alto estaban cerradas. Dijeron: “Seguramente se está cubriendo los pies^a^ en el aposento alto”. ^25^ Esperaron hasta que se avergonzaron; y he aquí que no abría las puertas del aposento alto. Entonces tomaron la llave y las abrieron, y he aquí que su señor había caído muerto en el suelo. 
-^a^[**3: 24** o, “aliviándose”.]
+^a^[**3:24** o, “aliviándose”.]
 
 ^26^ Ehud escapó mientras ellos esperaban, pasó más allá de los ídolos de piedra y escapó a Seira. ^27^ Cuando llegó, tocó la trompeta en la región montañosa de Efraín, y los hijos de Israel descendieron con él desde la región montañosa, y él los guió. 
 
@@ -148,7 +148,7 @@
 ^a^[**6:14** 1Sam 12,11; Heb 11,32]
 
 ^15^ Le dijo: “Señor,^a^ ¿cómo salvaré a Israel? He aquí que mi familia es la más pobre de Manasés, y yo soy el más pequeño en la casa de mi padre”. 
-^a^[**6: 15** La palabra traducida “Señor” es “Adonai”.]
+^a^[**6:15** La palabra traducida “Señor” es “Adonai”.]
 
 ^16^ Yahvé le dijo: “Ciertamente, yo estaré contigo, y herirás a los madianitas como a un solo hombre”. 
 
@@ -156,7 +156,7 @@
 ^a^[**6:18** Jue 13,15]
 
 ^19^ Gedeón entró y preparó un cabrito y tortas sin levadura de un efa^a^ de harina. Puso la carne en un cesto y el caldo en una olla, y se lo llevó debajo de la encina, y lo presentó. 
-^a^[**6: 19** 1 efa equivale a 22 litros o a 2/3 de una fanega]
+^a^[**6:19** 1 efa equivale a 22 litros o a 2/3 de una fanega]
 
 ^20^ El ángel de Dios le dijo: “Toma la carne y las tortas sin levadura, ponlas sobre esta roca y vierte el caldo”. Así lo hizo. 
 
@@ -168,7 +168,7 @@
 ^a^[**6:23** Jue 13,22]
 
 ^24^ Entonces Gedeón construyó allí un altar a Yavé, y lo llamó “Yavé es la Paz”.^a^ Hasta el día de hoy sigue estando en Ofra de los abiezritas. 
-^a^[**6: 24** o, Yahvé Shalom]
+^a^[**6:24** o, Yahvé Shalom]
 
 ## Aparición de Gedeón contra Baal; su salvación por medio de su padre; Reunir un ejército contra los madianitas; su doble prueba de Dios
 ^25^ Esa misma noche, Yavé le dijo: “Toma el toro de tu padre, el segundo toro de siete años, y derriba el altar de Baal que tiene tu padre, y corta la Asera que está junto a él. ^26^ Luego construye un altar a Yavé, tu Dios, en la cima de esta fortaleza, de manera ordenada, y toma el segundo toro, y ofrece un holocausto con la madera de la Asera que cortarás.” 
@@ -178,7 +178,7 @@
 ^28^ Cuando los hombres de la ciudad se levantaron por la mañana, he aquí que el altar de Baal había sido derribado, y el Asera que estaba junto a él había sido cortado, y el segundo toro había sido ofrecido sobre el altar que había sido construido. ^29^ Se dijeron unos a otros: “¿Quién ha hecho esto?” Cuando indagaron y preguntaron, dijeron: “Gedeón, hijo de Joás, ha hecho esto”. 
 
 ^30^ Entonces los hombres de la ciudad dijeron a Joás: “Saca a tu hijo para que muera, porque ha derribado el altar de Baal y porque ha cortado la Asera que estaba junto a él”. ^31^ Joás dijo a todos los que se oponían a él: “¿Pretendéis defender a Baal? ¿O lo salvaréis? El que se enfrente a él, que muera por la mañana. Si es un dios, que se defienda, porque alguien ha derribado su altar”. ^a^ ^32^ Por eso ese día le puso el nombre de Jerub-Baal,^b^ diciendo: “Que Baal contienda por él, porque ha derribado su altar”. 
-^a^[**6:31** 1Re 18,21] ^b^[**6: 32** “Jerub-Baal” significa “Que Baal contienda”.]
+^a^[**6:31** 1Re 18,21] ^b^[**6:32** “Jerub-Baal” significa “Que Baal contienda”.]
 
 ^33^ Entonces se reunieron todos los madianitas y amalecitas y los hijos del oriente, y pasaron y acamparon en el valle de Jezreel. ^34^ Pero el Espíritu de Yahvé vino sobre Gedeón, y éste tocó la trompeta; y Abiezer se reunió para seguirlo. ^35^ Envió mensajeros a todo Manasés, y también se reunieron para seguirlo. Envió mensajeros a Aser, a Zabulón y a Neftalí, y éstos subieron a su encuentro. 
 
@@ -256,7 +256,7 @@
 ^23^ Gedeón les dijo: “Yo no gobernaré sobre ustedes, ni mi hijo lo hará. Yahvé gobernará sobre ustedes”. ^24^ Gedeón les dijo: “Tengo una petición: que cada uno me dé los aretes de su botín.” (Porque tenían aretes de oro, porque eran ismaelitas). 
 
 ^25^ Ellos respondieron: “Los daremos de buena gana”. Extendieron un manto, y cada uno echó en él los pendientes de su botín. ^26^ El peso de los aretes de oro que pidió fue de mil setecientos siclos^a^ de oro, además de las medias lunas, los colgantes y la ropa de púrpura que llevaban los reyes de Madián, y además de las cadenas que llevaban al cuello de sus camellos. ^27^ Gedeón hizo un efod con él y lo puso en Ofra, su ciudad. Entonces todo Israel se prostituyó con él allí, y se convirtió en una trampa para Gedeón y para su casa. ^b^ ^28^ Así fue sometido Madián ante los hijos de Israel, y no volvieron a levantar la cabeza. La tierra tuvo un descanso de cuarenta años en los días de Gedeón. ^c^ 
-^a^[**8: 26** Un siclo equivale a unos 10 gramos o a unas 0, 32 onzas troyanas, por lo que 1700 siclos equivalen a unos 17 kilogramos o 37, 4 libras.] ^b^[**8:27** Jue 17,5; Éxod 28,6-14] ^c^[**8:28** Jue 3,11; Jue 5,31]
+^a^[**8:26** Un siclo equivale a unos 10 gramos o a unas 0, 32 onzas troyanas, por lo que 1700 siclos equivalen a unos 17 kilogramos o 37, 4 libras.] ^b^[**8:27** Jue 17,5; Éxod 28,6-14] ^c^[**8:28** Jue 3,11; Jue 5,31]
 
 ^29^ Jerobaal, hijo de Joás, se fue a vivir a su casa. ^30^ Gedeón tuvo setenta hijos concebidos de su cuerpo, pues tenía muchas mujeres. ^31^ Su concubina que estaba en Siquem también le dio a luz un hijo, y le puso el nombre de Abimelec. ^32^ Gedeón, hijo de Joás, murió en buena edad y fue enterrado en la tumba de su padre Joás, en Ofra de los abiezritas. ^a^ 
 ^a^[**8:32** Jue 6,11]
@@ -294,7 +294,7 @@
 ^16^ “Ahora bien, si has actuado con verdad y justicia, pues has hecho rey a Abimelec, y si has tratado bien a Jerobaal y a su casa, y has hecho con él lo que merecen sus manos ^17^ (pues mi padre luchó por ti, arriesgó su vida y te libró de la mano de Madián ^18^ y tú te has levantado hoy contra la casa de mi padre y has matado a sus hijos, setenta personas, sobre una sola piedra, y has hecho a Abimelec, hijo de su sierva, rey sobre los hombres de Siquem, porque es tu hermano); ^19^ si hoy has tratado con verdad y justicia a Jerobaal y a su casa, alégrate con Abimelec, y que él también se alegre contigo; ^20^ pero si no, que salga fuego de Abimelec y devore a los hombres de Siquem y a la casa de Milo.” 
 
 ^21^ Jotam huyó y se fue a Beer^a^ y vivió allí, por temor a Abimelec, su hermano. 
-^a^[**9: 21** “Beer” significa en hebreo “pozo”, es decir, una aldea llamada así por su pozo.]
+^a^[**9:21** “Beer” significa en hebreo “pozo”, es decir, una aldea llamada así por su pozo.]
 
 ## Desastroso desarrollo de la situación en Siquem
 ^22^ Abimelec fue príncipe de Israel durante tres años. ^23^ Entonces Dios envió un espíritu maligno entre Abimelec y los hombres de Siquem; y los hombres de Siquem trataron con traición a Abimelec, ^24^ para que llegara la violencia hecha a los setenta hijos de Jerobaal, y para que su sangre cayera sobre Abimelec, su hermano, que los mató, y sobre los hombres de Siquem que fortalecieron sus manos para matar a sus hermanos. ^a^ ^25^ Los hombres de Siquem le tendieron una emboscada en las cimas de los montes, y robaron a todos los que pasaban por ese camino; y Abimelec fue informado de ello. 
@@ -431,7 +431,7 @@
 ^17^ Manoa le dijo al ángel de Yahvé: “¿Cuál es tu nombre, para que cuando ocurran tus palabras te honremos?” 
 
 ^18^ El ángel de Yahvé le dijo: “¿Por qué preguntas por mi nombre, ya que es incomprensible^a^ ?” 
-^a^[**13: 18** o, maravilloso]
+^a^[**13:18** o, maravilloso]
 
 ^19^ Entonces Manoa tomó el cabrito con la ofrenda de comida y lo ofreció sobre la roca a Yahvé. Entonces el ángel hizo una cosa sorprendente mientras Manoa y su esposa miraban. ^a^ ^20^ Porque cuando la llama subió hacia el cielo desde el altar, el ángel de Yavé ascendió en la llama del altar. Manoa y su esposa miraban, y se postraron en tierra. ^21^ Pero el ángel de Yavé no se le apareció más a Manoa ni a su esposa. Entonces Manoa supo que era el ángel de Yahvé. ^22^ Manoa dijo a su mujer: “Seguramente moriremos, porque hemos visto a Dios”. 
 ^a^[**13:19** Jue 6,21]
@@ -489,7 +489,7 @@
 ^13^ Le hablaron diciendo: “No, sino que te ataremos bien y te entregaremos en sus manos; pero seguro que no te mataremos”. Lo ataron con dos cuerdas nuevas y lo sacaron de la roca. 
 
 ^14^ Cuando llegó a Lehi, los filisteos gritaron al recibirlo. Entonces el Espíritu de Yahvé vino poderosamente sobre él, y las cuerdas que tenía en sus brazos se volvieron como lino quemado en el fuego, y se le cayeron las correas de las manos. ^a^ ^15^ Encontró una quijada fresca de asno, extendió la mano, la tomó y golpeó con ella a mil hombres. ^16^ Sansón dijo: “Con la quijada de un asno, montones y montones; con la quijada de un asno he golpeado a mil hombres”. ^17^ Cuando terminó de hablar, arrojó la quijada de su mano; y aquel lugar se llamó Ramath Lehi. ^b^ 
-^a^[**15:14** Jue 14,6] ^b^[**15: 17** “Ramath” significa “colina” y “Lehi” significa “mandíbula”.]
+^a^[**15:14** Jue 14,6] ^b^[**15:17** “Ramath” significa “colina” y “Lehi” significa “mandíbula”.]
 
 ^18^ Tenía mucha sed, e invocó a Yahvé y dijo: “Tú has dado esta gran liberación por mano de tu siervo; ¿y ahora moriré de sed y caeré en manos de los incircuncisos?” 
 
@@ -547,7 +547,7 @@
 ^4^ Cuando devolvió el dinero a su madre, ésta tomó doscientas piezas de plata y se las dio a un platero, que hizo con ellas una imagen tallada y una imagen fundida. Estaba en la casa de Miqueas. 
 
 ^5^ El hombre Miqueas tenía una casa de dioses, y se hizo un efod y unos terafines,^a^ y consagró a uno de sus hijos, que fue su sacerdote. ^b^ ^6^ En aquellos días no había rey en Israel. Cada uno hacía lo que le parecía correcto. ^c^ 
-^a^[**17: 5** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.] ^b^[**17:5** Jue 8,27] ^c^[**17:6** Jue 18,1; Jue 19,1; Jue 21,25]
+^a^[**17:5** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.] ^b^[**17:5** Jue 8,27] ^c^[**17:6** Jue 18,1; Jue 19,1; Jue 21,25]
 
 ## Miqueas nombra a un levita errante de Judá sacerdote en su santuario
 ^7^ Había un joven de Belén de Judá, de la familia de Judá, que era levita, y vivía allí. ^a^ ^8^ El hombre salió de la ciudad, de Belén de Judá, para vivir donde pudiera encontrar un lugar, y llegó a la región montañosa de Efraín, a la casa de Miqueas, mientras viajaba. ^9^ Miqueas le dijo: “¿De dónde vienes?” Le dijo: “Soy un levita de Belén de Judá y busco un lugar para vivir”. 
@@ -578,7 +578,7 @@
 ^a^[**18:13** Jue 17,1]
 
 ^14^ Entonces los cinco hombres que fueron a espiar el país de Lais respondieron y dijeron a sus hermanos: “¿Sabéis que en estas casas hay un efod, y terafines,^a^ y una imagen tallada, y una imagen fundida? Ahora, pues, consideren lo que tienen que hacer”. ^b^ ^15^ Pasaron por allí y llegaron a la casa del joven levita, a la casa de Miqueas, y le preguntaron cómo estaba. ^16^ Los seiscientos hombres armados con sus armas de guerra, que eran de los hijos de Dan, estaban a la entrada de la puerta. ^17^ Los cinco hombres que habían ido a espiar la tierra subieron y entraron allí, y tomaron la imagen grabada, el efod, los terafines y la imagen fundida; y el sacerdote se quedó a la entrada de la puerta con los seiscientos hombres armados con armas de guerra. 
-^a^[**18: 14** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.] ^b^[**18:14** Jue 17,4-5]
+^a^[**18:14** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.] ^b^[**18:14** Jue 17,4-5]
 
 ^18^ Cuando éstos entraron en la casa de Miqueas y tomaron la imagen grabada, el efod, los terafines y la imagen fundida, el sacerdote les dijo: “¿Qué estáis haciendo?”. 
 

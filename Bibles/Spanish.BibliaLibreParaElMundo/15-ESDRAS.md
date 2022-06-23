@@ -1,7 +1,7 @@
 # 1
 ## El permiso de Ciro para el regreso de los judíos restantes y para la construcción del templo
 ^1^ En el primer año de Ciro, rey de Persia, para que se cumpliera la palabra de Yavé^a^ por boca de Jeremías, Yavé despertó el espíritu de Ciro, rey de Persia, de modo que hizo un anuncio por todo su reino, y lo puso también por escrito, diciendo, ^b^ ^2^ “Ciro, rey de Persia, dice: “Yahvé, el Dios^c^ del cielo, me ha dado todos los reinos de la tierra; y me ha ordenado que le construya una casa en Jerusalén, que está en Judá. ^d^ ^3^ Quienquiera que haya entre ustedes de todo su pueblo, que su Dios esté con él, y que suba a Jerusalén, que está en Judá, y edifique la casa de Yavé, el Dios de Israel (él es Dios), que está en Jerusalén. ^4^ El que quede, en cualquier lugar donde viva, que los hombres de su lugar lo ayuden con plata, con oro, con bienes y con animales, además de la ofrenda voluntaria para la casa de Dios que está en Jerusalén”.
-^a^[**1: 1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:1** 2Cró 36,22-23; Jer 25,11; Jer 29,10] ^c^[**1: 2** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^d^[**1:2** Is 44,28; Is 45,1]
+^a^[**1:1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:1** 2Cró 36,22-23; Jer 25,11; Jer 29,10] ^c^[**1:2** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^d^[**1:2** Is 44,28; Is 45,1]
 
 ## El efecto y ejecución de la disposición
 ^5^ Entonces los jefes de familia de Judá y de Benjamín, los sacerdotes y los levitas, todos cuyos espíritus Dios había incitado a subir, se levantaron para edificar la casa de Yahvé que está en Jerusalén. ^6^ Todos los que los rodeaban reforzaron sus manos con vasos de plata, con oro, con bienes, con animales y con cosas preciosas, además de todo lo que se ofrecía voluntariamente. 
@@ -30,14 +30,14 @@
 ^a^[**2:55** 1Re 9,21]
 
 ^59^ Estos fueron los que subieron de Tel Melá, Tel Harsa, Querubín, Addán e Immer; pero no pudieron mostrar las casas de sus padres ni su descendencia,^a^ si eran de Israel: ^60^ los hijos de Delaía, los hijos de Tobías, los hijos de Necoda, seiscientos cincuenta y dos. ^61^ De los hijos de los sacerdotes: los hijos de Habaía, los hijos de Hakkoz, y los hijos de Barzilai, que tomó mujer de las hijas de Barzilai Galaadita, y se llamó como ellas. ^b^ ^62^ Estos buscaron su lugar entre los que estaban registrados por genealogía, pero no fueron encontrados; por lo tanto, fueron considerados descalificados y apartados del sacerdocio. ^63^ El gobernador les dijo que no debían comer de las cosas más santas hasta que se levantara un sacerdote para servir con Urim y con Tumim.
-^a^[**2: 59** o, semilla] ^b^[**2:61** 2Sam 19,32]
+^a^[**2:59** o, semilla] ^b^[**2:61** 2Sam 19,32]
 
 ## Número total de personas y animales de carga en el municipio
 ^64^ Toda la asamblea reunida era de cuarenta y dos mil trescientos sesenta, ^65^ además de sus siervos y siervas, que eran siete mil trescientos treinta y siete; y tenían doscientos cantores y cantoras. ^66^ Sus caballos eran setecientos treinta y seis; sus mulos, doscientos cuarenta y cinco; ^67^ sus camellos, cuatrocientos treinta y cinco; sus asnos, seis mil setecientos veinte. 
 
 ## Contribuciones a la construcción del templo en Jerusalén; Palabra final
 ^68^ Algunos de los jefes de familia de los padres, cuando llegaron a la casa de Yahvé que está en Jerusalén, ofrecieron voluntariamente por la casa de Dios para levantarla en su lugar. ^69^ Dieron, según su capacidad, para el tesoro de la obra, sesenta y un mil dáricos de oro,^a^ cinco mil minas^b^ de plata, y cien vestidos sacerdotales. 
-^a^[**2: 69** un dárico era una moneda de oro emitida por un rey persa, que pesaba unos 8, 4 gramos o unas 0, 27 onzas troy cada una.] ^b^[**2: 69** El Seol es el lugar de los muertos. ]
+^a^[**2:69** un dárico era una moneda de oro emitida por un rey persa, que pesaba unos 8, 4 gramos o unas 0, 27 onzas troy cada una.] ^b^[**2:69** El Seol es el lugar de los muertos. ]
 
 ^70^ Así que los sacerdotes y los levitas, con parte del pueblo, los cantores, los porteros y los servidores del templo, vivían en sus ciudades, y todo Israel en sus ciudades.
 

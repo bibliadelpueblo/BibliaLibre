@@ -460,7 +460,7 @@
 
 ## La gente se queja de la comida
 ^4^ La multitud mixta que estaba en medio de ellos tuvo mucha lujuria; también los hijos de Israel volvieron a llorar y dijeron: “¿Quién nos dará de comer? ^5^ Nos acordamos del pescado que comimos en Egipto de balde; de los pepinos, los melones, los puerros, las cebollas y los ajos; ^6^ pero ahora hemos perdido el apetito. No hay nada más que este maná para mirar”. ^7^ El maná era como una semilla de cilantro, y parecía bdellium. ^a^ ^b^ ^8^ La gente iba de un lado a otro, lo recogía y lo molía en molinos o lo batía en morteros, lo hervía en ollas y hacía tortas con él. Su sabor era como el del aceite fresco. ^9^ Cuando el rocío caía sobre el campamento por la noche, el maná caía sobre él.
-^a^[**11: 7** El bdellium es una resina que se extrae de ciertos árboles africanos.] ^b^[**11:7** Éxod 16,14-31]
+^a^[**11:7** El bdellium es una resina que se extrae de ciertos árboles africanos.] ^b^[**11:7** Éxod 16,14-31]
 
 ## El lamento de Moisés ante Dios
 ^10^ Moisés oyó que el pueblo lloraba en sus familias, cada uno a la puerta de su tienda; y la ira de Yahvé ardía en gran medida, y Moisés se disgustó. ^11^ Moisés dijo a Yavé: “¿Por qué has tratado tan mal a tu siervo? ¿Por qué no he hallado gracia ante tus ojos, para que pongas sobre mí la carga de todo este pueblo? ^12^ ¿He concebido yo a todo este pueblo? ¿Acaso los he sacado, para que me digas: “Llévalos en tu seno, como una nodriza lleva a un niño de pecho, a la tierra que juraste a sus padres”? ^13^ ¿De dónde podría sacar carne para dar a todo este pueblo? Porque lloran ante mí, diciendo: ‘Danos carne para que comamos’. ^14^ No puedo soportar solo a todo este pueblo, porque es demasiado pesado para mí. ^15^ Si me tratas así, por favor, mátame ahora mismo, si es que he hallado gracia ante tus ojos; y no me dejes ver mi miseria.” 
@@ -490,7 +490,7 @@
 
 ## Alimentación de codornices; Juicio de Dios; las tumbas del placer
 ^31^ Salió un viento de Yahvé y trajo codornices del mar, y las dejó caer junto al campamento, como a un día de camino de un lado, y a un día de camino del otro, alrededor del campamento, y como a dos codos^a^ sobre la superficie de la tierra. ^b^ ^32^ El pueblo se levantó todo ese día, toda esa noche y todo el día siguiente, y recogió las codornices. El que menos juntó, juntó diez homers;^c^ y se las repartieron todas alrededor del campamento. ^33^ Mientras la carne estaba todavía entre sus dientes, antes de ser masticada, la ira de Yavé ardió contra el pueblo, y Yavé hirió al pueblo con una plaga muy grande. ^34^ El nombre de ese lugar fue llamado Kibroth Hattaavah,^d^ , porque allí enterraron a la gente que codiciaba. 
-^a^[**11: 31** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.] ^b^[**11:31** Éxod 16,13] ^c^[**11: 32** 1 homer es de unos 220 litros o 6 bushels] ^d^[**11: 34** Kibroth Hattaavah significa “tumbas de la lujuria”]
+^a^[**11:31** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.] ^b^[**11:31** Éxod 16,13] ^c^[**11:32** 1 homer es de unos 220 litros o 6 bushels] ^d^[**11:34** Kibroth Hattaavah significa “tumbas de la lujuria”]
 
 ^35^ Desde Kibroth Hattaavah el pueblo viajó a Hazeroth; y se quedaron en Hazeroth.
 
@@ -539,7 +539,7 @@
 
 ## Las palabras tranquilizadoras de Caleb y las palabras desalentadoras de los otros exploradores
 ^31^ Pero los hombres que subieron con él dijeron: “No somos capaces de subir contra ese pueblo, porque es más fuerte que nosotros”. ^32^ Presentaron a los hijos de Israel un mal informe de la tierra que habían espiado, diciendo: “La tierra por la que hemos pasado para espiarla es una tierra que devora a sus habitantes, y todos los pueblos que vimos en ella son hombres de gran estatura. ^33^ Allí vimos a los Nefilim,^a^ los hijos de Anak, que provienen de los Nefilim.^b^ Éramos a nuestra vista como saltamontes, y así éramos a su vista”. ^c^ 
-^a^[**13: 33** o, gigantes] ^b^[**13: 33** o, gigantes] ^c^[**13:33** Deut 9,2]
+^a^[**13:33** o, gigantes] ^b^[**13:33** o, gigantes] ^c^[**13:33** Deut 9,2]
 
 # 14
 ## El efecto del informe en la gente
@@ -559,7 +559,7 @@
 ^11^ Yahvé dijo a Moisés: “¿Hasta cuándo me despreciará este pueblo? ¿Hasta cuándo no creerán en mí, por todas las señales que he realizado entre ellos? ^12^ Los heriré con la peste y los desheredaré, y haré de ustedes una nación más grande y poderosa que ellos.” 
 
 ^13^ Moisés dijo a Yahvé: “Entonces los egipcios lo oirán, porque tú hiciste surgir a este pueblo con tu fuerza de entre ellos. ^14^ Lo contarán a los habitantes de esta tierra. Han oído que tú, Yahvé, estás en medio de este pueblo; porque a ti, Yahvé, te ven cara a cara, y tu nube está sobre ellos, y tú vas delante de ellos, en una columna de nube de día, y en una columna de fuego de noche. ^15^ Ahora bien, si matas a este pueblo como a un solo hombre, las naciones que han oído tu fama hablarán diciendo: ^16^ ‘Porque Yahvé no pudo llevar a este pueblo a la tierra que le había jurado, por eso lo ha matado en el desierto.’ ^a^ ^17^ Ahora, por favor, haz que el poder de Yahvé^b^ sea grande, según has hablado, diciendo: ^18^ ‘Yahvé es lento para la ira, y abundante en misericordia, que perdona la iniquidad y la desobediencia; y de ninguna manera exculpará al culpable, visitando la iniquidad de los padres en los hijos, en la tercera y en la cuarta generación.’ ^19^ Por favor, perdona la iniquidad de este pueblo según la grandeza de tu amorosa bondad, y tal como has perdonado a este pueblo, desde Egipto hasta ahora.” 
-^a^[**14:16** Deut 9,28] ^b^[**14: 17** La palabra traducida “Señor” es “Adonai”.]
+^a^[**14:16** Deut 9,28] ^b^[**14:17** La palabra traducida “Señor” es “Adonai”.]
 
 ^20^ Yahvé dijo: “Yo he perdonado según tu palabra; ^21^ pero en realidad — mientras yo viva y toda la tierra se llene de la gloria de Yahvé — ^a^ ^22^ porque todos esos hombres que han visto mi gloria y mis señales, que hice en Egipto y en el desierto, me han tentado estas diez veces, y no han escuchado mi voz; ^23^ ciertamente no verán la tierra que juré a sus padres, ni la verá ninguno de los que me despreciaron. ^24^ Pero a mi siervo Caleb, por haber tenido otro espíritu con él y haberme seguido plenamente, lo introduciré en la tierra a la que entró. Su descendencia la poseerá. ^b^ ^25^ Puesto que el amalecita y el cananeo habitan en el valle, mañana se volverán y entrarán en el desierto por el camino del Mar Rojo.”
 ^a^[**14:21** Éxod 9,16] ^b^[**14:24** Jos 14,6; Jos 14,9]
@@ -582,10 +582,10 @@
 # 15
 ## Regulaciones con respecto a las ofrendas de comida y bebida como adición a los holocaustos y las ofrendas de salvación
 ^1^ Yahvé habló a Moisés, diciendo: ^2^ “Habla a los hijos de Israel y diles: ‘Cuando hayáis entrado en la tierra de vuestras moradas, que yo os doy, ^3^ y hagáis una ofrenda por fuego a Yahvé — un holocausto, o un sacrificio, para cumplir un voto o como ofrenda voluntaria, o en vuestras fiestas establecidas, para hacer un aroma agradable a Yahvé, de la manada o del rebaño — ^a^ ^4^ entonces el que ofrezca su ofrenda ofrecerá a Yahvé una ofrenda de harina de una décima parte de un efa^b^ de harina fina mezclada con una cuarta parte de un hin^c^ de aceite. ^5^ Prepararás vino para la libación, la cuarta parte de un hin, con el holocausto o para el sacrificio, por cada cordero. 
-^a^[**15:3** Lev 7,16] ^b^[**15: 4** 1 efa son unos 22 litros o unos 2/3 de una fanega] ^c^[**15: 4** Una hin es aproximadamente 6, 5 litros o 1, 7 galones.]
+^a^[**15:3** Lev 7,16] ^b^[**15:4** 1 efa son unos 22 litros o unos 2/3 de una fanega] ^c^[**15:4** Una hin es aproximadamente 6, 5 litros o 1, 7 galones.]
 
 ^6^ “‘Por un carnero, prepararás para una ofrenda dos décimas de efa^a^ de harina fina mezclada con la tercera parte de un hin de aceite; ^7^ y para la libación ofrecerás la tercera parte de un hin de vino, de aroma agradable para Yahvé. ^8^ Cuando prepares un toro para un holocausto o para un sacrificio, para cumplir un voto, o para ofrendas de paz a Yahvé, ^9^ entonces ofrecerás con el toro una ofrenda de harina de tres décimas de efa^b^ de harina fina mezclada con medio hin de aceite; ^10^ y ofrecerás para la libación medio hin de vino, como ofrenda encendida, de aroma agradable a Yahvé. ^11^ Así se hará por cada toro, por cada carnero, por cada uno de los corderos o de los cabritos. ^12^ Según el número que prepares, así harás con cada uno según su número. 
-^a^[**15: 6** 1 efa son unos 22 litros o unos 2/3 de una fanega] ^b^[**15: 9** 1 efa son unos 22 litros o unos 2/3 de una fanega]
+^a^[**15:6** 1 efa son unos 22 litros o unos 2/3 de una fanega] ^b^[**15:9** 1 efa son unos 22 litros o unos 2/3 de una fanega]
 
 ^13^ “‘Todos los nativos harán estas cosas de esta manera, al ofrecer una ofrenda encendida, de aroma agradable a Yahvé. ^14^ Si un extranjero vive como forastero con vosotros, o quienquiera que esté entre vosotros a lo largo de vuestras generaciones, y ofrece una ofrenda encendida de aroma agradable a Yahvé, como hacéis vosotros, así lo hará. ^15^ Para la asamblea, habrá un estatuto para vosotros y para el extranjero que vive como tal, un estatuto para siempre a lo largo de vuestras generaciones. Como vosotros, así será el extranjero ante Yahvé. ^a^ ^16^ Una sola ley y un solo estatuto habrá para vosotros y para el extranjero que vive como forastero con vosotros.’”
 ^a^[**15:15** Éxod 12,49]
@@ -609,7 +609,7 @@
 
 ## Ordenanza sobre las borlas para adherir a las puntas de la ropa
 ^37^ Yahvé habló a Moisés, diciendo: ^38^ “Habla a los hijos de Israel y diles que se hagan flecos^a^ en los bordes de sus vestidos por sus generaciones, y que pongan en el fleco^b^ de cada borde un cordón de color azul. ^c^ ^39^ Será para ti como un fleco,^d^ para que lo veas y te acuerdes de todos los mandamientos de Yahvé, y los pongas en práctica; y para que no sigas tu propio corazón y tus propios ojos, según los cuales solías jugar a la prostitución; ^40^ para que te acuerdes y pongas en práctica todos mis mandamientos, y seas santo para tu Dios. ^41^ Yo soy el Señor, tu Dios, que te sacó de la tierra de Egipto para ser tu Dios: Yo soy Yahvé tu Dios”.
-^a^[**15: 38** o, borlas (hebreo צִיצִ֛ת)] ^b^[**15: 38** o, borla] ^c^[**15:38** Deut 22,12; Mat 23,5] ^d^[**15: 39** o, borla]
+^a^[**15:38** o, borlas (hebreo צִיצִ֛ת)] ^b^[**15:38** o, borla] ^c^[**15:38** Deut 22,12; Mat 23,5] ^d^[**15:39** o, borla]
 
 # 16
 ## El ultraje de Coré y los rubenitas
@@ -647,10 +647,10 @@
 ^27^ Y se alejaron de la tienda de Coré, Datán y Abiram, por todos lados. Datán y Abiram salieron, y se pusieron a la puerta de sus tiendas con sus mujeres, sus hijos y sus pequeños. 
 
 ^28^ Moisés dijo: “Así sabrán que Yahvé me ha enviado a hacer todas estas obras, porque no son de mi propia cosecha. ^29^ Si estos hombres mueren la muerte común de todos los hombres, o si experimentan lo que todos los hombres experimentan, entonces Yahvé no me ha enviado. ^30^ Pero si Yahvé hace una cosa nueva, y la tierra abre su boca y los traga con todo lo que les pertenece, y bajan vivos al Seol,^a^ entonces entenderás que estos hombres han despreciado a Yahvé.” 
-^a^[**16: 30** El Seol es el lugar de los muertos.]
+^a^[**16:30** El Seol es el lugar de los muertos.]
 
 ^31^ Cuando terminó de decir todas estas palabras, la tierra que estaba debajo de ellos se partió. ^32^ La tierra abrió su boca y se los tragó con sus familias, todos los hombres de Coré y todos sus bienes. ^33^ Ellos y todo lo que les pertenecía descendieron vivos al Seol.^a^ La tierra se cerró sobre ellos, y perecieron de entre la asamblea. ^34^ Todo Israel que estaba alrededor de ellos huyó ante su grito, pues dijeron: “¡No sea que la tierra nos trague!” ^35^ Salió fuego del Señor y devoró a los doscientos cincuenta hombres que ofrecían el incienso. ^b^ 
-^a^[**16: 33** El Seol es el lugar de los muertos.] ^b^[**16:35** Lev 10,1-2; Sal 106,18]
+^a^[**16:33** El Seol es el lugar de los muertos.] ^b^[**16:35** Lev 10,1-2; Sal 106,18]
 
 ## El uso de las 250 ollas humeantes por parte de Coré y sus compañeros como cubierta para el altar de sacrificios
 ^36^ Yahvé habló a Moisés, diciendo: ^37^ “Habla a Eleazar, hijo de Aarón, el sacerdote, para que saque los incensarios de la quema, y esparza el fuego lejos del campamento; porque son sagrados, ^38^ incluso los incensarios de los que pecaron contra su propia vida. Que los golpeen en placas para cubrir el altar, pues los ofrecieron ante Yahvé. Por eso son santos. Serán una señal para los hijos de Israel”. 
@@ -698,7 +698,7 @@
 ^a^[**18:13** Éxod 23,19; Deut 18,4]
 
 ^14^ “Todo lo consagrado en Israel será tuyo. ^a^ ^15^ Todo lo que abra el vientre, de toda la carne que ofrezcan a Yahvé, tanto de hombres como de animales, será tuyo. Sin embargo, redimirás al primogénito del hombre, y redimirás al primogénito de los animales inmundos. ^b^ ^16^ Redimirás a los que deban ser redimidos de un mes de edad, según tu estimación, por cinco siclos de dinero, según el siclo^c^ del santuario, que pesa veinte gerahs. ^d^ 
-^a^[**18:14** Lev 27,28] ^b^[**18:15** Éxod 13,12-13; Éxod 34,19-20] ^c^[**18: 16** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.] ^d^[**18: 16** Una gerah equivale a unos 0, 5 gramos o a unos 7, 7 granos.]
+^a^[**18:14** Lev 27,28] ^b^[**18:15** Éxod 13,12-13; Éxod 34,19-20] ^c^[**18:16** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.] ^d^[**18:16** Una gerah equivale a unos 0, 5 gramos o a unos 7, 7 granos.]
 
 ^17^ “Pero no redimirás el primogénito de una vaca, ni el primogénito de una oveja, ni el primogénito de una cabra. Son sagrados. Rociarás su sangre sobre el altar, y quemarás su grasa como ofrenda encendida, como aroma agradable para Yahvé. ^18^ Su carne será tuya, como el pecho de la ofrenda mecida y como el muslo derecho, será tuyo. ^19^ Todas las ofrendas mecidas de las cosas santas que los hijos de Israel ofrecen a Yahvé, te las he dado a ti y a tus hijos e hijas contigo, como una porción para siempre. Es un pacto de sal para siempre ante Yahvé para ti y para tu descendencia contigo”. 
 
@@ -745,7 +745,7 @@
 ^12^ Yahvé dijo a Moisés y a Aarón: “Como no habéis creído en mí para santificarme a los ojos de los hijos de Israel, no introduciréis esta asamblea en la tierra que les he dado.” 
 
 ^13^ Estas son las aguas de Meribá;^a^ porque los hijos de Israel lucharon con Yahvé, y él se santificó en ellas. ^b^ 
-^a^[**20: 13** “Meribah” significa “pelea”.] ^b^[**20:13** Sal 81,8]
+^a^[**20:13** “Meribah” significa “pelea”.] ^b^[**20:13** Sal 81,8]
 
 ## Los edomitas se niegan a permitir el paso; La muerte de Aaron
 ^14^ Moisés envió mensajeros desde Cades al rey de Edom, diciendo: “Tu hermano Israel dice: Tú sabes toda la aflicción que nos ha sucedido; ^a^ 
@@ -772,7 +772,7 @@
 # 21
 ## Batalla victoriosa con el Rey de Arad
 ^1^ El cananeo, rey de Arad, que vivía en el sur, se enteró de que Israel venía por el camino de Atarim. Luchó contra Israel y tomó cautivos a algunos de ellos. ^2^ Israel hizo un voto a Yavé y le dijo: “Si realmente entregas a este pueblo en mi mano, destruiré por completo sus ciudades.” ^a^ ^3^ Yahvé escuchó la voz de Israel y entregó a los cananeos; y los destruyeron por completo a ellos y a sus ciudades. El nombre del lugar fue llamado Hormah. ^b^
-^a^[**21:2** Deut 13,16; Jos 6,17; Jue 1,17; 1Sam 15,3] ^b^[**21: 3** “Hormah” significa “destrucción”.]
+^a^[**21:2** Deut 13,16; Jos 6,17; Jue 1,17; 1Sam 15,3] ^b^[**21:3** “Hormah” significa “destrucción”.]
 
 ## Murmullos de la gente; las serpientes venenosas y la serpiente de bronce
 ^4^ Viajaron desde el monte Hor por el camino del Mar Rojo, para rodear la tierra de Edom. El alma del pueblo estaba muy desanimada a causa del viaje. ^5^ El pueblo hablaba contra Dios y contra Moisés: “¿Por qué nos has sacado de Egipto para morir en el desierto? Porque no hay pan, no hay agua, y nuestra alma aborrece esta comida repugnante”. 
@@ -1023,15 +1023,15 @@
 
 ## El holocausto diario de la mañana y de la tarde
 ^3^ Les dirás: ‘Esta es la ofrenda encendida que ofrecerás a Yavé: corderos machos de un año sin defecto, dos al día, para un holocausto continuo. ^a^ ^4^ Ofrecerás un cordero por la mañana, y ofrecerás el otro cordero al atardecer, ^5^ con la décima parte de un efa^b^ de harina fina como ofrenda, mezclada con la cuarta parte de un hin^c^ de aceite batido. ^d^ ^6^ Es un holocausto continuo que fue ordenado en el monte Sinaí como aroma agradable, una ofrenda hecha por fuego a Yahvé. ^7^ Su libación será la cuarta parte de un hin por cada cordero. Derramarás una libación de bebida fuerte a Yahvé en el lugar santo. ^8^ El otro cordero lo ofrecerás al atardecer. Como la ofrenda de la mañana, y como su libación, lo ofrecerás, ofrenda encendida, como aroma agradable a Yahvé.
-^a^[**28:3** Éxod 29,38-42] ^b^[**28: 5** 1 efa son unos 22 litros o unos 2/3 de una fanega] ^c^[**28: 5** Una hin es de unos 6, 5 litros, por lo que 1/4 de hin es de unos 1, 6 litros o 1, 7 cuartos de galón.] ^d^[**28:5** Lev 2,1]
+^a^[**28:3** Éxod 29,38-42] ^b^[**28:5** 1 efa son unos 22 litros o unos 2/3 de una fanega] ^c^[**28:5** Una hin es de unos 6, 5 litros, por lo que 1/4 de hin es de unos 1, 6 litros o 1, 7 cuartos de galón.] ^d^[**28:5** Lev 2,1]
 
 ## La ofrenda adicional del sábado
 ^9^ “‘En el día de reposo, ofrecerás dos corderos machos de un año sin defecto, y dos décimas de efa^a^ de harina fina como ofrenda mezclada con aceite, y su libación: ^10^ Este es el holocausto de cada sábado, además del holocausto continuo y su libación. 
-^a^[**28: 9** 1 efa son unos 22 litros o unos 2/3 de una fanega]
+^a^[**28:9** 1 efa son unos 22 litros o unos 2/3 de una fanega]
 
 ## El sacrificio adicional en el día de luna nueva
 ^11^ “‘En los comienzos de tus meses, ofrecerás un holocausto a Yahvé dos novillos, un carnero, siete corderos machos de un año sin defecto, ^a^ ^12^ y tres décimas de un efa^b^ de harina fina para un holocausto mezclado con aceite, para cada toro; y dos décimas de harina fina para un holocausto mezclado con aceite, para el único carnero; ^c^ ^13^ y una décima de harina fina mezclada con aceite para un holocausto a cada cordero, como ofrenda quemada de aroma agradable, ofrenda hecha por fuego a Yahvé. ^14^ Sus libaciones serán la mitad de un hin de vino para el toro, la tercera parte de un hin para el carnero y la cuarta parte de un hin para el cordero. Este es el holocausto de cada mes durante todos los meses del año. ^15^ También se ofrecerá un macho cabrío como ofrenda por el pecado a Yahvé, además del holocausto continuo y su libación. ^d^ 
-^a^[**28:11** Núm 10,10] ^b^[**28: 12** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^c^[**28:12** Núm 28,20; Núm 28,28; Núm 15,2-13] ^d^[**28:15** Núm 28,22]
+^a^[**28:11** Núm 10,10] ^b^[**28:12** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^c^[**28:12** Núm 28,20; Núm 28,28; Núm 15,2-13] ^d^[**28:15** Núm 28,22]
 
 ## Las ofrendas adicionales para los siete días de la Fiesta de los Panes sin Levadura
 ^16^ “‘En el primer mes, el día catorce del mes, es la Pascua de Yahvé. ^a^ ^17^ El decimoquinto día de este mes habrá una fiesta. Se comerá pan sin levadura durante siete días. ^18^ En el primer día habrá una santa convocación. No harás ningún trabajo regular, ^b^ ^19^ sino que ofrecerás una ofrenda encendida, un holocausto a Yahvé: dos novillos, un carnero y siete corderos de un año. Serán sin defecto, ^20^ con su ofrenda de harina, harina fina mezclada con aceite. Ofrecerás tres décimas por el toro, y dos décimas por el carnero. ^21^ Ofrecerás una décima por cada cordero de los siete corderos; ^22^ y un macho cabrío como ofrenda por el pecado, para hacer expiación por ti. ^c^ ^23^ Los ofrecerás además del holocausto de la mañana, que es un holocausto continuo. ^24^ Así ofrecerás cada día, durante siete días, el alimento de la ofrenda encendida, de aroma agradable para Yahvé. Se ofrecerá además del holocausto continuo y su libación. ^25^ El séptimo día tendréis una santa convocación. No harás ningún trabajo regular.
@@ -1116,7 +1116,7 @@
 ^48^ Se acercaron a Moisés los oficiales que estaban al frente de los miles del ejército, los capitanes de miles y los de cientos. ^49^ Le dijeron a Moisés: “Tus siervos han tomado la suma de los hombres de guerra que están bajo nuestro mando, y no falta ni uno de nosotros. ^50^ Hemos traído la ofrenda de Yavé, lo que cada uno encontró: adornos de oro, brazaletes, pulseras, anillos de sello, pendientes y collares, para expiar nuestras almas ante Yavé.” 
 
 ^51^ Moisés y el sacerdote Eleazar tomaron su oro, todas las joyas trabajadas. ^52^ Todo el oro de la ofrenda de ola que ofrecieron a Yavé, de los capitanes de millares y de los capitanes de centenas, fue de dieciséis mil setecientos cincuenta siclos. ^a^ ^53^ Los hombres de guerra habían tomado un botín, cada uno para sí mismo. ^54^ Moisés y el sacerdote Eleazar tomaron el oro de los capitanes de millares y de centenas, y lo llevaron a la Tienda del Encuentro como memorial para los hijos de Israel ante Yavé.
-^a^[**31: 52** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 16. 750 siclos equivalen a unos 167, 5 kilogramos o a unas 368, 5 libras.]
+^a^[**31:52** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 16. 750 siclos equivalen a unos 167, 5 kilogramos o a unas 368, 5 libras.]
 
 # 32
 ## La petición de los rubenitas y gaditas fue rechazada por Moisés en un discurso punitivo
@@ -1185,7 +1185,7 @@
 ^1^ Yahvé habló a Moisés en las llanuras de Moab, junto al Jordán, en Jericó, diciendo: ^2^ “Ordena a los hijos de Israel que den a los levitas ciudades para que las habiten de su herencia. Darán a los levitas tierras de pastoreo para las ciudades de los alrededores. ^3^ Ellos tendrán las ciudades para habitarlas. Sus tierras de pastoreo serán para su ganado, para sus posesiones y para todos sus animales. 
 
 ^4^ “Las tierras de pastoreo de las ciudades, que darás a los levitas, serán desde el muro de la ciudad y hacia afuera mil codos^a^ alrededor de ella. ^5^ Medirás fuera de la ciudad dos mil codos por el lado este, dos mil codos por el lado sur, dos mil codos por el lado oeste y dos mil codos por el lado norte, quedando la ciudad en medio. Estas serán las tierras de pastoreo de sus ciudades. 
-^a^[**35: 4** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**35:4** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^6^ “Las ciudades que darás a los levitas serán las seis ciudades de refugio que darás para que huya el homicida. Además de ellas, darás cuarenta y dos ciudades. ^a^ ^7^ Todas las ciudades que darás a los levitas serán cuarenta y ocho ciudades junto con sus tierras de pastoreo. ^8^ En cuanto a las ciudades que darás de la posesión de los hijos de Israel, de los muchos tomarás muchos, y de los pocos tomarás pocos. Cada uno, según su herencia, dará parte de sus ciudades a los levitas”. ^9^ Yahvé habló a Moisés, diciendo: ^10^ “Habla a los hijos de Israel y diles: ‘Cuando paséis el Jordán a la tierra de Canaán, ^11^ entonces os designaréis ciudades para que os sirvan de refugio, para que huya allí el homicida que mate a cualquier persona sin saberlo. ^12^ Las ciudades os servirán de refugio contra el vengador, para que el homicida no muera hasta que se presente ante la congregación para ser juzgado. ^13^ Las ciudades que darás serán para ti seis ciudades de refugio. ^14^ Darás tres ciudades al otro lado del Jordán, y darás tres ciudades en la tierra de Canaán. Serán ciudades de refugio. ^15^ Estas seis ciudades serán refugio para los hijos de Israel, para el extranjero y para el forastero que viva entre ellos, para que todo el que mate a alguien sin querer huya allí.
 ^a^[**35:6** Éxod 21,13; Deut 4,41; Deut 19,2; Deut 19,9; Jos 20,-1]

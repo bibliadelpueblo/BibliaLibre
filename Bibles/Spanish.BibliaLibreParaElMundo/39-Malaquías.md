@@ -1,7 +1,7 @@
 # 1
 ## El amor de Dios por Israel en contraste con su trato al pueblo hermano de Edom
 ^1^ Una revelación, la palabra de Yahvé^a^ dirigida a Israel por Malaquías. 
-^a^[**1: 1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
+^a^[**1:1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
 
 ^2^ “Te he amado”, dice Yahvé. Sin embargo, dices: “¿Cómo nos has amado?” “¿No era Esaú hermano de Jacob?”, dice Yahvé, “Sin embargo, amé a Jacob; 
 
@@ -15,18 +15,18 @@
 ^a^[**1:8** Lev 22,20; Lev 22,23]
 
 ^9^ “Ahora, por favor, suplica el favor de Dios,^a^ para que sea bondadoso con nosotros. Con esto, ¿aceptará a alguno de ustedes?”, dice Yahvé de los Ejércitos. 
-^a^[**1: 9** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
+^a^[**1:9** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
 
 ^10^ “¡Oh, si hubiera entre ustedes uno que cerrara las puertas, para no encender el fuego en mi altar en vano! No me agradan ustedes — dice el Señor de los Ejércitos — ni aceptaré una ofrenda de su mano. ^11^ Porque desde la salida del sol hasta su puesta, mi nombre es grande entre las naciones, y en todo lugar se ofrecerá incienso a mi nombre y una ofrenda pura, porque mi nombre es grande entre las naciones”, dice el Señor de los Ejércitos. ^a^ ^12^ “Pero ustedes lo profanan cuando dicen: ‘La mesa de Yavé está contaminada, y su fruto, incluso su comida, es despreciable’. ^13^ También decís: ‘¡Mira,^b^ qué cansancio es!’ Y tú lo has olfateado”, dice el Señor de los Ejércitos; “y has traído lo que fue tomado por la violencia, el cojo y el enfermo; así traes la ofrenda. ¿Debo aceptar esto de tu mano?”, dice Yahvé. 
-^a^[**1:11** Is 60,1-7] ^b^[**1: 13** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
+^a^[**1:11** Is 60,1-7] ^b^[**1:13** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
 
 ^14^ “Pero es maldito el engañador que tiene en su rebaño un macho, y hace votos y sacrificios al Señor^a^ una cosa defectuosa; porque yo soy un gran Rey — dice el Señor de los Ejércitos — y mi nombre es imponente entre las naciones.”
-^a^[**1: 14** La palabra traducida “Señor” es “Adonai”.]
+^a^[**1:14** La palabra traducida “Señor” es “Adonai”.]
 
 # 2
 ## Advertencia y amenaza de castigo a los sacerdotes; Levi entonces y ahora
 ^1^ “Ahora, sacerdotes, este mandamiento es para ustedes. ^2^ Si no escuchan, y si no lo toman a pecho, para dar gloria a mi nombre — dice el Señor de los Ejércitos —, entonces enviaré la maldición sobre ustedes, y maldeciré sus bendiciones. De hecho, ya las he maldecido, porque no te lo tomas a pecho. ^a^ ^3^ He aquí que reprenderé a tu descendencia,^b^ y esparciré estiércol sobre tus rostros, el estiércol de tus fiestas, y serás llevado con él. ^4^ Sabrás que te he enviado este mandamiento, para que mi pacto sea con Leví”, dice el Señor de los Ejércitos. ^5^ “Mi pacto fue con él de vida y de paz, y se los di para que fuera reverente hacia mí; y él fue reverente hacia mí, y estuvo en temor de mi nombre. ^6^ La ley de la verdad estaba en su boca, y la injusticia no se hallaba en sus labios. Anduvo conmigo en paz y rectitud, y apartó a muchos de la iniquidad. ^7^ Porque los labios del sacerdote deben guardar el conocimiento, y deben buscar la ley en su boca; porque él es el mensajero de Yahvé de los Ejércitos. ^8^ Pero tú te has apartado del camino. Has hecho tropezar a muchos en la ley. Has corrompido el pacto de Leví”, dice el Señor de los Ejércitos. ^9^ “Por eso también te he hecho despreciable y malvado ante todo el pueblo, según la forma en que no has guardado mis caminos, sino que has tenido respeto a las personas en la ley.
-^a^[**2:2** Deut 28,15] ^b^[**2: 3** o, semilla]
+^a^[**2:2** Deut 28,15] ^b^[**2:3** o, semilla]
 
 ## Contra los matrimonios con mujeres extranjeras y contra los divorcios; Recordatorio de fidelidad matrimonial
 ^10^ ¿No tenemos todos un solo padre? ¿No nos ha creado un solo Dios? ¿Por qué traicionamos cada uno a su hermano, profanando el pacto de nuestros padres? ^a^ ^11^ Judá ha actuado con traición, y se ha cometido una abominación en Israel y en Jerusalén; porque Judá ha profanado la santidad de Yavé que ama, y se ha casado con la hija de un dios extranjero. ^b^ ^12^ Yahvé cortará al hombre que haga esto, al que despierte y al que responda, de las tiendas de Jacob y al que ofrezca una ofrenda a Yahvé de los Ejércitos. 

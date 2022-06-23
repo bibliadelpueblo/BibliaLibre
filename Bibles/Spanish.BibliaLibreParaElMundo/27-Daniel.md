@@ -1,11 +1,11 @@
 # 1
 ## La crianza de Daniel en la corte pagana de Babilonia
 ^1^ En el tercer año del reinado de Joacim, rey de Judá, Nabucodonosor, rey de Babilonia, llegó a Jerusalén y la sitió. ^a^ ^2^ El Señor^b^ entregó a Joacim, rey de Judá, con algunos de los utensilios de la casa de Dios;^c^ y los llevó a la tierra de Sinar, a la casa de su dios. Llevó los utensilios a la casa del tesoro de su dios.
-^a^[**1:1** 2Re 24,1-2] ^b^[**1: 2** La palabra traducida “Señor” es “Adonai”.] ^c^[**1: 2** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
+^a^[**1:1** 2Re 24,1-2] ^b^[**1:2** La palabra traducida “Señor” es “Adonai”.] ^c^[**1:2** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
 
 ## Daniel y sus amigos vienen a Babilonia para ser entrenados para el servicio real
 ^3^ El rey habló con Aspenaz, el maestro de sus eunucos, para que trajera a algunos de los hijos de Israel, de la descendencia real^a^ y de los nobles ^4^ jóvenes en los que no hubiera ningún defecto, sino que fueran bien dotados, diestros en toda sabiduría, dotados de conocimiento, que comprendieran la ciencia y que tuvieran la capacidad de estar en el palacio del rey; y que les enseñara la ciencia y la lengua de los caldeos. ^5^ El rey dispuso para ellos una porción diaria de los manjares del rey y del vino que él bebía, y que fueran alimentados durante tres años, para que al final de ellos estuvieran en pie ante el rey. 
-^a^[**1: 3** o, semilla]
+^a^[**1:3** o, semilla]
 
 ^6^ Entre estos hijos de Judá estaban Daniel, Ananías, Misael y Azarías. ^7^ El príncipe de los eunucos les dio nombres: a Daniel le puso el nombre de Beltsasar; a Ananías, el de Sadrac; a Misael, el de Mesac; y a Azarías, el de Abednego. 
 
@@ -63,7 +63,7 @@
 ^a^[**2:29** Dan 2,22] ^b^[**2:30** Gén 41,16]
 
 ^31^ “Tú, oh rey, viste, y he aquí,^a^ una gran imagen. Esta imagen, que era poderosa, y cuyo brillo era excelente, estaba delante de ti; y su aspecto era aterrador. ^32^ En cuanto a esta imagen, su cabeza era de oro fino, su pecho y sus brazos de plata, su vientre y sus muslos de bronce, ^33^ sus piernas de hierro, sus pies en parte de hierro y en parte de barro. ^34^ Viste hasta que se cortó una piedra sin manos, que golpeó la imagen en sus pies que eran de hierro y de barro, y los hizo pedazos. ^35^ Entonces el hierro, el barro, el bronce, la plata y el oro se hicieron pedazos juntos, y se convirtieron en paja de las eras de verano. El viento se los llevó, de modo que no se encontró lugar para ellos. La piedra que golpeó la imagen se convirtió en una gran montaña y llenó toda la tierra. 
-^a^[**2: 31** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
+^a^[**2:31** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
 
 ## La interpretación de Daniel del sueño
 ^36^ “Este es el sueño, y vamos a contar su interpretación ante el rey. ^37^ Tú, oh rey, eres rey de reyes, a quien el Dios del cielo ha dado el reino, el poder, la fuerza y la gloria. ^a^ ^38^ Dondequiera que habiten los hijos de los hombres, él ha entregado en tu mano los animales del campo y las aves del cielo, y te ha hecho gobernar sobre todos ellos. Tú eres la cabeza de oro. ^b^ 
@@ -84,7 +84,7 @@
 # 3
 ## Nabucodonosor hace levantar un ídolo y ordena su adoración sobre el castigo de muerte por fuego
 ^1^ El rey Nabucodonosor hizo una imagen de oro, cuya altura era de sesenta codos^a^ y su anchura de seis codos. La colocó en la llanura de Dura, en la provincia de Babilonia. ^2^ Entonces el rey Nabucodonosor envió a reunir a los gobernadores locales, a los diputados y a los gobernadores, a los jueces, a los tesoreros, a los consejeros, a los alguaciles y a todos los gobernantes de las provincias, para que vinieran a la dedicación de la imagen que el rey Nabucodonosor había erigido. ^3^ Entonces se reunieron los gobernadores locales, los diputados y los gobernadores, los jueces, los tesoreros, los consejeros, los alguaciles y todos los gobernantes de las provincias para venir a la dedicación de la imagen que el rey Nabucodonosor había erigido; y se pusieron de pie ante la imagen que Nabucodonosor había erigido. 
-^a^[**3: 1** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**3:1** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^4^ Entonces el heraldo gritó en voz alta: “A vosotros se os ordena, pueblos, naciones y lenguas, ^5^ que siempre que oigáis el sonido del cuerno, de la flauta, de la cítara, de la lira, del arpa, de la flauta y de toda clase de música, os postréis y adoréis la imagen de oro que el rey Nabucodonosor ha levantado. ^6^ El que no se postre y adore será arrojado en el centro de un horno de fuego ardiente en la misma hora.” 
 
@@ -105,7 +105,7 @@
 ^24^ Entonces el rey Nabucodonosor se asombró y se levantó apresuradamente. Habló y dijo a sus consejeros: “¿No echamos a tres hombres atados en medio del fuego?”. Respondieron al rey: “Cierto, oh rey”. 
 
 ^25^ Él respondió: “Mira, veo a cuatro hombres sueltos, caminando en medio del fuego, y están ilesos. El aspecto del cuarto es como un hijo de los dioses.^a^ ” ^b^ 
-^a^[**3: 25** O, el Hijo de Dios.] ^b^[**3:25** Is 43,2; Dan 3,28]
+^a^[**3:25** O, el Hijo de Dios.] ^b^[**3:25** Is 43,2; Dan 3,28]
 
 ## El rey reconoce la grandeza del Dios de los judíos, ordena su honor y confirma a los tres amigos de Daniel en su alto cargo
 ^26^ Entonces Nabucodonosor se acercó a la boca del horno de fuego ardiente. Habló y dijo: “¡Sadrac, Mesac y Abednego, siervos del Dios Altísimo, salid y venid aquí!” Entonces Sadrac, Mesac y Abednego salieron de en medio del fuego. 
@@ -333,7 +333,7 @@
 # 9
 ## Daniel, preocupado por una profecía de Jeremías, decide obtener información de Dios a través de una oración solemne
 ^1^ En el primer año de Darío, hijo de Asuero, de la estirpe de los medos, que fue hecho rey sobre el reino de los caldeos, ^2^ en el primer año de su reinado, yo, Daniel, comprendí por medio de los libros el número de los años sobre los cuales vino la palabra de Yahvé^a^ al profeta Jeremías para que se cumplieran las desolaciones de Jerusalén, es decir, setenta años. ^b^ ^3^ Puse mi rostro ante el Señor Dios, para buscarlo mediante la oración y las súplicas, con ayuno, cilicio y ceniza.
-^a^[**9: 2** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones. ] ^b^[**9:2** Jer 25,11-12]
+^a^[**9:2** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones. ] ^b^[**9:2** Jer 25,11-12]
 
 ## Oración de Daniel, confesión del pecado, y solicitud de salvación
 ^4^ Oré a Yahvé, mi Dios, e hice confesión, y dije, “Oh, Señor, Dios grande y temible, que guarda el pacto y la bondad amorosa con los que le aman y guardan sus mandamientos, 
@@ -357,7 +357,7 @@
 ^24^ “Setenta semanas están decretadas sobre tu pueblo y sobre tu santa ciudad, para acabar con la desobediencia, para poner fin a los pecados, para reconciliar la iniquidad, para traer la justicia eterna, para sellar la visión y la profecía, y para ungir al santísimo. 
 
 ^25^ “Sabed, pues, y discernid que desde la salida de la orden de restaurar y edificar Jerusalén hasta el Ungido,^a^ el príncipe, habrá siete semanas y sesenta y dos semanas. Se construirá de nuevo, con calle y foso, incluso en tiempos difíciles. ^26^ Después de las sesenta y dos semanas el Ungido^b^ será cortado y no tendrá nada. El pueblo del príncipe que viene destruirá la ciudad y el santuario. Su fin será con una inundación, y la guerra será hasta el final. Las desolaciones están decididas. ^c^ ^27^ Él hará un pacto firme con muchos durante una semana. A la mitad de la semana hará cesar el sacrificio y la ofrenda. En el ala de las abominaciones vendrá uno que hace desolación; y hasta el final completo decretado, la ira se derramará sobre la desolación.” ^d^ 
-^a^[**9: 25** “Ungido” también puede traducirse como “Mesías” (igual que “Cristo”).] ^b^[**9: 26** “Ungido” también puede traducirse como “Mesías” (igual que “Cristo”).] ^c^[**9:26** Luc 21,24] ^d^[**9:27** Dan 12,11; Mat 24,15]
+^a^[**9:25** “Ungido” también puede traducirse como “Mesías” (igual que “Cristo”).] ^b^[**9:26** “Ungido” también puede traducirse como “Mesías” (igual que “Cristo”).] ^c^[**9:26** Luc 21,24] ^d^[**9:27** Dan 12,11; Mat 24,15]
 
 # 10
 ## La preparación de Daniel para la visiona mediante el ayuno
@@ -368,7 +368,7 @@
 
 ## La apariencia exterior del mensajero celestial; Efecto de la aparición en Daniel
 ^4^ En el día veinticuatro del primer mes, estando yo a la orilla del gran río, que es Hiddekel, ^a^ ^5^ alcé los ojos y miré, y he aquí que había un hombre vestido de lino, cuya cintura estaba adornada con oro puro de Ufaz. ^6^ Su cuerpo era también como el berilo, y su rostro como la apariencia de un relámpago, y sus ojos como antorchas encendidas. Sus brazos y sus pies eran como el bronce bruñido. La voz de sus palabras era como la voz de una multitud. 
-^a^[**10: 4** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
+^a^[**10:4** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
 
 ^7^ Yo, Daniel, fui el único que vio la visión, pues los hombres que estaban conmigo no vieron la visión, sino que cayó sobre ellos un gran temblor y huyeron a esconderse. ^8^ Así que me quedé solo y vi esta gran visión. No me quedaban fuerzas, pues mi rostro se puso pálido como la muerte, y no conservaba ninguna fuerza. ^9^ Sin embargo, oí la voz de sus palabras. Cuando oí la voz de sus palabras, caí en un profundo sueño sobre mi rostro, con la cara hacia el suelo. ^a^ 
 ^a^[**10:9** Dan 8,17-18]

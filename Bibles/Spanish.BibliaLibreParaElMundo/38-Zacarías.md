@@ -208,7 +208,7 @@
 ^a^[**12:9** Apoc 20,9]
 
 ^10^ Derramaré sobre la casa de David y sobre los habitantes de Jerusalén el espíritu de gracia y de súplica. Mirarán hacia mí^a^ a quien traspasaron; y lo llorarán como se llora a un hijo único, y se afligirán amargamente por él como se aflige a un primogénito. ^b^ ^11^ En aquel día habrá un gran luto en Jerusalén, como el luto de Hadadrimón en el valle de Meguido. ^c^ ^12^ La tierra estará de luto, cada familia aparte; la familia de la casa de David aparte, y sus esposas aparte; la familia de la casa de Natán aparte, y sus esposas aparte; ^13^ la familia de la casa de Leví aparte, y sus esposas aparte; la familia de los Simeítas aparte, y sus esposas aparte; ^14^ todas las familias que queden, cada familia aparte, y sus esposas aparte.
-^a^[**12: 10** Después de “yo”, el hebreo tiene las dos letras “Aleph Tav” (la primera y la última del alfabeto hebreo), no como una palabra, sino como un marcador gramatical.] ^b^[**12:10** Jl 3,1; Juan 19,37; Apoc 1,7] ^c^[**12:11** 2Cró 35,22-25]
+^a^[**12:10** Después de “yo”, el hebreo tiene las dos letras “Aleph Tav” (la primera y la última del alfabeto hebreo), no como una palabra, sino como un marcador gramatical.] ^b^[**12:10** Jl 3,1; Juan 19,37; Apoc 1,7] ^c^[**12:11** 2Cró 35,22-25]
 
 # 13
 ## El pecado divino del pueblo; Eliminación de la idolatría, la falsa profecía y toda inmundicia
@@ -225,7 +225,7 @@
 # 14
 ## El día del Señor: lucha, dificultades y salvación en Jerusalén
 ^1^ He aquí que viene un día de Yahvé, en el que se repartirá entre vosotros vuestro botín. ^a^ ^2^ Porque reuniré a todas las naciones contra Jerusalén para combatir, y la ciudad será tomada, las casas saqueadas y las mujeres violadas. La mitad de la ciudad saldrá en cautiverio, y el resto del pueblo no será eliminado de la ciudad. ^b^ ^3^ Entonces el Señor saldrá a luchar contra esas naciones, como cuando luchó en el día de la batalla. ^c^ ^4^ Sus pies se posarán en aquel día sobre el Monte de los Olivos, que está delante de Jerusalén, al este; y el Monte de los Olivos se dividirá en dos, de este a oeste, formando un valle muy grande. La mitad del monte se desplazará hacia el norte, y la otra mitad hacia el sur. ^5^ Huiréis por el valle de mis montes, porque el valle de los montes llegará hasta Azel. Sí, huirán, como huyeron antes del terremoto en los días de Uzías, rey de Judá. Vendrá Yahvé, mi Dios, y todos los santos con vosotros. ^d^ ^e^ 
-^a^[**14:1** Is 39,6] ^b^[**14:2** Zac 12,3] ^c^[**14:3** Apoc 19,19] ^d^[**14: 5** la Septuaginta se lee “él” en lugar de “tú”.] ^e^[**14:5** Am 1,1]
+^a^[**14:1** Is 39,6] ^b^[**14:2** Zac 12,3] ^c^[**14:3** Apoc 19,19] ^d^[**14:5** la Septuaginta se lee “él” en lugar de “tú”.] ^e^[**14:5** Am 1,1]
 
 ## Los maravillosos procesos de la naturaleza en el día del Señor
 ^6^ En ese día no habrá luz, ni frío, ni heladas. ^7^ Será un día único, conocido por Yahvé: no será ni día ni noche, sino que al atardecer habrá luz. 
@@ -249,4 +249,4 @@
 ^a^[**14:16** Zac 14,9]
 
 ## En Judá y Jerusalén, incluso los objetos de uso más comunes serán santificados
-^20^ En aquel día se inscribirá en las campanas de los caballos: “SANTO A YAHWEH”; y las ollas de la casa de Yahvé serán como los tazones ante el altar. ^21^ Sí, todas las ollas de Jerusalén y de Judá serán santas a Yavé de los Ejércitos; y todos los que sacrifican vendrán a tomar de ellas y a cocinar en ellas. En ese día ya no habrá un cananeo^[**14: 21** o, comerciante] en la casa de Yavé de los Ejércitos. 
+^20^ En aquel día se inscribirá en las campanas de los caballos: “SANTO A YAHWEH”; y las ollas de la casa de Yahvé serán como los tazones ante el altar. ^21^ Sí, todas las ollas de Jerusalén y de Judá serán santas a Yavé de los Ejércitos; y todos los que sacrifican vendrán a tomar de ellas y a cocinar en ellas. En ese día ya no habrá un cananeo^[**14:21** o, comerciante] en la casa de Yavé de los Ejércitos. 

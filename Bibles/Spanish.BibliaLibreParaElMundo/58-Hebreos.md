@@ -223,7 +223,7 @@
 ^a^[**11:13** Gén 23,4; Gén 47,9]
 
 ^17^ Por la fe, Abraham, siendo probado, ofreció a Isaac. Sí, el que había recibido gustosamente las promesas ofrecía a su ^a^ hijo unigénito, ^b^ ^18^ al que se le dijo: “Tu descendencia será contada como de Isaac”, ^19^ concluyendo que Dios es capaz de resucitar incluso de entre los muertos. En sentido figurado, también lo recibió de entre los muertos. 
-^a^[**11: 17** TR lee “Él” en lugar de “Ellos”] ^b^[**11:17** Gén 22,-1; Sant 2,21]
+^a^[**11:17** TR lee “Él” en lugar de “Ellos”] ^b^[**11:17** Gén 22,-1; Sant 2,21]
 
 ^20^ Por la fe, Isaac bendijo a Jacob y a Esaú, incluso en lo que respecta a las cosas por venir. 
 

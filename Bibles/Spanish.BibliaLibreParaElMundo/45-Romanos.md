@@ -227,34 +227,34 @@
 ^a^[**10:4** Mat 5,17; Heb 8,13; Juan 3,18; Gal 3,24-25]
 
 ^5^ Porque Moisés escribe sobre la justicia de la ley: “El que las cumpla vivirá por ellas”. ^a^ ^6^ Pero la justicia que es de la fe dice esto: “No digas en tu corazón: “¿Quién subirá al cielo?^b^ (es decir, hacer bajar a Cristo); ^7^ o, ‘¿Quién bajará al abismo?^c^ (es decir, hacer subir a Cristo de entre los muertos)”. ^8^ Pero, ¿qué dice? “La palabra está cerca de ti, en tu boca y en tu corazón”^d^ , es decir, la palabra de fe que predicamos: ^9^ que si confiesas con tu boca que Jesús es el Señor y crees en tu corazón que Dios lo resucitó de entre los muertos, te salvarás. ^10^ Porque con el corazón se cree para obtener la justicia, y con la boca se confiesa para obtener la salvación. ^11^ Porque la Escritura dice: “El que cree en él no quedará defraudado”. ^e^ 
-^a^[**10: 5** Levítico 18: 5] ^b^[**10: 6** Deuteronomio 30: 12] ^c^[**10: 7** Deuteronomio 30: 13] ^d^[**10: 8** Deuteronomio 30: 14] ^e^[**10: 11** Isaías 28: 16]
+^a^[**10:5** Levítico 18:5] ^b^[**10:6** Deuteronomio 30:12] ^c^[**10:7** Deuteronomio 30:13] ^d^[**10:8** Deuteronomio 30:14] ^e^[**10:11** Isaías 28:16]
 
 ^12^ Porque no hay distinción entre judío y griego, pues el mismo Señor es Señor de todos, y es rico para todos los que le invocan. ^a^ ^13^ Porque “Todo el que invoque el nombre del Señor se salvará”. ^b^ ^14^ ¿Cómo, pues, invocarán a aquel en quien no han creído? ¿Cómo creerán en él si no han oído? ¿Cómo oirán sin un predicador? ^15^ ¿Y cómo van a predicar si no son enviados? Como está escrito: “Qué hermosos son los pies de los que anuncian la Buena Nueva de la paz, que traen buenas noticias”. ^c^
-^a^[**10:12** Hech 10,34-35; Hech 15,9] ^b^[**10: 13** Joel 2: 32] ^c^[**10: 15** Isaías 52: 7]
+^a^[**10:12** Hech 10,34-35; Hech 15,9] ^b^[**10:13** Joel 2:32] ^c^[**10:15** Isaías 52:7]
 
 ## La inexcusabilidad de la parte incrédula de Israel, que ha rechazado la salvación que también le fue ofrecida
 ^16^ Pero no todos escucharon las buenas noticias. Porque Isaías dice: “Señor, ¿quién ha creído en nuestro informe?” ^a^ ^17^ Así que la fe viene por el oír, y el oír por la palabra de Dios. ^18^ Pero yo digo, ¿no escucharon? Sí, ciertamente, “Su sonido se extendió por toda la tierra, sus palabras hasta los confines del mundo^b^ ”. ^c^ 
-^a^[**10: 16** Isaías 53: 1] ^b^[**10: 18** Salmo 19: 4] ^c^[**10:18** Rom 15,19]
+^a^[**10:16** Isaías 53:1] ^b^[**10:18** Salmo 19:4] ^c^[**10:18** Rom 15,19]
 
 ^19^ Pero yo pregunto, ¿no lo sabía Israel? Primero dice Moisés, “Te provocaré a los celos con lo que no es una nación. Te haré enfadar con una nación vacía de entendimiento^a^ ”. 
-^a^[**10: 19** Deuteronomio 32: 21]
+^a^[**10:19** Deuteronomio 32:21]
 
 ^20^ Isaías es muy audaz y dice, “Me encontraron los que no me buscaron. Me revelé a los que no preguntaron por mí^a^ ”. 
-^a^[**10: 20** Isaías 65: 1]
+^a^[**10:20** Isaías 65:1]
 
 ^21^ Pero sobre Israel dice: “Todo el día extendí mis manos a un pueblo desobediente y contrario”. ^a^
-^a^[**10: 21** Isaías 65: 2]
+^a^[**10:21** Isaías 65:2]
 
 # 11
 ## La mayor parte de los judíos es terca y rechazada por Dios, pero incluso ahora una pequeña parte está destinada a la salvación a través de la gracia de Dios
 ^1^ Pregunto entonces, ¿rechazó Dios a su pueblo? ¡Que nunca lo haga! Porque yo también soy israelita, descendiente de Abraham, de la tribu de Benjamín. ^a^ ^2^ Dios no rechazó a su pueblo, al que conoció de antemano. ¿O no sabes lo que dice la Escritura sobre Elías? Cómo suplica a Dios contra Israel: ^3^ “Señor, han matado a tus profetas. Han derribado tus altares. Me han dejado solo, y buscan mi vida”. ^b^ ^4^ ¿Pero cómo le responde Dios? “Me he reservado siete mil hombres que no han doblado la rodilla ante Baal”. ^c^ ^5^ Así también en este tiempo hay un remanente según la elección de la gracia. ^6^ Y si es por gracia, ya no es por obras; de lo contrario, la gracia ya no es gracia. Pero si es por obras, ya no es gracia; de lo contrario, la obra ya no es obra. 
-^a^[**11:1** Sal 94,14; Jer 31,37; Fil 3,5] ^b^[**11: 3** 1 Reyes 19: 10, 14] ^c^[**11: 4** 1 Reyes 19: 18]
+^a^[**11:1** Sal 94,14; Jer 31,37; Fil 3,5] ^b^[**11:3** 1 Reyes 19:10, 14] ^c^[**11:4** 1 Reyes 19:18]
 
 ^7^ ¿Qué es entonces? Lo que Israel busca, eso no lo obtuvo, pero los elegidos lo obtuvieron, y los demás se endurecieron. ^a^ ^8^ Como está escrito: “Dios les dio un espíritu de estupor, ojos para no ver y oídos para no oír, hasta el día de hoy.” ^b^ ^c^ 
-^a^[**11:7** Rom 9,31] ^b^[**11: 8** Deuteronomio 29: 4; Isaías 29: 10] ^c^[**11:8** Deut 29,3]
+^a^[**11:7** Rom 9,31] ^b^[**11:8** Deuteronomio 29:4; Isaías 29:10] ^c^[**11:8** Deut 29,3]
 
 ^9^ David dice, “Que su mesa se convierta en un lazo, en una trampa, un tropiezo, y una retribución para ellos. ^10^ Que se les oscurezcan los ojos para que no vean. Mantengan siempre la espalda doblada”.^a^ 
-^a^[**11: 10** Salmo 69: 22, 23]
+^a^[**11:10** Salmo 69:22, 23]
 
 ## El propósito divino de la salvación en el llamado de los gentiles era vencer la incredulidad de los judíos estimulándolos a emularlos; su rechazo no es definitivo
 ^11^ Pregunto entonces, ¿acaso tropezaron para caer? ¡Que nunca sea así! Pero por su caída ha llegado la salvación a los gentiles, para provocarles celos. ^a^ ^12^ Ahora bien, si su caída es la riqueza del mundo, y su pérdida la riqueza de los gentiles, ¡cuánto más su plenitud! 
@@ -267,13 +267,13 @@
 
 ## Todo el resto del pueblo de Israel eventualmente llegará a la fe después de que las elecciones gentiles se conviertan, y todo será usado para la justificación y glorificación de Dios
 ^25^ Porque no quiero que ignoréis, hermanos, este misterio, para que no seáis sabios en vuestra propia opinión, de que a Israel le ha sucedido un endurecimiento parcial, hasta que haya entrado la plenitud de los gentiles, ^a^ ^26^ y así se salve todo Israel. Como está escrito, “Saldrá de Sión el Libertador, y apartará la impiedad de Jacob. ^b^ ^27^ Este es mi pacto con ellos, cuando les quite sus pecados^c^ ”. 
-^a^[**11:25** Juan 10,16] ^b^[**11:26** Mat 23,39; Sal 14,7] ^c^[**11: 27** Isaías 59: 20-21; 27: 9; Jeremías 31: 33-34]
+^a^[**11:25** Juan 10,16] ^b^[**11:26** Mat 23,39; Sal 14,7] ^c^[**11:27** Isaías 59:20-21; 27:9; Jeremías 31:33-34]
 
 ^28^ En cuanto a la Buena Nueva, son enemigos por causa de ustedes. Pero en cuanto a la elección, son amados por causa de los padres. ^29^ Porque los dones y la llamada de Dios son irrevocables. ^a^ ^30^ Porque así como vosotros en el pasado fuisteis desobedientes a Dios, pero ahora habéis obtenido misericordia por su desobediencia, ^31^ así también éstos han sido ahora desobedientes, para que por la misericordia que se os ha mostrado, obtengan también misericordia. ^32^ Porque Dios ha obligado a todos a la desobediencia, para tener misericordia de todos. 
 ^a^[**11:29** Núm 23,19]
 
 ^33^ ¡Oh, la profundidad de las riquezas de la sabiduría y del conocimiento de Dios! ¡Cuán inescrutable son sus juicios, y sus caminos que no pueden ser trazados! ^a^ ^34^ “Porque ¿quién ha conocido la mente del Señor? ¿O quién ha sido su consejero?” ^b^ ^c^ ^35^ “O quien le ha dado primero, y le será devuelto de nuevo?” ^d^ 
-^a^[**11:33** Is 45,15; Is 55,8-9] ^b^[**11: 34** Isaías 40: 13] ^c^[**11:34** Jer 23,18; 1Cor 2,16] ^d^[**11: 35** Job 41: 11]
+^a^[**11:33** Is 45,15; Is 55,8-9] ^b^[**11:34** Isaías 40:13] ^c^[**11:34** Jer 23,18; 1Cor 2,16] ^d^[**11:35** Job 41:11]
 
 ^36^ Porque de él, por él y para él son todas las cosas. A él sea la gloria por los siglos de los siglos. Amén.
 
@@ -291,7 +291,7 @@
 ^a^[**12:9** 1Tim 1,5; Am 5,15] ^b^[**12:10** Juan 13,4-15; Fil 2,3] ^c^[**12:11** Apoc 3,15; Hech 18,25; Col 3,23] ^d^[**12:12** 1Tes 5,17; Luc 18,1-8; Col 4,2] ^e^[**12:13** Heb 13,2; 3Jn 1,5-8]
 
 ^14^ Bendice a los que te persiguen; bendice y no maldigas. ^a^ ^15^ Alegraos con los que se alegran. Llorad con los que lloran. ^b^ ^16^ Tened los mismos sentimientos los unos hacia los otros. No os preocupéis por lo alto, sino asociaros con los humildes. No seáis sabios en vuestras propias ideas. ^c^ ^17^ No paguéis a nadie mal por mal. Respetad lo que es honorable a los ojos de todos los hombres. ^d^ ^18^ Si es posible, en la medida en que dependa de vosotros, estad en paz con todos los hombres. ^e^ ^19^ No busquéis la venganza vosotros mismos, amados, sino dad lugar a la ira de Dios. Porque está escrito: “La venganza me pertenece; yo pagaré, dice el Señor”. ^f^ ^g^ ^20^ Por eso“Si tu enemigo tiene hambre, aliméntalo. Si tiene sed, dale de beber; porque al hacerlo, amontonarás carbones de fuego sobre su cabeza”. ^h^ ^i^ 
-^a^[**12:14** Mat 5,44; 1Cor 4,12; Hech 7,59] ^b^[**12:15** Sal 35,13-14; 2Cor 11,29] ^c^[**12:16** Rom 15,5; Fil 2,2] ^d^[**12:17** Is 5,21; 1Tes 5,15; Prov 20,22; 2Cor 8,21] ^e^[**12:18** Mar 9,50; Heb 12,14] ^f^[**12: 19** Deuteronomio 32: 35] ^g^[**12:19** Lev 19,18; Mat 5,38-44] ^h^[**12: 20** Proverbios 25: 21-22] ^i^[**12:20** 2Re 6,22]
+^a^[**12:14** Mat 5,44; 1Cor 4,12; Hech 7,59] ^b^[**12:15** Sal 35,13-14; 2Cor 11,29] ^c^[**12:16** Rom 15,5; Fil 2,2] ^d^[**12:17** Is 5,21; 1Tes 5,15; Prov 20,22; 2Cor 8,21] ^e^[**12:18** Mar 9,50; Heb 12,14] ^f^[**12:19** Deuteronomio 32:35] ^g^[**12:19** Lev 19,18; Mat 5,38-44] ^h^[**12:20** Proverbios 25:21-22] ^i^[**12:20** 2Re 6,22]
 
 ^21^ No te dejes vencer por el mal, sino vence el mal con el bien.
 
@@ -304,7 +304,7 @@
 ^7^ Por tanto, dad a cada uno lo que debéis: si debéis impuestos, pagad impuestos; si aduanas, aduanas; si respeto, respeto; si honor, honor. 
 
 ^8^ No debáis a nadie nada, sino amaros unos a otros; porque el que ama a su prójimo ha cumplido la ley. ^a^ ^9^ Porque los mandamientos: “No cometerás adulterio”, “No asesinarás”, “No robarás^b^ ”, “No codiciarás”^c^ y cualquier otro que haya, se resumen en esta frase: “Amarás a tu prójimo como a ti mismo”.^d^ ^10^ El amor no hace daño al prójimo. Por tanto, el amor es el cumplimiento de la ley.
-^a^[**13:8** Gal 5,14; 1Tim 1,5] ^b^[**13: 9** TR añade “No darás falso testimonio”.] ^c^[**13: 9** Éxodo 20: 13-15, 17; Deuteronomio 5: 17-19, 21] ^d^[**13: 9** Levítico 19: 18]
+^a^[**13:8** Gal 5,14; 1Tim 1,5] ^b^[**13:9** TR añade “No darás falso testimonio”.] ^c^[**13:9** Éxodo 20:13-15, 17; Deuteronomio 5:17-19, 21] ^d^[**13:9** Levítico 19:18]
 
 ## El fin cercano del mundo advierte caminar en luz y santificar la vida personal
 ^11^ Haced esto, conociendo el tiempo, que ya es hora de que os despertéis del sueño, porque la salvación está ahora más cerca de nosotros que cuando creímos por primera vez. ^a^ ^12^ La noche está lejos, y el día está cerca. Despojémonos, pues, de las obras de las tinieblas y pongámonos la armadura de la luz. ^b^ ^13^ Caminemos correctamente, como de día; no en juergas y borracheras, no en promiscuidades sexuales y actos lujuriosos, y no en contiendas y envidias. ^c^ ^14^ Sino revestíos del Señor Jesucristo, y no proveáis para la carne, para sus concupiscencias. ^d^ 
@@ -319,7 +319,7 @@
 ^a^[**14:5** Gal 4,10]
 
 ^10^ Pero tú, ¿por qué juzgas a tu hermano? O tú, ¿por qué desprecias a tu hermano? Porque todos compareceremos ante el tribunal de Cristo. ^a^ ^11^ Porque está escrito, “‘Vivo yo’, dice el Señor, ‘ante mí se doblará toda rodilla’. Toda lengua confesará a Dios”. ^b^ ^c^ 
-^a^[**14:10** Mat 25,31-32; Hech 17,31; 2Cor 5,10] ^b^[**14: 11** Isaías 45: 23] ^c^[**14:11** Fil 2,10-11]
+^a^[**14:10** Mat 25,31-32; Hech 17,31; 2Cor 5,10] ^b^[**14:11** Isaías 45:23] ^c^[**14:11** Fil 2,10-11]
 
 ^12^ Así pues, cada uno de nosotros dará cuenta de sí mismo a Dios. ^a^ 
 ^a^[**14:12** Gal 6,5]
@@ -330,31 +330,31 @@
 
 ^22^ ¿Tienes fe? Tenla para ti mismo ante Dios. Dichoso el que no se juzga a sí mismo en lo que aprueba. ^a^ ^23^ Pero el que duda se condena si come, porque no es de fe; y todo lo que no es de fe es pecado. 
 ^24^ Ahora bien, a aquel que es capaz de afianzaros según mi Buena Nueva y la predicación de Jesucristo, según la revelación del misterio que se ha mantenido en secreto durante largos siglos, ^25^ pero que ahora se revela, y por las Escrituras de los profetas, según el mandamiento del Dios eterno, se da a conocer para la obediencia de la fe a todas las naciones; ^26^ al único Dios sabio, por medio de Jesucristo, a quien sea la gloria por los siglos. Amén. ^b^
-^a^[**14:22** Rom 14,2; 1Cor 10,25-27] ^b^[**14: 26** TR coloca los versos 24-26 después de Romanos 16: 24 como versos 25-27. ]
+^a^[**14:22** Rom 14,2; 1Cor 10,25-27] ^b^[**14:26** TR coloca los versos 24-26 después de Romanos 16:24 como versos 25-27. ]
 
 # 15
 ## Exhortación a ser pacientes con los débiles y a la unidad de los cristianos basada en el ejemplo de Cristo
 ^1^ Ahora bien, los que somos fuertes debemos soportar las debilidades de los débiles, y no complacernos a nosotros mismos. ^2^ Cada uno de nosotros debe complacer a su prójimo en lo que es bueno, para ir edificándolo. ^a^ ^3^ Porque ni siquiera Cristo se complació a sí mismo. Sino que, como está escrito, “los reproches de los que os reprochaban cayeron sobre mí”. ^b^ ^4^ Porque todo lo que se ha escrito antes, se ha escrito para que aprendamos, a fin de que, mediante la perseverancia y el estímulo de las Escrituras, tengamos esperanza. ^5^ Ahora bien, el Dios de la perseverancia y del estímulo os conceda que tengáis un mismo sentir los unos con los otros según Cristo Jesús, ^c^ ^6^ para que unánimes glorifiquéis con una sola boca al Dios y Padre de nuestro Señor Jesucristo.
-^a^[**15:2** 1Cor 9,19; 1Cor 10,24; 1Cor 10,33] ^b^[**15: 3** Salmo 69: 9] ^c^[**15:5** Fil 2,2]
+^a^[**15:2** 1Cor 9,19; 1Cor 10,24; 1Cor 10,33] ^b^[**15:3** Salmo 69:9] ^c^[**15:5** Fil 2,2]
 
 ## Un recordatorio para que ambas partes de la comunidad estén unidas y tengan una fe gozosa
 ^7^ Por tanto, aceptaos los unos a los otros, como también Cristo os aceptó a vosotros,^a^ para gloria de Dios. ^8^ Ahora bien, digo que Cristo se ha hecho siervo de la circuncisión por la verdad de Dios, para confirmar las promesas dadas a los padres, ^9^ y para que los gentiles glorifiquen a Dios por su misericordia. Como está escrito, “Por eso te alabaré entre los gentilesy cantar a tu nombre^b^ ”. 
-^a^[**15: 7** TR lee “nosotros” en lugar de “vosotros”] ^b^[**15: 9** 2 Samuel 22: 50; Salmo 18: 49]
+^a^[**15:7** TR lee “nosotros” en lugar de “vosotros”] ^b^[**15:9** 2 Samuel 22:50; Salmo 18:49]
 
 ^10^ De nuevo dice, “Alegraos, gentiles, con su pueblo”. ^a^ 
-^a^[**15: 10** Deuteronomio 32: 43]
+^a^[**15:10** Deuteronomio 32:43]
 
 ^11^ de nuevo, “¡Alabad al Señor, todos los gentiles! Que todos los pueblos lo alaben^a^ ”. 
-^a^[**15: 11** Salmo 117: 1]
+^a^[**15:11** Salmo 117:1]
 
 ^12^ De nuevo, Isaías dice, “Habrá la raíz de Jesse, el que se levanta para gobernar a los gentiles; en él esperarán los gentiles^a^ ”. ^b^ 
-^a^[**15: 12** Isaías 11: 10] ^b^[**15:12** Apoc 5,5]
+^a^[**15:12** Isaías 11:10] ^b^[**15:12** Apoc 5,5]
 
 ^13^ Que el Dios de la esperanza os llene de toda alegría y paz en la fe, para que abundéis en la esperanza con la fuerza del Espíritu Santo. 
 
 ## Revisión justificativa del apóstol de la carta y referencia a su oficio apostólico para los gentiles
 ^14^ Yo mismo estoy persuadido de vosotros, hermanos míos, de que vosotros mismos estáis llenos de bondad, llenos de todo conocimiento, capaces también de amonestar a los demás. ^15^ Pero os escribo con mayor audacia, en parte como recordatorio, por la gracia que me ha sido concedida por Dios, ^16^ para ser siervo de Cristo Jesús para los gentiles, sirviendo como sacerdote de la Buena Nueva de Dios, para que la ofrenda de los gentiles sea aceptable, santificada por el Espíritu Santo. ^a^ ^17^ Tengo, pues, mi jactancia en Cristo Jesús en las cosas que pertenecen a Dios. ^18^ Porque no me atreveré a hablar de ninguna cosa, sino de las que Cristo ha obrado por medio de mí para la obediencia de los gentiles, con palabras y con hechos, ^19^ con el poder de las señales y de los prodigios, con el poder del Espíritu de Dios; de modo que desde Jerusalén y alrededor hasta Ilírico, he predicado plenamente la Buena Nueva de Cristo; ^b^ ^20^ sí, poniendo como objetivo predicar la Buena Nueva, no donde ya se nombraba a Cristo, para no edificar sobre fundamento ajeno. ^c^ ^21^ Pero, como está escrito, “Verán, a quienes no les llegó ninguna noticia de él. Los que no han oído lo entenderán^d^ ”.
-^a^[**15:16** Rom 11,13] ^b^[**15:19** Mar 16,17; 2Cor 12,12] ^c^[**15:20** 2Cor 10,15-16] ^d^[**15: 21** Isaías 52: 15]
+^a^[**15:16** Rom 11,13] ^b^[**15:19** Mar 16,17; 2Cor 12,12] ^c^[**15:20** 2Cor 10,15-16] ^d^[**15:21** Isaías 52:15]
 
 ## Anuncio de los próximos planes de viaje del apóstol
 ^22^ Por eso también me han impedido estas muchas veces ir a ti, ^a^ ^23^ pero ahora, no teniendo ya lugar en estas regiones, y teniendo estos muchos años el anhelo de ir a ti, ^b^ ^24^ siempre que viaje a España, iré a ti. Porque espero veros en mi viaje y que me ayudéis en mi camino, si antes puedo disfrutar de vuestra compañía durante un tiempo. ^25^ Pero ahora, digo, me voy a Jerusalén, a servir a los santos. ^c^ ^26^ Porque a Macedonia y Acaya les ha parecido bien hacer una contribución para los pobres de los santos que están en Jerusalén. ^d^ ^27^ Sí, les ha parecido bien, y son sus deudores. Porque si los gentiles han sido hechos partícipes de sus cosas espirituales, también les deben servir en las cosas materiales. ^e^ ^28^ Así pues, cuando haya cumplido esto y les haya sellado este fruto, seguiré por tu camino hacia España. ^29^ Sé que cuando vaya a ustedes, iré en la plenitud de la bendición de la Buena Nueva de Cristo.
@@ -367,7 +367,7 @@
 # 16
 ## Recomendación de Phöbe, portador de la carta; Saludos del Apóstol a los hermanos en Roma
 ^1^ Os encomiendo a nuestra hermana Febe, que es sierva^a^ de la asamblea que está en Cencreas, ^2^ para que la recibáis en el Señor de manera digna de los santos, y la ayudéis en todo lo que necesite de vosotros, pues ella misma también ha sido ayudante de muchos, y de mí mismo. 
-^a^[**16: 1** o, diácono ]
+^a^[**16:1** o, diácono ]
 
 ^3^ Saludad a Prisca y a Aquila, mis colaboradores en Cristo Jesús, ^4^ que arriesgaron sus propios cuellos por mi vida, a quienes no sólo doy gracias, sino también a todas las asambleas de los gentiles. ^5^ Saludad a la asamblea que está en su casa. Saludad a Epaeneto, mi amado, que es la primicia de Acaya para Cristo. ^6^ Saludad a María, que ha trabajado mucho por nosotros. ^7^ Saludad a Andrónico y a Junia, mis parientes y compañeros de prisión, que son notables entre los apóstoles, que también estuvieron en Cristo antes que yo. ^8^ Saludad a Amplias, mi amado en el Señor. ^9^ Saludad a Urbano, nuestro colaborador en Cristo, y a Estaquis, mi amado. ^10^ Saludad a Apeles, el aprobado en Cristo. Saludad a los de la casa de Aristóbulo. ^11^ Saludad a Herodión, mi pariente. Saludad a los de la casa de Narciso, que están en el Señor. ^12^ Saludad a Trifena y a Trifosa, que trabajan en el Señor. Saludad a Persis, la amada, que trabaja mucho en el Señor. ^13^ Saludad a Rufo, el elegido en el Señor, y a su madre y a la mía. ^a^ ^14^ Saludad a Asíncrito, a Flegón, a Hermes, a Patrobas, a Hermas y a los hermanos que están con ellos. ^15^ Saludad a Filólogo y a Julia, a Nereo y a su hermana, a Olimpas y a todos los santos que están con ellos. ^16^ Saludaos unos a otros con un beso sagrado. Las asambleas de Cristo os saludan.
 ^a^[**16:13** Mar 15,21]
@@ -377,4 +377,4 @@
 ^a^[**16:17** Mat 7,15; Tit 3,10; 2Tes 3,6] ^b^[**16:18** Fil 3,19; Col 2,4] ^c^[**16:19** Rom 1,8; 1Cor 14,20]
 
 ## Saludos de los amigos de Pablo a Roma y finalmente alabanza a Dios
-^21^ Os saludan Timoteo, mi compañero de fatigas, así como Lucio, Jasón y Sosípater, mis parientes. ^22^ Yo, Tercio, que escribo la carta, os saludo en el Señor. ^23^ Os saluda Gayo, mi anfitrión y anfitrión de toda la asamblea. Os saluda Erasto, el tesorero de la ciudad, y el hermano Cuarto. ^24^ ¡La gracia de nuestro Señor Jesucristo esté con todos vosotros! Amén. ^25^ ^[**16: 25** El TR coloca Romanos 14: 24-26 al final de Romanos en lugar de al final del capítulo 14, y numera estos versículos 16: 25-27.] 
+^21^ Os saludan Timoteo, mi compañero de fatigas, así como Lucio, Jasón y Sosípater, mis parientes. ^22^ Yo, Tercio, que escribo la carta, os saludo en el Señor. ^23^ Os saluda Gayo, mi anfitrión y anfitrión de toda la asamblea. Os saluda Erasto, el tesorero de la ciudad, y el hermano Cuarto. ^24^ ¡La gracia de nuestro Señor Jesucristo esté con todos vosotros! Amén. ^25^ ^[**16:25** El TR coloca Romanos 14:24-26 al final de Romanos en lugar de al final del capítulo 14, y numera estos versículos 16:25-27.] 

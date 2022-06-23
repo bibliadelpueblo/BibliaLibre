@@ -10,13 +10,13 @@
 
 ## La cita de Nathan con Betsabé
 ^11^ Entonces Natán habló a Betsabé, madre de Salomón, diciendo: “¿No has oído que Adonías, hijo de Haggit, reina, y que nuestro señor David no lo sabe? ^12^ Ahora, pues, ven, déjame que te aconseje, para que salves tu vida y la de tu hijo Salomón. ^13^ Entra al rey David y dile: “¿No juraste tú, mi señor el rey, a tu siervo, diciendo: “Ciertamente tu hijo Salomón reinará después de mí y se sentará en mi trono”? ¿Por qué, pues, reina Adonías?’ ^14^ Mira,^a^ mientras aún estás hablando allí con el rey, yo también entraré después de ti y confirmaré tus palabras.” 
-^a^[**1: 14** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
+^a^[**1:14** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
 
 ## Betsabé le recuerda al rey su promesa; La intervención de Nathan
 ^15^ Betsabé entró en la habitación del rey. El rey era muy anciano, y Abisag la sunamita servía al rey. ^16^ Betsabé se inclinó y mostró respeto al rey. El rey le dijo: “¿Qué quieres?”. 
 
 ^17^ Ella le dijo: “Señor mío, tú juraste por Yahvé^a^ tu Dios^b^ a tu siervo: ‘Ciertamente tu hijo Salomón reinará después de mí y se sentará en mi trono’. ^18^ Ahora, he aquí que Adonías reina, y tú, mi señor el rey, no lo sabes. ^19^ Ha matado ganado, animales gordos y ovejas en abundancia, y ha llamado a todos los hijos del rey, al sacerdote Abiatar y a Joab, capitán del ejército; pero no ha llamado a Salomón, tu siervo. ^c^ ^20^ Tú, mi señor el rey, los ojos de todo Israel están puestos en ti, para que les digas quién se sentará en el trono de mi señor el rey después de él. ^21^ De lo contrario, cuando mi señor el rey duerma con sus padres, yo y mi hijo Salomón seremos considerados criminales.” 
-^a^[**1: 17** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones. ] ^b^[**1: 17** Un talento equivale a unos 30 kilogramos o 66 libras o 965 onzas troy, por lo que 666 talentos son unas 20 toneladas métricas] ^c^[**1:19** 1Re 1,9-10]
+^a^[**1:17** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones. ] ^b^[**1:17** Un talento equivale a unos 30 kilogramos o 66 libras o 965 onzas troy, por lo que 666 talentos son unas 20 toneladas métricas] ^c^[**1:19** 1Re 1,9-10]
 
 ^22^ Mientras ella seguía hablando con el rey, entró el profeta Natán. ^23^ Se lo comunicaron al rey, diciendo: “He aquí el profeta Natán”. Cuando entró ante el rey, se inclinó ante él con el rostro en tierra. 
 
@@ -323,12 +323,12 @@
 
 ## Información diversa sobre los ingresos, los objetos de valor, la reputación y el poder de Salomón, el comercio de caballos
 ^14^ El peso del oro que llegó a Salomón en un año fue de seiscientos sesenta y seis talentosde oro, ^15^ además de lo que traían los comerciantes, y el tráfico de los mercaderes, y de todos los reyes de los pueblos mixtos, y de los gobernadores del país. ^16^ El rey Salomón hizo doscientos escudos de oro batido; seiscientos siclos^a^ de oro fueron para un escudo. ^17^ Hizo trescientos escudos de oro batido; tres minas^b^ de oro fueron para un escudo; y el rey los puso en la Casa del Bosque del Líbano. ^18^ Además, el rey hizo un gran trono de marfil y lo cubrió con el mejor oro. ^19^ El trono tenía seis peldaños, y la parte superior del trono era redonda por detrás; y había apoyos para los brazos a ambos lados del lugar del asiento, y dos leones de pie junto a los apoyos para los brazos. ^20^ Doce leones estaban de pie a un lado y al otro en los seis escalones. No se hizo nada parecido en ningún reino. ^21^ Todos los vasos del rey Salomón eran de oro, y todos los vasos de la Casa del Bosque del Líbano eran de oro puro. Ninguno era de plata, porque se consideraba de poco valor en los días de Salomón. ^22^ Porque el rey tenía una flota de barcos de Tarsis en el mar con la flota de Hiram. Una vez cada tres años la flota de Tarsis venía trayendo oro, plata, marfil, monos y pavos reales. 
-^a^[**10: 16** Un siclo equivale a unos 10 gramos o a unas 0, 32 onzas troy, por lo que 600 siclos son unos 6 kilogramos o 13, 2 libras o 192 onzas troy.] ^b^[**10: 17** Una mina equivale a unos 600 gramos o 1, 3 libras estadounidenses.]
+^a^[**10:16** Un siclo equivale a unos 10 gramos o a unas 0, 32 onzas troy, por lo que 600 siclos son unos 6 kilogramos o 13, 2 libras o 192 onzas troy.] ^b^[**10:17** Una mina equivale a unos 600 gramos o 1, 3 libras estadounidenses.]
 
 ^23^ Así, el rey Salomón superó a todos los reyes de la tierra en riquezas y en sabiduría. ^24^ Toda la tierra buscaba la presencia de Salomón para escuchar su sabiduría que Dios había puesto en su corazón. ^25^ Año tras año, cada hombre traía su tributo, vasos de plata, vasos de oro, ropa, armaduras, especias, caballos y mulas. 
 
 ^26^ Salomón reunió carros y jinetes. Tenía mil cuatrocientos carros y doce mil jinetes. Los mantuvo en las ciudades de los carros y con el rey en Jerusalén. ^a^ ^27^ El rey hizo que la plata fuera tan común como las piedras en Jerusalén, y los cedros tan comunes como los sicómoros que hay en la llanura. ^28^ Los caballos que tenía Salomón fueron traídos de Egipto. Los mercaderes del rey los recibieron en tropel, cada uno de ellos conducido a un precio. ^29^ Un carro fue importado de Egipto por seiscientos siclos^b^ de plata, y un caballo por ciento cincuenta siclos; y así los exportaron a todos los reyes de los hititas y a los reyes de Siria.
-^a^[**10:26** 1Re 5,6; 2Cró 1,14-17] ^b^[**10: 29** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
+^a^[**10:26** 1Re 5,6; 2Cró 1,14-17] ^b^[**10:29** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
 
 # 11
 ## La poligamia y la idolatría de Salomón; La amenaza de dios
@@ -441,7 +441,7 @@
 
 ## Discurso de castigo y amenaza de Ahías contra Jeroboam
 ^6^ Cuando Ahías oyó el ruido de sus pies al entrar por la puerta, dijo: “¡Entra, mujer de Jeroboam! ¿Por qué te haces pasar por otra? Porque he sido enviado a ti con noticias pesadas. ^7^ Ve y dile a Jeroboam: “Yahvé, el Dios de Israel, dice “Porque te exalté de entre el pueblo y te hice príncipe de mi pueblo Israel, ^a^ ^8^ y arranqué el reino de la casa de David y te lo di a ti y sin embargo no has sido como mi siervo David, que guardó mis mandamientos y me siguió con todo su corazón, para hacer sólo lo que era justo a mis ojos, ^9^ sino que has hecho lo malo por encima de todos los que fueron antes de ti, y has ido a hacerte otros dioses, imágenes de fundición, para provocarme a la ira y me has echado a tus espaldas, ^10^ por tanto, he aquí que yo traeré el mal sobre la casa de Jeroboam, y cortaré de Jeroboam a todo el que orine en una pared,^b^ al que esté encerrado y al que quede suelto en Israel, y barreré totalmente la casa de Jeroboam, como se barre el estiércol hasta que desaparezca todo. ^11^ Los perros se comerán al de Jeroboam que muera en la ciudad, y las aves del cielo se comerán al que muera en el campo, porque Yahvé lo ha dicho”. ^c^ ^12^ Levántate, pues, y vete a tu casa. Cuando tus pies entren en la ciudad, el niño morirá. ^13^ Todo Israel lo llorará y lo enterrará, porque sólo el de Jeroboam llegará a la tumba, porque en él se ha encontrado algo bueno para Yahvé, el Dios de Israel, en la casa de Jeroboam. ^14^ Además, Yahvé suscitará para sí un rey sobre Israel, que eliminará la casa de Jeroboam. ¡Este es el día! ¿Qué? Ahora mismo. ^15^ Porque Yahvé golpeará a Israel, como se agita una caña en el agua; y desarraigará a Israel de esta buena tierra que dio a sus padres, y los dispersará más allá del río,^d^ porque han hecho sus postes de Asera, provocando la ira de Yahvé. ^e^ ^16^ Entregará a Israel a causa de los pecados de Jeroboam, que ha cometido y con los que ha hecho pecar a Israel.” ^f^ 
-^a^[**14:7** 1Re 11,37; 1Re 16,2] ^b^[**14: 10** o, masculino] ^c^[**14:11** 1Re 16,4; 1Re 21,24] ^d^[**14: 15** Es decir, el Éufrates.] ^e^[**14:15** 2Re 17,23] ^f^[**14:16** 1Re 12,30; 1Re 13,34]
+^a^[**14:7** 1Re 11,37; 1Re 16,2] ^b^[**14:10** o, masculino] ^c^[**14:11** 1Re 16,4; 1Re 21,24] ^d^[**14:15** Es decir, el Éufrates.] ^e^[**14:15** 2Re 17,23] ^f^[**14:16** 1Re 12,30; 1Re 13,34]
 
 ## Cumplimiento de la profecía; Palabra final
 ^17^ La mujer de Jeroboam se levantó y partió, y llegó a Tirsa. Al llegar al umbral de la casa, el niño murió. ^18^ Todo Israel lo enterró y lo lloró, según la palabra de Yavé, que habló por medio de su siervo el profeta Ahías. 
@@ -501,7 +501,7 @@
 ^a^[**16:8** 1Re 16,6] ^b^[**16:9** 1Re 15,27] ^c^[**16:10** 2Re 9,31; 2Re 15,10; 2Re 15,14; 2Re 15,25; 2Re 15,30]
 
 ^11^ Cuando comenzó a reinar, apenas se sentó en su trono, atacó a toda la casa de Baasa. No le dejó ni un solo que orinara en una pared^a^ entre sus parientes o sus amigos. ^12^ Así destruyó Zimri toda la casa de Baasa, según la palabra de Yavé que habló contra Baasa por medio del profeta Jehú, ^13^ por todos los pecados de Baasa y los pecados de Elá, su hijo, que cometieron y con los que hicieron pecar a Israel, para provocar la ira de Yavé, el Dios de Israel, con sus vanidades. ^14^ El resto de los hechos de Elá y todo lo que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Israel? 
-^a^[**16: 11** o, masculino]
+^a^[**16:11** o, masculino]
 
 ## Gobierno del rey Zimri de Israel
 ^15^ En el año veintisiete de Asa, rey de Judá, Zimri reinó siete días en Tirsa. El pueblo estaba acampado frente a Gibbetón, que pertenecía a los filisteos. ^a^ ^16^ El pueblo que estaba acampado oyó que Zimri había conspirado y que también había matado al rey. Por eso todo Israel nombró aquel día en el campamento a Omri, capitán del ejército, como rey de Israel. ^b^ ^17^ Omri subió desde Gibbetón, y todo Israel con él, y sitiaron Tirsa. ^18^ Cuando Zimri vio que la ciudad estaba tomada, entró en la parte fortificada de la casa del rey y quemó la casa del rey sobre él con fuego, y murió, ^19^ por sus pecados que cometió al hacer lo que era malo a los ojos de Yavé, al andar en el camino de Jeroboam, y por su pecado que hizo para hacer pecar a Israel. ^20^ El resto de los hechos de Zimri y la traición que cometió, ¿no están escritos en el libro de las crónicas de los reyes de Israel?
@@ -512,7 +512,7 @@
 
 ## Gobierno del rey Omri de Israel; Fundación de la capital Samaria
 ^23^ En el año treinta y uno de Asá, rey de Judá, Omri comenzó a reinar sobre Israel durante doce años. Reinó seis años en Tirsa. ^24^ Compró la colina de Samaria a Semer por dos talentos^a^ de plata; y edificó en la colina, y llamó el nombre de la ciudad que edificó, Samaria, por el nombre de Semer, el dueño de la colina. ^25^ Omri hizo lo que era malo a los ojos de Yahvé, y actuó con maldad por encima de todos los que fueron antes de él. ^b^ ^26^ Porque anduvo en todo el camino de Jeroboam hijo de Nabat, y en sus pecados con que hizo pecar a Israel, para provocar la ira de Yavé, el Dios de Israel, con sus vanidades. ^c^ ^27^ El resto de los hechos de Omri que hizo, y su poderío que mostró, ¿no están escritos en el libro de las crónicas de los reyes de Israel? ^28^ Omri durmió con sus padres y fue enterrado en Samaria, y su hijo Acab reinó en su lugar.
-^a^[**16: 24** Un talento son unos 30 kilos o 66 libras.] ^b^[**16:25** Miq 6,16] ^c^[**16:26** 1Re 12,30]
+^a^[**16:24** Un talento son unos 30 kilos o 66 libras.] ^b^[**16:25** Miq 6,16] ^c^[**16:26** 1Re 12,30]
 
 ## Los pecados del rey Acab de Israel y su esposa Jezabel
 ^29^ En el año treinta y ocho de Asá, rey de Judá, Ajab, hijo de Omri, comenzó a reinar sobre Israel. Ajab hijo de Omri reinó sobre Israel en Samaria veintidós años. ^30^ Ajab hijo de Omri hizo lo que era malo a los ojos de Yavé por encima de todos los que lo precedieron. ^31^ Como si le pareciera poco andar en los pecados de Jeroboam hijo de Nabat, tomó por esposa a Jezabel, hija de Etbaal, rey de los sidonios, y fue a servir a Baal y a adorarlo. ^a^ ^32^ Levantó un altar para Baal en la casa de Baal que había construido en Samaria. ^b^ ^33^ Ajab hizo la Asera; y aún hizo Ajab más para provocar la ira de Yahvé, el Dios de Israel, que todos los reyes de Israel que fueron antes de él.
@@ -600,7 +600,7 @@
 ^a^[**18:29** 1Sam 18,10; Núm 28,4-5]
 
 ^30^ Elías dijo a todo el pueblo: “¡Acérquense a mí!”; y todo el pueblo se acercó a él. Él reparó el altar de Yavé que había sido derribado. ^31^ Elías tomó doce piedras, según el número de las tribus de los hijos de Jacob, a quienes llegó la palabra de Yavé diciendo: “Israel será tu nombre.” ^32^ Con las piedras construyó un altar en nombre de Yavé. Hizo una zanja alrededor del altar lo suficientemente grande como para contener dos seahs^a^ de semillas. ^33^ Puso la madera en orden, cortó el toro en pedazos y lo puso sobre la madera. Dijo: “Llena cuatro tinajas con agua, y viértela sobre el holocausto y sobre la madera”. ^34^ Dijo: “Háganlo por segunda vez;” y lo hicieron por segunda vez. Dijo: “Háganlo por tercera vez”, y lo hicieron por tercera vez. ^35^ El agua corrió alrededor del altar, y también llenó de agua la zanja. 
-^a^[**18: 32** 1 marino equivale a unos 7 litros o 1, 9 galones o 0, 8 picotazos]
+^a^[**18:32** 1 marino equivale a unos 7 litros o 1, 9 galones o 0, 8 picotazos]
 
 ## La oración de Elías escuchada de Dios; Matanza de los pastores de Baal
 ^36^ A la hora de la ofrenda de la tarde, el profeta Elías se acercó y dijo: “Yahvé, Dios de Abraham, de Isaac y de Israel, haz que se sepa hoy que tú eres Dios en Israel y que yo soy tu siervo, y que he hecho todo esto por tu palabra. ^37^ Escúchame, Yahvé, escúchame, para que este pueblo sepa que tú, Yahvé, eres Dios, y que has hecho volver su corazón”. 
@@ -714,7 +714,7 @@
 ^37^ Entonces encontró a otro hombre y le dijo: “Por favor, golpéame”. El hombre lo golpeó y lo hirió. 
 
 ^38^ Entonces el profeta partió y esperó al rey en el camino, y se disfrazó con su cintillo sobre los ojos. ^39^ Al pasar el rey, gritó al rey y le dijo: “Tu siervo salió en medio de la batalla; y he aquí que un hombre se acercó y me trajo a un hombre, y me dijo: “¡Guarda a este hombre! Si por cualquier medio se pierde, entonces tu vida será por la suya, o si no pagarás un talento^a^ de plata.’ ^40^ Como tu siervo estaba ocupado aquí y allá, desapareció”. El rey de Israel le dijo: “Así será tu juicio. Tú mismo lo has decidido”. 
-^a^[**20: 39** Un talento son unos 30 kilos o 66 libras]
+^a^[**20:39** Un talento son unos 30 kilos o 66 libras]
 
 ^41^ Se apresuró a quitarse la cinta de los ojos, y el rey de Israel reconoció que era uno de los profetas. ^42^ Le dijo: “Yahvé dice: ‘Como has dejado ir de tu mano al hombre que yo había consagrado a la destrucción, por eso tu vida tomará el lugar de su vida, y tu pueblo el lugar de su pueblo’.” 
 
@@ -749,7 +749,7 @@
 ^20^ Acab dijo a Elías: “¿Me has encontrado, mi enemigo?” Él respondió: “Te he encontrado, porque te has vendido a hacer lo que es malo a los ojos de Yahvé. 
 
 ^21^ He aquí que yo traigo el mal sobre ti, y te barreré por completo, y cortaré de Acab a todo el que orine contra una pared,^a^ y al que esté encerrado y al que quede suelto en Israel. ^b^ ^22^ Haré que tu casa sea como la casa de Jeroboam, hijo de Nabat, y como la casa de Baasa, hijo de Ahías, por la provocación con que me has hecho enojar y has hecho pecar a Israel.” ^c^ ^23^ Yahvé también habló de Jezabel, diciendo: “Los perros se comerán a Jezabel junto a la muralla de Jezreel. ^d^ ^24^ Los perros se comerán al que muera de Ajab en la ciudad, y las aves del cielo se comerán al que muera en el campo.” ^e^ 
-^a^[**21: 21** o, hombre ] ^b^[**21:21** 2Re 9,7-8] ^c^[**21:22** 1Re 15,29; 1Re 16,11-12] ^d^[**21:23** 2Re 9,33-36] ^e^[**21:24** 1Re 14,11]
+^a^[**21:21** o, hombre ] ^b^[**21:21** 2Re 9,7-8] ^c^[**21:22** 1Re 15,29; 1Re 16,11-12] ^d^[**21:23** 2Re 9,33-36] ^e^[**21:24** 1Re 14,11]
 
 ^25^ Pero no hubo nadie como Ajab, que se vendió para hacer lo que era malo a los ojos de Yavé, a quien Jezabel, su esposa, incitó. ^26^ Hizo de manera muy abominable al seguir a los ídolos, conforme a todo lo que hicieron los amorreos, a quienes Yahvé expulsó ante los hijos de Israel. 
 

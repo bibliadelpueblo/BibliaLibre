@@ -4,15 +4,15 @@
 
 ## La acusación de Dios contra la gente infiel
 ^2^ Oíd, cielos, y escucha, tierra; porque Yahvé^a^ ha hablado: “He alimentado y criado a niñosy se han rebelado contra mí. ^3^ El buey conoce a su dueño, y el burro el pesebre de su amo; pero Israel no lo sabe. Mi gente no tiene en cuenta”. 
-^a^[**1: 2** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
+^a^[**1:2** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
 
 ## La queja del profeta contra el pueblo pecador
 ^4^ Ah nación pecadora, un pueblo cargado de iniquidad, descendencia^a^ de los malhechores, ¡los niños que hacen tratos corruptos! Han abandonado a Yahvé. Han despreciado al Santo de Israel. Están distanciados y atrasados. ^5^ Por qué hay que golpear más, que te revuelves cada vez más? Toda la cabeza está enferma, y todo el corazón se desmaya. ^b^ ^6^ Desde la planta del pie hasta la cabeza no hay solidez en él, sino heridas, ronchas y llagas abiertas. No han sido cerradas, vendadas o calmadas con aceite. ^c^ ^7^ Tu país está desolado. Sus ciudades se han quemado con fuego. Los extraños devoran tu tierra en tu presenciay está desolada, como derrocado por extraños. ^8^ La hija de Sión queda como un refugio en una viña, como una cabaña en un campo de melones, como una ciudad sitiada. ^9^ A no ser que Yahvé de los Ejércitos nos haya dejado un remanente muy pequeño, habríamos sido como Sodoma. Habríamos sido como Gomorra. ^d^ 
-^a^[**1: 4** o, semilla] ^b^[**1:5** Jer 2,20; Ezeq 21,18] ^c^[**1:6** Deut 28,25] ^d^[**1:9** Rom 9,29; Gén 19,24-25; Deut 29,21-27]
+^a^[**1:4** o, semilla] ^b^[**1:5** Jer 2,20; Ezeq 21,18] ^c^[**1:6** Deut 28,25] ^d^[**1:9** Rom 9,29; Gén 19,24-25; Deut 29,21-27]
 
 ## Enseñar a Dios acerca de la adoración correcta y incorrecta
 ^10^ ¡Oigan la palabra de Yahvé, gobernantes de Sodoma! Escuchen la ley de nuestro Dios,^a^ ¡gente de Gomorra! ^b^ ^11^ “¿Cuál es la multitud de tus sacrificios para mí?”, dice Yahvé. “Estoy harto de los holocaustos de carnerosy la grasa de los animales alimentados. No me deleito con la sangre de los toros, o de corderos, o de machos cabríos. ^c^ ^12^ Cuando vengas a comparecer ante mí, ¿Quién ha exigido esto de tu mano, para pisotear mis tribunales? ^13^ No traigas más ofrendas vanas. El incienso es una abominación para mí. Lunas nuevas, sábados y convocatorias... No soporto las asambleas malignas. ^14^ Mi alma odia tus lunas nuevas y tus fiestas señaladas. Son una carga para mí. Estoy cansado de soportarlas. ^15^ Cuando extiendas tus manos, ocultaré mis ojos de ti. Sí, cuando hagas muchas oraciones, no te escucharé. Tus manos están llenas de sangre. ^16^ Lávense. Límpiense. Quita la maldad de tus acciones de delante de mis ojos. Deja de hacer el mal. ^d^ ^17^ Aprender a hacerlo bien. Busca la justicia. Aliviar a los oprimidos. Defiende a los huérfanos. Ruega por la viuda”. ^e^ 
-^a^[**1: 10** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**1:10** Jer 23,14; Lam 4,6] ^c^[**1:11** Sal 50,8; Prov 21,27; Jer 6,20; Am 5,22] ^d^[**1:16** Jl 2,12-13; Miq 6,6-8] ^e^[**1:17** Is 1,23; Jer 7,3-7; 1Sam 15,22]
+^a^[**1:10** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**1:10** Jer 23,14; Lam 4,6] ^c^[**1:11** Sal 50,8; Prov 21,27; Jer 6,20; Am 5,22] ^d^[**1:16** Jl 2,12-13; Miq 6,6-8] ^e^[**1:17** Is 1,23; Jer 7,3-7; 1Sam 15,22]
 
 ## Los tratos de Dios con Judá; la condición para la reconciliación y la salvación del pueblo
 ^18^ “Ven ahora y razonemos juntos”, dice Yahvé: “Aunque tus pecados sean como la grana, serán blancos como la nieve. Aunque sean rojos como el carmesí, serán como la lana. ^a^ ^19^ Si estás dispuesto y eres obediente, comerás el bien de la tierra; ^b^ ^20^ pero si os negáis y os rebeláis, seréis devorados por la espada; porque la boca de Yahvé lo ha dicho”. ^c^ 
@@ -20,7 +20,7 @@
 
 ## Lamentación por la profunda corrupción de Sion; la futura purificación de la ciudad y la aniquilación de los pecadores
 ^21^ ¡Cómo la ciudad fiel se ha convertido en una prostituta! Estaba llena de justicia. La justicia se alojó en ella, pero ahora hay asesinos. ^a^ ^22^ Tu plata se ha convertido en escoria, su vino mezclado con agua. ^23^ Tus príncipes son rebeldes y compañeros de los ladrones. A todo el mundo le gustan los sobornos y va detrás de las recompensas. No defienden a los huérfanos, ni la causa de la viuda llega a ellos. ^b^ ^24^ Por eso el Señor,^c^ Yahvé de los Ejércitos, el Poderoso de Israel, dice: “Ah, me aliviaré de mis adversarios, y vengarme de mis enemigos. ^25^ Volveré mi mano sobre ti, purga a fondo tu escoria, y se llevará toda su lata. ^d^ ^26^ Restauraré a tus jueces como al principio, y sus consejeros como al principio. Después serás llamada ‘La ciudad de la justicia’, un pueblo fiel”. ^e^ ^27^ Sión será redimida con justicia, y sus conversos con la justicia. ^f^ ^28^ Pero la destrucción de los transgresores y de los pecadores será conjunta, y los que abandonen a Yahvé serán consumidos. ^29^ Porque se avergonzarán de las encinas que has deseado, y serás confundido por los jardines que has elegido. ^g^ ^30^ Porque serás como un roble cuya hoja se marchita, y como un jardín que no tiene agua. ^31^ Los fuertes serán como la yesca, y su trabajo como una chispa. Ambos arderán juntos, y nadie los apagará”.
-^a^[**1:21** Mat 23,37] ^b^[**1:23** Is 1,17] ^c^[**1: 24** La palabra traducida “Señor” es “Adonai”. ] ^d^[**1: 25** El estaño es un metal que se separa de la plata durante el proceso de refinado y purificación.] ^e^[**1:26** Zac 8,3] ^f^[**1:27** Is 46,13] ^g^[**1:29** Is 65,3]
+^a^[**1:21** Mat 23,37] ^b^[**1:23** Is 1,17] ^c^[**1:24** La palabra traducida “Señor” es “Adonai”. ] ^d^[**1:25** El estaño es un metal que se separa de la plata durante el proceso de refinado y purificación.] ^e^[**1:26** Zac 8,3] ^f^[**1:27** Is 46,13] ^g^[**1:29** Is 65,3]
 
 # 2
 ## Nuevo título; el mundo venidero como reino de paz de Dios alrededor de Jerusalén
@@ -43,7 +43,7 @@
 # 3
 ## El colapso del estado de Judea como castigo por el mal gobierno
 ^1^ Porque, he aquí,^a^ el Señor, Yahvé de los Ejércitos, quita a Jerusalén y a Judá el suministro y el apoyo, todo el suministro de pan, y todo el suministro de agua; ^b^ ^2^ el hombre poderoso, el hombre de la guerra, el juez, el profeta, el adivino, el mayor, ^3^ el capitán de cincuenta, el hombre honorable, el consejero, el artesano experto, y el inteligente hechicero. ^4^ Daré muchachos para que sean sus príncipes, y los niños gobernarán sobre ellos. ^5^ El pueblo será oprimido, todos por otro, y cada uno por su vecino. El niño se comportará con orgullo frente al anciano, y los malvados contra los honorables. ^6^ En efecto, un hombre se apoderará de su hermano en la casa de su padre, diciendo, “Tienes ropa, serás nuestro gobernante, y que esta ruina esté bajo tu mano”. ^7^ En ese día gritará diciendo: “No seré un sanador; porque en mi casa no hay ni pan ni ropa. No me harás gobernante del pueblo”. 
-^a^[**3: 1** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**3:1** Lev 26,26; Ezeq 4,16]
+^a^[**3:1** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**3:1** Lev 26,26; Ezeq 4,16]
 
 ^8^ Porque Jerusalén está arruinada y Judá ha caído; porque su lengua y sus acciones son contra Yahvé, para provocar los ojos de su gloria. ^9^ La mirada de sus rostros atestigua contra ellos. Hacen alarde de su pecado como Sodoma. No lo ocultan. ¡Ay de su alma! Porque ellos mismos han provocado el desastre. ^a^ ^10^ Di a los justos que les irá bien, porque comerán el fruto de sus actos. ^b^ ^11^ ¡Ay de los malvados! El desastre está sobre ellos, porque las obras de sus manos les serán devueltas. ^12^ En cuanto a mi pueblo, los niños son sus opresores, y las mujeres gobiernan sobre ellos. Pueblo mío, los que te dirigen te hacen errar, y destruir el camino de tus senderos.
 ^a^[**3:9** Os 13,9] ^b^[**3:10** Is 32,17]
@@ -76,10 +76,10 @@
 
 ## Seis ayes del profeta por los pecados y los vicios del pueblo
 ^8^ Ay de los que se unen de casa en casa, que se acuestan campo a campo, hasta que no hay espacio, ¡y se te hace habitar solo en medio de la tierra! ^a^ ^9^ En mis oídos, el Señor de los Ejércitos dice: “Seguramente muchas casas quedarán desoladas, incluso grande y hermosa, desocupada. ^10^ Por diez acres^b^ de viñedo se producirá un baño, ^c^ y un homer^d^ de semilla dará un efa”. ^e^ 
-^a^[**5:8** Miq 2,2] ^b^[**5: 10** literalmente, diez yuntas, o la cantidad de tierra que diez yuntas de bueyes pueden arar en un día, lo que equivale a unos 10 acres o 4 hectáreas.] ^c^[**5: 10** 1 baño equivale a unos 22 litros o 5, 8 galones americanos] ^d^[**5: 10** 1 homer es aproximadamente 220 litros o 6 bushels] ^e^[**5: 10** 1 efa equivale a unos 22 litros o 0, 6 fanegas, o sea, a unos 2 picotazos: sólo una décima parte de lo que se sembró.]
+^a^[**5:8** Miq 2,2] ^b^[**5:10** literalmente, diez yuntas, o la cantidad de tierra que diez yuntas de bueyes pueden arar en un día, lo que equivale a unos 10 acres o 4 hectáreas.] ^c^[**5:10** 1 baño equivale a unos 22 litros o 5, 8 galones americanos] ^d^[**5:10** 1 homer es aproximadamente 220 litros o 6 bushels] ^e^[**5:10** 1 efa equivale a unos 22 litros o 0, 6 fanegas, o sea, a unos 2 picotazos: sólo una décima parte de lo que se sembró.]
 
 ^11^ Ay de los que se levantan de madrugada para seguir la bebida fuerte, que se quedan hasta altas horas de la noche, ¡hasta que el vino los enardece! ^12^ El arpa, la lira, la pandereta y la flauta, con vino, están en sus fiestas; pero no respetan la obra de Yahvé, ni han considerado la operación de sus manos. ^13^ Por eso mi pueblo va al cautiverio por falta de conocimiento. Sus honorables hombres están hambrientos, y sus multitudes están muertas de sed. ^14^ Por lo tanto, el Seol^a^ ha ampliado su deseo, y abrió su boca sin medida; y su gloria, su multitud, su pompa, y el que se regocija entre ellos, descienden a ella. ^15^ Así el hombre se rebaja, la humanidad es humilde, y los ojos de los arrogantes se humillan; ^b^ ^16^ pero Yahvé de los Ejércitos es exaltado en la justicia, y Dios el Santo es santificado en justicia. ^17^ Entonces los corderos pastarán como en su pasto, y los extraños comerán las ruinas de los ricos. 
-^a^[**5: 14** El Seol es el lugar de los muertos.] ^b^[**5:15** Is 2,11]
+^a^[**5:14** El Seol es el lugar de los muertos.] ^b^[**5:15** Is 2,11]
 
 ^18^ Ay de los que atraen la iniquidad con cuerdas de mentira, y la maldad como con cuerda de carreta, ^19^ que dicen: “Que se apresure, que acelere su obra, para que la veamos; que el consejo del Santo de Israel se acerque y venga, para que lo conozcamos”. 
 
@@ -128,7 +128,7 @@
 ^12^ Pero Acaz dijo: “No preguntaré. No tentaré a Yahvé”. 
 
 ^13^ Dijo: “Escuchad ahora, casa de David. ¿No os basta con probar la paciencia de los hombres, para que también probéis la paciencia de mi Dios? ^14^ Por eso el Señor mismo os dará una señal. He aquí que la virgen concebirá y dará a luz un hijo, y lo llamará Emanuel. ^a^ ^15^ Comerá mantequilla y miel cuando sepa rechazar lo malo y elegir lo bueno. ^b^ ^16^ Porque antes de que el niño sepa rechazar el mal y elegir el bien, la tierra cuyos dos reyes aborreces será abandonada. ^c^ ^17^ El Señor traerá sobre ti, sobre tu pueblo y sobre la casa de tu padre días que no han llegado, desde el día en que Efraín se apartó de Judá, hasta el rey de Asiria.
-^a^[**7: 14** “Emanuel” significa “Dios con nosotros”.] ^b^[**7:15** Is 7,21-22] ^c^[**7:16** Is 8,4]
+^a^[**7:14** “Emanuel” significa “Dios con nosotros”.] ^b^[**7:15** Is 7,21-22] ^c^[**7:16** Is 8,4]
 
 ## Señal del juicio futuro para Jerusalén
 ^18^ Sucederá en aquel día que Yahvé silbará por la mosca que está en el extremo de los ríos de Egipto, y por la abeja que está en la tierra de Asiria. ^19^ Vendrán y se posarán todas en los valles desolados, en las hendiduras de las rocas, en todos los setos de espinos y en todos los pastos. 
@@ -138,12 +138,12 @@
 ^21^ Sucederá en ese día que un hombre mantendrá viva una vaca joven y dos ovejas. ^22^ Sucederá que por la abundancia de leche que darán comerá manteca, porque todos comerán manteca y miel que quede dentro de la tierra. 
 
 ^23^ Sucederá en ese día que todo lugar donde había mil vides que valían mil siclos de plata,^a^ será para las zarzas y los espinos. ^24^ La gente irá allí con flechas y con arco, porque toda la tierra será de cardos y espinas. ^25^ Todos los montes que se cultivaban con la azada, no iréis allí por miedo a las zarzas y a los espinos; pero será para enviar bueyes y para que pisen las ovejas.”
-^a^[**7: 23** Un siclo equivale a unos 10 gramos o unas 0, 35 onzas, por lo que 1000 siclos equivalen a unos 10 kilogramos o 22 libras.]
+^a^[**7:23** Un siclo equivale a unos 10 gramos o unas 0, 35 onzas, por lo que 1000 siclos equivalen a unos 10 kilogramos o 22 libras.]
 
 # 8
 ## Profecía de la conquista de Damasco y Samaria por los asirios
 ^1^ El Señor me dijo: “Toma una tabla grande y escribe en ella con pluma de hombre: ‘Para Maher Shalal Hash Baz’; ^a^ ^2^ y tomaré para mí testigos fieles que den testimonio: El sacerdote Urías, y Zacarías, hijo de Jeberecías”. 
-^a^[**8: 1** “Maher Shalal Hash Baz” significa “rápido al saqueo, rápido a la presa”.]
+^a^[**8:1** “Maher Shalal Hash Baz” significa “rápido al saqueo, rápido a la presa”.]
 
 ^3^ Fui a la profetisa, y ella concibió y dio a luz un hijo. Entonces Yahvé me dijo: “Llámalo ‘Maher Shalal Hash Baz’. ^4^ Porque antes de que el niño sepa decir: ‘Mi padre’ y ‘Mi madre’, las riquezas de Damasco y el saqueo de Samaria serán llevados por el rey de Asiria.” ^a^ 
 ^a^[**8:4** Is 7,16; 2Re 16,9; 2Re 15,29]
@@ -271,11 +271,11 @@
 
 ## Gozoso asombro del reino de los muertos
 ^9^ El Seol^a^ de abajo se ha movido por ti para recibirte en tu llegada. Se agita los espíritus difuntos para usted, incluso todos los gobernantes de la tierra. Ha levantado de sus tronos a todos los reyes de las naciones. ^10^ Todos ellos responderán y te preguntarán: “¿Te has vuelto tan débil como nosotros? ¿Os habéis vuelto como nosotros?” ^11^ Tu pompa desciende al Seol,^b^ con el sonido de tus instrumentos de cuerda. Los gusanos se extienden debajo de ti, y los gusanos te cubren. 
-^a^[**14: 9** El Seol es el lugar de los muertos.] ^b^[**14: 11** El Seol es el lugar de los muertos. ]
+^a^[**14:9** El Seol es el lugar de los muertos.] ^b^[**14:11** El Seol es el lugar de los muertos. ]
 
 ## ¡Qué caída de los presuntuosos! ¡Qué final vergonzoso!
 ^12^ ¡Cómo has caído del cielo, resplandeciente, hijo de la aurora! ¡Cómo has sido derribado al suelo, el que abatió a las naciones! ^13^ Dijiste en tu corazón: “¡Subiré al cielo! ¡Exaltaré mi trono por encima de las estrellas de Dios! Me sentaré en el monte de la asamblea, en el lejano norte. ^14^ ¡Subiré a las alturas de las nubes! Me haré semejante al Altísimo”. ^a^ ^15^ Sin embargo, serás llevado al Seol,^b^ a las profundidades de la fosa. ^16^ Los que te vean te mirarán fijamente. Te meditarán, diciendo: “¿Es éste el hombre que hizo temblar la tierra, que hizo temblar los reinos, ^17^ que convirtió el mundo en un desierto y asoló sus ciudades, que no liberó a sus prisioneros a su hogar?” 
-^a^[**14:14** Ezeq 28,14] ^b^[**14: 15** El Seol es el lugar de los muertos.]
+^a^[**14:14** Ezeq 28,14] ^b^[**14:15** El Seol es el lugar de los muertos.]
 
 ^18^ Todos los reyes de las naciones duermen en la gloria, cada uno en su casa. ^19^ Pero tú eres arrojado de tu tumba como una rama abominable, vestido con los muertos que son atravesados por la espada, que descienden a las piedras de la fosa; como un cadáver pisoteado. ^20^ No te unirás a ellos en la sepultura, porque has destruido tu tierra. Has matado a tu pueblo. La descendencia de los malhechores no será nombrada para siempre. 
 
@@ -455,7 +455,7 @@
 
 ## Profecía de la bienaventurada felicidad del reino completo de Dios
 ^6^ En este monte, el Señor de los Ejércitos hará a todos los pueblos un festín de carne selecta,^a^ un festín de vinos selectos, de carne selecta llena de tuétano, de vinos selectos bien refinados. ^7^ Él destruirá en este monte la superficie de la cubierta que cubre a todos los pueblos, y el velo que se extiende sobre todas las naciones. ^8^ ¡Él se ha tragado la muerte para siempre! El Señor Yahvé enjugará las lágrimas de todos los rostros. Quitará el oprobio de su pueblo de toda la tierra, porque Yahvé lo ha dicho. ^b^ 
-^a^[**25: 6** literalmente, cosas gordas] ^b^[**25:8** 1Cor 15,55; Apoc 7,17]
+^a^[**25:6** literalmente, cosas gordas] ^b^[**25:8** 1Cor 15,55; Apoc 7,17]
 
 ## Nuevo júbilo de la comunidad por la salvación y alegría por la humillación de enemigos obstinados, especialmente los moabitas
 ^9^ En aquel día se dirá: “¡He aquí nuestro Dios! ¡Lo hemos esperado, y él nos salvará! ¡Este es Yahvé! Lo hemos esperado. Nos alegraremos y nos regocijaremos en su salvación”. ^a^ ^10^ Porque la mano de Yahvé se posará en este monte. Moab será pisoteado en su lugar, como se pisotea la paja en el agua del estercolero. 
@@ -513,7 +513,7 @@
 
 ## Condenar y amenazar a los líderes confiados del estado
 ^14^ Escuchen, pues, la palabra de Yahvé, burlones, que gobiernan a este pueblo en Jerusalén: ^15^ “Porque ustedes han dicho: ‘Hemos hecho un pacto con la muerte, y estamos de acuerdo con el Seol.^a^ Cuando pase el azote desbordante, no vendrá a nosotros; porque hemos hecho de la mentira nuestro refugio, y nos hemos escondido bajo la mentira.’” ^16^ Por eso dice el Señor Yahvé: “He aquí que pongo en Sión como fundamento una piedra, una piedra probada, una piedra angular preciosa de fundamento seguro. El que crea no actuará precipitadamente. ^b^ ^17^ Haré que la justicia sea la línea de medida, y la rectitud la línea de plomada. El granizo barrerá el refugio de la mentira, y las aguas desbordarán el escondite. ^18^ Tu pacto con la muerte será anulado, y tu acuerdo con el Seol no se mantendrá. Cuando pase el azote desbordante, entonces serás pisoteado por él. ^19^ Todas las veces que pase, te apresará; porque de mañana a mañana pasará, de día y de noche; y no será más que terror entender el mensaje”. ^20^ Porque el lecho es demasiado corto para extenderse, y la manta es demasiado estrecha para envolverse en ella. ^21^ Porque Yahvé se levantará como en el monte Perazim. Se enfurecerá como en el valle de Gabaón; para hacer su obra, su insólita obra, y llevar a cabo su acto, su extraordinario acto. ^c^ ^22^ Ahora, pues, no sean burlones, para que no se fortalezcan sus ataduras; porque he oído un decreto de destrucción de parte del Señor, Yahvé de los Ejércitos, sobre toda la tierra. ^d^ 
-^a^[**28: 15** El Seol es el lugar de los muertos.] ^b^[**28:16** Sal 118,22; Rom 9,33; Rom 10,11; 1Pe 2,6] ^c^[**28:21** 2Sam 5,20; 1Cró 14,16] ^d^[**28:22** Is 10,22-23]
+^a^[**28:15** El Seol es el lugar de los muertos.] ^b^[**28:16** Sal 118,22; Rom 9,33; Rom 10,11; 1Pe 2,6] ^c^[**28:21** 2Sam 5,20; 1Cró 14,16] ^d^[**28:22** Is 10,22-23]
 
 ## El sabio comportamiento de Dios en su obra educativa sobre los pueblos a pesar de todos los cambios está ilustrado por una parábola (del agricultor)
 ^23^ ¡Escuchen y oigan mi voz! ¡Escuchen, y oigan mi discurso! ^24^ ¿Acaso el que ara para sembrar lo hace continuamente? ¿Acaso no revuelve la tierra y rompe los terrones? ^25^ Cuando ha nivelado su superficie, ¿no planta el eneldo y esparce la semilla de comino, y coloca el trigo en hileras, la cebada en el lugar señalado y la escanda en su sitio? ^26^ Porque su Dios le instruye en el recto juicio y le enseña. ^27^ Porque el eneldo no se trilla con instrumento afilado, ni se hace girar una rueda de carro sobre el comino; sino que el eneldo se golpea con un palo, y el comino con una vara. ^28^ La harina de pan debe ser molida, por lo que no siempre estará trillando. Aunque pase la rueda de su carro de trillar sobre ella, sus caballos no la muelen. ^29^ Esto también sale de Yahvé de los Ejércitos, que es maravilloso en el consejo, y excelente en la sabiduría.
@@ -687,7 +687,7 @@
 
 ## Expresión de alegría agradecida; Graduación
 ^15^ ¿Qué voy a decir? Tanto ha hablado conmigo, como lo ha hecho él mismo. Caminaré con cuidado todos mis años por la angustia de mi alma. ^16^ Señor, de estas cosas viven los hombres; y mi espíritu encuentra vida en todos ellos. Me restableces y me haces vivir. ^17^ He aquí que por la paz he tenido grandes angustias, pero tú, por amor a mi alma, la has liberado del pozo de la corrupción; porque has echado todos mis pecados a tus espaldas. ^18^ Porque el Seol^a^ no puede alabarte. La muerte no puede celebrarlo. Los que bajan al pozo no pueden esperar su verdad. ^b^ ^19^ El que vive, el que vive, te alabará, como yo lo hago hoy. El padre dará a conocer su verdad a los hijos. ^20^ El Señor me salvará. Por eso cantaremos mis canciones con instrumentos de cuerda todos los días de nuestra vida en la casa de Yahvé. 
-^a^[**38: 18** El Seol es el lugar de los muertos.] ^b^[**38:18** Sal 6,6]
+^a^[**38:18** El Seol es el lugar de los muertos.] ^b^[**38:18** Sal 6,6]
 
 ^21^ Isaías había dicho: “Que tomen una torta de higos y la pongan como cataplasma sobre el forúnculo, y se recuperará.” ^22^ También Ezequías había dicho: “¿Cuál es la señal de que subiré a la casa de Yavé?”
 
@@ -823,7 +823,7 @@
 # 45
 ## La elección de Dios de Ciro para la redención de Israel; Anunciación de la salvación para el héroe de Dios
 ^1^ Yahvé dice a su ungido, a Ciro, cuya mano derecha he sostenido para someter a las naciones ante él y despojar a los reyes de sus armaduras, que abra las puertas ante él, y que las puertas no se cierren: ^a^ ^2^ “Iré delante de tiy alisar las asperezas. Romperé las puertas de bronce en pedazosy cortar las barras de hierro. ^3^ Te daré los tesoros de la oscuridady las riquezas ocultas de los lugares secretos, para que sepas que soy yo, Yahvé, quien te llama por tu nombre, el Dios de Israel. ^4^ Por el bien de Jacob, mi siervo, e Israel mis elegidos, Te he llamado por tu nombre. Te he dado un título, aunque no me hayas conocido. ^5^ Yo soy Yahvé, y no hay nadie más. Además de mí, no hay ningún Dios. Te fortaleceré^b^ , aunque no me hayas conocido, ^c^ ^6^ para que sepan desde la salida del sol, y desde el oeste, que no hay nadie más que yo. Yo soy Yahvé, y no hay nadie más. ^7^ Formo la luzy crear oscuridad. Hago las pacesy crear calamidades. Yo soy Yahvé, que hace todas estas cosas.
-^a^[**45:1** Is 44,28; Is 41,2] ^b^[**45: 5** LXX y DSS añaden: recuperación de la vista para los ciegos] ^c^[**45:5** Is 44,6]
+^a^[**45:1** Is 44,28; Is 41,2] ^b^[**45:5** LXX y DSS añaden: recuperación de la vista para los ciegos] ^c^[**45:5** Is 44,6]
 
 ## La bendición de Dios sobre la obra terminada
 ^8^ Llueve, cielos, desde arriba, y que los cielos derramen justicia. Que la tierra se abra, para que produzca la salvación, y que haga brotar la justicia con ella. Yo, Yahvé, lo he creado. ^a^ 
@@ -1074,7 +1074,7 @@
 
 ## El consejo de Dios de glorificar y asegurar su ciudad inevitablemente se llevará a cabo
 ^3^ Tú también serás una corona de belleza en la mano de Yahvé, y una diadema real en la mano de tu Dios. ^4^ Ya no te llamarán Desamparado, ni tu tierra se llamará nunca más Desolada; pero te llamarán Hephzibah, ^a^ y tu tierra Beulah; ^b^ porque Yahvé se deleita en ti, y tu tierra se casará. ^5^ Porque como un joven se casa con una virgen, para que tus hijos se casen contigo. Como un novio se regocija por su novia, para que tu Dios se alegre de ti. ^c^ 
-^a^[**62: 4** Hephzibah significa “me deleito en ella”.] ^b^[**62: 4** Beulah significa “casada”] ^c^[**62:5** Sof 3,17]
+^a^[**62:4** Hephzibah significa “me deleito en ella”.] ^b^[**62:4** Beulah significa “casada”] ^c^[**62:5** Sof 3,17]
 
 ## Recordatorio a los guardias designados sobre Jerusalén de no dejar al Señor en paz hasta que no haya cumplido sus promesas
 ^6^ He puesto centinelas en tus muros, Jerusalén. Nunca estarán en silencio ni de día ni de noche. Tú que invocas a Yahvé, no descanses, ^a^ ^7^ y no le den descanso hasta que se establezca, y hasta que haga de Jerusalén una alabanza en la tierra. ^8^ Yahvé ha jurado por su mano derecha, y por el brazo de su fuerza, “Ciertamente no daré más tu grano para que sea alimento de tus enemigos, y los extranjeros no beberán tu vino nuevo, por el que has trabajado, ^b^ ^9^ pero los que lo han cosechado lo comerán y alabarán a Yahvé. Los que lo hayan recogido lo beberán en los atrios de mi santuario”.

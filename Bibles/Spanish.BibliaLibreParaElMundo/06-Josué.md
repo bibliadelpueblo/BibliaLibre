@@ -1,10 +1,10 @@
 # 1
 ## La comisión de Dios de conquistar y animar a Josué; Preparativos para cruzar el Jordán
 ^1^ Después de la muerte de Moisés, siervo de Yahvé,^a^ Yahvé habló a Josué hijo de Nun, siervo de Moisés, diciendo: ^2^ “Moisés, mi siervo, ha muerto. Ahora, pues, levántate y cruza este Jordán, tú y todo este pueblo, hacia la tierra que les voy a dar a los hijos de Israel. ^3^ Os he dado todo lugar que pise la planta de vuestro pie, como se lo dije a Moisés. ^4^ Desde el desierto y este Líbano hasta el gran río, el río Éufrates, toda la tierra de los hititas, y hasta el gran mar hacia la puesta del sol, será vuestro límite. ^5^ Ningún hombre podrá hacer frente a ti todos los días de tu vida. Como estuve con Moisés, así estaré contigo. No te fallaré ni te abandonaré. ^b^ 
-^a^[**1: 1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:5** Deut 31,8; Heb 13,5]
+^a^[**1:1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:5** Deut 31,8; Heb 13,5]
 
 ^6^ “Sé fuerte y valiente, porque harás que este pueblo herede la tierra que juré darles a sus padres. ^a^ ^7^ Sólo sé fuerte y muy valiente. Tengan cuidado de cumplir con toda la ley que mi siervo Moisés les ordenó. No te apartes de ella ni a la derecha ni a la izquierda, para que tengas buen éxito dondequiera que vayas. ^b^ ^8^ Este libro de la ley no se apartará de tu boca, sino que meditarás en él de día y de noche, para que guardes y hagas conforme a todo lo que en él está escrito; porque entonces harás próspero tu camino y tendrás buen éxito. ^c^ ^9^ ¿No te lo he ordenado? Sé fuerte y valiente. No tengas miedo. No te desanimes, porque Yahvé, tu Dios,^d^ está contigo dondequiera que vayas”.
-^a^[**1:6** Deut 3,28; Deut 31,7; Deut 31,23] ^b^[**1:7** Deut 5,29; 1Re 2,3] ^c^[**1:8** Sal 1,2-3] ^d^[**1: 9** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
+^a^[**1:6** Deut 3,28; Deut 31,7; Deut 31,23] ^b^[**1:7** Deut 5,29; 1Re 2,3] ^c^[**1:8** Sal 1,2-3] ^d^[**1:9** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
 
 ## Josué ordena a la gente que esté lista para marchar
 ^10^ Entonces Josué ordenó a los oficiales del pueblo, diciendo: ^11^ “Pasen por el medio del campamento y manden al pueblo, diciendo: “Preparen la comida, porque dentro de tres días van a pasar este Jordán, para entrar a poseer la tierra que Yahvé su Dios les da para que la posean””. 
@@ -21,7 +21,7 @@
 ^a^[**2:1** Sant 2,25; Heb 11,31]
 
 ^2^ Se le dijo al rey de Jericó: “He aquí,^a^ hombres de los hijos de Israel han entrado aquí esta noche para espiar la tierra”. 
-^a^[**2: 2** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
+^a^[**2:2** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
 
 ^3^ El rey de Jericó envió a decir a Rahab: “Saca a los hombres que han venido a ti, que han entrado en tu casa, porque han venido a espiar toda la tierra.” 
 
@@ -45,7 +45,7 @@
 # 3
 ## Llegada al Jordán; Anuncio de los presidentes y dos órdenes de Joshua; Salida del pueblo
 ^1^ Josué se levantó temprano por la mañana; partieron de Sitim y llegaron al Jordán, él y todos los hijos de Israel. Acamparon allí antes de cruzar. ^a^ ^2^ Después de tres días, los oficiales pasaron por el medio del campamento; ^3^ y ordenaron al pueblo, diciendo: “Cuando veáis el arca de la alianza de Yahvé vuestro Dios, y a los sacerdotes levitas que la llevan, dejad vuestro lugar y seguidla. ^4^ Pero habrá un espacio entre vosotros y ella de unos dos mil codos^b^ por medida — no os acerquéis a ella — para que sepáis el camino por el que debéis ir, porque nunca habéis pasado por aquí.” 
-^a^[**3:1** Núm 25,1] ^b^[**3: 4** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros, por lo que 2. 000 codos son unos 920 metros.]
+^a^[**3:1** Núm 25,1] ^b^[**3:4** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros, por lo que 2. 000 codos son unos 920 metros.]
 
 ^5^ Josué dijo al pueblo: “Santificaos, porque mañana Yahvé hará maravillas entre vosotros”. 
 
@@ -57,7 +57,7 @@
 ^a^[**3:7** Jos 4,14; Jos 1,5; Jos 1,17]
 
 ^9^ Josué dijo a los hijos de Israel: “Venid aquí y escuchad las palabras de Yahvé, vuestro Dios”. ^10^ Josué dijo: “En esto sabréis que el Dios vivo está en medio de vosotros, y que sin falta expulsará de vuestra presencia al cananeo, al hitita, al heveo, al ferezeo, al gergeseo, al amorreo y al jebuseo. ^11^ He aquí que el arca del pacto del Señor^a^ de toda la tierra pasa delante de vosotros al Jordán. ^12^ Toma, pues, doce hombres de las tribus de Israel, un hombre por cada tribu. ^13^ Cuando las plantas de los pies de los sacerdotes que llevan el arca de Yavé, el Señor de toda la tierra, descansen en las aguas del Jordán, las aguas del Jordán se cortarán. Las aguas que descienden de lo alto se pararán en un montón”. 
-^a^[**3: 11** La palabra traducida “Señor” es “Adonai”.]
+^a^[**3:11** La palabra traducida “Señor” es “Adonai”.]
 
 ## El Jordán se detiene y se divide
 ^14^ Cuando el pueblo salió de sus tiendas para pasar el Jordán, los sacerdotes que llevaban el arca de la alianza iban delante del pueblo, ^15^ y cuando los que llevaban el arca llegaron al Jordán, y los pies de los sacerdotes que llevaban el arca se sumergieron en la orilla del agua (porque el Jordán se desborda por todas sus orillas todo el tiempo de la cosecha), ^16^ las aguas que descendían de arriba se detuvieron, y subieron en un montón a gran distancia, en Adam, la ciudad que está junto a Zaretán; y las que descendían hacia el mar del Arabá, el Mar Salado, fueron totalmente cortadas. Luego el pueblo pasó cerca de Jericó. ^a^ ^17^ Los sacerdotes que llevaban el arca de la alianza de Yavé se mantuvieron firmes en tierra seca en medio del Jordán, y todo Israel cruzó en tierra seca, hasta que toda la nación pasó completamente el Jordán.
@@ -91,7 +91,7 @@
 ^a^[**5:2** Éxod 4,25]
 
 ^9^ El Señor le dijo a Josué: “Hoy he quitado de ti el oprobio de Egipto”. Por eso el nombre de aquel lugar se llamó Gilgal^a^ hasta el día de hoy. 
-^a^[**5: 9** “Gilgal” suena como el hebreo para “rollo”.]
+^a^[**5:9** “Gilgal” suena como el hebreo para “rollo”.]
 
 ## Primera Pascua en Canaán; Cese del maná
 ^10^ Los hijos de Israel acamparon en Gilgal. Celebraron la Pascua el día catorce del mes, al atardecer, en las llanuras de Jericó. ^a^ ^11^ Comieron tortas sin levadura y grano tostado de los productos de la tierra al día siguiente de la Pascua, en el mismo día. ^12^ El maná cesó al día siguiente, después de que comieron de los productos de la tierra. Los hijos de Israel ya no tuvieron maná, sino que comieron del fruto de la tierra de Canaán ese año.
@@ -149,7 +149,7 @@
 ^a^[**7:16** 1Sam 10,20-21; 1Sam 14,41-42] ^b^[**7:17** Núm 26,20]
 
 ^20^ Acán respondió a Josué y dijo: “Verdaderamente he pecado contra Yavé, el Dios de Israel, y esto es lo que he hecho. ^21^ Cuando vi entre el botín un hermoso manto babilónico, doscientos siclos^a^ de plata, y una cuña de oro que pesaba cincuenta siclos, entonces los codicié y los tomé. He aquí que están escondidos en el suelo, en medio de mi tienda, con la plata debajo”. 
-^a^[**7: 21** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
+^a^[**7:21** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
 
 ^22^ Entonces Josué envió mensajeros, y éstos corrieron a la tienda. He aquí que estaba escondida en su tienda, con la plata debajo de ella. ^23^ La sacaron de en medio de la tienda y la llevaron a Josué y a todos los hijos de Israel. Los depositaron ante el Señor. ^24^ Josué, y todo Israel con él, tomaron a Acán hijo de Zera, la plata, el manto, la cuña de oro, sus hijos, sus hijas, su ganado, sus asnos, sus ovejas, su tienda y todo lo que tenía; y los llevaron al valle de Acor. ^25^ Josué les dijo: “¿Por qué nos han molestado? El Señor los molestará hoy”. Todo Israel lo apedreó, y los quemaron con fuego y los apedrearon. ^26^ Levantaron sobre él un gran montón de piedras que permanece hasta hoy. El Señor se apartó del ardor de su ira. Por eso el nombre de aquel lugar se llamó hasta hoy “Valle de Acor”. ^a^ 
 ^a^[**7:26** Is 65,10; Os 2,17]
@@ -489,7 +489,7 @@
 # 24
 ## Josué se despide de la gente en la Dieta de Siquem
 ^1^ Josué reunió a todas las tribus de Israel en Siquem, y llamó a los ancianos de Israel, a sus jefes, a sus jueces y a sus oficiales, y se presentaron ante Dios. ^2^ Josué dijo a todo el pueblo: “Yahvé, el Dios de Israel, dice: ‘Vuestros padres vivieron antiguamente al otro lado del río, Téraj, padre de Abraham, y padre de Nacor. Ellos sirvieron a otros dioses. ^3^ Yo tomé a vuestro padre Abraham del otro lado del río y lo conduje por toda la tierra de Canaán, y multipliqué su descendencia,^a^ y le di a Isaac. ^4^ A Isaac le di Jacob y Esaú, y a Esaú le di el monte Seír para que lo poseyera. Jacob y sus hijos descendieron a Egipto. ^b^ 
-^a^[**24: 3** o, semilla] ^b^[**24:4** Gén 32,4; Gén 46,6]
+^a^[**24:3** o, semilla] ^b^[**24:4** Gén 32,4; Gén 46,6]
 
 ^5^ “‘Yo envié a Moisés y a Aarón, y plagué a Egipto, según lo que hice entre ellos; y después os saqué. ^a^ ^6^ Yo saqué a vuestros padres de Egipto, y llegasteis al mar. Los egipcios persiguieron a vuestros padres con carros y con jinetes hasta el Mar Rojo. ^b^ ^7^ Cuando clamaron a Yahvé, él puso tinieblas entre vosotros y los egipcios, e hizo que el mar los cubriera; y vuestros ojos vieron lo que hice en Egipto. Ustedes vivieron en el desierto muchos días. ^c^ 
 ^a^[**24:5** Éxod 3,10] ^b^[**24:6** Éxod 12,33] ^c^[**24:7** Éxod 14,10]
@@ -519,4 +519,4 @@
 ^a^[**24:25** 2Re 23,3] ^b^[**24:26** Gén 35,4; Jue 9,6] ^c^[**24:27** Jos 22,27; Gén 31,48]
 
 ## La muerte y el entierro de Josué; Entierro de los huesos de José; Muerte de Eleazar
-^29^ Después de estas cosas, murió Josué hijo de Nun, siervo del Señor, siendo de ciento diez años. ^30^ Lo enterraron en el límite de su heredad, en Timnat-sera, que está en la región montañosa de Efraín, al norte de la montaña de Gaas. ^31^ Israel sirvió a Yavé todos los días de Josué, y todos los días de los ancianos que sobrevivieron a Josué, y había conocido toda la obra de Yavé, que él había hecho por Israel. ^32^ Los huesos de José, que los hijos de Israel sacaron de Egipto, los enterraron en Siquem, en la parcela que Jacob compró a los hijos de Hamor, padre de Siquem, por cien monedas de plata.^[**24: 32** Hebreo: kesitahs. Una kesitah era una especie de moneda de plata.] Pasaron a ser la herencia de los hijos de José. ^33^ Eleazar, hijo de Aarón, murió. Lo enterraron en el monte de su hijo Finees, que le fue dado en la región montañosa de Efraín. 
+^29^ Después de estas cosas, murió Josué hijo de Nun, siervo del Señor, siendo de ciento diez años. ^30^ Lo enterraron en el límite de su heredad, en Timnat-sera, que está en la región montañosa de Efraín, al norte de la montaña de Gaas. ^31^ Israel sirvió a Yavé todos los días de Josué, y todos los días de los ancianos que sobrevivieron a Josué, y había conocido toda la obra de Yavé, que él había hecho por Israel. ^32^ Los huesos de José, que los hijos de Israel sacaron de Egipto, los enterraron en Siquem, en la parcela que Jacob compró a los hijos de Hamor, padre de Siquem, por cien monedas de plata.^[**24:32** Hebreo: kesitahs. Una kesitah era una especie de moneda de plata.] Pasaron a ser la herencia de los hijos de José. ^33^ Eleazar, hijo de Aarón, murió. Lo enterraron en el monte de su hijo Finees, que le fue dado en la región montañosa de Efraín. 

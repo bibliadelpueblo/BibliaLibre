@@ -1,14 +1,14 @@
 # 1
 ## El llamamiento y ordenación de Ezequiel como profeta; la aparición de la gloria de Dios
 ^1^ En el año trigésimo, en el cuarto mes, en el quinto día del mes, estando yo entre los cautivos junto al río Chebar, se abrieron los cielos y vi visiones de Dios. ^a^ ^b^ 
-^a^[**1: 1** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**1:1** Ezeq 10,15]
+^a^[**1:1** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**1:1** Ezeq 10,15]
 
 ^2^ En el quinto del mes, que era el quinto año de la cautividad del rey Joaquín, ^a^ ^3^ La palabra de Yahvé^b^ llegó al sacerdote Ezequiel, hijo de Buzi, en la tierra de los caldeos, junto al río Chebar; y la mano de Yahvé estaba allí sobre él.
-^a^[**1:2** 2Re 24,15] ^b^[**1: 3** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
+^a^[**1:2** 2Re 24,15] ^b^[**1:3** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
 
 ## La nube de luz y el carro de luz y fuego con los cuatro querubines
 ^4^ Miré, y he aquí,^a^ un viento tempestuoso que salía del norte: una gran nube, con relámpagos centelleantes, y un resplandor a su alrededor, y de en medio de ella como metal resplandeciente, de en medio del fuego. ^b^ ^5^ De su centro salió la semejanza de cuatro seres vivientes. Esta era su apariencia: Tenían la apariencia de un hombre. ^6^ Todos tenían cuatro rostros, y cada uno de ellos tenía cuatro alas. ^7^ Sus pies eran rectos. La planta de sus pies era como la planta de un pie de ternero; y brillaban como el bronce bruñido. ^8^ Tenían las manos de un hombre debajo de sus alas en sus cuatro lados. Los cuatro tenían sus rostros y sus alas así: ^9^ Sus alas estaban unidas entre sí. No giraban cuando iban. Cada una iba hacia adelante. 
-^a^[**1: 4** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**1:4** Ezeq 10,-1; Apoc 4,6-8]
+^a^[**1:4** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**1:4** Ezeq 10,-1; Apoc 4,6-8]
 
 ^10^ En cuanto a la semejanza de sus rostros, tenían cara de hombre. Los cuatro tenían el rostro de un león en el lado derecho. Los cuatro tenían el rostro de un buey en el lado izquierdo. Los cuatro tenían también la cara de un águila. ^11^ Tales eran sus rostros. Sus alas estaban extendidas hacia arriba. Dos alas de cada uno tocaban a otro, y dos cubrían sus cuerpos. ^12^ Cada uno de ellos iba derecho hacia adelante. Donde el espíritu debía ir, ellos iban. No se volvían cuando iban. ^13^ En cuanto a la semejanza de los seres vivientes, su apariencia era como carbones ardientes de fuego, como la apariencia de antorchas. El fuego subía y bajaba entre los seres vivos. El fuego era brillante, y del fuego salían relámpagos. ^14^ Los seres vivientes corrían y regresaban como la apariencia de un relámpago. 
 
@@ -22,14 +22,14 @@
 ^22^ Sobre la cabeza del ser viviente había la semejanza de una expansión, como un cristal imponente para mirar, extendida sobre sus cabezas por encima. ^23^ Debajo de la extensión, sus alas eran rectas, una hacia la otra. Cada una tenía dos que cubrían de este lado, y cada una tenía dos que cubrían sus cuerpos de aquel lado. ^24^ Cuando se fueron, oí el ruido de sus alas como el ruido de grandes aguas, como la voz del Todopoderoso, un ruido de tumulto como el ruido de un ejército. Cuando se pararon, bajaron sus alas. 
 
 ^25^ Se oyó una voz por encima de la extensión que había sobre sus cabezas. Cuando se pusieron de pie, bajaron sus alas. ^26^ Sobre la extensión que estaba sobre sus cabezas había una semejanza de un trono, como la apariencia de una piedra de zafiro.^a^ Sobre la semejanza del trono había una semejanza como la de un hombre en lo alto. ^b^ ^27^ Vi como un metal resplandeciente, como la apariencia de fuego dentro de él todo alrededor, desde la apariencia de su cintura y hacia arriba; y desde la apariencia de su cintura y hacia abajo vi como la apariencia de fuego, y había brillo alrededor de él. ^28^ Como la apariencia del arco iris que está en la nube en el día de la lluvia, así era la apariencia del brillo alrededor. Esta fue la aparición de la semejanza de la gloria de Yahvé. Cuando la vi, caí de bruces, y oí una voz que hablaba.
-^a^[**1: 26** o, lapislázuli] ^b^[**1:26** Ezeq 1,22]
+^a^[**1:26** o, lapislázuli] ^b^[**1:26** Ezeq 1,22]
 
 # 2
 ## La misión de Ezequiel por Israel renegado
 ^1^ Me dijo: “Hijo de hombre, ponte en pie, y hablaré contigo”. ^2^ El Espíritu entró en mí cuando me habló, y me puso en pie; y oí al que me hablaba. 
 
 ^3^ Me dijo: “Hijo de hombre, te envío a los hijos de Israel, a una nación de rebeldes que se ha rebelado contra mí. Ellos y sus padres se han rebelado contra mí hasta el día de hoy. ^4^ Los hijos son insolentes y de corazón rígido. Te envío a ellos, y les dirás: ‘Esto es lo que dice el Señor^a^ Yahvé’. ^5^ Ellos, ya sea que escuchen o que se nieguen — pues son una casa rebelde —, sabrán que ha habido un profeta entre ellos. ^b^ ^6^ Tú, hijo de hombre, no les tengas miedo, ni te asustes de sus palabras, aunque te acompañen zarzas y espinas, y habites entre escorpiones. No tengas miedo de sus palabras, ni te asustes por su aspecto, aunque sean una casa rebelde. ^7^ Tú les dirás mis palabras, tanto si las escuchan como si las rechazan, porque son muy rebeldes.
-^a^[**2: 4** La palabra traducida “Señor” es “Adonai”.] ^b^[**2:5** Ezeq 3,11; Ezeq 3,27]
+^a^[**2:4** La palabra traducida “Señor” es “Adonai”.] ^b^[**2:5** Ezeq 3,11; Ezeq 3,27]
 
 ## Inspiración divina al consumir un pergamino
 ^8^ Pero tú, hijo de hombre, escucha lo que te digo. No seas rebelde como esa casa rebelde. Abre tu boca y come lo que te doy”. 
@@ -46,7 +46,7 @@
 
 ## Afilado del orden; Equipo del profeta para su oficio
 ^4^ Me dijo: “Hijo de hombre, ve a la casa de Israel y diles mis palabras. ^5^ Porque no has sido enviado a un pueblo de habla extraña y de lengua difícil, sino a la casa de Israel — ^6^ no a muchos pueblos de habla extraña y de lengua difícil, cuyas palabras no puedes entender. Ciertamente, si te enviara a ellos, te escucharían. ^7^ Pero la casa de Israel no te escuchará, porque no me escuchará a mí; porque toda la casa de Israel es obstinada^a^ y dura de corazón. ^8^ He aquí que he endurecido tu rostro contra el de ellos, y tu frente contra la de ellos. ^9^ He hecho tu frente como un diamante, más duro que el pedernal. No tengas miedo de ellos, ni te asustes por su aspecto, aunque sean una casa rebelde”. 
-^a^[**3: 7** Literalmente, tener la frente dura]
+^a^[**3:7** Literalmente, tener la frente dura]
 
 ^10^ Además, me dijo: “Hijo de hombre, recibe en tu corazón y escucha con tus oídos todas mis palabras que te digo. ^11^ Ve a los del cautiverio, a los hijos de tu pueblo, y háblales, y diles: ‘Esto es lo que dice el Señor Yahvé’, ya sea que escuchen o que se nieguen.” ^a^ 
 ^a^[**3:11** Ezeq 8,3; Hech 8,39]
@@ -79,7 +79,7 @@
 
 ## Tercera señal: la comida insuficiente e inmunda durante el asedio de la ciudad
 ^9^ “Toma también para ti el trigo, la cebada, las judías, las lentejas, el mijo y la espelta, y ponlos en una vasija. Haz pan con ello. Según el número de los días que te acuestes de lado, trescientos noventa días, comerás de él. ^10^ Tu comida que comerás será por peso, veinte siclos^a^ al día. De vez en cuando lo comerás. ^11^ Beberás agua por medida, la sexta parte de un hin. De vez en cuando beberás. ^12^ Lo comerás como tortas de cebada, y lo hornearás a la vista de ellos con estiércol que sale del hombre.” ^13^ Yahvé dijo: “Así comerán los hijos de Israel su pan impuro, entre las naciones a las que los conduciré.” 
-^a^[**4: 10** “Bamah” significa “Lugar Alto”.]
+^a^[**4:10** “Bamah” significa “Lugar Alto”.]
 
 ^14^ Entonces dije: “¡Ah, Señor Yahvé! He aquí que mi alma no se ha contaminado, pues desde mi juventud hasta ahora no he comido de lo que muere por sí mismo, ni se desgarra de los animales. Ninguna carne abominable ha entrado en mi boca”. ^a^ 
 ^a^[**4:14** Hech 10,14]
@@ -485,7 +485,7 @@
 
 ## Testigo del dolor y ominoso anuncio del profeta
 ^6^ “Por tanto, suspira, hijo de hombre. Suspirarás ante sus ojos con el corazón roto^a^ y con amargura. ^7^ Y cuando te pregunten: “¿Por qué suspiras?”, dirás: “¡Por la noticia, porque viene! Todo corazón se derretirá, todas las manos se debilitarán, todo espíritu desfallecerá y todas las rodillas se debilitarán como el agua. He aquí que viene, y se hará, dice el Señor Yahvé’”. 
-^a^[**21: 6** literalmente, la ruptura de sus muslos]
+^a^[**21:6** literalmente, la ruptura de sus muslos]
 
 ## La canción de la espada
 ^8^ La palabra de Yahvé vino a mí, diciendo: ^9^ “Hijo de hombre, profetiza y di: ‘Dice Yahvé: “¡Una espada! ¡Una espada! Está afilado, y también pulido. ^10^ Está afilada para hacer una matanza. Está pulido que puede ser como un rayo. ¿Debemos entonces alegrarnos? La vara de mi hijo condena a todo árbol. ^11^ Se da por pulido, para que pueda ser manejado. La espada está afilada. Sí, está pulidopara entregarlo a la mano del asesino”. ^12^ Llora y grita, hijo de hombre; porque está en mi pueblo. Está en todos los príncipes de Israel. Son entregados a la espada con mi pueblo. Por lo tanto, golpea tu muslo. ^13^ “Porque hay una prueba. ¿Qué tal si hasta la vara que condena deja de serlo?”, dice el Señor Yahvé. ^14^ “Tú, pues, hijo de hombre, profetiza, y golpea tus manos juntas. Que la espada se duplique la tercera vez, la espada de los heridos mortales. Es la espada del grande que está herido de muerte, que entra en sus habitaciones. ^a^ ^15^ He puesto la espada amenazadora contra todas sus puertas, para que su corazón se derrita, y que sus tropiezos se multipliquen. ¡Ah! Está hecho como un rayo. Está apuntado para la matanza. ^16^ Reúnanse. Ve a la derecha. Pónganse en matriz. Ve a la izquierda, donde sea que se ponga la cara. ^17^ También golpearé mis manos, y haré descansar mi ira. Yo, Yahvé, lo he dicho”.
@@ -493,7 +493,7 @@
 
 ## El rey Nabucodonosor en la encrucijada
 ^18^ La palabra de Yahvé vino de nuevo a mí, diciendo: ^19^ “También tú, hijo de hombre, señala dos caminos, para que venga la espada del rey de Babilonia. Ambos saldrán de una misma tierra, y marca un lugar. Márcalo a la cabeza del camino a la ciudad. ^20^ Señalarás un camino para que la espada llegue a Rabá de los hijos de Amón, y a Judá en Jerusalén la fortificada. ^21^ Porque el rey de Babilonia se paró en la separación del camino, a la cabeza de los dos caminos, para usar la adivinación. Agitó las flechas de un lado a otro. Consultó los terafines.^a^ Miró en el hígado. ^22^ En su mano derecha estaba la suerte de Jerusalén, para poner arietes, para abrir la boca en la matanza, para levantar la voz con gritos, para poner arietes contra las puertas, para echar montículos y para construir fortalezas. ^23^ Será para ellos como una falsa adivinación ante sus ojos, que les han hecho juramentos; pero él trae a la memoria la iniquidad, para que sean tomados. 
-^a^[**21: 21** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
+^a^[**21:21** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
 
 ## La amenaza de Dios contra el principal culpable, Sedequías, y contra la ciudad; el rey mesiánico
 ^24^ “Por eso dice el Señor Yahvé: ‘Porque has hecho que se recuerde tu iniquidad, al quedar al descubierto tus transgresiones, de modo que en todas tus acciones aparecen tus pecados; porque has llegado a la memoria, serás tomado con la mano. ^a^ 
@@ -511,7 +511,7 @@
 
 ## Elaboración de los pecados
 ^6^ “He aquí que los príncipes de Israel, cada uno según su poder, han estado en ti para derramar sangre. ^7^ En ti han tratado con desprecio al padre y a la madre.^a^ En ti han oprimido al extranjero. En ti han agraviado al huérfano y a la viuda. ^b^ ^8^ Han despreciado mis cosas sagradas y han profanado mis sábados. ^9^ Los calumniadores han estado en ti para derramar sangre. En vosotros han comido en los montes. Han cometido actos de lujuria entre vosotros. ^10^ En ustedes han descubierto la desnudez de sus padres. En ustedes han humillado a la impura en su impureza. ^11^ Uno ha cometido abominación con la mujer de su prójimo, y otro ha mancillado a su nuera. Otro en ti ha humillado a su hermana, la hija de su padre. ^c^ ^12^ En ti han aceptado sobornos para derramar sangre. Han tomado interés y aumento, y han ganado con avaricia de sus vecinos mediante la opresión, y se han olvidado de mí”, dice el Señor Yahvé. ^d^ 
-^a^[**22: 7** Literalmente, se ha despreciado al padre y a la madre.] ^b^[**22:7** Éxod 22,20-21] ^c^[**22:11** Lev 18,9; Lev 18,15; Lev 18,20] ^d^[**22:12** Éxod 22,24]
+^a^[**22:7** Literalmente, se ha despreciado al padre y a la madre.] ^b^[**22:7** Éxod 22,20-21] ^c^[**22:11** Lev 18,9; Lev 18,15; Lev 18,20] ^d^[**22:12** Éxod 22,24]
 
 ^13^ “‘“He aquí, pues, que he golpeado mi mano por la ganancia deshonesta que has hecho, y por la sangre que se ha derramado en ti. ^14^ ¿Podrá tu corazón soportar, o tus manos ser fuertes, en los días en que voy a tratar contigo? Yo, Yahvé, lo he dicho y lo haré. ^15^ Te esparciré entre las naciones y te dispersaré por los países. Purificaré de ti tu inmundicia. ^16^ Serás profanado en ti mismo a la vista de las naciones. Entonces sabrás que yo soy Yahvé”. 
 
@@ -658,7 +658,7 @@
 
 ## Lamento por la muerte de este príncipe
 ^11^ Además, vino a mí la palabra de Yahvé, diciendo: ^12^ “Hijo de hombre, levanta un lamento sobre el rey de Tiro, y dile: ‘El Señor Yahvé dice: “Fuiste el sello de la medida completa, lleno de sabiduría, y perfecta en belleza. ^a^ ^13^ Estuviste en el Edén, el jardín de Dios. Todas las piedras preciosas te adornaban: rubí, topacio, esmeralda, crisolita, ónix, jaspe, zafiro,^b^ turquesa y berilo. Orfebrería de panderetasy de tuberías estaba en ti. Se prepararon en el día en que fuisteis creados. ^14^ Tú eras el querubín ungido que cubre. Entonces, te instalé en el monte sagrado de Dios. Has caminado arriba y abajo en medio de las piedras de fuego. ^15^ Fuiste perfecto en tus caminos desde el día en que fuiste creado, hasta que la injusticia se encontró en ti. ^16^ Por la abundancia de tu comercio, tus entrañas se llenaron de violencia, y has pecado. Por eso te he expulsado como profano del monte de Dios. Te he destruido, querubín de cobertura, desde el centro de las piedras de fuego. ^17^ Tu corazón se enalteció a causa de tu belleza. Has corrompido tu sabiduría a causa de tu esplendor. Te he arrojado al suelo. Te he presentado ante los reyes, para que te vean. ^18^ Por la multitud de tus iniquidades, en la injusticia de su comercio, habéis profanado vuestros santuarios. Por eso he sacado un fuego de en medio de ti. Te ha devorado. Te he convertido en cenizas en la tierraa la vista de todos los que te ven. ^19^ Todos los que te conocen entre los pueblos se asombrarán de ti. Te has convertido en un terror, y no existirás más”. ^c^ 
-^a^[**28:12** Ezeq 27,2] ^b^[**28: 13** o, lapislázuli ] ^c^[**28:19** Ezeq 27,36]
+^a^[**28:12** Ezeq 27,2] ^b^[**28:13** o, lapislázuli ] ^c^[**28:19** Ezeq 27,36]
 
 ## Palabra de Dios contra Sidón
 ^20^ La palabra de Yahvé vino a mí, diciendo: ^21^ “Hijo de hombre, pon tu rostro hacia Sidón, y profetiza contra ella, ^22^ y di: ‘El Señor Yahvé dice: “He aquí que estoy contra ti, Sidón. Seré glorificado entre vosotros. Entonces sabrán que yo soy Yahvé, cuando haya ejecutado juicios en ella, y soy santificado en ella. ^a^ ^23^ Porque enviaré a ella la peste, y sangre en sus calles. Los heridos caerán dentro de ella, con la espada sobre ella en cada lado. Entonces sabrán que yo soy Yahvé.
@@ -727,7 +727,7 @@
 
 ## El efecto y significado de esta caída
 ^15^ “Dice el Señor Yahvé: ‘El día en que descendió al Seol,^a^ causé un duelo. Cubrí el abismo por él y detuve sus ríos. Las grandes aguas se detuvieron. Hice que el Líbano se lamentara por él, y todos los árboles del campo se desmayaron por él. ^16^ Hice temblar a las naciones al oír su caída, cuando lo arrojé al Seol^b^ con los que descienden a la fosa. Todos los árboles del Edén, los selectos y mejores del Líbano, todos los que beben agua, fueron consolados en las partes bajas de la tierra. ^17^ También bajaron al Seol con él los que son muertos por la espada; sí, los que fueron su brazo, los que vivieron bajo su sombra en medio de las naciones. 
-^a^[**31: 15** El Seol es el lugar de los muertos.] ^b^[**31: 16** El Seol es el lugar de los muertos.]
+^a^[**31:15** El Seol es el lugar de los muertos.] ^b^[**31:16** El Seol es el lugar de los muertos.]
 
 ^18^ “‘¿A quién te pareces en gloria y en grandeza entre los árboles del Edén? Sin embargo, serás derribado con los árboles del Edén a las partes bajas de la tierra. Yacerás en medio de los incircuncisos, con los muertos por la espada. “‘Este es Faraón y toda su multitud’, dice el Señor Yahvé”.
 
@@ -746,7 +746,7 @@
 
 ## El faraón condenado a la infelicidad; Su recepción por parte de los habitantes del inframundo
 ^19^ ¿A quiénes pasas en la belleza? Desciendan y se acuesten con los incircuncisos. ^a^ ^20^ Caerán entre los muertos por la espada. Ella es entregada a la espada. Arrastradla con todas sus multitudes. ^b^ ^21^ El fuerte entre los poderosos le hablará desde el medio del Seol^c^ con los que le ayudan. Ellos han descendido. Los incircuncisos yacen inmóviles, muertos por la espada. ^d^ 
-^a^[**32:19** Is 14,11-19] ^b^[**32:20** Ezeq 21,14] ^c^[**32: 21** El Seol es el lugar de los muertos.] ^d^[**32:21** Is 14,9]
+^a^[**32:19** Is 14,11-19] ^b^[**32:20** Ezeq 21,14] ^c^[**32:21** El Seol es el lugar de los muertos.] ^d^[**32:21** Is 14,9]
 
 ## El faraón en el inframundo en medio de los infelices
 ^22^ “Asur está allí con toda su compañía. Sus tumbas están a su alrededor. Todos ellos están muertos, caídos por la espada, ^23^ cuyas tumbas se encuentran en las partes más extremas de la fosa, y su compañía está alrededor de su tumba, todos ellos muertos, caídos por la espada, que causó el terror en la tierra de los vivos. 
@@ -946,7 +946,7 @@
 
 ## El muro perimetral exterior y la puerta este exterior
 ^5^ He aquí que había un muro en la parte exterior de la casa por todo el contorno, y en la mano del hombre una caña de medir de seis codos^a^ , de un codo y un palmo de ancho cada una. Así midió el grosor del edificio, una caña; y la altura, una caña. 
-^a^[**40: 5** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**40:5** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^6^ Luego llegó a la puerta que mira hacia el oriente, y subió sus escalones. Midió el umbral de la puerta, de una caña de ancho, y el otro umbral, de una caña de ancho. ^7^ Cada posada tenía una caña de largo y otra de ancho. Entre las logias había cinco codos. El umbral de la puerta, junto al pórtico de la puerta hacia la casa, era de una caña. 
 
@@ -1008,7 +1008,7 @@
 # 42
 ## Las células sacerdotales del norte
 ^1^ Luego me sacó al patio exterior, el camino hacia el norte. Luego me llevó a la habitación que estaba frente al lugar separado, y que estaba frente al edificio hacia el norte. ^2^ Frente a la longitud de cien codos^a^ estaba la puerta del norte, y la anchura era de cincuenta codos. ^b^ ^3^ Frente a los veinte codos que pertenecían al atrio interior, y frente al pavimento que pertenecía al atrio exterior, había galería contra galería en los tres pisos. ^c^ ^4^ Delante de las habitaciones había un paseo de diez codos de ancho hacia adentro, un camino de un codo; y sus puertas estaban hacia el norte. ^5^ Las habitaciones superiores eran más cortas, pues las galerías les quitaban más espacio que a las inferiores y a las centrales del edificio. ^6^ Porque estaban en tres pisos, y no tenían pilares como los de los atrios. Por lo tanto, el más alto estaba más alejado del suelo que el más bajo y el del medio. ^7^ El muro que estaba fuera, al lado de las habitaciones, hacia el patio exterior, delante de las habitaciones, tenía una longitud de cincuenta codos. ^8^ Porque la longitud de las habitaciones que estaban en el atrio exterior era de cincuenta codos. Las que daban al templo tenían cien codos. ^9^ Debajo de estas habitaciones estaba la entrada por el lado oriental, cuando se entraba en ellas desde el atrio exterior.
-^a^[**42: 2** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.] ^b^[**42:2** Ezeq 41,13] ^c^[**42:3** Ezeq 41,10; Ezeq 40,17]
+^a^[**42:2** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.] ^b^[**42:2** Ezeq 41,13] ^c^[**42:3** Ezeq 41,10; Ezeq 40,17]
 
 ## Las células sacerdotales del sur
 ^10^ En el espesor de la pared del atrio hacia el oriente, delante del lugar separado y delante del edificio, había habitaciones. ^11^ El camino ante ellas era como el aspecto de las habitaciones que estaban hacia el norte. Su longitud y su anchura eran iguales. Todas sus salidas tenían la misma disposición y puertas. ^12^ Al igual que las puertas de las habitaciones que estaban hacia el sur, había una puerta en la cabecera del camino, el camino que estaba directamente frente a la pared hacia el este, cuando se entraba en ellas. 
@@ -1033,7 +1033,7 @@
 
 ## El altar del holocausto y su consagración
 ^13^ “Estas son las medidas del altar por codos (el codo^a^ es un codo y un palmo de ancho): el fondo será un codo, y el ancho un codo, y su borde alrededor de su borde un palmo;^b^ y esto será la base del altar. ^c^ ^14^ Desde el fondo en el suelo hasta la cornisa inferior habrá dos codos, y el ancho un codo; y desde la cornisa menor hasta la mayor habrá cuatro codos, y el ancho un codo. ^15^ El altar superior tendrá cuatro codos, y desde el hogar del altar hacia arriba habrá cuatro cuernos. ^16^ El hogar del altar tendrá doce codos de largo por doce de ancho, cuadrado en sus cuatro lados. ^17^ La cornisa tendrá catorce codos de largo por catorce de ancho en sus cuatro lados, y el borde alrededor será de medio codo, y su fondo tendrá un codo alrededor, y sus escalones mirarán hacia el oriente.”
-^a^[**43: 13** codo normal es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros. La anchura de una mano es de unas 4, 3 pulgadas u 11 centímetros.] ^b^[**43: 13** Un palmo es la longitud desde la punta del pulgar de un hombre hasta la punta de su dedo meñique cuando su mano está extendida (aproximadamente medio codo, o 9 pulgadas, o 22, 8 cm.)] ^c^[**43:13** Ezeq 40,47; Éxod 27,1-8]
+^a^[**43:13** codo normal es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros. La anchura de una mano es de unas 4, 3 pulgadas u 11 centímetros.] ^b^[**43:13** Un palmo es la longitud desde la punta del pulgar de un hombre hasta la punta de su dedo meñique cuando su mano está extendida (aproximadamente medio codo, o 9 pulgadas, o 22, 8 cm.)] ^c^[**43:13** Ezeq 40,47; Éxod 27,1-8]
 
 ## La dedicación del altar
 ^18^ Me dijo: “Hijo de hombre, el Señor Yahvé dice: ‘Estas son las ordenanzas del altar en el día en que lo hacen, para ofrecer holocaustos sobre él, y para rociar sangre sobre él. ^19^ Darás a los sacerdotes levitas que son de la descendencia de Sadoc, que están cerca de mí, para que me sirvan — dice el Señor Yahvé — un novillo para el sacrificio por el pecado. ^20^ Tomaréis de su sangre y la pondréis sobre sus cuatro cuernos, sobre las cuatro esquinas de la cornisa y sobre el borde que la rodea. Así lo purificarás y harás expiación por él. ^21^ También tomarás el toro de la ofrenda por el pecado, y lo quemarás en el lugar señalado de la casa, fuera del santuario. 
@@ -1077,7 +1077,7 @@
 # 45
 ## Traslado de un recinto sagrado a los sacerdotes y levitas, así como una porción de tierra a la ciudad y al príncipe
 ^1^ “‘“Además, cuando repartas por sorteo la tierra en herencia, ofrecerás una ofrenda a Yahvé, una porción sagrada de la tierra. La longitud será de veinticinco mil cañas, y la anchura de diez mil. Será sagrada en todo su contorno. ^2^ De esto habrá un cuadrado de quinientos por quinientos para el lugar santo, y cincuenta codos^a^ para sus tierras de pastoreo alrededor. ^3^ De esta medida medirás una longitud de veinticinco mil y una anchura de diez mil. En él estará el santuario, que es santísimo. ^4^ Es una porción sagrada de la tierra; será para los sacerdotes, los ministros del santuario, que se acercan a ministrar a Yavé. Será un lugar para sus casas y un lugar santo para el santuario. ^5^ Veinticinco mil codos de largo y diez mil de ancho serán para los levitas, los ministros de la casa, como posesión para ellos, para veinte habitaciones. 
-^a^[**45: 2** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**45:2** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^6^ “‘“Designarás la posesión de la ciudad de cinco mil codos de ancho y veinticinco mil de largo, al lado de la ofrenda de la porción santa. Será para toda la casa de Israel. 
 
@@ -1085,18 +1085,18 @@
 
 ## El deber del príncipe de hacer justicia y garantizar la justicia
 ^9^ “‘El Señor Yahvé dice: “¡Basta ya, príncipes de Israel! ¡Quiten la violencia y el saqueo, y hagan justicia y rectitud! Dejen de despojar a mi pueblo!” Dice el Señor Yahvé. ^a^ ^10^ “Tendrán balanzas justas, un efa justo,^b^ y un baño justo. ^c^ ^11^ El efa y el baño serán de una misma medida, para que el baño contenga la décima parte de un homer,^d^ y el efa la décima parte de un homer. Su medida será la misma que la del homer. ^12^ El siclo^e^ será de veinte gerahs.^f^ Veinte siclos más veinticinco siclos más quince siclos serán tu mina. ^g^
-^a^[**45:9** Ezeq 46,18] ^b^[**45: 10** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^c^[**45:10** Lev 19,36; Deut 25,15] ^d^[**45: 11** 1 homer es de unos 220 litros o 6 bushels] ^e^[**45: 12** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.] ^f^[**45: 12** una gerah son unos 0, 5 gramos o unos 7, 7 granos] ^g^[**45: 12** Una mina equivale a unos 600 gramos o 1, 3 libras estadounidenses.]
+^a^[**45:9** Ezeq 46,18] ^b^[**45:10** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^c^[**45:10** Lev 19,36; Deut 25,15] ^d^[**45:11** 1 homer es de unos 220 litros o 6 bushels] ^e^[**45:12** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.] ^f^[**45:12** una gerah son unos 0, 5 gramos o unos 7, 7 granos] ^g^[**45:12** Una mina equivale a unos 600 gramos o 1, 3 libras estadounidenses.]
 
 ## Las cuotas que se pagarán al príncipe y los sacrificios que hará
 ^13^ “‘“Esta es la ofrenda que ofrecerás la sexta parte de un efa de un homer de trigo, y darás la sexta parte de un efa de un homer de cebada, ^14^ y la porción fija de aceite, del baño de aceite, la décima parte de un baño del cor, que son diez baños, un homer (pues diez baños son un homer), ^a^ ^15^ y un cordero de los rebaños de entre doscientos, de los pastos bien regados de Israel, como ofrenda, como holocausto y como ofrenda de paz, para hacer expiación por ellos”, dice el Señor Yahvé. ^16^ “Todo el pueblo de la tierra dará a esta ofrenda para el príncipe en Israel. ^17^ Al príncipe le corresponderá dar los holocaustos, las ofrendas y las libaciones en las fiestas, en las lunas nuevas y en los sábados, en todas las fiestas señaladas de la casa de Israel. Preparará la ofrenda por el pecado, el presente, el holocausto y las ofrendas de paz, para hacer la expiación por la casa de Israel.” 
-^a^[**45: 14** 1 cor es lo mismo que 1 homer en volumen, y son unos 211 litros, 55, 9 galones o 6 bushels. 1 baño es de unos 21, 1 litros, 5, 59 galones, o 2, 4 pecheras.]
+^a^[**45:14** 1 cor es lo mismo que 1 homer en volumen, y son unos 211 litros, 55, 9 galones o 6 bushels. 1 baño es de unos 21, 1 litros, 5, 59 galones, o 2, 4 pecheras.]
 
 ## Las fiestas y sacrificios
 ^18^ “‘El Señor Yahvé dice: “En el primer mes, el primer día del mes, tomarás un novillo sin defecto, y limpiarás el santuario. ^19^ El sacerdote tomará de la sangre de la ofrenda por el pecado y la pondrá en los postes de la puerta de la casa, en las cuatro esquinas de la cornisa del altar y en los postes de la puerta del atrio interior. ^20^ Así harás el séptimo día del mes por todo el que se equivoque y por el que sea simple. Así harás la expiación por la casa. ^a^ 
 ^a^[**45:20** Lev 4,2; Lev 5,17]
 
 ^21^ “‘“En el primer mes, el día catorce del mes, tendrás la Pascua, una fiesta de siete días; se comerán panes sin levadura. ^a^ ^22^ Ese día el príncipe preparará para sí mismo y para todo el pueblo de la tierra un toro para el sacrificio por el pecado. ^23^ Los siete días de la fiesta preparará un holocausto para Yahvé, siete toros y siete carneros sin defecto cada día de los siete días; y un macho cabrío cada día como ofrenda por el pecado. ^b^ ^24^ Preparará una ofrenda, un efa^c^ por un toro, un efa por un carnero, y un hin^d^ de aceite por un efa. ^e^ 
-^a^[**45:21** Lev 23,5] ^b^[**45:23** Núm 28,19-22] ^c^[**45: 24** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^d^[**45: 24** Una hin es de unos 6, 5 litros o 1, 7 galones.] ^e^[**45:24** Ezeq 46,5; Núm 15,4; Núm 15,6; Núm 15,9]
+^a^[**45:21** Lev 23,5] ^b^[**45:23** Núm 28,19-22] ^c^[**45:24** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^d^[**45:24** Una hin es de unos 6, 5 litros o 1, 7 galones.] ^e^[**45:24** Ezeq 46,5; Núm 15,4; Núm 15,6; Núm 15,9]
 
 ^25^ “‘“En el mes séptimo, a los quince días del mes, durante la fiesta, hará lo mismo durante siete días. Hará la misma provisión para la ofrenda por el pecado, el holocausto, la ofrenda de comida y el aceite”. ^a^ 
 ^a^[**45:25** Lev 23,34]
@@ -1104,16 +1104,16 @@
 # 46
 ## Normativa para la celebración del sábado y la luna nueva
 ^1^ “‘El Señor Yahvé dice: “La puerta del atrio interior que mira hacia el oriente estará cerrada los seis días hábiles; pero el día del sábado se abrirá, y el día de la luna nueva se abrirá. ^2^ El príncipe entrará por el camino del pórtico de la puerta de afuera, y se pondrá junto al poste de la puerta; los sacerdotes prepararán su holocausto y sus ofrendas de paz, y él adorará en el umbral de la puerta. Luego saldrá, pero la puerta no se cerrará hasta la noche. ^3^ El pueblo del país adorará a la puerta de esa puerta ante Yavé los sábados y las lunas nuevas. ^4^ El holocausto que el príncipe ofrecerá a Yavé será el día del sábado, seis corderos sin defecto y un carnero sin defecto; ^a^ ^5^ y la ofrenda de comida será un efa por el carnero, y la ofrenda de comida por los corderos que pueda dar, y un hin^b^ de aceite por un efa. ^6^ El día de la luna nueva será un novillo sin defecto, seis corderos y un carnero. Serán sin defecto. ^7^ Preparará una ofrenda: un efa por el toro, un efa por el carnero y por los corderos, según sus posibilidades, y un hin de aceite por efa. ^8^ Cuando el príncipe entre, lo hará por el camino del pórtico de la puerta, y saldrá por su camino. 
-^a^[**46:4** Núm 28,9] ^b^[**46: 5** 1 efa son unos 22 litros o unos 2/3 de una fanega]
+^a^[**46:4** Núm 28,9] ^b^[**46:5** 1 efa son unos 22 litros o unos 2/3 de una fanega]
 
 ^9^ “‘“Pero cuando el pueblo de la tierra se presente ante Yahvé en las fiestas señaladas, el que entre por el camino de la puerta del norte para adorar saldrá por el camino de la puerta del sur; y el que entre por el camino de la puerta del sur saldrá por el camino de la puerta del norte. No regresará por el camino de la puerta por la que entró, sino que saldrá directamente delante de él. ^10^ El príncipe entrará con ellos cuando entren. Cuando salgan, él saldrá. 
 
 ## Regulaciones para víctimas aisladas
 ^11^ “‘“En las fiestas y en las festividades señaladas, la ofrenda de comida será un efa^a^ por un toro, y un efa por un carnero, y por los corderos que pueda dar, y un hin de aceite por un efa. ^b^ ^12^ Cuando el príncipe prepare una ofrenda voluntaria, un holocausto o una ofrenda de paz como ofrenda voluntaria a Yahvé, se le abrirá la puerta que mira hacia el oriente, y preparará su holocausto y sus ofrendas de paz, como se hace en el día de reposo. Luego saldrá, y después de su salida se cerrará la puerta. 
-^a^[**46: 11** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^b^[**46:11** Ezeq 46,7]
+^a^[**46:11** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^b^[**46:11** Ezeq 46,7]
 
 ^13^ “‘“Prepararás cada día un cordero de un año sin defecto para un holocausto a Yahvé. Por la mañana lo prepararás. ^14^ Con él prepararás por la mañana una ofrenda, la sexta parte de un efa,^a^ y la tercera parte de un hin de aceite para humedecer la harina fina; una ofrenda a Yahvé continuamente por ordenanza perpetua. ^15^ Así prepararán el cordero, la ofrenda y el aceite, de mañana, para un holocausto continuo.” 
-^a^[**46: 14** 1 efa equivale a unos 22 litros o a 2/3 de una fanega]
+^a^[**46:14** 1 efa equivale a unos 22 litros o a 2/3 de una fanega]
 
 ## Ordenanza posterior sobre la propiedad del Príncipe
 ^16^ “‘El Señor Yahvé dice: “Si el príncipe da un regalo a alguno de sus hijos, es su herencia. Pertenecerá a sus hijos. Es su posesión por herencia. ^17^ Pero si da de su herencia un regalo a uno de sus siervos, será suyo hasta el año de la libertad; entonces volverá al príncipe; pero en cuanto a su herencia, será para sus hijos. ^a^ ^18^ Además, el príncipe no tomará la herencia del pueblo para expulsarlo de su posesión. Dará herencia a sus hijos de su propia posesión, para que mi pueblo no sea dispersado cada uno de su posesión”’”. ^b^ 
@@ -1123,7 +1123,7 @@
 ^19^ Luego me hizo pasar por la entrada, que estaba al lado de la puerta, a las habitaciones sagradas para los sacerdotes, que miraban hacia el norte. He aquí que había un lugar en la parte posterior hacia el oeste. ^20^ Me dijo: “Este es el lugar donde los sacerdotes cocerán la ofrenda por la culpa y la ofrenda por el pecado, y donde cocerán la ofrenda del pan, para que no las saquen al atrio exterior, para santificar al pueblo.” 
 
 ^21^ Entonces me sacó al atrio exterior y me hizo pasar por las cuatro esquinas del atrio; y he aquí que en cada esquina del atrio había un patio. ^22^ ^a^ En las cuatro esquinas del atrio había patios cerrados, de cuarenta codos de largo y treinta de ancho. Estos cuatro en las esquinas eran del mismo tamaño. ^23^ Había un muro alrededor de los cuatro, y se hacían hervideros debajo de los muros en todo el perímetro. ^24^ Entonces me dijo: “Estos son los hervideros, donde los ministros de la casa cocerán el sacrificio del pueblo.”
-^a^[**46: 22** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**46:22** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 # 47
 ## El maravilloso manantial del templo como una corriente de bendiciones
@@ -1131,7 +1131,7 @@
 ^a^[**47:1** Jl 4,18; Zac 14,8; Apoc 22,1]
 
 ^3^ Cuando el hombre salió hacia el este con el cordel en la mano, midió mil codos,^a^ y me hizo pasar por las aguas, aguas que llegaban a los tobillos. ^4^ Volvió a medir mil, y me hizo pasar por las aguas, aguas que llegaban a las rodillas. Volvió a medir mil, y me hizo pasar por aguas que llegaban a la cintura. ^5^ Después midió mil, y era un río por el que no podía pasar, pues las aguas habían crecido, aguas para nadar, un río por el que no se podía caminar. 
-^a^[**47: 3** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**47:3** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^6^ Me dijo: “Hijo de hombre, ¿has visto esto?” Entonces me llevó y me hizo volver a la orilla del río. 
 

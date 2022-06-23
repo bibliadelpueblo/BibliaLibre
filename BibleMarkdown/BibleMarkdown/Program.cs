@@ -14,6 +14,8 @@ using System.Xml;
 using System.Xml.Linq;
 using Pandoc;
 using System.Runtime.InteropServices;
+using Microsoft.CodeAnalysis.Scripting;
+using Microsoft.CodeAnalysis.CSharp.Scripting;
 
 namespace BibleMarkdown
 {
@@ -86,32 +88,31 @@ namespace BibleMarkdown
 			var mdepub = Path.Combine(md, "epub");
 			var tex = Path.Combine(path, "out", "tex");
 			var html = Path.Combine(path, "out", "html");
+			var usfm = Path.Combine(path, "out", "usfm");
 			if (!Directory.Exists(md)) Directory.CreateDirectory(md);
 			if (!Directory.Exists(mdtex)) Directory.CreateDirectory(mdtex);
 			if (!Directory.Exists(mdepub)) Directory.CreateDirectory(mdepub);
 			if (!Directory.Exists(tex)) Directory.CreateDirectory(tex);
 			if (!Directory.Exists(html)) Directory.CreateDirectory(html);
+			if (!Directory.Exists(usfm)) Directory.CreateDirectory(usfm);
 			var mdfile = Path.Combine(md, Path.GetFileName(file));
 			var texfile = Path.Combine(tex, Path.GetFileNameWithoutExtension(file) + ".tex");
 			var htmlfile = Path.Combine(html, Path.GetFileNameWithoutExtension(file) + ".html");
 			var epubfile = Path.Combine(mdepub, Path.GetFileNameWithoutExtension(file) + ".md");
-
-			var mdfiletime = DateTime.MinValue;
-			var epubfiletime = DateTime.MinValue;
-			var texfiletime = DateTime.MinValue;
-			var htmlfiletime = DateTime.MinValue;
-			var filetime = File.GetLastWriteTimeUtc(file);
+			var usfmfile = Path.Combine(usfm, Path.GetFileNameWithoutExtension(file) + ".usfm");
 
 			Task TeXTask = Task.CompletedTask, HtmlTask = Task.CompletedTask;
 
 			CreatePandoc(file, mdfile);
 			CreateEpub(path, mdfile, epubfile);
+			CreateUSFM(file, usfmfile);
 			return Task.WhenAll(CreateTeXAsync(mdfile, texfile), CreateHtmlAsync(mdfile, htmlfile));
 		}
 
 
 		static void ProcessPath(string path)
 		{
+			RunScript(path);
 			var srcpath = Path.Combine(path, "src");
 			var outpath = Path.Combine(path, "out");
 			if (!Directory.Exists(outpath)) Directory.CreateDirectory(outpath);
@@ -132,6 +133,27 @@ namespace BibleMarkdown
 			CreateVerseStats(path);
 			var files = Directory.EnumerateFiles(path, "*.md");
 			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
+		}
+
+		static void RunScript(string path)
+		{
+			var file = Path.Combine(path, "src", "script.cs");
+			if (!File.Exists(file)) return;
+
+			var txt = File.ReadAllText(file);
+			Log(file, "Run script");
+
+			try
+			{
+				var result = CSharpScript.RunAsync(txt, ScriptOptions.Default
+				.WithReferences(typeof(Program).Assembly)
+				.WithImports("BibleMarkdown"));
+				result.Wait();
+			} catch (Exception e)
+			{
+				Console.WriteLine(e);
+			}
+			
 		}
 
 		static void ProcessTwoLanguagesPath(string path, string path1, string path2)

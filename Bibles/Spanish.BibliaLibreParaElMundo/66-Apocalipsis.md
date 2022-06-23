@@ -216,7 +216,7 @@
 ^15^ El séptimo ángel tocó la trompeta, y en el cielo se oyeron grandes voces que decían: “El reino del mundo se ha convertido en el reino de nuestro Señor y de su Cristo. Él reinará por los siglos de los siglos”. 
 
 ^16^ Los veinticuatro ancianos, sentados en sus tronos ante el trono de Dios, se postraron sobre sus rostros y adoraron a Dios, ^a^ ^17^ diciendo: “Te damos gracias, Señor Dios, el Todopoderoso, el que es y el que era, ^b^ porque has tomado tu gran poder y has reinado. ^18^ Las naciones se enfurecieron y llegó tu ira, así como el momento de juzgar a los muertos y de dar su recompensa a tus siervos los profetas, así como a los santos y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra.” 
-^a^[**11:16** Apoc 4,4; Apoc 4,10] ^b^[**11: 17** TR añade “y que viene”]
+^a^[**11:16** Apoc 4,4; Apoc 4,10] ^b^[**11:17** TR añade “y que viene”]
 
 ^19^ El templo de Dios que está en el cielo se abrió, y el arca de la alianza del Señor se vio en su templo. Siguieron relámpagos, estruendos, truenos, un terremoto y granizo. ^a^ 
 ^a^[**11:19** Apoc 15,5]
@@ -236,7 +236,7 @@
 
 ## Persecución infructuosa de mujeres por parte del dragón
 ^13^ Cuando el dragón se vio arrojado a la tierra, persiguió a la mujer que había dado a luz al hijo varón. ^14^ Se le dieron a la mujer dos alas de águila grande, para que volara al desierto a su lugar, a fin de que se alimentara por un tiempo, tiempos y medio tiempo, de la cara de la serpiente. ^15^ La serpiente vomitó agua de su boca tras la mujer como un río, para hacer que fuera arrastrada por la corriente. ^16^ La tierra ayudó a la mujer, y la tierra abrió su boca y se tragó el río que el dragón vomitó de su boca. ^17^ El dragón se enfureció contra la mujer y se fue a hacer la guerra contra el resto de su descendencia, ^a^ que guarda los mandamientos de Dios y mantiene el testimonio de Jesús.
-^a^[**12: 17** o, semilla]
+^a^[**12:17** o, semilla]
 
 # 13
 ## La primera bestia del mar, de diez cuernos y siete cabezas; Amonestación a perseverar
@@ -244,15 +244,15 @@
 ^a^[**13:1** Dan 7,3-7]
 
 ^5^ Se le dio una boca que hablaba grandes cosas y blasfemias. Se le dio autoridad para hacer la guerra durante cuarenta y dos meses. ^6^ Abrió su boca para blasfemar contra Dios, para blasfemar de su nombre, de su morada y de los que habitan en el cielo. ^7^ Le fue dado hacer la guerra contra los santos y vencerlos. Se le dio autoridad sobre toda tribu, pueblo, lengua y nación. ^a^ ^8^ Todos los que habitan en la tierra lo adorarán, todos los que no tienen su nombre escrito desde la fundación del mundo en el libro de la vida del Cordero que ha sido muerto. ^9^ Si alguien tiene oído, que oiga. ^10^ Si alguno ha de ir al cautiverio, irá al cautiverio. Si alguno ha de ser muerto a espada, será muerto.^b^ Aquí está la resistencia y la fe de los santos. 
-^a^[**13:7** Apoc 11,7; Dan 7,21] ^b^[**13: 10** TR dice “Si alguien lleva al cautiverio, al cautiverio va. Si alguien va a matar con la espada, debe ser matado con la espada”, en lugar de “Si alguien va a ir al cautiverio, irá al cautiverio. Si alguien ha de ser matado a espada, debe ser matado”. ]
+^a^[**13:7** Apoc 11,7; Dan 7,21] ^b^[**13:10** TR dice “Si alguien lleva al cautiverio, al cautiverio va. Si alguien va a matar con la espada, debe ser matado con la espada”, en lugar de “Si alguien va a ir al cautiverio, irá al cautiverio. Si alguien ha de ser matado a espada, debe ser matado”. ]
 
 ^11^ Vi otra bestia que subía de la tierra. Tenía dos cuernos como los de un cordero y hablaba como un dragón. ^12^ Ejerce en su presencia toda la autoridad de la primera bestia. Hace que la tierra y los que la habitan adoren a la primera bestia, cuya herida mortal fue curada. ^13^ Realiza grandes señales, incluso haciendo bajar fuego del cielo a la tierra a la vista de la gente. ^a^ ^14^ Engaña a mi propio ^b^ pueblo que habita en la tierra por las señales que se le concedió hacer frente a la bestia, diciendo a los que habitan en la tierra que hagan una imagen a la bestia que tenía la herida de espada y vivía. ^15^ Se le concedió dar aliento a la imagen de la bestia, para que la imagen de la bestia hable y haga morir a todos los que no adoren la imagen de la bestia. ^16^ Hace que a todos, a los pequeños y a los grandes, a los ricos y a los pobres, a los libres y a los esclavos, se les pongan marcas en la mano derecha o en la frente; ^17^ y que nadie pueda comprar ni vender si no tiene esa marca, que es el nombre de la bestia o el número de su nombre. ^18^ He aquí la sabiduría. El que tenga entendimiento, que calcule el número de la bestia, porque es el número de un hombre. Su número es seiscientos sesenta y seis. ^c^ 
-^a^[**13:13** Mat 24,24; 2Tes 2,9] ^b^[**13: 14** NU omite “mi propio”] ^c^[**13:18** Apoc 15,2]
+^a^[**13:13** Mat 24,24; 2Tes 2,9] ^b^[**13:14** NU omite “mi propio”] ^c^[**13:18** Apoc 15,2]
 
 # 14
 ## El Cordero y la iglesia perfecta de los 144.000 en el monte Sion
 ^1^ Vi, y he aquí el Cordero de pie sobre el monte Sión, y con él un número de ciento cuarenta y cuatro mil, que tenían su nombre y el nombre de su Padre escrito en la frente. ^a^ ^2^ Oí un ruido del cielo como el ruido de muchas aguas y como el ruido de un gran trueno. El sonido que oí era como el de arpistas tocando sus arpas. ^b^ ^3^ Cantan un cántico nuevo ante el trono y ante los cuatro seres vivos y los ancianos. Nadie podía aprender el cántico, excepto los ciento cuarenta y cuatro mil, los que habían sido redimidos de la tierra. ^4^ Estos son los que no se contaminaron con mujeres, pues son vírgenes. Estos son los que siguen al Cordero dondequiera que vaya. Estos fueron redimidos por Jesús de entre los hombres, las primicias para Dios y para el Cordero. ^5^ En su boca no se encontró ninguna mentira, pues son irreprochables. ^c^
-^a^[**14:1** Apoc 7,4; Apoc 3,12] ^b^[**14:2** Apoc 1,15] ^c^[**14: 5** TR añade “ante el trono de Dios”]
+^a^[**14:1** Apoc 7,4; Apoc 3,12] ^b^[**14:2** Apoc 1,15] ^c^[**14:5** TR añade “ante el trono de Dios”]
 
 ## Tres llamados de ángeles proclaman un mensaje eterno de salvación para todos los pueblos, así como la caída de Babilonia y anuncian el juicio de los adoradores de la bestia
 ^6^ Vi a un ángel que volaba en medio del cielo y que tenía una Buena Noticia eterna que anunciar a los habitantes de la tierra, a toda nación, tribu, lengua y pueblo. ^7^ Dijo a gran voz: “Temed al Señor y dadle gloria, porque ha llegado la hora de su juicio. Adorad al que hizo el cielo, la tierra, el mar y las fuentes de agua”. 
@@ -271,10 +271,10 @@
 
 ## El juicio del Hijo del Hombre en la tierra bajo la imagen de una cosecha de grano y una vendimia
 ^14^ Miré y vi una nube blanca, y sobre la nube uno sentado como un hijo de hombre,^a^ que tenía en la cabeza una corona de oro y en la mano una hoz afilada. ^b^ ^15^ Otro ángel salió del templo, gritando a gran voz al que estaba sentado en la nube: “¡Envía tu hoz y siega, porque ha llegado la hora de cosechar; porque la mies de la tierra está madura!” ^c^ ^16^ El que estaba sentado en la nube clavó su hoz en la tierra, y la tierra fue segada. 
-^a^[**14: 14** 14: 14 Daniel 7: 13] ^b^[**14:14** Mar 13,26] ^c^[**14:15** Mat 13,39; Jl 4,13]
+^a^[**14:14** 14:14 Daniel 7:13] ^b^[**14:14** Mar 13,26] ^c^[**14:15** Mat 13,39; Jl 4,13]
 
 ^17^ Otro ángel salió del templo que está en el cielo. También tenía una hoz afilada. ^18^ Otro ángel salió del altar, el que tiene poder sobre el fuego, y llamó con gran voz al que tenía la hoz afilada, diciendo: “¡Envía tu hoz afilada y recoge los racimos de la vid de la tierra, porque las uvas de la tierra están completamente maduras!” ^19^ El ángel clavó su hoz en la tierra, recogió la cosecha de la tierra y la echó en el gran lagar de la ira de Dios. ^20^ El lagar fue pisado fuera de la ciudad, y del lagar salió sangre hasta las bridas de los caballos, hasta mil seiscientos estadios. ^a^
-^a^[**14: 20** 1600 estadios = 296 kilómetros o 184 millas]
+^a^[**14:20** 1600 estadios = 296 kilómetros o 184 millas]
 
 # 15
 ## Los siete ángeles con las siete últimas plagas; la alabanza de los vencedores en el mar de cristal
@@ -282,7 +282,7 @@
 ^a^[**15:1** Apoc 16,1]
 
 ^2^ Vi algo parecido a un mar de cristal mezclado con fuego, y a los que habían vencido a la bestia, a su imagen ^a^ y al número de su nombre, de pie sobre el mar de cristal, con arpas de Dios. ^b^ ^3^ Cantaban el cántico de Moisés, el siervo de Dios, y el cántico del Cordero, diciendo“¡Grandes y maravillosas son tus obras, Señor Dios, el Todopoderoso! Justos y verdaderos son tus caminos, Rey de las naciones. ^c^ ^4^ ¿Quién no te temería, Señor? y glorificar tu nombre? Porque sólo tú eres santo. Porque todas las naciones vendrán a adorar ante ti. Porque tus actos justos se han revelado”. ^d^ 
-^a^[**15: 2** TR añade “su marca”.] ^b^[**15:2** Apoc 4,6] ^c^[**15:3** Éxod 15,1; Éxod 15,11; Deut 32,4; Sal 145,17; Jer 10,6-7] ^d^[**15:4** Sal 86,9; Jer 16,19-21]
+^a^[**15:2** TR añade “su marca”.] ^b^[**15:2** Apoc 4,6] ^c^[**15:3** Éxod 15,1; Éxod 15,11; Deut 32,4; Sal 145,17; Jer 10,6-7] ^d^[**15:4** Sal 86,9; Jer 16,19-21]
 
 ## La aparición y el equipamiento de los siete ángeles de la copa de la ira
 ^5^ Después de estas cosas miré, y se abrió el templo del tabernáculo del testimonio en el cielo. ^a^ ^6^ Los siete ángeles que tenían las siete plagas salieron, vestidos de lino puro y brillante, y con fajas de oro alrededor del pecho. 
@@ -309,13 +309,13 @@
 ^10^ El quinto derramó su copa sobre el trono de la bestia, y su reino se oscureció. Se mordieron la lengua a causa del dolor, ^11^ y blasfemaron del Dios del cielo a causa de sus dolores y de sus llagas. Todavía no se arrepintieron de sus obras. 
 
 ^12^ El sexto derramó su copa sobre el gran río Éufrates. Sus aguas se secaron, para que se preparara el camino a los reyes que vienen del amanecer. ^a^ ^b^ ^13^ Vi salir de la boca del dragón, y de la boca de la bestia, y de la boca del falso profeta, tres espíritus inmundos, semejantes a ranas; ^c^ ^14^ porque son espíritus de demonios, que hacen señales, y que van a los reyes de toda la tierra habitada, para reunirlos para la guerra de aquel gran día del Dios Todopoderoso. 
-^a^[**16: 12** o, este] ^b^[**16:12** Is 11,15-16] ^c^[**16:13** Apoc 12,3; Éxod 8,3]
+^a^[**16:12** o, este] ^b^[**16:12** Is 11,15-16] ^c^[**16:13** Apoc 12,3; Éxod 8,3]
 
 ^15^ “He aquí que vengo como un ladrón. Bienaventurado el que vela y guarda su ropa, para que no ande desnudo y vean su vergüenza.” ^a^ ^16^ Los reunió en el lugar que en hebreo se llama “Harmagedón”. 
 ^a^[**16:15** 1Tes 5,2]
 
 ^17^ El séptimo derramó su copa en el aire. Una fuerte voz salió del templo del cielo, del trono, diciendo: “¡Está hecho!” ^18^ Hubo relámpagos, estruendos y truenos, y se produjo un gran terremoto como no se había producido desde que hay hombres en la tierra: un terremoto tan grande y tan poderoso. ^19^ La gran ciudad se dividió en tres partes, y las ciudades de las naciones cayeron. La gran Babilonia fue recordada ante los ojos de Dios, para darle la copa del vino del furor de su ira. ^20^ Todas las islas huyeron, y los montes no se encontraron. ^a^ ^21^ Grandes piedras de granizo, del peso de un talento,^b^ cayeron del cielo sobre la gente. La gente blasfemaba contra Dios a causa de la plaga del granizo, pues esta plaga era sumamente grave. ^c^ 
-^a^[**16:20** Apoc 6,14] ^b^[**16: 21** Un talento son unos 30 kilos o 66 libras.] ^c^[**16:21** Éxod 9,23]
+^a^[**16:20** Apoc 6,14] ^b^[**16:21** Un talento son unos 30 kilos o 66 libras.] ^c^[**16:21** Éxod 9,23]
 
 # 17
 ## Descripción de la espléndida pero abominable mujer entronizada sobre la bestia
@@ -324,7 +324,7 @@
 
 ## Descripción del animal de siete cabezas y diez cuernos, así como su destino pasado y futuro
 ^7^ El ángel me dijo: “¿Por qué te asombras? Te diré el misterio de la mujer y de la bestia que la lleva, que tiene las siete cabezas y los diez cuernos. ^8^ La bestia que has visto era, y no es; y está a punto de subir del abismo e ir a la destrucción. Los que habitan en la tierra y cuyos nombres no están escritos en el libro de la vida desde la fundación del mundo se maravillarán cuando vean que la bestia era, y no es, y estará presente. ^a^ 
-^a^[**17: 8** TR lee “todavía es” en lugar de “estará presente”]
+^a^[**17:8** TR lee “todavía es” en lugar de “estará presente”]
 
 ^9^ Aquí está la mente que tiene sabiduría. Las siete cabezas son siete montes sobre los que se sienta la mujer. ^10^ Son siete reyes. Cinco han caído, uno es, y el otro aún no ha venido. Cuando venga, debe continuar un poco más. ^11^ La bestia que era, y no es, es también la octava, y es de las siete; y va a la destrucción. ^12^ Los diez cuernos que has visto son diez reyes que aún no han recibido ningún reino, pero reciben autoridad como reyes con la bestia por una hora. ^a^ ^13^ Estos tienen una sola mente, y dan su poder y autoridad a la bestia. ^14^ Estos guerrearán contra el Cordero, y el Cordero los vencerá, porque es Señor de señores y Rey de reyes; y los que están con él son llamados, elegidos y fieles.”
 ^a^[**17:12** Apoc 13,1]
@@ -373,15 +373,15 @@
 
 ## La batalla del Mesías; la destrucción de la bestia y sus seguidores, es decir, todos los ejércitos o pueblos hostiles
 ^11^ Vi el cielo abierto, y he aquí un caballo blanco, y el que lo montaba se llamaba Fiel y Verdadero. Con justicia juzga y hace la guerra. ^a^ ^12^ Sus ojos son una llama de fuego, y en su cabeza hay muchas coronas. Tiene nombres escritos y un nombre escrito que nadie conoce sino él mismo. ^b^ ^13^ Está revestido de un manto salpicado de sangre. Su nombre se llama “La Palabra de Dios”. ^c^ ^14^ Los ejércitos que están en el cielo, vestidos de lino blanco, puro y fino, lo siguen en caballos blancos. ^d^ ^15^ De su boca sale una espada afilada y de doble filo para herir con ella a las naciones. Las gobernará con vara de hierro.^e^ Él pisa el lagar del furor de la ira de Dios, el Todopoderoso. ^f^ ^16^ Tiene en su manto y en su muslo un nombre escrito: “REY DE REYES Y SEÑOR DE SEÑORES”. ^g^ 
-^a^[**19:11** Apoc 3,14; Mat 24,30; Is 11,4-5] ^b^[**19:12** Apoc 1,14; Apoc 3,12] ^c^[**19:13** Is 63,1-2; Juan 1,1] ^d^[**19:14** Apoc 17,14] ^e^[**19: 15** Salmo 2: 9 ] ^f^[**19:15** Sal 2,9; Apoc 14,19-20] ^g^[**19:16** Apoc 1,5; 1Tim 6,15]
+^a^[**19:11** Apoc 3,14; Mat 24,30; Is 11,4-5] ^b^[**19:12** Apoc 1,14; Apoc 3,12] ^c^[**19:13** Is 63,1-2; Juan 1,1] ^d^[**19:14** Apoc 17,14] ^e^[**19:15** Salmo 2:9 ] ^f^[**19:15** Sal 2,9; Apoc 14,19-20] ^g^[**19:16** Apoc 1,5; 1Tim 6,15]
 
 ^17^ Vi a un ángel de pie en el sol. Gritó con gran voz, diciendo a todas las aves que vuelan en el cielo: “¡Venid! Reúnanse en la gran cena de Dios, ^a^ ^b^ ^18^ para que coman la carne de los reyes, la carne de los capitanes, la carne de los poderosos, la carne de los caballos y de los que se sientan en ellos, y la carne de todos los hombres, libres y esclavos, pequeños y grandes.” ^19^ Vi a la bestia, a los reyes de la tierra y a sus ejércitos reunidos para hacer la guerra contra el que estaba sentado sobre el caballo y contra su ejército. ^c^ ^20^ La bestia fue apresada, y con ella el falso profeta que realizaba las señales a su vista, con las que engañaba a los que habían recibido la marca de la bestia y a los que adoraban su imagen. Estos dos fueron arrojados vivos al lago de fuego que arde con azufre. ^d^ ^21^ Los demás fueron muertos con la espada del que estaba sentado en el caballo, la espada que salía de su boca. Y todas las aves se llenaron de su carne.
-^a^[**19: 17** TR lee “cena del gran Dios” en lugar de “gran cena de Dios”] ^b^[**19:17** Ezeq 39,4; Ezeq 39,17-20] ^c^[**19:19** Apoc 16,14; Apoc 16,16] ^d^[**19:20** 2Tes 2,8; Apoc 13,11-17]
+^a^[**19:17** TR lee “cena del gran Dios” en lugar de “gran cena de Dios”] ^b^[**19:17** Ezeq 39,4; Ezeq 39,17-20] ^c^[**19:19** Apoc 16,14; Apoc 16,16] ^d^[**19:20** 2Tes 2,8; Apoc 13,11-17]
 
 # 20
 ## Encadenamiento de Satanás; la primera resurrección y el reino milenario de paz
 ^1^ Vi a un ángel que bajaba del cielo, con la llave del abismo y una gran cadena en la mano. ^a^ ^2^ Agarró al dragón, la serpiente antigua, que es el diablo y Satanás, que engaña a toda la tierra habitada, ^b^ y lo ató por mil años, ^c^ ^3^ y lo arrojó al abismo, lo cerró y lo selló sobre él, para que no engañara más a las naciones hasta que se cumplieran los mil años. Después de esto, debe ser liberado por un corto tiempo. 
-^a^[**20:1** Apoc 9,1] ^b^[**20: 2** TR y NU omiten “que engaña a toda la tierra habitada”.] ^c^[**20:2** Apoc 12,9]
+^a^[**20:1** Apoc 9,1] ^b^[**20:2** TR y NU omiten “que engaña a toda la tierra habitada”.] ^c^[**20:2** Apoc 12,9]
 
 ^4^ Vi tronos, y se sentaron en ellos, y se les dio juicio. Vi las almas de los que habían sido decapitados por el testimonio de Jesús y por la palabra de Dios, y a los que no adoraron a la bestia ni a su imagen, y no recibieron la marca en la frente y en la mano. Ellos vivieron y reinaron con Cristo durante mil años. ^a^ ^5^ El resto de los muertos no vivió hasta que se cumplieron los mil años. Esta es la primera resurrección. ^b^ ^6^ Bendito y santo es el que tiene parte en la primera resurrección. Sobre éstos, la segunda muerte no tiene poder, sino que serán sacerdotes de Dios y de Cristo, y reinarán con él mil años.
 ^a^[**20:4** Apoc 3,21; Mat 19,28; 1Cor 6,2] ^b^[**20:5** 1Tes 4,16]
@@ -392,7 +392,7 @@
 
 ## La segunda resurrección (general) y el juicio final
 ^11^ Vi un gran trono blanco y al que estaba sentado en él, de cuyo rostro huyeron la tierra y el cielo. No se encontró lugar para ellos. ^a^ ^12^ Vi a los muertos, a los grandes y a los pequeños, de pie ante el trono, y abrieron libros. Se abrió otro libro, que es el libro de la vida. Los muertos fueron juzgados por las cosas que estaban escritas en los libros, según sus obras. ^b^ ^13^ El mar entregó a los muertos que estaban en él. La muerte y el Hades^c^ entregaron a los muertos que estaban en ellos. Fueron juzgados, cada uno según sus obras. ^14^ La muerte y el Hades ^d^ fueron arrojados al lago de fuego. Esta es la segunda muerte, el lago de fuego. ^e^ ^15^ El que no se halló inscrito en el libro de la vida fue arrojado al lago de fuego.
-^a^[**20:11** Mat 25,31-46; 2Pe 3,7; 2Pe 3,10; 2Pe 3,12] ^b^[**20:12** Juan 5,28-29] ^c^[**20: 13** o el infierno ] ^d^[**20: 14** o, Infierno] ^e^[**20:14** 1Cor 15,26; 1Cor 15,55]
+^a^[**20:11** Mat 25,31-46; 2Pe 3,7; 2Pe 3,10; 2Pe 3,12] ^b^[**20:12** Juan 5,28-29] ^c^[**20:13** o el infierno ] ^d^[**20:14** o, Infierno] ^e^[**20:14** 1Cor 15,26; 1Cor 15,55]
 
 # 21
 ^1^ Vi un cielo nuevo y una tierra nueva, porque el primer cielo y la primera tierra pasaron, y el mar ya no existe. 
@@ -402,14 +402,14 @@
 ^a^[**21:2** Heb 12,22; Gal 4,26; Apoc 19,7-8] ^b^[**21:3** Ezeq 37,26-27] ^c^[**21:4** Apoc 7,17; Is 25,8; Is 35,10]
 
 ^5^ El que está sentado en el trono dijo: “He aquí que hago nuevas todas las cosas”. Dijo: “Escribe, porque estas palabras de Dios son fieles y verdaderas”. ^6^ Me dijo: “Yo soy el Alfa y la Omega, el Principio y el Fin. Al que tenga sed le daré gratuitamente del manantial del agua de la vida. ^7^ Al que venza, le daré estas cosas. Yo seré su Dios, y él será mi hijo. ^8^ Pero a los cobardes, a los incrédulos, a los pecadores, a los ^a^ abominables, a los asesinos, a los inmorales sexuales, a los hechiceros, a los ^b^ idólatras y a todos los mentirosos, su parte está en el lago que arde con fuego y azufre, que es la muerte segunda.” 
-^a^[**21: 8** TR y NU omiten “pecadores”] ^b^[**21: 8** La palabra “hechiceros” aquí también incluye a los usuarios de pociones y drogas.]
+^a^[**21:8** TR y NU omiten “pecadores”] ^b^[**21:8** La palabra “hechiceros” aquí también incluye a los usuarios de pociones y drogas.]
 
 ## La descripción de la nueva Jerusalén
 ^9^ Vino uno de los siete ángeles que tenían las siete copas cargadas con las siete últimas plagas, y habló conmigo diciendo: “Ven aquí. Te mostraré la novia, la esposa del Cordero”. ^a^ ^10^ Me llevó en el Espíritu a un monte grande y alto, y me mostró la ciudad santa, Jerusalén, que descendía del cielo, de Dios, ^11^ con la gloria de Dios. Su luz era como una piedra preciosísima, como una piedra de jaspe, clara como el cristal; ^12^ tenía un muro grande y alto con doce puertas, y a las puertas doce ángeles, y nombres escritos en ellas, que son los nombres de las doce tribus de los hijos de Israel. ^13^ Al este había tres puertas, al norte tres puertas, al sur tres puertas y al oeste tres puertas. ^14^ El muro de la ciudad tenía doce cimientos, y en ellos doce nombres de los doce Apóstoles del Cordero. 
 ^a^[**21:9** Apoc 15,1; Apoc 15,6-7; Apoc 19,7]
 
 ^15^ El que hablaba conmigo tenía como medida una caña de oro para medir la ciudad, sus puertas y sus muros. ^a^ ^16^ La ciudad es cuadrada. Su longitud es tan grande como su anchura. Midió la ciudad con la caña: doce mil doce estadios.^b^ Su longitud, su anchura y su altura son iguales. ^17^ Su muro tiene ciento cuarenta y cuatro codos,^c^ según la medida de un hombre, es decir, de un ángel. ^18^ La construcción de su muro era de jaspe. La ciudad era de oro puro, como el vidrio puro. ^19^ Los cimientos de la muralla de la ciudad estaban adornados con toda clase de piedras preciosas. El primer cimiento era de jaspe; el segundo, de zafiro;^d^ el tercero, de calcedonia; el cuarto, de esmeralda; ^20^ el quinto, de sardónica; el sexto, de sardio; el séptimo, de crisolita; el octavo, de berilo; el noveno, de topacio; el décimo, de crisoprasa; el undécimo, de jacinto; y el duodécimo, de amatista. ^21^ Las doce puertas eran doce perlas. Cada una de las puertas estaba hecha de una perla. La calle de la ciudad era de oro puro, como el cristal transparente. 
-^a^[**21:15** Ezeq 40,3] ^b^[**21: 16** 12. 012 estadios = 2. 221 kilómetros o 1. 380 millas. El TR dice 12. 000 estadios en lugar de 12. 012 estadios.] ^c^[**21: 17** 144 metros son aproximadamente 65, 8 metros o 216 pies] ^d^[**21: 19** o, lapislázuli]
+^a^[**21:15** Ezeq 40,3] ^b^[**21:16** 12. 012 estadios = 2. 221 kilómetros o 1. 380 millas. El TR dice 12. 000 estadios en lugar de 12. 012 estadios.] ^c^[**21:17** 144 metros son aproximadamente 65, 8 metros o 216 pies] ^d^[**21:19** o, lapislázuli]
 
 ^22^ No vi ningún templo en ella, porque el Señor Dios Todopoderoso y el Cordero son su templo. ^23^ La ciudad no necesita que brillen el sol ni la luna, porque la gloria misma de Dios la ilumina y su lámpara es el Cordero. ^a^ ^24^ Las naciones caminarán a su luz. Los reyes de la tierra llevan a ella la gloria y el honor de las naciones. ^25^ Sus puertas no se cerrarán de día (porque allí no habrá noche), ^26^ y traerán a ella la gloria y el honor de las naciones para que puedan entrar. ^27^ De ninguna manera entrará en ella nada profano, ni nadie que cause abominación o mentira, sino sólo los que están escritos en el libro de la vida del Cordero.
 ^a^[**21:23** Is 60,3; Is 60,5; Is 60,11; Is 60,19-20]
@@ -417,7 +417,7 @@
 # 22
 ## La corriente de la vida, los árboles de la vida, la comunión plena con Dios y el reino eterno de la luz
 ^1^ Me mostró un^a^ río de agua de vida, claro como el cristal, que salía del trono de Dios y del Cordero, ^b^ ^2^ en medio de su calle. A este lado del río y a aquel otro estaba el árbol de la vida, que daba doce clases de frutos y daba su fruto cada mes. Las hojas del árbol eran para la curación de las naciones. ^3^ Ya no habrá más maldición. El trono de Dios y del Cordero estará en ella, y sus servidores le servirán. ^4^ Verán su rostro, y su nombre estará en sus frentes. ^c^ ^5^ No habrá noche, y no necesitarán luz de lámpara ni luz de sol, porque el Señor Dios los iluminará. Reinarán por los siglos de los siglos.
-^a^[**22: 1** TR añade “puro”] ^b^[**22:1** Ezeq 47,1; Ezeq 47,12; Zac 14,8; Gén 2,9] ^c^[**22:4** Apoc 3,12]
+^a^[**22:1** TR añade “puro”] ^b^[**22:1** Ezeq 47,1; Ezeq 47,12; Zac 14,8; Gén 2,9] ^c^[**22:4** Apoc 3,12]
 
 ## Promesa de Cristo y testimonio de Juan; La adoración no se debe a la criatura, sino solo a Dios
 ^6^ Me dijo: “Estas palabras son fieles y verdaderas. El Señor Dios de los espíritus de los profetas ha enviado a su ángel para mostrar a sus siervos las cosas que han de suceder pronto.” 
@@ -431,7 +431,7 @@
 ^a^[**22:10** Apoc 1,3; Apoc 10,4] ^b^[**22:11** Dan 12,10]
 
 ^12^ “¡Mira que vengo pronto! Mi recompensa está conmigo, para pagar a cada uno según su trabajo. ^a^ ^13^ Yo soy el Alfa y la Omega, el Primero y el Último, el Principio y el Fin. ^b^ ^14^ Bienaventurados los que cumplen sus mandamientos,^c^ para que tengan derecho al árbol de la vida y entren por las puertas en la ciudad. ^d^ ^15^ Fuera quedan los perros, los hechiceros, los inmorales, los asesinos, los idólatras y todos los que aman y practican la mentira. ^e^ 
-^a^[**22:12** Is 40,10] ^b^[**22:13** Apoc 1,11; Heb 13,8] ^c^[**22: 14** NU lee “lavar sus ropas” en lugar de “hacer sus mandamientos”.] ^d^[**22:14** Apoc 7,14] ^e^[**22:15** Apoc 21,8; Apoc 21,27; 1Cor 6,9-10]
+^a^[**22:12** Is 40,10] ^b^[**22:13** Apoc 1,11; Heb 13,8] ^c^[**22:14** NU lee “lavar sus ropas” en lugar de “hacer sus mandamientos”.] ^d^[**22:14** Apoc 7,14] ^e^[**22:15** Apoc 21,8; Apoc 21,27; 1Cor 6,9-10]
 
 ## Las palabras finales de Jesús; Testimonio del espíritu profético y de la iglesia; La ordenación de Juan para su libro; Seguro, añoranza y despedida
 ^16^ Yo Jesús, he enviado a mi ángel para que os dé testimonio de estas cosas para las asambleas. Yo soy la raíz y el vástago de David, la Estrella Brillante y Matutina”. ^a^ 
@@ -441,6 +441,6 @@
 ^a^[**22:17** Juan 7,37; Is 55,1]
 
 ^18^ Yo testifico a todo el que oiga las palabras de la profecía de este libro: si alguno añade a ellas, Dios le añadirá las plagas que están escritas en este libro. ^19^ Si alguien quita las palabras del libro de esta profecía, Dios le quitará su parte del árbol^a^ de la vida y de la ciudad santa, que están escritas en este libro. ^20^ El que da testimonio de estas cosas dice: “Sí, vengo pronto”. ¡Amén! ¡Sí, ven, Señor Jesús! ^b^ 
-^a^[**22: 19** TR dice “Libro” en lugar de “árbol”] ^b^[**22:20** 1Cor 16,22]
+^a^[**22:19** TR dice “Libro” en lugar de “árbol”] ^b^[**22:20** 1Cor 16,22]
 
 ^21^ La gracia del Señor Jesucristo sea con todos los santos. Amén.

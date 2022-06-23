@@ -3,10 +3,10 @@
 ^1^ El comienzo de la Buena Nueva de Jesucristo, el Hijo de Dios. 
 
 ^2^ Como está escrito en los profetas, “He aquí que^a^ envío a mi mensajero ante tu faz, que te preparará el camino delante de ti: ^b^ ^3^ la voz de uno que clama en el desierto,‘¡Preparen el camino del Señor! Endereza sus caminos”. ^c^ 
-^a^[**1: 2** “Contemplar”, de “ἰδοὺ”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**1: 2** Malaquías 3: 1] ^c^[**1: 3** Isaías 40: 3]
+^a^[**1:2** “Contemplar”, de “ἰδοὺ”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**1:2** Malaquías 3:1] ^c^[**1:3** Isaías 40:3]
 
 ^4^ Juan vino bautizando^a^ en el desierto y predicando el bautismo del arrepentimiento para el perdón de los pecados. ^5^ Toda la región de Judea y todos los de Jerusalén salieron a su encuentro. Fueron bautizados por él en el río Jordán, confesando sus pecados. ^6^ Juan estaba vestido con pelo de camello y un cinturón de cuero alrededor de la cintura. Comía chapulines y miel silvestre. ^7^ Predicaba diciendo: “Después de mí viene el que es más poderoso que yo, la correa de cuyas sandalias no soy digno de agacharme y desatar. ^8^ Yo os he bautizado en ^b^ agua, pero él os bautizará en el Espíritu Santo”. 
-^a^[**1: 4** o, sumergiendo] ^b^[**1: 8** La palabra griega (en) traducida aquí como “en” podría traducirse también como “con” en algunos contextos.]
+^a^[**1:4** o, sumergiendo] ^b^[**1:8** La palabra griega (en) traducida aquí como “en” podría traducirse también como “con” en algunos contextos.]
 
 ## El bautismo y la tentación de Jesús
 ^9^ En aquellos días, Jesús vino de Nazaret de Galilea y fue bautizado por Juan en el Jordán. ^a^ ^10^ Al salir del agua, vio que los cielos se abrían y que el Espíritu descendía sobre él como una paloma. ^11^ Una voz salió del cielo: “Tú eres mi Hijo amado, en quien me complazco”. 
@@ -35,7 +35,7 @@
 
 ## Sanación de la suegra de Simón y otros enfermos en Capernaum
 ^29^ En seguida, cuando salieron de la sinagoga, entraron en casa de Simón y Andrés, con Santiago y Juan. ^30^ La madre de la mujer de Simón estaba enferma de fiebre, y enseguida le hablaron de ella. ^31^ Él se acercó, la tomó de la mano y la levantó. La fiebre se le quitó enseguida, ^a^ y les sirvió. 
-^a^[**1: 31** NU omite “inmediatamente”.]
+^a^[**1:31** NU omite “inmediatamente”.]
 
 ^32^ Al atardecer, cuando se puso el sol, le llevaron a todos los enfermos y endemoniados. ^33^ Toda la ciudad estaba reunida a la puerta. ^34^ El curó a muchos enfermos de diversas enfermedades y expulsó a muchos demonios. No dejaba hablar a los demonios, porque le conocían. ^a^ 
 ^a^[**1:34** Hech 16,17-18]
@@ -107,22 +107,22 @@
 ^23^ Los convocó y les dijo en parábolas: “¿Cómo puede Satanás expulsar a Satanás? ^24^ Si un reino está dividido contra sí mismo, ese reino no puede permanecer. ^25^ Si una casa está dividida contra sí misma, esa casa no puede permanecer. ^26^ Si Satanás se ha levantado contra sí mismo y está dividido, no puede mantenerse en pie, sino que tiene un fin. ^27^ Pero nadie puede entrar en la casa del hombre fuerte para saquear, si antes no ata al hombre fuerte; entonces saqueará su casa. 
 
 ^28^ “Ciertamente os digo que todos los pecados de los descendientes del hombre serán perdonados, incluso las blasfemias con las que puedan blasfemar; ^29^ pero el que blasfeme contra el Espíritu Santo nunca tiene perdón, sino que está sujeto a la condenación eterna.” ^a^ ^30^ — porque dijeron: “Tiene un espíritu impuro”. ^b^ 
-^a^[**3: 29** NU lee, culpable de un pecado eterno.] ^b^[**3:30** Juan 10,20]
+^a^[**3:29** NU lee, culpable de un pecado eterno.] ^b^[**3:30** Juan 10,20]
 
 ## Los verdaderos parientes de Jesús
 ^31^ Llegaron su madre y sus hermanos y, estando fuera, le mandaron llamar. ^32^ Una multitud estaba sentada a su alrededor, y le dijeron: “Mira, tu madre, tus hermanos y tus hermanas^a^ están afuera buscándote”. 
-^a^[**3: 32** TR omite “sus hermanas”]
+^a^[**3:32** TR omite “sus hermanas”]
 
 ^33^ Él les respondió: “¿Quiénes son mi madre y mis hermanos?” ^34^ Mirando a los que estaban sentados a su alrededor, dijo: “¡Mira, mi madre y mis hermanos! ^35^ Porque todo el que hace la voluntad de Dios es mi hermano, mi hermana y mi madre”. 
 
 # 4
 ## Parábola del sembrador y cuatro tipos de campos
 ^1^ De nuevo se puso a enseñar a la orilla del mar. Se reunió con él una gran multitud, de modo que entró en una barca en el mar y se sentó. Toda la multitud estaba en tierra firme junto al mar. ^2^ Les enseñaba muchas cosas en parábolas, y les decía en su enseñanza: ^3^ “¡Escuchad! He aquí que el agricultor salió a sembrar. ^4^ Mientras sembraba, una parte de la semilla cayó en el camino, y ^a^ vinieron los pájaros y la devoraron. ^5^ Otras cayeron en el suelo rocoso, donde tenía poca tierra, y enseguida brotaron, porque no tenían profundidad de tierra. ^6^ Cuando salió el sol, se quemó; y como no tenía raíz, se secó. ^7^ Otra cayó entre los espinos, y los espinos crecieron y la ahogaron, y no dio fruto. ^8^ Otras cayeron en buena tierra y dieron fruto, creciendo y aumentando. Algunos produjeron treinta veces, otros sesenta veces y otros cien veces más”. ^9^ Dijo: “El que tenga oídos para oír, que oiga”. 
-^a^[**4: 4** TR añade “del aire”]
+^a^[**4:4** TR añade “del aire”]
 
 ## Analice el significado y el propósito de las parábolas
 ^10^ Cuando se quedó solo, los que estaban a su alrededor con los doce le preguntaron por las parábolas. ^11^ Él les dijo: “A vosotros se os ha dado el misterio del Reino de Dios, pero a los que están fuera, todas las cosas se hacen en parábolas, ^12^ para que “viendo vean y no perciban, y oyendo, no entiendan, no sea que se vuelvan y se les perdonen los pecados.”^a^ 
-^a^[**4: 12** Isaías 6: 9-10]
+^a^[**4:12** Isaías 6:9-10]
 
 ^13^ Les dijo: “¿No entendéis esta parábola? ¿Cómo vais a entender todas las parábolas? 
 
@@ -130,7 +130,7 @@
 ^14^ El agricultor siembra la palabra. ^15^ Los que están junto al camino son aquellos en los que se siembra la palabra; y cuando han oído, enseguida viene Satanás y les quita la palabra que se ha sembrado en ellos. ^16^ Estos, de la misma manera, son los que están sembrados en los pedregales, los cuales, cuando han oído la palabra, inmediatamente la reciben con alegría. ^17^ No tienen raíz en sí mismos, sino que duran poco. Cuando surge la opresión o la persecución a causa de la palabra, enseguida tropiezan. ^18^ Otros son los que están sembrados entre las espinas. Estos son los que han oído la palabra, ^19^ y los afanes de este siglo, y el engaño de las riquezas, y los deseos de otras cosas que entran, ahogan la palabra, y se hace infructuosa. ^20^ Los que fueron sembrados en buena tierra son los que oyen la palabra, la aceptan y dan fruto, unos treinta veces, otros sesenta y otros cien.” 
 
 ^21^ Les dijo: “¿Acaso se trae una lámpara para ponerla debajo de un cesto o^a^ de una cama? ¿No se pone sobre un candelero? ^b^ ^22^ Porque no hay nada oculto si no es para que se conozca, ni se ha hecho nada secreto si no es para que salga a la luz. ^c^ ^23^ El que tenga oídos para oír, que oiga”. 
-^a^[**4: 21** literalmente, un modión, una cesta de medición seca que contiene aproximadamente un pico (unos 9 litros)] ^b^[**4:21** Mat 5,15] ^c^[**4:22** Mat 10,26-27; Luc 12,2]
+^a^[**4:21** literalmente, un modión, una cesta de medición seca que contiene aproximadamente un pico (unos 9 litros)] ^b^[**4:21** Mat 5,15] ^c^[**4:22** Mat 10,26-27; Luc 12,2]
 
 ^24^ Les dijo: “Prestad atención a lo que oís. Con cualquier medida que midáis, se os medirá; y se os dará más a los que oís. ^a^ ^25^ Porque al que tiene, se le dará más; y al que no tiene, se le quitará hasta lo que tiene.” ^b^ 
 ^a^[**4:24** Mat 7,2] ^b^[**4:25** Mat 13,12-13]
@@ -217,24 +217,24 @@
 
 ## Regreso de los doce apóstoles; Jesús escapa a la soledad; Alimentando a los cinco mil
 ^30^ Los apóstoles se reunieron con Jesús y le contaron todo lo que habían hecho y lo que habían enseñado. ^31^ Él les dijo: “Venid a un lugar desierto y descansad un poco”. Porque eran muchos los que iban y venían, y no tenían tiempo ni para comer. ^32^ Se fueron en la barca a un lugar desierto, solos. ^33^ Los ^a^ vieron ir, y muchos lo reconocieron y corrieron allí a pie desde todas las ciudades. Llegaron antes que ellos y se acercaron a él. ^34^ Salió Jesús, vio una gran multitud y se compadeció de ellos porque eran como ovejas sin pastor; y se puso a enseñarles muchas cosas. ^b^ ^35^ Cuando se hizo tarde, sus discípulos se acercaron a él y le dijeron: “Este lugar está desierto, y ya es tarde. ^c^ ^36^ Despídelos para que vayan al campo y a las aldeas de los alrededores y se compren el pan, porque no tienen qué comer.” 
-^a^[**6: 33** TR lee “Las multitudes” en lugar de “Ellos”] ^b^[**6:34** Mat 9,36] ^c^[**6:35** Mar 8,1-9]
+^a^[**6:33** TR lee “Las multitudes” en lugar de “Ellos”] ^b^[**6:34** Mat 9,36] ^c^[**6:35** Mar 8,1-9]
 
 ^37^ Pero él les respondió: “Dadles vosotros de comer”. Le preguntaron: “¿Vamos a comprar doscientos denarios^a^ de pan y les damos de comer?”. 
-^a^[**6: 37** 200 denarios eran unos 7 u 8 meses de salario para un trabajador agrícola.]
+^a^[**6:37** 200 denarios eran unos 7 u 8 meses de salario para un trabajador agrícola.]
 
 ^38^ Les dijo: “¿Cuántos panes tienen? Id a ver”. Cuando lo supieron, dijeron: “Cinco y dos peces”. 
 
 ^39^ Les ordenó que todos se sentaran en grupos sobre la hierba verde. ^40^ Se sentaron en filas, de cien en cien y de cincuenta en cincuenta. ^41^ Tomó los cinco panes y los dos peces, y mirando al cielo, bendijo y partió los panes, y los dio a sus discípulos para que los pusieran delante, y repartió los dos peces entre todos. ^a^ ^42^ Todos comieron y se saciaron. ^43^ Recogieron doce cestas llenas de trozos y también de los peces. ^44^ Los que comieron los panes fueron ^b^ cinco mil hombres.
-^a^[**6:41** Mar 7,34] ^b^[**6: 44** TR añade “sobre”]
+^a^[**6:41** Mar 7,34] ^b^[**6:44** TR añade “sobre”]
 
 ## Regrese a través del lago por la noche; el caminar de Jesús sobre el lago; el desembarco en Gennesaret
 ^45^ Inmediatamente hizo que sus discípulos subieran a la barca y se adelantaran a la otra orilla, a Betsaida, mientras él mismo despedía a la multitud. ^46^ Después de despedirse de ellos, subió al monte a orar. 
 
 ^47^ Cuando llegó la noche, la barca estaba en medio del mar, y él estaba solo en tierra. ^48^ Viendo que se afanaban en remar, pues el viento les era contrario, hacia la cuarta vigilia de la noche se acercó a ellos, caminando sobre el mar; y^a^ hubiera querido pasar junto a ellos, ^49^ pero ellos, al verlo caminar sobre el mar, supusieron que era un fantasma, y gritaron; ^50^ pues todos lo vieron y se turbaron. Pero él habló enseguida con ellos y les dijo: “¡Anímense! ¡Soy yo!^b^ No tengáis miedo”. ^51^ Subió a la barca con ellos, y el viento cesó, y ellos se asombraron mucho entre sí, y se maravillaron; ^52^ porque no habían entendido lo de los panes, sino que tenían el corazón endurecido. ^c^ 
-^a^[**6: 48** Ver Job 9: 8] ^b^[**6: 50** o, “¡Yo soy!”] ^c^[**6:52** Mar 8,17]
+^a^[**6:48** Ver Job 9:8] ^b^[**6:50** o, “¡Yo soy!”] ^c^[**6:52** Mar 8,17]
 
 ^53^ Cuando hubieron cruzado, llegaron a tierra en Genesaret y atracaron en la orilla. ^54^ Cuando bajaron de la barca, la gente lo reconoció inmediatamente, ^55^ y corrió por toda aquella región, y comenzó a llevar a los enfermos sobre sus esteras a donde oían que estaba. ^56^ Dondequiera que entraba — en las aldeas, o en las ciudades, o en el campo —, ponían a los enfermos en las plazas y le rogaban que sólo les dejara tocar los flecos^a^ de su manto; y todos los que lo tocaban quedaban sanos.
-^a^[**6: 56** o, borla]
+^a^[**6:56** o, borla]
 
 # 7
 ## Pelea con los oponentes sobre el lavado de manos; Advertencia de estatutos humanos y marcado de verdadera impureza
@@ -242,16 +242,16 @@
 ^a^[**7:4** Mat 23,25]
 
 ^6^ Les respondió: “Bien profetizó Isaías de vosotros, hipócritas, como está escrito, ‘Este pueblo me honra con sus labios, pero su corazón está lejos de mí. ^7^ Me adoran en vano, enseñando como doctrinas los mandamientos de los hombres.”^a^ 
-^a^[**7: 7** Isaías 29: 13 ]
+^a^[**7:7** Isaías 29:13 ]
 
 ^8^ “Porque dejáis de lado el mandamiento de Dios, y os aferráis a la tradición de los hombres: el lavado de los cántaros y de las copas, y hacéis otras muchas cosas semejantes.” ^9^ Él les dijo: “Bien rechazáis el mandamiento de Dios para mantener vuestra tradición. ^10^ Porque Moisés dijo: ‘Honra a tu padre y a tu madre,’^a^ y ‘El que hable mal del padre o de la madre, que muera’. ^b^ ^11^ Pero vosotros decís: “Si un hombre dice a su padre o a su madre: “Cualquier beneficio que hayas recibido de mí es “corbán”^c^ , es decir, entregado a Dios, ^12^ “entonces ya no le permitís hacer nada por su padre o por su madre, ^13^ anulando la palabra de Dios por vuestra tradición que habéis transmitido. Vosotros hacéis muchas cosas así”. 
-^a^[**7: 10** Éxodo 20: 12; Deuteronomio 5: 16] ^b^[**7: 10** Éxodo 21: 17; Levítico 20: 9] ^c^[**7: 11** Corbán es una palabra hebrea que designa una ofrenda dedicada a Dios.]
+^a^[**7:10** Éxodo 20:12; Deuteronomio 5:16] ^b^[**7:10** Éxodo 21:17; Levítico 20:9] ^c^[**7:11** Corbán es una palabra hebrea que designa una ofrenda dedicada a Dios.]
 
 ^14^ Llamó a toda la multitud y les dijo: “Oídme todos y entended. ^15^ Nada de lo que sale del hombre puede contaminarle; pero lo que sale del hombre es lo que le contamina. ^16^ Si alguien tiene oídos para oír, que oiga”. ^a^ 
-^a^[**7: 16** NU omite el versículo 16.]
+^a^[**7:16** NU omite el versículo 16.]
 
 ^17^ Cuando entró en una casa lejos de la multitud, sus discípulos le preguntaron por la parábola. ^18^ Él les dijo: “¿También vosotros estáis sin entendimiento? ¿No os dais cuenta de que todo lo que entra en el hombre desde fuera no puede contaminarle, ^19^ porque no entra en su corazón, sino en su estómago, y luego en la letrina, con lo que todos los alimentos quedan limpios?” ^a^ ^20^ El dijo: “Lo que sale del hombre, eso contamina al hombre. ^21^ Porque de dentro, del corazón de los hombres, salen los malos pensamientos, los adulterios, los pecados sexuales, los asesinatos, los robos, ^22^ las codicias, la maldad, el engaño, los deseos lujuriosos, el mal de ojo, la blasfemia, la soberbia y la necedad. ^23^ Todas estas cosas malas salen de dentro y contaminan al hombre”. 
-^a^[**7: 19** NU termina la cita directa y la pregunta de Jesús después de “letrina”, terminando el verso con “Así declaró limpios todos los alimentos”. ]
+^a^[**7:19** NU termina la cita directa y la pregunta de Jesús después de “letrina”, terminando el verso con “Así declaró limpios todos los alimentos”. ]
 
 ## Jesús y la sirofenicia en el área de Tiro y Sidón
 ^24^ De allí se levantó y se fue a los límites de Tiro y Sidón. Entró en una casa y no quiso que nadie lo supiera, pero no pudo pasar desapercibido. ^25^ Porque una mujer cuya hija pequeña tenía un espíritu impuro, al oír hablar de él, vino y se postró a sus pies. ^26^ La mujer era griega, de raza sirofenicia. Le rogó que expulsara el demonio de su hija. ^27^ Pero Jesús le dijo: “Deja que se sacien primero los niños, porque no conviene tomar el pan de los niños y echarlo a los perros.” 
@@ -279,7 +279,7 @@
 
 ## El rechazo de Jesús a la demanda de señales de los fariseos
 ^10^ En seguida entró en la barca con sus discípulos y llegó a la región de Dalmanutha. ^11^ Los fariseos salieron y empezaron a interrogarle, pidiéndole una señal del cielo y poniéndole a prueba. ^12^ El suspiró profundamente en su espíritu y dijo: “¿Por qué esta generación ^a^ busca una señal? Os aseguro que a esta generación no se le dará ninguna señal”. 
-^a^[**8: 12** La palabra traducida aquí como “generación” (genea) también podría traducirse como “pueblo”, “raza” o “familia”.]
+^a^[**8:12** La palabra traducida aquí como “generación” (genea) también podría traducirse como “pueblo”, “raza” o “familia”.]
 
 ^13^ Los dejó, y entrando de nuevo en la barca, se fue a la otra orilla. 
 
@@ -391,7 +391,7 @@
 
 ## Advertencia de engaño (a la incredulidad y al pecado); Dichos de sal
 ^42^ “El que haga tropezar a uno de estos pequeños que creen en mí, más le valdría ser arrojado al mar con una piedra de molino colgada al cuello. ^43^ Si tu mano te hace tropezar, córtala. Es mejor que entres en la vida mutilado, en lugar de que tus dos manos vayan a la Gehenna, ^a^ al fuego inextinguible, ^b^ ^44^ ‘donde su gusano no muere, y el fuego no se apaga.’ ^c^ ^d^ ^45^ Si tu pie te hace tropezar, córtalo. Es mejor que entres cojo en la vida, antes que tus dos pies sean arrojados a la Gehenna, ^e^ al fuego que nunca se apagará, ^46^ ‘donde su gusano no muere, y el fuego no se apaga.’^f^ ^47^ Si tu ojo te hace tropezar, arrójalo. Es mejor que entres en el Reino de Dios con un solo ojo, en lugar de tener dos ojos para ser arrojado a la Gehenna^g^ del fuego, ^48^ ‘donde su gusano no muere, y el fuego no se apaga.’ ^h^ ^49^ Porque todos serán salados con fuego, y todo sacrificio será sazonado con sal. ^i^ ^50^ La sal es buena, pero si la sal ha perdido su salinidad, ¿con qué la sazonaréis? Tened sal en vosotros mismos, y estad en paz unos con otros”. ^j^ 
-^a^[**9: 43** o, el infierno] ^b^[**9:43** Mat 5,30] ^c^[**9: 44** Isaías 66: 24] ^d^[**9: 44** NU omite el versículo 44.] ^e^[**9: 45** o, el infierno] ^f^[**9: 46** NU omite el verso 46.] ^g^[**9: 47** o el infierno] ^h^[**9: 48** Isaías 66: 24] ^i^[**9:49** Lev 2,13] ^j^[**9:50** Mat 5,13; Luc 14,34; Col 4,6]
+^a^[**9:43** o, el infierno] ^b^[**9:43** Mat 5,30] ^c^[**9:44** Isaías 66:24] ^d^[**9:44** NU omite el versículo 44.] ^e^[**9:45** o, el infierno] ^f^[**9:46** NU omite el verso 46.] ^g^[**9:47** o el infierno] ^h^[**9:48** Isaías 66:24] ^i^[**9:49** Lev 2,13] ^j^[**9:50** Mat 5,13; Luc 14,34; Col 4,6]
 
 # 10
 ## Jesús en Judea y Transjordania; Conversaciones sobre matrimonio y divorcio
@@ -405,7 +405,7 @@
 ^a^[**10:4** Deut 24,1; Mat 5,31-32]
 
 ^5^ Pero Jesús les dijo: “Por vuestra dureza de corazón, os escribió este mandamiento. ^6^ Pero desde el principio de la creación, Dios los hizo hombre y mujer. ^a^ ^7^ Por eso el hombre dejará a su padre y a su madre y se unirá a su mujer, ^b^ ^8^ y los dos se convertirán en una sola carne,^c^ de modo que ya no son dos, sino una sola carne. ^9^ Lo que Dios ha unido, que no lo separe el hombre”. 
-^a^[**10: 6** Génesis 1: 27] ^b^[**10:7** Gén 2,24] ^c^[**10: 8** Génesis 2: 24]
+^a^[**10:6** Génesis 1:27] ^b^[**10:7** Gén 2,24] ^c^[**10:8** Génesis 2:24]
 
 ^10^ En la casa, sus discípulos le volvieron a preguntar sobre el mismo asunto. ^11^ Él les dijo: “El que se divorcia de su mujer y se casa con otra, comete adulterio contra ella. ^12^ Si una mujer se divorcia de su marido y se casa con otro, comete adulterio”. 
 
@@ -417,7 +417,7 @@
 ^17^ Al salir al camino, uno corrió hacia él, se arrodilló ante él y le preguntó: “Maestro bueno, ¿qué debo hacer para heredar la vida eterna?” 
 
 ^18^ Jesús le dijo: “¿Por qué me llamas bueno? Nadie es bueno sino uno: Dios. ^19^ Tú conoces los mandamientos: ‘No matar’, ‘No cometer adulterio’, ‘No robar’, ‘No dar falso testimonio’, ‘No defraudar’, ‘Honrar a tu padre y a tu madre’”. ^a^ ^b^ 
-^a^[**10: 19** Éxodo 20: 12-16; Deuteronomio 5: 16-20 ] ^b^[**10:19** Éxod 20,12-17]
+^a^[**10:19** Éxodo 20:12-16; Deuteronomio 5:16-20 ] ^b^[**10:19** Éxod 20,12-17]
 
 ^20^ Le dijo: “Maestro, todo esto lo he observado desde mi juventud”. 
 
@@ -470,19 +470,19 @@
 ^50^ Él, arrojando su manto, se levantó y se acercó a Jesús. 
 
 ^51^ Jesús le preguntó: “¿Qué quieres que haga por ti?”. El ciego le dijo: “Rabboni,^a^ que vuelva a ver”. 
-^a^[**10: 51** Rabboni es una transliteración de la palabra hebrea “gran maestro”.]
+^a^[**10:51** Rabboni es una transliteración de la palabra hebrea “gran maestro”.]
 
 ^52^ Jesús le dijo: “Vete. Tu fe te ha curado”. Inmediatamente recibió la vista y siguió a Jesús por el camino. 
 
 # 11
 ## La entrada de Jesús a Jerusalén
 ^1^ Cuando se acercaron a Jerusalén, a Betfagé^a^ y Betania, en el Monte de los Olivos, envió a dos de sus discípulos ^b^ ^2^ y les dijo: “Id a la aldea que está enfrente de vosotros. En cuanto entréis en ella, encontraréis un pollino atado, en el que nadie se ha sentado. Desátenlo y tráiganlo. ^3^ Si alguien os pregunta: “¿Por qué hacéis esto?”, decidle: “El Señor lo necesita”, e inmediatamente lo enviará de vuelta aquí.” 
-^a^[**11: 1** TR y NU leen “Bethphage” en lugar de “Bethsphage”] ^b^[**11:1** Juan 2,13]
+^a^[**11:1** TR y NU leen “Bethphage” en lugar de “Bethsphage”] ^b^[**11:1** Juan 2,13]
 
 ^4^ Se fueron y encontraron un pollino atado a la puerta, en la calle, y lo desataron. ^5^ Algunos de los que estaban allí les preguntaron: “¿Qué hacéis desatando el pollino?”. ^6^ Ellos les dijeron lo mismo que Jesús, y los dejaron ir. 
 
 ^7^ Trajeron a Jesús el pollino y echaron sobre él sus vestidos, y Jesús se sentó en él. ^8^ Muchos extendían sus vestidos por el camino, y otros cortaban ramas de los árboles y las esparcían por el camino. ^9^ Los que iban delante y los que les seguían gritaban: “¡Hosanna!^a^ ¡Bendito el que viene en nombre del Señor! ^b^ ^10^ ¡Bendito el reino de nuestro padre David que viene en el nombre del Señor! Hosanna en las alturas”. 
-^a^[**11: 9** “Hosanna” significa “sálvanos” o “ayúdanos, te rogamos”.] ^b^[**11: 9** Salmo 118: 25-26]
+^a^[**11:9** “Hosanna” significa “sálvanos” o “ayúdanos, te rogamos”.] ^b^[**11:9** Salmo 118:25-26]
 
 ^11^ Jesús entró en el templo de Jerusalén. Después de haber observado todo, siendo ya de noche, salió a Betania con los doce. 
 
@@ -491,7 +491,7 @@
 
 ## La limpieza del templo
 ^15^ Llegaron a Jerusalén, y Jesús entró en el templo y comenzó a echar a los que vendían y a los que compraban en el templo, y derribó las mesas de los cambistas y los asientos de los que vendían palomas. ^a^ ^16^ No permitía que nadie llevara un recipiente por el templo. ^17^ Les enseñaba diciendo “¿No está escrito que mi casa será llamada casa de oración para todas las naciones?^b^ Pero vosotros la habéis convertido en una cueva de ladrones”. ^c^ 
-^a^[**11:15** Juan 2,14-16] ^b^[**11: 17** Isaías 56: 7] ^c^[**11: 17** Jeremías 7: 11]
+^a^[**11:15** Juan 2,14-16] ^b^[**11:17** Isaías 56:7] ^c^[**11:17** Jeremías 7:11]
 
 ^18^ Los jefes de los sacerdotes y los escribas lo oyeron, y buscaban cómo destruirlo. Porque le temían, pues toda la multitud se asombraba de su enseñanza. 
 
@@ -501,7 +501,7 @@
 ^20^ Al pasar por la mañana, vieron la higuera seca de raíz. ^21^ Pedro, acordándose, le dijo: “¡Rabí, mira! La higuera que maldijiste se ha secado”. 
 
 ^22^ Jesús les respondió: “Tened fe en Dios. ^23^ Porque de cierto os digo que cualquiera que diga a este monte: “Tómalo y arrójalo al mar”, y no dude en su corazón, sino que crea que lo que dice sucede, tendrá lo que dice. ^a^ ^24^ Por eso os digo que todo lo que pidáis y oréis, creed que lo habéis recibido, y lo tendréis. ^b^ ^25^ Siempre que estéis orando, perdonad, si tenéis algo contra alguien, para que vuestro Padre, que está en los cielos, os perdone también vuestras transgresiones. ^c^ ^26^ Pero si no perdonáis, tampoco vuestro Padre que está en los cielos os perdonará vuestras transgresiones.” ^d^ ^e^ 
-^a^[**11:23** Mar 9,23; Mat 17,20] ^b^[**11:24** Mat 7,7; Juan 14,13; 1Jn 5,14; 1Jn 1,5-15] ^c^[**11:25** Mat 5,23] ^d^[**11: 26** NU omite el versículo 26.] ^e^[**11:26** Mat 6,14-15]
+^a^[**11:23** Mar 9,23; Mat 17,20] ^b^[**11:24** Mat 7,7; Juan 14,13; 1Jn 5,14; 1Jn 1,5-15] ^c^[**11:25** Mat 5,23] ^d^[**11:26** NU omite el versículo 26.] ^e^[**11:26** Mat 6,14-15]
 
 ## La pregunta del sumo consejo sobre la autoridad de Jesús
 ^27^ Llegaron de nuevo a Jerusalén y, mientras caminaba por el templo, se le acercaron los jefes de los sacerdotes, los escribas y los ancianos, ^28^ y comenzaron a decirle: “¿Con qué autoridad haces estas cosas? ¿O quién te ha dado esta autoridad para hacer estas cosas?” 
@@ -514,7 +514,7 @@
 # 12
 ## Parábola de los viticultores infieles
 ^1^ Se puso a hablarles en parábolas. “Un hombre plantó una viña, la rodeó de un seto, cavó un pozo para el lagar, construyó una torre, la alquiló a un agricultor y se fue a otro país. ^2^ Cuando llegó el momento, envió a un siervo al agricultor para que le diera su parte del fruto de la viña. ^3^ Lo tomaron, lo golpearon y lo despidieron vacío. ^4^ Volvió a enviar a otro siervo, y le tiraron piedras, lo hirieron en la cabeza y lo despidieron maltratado. ^5^ Volvió a enviar a otro, y lo mataron a él y a otros muchos, golpeando a unos y matando a otros. ^6^ Por eso, teniendo todavía uno, su hijo amado, lo envió el último a ellos, diciendo: “Respetarán a mi hijo”. ^7^ Pero aquellos campesinos dijeron entre sí: ‘Este es el heredero. Vengan, matémoslo, y la herencia será nuestra’. ^8^ Lo tomaron, lo mataron y lo echaron de la viña. ^a^ ^9^ ¿Qué hará, pues, el señor de la viña? Vendrá y destruirá a los labradores, y dará la viña a otros. ^10^ ¿Acaso no has leído esta Escritura? La piedra que desecharon los constructores fue nombrado jefe de la esquina. ^11^ Esto era del Señor. Es maravilloso a nuestros ojos’”. ^b^ 
-^a^[**12:8** Heb 13,12] ^b^[**12: 11** Salmo 118: 22-23]
+^a^[**12:8** Heb 13,12] ^b^[**12:11** Salmo 118:22-23]
 
 ^12^ Intentaron apoderarse de él, pero temían a la multitud, pues se dieron cuenta de que decía la parábola contra ellos. Lo dejaron y se fueron. 
 
@@ -529,13 +529,13 @@
 ^18^ Algunos saduceos, que dicen que no hay resurrección, se acercaron a él. Le preguntaron, diciendo: ^19^ “Maestro, Moisés nos escribió: “Si el hermano de un hombre muere y deja esposa, y no deja hijos, que su hermano tome a su esposa y levante descendencia para su hermano”. ^20^ Había siete hermanos. El primero tomó una esposa, y al morir no dejó descendencia. ^21^ El segundo la tomó y murió sin dejar descendencia. El tercero hizo lo mismo; ^22^ y los siete la tomaron y no dejaron hijos. El último de todos murió también la mujer. ^23^ En la resurrección, cuando resuciten, ¿de quién será ella la esposa de ellos? Porque los siete la tuvieron como esposa”. 
 
 ^24^ Jesús les contestó: “¿No es porque estáis equivocados, al no conocer las Escrituras ni el poder de Dios? ^25^ Porque cuando resuciten de entre los muertos, ni se casan ni se dan en matrimonio, sino que son como ángeles en el cielo. ^26^ Pero sobre los muertos, que resucitan, ¿no habéis leído en el libro de Moisés sobre la Zarza, cómo Dios le habló diciendo: “Yo soy el Dios de Abraham, el Dios de Isaac y el Dios de Jacob”?^a^ ^27^ No es el Dios de los muertos, sino de los vivos. Por tanto, estáis muy equivocados”. 
-^a^[**12: 26** Éxodo 3: 6]
+^a^[**12:26** Éxodo 3:6]
 
 ## La pregunta de un escriba sobre el mandamiento más noble
 ^28^ Uno de los escribas se acercó y los oyó interrogar juntos, y sabiendo que les había respondido bien, le preguntó: “¿Cuál es el mayor de los mandamientos?” 
 
 ^29^ Jesús respondió: “El más grande es: ‘Escucha, Israel, el Señor nuestro Dios, el Señor es uno. ^30^ Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente y con todas tus fuerzas.^a^ Este es el primer mandamiento. ^31^ El segundo es así: ‘Amarás a tu prójimo como a ti mismo’.^b^ No hay otro mandamiento mayor que éstos”. 
-^a^[**12: 30** Deuteronomio 6: 4-5] ^b^[**12: 31** Levítico 19: 18]
+^a^[**12:30** Deuteronomio 6:4-5] ^b^[**12:31** Levítico 19:18]
 
 ^32^ El escriba le dijo: “En verdad, maestro, has dicho bien que él es uno, y no hay otro sino él; ^33^ y amarlo con todo el corazón, con todo el entendimiento, con toda el alma y con todas las fuerzas, y amar al prójimo como a sí mismo, es más importante que todos los holocaustos y sacrificios.” ^a^ 
 ^a^[**12:33** 1Sam 15,22; Os 6,6]
@@ -545,7 +545,7 @@
 
 ## La contrapregunta de Jesús sobre el Mesías como hijo de David
 ^35^ Jesús respondió, mientras enseñaba en el templo: “¿Cómo es que los escribas dicen que el Cristo es hijo de David? ^a^ ^36^ Porque el mismo David dijo en el Espíritu Santo ‘El Señor dijo a mi Señor, “Siéntate a mi derecha, hasta que haga de tus enemigos el escabel de tus pies”. ^b^ ^c^ 
-^a^[**12:35** Is 11,1; Rom 1,3] ^b^[**12: 36** Salmo 110: 1] ^c^[**12:36** 2Sam 23,2]
+^a^[**12:35** Is 11,1; Rom 1,3] ^b^[**12:36** Salmo 110:1] ^c^[**12:36** 2Sam 23,2]
 
 ^37^ Por lo tanto, el mismo David lo llama Señor, ¿cómo puede ser su hijo?” La gente común le escuchaba con gusto. 
 
@@ -555,7 +555,7 @@
 
 ## Jesús alaba las dos blancas de la viuda pobre
 ^41^ Jesús se sentó frente al tesoro y vio cómo la multitud echaba dinero en el tesoro. Muchos ricos echaban mucho. ^a^ ^42^ Vino una viuda pobre y echó dos moneditas de bronce, ^b^ que equivalen a una moneda de cuadrante. ^c^ ^43^ Llamó a sus discípulos y les dijo: “Os aseguro que esta viuda pobre ha echado más que todos los que echan en el tesoro, ^44^ porquetodos han echado de su abundancia, pero ella, de su pobreza, ha echado todo lo que tenía para vivir.”
-^a^[**12:41** 2Re 12,10] ^b^[**12: 42** literalmente, lepta (o ácaros de viuda). Los lepta son monedas de latón muy pequeñas que valen medio cuadrante cada una, que es una cuarta parte del asarion de cobre. Los lepta valen menos del 1% del salario diario de un trabajador agrícola.] ^c^[**12: 42** o, “¡Yo soy!”]
+^a^[**12:41** 2Re 12,10] ^b^[**12:42** literalmente, lepta (o ácaros de viuda). Los lepta son monedas de latón muy pequeñas que valen medio cuadrante cada una, que es una cuarta parte del asarion de cobre. Los lepta valen menos del 1% del salario diario de un trabajador agrícola.] ^c^[**12:42** o, “¡Yo soy!”]
 
 # 13
 ## Los primeros signos del fin de los tiempos
@@ -579,17 +579,17 @@
 
 ## El clímax de la tribulación en Judea
 ^14^ “Pero cuando veáis que la abominación de la desolación,^a^ de la que habló el profeta Daniel, está donde no debe estar” (que el lector entienda), “entonces los que estén en Judea huyan a las montañas, ^b^ ^15^ y el que esté en la azotea no baje ni entre para tomar algo de su casa. ^16^ Que el que esté en el campo no regrese para tomar su manto. ^17^ Pero ¡ay de las que están embarazadas y de las que amamantan en esos días! ^18^ Orad para que su huida no sea en el invierno. ^19^ Porque en esos días habrá opresión, como no la ha habido desde el principio de la creación que Dios creó hasta ahora, ni la habrá jamás. ^20^ Si el Señor no hubiera acortado los días, ninguna carne se habría salvado; pero por amor a los elegidos, a quienes escogió, acortó los días.
-^a^[**13: 14** Daniel 9: 17; 11: 31; 12: 11] ^b^[**13:14** Dan 9,27; Dan 11,31]
+^a^[**13:14** Daniel 9:17; 11:31; 12:11] ^b^[**13:14** Dan 9,27; Dan 11,31]
 
 ## Profecía sobre los falsos profetas
 ^21^ Entonces, si alguien les dice: “Miren, aquí está el Cristo” o “Miren, allí”, no lo crean. ^22^ Porque se levantarán falsos cristos y falsos profetas que harán señales y prodigios, para extraviar, si es posible, incluso a los elegidos. ^23^ Pero ustedes vigilen. “He aquí, os he dicho todas las cosas de antemano. 
 
 ## Los últimos augurios y la aparición del Hijo del Hombre en el último día
 ^24^ Pero en esos días, después de esa opresión, el sol se oscurecerá, la luna no dará su luz, ^25^ las estrellas caerán del cielo, y las potencias que están en los cielos serán sacudidas. ^a^ ^b^ ^26^ Entonces verán al Hijo del Hombre venir en las nubes con gran poder y gloria. ^27^ Entonces enviará a sus ángeles y reunirá a sus elegidos de los cuatro vientos, desde los confines de la tierra hasta los confines del cielo. 
-^a^[**13: 25** Isaías 13: 10; 34: 4] ^b^[**13:25** Heb 12,26]
+^a^[**13:25** Isaías 13:10; 34:4] ^b^[**13:25** Heb 12,26]
 
 ^28^ “Ahora, de la higuera, aprended esta parábola. Cuando la rama ya está tierna y produce sus hojas, sabéis que el verano está cerca; ^29^ así también vosotros, cuando veáis que suceden estas cosas, sabed que está cerca, a las puertas. ^30^ De cierto os digo que esta generación^a^ no pasará hasta que sucedan todas estas cosas. ^31^ El cielo y la tierra pasarán, pero mis palabras no pasarán. 
-^a^[**13: 30** La palabra traducida “generación” (genea) también podría traducirse como “raza”, “familia” o “pueblo”.]
+^a^[**13:30** La palabra traducida “generación” (genea) también podría traducirse como “raza”, “familia” o “pueblo”.]
 
 ^32^ “Pero de ese día o de esa hora nadie sabe, ni siquiera los ángeles del cielo, ni el Hijo, sino sólo el Padre. 
 
@@ -605,7 +605,7 @@
 
 ## Unción de Jesús en Betania
 ^3^ Estando en Betania, en casa de Simón el leproso, mientras estaba sentado a la mesa, llegó una mujer con un frasco de alabastro con ungüento de nardo puro, muy costoso. Rompió el frasco y lo derramó sobre su cabeza. ^a^ ^4^ Pero algunos se indignaron entre sí, diciendo: “¿Por qué se ha desperdiciado este ungüento? ^5^ Porque podría haberse vendido por más de trescientos denarios^b^ y haberse dado a los pobres”. Así que refunfuñaron contra ella. 
-^a^[**14:3** Juan 12,1-8] ^b^[**14: 5** 300 denarios era aproximadamente el salario de un año para un trabajador agrícola. ]
+^a^[**14:3** Juan 12,1-8] ^b^[**14:5** 300 denarios era aproximadamente el salario de un año para un trabajador agrícola. ]
 
 ^6^ Pero Jesús le dijo: “Déjala en paz. ¿Por qué la molestas? Ella ha hecho una buena obra para mí. ^7^ Porque tú siempre tienes a los pobres contigo, y cuando quieres les haces un bien; pero a mí no siempre me tienes. ^8^ Ella ha hecho lo que ha podido. Ha ungido mi cuerpo de antemano para el entierro. ^9^ Os aseguro que dondequiera que se predique esta Buena Noticia en todo el mundo, se hablará también de lo que ha hecho esta mujer para que quede constancia de ella.” 
 
@@ -637,7 +637,7 @@
 ^a^[**14:26** Sal 113,1-118]
 
 ^27^ Jesús les dijo: “Esta noche todos vosotros tropezaréis por mi culpa, porque está escrito: “Heriré al pastor y las ovejas se dispersarán”. ^a^ ^b^ ^28^ Sin embargo, cuando haya resucitado, iré delante de vosotros a Galilea”. ^c^ 
-^a^[**14: 27** Zacarías 13: 7] ^b^[**14:27** Juan 16,32] ^c^[**14:28** Mar 16,7]
+^a^[**14:27** Zacarías 13:7] ^b^[**14:27** Juan 16,32] ^c^[**14:28** Mar 16,7]
 
 ^29^ Pero Pedro le dijo: “Aunque todos se ofendan, yo no”. 
 
@@ -650,7 +650,7 @@
 ^a^[**14:33** Mat 17,1] ^b^[**14:34** Juan 12,27]
 
 ^35^ Se adelantó un poco, se postró en el suelo y oró para que, si era posible, la hora pasara de largo. ^36^ Dijo: “Abba, ^a^ Padre, todo es posible para ti. Por favor, aparta de mí esta copa. Pero no lo que yo deseo, sino lo que tú deseas”. ^b^ 
-^a^[**14: 36** Abba es una grafía griega de la palabra aramea que significa “Padre” o “Papá”, utilizada de forma familiar, respetuosa y cariñosa. ] ^b^[**14:36** Mar 10,38]
+^a^[**14:36** Abba es una grafía griega de la palabra aramea que significa “Padre” o “Papá”, utilizada de forma familiar, respetuosa y cariñosa. ] ^b^[**14:36** Mar 10,38]
 
 ^37^ Llegó y los encontró durmiendo, y dijo a Pedro: “Simón, ¿duermes? ¿No podías velar una hora? ^38^ Velad y orad, para que no entréis en tentación. El espíritu, en efecto, está dispuesto, pero la carne es débil”. 
 
@@ -713,17 +713,17 @@
 ^a^[**15:23** Sal 69,22]
 
 ^24^ Al crucificarlo, se repartieron sus vestidos, echando a suertes lo que debía tomar cada uno. ^a^ ^25^ Era la hora^b^ tercera cuando lo crucificaron. ^26^ Sobre él estaba escrita la superposición de su acusación: “EL REY DE LOS JUDÍOS”. ^27^ Con él crucificaron a dos ladrones, uno a su derecha y otro a su izquierda. ^28^ Se cumplió la Escritura que dice: “Fue contado con los transgresores”. ^c^ 
-^a^[**15:24** Sal 22,19] ^b^[**15: 25** 09: 00 h.] ^c^[**15: 28** NU omite el versículo 28.]
+^a^[**15:24** Sal 22,19] ^b^[**15:25** 09:00 h.] ^c^[**15:28** NU omite el versículo 28.]
 
 ^29^ Los que pasaban por allí le blasfemaban, moviendo la cabeza y diciendo: “¡Ja! Tú que destruyes el templo y lo construyes en tres días, ^a^ ^30^ sálvate a ti mismo y baja de la cruz”. 
 ^a^[**15:29** Mar 14,58]
 
 ^31^ Asimismo, también los jefes de los sacerdotes, burlándose entre ellos con los escribas, decían: “Ha salvado a otros. No puede salvarse a sí mismo. ^32^ Que baje ahora de la cruz el Cristo, el Rey de Israel, para que le veamos y le creamos.”^a^ Los que estaban crucificados con él también le insultaban. 
-^a^[**15: 32** TR omite “él”]
+^a^[**15:32** TR omite “él”]
 
 ## La muerte de Jesús; el signo milagroso de su muerte
 ^33^ Cuando llegó la hora^a^ sexta, hubo oscuridad sobre toda la tierra hasta la hora novena. ^b^ ^34^ A la hora novena, Jesús clamó a gran voz, diciendo: “Eloi, Eloi, lama sabachthani?”, que es, interpretado, “Dios mío, Dios mío, ¿por qué me has abandonado?” ^c^ ^d^ 
-^a^[**15: 33** o, mediodía] ^b^[**15: 33** 15: 00 h.] ^c^[**15: 34** Salmo 22: 1] ^d^[**15:34** Sal 22,2]
+^a^[**15:33** o, mediodía] ^b^[**15:33** 15:00 h.] ^c^[**15:34** Salmo 22:1] ^d^[**15:34** Sal 22,2]
 
 ^35^ Algunos de los que estaban allí, al oírlo, dijeron: “He aquí que llama a Elías”. 
 
@@ -744,11 +744,11 @@
 ^a^[**16:7** Mar 14,28]
 
 ^8^ Salieron ^a^ y huyeron del sepulcro, porque les había invadido el temor y el asombro. No dijeron nada a nadie, porque tenían miedo. ^b^ 
-^a^[**16: 8** TR añade “rápidamente”] ^b^[**16: 8** Un manuscrito aislado omite los versículos 9-20, pero añade este “breve final de Marcos” al final del versículo 8: Contaron brevemente todo lo que se les había ordenado a los que estaban alrededor de Pedro. Después, Jesús mismo los envió, de este a oeste, con el sagrado e imperecedero anuncio de la salvación eterna.]
+^a^[**16:8** TR añade “rápidamente”] ^b^[**16:8** Un manuscrito aislado omite los versículos 9-20, pero añade este “breve final de Marcos” al final del versículo 8: Contaron brevemente todo lo que se les había ordenado a los que estaban alrededor de Pedro. Después, Jesús mismo los envió, de este a oeste, con el sagrado e imperecedero anuncio de la salvación eterna.]
 
 ## Jesús se aparece a María Magdalena y a los dos discípulos de Emaús
 ^9^ ^a^ El primer día de la semana, cuando se levantó temprano, se apareció primero a María Magdalena, de quien había expulsado siete demonios. ^10^ Ella fue a contárselo a los que habían estado con él, mientras se lamentaban y lloraban. ^11^ Cuando oyeron que estaba vivo y que había sido visto por ella, no creyeron. 
-^a^[**16: 9** NU incluye el texto de los versículos 9-20, pero menciona en una nota a pie de página que algunos manuscritos lo omitieron. Los traductores de la World English Bible consideran que Marcos 16: 9-20 es fiable, basándose en una abrumadora mayoría de pruebas textuales, entre las que se incluyen no sólo el autorizado Nuevo Testamento del Texto Griego Mayoritario, sino también el TR y muchos de los manuscritos citados en el texto NU.]
+^a^[**16:9** NU incluye el texto de los versículos 9-20, pero menciona en una nota a pie de página que algunos manuscritos lo omitieron. Los traductores de la World English Bible consideran que Marcos 16:9-20 es fiable, basándose en una abrumadora mayoría de pruebas textuales, entre las que se incluyen no sólo el autorizado Nuevo Testamento del Texto Griego Mayoritario, sino también el TR y muchos de los manuscritos citados en el texto NU.]
 
 ^12^ Después de estas cosas, se les reveló en otra forma a dos de ellos mientras caminaban, de camino al campo. ^a^ ^13^ Se fueron y lo contaron a los demás. Ellos tampoco les creyeron.
 ^a^[**16:12** Luc 24,13-35]
@@ -758,4 +758,4 @@
 ^a^[**16:15** Mar 13,10; Mat 28,18-20] ^b^[**16:16** Hech 2,38; Hech 16,31; Hech 16,33] ^c^[**16:17** Hech 16,18; Hech 10,46; Hech 19,6] ^d^[**16:18** Luc 10,19; Hech 28,3-6; Sant 5,14; Sant 1,5-15]
 
 ## Ascensión de Jesús
-^19^ Entonces el Señor, ^[**16: 19** NU añade “Jesús”] después de hablarles, fue recibido en el cielo y se sentó a la derecha de Dios. ^20^ Ellos salieron y predicaron por todas partes, colaborando el Señor con ellos y confirmando la palabra con las señales que se producían. Amén. 
+^19^ Entonces el Señor, ^[**16:19** NU añade “Jesús”] después de hablarles, fue recibido en el cielo y se sentó a la derecha de Dios. ^20^ Ellos salieron y predicaron por todas partes, colaborando el Señor con ellos y confirmando la palabra con las señales que se producían. Amén. 

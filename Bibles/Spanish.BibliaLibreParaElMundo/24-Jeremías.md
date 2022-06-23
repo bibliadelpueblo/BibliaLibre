@@ -1,14 +1,14 @@
 # 1
 ## Llamando al profeta
 ^1^ Palabras de Jeremías, hijo de Hilcías, uno de los sacerdotes que estaban en Anatot, en la tierra de Benjamín. ^2^ La palabra de Yahvé^a^ le llegó en los días de Josías hijo de Amón, rey de Judá, en el año trece de su reinado. ^b^ ^3^ También le llegó en los días de Joacim hijo de Josías, rey de Judá, al final del undécimo año de Sedequías, hijo de Josías, rey de Judá, para llevar cautiva a Jerusalén en el quinto mes. ^c^ 
-^a^[**1: 2** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:2** 2Re 21,24] ^c^[**1:3** 2Re 23,34; 2Re 24,17; 2Re 25,2; 2Re 25,8]
+^a^[**1:2** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:2** 2Re 21,24] ^c^[**1:3** 2Re 23,34; 2Re 24,17; 2Re 25,2; 2Re 25,8]
 
 ## El llamado y la ordenación de Jeremías al oficio de profetas
 ^4^ La palabra de Yahvé vino a mí, diciendo, ^5^ “Antes de formarte en el vientre, te conocía. Antes de que nacieras, te he santificado. Te he nombrado profeta de las naciones”. ^a^ 
 ^a^[**1:5** Is 49,1; Gal 1,15]
 
 ^6^ Entonces dije: “¡Ah, Señor^a^ Yahvé! He aquí que^b^ no sé hablar, pues soy un niño”. ^c^ 
-^a^[**1: 6** La palabra traducida “Señor” es “Adonai”. ] ^b^[**1: 6** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^c^[**1:6** Éxod 3,11; Is 6,5-8]
+^a^[**1:6** La palabra traducida “Señor” es “Adonai”. ] ^b^[**1:6** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^c^[**1:6** Éxod 3,11; Is 6,5-8]
 
 ^7^ Pero Yahvé me dijo: “No digas: ‘Soy un niño’; porque debes ir a quien yo te envíe, y debes decir todo lo que yo te mande. ^8^ No temas por ellos, porque yo estoy contigo para rescatarte”, dice el Señor. 
 
@@ -41,7 +41,7 @@
 
 ## Las terribles consecuencias; Expiación
 ^14^ ¿Es Israel un esclavo? ¿Ha nacido en la esclavitud? ¿Por qué se ha convertido en un cautivo? ^15^ Los leones jóvenes han rugido contra él y han alzado la voz. Han convertido su tierra en un desierto. Sus ciudades están quemadas, sin habitantes. ^16^ También los hijos de Menfis y de Tahpanhes han roto la corona de tu cabeza. ^17^ “¿No te lo has buscado tú mismo? en que has abandonado a Yahvé tu Dios,^a^ cuando te guiaba por el camino? ^b^ ^18^ ¿Qué ganas con ir a Egipto a beber las aguas del Shihor? ¿O por qué vas de camino a Asiria, a beber las aguas del río? ^c^ ^19^ “Tu propia maldad te corregirá, y tu reincidencia te reprenderá. Sabed, pues, y ved que es una cosa mala y amarga, que has abandonado a Yahvé, tu Dios, y que mi temor no esté en ti”, dice el Señor, Yahvé de los Ejércitos.
-^a^[**2: 17** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**2:17** Os 13,9] ^c^[**2: 18** decir, el río Éufrates]
+^a^[**2:17** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**2:17** Os 13,9] ^c^[**2:18** decir, el río Éufrates]
 
 ## El servicio pernicioso de Baal y la tendencia desenfrenada por la idolatría
 ^20^ “Porque hace tiempo que rompí tu yugo, y reventar tus ataduras. Dijiste: “No voy a servir”. porque en cada colina alta y bajo cada árbol verde te inclinaste, interpretando a la prostituta. ^21^ Sin embargo, yo te había plantado una vid noble, una semilla pura y fiel. ¿Cómo es que os habéis convertido en las ramas degeneradas de una vid extraña para mí? ^a^ ^22^ Porque aunque te laves con lejíay usar mucho jabón, pero tu iniquidad está marcada ante mí”, dice el Señor Yahvé. ^23^ “¿Cómo puedes decir: ‘No estoy contaminado’? ¿No he ido a por los Baals? Ve tu camino en el valle. Saber lo que has hecho. Eres un dromedario veloz que recorre sus caminos, ^24^ un asno salvaje acostumbrado al desierto, que olfatea el viento en su ansia. Cuando está en celo, ¿quién puede rechazarla? Todos los que la busquen no se cansarán. En su mes, la encontrarán. ^25^ “Evita que tus pies estén desnudos, y la garganta de la sed. Pero tú dijiste: ‘Es en vano’. No, porque he amado a extraños, y yo iré tras ellos’.
@@ -200,7 +200,7 @@
 
 ## El templo será destruido tanto como lo fue antes el santuario en Silo si la gente continúa transgrediendo
 ^12^ “Pero ve ahora a mi lugar que estaba en Silo, donde hice habitar mi nombre al principio, y mira lo que le hice por la maldad de mi pueblo Israel. ^a^ ^13^ Ahora bien, como has hecho todas estas obras — dice el Señor — y te hablé, madrugando y hablando, pero no oíste; y te llamé, pero no respondiste; ^b^ ^14^ por lo tanto, haré con la casa que lleva mi nombre, en la que confías, y con el lugar que te di a ti y a tus padres, lo mismo que hice con Silo. ^c^ ^15^ Te echaré de mi vista, como he echado a todos tus hermanos, a toda la descendencia^d^ de Efraín. ^e^ 
-^a^[**7:12** Juan 18,1; 1Sam 4,12; Sal 78,60] ^b^[**7:13** Prov 1,24; Is 65,12] ^c^[**7:14** Jer 26,6] ^d^[**7: 15** o, semilla] ^e^[**7:15** 2Re 17,18; 2Re 17,20; 2Re 17,23]
+^a^[**7:12** Juan 18,1; 1Sam 4,12; Sal 78,60] ^b^[**7:13** Prov 1,24; Is 65,12] ^c^[**7:14** Jer 26,6] ^d^[**7:15** o, semilla] ^e^[**7:15** 2Re 17,18; 2Re 17,20; 2Re 17,23]
 
 ## Rechazo de la intercesión del Profeta; el culto idólatra de la reina pagana del cielo
 ^16^ “Por lo tanto, no oren por este pueblo. No eleven un clamor o una oración por ellos ni me intercedan, porque no los escucharé. ^a^ ^17^ ¿No ves lo que hacen en las ciudades de Judá y en las calles de Jerusalén? ^18^ Los niños recogen leña, los padres encienden el fuego y las mujeres amasan la masa para hacer tortas a la reina del cielo y derramar libaciones a otros dioses, para provocarme a la ira. ^b^ ^19^ ¿Acaso me provocan a la ira?”, dice el Señor. “¿No se provocan a sí mismos, para confusión de sus propios rostros?” 
@@ -501,7 +501,7 @@
 
 # 20
 ^1^ Pashur, hijo del sacerdote Immer, que era el jefe de la casa de Yavé, oyó a Jeremías profetizar estas cosas. ^2^ Entonces Pasjur golpeó al profeta Jeremías y lo puso en el cepo que estaba en la puerta superior de Benjamín, que estaba en la casa de Yavé. ^3^ Al día siguiente, Pasjur liberó a Jeremías del cepo. Entonces Jeremías le dijo: “Yahvé no ha llamado tu nombre Pashur, sino Magormissabib. ^a^ ^4^ Porque Yahvé dice: ‘He aquí que te convertiré en un terror para ti y para todos tus amigos. Caerán por la espada de sus enemigos, y tus ojos lo verán. Entregaré a todo Judá en manos del rey de Babilonia, y él los llevará cautivos a Babilonia, y los matará a espada. ^5^ Además, entregaré todas las riquezas de esta ciudad, todas sus ganancias y todos sus objetos preciosos, sí, entregaré todos los tesoros de los reyes de Judá en manos de sus enemigos. Los harán cautivos, los tomarán y los llevarán a Babilonia. ^b^ ^6^ Tú, Pashur, y todos los que habitan en tu casa irán al cautiverio. Llegarás a Babilonia, y allí morirás, y allí serás enterrado, tú y todos tus amigos, a quienes has profetizado falsamente”.
-^a^[**20: 3** “Magormissabib” significa “rodeado de terror”] ^b^[**20:5** Is 39,6]
+^a^[**20:3** “Magormissabib” significa “rodeado de terror”] ^b^[**20:5** Is 39,6]
 
 ## El amargo lamento del profeta por los sufrimientos de su profesión; sus luchas internas y su consuelo
 ^7^ Yahvé, tú me has persuadido, y yo he sido persuadido. Eres más fuerte que yo y has vencido. Me he convertido en un hazmerreír todo el día. Todo el mundo se burla de mí. ^8^ Porque todas las veces que hablo, grito; Grito: “¡Violencia y destrucción!”porque la palabra de Yahvé se ha convertido en un reproche para mí, y una burla, todo el día. ^a^ ^9^ Si digo que no voy a hacer mención de él, ni hablar más en su nombre, entonces hay en mi corazón como un fuego ardiente encerrado en mis huesos. Estoy cansado de aguantar. No puedo. ^10^ Porque he oído la difamación de muchos: “¡Terror por todos lados! Denuncia, y lo denunciaremos”. dicen todos mis amigos conocidos, los que velan por mi caída. “Tal vez se le convenza, y prevaleceremos contra él, y nos vengaremos de él”. 
@@ -800,7 +800,7 @@
 ^8^ “Entonces Hanamel, el hijo de mi tío, vino a mí en el patio de la guardia, según la palabra de Yavé, y me dijo: ‘Por favor, compra mi campo que está en Anatot, que está en la tierra de Benjamín; porque el derecho de herencia es tuyo, y la redención es tuya. Cómpralo para ti’. “Entonces supe que ésta era la palabra de Yahvé. 
 
 ^9^ Compré el campo que estaba en Anatot a Hanamel, hijo de mi tío, y le pesé el dinero, diecisiete siclos^a^ de plata. ^10^ Firmé la escritura, la sellé, llamé a los testigos y le pesé el dinero en la balanza. ^11^ Entonces tomé la escritura de la compra, tanto la que estaba sellada, que contenía los términos y condiciones, como la que estaba abierta; ^12^ y entregué la escritura de la compra a Baruc hijo de Nerías, hijo de Maseías, en presencia de Hanamel, hijo de mi tío, y en presencia de los testigos que firmaron la escritura de la compra, ante todos los judíos que estaban sentados en el patio de la guardia. 
-^a^[**32: 9** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
+^a^[**32:9** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
 
 ^13^ “Ordené a Baruc delante de ellos, diciendo: ^14^ Yahvé de los Ejércitos, el Dios de Israel, dice: ‘Toma estas escrituras, esta escritura de compra que está sellada, y esta escritura que está abierta, y ponlas en una vasija de barro, para que duren muchos días’. ^15^ Porque el Señor de los Ejércitos, el Dios de Israel, dice: ‘Todavía se comprarán casas, campos y viñedos en esta tierra.’ 
 
@@ -1137,7 +1137,7 @@
 # 48
 ## La devastación de la tierra y la huida general
 ^1^ De Moab. Yahvé de los Ejércitos, el Dios de Israel, dice: “¡Ay de Nebo! Porque se ha desechado. Kiriathaim está decepcionado. Se toma. Misgab^a^ se pone en evidenciay se descomponen. ^2^ La alabanza de Moab ya no existe. En Hesbón han ideado el mal contra ella: “¡Vamos! Dejemos de ser una nación’. Ustedes también, locos, serán llevados al silencio. La espada te perseguirá. ^3^ El sonido de un grito de Horonaim, ¡desolación y gran destrucción! ^4^ Moab es destruido. Sus pequeños han hecho que se escuche un grito. ^5^ Porque subirán por la cuesta de Luhit con llanto continuo. Porque en el descenso de Horonaim han oído la angustia del grito de destrucción. ^6^ ¡Huyan! ¡Salven sus vidas! Sé como el arbusto de enebro en el desierto. 
-^a^[**48: 1** o, La fortaleza]
+^a^[**48:1** o, La fortaleza]
 
 ## La culpa y el castigo de Moab
 ^7^ Pues, porque has confiado en tus obras y en tus tesoros, también será llevado. Chemosh saldrá en cautiverio, sus sacerdotes y sus príncipes juntos. ^a^ ^8^ El destructor vendrá sobre cada ciudad, y ninguna ciudad escapará; el valle también perecerá, y la llanura será destruida, como ha dicho Yahvé. ^9^ Dale alas a Moab, para que pueda volar y alejarse: y sus ciudades se convertirán en una desolación, sin que nadie habite en ellas. ^10^ “Maldito el que hace la obra de Yahvé con negligencia; y maldito el que aleja su espada de la sangre.
@@ -1271,7 +1271,7 @@
 ^17^ Los caldeos rompieron en pedazos las columnas de bronce que había en la casa de Yavé y las bases y el mar de bronce que había en la casa de Yavé, y se llevaron todo su bronce a Babilonia. ^18^ También se llevaron las ollas, las palas, los apagadores, las palanganas, las cucharas y todos los recipientes de bronce con los que servían. ^19^ El capitán de la guardia se llevó las copas, los braseros, las palanganas, las ollas, los candiles, las cucharas y los cuencos; lo que era de oro, como oro, y lo que era de plata, como plata. 
 
 ^20^ Tomaron las dos columnas, el mar único y los doce toros de bronce que estaban debajo de las bases, que el rey Salomón había hecho para la casa de Yahvé. El bronce de todos estos recipientes no tenía peso. ^a^ ^21^ En cuanto a las columnas, la altura de la única columna era de dieciocho codos;^b^ y una línea de doce codos la rodeaba, y su grosor era de cuatro dedos. Era hueca. ^22^ Sobre ella había un capitel de bronce de cinco codos de altura,^c^ con red y granadas en el capitel alrededor, todo de bronce. La segunda columna también tenía lo mismo, con granadas. ^23^ Había noventa y seis granadas a los lados; todas las granadas eran cien en la red alrededor. 
-^a^[**52:20** 1Re 7,15-47] ^b^[**52: 21** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.] ^c^[**52: 22** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**52:20** 1Re 7,15-47] ^b^[**52:21** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.] ^c^[**52:22** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^24^ El capitán de la guardia tomó a Seraías, el sumo sacerdote, y a Sofonías, el segundo sacerdote, y a los tres guardianes del umbral, ^25^ y de la ciudad tomó a un oficial que estaba al frente de los hombres de guerra, y a siete hombres de los que vieron la cara del rey, que se encontraban en la ciudad, y al escriba del capitán del ejército, que reunía al pueblo del país, y a sesenta hombres del pueblo del país, que se encontraban en medio de la ciudad. ^26^ Nabuzaradán, capitán de la guardia, los tomó y los llevó al rey de Babilonia, a Ribla. ^27^ El rey de Babilonia los golpeó y los mató en Ribla, en la tierra de Hamat. Y Judá fue llevado cautivo de su tierra. 
 

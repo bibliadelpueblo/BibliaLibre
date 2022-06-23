@@ -3,11 +3,11 @@
 ^1^ Las palabras del Predicador, hijo de David, rey en Jerusalén: 
 
 ^2^ “Vanidad de vanidades”, dice el Predicador; “Vanidad de vanidades, todo es vanidad”. ^3^ ¿Qué gana el hombre con todo el trabajo que realiza bajo el sol? ^4^ Una generación va, y otra viene; pero la tierra permanece para siempre. ^a^ ^5^ También el sol sale, y el sol se pone, y se apresura a su lugar de origen. ^6^ El viento va hacia el sur y se vuelve hacia el norte. Se gira continuamente mientras va, y el viento vuelve de nuevo a sus cauces. ^7^ Todos los ríos desembocan en el mar, pero el mar no está lleno. Al lugar donde fluyen los ríos, allí vuelven a fluir. ^8^ Todas las cosas están llenas de cansancio que no se puede expresar. El ojo no se sacia de ver, ni el oído se llena de oír. ^9^ Lo que ha sido es lo que será, y lo que se ha hecho es lo que se hará; y no hay nada nuevo bajo el sol. ^10^ ¿Hay algo de lo que se pueda decir: “He aquí,^b^ esto es nuevo”? Hace mucho tiempo, en los tiempos que nos precedieron. ^11^ No hay memoria de lo primero, ni habrá memoria de lo segundo que ha de venir, entre los que vendrán después.
-^a^[**1:4** Sal 90,3] ^b^[**1: 10** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
+^a^[**1:4** Sal 90,3] ^b^[**1:10** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
 
 ## La inutilidad de luchar por la sabiduría y el conocimiento; La vida humana resulta inútil para el espectador
 ^12^ Yo, el Predicador, era rey sobre Israel en Jerusalén. ^a^ ^13^ Aplicaba mi corazón a buscar y escudriñar con sabiduría todo lo que se hace bajo el cielo. Es una pesada carga que Dios^b^ ha dado a los hijos de los hombres para que se aflijan con ella. ^14^ He visto todas las obras que se hacen bajo el sol; y he aquí que todo es vanidad y una persecución del viento. ^15^ Lo que está torcido no se puede enderezar, y lo que falta no se puede contar.
-^a^[**1:12** Ecl 1,1] ^b^[**1: 13** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
+^a^[**1:12** Ecl 1,1] ^b^[**1:13** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
 
 ## La búsqueda de un conocimiento claro conduce a la decepción
 ^16^ Me dije a mí mismo: “He aquí que he obtenido para mí una gran sabiduría por encima de todos los que fueron antes de mí en Jerusalén. Sí, mi corazón ha tenido gran experiencia de sabiduría y conocimiento”. ^17^ Aplicaba mi corazón a conocer la sabiduría y a conocer la locura y la insensatez. Percibí que esto también era una persecución del viento. ^18^ Porque en la mucha sabiduría hay mucho dolor; y el que aumenta el conocimiento, aumenta el dolor.
@@ -154,7 +154,7 @@
 ^a^[**9:2** Ecl 2,14; Job 9,22] ^b^[**9:3** Ecl 8,11]
 
 ^7^ Sigue tu camino: come tu pan con alegría y bebe tu vino con un corazón alegre, porque Dios ya ha aceptado tus obras. ^a^ ^8^ Que tus vestidos sean siempre blancos, y que a tu cabeza no le falte aceite. ^9^ Vive alegremente con la esposa que amas todos los días de tu vida de vanidad, que te ha dado bajo el sol, todos tus días de vanidad, pues esa es tu parte en la vida y en tu trabajo en el que te esfuerzas bajo el sol. ^10^ Todo lo que tu mano encuentre para hacer, hazlo con tu fuerza; porque no hay obra, ni plan, ni conocimiento, ni sabiduría, en el Seol,^b^ adonde vas.
-^a^[**9:7** Ecl 5,17] ^b^[**9: 10** El Seol es el lugar de los muertos.]
+^a^[**9:7** Ecl 5,17] ^b^[**9:10** El Seol es el lugar de los muertos.]
 
 ## La dependencia del hombre del destino
 ^11^ Volví y vi bajo el sol que la carrera no es para el veloz, ni la batalla para el fuerte, ni el pan para el sabio, ni las riquezas para los hombres de entendimiento, ni el favor para los hombres de habilidad; sino que a todos ellos les sucede el tiempo y la casualidad. ^a^ ^12^ Porque tampoco el hombre conoce su tiempo. Como los peces que son tomados en una red mala, y como las aves que son atrapadas en el lazo, así los hijos de los hombres son atrapados en un tiempo malo, cuando cae de repente sobre ellos.

@@ -21,7 +21,7 @@
 ^11^ ¿Dónde está la guarida de los leones y el comedero de los cachorros, donde el león y la leona se paseaban con los cachorros del león y nadie les daba miedo? ^a^ ^12^ El león despedazó lo suficiente para sus cachorros, y estranguló presas para sus leonas, y llenó sus cuevas con la matanza y sus guaridas con presas. 
 ^a^[**2:11** Is 13,7-8]
 
-^13^ “He aquí queestoy contra ti”, dice el Señor de los Ejércitos, “y quemaré sus carros en el humo, y la espada devorará a tus cachorros de león; y cortaré tus presas de la tierra, y ya no se oirá la voz de tus mensajeros.”
+^13^ “He aquí que estoy contra ti”, dice el Señor de los Ejércitos, “y quemaré sus carros en el humo, y la espada devorará a tus cachorros de león; y cortaré tus presas de la tierra, y ya no se oirá la voz de tus mensajeros.”
 
 # 3
 ## Los pecados y el castigo de la cosmopolita ciudad de Nínive: un grito de aflicción y un cántico de burla

@@ -421,7 +421,7 @@
 ^20^ Saúl dijo a Samuel: “Pero yo he obedecido la voz de Yavé y he seguido el camino que Yavé me envió, y he traído a Agag, rey de Amalec, y he destruido por completo a los amalecitas. ^21^ Pero el pueblo tomó del botín, ovejas y ganado, lo mejor de lo consagrado, para sacrificar a Yavé tu Dios en Gilgal.” 
 
 ^22^ Samuel dijo: “¿Se complace tanto Yahvé en los holocaustos y sacrificios como en obedecer la voz de Yahvé? He aquí que obedecer es mejor que los sacrificios, y escuchar que la grasa de los carneros. ^a^ ^23^ Porque la rebeldía es como el pecado de brujería, y la obstinación es como la idolatría y los terafines.^b^ Porque has rechazado la palabra de Yahvé, él también te ha rechazado para ser rey”. ^c^ 
-^a^[**15:22** Os 6,6; Is 1,11; Mat 9,13; Mat 12,7] ^b^[**15: 23** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.] ^c^[**15:23** 1Sam 16,1]
+^a^[**15:22** Os 6,6; Is 1,11; Mat 9,13; Mat 12,7] ^b^[**15:23** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.] ^c^[**15:23** 1Sam 16,1]
 
 ^24^ Saúl dijo a Samuel: “He pecado, pues he transgredido el mandamiento de Yavé y tus palabras, porque temí al pueblo y obedecí su voz. ^25^ Ahora, pues, te ruego que perdones mi pecado y vuelvas conmigo para que pueda adorar a Yavé”. 
 
@@ -481,7 +481,7 @@
 # 17
 ## David y el campeón enemigo Goliat
 ^1^ Los filisteos reunieron sus ejércitos para combatir, y se reunieron en Soco, que pertenece a Judá, y acamparon entre Soco y Azeca, en Efesdammim. ^2^ Saúl y los hombres de Israel se reunieron y acamparon en el valle de Ela, y prepararon la batalla contra los filisteos. ^3^ Los filisteos estaban en la montaña de un lado, e Israel estaba en la montaña del otro lado; y había un valle entre ellos. ^4^ Del campamento de los filisteos salió un campeón llamado Goliat de Gat, cuya altura era de seis codos y un palmo.^a^ ^5^ Tenía un casco de bronce en la cabeza y llevaba una cota de malla, cuyo peso era de cinco mil siclos^b^ de bronce. ^6^ Tenía espinilleras de bronce en las piernas y una jabalina de bronce entre los hombros. ^7^ El asta de su lanza era como una viga de tejedor, y la punta de su lanza pesaba seiscientos siclos de hierro.^c^ Su escudero iba delante de él. ^8^ Se puso de pie y gritó a los ejércitos de Israel, y les dijo: “¿Por qué habéis salido a preparar vuestra batalla? ¿Acaso no soy yo un filisteo, y vosotros siervos de Saúl? Escoged a un hombre para vosotros, y que baje hacia mí. ^9^ Si es capaz de luchar conmigo y de matarme, entonces seremos tus siervos; pero si yo venzo contra él y lo mato, entonces seréis nuestros siervos y nos serviréis.” ^10^ El filisteo dijo: “¡Desafío hoy a los ejércitos de Israel! Dame un hombre, para que luchemos juntos”. ^d^ 
-^a^[**17: 4** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros. Un palmo es la longitud desde la punta del pulgar de un hombre hasta la punta de su dedo meñique cuando su mano está extendida (aproximadamente medio codo, o 9 pulgadas, o 22, 8 cm.) Por lo tanto, Goliat medía aproximadamente 9 pies y 9 pulgadas o 2, 97 metros de altura.] ^b^[**17: 5** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 5000 siclos equivalen a unos 50 kilogramos o 110 libras.] ^c^[**17: 7** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 600 siclos son unos 6 kilogramos o unas 13 libras.] ^d^[**17:10** 2Re 19,4; 2Re 19,16]
+^a^[**17:4** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros. Un palmo es la longitud desde la punta del pulgar de un hombre hasta la punta de su dedo meñique cuando su mano está extendida (aproximadamente medio codo, o 9 pulgadas, o 22, 8 cm.) Por lo tanto, Goliat medía aproximadamente 9 pies y 9 pulgadas o 2, 97 metros de altura.] ^b^[**17:5** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 5000 siclos equivalen a unos 50 kilogramos o 110 libras.] ^c^[**17:7** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 600 siclos son unos 6 kilogramos o unas 13 libras.] ^d^[**17:10** 2Re 19,4; 2Re 19,16]
 
 ^11^ Cuando Saúl y todo Israel oyeron estas palabras del filisteo, se espantaron y tuvieron mucho miedo. 
 
@@ -492,7 +492,7 @@
 ^16^ El filisteo se acercó por la mañana y por la tarde, y se presentó durante cuarenta días. 
 
 ^17^ Jesé dijo a su hijo David: “Toma ahora para tus hermanos un efa^a^ de este grano tostado y estos diez panes, y llévalos rápidamente al campamento para tus hermanos; ^18^ y lleva estos diez quesos al capitán de sus mil; y mira cómo están tus hermanos, y trae noticias.” ^19^ Saúl, ellos y todos los hombres de Israel estaban en el valle de Elah, luchando contra los filisteos. 
-^a^[**17: 17** 1 efa equivale a unos 22 litros o a 2/3 de una fanega]
+^a^[**17:17** 1 efa equivale a unos 22 litros o a 2/3 de una fanega]
 
 ^20^ David se levantó de madrugada, dejó las ovejas con un cuidador, tomó las provisiones y se fue, como le había ordenado Isaí. Llegó al lugar de los carros cuando el ejército que salía a la lucha gritaba para la batalla. ^21^ Israel y los filisteos se prepararon para la batalla, ejército contra ejército. ^22^ David dejó su equipaje en manos del guardián del equipaje y corrió hacia el ejército, y llegó a saludar a sus hermanos. ^23^ Mientras hablaba con ellos, he aquí que el campeón, el filisteo de Gat, de nombre Goliat, salió de las filas de los filisteos y dijo las mismas palabras; y David las oyó. ^24^ Todos los hombres de Israel, al ver al hombre, huyeron de él y se aterrorizaron. ^25^ Los hombres de Israel dijeron: “¿Habéis visto a este hombre que ha subido? Seguramente ha subido para desafiar a Israel. El rey dará grandes riquezas al hombre que lo mate, y le dará su hija, y hará que la casa de su padre quede libre de impuestos en Israel.” 
 
@@ -593,7 +593,7 @@
 
 ## El escape de David a su hogar y su salvación a través de la astucia de Michal
 ^11^ Saúl envió mensajeros a la casa de David para vigilarlo y matarlo por la mañana. Mical, la esposa de David, le dijo: “Si no salvas tu vida esta noche, mañana te matarán”. ^12^ Entonces Mical hizo bajar a David por la ventana. Él se alejó, huyó y escapó. ^13^ Mical tomó el terafín^a^ y lo puso en la cama, y le puso una almohada de pelo de cabra en la cabeza y lo cubrió con ropa. ^14^ Cuando Saúl envió mensajeros para llevarse a David, ella dijo: “Está enfermo”. 
-^a^[**19: 13** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
+^a^[**19:13** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
 
 ^15^ Saúl envió a los mensajeros a ver a David, diciendo: “Tráiganlo a la cama, para que lo mate”. ^16^ Cuando los mensajeros entraron, he aquí que el terafín estaba en la cama, con la almohada de pelo de cabra a la cabeza. 
 
@@ -743,7 +743,7 @@
 ^21^ Saúl dijo: “Bendito seas por Yahvé, pues te has compadecido de mí. ^22^ Te ruego que vayas a asegurarte aún más, y que conozcas y veas dónde está su guarida, y quién lo ha visto allí; porque me han dicho que es muy astuto. ^23^ Ve, pues, y conoce todos los lugares donde se esconde; y vuelve a mí con seguridad, y yo iré contigo. Si él está en la tierra, yo lo buscaré entre todos los millares de Judá”. 
 
 ^24^ Se levantaron y se dirigieron a Zif delante de Saúl, pero David y sus hombres estaban en el desierto de Maón, en el Arabá, al sur del desierto. ^25^ Saúl y sus hombres fueron a buscarlo. Cuando le avisaron a David, bajó a la roca y se quedó en el desierto de Maón. Cuando Saúl se enteró, persiguió a David en el desierto de Maón. ^26^ Saúl iba por este lado de la montaña, y David y sus hombres por aquel lado; y David se apresuraba a huir por miedo a Saúl, pues éste y sus hombres rodeaban a David y a los suyos para apresarlos. ^27^ Pero llegó un mensajero a Saúl, diciendo: “¡Apúrate y ven, porque los filisteos han hecho una incursión en la tierra!” ^28^ Así que Saúl regresó de perseguir a David y fue contra los filisteos. Por eso llamaron a ese lugar Sela Hammahlekoth. ^a^ ^29^ David subió de allí y vivió en las fortalezas de En Gedi.
-^a^[**23: 28** “Sela Hammahlekoth” significa “roca de separación”.]
+^a^[**23:28** “Sela Hammahlekoth” significa “roca de separación”.]
 
 # 24
 ## La generosidad de David hacia Saúl en la cueva cerca de Engedi
@@ -778,10 +778,10 @@
 
 ## Abigail usa métodos inteligentes para evitar que David tome su venganza
 ^18^ Entonces Abigail se apresuró a tomar doscientos panes, dos cántaros de vino, cinco ovejas preparadas, cinco seahs^a^ de grano tostado, cien racimos de pasas y doscientos pasteles de higos, y los puso sobre los asnos. ^19^ Dijo a sus jóvenes: “Id delante de mí. Mirad, voy detrás de vosotros”. Pero no se lo dijo a su marido, Nabal. ^20^ Mientras montaba en su asno y bajaba escondida por el monte, he aquí que David y sus hombres bajaban hacia ella, y ella les salió al encuentro. 
-^a^[**25: 18** 1 marino equivale a unos 7 litros o 1, 9 galones o 0, 8 picotazos]
+^a^[**25:18** 1 marino equivale a unos 7 litros o 1, 9 galones o 0, 8 picotazos]
 
 ^21^ Ahora bien, David había dicho: “Ciertamente en vano he guardado todo lo que este hombre tiene en el desierto, para que no le falte nada de todo lo que le pertenece. Me ha devuelto mal por bien. ^22^ Que Dios haga lo mismo con los enemigos de David, y más aún, si dejo de todo lo que le pertenece a la luz de la mañana tanto como a uno que orina en una pared”. ^a^ ^b^ 
-^a^[**25: 22** “Jedidiah” significa “amado por Yahvé”.] ^b^[**25:22** 1Re 14,10]
+^a^[**25:22** “Jedidiah” significa “amado por Yahvé”.] ^b^[**25:22** 1Re 14,10]
 
 ^23^ Cuando Abigail vio a David, se apresuró a bajar de su asno, y se postró ante David de bruces y se postró en el suelo. ^24^ Se postró a sus pies y le dijo: “¡A mí, señor mío, a mí me corresponde la culpa! Por favor, deja que tu siervo hable en tus oídos. Escucha las palabras de tu siervo. ^25^ Por favor, no permitas que mi señor preste atención a este inútil de Nabal, pues como su nombre es, así es él. Nabal es su nombre, y la insensatez está con él; pero yo, tu siervo, no vi a los jóvenes de mi señor que tú enviaste. ^26^ Ahora, pues, señor mío, vive Yahvé y vive tu alma, ya que Yahvé te ha impedido culparte de la sangre y vengarte con tu propia mano, ahora, pues, que tus enemigos y los que buscan el mal para mi señor sean como Nabal. ^27^ Ahora bien, este presente que tu siervo ha traído a mi señor, dáselo a los jóvenes que siguen a mi señor. ^28^ Por favor, perdona la falta de tu siervo. Porque ciertamente Yahvé hará de mi señor una casa segura, porque mi señor pelea las batallas de Yahvé. El mal no se encontrará en ti en todos tus días. ^29^ Aunque los hombres se levanten para perseguirte y buscar tu alma, el alma de mi señor estará atada en el fardo de la vida con Yavé, tu Dios. Él sacará las almas de tus enemigos como del bolsillo de una honda. ^30^ Sucederá que cuando Yahvé haya hecho a mi señor conforme a todo el bien que ha hablado de ti, y te haya nombrado príncipe de Israel, ^31^ esto no te supondrá ninguna pena, ni ofensa de corazón para mi señor, ni que hayas derramado sangre sin causa, ni que mi señor se haya vengado. Cuando Yahvé haya tratado bien a mi señor, entonces acuérdate de tu siervo”. 
 

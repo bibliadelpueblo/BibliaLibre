@@ -373,7 +373,7 @@ El rey dijo: “Te lo permito”.
 ^30^ Cuando el rey vio que lo habían atrapado, al verse constreñido, les entregó a Daniel. ^31^ Lo echaron al foso de los leones, donde estuvo seis días. ^32^ Había siete leones en el foso, y cada día les daban dos cadáveres y dos ovejas, que luego no les daban, con la intención de que devoraran a Daniel.
 
 ^33^ Había en la judería el profeta Habacuc,^a^ que había hecho un guiso y había partido el pan en un cuenco. Iba al campo para llevarlo a los segadores. ^34^ Pero el ángel del Señor le dijo a Habacuc: “Ve a llevar la cena que tienes a Babilonia, a Daniel, al foso de los leones”.
-^a^[**14: 33** Gr. Ambakoum. ]
+^a^[**14:33** Gr. Ambakoum. ]
 
 ^35^ Habacuc dijo: “Señor, nunca vi Babilonia. No sé dónde está la guarida”.
 

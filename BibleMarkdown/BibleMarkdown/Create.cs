@@ -113,9 +113,9 @@ namespace BibleMarkdown
 			var src = File.ReadAllText(mdfile);
 			string? book = Regex.Match(Path.GetFileNameWithoutExtension(mdfile), "^[0-9]*-?(?<name>.*?)$", RegexOptions.Singleline)?.Groups["name"]?.Value;
 
-			src = Regex.Replace(src, @"(?<=^|\n#\s(?<chapter>[0-9]+).*?)\^(?<verse>[0-9]+)\^", m =>
+			src = Regex.Replace(src, @"(?<=(^|\n)#\s(?<chapter>[0-9]+).*?)\^(?<verse>[0-9]+)\^", m =>
 			{
-				return @$"[**{m.Groups["verse"].Value}**]{{#{m.Groups["chapter"].Value}-{m.Groups["verse"].Value}}}";
+				return @$"**[{m.Groups["verse"].Value}]{{#verse-{m.Groups["chapter"].Value}-{m.Groups["verse"].Value}}}**";
 			}, RegexOptions.Singleline);
 
 			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
@@ -145,8 +145,18 @@ namespace BibleMarkdown
 			src = Regex.Replace(src, @$"(?<book>{pattern})\s+(?<chapter>[0-9]+)([:,](?<verse>[0-9]+)(-(?<upto>[0-9]+))?)", m =>
 			{
 				var book = books.FirstOrDefault(b => b.Abbreviation == m.Groups["book"].Value);
-				if (!m.Groups["upto"].Success) return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}]()";
-				else return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}-{m.Groups["upto"].Value}]()";
+				var chapter = m.Groups["chapter"].Value;
+				var verse = m.Groups["verse"].Value;
+				if (!m.Groups["upto"].Success) return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}]({Verses.EpubPage(book.Number)}#verse-{chapter}-{verse})";
+				else return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}-{m.Groups["upto"].Value}]({Verses.EpubPage(book.Number)}#verse-{chapter}-{verse})";
+			}, RegexOptions.Singleline);
+
+			// set verse anchors
+			src = Regex.Replace(src, @"(?<!^|\n)#\s+(?<chapter>[0-9]+)\s*\r?\n(?<text>.*?)(?=\n#\s|$)", m =>
+			{
+				var chapter = m.Groups["chapter"].Value;
+				var text = Regex.Replace(m.Groups["text"].Value, @"\^([0-9]+)\^", @$"**$1{{#verse-{chapter}-$1}}**", RegexOptions.Singleline);
+				return $"# {chapter}{Environment.NewLine}{text}";
 			}, RegexOptions.Singleline);
 
 			src = Regex.Replace(src, @"\^([0-9]+)\^", "**$1**", RegexOptions.Singleline);
@@ -534,7 +544,36 @@ namespace BibleMarkdown
 
 		static void CreateUSFM(string mdfile, string usfmfile)
 		{
+			if (IsNewer(usfmfile, mdfile)) return;
 
+			string usfm = "";
+			if (File.Exists(usfmfile)) usfm = File.ReadAllText(usfmfile);
+
+			var txt = File.ReadAllText(mdfile);
+			txt = Regex.Replace(txt, @"(^|\n)#[ \t]+([0-9]+)", @"\c $2", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"(^|\n)##[ \t]+(.*?)\r?\n", @"\s1 $2", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"(?<!^|\n)\^([0-9]+)\^", $@"{Environment.NewLine}\v $1", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"\^([0-9]+)\^", @"\v $1", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"\*", "", RegexOptions.Singleline);
+
+			// remove bibmark footnotes.
+			bool replaced = true;
+			while (replaced)
+			{
+				replaced = false;
+				txt = Regex.Replace(txt, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))[ \t]*\r?\n?", m =>
+				{
+					replaced = true;
+					return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
+				}, RegexOptions.Singleline);
+			}
+			txt = Regex.Replace(txt, @"\^\[\s*(?<footpos>[0-9]+[:,][0-9]+)\s*(?<foottext>.*?)\s*\]", @"\f + \fr ${footpos} \ft ${foottext} \f*", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"(\r?\n)([ \t]*)(\r?\n)", @"$1\p$3$3", RegexOptions.Singleline);
+			var header = Regex.Match(usfm, @"^.*?(?=\\c)", RegexOptions.Singleline).Value;
+			txt = header + txt;
+
+			File.WriteAllText(usfmfile, txt);
+			Log(usfmfile);
 		}
 		static string Marker(int n)
 		{

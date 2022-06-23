@@ -1,7 +1,7 @@
 # 1
 ## Acceso de Salomón al gobierno; su ejército y su riqueza
 ^1^ Salomón, hijo de David, estaba firmemente establecido en su reino, y Yahvé^a^ su Dios^b^ estaba con él, y lo hizo sumamente grande. 
-^a^[**1: 1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1: 1** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
+^a^[**1:1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:1** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).]
 
 ^2^ Salomón habló a todo Israel, a los capitanes de millares y de centenas, a los jueces y a todos los príncipes de todo Israel, a los jefes de familia. ^3^ Entonces Salomón, y toda la asamblea con él, se dirigió al lugar alto que estaba en Gabaón, porque allí estaba la Tienda de Reunión de Dios, que Moisés, siervo de Yavé, había hecho en el desierto. ^a^ ^4^ Pero David había hecho subir el Arca de Dios desde Quiriat Jearim al lugar que David había preparado para ella, pues le había montado una tienda en Jerusalén. ^b^ ^5^ Además, el altar de bronce que había hecho Bezalel, hijo de Uri, hijo de Hur, estaba allí delante del tabernáculo de Yahvé, y Salomón y la asamblea estaban buscando consejo allí. ^c^ ^6^ Salomón subió allí al altar de bronce que estaba delante de Yavé, en la Tienda del Encuentro, y ofreció sobre él mil holocaustos.
 ^a^[**1:3** 1Cró 16,39; 1Cró 21,29] ^b^[**1:4** 1Cró 13,6; 1Cró 15,3; 1Cró 15,28; 1Cró 16,1] ^c^[**1:5** Éxod 38,1-8; 2Cró 1,3]
@@ -17,7 +17,7 @@
 
 ## La riqueza y el comercio de Salomón en carros y caballos
 ^14^ Salomón reunió carros y jinetes. Tenía mil cuatrocientos carros y doce mil jinetes que colocó en las ciudades de los carros, y con el rey en Jerusalén. ^a^ ^15^ El rey hizo que la plata y el oro fueran tan comunes como las piedras en Jerusalén, e hizo que los cedros fueran tan comunes como los sicómoros que hay en la llanura. ^b^ ^16^ Los caballos que tenía Salomón fueron traídos de Egipto y de Kue. Los mercaderes del rey los compraron de Kue. ^17^ Importaron de Egipto y luego exportaron un carro por seiscientas piezas de plata y un caballo por ciento cincuenta.^c^ También los exportaron a los reyes hititas y a los reyes sirios. ^d^
-^a^[**1:14** 1Re 10,26-29] ^b^[**1:15** 2Cró 9,27] ^c^[**1: 17** Las piezas de plata eran probablemente siclos, por lo que 600 piezas serían unas 13, 2 libras o 6 kilogramos de plata, y 150 serían unas 3, 3 libras o 1, 5 kilogramos de plata.] ^d^[**1: 17** “Beracah” significa “bendición”.]
+^a^[**1:14** 1Re 10,26-29] ^b^[**1:15** 2Cró 9,27] ^c^[**1:17** Las piezas de plata eran probablemente siclos, por lo que 600 piezas serían unas 13, 2 libras o 6 kilogramos de plata, y 150 serían unas 3, 3 libras o 1, 5 kilogramos de plata.] ^d^[**1:17** “Beracah” significa “bendición”.]
 
 # 2
 ## El tratado de Salomón con Hiram de Tiro; Preparativos para la construcción del templo
@@ -472,7 +472,7 @@
 # 23
 ## La conspiración de Joiada
 ^1^ En el séptimo año, Joiada se fortaleció y tomó en alianza con él a los jefes de centenas: Azarías hijo de Jeroham, Ismael hijo de Johanán, Azarías hijo de Obed, Maasías hijo de Adaías y Elisafat hijo de Zicri. ^2^ Ellos recorrieron Judá y reunieron a los levitas de todas las ciudades de Judá y a los jefes de familia de Israel, y llegaron a Jerusalén. ^3^ Toda la asamblea hizo un pacto con el rey en la casa de Dios. Joiada^a^ les dijo: “He aquí que el hijo del rey debe reinar, como Yahvé ha dicho respecto a los hijos de David. ^4^ Esto es lo que debéis hacer: una tercera parte de vosotros, los que entran en sábado, de los sacerdotes y de los levitas, serán guardianes de los umbrales. ^5^ Una tercera parte estará en la casa del rey, y otra tercera parte en la puerta de la fundación. Todo el pueblo estará en los atrios de la casa de Yavé. ^6^ Pero que nadie entre en la casa de Yavé, sino los sacerdotes y los que ejercen el ministerio de los levitas. Ellos entrarán, porque son santos, pero todo el pueblo seguirá las instrucciones de Yavé. ^7^ Los levitas rodearán al rey, cada uno con sus armas en la mano. El que entre en la casa, que lo maten. Acompañen al rey cuando entre y cuando salga”. 
-^a^[**23: 3** hebreo He]
+^a^[**23:3** hebreo He]
 
 ## Captura y asesinato de Athalja; Elevación de Joás a rey
 ^8^ Los levitas y todo Judá hicieron, pues, todo lo que mandó el sacerdote Joiada. Cada uno tomó a sus hombres, los que debían entrar en sábado, con los que debían salir en sábado, pues el sacerdote Joiada no despidió el turno. ^9^ El sacerdote Joiada entregó a los capitanes de centenas las lanzas, las rodelas y los escudos que habían sido del rey David y que estaban en la casa de Dios. ^10^ Puso a todo el pueblo, cada uno con su arma en la mano, desde el lado derecho de la casa hasta el lado izquierdo, cerca del altar y de la casa, alrededor del rey. ^11^ Entonces sacaron al hijo del rey, le pusieron la corona, le dieron la alianza y lo hicieron rey. Joiada y sus hijos lo ungieron, y dijeron: “¡Viva el rey!”. 
@@ -518,7 +518,7 @@
 
 ## La victoria de Amasías sobre los edomitas después de que los mercenarios israelitas fueran devueltos; la venganza de estas tropas
 ^5^ Además, Amasías reunió a Judá y los ordenó según las casas de sus padres, bajo capitanes de millares y de centenas, todo Judá y Benjamín. Los contó de veinte años en adelante, y encontró que había trescientos mil hombres escogidos, capaces de salir a la guerra, que podían manejar la lanza y el escudo. ^6^ También contrató a cien mil hombres valientes de Israel por cien talentos^a^ de plata. ^7^ Un hombre de Dios se acercó a él y le dijo: “Oh rey, no dejes que el ejército de Israel vaya contigo, porque Yahvé no está con Israel, con todos los hijos de Efraín. ^8^ Pero si vas a ir, ponte en acción y sé fuerte para la batalla. Dios te derribará ante el enemigo; porque Dios tiene poder para ayudar y para derribar.” 
-^a^[**25: 6** 1 cor es lo mismo que un homer, es decir, unos 55, 9 galones americanos (líquidos) o 211 litros o 6 bushels. 10. 000 cors de trigo pesan unas 1. 640 toneladas métricas.]
+^a^[**25:6** 1 cor es lo mismo que un homer, es decir, unos 55, 9 galones americanos (líquidos) o 211 litros o 6 bushels. 10. 000 cors de trigo pesan unas 1. 640 toneladas métricas.]
 
 ^9^ Amasías dijo al hombre de Dios: “¿Pero qué haremos con los cien talentos que he dado al ejército de Israel?” El hombre de Dios respondió: “Yahvé es capaz de darte mucho más que esto”. 
 
@@ -567,7 +567,7 @@
 # 27
 ## El gobierno del rey Jotam; Gobierno bueno y feliz; Edificios y guerras exitosas
 ^1^ Jotam tenía veinticinco años cuando comenzó a reinar, y reinó dieciséis años en Jerusalén. Su madre se llamaba Jerusá, hija de Sadoc. ^2^ Hizo lo que era justo a los ojos de Yavé, según todo lo que había hecho su padre Uzías. Sin embargo, no entró en el templo de Yavé. El pueblo seguía actuando de manera corrupta. ^3^ Construyó la puerta superior de la casa de Yavé, y edificó mucho en el muro de Ofel. ^4^ Además, construyó ciudades en la región montañosa de Judá, y en los bosques edificó fortalezas y torres. ^a^ ^5^ También luchó con el rey de los hijos de Amón y los venció. Los hijos de Amón le dieron ese mismo año cien talentos de plata, diez mil cors de trigo y diez mil cors de cebada.^b^ Los hijos de Amón también le dieron esa cantidad el segundo año y el tercero. ^6^ Así, Jotam se hizo poderoso, porque ordenó sus caminos ante Yahvé, su Dios. ^7^ El resto de los hechos de Jotam, todas sus guerras y sus caminos, están escritos en el libro de los reyes de Israel y de Judá. ^8^ Tenía veinticinco años cuando comenzó a reinar, y reinó dieciséis años en Jerusalén. ^9^ Jotam durmió con sus padres, y lo enterraron en la ciudad de David; y su hijo Acaz reinó en su lugar.
-^a^[**27:4** 2Cró 26,10] ^b^[**27: 5** 10. 000 cors de cebada pesan alrededor de 1. 310 toneladas métricas.]
+^a^[**27:4** 2Cró 26,10] ^b^[**27:5** 10. 000 cors de cebada pesan alrededor de 1. 310 toneladas métricas.]
 
 # 28
 ## El reinado del rey Acaz; Las abominaciones paganas de Acaz
@@ -670,7 +670,7 @@
 ^20^ El rey Ezequías y el profeta Isaías, hijo de Amoz, oraron a causa de esto y clamaron al cielo. 
 
 ^21^ El Señor envió a un ángel que eliminó a todos los hombres valientes, a los jefes y a los capitanes del campamento del rey de Asiria. Así que regresó con el rostro avergonzado a su propia tierra. Cuando entró en la casa de su dios, los que salieron de su propio cuerpo^a^ lo mataron allí a espada. ^22^ Así salvó Yahvé a Ezequías y a los habitantes de Jerusalén de la mano de Senaquerib, rey de Asiria, y de la mano de todos los demás, y los guió por todos lados. ^23^ Muchos llevaron regalos a Yahvé en Jerusalén, y cosas preciosas a Ezequías, rey de Judá, de modo que desde entonces fue exaltado a la vista de todas las naciones. 
-^a^[**32: 21** decir, sus propios hijos]
+^a^[**32:21** decir, sus propios hijos]
 
 ## La enfermedad, la arrogancia y la penitencia de Ezechîas
 ^24^ En aquellos días Ezequías tenía una enfermedad terminal, y oró a Yavé; y éste le habló y le dio una señal. ^25^ Pero Ezequías no correspondió adecuadamente al beneficio que se le hacía, porque su corazón estaba enardecido. Por eso hubo ira sobre él, sobre Judá y sobre Jerusalén. ^a^ ^26^ Sin embargo, Ezequías se humilló por la soberbia de su corazón, tanto él como los habitantes de Jerusalén, de modo que la ira del Señor no cayó sobre ellos en los días de Ezequías.
@@ -700,7 +700,7 @@
 ^14^ Después de esto, edificó un muro exterior a la ciudad de David en el lado occidental de Gihón, en el valle, hasta la entrada en la puerta del pescado. Rodeó con ella a Ofel, y la levantó a gran altura; y puso capitanes valientes en todas las ciudades fortificadas de Judá. ^15^ Quitó los dioses extranjeros y el ídolo de la casa de Yavé, y todos los altares que había construido en el monte de la casa de Yavé y en Jerusalén, y los echó de la ciudad. ^16^ Edificó el altar de Yavé y ofreció en él sacrificios de paz y de acción de gracias, y ordenó a Judá que sirviera a Yavé, el Dios de Israel. ^17^ Sin embargo, el pueblo seguía sacrificando en los lugares altos, pero sólo a Yavé, su Dios. 
 
 ^18^ El resto de los hechos de Manasés, y su oración a su Dios, y las palabras de los videntes que le hablaron en nombre de Yahvé, el Dios de Israel, he aquí que están escritos entre los hechos de los reyes de Israel. ^a^ ^19^ Su oración también, y cómo Dios escuchó su petición, y todo su pecado y su transgresión, y los lugares en los que construyó lugares altos y levantó los postes de Asera y las imágenes grabadas antes de humillarse: he aquí, están escritos en la historia de Hozai. ^b^
-^a^[**33:18** 2Re 21,17-18] ^b^[**33: 19** o, los videntes]
+^a^[**33:18** 2Re 21,17-18] ^b^[**33:19** o, los videntes]
 
 ## Amón Rey de Judá
 ^20^ Manasés, pues, durmió con sus padres y lo enterraron en su propia casa; y su hijo Amón reinó en su lugar. ^21^ Amón tenía veintidós años cuando comenzó a reinar, y reinó dos años en Jerusalén. ^22^ Hizo lo que era malo a los ojos de Yavé, como lo hizo su padre Manasés; y Amón sacrificó a todas las imágenes grabadas que había hecho su padre Manasés, y las sirvió. ^23^ No se humilló ante Yavé, como se había humillado su padre Manasés, sino que este mismo Amón prevaricó más y más. ^a^ ^24^ Sus servidores conspiraron contra él y lo mataron en su propia casa. ^25^ Pero el pueblo del país mató a todos los que habían conspirado contra el rey Amón, y el pueblo del país hizo rey a su hijo Josías en su lugar.
@@ -759,7 +759,7 @@
 # 36
 ## Joachâz rey de Judá
 ^1^ Entonces el pueblo del país tomó a Joacaz, hijo de Josías, y lo hizo rey en lugar de su padre en Jerusalén. ^2^ Joacaz tenía veintitrés años cuando comenzó a reinar, y reinó tres meses en Jerusalén. ^3^ El rey de Egipto lo destituyó de su cargo en Jerusalén y le impuso una multa de cien talentos de plata y un talento^a^ de oro. 
-^a^[**36: 3** Un talento son unos 30 kilogramos o 66 libras o 965 onzas troy]
+^a^[**36:3** Un talento son unos 30 kilogramos o 66 libras o 965 onzas troy]
 
 ## Joacim König von Juda
 ^4^ El rey de Egipto hizo a Eliaquim, su hermano, rey de Judá y de Jerusalén, y le cambió el nombre por el de Joaquín. Neco tomó a Joacaz, su hermano, y lo llevó a Egipto. 

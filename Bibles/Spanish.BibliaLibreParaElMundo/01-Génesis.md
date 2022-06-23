@@ -1,7 +1,7 @@
 # 1
 ## La creación del mundo
 ^1^ En el principio, Dios^a^ creó los cielos y la tierra. ^b^ ^2^ La tierra estaba sin forma y vacía. Las tinieblas estaban en la superficie de las profundidades y el Espíritu de Dios se cernía sobre la superficie de las aguas.
-^a^[**1: 1** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**1:1** Hech 17,24; Apoc 4,11; Heb 11,3; Juan 1,1-3]
+^a^[**1:1** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^b^[**1:1** Hech 17,24; Apoc 4,11; Heb 11,3; Juan 1,1-3]
 
 ## La creación de la luz
 ^3^ Dios dijo: “Que se haga la luz”, y se hizo la luz. ^4^ Dios vio la luz y vio que era buena. Dios separó la luz de las tinieblas. ^5^ Dios llamó a la luz “día”, y a las tinieblas las llamó “noche”. Hubo tarde y hubo mañana, el primer día. 
@@ -24,7 +24,7 @@
 ^24^ Dios dijo: “Que la tierra produzca seres vivos según su especie, ganado, reptiles y animales de la tierra según su especie”; y así fue. ^25^ Dios hizo a los animales de la tierra según su especie, a los animales según su especie y a todo lo que se arrastra por el suelo según su especie. Dios vio que era bueno. 
 
 ^26^ Dios dijo: “Hagamos al hombre a nuestra imagen y semejanza. Que tenga dominio sobre los peces del mar, sobre las aves del cielo, sobre el ganado, sobre toda la tierra y sobre todo lo que se arrastra sobre ella”. ^a^ ^27^ Dios creó al hombre a su imagen y semejanza. A imagen y semejanza de Dios lo creó; hombre y mujer los creó. ^b^ ^28^ Dios los bendijo. Dios les dijo: “Sed fecundos, multiplicaos, llenad la tierra y sometedla. Dominen a los peces del mar, a las aves del cielo y a todo ser viviente que se mueve sobre la tierra”. ^c^ ^29^ Dios dijo: “Mira,^d^ te he dado toda hierba que da semilla, que está en la superficie de toda la tierra, y todo árbol que da fruto que da semilla. Serán su alimento. ^30^ A todo animal de la tierra, y a toda ave del cielo, y a todo lo que se arrastra sobre la tierra, en el que hay vida, les he dado toda hierba verde como alimento”; y así fue. 
-^a^[**1:26** Sal 8,6-9] ^b^[**1:27** Efes 4,24; Gén 2,7; Gén 2,22; Mat 19,4] ^c^[**1:28** Hech 17,26] ^d^[**1: 29** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
+^a^[**1:26** Sal 8,6-9] ^b^[**1:27** Efes 4,24; Gén 2,7; Gén 2,22; Mat 19,4] ^c^[**1:28** Hech 17,26] ^d^[**1:29** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.]
 
 ^31^ Dios vio todo lo que había hecho, y he aquí que era muy bueno. Hubo tarde y mañana, un sexto día.
 
@@ -35,21 +35,21 @@
 
 ## La creacion del hombre y de la mujer en el paraíso
 ^4^ Esta es la historia de las generaciones de los cielos y de la tierra cuando fueron creados, el día en que Yahvé^a^ Dios hizo la tierra y los cielos. ^5^ Todavía no había en la tierra ninguna planta del campo, ni había brotado ninguna hierba del campo, porque Yahvé Dios no había hecho llover sobre la tierra. No había ningún hombre que labrara la tierra, ^6^ sino que una niebla subía de la tierra y regaba toda la superficie del suelo. ^7^ Yahvé Dios formó al hombre del polvo de la tierra y sopló en su nariz aliento de vida, y el hombre se convirtió en un alma viviente. 
-^a^[**2: 4** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
+^a^[**2:4** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
 
 ^8^ Yahvé Dios plantó un jardín hacia el este, en el Edén, y allí puso al hombre que había formado. ^9^ De la tierra Yahvé Dios hizo crecer todo árbol agradable a la vista y bueno para comer, incluyendo el árbol de la vida en medio del jardín y el árbol del conocimiento del bien y del mal. ^a^ 
 ^a^[**2:9** Gén 3,22; Gén 3,24; Apoc 2,7; Apoc 22,2]
 
 ## El río en el paraíso y sus ramales
 ^10^ Un río salía del Edén para regar el jardín, y desde allí se dividía y se convertía en la fuente de cuatro ríos. ^11^ El nombre del primero es Pishón; fluye por toda la tierra de Havilah, donde hay oro; ^12^ y el oro de esa tierra es bueno. También hay allí bdellium^a^ y piedra de ónice. ^13^ El nombre del segundo río es Gihón. Es el mismo río que atraviesa toda la tierra de Cus. ^14^ El nombre del tercer río es Hiddekel. Es el que fluye frente a Asiria. El cuarto río es el Éufrates. 
-^a^[**2: 12** o, resina aromática]
+^a^[**2:12** o, resina aromática]
 
 ## El mandamiento de Dios por Adam
 ^15^ Yahvé Dios tomó al hombre y lo puso en el jardín del Edén para que lo cultivara y lo cuidara. ^16^ Yahvé Dios ordenó al hombre diciendo: “Puedes comer libremente de todos los árboles del jardín; ^17^ pero no comerás del árbol del conocimiento del bien y del mal, porque el día que comas de él, morirás.” 
 
 ## La creación de la mujer y la fundación del matrimonio
 ^18^ Yahvé Dios dijo: “No es bueno que el hombre esté solo. Le haré un ayudante comparable a^a^ el”. ^b^ ^19^ Yahvé Dios formó de la tierra todo animal del campo y toda ave del cielo, y se los llevó al hombre para ver cómo los llamaba. Lo que el hombre llamó a cada criatura viviente se convirtió en su nombre. ^20^ El hombre dio nombres a todo el ganado, a las aves del cielo y a todo animal del campo; pero para el hombre no se encontró un ayudante comparable a él. 
-^a^[**2: 18** o, adecuado para, o apropiado para.] ^b^[**2:18** Prov 31,10-31]
+^a^[**2:18** o, adecuado para, o apropiado para.] ^b^[**2:18** Prov 31,10-31]
 
 ^21^ El Señor Dios hizo que el hombre cayera en un profundo sueño. Mientras el hombre dormía, tomó una de sus costillas y cerró la carne en su lugar. ^22^ Yahvé Dios hizo una mujer a partir de la costilla que había tomado del hombre, y se la llevó al hombre. ^23^ El hombre dijo: “Esto es ahora hueso de mis huesos y carne de mi carne. Se llamará ‘mujer’, porque fue tomada del Hombre”. ^24^ Por tanto, el hombre dejará a su padre y a su madre y se unirá a su mujer, y serán una sola carne. ^a^ ^25^ El hombre y su mujer estaban desnudos, y no se avergonzaban.
 ^a^[**2:24** Mat 19,5-6; Efes 5,28-31]
@@ -95,12 +95,12 @@
 ^20^ El hombre llamó a su mujer Eva, porque ella sería la madre de todos los vivientes. ^21^ Yahvé Dios hizo vestidos de pieles de animales para Adán y para su mujer, y los vistió. 
 
 ^22^ Yahvé Dios dijo: “He aquí que el hombre ha llegado a ser como uno de nosotros, conociendo el bien y el mal. Ahora bien, para que no extienda su mano y tome también del árbol de la vida, y coma, y viva para siempre —” ^23^ Por eso Yahvé Dios lo envió fuera del jardín de Edén, para que labrara la tierra de la que fue tomado. ^24^ Y expulsó al hombre; y puso querubines^a^ al oriente del jardín del Edén, y una espada flamígera que se volvía hacia todos lados, para guardar el camino del árbol de la vida. ^b^ 
-^a^[**3: 24** Los querubines son poderosas criaturas angélicas, mensajeros de Dios con alas. Véase Ezequiel 10.] ^b^[**3:24** Ezeq 10,1]
+^a^[**3:24** Los querubines son poderosas criaturas angélicas, mensajeros de Dios con alas. Véase Ezequiel 10.] ^b^[**3:24** Ezeq 10,1]
 
 # 4
 ## Caín y Abel
 ^1^ El hombre conoció^a^ Eva, su mujer. Ella concibió,^b^ y dio a luz a Caín, y dijo: “He conseguido un hombre con la ayuda de Yahvé”. ^2^ De nuevo dio a luz a Abel, el hermano de Caín. Abel era cuidador de ovejas, pero Caín era labrador de la tierra. ^3^ Con el tiempo, Caín trajo una ofrenda a Yahvé del fruto de la tierra. ^4^ Abel también trajo parte de los primogénitos de su rebaño y de su grasa. Yahvé respetó a Abel y su ofrenda, ^5^ pero no respetó a Caín y su ofrenda. Caín se enfadó mucho, y la expresión de su rostro decayó. ^6^ Yahvé dijo a Caín: “¿Por qué estás enojado? ¿Por qué ha decaído la expresión de tu rostro? ^7^ Si haces bien, ¿no se levantará? Si no haces bien, el pecado se agazapa a la puerta. Su deseo es para ti, pero tú debes dominarlo”. ^c^ ^8^ Caín dijo a Abel, su hermano: “Vamos al campo”. Mientras estaban en el campo, Caín se levantó contra Abel, su hermano, y lo mató. ^d^ 
-^a^[**4: 1** o, yacer con, o, tener relaciones con] ^b^[**4: 1** o, se quedó embarazada] ^c^[**4:7** Gal 5,17; Rom 6,12] ^d^[**4:8** 1Jn 3,12; 1Jn 1,3-15]
+^a^[**4:1** o, yacer con, o, tener relaciones con] ^b^[**4:1** o, se quedó embarazada] ^c^[**4:7** Gal 5,17; Rom 6,12] ^d^[**4:8** 1Jn 3,12; 1Jn 1,3-15]
 
 ## El castigo de Caín
 ^9^ Yahvé dijo a Caín: “¿Dónde está Abel, tu hermano?” Dijo: “No lo sé. ¿Soy el guardián de mi hermano?” 
@@ -124,7 +124,7 @@
 # 5
 ## La descendiencia de Seth hasta Noé
 ^1^ Este es el libro de las generaciones de Adán. El día que Dios creó al hombre, lo hizo a su semejanza. ^a^ ^2^ Los creó varón y mujer, y los bendijo. El día en que fueron creados, les puso el nombre de Adán. ^b^ ^3^ Adán vivió ciento treinta años y fue padre de un hijo a su imagen y semejanza, al que llamó Set. ^4^ Los días de Adán después de ser padre de Set fueron ochocientos años, y llegó a ser padre de otros hijos e hijas. ^5^ Todos los días que vivió Adán fueron novecientos treinta años, y luego murió. 
-^a^[**5:1** Gén 1,27; Luc 3,38] ^b^[**5: 2** “Adán” y “Hombre” se escriben exactamente con las mismas consonantes en hebreo, por lo que se puede traducir correctamente de cualquier manera.]
+^a^[**5:1** Gén 1,27; Luc 3,38] ^b^[**5:2** “Adán” y “Hombre” se escriben exactamente con las mismas consonantes en hebreo, por lo que se puede traducir correctamente de cualquier manera.]
 
 ^6^ Set vivió ciento cinco años y luego fue padre de Enós. ^7^ Set vivió después de ser padre de Enós ochocientos siete años, y fue padre de otros hijos e hijas. ^8^ Todos los días de Set fueron novecientos doce años, y luego murió. 
 
@@ -149,7 +149,7 @@
 # 6
 ## Los matrimonios de los hijos de Dios con las hijas de los hombres
 ^1^ Cuando los hombres comenzaron a multiplicarse sobre la superficie de la tierra, y les nacieron hijas, ^2^ Los hijos de Dios vieron que las hijas de los hombres eran hermosas, y tomaron para sí las que quisieron como esposas. ^3^ Yahvé dijo: “Mi Espíritu no luchará con el hombre para siempre, porque él también es carne; así que sus días serán de ciento veinte años.” ^a^ ^4^ Los Nefilim^b^ estaban en la tierra en esos días, y también después de eso, cuando los hijos de Dios entraron a las hijas de los hombres y tuvieron hijos con ellas. Esos eran los hombres poderosos que había en la antigüedad, hombres de renombre.
-^a^[**6:3** 1Pe 3,20] ^b^[**6: 4** o, gigantes]
+^a^[**6:3** 1Pe 3,20] ^b^[**6:4** o, gigantes]
 
 ## La maldad de los hombres. Anuncio del diluvio
 ^5^ Yahvé vio que la maldad del hombre era grande en la tierra, y que todo designio de los pensamientos del corazón del hombre era de continuo sólo el mal. ^6^ Yahvé se arrepintió de haber hecho al hombre en la tierra, y le dolió en su corazón. ^a^ ^7^ Yahvé dijo: “Destruiré al hombre que he creado de la superficie de la tierra, junto con los animales, los reptiles y las aves del cielo, pues me arrepiento de haberlos hecho.” ^8^ Pero Noé encontró el favor de los ojos de Yahvé.
@@ -161,7 +161,7 @@
 
 ^13^ Dios dijo a Noé: “Voy a acabar con toda la carne, porque la tierra está llena de violencia por culpa de ellos. He aquí que los destruiré a ellos y a la tierra. ^a^ 
 ^14^ Haz un barco de madera de topo. Harás habitaciones en la nave, y la sellarás por dentro y por fuera con brea. ^15^ Así lo harás. La longitud de la nave será de trescientos codos,^b^ su anchura de cincuenta codos, y su altura de treinta codos. ^16^ Harás un techo en la nave, y lo terminarás a un codo hacia arriba. Pondrás la puerta de la nave en su costado. La harás con niveles inferior, segundo y tercero. ^17^ Yo, yo mismo, traeré el diluvio de aguas sobre esta tierra, para destruir toda carne que tenga aliento de vida de debajo del cielo. Todo lo que hay en la tierra morirá. ^18^ Pero yo estableceré mi pacto con ustedes. Entrarás en la nave, tú, tus hijos, tu mujer y las mujeres de tus hijos contigo. ^19^ De todo ser viviente de toda carne, traerás dos de cada especie a la nave, para mantenerlos vivos contigo. Serán macho y hembra. ^20^ De las aves según su especie, del ganado según su especie, de todo reptil del suelo según su especie, dos de cada especie irán con vosotros, para mantenerlos con vida. ^21^ Toma contigo algo de todo lo que se come, y recógelo para ti, y te servirá de alimento a ti y a ellos.” ^22^ Así hizo Noé. Hizo todo lo que Dios le ordenó.
-^a^[**6:13** Am 8,2] ^b^[**6: 15** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**6:13** Am 8,2] ^b^[**6:15** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 # 7
 ## El diluvio. Noé entra la arca
@@ -180,7 +180,7 @@
 ^a^[**7:16** Gén 6,19]
 
 ^17^ El diluvio duró cuarenta días sobre la tierra. Las aguas aumentaron, y levantaron la nave, y ésta se elevó sobre la tierra. ^18^ Las aguas crecieron y aumentaron mucho sobre la tierra, y el barco flotaba sobre la superficie de las aguas. ^19^ Las aguas se elevaron mucho sobre la tierra. Todos los montes altos que había bajo todo el cielo quedaron cubiertos. ^20^ Las aguas subieron quince codos^a^ más, y las montañas quedaron cubiertas. ^21^ Murió toda la carne que se movía sobre la tierra, incluyendo las aves, el ganado, los animales, todo lo que se arrastra sobre la tierra y todo hombre. ^22^ Murió todo lo que estaba en la tierra firme, en cuyas narices había aliento de espíritu de vida. ^23^ Fue destruido todo ser viviente que estaba sobre la superficie de la tierra, incluidos el hombre, el ganado, los reptiles y las aves del cielo. Fueron destruidos de la tierra. Sólo quedó Noé y los que estaban con él en la nave. ^24^ Las aguas inundaron la tierra durante ciento cincuenta días.
-^a^[**7: 20** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
+^a^[**7:20** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 # 8
 ## El fin del diluvio
@@ -239,7 +239,7 @@
 # 11
 ## La torre de Babel
 ^1^ Toda la tierra tenía una misma lengua y un mismo lenguaje. ^2^ Mientras viajaban hacia el este,^a^ encontraron una llanura en la tierra de Sinar, y allí vivieron. ^3^ Se dijeron unos a otros: “Venid, hagamos ladrillos y quemémoslos bien”. Tenían ladrillos por piedra, y usaban alquitrán como mortero. ^4^ Dijeron: “Vengan, construyamos una ciudad y una torre cuya cima llegue al cielo, y hagamos un nombre para nosotros, no sea que nos dispersemos por la superficie de toda la tierra.” 
-^a^[**11: 2** La LXX dice “desde el este”.]
+^a^[**11:2** La LXX dice “desde el este”.]
 
 ^5^ Yahvé bajó a ver la ciudad y la torre que los hijos de los hombres construyeron. ^a^ ^6^ Yahvé dijo: “He aquí que son un solo pueblo, y todos tienen una sola lengua, y esto es lo que comienzan a hacer. Ahora no se les impedirá nada de lo que pretenden hacer. ^7^ Vamos, bajemos y confundamos allí su lengua, para que no entiendan el habla de los demás.” ^8^ Así que el Señor los dispersó desde allí por la superficie de toda la tierra. Dejaron de construir la ciudad. ^9^ Por eso su nombre fue llamado Babel, porque allí Yahvé confundió el lenguaje de toda la tierra. Desde allí, Yahvé los dispersó por la superficie de toda la tierra.
 ^a^[**11:5** Gén 18,21; Sal 18,10; Sal 14,2]
@@ -278,7 +278,7 @@
 ^4^ Así que Abram se fue, como Yahvé le había dicho. Lot lo acompañó. Abram tenía setenta y cinco años cuando partió de Harán. ^5^ Abram tomó a Sarai, su esposa, a Lot, el hijo de su hermano, todas las posesiones que habían reunido y el pueblo que habían adquirido en Harán, y se fueron a la tierra de Canaán. Entraron en la tierra de Canaán. ^6^ Abram pasó por la tierra hasta el lugar de Siquem, hasta la encina de Moreh. En ese momento, los cananeos estaban en la tierra. 
 
 ^7^ Yahvé se le apareció a Abram y le dijo: “Le daré esta tierra a tu descendencia”. ^a^ Allí construyó un altar a Yahvé, que se le había aparecido. ^b^ 
-^a^[**12: 7** o, semilla] ^b^[**12:7** Gén 13,15; Gén 15,18; Gén 17,8; Gén 24,7; Gén 26,3-4; Gén 28,13; Gén 35,12; Éxod 6,4; Éxod 6,8; Éxod 32,13; Jos 21,43; Hech 7,5]
+^a^[**12:7** o, semilla] ^b^[**12:7** Gén 13,15; Gén 15,18; Gén 17,8; Gén 24,7; Gén 26,3-4; Gén 28,13; Gén 35,12; Éxod 6,4; Éxod 6,8; Éxod 32,13; Jos 21,43; Hech 7,5]
 
 ^8^ Salió de allí para ir a la montaña que está al este de Betel y acampó, teniendo Betel al oeste y Hai al este. Allí construyó un altar a Yavé e invocó el nombre de Yavé. ^a^ ^9^ Abram siguió viajando, todavía en dirección al sur.
 ^a^[**12:8** Gén 4,26]
@@ -332,7 +332,7 @@
 ^a^[**15:1** Sal 3,4; Sal 84,12; Sal 119,114]
 
 ^2^ Abram dijo: “Señor^a^ Yahvé, ¿qué me darás, ya que me voy sin hijos, y el que heredará mis bienes es Eliezer de Damasco?” ^3^ Abram respondió: “He aquí que no me has dado hijos, y he aquí que uno nacido en mi casa es mi heredero.” 
-^a^[**15: 2** La palabra traducida “Señor” es “Adonai”.]
+^a^[**15:2** La palabra traducida “Señor” es “Adonai”.]
 
 ^4^ He aquí que la palabra de Yahvé vino a él, diciendo: “Este hombre no será tu heredero, pero el que saldrá de tu propio cuerpo será tu heredero.” ^5^ Yahvé lo sacó fuera y le dijo: “Mira ahora hacia el cielo y cuenta las estrellas, si eres capaz de contarlas”. Le dijo a Abram: “Así será tu descendencia”. ^6^ Él creyó en Yahvé, que se lo acreditó por justicia. ^a^ 
 ^a^[**15:6** Rom 4,3-5; Rom 4,18-22; Sant 2,23]
@@ -361,7 +361,7 @@
 ^a^[**16:12** Gén 25,18]
 
 ^13^ Ella llamó al nombre de Yahvé que le habló: “Tú eres un Dios que ve”, pues dijo: “¿Acaso he quedado viva después de verlo?” ^14^ Por eso el pozo se llamó Beer Lahai Roi.^a^ He aquí que está entre Cades y Bered. 
-^a^[**16: 14** Beer Lahai Roi significa “pozo del que vive y me ve”.]
+^a^[**16:14** Beer Lahai Roi significa “pozo del que vive y me ve”.]
 
 ^15^ Agar dio a luz un hijo para Abram. Abram llamó el nombre de su hijo, que Agar dio a luz, Ismael. ^16^ Abram tenía ochenta y seis años cuando Agar dio a luz a Ismael.
 
@@ -383,7 +383,7 @@
 ^a^[**17:17** Gén 18,12; Gén 21,6; Luc 1,18]
 
 ^19^ Dios dijo: “No, pero Sara, tu mujer, te dará un hijo. Lo llamarás Isaac.^a^ Estableceré mi pacto con él como un pacto eterno para su descendencia después de él. ^20^ En cuanto a Ismael, te he escuchado. He aquí que lo he bendecido, lo haré fructificar y lo multiplicaré en gran manera. Llegará a ser padre de doce príncipes, y haré de él una gran nación. ^b^ ^21^ Pero yo estableceré mi alianza con Isaac, a quien Sara dará a luz en esta época del año próximo.” 
-^a^[**17: 19** Isaac significa “se ríe”.] ^b^[**17:20** Gén 16,10; Gén 21,13; Gén 21,18; Gén 25,16]
+^a^[**17:19** Isaac significa “se ríe”.] ^b^[**17:20** Gén 16,10; Gén 21,13; Gén 21,18; Gén 25,16]
 
 ^22^ Cuando terminó de hablar con él, Dios se alejó de Abraham. 
 
@@ -396,7 +396,7 @@
 ^a^[**18:2** Heb 13,2]
 
 ^6^ Abraham se apresuró a entrar en la tienda con Sara y le dijo: “Prepara rápidamente tres seahs^a^ de harina fina, amásala y haz tortas.” ^7^ Abraham corrió hacia el rebaño, cogió un ternero tierno y bueno y se lo dio al criado. Éste se apresuró a aderezarlo. ^8^ Tomó mantequilla, leche y el ternero que había aderezado, y lo puso delante de ellos. Se puso junto a ellos, bajo el árbol, y comieron. 
-^a^[**18: 6** Zoar significa “pequeño”.]
+^a^[**18:6** Zoar significa “pequeño”.]
 
 ^9^ Le preguntaron: “¿Dónde está Sara, tu mujer?” Dijo: “Allí, en la tienda”. 
 
@@ -485,7 +485,7 @@
 # 21
 ## Nacimiento de Isaac
 ^1^ Yahvé visitó a Sara como había dicho, y Yahvé hizo con Sara lo que había dicho. ^2^ Sara concibió y dio a luz un hijo a Abraham en su vejez, en el tiempo establecido del que Dios le había hablado. ^a^ ^3^ Abraham llamó a su hijo que le había nacido, y que Sara le dio a luz, Isaac. ^b^ ^c^ ^4^ Abraham circuncidó a su hijo Isaac a los ocho días de nacido, como Dios le había ordenado. ^d^ ^5^ Abraham tenía cien años cuando le nació su hijo Isaac. ^e^ ^6^ Sara dijo: “Dios me ha hecho reír. Todo el que oiga se reirá conmigo”. ^f^ ^7^ Ella dijo: “¿Quién le habría dicho a Abraham que Sara amamantaría a sus hijos? Pues le he dado a luz un hijo en su vejez”. ^8^ El niño creció y fue destetado. Abraham hizo una gran fiesta el día en que Isaac fue destetado.
-^a^[**21:2** Heb 11,11] ^b^[**21: 3** Isaac significa “Él se ríe”.] ^c^[**21:3** Gén 17,19] ^d^[**21:4** Gén 17,11-12] ^e^[**21:5** Gén 17,17; Rom 4,19] ^f^[**21:6** Gén 18,12]
+^a^[**21:2** Heb 11,11] ^b^[**21:3** Isaac significa “Él se ríe”.] ^c^[**21:3** Gén 17,19] ^d^[**21:4** Gén 17,11-12] ^e^[**21:5** Gén 17,17; Rom 4,19] ^f^[**21:6** Gén 18,12]
 
 ## El repudio y la salvación de Ismael
 ^9^ Sara vio que el hijo de Agar la egipcia, que había dado a luz a Abraham, se burlaba. ^10^ Entonces dijo a Abraham: “¡Echa a esta sierva y a su hijo! Porque el hijo de esta sierva no será heredero de mi hijo Isaac”. 
@@ -510,7 +510,7 @@
 
 ^30^ Dijo: “Tomarás estas siete ovejas de mi mano, para que me sirvan de testimonio de que he cavado este pozo”. ^31^ Por eso llamó a ese lugar Beersheba,^a^ porque ambos hicieron allí un juramento. ^b^ 
 ^32^ Así que hicieron un pacto en Beerseba. Abimelec se levantó con Ficol, el capitán de su ejército, y volvieron a la tierra de los filisteos. ^33^ Abraham plantó un tamarisco en Beerseba, y allí invocó el nombre de Yavé, el Dios eterno. ^34^ Abraham vivió muchos días como extranjero en la tierra de los filisteos.
-^a^[**21: 31** Beersheba puede significar “pozo del juramento” o “pozo de los siete”.] ^b^[**21:31** Gén 26,33]
+^a^[**21:31** Beersheba puede significar “pozo del juramento” o “pozo de los siete”.] ^b^[**21:31** Gén 26,33]
 
 # 22
 ## El orden de Dios para sacrificar Isaac
@@ -532,7 +532,7 @@
 ^12^ Él dijo: “No pongas tu mano sobre el niño ni le hagas nada. Porque ahora sé que temes a Dios, ya que no me has ocultado a tu hijo, tu único hijo”. 
 
 ^13^ Abraham alzó los ojos y miró, y vio que detrás de él había un carnero atrapado en la espesura por sus cuernos. Abraham fue y tomó el carnero, y lo ofreció en holocausto en lugar de su hijo. ^14^ Abraham llamó el nombre de aquel lugar “Yahvé proveerá”.^a^ Como se dice hasta hoy: “En el monte de Yahvé se proveerá”. 
-^a^[**22: 14** o, Yahvé-Jireh, o, Yahvé-Vista]
+^a^[**22:14** o, Yahvé-Jireh, o, Yahvé-Vista]
 
 ## La aprobación de Dios y promesas por Abraham
 ^15^ El ángel de Yahvé llamó a Abraham por segunda vez desde el cielo, ^16^ y le dijo: “‘He jurado por mí mismo’, dice Yahvé, ‘porque has hecho esto y no has retenido a tu hijo, tu único hijo, ^a^ ^17^ que te bendeciré en gran manera, y multiplicaré tu descendencia en gran manera como las estrellas del cielo y como la arena que está a la orilla del mar. Tu descendencia poseerá la puerta de sus enemigos. ^b^ ^18^ Todas las naciones de la tierra serán bendecidas por tu descendencia, porque has obedecido mi voz.’” ^c^ 
@@ -558,7 +558,7 @@
 ^12^ Abraham se inclinó ante el pueblo de la tierra. ^13^ Habló a Efrón en la audiencia del pueblo de la tierra, diciendo Daré el precio del campo. Tómalo de mi parte, y enterraré allí a mis muertos”. 
 
 ^14^ Efrón respondió a Abraham, diciéndole: ^15^ “Señor mío, escúchame. ¿Qué es un pedazo de tierra que vale cuatrocientos siclos de plata^a^ entre tú y yo? Entierra, pues, a tus muertos”. 
-^a^[**23: 15** Un siclo equivale a unos 10 gramos, por lo que 400 siclos serían unos 4 kg. u 8, 8 libras.]
+^a^[**23:15** Un siclo equivale a unos 10 gramos, por lo que 400 siclos serían unos 4 kg. u 8, 8 libras.]
 
 ^16^ Abraham escuchó a Efrón. Abraham pesó a Efrón la plata que había nombrado al oír a los hijos de Het, cuatrocientos siclos de plata, según el patrón de los mercaderes corrientes. 
 
@@ -586,7 +586,7 @@
 
 ## El criado llega a la casa de Nachôr
 ^22^ Cuando los camellos terminaron de beber, el hombre tomó un anillo de oro de medio siclo de peso,^a^ y dos brazaletes para sus manos de diez siclos de peso de oro, ^23^ y dijo: “¿De quién eres hija? Por favor, dime. ¿Hay sitio en la casa de tu padre para que nos quedemos?” 
-^a^[**24: 22** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
+^a^[**24:22** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
 
 ^24^ Ella le dijo: “Soy hija de Betuel, hijo de Milca, que dio a luz a Nacor”. ^25^ Además, le dijo: “Tenemos paja y alimento suficientes, y espacio para alojarnos”. 
 
@@ -640,7 +640,7 @@
 
 ## Jacob compra la primogenitura de Esaú
 ^29^ Jacob hervía un guiso. Esaú llegó del campo, y estaba hambriento. ^30^ Esaú le dijo a Jacob: “Por favor, aliméntame con un poco de ese guiso rojo, porque estoy hambriento”. Por eso se llamó Edom. ^a^ 
-^a^[**25: 30** “Edom” significa “rojo”.]
+^a^[**25:30** “Edom” significa “rojo”.]
 
 ^31^ Jacob dijo: “Primero, véndeme tu primogenitura”. 
 
@@ -668,7 +668,7 @@
 ^17^ Isaac partió de allí, acampó en el valle de Gerar y vivió allí. 
 
 ^18^ Isaac volvió a cavar los pozos de agua que habían cavado en los días de Abraham, su padre, pues los filisteos los habían detenido después de la muerte de Abraham. Les puso los nombres que su padre les había puesto. ^19^ Los siervos de Isaac cavaron en el valle y encontraron allí un pozo de agua que fluía.^a^ ^20^ Los pastores de Gerar discutieron con los pastores de Isaac, diciendo: “El agua es nuestra”. Así que llamó el nombre del pozo Esek,^b^ porque discutían con él. ^21^ Ellos cavaron otro pozo, y también discutieron por él. Así que lo llamó Sitnah. ^c^ ^22^ Dejó ese lugar y cavó otro pozo. No discutieron por ese. Así que lo llamó Rehobot.^d^ Dijo: “Porque ahora el Señor nos ha hecho un lugar, y seremos fructíferos en la tierra”. 
-^a^[**26: 19** O, fresco.] ^b^[**26: 20** “Esek” significa “contención”.] ^c^[**26: 21** “Sitnah” significa “hostilidad”.] ^d^[**26: 22** “Rehoboth” significa “lugares amplios”.]
+^a^[**26:19** O, fresco.] ^b^[**26:20** “Esek” significa “contención”.] ^c^[**26:21** “Sitnah” significa “hostilidad”.] ^d^[**26:22** “Rehoboth” significa “lugares amplios”.]
 
 ^23^ De allí subió a Beerseba. ^24^ Esa misma noche se le apareció el Señor y le dijo: “Yo soy el Dios de Abraham, tu padre. No temas, porque yo estoy contigo y te bendeciré y multiplicaré tu descendencia por amor a mi siervo Abraham.” 
 
@@ -682,7 +682,7 @@
 ^28^ Dijeron: “Vimos claramente que el Señor estaba con ustedes. Dijimos: ‘Que haya ahora un juramento entre nosotros, incluso entre nosotros y vosotros, y hagamos un pacto con vosotros, ^29^ de que no nos haréis ningún daño, como no os hemos tocado, y como no os hemos hecho más que el bien, y os hemos despedido en paz.’ Ahora sois los benditos de Yahvé”. 
 
 ^30^ Les hizo un banquete, y comieron y bebieron. ^31^ Se levantaron por la mañana y se juraron mutuamente. Isaac los despidió, y ellos se alejaron de él en paz. ^32^ El mismo día, los siervos de Isaac vinieron y le contaron sobre el pozo que habían cavado, y le dijeron: “Hemos encontrado agua”. ^33^ Lo llamó “Shibah”.^a^ Por eso el nombre de la ciudad es “Beersheba”^b^ hasta el día de hoy. ^c^ 
-^a^[**26: 33** Shibah significa “juramento” o “siete”.] ^b^[**26: 33** Beersheba significa “pozo del juramento” o “pozo de los siete”] ^c^[**26:33** Gén 21,31]
+^a^[**26:33** Shibah significa “juramento” o “siete”.] ^b^[**26:33** Beersheba significa “pozo del juramento” o “pozo de los siete”] ^c^[**26:33** Gén 21,31]
 
 ## Esaú se casa con dos mujeres hititas en contra de la voluntad de sus padres
 ^34^ Cuando Esaú tenía cuarenta años, tomó por esposa a Judit, hija de Beeri el hitita, y a Basemat, hija de Elón el hitita. ^a^ 
@@ -831,7 +831,7 @@
 
 ## Rachêl cresce madre de José
 ^22^ Dios se acordó de Raquel, la escuchó y le abrió el vientre. ^a^ ^23^ Concibió, dio a luz un hijo y dijo: “Dios ha quitado mi afrenta”. ^b^ ^24^ Le puso el nombre de José,^c^ diciendo: “Que Yahvé me añada otro hijo”.
-^a^[**30:22** 1Sam 1,19] ^b^[**30:23** Is 4,1; Luc 1,25] ^c^[**30: 24** José significa “puede añadir”.]
+^a^[**30:22** 1Sam 1,19] ^b^[**30:23** Is 4,1; Luc 1,25] ^c^[**30:24** José significa “puede añadir”.]
 
 ## El nuevo pacto de servicio de Jacob con Labán
 ^25^ Cuando Raquel dio a luz a José, Jacob dijo a Labán: “Despídeme para que me vaya a mi lugar y a mi país. ^26^ Dame mis esposas y mis hijos por los que te he servido, y déjame ir; porque tú conoces mi servicio con el que te he servido.” ^a^ 
@@ -868,7 +868,7 @@
 
 ## La fuga de Jacob y la persecución de Labán
 ^17^ Entonces Jacob se levantó y puso a sus hijos y a sus mujeres sobre los camellos, ^18^ y se llevó todo su ganado y todas sus posesiones que había reunido, incluyendo el ganado que había ganado en Paddán Aram, para ir a Isaac, su padre, a la tierra de Canaán. ^19^ Labán había ido a esquilar sus ovejas, y Raquel robó los terafines^a^ que eran de su padre. 
-^a^[**31: 19** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
+^a^[**31:19** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
 
 ^20^ Jacob engañó a Labán el sirio, pues no le dijo que estaba huyendo. ^21^ Así que huyó con todo lo que tenía. Se levantó, pasó el río y puso su rostro en dirección al monte de Galaad. 
 
@@ -893,12 +893,12 @@
 
 ^45^ Jacob tomó una piedra y la puso como pilar. ^46^ Jacob dijo a sus parientes: “Recojan piedras”. Tomaron piedras e hicieron un montón. Comieron allí junto al montón. ^47^ Labán lo llamó Jegar Sahadutha,^a^ pero Jacob lo llamó Galeed. ^b^ ^48^ Labán dijo: “Este montón es testigo entre tú y yo hoy”. Por eso se llamó Galeed ^c^ ^49^ y Mizpa, porque dijo: “Yahvé vela entre mí y tú, cuando estamos ausentes el uno del otro. ^50^ Si afliges a mis hijas, o si tomas esposas además de mis hijas, ningún hombre está con nosotros; he aquí que Dios es testigo entre mí y tú.” ^51^ Labán dijo a Jacob: “Mira este montón y mira la columna que he puesto entre mí y tú. ^52^ Que este montón sea testigo, y la columna sea testigo, de que yo no pasaré por encima de este montón para ti, y de que tú no pasarás por encima de este montón y de esta columna para mí, para hacer daño. ^53^ El Dios de Abraham y el Dios de Nacor, el Dios de su padre, juzguen entre nosotros”. Entonces Jacob juró por el temor de su padre, Isaac. ^54^ Jacob ofreció un sacrificio en el monte, y llamó a sus parientes para que comieran pan. Comieron pan y se quedaron toda la noche en el monte. ^d^ 
 ^55^ Al amanecer, Labán se levantó, besó a sus hijos y a sus hijas y los bendijo. Labán partió y regresó a su lugar.
-^a^[**31: 47** “Jegar Sahadutha” significa “Montón de Testigos” en arameo.] ^b^[**31: 47** “Galeed” significa “Montón de Testigos” en hebreo.] ^c^[**31:48** Jos 22,27; Jos 24,27] ^d^[**31:54** Gén 31,42]
+^a^[**31:47** “Jegar Sahadutha” significa “Montón de Testigos” en arameo.] ^b^[**31:47** “Galeed” significa “Montón de Testigos” en hebreo.] ^c^[**31:48** Jos 22,27; Jos 24,27] ^d^[**31:54** Gén 31,42]
 
 # 32
 ## Jacob envía mensajeros a Esaú
 ^1^ Jacob siguió su camino, y los ángeles de Dios salieron a su encuentro. ^2^ Al verlos, Jacob dijo: “Este es el ejército de Dios”. Llamó el nombre de aquel lugar Mahanaim. ^a^ 
-^a^[**32: 2** “Mahanaim” significa “dos campamentos”.]
+^a^[**32:2** “Mahanaim” significa “dos campamentos”.]
 
 ^3^ Jacob envió mensajeros delante de él a Esaú, su hermano, a la tierra de Seir, el campo de Edom. ^4^ Les ordenó diciendo: “Esto es lo que le diréis a mi señor Esaú: ‘Esto es lo que dice tu siervo, Jacob. He vivido como extranjero con Labán, y me he quedado hasta ahora. ^a^ ^5^ Tengo ganado, asnos, rebaños, siervos y siervas. He enviado a decírselo a mi señor, para que encuentre gracia ante tus ojos”. ^6^ Los mensajeros regresaron a Jacob diciendo: “Hemos venido a ver a tu hermano Esaú. Viene a tu encuentro, y cuatrocientos hombres están con él”. ^7^ Entonces Jacob tuvo mucho miedo y se angustió. Dividió a la gente que estaba con él, junto con los rebaños, las manadas y los camellos, en dos grupos. ^8^ Dijo: “Si Esaú llega a una de las compañías y la golpea, la compañía que queda escapará”.
 ^a^[**32:4** Gén 36,8]
@@ -925,7 +925,7 @@
 
 ^30^ Jacob llamó el nombre del lugar Peniel;^a^ porque dijo: “He visto a Dios cara a cara, y mi vida se ha conservado.” ^b^ ^31^ Al pasar por Peniel, el sol se puso sobre él, y cojeó a causa de su muslo. ^c^ 
 ^32^ Por eso los hijos de Israel no comen el tendón de la cadera, que está en el hueco del muslo, hasta el día de hoy, porque tocó el hueco del muslo de Jacob en el tendón de la cadera.
-^a^[**32: 30** Peniel significa “rostro de Dios”.] ^b^[**32:30** Jue 13,17-18] ^c^[**32:31** Éxod 33,20]
+^a^[**32:30** Peniel significa “rostro de Dios”.] ^b^[**32:30** Jue 13,17-18] ^c^[**32:31** Éxod 33,20]
 
 # 33
 ## La reconciliación de Jacob con Esaú
@@ -954,10 +954,10 @@
 
 ## Jacob se traslada a Succoth y se instala con Sichêm
 ^17^ Jacob viajó a Succoth, se construyó una casa e hizo refugios para su ganado. Por eso el nombre del lugar se llama Sucot. ^a^ 
-^a^[**33: 17** succoth significa refugios o cabinas.]
+^a^[**33:17** succoth significa refugios o cabinas.]
 
 ^18^ Jacob llegó en paz a la ciudad de Siquem, que está en la tierra de Canaán, cuando venía de Paddán Aram; y acampó ante la ciudad. ^19^ Compró la parcela donde había tendido su tienda, de mano de los hijos de Hamor, padre de Siquem, por cien monedas. ^a^ ^20^ Levantó allí un altar y lo llamó El Elohe Israel. ^b^ ^c^ 
-^a^[**33:19** Jos 24,32] ^b^[**33: 20** El Elohe Israel significa “Dios, el Dios de Israel” o “El Dios de Israel es poderoso”.] ^c^[**33:20** Gén 12,7-8]
+^a^[**33:19** Jos 24,32] ^b^[**33:20** El Elohe Israel significa “Dios, el Dios de Israel” o “El Dios de Israel es poderoso”.] ^c^[**33:20** Gén 12,7-8]
 
 # 34
 ## La ofensa de Sichêm contra Dina
@@ -974,7 +974,7 @@
 
 ## La demanda de los hijos de Jacob es aceptada por los sichêmitas
 ^13^ Los hijos de Jacob respondieron a Siquem y a su padre Hamor con engaño cuando hablaron, porque había mancillado a Dina, su hermana, ^14^ y les dijeron: “No podemos hacer esto, entregar a nuestra hermana a un incircunciso; porque eso es un reproche para nosotros. ^15^ Sólo con esta condición os consentiremos. Si sois como nosotros, que todo varón de vosotros sea circuncidado, ^16^ entonces os daremos nuestras hijas; y tomaremos vuestras hijas para nosotros, y moraremos con vosotros, y seremos un solo pueblo. ^17^ Pero si no nos escucháis y os circuncidáis, entonces tomaremos a nuestra hermana,^a^ y nos iremos”. 
-^a^[**34: 17** El hebreo tiene, literalmente, “hija”]
+^a^[**34:17** El hebreo tiene, literalmente, “hija”]
 
 ^18^ Sus palabras agradaron a Hamor y a Siquem, hijo de Hamor. ^19^ El joven no esperó para hacer esto, porque se había deleitado en la hija de Jacob, y fue honrado sobre toda la casa de su padre. ^20^ Hamor y Siquem, su hijo, llegaron a la puerta de su ciudad, y hablaron con los hombres de su ciudad, diciendo: ^21^ “Estos hombres son pacíficos con nosotros. Por lo tanto, déjenlos vivir en la tierra y comerciar en ella. Porque he aquí que la tierra es suficientemente grande para ellos. Tomemos a sus hijas para nosotros como esposas, y démosles nuestras hijas. ^22^ Sólo con esta condición los hombres consentirán en vivir con nosotros, para ser un solo pueblo, si todo varón de entre nosotros se circuncida, como ellos se circuncidan. ^23^ ¿No será nuestro su ganado y sus posesiones y todos sus animales? Sólo démosles nuestro consentimiento, y ellos habitarán con nosotros”. 
 
@@ -1013,7 +1013,7 @@
 ^16^ Viajaron desde Betel. Todavía faltaba una distancia para llegar a Efraín, y Raquel estaba de parto. Tuvo un duro parto. ^17^ Cuando estaba de parto, la partera le dijo: “No temas, porque ahora tendrás otro hijo.” 
 
 ^18^ Cuando su alma partió (pues murió), le puso el nombre de Benoni,^a^ pero su padre le puso el nombre de Benjamín. ^b^ ^19^ Raquel murió y fue enterrada en el camino de Efrata (también llamada Belén). ^c^ ^20^ Jacob levantó una columna sobre su tumba. El mismo es el pilar de la tumba de Raquel hasta el día de hoy.
-^a^[**35: 18** “Benoni” significa “hijo de mi problema”.] ^b^[**35: 18** “Benjamín” significa “hijo de mi mano derecha”.] ^c^[**35:19** Miq 5,1]
+^a^[**35:18** “Benoni” significa “hijo de mi problema”.] ^b^[**35:18** “Benjamín” significa “hijo de mi mano derecha”.] ^c^[**35:19** Miq 5,1]
 
 ## La indignación de Rubens; Los doce hijos de Jacob; su regreso a Hebrón; Muerte y entierro de Isaac
 ^21^ Israel viajó y extendió su tienda más allá de la torre de Eder. ^22^ Mientras Israel vivía en esa tierra, Rubén fue y se acostó con Bilhá, la concubina de su padre, e Israel se enteró. Los hijos de Jacob eran doce. ^a^ 
@@ -1081,7 +1081,7 @@
 ## El dolor de Jacob; José vendido a Potifar en Egipto
 ^33^ Lo reconoció y dijo: “Es la túnica de mi hijo. Un animal malvado lo ha devorado. Sin duda, José está despedazado”. ^a^ ^34^ Jacob se rasgó las vestiduras, se puso tela de saco en la cintura y lloró a su hijo durante muchos días. ^b^ 
 ^35^ Todos sus hijos y todas sus hijas se levantaron para consolarlo, pero él se negó a ser consolado. Dijo: “Porque bajaré al Seol^c^ a mi hijo, de luto”. Su padre lloró por él. ^36^ Los madianitas lo vendieron a Egipto a Potifar, un oficial del Faraón, el capitán de la guardia.
-^a^[**37:33** Gén 37,20] ^b^[**37:34** Gén 37,29] ^c^[**37: 35** El Seol es el lugar de los muertos.]
+^a^[**37:33** Gén 37,20] ^b^[**37:34** Gén 37,29] ^c^[**37:35** El Seol es el lugar de los muertos.]
 
 # 38
 ## Los hijos de Juda y Thamar
@@ -1109,7 +1109,7 @@
 ## Thamar da a luz a los gemelos Pérez y Serah
 ^27^ En el tiempo de su parto, he aquí que había gemelos en su seno. ^28^ Cuando dio a luz, uno de ellos sacó una mano, y la partera tomó y ató un hilo de grana en su mano, diciendo: “Este salió primero.” ^29^ Al retirar la mano, he aquí que su hermano salió, y ella le dijo: “¿Por qué te has hecho una brecha?” Por eso se llamó Pérez. ^a^ ^b^ 
 ^30^ Después salió su hermano, que tenía el hilo escarlata en la mano, y se llamó Zerah. ^c^
-^a^[**38: 29** Pérez significa “romper”.] ^b^[**38:29** Mat 1,3] ^c^[**38: 30** Zerah significa “escarlata” o “brillo”.]
+^a^[**38:29** Pérez significa “romper”.] ^b^[**38:29** Mat 1,3] ^c^[**38:30** Zerah significa “escarlata” o “brillo”.]
 
 # 39
 ## José en la casa de Potifar
@@ -1181,7 +1181,7 @@
 
 ## Medidas de José durante los siete años fértiles; el nacimiento de sus dos hijos
 ^46^ José tenía treinta años cuando se presentó ante el Faraón, rey de Egipto. José salió de la presencia del Faraón y recorrió toda la tierra de Egipto. ^47^ En los siete años de abundancia, la tierra produjo en abundancia. ^48^ Recogió toda la comida de los siete años que había en la tierra de Egipto, y guardó la comida en las ciudades. En cada ciudad almacenó alimentos de los campos que rodeaban la ciudad. ^49^ José acumuló grano como la arena del mar, mucho, hasta que dejó de contarlo, porque no tenía número. ^50^ A José le nacieron dos hijos antes de que llegara el año del hambre, que le dio a luz Asenat, hija de Potifera, sacerdote de On. ^51^ José llamó al primogénito Manasés,^a^ “Porque”, dijo, “Dios me ha hecho olvidar todo mi trabajo y toda la casa de mi padre.” ^52^ El nombre del segundo, lo llamó Efraín:^b^ “Porque Dios me ha hecho fructificar en la tierra de mi aflicción.” 
-^a^[**41: 51** “Manasés” suena como el hebreo para “olvidar”.] ^b^[**41: 52** “Efraín” suena como el hebreo para “dos veces fructífero”.]
+^a^[**41:51** “Manasés” suena como el hebreo para “olvidar”.] ^b^[**41:52** “Efraín” suena como el hebreo para “dos veces fructífero”.]
 
 ## Los siete años estériles y las ventas de cereales de José durante la hambruna
 ^53^ Los siete años de abundancia que hubo en la tierra de Egipto llegaron a su fin. ^54^ Comenzaron a llegar los siete años de hambre, tal como había dicho José. Hubo hambre en todas las tierras, pero en toda la tierra de Egipto hubo pan. ^55^ Cuando toda la tierra de Egipto estaba hambrienta, el pueblo clamó al Faraón por pan, y el Faraón dijo a todos los egipcios: “Vayan a José. Haced lo que él os diga”. ^56^ El hambre se extendía por toda la superficie de la tierra. José abrió todos los almacenes y vendió a los egipcios. El hambre era grave en la tierra de Egipto. ^57^ Todos los países vinieron a Egipto, a José, para comprar grano, porque el hambre era grave en toda la tierra.
@@ -1220,7 +1220,7 @@
 ^37^ Rubén habló a su padre diciendo: “Mata a mis dos hijos si no te lo traigo. Confíalo a mi cuidado, y te lo traeré de nuevo”. 
 
 ^38^ Dijo: “Mi hijo no bajará con vosotros, pues su hermano ha muerto y sólo queda él. Si le ocurre algún daño en el camino por el que vas, entonces harás descender mis canas con dolor al Seol”. ^a^
-^a^[**42: 38** El Seol es el lugar de los muertos.]
+^a^[**42:38** El Seol es el lugar de los muertos.]
 
 # 43
 ## Segundo viaje de los hermanos de José a Egipto con Benjamín
@@ -1278,7 +1278,7 @@
 
 ^18^ Entonces Judá se acercó a él y le dijo: “Oh, señor mío, por favor, deja que tu siervo hable una palabra en los oídos de mi señor, y no dejes que tu ira arda contra tu siervo, porque eres como Faraón. ^19^ Mi señor preguntó a sus siervos, diciendo: “¿Tenéis padre o hermano?” ^20^ Dijimos a mi señor: “Tenemos un padre, un anciano, y un hijo de su edad, un pequeño; y su hermano ha muerto, y sólo queda él de su madre; y su padre lo quiere. ^21^ Dijiste a tus siervos: ‘Tráiganlo a mí, para que ponga mis ojos en él’. ^22^ Dijimos a mi señor: ‘El muchacho no puede dejar a su padre, pues si lo dejara, su padre moriría’. ^23^ Dijiste a tus siervos: Si tu hermano menor no baja contigo, no verás más mi rostro’. ^a^ ^24^ Cuando subimos donde tu siervo mi padre, le contamos las palabras de mi señor. ^25^ Nuestro padre dijo: ‘Vuelve a comprarnos un poco de comida’. ^26^ Nosotros dijimos: ‘No podemos bajar. Si nuestro hermano menor está con nosotros, entonces bajaremos; porque no podremos ver el rostro del hombre, a menos que nuestro hermano menor esté con nosotros.’ ^27^ Tu siervo, mi padre, nos dijo: ‘Ustedes saben que mi esposa me dio dos hijos. ^28^ Uno salió de mí, y dije: “Seguramente está despedazado”; y no lo he vuelto a ver. ^29^ Si me quitan a éste también, y le sucede algún daño, harán descender mis canas con dolor al Seol.’ ^b^ ^c^ 
 ^30^ Ahora, pues, cuando vaya a ver a tu siervo mi padre, y el muchacho no esté con nosotros, ya que su vida está ligada a la del muchacho, ^31^ sucederá que cuando vea que el muchacho ya no está, morirá. Tus siervos harán descender las canas de tu siervo, nuestro padre, con dolor al Seol. ^d^ ^32^ Porque tu siervo se hizo garante del muchacho ante mi padre, diciendo: ‘Si no te lo traigo, entonces cargaré con la culpa ante mi padre para siempre’. ^33^ Ahora, pues, por favor, deja que tu siervo se quede en lugar del muchacho, el esclavo de mi señor; y deja que el muchacho suba con sus hermanos. ^34^ Porque ¿cómo voy a subir a mi padre si el muchacho no está conmigo? para que no vea el mal que le sobrevendrá a mi padre”.
-^a^[**44:23** Gén 42,15; Gén 43,3-5] ^b^[**44: 29** El Seol es el lugar de los muertos.] ^c^[**44:29** Gén 42,38] ^d^[**44: 31** El Seol es el lugar de los muertos.]
+^a^[**44:23** Gén 42,15; Gén 43,3-5] ^b^[**44:29** El Seol es el lugar de los muertos.] ^c^[**44:29** Gén 42,38] ^d^[**44:31** El Seol es el lugar de los muertos.]
 
 # 45
 ## José se revela a sus hermanos

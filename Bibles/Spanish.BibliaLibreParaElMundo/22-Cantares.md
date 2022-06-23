@@ -10,7 +10,7 @@
 
 ## Dulce charla de amor
 ^9^ Te he comparado, mi amor, a un corcel en los carros del Faraón. ^10^ Tus mejillas son hermosas con los pendientes, su cuello con cadenas de joyas. Amigos ^11^ Te haremos pendientes de oro, con tachuelas de plata. Amado ^12^ Mientras el rey se sentaba a su mesa, mi perfume extendió su fragancia. ^13^ Mi amado es para mí un saquito de mirra, que se encuentra entre mis pechos. ^14^ Mi amado es para mí un racimo de flores de hennade los viñedos de En Gedi. Amante ^15^ He aquí,^a^ que eres hermosa, mi amor. Contempla, eres hermosa. Tus ojos son como palomas. Amado ^b^ ^16^ He aquí que eres hermosa, amada mía, sí, agradable; y nuestro sofá es verde. Amante ^c^ ^17^ Las vigas de nuestra casa son cedros. Nuestras vigas son abetos.
-^a^[**1: 15** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**1:15** Cant 2,14; Cant 4,1; Cant 7,1-7; Cant 6,4] ^c^[**1:16** Cant 5,16]
+^a^[**1:15** “He aquí”, de “הִנֵּה”, significa mirar, fijarse, observar, ver o contemplar. Se utiliza a menudo como interjección.] ^b^[**1:15** Cant 2,14; Cant 4,1; Cant 7,1-7; Cant 6,4] ^c^[**1:16** Cant 5,16]
 
 # 2
 ## Cantos y compromiso
@@ -88,10 +88,10 @@ Amigos ^1^ ¿Dónde ha ido tu amado, la más bella de las mujeres? ¿Dónde se h
 
 ## En el destino en la casa del esposo
 ^5^ ¿Quién es este que sube del desierto, ¿apoyándose en su amada? AmadoBajo el manzano te desperté. Allí te concibió tu madre. Allí estaba de parto y te dio a luz. ^6^ Ponme como sello en tu corazón, como un sello en el brazo; porque el amor es fuerte como la muerte. Los celos son tan crueles como el Seol. ^a^ Sus destellos son destellos de fuego, una llama muy de Yahvé. ^b^ ^7^ Muchas aguas no pueden apagar el amor, tampoco pueden ahogarla las inundaciones. Si un hombre diera toda la riqueza de su casa por amor, sería totalmente despreciado. Hermanos 
-^a^[**8: 6** El Seol es el lugar de los muertos. ] ^b^[**8: 6** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
+^a^[**8:6** El Seol es el lugar de los muertos. ] ^b^[**8:6** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.]
 
 ## Canción de la hermana pequeña que frustró los planes de los codiciosos hermanos
 ^8^ Tenemos una hermana pequeña. No tiene pechos. ¿Qué haremos por nuestra hermanaen el día en que se va a hablar por ella? ^9^ Si es una pared, construiremos en ella una torreta de plata. Si es una puerta, la encerraremos con tablas de cedro. Amado ^10^ Soy un muro, y mis pechos como torres, entonces estaba en sus ojos como quien encuentra la paz. 
 
 ## Canción de los dos viñedos
-^11^ Salomón tenía una viña en Baal Hamón. Arrendó el viñedo a los cuidadores. Cada uno debía traer mil siclos^[**8: 11** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 1000 siclos equivalen a unos 10 kilogramos o a unas 22 libras.] de plata por su fruto. ^12^ Mi propia viña está delante de mí. Los mil son para ti, Salomón, doscientos para los que cuidan sus frutos. Amante ^13^ Tú que habitas en los jardines, con los amigos que te acompañan, ¡déjame escuchar tu voz! Amado ^14^ ¡Vengalejos, mi amado! Sé como una gacela o un joven ciervo en las montañas de las especias. 
+^11^ Salomón tenía una viña en Baal Hamón. Arrendó el viñedo a los cuidadores. Cada uno debía traer mil siclos^[**8:11** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas, por lo que 1000 siclos equivalen a unos 10 kilogramos o a unas 22 libras.] de plata por su fruto. ^12^ Mi propia viña está delante de mí. Los mil son para ti, Salomón, doscientos para los que cuidan sus frutos. Amante ^13^ Tú que habitas en los jardines, con los amigos que te acompañan, ¡déjame escuchar tu voz! Amado ^14^ ¡Vengalejos, mi amado! Sé como una gacela o un joven ciervo en las montañas de las especias. 

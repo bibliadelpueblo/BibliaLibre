@@ -209,7 +209,7 @@
 ^1^ Yahvé habló a Moisés y a Aarón, diciéndoles: ^2^ “Hablad a los hijos de Israel, diciendo: “Estos son los seres vivos que podéis comer de entre todos los animales que hay en la tierra. ^3^ Todo lo que tiene pezuña hendida y rumia entre los animales, eso podéis comer. 
 
 ^4^ “‘Sin embargo, no comeréis de los que rumian, ni de los que parten la pezuña: el camello, porque rumia pero no tiene la pezuña partida, es inmundo para vosotros. ^5^ El huracán,^a^ porque mastica el bolo alimenticio, pero no tiene la pezuña partida, es impuro para ti. ^6^ La liebre, por masticar el bolo alimenticio, pero sin tener la pezuña abierta, es impura para ustedes. ^7^ El cerdo, porque tiene la pezuña hendida y es de pezuña hendida, pero no rumia, es inmundo para ti. ^8^ No comerás su carne. No tocarás sus cadáveres. Son impuros para ti. 
-^a^[**11: 5** 1 efa son unos 22 litros o unos 2/3 de una fanega]
+^a^[**11:5** 1 efa son unos 22 litros o unos 2/3 de una fanega]
 
 ^9^ “‘Puedes comer de todo lo que está en las aguas: todo lo que tiene aletas y escamas en las aguas, en los mares y en los ríos, eso puedes comer. ^10^ Todo lo que no tiene aletas y escamas en los mares y ríos, todo lo que se mueve en las aguas, y todos los seres vivos que están en las aguas, son una abominación para ti, ^11^ y los detestarás. No comerás su carne, y aborrecerás sus cadáveres. ^12^ Todo lo que no tenga aletas ni escamas en las aguas es una abominación para ti. 
 
@@ -294,7 +294,7 @@
 
 ## Los sacrificios y costumbres del octavo día
 ^10^ “Al octavo día tomará dos corderos machos sin defecto, una oveja de un año sin defecto, tres décimas de efa de harina fina para la ofrenda de harina, mezclada con aceite, y un tronco^a^ de aceite. ^11^ El sacerdote que lo purifique pondrá al hombre que va a ser purificado, y esas cosas, delante de Yahvé, a la puerta de la Tienda del Encuentro. 
-^a^[**14: 10** un tronco es una medida de líquido de unos 300 ml o 10 onzas]
+^a^[**14:10** un tronco es una medida de líquido de unos 300 ml o 10 onzas]
 
 ^12^ “El sacerdote tomará uno de los corderos machos y lo ofrecerá como ofrenda por el pecado, con el tronco de aceite, y los agitará como ofrenda mecida ante Yahvé. ^13^ Matará el cordero macho en el lugar donde se mata el sacrificio por el pecado y el holocausto, en el lugar del santuario; porque así como el sacrificio por el pecado es del sacerdote, también lo es el sacrificio por la culpa. Es algo muy sagrado. ^a^ ^14^ El sacerdote tomará un poco de la sangre de la ofrenda por el pecado y la pondrá en la punta de la oreja derecha del que va a ser purificado, en el pulgar de su mano derecha y en el dedo gordo de su pie derecho. ^b^ ^15^ El sacerdote tomará un poco del tronco de aceite y lo echará en la palma de su mano izquierda. ^16^ El sacerdote mojará su dedo derecho en el aceite que tiene en su mano izquierda, y rociará un poco del aceite con su dedo siete veces delante de Yahvé. ^c^ ^17^ El sacerdote pondrá un poco del resto del aceite que tiene en su mano sobre la punta de la oreja derecha del que va a ser purificado, y sobre el pulgar de su mano derecha, y sobre el dedo gordo de su pie derecho, sobre la sangre de la ofrenda por la culpa. ^18^ El resto del aceite que tiene el sacerdote en su mano lo pondrá sobre la cabeza del que va a ser purificado, y el sacerdote hará expiación por él ante Yahvé. 
 ^a^[**14:13** Lev 7,7] ^b^[**14:14** Lev 8,23] ^c^[**14:16** Lev 4,6; Lev 4,17]
@@ -303,7 +303,7 @@
 
 ## Reemplazo de la ofrenda por el pecado y el holocausto por los pobres
 ^21^ “Si es pobre y no puede pagar tanto, tomará un cordero macho como ofrenda por la culpa, para hacer expiación por él, y la décima parte de un efa^a^ de harina fina mezclada con aceite para una ofrenda de harina, y un tronco^b^ de aceite; ^22^ y dos tórtolas, o dos pichones de paloma, como pueda pagar; y una será una ofrenda por el pecado, y la otra un holocausto. 
-^a^[**14: 21** 1 efa equivale a 22 litros o a 2/3 de una fanega] ^b^[**14: 21** un tronco es una medida de líquido de unos 300 ml o 10 onzas]
+^a^[**14:21** 1 efa equivale a 22 litros o a 2/3 de una fanega] ^b^[**14:21** un tronco es una medida de líquido de unos 300 ml o 10 onzas]
 
 ^23^ “Al octavo día los traerá para su purificación al sacerdote, a la puerta de la Tienda del Encuentro, ante Yahvé. ^24^ El sacerdote tomará el cordero de la ofrenda por la culpa y el tronco de aceite, y el sacerdote los agitará como ofrenda mecida ante Yahvé. ^25^ Matará el cordero de la ofrenda por la culpa. El sacerdote tomará un poco de la sangre de la ofrenda por la culpa y la pondrá en la punta de la oreja derecha del que va a ser purificado, en el pulgar de su mano derecha y en el dedo gordo de su pie derecho. ^26^ El sacerdote verterá un poco del aceite en la palma de su mano izquierda; ^27^ y el sacerdote rociará con su dedo derecho un poco del aceite que tiene en su mano izquierda siete veces ante Yahvé. ^28^ Luego el sacerdote pondrá un poco del aceite que tiene en su mano sobre la punta de la oreja derecha del que va a ser purificado, y sobre el pulgar de su mano derecha, y sobre el dedo gordo de su pie derecho, en el lugar de la sangre de la ofrenda por la culpa. ^29^ El resto del aceite que está en la mano del sacerdote lo pondrá sobre la cabeza del que va a ser purificado, para hacer expiación por él ante Yahvé. ^30^ Ofrecerá una de las tórtolas o de los pichones de paloma, lo que pueda pagar, ^31^ de la clase que pueda pagar, la una para la ofrenda por el pecado y la otra para el holocausto, con la ofrenda. El sacerdote hará la expiación por el que ha de ser purificado ante Yahvé”. 
 
@@ -508,7 +508,7 @@
 ^a^[**19:15** Éxod 23,6; Deut 16,19-20]
 
 ^16^ “‘No irás por ahí como calumniador entre tu pueblo. “‘No pondrás en peligro la vida^a^ de tu prójimo. Yo soy Yahvé. 
-^a^[**19: 16** literalmente, “sangre”]
+^a^[**19:16** literalmente, “sangre”]
 
 ^17^ “‘No odiarás a tu hermano en tu corazón. Reprenderás a tu prójimo y no cargarás con el pecado por su culpa. ^a^ 
 ^a^[**19:17** Sal 141,5; Mat 18,15]
@@ -523,7 +523,7 @@
 ^20^ “‘Si un hombre se acuesta carnalmente con una mujer que es una chica esclava, comprometida para casarse con otro hombre, y no se rescata o se le da la libertad; serán castigados. No serán condenados a muerte, porque ella no era libre. ^21^ Traerá su ofrenda por la culpa a Yahvé, a la puerta de la Tienda del Encuentro, un carnero como ofrenda por la culpa. ^22^ El sacerdote hará expiación por él con el carnero de la ofrenda por la culpa ante Yahvé, por el pecado que haya cometido; y el pecado que haya cometido le será perdonado. 
 
 ^23^ “‘Cuando llegues a la tierra y hayas plantado toda clase de árboles para comer, entonces contarás sus frutos como prohibidos.^a^ Durante tres años te estará prohibido. No se podrá comer. ^24^ Pero al cuarto año todo su fruto será sagrado, para alabar al Señor. ^25^ En el quinto año comerás su fruto, para que te dé sus frutos. Yo soy el Señor, tu Dios. 
-^a^[**19: 23** literalmente, “incircuncisos”]
+^a^[**19:23** literalmente, “incircuncisos”]
 
 ^26^ “‘No comerás ninguna carne con la sangre todavía en ella. No usarás encantamientos, ni practicarás la hechicería. ^a^ 
 ^a^[**19:26** Lev 3,17]
@@ -546,14 +546,14 @@
 ^33^ “‘Si un extranjero vive como forastero con vosotros en vuestra tierra, no le haréis mal. ^34^ El extranjero que viva como forastero con ustedes será para ustedes como el nativo entre ustedes, y lo amarán como a ustedes mismos; porque ustedes vivieron como extranjeros en la tierra de Egipto. Yo soy Yahvé, tu Dios. 
 
 ^35^ “‘No harás injusticia en el juicio, en las medidas de longitud, de peso o de cantidad. ^a^ ^36^ Tendrás balanzas justas, pesas justas, un efa justo,^b^ y un hin justo.^c^ Yo soy el Señor, tu Dios, que te sacó de la tierra de Egipto. 
-^a^[**19:35** Deut 25,13-16; Prov 11,1] ^b^[**19: 36** 1 efa equivale a 22 litros o a 2/3 de una fanega] ^c^[**19: 36** Una hin es de unos 6, 5 litros o 1, 7 galones.]
+^a^[**19:35** Deut 25,13-16; Prov 11,1] ^b^[**19:36** 1 efa equivale a 22 litros o a 2/3 de una fanega] ^c^[**19:36** Una hin es de unos 6, 5 litros o 1, 7 galones.]
 
 ^37^ “‘Observarás todos mis estatutos y todas mis ordenanzas, y los pondrás en práctica. Yo soy Yahvé’”.
 
 # 20
 ## Disposiciones penales especialmente para las delitos prohibidos
 ^1^ Yahvé habló a Moisés, diciendo: ^2^ “Además, dirás a los hijos de Israel: ‘Cualquiera de los hijos de Israel, o de los extranjeros que vivan como forasteros en Israel, que entregue alguno de sus vástagos^a^ a Moloc, morirá. El pueblo del país apedreará a esa persona con piedras. ^3^ Yo también pondré mi rostro contra esa persona, y la cortaré de entre su pueblo, porque ha dado de su descendencia a Moloc, para profanar mi santuario, y para profanar mi santo nombre. ^4^ Si todos los pueblos de la tierra esconden sus ojos de esa persona cuando da de su descendencia a Moloc, y no le dan muerte, ^5^ entonces yo pondré mi rostro contra ese hombre y contra su familia, y lo cortaré de entre su pueblo, y a todos los que se prostituyen después de él para prostituirse con Moloc. 
-^a^[**20: 2** o, semilla]
+^a^[**20:2** o, semilla]
 
 ^6^ “‘La persona que se vuelve a los que son médiums y magos, para jugar a la prostitución después de ellos, incluso pondré mi cara contra esa persona, y la cortaré de entre su pueblo. ^a^ 
 ^a^[**20:6** Lev 19,31]
@@ -659,11 +659,11 @@
 
 ## Ofreciendo de los primeros frutos
 ^9^ Yahvé habló a Moisés, diciendo: ^10^ “Habla a los hijos de Israel y diles: ‘Cuando hayáis entrado en la tierra que os doy y hayáis recogido su cosecha, traeréis al sacerdote la gavilla de las primicias de vuestra cosecha. ^11^ Él agitará la gavilla ante el Señor, para que sea aceptada por ustedes. Al día siguiente del sábado, el sacerdote la mecerá. ^12^ El día en que agites la gavilla, ofrecerás un cordero macho sin defecto de un año como holocausto a Yahvé. ^13^ La ofrenda con él será de dos décimas de efa^a^ de harina fina mezclada con aceite, ofrenda encendida a Yahvé en olor agradable; y la libación con él será de vino, la cuarta parte de un hin. ^b^ ^14^ No debes comer pan, ni grano tostado, ni grano fresco, hasta este mismo día, hasta que hayas traído la ofrenda de tu Dios. Este es un estatuto para siempre a través de vuestras generaciones en todas vuestras moradas. 
-^a^[**23: 13** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^b^[**23: 13** Una hin es de unos 6, 5 litros o 1, 7 galones.]
+^a^[**23:13** 1 efa equivale a unos 22 litros o a 2/3 de una fanega] ^b^[**23:13** Una hin es de unos 6, 5 litros o 1, 7 galones.]
 
 ## La fiesta de Pentecostés
 ^15^ “‘Contarás desde el día siguiente al sábado, desde el día en que trajiste la gavilla de la ofrenda mecida: se completarán siete sábados. ^a^ ^16^ Al día siguiente del séptimo sábado contarás cincuenta días, y ofrecerás una nueva ofrenda a Yahvé. ^17^ Sacaréis de vuestras moradas dos panes para la ofrenda mecida, hechos de dos décimas de efa^b^ de harina fina. Serán cocidos con levadura, como primicias para Yahvé. ^18^ Con el pan presentarás siete corderos de un año sin defecto, un novillo y dos carneros. Serán un holocausto para Yahvé, con su ofrenda y sus libaciones, una ofrenda encendida, de dulce aroma para Yahvé. ^19^ Ofrecerás un macho cabrío como ofrenda por el pecado, y dos corderos de un año como sacrificio de paz. ^20^ El sacerdote los agitará con el pan de las primicias como ofrenda mecida ante Yavé, junto con los dos corderos. Serán sagrados para Yavé para el sacerdote. ^21^ Ese mismo día proclamarás que habrá una convocatoria sagrada para ti. No harás ningún trabajo regular. Este es un estatuto para siempre en todas vuestras moradas a lo largo de vuestras generaciones. 
-^a^[**23:15** Éxod 23,16; Éxod 34,22; Núm 28,26-31; Deut 16,9-12] ^b^[**23: 17** 1 efa equivale a unos 22 litros o a 2/3 de una fanega]
+^a^[**23:15** Éxod 23,16; Éxod 34,22; Núm 28,26-31; Deut 16,9-12] ^b^[**23:17** 1 efa equivale a unos 22 litros o a 2/3 de una fanega]
 
 ^22^ “‘Cuando recojas la cosecha de tu tierra, no debes segar totalmente en los rincones de tu campo. No debes recoger los restos de tu cosecha. Debes dejarlos para el pobre y para el extranjero. Yo soy Yahvé, tu Dios”. 
 
@@ -676,14 +676,14 @@
 
 ## La fiesta de los tabernáculos
 ^33^ Yahvé habló a Moisés, diciendo: ^34^ “Habla a los hijos de Israel y diles: ‘El día quince de este mes séptimo es la fiesta de las cabañas^a^ durante siete días a Yahvé. ^b^ ^35^ El primer día será una convocatoria sagrada. No harás ningún trabajo regular. ^36^ Durante los siete días ofrecerás a Yahvé una ofrenda encendida. El octavo día será una convocatoria sagrada para ustedes. Ofreceréis a Yahvé una ofrenda encendida. Es una asamblea solemne; no harás ningún trabajo regular.
-^a^[**23: 34** o, fiesta de las tiendas, o Succoth] ^b^[**23:34** Éxod 23,16; Éxod 34,22; Núm 29,12-39; Deut 16,13-15]
+^a^[**23:34** o, fiesta de las tiendas, o Succoth] ^b^[**23:34** Éxod 23,16; Éxod 34,22; Núm 29,12-39; Deut 16,13-15]
 
 ## Finalización del calendario de festivales
 ^37^ “‘Estas son las fiestas señaladas por Yahvé, que proclamarás como convocatorias sagradas, para ofrecer una ofrenda encendida a Yahvé, un holocausto, una ofrenda de comida, un sacrificio y ofrendas de bebida, cada una en su día — ^38^ además de los sábados de Yahvé, y además de tus dones, y además de todos tus votos, y además de todas tus ofrendas voluntarias, que das a Yahvé. 
 
 ## Disposiciones posteriores sobre la fiesta de los tabernáculos
 ^39^ “‘Así pues, el día quince del mes séptimo, cuando hayáis recogido los frutos de la tierra, celebraréis la fiesta de Yahvé durante siete días. El primer día será un descanso solemne, y el octavo día será un descanso solemne. ^40^ El primer día tomarás los frutos de los árboles majestuosos, las ramas de las palmeras, las ramas de los árboles frondosos y los sauces del arroyo; y te alegrarás ante Yavé, tu Dios, durante siete días. ^a^ ^41^ Lo celebrarás como fiesta para Yahvé durante siete días al año. Es un estatuto para siempre a lo largo de vuestras generaciones. La celebrarás en el séptimo mes. ^42^ Viviréis en refugios temporales^b^ durante siete días. Todos los nativos de Israel habitarán en refugios temporales, ^c^ ^43^ para que vuestras generaciones sepan que yo hice habitar a los hijos de Israel en refugios temporales^d^ cuando los saqué de la tierra de Egipto. Yo soy Yahvé, vuestro Dios”. 
-^a^[**23:40** Neh 8,14-16] ^b^[**23: 42** o, cabinas] ^c^[**23: 42** o, cabinas] ^d^[**23: 43** o, cabinas]
+^a^[**23:40** Neh 8,14-16] ^b^[**23:42** o, cabinas] ^c^[**23:42** o, cabinas] ^d^[**23:43** o, cabinas]
 
 ^44^ Así pues, Moisés declaró a los hijos de Israel las fiestas señaladas por Yahvé.
 
@@ -692,7 +692,7 @@
 ^1^ Yahvé habló a Moisés, diciendo: ^2^ “Ordena a los hijos de Israel que te traigan aceite de oliva puro batido para la luz, para hacer arder continuamente una lámpara. ^3^ Fuera del velo del Testimonio, en la Tienda del Encuentro, Aarón la mantendrá en orden desde la tarde hasta la mañana ante Yahvé continuamente. Será un estatuto para siempre a lo largo de vuestras generaciones. ^4^ El mantendrá en orden las lámparas en el candelabro de oro puro ante el Señor continuamente. 
 
 ^5^ “Tomarás harina fina y cocerás con ella doce tortas; dos décimas de efa^a^ irán en una torta. ^6^ Las pondrás en dos hileras, seis en cada hilera, sobre la mesa de oro puro delante de Yahvé. ^b^ ^7^ Pondrás incienso puro en cada hilera, para que sea para el pan un memorial, una ofrenda encendida a Yahvé. ^8^ Cada día de reposo lo pondrá en orden delante de Yavé continuamente. Es un pacto eterno a favor de los hijos de Israel. ^9^ Será para Aarón y sus hijos. Lo comerán en un lugar sagrado, porque es lo más sagrado para él de las ofrendas de Yahvé hechas por fuego por un estatuto perpetuo.”
-^a^[**24: 5** 1 efa son unos 22 litros o unos 2/3 de una fanega] ^b^[**24:6** Éxod 25,30]
+^a^[**24:5** 1 efa son unos 22 litros o unos 2/3 de una fanega] ^b^[**24:6** Éxod 25,30]
 
 ## Castigo por blasfemia, homicidio y lesiones corporales;
 ^10^ El hijo de una mujer israelita, cuyo padre era egipcio, salió entre los hijos de Israel; y el hijo de la mujer israelita y un hombre de Israel se pelearon en el campamento. ^11^ El hijo de la mujer israelita blasfemó el Nombre y maldijo, y lo llevaron a Moisés. Su madre se llamaba Shelomith, hija de Dibri, de la tribu de Dan. ^12^ Lo pusieron en custodia hasta que se les declarara la voluntad de Yavé. ^a^ ^13^ Yahvé habló a Moisés, diciendo: ^14^ “Saca del campamento al que ha maldecido, y que todos los que lo hayan oído pongan sus manos sobre su cabeza, y que toda la congregación lo apedree. ^15^ Hablarás a los hijos de Israel diciendo: “El que maldiga a su Dios cargará con su pecado. ^16^ El que blasfeme el nombre de Yavé, ciertamente morirá. Toda la congregación lo apedreará ciertamente. Tanto el extranjero como el nativo serán condenados a muerte cuando blasfemen el Nombre. 
@@ -787,17 +787,17 @@
 # 27
 ## Votos y su solución
 ^1^ Yahvé habló a Moisés, diciendo: ^2^ “Habla a los hijos de Israel y diles: ‘Cuando un hombre consagre a una persona a Yahvé en un voto, según vuestra valoración, ^3^ vuestra valoración de un varón de veinte a sesenta años será de cincuenta siclos de plata, según el siclo^a^ del santuario. ^4^ Si se trata de una mujer, tu valoración será de treinta siclos. ^5^ Si la persona tiene de cinco a veinte años, tu valoración será de veinte siclos para el varón y de diez siclos para la mujer. ^6^ Si la persona tiene de un mes a cinco años, tu valoración será de cinco siclos de plata para el varón y de tres siclos de plata para la mujer. ^7^ Si la persona es de sesenta años en adelante, si es varón, tu valoración será de quince siclos, y para la mujer de diez siclos. ^8^ Pero si es más pobre que tu valuación, entonces será presentada ante el sacerdote, y éste le asignará un valor. El sacerdote le asignará un valor según su capacidad de pago. 
-^a^[**27: 3** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
+^a^[**27:3** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
 
 ^9^ “‘Si se trata de un animal del que los hombres ofrecen una ofrenda a Yahvé, todo lo que un hombre da de él a Yahvé se convierte en santo. ^10^ No lo alterará, ni lo cambiará, un bien por un mal, o un mal por un bien. Si se cambia un animal por otro, tanto éste como el que se cambia serán santos. ^11^ Si se trata de un animal impuro, del que no se ofrece como ofrenda a Yahvé, entonces pondrá el animal delante del sacerdote; ^12^ y el sacerdote lo evaluará, si es bueno o malo. Según lo evalúe el sacerdote, así será. ^13^ Pero si en verdad lo redime, entonces añadirá la quinta parte de él a su valoración. 
 
 ^14^ “‘Cuando un hombre dedique su casa a ser santa para Yahvé, entonces el sacerdote la evaluará, si es buena o mala. Según la evalúe el sacerdote, así quedará. ^15^ Si el que la dedica quiere redimir su casa, entonces le añadirá la quinta parte del dinero de su evaluación, y será suya. 
 
 ^16^ “‘Si un hombre dedica a Yahvé una parte del campo de su posesión, su valoración será según la semilla de la misma. La siembra de un homer^a^ de cebada se valorará en cincuenta siclos^b^ de plata. ^17^ Si él dedica su campo desde el Año del Jubileo, según tu valoración se mantendrá. ^18^ Pero si dedica su campo después del Jubileo, el sacerdote le contará el dinero según los años que falten para el Año del Jubileo, y se hará una rebaja de tu valoración. ^19^ Si el que dedicó el campo lo rescata, le agregará la quinta parte del dinero de tu valuación, y seguirá siendo suyo. ^20^ Si no quiere rescatar el campo, o si lo ha vendido a otro hombre, ya no se rescatará; ^21^ pero el campo, cuando salga en el jubileo, será sagrado para Yahvé, como campo consagrado. Será propiedad de los sacerdotes. 
-^a^[**27: 16** 1 homer es de unos 220 litros o 6 bushels] ^b^[**27: 16** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
+^a^[**27:16** 1 homer es de unos 220 litros o 6 bushels] ^b^[**27:16** Un siclo equivale a unos 10 gramos o a unas 0, 35 onzas.]
 
 ^22^ “‘Si dedica a Yahvé un campo que ha comprado, que no es del campo de su posesión, ^23^ entonces el sacerdote le calculará el valor de su valoración hasta el Año del Jubileo; y le dará su valoración en ese día, como cosa sagrada para Yahvé. ^24^ En el Año del Jubileo el campo volverá al que lo compró, al que le pertenece la posesión de la tierra. ^a^ ^25^ Todas vuestras valoraciones serán según el siclo del santuario: veinte gerahs^b^ al siclo.
-^a^[**27:24** Lev 25,10] ^b^[**27: 25** Taberah significa “ardor” ]
+^a^[**27:24** Lev 25,10] ^b^[**27:25** Taberah significa “ardor” ]
 
 ## Disposiciones relativas a los primogénitos
 ^26^ “‘Sin embargo, el primogénito entre los animales, que pertenece a Yahvé como primogénito, ningún hombre puede dedicarlo, ya sea un buey o una oveja. Es de Yahvé. ^27^ Si se trata de un animal impuro, lo recomprará según tu valoración, y le añadirá la quinta parte; o si no se redime, se venderá según tu valoración. 
