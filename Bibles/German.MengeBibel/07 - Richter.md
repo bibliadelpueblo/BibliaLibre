@@ -6,7 +6,7 @@
 
 #### a) Kriegszüge und Waffentaten der Judäer in Verbindung mit den Simeoniten
 
- # 1
+# 1
 ^1^Nach Josuas Tode aber fragten die Israeliten beim HERRN an: »Wer von uns soll zuerst gegen die Kanaanäer hinaufziehen, um mit ihnen zu kämpfen?«
 ^2^Der HERR antwortete: »Juda soll hinaufziehen; hiermit gebe ich das Land in seine Gewalt.«
 ^3^Da richtete Juda die Aufforderung an seinen Bruderstamm Simeon: »Ziehe mit mir in das durchs Los mir zugeteilte Gebiet hinauf und laß uns die Kanaanäer gemeinsam bekriegen; dann will auch ich mit dir in deinen Losanteil ziehen.« So zog denn Simeon mit ihm.
@@ -61,7 +61,7 @@
 
 ### 2. Die Strafandrohung des Engels des Herrn gegen Israel wegen des Bruches der Bundespflicht
 
- # 2
+# 2
 ^1^Da kam der Engel des HERRN von Gilgal hinauf nach Bochim<sup title="V.5">&#x2732;</sup> und sprach: »Ich habe euch aus Ägypten hergeführt und euch in das Land gebracht, das ich euren Vätern zugeschworen hatte mit der Verheißung: ›Ich werde meinen Bund mit euch in Ewigkeit nicht brechen!
 ^2^Ihr aber dürft mit den Bewohnern dieses Landes keinen Vertrag schließen, sondern müßt ihre Altäre niederreißen!‹ Doch ihr seid meinem Befehl nicht nachgekommen: was habt ihr da getan?
 ^3^So sage auch ich euch nun: ›Ich werde sie nicht mehr vor euch vertreiben, damit sie euch zu Schlingen<sup title="oder: Bedrängern">&#x2732;</sup> und ihre Götter euch zum Fallstrick werden!‹«
@@ -99,7 +99,7 @@
 
 #### c) Angabe der in Kanaan übriggebliebenen heidnischen Völker, deren Gott sich zur Erprobung und Leitung der Israeliten bediente
 
- # 3
+# 3
 ^1^Folgendes sind aber die Völkerschaften, die der HERR hat weiter bestehen lassen, um durch sie die Israeliten auf die Probe zu stellen, nämlich alle die, welche die sämtlichen Kämpfe um Kanaan nicht mitgemacht hatten –
 ^2^[nur damit die Geschlechter der Israeliten Kenntnis von denselben erhielten, um sie die Kriegsführung zu lehren, und zwar nur die, welche von den früheren Kämpfen nichts erlebt<sup title="oder: kennengelernt hatten">&#x2732;</sup>] –:
 ^3^die fünf Fürsten der Philister, alle Kanaanäer, die Sidonier und Hewiter, die im Libanongebirge wohnen, vom Berge Baal-Hermon an bis in die Gegend von Hamath.
@@ -145,7 +145,7 @@ Als dann aber Othniel, der Sohn des Kenas, gestorben war,
 
 ##### aa) Der König Jabin und sein Heerführer Sisera knechten Israel
 
- # 4
+# 4
 ^1^Als aber die Israeliten nach Ehuds Tode aufs neue taten, was dem HERRN mißfiel,
 ^2^ließ der HERR sie in die Gewalt des kanaanäischen Königs Jabin fallen, der in Hazor regierte; sein Feldhauptmann war Sisera, der in Haroseth-Goim wohnte.
 ^3^Da riefen die Israeliten den HERRN laut um Hilfe an; denn Jabin besaß neunhundert eiserne<sup title="d.h. eisenbeschlagene">&#x2732;</sup> Kriegswagen und bedrückte die Israeliten gewaltsam zwanzig Jahre lang.
@@ -180,7 +180,7 @@ Als dann aber Othniel, der Sohn des Kenas, gestorben war,
 
 ##### dd) Deboras (und Baraks) Siegeslied
 
- # 5
+# 5
 ^1^An jenem Tage sangen Debora und Barak, der Sohn Abinoams, folgendes Lied:
 
 #### Der Leitgedanke und die Aufforderung an die Hörer
@@ -308,7 +308,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ##### aa) Der erneute Abfall des Volkes hat die Knechtung und Ausplünderung durch die Midianiter zur Folge
 
- # 6
+# 6
 ^1^Als dann die Israeliten wiederum taten, was dem HERRN mißfiel, gab der HERR sie sieben Jahre lang in die Gewalt der Midianiter;
 ^2^und die Hand der Midianiter lag schwer auf Israel. Um sich der Midianiter zu erwehren, richteten die Israeliten sich die Schlupfwinkel ein, die sich in den Bergen befinden, und legten die Höhlen und die Bergfesten<sup title="oder: Burgen">&#x2732;</sup> an.
 ^3^Denn sooft die Israeliten gesät hatten, zogen die Midianiter, die Amalekiter und die übrigen Horden des Ostens gegen sie heran,
@@ -365,7 +365,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ##### ee) Gideons Sieg über die Midianiter
 
- # 7
+# 7
 ^1^Da machte sich Jerubbaal, das ist Gideon, in der Frühe mit der gesamten Mannschaft, die bei ihm war, auf den Weg und lagerte sich bei der Quelle Harod, so daß sich das Lager der Midianiter nördlich von ihm in der Ebene nach dem Hügel More hin befand.
 
 ##### ff) Gideons Streitmacht wird durch zweimalige Sichtung auf 300 Mann vermindert
@@ -405,7 +405,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 ^24^Auch hatte Gideon Boten im ganzen Berglande Ephraim umhergesandt mit der Aufforderung: »Kommt herab den Midianitern entgegen und schneidet ihnen das Wasser ab bis Beth-Bara und den Übergang über den Jordan!« Da folgten alle Männer vom Stamm Ephraim dem Rufe und schnitten ihnen das Wasser ab bis Beth-Bara und den Übergang über den Jordan.
 ^25^Auch nahmen sie die beiden midianitischen Fürsten<sup title="oder: Häuptlinge">&#x2732;</sup> Oreb<sup title="d.h. Rabe">&#x2732;</sup> und Seeb<sup title="d.h. Wolf">&#x2732;</sup> gefangen und hieben Oreb am Rabenfelsen nieder und erschlugen Seeb bei der Wolfskelter<sup title="oder: Wolfsschlucht">&#x2732;</sup>. Nach der Verfolgung der Midianiter aber brachten sie die Köpfe Orebs und Seebs zu Gideon auf die andere Seite des Jordans.
 
- # 8
+# 8
 ^1^Die Mannschaft der Ephraimiten aber sagte zu ihm: »Warum hast du uns das zuleide getan, daß du uns nicht gleich gerufen hast, als du zum Kampf gegen die Midianiter auszogst?« und machte ihm schwere Vorwürfe.
 ^2^Doch er entgegnete ihnen: »Was habe ich denn jetzt geleistet im Vergleich mit euch? Ist nicht die Nachlese Ephraims ergiebiger als die Weinlese Abiesers?
 ^3^In eure Hand hat ja Gott die Häuptlinge der Midianiter, Oreb und Seeb, fallen lassen. Was habe ich also im Vergleich mit euch zu leisten vermocht?« Durch diese Worte, die er an sie richtete, wurde ihr Unwille gegen ihn beschwichtigt.
@@ -465,7 +465,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ##### aa) Abimelechs Brudermord in Ophra und sein Königtum in Sichem
 
- # 9
+# 9
 ^1^Abimelech aber, der Sohn Jerubbaals, begab sich nach Sichem zu den Brüdern<sup title="oder: Verwandten">&#x2732;</sup> seiner Mutter und stellte ihnen sowie allen, die zu der Familie des Vaters seiner Mutter gehörten, folgendes vor:
 ^2^»Richtet doch an alle Bürger von Sichem laut die Frage: ›Was ist vorteilhafter für euch, wenn siebzig Männer, sämtliche Söhne Jerubbaals, über euch herrschen oder wenn ein einziger Mann euer Herrscher ist?‹ Bedenkt auch, daß ich von eurem Fleisch und Bein bin!«
 ^3^Als nun die Brüder<sup title="oder: Verwandten">&#x2732;</sup> seiner Mutter alle diese Äußerungen vor den Bürgern von Sichem laut aussprachen und für ihn eintraten, da neigten sich ihre Herzen dem Abimelech zu; denn sie sagten: »Er ist unser Bruder<sup title="= Stammesgenosse">&#x2732;</sup>.«
@@ -542,7 +542,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 #### e) Die (kleinen) Richter Thola und Jair
 
- # 10
+# 10
 ^1^Nach Abimelech trat dann zur Errettung Israels ein Mann aus dem Stamm Issaschar auf, nämlich Thola, der Sohn Puas, des Sohnes Dodos; er wohnte in Samir im Gebirge Ephraim
 ^2^und waltete als Richter in Israel dreiundzwanzig Jahre lang; dann starb er und wurde in Samir begraben.
 
@@ -571,7 +571,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 ^17^Als nun die Ammoniter nach dem Aufgebot ihrer Kriegsmacht sich in Gilead lagerten und die Israeliten sich gesammelt und ein Lager bei Mizpa bezogen hatten,
 ^18^da sagte das Volk, die Fürsten von Gilead, zueinander: »Wer ist der Mann, der zuerst den Angriff gegen die Ammoniter wagt? Er soll das Oberhaupt aller Bewohner Gileads sein!«
 
- # 11
+# 11
 ^1^Nun war der Gileaditer Jephtha ein tapferer Held, obwohl der Sohn einer Dirne; sein Vater war irgendein Gileaditer.
 ^2^Als nun die (rechtmäßige) Frau des (betreffenden) Gileaditers ihm Söhne gebar und die Söhne dieser Frau herangewachsen waren, hatten sie Jephtha ausgestoßen und zu ihm gesagt: »Du sollst in unserer Familie nicht miterben!, denn du bist der Sohn einer fremden Frau!«
 ^3^So war denn Jephtha vor seinen Brüdern geflohen und hatte sich in der Landschaft Tob niedergelassen, wo sich nichtsnutzige Leute um ihn sammelten, die mit ihm Raubzüge unternahmen.
@@ -625,7 +625,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ##### ff) Jephthas siegreicher Kampf mit den Ephraimiten und sein Tod
 
- # 12
+# 12
 ^1^Es wurden aber die Ephraimiten aufgeboten; sie zogen nordwärts und ließen dem Jephtha sagen: »Warum bist du zum Krieg gegen die Ammoniter ausgezogen, ohne uns zur Teilnahme am Feldzuge aufzufordern? Nun wollen wir dir dein Haus über dem Kopf in Brand stecken!«
 ^2^Jephtha erwiderte ihnen: »Ich und mein Volk haben einen schweren Streit mit den Ammonitern gehabt, und ich habe euch um Hilfe angerufen, aber ihr habt mir keinen Beistand gegen sie geleistet.
 ^3^Als ich nun sah, daß du mir nicht zu Hilfe kommen wolltest, setzte ich mein Leben aufs Spiel und zog gegen die Ammoniter zu Felde, und der HERR gab sie in meine Gewalt. Warum zieht ihr also jetzt gegen mich heran, um Händel mit mir anzufangen?«
@@ -652,7 +652,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ##### aa) Die Vorgeschichte: Philisterherrschaft; zweimalige Erscheinung eines Engels, der Simsons Geburt und Gottesweihe ankündigt
 
- # 13
+# 13
 ^1^Als dann die Israeliten wiederum taten, was dem HERRN mißfiel, ließ der HERR sie in die Hand der Philister fallen, vierzig Jahre lang.
 
 ^2^Nun war da ein Mann aus Zora vom Geschlecht der Daniten namens Manoah, dessen Frau unfruchtbar war und keine Kinder hatte.
@@ -684,7 +684,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ^25^Als dann der Geist des HERRN sich in ihm zu regen begann im Lager Dans<sup title="vgl. 18,12">&#x2732;</sup> zwischen Zora und Esthaol,
 
- # 14
+# 14
 ^1^ging Simson nach Thimna hinab und lernte dort ein Mädchen unter den Töchtern der Philister kennen.
 ^2^Nach seiner Rückkehr erzählte er es seinen Eltern mit den Worten: »Ich habe in Thimna ein Mädchen unter den Töchtern der Philister kennengelernt: nehmt sie mir nun zur Frau!«
 ^3^Da erwiderten ihm seine Eltern: »Gibt’s denn unter den Töchtern deiner Stammesgenossen und in unserem ganzen Volke kein Weib mehr, daß du hingehen mußt, um dir eine Frau von den heidnischen Philistern zu holen?« Doch Simson erwiderte seinem Vater: »Diese nimm mir zur Frau! Denn gerade sie gefällt mir.«
@@ -713,7 +713,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 #### Simson, von seinem Schwiegervater betrogen, rächt sich an den Philistern durch eine Fuchshetze
 
- # 15
+# 15
 ^1^Nach einiger Zeit aber, in den Tagen der Weizenernte, wollte Simson seine Frau besuchen, indem er ihr ein Ziegenböckchen mitbrachte; er dachte dabei: »Ich will zu meiner Frau in die Frauenwohnung gehen.« Doch ihr Vater gestattete ihm nicht hineinzugehen,
 ^2^sondern sagte: »Ich mußte doch fest annehmen, daß du nichts mehr von ihr wissen wolltest; daher habe ich sie einem von deinen Hochzeitsgenossen zur Frau gegeben. Aber ihre jüngere Schwester ist noch schöner als sie: die soll deine Frau werden an ihrer Statt!«
 ^3^Da erwiderte ihnen Simson: »Diesmal haben mir die Philister nichts vorzuwerfen, wenn ich ihnen einen Denkzettel gebe!«
@@ -742,7 +742,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 #### Simsons Krafttat in Gaza
 
- # 16
+# 16
 ^1^Als Simson sich einst nach Gaza begeben hatte, sah er dort eine Dirne und kehrte bei ihr ein.
 ^2^Als nun den Einwohnern von Gaza berichtet wurde, Simson sei dorthin gekommen, umstellten sie ihn und lauerten ihm die ganze Nacht am Stadttor auf, verhielten sich aber die ganze Nacht hindurch ruhig, weil sie dachten: »(Wir wollen warten), bis es am Morgen hell wird, dann wollen wir ihn erschlagen!«
 ^3^Simson aber blieb nur bis Mitternacht liegen; um Mitternacht aber stand er auf, faßte die beiden Flügel des Stadttors samt den beiden Pfosten, riß sie mitsamt dem Riegel heraus, lud sie sich auf die Schultern und trug sie auf den Gipfel des Berges, der gegen Hebron hin<sup title="= östlich von Hebron">&#x2732;</sup> liegt.
@@ -791,7 +791,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 #### a) Micha und seine Mutter richten Götzendienst auf dem Gebirge Ephraim ein
 
- # 17
+# 17
 ^1^Es war einst ein Mann vom Gebirge Ephraim mit Namen Micha;
 ^2^der sagte zu seiner Mutter: »Die elfhundert Silberstücke, die dir entwendet worden sind und um derenwillen du einen Fluch ausgestoßen und ihn gar vor meinen Ohren ausgesprochen hast – wisse, das Geld ist in meinem Besitz: ich selbst habe es genommen; nun aber will ich es dir zurückgeben!« Da antwortete seine Mutter: »Gesegnet seist du vom HERRN, mein Sohn!«
 ^3^Als er nun die elfhundert Silberstücke seiner Mutter zurückgegeben hatte, sagte diese: »Ich will das Geld dem HERRN weihen (und es) aus meiner Hand zugunsten meines Sohnes (hingeben): es soll ein geschnitztes und gegossenes Gottesbild davon angefertigt werden.«
@@ -811,7 +811,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 #### c) Die danitischen Kundschafter im Hause Michas; das Ergebnis ihrer Auskundschaftung der Gegend um die Stadt Lais
 
- # 18
+# 18
 ^1^Zu jener Zeit gab es noch keinen König in Israel; und der Stamm der Daniten suchte sich damals gerade ein Gebiet zur Ansiedelung, denn es war ihm bis dahin inmitten der israelitischen Stämme noch kein Gebiet als Erbbesitz zugefallen.
 ^2^Daher schickten die Daniten fünf Männer aus der Gesamtheit ihrer Stammesgenossen ab, kriegstüchtige Männer aus Zora und Esthaol, um das Land auszukundschaften und zu erforschen, und gaben ihnen den Auftrag, sich zur Erforschung des Landes aufzumachen. So kamen diese denn auf das Gebirge Ephraim in den Wohnort Michas und übernachteten dort.
 ^3^Als sie nun in der Nähe von Michas Hause waren und den jungen Mann, den Leviten, an seiner Sprache<sup title="= Mundart">&#x2732;</sup> erkannten, kehrten sie dort ein und fragten ihn: »Wer hat dich hierher gebracht? Was tust du hier, und wie geht’s dir hier?«
@@ -856,7 +856,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ##### aa) Der Besuch eines Leviten in Bethlehem zur Wiedergewinnung seines Nebenweibes
 
- # 19
+# 19
 ^1^Zu jener Zeit, als es noch keinen König in Israel gab, begab es sich, daß ein Levit, der ganz hinten im Gebirge Ephraim als Fremdling wohnte, sich ein Mädchen aus Bethlehem in Juda zum Nebenweibe nahm.
 ^2^Aber sein Nebenweib überwarf sich mit ihm, verließ ihn und kehrte in ihres Vaters Haus nach Bethlehem in Juda zurück; dort blieb sie vier Monate lang.
 ^3^Da machte ihr Mann sich auf den Weg und zog ihr nach, um sie durch freundliches Zureden zur Rückkehr zu bewegen; seinen Diener<sup title="= Burschen, Knecht">&#x2732;</sup> und ein paar Esel hatte er bei sich. Sie<sup title="d.h. das junge Weib">&#x2732;</sup> führte ihn dann in das Haus ihres Vaters, und als dieser ihn sah, kam er ihm freundlich entgegen.
@@ -898,7 +898,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ##### aa) Die Beratung der israelitischen Stämme in Mizpa; ihr Aufgebot zum Kriege
 
- # 20
+# 20
 ^1^Da zogen alle Israeliten aus, und die Volksgemeinde versammelte sich wie ein Mann von Dan bis Beerseba, auch das Land Gilead, vor dem HERRN in Mizpa;
 ^2^und die Häupter des ganzen Volkes, der sämtlichen Stämme Israels, stellten sich in der Versammlung des Volkes Gottes ein, 400000 Mann Fußvolk, mit Schwertern bewaffnet.
 ^3^Und die Benjaminiten hörten, daß die Israeliten nach Mizpa hinaufgezogen seien. Nun fragten die Israeliten: »Sagt an, wie diese Untat vor sich gegangen ist.«
@@ -963,7 +963,7 @@ Darauf hatte das Land vierzig Jahre lang Ruhe.
 
 ##### aa) Trauer der Gemeinde; den Benjaminiten werden Jungfrauen aus der Stadt Jabes zugewiesen
 
- # 21
+# 21
 ^1^Die Männer von Israel hatten aber in Mizpa folgenden feierlichen Schwur abgelegt: »Keiner von uns darf seine Tochter einem Benjaminiten zur Frau geben!«
 ^2^Als nun das Volk nach Bethel gezogen war und dort bis zum Abend vor Gott (beim Heiligtum) verweilte, fingen sie an, laut zu weinen,
 ^3^und wehklagten: »Warum, o HERR, Gott Israels, ist dies in Israel geschehen, daß heute ein ganzer Stamm aus Israel fehlt!«

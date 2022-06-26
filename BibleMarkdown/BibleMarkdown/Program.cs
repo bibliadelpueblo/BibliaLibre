@@ -14,18 +14,21 @@ using System.Xml;
 using System.Xml.Linq;
 using Pandoc;
 using System.Runtime.InteropServices;
+using Microsoft.CodeAnalysis.Scripting;
+using Microsoft.CodeAnalysis.CSharp.Scripting;
 
 namespace BibleMarkdown
 {
 	partial class Program
 	{
 
-		static DateTime bibmarktime;
-		static bool LowercaseFirstWords = false;
-		static bool FromSource = false;
-		static bool Imported = false;
-		static string Language = null;
-		static string Replace = null;
+		public static DateTime bibmarktime;
+		public static bool LowercaseFirstWords = false;
+		public static bool FromSource = false;
+		public static bool Imported = false;
+		public static string? Language = null;
+		public static string? Replace = null;
+		public static bool TwoLanguage = false;
 
 		public struct Footnote
 		{
@@ -43,19 +46,25 @@ namespace BibleMarkdown
 
 		static void Log(string file)
 		{
+			Log(file, "Created");
+		}
+		static void Log(string file, string label)
+		{
 			var current = Directory.GetCurrentDirectory();
 			if (file.StartsWith(current))
 			{
 				file = file.Substring(current.Length);
 			}
-			Console.WriteLine($"Created {file}.");
+			Console.WriteLine($"{label} {file}.");
+
 		}
 		public static bool IsNewer(string file, string srcfile)
 		{
-			var srctime = File.GetLastWriteTimeUtc(srcfile);
+			var srctime = DateTime.MaxValue;
+			if (File.Exists(srcfile)) srctime = File.GetLastWriteTimeUtc(srcfile);
 			var filetime = DateTime.MinValue;
 			if (File.Exists(file)) filetime = File.GetLastWriteTimeUtc(file);
-			return filetime > srctime || filetime < bibmarktime;
+			return filetime > srctime && filetime > bibmarktime;
 		}
 
 		static string Label(int i)
@@ -79,38 +88,42 @@ namespace BibleMarkdown
 			var mdepub = Path.Combine(md, "epub");
 			var tex = Path.Combine(path, "out", "tex");
 			var html = Path.Combine(path, "out", "html");
+			var usfm = Path.Combine(path, "out", "usfm");
 			if (!Directory.Exists(md)) Directory.CreateDirectory(md);
 			if (!Directory.Exists(mdtex)) Directory.CreateDirectory(mdtex);
 			if (!Directory.Exists(mdepub)) Directory.CreateDirectory(mdepub);
 			if (!Directory.Exists(tex)) Directory.CreateDirectory(tex);
 			if (!Directory.Exists(html)) Directory.CreateDirectory(html);
+			if (!Directory.Exists(usfm)) Directory.CreateDirectory(usfm);
 			var mdfile = Path.Combine(md, Path.GetFileName(file));
 			var texfile = Path.Combine(tex, Path.GetFileNameWithoutExtension(file) + ".tex");
 			var htmlfile = Path.Combine(html, Path.GetFileNameWithoutExtension(file) + ".html");
 			var epubfile = Path.Combine(mdepub, Path.GetFileNameWithoutExtension(file) + ".md");
-
-			var mdfiletime = DateTime.MinValue;
-			var epubfiletime = DateTime.MinValue;
-			var texfiletime = DateTime.MinValue;
-			var htmlfiletime = DateTime.MinValue;
-			var filetime = File.GetLastWriteTimeUtc(file);
+			var usfmfile = Path.Combine(usfm, Path.GetFileNameWithoutExtension(file) + ".usfm");
 
 			Task TeXTask = Task.CompletedTask, HtmlTask = Task.CompletedTask;
 
 			CreatePandoc(file, mdfile);
-			CreateEpub(mdfile, epubfile);
+			CreateEpub(path, mdfile, epubfile);
+			CreateUSFM(file, usfmfile);
 			return Task.WhenAll(CreateTeXAsync(mdfile, texfile), CreateHtmlAsync(mdfile, htmlfile));
 		}
 
 
 		static void ProcessPath(string path)
 		{
+			RunScript(path);
 			var srcpath = Path.Combine(path, "src");
 			var outpath = Path.Combine(path, "out");
 			if (!Directory.Exists(outpath)) Directory.CreateDirectory(outpath);
 			if (Directory.Exists(srcpath))
 			{
-				Location.ImportMap(Path.Combine(srcpath, "versemap.md"));
+				Verses.ParallelVerses.Import(Path.Combine(srcpath, "parallelversesmap.md"));
+				Verses.Paragraphs.Import(Path.Combine(srcpath, "paragraphsmap.md"));
+				Verses.Titles.Import(Path.Combine(srcpath, "titlesmap.md"));
+				Verses.Footnotes.Import(Path.Combine(srcpath, "footnotesmap.md"));
+				Verses.DualLanguage.Import(Path.Combine(srcpath, "duallanguagemap.md"));
+				ImportFromBibleEdit(srcpath);
 				ImportFromUSFM(path, srcpath);
 				ImportFromTXT(path, srcpath);
 				ImportFromZefania(path, srcpath);
@@ -122,6 +135,35 @@ namespace BibleMarkdown
 			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
 		}
 
+		static void RunScript(string path)
+		{
+			var file = Path.Combine(path, "src", "script.cs");
+			if (!File.Exists(file)) return;
+
+			var txt = File.ReadAllText(file);
+			Log(file, "Run script");
+
+			try
+			{
+				var result = CSharpScript.RunAsync(txt, ScriptOptions.Default
+				.WithReferences(typeof(Program).Assembly)
+				.WithImports("BibleMarkdown"));
+				result.Wait();
+			} catch (Exception e)
+			{
+				Console.WriteLine(e);
+			}
+			
+		}
+
+		static void ProcessTwoLanguagesPath(string path, string path1, string path2)
+		{
+			ProcessPath(path1);
+			ProcessPath(path2);
+			CreateTwoLanguage(path, path1, path2);
+			var files = Directory.EnumerateFiles(path, "*.md");
+			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
+		}
 		static void InitPandoc()
 		{
 			if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows)) PandocInstance.SetPandocPath("pandoc.exe");
@@ -148,10 +190,22 @@ namespace BibleMarkdown
 			if (replacepos == -1) replacepos = Array.IndexOf(args, "-r");
 			if (replacepos >= 0 && replacepos + 1 < args.Length) Replace = args[replacepos + 1];
 
+			var twolangpos = Array.IndexOf(args, "-twolanguage");
+			if (twolangpos >= 0 && twolangpos + 2 < args.Length)
+			{
+				var left = args[twolangpos + 1];
+				var right = args[twolangpos + 2];
+				var p = Directory.GetCurrentDirectory();
+				ProcessTwoLanguagesPath(p, left, right);
+			}
 			var paths = args.ToList();
 			for (int i = 0; i < paths.Count; i++)
 			{
-				if (paths[i] == "-ln" || paths[i] == "-replace" || paths[i] == "-r")
+				if (paths[i] == "-twolanguage")
+				{
+					paths.RemoveAt(i); paths.RemoveAt(i); paths.RemoveAt(i); i--;
+				}
+				else if (paths[i] == "-ln" || paths[i] == "-replace" || paths[i] == "-r")
 				{
 					paths.RemoveAt(i); paths.RemoveAt(i); i--;
 				} else if (paths[i].StartsWith('-'))

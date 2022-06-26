@@ -2,7 +2,7 @@
 
 ### 1. Ankündigung und sicherer Vollzug des göttlichen Gerichts über die Edomiter
 
- # 1
+# 1
 ^1^(Dies ist) die Weissagung Obadjas<sup title="oder: die Offenbarung an Obadja">&#x2732;</sup>.
 
 So hat Gott der HERR in bezug auf Edom gesprochen: Eine Kunde haben wir vom HERRN vernommen, und eine Botschaft ist an die Völker gesandt worden: »Auf! Wir wollen uns gegen ihn<sup title="d.h. gegen Edom">&#x2732;</sup> erheben zum Kriege!«

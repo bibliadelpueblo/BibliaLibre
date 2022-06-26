@@ -29,7 +29,7 @@
 
 ^25^ Und Jesus bedrohte ihn und sprach: Verstumme und fahre aus von ihm! 
 
-^26^ Und der unsaubere Geist riss ihn und schrie laut und fuhr aus von ihm. ^a^ ^27^ Und sie entsetzten sich alle, also dass sie untereinander sich befragten und sprachen: Was ist das? Was ist das für eine neue Lehre? Er gebietet mit Gewalt den unsauberen Geistern, und sie gehorchen ihm. ^28^ Und sein Gerücht erscholl alsbald umher in das galiläische Land. 
+^26^ Und der unsaubere Geist riss ihn und schrie laut und fuhr aus von ihm. ^a^ ^27^ Und sie entsetzten sich alle, also dass sie untereinander sich befragten und sprachen: Was ist das? Was ist das für eine neue Lehre? Er gebietet mit Gewalt den unsauberen Geistern, und sie gehorchen ihm. ^28^ Und sein Gerücht erscholl alsbald umher in das galiläische Land.
 ^a^[**1:26** Mk 9,26]
 
 ## Sanación de la suegra de Simón y otros enfermos en Capernaum
@@ -225,7 +225,7 @@
 ^47^ Und am Abend war das Schiff mitten auf dem Meer und er auf dem Lande allein. ^48^ Und er sah, dass sie Not litten im Rudern; denn der Wind war ihnen entgegen. Und um die vierte Wache der Nacht kam er zu ihnen und wandelte auf dem Meer; ^49^ und er wollte an ihnen vorübergehen. Und da sie ihn sahen auf dem Meer wandeln, meinten sie, es wäre ein Gespenst, und schrien; ^50^ denn sie sahen ihn alle und erschraken. Aber alsbald redete er mit ihnen und sprach zu ihnen: Seid getrost, ich bin's, fürchtet euch nicht! ^51^ Und trat zu ihnen ins Schiff, und der Wind legte sich. Und sie entsetzten und verwunderten sich über die Maßen; ^a^ ^52^ denn sie waren nichts verständiger geworden über den Broten, und ihr Herz war erstarrt. ^b^ 
 ^a^[**6:51** Mk 4,39] ^b^[**6:52** Mk 8,17]
 
-^53^ Und da sie hinübergefahren waren, kamen sie in das Land Genezareth und fuhren an. ^54^ Und da sie aus dem Schiff traten, alsbald kannten sie ihn ^55^ und liefen in alle die umliegenden Länder und hoben an, die Kranken umherzuführen auf Betten, wo sie hörten, dass er war. ^56^ Und wo er in die Märkte oder Städte oder Dörfer einging, da legten sie die Kranken auf den Markt und baten ihn, dass sie nur den Saum seines Kleides anrühren möchten; und alle, die ihn anrührten, wurden gesund.^a^ 
+^53^ Und da sie hinübergefahren waren, kamen sie in das Land Genezareth und fuhren an. ^54^ Und da sie aus dem Schiff traten, alsbald kannten sie ihn ^55^ und liefen in alle die umliegenden Länder und hoben an, die Kranken umherzuführen auf Betten, wo sie hörten, dass er war. ^56^ Und wo er in die Märkte oder Städte oder Dörfer einging, da legten sie die Kranken auf den Markt und baten ihn, dass sie nur den Saum seines Kleides anrühren möchten; und alle, die ihn anrührten, wurden gesund. ^a^ 
 ^a^[**6:56** Mk 5,27-28; Apg 5,15; Apg 19,11-12]
 
 # 7
@@ -375,7 +375,7 @@
 ^a^[**9:39** 1Kor 12,3] ^b^[**9:40** Mt 12,30; Lk 11,23] ^c^[**9:41** Mt 10,42]
 
 ## Advertencia de engaño (a la incredulidad y al pecado); Dichos de sal
-^42^ Und wer der Kleinen einen ärgert, die an mich glauben, dem wäre es besser, dass ihm ein Mühlstein an seinen Hals gehängt und er ins Meer geworfen würde. ^43^ So dich aber deine Hand ärgert, so haue sie ab! Es ist dir besser, dass du als ein Krüppel zum Leben eingehest, denn dass du zwei Hände habest und fahrest in die Hölle, in das ewige Feuer, ^44^ da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht. ^45^ Ärgert dich dein Fuß, so haue ihn ab! Es ist dir besser, dass du lahm zum Leben eingehest, denn dass du zwei Füße habest und werdest in die Hölle geworfen, in das ewige Feuer, ^46^ da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht. ^47^ Ärgert dich dein Auge, so wirf's von dir! Es ist dir besser, dass du einäugig in das Reich Gottes gehest, denn dass du zwei Augen habest und werdest in das höllische Feuer geworfen, ^a^ ^48^ da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht. ^49^ Es muss ein jeglicher mit Feuer gesalzen werden, und alles Opfer wird mit Salz gesalzen. ^50^ Das Salz ist gut; so aber das Salz dumm wird, womit wird man's würzen? Habt Salz bei euch und habt Frieden untereinander.^b^ 
+^42^ Und wer der Kleinen einen ärgert, die an mich glauben, dem wäre es besser, dass ihm ein Mühlstein an seinen Hals gehängt und er ins Meer geworfen würde. ^43^ So dich aber deine Hand ärgert, so haue sie ab! Es ist dir besser, dass du als ein Krüppel zum Leben eingehest, denn dass du zwei Hände habest und fahrest in die Hölle, in das ewige Feuer, ^44^ da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht. ^45^ Ärgert dich dein Fuß, so haue ihn ab! Es ist dir besser, dass du lahm zum Leben eingehest, denn dass du zwei Füße habest und werdest in die Hölle geworfen, in das ewige Feuer, ^46^ da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht. ^47^ Ärgert dich dein Auge, so wirf's von dir! Es ist dir besser, dass du einäugig in das Reich Gottes gehest, denn dass du zwei Augen habest und werdest in das höllische Feuer geworfen, ^a^ ^48^ da ihr Wurm nicht stirbt und ihr Feuer nicht verlöscht. ^49^ Es muss ein jeglicher mit Feuer gesalzen werden, und alles Opfer wird mit Salz gesalzen. ^50^ Das Salz ist gut; so aber das Salz dumm wird, womit wird man's würzen? Habt Salz bei euch und habt Frieden untereinander. ^b^ 
 ^a^[**9:47** Mt 5,29] ^b^[**9:50** Mt 5,13; Lk 14,34; Kol 4,6]
 
 # 10
@@ -391,7 +391,7 @@
 ^5^ Jesus antwortete und sprach zu ihnen: Um eures Herzens Härtigkeit willen hat er euch solches Gebot geschrieben; ^6^ aber von Anfang der Kreatur hat sie Gott geschaffen einen Mann und ein Weib. ^a^ ^7^ Darum wird der Mensch Vater und Mutter verlassen und wird seinem Weibe anhangen, ^b^ ^8^ und werden die zwei ein Fleisch sein. So sind sie nun nicht zwei, sondern ein Fleisch. ^9^ Was denn Gott zusammengefügt hat, soll der Mensch nicht scheiden. 
 ^a^[**10:6** 1Mo 1,27] ^b^[**10:7** 1Mo 2,24]
 
-^10^ Und daheim fragten ihn abermals seine Jünger darum. ^11^ Und er sprach zu ihnen: Wer sich scheidet von seinem Weibe und freit eine andere, der bricht die Ehe an ihr; ^a^ ^12^ und so sich ein Weib scheidet von ihrem Manne und freit einen anderen, die bricht ihre Ehe. 
+^10^ Und daheim fragten ihn abermals seine Jünger darum. ^11^ Und er sprach zu ihnen: Wer sich scheidet von seinem Weibe und freit eine andere, der bricht die Ehe an ihr; ^a^ ^12^ und so sich ein Weib scheidet von ihrem Manne und freit einen anderen, die bricht ihre Ehe.
 ^a^[**10:11** Lk 16,18; 1Kor 7,10-11]
 
 ## Jesús bendice a los niños
@@ -424,7 +424,7 @@
 ^29^ Jesus antwortete und sprach: Wahrlich, ich sage euch: Es ist niemand, wenn er verlässt Haus oder Brüder oder Schwestern oder Vater oder Mutter oder Weib oder Kinder oder Äcker um meinetwillen und um des Evangeliums willen, ^30^ der nicht hundertfältig empfange: jetzt in dieser Zeit Häuser und Brüder und Schwestern und Mütter und Kinder und Äcker mitten unter Verfolgungen, und in der zukünftigen Welt das ewige Leben. ^31^ Viele aber werden die Letzten sein, die die Ersten sind, und die Ersten sein, die die Letzten sind. 
 
 ## Salida hacia Jerusalén; tercer anuncio del sufrimiento de Jesús
-^32^ Sie waren aber auf dem Wege und gingen hinauf gen Jerusalem; und Jesus ging vor ihnen, und sie entsetzten sich, folgten ihm nach und fürchteten sich. Und Jesus nahm abermals zu sich die Zwölf und sagte ihnen, was ihm widerfahren würde: ^a^ ^33^ Siehe, wir gehen hinauf gen Jerusalem, und des Menschen Sohn wird überantwortet werden den Hohenpriestern und Schriftgelehrten; und sie werden ihn verdammen zum Tode und überantworten den Heiden. ^34^ Die werden ihn verspotten und geißeln und verspeien und töten; und am dritten Tage wird er auferstehen. 
+^32^ Sie waren aber auf dem Wege und gingen hinauf gen Jerusalem; und Jesus ging vor ihnen, und sie entsetzten sich, folgten ihm nach und fürchteten sich. Und Jesus nahm abermals zu sich die Zwölf und sagte ihnen, was ihm widerfahren würde: ^a^ ^33^ Siehe, wir gehen hinauf gen Jerusalem, und des Menschen Sohn wird überantwortet werden den Hohenpriestern und Schriftgelehrten; und sie werden ihn verdammen zum Tode und überantworten den Heiden. ^34^ Die werden ihn verspotten und geißeln und verspeien und töten; und am dritten Tage wird er auferstehen.
 ^a^[**10:32** Mk 9,31]
 
 ## Solicitud ambiciosa de los dos hijos de Zebedeo
@@ -443,7 +443,7 @@
 
 ^41^ Und da das die Zehn hörten, wurden sie unwillig über Jakobus und Johannes. 
 
-^42^ Aber Jesus rief sie zu sich und sprach zu ihnen: Ihr wisset, dass die weltlichen Fürsten herrschen und die Mächtigen unter ihnen haben Gewalt. ^43^ Aber also soll es unter euch nicht sein. Sondern welcher will groß werden unter euch, der soll euer Diener sein; ^a^ ^44^ und welcher unter euch will der Vornehmste werden, der soll aller Knecht sein. ^45^ Denn auch des Menschen Sohn ist nicht gekommen, dass er sich dienen lasse, sondern dass er diene und gebe sein Leben zur Bezahlung für viele. 
+^42^ Aber Jesus rief sie zu sich und sprach zu ihnen: Ihr wisset, dass die weltlichen Fürsten herrschen und die Mächtigen unter ihnen haben Gewalt. ^43^ Aber also soll es unter euch nicht sein. Sondern welcher will groß werden unter euch, der soll euer Diener sein; ^a^ ^44^ und welcher unter euch will der Vornehmste werden, der soll aller Knecht sein. ^45^ Denn auch des Menschen Sohn ist nicht gekommen, dass er sich dienen lasse, sondern dass er diene und gebe sein Leben zur Bezahlung für viele.
 ^a^[**10:43** Mk 9,35; 1Petr 5,3]
 
 ## Curación del ciego Bartimeo cerca de Jericó
@@ -556,7 +556,7 @@
 ^a^[**13:13** Joh 15,18; Joh 15,21]
 
 ## El clímax de la tribulación en Judea
-^14^ Wenn ihr aber sehen werdet den Gräuel der Verwüstung (von dem der Prophet Daniel gesagt hat), dass er steht, wo er nicht soll (wer es liest, der merke darauf!), alsdann, wer in Judäa ist, der fliehe auf die Berge; ^a^ ^15^ und wer auf dem Dache ist, der steige nicht hernieder ins Haus und komme nicht hinein, etwas zu holen aus seinem Hause; ^16^ und wer auf dem Felde ist, der wende sich nicht um, seine Kleider zu holen. ^17^ Weh aber den Schwangeren und Säugerinnen zu der Zeit! ^18^ Bittet aber, dass eure Flucht nicht geschehe im Winter. ^19^ Denn in diesen Tagen werden solche Trübsale sein, wie sie nie gewesen sind bisher, vom Anfang der Kreatur, die Gott geschaffen hat, und wie auch nicht werden wird. ^b^ ^20^ Und so der Herr diese Tage nicht verkürzt hätte, würde kein Mensch selig; aber um der Auserwählten willen, die er auserwählt hat, hat er diese Tage verkürzt. 
+^14^ Wenn ihr aber sehen werdet den Gräuel der Verwüstung (von dem der Prophet Daniel gesagt hat), dass er steht, wo er nicht soll (wer es liest, der merke darauf!), alsdann, wer in Judäa ist, der fliehe auf die Berge; ^a^ ^15^ und wer auf dem Dache ist, der steige nicht hernieder ins Haus und komme nicht hinein, etwas zu holen aus seinem Hause; ^16^ und wer auf dem Felde ist, der wende sich nicht um, seine Kleider zu holen. ^17^ Weh aber den Schwangeren und Säugerinnen zu der Zeit! ^18^ Bittet aber, dass eure Flucht nicht geschehe im Winter. ^19^ Denn in diesen Tagen werden solche Trübsale sein, wie sie nie gewesen sind bisher, vom Anfang der Kreatur, die Gott geschaffen hat, und wie auch nicht werden wird. ^b^ ^20^ Und so der Herr diese Tage nicht verkürzt hätte, würde kein Mensch selig; aber um der Auserwählten willen, die er auserwählt hat, hat er diese Tage verkürzt.
 ^a^[**13:14** Dan 9,27; Dan 11,31] ^b^[**13:19** Dan 12,1]
 
 ## Profecía sobre los falsos profetas
@@ -583,7 +583,7 @@
 ## Unción de Jesús en Betania
 ^3^ Und da er zu Bethanien war in Simons, des Aussätzigen, Hause und saß zu Tische, da kam ein Weib, die hatte ein Glas mit ungefälschtem und köstlichem Nardenwasser, und sie zerbrach das Glas und goss es auf sein Haupt. ^4^ Da waren etliche, die wurden unwillig und sprachen: Was soll doch diese Vergeudung? ^5^ Man könnte das Wasser um mehr denn dreihundert Groschen verkauft haben und es den Armen geben. Und murrten über sie. 
 
-^6^ Jesus aber sprach: Lasst sie in Frieden! Was bekümmert ihr sie? Sie hat ein gutes Werk an mir getan. ^7^ Ihr habt allezeit Arme bei euch, und wenn ihr wollt, könnt ihr ihnen Gutes tun; mich aber habt ihr nicht allezeit. ^a^ ^8^ Sie hat getan, was sie konnte; sie ist zuvorgekommen, meinen Leib zu salben zu meinem Begräbnis. ^9^ Wahrlich, ich sage euch: Wo dies Evangelium gepredigt wird in aller Welt, da wird man auch das sagen zu ihrem Gedächtnis, was sie jetzt getan hat. 
+^6^ Jesus aber sprach: Lasst sie in Frieden! Was bekümmert ihr sie? Sie hat ein gutes Werk an mir getan. ^7^ Ihr habt allezeit Arme bei euch, und wenn ihr wollt, könnt ihr ihnen Gutes tun; mich aber habt ihr nicht allezeit. ^a^ ^8^ Sie hat getan, was sie konnte; sie ist zuvorgekommen, meinen Leib zu salben zu meinem Begräbnis. ^9^ Wahrlich, ich sage euch: Wo dies Evangelium gepredigt wird in aller Welt, da wird man auch das sagen zu ihrem Gedächtnis, was sie jetzt getan hat.
 ^a^[**14:7** 5Mo 15,11]
 
 ## Traición de Judas
@@ -606,7 +606,7 @@
 
 ^22^ Und indem sie aßen, nahm Jesus das Brot, dankte und brach's und gab's ihnen und sprach: Nehmet, esset; das ist mein Leib. 
 
-^23^ Und nahm den Kelch, dankte und gab ihnen den; und sie tranken alle daraus. ^24^ Und er sprach zu ihnen: Das ist mein Blut des neuen Testaments, das für viele vergossen wird. ^a^ ^25^ Wahrlich, ich sage euch, dass ich hinfort nicht trinken werde vom Gewächs des Weinstocks bis auf den Tag, da ich's neu trinke in dem Reich Gottes. 
+^23^ Und nahm den Kelch, dankte und gab ihnen den; und sie tranken alle daraus. ^24^ Und er sprach zu ihnen: Das ist mein Blut des neuen Testaments, das für viele vergossen wird. ^a^ ^25^ Wahrlich, ich sage euch, dass ich hinfort nicht trinken werde vom Gewächs des Weinstocks bis auf den Tag, da ich's neu trinke in dem Reich Gottes.
 ^a^[**14:24** Hebr 9,15-16]
 
 ## Camina a Getsemaní
@@ -704,7 +704,7 @@
 
 ^37^ Aber Jesus schrie laut und verschied. ^38^ Und der Vorhang im Tempel zerriss in zwei Stücke von obenan bis untenaus. ^39^ Der Hauptmann aber, der dabeistand ihm gegenüber und sah, dass er mit solchem Geschrei verschied, sprach: Wahrlich, dieser Mensch ist Gottes Sohn gewesen! 
 
-^40^ Und es waren auch Weiber da, die von ferne solches schauten; unter welchen war Maria Magdalena und Maria, Jakobus des Kleinen und des Joses Mutter, und Salome, ^a^ ^41^ die ihm auch nachgefolgt waren, da er in Galiläa war, und gedient hatten, und viele andere, die mit ihm hinauf gen Jerusalem gegangen waren. 
+^40^ Und es waren auch Weiber da, die von ferne solches schauten; unter welchen war Maria Magdalena und Maria, Jakobus des Kleinen und des Joses Mutter, und Salome, ^a^ ^41^ die ihm auch nachgefolgt waren, da er in Galiläa war, und gedient hatten, und viele andere, die mit ihm hinauf gen Jerusalem gegangen waren.
 ^a^[**15:40** Lk 8,2-3]
 
 ## Entierro de Jesús

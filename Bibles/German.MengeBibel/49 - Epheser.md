@@ -2,7 +2,7 @@
 
 ### Zuschrift und Segensgruß
 
- # 1
+# 1
 ^1^ Ich, Paulus, ein Apostel Jesu Christi durch den Willen Gottes, sende meinen Gruß den Heiligen und an Christus Jesus Gläubigen, die [in Ephesus] sind:
 ^2^ Gnade sei mit euch und Friede von Gott unserm Vater und dem Herrn Jesus Christus!
 
@@ -39,7 +39,7 @@
 
 #### a) Ehemals in Sünden tot, erkennt sich jetzt der Gläubige als Gottes Gnadenwerk und Neugebilde im auferweckten Christus Jesus
 
- # 2
+# 2
 ^1^ So hat er auch euch, die ihr tot waret durch eure Übertretungen und Sünden,
 ^2^ in denen ihr einst wandeltet, abhängig vom Zeitgeist dieser Welt, abhängig von dem Machthaber, der die Gewalt über die Luft hat, dem Geist, der gegenwärtig in den Söhnen des Ungehorsams wirksam ist, –
 ^3^ unter diesen haben auch wir alle einst in unseren fleischlichen Lüsten dahingelebt, indem wir den Willen<sup title="= die Forderungen">&#x2732;</sup> des Fleisches und unserer Gedanken ausführten und von Natur Kinder des (göttlichen) Zornes waren wie die anderen auch –;
@@ -68,7 +68,7 @@
 
 ### 4. Das herrliche Amt des Apostels, den Heiden die Heilsbotschaft als das ihm offenbarte Geheimnis von ihrer Mitberechtigung an Israels Verheißungen zu verkünden
 
- # 3
+# 3
 ^1^ Das ist der Grund, weshalb ich, Paulus, der ich euch Heiden zugute der Gefangene Christi Jesu<sup title="oder: ein Gefangener um Christi Jesu willen">&#x2732;</sup> bin, –
 ^2^ ihr habt doch wohl von der Verwaltung der Gnade Gottes gehört, die mir für euch verliehen worden ist,
 ^3^ daß mir nämlich durch Offenbarung das Geheimnis kundgetan worden ist, wie ich davon schon vorhin in Kürze geschrieben habe.
@@ -101,7 +101,7 @@
 
 ### 1. Mahnung zur Eintracht und zum Glaubenswachstum in der Gemeinde bei aller Mannigfaltigkeit der Gaben
 
- # 4
+# 4
 ^1^ So ermahne ich euch denn, ich, der Gefangene im Herrn<sup title="oder: um des Herrn willen">&#x2732;</sup>: Wandelt würdig der Berufung, die an euch ergangen ist,
 ^2^ mit aller Demut und Sanftmut, mit Geduld als solche, die einander in Liebe ertragen,
 ^3^ und seid eifrig bemüht, die Einheit des Geistes<sup title="oder: die Einigkeit im Geist">&#x2732;</sup> durch das Band des Friedens zu erhalten:
@@ -145,7 +145,7 @@
 ^31^ Alle Bitterkeit, aller Zorn und Groll, alles Schreien und Schmähen sei aus eurer Mitte weggetan, überhaupt alles boshafte Wesen.
 ^32^ Zeigt euch vielmehr gütig und herzlich gegeneinander, und vergebt einer dem andern, wie auch Gott euch in Christus vergeben hat!
 
- # 5
+# 5
 ^1^ Folgt also dem Vorbild Gottes nach als (von ihm) geliebte Kinder
 ^2^ und wandelt in der Liebe, wie auch Christus euch geliebt und sich selbst für uns als Weihegabe und Opfer dargebracht hat, Gott zu einem lieblichen Wohlgeruch.
 
@@ -194,7 +194,7 @@
 
 ##### bb) Pflichten der Kinder und Eltern
 
- # 6
+# 6
 ^1^ Ihr Kinder, seid euren Eltern gehorsam im Herrn; denn das ist in der Ordnung.
 ^2^ »Ehre deinen Vater und deine Mutter!« – dies ist das erste Gebot<sup title="oder: ein Hauptgebot">&#x2732;</sup> mit (der) Verheißung:
 ^3^ »damit es dir wohl ergehe und du lange lebest auf Erden«<sup title="2.Mose 20,12">&#x2732;</sup>. –

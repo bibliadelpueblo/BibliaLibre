@@ -8,11 +8,11 @@
 ^a^[**1:3** Jes 17,1-3] ^b^[**1:5** 2Kö 16,9]
 
 ## Amenaza contra los filisteos
-^6^ So spricht der HErr: Um drei und vier Frevels willen Gazas will ich ihrer nicht schonen, darum dass sie die Gefangenen alle weggeführt und an Edom überantwortet haben; ^a^ ^7^ sondern ich will ein Feuer in die Mauern zu Gaza schicken, das soll ihre Paläste verzehren. ^8^ Und ich will die Einwohner aus Asdod und den, der das Zepter hält, aus Askalon ausrotten und meine Hand wider Ekron kehren, dass umkommen soll, was von den Philistern noch übrig ist, spricht der Herr HErr. 
+^6^ So spricht der HErr: Um drei und vier Frevels willen Gazas will ich ihrer nicht schonen, darum dass sie die Gefangenen alle weggeführt und an Edom überantwortet haben; ^a^ ^7^ sondern ich will ein Feuer in die Mauern zu Gaza schicken, das soll ihre Paläste verzehren. ^8^ Und ich will die Einwohner aus Asdod und den, der das Zepter hält, aus Askalon ausrotten und meine Hand wider Ekron kehren, dass umkommen soll, was von den Philistern noch übrig ist, spricht der Herr HErr.
 ^a^[**1:6** 2Chr 28,17-18; Jer 47,1]
 
 ## Amenaza contra Tiro
-^9^ So spricht der HErr: Um drei und vier Frevel willen der Stadt Tyrus will ich ihrer nicht schonen, darum dass sie die Gefangenen alle an Edom überantwortet haben und nicht gedacht an den Bund der Brüder; ^a^ ^10^ sondern ich will ein Feuer in die Mauern zu Tyrus schicken, das soll ihre Paläste verzehren. 
+^9^ So spricht der HErr: Um drei und vier Frevel willen der Stadt Tyrus will ich ihrer nicht schonen, darum dass sie die Gefangenen alle an Edom überantwortet haben und nicht gedacht an den Bund der Brüder; ^a^ ^10^ sondern ich will ein Feuer in die Mauern zu Tyrus schicken, das soll ihre Paläste verzehren.
 ^a^[**1:9** Jes 23,-1; Joe 4,4; 1Kö 5,26]
 
 ## Amenaza contra los edomitas
@@ -39,7 +39,7 @@
 ^1^ Höret, was der HErr mit euch redet, ihr Kinder Israel, mit allen Geschlechtern, die ich aus Ägyptenland geführt habe: ^2^ Aus allen Geschlechtern auf Erden habe ich allein euch erkannt; darum will ich auch euch heimsuchen in all eurer Missetat. 
 
 ## Amós habla como profeta por razones de peso
-^3^ Mögen auch zwei miteinander wandeln, sie seien denn eins untereinander? ^4^ Brüllt auch ein Löwe im Walde, wenn er keinen Raub hat? Schreit auch ein junger Löwe aus seiner Höhle, er habe denn etwas gefangen? ^5^ Fällt auch ein Vogel in den Strick auf der Erde, da kein Vogler ist? Hebt man auch den Strick auf von der Erde, der noch nichts gefangen hat? ^6^ Bläst man auch die Posaune in einer Stadt, dass sich das Volk davor nicht entsetze? Ist auch ein Unglück in der Stadt, dass der HErr nicht tue? ^a^ ^7^ Denn der Herr HErr tut nichts, er offenbare denn sein Geheimnis den Propheten, seinen Knechten. ^8^ Der Löwe brüllt; wer sollte sich nicht fürchten? Der Herr HErr redet; wer sollte nicht weissagen? 
+^3^ Mögen auch zwei miteinander wandeln, sie seien denn eins untereinander? ^4^ Brüllt auch ein Löwe im Walde, wenn er keinen Raub hat? Schreit auch ein junger Löwe aus seiner Höhle, er habe denn etwas gefangen? ^5^ Fällt auch ein Vogel in den Strick auf der Erde, da kein Vogler ist? Hebt man auch den Strick auf von der Erde, der noch nichts gefangen hat? ^6^ Bläst man auch die Posaune in einer Stadt, dass sich das Volk davor nicht entsetze? Ist auch ein Unglück in der Stadt, dass der HErr nicht tue? ^a^ ^7^ Denn der Herr HErr tut nichts, er offenbare denn sein Geheimnis den Propheten, seinen Knechten. ^8^ Der Löwe brüllt; wer sollte sich nicht fürchten? Der Herr HErr redet; wer sollte nicht weissagen?
 ^a^[**3:6** Jes 45,7; Kla 3,37]
 
 ## Anuncio de la destrucción de la ciudad de Samaria, que está sumida en la exuberancia y la locura
@@ -71,7 +71,7 @@
 ^11^ Ich kehrte unter euch um, wie Gott Sodom und Gomorra umkehrte, dass ihr waret wie ein Brand, der aus dem Feuer gerissen wird; doch bekehrtet ihr euch nicht zu mir, spricht der HErr. ^a^ 
 ^a^[**4:11** 1Mo 19,24-25; Sach 3,2]
 
-^12^ Darum will ich dir weiter also tun, Israel. Weil ich denn dir also tun will, so schicke dich, Israel, und begegne deinem Gott. ^13^ Denn siehe, er ist's, der die Berge macht, den Wind schafft und zeigt dem Menschen, was er im Sinne hat. Er macht die Morgenröte und die Finsternis; er tritt einher auf den Höhen der Erde, – er heißt HErr, Gott Zebaoth.^a^ 
+^12^ Darum will ich dir weiter also tun, Israel. Weil ich denn dir also tun will, so schicke dich, Israel, und begegne deinem Gott. ^13^ Denn siehe, er ist's, der die Berge macht, den Wind schafft und zeigt dem Menschen, was er im Sinne hat. Er macht die Morgenröte und die Finsternis; er tritt einher auf den Höhen der Erde, – er heißt HErr, Gott Zebaoth. ^a^ 
 ^a^[**4:13** Mi 1,3]
 
 # 5
@@ -81,7 +81,7 @@
 ^3^ Denn so spricht der Herr HErr: Die Stadt, da tausend ausgehen, soll nur hundert übrig behalten; und da hundert ausgehen, die soll nur zehn übrig behalten im Hause Israel. 
 
 ## Las demandas de Dios sobre el pueblo y las quejas sobre el mal comportamiento de Israel
-^4^ Darum so spricht der HErr zum Hause Israel: Suchet mich, so werdet ihr leben. ^5^ Suchet nicht Beth-El und kommet nicht gen Gilgal und gehet nicht gen Beer-Seba; denn Gilgal wird gefangen weggeführt werden, und Beth-El wird Beth-Aven werden. ^a^ ^6^ Suchet den HErrn, so werdet ihr leben! dass nicht ein Feuer im Hause Joseph überhand nehme, das da verzehre und das niemand löschen könne zu Beth-El; ^7^ die ihr das Recht in Wermut verkehrt und die Gerechtigkeit zu Boden stoßt. 
+^4^ Darum so spricht der HErr zum Hause Israel: Suchet mich, so werdet ihr leben. ^5^ Suchet nicht Beth-El und kommet nicht gen Gilgal und gehet nicht gen Beer-Seba; denn Gilgal wird gefangen weggeführt werden, und Beth-El wird Beth-Aven werden. ^a^ ^6^ Suchet den HErrn, so werdet ihr leben! dass nicht ein Feuer im Hause Joseph überhand nehme, das da verzehre und das niemand löschen könne zu Beth-El; ^7^ die ihr das Recht in Wermut verkehrt und die Gerechtigkeit zu Boden stoßt.
 ^a^[**5:5** Am 4,4; Hos 4,15]
 
 ## La terrible omnipotencia de Dios y su llamado a la penitencia
@@ -94,7 +94,7 @@
 ^16^ Darum, so spricht der HErr, der Gott Zebaoth, der Herr: Es wird in allen Gassen Wehklagen sein, und auf allen Straßen wird man sagen: „Weh! weh!“, und man wird den Ackermann zum Trauern rufen, und zum Wehklagen, wer da weinen kann. ^17^ In allen Weinbergen wird Wehklagen sein; denn ich will unter euch fahren, spricht der HErr. 
 
 ## El día del Señor es un día de desastre
-^18^ Weh denen, die des HErrn Tag begehren! Was soll er euch? Denn des HErrn Tag ist Finsternis und nicht Licht. ^a^ ^19^ Gleich als wenn jemand vor dem Löwen flöhe, und ein Bär begegnete ihm; und er käme in ein Haus und lehnte sich mit der Hand an die Wand, und eine Schlange stäche ihn. ^20^ Denn des HErrn Tag wird ja finster und nicht licht sein, dunkel und nicht hell. 
+^18^ Weh denen, die des HErrn Tag begehren! Was soll er euch? Denn des HErrn Tag ist Finsternis und nicht Licht. ^a^ ^19^ Gleich als wenn jemand vor dem Löwen flöhe, und ein Bär begegnete ihm; und er käme in ein Haus und lehnte sich mit der Hand an die Wand, und eine Schlange stäche ihn. ^20^ Denn des HErrn Tag wird ja finster und nicht licht sein, dunkel und nicht hell.
 ^a^[**5:18** Joe 2,11]
 
 ## La piedad exterior y la idolatría como causa del juicio venidero
@@ -105,7 +105,7 @@
 
 # 6
 ## La vida despreocupada de los grandes orgullosos e indulgentes de Judá y Samaria desafía el juicio divino
-^1^ Weh den Stolzen zu Zion und denen, die sich auf den Berg Samarias verlassen, den Vornehmsten des Erstlings unter den Völkern, und zu denen das Haus Israel kommt! ^2^ Gehet hin gen Kalne und schauet, und von da gen Hamath, die große Stadt, und ziehet hinab gen Gath der Philister, welche bessere Königreiche gewesen sind denn diese und ihre Grenze weiter denn eure Grenze. ^3^ Die ihr euch weit vom bösen Tag achtet und trachtet immer nach Frevelregiment, ^a^ ^4^ und schlaft auf elfenbeinernen Lagern und pranget auf euren Ruhebetten; ihr esset die Lämmer aus der Herde und die gemästeten Kälber, ^b^ ^5^ und spielet auf dem Psalter und erdichtet euch Lieder wie David, ^c^ ^6^ und trinket Wein aus den Schalen und salbet euch mit Balsam und bekümmert euch nicht um den Schaden Josephs. ^7^ Darum sollen sie nun vornan gehen unter denen, die gefangen weggeführt werden, und soll das Schlemmen der Pranger aufhören. 
+^1^ Weh den Stolzen zu Zion und denen, die sich auf den Berg Samarias verlassen, den Vornehmsten des Erstlings unter den Völkern, und zu denen das Haus Israel kommt! ^2^ Gehet hin gen Kalne und schauet, und von da gen Hamath, die große Stadt, und ziehet hinab gen Gath der Philister, welche bessere Königreiche gewesen sind denn diese und ihre Grenze weiter denn eure Grenze. ^3^ Die ihr euch weit vom bösen Tag achtet und trachtet immer nach Frevelregiment, ^a^ ^4^ und schlaft auf elfenbeinernen Lagern und pranget auf euren Ruhebetten; ihr esset die Lämmer aus der Herde und die gemästeten Kälber, ^b^ ^5^ und spielet auf dem Psalter und erdichtet euch Lieder wie David, ^c^ ^6^ und trinket Wein aus den Schalen und salbet euch mit Balsam und bekümmert euch nicht um den Schaden Josephs. ^7^ Darum sollen sie nun vornan gehen unter denen, die gefangen weggeführt werden, und soll das Schlemmen der Pranger aufhören.
 ^a^[**6:3** Ps 10,5] ^b^[**6:4** Am 3,15] ^c^[**6:5** Jes 5,12]
 
 ## Tres amenazas de calamidad con respecto a la corrupción moral de Israel
@@ -149,7 +149,7 @@
 ^a^[**8:3** Am 6,10]
 
 ## Amenaza contra los comerciantes de granos usureros
-^4^ Höret dies, die ihr den Armen unterdrückt und die Elenden im Lande verderbt ^a^ ^5^ und sprecht: „Wann will denn der Neumond ein Ende haben, dass wir Getreide verkaufen, und der Sabbat, dass wir Korn feilhaben mögen und das Maß verringern und den Preis steigern und die Waage fälschen, ^b^ ^6^ auf dass wir die Armen um Geld und die Dürftigen um ein Paar Schuhe unter uns bringen und Spreu für Korn verkaufen?“ ^c^ ^7^ Der HErr hat geschworen wider die Hoffart Jakobs: Was gilt's, ob ich solcher ihrer Werke ewig vergessen werde? ^8^ Sollte nicht um solches willen das Land erbeben müssen und alle Einwohner trauern? Ja, es soll ganz wie mit einem Wasser überlaufen werden und weggeführt und überschwemmt werden wie mit dem Fluss Ägyptens. 
+^4^ Höret dies, die ihr den Armen unterdrückt und die Elenden im Lande verderbt ^a^ ^5^ und sprecht: „Wann will denn der Neumond ein Ende haben, dass wir Getreide verkaufen, und der Sabbat, dass wir Korn feilhaben mögen und das Maß verringern und den Preis steigern und die Waage fälschen, ^b^ ^6^ auf dass wir die Armen um Geld und die Dürftigen um ein Paar Schuhe unter uns bringen und Spreu für Korn verkaufen?“ ^c^ ^7^ Der HErr hat geschworen wider die Hoffart Jakobs: Was gilt's, ob ich solcher ihrer Werke ewig vergessen werde? ^8^ Sollte nicht um solches willen das Land erbeben müssen und alle Einwohner trauern? Ja, es soll ganz wie mit einem Wasser überlaufen werden und weggeführt und überschwemmt werden wie mit dem Fluss Ägyptens.
 ^a^[**8:4** Am 2,7] ^b^[**8:5** Neh 10,32; Neh 13,15] ^c^[**8:6** Am 2,6]
 
 ## Anuncio de los castigos divinos, eclipses solares, duelo, abandonado por Dios en extrema necesidad
@@ -171,7 +171,7 @@
 ^a^[**9:7** 5Mo 7,7; Jer 47,4]
 
 ## El avistamiento de la gente; la restauración del antiguo Reino de David
-^8^ Siehe, die Augen des Herrn HErrn sehen auf das sündige Königreich, dass ich's vom Erdboden vertilge; wiewohl ich das Haus Jakob nicht ganz und gar vertilgen will, spricht der HErr. ^9^ Denn siehe, ich will befehlen und das Haus Israel unter allen Heiden sichten lassen, gleichwie man mit einem Sieb sichtet, und kein Körnlein soll auf die Erde fallen. ^10^ Alle Sünder in meinem Volk sollen durchs Schwert sterben, die da sagen: Es wird das Unglück nicht so nahe sein noch uns begegnen. ^a^ ^11^ Zur selben Zeit will ich die zerfallene Hütte Davids wieder aufrichten und ihre Lücken verzäunen, und was abgebrochen ist, wieder aufrichten und will sie bauen wie sie vorzeiten gewesen ist, ^12^ auf dass sie besitzen die Übrigen zu Edom und alle Heiden, über welche mein Name genannt ist, spricht der HErr, der solches tut. 
+^8^ Siehe, die Augen des Herrn HErrn sehen auf das sündige Königreich, dass ich's vom Erdboden vertilge; wiewohl ich das Haus Jakob nicht ganz und gar vertilgen will, spricht der HErr. ^9^ Denn siehe, ich will befehlen und das Haus Israel unter allen Heiden sichten lassen, gleichwie man mit einem Sieb sichtet, und kein Körnlein soll auf die Erde fallen. ^10^ Alle Sünder in meinem Volk sollen durchs Schwert sterben, die da sagen: Es wird das Unglück nicht so nahe sein noch uns begegnen. ^a^ ^11^ Zur selben Zeit will ich die zerfallene Hütte Davids wieder aufrichten und ihre Lücken verzäunen, und was abgebrochen ist, wieder aufrichten und will sie bauen wie sie vorzeiten gewesen ist, ^12^ auf dass sie besitzen die Übrigen zu Edom und alle Heiden, über welche mein Name genannt ist, spricht der HErr, der solches tut.
 ^a^[**9:10** Am 6,3]
 
 ## La gloria de la dispensación futura

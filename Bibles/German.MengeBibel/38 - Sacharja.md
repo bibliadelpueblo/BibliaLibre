@@ -2,7 +2,7 @@
 
 ### 1. Die Überschrift und der einleitende Bußruf
 
- # 1
+# 1
 ^1^ Im achten Monat<sup title="oder: Am achten Neumond">&#x2732;</sup>, im zweiten Regierungsjahre des Darius, erging das Wort des HERRN an den Propheten Sacharja, den Sohn Berechjas, des Sohnes Iddos, folgendermaßen:
 ^2^ »Der HERR ist gegen<sup title="oder: über">&#x2732;</sup> eure Väter schwer erzürnt gewesen.
 ^3^ Nun aber sage zu ihnen: ›So hat der HERR der Heerscharen gesprochen: Kehrt um zu mir‹ – so lautet der Ausspruch des HERRN der Heerscharen –, ›so will auch ich wieder zu euch umkehren‹ – spricht der HERR der Heerscharen.
@@ -29,7 +29,7 @@
 
 #### b) Das zweite Gesicht: Die vier Hörner und die vier Schmiede; Gottes Vernichtungsgericht über die feindlichen Weltmächte
 
- # 2
+# 2
 ^1^ Als ich dann aufblickte und hinschaute, sah ich vier Hörner.
 ^2^ Als ich nun den Engel, der mit mir redete, fragte: »Was haben diese zu bedeuten?«, antwortete er mir: »Das sind die Hörner, welche Juda, Israel und Jerusalem zerstreut haben.«
 ^3^ Hierauf ließ der HERR mich vier Schmiede schauen,
@@ -63,7 +63,7 @@
 
 #### d) Das vierte Gesicht: Das in dem Hohenpriester Josua begnadete und für alle Zukunft hoffnungsreiche Priestertum
 
- # 3
+# 3
 ^1^ Hierauf ließ er<sup title="d.h. der HERR">&#x2732;</sup> mich den Hohenpriester Josua schauen, wie er vor dem Engel des HERRN stand, während der Satan<sup title="d.h. Widersacher">&#x2732;</sup> sich zu seiner Rechten stellte, um ihn anzuklagen.
 ^2^ Da sagte der Engel des HERRN zum Satan: »Der HERR wolle dich schelten<sup title="oder: zur Ruhe verweisen">&#x2732;</sup>, Satan! Ja, der HERR, der sich Jerusalem erwählt hat, möge dir Schweigen gebieten! Ist dieser (Mann) nicht ein aus dem Feuer herausgerissenes<sup title="oder: gerettetes">&#x2732;</sup> Brandscheit?«
 ^3^ Josua war aber mit unsauberen Gewändern bekleidet, während er vor dem Engel stand.
@@ -78,7 +78,7 @@
 
 #### e) Das fünfte Gesicht: Der goldene Leuchter zwischen den beiden Ölbäumen
 
- # 4
+# 4
 ^1^ Da kam der Engel, der mit mir redete, zurück und weckte mich auf wie einen, der aus seinem Schlaf aufgeweckt wird,
 ^2^ und er fragte mich: »Was siehst du?« Ich antwortete: »Ich sehe, da steht ein Leuchter ganz von Gold, und ein Ölbehälter befindet sich oben darauf, und sieben Lampen sind an ihm und sieben Gießröhren für die Lampen, die sich an ihm befinden;
 ^3^ und neben ihm stehen zwei Ölbäume, einer zu seiner Rechten und einer links von ihm.«
@@ -102,7 +102,7 @@
 
 #### f) Das sechste Gesicht: Die fliegende Schriftrolle
 
- # 5
+# 5
 ^1^ Als ich dann wieder aufblickte und hinschaute, sah ich, wie eine Schriftrolle geflogen kam,
 ^2^ und auf seine<sup title="d.h. des Engels">&#x2732;</sup> Frage: »Was siehst du?« antwortete ich: »Ich sehe eine Schriftrolle fliegen, zwanzig Ellen lang und zehn Ellen breit.«
 ^3^ Da sagte er zu mir: »Das ist der Fluch, der über das ganze weite Land ergeht; denn jeder Dieb wird nach der Bestimmung, die auf der einen Seite der Rolle geschrieben steht, weggefegt<sup title="oder: hinweggerafft">&#x2732;</sup> werden, und jeder Meineidige wird nach der Bestimmung, die auf der andern Seite der Rolle geschrieben steht, weggefegt<sup title="oder: hinweggerafft">&#x2732;</sup> werden.
@@ -120,7 +120,7 @@
 
 #### h) Das achte Gesicht: Die Ausfahrt der vier himmlischen Kriegswagen (zur Ausrichtung des göttlichen Zorns?)
 
- # 6
+# 6
 ^1^ Als ich dann abermals aufblickte und hinschaute, sah ich vier Wagen zwischen zwei<sup title="oder: den beiden">&#x2732;</sup> Bergen hervorkommen; die Berge aber waren von Erz.
 ^2^ Am ersten Wagen waren rotbraune Rosse, am zweiten Wagen schwarze Rosse,
 ^3^ am dritten Wagen weiße Rosse und am vierten Wagen scheckige Rosse.
@@ -144,7 +144,7 @@
 
 #### a) Anfrage von Männern aus Bethel bezüglich der Fasttage
 
- # 7
+# 7
 ^1^ Im vierten Regierungsjahre des Königs Darius erging das Wort des HERRN an Sacharja am vierten Tage des neunten Monats, im Monat Kislew.
 ^2^ Es hatte nämlich Bethel den Sarezer und Regem-Melech samt seinen Leuten abgesandt, um den HERRN (durch Opfer) gnädig zu stimmen,
 ^3^ und zugleich, um an die Priester, die zum Tempel des HERRN der Heerscharen gehörten, und an die Propheten folgende Anfrage zu richten: »Sollen wir auch fernerhin im fünften Monat ein Trauerfest abhalten mit Fasten, wie wir es nun schon wer weiß wie viele Jahre getan haben?«
@@ -170,7 +170,7 @@
 
 ##### cc) Gott liebt sein Volk und wird es zu hohem Glück gelangen lassen, aber seine sittlichen Forderungen hält er unwandelbar aufrecht (sieben Sprüche)
 
- # 8
+# 8
 ^1^ Weiter erging das Wort des HERRN der Heerscharen (an mich) folgendermaßen:
 ^2^ »So spricht der HERR der Heerscharen: Ich bin mit großem Liebeseifer um Zion erfüllt und von heftigem Zorn um seinetwillen entbrannt!«<sup title="vgl. 1,14-15">&#x2732;</sup>
 
@@ -212,7 +212,7 @@
 
 ##### aa) Gottes Gericht über die feindlichen Völker in Syrien und Phönizien und sein Eintreten für Jerusalem
 
- # 9
+# 9
 ^1^ (Dies ist) der Ausspruch des Wortes des HERRN, das gegen das Land Hadrach gerichtet ist und auf Damaskus sich niederläßt – denn dem HERRN gehört das Auge Arams<sup title="d.h. des östlichen Syriens">&#x2732;</sup> sowie alle Stämme Israels –,
 ^2^ und auch gegen Hamath, das daran grenzt, gegen Tyrus und Sidon, weil sie so ausnehmend weise sind.
 ^3^ Wohl hat Tyrus sich eine Festung erbaut und Silber aufgehäuft wie Staub und Gold so viel wie Gassenkehricht,
@@ -241,7 +241,7 @@
 
 ##### aa) Gott allein verleiht jeglichen Segen; die Götzen und Lügenpropheten schaffen nur Unheil
 
- # 10
+# 10
 ^1^ Bittet den HERRN um Regen zur Zeit des Spätregens<sup title="= des Frühlings">&#x2732;</sup> und des Frühregens<sup title="= des Herbstes">&#x2732;</sup>! Der HERR ist es, der Gewitterwolken schafft und ihnen Regengüsse verleiht für jeglichen Pflanzenwuchs auf dem Felde.
 ^2^ Dagegen die Hausgötzen<sup title="1.Mose 31,19">&#x2732;</sup> reden Nichtiges, und die Wahrsager schauen<sup title="oder: prophezeien">&#x2732;</sup> Trug, verkünden eitle<sup title="oder: erlogene">&#x2732;</sup> Träume und spenden windigen Trost. Darum haben (unsere Volksgenossen) fortwandern müssen wie eine Herde und leben im Elend, weil kein Hirt da ist.
 
@@ -263,7 +263,7 @@
 
 ##### dd) Der furchtbare Zusammenbruch der feindlichen Weltmacht
 
- # 11
+# 11
 ^1^ Öffne, o Libanon, deine Tore, damit das Feuer deine Zedern verzehre!
 ^2^ Wehklaget, ihr Zypressen, daß die Zedern gefallen, daß die herrlichen Bäume verwüstet sind! Wehklaget, ihr Eichen Basans, daß der undurchdringliche Wald niedergeschlagen ist!
 ^3^ Horch! Die Hirten jammern, daß ihre herrliche Weide verwüstet ist! Horch! Die Löwen brüllen, daß die Pracht<sup title="= das prachtvolle Dickicht">&#x2732;</sup> des Jordans verwüstet ist!
@@ -299,7 +299,7 @@
 
 ##### aa) Ansturm der Heiden gegen Jerusalem; Rettung der Stadt durch Gott und durch das Verdienst Judas
 
- # 12
+# 12
 ^1^ (Dies ist) der Ausspruch des Wortes des HERRN über Israel; so lautet der Ausspruch des HERRN, der den Himmel ausgespannt und die Erde gegründet und den Geist des Menschen in dessen Innern gebildet hat:
 ^2^ »Wisset wohl: ich mache Jerusalem zu einer Schale voll Taumeltranks für alle Völker ringsum; und auch an Juda wird die Reihe kommen bei der Belagerung Jerusalems.
 ^3^ An jenem Tage will ich Jerusalem zu einem Hebestein für alle Völker machen: alle, die ihn aufheben wollen, werden sich unfehlbar wund an ihm ritzen, wenn alle Völker der Erde sich gegen die Stadt versammeln.
@@ -320,7 +320,7 @@
 
 ##### cc) Die göttliche Entsündigung des Volkes; Beseitigung des Götzendienstes, des falschen Prophetentums und jeglicher Unreinheit
 
- # 13
+# 13
 ^1^ An jenem Tage wird dem Hause Davids und den Bewohnern Jerusalems ein Quell erschlossen sein (als Mittel) gegen Sünde und Unreinheit.
 ^2^ »Und geschehen wird es an jenem Tage« – so lautet der Ausspruch des HERRN der Heerscharen –, »da werde ich die Namen der Götzen aus dem Lande ausrotten, so daß ihrer nicht mehr gedacht wird; und auch die Propheten mitsamt dem unreinen Geist werde ich aus dem Lande wegschaffen.«
 ^3^ Wenn dann jemand doch noch als Prophet auftritt, so werden sein Vater und seine Mutter, seine leiblichen Eltern, zu ihm sagen: »Du darfst nicht am Leben bleiben, denn du hast Lügen geredet im Namen des HERRN!«, und sein Vater und seine Mutter, seine leiblichen Eltern, werden ihn durchbohren, wenn er als Prophet aufgetreten ist.
@@ -338,7 +338,7 @@
 
 ##### aa) Der Tag des Herrn: Kampf, Not und Rettung in Jerusalem
 
- # 14
+# 14
 ^1^ Wisse wohl: es kommt ein Tag vom HERRN, da wird man die dir abgenommene Beute in deiner Mitte verteilen,
 ^2^ und zwar werde ich alle Völker zum Kriege gegen Jerusalem versammeln, und die Stadt wird erobert, die Häuser werden geplündert und die Weiber geschändet werden; die Hälfte der (Einwohnerschaft der) Stadt muß in die Gefangenschaft<sup title="oder: Verbannung">&#x2732;</sup> wandern, aber ein Rest der Bevölkerung wird nicht aus der Stadt ausgerottet werden.
 ^3^ Dann aber wird der HERR ausziehen und gegen jene Völker kämpfen, wie er jemals<sup title="oder: auch sonst">&#x2732;</sup> an Schlachttagen gekämpft hat.

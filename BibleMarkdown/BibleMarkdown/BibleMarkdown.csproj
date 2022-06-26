@@ -15,12 +15,15 @@
   <PropertyGroup Condition="'$(Configuration)'=='Release'">
      <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
      <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
-     <OutputPath >..\..\bin</OutputPath>
+     <OutputPath>..\..\bin</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Pandoc" Version="0.2.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Scripting" Version="4.2.0" />
+    <PackageReference Include="Pandoc" Version="1.0.0" />
     <PackageReference Include="Pandoc.Windows" Version="2.1.0" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties properties_4launchsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 </Project>

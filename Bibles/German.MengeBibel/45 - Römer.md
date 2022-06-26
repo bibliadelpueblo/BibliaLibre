@@ -4,7 +4,7 @@
 
 #### a) Bezeichnung des Absenders und der Empfänger des Briefes und apostolischer Segensgruß an die Gemeinde
 
- # 1
+# 1
 ^1^ Ich, Paulus, ein Knecht<sup title="= Diener">&#x2732;</sup> Christi Jesu, bin durch Berufung zum Apostel ausgesondert<sup title="= eigens dazu bestellt">&#x2732;</sup>, die Heilsbotschaft Gottes zu verkündigen,
 ^2^ die er<sup title="d.h. Gott">&#x2732;</sup> durch seine Propheten in (den) heiligen Schriften voraus verheißen hat,
 ^3^ nämlich (die Heilsbotschaft) von seinem Sohne. Dieser ist nach dem Fleische aus Davids Samen<sup title="= Nachkommenschaft">&#x2732;</sup> hervorgegangen,
@@ -60,7 +60,7 @@
 
 #### a) Auch den Juden steht das Zorngericht bevor; ihr Richten anderer befreit sie nicht vom Gericht Gottes
 
- # 2
+# 2
 ^1^ Daher gibt es (auch) für dich, o Mensch, wer du auch sein magst, der du dich zum Richter (über andere) machst, keine Entschuldigung; denn worin du den anderen richtest, darin verurteilst du dich selbst; du, sein Richter, begehst ja dieselben Sünden!
 ^2^ Wir wissen aber, daß Gottes Gericht<sup title="oder: Urteil">&#x2732;</sup> der Wahrheit gemäß über die ergeht, welche derartiges verüben.
 ^3^ Rechnest du etwa darauf, o Mensch, der du dich zum Richter über solche Übeltäter machst und doch selber das Gleiche verübst, daß du dem Urteil Gottes (beim jüngsten Gericht) entrinnen werdest?
@@ -104,7 +104,7 @@
 
 #### c) Die bevorzugte Stellung der Juden bleibt dennoch bestehen; durch ihre Untreue wird die Treue Gottes in ein um so helleres Licht gestellt
 
- # 3
+# 3
 ^1^ Was bleibt hiernach überhaupt noch als Vorzug<sup title="oder: Vorrecht">&#x2732;</sup> der Juden (vor den Heiden) oder als Nutzen der Beschneidung bestehen?
 ^2^ Immerhin viel in jeder Hinsicht! Zuerst, daß ihnen die Verheißungen Gottes anvertraut worden sind.
 ^3^ Denn nicht wahr, wenn manche sich untreu erwiesen haben – wird etwa deren Untreue die Treue Gottes aufheben?
@@ -157,7 +157,7 @@
 
 #### b) Nachweis der Glaubensgerechtigkeit bei Abraham und durch ein Zeugnis Davids
 
- # 4
+# 4
 ^1^ Was werden wir somit von unserm Stammvater Abraham sagen? Was hat er nach dem Fleisch<sup title="d.h. durch sein eigenes menschliches Tun">&#x2732;</sup> erlangt?
 ^2^ Wenn Abraham nämlich aufgrund von Werken gerechtfertigt worden ist, so hat er allerdings Grund, sich zu rühmen, freilich (auch dann) nicht vor<sup title="oder: bei">&#x2732;</sup> Gott.
 ^3^ Denn was sagt die Schrift? »Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet.«<sup title="1.Mose 15,6">&#x2732;</sup>
@@ -200,7 +200,7 @@
 
 #### a) Die künftige Rettung ist für die Gerechtfertigten trotz aller Trübsale aufgrund der durch den Opfertod Christi bewiesenen Liebe Gottes gewährleistet
 
- # 5
+# 5
 ^1^ Da wir nun aus Glauben<sup title="= aufgrund des Glaubens">&#x2732;</sup> gerechtfertigt worden sind, so haben wir Frieden mit Gott durch unsern Herrn Jesus Christus,
 ^2^ durch den wir im Glauben auch den Zugang zu unserm jetzigen Gnadenstande erlangt haben, und wir rühmen uns auch der Hoffnung auf die Herrlichkeit Gottes.
 ^3^ Ja noch mehr als das: wir rühmen uns dessen sogar in den Trübsalen, weil wir wissen, daß die Trübsal standhaftes Ausharren<sup title="oder: Geduld">&#x2732;</sup> wirkt,
@@ -233,7 +233,7 @@
 
 ##### aa) Wir sind mitgekreuzigt, mitgestorben, mitbegraben (durch die Taufe) und mitauferweckt mit Christus Jesus
 
- # 6
+# 6
 ^1^ Was folgt nun daraus? Wollen<sup title="oder: sollen">&#x2732;</sup> wir in der Sünde verharren, damit die Gnade sich um so reicher erweise?
 ^2^ Nimmermehr! Wie sollten wir, die wir der Sünde gestorben<sup title="oder: für die Sünde tot">&#x2732;</sup> sind, in ihr noch weiterleben?
 ^3^ Oder wißt ihr nicht, daß wir alle, die wir auf Christus Jesus<sup title="oder: in Jesus Christus hinein">&#x2732;</sup> getauft worden sind, auf seinen Tod getauft<sup title="oder: in seinen Tod hineinversenkt">&#x2732;</sup> worden sind?
@@ -271,7 +271,7 @@
 
 ##### bb) Sind wir mit Christus gestorben und auferstanden, so sind wir rechtmäßig frei vom Gesetz und sind verpflichtet, im Dienst des Auferstandenen uns bezüglich der Sünde für tot zu halten
 
- # 7
+# 7
 ^1^ Oder wißt ihr nicht, meine Brüder – ich rede ja doch zu gesetzeskundigen Leuten –, daß das Gesetz für<sup title="oder: über">&#x2732;</sup> den Menschen nur, solange er lebt, bindende Gewalt hat?
 ^2^ So ist z.B. eine verheiratete Frau gesetzlich an ihren Mann so lange gebunden, als er lebt; wenn aber der Mann stirbt, so ist sie frei von dem Gesetz, das sie an den Mann bindet.
 ^3^ Demnach wird sie zwar, solange ihr Mann lebt, allgemein als Ehebrecherin gelten, wenn sie sich einem andern Manne zu eigen gibt; stirbt aber ihr Mann, so ist sie frei vom Gesetz und keine Ehebrecherin, wenn sie sich einem andern Mann zu eigen gibt.
@@ -310,7 +310,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 
 ##### aa) Der Christ steht unter dem Gesetz des Geistes
 
- # 8
+# 8
 ^1^ So gibt es also jetzt keine Verurteilung mehr für die, welche in Christus Jesus sind;
 ^2^ denn das Gesetz des Lebensgeistes in Christus Jesus hat uns von dem Gesetz der Sünde und des Todes freigemacht.
 ^3^ Denn was dem (mosaischen) Gesetz unmöglich war, das, worin es wegen (des Widerstandes) des Fleisches ohnmächtig war – Gott hat (es vollbracht), (nämlich) die Sünde im Fleische verurteilt, indem er seinen Sohn in der Gleichgestalt des Sündenfleisches und um der Sünde willen sandte,
@@ -375,7 +375,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 
 ### 1. Einleitung: Der tiefe Schmerz des Apostels über die zeitweilige Ausschließung seines Volkes vom Heile
 
- # 9
+# 9
 ^1^ Ich sage die Wahrheit in Christus, ich lüge nicht – mein Gewissen bezeugt es mir im heiligen Geist –:
 ^2^ ich trage schweren Kummer und unaufhörlichen Schmerz in meinem Herzen.
 ^3^ Gern wollte ich selbst durch einen Fluch aus der Gemeinschaft mit Christus ausgestoßen sein, wenn ich dadurch meine Brüder, meine Volksgenossen nach dem Fleische, retten könnte;
@@ -424,7 +424,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 ^32^ Warum nicht? Weil sie es nicht auf dem Glaubensweg, sondern es mit Werken haben erreichen wollen: da haben sie sich am Stein des Anstoßes gestoßen,
 ^33^ von dem geschrieben steht<sup title="Jes 28,16; 8,14">&#x2732;</sup>: »Siehe, ich lege in Zion einen Stein des Anstoßes und einen Felsen des Ärgernisses<sup title="oder: des Strauchelns = zum Fallen">&#x2732;</sup>; und wer auf ihn sein Vertrauen setzt<sup title="oder: an ihn glaubt">&#x2732;</sup>, wird nicht zuschanden<sup title="oder: enttäuscht">&#x2732;</sup> werden.«
 
- # 10
+# 10
 ^1^ Liebe Brüder! Der aufrichtige Wunsch meines Herzens und mein Gebet zu Gott für sie geht dahin, daß sie gerettet werden;
 ^2^ denn ich muß ihnen das Zeugnis ausstellen, daß sie Eifer für Gott haben, aber leider nicht in der rechten Erkenntnis.
 ^3^ Denn weil sie die Gottesgerechtigkeit verkannt haben und dagegen beflissen sind, ihre eigene Gerechtigkeit zur Geltung zu bringen, haben sie sich der Gottesgerechtigkeit nicht unterworfen.
@@ -457,7 +457,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 
 #### a) Der größere Teil der Juden ist zwar verstockt und von Gott verstoßen, aber schon jetzt ist ein kleiner Teil durch Gottes Gnade zum Heil bestimmt
 
- # 11
+# 11
 ^1^ So frage ich nun: Hat Gott sein Volk etwa verstoßen?<sup title="Ps 94,14">&#x2732;</sup> Keineswegs! Ich bin doch auch ein Israelit, aus Abrahams Nachkommenschaft, aus dem Stamme Benjamin.
 ^2^ Nein, Gott hat sein Volk, das er zuvor ersehen<sup title="= sich von Anfang an zum Eigentum erwählt">&#x2732;</sup> hat, nicht verstoßen. Oder wißt ihr nicht, was die Schrift bei (der Erzählung von) Elia sagt, als dieser vor Gott gegen Israel mit der Klage auftritt<sup title="1.Kön 19,10.14">&#x2732;</sup>:
 ^3^ »Herr, deine Propheten haben sie getötet, deine Altäre niedergerissen; ich bin allein übriggeblieben, und nun trachten sie mir nach dem Leben«?
@@ -508,7 +508,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 
 ### 1. Allgemeine Mahnung als Eingang: Heiligung des persönlichen Lebens durch völlige Hingabe an Gott
 
- # 12
+# 12
 ^1^ So ermahne ich euch nun, liebe Brüder, durch (den Hinweis auf) die Barmherzigkeit Gottes: Bringt eure Leiber als ein lebendiges, heiliges und Gott wohlgefälliges Opfer dar: (das sei) euer vernünftiger Gottesdienst!
 ^2^ Gestaltet eure Lebensführung nicht nach der Weise dieser Weltzeit, sondern wandelt euch um durch die Erneuerung eures Sinnes, damit ihr ein sicheres Urteil darüber gewinnt, welches der Wille Gottes sei, nämlich das Gute und (Gott) Wohlgefällige und Vollkommene.
 
@@ -539,7 +539,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 
 ### 4. Ermahnung zum Gehorsam gegen die gottgesetzte Obrigkeit
 
- # 13
+# 13
 ^1^ Jedermann sei den obrigkeitlichen Gewalten<sup title="oder: den vorgesetzten Obrigkeiten">&#x2732;</sup> untertan; denn es gibt keine Obrigkeit, ohne von Gott (bestellt zu sein), und wo immer eine besteht, ist sie von Gott verordnet.
 ^2^ Wer sich also der Obrigkeit widersetzt, der lehnt sich damit gegen Gottes Ordnung auf; und die sich auflehnen, werden sich selbst ein Strafurteil<sup title="= ihre gerechte Strafe">&#x2732;</sup> zuziehen.
 ^3^ Denn die obrigkeitlichen Personen sind nicht für die guten Taten<sup title="= für die, welche recht handeln">&#x2732;</sup> ein Schrecken, sondern für die bösen. Willst du also frei von Furcht vor der Obrigkeit sein, so tu das Gute: dann wirst du Anerkennung von ihr erhalten;
@@ -565,7 +565,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 
 #### a) Beurteilung der die Gemeinde bewegenden Streitfrage und Warnung vor liebloser Verurteilung der äußeren Lebensführung des Nächsten
 
- # 14
+# 14
 ^1^ Auf den im Glauben Schwachen nehmet (liebevolle) Rücksicht, ohne über Gewissensbedenken (mit ihm) zu streiten.
 ^2^ Der eine ist überzeugt, alles essen zu dürfen, während der Schwache nur Pflanzenkost genießt.
 ^3^ Wer (alles) ißt, verachte den nicht, der nicht (alles) ißt; und wer nicht (alles) ißt, soll über den, der (alles) ißt, nicht zu Gericht sitzen, denn Gott hat ihn (als Angehörigen) angenommen.
@@ -596,7 +596,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 
 #### c) Ermahnung zur Geduld mit den Schwachen und zu christlicher Eintracht nach dem Vorbild Christi
 
- # 15
+# 15
 ^1^ Da haben wir Starken die Pflicht, die Schwächen derer, die nicht so stark sind (wie wir), zu tragen und nicht wohlgefällig an uns selbst zu denken:
 ^2^ nein, jeder von uns lebe dem Nächsten zu Gefallen, ihm zum Besten, zu seiner Erbauung<sup title="= Förderung">&#x2732;</sup>!
 ^3^ Denn auch Christus hat nicht sich selbst zu Gefallen gelebt, sondern wie geschrieben steht<sup title="Ps 69,10">&#x2732;</sup>: »Die Schmähungen derer, die dich schmähen, sind auf mich gefallen<sup title="= haben mich getroffen">&#x2732;</sup>.«
@@ -647,7 +647,7 @@ Also ist es so: Auf mich selbst gestellt diene ich mit der Vernunft dem Gesetz G
 
 ### 4. Empfehlung der Phöbe, der Überbringerin des Briefes; Grüße des Apostels an Glaubensgenossen in Rom
 
- # 16
+# 16
 ^1^ Ich empfehle euch aber unsere Schwester Phöbe, die im Dienst der Gemeinde zu Kenchreä steht:
 ^2^ nehmt sie im Herrn auf, wie es sich für Heilige geziemt, und steht ihr in allen Fällen, wo sie euer bedarf, hilfreich zur Seite; denn sie hat gleichfalls vielen Beistand geleistet, auch mir persönlich.
 

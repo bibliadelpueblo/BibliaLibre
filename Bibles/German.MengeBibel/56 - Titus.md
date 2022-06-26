@@ -2,7 +2,7 @@
 
 ### Zuschrift und Segenswunsch
 
- # 1
+# 1
 ^1^ Ich, Paulus, ein Knecht Gottes und ein Apostel Jesu Christi, (bestellt) für den Glauben der Auserwählten Gottes und für die Erkenntnis der Wahrheit, die sich in einem gottseligen Wandel bewährt,
 ^2^ (bestellt) aufgrund der Hoffnung des ewigen Lebens, das der untrügliche Gott (schon) vor ewigen Zeiten verheißen hat –
 ^3^ kundgetan aber hat er sein Wort zur festgesetzten Zeit durch die Predigt, mit der ich im Auftrage Gottes, unsers Retters<sup title="oder: Heilands">&#x2732;</sup> betraut worden bin –:
@@ -34,7 +34,7 @@ Gnade (sei mit dir) und Friede von Gott dem Vater und unserm Retter<sup title="o
 
 #### a) Vorschriften für die einzelnen Stände in der Gemeinde
 
- # 2
+# 2
 ^1^ Du aber sprich offen aus, was der gesunden Lehre entspricht,
 ^2^ nämlich daß die älteren Männer nüchtern sein sollen, ehrbar, besonnen, gesund im Glauben, in der Liebe und in der Standhaftigkeit<sup title="oder: Geduld">&#x2732;</sup>. –
 ^3^ Ebenso ermahne die älteren Frauen, sich in ihrer Haltung würdevoll<sup title="eig. wie Frauen von priesterlichem Stand">&#x2732;</sup> zu benehmen, nicht klatschsüchtig zu sein, nicht dem übermäßigen Weingenuß ergeben, Lehrerinnen des Guten,
@@ -56,7 +56,7 @@ Gnade (sei mit dir) und Friede von Gott dem Vater und unserm Retter<sup title="o
 
 #### c) Vom Verhalten gegen die heidnische Obrigkeit und die Nichtchristen und vom Wandel der Christen als erneuerter Menschen
 
- # 3
+# 3
 ^1^ Schärfe ihnen ein, daß sie sich den obrigkeitlichen Gewalten<sup title="= der Obrigkeit und den Behörden">&#x2732;</sup> unterordnen, (ihren Befehlen) Gehorsam leisten und zu jedem guten Werk bereit seien,
 ^2^ daß sie niemand schmähen, sich friedfertig und nachgiebig benehmen und volle Sanftmut gegen alle Menschen beweisen.
 ^3^ Denn einst sind auch wir unverständig und ungehorsam gewesen und irre gegangen, indem wir mannigfachen Begierden und Lüsten dienten und in Bosheit und Neid dahinlebten, hassenswert und gegeneinander haßerfüllt.

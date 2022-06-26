@@ -6,7 +6,7 @@
 
 #### a) Allgemeine Darlegung dieser Hoheit
 
- # 1
+# 1
 ^1^ Nachdem Gott vorzeiten vielfältig<sup title="= zu vielen Malen">&#x2732;</sup> und auf vielerlei Weise zu den Vätern geredet hat in den Propheten,
 ^2^ hat er am Ende dieser Tage<sup title="d.h. in dieser Endzeit">&#x2732;</sup> zu uns geredet im Sohn, den er zum Erben von allem eingesetzt<sup title="= bestellt">&#x2732;</sup>, durch den er auch die Weltzeiten<sup title="oder: Welten">&#x2732;</sup> geschaffen hat.
 ^3^ Dieser ist der Abglanz seiner Herrlichkeit und die Ausprägung<sup title="= der Abdruck, oder: das Ebenbild">&#x2732;</sup> seines Wesens und trägt das Weltall durch sein Allmachtswort; er hat sich, nachdem er die Reinigung von den Sünden vollbracht hat, zur Rechten der Erhabenheit<sup title="= der Majestät Gottes">&#x2732;</sup> in den Himmelshöhen gesetzt
@@ -27,7 +27,7 @@
 
 #### c) Daraus ergibt sich für uns die Verpflichtung, den durch diesen Sohn zu uns geredeten Worten willigen Gehorsam entgegenzubringen
 
- # 2
+# 2
 ^1^ Darum müssen wir uns um so fester an das halten, was wir gehört haben, um seiner ja nicht verlustig zu gehen.
 ^2^ Denn wenn schon das durch Vermittlung von Engeln verkündete Wort<sup title="= das Gesetz; vgl. Apg 7,38.53; Gal 3,19">&#x2732;</sup> unverbrüchlich war und jede Übertretung und jeder Ungehorsam die gebührende Vergeltung empfing<sup title="10,28">&#x2732;</sup>:
 ^3^ wie sollten wir da (der Strafe) entrinnen, wenn wir ein so hohes Heil unbeachtet lassen? Dieses hat ja seinen Anfang von der Verkündigung durch den Herrn (selbst) genommen und ist uns dann von den Ohrenzeugen zuverlässig bestätigt worden,
@@ -60,7 +60,7 @@
 
 ### 3. Der Gottessohn Jesus in seiner Erhabenheit über den Gottesdiener Mose
 
- # 3
+# 3
 ^1^ Darum, heilige Brüder, Genossen der himmlischen Berufung, richtet euer Augenmerk auf den Gottesboten und Hohenpriester unsers Bekenntnisses, auf Jesus,
 ^2^ der da »treu« war dem, der ihn geschaffen<sup title="oder: dazu gemacht">&#x2732;</sup> hat, wie auch Mose (treu gewesen ist) »in Gottes ganzem Hause«<sup title="4.Mose 12,7">&#x2732;</sup>.
 ^3^ Denn einer größeren Herrlichkeit<sup title="oder: Ehre">&#x2732;</sup> als Mose ist dieser würdig erachtet worden, in dem Maße, als der, welcher das Haus hergestellt hat, höher an Ehre steht als das Haus<sup title="d.h. die Hausgenossen">&#x2732;</sup>.
@@ -93,7 +93,7 @@
 
 #### b) Ausdeutung der Verheißung des Psalmwortes bezüglich der Ruhe des Gottesvolkes
 
- # 4
+# 4
 ^1^ Da nun die Verheißung des Eingehens in seine Ruhe noch unerfüllt geblieben ist<sup title="oder: immer noch besteht">&#x2732;</sup>, so wollen wir ängstlich darauf bedacht sein, daß es sich bei keinem von euch herausstelle, er sei zurückgeblieben<sup title="= nicht ans Ziel gekommen">&#x2732;</sup>.
 ^2^ Denn die Heilsbotschaft ist an uns ebensogut ergangen wie an jene; aber jenen hat das Wort, das sie zu hören bekamen, nichts genützt, weil es bei den Hörern nicht mit dem Glauben vereinigt<sup title="= fest verwachsen">&#x2732;</sup> war.
 ^3^ Wir dagegen, die wir zum Glauben gekommen sind, gehen in die Ruhe ein, wie er<sup title="= Gott">&#x2732;</sup> gesagt hat<sup title="Ps 95,11">&#x2732;</sup>: »So daß ich in meinem Zorn schwur: ›Sie sollen nimmermehr in meine Ruhe eingehen!‹« – wiewohl doch das Wirken (Gottes) seit<sup title="oder: mit">&#x2732;</sup> der Vollendung der Weltschöpfung zum Abschluß gekommen war.
@@ -123,7 +123,7 @@
 
 #### b) Bei Christus finden sich die notwendigen, in Melchisedek vorgeschatteten Erfordernisse des Hohenpriesters
 
- # 5
+# 5
 ^1^ Denn jeder aus der Zahl der Menschen genommene Hohepriester wird für Menschen zum Dienst vor Gott eingesetzt, um teils unblutige, teils blutige Opfer für Sünden darzubringen;
 ^2^ und er ist dabei wohl imstande, die Unwissenden und Irrenden billig<sup title="oder: mit Nachsicht">&#x2732;</sup> zu beurteilen, weil er ja selbst mit Schwachheit behaftet ist.
 ^3^ Und um dieser willen muß er wie für das Volk, so auch für sich selbst Opfer der Sünden wegen darbringen.
@@ -146,7 +146,7 @@
 
 #### a) Es gilt fortzuschreiten; Rückfall ist gefährlich und kann zu unheilbarem Schaden führen
 
- # 6
+# 6
 ^1^ Darum wollen wir (jetzt) von den Anfangsgründen der Lehre Christi<sup title="oder: über Christus">&#x2732;</sup> absehen und uns zur vollen Reife<sup title="oder: Lehre für Gereifte">&#x2732;</sup> erheben, wollen nicht noch einmal den Grund legen mit Sinnesänderung, die sich von toten Werken abkehrt, und mit dem Glauben an Gott,
 ^2^ mit der Belehrung über Waschungen<sup title="oder: Taufen">&#x2732;</sup> und Handauflegung, über Totenauferstehung und ewiges Gericht.
 ^3^ Ja, dies wollen wir tun, wenn anders Gott es gelingen läßt.
@@ -180,7 +180,7 @@
 
 ##### aa) Angaben über die Person Melchisedeks
 
- # 7
+# 7
 ^1^ Dieser Melchisedek nämlich, König von Salem, Priester des höchsten Gottes, ging dem Abraham entgegen, als dieser von der Besiegung der Könige<sup title="1.Mose 14,17-20">&#x2732;</sup> zurückkehrte, und segnete ihn;
 ^2^ dafür teilte Abraham ihm dann auch den Zehnten von der ganzen Beute zu. Zunächst ist er, wenn man seinen Namen deutet, ›König der Gerechtigkeit‹, sodann aber auch ›König von Salem‹, das bedeutet ›König des Friedens‹;
 ^3^ er hat (im biblischen Bericht) keinen Vater, keine Mutter, keine Ahnenreihe, weder einen Anfang seiner Tage noch ein Ende seines Lebens, gleicht vielmehr dem Sohne Gottes: er bleibt Priester für immer.
@@ -226,7 +226,7 @@
 
 ##### aa) Die Überlegenheit des himmlischen Hohepriesterdienstes Jesu und des neuen Bundes, dessen Mittler er ist
 
- # 8
+# 8
 ^1^ Die Hauptsache aber bei der vorliegenden Darlegung ist folgendes: Einen solchen Hohenpriester haben wir, der sich im Himmel zur Rechten des Thrones der göttlichen Erhabenheit<sup title="= Majestät">&#x2732;</sup> gesetzt hat,
 ^2^ und zwar als Verwalter<sup title="oder: priesterlicher Diener">&#x2732;</sup> des Heiligtums, nämlich des wahren Zeltes<sup title="vgl. V.5">&#x2732;</sup>, das der Herr, nicht ein Mensch errichtet hat.
 ^3^ Denn jeder Hohepriester wird zu dem Zweck bestellt, unblutige und blutige Opfer darzubringen; daher muß auch dieser<sup title="d.h. Jesus">&#x2732;</sup> etwas darzubringen haben.
@@ -244,7 +244,7 @@
 
 ##### bb) Die Unvollkommenheit des levitischen Priesterdienstes und die Vollkommenheit (oder: Überlegenheit) des hohepriesterlichen Dienstes Christi
 
- # 9
+# 9
 ^1^ Allerdings hatte auch der erste (Bund) Satzungen<sup title="= feste Bestimmungen">&#x2732;</sup> für den Gottesdienst und (hatte) auch das weltliche<sup title="oder: irdische">&#x2732;</sup> Heiligtum.
 ^2^ Es wurde<sup title="oder: war">&#x2732;</sup> nämlich ein Zelt hergestellt, dessen Vorderraum, in welchem sich der Leuchter sowie der Tisch mit den aufgelegten Schaubroten befinden, das sogenannte Heilige ist.
 ^3^ Hinter dem zweiten Vorhang aber liegt der Teil des Zeltes, der das Allerheiligste genannt wird,
@@ -285,7 +285,7 @@
 
 ##### bb) Das schattenhafte Vorbild und die Unzulänglichkeit des alljährlichen Versöhnungsopfers des levitischen Hohenpriesters; die Vollkommenheit des Opfers Jesu
 
- # 10
+# 10
 ^1^ Denn weil das (mosaische) Gesetz nur das schattenhafte Abbild der zukünftigen Heilsgüter enthält<sup title="= darbietet">&#x2732;</sup>, nicht aber die Gestalt der Dinge selbst<sup title="d.h. die wirkliche Erscheinungsform der Dinge">&#x2732;</sup>, so ist es nimmermehr imstande, alljährlich<sup title="vgl. 9,25">&#x2732;</sup> durch dieselben Opfer, die man immer wieder darbringt, die an den Opfern Teilnehmenden ans Ziel<sup title="= zur Vollendung">&#x2732;</sup> zu bringen.
 ^2^ Würde man sonst nicht mit ihrer Darbringung aufgehört haben, weil doch die Teilnehmer am Gottesdienst keinerlei Schuldbewußtsein mehr gehabt hätten, wenn sie ein für allemal gereinigt gewesen wären?
 ^3^ Statt dessen tritt durch diese Opfer alljährlich eine Erinnerung an (die) Sünden ein,
@@ -342,7 +342,7 @@
 ^38^ Mein Gerechter aber wird aus Glauben<sup title="= infolge seines Glaubens">&#x2732;</sup> das Leben haben«, und »wenn er kleinmütig zurückweicht, hat mein Herz kein Wohlgefallen an ihm«<sup title="Jes 26,20; Hab 2,3-4">&#x2732;</sup>.
 ^39^ Wir aber haben nichts mit dem Zurückweichen<sup title="= Kleinmut">&#x2732;</sup> zu tun, das zum Verderben führt, sondern (halten es) mit dem Glauben, der das Leben gewinnt.
 
- # 11
+# 11
 ^1^ Es ist aber der Glaube ein zuversichtliches Vertrauen auf das, was man hofft, ein festes Überzeugtsein von Dingen<sup title="oder: Tatsachen">&#x2732;</sup>, die man (mit Augen) nicht sieht<sup title="vgl. Joh 20,29">&#x2732;</sup>.
 
 ##### bb) Alttestamentliche Vorbilder solchen Glaubens
@@ -401,7 +401,7 @@
 
 ##### cc) Ermahnung zur Bewährung der Glaubenstreue besonders im Hinblick auf das Vorbild Jesu
 
- # 12
+# 12
 ^1^ So wollen denn auch wir, da wir uns von einer solchen Wolke von Zeugen umgeben sehen, alles, was uns beschwert, und (besonders) die uns so leicht umstrickende Sünde ablegen und mit standhafter Ausdauer in dem uns obliegenden Wettkampfe laufen,
 ^2^ indem wir dabei hinblicken auf Jesus, den Anfänger und Vollender des Glaubens, der um den Preis der Freude, die ihn (als Siegeslohn) erwartete, den Kreuzestod erduldet und die Schmach für nichts geachtet, dann sich aber zur Rechten des Thrones Gottes gesetzt hat.
 ^3^ Ja, denkt an ihn, der ein derartiges Widersprechen<sup title="oder: solche Anfeindungen">&#x2732;</sup> von den Sündern gegen sich geduldig ertragen hat, damit ihr (im Lauf) nicht ermattet und euren Mut nicht sinken laßt!
@@ -450,7 +450,7 @@
 
 #### a) Allgemeine Ermahnungen
 
- # 13
+# 13
 ^1^ Bleibt fest in der Bruderliebe.
 ^2^ Vergeßt die Gastfreundschaft nicht; denn durch diese haben einige, ohne es zu wissen, Engel beherbergt.
 ^3^ Gedenkt der Gefangenen, als ob ihr mitgefangen wäret, der Mißhandelten als solche, die gleichfalls noch im Leibe sind<sup title="= den Leib an sich tragen">&#x2732;</sup>.

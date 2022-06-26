@@ -1,6 +1,6 @@
 # 1
 ## Bendiciones
-^1^ Paulus, ein Apostel (nicht von Menschen, auch nicht durch Menschen, sondern durch Jesum Christum und Gott, den Vater, der ihn auferweckt hat von den Toten), ^a^ ^2^ und alle Brüder, die bei mir sind, den Gemeinden in Galatien: ^3^ Gnade sei mit euch und Friede von Gott, dem Vater, und unserem Herrn Jesus Christus, ^4^ der sich selbst für unsere Sünden gegeben hat, dass er uns errettete von dieser gegenwärtigen argen Welt nach dem Willen Gottes und unseres Vaters, ^5^ welchem sei Ehre von Ewigkeit zu Ewigkeit! Amen. 
+^1^ Paulus, ein Apostel (nicht von Menschen, auch nicht durch Menschen, sondern durch Jesum Christum und Gott, den Vater, der ihn auferweckt hat von den Toten), ^a^ ^2^ und alle Brüder, die bei mir sind, den Gemeinden in Galatien: ^3^ Gnade sei mit euch und Friede von Gott, dem Vater, und unserem Herrn Jesus Christus, ^4^ der sich selbst für unsere Sünden gegeben hat, dass er uns errettete von dieser gegenwärtigen argen Welt nach dem Willen Gottes und unseres Vaters, ^5^ welchem sei Ehre von Ewigkeit zu Ewigkeit! Amen.
 ^a^[**1:1** Gal 1,11-12]
 
 ## La sorpresa del apóstol ante la rápida apostasía de los gálatas del único mensaje verdadero de salvación
@@ -14,7 +14,7 @@
 ^11^ Ich tue euch aber kund, liebe Brüder, dass das Evangelium, das von mir gepredigt ist, nicht menschlich ist. ^12^ Denn ich habe es von keinem Menschen empfangen noch gelernt, sondern durch die Offenbarung Jesu Christi. 
 
 ## La conducta de Pablo antes de su conversión e inmediatamente después
-^13^ Denn ihr habt ja wohl gehört meinen Wandel vordem im Judentum, wie ich über die Maßen die Gemeinde Gottes verfolgte und sie verstörte ^14^ und nahm zu im Judentum über viele meinesgleichen in meinem Geschlecht und eiferte über die Maßen um das väterliche Gesetz. ^a^ ^15^ Da es aber Gott wohl gefiel, der mich von meiner Mutter Leibe an hat ausgesondert und berufen durch seine Gnade, ^b^ ^16^ dass er seinen Sohn offenbarte in mir, dass ich ihn durchs Evangelium verkündigen sollte unter den Heiden: alsobald fuhr ich zu und besprach mich nicht darüber mit Fleisch und Blut, ^c^ ^17^ kam auch nicht gen Jerusalem zu denen, die vor mir Apostel waren, sondern zog hin nach Arabien und kam wiederum gen Damaskus. 
+^13^ Denn ihr habt ja wohl gehört meinen Wandel vordem im Judentum, wie ich über die Maßen die Gemeinde Gottes verfolgte und sie verstörte ^14^ und nahm zu im Judentum über viele meinesgleichen in meinem Geschlecht und eiferte über die Maßen um das väterliche Gesetz. ^a^ ^15^ Da es aber Gott wohl gefiel, der mich von meiner Mutter Leibe an hat ausgesondert und berufen durch seine Gnade, ^b^ ^16^ dass er seinen Sohn offenbarte in mir, dass ich ihn durchs Evangelium verkündigen sollte unter den Heiden: alsobald fuhr ich zu und besprach mich nicht darüber mit Fleisch und Blut, ^c^ ^17^ kam auch nicht gen Jerusalem zu denen, die vor mir Apostel waren, sondern zog hin nach Arabien und kam wiederum gen Damaskus.
 ^a^[**1:14** Apg 23,6; Apg 26,5] ^b^[**1:15** Röm 1,1; Jer 1,5] ^c^[**1:16** Mt 16,17; Gal 2,7]
 
 ## La actividad independiente de Pablo durante el tiempo anterior a la reunión de los apóstoles
@@ -52,7 +52,7 @@
 ^13^ Christus aber hat uns erlöst von dem Fluch des Gesetzes, da er ward ein Fluch für uns (denn es steht geschrieben: „Verflucht ist jedermann, der am Holz hängt!“), ^14^ auf dass der Segen Abrahams unter die Heiden käme in Christo Jesu und wir also den verheißenen Geist empfingen durch den Glauben. 
 
 ## La promesa hecha a Abraham no es cancelada por la ley dada más tarde
-^15^ Liebe Brüder, ich will nach menschlicher Weise reden: Verwirft man doch eines Menschen Testament nicht, wenn es bestätigt ist, und tut auch nichts dazu. ^16^ Nun ist ja die Verheißung Abraham und seinem Samen zugesagt. Er spricht nicht: „durch die Samen“, als durch viele, sondern als durch einen: „durch deinen Samen“, welcher ist Christus. ^17^ Ich sage aber davon: Das Testament, das von Gott zuvor bestätigt ist auf Christum, wird nicht aufgehoben, dass die Verheißung sollte durchs Gesetz aufhören, welches gegeben ist vierhundertdreißig Jahre hernach. ^a^ ^18^ Denn so das Erbe durch das Gesetz erworben würde, so würde es nicht durch Verheißung gegeben; Gott aber hat's Abraham durch Verheißung frei geschenkt. 
+^15^ Liebe Brüder, ich will nach menschlicher Weise reden: Verwirft man doch eines Menschen Testament nicht, wenn es bestätigt ist, und tut auch nichts dazu. ^16^ Nun ist ja die Verheißung Abraham und seinem Samen zugesagt. Er spricht nicht: „durch die Samen“, als durch viele, sondern als durch einen: „durch deinen Samen“, welcher ist Christus. ^17^ Ich sage aber davon: Das Testament, das von Gott zuvor bestätigt ist auf Christum, wird nicht aufgehoben, dass die Verheißung sollte durchs Gesetz aufhören, welches gegeben ist vierhundertdreißig Jahre hernach. ^a^ ^18^ Denn so das Erbe durch das Gesetz erworben würde, so würde es nicht durch Verheißung gegeben; Gott aber hat's Abraham durch Verheißung frei geschenkt.
 ^a^[**3:17** 2Mo 12,40]
 
 ## Naturaleza y propósito de la ley que es ineficaz para la perfección de la salvación, ordenada por ángeles y un mediador y solo destinada al ínterin
@@ -63,7 +63,7 @@
 ^a^[**3:21** Röm 8,2-4] ^b^[**3:22** Röm 3,9-20; Röm 11,32]
 
 ## El propósito educativo externo de la ley
-^23^ Ehe denn aber der Glaube kam, wurden wir unter dem Gesetz verwahrt und verschlossen auf den Glauben, der da sollte offenbart werden. ^a^ ^24^ Also ist das Gesetz unser Zuchtmeister gewesen auf Christum, dass wir durch den Glauben gerecht würden. 
+^23^ Ehe denn aber der Glaube kam, wurden wir unter dem Gesetz verwahrt und verschlossen auf den Glauben, der da sollte offenbart werden. ^a^ ^24^ Also ist das Gesetz unser Zuchtmeister gewesen auf Christum, dass wir durch den Glauben gerecht würden.
 ^a^[**3:23** Gal 4,3]
 
 ## Todos los cristianos creyentes son ahora, después del fin del imperio de la ley, de Dios y de los hijos y herederos de Abraham
@@ -90,7 +90,7 @@
 ^21^ Saget mir, die ihr unter dem Gesetz sein wollt: Habt ihr das Gesetz nicht gehört? ^22^ Denn es steht geschrieben, dass Abraham zwei Söhne hatte: einen von der Magd, den anderen von der Freien. ^a^ ^23^ Aber der von der Magd war, ist nach dem Fleisch geboren; der aber von der Freien ist durch die Verheißung geboren. ^b^ ^24^ Die Worte bedeuten etwas. Denn das sind zwei Testamente: eins von dem Berge Sinai, dass zur Knechtschaft gebiert, welches ist die Hagar; ^c^ ^25^ denn Hagar heißt in Arabien der Berg Sinai und kommt überein mit Jerusalem, das zu dieser Zeit ist und dienstbar ist mit seinen Kindern. ^26^ Aber das Jerusalem, das droben ist, das ist die Freie; die ist unser aller Mutter. ^27^ Denn es steht geschrieben: „Sei fröhlich, du Unfruchtbare, die du nicht gebierst! Und brich hervor und rufe, die du nicht schwanger bist! Denn die Einsame hat viel mehr Kinder, denn die den Mann hat.“ 
 ^a^[**4:22** 1Mo 16,15; 1Mo 21,2] ^b^[**4:23** Röm 9,7-9] ^c^[**4:24** Gal 5,1; Röm 8,15]
 
-^28^ Wir aber, liebe Brüder, sind, Isaak nach, der Verheißung Kinder. ^29^ Aber gleichwie zu der Zeit, der nach dem Fleisch geboren war, verfolgte den, der nach dem Geist geboren war, also geht es auch jetzt. ^a^ ^30^ Aber was spricht die Schrift? „Stoß die Magd hinaus mit ihrem Sohn; denn der Magd Sohn soll nicht erben mit dem Sohn der Freien.“ 
+^28^ Wir aber, liebe Brüder, sind, Isaak nach, der Verheißung Kinder. ^29^ Aber gleichwie zu der Zeit, der nach dem Fleisch geboren war, verfolgte den, der nach dem Geist geboren war, also geht es auch jetzt. ^a^ ^30^ Aber was spricht die Schrift? „Stoß die Magd hinaus mit ihrem Sohn; denn der Magd Sohn soll nicht erben mit dem Sohn der Freien.“
 ^a^[**4:29** 1Mo 21,9]
 
 ## Resumen de lo dicho hasta ahora y una última advertencia para aferrarse a la libertad cristiana, que es incompatible con la ley y la circuncisión
@@ -106,11 +106,11 @@
 ^7^ Ihr liefet fein. Wer hat euch aufgehalten, der Wahrheit nicht zu gehorchen? ^8^ Solch Überreden ist nicht von dem, der euch berufen hat. ^9^ Ein wenig Sauerteig versäuert den ganzen Teig. ^10^ Ich versehe mich zu euch in dem Herrn, ihr werdet nicht anders gesinnt sein. Wer euch aber irremacht, der wird sein Urteil tragen, er sei, wer er wolle. ^a^ 
 ^a^[**5:10** Gal 1,7]
 
-^11^ Ich aber, liebe Brüder, wenn ich die Beschneidung noch predige, warum leide ich denn Verfolgung? So hätte ja das Ärgernis des Kreuzes aufgehört. ^a^ ^12^ Wollte Gott, dass sie auch ausgerottet würden, die euch verstören! 
+^11^ Ich aber, liebe Brüder, wenn ich die Beschneidung noch predige, warum leide ich denn Verfolgung? So hätte ja das Ärgernis des Kreuzes aufgehört. ^a^ ^12^ Wollte Gott, dass sie auch ausgerottet würden, die euch verstören!
 ^a^[**5:11** Gal 6,12; 1Kor 1,23; 1Kor 15,30]
 
 ## Advertencia contra el abuso de la libertad ganada por Cristo; Actividad de libertad a través de la caridad
-^13^ Ihr aber, liebe Brüder, seid zur Freiheit berufen! Allein sehet zu, dass ihr durch die Freiheit dem Fleisch nicht Raum gebet; sondern durch die Liebe diene einer dem anderen. ^a^ ^14^ Denn alle Gesetze werden in einem Wort erfüllt, in dem: „Liebe deinen Nächsten wie dich selbst.“ ^15^ So ihr euch aber untereinander beißet und fresset, so seht zu, dass ihr nicht untereinander verzehrt werdet. 
+^13^ Ihr aber, liebe Brüder, seid zur Freiheit berufen! Allein sehet zu, dass ihr durch die Freiheit dem Fleisch nicht Raum gebet; sondern durch die Liebe diene einer dem anderen. ^a^ ^14^ Denn alle Gesetze werden in einem Wort erfüllt, in dem: „Liebe deinen Nächsten wie dich selbst.“ ^15^ So ihr euch aber untereinander beißet und fresset, so seht zu, dass ihr nicht untereinander verzehrt werdet.
 ^a^[**5:13** 1Petr 2,16; 2Petr 2,19]
 
 ## ¡Camina en el Espíritu! Las obras de la carne y el fruto del espíritu
@@ -121,7 +121,7 @@
 ^a^[**5:22** Eph 5,9] ^b^[**5:23** 1Tim 1,9] ^c^[**5:24** Röm 6,6]
 
 ## Exhortaciones morales individuales para preservar la nueva vida en el espíritu; Referencia al juicio de Dios
-^25^ So wir im Geist leben, so lasset uns auch im Geist wandeln. ^a^ ^26^ Lasset uns nicht eitler Ehre geizig sein, einander zu entrüsten und zu hassen.^b^ 
+^25^ So wir im Geist leben, so lasset uns auch im Geist wandeln. ^a^ ^26^ Lasset uns nicht eitler Ehre geizig sein, einander zu entrüsten und zu hassen. ^b^ 
 ^a^[**5:25** Röm 8,4] ^b^[**5:26** Phil 2,3]
 
 # 6
@@ -135,7 +135,7 @@
 ^a^[**6:9** 2Thes 3,13] ^b^[**6:10** 2Petr 1,7]
 
 ## Última iluminación del enemigo
-^11^ Sehet, mit wie vielen Worten habe ich euch geschrieben mit eigener Hand! ^12^ Die sich wollen angenehm machen nach dem Fleisch, die zwingen euch zur Beschneidung, nur damit sie nicht mit dem Kreuz Christi verfolgt werden. ^a^ ^13^ Denn auch sie selbst, die sich beschneiden lassen, halten das Gesetz nicht; sondern sie wollen, dass ihr euch beschneiden lasset, auf dass sie sich von eurem Fleisch rühmen mögen. 
+^11^ Sehet, mit wie vielen Worten habe ich euch geschrieben mit eigener Hand! ^12^ Die sich wollen angenehm machen nach dem Fleisch, die zwingen euch zur Beschneidung, nur damit sie nicht mit dem Kreuz Christi verfolgt werden. ^a^ ^13^ Denn auch sie selbst, die sich beschneiden lassen, halten das Gesetz nicht; sondern sie wollen, dass ihr euch beschneiden lasset, auf dass sie sich von eurem Fleisch rühmen mögen.
 ^a^[**6:12** Gal 5,11]
 
 ## Confesión final personal; Bendición

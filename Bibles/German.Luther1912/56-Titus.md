@@ -4,11 +4,11 @@
 ^a^[**1:2** 2Tim 2,13] ^b^[**1:3** Eph 1,9-10] ^c^[**1:4** 1Tim 1,2]
 
 ## Regulaciones que rigen el nombramiento de ancianos como líderes de la iglesia
-^5^ Derhalben ließ ich dich in Kreta, dass du solltest vollends ausrichten, was ich gelassen habe, und besetzen die Städte hin und her mit Ältesten, wie ich dir befohlen haben; ^a^ ^6^ wo einer ist untadelig, eines Weibes Mann, der gläubige Kinder habe, nicht berüchtigt, dass sie Schwelger und ungehorsam sind. ^b^ ^7^ Denn ein Bischof soll untadelig sein als ein Haushalter Gottes, nicht eigensinnig, nicht zornig, nicht ein Weinsäufer, nicht raufen, nicht unehrliche Hantierung treiben; ^c^ ^8^ sondern gastfrei, gütig, züchtig, gerecht, heilig, keusch, ^9^ und haltend ob dem Wort, das gewiss ist, und lehrhaft, auf dass er mächtig sei, zu ermahnen durch die heilsame Lehre und zu strafen die Widersprecher. 
+^5^ Derhalben ließ ich dich in Kreta, dass du solltest vollends ausrichten, was ich gelassen habe, und besetzen die Städte hin und her mit Ältesten, wie ich dir befohlen haben; ^a^ ^6^ wo einer ist untadelig, eines Weibes Mann, der gläubige Kinder habe, nicht berüchtigt, dass sie Schwelger und ungehorsam sind. ^b^ ^7^ Denn ein Bischof soll untadelig sein als ein Haushalter Gottes, nicht eigensinnig, nicht zornig, nicht ein Weinsäufer, nicht raufen, nicht unehrliche Hantierung treiben; ^c^ ^8^ sondern gastfrei, gütig, züchtig, gerecht, heilig, keusch, ^9^ und haltend ob dem Wort, das gewiss ist, und lehrhaft, auf dass er mächtig sei, zu ermahnen durch die heilsame Lehre und zu strafen die Widersprecher.
 ^a^[**1:5** Apg 14,23] ^b^[**1:6** 1Tim 3,1-7] ^c^[**1:7** 1Kor 4,1; 2Tim 2,24]
 
 ## Reglas de conducta contra seductores maliciosos y falsos maestros hipócritas
-^10^ Denn es sind viel freche und unnütze Schwätzer und Verführer, sonderlich die aus den Juden, ^11^ welchen man muss das Maul stopfen, die da ganze Häuser verkehren und lehren, was nicht taugt, um schändlichen Gewinns willen. ^12^ Es hat einer aus ihnen gesagt, ihr eigener Prophet: „Die Kreter sind immer Lügner, böse Tiere und faule Bäuche.“ ^13^ Dies Zeugnis ist wahr. Um der Sache willen strafe sie scharf, auf dass sie gesund seien im Glauben ^a^ ^14^ und nicht achten auf die jüdischen Fabeln und Gebote von Menschen, welche sich von der Wahrheit abwenden. ^b^ ^15^ Den Reinen ist alles rein; den Unreinen aber und Ungläubigen ist nichts rein, sondern unrein ist ihr Sinn sowohl als ihr Gewissen. ^c^ ^16^ Sie sagen, sie erkennen Gott; aber mit den Werken verleugnen sie es, sintemal sie es sind, an welchen Gott Gräuel hat, und gehorchen nicht und sind zu allem guten Werk untüchtig.^d^ 
+^10^ Denn es sind viel freche und unnütze Schwätzer und Verführer, sonderlich die aus den Juden, ^11^ welchen man muss das Maul stopfen, die da ganze Häuser verkehren und lehren, was nicht taugt, um schändlichen Gewinns willen. ^12^ Es hat einer aus ihnen gesagt, ihr eigener Prophet: „Die Kreter sind immer Lügner, böse Tiere und faule Bäuche.“ ^13^ Dies Zeugnis ist wahr. Um der Sache willen strafe sie scharf, auf dass sie gesund seien im Glauben ^a^ ^14^ und nicht achten auf die jüdischen Fabeln und Gebote von Menschen, welche sich von der Wahrheit abwenden. ^b^ ^15^ Den Reinen ist alles rein; den Unreinen aber und Ungläubigen ist nichts rein, sondern unrein ist ihr Sinn sowohl als ihr Gewissen. ^c^ ^16^ Sie sagen, sie erkennen Gott; aber mit den Werken verleugnen sie es, sintemal sie es sind, an welchen Gott Gräuel hat, und gehorchen nicht und sind zu allem guten Werk untüchtig. ^d^ 
 ^a^[**1:13** 2Tim 4,2] ^b^[**1:14** 1Tim 4,7; 2Tim 4,4] ^c^[**1:15** Mt 15,11; Röm 14,20] ^d^[**1:16** 2Tim 3,5]
 
 # 2
@@ -25,7 +25,7 @@
 ^11^ Denn es ist erschienen die heilsame Gnade Gottes allen Menschen ^a^ ^12^ und züchtigt uns, dass wir sollen verleugnen das ungöttliche Wesen und die weltlichen Lüste, und züchtig, gerecht und gottselig leben in dieser Welt ^13^ und warten auf die selige Hoffnung und Erscheinung der Herrlichkeit des großen Gottes und unseres Heilandes, Jesu Christi, ^14^ der sich selbst für uns gegeben hat, auf dass er uns erlöste von aller Ungerechtigkeit und reinigte sich selbst ein Volk zum Eigentum, das fleißig wäre zu guten Werken. ^b^ 
 ^a^[**2:11** Tit 3,4] ^b^[**2:14** Gal 1,4; 1Tim 2,6; 2Mo 19,5; Eph 2,10]
 
-^15^ Solches rede und ermahne und strafe mit ganzem Ernst. Lass dich niemand verachten.^a^ 
+^15^ Solches rede und ermahne und strafe mit ganzem Ernst. Lass dich niemand verachten. ^a^ 
 ^a^[**2:15** 1Tim 4,12]
 
 # 3

@@ -2,7 +2,7 @@
 
 ### 1. Die Überschrift; Gottes Liebe zu Israel im Gegensatz zu seiner Behandlung des Brudervolkes Edom
 
- # 1
+# 1
 ^1^ (Dies ist) der Ausspruch des Wortes des HERRN an Israel durch den Mund Maleachis:
 
 ^2^ »Ich habe euch geliebt«, spricht der HERR; »und da fragt ihr: ›Wieso hast du uns geliebt?‹ Nun, ist nicht Esau der Bruder Jakobs gewesen?« – so lautet der Ausspruch des HERRN –; »und doch habe ich Jakob geliebt,
@@ -26,7 +26,7 @@
 
 #### b) Mahnung und Strafandrohung an die Priester; Levi (d.h. die Priesterschaft) einst und jetzt
 
- # 2
+# 2
 ^1^ »Und nun ergeht über euch, ihr Priester, folgender Beschluß:
 ^2^ Wenn ihr nicht gehorchen wollt und ihr es euch nicht von Herzen angelegen sein laßt, meinem Namen Ehre zu erweisen« – so spricht der HERR der Heerscharen –, »so schleudere ich den Fluch gegen euch und mache eure Segenssprüche zu Flüchen; ja, ich habe sie schon in Flüche verwandelt, weil ihr (meine Worte) nicht zu Herzen genommen habt.
 ^3^ Wisset wohl: ich mache eurer Amtstätigkeit ein Ende und schleudere euch Mist ins Gesicht, den Mist eurer Festopfer, und man mag euch selbst zu ihm hinaustragen!
@@ -54,7 +54,7 @@
 
 ^17^ Ihr habt dem HERRN durch eure Reden Verdruß bereitet und fragt doch: »Wieso haben wir ihm Verdruß bereitet?« Nun dadurch, daß ihr sagt: »Jeder Übeltäter ist doch gut in den Augen des HERRN, und an solchen Leuten hat er Wohlgefallen« oder: »Wo ist denn der Gott des Gerichts?«
 
- # 3
+# 3
 ^1^ »Wisset wohl: ich sende meinen Engel<sup title="oder: Boten">&#x2732;</sup>, daß er den Weg vor mir her bahne, und unversehens wird zu seinem Tempel kommen der Herr, den ihr herbeiwünscht, und der Bundesengel, nach dem ihr Verlangen tragt, kommt unfehlbar!« – so spricht der HERR der Heerscharen.
 ^2^ Doch wer vermag den Tag seines Kommens zu ertragen, und wer bleibt bei seinem Erscheinen bestehen? Denn er wird wie das Feuer eines Schmelzers sein und wie die Lauge von Walkern;
 ^3^ und dasitzen wird (er wie) einer, der das Silber schmelzt und reinigt, und er wird die Söhne Levis reinigen und sie läutern wie Gold und wie Silber, damit sie dem HERRN Opfergaben in Gerechtigkeit<sup title="oder: in rechter Weise">&#x2732;</sup> darbringen.

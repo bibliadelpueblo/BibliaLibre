@@ -4,7 +4,7 @@
 
 #### a) Die Schicksale Noomis im Lande der Moabiter
 
- # 1
+# 1
 <sup>1</sup>Zu der Zeit, als die Richter (in Israel) walteten, kam einmal eine Hungersnot über das Land. Da wanderte ein Mann aus Bethlehem in Juda mit seiner Frau und seinen beiden Söhnen aus, um eine Zeitlang im Gebiet der Moabiter als Fremdling zu leben.
 <sup>2</sup>Der Mann hieß Elimelech, seine Frau Noomi<sup title="vgl. V.20">&#x2732;</sup>; und seine beiden Söhne hießen Machlon und Kiljon; sie waren Ephrathiter aus Bethlehem in Juda. Sie kamen auch glücklich im Gebiet der Moabiter an und blieben dort.
 <sup>3</sup>Da starb Elimelech, der Mann Noomis, so daß sie mit ihren beiden Söhnen allein zurückblieb.
@@ -38,7 +38,7 @@
 
 #### a) Ruth kommt, um Ähren zu lesen, auf das Feld des Boas, der sich nach ihr erkundigt und ihr freundlich begegnet
 
- # 2
+# 2
 <sup>1</sup>Nun besaß Noomi einen Verwandten von seiten ihres Mannes, einen sehr wohlhabenden Mann aus der Familie Elimelechs, namens Boas.
 <sup>2</sup>Als nun die Moabitin Ruth zu Noomi sagte: »Ich will doch aufs Feld gehen und Ähren lesen hinter einem her<sup title="= bei einem">&#x2732;</sup>, der es mir erlauben wird«, erwiderte diese ihr: »Geh nur, meine Tochter!«
 <sup>3</sup>So ging sie denn hin und las auf dem Felde hinter den Schnittern her auf, und der Zufall wollte es, daß das Grundstück dem Boas gehörte, der aus der Familie Elimelechs stammte.
@@ -70,7 +70,7 @@
 
 #### a) Ruth begibt sich auf Noomis Rat zur Tenne des Boas und legt sich zu dessen Füßen nieder
 
- # 3
+# 3
 <sup>1</sup>Da sagte ihre Schwiegermutter Noomi zu ihr: »Liebe Tochter, ich muß dir doch ein sicheres Heim verschaffen, damit du gut versorgt bist.
 <sup>2</sup>Nun denn, Boas, dessen Mägden du dich angeschlossen hast, gehört zu unserer Verwandtschaft; der worfelt gerade diese Nacht die Gerste auf der Tenne.
 <sup>3</sup>So bade und salbe dich denn, lege deine besten Kleider an und gehe zur Tenne hinab, laß dich aber von dem Manne nicht eher bemerken, als bis er mit Essen und Trinken fertig ist.
@@ -95,7 +95,7 @@
 
 ### 4. Die öffentliche Verhandlung zwischen Boas und dem Löser
 
- # 4
+# 4
 <sup>1</sup>Boas aber war zum Stadttor hinaufgegangen und hatte sich dort niedergesetzt. Als nun gerade der Löser vorüberging, von dem Boas geredet hatte, rief er: »Komm her und setze dich hierher, du Soundso!« Als er nun gekommen war und sich gesetzt hatte,
 <sup>2</sup>holte (Boas) zehn Männer von den Ältesten<sup title="oder: Vornehmsten">&#x2732;</sup> der Stadt und sagte zu ihnen: »Setzt euch hier nieder!« Als sie sich gesetzt hatten,
 <sup>3</sup>sagte er zu dem Löser: »Das Stück Land<sup title="= Grundstück">&#x2732;</sup>, das unserm Verwandten Elimelech gehört hat, will Noomi verkaufen, die aus dem Lande der Moabiter zurückgekehrt ist.

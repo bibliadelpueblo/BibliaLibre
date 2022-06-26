@@ -6,7 +6,7 @@
 
 #### a) Die Überschrift; Gottes Kommen zum Weltgericht über die Heiden sowie über Israel und Juda
 
- # 1
+# 1
 ^1^ (Dies ist) das Wort des HERRN, das an Micha aus Moreseth<sup title="vgl. 1,14; Jer 26,18">&#x2732;</sup> in den Tagen der judäischen Könige Jotham, Ahas und Hiskia ergangen ist und das er über Samaria<sup title="= Israel">&#x2732;</sup> und Jerusalem geschaut<sup title="= in Gesichten vernommen">&#x2732;</sup> hat.
 
 ^2^ Höret, ihr Völker allesamt; merke auf, o Erde und alles, was sie erfüllt! Und es sei Gott der HERR Zeuge gegen euch, der Allherr von seinem heiligen Tempel aus!
@@ -33,7 +33,7 @@
 
 ### 2. Bedrohung der reichen und gewalttätigen Großen sowie der Gegner des Propheten
 
- # 2
+# 2
 ^1^ Wehe denen, die auf Frevel sinnen und Böses planen auf ihren Lagern und die es beim nächsten Morgenlicht ausführen, weil die Macht dazu in ihrer Hand liegt!
 ^2^ Gelüstet es sie nach Äckern, so bemächtigen sie sich ihrer mit Gewalt, oder nach Häusern, so nehmen sie sie weg: sie verüben Gewalttat an dem Besitzer und seinem Hause, an dem Eigentümer und seinem Erbgut.
 ^3^ Darum hat der HERR so gesprochen: »Wisset wohl: (auch) ich habe gegen dieses Geschlecht Unheil im Sinn, aus dem ihr eure Hälse nicht herausziehen und worin ihr nicht mehr aufrecht<sup title="= stolz aufgerichtet">&#x2732;</sup> einhergehen könnt; denn es soll eine schlimme Zeit sein!«
@@ -56,7 +56,7 @@
 
 ### 4. Anklagen und Drohungen Michas gegen die gewalttätigen Führer des Volkes und die falschen Propheten
 
- # 3
+# 3
 ^1^ Da sagte ich: »Höret doch, ihr Häupter Jakobs und ihr Obersten<sup title="oder: Fürsten">&#x2732;</sup> des Hauses Israel! Kommt es euch nicht zu, das Recht zu kennen<sup title="oder: um das Recht euch zu kümmern">&#x2732;</sup>?
 ^2^ Und doch haßt ihr das Gute und liebt das Böse; ihr reißt den Leuten die Haut vom Leibe und das Fleisch von den Knochen;
 ^3^ ihr haßt das Fleisch meines Volkes, zieht ihnen die Haut vom Leibe ab und zerschlagt ihnen die Knochen, ihr zerlegt sie wie (einen Braten) im Kochtopf und wie Fleischstücke<sup title="= Suppenfleisch">&#x2732;</sup> im Kessel.«
@@ -80,7 +80,7 @@
 
 ### 1. Der erhöhte Zion und die künftige Herrlichkeit des allgemeinen Völkerfriedens
 
- # 4
+# 4
 ^1^ Am Ende der Tage<sup title="= in der Endzeit">&#x2732;</sup> aber wird es geschehen, daß der Tempelberg des HERRN festgegründet dasteht an der Spitze<sup title="= als der höchste">&#x2732;</sup> der Berge und über die anderen Höhen erhaben; dann werden die Völker<sup title="= Heiden">&#x2732;</sup> zu ihm strömen
 ^2^ und zahlreiche Völkerschaften sich aufmachen und sagen: »Kommt, laßt uns zum Berge des HERRN hinaufziehen und zum Hause des Gottes Jakobs, damit er uns über seine Wege belehre und wir auf seinen Pfaden wandeln!« Denn von Zion wird Belehrung ausgehen und das Wort des HERRN von Jerusalem.
 ^3^ Dann wird er zwischen vielen Völkern richten und mächtigen Völkerschaften Recht sprechen bis in weite Ferne. Da werden sie ihre Schwerter zu Pflugscharen umschmieden und ihre Lanzenspitzen zu Winzermessern. Kein Volk wird noch das Schwert gegen ein anderes Volk erheben, noch sich hinfort auf den Krieg einüben;
@@ -106,7 +106,7 @@
 
 ### 3. Der neue David der Zukunft aus Bethlehem, sein Volk und seine Friedenszeit
 
- # 5
+# 5
 ^1^Du aber, Bethlehem-Ephrath, bist zwar zu klein, als daß du zu den Gaustädten<sup title="= Hauptorten">&#x2732;</sup> Judas gehörtest, aber aus dir wird mir der hervorgehen, der in Israel Herrscher sein soll und dessen Herkunft<sup title="oder: Ursprung">&#x2732;</sup> der Vergangenheit, den Tagen der Urzeit, angehört.
 ^2^Darum wird er sie<sup title="d.h. Gott die Israeliten">&#x2732;</sup> preisgeben bis zu der Zeit, wo sie, die gebären soll, geboren hat und der Rest seiner Volksgenossen zu den Kindern Israel zurückkehrt.
 ^3^Dann wird er<sup title="d.h. dieser Herrscher">&#x2732;</sup> auftreten und (seine Herde) weiden in der Kraft des HERRN, im hoheitsvollen Namen des HERRN, seines Gottes, so daß sie sicher wohnen; denn nunmehr wird er<sup title="d.h. dieser Herrscher">&#x2732;</sup> groß dastehen bis an die Enden der Erde.
@@ -137,7 +137,7 @@
 
 #### a) Die Anklage Gottes
 
- # 6
+# 6
 ^1^Höret doch, was der HERR gesprochen hat: »Auf! Erhebe die Anklage angesichts der Berge und laß die Anhöhen deine Stimme vernehmen!«
 ^2^Höret, ihr Berge, die Anklage des HERRN und merkt auf, ihr Grundfesten der Erde! Denn einen Rechtsstreit hat der HERR mit seinem Volke, und mit Israel will er sich auseinandersetzen:
 ^3^»Mein Volk, was habe ich dir zuleide getan und womit dich gekränkt? Lege Zeugnis gegen mich ab!
@@ -164,7 +164,7 @@
 
 ### 3. Bittere Klagen (des Propheten? oder: Zions?) über die allgemeine Verderbtheit
 
- # 7
+# 7
 ^1^Wehe mir! Denn es ergeht mir wie bei der Obstlese, wie bei der Nachlese in der Weinernte: nicht eine Traube ist mehr da zum Essen, nicht eine Frühfeige, nach der mein Herz verlangt!
 ^2^Ausgestorben sind die Frommen im Lande, und es gibt keinen Ehrlichen mehr unter den Menschen; allesamt liegen sie auf der Lauer nach Bluttaten, jeder macht Jagd auf den andern mit dem Fangnetz.
 ^3^Auf das Böse sind ihre Hände gerichtet, um es eifrig auszuführen: der Fürst fordert, und der Richter steht ihm gegen Bezahlung zu Diensten; der Mächtige spricht das aus, wonach ihn in seiner Gier gelüstet, und dann flechten sie es ineinander.

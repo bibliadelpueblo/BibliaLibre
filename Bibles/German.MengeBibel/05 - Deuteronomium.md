@@ -8,7 +8,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### a) Überschrift und Vorbemerkung über Ort und Zeit aller folgenden Reden Moses; Rückblick auf die Erlebnisse in der Wüste
 
- # 1
+# 1
 <sup>1</sup>Dies sind die Worte<sup title="oder: Reden">&#x2732;</sup>, die Mose an ganz Israel gerichtet hat jenseits des Jordans in der Wüste, in der Steppe, gegenüber Suph, zwischen Paran, Thophel, Laban, Hazeroth und Disahab.
 <sup>2</sup>Elf Tagereisen lang ist der Weg vom Horeb<sup title="= Sinai">&#x2732;</sup> nach dem Gebirge Seir bis Kades-Barnea. –
 <sup>3</sup>Im vierzigsten Jahre, am ersten Tage des elften Monats, war es: da trug Mose den Israeliten alles genau so vor, wie der HERR es ihm für sie geboten hatte,
@@ -74,7 +74,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### b) Rückblick auf den friedlichen Zug durch das Land der Edomiter und der Moabiter; Verbot, die Ammoniter anzugreifen; Besiegung des Amoriterkönigs Sihon
 
- # 2
+# 2
 <sup>1</sup>»So machten wir denn kehrt, zogen nach der Wüste hin in der Richtung nach dem Schilfmeer, wie der HERR mir geboten hatte, und wanderten lange Zeit im Bogen um das Gebirge Seir herum.
 <sup>2</sup>Da sagte der HERR zu mir:
 <sup>3</sup>›Ihr seid nun lange genug um dieses Gebirge herumgezogen; wendet euch jetzt nordwärts
@@ -120,7 +120,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### c) Rückblick auf die Besiegung des Königs Og von Basan und die Verteilung des Ostjordanlandes; Ermutigung Josuas
 
- # 3
+# 3
 <sup>1</sup>»Als wir uns dann wieder aufmachten und in der Richtung nach Basan weiterzogen, rückte uns Og, der König von Basan, mit seinem ganzen Kriegsvolk entgegen, um bei Edrei mit uns zu kämpfen.
 <sup>2</sup>Da sagte der HERR zu mir: ›Fürchte dich nicht vor ihm! Denn ich habe ihn samt seinem ganzen Volk und seinem Lande in deine Gewalt gegeben, und du sollst mit ihm verfahren, wie du mit dem Amoriterkönig Sihon getan hast, der in Hesbon wohnte.‹
 <sup>3</sup>So gab denn der HERR, unser Gott, auch Og, den König von Basan, samt seinem ganzen Kriegsvolk in unsere Gewalt, und wir schlugen ihn so, daß kein einziger von ihnen entkam und übrigblieb.
@@ -162,7 +162,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 ### 2. Ermahnung zu strenger Beobachtung der göttlichen Gebote und Warnung vor Bilderdienst und Abgötterei
 
- # 4
+# 4
 <sup>1</sup>»Und nun, Israel, höre auf die Satzungen und auf die Verordnungen, deren Beobachtung ich euch lehren will, damit ihr am Leben bleibt und in den Besitz des Landes kommt, das der HERR, der Gott eurer Väter, euch geben will!
 <sup>2</sup>Ihr sollt zu den Geboten, die ich euch zur Pflicht mache, nichts hinzufügen und nichts davon wegnehmen, damit ihr die Gebote des HERRN, eures Gottes, beobachtet, die ich euch zur Pflicht mache.
 <sup>3</sup>Ihr habt mit eigenen Augen gesehen, was der HERR wegen des Baal-Peor<sup title="4.Mose 25">&#x2732;</sup> getan hat; denn alle Männer, die dem Baal-Peor nachgingen, hat der HERR, dein Gott, aus deiner Mitte vertilgt,
@@ -234,7 +234,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### b) Erinnerung an die Offenbarung Gottes am Horeb; das Grundgesetz der Zehn Gebote; Mose von Gott als Mittler anerkannt
 
- # 5
+# 5
 <sup>1</sup>Da berief Mose alle Israeliten und sagte zu ihnen: »Vernimm, Israel, die Satzungen und Verordnungen, die ich euch heute laut vortrage: lernt sie und beobachtet sie genau!
 <sup>2</sup>Der HERR, unser Gott, hat am Horeb einen Bund mit uns geschlossen.
 <sup>3</sup>Nicht mit unsern Vätern hat der HERR diesen Bund geschlossen, sondern mit uns hier, die wir alle heute noch am Leben sind.
@@ -287,7 +287,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### c) Darlegung und Einschärfung der zwei Grundgebote: Alleinverehrung Gottes und Liebe zu Gott
 
- # 6
+# 6
 <sup>1</sup>»Dies ist nun das Gesetz, die Satzungen und die Verordnungen, die ich euch nach dem Befehl des HERRN, eures Gottes, lehren soll, damit ihr nach ihnen lebt in dem Lande, zu dessen Eroberung ihr jetzt hinüberzieht,
 <sup>2</sup>auf daß ihr, du und deine Kinder und Kindeskinder, den HERRN, euren Gott, euer ganzes Leben lang fürchtet und alle seine Satzungen und Gebote beobachtet, die ich dir zur Pflicht mache, und auf daß deine Tage lange Dauer haben.
 <sup>3</sup>So höre sie denn, Israel, und achte darauf, sie zu befolgen, damit es dir wohlgeht und ihr sehr zahlreich werdet, wie der HERR, der Gott deiner Väter, es dir zugesagt hat – in einem von Milch und Honig überfließenden Lande.
@@ -326,7 +326,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### d) Die abgöttischen Kanaanäer und ihr Götzendienst sollen ausgerottet werden; jede Verbindung mit ihnen ist sündhaft
 
- # 7
+# 7
 <sup>1</sup>»Wenn der HERR, dein Gott, dich in das Land gebracht hat, in das du jetzt ziehst, um es in Besitz zu nehmen, und viele Völkerschaften, die Hethiter, Girgasiter, Amoriter, Kanaanäer, Pherissiter, Hewiter und Jebusiter, sieben Völkerschaften, die an Zahl und Stärke dir überlegen sind, vor dir her vertrieben hat,
 <sup>2</sup>und wenn der HERR, dein Gott, sie in deine Gewalt gegeben hat und du sie besiegt hast, so sollst du den Bann schonungslos an ihnen vollstrecken: du darfst kein Abkommen mit ihnen treffen und keine Gnade gegen sie üben.
 <sup>3</sup>Du darfst dich auch nicht mit ihnen verschwägern, weder deine Töchter an ihre Söhne verheiraten noch ihre Töchter für deine Söhne zu Frauen nehmen;
@@ -360,7 +360,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### e) Mahnung zum Gehorsam gegen das göttliche Gesetz und zur Dankbarkeit gegen Gott für die während der Wüstenwanderung erwiesenen Wohltaten
 
- # 8
+# 8
 <sup>1</sup>»Das ganze Gesetz, das ich dir heute gebiete, sollt ihr gewissenhaft befolgen, damit ihr am Leben bleibt und zahlreich werdet und hineinkommt, um das Land in Besitz zu nehmen, das der HERR euren Vätern zugeschworen hat.
 <sup>2</sup>Und du sollst des ganzen Weges gedenken, den der HERR, dein Gott, dich nun vierzig Jahre lang in der Wüste hat wandern lassen, um dich demütig zu machen und dich zu erproben, damit er erkenne, wie es um dein Herz<sup title="= mit deiner Gesinnung">&#x2732;</sup> steht, ob du nämlich seine Gebote halten wirst oder nicht.
 <sup>3</sup>So demütigte er dich denn und ließ dich Hunger leiden; dann aber speiste er dich wieder mit dem Manna, das weder du noch deine Väter gekannt hatten, um dich zu der Erkenntnis zu führen, daß der Mensch nicht vom Brot allein lebt, sondern daß der Mensch von allem lebt<sup title="oder: leben kann">&#x2732;</sup>, was vom Mund des HERRN ausgeht.
@@ -390,7 +390,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### f) Warnung vor Selbstgerechtigkeit; Hinweis auf die früheren Beweise von Ungehorsam und Halsstarrigkeit des Volkes (besonders am Horeb)
 
- # 9
+# 9
 <sup>1</sup>»Höre, Israel! Du bist jetzt im Begriff, über den Jordan zu ziehen, um dir drüben Völker zu unterwerfen, die größer und stärker sind als du: große und bis an den Himmel befestigte Städte,
 <sup>2</sup>ein großes und hochgewachsenes Volk, die Enakiter<sup title="4.Mose 13,33">&#x2732;</sup>, die du selbst schon kennst und von denen du selbst hast sagen hören: ›Wer könnte es mit den Enakitern aufnehmen?‹
 <sup>3</sup>So sollst du denn jetzt erkennen, daß der HERR, dein Gott, selbst es ist, der an deiner Spitze als ein verzehrendes Feuer hinüberzieht: er wird sie vernichten, und er wird sie vor dir her niederwerfen, so daß du sie schnell aus ihrem Besitz vertreiben und sie vernichten kannst, wie der HERR es dir verheißen hat.
@@ -430,7 +430,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 <sup>28</sup>damit man in dem Lande, aus dem du uns weggeführt hast, nicht sagen kann: Weil der HERR nicht imstande war, sie in das Land zu bringen, das er ihnen zugesagt hatte, und weil er sie haßte, hat er sie hinausgeführt, um sie in der Wüste sterben zu lassen!
 <sup>29</sup>Sie sind ja doch dein Volk und dein Eigentum, das du mit deiner großen Kraft und deinem hocherhobenen Arm hinausgeführt hast.‹
 
- # 10
+# 10
 <sup>1</sup>Damals sagte der HERR zu mir: ›Haue dir zwei Steintafeln zurecht, wie die ersten waren, und steige zu mir auf den Berg herauf; fertige dir auch eine hölzerne Lade an.
 <sup>2</sup>Ich will dann auf die Tafeln die Worte schreiben, die auf den ersten Tafeln gestanden haben, welche du zertrümmert hast; dann sollst du sie in die Lade legen.‹
 <sup>3</sup>So fertigte ich denn eine Lade von Akazienholz an, hieb zwei Steintafeln zurecht, wie die ersten waren, und stieg mit den beiden Tafeln in der Hand auf den Berg hinauf.
@@ -461,7 +461,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### Hinweis auf die persönlich erlebten vernichtenden Gerichtstaten Gottes
 
- # 11
+# 11
 <sup>1</sup>»So liebe denn den HERRN, deinen Gott, und beobachte allezeit, was er beobachtet wissen will, seine Satzungen, seine Verordnungen und seine Gebote,
 <sup>2</sup>und erkennet heute – denn nicht zu euren Kindern rede ich, welche die Zucht<sup title="= die Züchtigungen oder: Strafgerichte">&#x2732;</sup> des HERRN, eures Gottes, nicht miterlebt und seine große Macht nicht gesehen haben, seine starke Hand und seinen hocherhobenen Arm,
 <sup>3</sup>seine Wunderzeichen und seine Taten, die er in Ägypten am Pharao, dem König von Ägypten, und an seinem ganzen Lande vollführt hat,
@@ -509,7 +509,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### a) Neue Überschrift zum ganzen Gesetz; Aufstellung des Grundgesetzes: »Nur an <em>einer</em> von Gott erwählten Stätte darf Gott durch Opfer verehrt werden«
 
- # 12
+# 12
 <sup>1</sup>»Dies sind die Satzungen und die Verordnungen, die ihr in dem Lande, das der HERR, der Gott eurer Väter, euch zum Eigentum bestimmt hat, allezeit beobachten sollt, solange ihr auf dem Erdboden lebt«:
 <sup>2</sup>»Ihr sollt alle Stätten von Grund aus zerstören, an denen die Völkerschaften, die ihr aus ihrem Besitz verdrängen werdet, ihre Götter verehrt haben, auf den hohen Bergen wie auf den Hügeln und unter jedem dichtbelaubten Baum.
 <sup>3</sup>Ihr sollt also ihre Altäre niederreißen und ihre Malsteine<sup title="vgl. 2.Mose 34,13">&#x2732;</sup> zertrümmern, ihre Götzenbäume im Feuer verbrennen, ihre geschnitzten Götterbilder zerschlagen und ihren Namen von den betreffenden Stätten verschwinden lassen.
@@ -551,7 +551,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 <sup>30</sup>so hüte dich wohl, dich durch ihr Beispiel zur Nachahmung verführen zu lassen, nachdem sie vor dir vertilgt worden sind, und dich nach ihren Göttern zu erkundigen, indem du fragst: ›Wie haben diese Völkerschaften ihre Götter verehrt?‹ und dann sagst: ›Ich will es auch so machen!‹
 <sup>31</sup>So darfst du gegen den HERRN, deinen Gott, nicht verfahren; denn alles Mögliche, was für den HERRN ein Greuel ist, den er verabscheut, haben sie bei ihrem Götterdienst verübt; sogar ihre Söhne und Töchter haben sie ja ihren Göttern zu Ehren im Feuer verbrannt!«
 
- # 13
+# 13
 <sup>1</sup>»Alle Gebote, die ich euch zur Pflicht mache, sollt ihr gewissenhaft beobachten, ohne etwas hinzuzufügen oder etwas davon wegzulassen.« –
 
 #### Härteste Bestrafung aller falschen Propheten und der abgöttischen nächsten Verwandten
@@ -581,7 +581,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### c) Verbot heidnischer Trauergebräuche und unreiner Speisen
 
- # 14
+# 14
 <sup>1</sup>»Ihr seid Söhne<sup title="oder: Kinder">&#x2732;</sup> für den HERRN, euren Gott; darum dürft ihr euch wegen eines Toten keine Einschnitte ins Fleisch machen und euch über der Stirn nicht kahlscheren;
 <sup>2</sup>denn du bist ein dem HERRN, deinem Gott, geheiligtes Volk, und dich hat der HERR, dein Gott, aus allen Völkern, die es auf dem ganzen Erdboden gibt, zu seinem Eigentumsvolk erwählt. –
 
@@ -619,7 +619,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### e) Vorschriften bezüglich des Schuldenerlasses in jedem siebten Jahre und der Freilassung hebräischer Sklaven
 
- # 15
+# 15
 <sup>1</sup>»Alle sieben Jahre sollst du einen Erlaß eintreten lassen;
 <sup>2</sup>und mit dem Erlaß soll es folgendermaßen gehalten werden: Jeder Gläubiger soll das Handdarlehen, das er seinem Nächsten gewährt hat, erlassen; er soll seinen Nächsten und besonders seinen Volksgenossen nicht drängen; denn man hat einen Erlaß zu Ehren des HERRN ausgerufen.
 <sup>3</sup>Einen Nichtisraeliten magst du drängen; was du aber bei einem von deinen Volksgenossen ausstehen hast, das sollst du aus deinem Besitz fahren lassen.
@@ -655,7 +655,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### g) Vorschriften bezüglich der drei jährlichen Hauptfeste
 
- # 16
+# 16
 <sup>1</sup>»Beobachte den Monat Abib<sup title="März/April; vgl. 2.Mose 13,4">&#x2732;</sup> und feiere das Passah zu Ehren des HERRN, deines Gottes; denn im Monat Abib hat der HERR, dein Gott, dich bei Nacht aus Ägypten hinausgeführt.
 <sup>2</sup>Du sollst dann für den HERRN, deinen Gott, als Passahopfer Kleinvieh und Rinder an der Stätte schlachten<sup title="oder: opfern">&#x2732;</sup>, die der HERR erwählen wird, um seinen Namen dort wohnen zu lassen.
 <sup>3</sup>Du darfst nichts Gesäuertes dazu<sup title="d.h. zu ihm hinzu">&#x2732;</sup> essen: sieben Tage lang sollst du ungesäuertes Brot als ›Elendskost‹<sup title="oder: Notstandsbrot">&#x2732;</sup> dazu genießen – denn in ängstlicher Eile bist du aus dem Lande Ägypten weggezogen –, damit du an den Tag deines Auszugs aus dem Lande Ägypten zurückdenkst, solange du lebst.
@@ -689,7 +689,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 <sup>21</sup>»Du sollst dir neben dem Altar, den du dir für den HERRN, deinen Gott, errichten wirst, keinen Baumstamm irgendwelcher Art als Götzenbaum pflanzen
 <sup>22</sup>und dir keinen Malstein aufstellen, weil der HERR, dein Gott, ihn haßt<sup title="vgl. 2.Mose 34,13">&#x2732;</sup>.-
 
- # 17
+# 17
 <sup>1</sup>Du sollst dem HERRN, deinem Gott, kein Rind und kein Stück Kleinvieh opfern, das einen Fehler, irgend etwas Häßliches, an sich hat; denn das ist ein Greuel für den HERRN, deinen Gott.«
 
 #### Bestrafung des Götzendienstes
@@ -722,7 +722,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### k) Einkünfte und Rechte der levitischen, im Heiligtum amtierenden Priester und überhaupt der Leviten
 
- # 18
+# 18
 <sup>1</sup>»Die levitischen Priester, der ganze Stamm Levi, sollen keinen eigenen Landbesitz und kein Erbteil wie die übrigen Israeliten haben: von den Feueropfern des HERRN und den ihm als Gebühr zustehenden Abgaben sollen sie ihren Unterhalt haben.
 <sup>2</sup>Aber eigenen Erbbesitz soll dieser Stamm inmitten seiner Volksgenossen nicht haben: der HERR ist sein Erbbesitz, wie er ihm zugesagt hat.
 <sup>3</sup>Folgendes ist es aber, was der Priester vom Volk, nämlich von denen zu beanspruchen hat, die ein Schlachtopfer darbringen, sei es ein Rind oder ein Stück Kleinvieh: man soll davon dem Priester den Bug<sup title="= das Vorderbein, oder: die Vorderkeule">&#x2732;</sup> und die beiden Kinnbacken und den Magen geben.
@@ -751,7 +751,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### m) Aussonderung von drei bis sechs Freistädten zur Milderung der Blutrache
 
- # 19
+# 19
 <sup>1</sup>»Wenn der HERR, dein Gott, die Völkerschaften ausrottet, deren Land der HERR, dein Gott, dir geben will, und du nach ihrer Vertreibung in ihren Städten und Häusern wohnst,
 <sup>2</sup>so sollst du dir in deinem Lande, das der HERR, dein Gott, dir zum Besitz gibt, drei Städte aussondern.
 <sup>3</sup>Du sollst dir die Wege dahin in guten Stand setzen und das Gebiet deines Landes, das der HERR, dein Gott, dir zu eigen geben wird, in drei Teile<sup title="oder: Bezirke">&#x2732;</sup> zerlegen; und das soll dazu dienen, daß jeder Totschläger sich dorthin flüchten kann.
@@ -782,7 +782,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 ##### aa) Verhalten gegen die eigenen Leute; Gesetze über Befreiung vom Kriegsdienst
 
- # 20
+# 20
 <sup>1</sup>»Wenn du zum Krieg gegen deine Feinde ausziehst und Rosse und Kriegswagen, ein dir an Zahl überlegenes Heer erblickst, so fürchte dich nicht vor ihnen! Denn der HERR, dein Gott, der dich aus dem Lande Ägypten hergeführt hat, ist mit dir.
 <sup>2</sup>Und wenn ihr zum Kriege<sup title="oder: zur Schlacht?">&#x2732;</sup> ausrückt, so soll der Priester vortreten und zum Volk so sprechen:
 <sup>3</sup>›Höre, Israel! Ihr zieht heute in den Kampf gegen eure Feinde: euer Herz werde nicht verzagt! Fürchtet euch nicht und seid ohne Angst und erschreckt nicht vor ihnen!
@@ -810,7 +810,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### p) Sühnung eines von unbekannter Hand verübten Mordes
 
- # 21
+# 21
 <sup>1</sup>»Wenn man in dem Lande, das der HERR, dein Gott, dir zum Eigentum gibt, einen Erschlagenen auf dem Felde liegend findet, von dem nicht bekannt ist, wer ihn erschlagen hat,
 <sup>2</sup>so sollen deine Ältesten und deine Richter hinausgehen und die Entfernungen bis zu den Ortschaften abmessen, die rings um den Erschlagenen liegen.
 <sup>3</sup>Dann sollen die Ältesten derjenigen Ortschaft, die dem Erschlagenen am nächsten liegt, eine junge Kuh nehmen, die noch nicht zur Arbeit benutzt und noch nie ins Joch gespannt worden ist,
@@ -851,7 +851,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 ##### ee) Einige Liebespflichten in Notlagen des Nächsten; Rückgabe von Fundgegenständen
 
- # 22
+# 22
 <sup>1</sup>»Wenn du siehst, daß das Rind eines deiner Volksgenossen oder ein Stück seines Kleinviehs sich verlaufen hat, so sollst du ihnen deine Hilfe nicht versagen, sollst sie vielmehr deinem Volksgenossen zurückbringen.
 <sup>2</sup>Wenn aber dein Volksgenosse nicht in deiner Nähe wohnt oder du ihn nicht kennst, so sollst du das Tier in dein Haus aufnehmen, und es soll bei dir bleiben, bis dein Volksgenosse es sucht: dann gib es ihm zurück.
 <sup>3</sup>Ebenso sollst du es mit seinem Esel und ebenso mit einem Kleidungsstück von ihm machen, überhaupt mit allem, was einem von deinen Volksgenossen verlorengeht oder ihm abhanden kommt und was du findest: du darfst ihm deine Hilfe nicht versagen. –
@@ -898,7 +898,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 <sup>28</sup>Wenn ein Mann ein Mädchen, eine Jungfrau, die nicht verlobt ist, antrifft und sie ergreift und ihr beiwohnt und man ihn ertappt<sup title="oder: ausfindig macht">&#x2732;</sup>,
 <sup>29</sup>so soll der Mann, der ihr beigewohnt hat, dem Vater des Mädchens fünfzig Schekel Silber geben, und sie soll ihm als Frau angehören; zur Strafe dafür, daß er sie entehrt hat, darf er sie zeitlebens nicht entlassen. –
 
- # 23
+# 23
 <sup>1</sup>Niemand darf die<sup title="oder: eine">&#x2732;</sup> Frau seines Vaters zum Weibe nehmen und überhaupt nicht die Bettdecke seines Vaters aufdecken.«<sup title="vgl. 27,20">&#x2732;</sup>
 
 #### s) Wer in die Gemeinde Israels aufgenommen werden darf und wer auszuschließen ist
@@ -939,7 +939,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 <sup>25</sup>Wenn du in den Weinberg eines deiner Volksgenossen kommst, so magst du Trauben nach deinem Begehren essen, bis du satt bist; aber in dein Gefäß darfst du keine tun.
 <sup>26</sup>Wenn du an das Kornfeld eines deiner Volksgenossen kommst, so magst du Ähren mit der Hand abpflücken; aber eine Sichel darfst du nicht an das Getreide eines deiner Volksgenossen legen. –
 
- # 24
+# 24
 <sup>1</sup>Wenn ein Mann eine Frau nimmt und die Ehe mit ihr vollzieht, später aber sich nicht mehr zu ihr hingezogen fühlt, weil er etwas Häßliches<sup title="oder: Widerwärtiges">&#x2732;</sup> an ihr entdeckt hat, und er hat ihr einen Scheidebrief geschrieben und ihn ihr eingehändigt und sie aus seinem Hause entlassen, –
 <sup>2</sup>wenn sie also aus seinem Hause weggegangen ist und die Ehe mit einem andern Manne vollzogen hat
 <sup>3</sup>und der zweite Mann ihr ebenfalls abgeneigt wird und ihr auch einen Scheidebrief schreibt und ihn ihr einhändigt und sie so aus seinem Hause entläßt, oder wenn der zweite Mann, der sie geheiratet hat, stirbt:
@@ -974,7 +974,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### Maßhalten bei Leibesstrafen vor Gericht; Milde gegen ein arbeitendes Haustier
 
- # 25
+# 25
 <sup>1</sup>»Wenn es zwischen Männern zu einem Rechtsstreit kommt und sie vor Gericht getreten sind und man das Urteil über sie gesprochen hat, indem man den Unschuldigen freigesprochen und den Schuldigen verurteilt hat,
 <sup>2</sup>so soll, wenn der Schuldige Prügelstrafe verdient hat, der Richter ihn sich hinlegen lassen, und man soll ihm in seiner<sup title="d.h. des Richters">&#x2732;</sup> Gegenwart eine bestimmte Anzahl von Schlägen<sup title="oder: Streichen">&#x2732;</sup> nach Maßgabe seiner Verschuldung geben.
 <sup>3</sup>Vierzig Schläge darf er ihm geben lassen, aber nicht mehr, damit dein Volksgenosse nicht, wenn man fortführe, ihm eine noch größere Zahl von Schlägen zu versetzen, in deinen Augen verächtlich gemacht wird. –
@@ -1010,7 +1010,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 ##### aa) Das dankbare Bekenntnis bei der Darbringung der Erstlingsfrüchte im Heiligtum
 
- # 26
+# 26
 <sup>1</sup>»Wenn du nun in das Land gekommen bist, das der HERR, dein Gott, dir zu eigen geben wird, und du es in Besitz genommen hast und in ihm wohnst,
 <sup>2</sup>so sollst du einen Teil von den Erstlingen aller Feldfrüchte, die du von deinem Lande, das der HERR, dein Gott, dir geben wird, geerntet hast, nehmen und sie in einen Korb legen und dich damit an die Stätte begeben, die der HERR, dein Gott, erwählen wird, um seinen Namen daselbst wohnen zu lassen.
 <sup>3</sup>Dort sollst du dann zu dem Priester treten, der zu jener Zeit im Amt sein wird, und zu ihm sagen: ›Ich bezeuge heute dem HERRN, deinem Gott, daß ich wirklich in das Land gekommen bin, dessen Verleihung an uns der HERR unsern Vätern zugeschworen hat.‹
@@ -1041,7 +1041,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### a) Aufstellung von Denksteinen des Gesetzes im Westjordanlande; Errichtung eines Altars auf dem Berge Ebal
 
- # 27
+# 27
 <sup>1</sup>Weiter geboten Mose und die Ältesten der Israeliten dem Volke folgendes: »Beobachtet alle Gebote, die ich euch heute zur Pflicht mache!
 <sup>2</sup>Sobald ihr also über den Jordan in das Land gezogen seid, das der HERR, dein Gott, dir geben wird, so richte dir große Steine auf, überstreiche sie mit Tünchkalk
 <sup>3</sup>und schreibe, sobald du hinübergezogen bist, alle Worte dieses Gesetzes auf sie, damit du in das Land hineinkommst, das der HERR, dein Gott, dir geben will, ein Land, das von Milch und Honig überfließt, wie der HERR, der Gott deiner Väter, dir verheißen hat.
@@ -1091,7 +1091,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 ##### aa) Verheißung reicher Segnungen für das bundestreue Volk
 
- # 28
+# 28
 <sup>1</sup>»Wenn du aber den Weisungen des HERRN, deines Gottes, gewissenhaft nachkommst, indem du auf die Beobachtung aller seiner Gebote, die ich dir heute zur Pflicht mache, bedacht bist, so wird der HERR, dein Gott, dich über alle Völker der Erde erhöhen,
 <sup>2</sup>und alle die folgenden Segnungen werden dir zuteil werden und bei dir eintreffen, wenn du den Weisungen des HERRN, deines Gottes, nachkommst:
 <sup>3</sup>Gesegnet wirst du sein in der Stadt und gesegnet auf dem Felde.
@@ -1175,7 +1175,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 ##### aa) Hinweis auf die großen bisherigen göttlichen Strafgerichte und die Wohltaten
 
- # 29
+# 29
 <sup>1</sup>Mose berief also alle Israeliten und sagte zu ihnen: »Ihr habt selbst alles gesehen, was der HERR vor euren Augen im Lande Ägypten dem Pharao und allen seinen Knechten<sup title="= Dienern">&#x2732;</sup> und seinem ganzen Lande hat widerfahren lassen:
 <sup>2</sup>die großen Machterweise, die du mit eigenen Augen gesehen hast, jene großen Zeichen und Wunder.
 <sup>3</sup>Aber bis auf den heutigen Tag hat der HERR euch kein Herz zum Erkennen, keine Augen zum Sehen und keine Ohren zum Hören gegeben.
@@ -1214,7 +1214,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 ##### dd) Ankündigung von Gottes Barmherzigkeit für das verstoßene, aber dann bußfertig gewordene Volk; neuer Bund nach künftigen Gerichten
 
- # 30
+# 30
 <sup>1</sup>»Wenn nun alle diese Worte, der Segen und der Fluch, die ich dir vorgetragen habe, (einst) bei dir eintreffen werden und du es unter allen Völkern, unter die der HERR, dein Gott, dich (alsdann) verstoßen hat, dir zu Herzen nehmen wirst
 <sup>2</sup>und du samt deinen Kindern von ganzem Herzen und mit ganzer Seele zum HERRN, deinem Gott, zurückkehrst und seinen Weisungen in allem, was ich dir heute gebiete, gehorsam bist:
 <sup>3</sup>so wird der HERR, dein Gott, dein Geschick wenden und sich deiner erbarmen und wird dich wieder aus all den Völkern sammeln, unter die der HERR, dein Gott, dich zerstreut hat.
@@ -1248,7 +1248,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 #### a) Einsetzung Josuas zum Nachfolger Moses
 
- # 31
+# 31
 <sup>1</sup>Nun ging Mose daran, folgende Worte an ganz Israel zu richten;
 <sup>2</sup>er sagte zu ihnen: »Ich bin heute 120 Jahre alt: ich vermag nicht mehr den Anforderungen meines Amtes zu genügen; auch hat der HERR zu mir gesagt: ›Du sollst den Jordan da nicht überschreiten!‹
 <sup>3</sup>Der HERR, dein Gott, wird selbst an deiner Spitze hinüberziehen: er selbst wird diese Völker vor dir her vernichten, daß du ihr Land in Besitz nehmen kannst. Josua wird an deiner Spitze hinüberziehen, wie der HERR geboten hat,
@@ -1296,7 +1296,7 @@ _(genannt das Deuteronomium, d.h. die zweite Gesetzgebung)_
 
 ### 2. Das Lied Moses
 
- # 32
+# 32
 <sup>1</sup>Horcht auf, ihr Himmel, denn ich will reden,
 und die Erde vernehme die Worte meines Mundes!
 <sup>2</sup>Wie Regen ergieße sich meine Belehrung,
@@ -1470,7 +1470,7 @@ und entsünd’gen sein Land, sein Volk.
 
 #### a) Überschrift und Einleitung
 
- # 33
+# 33
 <sup>1</sup>Dies ist der Segen, den Mose, der Mann Gottes, über die Israeliten vor seinem Tode ausgesprochen hat.
 <sup>2</sup>Er sprach (damals):
 »Der HERR kam vom Sinai her
@@ -1593,7 +1593,7 @@ du aber schreitest dahin auf ihren Höhen!«
 
 ### 5. Mose auf dem Berge Nebo; sein Tod und Begräbnis; Josua wird sein Nachfolger
 
- # 34
+# 34
 <sup>1</sup>Als Mose dann aus den Steppen der Moabiter auf den Berg Nebo, den Gipfel des Pisga, der Jericho gegenüber<sup title="= östlich von Jericho">&#x2732;</sup> liegt, gestiegen war, ließ der HERR ihn das ganze Land sehen: Gilead bis nach Dan
 <sup>2</sup>und ganz Naphthali, das Land Ephraim und Manasse und die ganze Landschaft Juda bis an das westliche Meer
 <sup>3</sup>sowie das Südland und die Jordan-Aue, die Tiefebene der Palmenstadt Jericho bis nach Zoar.

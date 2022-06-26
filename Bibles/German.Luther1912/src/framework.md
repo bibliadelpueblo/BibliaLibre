@@ -1,3 +1,4 @@
+%!map-verses german%
 # 01-1. Mose.md
 ## 1
 ^0^ 

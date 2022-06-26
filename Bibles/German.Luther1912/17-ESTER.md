@@ -18,7 +18,7 @@
 
 ^19^ Gefällt es dem König, so lasse man ein königlich Gebot von ihm ausgehen und schreiben nach der Perser und Meder Gesetz, welches man nicht darf übertreten: dass Vasthi nicht mehr vor den König Ahasveros komme, und der König gebe ihre königliche Würde einer anderen, die besser ist denn sie. ^20^ Und es erschalle dieser Befehl des Königs, den er geben wird, in sein ganzes Reich, welches groß ist, dass alle Weiber ihre Männer in Ehren halten, unter Großen und Kleinen. 
 
-^21^ Das gefiel dem König und den Fürsten; und der König tat nach dem Wort Memuchans. ^22^ Da wurden Briefe ausgesandt in alle Länder des Königs, in ein jegliches Land nach seiner Schrift und zu jeglichem Volk nach seiner Sprache: dass ein jeglicher Mann der Oberherr in seinem Hause sei und ließe reden nach der Sprache seines Volks.^a^ 
+^21^ Das gefiel dem König und den Fürsten; und der König tat nach dem Wort Memuchans. ^22^ Da wurden Briefe ausgesandt in alle Länder des Königs, in ein jegliches Land nach seiner Schrift und zu jeglichem Volk nach seiner Sprache: dass ein jeglicher Mann der Oberherr in seinem Hause sei und ließe reden nach der Sprache seines Volks. ^a^ 
 ^a^[**1:22** Est 3,12; Est 8,9; 1Mo 3,16]
 
 # 2
@@ -116,7 +116,7 @@
 ^11^ Da nahm Haman das Kleid und Ross und zog Mardochai an und führte ihn auf der Stadt Gassen und rief vor ihm her: So wird man tun dem Mann, den der König gerne ehren will. 
 
 ## El dolor de Amán; Lleno de presentimientos, fue al banquete de la reina
-^12^ Und Mardochai kam wieder an das Tor des Königs. Haman aber eilte nach Hause, trug Leid mit verhülltem Kopf ^13^ und erzählte seinem Weibe Seres und seinen Freunden allen alles, was ihm begegnet war. Da sprachen zu ihm seine Weisen und sein Weib Seres: Ist Mardochai vom Geschlecht der Juden, vor dem du zu fallen angehoben hast, so vermagst du nichts an ihm, sondern du wirst vor ihm fallen. ^14^ Da sie aber noch mit ihm redeten, kamen herbei des Königs Kämmerer und trieben Haman, zum Mahl zu kommen, das Esther zugerichtet hatte.^a^ 
+^12^ Und Mardochai kam wieder an das Tor des Königs. Haman aber eilte nach Hause, trug Leid mit verhülltem Kopf ^13^ und erzählte seinem Weibe Seres und seinen Freunden allen alles, was ihm begegnet war. Da sprachen zu ihm seine Weisen und sein Weib Seres: Ist Mardochai vom Geschlecht der Juden, vor dem du zu fallen angehoben hast, so vermagst du nichts an ihm, sondern du wirst vor ihm fallen. ^14^ Da sie aber noch mit ihm redeten, kamen herbei des Königs Kämmerer und trieben Haman, zum Mahl zu kommen, das Esther zugerichtet hatte. ^a^ 
 ^a^[**6:14** Est 5,8]
 
 # 7
@@ -152,7 +152,7 @@
 ^9^ Da wurden gerufen des Königs Schreiber zu der Zeit im dritten Monat, das ist der Monat Sivan, am dreiundzwanzigsten Tage, und wurde geschrieben, wie Mardochai gebot, an die Juden und an die Fürsten, Landpfleger und Hauptleute in den Landen von Indien bis an Mohrenland, nämlich 127 Länder, einem jeglichen Lande nach seiner Schrift, einem jeglichen Volk nach seiner Sprache, und den Juden nach ihrer Schrift und Sprache. ^10^ Und es ward geschrieben in des Königs Ahasveros Namen und mit des Königs Ring versiegelt. Und er sandte die Briefe durch die reitenden Boten auf jungen Maultieren, ^11^ darin der König den Juden Macht gab, in welchen Städten sie auch waren, sich zu versammeln und zu stehen für ihr Leben und zu vertilgen, zu erwürgen und umzubringen alle Macht des Volks und Landes, die sie ängsteten, samt den Kindern und Weibern, und ihr Gut zu rauben ^12^ auf einen Tag in allen Ländern des Königs Ahasveros, nämlich am dreizehnten Tage des zwölften Monats, das ist der Monat Adar. ^13^ Der Inhalt aber der Schrift war, dass ein Gebot gegeben wäre in allen Landen, zu eröffnen allen Völkern, dass die Juden auf den Tag bereit sein sollten, sich zu rächen an ihren Feinden. ^14^ Und die reitenden Boten auf den Maultieren ritten aus schnell und eilend nach dem Wort des Königs, und das Gebot ward zu Schloss Susan angeschlagen. 
 
 ## Mardochai aparece en Susa con un traje principesco; Alegría de los judíos en todo el imperio
-^15^ Mardochai aber ging aus von dem König in königlichen Kleidern, blau und weiß, und mit einer großen goldenen Krone, angetan mit einem Leinen- und Purpurmantel; und die Stadt Susan jauchzte und war fröhlich. ^16^ Den Juden aber war Licht und Freude und Wonne und Ehre gekommen. ^17^ Und in allen Landen und Städten, an welchen Ort des Königs Wort und Gebot gelangte, da ward Freude und Wonne unter den Juden, Wohlleben und gute Tage, dass viele aus den Völkern im Lande Juden wurden; denn die Furcht vor den Juden war über sie gekommen.^a^ 
+^15^ Mardochai aber ging aus von dem König in königlichen Kleidern, blau und weiß, und mit einer großen goldenen Krone, angetan mit einem Leinen- und Purpurmantel; und die Stadt Susan jauchzte und war fröhlich. ^16^ Den Juden aber war Licht und Freude und Wonne und Ehre gekommen. ^17^ Und in allen Landen und Städten, an welchen Ort des Königs Wort und Gebot gelangte, da ward Freude und Wonne unter den Juden, Wohlleben und gute Tage, dass viele aus den Völkern im Lande Juden wurden; denn die Furcht vor den Juden war über sie gekommen. ^a^ 
 ^a^[**8:17** 2Mo 15,14-16]
 
 # 9

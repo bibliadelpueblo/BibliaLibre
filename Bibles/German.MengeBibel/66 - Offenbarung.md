@@ -4,7 +4,7 @@
 
 #### a) Die Überschrift mit Angabe des Ursprungs, des Zwecks und der Bedeutung der vorliegenden Schrift
 
- # 1
+# 1
 ^1^ Offenbarung Jesu Christi, die Gott ihm<sup title="d.h. Jesus Christus">&#x2732;</sup> hat zuteil werden lassen, um seinen Knechten anzuzeigen, was in Bälde geschehen soll<sup title="oder: muß">&#x2732;</sup>; und er<sup title="d.h. Jesus">&#x2732;</sup> hat es durch die Sendung seines Engels seinem Knechte Johannes durch Zeichen kundgetan,
 ^2^ und dieser legt nunmehr Zeugnis ab von dem Worte Gottes und von dem Zeugnis Jesu Christi, von allem, was er gesehen hat.
 ^3^ Selig ist der Vorleser und (selig sind) die Hörer der Worte der Weissagung und die das bewahren<sup title="oder: festhalten">&#x2732;</sup>, was in ihr geschrieben steht; denn die Zeit (der Erfüllung) ist nahe.
@@ -41,7 +41,7 @@
 
 #### a) Sendschreiben an die Gemeinde in Ephesus: »Laß die erste Liebe nicht!«
 
- # 2
+# 2
 ^1^ »Dem Engel<sup title="1,20">&#x2732;</sup> der Gemeinde in Ephesus schreibe: So spricht der, welcher die sieben Sterne fest in seiner rechten Hand hält und der inmitten der sieben goldenen Leuchter wandelt<sup title="= einhergeht">&#x2732;</sup>:
 ^2^ Ich kenne deine Werke<sup title="d.h. ich weiß, wie es bei dir steht">&#x2732;</sup> und deine Arbeit<sup title="oder: Mühsal">&#x2732;</sup> und dein standhaftes Ausharren und (weiß), daß du Böse nicht zu ertragen vermagst; du hast auch die geprüft<sup title="oder: auf die Probe gestellt">&#x2732;</sup>, welche sich für Apostel ausgeben, ohne es zu sein, und hast Lügner in ihnen erkannt.
 ^3^ Auch standhaftes Ausharren besitzest du und hast um meines Namens willen schwere Lasten getragen und bist nicht müde geworden.
@@ -83,7 +83,7 @@
 
 #### e) Sendschreiben an die Gemeinde in Sardes: »Sei nicht wie die andern tot!«
 
- # 3
+# 3
 ^1^ »Und dem Engel<sup title="1,20">&#x2732;</sup> der Gemeinde in Sardes schreibe: So spricht der, der die sieben Geister Gottes und die sieben Sterne hat: Ich kenne deine Werke<sup title="2,2">&#x2732;</sup>: du stehst in dem Rufe, daß du lebest, und bist doch tot.
 ^2^ Wache auf und stärke die übrigen (Gemeindeglieder), die nahe am Sterben waren<sup title="oder: sind">&#x2732;</sup>! Denn ich habe deine Werke nicht als vollkommen vor meinem Gott erfunden.
 ^3^ Denke also daran, wie du (die Heilsbotschaft, oder: das Heil) empfangen und vernommen hast, halte daran fest und gehe in dich! Willst du aber nicht wachsam sein<sup title="oder: wachen">&#x2732;</sup>, so werde ich wie ein Dieb kommen, und du sollst sicherlich nicht wissen<sup title="= erfahren">&#x2732;</sup>, zu welcher Stunde ich über dich kommen werde.
@@ -117,7 +117,7 @@
 
 ### 1. Eingangsgesicht: Gott der Vater und die himmlische Ratsversammlung im Thronsaal Gottes
 
- # 4
+# 4
 ^1^ Hierauf hatte ich ein Gesicht: ich sah, wie eine Tür im<sup title="oder: am">&#x2732;</sup> Himmel offenstand, und die erste Stimme, die ich wie Posaunenschall mit mir hatte reden hören, rief mir zu: »Komm herauf, hierher, so will ich dir zeigen, was hernach<sup title="= in Zukunft; 1,19">&#x2732;</sup> geschehen muß.« Sogleich geriet ich durch den Geist in Verzückung<sup title="vgl. 1,10">&#x2732;</sup>;
 ^2^ und siehe, da stand ein Thron im Himmel, und auf dem Thron saß jemand,
 ^3^ und der dort Thronende sah wie Jaspis- und Karneolstein aus, und den Thron umgab rings ein Regenbogen<sup title="= Strahlenkranz">&#x2732;</sup>, der wie ein Smaragd aussah.
@@ -132,7 +132,7 @@
 
 ### 2. Das Schicksalsbuch mit den sieben Siegeln und das Lamm Gottes auf dem Thron
 
- # 5
+# 5
 ^1^ Und ich sah auf<sup title="oder: in">&#x2732;</sup> der rechten Hand des auf dem Throne Sitzenden ein Buch, das inwendig beschrieben und auf der Rückseite mit sieben Siegeln versiegelt war.
 ^2^ Dann sah ich einen starken Engel<sup title="= einen Engelfürsten">&#x2732;</sup>, der mit lauter Stimme ausrief: »Wer ist würdig, das Buch zu öffnen und seine Siegel zu lösen?«
 ^3^ Doch niemand im Himmel und auf der Erde und unter der Erde vermochte das Buch zu öffnen und hineinzusehen.
@@ -158,7 +158,7 @@
 
 ##### aa) Die vier Reiter
 
- # 6
+# 6
 ^1^ Nun sah ich, wie das Lamm eines<sup title="oder: das erste">&#x2732;</sup> von den sieben Siegeln öffnete, und ich hörte eines<sup title="oder: das erste">&#x2732;</sup> von den vier Lebewesen wie mit Donnerstimme rufen: »Komm!«
 ^2^ Als ich nun hinsah, erblickte ich ein weißes Roß, und der auf ihm sitzende (Reiter) hatte einen Bogen; es wurde ihm ein (Sieges-) Kranz gereicht, und er zog dann aus von Sieg zu Sieg.
 ^3^ Als (das Lamm) hierauf das zweite Siegel öffnete, hörte ich das zweite Lebewesen rufen: »Komm!«
@@ -188,7 +188,7 @@
 
 ##### aa) Die Versiegelung einer Auswahl (von 144000 aus den zwölf Stämmen Israels)
 
- # 7
+# 7
 ^1^ Danach sah ich vier Engel an den vier Enden der Erde stehen, die hielten die vier Winde der Erde fest, damit kein Wind auf der Erde und auf dem Meer und über irgendeinen Baum wehe.
 ^2^ Weiter sah ich einen anderen Engel vom Sonnenaufgang her emporsteigen, der ein Siegel des lebendigen Gottes hatte; der rief den vier Engeln, denen der Auftrag erteilt war, Unheil auf der Erde und auf dem Meer anzurichten, mit lauter Stimme die Worte zu:
 ^3^ »Richtet kein Unheil auf der Erde und auf dem Meere und an den Bäumen an, bis wir die Knechte unsers Gottes mit einem Siegel auf ihrer Stirn bezeichnet haben!«
@@ -213,7 +213,7 @@
 
 #### c) Die Lösung des siebten Siegels und die Stille im Himmel (als Einleitung zu den Posaunengerichten)
 
- # 8
+# 8
 ^1^ Als das Lamm dann das siebte Siegel öffnete, trat eine Stille im Himmel ein, wohl eine halbe Stunde lang.
 
 ## III. Dritte Gruppe der Gesichte: Die siebenfache Gerichtsandrohung für die christusfeindliche Welt; die sieben Posaunen (8,2-11,19)
@@ -245,7 +245,7 @@
 
 #### Die fünfte Posaune oder das erste Wehe
 
- # 9
+# 9
 ^1^ Und der fünfte Engel stieß in die Posaune: da sah ich einen Stern, der vom Himmel auf die Erde gefallen war; und der Schlüssel zum Schlund<sup title="oder: Schacht">&#x2732;</sup> des Abgrundes<sup title="= der Hölle">&#x2732;</sup> wurde ihm gegeben.
 ^2^ Er schloß also den Schlund des Abgrundes auf: da stieg Rauch aus dem Schlunde empor wie der Rauch eines großen Ofens, und die Sonne und die Luft wurden durch den Rauch des Schlundes verfinstert.
 ^3^ Aus dem Rauch kamen dann Heuschrecken hervor auf die Erde; denen wurde eine Kraft gegeben, wie sonst die Skorpione auf Erden sie besitzen,
@@ -275,7 +275,7 @@
 
 #### a) Ein Engel hält ein aufgeschlagenes Büchlein und schwört
 
- # 10
+# 10
 ^1^ Hierauf sah ich einen anderen starken Engel<sup title="= einen Engelfürsten">&#x2732;</sup> aus dem Himmel herabkommen, der in eine Wolke gehüllt war; der Regenbogen (wölbte sich) über seinem Haupte, sein Antlitz sah wie die Sonne aus und seine Beine wie Feuersäulen;
 ^2^ in seiner Hand hielt er ein aufgeschlagenes Büchlein. Er setzte nun seinen rechten Fuß auf das Meer, den linken auf die Erde<sup title="= das feste Land">&#x2732;</sup>
 ^3^ und rief mit lauter Stimme, wie ein Löwe brüllt. Als er so gerufen hatte, ließen die sieben Donner ihre Stimmen erschallen.
@@ -295,7 +295,7 @@
 
 #### a) Die Ausmessung des Tempels; die Bewahrung der treuen Gläubigen während der schweren Heimsuchung der heiligen Stadt durch die Heiden
 
- # 11
+# 11
 ^1^ Man gab mir dann ein Rohr, das einem Stabe<sup title="= Meßstabe">&#x2732;</sup> glich, und gebot mir: »Mache dich auf und miß den Tempel Gottes nebst dem Brandopferaltar<sup title="oder: der Opferstätte">&#x2732;</sup> und den dort Anbetenden;
 ^2^ doch den Vorhof außerhalb des Tempels tu hinaus<sup title="= laß unberücksichtigt">&#x2732;</sup> und miß ihn nicht mit; denn er ist den Heiden preisgegeben; die werden die heilige Stadt zweiundvierzig Monate lang zertreten.«
 
@@ -329,7 +329,7 @@
 
 #### a) Das Sonnenweib und der Drache; Rettung des Weibes und ihres neugeborenen Kindes
 
- # 12
+# 12
 ^1^ Es erschien dann ein großes Zeichen im<sup title="oder: am">&#x2732;</sup> Himmel: ein Weib, das mit der Sonne umkleidet war; der Mond war unter ihren Füßen und ein Kranz<sup title="oder: eine Krone">&#x2732;</sup> von zwölf Sternen auf ihrem Haupt;
 ^2^ sie war guter Hoffnung und schrie in ihren Geburtsschmerzen und Kindesnöten.
 ^3^ Dann erschien plötzlich noch ein anderes Zeichen im<sup title="oder: am">&#x2732;</sup> Himmel: ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern und mit sieben Königskronen auf seinen Köpfen;
@@ -360,7 +360,7 @@
 
 ^18^ Hierauf trat ich an den Sand<sup title="= Strand">&#x2732;</sup> des Meeres.
 
- # 13
+# 13
 ^1^ Da sah ich aus dem Meere ein Tier heraufkommen, das hatte zehn Hörner und sieben Köpfe und auf seinen Hörnern zehn Königskronen und auf seinen Köpfen gotteslästerliche Namen.
 ^2^ Das Tier, das ich sah, glich einem Panther, doch seine Füße<sup title="= Tatzen">&#x2732;</sup> waren wie die eines Bären und sein Maul wie ein Löwenrachen. Der Drache gab ihm dann seine Kraft und seinen Thron und große Macht,
 ^3^ dazu einen von seinen Köpfen, der wie zum Tode geschlachtet<sup title="oder: verwundet">&#x2732;</sup> war, dessen Todeswunde jedoch wieder geheilt wurde. Da sah die ganze (Bevölkerung der) Erde dem Tier mit staunender Bewunderung nach,
@@ -387,7 +387,7 @@
 
 #### a) Das Lamm und die vollendete Gemeinde der 144000 auf dem Berge Zion
 
- # 14
+# 14
 ^1^ Nun hatte ich ein Gesicht: ich sah nämlich das Lamm auf dem Berge Zion stehen und mit<sup title="oder: bei">&#x2732;</sup> ihm hundertvierundvierzigtausend, die seinen<sup title="d.h. des Lammes">&#x2732;</sup> Namen und den Namen seines Vaters auf ihrer Stirn geschrieben trugen.
 ^2^ Und ich hörte einen Schall aus dem Himmel wie das Rauschen vieler<sup title="oder: großer">&#x2732;</sup> Wasser und wie das Rollen eines starken Donners; zugleich aber klang der Schall, den ich hörte, wie der von Harfenspielern, die auf ihren Harfen spielen.
 ^3^ Sie sangen ein neues Lied vor dem Throne und vor den vier Lebewesen und den Ältesten, und niemand konnte das Lied (singen) lernen außer den Hundertvierundvierzigtausend, die von der Erde<sup title="= aus der Zahl der Erdenbewohner">&#x2732;</sup> erkauft sind.
@@ -425,7 +425,7 @@
 
 #### a) Die sieben Engel mit den sieben letzten Plagen; der Lobgesang der Sieger am kristallenen Meer
 
- # 15
+# 15
 ^1^ Weiter sah ich ein anderes großes und wunderbares Zeichen im<sup title="oder: am">&#x2732;</sup> Himmel: sieben Engel, welche sieben Plagen (herbeizuführen) hatten, die letzten; denn durch diese kam der Zorn Gottes zum Abschluß.
 ^2^ Und ich sah etwas wie ein kristallenes<sup title="oder: gläsernes">&#x2732;</sup> Meer, das mit Feuer durchmengt war, und ich sah die, welche den Sieg über das Tier und sein Bild und über seine Namenszahl errungen hatten, an dem kristallenen Meer stehen, mit Harfen (zum Lobpreis) Gottes in der Hand.
 ^3^ Sie sangen das Lied Moses, des Knechtes Gottes<sup title="2.Mose 15,1-19">&#x2732;</sup>, und das Lied des Lammes mit den Worten: »Groß und wunderbar sind deine Werke, Herr, allmächtiger Gott! Gerecht und wahrhaftig sind deine Wege, du König der Völker!
@@ -440,7 +440,7 @@
 
 ### 2. Die Ausgießung der sieben Zornschalen
 
- # 16
+# 16
 ^1^ Nun hörte ich eine laute Stimme aus dem Tempel den sieben Engeln zurufen: »Gehet hin und gießt die sieben Schalen des göttlichen Zornes auf die Erde aus!«
 ^2^ Da ging der erste hin und goß seine Schale auf die Erde aus; da kamen schlimme und bösartige Geschwüre an die Menschen, die das Malzeichen des Tieres an sich trugen und sein Bild anbeteten.
 
@@ -472,7 +472,7 @@
 
 #### a) Schilderung des prächtigen, aber greuelhaften, auf dem Tiere thronenden Weibes
 
- # 17
+# 17
 ^1^ Da kam einer von den sieben Engeln, welche die sieben Schalen hatten, redete mit mir und sagte: »Komm, ich will dir das Gericht über die große Buhlerin zeigen, die an vielen<sup title="oder: großen">&#x2732;</sup> Wassern ihren Sitz hat<sup title="oder: thront">&#x2732;</sup>,
 ^2^ mit der die Könige der Erde gebuhlt haben und von deren Unzuchtswein die Bewohner der Erde trunken geworden sind.«
 ^3^ So entführte er mich denn im Geist<sup title="oder: im Zustand der Verzückung; vgl. 1,10">&#x2732;</sup> in eine Wüste; und ich sah dort ein Weib auf einem scharlachroten Tier sitzen, das mit gotteslästerlichen Namen übersät war und sieben Köpfe und zehn Hörner hatte.
@@ -504,7 +504,7 @@
 
 ##### aa) Der (erste) Engelruf
 
- # 18
+# 18
 ^1^ Danach sah ich einen anderen Engel aus dem Himmel herabkommen, der eine weitgehende Macht erhalten hatte, und die Erde wurde von seiner Herrlichkeit<sup title="= Lichtglanz">&#x2732;</sup> erleuchtet.
 ^2^ Er rief mit mächtiger Stimme: »Gefallen, gefallen ist das große Babylon und ist zur Behausung von Teufeln, zur Unterkunft aller unreinen Geister und zur Unterkunft aller unreinen und verabscheuten Vögel geworden!
 ^3^ Denn von dem Glutwein ihrer Unzucht haben alle Völker getrunken, und die Könige der Erde haben mit ihr gebuhlt, und die Kaufleute der Erde sind durch ihre maßlose Üppigkeit reich geworden.«
@@ -544,7 +544,7 @@
 
 ### 5. Der Jubel im Himmel über den Fall Babylons; die bevorstehende Hochzeit des Lammes
 
- # 19
+# 19
 ^1^ Danach hörte ich ein Getön, das klang wie der laute Jubel einer großen Schar, die im Himmel riefen: »Halleluja! Das Heil<sup title="oder: die Rettung">&#x2732;</sup>, die Herrlichkeit und die Kraft gehören unserm Gott;
 ^2^ denn wahrhaftig und gerecht sind seine Gerichte, daß er die große Buhlerin gerichtet hat, die mit ihrer Unzucht die Erde verstörte, und das Blut seiner Knechte hat er an ihr gerächt!«
 ^3^ Und zum zweitenmal riefen sie: »Halleluja! Und der Rauch von ihr steigt in alle Ewigkeit auf!«
@@ -578,7 +578,7 @@
 
 #### a) Fesselung des Satans; die erste Auferstehung und das tausendjährige Friedensreich
 
- # 20
+# 20
 ^1^ Dann sah ich einen Engel aus dem Himmel herabkommen, der den Schlüssel zum Abgrund<sup title="= zur Hölle">&#x2732;</sup> und eine große Kette in seiner Hand hatte.
 ^2^ Er ergriff den Drachen, die alte Schlange – das ist der Teufel und der Satan –, legte ihn auf tausend Jahre in Fesseln,
 ^3^ warf ihn in den Abgrund, verschloß den Eingang und brachte über ihm ein Siegel an, damit er die Völker nicht mehr verführe, bis die tausend Jahre zu Ende sind; danach muß er auf kurze Zeit noch einmal freigelassen werden.
@@ -602,7 +602,7 @@
 ^14^ hierauf wurden der Tod und das Totenreich in den Feuersee geworfen. Dies ist der zweite<sup title="d.h. endgültige">&#x2732;</sup> Tod, nämlich der Feuersee;
 ^15^ und wenn jemand nicht im Buch des Lebens verzeichnet gefunden wurde, so wurde er in den Feuersee geworfen.
 
- # 21
+# 21
 ^1^ Dann sah ich einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde waren verschwunden, und auch das Meer ist nicht mehr da.
 
 ### 3. Die ewige Herrlichkeit der Heilsvollendung an den Gläubigen (siebte Gruppe der Gesichte)
@@ -642,7 +642,7 @@
 
 #### Der Lebensstrom, die Lebensbäume, die volle Gottesgemeinschaft und das ewige Lichtreich
 
- # 22
+# 22
 ^1^ Weiter zeigte er<sup title="d.h. der Engel">&#x2732;</sup> mir einen Strom von Wasser des Lebens, klar wie Kristall, der aus dem Throne Gottes und des Lammes hervorfloß.
 ^2^ Auf beiden Seiten des Stromes, halbwegs zwischen ihm und den Straßen<sup title="oder: der Hauptstraße">&#x2732;</sup> der Stadt, standen Lebensbäume, die zwölfmal Früchte tragen: in jedem Monat bringen sie ihre Früchte, und die Blätter der Bäume dienen den Völkern zur Heilung.
 ^3^ Es wird dort auch nichts mehr vom Bann<sup title="= Fluch">&#x2732;</sup> Getroffenes geben, vielmehr wird der Thron Gottes und des Lammes in ihr stehen, und seine Knechte werden ihm dienen

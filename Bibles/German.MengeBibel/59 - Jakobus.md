@@ -2,7 +2,7 @@
 
 ### Zuschrift und Gruß
 
- # 1
+# 1
 ^1^ Ich, Jakobus, ein Knecht Gottes und des Herrn Jesus Christus, sende den zwölf in der Zerstreuung (unter den Heiden) lebenden Stämmen meinen Gruß.
 
 ### 1. Vom rechten Verhalten in Versuchungen (d.h. Anfechtungen); Mahnung zu rechter Gesinnung; Belehrung über Versuchungen
@@ -55,7 +55,7 @@
 
 #### b) Hütet euch vor dem Ansehen der Person, besonders vor Verachtung der Armen
 
- # 2
+# 2
 ^1^ Meine Brüder, habt den Glauben an unsern Herrn Jesus Christus, (den Herrn) der Herrlichkeit, nicht so, daß Ansehen der Person<sup title="= Menschengefälligkeit">&#x2732;</sup> damit verbunden ist.
 ^2^ Wenn z.B. in eure (gottesdienstliche) Versammlung ein Mann mit goldenen Ringen an den Fingern und in prächtiger Kleidung tritt und zugleich ein armer in unsauberem Anzug erscheint,
 ^3^ und ihr dann eure Blicke auf den prächtig Gekleideten richtet und zu ihm sagt: »Setze du dich hierher auf den guten Platz«, während ihr zu dem Armen sagt: »Stelle du dich dorthin oder setze dich hier unten auf meinen Fußschemel!« –
@@ -94,7 +94,7 @@
 
 ### 3. Warnung vor unberufenem Zudrang zum Lehreramt und vor den Zungensünden
 
- # 3
+# 3
 ^1^ Drängt euch nicht zum Lehrerberuf, meine Brüder! Bedenkt wohl, daß wir (Lehrer) ein um so strengeres Urteil<sup title="oder: Gericht">&#x2732;</sup> empfangen werden<sup title="= zu erwarten haben">&#x2732;</sup>.
 ^2^ Wir fehlen ja allesamt vielfach; wer sich beim Reden nicht verfehlt, der ist ein vollkommener Mann und vermag auch den ganzen Leib im Zaume zu halten.
 ^3^ Wenn wir den Pferden die Zäume ins Maul legen, um sie uns gehorsam zu machen, so haben wir damit auch ihren ganzen Leib in der Gewalt.
@@ -121,7 +121,7 @@
 
 #### a) Warnungen vor Unfrieden, Unzufriedenheit und Weltsinn, vor Schmähsucht und lieblosem Richten
 
- # 4
+# 4
 ^1^ Woher kommen die Kämpfe und woher die Streitigkeiten bei euch? Doch wohl daher, daß eure Lüste einen Kampf in euren Gliedern führen?
 ^2^ Ihr seid begehrlich – und gelangt doch nicht zum Besitz; ihr mordet<sup title="= haßt auf den Tod">&#x2732;</sup> und seid neidisch, ohne doch eure Wünsche erfüllt zu sehen; ihr lebt in Kampf und Streitigkeiten und gelangt doch nicht zum Besitz, weil ihr nicht betet;
 ^3^ ihr betet wohl, empfangt aber nichts, weil ihr in böser Absicht betet, nämlich um (das Erbetene) in euren Lüsten wieder durchzubringen.
@@ -146,7 +146,7 @@
 
 #### c) Ankündigung des nahenden Gerichts an die üppigen Reichen und die Gott vergessenden Mammonsdiener
 
- # 5
+# 5
 ^1^ Weiter nun: Ihr Reichen, weinet und jammert über die Leiden, die euch bevorstehen!
 ^2^ Euer Reichtum ist vermodert, und eure Gewänder sind ein Fraß für die Motten geworden,
 ^3^ euer Gold und Silber ist vom Rost angefressen, und ihr Rost wird ein Zeugnis für euch sein, und der Rost wird euer Fleisch fressen wie Feuer. Noch jetzt in der Endzeit habt ihr euch Schätze gesammelt!
