@@ -72,9 +72,9 @@
 
 ^23^ Aber der HErr sprach zu ihm: Friede sei mit dir! Fürchte dich nicht; du wirst nicht sterben. ^24^ Da baute Gideon daselbst dem HErrn einen Altar und hieß ihn: Der HErr ist der Friede. Der steht noch bis auf den heutigen Tag zu Ophra, der Stadt der Abiesriter. 
 
-^25^ Und in derselben Nacht sprach der HErr zu ihm: Nimm einen Farren unter den Ochsen, die deines Vaters sind, und einen anderen Farren, der siebenjährig ist, und zerbrich den Altar Baals, der deines Vaters ist, und haue um das Ascherabild, das dabeisteht, 
+^25^ Und in derselben Nacht sprach der HErr zu ihm: Nimm einen Jungstier unter den Ochsen, die deines Vaters sind, und einen anderen Jungstier, der siebenjährig ist, und zerbrich den Altar Baals, der deines Vaters ist, und haue um das Ascherabild, das dabeisteht, 
 
-^26^ und baue dem HErrn, deinem Gott, oben auf der Höhe dieses Felsens einen Altar und rüste ihn zu und nimm den anderen Farren und opfere ein Brandopfer mit dem Holz des Ascherabildes, das du abgehauen hast. 
+^26^ und baue dem HErrn, deinem Gott, oben auf der Höhe dieses Felsens einen Altar und rüste ihn zu und nimm den anderen Jungstier und opfere ein Brandopfer mit dem Holz des Ascherabildes, das du abgehauen hast. 
 
 ^27^ Da nahm Gideon zehn Männer aus seinen Knechten und tat, wie ihm der HErr gesagt hatte. Aber er fürchtete sich, solches zu tun des Tages, vor seines Vaters Haus und den Leuten in der Stadt, und tat's bei der Nacht. 
 
