@@ -689,7 +689,6 @@ namespace BibleMarkdown
 		public static Verses Titles = new Verses();
 		public static Verses Footnotes = new Verses();
 		public static Verses DualLanguage = new Verses();
-		public static Func<int, string> EpubPage = book => $"ch{book:d3}.xhtml";
 		public static string Test = "";
 
 		public Location Map(Location verse)

@@ -113,11 +113,13 @@ namespace BibleMarkdown
 			public int Number;
 		}
 
-		public static bool CreateEpubChapterLinks = true;
-		public static bool EpubLinks = true;
-		public static string EpubTableOfContentsPage = "ch001.xhtml";
 		static XElement[] xmlbooks = null;
 		static BookDesc[] books = null;
+
+		static string Id(string name)
+		{
+			return name.Replace(' ', '-').Replace('.', '-');
+		}
 
 		static void CreateEpub(string path, string mdfile, string epubfile)
 		{
@@ -150,32 +152,42 @@ namespace BibleMarkdown
 			}
 			var src = File.ReadAllText(mdfile);
 
+			if (Epub.OmitTitles)
+			{
+				src = Regex.Replace(src, @"(?<=^|\n)##\s+.*?\r?\n", "", RegexOptions.Singleline);
+			}
+
+			if (Epub.OmitParagraphs)
+			{
+				src = Regex.Replace(src, @"(?<=\r?\n)[ \t]*\r?\n", "", RegexOptions.Singleline);
+			}
+
 			src = Regex.Replace(src, @"(?:^|\n)#[ \t]+(?<chapter>[0-9]+).*?(?=(?:\r?\n#[ \t]+[0-9]+|$))", chapter =>
 			{
 				return Regex.Replace(chapter.Value, @"\^(?<verse>[0-9]+)\^", verse =>
 				{
-					return @$"**[{verse.Groups["verse"].Value}]{{#verse-{book.Replace(' ', '-')}-{chapter.Groups["chapter"].Value}-{verse.Groups["verse"].Value}}}**";
+					return @$"[{verse.Groups["verse"].Value}]{{#verse-{Id(book)}-{chapter.Groups["chapter"].Value}-{verse.Groups["verse"].Value} .bibleverse}}";
 				}, RegexOptions.Singleline);
 			}, RegexOptions.Singleline);
 
-			if (CreateEpubChapterLinks)
+			if (Epub.CreateChapterLinks)
 			{
 				var chapters = Regex.Matches(src, @"(?<=(^|\n)#\s+)[0-9]+", RegexOptions.Singleline);
-				var links = new StringBuilder($@"<div id=""chapterlinks-{book.Replace(' ', '-')}"" class=""chapterlinks"">");
+				var links = new StringBuilder($@"<div id=""chapterlinks-{Id(book)}"" class=""chapterlinks"">");
 				foreach (Match chapter in chapters)
 				{
-					links.Append($"[{chapter.Value}](#chapter-{book.Replace(' ', '-')}-{chapter.Value}) ");
+					links.Append($"[{chapter.Value}](#chapter-{Id(book)}-{chapter.Value}) ");
 				}
 				links.Append("</div>");
 				links.AppendLine(); links.AppendLine();
 				links.Append(src);
 				src = links.ToString();
-				src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2](#book-{book.Replace(' ','-')}) {{.unnumbered #chapter-{book.Replace(' ', '-')}-$2}}", RegexOptions.Singleline);
+				src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2](#book-{Id(book)}) {{.unnumbered #chapter-{Id(book)}-$2}}", RegexOptions.Singleline);
 			}
 
 			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
 
-			if (EpubLinks)
+			if (Epub.Links)
 			{
 				var pattern = String.Join('|', books.Select(b => b.Abbreviation).ToArray());
 				src = Regex.Replace(src, @$"(?<book>{pattern})\s+(?<chapter>[0-9]+)([:,](?<verse>[0-9]+)(-(?<upto>[0-9]+))?)", m =>
@@ -183,20 +195,12 @@ namespace BibleMarkdown
 					var bookabr = books.FirstOrDefault(b => b.Abbreviation == m.Groups["book"].Value);
 					var chapter = m.Groups["chapter"].Value;
 					var verse = m.Groups["verse"].Value;
-					if (!m.Groups["upto"].Success) return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}]({Verses.EpubPage(bookabr.Number)}#verse-{bookabr.Book.Replace(' ', '-')}-{chapter}-{verse})";
-					else return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}-{m.Groups["upto"].Value}]({Verses.EpubPage(bookabr.Number)}#verse-{bookabr.Book.Replace(' ', '-')}-{chapter}-{verse})";
+					if (!m.Groups["upto"].Success) return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}]({Epub.Page(bookabr.Number)}#verse-{Id(bookabr.Book)}-{chapter}-{verse})";
+					else return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}-{m.Groups["upto"].Value}]({Epub.Page(bookabr.Number)}#verse-{Id(bookabr.Book)}-{chapter}-{verse})";
 				}, RegexOptions.Singleline);
 
-				// set verse anchors
-				src = Regex.Replace(src, @"(?<!^|\n)#\s+(?<chapter>[0-9]+)\s*\r?\n(?<text>.*?)(?=\n#\s|$)", m =>
-				{
-					var chapter = m.Groups["chapter"].Value;
-					var text = Regex.Replace(m.Groups["text"].Value, @"\^([0-9]+)\^", @$"**$1{{#verse-{book.Replace(' ', '-')}-{chapter}-$1}}**", RegexOptions.Singleline);
-					return $"# {chapter}{Environment.NewLine}{text}";
-				}, RegexOptions.Singleline);
 			}
-			src = Regex.Replace(src, @"\^([0-9]+)\^", "**$1**", RegexOptions.Singleline);
-			src = $@"# [{book}]({EpubTableOfContentsPage}) {{#book-{book.Replace(' ', '-')}}}{Environment.NewLine}{Environment.NewLine}{src}";
+			src = $@"# [{book}]({Epub.TableOfContentsPage}) {{#book-{Id(book)}}}{Environment.NewLine}{Environment.NewLine}{src}";
 			File.WriteAllText(epubfile, src);
 			Log(epubfile);
 		}
