@@ -11,7 +11,7 @@
 
 ## Daniel obtuvo permiso para comer alimentos que se ajustan a la ley judía
 ^8^ Pero Daniel se propuso en su corazón no contaminarse con los manjares del rey ni con el vino que bebía. Por eso pidió al príncipe de los eunucos que no se contaminara. ^a^ ^9^ Ahora bien, Dios hizo que Daniel encontrara bondad y compasión a los ojos del príncipe de los eunucos. ^b^ ^10^ El príncipe de los eunucos dijo a Daniel: “Temo a mi señor el rey, que ha dispuesto tu comida y tu bebida. Pues, ¿por qué habría de ver vuestras caras más feas que las de los jóvenes de vuestra edad? Entonces pondrías en peligro mi cabeza ante el rey”. 
-^a^[**1:8** Lev 11,-1] ^b^[**1:9** Gén 39,21]
+^a^[**1:8** Lev 11] ^b^[**1:9** Gén 39,21]
 
 ^11^ Entonces Daniel dijo al mayordomo que el príncipe de los eunucos había designado sobre Daniel, Ananías, Misael y Azarías: ^12^ “Te ruego que pongas a prueba a tus siervos durante diez días, y que nos den verduras para comer y agua para beber. ^13^ Entonces que se examinen nuestros rostros ante ti, y el de los jóvenes que comen de los manjares del rey; y según veas, trata a tus siervos.” ^14^ Así que los escuchó en este asunto, y los puso a prueba durante diez días. 
 

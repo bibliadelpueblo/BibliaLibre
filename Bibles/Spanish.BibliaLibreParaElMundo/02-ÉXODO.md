@@ -626,7 +626,7 @@
 
 ## Disposiciones para los años sabáticos, las fiestas y los sacrificios
 ^10^ “Durante seis años sembrarás tu tierra y recogerás sus frutos, ^a^ ^11^ pero el séptimo año la dejarás descansar y en barbecho, para que coman los pobres de tu pueblo; y lo que dejen lo comerá el animal del campo. Del mismo modo, te ocuparás de tu viña y de tu olivar. 
-^a^[**23:10** Lev 25,-1; Deut 15,1-11]
+^a^[**23:10** Lev 25; Deut 15,1-11]
 
 ^12^ “Seis días harás tu trabajo, y el séptimo día descansarás, para que tu buey y tu asno tengan descanso, y el hijo de tu siervo y el extranjero se refresquen. ^a^ 
 ^a^[**23:12** Éxod 20,8-11]

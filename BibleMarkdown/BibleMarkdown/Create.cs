@@ -60,7 +60,7 @@ namespace BibleMarkdown
 			text = Regex.Replace(text, @"%.*?%", "", RegexOptions.Singleline); // comments
 																									 // text = Regex.Replace(text, @"^(# .*?)$\n^(## .*?)$", "$2\n$1", RegexOptions.Multiline); // titles
 			text = Regex.Replace(text, @"\^\^", "^"); // alternative for superscript
-			text = Regex.Replace(text, @"""(.*?)""", $"“$1”"); // replace quotation mark with nicer letters
+			text = Regex.Replace(text, @"(?<!<[^\n<>]*?)""(.*?)""(?![^\n<>]>)", $"“$1”"); // replace quotation mark with nicer letters
 			/*
 			text = Regex.Replace(text, @" ^# (.*?)$", @"\chapter{$1}", RegexOptions.Multiline);
 			text = Regex.Replace(text, @"^## (.*?)$", @"\section{$1}", RegexOptions.Multiline);
@@ -106,62 +106,97 @@ namespace BibleMarkdown
 			Log(htmlfile);
 		}
 
+		public struct BookDesc
+		{
+			public string Book;
+			public string Abbreviation;
+			public int Number;
+		}
+
+		public static bool CreateEpubChapterLinks = true;
+		public static bool EpubLinks = true;
+		public static string EpubTableOfContentsPage = "ch001.xhtml";
+		static XElement[] xmlbooks = null;
+		static BookDesc[] books = null;
+
 		static void CreateEpub(string path, string mdfile, string epubfile)
 		{
 			if (IsNewer(epubfile, mdfile) || TwoLanguage) return;
 
-			var src = File.ReadAllText(mdfile);
-			string? book = Regex.Match(Path.GetFileNameWithoutExtension(mdfile), "^[0-9]*-?(?<name>.*?)$", RegexOptions.Singleline)?.Groups["name"]?.Value;
+			string? book = Regex.Match(Path.GetFileNameWithoutExtension(mdfile), "^[0-9.]*-?(?<name>.*?)$", RegexOptions.Singleline)?.Groups["name"]?.Value;
 
-			src = Regex.Replace(src, @"(?<=(^|\n)#\s(?<chapter>[0-9]+).*?)\^(?<verse>[0-9]+)\^", m =>
+			if (xmlbooks == null)
 			{
-				return @$"**[{m.Groups["verse"].Value}]{{#verse-{m.Groups["chapter"].Value}-{m.Groups["verse"].Value}}}**";
+				var namesfile = Path.Combine(path, "src", "bnames.xml");
+				if (!File.Exists(namesfile)) return;
+				using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
+				{
+					xmlbooks = XElement.Load(stream)
+						.Elements("ID")
+						.SelectMany(x => x.Elements("BOOK"))
+						.ToArray();
+				}
+			}
+			if (books == null)
+			{
+				books = xmlbooks
+					.Select(x => new BookDesc
+					{
+						Book = x.Value,
+						Abbreviation = (string)x.Attribute("bshort"),
+						Number = (int)x.Attribute("bnumber")
+					})
+					.ToArray();
+			}
+			var src = File.ReadAllText(mdfile);
+
+			src = Regex.Replace(src, @"(?:^|\n)#[ \t]+(?<chapter>[0-9]+).*?(?=(?:\r?\n#[ \t]+[0-9]+|$))", chapter =>
+			{
+				return Regex.Replace(chapter.Value, @"\^(?<verse>[0-9]+)\^", verse =>
+				{
+					return @$"**[{verse.Groups["verse"].Value}]{{#verse-{book.Replace(' ', '-')}-{chapter.Groups["chapter"].Value}-{verse.Groups["verse"].Value}}}**";
+				}, RegexOptions.Singleline);
 			}, RegexOptions.Singleline);
+
+			if (CreateEpubChapterLinks)
+			{
+				var chapters = Regex.Matches(src, @"(?<=(^|\n)#\s+)[0-9]+", RegexOptions.Singleline);
+				var links = new StringBuilder($@"<div id=""chapterlinks-{book.Replace(' ', '-')}"" class=""chapterlinks"">");
+				foreach (Match chapter in chapters)
+				{
+					links.Append($"[{chapter.Value}](#chapter-{book.Replace(' ', '-')}-{chapter.Value}) ");
+				}
+				links.Append("</div>");
+				links.AppendLine(); links.AppendLine();
+				links.Append(src);
+				src = links.ToString();
+				src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2](#book-{book.Replace(' ','-')}) {{.unnumbered #chapter-{book.Replace(' ', '-')}-$2}}", RegexOptions.Singleline);
+			}
 
 			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
 
-			var namesfile = Path.Combine(path, "src", "bnames.xml");
-			
-			if (!File.Exists(namesfile)) return;
-
-			XElement[] xmlbooks;
-			using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
+			if (EpubLinks)
 			{
-				xmlbooks = XElement.Load(stream)
-					.Elements("ID")
-					.SelectMany(x => x.Elements("BOOK"))
-					.ToArray();
-			}
-			var books = xmlbooks
-				.Select(x => new
+				var pattern = String.Join('|', books.Select(b => b.Abbreviation).ToArray());
+				src = Regex.Replace(src, @$"(?<book>{pattern})\s+(?<chapter>[0-9]+)([:,](?<verse>[0-9]+)(-(?<upto>[0-9]+))?)", m =>
 				{
-					Book = x.Value,
-					Abbreviation = (string)x.Attribute("bshort"),
-					Number = (int)x.Attribute("bnumber")
-				})
-				.ToArray();
+					var bookabr = books.FirstOrDefault(b => b.Abbreviation == m.Groups["book"].Value);
+					var chapter = m.Groups["chapter"].Value;
+					var verse = m.Groups["verse"].Value;
+					if (!m.Groups["upto"].Success) return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}]({Verses.EpubPage(bookabr.Number)}#verse-{bookabr.Book.Replace(' ', '-')}-{chapter}-{verse})";
+					else return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}-{m.Groups["upto"].Value}]({Verses.EpubPage(bookabr.Number)}#verse-{bookabr.Book.Replace(' ', '-')}-{chapter}-{verse})";
+				}, RegexOptions.Singleline);
 
-			var pattern = String.Join('|', books.Select(b => b.Abbreviation).ToArray());
-			src = Regex.Replace(src, @$"(?<book>{pattern})\s+(?<chapter>[0-9]+)([:,](?<verse>[0-9]+)(-(?<upto>[0-9]+))?)", m =>
-			{
-				var book = books.FirstOrDefault(b => b.Abbreviation == m.Groups["book"].Value);
-				var chapter = m.Groups["chapter"].Value;
-				var verse = m.Groups["verse"].Value;
-				if (!m.Groups["upto"].Success) return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}]({Verses.EpubPage(book.Number)}#verse-{chapter}-{verse})";
-				else return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}-{m.Groups["upto"].Value}]({Verses.EpubPage(book.Number)}#verse-{chapter}-{verse})";
-			}, RegexOptions.Singleline);
-
-			// set verse anchors
-			src = Regex.Replace(src, @"(?<!^|\n)#\s+(?<chapter>[0-9]+)\s*\r?\n(?<text>.*?)(?=\n#\s|$)", m =>
-			{
-				var chapter = m.Groups["chapter"].Value;
-				var text = Regex.Replace(m.Groups["text"].Value, @"\^([0-9]+)\^", @$"**$1{{#verse-{chapter}-$1}}**", RegexOptions.Singleline);
-				return $"# {chapter}{Environment.NewLine}{text}";
-			}, RegexOptions.Singleline);
-
+				// set verse anchors
+				src = Regex.Replace(src, @"(?<!^|\n)#\s+(?<chapter>[0-9]+)\s*\r?\n(?<text>.*?)(?=\n#\s|$)", m =>
+				{
+					var chapter = m.Groups["chapter"].Value;
+					var text = Regex.Replace(m.Groups["text"].Value, @"\^([0-9]+)\^", @$"**$1{{#verse-{book.Replace(' ', '-')}-{chapter}-$1}}**", RegexOptions.Singleline);
+					return $"# {chapter}{Environment.NewLine}{text}";
+				}, RegexOptions.Singleline);
+			}
 			src = Regex.Replace(src, @"\^([0-9]+)\^", "**$1**", RegexOptions.Singleline);
-			var name = Regex.Replace(Path.GetFileNameWithoutExtension(mdfile), @"^[0-9\.]+-", "", RegexOptions.Singleline);
-			src = $"# {name}{Environment.NewLine}{Environment.NewLine}{src}";
+			src = $@"# [{book}]({EpubTableOfContentsPage}) {{#book-{book.Replace(' ', '-')}}}{Environment.NewLine}{Environment.NewLine}{src}";
 			File.WriteAllText(epubfile, src);
 			Log(epubfile);
 		}

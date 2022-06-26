@@ -26,7 +26,7 @@
 # 3
 ## Los pecados y el castigo de la cosmopolita ciudad de Nínive: un grito de aflicción y un cántico de burla
 ^1^ ¡Ay de la ciudad sangrienta! Toda ella está llena de mentiras y robos, sin fin de la presa. ^2^ El ruido del látigo, el ruido del traqueteo de las ruedas, los caballos que brincan y los carros que saltan, ^3^ el jinete que embiste, y la espada reluciente, la lanza que brilla, y una multitud de muertos, y un gran montón de cadáveres, y no hay fin de los cuerpos. Tropiezan con sus cuerpos ^4^ a causa de la multitud de la prostitución de la prostituta seductora, la señora de la brujería, que vende naciones por su prostitución, y familias por su brujería. ^a^ 
-^a^[**3:4** Is 23,16; Apoc 17,-1]
+^a^[**3:4** Is 23,16; Apoc 17]
 
 ^5^ “He aquí que yo estoy contra ti — dice el Señor de los Ejércitos — y levantaré tus faldas sobre tu rostro. Mostraré a las naciones tu desnudez, y a los reinos tu vergüenza. ^a^ ^6^ Arrojaré sobre ti inmundicias abominables y te envileceré, y te convertiré en un espectáculo. ^7^ Sucederá que todos los que te miren huirán de ti y dirán: “¡Nínive ha sido arrasada! ¿Quién la llorará? ¿Dónde buscaré consoladores para ti?”
 ^a^[**3:5** Is 47,3]

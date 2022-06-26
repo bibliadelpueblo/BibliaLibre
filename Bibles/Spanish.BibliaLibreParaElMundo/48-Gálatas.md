@@ -80,7 +80,7 @@
 
 ## La queja del apóstol acerca de la recaída incomprensible de los gálatas creyentes en la esclavitud de la ley y el formalismo reprensible; llamado personal a la iglesia para que se arrepienta
 ^8^ Sin embargo, en aquel tiempo, al no conocer a Dios, estabais esclavizados a los que por naturaleza no son dioses. ^9^ Pero ahora que habéis llegado a conocer a Dios, o más bien a ser conocidos por Dios, ¿por qué volvéis a los débiles y miserables principios elementales, a los que queréis volver a esclavizaros? ^10^ Ustedes observan los días, los meses, las estaciones y los años. ^a^ ^11^ Temo por vosotros, que haya desperdiciado mi trabajo por vosotros. ^b^ 
-^a^[**4:10** Rom 14,5; Col 2,16; Col 2,20-21] ^b^[**4:11** 2Jn 1,-1]
+^a^[**4:10** Rom 14,5; Col 2,16; Col 2,20-21] ^b^[**4:11** 2Jn 1]
 
 ^12^ Os ruego, hermanos, que os hagáis como yo, porque yo también me he hecho como vosotros. No me hicisteis ningún mal, ^13^ sino que sabéis que a causa de la debilidad en la carne os prediqué la Buena Nueva la primera vez. ^a^ ^14^ Lo que fue una tentación para vosotros en mi carne, no lo despreciasteis ni lo rechazasteis, sino que me recibisteis como a un ángel de Dios, como a Cristo Jesús. 
 ^a^[**4:13** Hech 16,6; 1Cor 2,3]

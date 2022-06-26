@@ -227,7 +227,7 @@
 
 ## Diversidad de dones espirituales, pero solo un espíritu activo y un propósito
 ^4^ Hay diversas clases de dones, pero el Espíritu es el mismo. ^a^ ^5^ Hay diversas clases de servicio, pero el mismo Señor. ^b^ ^6^ Hay diversas clases de obras, pero un mismo Dios que hace todas las cosas en todos. ^7^ Pero a cada uno se le da la manifestación del Espíritu para beneficio de todos. ^8^ Porque a uno se le da por medio del Espíritu la palabra de sabiduría, y a otro la palabra de conocimiento según el mismo Espíritu, ^9^ a otro la fe por el mismo Espíritu, y a otro los dones de curación por el mismo Espíritu, ^10^ y a otro la realización de milagros, y a otro la profecía, y a otro el discernimiento de espíritus, a otro las diversas clases de lenguas, y a otro la interpretación de lenguas. ^c^ ^11^ Pero el mismo Espíritu produce todo esto, distribuyendo a cada uno por separado como quiera. ^d^ 
-^a^[**12:4** Rom 12,6; Efes 4,4-999] ^b^[**12:5** 1Cor 12,28] ^c^[**12:10** 1Cor 14,-1; Hech 2,4] ^d^[**12:11** Rom 12,3; Efes 4,7]
+^a^[**12:4** Rom 12,6; Efes 4,4-999] ^b^[**12:5** 1Cor 12,28] ^c^[**12:10** 1Cor 14; Hech 2,4] ^d^[**12:11** Rom 12,3; Efes 4,7]
 
 ## Ilustrado por la parábola del cuerpo humano y sus muchos miembros
 ^12^ Porque así como el cuerpo es uno y tiene muchos miembros, y todos los miembros del cuerpo, siendo muchos, son un solo cuerpo, así también es Cristo. ^13^ Porque en un solo Espíritu fuimos todos bautizados en un solo cuerpo, sean judíos o griegos, sean siervos o libres; y a todos se nos dio a beber en un solo Espíritu. ^a^ 

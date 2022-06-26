@@ -272,7 +272,7 @@
 # 30
 ## Dichos de Agur
 ^1^ Las palabras de Agur hijo de Jakeh, la revelación: dice el hombre a Ithiel, a Ithiel y Ucal: ^2^ “Seguramente soy el hombre más ignorante, y no tienen la comprensión de un hombre. ^3^ No he aprendido la sabiduría, ni tengo el conocimiento del Santo. ^4^ ¿Quién subió al cielo y descendió? ¿Quién ha recogido el viento en sus puños? ¿Quién ha atado las aguas en su manto? ¿Quién ha establecido todos los confines de la tierra? ¿Cómo se llama y cómo se llama su hijo, si lo sabe? ^a^ 
-^a^[**30:4** Job 38,-1]
+^a^[**30:4** Job 38]
 
 ^5^ “Toda palabra de Dios es impecable. Es un escudo para los que se refugian en él. ^a^ ^6^ No añadas nada a sus palabras, para que no te reprenda y te encuentre mentiroso. ^b^ 
 ^a^[**30:5** Sal 12,7; Sal 18,31] ^b^[**30:6** Deut 4,2]

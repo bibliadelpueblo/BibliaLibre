@@ -626,7 +626,7 @@
 
 ## Curso de Pascua en la primera semana
 ^13^ Mucha gente se reunió en Jerusalén para celebrar la fiesta de los panes sin levadura en el segundo mes, una asamblea muy grande. ^14^ Se levantaron y quitaron los altares que había en Jerusalén, y se llevaron todos los altares para el incienso y los arrojaron al arroyo Cedrón. ^15^ Luego sacrificaron la Pascua el día catorce del segundo mes. Los sacerdotes y los levitas se avergonzaron, se santificaron y trajeron holocaustos a la casa de Yahvé. ^a^ ^16^ Se colocaron en su lugar, según su orden, de acuerdo con la ley de Moisés, el hombre de Dios. Los sacerdotes rociaban la sangre que recibían de la mano de los levitas. ^b^ ^17^ Porque había muchos en la asamblea que no se habían santificado; por eso los levitas estaban encargados de matar las pascuas de todos los que no estaban limpios, para santificarlos a Yahvé. ^18^ Porque una multitud del pueblo, incluso muchos de Efraín, Manasés, Isacar y Zabulón, no se habían purificado, y sin embargo comían la Pascua de manera distinta a como está escrito. Pues Ezequías había orado por ellos, diciendo: “Que el buen Yahvé perdone a todos ^c^ ^19^ que pongan su corazón a buscar a Dios, Yahvé, el Dios de sus padres, aunque no estén limpios según la purificación del santuario.” 
-^a^[**30:15** Núm 9,11] ^b^[**30:16** 2Cró 29,34] ^c^[**30:18** Éxod 12,-1]
+^a^[**30:15** Núm 9,11] ^b^[**30:16** 2Cró 29,34] ^c^[**30:18** Éxod 12]
 
 ^20^ El Señor escuchó a Ezequías y sanó al pueblo. ^21^ Los hijos de Israel que estaban en Jerusalén celebraron la fiesta de los panes sin levadura durante siete días con gran alegría. Los levitas y los sacerdotes alababan a Yavé todos los días, cantando con instrumentos fuertes a Yavé. ^22^ Ezequías hablaba con ánimo a todos los levitas que tenían buen entendimiento en el servicio de Yavé. Así comieron durante los siete días de la fiesta, ofreciendo sacrificios de ofrendas de paz y confesando a Yavé, el Dios de sus padres. 
 
@@ -640,7 +640,7 @@
 
 ## Cuidado exitoso de los ingresos de los sacerdotes y levitas
 ^2^ Ezequías designó las divisiones de los sacerdotes y de los levitas según sus divisiones, cada uno según su servicio, tanto los sacerdotes como los levitas, para los holocaustos y las ofrendas de paz, para ministrar, dar gracias y alabar en las puertas del campamento de Yahvé. ^3^ También destinó la parte de los bienes del rey para los holocaustos: para los holocaustos matutinos y vespertinos, y para los holocaustos de los sábados, de las lunas nuevas y de las fiestas señaladas, como está escrito en la ley de Yahvé. ^a^ ^4^ Además, ordenó al pueblo que vivía en Jerusalén que diera la parte de los sacerdotes y de los levitas, para que se entregaran a la ley de Yavé. ^5^ Tan pronto como salió el mandamiento, los hijos de Israel dieron en abundancia las primicias del grano, del vino nuevo, del aceite, de la miel y de todo el producto del campo; y trajeron el diezmo de todas las cosas en abundancia. ^6^ Los hijos de Israel y de Judá, que vivían en las ciudades de Judá, trajeron también el diezmo del ganado y de las ovejas, y el diezmo de las cosas consagradas a Yahvé su Dios, y lo pusieron en montones. 
-^a^[**31:3** Núm 28,-1; Núm 29,1-29]
+^a^[**31:3** Núm 28; Núm 29,1-29]
 
 ^7^ En el tercer mes comenzaron a poner los cimientos de los montones, y los terminaron en el séptimo mes. ^8^ Cuando Ezequías y los príncipes llegaron y vieron los montones, bendijeron a Yavé y a su pueblo Israel. ^9^ Luego Ezequías interrogó a los sacerdotes y a los levitas acerca de los montones. ^10^ Azarías, el jefe de los sacerdotes, de la casa de Sadoc, le respondió y dijo: “Desde que el pueblo comenzó a traer las ofrendas a la casa de Yavé, hemos comido y nos hemos saciado, y nos ha sobrado, porque Yavé ha bendecido a su pueblo; y lo que ha quedado es este gran montón.” 
 
@@ -772,7 +772,7 @@
 
 ## Sedecías, rey de Judá; la ruina de él y de su gente
 ^11^ Sedequías tenía veintiún años cuando comenzó a reinar, y reinó once años en Jerusalén. ^a^ ^12^ Hizo lo que era malo a los ojos de Yavé, su Dios. No se humilló ante el profeta Jeremías que hablaba por boca de Yavé. ^b^ ^13^ También se rebeló contra el rey Nabucodonosor, que lo había hecho jurar por Dios; pero endureció su cerviz y su corazón para no volverse a Yahvé, el Dios de Israel. ^14^ Además, todos los jefes de los sacerdotes y del pueblo cometieron una gran prevaricación, siguiendo todas las abominaciones de las naciones, y contaminaron la casa de Yavé que él había santificado en Jerusalén. ^c^ 
-^a^[**36:11** Jer 52,1-27] ^b^[**36:12** Jer 37,-1; Jer 38,1-38] ^c^[**36:14** Deut 18,9]
+^a^[**36:11** Jer 52,1-27] ^b^[**36:12** Jer 37; Jer 38,1-38] ^c^[**36:14** Deut 18,9]
 
 ^15^ Yahvé, el Dios de sus padres, les envió por medio de sus mensajeros, madrugando y enviando, porque se compadecía de su pueblo y de su morada; ^16^ pero se burlaron de los mensajeros de Dios, despreciaron sus palabras y se mofaron de sus profetas, hasta que la ira de Yahvé se levantó contra su pueblo, hasta que no hubo remedio. 
 

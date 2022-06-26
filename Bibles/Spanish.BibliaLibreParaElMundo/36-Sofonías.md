@@ -18,14 +18,14 @@
 # 2
 ## ¡Arrepiéntanse, porque el juicio viene sobre todo el mundo!
 ^1^ Reúnanse, sí, reúnanse, nación que no tiene vergüenza, ^a^ ^2^ antes del tiempo señalado en que el día pasa como la paja, antes de que venga sobre ustedes el furor de Yahvé, antes de que venga sobre ustedes el día de la ira de Yahvé. ^3^ Buscad a Yahvé, todos los humildes de la tierra, que habéis guardado sus ordenanzas. Busquen la justicia. Busquen la humildad. Puede ser que ustedes queden ocultos en el día de la ira de Yavé.
-^a^[**2:1** 1Sam 30,14; Jer 47,-1]
+^a^[**2:1** 1Sam 30,14; Jer 47]
 
 ## El juicio sobre la tierra filistea, Moab-Ammón, Etiopía y Asiria
 ^4^ Porque Gaza será abandonada, y Ascalón una desolación. Expulsarán a Asdod al mediodía, y Ecrón será desarraigada. ^5^ ¡Ay de los habitantes de la costa del mar, de la nación de los queretanos! La palabra de Yahvé está contra ti, Canaán, la tierra de los filisteos. Te destruiré hasta que no quede ningún habitante. ^6^ La costa del mar será de pastos, con cabañas para los pastores y rebaños. ^7^ La costa será para el resto de la casa de Judá. Encontrarán pastos. En las casas de Ascalón se acostarán al atardecer, porque Yahvé, su Dios, los visitará y los restaurará. ^a^ 
 ^a^[**2:7** Sof 3,20]
 
 ^8^ He oído la afrenta de Moab y las injurias de los hijos de Amón, con las que han afrentado a mi pueblo y se han engrandecido contra su frontera. ^a^ ^9^ Por eso, vivo yo, dice el Señor de los Ejércitos, el Dios de Israel, ciertamente Moab será como Sodoma, y los hijos de Amón como Gomorra, una posesión de ortigas y pozos de sal, y una desolación perpetua. El remanente de mi pueblo los saqueará, y los sobrevivientes de mi nación los heredarán. ^b^ ^10^ Esto lo tendrán por su soberbia, porque se han reprochado y engrandecido contra el pueblo de Yavé de los Ejércitos. ^11^ Yahvé se mostrará imponente ante ellos, porque hará desaparecer a todos los dioses de la tierra. Los hombres lo adorarán, cada uno desde su lugar, hasta todas las costas de las naciones. 
-^a^[**2:8** Jer 48,-1; Jer 49,1] ^b^[**2:9** Gén 19,24]
+^a^[**2:8** Jer 48; Jer 49,1] ^b^[**2:9** Gén 19,24]
 
 ^12^ También ustedes, los cusitas, serán muertos por mi espada. 
 

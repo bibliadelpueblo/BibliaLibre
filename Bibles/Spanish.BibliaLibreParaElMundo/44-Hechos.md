@@ -181,15 +181,15 @@
 ^a^[**7:32** Éxodo 3:6] ^b^[**7:34** Éxodo 3:5, 7-8, 10 ]
 
 ^35^ “A este Moisés, al que rechazaron diciendo: “¿Quién te ha hecho gobernante y juez?”, Dios lo ha enviado como gobernante y libertador por la mano del ángel que se le apareció en la zarza. ^36^ Este hombre los sacó de allí, después de haber hecho maravillas y señales en Egipto, en el Mar Rojo y en el desierto durante cuarenta años. ^37^ Este es el Moisés que dijo a los hijos de Israel: “El Señor, nuestro Dios, os suscitará un profeta de entre vuestros hermanos, como yo”. ^a^ ^b^ ^38^ Este es el que estuvo en la asamblea en el desierto con el ángel que le habló en el monte Sinaí, y con nuestros padres, que recibió revelaciones vivas para dárnoslas, ^c^ ^39^ a quien nuestros padres no quisieron obedecer, sino que lo rechazaron y se volvieron con el corazón a Egipto, ^40^ diciendo a Aarón: “Haznos dioses que vayan delante de nosotros, porque en cuanto a este Moisés que nos sacó de la tierra de Egipto, no sabemos qué ha sido de él.’ ^d^ ^41^ En aquellos días hicieron un becerro y llevaron un sacrificio al ídolo, y se alegraron de las obras de sus manos. ^42^ Pero Dios se apartó y los entregó para servir al ejército del cielo, ^e^ como está escrito en el libro de los profetas,‘¿Me ofrecisteis animales sacrificados y sacrificios¿cuarenta años en el desierto, casa de Israel? ^43^ Tú tomaste el tabernáculo de Moloch, la estrella de tu dios Rephan, las figuras que has hecho para adorar, así que te llevaré ^f^ más allá de Babilonia’.
-^a^[**7:37** El TR agrega “Deberán escucharlo”.] ^b^[**7:37** Deuteronomio 18:15] ^c^[**7:38** Éxod 19,-1; Deut 9,10] ^d^[**7:40** Éxodo 32:1] ^e^[**7:42** Este modismo también podría traducirse como “ejército del cielo”, o “seres angélicos”, o “cuerpos celestes”.] ^f^[**7:43** Amós 5:25-27]
+^a^[**7:37** El TR agrega “Deberán escucharlo”.] ^b^[**7:37** Deuteronomio 18:15] ^c^[**7:38** Éxod 19; Deut 9,10] ^d^[**7:40** Éxodo 32:1] ^e^[**7:42** Este modismo también podría traducirse como “ejército del cielo”, o “seres angélicos”, o “cuerpos celestes”.] ^f^[**7:43** Amós 5:25-27]
 
 ## El tiempo del tabernáculo y la construcción del templo
 ^44^ “Nuestros padres tuvieron el tabernáculo del testimonio en el desierto, tal como el que habló con Moisés le ordenó que lo hiciera según el modelo que había visto; ^45^ el cual también nuestros padres, a su vez, introdujeron con Josué cuando entraron en posesión de las naciones que Dios expulsó delante de nuestros padres hasta los días de David, ^a^ ^46^ que hallaron gracia ante los ojos de Dios, y pidieron encontrar una morada para el Dios de Jacob. ^b^ ^47^ Pero Salomón le construyó una casa. ^c^ ^48^ Sin embargo, el Altísimo no habita en templos hechos por las manos, como dice el profeta, ^49^ “El cielo es mi trono, y la tierra un escabel para mis pies. ¿Qué clase de casa me vas a construir?’ dice el Señor.‘¿O cuál es el lugar de mi descanso? ^50^ ¿No fue mi mano la que hizo todas estas cosas?’ ^d^
-^a^[**7:45** Jos 3,14; Jos 18,1] ^b^[**7:46** 2Sam 7,-1; Sal 132,1-5] ^c^[**7:47** 1Re 6,-1] ^d^[**7:50** Isaías 66:1-2]
+^a^[**7:45** Jos 3,14; Jos 18,1] ^b^[**7:46** 2Sam 7; Sal 132,1-5] ^c^[**7:47** 1Re 6] ^d^[**7:50** Isaías 66:1-2]
 
 ## Fin del discurso; Acusación del pueblo
 ^51^ “¡De cuello duro e incircuncisos de corazón y de oídos, siempre os resistís al Espíritu Santo! Como hicieron vuestros padres, así hacéis vosotros. ^52^ ¿A cuál de los profetas no persiguieron vuestros padres? Mataron a los que predijeron la venida del Justo, del que ahora os habéis convertido en traidores y asesinos. ^a^ ^53^ ¡Recibisteis la ley como fue ordenada por los ángeles, y no la guardasteis!” ^b^ 
-^a^[**7:52** 2Cró 36,16; Mat 23,31] ^b^[**7:53** Éxod 20,-1; Gal 3,19; Heb 2,2]
+^a^[**7:52** 2Cró 36,16; Mat 23,31] ^b^[**7:53** Éxod 20; Gal 3,19; Heb 2,2]
 
 ## El martirio de Esteban
 ^54^ Al oír estas cosas, se sintieron heridos en el corazón y rechinaron los dientes contra él. ^55^ Pero él, lleno del Espíritu Santo, miró fijamente al cielo y vio la gloria de Dios, y a Jesús de pie a la derecha de Dios, ^56^ y dijo: “¡Mira, veo los cielos abiertos y al Hijo del Hombre de pie a la derecha de Dios!” ^a^ 
@@ -302,7 +302,7 @@
 ^9^ Al día siguiente, cuando iban de camino y se acercaban a la ciudad, Pedro subió a la azotea a orar, hacia el mediodía. ^10^ Le entró hambre y quiso comer, pero mientras se preparaba, cayó en trance. ^11^ Vio el cielo abierto y un recipiente que descendía hacia él, como una gran sábana bajada por cuatro esquinas sobre la tierra, ^12^ en la que había toda clase de cuadrúpedos de la tierra, animales salvajes, reptiles y aves del cielo. ^13^ Una voz se dirigió a él: “¡Levántate, Pedro, mata y come!” 
 
 ^14^ Pero Pedro dijo: “No es así, Señor, porque nunca he comido nada que sea común o impuro”. ^a^ 
-^a^[**10:14** Ezeq 4,14; Lev 11,-1]
+^a^[**10:14** Ezeq 4,14; Lev 11]
 
 ^15^ La segunda vez le llegó una voz: “Lo que Dios ha limpiado, no lo llames impuro”. ^a^ ^16^ Esto lo hizo tres veces, e inmediatamente el objeto fue recibido en el cielo. 
 ^a^[**10:15** Rom 14,14]

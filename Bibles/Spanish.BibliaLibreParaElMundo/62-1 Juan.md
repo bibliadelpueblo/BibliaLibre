@@ -14,7 +14,7 @@
 
 ## El nuevo mandamiento del amor fraternal por los hijos de la luz
 ^7^ Hermanos, no os escribo ningún mandamiento nuevo, sino un mandamiento antiguo que teníais desde el principio. El mandamiento antiguo es la palabra que habéis oído desde el principio. ^a^ ^8^ Os vuelvo a escribir un mandamiento nuevo, que es verdadero en él y en vosotros, porque las tinieblas están pasando y la luz verdadera ya brilla. ^b^ ^9^ El que dice que está en la luz y odia a su hermano está en las tinieblas hasta ahora. ^c^ ^10^ El que ama a su hermano permanece en la luz, y no hay en él ocasión de tropiezo. ^11^ Pero el que odia a su hermano está en las tinieblas, y camina en las tinieblas, y no sabe a dónde va, porque las tinieblas han cegado sus ojos.
-^a^[**2:7** Juan 13,34; 2Jn 1,-1] ^b^[**2:8** Juan 8,12; Rom 13,12] ^c^[**2:9** 1Jn 4,20]
+^a^[**2:7** Juan 13,34; 2Jn 1] ^b^[**2:8** Juan 8,12; Rom 13,12] ^c^[**2:9** 1Jn 4,20]
 
 ## Las diferentes edades del desarrollo espiritual; los hijos de la luz evitan el amor al mundo
 ^12^ Os escribo a vosotros, hijitos, porque vuestros pecados os son perdonados por su nombre. 

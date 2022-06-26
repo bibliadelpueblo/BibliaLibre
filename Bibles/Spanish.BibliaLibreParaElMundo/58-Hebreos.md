@@ -82,7 +82,7 @@
 ^6^ Como dice también en otro lugar, “Eres un sacerdote para siempre, según el orden de Melquisedec”. 
 
 ^7^ Él, en los días de su carne, habiendo ofrecido oraciones y peticiones con fuerte clamor y lágrimas al que podía salvarlo de la muerte, y habiendo sido escuchado por su temor piadoso, ^a^ ^8^ aunque era un Hijo, aprendió la obediencia por las cosas que sufrió. ^b^ ^9^ Habiendo sido perfeccionado, llegó a ser para todos los que le obedecen el autor de la salvación eterna, ^10^ nombrado por Dios sumo sacerdote según el orden de Melquisedec. ^c^ 
-^a^[**5:7** Mat 26,39-46] ^b^[**5:8** Fil 2,8] ^c^[**5:10** Heb 7,-1]
+^a^[**5:7** Mat 26,39-46] ^b^[**5:8** Fil 2,8] ^c^[**5:10** Heb 7]
 
 ## Quejarse de la inmadurez, la indolencia intelectual y el atraso de los lectores
 ^11^ Acerca de él tenemos muchas palabras que decir, y difíciles de interpretar, ya que os habéis vuelto torpes de oído. ^12^ Pues aunque ya deberíais ser maestros, necesitáis de nuevo que alguien os enseñe los rudimentos de los primeros principios de las revelaciones de Dios. Habéis llegado a necesitar leche, y no alimento sólido. ^13^ Porque todo el que vive de leche no tiene experiencia en la palabra de justicia, pues es un bebé. ^a^ ^14^ Pero el alimento sólido es para los que ya han crecido, que por el uso tienen sus sentidos ejercitados para discernir el bien y el mal.
@@ -141,7 +141,7 @@
 ^a^[**9:3** Éxod 26,33] ^b^[**9:4** Éxod 16,33; Éxod 25,10-22; Núm 17,23-25]
 
 ^6^ Así preparadas estas cosas, los sacerdotes entraban continuamente en el primer tabernáculo, cumpliendo los servicios, ^a^ ^7^ pero en el segundo sólo entraba el sumo sacerdote, una vez al año, no sin sangre, que ofrecía por sí mismo y por los errores del pueblo. ^8^ El Espíritu Santo está indicando esto, que el camino hacia el Lugar Santo no fue revelado todavía mientras el primer tabernáculo estaba en pie. ^9^ Esto es un símbolo de la época actual, en la que se ofrecen dones y sacrificios que son incapaces, en lo que respecta a la conciencia, de hacer perfecto al adorador, ^b^ ^10^ siendo sólo (con comidas y bebidas y lavados diversos) ordenanzas carnales, impuestas hasta un tiempo de reforma. ^c^ 
-^a^[**9:6** Núm 18,3-4; Éxod 30,10; Lev 16,2; Lev 16,14-15] ^b^[**9:9** Heb 7,19; Heb 10,1-2] ^c^[**9:10** Lev 11,-1; Núm 19,-1]
+^a^[**9:6** Núm 18,3-4; Éxod 30,10; Lev 16,2; Lev 16,14-15] ^b^[**9:9** Heb 7,19; Heb 10,1-2] ^c^[**9:10** Lev 11; Núm 19]
 
 ^11^ Pero Cristo, habiendo venido como sumo sacerdote de los bienes venideros, a través del mayor y más perfecto tabernáculo, no hecho de manos, es decir, no de esta creación, ^12^ ni por la sangre de machos cabríos y terneros, sino por su propia sangre, entró una vez por todas en el Lugar Santo, habiendo obtenido la redención eterna. ^13^ Porque si la sangre de los machos cabríos y de los toros, y la ceniza de una vaquilla que rocía a los contaminados, santifican para la limpieza de la carne, ^a^ ^14^ ¿cuánto más la sangre de Cristo, que por el Espíritu eterno se ofreció a sí mismo sin defecto a Dios, limpiará vuestra conciencia de las obras muertas para servir al Dios vivo? ^b^ 
 ^a^[**9:13** Núm 19,2; Núm 19,9; Núm 19,17] ^b^[**9:14** Heb 1,3; 1Pe 1,18-19; 1Jn 1,7; Apoc 1,5]
@@ -223,7 +223,7 @@
 ^a^[**11:13** Gén 23,4; Gén 47,9]
 
 ^17^ Por la fe, Abraham, siendo probado, ofreció a Isaac. Sí, el que había recibido gustosamente las promesas ofrecía a su ^a^ hijo unigénito, ^b^ ^18^ al que se le dijo: “Tu descendencia será contada como de Isaac”, ^19^ concluyendo que Dios es capaz de resucitar incluso de entre los muertos. En sentido figurado, también lo recibió de entre los muertos. 
-^a^[**11:17** TR lee “Él” en lugar de “Ellos”] ^b^[**11:17** Gén 22,-1; Sant 2,21]
+^a^[**11:17** TR lee “Él” en lugar de “Ellos”] ^b^[**11:17** Gén 22; Sant 2,21]
 
 ^20^ Por la fe, Isaac bendijo a Jacob y a Esaú, incluso en lo que respecta a las cosas por venir. 
 
@@ -233,7 +233,7 @@
 
 ## Ejemplos de la época de Moisés y Josué
 ^23^ Por la fe, Moisés, cuando nació, fue escondido durante tres meses por sus padres, porque vieron que era un niño hermoso; y no tuvieron miedo del mandato del rey. ^a^ 
-^a^[**11:23** Éxod 2,-1; Éxod 12,1-12; Éxod 14,1-14]
+^a^[**11:23** Éxod 2; Éxod 12,1-12; Éxod 14,1-14]
 
 ^24^ Por la fe, Moisés, una vez crecido, rehusó ser llamado hijo de la hija del Faraón, ^25^ prefiriendo compartir los malos tratos con el pueblo de Dios que gozar por un tiempo de los placeres del pecado, ^26^ considerando que el oprobio de Cristo era mayor riqueza que los tesoros de Egipto, pues esperaba la recompensa. ^27^ Por la fe salió de Egipto, sin temer la ira del rey; pues aguantó como quien ve al que es invisible. ^28^ Por la fe guardó la Pascua y la aspersión de la sangre, para que el destructor de los primogénitos no los tocara. 
 

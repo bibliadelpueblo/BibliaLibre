@@ -166,7 +166,7 @@
 # 7
 ## El diluvio. Noé entra la arca
 ^1^ Yahvé dijo a Noé: “Sube con toda tu familia a la nave, porque he visto tu justicia ante mí en esta generación. ^2^ Llevarás contigo siete parejas de cada animal limpio, el macho y su hembra. De los animales que no están limpios, toma dos, el macho y su hembra. ^a^ ^3^ También de las aves del cielo, siete y siete, macho y hembra, para mantener viva la semilla en la superficie de toda la tierra. ^4^ En siete días haré llover sobre la tierra durante cuarenta días y cuarenta noches. Destruiré todo ser viviente que he hecho de la superficie de la tierra”. 
-^a^[**7:2** Gén 8,20; Lev 11,-1]
+^a^[**7:2** Gén 8,20; Lev 11]
 
 ^5^ Noé hizo todo lo que Yahvé le ordenó. 
 

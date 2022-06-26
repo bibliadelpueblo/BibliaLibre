@@ -55,7 +55,7 @@
 
 ## La posición excepcional de los levitas
 ^47^ Pero los levitas según la tribu de sus padres no fueron contados entre ellos. ^48^ Porque Yahvé habló a Moisés, diciendo: ^49^ “Sólo la tribu de Leví no contarás, ni harás censo de ellos entre los hijos de Israel; ^a^ ^50^ sino que designarás a los levitas sobre el Tabernáculo del Testimonio, y sobre todos sus enseres, y sobre todo lo que le pertenece. Ellos llevarán el tabernáculo y todos sus enseres; lo cuidarán y acamparán alrededor de él. ^b^ ^51^ Cuando el tabernáculo deba trasladarse, los levitas lo desmontarán; y cuando el tabernáculo deba levantarse, los levitas lo armarán. El extranjero que se acerque morirá. ^c^ ^52^ Los hijos de Israel acamparán, cada uno en su campamento, y cada uno en su estandarte, según sus divisiones. ^53^ Pero los levitas acamparán alrededor del Tabernáculo del Testimonio, para que no haya ira en la congregación de los hijos de Israel. Los levitas serán responsables del Tabernáculo del Testimonio”. 
-^a^[**1:49** Núm 2,33; Núm 3,15] ^b^[**1:50** Núm 4,-1; Núm 3,23-38] ^c^[**1:51** Núm 3,10; Núm 3,38]
+^a^[**1:49** Núm 2,33; Núm 3,15] ^b^[**1:50** Núm 4; Núm 3,23-38] ^c^[**1:51** Núm 3,10; Núm 3,38]
 
 ^54^ Así hicieron los hijos de Israel. Según todo lo que Yahvé ordenó a Moisés, así lo hicieron.
 
@@ -113,7 +113,7 @@
 
 ## Los levitas fueron designados para ayudar a los sacerdotes y servir en el santuario
 ^5^ Yahvé habló a Moisés, diciendo: ^6^ “Haz que se acerque la tribu de Leví, y ponlos delante del sacerdote Aarón, para que le sirvan. ^7^ Ellos guardarán sus requerimientos, y los requerimientos de toda la congregación ante la Tienda de Reunión, para hacer el servicio del tabernáculo. ^8^ Guardarán todo el mobiliario de la Tienda de reunión y las obligaciones de los hijos de Israel, para hacer el servicio del tabernáculo. ^a^ ^9^ Darás los levitas a Aarón y a sus hijos. Le serán entregados íntegramente en nombre de los hijos de Israel. ^10^ Designarás a Aarón y a sus hijos, y ellos conservarán su sacerdocio, pero el extranjero que se acerque será condenado a muerte.”
-^a^[**3:8** Núm 4,-1]
+^a^[**3:8** Núm 4]
 
 ## Los levitas fueran designados para redimir al primogénito israelita
 ^11^ Yahvé habló a Moisés, diciendo: ^12^ “He aquí que he tomado a los levitas de entre los hijos de Israel en lugar de todos los primogénitos que abren el vientre entre los hijos de Israel; y los levitas serán míos, ^a^ ^13^ porque todos los primogénitos son míos. El día en que derribé a todos los primogénitos en la tierra de Egipto, santifiqué para mí a todos los primogénitos de Israel, tanto hombres como animales. Serán míos. Yo soy Yahvé”.
@@ -241,7 +241,7 @@
 
 ## Orden de la bendición sacerdotal
 ^22^ Yahvé habló a Moisés diciendo: ^23^ “Habla a Aarón y a sus hijos, diciendo: ‘Así bendecirás a los hijos de Israel’. Les dirás, ^a^ ^24^ ‘Que el Señor te bendiga y te guarde. ^b^ ^25^ Yahvé hace brillar su rostro sobre ti, y ser amable contigo. ^c^ ^26^ Yahvé levanta su rostro hacia ti, y te dará la paz”. ^d^ 
-^a^[**6:23** Lev 9,22-23] ^b^[**6:24** Sal 121,-1] ^c^[**6:25** Sal 80,4] ^d^[**6:26** Sal 69,17-18]
+^a^[**6:23** Lev 9,22-23] ^b^[**6:24** Sal 121] ^c^[**6:25** Sal 80,4] ^d^[**6:26** Sal 69,17-18]
 
 ^27^ “Así pondrán mi nombre sobre los hijos de Israel, y los bendeciré”.
 
@@ -1123,7 +1123,7 @@
 ^1^ Los hijos de Rubén y los hijos de Gad tenían una gran cantidad de ganado. Vieron la tierra de Jazer y la tierra de Galaad. He aquí que el lugar era un sitio para el ganado. ^2^ Entonces los hijos de Gad y los hijos de Rubén vinieron y hablaron a Moisés, al sacerdote Eleazar y a los jefes de la congregación, diciendo: ^3^ “Atarot, Dibón, Jazer, Nimra, Hesbón, Eleale, Sebam, Nebo y Beón, ^4^ la tierra que Yahvé hirió ante la congregación de Israel, es tierra de ganado; y vuestros siervos tienen ganado.” ^5^ Ellos dijeron: “Si hemos hallado gracia ante tus ojos, que esta tierra sea dada a tus siervos como posesión. No nos hagas pasar el Jordán”. 
 
 ^6^ Moisés dijo a los hijos de Gad y a los hijos de Rubén: “¿Van a ir sus hermanos a la guerra mientras ustedes están sentados aquí? ^7^ ¿Por qué desaniman el corazón de los hijos de Israel para que no vayan a la tierra que el Señor les ha dado? ^8^ Así lo hicieron sus padres cuando los envié desde Cades Barnea a ver la tierra. ^a^ ^9^ Pues cuando subieron al valle de Escol y vieron la tierra, desanimaron el corazón de los hijos de Israel para que no entraran en la tierra que Yahvé les había dado. ^10^ Aquel día ardió la ira de Yavé, y juró diciendo: ^11^ ‘Ciertamente ninguno de los hombres que subieron de Egipto, de veinte años en adelante, verá la tierra que juré a Abraham, a Isaac y a Jacob; porque no me han seguido del todo, ^12^ excepto Caleb hijo de Jefone cenezeo, y Josué hijo de Nun, porque han seguido a Yavé del todo.’ ^13^ La ira del Señor se encendió contra Israel, y lo hizo vagar de un lado a otro del desierto durante cuarenta años, hasta que se consumió toda la generación que había hecho el mal a los ojos del Señor. 
-^a^[**32:8** Núm 13,-1]
+^a^[**32:8** Núm 13]
 
 ^14^ “He aquí que ustedes se han levantado en el lugar de sus padres, un aumento de hombres pecadores, para aumentar el furor de Yahvé contra Israel. ^15^ Porque si os apartáis de él, volverá a dejarlos en el desierto, y destruiréis a todo este pueblo.” 
 
@@ -1188,7 +1188,7 @@
 ^a^[**35:4** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 ^6^ “Las ciudades que darás a los levitas serán las seis ciudades de refugio que darás para que huya el homicida. Además de ellas, darás cuarenta y dos ciudades. ^a^ ^7^ Todas las ciudades que darás a los levitas serán cuarenta y ocho ciudades junto con sus tierras de pastoreo. ^8^ En cuanto a las ciudades que darás de la posesión de los hijos de Israel, de los muchos tomarás muchos, y de los pocos tomarás pocos. Cada uno, según su herencia, dará parte de sus ciudades a los levitas”. ^9^ Yahvé habló a Moisés, diciendo: ^10^ “Habla a los hijos de Israel y diles: ‘Cuando paséis el Jordán a la tierra de Canaán, ^11^ entonces os designaréis ciudades para que os sirvan de refugio, para que huya allí el homicida que mate a cualquier persona sin saberlo. ^12^ Las ciudades os servirán de refugio contra el vengador, para que el homicida no muera hasta que se presente ante la congregación para ser juzgado. ^13^ Las ciudades que darás serán para ti seis ciudades de refugio. ^14^ Darás tres ciudades al otro lado del Jordán, y darás tres ciudades en la tierra de Canaán. Serán ciudades de refugio. ^15^ Estas seis ciudades serán refugio para los hijos de Israel, para el extranjero y para el forastero que viva entre ellos, para que todo el que mate a alguien sin querer huya allí.
-^a^[**35:6** Éxod 21,13; Deut 4,41; Deut 19,2; Deut 19,9; Jos 20,-1]
+^a^[**35:6** Éxod 21,13; Deut 4,41; Deut 19,2; Deut 19,9; Jos 20]
 
 ## El castigo del asesino
 ^16^ “‘Pero si lo golpeó con un instrumento de hierro, de modo que murió, es un asesino. El asesino será condenado a muerte. ^17^ Si lo golpeó con una piedra en la mano, con la que un hombre puede morir, y murió, es un asesino. El homicida será condenado a muerte. ^18^ O si lo golpea con un arma de madera en la mano, con la que pueda morir un hombre, y muere, es un asesino. El asesino morirá. ^19^ El vengador de la sangre dará muerte al asesino. Cuando lo encuentre, lo matará. ^20^ Si lo empujó por odio, o le arrojó algo mientras estaba al acecho, de modo que murió, ^21^ o en hostilidad lo golpeó con su mano, de modo que murió, el que lo golpeó ciertamente morirá. Es un asesino. El vengador de la sangre dará muerte al asesino cuando lo encuentre. 

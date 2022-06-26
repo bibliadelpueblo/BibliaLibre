@@ -13,7 +13,7 @@
 
 ## Amenaza contra Tiro
 ^9^ Yahvé dice: “Por tres transgresiones de Tiro, sí, por cuatro, No rechazaré su castigo; porque entregaron toda la comunidad a Edom, y no recordaba el pacto entre hermanos; ^a^ ^10^ pero enviaré un fuego sobre el muro de Tiro, y devorará sus palacios”.
-^a^[**1:9** Is 23,-1; Jl 4,4; 1Re 5,26]
+^a^[**1:9** Is 23; Jl 4,4; 1Re 5,26]
 
 ## Amenaza contra los edomitas
 ^11^ Yahvé dice: “Por tres transgresiones de Edom, sí, por cuatro, No rechazaré su castigo, porque persiguió a su hermano con la espaday desechar toda piedad, y su cólera no cesaba, y guardó su ira para siempre; ^12^ pero enviaré un fuego sobre Temán, y devorará los palacios de Bozra”. 

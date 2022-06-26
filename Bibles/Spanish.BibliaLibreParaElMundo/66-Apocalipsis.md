@@ -172,7 +172,7 @@
 ^a^[**9:14** Apoc 16,12]
 
 ^15^ Fueron liberados los cuatro ángeles que habían sido preparados para esa hora y día y mes y año, para que pudieran matar a un tercio de la humanidad. ^a^ ^16^ El número de los ejércitos de los jinetes era de doscientos millones. Oí el número de ellos. ^17^ Así vi a los caballos en la visión y a los que estaban sentados en ellos, con corazas de color rojo fuego, azul jacinto y amarillo azufre; y las cabezas de los caballos parecían cabezas de leones. De sus bocas salen fuego, humo y azufre. ^18^ Por estas tres plagas murió la tercera parte de la humanidad: por el fuego, el humo y el azufre que salieron de sus bocas. ^19^ Porque el poder de los caballos está en sus bocas y en sus colas. Porque sus colas son como serpientes, y tienen cabezas; y con ellas hacen daño. 
-^a^[**9:15** Apoc 8,-1]
+^a^[**9:15** Apoc 8]
 
 ^20^ El resto de la humanidad, que no murió con estas plagas, no se arrepintió de las obras de sus manos, para no adorar a los demonios y a los ídolos de oro, de plata, de bronce, de piedra y de madera, que no pueden ver, oír ni caminar. ^a^ ^21^ No se arrepintieron de sus asesinatos, de sus hechicerías, de su inmoralidad sexual ni de sus robos.
 ^a^[**9:20** Apoc 16,9]
@@ -180,7 +180,7 @@
 # 10
 ## Un ángel sostiene un libro abierto y jura
 ^1^ Vi a un ángel poderoso que bajaba del cielo, vestido con una nube. Sobre su cabeza había un arco iris. Su rostro era como el sol, y sus pies como columnas de fuego. ^2^ Tenía en su mano un pequeño libro abierto. Puso su pie derecho sobre el mar y el izquierdo sobre la tierra. ^3^ Gritó con gran voz, como el rugido de un león. Cuando gritó, los siete truenos emitieron sus voces. ^4^ Cuando sonaron los siete truenos, iba a escribir, pero oí una voz del cielo que decía: “Sella lo que han dicho los siete truenos y no lo escribas”. ^a^ 
-^a^[**10:4** Dan 12,4; Dan 12,9; Sal 29,-1]
+^a^[**10:4** Dan 12,4; Dan 12,9; Sal 29]
 
 ^5^ El ángel que vi de pie sobre el mar y sobre la tierra levantó su mano derecha hacia el cielo ^6^ y juró por el que vive por los siglos de los siglos, que creó el cielo y las cosas que hay en él, la tierra y las cosas que hay en ella, y el mar y las cosas que hay en él, que ya no habrá más demora, ^7^ sino que en los días de la voz del séptimo ángel, cuando está a punto de sonar, entonces el misterio de Dios está terminado, como lo declaró a sus siervos los profetas. ^a^ 
 ^a^[**10:7** Apoc 11,15; Hech 3,21]
@@ -258,7 +258,7 @@
 ^6^ Vi a un ángel que volaba en medio del cielo y que tenía una Buena Noticia eterna que anunciar a los habitantes de la tierra, a toda nación, tribu, lengua y pueblo. ^7^ Dijo a gran voz: “Temed al Señor y dadle gloria, porque ha llegado la hora de su juicio. Adorad al que hizo el cielo, la tierra, el mar y las fuentes de agua”. 
 
 ^8^ Otro, un segundo ángel, le siguió diciendo: “Ha caído Babilonia la grande, que ha hecho beber a todas las naciones del vino de la ira de su inmoralidad sexual.” ^a^ 
-^a^[**14:8** Apoc 18,-1; Jer 25,15-16; Jer 51,7; Is 21,9]
+^a^[**14:8** Apoc 18; Jer 25,15-16; Jer 51,7; Is 21,9]
 
 ^9^ Otro ángel, un tercero, los siguió, diciendo con gran voz: “Si alguno adora a la bestia y a su imagen, y recibe una marca en la frente o en la mano, ^a^ ^10^ también beberá del vino de la ira de Dios, que está preparado sin mezcla en la copa de su ira. Será atormentado con fuego y azufre en presencia de los santos ángeles y en presencia del Cordero. ^b^ ^11^ El humo de su tormento sube por los siglos de los siglos. No tienen descanso ni de día ni de noche, los que adoran a la bestia y a su imagen, y los que reciben la marca de su nombre. 
 ^a^[**14:9** Apoc 13,12-17] ^b^[**14:10** Sal 75,9]

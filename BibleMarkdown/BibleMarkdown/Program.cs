@@ -22,13 +22,13 @@ namespace BibleMarkdown
 	partial class Program
 	{
 
-		static DateTime bibmarktime;
-		static bool LowercaseFirstWords = false;
-		static bool FromSource = false;
-		static bool Imported = false;
-		static string? Language = null;
-		static string? Replace = null;
-		static bool TwoLanguage = false;
+		public static DateTime bibmarktime;
+		public static bool LowercaseFirstWords = false;
+		public static bool FromSource = false;
+		public static bool Imported = false;
+		public static string? Language = null;
+		public static string? Replace = null;
+		public static bool TwoLanguage = false;
 
 		public struct Footnote
 		{
