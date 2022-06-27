@@ -159,7 +159,7 @@ namespace BibleMarkdown
 
 			if (Epub.OmitParagraphs)
 			{
-				src = Regex.Replace(src, @"(?<=\r?\n)[ \t]*\r?\n", "", RegexOptions.Singleline);
+				src = Regex.Replace(src, @"(?<=\r?\n)[ \t]*\r?\n(?!#)", "", RegexOptions.Singleline);
 			}
 
 			src = Regex.Replace(src, @"(?:^|\n)#[ \t]+(?<chapter>[0-9]+).*?(?=(?:\r?\n#[ \t]+[0-9]+|$))", chapter =>
