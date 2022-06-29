@@ -24,7 +24,7 @@
 ^23^ El asunto me agradó. Tomé doce de tus hombres, un hombre por cada tribu. ^24^ Se volvieron y subieron a la región montañosa, y llegaron al valle de Escol y lo exploraron. ^25^ Tomaron en sus manos parte del fruto de la tierra y nos lo trajeron, y nos volvieron a avisar diciendo: “Es una buena tierra la que nos da el Señor, nuestro Dios.” 
 
 ^26^ Pero no quisisteis subir, sino que os rebelasteis contra el mandamiento del Señor, vuestro Dios. ^a^ ^27^ Murmurabais en vuestras tiendas y decíais: “Porque Yahvé nos odiaba, nos ha sacado de la tierra de Egipto para entregarnos en manos de los amorreos para que nos destruyan. ^28^ ¿Adónde vamos a subir? Nuestros hermanos han hecho que nuestro corazón se derrita, diciendo: ‘Los pueblos son más grandes y más altos que nosotros. Las ciudades son grandes y están fortificadas hasta el cielo. Además, hemos visto allí a los hijos de los anakim’”.
-^a^[**1:26** Núm 14]
+^a^[**1:26** Núm 14,-1]
 
 ## Intento infructuoso de animar a Moisés
 ^29^ Entonces les dije: “No se asusten. No les tengas miedo. ^30^ Yahvé tu Dios, que va delante de ti, luchará por ti, según todo lo que hizo por ti en Egipto ante tus ojos, ^a^ ^31^ y en el desierto, donde has visto cómo Yahvé tu Dios te llevaba, como un hombre lleva a su hijo, en todo el camino que recorriste, hasta que llegaste a este lugar.” ^b^ 
@@ -133,7 +133,7 @@
 
 ## Los diez Mandamientos
 ^6^ “Yo soy Yahvé, tu Dios, que te sacó de la tierra de Egipto, de la casa de la esclavitud. ^a^ 
-^a^[**5:6** Éxod 20]
+^a^[**5:6** Éxod 20,-1]
 
 ^7^ “No tendréis otros dioses delante de mí. ^a^ 
 ^a^[**5:7** Deut 11,16; Deut 11,28]
@@ -224,7 +224,7 @@
 
 ## El gran endeudamiento del pueblo a través del culto a la imagen dorada del toro
 ^7^ Acuérdate, y no olvides, cómo provocaste la ira del Señor, tu Dios, en el desierto. Desde el día en que saliste de la tierra de Egipto hasta que llegaste a este lugar, te has rebelado contra Yavé. ^8^ También en Horeb provocaste la ira de Yavé, y éste se enojó contigo para destruirte. ^a^ ^9^ Cuando subí al monte para recibir las tablas de piedra, las tablas de la alianza que Yahvé hizo con ustedes, me quedé en el monte cuarenta días y cuarenta noches. No comí pan ni bebí agua. ^10^ El Señor me entregó las dos tablas de piedra escritas con el dedo de Dios. En ellas estaban todas las palabras que Yahvé habló contigo en la montaña, en medio del fuego, el día de la asamblea. 
-^a^[**9:8** Éxod 32]
+^a^[**9:8** Éxod 32,-1]
 
 ^11^ Al cabo de cuarenta días y cuarenta noches, Yahvé me dio las dos tablas de piedra, las tablas de la alianza. ^12^ El Señor me dijo: “Levántate, baja pronto de aquí, porque tu pueblo que sacaste de Egipto se ha corrompido. Se han alejado rápidamente del camino que les ordené. Se han hecho una imagen de fundición”. 
 
@@ -303,7 +303,7 @@
 
 ## Incluso se dice que todo un pueblo que se ha idolatrado cae bajo el hechizo
 ^12^ Si oyes hablar de una de tus ciudades, que Yahvé tu Dios te da para habitar en ella, que ^13^ algunos malvados han salido de entre vosotros y han arrastrado a los habitantes de su ciudad, diciendo: “Vamos a servir a otros dioses”, que tú no has conocido, ^14^ entonces indagarás, investigarás y preguntarás con diligencia. He aquí, si es cierto, y la cosa es cierta, que tal abominación fue hecha entre vosotros, ^15^ ciertamente heriréis a los habitantes de esa ciudad a filo de espada, destruyéndola por completo, con todo lo que hay en ella y su ganado, a filo de espada. ^16^ Recogerás todo su botín en medio de su calle, y quemarás con fuego la ciudad, con todo su botín, a Yahvé tu Dios. Será un montón para siempre. No se volverá a construir. ^17^ Nada de lo consagrado se aferrará a tu mano, para que Yahvé se aparte del ardor de su cólera y se apiade de ti y te multiplique, como ha jurado a tus padres, ^18^ cuando escuches la voz de Yahvé tu Dios, para cumplir todos sus mandamientos que hoy te ordeno, para hacer lo que es justo a los ojos de Yahvé tu Dios. ^a^ 
-^a^[**13:18** Jos 7]
+^a^[**13:18** Jos 7,-1]
 
 # 14
 ## Prohibición de las costumbres paganas de duelo y los alimentos inmundos
@@ -339,7 +339,7 @@
 # 16
 ## Normativa sobre los tres principales festivales anuales
 ^1^ Observa el mes de Abib y celebra la Pascua a Yahvé tu Dios; porque en el mes de Abib Yahvé tu Dios te sacó de Egipto de noche. ^a^ ^2^ Sacrificarás la Pascua a Yahvé tu Dios, de los rebaños y de las vacas, en el lugar que Yahvé elija para hacer habitar allí su nombre. ^3^ No comerás con ella pan con levadura. Comerás con ella panes sin levadura durante siete días, el pan de la aflicción (porque salisteis de la tierra de Egipto apresuradamente) para que recordéis el día en que salisteis de la tierra de Egipto todos los días de vuestra vida. ^4^ No se verá levadura con vosotros en todo vuestro territorio durante los siete días; ni nada de la carne que sacrifiquéis el primer día por la tarde, permanecerá toda la noche hasta la mañana. ^5^ No podrás sacrificar la Pascua dentro de ninguna de las puertas que Yahvé, tu Dios, te da; ^6^ sino en el lugar que Yahvé, tu Dios, elija para hacer habitar su nombre, allí sacrificarás la Pascua al atardecer, al ponerse el sol, en la época en que saliste de Egipto. ^7^ La asarás y la comerás en el lugar que elija Yahvé tu Dios. Por la mañana volveréis a vuestras tiendas. ^8^ Durante seis días comerás panes sin levadura. El séptimo día será una asamblea solemne para Yahvé tu Dios. No harás ningún trabajo. 
-^a^[**16:1** Éxod 12]
+^a^[**16:1** Éxod 12,-1]
 
 ^9^ Contaréis para vosotros siete semanas. Desde el momento en que empecéis a meter la hoz en el grano en pie, empezaréis a contar siete semanas. ^10^ Celebrarás la fiesta de las semanas a Yahvé tu Dios con un tributo de ofrenda voluntaria de tu mano, que darás según te bendiga Yahvé tu Dios. ^11^ Te alegrarás ante Yavé tu Dios: tú, tu hijo, tu hija, tu siervo, tu sierva, el levita que esté dentro de tus puertas, el extranjero, el huérfano y la viuda que estén entre vosotros, en el lugar que Yavé tu Dios elija para hacer habitar allí su nombre. ^a^ ^12^ Recordarás que fuiste esclavo en Egipto. Observarás y pondrás en práctica estos estatutos. ^b^ 
 ^a^[**16:11** Deut 16,16; Éxod 20,24] ^b^[**16:12** Deut 5,15]
@@ -489,7 +489,7 @@
 ^7^ Si un hombre es encontrado robando a alguno de sus hermanos de los hijos de Israel, y lo trata como esclavo o lo vende, ese ladrón morirá. Así eliminaréis el mal de entre vosotros. 
 
 ^8^ Tened cuidado con la plaga de la lepra, que observéis con diligencia y hagáis conforme a todo lo que os enseñan los sacerdotes levitas. Como yo les ordené, así observarás hacer. ^a^ ^9^ Acuérdate de lo que el Señor, tu Dios, hizo a Miriam, en el camino cuando saliste de Egipto. ^b^ 
-^a^[**24:8** Lev 13; Lev 14,2] ^b^[**24:9** Núm 12,10-15]
+^a^[**24:8** Lev 13,-1; Lev 14,2] ^b^[**24:9** Núm 12,10-15]
 
 ^10^ Cuando prestes a tu prójimo cualquier clase de préstamo, no entrarás en su casa para recibir su prenda. ^11^ Te quedarás fuera, y el hombre al que le prestes te traerá la prenda fuera. ^12^ Si es un hombre pobre, no dormirás con su prenda. ^13^ Le devolverás la prenda cuando se ponga el sol, para que duerma con su ropa y te bendiga. Será para ti justicia ante el Señor, tu Dios. ^a^ 
 ^a^[**24:13** Éxod 22,25]
@@ -612,7 +612,7 @@
 ^a^[**29:1** Éxod 19,4]
 
 ^3^ las grandes pruebas que vieron vuestros ojos, las señales y esos grandes prodigios. ^a^ ^4^ Pero Yahvé no os ha dado hasta hoy corazón para conocer, ojos para ver y oídos para oír. ^b^ ^5^ Te he conducido cuarenta años por el desierto. Tus ropas no se han envejecido en ti, y tus sandalias no se han envejecido en tus pies. ^6^ No has comido pan, ni has bebido vino o bebida fuerte, para que sepas que yo soy Yahvé, tu Dios. ^c^ ^7^ Cuando llegaste a este lugar, Sijón, rey de Hesbón, y Og, rey de Basán, salieron a combatir contra nosotros, y los derrotamos. ^d^ ^8^ Tomamos su tierra y la dimos en herencia a los rubenitas, a los gaditas y a la media tribu de los manasitas. ^9^ Guardad, pues, las palabras de este pacto y ponedlas por obra, para que prosperéis en todo lo que hagáis.
-^a^[**29:3** Deut 5,26; Is 6,9-10] ^b^[**29:4** Deut 8,2; Deut 8,4] ^c^[**29:6** Núm 21,21-35] ^d^[**29:7** Núm 32]
+^a^[**29:3** Deut 5,26; Is 6,9-10] ^b^[**29:4** Deut 8,2; Deut 8,4] ^c^[**29:6** Núm 21,21-35] ^d^[**29:7** Núm 32,-1]
 
 ## El (nuevo) pacto de hoy está hecho para todas las generaciones futuras y es el más sagrado
 ^10^ Todos ustedes están hoy en presencia del Señor, su Dios: vuestros jefes, vuestras tribus, vuestros ancianos y vuestros oficiales, todos los hombres de Israel, ^11^ vuestros pequeños, vuestras mujeres y los extranjeros que están en medio de vuestros campamentos, desde el que corta vuestra leña hasta el que saca vuestra agua, ^12^ para que entréis en la alianza de Yahvé vuestro Dios y en su juramento, que Yahvé vuestro Dios hace hoy con vosotros, ^13^ para que os establezca hoy como su pueblo, y para que sea vuestro Dios, como os habló y como juró a vuestros padres, a Abraham, a Isaac y a Jacob. ^a^ ^14^ No hago este pacto y este juramento sólo con vosotros, ^15^ sino con los que están hoy aquí con nosotros ante Yahvé, nuestro Dios, y también con los que no están hoy aquí con nosotros
@@ -659,7 +659,7 @@
 
 ## El mandato de Dios a Moisés de escribir la canción; Moisés cumple el mandato
 ^19^ “Ahora, pues, escribid este cántico para vosotros y enseñadlo a los hijos de Israel. Ponedlo en sus bocas, para que este cántico sea testigo a mi favor contra los hijos de Israel. ^a^ ^20^ Porque cuando los haya introducido en la tierra que juré a sus padres, que fluye leche y miel, y hayan comido y se hayan saciado y engordado, entonces se volverán a otros dioses y los servirán, y me despreciarán y romperán mi pacto. ^b^ ^21^ Sucederá que, cuando les hayan sobrevenido muchos males y angustias, este cántico dará testimonio ante ellos, pues no se olvidará de la boca de sus descendientes; porque yo conozco sus caminos y lo que hacen hoy, antes de introducirlos en la tierra que les prometí.” ^c^ 
-^a^[**31:19** Deut 32] ^b^[**31:20** Deut 32,15] ^c^[**31:21** Sal 139,2]
+^a^[**31:19** Deut 32,-1] ^b^[**31:20** Deut 32,15] ^c^[**31:21** Sal 139,2]
 
 ^22^ Ese mismo día Moisés escribió este cántico y lo enseñó a los hijos de Israel. 
 
@@ -685,7 +685,7 @@
 # 33
 ## La bendición de despedida de Moisés sobre las doce tribus de Israel
 ^1^ Esta es la bendición con la que Moisés, el hombre de Dios, bendijo a los hijos de Israel antes de su muerte. ^a^ ^2^ Dijo, “Yahvé vino desde el Sinaí, y se levantó de Seir hacia ellos. Brilló desde el monte Parán. Él vino de los diez mil santos. A su derecha había una ley de fuego para ellos. ^b^ ^c^ ^3^ Sí, ama al pueblo. Todos sus santos están en tu mano. Se sentaron a sus pies. Cada uno recibe sus palabras. ^4^ Moisés nos ordenó una ley, una herencia para la asamblea de Jacob. ^5^ Fue rey en Jeshurun, cuando los jefes del pueblo estaban reunidos, todas las tribus de Israel juntas. ^d^ 
-^a^[**33:1** Gén 49] ^b^[**33:2** otro manuscrito dice “Vino con miríadas de santos del sur, de las laderas de sus montañas”.] ^c^[**33:2** Jds 1,14] ^d^[**33:5** Éxod 15,18; Is 44,2; Éxod 19,7-8]
+^a^[**33:1** Gén 49,-1] ^b^[**33:2** otro manuscrito dice “Vino con miríadas de santos del sur, de las laderas de sus montañas”.] ^c^[**33:2** Jds 1,14] ^d^[**33:5** Éxod 15,18; Is 44,2; Éxod 19,7-8]
 
 ## Bendiciones para las tribus individuales
 ^6^ “Que Rubén viva y no muera; Ni que sus hombres sean pocos”. 
@@ -703,7 +703,7 @@
 ^18^ Sobre Zebulón dijo, “Alégrate, Zabulón, en tu salida; e Isacar, en sus tiendas. ^19^ Llamarán a los pueblos a la montaña. Allí ofrecerán sacrificios de justicia, porque sacarán la abundancia de los mares, los tesoros ocultos de la arena”. 
 
 ^20^ Sobre Gad dijo, “El que agranda a Gad es bendecido. Habita como una leona, y desgarra el brazo y la coronilla. ^21^ La primera parte la proporcionó él mismo, porque la porción del legislador estaba reservada para él. Vino con los jefes del pueblo. Ejecutó la justicia de Yahvé, Sus ordenanzas con Israel”. ^a^ 
-^a^[**33:21** Núm 32]
+^a^[**33:21** Núm 32,-1]
 
 ^22^ Sobre Dan dijo, “Dan es un cachorro de leónque salta de Basán”. 
 

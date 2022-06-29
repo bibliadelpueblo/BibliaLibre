@@ -136,7 +136,7 @@
 ^18^ porque has tenido cinco maridos; y el que ahora tienes no es tu marido. Esto lo has dicho con verdad”. 
 
 ^19^ La mujer le dijo: “Señor, me doy cuenta de que eres un profeta. ^20^ Nuestros padres adoraban en este monte, y vosotros los judíos decís que en Jerusalén es el lugar donde se debe adorar.” ^a^ 
-^a^[**4:20** Deut 12,5; Sal 122]
+^a^[**4:20** Deut 12,5; Sal 122,-1]
 
 ^21^ Jesús le dijo: “Mujer, créeme, que llega la hora en que ni en este monte ni en Jerusalén adoraréis al Padre. ^22^ Vosotros adoráis lo que no conocéis. Nosotros adoramos lo que conocemos, porque la salvación viene de los judíos. ^23^ Pero viene la hora, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad, porque el Padre busca a los tales para que sean sus adoradores. ^24^ Dios es espíritu, y los que lo adoran deben hacerlo en espíritu y en verdad.” ^a^ 
 ^a^[**4:24** Rom 12,1; 2Cor 3,17]
@@ -488,7 +488,7 @@
 
 ## Jesús como el buen pastor
 ^11^ “Yo soy el buen pastor. El buen pastor da su vida por las ovejas. ^12^ El que es asalariado y no pastor, que no es dueño de las ovejas, ve venir al lobo, deja las ovejas y huye. El lobo arrebata las ovejas y las dispersa. ^a^ ^13^ El jornalero huye porque es jornalero y no cuida de las ovejas. ^14^ Yo soy el buen pastor. Conozco a las mías, y soy conocido por las mías; ^15^ así como el Padre me conoce, y yo conozco al Padre. Yo doy mi vida por las ovejas. ^16^ Tengo otras ovejas que no son de este redil. Debo traerlas también, y oirán mi voz. Serán un solo rebaño con un solo pastor. ^b^ ^17^ Por eso el Padre me ama, porque doy mi vida para volver a tomarla. ^18^ Nadie me la quita, sino que yo mismo la pongo. Tengo poder para ponerla, y tengo poder para volver a tomarla. Este mandamiento lo recibí de mi Padre”. 
-^a^[**10:12** Sal 23; Is 40,11; Ezeq 34,11-23; Juan 15,13; Heb 13,20] ^b^[**10:16** Juan 11,52; Hech 10,34-35]
+^a^[**10:12** Sal 23,-1; Is 40,11; Ezeq 34,11-23; Juan 15,13; Heb 13,20] ^b^[**10:16** Juan 11,52; Hech 10,34-35]
 
 ^19^ Por eso volvió a surgir una división entre los judíos a causa de estas palabras. ^a^ ^20^ Muchos de ellos decían: “¡Tiene un demonio y está loco! ¿Por qué le escucháis?” ^b^ ^21^ Otros decían: “Estos no son los dichos de un poseído por un demonio. No es posible que un demonio abra los ojos de los ciegos, ¿verdad?”
 ^a^[**10:19** Juan 7,43; Juan 9,16] ^b^[**10:20** Juan 7,20; Mar 3,21]

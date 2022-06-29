@@ -48,7 +48,7 @@
 
 ## Dos ejemplos del Antiguo Testamento como evidencia bíblica de las obras que conducen a la consumación de la fe
 ^21^ ¿No fue Abraham, nuestro padre, justificado por las obras, al ofrecer a su hijo Isaac sobre el altar? ^a^ ^22^ Ya ves que la fe obró con sus obras, y por las obras se perfeccionó la fe. ^23^ Así se cumplió la Escritura que dice: “Abraham creyó a Dios, y le fue contado como justicia”, y fue llamado amigo de Dios. ^24^ Veis, pues, que por las obras el hombre es justificado, y no sólo por la fe. ^25^ Del mismo modo, ¿no fue también justificada por las obras Rahab, la prostituta, cuando recibió a los mensajeros y los envió por otro camino? ^26^ Porque así como el cuerpo sin espíritu está muerto, así también la fe sin obras está muerta.
-^a^[**2:21** Gén 22; Heb 11,17]
+^a^[**2:21** Gén 22,-1; Heb 11,17]
 
 # 3
 ## Advertencia contra las prisas no solicitadas para enseñar y contra los pecados de la lengua

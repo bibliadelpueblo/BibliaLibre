@@ -21,7 +21,8 @@ var txt = File.ReadAllText(src);
 int nmarker = 0;
 int nfootnote = 0;
 
-txt = Regex.Replace(txt, @"(?<title>#+\s+.*?\r?\n)|(?<verse>\^[0-9]+\^)|(?<marker>\^[a-zA-Z]*\^)|(?<footnote>\^(?<label>[a-zA-Z]*)\^?\[(?<note>.*?)\])|(?<paragraph>\\)", m => {
+txt = Regex.Replace(txt, @"(?<title>#+\s+.*?\r?\n)|(?<verse>\^[0-9]+\^)|(?<marker>\^[a-zA-Z]*\^)|(?<footnote>\^(?<label>[a-zA-Z]*)\^?\[(?<note>.*?)\])|(?<paragraph>\\)", m =>
+{
 	if (m.Groups["marker"].Success && m.Groups["marker"].Value == "^^")
 	{
 		return $"^{Label(nmarker++)}^";

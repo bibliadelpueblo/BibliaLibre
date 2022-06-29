@@ -9,7 +9,7 @@
 
 ## La salvación prometida hace muchas veces por los profetas ahora finalmente se ha realizado
 ^10^ Con respecto a esta salvación, los profetas buscaron e indagaron diligentemente. Profetizaron sobre la gracia que vendría a vosotros, ^11^ buscando a quién o a qué tiempo apuntaba el Espíritu de Cristo que estaba en ellos cuando predijo los sufrimientos de Cristo y las glorias que los seguirían. ^a^ ^12^ A ellos se les reveló que no se servían a sí mismos, sino a vosotros, en estas cosas que ahora se os han anunciado por medio de los que os han predicado la Buena Nueva por el Espíritu Santo enviado desde el cielo; cosas que los ángeles desean examinar. ^b^ 
-^a^[**1:11** Is 53; Sal 22] ^b^[**1:12** Efes 3,10]
+^a^[**1:11** Is 53,-1; Sal 22,-1] ^b^[**1:12** Efes 3,10]
 
 ## Camine en santo temor de Dios con gozosa confianza en la salvación que se logra mediante la redención y con la esperanza de gloria
 ^13^ Por lo tanto, preparen sus mentes para la acción. Sed sobrios, y poned vuestra esperanza plenamente en la gracia que se os traerá en la revelación de Jesucristo, ^a^ ^14^ como hijos de la obediencia, no conformándoos según vuestras antiguas concupiscencias, como en vuestra ignorancia, ^b^ ^15^ sino que así como el que os llamó es santo, sed también vosotros santos en toda vuestra conducta, ^16^ porque está escrito: “Seréis santos, porque yo soy santo.” 
@@ -85,7 +85,7 @@
 # 5
 ## Advertencia a los ancianos y a los más jóvenes de la iglesia
 ^1^ Por tanto, exhorto a los ancianos de entre vosotros, como compañero y testigo de los sufrimientos de Cristo, y que también participará en la gloria que se revelará: ^a^ ^2^ pastoread el rebaño de Dios que está entre vosotros, ejerciendo la vigilancia, no por obligación, sino voluntariamente; no por ganancia deshonesta, sino de buen grado; ^b^ ^3^ no como señoreando a los que se os ha confiado, sino poniéndoos como ejemplo del rebaño. ^c^ ^4^ Cuando se manifieste el pastor principal, recibiréis la corona de gloria que no se marchita. ^d^ 
-^a^[**5:1** Rom 8,17; 2Jn 1] ^b^[**5:2** Juan 21,16; Hech 20,28; 1Tim 3,2-7] ^c^[**5:3** Ezeq 34,2-4; 2Cor 1,24; Tit 2,7] ^d^[**5:4** 1Cor 9,25; 2Tim 4,8; Heb 13,20]
+^a^[**5:1** Rom 8,17; 2Jn 1,-1] ^b^[**5:2** Juan 21,16; Hech 20,28; 1Tim 3,2-7] ^c^[**5:3** Ezeq 34,2-4; 2Cor 1,24; Tit 2,7] ^d^[**5:4** 1Cor 9,25; 2Tim 4,8; Heb 13,20]
 
 ^5^ Asimismo, vosotros, los más jóvenes, estad sujetos a los mayores. Sí, revestíos todos de humildad y someteos unos a otros; porque “Dios resiste a los soberbios, pero da gracia a los humildes.” ^a^ ^6^ Humillaos, pues, bajo la poderosa mano de Dios, para que él os exalte a su debido tiempo, ^b^ ^7^ echando todas vuestras preocupaciones sobre él, porque él se ocupa de vosotros. ^c^ 
 ^a^[**5:5** Prov 3,34; Mat 23,12; Efes 5,21; Sant 4,6] ^b^[**5:6** Job 22,29; Sant 4,10] ^c^[**5:7** Sal 55,23; Mat 6,25; Fil 4,6]

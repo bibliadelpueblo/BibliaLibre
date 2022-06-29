@@ -1167,7 +1167,7 @@
 ^20^ y cómo los jefes de los sacerdotes y nuestros gobernantes lo entregaron para que fuera condenado a muerte, y lo crucificaron. ^21^ Pero nosotros esperábamos que fuera él quien redimiera a Israel. Sí, y además de todo esto, ya es el tercer día desde que sucedieron estas cosas. ^22^ También nos sorprendieron algunas mujeres de nuestra compañía, que llegaron temprano al sepulcro; ^23^ y al no encontrar su cuerpo, vinieron diciendo que también habían visto una visión de ángeles, que decían que estaba vivo. ^24^ Algunos de nosotros fueron al sepulcro y lo encontraron tal como habían dicho las mujeres, pero no lo vieron.” 
 
 ^25^ Les dijo: “¡Pueblo necio y lento de corazón para creer en todo lo que han dicho los profetas! ^26^ ¿No tenía el Cristo que sufrir estas cosas y entrar en su gloria?” ^27^ Empezando por Moisés y por todos los profetas, les explicó en todas las Escrituras lo que se refería a él. ^a^ 
-^a^[**24:27** Deut 18,15; Sal 22; Is 53]
+^a^[**24:27** Deut 18,15; Sal 22,-1; Is 53,-1]
 
 ^28^ Se acercaron a la aldea a la que se dirigían, y él actuó como si fuera a ir más lejos. 
 

@@ -118,11 +118,7 @@ namespace BibleMarkdown
 			if (!Directory.Exists(outpath)) Directory.CreateDirectory(outpath);
 			if (Directory.Exists(srcpath))
 			{
-				Verses.ParallelVerses.Import(Path.Combine(srcpath, "parallelversesmap.md"));
-				Verses.Paragraphs.Import(Path.Combine(srcpath, "paragraphsmap.md"));
-				Verses.Titles.Import(Path.Combine(srcpath, "titlesmap.md"));
-				Verses.Footnotes.Import(Path.Combine(srcpath, "footnotesmap.md"));
-				Verses.DualLanguage.Import(Path.Combine(srcpath, "duallanguagemap.md"));
+				VerseMaps.Load(path);
 				ImportFromBibleEdit(srcpath);
 				ImportFromUSFM(path, srcpath);
 				ImportFromTXT(path, srcpath);

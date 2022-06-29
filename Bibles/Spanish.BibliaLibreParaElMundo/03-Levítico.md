@@ -89,7 +89,7 @@
 # 6
 ## Cuando se daña la propiedad de otra persona
 ^1^ Yahvé habló a Moisés, diciendo: ^2^ “Si alguno peca y comete una transgresión contra Yahvé, y trata con falsedad a su prójimo en un asunto de depósito, o de negociación, o de robo, o ha oprimido a su prójimo, ^3^ o ha encontrado lo que se había perdido y ha mentido sobre ello, y jurando en una mentira-en cualquiera de estas cosas que un hombre peca en sus acciones— ^a^ ^4^ entonces será, si ha pecado, y es culpable, deberá restaurar lo que tomó por robo, o la cosa que ha obtenido por opresión, o el depósito que le fue encomendado, o la cosa perdida que encontró, ^b^ ^5^ o cualquier cosa sobre la que ha jurado en falso: lo restituirá íntegramente, y le añadirá una quinta parte más. Lo devolverá a su dueño el día que sea declarado culpable. ^6^ Traerá su ofrenda por la culpa a Yahvé: un carnero sin defecto del rebaño, según tu estimación, como ofrenda por la culpa, al sacerdote. ^7^ El sacerdote hará expiación por él ante Yavé, y se le perdonará todo lo que haga para ser culpable.” ^c^ 
-^a^[**6:3** Éxod 28,42] ^b^[**6:4** Lev 4,12] ^c^[**6:7** Lev 2]
+^a^[**6:3** Éxod 28,42] ^b^[**6:4** Lev 4,12] ^c^[**6:7** Lev 2,-1]
 
 ## Reglamento para los sacerdotes sobre el holocausto diario
 ^8^ Yahvé habló a Moisés, diciendo: ^9^ “Manda a Aarón y a sus hijos, diciendo: ‘Esta es la ley del holocausto: el holocausto estará sobre el hogar del altar toda la noche hasta la mañana; y el fuego del altar se mantendrá encendido sobre él. ^10^ El sacerdote se pondrá su vestimenta de lino, y se pondrá sus pantalones de lino sobre su cuerpo; y quitará las cenizas de donde el fuego haya consumido el holocausto en el altar, y las pondrá junto al altar. ^11^ Se quitará sus vestidos y se pondrá otros, y llevará las cenizas fuera del campamento a un lugar limpio. ^12^ El fuego del altar se mantendrá encendido en él, no se apagará; y el sacerdote quemará leña en él cada mañana. Pondrá el holocausto en orden sobre él, y quemará sobre él la grasa de los sacrificios de paz. ^13^ El fuego se mantendrá encendido sobre el altar continuamente; no se apagará. 
@@ -145,7 +145,7 @@
 
 ## La ofrenda sacerdotal por el pecado
 ^14^ Trajo el toro del sacrificio por el pecado, y Aarón y sus hijos pusieron sus manos sobre la cabeza del toro del sacrificio por el pecado. ^a^ ^15^ Lo mató, y Moisés tomó la sangre y la puso alrededor de los cuernos del altar con su dedo, y purificó el altar, y derramó la sangre al pie del altar, y lo santificó para hacer expiación. ^16^ Tomó toda la grasa que había en las vísceras, y la cubierta del hígado, y los dos riñones y su grasa; y Moisés lo quemó sobre el altar. ^17^ Pero el toro, su piel, su carne y su estiércol los quemó con fuego fuera del campamento, como Yahvé le había ordenado a Moisés.
-^a^[**8:14** Lev 4]
+^a^[**8:14** Lev 4,-1]
 
 ## El holocausto
 ^18^ Presentó el carnero del holocausto. Aarón y sus hijos pusieron sus manos sobre la cabeza del carnero. ^19^ Lo mató, y Moisés roció la sangre alrededor del altar. ^20^ Cortó el carnero en pedazos, y Moisés quemó la cabeza, los pedazos y la grasa. ^21^ Lavó con agua las vísceras y las patas, y Moisés quemó todo el carnero sobre el altar. Era un holocausto de aroma agradable. Era una ofrenda hecha por fuego a Yavé, como Yavé le había ordenado a Moisés. 
@@ -655,7 +655,7 @@
 
 ## La Pascua y la solemnidad de los ázimos
 ^4^ “‘Estas son las fiestas fijas de Yahvé, las convocatorias sagradas, que proclamarás a su tiempo. ^a^ ^5^ En el primer mes, el día catorce del mes, por la tarde, es la Pascua de Yahvé. ^b^ ^6^ El decimoquinto día del mismo mes es la fiesta de los panes sin levadura para Yahvé. Durante siete días comerás panes sin levadura. ^7^ El primer día tendrás una santa convocación. No harás ningún trabajo regular. ^8^ Pero durante los siete días ofrecerás a Yahvé una ofrenda encendida. El séptimo día es una santa convocación. No harás ningún trabajo regular”.
-^a^[**23:4** Éxod 23,14-19] ^b^[**23:5** Éxod 12]
+^a^[**23:4** Éxod 23,14-19] ^b^[**23:5** Éxod 12,-1]
 
 ## Ofreciendo de los primeros frutos
 ^9^ Yahvé habló a Moisés, diciendo: ^10^ “Habla a los hijos de Israel y diles: ‘Cuando hayáis entrado en la tierra que os doy y hayáis recogido su cosecha, traeréis al sacerdote la gavilla de las primicias de vuestra cosecha. ^11^ Él agitará la gavilla ante el Señor, para que sea aceptada por ustedes. Al día siguiente del sábado, el sacerdote la mecerá. ^12^ El día en que agites la gavilla, ofrecerás un cordero macho sin defecto de un año como holocausto a Yahvé. ^13^ La ofrenda con él será de dos décimas de efa^a^ de harina fina mezclada con aceite, ofrenda encendida a Yahvé en olor agradable; y la libación con él será de vino, la cuarta parte de un hin. ^b^ ^14^ No debes comer pan, ni grano tostado, ni grano fresco, hasta este mismo día, hasta que hayas traído la ofrenda de tu Dios. Este es un estatuto para siempre a través de vuestras generaciones en todas vuestras moradas. 
@@ -729,7 +729,7 @@
 ^29^ “‘Si un hombre vende una vivienda en una ciudad amurallada, podrá rescatarla en el plazo de un año entero después de haberla vendido. Durante un año completo tendrá el derecho de redención. ^30^ Si no se rescata en el plazo de un año completo, la casa que esté en la ciudad amurallada quedará asegurada a perpetuidad para el que la compró, por sus generaciones. No se liberará en el jubileo. ^31^ Pero las casas de las aldeas que no tengan muro alrededor serán contabilizadas con los campos del país; podrán ser redimidas, y serán liberadas en el Jubileo. 
 
 ^32^ “‘Sin embargo, en las ciudades de los levitas, los levitas podrán redimir las casas de las ciudades de su posesión en cualquier momento. ^a^ ^33^ Los levitas podrán rescatar la casa vendida y la ciudad de su posesión, y será liberada en el jubileo; porque las casas de las ciudades de los levitas son su posesión entre los hijos de Israel. ^34^ Pero el campo de las tierras de pastoreo de sus ciudades no podrá ser vendido, porque es su posesión perpetua.
-^a^[**25:32** Núm 35]
+^a^[**25:32** Núm 35,-1]
 
 ## Mandamiento de ayudar a los israelitas empobrecidos; Compra de esclavos hebreos o su liberación en el año de jubileo
 ^35^ “‘Si tu hermano se ha empobrecido, y su mano no puede mantenerse entre vosotros, entonces lo mantendrás. Vivirá contigo como un extranjero y un residente temporal. ^36^ No tomes de él ningún interés ni ganancia, sino teme a tu Dios, para que tu hermano viva entre vosotros. ^37^ No le prestarás tu dinero con intereses, ni le darás tu comida con fines de lucro. ^38^ Yo soy el Señor, tu Dios, que te sacó de la tierra de Egipto para darte la tierra de Canaán y para ser tu Dios. 

@@ -154,7 +154,7 @@
 
 ## El profeta anuncia el fracaso de sus planes a los pueblos
 ^9^ ¡Armad un escándalo, pueblos, y destrozaos! Escuchad, todos los que venís de países lejanos: ¡vestid la batalla y sed destrozados! ¡Vestíos para la batalla, y sed destrozados! ^a^ ^10^ Haced consejo juntos, y quedará en nada; hablad la palabra, y no se mantendrá, porque Dios está con nosotros.” ^b^ 
-^a^[**8:9** Sal 2] ^b^[**8:10** Is 8,8]
+^a^[**8:9** Sal 2,-1] ^b^[**8:10** Is 8,8]
 
 ## El peligro real no proviene de los planes y convenios humanos, sino del desprecio por Dios
 ^11^ Porque Yahvé me habló de esto con mano fuerte, y me instruyó para que no siguiera el camino de este pueblo, diciendo: ^12^ “No llames conspiración a todo lo que este pueblo llama conspiración. No temas sus amenazas ni te dejes aterrorizar. ^13^ El Señor de los Ejércitos es a quien debes respetar como santo. A él es a quien debes temer. A él es a quien debes temer. ^14^ Él será un santuario, pero para ambas casas de Israel será una piedra de tropiezo y una roca que los haga caer. Para el pueblo de Jerusalén, será una trampa y un lazo. ^a^ ^15^ Muchos tropezarán con él, caerán, se romperán, quedarán atrapados y serán capturados.”
@@ -176,7 +176,7 @@
 ^a^[**9:3** Jue 7,22]
 
 ^4^ Porque el yugo de su carga, y el bastón de su hombro, la vara de su opresor, has roto como en el día de Madián. ^5^ Porque toda la armadura del hombre armado en la batalla ruidosa, y las vestiduras revueltas en sangre, serán para arder, combustible para el fuego. ^6^ Porque nos ha nacido un niño. Un hijo se nos ha dado; y el gobierno estará sobre sus hombros. Su nombre será llamado Consejero maravilloso, Dios poderoso, Padre eterno, Príncipe de la paz. ^a^ 
-^a^[**9:6** Is 11; Sal 72,3-4; 2Sam 7,12-13; Luc 1,32]
+^a^[**9:6** Is 11,-1; Sal 72,3-4; 2Sam 7,12-13; Luc 1,32]
 
 ^7^ El aumento de su gobierno y de la paz no tendrá fin, en el trono de David y en su reino, para establecerlo y sostenerlo con justicia y con rectitud desde entonces y para siempre. El celo de Yahvé de los Ejércitos lo llevará a cabo. 
 
@@ -240,7 +240,7 @@
 # 13
 ## Juicio sobre la ciudad de Babilonia
 ^1^ La carga de Babilonia que vio Isaías, hijo de Amoz. ^a^ 
-^a^[**13:1** Jer 50; Jer 51,1-51]
+^a^[**13:1** Jer 50,-1; Jer 51,1-51]
 
 ## Anuncio del Día Mundial del Juicio; el aterrador acercamiento del ejército convocado por Dios
 ^2^ ¡Establece una bandera en la montaña desnuda! ¡Alza tu voz hacia ellos! Agita tu mano, para que entren en las puertas de los nobles. ^a^ ^3^ He ordenado a mis consagrados; sí, he llamado a mis valientes para mi ira, a mis orgullosos exaltados. ^4^ ¡El ruido de una multitud está en los montes, como de un gran pueblo; el ruido de un alboroto de los reinos de las naciones reunidos! El Señor de los Ejércitos está reuniendo el ejército para la batalla. ^5^ Vienen de un país lejano, del extremo del cielo, Yahvé, y las armas de su indignación, para destruir toda la tierra. 
@@ -292,7 +292,7 @@
 ^28^ Esta carga fue en el año en que murió el rey Acaz. 
 
 ^29^ No os alegréis, oh Filistea, todos vosotros, porque la vara que os golpeaba se ha quebrado; porque de la raíz de la serpiente saldrá una víbora, y su fruto será una serpiente ardiente y voladora. ^a^ ^30^ Los primogénitos de los pobres comerán, y los necesitados se acostarán con seguridad; y yo mataré tu raíz con el hambre, y tu remanente morirá. 
-^a^[**14:29** Jer 47]
+^a^[**14:29** Jer 47,-1]
 
 ^31^ ¡Aúlla, puerta! ¡Grita, ciudad! Os habéis derretido, Filistea, todos vosotros; porque el humo sale del norte, y no hay ningún rezagado en sus filas. 
 
@@ -340,7 +340,7 @@
 # 19
 ## Las tribulaciones que aguardan a la tierra por la intervención de Dios
 ^1^ La carga de Egipto. “He aquí que el Señor cabalga sobre una nube veloz y llega a Egipto. Los ídolos de Egipto temblarán ante su presencia, y el corazón de Egipto se derretirá en su interior. ^a^ 
-^a^[**19:1** Jer 46; Ezeq 29; Ezeq 30,1-30]
+^a^[**19:1** Jer 46,-1; Ezeq 29,-1; Ezeq 30,1-30]
 
 ^2^ Yo incitaré a los egipcios contra los egipcios, y lucharán cada uno contra su hermano, y cada uno contra su vecino; ciudad contra ciudad, y reino contra reino. ^3^ El espíritu de los egipcios fracasará dentro de ellos. Destruiré su consejo. Buscarán a los ídolos, a los encantadores, a los que tienen espíritus familiares y a los magos. ^4^ Entregaré a los egipcios en manos de un señor cruel. Un rey feroz los gobernará”, dice el Señor, Yahvé de los Ejércitos. 
 
@@ -415,7 +415,7 @@
 # 23
 ## Lamento por la destrucción del país y la ciudad
 ^1^ La carga de Tiro. ¡Aullad, naves de Tarsis! Porque está asolada, de modo que no hay casa, ni se puede entrar en ella. Desde la tierra de Kittim se les ha revelado. ^a^ 
-^a^[**23:1** Ezeq 26; Ezeq 27,1-27]
+^a^[**23:1** Ezeq 26,-1; Ezeq 27,1-27]
 
 ^2^ Quedaos quietos, habitantes de la costa, vosotros a quienes los mercaderes de Sidón que pasan por el mar han reabastecido. ^3^ Sobre grandes aguas, la semilla del Shihor, la cosecha del Nilo, era su ingreso. Ella era el mercado de las naciones. ^4^ Avergüénzate, Sidón, porque el mar ha hablado, la fortaleza del mar, diciendo: “No he parido, ni he dado a luz, ni he alimentado jóvenes, ni he criado vírgenes.” ^5^ Cuando el informe llegue a Egipto, se angustiarán ante el informe de Tiro. ^6^ ¡Pasen a Tarsis! ¡Aullad, habitantes de la costa! ^7^ ¿Esta es vuestra ciudad alegre, cuya antigüedad es de días antiguos, cuyos pies la llevaron lejos para viajar? 
 
@@ -618,10 +618,12 @@
 
 ## El juicio de la ira de Dios contra Edom en venganza por Sion
 ^5^ Porque mi espada ha bebido hasta la saciedad en el cielo. He aquí que descenderá sobre Edom, y sobre el pueblo de mi maldición, para el juicio. ^6^ La espada de Yahvé está llena de sangre. Está cubierto de grasa, de sangre de corderos y cabras, con la grasa de los riñones de los carneros; porque Yahvé tiene un sacrificio en Bozra, y una gran matanza en la tierra de Edom. ^7^ Los bueyes salvajes bajarán con ellos, y los novillos con los toros poderosos; y su tierra se embriagará de sangre, y su polvo engrasado con grasa. ^8^ Porque Yahvé tiene un día de venganza, un año de recompensa para la causa de Sion. ^9^ Sus arroyos se convertirán en brea, su polvo en azufre, y su tierra se convertirá en brea ardiente. ^10^ No se apagará ni de noche ni de día. Su humo subirá para siempre. De generación en generación, será un residuo. Nadie pasará por ella para siempre. ^11^ Pero el pelícano y el puercoespín la poseerán. El búho y el cuervo habitarán en él. Él estirará la línea de confusión sobre ella, y la plomada del vacío. ^12^ Llamarán a sus nobles al reino, pero ninguno estará allí; y todos sus príncipes no serán nada. ^13^ En sus palacios surgirán espinas, ortigas y cardos en sus fortalezas; y será morada de chacales, un tribunal para avestruces. ^a^ ^14^ Los animales salvajes del desierto se encontrarán con los lobos, y la cabra salvaje gritará a su compañero. Sí, la criatura nocturna se instalará allí, y encontrará un lugar de descanso. ^15^ La serpiente flecha hará su nido allí, y se acuestan, empollan y reúnen bajo su sombra. Sí, los cometas se reunirán allí, cada uno con su pareja. ^16^ Busca en el libro de Yahvé y lee: no faltará ninguno de ellos. A ninguna le faltará su pareja. Porque mi boca lo ha ordenado, y su Espíritu los ha reunido. ^17^ Ha echado la suerte por ellos, y su mano se la ha repartido con una línea de medida. La poseerán para siempre. De generación en generación, habitarán en ella.
+^a^[**34:13** Is 13,21-22]
+
 # 35
 ## El regreso a casa del pueblo redimido y la gloriosa renovación de Jerusalén
-^1^ El desierto y la tierra seca se alegrarán. El desierto se alegrará y florecerá como una rosa. ^2^ Florecerá abundantemente, y se regocijan incluso con alegría y cantos. La gloria del Líbano le será otorgada, la excelencia de Carmel y Sharon. Verán la gloria de Yahvé, la excelencia de nuestro Dios. ^3^ Fortalecer las manos débiles, y hacer firmes las débiles rodillas. ^b^ ^4^ Dile a los que tienen un corazón temeroso: “¡Sé fuerte! No tengas miedo. He aquí que tu Dios vendrá con la venganza, el castigo de Dios. Él vendrá y te salvará. ^c^ ^5^ Entonces se abrirán los ojos de los ciegos, y los oídos de los sordos no se taparán. ^d^ ^6^ Entonces el cojo saltará como un ciervo, y la lengua del mudo cantará; porque las aguas brotarán en el desierto, y arroyos en el desierto. ^7^ La arena ardiente se convertirá en un estanque, y la tierra sedienta manantiales de agua. La hierba con cañas y juncos estará en la morada de los chacales, donde se acuestan. ^8^ Habrá una carretera, un camino, y se llamará “El Camino Santo”. Los impuros no pasarán por encima, sino que será para los que caminan en el Camino. Los tontos malvados no irán allí. ^e^ ^9^ No habrá ningún león, ni ningún animal voraz subirá a ella. No se encontrarán allí; pero los redimidos caminarán allí. ^10^ Entonces volverán los rescatados de Yahvé, y venir con el canto a Sión; y la alegría eterna estará sobre sus cabezas. Obtendrán alegría y gozo, y la pena y el suspiro huirán”.
-^a^[**34:13** Is 13,21-22] ^b^[**35:3** Heb 12,12] ^c^[**35:4** Sal 94,1] ^d^[**35:5** Is 29,18; Mat 11,5] ^e^[**35:8** Is 62,10]
+^1^ El desierto y la tierra seca se alegrarán. El desierto se alegrará y florecerá como una rosa. ^2^ Florecerá abundantemente, y se regocijan incluso con alegría y cantos. La gloria del Líbano le será otorgada, la excelencia de Carmel y Sharon. Verán la gloria de Yahvé, la excelencia de nuestro Dios. ^3^ Fortalecer las manos débiles, y hacer firmes las débiles rodillas. ^a^ ^4^ Dile a los que tienen un corazón temeroso: “¡Sé fuerte! No tengas miedo. He aquí que tu Dios vendrá con la venganza, el castigo de Dios. Él vendrá y te salvará. ^b^ ^5^ Entonces se abrirán los ojos de los ciegos, y los oídos de los sordos no se taparán. ^c^ ^6^ Entonces el cojo saltará como un ciervo, y la lengua del mudo cantará; porque las aguas brotarán en el desierto, y arroyos en el desierto. ^7^ La arena ardiente se convertirá en un estanque, y la tierra sedienta manantiales de agua. La hierba con cañas y juncos estará en la morada de los chacales, donde se acuestan. ^8^ Habrá una carretera, un camino, y se llamará “El Camino Santo”. Los impuros no pasarán por encima, sino que será para los que caminan en el Camino. Los tontos malvados no irán allí. ^d^ ^9^ No habrá ningún león, ni ningún animal voraz subirá a ella. No se encontrarán allí; pero los redimidos caminarán allí. ^10^ Entonces volverán los rescatados de Yahvé, y venir con el canto a Sión; y la alegría eterna estará sobre sus cabezas. Obtendrán alegría y gozo, y la pena y el suspiro huirán”.
+^a^[**35:3** Heb 12,12] ^b^[**35:4** Sal 94,1] ^c^[**35:5** Is 29,18; Mat 11,5] ^d^[**35:8** Is 62,10]
 
 # 36
 ## Jerusalén amenazada por Senaquerib y maravillosamente salvada
@@ -854,6 +856,7 @@
 ^a^[**46:10** Is 42,9] ^b^[**46:11** Is 41,2]
 
 ^12^ Escúchame, terco de corazón, ¡que están lejos de la justicia! ^13^ Acerco mi justicia. No está lejos, y mi salvación no esperará. Yo concederé la salvación a Sión, mi gloria a Israel.
+
 # 47
 ## Humillación del gobernante orgulloso y exuberante a la suerte de un esclavo
 ^1^ “Baja y siéntate en el polvo, virgen hija de Babilonia. Siéntate en el suelo sin trono, hija de los caldeos. Porque ya no te llamarán tierna y delicada. ^a^ ^2^ Toma las piedras de molino y muele la harina. Quítate el velo, levántate la falda, descubre tus piernas, y vadear los ríos. ^3^ Su desnudez será descubierta. Sí, tu vergüenza se verá. Me vengaré, y no perdonará a nadie”. ^4^ Nuestro Redentor, Yahvé de los Ejércitos es su nombre, es el Santo de Israel.
@@ -868,10 +871,11 @@
 
 ## Las artes mágicas y las ciencias secretas no pueden evitar la ruina
 ^12^ “Ponte ahora con tus encantosy con la multitud de tus hechicerías, en la que has trabajado desde tu juventud, como si pudieras beneficiarte, como si pudiera prevalecer. ^a^ ^13^ Te cansas en la multitud de tus consejos. Ahora deja que los astrólogos, los observadores de las estrellas y los pronosticadores mensuales se levanten y te salven de las cosas que te van a pasar. ^14^ He aquí que son como el rastrojo. El fuego los quemará. No se librarán del poder de la llama. No será un carbón para calentar eno un fuego junto al que sentarse. ^15^ Las cosas en las que trabajasteis serán así: los que han traficado con vosotros desde vuestra juventud, cada uno de ellos vagará por su camino. No habrá nadie que te salve.
+^a^[**47:12** Dan 2,2]
+
 # 48
 ## Forma dura de dirigirse a la gente terca
 ^1^ “Escucha esto, casa de Jacob, tú que te llamas con el nombre de Israel, y han salido de las aguas de Judá. Juras por el nombre de Yahvé, y hacer mención del Dios de Israel, pero no en la verdad, ni en la justicia — ^2^ porque se llaman a sí mismos ciudadanos de la ciudad santa, y confiar en el Dios de Israel; Yavé de los Ejércitos es su nombre. 
-^a^[**47:12** Dan 2,2]
 
 ## Las profecías anteriores han permanecido ineficaces, y las nuevas promesas de salvación se encuentran con un pueblo sin refinar
 ^3^ He declarado las cosas anteriores desde la antigüedad. Sí, salieron de mi boca y los revelé. Los hice de repente, y sucedieron. ^4^ Porque sabía que eras obstinado, y tu cuello es un tendón de hierro, y el bronce de tu frente; ^a^ ^5^ por eso os lo he declarado desde antiguo; antes de que ocurriera te lo mostré; para que no digas: “Mi ídolo los ha hecho”. Mi imagen grabada y mi imagen fundida les ha ordenado’. ^6^ Lo habéis oído. Ahora vea todo esto. Y tú, ¿no lo vas a declarar? “Te he mostrado cosas nuevas de este tiempo, incluso cosas ocultas, que no has conocido. ^7^ Son creados ahora, y no desde la antigüedad. Antes de hoy, no se oían, para que no digáis: ‘He aquí que los conocía’. ^8^ Sí, no lo has oído. Sí, no lo sabías. Sí, desde antaño no se te abría el oído, ya que sabía que tratabas con mucha alevosía, y fueron llamados transgresores desde el vientre. ^9^ Por mi nombre, aplazaré mi ira, y para mi alabanza, lo retengo para tipara que no te corte el paso. ^10^ He aquí que te he refinado, pero no como la plata. Te he elegido en el horno de la aflicción. ^11^ Por mi propio bien, por mi propio bien, lo haré; pues ¿cómo se profanaría mi nombre? No daré mi gloria a otro. ^b^ 

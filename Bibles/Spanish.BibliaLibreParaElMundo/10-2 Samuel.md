@@ -175,7 +175,7 @@
 # 7
 ## Natán aprueba el plan de David para construir el templo
 ^1^ Cuando el rey vivía en su casa, y Yahvé le había dado descanso de todos sus enemigos alrededor, ^2^ el rey dijo al profeta Natán: “Mira ahora, yo habito en una casa de cedro, pero el arca de Dios habita dentro de las cortinas.” ^a^ 
-^a^[**7:2** Sal 132]
+^a^[**7:2** Sal 132,-1]
 
 ^3^ Natán dijo al rey: “Ve, haz todo lo que está en tu corazón, porque Yahvé está contigo”. 
 
