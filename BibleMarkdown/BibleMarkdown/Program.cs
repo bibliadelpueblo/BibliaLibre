@@ -26,7 +26,20 @@ namespace BibleMarkdown
 		public static bool LowercaseFirstWords = false;
 		public static bool FromSource = false;
 		public static bool Imported = false;
-		public static string? Language = null;
+		static string language;
+		public static string Language
+		{
+			get { return language; }
+			set
+			{
+				if (value != language)
+				{
+					language = value;
+					Console.WriteLine($"Language set to {language}");
+				}
+			}
+		}
+		public static bool MapVerses = false;
 		public static string? Replace = null;
 		public static bool TwoLanguage = false;
 
@@ -181,6 +194,7 @@ namespace BibleMarkdown
 			FromSource = args.Contains("-s") || args.Contains("-src") || args.Contains("-source");
 			var lnpos = Array.IndexOf(args, "-ln");
 			if (lnpos >= 0 && (lnpos + 1 < args.Length)) Language = args[lnpos + 1];
+			else Language = "default";
 
 			var replacepos = Array.IndexOf(args, "-replace");
 			if (replacepos == -1) replacepos = Array.IndexOf(args, "-r");

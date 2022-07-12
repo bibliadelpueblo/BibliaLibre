@@ -10,16 +10,16 @@ namespace BibleMarkdown
 {
 	public class Book
 	{
-		public string Language;
-		public string Name;
-		public string Abbreviation;
+		public string? Language;
+		public string Name = "";
+		public string Abbreviation = "";
 		public int Number;
 	}
 
 	public class BookList : SortedList<string, SortedList<string, Book>>
 	{
 
-		public static string? Language => Program.Language;
+		public static string Language => Program.Language;
 
 		public Book this[string language, int number]
 		{
@@ -40,11 +40,21 @@ namespace BibleMarkdown
 
 		public Book this[int number] => this[Language, number];
 
+		public string Name(string file)
+		{
+			return Regex.Replace(Path.GetFileNameWithoutExtension(file), "^[0-9.]+-", "", RegexOptions.Singleline).Trim();
+		}
+		public int Number(string file)
+		{
+			var match = Regex.Match(Path.GetFileNameWithoutExtension(file), "^[0-9]+", RegexOptions.Singleline);
+			if (match.Success) return int.Parse(match.Value);
+			return -1;
+		}
 		public void Load(string path)
 		{
 			if (Count != 0) return;
 
-			var namesfile = Path.Combine(path, "src", "bnames.xml");
+			var namesfile = Path.Combine(path, "src", "booknames.xml");
 
 			XElement xml;
 			using (var file = File.Open(namesfile, FileMode.Open, FileAccess.Read))
@@ -65,7 +75,7 @@ namespace BibleMarkdown
 							Language = Language,
 							Name = xml.Value,
 							Abbreviation = (string)xml.Attribute("bshort"),
-							Number = (int)xml.Attribute("bn")
+							Number = (int)xml.Attribute("bnumber")
 						})
 				});
 
@@ -77,6 +87,17 @@ namespace BibleMarkdown
 				{
 					books.Add(book.Name, book);
 				}
+			}
+		}
+
+		public void Load(IEnumerable<string> mdfiles)
+		{
+			var books = new SortedList<string, Book>();
+			Books.Add("default", books);
+			foreach (var file in mdfiles)
+			{
+				var book = new Book() { Language = null, Abbreviation = "", Name = Name(file), Number = Number(file) };
+				books.Add(book.Name, book);
 			}
 		}
 
@@ -98,6 +119,8 @@ namespace BibleMarkdown
 			if (Count != 0) return;
 
 			var linklistfile = Path.Combine(path, "src", "linklist.xml");
+
+			if (!File.Exists(linklistfile)) return;
 
 			BookList.Books.Load(path);
 
@@ -226,7 +249,7 @@ namespace BibleMarkdown
 				});
 			foreach (var book in books)
 			{
-				var bookfromlist = BookList.Books[book.Book];
+				var bookfromlist = BookList.Books.All.FirstOrDefault(b => b.Name == book.Book);
 
 				var map = Regex.Matches(book.Map, @"([0-9]+):([0-9]+)=>([0-9]+):([0-9]+)", RegexOptions.Singleline)
 					.Select(m => new
@@ -260,6 +283,9 @@ namespace BibleMarkdown
 
 		public static void Load(string path)
 		{
+			BookList.Books.Load(path);
+			ParallelVerseList.ParallelVerses.Load(path);
+
 			path = Path.Combine(path, "src");
 			ParallelVerses.Import(Path.Combine(path, "parallelversesmap.md"));
 			Paragraphs.Import(Path.Combine(path, "paragraphsmap.md"));
@@ -276,6 +302,23 @@ namespace BibleMarkdown
 		public int Chapter;
 		public int Verse;
 		public int UpToVerse;
+
+		public static Location Zero => new Location()
+		{
+			Book = new Book() { Name = "", Number = 0, Abbreviation = "", Language = "default" },
+			Chapter = 0,
+			Verse = -1
+		};
+		public static int Compare(Location a, Location b)
+		{
+			if (a.Book.Number < b.Book.Number) return - 1;
+			if (a.Book.Number > b.Book.Number) return 1;
+			if (a.Chapter < b.Chapter) return -1;
+			if (a.Chapter > b.Chapter) return 1;
+			if (a.Verse < b.Verse) return -1;
+			if (a.Verse > b.Verse) return 1;
+			return 0;
+ 		}
 	}
 
 	partial class Program

@@ -117,17 +117,17 @@ namespace BibleMarkdown
 			var leftfiles = Directory.EnumerateFiles(path1, "*.md").ToArray();
 			var rightfiles = Directory.EnumerateFiles(path2, "*.md").ToArray();
 			int bookno = 1;
-			var booknames = Books[].Where(b => b.Number == bookno);
-			string? leftbook = null, rightbook = null;
-			while (booknames.Any())
+			var books = Books.All.Where(b => b.Number == bookno);
+			Book leftbook = null, rightbook = null;
+			while (books.Any())
 			{
 				var leftfile = leftfiles.FirstOrDefault(f =>
 				{
-					var bn = booknames.FirstOrDefault(b =>
-						b.Book == Regex.Replace(Path.GetFileNameWithoutExtension(f), @"^[0-9]+(\.[0-9]+)?-", ""));
+					var bn = books.FirstOrDefault(b =>
+						b.Name == Regex.Replace(Path.GetFileNameWithoutExtension(f), @"^[0-9]+(\.[0-9]+)?-", ""));
 					if (bn != null)
 					{
-						leftbook = bn.Book;
+						leftbook = bn;
 						return true;
 					}
 					else
@@ -137,11 +137,11 @@ namespace BibleMarkdown
 				});
 				var rightfile = rightfiles.FirstOrDefault(f =>
 				{
-					var bn = booknames.FirstOrDefault(b =>
-						b.Book == Regex.Replace(Path.GetFileNameWithoutExtension(f), @"^[0-9]+(\.[0-9]+)?-", ""));
+					var bn = books.FirstOrDefault(b =>
+						b.Name == Regex.Replace(Path.GetFileNameWithoutExtension(f), @"^[0-9]+(\.[0-9]+)?-", ""));
 					if (bn != null)
 					{
-						rightbook = bn.Book;
+						rightbook = bn;
 						return true;
 					}
 					else
@@ -181,14 +181,14 @@ namespace BibleMarkdown
 							Chapter = chapter,
 							Verse = endverse
 						};
-						rightstart = Verses.DualLanguage.Map(rightstart);
-						rightend = Verses.DualLanguage.Map(rightend);
+						rightstart = VerseMaps.DualLanguage.Map(rightstart);
+						rightend = VerseMaps.DualLanguage.Map(rightend);
 
 						var rightpart = new StringBuilder();
 
 						var ms = Regex.Matches(righttext, @"(^|\n)#[ \t]+(?<[0-9]+)");
 					}
-					booknames = books.Where(b => b.Number == bookno++);
+					books = Books.All.Where(b => b.Number == bookno++);
 				}
 			}
 		}
@@ -264,278 +264,204 @@ namespace BibleMarkdown
 				.Where(file => Regex.IsMatch(Path.GetFileName(file), "^([0-9][0-9])"));
 			var verses = new StringBuilder();
 
-			var frames = Path.Combine(path, "out", "framework.md");
+			var framesfile = Path.Combine(path, "out", "framework.md");
 			var frametime = DateTime.MinValue;
-			if (File.Exists(frames)) frametime = File.GetLastWriteTimeUtc(frames);
+			if (File.Exists(framesfile)) frametime = File.GetLastWriteTimeUtc(framesfile);
 
 			if (sources.All(src => File.GetLastWriteTimeUtc(src) < frametime) && frametime > bibmarktime) return;
 
+			var items = new List<FrameworkItem>();
 
-			List<ParallelVerse> refs;
-			BookDesc[] books;
-			int refi = 0;
-			bool newrefs = false;
-			if (File.Exists(linklistfile) && ((!File.Exists(frames)) || FromSource || File.GetLastWriteTimeUtc(linklistfile) > File.GetLastWriteTimeUtc(frames)))
-			{
-				newrefs = true;
-				var list = XElement.Load(File.OpenRead(linklistfile));
-				var language = ((string)list.Element("collection").Attribute("id"));
-				books = XElement.Load(File.Open(namesfile, FileMode.Open, FileAccess.Read))
-					.Elements("ID")
-					.Where(id => ((string)id.Attribute("descr")) == language)
-					.FirstOrDefault()
-					.Elements("BOOK")
-					.Select(xml => new BookDesc
-					{
-						Book = xml.Value,
-						Abbreviation = (string)xml.Attribute("bshort"),
-						Number = (int)xml.Attribute("bn")
-					})
-					.ToArray();
+			Books.Load(sources);
 
-				refs = list.Descendants("verse")
-					.OrderBy(link => (int)link.Attribute("bn"))
-					.ThenBy(link => (int)link.Attribute("cn"))
-					.ThenBy(link => (int)link.Attribute("vn"))
-					.Select(xml => new ParallelVerse
-					{
-						Verse = new Location
-						{
-							Book = books.FirstOrDefault(b => b.Number == (int)xml.Attribute("bn"))?.Book,
-
-						}
-					})
-					.ToArray();
-
-			}
-			else
-			{
-				refs = new XElement[0];
-				bnames = new XElement[0];
-			}
-
-			bool firstsrc = true;
 			foreach (var source in sources)
 			{
-				if (!firstsrc) verses.AppendLine();
-				firstsrc = false;
-				verses.AppendLine($"# {Path.GetFileName(source)}");
-				int book;
-				int.TryParse(Regex.Match(Path.GetFileName(source), "^[0-9][0-9]").Value, out book);
+				int bookno = Books.Number(source);
+				string bookname = Books.Name(source);
 
+				var book = Books["default", bookname];
+
+				var bookItem = new BookItem(book, Path.GetFileName(source));
+				
+				items.Add(bookItem);
 
 				var txt = File.ReadAllText(source);
 
-				if (Regex.IsMatch(txt, "%!verse-paragraphs.*?%")) verses.AppendLine("%!verse-paragraphs%");
+				// remove bibmark footnotes
+				bool replaced = true;
+				while (replaced)
+				{
+					replaced = false;
+					txt = Regex.Replace(txt, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)[ \t]*(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))[ \t]*\r?\n?", m =>
+					{
+						replaced = true;
+						return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
+					}, RegexOptions.Singleline);
+				}
 
-				bool firstchapter = true;
-				int nchapter = 0;
-				var chapters = Regex.Matches(txt, @"(?<!#)#(?!#)(\s*([0-9]*).*?)\r?\n(.*?)(?=(?<!#)#(?!#)|$)", RegexOptions.Singleline);
+				bookItem.VerseParagraphs = Regex.IsMatch(txt, "%!verse-paragraphs.*?%");
+
+				int chapterno = 0;
+				var chapters = Regex.Matches(txt, @"(?<!#)#(?!#)(\s*(?<chapter>[0-9]+).*?)\r?\n(?<text>.*?)(?=(?<!#)#(?!#)|$)", RegexOptions.Singleline);
 				foreach (Match chapter in chapters)
 				{
-					nchapter++;
-					int.TryParse(chapter.Groups[2].Value, out nchapter);
+					chapterno++;
+					int.TryParse(chapter.Groups["chapter"].Value, out chapterno);
 
-					if (!firstchapter) verses.AppendLine();
-					firstchapter = false;
-					verses.AppendLine($"## {nchapter}");
+					var chapterItem = new ChapterItem(book, chapterno);
+					items.Add(chapterItem);
+					bookItem.Items.Add(chapterItem);
 
-					string strip;
-					if (newrefs) strip = @"(\^[a-zA-Z]+\^)|(\^[a-zA-Z]+\^\[.*?\](\(.*?\))?[ \t]*\r?\n?)";
-					else strip = @"[^\^]\[.*?\](\(.*?\))?[ \t]*\r?\n?";
-					var rawch = Regex.Replace(chapter.Groups[3].Value, strip, ""); // remove markdown tags
+					var chaptertext = chapter.Groups["text"].Value;
 
-					var ms = Regex.Matches(rawch, @"\^(?<verse>[0-9]+)\^|(?<marker>\^[a-zA-Z]+\^)|(?<footnote>\^[a-zA-Z]+\^\[(?:[^\]]*)\])|(?<=\r?\n)(?<blank>\r?\n)(?!\s*?(?:\^[a-zA-Z]+\^\[|#|$))|(?<=\r?\n|^)(?<title>##.*?)(?=\r?\n|$)", RegexOptions.Singleline);
-					string vers = "0";
-					string lastvers = null;
-					StringBuilder footnotes = new StringBuilder();
-					int footnotenumber = 0;
+					var tokens = Regex.Matches(chaptertext, @"\^(?<verse>[0-9]+)\^|(?<footnote>\^\[(?:[^\]]*)\])|(?<=\r?\n)(?<blank>\r?\n)(?!\s*?(?:\^[a-zA-Z]+\^\[|#|$))|(?<=\r?\n|^)##(?<title>.*?)(?=\r?\n|$)", RegexOptions.Singleline);
+					int verse = 0;
 
-					var reflocs = refs
-						.Select(r => new Location()
+					foreach (Match token in tokens)
+						if (token.Groups["verse"].Success) verse = int.Parse(token.Groups["verse"].Value);
+						else if (token.Groups["footnote"].Success)
 						{
-							Book = bookname?.Value ?? "",
-							Chapter = ((int)r.Attribute("cn")),
-							Verse = ((int)r.Attribute("vn"))
-						};
-				}
-							);
-				foreach (Match m in ms)
-				{
-					if (m.Groups["verse"].Success)
-					{
-						vers = m.Groups["verse"].Value;
-						int nvers = 0;
-						int.TryParse(vers, out nvers);
-						if (refi < refs.Length)
-						{
-							XElement r;
-							Location loc;
+							var item = new FootnoteItem(book, token.Groups["footnote"].Value, chapterItem.Chapter, verse);
+							items.Add(item);
+							bookItem.Items.Add(item);
 
-							refi--;
-							int bookno = 0;
-							do
-							{
-								r = refs[++refi];
-
-								bookno = (int)r.Attribute("bn");
-								var bookname = bnames.FirstOrDefault(b => ((int)b.Attribute("bnumber")) == bookno);
-								loc = new Location
-								{
-									Book = bookname?.Value ?? "",
-									Chapter = ((int)r.Attribute("cn")),
-									Verse = ((int)r.Attribute("vn"))
-								};
-								loc = Verses.ParallelVerses.Map(loc);
-
-							} while ((refi + 1 < refs.Length) && (bookno < book) ||
-									(bookno == book) && (loc.Chapter < nchapter) ||
-									(bookno == book) && (loc.Chapter == nchapter) && (loc.Verse < nvers));
-
-							if ((bookno == book) && (loc.Chapter == nchapter) && (loc.Verse == nvers))
-							{
-								if (lastvers != vers) verses.Append($@"^{vers}^ ");
-								lastvers = vers;
-								var label = Label(footnotenumber++);
-								verses.Append($"^{label}^ ");
-								footnotes.Append($"^{label}^[**{nchapter}:{nvers}**");
-								bool firstlink = true;
-								foreach (var link in r.Elements("link"))
-								{
-									var linkbookname = bnames.FirstOrDefault(b => ((int)b.Attribute("bnumber")) == ((int)link.Attribute("bn")));
-									if (linkbookname != null)
-									{
-										var blong = (string)linkbookname.Value;
-										var bshort = (string)linkbookname.Attribute("bshort");
-										var linkfrom = new Location
-										{
-											Book = blong,
-											Chapter = (int)link.Attribute("cn1"),
-											Verse = (int)link.Attribute("vn1")
-										};
-										linkfrom = Verses.ParallelVerses.Map(linkfrom);
-
-										if (!firstlink) footnotes.Append(';');
-										else firstlink = false;
-										footnotes.Append($" {bshort} {linkfrom.Chapter},{linkfrom.Verse}");
-										if (link.Attribute("vn2") != null)
-										{
-											var linkto = new Location
-											{
-												Book = linkfrom.Book,
-												Chapter = linkfrom.Chapter,
-												Verse = (int)link.Attribute("vn2")
-											};
-											linkto = Verses.ParallelVerses.Map(linkto);
-
-											if (linkto.Chapter == linkfrom.Chapter) footnotes.Append($"-{linkto.Verse}");
-											else footnotes.Append($"-{linkto.Chapter},{linkto.Verse}");
-										}
-									}
-								}
-								footnotes.Append("] ");
-							}
 						}
-					}
-					else if (m.Groups["marker"].Success)
-					{
-						if (lastvers != vers) verses.Append($@"^{vers}^ ");
-						lastvers = vers;
-						verses.Append($"{m.Groups["marker"].Value} ");
-					}
-					else if (m.Groups["footnote"].Success)
-					{
-						if (lastvers != vers) verses.Append($@"^{vers}^ ");
-						lastvers = vers;
-						verses.Append(m.Groups["footnote"].Value); verses.Append(' ');
-					}
-					else if (m.Groups["blank"].Success)
-					{
-						if (lastvers != vers) verses.Append($@"^{vers}^ ");
-						lastvers = vers;
-						if (footnotes.Length > 0)
+						else if (token.Groups["blank"].Success)
 						{
-							verses.Append(footnotes);
-							verses.Append(' ');
-							footnotenumber = 0;
-							footnotes.Clear();
+							var item = new ParagraphItem(book, chapterItem.Chapter, verse);
+							items.Add(item);
+							bookItem.Items.Add(item);
+
 						}
-						verses.Append("\\ ");
-					}
-					else if (m.Groups["title"].Success)
-					{
-						if (lastvers != vers) verses.Append($@"^{vers}^ ");
-						lastvers = vers;
-						if (footnotes.Length > 0)
+						else if (token.Groups["title"].Success)
 						{
-							verses.Append(footnotes);
-							verses.Append(' ');
-							footnotenumber = 0;
-							footnotes.Clear();
+							var item = new TitleItem(book, token.Groups["title"].Value, chapterItem.Chapter, verse);
+							items.Add(item);
+							bookItem.Items.Add(item);
+
 						}
-						verses.AppendLine($"{Environment.NewLine}#{m.Groups[7].Value.Trim()}");
-					}
-				}
-				if (footnotes.Length > 0)
-				{
-					if (lastvers != vers) verses.Append($@"^{vers}^ ");
-					lastvers = vers;
-					verses.Append(footnotes);
-					verses.Append(' ');
-					footnotenumber = 0;
-					footnotes.Clear();
 				}
 			}
-		}
 
-		File.WriteAllText(frames, verses.ToString());
-			Log(frames);
-	}
-
-	static void CreateUSFM(string mdfile, string usfmfile)
-	{
-		if (IsNewer(usfmfile, mdfile)) return;
-
-		string usfm = "";
-		if (File.Exists(usfmfile)) usfm = File.ReadAllText(usfmfile);
-
-		var txt = File.ReadAllText(mdfile);
-		txt = Regex.Replace(txt, @"(^|\n)#[ \t]+([0-9]+)", @"\c $2", RegexOptions.Singleline);
-		txt = Regex.Replace(txt, @"(^|\n)##[ \t]+(.*?)\r?\n", @"\s1 $2", RegexOptions.Singleline);
-		txt = Regex.Replace(txt, @"(?<!^|\n)\^([0-9]+)\^", $@"{Environment.NewLine}\v $1", RegexOptions.Singleline);
-		txt = Regex.Replace(txt, @"\^([0-9]+)\^", @"\v $1", RegexOptions.Singleline);
-		txt = Regex.Replace(txt, @"\*", "", RegexOptions.Singleline);
-
-		// remove bibmark footnotes.
-		bool replaced = true;
-		while (replaced)
-		{
-			replaced = false;
-			txt = Regex.Replace(txt, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))[ \t]*\r?\n?", m =>
+			// import parallel verses
+			foreach (var parverse in ParallelVerseList.ParallelVerses)
 			{
-				replaced = true;
-				return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
-			}, RegexOptions.Singleline);
-		}
-		txt = Regex.Replace(txt, @"\^\[\s*(?<footpos>[0-9]+[:,][0-9]+)\s*(?<foottext>.*?)\s*\]", @"\f + \fr ${footpos} \ft ${foottext} \f*", RegexOptions.Singleline);
-		txt = Regex.Replace(txt, @"(\r?\n)([ \t]*)(\r?\n)", @"$1\p$3$3", RegexOptions.Singleline);
-		var header = Regex.Match(usfm, @"^.*?(?=\\c)", RegexOptions.Singleline).Value;
-		txt = header + txt;
+				StringBuilder footnote = new StringBuilder($"^[**{parverse.Verse.Chapter}:{parverse.Verse.Verse}** ");
+				foreach (var pv in parverse.ParallelVerses)
+				{
+					if (pv.Verse == -1) pv.Verse = 1;
+					footnote.Append($"{pv.Book.Abbreviation} {pv.Chapter},{pv.Verse}");
+					if (pv.UpToVerse > 0) footnote.Append($"-{pv.UpToVerse}");
+				}
+				items.Add(new FootnoteItem(parverse.Verse.Book, footnote.ToString(), parverse.Verse.Chapter, parverse.Verse.Verse));
+			}
 
-		File.WriteAllText(usfmfile, txt);
-		Log(usfmfile);
-	}
-	static string Marker(int n)
-	{
-		StringBuilder s = new StringBuilder();
-		while (n > 0)
+			items.Sort((FrameworkItem a, FrameworkItem b) => Location.Compare(a.Location, b.Location));
+
+			var result = new StringBuilder();
+			Location lastlocation = Location.Zero;
+
+			XElement? filexml = null, chapterxml = null;
+			XElement root = new XElement("BibleFramework");
+			foreach (var item in items)
+			{
+				if (item is BookItem)
+				{
+					var bookItem = (BookItem)item;
+					result.AppendLine($"# {bookItem.Name}");
+					filexml = new XElement("Book");
+					filexml.Add(new XAttribute("Name", bookItem.Name));
+					filexml.Add(new XAttribute("File", bookItem.File));
+					root.Add(filexml);
+				} else if (item is ChapterItem)
+				{
+					result.AppendLine($"## {item.Chapter}");
+					chapterxml = new XElement("Chapter");
+					chapterxml.Add(new XAttribute("Number", item.Chapter));
+					if (filexml == null) Console.WriteLine("Error: No file for framework.");
+					else filexml.Add(chapterxml);
+				} else if (item is TitleItem) {
+					var titleItem = (TitleItem)item;
+					if (Location.Compare(lastlocation, item.Location) != 0) result.AppendLine($"^{item.Verse}^");
+					var title = new XElement("Title");
+					title.Value = titleItem.Title;
+					title.Add(new XAttribute("Verse", item.Verse));
+					if (chapterxml != null) chapterxml.Add(title);
+					else Console.WriteLine("Error: No chapter for framework.");
+					result.AppendLine($"###{titleItem.Title}");
+				} else if (item is FootnoteItem)
+				{
+					var footnoteItem = (FootnoteItem)item;
+					if (Location.Compare(lastlocation, item.Location) != 0) result.Append($"^{item.Verse}^");
+					var footnote = new XElement("Footnote");
+					footnote.Value = footnoteItem.Footnote;
+					footnote.Add(new XAttribute("Verse", item.Verse));
+					if (chapterxml != null) chapterxml.Add(footnote);
+					else Console.WriteLine("Error: No chapter for framework.");
+					result.Append(footnoteItem.Footnote);
+				} else if (item is ParagraphItem)
+				{
+					if (Location.Compare(lastlocation, item.Location) != 0) result.Append($"^{item.Location.Verse}^");
+					var paragraph = new XElement("Paragraph");
+					paragraph.Add(new XAttribute("Verse", item.Verse));
+					if (chapterxml != null) chapterxml.Add(paragraph);
+					else Console.WriteLine("Error: No chapter for framework.");
+					result.Append("\\");
+				}
+				lastlocation = item.Location;
+			}
+
+			File.WriteAllText(framesfile, result.ToString());
+			string framesxml = Path.ChangeExtension(framesfile, ".xml");
+			root.Save(framesxml);
+			Log(framesfile);
+			Log(framesxml);
+		}
+
+		static void CreateUSFM(string mdfile, string usfmfile)
 		{
-			s.Append((char)((int)'a' + n % 26 - 1));
-			n = n / 26;
+			if (IsNewer(usfmfile, mdfile)) return;
+
+			string usfm = "";
+			if (File.Exists(usfmfile)) usfm = File.ReadAllText(usfmfile);
+
+			var txt = File.ReadAllText(mdfile);
+			txt = Regex.Replace(txt, @"(^|\n)#[ \t]+([0-9]+)", @"\c $2", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"(^|\n)##[ \t]+(.*?)\r?\n", @"\s1 $2", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"(?<!^|\n)\^([0-9]+)\^", $@"{Environment.NewLine}\v $1", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"\^([0-9]+)\^", @"\v $1", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"\*", "", RegexOptions.Singleline);
+
+			// remove bibmark footnotes.
+			bool replaced = true;
+			while (replaced)
+			{
+				replaced = false;
+				txt = Regex.Replace(txt, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[.*?(?<!\\)\]))[ \t]*\r?\n?", m =>
+				{
+					replaced = true;
+					return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
+				}, RegexOptions.Singleline);
+			}
+			txt = Regex.Replace(txt, @"\^\[\s*(?<footpos>[0-9]+[:,][0-9]+)\s*(?<foottext>.*?)\s*\]", @"\f + \fr ${footpos} \ft ${foottext} \f*", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"(\r?\n)([ \t]*)(\r?\n)", @"$1\p$3$3", RegexOptions.Singleline);
+			var header = Regex.Match(usfm, @"^.*?(?=\\c)", RegexOptions.Singleline).Value;
+			txt = header + txt;
+
+			File.WriteAllText(usfmfile, txt);
+			Log(usfmfile);
 		}
-		return s.ToString();
+		static string Marker(int n)
+		{
+			StringBuilder s = new StringBuilder();
+			while (n > 0)
+			{
+				s.Append((char)((int)'a' + n % 26 - 1));
+				n = n / 26;
+			}
+			return s.ToString();
+		}
+
+
 	}
-
-
-}
 }
