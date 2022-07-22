@@ -3,8 +3,8 @@ using System.Text;
 using System.Text.RegularExpressions;
 
 // Epub.Links = false;
-// Epub.OmitTitles = false;
-// Epub.OmitFootnotes = false;
+Epub.OmitTitles = false;
+Epub.OmitFootnotes = false;
 // Epub.CreateChapterLinks = false;
 // Epub.TableOfContentsPage = "ch001.xhtml";
 

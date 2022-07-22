@@ -28,7 +28,7 @@
 ^a^[**2:9** Fil 2,8-9]
 
 ## La necesidad de la humillación, especialmente el sufrimiento de la muerte
-^10^ Porque a él, por quien son todas las cosas y por quien son todas las cosas, le convenía, al llevar a muchos hijos a la gloria, perfeccionar por medio de los sufrimientos al autor de su salvación. ^a^ ^11^ Porque tanto el que santifica como los santificados proceden todos de uno, por lo que no se avergüenza de llamarlos hermanos, ^b^ ^12^ diciendo, “Declararé tu nombre a mis hermanos. Entre la congregación cantaré tu alabanza”.
+^10^ Porque convenía a aquel por quien son todas las cosas y por quien son todas las cosas, al llevar a muchos niños a la gloria, perfeccionar por aflicciones al autor de la salvación de ellos. ^a^ ^11^ Porque tanto el que santifica como los santificados proceden todos de uno, por lo que no se avergüenza de llamarlos hermanos, ^b^ ^12^ diciendo, “Declararé tu nombre a mis hermanos. Entre la congregación cantaré tu alabanza”.
 ^a^[**2:10** Heb 12,2] ^b^[**2:11** Mar 3,34-35; Juan 17,19; Juan 20,17]
 
 ^13^ De nuevo: “Pondré mi confianza en él”. De nuevo: “He aquí que estoy con los hijos que Dios me ha dado”.

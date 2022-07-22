@@ -15,7 +15,7 @@
 ^a^[**1:12** Hech 9,1-15]
 
 ## La conducta de Pablo antes de su conversión e inmediatamente después
-^13^ Porque habéis oído hablar de mi manera de vivir en el pasado en la religión de los judíos, de cómo perseguí sin medida a la asamblea de Dios y la asalté. ^14^ Avancé en la religión de los judíos más que muchos de mi edad entre mis compatriotas, siendo más celoso de las tradiciones de mis padres. ^a^ ^15^ Pero cuando le pareció bien a Dios, que me separó desde el vientre de mi madre y me llamó por su gracia, ^b^ ^16^ revelar a su Hijo en mí, para que lo predicara entre los gentiles, no conferencié inmediatamente con la carne y la sangre, ^c^ ^17^ ni subí a Jerusalén con los que eran apóstoles antes que yo, sino que me fui a Arabia. Luego volví a Damasco.
+^13^ Porque habéis oído hablar de mi manera de vivir en el pasado en la religión de los judíos, de cómo perseguí sin medida a la asamblea de Dios y la asalté. ^14^ Avancé en la religión de los judíos más que muchos de mi edad entre mis compatriotas, siendo más celoso de las tradiciones de mis padres. ^a^ ^15^ Pero cuando le pareció bien a Dios, que me separó desde el vientre de mi madre y me llamó por su gracia, ^b^ ^16^  revelar a su Hijo en mí, para que lo predicara entre los gentiles, no consulte inmediatamente con la carne y la sangre, ^c^ ^17^ ni subí a Jerusalén con los que eran apóstoles antes que yo, sino que me fui a Arabia. Luego volví a Damasco.
 ^a^[**1:14** Hech 23,6; Hech 26,5] ^b^[**1:15** Rom 1,1; Jer 1,5] ^c^[**1:16** Mat 16,17; Gal 2,7]
 
 ## La actividad independiente de Pablo durante el tiempo anterior a la reunión de los apóstoles
@@ -86,7 +86,7 @@
 ^12^ Os ruego, hermanos, que os hagáis como yo, porque yo también me he hecho como vosotros. No me hicisteis ningún mal, ^13^ sino que sabéis que a causa de la debilidad en la carne os prediqué la Buena Nueva la primera vez. ^a^ ^14^ Lo que fue una tentación para vosotros en mi carne, no lo despreciasteis ni lo rechazasteis, sino que me recibisteis como a un ángel de Dios, como a Cristo Jesús.
 ^a^[**4:13** Hech 16,6; 1Cor 2,3]
 
-^15^ ¿Cuál fue la bendición que disfrutaste? Porque te doy testimonio de que, si fuera posible, te habrías sacado los ojos y me los habrías dado a mí. ^16^ Entonces, ¿me he convertido en tu enemigo por decirte la verdad? ^17^ Ellos no te buscan con celo de ninguna manera buena. No, ellos desean alejarte, para que tú los busques a ellos. ^a^ ^18^ Pero siempre es bueno tener celo por una buena causa, y no sólo cuando estoy presente con vosotros.
+^15^ ¿Cuál fue la bendición que disfrutaste? Porque te doy testimonio de que, si fuera posible, te habrías sacado los ojos y me los habrías dado a mí. ^16^  Entonces, ¿me he convertido en vuestro enemigo por deciros la verdad? ^17^ Ellos no os buscan con celo de ninguna manera buena. No, ellos desean apartaros de nosotros, para que vosotros os busquéis a ellos ^a^ ^18^ Pero siempre es bueno tener celo por una buena causa, y no sólo cuando estoy presente con vosotros.
 ^a^[**4:17** Gal 1,7]
 
 ^19^ Hijitos míos, de los que vuelvo a tener dolores de parto hasta que Cristo se forme en vosotros, ^a^ ^20^ pero podría desear estar presente con vosotros ahora, y cambiar mi tono, pues estoy perplejo por vosotros.

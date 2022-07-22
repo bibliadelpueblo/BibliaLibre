@@ -16,7 +16,7 @@
 ^a^[**1:12** 2Cor 2,17; Heb 13,18; 1Cor 1,17] ^b^[**1:14** 2Cor 5,12; Fil 2,16]
 
 ## El relato del apóstol del cambio en sus planes de viaje; Indicación de su fiabilidad como apóstol de Cristo y de Dios fiel
-^15^ En esta confianza, estaba decidido a ir primero a ti, para que tuvieras un segundo beneficio, ^16^ y por ti pasar a Macedonia, y de nuevo desde Macedonia llegar a ti, y ser enviado por ti en mi viaje a Judea. ^a^ ^17^ Por tanto, cuando planeé esto, ¿mostré inconstancia? O las cosas que planeo, ¿las planeo según la carne, para que conmigo haya el “Sí, sí” y el “No, no”? ^18^ Pero como Dios es fiel, nuestra palabra para con vosotros no fue “Sí y no”. ^19^ Porque el Hijo de Dios, Jesucristo, que fue predicado entre vosotros por nosotros — por mí, Silvano y Timoteo — no fue “Sí y no”, sino que en él hay “Sí”. ^b^ ^20^ Porque por muchas que sean las promesas de Dios, en él está el “Sí”. Por tanto, también en él está el “Amén”, para gloria de Dios por medio de nosotros. ^c^
+^15^ En esta confianza, estaba decidido a ir primero a vosotros, para que tuvieras un segundo beneficio, ^16^ y por vosotros pasar a Macedonia, y de nuevo desde Macedonia llegar a vosotros, y ser enviado por vosotros en mi viaje a Judea. ^a^ ^17^ Por tanto, cuando planeé esto, ¿mostré inconstancia? O las cosas que planeo, ¿las planeo según la carne, para que conmigo haya el “Sí, sí” y el “No, no”? ^18^ Pero como Dios es fiel, nuestra palabra para con vosotros no fue “Sí y no”. ^19^ Porque el Hijo de Dios, Jesucristo, que fue predicado entre vosotros por nosotros — por mí, Silvano y Timoteo — no fue “Sí y no”, sino que en él hay “Sí”. ^b^ ^20^ Porque por muchas que sean las promesas de Dios, en él está el “Sí”. Por tanto, también en él está el “Amén”, para gloria de Dios por medio de nosotros. ^c^
 ^a^[**1:16** 1Cor 16,5-6] ^b^[**1:19** Hech 18,5] ^c^[**1:20** Apoc 3,14]
 
 ^21^ Ahora bien, el que nos establece con vosotros en Cristo y nos ungió es Dios, ^a^ ^22^ que también nos selló y nos dio el anticipo del Espíritu en nuestros corazones. ^b^
@@ -27,7 +27,7 @@
 ^a^[**1:24** 1Pe 5,3; 2Cor 4,5]
 
 # 2
-^1^ Pero esto lo determiné para mí, para no volver a ir a ti con pena. ^a^ ^2^ Porque si os hago entristecer, ¿quién me alegrará a mí, sino el que es hecho entristecer por mí? ^3^ Y os escribí esto mismo, para que cuando viniera, no tuviera tristeza de parte de aquellos de quienes debía alegrarme; teniendo confianza en todos vosotros de que mi alegría sería compartida por todos vosotros. ^4^ Porque de mucha aflicción y angustia de corazón os escribí con muchas lágrimas, no para que os entristecierais, sino para que conocierais el amor que os tengo en abundancia.
+^1^ Pero esto lo determiné para mí, para no volver a ir a vosotros con pena. ^a^ ^2^ Porque si os hago entristecer, ¿quién me alegrará a mí, sino el que es hecho entristecer por mí? ^3^ Y os escribí esto mismo, para que cuando viniera, no tuviera tristeza de parte de aquellos de quienes debía alegrarme; teniendo confianza en todos vosotros de que mi alegría sería compartida por todos vosotros. ^4^ Porque de mucha aflicción y angustia de corazón os escribí con muchas lágrimas, no para que os entristecierais, sino para que conocierais el amor que os tengo en abundancia.
 ^a^[**2:1** 1Cor 4,21; 2Cor 12,21]
 
 ## Eliminación de la brecha entre Pablo y los Corintios; Recomendación de indulgencia contra el malhechor arrepentido
@@ -43,7 +43,7 @@
 
 # 3
 ## La iglesia de Corinto como carta de recomendación para Pablo y Dios como base segura de confianza para el apóstol
-^1^ ¿Empezamos de nuevo a elogiarnos a nosotros mismos? ¿O necesitamos, como algunos, cartas de encomio para ti o de ti? ^a^ ^2^ Vosotros sois nuestra carta, escrita en nuestros corazones, conocida y leída por todos los hombres, ^b^ ^3^ siendo revelada que sois una carta de Cristo, servida por nosotros, escrita no con tinta, sino con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas que son corazones de carne. ^c^
+^1^ ¿Empezamos de nuevo a elogiarnos a nosotros mismos? ¿O necesitamos, como algunos, cartas de recomendación para vosotros, o de recomendación de vosotros? ^a^ ^2^ Vosotros sois nuestra carta, escrita en nuestros corazones, conocida y leída por todos los hombres, ^b^ ^3^ siendo revelada que sois una carta de Cristo, servida por nosotros, escrita no con tinta, sino con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas que son corazones de carne. ^c^
 ^a^[**3:1** 2Cor 5,12] ^b^[**3:2** 1Cor 9,2] ^c^[**3:3** Éxod 24,12]
 
 ^4^ Tal es la confianza que tenemos para con Dios por medio de Cristo, ^5^ no es que nos bastemos a nosotros mismos para dar cuenta de algo como de nosotros mismos, sino que nuestra suficiencia proviene de Dios, ^a^
@@ -53,7 +53,7 @@
 ^6^ quien también nos hizo suficientes como servidores de un nuevo pacto, no de la letra sino del Espíritu. Porque la letra mata, pero el Espíritu da vida. ^a^
 ^a^[**3:6** Jer 31,31; 1Cor 11,25; Rom 7,6; Juan 6,63]
 
-^7^ Pero si el servicio de la muerte, escrito y grabado en las piedras, vino con gloria, de modo que los hijos de Israel no pudieron mirar fijamente el rostro de Moisés por la gloria de su rostro, que pasaba, ^a^ ^8^ ¿no será el servicio del Espíritu con mucha más gloria? ^b^ ^9^ Porque si el servicio de la condenación tiene gloria, el servicio de la justicia excede mucho más en gloria. ^c^ ^10^ Porque ciertamente lo que ha sido hecho glorioso no ha sido hecho glorioso en este sentido, a causa de la gloria que sobrepasa. ^11^ Porque si lo que pasa fue con gloria, mucho más lo que queda es con gloria.
+^7^ Pero si el servicio de la muerte, escrito y grabado en las piedras, vino con gloria, de modo que los hijos de Israel no pudieron mirar fijamente el rostro de Moisés por la gloria de su rostro, que pasaba, ^a^ ^8^ ¿no será el servicio del Espíritu con mucha más gloria? ^b^ ^9^ Porque si el servicio de la condenación tiene gloria, el servicio de la justicia excede mucho más en gloria. ^c^ ^10^ Porque ciertamente lo que ha sido hecho glorioso no ha sido hecho glorioso en este sentido, a causa de la gloria que sobrepasa. ^11^ Porque si lo que pasa fue con gloria, mucho más glorioso lo que queda.
 ^a^[**3:7** Éxod 34,29-35] ^b^[**3:8** Gal 3,2; Gal 3,5] ^c^[**3:9** Deut 27,26; Rom 1,17; Rom 3,21]
 
 ## La diferencia entre los dos tipos de servicios es evidente tanto en sus servidores como en sus efectos
@@ -85,7 +85,7 @@
 ^a^[**5:6** Heb 11,13] ^b^[**5:7** Rom 8,24; 1Pe 1,8] ^c^[**5:8** Fil 1,23] ^d^[**5:9** Sal 39,12] ^e^[**5:10** Juan 5,29; Hech 17,31; Rom 2,16; Rom 14,10; Efes 6,8]
 
 ## Comentarios personales, especialmente sobre su relación con la comunidad
-^11^ Conociendo, pues, el temor del Señor, persuadimos a los hombres, pero somos revelados a Dios, y espero que también seamos revelados en vuestras conciencias. ^12^ Porque no nos encomendamos de nuevo a vosotros, sino que hablamos como dándoos ocasión de gloriarnos en nuestro favor, para que tengáis con qué responder a los que se glorían en apariencia y no en corazón. ^a^ ^13^ Porque si estamos fuera de sí, es por Dios. O si somos de mente sobria, es por vosotros.
+^11^ Conociendo, pues, el temor del Señor, persuadimos a los hombres, pero somos revelados a Dios, y espero que también seamos revelados en vuestras conciencias. ^12^ Porque no nos recomendamos de nuevo a vosotros, sino que hablamos como dándoos ocasión de gloriarnos en nuestro favor, para que tengáis con qué responder a los que se glorían en apariencia y no en corazón. ^a^ ^13^ Porque si estamos fuera de sí, es por Dios. O si somos de mente sobria, es por vosotros.
 ^a^[**5:12** Rom 14,7-8]
 
 ## Referencia al contenido peculiar de su sermón y la gloria de su servicio de reconciliación
@@ -103,11 +103,11 @@
 ^a^[**6:1** 2Cor 1,24] ^b^[**6:2** Luc 4,19; Luc 4,21] ^c^[**6:5** 1Cor 4,11-13; 2Cor 11,23-27] ^d^[**6:6** 1Tim 4,12] ^e^[**6:7** 2Cor 4,2; 1Cor 2,4; Efes 6,14-17] ^f^[**6:9** 2Cor 4,10-11; Sal 118,18; Hech 14,19] ^g^[**6:10** Fil 4,12-13]
 
 ## Petición solemne y amorosa a los corintios para la restauración completa de la comunión
-^11^ Nuestra boca está abierta para ti, Corintios. Nuestro corazón se ensancha. ^12^ Ustedes no están restringidos por nosotros, sino que están restringidos por sus propios afectos. ^13^ Ahora, a cambio — hablo como a mis hijos —, abrid también vosotros vuestros corazones. ^a^
+^11^ Nuestra boca se ha abierta para vosotros, Corintios. Nuestro corazón se ensancha. ^12^ Ustedes no están restringidos por nosotros, sino que están restringidos por sus propios afectos. ^13^ Ahora, a cambio — hablo como a mis hijos —, abrid también vosotros vuestros corazones. ^a^
 ^a^[**6:13** 1Cor 4,14]
 
 ## Advertencia contra los seres paganos y demanda de perfecta santificación
-^14^ No os unáis en yugo desigual con los incrédulos, porque, ¿qué comunión tienen la justicia y la iniquidad? ¿O qué comunión tiene la luz con las tinieblas? ^a^ ^15^ ¿Qué acuerdo tiene Cristo con Belial? ¿O qué parte tiene un creyente con un incrédulo? ^16^ ¿Qué acuerdo tiene el templo de Dios con los ídolos? Porque tú eres un templo del Dios vivo. Así como Dios dijo: “Habitaré en ellos y caminaré en ellos. Yo seré su Dios y ellos serán mi pueblo”. ^b^ ^17^ Por eso“‘Sal de entre ellos’, y sepárense”, dice el Señor.‘No toques ninguna cosa impura’. Te recibiré. ^c^ ^18^ Yo seré para ti un Padre. Seréis para mí hijos e hijas’. dice el Señor Todopoderoso”.
+^14^ No os unáis en yugo desigual con los incrédulos, porque, ¿qué comunión tienen la justicia y la iniquidad? ¿O qué comunión tiene la luz con las tinieblas? ^a^ ^15^ ¿Qué acuerdo tiene Cristo con Belial? ¿O qué parte tiene un creyente con un incrédulo? ^16^ ¿Qué acuerdo tiene el templo de Dios con los ídolos? Porque tú eres un templo del Dios vivo. Así como Dios dijo: “Habitaré en ellos y caminaré en ellos. Yo seré su Dios y ellos serán mi pueblo”. ^b^ ^17^ Por eso“‘Sal de entre ellos’, y sepárense”, dice el Señor.‘No toques ninguna cosa impura’. Te recibiré. ^c^ ^18^ Yo seré para vosotros un Padre. Seréis para mí hijos e hijas’. dice el Señor Todopoderoso”.
 ^a^[**6:14** Efes 5,11] ^b^[**6:16** 1Cor 3,16] ^c^[**6:17** Apoc 18,14]
 
 # 7
@@ -134,7 +134,7 @@
 ^6^ Así pues, exhortamos a Tito a que, de la misma manera que había empezado antes, completara también en vosotros esta gracia. ^7^ Pero así como abundáis en todo — en la fe, en la palabra, en el conocimiento, en toda la seriedad y en vuestro amor hacia nosotros —, procurad también abundar en esta gracia. ^a^
 ^a^[**8:7** 1Cor 1,5; 1Cor 16,1-2]
 
-^8^ No hablo por mandato, sino para probar, por medio de la seriedad de los demás, la sinceridad también de vuestro amor. ^9^ Porque ya conocéis la gracia de nuestro Señor Jesucristo, que siendo rico, se hizo pobre por vosotros, para que por su pobreza os enriquecierais. ^a^ ^10^ En esto os aconsejo: a vosotros, que fuisteis los primeros en empezar hace un año, os conviene no sólo hacer, sino también estar dispuestos. ^11^ Pero ahora completad también el hacer, para que así como hubo disposición de querer, también se complete con vuestra capacidad. ^12^ Porque si hay disposición, se acepta según lo que se tiene, no según lo que no se tiene. ^b^ ^13^ Porque no se trata de que los demás se alivien y tú te angusties, ^14^ sino de la igualdad. Vuestra abundancia en este momento suple la carencia de ellos, para que también la abundancia de ellos llegue a suplir vuestra carencia, a fin de que haya igualdad. ^15^ Como está escrito: “Al que recogió mucho no le sobró nada, y al que recogió poco no le faltó”.
+^8^ No hablo por mandato, sino para probar, por medio de la seriedad de los demás, la sinceridad también de vuestro amor. ^9^ Porque ya conocéis la gracia de nuestro Señor Jesucristo, que siendo rico, se hizo pobre por vosotros, para que por su pobreza os enriquecierais. ^a^ ^10^ En esto os aconsejo: a vosotros, que fuisteis los primeros en empezar hace un año, os conviene no sólo hacer, sino también estar dispuestos. ^11^ Pero ahora completad también el hacer, para que así como hubo disposición de querer, también se complete con vuestra capacidad. ^12^ Porque si hay disposición, se acepta según lo que se tiene, no según lo que no se tiene. ^b^ ^13^ Porque no se trata de que los demás se alivien y vosotros os angusties, ^14^ sino de la igualdad. Vuestra abundancia en este momento suple la carencia de ellos, para que también la abundancia de ellos llegue a suplir vuestra carencia, a fin de que haya igualdad. ^15^ Como está escrito: “Al que recogió mucho no le sobró nada, y al que recogió poco no le faltó”.
 ^a^[**8:9** Mat 8,20; 2Cor 2,7] ^b^[**8:12** Prov 3,27-28; Mar 12,43]
 
 ## Recomendación de Tito y los otros dos diputados de Pablo
@@ -143,7 +143,7 @@
 
 # 9
 ## Lo que Pablo ha elogiado hasta ahora de los corintios y ahora espera y qué razones lo han determinado a enviar a los hermanos por delante
-^1^ En efecto, no es necesario que os escriba sobre el servicio a los santos, ^2^ pues conozco vuestra disposición, de la que me jacto en vuestro nombre ante los de Macedonia, de que Acaya ha sido preparada desde hace un año. Vuestro celo ha despertado a muchos de ellos. ^a^ ^3^ Pero he enviado a los hermanos para que nuestra jactancia en vuestro nombre no sea en vano a este respecto, para que, tal como he dicho, estéis preparados, ^4^ no sea que, si alguien de Macedonia viene allí conmigo y os encuentra sin preparación, nosotros (por no decir vosotros) nos veamos defraudados en esta confiada jactancia. ^5^ Por tanto, he creído necesario rogar a los hermanos que se adelanten a ti y dispongan el generoso donativo que antes prometiste, para que el mismo esté preparado como una cuestión de generosidad, y no de avaricia.
+^1^ En efecto, no es necesario que os escriba sobre el servicio a los santos, ^2^ pues conozco vuestra disposición, de la que me jacto en vuestro nombre ante los de Macedonia, de que Acaya ha sido preparada desde hace un año. Vuestro celo ha despertado a muchos de ellos. ^a^ ^3^ Pero he enviado a los hermanos para que nuestra jactancia en vuestro nombre no sea en vano a este respecto, para que, tal como he dicho, estéis preparados, ^4^ no sea que, si alguien de Macedonia viene allí conmigo y os encuentra sin preparación, nosotros (por no decir vosotros) nos veamos defraudados en esta confiada jactancia. ^5^ Por tanto, he creído necesario rogar a los hermanos que se adelanten a vosotros y dispongan el generoso donativo que antes prometiste, para que el mismo esté preparado como una cuestión de generosidad, y no de avaricia.
 ^a^[**9:2** 2Cor 8,19]
 
 ## Otra invitación a participar activamente en la colección en referencia a los efectos benéficos de la obra de amor
@@ -168,18 +168,18 @@
 
 # 11
 ## Por qué y con qué derecho se alaba a sí mismo el apóstol
-^1^ Quisiera que me soportaras en una pequeña tontería, pero en verdad me soportas. ^2^ Porque estoy celoso de vosotros con celos piadosos. Porque te prometí en matrimonio a un solo esposo, para presentarte como una virgen pura a Cristo. ^a^ ^3^ Pero tengo miedo de que, de alguna manera, como la serpiente engañó a Eva con su astucia, así vuestras mentes se corrompan de la simplicidad que hay en Cristo. ^b^ ^4^ Porque si el que viene predica a otro Jesús que nosotros no predicamos, o si recibís un espíritu diferente que no recibisteis, o una “buena noticia” diferente que no aceptasteis, lo soportáis bien. ^c^ ^5^ Pues considero que no estoy en absoluto por detrás de los mejores apóstoles. ^d^ ^6^ Pero aunque soy poco hábil en la palabra, no lo soy en el conocimiento. No, en todos los sentidos nos hemos revelado a vosotros en todas las cosas. ^e^
+^1^ Quisiera que me soportaras en una pequeña tontería, pero en verdad me soportas. ^2^ Porque estoy celoso de vosotros con celos piadosos. Porque os prometí en matrimonio a un solo esposo, para presentaros como una virgen pura a Cristo. ^a^ ^3^ Pero tengo miedo de que, de alguna manera, como la serpiente engañó a Eva con su astucia, así vuestras mentes se corrompan de la simplicidad que hay en Cristo. ^b^ ^4^ Porque si el que viene predica a otro Jesús que nosotros no predicamos, o si recibís un espíritu diferente que no recibisteis, o una “buena noticia” diferente que no aceptasteis, lo soportáis bien. ^c^ ^5^ Pues considero que no estoy en absoluto por detrás de los mejores apóstoles. ^d^ ^6^ Pero aunque soy poco hábil en la palabra, no lo soy en el conocimiento. No, en todos los sentidos nos hemos revelado a vosotros en todas las cosas. ^e^
 ^a^[**11:2** Efes 5,26-27] ^b^[**11:3** Gén 3,4; Gén 3,13] ^c^[**11:4** Gal 1,8-9] ^d^[**11:5** 2Cor 12,11; 1Cor 15,10; Gal 2,6; Gal 2,9] ^e^[**11:6** 1Cor 2,1-2; 1Cor 2,13; Efes 3,4]
 
 ## La gloria de su eficacia desinteresada (gratuita) en contraste con los oponentes que trabajan al servicio de Satanás
-^7^ ¿O acaso cometí un pecado al humillarme para que ustedes sean exaltados, porque les prediqué gratuitamente la Buena Nueva de Dios? ^a^ ^8^ He robado a otras asambleas, tomándoles el sueldo para poder servirles a ustedes. ^b^ ^9^ Cuando estaba presente con vosotros y tenía necesidad, no era una carga para nadie, pues los hermanos, cuando venían de Macedonia, suplían la medida de mi necesidad. En todo me guardé de ser una carga para vosotros, y seguiré haciéndolo. ^10^ Como la verdad de Cristo está en mí, nadie me impedirá este alarde en las regiones de Acaya. ^11^ ¿Por qué? ¿Porque no os amo? Dios lo sabe.
+^7^ ¿O acaso cometí un pecado al humillarme para que ustedes sean exaltados, porque les prediqué gratuitamente la Buena Nueva de Dios? ^a^ ^8^ He robado a otras asambleas, recibiendo el sueldo para poder servirles a vosotros. ^b^ ^9^ Cuando estaba presente con vosotros y tenía necesidad, no era una carga para nadie, pues los hermanos, cuando venían de Macedonia, suplían la medida de mi necesidad. En todo me guardé de ser una carga para vosotros, y seguiré haciéndolo. ^10^ Como la verdad de Cristo está en mí, nadie me impedirá este alarde en las regiones de Acaya. ^11^ ¿Por qué? ¿Porque no os amo? Dios lo sabe.
 ^a^[**11:7** 2Cor 12,13; 1Cor 9,12-18; Mat 10,8] ^b^[**11:8** Fil 4,10; Fil 4,15]
 
 ^12^ Pero lo que hago, lo seguiré haciendo, para cortar la oportunidad a los que desean una oportunidad, para que en la que se jactan, sean reconocidos como nosotros. ^13^ Porque tales hombres son falsos apóstoles, obreros engañosos, que se hacen pasar por apóstoles de Cristo. ^a^ ^14^ Y no es de extrañar, porque hasta Satanás se hace pasar por ángel de luz. ^15^ No es gran cosa, pues, que sus siervos se hagan pasar por siervos de la justicia, cuyo fin será conforme a sus obras.
 ^a^[**11:13** 2Cor 2,17]
 
 ## Otra petición del apóstol por su tonta fama propia
-^16^ Vuelvo a decir: que nadie me tenga por necio. Pero si es así, recibidme como necio, para que yo también me gloríe un poco. ^a^ ^17^ Lo que hablo, no lo hablo según el Señor, sino como en locura, en esta confianza de jactancia. ^18^ Viendo que muchos se jactan según la carne, yo también me jactaré. ^19^ Porque tú soportas de buen grado al necio, siendo sabio. ^b^ ^20^ Porque soportáis al hombre si os esclaviza, si os devora, si os lleva cautivos, si se enaltece o si os golpea en la cara.
+^16^ Vuelvo a decir: que nadie me tenga por necio. Pero si es así, recibidme como necio, para que yo también me gloríe un poco. ^a^ ^17^ Lo que hablo, no lo hablo según el Señor, sino como en locura, en esta confianza de jactancia. ^18^ Viendo que muchos se jactan según la carne, yo también me jactaré. ^19^ Porque vosotros soportáis de buen grado al necio, siendo sabio. ^b^ ^20^ Porque soportáis al hombre si os esclaviza, si os devora, si os lleva cautivos, si se enaltece o si os golpea en la cara.
 ^a^[**11:16** 2Cor 12,6] ^b^[**11:19** 1Cor 4,10]
 
 ## El apóstol se jacta de su ascendencia, de su oficio, de la plenitud de sus sufrimientos en el servicio apostólico
@@ -209,7 +209,7 @@
 ^a^[**12:15** Fil 2,17] ^b^[**12:18** 2Cor 8,6-18]
 
 ## Rectificación de una opinión de los corintios; Miedo del apóstol por el estatus moral de la comunidad
-^19^ De nuevo, ¿crees que nos excusamos ante ti? A los ojos de Dios hablamos en Cristo. Pero todo, amados, es para vuestra edificación. ^20^ Porque tengo miedo de que tal vez, cuando vaya, no os encuentre como quiero, y que me encontréis como no deseáis, que tal vez haya contiendas, celos, arrebatos de ira, facciones, calumnias, murmuraciones pensamientos orgullosos, o disturbios, ^a^ ^21^ que de nuevo cuando venga mi Dios me humillaría ante vosotros, y lloraría por muchos de los que han pecado antes de ahora, y no se han arrepentido de la impureza, inmoralidad sexual y lujuria que cometieron. ^b^
+^19^ De nuevo, ¿crees que nos excusamos ante vosotros? A los ojos de Dios hablamos en Cristo. Pero todo, amados, es para vuestra edificación. ^20^ Porque tengo miedo de que tal vez, cuando vaya, no os encuentre como quiero, y que me encontréis como no deseáis, que tal vez haya contiendas, celos, arrebatos de ira, facciones, calumnias, murmuraciones pensamientos orgullosos, o disturbios, ^a^ ^21^ que de nuevo cuando venga mi Dios me humille ante vosotros, y lloraría por muchos de los que han pecado antes de ahora, y no se han arrepentido de la impureza, inmoralidad sexual y lujuria que cometieron. ^b^
 ^a^[**12:20** 2Cor 10,2] ^b^[**12:21** 2Cor 2,1; 2Cor 13,2]
 
 # 13
@@ -226,6 +226,6 @@
 ^11^ Finalmente, hermanos, ¡alégrense! Perfeccionaos. Confortaos. Tened la misma mentalidad. Vivan en paz, y el Dios del amor y de la paz estará con ustedes. ^a^ ^12^ Saludaos unos a otros con un beso sagrado.
 ^a^[**13:11** Rom 15,33; Fil 4,4]
 
-^13^ Todos los santos te saludan.
+^13^ Todos los santos os saludan.
 
 ^14^ La gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo estén con todos vosotros. Amén.

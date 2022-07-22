@@ -784,6 +784,8 @@ namespace BibleMarkdown
 																																  // src = Regex.Replace(src, @"(\s*\^[a-zA-Z]+\^)|(([ \t]*\^[a-zA-Z]+\^\[[^\]]*\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
 						src = Regex.Replace(src, @"%!verse-paragraphs.*?%\r?\n?", "", RegexOptions.Singleline); // remove verse paragraphs
 
+						if (bookItem.VerseParagraphs) src = $"%!verse-paragraphs%{Environment.NewLine}{src}"; 
+
 						var frames = bookItem.Items.GetEnumerator();
 						var book = Books["default", bookname];
 						FrameworkItem? frame = frames.MoveNext() ? frames.Current : null;

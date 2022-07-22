@@ -1,3 +1,4 @@
+%!verse-paragraphs%
 # 1
 ## Las dos formas de vida
 ^1^ Dichoso el hombre que no sigue el consejo de los malvados, ni se pare en el camino de los pecadores, ni sentarse en el asiento de los burlones; ^a^ ^2^ pero su deleite está en la ley de Yahvé. ^b^ En su ley medita día y noche. ^c^ ^3^ Será como un árbol plantado junto a las corrientes de agua, que produce su fruto en su temporada, cuya hoja tampoco se marchita. Todo lo que haga prosperará. ^d^ ^4^ Los malvados no son así, sino que son como la paja que el viento se lleva. ^e^ ^5^ Por lo tanto, los impíos no estarán en el juicio, ni los pecadores en la congregación de los justos. ^6^ Porque Yahvé conoce el camino de los justos, pero el camino de los impíos perecerá. ^f^

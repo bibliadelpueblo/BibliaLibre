@@ -56,7 +56,7 @@ namespace BibleMarkdown
 				}, RegexOptions.Singleline);// ^^ footnotes
 			} while (replaced);
 
-			if (text.Contains(@"%!verse-paragraphs.*?%")) // each verse in a separate paragraph. For use in Psalms & Proverbs
+			if (Regex.IsMatch(text, @"%!verse-paragraphs.*?%", RegexOptions.Singleline)) // each verse in a separate paragraph. For use in Psalms & Proverbs
 			{
 				text = Regex.Replace(text, @"(\^[0-9]+\^[^#]*?)(\s*?)(?=\^[0-9]+\^)", "$1\\\n", RegexOptions.Singleline);
 			}
