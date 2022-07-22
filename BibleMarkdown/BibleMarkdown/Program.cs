@@ -27,6 +27,7 @@ namespace BibleMarkdown
 		public static bool FromSource = false;
 		public static bool Imported = false;
 		public static Func<string, string> Preprocess = s => s;
+		public static Func<string, string> PreprocessImportUSFM = s => s;
 		static string language;
 		public static string Language
 		{

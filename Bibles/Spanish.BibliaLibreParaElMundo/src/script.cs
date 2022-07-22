@@ -25,5 +25,7 @@ Program.Preprocess = txt => Regex.Replace(txt, @"(?<!(^|\n)#.*?)[A-ZÑÓÍÉÁÚ
         str.Append("]{.smallcaps}");
         return str.ToString();
     }, RegexOptions.Singleline);
+Program.PreprocessImportUSFM = txt =>
+    Regex.Replace(txt, @"\\ms1.*?\r?\n", "", RegexOptions.Singleline);
 
 Program.Log("Added epub rule.");

@@ -9,16 +9,16 @@ q1 Nos alegraremos y nos regocijaremos en ti. ¡Alabaremos tu amor más que el v
 q1 Hacen bien en quererte.
 
 ## Queja de belleza de niña en riesgo
- ^5^ Soy oscura, pero encantadora, vosotras, hijas de Jerusalén, como las tiendas de Kedar, como las cortinas de Salomón. ^6^ No me mires fijamente porque soy oscuro, porque el sol me ha quemado. Los hijos de mi madre estaban enfadados conmigo. Me hicieron guardián de los viñedos. No he mantenido mi propio viñedo.
+^5^ Soy oscura, pero encantadora, vosotras, hijas de Jerusalén, como las tiendas de Kedar, como las cortinas de Salomón. ^6^ No me mires fijamente porque soy oscuro, porque el sol me ha quemado. Los hijos de mi madre estaban enfadados conmigo. Me hicieron guardián de los viñedos. No he mantenido mi propio viñedo.
 
 ## Solicitud de la novia para una cita
- ^7^ Dime, tú a quien ama mi alma, donde apacienta su rebaño, donde se descansa al mediodía; pues por qué he de ser como quien está veladojunto a los rebaños de tus compañeros?
+^7^ Dime, tú a quien ama mi alma, donde apacienta su rebaño, donde se descansa al mediodía; pues por qué he de ser como quien está veladojunto a los rebaños de tus compañeros?
 **Amante** \
 q1 ^8^ Si no lo sabes, la más bella entre las mujeres, seguir las huellas de las ovejas. Haz pastar a tus cabritos junto a las tiendas de los pastores. ^a^
 ^a^[**1:8** Cant 5,9; Cant 6,1]
 
 ## Dulce charla de amor
- ^9^ Te he comparado, mi amor, a un corcel en los carros del Faraón. ^10^ Tus mejillas son hermosas con los pendientes, su cuello con cadenas de joyas.
+^9^ Te he comparado, mi amor, a un corcel en los carros del Faraón. ^10^ Tus mejillas son hermosas con los pendientes, su cuello con cadenas de joyas.
 **Amigos** \
 q1 ^11^ Te haremos pendientes de oro, con tachuelas de plata.
 **Amado** \
@@ -48,7 +48,7 @@ q1 ^16^ Mi amado es mío, y yo soy suya. Navega entre los lirios. ^17^ Hasta que
 ^a^[**2:5** Cant 5,8] ^b^[**2:6** Cant 8,3] ^c^[**2:7** Cant 3,5; Cant 8,4]
 
 ## Amor primavera
- ^8^ Todos ellos manejan la espada y son expertos en la guerra. Todo hombre tiene su espada en el muslo, por el miedo en la noche. ^9^ El rey Salomón se hizo un carruajedel bosque del Líbano. ^a^ ^10^ Hizo sus pilares de plata, su fondo de oro, su asiento de púrpura, el centro de la misma está pavimentado con amor, de las hijas de Jerusalén. ^11^ Salid, hijas de Sión, y ved al rey Salomón, con la corona con la que su madre le ha coronado, en el día de sus bodas, en el día de la alegría de su corazón.
+^8^ Todos ellos manejan la espada y son expertos en la guerra. Todo hombre tiene su espada en el muslo, por el miedo en la noche. ^9^ El rey Salomón se hizo un carruajedel bosque del Líbano. ^a^ ^10^ Hizo sus pilares de plata, su fondo de oro, su asiento de púrpura, el centro de la misma está pavimentado con amor, de las hijas de Jerusalén. ^11^ Salid, hijas de Sión, y ved al rey Salomón, con la corona con la que su madre le ha coronado, en el día de sus bodas, en el día de la alegría de su corazón.
 ^a^[**2:9** Cant 2,17; Cant 8,14]
 
 # 4 **Amante** \
@@ -56,7 +56,7 @@ p ^1^ He aquí que eres hermosa, amor mío. Contempla, eres hermosa. Tus ojos so
 ^a^[**2:14** Cant 4,7]
 
 ## Dos suspiros de amor de la novia
- ^15^ una fuente de jardines, un pozo de aguas vivas, corrientes que fluyen desde el Líbano.
+^15^ una fuente de jardines, un pozo de aguas vivas, corrientes que fluyen desde el Líbano.
 **Amado** \
 q1 ^16^ ¡Despierta, viento del norte, y ven, sur! Sopla en mi jardín, para que sus especias fluyan. Deja que mi amado entre en su jardín, y probar sus preciosos frutos. ^a^
 ^a^[**2:16** Cant 6,3]

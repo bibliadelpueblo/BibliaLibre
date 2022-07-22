@@ -39,6 +39,9 @@ namespace BibleMarkdown
 					foreach (var source in sources)
 					{
 						var src = File.ReadAllText(source);
+
+						src = PreprocessImportUSFM(src);
+
 						var bookm = Regex.Matches(src, @"(\\h|\\toc1|\\toc2|\\toc3)\s+(.*?)$", RegexOptions.Multiline)
 							.Select(m => m.Groups[2].Value.Trim())
 							.OrderBy(name => name.Where(ch => ch == ' ').Count())
@@ -826,6 +829,8 @@ namespace BibleMarkdown
 
 							return txt;
 						}, RegexOptions.Singleline);
+
+						src = Regex.Replace(src, @"(?<=(^|\n))[ \t]+(\^[0-9]+\^)", "$2", RegexOptions.Singleline);
 
 						// remove bibmark footnotes
 						/* replaced = true;
