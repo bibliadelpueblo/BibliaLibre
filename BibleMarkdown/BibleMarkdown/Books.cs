@@ -34,7 +34,8 @@ namespace BibleMarkdown
 		{
 			get
 			{
-				return base[language][bookname];
+				if (base[language].ContainsKey(bookname)) return base[language][bookname];
+				else return new Book() { Number = 0, Abbreviation = "", Language = language, Name = bookname };
 			}
 		}
 
@@ -52,15 +53,19 @@ namespace BibleMarkdown
 		}
 		public void Load(string path)
 		{
-			if (Count != 0) return;
+			if (Count > 1) return;
 
 			var namesfile = Path.Combine(path, "src", "booknames.xml");
+
+			if (!File.Exists(namesfile)) return;
 
 			XElement xml;
 			using (var file = File.Open(namesfile, FileMode.Open, FileAccess.Read))
 			{
 				xml = XElement.Load(file);
 			}
+
+			Program.Log($"Importing booknames.xml.");
 
 			Program.Language = (string?)xml.Attribute("default") ?? Language;
 
@@ -92,8 +97,12 @@ namespace BibleMarkdown
 
 		public void Load(IEnumerable<string> mdfiles)
 		{
-			var books = new SortedList<string, Book>();
-			Books.Add("default", books);
+			if (!ContainsKey("default")) Add("default", new SortedList<string, Book>());
+			
+			var books = this["default"];
+
+			if (books.Count > 0) return;
+
 			foreach (var file in mdfiles)
 			{
 				var book = new Book() { Language = null, Abbreviation = "", Name = Name(file), Number = Number(file) };
@@ -106,7 +115,7 @@ namespace BibleMarkdown
 		public static BookList Books = new BookList();
 	}
 
-	public struct ParallelVerse
+	public class ParallelVerse
 	{
 		public Location Verse;
 		public Location[] ParallelVerses;
@@ -114,13 +123,21 @@ namespace BibleMarkdown
 
 	public class ParallelVerseList : List<ParallelVerse>
 	{
+		
 		public void Load(string path)
+		{
+			_path = path;
+		}
+
+		void RunLoad(string path)
 		{
 			if (Count != 0) return;
 
 			var linklistfile = Path.Combine(path, "src", "linklist.xml");
 
 			if (!File.Exists(linklistfile)) return;
+
+			Program.Log("Importing linklist.xml");
 
 			BookList.Books.Load(path);
 
@@ -137,20 +154,26 @@ namespace BibleMarkdown
 					var book = BookList.Books[(int)x.Attribute("bn")];
 					return new ParallelVerse
 					{
-						Verse = new Location
+						Verse = VerseMaps.ParallelVerses.Map(new Location
 						{
 							Book = book,
 							Chapter = (int)x.Attribute("cn"),
 							Verse = (int)x.Attribute("vn"),
-							UpToVerse = 0
-						},
+							UpToVerse = null
+						}),
 						ParallelVerses = x.Elements("link")
-							.Select(link => new Location
+							.Select(link =>
 							{
-								Book = book,
-								Chapter = (int)link.Attribute("cn"),
-								Verse = (int)link.Attribute("vn1"),
-								UpToVerse = link.Attribute("vn2") != null ? (int)link.Attribute("vn2") : 0
+								var linkbook = BookList.Books[(int)link.Attribute("bn")];
+								var verse = VerseMaps.ParallelVerses.Map(new Location
+								{
+									Book = linkbook,
+									Chapter = (int)link.Attribute("cn1"),
+									Verse = Math.Abs((int)link.Attribute("vn1")),
+									UpToVerse = link.Attribute("vn2") != null ? (int)link.Attribute("vn2") : null
+								});
+								verse.Verse = verse.Verse < 1 ? 1 : verse.Verse;
+								return verse;
 							})
 							.ToArray()
 					};
@@ -162,7 +185,14 @@ namespace BibleMarkdown
 			foreach (var verse in verses) Add(verse);
 		}
 
-		public static ParallelVerseList ParallelVerses = new ParallelVerseList();
+		static ParallelVerseList parallelVerses = new ParallelVerseList();
+		public static string _path;
+		public static ParallelVerseList ParallelVerses
+		{
+			get {
+				if (parallelVerses.Count == 0 && _path != null) parallelVerses.RunLoad(_path);
+				return parallelVerses; }
+		}
 	}
 	public class VerseMaps : Dictionary<string, SortedList<Location, Location>>
 	{
@@ -175,25 +205,40 @@ namespace BibleMarkdown
 
 		public Location Map(Location verse)
 		{
+			if (verse.Verse < 0) verse.Verse = 1;
+			if (verse.Verse == 0)
+			{
+
+			}
 			SortedList<Location, Location> book;
 			if (!TryGetValue(verse.Book.Name, out book)) return verse;
-			int i = 0, j = book.Count, m = 0;
-			Location key = null, dest;
-			while (i != j)
+			int i = 0, j = book.Count-1, m = 0;
+			m = (i + j + 1) / 2;
+			Location key = book.Keys[m];
+			Location dest;
+			while (j>i)
 			{
-				m = i + j / 2;
-				key = book.Keys[m];
+
 				if (key.Chapter > verse.Chapter || key.Chapter == verse.Chapter && key.Verse > verse.Verse)
 				{
-					j = m;
+					j = m-1;
+				}
+				else if (key.Chapter == verse.Chapter && key.Verse == verse.Verse)
+				{
+					i = j = m;
 				}
 				else
-				{
+				{ 
 					i = m;
 				}
+				m = (i + j + 1) / 2;
+				key = book.Keys[m];
 			}
-			dest = book.Values[m];
+			if (key != null && (key.Chapter > verse.Chapter || key.Chapter == verse.Chapter && key.Verse > verse.Verse)) {
+				key = null;
+			}
 			if (key == null) return verse;
+			dest = book.Values[m];
 			if ((key.Chapter <= verse.Chapter || key.Chapter == verse.Chapter && key.Verse <= verse.Verse))
 			{
 				var loc = new Location
@@ -204,21 +249,21 @@ namespace BibleMarkdown
 				};
 				if (loc.Chapter != verse.Chapter || loc.Verse != verse.Verse)
 				{
-					Console.WriteLine($"Verse mapped from {verse.Book} {verse.Chapter}:{verse.Verse} to {loc.Chapter}:{loc.Verse}.");
+					Program.Log($"Verse mapped from {verse.Book.Name} {verse.Chapter}:{verse.Verse} to {loc.Chapter}:{loc.Verse}.");
 				}
-				if (verse.UpToVerse != 0)
+				if (verse.UpToVerse.HasValue)
 				{
 					var upto = new Location
 					{
 						Book = verse.Book,
 						Chapter = verse.Chapter,
-						Verse = verse.UpToVerse,
-						UpToVerse = 0
+						Verse = verse.UpToVerse ?? 0,
+						UpToVerse = null
 					};
 					upto = Map(upto);
-					if (upto.Chapter != loc.Chapter)
+					if (upto.Chapter != loc.Chapter || upto.Verse < loc.Verse)
 					{
-						loc.UpToVerse = 0;
+						loc.UpToVerse = null;
 					}
 					else
 					{
@@ -241,7 +286,7 @@ namespace BibleMarkdown
 			Clear();
 
 			var src = File.ReadAllText(mapfile);
-			var books = Regex.Matches(mapfile, @"(?<=^|\n)#\s+(?<book>.*?\r?\n)(?<map>.*?)(?=\r?\n#\s)", RegexOptions.Singleline)
+			var books = Regex.Matches(src, @"(?<=^|\n)#\s+(?<book>.*?)[ \t]*\r?\n(?<map>.*?)(?=\r?\n#\s)", RegexOptions.Singleline)
 				.Select(m => new
 				{
 					Book = m.Groups["book"].Value,
@@ -249,8 +294,13 @@ namespace BibleMarkdown
 				});
 			foreach (var book in books)
 			{
-				var bookfromlist = BookList.Books.All.FirstOrDefault(b => b.Name == book.Book);
+				var bookfromlist = BookList.Books[Program.Language].Values.FirstOrDefault(b => b.Name == book.Book);
 
+				if (bookfromlist == null)
+				{
+					Program.Log($"Error: No book called {book.Book} booknames.xml");
+					continue;
+				}
 				var map = Regex.Matches(book.Map, @"([0-9]+):([0-9]+)=>([0-9]+):([0-9]+)", RegexOptions.Singleline)
 					.Select(m => new
 					{
@@ -284,24 +334,24 @@ namespace BibleMarkdown
 		public static void Load(string path)
 		{
 			BookList.Books.Load(path);
+
+			var srcpath = Path.Combine(path, "src");
+			ParallelVerses.Import(Path.Combine(srcpath, "parallelversesmap.md"));
+			Paragraphs.Import(Path.Combine(srcpath, "paragraphsmap.md"));
+			Titles.Import(Path.Combine(srcpath, "titlesmap.md"));
+			Footnotes.Import(Path.Combine(srcpath, "footnotesmap.md"));
+			DualLanguage.Import(Path.Combine(srcpath, "duallanguagemap.md"));
+
 			ParallelVerseList.ParallelVerses.Load(path);
-
-			path = Path.Combine(path, "src");
-			ParallelVerses.Import(Path.Combine(path, "parallelversesmap.md"));
-			Paragraphs.Import(Path.Combine(path, "paragraphsmap.md"));
-			Titles.Import(Path.Combine(path, "titlesmap.md"));
-			Footnotes.Import(Path.Combine(path, "footnotesmap.md"));
-			DualLanguage.Import(Path.Combine(path, "duallanguagemap.md"));
-
 		}
 	}
 
-	public class Location
+	public class Location: IComparable<Location>
 	{
 		public Book Book;
 		public int Chapter;
 		public int Verse;
-		public int UpToVerse;
+		public int? UpToVerse;
 
 		public static Location Zero => new Location()
 		{
@@ -311,19 +361,22 @@ namespace BibleMarkdown
 		};
 		public static int Compare(Location a, Location b)
 		{
-			if (a.Book.Number < b.Book.Number) return - 1;
+			if (a.Book.Number < b.Book.Number) return -1;
 			if (a.Book.Number > b.Book.Number) return 1;
 			if (a.Chapter < b.Chapter) return -1;
 			if (a.Chapter > b.Chapter) return 1;
 			if (a.Verse < b.Verse) return -1;
 			if (a.Verse > b.Verse) return 1;
 			return 0;
- 		}
+		}
+		int IComparable<Location>.CompareTo(Location? other) => Compare(this, other);
 	}
 
 	partial class Program
 	{
 		public static BookList Books => BookList.Books;
 		public static ParallelVerseList ParallelVerses => ParallelVerseList.ParallelVerses;
+
+		public static void Init() { Books.Add("default", new SortedList<string, Book>()); }
 	}
 }

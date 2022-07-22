@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BibleMarkdown
+﻿namespace BibleMarkdown
 {
-	public enum FrameworkItemClass { Book, Chapter, Title, Footnote, Paragraph }
-	public class FrameworkItem
+	public enum FrameworkItemClass { Book, Chapter, Title, Footnote, Paragraph, Verse }
+	public class FrameworkItem: IComparable<FrameworkItem>
 	{
 		public Location Location;
 		public FrameworkItemClass Class
@@ -34,6 +28,17 @@ namespace BibleMarkdown
 				Chapter = chapter,
 				Verse = verse
 			};
+		}
+
+		public int CompareTo(FrameworkItem? other)
+		{
+			var sameloc = Location.Compare(Location, other.Location);
+			if (sameloc != 0) return sameloc;
+			if (this is ParagraphItem || this is TitleItem)
+				if (!(other is ParagraphItem ||other is TitleItem)) return 1;
+				else return 0;
+			else if (other is ParagraphItem || other is TitleItem) return -1;
+			else return 0;
 		}
 	}
 
@@ -68,7 +73,6 @@ namespace BibleMarkdown
 	public class FootnoteItem : FrameworkItem
 	{
 		public string Footnote;
-
 		public FootnoteItem(Book book, string footnote, int chapter, int verse) : base(book, chapter, verse)
 		{
 			Footnote = footnote;

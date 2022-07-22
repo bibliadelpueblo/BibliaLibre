@@ -1,6 +1,6 @@
 chcp 65001
-..\..\bin\bibmark.exe -replace /HERRN/[Herrn]{.smallcaps}/HERR/[Herr]{.smallcaps}}
+..\..\bin\bibmark.exe
 
 cd tex
-xelatex Bibel11ptB5 -output-directory=..\out\pdf
+xelatex Bibel11ptB5 -output-directory=..\out
 cd ..

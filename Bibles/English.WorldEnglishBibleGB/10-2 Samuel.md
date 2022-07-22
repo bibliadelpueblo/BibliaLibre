@@ -325,7 +325,7 @@ The woman answered, “As your soul lives, my lord the king, no one can turn to 
 ^22^ Joab fell to the ground on his face, showed respect, and blessed the king. Joab said, “Today your servant knows that I have found favour in your sight, my lord, O king, in that the king has performed the request of his servant.” 
 
 ^23^ So Joab arose and went to Geshur, and brought Absalom to Jerusalem. ^24^ The king said, “Let him return to his own house, but let him not see my face.” So Absalom returned to his own house, and didn’t see the king’s face. ^25^ Now in all Israel there was no one to be so much praised as Absalom for his beauty. From the sole of his foot even to the crown of his head there was no defect in him. ^26^ When he cut the hair of his head (now it was at every year’s end that he cut it; because it was heavy on him, therefore he cut it), he weighed the hair of his head at two hundred shekels,^a^ after the king’s weight. ^27^ Three sons were born to Absalom, and one daughter, whose name was Tamar. She was a woman with a beautiful face. ^28^ Absalom lived two full years in Jerusalem, and he didn’t see the king’s face. ^29^ Then Absalom sent for Joab, to send him to the king, but he would not come to him. Then he sent again a second time, but he would not come. ^30^ Therefore he said to his servants, “Behold, Joab’s field is near mine, and he has barley there. Go and set it on fire.” So Absalom’s servants set the field on fire. 
-^a^[**14:26** A shekel is about 10 grams or about 0. 35 ounces, so 200 shekels is about 2 kilograms or about 4. 4 pounds.]
+^a^[**14:26** A shekel is about 10 grams or about 0.35 ounces, so 200 shekels is about 2 kilograms or about 4.4 pounds.]
 
 ^31^ Then Joab arose and came to Absalom to his house, and said to him, “Why have your servants set my field on fire?” 
 
@@ -629,4 +629,4 @@ David said, “To buy your threshing floor, to build an altar to the LORD, that 
 ^22^ Araunah said to David, “Let my lord the king take and offer up what seems good to him. Behold, the cattle for the burnt offering, and the threshing sledges and the yokes of the oxen for the wood. ^23^ All this, O king, does Araunah give to the king.” Araunah said to the king, “May the LORD your God accept you.” 
 
 ^24^ The king said to Araunah, “No, but I will most certainly buy it from you for a price. I will not offer burnt offerings to the LORD my God which cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels^a^ of silver. ^25^ David built an altar to the LORD there, and offered burnt offerings and peace offerings. So the LORD was entreated for the land, and the plague was removed from Israel. 
-^a^[**24:24** A shekel is about 10 grams or about 0. 35 ounces, so 50 shekels is about 0. 5 kilograms or 1. 1 pounds.]
+^a^[**24:24** A shekel is about 10 grams or about 0.35 ounces, so 50 shekels is about 0.5 kilograms or 1.1 pounds.]

@@ -365,7 +365,7 @@
 ^a^[**14:22** Gr. consejos del pueblo. ] ^b^[**14:23** Gr. los libros que se designan para el pueblo. ]
 
 ^24^ Después de esto, Simón envió a Numenio a Roma con un gran escudo de oro de mil minas de peso,^a^ para confirmar la alianza con ellos.
-^a^[**14:24** 1. 000 minas son unos 499 kg o 1. 098 libras. ]
+^a^[**14:24** 1.000 minas son unos 499 kg o 1.098 libras. ]
 
 ^25^ Pero cuando el pueblo oyó estas cosas, dijo: “¿Qué agradecimiento debemos dar a Simón y a sus hijos? ^26^ Porque él y sus hermanos y la casa de su padre se han hecho fuertes, y han combatido y ahuyentado a los enemigos de Israel, y han confirmado la libertad de Israel.^a^ ” ^27^ Y escribieron en tablas de bronce, y las pusieron sobre columnas en el monte Sión. Esta es la copia de la escritura:
 ^a^[**14:26** Ver 1 Macabeos 2:18. ]

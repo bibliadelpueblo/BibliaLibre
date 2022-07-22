@@ -1,8 +1,0 @@
-﻿"Error: This error will block the book from publishing. The error needs to be fixed in order to publish."
-"Notice: This issue will not block the book from publishing and can be safely ignored as there will be no impact."
-"Type","Description","Source File","Line Number","Text Preceding Warning or Error","Recommended Fix"
-"Notice","W14001: Hyperlink not resolved:  C:\Users\simon\AppData\Local\Temp\f9c45672-cf09-477d-af50-951d51e28ebe\cTemp\mTemp\mbp_7E6_6_1B_14_12_32_2EC_1D10_3930_1\EPUB\text\ch046.xhtml#verse-Juan-8-31","","","",""
-"Notice","W14002: Some hyperlinks could not be resolved.","","","",""
-"Notice","W14018: Cover invalid and was not built with the book :   C:\Users\simon\AppData\Local\Temp\f9c45672-cf09-477d-af50-951d51e28ebe\cTemp\mTemp\mbp_7E6_6_1B_14_12_32_2EC_1D10_3930_1\EPUB\media\HardCover.svg","","","",""
-"Notice","W14012: media file format not supported  C:\Users\simon\AppData\Local\Temp\f9c45672-cf09-477d-af50-951d51e28ebe\cTemp\mTemp\mbp_7E6_6_1B_14_12_32_2EC_1D10_3930_1\EPUB\media\HardCover.svg","","","",""
-"Error","Kindle conversion has encountered an internal error.","","","","Our team needs to investigate this error in order to resolve. Please go to the KPR Help Menu and select the Send Feedback option to inform us of this issue. Please make sure you are signed in and we will provide you with more information within 3 business days. Thank you."

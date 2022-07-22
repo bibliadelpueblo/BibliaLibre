@@ -88,7 +88,7 @@
 
 # 5 
 ^1^ Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him. ^2^ He opened his mouth and taught them, saying, ^3^ “Blessed are the poor in spirit, for theirs is the Kingdom of Heaven.^a^ ^4^ Blessed are those who mourn, for they shall be comforted.^b^ ^5^ Blessed are the gentle, for they shall inherit the earth.^c^ ^d^ ^6^ Blessed are those who hunger and thirst for righteousness, for they shall be filled. ^7^ Blessed are the merciful, for they shall obtain mercy. ^8^ Blessed are the pure in heart, for they shall see God. ^9^ Blessed are the peacemakers, for they shall be called children of God. ^10^ Blessed are those who have been persecuted for righteousness’ sake, for theirs is the Kingdom of Heaven. 
-^a^[**5:3** Isaiah 57:15; 66:2] ^b^[**5:4** Isaiah 61:2; 66:10, 13] ^c^[**5:5** or, land.] ^d^[**5:5** Psalm 37:11]
+^a^[**5:3** Isaiah 57:15; 66:2] ^b^[**5:4** Isaiah 61:2; 66:10,13] ^c^[**5:5** or, land.] ^d^[**5:5** Psalm 37:11]
 
 ^11^ “Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake. ^12^ Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you. 
 
@@ -496,14 +496,14 @@ He left them and departed. ^5^ The disciples came to the other side and had forg
 They were exceedingly sorry. 
 
 ^24^ When they had come to Capernaum, those who collected the didrachma coins^a^ came to Peter, and said, “Doesn’t your teacher pay the didrachma?” ^25^ He said, “Yes.” 
-^a^[**17:24** A didrachma is a Greek silver coin worth 2 drachmas, about as much as 2 Roman denarii, or about 2 days’ wages. It was commonly used to pay the half-shekel temple tax, because 2 drachmas were worth one half shekel of silver. A shekel is about 10 grams or about 0. 35 ounces.]
+^a^[**17:24** A didrachma is a Greek silver coin worth 2 drachmas, about as much as 2 Roman denarii, or about 2 days’ wages. It was commonly used to pay the half-shekel temple tax, because 2 drachmas were worth one half shekel of silver. A shekel is about 10 grams or about 0.35 ounces.]
 
 When he came into the house, Jesus anticipated him, saying, “What do you think, Simon? From whom do the kings of the earth receive toll or tribute? From their children, or from strangers?” 
 
 ^26^ Peter said to him, “From strangers.” 
 
 Jesus said to him, “Therefore the children are exempt. ^27^ But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin.^a^ Take that, and give it to them for me and you.”
-^a^[**17:27** A stater is a silver coin equivalent to four Attic or two Alexandrian drachmas, or a Jewish shekel: just exactly enough to cover the half-shekel temple tax for two people. A shekel is about 10 grams or about 0. 35 ounces, usually in the form of a silver coin.] 
+^a^[**17:27** A stater is a silver coin equivalent to four Attic or two Alexandrian drachmas, or a Jewish shekel: just exactly enough to cover the half-shekel temple tax for two people. A shekel is about 10 grams or about 0.35 ounces, usually in the form of a silver coin.] 
 
 # 18 
 ^1^ In that hour the disciples came to Jesus, saying, “Who then is greatest in the Kingdom of Heaven?” 
@@ -521,10 +521,10 @@ Jesus said to him, “Therefore the children are exempt. ^27^ But, lest we cause
 ^21^ Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?” 
 
 ^22^ Jesus said to him, “I don’t tell you until seven times, but, until seventy times seven. ^23^ Therefore the Kingdom of Heaven is like a certain king who wanted to settle accounts with his servants. ^24^ When he had begun to settle, one was brought to him who owed him ten thousand talents.^a^ ^25^ But because he couldn’t pay, his lord commanded him to be sold, with his wife, his children, and all that he had, and payment to be made. ^26^ The servant therefore fell down and knelt before him, saying, ‘Lord, have patience with me, and I will repay you all!’ ^27^ The lord of that servant, being moved with compassion, released him and forgave him the debt. 
-^a^[**18:24** Ten thousand talents (about 300 metric tonnes of silver) represents an extremely large sum of money, equivalent to about 60, 000, 000 denarii, where one denarius was typical of one day’s wages for agricultural labour.]
+^a^[**18:24** Ten thousand talents (about 300 metric tonnes of silver) represents an extremely large sum of money, equivalent to about 60,000,000 denarii, where one denarius was typical of one day’s wages for agricultural labour.]
 
 ^28^ “But that servant went out and found one of his fellow servants who owed him one hundred denarii,^a^ and he grabbed him and took him by the throat, saying, ‘Pay me what you owe!’ 
-^a^[**18:28** 100 denarii was about one sixtieth of a talent, or about 500 grams (1. 1 pounds) of silver.]
+^a^[**18:28** 100 denarii was about one sixtieth of a talent, or about 500 grams (1.1 pounds) of silver.]
 
 ^29^ “So his fellow servant fell down at his feet and begged him, saying, ‘Have patience with me, and I will repay you!’ ^30^ He would not, but went and cast him into prison until he should pay back that which was due. ^31^ So when his fellow servants saw what was done, they were exceedingly sorry, and came and told their lord all that was done. ^32^ Then his lord called him in and said to him, ‘You wicked servant! I forgave you all that debt because you begged me. ^33^ Shouldn’t you also have had mercy on your fellow servant, even as I had mercy on you?’ ^34^ His lord was angry, and delivered him to the tormentors until he should pay all that was due to him. ^35^ So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.” 
 

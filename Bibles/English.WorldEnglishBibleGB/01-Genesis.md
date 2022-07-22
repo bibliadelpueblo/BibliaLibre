@@ -276,7 +276,7 @@ She said, “I am fleeing from the face of my mistress Sarai.”
 They said, “Very well, do as you have said.” 
 
 ^6^ Abraham hurried into the tent to Sarah, and said, “Quickly prepare three seahs^a^ of fine meal, knead it, and make cakes.” ^7^ Abraham ran to the herd, and fetched a tender and good calf, and gave it to the servant. He hurried to dress it. ^8^ He took butter, milk, and the calf which he had dressed, and set it before them. He stood by them under the tree, and they ate. 
-^a^[**18:6** 1 seah is about 7 litres or 1. 9 gallons or 0. 8 pecks]
+^a^[**18:6** 1 seah is about 7 litres or 1.9 gallons or 0.8 pecks]
 
 ^9^ They asked him, “Where is Sarah, your wife?” 
 
@@ -428,7 +428,7 @@ He said, “Here I am.”
 ^12^ Abraham bowed himself down before the people of the land. ^13^ He spoke to Ephron in the audience of the people of the land, saying, “But if you will, please hear me. I will give the price of the field. Take it from me, and I will bury my dead there.” 
 
 ^14^ Ephron answered Abraham, saying to him, ^15^ “My lord, listen to me. What is a piece of land worth four hundred shekels of silver^a^ between me and you? Therefore bury your dead.” 
-^a^[**23:15** A shekel is about 10 grams, so 400 shekels would be about 4 kg. or 8. 8 pounds.]
+^a^[**23:15** A shekel is about 10 grams, so 400 shekels would be about 4 kg. or 8.8 pounds.]
 
 ^16^ Abraham listened to Ephron. Abraham weighed to Ephron the silver which he had named in the hearing of the children of Heth, four hundred shekels of silver, according to the current merchants’ standard. 
 
@@ -448,7 +448,7 @@ He said, “Here I am.”
 ^18^ She said, “Drink, my lord.” She hurried, and let down her pitcher on her hand, and gave him a drink. ^19^ When she had finished giving him a drink, she said, “I will also draw for your camels, until they have finished drinking.” ^20^ She hurried, and emptied her pitcher into the trough, and ran again to the well to draw, and drew for all his camels. 
 
 ^21^ The man looked steadfastly at her, remaining silent, to know whether the LORD had made his journey prosperous or not. ^22^ As the camels had done drinking, the man took a golden ring of half a shekel^a^ weight, and two bracelets for her hands of ten shekels weight of gold, ^23^ and said, “Whose daughter are you? Please tell me. Is there room in your father’s house for us to stay?” 
-^a^[**24:22** A shekel is about 10 grams or about 0. 35 ounces.]
+^a^[**24:22** A shekel is about 10 grams or about 0.35 ounces.]
 
 ^24^ She said to him, “I am the daughter of Bethuel the son of Milcah, whom she bore to Nahor.” ^25^ She said moreover to him, “We have both straw and feed enough, and room to lodge in.” 
 

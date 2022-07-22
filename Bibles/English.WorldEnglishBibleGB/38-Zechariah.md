@@ -86,7 +86,7 @@ I answered, “I see a flying scroll; its length is twenty cubits,^a^ and its wi
 ^6^ I said, “What is it?” 
 
 He said, “This is the ephah^a^ basket that is appearing.” He said moreover, “This is their appearance in all the land— ^7^ and behold, a lead cover weighing one talent^b^ was lifted up—and there was a woman sitting in the middle of the ephah^c^ basket.” ^8^ He said, “This is Wickedness;” and he threw her down into the middle of the ephah basket; and he threw the lead weight on its mouth. 
-^a^[**5:6** An ephah is a measure of volume of about 22 litres, 5. 8 U. S. gallons, or about 2/3 of a bushel. ] ^b^[**5:7** A talent is about 30 kilograms or 66 pounds.] ^c^[**5:7** 1 ephah is about 22 litres or about 2/3 of a bushel]
+^a^[**5:6** An ephah is a measure of volume of about 22 litres, 5.8 U. S. gallons, or about 2/3 of a bushel. ] ^b^[**5:7** A talent is about 30 kilograms or 66 pounds.] ^c^[**5:7** 1 ephah is about 22 litres or about 2/3 of a bushel]
 
 ^9^ Then I lifted up my eyes and saw, and behold, there were two women; and the wind was in their wings. Now they had wings like the wings of a stork, and they lifted up the ephah basket between earth and the sky. ^10^ Then I said to the angel who talked with me, “Where are these carrying the ephah basket?” 
 

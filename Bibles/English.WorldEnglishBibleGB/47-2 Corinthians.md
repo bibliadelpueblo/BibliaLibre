@@ -65,7 +65,7 @@ Behold, now is the acceptable time. Behold, now is the day of salvation. ^3^ We 
 ^11^ Our mouth is open to you, Corinthians. Our heart is enlarged. ^12^ You are not restricted by us, but you are restricted by your own affections. ^13^ Now in return—I speak as to my children—you also open your hearts. 
 
 ^14^ Don’t be unequally yoked with unbelievers, for what fellowship do righteousness and iniquity have? Or what fellowship does light have with darkness? ^15^ What agreement does Christ have with Belial? Or what portion does a believer have with an unbeliever? ^16^ What agreement does a temple of God have with idols? For you are a temple of the living God. Even as God said, “I will dwell in them and walk in them. I will be their God and they will be my people.”^a^ ^17^ Therefore “‘Come out from amongst them, and be separate,’ says the Lord. ‘Touch no unclean thing. I will receive you.^b^ ^18^ I will be to you a Father. You will be to me sons and daughters,’ 
-^a^[**6:16** Leviticus 26:12; Jeremiah 32:38; Ezekiel 37:27] ^b^[**6:17** Isaiah 52:11; Ezekiel 20:34, 41]
+^a^[**6:16** Leviticus 26:12; Jeremiah 32:38; Ezekiel 37:27] ^b^[**6:17** Isaiah 52:11; Ezekiel 20:34,41]
 
 says the Lord Almighty.”^a^
 ^a^[**6:18** 2 Samuel 7:14; 7:8] 

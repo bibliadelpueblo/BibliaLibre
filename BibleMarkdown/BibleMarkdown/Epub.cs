@@ -16,6 +16,7 @@ namespace BibleMarkdown
 		public static string TableOfContentsPage = "ch001.xhtml";
 		public static bool OmitTitles = true;
 		public static bool OmitParagraphs = true;
+		public static bool OmitFootnotes = true;
 		public static Func<int, string> Page = book => $"ch{book:d3}.xhtml";
 
 	}
@@ -26,7 +27,8 @@ namespace BibleMarkdown
 		{
 			if (IsNewer(epubfile, mdfile) || TwoLanguage) return;
 
-			string? book = Regex.Match(Path.GetFileNameWithoutExtension(mdfile), "^[0-9.]*-?(?<name>.*?)$", RegexOptions.Singleline)?.Groups["name"]?.Value;
+			string? bookname = Books.Name(mdfile);
+			int bookno = Books.Number(mdfile);
 
 			var src = File.ReadAllText(mdfile);
 
@@ -40,37 +42,35 @@ namespace BibleMarkdown
 				src = Regex.Replace(src, @"(?<=\r?\n)[ \t]*\r?\n(?!#)", "", RegexOptions.Singleline);
 			}
 
-			src = Regex.Replace(src, @"(?:^|\n)#[ \t]+(?<chapter>[0-9]+).*?(?=(?:\r?\n#[ \t]+[0-9]+|$))", chapter =>
+			if (Epub.OmitFootnotes)
 			{
-				return Regex.Replace(chapter.Value, @"\^(?<verse>[0-9]+)\^", verse =>
-				{
-					return @$"[{verse.Groups["verse"].Value}]{{#verse-{Id(book)}-{chapter.Groups["chapter"].Value}-{verse.Groups["verse"].Value} .bibleverse}}";
-				}, RegexOptions.Singleline);
-			}, RegexOptions.Singleline);
+
+			}
 
 			if (Epub.CreateChapterLinks)
 			{
 				var chapters = Regex.Matches(src, @"(?<=(^|\n)#\s+)[0-9]+", RegexOptions.Singleline);
-				var links = new StringBuilder($@"<div id=""chapterlinks-{Id(book)}"" class=""chapterlinks"">");
+				var links = new StringBuilder($@"<div id=""chapterlinks-{Id(bookname)}"" class=""chapterlinks"">");
 				foreach (Match chapter in chapters)
 				{
-					links.Append($"[{chapter.Value}](#chapter-{Id(book)}-{chapter.Value}) ");
+					links.Append($"[{chapter.Value}](#chapter-{Id(bookname)}-{chapter.Value}) ");
 				}
 				links.Append("</div>");
 				links.AppendLine(); links.AppendLine();
 				links.Append(src);
 				src = links.ToString();
-				src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2](#book-{Id(book)}) {{.unnumbered #chapter-{Id(book)}-$2}}", RegexOptions.Singleline);
+				// src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2](#book-{Id(book)}) {{.unnumbered #chapter-{Id(book)}-$2}}", RegexOptions.Singleline);
+				src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2]({Epub.Page(bookno)}) {{.unnumbered #chapter-{Id(bookname)}-$2}}", RegexOptions.Singleline);
 			}
 
 			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
 
 			if (Epub.Links)
 			{
-				var pattern = String.Join('|', Books.All.Select(b => b.Abbreviation).ToArray());
+				var pattern = String.Join('|', Books[Language].Values.Select(b => b.Abbreviation).ToArray());
 				src = Regex.Replace(src, @$"(?<book>{pattern})\s+(?<chapter>[0-9]+)([:,](?<verse>[0-9]+)(-(?<upto>[0-9]+))?)", m =>
 				{
-					var bookabr = Books.All.FirstOrDefault(b => b.Abbreviation == m.Groups["book"].Value);
+					var bookabr = Books[Language].Values.FirstOrDefault(b => b.Abbreviation == m.Groups["book"].Value);
 					var chapter = m.Groups["chapter"].Value;
 					var verse = m.Groups["verse"].Value;
 					if (!m.Groups["upto"].Success) return $@"[{m.Groups["book"].Value} {m.Groups["chapter"].Value},{m.Groups["verse"].Value}]({Epub.Page(bookabr.Number)}#verse-{Id(bookabr.Name)}-{chapter}-{verse})";
@@ -78,9 +78,17 @@ namespace BibleMarkdown
 				}, RegexOptions.Singleline);
 
 			}
-			src = $@"# [{book}]({Epub.TableOfContentsPage}) {{#book-{Id(book)}}}{Environment.NewLine}{Environment.NewLine}{src}";
+			src = Regex.Replace(src, @"(?:^|\n)#[ \t]+(?<chapter>[0-9]+).*?(?=(?:\r?\n#[ \t]+[0-9]+|$))", chapter =>
+			{
+				return Regex.Replace(chapter.Value, @"\[(?<verse>[0-9]+)\]\{\.bibleverse\}", verse =>
+				{
+					return @$"[{verse.Groups["verse"].Value}]{{#verse-{Id(bookname)}-{chapter}-{verse}}}";
+				}, RegexOptions.Singleline);
+			}, RegexOptions.Singleline);
+
+			src = $@"# [{bookname}]({Epub.TableOfContentsPage}) {{#book-{Id(bookname)}}}{Environment.NewLine}{Environment.NewLine}{src}";
 			File.WriteAllText(epubfile, src);
-			Log(epubfile);
+			LogFile(epubfile);
 		}
 	}
 }

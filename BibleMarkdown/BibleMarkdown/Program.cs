@@ -26,6 +26,7 @@ namespace BibleMarkdown
 		public static bool LowercaseFirstWords = false;
 		public static bool FromSource = false;
 		public static bool Imported = false;
+		public static Func<string, string> Preprocess = s => s;
 		static string language;
 		public static string Language
 		{
@@ -35,7 +36,7 @@ namespace BibleMarkdown
 				if (value != language)
 				{
 					language = value;
-					Console.WriteLine($"Language set to {language}");
+					Log($"Language set to {language}");
 				}
 			}
 		}
@@ -57,19 +58,25 @@ namespace BibleMarkdown
 			}
 		}
 
-		static void Log(string file)
+		static void LogFile(string file)
 		{
-			Log(file, "Created");
+			LogFile(file, "Created");
 		}
-		static void Log(string file, string label)
+		static void LogFile(string file, string label)
 		{
 			var current = Directory.GetCurrentDirectory();
 			if (file.StartsWith(current))
 			{
 				file = file.Substring(current.Length);
 			}
-			Console.WriteLine($"{label} {file}.");
+			Log($"{label} {file}.");
+		}
 
+		static StringBuilder log = new StringBuilder();
+		public static void Log(string text)
+		{
+			log.AppendLine(text);
+			Console.WriteLine(text);
 		}
 		public static bool IsNewer(string file, string srcfile)
 		{
@@ -140,8 +147,11 @@ namespace BibleMarkdown
 			}
 			CreateFramework(path);
 			CreateVerseStats(path);
+			Log("Convert to Pandoc...");
 			var files = Directory.EnumerateFiles(path, "*.md");
 			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
+			File.WriteAllText(Path.Combine(outpath, "bibmark.log"), log.ToString());
+			log.Clear();
 		}
 
 		static void RunScript(string path)
@@ -150,7 +160,7 @@ namespace BibleMarkdown
 			if (!File.Exists(file)) return;
 
 			var txt = File.ReadAllText(file);
-			Log(file, "Run script");
+			LogFile(file, "Run script");
 
 			try
 			{
@@ -160,7 +170,7 @@ namespace BibleMarkdown
 				result.Wait();
 			} catch (Exception e)
 			{
-				Console.WriteLine(e);
+				Log(e.ToString());
 			}
 			
 		}
@@ -184,7 +194,9 @@ namespace BibleMarkdown
 			// Get the version of the current application.
 			var asm = Assembly.GetExecutingAssembly();
 			var aname = asm.GetName();
-			Console.WriteLine($"{aname.Name}, v{aname.Version.Major}.{aname.Version.Minor}.{aname.Version.Build}.{aname.Version.Revision}");
+			Log($"{aname.Name}, v{aname.Version.Major}.{aname.Version.Minor}.{aname.Version.Build}.{aname.Version.Revision}");
+
+			Init();
 
 			InitPandoc();
 			var exe = new Uri(System.Reflection.Assembly.GetExecutingAssembly().CodeBase).LocalPath;
@@ -237,6 +249,7 @@ namespace BibleMarkdown
 				}
 				else if (File.Exists(path)) ProcessFileAsync(path).Wait();
 			}
+
 		}
 	}
 }

@@ -33,7 +33,7 @@
 
 # 3 
 ^1^ Joshua got up early in the morning; and they moved from Shittim and came to the Jordan, he and all the children of Israel. They camped there before they crossed over. ^2^ After three days, the officers went through the middle of the camp; ^3^ and they commanded the people, saying, “When you see the ark of the LORD your God’s covenant, and the Levitical priests bearing it, then leave your place and follow it. ^4^ Yet there shall be a space between you and it of about two thousand cubits^a^ by measure—don’t come closer to it—that you may know the way by which you must go; for you have not passed this way before.” 
-^a^[**3:4** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres, so 2, 000 cubits is about 920 metres.]
+^a^[**3:4** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimetres, so 2,000 cubits is about 920 metres.]
 
 ^5^ Joshua said to the people, “Sanctify yourselves; for tomorrow the LORD will do wonders amongst you.” 
 
@@ -102,7 +102,7 @@ The men went up and spied out Ai. ^3^ They returned to Joshua, and said to him, 
 ^16^ So Joshua rose up early in the morning and brought Israel near by their tribes. The tribe of Judah was selected. ^17^ He brought near the family of Judah, and he selected the family of the Zerahites. He brought near the family of the Zerahites man by man, and Zabdi was selected. ^18^ He brought near his household man by man, and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was selected. ^19^ Joshua said to Achan, “My son, please give glory to the LORD, the God of Israel, and make confession to him. Tell me now what you have done! Don’t hide it from me!” 
 
 ^20^ Achan answered Joshua, and said, “I have truly sinned against the LORD, the God of Israel, and this is what I have done. ^21^ When I saw amongst the plunder a beautiful Babylonian robe, two hundred shekels^a^ of silver, and a wedge of gold weighing fifty shekels, then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent, with the silver under it.” 
-^a^[**7:21** A shekel is about 10 grams or about 0. 35 ounces.]
+^a^[**7:21** A shekel is about 10 grams or about 0.35 ounces.]
 
 ^22^ So Joshua sent messengers, and they ran to the tent. Behold, it was hidden in his tent, with the silver under it. ^23^ They took them from the middle of the tent, and brought them to Joshua and to all the children of Israel. They laid them down before the LORD. ^24^ Joshua, and all Israel with him, took Achan the son of Zerah, the silver, the robe, the wedge of gold, his sons, his daughters, his cattle, his donkeys, his sheep, his tent, and all that he had; and they brought them up to the valley of Achor. ^25^ Joshua said, “Why have you troubled us? The LORD will trouble you today.” All Israel stoned him with stones, and they burnt them with fire and stoned them with stones. ^26^ They raised over him a great heap of stones that remains to this day. The LORD turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day. 
 

@@ -133,7 +133,7 @@ These are the families of the Levites according to their fathers’ houses.
 ^29^ The families of the sons of Kohath shall encamp on the south side of the tabernacle. ^30^ The prince of the fathers’ house of the families of the Kohathites shall be Elizaphan the son of Uzziel. ^31^ Their duty shall be the ark, the table, the lamp stand, the altars, the vessels of the sanctuary with which they minister, the screen, and all its service. ^32^ Eleazar the son of Aaron the priest shall be prince of the princes of the Levites, with the oversight of those who keep the requirements of the sanctuary. 
 
 ^33^ Of Merari was the family of the Mahlites and the family of the Mushites. These are the families of Merari. ^34^ Those who were counted of them, according to the number of all the males from a month old and upward, were six thousand and two hundred.^a^ 
-^a^[**3:34** + 22, 000 is the sum rounded to 2 significant digits. The sum of the Gershonites, Kohathites, and Merarites given above is 22, 300, but the traditional Hebrew text has the number rounded to 2 significant digits, not 3 significant digits.]
+^a^[**3:34** + 22,000 is the sum rounded to 2 significant digits. The sum of the Gershonites, Kohathites, and Merarites given above is 22,300, but the traditional Hebrew text has the number rounded to 2 significant digits, not 3 significant digits.]
 
 ^35^ The prince of the fathers’ house of the families of Merari was Zuriel the son of Abihail. They shall encamp on the north side of the tabernacle. ^36^ The appointed duty of the sons of Merari shall be the tabernacle’s boards, its bars, its pillars, its sockets, all its instruments, all its service, ^37^ the pillars of the court around it, their sockets, their pins, and their cords. 
 
@@ -144,10 +144,10 @@ These are the families of the Levites according to their fathers’ houses.
 ^42^ Moses counted, as the LORD commanded him, all the firstborn amongst the children of Israel. ^43^ All the firstborn males according to the number of names from a month old and upward, of those who were counted of them, were twenty-two thousand and two hundred and seventy-three. 
 
 ^44^ The LORD spoke to Moses, saying, ^45^ “Take the Levites instead of all the firstborn amongst the children of Israel, and the livestock of the Levites instead of their livestock; and the Levites shall be mine. I am the LORD. ^46^ For the redemption of the two hundred and seventy-three of the firstborn of the children of Israel who exceed the number of the Levites, ^47^ you shall take five shekels apiece for each one; according to the shekel^a^ of the sanctuary you shall take them (the shekel is twenty gerahs^b^ ); ^48^ and you shall give the money, with which their remainder is redeemed, to Aaron and to his sons.” 
-^a^[**3:47** A shekel is about 10 grams or about 0. 35 ounces.] ^b^[**3:47** A gerah is about 0. 5 grams or about 7. 7 grains.]
+^a^[**3:47** A shekel is about 10 grams or about 0.35 ounces.] ^b^[**3:47** A gerah is about 0.5 grams or about 7.7 grains.]
 
 ^49^ Moses took the redemption money from those who exceeded the number of those who were redeemed by the Levites; ^50^ from the firstborn of the children of Israel he took the money, one thousand and three hundred and sixty-five shekels,^a^ according to the shekel of the sanctuary; ^51^ and Moses gave the redemption money to Aaron and to his sons, according to the LORD’s word, as the LORD commanded Moses.
-^a^[**3:50** A shekel is about 10 grams or about 0. 35 ounces, so 1365 shekels is about 13. 65 kilograms or about 30 pounds.] 
+^a^[**3:50** A shekel is about 10 grams or about 0.35 ounces, so 1365 shekels is about 13.65 kilograms or about 30 pounds.] 
 
 # 4 
 ^1^ The LORD spoke to Moses and to Aaron, saying, ^2^ “Take a census of the sons of Kohath from amongst the sons of Levi, by their families, by their fathers’ houses, ^3^ from thirty years old and upward even until fifty years old, all who enter into the service to do the work in the Tent of Meeting. 
@@ -229,7 +229,7 @@ These are the families of the Levites according to their fathers’ houses.
 ^12^ He who offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah, ^13^ and his offering was: 
 
 one silver platter, the weight of which was one hundred and thirty shekels,^a^ 
-^a^[**7:13** A shekel is about 10 grams or about 0. 35 ounces.]
+^a^[**7:13** A shekel is about 10 grams or about 0.35 ounces.]
 
 one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a meal offering; 
 
@@ -583,7 +583,7 @@ The LORD’s glory appeared in the Tent of Meeting to all the children of Israel
 
 # 15 
 ^1^ The LORD spoke to Moses, saying, ^2^ “Speak to the children of Israel, and tell them, ‘When you have come into the land of your habitations, which I give to you, ^3^ and will make an offering by fire to the LORD—a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasant aroma to the LORD, of the herd, or of the flock— ^4^ then he who offers his offering shall offer to the LORD a meal offering of one tenth of an ephah^a^ of fine flour mixed with one fourth of a hin^b^ of oil. ^5^ You shall prepare wine for the drink offering, one fourth of a hin, with the burnt offering or for the sacrifice, for each lamb. 
-^a^[**15:4** 1 ephah is about 22 litres or about 2/3 of a bushel] ^b^[**15:4** A hin is about 6. 5 litres or 1. 7 gallons.]
+^a^[**15:4** 1 ephah is about 22 litres or about 2/3 of a bushel] ^b^[**15:4** A hin is about 6.5 litres or 1.7 gallons.]
 
 ^6^ “‘For a ram, you shall prepare for a meal offering two tenths of an ephah^a^ of fine flour mixed with the third part of a hin of oil; ^7^ and for the drink offering you shall offer the third part of a hin of wine, of a pleasant aroma to the LORD. ^8^ When you prepare a bull for a burnt offering or for a sacrifice, to accomplish a vow, or for peace offerings to the LORD, ^9^ then he shall offer with the bull a meal offering of three tenths of an ephah^b^ of fine flour mixed with half a hin of oil; ^10^ and you shall offer for the drink offering half a hin of wine, for an offering made by fire, of a pleasant aroma to the LORD. ^11^ Thus it shall be done for each bull, for each ram, for each of the male lambs, or of the young goats. ^12^ According to the number that you shall prepare, so you shall do to everyone according to their number. 
 ^a^[**15:6** 1 ephah is about 22 litres or about 2/3 of a bushel] ^b^[**15:9** 1 ephah is about 22 litres or about 2/3 of a bushel]
@@ -671,7 +671,7 @@ The LORD’s glory appeared to all the congregation. ^20^ The LORD spoke to Mose
 ^12^ “I have given to you all the best of the oil, all the best of the vintage, and of the grain, the first fruits of them which they give to the LORD. ^13^ The first-ripe fruits of all that is in their land, which they bring to the LORD, shall be yours. Everyone who is clean in your house shall eat of it. 
 
 ^14^ “Everything devoted in Israel shall be yours. ^15^ Everything that opens the womb, of all flesh which they offer to the LORD, both of man and animal, shall be yours. Nevertheless, you shall surely redeem the firstborn of man, and you shall redeem the firstborn of unclean animals. ^16^ You shall redeem those who are to be redeemed of them from a month old, according to your estimation, for five shekels of money, according to the shekel^a^ of the sanctuary, which weighs twenty gerahs.^b^ 
-^a^[**18:16** A shekel is about 10 grams or about 0. 35 ounces.] ^b^[**18:16** A gerah is about 0. 5 grams or about 7. 7 grains.]
+^a^[**18:16** A shekel is about 10 grams or about 0.35 ounces.] ^b^[**18:16** A gerah is about 0.5 grams or about 7.7 grains.]
 
 ^17^ “But you shall not redeem the firstborn of a cow, or the firstborn of a sheep, or the firstborn of a goat. They are holy. You shall sprinkle their blood on the altar, and shall burn their fat for an offering made by fire, for a pleasant aroma to the LORD. ^18^ Their meat shall be yours, as the wave offering breast and as the right thigh, it shall be yours. ^19^ All the wave offerings of the holy things which the children of Israel offer to the LORD, I have given you and your sons and your daughters with you, as a portion forever. It is a covenant of salt forever before the LORD to you and to your offspring with you.” 
 
@@ -890,7 +890,7 @@ These are those who came out of the land of Egypt. ^5^ Reuben, the firstborn of 
 
 # 28 
 ^1^ The LORD spoke to Moses, saying, ^2^ “Command the children of Israel, and tell them, ‘See that you present my offering, my food for my offerings made by fire, as a pleasant aroma to me, in their due season.’ ^3^ You shall tell them, ‘This is the offering made by fire which you shall offer to the LORD: male lambs a year old without defect, two day by day, for a continual burnt offering. ^4^ You shall offer the one lamb in the morning, and you shall offer the other lamb at evening, ^5^ with one tenth of an ephah^a^ of fine flour for a meal offering, mixed with the fourth part of a hin^b^ of beaten oil. ^6^ It is a continual burnt offering which was ordained in Mount Sinai for a pleasant aroma, an offering made by fire to the LORD. ^7^ Its drink offering shall be the fourth part of a hin^c^ for each lamb. You shall pour out a drink offering of strong drink to the LORD in the holy place. ^8^ The other lamb you shall offer at evening. As the meal offering of the morning, and as its drink offering, you shall offer it, an offering made by fire, for a pleasant aroma to the LORD. 
-^a^[**28:5** 1 ephah is about 22 litres or about 2/3 of a bushel] ^b^[**28:5** A hin is about 6. 5 litres or 1. 7 gallons.] ^c^[**28:7** One hin is about 6. 5 litres, so 1/4 hin is about 1. 6 litres or 1. 7 quarts.]
+^a^[**28:5** 1 ephah is about 22 litres or about 2/3 of a bushel] ^b^[**28:5** A hin is about 6.5 litres or 1.7 gallons.] ^c^[**28:7** One hin is about 6.5 litres, so 1/4 hin is about 1.6 litres or 1.7 quarts.]
 
 ^9^ “‘On the Sabbath day, you shall offer two male lambs a year old without defect, and two tenths of an ephah^a^ of fine flour for a meal offering mixed with oil, and its drink offering: ^10^ this is the burnt offering of every Sabbath, in addition to the continual burnt offering and its drink offering. 
 ^a^[**28:9** 1 ephah is about 22 litres or about 2/3 of a bushel]
@@ -958,7 +958,7 @@ These are those who came out of the land of Egypt. ^5^ Reuben, the firstborn of 
 ^48^ The officers who were over the thousands of the army, the captains of thousands, and the captains of hundreds, came near to Moses. ^49^ They said to Moses, “Your servants have taken the sum of the men of war who are under our command, and there lacks not one man of us. ^50^ We have brought the LORD’s offering, what every man found: gold ornaments, armlets, bracelets, signet rings, earrings, and necklaces, to make atonement for our souls before the LORD.” 
 
 ^51^ Moses and Eleazar the priest took their gold, even all worked jewels. ^52^ All the gold of the wave offering that they offered up to the LORD, of the captains of thousands, and of the captains of hundreds, was sixteen thousand and seven hundred and fifty shekels.^a^ ^53^ The men of war had taken booty, every man for himself. ^54^ Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the children of Israel before the LORD.
-^a^[**31:52** A shekel is about 10 grams or about 0. 35 ounces, so 16, 750 shekels is about 167. 5 kilograms or about 368. 5 pounds.] 
+^a^[**31:52** A shekel is about 10 grams or about 0.35 ounces, so 16,750 shekels is about 167.5 kilograms or about 368.5 pounds.] 
 
 # 32 
 ^1^ Now the children of Reuben and the children of Gad had a very great multitude of livestock. They saw the land of Jazer, and the land of Gilead. Behold, the place was a place for livestock. ^2^ Then the children of Gad and the children of Reuben came and spoke to Moses, and to Eleazar the priest, and to the princes of the congregation, saying, ^3^ “Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon, ^4^ the land which The LORD struck before the congregation of Israel, is a land for livestock; and your servants have livestock.” ^5^ They said, “If we have found favour in your sight, let this land be given to your servants for a possession. Don’t bring us over the Jordan.” 

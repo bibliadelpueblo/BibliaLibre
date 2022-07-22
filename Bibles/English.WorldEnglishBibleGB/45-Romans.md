@@ -113,7 +113,7 @@
 ^1^ I tell the truth in Christ. I am not lying, my conscience testifying with me in the Holy Spirit ^2^ that I have great sorrow and unceasing pain in my heart. ^3^ For I could wish that I myself were accursed from Christ for my brothers’ sake, my relatives according to the flesh ^4^ who are Israelites; whose is the adoption, the glory, the covenants, the giving of the law, the service, and the promises; ^5^ of whom are the fathers, and from whom is Christ as concerning the flesh, who is over all, God, blessed forever. Amen. 
 
 ^6^ But it is not as though the word of God has come to nothing. For they are not all Israel that are of Israel. ^7^ Neither, because they are Abraham’s offspring, are they all children. But, “your offspring will be accounted as from Isaac.”^a^ ^8^ That is, it is not the children of the flesh who are children of God, but the children of the promise are counted as heirs. ^9^ For this is a word of promise: “At the appointed time I will come, and Sarah will have a son.”^b^ ^10^ Not only so, but Rebekah also conceived by one, by our father Isaac. ^11^ For being not yet born, neither having done anything good or bad, that the purpose of God according to election might stand, not of works, but of him who calls,^c^ ^12^ it was said to her, “The elder will serve the younger.”^d^ ^13^ Even as it is written, “Jacob I loved, but Esau I hated.”^e^ 
-^a^[**9:7** Genesis 21:12] ^b^[**9:9** Genesis 18:10, 14] ^c^[**9:11** NU puts the phrase “not of works, but of him who calls” at the beginning of verse 12 instead of the end of verse 11.] ^d^[**9:12** Genesis 25:23] ^e^[**9:13** Malachi 1:2-3]
+^a^[**9:7** Genesis 21:12] ^b^[**9:9** Genesis 18:10,14] ^c^[**9:11** NU puts the phrase “not of works, but of him who calls” at the beginning of verse 12 instead of the end of verse 11.] ^d^[**9:12** Genesis 25:23] ^e^[**9:13** Malachi 1:2-3]
 
 ^14^ What shall we say then? Is there unrighteousness with God? May it never be! ^15^ For he said to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”^a^ ^16^ So then it is not of him who wills, nor of him who runs, but of God who has mercy. ^17^ For the Scripture says to Pharaoh, “For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth.”^b^ ^18^ So then, he has mercy on whom he desires, and he hardens whom he desires. 
 ^a^[**9:15** Exodus 33:19] ^b^[**9:17** Exodus 9:16]
@@ -154,13 +154,13 @@
 
 # 11 
 ^1^ I ask then, did God reject his people? May it never be! For I also am an Israelite, a descendant of Abraham, of the tribe of Benjamin. ^2^ God didn’t reject his people, whom he foreknew. Or don’t you know what the Scripture says about Elijah? How he pleads with God against Israel: ^3^ “Lord, they have killed your prophets. They have broken down your altars. I am left alone, and they seek my life.”^a^ ^4^ But how does God answer him? “I have reserved for myself seven thousand men who have not bowed the knee to Baal.”^b^ ^5^ Even so too at this present time also there is a remnant according to the election of grace. ^6^ And if by grace, then it is no longer of works; otherwise grace is no longer grace. But if it is of works, it is no longer grace; otherwise work is no longer work. 
-^a^[**11:3** 1 Kings 19:10, 14] ^b^[**11:4** 1 Kings 19:18]
+^a^[**11:3** 1 Kings 19:10,14] ^b^[**11:4** 1 Kings 19:18]
 
 ^7^ What then? That which Israel seeks for, that he didn’t obtain, but the chosen ones obtained it, and the rest were hardened. ^8^ According as it is written, “God gave them a spirit of stupor, eyes that they should not see, and ears that they should not hear, to this very day.” ^a^ 
 ^a^[**11:8** Deuteronomy 29:4; Isaiah 29:10]
 
 ^9^ David says, “Let their table be made a snare, a trap, a stumbling block, and a retribution to them. ^10^ Let their eyes be darkened, that they may not see. Always keep their backs bent.”^a^ 
-^a^[**11:10** Psalm 69:22, 23]
+^a^[**11:10** Psalm 69:22,23]
 
 ^11^ I ask then, did they stumble that they might fall? May it never be! But by their fall salvation has come to the Gentiles, to provoke them to jealousy. ^12^ Now if their fall is the riches of the world, and their loss the riches of the Gentiles, how much more their fullness! 
 
@@ -194,7 +194,7 @@
 ^1^ Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God. ^2^ Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgement. ^3^ For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority, ^4^ for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn’t bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil. ^5^ Therefore you need to be in subjection, not only because of the wrath, but also for conscience’ sake. ^6^ For this reason you also pay taxes, for they are servants of God’s service, continually doing this very thing. ^7^ Therefore give everyone what you owe: if you owe taxes, pay taxes; if customs, then customs; if respect, then respect; if honour, then honour. 
 
 ^8^ Owe no one anything, except to love one another; for he who loves his neighbour has fulfilled the law. ^9^ For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,”^a^ “You shall not covet,” ^b^ and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbour as yourself.”^c^ ^10^ Love doesn’t harm a neighbour. Love therefore is the fulfilment of the law. 
-^a^[**13:9** TR adds “You shall not give false testimony,”] ^b^[**13:9** Exodus 20:13-15, 17; Deuteronomy 5:17-19, 21] ^c^[**13:9** Leviticus 19:18]
+^a^[**13:9** TR adds “You shall not give false testimony,”] ^b^[**13:9** Exodus 20:13-15,17; Deuteronomy 5:17-19,21] ^c^[**13:9** Leviticus 19:18]
 
 ^11^ Do this, knowing the time, that it is already time for you to awaken out of sleep, for salvation is now nearer to us than when we first believed. ^12^ The night is far gone, and the day is near. Let’s therefore throw off the deeds of darkness, and let’s put on the armour of light. ^13^ Let’s walk properly, as in the day; not in revelling and drunkenness, not in sexual promiscuity and lustful acts, and not in strife and jealousy. ^14^ But put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts. 
 

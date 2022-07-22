@@ -1,5 +1,3 @@
-
-\usepackage{multicol}
 \usepackage[hyperfootnotes=false]{hyperref}
 \usepackage{pdfpages}
 \usepackage{fontspec}
@@ -18,6 +16,11 @@
 \usepackage{alphalph}
 \usepackage{paracol}
 \usepackage{comment}
+\usepackage{titlesec}
+\usepackage{xcolor}
+%\usepackage{bidi}
+\usepackage{multicol}
+
 \extrafloats{100}
 \maxdeadcycles=200
 \renewcommand{\thefootnote}{\alphalph{\value{footnote}}}
@@ -62,6 +65,9 @@
 \renewcommand{\chaptermark}[1]{\markboth{\chaptername~\thechapter~-~ #1}{}}
 \pagestyle{empty}
 
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Huge}
+
 \fancyhf{}
 
 \fancypagestyle{bible}{%
@@ -97,3 +103,10 @@
 {\small\thecontentslabel \quad}%<numbered-entry-format>
 {}% <numberless-entry-format>
 {\small\mdseries\titlerule*[0.75em]{.}\bfseries\contentspage}
+
+\defaultfontfeatures{Scale=MatchLowercase} %so that different fonts have same xheight
+\newfontfamily\hebrewfont[Script=Hebrew]{Frank Ruehl CLM}
+\newfontfamily\greekfont[Script=Greek]{Cardo}
+\newcommand{\hebrew}[1]{{\hebrewfont{#1}}}
+\newcommand{\greek}[1]{{\greekfont{#1}}}
+\setromanfont{Day Roman}
