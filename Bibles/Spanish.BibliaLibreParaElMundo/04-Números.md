@@ -1086,10 +1086,8 @@
 ^40^ Moisés dijo a los hijos de Israel todo lo que Yahvé le había ordenado a Moisés.
 
 # 30
-^1^ Moisés habló a los jefes de las tribus de los hijos de Israel, diciendo: “Esto es lo que Yahvé ha ordenado.
-
 ## Reglamento sobre la vinculación o nulidad de los votos
-^2^ Cuando un hombre haga un voto a Yavé, o haga un juramento para atar su alma con un vínculo, no deberá faltar a su palabra. Hará conforme a todo lo que salga de su boca. ^a^
+^1^ Moisés habló a los jefes de las tribus de los hijos de Israel, diciendo: “Esto es lo que Yahvé ha ordenado. ^2^ Cuando un hombre haga un voto a Yavé, o haga un juramento para atar su alma con un vínculo, no deberá faltar a su palabra. Hará conforme a todo lo que salga de su boca. ^a^
 ^a^[**30:2** Lev 27,2-25; Deut 23,21; Jue 11,35; Ecl 5,4-5]
 
 ^3^ “Además, cuando una mujer hace un voto a Yahvé y se compromete con una promesa, estando en la casa de su padre, en su juventud, ^4^ y su padre oye su voto y su promesa con la que ha vinculado su alma, y su padre no le dice nada, entonces todos sus votos serán válidos, y toda promesa con la que haya vinculado su alma será válida. ^5^ Pero si su padre se lo prohíbe el día que se entere, ninguno de sus votos ni de sus promesas con los que haya ligado su alma subsistirán. El Señor la perdonará, porque su padre se lo ha prohibido.

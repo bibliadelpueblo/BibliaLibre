@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.6) (preloaded format=xelatex 2022.4.15)  22 JUL 2022 20:58
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.6) (preloaded format=xelatex 2022.4.15)  22 JUL 2022 22:23
 entering extended mode
 **./Biblia11ptB5.tex
 (Biblia11ptB5.tex
@@ -10105,20 +10105,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [207]
-Overfull \hbox (24.63165pt too wide) in paragraph at lines 3374--3374
+Overfull \hbox (24.63165pt too wide) in paragraph at lines 3378--3378
 \TU/DayRoman(1)/b/n/20.74 30|  
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 208 might be wrong on input line 34
-09.
+08.
 
 
 Overfull \vbox (0.20457pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 3409.
-LaTeX Info: Redefining \% on input line 3409.
+LaTeX Info: Redefining \. on input line 3408.
+LaTeX Info: Redefining \% on input line 3408.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -10134,20 +10134,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [208]
-Overfull \hbox (20.18341pt too wide) in paragraph at lines 3439--3439
+Overfull \hbox (20.18341pt too wide) in paragraph at lines 3438--3438
 \TU/DayRoman(1)/b/n/20.74 31|  
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 209 might be wrong on input line 34
-88.
+87.
 
 
 Overfull \vbox (5.75359pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 3488.
-LaTeX Info: Redefining \% on input line 3488.
+LaTeX Info: Redefining \. on input line 3487.
+LaTeX Info: Redefining \% on input line 3487.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -10166,10 +10166,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 210 might be wrong on input line 35
-53.
+52.
 
-LaTeX Info: Redefining \. on input line 3553.
-LaTeX Info: Redefining \% on input line 3553.
+LaTeX Info: Redefining \. on input line 3552.
+LaTeX Info: Redefining \% on input line 3552.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.73438pt, for example:
@@ -10184,17 +10184,17 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [210]
-Overfull \hbox (22.09573pt too wide) in paragraph at lines 3579--3579
+Overfull \hbox (22.09573pt too wide) in paragraph at lines 3578--3578
 \TU/DayRoman(1)/b/n/20.74 32|  
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 211 might be wrong on input line 36
-31.
+30.
 
-LaTeX Info: Redefining \. on input line 3631.
-LaTeX Info: Redefining \% on input line 3631.
+LaTeX Info: Redefining \. on input line 3630.
+LaTeX Info: Redefining \% on input line 3630.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.73438pt, for example:
@@ -10211,14 +10211,14 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [211]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 212 might be wrong on input line 37
-00.
+(multicol)                Footnotes on page 212 might be wrong on input line 36
+99.
 
 
 Overfull \vbox (0.19pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 3700.
-LaTeX Info: Redefining \% on input line 3700.
+LaTeX Info: Redefining \. on input line 3699.
+LaTeX Info: Redefining \% on input line 3699.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -10234,20 +10234,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [212]
-Overfull \hbox (21.07722pt too wide) in paragraph at lines 3707--3707
+Overfull \hbox (21.07722pt too wide) in paragraph at lines 3706--3706
 \TU/DayRoman(1)/b/n/20.74 33|  
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 213 might be wrong on input line 37
-83.
+82.
 
 
 Overfull \vbox (2.37772pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 3783.
-LaTeX Info: Redefining \% on input line 3783.
+LaTeX Info: Redefining \. on input line 3782.
+LaTeX Info: Redefining \% on input line 3782.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -10263,20 +10263,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [213]
-Overfull \hbox (24.63165pt too wide) in paragraph at lines 3814--3814
+Overfull \hbox (24.63165pt too wide) in paragraph at lines 3813--3813
 \TU/DayRoman(1)/b/n/20.74 34|  
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 214 might be wrong on input line 38
-43.
+42.
 
 
 Overfull \vbox (5.70085pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 3843.
-LaTeX Info: Redefining \% on input line 3843.
+LaTeX Info: Redefining \. on input line 3842.
+LaTeX Info: Redefining \% on input line 3842.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -10292,20 +10292,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [214]
-Overfull \hbox (22.74011pt too wide) in paragraph at lines 3885--3885
+Overfull \hbox (22.74011pt too wide) in paragraph at lines 3884--3884
 \TU/DayRoman(1)/b/n/20.74 35|  
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 215 might be wrong on input line 39
-28.
+27.
 
 
 Overfull \vbox (7.73216pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 3928.
-LaTeX Info: Redefining \% on input line 3928.
+LaTeX Info: Redefining \. on input line 3927.
+LaTeX Info: Redefining \% on input line 3927.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -10324,10 +10324,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 216 might be wrong on input line 39
-88.
+87.
 
-LaTeX Info: Redefining \. on input line 3988.
-LaTeX Info: Redefining \% on input line 3988.
+LaTeX Info: Redefining \. on input line 3987.
+LaTeX Info: Redefining \% on input line 3987.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.73438pt, for example:
@@ -10342,7 +10342,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [216]
-Overfull \hbox (24.50694pt too wide) in paragraph at lines 3994--3994
+Overfull \hbox (24.50694pt too wide) in paragraph at lines 3993--3993
 \TU/DayRoman(1)/b/n/20.74 36|  
  []
 
@@ -22217,7 +22217,7 @@ Package multicol Warning: I moved some lines to the next page.
 14.
 
 
-Overfull \vbox (2.63835pt too high) has occurred while \output is active []
+Overfull \vbox (2.70584pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 2014.
 LaTeX Info: Redefining \% on input line 2014.
@@ -22251,7 +22251,7 @@ Package multicol Warning: I moved some lines to the next page.
 78.
 
 
-Overfull \vbox (1.27684pt too high) has occurred while \output is active []
+Overfull \vbox (1.30336pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 2078.
 LaTeX Info: Redefining \% on input line 2078.
@@ -23157,7 +23157,7 @@ Package multicol Warning: I moved some lines to the next page.
 26.
 
 
-Overfull \vbox (2.8358pt too high) has occurred while \output is active []
+Overfull \vbox (4.74628pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4226.
 LaTeX Info: Redefining \% on input line 4226.
@@ -23186,7 +23186,7 @@ Overfull \hbox (28.9344pt too wide) in paragraph at lines 4256--4256
  []
 
 
-Overfull \vbox (2.81874pt too high) has occurred while \output is active []
+Overfull \vbox (2.91988pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4256.
 LaTeX Info: Redefining \% on input line 4256.
@@ -26464,7 +26464,7 @@ Package multicol Warning: I moved some lines to the next page.
 29.
 
 
-Overfull \vbox (8.037pt too high) has occurred while \output is active []
+Overfull \vbox (8.07925pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 3829.
 LaTeX Info: Redefining \% on input line 3829.
@@ -26488,7 +26488,7 @@ Overfull \hbox (23.75864pt too wide) in paragraph at lines 3880--3880
  []
 
 
-Overfull \vbox (6.81056pt too high) has occurred while \output is active []
+Overfull \vbox (6.81186pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 3921.
 LaTeX Info: Redefining \% on input line 3921.
@@ -26517,7 +26517,7 @@ Package multicol Warning: I moved some lines to the next page.
 78.
 
 
-Overfull \vbox (3.97194pt too high) has occurred while \output is active []
+Overfull \vbox (2.06519pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 3978.
 LaTeX Info: Redefining \% on input line 3978.
@@ -26546,7 +26546,7 @@ Package multicol Warning: I moved some lines to the next page.
 51.
 
 
-Overfull \vbox (8.6757pt too high) has occurred while \output is active []
+Overfull \vbox (8.67569pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4051.
 LaTeX Info: Redefining \% on input line 4051.
@@ -26580,7 +26580,7 @@ Package multicol Warning: I moved some lines to the next page.
 26.
 
 
-Overfull \vbox (6.99863pt too high) has occurred while \output is active []
+Overfull \vbox (6.96823pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4126.
 LaTeX Info: Redefining \% on input line 4126.
@@ -26609,7 +26609,7 @@ Package multicol Warning: I moved some lines to the next page.
 09.
 
 
-Overfull \vbox (6.05836pt too high) has occurred while \output is active []
+Overfull \vbox (7.65912pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4209.
 LaTeX Info: Redefining \% on input line 4209.
@@ -26638,7 +26638,7 @@ Package multicol Warning: I moved some lines to the next page.
 72.
 
 
-Overfull \vbox (2.4982pt too high) has occurred while \output is active []
+Overfull \vbox (2.4459pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4272.
 LaTeX Info: Redefining \% on input line 4272.
@@ -26692,7 +26692,7 @@ Package multicol Warning: I moved some lines to the next page.
 19.
 
 
-Overfull \vbox (7.44572pt too high) has occurred while \output is active []
+Overfull \vbox (7.48795pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4419.
 LaTeX Info: Redefining \% on input line 4419.
@@ -26721,7 +26721,7 @@ Overfull \hbox (24.90189pt too wide) in paragraph at lines 4493--4493
  []
 
 
-Overfull \vbox (7.21738pt too high) has occurred while \output is active []
+Overfull \vbox (7.24617pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4493.
 LaTeX Info: Redefining \% on input line 4493.
@@ -26745,7 +26745,7 @@ Overfull \hbox (24.50694pt too wide) in paragraph at lines 4555--4555
  []
 
 
-Overfull \vbox (5.1988pt too high) has occurred while \output is active []
+Overfull \vbox (3.35435pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4574.
 LaTeX Info: Redefining \% on input line 4574.
@@ -26774,7 +26774,7 @@ Package multicol Warning: I moved some lines to the next page.
 68.
 
 
-Overfull \vbox (1.79727pt too high) has occurred while \output is active []
+Overfull \vbox (1.70598pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4668.
 LaTeX Info: Redefining \% on input line 4668.
@@ -26828,7 +26828,7 @@ Package multicol Warning: I moved some lines to the next page.
 99.
 
 
-Overfull \vbox (8.41647pt too high) has occurred while \output is active []
+Overfull \vbox (6.5366pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4799.
 LaTeX Info: Redefining \% on input line 4799.
@@ -42068,7 +42068,7 @@ Package rerunfilecheck Info: File `Biblia11ptB5.out' has not changed.
 Here is how much of TeX's memory you used:
  32775 strings out of 411271
  655168 string characters out of 2828803
- 1193991 words of memory out of 3000000
+ 1192993 words of memory out of 3000000
  52692 multiletter control sequences out of 15000+600000
  408692 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

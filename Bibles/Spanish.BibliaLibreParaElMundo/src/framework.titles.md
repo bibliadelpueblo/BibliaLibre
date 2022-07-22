@@ -1375,7 +1375,7 @@
 ### Sentencia final de las leyes de víctimas
 
 ## 30
-^1^ 
+^-1^ 
 ### Reglamento sobre la vinculación o nulidad de los votos
 ^2^ \ ^5^ \ ^8^ \ ^9^ \ ^13^ 
 ### Promulgación renovada de los derechos del marido
