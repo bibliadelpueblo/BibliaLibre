@@ -107,7 +107,7 @@ namespace BibleMarkdown
 							return $"{new String('#', n)} {m.Groups["text"].Value.Trim()}{Environment.NewLine}";
 						}, RegexOptions.Singleline);
 
-						src = Regex.Replace(src, @"\\sp\s+(.*?)\\", $"{Environment.NewLine}**$1** \\{Environment.NewLine}", RegexOptions.Multiline); // speaker headings
+						src = Regex.Replace(src, @"\\sp\s+(.*?)(?=\\)", $"\\{Environment.NewLine}*$1* \\{Environment.NewLine}", RegexOptions.Multiline); // speaker headings
 
 						bool firstchapter = true;
 						src = Regex.Replace(src, @"\\c\s+([0-9]+\s*)", m => // chapters

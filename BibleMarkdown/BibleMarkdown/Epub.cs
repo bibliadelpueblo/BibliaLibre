@@ -47,6 +47,15 @@ namespace BibleMarkdown
 
 			}
 
+			src = Regex.Replace(src, @"(?:^|\n)#[ \t]+(?<chapter>[0-9]+).*?(?=(?:\r?\n#[ \t]+[0-9]+|$))", chapter =>
+			{
+				return Regex.Replace(chapter.Value, @"\[(?<verse>[0-9]+)\]\{\.bibleverse\}", verse =>
+				{
+					var vno = verse.Groups["verse"].Value;
+					return @$"[{vno}]{{#verse-{Id(bookname)}-{chapter.Groups["chapter"].Value}-{vno} .bibleverse}}";
+				}, RegexOptions.Singleline);
+			}, RegexOptions.Singleline);
+
 			if (Epub.CreateChapterLinks)
 			{
 				var chapters = Regex.Matches(src, @"(?<=(^|\n)#\s+)[0-9]+", RegexOptions.Singleline);
@@ -60,10 +69,9 @@ namespace BibleMarkdown
 				links.Append(src);
 				src = links.ToString();
 				// src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2](#book-{Id(book)}) {{.unnumbered #chapter-{Id(book)}-$2}}", RegexOptions.Singleline);
-				src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2]({Epub.Page(bookno)}) {{.unnumbered #chapter-{Id(bookname)}-$2}}", RegexOptions.Singleline);
+				src = Regex.Replace(src, @"(?<=(^|\n))(#\s+([0-9]+))", $@"<p><div id=""chapter-{Id(bookname)}-$3""></div></p>{Environment.NewLine}# [$3]({Epub.Page(bookno)}) {{.unnumbered}}", RegexOptions.Singleline);
 			}
 
-			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
 
 			if (Epub.Links)
 			{
@@ -78,13 +86,9 @@ namespace BibleMarkdown
 				}, RegexOptions.Singleline);
 
 			}
-			src = Regex.Replace(src, @"(?:^|\n)#[ \t]+(?<chapter>[0-9]+).*?(?=(?:\r?\n#[ \t]+[0-9]+|$))", chapter =>
-			{
-				return Regex.Replace(chapter.Value, @"\[(?<verse>[0-9]+)\]\{\.bibleverse\}", verse =>
-				{
-					return @$"[{verse.Groups["verse"].Value}]{{#verse-{Id(bookname)}-{chapter}-{verse}}}";
-				}, RegexOptions.Singleline);
-			}, RegexOptions.Singleline);
+
+
+			src = Regex.Replace(src, @"(?<=\n|^)#", "##", RegexOptions.Singleline);
 
 			src = $@"# [{bookname}]({Epub.TableOfContentsPage}) {{#book-{Id(bookname)}}}{Environment.NewLine}{Environment.NewLine}{src}";
 			File.WriteAllText(epubfile, src);
