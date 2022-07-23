@@ -1,6 +1,3 @@
 [submodule "Bibles/Spanish.BibliaLibreParaElMundo/src/bibleedit/spablm"]
 	path = Bibles/Spanish.BibliaLibreParaElMundo/src/bibleedit/spablm
 	url = https://github.com/simonegli8/spablm
-[submodule "haiola"]
-	path = haiola
-	url = https://github.com/simonegli8/haiola
