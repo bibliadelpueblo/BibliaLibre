@@ -295,8 +295,9 @@ Cuando me habló, me sentí fortalecido y dije: “Deja hablar a mi señor, porq
 ^13^ “Pero sigue tu camino hasta el final; porque descansarás y estarás en tu herencia al final de los días”.
 
 # 13
-#
-# LA HISTORIA DE SUSANNA
+*#
+# LA HISTORIA DE SUSANNA* \
+
 ^1^ Vivía en Babilonia un hombre que se llamaba Joaquín. ^2^ Tomó una esposa que se llamaba Susana, hija de Helkias, una mujer muy hermosa y temerosa del Señor. ^3^ Sus padres también eran justos y enseñaban a su hija según la ley de Moisés. ^4^ Joakim era un hombre muy rico y tenía un hermoso jardín junto a su casa. Los judíos solían acudir a él, porque era más honrado que todos los demás. ^5^ Ese mismo año, dos de los ancianos del pueblo fueron nombrados jueces, tal como el Señor habló de que la maldad venía de Babilonia de parte de los ancianos que eran jueces, quienes debían gobernar al pueblo. ^6^ Estos estaban a menudo en casa de Joakim. Todos los que tenían algún pleito acudían a ellos.
 
 ^7^ Cuando la gente se marchó a mediodía, Susana entró en el jardín de su marido para pasear. ^8^ Los dos ancianos la veían entrar cada día a pasear, y se encendían de lujuria por ella. ^9^ Pervirtieron su mente y apartaron sus ojos para no mirar al cielo ni acordarse de los juicios justos. ^10^ Y aunque ambos estaban heridos de lujuria por ella, no se atrevían a mostrar al otro su dolor. ^11^ Porque se avergonzaban de declarar su lujuria, lo que deseaban hacer con ella. ^12^ Sin embargo, de día en día, esperaban ansiosamente para verla. ^13^ El uno dijo al otro: “Vayamos ahora a casa, porque es la hora de la cena”. ^14^ Así que, cuando salieron, se separaron, y volviendo de nuevo, llegaron al mismo lugar. Después de preguntarse mutuamente la causa, reconocieron su lujuria. Entonces fijaron una hora para ambos, en la que podrían encontrarla a solas.
@@ -338,8 +339,9 @@ Respondió: “Bajo un roble de hoja perenne”.
 ^60^ Con esto, toda la asamblea gritó a gran voz y bendijo a Dios, que salva a los que esperan en él. ^61^ Entonces se levantaron contra los dos ancianos, porque Daniel los había condenado por falso testimonio de su propia boca. ^62^ Según la ley de Moisés, les hicieron lo que maliciosamente pretendían hacer a su prójimo. Los condenaron a muerte, y el mismo día se salvó la sangre inocente. ^63^ Por lo tanto, Helkias y su esposa alabaron a Dios por su hija Susana, con Joakim, su marido, y toda la parentela, porque no se encontró en ella ninguna deshonestidad. ^64^ Y desde aquel día, Daniel tuvo una gran reputación a los ojos del pueblo.
 
 # 14
-#
-# Bel y el dragón
+*#
+# Bel y el dragón* \
+
 ^1^ El rey Astyages fue reunido con sus padres, y Ciro el persa recibió su reino. ^2^ Daniel vivía con el rey y era honrado sobre todos sus amigos.
 
 ^3^ Los babilonios tenían un ídolo llamado Bel, y cada día se gastaban en él doce grandes medidas de harina fina, cuarenta ovejas y seis toneles de vino. ^4^ El rey lo honraba y acudía diariamente a adorarlo; pero Daniel adoraba a su propio Dios. El rey le dijo: “¿Por qué no adoras a Bel?”.

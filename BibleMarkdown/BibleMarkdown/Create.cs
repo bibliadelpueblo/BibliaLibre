@@ -52,7 +52,7 @@ namespace BibleMarkdown
 				text = Regex.Replace(text, @"\^(?<mark>[a-zA-Z]+)\^(?!\[)(?<text>.*?)(?:\^\k<mark>(?<footnote>\^\[(?>\[(?<c>)|[^\[\]]+|\](?<-c>))*(?(c)(?!))\]))[ \t]*\r?\n?", m =>
 				{
 					replaced = true;
-					return $"{ m.Groups["footnote"].Value}{m.Groups["text"].Value}";
+					return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
 				}, RegexOptions.Singleline);// ^^ footnotes
 			} while (replaced);
 
@@ -126,82 +126,70 @@ namespace BibleMarkdown
 
 		static void CreateTwoLanguage(string path, string path1, string path2)
 		{
-			var leftfiles = Directory.EnumerateFiles(path1, "*.md").ToArray();
-			var rightfiles = Directory.EnumerateFiles(path2, "*.md").ToArray();
-			int bookno = 1;
-			var books = Books.All.Where(b => b.Number == bookno);
-			Book leftbook = null, rightbook = null;
-			while (books.Any())
+
+			Log("Create Two Langauge...");
+			var leftfiles = Directory.EnumerateFiles(path1, "*.md")
+				.Select(file => new
+				{
+					Name = Books.Name(file),
+					Number = Books.Number(file),
+					File = file,
+					Book = Books[LeftLanguage].ContainsKey(Books.Name(file)) ? Books[LeftLanguage][Books.Name(file)] : null,
+					Text = File.ReadAllText(file),
+				})
+				.Where(book => book.Book != null)
+				.OrderBy(book => book.Number)
+				.ToArray();
+
+			var rightfiles = Directory.EnumerateFiles(path2, "*.md")
+				.Select(file => new
+				{
+					Name = Books.Name(file),
+					Number = Books.Number(file),
+					File = file,
+					Book = Books[RightLanguage].ContainsKey(Books.Name(file)) ? Books[RightLanguage][Books.Name(file)] : null,
+					Text = File.ReadAllText(file),
+				})
+				.Where(book => book.Book != null)
+				.ToDictionary(book => book.Number);
+
+			var books = leftfiles
+				.Select(file => new
+				{
+					Left = file,
+					Right = rightfiles.ContainsKey(file.Number) ? rightfiles[file.Number] : null,
+					New = Path.Combine(path, $"{file.Number:d2}-{file.Name}.md")
+				})
+				.Where(book => book.Right != null && !IsNewer(book.New, book.Left.File) && !IsNewer(book.New, book.Right.File));
+
+			foreach (var book in books)
 			{
-				var leftfile = leftfiles.FirstOrDefault(f =>
+
+				var leftchapters = Regex.Matches(book.Left.Text, @"(?<=(^|\n))#[ \t]+(?<chapter>[0-9]+)[ \t]*\r?\n(?<text>.*?)(?=\r?\n#[ \t]+[0-9]+|\s*$)", RegexOptions.Singleline)
+					.Select(match => new
+					{
+						Chapter = int.Parse(match.Groups["chapter"].Value),
+						Text = match.Groups["text"].Value
+					});
+				var rightchapters = Regex.Matches(book.Right.Text, @"(?<=(^|\n))#[ \t]+(?<chapter>[0-9]+)[ \t]*\r?\n(?<text>.*?)(?=\r?\n#[ \t]+[0-9]+|\s*$)", RegexOptions.Singleline)
+					.Select(match => new
+					{
+						Chapter = int.Parse(match.Groups["chapter"].Value),
+						Text = match.Groups["text"].Value
+					})
+					.ToDictionary(chapter => chapter.Chapter);
+				var text = new StringBuilder();
+				foreach (var chapter in leftchapters)
 				{
-					var bn = books.FirstOrDefault(b =>
-						b.Name == Regex.Replace(Path.GetFileNameWithoutExtension(f), @"^[0-9]+(\.[0-9]+)?-", ""));
-					if (bn != null)
-					{
-						leftbook = bn;
-						return true;
-					}
-					else
-					{
-						return false;
-					}
-				});
-				var rightfile = rightfiles.FirstOrDefault(f =>
-				{
-					var bn = books.FirstOrDefault(b =>
-						b.Name == Regex.Replace(Path.GetFileNameWithoutExtension(f), @"^[0-9]+(\.[0-9]+)?-", ""));
-					if (bn != null)
-					{
-						rightbook = bn;
-						return true;
-					}
-					else
-					{
-						return false;
-					}
-				});
-
-				if (leftfile != null && rightfile != null)
-				{
-					var lefttext = File.ReadAllText(leftfile);
-					var righttext = File.ReadAllText(rightfile);
-
-					var leftm = Regex.Matches(lefttext, @"(^|\n)#[ \t]+(?<chapter>[0-9]+)[ \t]*\r?\n(?<text>.*?)(\r?\n#(?!#)|$)", RegexOptions.Singleline);
-
-					var text = new StringBuilder();
-					foreach (Match m in leftm)
-					{
-						var leftchaptertext = m.Groups["text"].Value;
-						int chapter = int.Parse(m.Groups["chapter"].Value);
-						var endverse = Regex.Matches(leftchaptertext, @"\^([0-9]+)\^")
-							.Select(m => int.Parse(m.Groups[1].Value))
-							.Max();
-						text.Append($@"# {chapter}{Environment.NewLine}\begin{{paracol}}{{2}}{Environment.NewLine}");
-						text.Append(leftchaptertext);
-						text.Append(@"\switchcolum");
-
-						var rightstart = new Location
-						{
-							Book = leftbook,
-							Chapter = chapter,
-							Verse = 0
-						};
-						var rightend = new Location
-						{
-							Book = leftbook,
-							Chapter = chapter,
-							Verse = endverse
-						};
-						rightstart = VerseMaps.DualLanguage.Map(rightstart);
-						rightend = VerseMaps.DualLanguage.Map(rightend);
-
-						var rightpart = new StringBuilder();
-
-						var ms = Regex.Matches(righttext, @"(^|\n)#[ \t]+([0-9]+)");
-					}
-					books = Books.All.Where(b => b.Number == bookno++);
+					text.AppendLine($@"\biblebeginparacol{Environment.NewLine}{Environment.NewLine}# {chapter.Chapter}");
+					text.AppendLine(chapter.Text);
+					text.AppendLine($@"\switchcolumn{Environment.NewLine}{Environment.NewLine}# {chapter.Chapter}");
+					text.AppendLine(rightchapters[chapter.Chapter].Text);
+					text.AppendLine(@"\bibleendparacol");
 				}
+				var newfile = Path.Combine(path, $"{book.Left.Number:d2}-{book.Left.Name}.md");
+				File.WriteAllText(newfile, text.ToString());
+				LogFile(newfile);
 			}
 		}
 		static void CreateVerseStats(string path)
@@ -294,7 +282,7 @@ namespace BibleMarkdown
 				var book = Books["default", bookname];
 
 				var bookItem = new BookItem(book, Path.GetFileName(source));
-				
+
 				items.Add(bookItem);
 
 				var txt = File.ReadAllText(source);
@@ -374,14 +362,17 @@ namespace BibleMarkdown
 					filexml.Add(new XAttribute("Name", bookItem.Name));
 					filexml.Add(new XAttribute("File", bookItem.File));
 					root.Add(filexml);
-				} else if (item is ChapterItem)
+				}
+				else if (item is ChapterItem)
 				{
 					result.AppendLine($"{Environment.NewLine}## {item.Chapter}");
 					chapterxml = new XElement("Chapter");
 					chapterxml.Add(new XAttribute("Number", item.Chapter));
 					if (filexml == null) Log("Error: No file for framework.");
 					else filexml.Add(chapterxml);
-				} else if (item is TitleItem) {
+				}
+				else if (item is TitleItem)
+				{
 					var titleItem = (TitleItem)item;
 					if (Location.Compare(lastlocation, item.Location) != 0) result.AppendLine($"^{item.Verse}^");
 					var title = new XElement("Title");
@@ -390,7 +381,8 @@ namespace BibleMarkdown
 					if (chapterxml != null) chapterxml.Add(title);
 					else Log("Error: No chapter for framework.");
 					result.AppendLine($"{Environment.NewLine}###{titleItem.Title}");
-				} else if (item is FootnoteItem)
+				}
+				else if (item is FootnoteItem)
 				{
 					var footnoteItem = (FootnoteItem)item;
 					if (Location.Compare(lastlocation, item.Location) != 0) result.Append($"^{item.Verse}^ ");
@@ -400,7 +392,8 @@ namespace BibleMarkdown
 					if (chapterxml != null) chapterxml.Add(footnote);
 					else Log("Error: No chapter for framework.");
 					result.Append(footnoteItem.Footnote); result.Append(' ');
-				} else if (item is ParagraphItem)
+				}
+				else if (item is ParagraphItem)
 				{
 					if (Location.Compare(lastlocation, item.Location) != 0) result.Append($"^{item.Location.Verse}^ ");
 					var paragraph = new XElement("Paragraph");
@@ -421,7 +414,7 @@ namespace BibleMarkdown
 
 		static void CreateUSFM(string mdfile, string usfmfile)
 		{
-			if (IsNewer(usfmfile, mdfile)) return;
+			if (IsNewer(usfmfile, mdfile) || TwoLanguage) return;
 
 			string usfm = "";
 			if (File.Exists(usfmfile)) usfm = File.ReadAllText(usfmfile);

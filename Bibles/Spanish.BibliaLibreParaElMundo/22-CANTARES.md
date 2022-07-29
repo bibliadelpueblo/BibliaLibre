@@ -33,9 +33,8 @@ Hacen bien en quererte.
 
 # 2
 ## Cantos y compromiso
-\
-*Amado* \
-^1^ Soy una rosa de Sarón, un lirio de los valles.\
+*\
+*Amado* \* \ ^1^ Soy una rosa de Sarón, un lirio de los valles.\
 *Amante* \
 ^2^ Como un lirio entre espinas, así es mi amor entre las hijas.\
 *Amado* \
@@ -64,11 +63,10 @@ Hacen bien en quererte.
 
 # 4
 ## Descripción de la novia por el novio
-\
-*Amante* \ 
+*\
+*Amante* \*
 
-
-^1^ He aquí que eres hermosa, amor mío. Contempla, eres hermosa. Tus ojos son como palomas detrás de tu velo. Tu pelo es como un rebaño de cabras, que descienden del monte Galaad. ^a^ ^2^ Tus dientes son como un rebaño recién esquilado, que han surgido del lavado, donde cada uno de ellos tiene gemelos. Ninguno de ellos está afligido. ^b^ ^3^ Tus labios son como un hilo escarlata. Tu boca es encantadora. Tus sienes son como un trozo de granada detrás de tu velo. ^c^ ^4^ Tu cuello es como la torre de David construida para una armería, en la que cuelgan mil escudos, todos los escudos de los hombres poderosos. ^d^ ^5^ Tus dos pechos son como dos cervatillosque son gemelos de una corza, que se alimentan entre los lirios. ^e^ ^6^ Hasta que el día se enfríe y las sombras huyan, Iré a la montaña de la mirra, a la colina del incienso. ^f^ ^7^ Todos ustedes son hermosos, mi amor. No hay ninguna mancha en ti. ^g^
+ \ ^1^ He aquí que eres hermosa, amor mío. Contempla, eres hermosa. Tus ojos son como palomas detrás de tu velo. Tu pelo es como un rebaño de cabras, que descienden del monte Galaad. ^a^ ^2^ Tus dientes son como un rebaño recién esquilado, que han surgido del lavado, donde cada uno de ellos tiene gemelos. Ninguno de ellos está afligido. ^b^ ^3^ Tus labios son como un hilo escarlata. Tu boca es encantadora. Tus sienes son como un trozo de granada detrás de tu velo. ^c^ ^4^ Tu cuello es como la torre de David construida para una armería, en la que cuelgan mil escudos, todos los escudos de los hombres poderosos. ^d^ ^5^ Tus dos pechos son como dos cervatillosque son gemelos de una corza, que se alimentan entre los lirios. ^e^ ^6^ Hasta que el día se enfríe y las sombras huyan, Iré a la montaña de la mirra, a la colina del incienso. ^f^ ^7^ Todos ustedes son hermosos, mi amor. No hay ninguna mancha en ti. ^g^
 ^a^[**4:1** Cant 5,12; Cant 6,5] ^b^[**4:2** Cant 6,6] ^c^[**4:3** Cant 6,7] ^d^[**4:4** Cant 7,4] ^e^[**4:5** Cant 7,3] ^f^[**4:6** Cant 2,17] ^g^[**4:7** Sal 45,13]
 
 ## La boda
@@ -81,9 +79,8 @@ Hacen bien en quererte.
 
 # 5
 ## El joven marido toma posesión de su jardín; la fiesta de bodas
-\
-*Amante* \
-^1^ He entrado en mi jardín, mi hermana, mi novia. He reunido mi mirra con mi especia; He comido mi panal con mi miel; He bebido mi vino con mi leche.\
+*\
+*Amante* \* \ ^1^ He entrado en mi jardín, mi hermana, mi novia. He reunido mi mirra con mi especia; He comido mi panal con mi miel; He bebido mi vino con mi leche.\
 *Amigos* \
 ¡Comed, amigos! Bebe, sí, bebe en abundancia, amado.\
 *Amado* \ ^a^
@@ -103,9 +100,8 @@ Hacen bien en quererte.
 ^a^[**5:8** Cant 2,5] ^b^[**5:12** Cant 4,1] ^c^[**5:13** Sal 45,2]
 
 # 6
-\
-*Amigos* \
-^1^ ¿Dónde ha ido tu amado, la más bella de las mujeres? ¿Dónde se ha vuelto tu amado, para que lo busquemos contigo?\
+*\
+*Amigos* \* \ ^1^ ¿Dónde ha ido tu amado, la más bella de las mujeres? ¿Dónde se ha vuelto tu amado, para que lo busquemos contigo?\
 *Amado* \
 ^2^ Mi amado ha bajado a su jardín, a los lechos de especias, para apacentar su rebaño en los jardines, y para recoger lirios. ^a^ ^3^ Yo soy de mi amado, y mi amado es mío. Navega entre los lirios.\
 *Amante* \ ^b^

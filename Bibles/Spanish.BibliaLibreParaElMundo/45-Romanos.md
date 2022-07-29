@@ -196,7 +196,7 @@
 
 # 9
 ## Introducción: El profundo dolor del apóstol por la exclusión temporal de su pueblo de la salvación
-^1^ Digo la verdad en Cristo. No miento, pues mi conciencia testifica conmigo en el EspírituSanto ^2^ que tengo una gran pena y un dolor incesante en mi corazón. ^3^ Porque desearía ser yo mismo separado de Cristo por mis hermanos, mis parientes según la carne ^a^ ^4^ que son israelitas; de los cuales es la adopción, la gloria, las alianzas, la entrega de la ley, el servicio y las promesas; ^b^ ^5^ de los cuales son los padres, y de los cuales es Cristo en cuanto a la carne, que es sobre todo, Dios, bendito por siempre. Amén. ^c^
+^1^ Digo la verdad en Cristo. No miento, pues mi conciencia testifica conmigo en el Espíritu Santo ^2^ que tengo una gran pena y un dolor incesante en mi corazón. ^3^ Porque desearía ser yo mismo separado de Cristo por mis hermanos, mis parientes según la carne ^a^ ^4^ que son israelitas; de los cuales es la adopción, la gloria, las alianzas, la entrega de la ley, el servicio y las promesas; ^b^ ^5^ de los cuales son los padres, y de los cuales es Cristo en cuanto a la carne, que es sobre todo, Dios, bendito por siempre. Amén. ^c^
 ^a^[**9:3** Éxod 32,32] ^b^[**9:4** Éxod 4,22; Deut 7,6; Gén 17,7; Éxod 20,1; Éxod 40,34] ^c^[**9:5** Mat 1,1; Luc 3,23-34; Juan 1,1; Rom 1,3]
 
 ## Las promesas de Dios a Israel son inquebrantables, pero no se aplican a todo el cuerpo, sino solo a los descendientes espirituales de Abraham

@@ -36,7 +36,7 @@ namespace BibleMarkdown
 
 					int bookno = 1;
 					string booknostr = "00.1";
-					foreach (var source in sources)
+					Parallel.ForEach(sources, source =>
 					{
 						var src = File.ReadAllText(source);
 
@@ -156,14 +156,22 @@ namespace BibleMarkdown
 							src = Regex.Replace(src, @"(\^1\^ \w )(\w*)", m => $"{m.Groups[1].Value}{m.Groups[2].Value.ToLower()}");
 						}
 
-						src = Regex.Replace(src, @"\^[0-9]\^(?=\s*(\^[0-9]+\^|#|$))", "", RegexOptions.Singleline); // remove empty verses
+						src = Regex.Replace(src, @"\^[0-9]\^(?=\s*(\^[0-9]+\^|#|$|\^[a-zA-Z]\^\[))", "", RegexOptions.Singleline); // remove empty verses
 						src = Regex.Replace(src, @"(?<!\s|^)(\^[0-9]+\^)", " $1", RegexOptions.Singleline);
+						src = Regex.Replace(src, @"(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n)(##.*?\r?\n)?(?<verse0>.*?)(?=\s*\^1\^)", match => // set italics on verse 0
+						{
+							if (match.Value.Length > 0)
+							{
+								return $@"*{match.Value}* \{Environment.NewLine}";
+							}
+							else return match.Value;
+						}, RegexOptions.Singleline);
 
 						var md = Path.Combine(mdpath, $"{booknostr}-{book}.md");
 						bookno++;
 						File.WriteAllText(md, src);
 						LogFile(md);
-					}
+					});
 
 				}
 
@@ -195,7 +203,7 @@ namespace BibleMarkdown
 
 				int fileno = 1;
 
-				foreach (string folder in folders)
+				Parallel.ForEach(folders, folder =>
 				{
 					var chapters = Directory.EnumerateDirectories(folder).ToArray();
 					int i = 0;
@@ -237,7 +245,7 @@ namespace BibleMarkdown
 					var usfmfile = Path.Combine(srcpath, $"{index:d2}-{book}.usfm");
 					File.WriteAllText(usfmfile, txt.ToString());
 					LogFile(usfmfile);
-				}
+				});
 			}
 		}
 		public static void ImportFromTXT(string mdpath, string srcpath)
@@ -336,7 +344,7 @@ namespace BibleMarkdown
 					{
 						var root = XElement.Load(stream);
 
-						foreach (var book in root.Elements("BIBLEBOOK"))
+						Parallel.ForEach(root.Elements("BIBLEBOOK"), book =>
 						{
 							Imported = true;
 
@@ -367,7 +375,7 @@ namespace BibleMarkdown
 							File.WriteAllText(md, text.ToString());
 							LogFile(md);
 
-						}
+						});
 					}
 				}
 			}
@@ -749,7 +757,7 @@ namespace BibleMarkdown
 				{
 					Log("Importing Framework...");
 
-					foreach (string srcfile in mdfiles)
+					Parallel.ForEach(mdfiles, srcfile =>
 					{
 
 						File.SetLastWriteTimeUtc(srcfile, DateTime.Now);
@@ -760,7 +768,7 @@ namespace BibleMarkdown
 						var bookItem = items
 							.OfType<BookItem>()
 							.FirstOrDefault(b => b.File == srcname);
-						if (bookItem == null) continue;
+						if (bookItem == null) return;
 
 						// remove current frame
 
@@ -784,7 +792,7 @@ namespace BibleMarkdown
 																																  // src = Regex.Replace(src, @"(\s*\^[a-zA-Z]+\^)|(([ \t]*\^[a-zA-Z]+\^\[[^\]]*\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
 						src = Regex.Replace(src, @"%!verse-paragraphs.*?%\r?\n?", "", RegexOptions.Singleline); // remove verse paragraphs
 
-						if (bookItem.VerseParagraphs) src = $"%!verse-paragraphs%{Environment.NewLine}{src}"; 
+						if (bookItem.VerseParagraphs) src = $"%!verse-paragraphs%{Environment.NewLine}{src}";
 
 						var frames = bookItem.Items.GetEnumerator();
 						var book = Books["default", bookname];
@@ -792,7 +800,7 @@ namespace BibleMarkdown
 						int chapter = 0;
 						int verse = -1;
 
-						src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\s*\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?)(?<empty>.*?)(?=\^[0-9]+\^|\s*#|\s*$)", m =>
+						src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\s*\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?)(?<empty>.*?)(?=\s*\\?\s*\^1\^|\s*#|\s*$)", m =>
 						{
 							var txt = m.Value;
 
@@ -864,7 +872,7 @@ namespace BibleMarkdown
 
 						File.WriteAllText(srcfile, src);
 						LogFile(srcfile);
-					}
+					});
 				}
 			}
 		}

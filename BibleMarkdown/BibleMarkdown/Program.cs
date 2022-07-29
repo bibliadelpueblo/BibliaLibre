@@ -41,6 +41,33 @@ namespace BibleMarkdown
 				}
 			}
 		}
+		public static string RightLanguage
+		{
+			get { return rightlanguage; }
+			set
+			{
+				if (value != rightlanguage)
+				{
+					rightlanguage = value;
+					Log($"RightLanguage set to {rightlanguage}");
+				}
+			}
+		}
+		public static string LeftLanguage
+		{
+			get { return leftlanguage; }
+			set
+			{
+				if (value != leftlanguage)
+				{
+					leftlanguage = value;
+					Log($"LeftLanguage set to {leftlanguage}");
+				}
+			}
+		}
+
+		static string leftlanguage;
+		static string rightlanguage;
 		public static bool MapVerses = false;
 		public static string? Replace = null;
 		public static bool TwoLanguage = false;
@@ -150,7 +177,7 @@ namespace BibleMarkdown
 			CreateVerseStats(path);
 			Log("Convert to Pandoc...");
 			var files = Directory.EnumerateFiles(path, "*.md");
-			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
+			Task.WaitAll(files.AsParallel().Select(file => ProcessFileAsync(file)).ToArray());
 			File.WriteAllText(Path.Combine(outpath, "bibmark.log"), log.ToString());
 			log.Clear();
 		}
@@ -178,11 +205,19 @@ namespace BibleMarkdown
 
 		static void ProcessTwoLanguagesPath(string path, string path1, string path2)
 		{
-			ProcessPath(path1);
-			ProcessPath(path2);
+			TwoLanguage = true;
+			var outpath = Path.Combine(path, "out");
+			if (!Directory.Exists(outpath)) Directory.CreateDirectory(outpath);
+
+			// ProcessPath(path1);
+			// ProcessPath(path2);
+			RunScript(path);
+			Books.Load(path);
 			CreateTwoLanguage(path, path1, path2);
 			var files = Directory.EnumerateFiles(path, "*.md");
 			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
+			File.WriteAllText(Path.Combine(outpath, "bibmark.log"), log.ToString());
+			log.Clear();
 		}
 		static void InitPandoc()
 		{
@@ -220,6 +255,7 @@ namespace BibleMarkdown
 				var right = args[twolangpos + 2];
 				var p = Directory.GetCurrentDirectory();
 				ProcessTwoLanguagesPath(p, left, right);
+				return;
 			}
 			var paths = args.ToList();
 			for (int i = 0; i < paths.Count; i++)

@@ -62,14 +62,14 @@ namespace BibleMarkdown
 				var links = new StringBuilder($@"<div id=""chapterlinks-{Id(bookname)}"" class=""chapterlinks"">");
 				foreach (Match chapter in chapters)
 				{
-					links.Append($"[{chapter.Value}](#chapter-{Id(bookname)}-{chapter.Value}) ");
+					links.Append($"[&nbsp;{chapter.Value}&nbsp;](#chapter-{Id(bookname)}-{chapter.Value}) ");
 				}
 				links.Append("</div>");
 				links.AppendLine(); links.AppendLine();
 				links.Append(src);
 				src = links.ToString();
 				// src = Regex.Replace(src, @"(?<=(^|\n)#\s+)([0-9]+)", $@"[$2](#book-{Id(book)}) {{.unnumbered #chapter-{Id(book)}-$2}}", RegexOptions.Singleline);
-				src = Regex.Replace(src, @"(?<=(^|\n))(#\s+([0-9]+))", $@"<p><div id=""chapter-{Id(bookname)}-$3""></div></p>{Environment.NewLine}# [$3]({Epub.Page(bookno)}) {{.unnumbered}}", RegexOptions.Singleline);
+				src = Regex.Replace(src, @"(?<=(^|\n))(#\s+([0-9]+))", $@"<h2 class=""chaptertitle"">[&nbsp;$3&nbsp;]({Epub.Page(bookno)})<span><span id=""chapter-{Id(bookname)}-$3""></span></span></h2>{Environment.NewLine}", RegexOptions.Singleline);
 			}
 
 

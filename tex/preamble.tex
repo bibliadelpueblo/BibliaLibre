@@ -29,12 +29,11 @@
    {\columnwidth}{\textwidth}
    {\typeout{Success}}{\typeout{patch failed}}
 
-\setmainfont[UprightFont       = * ,
-             BoldFont          = * Bold ,
-             ItalicFont        = * Italic ,
-             SmallCapsFont = * ,
-             SmallCapsFeatures={Letters=SmallCaps},
-             Ligatures=TeX]{Day Roman}
+\setmainfont{Day Roman}
+            [UprightFont = *,
+             BoldFont = * Bold,
+             ItalicFont = * Italic,
+             Ligatures=TeX]
 
 \makeatletter             
 \newlength\fake@f
@@ -110,4 +109,6 @@
 \newfontfamily\greekfont[Script=Greek]{Cardo}
 \newcommand{\hebrew}[1]{{\hebrewfont{#1}}}
 \newcommand{\greek}[1]{{\greekfont{#1}}}
-\setromanfont{Day Roman}
+
+\newcommand{\biblebeginparacol}{\begin{paracol}{2}}
+\newcommand{\bibleendparacol}{\end{paracol}}
