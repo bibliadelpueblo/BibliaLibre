@@ -174,18 +174,11 @@ namespace BibleMarkdown
 				if (folders.Length == 1) folders = Directory.EnumerateDirectories(Path.Combine(folders[0])).ToArray();
 
 				var namesfile = Path.Combine(srcpath, "booknames.xml");
-				XElement[] books;
-				using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
-				{
-					books = XElement.Load(stream)
-						.Elements("ID")
-						.SelectMany(id => id.Elements("BOOK"))
-						.ToArray();
-				}
+				var books = Books[Language].Values;
 
 				int fileno = 1;
 
-				Parallel.ForEach(folders, folder =>
+				foreach (var folder in folders)
 				{
 					var chapters = Directory.EnumerateDirectories(folder).ToArray();
 					int i = 0;
@@ -206,16 +199,18 @@ namespace BibleMarkdown
 					var bookm = Regex.Matches(files[0], @"(\\h|\\toc1|\\toc2|\\toc3)\s+(.*?)$", RegexOptions.Multiline)
 						.Select(m => m.Groups[2].Value.Trim())
 						.ToArray();
-					var bookxml = books
-						.Where(e => bookm.Any(b => string.Compare(e.Value, b, true) == 0))
+					var book = books
+						.Where(e => bookm.Any(b => string.Compare(e.Name, b, true) == 0))
 						.FirstOrDefault();
 					int index = fileno++;
-					string book = bookm.FirstOrDefault();
-
-					if (bookxml != null)
+					string bookname;
+					if (book != null)
 					{
-						index = ((int)bookxml.Attribute("bnumber"));
-						book = bookxml.Value.Trim();
+						bookname = book.Name;
+						index = book.Number;
+					} else
+					{
+						bookname = bookm.FirstOrDefault();
 					}
 
 					var txt = new StringBuilder();
@@ -224,10 +219,10 @@ namespace BibleMarkdown
 						txt.AppendLine(file);
 					}
 
-					var usfmfile = Path.Combine(srcpath, $"{index:d2}-{book}.usfm");
+					var usfmfile = Path.Combine(srcpath, $"{index:d2}-{bookname}.usfm");
 					File.WriteAllText(usfmfile, txt.ToString());
 					LogFile(usfmfile);
-				});
+				}
 			}
 		}
 		public static void ImportFromTXT(string mdpath, string srcpath)
