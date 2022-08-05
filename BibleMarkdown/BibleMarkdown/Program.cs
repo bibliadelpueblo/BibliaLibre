@@ -12,7 +12,6 @@ using System.Security.Cryptography;
 using System.Data.SqlTypes;
 using System.Xml;
 using System.Xml.Linq;
-using Pandoc;
 using System.Runtime.InteropServices;
 using Microsoft.CodeAnalysis.Scripting;
 using Microsoft.CodeAnalysis.CSharp.Scripting;
@@ -177,7 +176,7 @@ namespace BibleMarkdown
 			CreateVerseStats(path);
 			Log("Convert to Pandoc...");
 			var files = Directory.EnumerateFiles(path, "*.md");
-			Task.WaitAll(files.AsParallel().Select(file => ProcessFileAsync(file)).ToArray());
+			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
 			File.WriteAllText(Path.Combine(outpath, "bibmark.log"), log.ToString());
 			log.Clear();
 		}
@@ -221,8 +220,8 @@ namespace BibleMarkdown
 		}
 		static void InitPandoc()
 		{
-			if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows)) PandocInstance.SetPandocPath("pandoc.exe");
-			else PandocInstance.SetPandocPath("pandoc");
+			if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows)) Pandoc.SetPandocPath("pandoc.exe");
+			else Pandoc.SetPandocPath("pandoc");
 		}
 		static void Main(string[] args)
 		{

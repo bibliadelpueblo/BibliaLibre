@@ -92,7 +92,8 @@ Then Shadrach, Meshach, and Abednego came out of the middle of the fire. ^27^ Th
 ^30^ Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon. 
 
 # 4 
-i1 ^1^ Nebuchadnezzar the king, 
+*i1* \
+ ^1^ Nebuchadnezzar the king, 
 
 i1 to all the peoples, nations, and languages, who dwell in all the earth: 
 

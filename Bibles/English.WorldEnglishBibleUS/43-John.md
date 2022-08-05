@@ -408,7 +408,7 @@ He said, “He is a prophet.”
 ^7^ Jesus therefore said to them again, “Most certainly, I tell you, I am the sheep’s door. ^8^ All who came before me are thieves and robbers, but the sheep didn’t listen to them. ^9^ I am the door. If anyone enters in by me, he will be saved, and will go in and go out and will find pasture. ^10^ The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly. 
 
 ^11^ “I am the good shepherd.^a^ The good shepherd lays down his life for the sheep. ^12^ He who is a hired hand, and not a shepherd, who doesn’t own the sheep, sees the wolf coming, leaves the sheep, and flees. The wolf snatches the sheep and scatters them. ^13^ The hired hand flees because he is a hired hand and doesn’t care for the sheep. ^14^ I am the good shepherd. I know my own, and I’m known by my own; ^15^ even as the Father knows me, and I know the Father. I lay down my life for the sheep. ^16^ I have other sheep which are not of this fold.^b^ I must bring them also, and they will hear my voice. They will become one flock with one shepherd. ^17^ Therefore the Father loves me, because I lay down my life, ^c^ that I may take it again. ^18^ No one takes it away from me, but I lay it down by myself. I have power to lay it down, and I have power to take it again. I received this commandment from my Father.” 
-^a^[**10:11** Isaiah 40:11; Ezekiel 34:11-12, 15, 22] ^b^[**10:16** Isaiah 56:8 ] ^c^[**10:17** Isaiah 53:7-8]
+^a^[**10:11** Isaiah 40:11; Ezekiel 34:11-12,15,22] ^b^[**10:16** Isaiah 56:8 ] ^c^[**10:17** Isaiah 53:7-8]
 
 ^19^ Therefore a division arose again among the Jews because of these words. ^20^ Many of them said, “He has a demon and is insane! Why do you listen to him?” ^21^ Others said, “These are not the sayings of one possessed by a demon. It isn’t possible for a demon to open the eyes of the blind, is it?”^a^ 
 ^a^[**10:21** Exodus 4:11]
@@ -444,7 +444,7 @@ He said, “He is a prophet.”
 ^a^[**11:16** “Didymus” means “Twin”.]
 
 ^17^ So when Jesus came, he found that he had been in the tomb four days already. ^18^ Now Bethany was near Jerusalem, about fifteen stadia^a^ away. ^19^ Many of the Jews had joined the women around Martha and Mary, to console them concerning their brother. ^20^ Then when Martha heard that Jesus was coming, she went and met him, but Mary stayed in the house. ^21^ Therefore Martha said to Jesus, “Lord, if you would have been here, my brother wouldn’t have died. ^22^ Even now I know that whatever you ask of God, God will give you.” 
-^a^[**11:18** 15 stadia is about 2. 8 kilometers or 1. 7 miles]
+^a^[**11:18** 15 stadia is about 2.8 kilometers or 1.7 miles]
 
 ^23^ Jesus said to her, “Your brother will rise again.” 
 

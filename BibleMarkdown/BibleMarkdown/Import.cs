@@ -36,7 +36,7 @@ namespace BibleMarkdown
 
 					int bookno = 1;
 					string booknostr = "00.1";
-					Parallel.ForEach(sources, source =>
+					foreach (var source in sources)
 					{
 						var src = File.ReadAllText(source);
 
@@ -56,38 +56,20 @@ namespace BibleMarkdown
 
 						XElement[] xmlbooks = new XElement[0];
 
-						if (useNames)
-						{
-							using (var stream = File.Open(namesfile, FileMode.Open, FileAccess.Read))
-							{
-								xmlbooks = XElement.Load(stream)
-									.Elements("ID")
-									.SelectMany(x => x.Elements("BOOK"))
-									.ToArray();
-							}
-						}
-
-						var books = xmlbooks
-							.Select(x => new
-							{
-								Book = x.Value,
-								Abbreviation = (string)x.Attribute("bshort"),
-								Number = (int)x.Attribute("bnumber")
-							})
-							.ToArray();
+						var books = Books[Language].Values.ToArray();
 
 						if (useNames)
 						{
-							var book2 = books.FirstOrDefault(b => bookm.Any(bm => b.Book == bm));
+							var book2 = books.FirstOrDefault(b => bookm.Any(bm => b.Name == bm));
 							if (book2 != null)
 							{
-								book = book2.Book;
+								book = book2.Name;
 								bookno = book2.Number;
 								booknostr = $"{bookno:d2}";
 							}
 							else
 							{
-								booknostr = $"00.{bookno++:d2}";
+								booknostr = $"00.{bookno:d2}";
 							}
 						}
 
@@ -171,7 +153,7 @@ namespace BibleMarkdown
 						bookno++;
 						File.WriteAllText(md, src);
 						LogFile(md);
-					});
+					}
 
 				}
 

@@ -5,7 +5,6 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml.Linq;
 using System.Threading.Tasks;
-using Pandoc;
 
 namespace BibleMarkdown
 {
@@ -98,8 +97,10 @@ namespace BibleMarkdown
 			File.WriteAllText(mdtexfile, src);
 			LogFile(mdtexfile);
 
-			await PandocInstance.Convert<PandocMdIn, LaTeXOut>(mdtexfile, texfile);
-			LogFile(texfile);
+			if (!string.IsNullOrWhiteSpace(src)) {
+				Pandoc.RunAsync(mdtexfile, texfile, "markdown-smart", "latex");
+				LogFile(texfile);
+			}
 		}
 
 		static async Task CreateHtmlAsync(string mdfile, string htmlfile)
@@ -109,13 +110,16 @@ namespace BibleMarkdown
 			//var mdhtmlfile = Path.ChangeExtension(mdfile, ".html.md");
 
 			//File.Copy(mdfile, mdhtmlfile);
-			//var src = File.ReadAllText(mdfile);
+			var src = File.ReadAllText(mdfile);
 			//src = Regex.Replace(src, @"\^([0-9]+)\^", "<sup class='bibleverse'>$1</sup>", RegexOptions.Singleline);
 			//File.WriteAllText(htmlfile, src);
 			//Log(mdhtmlfile);
 
-			await PandocInstance.Convert<PandocMdIn, HtmlOut>(mdfile, htmlfile);
-			LogFile(htmlfile);
+			if (!string.IsNullOrWhiteSpace(src))
+			{
+				await Pandoc.RunAsync(mdfile, htmlfile, "markdown-smart", "html");
+				LogFile(htmlfile);
+			}
 		}
 
 

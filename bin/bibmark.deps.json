@@ -8,9 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "bibmark/1.0.0": {
         "dependencies": {
-          "Microsoft.CodeAnalysis.CSharp.Scripting": "4.2.0",
-          "Pandoc": "1.0.0",
-          "Pandoc.Windows": "2.1.0"
+          "CliWrap": "3.4.4",
+          "Microsoft.CodeAnalysis.CSharp.Scripting": "4.2.0"
         },
         "runtime": {
           "bibmark.dll": {}
@@ -243,27 +242,6 @@
         }
       },
       "Microsoft.CSharp/4.7.0": {},
-      "Pandoc/1.0.0": {
-        "dependencies": {
-          "CliWrap": "3.4.4",
-          "Replicant": "1.2.0"
-        },
-        "runtime": {
-          "lib/net6.0/Pandoc.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Pandoc.Windows/2.1.0": {},
-      "Replicant/1.2.0": {
-        "runtime": {
-          "lib/net6.0/Replicant.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "System.Collections.Immutable/5.0.0": {},
       "System.Memory/4.5.4": {},
       "System.Reflection.Metadata/5.0.0": {},
@@ -330,27 +308,6 @@
       "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
       "path": "microsoft.csharp/4.7.0",
       "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
-    },
-    "Pandoc/1.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Q+pIWB0UxCgAzOQ7PFK8P/bMiuJFRhPvWu9I2QRgHlz1kSRx0uGXwB/iC/+16i5F7ude4zj5zp+shPUP2hhOug==",
-      "path": "pandoc/1.0.0",
-      "hashPath": "pandoc.1.0.0.nupkg.sha512"
-    },
-    "Pandoc.Windows/2.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ded+S0W66wMowfPXB0NMht1SV2BnBvi2M/50/h0hUOWxPAPc8tfV7ksL8eFLN/xvTmIgSKnGDpOsV3+sPVvNOA==",
-      "path": "pandoc.windows/2.1.0",
-      "hashPath": "pandoc.windows.2.1.0.nupkg.sha512"
-    },
-    "Replicant/1.2.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-VFMiwkGq1P3w8sRJpFcXvH1VsziKGN1tVQ5x1C1NIuF63M8/amsgs6sU4A3YJsjj/idr/bvfTG5/gKRztI13gg==",
-      "path": "replicant/1.2.0",
-      "hashPath": "replicant.1.2.0.nupkg.sha512"
     },
     "System.Collections.Immutable/5.0.0": {
       "type": "package",

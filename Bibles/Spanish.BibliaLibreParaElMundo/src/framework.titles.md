@@ -5822,7 +5822,7 @@
 ^6^ \ ^7^  ^12^  
 ## 65
 ^-1^ 
-### ottes se lamentan contra el pueblo apóstata; Amenaza de castigo para los apóstatas
+### Dios lamenta contra el pueblo apóstata; Amenaza de castigo para los apóstatas
 ^1^  ^2^  ^4^  ^7^    
 ### Anuncio del divorcio entre los siervos fieles y los que persisten en la apostasía; se debe guardar una selección
 ^10^  ^12^  

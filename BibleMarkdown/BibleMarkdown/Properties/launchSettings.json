@@ -2,8 +2,8 @@
   "profiles": {
     "BibleMarkdown": {
       "commandName": "Project",
-      "commandLineArgs": "-twolanguage ..\\Spanish.BibliaLibreParaElMundo ..\\English.WorldEnglishBibleUS",
-      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\SpanishEnglish.blm-web"
+      "commandLineArgs": "-s",
+      "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\English.WorldEnglishBibleGB"
     },
     "WSL": {
       "commandName": "WSL2",
