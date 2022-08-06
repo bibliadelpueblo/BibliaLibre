@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Jesús como el “Verbo” hecho hombre
@@ -57,6 +58,7 @@
 ^a^[**1:51** Gén 28,12; Mat 4,11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ In the beginning was the Word, and the Word was with God, and the Word was God. ^2^ The same was in the beginning with God. ^3^ All things were made through him. Without him, nothing was made that has been made. ^4^ In him was life, and the life was the light of men. ^5^ The light shines in the darkness, and the darkness hasn’t overcome^a^ it. 
@@ -118,8 +120,8 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 
 ^50^ Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!” ^51^ He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## La primera señal milagrosa de Jesús en las bodas de Caná
@@ -153,6 +155,7 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 ^a^[**2:25** Mar 2,8]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ The third day, there was a wedding in Cana of Galilee. Jesus’ mother was there. ^2^ Jesus also was invited, with his disciples, to the wedding. ^3^ When the wine ran out, Jesus’ mother said to him, “They have no wine.” 
@@ -177,8 +180,8 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 
 ^23^ Now when he was in Jerusalem at the Passover, during the feast, many believed in his name, observing his signs which he did. ^24^ But Jesus didn’t entrust himself to them, because he knew everyone, ^25^ and because he didn’t need for anyone to testify concerning man; for he himself knew what was in man. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Jesús y Nicodemo
@@ -209,6 +212,7 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 ^a^[**3:31** Juan 8,23] ^b^[**3:34** Juan 1,16] ^c^[**3:35** Juan 5,20; Mat 11,27]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews. ^2^ He came to Jesus by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.” 
@@ -233,8 +237,8 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 ^31^ “He who comes from above is above all. He who is from the earth belongs to the earth and speaks of the earth. He who comes from heaven is above all. ^32^ What he has seen and heard, of that he testifies; and no one receives his witness. ^33^ He who has received his witness has set his seal to this, that God is true. ^34^ For he whom God has sent speaks the words of God; for God gives the Spirit without measure. ^35^ The Father loves the Son, and has given all things into his hand. ^36^ One who believes in the Son has eternal life, but one who disobeys^a^ the Son won’t see life, but the wrath of God remains on him.”
 ^a^[**3:36** The same word can be translated “disobeys” or “disbelieves” in this context.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Jesús habla con la mujer samaritana junto al pozo de Jacob
@@ -296,6 +300,7 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 ^a^[**4:54** Juan 2,11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John ^2^ (although Jesus himself didn’t baptize, but his disciples), ^3^ he left Judea and departed into Galilee. ^4^ He needed to pass through Samaria. ^5^ So he came to a city of Samaria called Sychar, near the parcel of ground that Jacob gave to his son Joseph. ^6^ Jacob’s well was there. Jesus therefore, being tired from his journey, sat down by the well. It was about the sixth hour.^a^ 
@@ -347,8 +352,8 @@ Jesus said to her, “You said well, ‘I have no husband,’ ^18^ for you have 
 ^50^ Jesus said to him, “Go your way. Your son lives.” The man believed the word that Jesus spoke to him, and he went his way. ^51^ As he was going down, his servants met him and reported, saying “Your child lives!” ^52^ So he inquired of them the hour when he began to get better. They said therefore to him, “Yesterday at the seventh hour,^a^ the fever left him.” ^53^ So the father knew that it was at that hour in which Jesus said to him, “Your son lives.” He believed, as did his whole house. ^54^ This is again the second sign that Jesus did, having come out of Judea into Galilee.
 ^a^[**4:52** 1:00 p. m.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Sanación de los enfermos en el estanque de Betesda cerca de Jerusalén y concurso del sábado
@@ -403,6 +408,7 @@ Jesus said to her, “You said well, ‘I have no husband,’ ^18^ for you have 
 ^a^[**5:45** Deut 31,26-27] ^b^[**5:46** Gén 3,15; Gén 49,10; Deut 18,15] ^c^[**5:47** Luc 16,31]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ After these things, there was a feast of the Jews, and Jesus went up to Jerusalem. ^2^ Now in Jerusalem by the sheep gate, there is a pool, which is called in Hebrew, “Bethesda”, having five porches. ^3^ In these lay a great multitude of those who were sick, blind, lame, or paralyzed, waiting for the moving of the water; ^4^ for an angel went down at certain times into the pool and stirred up the water. Whoever stepped in first after the stirring of the water was healed of whatever disease he had.^a^ ^5^ A certain man was there who had been sick for thirty-eight years. ^6^ When Jesus saw him lying there, and knew that he had been sick for a long time, he asked him, “Do you want to be made well?” 
@@ -436,8 +442,8 @@ Now that day was a Sabbath. ^10^ So the Jews said to him who was cured, “It is
 
 ^45^ “Don’t think that I will accuse you to the Father. There is one who accuses you, even Moses, on whom you have set your hope. ^46^ For if you believed Moses, you would believe me; for he wrote about me. ^47^ But if you don’t believe his writings, how will you believe my words?” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Jesús alimenta a los cinco mil
@@ -500,6 +506,7 @@ Now that day was a Sabbath. ^10^ So the Jews said to him who was cured, “It is
 ^70^ Jesús les respondió: “¿No os he elegido a vosotros, los doce, y uno de vosotros es un demonio?” ^71^ Ahora bien, hablaba de Judas, hijo de Simón Iscariote, porque era él quien lo iba a traicionar, siendo uno de los doce.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ After these things, Jesus went away to the other side of the sea of Galilee, which is also called the Sea of Tiberias. ^2^ A great multitude followed him, because they saw his signs which he did on those who were sick. ^3^ Jesus went up into the mountain, and he sat there with his disciples. ^4^ Now the Passover, the feast of the Jews, was at hand. ^5^ Jesus therefore, lifting up his eyes and seeing that a great multitude was coming to him, said to Philip, “Where are we to buy bread, that these may eat?” ^6^ He said this to test him, for he himself knew what he would do. 
@@ -550,8 +557,8 @@ Now that day was a Sabbath. ^10^ So the Jews said to him who was cured, “It is
 
 ^70^ Jesus answered them, “Didn’t I choose you, the twelve, and one of you is a devil?” ^71^ Now he spoke of Judas, the son of Simon Iscariot, for it was he who would betray him, being one of the twelve. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Jesús viaja a Jerusalén para la Fiesta de los Tabernáculos
@@ -616,6 +623,7 @@ Now that day was a Sabbath. ^10^ So the Jews said to him who was cured, “It is
 ^53^ Cada uno se fue a su casa,
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ After these things, Jesus was walking in Galilee, for he wouldn’t walk in Judea, because the Jews sought to kill him. ^2^ Now the feast of the Jews, the Feast of Booths, was at hand. ^3^ His brothers therefore said to him, “Depart from here and go into Judea, that your disciples also may see your works which you do. ^4^ For no one does anything in secret while he seeks to be known openly. If you do these things, reveal yourself to the world.” ^5^ For even his brothers didn’t believe in him. 
@@ -656,8 +664,8 @@ Now that day was a Sabbath. ^10^ So the Jews said to him who was cured, “It is
 
 ^53^ Everyone went to his own house, 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Jesús y la adúltera
@@ -736,6 +744,7 @@ Now that day was a Sabbath. ^10^ So the Jews said to him who was cured, “It is
 ^a^[**8:59** Juan 10,31]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ but Jesus went to the Mount of Olives. 
@@ -805,8 +814,8 @@ They said to him, “We were not born of sexual immorality. We have one Father, 
 
 ^59^ Therefore they took up stones to throw at him, but Jesus hid himself and went out of the temple, having gone through the middle of them, and so passed by. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## La curación del ciego de nacimiento en sábado
@@ -872,6 +881,7 @@ They said to him, “We were not born of sexual immorality. We have one Father, 
 ^a^[**9:41** Prov 26,12; Juan 15,22]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ As he passed by, he saw a man blind from birth. ^2^ His disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?” 
@@ -933,8 +943,8 @@ He said, “He is a prophet.”
 
 ^41^ Jesus said to them, “If you were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## El lenguaje figurado del pastor y ladrón y del buen pastor y asalariado
@@ -975,6 +985,7 @@ He said, “He is a prophet.”
 ^a^[**10:40** Juan 1,28]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ “Most certainly, I tell you, one who doesn’t enter by the door into the sheep fold, but climbs up some other way, is a thief and a robber. ^2^ But one who enters in by the door is the shepherd of the sheep. ^3^ The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name and leads them out. ^4^ Whenever he brings out his own sheep, he goes before them; and the sheep follow him, for they know his voice. ^5^ They will by no means follow a stranger, but will flee from him; for they don’t know the voice of strangers.” ^6^ Jesus spoke this parable to them, but they didn’t understand what he was telling them. 
@@ -982,7 +993,7 @@ He said, “He is a prophet.”
 ^7^ Jesus therefore said to them again, “Most certainly, I tell you, I am the sheep’s door. ^8^ All who came before me are thieves and robbers, but the sheep didn’t listen to them. ^9^ I am the door. If anyone enters in by me, he will be saved, and will go in and go out and will find pasture. ^10^ The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly. 
 
 ^11^ “I am the good shepherd.^a^ The good shepherd lays down his life for the sheep. ^12^ He who is a hired hand, and not a shepherd, who doesn’t own the sheep, sees the wolf coming, leaves the sheep, and flees. The wolf snatches the sheep and scatters them. ^13^ The hired hand flees because he is a hired hand and doesn’t care for the sheep. ^14^ I am the good shepherd. I know my own, and I’m known by my own; ^15^ even as the Father knows me, and I know the Father. I lay down my life for the sheep. ^16^ I have other sheep which are not of this fold.^b^ I must bring them also, and they will hear my voice. They will become one flock with one shepherd. ^17^ Therefore the Father loves me, because I lay down my life, ^c^ that I may take it again. ^18^ No one takes it away from me, but I lay it down by myself. I have power to lay it down, and I have power to take it again. I received this commandment from my Father.” 
-^a^[**10:11** Isaiah 40:11; Ezekiel 34:11-12, 15, 22] ^b^[**10:16** Isaiah 56:8 ] ^c^[**10:17** Isaiah 53:7-8]
+^a^[**10:11** Isaiah 40:11; Ezekiel 34:11-12,15,22] ^b^[**10:16** Isaiah 56:8 ] ^c^[**10:17** Isaiah 53:7-8]
 
 ^19^ Therefore a division arose again among the Jews because of these words. ^20^ Many of them said, “He has a demon and is insane! Why do you listen to him?” ^21^ Others said, “These are not the sayings of one possessed by a demon. It isn’t possible for a demon to open the eyes of the blind, is it?”^a^ 
 ^a^[**10:21** Exodus 4:11]
@@ -1001,8 +1012,8 @@ He said, “He is a prophet.”
 
 ^39^ They sought again to seize him, and he went out of their hand. ^40^ He went away again beyond the Jordan into the place where John was baptizing at first, and he stayed there. ^41^ Many came to him. They said, “John indeed did no sign, but everything that John said about this man is true.” ^42^ Many believed in him there. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ^1^ Un hombre estaba enfermo, Lázaro, de Betania, del pueblo de María y de su hermana Marta. ^a^ ^2^ Era aquella María, que había ungido al Señor con ungüento y enjugado sus pies con sus cabellos, cuyo hermano Lázaro estaba enfermo. ^b^ ^3^ Las hermanas, pues, enviaron a decirle: “Señor, he aquí que está enfermo aquel a quien tienes gran afecto.”
@@ -1077,6 +1088,7 @@ He said, “He is a prophet.”
 ^a^[**11:55** 2Cró 30,17-18]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha. ^2^ It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick. ^3^ The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.” 
@@ -1095,7 +1107,7 @@ He said, “He is a prophet.”
 ^a^[**11:16** “Didymus” means “Twin”.]
 
 ^17^ So when Jesus came, he found that he had been in the tomb four days already. ^18^ Now Bethany was near Jerusalem, about fifteen stadia^a^ away. ^19^ Many of the Jews had joined the women around Martha and Mary, to console them concerning their brother. ^20^ Then when Martha heard that Jesus was coming, she went and met him, but Mary stayed in the house. ^21^ Therefore Martha said to Jesus, “Lord, if you would have been here, my brother wouldn’t have died. ^22^ Even now I know that whatever you ask of God, God will give you.” 
-^a^[**11:18** 15 stadia is about 2. 8 kilometers or 1. 7 miles]
+^a^[**11:18** 15 stadia is about 2.8 kilometers or 1.7 miles]
 
 ^23^ Jesus said to her, “Your brother will rise again.” 
 
@@ -1138,8 +1150,8 @@ Jesus said to them, “Free him, and let him go.”
 
 ^55^ Now the Passover of the Jews was at hand. Many went up from the country to Jerusalem before the Passover, to purify themselves. ^56^ Then they sought for Jesus and spoke with one another as they stood in the temple, “What do you think—that he isn’t coming to the feast at all?” ^57^ Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## La unción de Jesús (consagración de la muerte) en Betania
@@ -1197,6 +1209,7 @@ Jesus said to them, “Free him, and let him go.”
 ^a^[**12:45** Juan 14,9] ^b^[**12:47** Juan 3,17; Luc 9,56]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ Then, six days before the Passover, Jesus came to Bethany, where Lazarus was, who had been dead, whom he raised from the dead. ^2^ So they made him a supper there. Martha served, but Lazarus was one of those who sat at the table with him. ^3^ Therefore Mary took a pound^a^ of ointment of pure nard, very precious, and anointed Jesus’s feet and wiped his feet with her hair. The house was filled with the fragrance of the ointment. 
@@ -1241,8 +1254,8 @@ Then a voice came out of the sky, saying, “I have both glorified it and will g
 
 ^44^ Jesus cried out and said, “Whoever believes in me, believes not in me, but in him who sent me. ^45^ He who sees me sees him who sent me. ^46^ I have come as a light into the world, that whoever believes in me may not remain in the darkness. ^47^ If anyone listens to my sayings and doesn’t believe, I don’t judge him. For I came not to judge the world, but to save the world. ^48^ He who rejects me, and doesn’t receive my sayings, has one who judges him. The word that I spoke will judge him in the last day. ^49^ For I spoke not from myself, but the Father who sent me gave me a commandment, what I should say and what I should speak. ^50^ I know that his commandment is eternal life. The things therefore which I speak, even as the Father has said to me, so I speak.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## El lavado de pies
@@ -1292,6 +1305,7 @@ Then a voice came out of the sky, saying, “I have both glorified it and will g
 ^38^ Jesús le contestó: “¿Vas a dar tu vida por mí? Te aseguro que el gallo no cantará hasta que me hayas negado tres veces. 
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ Now before the feast of the Passover, Jesus, knowing that his time had come that he would depart from this world to the Father, having loved his own who were in the world, he loved them to the end. ^2^ During supper, the devil having already put into the heart of Judas Iscariot, Simon’s son, to betray him, ^3^ Jesus, knowing that the Father had given all things into his hands, and that he came from God and was going to God, ^4^ arose from supper, and laid aside his outer garments. He took a towel and wrapped a towel around his waist. ^5^ Then he poured water into the basin, and began to wash the disciples’ feet and to wipe them with the towel that was wrapped around him. ^6^ Then he came to Simon Peter. He said to him, “Lord, do you wash my feet?” 
@@ -1329,8 +1343,8 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 
 ^38^ Jesus answered him, “Will you lay down your life for me? Most certainly I tell you, the rooster won’t crow until you have denied me three times. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## Jesús el camino a Dios, su unión con Dios
@@ -1366,6 +1380,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 ^a^[**14:27** Juan 16,33; Fil 4,7] ^b^[**14:30** Juan 12,31; Efes 2,2] ^c^[**14:31** Juan 10,18]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ “Don’t let your heart be troubled. Believe in God. Believe also in me. ^2^ In my Father’s house are many homes. If it weren’t so, I would have told you. I am going to prepare a place for you. ^3^ If I go and prepare a place for you, I will come again and will receive you to myself; that where I am, you may be there also. ^4^ You know where I go, and you know the way.” 
@@ -1385,8 +1400,8 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 
 ^25^ “I have said these things to you while still living with you. ^26^ But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things, and will remind you of all that I said to you. ^27^ Peace I leave with you. My peace I give to you; not as the world gives, I give to you. Don’t let your heart be troubled, neither let it be fearful. ^28^ You heard how I told you, ‘I am going away, and I will come back to you.’ If you loved me, you would have rejoiced because I said ‘I am going to my Father;’ for the Father is greater than I. ^29^ Now I have told you before it happens so that when it happens, you may believe. ^30^ I will no more speak much with you, for the prince of the world comes, and he has nothing in me. ^31^ But that the world may know that I love the Father, and as the Father commanded me, even so I do. Arise, let’s go from here. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## Parábola de la vid y las ramas
@@ -1413,6 +1428,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 ^a^[**15:26** Parakletos griego: Consejero, Ayudante, Abogado, Intercesor y Consolador.] ^b^[**15:26** Juan 14,16; Juan 14,26; Luc 24,49] ^c^[**15:27** Hech 1,8; Hech 1,21-22; Hech 5,32]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ “I am the true vine, and my Father is the farmer. ^2^ Every branch in me that doesn’t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit. ^3^ You are already pruned clean because of the word which I have spoken to you. ^4^ Remain in me, and I in you. As the branch can’t bear fruit by itself unless it remains in the vine, so neither can you, unless you remain in me. ^5^ I am the vine. You are the branches. He who remains in me and I in him bears much fruit, for apart from me you can do nothing. ^6^ If a man doesn’t remain in me, he is thrown out as a branch and is withered; and they gather them, throw them into the fire, and they are burned. ^7^ If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you. 
@@ -1427,8 +1443,8 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 ^26^ “When the Counselor^a^ has come, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me. ^27^ You will also testify, because you have been with me from the beginning.
 ^a^[**15:26** Greek Parakletos: Counselor, Helper, Advocate, Intercessor, and Comforter.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ^1^ “Os he dicho estas cosas para no haceros tropezar. ^2^ Os expulsarán de las sinagogas. Sí, viene el tiempo en que quien os mate pensará que ofrece un servicio a Dios. ^a^ ^3^ Ellos harán estas cosas ^b^ porque no han conocido al Padre ni a mí. ^c^ ^4^ Pero os he dicho estas cosas para que, cuando llegue el momento, os acordéis de que os las he contado. No os dije estas cosas desde el principio, porque estaba con vosotros.
@@ -1463,6 +1479,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 ^a^[**16:32** Zac 13,7; Mat 26,31] ^b^[**16:33** Juan 14,27; Rom 5,1; 1Jn 5,4]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ “I have said these things to you so that you wouldn’t be caused to stumble. ^2^ They will put you out of the synagogues. Yes, the time is coming that whoever kills you will think that he offers service to God. ^3^ They will do these things^a^ because they have not known the Father nor me. ^4^ But I have told you these things so that when the time comes, you may remember that I told you about them. I didn’t tell you these things from the beginning, because I was with you. ^5^ But now I am going to him who sent me, and none of you asks me, ‘Where are you going?’ ^6^ But because I have told you these things, sorrow has filled your heart. ^7^ Nevertheless I tell you the truth: It is to your advantage that I go away; for if I don’t go away, the Counselor won’t come to you. But if I go, I will send him to you. ^8^ When he has come, he will convict the world about sin, about righteousness, and about judgment; ^9^ about sin, because they don’t believe in me; ^10^ about righteousness, because I am going to my Father, and you won’t see me any more; ^11^ about judgment, because the prince of this world has been judged. 
@@ -1485,8 +1502,8 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 
 ^31^ Jesus answered them, “Do you now believe? ^32^ Behold, the time is coming, yes, and has now come, that you will be scattered, everyone to his own place, and you will leave me alone. Yet I am not alone, because the Father is with me. ^33^ I have told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 17
 ## Oración de despedida de Jesús con los suyos y para los suyos
@@ -1502,6 +1519,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 ^a^[**17:20** Rom 10,17] ^b^[**17:21** Gal 3,28] ^c^[**17:22** Hech 4,32] ^d^[**17:23** 1Cor 6,17] ^e^[**17:24** Juan 12,26]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 17
 ^1^ Jesus said these things, then lifting up his eyes to heaven, he said, “Father, the time has come. Glorify your Son, that your Son may also glorify you; ^2^ even as you gave him authority over all flesh, so he will give eternal life to all whom you have given him. ^3^ This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ. ^4^ I glorified you on the earth. I have accomplished the work which you have given me to do. ^5^ Now, Father, glorify me with your own self with the glory which I had with you before the world existed. 
@@ -1511,8 +1529,8 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 
 ^20^ “Not for these only do I pray, but for those also who will believe in me through their word, ^21^ that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me. ^22^ The glory which you have given me, I have given to them, that they may be one, even as we are one, ^23^ I in them, and you in me, that they may be perfected into one, that the world may know that you sent me and loved them, even as you loved me. ^24^ Father, I desire that they also whom you have given me be with me where I am, that they may see my glory which you have given me, for you loved me before the foundation of the world. ^25^ Righteous Father, the world hasn’t known you, but I knew you; and these knew that you sent me. ^26^ I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 18
 ## Jesús en Getsemaní: Judas, Malco, arresto de Jesús
@@ -1579,6 +1597,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 ^40^ Entonces todos volvieron a gritar, diciendo: “Este no, sino Barrabás”. Ahora bien, Barrabás era un ladrón.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 18
 ^1^ When Jesus had spoken these words, he went out with his disciples over the brook Kidron, where there was a garden, into which he and his disciples entered. ^2^ Now Judas, who betrayed him, also knew the place, for Jesus often met there with his disciples. ^3^ Judas then, having taken a detachment of soldiers and officers from the chief priests and the Pharisees, came there with lanterns, torches, and weapons. ^4^ Jesus therefore, knowing all the things that were happening to him, went out and said to them, “Who are you looking for?” 
@@ -1650,8 +1669,8 @@ When he had said this, he went out again to the Jews, and said to them, “I fin
 
 ^40^ Then they all shouted again, saying, “Not this man, but Barabbas!” Now Barabbas was a robber. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 19
 ^1^ Entonces Pilato tomó a Jesús y lo azotó. ^2^ Los soldados trenzaron espinas en la forma de una corona y se la pusieron en la cabeza, y lo vistieron con un manto de púrpura. ^3^ No dejaban de decir: “¡Salve, Rey de los Judíos!” y no dejaban de abofetearle.
@@ -1700,6 +1719,7 @@ When he had said this, he went out again to the Jews, and said to them, “I fin
 ^a^[**19:38** Juan 7,13] ^b^[**19:39** 100 libras romanas de 12 onzas cada una, es decir, unas 72 libras o 33 kilogramos.] ^c^[**19:39** Juan 3,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 19
 ^1^ So Pilate then took Jesus and flogged him. ^2^ The soldiers twisted thorns into a crown and put it on his head, and dressed him in a purple garment. ^3^ They kept saying, “Hail, King of the Jews!” and they kept slapping him. 
@@ -1747,8 +1767,8 @@ The chief priests answered, “We have no king but Caesar!”
 ^38^ After these things, Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away Jesus’ body. Pilate gave him permission. He came therefore and took away his body. ^39^ Nicodemus, who at first came to Jesus by night, also came bringing a mixture of myrrh and aloes, about a hundred Roman pounds.^a^ ^40^ So they took Jesus’ body, and bound it in linen cloths with the spices, as the custom of the Jews is to bury. ^41^ Now in the place where he was crucified there was a garden. In the garden was a new tomb in which no man had ever yet been laid. ^42^ Then, because of the Jews’ Preparation Day (for the tomb was near at hand), they laid Jesus there.
 ^a^[**19:39** 100 Roman pounds of 12 ounces each, or about 72 pounds, or 33 Kilograms.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 20
 ## María Magdalena y el sepulcro vacío; Pedro y Juan en la tumba
@@ -1793,6 +1813,7 @@ The chief priests answered, “We have no king but Caesar!”
 ^a^[**20:30** Juan 21,24-25] ^b^[**20:31** 1Jn 5,13]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 20
 ^1^ Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb. ^2^ Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!” 
@@ -1832,8 +1853,8 @@ But he said to them, “Unless I see in his hands the print of the nails, put my
 
 ^30^ Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book; ^31^ but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 21
 ## Jesús se revela a sus discípulos en el lago de Tiberíades
@@ -1864,6 +1885,7 @@ But he said to them, “Unless I see in his hands the print of the nails, put my
 
 ^24^ Este es el discípulo que da testimonio de estas cosas, y escribió estas cosas. Sabemos que su testimonio es verdadero. ^[**21:24** Juan 15,27] ^25^ Hay también muchas otras cosas que hizo Jesús, que si se escribieran todas, supongo que ni el mundo mismo tendría espacio para los libros que se escribirían. ^[**21:25** Juan 20,30]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 21
 ^1^ After these things, Jesus revealed himself again to the disciples at the sea of Tiberias. He revealed himself this way. ^2^ Simon Peter, Thomas called Didymus,^a^ Nathanael of Cana in Galilee, and the sons of Zebedee, and two others of his disciples were together. ^3^ Simon Peter said to them, “I’m going fishing.” 
@@ -1908,4 +1930,5 @@ Jesus said to him, “Feed my sheep. ^18^ Most certainly I tell you, when you we
 ^a^[**21:23** The word for “brothers” here may be also correctly translated “brothers and sisters” or “siblings.”]
 
 ^24^ This is the disciple who testifies about these things, and wrote these things. We know that his witness is true. ^25^ There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

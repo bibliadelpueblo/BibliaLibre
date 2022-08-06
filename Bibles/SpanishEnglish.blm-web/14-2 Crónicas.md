@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Acceso de Salomón al gobierno; su ejército y su riqueza
@@ -23,6 +24,7 @@
 ^a^[**1:14** 1Re 10,26-29] ^b^[**1:15** 2Cró 9,27] ^c^[**1:17** Las piezas de plata eran probablemente siclos, por lo que 600 piezas serían unas 13,2 libras o 6 kilogramos de plata, y 150 serían unas 3,3 libras o 1,5 kilogramos de plata.] ^d^[**1:17** “Beracah” significa “bendición”.]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Solomon the son of David was firmly established in his kingdom, and Yahweh^a^ his God^b^ was with him, and made him exceedingly great. 
@@ -39,10 +41,10 @@
 ^13^ So Solomon came from the high place that was at Gibeon, from before the Tent of Meeting, to Jerusalem; and he reigned over Israel. 
 
 ^14^ Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen that he placed in the chariot cities, and with the king at Jerusalem. ^15^ The king made silver and gold to be as common as stones in Jerusalem, and he made cedars to be as common as the sycamore trees that are in the lowland. ^16^ The horses which Solomon had were brought out of Egypt and from Kue. The king’s merchants purchased them from Kue. ^17^ They imported from Egypt then exported a chariot for six hundred pieces of silver and a horse for one hundred fifty.^a^ They also exported them to the Hittite kings and the Syrian^b^ kings.
-^a^[**1:17** The pieces of silver were probably shekels, so 600 pieces would be about 13. 2 pounds or 6 kilograms of silver, and 150 would be about 3. 3 pounds or 1. 5 kilograms of silver.] ^b^[**1:17** or, Aramean] 
+^a^[**1:17** The pieces of silver were probably shekels, so 600 pieces would be about 13.2 pounds or 6 kilograms of silver, and 150 would be about 3.3 pounds or 1.5 kilograms of silver.] ^b^[**1:17** or, Aramean] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## El tratado de Salomón con Hiram de Tiro; Preparativos para la construcción del templo
@@ -72,6 +74,7 @@
 ^a^[**2:18** Jos 9,27]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ Now Solomon decided to build a house for Yahweh’s name, and a house for his kingdom. ^2^ Solomon counted out seventy thousand men to bear burdens, eighty thousand men who were stone cutters in the mountains, and three thousand six hundred to oversee them. 
@@ -84,7 +87,7 @@
 ^7^ “Now therefore send me a man skillful to work in gold, in silver, in bronze, in iron, and in purple, crimson, and blue, and who knows how to engrave engravings, to be with the skillful men who are with me in Judah and in Jerusalem, whom David my father provided. 
 
 ^8^ “Send me also cedar trees, cypress trees, and algum trees out of Lebanon, for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants, ^9^ even to prepare me timber in abundance; for the house which I am about to build will be great and wonderful. ^10^ Behold, I will give to your servants, the cutters who cut timber, twenty thousand cors^a^ of beaten wheat, twenty thousand baths^b^ of barley, twenty thousand baths of wine, and twenty thousand baths of oil.” 
-^a^[**2:10** 1 cor is the same as a homer, or about 55. 9 U. S. gallons (liquid) or 211 liters or 6 bushels, so 20, 000 cors of wheat would weigh about 545 metric tons] ^b^[**2:10** 1 bath is one tenth of a cor, or about 5. 6 U. S. gallons or 21 liters or 2. 4 pecks. 20, 000 baths of barley would weigh about 262 metric tons.]
+^a^[**2:10** 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels, so 20,000 cors of wheat would weigh about 545 metric tons] ^b^[**2:10** 1 bath is one tenth of a cor, or about 5.6 U. S. gallons or 21 liters or 2.4 pecks. 20,000 baths of barley would weigh about 262 metric tons.]
 
 ^11^ Then Huram the king of Tyre answered in writing, which he sent to Solomon, “Because Yahweh loves his people, he has made you king over them.” ^12^ Huram continued, “Blessed be Yahweh, the God of Israel, who made heaven and earth, who has given to David the king a wise son, endowed with discretion and understanding, who would build a house for Yahweh and a house for his kingdom. 
 
@@ -95,8 +98,8 @@
 
 ^17^ Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred. ^18^ He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Inicio de la construcción del templo; los muebles del templo
@@ -116,20 +119,21 @@
 ^15^ También hizo delante de la casa dos columnas de treinta y cinco codos de altura, y el capitel que estaba en la parte superior de cada una de ellas era de cinco codos. ^16^ Hizo cadenas en el santuario interior y las puso en la parte superior de las columnas; hizo cien granadas y las puso en las cadenas. ^17^ Colocó las columnas delante del templo, una a la derecha y otra a la izquierda, y llamó al de la derecha Jaquín, y al de la izquierda Boaz.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Then Solomon began to build Yahweh’s house at Jerusalem on Mount Moriah, where Yahweh appeared to David his father, which he prepared in the place that David had appointed, on the threshing floor of Ornan the Jebusite. ^2^ He began to build in the second day of the second month, in the fourth year of his reign. ^3^ Now these are the foundations which Solomon laid for the building of God’s house: the length by cubits^a^ after the first measure was sixty cubits, and the width twenty cubits. ^4^ The porch that was in front, its length, across the width of the house, was twenty cubits, and the height one hundred twenty; and he overlaid it within with pure gold. ^5^ He made the larger room with a ceiling of cypress wood, which he overlaid with fine gold, and ornamented it with palm trees and chains. ^6^ He decorated the house with precious stones for beauty. The gold was gold from Parvaim. ^7^ He also overlaid the house, the beams, the thresholds, its walls, and its doors with gold, and engraved cherubim on the walls. 
 ^a^[**3:3** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
 ^8^ He made the most holy place. Its length, according to the width of the house, was twenty cubits, and its width twenty cubits; and he overlaid it with fine gold, amounting to six hundred talents.^a^ ^9^ The weight of the nails was fifty shekels^b^ of gold. He overlaid the upper rooms with gold. 
-^a^[**3:8** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 600 talents is about 18 metric tons] ^b^[**3:9** A shekel is about 10 grams or about 0. 32 Troy ounces, so 50 shekels was about 0. 5 kilograms or about 16 Troy ounces.]
+^a^[**3:8** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 600 talents is about 18 metric tons] ^b^[**3:9** A shekel is about 10 grams or about 0.32 Troy ounces, so 50 shekels was about 0.5 kilograms or about 16 Troy ounces.]
 
 ^10^ In the most holy place he made two cherubim by carving, and they overlaid them with gold. ^11^ The wings of the cherubim were twenty cubits long: the wing of the one was five cubits, reaching to the wall of the house; and the other wing was five cubits, reaching to the wing of the other cherub. ^12^ The wing of the other cherub was five cubits, reaching to the wall of the house; and the other wing was five cubits, joining to the wing of the other cherub. ^13^ The wings of these cherubim spread themselves out twenty cubits. They stood on their feet, and their faces were toward the house. ^14^ He made the veil of blue, purple, crimson, and fine linen, and ornamented it with cherubim. 
 
 ^15^ Also he made before the house two pillars thirty-five cubits high, and the capital that was on the top of each of them was five cubits. ^16^ He made chains in the inner sanctuary, and put them on the tops of the pillars; and he made one hundred pomegranates, and put them on the chains. ^17^ He set up the pillars before the temple, one on the right hand and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Fabricación de implementos para el templo
@@ -143,10 +147,11 @@
 ^19^ Salomón hizo todos los utensilios que había en la casa de Dios: el altar de oro, las mesas con el pan de la función sobre ellas, ^20^ y los candelabros con sus lámparas para arder según la ordenanza ante el santuario interior, de oro puro; ^21^ y las flores, las lámparas y las tenazas de oro purísimo; ^22^ y los apagavelas, las palanganas, las cucharas y los recipientes para el fuego, de oro puro. En cuanto a la entrada de la casa, sus puertas interiores para el lugar santísimo y las puertas de la sala principal del templo eran de oro.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ Then he made an altar of bronze, twenty cubits^a^ long, twenty cubits wide, and ten cubits high. ^2^ Also he made the molten sea^b^ of ten cubits from brim to brim. It was round, five cubits high, and thirty cubits in circumference. ^3^ Under it was the likeness of oxen, which encircled it, for ten cubits, encircling the sea. The oxen were in two rows, cast when it was cast. ^4^ It stood on twelve oxen, three looking toward the north, three looking toward the west, three looking toward the south, and three looking toward the east; and the sea was set on them above, and all their hindquarters were inward. ^5^ It was a handbreadth thick. Its brim was made like the brim of a cup, like the flower of a lily. It received and held three thousand baths.^c^ ^6^ He also made ten basins, and put five on the right hand and five on the left, to wash in them. The things that belonged to the burnt offering were washed in them, but the sea was for the priests to wash in. 
-^a^[**4:1** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.] ^b^[**4:2** or, pool, or, reservoir] ^c^[**4:5** A bath is about 5. 6 U. S. gallons or 21. 1 liters, so 3, 000 baths is about 16, 800 gallons or 63. 3 kiloliters.]
+^a^[**4:1** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.] ^b^[**4:2** or, pool, or, reservoir] ^c^[**4:5** A bath is about 5.6 U. S. gallons or 21.1 liters, so 3,000 baths is about 16,800 gallons or 63.3 kiloliters.]
 
 ^7^ He made the ten lamp stands of gold according to the ordinance concerning them; and he set them in the temple, five on the right hand and five on the left. ^8^ He made also ten tables, and placed them in the temple, five on the right side and five on the left. He made one hundred basins of gold. ^9^ Furthermore he made the court of the priests, the great court, and doors for the court, and overlaid their doors with bronze. ^10^ He set the sea on the right side of the house eastward, toward the south. 
 
@@ -157,8 +162,8 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 
 ^19^ Solomon made all the vessels that were in God’s house: the golden altar, the tables with the show bread on them, ^20^ and the lamp stands with their lamps to burn according to the ordinance before the inner sanctuary, of pure gold; ^21^ and the flowers, the lamps, and the tongs of gold that was purest gold; ^22^ and the snuffers, the basins, the spoons, and the fire pans of pure gold. As for the entry of the house, its inner doors for the most holy place and the doors of the main hall of the temple were of gold. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Los objetos de valor almacenados en las cámaras del tesoro
@@ -174,6 +179,7 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 ^a^[**5:12** 1Cró 15,19; 1Cró 16,37; 1Cró 16,41-42; 1Cró 25,1-7] ^b^[**5:13** 1Cró 16,34] ^c^[**5:14** 2Cró 7,1; 2Cró 7,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Thus all the work that Solomon did for Yahweh’s house was finished. Solomon brought in the things that David his father had dedicated, even the silver, the gold, and all the vessels, and put them in the treasuries of God’s house. 
@@ -182,8 +188,8 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 
 ^11^ When the priests had come out of the holy place (for all the priests who were present had sanctified themselves, and didn’t keep their divisions; ^12^ also the Levites who were the singers, all of them, even Asaph, Heman, Jeduthun, and their sons and their brothers, arrayed in fine linen, with cymbals and stringed instruments and harps, stood at the east end of the altar, and with them one hundred twenty priests sounding with trumpets); ^13^ when the trumpeters and singers were as one, to make one sound to be heard in praising and thanking Yahweh; and when they lifted up their voice with the trumpets and cymbals and instruments of music, and praised Yahweh, saying, “For he is good, for his loving kindness endures forever!” then the house was filled with a cloud, even Yahweh’s house, ^14^ so that the priests could not stand to minister by reason of the cloud; for Yahweh’s glory filled God’s house. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## El discurso de ordenación y consagración del rey al pueblo
@@ -234,6 +240,7 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 ^a^[**6:42** 2Sam 7,13]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ Then Solomon said, “Yahweh has said that he would dwell in the thick darkness. ^2^ But I have built you a house and home, a place for you to dwell in forever.” 
@@ -271,8 +278,8 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 
 ^42^ “Yahweh God, don’t turn away the face of your anointed. Remember your loving kindnesses to David your servant.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Aparición de la gloria de Dios; Salomón y el pueblo fiesta solemne de sacrificios y asamblea de celebración
@@ -305,6 +312,7 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 ^a^[**7:20** Deut 28,37] ^b^[**7:21** Deut 29,24-27; Jer 22,8-9]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ Now when Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices; and Yahweh’s glory filled the house. ^2^ The priests could not enter into Yahweh’s house, because Yahweh’s glory filled Yahweh’s house. ^3^ All the children of Israel looked on, when the fire came down, and Yahweh’s glory was on the house. They bowed themselves with their faces to the ground on the pavement, worshiped, and gave thanks to Yahweh, saying, “For he is good, for his loving kindness endures forever!” 
@@ -327,8 +335,8 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 
 ^19^ But if you turn away and forsake my statutes and my commandments which I have set before you, and go and serve other gods and worship them, ^20^ then I will pluck them up by the roots out of my land which I have given them; and this house, which I have made holy for my name, I will cast out of my sight, and I will make it a proverb and a byword among all peoples. ^21^ This house, which is so high, everyone who passes by it will be astonished and say, ‘Why has Yahweh done this to this land and to this house?’ ^22^ They shall answer, ‘Because they abandoned Yahweh, the God of their fathers, who brought them out of the land of Egypt, and took other gods, worshiped them, and served them. Therefore he has brought all this evil on them.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Información sobre las ciudades y fortalezas de Salomón
@@ -355,6 +363,7 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 ^17^ Entonces Salomón fue a Ezión Geber y a Elot, a la orilla del mar en la tierra de Edom. ^18^ Huram le envió barcos y siervos que conocían el mar por mano de sus siervos; y vinieron con los siervos de Salomón a Ofir, y trajeron de allí cuatrocientos cincuenta talentos de oro, y los llevaron al rey Salomón.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ At the end of twenty years, in which Solomon had built Yahweh’s house and his own house, ^2^ Solomon built the cities which Huram had given to Solomon, and caused the children of Israel to dwell there. 
@@ -373,10 +382,10 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 ^16^ Now all the work of Solomon was accomplished from the day of the foundation of Yahweh’s house until it was finished. So Yahweh’s house was completed. 
 
 ^17^ Then Solomon went to Ezion Geber and to Eloth, on the seashore in the land of Edom. ^18^ Huram sent him ships and servants who had knowledge of the sea by the hands of his servants; and they came with the servants of Solomon to Ophir, and brought from there four hundred fifty talents^a^ of gold, and brought them to King Solomon.
-^a^[**8:18** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 450 talents is about 13. 5 metric tons] 
+^a^[**8:18** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 450 talents is about 13.5 metric tons] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## Visita de la Reina de Saba
@@ -401,6 +410,7 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 ^a^[**9:29** 1Re 11,29]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ When the queen of Sheba heard of the fame of Solomon, she came to test Solomon with hard questions at Jerusalem, with a very great caravan, including camels that bore spices, gold in abundance, and precious stones. When she had come to Solomon, she talked with him about all that was in her heart. ^2^ Solomon answered all her questions. There wasn’t anything hidden from Solomon which he didn’t tell her. ^3^ When the queen of Sheba had seen the wisdom of Solomon, the house that he had built, ^4^ the food of his table, the seating of his servants, the attendance of his ministers, their clothing, his cup bearers and their clothing, and his ascent by which he went up to Yahweh’s house, there was no more spirit in her.^a^ 
@@ -409,20 +419,20 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 ^5^ She said to the king, “It was a true report that I heard in my own land of your acts and of your wisdom. ^6^ However I didn’t believe their words until I came, and my eyes had seen it; and behold half of the greatness of your wisdom wasn’t told me. You exceed the fame that I heard! ^7^ Happy are your men, and happy are these your servants, who stand continually before you and hear your wisdom. ^8^ Blessed be Yahweh your God, who delighted in you and set you on his throne to be king for Yahweh your God, because your God loved Israel, to establish them forever. Therefore he made you king over them, to do justice and righteousness.” 
 
 ^9^ She gave the king one hundred and twenty talents^a^ of gold, spices in great abundance, and precious stones. There was never before such spice as the queen of Sheba gave to King Solomon. 
-^a^[**9:9** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 120 talents is about 3. 6 metric tons]
+^a^[**9:9** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 120 talents is about 3.6 metric tons]
 
 ^10^ The servants of Huram and the servants of Solomon, who brought gold from Ophir, also brought algum trees^a^ and precious stones. ^11^ The king used algum tree wood to make terraces for Yahweh’s house and for the king’s house, and harps and stringed instruments for the singers. There were none like these seen before in the land of Judah. ^12^ King Solomon gave to the queen of Sheba all her desire, whatever she asked, more than that which she had brought to the king. So she turned and went to her own land, she and her servants. 
 ^a^[**9:10** possibly Indian sandalwood, which has nice grain and a pleasant scent and is good for woodworking]
 
 ^13^ Now the weight of gold that came to Solomon in one year was six hundred sixty-six talents^a^ of gold, ^14^ in addition to that which the traders and merchants brought. All the kings of Arabia and the governors of the country brought gold and silver to Solomon. ^15^ King Solomon made two hundred large shields of beaten gold. Six hundred shekels^b^ of beaten gold went to one large shield. ^16^ He made three hundred shields of beaten gold. Three hundred shekels^c^ of gold went to one shield. The king put them in the House of the Forest of Lebanon. ^17^ Moreover the king made a great throne of ivory, and overlaid it with pure gold. ^18^ There were six steps to the throne, with a footstool of gold, which were fastened to the throne, and armrests on either side by the place of the seat, and two lions standing beside the armrests. ^19^ Twelve lions stood there on the one side and on the other on the six steps. There was nothing like it made in any other kingdom. ^20^ All King Solomon’s drinking vessels were of gold, and all the vessels of the House of the Forest of Lebanon were of pure gold. Silver was not considered valuable in the days of Solomon. ^21^ For the king had ships that went to Tarshish with Huram’s servants. Once every three years, the ships of Tarshish came bringing gold, silver, ivory, apes, and peacocks. 
-^a^[**9:13** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 666 talents is about 20 metric tons] ^b^[**9:15** A shekel is about 10 grams or about 0. 32 Troy ounces, so 600 shekels was about 6 kilograms or about 192 Troy ounces.] ^c^[**9:16** A shekel is about 10 grams or about 0. 32 Troy ounces, so 300 shekels was about 3 kilograms or about 96 Troy ounces.]
+^a^[**9:13** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 666 talents is about 20 metric tons] ^b^[**9:15** A shekel is about 10 grams or about 0.32 Troy ounces, so 600 shekels was about 6 kilograms or about 192 Troy ounces.] ^c^[**9:16** A shekel is about 10 grams or about 0.32 Troy ounces, so 300 shekels was about 3 kilograms or about 96 Troy ounces.]
 
 ^22^ So King Solomon exceeded all the kings of the earth in riches and wisdom. ^23^ All the kings of the earth sought the presence of Solomon to hear his wisdom, which God had put in his heart. ^24^ They each brought tribute: vessels of silver, vessels of gold, clothing, armor, spices, horses, and mules every year. ^25^ Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen that he stationed in the chariot cities and with the king at Jerusalem. ^26^ He ruled over all the kings from the River even to the land of the Philistines, and to the border of Egypt. ^27^ The king made silver as common in Jerusalem as stones, and he made cedars to be as abundant as the sycamore trees that are in the lowland. ^28^ They brought horses for Solomon out of Egypt and out of all lands. 
 
 ^29^ Now the rest of the acts of Solomon, first and last, aren’t they written in the history of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer concerning Jeroboam the son of Nebat? ^30^ Solomon reigned in Jerusalem over all Israel forty years. ^31^ Solomon slept with his fathers, and he was buried in his father David’s city; and Rehoboam his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## Roboam y Jeroboam en Siquem; la división del imperio
@@ -451,6 +461,7 @@ So Huram finished doing the work that he did for King Solomon in God’s house: 
 ^17^ Pero en cuanto a los hijos de Israel que vivían en las ciudades de Judá, Roboam reinó sobre ellos. ^18^ Entonces el rey Roboam envió a Hadoram, que estaba a cargo de los hombres sometidos a trabajos forzados, y los hijos de Israel lo mataron a pedradas. El rey Roboam se apresuró a subir a su carro, para huir a Jerusalén. ^19^ Así se rebeló Israel contra la casa de David hasta el día de hoy.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ Rehoboam went to Shechem, for all Israel had come to Shechem to make him king. ^2^ When Jeroboam the son of Nebat heard of it (for he was in Egypt, where he had fled from the presence of King Solomon), Jeroboam returned out of Egypt. ^3^ They sent and called him; and Jeroboam and all Israel came, and they spoke to Rehoboam, saying, ^4^ “Your father made our yoke grievous. Now therefore make the grievous service of your father and his heavy yoke which he put on us, lighter, and we will serve you.” 
@@ -475,8 +486,8 @@ So the people departed.
 
 ^17^ But as for the children of Israel who lived in the cities of Judah, Rehoboam reigned over them. ^18^ Then King Rehoboam sent Hadoram, who was over the men subject to forced labor; and the children of Israel stoned him to death with stones. King Rehoboam hurried to get himself up to his chariot, to flee to Jerusalem. ^19^ So Israel rebelled against David’s house to this day. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## Roboam se abstiene de la guerra contra Israel bajo la dirección de Dios
@@ -494,6 +505,7 @@ So the people departed.
 ^a^[**11:18** 1Sam 16,6] ^b^[**11:23** 2Cró 21,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ When Rehoboam had come to Jerusalem, he assembled the house of Judah and Benjamin, one hundred eighty thousand chosen men who were warriors, to fight against Israel, to bring the kingdom again to Rehoboam. ^2^ But Yahweh’s word came to Shemaiah the man of God, saying, ^3^ “Speak to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying, ^4^ ‘Yahweh says, “You shall not go up, nor fight against your brothers! Every man return to his house; for this thing is of me.”’” So they listened to Yahweh’s words, and returned from going against Jeroboam. 
@@ -504,8 +516,8 @@ So the people departed.
 
 ^18^ Rehoboam took a wife for himself, Mahalath the daughter of Jerimoth the son of David and of Abihail the daughter of Eliab the son of Jesse. ^19^ She bore him sons: Jeush, Shemariah, and Zaham. ^20^ After her, he took Maacah the granddaughter of Absalom; and she bore him Abijah, Attai, Ziza, and Shelomith. ^21^ Rehoboam loved Maacah the granddaughter of Absalom above all his wives and his concubines; for he took eighteen wives and sixty concubines, and became the father of twenty-eight sons and sixty daughters. ^22^ Rehoboam appointed Abijah the son of Maacah to be chief, the prince among his brothers, for he intended to make him king. ^23^ He dealt wisely, and dispersed some of his sons throughout all the lands of Judah and Benjamin, to every fortified city. He gave them food in abundance; and he sought many wives for them. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## Incursión y saqueo del rey egipcio Sisak; Aparición del profeta Semeías
@@ -526,6 +538,7 @@ So the people departed.
 ^a^[**12:15** 2Cró 13,22]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ When the kingdom of Rehoboam was established and he was strong, he abandoned Yahweh’s law, and all Israel with him. ^2^ In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem, because they had trespassed against Yahweh, ^3^ with twelve hundred chariots and sixty thousand horsemen. The people were without number who came with him out of Egypt: the Lubim, the Sukkiim, and the Ethiopians. ^4^ He took the fortified cities which belonged to Judah, and came to Jerusalem. ^5^ Now Shemaiah the prophet came to Rehoboam and to the princes of Judah, who were gathered together to Jerusalem because of Shishak, and said to them, “Yahweh says, ‘You have forsaken me, therefore I have also left you in the hand of Shishak.’” 
@@ -540,8 +553,8 @@ So the people departed.
 
 ^15^ Now the acts of Rehoboam, first and last, aren’t they written in the histories of Shemaiah the prophet and of Iddo the seer, in the genealogies? There were wars between Rehoboam and Jeroboam continually. ^16^ Rehoboam slept with his fathers, and was buried in David’s city; and Abijah his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## La guerra de Abias con Jeroboam; su discurso al ejército de Jeroboam
@@ -564,6 +577,7 @@ So the people departed.
 ^a^[**13:22** 2Cró 12,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ In the eighteenth year of King Jeroboam, Abijah began to reign over Judah. ^2^ He reigned three years in Jerusalem. His mother’s name was Micaiah the daughter of Uriel of Gibeah. There was war between Abijah and Jeroboam. ^3^ Abijah joined battle with an army of valiant men of war, even four hundred thousand chosen men; and Jeroboam set the battle in array against him with eight hundred thousand chosen men, who were mighty men of valor. ^4^ Abijah stood up on Mount Zemaraim, which is in the hill country of Ephraim, and said, “Hear me, Jeroboam and all Israel: ^5^ Ought you not to know that Yahweh, the God of Israel, gave the kingdom over Israel to David forever, even to him and to his sons by a covenant of salt? ^6^ Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, rose up, and rebelled against his lord. ^7^ Worthless men were gathered to him, wicked fellows who strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tender hearted, and could not withstand them. 
@@ -576,8 +590,8 @@ So the people departed.
 
 ^20^ Jeroboam didn’t recover strength again in the days of Abijah. Yahweh struck him, and he died. ^21^ But Abijah grew mighty and took for himself fourteen wives, and became the father of twenty-two sons and sixteen daughters. ^22^ The rest of the acts of Abijah, his ways, and his sayings are written in the commentary of the prophet Iddo. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## La intervención de Asa contra la idolatría
@@ -597,6 +611,7 @@ So the people departed.
 ^12^ El Señor hirió a los etíopes ante Asa y ante Judá, y los etíopes huyeron. ^13^ Asá y el pueblo que estaba con él los persiguieron hasta Gerar. Fueron tantos los etíopes que cayeron que no pudieron recuperarse, pues fueron destruidos ante el Señor y ante su ejército. El ejército de Judá se llevó mucho botín. ^14^ Atacaron todas las ciudades alrededor de Gerar, porque el temor de Yavé se apoderó de ellas. Saquearon todas las ciudades, pues había mucho botín en ellas. ^15^ También atacaron las tiendas de los que tenían ganado, y se llevaron ovejas y camellos en abundancia, y luego regresaron a Jerusalén.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ So Abijah slept with his fathers, and they buried him in David’s city; and Asa his son reigned in his place. In his days, the land was quiet ten years. ^2^ Asa did that which was good and right in Yahweh his God’s eyes, ^3^ for he took away the foreign altars and the high places, broke down the pillars, cut down the Asherah poles, ^4^ and commanded Judah to seek Yahweh, the God of their fathers, and to obey his law and command. ^5^ Also he took away out of all the cities of Judah the high places and the sun images; and the kingdom was quiet before him. ^6^ He built fortified cities in Judah; for the land was quiet, and he had no war in those years, because Yahweh had given him rest. ^7^ For he said to Judah, “Let’s build these cities and make walls around them, with towers, gates, and bars. The land is yet before us, because we have sought Yahweh our God. We have sought him, and he has given us rest on every side.” So they built and prospered. 
@@ -607,8 +622,8 @@ So the people departed.
 
 ^12^ So Yahweh struck the Ethiopians before Asa and before Judah; and the Ethiopians fled. ^13^ Asa and the people who were with him pursued them to Gerar. So many of the Ethiopians fell that they could not recover themselves, for they were destroyed before Yahweh and before his army. Judah’s army carried away very much booty. ^14^ They struck all the cities around Gerar, for the fear of Yahweh came on them. They plundered all the cities, for there was much plunder in them. ^15^ They also struck the tents of those who had livestock, and carried away sheep and camels in abundance, then returned to Jerusalem. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## La amonestación del profeta Azarías
@@ -626,6 +641,7 @@ So the people departed.
 ^19^ No hubo más guerra hasta el año treinta y cinco del reinado de Asa.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ The Spirit of God came on Azariah the son of Oded. ^2^ He went out to meet Asa, and said to him, “Hear me, Asa, and all Judah and Benjamin! Yahweh is with you while you are with him; and if you seek him, he will be found by you; but if you forsake him, he will forsake you. ^3^ Now for a long time Israel was without the true God, without a teaching priest, and without law. ^4^ But when in their distress they turned to Yahweh, the God of Israel, and sought him, he was found by them. ^5^ In those times there was no peace to him who went out, nor to him who came in; but great troubles were on all the inhabitants of the lands. ^6^ They were broken in pieces, nation against nation, and city against city; for God troubled them with all adversity. ^7^ But you be strong! Don’t let your hands be slack, for your work will be rewarded.” 
@@ -634,8 +650,8 @@ So the people departed.
 
 ^16^ Also Maacah, the mother of Asa the king, he removed from being queen mother, because she had made an abominable image for an Asherah; so Asa cut down her image, ground it into dust, and burned it at the brook Kidron. ^17^ But the high places were not taken away out of Israel; nevertheless the heart of Asa was perfect all his days. ^18^ He brought the things that his father had dedicated and that he himself had dedicated, silver, gold, and vessels into God’s house. ^19^ There was no more war to the thirty-fifth year of Asa’s reign. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ^1^ En el año treinta y seis del reinado de Asa, Baasa, rey de Israel, subió contra Judá y edificó Ramá, para no dejar salir ni entrar a nadie a Asa, rey de Judá. ^a^ ^2^ Entonces Asa sacó plata y oro de los tesoros de la casa de Yavé y de la casa real, y envió a Ben Hadad, rey de Siria, que vivía en Damasco, diciendo: ^3^ “Que haya un tratado entre tú y yo, como lo hubo entre mi padre y tu padre. He aquí que te he enviado plata y oro. Ve, rompe tu tratado con Baasa, rey de Israel, para que se aparte de mí”.
@@ -655,6 +671,7 @@ So the people departed.
 ^a^[**16:14** 2Cró 21,19; Jer 34,5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah, and built Ramah, that he might not allow anyone to go out or come in to Asa king of Judah. ^2^ Then Asa brought out silver and gold out of the treasures of Yahweh’s house and of the king’s house, and sent to Ben Hadad king of Syria, who lived at Damascus, saying, ^3^ “Let there be a treaty between me and you, as there was between my father and your father. Behold, I have sent you silver and gold. Go, break your treaty with Baasha king of Israel, that he may depart from me.” 
@@ -667,8 +684,8 @@ So the people departed.
 
 ^11^ Behold, the acts of Asa, first and last, behold, they are written in the book of the kings of Judah and Israel. ^12^ In the thirty-ninth year of his reign, Asa was diseased in his feet. His disease was exceedingly great; yet in his disease he didn’t seek Yahweh, but just the physicians. ^13^ Asa slept with his fathers, and died in the forty-first year of his reign. ^14^ They buried him in his own tomb, which he had dug out for himself in David’s city, and laid him in the bed which was filled with sweet odors and various kinds of spices prepared by the perfumers’ art; and they made a very great fire for him. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 17
 ## El gobierno piadoso y feliz de Josafat
@@ -683,6 +700,7 @@ So the people departed.
 ^a^[**17:11** 1Re 4,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 17
 ^1^ Jehoshaphat his son reigned in his place, and strengthened himself against Israel. ^2^ He placed forces in all the fortified cities of Judah, and set garrisons in the land of Judah and in the cities of Ephraim, which Asa his father had taken. ^3^ Yahweh was with Jehoshaphat, because he walked in the first ways of his father David, and didn’t seek the Baals, ^4^ but sought the God of his father, and walked in his commandments, and not in the ways of Israel. ^5^ Therefore Yahweh established the kingdom in his hand. All Judah brought tribute to Jehoshaphat, and he had riches and honor in abundance. ^6^ His heart was lifted up in the ways of Yahweh. Furthermore, he took away the high places and the Asherah poles out of Judah. 
@@ -691,8 +709,8 @@ So the people departed.
 
 ^10^ The fear of Yahweh fell on all the kingdoms of the lands that were around Judah, so that they made no war against Jehoshaphat. ^11^ Some of the Philistines brought Jehoshaphat presents and silver for tribute. The Arabians also brought him flocks: seven thousand seven hundred rams and seven thousand seven hundred male goats. ^12^ Jehoshaphat grew great exceedingly; and he built fortresses and store cities in Judah. ^13^ He had many works in the cities of Judah; and men of war, mighty men of valor, in Jerusalem. ^14^ This was the numbering of them according to their fathers’ houses: From Judah, the captains of thousands: Adnah the captain, and with him three hundred thousand mighty men of valor; ^15^ and next to him Jehohanan the captain, and with him two hundred eighty thousand; ^16^ and next to him Amasiah the son of Zichri, who willingly offered himself to Yahweh, and with him two hundred thousand mighty men of valor. ^17^ From Benjamin: Eliada, a mighty man of valor, and with him two hundred thousand armed with bow and shield; ^18^ and next to him Jehozabad, and with him one hundred eighty thousand ready and prepared for war. ^19^ These were those who waited on the king, in addition to those whom the king put in the fortified cities throughout all Judah. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 18
 ## Josafat y Acab unen fuerzas en una guerra contra los sirios
@@ -751,6 +769,7 @@ So the people departed.
 ^31^ Cuando los capitanes de los carros vieron a Josafat, dijeron: “¡Es el rey de Israel!” Por eso se volvieron para luchar contra él. Pero Josafat gritó, y el Señor lo ayudó; y Dios los hizo alejarse de él. ^32^ Cuando los capitanes de los carros vieron que no era el rey de Israel, dejaron de perseguirlo. ^33^ Un hombre sacó su arco al azar e hirió al rey de Israel entre las junturas de la armadura. Entonces dijo al conductor del carro: “Da la vuelta y sácame de la batalla, porque estoy gravemente herido”. ^34^ La batalla se intensificó aquel día. Sin embargo, el rey de Israel se apuntaló en su carro contra los sirios hasta el atardecer; y a eso de la puesta del sol, murió.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 18
 ^1^ Now Jehoshaphat had riches and honor in abundance; and he allied himself with Ahab. ^2^ After some years, he went down to Ahab to Samaria. Ahab killed sheep and cattle for him in abundance, and for the people who were with him, and moved him to go up with him to Ramoth Gilead. ^3^ Ahab king of Israel said to Jehoshaphat king of Judah, “Will you go with me to Ramoth Gilead?” 
@@ -809,8 +828,8 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 
 ^31^ When the captains of the chariots saw Jehoshaphat, they said, “It is the king of Israel!” Therefore they turned around to fight against him. But Jehoshaphat cried out, and Yahweh helped him; and God moved them to depart from him. ^32^ When the captains of the chariots saw that it was not the king of Israel, they turned back from pursuing him. ^33^ A certain man drew his bow at random, and struck the king of Israel between the joints of the armor. Therefore he said to the driver of the chariot, “Turn around and carry me out of the battle, for I am severely wounded.” ^34^ The battle increased that day. However, the king of Israel propped himself up in his chariot against the Syrians until the evening; and at about sunset, he died. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 19
 ## Discurso de castigo del profeta Jehú a Josafat
@@ -825,6 +844,7 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 ^a^[**19:8** Deut 17,8-9; Deut 19,17]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 19
 ^1^ Jehoshaphat the king of Judah returned to his house in peace to Jerusalem. ^2^ Jehu the son of Hanani the seer went out to meet him, and said to King Jehoshaphat, “Should you help the wicked, and love those who hate Yahweh? Because of this, wrath is on you from before Yahweh. ^3^ Nevertheless there are good things found in you, in that you have put away the Asheroth out of the land, and have set your heart to seek God.” 
@@ -833,8 +853,8 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 
 ^8^ Moreover in Jerusalem Jehoshaphat appointed certain Levites, priests, and heads of the fathers’ households of Israel to give judgment for Yahweh and for controversies. They returned to Jerusalem. ^9^ He commanded them, saying, “You shall do this in the fear of Yahweh, faithfully, and with a perfect heart. ^10^ Whenever any controversy comes to you from your brothers who dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, you must warn them, that they not be guilty toward Yahweh, and so wrath come on you and on your brothers. Do this, and you will not be guilty. ^11^ Behold, Amariah the chief priest is over you in all matters of Yahweh; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may Yahweh be with the good.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 20
 ## La oración de Josafat después de que el enemigo invadió
@@ -872,6 +892,7 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 ^a^[**20:35** 1Re 22,51-53]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 20
 ^1^ After this, the children of Moab, the children of Ammon, and with them some of the Ammonites, came against Jehoshaphat to battle. ^2^ Then some came who told Jehoshaphat, saying, “A great multitude is coming against you from beyond the sea from Syria. Behold, they are in Hazazon Tamar” (that is, En Gedi). ^3^ Jehoshaphat was alarmed, and set himself to seek to Yahweh. He proclaimed a fast throughout all Judah. ^4^ Judah gathered themselves together to seek help from Yahweh. They came out of all the cities of Judah to seek Yahweh. 
@@ -898,8 +919,8 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 
 ^35^ After this, Jehoshaphat king of Judah joined himself with Ahaziah king of Israel. The same did very wickedly. ^36^ He joined himself with him to make ships to go to Tarshish. They made the ships in Ezion Geber. ^37^ Then Eliezer the son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have joined yourself with Ahaziah, Yahweh has destroyed your works.” The ships were wrecked, so that they were not able to go to Tarshish. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 21
 ## El gobierno del rey Joram
@@ -926,6 +947,7 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 ^a^[**21:19** 2Cró 16,14] ^b^[**21:20** 2Cró 21,5; 2Cró 24,25]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 21
 ^1^ Jehoshaphat slept with his fathers, and was buried with his fathers in David’s city; and Jehoram his son reigned in his place. ^2^ He had brothers, the sons of Jehoshaphat: Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah. All these were the sons of Jehoshaphat king of Israel. ^3^ Their father gave them great gifts of silver, of gold, and of precious things, with fortified cities in Judah; but he gave the kingdom to Jehoram, because he was the firstborn. ^4^ Now when Jehoram had risen up over the kingdom of his father, and had strengthened himself, he killed all his brothers with the sword, and also some of the princes of Israel. ^5^ Jehoram was thirty-two years old when he began to reign, and he reigned eight years in Jerusalem. ^6^ He walked in the way of the kings of Israel, as did Ahab’s house, for he had Ahab’s daughter as his wife. He did that which was evil in Yahweh’s sight. ^7^ However Yahweh would not destroy David’s house, because of the covenant that he had made with David, and as he promised to give a lamp to him and to his children always. 
@@ -938,8 +960,8 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 
 ^18^ After all this Yahweh struck him in his bowels with an incurable disease. ^19^ In process of time, at the end of two years, his bowels fell out by reason of his sickness, and he died of severe diseases. His people made no burning for him, like the burning of his fathers. ^20^ He was thirty-two years old when he began to reign, and he reigned in Jerusalem eight years. He departed with no one’s regret. They buried him in David’s city, but not in the tombs of the kings. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 22
 ## El gobierno del rey Ochôzías; Su gobierno desaprobando a Dios
@@ -956,6 +978,7 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 ^10^ Cuando Atalía, madre de Ocozías, vio que su hijo había muerto, se levantó y destruyó toda la descendencia real de la casa de Judá. ^11^ Pero Josabet, hija del rey, tomó a Joás, hijo de Ocozías, y lo rescató sigilosamente de entre los hijos del rey que habían sido asesinados, y lo puso a él y a su nodriza en la alcoba. Entonces Josabet, hija del rey Joram, esposa del sacerdote Joiada (pues era hermana de Ocozías), lo escondió de Atalía, para que no lo matara. ^12^ Estuvo con ellos escondido en la casa de Dios seis años, mientras Atalía reinaba sobre el país.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 22
 ^1^ The inhabitants of Jerusalem made Ahaziah his youngest son king in his place, because the band of men who came with the Arabians to the camp had slain all the oldest. So Ahaziah the son of Jehoram king of Judah reigned. ^2^ Ahaziah was forty-two years old when he began to reign, and he reigned one year in Jerusalem. His mother’s name was Athaliah the daughter of Omri. ^3^ He also walked in the ways of Ahab’s house, because his mother was his counselor in acting wickedly. ^4^ He did that which was evil in Yahweh’s sight, as did Ahab’s house, for they were his counselors after the death of his father, to his destruction. ^5^ He also followed their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramoth Gilead; and the Syrians wounded Joram. ^6^ He returned to be healed in Jezreel of the wounds which they had given him at Ramah, when he fought against Hazael king of Syria. Azariah the son of Jehoram, king of Judah, went down to see Jehoram the son of Ahab in Jezreel, because he was sick. 
@@ -964,8 +987,8 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 
 ^10^ Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal offspring of the house of Judah. ^11^ But Jehoshabeath, the king’s daughter, took Joash the son of Ahaziah, and stealthily rescued him from among the king’s sons who were slain, and put him and his nurse in the bedroom. So Jehoshabeath, the daughter of King Jehoram, the wife of Jehoiada the priest (for she was the sister of Ahaziah), hid him from Athaliah, so that she didn’t kill him. ^12^ He was with them hidden in God’s house six years while Athaliah reigned over the land. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 23
 ## La conspiración de Joiada
@@ -984,6 +1007,7 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 ^a^[**23:16** 2Cró 15,12] ^b^[**23:18** 2Cró 29,30]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 23
 ^1^ In the seventh year, Jehoiada strengthened himself, and took the captains of hundreds—Azariah the son of Jeroham, Ishmael the son of Jehohanan, Azariah the son of Obed, Maaseiah the son of Adaiah, and Elishaphat the son of Zichri—into a covenant with him. ^2^ They went around in Judah and gathered the Levites out of all the cities of Judah, and the heads of fathers’ households of Israel, and they came to Jerusalem. ^3^ All the assembly made a covenant with the king in God’s house. Jehoiada^a^ said to them, “Behold, the king’s son must reign, as Yahweh has spoken concerning the sons of David. ^4^ This is the thing that you must do: a third part of you, who come in on the Sabbath, of the priests and of the Levites, shall be gatekeepers of the thresholds. ^5^ A third part shall be at the king’s house; and a third part at the gate of the foundation. All the people will be in the courts of Yahweh’s house. ^6^ But let no one come into Yahweh’s house except the priests and those who minister of the Levites. They shall come in, for they are holy, but all the people shall follow Yahweh’s instructions. ^7^ The Levites shall surround the king, every man with his weapons in his hand. Whoever comes into the house, let him be slain. Be with the king when he comes in and when he goes out.” 
@@ -997,8 +1021,8 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 
 ^16^ Jehoiada made a covenant between himself, all the people, and the king, that they should be Yahweh’s people. ^17^ All the people went to the house of Baal, broke it down, broke his altars and his images in pieces, and killed Mattan the priest of Baal before the altars. ^18^ Jehoiada appointed the officers of Yahweh’s house under the hand of the Levitical priests, whom David had distributed in Yahweh’s house, to offer the burnt offerings of Yahweh, as it is written in the law of Moses, with rejoicing and with singing, as David had ordered. ^19^ He set the gatekeepers at the gates of Yahweh’s house, that no one who was unclean in anything should enter in. ^20^ He took the captains of hundreds, the nobles, the governors of the people, and all the people of the land, and brought the king down from Yahweh’s house. They came through the upper gate to the king’s house, and set the king on the throne of the kingdom. ^21^ So all the people of the land rejoiced, and the city was quiet. They had slain Athaliah with the sword. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 24
 ## El gobierno del rey Joás
@@ -1029,6 +1053,7 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 ^a^[**24:25** 2Cró 21,20]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 24
 ^1^ Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name was Zibiah, of Beersheba. ^2^ Joash did that which was right in Yahweh’s eyes all the days of Jehoiada the priest. ^3^ Jehoiada took for him two wives, and he became the father of sons and daughters. 
@@ -1049,8 +1074,8 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 
 ^25^ When they had departed from him (for they left him seriously wounded), his own servants conspired against him for the blood of the sons of Jehoiada the priest, and killed him on his bed, and he died. They buried him in David’s city, but they didn’t bury him in the tombs of the kings. ^26^ These are those who conspired against him: Zabad the son of Shimeath the Ammonitess and Jehozabad the son of Shimrith the Moabitess. ^27^ Now concerning his sons, the greatness of the burdens laid on him, and the rebuilding of God’s house, behold, they are written in the commentary of the book of the kings. Amaziah his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 25
 ## El gobierno del rey Amasías; Buen comienzo para el gobierno
@@ -1087,6 +1112,7 @@ He said, “Go up, and prosper. They shall be delivered into your hand.”
 ^a^[**25:27** 2Cró 24,25]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 25
 ^1^ Amaziah was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddan, of Jerusalem. ^2^ He did that which was right in Yahweh’s eyes, but not with a perfect heart. ^3^ Now when the kingdom was established to him, he killed his servants who had killed his father the king. ^4^ But he didn’t put their children to death, but did according to that which is written in the law in the book of Moses, as Yahweh commanded, saying, “The fathers shall not die for the children, neither shall the children die for the fathers; but every man shall die for his own sin.” 
@@ -1120,8 +1146,8 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 
 ^25^ Amaziah the son of Joash, king of Judah, lived for fifteen years after the death of Joash, son of Jehoahaz, king of Israel. ^26^ Now the rest of the acts of Amaziah, first and last, behold, aren’t they written in the book of the kings of Judah and Israel? ^27^ Now from the time that Amaziah turned away from following Yahweh, they made a conspiracy against him in Jerusalem. He fled to Lachish, but they sent after him to Lachish and killed him there. ^28^ They brought him on horses and buried him with his fathers in the City of Judah. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 26
 ## El gobierno del rey Ussia; Buen comienzo para el gobierno; La felicidad de Ussia en la guerra y la paz
@@ -1145,6 +1171,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**26:22** 2Re 15,5-7; Is 1,1; Is 6,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 26
 ^1^ All the people of Judah took Uzziah, who was sixteen years old, and made him king in the place of his father Amaziah. ^2^ He built Eloth and restored it to Judah. After that the king slept with his fathers. ^3^ Uzziah was sixteen years old when he began to reign; and he reigned fifty-two years in Jerusalem. His mother’s name was Jechiliah, of Jerusalem. ^4^ He did that which was right in Yahweh’s eyes, according to all that his father Amaziah had done. ^5^ He set himself to seek God in the days of Zechariah, who had understanding in the vision of God; and as long as he sought Yahweh, God made him prosper. 
@@ -1157,8 +1184,8 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 
 ^22^ Now the rest of the acts of Uzziah, first and last, Isaiah the prophet, the son of Amoz, wrote. ^23^ So Uzziah slept with his fathers; and they buried him with his fathers in the field of burial which belonged to the kings, for they said, “He is a leper.” Jotham his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 27
 ## El gobierno del rey Jotam; Gobierno bueno y feliz; Edificios y guerras exitosas
@@ -1166,13 +1193,14 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**27:2** 2Cró 26,16] ^b^[**27:4** 2Cró 26,10] ^c^[**27:5** 10.000 cors de cebada pesan alrededor de 1.310 toneladas métricas.]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 27
 ^1^ Jotham was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name was Jerushah the daughter of Zadok. ^2^ He did that which was right in Yahweh’s eyes, according to all that his father Uzziah had done. However he didn’t enter into Yahweh’s temple. The people still acted corruptly. ^3^ He built the upper gate of Yahweh’s house, and he built much on the wall of Ophel. ^4^ Moreover he built cities in the hill country of Judah, and in the forests he built fortresses and towers. ^5^ He also fought with the king of the children of Ammon, and prevailed against them. The children of Ammon gave him the same year one hundred talents^a^ of silver, ten thousand cors^b^ of wheat, and ten thousand cors of barley.^c^ The children of Ammon also gave that much to him in the second year, and in the third. ^6^ So Jotham became mighty, because he ordered his ways before Yahweh his God. ^7^ Now the rest of the acts of Jotham, and all his wars and his ways, behold, they are written in the book of the kings of Israel and Judah. ^8^ He was twenty-five years old when he began to reign, and reigned sixteen years in Jerusalem. ^9^ Jotham slept with his fathers, and they buried him in David’s city; and Ahaz his son reigned in his place.
-^a^[**27:5** A talent is about 30 kilograms or 66 pounds] ^b^[**27:5** 1 cor is the same as a homer, or about 55. 9 U. S. gallons (liquid) or 211 liters or 6 bushels. 10, 000 cors of wheat would weigh about 1, 640 metric tons.] ^c^[**27:5** 10, 000 cors of barley would weigh about 1, 310 metric tons.] 
+^a^[**27:5** A talent is about 30 kilograms or 66 pounds] ^b^[**27:5** 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels. 10,000 cors of wheat would weigh about 1,640 metric tons.] ^c^[**27:5** 10,000 cors of barley would weigh about 1,310 metric tons.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 28
 ## El reinado del rey Acaz; Las abominaciones paganas de Acaz
@@ -1199,6 +1227,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**28:27** 2Cró 21,20]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 28
 ^1^ Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. He didn’t do that which was right in Yahweh’s eyes, like David his father, ^2^ but he walked in the ways of the kings of Israel, and also made molten images for the Baals. ^3^ Moreover he burned incense in the valley of the son of Hinnom, and burned his children in the fire, according to the abominations of the nations whom Yahweh cast out before the children of Israel. ^4^ He sacrificed and burned incense in the high places, and on the hills, and under every green tree. 
@@ -1213,8 +1242,8 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 
 ^26^ Now the rest of his acts, and all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel. ^27^ Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem, because they didn’t bring him into the tombs of the kings of Israel; and Hezekiah his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 29
 ## El gobierno del rey Ezechîas; Restauración del templo y adoración pura
@@ -1241,6 +1270,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**29:34** 2Cró 30,3; 2Cró 30,16-17] ^b^[**29:35** Lev 3,16-17; Núm 15,5; Núm 15,7; Núm 15,10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 29
 ^1^ Hezekiah began to reign when he was twenty-five years old, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abijah, the daughter of Zechariah. ^2^ He did that which was right in Yahweh’s eyes, according to all that David his father had done. ^3^ In the first year of his reign, in the first month, he opened the doors of Yahweh’s house and repaired them. ^4^ He brought in the priests and the Levites and gathered them together into the wide place on the east, ^5^ and said to them, “Listen to me, you Levites! Now sanctify yourselves, and sanctify the house of Yahweh, the God of your fathers, and carry the filthiness out of the holy place. ^6^ For our fathers were unfaithful, and have done that which was evil in Yahweh our God’s sight, and have forsaken him, and have turned away their faces from the habitation of Yahweh, and turned their backs. ^7^ Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy place to the God of Israel. ^8^ Therefore Yahweh’s wrath was on Judah and Jerusalem, and he has delivered them to be tossed back and forth, to be an astonishment and a hissing, as you see with your eyes. ^9^ For behold, our fathers have fallen by the sword, and our sons and our daughters and our wives are in captivity for this. ^10^ Now it is in my heart to make a covenant with Yahweh, the God of Israel, that his fierce anger may turn away from us. ^11^ My sons, don’t be negligent now; for Yahweh has chosen you to stand before him, to minister to him, and that you should be his ministers and burn incense.” 
@@ -1255,8 +1285,8 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 
 ^31^ Then Hezekiah answered, “Now you have consecrated yourselves to Yahweh. Come near and bring sacrifices and thank offerings into Yahweh’s house.” The assembly brought in sacrifices and thank offerings, and as many as were of a willing heart brought burnt offerings. ^32^ The number of the burnt offerings which the assembly brought was seventy bulls, one hundred rams, and two hundred lambs. All these were for a burnt offering to Yahweh. ^33^ The consecrated things were six hundred head of cattle and three thousand sheep. ^34^ But the priests were too few, so that they could not skin all the burnt offerings. Therefore their brothers the Levites helped them until the work was ended, and until the priests had sanctified themselves, for the Levites were more upright in heart to sanctify themselves than the priests. ^35^ Also the burnt offerings were in abundance, with the fat of the peace offerings and with the drink offerings for every burnt offering. So the service of Yahweh’s house was set in order. ^36^ Hezekiah and all the people rejoiced because of that which God had prepared for the people; for the thing was done suddenly. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 30
 ## Celebración de la Pascua de Ezechîas
@@ -1279,6 +1309,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**30:24** 2Cró 35,7]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 30
 ^1^ Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to Yahweh’s house at Jerusalem, to keep the Passover to Yahweh, the God of Israel. ^2^ For the king had taken counsel with his princes and all the assembly in Jerusalem to keep the Passover in the second month. ^3^ For they could not keep it at that time, because the priests had not sanctified themselves in sufficient number, and the people had not gathered themselves together to Jerusalem. ^4^ The thing was right in the eyes of the king and of all the assembly. ^5^ So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to keep the Passover to Yahweh, the God of Israel, at Jerusalem, for they had not kept it in great numbers in the way it is written. 
@@ -1293,8 +1324,8 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 
 ^23^ The whole assembly took counsel to keep another seven days, and they kept another seven days with gladness. ^24^ For Hezekiah king of Judah gave to the assembly for offerings one thousand bulls and seven thousand sheep; and the princes gave to the assembly a thousand bulls and ten thousand sheep; and a great number of priests sanctified themselves. ^25^ All the assembly of Judah, with the priests and the Levites, and all the assembly who came out of Israel, and the foreigners who came out of the land of Israel and who lived in Judah, rejoiced. ^26^ So there was great joy in Jerusalem; for since the time of Solomon the son of David king of Israel there was nothing like this in Jerusalem. ^27^ Then the Levitical priests arose and blessed the people. Their voice was heard, and their prayer came up to his holy habitation, even to heaven. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 31
 ## Limpiando la tierra de la idolatría
@@ -1316,6 +1347,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**31:21** Sal 1,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 31
 ^1^ Now when all this was finished, all Israel who were present went out to the cities of Judah and broke the pillars in pieces, cut down the Asherah poles, and broke down the high places and the altars out of all Judah and Benjamin, also in Ephraim and Manasseh, until they had destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities. 
@@ -1328,8 +1360,8 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 
 ^20^ Hezekiah did so throughout all Judah; and he did that which was good, right, and faithful before Yahweh his God. ^21^ In every work that he began in the service of God’s house, in the law, and in the commandments, to seek his God, he did it with all his heart and prospered. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 32
 ## La incursión de Senaquerib y el resto de Ezechîas
@@ -1365,6 +1397,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**32:33** 2Cró 16,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 32
 ^1^ After these things and this faithfulness, Sennacherib king of Assyria came, entered into Judah, encamped against the fortified cities, and intended to win them for himself. ^2^ When Hezekiah saw that Sennacherib had come, and that he was planning to fight against Jerusalem, ^3^ he took counsel with his princes and his mighty men to stop the waters of the springs which were outside of the city, and they helped him. ^4^ Then many people gathered together and they stopped all the springs and the brook that flowed through the middle of the land, saying, “Why should the kings of Assyria come, and find abundant water?” 
@@ -1388,8 +1421,8 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 
 ^32^ Now the rest of the acts of Hezekiah and his good deeds, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, in the book of the kings of Judah and Israel. ^33^ Hezekiah slept with his fathers, and they buried him in the ascent to the tombs of the sons of David. All Judah and the inhabitants of Jerusalem honored him at his death. Manasseh his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 33
 ## Manasés rey de Judá; Idolatría manasés
@@ -1418,6 +1451,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**33:23** 2Cró 33,12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 33
 ^1^ Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem. ^2^ He did that which was evil in Yahweh’s sight, after the abominations of the nations whom Yahweh cast out before the children of Israel. ^3^ For he built again the high places which Hezekiah his father had broken down; and he raised up altars for the Baals, made Asheroth, and worshiped all the army of the sky, and served them. ^4^ He built altars in Yahweh’s house, of which Yahweh said, “My name shall be in Jerusalem forever.” ^5^ He built altars for all the army of the sky in the two courts of Yahweh’s house. ^6^ He also made his children to pass through the fire in the valley of the son of Hinnom. He practiced sorcery, divination, and witchcraft, and dealt with those who had familiar spirits and with wizards. He did much evil in Yahweh’s sight, to provoke him to anger. ^7^ He set the engraved image of the idol, which he had made, in God’s house, of which God said to David and to Solomon his son, “In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my name forever. ^8^ I will not any more remove the foot of Israel from off the land which I have appointed for your fathers, if only they will observe to do all that I have commanded them, even all the law, the statutes, and the ordinances given by Moses.” ^9^ Manasseh seduced Judah and the inhabitants of Jerusalem, so that they did more evil than did the nations whom Yahweh destroyed before the children of Israel. 
@@ -1433,8 +1467,8 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 
 ^21^ Amon was twenty-two years old when he began to reign; and he reigned two years in Jerusalem. ^22^ He did that which was evil in Yahweh’s sight, as did Manasseh his father; and Amon sacrificed to all the engraved images which Manasseh his father had made, and served them. ^23^ He didn’t humble himself before Yahweh, as Manasseh his father had humbled himself; but this same Amon trespassed more and more. ^24^ His servants conspired against him, and put him to death in his own house. ^25^ But the people of the land killed all those who had conspired against King Amon; and the people of the land made Josiah his son king in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 34
 ## El gobierno del rey Josías
@@ -1467,6 +1501,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 ^a^[**34:29** 2Re 23,1-3] ^b^[**34:31** 2Cró 15,12; Jos 24,25] ^c^[**34:32** 2Re 23,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 34
 ^1^ Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. ^2^ He did that which was right in Yahweh’s eyes, and walked in the ways of David his father, and didn’t turn away to the right hand or to the left. ^3^ For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father; and in the twelfth year he began to purge Judah and Jerusalem from the high places, the Asherah poles, the engraved images, and the molten images. ^4^ They broke down the altars of the Baals in his presence; and he cut down the incense altars that were on high above them. He broke the Asherah poles, the engraved images, and the molten images in pieces, made dust of them, and scattered it on the graves of those who had sacrificed to them. ^5^ He burned the bones of the priests on their altars, and purged Judah and Jerusalem. ^6^ He did this in the cities of Manasseh, Ephraim, and Simeon, even to Naphtali, around in their ruins. ^7^ He broke down the altars, beat the Asherah poles and the engraved images into powder, and cut down all the incense altars throughout all the land of Israel, then returned to Jerusalem. 
@@ -1487,8 +1522,8 @@ They brought back this message to the king.
 
 ^29^ Then the king sent and gathered together all the elders of Judah and Jerusalem. ^30^ The king went up to Yahweh’s house with all the men of Judah and the inhabitants of Jerusalem—the priests, the Levites, and all the people, both great and small—and he read in their hearing all the words of the book of the covenant that was found in Yahweh’s house. ^31^ The king stood in his place and made a covenant before Yahweh, to walk after Yahweh, and to keep his commandments, his testimonies, and his statutes with all his heart and with all his soul, to perform the words of the covenant that were written in this book. ^32^ He caused all who were found in Jerusalem and Benjamin to stand. The inhabitants of Jerusalem did according to the covenant of God, the God of their fathers. ^33^ Josiah took away all the abominations out of all the countries that belonged to the children of Israel, and made all who were found in Israel to serve, even to serve Yahweh their God. All his days they didn’t depart from following Yahweh, the God of their fathers. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 35
 ## La estricta celebración de la Pascua de Josías
@@ -1513,6 +1548,7 @@ They brought back this message to the king.
 ^a^[**35:25** Jer 22,10-11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 35
 ^1^ Josiah kept a Passover to Yahweh in Jerusalem. They killed the Passover on the fourteenth day of the first month. ^2^ He set the priests in their offices and encouraged them in the service of Yahweh’s house. ^3^ He said to the Levites who taught all Israel, who were holy to Yahweh, “Put the holy ark in the house which Solomon the son of David king of Israel built. It will no longer be a burden on your shoulders. Now serve Yahweh your God and his people Israel. ^4^ Prepare yourselves after your fathers’ houses by your divisions, according to the writing of David king of Israel, and according to the writing of Solomon his son. ^5^ Stand in the holy place according to the divisions of the fathers’ houses of your brothers the children of the people, and let there be for each a portion of a fathers’ house of the Levites. ^6^ Kill the Passover lamb, sanctify yourselves, and prepare for your brothers, to do according to Yahweh’s word by Moses.” 
@@ -1529,8 +1565,8 @@ They brought back this message to the king.
 
 ^24^ So his servants took him out of the chariot, and put him in the second chariot that he had, and brought him to Jerusalem; and he died, and was buried in the tombs of his fathers. All Judah and Jerusalem mourned for Josiah. ^25^ Jeremiah lamented for Josiah, and all the singing men and singing women spoke of Josiah in their lamentations to this day; and they made them an ordinance in Israel. Behold, they are written in the lamentations. ^26^ Now the rest of the acts of Josiah and his good deeds, according to that which is written in Yahweh’s law, ^27^ and his acts, first and last, behold, they are written in the book of the kings of Israel and Judah. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 36
 ## Joachâz rey de Judá
@@ -1561,6 +1597,7 @@ They brought back this message to the king.
 ## El permiso para regresar a casa del rey persa Ciro
 ^22^ En el primer año de Ciro, rey de Persia, para que se cumpliera la palabra de Yahvé por boca de Jeremías, Yahvé despertó el espíritu de Ciro, rey de Persia, de modo que hizo una proclama por todo su reino y la puso también por escrito, diciendo: ^[**36:22** Jer 29,10; Is 44,28] ^23^ “Ciro, rey de Persia, dice: ‘Yahvé, el Dios del cielo, me ha dado todos los reinos de la tierra y me ha ordenado que le construya una casa en Jerusalén, que está en Judá. El que esté entre vosotros de todo su pueblo, que Yahvé su Dios esté con él, y que suba’”.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 36
 ^1^ Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s place in Jerusalem. ^2^ Joahaz was twenty-three years old when he began to reign; and he reigned three months in Jerusalem. ^3^ The king of Egypt removed him from office at Jerusalem, and fined the land one hundred talents of silver and a talent^a^ of gold. ^4^ The king of Egypt made Eliakim his brother king over Judah and Jerusalem, and changed his name to Jehoiakim. Neco took Joahaz his brother, and carried him to Egypt. 
@@ -1577,4 +1614,5 @@ They brought back this message to the king.
 ^17^ Therefore he brought on them the king of the Chaldeans, who killed their young men with the sword in the house of their sanctuary, and had no compassion on young man or virgin, old man or infirm. He gave them all into his hand. ^18^ All the vessels of God’s house, great and small, and the treasures of Yahweh’s house, and the treasures of the king and of his princes, all these he brought to Babylon. ^19^ They burned God’s house, broke down the wall of Jerusalem, burned all its palaces with fire, and destroyed all of its valuable vessels. ^20^ He carried those who had escaped from the sword away to Babylon, and they were servants to him and his sons until the reign of the kingdom of Persia, ^21^ to fulfill Yahweh’s word by Jeremiah’s mouth, until the land had enjoyed its Sabbaths. As long as it lay desolate, it kept Sabbath, to fulfill seventy years. 
 
 ^22^ Now in the first year of Cyrus king of Persia, that Yahweh’s word by the mouth of Jeremiah might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying, ^23^ “Cyrus king of Persia says, ‘Yahweh, the God of heaven, has given all the kingdoms of the earth to me; and he has commanded me to build him a house in Jerusalem, which is in Judah. Whoever there is among you of all his people, Yahweh his God be with him, and let him go up.’”
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

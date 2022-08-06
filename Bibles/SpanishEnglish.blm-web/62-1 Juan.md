@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Contenido, fiabilidad y finalidad del mensaje apostólico de la palabra de vida
@@ -10,6 +11,7 @@
 ^a^[**1:5** Sant 1,17] ^b^[**1:6** 1Jn 2,4] ^c^[**1:7** Heb 9,14; Apoc 1,5] ^d^[**1:9** Prov 28,13] ^e^[**1:10** Rom 3,10-18]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life ^2^ (and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us); ^3^ that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father and with his Son, Jesus Christ.^a^ ^4^ And we write these things to you, that our joy may be fulfilled. 
@@ -17,8 +19,8 @@
 
 ^5^ This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all. ^6^ If we say that we have fellowship with him and walk in the darkness, we lie and don’t tell the truth. ^7^ But if we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son, cleanses us from all sin. ^8^ If we say that we have no sin, we deceive ourselves, and the truth is not in us. ^9^ If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness. ^10^ If we say that we haven’t sinned, we make him a liar, and his word is not in us. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## El fruto del conocimiento de Dios se manifiesta al andar según los mandamientos divinos
@@ -55,6 +57,7 @@
 ^a^[**2:28** 1Jn 4,17] ^b^[**2:29** 1Jn 3,7; 1Jn 1,3-10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor^a^ with the Father, Jesus Christ, the righteous. ^2^ And he is the atoning sacrifice^b^ for our sins, and not for ours only, but also for the whole world. ^3^ This is how we know that we know him: if we keep his commandments. ^4^ One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him. ^5^ But God’s love has most certainly been perfected in whoever keeps his word. This is how we know that we are in him: ^6^ he who says he remains in him ought himself also to walk just like he walked. 
@@ -85,8 +88,8 @@ I have written to you, young men, because you are strong, and the word of God re
 
 ^28^ Now, little children, remain in him, that when he appears, we may have boldness and not be ashamed before him at his coming. ^29^ If you know that he is righteous, you know that everyone who practices righteousness has been born of him. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Felicidad y esperanza de gloria para los hijos de Dios
@@ -115,6 +118,7 @@ I have written to you, young men, because you are strong, and the word of God re
 ^a^[**3:20** Luc 15,20-22] ^b^[**3:22** Mar 11,24] ^c^[**3:23** Juan 6,29; Juan 15,17] ^d^[**3:24** 1Jn 4,13; Rom 8,9]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn’t know us, because it didn’t know him. ^2^ Beloved, now we are children of God. It is not yet revealed what we will be; but we know that when he is revealed, we will be like him, for we will see him just as he is. ^3^ Everyone who has this hope set on him purifies himself, even as he is pure. 
@@ -129,8 +133,8 @@ I have written to you, young men, because you are strong, and the word of God re
 
 ^18^ My little children, let’s not love in word only, or with the tongue only, but in deed and truth. ^19^ And by this we know that we are of the truth and persuade our hearts before him, ^20^ because if our heart condemns us, God is greater than our heart, and knows all things. ^21^ Beloved, if our hearts don’t condemn us, we have boldness toward God; ^22^ so whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight. ^23^ This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded. ^24^ He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## ¡Pon a prueba los espíritus! El espíritu de Dios le confiesa a Jesús como el Cristo que apareció en carne
@@ -150,6 +154,7 @@ I have written to you, young men, because you are strong, and the word of God re
 ^a^[**4:17** 1Jn 2,28] ^b^[**4:20** 1Jn 3,17] ^c^[**4:21** Mar 12,29-31]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world. ^2^ By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God, ^3^ and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God; and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already. ^4^ You are of God, little children, and have overcome them, because greater is he who is in you than he who is in the world. ^5^ They are of the world. Therefore they speak of the world, and the world hears them. ^6^ We are of God. He who knows God listens to us. He who is not of God doesn’t listen to us. By this we know the spirit of truth, and the spirit of error. 
@@ -160,8 +165,8 @@ I have written to you, young men, because you are strong, and the word of God re
 ^13^ By this we know that we remain in him and he in us, because he has given us of his Spirit. ^14^ We have seen and testify that the Father has sent the Son as the Savior of the world. ^15^ Whoever confesses that Jesus is the Son of God, God remains in him, and he in God. ^16^ We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him. ^17^ In this, love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so we are in this world. ^18^ There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love. ^19^ We love him,^a^ because he first loved us. ^20^ If a man says, “I love God,” and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen? ^21^ This commandment we have from him, that he who loves God should also love his brother.
 ^a^[**4:19** NU omits “him”.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Fe y amor en su unión
@@ -191,6 +196,7 @@ I have written to you, young men, because you are strong, and the word of God re
 
 ^21^ Hijitos, alejaos de los ídolos. ^[**5:21** 1Cor 10,14]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him. ^2^ By this we know that we love the children of God, when we love God and keep his commandments. ^3^ For this is loving God, that we keep his commandments. His commandments are not grievous. ^4^ For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith. ^5^ Who is he who overcomes the world, but he who believes that Jesus is the Son of God? 
@@ -207,4 +213,5 @@ I have written to you, young men, because you are strong, and the word of God re
 ^18^ We know that whoever is born of God doesn’t sin, but he who was born of God keeps himself, and the evil one doesn’t touch him. ^19^ We know that we are of God, and the whole world lies in the power of the evil one. ^20^ We know that the Son of God has come and has given us an understanding, that we know him who is true; and we are in him who is true, in his Son Jesus Christ. This is the true God and eternal life. 
 
 ^21^ Little children, keep yourselves from idols.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

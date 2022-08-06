@@ -102,8 +102,12 @@ namespace BibleMarkdown
 		static StringBuilder log = new StringBuilder();
 		public static void Log(string text)
 		{
-			log.AppendLine(text);
-			Console.WriteLine(text);
+			if (!string.IsNullOrWhiteSpace(text)) {
+				lock (log) {
+					log.AppendLine(text);
+					Console.WriteLine(text);
+				}
+			}
 		}
 		public static bool IsNewer(string file, string srcfile)
 		{
@@ -176,7 +180,7 @@ namespace BibleMarkdown
 			CreateVerseStats(path);
 			Log("Convert to Pandoc...");
 			var files = Directory.EnumerateFiles(path, "*.md");
-			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
+			Task.WaitAll(files.AsParallel().Select(file => ProcessFileAsync(file)).ToArray());
 			File.WriteAllText(Path.Combine(outpath, "bibmark.log"), log.ToString());
 			log.Clear();
 		}
@@ -214,7 +218,7 @@ namespace BibleMarkdown
 			Books.Load(path);
 			CreateTwoLanguage(path, path1, path2);
 			var files = Directory.EnumerateFiles(path, "*.md");
-			Task.WaitAll(files.Select(file => ProcessFileAsync(file)).ToArray());
+			Task.WaitAll(files.AsParallel().Select(file => ProcessFileAsync(file)).ToArray());
 			File.WriteAllText(Path.Combine(outpath, "bibmark.log"), log.ToString());
 			log.Clear();
 		}

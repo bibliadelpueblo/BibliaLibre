@@ -1,30 +1,30 @@
 # 1 
-## David's old age; Abishag commanded by Shunem to take care of the king
-## Solomon's access to government; his army and his wealth
-## Naomi's fate in the land of the Moabites
 ## The birth and ordination of Samuel as a servant of the Lord in Shiloh; Hanna Praise Song
+## David's old age; Abishag commanded by Shunem to take care of the king
 ## David's complaint for Saul and Jonathan at the news of their deaths
+## Solomon's access to government; his army and his wealth
 ## The ancestors until the flood
+## Naomi's fate in the land of the Moabites
 ## Elijah announces the death of the sick and idolatrous king Ochôzías
 ^1^ In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went to live in the country of Moab with his wife and his two sons. ^2^ The name of the man was Elimelech, and the name of his wife Naomi. The names of his two sons were Mahlon and Chilion, Ephrathites of Bethlehem Judah. They came into the country of Moab and lived there.
 
 ## The messenger's report of Saul's final moments
 ^3^ Elimelech, Naomi’s husband, died; and she was left with her two sons. ^4^ They took for themselves wives of the women of Moab. The name of the one was Orpah, and the name of the other was Ruth. They lived there about ten years.
 
-## The descendants of Noah except Abraham; the Japhetites
-
-
 ## Adonias' aspirations to rule; his organization of a sacrificial meal
+
+
+## The descendants of Noah except Abraham; the Japhetites
 ^5^ Mahlon and Chilion both died, and the woman was bereaved of her two children and of her husband. ^6^ Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how Yahweh^a^ had visited his people in giving them bread.
 ^a^[**1:6** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
 
-## The appearance of God (or sleep) after the sacrifice
-
-
 ## Naomi and her two daughters-in-law leave to return to Bethlehem; Orpa's Farewell, Ruth's Loyalty
+
+
+## The appearance of God (or sleep) after the sacrifice
 ^7^ She went out of the place where she was, and her two daughters-in-law with her. They went on the way to return to the land of Judah.
 
-## the litters
+## The litters
 ^8^ Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May Yahweh deal kindly with you, as you have dealt with the dead and with me.
 
 ## Elijah and the three captains
@@ -33,32 +33,32 @@
 ## Hanna's vows in Silo and her conversation with Eli
 ^9^ May Yahweh grant you that you may find rest, each of you in the house of her husband.” Then she kissed them, and they lifted up their voices, and wept. ^10^ They said to her, “No, but we will return with you to your people.”
 
-## David's pain; killing the messenger
-
-
 ## Nathan's date with Bathsheba
+
+
+## David's pain; killing the messenger
 ^11^ Naomi said, “Go back, my daughters. Why do you want to go with me? Do I still have sons in my womb, that they may be your husbands? ^12^ Go back, my daughters, go your way; for I am too old to have a husband. If I should say, ‘I have hope,’ if I should even have a husband tonight, and should also bear sons, ^13^ would you then wait until they were grown? Would you then refrain from having husbands? No, my daughters, for it grieves me seriously for your sakes, for Yahweh’s hand has gone out against me.”
 
 ## Solomon's Wealth and Trade in Chariots and Horses
 ^14^ They lifted up their voices and wept again; then Orpah kissed her mother-in-law, but Ruth stayed with her.
 
-## Bathsheba reminds the king of his promise; Nathan's Intervention
-
-
 ## Elijah with Ochôzías; death of the king
+
+
+## Bathsheba reminds the king of his promise; Nathan's Intervention
 ^15^ She said, “Behold,^a^ your sister-in-law has gone back to her people and to her god. Follow your sister-in-law.” ^16^ Ruth said, “Don’t urge me to leave you, and to return from following you, for where you go, I will go; and where you stay, I will stay. Your people will be my people, and your God^b^ my God.
 ^a^[**1:15** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] ^b^[**1:16** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
-## The Semites
-
-
 ## Lamentation of David for Saul and Jonathan
+
+
+## The Semites
 ^17^ Where you die, I will die, and there I will be buried. May Yahweh do so to me, and more also, if anything but death parts you and me.” ^18^ When Naomi saw that she was determined to go with her, she stopped urging her.
 
-## Birth of Samuel, early childhood and consecration in Shiloh
-
-
 ## Arrival and reception of the two women in Bethlehem
+
+
+## Birth of Samuel, early childhood and consecration in Shiloh
 ^19^ So they both went until they came to Bethlehem. When they had come to Bethlehem, all the city was excited about them, and they asked, “Is this Naomi?” ^20^ She said to them, “Don’t call me Naomi.^a^ Call me Mara,^b^ for the Almighty has dealt very bitterly with me. ^21^ I went out full, and Yahweh has brought me home again empty. Why do you call me Naomi, since Yahweh has testified against me, and the Almighty has afflicted me?” ^22^ So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the country of Moab. They came to Bethlehem in the beginning of barley harvest.
 ^a^[**1:20** “Naomi” means “pleasant”.] ^b^[**1:20** “Mara” means “bitter”.]
 

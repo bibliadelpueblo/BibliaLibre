@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Bendiciones
@@ -13,6 +14,7 @@
 ^11^ Con este fin también rogamos siempre por vosotros, para que nuestro Dios os tenga por dignos de vuestra vocación, y cumpla con fuerza todo deseo de bondad y toda obra de fe, ^12^ para que el nombre de nuestro Señor Jesús sea glorificado en vosotros, y vosotros en él, según la gracia de nuestro Dios y del Señor Jesucristo.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ: ^2^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
@@ -23,8 +25,8 @@
 ^11^ To this end we also pray always for you that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith with power, ^12^ that the name of our Lord Jesus^a^ may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.
 ^a^[**1:12** TR adds “Christ”] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Advertencia contra expectativas apresuradas; Instrucción sobre el tiempo de la segunda venida del Señor y sobre la aparición del Anticristo ante ella
@@ -38,6 +40,7 @@
 ^16^ Ahora bien, nuestro Señor Jesucristo en persona, y Dios, nuestro Padre, que nos amó y nos dio el consuelo eterno y la buena esperanza por medio de la gracia, ^17^ confortan vuestros corazones y os confirman en toda obra y palabra buena.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ Now, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to him, we ask you ^2^ not to be quickly shaken in your mind or troubled, either by spirit or by word or by letter as if from us, saying that the day of Christ has already come. ^3^ Let no one deceive you in any way. For it will not be unless the rebellion^a^ comes first, and the man of sin is revealed, the son of destruction. ^4^ He opposes and exalts himself against all that is called God or that is worshiped, so that he sits as God in the temple of God, setting himself up as God. ^5^ Don’t you remember that when I was still with you, I told you these things? ^6^ Now you know what is restraining him, to the end that he may be revealed in his own season. ^7^ For the mystery of lawlessness already works. Only there is one who restrains now, until he is taken out of the way. ^8^ Then the lawless one will be revealed, whom the Lord will kill with the breath of his mouth and destroy by the manifestation of his coming; ^9^ even he whose coming is according to the working of Satan with all power and signs and lying wonders, ^10^ and with all deception of wickedness for those who are being lost, because they didn’t receive the love of the truth, that they might be saved. ^11^ Because of this, God sends them a powerful delusion, that they should believe a lie, ^12^ that they all might be judged who didn’t believe the truth, but had pleasure in unrighteousness. 
@@ -47,8 +50,8 @@
 
 ^16^ Now our Lord Jesus Christ himself, and God our Father, who loved us and gave us eternal comfort and good hope through grace, ^17^ comfort your hearts and establish you in every good work and word. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Amonestación para interceder por el éxito del anuncio de la salvación; Bendición para el estado cristiano de la iglesia
@@ -68,6 +71,7 @@
 ## Saludo personal y bendición de Pablo
 ^17^ Yo, Pablo, escribo este saludo con mi propia mano, que es el signo de toda carta. Así es como escribo. ^[**3:17** 1Cor 16,21; Col 4,18; Gal 6,11] ^18^ La gracia de nuestro Señor Jesucristo esté con todos vosotros. Amén.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you, ^2^ and that we may be delivered from unreasonable and evil men; for not all have faith. ^3^ But the Lord is faithful, who will establish you and guard you from the evil one. ^4^ We have confidence in the Lord concerning you, that you both do and will do the things we command. ^5^ May the Lord direct your hearts into God’s love and into the perseverance of Christ. 
@@ -79,4 +83,5 @@
 ^16^ Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all. 
 
 ^17^ I, Paul, write this greeting with my own hand, which is the sign in every letter. This is how I write. ^18^ The grace of our Lord Jesus Christ be with you all. Amen.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

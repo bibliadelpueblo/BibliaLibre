@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Bendición para Gayo y reconocimiento a su caminar cristiano
@@ -21,6 +22,7 @@
 ## Cierre de carta; saludos
 ^13^ Tenía muchas cosas que escribirte, pero no quiero hacerlo con tinta y pluma; ^[**1:13** 2Jn 1,12] ^14^ pero espero verte pronto. Entonces hablaremos cara a cara. La paz sea contigo. Los amigos te saludan. Saluda a los amigos por su nombre.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ The elder to Gaius the beloved, whom I love in truth. 
@@ -36,4 +38,5 @@
 ^13^ I had many things to write to you, but I am unwilling to write to you with ink and pen; ^14^ but I hope to see you soon. Then we will speak face to face. 
 
 Peace be to you. The friends greet you. Greet the friends by name.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

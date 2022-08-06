@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Elías anuncia la muerte del rey enfermo e idólatra Ochôzías
@@ -41,6 +42,7 @@
 ^a^[**1:17** 2Re 3,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Moab rebelled against Israel after the death of Ahab. 
@@ -77,8 +79,8 @@ Then he arose and went down with him to the king. ^16^ He said to him, “Yahweh
 
 ^17^ So he died according to Yahweh’s word which Elijah had spoken. Jehoram began to reign in his place in the second year of Jehoram the son of Jehoshaphat king of Judah, because he had no son. ^18^ Now the rest of the acts of Ahaziah which he did, aren’t they written in the book of the chronicles of the kings of Israel? 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Elías en la caminata con su fiel sirvienta Elisa
@@ -121,6 +123,7 @@ Then he arose and went down with him to the king. ^16^ He said to him, “Yahweh
 ^a^[**2:25** 2Re 4,25]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ When Yahweh was about to take Elijah up by a whirlwind into heaven, Elijah went with Elisha from Gilgal. ^2^ Elijah said to Elisha, “Please wait here, for Yahweh has sent me as far as Bethel.” 
@@ -165,8 +168,8 @@ Therefore they sent fifty men; and they searched for three days, but didn’t fi
 
 ^23^ He went up from there to Bethel. As he was going up by the way, some youths came out of the city and mocked him, and said to him, “Go up, you baldy! Go up, you baldy!” ^24^ He looked behind him and saw them, and cursed them in Yahweh’s name. Then two female bears came out of the woods and mauled forty-two of those youths. ^25^ He went from there to Mount Carmel, and from there he returned to Samaria. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Rey Joram de Israel
@@ -199,6 +202,7 @@ Therefore they sent fifty men; and they searched for three days, but didn’t fi
 ^a^[**3:25** 2Re 3,19]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Now Jehoram the son of Ahab began to reign over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years. ^2^ He did that which was evil in Yahweh’s sight, but not like his father and like his mother, for he put away the pillar of Baal that his father had made. ^3^ Nevertheless he held to the sins of Jeroboam the son of Nebat, with which he made Israel to sin. He didn’t depart from them. 
@@ -229,8 +233,8 @@ The king of Israel said to him, “No, for Yahweh has called these three kings t
 
 ^24^ When they came to the camp of Israel, the Israelites rose up and struck the Moabites, so that they fled before them; and they went forward into the land attacking the Moabites. ^25^ They beat down the cities; and on every good piece of land each man cast his stone, and filled it. They also stopped all the springs of water and cut down all the good trees, until in Kir Hareseth all they left was its stones; however the men armed with slings went around it and attacked it. ^26^ When the king of Moab saw that the battle was too severe for him, he took with him seven hundred men who drew a sword, to break through to the king of Edom; but they could not. ^27^ Then he took his oldest son who would have reigned in his place, and offered him for a burnt offering on the wall. There was great wrath against Israel; and they departed from him, and returned to their own land. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## La historia del cántaro de aceite de la viuda
@@ -307,6 +311,7 @@ The king of Israel said to him, “No, for Yahweh has called these three kings t
 ^a^[**4:44** Mat 16,9-10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ Now a certain woman of the wives of the sons of the prophets cried out to Elisha, saying, “Your servant my husband is dead. You know that your servant feared Yahweh. Now the creditor has come to take for himself my two children to be slaves.” 
@@ -385,8 +390,8 @@ But he said, “Give it to the people, that they may eat; for Yahweh says, ‘Th
 
 ^44^ So he set it before them and they ate and had some left over, according to Yahweh’s word. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Naeman el leproso busca sanidad en Samaria
@@ -431,6 +436,7 @@ But he said, “Give it to the people, that they may eat; for Yahweh says, ‘Th
 ^26^ Le dijo: “¿No te acompañó mi corazón cuando el hombre se apartó de su carro para salir a tu encuentro? ¿Acaso es tiempo de recibir dinero, y de recibir vestidos, y olivares y viñas, y ovejas y ganado, y siervos y siervas? ^27^ Por eso, la lepra de Naamán se pegará a ti y a tu descendencia para siempre”. Salió de su presencia como un leproso, blanco como la nieve.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Now Naaman, captain of the army of the king of Syria, was a great man with his master, and honorable, because by him Yahweh had given victory to Syria; he was also a mighty man of valor, but he was a leper. ^2^ The Syrians had gone out in bands, and had brought away captive out of the land of Israel a little girl, and she waited on Naaman’s wife. ^3^ She said to her mistress, “I wish that my lord were with the prophet who is in Samaria! Then he would heal him of his leprosy.” 
@@ -476,8 +482,8 @@ He said, “Your servant went nowhere.”
 
 He went out from his presence a leper, as white as snow. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## El hierro flotante
@@ -526,6 +532,7 @@ He went out from his presence a leper, as white as snow.
 ^a^[**6:33** Am 3,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ The sons of the prophets said to Elisha, “See now, the place where we live and meet with you is too small for us. ^2^ Please let us go to the Jordan, and each man take a beam from there, and let’s make us a place there, where we may live.” 
@@ -577,8 +584,8 @@ She answered, “This woman said to me, ‘Give your son, that we may eat him to
 
 ^33^ While he was still talking with them, behold, the messenger came down to him. Then he said, “Behold, this evil is from Yahweh. Why should I wait for Yahweh any longer?” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ^1^ Eliseo dijo: “Escuchen la palabra de Yahvé. Yahvé dice: ‘Mañana a esta hora se venderá un seah de harina fina por un siclo, y dos seah de cebada por un siclo, en la puerta de Samaria’”. ^a^
@@ -610,10 +617,11 @@ She answered, “This woman said to me, ‘Give your son, that we may eat him to
 ^a^[**7:16** 2Re 7,1] ^b^[**7:17** 2Re 7,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ Elisha said, “Hear Yahweh’s word. Yahweh says, ‘Tomorrow about this time a seah^a^ of fine flour will be sold for a shekel,^b^ and two seahs of barley for a shekel, in the gate of Samaria.’” 
-^a^[**7:1** 1 seah is about 7 liters or 1. 9 gallons or 0. 8 pecks] ^b^[**7:1** A shekel is about 10 grams or about 0. 35 ounces. In this context, it was probably a silver coin weighing that much.]
+^a^[**7:1** 1 seah is about 7 liters or 1.9 gallons or 0.8 pecks] ^b^[**7:1** A shekel is about 10 grams or about 0.35 ounces. In this context, it was probably a silver coin weighing that much.]
 
 ^2^ Then the captain on whose hand the king leaned answered the man of God, and said, “Behold, if Yahweh made windows in heaven, could this thing be?” 
 
@@ -635,10 +643,10 @@ He said, “Behold, you will see it with your eyes, but will not eat of it.”
 ^14^ Therefore they took two chariots with horses; and the king sent them out to the Syrian army, saying, “Go and see.” 
 
 ^15^ They went after them to the Jordan; and behold, all the path was full of garments and equipment which the Syrians had cast away in their haste. The messengers returned and told the king. ^16^ The people went out and plundered the camp of the Syrians. So a seah^a^ of fine flour was sold for a shekel, and two measures of barley for a shekel,^b^ according to Yahweh’s word. ^17^ The king had appointed the captain on whose hand he leaned to be in charge of the gate; and the people trampled over him in the gate, and he died as the man of God had said, who spoke when the king came down to him. ^18^ It happened as the man of God had spoken to the king, saying, “Two seahs^c^ of barley for a shekel,^d^ and a seah of fine flour for a shekel, shall be tomorrow about this time in the gate of Samaria;” ^19^ and that captain answered the man of God, and said, “Now, behold, if Yahweh made windows in heaven, might such a thing be?” and he said, “Behold, you will see it with your eyes, but will not eat of it.” ^20^ It happened like that to him, for the people trampled over him in the gate, and he died.
-^a^[**7:16** 1 seah is about 7 liters or 1. 9 gallons or 0. 8 pecks] ^b^[**7:16** A shekel is about 10 grams or about 0. 35 ounces. In this context, it was probably a silver coin weighing that much.] ^c^[**7:18** 1 seah is about 7 liters or 1. 9 gallons or 0. 8 pecks] ^d^[**7:18** A shekel is about 10 grams or about 0. 35 ounces. In this context, it was probably a silver coin weighing that much.] 
+^a^[**7:16** 1 seah is about 7 liters or 1.9 gallons or 0.8 pecks] ^b^[**7:16** A shekel is about 10 grams or about 0.35 ounces. In this context, it was probably a silver coin weighing that much.] ^c^[**7:18** 1 seah is about 7 liters or 1.9 gallons or 0.8 pecks] ^d^[**7:18** A shekel is about 10 grams or about 0.35 ounces. In this context, it was probably a silver coin weighing that much.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Elisa y la Sunamita
@@ -685,6 +693,7 @@ He said, “Behold, you will see it with your eyes, but will not eat of it.”
 ^a^[**8:29** 2Re 9,15-16; 2Re 9,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ Now Elisha had spoken to the woman whose son he had restored to life, saying, “Arise, and go, you and your household, and stay for a while wherever you can; for Yahweh has called for a famine. It will also come on the land for seven years.” 
@@ -723,8 +732,8 @@ He answered, “He told me that you would surely recover.”
 
 ^28^ He went with Joram the son of Ahab to war against Hazael king of Syria at Ramoth Gilead, and the Syrians wounded Joram. ^29^ King Joram returned to be healed in Jezreel from the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. Ahaziah the son of Jehoram, king of Judah, went down to see Joram the son of Ahab in Jezreel, because he was sick. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## Jehú ungió rey por instigación de Eliseo
@@ -778,6 +787,7 @@ He answered, “He told me that you would surely recover.”
 ^a^[**9:36** 2Re 9,10; 1Re 21,23]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ Elisha the prophet called one of the sons of the prophets, and said to him, “Put your belt on your waist, take this vial of oil in your hand, and go to Ramoth Gilead. ^2^ When you come there, find Jehu the son of Jehoshaphat the son of Nimshi, and go in and make him rise up from among his brothers, and take him to an inner room. ^3^ Then take the vial of oil, and pour it on his head, and say, ‘Yahweh says, “I have anointed you king over Israel.”’ Then open the door, flee, and don’t wait.” 
@@ -841,8 +851,8 @@ So they threw her down; and some of her blood was sprinkled on the wall, and on 
 
 He said, “This is Yahweh’s word, which he spoke by his servant Elijah the Tishbite, saying, ‘The dogs will eat the flesh of Jezebel on the plot of Jezreel, ^37^ and the body of Jezebel will be as dung on the surface of the field on Jezreel’s land, so that they won’t say, “This is Jezebel.”’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## Jehú asesinó a los setenta príncipes reales y exterminó a toda la casa de Acab
@@ -890,6 +900,7 @@ He said, “This is Yahweh’s word, which he spoke by his servant Elijah the Ti
 ^a^[**10:32** 2Re 8,12] ^b^[**10:35** 2Re 13,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ Now Ahab had seventy sons in Samaria. Jehu wrote letters and sent them to Samaria, to the rulers of Jezreel, even the elders, and to those who brought up Ahab’s sons, saying, ^2^ “Now as soon as this letter comes to you, since your master’s sons are with you, and you have chariots and horses, a fortified city also, and armor, ^3^ select the best and fittest of your master’s sons, set him on his father’s throne, and fight for your master’s house.” 
@@ -936,8 +947,8 @@ So he brought robes out to them. ^23^ Jehu went with Jehonadab the son of Rechab
 
 ^32^ In those days Yahweh began to cut away parts of Israel; and Hazael struck them in all the borders of Israel ^33^ from the Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the valley of the Arnon, even Gilead and Bashan. ^34^ Now the rest of the acts of Jehu, and all that he did, and all his might, aren’t they written in the book of the chronicles of the kings of Israel? ^35^ Jehu slept with his fathers; and they buried him in Samaria. Jehoahaz his son reigned in his place. ^36^ The time that Jehu reigned over Israel in Samaria was twenty-eight years. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## El robo y el asesinato de Atalía; Rescate de Joás
@@ -963,6 +974,7 @@ So he brought robes out to them. ^23^ Jehu went with Jehonadab the son of Rechab
 ^21^ Joás tenía siete años cuando comenzó a reinar.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal offspring. ^2^ But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him away from among the king’s sons who were slain, even him and his nurse, and put them in the bedroom; and they hid him from Athaliah, so that he was not slain. ^3^ He was with her hidden in Yahweh’s house six years while Athaliah reigned over the land. 
@@ -979,8 +991,8 @@ So he brought robes out to them. ^23^ Jehu went with Jehonadab the son of Rechab
 
 ^21^ Jehoash was seven years old when he began to reign. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## Joás rey de Judá
@@ -1005,6 +1017,7 @@ So he brought robes out to them. ^23^ Jehu went with Jehonadab the son of Rechab
 ^a^[**12:20** 2Re 14,5] ^b^[**12:21** 2Re 14,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ Jehoash began to reign in the seventh year of Jehu, and he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba. ^2^ Jehoash did that which was right in Yahweh’s eyes all his days in which Jehoiada the priest instructed him. ^3^ However, the high places were not taken away. The people still sacrificed and burned incense in the high places. 
@@ -1020,8 +1033,8 @@ So he brought robes out to them. ^23^ Jehu went with Jehonadab the son of Rechab
 
 ^19^ Now the rest of the acts of Joash, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah? ^20^ His servants arose and made a conspiracy, and struck Joash at the house of Millo, on the way that goes down to Silla. ^21^ For Jozacar the son of Shimeath, and Jehozabad the son of Shomer, his servants, struck him, and he died; and they buried him with his fathers in David’s city; and Amaziah his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## Joachâz rey de Israel
@@ -1051,6 +1064,7 @@ So he brought robes out to them. ^23^ Jehu went with Jehonadab the son of Rechab
 ^a^[**13:25** 2Re 13,19]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria for seventeen years. ^2^ He did that which was evil in Yahweh’s sight, and followed the sins of Jeroboam the son of Nebat, with which he made Israel to sin. He didn’t depart from it. ^3^ Yahweh’s anger burned against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Benhadad the son of Hazael, continually. ^4^ Jehoahaz begged Yahweh, and Yahweh listened to him; for he saw the oppression of Israel, how the king of Syria oppressed them. ^5^ (Yahweh gave Israel a savior, so that they went out from under the hand of the Syrians; and the children of Israel lived in their tents as before. ^6^ Nevertheless they didn’t depart from the sins of the house of Jeroboam, with which he made Israel to sin, but walked in them; and the Asherah also remained in Samaria.) ^7^ For he didn’t leave to Jehoahaz of the people any more than fifty horsemen, and ten chariots, and ten thousand footmen; for the king of Syria destroyed them and made them like the dust in threshing. ^8^ Now the rest of the acts of Jehoahaz, and all that he did, and his might, aren’t they written in the book of the chronicles of the kings of Israel? ^9^ Jehoahaz slept with his fathers; and they buried him in Samaria; and Joash his son reigned in his place. 
@@ -1071,8 +1085,8 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 
 ^24^ Hazael king of Syria died; and Benhadad his son reigned in his place. ^25^ Jehoash the son of Jehoahaz took again out of the hand of Benhadad the son of Hazael the cities which he had taken out of the hand of Jehoahaz his father by war. Joash struck him three times, and recovered the cities of Israel. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## Amasías rey de Judá; Buen comienzo para el gobierno
@@ -1106,6 +1120,7 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 ^a^[**14:23** 2Re 14,16; Os 1,1; Am 1,1] ^b^[**14:24** 1Re 12,26-33] ^c^[**14:25** Jon 1,1] ^d^[**14:26** Deut 32,36] ^e^[**14:27** 2Re 13,5] ^f^[**14:29** 2Re 15,8]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ In the second year of Joash, son of Joahaz, king of Israel, Amaziah the son of Joash king of Judah began to reign. ^2^ He was twenty-five years old when he began to reign; and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddin of Jerusalem. ^3^ He did that which was right in Yahweh’s eyes, yet not like David his father. He did according to all that Joash his father had done. ^4^ However the high places were not taken away. The people still sacrificed and burned incense in the high places. ^5^ As soon as the kingdom was established in his hand, he killed his servants who had slain the king his father, ^6^ but the children of the murderers he didn’t put to death, according to that which is written in the book of the law of Moses, as Yahweh commanded, saying, “The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but every man shall die for his own sin.” 
@@ -1125,8 +1140,8 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 
 ^23^ In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to reign in Samaria for forty-one years. ^24^ He did that which was evil in Yahweh’s sight. He didn’t depart from all the sins of Jeroboam the son of Nebat, with which he made Israel to sin. ^25^ He restored the border of Israel from the entrance of Hamath to the sea of the Arabah, according to Yahweh, the God of Israel’s word, which he spoke by his servant Jonah the son of Amittai, the prophet, who was from Gath Hepher. ^26^ For Yahweh saw the affliction of Israel, that it was very bitter for all, slave and free; and there was no helper for Israel. ^27^ Yahweh didn’t say that he would blot out the name of Israel from under the sky; but he saved them by the hand of Jeroboam the son of Joash. ^28^ Now the rest of the acts of Jeroboam, and all that he did, and his might, how he fought, and how he recovered Damascus, and Hamath, which had belonged to Judah, for Israel, aren’t they written in the book of the chronicles of the kings of Israel? ^29^ Jeroboam slept with his fathers, even with the kings of Israel; and Zechariah his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## Azarías rey de Judá
@@ -1160,6 +1175,7 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 ^a^[**15:32** 2Re 15,5; 2Re 15,7; 2Cró 27,1] ^b^[**15:34** 2Re 15,3-4] ^c^[**15:37** 2Re 16,5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to reign. ^2^ He was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecoliah of Jerusalem. ^3^ He did that which was right in Yahweh’s eyes, according to all that his father Amaziah had done. ^4^ However, the high places were not taken away. The people still sacrificed and burned incense in the high places. ^5^ Yahweh struck the king, so that he was a leper to the day of his death, and lived in a separate house. Jotham, the king’s son, was over the household, judging the people of the land. ^6^ Now the rest of the acts of Azariah, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah? ^7^ Azariah slept with his fathers; and they buried him with his fathers in David’s city; and Jotham his son reigned in his place. 
@@ -1171,7 +1187,7 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 ^16^ Then Menahem attacked Tiphsah and all who were in it and its border areas, from Tirzah. He attacked it because they didn’t open their gates to him, and he ripped up all their women who were with child. 
 
 ^17^ In the thirty ninth year of Azariah king of Judah, Menahem the son of Gadi began to reign over Israel for ten years in Samaria. ^18^ He did that which was evil in Yahweh’s sight. He didn’t depart all his days from the sins of Jeroboam the son of Nebat, with which he made Israel to sin. ^19^ Pul the king of Assyria came against the land, and Menahem gave Pul one thousand talents^a^ of silver, that his hand might be with him to confirm the kingdom in his hand. ^20^ Menahem exacted the money from Israel, even from all the mighty men of wealth, from each man fifty shekels^b^ of silver, to give to the king of Assyria. So the king of Assyria turned back, and didn’t stay there in the land. ^21^ Now the rest of the acts of Menahem, and all that he did, aren’t they written in the book of the chronicles of the kings of Israel? ^22^ Menahem slept with his fathers, and Pekahiah his son reigned in his place. 
-^a^[**15:19** A talent is about 30 kilograms or 66 pounds, so 1000 talents is about 30 metric tons] ^b^[**15:20** A shekel is about 10 grams or about 0. 35 ounces, so 50 shekels was about 0. 5 kilograms or 1. 1 pounds.]
+^a^[**15:19** A talent is about 30 kilograms or 66 pounds, so 1000 talents is about 30 metric tons] ^b^[**15:20** A shekel is about 10 grams or about 0.35 ounces, so 50 shekels was about 0.5 kilograms or 1.1 pounds.]
 
 ^23^ In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria for two years. ^24^ He did that which was evil in Yahweh’s sight. He didn’t depart from the sins of Jeroboam the son of Nebat, with which he made Israel to sin. ^25^ Pekah the son of Remaliah, his captain, conspired against him and attacked him in Samaria, in the fortress of the king’s house, with Argob and Arieh; and with him were fifty men of the Gileadites. He killed him, and reigned in his place. ^26^ Now the rest of the acts of Pekahiah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel. 
 
@@ -1179,8 +1195,8 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 
 ^32^ In the second year of Pekah the son of Remaliah king of Israel, Jotham the son of Uzziah king of Judah began to reign. ^33^ He was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name was Jerusha the daughter of Zadok. ^34^ He did that which was right in Yahweh’s eyes. He did according to all that his father Uzziah had done. ^35^ However the high places were not taken away. The people still sacrificed and burned incense in the high places. He built the upper gate of Yahweh’s house. ^36^ Now the rest of the acts of Jotham, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah? ^37^ In those days, Yahweh began to send Rezin the king of Syria and Pekah the son of Remaliah against Judah. ^38^ Jotham slept with his fathers, and was buried with his fathers in his father David’s city; and Ahaz his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ## Las abominaciones paganas de Acaz
@@ -1198,6 +1214,7 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 ^a^[**16:17** 1Re 7,23-39] ^b^[**16:20** 2Re 18,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham king of Judah began to reign. ^2^ Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. He didn’t do that which was right in Yahweh his God’s eyes, like David his father. ^3^ But he walked in the way of the kings of Israel, and even made his son to pass through the fire, according to the abominations of the nations whom Yahweh cast out from before the children of Israel. ^4^ He sacrificed and burned incense in the high places, on the hills, and under every green tree. 
@@ -1208,8 +1225,8 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 
 ^17^ King Ahaz cut off the panels of the bases, and removed the basin from off them, and took down the sea from off the bronze oxen that were under it, and put it on a pavement of stone. ^18^ He removed the covered way for the Sabbath that they had built in the house, and the king’s outer entrance to Yahweh’s house, because of the king of Assyria. ^19^ Now the rest of the acts of Ahaz which he did, aren’t they written in the book of the chronicles of the kings of Judah? ^20^ Ahaz slept with his fathers, and was buried with his fathers in David’s city; and Hezekiah his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 17
 ## Oseas rey de Israel; Caída del imperio; Cautiverio asirio
@@ -1239,6 +1256,7 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 ^40^ Sin embargo, no escucharon, sino que hicieron lo mismo que antes. ^41^ Así que estas naciones temieron a Yavé, y también sirvieron a sus imágenes grabadas. Sus hijos hicieron lo mismo, y también los hijos de sus hijos. Hacen lo mismo que hicieron sus padres hasta el día de hoy.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 17
 ^1^ In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel for nine years. ^2^ He did that which was evil in Yahweh’s sight, yet not as the kings of Israel who were before him. ^3^ Shalmaneser king of Assyria came up against him; and Hoshea became his servant, and brought him tribute. ^4^ The king of Assyria discovered a conspiracy in Hoshea; for he had sent messengers to So king of Egypt, and offered no tribute to the king of Assyria, as he had done year by year. Therefore the king of Assyria seized him, and bound him in prison. ^5^ Then the king of Assyria came up throughout all the land, went up to Samaria, and besieged it three years. ^6^ In the ninth year of Hoshea the king of Assyria took Samaria and carried Israel away to Assyria, and placed them in Halah, and on the Habor, the river of Gozan, and in the cities of the Medes. 
@@ -1258,8 +1276,8 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 
 ^40^ However they didn’t listen, but they did what they did before. ^41^ So these nations feared Yahweh, and also served their engraved images. Their children did likewise, and so did their children’s children. They do as their fathers did to this day. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 18
 ## Ezequías asumió el cargo, su piedad y sus servicios al culto y al bien público
@@ -1289,6 +1307,7 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 ^36^ Pero el pueblo se quedó callado y no le respondió ni una sola palabra, porque la orden del rey era: “No le respondan”. ^37^ Entonces Eliaquim, hijo de Hilcías, que estaba al frente de la casa, vino con Sebna, el escriba, y con Joah, hijo de Asaf, el registrador, a Ezequías con las ropas rasgadas, y le contaron las palabras de Rabsaces.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 18
 ^1^ Now in the third year of Hoshea son of Elah king of Israel, Hezekiah the son of Ahaz king of Judah began to reign. ^2^ He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abi the daughter of Zechariah. ^3^ He did that which was right in Yahweh’s eyes, according to all that David his father had done. ^4^ He removed the high places, broke the pillars, and cut down the Asherah. He also broke in pieces the bronze serpent that Moses had made, because in those days the children of Israel burned incense to it; and he called it Nehushtan. ^5^ He trusted in Yahweh, the God of Israel, so that after him was no one like him among all the kings of Judah, nor among them that were before him. ^6^ For he joined with Yahweh. He didn’t depart from following him, but kept his commandments, which Yahweh commanded Moses. ^7^ Yahweh was with him. Wherever he went, he prospered. He rebelled against the king of Assyria, and didn’t serve him. ^8^ He struck the Philistines to Gaza and its borders, from the tower of the watchmen to the fortified city. 
@@ -1308,8 +1327,8 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 
 ^36^ But the people stayed quiet, and answered him not a word; for the king’s commandment was, “Don’t answer him.” ^37^ Then Eliakim the son of Hilkiah, who was over the household, came with Shebna the scribe and Joah the son of Asaph the recorder to Hezekiah with their clothes torn, and told him Rabshakeh’s words. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 19
 ## El estímulo de Ezequías de Isaías
@@ -1341,6 +1360,7 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 ^a^[**19:37** 2Re 19,7]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 19
 ^1^ When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth, and went into Yahweh’s house. ^2^ He sent Eliakim, who was over the household, Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz. ^3^ They said to him, “Hezekiah says, ‘Today is a day of trouble, of rebuke, and of rejection; for the children have come to the point of birth, and there is no strength to deliver them. ^4^ It may be Yahweh your God will hear all the words of Rabshakeh, whom the king of Assyria his master has sent to defy the living God, and will rebuke the words which Yahweh your God has heard. Therefore lift up your prayer for the remnant that is left.’” 
@@ -1359,8 +1379,8 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 
 ^35^ That night, Yahweh’s angel went out and struck one hundred eighty-five thousand in the camp of the Assyrians. When men arose early in the morning, behold, these were all dead bodies. ^36^ So Sennacherib king of Assyria departed, went home, and lived at Nineveh. ^37^ As he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer struck him with the sword; and they escaped into the land of Ararat. Esar Haddon his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 20
 ## La enfermedad y la recuperación de Ezequías; la embajada de babilonia
@@ -1400,6 +1420,7 @@ Now the bands of the Moabites invaded the land at the coming in of the year. ^21
 ^20^ El resto de los hechos de Ezequías, y toda su fuerza, y cómo hizo el estanque y el conducto, y cómo introdujo el agua en la ciudad, ¿no están escritos en el libro de las crónicas de los reyes de Judá? ^21^ Ezequías durmió con sus padres, y su hijo Manasés reinó en su lugar.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 20
 ^1^ In those days Hezekiah was sick and dying. Isaiah the prophet the son of Amoz came to him, and said to him, “Yahweh says, ‘Set your house in order; for you will die, and not live.’” 
@@ -1436,8 +1457,8 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 
 ^20^ Now the rest of the acts of Hezekiah, and all his might, and how he made the pool, and the conduit, and brought water into the city, aren’t they written in the book of the chronicles of the kings of Judah? ^21^ Hezekiah slept with his fathers, and Manasseh his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 21
 ## Idolatría manasés
@@ -1458,6 +1479,7 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 ^a^[**21:19** 2Cró 33,21-22; 2Cró 33,24-25] ^b^[**21:23** 2Re 14,19] ^c^[**21:26** 2Re 21,18]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 21
 ^1^ Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem. His mother’s name was Hephzibah. ^2^ He did that which was evil in Yahweh’s sight, after the abominations of the nations whom Yahweh cast out before the children of Israel. ^3^ For he built again the high places which Hezekiah his father had destroyed; and he raised up altars for Baal, and made an Asherah, as Ahab king of Israel did, and worshiped all the army of the sky, and served them. ^4^ He built altars in Yahweh’s house, of which Yahweh said, “I will put my name in Jerusalem.” ^5^ He built altars for all the army of the sky in the two courts of Yahweh’s house. ^6^ He made his son to pass through the fire, practiced sorcery, used enchantments, and dealt with those who had familiar spirits and with wizards. He did much evil in Yahweh’s sight, to provoke him to anger. ^7^ He set the engraved image of Asherah that he had made in the house of which Yahweh said to David and to Solomon his son, “In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my name forever; ^8^ I will not cause the feet of Israel to wander any more out of the land which I gave their fathers, if only they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.” ^9^ But they didn’t listen, and Manasseh seduced them to do that which is evil more than the nations did whom Yahweh destroyed before the children of Israel. 
@@ -1470,8 +1492,8 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 
 ^19^ Amon was twenty-two years old when he began to reign; and he reigned two years in Jerusalem. His mother’s name was Meshullemeth the daughter of Haruz of Jotbah. ^20^ He did that which was evil in Yahweh’s sight, as Manasseh his father did. ^21^ He walked in all the ways that his father walked in, and served the idols that his father served, and worshiped them; ^22^ and he abandoned Yahweh, the God of his fathers, and didn’t walk in the way of Yahweh. ^23^ The servants of Amon conspired against him, and put the king to death in his own house. ^24^ But the people of the land killed all those who had conspired against King Amon; and the people of the land made Josiah his son king in his place. ^25^ Now the rest of the acts of Amon which he did, aren’t they written in the book of the chronicles of the kings of Judah? ^26^ He was buried in his tomb in the garden of Uzza, and Josiah his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 22
 ## El rey Josías; Encontrar el código legal y limpiar la adoración
@@ -1491,6 +1513,7 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 ^a^[**22:17** Deut 31,29; Deut 32,21-23] ^b^[**22:20** Is 57,1-2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 22
 ^1^ Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah the daughter of Adaiah of Bozkath. ^2^ He did that which was right in Yahweh’s eyes, and walked in all the ways of David his father, and didn’t turn away to the right hand or to the left. 
@@ -1503,8 +1526,8 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 
 ^14^ So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe (now she lived in Jerusalem in the second quarter); and they talked with her. ^15^ She said to them, “Yahweh the God of Israel says, ‘Tell the man who sent you to me, ^16^ “Yahweh says, ‘Behold, I will bring evil on this place and on its inhabitants, even all the words of the book which the king of Judah has read. ^17^ Because they have forsaken me and have burned incense to other gods, that they might provoke me to anger with all the work of their hands, therefore my wrath shall be kindled against this place, and it will not be quenched.’” ^18^ But to the king of Judah, who sent you to inquire of Yahweh, tell him, “Yahweh the God of Israel says, ‘Concerning the words which you have heard, ^19^ because your heart was tender, and you humbled yourself before Yahweh when you heard what I spoke against this place and against its inhabitants, that they should become a desolation and a curse, and have torn your clothes and wept before me, I also have heard you,’ says Yahweh. ^20^ ‘Therefore behold, I will gather you to your fathers, and you will be gathered to your grave in peace. Your eyes will not see all the evil which I will bring on this place.’”’” So they brought this message back to the king. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 23
 ## Josías concluye el nuevo pacto de Dios en asociación con los ancianos del pueblo
@@ -1541,6 +1564,7 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 ^36^ Joacim tenía veinticinco años cuando comenzó a reinar, y reinó once años en Jerusalén. Su madre se llamaba Zebida, hija de Pedaías de Rumah. ^37^ Hizo lo que era malo a los ojos de Yahvé, según todo lo que habían hecho sus padres.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 23
 ^1^ The king sent, and they gathered to him all the elders of Judah and of Jerusalem. ^2^ The king went up to Yahweh’s house, and all the men of Judah and all the inhabitants of Jerusalem with him—with the priests, the prophets, and all the people, both small and great; and he read in their hearing all the words of the book of the covenant which was found in Yahweh’s house. ^3^ The king stood by the pillar and made a covenant before Yahweh to walk after Yahweh and to keep his commandments, his testimonies, and his statutes with all his heart and all his soul, to confirm the words of this covenant that were written in this book; and all the people agreed to the covenant. 
@@ -1563,8 +1587,8 @@ The men of the city told him, “It is the tomb of the man of God who came from 
 ^31^ Jehoahaz was twenty-three years old when he began to reign; and he reigned three months in Jerusalem. His mother’s name was Hamutal the daughter of Jeremiah of Libnah. ^32^ He did that which was evil in Yahweh’s sight, according to all that his fathers had done. ^33^ Pharaoh Necoh put him in bonds at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of one hundred talents of silver and a talent^a^ of gold. ^34^ Pharaoh Necoh made Eliakim the son of Josiah king in the place of Josiah his father, and changed his name to Jehoiakim; but he took Jehoahaz away, and he came to Egypt and died there. ^35^ Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh. He exacted the silver and the gold of the people of the land, from everyone according to his assessment, to give it to Pharaoh Necoh. ^36^ Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. His mother’s name was Zebidah the daughter of Pedaiah of Rumah. ^37^ He did that which was evil in Yahweh’s sight, according to all that his fathers had done.
 ^a^[**23:33** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 24
 ^1^ En sus días subió Nabucodonosor, rey de Babilonia, y Joacim fue su siervo durante tres años. Luego se volvió y se rebeló contra él. ^2^ Yahvé envió contra él grupos de caldeos, grupos de sirios, grupos de moabitas y grupos de hijos de Amón, y los envió contra Judá para destruirla, según la palabra de Yahvé que habló por medio de sus siervos los profetas. ^3^ Ciertamente por mandato de Yahvé esto vino sobre Judá, para quitarlos de su vista por los pecados de Manasés, según todo lo que hizo, ^a^ ^4^ y también por la sangre inocente que derramó; porque llenó a Jerusalén de sangre inocente, y Yahvé no quiso perdonar. ^5^ Los demás hechos de Joacim y todo lo que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Judá? ^6^ Y Joacim durmió con sus padres, y su hijo Joaquín reinó en su lugar.
@@ -1581,6 +1605,7 @@ The men of the city told him, “It is the tomb of the man of God who came from 
 ^a^[**24:18** Jer 52,1-3] ^b^[**24:20** 2Re 23,27]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 24
 ^1^ In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years. Then he turned and rebelled against him. ^2^ Yahweh sent against him bands of the Chaldeans, bands of the Syrians, bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to Yahweh’s word which he spoke by his servants the prophets. ^3^ Surely at the commandment of Yahweh this came on Judah, to remove them out of his sight for the sins of Manasseh, according to all that he did, ^4^ and also for the innocent blood that he shed; for he filled Jerusalem with innocent blood, and Yahweh would not pardon. ^5^ Now the rest of the acts of Jehoiakim, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah? ^6^ So Jehoiakim slept with his fathers, and Jehoiachin his son reigned in his place. 
@@ -1593,8 +1618,8 @@ The men of the city told him, “It is the tomb of the man of God who came from 
 
 Then Zedekiah rebelled against the king of Babylon. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 25
 ## Los desperdicios de Sedequías; Asedio de Jerusalén; Escape y captura del rey; Juzgado penal de Ribla
@@ -1617,6 +1642,7 @@ Then Zedekiah rebelled against the king of Babylon.
 ## Jojachín indultado tras treinta y siete años de prisión
 ^27^ En el año treinta y siete del cautiverio de Joaquín, rey de Judá, en el mes duodécimo, a los veintisiete días del mes, Evilmerodac, rey de Babilonia, en el año en que comenzó a reinar, liberó a Joaquín, rey de Judá, de la prisión, ^[**25:27** 2Re 24,15] ^28^ y le habló amablemente y puso su trono por encima del trono de los reyes que estaban con él en Babilonia, ^29^ y le cambió sus ropas de prisión. Joaquín comió pan delante de él continuamente todos los días de su vida; ^30^ y para su manutención, se le dio continuamente una ración de parte del rey, cada día una porción, todos los días de su vida.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 25
 ^1^ In the ninth year of his reign, in the tenth month, in the tenth day of the month, Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem, and encamped against it; and they built forts against it around it. ^2^ So the city was besieged until the eleventh year of King Zedekiah. ^3^ On the ninth day of the fourth month, the famine was severe in the city, so that there was no bread for the people of the land. ^4^ Then a breach was made in the city, and all the men of war fled by night by the way of the gate between the two walls, which was by the king’s garden (now the Chaldeans were against the city around it); and the king went by the way of the Arabah. ^5^ But the Chaldean army pursued the king, and overtook him in the plains of Jericho; and all his army was scattered from him. ^6^ Then they captured the king and carried him up to the king of Babylon to Riblah; and they passed judgment on him. ^7^ They killed Zedekiah’s sons before his eyes, then put out Zedekiah’s eyes, bound him in fetters, and carried him to Babylon. 
@@ -1631,4 +1657,5 @@ Then Zedekiah rebelled against the king of Babylon.
 ^22^ As for the people who were left in the land of Judah whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, governor. ^23^ Now when all the captains of the forces, they and their men, heard that the king of Babylon had made Gedaliah governor, they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, Johanan the son of Kareah, Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of the Maacathite, they and their men. ^24^ Gedaliah swore to them and to their men, and said to them, “Don’t be afraid because of the servants of the Chaldeans. Dwell in the land and serve the king of Babylon, and it will be well with you.” 
 
 ^25^ But in the seventh month, Ishmael the son of Nethaniah, the son of Elishama, of the royal offspring came, and ten men with him, and struck Gedaliah so that he died, with the Jews and the Chaldeans that were with him at Mizpah. ^26^ All the people, both small and great, and the captains of the forces arose and came to Egypt; for they were afraid of the Chaldeans. ^27^ In the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, Evilmerodach king of Babylon, in the year that he began to reign, released Jehoiachin king of Judah out of prison, ^28^ and he spoke kindly to him and set his throne above the throne of the kings who were with him in Babylon, ^29^ and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life; ^30^ and for his allowance, there was a continual allowance given him from the king, every day a portion, all the days of his life.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

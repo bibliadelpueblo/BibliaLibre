@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Aparición y eficacia de Juan el Bautista
@@ -58,6 +59,7 @@
 ^45^ Pero él salió, y comenzó a proclamarlo mucho, y a difundir el hecho, de modo que Jesús ya no podía entrar abiertamente en una ciudad, sino que estaba fuera, en lugares desiertos. La gente acudía a él de todas partes.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ The beginning of the Good News of Jesus Christ, the Son of God. 
@@ -101,8 +103,8 @@
 
 ^45^ But he went out, and began to proclaim it much, and to spread about the matter, so that Jesus could no more openly enter into a city, but was outside in desert places. People came to him from everywhere. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Curación de un paralítico en Capernaum; Jesús perdona los pecados
@@ -137,6 +139,7 @@
 ^a^[**2:27** Deut 5,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ When he entered again into Capernaum after some days, it was heard that he was at home. ^2^ Immediately many were gathered together, so that there was no more room, not even around the door; and he spoke the word to them. ^3^ Four people came, carrying a paralytic to him. ^4^ When they could not come near to him for the crowd, they removed the roof where he was. When they had broken it up, they let down the mat that the paralytic was lying on. ^5^ Jesus, seeing their faith, said to the paralytic, “Son, your sins are forgiven you.” 
@@ -163,8 +166,8 @@
 
 ^27^ He said to them, “The Sabbath was made for man, not man for the Sabbath. ^28^ Therefore the Son of Man is lord even of the Sabbath.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Sanación del hombre con el brazo paralizado en sábado; el segundo argumento sobre la observancia del sábado
@@ -198,6 +201,7 @@
 ^33^ Él les respondió: “¿Quiénes son mi madre y mis hermanos?” ^34^ Mirando a los que estaban sentados a su alrededor, dijo: “¡Mira, mi madre y mis hermanos! ^35^ Porque todo el que hace la voluntad de Dios es mi hermano, mi hermana y mi madre”. 
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ He entered again into the synagogue, and there was a man there whose hand was withered. ^2^ They watched him, whether he would heal him on the Sabbath day, that they might accuse him. ^3^ He said to the man whose hand was withered, “Stand up.” ^4^ He said to them, “Is it lawful on the Sabbath day to do good or to do harm? To save a life or to kill?” But they were silent. ^5^ When he had looked around at them with anger, being grieved at the hardening of their hearts, he said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored as healthy as the other. ^6^ The Pharisees went out, and immediately conspired with the Herodians against him, how they might destroy him. 
@@ -218,8 +222,8 @@ Then he came into a house. ^20^ The multitude came together again, so that they 
 
 ^33^ He answered them, “Who are my mother and my brothers?” ^34^ Looking around at those who sat around him, he said, “Behold, my mother and my brothers! ^35^ For whoever does the will of God is my brother, my sister, and mother.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Parábola del sembrador y cuatro tipos de campos
@@ -257,6 +261,7 @@ Then he came into a house. ^20^ The multitude came together again, so that they 
 ^41^ Se asustaron mucho y se dijeron unos a otros: “¿Quién es, pues, éste, que hasta el viento y el mar le obedecen?”
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ Again he began to teach by the seaside. A great multitude was gathered to him, so that he entered into a boat in the sea and sat down. All the multitude were on the land by the sea. ^2^ He taught them many things in parables, and told them in his teaching, ^3^ “Listen! Behold, the farmer went out to sow. ^4^ As he sowed, some seed fell by the road, and the birds^a^ came and devoured it. ^5^ Others fell on the rocky ground, where it had little soil, and immediately it sprang up, because it had no depth of soil. ^6^ When the sun had risen, it was scorched; and because it had no root, it withered away. ^7^ Others fell among the thorns, and the thorns grew up and choked it, and it yielded no fruit. ^8^ Others fell into the good ground and yielded fruit, growing up and increasing. Some produced thirty times, some sixty times, and some one hundred times as much.” ^9^ He said, “Whoever has ears to hear, let him hear.” 
@@ -284,8 +289,8 @@ Then he came into a house. ^20^ The multitude came together again, so that they 
 
 ^41^ They were greatly afraid and said to one another, “Who then is this, that even the wind and the sea obey him?” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Jesús sana a los poseídos en la tierra de los gerasenos
@@ -324,6 +329,7 @@ Then he came into a house. ^20^ The multitude came together again, so that they 
 ^a^[**5:41** Luc 7,14; Hech 9,40]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ They came to the other side of the sea, into the country of the Gadarenes. ^2^ When he had come out of the boat, immediately a man with an unclean spirit met him out of the tombs. ^3^ He lived in the tombs. Nobody could bind him any more, not even with chains, ^4^ because he had been often bound with fetters and chains, and the chains had been torn apart by him, and the fetters broken in pieces. Nobody had the strength to tame him. ^5^ Always, night and day, in the tombs and in the mountains, he was crying out, and cutting himself with stones. ^6^ When he saw Jesus from afar, he ran and bowed down to him, ^7^ and crying out with a loud voice, he said, “What have I to do with you, Jesus, you Son of the Most High God? I adjure you by God, don’t torment me.” ^8^ For he said to him, “Come out of the man, you unclean spirit!” 
@@ -358,8 +364,8 @@ The people came to see what it was that had happened. ^15^ They came to Jesus, a
 
 ^40^ They ridiculed him. But he, having put them all out, took the father of the child, her mother, and those who were with him, and went in where the child was lying. ^41^ Taking the child by the hand, he said to her, “Talitha cumi!” which means, being interpreted, “Girl, I tell you, get up!” ^42^ Immediately the girl rose up and walked, for she was twelve years old. They were amazed with great amazement. ^43^ He strictly ordered them that no one should know this, and commanded that something should be given to her to eat. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Rechazo y fracaso de Jesús en su natal Nazaret
@@ -412,6 +418,7 @@ The people came to see what it was that had happened. ^15^ They came to Jesus, a
 ^a^[**6:56** o, borla] ^b^[**6:56** Mar 5,27-28; Hech 5,15; Hech 19,11-12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ He went out from there. He came into his own country, and his disciples followed him. ^2^ When the Sabbath had come, he began to teach in the synagogue, and many hearing him were astonished, saying, “Where did this man get these things?” and, “What is the wisdom that is given to this man, that such mighty works come about by his hands? ^3^ Isn’t this the carpenter, the son of Mary and brother of James, Joses, Judah, and Simon? Aren’t his sisters here with us?” So they were offended at him. 
@@ -457,8 +464,8 @@ When they knew, they said, “Five, and two fish.”
 ^53^ When they had crossed over, they came to land at Gennesaret and moored to the shore. ^54^ When they had come out of the boat, immediately the people recognized him, ^55^ and ran around that whole region, and began to bring those who were sick on their mats to where they heard he was. ^56^ Wherever he entered—into villages, or into cities, or into the country—they laid the sick in the marketplaces and begged him that they might just touch the fringe^a^ of his garment; and as many as touched him were made well.
 ^a^[**6:56** or, tassel] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Pelea con los oponentes sobre el lavado de manos; Advertencia de estatutos humanos y marcado de verdadera impureza
@@ -491,6 +498,7 @@ When they knew, they said, “Five, and two fish.”
 ^a^[**7:31** Mar 5,20; Mat 15,29-31] ^b^[**7:36** Mar 1,43-45]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ Then the Pharisees and some of the scribes gathered together to him, having come from Jerusalem. ^2^ Now when they saw some of his disciples eating bread with defiled, that is unwashed, hands, they found fault. ^3^ (For the Pharisees and all the Jews don’t eat unless they wash their hands and forearms, holding to the tradition of the elders. ^4^ They don’t eat when they come from the marketplace unless they bathe themselves, and there are many other things which they have received to hold to: washings of cups, pitchers, bronze vessels, and couches.) ^5^ The Pharisees and the scribes asked him, “Why don’t your disciples walk according to the tradition of the elders, but eat their bread with unwashed hands?” 
@@ -517,8 +525,8 @@ When they knew, they said, “Five, and two fish.”
 
 ^31^ Again he departed from the borders of Tyre and Sidon, and came to the sea of Galilee through the middle of the region of Decapolis. ^32^ They brought to him one who was deaf and had an impediment in his speech. They begged him to lay his hand on him. ^33^ He took him aside from the multitude privately and put his fingers into his ears; and he spat and touched his tongue. ^34^ Looking up to heaven, he sighed, and said to him, “Ephphatha!” that is, “Be opened!” ^35^ Immediately his ears were opened, and the impediment of his tongue was released, and he spoke clearly. ^36^ He commanded them that they should tell no one, but the more he commanded them, so much the more widely they proclaimed it. ^37^ They were astonished beyond measure, saying, “He has done all things well. He makes even the deaf hear and the mute speak!” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Alimentando a los cuatro mil
@@ -578,6 +586,7 @@ When they knew, they said, “Five, and two fish.”
 ^a^[**8:35** Mat 10,39] ^b^[**8:38** Mat 10,33]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ In those days, when there was a very great multitude, and they had nothing to eat, Jesus called his disciples to himself and said to them, ^2^ “I have compassion on the multitude, because they have stayed with me now three days and have nothing to eat. ^3^ If I send them away fasting to their home, they will faint on the way, for some of them have come a long way.” 
@@ -625,8 +634,8 @@ Peter answered, “You are the Christ.”
 
 ^34^ He called the multitude to himself with his disciples and said to them, “Whoever wants to come after me, let him deny himself, and take up his cross, and follow me. ^35^ For whoever wants to save his life will lose it; and whoever will lose his life for my sake and the sake of the Good News will save it. ^36^ For what does it profit a man to gain the whole world and forfeit his life? ^37^ For what will a man give in exchange for his life? ^38^ For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him when he comes in his Father’s glory with the holy angels.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ^1^ Les dijo: “Os aseguro que hay algunos de los que están aquí que no probarán la muerte hasta que vean llegar el Reino de Dios con poder.”
@@ -700,6 +709,7 @@ Peter answered, “You are the Christ.”
 ^a^[**9:43** o, el infierno] ^b^[**9:43** Mat 5,30] ^c^[**9:44** Isaías 66:24] ^d^[**9:44** NU omite el versículo 44.] ^e^[**9:45** o, el infierno] ^f^[**9:46** NU omite el verso 46.] ^g^[**9:47** o el infierno] ^h^[**9:47** Mat 5,29] ^i^[**9:48** Isaías 66:24] ^j^[**9:49** Lev 2,13] ^k^[**9:50** Mat 5,13; Luc 14,34; Col 4,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ He said to them, “Most certainly I tell you, there are some standing here who will in no way taste death until they see God’s Kingdom come with power.” 
@@ -759,8 +769,8 @@ He said, “From childhood. ^22^ Often it has cast him both into the fire and in
 ^42^ “Whoever will cause one of these little ones who believe in me to stumble, it would be better for him if he were thrown into the sea with a millstone hung around his neck. ^43^ If your hand causes you to stumble, cut it off. It is better for you to enter into life maimed, rather than having your two hands to go into Gehenna, ^a^ into the unquenchable fire, ^44^ ‘where their worm doesn’t die, and the fire is not quenched.’ ^b^ ^c^ ^45^ If your foot causes you to stumble, cut it off. It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna, ^d^ into the fire that will never be quenched— ^46^ ‘where their worm doesn’t die, and the fire is not quenched.’ ^e^ ^47^ If your eye causes you to stumble, throw it out. It is better for you to enter into God’s Kingdom with one eye, rather than having two eyes to be cast into the Gehenna^f^ of fire, ^48^ ‘where their worm doesn’t die, and the fire is not quenched.’ ^g^ ^49^ For everyone will be salted with fire, and every sacrifice will be seasoned with salt. ^50^ Salt is good, but if the salt has lost its saltiness, with what will you season it? Have salt in yourselves, and be at peace with one another.” 
 ^a^[**9:43** or, Hell] ^b^[**9:44** Isaiah 66:24] ^c^[**9:44** NU omits verse 44.] ^d^[**9:45** or, Hell] ^e^[**9:46** NU omits verse 46.] ^f^[**9:47** or, Hell] ^g^[**9:48** Isaiah 66:24] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## Jesús en Judea y Transjordania; Conversaciones sobre matrimonio y divorcio
@@ -845,6 +855,7 @@ He said, “From childhood. ^22^ Often it has cast him both into the fire and in
 ^52^ Jesús le dijo: “Vete. Tu fe te ha curado”. Inmediatamente recibió la vista y siguió a Jesús por el camino. 
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ He arose from there and came into the borders of Judea and beyond the Jordan. Multitudes came together to him again. As he usually did, he was again teaching them. 
@@ -918,8 +929,8 @@ The blind man said to him, “Rabboni,^a^ that I may see again.”
 
 ^52^ Jesus said to him, “Go your way. Your faith has made you well.” Immediately he received his sight and followed Jesus on the way. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## La entrada de Jesús a Jerusalén
@@ -959,6 +970,7 @@ The blind man said to him, “Rabboni,^a^ that I may see again.”
 ^a^[**11:32** Luc 7,29-30]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ When they came near to Jerusalem, to Bethsphage^a^ and Bethany, at the Mount of Olives, he sent two of his disciples ^2^ and said to them, “Go your way into the village that is opposite you. Immediately as you enter into it, you will find a young donkey tied, on which no one has sat. Untie him and bring him. ^3^ If anyone asks you, ‘Why are you doing this?’ say, ‘The Lord needs him;’ and immediately he will send him back here.” 
@@ -991,8 +1003,8 @@ The blind man said to him, “Rabboni,^a^ that I may see again.”
 
 Jesus said to them, “Neither will I tell you by what authority I do these things.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## Parábola de los viticultores infieles
@@ -1042,6 +1054,7 @@ Jesus said to them, “Neither will I tell you by what authority I do these thin
 ^a^[**12:41** 2Re 12,9] ^b^[**12:42** literalmente, lepta (o ácaros de viuda). Los lepta son monedas de latón muy pequeñas que valen medio cuadrante cada una, que es una cuarta parte del asarion de cobre. Los lepta valen menos del 1% del salario diario de un trabajador agrícola.] ^c^[**12:42** o, “¡Yo soy!”]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ He began to speak to them in parables. “A man planted a vineyard, put a hedge around it, dug a pit for the wine press, built a tower, rented it out to a farmer, and went into another country. ^2^ When it was time, he sent a servant to the farmer to get from the farmer his share of the fruit of the vineyard. ^3^ They took him, beat him, and sent him away empty. ^4^ Again, he sent another servant to them; and they threw stones at him, wounded him in the head, and sent him away shamefully treated. ^5^ Again he sent another, and they killed him, and many others, beating some, and killing some. ^6^ Therefore still having one, his beloved son, he sent him last to them, saying, ‘They will respect my son.’ ^7^ But those farmers said among themselves, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’ ^8^ They took him, killed him, and cast him out of the vineyard. ^9^ What therefore will the lord of the vineyard do? He will come and destroy the farmers, and will give the vineyard to others. ^10^ Haven’t you even read this Scripture: ‘The stone which the builders rejected was made the head of the corner. ^11^ This was from the Lord. It is marvelous in our eyes’?”^a^ 
@@ -1085,8 +1098,8 @@ The common people heard him gladly. ^38^ In his teaching he said to them, “Bew
 ^41^ Jesus sat down opposite the treasury and saw how the multitude cast money into the treasury. Many who were rich cast in much. ^42^ A poor widow came and she cast in two small brass coins,^a^ which equal a quadrans coin.^b^ ^43^ He called his disciples to himself and said to them, “Most certainly I tell you, this poor widow gave more than all those who are giving into the treasury, ^44^ for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”
 ^a^[**12:42** literally, lepta (or widow’s mites). Lepta are very small brass coins worth half a quadrans each, which is a quarter of the copper assarion. Lepta are worth less than 1% of an agricultural worker’s daily wages.] ^b^[**12:42** A quadrans is a coin worth about 1/64 of a denarius. A denarius is about one day’s wages for an agricultural laborer.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## Los primeros signos del fin de los tiempos
@@ -1134,6 +1147,7 @@ The common people heard him gladly. ^38^ In his teaching he said to them, “Bew
 ^a^[**13:35** Luc 12,38]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ As he went out of the temple, one of his disciples said to him, “Teacher, see what kind of stones and what kind of buildings!” 
@@ -1164,8 +1178,8 @@ The common people heard him gladly. ^38^ In his teaching he said to them, “Bew
 
 ^34^ “It is like a man traveling to another country, having left his house and given authority to his servants, and to each one his work, and also commanded the doorkeeper to keep watch. ^35^ Watch therefore, for you don’t know when the lord of the house is coming—whether at evening, or at midnight, or when the rooster crows, or in the morning; ^36^ lest, coming suddenly, he might find you sleeping. ^37^ What I tell you, I tell all: Watch!” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## Intento de asesinato por parte de los líderes del pueblo
@@ -1260,6 +1274,7 @@ The common people heard him gladly. ^38^ In his teaching he said to them, “Bew
 ^72^ El gallo cantó por segunda vez. Pedro recordó las palabras que le dijo Jesús: “Antes de que cante el gallo dos veces, me negarás tres”. Cuando pensó en eso, lloró. 
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ It was now two days before the Passover and the Feast of Unleavened Bread, and the chief priests and the scribes sought how they might seize him by deception and kill him. ^2^ For they said, “Not during the feast, because there might be a riot among the people.” 
@@ -1327,8 +1342,8 @@ The common people heard him gladly. ^38^ In his teaching he said to them, “Bew
 
 ^72^ The rooster crowed the second time. Peter remembered the words that Jesus said to him, “Before the rooster crows twice, you will deny me three times.” When he thought about that, he wept. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## El interrogatorio de Jesús ante el gobernador romano Poncio Pilato; su condenación y flagelación
@@ -1383,6 +1398,7 @@ The common people heard him gladly. ^38^ In his teaching he said to them, “Bew
 ^42^ Cuando llegó la noche, por ser el día de la preparación, es decir, la víspera del sábado, ^43^ vino José de Arimatea, miembro destacado del consejo, que también buscaba el Reino de Dios. Entró audazmente a Pilato y pidió el cuerpo de Jesús. ^44^ Pilato se sorprendió al oír que ya estaba muerto; y llamando al centurión, le preguntó si llevaba mucho tiempo muerto. ^45^ Al enterarse por el centurión, concedió el cuerpo a José. ^46^ Compró un lienzo y, bajándolo, lo envolvió en el lienzo y lo depositó en un sepulcro excavado en una roca. Hizo rodar una piedra contra la puerta del sepulcro. ^47^ María Magdalena y María, la madre de Josés, vieron dónde estaba depositado.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ Immediately in the morning the chief priests, with the elders, scribes, and the whole council, held a consultation, bound Jesus, carried him away, and delivered him up to Pilate. ^2^ Pilate asked him, “Are you the King of the Jews?” 
@@ -1428,8 +1444,8 @@ But they cried out exceedingly, “Crucify him!”
 
 ^42^ When evening had now come, because it was the Preparation Day, that is, the day before the Sabbath, ^43^ Joseph of Arimathaea, a prominent council member who also himself was looking for God’s Kingdom, came. He boldly went in to Pilate, and asked for Jesus’ body. ^44^ Pilate was surprised to hear that he was already dead; and summoning the centurion, he asked him whether he had been dead long. ^45^ When he found out from the centurion, he granted the body to Joseph. ^46^ He bought a linen cloth, and taking him down, wound him in the linen cloth and laid him in a tomb which had been cut out of a rock. He rolled a stone against the door of the tomb. ^47^ Mary Magdalene and Mary the mother of Joses, saw where he was laid. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ## Descubrimiento de la tumba vacía en la mañana de Pascua; la revelación del ángel a las mujeres
@@ -1455,6 +1471,7 @@ But they cried out exceedingly, “Crucify him!”
 ## Ascensión de Jesús
 ^19^ Entonces el Señor, ^[**16:19** NU añade “Jesús”] después de hablarles, fue recibido en el cielo y se sentó a la derecha de Dios. ^[**16:19** Sal 110,1; Hech 1,2; Hech 7,55] ^20^ Ellos salieron y predicaron por todas partes, colaborando el Señor con ellos y confirmando la palabra con las señales que se producían. Amén. ^[**16:20** Hech 14,3; Heb 2,4]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ When the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome bought spices, that they might come and anoint him. ^2^ Very early on the first day of the week, they came to the tomb when the sun had risen. ^3^ They were saying among themselves, “Who will roll away the stone from the door of the tomb for us?” ^4^ for it was very big. Looking up, they saw that the stone was rolled back. 
@@ -1473,4 +1490,5 @@ But they cried out exceedingly, “Crucify him!”
 
 ^19^ So then the Lord,^a^ after he had spoken to them, was received up into heaven and sat down at the right hand of God. ^20^ They went out and preached everywhere, the Lord working with them and confirming the word by the signs that followed. Amen. 
 ^a^[**16:19** NU adds “Jesus”]
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

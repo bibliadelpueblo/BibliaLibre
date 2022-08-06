@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Bendiciones
@@ -25,6 +26,7 @@
 ^a^[**1:23** Juan 1,13; Juan 3,5; Sant 1,18] ^b^[**1:24** Sant 1,10; Sant 1,1-11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Peter, an apostle of Jesus Christ,^a^ to the chosen ones who are living as foreigners in the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, ^2^ according to the foreknowledge of God the Father, in sanctification of the Spirit, that you may obey Jesus Christ and be sprinkled with his blood: Grace to you and peace be multiplied. 
@@ -44,8 +46,8 @@
 
 This is the word of Good News which was preached to you. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Procedan en la santificación y edifíquense como piedras vivas sobre Cristo, la piedra angular, para un pueblo espiritual de sacerdotes
@@ -73,6 +75,7 @@ This is the word of Good News which was preached to you.
 ^a^[**2:18** Efes 6,5; Tit 2,9] ^b^[**2:20** 1Pe 3,14; Mat 5,10] ^c^[**2:21** 1Pe 3,18; Mat 16,24] ^d^[**2:22** Is 53,9; Juan 8,46] ^e^[**2:24** Rom 6,8; Rom 6,11; Gal 3,13; 1Jn 3,5] ^f^[**2:25** Is 53,6; Juan 10,12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ Putting away therefore all wickedness, all deceit, hypocrisies, envies, and all evil speaking, ^2^ as newborn babies, long for the pure spiritual milk, that with it you may grow, ^3^ if indeed you have tasted that the Lord is gracious. ^4^ Come to him, a living stone, rejected indeed by men, but chosen by God, precious. ^5^ You also as living stones are built up as a spiritual house, to be a holy priesthood, to offer up spiritual sacrifices, acceptable to God through Jesus Christ. ^6^ Because it is contained in Scripture, “Behold,^a^ I lay in Zion a chief cornerstone, chosen and precious. He who believes in him will not be disappointed.”^b^ 
@@ -95,8 +98,8 @@ For they stumble at the word, being disobedient, to which also they were appoint
 ^18^ Servants, be in subjection to your masters with all respect, not only to the good and gentle, but also to the wicked. ^19^ For it is commendable if someone endures pain, suffering unjustly, because of conscience toward God. ^20^ For what glory is it if, when you sin, you patiently endure beating? But if when you do well, you patiently endure suffering, this is commendable with God. ^21^ For you were called to this, because Christ also suffered for us, leaving you^a^ an example, that you should follow his steps, ^22^ who didn’t sin, “neither was deceit found in his mouth.”^b^ ^23^ When he was cursed, he didn’t curse back. When he suffered, he didn’t threaten, but committed himself to him who judges righteously. ^24^ He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness. You were healed by his wounds.^c^ ^25^ For you were going astray like sheep; but now you have returned to the Shepherd and Overseer^d^ of your souls.
 ^a^[**2:21** TR reads “us” instead of “you”] ^b^[**2:22** Isaiah 53:9] ^c^[**2:24** or, stripes] ^d^[**2:25** “Overseer” is from the Greek ἐπίσκοπον, which can mean overseer, curator, guardian, or superintendent.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Advertencias para los cónyuges
@@ -119,6 +122,7 @@ For they stumble at the word, being disobedient, to which also they were appoint
 ^a^[**3:18** 1Pe 2,21-24] ^b^[**3:19** 1Pe 4,6] ^c^[**3:20** Gén 7,7; Gén 7,17; 2Pe 2,5] ^d^[**3:21** Efes 5,26; Heb 10,22] ^e^[**3:22** Efes 1,20-21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ In the same way, wives, be in subjection to your own husbands, so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word, ^2^ seeing your pure behavior in fear. ^3^ Let your beauty come not from the outward adorning of braiding your hair, and of wearing gold ornaments or of putting on fine clothing, ^4^ but from the hidden person of the heart, in the incorruptible adornment of a gentle and quiet spirit, which is very precious in God’s sight. ^5^ For this is how in the past the holy women who hoped in God also adorned themselves, being in subjection to their own husbands. ^6^ So Sarah obeyed Abraham, calling him lord, whose children you now are if you do well and are not put in fear by any terror. 
@@ -131,8 +135,8 @@ For they stumble at the word, being disobedient, to which also they were appoint
 ^13^ Now who will harm you if you become imitators of that which is good? ^14^ But even if you should suffer for righteousness’ sake, you are blessed. “Don’t fear what they fear, neither be troubled.”^a^ ^15^ But sanctify the Lord God in your hearts. Always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear, ^16^ having a good conscience. Thus, while you are spoken against as evildoers, they may be disappointed who curse your good way of life in Christ. ^17^ For it is better, if it is God’s will, that you suffer for doing what is right than for doing evil. ^18^ Because Christ also suffered for sins once, the righteous for the unrighteous, that he might bring you to God, being put to death in the flesh, but made alive in the Spirit, ^19^ in whom he also went and preached to the spirits in prison, ^20^ who before were disobedient when God waited patiently in the days of Noah while the ship was being built. In it, few, that is, eight souls, were saved through water. ^21^ This is a symbol of baptism, which now saves you—not the putting away of the filth of the flesh, but the answer of a good conscience toward God—through the resurrection of Jesus Christ, ^22^ who is at the right hand of God, having gone into heaven, angels and authorities and powers being made subject to him.
 ^a^[**3:14** Isaiah 8:12] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## La voluntad de sufrir resiste la sensación de pecado, amortigua la lujuria y ayuda a las personas a caminar con devoción
@@ -148,6 +152,7 @@ For they stumble at the word, being disobedient, to which also they were appoint
 ^a^[**4:12** 1Pe 1,6-7] ^b^[**4:13** Hech 5,41; Rom 8,17; Sant 1,2] ^c^[**4:14** Mat 5,11; Efes 1,13] ^d^[**4:16** Fil 1,20] ^e^[**4:17** Jer 25,29; Ezeq 9,6] ^f^[**4:18** Prov 11,31] ^g^[**4:19** Sal 31,5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin, ^2^ that you no longer should live the rest of your time in the flesh for the lusts of men, but for the will of God. ^3^ For we have spent enough of our past time doing the desire of the Gentiles, and having walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries. ^4^ They think it is strange that you don’t run with them into the same excess of riot, speaking evil of you. ^5^ They will give account to him who is ready to judge the living and the dead. ^6^ For to this end the Good News was preached even to the dead, that they might be judged indeed as men in the flesh, but live as to God in the spirit. 
@@ -157,8 +162,8 @@ For they stumble at the word, being disobedient, to which also they were appoint
 ^12^ Beloved, don’t be astonished at the fiery trial which has come upon you to test you, as though a strange thing happened to you. ^13^ But because you are partakers of Christ’s sufferings, rejoice, that at the revelation of his glory you also may rejoice with exceeding joy. ^14^ If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests on you. On their part he is blasphemed, but on your part he is glorified. ^15^ But let none of you suffer as a murderer, or a thief, or an evil doer, or a meddler in other men’s matters. ^16^ But if one of you suffers for being a Christian, let him not be ashamed; but let him glorify God in this matter. ^17^ For the time has come for judgment to begin with the household of God. If it begins first with us, what will happen to those who don’t obey the Good News of God? ^18^ “If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?”^a^ ^19^ Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator.
 ^a^[**4:18** Proverbs 11:31] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Advertencia a los ancianos y a los más jóvenes de la iglesia
@@ -175,6 +180,7 @@ For they stumble at the word, being disobedient, to which also they were appoint
 ## Fin de la carta; Saludos y bendiciones
 ^12^ Por medio de Silvano, nuestro fiel hermano, como lo considero, os he escrito brevemente, exhortando y testificando que ésta es la verdadera gracia de Dios en la que estáis. ^[**5:12** Hech 15,22] ^13^ Os saluda la que está en Babilonia, elegida junto con vosotros. Lo mismo hace Marcos, hijo mío. ^[**5:13** 2Tim 4,11] ^14^ Saludaos unos a otros con un beso de amor. La paz sea con todos los que están en Cristo Jesús. Amén.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Therefore I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed: ^2^ shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily; not for dishonest gain, but willingly; ^3^ not as lording it over those entrusted to you, but making yourselves examples to the flock. ^4^ When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away. 
@@ -187,4 +193,5 @@ For they stumble at the word, being disobedient, to which also they were appoint
 ^12^ Through Silvanus, our faithful brother, as I consider him, I have written to you briefly, exhorting and testifying that this is the true grace of God in which you stand. ^13^ She who is in Babylon, chosen together with you, greets you. So does Mark, my son. ^14^ Greet one another with a kiss of love. 
 
 Peace be to all of you who are in Christ Jesus. Amen.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

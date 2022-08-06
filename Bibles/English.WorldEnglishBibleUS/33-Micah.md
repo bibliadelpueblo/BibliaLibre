@@ -15,8 +15,8 @@
 ^12^ For the inhabitant of Maroth waits anxiously for good, because evil has come down from Yahweh to the gate of Jerusalem. ^13^ Harness the chariot to the swift steed, inhabitant of Lachish. She was the beginning of sin to the daughter of Zion; for the transgressions of Israel were found in you. ^14^ Therefore you will give a parting gift to Moresheth Gath. The houses of Achzib will be a deceitful thing to the kings of Israel. ^15^ I will yet bring a conqueror to you, inhabitants of Mareshah. The glory of Israel will come to Adullam. ^16^ Shave your heads, and cut off your hair for the children of your delight. Enlarge your baldness like the vulture, for they have gone into captivity from you! 
 
 # 2 
-## Threats to the very rich and violent and to the opponents of the Prophet
 ## Siege and destruction of Nineveh as a result of divine judgment
+## Threats to the very rich and violent and to the opponents of the Prophet
 ^1^ Woe to those who devise iniquity and work evil on their beds! When the morning is light, they practice it, because it is in the power of their hand. ^2^ They covet fields and seize them, and houses, then take them away. They oppress a man and his house, even a man and his heritage. ^3^ Therefore Yahweh says: “Behold, I am planning against these people a disaster, from which you will not remove your necks, neither will you walk haughtily, for it is an evil time. ^4^ In that day they will take up a parable against you, and lament with a doleful lamentation, saying, ‘We are utterly ruined! My people’s possession is divided up. Indeed he takes it from me and assigns our fields to traitors!’” ^5^ Therefore you will have no one who divides the land by lot in Yahweh’s assembly.
 
 ## Micah's argument with his opponents, the leaders of the people
@@ -26,8 +26,8 @@
 ^12^ I will surely assemble all of you, Jacob. I will surely gather the remnant of Israel. I will put them together as the sheep of Bozrah, as a flock in the middle of their pasture. They will swarm with people. ^13^ He who breaks open the way goes up before them. They break through the gate, and go out. Their king passes on before them, with Yahweh at their head. 
 
 # 3 
-## The sins and punishment of the cosmopolitan city of Nineveh: a cry of woe and a song of mockery
 ## Micah's accusations and threats against the violent leaders of the people and the false prophets
+## The sins and punishment of the cosmopolitan city of Nineveh: a cry of woe and a song of mockery
 ^1^ I said, “Please listen, you heads of Jacob, and rulers of the house of Israel: Isn’t it for you to know justice? ^2^ You who hate the good, and love the evil; who tear off their skin, and their flesh from off their bones; ^3^ who also eat the flesh of my people, and peel their skin from off them, and break their bones, and chop them in pieces, as for the pot, and as meat within the cauldron. ^4^ Then they will cry to Yahweh, but he will not answer them. Yes, he will hide his face from them at that time, because they made their deeds evil.”
 
 ## Threat to the honeymoon prophets in contrast to Micah, the prophet filled with the spirit of God

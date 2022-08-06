@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Bendiciones
@@ -22,6 +23,7 @@
 ^a^[**1:15** 2Tim 4,16] ^b^[**1:16** 2Tim 4,20]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Paul, an apostle of Jesus Christ^a^ through the will of God, according to the promise of the life which is in Christ Jesus, ^2^ to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord. 
@@ -37,8 +39,8 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 
 ^15^ This you know, that all who are in Asia turned away from me, of whom are Phygelus and Hermogenes. ^16^ May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain, ^17^ but when he was in Rome, he sought me diligently and found me ^18^ (the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Exhortación a Timoteo para que se preocupe por la predicación de la doctrina de la salvación y se fortalezca en la batalla y el sufrimiento
@@ -66,6 +68,7 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^a^[**2:22** 1Tim 4,12; 1Tim 6,11; Heb 12,14] ^b^[**2:23** 1Tim 4,7] ^c^[**2:24** Tit 1,7]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ You therefore, my child, be strengthened in the grace that is in Christ Jesus. ^2^ The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also. ^3^ You therefore must endure hardship as a good soldier of Christ Jesus. ^4^ No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier. ^5^ Also, if anyone competes in athletics, he isn’t crowned unless he has competed by the rules. ^6^ The farmer who labors must be the first to get a share of the crops. ^7^ Consider what I say, and may the Lord give you understanding in all things. 
@@ -82,8 +85,8 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 
 ^22^ Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart. ^23^ But refuse foolish and ignorant questionings, knowing that they generate strife. ^24^ The Lord’s servant must not quarrel, but be gentle toward all, able to teach, patient, ^25^ in gentleness correcting those who oppose him. Perhaps God may give them repentance leading to a full knowledge of the truth, ^26^ and they may recover themselves out of the devil’s snare, having been taken captive by him to do his will. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Descripción de los futuros falsos maestros y la corrupción moral del último tiempo
@@ -95,6 +98,7 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^a^[**3:11** Hech 13,13-999; Sal 34,19] ^b^[**3:12** Mat 16,24; Hech 14,22; 1Tes 3,3] ^c^[**3:13** 1Tim 4,1] ^d^[**3:15** Juan 5,39] ^e^[**3:16** 2Pe 1,19-21] ^f^[**3:17** 1Tim 6,11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ But know this: that in the last days, grievous times will come. ^2^ For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy, ^3^ without natural affection, unforgiving, slanderers, without self-control, fierce, not lovers of good, ^4^ traitors, headstrong, conceited, lovers of pleasure rather than lovers of God, ^5^ holding a form of godliness but having denied its power. Turn away from these, also. ^6^ For some of these are people who creep into houses and take captive gullible women loaded down with sins, led away by various lusts, ^7^ always learning and never able to come to the knowledge of the truth. ^8^ Even as Jannes and Jambres opposed Moses, so these also oppose the truth, men corrupted in mind, who concerning the faith are rejected. ^9^ But they will proceed no further. For their folly will be evident to all men, as theirs also came to be. 
@@ -102,8 +106,8 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^10^ But you followed my teaching, conduct, purpose, faith, patience, love, steadfastness, ^11^ persecutions, and sufferings—those things that happened to me at Antioch, Iconium, and Lystra. I endured those persecutions. The Lord delivered me out of them all. ^12^ Yes, and all who desire to live godly in Christ Jesus will suffer persecution. ^13^ But evil men and impostors will grow worse and worse, deceiving and being deceived. ^14^ But you remain in the things which you have learned and have been assured of, knowing from whom you have learned them. ^15^ From infancy, you have known the holy Scriptures which are able to make you wise for salvation through faith which is in Christ Jesus. ^16^ Every Scripture is God-breathed and^a^ profitable for teaching, for reproof, for correction, and for instruction in righteousness, ^17^ that each person who belongs to God may be complete, thoroughly equipped for every good work.
 ^a^[**3:16** or, Every writing inspired by God is] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Otro llamado a Timoteo para que sea fiel a su oficio
@@ -126,6 +130,7 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 
 ^22^ El Señor Jesucristo esté con tu espíritu. La gracia sea contigo. Amén.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom: ^2^ preach the word; be urgent in season and out of season; reprove, rebuke, and exhort with all patience and teaching. ^3^ For the time will come when they will not listen to the sound doctrine, but having itching ears, will heap up for themselves teachers after their own lusts, ^4^ and will turn away their ears from the truth, and turn away to fables. ^5^ But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry. 
@@ -139,4 +144,5 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^19^ Greet Prisca and Aquila, and the house of Onesiphorus. ^20^ Erastus remained at Corinth, but I left Trophimus at Miletus sick. ^21^ Be diligent to come before winter. Eubulus salutes you, as do Pudens, Linus, Claudia, and all the brothers. 
 
 ^22^ The Lord Jesus Christ be with your spirit. Grace be with you. Amen.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

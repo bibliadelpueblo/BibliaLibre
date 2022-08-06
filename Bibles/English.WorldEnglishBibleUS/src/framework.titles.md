@@ -53,7 +53,7 @@
 ^-1^
 ### The marriages of the sons of God with the daughters of men
 ^4^
-### The wickedness of men. flood announcement
+### The wickedness of men. Flood announcement
 ^8^
 ### Call of Noah and the building of the ark
     
@@ -293,7 +293,7 @@
 ^16^
 ### Jacob moves to Succoth and settles with Shechêm
        
-## 3. 4
+## 34
 ^-1^
 ### Shichem's offense against Dinah
 ^5^
@@ -736,7 +736,7 @@
 ^17^
 ### God promises Moses that he will see his glory as a token of grace
               
-## 3. 4
+## 34
 ^-1^
 ### By order of God, Moses goes up to Sinai with two blank stone tablets
 ^4^
@@ -778,7 +778,7 @@
    
 ## 38
 ^-1^
-### The altar of burnt offerings. the copper basin
+### The altar of burnt offerings. The copper basin
 ^8^
 ### The Atrium
 ^20^
@@ -933,7 +933,7 @@
 ^-1^
 ### Rash and spots in people on bare skin
 ^8^
-### obsolete leprosy
+### Obsolete leprosy
 ^17^
 ### Leprosy after previous ulcer
 ^23^
@@ -1406,7 +1406,7 @@
 ^49^
 ### Provisional Ordinances of God regarding the conquest and distribution of the West Bank from Canaan
      
-## 3. 4
+## 34
 ^-1^
 ### Set the boundaries of the land of Canaan to be taken
 ^15^
@@ -1457,7 +1457,7 @@
      
 ## 4
 ^-1^
-### 2. Exhortation to strictly observe the divine commandments and warning against image-serving and idolatry
+### Exhortation to strictly observe the divine commandments and warning against image-serving and idolatry
 ^8^
 ### In memory of God's formless appearance at Horeb, Israel must guard against image serving
 ^24^
@@ -1465,7 +1465,7 @@
 ^31^
 ### The glory of divine revelation and grace compels the strictest obedience
 ^40^
-### 3. Appendix: Separation of three free cities in the east of the Jordan
+### Appendix: Separation of three free cities in the east of the Jordan
 ^43^
 ### Announcement of the next Sermon on the Law
 
@@ -1697,7 +1697,7 @@
 ^25^
 ### Praise the Lord and blessed Israel
       
-## 3. 4
+## 34
 ^-1^
 ### Moses on Mount Nebo; his death and burial; Joshua will succeed
 ^9^
@@ -3165,7 +3165,7 @@
 ^4^
 ### The descendants of Noah except Abraham; the Japhetites
 ^7^
-### the litters
+### The litters
 ^16^
 ### The Semites
 ^23^
@@ -3748,7 +3748,7 @@
 ^19^
 ### Amun King of Judah
     
-## 3. 4
+## 34
 ^-1^
 ### King Josiah's rule
 ^2^
@@ -4290,7 +4290,7 @@
 ^28^
 ### Request Job to instruct or refute Elihu's explanation
 
-## 3. 4
+## 34
 ^-1^
 ### Establishing Job's claim that God is unjust
 ^6^
@@ -4474,7 +4474,7 @@
 ^-1^
 ### Invitation to praise God's omnipotence and grace
                                
-## 3. 4
+## 34
 ^-1^
 ### God helps his own in every need
                       
@@ -4662,7 +4662,7 @@
                    
 ## 81
 ^-1^
-### Song of the festival. with penance
+### Song of the festival. With penance
        
 ## 82
 ^-1^
@@ -4824,11 +4824,11 @@
 ^32^
 ### I have
 ^40^
-### wow
+### Wow
 ^48^
 ### Zayn
 ^56^
-###Cheth
+### Cheth
 ^64^
 ### Teth
 ^72^
@@ -4836,15 +4836,15 @@
 ^80^
 ### Caph
 ^88^
-### lick
+### Lick
 ^96^
-### mem
+### Mem
 ^104^
-### no
+### No
 ^112^
 ### Samech
 ^120^
-### ain
+### Ain
 ^128^
 ### Pe
 ^136^
@@ -5188,7 +5188,7 @@
 ^11^
 ### Warning against useless musings; End result list
  
-# songs
+# Songs
 ## 1
 ^-1^
 ### Sulammith's inner dialogue and his longing for love
@@ -5197,13 +5197,13 @@
 ^6^
 ### Girlfriend request for a date
 ^8^
-### sweet talk of love
+### Sweet talk of love
        
 ## 2
 ^-1^
 ### Songs and engagement
 ^7^
-### spring love
+### Spring love
 ^14^
 ### Two sighs of love from the bride
    
@@ -5546,7 +5546,7 @@
 ^13^
 ### The sanctifying effect of judgment; the future happiness of the people under divine protection
        
-## 3. 4
+## 34
 ^-1^
 ### God's judgment against all foreign peoples hostile to God's kingdom, especially Edom
 ^4^
@@ -5822,7 +5822,7 @@
      
 ## 65
 ^-1^
-### ottes wail against the apostate people; Threat of punishment for apostates
+### Gods wail against the apostate people; Threat of punishment for apostates
 ^7^
 ### Announcement of divorce between faithful servants and those who persist in apostasy; a selection must be saved
 ^12^
@@ -6195,7 +6195,7 @@
 ^13^
 ### Prophecy of David's sprouting of the future and of the eternal existence of the people, the Davidic kingship and the Levitical priesthood
           
-## 3. 4
+## 34
 ^-1^
 ### Announcing Zedekiah's fate
 ^7^
@@ -6729,7 +6729,7 @@
 ^29^
 ### Punitive speech on the impenetrability of the prophet's hearing
     
-## 3. 4
+## 34
 ^-1^
 ### Pastors past, abandoned and perishable
 ^10^

@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## La comisión de Dios de conquistar y animar a Josué; Preparativos para cruzar el Jordán
@@ -19,6 +20,7 @@
 ^a^[**1:18** Jos 1,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Now after the death of Moses the servant of Yahweh,^a^ Yahweh spoke to Joshua the son of Nun, Moses’ servant, saying, ^2^ “Moses my servant is dead. Now therefore arise, go across this Jordan, you and all these people, to the land which I am giving to them, even to the children of Israel. ^3^ I have given you every place that the sole of your foot will tread on, as I told Moses. ^4^ From the wilderness and this Lebanon even to the great river, the river Euphrates, all the land of the Hittites, and to the great sea toward the going down of the sun, shall be your border. ^5^ No man will be able to stand before you all the days of your life. As I was with Moses, so I will be with you. I will not fail you nor forsake you. 
@@ -33,8 +35,8 @@
 
 ^16^ They answered Joshua, saying, “All that you have commanded us we will do, and wherever you send us we will go. ^17^ Just as we listened to Moses in all things, so will we listen to you. Only may Yahweh your God be with you, as he was with Moses. ^18^ Whoever rebels against your commandment, and doesn’t listen to your words in all that you command him shall himself be put to death. Only be strong and courageous.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## El escultismo de Jericó; la salvación de los dos espías por la prostituta Rahab
@@ -65,6 +67,7 @@
 ^a^[**2:24** Jos 2,9]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ Joshua the son of Nun secretly sent two men out of Shittim as spies, saying, “Go, view the land, including Jericho.” They went and came into the house of a prostitute whose name was Rahab, and slept there. 
@@ -86,8 +89,8 @@
 
 ^22^ They went and came to the mountain, and stayed there three days, until the pursuers had returned. The pursuers sought them all along the way, but didn’t find them. ^23^ Then the two men returned, descended from the mountain, crossed the river, and came to Joshua the son of Nun. They told him all that had happened to them. ^24^ They said to Joshua, “Truly Yahweh has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Llegada al Jordán; Anuncio de los presidentes y dos órdenes de Joshua; Salida del pueblo
@@ -112,10 +115,11 @@
 ^a^[**3:16** Éxod 14,21; Sal 114,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Joshua got up early in the morning; and they moved from Shittim and came to the Jordan, he and all the children of Israel. They camped there before they crossed over. ^2^ After three days, the officers went through the middle of the camp; ^3^ and they commanded the people, saying, “When you see the ark of Yahweh your God’s covenant, and the Levitical priests bearing it, then leave your place and follow it. ^4^ Yet there shall be a space between you and it of about two thousand cubits^a^ by measure—don’t come closer to it—that you may know the way by which you must go; for you have not passed this way before.” 
-^a^[**3:4** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters, so 2, 000 cubits is about 920 meters.]
+^a^[**3:4** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters, so 2,000 cubits is about 920 meters.]
 
 ^5^ Joshua said to the people, “Sanctify yourselves; for tomorrow Yahweh will do wonders among you.” 
 
@@ -128,8 +132,8 @@
 
 ^14^ When the people moved from their tents to pass over the Jordan, the priests who bore the ark of the covenant being before the people, ^15^ and when those who bore the ark had come to the Jordan, and the feet of the priests who bore the ark had dipped in the edge of the water (for the Jordan overflows all its banks all the time of harvest), ^16^ the waters which came down from above stood, and rose up in one heap a great way off, at Adam, the city that is beside Zarethan; and those that went down toward the sea of the Arabah, even the Salt Sea, were wholly cut off. Then the people passed over near Jericho. ^17^ The priests who bore the ark of Yahweh’s covenant stood firm on dry ground in the middle of the Jordan; and all Israel crossed over on dry ground, until all the nation had passed completely over the Jordan. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Erigiendo un monumento de piedra en el lecho del Jordán y otro en la otra orilla de Gilgal
@@ -156,6 +160,7 @@
 ^a^[**4:21** Jos 4,6] ^b^[**4:23** Éxod 14,21-22]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ When all the nation had completely crossed over the Jordan, Yahweh spoke to Joshua, saying, ^2^ “Take twelve men out of the people, a man out of every tribe, ^3^ and command them, saying, ‘Take from out of the middle of the Jordan, out of the place where the priests’ feet stood firm, twelve stones, carry them over with you, and lay them down in the place where you’ll camp tonight.’” 
@@ -172,8 +177,8 @@
 
 ^20^ Joshua set up those twelve stones, which they took out of the Jordan, in Gilgal. ^21^ He spoke to the children of Israel, saying, “When your children ask their fathers in time to come, saying, ‘What do these stones mean?’ ^22^ Then you shall let your children know, saying, ‘Israel came over this Jordan on dry land. ^23^ For Yahweh your God dried up the waters of the Jordan from before you until you had crossed over, as Yahweh your God did to the Red Sea, which he dried up from before us, until we had crossed over, ^24^ that all the peoples of the earth may know that Yahweh’s hand is mighty, and that you may fear Yahweh your God forever.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Realizar la circuncisión de Israel
@@ -198,6 +203,7 @@
 ^a^[**5:15** Éxod 3,5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ When all the kings of the Amorites, who were beyond the Jordan westward, and all the kings of the Canaanites, who were by the sea, heard how Yahweh had dried up the waters of the Jordan from before the children of Israel until we had crossed over, their heart melted, and there was no more spirit in them, because of the children of Israel. ^2^ At that time, Yahweh said to Joshua, “Make flint knives, and circumcise again the sons of Israel the second time.” ^3^ Joshua made himself flint knives, and circumcised the sons of Israel at the hill of the foreskins. ^4^ This is the reason Joshua circumcised them: all the people who came out of Egypt, who were males, even all the men of war, died in the wilderness along the way, after they came out of Egypt. ^5^ For all the people who came out were circumcised; but all the people who were born in the wilderness along the way as they came out of Egypt had not been circumcised. ^6^ For the children of Israel walked forty years in the wilderness until all the nation, even the men of war who came out of Egypt, were consumed, because they didn’t listen to Yahweh’s voice. Yahweh swore to them that he wouldn’t let them see the land which Yahweh swore to their fathers that he would give us, a land flowing with milk and honey. ^7^ Their children, whom he raised up in their place, were circumcised by Joshua, for they were uncircumcised, because they had not circumcised them on the way. ^8^ When they were done circumcising the whole nation, they stayed in their places in the camp until they were healed. 
@@ -213,8 +219,8 @@ Joshua fell on his face to the earth, and worshiped, and asked him, “What does
 
 ^15^ The prince of Yahweh’s army said to Joshua, “Take off your sandals, for the place on which you stand is holy.” Joshua did so. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Dios le enseñó a Josué cómo conquistar Jericó
@@ -245,6 +251,7 @@ Joshua fell on his face to the earth, and worshiped, and asked him, “What does
 ^a^[**6:26** 1Re 16,34]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ Now Jericho was tightly shut up because of the children of Israel. No one went out, and no one came in. ^2^ Yahweh said to Joshua, “Behold, I have given Jericho into your hand, with its king and the mighty men of valor. ^3^ All of your men of war shall march around the city, going around the city once. You shall do this six days. ^4^ Seven priests shall bear seven trumpets of rams’ horns before the ark. On the seventh day, you shall march around the city seven times, and the priests shall blow the trumpets. ^5^ It shall be that when they make a long blast with the ram’s horn, and when you hear the sound of the trumpet, all the people shall shout with a great shout; then the city wall will fall down flat, and the people shall go up, every man straight in front of him.” 
@@ -263,8 +270,8 @@ Joshua fell on his face to the earth, and worshiped, and asked him, “What does
 
 ^26^ Joshua commanded them with an oath at that time, saying, “Cursed is the man before Yahweh who rises up and builds this city Jericho. With the loss of his firstborn he will lay its foundation, and with the loss of his youngest son he will set up its gates.” ^27^ So Yahweh was with Joshua; and his fame was in all the land. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Fracaso del movimiento cuidadosamente preparado contra Ai; Desánimo del pueblo; Oración suplicante de Josué
@@ -286,6 +293,7 @@ Joshua fell on his face to the earth, and worshiped, and asked him, “What does
 ^a^[**7:26** Is 65,10; Os 2,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ But the children of Israel committed a trespass in the devoted things; for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of the devoted things. Therefore Yahweh’s anger burned against the children of Israel. ^2^ Joshua sent men from Jericho to Ai, which is beside Beth Aven, on the east side of Bethel, and spoke to them, saying, “Go up and spy out the land.” 
@@ -297,12 +305,12 @@ The men went up and spied out Ai. ^3^ They returned to Joshua, and said to him, 
 ^16^ So Joshua rose up early in the morning and brought Israel near by their tribes. The tribe of Judah was selected. ^17^ He brought near the family of Judah, and he selected the family of the Zerahites. He brought near the family of the Zerahites man by man, and Zabdi was selected. ^18^ He brought near his household man by man, and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was selected. ^19^ Joshua said to Achan, “My son, please give glory to Yahweh, the God of Israel, and make confession to him. Tell me now what you have done! Don’t hide it from me!” 
 
 ^20^ Achan answered Joshua, and said, “I have truly sinned against Yahweh, the God of Israel, and this is what I have done. ^21^ When I saw among the plunder a beautiful Babylonian robe, two hundred shekels^a^ of silver, and a wedge of gold weighing fifty shekels, then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent, with the silver under it.” 
-^a^[**7:21** A shekel is about 10 grams or about 0. 35 ounces.]
+^a^[**7:21** A shekel is about 10 grams or about 0.35 ounces.]
 
 ^22^ So Joshua sent messengers, and they ran to the tent. Behold, it was hidden in his tent, with the silver under it. ^23^ They took them from the middle of the tent, and brought them to Joshua and to all the children of Israel. They laid them down before Yahweh. ^24^ Joshua, and all Israel with him, took Achan the son of Zerah, the silver, the robe, the wedge of gold, his sons, his daughters, his cattle, his donkeys, his sheep, his tent, and all that he had; and they brought them up to the valley of Achor. ^25^ Joshua said, “Why have you troubled us? Yahweh will trouble you today.” All Israel stoned him with stones, and they burned them with fire and stoned them with stones. ^26^ They raised over him a great heap of stones that remains to this day. Yahweh turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Por instrucción divina, Josué se mueve contra Hai y prepara una emboscada en el oeste de la ciudad
@@ -328,6 +336,7 @@ The men went up and spied out Ai. ^3^ They returned to Joshua, and said to him, 
 ^a^[**8:30** Deut 27,2-8] ^b^[**8:33** Deut 11,29; Deut 27,12-13]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ Yahweh said to Joshua, “Don’t be afraid, and don’t be dismayed. Take all the warriors with you, and arise, go up to Ai. Behold, I have given into your hand the king of Ai, with his people, his city, and his land. ^2^ You shall do to Ai and her king as you did to Jericho and her king, except you shall take its goods and its livestock for yourselves. Set an ambush for the city behind it.” 
@@ -344,8 +353,8 @@ Joshua stretched out the javelin that was in his hand toward the city. ^19^ The 
 
 ^30^ Then Joshua built an altar to Yahweh, the God of Israel, on Mount Ebal, ^31^ as Moses the servant of Yahweh commanded the children of Israel, as it is written in the book of the law of Moses: an altar of uncut stones, on which no one had lifted up any iron. They offered burnt offerings on it to Yahweh and sacrificed peace offerings. ^32^ He wrote there on the stones a copy of Moses’ law, which he wrote in the presence of the children of Israel. ^33^ All Israel, with their elders, officers, and judges, stood on both sides of the ark before the Levitical priests, who carried the ark of Yahweh’s covenant, the foreigner as well as the native; half of them in front of Mount Gerizim, and half of them in front of Mount Ebal, as Moses the servant of Yahweh had commanded at the first, that they should bless the people of Israel. ^34^ Afterward he read all the words of the law, the blessing and the curse, according to all that is written in the book of the law. ^35^ There was not a word of all that Moses commanded which Joshua didn’t read before all the assembly of Israel, with the women, the little ones, and the foreigners who were among them. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## Los reyes cananeos hacen un pacto contra Israel
@@ -378,6 +387,7 @@ Joshua stretched out the javelin that was in his hand toward the city. ^19^ The 
 ^a^[**9:27** Deut 29,11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ When all the kings who were beyond the Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard of it ^2^ they gathered themselves together to fight with Joshua and with Israel, with one accord. ^3^ But when the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai, ^4^ they also resorted to a ruse, and went and made as if they had been ambassadors, and took old sacks on their donkeys, and old, torn-up and bound up wine skins, ^5^ and old and patched sandals on their feet, and wore old garments. All the bread of their food supply was dry and moldy. ^6^ They went to Joshua at the camp at Gilgal, and said to him and to the men of Israel, “We have come from a far country. Now therefore make a covenant with us.” 
@@ -398,8 +408,8 @@ Joshua said to them, “Who are you? Where do you come from?”
 
 ^26^ He did so to them, and delivered them out of the hand of the children of Israel, so that they didn’t kill them. ^27^ That day Joshua made them wood cutters and drawers of water for the congregation and for Yahweh’s altar to this day, in the place which he should choose. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## La procesión de los cinco reyes contra Gabaón; Victoria de Josué en Gabaón
@@ -451,6 +461,7 @@ Joshua said to them, “Who are you? Where do you come from?”
 ^a^[**10:40** Núm 21,2; Deut 20,16-18] ^b^[**10:41** Jos 11,16] ^c^[**10:42** Jos 10,14] ^d^[**10:43** Jos 10,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ Now when Adoni-Zedek king of Jerusalem heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them, ^2^ they were very afraid, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all its men were mighty. ^3^ Therefore Adoni-Zedek king of Jerusalem sent to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, saying, ^4^ “Come up to me and help me. Let’s strike Gibeon; for they have made peace with Joshua and with the children of Israel.” ^5^ Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon, gathered themselves together and went up, they and all their armies, and encamped against Gibeon, and made war against it. ^6^ The men of Gibeon sent to Joshua at the camp at Gilgal, saying, “Don’t abandon your servants! Come up to us quickly and save us! Help us; for all the kings of the Amorites that dwell in the hill country have gathered together against us.” 
@@ -489,8 +500,8 @@ They came near, and put their feet on their necks.
 
 ^38^ Joshua returned, and all Israel with him, to Debir, and fought against it. ^39^ He took it, with its king and all its cities. They struck them with the edge of the sword, and utterly destroyed all the souls who were in it. He left no one remaining. As he had done to Hebron, so he did to Debir, and to its king; as he had done also to Libnah, and to its king. ^40^ So Joshua struck all the land, the hill country, the South, the lowland, the slopes, and all their kings. He left no one remaining, but he utterly destroyed all that breathed, as Yahweh, the God of Israel, commanded. ^41^ Joshua struck them from Kadesh Barnea even to Gaza, and all the country of Goshen, even to Gibeon. ^42^ Joshua took all these kings and their land at one time because Yahweh, the God of Israel, fought for Israel. ^43^ Joshua returned, and all Israel with him, to the camp to Gilgal. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## Los reyes unidos por Jabín son destruidos por Josué
@@ -516,6 +527,7 @@ They came near, and put their feet on their necks.
 ^a^[**11:21** Núm 13,22; Deut 1,28] ^b^[**11:22** 1Sam 17,4] ^c^[**11:23** Jos 14,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ When Jabin king of Hazor heard of it, he sent to Jobab king of Madon, to the king of Shimron, to the king of Achshaph, ^2^ and to the kings who were on the north, in the hill country, in the Arabah south of Chinneroth, in the lowland, and in the heights of Dor on the west, ^3^ to the Canaanite on the east and on the west, the Amorite, the Hittite, the Perizzite, the Jebusite in the hill country, and the Hivite under Hermon in the land of Mizpah. ^4^ They went out, they and all their armies with them, many people, even as the sand that is on the seashore in multitude, with very many horses and chariots. ^5^ All these kings met together; and they came and encamped together at the waters of Merom, to fight with Israel. 
@@ -526,8 +538,8 @@ They came near, and put their feet on their necks.
 
 ^15^ As Yahweh commanded Moses his servant, so Moses commanded Joshua. Joshua did so. He left nothing undone of all that Yahweh commanded Moses. ^16^ So Joshua captured all that land, the hill country, all the South, all the land of Goshen, the lowland, the Arabah, the hill country of Israel, and the lowland of the same, ^17^ from Mount Halak, that goes up to Seir, even to Baal Gad in the valley of Lebanon under Mount Hermon. He took all their kings, struck them, and put them to death. ^18^ Joshua made war a long time with all those kings. ^19^ There was not a city that made peace with the children of Israel, except the Hivites, the inhabitants of Gibeon. They took all in battle. ^20^ For it was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as Yahweh commanded Moses. ^21^ Joshua came at that time, and cut off the Anakim from the hill country, from Hebron, from Debir, from Anab, and from all the hill country of Judah, and from all the hill country of Israel. Joshua utterly destroyed them with their cities. ^22^ There were none of the Anakim left in the land of the children of Israel. Only in Gaza, in Gath, and in Ashdod, did some remain. ^23^ So Joshua took the whole land, according to all that Yahweh spoke to Moses; and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. Then the land had rest from war. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## Los dos reyes de Cisjordania derrotados por Moisés
@@ -539,14 +551,15 @@ They came near, and put their feet on their necks.
 ^a^[**12:8** Jos 11,3] ^b^[**12:9** Jos 6,2; Jos 8,29] ^c^[**12:10** Jos 10,1; Jos 10,3] ^d^[**12:11** Jos 10,3] ^e^[**12:12** Jos 10,3; Jos 10,26; Jos 10,33] ^f^[**12:13** Jos 10,39; Jue 1,11] ^g^[**12:14** Jue 1,17; Núm 21,1] ^h^[**12:15** Jos 10,29-30] ^i^[**12:16** Jos 10,28] ^j^[**12:18** Jos 15,53; 1Sam 4,1] ^k^[**12:19** Jos 11,1; Jos 11,10] ^l^[**12:20** Jos 11,1] ^m^[**12:23** Jos 11,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the Jordan toward the sunrise, from the valley of the Arnon to Mount Hermon, and all the Arabah eastward: ^2^ Sihon king of the Amorites, who lived in Heshbon, and ruled from Aroer, which is on the edge of the valley of the Arnon, and the middle of the valley, and half Gilead, even to the river Jabbok, the border of the children of Ammon; ^3^ and the Arabah to the sea of Chinneroth, eastward, and to the sea of the Arabah, even the Salt Sea, eastward, the way to Beth Jeshimoth; and on the south, under the slopes of Pisgah: ^4^ and the border of Og king of Bashan, of the remnant of the Rephaim, who lived at Ashtaroth and at Edrei, ^5^ and ruled in Mount Hermon, and in Salecah, and in all Bashan, to the border of the Geshurites and the Maacathites, and half Gilead, the border of Sihon king of Heshbon. ^6^ Moses the servant of Yahweh and the children of Israel struck them. Moses the servant of Yahweh gave it for a possession to the Reubenites, and the Gadites, and the half-tribe of Manasseh. 
 
 ^7^ These are the kings of the land whom Joshua and the children of Israel struck beyond the Jordan westward, from Baal Gad in the valley of Lebanon even to Mount Halak, that goes up to Seir. Joshua gave it to the tribes of Israel for a possession according to their divisions; ^8^ in the hill country, and in the lowland, and in the Arabah, and in the slopes, and in the wilderness, and in the South; the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite: ^9^ the king of Jericho, one; the king of Ai, which is beside Bethel, one; ^10^ the king of Jerusalem, one; the king of Hebron, one; ^11^ the king of Jarmuth, one; the king of Lachish, one; ^12^ the king of Eglon, one; the king of Gezer, one; ^13^ the king of Debir, one; the king of Geder, one; ^14^ the king of Hormah, one; the king of Arad, one; ^15^ the king of Libnah, one; the king of Adullam, one; ^16^ the king of Makkedah, one; the king of Bethel, one; ^17^ the king of Tappuah, one; the king of Hepher, one; ^18^ the king of Aphek, one; the king of Lassharon, one; ^19^ the king of Madon, one; the king of Hazor, one; ^20^ the king of Shimron Meron, one; the king of Achshaph, one; ^21^ the king of Taanach, one; the king of Megiddo, one; ^22^ the king of Kedesh, one; the king of Jokneam in Carmel, one; ^23^ the king of Dor in the height of Dor, one; the king of Goiim in Gilgal, one; ^24^ the king of Tirzah, one: all the kings thirty-one. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## Enumeración de las áreas previamente no conquistadas; El mandato de Dios de distribuir
@@ -574,6 +587,7 @@ They came near, and put their feet on their necks.
 ^a^[**13:33** Núm 18,20-21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ Now Joshua was old and well advanced in years. Yahweh said to him, “You are old and advanced in years, and there remains yet very much land to be possessed. 
@@ -588,8 +602,8 @@ They came near, and put their feet on their necks.
 
 ^32^ These are the inheritances which Moses distributed in the plains of Moab, beyond the Jordan at Jericho, eastward. ^33^ But Moses gave no inheritance to the tribe of Levi. Yahweh, the God of Israel, is their inheritance, as he spoke to them. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## Comentarios introductorios; la herencia de Caleb en Hebrón
@@ -607,6 +621,7 @@ They came near, and put their feet on their necks.
 ^a^[**14:13** Jos 15,13-19; Jos 21,11-12] ^b^[**14:15** Jos 11,23]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ These are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed to them, ^2^ by the lot of their inheritance, as Yahweh commanded by Moses, for the nine tribes, and for the half-tribe. ^3^ For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan; but to the Levites he gave no inheritance among them. ^4^ For the children of Joseph were two tribes, Manasseh and Ephraim. They gave no portion to the Levites in the land, except cities to dwell in, with their pasture lands for their livestock and for their property. ^5^ The children of Israel did as Yahweh commanded Moses, and they divided the land. 
@@ -617,8 +632,8 @@ They came near, and put their feet on their necks.
 
 ^13^ Joshua blessed him; and he gave Hebron to Caleb the son of Jephunneh for an inheritance. ^14^ Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day, because he followed Yahweh, the God of Israel wholeheartedly. ^15^ Now the name of Hebron before was Kiriath Arba, after the greatest man among the Anakim. Then the land had rest from war. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## El territorio de la tribu de Judá
@@ -639,6 +654,7 @@ They came near, and put their feet on their necks.
 ^a^[**15:63** Jos 18,18; 2Sam 5,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ The lot for the tribe of the children of Judah according to their families was to the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south. ^2^ Their south border was from the uttermost part of the Salt Sea, from the bay that looks southward; ^3^ and it went out southward of the ascent of Akrabbim, and passed along to Zin, and went up by the south of Kadesh Barnea, and passed along by Hezron, went up to Addar, and turned toward Karka; ^4^ and it passed along to Azmon, went out at the brook of Egypt; and the border ended at the sea. This shall be your south border. ^5^ The east border was the Salt Sea, even to the end of the Jordan. The border of the north quarter was from the bay of the sea at the end of the Jordan. ^6^ The border went up to Beth Hoglah, and passed along by the north of Beth Arabah; and the border went up to the stone of Bohan the son of Reuben. ^7^ The border went up to Debir from the valley of Achor, and so northward, looking toward Gilgal, that faces the ascent of Adummim, which is on the south side of the river. The border passed along to the waters of En Shemesh, and ended at En Rogel. ^8^ The border went up by the valley of the son of Hinnom to the side of the Jebusite (also called Jerusalem) southward; and the border went up to the top of the mountain that lies before the valley of Hinnom westward, which is at the farthest part of the valley of Rephaim northward. ^9^ The border extended from the top of the mountain to the spring of the waters of Nephtoah, and went out to the cities of Mount Ephron; and the border extended to Baalah (also called Kiriath Jearim); ^10^ and the border turned about from Baalah westward to Mount Seir, and passed along to the side of Mount Jearim (also called Chesalon) on the north, and went down to Beth Shemesh, and passed along by Timnah; ^11^ and the border went out to the side of Ekron northward; and the border extended to Shikkeron, and passed along to Mount Baalah, and went out at Jabneel; and the goings out of the border were at the sea. ^12^ The west border was to the shore of the great sea. This is the border of the children of Judah according to their families. 
@@ -653,8 +669,8 @@ So he gave her the upper springs and the lower springs.
 
 ^63^ As for the Jebusites, the inhabitants of Jerusalem, the children of Judah couldn’t drive them out; but the Jebusites live with the children of Judah at Jerusalem to this day. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ## El territorio de los descendientes de José
@@ -667,14 +683,15 @@ So he gave her the upper springs and the lower springs.
 ^a^[**16:9** Jos 17,9] ^b^[**16:10** 1Re 9,16]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel. ^2^ It went out from Bethel to Luz, and passed along to the border of the Archites to Ataroth; ^3^ and it went down westward to the border of the Japhletites, to the border of Beth Horon the lower, and on to Gezer; and ended at the sea. 
 
 ^4^ The children of Joseph, Manasseh and Ephraim, took their inheritance. ^5^ This was the border of the children of Ephraim according to their families. The border of their inheritance eastward was Ataroth Addar, to Beth Horon the upper. ^6^ The border went out westward at Michmethath on the north. The border turned about eastward to Taanath Shiloh, and passed along it on the east of Janoah. ^7^ It went down from Janoah to Ataroth, to Naarah, reached to Jericho, and went out at the Jordan. ^8^ From Tappuah the border went along westward to the brook of Kanah; and ended at the sea. This is the inheritance of the tribe of the children of Ephraim according to their families; ^9^ together with the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages. ^10^ They didn’t drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 17
 ## Territorio de la tribu Manasés
@@ -702,6 +719,7 @@ So he gave her the upper springs and the lower springs.
 ^17^ Josué habló a la casa de José, es decir, a Efraín y a Manasés, diciendo: “Vosotros sois un pueblo numeroso y tenéis un gran poder. No tendréis un solo lote; ^18^ sino que la región montañosa será vuestra. Aunque sea un bosque, lo cortaréis, y su máxima extensión será vuestra; porque expulsaréis a los cananeos, aunque tengan carros de hierro, y aunque sean fuertes.”
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 17
 ^1^ This was the lot for the tribe of Manasseh, for he was the firstborn of Joseph. As for Machir the firstborn of Manasseh, the father of Gilead, because he was a man of war, therefore he had Gilead and Bashan. ^2^ So this was for the rest of the children of Manasseh according to their families: for the children of Abiezer, for the children of Helek, for the children of Asriel, for the children of Shechem, for the children of Hepher, and for the children of Shemida. These were the male children of Manasseh the son of Joseph according to their families. ^3^ But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah. ^4^ They came to Eleazar the priest, and to Joshua the son of Nun, and to the princes, saying, “Yahweh commanded Moses to give us an inheritance among our brothers.” Therefore according to the commandment of Yahweh he gave them an inheritance among the brothers of their father. ^5^ Ten parts fell to Manasseh, in addition to the land of Gilead and Bashan, which is beyond the Jordan; ^6^ because the daughters of Manasseh had an inheritance among his sons. The land of Gilead belonged to the rest of the sons of Manasseh. ^7^ The border of Manasseh was from Asher to Michmethath, which is before Shechem. The border went along to the right hand, to the inhabitants of En Tappuah. ^8^ The land of Tappuah belonged to Manasseh; but Tappuah on the border of Manasseh belonged to the children of Ephraim. ^9^ The border went down to the brook of Kanah, southward of the brook. These cities belonged to Ephraim among the cities of Manasseh. The border of Manasseh was on the north side of the brook, and ended at the sea. ^10^ Southward it was Ephraim’s, and northward it was Manasseh’s, and the sea was his border. They reached to Asher on the north, and to Issachar on the east. ^11^ Manasseh had three heights in Issachar, in Asher Beth Shean and its towns, and Ibleam and its towns, and the inhabitants of Dor and its towns, and the inhabitants of Endor and its towns, and the inhabitants of Taanach and its towns, and the inhabitants of Megiddo and its towns. ^12^ Yet the children of Manasseh couldn’t drive out the inhabitants of those cities; but the Canaanites would dwell in that land. 
@@ -714,8 +732,8 @@ So he gave her the upper springs and the lower springs.
 
 ^17^ Joshua spoke to the house of Joseph, that is, to Ephraim and to Manasseh, saying, “You are a numerous people, and have great power. You shall not have one lot only; ^18^ but the hill country shall be yours. Although it is a forest, you shall cut it down, and it’s farthest extent shall be yours; for you shall drive out the Canaanites, though they have chariots of iron, and though they are strong.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 18
 ## La tienda de la revelación se instaló en el silo; Admisión y distribución por escrito de la tierra aún desocupada
@@ -731,6 +749,7 @@ So he gave her the upper springs and the lower springs.
 ^a^[**18:12** Jos 7,2] ^b^[**18:13** Gén 12,8; Gén 28,19] ^c^[**18:14** Jos 15,6-9] ^d^[**18:28** Jos 15,63; Jue 1,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 18
 ^1^ The whole congregation of the children of Israel assembled themselves together at Shiloh, and set up the Tent of Meeting there. The land was subdued before them. ^2^ Seven tribes remained among the children of Israel, which had not yet divided their inheritance. ^3^ Joshua said to the children of Israel, “How long will you neglect to go in to possess the land, which Yahweh, the God of your fathers, has given you? ^4^ Appoint for yourselves three men from each tribe. I will send them, and they shall arise, walk through the land, and describe it according to their inheritance; then they shall come to me. ^5^ They shall divide it into seven portions. Judah shall live in his borders on the south, and the house of Joseph shall live in their borders on the north. ^6^ You shall survey the land into seven parts, and bring the description here to me; and I will cast lots for you here before Yahweh our God. ^7^ However, the Levites have no portion among you; for the priesthood of Yahweh is their inheritance. Gad, Reuben, and the half-tribe of Manasseh have received their inheritance east of the Jordan, which Moses the servant of Yahweh gave them.” 
@@ -741,8 +760,8 @@ So he gave her the upper springs and the lower springs.
 
 ^11^ The lot of the tribe of the children of Benjamin came up according to their families. The border of their lot went out between the children of Judah and the children of Joseph. ^12^ Their border on the north quarter was from the Jordan. The border went up to the side of Jericho on the north, and went up through the hill country westward. It ended at the wilderness of Beth Aven. ^13^ The border passed along from there to Luz, to the side of Luz (also called Bethel), southward. The border went down to Ataroth Addar, by the mountain that lies on the south of Beth Horon the lower. ^14^ The border extended, and turned around on the west quarter southward, from the mountain that lies before Beth Horon southward; and ended at Kiriath Baal (also called Kiriath Jearim), a city of the children of Judah. This was the west quarter. ^15^ The south quarter was from the farthest part of Kiriath Jearim. The border went out westward, and went out to the spring of the waters of Nephtoah. ^16^ The border went down to the farthest part of the mountain that lies before the valley of the son of Hinnom, which is in the valley of Rephaim northward. It went down to the valley of Hinnom, to the side of the Jebusite southward, and went down to En Rogel. ^17^ It extended northward, went out at En Shemesh, and went out to Geliloth, which is opposite the ascent of Adummim. It went down to the stone of Bohan the son of Reuben. ^18^ It passed along to the side opposite the Arabah northward, and went down to the Arabah. ^19^ The border passed along to the side of Beth Hoglah northward; and the border ended at the north bay of the Salt Sea, at the south end of the Jordan. This was the south border. ^20^ The Jordan was its border on the east quarter. This was the inheritance of the children of Benjamin, by the borders around it, according to their families. ^21^ Now the cities of the tribe of the children of Benjamin according to their families were Jericho, Beth Hoglah, Emek Keziz, ^22^ Beth Arabah, Zemaraim, Bethel, ^23^ Avvim, Parah, Ophrah, ^24^ Chephar Ammoni, Ophni, and Geba; twelve cities with their villages. ^25^ Gibeon, Ramah, Beeroth, ^26^ Mizpeh, Chephirah, Mozah, ^27^ Rekem, Irpeel, Taralah, ^28^ Zelah, Eleph, the Jebusite (also called Jerusalem), Gibeath, and Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 19
 ## El territorio de la tribu Simeón
@@ -773,6 +792,7 @@ So he gave her the upper springs and the lower springs.
 ^a^[**19:50** Jos 24,30] ^b^[**19:51** Jos 14,1; Jos 18,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 19
 ^1^ The second lot came out for Simeon, even for the tribe of the children of Simeon according to their families. Their inheritance was in the middle of the inheritance of the children of Judah. ^2^ They had for their inheritance Beersheba (or Sheba), Moladah, ^3^ Hazar Shual, Balah, Ezem, ^4^ Eltolad, Bethul, Hormah, ^5^ Ziklag, Beth Marcaboth, Hazar Susah, ^6^ Beth Lebaoth, and Sharuhen; thirteen cities with their villages; ^7^ Ain, Rimmon, Ether, and Ashan; four cities with their villages; ^8^ and all the villages that were around these cities to Baalath Beer, Ramah of the South. This is the inheritance of the tribe of the children of Simeon according to their families. ^9^ Out of the part of the children of Judah was the inheritance of the children of Simeon; for the portion of the children of Judah was too much for them. Therefore the children of Simeon had inheritance in the middle of their inheritance. 
@@ -789,8 +809,8 @@ So he gave her the upper springs and the lower springs.
 
 ^49^ So they finished distributing the land for inheritance by its borders. The children of Israel gave an inheritance to Joshua the son of Nun among them. ^50^ According to Yahweh’s commandment, they gave him the city which he asked, even Timnathserah in the hill country of Ephraim; and he built the city, and lived there. ^51^ These are the inheritances, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before Yahweh, at the door of the Tent of Meeting. So they finished dividing the land. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 20
 ## Die sechs Zufluchts- oder Freistädte; El mandato divino
@@ -802,14 +822,15 @@ So he gave her the upper springs and the lower springs.
 ^a^[**20:7** Jos 19,37; Jos 15,13] ^b^[**20:8** Deut 4,43]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 20
 ^1^ Yahweh spoke to Joshua, saying, ^2^ “Speak to the children of Israel, saying, ‘Assign the cities of refuge, of which I spoke to you by Moses, ^3^ that the man slayer who kills any person accidentally or unintentionally may flee there. They shall be to you for a refuge from the avenger of blood. ^4^ He shall flee to one of those cities, and shall stand at the entrance of the gate of the city, and declare his case in the ears of the elders of that city. They shall take him into the city with them, and give him a place, that he may live among them. ^5^ If the avenger of blood pursues him, then they shall not deliver up the man slayer into his hand; because he struck his neighbor unintentionally, and didn’t hate him before. ^6^ He shall dwell in that city until he stands before the congregation for judgment, until the death of the high priest that shall be in those days. Then the man slayer shall return, and come to his own city, and to his own house, to the city he fled from.’” 
 
 ^7^ They set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (also called Hebron) in the hill country of Judah. ^8^ Beyond the Jordan at Jericho eastward, they assigned Bezer in the wilderness in the plain out of the tribe of Reuben, Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh. ^9^ These were the appointed cities for all the children of Israel, and for the alien who lives among them, that whoever kills any person unintentionally might flee there, and not die by the hand of the avenger of blood, until he stands trial before the congregation. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 21
 ## Las cuarenta y ocho ciudades sacerdotales y levitas
@@ -835,6 +856,7 @@ So he gave her the upper springs and the lower springs.
 ^a^[**21:43** Gén 12,7] ^b^[**21:45** Jos 23,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 21
 ^1^ Then the heads of fathers’ houses of the Levites came near to Eleazar the priest, and to Joshua the son of Nun, and to the heads of fathers’ houses of the tribes of the children of Israel. ^2^ They spoke to them at Shiloh in the land of Canaan, saying, “Yahweh commanded through Moses to give us cities to dwell in, with their pasture lands for our livestock.” 
@@ -851,8 +873,8 @@ So he gave her the upper springs and the lower springs.
 
 ^43^ So Yahweh gave to Israel all the land which he swore to give to their fathers. They possessed it, and lived in it. ^44^ Yahweh gave them rest all around, according to all that he swore to their fathers. Not a man of all their enemies stood before them. Yahweh delivered all their enemies into their hand. ^45^ Nothing failed of any good thing which Yahweh had spoken to the house of Israel. All came to pass. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 22
 ## Josué despide a las tribus con palabras de aprobación, amonestación y bendición
@@ -882,6 +904,7 @@ So he gave her the upper springs and the lower springs.
 ^30^ Cuando el sacerdote Finees y los jefes de la congregación, los jefes de los millares de Israel que estaban con él, oyeron las palabras que decían los hijos de Rubén, los hijos de Gad y los hijos de Manasés, les pareció bien. ^31^ Finees, hijo del sacerdote Eleazar, dijo a los hijos de Rubén, a los hijos de Gad y a los hijos de Manasés: “Hoy sabemos que Yavé está entre nosotros, porque ustedes no han cometido esta transgresión contra Yavé. Ahora habéis librado a los hijos de Israel de la mano de Yahvé”. ^32^ Finees, hijo del sacerdote Eleazar, y los príncipes, volvieron de los hijos de Rubén y de los hijos de Gad, de la tierra de Galaad, a la tierra de Canaán, a los hijos de Israel, y les trajeron la noticia. ^33^ Esto agradó a los hijos de Israel; y los hijos de Israel bendijeron a Dios, y no hablaron más de subir contra ellos a la guerra, para destruir la tierra en que vivían los hijos de Rubén y los hijos de Gad. ^34^ Los hijos de Rubén y los hijos de Gad llamaron al altar “Testigo entre nosotros de que Yahvé es Dios”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 22
 ^1^ Then Joshua called the Reubenites, the Gadites, and the half-tribe of Manasseh, ^2^ and said to them, “You have kept all that Moses the servant of Yahweh commanded you, and have listened to my voice in all that I commanded you. ^3^ You have not left your brothers these many days to this day, but have performed the duty of the commandment of Yahweh your God. ^4^ Now Yahweh your God has given rest to your brothers, as he spoke to them. Therefore now return and go to your tents, to the land of your possession, which Moses the servant of Yahweh gave you beyond the Jordan. ^5^ Only take diligent heed to do the commandment and the law which Moses the servant of Yahweh commanded you, to love Yahweh your God, to walk in all his ways, to keep his commandments, to hold fast to him, and to serve him with all your heart and with all your soul.” 
@@ -902,8 +925,8 @@ So he gave her the upper springs and the lower springs.
 
 ^30^ When Phinehas the priest, and the princes of the congregation, even the heads of the thousands of Israel that were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spoke, it pleased them well. ^31^ Phinehas the son of Eleazar the priest said to the children of Reuben, to the children of Gad, and to the children of Manasseh, “Today we know that Yahweh is among us, because you have not committed this trespass against Yahweh. Now you have delivered the children of Israel out of Yahweh’s hand.” ^32^ Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, to the land of Canaan, to the children of Israel, and brought them word again. ^33^ The thing pleased the children of Israel; and the children of Israel blessed God, and spoke no more of going up against them to war, to destroy the land in which the children of Reuben and the children of Gad lived. ^34^ The children of Reuben and the children of Gad named the altar “A Witness Between Us that Yahweh is God.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 23
 ## El primer discurso de amonestación de Josué a los representantes de Israel
@@ -923,6 +946,7 @@ So he gave her the upper springs and the lower springs.
 ^a^[**23:14** 1Re 2,2; Jos 21,45]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 23
 ^1^ After many days, when Yahweh had given rest to Israel from their enemies all around, and Joshua was old and well advanced in years, ^2^ Joshua called for all Israel, for their elders and for their heads, and for their judges and for their officers, and said to them, “I am old and well advanced in years. ^3^ You have seen all that Yahweh your God has done to all these nations because of you; for it is Yahweh your God who has fought for you. ^4^ Behold, I have allotted to you these nations that remain, to be an inheritance for your tribes, from the Jordan, with all the nations that I have cut off, even to the great sea toward the going down of the sun. ^5^ Yahweh your God will thrust them out from before you, and drive them from out of your sight. You shall possess their land, as Yahweh your God spoke to you. 
@@ -935,8 +959,8 @@ So he gave her the upper springs and the lower springs.
 
 ^14^ “Behold, today I am going the way of all the earth. You know in all your hearts and in all your souls that not one thing has failed of all the good things which Yahweh your God spoke concerning you. All have happened to you. Not one thing has failed of it. ^15^ It shall happen that as all the good things have come on you of which Yahweh your God spoke to you, so Yahweh will bring on you all the evil things, until he has destroyed you from off this good land which Yahweh your God has given you, ^16^ when you disobey the covenant of Yahweh your God, which he commanded you, and go and serve other gods, and bow down yourselves to them. Then Yahweh’s anger will be kindled against you, and you will perish quickly from off the good land which he has given to you.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 24
 ## Josué se despide de la gente en la Dieta de Siquem
@@ -974,6 +998,7 @@ So he gave her the upper springs and the lower springs.
 ## La muerte y el entierro de Josué; Entierro de los huesos de José; Muerte de Eleazar
 ^29^ Después de estas cosas, murió Josué hijo de Nun, siervo del Señor, siendo de ciento diez años. ^30^ Lo enterraron en el límite de su heredad, en Timnat-sera, que está en la región montañosa de Efraín, al norte de la montaña de Gaas. ^[**24:30** Jos 19,50] ^31^ Israel sirvió a Yavé todos los días de Josué, y todos los días de los ancianos que sobrevivieron a Josué, y había conocido toda la obra de Yavé, que él había hecho por Israel. ^[**24:31** Jue 2,7] ^32^ Los huesos de José, que los hijos de Israel sacaron de Egipto, los enterraron en Siquem, en la parcela que Jacob compró a los hijos de Hamor, padre de Siquem, por cien monedas de plata.^[**24:32** Hebreo: kesitahs. Una kesitah era una especie de moneda de plata.] Pasaron a ser la herencia de los hijos de José. ^[**24:32** Gén 50,25; Gén 33,19] ^33^ Eleazar, hijo de Aarón, murió. Lo enterraron en el monte de su hijo Finees, que le fue dado en la región montañosa de Efraín.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 24
 ^1^ Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, for their heads, for their judges, and for their officers; and they presented themselves before God. ^2^ Joshua said to all the people, “Yahweh, the God of Israel, says, ‘Your fathers lived of old time beyond the River, even Terah, the father of Abraham, and the father of Nahor. They served other gods. ^3^ I took your father Abraham from beyond the River, and led him throughout all the land of Canaan, and multiplied his offspring,^a^ and gave him Isaac. ^4^ I gave to Isaac Jacob and Esau: and I gave to Esau Mount Seir, to possess it. Jacob and his children went down into Egypt. 
@@ -1003,4 +1028,5 @@ They said, “We are witnesses.”
 
 ^29^ After these things, Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old. ^30^ They buried him in the border of his inheritance in Timnathserah, which is in the hill country of Ephraim, on the north of the mountain of Gaash. ^31^ Israel served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua, and had known all the work of Yahweh, that he had worked for Israel. ^32^ They buried the bones of Joseph, which the children of Israel brought up out of Egypt, in Shechem, in the parcel of ground which Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of silver.^a^ They became the inheritance of the children of Joseph. ^33^ Eleazar the son of Aaron died. They buried him in the hill of Phinehas his son, which was given him in the hill country of Ephraim. 
 ^a^[**24:32** Hebrew: kesitahs. A kesitah was a kind of silver coin.]
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

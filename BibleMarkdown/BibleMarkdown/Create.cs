@@ -98,7 +98,10 @@ namespace BibleMarkdown
 			LogFile(mdtexfile);
 
 			if (!string.IsNullOrWhiteSpace(src)) {
-				Pandoc.RunAsync(mdtexfile, texfile, "markdown-smart", "latex");
+				await Pandoc.RunAsync(mdtexfile, texfile, "markdown-smart", "latex");
+				src = File.ReadAllText(texfile);
+				src = Regex.Replace(src, @"\\nopandoc\{((?>\{(?<c>)|[^\{\}]+|\}(?<-c>))*(?(c)(?!)))\}", "$1");
+				File.WriteAllText(texfile, src);
 				LogFile(texfile);
 			}
 		}
@@ -183,14 +186,19 @@ namespace BibleMarkdown
 					})
 					.ToDictionary(chapter => chapter.Chapter);
 				var text = new StringBuilder();
+				text.AppendLine(@" \nopandoc{\begin{paracol}{2}}");
 				foreach (var chapter in leftchapters)
 				{
-					text.AppendLine($@"\biblebeginparacol{Environment.NewLine}{Environment.NewLine}# {chapter.Chapter}");
+					text.AppendLine($@"\switchcolumn[0]*{Environment.NewLine}{Environment.NewLine}# {chapter.Chapter}");
 					text.AppendLine(chapter.Text);
-					text.AppendLine($@"\switchcolumn{Environment.NewLine}{Environment.NewLine}# {chapter.Chapter}");
+					text.AppendLine($@"\switchcolumn");
+					text.AppendLine($@"\nopandoc{{\begin{{otherlanguage}}{{{RightLanguage.ToLower()}}}}}");
+					text.AppendLine($@"{Environment.NewLine}# {chapter.Chapter}");
 					text.AppendLine(rightchapters[chapter.Chapter].Text);
-					text.AppendLine(@"\bibleendparacol");
+					text.AppendLine(@"\nopandoc{\end{otherlanguage}}");
 				}
+				text.AppendLine(@"\nopandoc{\end{paracol}}");
+
 				var newfile = Path.Combine(path, $"{book.Left.Number:d2}-{book.Left.Name}.md");
 				File.WriteAllText(newfile, text.ToString());
 				LogFile(newfile);

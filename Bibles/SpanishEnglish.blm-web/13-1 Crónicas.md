@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Los antepasados ​​hasta el diluvio
@@ -41,6 +42,7 @@
 ^a^[**1:43** Gén 36,31-43]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Adam, Seth, Enosh, ^2^ Kenan, Mahalalel, Jared, ^3^ Enoch, Methuselah, Lamech, ^4^ Noah, Shem, Ham, and Japheth. 
@@ -61,8 +63,8 @@
 
 ^43^ Now these are the kings who reigned in the land of Edom, before any king reigned over the children of Israel: Bela the son of Beor; and the name of his city was Dinhabah. ^44^ Bela died, and Jobab the son of Zerah of Bozrah reigned in his place. ^45^ Jobab died, and Husham of the land of the Temanites reigned in his place. ^46^ Husham died, and Hadad the son of Bedad, who struck Midian in the field of Moab, reigned in his place; and the name of his city was Avith. ^47^ Hadad died, and Samlah of Masrekah reigned in his place. ^48^ Samlah died, and Shaul of Rehoboth by the River reigned in his place. ^49^ Shaul died, and Baal Hanan the son of Achbor reigned in his place. ^50^ Baal Hanan died, and Hadad reigned in his place; and the name of his city was Pai. His wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab. ^51^ Then Hadad died. The chiefs of Edom were: chief Timna, chief Aliah, chief Jetheth, ^52^ chief Oholibamah, chief Elah, chief Pinon, ^53^ chief Kenaz, chief Teman, chief Mibzar, ^54^ chief Magdiel, and chief Iram. These are the chiefs of Edom. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Los hijos de Jacob Israel y las familias de la tribu de Judá
@@ -99,6 +101,7 @@
 ^a^[**2:50** 1Cró 2,19] ^b^[**2:53** 1Cró 4,2] ^c^[**2:54** 1Cró 9,16] ^d^[**2:55** Jue 1,16; Jer 35,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun, ^2^ Dan, Joseph, Benjamin, Naphtali, Gad, and Asher. 
@@ -120,8 +123,8 @@
 
 ^50^ These were the sons of Caleb, the son of Hur, the firstborn of Ephrathah: Shobal the father of Kiriath Jearim, ^51^ Salma the father of Bethlehem, and Hareph the father of Beth Gader. ^52^ Shobal the father of Kiriath Jearim had sons: Haroeh, half of the Menuhoth. ^53^ The families of Kiriath Jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites; from them came the Zorathites and the Eshtaolites. ^54^ The sons of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, and half of the Manahathites, the Zorites. ^55^ The families of scribes who lived at Jabez: the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Los hijos de David
@@ -137,14 +140,15 @@
 ^a^[**3:17** 2Cró 36,10] ^b^[**3:19** Esd 3,2; Esd 3,8]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Now these were the sons of David, who were born to him in Hebron: the firstborn, Amnon, of Ahinoam the Jezreelitess; the second, Daniel, of Abigail the Carmelitess; ^2^ the third, Absalom the son of Maacah the daughter of Talmai king of Geshur; the fourth, Adonijah the son of Haggith; ^3^ the fifth, Shephatiah of Abital; the sixth, Ithream by Eglah his wife: ^4^ six were born to him in Hebron; and he reigned there seven years and six months. He reigned thirty-three years in Jerusalem; ^5^ and these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four, by Bathshua the daughter of Ammiel; ^6^ and Ibhar, Elishama, Eliphelet, ^7^ Nogah, Nepheg, Japhia, ^8^ Elishama, Eliada, and Eliphelet, nine. ^9^ All these were the sons of David, in addition to the sons of the concubines; and Tamar was their sister. 
 
 ^10^ Solomon’s son was Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son, ^11^ Joram his son, Ahaziah his son, Joash his son, ^12^ Amaziah his son, Azariah his son, Jotham his son, ^13^ Ahaz his son, Hezekiah his son, Manasseh his son, ^14^ Amon his son, and Josiah his son. ^15^ The sons of Josiah: the firstborn Johanan, the second Jehoiakim, the third Zedekiah, and the fourth Shallum. ^16^ The sons of Jehoiakim: Jeconiah his son, and Zedekiah his son. ^17^ The sons of Jeconiah, the captive: Shealtiel his son, ^18^ Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah. ^19^ The sons of Pedaiah: Zerubbabel and Shimei. The sons of Zerubbabel: Meshullam and Hananiah; and Shelomith was their sister; ^20^ and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab Hesed, five. ^21^ The sons of Hananiah: Pelatiah and Jeshaiah; the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah. ^22^ The son of Shecaniah: Shemaiah. The sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six. ^23^ The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three. ^24^ The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Más información sobre las familias de la tribu de Judá
@@ -175,6 +179,7 @@
 ^a^[**4:40** Jue 18,7] ^b^[**4:41** 2Re 18,1] ^c^[**4:43** 1Sam 15,3; 1Sam 15,8]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ The sons of Judah: Perez, Hezron, Carmi, Hur, and Shobal. ^2^ Reaiah the son of Shobal became the father of Jahath; and Jahath became the father of Ahumai and Lahad. These are the families of the Zorathites. ^3^ These were the sons of the father of Etam: Jezreel, Ishma, and Idbash. The name of their sister was Hazzelelponi. ^4^ Penuel was the father of Gedor and Ezer the father of Hushah. These are the sons of Hur, the firstborn of Ephrathah, the father of Bethlehem. ^5^ Ashhur the father of Tekoa had two wives, Helah and Naarah. ^6^ Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the sons of Naarah. ^7^ The sons of Helah were Zereth, Izhar, and Ethnan. ^8^ Hakkoz became the father of Anub, Zobebah, and the families of Aharhel the son of Harum. 
@@ -194,8 +199,8 @@ God granted him that which he requested.
 
 ^39^ They went to the entrance of Gedor, even to the east side of the valley, to seek pasture for their flocks. ^40^ They found rich, good pasture, and the land was wide, and quiet, and peaceful, for those who lived there before were descended from Ham. ^41^ These written by name came in the days of Hezekiah king of Judah, and struck their tents and the Meunim who were found there; and they destroyed them utterly to this day, and lived in their place, because there was pasture there for their flocks. ^42^ Some of them, even of the sons of Simeon, five hundred men, went to Mount Seir, having for their captains Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi. ^43^ They struck the remnant of the Amalekites who escaped, and have lived there to this day. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Información sobre Rubén y sus descendientes
@@ -223,6 +228,7 @@ God granted him that which he requested.
 ^a^[**5:26** 2Re 15,19; 2Re 15,29]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ The sons of Reuben the firstborn of Israel (for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel; and the genealogy is not to be listed according to the birthright. ^2^ For Judah prevailed above his brothers, and from him came the prince; but the birthright was Joseph’s)— ^3^ the sons of Reuben the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi. ^4^ The sons of Joel: Shemaiah his son, Gog his son, Shimei his son, ^5^ Micah his son, Reaiah his son, Baal his son, ^6^ and Beerah his son, whom Tilgath Pilneser king of Assyria carried away captive. He was prince of the Reubenites. ^7^ His brothers by their families, when the genealogy of their generations was listed: the chief, Jeiel, and Zechariah, ^8^ and Bela the son of Azaz, the son of Shema, the son of Joel, who lived in Aroer, even to Nebo and Baal Meon; ^9^ and he lived eastward even to the entrance of the wilderness from the river Euphrates, because their livestock were multiplied in the land of Gilead. 
@@ -235,8 +241,8 @@ God granted him that which he requested.
 
 ^23^ The children of the half-tribe of Manasseh lived in the land. They increased from Bashan to Baal Hermon, Senir, and Mount Hermon. ^24^ These were the heads of their fathers’ houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel—mighty men of valor, famous men, heads of their fathers’ houses. ^25^ They trespassed against the God of their fathers, and played the prostitute after the gods of the peoples of the land whom God destroyed before them. ^26^ So the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath Pilneser king of Assyria, and he carried away the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and to the river of Gozan, to this day. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## De Levi a los hijos de Aarón
@@ -276,6 +282,7 @@ God granted him that which he requested.
 ^77^ Al resto de los levitas, hijos de Merari, se les dio, de la tribu de Zabulón, Rimmono con sus tierras de pastoreo, y Tabor con sus tierras de pastoreo; ^78^ y al otro lado del Jordán, en Jericó, al lado oriental del Jordán, se les dio de la tribu de Rubén: Beser en el desierto con sus tierras de pastoreo, Jahza con sus tierras de pastoreo, ^79^ Cedemot con sus tierras de pastoreo y Mefat con sus tierras de pastoreo; ^80^ y de la tribu de Gad, Ramot en Galaad con sus tierras de pastoreo, Mahanaim con sus tierras de pastoreo, ^81^ Hesbón con sus tierras de pastoreo y Jazer con sus tierras de pastoreo.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ The sons of Levi: Gershon, Kohath, and Merari. ^2^ The sons of Kohath: Amram, Izhar, Hebron, and Uzziel. ^3^ The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar. ^4^ Eleazar became the father of Phinehas, Phinehas became the father of Abishua, ^5^ Abishua became the father of Bukki. Bukki became the father of Uzzi. ^6^ Uzzi became the father of Zerahiah. Zerahiah became the father of Meraioth. ^7^ Meraioth became the father of Amariah. Amariah became the father of Ahitub. ^8^ Ahitub became the father of Zadok. Zadok became the father of Ahimaaz. ^9^ Ahimaaz became the father of Azariah. Azariah became the father of Johanan. ^10^ Johanan became the father of Azariah, who executed the priest’s office in the house that Solomon built in Jerusalem. ^11^ Azariah became the father of Amariah. Amariah became the father of Ahitub. ^12^ Ahitub became the father of Zadok. Zadok became the father of Shallum. ^13^ Shallum became the father of Hilkiah. Hilkiah became the father of Azariah. ^14^ Azariah became the father of Seraiah. Seraiah became the father of Jehozadak. ^15^ Jehozadak went into captivity when Yahweh carried Judah and Jerusalem away by the hand of Nebuchadnezzar. 
@@ -294,8 +301,8 @@ God granted him that which he requested.
 
 ^77^ To the rest of the Levites, the sons of Merari, were given, out of the tribe of Zebulun, Rimmono with its pasture lands, and Tabor with its pasture lands; ^78^ and beyond the Jordan at Jericho, on the east side of the Jordan, were given them out of the tribe of Reuben: Bezer in the wilderness with its pasture lands, Jahzah with its pasture lands, ^79^ Kedemoth with its pasture lands, and Mephaath with its pasture lands; ^80^ and out of the tribe of Gad, Ramoth in Gilead with its pasture lands, Mahanaim with its pasture lands, ^81^ Heshbon with its pasture lands, and Jazer with its pasture lands. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## La tribu de Isacar
@@ -327,6 +334,7 @@ God granted him that which he requested.
 ^a^[**7:30** Gén 46,17]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ Of the sons of Issachar: Tola, Puah, Jashub, and Shimron, four. ^2^ The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers’ houses, of Tola; mighty men of valor in their generations. Their number in the days of David was twenty-two thousand six hundred. ^3^ The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah, five; all of them chief men. ^4^ With them, by their generations, after their fathers’ houses, were bands of the army for war, thirty-six thousand; for they had many wives and sons. ^5^ Their brothers among all the families of Issachar, mighty men of valor, listed in all by genealogy, were eighty-seven thousand. 
@@ -342,8 +350,8 @@ God granted him that which he requested.
 
 ^30^ The sons of Asher: Imnah, Ishvah, Ishvi, and Beriah. Serah was their sister. ^31^ The sons of Beriah: Heber and Malchiel, who was the father of Birzaith. ^32^ Heber became the father of Japhlet, Shomer, Hotham, and Shua their sister. ^33^ The sons of Japhlet: Pasach, Bimhal, and Ashvath. These are the children of Japhlet. ^34^ The sons of Shemer: Ahi, Rohgah, Jehubbah, and Aram. ^35^ The sons of Helem his brother: Zophah, Imna, Shelesh, and Amal. ^36^ The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah, ^37^ Bezer, Hod, Shamma, Shilshah, Ithran, and Beera. ^38^ The sons of Jether: Jephunneh, Pispa, and Ara. ^39^ The sons of Ulla: Arah, Hanniel, and Rizia. ^40^ All these were the children of Asher, heads of the fathers’ houses, choice and mighty men of valor, chief of the princes. The number of them listed by genealogy for service in war was twenty-six thousand men. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Hijos y descendientes de Benjamín a través de Bela
@@ -364,6 +372,7 @@ God granted him that which he requested.
 ^a^[**8:29** 1Cró 9,35-44] ^b^[**8:33** 1Sam 14,51] ^c^[**8:40** 1Cró 12,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ Benjamin became the father of Bela his firstborn, Ashbel the second, Aharah the third, ^2^ Nohah the fourth, and Rapha the fifth. ^3^ Bela had sons: Addar, Gera, Abihud, ^4^ Abishua, Naaman, Ahoah, ^5^ Gera, Shephuphan, and Huram. ^6^ These are the sons of Ehud. These are the heads of fathers’ households of the inhabitants of Geba, who were carried captive to Manahath: ^7^ Naaman, Ahijah, and Gera, who carried them captive; and he became the father of Uzza and Ahihud. 
@@ -372,8 +381,8 @@ God granted him that which he requested.
 
 ^29^ The father of Gibeon, whose wife’s name was Maacah, lived in Gibeon ^30^ with his firstborn son Abdon, Zur, Kish, Baal, Nadab, ^31^ Gedor, Ahio, Zecher, ^32^ and Mikloth, who became the father of Shimeah. They also lived with their families in Jerusalem, near their relatives. ^33^ Ner became the father of Kish. Kish became the father of Saul. Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal. ^34^ The son of Jonathan was Merib-baal. Merib-baal became the father of Micah. ^35^ The sons of Micah: Pithon, Melech, Tarea, and Ahaz. ^36^ Ahaz became the father of Jehoaddah. Jehoaddah became the father of Alemeth, Azmaveth, and Zimri. Zimri became the father of Moza. ^37^ Moza became the father of Binea. Raphah was his son, Eleasah his son, and Azel his son. ^38^ Azel had six sons, whose names are these: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel. ^39^ The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphelet the third. ^40^ The sons of Ulam were mighty men of valor, archers, and had many sons, and grandsons, one hundred fifty. All these were of the sons of Benjamin. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## Directorio de residentes destacados de Jerusalén (en el período posterior al cautiverio)
@@ -411,6 +420,7 @@ God granted him that which he requested.
 ^a^[**9:35** 1Cró 8,29-38]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ So all Israel were listed by genealogies; and behold,^a^ they are written in the book of the kings of Israel. Judah was carried away captive to Babylon for their disobedience. ^2^ Now the first inhabitants who lived in their possessions in their cities were Israel, the priests, the Levites, and the temple servants. ^3^ In Jerusalem, there lived of the children of Judah, of the children of Benjamin, and of the children of Ephraim and Manasseh: ^4^ Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Perez the son of Judah. ^5^ Of the Shilonites: Asaiah the firstborn and his sons. ^6^ Of the sons of Zerah: Jeuel and their brothers, six hundred ninety. ^7^ Of the sons of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah; ^8^ and Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri; and Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah; ^9^ and their brothers, according to their generations, nine hundred fifty-six. All these men were heads of fathers’ households by their fathers’ houses. 
@@ -430,8 +440,8 @@ God granted him that which he requested.
 
 ^35^ Jeiel the father of Gibeon, whose wife’s name was Maacah, lived in Gibeon. ^36^ His firstborn son was Abdon, then Zur, Kish, Baal, Ner, Nadab, ^37^ Gedor, Ahio, Zechariah, and Mikloth. ^38^ Mikloth became the father of Shimeam. They also lived with their relatives in Jerusalem, near their relatives. ^39^ Ner became the father of Kish. Kish became the father of Saul. Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal. ^40^ The son of Jonathan was Merib-baal. Merib-baal became the father of Micah. ^41^ The sons of Micah: Pithon, Melech, Tahrea, and Ahaz. ^42^ Ahaz became the father of Jarah. Jarah became the father of Alemeth, Azmaveth, and Zimri. Zimri became the father of Moza. ^43^ Moza became the father of Binea, Rephaiah his son, Eleasah his son, and Azel his son. ^44^ Azel had six sons, whose names are Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## Israel derrotado por los filisteos en el monte Gilboa; Muerte de Saúl y sus tres hijos
@@ -446,6 +456,7 @@ God granted him that which he requested.
 ^a^[**10:13** 1Sam 15,11; 1Sam 28,8]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa. ^2^ The Philistines followed hard after Saul and after his sons; and the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul. ^3^ The battle went hard against Saul, and the archers overtook him; and he was distressed by reason of the archers. ^4^ Then Saul said to his armor bearer, “Draw your sword, and thrust me through with it, lest these uncircumcised come and abuse me.” 
@@ -456,8 +467,8 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 
 ^13^ So Saul died for his trespass which he committed against Yahweh, because of Yahweh’s word, which he didn’t keep, and also because he asked counsel of one who had a familiar spirit, to inquire, ^14^ and didn’t inquire of Yahweh. Therefore he killed him, and turned the kingdom over to David the son of Jesse. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## La unción de David en Hebrón y la conquista de Jerusalén
@@ -493,6 +504,7 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 ^a^[**11:27** 1Cró 27,8; 1Cró 27,10] ^b^[**11:41** 2Sam 11,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ Then all Israel gathered themselves to David to Hebron, saying, “Behold, we are your bone and your flesh. ^2^ In times past, even when Saul was king, it was you who led out and brought in Israel. Yahweh your God said to you, ‘You shall be shepherd of my people Israel, and you shall be prince over my people Israel.’” 
@@ -512,12 +524,12 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 ^20^ Abishai, the brother of Joab, was chief of the three; for he lifted up his spear against three hundred and killed them, and had a name among the three. ^21^ Of the three, he was more honorable than the two, and was made their captain; however he wasn’t included in the three. 
 
 ^22^ Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done mighty deeds, killed the two sons of Ariel of Moab. He also went down and killed a lion in the middle of a pit on a snowy day. ^23^ He killed an Egyptian, a man of great stature, five cubits^a^ high. In the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, plucked the spear out of the Egyptian’s hand, and killed him with his own spear. ^24^ Benaiah the son of Jehoiada did these things and had a name among the three mighty men. ^25^ Behold, he was more honorable than the thirty, but he didn’t attain to the three; and David set him over his guard. 
-^a^[**11:23** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. Therefore this Egyptian was bout 7 feet and 6 inches or 2. 28 meters tall.]
+^a^[**11:23** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. Therefore this Egyptian was bout 7 feet and 6 inches or 2.28 meters tall.]
 
 ^26^ The mighty men of the armies also include Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem, ^27^ Shammoth the Harorite, Helez the Pelonite, ^28^ Ira the son of Ikkesh the Tekoite, Abiezer the Anathothite, ^29^ Sibbecai the Hushathite, Ilai the Ahohite, ^30^ Maharai the Netophathite, Heled the son of Baanah the Netophathite, ^31^ Ithai the son of Ribai of Gibeah of the children of Benjamin, Benaiah the Pirathonite, ^32^ Hurai of the brooks of Gaash, Abiel the Arbathite, ^33^ Azmaveth the Baharumite, Eliahba the Shaalbonite, ^34^ the sons of Hashem the Gizonite, Jonathan the son of Shagee the Hararite, ^35^ Ahiam the son of Sacar the Hararite, Eliphal the son of Ur, ^36^ Hepher the Mecherathite, Ahijah the Pelonite, ^37^ Hezro the Carmelite, Naarai the son of Ezbai, ^38^ Joel the brother of Nathan, Mibhar the son of Hagri, ^39^ Zelek the Ammonite, Naharai the Berothite (the armor bearer of Joab the son of Zeruiah), ^40^ Ira the Ithrite, Gareb the Ithrite, ^41^ Uriah the Hittite, Zabad the son of Ahlai, ^42^ Adina the son of Shiza the Reubenite (a chief of the Reubenites), and thirty with him, ^43^ Hanan the son of Maacah, Joshaphat the Mithnite, ^44^ Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite, ^45^ Jediael the son of Shimri, and Joha his brother, the Tizite, ^46^ Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite, ^47^ Eliel, Obed, and Jaasiel the Mezobaite. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## Los seguidores de David en Siclag y Adullam mientras Saúl todavía estaba vivo
@@ -542,6 +554,7 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 ^38^ Todos estos eran hombres de guerra que sabían ordenar la formación de la batalla, y vinieron con un corazón perfecto a Hebrón para hacer a David rey de todo Israel; y también todos los demás de Israel tenían un mismo corazón para hacer a David rey. ^39^ Estuvieron allí con David tres días, comiendo y bebiendo, pues sus hermanos les habían proporcionado provisiones. ^40^ Además, los que estaban cerca de ellos, hasta Isacar, Zabulón y Neftalí, trajeron pan en burros, en camellos, en mulos y en bueyes: provisiones de harina, tortas de higos, racimos de pasas, vino, aceite, ganado y ovejas en abundancia; porque había alegría en Israel.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ Now these are those who came to David to Ziklag while he was a fugitive from Saul the son of Kish. They were among the mighty men, his helpers in war. ^2^ They were armed with bows, and could use both the right hand and the left in slinging stones and in shooting arrows from the bow. They were of Saul’s relatives of the tribe of Benjamin. ^3^ The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; Jeziel and Pelet, the sons of Azmaveth; Beracah; Jehu the Anathothite; ^4^ Ishmaiah the Gibeonite, a mighty man among the thirty and a leader of the thirty; Jeremiah; Jahaziel; Johanan; Jozabad the Gederathite; ^5^ Eluzai; Jerimoth; Bealiah; Shemariah; Shephatiah the Haruphite; ^6^ Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites; ^7^ and Joelah and Zebadiah, the sons of Jeroham of Gedor. 
@@ -558,8 +571,8 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 
 ^38^ All these were men of war who could order the battle array, and came with a perfect heart to Hebron to make David king over all Israel; and all the rest also of Israel were of one heart to make David king. ^39^ They were there with David three days, eating and drinking; for their brothers had supplied provisions for them. ^40^ Moreover those who were near to them, as far as Issachar, Zebulun, and Naphtali, brought bread on donkeys, on camels, on mules, and on oxen: supplies of flour, cakes of figs, clusters of raisins, wine, oil, cattle, and sheep in abundance; for there was joy in Israel. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## Movilización de todo el pueblo con fines de recuperación
@@ -577,6 +590,7 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 ^12^ Ese día David tuvo miedo de Dios, diciendo: “¿Cómo voy a llevar el arca de Dios a mi casa?” ^13^ Así que David no trasladó el arca con él a la ciudad de David, sino que la llevó a un lado, a la casa de Obed-Edom el gitano. ^14^ El arca de Dios permaneció con la familia de Obed-Edom en su casa durante tres meses; y el Señor bendijo la casa de Obed-Edom y todo lo que tenía.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ David consulted with the captains of thousands and of hundreds, even with every leader. ^2^ David said to all the assembly of Israel, “If it seems good to you, and if it is of Yahweh our God, let’s send word everywhere to our brothers who are left in all the land of Israel, with whom the priests and Levites are in their cities that have pasture lands, that they may gather themselves to us. ^3^ Also, let’s bring the ark of our God back to us again, for we didn’t seek it in the days of Saul.” 
@@ -587,8 +601,8 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 
 ^9^ When they came to Chidon’s threshing floor, Uzza put out his hand to hold the ark, for the oxen stumbled. ^10^ Yahweh’s anger burned against Uzza, and he struck him because he put his hand on the ark; and he died there before God. ^11^ David was displeased, because Yahweh had broken out against Uzza. He called that place Perez Uzza, to this day. ^12^ David was afraid of God that day, saying, “How can I bring God’s ark home to me?” ^13^ So David didn’t move the ark with him into David’s city, but carried it aside into Obed-Edom the Gittite’s house. ^14^ God’s ark remained with the family of Obed-Edom in his house three months; and Yahweh blessed Obed-Edom’s house and all that he had. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## El edificio del palacio de David y los nuevos matrimonios; sus guerras victoriosas con los filisteos
@@ -609,6 +623,7 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 ^16^ David hizo lo que Dios le ordenó, y atacaron al ejército de los filisteos desde Gabaón hasta Gezer. ^17^ La fama de David se extendió por todas las tierras, y el Señor hizo que todas las naciones lo temieran.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ Hiram king of Tyre sent messengers to David with cedar trees, masons, and carpenters, to build him a house. ^2^ David perceived that Yahweh had established him king over Israel, for his kingdom was highly exalted, for his people Israel’s sake. 
@@ -626,8 +641,8 @@ Yahweh said to him, “Go up; for I will deliver them into your hand.”
 
 ^16^ David did as God commanded him; and they attacked the army of the Philistines from Gibeon even to Gezer. ^17^ The fame of David went out into all lands; and Yahweh brought the fear of him on all nations. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## Preparativos para el traslado del arca sagrada; Designación e instrucción de los levitas a cargo
@@ -650,6 +665,7 @@ Yahweh said to him, “Go up; for I will deliver them into your hand.”
 ^a^[**15:25** 2Sam 6,12-16]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ David made himself houses in David’s city; and he prepared a place for God’s ark, and pitched a tent for it. ^2^ Then David said, “No one ought to carry God’s ark but the Levites. For Yahweh has chosen them to carry God’s ark, and to minister to him forever.” 
@@ -664,8 +680,8 @@ Yahweh said to him, “Go up; for I will deliver them into your hand.”
 
 ^25^ So David, the elders of Israel, and the captains over thousands went to bring the ark of Yahweh’s covenant up out of the house of Obed-Edom with joy. ^26^ When God helped the Levites who bore the ark of Yahweh’s covenant, they sacrificed seven bulls and seven rams. ^27^ David was clothed with a robe of fine linen, as were all the Levites who bore the ark, the singers, and Chenaniah the choir master with the singers; and David had an ephod of linen on him. ^28^ Thus all Israel brought the ark of Yahweh’s covenant up with shouting, with sound of the cornet, with trumpets, and with cymbals, sounding aloud with stringed instruments and harps. ^29^ As the ark of Yahweh’s covenant came to David’s city, Michal the daughter of Saul looked out at the window, and saw king David dancing and playing; and she despised him in her heart. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ^1^ Trajeron el arca de Dios y la pusieron en medio de la tienda que David había levantado para ella; y ofrecieron holocaustos y ofrendas de paz ante Dios. ^a^ ^2^ Cuando David terminó de ofrecer el holocausto y las ofrendas de paz, bendijo al pueblo en nombre de Yavé. ^3^ Dio a todos los israelíes, hombres y mujeres, a cada uno una hogaza de pan, una porción de carne y una torta de pasas.
@@ -683,6 +699,7 @@ Yahweh said to him, “Go up; for I will deliver them into your hand.”
 ^a^[**16:39** 1Cró 21,29] ^b^[**16:40** Éxod 29,38-39]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ They brought in God’s ark, and set it in the middle of the tent that David had pitched for it; and they offered burnt offerings and peace offerings before God. ^2^ When David had finished offering the burnt offering and the peace offerings, he blessed the people in Yahweh’s name. ^3^ He gave to everyone of Israel, both man and woman, to everyone a loaf of bread, a portion of meat, and a cake of raisins. 
@@ -696,8 +713,8 @@ All the people said, “Amen,” and praised Yahweh.
 
 ^37^ So he left Asaph and his brothers there before the ark of Yahweh’s covenant, to minister before the ark continually, as every day’s work required; ^38^ and Obed-Edom with their sixty-eight relatives; Obed-Edom also the son of Jeduthun and Hosah to be doorkeepers; ^39^ and Zadok the priest and his brothers the priests, before Yahweh’s tabernacle in the high place that was at Gibeon, ^40^ to offer burnt offerings to Yahweh on the altar of burnt offering continually morning and evening, even according to all that is written in Yahweh’s law, which he commanded to Israel; ^41^ and with them Heman and Jeduthun and the rest who were chosen, who were mentioned by name, to give thanks to Yahweh, because his loving kindness endures forever; ^42^ and with them Heman and Jeduthun with trumpets and cymbals for those that should sound aloud, and with instruments for the songs of God, and the sons of Jeduthun to be at the gate. ^43^ All the people departed, each man to his house; and David returned to bless his house. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 17
 ## Natán aprueba el plan de David para construir el templo
@@ -721,6 +738,7 @@ All the people said, “Amen,” and praised Yahweh.
 ^a^[**17:16** Gén 32,10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 17
 ^1^ When David was living in his house, David said to Nathan the prophet, “Behold, I live in a cedar house, but the ark of Yahweh’s covenant is in a tent.” 
@@ -733,8 +751,8 @@ All the people said, “Amen,” and praised Yahweh.
 
 ^16^ Then David the king went in and sat before Yahweh; and he said, “Who am I, Yahweh God, and what is my house, that you have brought me this far? ^17^ This was a small thing in your eyes, O God, but you have spoken of your servant’s house for a great while to come, and have respected me according to the standard of a man of high degree, Yahweh God. ^18^ What can David say yet more to you concerning the honor which is done to your servant? For you know your servant. ^19^ Yahweh, for your servant’s sake, and according to your own heart, you have done all this greatness, to make known all these great things. ^20^ Yahweh, there is no one like you, neither is there any God besides you, according to all that we have heard with our ears. ^21^ What one nation in the earth is like your people Israel, whom God went to redeem to himself for a people, to make you a name by great and awesome things, in driving out nations from before your people whom you redeemed out of Egypt? ^22^ For you made your people Israel your own people forever; and you, Yahweh, became their God. ^23^ Now, Yahweh, let the word that you have spoken concerning your servant, and concerning his house, be established forever, and do as you have spoken. ^24^ Let your name be established and magnified forever, saying, ‘Yahweh of Armies is the God of Israel, even a God to Israel. The house of David your servant is established before you.’ ^25^ For you, my God, have revealed to your servant that you will build him a house. Therefore your servant has found courage to pray before you. ^26^ Now, Yahweh, you are God, and have promised this good thing to your servant. ^27^ Now it has pleased you to bless the house of your servant, that it may continue forever before you; for you, Yahweh, have blessed, and it is blessed forever.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 18
 ## Las victorias de David sobre los filisteos, moabitas, sirios y edomitas
@@ -754,6 +772,7 @@ All the people said, “Amen,” and praised Yahweh.
 ^a^[**18:16** 1Cró 24,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 18
 ^1^ After this, David defeated the Philistines and subdued them, and took Gath and its towns out of the hand of the Philistines. ^2^ He defeated Moab; and the Moabites became servants to David and brought tribute. 
@@ -766,8 +785,8 @@ All the people said, “Amen,” and praised Yahweh.
 
 ^14^ David reigned over all Israel; and he executed justice and righteousness for all his people. ^15^ Joab the son of Zeruiah was over the army; Jehoshaphat the son of Ahilud was recorder; ^16^ Zadok the son of Ahitub and Abimelech the son of Abiathar were priests; Shavsha was scribe; ^17^ and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief officials serving the king. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 19
 ## El vergonzoso crimen de los amonitas contra el mensajero de David
@@ -787,6 +806,7 @@ All the people said, “Amen,” and praised Yahweh.
 ^a^[**19:16** o, el río Éufrates]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 19
 ^1^ After this, Nahash the king of the children of Ammon died, and his son reigned in his place. ^2^ David said, “I will show kindness to Hanun the son of Nahash, because his father showed kindness to me.” 
@@ -803,8 +823,8 @@ So David sent messengers to comfort him concerning his father. David’s servant
 ^16^ When the Syrians saw that they were defeated by Israel, they sent messengers and called out the Syrians who were beyond the River,^a^ with Shophach the captain of the army of Hadadezer leading them. ^17^ David was told that, so he gathered all Israel together, passed over the Jordan, came to them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him. ^18^ The Syrians fled before Israel; and David killed of the Syrian men seven thousand charioteers and forty thousand footmen, and also killed Shophach the captain of the army. ^19^ When the servants of Hadadezer saw that they were defeated by Israel, they made peace with David and served him. The Syrians would not help the children of Ammon any more.
 ^a^[**19:16** or, the Euphrates River] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 20
 ## Joab conquista Rabá; El triunfo de David y el castigo de los amonitas
@@ -819,6 +839,7 @@ So David sent messengers to comfort him concerning his father. David’s servant
 ^a^[**20:7** 1Sam 17,10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 20
 ^1^ At the time of the return of the year, at the time when kings go out, Joab led out the army and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. Joab struck Rabbah, and overthrew it. ^2^ David took the crown of their king from off his head, and found it to weigh a talent of gold,^a^ and there were precious stones in it. It was set on David’s head, and he brought very much plunder out of the city. ^3^ He brought out the people who were in it, and had them cut with saws, with iron picks, and with axes. David did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem. 
@@ -828,8 +849,8 @@ So David sent messengers to comfort him concerning his father. David’s servant
 
 ^5^ Again there was war with the Philistines; and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the staff of whose spear was like a weaver’s beam. ^6^ There was again war at Gath, where there was a man of great stature, who had twenty-four fingers and toes, six on each hand and six on each foot; and he also was born to the giant. ^7^ When he defied Israel, Jonathan the son of Shimea, David’s brother, killed him. ^8^ These were born to the giant in Gath; and they fell by the hand of David and by the hand of his servants. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 21
 ## David, a instigación de Satanás, completa el censo a pesar de la advertencia de Joab; Resultado del recuento
@@ -874,6 +895,7 @@ So David sent messengers to comfort him concerning his father. David’s servant
 ^a^[**21:29** 1Cró 16,39] ^b^[**21:30** 1Cró 21,16]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 21
 ^1^ Satan stood up against Israel, and moved David to take a census of Israel. ^2^ David said to Joab and to the princes of the people, “Go, count Israel from Beersheba even to Dan; and bring me word, that I may know how many there are.” 
@@ -905,14 +927,14 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ^24^ King David said to Ornan, “No, but I will most certainly buy it for the full price. For I will not take that which is yours for Yahweh, nor offer a burnt offering that costs me nothing.” 
 
 ^25^ So David gave to Ornan six hundred shekels^a^ of gold by weight for the place. ^26^ David built an altar to Yahweh there, and offered burnt offerings and peace offerings, and called on Yahweh; and he answered him from the sky by fire on the altar of burnt offering. 
-^a^[**21:25** A shekel is about 10 grams or about 0. 32 Troy ounces, so 600 shekels was about 6 kilograms or about 192 Troy ounces.]
+^a^[**21:25** A shekel is about 10 grams or about 0.32 Troy ounces, so 600 shekels was about 6 kilograms or about 192 Troy ounces.]
 
 ^27^ Then Yahweh commanded the angel, and he put his sword back into its sheath. 
 
 ^28^ At that time, when David saw that Yahweh had answered him in the threshing floor of Ornan the Jebusite, then he sacrificed there. ^29^ For Yahweh’s tabernacle, which Moses made in the wilderness, and the altar of burnt offering, were at that time in the high place at Gibeon. ^30^ But David couldn’t go before it to inquire of God, for he was afraid because of the sword of Yahweh’s angel. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 22
 ^1^ Entonces David dijo: “Esta es la casa de Yahvé Dios, y este es el altar del holocausto para Israel”. ^a^
@@ -931,17 +953,18 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ^a^[**22:18** 1Cró 22,9; 1Cró 23,25]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 22
 ^1^ Then David said, “This is the house of Yahweh God, and this is the altar of burnt offering for Israel.” 
 
 ^2^ David gave orders to gather together the foreigners who were in the land of Israel; and he set masons to cut dressed stones to build God’s house. ^3^ David prepared iron in abundance for the nails for the doors of the gates and for the couplings, and bronze in abundance without weight, ^4^ and cedar trees without number, for the Sidonians and the people of Tyre brought cedar trees in abundance to David. ^5^ David said, “Solomon my son is young and tender, and the house that is to be built for Yahweh must be exceedingly magnificent, of fame and of glory throughout all countries. I will therefore make preparation for it.” So David prepared abundantly before his death. ^6^ Then he called for Solomon his son, and commanded him to build a house for Yahweh, the God of Israel. ^7^ David said to Solomon his son, “As for me, it was in my heart to build a house to the name of Yahweh my God. ^8^ But Yahweh’s word came to me, saying, ‘You have shed blood abundantly and have made great wars. You shall not build a house to my name, because you have shed much blood on the earth in my sight. ^9^ Behold, a son shall be born to you, who shall be a man of peace. I will give him rest from all his enemies all around; for his name shall be Solomon, and I will give peace and quietness to Israel in his days. ^10^ He shall build a house for my name; and he will be my son, and I will be his father; and I will establish the throne of his kingdom over Israel forever.’ ^11^ Now, my son, may Yahweh be with you and prosper you, and build the house of Yahweh your God, as he has spoken concerning you. ^12^ May Yahweh give you discretion and understanding, and put you in charge of Israel, so that you may keep the law of Yahweh your God. ^13^ Then you will prosper, if you observe to do the statutes and the ordinances which Yahweh gave Moses concerning Israel. Be strong and courageous. Don’t be afraid and don’t be dismayed. ^14^ Now, behold, in my affliction I have prepared for Yahweh’s house one hundred thousand talents^a^ of gold, one million talents^b^ of silver, and bronze and iron without weight; for it is in abundance. I have also prepared timber and stone; and you may add to them. ^15^ There are also workmen with you in abundance—cutters and workers of stone and timber, and all kinds of men who are skillful in every kind of work; ^16^ of the gold, the silver, the bronze, and the iron, there is no number. Arise and be doing, and may Yahweh be with you.” 
-^a^[**22:14** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 100, 000 talents is about 3 metric tons] ^b^[**22:14** about 30, 000 metric tons]
+^a^[**22:14** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 100,000 talents is about 3 metric tons] ^b^[**22:14** about 30,000 metric tons]
 
 ^17^ David also commanded all the princes of Israel to help Solomon his son, saying, ^18^ “Isn’t Yahweh your God with you? Hasn’t he given you rest on every side? For he has delivered the inhabitants of the land into my hand; and the land is subdued before Yahweh and before his people. ^19^ Now set your heart and your soul to follow Yahweh your God. Arise therefore, and build the sanctuary of Yahweh God, to bring the ark of Yahweh’s covenant and the holy vessels of God into the house that is to be built for Yahweh’s name.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 23
 ## Contando y ejecutando los levitas
@@ -966,6 +989,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ^a^[**23:25** Jl 3,21] ^b^[**23:30** Sal 92,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 23
 ^1^ Now David was old and full of days; and he made Solomon his son king over Israel. ^2^ He gathered together all the princes of Israel, with the priests and the Levites. ^3^ The Levites were counted from thirty years old and upward; and their number by their polls, man by man, was thirty-eight thousand. ^4^ David said, “Of these, twenty-four thousand were to oversee the work of Yahweh’s house, six thousand were officers and judges, ^5^ four thousand were doorkeepers, and four thousand praised Yahweh with the instruments which I made for giving praise.” 
@@ -980,8 +1004,8 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 
 ^24^ These were the sons of Levi after their fathers’ houses, even the heads of the fathers’ houses of those who were counted individually, in the number of names by their polls, who did the work for the service of Yahweh’s house, from twenty years old and upward. ^25^ For David said, “Yahweh, the God of Israel, has given rest to his people; and he dwells in Jerusalem forever. ^26^ Also the Levites will no longer need to carry the tabernacle and all its vessels for its service.” ^27^ For by the last words of David the sons of Levi were counted, from twenty years old and upward. ^28^ For their duty was to wait on the sons of Aaron for the service of Yahweh’s house—in the courts, in the rooms, and in the purifying of all holy things, even the work of the service of God’s house; ^29^ for the show bread also, and for the fine flour for a meal offering, whether of unleavened wafers, or of that which is baked in the pan, or of that which is soaked, and for all measurements of quantity and size; ^30^ and to stand every morning to thank and praise Yahweh, and likewise in the evening; ^31^ and to offer all burnt offerings to Yahweh on the Sabbaths, on the new moons, and on the set feasts, in number according to the ordinance concerning them, continually before Yahweh; ^32^ and that they should keep the duty of the Tent of Meeting, the duty of the holy place, and the duty of the sons of Aaron their brothers for the service of Yahweh’s house. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 24
 ## El dibujo de las 24 clases sacerdotales
@@ -996,6 +1020,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ^a^[**24:21** 1Cró 23,17-23; 1Cró 26,25] ^b^[**24:31** 1Cró 25,8]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 24
 ^1^ These were the divisions of the sons of Aaron. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar. ^2^ But Nadab and Abihu died before their father, and had no children; therefore Eleazar and Ithamar served as priests. ^3^ David, with Zadok of the sons of Eleazar and Ahimelech of the sons of Ithamar, divided them according to their ordering in their service. ^4^ There were more chief men found of the sons of Eleazar than of the sons of Ithamar; and they were divided like this: of the sons of Eleazar there were sixteen, heads of fathers’ houses; and of the sons of Ithamar, according to their fathers’ houses, eight. ^5^ Thus they were divided impartially by drawing lots; for there were princes of the sanctuary and princes of God, both of the sons of Eleazar, and of the sons of Ithamar. ^6^ Shemaiah the son of Nethanel the scribe, who was of the Levites, wrote them in the presence of the king, the princes, Zadok the priest, Ahimelech the son of Abiathar, and the heads of the fathers’ households of the priests and of the Levites; one fathers’ house being taken for Eleazar, and one taken for Ithamar. 
@@ -1004,8 +1029,8 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 
 ^20^ Of the rest of the sons of Levi: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah. ^21^ Of Rehabiah: of the sons of Rehabiah, Isshiah the chief. ^22^ Of the Izharites, Shelomoth; of the sons of Shelomoth, Jahath. ^23^ The sons of Hebron: Jeriah, Amariah the second, Jahaziel the third, and Jekameam the fourth. ^24^ The sons of Uzziel: Micah; of the sons of Micah, Shamir. ^25^ The brother of Micah: Isshiah; of the sons of Isshiah, Zechariah. ^26^ The sons of Merari: Mahli and Mushi. The son of Jaaziah: Beno. ^27^ The sons of Merari by Jaaziah: Beno, Shoham, Zaccur, and Ibri. ^28^ Of Mahli: Eleazar, who had no sons. ^29^ Of Kish, the son of Kish: Jerahmeel. ^30^ The sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites after their fathers’ houses. ^31^ These likewise cast lots even as their brothers the sons of Aaron in the presence of David the king, Zadok, Ahimelech, and the heads of the fathers’ households of the priests and of the Levites, the fathers’ households of the chief even as those of his younger brother. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 25
 ## El sorteo de las 24 divisiones de los cantantes y músicos sagrados
@@ -1015,14 +1040,15 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ^9^ La primera suerte le tocó a Asaf, a José; la segunda a Gedalías, él y sus hermanos e hijos, doce; ^10^ la tercera a Zacur, sus hijos y sus hermanos, doce; ^11^ la cuarta a Izri, sus hijos y sus hermanos, doce; ^12^ la quinta a Netanías, sus hijos y sus hermanos, doce; ^13^ la sexta a Bucías, sus hijos y sus hermanos, doce; ^14^ la séptima a Jesharela, sus hijos y sus hermanos, doce; ^15^ la octava a Jesaías, sus hijos y sus hermanos, doce; ^16^ la novena a Matanías, sus hijos y sus hermanos, doce; ^17^ la décima a Simei, sus hijos y sus hermanos, doce; ^18^ la undécima a Azarel, sus hijos y sus hermanos, doce; ^19^ la duodécima a Hasabías, sus hijos y sus hermanos, doce; ^20^ la decimotercera a Subael, sus hijos y sus hermanos, doce; ^21^ el decimocuarto, a Mattithiah, sus hijos y sus hermanos, doce; ^22^ el decimoquinto, a Jeremoth, sus hijos y sus hermanos, doce; ^23^ el decimosexto, a Hananiah, sus hijos y sus hermanos, doce; ^24^ el decimoséptimo, a Joshbekashah, sus hijos y sus hermanos, doce; ^25^ el decimoctavo, a Hanani, sus hijos y sus hermanos, doce; ^26^ el decimonoveno, a Mallothi, sus hijos y sus hermanos, doce; ^27^ por el vigésimo a Eliathah, sus hijos y sus hermanos, doce; ^28^ por el vigésimo primero a Hothir, sus hijos y sus hermanos, doce; ^29^ por el vigésimo segundo a Giddalti, sus hijos y sus hermanos, doce; ^30^ por el vigésimo tercero a Mahazioth, sus hijos y sus hermanos, doce; ^31^ por el vigésimo cuarto a Romamti-Ezer, sus hijos y sus hermanos, doce.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 25
 ^1^ Moreover, David and the captains of the army set apart for the service certain of the sons of Asaph, of Heman, and of Jeduthun, who were to prophesy with harps, with stringed instruments, and with cymbals. The number of those who did the work according to their service was: ^2^ of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah. The sons of Asaph were under the hand of Asaph, who prophesied at the order of the king. ^3^ Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied in giving thanks and praising Yahweh with the harp. ^4^ Of Heman, the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-Ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth. ^5^ All these were the sons of Heman the king’s seer in the words of God, to lift up the horn. God gave to Heman fourteen sons and three daughters. ^6^ All these were under the hands of their father for song in Yahweh’s house, with cymbals, stringed instruments, and harps, for the service of God’s house: Asaph, Jeduthun, and Heman being under the order of the king. ^7^ The number of them, with their brothers who were instructed in singing to Yahweh, even all who were skillful, was two hundred eighty-eight. ^8^ They cast lots for their offices, all alike, the small as well as the great, the teacher as well as the student. 
 
 ^9^ Now the first lot came out for Asaph to Joseph; the second to Gedaliah, he and his brothers and sons were twelve; ^10^ the third to Zaccur, his sons and his brothers, twelve; ^11^ the fourth to Izri, his sons and his brothers, twelve; ^12^ the fifth to Nethaniah, his sons and his brothers, twelve; ^13^ the sixth to Bukkiah, his sons and his brothers, twelve; ^14^ the seventh to Jesharelah, his sons and his brothers, twelve; ^15^ the eighth to Jeshaiah, his sons and his brothers, twelve; ^16^ the ninth to Mattaniah, his sons and his brothers, twelve; ^17^ the tenth to Shimei, his sons and his brothers, twelve; ^18^ the eleventh to Azarel, his sons and his brothers, twelve; ^19^ the twelfth to Hashabiah, his sons and his brothers, twelve; ^20^ for the thirteenth, Shubael, his sons and his brothers, twelve; ^21^ for the fourteenth, Mattithiah, his sons and his brothers, twelve; ^22^ for the fifteenth to Jeremoth, his sons and his brothers, twelve; ^23^ for the sixteenth to Hananiah, his sons and his brothers, twelve; ^24^ for the seventeenth to Joshbekashah, his sons and his brothers, twelve; ^25^ for the eighteenth to Hanani, his sons and his brothers, twelve; ^26^ for the nineteenth to Mallothi, his sons and his brothers, twelve; ^27^ for the twentieth to Eliathah, his sons and his brothers, twelve; ^28^ for the twenty-first to Hothir, his sons and his brothers, twelve; ^29^ for the twenty-second to Giddalti, his sons and his brothers, twelve; ^30^ for the twenty-third to Mahazioth, his sons and his brothers, twelve; ^31^ for the twenty-fourth to Romamti-Ezer, his sons and his brothers, twelve. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 26
 ## Divisiones de los porteros levíticos
@@ -1040,6 +1066,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ^29^ De los izharitas, Quenanías y sus hijos fueron designados para los asuntos exteriores de Israel, como oficiales y jueces. ^30^ De los hebronitas, Hasabías y sus hermanos, mil setecientos hombres valientes, tenían la administración de Israel al otro lado del Jordán, hacia el oeste, para todos los asuntos de Yahvé y para el servicio del rey. ^31^ De los hebronitas, Jerías era el jefe de los hebronitas, según sus generaciones por casas paternas. Fueron buscados en el año cuarenta del reinado de David, y se encontraron entre ellos hombres valientes en Jazer de Galaad. ^32^ Sus parientes, hombres de valor, eran dos mil setecientos, jefes de familias paternas, a quienes el rey David nombró supervisores de los rubenitas, de los gaditas y de la media tribu de los manasitas, para todo asunto relacionado con Dios y con los asuntos del rey.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 26
 ^1^ For the divisions of the doorkeepers: of the Korahites, Meshelemiah the son of Kore, of the sons of Asaph. ^2^ Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth, ^3^ Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh. ^4^ Obed-Edom had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sacar the fourth, Nethanel the fifth, ^5^ Ammiel the sixth, Issachar the seventh, and Peullethai the eighth; for God blessed him. ^6^ Sons were also born to Shemaiah his son, who ruled over the house of their father; for they were mighty men of valor. ^7^ The sons of Shemaiah: Othni, Rephael, Obed, and Elzabad, whose relatives were valiant men, Elihu, and Semachiah. ^8^ All these were of the sons of Obed-Edom with their sons and their brothers, able men in strength for the service: sixty-two of Obed-Edom. ^9^ Meshelemiah had sons and brothers, eighteen valiant men. ^10^ Also Hosah, of the children of Merari, had sons: Shimri the chief (for though he was not the firstborn, yet his father made him chief), ^11^ Hilkiah the second, Tebaliah the third, and Zechariah the fourth. All the sons and brothers of Hosah were thirteen. 
@@ -1050,8 +1077,8 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 
 ^29^ Of the Izharites, Chenaniah and his sons were appointed to the outward business over Israel, for officers and judges. ^30^ Of the Hebronites, Hashabiah and his brothers, one thousand seven hundred men of valor, had the oversight of Israel beyond the Jordan westward, for all the business of Yahweh and for the service of the king. ^31^ Of the Hebronites, Jerijah was the chief of the Hebronites, according to their generations by fathers’ households. They were sought for in the fortieth year of the reign of David, and mighty men of valor were found among them at Jazer of Gilead. ^32^ His relatives, men of valor, were two thousand seven hundred, heads of fathers’ households, whom King David made overseers over the Reubenites, the Gadites, and the half-tribe of the Manassites, for every matter pertaining to God and for the affairs of the king. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 27
 ## Los doce jefes militares, los caudillos y los demás altos funcionarios de David; La división del ejército en doce
@@ -1075,6 +1102,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ^a^[**27:33** 2Sam 15,12; 2Sam 15,37] ^b^[**27:34** 2Sam 8,16]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 27
 ^1^ Now the children of Israel after their number, the heads of fathers’ households and the captains of thousands and of hundreds, and their officers who served the king in any matter of the divisions which came in and went out month by month throughout all the months of the year—of every division were twenty-four thousand. 
@@ -1087,8 +1115,8 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 
 ^32^ Also Jonathan, David’s uncle, was a counselor, a man of understanding, and a scribe. Jehiel the son of Hachmoni was with the king’s sons. ^33^ Ahithophel was the king’s counselor. Hushai the Archite was the king’s friend. ^34^ After Ahithophel was Jehoiada the son of Benaiah, and Abiathar. Joab was the captain of the king’s army. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 28
 ## El discurso de David a los jefes de Israel
@@ -1112,6 +1140,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ^a^[**28:20** 1Cró 22,13; Deut 31,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 28
 ^1^ David assembled all the princes of Israel, the princes of the tribes, the captains of the companies who served the king by division, the captains of thousands, the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers and the mighty men, even all the mighty men of valor, to Jerusalem. ^2^ Then David the king stood up on his feet and said, “Hear me, my brothers and my people! As for me, it was in my heart to build a house of rest for the ark of Yahweh’s covenant, and for the footstool of our God; and I had prepared for the building. ^3^ But God said to me, ‘You shall not build a house for my name, because you are a man of war and have shed blood.’ ^4^ However Yahweh, the God of Israel, chose me out of all the house of my father to be king over Israel forever. For he has chosen Judah to be prince; and in the house of Judah, the house of my father; and among the sons of my father he took pleasure in me to make me king over all Israel. ^5^ Of all my sons (for Yahweh has given me many sons), he has chosen Solomon my son to sit on the throne of Yahweh’s kingdom over Israel. ^6^ He said to me, ‘Solomon, your son, shall build my house and my courts; for I have chosen him to be my son, and I will be his father. ^7^ I will establish his kingdom forever if he continues to do my commandments and my ordinances, as it is today.’ 
@@ -1124,8 +1153,8 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 
 ^20^ David said to Solomon his son, “Be strong and courageous, and do it. Don’t be afraid, nor be dismayed, for Yahweh God, even my God, is with you. He will not fail you nor forsake you, until all the work for the service of Yahweh’s house is finished. ^21^ Behold, there are the divisions of the priests and the Levites for all the service of God’s house. Every willing man who has skill for any kind of service shall be with you in all kinds of work. Also the captains and all the people will be entirely at your command.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 29
 ## La contribución de los príncipes a la construcción del templo siguiendo la amonestación de David
@@ -1149,13 +1178,14 @@ Then David and the elders, clothed in sackcloth, fell on their faces. ^17^ David
 ## El final de David y las fuentes de su historia
 ^26^ David, hijo de Isaí, reinó sobre todo Israel. ^27^ El tiempo que reinó sobre Israel fue de cuarenta años; reinó siete años en Hebrón, y treinta y tres años en Jerusalén. ^[**29:27** 1Re 2,11] ^28^ Murió en buena vejez, lleno de días, de riquezas y de honores; y en su lugar reinó su hijo Salomón. ^29^ Los hechos del rey David, primeros y últimos, están escritos en la historia del vidente Samuel, en la historia del profeta Natán y en la historia del vidente Gad, ^[**29:29** 1Cró 21,9] ^30^ con todo su reinado y su poderío, y los sucesos que lo involucraron a él, a Israel y a todos los reinos de las tierras.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 29
 ^1^ David the king said to all the assembly, “Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great; for the palace is not for man, but for Yahweh God. ^2^ Now I have prepared with all my might for the house of my God the gold for the things of gold, the silver for the things of silver, the bronze for the things of bronze, iron for the things of iron, and wood for the things of wood, also onyx stones, stones to be set, stones for inlaid work of various colors, all kinds of precious stones, and marble stones in abundance. ^3^ In addition, because I have set my affection on the house of my God, since I have a treasure of my own of gold and silver, I give it to the house of my God, over and above all that I have prepared for the holy house: ^4^ even three thousand talents of gold,^a^ of the gold of Ophir, and seven thousand talents^b^ of refined silver, with which to overlay the walls of the houses; ^5^ of gold for the things of gold, and of silver for the things of silver, and for all kinds of work to be made by the hands of artisans. Who then offers willingly to consecrate himself today to Yahweh?” 
 ^a^[**29:4** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 3000 talents is about 90 metric tons] ^b^[**29:4** about 210 metric tons]
 
 ^6^ Then the princes of the fathers’ households, and the princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers over the king’s work, offered willingly; ^7^ and they gave for the service of God’s house of gold five thousand talents^a^ and ten thousand darics,^b^ of silver ten thousand talents, of bronze eighteen thousand talents, and of iron one hundred thousand talents. ^8^ People with whom precious stones were found gave them to the treasure of Yahweh’s house, under the hand of Jehiel the Gershonite. ^9^ Then the people rejoiced, because they offered willingly, because with a perfect heart they offered willingly to Yahweh; and David the king also rejoiced with great joy. 
-^a^[**29:7** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 5000 talents is about 150 metric tons] ^b^[**29:7** a daric was a gold coin issued by a Persian king, weighing about 8. 4 grams or about 0. 27 troy ounces each.]
+^a^[**29:7** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 5000 talents is about 150 metric tons] ^b^[**29:7** a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each.]
 
 ^10^ Therefore David blessed Yahweh before all the assembly; and David said, “You are blessed, Yahweh, the God of Israel our father, forever and ever. ^11^ Yours, Yahweh, is the greatness, the power, the glory, the victory, and the majesty! For all that is in the heavens and in the earth is yours. Yours is the kingdom, Yahweh, and you are exalted as head above all. ^12^ Both riches and honor come from you, and you rule over all! In your hand is power and might! It is in your hand to make great, and to give strength to all! ^13^ Now therefore, our God, we thank you and praise your glorious name. ^14^ But who am I, and what is my people, that we should be able to offer so willingly as this? For all things come from you, and we have given you of your own. ^15^ For we are strangers before you and foreigners, as all our fathers were. Our days on the earth are as a shadow, and there is no remaining. ^16^ Yahweh our God, all this store that we have prepared to build you a house for your holy name comes from your hand, and is all your own. ^17^ I know also, my God, that you try the heart and have pleasure in uprightness. As for me, in the uprightness of my heart I have willingly offered all these things. Now I have seen with joy your people, who are present here, offer willingly to you. ^18^ Yahweh, the God of Abraham, of Isaac, and of Israel, our fathers, keep this desire forever in the thoughts of the heart of your people, and prepare their heart for you; ^19^ and give to Solomon my son a perfect heart, to keep your commandments, your testimonies, and your statutes, and to do all these things, and to build the palace, for which I have made provision.” 
 
@@ -1166,4 +1196,5 @@ All the assembly blessed Yahweh, the God of their fathers, and bowed down their 
 ^23^ Then Solomon sat on the throne of Yahweh as king instead of David his father, and prospered; and all Israel obeyed him. ^24^ All the princes, the mighty men, and also all of the sons of King David submitted themselves to Solomon the king. ^25^ Yahweh magnified Solomon exceedingly in the sight of all Israel, and gave to him such royal majesty as had not been on any king before him in Israel. 
 
 ^26^ Now David the son of Jesse reigned over all Israel. ^27^ The time that he reigned over Israel was forty years; he reigned seven years in Hebron, and he reigned thirty-three years in Jerusalem. ^28^ He died at a good old age, full of days, riches, and honor; and Solomon his son reigned in his place. ^29^ Now the acts of David the king, first and last, behold, they are written in the history of Samuel the seer, and in the history of Nathan the prophet, and in the history of Gad the seer, ^30^ with all his reign and his might, and the events that involved him, Israel, and all the kingdoms of the lands.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

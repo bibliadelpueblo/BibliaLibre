@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Bendiciones
@@ -29,6 +30,7 @@
 ^a^[**1:24** 1Pe 5,3; 2Cor 4,5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Paul, an apostle of Christ^a^ Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia: ^2^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
@@ -47,8 +49,8 @@
 
 ^23^ But I call God for a witness to my soul, that to spare you, I didn’t come to Corinth. ^24^ We don’t control your faith, but are fellow workers with you for your joy. For you stand firm in faith. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ^1^ Pero esto lo determiné para mí, para no volver a ir a vosotros con pena. ^a^ ^2^ Porque si os hago entristecer, ¿quién me alegrará a mí, sino el que es hecho entristecer por mí? ^3^ Y os escribí esto mismo, para que cuando viniera, no tuviera tristeza de parte de aquellos de quienes debía alegrarme; teniendo confianza en todos vosotros de que mi alegría sería compartida por todos vosotros. ^4^ Porque de mucha aflicción y angustia de corazón os escribí con muchas lágrimas, no para que os entristecierais, sino para que conocierais el amor que os tengo en abundancia.
@@ -66,6 +68,7 @@
 ^a^[**2:15** Éxod 29,18; 1Cor 1,18] ^b^[**2:16** Luc 2,34; 2Cor 3,5] ^c^[**2:17** 2Cor 1,12; 2Cor 4,2; 1Pe 4,11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ But I determined this for myself, that I would not come to you again in sorrow. ^2^ For if I make you grieve, then who will make me glad but he who is made to grieve by me? ^3^ And I wrote this very thing to you, so that when I came, I wouldn’t have sorrow from them of whom I ought to rejoice; having confidence in you all that my joy would be shared by all of you. ^4^ For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made to grieve, but that you might know the love that I have so abundantly for you. 
@@ -76,8 +79,8 @@
 
 ^14^ Now thanks be to God who always leads us in triumph in Christ, and reveals through us the sweet aroma of his knowledge in every place. ^15^ For we are a sweet aroma of Christ to God in those who are saved and in those who perish: ^16^ to the one a stench from death to death, to the other a sweet aroma from life to life. Who is sufficient for these things? ^17^ For we are not as so many, peddling the word of God. But as of sincerity, but as of God, in the sight of God, we speak in Christ. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## La iglesia de Corinto como carta de recomendación para Pablo y Dios como base segura de confianza para el apóstol
@@ -99,6 +102,7 @@
 ^a^[**3:13** Éxod 34,33; Éxod 34,35] ^b^[**3:14** Rom 11,25; Hech 28,27] ^c^[**3:16** Rom 11,23; Rom 11,26; Éxod 34,34] ^d^[**3:18** 2Cor 4,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Are we beginning again to commend ourselves? Or do we need, as do some, letters of commendation to you or from you? ^2^ You are our letter, written in our hearts, known and read by all men, ^3^ being revealed that you are a letter of Christ, served by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh. 
@@ -109,8 +113,8 @@
 
 ^12^ Having therefore such a hope, we use great boldness of speech, ^13^ and not as Moses, who put a veil on his face so that the children of Israel wouldn’t look steadfastly on the end of that which was passing away. ^14^ But their minds were hardened, for until this very day at the reading of the old covenant the same veil remains, because in Christ it passes away. ^15^ But to this day, when Moses is read, a veil lies on their heart. ^16^ But whenever someone turns to the Lord, the veil is taken away. ^17^ Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty. ^18^ But we all, with unveiled face seeing the glory of the Lord as in a mirror, are transformed into the same image from glory to glory, even as from the Lord, the Spirit. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Pablo y sus seguidores aparecen como verdaderos mensajeros de Cristo con valentía, veracidad e iluminación divina
@@ -129,6 +133,7 @@
 ^a^[**4:16** Efes 3,16] ^b^[**4:17** Rom 8,17-18; 1Pe 1,6] ^c^[**4:18** Heb 11,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ Therefore, seeing we have this ministry, even as we obtained mercy, we don’t faint. ^2^ But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God. ^3^ Even if our Good News is veiled, it is veiled in those who are dying, ^4^ in whom the god of this world has blinded the minds of the unbelieving, that the light of the Good News of the glory of Christ, who is the image of God, should not dawn on them. ^5^ For we don’t preach ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus’ sake, ^6^ seeing it is God who said, “Light will shine out of darkness,”^a^ who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ. 
@@ -141,8 +146,8 @@
 
 ^16^ Therefore we don’t faint, but though our outward person is decaying, yet our inward person is renewed day by day. ^17^ For our light affliction, which is for the moment, works for us more and more exceedingly an eternal weight of glory, ^18^ while we don’t look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## La esperanza y el anhelo de Pablo por la corporalidad celestial y el hogar celestial
@@ -166,6 +171,7 @@
 ^a^[**5:20** Luc 10,16] ^b^[**5:21** Is 53,6; Juan 8,46; Rom 1,17]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ For we know that if the earthly house of our tent is dissolved, we have a building from God, a house not made with hands, eternal, in the heavens. ^2^ For most certainly in this we groan, longing to be clothed with our habitation which is from heaven, ^3^ if indeed being clothed, we will not be found naked. ^4^ For indeed we who are in this tent do groan, being burdened, not that we desire to be unclothed, but that we desire to be clothed, that what is mortal may be swallowed up by life. ^5^ Now he who made us for this very thing is God, who also gave to us the down payment of the Spirit. 
@@ -179,8 +185,8 @@
 
 ^20^ We are therefore ambassadors on behalf of Christ, as though God were entreating by us: we beg you on behalf of Christ, be reconciled to God. ^21^ For him who knew no sin he made to be sin on our behalf, so that in him we might become the righteousness of God. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Pablo, como apóstol, es ejemplar por su abnegación y su realización profesional desinteresada en el servicio de Dios
@@ -196,6 +202,7 @@
 ^a^[**6:14** Efes 5,11] ^b^[**6:16** 1Cor 3,16] ^c^[**6:17** Apoc 18,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ Working together, we entreat also that you do not receive the grace of God in vain. ^2^ For he says, “At an acceptable time I listened to you. In a day of salvation I helped you.”^a^ 
@@ -206,13 +213,13 @@ Behold, now is the acceptable time. Behold, now is the day of salvation. ^3^ We 
 ^11^ Our mouth is open to you, Corinthians. Our heart is enlarged. ^12^ You are not restricted by us, but you are restricted by your own affections. ^13^ Now in return—I speak as to my children—you also open your hearts. 
 
 ^14^ Don’t be unequally yoked with unbelievers, for what fellowship do righteousness and iniquity have? Or what fellowship does light have with darkness? ^15^ What agreement does Christ have with Belial? Or what portion does a believer have with an unbeliever? ^16^ What agreement does a temple of God have with idols? For you are a temple of the living God. Even as God said, “I will dwell in them and walk in them. I will be their God and they will be my people.”^a^ ^17^ Therefore “‘Come out from among them, and be separate,’ says the Lord. ‘Touch no unclean thing. I will receive you.^b^ ^18^ I will be to you a Father. You will be to me sons and daughters,’ 
-^a^[**6:16** Leviticus 26:12; Jeremiah 32:38; Ezekiel 37:27] ^b^[**6:17** Isaiah 52:11; Ezekiel 20:34, 41]
+^a^[**6:16** Leviticus 26:12; Jeremiah 32:38; Ezekiel 37:27] ^b^[**6:17** Isaiah 52:11; Ezekiel 20:34,41]
 
 says the Lord Almighty.”^a^
 ^a^[**6:18** 2 Samuel 7:14; 7:8] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ^1^ Así pues, amados, teniendo estas promesas, limpiémonos de toda contaminación de carne y de espíritu, perfeccionando la santidad en el temor de Dios.
@@ -230,6 +237,7 @@ says the Lord Almighty.”^a^
 ^a^[**7:8** 2Cor 2,4] ^b^[**7:10** Mat 26,75; Mat 27,3-5; Luc 15,17-24]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ Having therefore these promises, beloved, let’s cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God. 
@@ -240,8 +248,8 @@ says the Lord Almighty.”^a^
 
 ^8^ For though I grieved you with my letter, I do not regret it, though I did regret it. For I see that my letter made you grieve, though just for a while. ^9^ I now rejoice, not that you were grieved, but that you were grieved to repentance. For you were grieved in a godly way, that you might suffer loss by us in nothing. ^10^ For godly sorrow produces repentance leading to salvation, which brings no regret. But the sorrow of the world produces death. ^11^ For behold, this same thing, that you were grieved in a godly way, what earnest care it worked in you. Yes, what defense, indignation, fear, longing, zeal, and vindication! In everything you demonstrated yourselves to be pure in the matter. ^12^ So although I wrote to you, I wrote not for his cause that did the wrong, nor for his cause that suffered the wrong, but that your earnest care for us might be revealed in you in the sight of God. ^13^ Therefore we have been comforted. In our comfort we rejoiced the more exceedingly for the joy of Titus, because his spirit has been refreshed by you all. ^14^ For if in anything I have boasted to him on your behalf, I was not disappointed. But as we spoke all things to you in truth, so our glorying also which I made before Titus was found to be truth. ^15^ His affection is more abundantly toward you, while he remembers all of your obedience, how with fear and trembling you received him. ^16^ I rejoice that in everything I am confident concerning you. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## El gratificante (ejemplar) éxito de la colección con las comunidades macedonias
@@ -260,6 +268,7 @@ says the Lord Almighty.”^a^
 ^a^[**8:17** 2Cor 8,6; 2Cor 7,7; 2Cor 7,15] ^b^[**8:18** 2Cor 12,18] ^c^[**8:19** Gal 2,10] ^d^[**8:23** 2Cor 7,13; 2Cor 12,18] ^e^[**8:24** 2Cor 7,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ Moreover, brothers, we make known to you the grace of God which has been given in the assemblies of Macedonia, ^2^ how in a severe ordeal of affliction, the abundance of their joy and their deep poverty abounded to the riches of their generosity. ^3^ For according to their power, I testify, yes and beyond their power, they gave of their own accord, ^4^ begging us with much entreaty to receive this grace and the fellowship in the service to the saints. ^5^ This was not as we had expected, but first they gave their own selves to the Lord, and to us through the will of God. ^6^ So we urged Titus, that as he had made a beginning before, so he would also complete in you this grace. ^7^ But as you abound in everything—in faith, utterance, knowledge, all earnestness, and in your love to us—see that you also abound in this grace. 
@@ -269,8 +278,8 @@ says the Lord Almighty.”^a^
 
 ^16^ But thanks be to God, who puts the same earnest care for you into the heart of Titus. ^17^ For he indeed accepted our exhortation, but being himself very earnest, he went out to you of his own accord. ^18^ We have sent together with him the brother whose praise in the Good News is known throughout all the assemblies. ^19^ Not only so, but he was also appointed by the assemblies to travel with us in this grace, which is served by us to the glory of the Lord himself, and to show our readiness. ^20^ We are avoiding this, that any man should blame us concerning this abundance which is administered by us. ^21^ Having regard for honorable things, not only in the sight of the Lord, but also in the sight of men. ^22^ We have sent with them our brother whom we have many times proved earnest in many things, but now much more earnest, by reason of the great confidence which he has in you. ^23^ As for Titus, he is my partner and fellow worker for you. As for our brothers, they are the apostles of the assemblies, the glory of Christ. ^24^ Therefore show the proof of your love to them before the assemblies, and of our boasting on your behalf. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## Lo que Pablo ha elogiado hasta ahora de los corintios y ahora espera y qué razones lo han determinado a enviar a los hermanos por delante
@@ -285,6 +294,7 @@ says the Lord Almighty.”^a^
 ^a^[**9:10** Is 55,10; Os 10,12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ It is indeed unnecessary for me to write to you concerning the service to the saints, ^2^ for I know your readiness, of which I boast on your behalf to those of Macedonia, that Achaia has been prepared for the past year. Your zeal has stirred up very many of them. ^3^ But I have sent the brothers so that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared, ^4^ lest by any means, if anyone from Macedonia comes there with me and finds you unprepared, we (to say nothing of you) would be disappointed in this confident boasting. ^5^ I thought it necessary therefore to entreat the brothers that they would go before to you and arrange ahead of time the generous gift that you promised before, that the same might be ready as a matter of generosity, and not of greediness. 
@@ -294,8 +304,8 @@ says the Lord Almighty.”^a^
 
 ^10^ Now may he who supplies seed to the sower and bread for food, supply and multiply your seed for sowing, and increase the fruits of your righteousness, ^11^ you being enriched in everything for all generosity, which produces thanksgiving to God through us. ^12^ For this service of giving that you perform not only makes up for lack among the saints, but abounds also through much giving of thanks to God, ^13^ seeing that through the proof given by this service, they glorify God for the obedience of your confession to the Good News of Christ and for the generosity of your contribution to them and to all, ^14^ while they themselves also, with supplication on your behalf, yearn for you by reason of the exceeding grace of God in you. ^15^ Now thanks be to God for his unspeakable gift! 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## En contraste con la acusación de debilidad de carácter y cambio carnal, Pablo señala el poder probado y comprobado de su trabajo a sus oponentes
@@ -311,6 +321,7 @@ says the Lord Almighty.”^a^
 ^a^[**10:12** 2Cor 3,1; 2Cor 5,12] ^b^[**10:13** Rom 12,3; Rom 15,20; Gal 2,7] ^c^[**10:17** 1Cor 1,31] ^d^[**10:18** 1Cor 4,5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ Now I Paul, myself, entreat you by the humility and gentleness of Christ, I who in your presence am lowly among you, but being absent am bold toward you. ^2^ Yes, I beg you that I may not, when present, show courage with the confidence with which I intend to be bold against some, who consider us to be walking according to the flesh. ^3^ For though we walk in the flesh, we don’t wage war according to the flesh; ^4^ for the weapons of our warfare are not of the flesh, but mighty before God to the throwing down of strongholds, ^5^ throwing down imaginations and every high thing that is exalted against the knowledge of God and bringing every thought into captivity to the obedience of Christ, ^6^ and being in readiness to avenge all disobedience when your obedience is made full. 
@@ -320,8 +331,8 @@ says the Lord Almighty.”^a^
 ^12^ For we are not bold to number or compare ourselves with some of those who commend themselves. But they themselves, measuring themselves by themselves, and comparing themselves with themselves, are without understanding. ^13^ But we will not boast beyond proper limits, but within the boundaries with which God appointed to us, which reach even to you. ^14^ For we don’t stretch ourselves too much, as though we didn’t reach to you. For we came even as far as to you with the Good News of Christ, ^15^ not boasting beyond proper limits in other men’s labors, but having hope that as your faith grows, we will be abundantly enlarged by you in our sphere of influence, ^16^ so as to preach the Good News even to the parts beyond you, not to boast in what someone else has already done. ^17^ But “he who boasts, let him boast in the Lord.”^a^ ^18^ For it isn’t he who commends himself who is approved, but whom the Lord commends.
 ^a^[**10:17** Jeremiah 9:24 ] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## Por qué y con qué derecho se alaba a sí mismo el apóstol
@@ -350,6 +361,7 @@ says the Lord Almighty.”^a^
 ^a^[**11:30** 2Cor 12,5] ^b^[**11:33** Hech 9,24-25]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ I wish that you would bear with me in a little foolishness, but indeed you do bear with me. ^2^ For I am jealous over you with a godly jealousy. For I promised you in marriage to one husband, that I might present you as a pure virgin to Christ. ^3^ But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Christ. ^4^ For if he who comes preaches another Jesus whom we didn’t preach, or if you receive a different spirit which you didn’t receive, or a different “good news” which you didn’t accept, you put up with that well enough. ^5^ For I reckon that I am not at all behind the very best apostles. ^6^ But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things. 
@@ -365,8 +377,8 @@ says the Lord Almighty.”^a^
 
 ^30^ If I must boast, I will boast of the things that concern my weakness. ^31^ The God and Father of the Lord Jesus Christ, he who is blessed forever more, knows that I don’t lie. ^32^ In Damascus the governor under King Aretas guarded the Damascenes’ city, desiring to arrest me. ^33^ I was let down in a basket through a window by the wall, and escaped his hands. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## El apóstol se jacta de las más altas gracias (a través de revelaciones celestiales) y la más profunda humillación (a través del sufrimiento físico)
@@ -389,6 +401,7 @@ says the Lord Almighty.”^a^
 ^a^[**12:20** 2Cor 10,2] ^b^[**12:21** 2Cor 2,1; 2Cor 13,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ It is doubtless not profitable for me to boast, but I will come to visions and revelations of the Lord. ^2^ I know a man in Christ who was caught up into the third heaven fourteen years ago—whether in the body, I don’t know, or whether out of the body, I don’t know; God knows. ^3^ I know such a man (whether in the body, or outside of the body, I don’t know; God knows), ^4^ how he was caught up into Paradise and heard unspeakable words, which it is not lawful for a man to utter. ^5^ On behalf of such a one I will boast, but on my own behalf I will not boast, except in my weaknesses. ^6^ For if I would desire to boast, I will not be foolish; for I will speak the truth. But I refrain, so that no man may think more of me than that which he sees in me or hears from me. ^7^ By reason of the exceeding greatness of the revelations, that I should not be exalted excessively, a thorn in the flesh was given to me: a messenger of Satan to torment me, that I should not be exalted excessively. ^8^ Concerning this thing, I begged the Lord three times that it might depart from me. ^9^ He has said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me. 
@@ -399,8 +412,8 @@ says the Lord Almighty.”^a^
 
 ^19^ Again, do you think that we are excusing ourselves to you? In the sight of God we speak in Christ. But all things, beloved, are for your edifying. ^20^ For I am afraid that perhaps when I come, I might find you not the way I want to, and that I might be found by you as you don’t desire, that perhaps there would be strife, jealousy, outbursts of anger, factions, slander, whisperings, proud thoughts, or riots, ^21^ that again when I come my God would humble me before you, and I would mourn for many of those who have sinned before now, and not repented of the uncleanness, sexual immorality, and lustfulness which they committed. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## Anuncio de juicio imparcial y juicio despiadado
@@ -420,6 +433,7 @@ says the Lord Almighty.”^a^
 
 ^14^ La gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo estén con todos vosotros. Amén.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”^a^ ^2^ I have warned previously, and I warn again, as when I was present the second time, so now, being absent, I write to those who have sinned before now and to all the rest that if I come again, I will not spare, ^3^ seeing that you seek a proof of Christ who speaks in me who is not weak, but is powerful in you. ^4^ For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you. 
@@ -434,4 +448,5 @@ says the Lord Almighty.”^a^
 ^13^ All the saints greet you. 
 
 ^14^ The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit be with you all. Amen.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

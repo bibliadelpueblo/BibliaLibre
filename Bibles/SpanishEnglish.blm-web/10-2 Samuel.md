@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## La queja de David por Saúl y Jonatán ante la noticia de sus muertes
@@ -28,6 +29,7 @@
 ^a^[**1:18** 2Sam 1,22; Jos 10,13] ^b^[**1:20** Miq 1,10; 1Sam 18,6] ^c^[**1:21** Núm 15,18-21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ After the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag, ^2^ on the third day, behold,^a^ a man came out of the camp from Saul, with his clothes torn and earth on his head. When he came to David, he fell to the earth and showed respect. 
@@ -56,8 +58,8 @@ He answered, “I am the son of a foreigner, an Amalekite.”
 
 ^17^ David lamented with this lamentation over Saul and over Jonathan his son ^18^ (and he commanded them to teach the children of Judah the song of the bow; behold, it is written in the book of Jashar): ^19^ “Your glory, Israel, was slain on your high places! How the mighty have fallen! ^20^ Don’t tell it in Gath. Don’t publish it in the streets of Ashkelon, lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph. ^21^ You mountains of Gilboa, let there be no dew or rain on you, and no fields of offerings; for there the shield of the mighty was defiled and cast away, the shield of Saul was not anointed with oil. ^22^ From the blood of the slain, from the fat of the mighty, Jonathan’s bow didn’t turn back. Saul’s sword didn’t return empty. ^23^ Saul and Jonathan were lovely and pleasant in their lives. In their death, they were not divided. They were swifter than eagles. They were stronger than lions. ^24^ You daughters of Israel, weep over Saul, who clothed you delicately in scarlet, who put ornaments of gold on your clothing. ^25^ How the mighty have fallen in the middle of the battle! Jonathan was slain on your high places. ^26^ I am distressed for you, my brother Jonathan. You have been very pleasant to me. Your love to me was wonderful, surpassing the love of women. ^27^ How the mighty have fallen, and the weapons of war have perished!” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## David llega a ser rey sobre la tribu de Judá, Isboseth sobre Israel
@@ -95,6 +97,7 @@ He answered, “I am the son of a foreigner, an Amalekite.”
 ^30^ Joab regresó de seguir a Abner, y cuando reunió a todo el pueblo, faltaban diecinueve hombres de David y Asael. ^31^ Pero los siervos de David habían herido a los hombres de Abner, de modo que murieron trescientos sesenta hombres. ^32^ Recogieron a Asael y lo enterraron en la tumba de su padre, que estaba en Belén. Joab y sus hombres pasaron toda la noche, y el día amaneció en Hebrón.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ After this, David inquired of Yahweh, saying, “Shall I go up into any of the cities of Judah?” 
@@ -127,8 +130,8 @@ He answered, “It is.”
 
 ^30^ Joab returned from following Abner; and when he had gathered all the people together, nineteen men of David’s and Asahel were missing. ^31^ But David’s servants had struck Benjamin Abner’s men so that three hundred sixty men died. ^32^ They took up Asahel and buried him in the tomb of his father, which was in Bethlehem. Joab and his men went all night, and the day broke on them at Hebron. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ^1^ Hubo una larga guerra entre la casa de Saúl y la de David. David se hacía cada vez más fuerte, pero la casa de Saúl se debilitaba cada vez más. ^a^
@@ -178,6 +181,7 @@ He answered, “It is.”
 ^a^[**3:38** 1Sam 26,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Now there was long war between Saul’s house and David’s house. David grew stronger and stronger, but Saul’s house grew weaker and weaker. ^2^ Sons were born to David in Hebron. His firstborn was Amnon, of Ahinoam the Jezreelitess; ^3^ and his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur; ^4^ and the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital; ^5^ and the sixth, Ithream, of Eglah, David’s wife. These were born to David in Hebron. 
@@ -210,8 +214,8 @@ All the people wept again over him. ^35^ All the people came to urge David to ea
 
 ^36^ All the people took notice of it, and it pleased them, as whatever the king did pleased all the people. ^37^ So all the people and all Israel understood that day that it was not of the king to kill Abner the son of Ner. ^38^ The king said to his servants, “Don’t you know that a prince and a great man has fallen today in Israel? ^39^ I am weak today, though anointed king. These men, the sons of Zeruiah are too hard for me. May Yahweh reward the evildoer according to his wickedness.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Asesinato de Isboseth; Coronación de David como Rey de todo Israel
@@ -229,6 +233,7 @@ All the people wept again over him. ^35^ All the people came to urge David to ea
 ^a^[**4:10** 2Sam 1,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ When Saul’s son heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled. ^2^ Saul’s son had two men who were captains of raiding bands. The name of one was Baanah and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin (for Beeroth also is considered a part of Benjamin; ^3^ and the Beerothites fled to Gittaim, and have lived as foreigners there until today). 
@@ -240,8 +245,8 @@ All the people wept again over him. ^35^ All the people came to urge David to ea
 
 ^9^ David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said to them, “As Yahweh lives, who has redeemed my soul out of all adversity, ^10^ when someone told me, ‘Behold, Saul is dead,’ thinking that he brought good news, I seized him and killed him in Ziklag, which was the reward I gave him for his news. ^11^ How much more, when wicked men have slain a righteous person in his own house on his bed, should I not now require his blood from your hand, and rid the earth of you?” ^12^ David commanded his young men, and they killed them, cut off their hands and their feet, and hanged them up beside the pool in Hebron. But they took the head of Ishbosheth and buried it in Abner’s grave in Hebron. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## David ungido rey por todos los israelitas en Hebrón
@@ -274,6 +279,7 @@ All the people wept again over him. ^35^ All the people came to urge David to ea
 ^25^ David lo hizo así, tal como se lo había ordenado Yahvé, y atacó a los filisteos desde Geba hasta Gezer.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Then all the tribes of Israel came to David at Hebron and spoke, saying, “Behold, we are your bone and your flesh. ^2^ In times past, when Saul was king over us, it was you who led Israel out and in. Yahweh said to you, ‘You will be shepherd of my people Israel, and you will be prince over Israel.’” ^3^ So all the elders of Israel came to the king to Hebron, and King David made a covenant with them in Hebron before Yahweh; and they anointed David king over Israel. 
@@ -297,8 +303,8 @@ Yahweh said to David, “Go up; for I will certainly deliver the Philistines int
 
 ^25^ David did so, as Yahweh commanded him, and struck the Philistines all the way from Geba to Gezer. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Traslado del arca a Sion en Jerusalén; Fracaso del primer intento
@@ -324,6 +330,7 @@ Yahweh said to David, “Go up; for I will certainly deliver the Philistines int
 ^23^ Mical, hija de Saúl, no tuvo hijos hasta el día de su muerte.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ David again gathered together all the chosen men of Israel, thirty thousand. ^2^ David arose and went with all the people who were with him from Baale Judah, to bring up from there God’s ark, which is called by the Name, even the name of Yahweh of Armies who sits above the cherubim. ^3^ They set God’s ark on a new cart, and brought it out of Abinadab’s house that was on the hill; and Uzzah and Ahio, the sons of Abinadab, drove the new cart. ^4^ They brought it out of Abinadab’s house which was in the hill, with God’s ark; and Ahio went before the ark. ^5^ David and all the house of Israel played before Yahweh with all kinds of instruments made of cypress wood, with harps, with stringed instruments, with tambourines, with castanets, and with cymbals. 
@@ -341,8 +348,8 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 
 ^23^ Michal the daughter of Saul had no child to the day of her death. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Natán aprueba el plan de David para construir el templo
@@ -372,6 +379,7 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 ^a^[**7:28** 1Re 8,26]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ When the king lived in his house, and Yahweh had given him rest from all his enemies all around, ^2^ the king said to Nathan the prophet, “See now, I dwell in a house of cedar, but God’s ark dwells within curtains.” 
@@ -387,8 +395,8 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 
 ^28^ “Now, O Lord Yahweh, you are God, and your words are truth, and you have promised this good thing to your servant. ^29^ Now therefore, let it please you to bless the house of your servant, that it may continue forever before you; for you, Lord Yahweh, have spoken it. Let the house of your servant be blessed forever with your blessing.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Las victorias de David sobre los filisteos, moabitas y sirios
@@ -411,6 +419,7 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 ^a^[**8:16** 2Sam 20,23-26] ^b^[**8:18** 2Sam 15,18; 1Sam 30,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ After this, David struck the Philistines and subdued them; and David took the bridle of the mother city out of the hand of the Philistines. ^2^ He defeated Moab, and measured them with the line, making them to lie down on the ground; and he measured two lines to put to death, and one full line to keep alive. The Moabites became servants to David, and brought tribute. 
@@ -423,8 +432,8 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 
 ^15^ David reigned over all Israel; and David executed justice and righteousness for all his people. ^16^ Joab the son of Zeruiah was over the army, Jehoshaphat the son of Ahilud was recorder, ^17^ Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests, Seraiah was scribe, ^18^ Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David’s sons were chief ministers. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## La generosidad de David hacia el hijo de Jonatán, Mefiboset
@@ -449,6 +458,7 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 ^a^[**9:11** 2Sam 19,28] ^b^[**9:13** 2Sam 9,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ David said, “Is there yet any who is left of Saul’s house, that I may show him kindness for Jonathan’s sake?” ^2^ There was of Saul’s house a servant whose name was Ziba, and they called him to David; and the king said to him, “Are you Ziba?” 
@@ -475,8 +485,8 @@ He answered, “Behold, your servant!”
 
 Now Ziba had fifteen sons and twenty servants. ^11^ Then Ziba said to the king, “According to all that my lord the king commands his servant, so your servant will do.” So Mephibosheth ate at the king’s table like one of the king’s sons. ^12^ Mephibosheth had a young son, whose name was Mica. All who lived in Ziba’s house were servants to Mephibosheth. ^13^ So Mephibosheth lived in Jerusalem, for he ate continually at the king’s table. He was lame in both his feet. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## El vergonzoso crimen de los amonitas contra el mensajero de David
@@ -493,6 +503,7 @@ Now Ziba had fifteen sons and twenty servants. ^11^ Then Ziba said to the king, 
 ^15^ Cuando los sirios vieron que habían sido derrotados por Israel, se reunieron. ^16^ Hadadzer envió y sacó a los sirios que estaban al otro lado del río; y llegaron a Helam, con Sobac, el capitán del ejército de Hadadzer, a la cabeza. ^17^ David fue informado de esto, y reunió a todo Israel, pasó el Jordán y llegó a Helam. Los sirios se pusieron en guardia contra David y lucharon contra él. ^18^ Los sirios huyeron ante Israel, y David mató a setecientos aurigas de los sirios y a cuarenta mil jinetes, e hirió a Sobac, jefe de su ejército, que murió allí. ^19^ Cuando todos los reyes que estaban al servicio de Hadadézer vieron que habían sido derrotados ante Israel, hicieron la paz con Israel y les sirvieron. Entonces los sirios tuvieron miedo de seguir ayudando a los hijos de Amón.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ After this, the king of the children of Ammon died, and Hanun his son reigned in his place. ^2^ David said, “I will show kindness to Hanun the son of Nahash, as his father showed kindness to me.” So David sent by his servants to comfort him concerning his father. David’s servants came into the land of the children of Ammon. 
@@ -505,8 +516,8 @@ Now Ziba had fifteen sons and twenty servants. ^11^ Then Ziba said to the king, 
 
 ^15^ When the Syrians saw that they were defeated by Israel, they gathered themselves together. ^16^ Hadadezer sent and brought out the Syrians who were beyond the River; and they came to Helam, with Shobach the captain of the army of Hadadezer at their head. ^17^ David was told that; and he gathered all Israel together, passed over the Jordan, and came to Helam. The Syrians set themselves in array against David and fought with him. ^18^ The Syrians fled before Israel; and David killed seven hundred charioteers of the Syrians and forty thousand horsemen, and struck Shobach the captain of their army, so that he died there. ^19^ When all the kings who were servants to Hadadezer saw that they were defeated before Israel, they made peace with Israel and served them. So the Syrians were afraid to help the children of Ammon any more. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## El adulterio de David con Betsabé
@@ -539,6 +550,7 @@ Now Ziba had fifteen sons and twenty servants. ^11^ Then Ziba said to the king, 
 ^a^[**11:27** Éxod 20,13-14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ At the return of the year, at the time when kings go out, David sent Joab and his servants with him, and all Israel; and they destroyed the children of Ammon and besieged Rabbah. But David stayed at Jerusalem. ^2^ At evening, David arose from his bed and walked on the roof of the king’s house. From the roof, he saw a woman bathing, and the woman was very beautiful to look at. ^3^ David sent and inquired after the woman. One said, “Isn’t this Bathsheba, the daughter of Eliam, Uriah the Hittite’s wife?” 
@@ -559,8 +571,8 @@ Now Ziba had fifteen sons and twenty servants. ^11^ Then Ziba said to the king, 
 
 ^26^ When Uriah’s wife heard that Uriah her husband was dead, she mourned for her husband. ^27^ When the mourning was past, David sent and took her home to his house, and she became his wife and bore him a son. But the thing that David had done displeased Yahweh. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## El discurso de Nathan y el anuncio de la perdición; La confesión de culpa y arrepentimiento de David
@@ -596,6 +608,7 @@ Now Ziba had fifteen sons and twenty servants. ^11^ Then Ziba said to the king, 
 ^a^[**12:30** Un talento equivale a unos 30 kilogramos o 66 libras o 965 onzas troy.]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ Yahweh sent Nathan to David. He came to him, and said to him, “There were two men in one city: the one rich, and the other poor. ^2^ The rich man had very many flocks and herds, ^3^ but the poor man had nothing, except one little ewe lamb, which he had bought and raised. It grew up together with him and with his children. It ate of his own food, drank of his own cup, and lay in his bosom, and was like a daughter to him. ^4^ A traveler came to the rich man, and he didn’t want to take of his own flock and of his own herd to prepare for the wayfaring man who had come to him, but took the poor man’s lamb and prepared it for the man who had come to him.” 
@@ -628,8 +641,8 @@ They said, “He is dead.”
 ^29^ David gathered all the people together and went to Rabbah, and fought against it and took it. ^30^ He took the crown of their king from off his head; and its weight was a talent^a^ of gold, and in it were precious stones; and it was set on David’s head. He brought a great quantity of plunder out of the city. ^31^ He brought out the people who were in it, and put them to work under saws, under iron picks, under axes of iron, and made them go to the brick kiln; and he did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem.
 ^a^[**12:30** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## El amor apasionado de Amnón; su indignación hacia su media hermana Thamar
@@ -685,6 +698,7 @@ They said, “He is dead.”
 ^39^ El rey David anhelaba salir a ver a Absalón, pues estaba consolado por Amnón, ya que había muerto.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ After this, Absalom the son of David had a beautiful sister, whose name was Tamar; and Amnon the son of David loved her. ^2^ Amnon was so troubled that he became sick because of his sister Tamar, for she was a virgin, and it seemed hard to Amnon to do anything to her. ^3^ But Amnon had a friend whose name was Jonadab the son of Shimeah, David’s brother; and Jonadab was a very subtle man. ^4^ He said to him, “Why, son of the king, are you so sad from day to day? Won’t you tell me?” 
@@ -727,8 +741,8 @@ The king said to him, “Why should he go with you?”
 
 ^37^ But Absalom fled and went to Talmai the son of Ammihur, king of Geshur. David mourned for his son every day. ^38^ So Absalom fled and went to Geshur, and was there three years. ^39^ King David longed to go out to Absalom, for he was comforted concerning Amnon, since he was dead. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ^1^ Joab, hijo de Sarvia, se dio cuenta de que el corazón del rey estaba inclinado hacia Absalón. ^2^ Joab envió a Tecoa y trajo de allí a una mujer sabia, y le dijo: “Por favor, actúa como una mujer de luto, y ponte ropa de luto, por favor, y no te unjas con aceite, sino sé como una mujer que ha llorado mucho tiempo a un muerto. ^3^ Entra al rey y háblale así”. Entonces Joab puso las palabras en su boca.
@@ -782,6 +796,7 @@ The king said to him, “Why should he go with you?”
 ^33^ Entonces Joab vino al rey y se lo comunicó; y cuando llamó a Absalón, éste vino al rey y se postró en tierra ante el rey; y el rey besó a Absalón.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ Now Joab the son of Zeruiah perceived that the king’s heart was toward Absalom. ^2^ Joab sent to Tekoa and brought a wise woman from there, and said to her, “Please act like a mourner, and put on mourning clothing, please, and don’t anoint yourself with oil; but be as a woman who has mourned a long time for the dead. ^3^ Go in to the king and speak like this to him.” So Joab put the words in her mouth. 
@@ -821,7 +836,7 @@ The woman answered, “As your soul lives, my lord the king, no one can turn to 
 ^22^ Joab fell to the ground on his face, showed respect, and blessed the king. Joab said, “Today your servant knows that I have found favor in your sight, my lord, O king, in that the king has performed the request of his servant.” 
 
 ^23^ So Joab arose and went to Geshur, and brought Absalom to Jerusalem. ^24^ The king said, “Let him return to his own house, but let him not see my face.” So Absalom returned to his own house, and didn’t see the king’s face. ^25^ Now in all Israel there was no one to be so much praised as Absalom for his beauty. From the sole of his foot even to the crown of his head there was no defect in him. ^26^ When he cut the hair of his head (now it was at every year’s end that he cut it; because it was heavy on him, therefore he cut it), he weighed the hair of his head at two hundred shekels,^a^ after the king’s weight. ^27^ Three sons were born to Absalom, and one daughter, whose name was Tamar. She was a woman with a beautiful face. ^28^ Absalom lived two full years in Jerusalem, and he didn’t see the king’s face. ^29^ Then Absalom sent for Joab, to send him to the king, but he would not come to him. Then he sent again a second time, but he would not come. ^30^ Therefore he said to his servants, “Behold, Joab’s field is near mine, and he has barley there. Go and set it on fire.” So Absalom’s servants set the field on fire. 
-^a^[**14:26** A shekel is about 10 grams or about 0. 35 ounces, so 200 shekels is about 2 kilograms or about 4. 4 pounds.]
+^a^[**14:26** A shekel is about 10 grams or about 0.35 ounces, so 200 shekels is about 2 kilograms or about 4.4 pounds.]
 
 ^31^ Then Joab arose and came to Absalom to his house, and said to him, “Why have your servants set my field on fire?” 
 
@@ -829,8 +844,8 @@ The woman answered, “As your soul lives, my lord the king, no one can turn to 
 
 ^33^ So Joab came to the king and told him; and when he had called for Absalom, he came to the king and bowed himself on his face to the ground before the king; and the king kissed Absalom. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## Actividades ambiciosas y favorables de Absalom
@@ -885,6 +900,7 @@ The woman answered, “As your soul lives, my lord the king, no one can turn to 
 ^a^[**15:37** 1Cró 27,33]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ After this, Absalom prepared a chariot and horses for himself, and fifty men to run before him. ^2^ Absalom rose up early, and stood beside the way of the gate. When any man had a suit which should come to the king for judgment, then Absalom called to him, and said, “What city are you from?” 
@@ -921,8 +937,8 @@ David said, “Yahweh, please turn the counsel of Ahithophel into foolishness.�
 
 ^37^ So Hushai, David’s friend, came into the city; and Absalom came into Jerusalem. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ## Siba, el siervo de Mefiboseth, da presentes al rey; su informe de mentiras sobre Mefiboset
@@ -963,6 +979,7 @@ David said, “Yahweh, please turn the counsel of Ahithophel into foolishness.�
 ^23^ El consejo de Ajitofel, que dio en aquellos días, fue como si un hombre preguntara en el santuario interior de Dios. Todo el consejo de Ajitofel fue así tanto con David como con Absalón.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ When David was a little past the top, behold, Ziba the servant of Mephibosheth met him with a couple of donkeys saddled, and on them two hundred loaves of bread, and one hundred clusters of raisins, and one hundred summer fruits, and a container of wine. ^2^ The king said to Ziba, “What do you mean by these?” 
@@ -997,8 +1014,8 @@ Ziba said, “I bow down. Let me find favor in your sight, my lord, O king.”
 
 ^23^ The counsel of Ahithophel, which he gave in those days, was as if a man inquired at the inner sanctuary of God. All the counsel of Ahithophel was like this both with David and with Absalom. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 17
 ## El segundo excelente consejo de Ahitofel fue rechazado por Husai y rechazado por Absalón
@@ -1035,6 +1052,7 @@ Ziba said, “I bow down. Let me find favor in your sight, my lord, O king.”
 ^a^[**17:27** 2Sam 9,4; 1Re 2,7] ^b^[**17:29** 2Sam 16,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 17
 ^1^ Moreover Ahithophel said to Absalom, “Let me now choose twelve thousand men, and I will arise and pursue after David tonight. ^2^ I will come on him while he is weary and exhausted, and will make him afraid. All the people who are with him will flee. I will strike the king only, ^3^ and I will bring back all the people to you. The man whom you seek is as if all returned. All the people shall be in peace.” 
@@ -1063,8 +1081,8 @@ When they had sought and could not find them, they returned to Jerusalem. ^21^ A
 
 ^27^ When David had come to Mahanaim, Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lodebar, and Barzillai the Gileadite of Rogelim, ^28^ brought beds, basins, earthen vessels, wheat, barley, meal, parched grain, beans, lentils, roasted grain, ^29^ honey, butter, sheep, and cheese of the herd, for David and for the people who were with him to eat; for they said, “The people are hungry, weary, and thirsty in the wilderness.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 18
 ## Las órdenes militares de David; Salida de su ejército
@@ -1122,6 +1140,7 @@ When they had sought and could not find them, they returned to Jerusalem. ^21^ A
 ^33^ El rey, muy conmovido, subió a la sala de la puerta y lloró. Mientras iba, dijo: “¡Hijo mío Absalón! ¡Hijo mío, hijo mío Absalón! Ojalá hubiera muerto yo en tu lugar, Absalón, hijo mío, hijo mío”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 18
 ^1^ David counted the people who were with him, and set captains of thousands and captains of hundreds over them. ^2^ David sent the people out, a third part under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. The king said to the people, “I will also surely go out with you myself.” 
@@ -1184,8 +1203,8 @@ The Cushite answered, “May the enemies of my lord the king, and all who rise u
 
 ^33^ The king was much moved, and went up to the room over the gate and wept. As he went, he said, “My son Absalom! My son, my son Absalom! I wish I had died instead of you, Absalom, my son, my son!” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 19
 ^1^ Le dijeron a Joab: “He aquí que el rey llora y se lamenta por Absalón”.
@@ -1250,6 +1269,7 @@ The Cushite answered, “May the enemies of my lord the king, and all who rise u
 ^43^ Los hombres de Israel respondieron a los de Judá y dijeron: “Nosotros tenemos diez partes en el rey, y también tenemos más derecho a David que ustedes. ¿Por qué, pues, nos habéis despreciado, para que nuestro consejo no sea el primero en hacer volver a nuestro rey?” Las palabras de los hombres de Judá fueron más feroces que las de los hombres de Israel.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 19
 ^1^ Joab was told, “Behold, the king weeps and mourns for Absalom.” ^2^ The victory that day was turned into mourning among all the people, for the people heard it said that day, “The king grieves for his son.” 
@@ -1290,8 +1310,8 @@ Shimei the son of Gera fell down before the king when he had come over the Jorda
 
 ^43^ The men of Israel answered the men of Judah, and said, “We have ten parts in the king, and we have also more claim to David than you. Why then did you despise us, that our advice should not be first had in bringing back our king?” The words of the men of Judah were fiercer than the words of the men of Israel. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 20
 ## Órdenes de David en Jerusalén
@@ -1330,6 +1350,7 @@ Shimei the son of Gera fell down before the king when he had come over the Jorda
 ^a^[**20:24** 1Re 4,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 20
 ^1^ There happened to be there a wicked fellow, whose name was Sheba the son of Bichri, a Benjamite; and he blew the trumpet, and said, “We have no portion in David, neither have we inheritance in the son of Jesse. Every man to his tents, Israel!” 
@@ -1364,8 +1385,8 @@ The woman said to Joab, “Behold, his head will be thrown to you over the wall.
 
 ^23^ Now Joab was over all the army of Israel, Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites, ^24^ Adoram was over the men subject to forced labor, Jehoshaphat the son of Ahilud was the recorder, ^25^ Sheva was scribe, Zadok and Abiathar were priests, ^26^ and Ira the Jairite was chief minister to David. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 21
 ## Declaración de la deuda de Saúl; el requisito de los gabaonitas
@@ -1395,6 +1416,7 @@ The woman said to Joab, “Behold, his head will be thrown to you over the wall.
 ^a^[**21:18** 1Cró 20,4-8] ^b^[**21:19** 1Sam 17,7] ^c^[**21:21** 1Sam 17,10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 21
 ^1^ There was a famine in the days of David for three years, year after year; and David sought the face of Yahweh. Yahweh said, “It is for Saul, and for his bloody house, because he put the Gibeonites to death.” 
@@ -1417,8 +1439,8 @@ The king said, “I will give them.”
 
 ^18^ After this, there was again war with the Philistines at Gob. Then Sibbecai the Hushathite killed Saph, who was of the sons of the giant. ^19^ There was again war with the Philistines at Gob, and Elhanan the son of Jaare-Oregim the Bethlehemite killed Goliath the Gittite’s brother, the staff of whose spear was like a weaver’s beam. ^20^ There was again war at Gath, where there was a man of great stature, who had six fingers on every hand and six toes on every foot, twenty-four in number, and he also was born to the giant. ^21^ When he defied Israel, Jonathan the son of Shimei, David’s brother, killed him. ^22^ These four were born to the giant in Gath; and they fell by the hand of David and by the hand of his servants. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 22
 ## El cántico de acción de gracias y victoria de David después de derrotar a sus enemigos
@@ -1426,13 +1448,14 @@ The king said, “I will give them.”
 ^a^[**22:6** El Seol es el lugar de los muertos.]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 22
 ^1^ David spoke to Yahweh the words of this song in the day that Yahweh delivered him out of the hand of all his enemies, and out of the hand of Saul, ^2^ and he said: “Yahweh is my rock, my fortress, and my deliverer, even mine; ^3^ God is my rock in whom I take refuge; my shield, and the horn of my salvation, my high tower, and my refuge. My savior, you save me from violence. ^4^ I call on Yahweh, who is worthy to be praised; So shall I be saved from my enemies. ^5^ For the waves of death surrounded me. The floods of ungodliness made me afraid. ^6^ The cords of Sheol^a^ were around me. The snares of death caught me. ^7^ In my distress, I called on Yahweh. Yes, I called to my God. He heard my voice out of his temple. My cry came into his ears. ^8^ Then the earth shook and trembled. The foundations of heaven quaked and were shaken, because he was angry. ^9^ Smoke went up out of his nostrils. Consuming fire came out of his mouth. Coals were kindled by it. ^10^ He bowed the heavens also, and came down. Thick darkness was under his feet. ^11^ He rode on a cherub, and flew. Yes, he was seen on the wings of the wind. ^12^ He made darkness a shelter around himself, gathering of waters, and thick clouds of the skies. ^13^ At the brightness before him, coals of fire were kindled. ^14^ Yahweh thundered from heaven. The Most High uttered his voice. ^15^ He sent out arrows and scattered them, lightning and confused them. ^16^ Then the channels of the sea appeared. The foundations of the world were laid bare by Yahweh’s rebuke, at the blast of the breath of his nostrils. ^17^ He sent from on high and he took me. He drew me out of many waters. ^18^ He delivered me from my strong enemy, from those who hated me, for they were too mighty for me. ^19^ They came on me in the day of my calamity, but Yahweh was my support. ^20^ He also brought me out into a large place. He delivered me, because he delighted in me. ^21^ Yahweh rewarded me according to my righteousness. He rewarded me according to the cleanness of my hands. ^22^ For I have kept Yahweh’s ways, and have not wickedly departed from my God. ^23^ For all his ordinances were before me. As for his statutes, I didn’t depart from them. ^24^ I was also perfect toward him. I kept myself from my iniquity. ^25^ Therefore Yahweh has rewarded me according to my righteousness, According to my cleanness in his eyesight. ^26^ With the merciful you will show yourself merciful. With the perfect man you will show yourself perfect. ^27^ With the pure you will show yourself pure. With the crooked you will show yourself shrewd. ^28^ You will save the afflicted people, but your eyes are on the arrogant, that you may bring them down. ^29^ For you are my lamp, Yahweh. Yahweh will light up my darkness. ^30^ For by you, I run against a troop. By my God, I leap over a wall. ^31^ As for God, his way is perfect. Yahweh’s word is tested. He is a shield to all those who take refuge in him. ^32^ For who is God, besides Yahweh? Who is a rock, besides our God? ^33^ God is my strong fortress. He makes my way perfect. ^34^ He makes his feet like hinds’ feet, and sets me on my high places. ^35^ He teaches my hands to war, so that my arms bend a bow of bronze. ^36^ You have also given me the shield of your salvation. Your gentleness has made me great. ^37^ You have enlarged my steps under me. My feet have not slipped. ^38^ I have pursued my enemies and destroyed them. I didn’t turn again until they were consumed. ^39^ I have consumed them, and struck them through, so that they can’t arise. Yes, they have fallen under my feet. ^40^ For you have armed me with strength for the battle. You have subdued under me those who rose up against me. ^41^ You have also made my enemies turn their backs to me, that I might cut off those who hate me. ^42^ They looked, but there was no one to save; even to Yahweh, but he didn’t answer them. ^43^ Then I beat them as small as the dust of the earth. I crushed them as the mire of the streets, and spread them abroad. ^44^ You also have delivered me from the strivings of my people. You have kept me to be the head of the nations. A people whom I have not known will serve me. ^45^ The foreigners will submit themselves to me. As soon as they hear of me, they will obey me. ^46^ The foreigners will fade away, and will come trembling out of their close places. ^47^ Yahweh lives! Blessed be my rock! Exalted be God, the rock of my salvation, ^48^ even the God who executes vengeance for me, who brings down peoples under me, ^49^ who brings me away from my enemies. Yes, you lift me up above those who rise up against me. You deliver me from the violent man. ^50^ Therefore I will give thanks to you, Yahweh, among the nations, and will sing praises to your name. ^51^ He gives great deliverance to his king, and shows loving kindness to his anointed, to David and to his offspring, forever more.”
 ^a^[**22:6** Sheol is the place of the dead.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 23
 ## Las últimas palabras de David
@@ -1458,6 +1481,7 @@ The king said, “I will give them.”
 ^a^[**23:24** 2Sam 2,18] ^b^[**23:26** 1Cró 27,9-10] ^c^[**23:34** 2Sam 15,12] ^d^[**23:39** 2Sam 11,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 23
 ^1^ Now these are the last words of David. David the son of Jesse says, the man who was raised on high says, the anointed of the God of Jacob, the sweet psalmist of Israel: ^2^ “Yahweh’s Spirit spoke by me. His word was on my tongue. ^3^ The God of Israel said, the Rock of Israel spoke to me, ‘One who rules over men righteously, who rules in the fear of God, ^4^ shall be as the light of the morning when the sun rises, a morning without clouds, when the tender grass springs out of the earth, through clear shining after rain.’ ^5^ Isn’t my house so with God? Yet he has made with me an everlasting covenant, ordered in all things, and sure, for it is all my salvation and all my desire. Won’t he make it grow? ^6^ But all the ungodly will be as thorns to be thrust away, because they can’t be taken with the hand. ^7^ The man who touches them must be armed with iron and the staff of a spear. They will be utterly burned with fire in their place.” 
@@ -1474,8 +1498,8 @@ The king said, “I will give them.”
 
 ^24^ Asahel the brother of Joab was one of the thirty: Elhanan the son of Dodo of Bethlehem, ^25^ Shammah the Harodite, Elika the Harodite, ^26^ Helez the Paltite, Ira the son of Ikkesh the Tekoite, ^27^ Abiezer the Anathothite, Mebunnai the Hushathite, ^28^ Zalmon the Ahohite, Maharai the Netophathite, ^29^ Heleb the son of Baanah the Netophathite, Ittai the son of Ribai of Gibeah of the children of Benjamin, ^30^ Benaiah a Pirathonite, Hiddai of the brooks of Gaash. ^31^ Abialbon the Arbathite, Azmaveth the Barhumite, ^32^ Eliahba the Shaalbonite, the sons of Jashen, Jonathan, ^33^ Shammah the Hararite, Ahiam the son of Sharar the Ararite, ^34^ Eliphelet the son of Ahasbai, the son of the Maacathite, Eliam the son of Ahithophel the Gilonite, ^35^ Hezro the Carmelite, Paarai the Arbite, ^36^ Igal the son of Nathan of Zobah, Bani the Gadite, ^37^ Zelek the Ammonite, Naharai the Beerothite, armor bearers to Joab the son of Zeruiah, ^38^ Ira the Ithrite, Gareb the Ithrite, ^39^ and Uriah the Hittite: thirty-seven in all. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 24
 ## David decide el censo a pesar de la advertencia de Joab
@@ -1514,6 +1538,7 @@ The king said, “I will give them.”
 
 ^24^ El rey le dijo a Arauna: “No, pero ciertamente te lo compraré por un precio. No ofreceré a Yahvé mi Dios holocaustos que no me cuestan nada”. Así que David compró la era y los bueyes por cincuenta siclos^[**24:24** Un siclo equivale a unos 10 gramos o a unas 0,35 onzas, por lo que 50 siclos equivalen a unos 0,5 kilogramos o 1,1 libras.] de plata. ^25^ David construyó allí un altar a Yavé, y ofreció holocaustos y ofrendas de paz. Así se suplicó a Yahvé por la tierra, y la plaga se alejó de Israel. ^[**24:25** 2Sam 21,14]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 24
 ^1^ Again Yahweh’s anger burned against Israel, and he moved David against them, saying, “Go, count Israel and Judah.” ^2^ The king said to Joab the captain of the army, who was with him, “Now go back and forth through all the tribes of Israel, from Dan even to Beersheba, and count the people, that I may know the sum of the people.” 
@@ -1543,5 +1568,6 @@ David said, “To buy your threshing floor, to build an altar to Yahweh, that th
 ^22^ Araunah said to David, “Let my lord the king take and offer up what seems good to him. Behold, the cattle for the burnt offering, and the threshing sledges and the yokes of the oxen for the wood. ^23^ All this, O king, does Araunah give to the king.” Araunah said to the king, “May Yahweh your God accept you.” 
 
 ^24^ The king said to Araunah, “No, but I will most certainly buy it from you for a price. I will not offer burnt offerings to Yahweh my God which cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels^a^ of silver. ^25^ David built an altar to Yahweh there, and offered burnt offerings and peace offerings. So Yahweh was entreated for the land, and the plague was removed from Israel. 
-^a^[**24:24** A shekel is about 10 grams or about 0. 35 ounces, so 50 shekels is about 0. 5 kilograms or 1. 1 pounds.]
-\bibleendparacol
+^a^[**24:24** A shekel is about 10 grams or about 0.35 ounces, so 50 shekels is about 0.5 kilograms or 1.1 pounds.]
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

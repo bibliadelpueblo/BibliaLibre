@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## La penitencia introductoria
@@ -28,6 +29,7 @@
 ^20^ El Señor me mostró cuatro artesanos. ^21^ Entonces pregunté: “¿Qué vienen a hacer estos?”. Dijo: “Estos son los cuernos que dispersaron a Judá, para que nadie levantara la cabeza; pero éstos han venido para aterrorizarlos, para derribar los cuernos de las naciones que levantaron su cuerno contra la tierra de Judá para dispersarla.”
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ In the eighth month, in the second year of Darius, Yahweh’s^a^ word came to the prophet Zechariah the son of Berechiah, the son of Iddo, saying, ^2^ “Yahweh was very displeased with your fathers. ^3^ Therefore tell them, Yahweh of Armies says: ‘Return to me,’ says Yahweh of Armies, ‘and I will return to you,’ says Yahweh of Armies. ^4^ Don’t you be like your fathers, to whom the former prophets proclaimed, saying: Yahweh of Armies says, ‘Return now from your evil ways and from your evil doings;’ but they didn’t hear nor listen to me, says Yahweh. ^5^ Your fathers, where are they? And the prophets, do they live forever? ^6^ But my words and my decrees, which I commanded my servants the prophets, didn’t they overtake your fathers? 
@@ -58,8 +60,8 @@ He answered me, “These are the horns which have scattered Judah, Israel, and J
 
 He said, “These are the horns which scattered Judah, so that no man lifted up his head; but these have come to terrify them, to cast down the horns of the nations that lifted up their horn against the land of Judah to scatter it.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## El hombre de la línea de medición, Restaurando Jerusalén a una ciudad rica y abierta
@@ -76,6 +78,7 @@ He said, “These are the horns which scattered Judah, so that no man lifted up 
 ^a^[**2:8** Deut 32,10] ^b^[**2:11** Is 11,10] ^c^[**2:12** Zac 1,17] ^d^[**2:13** Hab 2,20]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ I lifted up my eyes, and saw, and behold, a man with a measuring line in his hand. ^2^ Then I asked, “Where are you going?” 
@@ -86,8 +89,8 @@ He said to me, “To measure Jerusalem, to see what is its width and what is its
 
 ^6^ Come! Come! Flee from the land of the north,’ says Yahweh; ‘for I have spread you abroad as the four winds of the sky,’ says Yahweh. ^7^ ‘Come, Zion! Escape, you who dwell with the daughter of Babylon.’ ^8^ For Yahweh of Armies says: ‘For honor he has sent me to the nations which plundered you; for he who touches you touches the apple of his eye. ^9^ For, behold, I will shake my hand over them, and they will be a plunder to those who served them; and you will know that Yahweh of Armies has sent me. ^10^ Sing and rejoice, daughter of Zion! For behold, I come and I will dwell within you,’ says Yahweh. ^11^ Many nations shall join themselves to Yahweh in that day, and shall be my people; and I will dwell among you, and you shall know that Yahweh of Armies has sent me to you. ^12^ Yahweh will inherit Judah as his portion in the holy land, and will again choose Jerusalem. ^13^ Be silent, all flesh, before Yahweh; for he has roused himself from his holy habitation!” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## El sacerdocio que recibió el sumo sacerdote Josué y que promete para el futuro
@@ -104,6 +107,7 @@ He said to me, “To measure Jerusalem, to see what is its width and what is its
 ^a^[**3:7** Sal 91,11] ^b^[**3:8** Is 8,18; Zac 2,8; Jer 23,5; Jer 33,15] ^c^[**3:9** Zac 4,10; Apoc 5,6] ^d^[**3:10** 1Re 4,25; Miq 4,4]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ He showed me Joshua the high priest standing before Yahweh’s angel, and Satan standing at his right hand to be his adversary. ^2^ Yahweh said to Satan, “Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?” 
@@ -116,8 +120,8 @@ So they set a clean turban on his head, and clothed him; and Yahweh’s angel wa
 
 ^6^ Yahweh’s angel solomnly assured Joshua, saying, ^7^ “Yahweh of Armies says: ‘If you will walk in my ways, and if you will follow my instructions, then you also shall judge my house, and shall also keep my courts, and I will give you a place of access among these who stand by. ^8^ Hear now, Joshua the high priest, you and your fellows who sit before you, for they are men who are a sign; for, behold, I will bring out my servant, the Branch. ^9^ For, behold, the stone that I have set before Joshua: on one stone are seven eyes; behold, I will engrave its inscription,’ says Yahweh of Armies, ‘and I will remove the iniquity of that land in one day. ^10^ In that day,’ says Yahweh of Armies, ‘you will invite every man his neighbor under the vine and under the fig tree.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## El candelero de oro entre los dos olivos
@@ -145,6 +149,7 @@ So they set a clean turban on his head, and clothed him; and Yahweh’s angel wa
 ^a^[**4:14** Apoc 11,4]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ The angel who talked with me came again and wakened me, as a man who is wakened out of his sleep. ^2^ He said to me, “What do you see?” 
@@ -172,8 +177,8 @@ I said, “No, my lord.”
 ^14^ Then he said, “These are the two anointed ones who stand by the Lord^a^ of the whole earth.”
 ^a^[**4:14** The word translated “Lord” is “Adonai.”] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## El pergamino volador
@@ -193,6 +198,7 @@ I said, “No, my lord.”
 ^a^[**5:11** Gén 11,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Then again I lifted up my eyes and saw, and behold, a flying scroll. ^2^ He said to me, “What do you see?” 
@@ -207,14 +213,14 @@ I answered, “I see a flying scroll; its length is twenty cubits,^a^ and its wi
 ^6^ I said, “What is it?” 
 
 He said, “This is the ephah^a^ basket that is appearing.” He said moreover, “This is their appearance in all the land— ^7^ and behold, a lead cover weighing one talent^b^ was lifted up—and there was a woman sitting in the middle of the ephah^c^ basket.” ^8^ He said, “This is Wickedness;” and he threw her down into the middle of the ephah basket; and he threw the lead weight on its mouth. 
-^a^[**5:6** An ephah is a measure of volume of about 22 liters, 5. 8 U. S. gallons, or about 2/3 of a bushel. ] ^b^[**5:7** A talent is about 30 kilograms or 66 pounds.] ^c^[**5:7** 1 ephah is about 22 liters or about 2/3 of a bushel]
+^a^[**5:6** An ephah is a measure of volume of about 22 liters, 5.8 U. S. gallons, or about 2/3 of a bushel. ] ^b^[**5:7** A talent is about 30 kilograms or 66 pounds.] ^c^[**5:7** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
 ^9^ Then I lifted up my eyes and saw, and behold, there were two women; and the wind was in their wings. Now they had wings like the wings of a stork, and they lifted up the ephah basket between earth and the sky. ^10^ Then I said to the angel who talked with me, “Where are these carrying the ephah basket?” 
 
 ^11^ He said to me, “To build her a house in the land of Shinar. When it is prepared, she will be set there in her own place.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## La salida de los cuatro carros de guerra celestiales
@@ -233,6 +239,7 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^15^ Los que están lejos vendrán y construirán en el templo de Yahvé; y sabrás que Yahvé de los Ejércitos me ha enviado a ti. Esto sucederá, si obedeces diligentemente la voz de Yahvé tu Dios”’”
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ Again I lifted up my eyes, and saw, and behold, four chariots came out from between two mountains; and the mountains were mountains of bronze. ^2^ In the first chariot were red horses. In the second chariot were black horses. ^3^ In the third chariot were white horses. In the fourth chariot were dappled horses, all of them powerful. ^4^ Then I asked the angel who talked with me, “What are these, my lord?” 
@@ -246,8 +253,8 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^15^ Those who are far off shall come and build in Yahweh’s temple; and you shall know that Yahweh of Armies has sent me to you. This will happen, if you will diligently obey Yahweh your God’s voice.”’”^a^
 ^a^[**6:15** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Solicitud de los hombres de Betel sobre los días de ayuno
@@ -265,6 +272,7 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^a^[**7:9** Miq 6,8] ^b^[**7:10** Éxod 22,21-22] ^c^[**7:12** Is 48,4]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ In the fourth year of King Darius, Yahweh’s word came to Zechariah in the fourth day of the ninth month, the month of Chislev. ^2^ The people of Bethel sent Sharezer and Regem Melech and their men to entreat Yahweh’s favor, ^3^ and to speak to the priests of the house of Yahweh of Armies and to the prophets, saying, “Should I weep in the fifth month, separating myself, as I have done these so many years?” 
@@ -273,8 +281,8 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 
 ^8^ Yahweh’s word came to Zechariah, saying, ^9^ “Thus has Yahweh of Armies spoken, saying, ‘Execute true judgment, and show kindness and compassion every man to his brother. ^10^ Don’t oppress the widow, the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.’ ^11^ But they refused to listen, and turned their backs, and stopped their ears, that they might not hear. ^12^ Yes, they made their hearts as hard as flint, lest they might hear the law and the words which Yahweh of Armies had sent by his Spirit by the former prophets. Therefore great wrath came from Yahweh of Armies. ^13^ It has come to pass that, as he called and they refused to listen, so they will call and I will not listen,” said Yahweh of Armies; ^14^ “but I will scatter them with a whirlwind among all the nations which they have not known. Thus the land was desolate after them, so that no man passed through nor returned; for they made the pleasant land desolate.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Dios ama a su pueblo y le permitirá alcanzar una gran felicidad, pero siempre defiende sus exigencias morales
@@ -306,6 +314,7 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^20^ Dice el Señor de los Ejércitos: “Todavía vendrán muchos pueblos y los habitantes de muchas ciudades. ^21^ Los habitantes de una irán a otra, diciendo: ‘Vayamos pronto a suplicar el favor de Yahvé y a buscar a Yahvé de los Ejércitos. Yo también iré’. ^22^ Sí, muchos pueblos y naciones fuertes vendrán a buscar a Yahvé de los Ejércitos en Jerusalén y a implorar el favor de Yahvé.” ^23^ Yahvé de los Ejércitos dice: “En esos días, diez hombres de todas las lenguas de las naciones se agarrarán a la falda del que es judío, diciendo: ‘Iremos con vosotros, porque hemos oído que Dios está con vosotros’.”
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ The word of Yahweh of Armies came to me. ^2^ Yahweh of Armies says: “I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.” 
@@ -326,8 +335,8 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 
 ^20^ Yahweh of Armies says: “Many peoples and the inhabitants of many cities will yet come. ^21^ The inhabitants of one will go to another, saying, ‘Let’s go speedily to entreat the favor of Yahweh, and to seek Yahweh of Armies. I will go also.’ ^22^ Yes, many peoples and strong nations will come to seek Yahweh of Armies in Jerusalem and to entreat the favor of Yahweh.” ^23^ Yahweh of Armies says: “In those days, ten men out of all the languages of the nations will take hold of the skirt of him who is a Jew, saying, ‘We will go with you, for we have heard that God is with you.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## El juicio de Dios sobre los pueblos hostiles en Siria y Fenicia y su defensa de Jerusalén
@@ -343,12 +352,13 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^a^[**9:11** Éxod 24,8] ^b^[**9:12** Is 61,7] ^c^[**9:13** Dan 8,21-22]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ A revelation. Yahweh’s word is against the land of Hadrach, and will rest upon Damascus— for the eye of man and of all the tribes of Israel is toward Yahweh— ^2^ and Hamath, also, which borders on it, Tyre and Sidon, because they are very wise. ^3^ Tyre built herself a stronghold, and heaped up silver like the dust, and fine gold like the mire of the streets. ^4^ Behold, the Lord will dispossess her, and he will strike her power in the sea; and she will be devoured with fire. ^5^ Ashkelon will see it, and fear; Gaza also, and will writhe in agony; as will Ekron, for her expectation will be disappointed; and the king will perish from Gaza, and Ashkelon will not be inhabited. ^6^ Foreigners will dwell in Ashdod, and I will cut off the pride of the Philistines. ^7^ I will take away his blood out of his mouth, and his abominations from between his teeth; and he also will be a remnant for our God; and he will be as a chieftain in Judah, and Ekron as a Jebusite. ^8^ I will encamp around my house against the army, that no one pass through or return; and no oppressor will pass through them any more: for now I have seen with my eyes. ^9^ Rejoice greatly, daughter of Zion! Shout, daughter of Jerusalem! Behold, your King comes to you! He is righteous, and having salvation; lowly, and riding on a donkey, even on a colt, the foal of a donkey. ^10^ I will cut off the chariot from Ephraim and the horse from Jerusalem. The battle bow will be cut off; and he will speak peace to the nations. His dominion will be from sea to sea, and from the River to the ends of the earth. ^11^ As for you also, because of the blood of your covenant, I have set free your prisoners from the pit in which is no water. ^12^ Turn to the stronghold, you prisoners of hope! Even today I declare that I will restore double to you. ^13^ For indeed I bend Judah as a bow for me. I have loaded the bow with Ephraim. I will stir up your sons, Zion, against your sons, Greece, and will make you like the sword of a mighty man. ^14^ Yahweh will be seen over them. His arrow will flash like lightning. The Lord Yahweh will blow the trumpet, and will go with whirlwinds of the south. ^15^ Yahweh of Armies will defend them. They will destroy and overcome with sling stones. They will drink, and roar as through wine. They will be filled like bowls, like the corners of the altar. ^16^ Yahweh their God will save them in that day as the flock of his people; for they are like the jewels of a crown, lifted on high over his land. ^17^ For how great is his goodness, and how great is his beauty! Grain will make the young men flourish, and new wine the virgins. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## Dios solo otorga todas las bendiciones; los ídolos y los profetas mentirosos solo crean daño
@@ -364,13 +374,14 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^a^[**10:9** Is 66,19] ^b^[**10:11** Éxod 14,16; Is 11,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ Ask of Yahweh rain in the spring time, Yahweh who makes storm clouds, and he gives rain showers to everyone for the plants in the field. ^2^ For the teraphim^a^ have spoken vanity, and the diviners have seen a lie; and they have told false dreams. They comfort in vain. Therefore they go their way like sheep. They are oppressed, because there is no shepherd. ^3^ My anger is kindled against the shepherds, and I will punish the male goats, for Yahweh of Armies has visited his flock, the house of Judah, and will make them as his majestic horse in the battle. ^4^ From him will come the cornerstone, from him the tent peg, from him the battle bow, from him every ruler together. ^5^ They will be as mighty men, treading down muddy streets in the battle. They will fight, because Yahweh is with them. The riders on horses will be confounded. ^6^ “I will strengthen the house of Judah, and I will save the house of Joseph. I will bring them back, for I have mercy on them. They will be as though I had not cast them off, for I am Yahweh their God, and I will hear them. ^7^ Ephraim will be like a mighty man, and their heart will rejoice as through wine. Yes, their children will see it and rejoice. Their heart will be glad in Yahweh. ^8^ I will signal for them and gather them, for I have redeemed them. They will increase as they were before. ^9^ I will sow them among the peoples. They will remember me in far countries. They will live with their children and will return. ^10^ I will bring them again also out of the land of Egypt, and gather them out of Assyria. I will bring them into the land of Gilead and Lebanon; and there won’t be room enough for them. ^11^ He will pass through the sea of affliction, and will strike the waves in the sea, and all the depths of the Nile will dry up; and the pride of Assyria will be brought down, and the scepter of Egypt will depart. ^12^ I will strengthen them in Yahweh. They will walk up and down in his name,” says Yahweh.
 ^a^[**10:2** teraphim were household idols that may have been associated with inheritance rights to the household property.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## El terrible colapso de la potencia mundial hostil
@@ -388,6 +399,7 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^15^ El Señor me dijo: “Vuelve a tomar para ti el equipo de un pastor insensato. ^16^ Porque he aquí que yo suscitaré en la tierra un pastor que no visitará a los desheredados, ni buscará a los dispersos, ni curará a los rotos, ni alimentará a los sanos; sino que comerá la carne de las ovejas gordas, y les desgarrará las pezuñas. ^17^ ¡Ay del pastor inútil que abandona el rebaño! La espada golpeará su brazo y su ojo derecho. Su brazo se marchitará por completo, y su ojo derecho quedará totalmente ciego”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ Open your doors, Lebanon, that the fire may devour your cedars. ^2^ Wail, cypress tree, for the cedar has fallen, because the stately ones are destroyed. Wail, you oaks of Bashan, for the strong forest has come down. ^3^ A voice of the wailing of the shepherds! For their glory is destroyed—a voice of the roaring of young lions! For the pride of the Jordan is ruined. 
@@ -398,8 +410,8 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 
 ^15^ Yahweh said to me, “Take for yourself yet again the equipment of a foolish shepherd. ^16^ For, behold, I will raise up a shepherd in the land who will not visit those who are cut off, neither will seek those who are scattered, nor heal that which is broken, nor feed that which is sound; but he will eat the meat of the fat sheep, and will tear their hoofs in pieces. ^17^ Woe to the worthless shepherd who leaves the flock! The sword will strike his arm and his right eye. His arm will be completely withered, and his right eye will be totally blinded!” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## Embestida de los gentiles en Jerusalén; Salvación de la ciudad por Dios y por el mérito de Judá
@@ -420,6 +432,7 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^a^[**12:10** Después de “yo”, el hebreo tiene las dos letras “Aleph Tav” (la primera y la última del alfabeto hebreo), no como una palabra, sino como un marcador gramatical.] ^b^[**12:10** Jl 2,28; Juan 19,37; Apoc 1,7] ^c^[**12:11** 2Cró 35,22-25]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ A revelation of Yahweh’s word concerning Israel: Yahweh, who stretches out the heavens and lays the foundation of the earth, and forms the spirit of man within him says: ^2^ “Behold, I will make Jerusalem a cup of reeling to all the surrounding peoples, and it will also be on Judah in the siege against Jerusalem. ^3^ It will happen in that day that I will make Jerusalem a burdensome stone for all the peoples. All who burden themselves with it will be severely wounded, and all the nations of the earth will be gathered together against it. ^4^ In that day,” says Yahweh, “I will strike every horse with terror and his rider with madness. I will open my eyes on the house of Judah, and will strike every horse of the peoples with blindness. ^5^ The chieftains of Judah will say in their heart, ‘The inhabitants of Jerusalem are my strength in Yahweh of Armies their God.’ 
@@ -431,8 +444,8 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^10^ I will pour on David’s house and on the inhabitants of Jerusalem the spirit of grace and of supplication. They will look to me^a^ whom they have pierced; and they shall mourn for him as one mourns for his only son, and will grieve bitterly for him as one grieves for his firstborn. ^11^ In that day there will be a great mourning in Jerusalem, like the mourning of Hadadrimmon in the valley of Megiddo. ^12^ The land will mourn, every family apart; the family of David’s house apart, and their wives apart; the family of the house of Nathan apart, and their wives apart; ^13^ the family of the house of Levi apart, and their wives apart; the family of the Shimeites apart, and their wives apart; ^14^ all the families who remain, every family apart, and their wives apart.
 ^a^[**12:10** After “me”, the Hebrew has the two letters “Aleph Tav” (the first and last letters of the Hebrew alphabet), not as a word, but as a grammatical marker.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## El pecado divino del pueblo; Eliminación de la idolatría, la falsa profecía y toda inmundicia
@@ -447,14 +460,15 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ^a^[**13:7** Mat 26,31] ^b^[**13:8** Is 6,13] ^c^[**13:9** Os 2,23]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ “In that day there will be a fountain opened to David’s house and to the inhabitants of Jerusalem, for sin and for uncleanness. 
 
 ^2^ It will come to pass in that day, says Yahweh of Armies, that I will cut off the names of the idols out of the land, and they will be remembered no more. I will also cause the prophets and the spirit of impurity to pass out of the land. ^3^ It will happen that when anyone still prophesies, then his father and his mother who bore him will tell him, ‘You must die, because you speak lies in Yahweh’s name;’ and his father and his mother who bore him will stab him when he prophesies. ^4^ It will happen in that day that the prophets will each be ashamed of his vision when he prophesies; they won’t wear a hairy mantle to deceive, ^5^ but he will say, ‘I am no prophet, I am a tiller of the ground; for I have been made a bondservant from my youth.’ ^6^ One will say to him, ‘What are these wounds between your arms?’ Then he will answer, ‘Those with which I was wounded in the house of my friends.’ ^7^ “Awake, sword, against my shepherd, and against the man who is close to me,” says Yahweh of Armies. “Strike the shepherd, and the sheep will be scattered; and I will turn my hand against the little ones. ^8^ It shall happen that in all the land,” says Yahweh, “two parts in it will be cut off and die; but the third will be left in it. ^9^ I will bring the third part into the fire, and will refine them as silver is refined, and will test them like gold is tested. They will call on my name, and I will hear them. I will say, ‘It is my people;’ and they will say, ‘Yahweh is my God.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## El día del Señor: lucha, dificultades y salvación en Jerusalén
@@ -486,6 +500,7 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 ## En Judá y Jerusalén, incluso los objetos de uso más comunes serán santificados
 ^20^ En aquel día se inscribirá en las campanas de los caballos: “SANTO A YAHWEH”; y las ollas de la casa de Yahvé serán como los tazones ante el altar. ^[**14:20** Éxod 28,36] ^21^ Sí, todas las ollas de Jerusalén y de Judá serán santas a Yavé de los Ejércitos; y todos los que sacrifican vendrán a tomar de ellas y a cocinar en ellas. En ese día ya no habrá un cananeo^[**14:21** o, comerciante] en la casa de Yavé de los Ejércitos. ^[**14:21** Apoc 21,27]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ Behold, a day of Yahweh comes, when your plunder will be divided within you. ^2^ For I will gather all nations against Jerusalem to battle; and the city will be taken, the houses rifled, and the women ravished. Half of the city will go out into captivity, and the rest of the people will not be cut off from the city. ^3^ Then Yahweh will go out and fight against those nations, as when he fought in the day of battle. ^4^ His feet will stand in that day on the Mount of Olives, which is before Jerusalem on the east; and the Mount of Olives will be split in two from east to west, making a very great valley. Half of the mountain will move toward the north, and half of it toward the south. ^5^ You shall flee by the valley of my mountains, for the valley of the mountains shall reach to Azel. Yes, you shall flee, just like you fled from before the earthquake in the days of Uzziah king of Judah. Yahweh my God will come, and all the holy ones with you.^a^ 
@@ -507,4 +522,5 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 
 ^20^ In that day there will be inscribed on the bells of the horses, “HOLY TO YAHWEH”; and the pots in Yahweh’s house will be like the bowls before the altar. ^21^ Yes, every pot in Jerusalem and in Judah will be holy to Yahweh of Armies; and all those who sacrifice will come and take of them, and cook in them. In that day there will no longer be a Canaanite^a^ in the house of Yahweh of Armies. 
 ^a^[**14:21** or, merchant]
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

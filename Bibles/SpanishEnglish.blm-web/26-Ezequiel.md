@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## El llamamiento y ordenación de Ezequiel como profeta; la aparición de la gloria de Dios
@@ -29,6 +30,7 @@
 ^a^[**1:26** o, lapislázuli] ^b^[**1:26** Ezeq 1,22] ^c^[**1:28** Apoc 4,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Now in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, the heavens were opened, and I saw visions of God.^a^ 
@@ -53,8 +55,8 @@
 
 This was the appearance of the likeness of Yahweh’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## La misión de Ezequiel por Israel renegado
@@ -70,6 +72,7 @@ This was the appearance of the likeness of Yahweh’s glory. When I saw it, I fe
 ^a^[**2:9** Apoc 10,8-11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ He said to me, “Son of man, stand on your feet, and I will speak with you.” ^2^ The Spirit entered into me when he spoke to me, and set me on my feet; and I heard him who spoke to me. 
@@ -79,8 +82,8 @@ This was the appearance of the likeness of Yahweh’s glory. When I saw it, I fe
 
 ^9^ When I looked, behold, a hand was stretched out to me; and behold, a scroll of a book was in it. ^10^ He spread it before me. It was written within and without; and lamentations, mourning, and woe were written in it. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ^1^ Me dijo: “Hijo de hombre, come lo que encuentres. Come este rollo, y vete, habla a la casa de Israel”. ^a^
@@ -117,6 +120,7 @@ This was the appearance of the likeness of Yahweh’s glory. When I saw it, I fe
 ^a^[**3:24** Ezeq 2,2] ^b^[**3:26** Ezeq 2,5; Ezeq 2,7] ^c^[**3:27** Ezeq 3,11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ He said to me, “Son of man, eat what you find. Eat this scroll, and go, speak to the house of Israel.” 
@@ -144,8 +148,8 @@ Then I ate it. It was as sweet as honey in my mouth.
 
 ^24^ Then the Spirit entered into me and set me on my feet. He spoke with me, and said to me, “Go, shut yourself inside your house. ^25^ But you, son of man, behold, they will put ropes on you, and will bind you with them, and you will not go out among them. ^26^ I will make your tongue stick to the roof of your mouth so that you will be mute and will not be able to correct them, for they are a rebellious house. ^27^ But when I speak with you, I will open your mouth, and you shall tell them, ‘This is what the Lord Yahweh says.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Primera señal: la ciudad sitiada de Jerusalén
@@ -169,6 +173,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 ^a^[**4:16** Ezeq 5,16]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ “You also, son of man, take a tile, and lay it before yourself, and portray on it a city, even Jerusalem. ^2^ Lay siege against it, build forts against it, and cast up a mound against it. Also set camps against it and plant battering rams against it all around. ^3^ Take for yourself an iron pan and set it for a wall of iron between you and the city. Then set your face toward it. It will be besieged, and you shall lay siege against it. This shall be a sign to the house of Israel. 
@@ -178,7 +183,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 ^6^ “Again, when you have accomplished these, you shall lie on your right side, and shall bear the iniquity of the house of Judah. I have appointed forty days, each day for a year, to you. ^7^ You shall set your face toward the siege of Jerusalem, with your arm uncovered; and you shall prophesy against it. ^8^ Behold, I put ropes on you, and you shall not turn yourself from one side to the other, until you have accomplished the days of your siege. 
 
 ^9^ “Take for yourself also wheat, barley, beans, lentils, millet, and spelt, and put them in one vessel. Make bread of it. According to the number of the days that you will lie on your side, even three hundred ninety days, you shall eat of it. ^10^ Your food which you shall eat shall be by weight, twenty shekels^a^ a day. From time to time you shall eat it. ^11^ You shall drink water by measure, the sixth part of a hin.^b^ From time to time you shall drink. ^12^ You shall eat it as barley cakes, and you shall bake it in their sight with dung that comes out of man.” ^13^ Yahweh said, “Even thus will the children of Israel eat their bread unclean, among the nations where I will drive them.” 
-^a^[**4:10** A shekel is about 10 grams or about 0. 35 ounces.] ^b^[**4:11** A hin is about 6. 5 liters or 1. 7 gallons.]
+^a^[**4:10** A shekel is about 10 grams or about 0.35 ounces.] ^b^[**4:11** A hin is about 6.5 liters or 1.7 gallons.]
 
 ^14^ Then I said, “Ah Lord Yahweh! Behold, my soul has not been polluted; for from my youth up even until now I have not eaten of that which dies of itself, or is torn of animals. No abominable meat has come into my mouth!” 
 
@@ -186,8 +191,8 @@ Then I ate it. It was as sweet as honey in my mouth.
 
 ^16^ Moreover he said to me, “Son of man, behold, I will break the staff of bread in Jerusalem. They will eat bread by weight, and with fearfulness. They will drink water by measure, and in dismay; ^17^ that they may lack bread and water, be dismayed one with another, and pine away in their iniquity. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Cuarto signo: la aniquilación total del pueblo, salvo un pequeño remanente, al final del asedio
@@ -206,6 +211,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 ^a^[**5:15** Jer 24,9] ^b^[**5:16** Deut 32,23; Ezeq 4,16] ^c^[**5:17** Ezeq 14,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ “You, son of man, take a sharp sword. You shall take it as a barber’s razor to yourself, and shall cause it to pass over your head and over your beard. Then take balances to weigh and divide the hair. ^2^ A third part you shall burn in the fire in the middle of the city, when the days of the siege are fulfilled. You shall take a third part, and strike with the sword around it. A third part you shall scatter to the wind, and I will draw out a sword after them. ^3^ You shall take a small number of these and bind them in the folds of your robe. ^4^ Of these again you shall take, and cast them into the middle of the fire, and burn them in the fire. From it a fire will come out into all the house of Israel. 
@@ -218,8 +224,8 @@ Then I ate it. It was as sweet as honey in my mouth.
 
 ^14^ “‘Moreover I will make you a desolation and a reproach among the nations that are around you, in the sight of all that pass by. ^15^ So it will be a reproach and a taunt, an instruction and an astonishment, to the nations that are around you, when I execute judgments on you in anger and in wrath, and in wrathful rebukes—I, Yahweh, have spoken it— ^16^ when I send on them the evil arrows of famine that are for destruction, which I will send to destroy you. I will increase the famine on you and will break your staff of bread. ^17^ I will send on you famine and evil animals, and they will bereave you. Pestilence and blood will pass through you. I will bring the sword on you. I, Yahweh, have spoken it.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Anuncio de la aniquilación completa de todos los lugares de idolatría
@@ -235,6 +241,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 ^a^[**6:13** 1Re 14,23] ^b^[**6:14** Ezeq 6,7]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, set your face toward the mountains of Israel, and prophesy to them, ^3^ and say, ‘You mountains of Israel, hear the word of the Lord Yahweh! The Lord Yahweh says to the mountains and to the hills, to the watercourses and to the valleys: “Behold, I, even I, will bring a sword on you, and I will destroy your high places. ^4^ Your altars will become desolate, and your incense altars will be broken. I will cast down your slain men before your idols. ^5^ I will lay the dead bodies of the children of Israel before their idols. I will scatter your bones around your altars. ^6^ In all your dwelling places, the cities will be laid waste and the high places will be desolate, so that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your incense altars may be cut down, and your works may be abolished. ^7^ The slain will fall among you, and you will know that I am Yahweh. 
@@ -242,8 +249,9 @@ Then I ate it. It was as sweet as honey in my mouth.
 ^8^ “‘“Yet I will leave a remnant, in that you will have some that escape the sword among the nations, when you are scattered through the countries. ^9^ Those of you that escape will remember me among the nations where they are carried captive, how I have been broken with their lewd heart, which has departed from me, and with their eyes, which play the prostitute after their idols. Then they will loathe themselves in their own sight for the evils which they have committed in all their abominations. ^10^ They will know that I am Yahweh. I have not said in vain that I would do this evil to them.”’ 
 
 ^11^ “The Lord Yahweh says: ‘Strike with your hand, and stamp with your foot, and say, “Alas!”, because of all the evil abominations of the house of Israel; for they will fall by the sword, by the famine, and by the pestilence. ^12^ He who is far off will die of the pestilence. He who is near will fall by the sword. He who remains and is besieged will die by the famine. Thus I will accomplish my wrath on them. ^13^ You will know that I am Yahweh when their slain men are among their idols around their altars, on every high hill, on all the tops of the mountains, under every green tree, and under every thick oak—the places where they offered pleasant aroma to all their idols. ^14^ I will stretch out my hand on them and make the land desolate and waste, from the wilderness toward Diblah, throughout all their habitations. Then they will know that I am Yahweh.’” 
-\bibleendparacol
-\biblebeginparacol
+
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Anuncio del juicio final que vendrá sobre la tierra y el pueblo y todos sus horrores
@@ -261,6 +269,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 ^23^ “‘Hagan cadenas, porque la tierra está llena de crímenes sangrientos, y la ciudad está llena de violencia. ^24^ Por eso traeré a los peores de las naciones, y poseerán sus casas. También haré que cese el orgullo de los fuertes. Sus lugares santos serán profanados. ^25^ ¡Viene la destrucción! Buscarán la paz, y no la habrá. ^26^ El mal vendrá sobre el mal, y el rumor será sobre el rumor. Buscarán la visión del profeta; pero la ley perecerá del sacerdote, y el consejo de los ancianos. ^27^ El rey se lamentará, y el príncipe se vestirá de desolación. Las manos del pueblo de la tierra estarán turbadas. Haré con ellos según su camino, y según sus propios juicios los juzgaré. Entonces sabrán que yo soy Yahvé”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ Moreover Yahweh’s word came to me, saying, ^2^ “You, son of man, the Lord Yahweh says to the land of Israel, ‘An end! The end has come on the four corners of the land. ^3^ Now the end is on you, and I will send my anger on you, and will judge you according to your ways. I will bring on you all your abominations. ^4^ My eye will not spare you, neither will I have pity; but I will bring your ways on you, and your abominations will be among you. Then you will know that I am Yahweh.’ 
@@ -273,8 +282,8 @@ Then I ate it. It was as sweet as honey in my mouth.
 
 ^23^ “‘Make chains, for the land is full of bloody crimes, and the city is full of violence. ^24^ Therefore I will bring the worst of the nations, and they will possess their houses. I will also make the pride of the strong to cease. Their holy places will be profaned. ^25^ Destruction comes! They will seek peace, and there will be none. ^26^ Mischief will come on mischief, and rumor will be on rumor. They will seek a vision of the prophet; but the law will perish from the priest, and counsel from the elders. ^27^ The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am Yahweh.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Las abominaciones de la idolatría, la adoración de deidades extranjeras, en el templo de Jerusalén
@@ -309,6 +318,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 ^a^[**8:18** Is 1,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ In the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the elders of Judah sat before me, the Lord Yahweh’s hand fell on me there. ^2^ Then I saw, and behold, a likeness as the appearance of fire—from the appearance of his waist and downward, fire, and from his waist and upward, as the appearance of brightness, as it were glowing metal. ^3^ He stretched out the form of a hand, and took me by a lock of my head; and the Spirit lifted me up between earth and the sky, and brought me in the visions of God to Jerusalem, to the door of the gate of the inner court that looks toward the north, where there was the seat of the image of jealousy, which provokes to jealousy. ^4^ Behold, the glory of the God of Israel was there, according to the appearance that I saw in the plain. 
@@ -335,8 +345,8 @@ When I had dug in the wall, I saw a door.
 
 ^17^ Then he said to me, “Have you seen this, son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? For they have filled the land with violence, and have turned again to provoke me to anger. Behold, they put the branch to their nose. ^18^ Therefore I will also deal in wrath. My eye won’t spare, neither will I have pity. Though they cry in my ears with a loud voice, yet I will not hear them.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## El nombre de los piadosos y la matanza de los impíos habitantes de Jerusalén
@@ -361,6 +371,7 @@ When I had dug in the wall, I saw a door.
 ^11^ He aquí que el hombre vestido de lino, que tenía el tintero a su lado, informó del asunto, diciendo: “He hecho lo que me has mandado”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ Then he cried in my ears with a loud voice, saying, “Cause those who are in charge of the city to draw near, each man with his destroying weapon in his hand.” ^2^ Behold, six men came from the way of the upper gate, which lies toward the north, every man with his slaughter weapon in his hand. One man in the middle of them was clothed in linen, with a writer’s inkhorn by his side. They went in, and stood beside the bronze altar. 
@@ -381,8 +392,8 @@ They went out, and struck in the city.
 
 ^11^ Behold, the man clothed in linen, who had the inkhorn by his side, reported the matter, saying, “I have done as you have commanded me.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## El mandato de Dios de incinerar la ciudad, combinado con una descripción repetida del carro del querubín divino; El retiro de Dios del santuario
@@ -403,6 +414,7 @@ They went out, and struck in the city.
 ^20^ Este es el ser viviente que vi bajo el Dios de Israel junto al río Chebar; y supe que eran querubines. ^21^ Cada uno tenía cuatro rostros, y cada uno cuatro alas. La semejanza de las manos de un hombre estaba debajo de sus alas. ^22^ En cuanto a la semejanza de sus rostros, eran los rostros que vi junto al río Chebar, sus apariencias y ellos mismos. Cada uno de ellos iba de frente.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ Then I looked, and see, in the expanse that was over the head of the cherubim there appeared above them as it were a sapphire^a^ stone, as the appearance of the likeness of a throne. ^2^ He spoke to the man clothed in linen, and said, “Go in between the whirling wheels, even under the cherub, and fill both your hands with coals of fire from between the cherubim, and scatter them over the city.” 
@@ -420,8 +432,8 @@ He went in as I watched. ^3^ Now the cherubim stood on the right side of the hou
 
 ^20^ This is the living creature that I saw under the God of Israel by the river Chebar; and I knew that they were cherubim. ^21^ Every one had four faces, and every one four wings. The likeness of the hands of a man was under their wings. ^22^ As for the likeness of their faces, they were the faces which I saw by the river Chebar, their appearances and themselves. They each went straight forward. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## El juicio de Dios sobre los peores seductores del pueblo; Destierro, conversión y renovación del pueblo; Dios se va de la ciudad
@@ -453,6 +465,7 @@ He went in as I watched. ^3^ Now the cherubim stood on the right side of the hou
 ^a^[**11:22** Ezeq 1,4-28] ^b^[**11:24** Ezeq 3,12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ Moreover the Spirit lifted me up and brought me to the east gate of Yahweh’s house, which looks eastward. Behold, twenty-five men were at the door of the gate; and I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people. ^2^ He said to me, “Son of man, these are the men who devise iniquity, and who give wicked counsel in this city; ^3^ who say, ‘The time is not near to build houses. This is the cauldron, and we are the meat.’ ^4^ Therefore prophesy against them. Prophesy, son of man.” 
@@ -475,8 +488,8 @@ He went in as I watched. ^3^ Now the cherubim stood on the right side of the hou
 
 So the vision that I had seen went up from me. ^25^ Then I spoke to the captives all the things that Yahweh had shown me. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## La emigración del Profeta como ilustración del camino que lleva al príncipe y al pueblo al exilio
@@ -514,6 +527,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^28^ “Por lo tanto, diles: “El Señor Yahvé dice: “Ninguna de mis palabras se aplazará más, sino que se cumplirá la palabra que yo diga”, dice el Señor Yahvé”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ Yahweh’s word also came to me, saying, ^2^ “Son of man, you dwell in the middle of the rebellious house, who have eyes to see, and don’t see, who have ears to hear, and don’t hear; for they are a rebellious house. 
@@ -540,8 +554,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^28^ “Therefore tell them, ‘The Lord Yahweh says: “None of my words will be deferred any more, but the word which I speak will be performed,” says the Lord Yahweh.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ## Contra los falsos profetas
@@ -565,6 +579,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**13:22** Jer 23,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, prophesy against the prophets of Israel who prophesy, and say to those who prophesy out of their own heart, ‘Hear Yahweh’s word: ^3^ The Lord Yahweh says, “Woe to the foolish prophets, who follow their own spirit, and have seen nothing! ^4^ Israel, your prophets have been like foxes in the waste places. ^5^ You have not gone up into the gaps or built up the wall for the house of Israel, to stand in the battle in Yahweh’s day. ^6^ They have seen falsehood and lying divination, who say, ‘Yahweh says;’ but Yahweh has not sent them. They have made men to hope that the word would be confirmed. ^7^ Haven’t you seen a false vision, and haven’t you spoken a lying divination, in that you say, ‘Yahweh says;’ but I have not spoken?” 
@@ -579,8 +594,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^20^ “Therefore the Lord Yahweh says: ‘Behold, I am against your magic bands, with which you hunt the souls to make them fly, and I will tear them from your arms. I will let the souls fly free, even the souls whom you ensnare like birds. ^21^ I will also tear your veils and deliver my people out of your hand; and they will no longer be in your hand to be ensnared. Then you will know that I am Yahweh. ^22^ Because with lies you have grieved the heart of the righteous, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, and be saved alive. ^23^ Therefore you shall no more see false visions nor practice divination. I will deliver my people out of your hand. Then you will know that I am Yahweh.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## Exclusión de los idólatras de los medios de gracia para cuestionar a Dios
@@ -614,6 +629,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**14:21** Lev 26,16-25; Jer 15,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ Then some of the elders of Israel came to me and sat before me. ^2^ Yahweh’s word came to me, saying, ^3^ “Son of man, these men have taken their idols into their heart, and put the stumbling block of their iniquity before their face. Should I be inquired of at all by them? ^4^ Therefore speak to them and tell them, ‘The Lord Yahweh says: “Every man of the house of Israel who takes his idols into his heart and puts the stumbling block of his iniquity before his face then comes to the prophet, I Yahweh will answer him there according to the multitude of his idols, ^5^ that I may take the house of Israel in their own heart, because they are all estranged from me through their idols.”’ 
@@ -634,8 +650,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^21^ For the Lord Yahweh says: “How much more when I send my four severe judgments on Jerusalem—the sword, the famine, the evil animals, and the pestilence—to cut off from it man and animal! ^22^ Yet, behold, there will be left a remnant in it that will be carried out, both sons and daughters. Behold, they will come out to you, and you will see their way and their doings. Then you will be comforted concerning the evil that I have brought on Jerusalem, even concerning all that I have brought on it. ^23^ They will comfort you, when you see their way and their doings; then you will know that I have not done all that I have done in it without cause,” says the Lord Yahweh. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## Jerusalén, la madera inútil de la vid
@@ -646,14 +662,15 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^6^ Por eso dice el Señor Yahvé: “Como la madera de la vid entre los árboles del bosque, que he dado al fuego como combustible, así daré a los habitantes de Jerusalén. ^7^ Pondré mi rostro contra ellos. Saldrán del fuego, pero el fuego los seguirá devorando. Entonces sabrás que yo soy Yahvé, cuando ponga mi rostro contra ellos. ^8^ Haré que la tierra quede desolada, porque han actuado con infidelidad”, dice el Señor Yahvé.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, what is the vine tree more than any tree, the vine branch which is among the trees of the forest? ^3^ Will wood be taken of it to make anything? Will men take a pin of it to hang any vessel on it? ^4^ Behold, it is cast into the fire for fuel; the fire has devoured both its ends, and the middle of it is burned. Is it profitable for any work? ^5^ Behold, when it was whole, it was suitable for no work. How much less, when the fire has devoured it, and it has been burned, will it yet be suitable for any work?” 
 
 ^6^ Therefore the Lord Yahweh says: “As the vine wood among the trees of the forest, which I have given to the fire for fuel, so I will give the inhabitants of Jerusalem. ^7^ I will set my face against them. They will go out from the fire, but the fire will still devour them. Then you will know that I am Yahweh, when I set my face against them. ^8^ I will make the land desolate, because they have acted unfaithfully,” says the Lord Yahweh. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ## Jerusalén, el hijo adoptivo fallido o la esposa infiel
@@ -706,6 +723,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**16:60** Lev 26,45; Os 2,15; Ezeq 37,26; Jer 31,31; Jer 31,34] ^b^[**16:61** Ezeq 20,43] ^c^[**16:63** Ezeq 36,31-32]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ Again Yahweh’s word came to me, saying, ^2^ “Son of man, cause Jerusalem to know her abominations; ^3^ and say, ‘The Lord Yahweh says to Jerusalem: “Your origin and your birth is of the land of the Canaanite. An Amorite was your father, and your mother was a Hittite. ^4^ As for your birth, in the day you were born your navel was not cut. You weren’t washed in water to cleanse you. You weren’t salted at all, nor wrapped in blankets at all. ^5^ No eye pitied you, to do any of these things to you, to have compassion on you; but you were cast out in the open field, because you were abhorred in the day that you were born. 
@@ -738,8 +756,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^59^ “‘For the Lord Yahweh says: “I will also deal with you as you have done, who have despised the oath in breaking the covenant. ^60^ Nevertheless I will remember my covenant with you in the days of your youth, and I will establish an everlasting covenant with you. ^61^ Then you will remember your ways and be ashamed when you receive your sisters, your elder sisters and your younger; and I will give them to you for daughters, but not by your covenant. ^62^ I will establish my covenant with you. Then you will know that I am Yahweh; ^63^ that you may remember, and be confounded, and never open your mouth any more because of your shame, when I have forgiven you all that you have done,” says the Lord Yahweh.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 17
 ## Parábola de la gran águila y la vid infiel y aplicación a Sedequías; Restauración de la realeza davídica
@@ -766,6 +784,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**17:22** Is 11,1; Is 53,2] ^b^[**17:23** Ezeq 20,40; Dan 4,12; Mat 13,32] ^c^[**17:24** Ezeq 21,26]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 17
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, tell a riddle, and speak a parable to the house of Israel; ^3^ and say, ‘The Lord Yahweh says: “A great eagle with great wings and long feathers, full of feathers which had various colors, came to Lebanon and took the top of the cedar. ^4^ He cropped off the topmost of its young twigs, and carried it to a land of traffic. He planted it in a city of merchants. 
@@ -787,8 +806,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 “‘I, Yahweh, have spoken and have done it.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 18
 ## Los principios que gobiernan la justicia retributiva de Dios
@@ -825,11 +844,14 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**18:30** Ezeq 33,11; Is 55,7] ^b^[**18:31** Ezeq 36,26] ^c^[**18:32** Ezeq 18,23]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 18
 ^1^ Yahweh’s word came to me again, saying, ^2^ “What do you mean, that you use this proverb concerning the land of Israel, saying, ‘The fathers have eaten sour grapes, and the children’s teeth are set on edge’? 
 
-^3^ “As I live,” says the Lord Yahweh, “you shall not use this proverb any more in Israel. ^4^ Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine. The soul who sins, he shall die. ^5^ “But if a man is just, and does that which is lawful and right, ^6^ and has not eaten on the mountains, hasn’t lifted up his eyes to the idols of the house of Israel, hasn’t defiled his neighbor’s wife, hasn’t come near a woman in her impurity, ^7^ and has not wronged any, but has restored to the debtor his pledge, has taken nothing by robbery, has given his bread to the hungry, and has covered the naked with a garment; ^8^ he who hasn’t lent to them with interest, hasn’t taken any increase from them, who has withdrawn his hand from iniquity, has executed true justice between man and man, ^9^ has walked in my statutes, and has kept my ordinances, to deal truly; he is just, he shall surely live,” says the Lord Yahweh. ^10^ “If he fathers a son who is a robber who sheds blood, and who does any one of these things, ^11^ or who does not do any of those things but has eaten at the mountain shrines and defiled his neighbor’s wife, ^12^ has wronged the poor and needy, has taken by robbery, has not restored the pledge, and has lifted up his eyes to the idols, has committed abomination, ^13^ has lent with interest, and has taken increase from the poor, shall he then live? He shall not live. He has done all these abominations. He shall surely die. His blood will be on him. 
+^3^ “As I live,” says the Lord Yahweh, “you shall not use this proverb any more in Israel. ^4^ Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine. The soul who sins, he shall die. ^5^ “But if a man is just, and does that which is lawful and right, ^6^ and has not eaten on the mountains, hasn’t lifted up his eyes to the idols of the house of Israel, hasn’t defiled his neighbor’s wife, hasn’t come near a woman in her impurity, ^7^ and has not wronged any, but has restored to the debtor his pledge, has taken nothing by robbery, has given his bread to the hungry, and has covered the naked with a garment; ^8^ he who hasn’t lent to them with interest, hasn’t taken any increase from them, who has withdrawn his hand from iniquity, has executed true justice between man and man, ^9^ has walked in my statutes, and has kept my ordinances, to deal truly; he is just, he shall surely live,” says the Lord Yahweh. 
+
+^10^ “If he fathers a son who is a robber who sheds blood, and who does any one of these things, ^11^ or who does not do any of those things but has eaten at the mountain shrines and defiled his neighbor’s wife, ^12^ has wronged the poor and needy, has taken by robbery, has not restored the pledge, and has lifted up his eyes to the idols, has committed abomination, ^13^ has lent with interest, and has taken increase from the poor, shall he then live? He shall not live. He has done all these abominations. He shall surely die. His blood will be on him. 
 
 ^14^ “Now, behold, if he fathers a son who sees all his father’s sins which he has done, and fears, and doesn’t do likewise, ^15^ who hasn’t eaten on the mountains, hasn’t lifted up his eyes to the idols of the house of Israel, hasn’t defiled his neighbor’s wife, ^16^ hasn’t wronged any, hasn’t taken anything to pledge, hasn’t taken by robbery, but has given his bread to the hungry, and has covered the naked with a garment; ^17^ who has withdrawn his hand from the poor, who hasn’t received interest or increase, has executed my ordinances, has walked in my statutes; he shall not die for the iniquity of his father. He shall surely live. ^18^ As for his father, because he cruelly oppressed, robbed his brother, and did that which is not good among his people, behold, he will die in his iniquity. 
 
@@ -843,8 +865,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^30^ “Therefore I will judge you, house of Israel, everyone according to his ways,” says the Lord Yahweh. “Return, and turn yourselves from all your transgressions, so iniquity will not be your ruin. ^31^ Cast away from you all your transgressions in which you have transgressed; and make yourself a new heart and a new spirit. For why will you die, house of Israel? ^32^ For I have no pleasure in the death of him who dies,” says the Lord Yahweh. “Therefore turn yourselves, and live! 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 19
 ## La imagen de la madre león con sus dos cachorros
@@ -856,12 +878,13 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**19:10** Ezeq 17,6] ^b^[**19:12** Ezeq 15,4]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 19
 ^1^ “Moreover, take up a lamentation for the princes of Israel, ^2^ and say, ‘What was your mother? A lioness. She couched among lions, in the middle of the young lions she nourished her cubs. ^3^ She brought up one of her cubs. He became a young lion. He learned to catch the prey. He devoured men. ^4^ The nations also heard of him. He was taken in their pit; and they brought him with hooks to the land of Egypt. ^5^ “‘Now when she saw that she had waited, and her hope was lost, then she took another of her cubs, and made him a young lion. ^6^ He went up and down among the lions. He became a young lion. He learned to catch the prey. He devoured men. ^7^ He knew their palaces, and laid waste their cities. The land was desolate with its fullness, because of the noise of his roaring. ^8^ Then the nations attacked him on every side from the provinces. They spread their net over him. He was taken in their pit. ^9^ They put him in a cage with hooks, and brought him to the king of Babylon. They brought him into strongholds, so that his voice should no more be heard on the mountains of Israel. ^10^ “‘Your mother was like a vine in your blood, planted by the waters. It was fruitful and full of branches by reason of many waters. ^11^ It had strong branches for the scepters of those who ruled. Their stature was exalted among the thick boughs. They were seen in their height with the multitude of their branches. ^12^ But it was plucked up in fury. It was cast down to the ground, and the east wind dried up its fruit. Its strong branches were broken off and withered. The fire consumed them. ^13^ Now it is planted in the wilderness, in a dry and thirsty land. ^14^ Fire has gone out of its branches. It has devoured its fruit, so that there is in it no strong branch to be a scepter to rule.’ This is a lamentation, and shall be for a lamentation.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 20
 ## Ezequiel presenta ante los ancianos los pecados de sus padres e hijos
@@ -915,6 +938,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^49^ Entonces dije: “¡Ah, Señor Yahvé! Dicen de mí: “¿No es un orador de parábolas?”
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 20
 ^1^ In the seventh year, in the fifth month, the tenth day of the month, some of the elders of Israel came to inquire of Yahweh, and sat before me. 
@@ -942,8 +966,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^49^ Then I said, “Ah Lord Yahweh! They say of me, ‘Isn’t he a speaker of parables?’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 21
 ## La espada asesina de la venganza de Dios contra Jerusalén y los amonitas
@@ -975,6 +999,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**21:28** Ezeq 25,2-7]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 21
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, set your face toward Jerusalem, and preach toward the sanctuaries, and prophesy against the land of Israel. ^3^ Tell the land of Israel, ‘Yahweh says: “Behold, I am against you, and will draw my sword out of its sheath, and will cut off from you the righteous and the wicked. ^4^ Seeing then that I will cut off from you the righteous and the wicked, therefore my sword will go out of its sheath against all flesh from the south to the north. ^5^ All flesh will know that I, Yahweh, have drawn my sword out of its sheath. It will not return any more.”’ 
@@ -982,7 +1007,9 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^6^ “Therefore sigh, you son of man. You shall sigh before their eyes with a broken heart^a^ and with bitterness. ^7^ It shall be, when they ask you, ‘Why do you sigh?’ that you shall say, ‘Because of the news, for it comes! Every heart will melt, all hands will be feeble, every spirit will faint, and all knees will be weak as water. Behold, it comes, and it shall be done, says the Lord Yahweh.’” 
 ^a^[**21:6** literally, the breaking of your thighs]
 
-^8^ Yahweh’s word came to me, saying, ^9^ “Son of man, prophesy, and say, ‘Yahweh says: “A sword! A sword! It is sharpened, and also polished. ^10^ It is sharpened that it may make a slaughter. It is polished that it may be as lightning. Should we then make mirth? The rod of my son condemns every tree. ^11^ It is given to be polished, that it may be handled. The sword is sharpened. Yes, it is polished to give it into the hand of the killer.”’ ^12^ Cry and wail, son of man; for it is on my people. It is on all the princes of Israel. They are delivered over to the sword with my people. Therefore beat your thigh. ^13^ “For there is a trial. What if even the rod that condemns will be no more?” says the Lord Yahweh. ^14^ “You therefore, son of man, prophesy, and strike your hands together. Let the sword be doubled the third time, the sword of the fatally wounded. It is the sword of the great one who is fatally wounded, which enters into their rooms. ^15^ I have set the threatening sword against all their gates, that their heart may melt, and their stumblings be multiplied. Ah! It is made as lightning. It is pointed for slaughter. ^16^ Gather yourselves together. Go to the right. Set yourselves in array. Go to the left, wherever your face is set. ^17^ I will also strike my hands together, and I will cause my wrath to rest. I, Yahweh, have spoken it.” 
+^8^ Yahweh’s word came to me, saying, ^9^ “Son of man, prophesy, and say, ‘Yahweh says: “A sword! A sword! It is sharpened, and also polished. ^10^ It is sharpened that it may make a slaughter. It is polished that it may be as lightning. Should we then make mirth? The rod of my son condemns every tree. ^11^ It is given to be polished, that it may be handled. The sword is sharpened. Yes, it is polished to give it into the hand of the killer.”’ ^12^ Cry and wail, son of man; for it is on my people. It is on all the princes of Israel. They are delivered over to the sword with my people. Therefore beat your thigh. 
+
+^13^ “For there is a trial. What if even the rod that condemns will be no more?” says the Lord Yahweh. ^14^ “You therefore, son of man, prophesy, and strike your hands together. Let the sword be doubled the third time, the sword of the fatally wounded. It is the sword of the great one who is fatally wounded, which enters into their rooms. ^15^ I have set the threatening sword against all their gates, that their heart may melt, and their stumblings be multiplied. Ah! It is made as lightning. It is pointed for slaughter. ^16^ Gather yourselves together. Go to the right. Set yourselves in array. Go to the left, wherever your face is set. ^17^ I will also strike my hands together, and I will cause my wrath to rest. I, Yahweh, have spoken it.” 
 
 ^18^ Yahweh’s word came to me again, saying, ^19^ “Also, you son of man, appoint two ways, that the sword of the king of Babylon may come. They both will come out of one land, and mark out a place. Mark it out at the head of the way to the city. ^20^ You shall appoint a way for the sword to come to Rabbah of the children of Ammon, and to Judah in Jerusalem the fortified. ^21^ For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination. He shook the arrows back and forth. He consulted the teraphim.^a^ He looked in the liver. ^22^ In his right hand was the lot for Jerusalem, to set battering rams, to open the mouth in the slaughter, to lift up the voice with shouting, to set battering rams against the gates, to cast up mounds, and to build forts. ^23^ It will be to them as a false divination in their sight, who have sworn oaths to them; but he brings iniquity to memory, that they may be taken. 
 ^a^[**21:21** teraphim were household idols that may have been associated with inheritance rights to the household property.]
@@ -993,8 +1020,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^28^ “You, son of man, prophesy and say, ‘The Lord Yahweh says this concerning the children of Ammon, and concerning their reproach: “A sword! A sword is drawn! It is polished for the slaughter, to cause it to devour, that it may be as lightning; ^29^ while they see for you false visions, while they divine lies to you, to lay you on the necks of the wicked who are deadly wounded, whose day has come in the time of the iniquity of the end. ^30^ Cause it to return into its sheath. In the place where you were created, in the land of your birth, I will judge you. ^31^ I will pour out my indignation on you. I will blow on you with the fire of my wrath. I will deliver you into the hand of brutish men, skillful to destroy. ^32^ You will be for fuel to the fire. Your blood will be in the middle of the land. You will be remembered no more; for I, Yahweh, have spoken it.”’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 22
 ## La culpa y el castigo de Jerusalén
@@ -1019,6 +1046,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**22:30** Ezeq 13,5] ^b^[**22:31** Ezeq 21,31]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 22
 ^1^ Moreover Yahweh’s word came to me, saying, ^2^ “You, son of man, will you judge? Will you judge the bloody city? Then cause her to know all her abominations. ^3^ You shall say, ‘The Lord Yahweh says: “A city that sheds blood within herself, that her time may come, and that makes idols against herself to defile her! ^4^ You have become guilty in your blood that you have shed, and are defiled in your idols which you have made! You have caused your days to draw near, and have come to the end of your years. Therefore I have made you a reproach to the nations, and a mocking to all the countries. ^5^ Those who are near and those who are far from you will mock you, you infamous one, full of tumult. 
@@ -1034,8 +1062,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^30^ “I sought for a man among them who would build up the wall and stand in the gap before me for the land, that I would not destroy it; but I found no one. ^31^ Therefore I have poured out my indignation on them. I have consumed them with the fire of my wrath. I have brought their own way on their heads,” says the Lord Yahweh. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 23
 ## Se ilustra la corrupción moral de los reinos hermanos Israel y Judá
@@ -1079,6 +1107,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^48^ “‘Así haré cesar la lascivia de la tierra, para que todas las mujeres sean enseñadas a no ser lascivas como tú. ^49^ Ellos pagarán su lascivia sobre ustedes, y cargarán con los pecados de sus ídolos. Entonces sabrás que yo soy el Señor Yahvé’”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 23
 ^1^ Yahweh’s word came again to me, saying, ^2^ “Son of man, there were two women, the daughters of one mother. ^3^ They played the prostitute in Egypt. They played the prostitute in their youth. Their breasts were fondled there, and their youthful nipples were caressed there. ^4^ Their names were Oholah the elder, and Oholibah her sister. They became mine, and they bore sons and daughters. As for their names, Samaria is Oholah, and Jerusalem Oholibah. 
@@ -1109,8 +1138,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^48^ “‘Thus I will cause lewdness to cease out of the land, that all women may be taught not to be lewd like you. ^49^ They will recompense your lewdness on you, and you will bear the sins of your idols. Then you will know that I am the Lord Yahweh.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 24
 ## Parábola de la cacerola oxidada e incurable y su destino
@@ -1139,6 +1168,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**24:26** Ezeq 33,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 24
 ^1^ Again, in the ninth year, in the tenth month, in the tenth day of the month, Yahweh’s word came to me, saying, ^2^ “Son of man, write the name of the day, this same day. The king of Babylon drew close to Jerusalem this same day. ^3^ Utter a parable to the rebellious house, and tell them, ‘The Lord Yahweh says, “Put the cauldron on the fire. Put it on, and also pour water into it. ^4^ Gather its pieces into it, even every good piece: the thigh and the shoulder. Fill it with the choice bones. ^5^ Take the choice of the flock, and also a pile of wood for the bones under the cauldron. Make it boil well. Yes, let its bones be boiled within it.” ^6^ “‘Therefore the Lord Yahweh says: “Woe to the bloody city, to the cauldron whose rust is in it, and whose rust hasn’t gone out of it! Take out of it piece after piece without casting lots for it. ^7^ “‘“For the blood she shed is in the middle of her. She set it on the bare rock. She didn’t pour it on the ground, to cover it with dust. ^8^ That it may cause wrath to come up to take vengeance, I have set her blood on the bare rock, that it should not be covered.” ^9^ “‘Therefore the Lord Yahweh says: “Woe to the bloody city! I also will make the pile great. ^10^ Heap on the wood. Make the fire hot. Boil the meat well. Make the broth thick, and let the bones be burned. ^11^ Then set it empty on its coals, that it may be hot, and its bronze may burn, and that its filthiness may be molten in it, that its rust may be consumed. ^12^ She is weary with toil; yet her great rust, rust by fire, doesn’t leave her. 
@@ -1157,8 +1187,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^25^ “You, son of man, shouldn’t it be in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their heart—their sons and their daughters— ^26^ that in that day he who escapes will come to you, to cause you to hear it with your ears? ^27^ In that day your mouth will be opened to him who has escaped, and you will speak and be no more mute. So you will be a sign to them. Then they will know that I am Yahweh.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 25
 ## Discursos de amenaza contra Ammón, Moab, Edom y los filisteos
@@ -1175,6 +1205,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**25:15** Is 14,29; Jer 47,1; Sof 2,5] ^b^[**25:16** 1Sam 30,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 25
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, set your face toward the children of Ammon, and prophesy against them. ^3^ Tell the children of Ammon, ‘Hear the word of the Lord Yahweh! The Lord Yahweh says, “Because you said, ‘Aha!’ against my sanctuary when it was profaned, and against the land of Israel when it was made desolate, and against the house of Judah when they went into captivity, ^4^ therefore, behold, I will deliver you to the children of the east for a possession. They will set their encampments in you and make their dwellings in you. They will eat your fruit and they will drink your milk. ^5^ I will make Rabbah a stable for camels and the children of Ammon a resting place for flocks. Then you will know that I am Yahweh.” ^6^ For the Lord Yahweh says: “Because you have clapped your hands, stamped with the feet, and rejoiced with all the contempt of your soul against the land of Israel, ^7^ therefore, behold, I have stretched out my hand on you, and will deliver you for a plunder to the nations. I will cut you off from the peoples, and I will cause you to perish out of the countries. I will destroy you. Then you will know that I am Yahweh.” 
@@ -1185,8 +1216,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^15^ “‘The Lord Yahweh says: “Because the Philistines have taken revenge, and have taken vengeance with contempt of soul to destroy with perpetual hostility,” ^16^ therefore the Lord Yahweh says, “Behold, I will stretch out my hand on the Philistines, and I will cut off the Cherethites, and destroy the remnant of the sea coast. ^17^ I will execute great vengeance on them with wrathful rebukes. Then they will know that I am Yahweh, when I lay my vengeance on them.”’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 26
 ## El hechizo de Dios contra Tiro
@@ -1204,6 +1235,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^19^ “Porque el Señor Yahvé dice: ‘Cuando te convierta en una ciudad desolada, como las ciudades que no están habitadas, cuando haga subir el abismo sobre ti y te cubran las grandes aguas, ^20^ entonces te haré descender con los que descienden a la fosa, al pueblo de antaño, y te haré habitar en las partes bajas de la tierra, en los lugares desolados de antaño, con los que descienden a la fosa, para que no seas habitada; y pondré la gloria en la tierra de los vivos. ^21^ Te convertiré en un terror, y ya no tendrás ningún ser. Aunque se te busque, nunca más se te encontrará’, dice el Señor Yahvé”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 26
 ^1^ In the eleventh year, in the first of the month, Yahweh’s word came to me, saying, ^2^ “Son of man, because Tyre has said against Jerusalem, ‘Aha! She is broken! She who was the gateway of the peoples has been returned to me. I will be replenished, now that she is laid waste;’ ^3^ therefore the Lord Yahweh says, ‘Behold, I am against you, Tyre, and will cause many nations to come up against you, as the sea causes its waves to come up. ^4^ They will destroy the walls of Tyre, and break down her towers. I will also scrape her dust from her, and make her a bare rock. ^5^ She will be a place for the spreading of nets in the middle of the sea; for I have spoken it,’ says the Lord Yahweh. ‘She will become plunder for the nations. ^6^ Her daughters who are in the field will be slain with the sword. Then they will know that I am Yahweh.’ 
@@ -1214,8 +1246,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^19^ “For the Lord Yahweh says: ‘When I make you a desolate city, like the cities that are not inhabited, when I bring up the deep on you, and the great waters cover you, ^20^ then I will bring you down with those who descend into the pit, to the people of old time, and will make you dwell in the lower parts of the earth, in the places that are desolate of old, with those who go down to the pit, that you be not inhabited; and I will set glory in the land of the living. ^21^ I will make you a terror, and you will no more have any being. Though you are sought for, yet you will never be found again,’ says the Lord Yahweh.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 27
 ## Tiro como barco de soberbia esplendor; la gloria de la ciudad, especialmente como el mercado mundial
@@ -1253,6 +1285,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**27:36** Ezeq 28,19]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 27
 ^1^ Yahweh’s word came again to me, saying, ^2^ “You, son of man, take up a lamentation over Tyre; ^3^ and tell Tyre, ‘You who dwell at the entry of the sea, who are the merchant of the peoples to many islands, the Lord Yahweh says: “You, Tyre, have said, ‘I am perfect in beauty.’ ^4^ Your borders are in the heart of the seas. Your builders have perfected your beauty. ^5^ They have made all your planks of cypress trees from Senir. They have taken a cedar from Lebanon to make a mast for you. ^6^ They have made your oars of the oaks of Bashan. They have made your benches of ivory inlaid in cypress wood from the islands of Kittim. ^7^ Your sail was of fine linen with embroidered work from Egypt, that it might be to you for a banner. Blue and purple from the islands of Elishah was your awning. ^8^ The inhabitants of Sidon and Arvad were your rowers. Your wise men, Tyre, were in you. They were your pilots. ^9^ The old men of Gebal and its wise men were your repairers of ship seams in you. All the ships of the sea with their mariners were in you to deal in your merchandise. ^10^ “‘“Persia, Lud, and Put were in your army, your men of war. They hung the shield and helmet in you. They showed your beauty. ^11^ The men of Arvad with your army were on your walls all around, and valiant men were in your towers. They hung their shields on your walls all around. They have perfected your beauty. 
@@ -1281,8 +1314,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^23^ “‘“Haran, Canneh, Eden, the traders of Sheba, Asshur and Chilmad, were your traders. ^24^ These were your traders in choice wares, in wrappings of blue and embroidered work, and in cedar chests of rich clothing bound with cords, among your merchandise. ^25^ “‘“The ships of Tarshish were your caravans for your merchandise. You were replenished and made very glorious in the heart of the seas. ^26^ Your rowers have brought you into great waters. The east wind has broken you in the heart of the seas. ^27^ Your riches, your wares, your merchandise, your mariners, your pilots, your repairers of ship seams, the dealers in your merchandise, and all your men of war who are in you, with all your company which is among you, will fall into the heart of the seas in the day of your ruin. ^28^ At the sound of the cry of your pilots, the pasture lands will shake. ^29^ All who handle the oars, the mariners and all the pilots of the sea, will come down from their ships. They will stand on the land, ^30^ and will cause their voice to be heard over you, and will cry bitterly. They will cast up dust on their heads. They will wallow in the ashes. ^31^ They will make themselves bald for you, and clothe themselves with sackcloth. They will weep for you in bitterness of soul, with bitter mourning. ^32^ In their wailing they will take up a lamentation for you, and lament over you, saying, ‘Who is there like Tyre, like her who is brought to silence in the middle of the sea?’ ^33^ When your wares came from the seas, you filled many peoples. You enriched the kings of the earth with the multitude of your riches and of your merchandise. ^34^ In the time that you were broken by the seas, in the depths of the waters, your merchandise and all your company fell within you. ^35^ All the inhabitants of the islands are astonished at you, and their kings are horribly afraid. They are troubled in their face. ^36^ The merchants among the peoples hiss at you. You have come to a terrible end, and you will be no more.”’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 28
 ## El juicio de Dios sobre la arrogancia del príncipe
@@ -1306,11 +1339,15 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^25^ “‘El Señor Yahvé dice: “Cuando haya reunido a la casa de Israel de entre los pueblos en los que está dispersa, y me muestre como santo entre ellos a la vista de las naciones, entonces habitarán en su propia tierra que le di a mi siervo Jacob. ^26^ Habitarán en ella con seguridad. Sí, construirán casas, plantarán viñedos y habitarán con seguridad cuando yo haya ejecutado juicios sobre todos los que los rodean y los han tratado con desprecio. Entonces sabrán que yo soy Yahvé, su Dios”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 28
 ^1^ Yahweh’s word came again to me, saying, ^2^ “Son of man, tell the prince of Tyre, ‘The Lord Yahweh says: “Because your heart is lifted up, and you have said, ‘I am a god, I sit in the seat of God, in the middle of the seas;’ yet you are man, and no god, though you set your heart as the heart of a god— ^3^ behold, you are wiser than Daniel. There is no secret that is hidden from you. ^4^ By your wisdom and by your understanding you have gotten yourself riches, and have gotten gold and silver into your treasuries. ^5^ By your great wisdom and by your trading you have increased your riches, and your heart is lifted up because of your riches—” 
 
-^6^ “‘therefore the Lord Yahweh says: “Because you have set your heart as the heart of God, ^7^ therefore, behold, I will bring strangers on you, the terrible of the nations. They will draw their swords against the beauty of your wisdom. They will defile your brightness. ^8^ They will bring you down to the pit. You will die the death of those who are slain in the heart of the seas. ^9^ Will you yet say before him who kills you, ‘I am God’? But you are man, and not God, in the hand of him who wounds you. ^10^ You will die the death of the uncircumcised by the hand of strangers; for I have spoken it,” says the Lord Yahweh.’” ^11^ Moreover Yahweh’s word came to me, saying, ^12^ “Son of man, take up a lamentation over the king of Tyre, and tell him, ‘The Lord Yahweh says: “You were the seal of full measure, full of wisdom, and perfect in beauty. ^13^ You were in Eden, the garden of God. Every precious stone adorned you: ruby, topaz, emerald, chrysolite, onyx, jasper, sapphire,^a^ turquoise, and beryl. Gold work of tambourines and of pipes was in you. They were prepared in the day that you were created. ^14^ You were the anointed cherub who covers. Then I set you up on the holy mountain of God. You have walked up and down in the middle of the stones of fire. ^15^ You were perfect in your ways from the day that you were created, until unrighteousness was found in you. ^16^ By the abundance of your commerce, your insides were filled with violence, and you have sinned. Therefore I have cast you as profane out of God’s mountain. I have destroyed you, covering cherub, from the middle of the stones of fire. ^17^ Your heart was lifted up because of your beauty. You have corrupted your wisdom by reason of your splendor. I have cast you to the ground. I have laid you before kings, that they may see you. ^18^ By the multitude of your iniquities, in the unrighteousness of your commerce, you have profaned your sanctuaries. Therefore I have brought out a fire from the middle of you. It has devoured you. I have turned you to ashes on the earth in the sight of all those who see you. ^19^ All those who know you among the peoples will be astonished at you. You have become a terror, and you will exist no more.”’” ^a^[**28:13** or, lapis lazuli ]
+^6^ “‘therefore the Lord Yahweh says: “Because you have set your heart as the heart of God, ^7^ therefore, behold, I will bring strangers on you, the terrible of the nations. They will draw their swords against the beauty of your wisdom. They will defile your brightness. ^8^ They will bring you down to the pit. You will die the death of those who are slain in the heart of the seas. ^9^ Will you yet say before him who kills you, ‘I am God’? But you are man, and not God, in the hand of him who wounds you. ^10^ You will die the death of the uncircumcised by the hand of strangers; for I have spoken it,” says the Lord Yahweh.’” 
+
+^11^ Moreover Yahweh’s word came to me, saying, ^12^ “Son of man, take up a lamentation over the king of Tyre, and tell him, ‘The Lord Yahweh says: “You were the seal of full measure, full of wisdom, and perfect in beauty. ^13^ You were in Eden, the garden of God. Every precious stone adorned you: ruby, topaz, emerald, chrysolite, onyx, jasper, sapphire,^a^ turquoise, and beryl. Gold work of tambourines and of pipes was in you. They were prepared in the day that you were created. ^14^ You were the anointed cherub who covers. Then I set you up on the holy mountain of God. You have walked up and down in the middle of the stones of fire. ^15^ You were perfect in your ways from the day that you were created, until unrighteousness was found in you. ^16^ By the abundance of your commerce, your insides were filled with violence, and you have sinned. Therefore I have cast you as profane out of God’s mountain. I have destroyed you, covering cherub, from the middle of the stones of fire. ^17^ Your heart was lifted up because of your beauty. You have corrupted your wisdom by reason of your splendor. I have cast you to the ground. I have laid you before kings, that they may see you. ^18^ By the multitude of your iniquities, in the unrighteousness of your commerce, you have profaned your sanctuaries. Therefore I have brought out a fire from the middle of you. It has devoured you. I have turned you to ashes on the earth in the sight of all those who see you. ^19^ All those who know you among the peoples will be astonished at you. You have become a terror, and you will exist no more.”’” 
+^a^[**28:13** or, lapis lazuli ]
 
 ^20^ Yahweh’s word came to me, saying, ^21^ “Son of man, set your face toward Sidon, and prophesy against it, ^22^ and say, ‘The Lord Yahweh says: “Behold, I am against you, Sidon. I will be glorified among you. Then they will know that I am Yahweh, when I have executed judgments in her, and am sanctified in her. ^23^ For I will send pestilence into her, and blood into her streets. The wounded will fall within her, with the sword on her on every side. Then they will know that I am Yahweh. 
 
@@ -1318,8 +1355,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^25^ “‘The Lord Yahweh says: “When I have gathered the house of Israel from the peoples among whom they are scattered, and am shown as holy among them in the sight of the nations, then they will dwell in their own land which I gave to my servant Jacob. ^26^ They will dwell in it securely. Yes, they will build houses, plant vineyards, and will dwell securely when I have executed judgments on all those around them who have treated them with contempt. Then they will know that I am Yahweh their God.”’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 29
 ## Caída de Egipto y posterior restauración; Compensación de Nabucodonosor
@@ -1346,6 +1383,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^21^ “En aquel día haré brotar un cuerno para la casa de Israel, y abriré tu boca entre ellos. Entonces sabrán que yo soy Yahvé”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 29
 ^1^ In the tenth year, in the tenth month, on the twelfth day of the month, Yahweh’s word came to me, saying, ^2^ “Son of man, set your face against Pharaoh king of Egypt, and prophesy against him and against all Egypt. ^3^ Speak and say, ‘The Lord Yahweh says: “Behold, I am against you, Pharaoh king of Egypt, the great monster that lies in the middle of his rivers, that has said, ‘My river is my own, and I have made it for myself.’ ^4^ I will put hooks in your jaws, and I will make the fish of your rivers stick to your scales. I will bring you up out of the middle of your rivers, with all the fish of your rivers which stick to your scales. ^5^ I’ll cast you out into the wilderness, you and all the fish of your rivers. You’ll fall on the open field. You won’t be brought together or gathered. I have given you for food to the animals of the earth and to the birds of the sky. 
@@ -1356,12 +1394,14 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 “‘“Because he has said, ‘The river is mine, and I have made it,’ ^10^ therefore, behold, I am against you and against your rivers. I will make the land of Egypt an utter waste and desolation, from the tower of Seveneh even to the border of Ethiopia. ^11^ No foot of man will pass through it, nor will any animal foot pass through it. It won’t be inhabited for forty years. ^12^ I will make the land of Egypt a desolation in the middle of the countries that are desolate. Her cities among the cities that are laid waste will be a desolation forty years. I will scatter the Egyptians among the nations, and will disperse them through the countries.” 
 
-^13^ “‘For the Lord Yahweh says: “At the end of forty years I will gather the Egyptians from the peoples where they were scattered. ^14^ I will reverse the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their birth. There they will be a lowly kingdom. ^15^ It will be the lowest of the kingdoms. It won’t lift itself up above the nations any more. I will diminish them so that they will no longer rule over the nations. ^16^ It will no longer be the confidence of the house of Israel, bringing iniquity to memory, when they turn to look after them. Then they will know that I am the Lord Yahweh.”’” ^17^ It came to pass in the twenty-seventh year, in the first month, in the first day of the month, Yahweh’s word came to me, saying, ^18^ “Son of man, Nebuchadnezzar king of Babylon caused his army to serve a great service against Tyre. Every head was made bald, and every shoulder was worn; yet he had no wages, nor did his army, from Tyre, for the service that he had served against it. ^19^ Therefore the Lord Yahweh says: ‘Behold, I will give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off her multitude, take her plunder, and take her prey. That will be the wages for his army. ^20^ I have given him the land of Egypt as his payment for which he served, because they worked for me,’ says the Lord Yahweh. 
+^13^ “‘For the Lord Yahweh says: “At the end of forty years I will gather the Egyptians from the peoples where they were scattered. ^14^ I will reverse the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their birth. There they will be a lowly kingdom. ^15^ It will be the lowest of the kingdoms. It won’t lift itself up above the nations any more. I will diminish them so that they will no longer rule over the nations. ^16^ It will no longer be the confidence of the house of Israel, bringing iniquity to memory, when they turn to look after them. Then they will know that I am the Lord Yahweh.”’” 
+
+^17^ It came to pass in the twenty-seventh year, in the first month, in the first day of the month, Yahweh’s word came to me, saying, ^18^ “Son of man, Nebuchadnezzar king of Babylon caused his army to serve a great service against Tyre. Every head was made bald, and every shoulder was worn; yet he had no wages, nor did his army, from Tyre, for the service that he had served against it. ^19^ Therefore the Lord Yahweh says: ‘Behold, I will give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off her multitude, take her plunder, and take her prey. That will be the wages for his army. ^20^ I have given him the land of Egypt as his payment for which he served, because they worked for me,’ says the Lord Yahweh. 
 
 ^21^ “In that day I will cause a horn to sprout for the house of Israel, and I will open your mouth among them. Then they will know that I am Yahweh.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 30
 ## Nuevas palabras amenazadoras sobre el juicio divino que es inminente para los egipcios
@@ -1389,6 +1429,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**30:24** Ezeq 29,20]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 30
 ^1^ Yahweh’s word came again to me, saying, ^2^ “Son of man, prophesy, and say, ‘The Lord Yahweh says: “Wail, ‘Alas for the day!’ ^3^ For the day is near, even Yahweh’s day is near. It will be a day of clouds, a time of the nations. ^4^ A sword will come on Egypt, and anguish will be in Ethiopia, when the slain fall in Egypt. They take away her multitude, and her foundations are broken down. 
@@ -1401,10 +1442,12 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^10^ “‘The Lord Yahweh says: “I will also make the multitude of Egypt to cease, by the hand of Nebuchadnezzar king of Babylon. ^11^ He and his people with him, the terrible of the nations, will be brought in to destroy the land. They will draw their swords against Egypt, and fill the land with the slain. ^12^ I will make the rivers dry, and will sell the land into the hand of evil men. I will make the land desolate, and all that is therein, by the hand of foreigners. I, Yahweh, have spoken it.” 
 
-^13^ “‘The Lord Yahweh says: “I will also destroy the idols, and I will cause the images to cease from Memphis. There will be no more a prince from the land of Egypt. I will put a fear in the land of Egypt. ^14^ I will make Pathros desolate, and will set a fire in Zoan, and will execute judgments on No. ^15^ I will pour my wrath on Sin, the stronghold of Egypt. I will cut off the multitude of No. ^16^ I will set a fire in Egypt Sin will be in great anguish. No will be broken up. Memphis will have adversaries in the daytime. ^17^ The young men of Aven and of Pibeseth will fall by the sword. They will go into captivity. ^18^ At Tehaphnehes also the day will withdraw itself, when I break the yokes of Egypt there. The pride of her power will cease in her. As for her, a cloud will cover her, and her daughters will go into captivity. ^19^ Thus I will execute judgments on Egypt. Then they will know that I am Yahweh.”’” ^20^ In the eleventh year, in the first month, in the seventh day of the month, Yahweh’s word came to me, saying, ^21^ “Son of man, I have broken the arm of Pharaoh king of Egypt. Behold, it has not been bound up, to apply medicines, to put a bandage to bind it, that it may become strong to hold the sword. ^22^ Therefore the Lord Yahweh says: ‘Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong arm, and that which was broken. I will cause the sword to fall out of his hand. ^23^ I will scatter the Egyptians among the nations, and will disperse them through the countries. ^24^ I will strengthen the arms of the king of Babylon, and put my sword in his hand; but I will break the arms of Pharaoh, and he will groan before the king of Babylon with the groaning of a mortally wounded man. ^25^ I will hold up the arms of the king of Babylon, but the arms of Pharaoh will fall down. Then they will know that I am Yahweh when I put my sword into the hand of the king of Babylon, and he stretches it out on the land of Egypt. ^26^ I will scatter the Egyptians among the nations and disperse them through the countries. Then they will know that I am Yahweh.’” 
+^13^ “‘The Lord Yahweh says: “I will also destroy the idols, and I will cause the images to cease from Memphis. There will be no more a prince from the land of Egypt. I will put a fear in the land of Egypt. ^14^ I will make Pathros desolate, and will set a fire in Zoan, and will execute judgments on No. ^15^ I will pour my wrath on Sin, the stronghold of Egypt. I will cut off the multitude of No. ^16^ I will set a fire in Egypt Sin will be in great anguish. No will be broken up. Memphis will have adversaries in the daytime. ^17^ The young men of Aven and of Pibeseth will fall by the sword. They will go into captivity. ^18^ At Tehaphnehes also the day will withdraw itself, when I break the yokes of Egypt there. The pride of her power will cease in her. As for her, a cloud will cover her, and her daughters will go into captivity. ^19^ Thus I will execute judgments on Egypt. Then they will know that I am Yahweh.”’” 
 
-\bibleendparacol
-\biblebeginparacol
+^20^ In the eleventh year, in the first month, in the seventh day of the month, Yahweh’s word came to me, saying, ^21^ “Son of man, I have broken the arm of Pharaoh king of Egypt. Behold, it has not been bound up, to apply medicines, to put a bandage to bind it, that it may become strong to hold the sword. ^22^ Therefore the Lord Yahweh says: ‘Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong arm, and that which was broken. I will cause the sword to fall out of his hand. ^23^ I will scatter the Egyptians among the nations, and will disperse them through the countries. ^24^ I will strengthen the arms of the king of Babylon, and put my sword in his hand; but I will break the arms of Pharaoh, and he will groan before the king of Babylon with the groaning of a mortally wounded man. ^25^ I will hold up the arms of the king of Babylon, but the arms of Pharaoh will fall down. Then they will know that I am Yahweh when I put my sword into the hand of the king of Babylon, and he stretches it out on the land of Egypt. ^26^ I will scatter the Egyptians among the nations and disperse them through the countries. Then they will know that I am Yahweh.’” 
+
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 31
 ## Altura orgullosa y caída repentina del faraón en comparación con un magnífico cedro
@@ -1422,6 +1465,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^18^ “‘¿A quién te pareces en gloria y en grandeza entre los árboles del Edén? Sin embargo, serás derribado con los árboles del Edén a las partes bajas de la tierra. Yacerás en medio de los incircuncisos, con los muertos por la espada. “‘Este es Faraón y toda su multitud’, dice el Señor Yahvé”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 31
 ^1^ In the eleventh year, in the third month, in the first day of the month, Yahweh’s word came to me, saying, ^2^ “Son of man, tell Pharaoh king of Egypt and his multitude: ‘Whom are you like in your greatness? ^3^ Behold, the Assyrian was a cedar in Lebanon with beautiful branches, and with a forest-like shade, of high stature; and its top was among the thick boughs. ^4^ The waters nourished it. The deep made it to grow. Its rivers ran all around its plantation. It sent out its channels to all the trees of the field. ^5^ Therefore its stature was exalted above all the trees of the field; and its boughs were multiplied. Its branches became long by reason of many waters, when it spread them out. ^6^ All the birds of the sky made their nests in its boughs. Under its branches, all the animals of the field gave birth to their young. All great nations lived under its shadow. ^7^ Thus it was beautiful in its greatness, in the length of its branches; for its root was by many waters. ^8^ The cedars in the garden of God could not hide it. The cypress trees were not like its branches. The pine trees were not like its branches; nor was any tree in the garden of God like it in its beauty. ^9^ I made it beautiful by the multitude of its branches, so that all the trees of Eden, that were in the garden of God, envied it.’ 
@@ -1435,8 +1479,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 “‘This is Pharaoh and all his multitude,’ says the Lord Yahweh.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 32
 ## Lamento por el faraón
@@ -1478,11 +1522,14 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**32:31** Is 14,10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 32
 ^1^ In the twelfth year, in the twelfth month, in the first day of the month, “Yahweh’s word came to me, saying, ^2^ ‘Son of man, take up a lamentation over Pharaoh king of Egypt, and tell him, “You were likened to a young lion of the nations; yet you are as a monster in the seas. You broke out with your rivers, and troubled the waters with your feet, and fouled their rivers.” ^3^ The Lord Yahweh says: “I will spread out my net on you with a company of many peoples. They will bring you up in my net. ^4^ I will leave you on the land. I will cast you out on the open field, and will cause all the birds of the sky to settle on you. I will satisfy the animals of the whole earth with you. ^5^ I will lay your flesh on the mountains, and fill the valleys with your height. ^6^ I will also water the land in which you swim with your blood, even to the mountains. The watercourses will be full of you. ^7^ When I extinguish you, I will cover the heavens and make its stars dark. I will cover the sun with a cloud, and the moon won’t give its light. ^8^ I will make all the bright lights of the sky dark over you, and set darkness on your land,” says the Lord Yahweh. ^9^ “I will also trouble the hearts of many peoples, when I bring your destruction among the nations, into the countries which you have not known. ^10^ Yes, I will make many peoples amazed at you, and their kings will be horribly afraid for you, when I brandish my sword before them. They will tremble at every moment, every man for his own life, in the day of your fall.” ^11^ For the Lord Yahweh says: “The sword of the king of Babylon will come on you. ^12^ I will cause your multitude to fall by the swords of the mighty. They are all the ruthless of the nations. They will bring the pride of Egypt to nothing, and all its multitude will be destroyed. ^13^ I will destroy also all its animals from beside many waters. The foot of man won’t trouble them any more, nor will the hoofs of animals trouble them. ^14^ Then I will make their waters clear, and cause their rivers to run like oil,” says the Lord Yahweh. ^15^ “When I make the land of Egypt desolate and waste, a land destitute of that of which it was full, when I strike all those who dwell therein, then they will know that I am Yahweh. 
 
-^16^ “‘“This is the lamentation with which they will lament. The daughters of the nations will lament with this. They will lament with it over Egypt, and over all her multitude,” says the Lord Yahweh.’” ^17^ Also in the twelfth year, in the fifteenth day of the month, Yahweh’s word came to me, saying, ^18^ “Son of man, wail for the multitude of Egypt, and cast them down, even her and the daughters of the famous nations, to the lower parts of the earth, with those who go down into the pit. ^19^ Whom do you pass in beauty? Go down, and be laid with the uncircumcised. ^20^ They will fall among those who are slain by the sword. She is delivered to the sword. Draw her away with all her multitudes. ^21^ The strong among the mighty will speak to him out of the middle of Sheol^a^ with those who help him. They have gone down. The uncircumcised lie still, slain by the sword. 
+^16^ “‘“This is the lamentation with which they will lament. The daughters of the nations will lament with this. They will lament with it over Egypt, and over all her multitude,” says the Lord Yahweh.’” 
+
+^17^ Also in the twelfth year, in the fifteenth day of the month, Yahweh’s word came to me, saying, ^18^ “Son of man, wail for the multitude of Egypt, and cast them down, even her and the daughters of the famous nations, to the lower parts of the earth, with those who go down into the pit. ^19^ Whom do you pass in beauty? Go down, and be laid with the uncircumcised. ^20^ They will fall among those who are slain by the sword. She is delivered to the sword. Draw her away with all her multitudes. ^21^ The strong among the mighty will speak to him out of the middle of Sheol^a^ with those who help him. They have gone down. The uncircumcised lie still, slain by the sword. 
 ^a^[**32:21** Sheol is the place of the dead.]
 
 ^22^ “Asshur is there with all her company. Her graves are all around her. All of them are slain, fallen by the sword, ^23^ whose graves are set in the uttermost parts of the pit, and her company is around her grave, all of them slain, fallen by the sword, who caused terror in the land of the living. 
@@ -1499,8 +1546,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^31^ “Pharaoh will see them and will be comforted over all his multitude, even Pharaoh and all his army, slain by the sword,” says the Lord Yahweh. ^32^ “For I have put his terror in the land of the living. He will be laid among the uncircumcised, with those who are slain by the sword, even Pharaoh and all his multitude,” says the Lord Yahweh. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 33
 ## La importancia del mandamiento del guardio
@@ -1539,6 +1586,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**33:33** Ezeq 2,5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 33
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, speak to the children of your people, and tell them, ‘When I bring the sword on a land, and the people of the land take a man from among them, and set him for their watchman, ^3^ if, when he sees the sword come on the land, he blows the trumpet and warns the people, ^4^ then whoever hears the sound of the trumpet and doesn’t heed the warning, if the sword comes and takes him away, his blood will be on his own head. ^5^ He heard the sound of the trumpet and didn’t take warning. His blood will be on him; whereas if he had heeded the warning, he would have delivered his soul. ^6^ But if the watchman sees the sword come and doesn’t blow the trumpet, and the people aren’t warned, and the sword comes and takes any person from among them, he is taken away in his iniquity, but his blood I will require at the watchman’s hand.’ 
@@ -1549,7 +1597,9 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^12^ “You, son of man, tell the children of your people, ‘The righteousness of the righteous will not deliver him in the day of his disobedience. And as for the wickedness of the wicked, he will not fall by it in the day that he turns from his wickedness; neither will he who is righteous be able to live by it in the day that he sins. ^13^ When I tell the righteous that he will surely live, if he trusts in his righteousness and commits iniquity, none of his righteous deeds will be remembered; but he will die in his iniquity that he has committed. ^14^ Again, when I say to the wicked, “You will surely die,” if he turns from his sin and does that which is lawful and right, ^15^ if the wicked restore the pledge, give again that which he had taken by robbery, walk in the statutes of life, committing no iniquity, he will surely live. He will not die. ^16^ None of his sins that he has committed will be remembered against him. He has done that which is lawful and right. He will surely live. 
 
-^17^ “‘Yet the children of your people say, “The way of the Lord is not fair;” but as for them, their way is not fair. ^18^ When the righteous turns from his righteousness and commits iniquity, he will even die therein. ^19^ When the wicked turns from his wickedness and does that which is lawful and right, he will live by it. ^20^ Yet you say, “The way of the Lord is not fair.” House of Israel, I will judge every one of you after his ways.’” ^21^ In the twelfth year of our captivity, in the tenth month, in the fifth day of the month, one who had escaped out of Jerusalem came to me, saying, “The city has been defeated!” ^22^ Now Yahweh’s hand had been on me in the evening, before he who had escaped came; and he had opened my mouth until he came to me in the morning; and my mouth was opened, and I was no longer mute. 
+^17^ “‘Yet the children of your people say, “The way of the Lord is not fair;” but as for them, their way is not fair. ^18^ When the righteous turns from his righteousness and commits iniquity, he will even die therein. ^19^ When the wicked turns from his wickedness and does that which is lawful and right, he will live by it. ^20^ Yet you say, “The way of the Lord is not fair.” House of Israel, I will judge every one of you after his ways.’” 
+
+^21^ In the twelfth year of our captivity, in the tenth month, in the fifth day of the month, one who had escaped out of Jerusalem came to me, saying, “The city has been defeated!” ^22^ Now Yahweh’s hand had been on me in the evening, before he who had escaped came; and he had opened my mouth until he came to me in the morning; and my mouth was opened, and I was no longer mute. 
 
 ^23^ Yahweh’s word came to me, saying, ^24^ “Son of man, those who inhabit the waste places in the land of Israel speak, saying, ‘Abraham was one, and he inherited the land; but we are many. The land is given us for inheritance.’ ^25^ Therefore tell them, ‘The Lord Yahweh says: “You eat with the blood, and lift up your eyes to your idols, and shed blood. So should you possess the land? ^26^ You stand on your sword, you work abomination, and every one of you defiles his neighbor’s wife. So should you possess the land?”’ 
 
@@ -1559,8 +1609,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^33^ “When this comes to pass—behold, it comes—then they will know that a prophet has been among them.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 34
 ## Pastores pasados, abandonados y perecederos
@@ -1588,6 +1638,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**34:25** Ezeq 37,26] ^b^[**34:29** Ezeq 36,30] ^c^[**34:30** Ezeq 11,20] ^d^[**34:31** Sal 100,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 34
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, prophesy against the shepherds of Israel. Prophesy, and tell them, even the shepherds, ‘The Lord Yahweh says: “Woe to the shepherds of Israel who feed themselves! Shouldn’t the shepherds feed the sheep? ^3^ You eat the fat. You clothe yourself with the wool. You kill the fatlings, but you don’t feed the sheep. ^4^ You haven’t strengthened the diseased. You haven’t healed that which was sick. You haven’t bound up that which was broken. You haven’t brought back that which was driven away. You haven’t sought that which was lost, but you have ruled over them with force and with rigor. ^5^ They were scattered, because there was no shepherd. They became food to all the animals of the field, and were scattered. ^6^ My sheep wandered through all the mountains and on every high hill. Yes, my sheep were scattered on all the surface of the earth. There was no one who searched or sought.” 
@@ -1602,8 +1653,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^25^ “‘I will make with them a covenant of peace, and will cause evil animals to cease out of the land. They will dwell securely in the wilderness and sleep in the woods. ^26^ I will make them and the places around my hill a blessing. I will cause the shower to come down in its season. There will be showers of blessing. ^27^ The tree of the field will yield its fruit, and the earth will yield its increase, and they will be secure in their land. Then they will know that I am Yahweh, when I have broken the bars of their yoke, and have delivered them out of the hand of those who made slaves of them. ^28^ They will no more be a prey to the nations, neither will the animals of the earth devour them; but they will dwell securely, and no one will make them afraid. ^29^ I will raise up to them a plantation for renown, and they will no more be consumed with famine in the land, and not bear the shame of the nations any more. ^30^ They will know that I, Yahweh, their God am with them, and that they, the house of Israel, are my people, says the Lord Yahweh. ^31^ You my sheep, the sheep of my pasture, are men, and I am your God,’ says the Lord Yahweh.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 35
 ## Destrucción del enemigo hereditario malicioso y depredador Edom
@@ -1617,6 +1668,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**35:15** Ezeq 25,3; Sal 137,7]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 35
 ^1^ Moreover Yahweh’s word came to me, saying, ^2^ “Son of man, set your face against Mount Seir, and prophesy against it, ^3^ and tell it, ‘The Lord Yahweh says: “Behold, I am against you, Mount Seir, and I will stretch out my hand against you. I will make you a desolation and an astonishment. ^4^ I will lay your cities waste, and you will be desolate. Then you will know that I am Yahweh. 
@@ -1625,8 +1677,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^10^ “‘“Because you have said, ‘These two nations and these two countries will be mine, and we will possess it,’ although Yahweh was there, ^11^ therefore, as I live,” says the Lord Yahweh, “I will do according to your anger, and according to your envy which you have shown out of your hatred against them; and I will make myself known among them when I judge you. ^12^ You will know that I, Yahweh, have heard all your insults which you have spoken against the mountains of Israel, saying, ‘They have been laid desolate. They have been given to us to devour.’ ^13^ You have magnified yourselves against me with your mouth, and have multiplied your words against me. I have heard it.” ^14^ The Lord Yahweh says: “When the whole earth rejoices, I will make you desolate. ^15^ As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am Yahweh.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 36
 ## Al país montañoso de Israel, burlado por el enemigo, se le promete la destitución de sus propietarios ilegítimos
@@ -1661,6 +1713,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**36:37** Miq 2,12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 36
 ^1^ You, son of man, prophesy to the mountains of Israel, and say, “You mountains of Israel, hear Yahweh’s word. ^2^ The Lord Yahweh says: ‘Because the enemy has said against you, “Aha!” and, “The ancient high places are ours in possession!”’ ^3^ therefore prophesy, and say, ‘The Lord Yahweh says: “Because, even because they have made you desolate, and swallowed you up on every side, that you might be a possession to the residue of the nations, and you are taken up in the lips of talkers, and the evil report of the people;” ^4^ therefore, you mountains of Israel, hear the word of the Lord Yahweh: The Lord Yahweh says to the mountains and to the hills, to the watercourses and to the valleys, to the desolate wastes and to the cities that are forsaken, which have become a prey and derision to the residue of the nations that are all around; ^5^ therefore the Lord Yahweh says: “Surely in the fire of my jealousy I have spoken against the residue of the nations, and against all Edom, that have appointed my land to themselves for a possession with the joy of all their heart, with despite of soul, to cast it out for a prey.”’ ^6^ Therefore prophesy concerning the land of Israel, and tell the mountains, the hills, the watercourses and the valleys, ‘The Lord Yahweh says: “Behold, I have spoken in my jealousy and in my wrath, because you have borne the shame of the nations.” ^7^ Therefore the Lord Yahweh says: “I have sworn, ‘Surely the nations that are around you will bear their shame.’ 
@@ -1681,8 +1734,8 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 
 ^37^ “‘The Lord Yahweh says: “For this, moreover, I will be inquired of by the house of Israel, to do it for them: I will increase them with men like a flock. ^38^ As the flock for sacrifice, as the flock of Jerusalem in her appointed feasts, so the waste cities will be filled with flocks of men. Then they will know that I am Yahweh.’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 37
 ## El rostro del avivamiento de los huesos muertos entregado al profeta
@@ -1717,6 +1770,7 @@ So the vision that I had seen went up from me. ^25^ Then I spoke to the captives
 ^a^[**37:24** Ezeq 34,23; Ezeq 36,27] ^b^[**37:26** Ezeq 34,25; Is 54,10] ^c^[**37:28** Ezeq 36,36]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 37
 ^1^ Yahweh’s hand was on me, and he brought me out in Yahweh’s Spirit, and set me down in the middle of the valley; and it was full of bones. ^2^ He caused me to pass by them all around; and behold, there were very many in the open valley, and behold, they were very dry. ^3^ He said to me, “Son of man, can these bones live?” 
@@ -1731,14 +1785,16 @@ I answered, “Lord Yahweh, you know.”
 
 ^10^ So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up on their feet, an exceedingly great army. 
 
-^11^ Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up, and our hope is lost. We are completely cut off.’ ^12^ Therefore prophesy, and tell them, ‘The Lord Yahweh says: “Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel. ^13^ You will know that I am Yahweh, when I have opened your graves and caused you to come up out of your graves, my people. ^14^ I will put my Spirit in you, and you will live. Then I will place you in your own land; and you will know that I, Yahweh, have spoken it and performed it,” says Yahweh.’” ^15^ Yahweh’s word came again to me, saying, ^16^ “You, son of man, take one stick and write on it, ‘For Judah, and for the children of Israel his companions.’ Then take another stick, and write on it, ‘For Joseph, the stick of Ephraim, and for all the house of Israel his companions.’ ^17^ Then join them for yourself to one another into one stick, that they may become one in your hand. 
+^11^ Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up, and our hope is lost. We are completely cut off.’ ^12^ Therefore prophesy, and tell them, ‘The Lord Yahweh says: “Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel. ^13^ You will know that I am Yahweh, when I have opened your graves and caused you to come up out of your graves, my people. ^14^ I will put my Spirit in you, and you will live. Then I will place you in your own land; and you will know that I, Yahweh, have spoken it and performed it,” says Yahweh.’” 
+
+^15^ Yahweh’s word came again to me, saying, ^16^ “You, son of man, take one stick and write on it, ‘For Judah, and for the children of Israel his companions.’ Then take another stick, and write on it, ‘For Joseph, the stick of Ephraim, and for all the house of Israel his companions.’ ^17^ Then join them for yourself to one another into one stick, that they may become one in your hand. 
 
 ^18^ “When the children of your people speak to you, saying, ‘Won’t you show us what you mean by these?’ ^19^ tell them, ‘The Lord Yahweh says: “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in my hand. ^20^ The sticks on which you write will be in your hand before their eyes.”’ ^21^ Say to them, ‘The Lord Yahweh says: “Behold, I will take the children of Israel from among the nations where they have gone, and will gather them on every side, and bring them into their own land. ^22^ I will make them one nation in the land, on the mountains of Israel. One king will be king to them all. They will no longer be two nations. They won’t be divided into two kingdoms any more at all. ^23^ They won’t defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places in which they have sinned, and will cleanse them. So they will be my people, and I will be their God. 
 
 ^24^ “‘“My servant David will be king over them. They all will have one shepherd. They will also walk in my ordinances and observe my statutes, and do them. ^25^ They will dwell in the land that I have given to Jacob my servant, in which your fathers lived. They will dwell therein, they, and their children, and their children’s children, forever. David my servant will be their prince forever. ^26^ Moreover I will make a covenant of peace with them. It will be an everlasting covenant with them. I will place them, multiply them, and will set my sanctuary among them forever more. ^27^ My tent also will be with them. I will be their God, and they will be my people. ^28^ The nations will know that I am Yahweh who sanctifies Israel, when my sanctuary is among them forever more.”’” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 38
 ## Dios mismo saca a las hordas brutas de Gog de la tierra de Magog contra Palestina
@@ -1758,6 +1814,7 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**38:17** Is 24,21; Is 63,6; Jl 3,2; Jl 3,12; Sof 3,8] ^b^[**38:22** Apoc 20,9] ^c^[**38:23** Ezeq 29,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 38
 ^1^ Yahweh’s word came to me, saying, ^2^ “Son of man, set your face toward Gog, of the land of Magog, the prince of Rosh, Meshech, and Tubal, and prophesy against him, ^3^ and say, ‘The Lord Yahweh says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal. ^4^ I will turn you around, and put hooks into your jaws, and I will bring you out, with all your army, horses and horsemen, all of them clothed in full armor, a great company with buckler and shield, all of them handling swords; ^5^ Persia, Cush, and Put with them, all of them with shield and helmet; ^6^ Gomer, and all his hordes; the house of Togarmah in the uttermost parts of the north, and all his hordes—even many peoples with you. 
@@ -1770,8 +1827,8 @@ I answered, “Lord Yahweh, you know.”
 
 ^17^ “‘The Lord Yahweh says: “Are you he of whom I spoke in old time by my servants the prophets of Israel, who prophesied in those days for years that I would bring you against them? ^18^ It will happen in that day, when Gog comes against the land of Israel,” says the Lord Yahweh, “that my wrath will come up into my nostrils. ^19^ For in my jealousy and in the fire of my wrath I have spoken. Surely in that day there will be a great shaking in the land of Israel, ^20^ so that the fish of the sea, the birds of the sky, the animals of the field, all creeping things who creep on the earth, and all the men who are on the surface of the earth will shake at my presence. Then the mountains will be thrown down, the steep places will fall, and every wall will fall to the ground. ^21^ I will call for a sword against him to all my mountains,” says the Lord Yahweh. “Every man’s sword will be against his brother. ^22^ I will enter into judgment with him with pestilence and with blood. I will rain on him, on his hordes, and on the many peoples who are with him, torrential rains with great hailstones, fire, and sulfur. ^23^ I will magnify myself and sanctify myself, and I will make myself known in the eyes of many nations. Then they will know that I am Yahweh.”’ 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 39
 ## Otro anuncio de la caída de Gog
@@ -1802,6 +1859,7 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**39:25** Ezeq 16,53-63] ^b^[**39:29** Ezeq 36,26-27; Is 44,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 39
 ^1^ “You, son of man, prophesy against Gog, and say, ‘The Lord Yahweh says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal. ^2^ I will turn you around, will lead you on, and will cause you to come up from the uttermost parts of the north; and I will bring you onto the mountains of Israel. ^3^ I will strike your bow out of your left hand, and will cause your arrows to fall out of your right hand. ^4^ You will fall on the mountains of Israel, you, and all your hordes, and the peoples who are with you. I will give you to the ravenous birds of every sort and to the animals of the field to be devoured. ^5^ You will fall on the open field, for I have spoken it,” says the Lord Yahweh. ^6^ “I will send a fire on Magog and on those who dwell securely in the islands. Then they will know that I am Yahweh. 
@@ -1822,8 +1880,8 @@ I answered, “Lord Yahweh, you know.”
 
 ^25^ “Therefore the Lord Yahweh says: ‘Now I will reverse the captivity of Jacob and have mercy on the whole house of Israel. I will be jealous for my holy name. ^26^ They will forget their shame and all their trespasses by which they have trespassed against me, when they dwell securely in their land. No one will make them afraid ^27^ when I have brought them back from the peoples, gathered them out of their enemies’ lands, and am shown holy among them in the sight of many nations. ^28^ They will know that I am Yahweh their God, in that I caused them to go into captivity among the nations, and have gathered them to their own land. Then I will leave none of them captive any more. ^29^ I won’t hide my face from them any more, for I have poured out my Spirit on the house of Israel,’ says the Lord Yahweh.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 40
 ## El rapto de Ezequiel y la aparición de un guía celestial
@@ -1871,12 +1929,13 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**40:48** 1Re 6,3] ^b^[**40:49** 1Re 7,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 40
 ^1^ In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after the city was struck, in the same day, Yahweh’s hand was on me, and he brought me there. ^2^ In the visions of God he brought me into the land of Israel, and set me down on a very high mountain, on which was something like the frame of a city to the south. ^3^ He brought me there; and, behold, there was a man whose appearance was like the appearance of bronze, with a line of flax in his hand and a measuring reed; and he stood in the gate. ^4^ The man said to me, “Son of man, see with your eyes, and hear with your ears, and set your heart on all that I will show you; for you have been brought here so that I may show them to you. Declare all that you see to the house of Israel.” 
 
 ^5^ Behold, there was a wall on the outside of the house all around, and in the man’s hand a measuring reed six cubits^a^ long, of a cubit and a hand width each. So he measured the thickness of the building, one reed; and the height, one reed. 
-^a^[**40:5** A normal cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A handbreadth is about 4. 3 inches or 11 centimeters, so the long cubit described here would be about 22. 3 inches or 57 centimeters long. Thus, a 6 long cubit measuring reed would have been about 3 yards 26. 6 inches or about 3. 42 meters long.]
+^a^[**40:5** A normal cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A handbreadth is about 4.3 inches or 11 centimeters, so the long cubit described here would be about 22.3 inches or 57 centimeters long. Thus, a 6 long cubit measuring reed would have been about 3 yards 26.6 inches or about 3.42 meters long.]
 
 ^6^ Then he came to the gate which looks toward the east, and went up its steps. He measured the threshold of the gate, one reed wide; and the other threshold, one reed wide. ^7^ Every lodge was one reed long and one reed wide. Between the lodges was five cubits. The threshold of the gate by the porch of the gate toward the house was one reed. 
 
@@ -1902,8 +1961,8 @@ I answered, “Lord Yahweh, you know.”
 
 ^48^ Then he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side. The width of the gate was three cubits on this side and three cubits on that side. ^49^ The length of the porch was twenty cubits and the width eleven cubits, even by the steps by which they went up to it. There were pillars by the posts, one on this side, and another on that side. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 41
 ## El Salón del Templo y el Lugar Santísimo
@@ -1930,6 +1989,7 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**41:22** Éxod 30,1-10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 41
 ^1^ He brought me to the nave and measured the posts, six cubits wide on the one side and six cubits wide on the other side, which was the width of the tent. ^2^ The width of the entrance was ten cubits,^a^ and the sides of the entrance were five cubits on the one side, and five cubits on the other side. He measured its length, forty cubits, and the width, twenty cubits. 
@@ -1949,8 +2009,8 @@ I answered, “Lord Yahweh, you know.”
 
 ^21^ The door posts of the nave were squared. As for the face of the nave, its appearance was as the appearance of the temple. ^22^ The altar was of wood, three cubits high, and its length two cubits. Its corners, its base, and its walls were of wood. He said to me, “This is the table that is before Yahweh.” ^23^ The temple and the sanctuary had two doors. ^24^ The doors had two leaves each, two turning leaves: two for the one door, and two leaves for the other. ^25^ There were made on them, on the doors of the nave, cherubim and palm trees, like those made on the walls. There was a threshold of wood on the face of the porch outside. ^26^ There were closed windows and palm trees on the one side and on the other side, on the sides of the porch. This is how the side rooms of the temple and the thresholds were arranged. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 42
 ## Las células sacerdotales del norte
@@ -1967,6 +2027,7 @@ I answered, “Lord Yahweh, you know.”
 ^15^ Cuando terminó de medir el interior de la casa, me sacó por el camino de la puerta que da al oriente, y lo midió todo alrededor. ^16^ Midió en el lado oriental con la caña de medir quinientas cañas, con la caña de medir alrededor. ^17^ Midió en el lado norte quinientas cañas con la caña de medir alrededor. ^18^ Midió en el lado sur quinientas cañas con la caña de medir. ^19^ Se volvió hacia el lado oeste y midió quinientas cañas con la caña de medir. ^20^ La midió por los cuatro lados. Tenía un muro alrededor, de quinientos codos de largo y quinientos de ancho, para separar lo sagrado de lo común.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 42
 ^1^ Then he brought me out into the outer court, the way toward the north. Then he brought me into the room that was opposite the separate place, and which was opposite the building toward the north. ^2^ Facing the length of one hundred cubits^a^ was the north door, and the width was fifty cubits. ^3^ Opposite the twenty cubits which belonged to the inner court, and opposite the pavement which belonged to the outer court, was gallery against gallery in the three stories. ^4^ Before the rooms was a walk of ten cubits’ width inward, a way of one cubit; and their doors were toward the north. ^5^ Now the upper rooms were shorter; for the galleries took away from these more than from the lower and the middle in the building. ^6^ For they were in three stories, and they didn’t have pillars as the pillars of the courts. Therefore the uppermost was set back more than the lowest and the middle from the ground. ^7^ The wall that was outside by the side of the rooms, toward the outer court before the rooms, was fifty cubits long. ^8^ For the length of the rooms that were in the outer court was fifty cubits. Behold, those facing the temple were one hundred cubits. ^9^ From under these rooms was the entry on the east side, as one goes into them from the outer court. 
@@ -1978,8 +2039,8 @@ I answered, “Lord Yahweh, you know.”
 
 ^15^ Now when he had finished measuring the inner house, he brought me out by the way of the gate which faces toward the east, and measured it all around. ^16^ He measured on the east side with the measuring reed five hundred reeds, with the measuring reed all around. ^17^ He measured on the north side five hundred reeds with the measuring reed all around. ^18^ He measured on the south side five hundred reeds with the measuring reed. ^19^ He turned about to the west side, and measured five hundred reeds with the measuring reed. ^20^ He measured it on the four sides. It had a wall around it, the length five hundred cubits, and the width five hundred cubits, to make a separation between that which was holy and that which was common. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 43
 ## La entrada de Dios en el templo recién construido y su canonización
@@ -2008,6 +2069,7 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**43:26** Éxod 28,41]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 43
 ^1^ Afterward he brought me to the gate, even the gate that looks toward the east. ^2^ Behold, the glory of the God of Israel came from the way of the east. His voice was like the sound of many waters; and the earth was illuminated with his glory. ^3^ It was like the appearance of the vision which I saw, even according to the vision that I saw when I came to destroy the city; and the visions were like the vision that I saw by the river Chebar; and I fell on my face. ^4^ Yahweh’s glory came into the house by the way of the gate which faces toward the east. ^5^ The Spirit took me up and brought me into the inner court; and behold, Yahweh’s glory filled the house. 
@@ -2019,7 +2081,7 @@ I answered, “Lord Yahweh, you know.”
 ^12^ “This is the law of the house. On the top of the mountain the whole limit around it shall be most holy. Behold, this is the law of the house. 
 
 ^13^ “These are the measurements of the altar by cubits (the cubit^a^ is a cubit and a hand width): the bottom shall be a cubit, and the width a cubit, and its border around its edge a span;^b^ and this shall be the base of the altar. ^14^ From the bottom on the ground to the lower ledge shall be two cubits, and the width one cubit; and from the lesser ledge to the greater ledge shall be four cubits, and the width a cubit. ^15^ The upper altar shall be four cubits; and from the altar hearth and upward there shall be four horns. ^16^ The altar hearth shall be twelve cubits long by twelve wide, square in its four sides. ^17^ The ledge shall be fourteen cubits long by fourteen wide in its four sides; and the border about it shall be half a cubit; and its bottom shall be a cubit around; and its steps shall look toward the east.” 
-^a^[**43:13** A normal cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A hand width is about 4. 3 inches or 11 cm.] ^b^[**43:13** A span is the length from the tip of a man’s thumb to the tip of his little finger when his hand is stretched out (about half a cubit, or 9 inches, or 22. 8 cm.)]
+^a^[**43:13** A normal cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A hand width is about 4.3 inches or 11 cm.] ^b^[**43:13** A span is the length from the tip of a man’s thumb to the tip of his little finger when his hand is stretched out (about half a cubit, or 9 inches, or 22.8 cm.)]
 
 ^18^ He said to me, “Son of man, the Lord Yahweh says: ‘These are the ordinances of the altar in the day when they make it, to offer burnt offerings on it, and to sprinkle blood on it. ^19^ You shall give to the Levitical priests who are of the offspring of Zadok, who are near to me, to minister to me,’ says the Lord Yahweh, ‘a young bull for a sin offering. ^20^ You shall take of its blood and put it on its four horns, and on the four corners of the ledge, and on the border all around. You shall cleanse it and make atonement for it that way. ^21^ You shall also take the bull of the sin offering, and it shall be burned in the appointed place of the house, outside of the sanctuary. 
 
@@ -2027,8 +2089,8 @@ I answered, “Lord Yahweh, you know.”
 
 ^25^ “Seven days you shall prepare every day a goat for a sin offering. They shall also prepare a young bull and a ram out of the flock, without defect. ^26^ Seven days shall they make atonement for the altar and purify it. So shall they consecrate it. ^27^ When they have accomplished the days, it shall be that on the eighth day and onward, the priests shall make your burnt offerings on the altar and your peace offerings. Then I will accept you,’ says the Lord Yahweh.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 44
 ## La puerta este exterior del recinto del templo y su destino para el príncipe
@@ -2064,6 +2126,7 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**44:28** Núm 18,20] ^b^[**44:31** Lev 22,8]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 44
 ^1^ Then he brought me back by the way of the outer gate of the sanctuary, which looks toward the east; and it was shut. ^2^ Yahweh said to me, “This gate shall be shut. It shall not be opened, no man shall enter in by it; for Yahweh, the God of Israel, has entered in by it. Therefore it shall be shut. ^3^ As for the prince, he shall sit in it as prince to eat bread before Yahweh. He shall enter by the way of the porch of the gate, and shall go out the same way.” 
@@ -2086,8 +2149,8 @@ I answered, “Lord Yahweh, you know.”
 
 ^28^ “‘They shall have an inheritance: I am their inheritance; and you shall give them no possession in Israel. I am their possession. ^29^ They shall eat the meal offering, and the sin offering, and the trespass offering; and every devoted thing in Israel shall be theirs. ^30^ The first of all the first fruits of every thing, and every offering of everything, of all your offerings, shall be for the priest. You shall also give to the priests the first of your dough, to cause a blessing to rest on your house. ^31^ The priests shall not eat of anything that dies of itself or is torn, whether it is bird or animal. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 45
 ## Traslado de un recinto sagrado a los sacerdotes y levitas, así como una porción de tierra a la ciudad y al príncipe
@@ -2118,6 +2181,7 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**45:25** Lev 23,34]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 45
 ^1^ “‘“Moreover, when you divide by lot the land for inheritance, you shall offer an offering to Yahweh, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around. ^2^ Of this there shall be a five hundred by five hundred square for the holy place, and fifty cubits^a^ for its pasture lands all around. ^3^ Of this measure you shall measure a length of twenty-five thousand, and a width of ten thousand. In it shall be the sanctuary, which is most holy. ^4^ It is a holy portion of the land; it shall be for the priests, the ministers of the sanctuary, who come near to minister to Yahweh. It shall be a place for their houses and a holy place for the sanctuary. ^5^ Twenty-five thousand cubits in length and ten thousand in width shall be for the Levites, the ministers of the house, as a possession for themselves, for twenty rooms. 
@@ -2128,20 +2192,20 @@ I answered, “Lord Yahweh, you know.”
 ^7^ “‘“What is for the prince shall be on the one side and on the other side of the holy allotment and of the possession of the city, in front of the holy allotment and in front of the possession of the city, on the west side westward, and on the east side eastward, and in length corresponding to one of the portions, from the west border to the east border. ^8^ In the land it shall be to him for a possession in Israel. My princes shall no more oppress my people, but they shall give the land to the house of Israel according to their tribes.” 
 
 ^9^ “‘The Lord Yahweh says: “Enough you, princes of Israel! Remove violence and plunder, and execute justice and righteousness! Stop dispossessing my people!” says the Lord Yahweh. ^10^ “You shall have just balances, a just ephah,^a^ and a just bath. ^11^ The ephah and the bath shall be of one measure, that the bath may contain one tenth of a homer,^b^ and the ephah one tenth of a homer. Its measure shall be the same as the homer. ^12^ The shekel^c^ shall be twenty gerahs.^d^ Twenty shekels plus twenty-five shekels plus fifteen shekels shall be your mina.^e^ 
-^a^[**45:10** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**45:11** 1 homer is about 220 liters or 6 bushels] ^c^[**45:12** A shekel is about 10 grams or about 0. 35 ounces.] ^d^[**45:12** a gerah is about 0. 5 grams or about 7. 7 grains] ^e^[**45:12** A mina is about 600 grams or 1. 3 U. S. pounds.]
+^a^[**45:10** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**45:11** 1 homer is about 220 liters or 6 bushels] ^c^[**45:12** A shekel is about 10 grams or about 0.35 ounces.] ^d^[**45:12** a gerah is about 0.5 grams or about 7.7 grains] ^e^[**45:12** A mina is about 600 grams or 1.3 U. S. pounds.]
 
 ^13^ “‘“This is the offering that you shall offer: the sixth part of an ephah from a homer of wheat, and you shall give the sixth part of an ephah from a homer of barley, ^14^ and the set portion of oil, of the bath of oil, one tenth of a bath out of the cor, which is ten baths, even a homer (for ten baths are a homer),^a^ ^15^ and one lamb of the flock out of two hundred, from the well-watered pastures of Israel—for a meal offering, for a burnt offering, and for peace offerings, to make atonement for them,” says the Lord Yahweh. ^16^ “All the people of the land shall give to this offering for the prince in Israel. ^17^ It shall be the prince’s part to give the burnt offerings, the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel. He shall prepare the sin offering, the meal offering, the burnt offering, and the peace offerings, to make atonement for the house of Israel.” 
-^a^[**45:14** 1 cor is the same as 1 homer in volume, and is about 211 liters, 55. 9 gallons, or 6 bushels. 1 bath is about 21. 1 liters, 5. 59 gallons, or 2. 4 pecks.]
+^a^[**45:14** 1 cor is the same as 1 homer in volume, and is about 211 liters, 55.9 gallons, or 6 bushels. 1 bath is about 21.1 liters, 5.59 gallons, or 2.4 pecks.]
 
 ^18^ “‘The Lord Yahweh says: “In the first month, on the first day of the month, you shall take a young bull without defect, and you shall cleanse the sanctuary. ^19^ The priest shall take of the blood of the sin offering and put it on the door posts of the house, and on the four corners of the ledge of the altar, and on the posts of the gate of the inner court. ^20^ So you shall do on the seventh day of the month for everyone who errs, and for him who is simple. So you shall make atonement for the house. 
 
 ^21^ “‘“In the first month, on the fourteenth day of the month, you shall have the Passover, a feast of seven days; unleavened bread shall be eaten. ^22^ On that day the prince shall prepare for himself and for all the people of the land a bull for a sin offering. ^23^ The seven days of the feast he shall prepare a burnt offering to Yahweh, seven bulls and seven rams without defect daily the seven days; and a male goat daily for a sin offering. ^24^ He shall prepare a meal offering, an ephah^a^ for a bull, an ephah for a ram, and a hin^b^ of oil to an ephah. 
-^a^[**45:24** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**45:24** A hin is about 6. 5 liters or 1. 7 gallons.]
+^a^[**45:24** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**45:24** A hin is about 6.5 liters or 1.7 gallons.]
 
 ^25^ “‘“In the seventh month, on the fifteenth day of the month, during the feast, he shall do like that for seven days. He shall make the same provision for sin offering, the burnt offering, the meal offering, and the oil.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 46
 ## Normativa para la celebración del sábado y la luna nueva
@@ -2168,10 +2232,11 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**46:22** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros.]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 46
 ^1^ “‘The Lord Yahweh says: “The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened. ^2^ The prince shall enter by the way of the porch of the gate outside, and shall stand by the post of the gate; and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate. Then he shall go out, but the gate shall not be shut until the evening. ^3^ The people of the land shall worship at the door of that gate before Yahweh on the Sabbaths and on the new moons. ^4^ The burnt offering that the prince shall offer to Yahweh shall be on the Sabbath day, six lambs without defect and a ram without defect; ^5^ and the meal offering shall be an ephah for the ram, and the meal offering for the lambs as he is able to give, and a hin^a^ of oil to an ephah.^b^ ^6^ On the day of the new moon it shall be a young bull without defect, six lambs, and a ram. They shall be without defect. ^7^ He shall prepare a meal offering: an ephah for the bull, and an ephah for the ram, and for the lambs according as he is able, and a hin of oil to an ephah. ^8^ When the prince enters, he shall go in by the way of the porch of the gate, and he shall go out by its way. 
-^a^[**46:5** A hin is about 6. 5 liters or 1. 7 gallons.] ^b^[**46:5** 1 ephah is about 22 liters or about 2/3 of a bushel]
+^a^[**46:5** A hin is about 6.5 liters or 1.7 gallons.] ^b^[**46:5** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
 ^9^ “‘“But when the people of the land come before Yahweh in the appointed feasts, he who enters by the way of the north gate to worship shall go out by the way of the south gate; and he who enters by the way of the south gate shall go out by the way of the north gate. He shall not return by the way of the gate by which he came in, but shall go out straight before him. ^10^ The prince shall go in with them when they go in. When they go out, he shall go out. 
 
@@ -2188,8 +2253,8 @@ I answered, “Lord Yahweh, you know.”
 ^21^ Then he brought me out into the outer court and caused me to pass by the four corners of the court; and behold, in every corner of the court there was a court. ^22^ In the four corners of the court there were courts enclosed, forty cubits^a^ long and thirty wide. These four in the corners were the same size. ^23^ There was a wall around in them, around the four, and boiling places were made under the walls all around. ^24^ Then he said to me, “These are the boiling houses, where the ministers of the house shall boil the sacrifice of the people.”
 ^a^[**46:22** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 47
 ## El maravilloso manantial del templo como una corriente de bendiciones
@@ -2221,6 +2286,7 @@ I answered, “Lord Yahweh, you know.”
 ^a^[**47:22** Éxod 22,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 47
 ^1^ He brought me back to the door of the temple; and behold, waters flowed out from under the threshold of the temple eastward, for the front of the temple faced toward the east. The waters came down from underneath, from the right side of the temple, on the south of the altar. ^2^ Then he brought me out by the way of the gate northward, and led me around by the way outside to the outer gate, by the way of the gate that looks toward the east. Behold, waters ran out on the right side. 
@@ -2246,8 +2312,8 @@ Then he brought me and caused me to return to the bank of the river. ^7^ Now whe
 
 ^21^ “So you shall divide this land to yourselves according to the tribes of Israel. ^22^ You shall divide it by lot for an inheritance to you and to the aliens who live among you, who will father children among you. Then they shall be to you as the native-born among the children of Israel. They shall have inheritance with you among the tribes of Israel. ^23^ In whatever tribe the stranger lives, there you shall give him his inheritance,” says the Lord Yahweh. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 48
 ## Las siete tribus al norte del santuario sagrado
@@ -2309,6 +2375,7 @@ Then he brought me and caused me to return to the bank of the river. ^7^ Now whe
 
 ^35^ “Tendrá dieciocho mil cañas de circunferencia; y el nombre de la ciudad desde ese día será: ‘Yahvé está allí’. ^[**48:35** Ezeq 43,7; Apoc 21,3]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 48
 ^1^ “Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar Enan at the border of Damascus, northward beside Hamath (and they shall have their sides east and west), Dan, one portion. 
@@ -2358,4 +2425,5 @@ Then he brought me and caused me to return to the bank of the river. ^7^ Now whe
 ^34^ “At the west side four thousand five hundred reeds, with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one. 
 
 ^35^ “It shall be eighteen thousand reeds in circumference; and the name of the city from that day shall be, ‘Yahweh is there.’
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

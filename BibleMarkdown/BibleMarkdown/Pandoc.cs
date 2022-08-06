@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CliWrap;
 
 namespace BibleMarkdown
 {
@@ -16,11 +17,18 @@ namespace BibleMarkdown
 
 		public static async Task RunAsync(string sourcefile, string destfile, string sourceformat, string destformat)
 		{
-			CliWrap.Command command = new CliWrap.Command(path)
-				.WithArguments($@"""{sourcefile}"" ""{destfile}"" --from {sourceformat} --to {destformat}")
-				.WithWorkingDirectory(Environment.CurrentDirectory);
-			var token = new CancellationToken();
-			await command.ExecuteAsync(token);
+			var stdOutBuffer = new StringBuilder();
+			var stdErrBuffer = new StringBuilder();
+
+			var result = await Cli.Wrap(path)
+				.WithArguments($@"""{sourcefile}"" -o ""{destfile}"" --from {sourceformat} --to {destformat}")
+				.WithWorkingDirectory(Environment.CurrentDirectory)
+				.WithStandardOutputPipe(PipeTarget.ToStringBuilder(stdOutBuffer))
+				.WithStandardErrorPipe(PipeTarget.ToStringBuilder(stdErrBuffer))
+				.ExecuteAsync();
+
+			Program.Log(stdOutBuffer.ToString().Trim(' ', '\t', '\r', '\n'));
+			Program.Log(stdErrBuffer.ToString().Trim(' ', '\t', '\r', '\n'));
 		}
 	}
 }

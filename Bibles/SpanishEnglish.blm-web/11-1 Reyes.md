@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## La vejez de David; Abisag ordenó por Sunem cuidar al rey
@@ -57,6 +58,7 @@
 ^53^ Entonces el rey Salomón envió, y lo hicieron bajar del altar. Vino y se inclinó ante el rey Salomón; y éste le dijo: “Vete a tu casa”.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Now King David was old and advanced in years; and they covered him with clothes, but he couldn’t keep warm. ^2^ Therefore his servants said to him, “Let a young virgin be sought for my lord the king. Let her stand before the king, and cherish him; and let her lie in your bosom, that my lord the king may keep warm.” ^3^ So they sought for a beautiful young lady throughout all the borders of Israel, and found Abishag the Shunammite, and brought her to the king. ^4^ The young lady was very beautiful; and she cherished the king, and served him; but the king didn’t know her intimately. 
@@ -99,8 +101,8 @@ When he had come in before the king, he bowed himself before the king with his f
 
 ^53^ So King Solomon sent, and they brought him down from the altar. He came and bowed down to King Solomon; and Solomon said to him, “Go to your house.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Las instrucciones de David a Salomón y su muerte
@@ -166,6 +168,7 @@ When he had come in before the king, he bowed himself before the king with his f
 ^a^[**2:42** 1Re 2,38] ^b^[**2:44** 1Re 2,8] ^c^[**2:46** 2Cró 1,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ Now the days of David came near that he should die; and he commanded Solomon his son, saying, ^2^ “I am going the way of all the earth. You be strong therefore, and show yourself a man; ^3^ and keep the instruction of Yahweh your God, to walk in his ways, to keep his statutes, his commandments, his ordinances, and his testimonies, according to that which is written in the law of Moses, that you may prosper in all that you do and wherever you turn yourself. ^4^ Then Yahweh may establish his word which he spoke concerning me, saying, ‘If your children are careful of their way, to walk before me in truth with all their heart and with all their soul, there shall not fail you,’ he said, ‘a man on the throne of Israel.’ 
@@ -226,8 +229,8 @@ Benaiah brought the king word again, saying, “This is what Joab said, and this
 
 ^42^ The king sent and called for Shimei, and said to him, “Didn’t I adjure you by Yahweh and warn you, saying, ‘Know for certain that on the day you go out and walk anywhere else, you shall surely die?’ You said to me, ‘The saying that I have heard is good.’ ^43^ Why then have you not kept the oath of Yahweh and the commandment that I have instructed you with?” ^44^ The king said moreover to Shimei, “You know in your heart all the wickedness that you did to David my father. Therefore Yahweh will return your wickedness on your own head. ^45^ But King Solomon will be blessed, and David’s throne will be established before Yahweh forever.” ^46^ So the king commanded Benaiah the son of Jehoiada; and he went out, and fell on him, so that he died. The kingdom was established in the hand of Solomon. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## El matrimonio de Salomón con una princesa egipcia; su ofrenda inaugural y su sueño en Gabaón
@@ -265,6 +268,7 @@ Benaiah brought the king word again, saying, “This is what Joab said, and this
 ^28^ Todo Israel oyó el juicio que el rey había dictado; y temieron al rey, porque vieron que la sabiduría de Dios estaba en él para hacer justicia.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into David’s city until he had finished building his own house, Yahweh’s house, and the wall around Jerusalem. ^2^ However, the people sacrificed in the high places, because there was not yet a house built for Yahweh’s name. ^3^ Solomon loved Yahweh, walking in the statutes of David his father, except that he sacrificed and burned incense in the high places. ^4^ The king went to Gibeon to sacrifice there, for that was the great high place. Solomon offered a thousand burnt offerings on that altar. ^5^ In Gibeon, Yahweh appeared to Solomon in a dream by night; and God said, “Ask for what I should give you.” 
@@ -295,8 +299,8 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 
 ^28^ All Israel heard of the judgment which the king had judged; and they feared the king, for they saw that the wisdom of God was in him to do justice. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Los principales funcionarios y gobernadores de Salomón; su cortejo, poder y sabiduría
@@ -314,6 +318,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^a^[**4:25** Lev 25,18; 2Re 18,31] ^b^[**4:29** 1Re 3,12] ^c^[**4:32** Ecl 12,9] ^d^[**4:34** 1Re 10,1; 1Re 10,6]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ King Solomon was king over all Israel. ^2^ These were the princes whom he had: Azariah the son of Zadok, the priest; ^3^ Elihoreph and Ahijah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder; ^4^ Benaiah the son of Jehoiada was over the army; Zadok and Abiathar were priests; ^5^ Azariah the son of Nathan was over the officers; Zabud the son of Nathan was chief minister, the king’s friend; ^6^ Ahishar was over the household; and Adoniram the son of Abda was over the men subject to forced labor. 
@@ -321,10 +326,10 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^7^ Solomon had twelve officers over all Israel, who provided food for the king and his household. Each man had to make provision for a month in the year. ^8^ These are their names: Ben Hur, in the hill country of Ephraim; ^9^ Ben Deker, in Makaz, in Shaalbim, Beth Shemesh, and Elon Beth Hanan; ^10^ Ben Hesed, in Arubboth (Socoh and all the land of Hepher belonged to him); ^11^ Ben Abinadab, in all the height of Dor (he had Taphath, Solomon’s daughter, as wife); ^12^ Baana the son of Ahilud, in Taanach and Megiddo, and all Beth Shean which is beside Zarethan, beneath Jezreel, from Beth Shean to Abel Meholah, as far as beyond Jokmeam; ^13^ Ben Geber, in Ramoth Gilead (the towns of Jair the son of Manasseh, which are in Gilead, belonged to him; and the region of Argob, which is in Bashan, sixty great cities with walls and bronze bars, belonged to him); ^14^ Ahinadab the son of Iddo, in Mahanaim; ^15^ Ahimaaz, in Naphtali (he also took Basemath the daughter of Solomon as wife); ^16^ Baana the son of Hushai, in Asher and Bealoth; ^17^ Jehoshaphat the son of Paruah, in Issachar; ^18^ Shimei the son of Ela, in Benjamin; ^19^ Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; and he was the only officer who was in the land. 
 
 ^20^ Judah and Israel were numerous as the sand which is by the sea in multitude, eating and drinking and making merry. ^21^ Solomon ruled over all the kingdoms from the River to the land of the Philistines, and to the border of Egypt. They brought tribute and served Solomon all the days of his life. ^22^ Solomon’s provision for one day was thirty cors^a^ of fine flour, sixty measures of meal, ^23^ ten head of fat cattle, twenty head of cattle out of the pastures, and one hundred sheep, in addition to deer, gazelles, roebucks, and fattened fowl. ^24^ For he had dominion over all on this side the River, from Tiphsah even to Gaza, over all the kings on this side the River; and he had peace on all sides around him. ^25^ Judah and Israel lived safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon. ^26^ Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen. ^27^ Those officers provided food for King Solomon, and for all who came to King Solomon’s table, every man in his month. They let nothing be lacking. ^28^ They also brought barley and straw for the horses and swift steeds to the place where the officers were, each man according to his duty. ^29^ God gave Solomon abundant wisdom, understanding, and breadth of mind like the sand that is on the seashore. ^30^ Solomon’s wisdom excelled the wisdom of all the children of the east and all the wisdom of Egypt. ^31^ For he was wiser than all men—wiser than Ethan the Ezrahite, Heman, Calcol, and Darda, the sons of Mahol; and his fame was in all the nations all around. ^32^ He spoke three thousand proverbs, and his songs numbered one thousand five. ^33^ He spoke of trees, from the cedar that is in Lebanon even to the hyssop that grows out of the wall; he also spoke of animals, of birds, of creeping things, and of fish. ^34^ People of all nations came to hear the wisdom of Solomon, sent by all kings of the earth who had heard of his wisdom.
-^a^[**4:22** 1 cor is the same as a homer, or about 55. 9 U. S. gallons (liquid) or 211 liters or 6 bushels] 
+^a^[**4:22** 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## El contrato de Salomón con Hiram de Tiro y los preparativos para la construcción de un templo
@@ -347,6 +352,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^a^[**5:14** 1Re 4,6] ^b^[**5:18** Jos 13,5; Ezeq 27,9]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Hiram king of Tyre sent his servants to Solomon, for he had heard that they had anointed him king in the place of his father, and Hiram had always loved David. ^2^ Solomon sent to Hiram, saying, ^3^ “You know that David my father could not build a house for the name of Yahweh his God because of the wars which were around him on every side, until Yahweh put his enemies under the soles of his feet. ^4^ But now Yahweh my God has given me rest on every side. There is no enemy and no evil occurrence. ^5^ Behold, I intend to build a house for the name of Yahweh my God, as Yahweh spoke to David my father, saying, ‘Your son, whom I will set on your throne in your place shall build the house for my name.’ ^6^ Now therefore command that cedar trees be cut for me out of Lebanon. My servants will be with your servants; and I will give you wages for your servants according to all that you say. For you know that there is nobody among us who knows how to cut timber like the Sidonians.” 
@@ -354,12 +360,12 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^7^ When Hiram heard the words of Solomon, he rejoiced greatly, and said, “Blessed is Yahweh today, who has given to David a wise son to rule over this great people.” ^8^ Hiram sent to Solomon, saying, “I have heard the message which you have sent to me. I will do all your desire concerning timber of cedar, and concerning cypress timber. ^9^ My servants will bring them down from Lebanon to the sea. I will make them into rafts to go by sea to the place that you specify to me, and will cause them to be broken up there, and you will receive them. You will accomplish my desire, in giving food for my household.” 
 
 ^10^ So Hiram gave Solomon cedar timber and cypress timber according to all his desire. ^11^ Solomon gave Hiram twenty thousand cors^a^ of wheat for food to his household, and twenty cors^b^ of pure oil. Solomon gave this to Hiram year by year. ^12^ Yahweh gave Solomon wisdom, as he promised him. There was peace between Hiram and Solomon, and the two of them made a treaty together. 
-^a^[**5:11** 20, 000 cors would be about 120, 000 bushels or about 4. 2 megaliters of wheat, which would weigh about 3, 270 metric tons.] ^b^[**5:11** 20 cors is about 1, 100 gallons or about 4220 liters.]
+^a^[**5:11** 20,000 cors would be about 120,000 bushels or about 4.2 megaliters of wheat, which would weigh about 3,270 metric tons.] ^b^[**5:11** 20 cors is about 1,100 gallons or about 4220 liters.]
 
 ^13^ King Solomon raised a levy out of all Israel; and the levy was thirty thousand men. ^14^ He sent them to Lebanon, ten thousand a month by courses: for a month they were in Lebanon, and two months at home; and Adoniram was over the men subject to forced labor. ^15^ Solomon had seventy thousand who bore burdens, and eighty thousand who were stone cutters in the mountains, ^16^ besides Solomon’s chief officers who were over the work: three thousand three hundred who ruled over the people who labored in the work. ^17^ The king commanded, and they cut out large stones, costly stones, to lay the foundation of the house with worked stone. ^18^ Solomon’s builders and Hiram’s builders and the Gebalites cut them, and prepared the timber and the stones to build the house. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Construcción del templo y palacios reales
@@ -387,6 +393,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^a^[**6:37** 1Re 6,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ In the four hundred and eightieth year after the children of Israel had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Ziv, which is the second month, he began to build Yahweh’s house. ^2^ The house which King Solomon built for Yahweh had a length of sixty cubits,^a^ and its width twenty, and its height thirty cubits. ^3^ The porch in front of the temple of the house had a length of twenty cubits, which was along the width of the house. Ten cubits was its width in front of the house. ^4^ He made windows of fixed lattice work for the house. ^5^ Against the wall of the house, he built floors all around, against the walls of the house all around, both of the temple and of the inner sanctuary; and he made side rooms all around. ^6^ The lowest floor was five cubits wide, and the middle was six cubits wide, and the third was seven cubits wide; for on the outside he made offsets in the wall of the house all around, that the beams should not be inserted into the walls of the house. ^7^ The house, when it was under construction, was built of stone prepared at the quarry; and no hammer or ax or any tool of iron was heard in the house while it was under construction. ^8^ The door for the middle side rooms was in the right side of the house. They went up by winding stairs into the middle floor, and out of the middle into the third. ^9^ So he built the house and finished it; and he covered the house with beams and planks of cedar. ^10^ He built the floors all along the house, each five cubits high; and they rested on the house with timbers of cedar. 
@@ -403,8 +410,8 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 
 ^37^ The foundation of Yahweh’s house was laid in the fourth year, in the month Ziv. ^38^ In the eleventh year, in the month Bul, which is the eighth month, the house was finished throughout all its parts and according to all its specifications. So he spent seven years building it. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Descripción de los otros edificios (seculares) de Salomón
@@ -446,6 +453,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^51^ Asítoda la obra que el rey Salomón hizo en la casa de Yavé fue terminada. Salomón trajo las cosas que su padre David había dedicado — la plata, el oro y los utensilios — y las puso en los tesoros de la casa de Yavé.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ Solomon was building his own house thirteen years, and he finished all his house. ^2^ For he built the House of the Forest of Lebanon. Its length was one hundred cubits,^a^ its width fifty cubits, and its height thirty cubits, on four rows of cedar pillars, with cedar beams on the pillars. ^3^ It was covered with cedar above over the forty-five beams that were on the pillars, fifteen in a row. ^4^ There were beams in three rows, and window was facing window in three ranks. ^5^ All the doors and posts were made square with beams; and window was facing window in three ranks. ^6^ He made the hall of pillars. Its length was fifty cubits and its width thirty cubits, with a porch before them, and pillars and a threshold before them. ^7^ He made the porch of the throne where he was to judge, even the porch of judgment; and it was covered with cedar from floor to floor. ^8^ His house where he was to dwell, the other court within the porch, was of the same construction. He made also a house for Pharaoh’s daughter (whom Solomon had taken as wife), like this porch. ^9^ All these were of costly stones, even of stone cut according to measure, sawed with saws, inside and outside, even from the foundation to the coping, and so on the outside to the great court. ^10^ The foundation was of costly stones, even great stones, stones of ten cubits and stones of eight cubits. ^11^ Above were costly stones, even cut stone, according to measure, and cedar wood. ^12^ The great court around had three courses of cut stone with a course of cedar beams, like the inner court of Yahweh’s house and the porch of the house. 
@@ -456,7 +464,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^23^ He made the molten sea ten cubits from brim to brim, round in shape. Its height was five cubits; and a line of thirty cubits encircled it. ^24^ Under its brim around there were buds which encircled it for ten cubits, encircling the sea. The buds were in two rows, cast when it was cast. ^25^ It stood on twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east; and the sea was set on them above, and all their hindquarters were inward. ^26^ It was a hand width thick. Its brim was worked like the brim of a cup, like the flower of a lily. It held two thousand baths. 
 
 ^27^ He made the ten bases of bronze. The length of one base was four cubits, four cubits its width, and three cubits its height. ^28^ The work of the bases was like this: they had panels; and there were panels between the ledges; ^29^ and on the panels that were between the ledges were lions, oxen, and cherubim; and on the ledges there was a pedestal above; and beneath the lions and oxen were wreaths of hanging work. ^30^ Every base had four bronze wheels and axles of bronze; and its four feet had supports. The supports were cast beneath the basin, with wreaths at the side of each. ^31^ Its opening within the capital and above was a cubit. Its opening was round like the work of a pedestal, a cubit and a half; and also on its opening were engravings, and their panels were square, not round. ^32^ The four wheels were underneath the panels; and the axles of the wheels were in the base. The height of a wheel was a cubit and half a cubit. ^33^ The work of the wheels was like the work of a chariot wheel. Their axles, their rims, their spokes, and their hubs were all of cast metal. ^34^ There were four supports at the four corners of each base. Its supports were of the base itself. ^35^ In the top of the base there was a round band half a cubit high; and on the top of the base its supports and its panels were the same. ^36^ On the plates of its supports and on its panels, he engraved cherubim, lions, and palm trees, each in its space, with wreaths all around. ^37^ He made the ten bases in this way: all of them had one casting, one measure, and one form. ^38^ He made ten basins of bronze. One basin contained forty baths.^a^ Every basin measured four cubits. One basin was on every one of the ten bases. ^39^ He set the bases, five on the right side of the house and five on the left side of the house. He set the sea on the right side of the house eastward and toward the south. 
-^a^[**7:38** 1 bath is one tenth of a cor, or about 5. 6 U. S. gallons or 21 liters, so 40 baths was about 224 gallons or 840 liters.]
+^a^[**7:38** 1 bath is one tenth of a cor, or about 5.6 U. S. gallons or 21 liters, so 40 baths was about 224 gallons or 840 liters.]
 
 ^40^ Hiram made the pots, the shovels, and the basins. So Hiram finished doing all the work that he worked for King Solomon in Yahweh’s house: ^41^ the two pillars; the two bowls of the capitals that were on the top of the pillars; the two networks to cover the two bowls of the capitals that were on the top of the pillars; ^42^ the four hundred pomegranates for the two networks; two rows of pomegranates for each network, to cover the two bowls of the capitals that were on the pillars; ^43^ the ten bases; the ten basins on the bases; ^44^ the one sea; the twelve oxen under the sea; ^45^ the pots; the shovels; and the basins. All of these vessels, which Hiram made for King Solomon in Yahweh’s house, were of burnished bronze. ^46^ The king cast them in the plain of the Jordan, in the clay ground between Succoth and Zarethan. ^47^ Solomon left all the vessels unweighed, because there were so many of them. The weight of the bronze could not be determined. 
 
@@ -464,8 +472,8 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 
 ^51^ Thus all the work that King Solomon did in Yahweh’s house was finished. Solomon brought in the things which David his father had dedicated—the silver, the gold, and the vessels—and put them in the treasuries of Yahweh’s house. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Traslado del arca al templo
@@ -520,6 +528,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^65^ Salomón celebró entonces la fiesta, y todo Israel con él, una gran asamblea, desde la entrada de Hamat hasta el arroyo de Egipto, en presencia de Yahvé nuestro Dios, durante siete días y siete días más, es decir, catorce días. ^66^ Al octavo día despidió al pueblo, que bendijo al rey y se fue a sus tiendas alegres y contentos de corazón por toda la bondad que Yahvé había mostrado a su siervo David y a su pueblo Israel.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ Then Solomon assembled the elders of Israel with all the heads of the tribes, the princes of the fathers’ households of the children of Israel, to King Solomon in Jerusalem, to bring up the ark of Yahweh’s covenant out of David’s city, which is Zion. ^2^ All the men of Israel assembled themselves to King Solomon at the feast in the month Ethanim, which is the seventh month. ^3^ All the elders of Israel came, and the priests picked up the ark. ^4^ They brought up Yahweh’s ark, the Tent of Meeting, and all the holy vessels that were in the Tent. The priests and the Levites brought these up. ^5^ King Solomon and all the congregation of Israel, who were assembled to him, were with him before the ark, sacrificing sheep and cattle that could not be counted or numbered for multitude. ^6^ The priests brought in the ark of Yahweh’s covenant to its place, into the inner sanctuary of the house, to the most holy place, even under the cherubim’s wings. ^7^ For the cherubim spread their wings out over the place of the ark, and the cherubim covered the ark and its poles above. ^8^ The poles were so long that the ends of the poles were seen from the holy place before the inner sanctuary, but they were not seen outside. They are there to this day. ^9^ There was nothing in the ark except the two stone tablets which Moses put there at Horeb, when Yahweh made a covenant with the children of Israel, when they came out of the land of Egypt. ^10^ It came to pass, when the priests had come out of the holy place, that the cloud filled Yahweh’s house, ^11^ so that the priests could not stand to minister by reason of the cloud; for Yahweh’s glory filled Yahweh’s house. 
@@ -554,8 +563,8 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 
 ^65^ So Solomon held the feast at that time, and all Israel with him, a great assembly, from the entrance of Hamath to the brook of Egypt, before Yahweh our God, seven days and seven more days, even fourteen days. ^66^ On the eighth day he sent the people away; and they blessed the king, and went to their tents joyful and glad in their hearts for all the goodness that Yahweh had shown to David his servant, and to Israel his people. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## La reaparición de Dios y la respuesta a la oración de Salomón
@@ -579,12 +588,13 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^a^[**9:27** 1Re 10,11] ^b^[**9:28** Gén 10,29]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ When Solomon had finished the building of Yahweh’s house, the king’s house, and all Solomon’s desire which he was pleased to do, ^2^ Yahweh appeared to Solomon the second time, as he had appeared to him at Gibeon. ^3^ Yahweh said to him, “I have heard your prayer and your supplication that you have made before me. I have made this house holy, which you have built, to put my name there forever; and my eyes and my heart shall be there perpetually. ^4^ As for you, if you will walk before me as David your father walked, in integrity of heart and in uprightness, to do according to all that I have commanded you, and will keep my statutes and my ordinances, ^5^ then I will establish the throne of your kingdom over Israel forever, as I promised to David your father, saying, ‘There shall not fail from you a man on the throne of Israel.’ ^6^ But if you turn away from following me, you or your children, and not keep my commandments and my statutes which I have set before you, but go and serve other gods and worship them, ^7^ then I will cut off Israel out of the land which I have given them; and I will cast this house, which I have made holy for my name, out of my sight; and Israel will be a proverb and a byword among all peoples. ^8^ Though this house is so high, yet everyone who passes by it will be astonished and hiss; and they will say, ‘Why has Yahweh done this to this land and to this house?’ ^9^ and they will answer, ‘Because they abandoned Yahweh their God, who brought their fathers out of the land of Egypt, and embraced other gods, and worshiped them, and served them. Therefore Yahweh has brought all this evil on them.’” 
 
 ^10^ At the end of twenty years, in which Solomon had built the two houses, Yahweh’s house and the king’s house ^11^ (now Hiram the king of Tyre had furnished Solomon with cedar trees and cypress trees, and with gold, according to all his desire), King Solomon gave Hiram twenty cities in the land of Galilee. ^12^ Hiram came out of Tyre to see the cities which Solomon had given him; and they didn’t please him. ^13^ He said, “What cities are these which you have given me, my brother?” He called them the land of Cabul^a^ to this day. ^14^ Hiram sent to the king one hundred twenty talents^b^ of gold. 
-^a^[**9:13** “Cabul” sounds like Hebrew for “good-for-nothing”.] ^b^[**9:14** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 120 talents is about 3. 6 metric tons]
+^a^[**9:13** “Cabul” sounds like Hebrew for “good-for-nothing”.] ^b^[**9:14** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 120 talents is about 3.6 metric tons]
 
 ^15^ This is the reason of the forced labor which King Solomon conscripted: to build Yahweh’s house, his own house, Millo, Jerusalem’s wall, Hazor, Megiddo, and Gezer. ^16^ Pharaoh king of Egypt had gone up, taken Gezer, burned it with fire, killed the Canaanites who lived in the city, and given it for a wedding gift to his daughter, Solomon’s wife. ^17^ Solomon built in the land Gezer, Beth Horon the lower, ^18^ Baalath, Tamar in the wilderness, ^19^ all the storage cities that Solomon had, the cities for his chariots, the cities for his horsemen, and that which Solomon desired to build for his pleasure in Jerusalem, and in Lebanon, and in all the land of his dominion. ^20^ As for all the people who were left of the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites, who were not of the children of Israel— ^21^ their children who were left after them in the land, whom the children of Israel were not able utterly to destroy—of them Solomon raised a levy of bondservants to this day. ^22^ But of the children of Israel Solomon made no bondservants; but they were the men of war, his servants, his princes, his captains, and rulers of his chariots and of his horsemen. ^23^ These were the five hundred fifty chief officers who were over Solomon’s work, who ruled over the people who labored in the work. 
 
@@ -593,10 +603,10 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^25^ Solomon offered burnt offerings and peace offerings on the altar which he built to Yahweh three times per year, burning incense with them on the altar that was before Yahweh. So he finished the house. 
 
 ^26^ King Solomon made a fleet of ships in Ezion Geber, which is beside Eloth, on the shore of the Red Sea, in the land of Edom. ^27^ Hiram sent in the fleet his servants, sailors who had knowledge of the sea, with the servants of Solomon. ^28^ They came to Ophir, and fetched from there gold, four hundred and twenty talents,^a^ and brought it to King Solomon.
-^a^[**9:28** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 420 talents is about 12. 6 metric tons] 
+^a^[**9:28** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 420 talents is about 12.6 metric tons] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## Visita de la Reina de Saba
@@ -618,6 +628,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^a^[**10:26** 1Re 4,26; 2Cró 1,14-17] ^b^[**10:29** Un siclo equivale a unos 10 gramos o a unas 0,35 onzas.]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ When the queen of Sheba heard of the fame of Solomon concerning Yahweh’s name, she came to test him with hard questions. ^2^ She came to Jerusalem with a very great caravan, with camels that bore spices, very much gold, and precious stones; and when she had come to Solomon, she talked with him about all that was in her heart. ^3^ Solomon answered all her questions. There wasn’t anything hidden from the king which he didn’t tell her. ^4^ When the queen of Sheba had seen all the wisdom of Solomon, the house that he had built, ^5^ the food of his table, the sitting of his servants, the attendance of his officials, their clothing, his cup bearers, and his ascent by which he went up to Yahweh’s house, there was no more spirit in her. ^6^ She said to the king, “It was a true report that I heard in my own land of your acts and of your wisdom. ^7^ However, I didn’t believe the words until I came and my eyes had seen it. Behold, not even half was told me! Your wisdom and prosperity exceed the fame which I heard. ^8^ Happy are your men, happy are these your servants who stand continually before you, who hear your wisdom. ^9^ Blessed is Yahweh your God, who delighted in you, to set you on the throne of Israel. Because Yahweh loved Israel forever, therefore he made you king, to do justice and righteousness.” ^10^ She gave the king one hundred twenty talents of gold, and a very great quantity of spices, and precious stones. Never again was there such an abundance of spices as these which the queen of Sheba gave to King Solomon. 
@@ -628,15 +639,15 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^13^ King Solomon gave to the queen of Sheba all her desire, whatever she asked, in addition to that which Solomon gave her of his royal bounty. So she turned and went to her own land, she and her servants. 
 
 ^14^ Now the weight of gold that came to Solomon in one year was six hundred sixty-six talents^a^ of gold, ^15^ in addition to that which the traders brought, and the traffic of the merchants, and of all the kings of the mixed people, and of the governors of the country. ^16^ King Solomon made two hundred bucklers of beaten gold; six hundred shekels^b^ of gold went to one buckler. ^17^ He made three hundred shields of beaten gold; three minas^c^ of gold went to one shield; and the king put them in the House of the Forest of Lebanon. ^18^ Moreover the king made a great throne of ivory, and overlaid it with the finest gold. ^19^ There were six steps to the throne, and the top of the throne was round behind; and there were armrests on either side by the place of the seat, and two lions standing beside the armrests. ^20^ Twelve lions stood there on the one side and on the other on the six steps. Nothing like it was made in any kingdom. ^21^ All King Solomon’s drinking vessels were of gold, and all the vessels of the House of the Forest of Lebanon were of pure gold. None were of silver, because it was considered of little value in the days of Solomon. ^22^ For the king had a fleet of ships of Tarshish at sea with Hiram’s fleet. Once every three years the fleet of Tarshish came bringing gold, silver, ivory, apes, and peacocks. 
-^a^[**10:14** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 666 talents is about 20 metric tons] ^b^[**10:16** A shekel is about 10 grams or about 0. 32 Troy ounces, so 600 shekels is about 6 kilograms or 13. 2 pounds or 192 Troy ounces.] ^c^[**10:17** A mina is about 600 grams or 1. 3 U. S. pounds.]
+^a^[**10:14** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 666 talents is about 20 metric tons] ^b^[**10:16** A shekel is about 10 grams or about 0.32 Troy ounces, so 600 shekels is about 6 kilograms or 13.2 pounds or 192 Troy ounces.] ^c^[**10:17** A mina is about 600 grams or 1.3 U. S. pounds.]
 
 ^23^ So King Solomon exceeded all the kings of the earth in riches and in wisdom. ^24^ All the earth sought the presence of Solomon to hear his wisdom which God had put in his heart. ^25^ Year after year, every man brought his tribute, vessels of silver, vessels of gold, clothing, armor, spices, horses, and mules. 
 
 ^26^ Solomon gathered together chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen. He kept them in the chariot cities and with the king at Jerusalem. ^27^ The king made silver as common as stones in Jerusalem, and cedars as common as the sycamore trees that are in the lowland. ^28^ The horses which Solomon had were brought out of Egypt. The king’s merchants received them in droves, each drove at a price. ^29^ A chariot was imported from Egypt for six hundred shekels^a^ of silver, and a horse for one hundred fifty shekels; and so they exported them to all the kings of the Hittites and to the kings of Syria.
-^a^[**10:29** A shekel is about 10 grams or about 0. 35 ounces.] 
+^a^[**10:29** A shekel is about 10 grams or about 0.35 ounces.] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ## La poligamia y la idolatría de Salomón; La amenaza de dios
@@ -666,6 +677,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 ^41^ Los demás hechos de Salomón, y todo lo que hizo, y su sabiduría, ¿no están escritos en el libro de los hechos de Salomón? ^42^ El tiempo que Salomón reinó en Jerusalén sobre todo Israel fue de cuarenta años. ^43^ Salomón durmió con sus padres, y fue enterrado en la ciudad de su padre David; y reinó en su lugar Roboam, su hijo.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ Now King Solomon loved many foreign women, together with the daughter of Pharaoh: women of the Moabites, Ammonites, Edomites, Sidonians, and Hittites, ^2^ of the nations concerning which Yahweh said to the children of Israel, “You shall not go among them, neither shall they come among you, for surely they will turn away your heart after their gods.” Solomon joined to these in love. ^3^ He had seven hundred wives, princesses, and three hundred concubines. His wives turned his heart away. ^4^ When Solomon was old, his wives turned away his heart after other gods; and his heart was not perfect with Yahweh his God, as the heart of David his father was. ^5^ For Solomon went after Ashtoreth the goddess of the Sidonians, and after Milcom the abomination of the Ammonites. ^6^ Solomon did that which was evil in Yahweh’s sight, and didn’t go fully after Yahweh, as David his father did. ^7^ Then Solomon built a high place for Chemosh the abomination of Moab, on the mountain that is before Jerusalem, and for Molech the abomination of the children of Ammon. ^8^ So he did for all his foreign wives, who burned incense and sacrificed to their gods. ^9^ Yahweh was angry with Solomon, because his heart was turned away from Yahweh, the God of Israel, who had appeared to him twice, ^10^ and had commanded him concerning this thing, that he should not go after other gods; but he didn’t keep that which Yahweh commanded. ^11^ Therefore Yahweh said to Solomon, “Because this is done by you, and you have not kept my covenant and my statutes, which I have commanded you, I will surely tear the kingdom from you, and will give it to your servant. ^12^ Nevertheless, I will not do it in your days, for David your father’s sake; but I will tear it out of your son’s hand. ^13^ However, I will not tear away all the kingdom; but I will give one tribe to your son, for David my servant’s sake, and for Jerusalem’s sake which I have chosen.” 
@@ -686,8 +698,8 @@ He answered, “Nothing, however only let me depart.”
 
 ^41^ Now the rest of the acts of Solomon, and all that he did, and his wisdom, aren’t they written in the book of the acts of Solomon? ^42^ The time that Solomon reigned in Jerusalem over all Israel was forty years. ^43^ Solomon slept with his fathers, and was buried in his father David’s city; and Rehoboam his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## La división del imperio; La dieta de Siquem; Pide ayuda a los israelitas
@@ -733,6 +745,7 @@ He answered, “Nothing, however only let me depart.”
 ^33^ Subió al altar que había hecho en Betel el día quince del mes octavo, el mes que había ideado de su propio corazón, e instituyó una fiesta para los hijos de Israel, y subió al altar a quemar incienso.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ Rehoboam went to Shechem, for all Israel had come to Shechem to make him king. ^2^ When Jeroboam the son of Nebat heard of it (for he was yet in Egypt, where he had fled from the presence of King Solomon, and Jeroboam lived in Egypt; ^3^ and they sent and called him), Jeroboam and all the assembly of Israel came, and spoke to Rehoboam, saying, ^4^ “Your father made our yoke difficult. Now therefore make the hard service of your father, and his heavy yoke which he put on us, lighter, and we will serve you.” 
@@ -761,8 +774,8 @@ So the people departed.
 
 ^25^ Then Jeroboam built Shechem in the hill country of Ephraim, and lived in it; and he went out from there and built Penuel. ^26^ Jeroboam said in his heart, “Now the kingdom will return to David’s house. ^27^ If this people goes up to offer sacrifices in Yahweh’s house at Jerusalem, then the heart of this people will turn again to their lord, even to Rehoboam king of Judah; and they will kill me, and return to Rehoboam king of Judah.” ^28^ So the king took counsel, and made two calves of gold; and he said to them, “It is too much for you to go up to Jerusalem. Look and behold your gods, Israel, which brought you up out of the land of Egypt!” ^29^ He set the one in Bethel, and the other he put in Dan. ^30^ This thing became a sin, for the people went even as far as Dan to worship before the one there. ^31^ He made houses of high places, and made priests from among all the people, who were not of the sons of Levi. ^32^ Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like the feast that is in Judah, and he went up to the altar. He did so in Bethel, sacrificing to the calves that he had made, and he placed in Bethel the priests of the high places that he had made. ^33^ He went up to the altar which he had made in Bethel on the fifteenth day in the eighth month, even in the month which he had devised of his own heart; and he ordained a feast for the children of Israel, and went up to the altar to burn incense. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ^1^ He aquí que un hombre de Dios vino de Judá, por palabra de Yavé, a Betel; y Jeroboam estaba junto al altar para quemar incienso. ^2^ El gritó contra el altar por palabra de Yavé, y dijo: “¡Altar! ¡Altar! Yahvé dice: ‘He aquí que va a nacer un hijo en la casa de David, cuyo nombre es Josías. Sobre ti sacrificará a los sacerdotes de los lugares altos que queman incienso, y sobre ti quemarán huesos de hombres’”. ^a^ ^3^ Ese mismo día dio una señal, diciendo: “Esta es la señal que ha dicho el Señor: He aquí que el altar se partirá, y las cenizas que están sobre él se derramarán.”
@@ -803,6 +816,7 @@ So the people departed.
 ^a^[**13:33** 1Re 12,31; Éxod 28,41] ^b^[**13:34** 1Re 12,30]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ Behold, a man of God came out of Judah by Yahweh’s word to Bethel; and Jeroboam was standing by the altar to burn incense. ^2^ He cried against the altar by Yahweh’s word, and said, “Altar! Altar! Yahweh says: ‘Behold, a son will be born to David’s house, Josiah by name. On you he will sacrifice the priests of the high places who burn incense on you, and they will burn men’s bones on you.’” ^3^ He gave a sign the same day, saying, “This is the sign which Yahweh has spoken: Behold, the altar will be split apart, and the ashes that are on it will be poured out.” 
@@ -835,8 +849,8 @@ He said, “I am.”
 
 ^33^ After this thing, Jeroboam didn’t turn from his evil way, but again made priests of the high places from among all the people. Whoever wanted to, he consecrated him, that there might be priests of the high places. ^34^ This thing became sin to the house of Jeroboam, even to cut it off and to destroy it from off the surface of the earth. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ## Amenaza de castigo del profeta Ahías; Muerte de Jeroboam
@@ -867,6 +881,7 @@ He said, “I am.”
 ^a^[**14:30** 1Re 15,6] ^b^[**14:31** 1Re 14,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ At that time Abijah the son of Jeroboam became sick. ^2^ Jeroboam said to his wife, “Please get up and disguise yourself, so that you won’t be recognized as Jeroboam’s wife. Go to Shiloh. Behold, Ahijah the prophet is there, who said that I would be king over this people. ^3^ Take with you ten loaves of bread, some cakes, and a jar of honey, and go to him. He will tell you what will become of the child.” 
@@ -886,8 +901,8 @@ He said, “I am.”
 
 ^29^ Now the rest of the acts of Rehoboam, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah? ^30^ There was war between Rehoboam and Jeroboam continually. ^31^ Rehoboam slept with his fathers, and was buried with his fathers in David’s city. His mother’s name was Naamah the Ammonitess. Abijam his son reigned in his place. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## Gobierno del rey Abia de Judá
@@ -917,6 +932,7 @@ He said, “I am.”
 ^a^[**15:33** 1Re 15,28] ^b^[**15:34** 1Re 15,26]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ Now in the eighteenth year of King Jeroboam the son of Nebat, Abijam began to reign over Judah. ^2^ He reigned three years in Jerusalem. His mother’s name was Maacah the daughter of Abishalom. ^3^ He walked in all the sins of his father, which he had done before him; and his heart was not perfect with Yahweh his God, as the heart of David his father. ^4^ Nevertheless for David’s sake, Yahweh his God gave him a lamp in Jerusalem, to set up his son after him and to establish Jerusalem; ^5^ because David did that which was right in Yahweh’s eyes, and didn’t turn away from anything that he commanded him all the days of his life, except only in the matter of Uriah the Hittite. ^6^ Now there was war between Rehoboam and Jeroboam all the days of his life. ^7^ The rest of the acts of Abijam, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah? There was war between Abijam and Jeroboam. ^8^ Abijam slept with his fathers, and they buried him in David’s city; and Asa his son reigned in his place. 
@@ -933,8 +949,8 @@ He said, “I am.”
 
 ^33^ In the third year of Asa king of Judah, Baasha the son of Ahijah began to reign over all Israel in Tirzah for twenty-four years. ^34^ He did that which was evil in Yahweh’s sight, and walked in the way of Jeroboam, and in his sin with which he made Israel to sin. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ## La amenaza de juicio del profeta Jehú contra Baesa
@@ -973,6 +989,7 @@ He said, “I am.”
 ^a^[**16:34** Jos 6,26]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ Yahweh’s word came to Jehu the son of Hanani against Baasha, saying, ^2^ “Because I exalted you out of the dust and made you prince over my people Israel, and you have walked in the way of Jeroboam and have made my people Israel to sin, to provoke me to anger with their sins, ^3^ behold, I will utterly sweep away Baasha and his house; and I will make your house like the house of Jeroboam the son of Nebat. ^4^ The dogs will eat Baasha’s descendants who die in the city; and he who dies of his in the field, the birds of the sky will eat.” 
@@ -993,8 +1010,8 @@ He said, “I am.”
 
 ^29^ In the thirty-eighth year of Asa king of Judah, Ahab the son of Omri began to reign over Israel. Ahab the son of Omri reigned over Israel in Samaria twenty-two years. ^30^ Ahab the son of Omri did that which was evil in Yahweh’s sight above all that were before him. ^31^ As if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, he took as wife Jezebel the daughter of Ethbaal king of the Sidonians, and went and served Baal and worshiped him. ^32^ He raised up an altar for Baal in the house of Baal, which he had built in Samaria. ^33^ Ahab made the Asherah; and Ahab did more yet to provoke Yahweh, the God of Israel, to anger than all the kings of Israel who were before him. ^34^ In his days Hiel the Bethelite built Jericho. He laid its foundation with the loss of Abiram his firstborn, and set up its gates with the loss of his youngest son Segub, according to Yahweh’s word, which he spoke by Joshua the son of Nun. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 17
 ## Elías delante del rey Acab y en el arroyo Krith
@@ -1036,6 +1053,7 @@ He said, “I am.”
 ^24^ La mujer dijo a Elías: “Ahora sé que eres un hombre de Dios y que la palabra de Yahvé en tu boca es verdad.”
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 17
 ^1^ Elijah the Tishbite, who was one of the settlers of Gilead, said to Ahab, “As Yahweh, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word.” 
@@ -1064,8 +1082,8 @@ He said, “I am.”
 
 ^24^ The woman said to Elijah, “Now I know that you are a man of God, and that Yahweh’s word in your mouth is truth.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 18
 ## El mandato de Dios a Elías; El encuentro de Obadja con Elijah
@@ -1133,6 +1151,7 @@ He said, “I am.”
 ^45^ Al poco tiempo, el cielo se oscureció con nubes y viento, y hubo una gran lluvia. Acab cabalgó y se dirigió a Jezreel. ^46^ La mano de Yahvé estaba sobre Elías; éste se metió el manto en el cinturón y corrió delante de Ajab hasta la entrada de Jezreel.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 18
 ^1^ After many days, Yahweh’s word came to Elijah, in the third year, saying, “Go, show yourself to Ahab; and I will send rain on the earth.” 
@@ -1168,7 +1187,7 @@ All the people answered, “What you say is good.”
 ^28^ They cried aloud, and cut themselves in their way with knives and lances until the blood gushed out on them. ^29^ When midday was past, they prophesied until the time of the evening offering; but there was no voice, no answer, and nobody paid attention. 
 
 ^30^ Elijah said to all the people, “Come near to me!”; and all the people came near to him. He repaired Yahweh’s altar that had been thrown down. ^31^ Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, to whom Yahweh’s word came, saying, “Israel shall be your name.” ^32^ With the stones he built an altar in Yahweh’s name. He made a trench around the altar large enough to contain two seahs^a^ of seed. ^33^ He put the wood in order, and cut the bull in pieces and laid it on the wood. He said, “Fill four jars with water, and pour it on the burnt offering and on the wood.” ^34^ He said, “Do it a second time;” and they did it the second time. He said, “Do it a third time;” and they did it the third time. ^35^ The water ran around the altar; and he also filled the trench with water. 
-^a^[**18:32** 1 seah is about 7 liters or 1. 9 gallons or 0. 8 pecks]
+^a^[**18:32** 1 seah is about 7 liters or 1.9 gallons or 0.8 pecks]
 
 ^36^ At the time of the evening offering, Elijah the prophet came near and said, “Yahweh, the God of Abraham, of Isaac, and of Israel, let it be known today that you are God in Israel and that I am your servant, and that I have done all these things at your word. ^37^ Hear me, Yahweh, hear me, that this people may know that you, Yahweh, are God, and that you have turned their heart back again.” 
 
@@ -1192,8 +1211,8 @@ He said, “Go up, tell Ahab, ‘Get ready and go down, so that the rain doesn�
 
 ^45^ In a little while, the sky grew black with clouds and wind, and there was a great rain. Ahab rode, and went to Jezreel. ^46^ Yahweh’s hand was on Elijah; and he tucked his cloak into his belt and ran before Ahab to the entrance of Jezreel. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 19
 ## La amenaza de Jezabel; El desaliento de Elías; su fortalecimiento por un ángel y su viaje a Horeb
@@ -1231,6 +1250,7 @@ He said, “Go up, tell Ahab, ‘Get ready and go down, so that the rain doesn�
 ^21^ Volvió de seguirlo, y tomó la yunta de bueyes, los mató y coció su carne con el equipo de los bueyes, y dio al pueblo; y ellos comieron. Luego se levantó, y fue en pos de Elías, y le sirvió.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 19
 ^1^ Ahab told Jezebel all that Elijah had done, and how he had killed all the prophets with the sword. ^2^ Then Jezebel sent a messenger to Elijah, saying, “So let the gods do to me, and more also, if I don’t make your life as the life of one of them by tomorrow about this time!” 
@@ -1259,8 +1279,8 @@ He said to him, “Go back again; for what have I done to you?”
 
 ^21^ He returned from following him, and took the yoke of oxen, killed them, and boiled their meat with the oxen’s equipment, and gave to the people; and they ate. Then he arose, and went after Elijah, and served him. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 20
 ## Ben-adad asedia Samaria; La debilidad inicial de Acab, luego un comportamiento decidido
@@ -1320,6 +1340,7 @@ He said to him, “Go back again; for what have I done to you?”
 ^43^ El rey de Israel se fue a su casa hosco y enojado, y llegó a Samaria.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 20
 ^1^ Ben Hadad the king of Syria gathered all his army together; and there were thirty-two kings with him, with horses and chariots. He went up and besieged Samaria, and fought against it. ^2^ He sent messengers into the city to Ahab king of Israel and said to him, “Ben Hadad says, ^3^ ‘Your silver and your gold are mine. Your wives also and your children, even the best, are mine.’” 
@@ -1389,8 +1410,8 @@ The king of Israel said to him, “So shall your judgment be. You yourself have 
 
 ^43^ The king of Israel went to his house sullen and angry, and came to Samaria. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 21
 ## El vergonzoso acto de violencia de Acab contra Nabot
@@ -1431,6 +1452,7 @@ The king of Israel said to him, “So shall your judgment be. You yourself have 
 ^a^[**21:29** 2Re 9,22; 2Re 9,26]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 21
 ^1^ After these things, Naboth the Jezreelite had a vineyard which was in Jezreel, next to the palace of Ahab king of Samaria. ^2^ Ahab spoke to Naboth, saying, “Give me your vineyard, that I may have it for a garden of herbs, because it is near my house; and I will give you for it a better vineyard than it. Or, if it seems good to you, I will give you its worth in money.” 
@@ -1462,8 +1484,8 @@ He answered, “I have found you, because you have sold yourself to do that whic
 
 ^28^ Yahweh’s word came to Elijah the Tishbite, saying, ^29^ “See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days; but I will bring the evil on his house in his son’s day.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 22
 ## Acab y Josafat unen fuerzas en la guerra contra Siria
@@ -1544,6 +1566,7 @@ He answered, “I have found you, because you have sold yourself to do that whic
 ## Ochôzías, rey de Israel
 ^52^ Hizo lo malo ante los ojos de Yahvé, y anduvo en el camino de su padre, y en el camino de su madre, y en el camino de Jeroboam hijo de Nabat, en el cual hizo pecar a Israel. ^[**22:52** 1Re 12,30] ^53^ Sirvió a Baal y lo adoró, y provocó la ira de Yavé, el Dios de Israel, en todas las formas en que su padre lo había hecho. ^[**22:53** 1Re 16,31-33]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 22
 ^1^ They continued three years without war between Syria and Israel. ^2^ In the third year, Jehoshaphat the king of Judah came down to the king of Israel. ^3^ The king of Israel said to his servants, “You know that Ramoth Gilead is ours, and we do nothing, and don’t take it out of the hand of the king of Syria?” ^4^ He said to Jehoshaphat, “Will you go with me to battle to Ramoth Gilead?” 
@@ -1611,4 +1634,5 @@ He said, ‘You will entice him, and will also prevail. Go out and do so.’ ^23
 ^45^ Now the rest of the acts of Jehoshaphat, and his might that he showed, and how he fought, aren’t they written in the book of the chronicles of the kings of Judah? ^46^ The remnant of the sodomites, that remained in the days of his father Asa, he put away out of the land. ^47^ There was no king in Edom. A deputy ruled. ^48^ Jehoshaphat made ships of Tarshish to go to Ophir for gold, but they didn’t go, for the ships wrecked at Ezion Geber. ^49^ Then Ahaziah the son of Ahab said to Jehoshaphat, “Let my servants go with your servants in the ships.” But Jehoshaphat would not. ^50^ Jehoshaphat slept with his fathers, and was buried with his fathers in his father David’s city. Jehoram his son reigned in his place. 
 
 ^51^ Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel. ^52^ He did that which was evil in Yahweh’s sight, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, in which he made Israel to sin. ^53^ He served Baal and worshiped him, and provoked Yahweh, the God of Israel, to anger in all the ways that his father had done so.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

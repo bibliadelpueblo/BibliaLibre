@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Bendiciones
@@ -22,6 +23,7 @@
 ^a^[**1:18** 1Tim 4,14; 1Tim 6,12; Jds 1,3] ^b^[**1:19** 1Tim 3,9; 1Tim 6,10] ^c^[**1:20** 1Cor 5,5; 2Tim 2,17]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ^a^ our hope, ^2^ to Timothy, my true child in faith: Grace, mercy, and peace from God our Father and Christ Jesus our Lord. 
@@ -35,8 +37,8 @@
 
 ^18^ I commit this instruction to you, my child Timothy, according to the prophecies which were given to you before, that by them you may wage the good warfare, ^19^ holding faith and a good conscience, which some having thrust away made a shipwreck concerning the faith, ^20^ of whom are Hymenaeus and Alexander, whom I delivered to Satan that they might be taught not to blaspheme. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Regulaciones sobre la oración en congregación para todas las personas, especialmente para las autoridades
@@ -48,6 +50,7 @@
 ^a^[**2:8** Sant 1,6] ^b^[**2:9** 1Pe 3,3-5] ^c^[**2:10** 1Tim 5,10] ^d^[**2:11** Efes 5,22] ^e^[**2:12** 1Cor 14,34; Gén 3,16] ^f^[**2:14** Gén 3,6] ^g^[**2:15** 1Tim 5,14; Tit 2,4; Tit 1,2-5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks be made for all men, ^2^ for kings and all who are in high places, that we may lead a tranquil and quiet life in all godliness and reverence. ^3^ For this is good and acceptable in the sight of God our Savior, ^4^ who desires all people to be saved and come to full knowledge of the truth. ^5^ For there is one God and one mediator between God and men, the man Christ Jesus, ^6^ who gave himself as a ransom for all, the testimony at the proper time, ^7^ to which I was appointed a preacher and an apostle—I am telling the truth in Christ, not lying—a teacher of the Gentiles in faith and truth. 
@@ -55,8 +58,8 @@
 ^8^ I desire therefore that the men in every place pray, lifting up holy hands without anger and doubting. ^9^ In the same way, that women also adorn themselves in decent clothing, with modesty and propriety, not^a^ with braided hair, gold, pearls, or expensive clothing, ^10^ but with good works, which is appropriate for women professing godliness. ^11^ Let a woman learn in quietness with full submission. ^12^ But I don’t permit a woman to teach, nor to exercise authority over a man, but to be in quietness. ^13^ For Adam was formed first, then Eve. ^14^ Adam wasn’t deceived, but the woman, being deceived, has fallen into disobedience; ^15^ but she will be saved through her childbearing, if they continue in faith, love, and holiness with sobriety.
 ^a^[**2:9** The word for “not” is the negative particle “μη” which denies an expected idea, as opposed to the usual word for “not” (ου) which denies a fact. Thus “μη” in this context is denying an expected idea (that women can be properly dressed without good works).] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Requisitos para el cargo de jefe
@@ -72,6 +75,7 @@
 ^a^[**3:15** Efes 2,19-22] ^b^[**3:16** Juan 1,14; Rom 1,4; Efes 1,20-21; Hech 28,28; Mar 16,19]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ This is a faithful saying: someone who seeks to be an overseer^a^ desires a good work. ^2^ The overseer therefore must be without reproach, the husband of one wife, temperate, sensible, modest, hospitable, good at teaching; ^3^ not a drinker, not violent, not greedy for money, but gentle, not quarrelsome, not covetous; ^4^ one who rules his own house well, having children in subjection with all reverence; ^5^ (for how could someone who doesn’t know how to rule his own house take care of God’s assembly?) ^6^ not a new convert, lest being puffed up he fall into the same condemnation as the devil. ^7^ Moreover he must have good testimony from those who are outside, to avoid falling into reproach and the snare of the devil. 
@@ -83,8 +87,8 @@
 ^14^ These things I write to you, hoping to come to you shortly, ^15^ but if I wait long, that you may know how men ought to behave themselves in God’s house, which is the assembly of the living God, the pillar and ground of the truth. ^16^ Without controversy, the mystery of godliness is great: God^a^ was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory.
 ^a^[**3:16** NU replaces “God” with “who”] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Advertencia de la abstinencia hipócrita de los falsos maestros
@@ -100,6 +104,7 @@
 ^a^[**4:12** Tit 2,15; 2Tim 2,22] ^b^[**4:14** 1Tim 1,18; 1Tim 5,22; Hech 6,6; Hech 8,17; 2Tim 1,6] ^c^[**4:16** Rom 11,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons, ^2^ through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron, ^3^ forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth. ^4^ For every creature of God is good, and nothing is to be rejected if it is received with thanksgiving. ^5^ For it is sanctified through the word of God and prayer. 
@@ -108,8 +113,8 @@
 
 ^12^ Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity. ^13^ Until I come, pay attention to reading, to exhortation, and to teaching. ^14^ Don’t neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the elders. ^15^ Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all. ^16^ Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Del correcto comportamiento pastoral hacia las diferentes edades de ambos sexos
@@ -139,6 +144,7 @@
 ^24^ Algunos pecados de los hombres son evidentes y los preceden al juicio, y otros también los siguen después. ^25^ Así también hay obras buenas que son evidentes, y las que no lo son no pueden ocultarse.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Don’t rebuke an older man, but exhort him as a father; the younger men as brothers; ^2^ the elder women as mothers; the younger as sisters, in all purity. 
@@ -159,8 +165,8 @@
 
 ^24^ Some men’s sins are evident, preceding them to judgment, and some also follow later. ^25^ In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Reglas para los esclavos cristianos
@@ -185,6 +191,7 @@
 ## Advertencia final contra la herejía
 ^20^ Timoteo, guarda lo que se te ha encomendado, apartándote de la palabrería vacía y de las oposiciones de lo que se llama falsamente conocimiento, ^[**6:20** 1Tim 4,7; 2Tim 1,12-14] ^21^ que algunos profesan, y así se han desviado de la fe. Que la gracia sea contigo. Amén. ^[**6:21** 1Tim 1,6; 2Tim 2,18]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed. ^2^ Those who have believing masters, let them not despise them because they are brothers, but rather let them serve them, because those who partake of the benefit are believing and beloved. Teach and exhort these things. 
@@ -201,4 +208,5 @@
 ^20^ Timothy, guard that which is committed to you, turning away from the empty chatter and oppositions of what is falsely called knowledge, ^21^ which some profess, and thus have wandered from the faith. 
 
 Grace be with you. Amen.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

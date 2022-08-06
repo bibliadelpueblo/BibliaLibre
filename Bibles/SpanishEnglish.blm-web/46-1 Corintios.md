@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Bendiciones
@@ -25,6 +26,7 @@
 ^a^[**1:26** Juan 7,48; Sant 2,1-5] ^b^[**1:29** Rom 3,27; Efes 2,9] ^c^[**1:30** Jer 23,5-6; 2Cor 5,21; Juan 17,19; Mat 20,28] ^d^[**1:31** Jeremías 9:24] ^e^[**1:31** 2Cor 10,17]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ Paul, called to be an apostle of Jesus Christ^a^ through the will of God, and our brother Sosthenes, ^2^ to the assembly of God which is at Corinth—those who are sanctified in Christ Jesus, called saints, with all who call on the name of our Lord Jesus Christ in every place, both theirs and ours: ^3^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
@@ -40,8 +42,8 @@
 ^26^ For you see your calling, brothers, that not many are wise according to the flesh, not many mighty, and not many noble; ^27^ but God chose the foolish things of the world that he might put to shame those who are wise. God chose the weak things of the world that he might put to shame the things that are strong. ^28^ God chose the lowly things of the world, and the things that are despised, and the things that don’t exist, that he might bring to nothing the things that exist, ^29^ that no flesh should boast before God. ^30^ Because of him, you are in Christ Jesus, who was made to us wisdom from God, and righteousness and sanctification, and redemption, ^31^ that, as it is written, “He who boasts, let him boast in the Lord.”^a^
 ^a^[**1:31** Jeremiah 9:24] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## La manera de predicar de Pablo cuando se fundó la iglesia era poco exigente y carecía de sabiduría mundana
@@ -57,6 +59,7 @@
 ^a^[**2:10** Mat 13,11; Col 1,26] ^b^[**2:12** Juan 14,16-17] ^c^[**2:14** 1Cor 1,23; Juan 8,47] ^d^[**2:16** Isaías 40:13] ^e^[**2:16** Rom 11,34]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ When I came to you, brothers, I didn’t come with excellence of speech or of wisdom, proclaiming to you the testimony of God. ^2^ For I determined not to know anything among you except Jesus Christ and him crucified. ^3^ I was with you in weakness, in fear, and in much trembling. ^4^ My speech and my preaching were not in persuasive words of human wisdom, but in demonstration of the Spirit and of power, ^5^ that your faith wouldn’t stand in the wisdom of men, but in the power of God. 
@@ -67,8 +70,8 @@
 ^10^ But to us, God revealed them through the Spirit. For the Spirit searches all things, yes, the deep things of God. ^11^ For who among men knows the things of a man except the spirit of the man which is in him? Even so, no one knows the things of God except God’s Spirit. ^12^ But we received not the spirit of the world, but the Spirit which is from God, that we might know the things that were freely given to us by God. ^13^ We also speak these things, not in words which man’s wisdom teaches but which the Holy Spirit teaches, comparing spiritual things with spiritual things. ^14^ Now the natural man doesn’t receive the things of God’s Spirit, for they are foolishness to him; and he can’t know them, because they are spiritually discerned. ^15^ But he who is spiritual discerns all things, and he himself is to be judged by no one. ^16^ “For who has known the mind of the Lord that he should instruct him?” ^a^ But we have Christ’s mind.
 ^a^[**2:16** Isaiah 40:13] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Hasta ahora Pablo no ha podido proclamar plena sabiduría a los corintios debido a su inmadurez, que ha sido demostrada por la picardía del partido
@@ -90,6 +93,7 @@
 ^a^[**3:18** Apoc 3,17-18] ^b^[**3:19** Job 5:13] ^c^[**3:20** Salmo 94:11] ^d^[**3:23** 1Cor 11,3]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Brothers, I couldn’t speak to you as to spiritual, but as to fleshly, as to babies in Christ. ^2^ I fed you with milk, not with solid food, for you weren’t yet ready. Indeed, you aren’t ready even now, ^3^ for you are still fleshly. For insofar as there is jealousy, strife, and factions among you, aren’t you fleshly, and don’t you walk in the ways of men? ^4^ For when one says, “I follow Paul,” and another, “I follow Apollos,” aren’t you fleshly? 
@@ -103,8 +107,8 @@
 ^18^ Let no one deceive himself. If anyone thinks that he is wise among you in this world, let him become a fool that he may become wise. ^19^ For the wisdom of this world is foolishness with God. For it is written, “He has taken the wise in their craftiness.”^a^ ^20^ And again, “The Lord knows the reasoning of the wise, that it is worthless.”^b^ ^21^ Therefore let no one boast in men. For all things are yours, ^22^ whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come. All are yours, ^23^ and you are Christ’s, and Christ is God’s.
 ^a^[**3:19** Job 5:13] ^b^[**3:20** Psalm 94:11] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Pablo sabe que es responsable solo ante el Señor
@@ -123,6 +127,7 @@
 ^a^[**4:15** 1Cor 9,2; Gal 4,19] ^b^[**4:16** 1Cor 11,1] ^c^[**4:17** Hech 16,1-3] ^d^[**4:20** 1Cor 2,4] ^e^[**4:21** 2Cor 10,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ So let a man think of us as Christ’s servants and stewards of God’s mysteries. ^2^ Here, moreover, it is required of stewards that they be found faithful. ^3^ But with me it is a very small thing that I should be judged by you, or by a human court. Yes, I don’t even judge my own self. ^4^ For I know nothing against myself. Yet I am not justified by this, but he who judges me is the Lord. ^5^ Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts. Then each man will get his praise from God. 
@@ -133,8 +138,8 @@
 
 ^14^ I don’t write these things to shame you, but to admonish you as my beloved children. ^15^ For though you have ten thousand tutors in Christ, you don’t have many fathers. For in Christ Jesus, I became your father through the Good News. ^16^ I beg you therefore, be imitators of me. ^17^ Because of this I have sent Timothy to you, who is my beloved and faithful child in the Lord, who will remind you of my ways which are in Christ, even as I teach everywhere in every assembly. ^18^ Now some are puffed up, as though I were not coming to you. ^19^ But I will come to you shortly, if the Lord is willing. And I will know, not the word of those who are puffed up, but the power. ^20^ For God’s Kingdom is not in word, but in power. ^21^ What do you want? Shall I come to you with a rod, or in love and a spirit of gentleness? 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Grave reprimenda por la tolerancia mostrada por la comunidad a un fornicario
@@ -150,6 +155,7 @@
 ^a^[**5:11** 2Tes 3,6] ^b^[**5:13** Deuteronomio 17:7; 19:19; 21:21; 22:21; 24:7] ^c^[**5:13** Deut 13,5; Mat 18,17]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father’s wife. ^2^ You are arrogant, and didn’t mourn instead, that he who had done this deed might be removed from among you. ^3^ For I most certainly, as being absent in body but present in spirit, have already, as though I were present, judged him who has done this thing. ^4^ In the name of our Lord Jesus Christ, when you are gathered together with my spirit with the power of our Lord Jesus Christ, ^5^ you are to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. 
@@ -159,8 +165,8 @@
 ^9^ I wrote to you in my letter to have no company with sexual sinners; ^10^ yet not at all meaning with the sexual sinners of this world, or with the covetous and extortionists, or with idolaters, for then you would have to leave the world. ^11^ But as it is, I wrote to you not to associate with anyone who is called a brother who is a sexual sinner, or covetous, or an idolater, or a slanderer, or a drunkard, or an extortionist. Don’t even eat with such a person. ^12^ For what do I have to do with also judging those who are outside? Don’t you judge those who are within? ^13^ But those who are outside, God judges. “Put away the wicked man from among yourselves.”^a^
 ^a^[**5:13** Deuteronomy 17:7; 19:19; 21:21; 22:21; 24:7] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## Denuncia de litigio en tribunales paganos y litigio en general
@@ -175,6 +181,7 @@
 ^a^[**6:12** 1Cor 10,23] ^b^[**6:13** 1Cor 1,3-5] ^c^[**6:14** 1Cor 15,20; 2Cor 4,14] ^d^[**6:16** Génesis 2:24] ^e^[**6:17** Juan 17,21-22] ^f^[**6:19** 1Cor 3,16] ^g^[**6:20** 1Cor 7,23; 1Pe 1,18-19; Fil 1,20]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints? ^2^ Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters? ^3^ Don’t you know that we will judge angels? How much more, things that pertain to this life? ^4^ If then you have to judge things pertaining to this life, do you set them to judge who are of no account in the assembly? ^5^ I say this to move you to shame. Isn’t there even one wise man among you who would be able to decide between his brothers? ^6^ But brother goes to law with brother, and that before unbelievers! ^7^ Therefore it is already altogether a defect in you that you have lawsuits one with another. Why not rather be wronged? Why not rather be defrauded? ^8^ No, but you yourselves do wrong and defraud, and that against your brothers. 
@@ -184,8 +191,8 @@
 ^12^ “All things are lawful for me,” but not all things are expedient. “All things are lawful for me,” but I will not be brought under the power of anything. ^13^ “Foods for the belly, and the belly for foods,” but God will bring to nothing both it and them. But the body is not for sexual immorality, but for the Lord, and the Lord for the body. ^14^ Now God raised up the Lord, and will also raise us up by his power. ^15^ Don’t you know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a prostitute? May it never be! ^16^ Or don’t you know that he who is joined to a prostitute is one body? For, “The two”, he says, “will become one flesh.”^a^ ^17^ But he who is joined to the Lord is one spirit. ^18^ Flee sexual immorality! “Every sin that a man does is outside the body,” but he who commits sexual immorality sins against his own body. ^19^ Or don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own, ^20^ for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God’s.
 ^a^[**6:16** Genesis 2:24] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## El valor y las necesidades del matrimonio y la vida conyugal en general
@@ -223,6 +230,7 @@
 ^a^[**7:39** Rom 7,2]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ Now concerning the things about which you wrote to me: it is good for a man not to touch a woman. ^2^ But, because of sexual immoralities, let each man have his own wife, and let each woman have her own husband. ^3^ Let the husband give his wife the affection owed her,^a^ and likewise also the wife her husband. ^4^ The wife doesn’t have authority over her own body, but the husband does. Likewise also the husband doesn’t have authority over his own body, but the wife does. ^5^ Don’t deprive one another, unless it is by consent for a season, that you may give yourselves to fasting and prayer, and may be together again, that Satan doesn’t tempt you because of your lack of self-control. 
@@ -244,8 +252,8 @@
 
 ^39^ A wife is bound by law for as long as her husband lives; but if the husband is dead, she is free to be married to whomever she desires, only in the Lord. ^40^ But she is happier if she stays as she is, in my judgment, and I think that I also have God’s Spirit. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## El conocimiento en sí mismo tiene menos valor que el amor
@@ -264,6 +272,7 @@
 ^a^[**8:8** Rom 14,17] ^b^[**8:9** Gal 5,13] ^c^[**8:11** Rom 14,15] ^d^[**8:13** Rom 14,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up. ^2^ But if anyone thinks that he knows anything, he doesn’t yet know as he ought to know. ^3^ But anyone who loves God is known by him. 
@@ -272,8 +281,8 @@
 
 ^7^ However, that knowledge isn’t in all men. But some, with consciousness of an idol until now, eat as of a thing sacrificed to an idol, and their conscience, being weak, is defiled. ^8^ But food will not commend us to God. For neither, if we don’t eat are we the worse, nor if we eat are we the better. ^9^ But be careful that by no means does this liberty of yours become a stumbling block to the weak. ^10^ For if a man sees you who have knowledge sitting in an idol’s temple, won’t his conscience, if he is weak, be emboldened to eat things sacrificed to idols? ^11^ And through your knowledge, he who is weak perishes, the brother for whose sake Christ died. ^12^ Thus, sinning against the brothers, and wounding their conscience when it is weak, you sin against Christ. ^13^ Therefore, if food causes my brother to stumble, I will eat no meat forever more, that I don’t cause my brother to stumble. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## Explicación y justificación de los derechos debidos a Pablo como apóstol
@@ -302,6 +311,7 @@
 ^a^[**9:24** Fil 3,14; 2Tim 4,7] ^b^[**9:25** 2Tim 2,4-5; 1Pe 5,4] ^c^[**9:27** Rom 13,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ Am I not free? Am I not an apostle? Haven’t I seen Jesus Christ, our Lord? Aren’t you my work in the Lord? ^2^ If to others I am not an apostle, yet at least I am to you; for you are the seal of my apostleship in the Lord. 
@@ -318,8 +328,8 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^19^ For though I was free from all, I brought myself under bondage to all, that I might gain the more. ^20^ To the Jews I became as a Jew, that I might gain Jews; to those who are under the law, as under the law,^a^ that I might gain those who are under the law; ^21^ to those who are without law, as without law (not being without law toward God, but under law toward Christ), that I might win those who are without law. ^22^ To the weak I became as weak, that I might gain the weak. I have become all things to all men, that I may by all means save some. ^23^ Now I do this for the sake of the Good News, that I may be a joint partaker of it. ^24^ Don’t you know that those who run in a race all run, but one receives the prize? Run like that, so that you may win. ^25^ Every man who strives in the games exercises self-control in all things. Now they do it to receive a corruptible crown, but we an incorruptible. ^26^ I therefore run like that, not aimlessly. I fight like that, not beating the air, ^27^ but I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be disqualified.
 ^a^[**9:20** NU adds: though I myself am not under the law] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## Das durch göttliche Gnadenerweise in der Wüste gesegnete und zur Rettung ins heilige Land berufene Israel
@@ -352,6 +362,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^a^[**10:31** Col 3,17] ^b^[**10:32** Rom 14,13] ^c^[**10:33** 1Cor 9,20-22]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ Now I would not have you ignorant, brothers, that our fathers were all under the cloud, and all passed through the sea; ^2^ and were all baptized into Moses in the cloud and in the sea; ^3^ and all ate the same spiritual food; ^4^ and all drank the same spiritual drink. For they drank of a spiritual rock that followed them, and the rock was Christ. ^5^ However with most of them, God was not well pleased, for they were overthrown in the wilderness. 
@@ -370,8 +381,8 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 ^31^ Whether therefore you eat or drink, or whatever you do, do all to the glory of God. ^32^ Give no occasion for stumbling, whether to Jews, to Greeks, or to the assembly of God; ^33^ even as I also please all men in all things, not seeking my own profit, but the profit of the many, that they may be saved. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ^1^ Sed imitadores de mí, como yo también lo soy de Cristo.
@@ -395,6 +406,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^a^[**11:27** 1Cor 11,21-22] ^b^[**11:28** Mat 26,22] ^c^[**11:29** 1Cor 10,16-17] ^d^[**11:32** Prov 3,11-12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ Be imitators of me, even as I also am of Christ. 
@@ -410,8 +422,8 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 ^27^ Therefore whoever eats this bread or drinks the Lord’s cup in a way unworthy of the Lord will be guilty of the body and the blood of the Lord. ^28^ But let a man examine himself, and so let him eat of the bread and drink of the cup. ^29^ For he who eats and drinks in an unworthy way eats and drinks judgment to himself if he doesn’t discern the Lord’s body. ^30^ For this cause many among you are weak and sickly, and not a few sleep. ^31^ For if we discerned ourselves, we wouldn’t be judged. ^32^ But when we are judged, we are disciplined by the Lord, that we may not be condemned with the world. ^33^ Therefore, my brothers, when you come together to eat, wait for one another. ^34^ But if anyone is hungry, let him eat at home, lest your coming together be for judgment. The rest I will set in order whenever I come. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## La marca de los dones espirituales divinamente forjados
@@ -437,6 +449,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^a^[**12:31** 1Cor 14,1; 1Cor 14,12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ Now concerning spiritual things, brothers, I don’t want you to be ignorant. ^2^ You know that when you were heathen,^a^ you were led away to those mute idols, however you might be led. ^3^ Therefore I make known to you that no man speaking by God’s Spirit says, “Jesus is accursed.” No one can say, “Jesus is Lord,” but by the Holy Spirit. 
@@ -450,8 +463,8 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 ^27^ Now you are the body of Christ, and members individually. ^28^ God has set some in the assembly: first apostles, second prophets, third teachers, then miracle workers, then gifts of healings, helps, governments, and various kinds of languages. ^29^ Are all apostles? Are all prophets? Are all teachers? Are all miracle workers? ^30^ Do all have gifts of healings? Do all speak with various languages? Do all interpret? ^31^ But earnestly desire the best gifts. Moreover, I show a most excellent way to you. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 13
 ^1^ Si hablo con las lenguas de los hombres y de los ángeles, pero no tengo amor, me he convertido en bronce que resuena o en címbalo que retiñe. ^2^ Si tengo el don de profecía, y conozco todos los misterios y toda la ciencia, y si tengo toda la fe, como para remover montañas, pero no tengo amor, no soy nada. ^a^ ^3^ Si doy todos mis bienes para alimentar a los pobres, y si entrego mi cuerpo para que lo quemen, pero no tengo amor, de nada me sirve. ^b^
@@ -466,6 +479,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^a^[**13:12** 1Cor 8,3; Núm 12,8; 2Cor 5,7] ^b^[**13:13** 1Tes 1,3; 1Jn 4,16]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 13
 ^1^ If I speak with the languages of men and of angels, but don’t have love, I have become sounding brass or a clanging cymbal. ^2^ If I have the gift of prophecy, and know all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but don’t have love, I am nothing. ^3^ If I give away all my goods to feed the poor, and if I give my body to be burned, but don’t have love, it profits me nothing. 
@@ -474,8 +488,8 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 ^8^ Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with. ^9^ For we know in part and we prophesy in part; ^10^ but when that which is complete has come, then that which is partial will be done away with. ^11^ When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a man, I have put away childish things. ^12^ For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known. ^13^ But now faith, hope, and love remain—these three. The greatest of these is love. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 14
 ^1^ Seguid el amor y desead fervientemente los dones espirituales, pero sobre todo que profeticéis.
@@ -515,6 +529,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^a^[**14:40** 1Cor 14,33; Col 2,5]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 14
 ^1^ Follow after love and earnestly desire spiritual gifts, but especially that you may prophesy. ^2^ For he who speaks in another language speaks not to men, but to God, for no one understands, but in the Spirit he speaks mysteries. ^3^ But he who prophesies speaks to men for their edification, exhortation, and consolation. ^4^ He who speaks in another language edifies himself, but he who prophesies edifies the assembly. ^5^ Now I desire to have you all speak with other languages, but even more that you would prophesy. For he is greater who prophesies than he who speaks with other languages, unless he interprets, that the assembly may be built up. 
@@ -536,8 +551,8 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 ^39^ Therefore, brothers, desire earnestly to prophesy, and don’t forbid speaking with other languages. ^40^ Let all things be done decently and in order. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 15
 ## De los hechos y testigos por los que se certifica la resurrección de Cristo
@@ -582,6 +597,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^a^[**15:56** Rom 7,8; Rom 7,11; Rom 7,13] ^b^[**15:57** 1Jn 5,4] ^c^[**15:58** 2Cró 15,7]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 15
 ^1^ Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand, ^2^ by which also you are saved, if you hold firmly the word which I preached to you—unless you believed in vain. 
@@ -608,8 +624,8 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 ^56^ The sting of death is sin, and the power of sin is the law. ^57^ But thanks be to God, who gives us the victory through our Lord Jesus Christ. ^58^ Therefore, my beloved brothers, be steadfast, immovable, always abounding in the Lord’s work, because you know that your labor is not in vain in the Lord. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 16
 ## Invitación a participar en la recaudación de fondos para Jerusalén
@@ -638,6 +654,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 ^21^ Este saludo es de mi parte, Pablo, con mi propia mano. ^[**16:21** Gal 6,11; Col 4,18; 2Tes 3,17] ^22^ El que no ame al Señor Jesucristo, que se maldiga. Ven, Señor. ^[**16:22** Apoc 22,20] ^23^ La gracia del Señor Jesucristo esté con vosotros. ^24^ Mi amor a todos ustedes en Cristo Jesús. Amén.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 16
 ^1^ Now concerning the collection for the saints: as I commanded the assemblies of Galatia, you do likewise. ^2^ On the first day of every week, let each one of you save as he may prosper, that no collections are made when I come. ^3^ When I arrive, I will send whoever you approve with letters to carry your gracious gift to Jerusalem. ^4^ If it is appropriate for me to go also, they will go with me. 
@@ -656,4 +673,5 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 ^21^ This greeting is by me, Paul, with my own hand. ^22^ If any man doesn’t love the Lord Jesus Christ, let him be cursed.^a^ Come, Lord!^b^ ^23^ The grace of the Lord Jesus Christ be with you. ^24^ My love to all of you in Christ Jesus. Amen. 
 ^a^[**16:22** Greek: anathema.] ^b^[**16:22** Aramaic: Maranatha!]
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

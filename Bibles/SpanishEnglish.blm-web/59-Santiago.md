@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Salutaciones y Bendiciones
@@ -35,6 +36,7 @@
 ^a^[**1:26** 1Pe 3,10]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ James, a servant of God and of the Lord Jesus Christ,^a^ to the twelve tribes which are in the Dispersion: Greetings. 
@@ -58,8 +60,8 @@
 
 ^26^ If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless. ^27^ Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## Cuidado con la reputación de la persona, especialmente de los pobres
@@ -81,6 +83,7 @@
 ^a^[**2:21** Gén 22,1; Heb 11,17] ^b^[**2:25** Jos 2,1; Heb 11,31]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality. ^2^ For if a man with a gold ring, in fine clothing, comes into your synagogue,^a^ and a poor man in filthy clothing also comes in, ^3^ and you pay special attention to him who wears the fine clothing and say, “Sit here in a good place;” and you tell the poor man, “Stand there,” or “Sit by my footstool” ^4^ haven’t you shown partiality among yourselves, and become judges with evil thoughts? ^5^ Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith and heirs of the Kingdom which he promised to those who love him? ^6^ But you have dishonored the poor man. Don’t the rich oppress you and personally drag you before the courts? ^7^ Don’t they blaspheme the honorable name by which you are called? 
@@ -94,8 +97,8 @@
 ^19^ You believe that God is one. You do well. The demons also believe—and shudder. ^20^ But do you want to know, vain man, that faith apart from works is dead? ^21^ Wasn’t Abraham our father justified by works, in that he offered up Isaac his son on the altar? ^22^ You see that faith worked with his works, and by works faith was perfected. ^23^ So the Scripture was fulfilled which says, “Abraham believed God, and it was accounted to him as righteousness,”^a^ and he was called the friend of God. ^24^ You see then that by works a man is justified, and not only by faith. ^25^ In the same way, wasn’t Rahab the prostitute also justified by works when she received the messengers and sent them out another way? ^26^ For as the body apart from the spirit is dead, even so faith apart from works is dead.
 ^a^[**2:23** Genesis 15:6] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Advertencia contra las prisas no solicitadas para enseñar y contra los pecados de la lengua
@@ -107,6 +110,7 @@
 ^a^[**3:15** Sant 1,5] ^b^[**3:18** Is 32,17; Mat 5,9; Fil 1,11]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment. ^2^ For we all stumble in many things. Anyone who doesn’t stumble in word is a perfect person, able to bridle the whole body also. ^3^ Indeed, we put bits into the horses’ mouths so that they may obey us, and we guide their whole body. ^4^ Behold,^a^ the ships also, though they are so big and are driven by fierce winds, are yet guided by a very small rudder, wherever the pilot desires. ^5^ So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest! ^6^ And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.^b^ ^7^ For every kind of animal, bird, creeping thing, and sea creature is tamed, and has been tamed by mankind; ^8^ but nobody can tame the tongue. It is a restless evil, full of deadly poison. ^9^ With it we bless our God and Father, and with it we curse men who are made in the image of God. ^10^ Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so. ^11^ Does a spring send out from the same opening fresh and bitter water? ^12^ Can a fig tree, my brothers, yield olives, or a vine figs? Thus no spring yields both salt water and fresh water. 
@@ -114,8 +118,8 @@
 
 ^13^ Who is wise and understanding among you? Let him show by his good conduct that his deeds are done in gentleness of wisdom. ^14^ But if you have bitter jealousy and selfish ambition in your heart, don’t boast and don’t lie against the truth. ^15^ This wisdom is not that which comes down from above, but is earthly, sensual, and demonic. ^16^ For where jealousy and selfish ambition are, there is confusion and every evil deed. ^17^ But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy. ^18^ Now the fruit of righteousness is sown in peace by those who make peace. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## Advertencias contra la contienda, la insatisfacción y el cosmopolitismo, contra el abuso y el juicio descuidado
@@ -130,6 +134,7 @@
 ^a^[**4:13** Prov 27,1] ^b^[**4:14** Luc 12,20] ^c^[**4:15** Hech 18,21; 1Cor 4,19] ^d^[**4:17** Luc 12,47]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ^1^ Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members? ^2^ You lust, and don’t have. You murder and covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask. ^3^ You ask, and don’t receive, because you ask with wrong motives, so that you may spend it on your pleasures. ^4^ You adulterers and adulteresses, don’t you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God. ^5^ Or do you think that the Scripture says in vain, “The Spirit who lives in us yearns jealously”? ^6^ But he gives more grace. Therefore it says, “God resists the proud, but gives grace to the humble.”^a^ ^7^ Be subject therefore to God. Resist the devil, and he will flee from you. ^8^ Draw near to God, and he will draw near to you. Cleanse your hands, you sinners. Purify your hearts, you double-minded. ^9^ Lament, mourn, and weep. Let your laughter be turned to mourning and your joy to gloom. ^10^ Humble yourselves in the sight of the Lord, and he will exalt you. 
@@ -139,8 +144,8 @@
 
 ^13^ Come now, you who say, “Today or tomorrow let’s go into this city and spend a year there, trade, and make a profit.” ^14^ Yet you don’t know what your life will be like tomorrow. For what is your life? For you are a vapor that appears for a little time and then vanishes away. ^15^ For you ought to say, “If the Lord wills, we will both live, and do this or that.” ^16^ But now you glory in your boasting. All such boasting is evil. ^17^ To him therefore who knows to do good and doesn’t do it, to him it is sin. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Anuncio del juicio inminente a los exuberantes ricos y los siervos de Mammon que se olvidan de Dios
@@ -163,6 +168,7 @@
 
 ^19^ Hermanos, si alguno de vosotros se aleja de la verdad y alguien lo hace volver, ^[**5:19** Gal 6,1] ^20^ que sepa que quien hace volver a un pecador del error de su camino salvará un alma de la muerte y cubrirá una multitud de pecados. ^[**5:20** Sal 51,13; Prov 10,12; 1Pe 4,8]
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Come now, you rich, weep and howl for your miseries that are coming on you. ^2^ Your riches are corrupted and your garments are moth-eaten. ^3^ Your gold and your silver are corroded, and their corrosion will be for a testimony against you and will eat your flesh like fire. You have laid up your treasure in the last days. ^4^ Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out; and the cries of those who reaped have entered into the ears of the Lord of Armies.^a^ ^5^ You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter. ^6^ You have condemned and you have murdered the righteous one. He doesn’t resist you. 
@@ -178,4 +184,5 @@
 ^13^ Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises. ^14^ Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord; ^15^ and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven. ^16^ Confess your sins to one another and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective. ^17^ Elijah was a man with a nature like ours, and he prayed earnestly that it might not rain, and it didn’t rain on the earth for three years and six months. ^18^ He prayed again, and the sky gave rain, and the earth produced its fruit. 
 
 ^19^ Brothers, if any among you wanders from the truth and someone turns him back, ^20^ let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

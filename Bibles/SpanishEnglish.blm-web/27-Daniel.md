@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## La crianza de Daniel en la corte pagana de Babilonia
@@ -29,6 +30,7 @@
 ^a^[**1:21** Esd 1,1]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. ^2^ The Lord^a^ gave Jehoiakim king of Judah into his hand, with some of the vessels of the house of God;^b^ and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god. 
@@ -51,8 +53,8 @@
 
 ^21^ Daniel continued even to the first year of King Cyrus. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 2
 ## El sueño de Nabucodonosor interpretado por Daniel
@@ -113,6 +115,7 @@
 ^a^[**2:48** Dan 2,6] ^b^[**2:49** Dan 3,12]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ^1^ In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him. ^2^ Then the king commanded that the magicians, the enchanters, the sorcerers, and the Chaldeans be called to tell the king his dreams. So they came in and stood before the king. ^3^ The king said to them, “I have dreamed a dream, and my spirit is troubled to know the dream.” 
@@ -156,8 +159,8 @@
 
 ^48^ Then the king made Daniel great and gave him many great gifts, and made him rule over the whole province of Babylon and to be chief governor over all the wise men of Babylon. ^49^ Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon, but Daniel was in the king’s gate. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 3
 ## Nabucodonosor hace levantar un ídolo y ordena su adoración sobre el castigo de muerte por fuego
@@ -196,6 +199,7 @@
 ^30^ Entonces el rey ascendió a Sadrac, Mesac y Abednego en la provincia de Babilonia.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ^1^ Nebuchadnezzar the king made an image of gold, whose height was sixty cubits^a^ and its width six cubits. He set it up in the plain of Dura, in the province of Babylon. ^2^ Then Nebuchadnezzar the king sent to gather together the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up. ^3^ Then the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces were gathered together to the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up. 
@@ -228,8 +232,8 @@ Then Shadrach, Meshach, and Abednego came out of the middle of the fire. ^27^ Th
 
 ^30^ Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 4
 ## El segundo sueño de Nabucodonosor, su humillación y exaltación
@@ -252,9 +256,11 @@ Then Shadrach, Meshach, and Abednego came out of the middle of the fire. ^27^ Th
 ^a^[**4:37** Dan 5,20; Luc 1,51; Luc 18,14]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 4
-i1 ^1^ Nebuchadnezzar the king, 
+*i1* \
+ ^1^ Nebuchadnezzar the king, 
 
 i1 to all the peoples, nations, and languages, who dwell in all the earth: 
 
@@ -290,8 +296,8 @@ i1 ^34^ At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, a
 
 i1 ^36^ At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me. My counselors and my lords sought me; and I was established in my kingdom, and excellent greatness was added to me. ^37^ Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 5
 ## Belsasar consagra los vasos del templo de los judíos
@@ -332,6 +338,7 @@ i1 ^36^ At the same time my understanding returned to me; and for the glory of m
 ^a^[**5:31** Dan 9,1; Is 13,17]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ^1^ Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand. ^2^ Belshazzar, while he tasted the wine, commanded that the golden and silver vessels which Nebuchadnezzar his father had taken out of the temple which was in Jerusalem be brought to him, that the king and his lords, his wives and his concubines, might drink from them. ^3^ Then they brought the golden vessels that were taken out of the temple of God’s house which was at Jerusalem; and the king and his lords, his wives and his concubines, drank from them. ^4^ They drank wine, and praised the gods of gold, and of silver, of bronze, of iron, of wood, and of stone. 
@@ -360,8 +367,8 @@ i1 ^36^ At the same time my understanding returned to me; and for the glory of m
 
 ^30^ In that night Belshazzar the Chaldean King was slain. ^31^ Darius the Mede received the kingdom, being about sixty-two years old. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 6
 ## El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios
@@ -413,6 +420,7 @@ i1 ^36^ At the same time my understanding returned to me; and for the glory of m
 ^a^[**6:28** Dan 1,21]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ^1^ It pleased Darius to set over the kingdom one hundred twenty local governors, who should be throughout the whole kingdom; ^2^ and over them three presidents, of whom Daniel was one, that these local governors might give account to them, and that the king should suffer no loss. ^3^ Then this Daniel was distinguished above the presidents and the local governors, because an excellent spirit was in him; and the king thought to set him over the whole realm. 
@@ -449,8 +457,8 @@ i1 ^26^ “I make a decree that in all the dominion of my kingdom men tremble an
 
 ^28^ So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 7
 ## Daniels Traum von dem Erscheinen eines Löwen, eines Bären, eines Panthers, eines furchtbaren Tieres mit zehn Hörnern sowie eines kleinen Horns
@@ -498,6 +506,7 @@ i1 ^26^ “I make a decree that in all the dominion of my kingdom men tremble an
 ^28^ “Aquíestá el final del asunto. En cuanto a mí, Daniel, mis pensamientos me turbaron mucho, y mi rostro se transformó en mí; pero guardé el asunto en mi corazón.”
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ^1^ In the first year of Belshazzar king of Babylon, Daniel had a dream and visions of his head while on his bed. Then he wrote the dream and told the sum of the matters. 
@@ -530,8 +539,8 @@ i1 ^26^ “I make a decree that in all the dominion of my kingdom men tremble an
 
 ^28^ “Here is the end of the matter. As for me, Daniel, my thoughts troubled me greatly, and my face was changed in me; but I kept the matter in my heart.” 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 8
 ## Escena de la cara del sueño; Lucha del carnero de cuernos desiguales (persa) y el macho cabrío de un cuerno (griego); Victoria y fortalecimiento de este último
@@ -570,6 +579,7 @@ i1 ^26^ “I make a decree that in all the dominion of my kingdom men tremble an
 ^27^ Yo, Daniel, me desmayé y estuve enfermo durante algunos días. Luego me levanté y me ocupé de los asuntos del rey. Me asombraba la visión, pero nadie la entendía.
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ^1^ In the third year of the reign of King Belshazzar, a vision appeared to me, even to me, Daniel, after that which appeared to me at the first. ^2^ I saw the vision. Now it was so, that when I saw, I was in the citadel of Susa, which is in the province of Elam. I saw in the vision, and I was by the river Ulai. ^3^ Then I lifted up my eyes and saw, and behold, a ram which had two horns stood before the river. The two horns were high, but one was higher than the other, and the higher came up last. ^4^ I saw the ram pushing westward, northward, and southward. No animals could stand before him. There wasn’t any who could deliver out of his hand, but he did according to his will, and magnified himself. 
@@ -596,8 +606,8 @@ i1 ^26^ “I make a decree that in all the dominion of my kingdom men tremble an
 
 ^27^ I, Daniel, fainted, and was sick for some days. Then I rose up and did the king’s business. I wondered at the vision, but no one understood it. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 9
 ## Daniel, preocupado por una profecía de Jeremías, decide obtener información de Dios a través de una oración solemne
@@ -618,6 +628,7 @@ i1 ^26^ “I make a decree that in all the dominion of my kingdom men tremble an
 ^a^[**9:25** “Ungido” también puede traducirse como “Mesías” (igual que “Cristo”).] ^b^[**9:26** “Ungido” también puede traducirse como “Mesías” (igual que “Cristo”).] ^c^[**9:26** Luc 21,24] ^d^[**9:27** Dan 12,11; Mat 24,15]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ^1^ In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans— ^2^ in the first year of his reign I, Daniel, understood by the books the number of the years about which Yahweh’s^a^ word came to Jeremiah the prophet for the accomplishing of the desolations of Jerusalem, even seventy years. ^3^ I set my face to the Lord God, to seek by prayer and petitions, with fasting and sackcloth and ashes. 
@@ -633,15 +644,17 @@ i1 “Therefore the curse and the oath written in the law of Moses the servant o
 
 i1 ^15^ “Now, Lord our God, who has brought your people out of the land of Egypt with a mighty hand, and have gotten yourself renown, as it is today, we have sinned. We have done wickedly. ^16^ Lord, according to all your righteousness, please let your anger and your wrath be turned away from your city Jerusalem, your holy mountain; because for our sins and for the iniquities of our fathers, Jerusalem and your people have become a reproach to all who are around us. 
 
-i1 ^17^ “Now therefore, our God, listen to the prayer of your servant and to his petitions, and cause your face to shine on your sanctuary that is desolate, for the Lord’s sake. ^18^ My God, turn your ear and hear. Open your eyes and see our desolations, and the city which is called by your name; for we do not present our petitions before you for our righteousness, but for your great mercies’ sake. ^19^ Lord, hear. Lord, forgive. Lord, listen and do. Don’t defer, for your own sake, my God, because your city and your people are called by your name.” ^20^ While I was speaking, praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before Yahweh my God for the holy mountain of my God— ^21^ yes, while I was speaking in prayer—the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening offering. ^22^ He instructed me and talked with me, and said, “Daniel, I have now come to give you wisdom and understanding. ^23^ At the beginning of your petitions the commandment went out, and I have come to tell you, for you are greatly beloved. Therefore consider the matter and understand the vision. 
+i1 ^17^ “Now therefore, our God, listen to the prayer of your servant and to his petitions, and cause your face to shine on your sanctuary that is desolate, for the Lord’s sake. ^18^ My God, turn your ear and hear. Open your eyes and see our desolations, and the city which is called by your name; for we do not present our petitions before you for our righteousness, but for your great mercies’ sake. ^19^ Lord, hear. Lord, forgive. Lord, listen and do. Don’t defer, for your own sake, my God, because your city and your people are called by your name.” 
+
+^20^ While I was speaking, praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before Yahweh my God for the holy mountain of my God— ^21^ yes, while I was speaking in prayer—the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening offering. ^22^ He instructed me and talked with me, and said, “Daniel, I have now come to give you wisdom and understanding. ^23^ At the beginning of your petitions the commandment went out, and I have come to tell you, for you are greatly beloved. Therefore consider the matter and understand the vision. 
 
 ^24^ “Seventy weeks are decreed on your people and on your holy city, to finish disobedience, to make an end of sins, to make reconciliation for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the most holy. 
 
 ^25^ “Know therefore and discern that from the going out of the commandment to restore and build Jerusalem to the Anointed One,^a^ the prince, will be seven weeks and sixty-two weeks. It will be built again, with street and moat, even in troubled times. ^26^ After the sixty-two weeks the Anointed One^b^ will be cut off, and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined. ^27^ He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate; and even to the decreed full end, wrath will be poured out on the desolate.”
 ^a^[**9:25** “Anointed One” can also be translated “Messiah” (same as “Christ”).] ^b^[**9:26** “Anointed One” can also be translated “Messiah” (same as “Christ”).] 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 10
 ## La preparación de Daniel para la visiona mediante el ayuno
@@ -676,6 +689,7 @@ i1 ^17^ “Now therefore, our God, listen to the prayer of your servant and to h
 ^a^[**10:20** Dan 10,13]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ^1^ In the third year of Cyrus king of Persia a message was revealed to Daniel, whose name was called Belteshazzar; and the message was true, even a great warfare. He understood the message, and had understanding of the vision. 
@@ -699,8 +713,8 @@ When he spoke to me, I was strengthened, and said, “Let my lord speak, for you
 
 ^20^ Then he said, “Do you know why I have come to you? Now I will return to fight with the prince of Persia. When I go out, behold, the prince of Greece will come. ^21^ But I will tell you that which is inscribed in the writing of truth. There is no one who holds with me against these but Michael your prince. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 11
 ^1^ “En cuanto a mí, en el primer año de Darío el Medo, me levanté para confirmarlo y fortalecerlo.
@@ -744,6 +758,7 @@ When he spoke to me, I was strengthened, and said, “Let my lord speak, for you
 ^a^[**11:41** Dan 11,16]
 
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 11
 ^1^ “As for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him. 
@@ -774,8 +789,8 @@ When he spoke to me, I was strengthened, and said, “Let my lord speak, for you
 
 ^40^ “At the time of the end the king of the south will contend with him; and the king of the north will come against him like a whirlwind, with chariots, with horsemen, and with many ships. He will enter into the countries, and will overflow and pass through. ^41^ He will enter also into the glorious land, and many countries will be overthrown; but these will be delivered out of his hand: Edom, Moab, and the chief of the children of Ammon. ^42^ He will also stretch out his hand on the countries. The land of Egypt won’t escape. ^43^ But he will have power over the treasures of gold and of silver, and over all the precious things of Egypt. The Libyans and the Ethiopians will follow his steps. ^44^ But news out of the east and out of the north will trouble him; and he will go out with great fury to destroy and utterly to sweep away many. ^45^ He will plant the tents of his palace between the sea and the glorious holy mountain; yet he will come to his end, and no one will help him. 
 
-\bibleendparacol
-\biblebeginparacol
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
 
 # 12
 ## El amanecer del fin de los tiempos con su miseria, su retribución y la resurrección de los impíos y de los rectos
@@ -801,6 +816,7 @@ When he spoke to me, I was strengthened, and said, “Let my lord speak, for you
 
 ^13^ “Pero sigue tu camino hasta el final; porque descansarás y estarás en tu herencia al final de los días”.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 12
 ^1^ “At that time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book. ^2^ Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt. ^3^ Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever. ^4^ But you, Daniel, shut up the words and seal the book, even to the time of the end. Many will run back and forth, and knowledge will be increased.” 
@@ -816,4 +832,5 @@ When he spoke to me, I was strengthened, and said, “Let my lord speak, for you
 ^11^ “From the time that the continual burnt offering is taken away and the abomination that makes desolate set up, there will be one thousand two hundred ninety days. ^12^ Blessed is he who waits, and comes to the one thousand three hundred thirty-five days. 
 
 ^13^ “But go your way until the end; for you will rest, and will stand in your inheritance at the end of the days.”
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

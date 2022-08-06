@@ -1,4 +1,5 @@
-\biblebeginparacol
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
 
 # 1
 ## Bendiciones
@@ -15,6 +16,7 @@
 ## Cierre de carta; saludos
 ^12^ Teniendo muchas cosas que escribirte, no quiero hacerlo con papel y tinta, sino que espero ir a verte y hablarte cara a cara, para que nuestra alegría sea plena. ^[**1:12** 3Jn 1,13] ^13^ Los hijos de tu hermana elegida te saludan. Amén.
 \switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ^1^ The elder, to the chosen lady and her children, whom I love in truth, and not I only, but also all those who know the truth, ^2^ for the truth’s sake, which remains in us, and it will be with us forever: ^3^ Grace, mercy, and peace will be with us, from God the Father and from the Lord Jesus Christ,^a^ the Son of the Father, in truth and love. 
@@ -25,4 +27,5 @@
 ^7^ For many deceivers have gone out into the world, those who don’t confess that Jesus Christ came in the flesh. This is the deceiver and the Antichrist. ^8^ Watch yourselves, that we don’t lose the things which we have accomplished, but that we receive a full reward. ^9^ Whoever transgresses and doesn’t remain in the teaching of Christ doesn’t have God. He who remains in the teaching has both the Father and the Son. ^10^ If anyone comes to you and doesn’t bring this teaching, don’t receive him into your house, and don’t welcome him, ^11^ for he who welcomes him participates in his evil deeds. 
 
 ^12^ Having many things to write to you, I don’t want to do so with paper and ink, but I hope to come to you and to speak face to face, that our joy may be made full. ^13^ The children of your chosen sister greet you. Amen.
-\bibleendparacol
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}

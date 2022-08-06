@@ -1026,7 +1026,7 @@
 \contentsline {section}{\numberline {14}14}{313}{section.7.14}%
 \contentsline {subsection}{Sansón, traicionado por su suegro, se venga de los filisteos persiguiendo zorros}{314}{section.7.14}%
 \contentsline {section}{\numberline {15}15}{314}{section.7.15}%
-\contentsline {subsection}{Captura y explotación de Simpson en Lehi}{315}{section.7.15}%
+\contentsline {subsection}{Captura y explotación de Simpson en Lehi}{314}{section.7.15}%
 \contentsline {subsection}{La potencia de los Simpson en Gaza}{315}{section.7.15}%
 \contentsline {section}{\numberline {16}16}{315}{section.7.16}%
 \contentsline {subsection}{Sansón traicionado por Dalila, cegado por los filisteos y encarcelado en Gaza}{315}{section.7.16}%
@@ -1034,8 +1034,8 @@
 \contentsline {subsection}{Miqueas y su madre establecieron la idolatría en el monte Efraín}{317}{section.7.16}%
 \contentsline {section}{\numberline {17}17}{317}{section.7.17}%
 \contentsline {subsection}{Miqueas nombra a un levita errante de Judá sacerdote en su santuario}{317}{section.7.17}%
-\contentsline {subsection}{Los espías daneses en la casa de Micha; el resultado de su exploración del área alrededor de la ciudad de Lais}{318}{section.7.17}%
-\contentsline {section}{\numberline {18}18}{318}{section.7.18}%
+\contentsline {subsection}{Los espías daneses en la casa de Micha; el resultado de su exploración del área alrededor de la ciudad de Lais}{317}{section.7.17}%
+\contentsline {section}{\numberline {18}18}{317}{section.7.18}%
 \contentsline {subsection}{Los danitas enviados a conquistar la ciudad de Lais roban los santuarios de Miqueas en el camino y se llevan al sacerdote con ellos}{318}{section.7.18}%
 \contentsline {subsection}{Los danitas conquistan Lais y establecieron allí el servicio de pinturas de Miqueas y el sacerdocio de Jonatán mosaico}{319}{section.7.18}%
 \contentsline {subsection}{La visita de un levita a Belén para recuperar a su concubina}{319}{section.7.18}%
@@ -4307,7 +4307,7 @@
 \contentsline {subsection}{Intercesión por todos los creyentes}{1212}{section.43.17}%
 \contentsline {subsection}{Jesús en Getsemaní: Judas, Malco, arresto de Jesús}{1212}{section.43.17}%
 \contentsline {section}{\numberline {18}18}{1212}{section.43.18}%
-\contentsline {subsection}{Primera negación de Pedro}{1212}{section.43.18}%
+\contentsline {subsection}{Primera negación de Pedro}{1213}{section.43.18}%
 \contentsline {subsection}{Jesús ante los sumos sacerdotes Anás y Caifás}{1213}{section.43.18}%
 \contentsline {subsection}{Segunda y tercera negación de Pedro}{1213}{section.43.18}%
 \contentsline {subsection}{El interrogatorio y la confesión de Jesús ante el gobernador romano Pilato; su flagelación, burla y condena}{1213}{section.43.18}%
