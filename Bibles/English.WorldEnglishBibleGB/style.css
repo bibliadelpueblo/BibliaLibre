@@ -1,0 +1,82 @@
+@font-face {
+    font-family: DayRoman;
+    font-style: normal;
+    font-weight: normal;
+    src:url("../fonts/DayRoman.ttf");
+}
+@font-face {
+    font-family: DayRoman;
+    font-style: italic;
+    font-weight: normal;
+    src:url("../fonts/DayRomanItalic.ttf");
+}
+@font-face {
+    font-family: DayRoman;
+    font-style: normal;
+    font-weight: bold;
+    src:url("../fonts/DayRomanBold.ttf");
+}
+body {
+    font-family: "DayRoman";
+}
+div.chapterlinks {
+    text-align: left;
+}
+.chapterlinks a {
+	padding:5px;
+	margin:1px;
+	color:black;
+	background-color:white;
+	text-decoration:none;
+	border-style: outset;
+	border-width:2px;
+    border-radius:6px;
+}
+.tableofcontents a {
+	padding:4px;
+	margin:1px;
+	color:black;
+	background-color:white;
+	text-decoration:none;
+	border-style: outset;
+	border-width:2px;
+    border-radius:6px;
+}
+.chaptertitle {
+    float: left; margin: 0px; font-size:2em;
+}
+}
+.chaptertitle a {
+    color: black;
+}
+h1 a {
+    color: black;
+}
+h3, h4, h5 {
+    font-size:1em;
+}
+.bibleverse {
+    font-weight: bold;
+}
+/* For title, author, and date on the cover page */
+h1.title { }
+p.author { }
+p.date { }
+nav#toc ol,
+nav#landmarks ol { padding: 0; margin-left: 1em; }
+nav#toc ol li,
+nav#landmarks ol li { list-style-type: none; margin: 0; padding: 0; }
+a.footnote-ref { vertical-align: super; font-size:small; }
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+span.smallcaps{ font-variant: small-caps; }
+span.underline{ text-decoration: underline; }
+q { quotes: "“" "”" "‘" "’"; }
+div.column{ display: inline-block; vertical-align: top; width: 50%; }
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+@media screen { /* Workaround for iBooks issue; see #6242 */
+  .sourceCode {
+    overflow: visible !important;
+    white-space: pre-wrap !important;
+  }
+}

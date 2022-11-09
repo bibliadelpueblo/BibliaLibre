@@ -238,6 +238,8 @@ namespace BibleMarkdown
 			Init();
 
 			InitPandoc();
+			//var process = Process.GetCurrentProcess();
+			//var exe = process.MainModule.FileName;
 			var exe = new Uri(System.Reflection.Assembly.GetExecutingAssembly().CodeBase).LocalPath;
 			bibmarktime = File.GetLastWriteTimeUtc(exe);
 
