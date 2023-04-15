@@ -138,7 +138,7 @@ namespace BibleMarkdown
 							src = Regex.Replace(src, @"(\^1\^ \w )(\w*)", m => $"{m.Groups[1].Value}{m.Groups[2].Value.ToLower()}");
 						}
 
-						src = Regex.Replace(src, @"\^[0-9]\^(?=\s*(\^[0-9]+\^|#|$|\^[a-zA-Z]\^\[))", "", RegexOptions.Singleline); // remove empty verses
+						src = Regex.Replace(src, @"\^[0-9]+\^(?=\s*(\^[0-9]+\^|#|$|\^[a-zA-Z]\^\[))", "", RegexOptions.Singleline); // remove empty verses
 						src = Regex.Replace(src, @"(?<!\s|^)(\^[0-9]+\^)", " $1", RegexOptions.Singleline);
 						src = Regex.Replace(src, @"(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n)(##.*?\r?\n)?(?<verse0>.*?)(?=\s*\^1\^)", match => // set italics on verse 0
 						{
@@ -148,6 +148,14 @@ namespace BibleMarkdown
 							}
 							else return match.Value;
 						}, RegexOptions.Singleline);
+						if (EachVerseOnNewLine)
+						{
+							src = Regex.Replace(src, @"\^[0-9]+\^", match =>
+							{
+								if (match.Value == "^1^") return match.Value;
+								else return $"{Environment.NewLine}{match.Value}";
+							});
+						}
 
 						var md = Path.Combine(mdpath, $"{booknostr}-{book}.md");
 						bookno++;

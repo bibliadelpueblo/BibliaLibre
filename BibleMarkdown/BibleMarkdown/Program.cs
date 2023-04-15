@@ -23,6 +23,7 @@ namespace BibleMarkdown
 
 		public static DateTime bibmarktime;
 		public static bool LowercaseFirstWords = false;
+		public static bool EachVerseOnNewLine = true;
 		public static bool FromSource = false;
 		public static bool Imported = false;
 		public static Func<string, string> Preprocess = s => s;
@@ -244,6 +245,7 @@ namespace BibleMarkdown
 			bibmarktime = File.GetLastWriteTimeUtc(exe);
 
 			LowercaseFirstWords = args.Contains("-plc");
+			EachVerseOnNewLine = !args.Contains("-cp");
 			FromSource = args.Contains("-s") || args.Contains("-src") || args.Contains("-source");
 			var lnpos = Array.IndexOf(args, "-ln");
 			if (lnpos >= 0 && (lnpos + 1 < args.Length)) Language = args[lnpos + 1];
