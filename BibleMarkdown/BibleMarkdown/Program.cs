@@ -157,7 +157,7 @@ namespace BibleMarkdown
 
 			CreatePandoc(file, mdfile);
 			CreateEpub(path, mdfile, epubfile);
-			CreateUSFM(file, usfmfile);
+			CreateUSFM(mdfile, usfmfile);
 			return Task.WhenAll(CreateTeXAsync(mdfile, texfile), CreateHtmlAsync(mdfile, htmlfile));
 		}
 

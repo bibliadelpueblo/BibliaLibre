@@ -434,12 +434,13 @@ namespace BibleMarkdown
 			var name = Books.Name(mdfile);
 			var txt = File.ReadAllText(mdfile);
 			if (string.IsNullOrEmpty(usfm)) txt = @$"\h {name}{Environment.NewLine}\toc1 {name}{Environment.NewLine}{txt}";
-			txt = Regex.Replace(txt, @"(^|\n)#[ \t]+([0-9]+)", @"\c $2", RegexOptions.Singleline);
-			txt = Regex.Replace(txt, @"(^|\n)##[ \t]+(.*?)\r?\n", @"\s1 $2", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"(^|\n)#[ \t]+([0-9]+)", @$"\c $2{Environment.NewLine}\p", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"(^|\n)##[ \t]+(.*?)\r?\n", @$"\s1 $2{Environment.NewLine}\p", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"(?<!^|\n)\[([0-9]+)\]\{\.bibleverse\}", $@"{Environment.NewLine}\v $1", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"\[([0-9]+)\]\{\.bibleverse\}", @"\v $1", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"\[([\u0590-\u05fe]+)\]\{\.hebrew\}", @"$1");
 			txt = Regex.Replace(txt, @"\[([\u0370-\u03ff\u1f00-\u1fff]+)\]\{\.greek\}", @"$1");
+			txt = Regex.Replace(txt, @"\[([^]]*)\]\{\.smallcaps\}", @"\sc $1\sc*", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"\*", "", RegexOptions.Singleline);
 
 			// remove bibmark footnotes.
