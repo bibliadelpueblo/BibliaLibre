@@ -440,8 +440,8 @@ namespace BibleMarkdown
 			txt = Regex.Replace(txt, @"\[([0-9]+)\]\{\.bibleverse\}", @"\v $1", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"\[([\u0590-\u05fe]+)\]\{\.hebrew\}", @"$1");
 			txt = Regex.Replace(txt, @"\[([\u0370-\u03ff\u1f00-\u1fff]+)\]\{\.greek\}", @"$1");
-			txt = Regex.Replace(txt, @"\[([^]]*)\]\{\.smallcaps\}", @"\sc $1\sc*", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"\*", "", RegexOptions.Singleline);
+			txt = Regex.Replace(txt, @"\[([^]]*)\]\{\.smallcaps\}", @"\sc $1\sc*", RegexOptions.Singleline);
 
 			// remove bibmark footnotes.
 			bool replaced = true;
