@@ -1,6 +1,6 @@
 # Biblia Libre
 
-Biblia libre is a collection of OpenSource & Public Domain Bibles. The Bibles use a specific version of Markdown, BibleMarkdown. BibleMarkdown is normal pandoc Markdown, with the following extensions:
+Biblia Libre is a collection of OpenSource & Public Domain Bibles. The Bibles use a specific version of Markdown, BibleMarkdown. BibleMarkdown is normal pandoc Markdown, with the following extensions:
 
 - You can put a marker ^letters^ at a place where you want to have a footnote, and put the footnote later in the text with regular Markdown ^letters^[The footnote] syntax.
 - You can have comments, surrounded by % signs, like %This is a comment%. A comment can span multiple lines.
