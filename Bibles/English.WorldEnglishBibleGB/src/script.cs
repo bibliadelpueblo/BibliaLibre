@@ -6,7 +6,11 @@ Program.Language = "english";
 Program.Replace = "/LORD/[Lord]{.smallcaps}";
 // replace uppercase words with smallcaps
 Program.Preprocess = txt => Regex.Replace(txt, @"(?<!(^|\n)#.*?)[A-Z][A-Z]+", m => {
-        if (m.Value == "II") return m.Value;
+
+        if (Regex.IsMatch(m.Value, "^[IVXCD]+$", RegexOptions.Singleline)) {
+            // is roman number
+            return m.Value;
+        }
         
         var str = new StringBuilder("[");
         str.Append(m.Value[0]);

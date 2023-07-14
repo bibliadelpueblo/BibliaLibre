@@ -1,12 +1,36 @@
 # 1 
 ## Bendiciones
-[1]{.bibleverse} Pablo, prisionero de Jesucristo, y el hermano Timoteo, á Filemón amado, y coadjutor nuestro; [2]{.bibleverse} Y á la amada Apphia, y á Archîpo, compañero de nuestra milicia, y á la iglesia que está en tu casa: [3]{.bibleverse} Gracia á vosotros y paz de Dios nuestro Padre, y del Señor Jesucristo.
+[1]{.bibleverse} Pablo, prisionero de Jesucristo, y el hermano Timoteo, á Filemón amado, y coadjutor nuestro; 
+[2]{.bibleverse} Y á la amada Apphia, y á Archîpo, compañero de nuestra milicia, y á la iglesia que está en tu casa: 
+[3]{.bibleverse} Gracia á vosotros y paz de Dios nuestro Padre, y del Señor Jesucristo.
 
 ## Gracias a Dios e intercesión por Filemón
-[4]{.bibleverse} Doy gracias á mi Dios, haciendo siempre memoria de ti en mis oraciones. [5]{.bibleverse} Oyendo tu caridad, y la fe que tienes en el Señor Jesús, y para con todos los santos; [6]{.bibleverse} Para que la comunicación de tu fe sea eficaz, en el conocimiento de todo el bien que está en vosotros, por Cristo Jesús. [7]{.bibleverse} Porque tenemos gran gozo y consolación de tu caridad, de que por ti, oh hermano, han sido recreadas las entrañas de los santos.
+ 
+[4]{.bibleverse} Doy gracias á mi Dios, haciendo siempre memoria de ti en mis oraciones. 
+[5]{.bibleverse} Oyendo tu caridad, y la fe que tienes en el Señor Jesús, y para con todos los santos; 
+[6]{.bibleverse} Para que la comunicación de tu fe sea eficaz, en el conocimiento de todo el bien que está en vosotros, por Cristo Jesús. 
+[7]{.bibleverse} Porque tenemos gran gozo y consolación de tu caridad, de que por ti, oh hermano, han sido recreadas las entrañas de los santos.
 
 ## Defensa de Onésimo
-[8]{.bibleverse} Por lo cual, aunque tengo mucha resolución en Cristo para mandarte lo que conviene, [9]{.bibleverse} Ruégote más bien por amor, siendo tal cual soy, Pablo viejo, y aun ahora prisionero de Jesucristo: [10]{.bibleverse} Ruégote por mi hijo Onésimo, que he engendrado en mis prisiones, [11]{.bibleverse} El cual en otro tiempo te fué inútil, mas ahora á ti y á mí es útil; [12]{.bibleverse} El cual te vuelvo á enviar; tú pues, recíbele como á mis entrañas. [13]{.bibleverse} Yo quisiera detenerle conmigo, para que en lugar de ti me sirviese en las prisiones del evangelio; [14]{.bibleverse} Mas nada quise hacer sin tu consejo, porque tu beneficio no fuese como de necesidad, sino voluntario. [15]{.bibleverse} Porque acaso por esto se ha apartado de ti por algún tiempo, para que le recibieses para siempre; [16]{.bibleverse} No ya como siervo, antes más que siervo, como hermano amado, mayormente de mí, pero cuánto más de ti, en la carne y en el Señor. [17]{.bibleverse} Así que, si me tienes por compañero, recíbele como á mí. [18]{.bibleverse} Y si en algo te dañó, ó te debe, ponlo á mi cuenta. [19]{.bibleverse} Yo Pablo lo escribí de mi mano, yo lo pagaré: por no decirte que aun á ti mismo te me debes demás. [20]{.bibleverse} Sí, hermano, góceme yo de ti en el Señor; recrea mis entrañas en el Señor.
+ 
+[8]{.bibleverse} Por lo cual, aunque tengo mucha resolución en Cristo para mandarte lo que conviene, 
+[9]{.bibleverse} Ruégote más bien por amor, siendo tal cual soy, Pablo viejo, y aun ahora prisionero de Jesucristo: 
+[10]{.bibleverse} Ruégote por mi hijo Onésimo, que he engendrado en mis prisiones, 
+[11]{.bibleverse} El cual en otro tiempo te fué inútil, mas ahora á ti y á mí es útil; 
+[12]{.bibleverse} El cual te vuelvo á enviar; tú pues, recíbele como á mis entrañas. 
+[13]{.bibleverse} Yo quisiera detenerle conmigo, para que en lugar de ti me sirviese en las prisiones del evangelio; 
+[14]{.bibleverse} Mas nada quise hacer sin tu consejo, porque tu beneficio no fuese como de necesidad, sino voluntario. 
+[15]{.bibleverse} Porque acaso por esto se ha apartado de ti por algún tiempo, para que le recibieses para siempre; 
+[16]{.bibleverse} No ya como siervo, antes más que siervo, como hermano amado, mayormente de mí, pero cuánto más de ti, en la carne y en el Señor. 
+[17]{.bibleverse} Así que, si me tienes por compañero, recíbele como á mí. 
+[18]{.bibleverse} Y si en algo te dañó, ó te debe, ponlo á mi cuenta. 
+[19]{.bibleverse} Yo Pablo lo escribí de mi mano, yo lo pagaré: por no decirte que aun á ti mismo te me debes demás. 
+[20]{.bibleverse} Sí, hermano, góceme yo de ti en el Señor; recrea mis entrañas en el Señor.
 
 ## Cierre de cartas, anuncio de visita, saludos y bendiciones
-[21]{.bibleverse} Te he escrito confiando en tu obediencia, sabiendo que aun harás más de lo que digo. [22]{.bibleverse} Y asimismo prepárame también alojamiento; porque espero que por vuestras oraciones os tengo de ser concedido. [23]{.bibleverse} Te saludan Epafras, mi compañero en la prisión por Cristo Jesús, [24]{.bibleverse} Marcos, Aristarco, Demas y Lucas, mis cooperadores. [25]{.bibleverse} La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén. A Filemón fué enviada de Roma por Onésimo, siervo. 
+ 
+[21]{.bibleverse} Te he escrito confiando en tu obediencia, sabiendo que aun harás más de lo que digo. 
+[22]{.bibleverse} Y asimismo prepárame también alojamiento; porque espero que por vuestras oraciones os tengo de ser concedido. 
+[23]{.bibleverse} Te saludan Epafras, mi compañero en la prisión por Cristo Jesús, 
+[24]{.bibleverse} Marcos, Aristarco, Demas y Lucas, mis cooperadores. 
+[25]{.bibleverse} La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén. A Filemón fué enviada de Roma por Onésimo, siervo. 

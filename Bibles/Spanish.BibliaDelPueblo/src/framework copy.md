@@ -1457,15 +1457,15 @@
 ^25^ \ ^28^ ^^ ^29^ ^[**3:28** Deut 31,3; Deut 31,7] 
 ## 4
 ^0^ 
-### 2. Exhortación a observar estrictamente los mandamientos divinos y advertencia contra el servicio de imágenes y la idolatría
+### Exhortación a observar estrictamente los mandamientos divinos y advertencia contra el servicio de imágenes y la idolatría
 ^3^ ^^ ^8^ ^[**4:3** Núm 25,3-9] 
 ### En memoria de la aparición informe de Dios en Horeb, Israel debe protegerse contra el servicio de imágenes
 ^9^ ^^ ^10^ ^^ ^13^ ^^ ^19^ ^^ ^20^ ^^ ^21^ ^^ ^24^ ^[**4:9** Sal 103,2] ^[**4:10** Éxod 19,17; Deut 6,7; Deut 11,19] ^[**4:13** Éxod 31,18] ^[**4:19** Deut 17,3] ^[**4:20** Éxod 19,5-6] ^[**4:21** Deut 3,26] 
-### Erneute Warnung vor Abgötterei; Strafandrohung und Gnadenverheißung
+### Nueva advertencia de idolatría; amenaza de castigo y promesa de gracia
 ^26^ ^^ ^29^ ^^ ^30^ ^^ ^31^ ^[**4:26** Deut 30,19; Deut 31,28; Deut 32,1] ^[**4:29** Sal 27,8; Jer 29,13-14] ^[**4:30** Lev 26,40] 
 ### La gloria de la revelación y la gracia divinas obliga a la más estricta obediencia
 ^33^ ^^ ^34^ ^^ ^35^ ^^ ^40^ ^[**4:33** Éxod 20,1; Éxod 20,19] ^[**4:34** Deut 7,19] ^[**4:35** Deut 32,39] 
-### 3. Apéndice: Separación de tres ciudades libres en el este del Jordan
+### Separación de tres ciudades libres en el este del Jordan
 ^41^ ^^ ^43^ ^[**4:41** Núm 35,6-29; Deut 19,2-13] 
 ### Anuncio del siguiente Sermón de la Ley
 
@@ -3281,7 +3281,7 @@
 ^27^ \ ^29^ \ ^32^ ^^ ^[**9:32** Lev 24,5; Lev 24,8] 
 ### Información sobre los cantantes del templo; Palabra final
 ^33^ ^^ ^34^ ^[**9:33** 1Cró 9,14-16] 
-### Apéndice: Los habitantes de Gabaón y una segunda genealogía de la casa de Saúl
+### Los habitantes de Gabaón y una segunda genealogía de la casa de Saúl
 ^35^ ^^ ^44^ ^[**9:35** 1Cró 8,29-38] 
 ## 10
 ^0^ 

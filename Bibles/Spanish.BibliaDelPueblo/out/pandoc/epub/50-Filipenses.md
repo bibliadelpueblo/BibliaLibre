@@ -1,57 +1,161 @@
 # [Filipenses](ch001.xhtml) {#book-Filipenses}
 
-<div id="chapterlinks-Filipenses" class="chapterlinks">[1](#chapter-Filipenses-1) [2](#chapter-Filipenses-2) [3](#chapter-Filipenses-3) [4](#chapter-Filipenses-4) </div>
+<div id="chapterlinks-Filipenses" class="chapterlinks">[&nbsp;1&nbsp;](#chapter-Filipenses-1) [&nbsp;2&nbsp;](#chapter-Filipenses-2) [&nbsp;3&nbsp;](#chapter-Filipenses-3) [&nbsp;4&nbsp;](#chapter-Filipenses-4) </div>
 
-## [1](ch053.xhtml) {.unnumbered #chapter-Filipenses-1} 
-[1]{.bibleverse} Pablo y Timoteo, siervos de Jesucristo, á todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos: [2]{.bibleverse} Gracia sea á vosotros, y paz de Dios nuestro Padre y del Señor Jesucristo.
+<h2 class="chaptertitle">[&nbsp;1&nbsp;](ch053.xhtml)<span><span id="chapter-Filipenses-1"></span></span></h2>
+ 
+[1]{#verse-Filipenses-1-1 .bibleverse} Pablo y Timoteo, siervos de Jesucristo, á todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos: 
+[2]{#verse-Filipenses-1-2 .bibleverse} Gracia sea á vosotros, y paz de Dios nuestro Padre y del Señor Jesucristo.
 
-[3]{.bibleverse} Doy gracias á mi Dios en toda memoria de vosotros, [4]{.bibleverse} Siempre en todas mis oraciones haciendo oración por todos vosotros con gozo, [5]{.bibleverse} Por vuestra comunión en el evangelio, desde el primer día hasta ahora: [6]{.bibleverse} Estando confiado de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo; [7]{.bibleverse} Como me es justo sentir esto de todos vosotros, por cuanto os tengo en el corazón; y en mis prisiones, y en la defensa y confirmación del evangelio, sois todos vosotros compañeros de mi gracia. [8]{.bibleverse} Porque Dios me es testigo de cómo os amo á todos vosotros en las entrañas de Jesucristo.
+ 
+[3]{#verse-Filipenses-1-3 .bibleverse} Doy gracias á mi Dios en toda memoria de vosotros, 
+[4]{#verse-Filipenses-1-4 .bibleverse} Siempre en todas mis oraciones haciendo oración por todos vosotros con gozo, 
+[5]{#verse-Filipenses-1-5 .bibleverse} Por vuestra comunión en el evangelio, desde el primer día hasta ahora: 
+[6]{#verse-Filipenses-1-6 .bibleverse} Estando confiado de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo; 
+[7]{#verse-Filipenses-1-7 .bibleverse} Como me es justo sentir esto de todos vosotros, por cuanto os tengo en el corazón; y en mis prisiones, y en la defensa y confirmación del evangelio, sois todos vosotros compañeros de mi gracia. 
+[8]{#verse-Filipenses-1-8 .bibleverse} Porque Dios me es testigo de cómo os amo á todos vosotros en las entrañas de Jesucristo.
 
-[9]{.bibleverse} Y esto ruego, que vuestro amor abunde aun más y más en ciencia y en todo conocimiento, [10]{.bibleverse} Para que discernáis lo mejor; que seáis sinceros y sin ofensa para el día de Cristo; [11]{.bibleverse} Llenos de frutos de justicia, que son por Jesucristo, á gloria y loor de Dios.
+ 
+[9]{#verse-Filipenses-1-9 .bibleverse} Y esto ruego, que vuestro amor abunde aun más y más en ciencia y en todo conocimiento, 
+[10]{#verse-Filipenses-1-10 .bibleverse} Para que discernáis lo mejor; que seáis sinceros y sin ofensa para el día de Cristo; 
+[11]{#verse-Filipenses-1-11 .bibleverse} Llenos de frutos de justicia, que son por Jesucristo, á gloria y loor de Dios.
 
-[12]{.bibleverse} Y quiero, hermanos, que sepáis que las cosas que me han sucedido, han redundado más en provecho del evangelio; [13]{.bibleverse} De manera que mis prisiones han sido célebres en Cristo en todo el pretorio, y á todos los demás; [14]{.bibleverse} Y muchos de los hermanos en el Señor, tomando ánimo con mis prisiones, se atreven mucho más á hablar la palabra sin temor. [15]{.bibleverse} Y algunos, á la verdad, predican á Cristo por envidia y porfía; mas algunos también por buena voluntad. [16]{.bibleverse} Los unos anuncian á Cristo por contención, no sinceramente, pensando añadir aflicción á mis prisiones; [17]{.bibleverse} Pero los otros por amor, sabiendo que soy puesto por la defensa del evangelio.
+ 
+[12]{#verse-Filipenses-1-12 .bibleverse} Y quiero, hermanos, que sepáis que las cosas que me han sucedido, han redundado más en provecho del evangelio; 
+[13]{#verse-Filipenses-1-13 .bibleverse} De manera que mis prisiones han sido célebres en Cristo en todo el pretorio, y á todos los demás; 
+[14]{#verse-Filipenses-1-14 .bibleverse} Y muchos de los hermanos en el Señor, tomando ánimo con mis prisiones, se atreven mucho más á hablar la palabra sin temor. 
+[15]{#verse-Filipenses-1-15 .bibleverse} Y algunos, á la verdad, predican á Cristo por envidia y porfía; mas algunos también por buena voluntad. 
+[16]{#verse-Filipenses-1-16 .bibleverse} Los unos anuncian á Cristo por contención, no sinceramente, pensando añadir aflicción á mis prisiones; 
+[17]{#verse-Filipenses-1-17 .bibleverse} Pero los otros por amor, sabiendo que soy puesto por la defensa del evangelio.
 
-[18]{.bibleverse} ¿Qué pues? Que no obstante, en todas maneras, ó por pretexto ó por verdad, es anunciado Cristo; y en esto me huelgo, y aun me holgaré. [19]{.bibleverse} Porque sé que esto se me tornará á salud, por vuestra oración, y por la suministración del Espíritu de Jesucristo; [20]{.bibleverse} Conforme á mi mira y esperanza, que en nada seré confundido; antes bien con toda confianza, como siempre, ahora también será engrandecido Cristo en mi cuerpo, ó por vida, ó por muerte. [21]{.bibleverse} Porque para mí el vivir es Cristo, y el morir es ganancia. [22]{.bibleverse} Mas si el vivir en la carne, esto me será para fruto de la obra, no sé entonces qué escoger; [23]{.bibleverse} Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de ser desatado, y estar con Cristo, lo cual es mucho mejor: [24]{.bibleverse} Empero quedar en la carne es más necesario por causa de vosotros. [25]{.bibleverse} Y confiado en esto, sé que quedaré, que aun permaneceré con todos vosotros, para provecho vuestro y gozo de la fe; [26]{.bibleverse} Para que crezca vuestra gloria de mí en Cristo Jesús por mi venida otra vez á vosotros.
+ 
+[18]{#verse-Filipenses-1-18 .bibleverse} ¿Qué pues? Que no obstante, en todas maneras, ó por pretexto ó por verdad, es anunciado Cristo; y en esto me huelgo, y aun me holgaré. 
+[19]{#verse-Filipenses-1-19 .bibleverse} Porque sé que esto se me tornará á salud, por vuestra oración, y por la suministración del Espíritu de Jesucristo; 
+[20]{#verse-Filipenses-1-20 .bibleverse} Conforme á mi mira y esperanza, que en nada seré confundido; antes bien con toda confianza, como siempre, ahora también será engrandecido Cristo en mi cuerpo, ó por vida, ó por muerte. 
+[21]{#verse-Filipenses-1-21 .bibleverse} Porque para mí el vivir es Cristo, y el morir es ganancia. 
+[22]{#verse-Filipenses-1-22 .bibleverse} Mas si el vivir en la carne, esto me será para fruto de la obra, no sé entonces qué escoger; 
+[23]{#verse-Filipenses-1-23 .bibleverse} Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de ser desatado, y estar con Cristo, lo cual es mucho mejor: 
+[24]{#verse-Filipenses-1-24 .bibleverse} Empero quedar en la carne es más necesario por causa de vosotros. 
+[25]{#verse-Filipenses-1-25 .bibleverse} Y confiado en esto, sé que quedaré, que aun permaneceré con todos vosotros, para provecho vuestro y gozo de la fe; 
+[26]{#verse-Filipenses-1-26 .bibleverse} Para que crezca vuestra gloria de mí en Cristo Jesús por mi venida otra vez á vosotros.
 
-[27]{.bibleverse} Solamente que converséis como es digno del evangelio de Cristo; para que, ó sea que vaya á veros, ó que esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, unánimes combatiendo juntamente por la fe del evangelio, [28]{.bibleverse} Y en nada intimidados de los que se oponen: que á ellos ciertamente es indicio de perdición, mas á vosotros de salud; y esto de Dios; [29]{.bibleverse} Porque á vosotros es concedido por Cristo, no sólo que creáis en él, sino también que padezcáis por él, [30]{.bibleverse} Teniendo el mismo conflicto que habéis visto en mí, y ahora oís estar en mí. 
+ 
+[27]{#verse-Filipenses-1-27 .bibleverse} Solamente que converséis como es digno del evangelio de Cristo; para que, ó sea que vaya á veros, ó que esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, unánimes combatiendo juntamente por la fe del evangelio, 
+[28]{#verse-Filipenses-1-28 .bibleverse} Y en nada intimidados de los que se oponen: que á ellos ciertamente es indicio de perdición, mas á vosotros de salud; y esto de Dios; 
+[29]{#verse-Filipenses-1-29 .bibleverse} Porque á vosotros es concedido por Cristo, no sólo que creáis en él, sino también que padezcáis por él, 
+[30]{#verse-Filipenses-1-30 .bibleverse} Teniendo el mismo conflicto que habéis visto en mí, y ahora oís estar en mí. 
 
-## [2](ch053.xhtml) {.unnumbered #chapter-Filipenses-2} 
-[1]{.bibleverse} Por tanto, si hay alguna consolación en Cristo; si algún refrigerio de amor; si alguna comunión del Espíritu; si algunas entrañas y misericordias, [2]{.bibleverse} Cumplid mi gozo; que sintáis lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa. [3]{.bibleverse} Nada hagáis por contienda ó por vanagloria; antes bien en humildad, estimándoos inferiores los unos á los otros: [4]{.bibleverse} No mirando cada uno á lo suyo propio, sino cada cual también á lo de los otros.
+<h2 class="chaptertitle">[&nbsp;2&nbsp;](ch053.xhtml)<span><span id="chapter-Filipenses-2"></span></span></h2>
+ 
+[1]{#verse-Filipenses-2-1 .bibleverse} Por tanto, si hay alguna consolación en Cristo; si algún refrigerio de amor; si alguna comunión del Espíritu; si algunas entrañas y misericordias, 
+[2]{#verse-Filipenses-2-2 .bibleverse} Cumplid mi gozo; que sintáis lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa. 
+[3]{#verse-Filipenses-2-3 .bibleverse} Nada hagáis por contienda ó por vanagloria; antes bien en humildad, estimándoos inferiores los unos á los otros: 
+[4]{#verse-Filipenses-2-4 .bibleverse} No mirando cada uno á lo suyo propio, sino cada cual también á lo de los otros.
 
-[5]{.bibleverse} Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús: [6]{.bibleverse} El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios: [7]{.bibleverse} Sin embargo, se anonadó á sí mismo, tomando forma de siervo, hecho semejante á los hombres; [8]{.bibleverse} Y hallado en la condición como hombre, se humilló á sí mismo, hecho obediente hasta la muerte, y muerte de cruz. [9]{.bibleverse} Por lo cual Dios también le ensalzó á lo sumo, y dióle un nombre que es sobre todo nombre; [10]{.bibleverse} Para que en el nombre de Jesús se doble toda rodilla de los que están en los cielos, y de los que en la tierra, y de los que debajo de la tierra; [11]{.bibleverse} Y toda lengua confiese que Jesucristo es el Señor, á la gloria de Dios Padre.
+ 
+[5]{#verse-Filipenses-2-5 .bibleverse} Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús: 
+[6]{#verse-Filipenses-2-6 .bibleverse} El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios: 
+[7]{#verse-Filipenses-2-7 .bibleverse} Sin embargo, se anonadó á sí mismo, tomando forma de siervo, hecho semejante á los hombres; 
+[8]{#verse-Filipenses-2-8 .bibleverse} Y hallado en la condición como hombre, se humilló á sí mismo, hecho obediente hasta la muerte, y muerte de cruz. 
+[9]{#verse-Filipenses-2-9 .bibleverse} Por lo cual Dios también le ensalzó á lo sumo, y dióle un nombre que es sobre todo nombre; 
+[10]{#verse-Filipenses-2-10 .bibleverse} Para que en el nombre de Jesús se doble toda rodilla de los que están en los cielos, y de los que en la tierra, y de los que debajo de la tierra; 
+[11]{#verse-Filipenses-2-11 .bibleverse} Y toda lengua confiese que Jesucristo es el Señor, á la gloria de Dios Padre.
 
-[12]{.bibleverse} Por tanto, amados míos, como siempre habéis obedecido, no como en mi presencia solamente, sino mucho más ahora en mi ausencia, ocupaos en vuestra salvación con temor y temblor; [13]{.bibleverse} Porque Dios es el que en vosotros obra así el querer como el hacer, por su buena voluntad.
+ 
+[12]{#verse-Filipenses-2-12 .bibleverse} Por tanto, amados míos, como siempre habéis obedecido, no como en mi presencia solamente, sino mucho más ahora en mi ausencia, ocupaos en vuestra salvación con temor y temblor; 
+[13]{#verse-Filipenses-2-13 .bibleverse} Porque Dios es el que en vosotros obra así el querer como el hacer, por su buena voluntad.
 
-[14]{.bibleverse} Haced todo sin murmuraciones y contiendas, [15]{.bibleverse} Para que seáis irreprensibles y sencillos, hijos de Dios sin culpa en medio de la nación maligna y perversa, entre los cuales resplandecéis como luminares en el mundo; [16]{.bibleverse} Reteniendo la palabra de vida para que yo pueda gloriarme en el día de Cristo, que no he corrido en vano, ni trabajado en vano. [17]{.bibleverse} Y aun si soy derramado en libación sobre el sacrificio y servicio de vuestra fe, me gozo y congratulo por todos vosotros. [18]{.bibleverse} Y asimismo gozaos también vosotros, y regocijaos conmigo.
+ 
+[14]{#verse-Filipenses-2-14 .bibleverse} Haced todo sin murmuraciones y contiendas, 
+[15]{#verse-Filipenses-2-15 .bibleverse} Para que seáis irreprensibles y sencillos, hijos de Dios sin culpa en medio de la nación maligna y perversa, entre los cuales resplandecéis como luminares en el mundo; 
+[16]{#verse-Filipenses-2-16 .bibleverse} Reteniendo la palabra de vida para que yo pueda gloriarme en el día de Cristo, que no he corrido en vano, ni trabajado en vano. 
+[17]{#verse-Filipenses-2-17 .bibleverse} Y aun si soy derramado en libación sobre el sacrificio y servicio de vuestra fe, me gozo y congratulo por todos vosotros. 
+[18]{#verse-Filipenses-2-18 .bibleverse} Y asimismo gozaos también vosotros, y regocijaos conmigo.
 
-[19]{.bibleverse} Mas espero en el Señor Jesús enviaros presto á Timoteo, para que yo también esté de buen ánimo, entendido vuestro estado. [20]{.bibleverse} Porque á ninguno tengo tan unánime, y que con sincera afición esté solícito por vosotros. [21]{.bibleverse} Porque todos buscan lo suyo propio, no lo que es de Cristo Jesús. [22]{.bibleverse} Pero la experiencia de él habéis conocido, que como hijo á padre ha servido conmigo en el evangelio. [23]{.bibleverse} Así que á éste espero enviaros, luego que yo viere cómo van mis negocios; [24]{.bibleverse} Y confío en el Señor que yo también iré presto á vosotros.
+ 
+[19]{#verse-Filipenses-2-19 .bibleverse} Mas espero en el Señor Jesús enviaros presto á Timoteo, para que yo también esté de buen ánimo, entendido vuestro estado. 
+[20]{#verse-Filipenses-2-20 .bibleverse} Porque á ninguno tengo tan unánime, y que con sincera afición esté solícito por vosotros. 
+[21]{#verse-Filipenses-2-21 .bibleverse} Porque todos buscan lo suyo propio, no lo que es de Cristo Jesús. 
+[22]{#verse-Filipenses-2-22 .bibleverse} Pero la experiencia de él habéis conocido, que como hijo á padre ha servido conmigo en el evangelio. 
+[23]{#verse-Filipenses-2-23 .bibleverse} Así que á éste espero enviaros, luego que yo viere cómo van mis negocios; 
+[24]{#verse-Filipenses-2-24 .bibleverse} Y confío en el Señor que yo también iré presto á vosotros.
 
-[25]{.bibleverse} Mas tuve por cosa necesaria enviaros á Epafrodito, mi hermano, y colaborador y compañero de milicia, y vuestro mensajero, y ministrador de mis necesidades; [26]{.bibleverse} Porque tenía gran deseo de ver á todos vosotros, y gravemente se angustió porque habíais oído que había enfermado. [27]{.bibleverse} Pues en verdad estuvo enfermo á la muerte: mas Dios tuvo misericordia de él; y no solamente de él, sino aun de mí, para que yo no tuviese tristeza sobre tristeza. [28]{.bibleverse} Así que le envío más presto, para que viéndole os volváis á gozar, y yo esté con menos tristeza. [29]{.bibleverse} Recibidle pues en el Señor con todo gozo; y tened en estima á los tales: [30]{.bibleverse} Porque por la obra de Cristo estuvo cercano á la muerte, poniendo su vida para suplir vuestra falta en mi servicio. 
+ 
+[25]{#verse-Filipenses-2-25 .bibleverse} Mas tuve por cosa necesaria enviaros á Epafrodito, mi hermano, y colaborador y compañero de milicia, y vuestro mensajero, y ministrador de mis necesidades; 
+[26]{#verse-Filipenses-2-26 .bibleverse} Porque tenía gran deseo de ver á todos vosotros, y gravemente se angustió porque habíais oído que había enfermado. 
+[27]{#verse-Filipenses-2-27 .bibleverse} Pues en verdad estuvo enfermo á la muerte: mas Dios tuvo misericordia de él; y no solamente de él, sino aun de mí, para que yo no tuviese tristeza sobre tristeza. 
+[28]{#verse-Filipenses-2-28 .bibleverse} Así que le envío más presto, para que viéndole os volváis á gozar, y yo esté con menos tristeza. 
+[29]{#verse-Filipenses-2-29 .bibleverse} Recibidle pues en el Señor con todo gozo; y tened en estima á los tales: 
+[30]{#verse-Filipenses-2-30 .bibleverse} Porque por la obra de Cristo estuvo cercano á la muerte, poniendo su vida para suplir vuestra falta en mi servicio. 
 
-## [3](ch053.xhtml) {.unnumbered #chapter-Filipenses-3} 
-[1]{.bibleverse} Resta, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vosotros es seguro.
+<h2 class="chaptertitle">[&nbsp;3&nbsp;](ch053.xhtml)<span><span id="chapter-Filipenses-3"></span></span></h2>
+ 
+[1]{#verse-Filipenses-3-1 .bibleverse} Resta, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vosotros es seguro.
 
-[2]{.bibleverse} Guardaos de los perros, guardaos de los malos obreros, guardaos del cortamiento. [3]{.bibleverse} Porque nosotros somos la circuncisión, los que servimos en espíritu á Dios, y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. [4]{.bibleverse} Aunque yo tengo también de qué confiar en la carne. Si alguno parece que tiene de qué confiar en la carne, yo más: [5]{.bibleverse} Circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, Hebreo de Hebreos; cuanto á la ley, Fariseo; [6]{.bibleverse} Cuanto al celo, perseguidor de la iglesia; cuanto á la justicia que es en la ley, irreprensible.
+ 
+[2]{#verse-Filipenses-3-2 .bibleverse} Guardaos de los perros, guardaos de los malos obreros, guardaos del cortamiento. 
+[3]{#verse-Filipenses-3-3 .bibleverse} Porque nosotros somos la circuncisión, los que servimos en espíritu á Dios, y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. 
+[4]{#verse-Filipenses-3-4 .bibleverse} Aunque yo tengo también de qué confiar en la carne. Si alguno parece que tiene de qué confiar en la carne, yo más: 
+[5]{#verse-Filipenses-3-5 .bibleverse} Circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, Hebreo de Hebreos; cuanto á la ley, Fariseo; 
+[6]{#verse-Filipenses-3-6 .bibleverse} Cuanto al celo, perseguidor de la iglesia; cuanto á la justicia que es en la ley, irreprensible.
 
-[7]{.bibleverse} Pero las cosas que para mí eran ganancias, helas reputado pérdidas por amor de Cristo. [8]{.bibleverse} Y ciertamente, aun reputo todas las cosas pérdida por el eminente conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y téngolo por estiércol, para ganar á Cristo, [9]{.bibleverse} Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe; [10]{.bibleverse} A fin de conocerle, y la virtud de su resurrección, y la participación de sus padecimientos, en conformidad á su muerte, [11]{.bibleverse} Si en alguna manera llegase á la resurrección de los muertos.
+ 
+[7]{#verse-Filipenses-3-7 .bibleverse} Pero las cosas que para mí eran ganancias, helas reputado pérdidas por amor de Cristo. 
+[8]{#verse-Filipenses-3-8 .bibleverse} Y ciertamente, aun reputo todas las cosas pérdida por el eminente conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y téngolo por estiércol, para ganar á Cristo, 
+[9]{#verse-Filipenses-3-9 .bibleverse} Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe; 
+[10]{#verse-Filipenses-3-10 .bibleverse} A fin de conocerle, y la virtud de su resurrección, y la participación de sus padecimientos, en conformidad á su muerte, 
+[11]{#verse-Filipenses-3-11 .bibleverse} Si en alguna manera llegase á la resurrección de los muertos.
 
-[12]{.bibleverse} No que ya haya alcanzado, ni que ya sea perfecto; sino que prosigo, por ver si alcanzo aquello para lo cual fuí también alcanzado de Cristo Jesús.
+ 
+[12]{#verse-Filipenses-3-12 .bibleverse} No que ya haya alcanzado, ni que ya sea perfecto; sino que prosigo, por ver si alcanzo aquello para lo cual fuí también alcanzado de Cristo Jesús.
 
-[13]{.bibleverse} Hermanos, yo mismo no hago cuenta de haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome á lo que está delante, [14]{.bibleverse} Prosigo al blanco, al premio de la soberana vocación de Dios en Cristo Jesús. [15]{.bibleverse} Así que, todos los que somos perfectos, esto mismo sintamos: y si otra cosa sentís, esto también os revelará Dios. [16]{.bibleverse} Empero en aquello á que hemos llegado, vamos por la misma regla, sintamos una misma cosa.
+ 
+[13]{#verse-Filipenses-3-13 .bibleverse} Hermanos, yo mismo no hago cuenta de haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome á lo que está delante, 
+[14]{#verse-Filipenses-3-14 .bibleverse} Prosigo al blanco, al premio de la soberana vocación de Dios en Cristo Jesús. 
+[15]{#verse-Filipenses-3-15 .bibleverse} Así que, todos los que somos perfectos, esto mismo sintamos: y si otra cosa sentís, esto también os revelará Dios. 
+[16]{#verse-Filipenses-3-16 .bibleverse} Empero en aquello á que hemos llegado, vamos por la misma regla, sintamos una misma cosa.
 
-[17]{.bibleverse} Hermanos, sed imitadores de mí, y mirad los que así anduvieren como nos tenéis por ejemplo. [18]{.bibleverse} Porque muchos andan, de los cuales os dije muchas veces, y aun ahora lo digo llorando, que son enemigos de la cruz de Cristo: [19]{.bibleverse} Cuyo fin será perdición, cuyo dios es el vientre, y su gloria es en confusión; que sienten lo terreno. [20]{.bibleverse} Mas nuestra vivienda es en los cielos; de donde también esperamos al Salvador, al Señor Jesucristo; [21]{.bibleverse} El cual transformará el cuerpo de nuestra bajeza, para ser semejante al cuerpo de su gloria, por la operación con la cual puede también sujetar á sí todas las cosas. 
+ 
+[17]{#verse-Filipenses-3-17 .bibleverse} Hermanos, sed imitadores de mí, y mirad los que así anduvieren como nos tenéis por ejemplo. 
+[18]{#verse-Filipenses-3-18 .bibleverse} Porque muchos andan, de los cuales os dije muchas veces, y aun ahora lo digo llorando, que son enemigos de la cruz de Cristo: 
+[19]{#verse-Filipenses-3-19 .bibleverse} Cuyo fin será perdición, cuyo dios es el vientre, y su gloria es en confusión; que sienten lo terreno. 
+[20]{#verse-Filipenses-3-20 .bibleverse} Mas nuestra vivienda es en los cielos; de donde también esperamos al Salvador, al Señor Jesucristo; 
+[21]{#verse-Filipenses-3-21 .bibleverse} El cual transformará el cuerpo de nuestra bajeza, para ser semejante al cuerpo de su gloria, por la operación con la cual puede también sujetar á sí todas las cosas. 
 
-## [4](ch053.xhtml) {.unnumbered #chapter-Filipenses-4} 
-[1]{.bibleverse} Así que, hermanos míos amados y deseados, gozo y corona mía, estad así firmes en el Señor, amados.
+<h2 class="chaptertitle">[&nbsp;4&nbsp;](ch053.xhtml)<span><span id="chapter-Filipenses-4"></span></span></h2>
+ 
+[1]{#verse-Filipenses-4-1 .bibleverse} Así que, hermanos míos amados y deseados, gozo y corona mía, estad así firmes en el Señor, amados.
 
-[2]{.bibleverse} A Euodias ruego, y á Syntychê exhorto, que sientan lo mismo en el Señor. [3]{.bibleverse} Asimismo te ruego también á ti, hermano compañero, ayuda á las que trabajaron juntamente conmigo en el evangelio, con Clemente también, y los demás mis colaboradores, cuyos nombres están en el libro de la vida.
+ 
+[2]{#verse-Filipenses-4-2 .bibleverse} A Euodias ruego, y á Syntychê exhorto, que sientan lo mismo en el Señor. 
+[3]{#verse-Filipenses-4-3 .bibleverse} Asimismo te ruego también á ti, hermano compañero, ayuda á las que trabajaron juntamente conmigo en el evangelio, con Clemente también, y los demás mis colaboradores, cuyos nombres están en el libro de la vida.
 
-[4]{.bibleverse} Gozaos en el Señor siempre: otra vez digo: Que os gocéis. [5]{.bibleverse} Vuestra modestia sea conocida de todos los hombres. El Señor está cerca. [6]{.bibleverse} Por nada estéis afanosos; sino sean notorias vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias. [7]{.bibleverse} Y la paz de Dios, que sobrepuja todo entendimiento, guardará vuestros corazones y vuestros entendimientos en Cristo Jesús.
+ 
+[4]{#verse-Filipenses-4-4 .bibleverse} Gozaos en el Señor siempre: otra vez digo: Que os gocéis. 
+[5]{#verse-Filipenses-4-5 .bibleverse} Vuestra modestia sea conocida de todos los hombres. El Señor está cerca. 
+[6]{#verse-Filipenses-4-6 .bibleverse} Por nada estéis afanosos; sino sean notorias vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias. 
+[7]{#verse-Filipenses-4-7 .bibleverse} Y la paz de Dios, que sobrepuja todo entendimiento, guardará vuestros corazones y vuestros entendimientos en Cristo Jesús.
 
-[8]{.bibleverse} Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si alguna alabanza, en esto pensad. [9]{.bibleverse} Lo que aprendisteis y recibisteis y oísteis y visteis en mí, esto haced; y el Dios de paz será con vosotros.
+ 
+[8]{#verse-Filipenses-4-8 .bibleverse} Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si alguna alabanza, en esto pensad. 
+[9]{#verse-Filipenses-4-9 .bibleverse} Lo que aprendisteis y recibisteis y oísteis y visteis en mí, esto haced; y el Dios de paz será con vosotros.
 
-[10]{.bibleverse} Mas en gran manera me gocé en el Señor de que ya al fin ha reflorecido vuestro cuidado de mí; de lo cual aun estabais solícitos, pero os faltaba la oportunidad. [11]{.bibleverse} No lo digo en razón de indigencia, pues he aprendido á contentarme con lo que tengo. [12]{.bibleverse} Sé estar humillado, y sé tener abundancia: en todo y por todo estoy enseñado, así para hartura como para hambre, así para tener abundancia como para padecer necesidad. [13]{.bibleverse} Todo lo puedo en Cristo que me fortalece. [14]{.bibleverse} Sin embargo, bien hicisteis que comunicasteis juntamente á mi tribulación. [15]{.bibleverse} Y sabéis también vosotros, oh Filipenses, que al principio del evangelio, cuando partí de Macedonia, ninguna iglesia me comunicó en razón de dar y recibir, sino vosotros solos. [16]{.bibleverse} Porque aun á Tesalónica me enviasteis lo necesario una y dos veces. [17]{.bibleverse} No porque busque dádivas; mas busco fruto que abunde en vuestra cuenta. [18]{.bibleverse} Empero todo lo he recibido, y tengo abundancia: estoy lleno, habiendo recibido de Epafrodito lo que enviasteis, olor de suavidad, sacrificio acepto, agradable á Dios. [19]{.bibleverse} Mi Dios, pues, suplirá todo lo que os falta conforme á sus riquezas en gloria en Cristo Jesús. [20]{.bibleverse} Al Dios pues y Padre nuestro sea gloria por los siglos de los siglos. Amén.
+ 
+[10]{#verse-Filipenses-4-10 .bibleverse} Mas en gran manera me gocé en el Señor de que ya al fin ha reflorecido vuestro cuidado de mí; de lo cual aun estabais solícitos, pero os faltaba la oportunidad. 
+[11]{#verse-Filipenses-4-11 .bibleverse} No lo digo en razón de indigencia, pues he aprendido á contentarme con lo que tengo. 
+[12]{#verse-Filipenses-4-12 .bibleverse} Sé estar humillado, y sé tener abundancia: en todo y por todo estoy enseñado, así para hartura como para hambre, así para tener abundancia como para padecer necesidad. 
+[13]{#verse-Filipenses-4-13 .bibleverse} Todo lo puedo en Cristo que me fortalece. 
+[14]{#verse-Filipenses-4-14 .bibleverse} Sin embargo, bien hicisteis que comunicasteis juntamente á mi tribulación. 
+[15]{#verse-Filipenses-4-15 .bibleverse} Y sabéis también vosotros, oh Filipenses, que al principio del evangelio, cuando partí de Macedonia, ninguna iglesia me comunicó en razón de dar y recibir, sino vosotros solos. 
+[16]{#verse-Filipenses-4-16 .bibleverse} Porque aun á Tesalónica me enviasteis lo necesario una y dos veces. 
+[17]{#verse-Filipenses-4-17 .bibleverse} No porque busque dádivas; mas busco fruto que abunde en vuestra cuenta. 
+[18]{#verse-Filipenses-4-18 .bibleverse} Empero todo lo he recibido, y tengo abundancia: estoy lleno, habiendo recibido de Epafrodito lo que enviasteis, olor de suavidad, sacrificio acepto, agradable á Dios. 
+[19]{#verse-Filipenses-4-19 .bibleverse} Mi Dios, pues, suplirá todo lo que os falta conforme á sus riquezas en gloria en Cristo Jesús. 
+[20]{#verse-Filipenses-4-20 .bibleverse} Al Dios pues y Padre nuestro sea gloria por los siglos de los siglos. Amén.
 
-[21]{.bibleverse} Saludad á todos los santos en Cristo Jesús. Los hermanos que están conmigo os saludan. [22]{.bibleverse} Todos los santos os saludan, y mayormente los que son de casa de César.
+ 
+[21]{#verse-Filipenses-4-21 .bibleverse} Saludad á todos los santos en Cristo Jesús. Los hermanos que están conmigo os saludan. 
+[22]{#verse-Filipenses-4-22 .bibleverse} Todos los santos os saludan, y mayormente los que son de casa de César.
 
-[23]{.bibleverse} La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. Escrita de Roma con Epafrodito. 
+ 
+[23]{#verse-Filipenses-4-23 .bibleverse} La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. Escrita de Roma con Epafrodito. 

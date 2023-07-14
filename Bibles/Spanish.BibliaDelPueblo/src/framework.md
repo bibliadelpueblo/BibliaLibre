@@ -1457,15 +1457,15 @@
 ^25^ \ ^28^ ^29^ 
 ## 4
 ^-1^ 
-### 2. Exhortación a observar estrictamente los mandamientos divinos y advertencia contra el servicio de imágenes y la idolatría
+### Exhortación a observar estrictamente los mandamientos divinos y advertencia contra el servicio de imágenes y la idolatría
 ^3^ ^8^ 
 ### En memoria de la aparición informe de Dios en Horeb, Israel debe protegerse contra el servicio de imágenes
 ^9^ ^10^ ^13^ ^19^ ^20^ ^21^ ^24^ 
-### Erneute Warnung vor Abgötterei; Strafandrohung und Gnadenverheißung
+### Nueva advertencia de idolatría; amenaza de castigo y promesa de gracia
 ^26^ ^29^ ^30^ ^31^ 
 ### La gloria de la revelación y la gracia divinas obliga a la más estricta obediencia
 ^33^ ^34^ ^35^ ^40^ 
-### 3. Apéndice: Separación de tres ciudades libres en el este del Jordan
+### Separación de tres ciudades libres en el este del Jordan
 ^41^ ^43^ 
 ### Anuncio del siguiente Sermón de la Ley
 
@@ -3281,7 +3281,7 @@
 ^27^ \ ^29^ \ ^32^ 
 ### Información sobre los cantantes del templo; Palabra final
 ^33^ ^34^ 
-### Apéndice: Los habitantes de Gabaón y una segunda genealogía de la casa de Saúl
+### Los habitantes de Gabaón y una segunda genealogía de la casa de Saúl
 ^35^ ^44^ 
 ## 10
 ^-1^ 

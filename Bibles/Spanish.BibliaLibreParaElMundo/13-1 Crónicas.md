@@ -253,7 +253,7 @@
 ^33^ Estos son los cantores, jefes de familia de los levitas, que vivían en las habitaciones y estaban libres de cualquier otro servicio, pues se empleaban en su trabajo de día y de noche. ^a^ ^34^ Estos eran jefes de familia de los levitas, por sus generaciones, hombres principales. Vivían en Jerusalén.
 ^a^[**9:33** 1Cró 9,14-16]
 
-## Apéndice: Los habitantes de Gabaón y una segunda genealogía de la casa de Saúl
+## Los habitantes de Gabaón y una segunda genealogía de la casa de Saúl
 ^35^ Jeiel, padre de Gabaón, cuya mujer se llamaba Maaca, vivía en Gabaón. ^a^ ^36^ Su hijo primogénito fue Abdón, luego Zur, Cis, Baal, Ner, Nadab, ^37^ Gedor, Ahio, Zacarías y Miklot. ^38^ Mikloth fue el padre de Shimeam. Ellos también vivieron con sus parientes en Jerusalén, cerca de sus parientes. ^39^ Ner fue el padre de Cis. Cis fue el padre de Saúl. Saúl fue el padre de Jonatán, Malquisúa, Abinadab y Eshbaal. ^40^ El hijo de Jonatán fue Merib-baal. Merib-baal fue el padre de Miqueas. ^41^ Los hijos de Miqueas: Pitón, Melec, Tahrea y Acaz. ^42^ Acaz fue el padre de Jarah. Jarah fue el padre de Alemeth, Azmaveth y Zimri. Zimri fue el padre de Moza. ^43^ Moza fue padre de Binea, de su hijo Refaías, de su hijo Eleasá y de su hijo Azel. ^44^ Azel tuvo seis hijos, cuyos nombres son Azrikam, Boquerú, Ismael, Searías, Obadías y Hanán. Estos fueron los hijos de Azel.
 ^a^[**9:35** 1Cró 8,29-38]
 
@@ -634,5 +634,6 @@
 ^23^ Entonces Salomón se sentó en el trono de Yahvé como rey en lugar de David, su padre, y prosperó; y todo Israel le obedeció. ^a^ ^24^ Todos los príncipes, los valientes y también todos los hijos del rey David se sometieron al rey Salomón. ^25^ El Señor engrandeció mucho a Salomón a los ojos de todo Israel, y le dio una majestad real como no la había tenido ningún rey antes de él en Israel. ^b^
 ^a^[**29:23** 1Cró 28,5; 1Re 1,35; 1Re 1,39] ^b^[**29:25** 2Cró 1,1]
 
-## El final de David y las fuentes de su historia
+## El final de David y las fuentes de su historia
+
 ^26^ David, hijo de Isaí, reinó sobre todo Israel. ^27^ El tiempo que reinó sobre Israel fue de cuarenta años; reinó siete años en Hebrón, y treinta y tres años en Jerusalén. ^[**29:27** 1Re 2,11] ^28^ Murió en buena vejez, lleno de días, de riquezas y de honores; y en su lugar reinó su hijo Salomón. ^29^ Los hechos del rey David, primeros y últimos, están escritos en la historia del vidente Samuel, en la historia del profeta Natán y en la historia del vidente Gad, ^[**29:29** 1Cró 21,9] ^30^ con todo su reinado y su poderío, y los sucesos que lo involucraron a él, a Israel y a todos los reinos de las tierras.

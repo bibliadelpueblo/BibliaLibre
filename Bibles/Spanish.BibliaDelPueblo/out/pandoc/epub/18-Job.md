@@ -1,279 +1,1340 @@
 # [Job](ch001.xhtml) {#book-Job}
 
-<div id="chapterlinks-Job" class="chapterlinks">[1](#chapter-Job-1) [2](#chapter-Job-2) [3](#chapter-Job-3) [4](#chapter-Job-4) [5](#chapter-Job-5) [6](#chapter-Job-6) [7](#chapter-Job-7) [8](#chapter-Job-8) [9](#chapter-Job-9) [10](#chapter-Job-10) [11](#chapter-Job-11) [12](#chapter-Job-12) [13](#chapter-Job-13) [14](#chapter-Job-14) [15](#chapter-Job-15) [16](#chapter-Job-16) [17](#chapter-Job-17) [18](#chapter-Job-18) [19](#chapter-Job-19) [20](#chapter-Job-20) [21](#chapter-Job-21) [22](#chapter-Job-22) [23](#chapter-Job-23) [24](#chapter-Job-24) [25](#chapter-Job-25) [26](#chapter-Job-26) [27](#chapter-Job-27) [28](#chapter-Job-28) [29](#chapter-Job-29) [30](#chapter-Job-30) [31](#chapter-Job-31) [32](#chapter-Job-32) [33](#chapter-Job-33) [34](#chapter-Job-34) [35](#chapter-Job-35) [36](#chapter-Job-36) [37](#chapter-Job-37) [38](#chapter-Job-38) [39](#chapter-Job-39) [40](#chapter-Job-40) [41](#chapter-Job-41) [42](#chapter-Job-42) </div>
-
-## [1](ch021.xhtml) {.unnumbered #chapter-Job-1} 
-[1]{.bibleverse} Hubo un varón en tierra de Hus, llamado Job; y era este hombre perfecto y recto, y temeroso de Dios, y apartado del mal. [2]{.bibleverse} Y naciéronle siete hijos y tres hijas. [3]{.bibleverse} Y su hacienda era siete mil ovejas, y tres mil camellos, y quinientas yuntas de bueyes, y quinientas asnas, y muchísimos criados: y era aquel varón grande más que todos los Orientales. [4]{.bibleverse} E iban sus hijos y hacían banquetes en sus casas, cada uno en su día; y enviaban á llamar sus tres hermanas, para que comiesen y bebiesen con ellos. [5]{.bibleverse} Y acontecía que, habiendo pasado en turno los días del convite, Job enviaba y santificábalos, y levantábase de mañana y ofrecía holocaustos conforme al número de todos ellos. Porque decía Job: Quizá habrán pecado mis hijos, y habrán blasfemado á Dios en sus corazones. De esta manera hacía todos los días.
-
-[6]{.bibleverse} Y un día vinieron los hijos de Dios á presentarse delante de Jehová, entre los cuales vino también Satán. [7]{.bibleverse} Y dijo Jehová á Satán: ¿De dónde vienes? Y respondiendo Satán á Jehová, dijo: De rodear la tierra, y de andar por ella.
-
-[8]{.bibleverse} Y Jehová dijo á Satán: ¿No has considerado á mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios, y apartado de mal?
-
-[9]{.bibleverse} Y respondiendo Satán á Jehová, dijo: ¿Teme Job á Dios de balde? [10]{.bibleverse} ¿No le has tú cercado á él, y á su casa, y á todo lo que tiene en derredor? Al trabajo de sus manos has dado bendición; por tanto su hacienda ha crecido sobre la tierra. [11]{.bibleverse} Mas extiende ahora tu mano, y toca á todo lo que tiene, y verás si no te blasfema en tu rostro.
-
-[12]{.bibleverse} Y dijo Jehová á Satán: He aquí, todo lo que tiene está en tu mano: solamente no pongas tu mano sobre él. Y salióse Satán de delante de Jehová.
-
-[13]{.bibleverse} Y un día aconteció que sus hijos é hijas comían y bebían vino en casa de su hermano el primogénito, [14]{.bibleverse} Y vino un mensajero á Job, que le dijo: Estando arando los bueyes, y las asnas paciendo cerca de ellos, [15]{.bibleverse} Acometieron los Sabeos, y tomáronlos, é hirieron á los mozos á filo de espada: solamente escapé yo para traerte las nuevas.
-
-[16]{.bibleverse} Aun estaba éste hablando, y vino otro que dijo: Fuego de Dios cayó del cielo, que quemó las ovejas y los mozos, y los consumió: solamente escapé yo solo para traerte las nuevas.
-
-[17]{.bibleverse} Todavía estaba éste hablando, y vino otro que dijo: Los Caldeos hicieron tres escuadrones, y dieron sobre los camellos, y tomáronlos, é hirieron á los mozos á filo de espada; y solamente escapé yo solo para traerte las nuevas.
-
-[18]{.bibleverse} Entre tanto que éste hablaba, vino otro que dijo: Tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de su hermano el primogénito; [19]{.bibleverse} Y he aquí un gran viento que vino del lado del desierto, é hirió las cuatro esquinas de la casa, y cayó sobre los mozos, y murieron; y solamente escapé yo solo para traerte las nuevas. [20]{.bibleverse} Entonces Job se levantó, y rasgó su manto, y trasquiló su cabeza, y cayendo en tierra adoró; [21]{.bibleverse} Y dijo: Desnudo salí del vientre de mi madre, y desnudo tornaré allá. Jehová dió, y Jehová quitó: sea el nombre de Jehová bendito. [22]{.bibleverse} En todo esto no pecó Job, ni atribuyó á Dios despropósito alguno. 
-
-## [2](ch021.xhtml) {.unnumbered #chapter-Job-2} 
-[1]{.bibleverse} Y otro día aconteció que vinieron los hijos de Dios para presentarse delante de Jehová, y Satán vino también entre ellos pareciendo delante de Jehová. [2]{.bibleverse} Y dijo Jehová á Satán: ¿De dónde vienes? Respondió Satán á Jehová, y dijo: De rodear la tierra, y de andar por ella.
-
-[3]{.bibleverse} Y Jehová dijo á Satán: ¿No has considerado á mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado de mal, y que aun retiene su perfección, habiéndome tú incitado contra él, para que lo arruinara sin causa?
-
-[4]{.bibleverse} Y respondiendo Satán dijo á Jehová: Piel por piel, todo lo que el hombre tiene dará por su vida. [5]{.bibleverse} Mas extiende ahora tu mano, y toca á su hueso y á su carne, y verás si no te blasfema en tu rostro.
-
-[6]{.bibleverse} Y Jehová dijo á Satán: He aquí, él está en tu mano; mas guarda su vida.
-
-[7]{.bibleverse} Y salió Satán de delante de Jehová, é hirió á Job de una maligna sarna desde la planta de su pie hasta la mollera de su cabeza. [8]{.bibleverse} Y tomaba una teja para rascarse con ella, y estaba sentado en medio de ceniza. [9]{.bibleverse} Díjole entonces su mujer: ¿Aun retienes tú tu simplicidad? Bendice á Dios, y muérete.
-
-[10]{.bibleverse} Y él le dijo: Como suele hablar cualquiera de las mujeres fatuas, has hablado. También recibimos el bien de Dios, ¿y el mal no recibiremos? En todo esto no pecó Job con sus labios.
-
-[11]{.bibleverse} Y tres amigos de Job, Eliphaz Temanita, y Bildad Suhita, y Sophar Naamathita, luego que oyeron todo este mal que le había sobrevenido, vinieron cada uno de su lugar; porque habían concertado de venir juntos á condolecerse de él, y á consolarle. [12]{.bibleverse} Los cuales alzando los ojos desde lejos, no lo conocieron, y lloraron á voz en grito; y cada uno de ellos rasgó su manto, y esparcieron polvo sobre sus cabezas hacia el cielo. [13]{.bibleverse} Así se sentaron con él en tierra por siete días y siete noches, y ninguno le hablaba palabra, porque veían que el dolor era muy grande. 
-
-## [3](ch021.xhtml) {.unnumbered #chapter-Job-3} 
-[1]{.bibleverse} Después de esto abrió Job su boca, y maldijo su día. [2]{.bibleverse} Y exclamó Job, y dijo: [3]{.bibleverse} Perezca el día en que yo nací, y la noche que se dijo: Varón es concebido. [4]{.bibleverse} Sea aquel día sombrío, y Dios no cuide de él desde arriba, ni claridad sobre él resplandezca. [5]{.bibleverse} Aféenlo tinieblas y sombra de muerte; repose sobre él nublado, que lo haga horrible como caliginoso día. [6]{.bibleverse} Ocupe la oscuridad aquella noche; no sea contada entre los días del año, ni venga en el número de los meses. [7]{.bibleverse} ¡Oh si fuere aquella noche solitaria, que no viniera canción alguna en ella! [8]{.bibleverse} Maldíganla los que maldicen al día, los que se aprestan para levantar su llanto. [9]{.bibleverse} Oscurézcanse las estrellas de su alba; espere la luz, y no venga, ni vea los párpados de la mañana: [10]{.bibleverse} Por cuanto no cerró las puertas del vientre donde yo estaba, ni escondió de mis ojos la miseria. [11]{.bibleverse} ¿Por qué no morí yo desde la matriz, o fuí traspasado en saliendo del vientre? [12]{.bibleverse} ¿Por qué me previnieron las rodillas? ¿y para qué las tetas que mamase? [13]{.bibleverse} Pues que ahora yaciera yo, y reposara; durmiera, y entonces tuviera reposo, [14]{.bibleverse} Con los reyes y con los consejeros de la tierra, que edifican para sí los desiertos; [15]{.bibleverse} O con los príncipes que poseían el oro, que henchían sus casas de plata. [16]{.bibleverse} O ¿por qué no fuí escondido como aborto, como los pequeñitos que nunca vieron luz? [17]{.bibleverse} Allí los impíos dejan el perturbar, y allí descansan los de cansadas fuerzas. [18]{.bibleverse} Allí asimismo reposan los cautivos; no oyen la voz del exactor. [19]{.bibleverse} Allí están el chico y el grande; y el siervo libre de su señor. [20]{.bibleverse} ¿Por qué se da luz al trabajado, y vida á los de ánimo en amargura, [21]{.bibleverse} Que esperan la muerte, y ella no llega, aunque la buscan más que tesoros; [22]{.bibleverse} Que se alegran sobremanera, y se gozan, cuando hallan el sepulcro? [23]{.bibleverse} ¿Por qué al hombre que no sabe por donde vaya, y al cual Dios ha encerrado? [24]{.bibleverse} Pues antes que mi pan viene mi suspiro; y mis gemidos corren como aguas. [25]{.bibleverse} Porque el temor que me espantaba me ha venido, y hame acontecido lo que temía. [26]{.bibleverse} No he tenido paz, no me aseguré, ni me estuve reposado; vínome no obstante turbación. 
-
-## [4](ch021.xhtml) {.unnumbered #chapter-Job-4} 
-[1]{.bibleverse} Y respondió Eliphaz el Temanita, y dijo: [2]{.bibleverse} Si probáremos á hablarte, serte ha molesto; mas ¿quién podrá detener las palabras? [3]{.bibleverse} He aquí, tú enseñabas á muchos, y las manos flacas corroborabas; [4]{.bibleverse} Al que vacilaba, enderezaban tus palabras, y esforzabas las rodillas que decaían. [5]{.bibleverse} Mas ahora que el mal sobre ti ha venido, te es duro; y cuando ha llegado hasta ti, te turbas.
-
-[6]{.bibleverse} ¿Es este tu temor, tu confianza, tu esperanza, y la perfección de tus caminos? [7]{.bibleverse} Recapacita ahora, ¿quién que fuera inocente se perdiera? y ¿en dónde los rectos fueron cortados? [8]{.bibleverse} Como yo he visto, los que aran iniquidad y siembran injuria, la siegan. [9]{.bibleverse} Perecen por el aliento de Dios, y por el espíritu de su furor son consumidos. [10]{.bibleverse} El bramido del león, y la voz del león, y los dientes de los leoncillos son quebrantados. [11]{.bibleverse} El león viejo perece por falta de presa, y los hijos del león son esparcidos.
-
-[12]{.bibleverse} El negocio también me era á mí oculto; mas mi oído ha percibido algo de ello. [13]{.bibleverse} En imaginaciones de visiones nocturnas, cuando el sueño cae sobre los hombres, [14]{.bibleverse} Sobrevínome un espanto y un temblor, que estremeció todos mis huesos: [15]{.bibleverse} Y un espíritu pasó por delante de mí, que hizo se erizara el pelo de mi carne. [16]{.bibleverse} Paróse un fantasma delante de mis ojos, cuyo rostro yo no conocí, y quedo, oí que decía: [17]{.bibleverse} ¿Si será el hombre más justo que Dios? ¿si será el varón más limpio que el que lo hizo? [18]{.bibleverse} He aquí que en sus siervos no confía, y notó necedad en sus ángeles; [19]{.bibleverse} ¡Cuánto más en los que habitan en casas de lodo, cuyo fundamento está en el polvo, y que serán quebrantados de la polilla! [20]{.bibleverse} De la mañana á la tarde son quebrantados, y se pierden para siempre, sin haber quien lo considere. [21]{.bibleverse} ¿Su hermosura, no se pierde con ellos mismos? Mueren, y sin sabiduría. 
-
-## [5](ch021.xhtml) {.unnumbered #chapter-Job-5} 
-[1]{.bibleverse} Ahora pues da voces, si habrá quien te responda; ¿y á cuál de los santos te volverás? [2]{.bibleverse} Es cierto que al necio la ira lo mata, y al codicioso consume la envidia. [3]{.bibleverse} Yo he visto al necio que echaba raíces, y en la misma hora maldije su habitación. [4]{.bibleverse} Sus hijos estarán lejos de la salud, y en la puerta serán quebrantados, y no habrá quien los libre. [5]{.bibleverse} Su mies comerán los hambrientos, y sacaránla de entre las espinas, y los sedientos beberán su hacienda. [6]{.bibleverse} Porque la iniquidad no sale del polvo, ni la molestia brota de la tierra. [7]{.bibleverse} Empero como las centellas se levantan para volar por el aire, así el hombre nace para la aflicción.
-
-[8]{.bibleverse} Ciertamente yo buscaría á Dios, y depositaría en él mis negocios: [9]{.bibleverse} El cual hace cosas grandes é inescrutables, y maravillas que no tienen cuento: [10]{.bibleverse} Que da la lluvia sobre la haz de la tierra, y envía las aguas por los campos: [11]{.bibleverse} Que pone los humildes en altura, y los enlutados son levantados á salud: [12]{.bibleverse} Que frustra los pensamientos de los astutos, para que sus manos no hagan nada: [13]{.bibleverse} Que prende á los sabios en la astucia de ellos, y el consejo de los perversos es entontecido; [14]{.bibleverse} De día se topan con tinieblas, y en mitad del día andan á tientas como de noche: [15]{.bibleverse} Y libra de la espada al pobre, de la boca de los impíos, y de la mano violenta; [16]{.bibleverse} Pues es esperanza al menesteroso, y la iniquidad cerrará su boca.
-
-[17]{.bibleverse} He aquí, bienaventurado es el hombre á quien Dios castiga: por tanto no menosprecies la corrección del Todopoderoso. [18]{.bibleverse} Porque él es el que hace la llaga, y él la vendará: él hiere, y sus manos curan. [19]{.bibleverse} En seis tribulaciones te librará, y en la séptima no te tocará el mal. [20]{.bibleverse} En el hambre te redimirá de la muerte, y en la guerra de las manos de la espada. [21]{.bibleverse} Del azote de la lengua serás encubierto; ni temerás de la destrucción cuando viniere. [22]{.bibleverse} De la destrucción y del hambre te reirás, y no temerás de las bestias del campo: [23]{.bibleverse} Pues aun con las piedras del campo tendrás tu concierto, y las bestias del campo te serán pacíficas. [24]{.bibleverse} Y sabrás que hay paz en tu tienda; y visitarás tu morada, y no pecarás. [25]{.bibleverse} Asimismo echarás de ver que tu simiente es mucha, y tu prole como la hierba de la tierra. [26]{.bibleverse} Y vendrás en la vejez á la sepultura, como el montón de trigo que se coge á su tiempo. [27]{.bibleverse} He aquí lo que hemos inquirido, lo cual es así: óyelo, y juzga tú para contigo. 
-
-## [6](ch021.xhtml) {.unnumbered #chapter-Job-6} 
-[1]{.bibleverse} Y respondió Job y dijo: [2]{.bibleverse} ¡Oh si pesasen al justo mi queja y mi tormento, y se alzasen igualmente en balanza! [3]{.bibleverse} Porque pesaría aquél más que la arena del mar: y por tanto mis palabras son cortadas. [4]{.bibleverse} Porque las saetas del Todopoderoso están en mí, cuyo veneno bebe mi espíritu; y terrores de Dios me combaten. [5]{.bibleverse} ¿Acaso gime el asno montés junto á la hierba? ¿muge el buey junto á su pasto? [6]{.bibleverse} ¿Comeráse lo desabrido sin sal? ¿ó habrá gusto en la clara del huevo? [7]{.bibleverse} Las cosas que mi alma no quería tocar, por los dolores son mi comida.
-
-[8]{.bibleverse} ¡Quién me diera que viniese mi petición, y que Dios me otorgase lo que espero; [9]{.bibleverse} Y que pluguiera á Dios quebrantarme; que soltara su mano, y me deshiciera! [10]{.bibleverse} Y sería aún mi consuelo, si me asaltase con dolor sin dar más tregua, que yo no he escondido las palabras del Santo. [11]{.bibleverse} ¿Cuál es mi fortaleza para esperar aún? ¿y cuál mi fin para dilatar mi vida? [12]{.bibleverse} ¿Es mi fortaleza la de las piedras? ¿ó mi carne, es de acero? [13]{.bibleverse} ¿No me ayudo cuanto puedo, y el poder me falta del todo?
-
-[14]{.bibleverse} El atribulado es consolado de su compañero: mas hase abandonado el temor del Omnipotente. [15]{.bibleverse} Mis hermanos han mentido cual arroyo: pasáronse como corrientes impetuosas, [16]{.bibleverse} Que están escondidas por la helada, y encubiertas con nieve; [17]{.bibleverse} Que al tiempo del calor son deshechas, y en calentándose, desaparecen de su lugar; [18]{.bibleverse} Apártanse de la senda de su rumbo, van menguando y piérdense. [19]{.bibleverse} Miraron los caminantes de Temán, los caminantes de Saba esperaron en ellas: [20]{.bibleverse} Mas fueron avergonzados por su esperanza; porque vinieron hasta ellas, y halláronse confusos. [21]{.bibleverse} Ahora ciertamente como ellas sois vosotros: que habéis visto el tormento, y teméis. [22]{.bibleverse} ¿Os he dicho yo: Traedme, y pagad por mí de vuestra hacienda; [23]{.bibleverse} Y libradme de la mano del opresor, y redimidme del poder de los violentos?
-
-[24]{.bibleverse} Enseñadme, y yo callaré: y hacedme entender en qué he errado. [25]{.bibleverse} ¡Cuán fuertes son las palabras de rectitud! Mas ¿qué reprende el que reprende de vosotros? [26]{.bibleverse} ¿Pensáis censurar palabras, y los discursos de un desesperado, que son como el viento? [27]{.bibleverse} También os arrojáis sobre el huérfano, y hacéis hoyo delante de vuestro amigo. [28]{.bibleverse} Ahora pues, si queréis, mirad en mí, y ved si miento delante de vosotros. [29]{.bibleverse} Tornad ahora, y no haya iniquidad; volved aún á considerar mi justicia en esto. [30]{.bibleverse} ¿Hay iniquidad en mi lengua? ¿no puede mi paladar discernir las cosas depravadas? 
-
-## [7](ch021.xhtml) {.unnumbered #chapter-Job-7} 
-[1]{.bibleverse} Ciertamente tiempo limitado tiene el hombre sobre la tierra, y sus días son como los días del jornalero. [2]{.bibleverse} Como el siervo anhela la sombra, y como el jornalero espera el reposo de su trabajo: [3]{.bibleverse} Así poseo yo meses de vanidad, y noches de trabajo me dieron por cuenta. [4]{.bibleverse} Cuando estoy acostado, digo: ¿Cuándo me levantaré? Y mide mi corazón la noche, y estoy harto de devaneos hasta el alba. [5]{.bibleverse} Mi carne está vestida de gusanos, y de costras de polvo; mi piel hendida y abominable. [6]{.bibleverse} Y mis días fueron más ligeros que la lanzadera del tejedor, y fenecieron sin esperanza. [7]{.bibleverse} Acuérdate que mi vida es viento, y que mis ojos no volverán á ver el bien. [8]{.bibleverse} Los ojos de los que me ven, no me verán más: tus ojos sobre mí, y dejaré de ser. [9]{.bibleverse} La nube se consume, y se va: así el que desciende al sepulcro no subirá; [10]{.bibleverse} No tornará más á su casa, ni su lugar le conocerá más.
-
-[11]{.bibleverse} Por tanto yo no reprimiré mi boca; hablaré en la angustia de mi espíritu, y quejaréme con la amargura de mi alma. [12]{.bibleverse} ¿Soy yo la mar, ó ballena, que me pongas guarda? [13]{.bibleverse} Cuando digo: Mi cama me consolará, mi cama atenuará mis quejas; [14]{.bibleverse} Entonces me quebrantarás con sueños, y me turbarás con visiones. [15]{.bibleverse} Y así mi alma tuvo por mejor el ahogamiento, y quiso la muerte más que mis huesos. [16]{.bibleverse} Aburríme: no he de vivir yo para siempre; déjame, pues que mis días son vanidad. [17]{.bibleverse} ¿Qué es el hombre, para que lo engrandezcas, y que pongas sobre él tu corazón, [18]{.bibleverse} Y lo visites todas las mañanas, y todos los momentos lo pruebes? [19]{.bibleverse} ¿Hasta cuándo no me dejarás, ni me soltarás hasta que trague mi saliva? [20]{.bibleverse} Pequé, ¿qué te haré, oh Guarda de los hombres? ¿por qué me has puesto contrario á ti, y que á mí mismo sea pesado? [21]{.bibleverse} ¿Y por qué no quitas mi rebelión, y perdonas mi iniquidad? porque ahora dormiré en el polvo, y si me buscares de mañana, ya no seré. 
-
-## [8](ch021.xhtml) {.unnumbered #chapter-Job-8} 
-[1]{.bibleverse} Y respondió Bildad Suhita, y dijo: [2]{.bibleverse} ¿Hasta cuándo hablarás tales cosas, y las palabras de tu boca serán como un viento fuerte? [3]{.bibleverse} ¿Acaso pervertirá Dios el derecho, ó el Todopoderoso pervertirá la justicia? [4]{.bibleverse} Si tus hijos pecaron contra él, él los echó en el lugar de su pecado. [5]{.bibleverse} Si tú de mañana buscares á Dios, y rogares al Todopoderoso; [6]{.bibleverse} Si fueres limpio y derecho, cierto luego se despertará sobre ti, y hará próspera la morada de tu justicia. [7]{.bibleverse} Y tu principio habrá sido pequeño, y tu postrimería acrecerá en gran manera.
-
-[8]{.bibleverse} Porque pregunta ahora á la edad pasada, y disponte para inquirir de sus padres de ellos; [9]{.bibleverse} Pues nosotros somos de ayer, y no sabemos, siendo nuestros días sobre la tierra como sombra. [10]{.bibleverse} ¿No te enseñarán ellos, te dirán, y de su corazón sacarán palabras? [11]{.bibleverse} ¿Crece el junco sin lodo? ¿crece el prado sin agua? [12]{.bibleverse} Aun él en su verdor no será cortado, y antes de toda hierba se secará. [13]{.bibleverse} Tales son los caminos de todos los que olvidan á Dios: y la esperanza del impío perecerá: [14]{.bibleverse} Porque su esperanza será cortada, y su confianza es casa de araña. [15]{.bibleverse} Apoyaráse él sobre su casa, mas no permanecerá en pie; atendráse á ella, mas no se afirmará. [16]{.bibleverse} A manera de un árbol, está verde delante del sol, y sus renuevos salen sobre su huerto; [17]{.bibleverse} Vanse entretejiendo sus raíces junto á una fuente, y enlazándose hasta un lugar pedregoso. [18]{.bibleverse} Si le arrancaren de su lugar, éste negarále entonces, diciendo: Nunca te vi. [19]{.bibleverse} Ciertamente éste será el gozo de su camino; y de la tierra de donde se traspusiere, nacerán otros.
-
-[20]{.bibleverse} He aquí, Dios no aborrece al perfecto, ni toma la mano de los malignos. [21]{.bibleverse} Aun henchirá tu boca de risa, y tus labios de júbilo. [22]{.bibleverse} Los que te aborrecen, serán vestidos de confusión; y la habitación de los impíos perecerá. 
-
-## [9](ch021.xhtml) {.unnumbered #chapter-Job-9} 
-[1]{.bibleverse} Y respondió Job, y dijo: [2]{.bibleverse} Ciertamente yo conozco que es así: ¿y cómo se justificará el hombre con Dios? [3]{.bibleverse} Si quisiere contender con él, no le podrá responder á una cosa de mil. [4]{.bibleverse} El es sabio de corazón, y poderoso en fortaleza: ¿quién se endureció contra él, y quedó en paz? [5]{.bibleverse} Que arranca los montes con su furor, y no conocen quién los trastornó: [6]{.bibleverse} Que remueve la tierra de su lugar, y hace temblar sus columnas: [7]{.bibleverse} Que manda al sol, y no sale; y sella las estrellas: [8]{.bibleverse} El que extiende solo los cielos, y anda sobre las alturas de la mar: [9]{.bibleverse} El que hizo el Arcturo, y el Orión, y las Pléyadas, y los lugares secretos del mediodía: [10]{.bibleverse} El que hace cosas grandes é incomprensibles, y maravillosas, sin número. [11]{.bibleverse} He aquí que él pasará delante de mí, y yo no lo veré; y pasará, y no lo entenderé. [12]{.bibleverse} He aquí, arrebatará; ¿quién le hará restituir? ¿Quién le dirá, Qué haces?
-
-[13]{.bibleverse} Dios no tornará atrás su ira, y debajo de él se encorvan los que ayudan á los soberbios. [14]{.bibleverse} ¿Cuánto menos le responderé yo, y hablaré con él palabras estudiadas? [15]{.bibleverse} Que aunque fuese yo justo, no responderé; antes habré de rogar á mi juez. [16]{.bibleverse} Que si yo le invocase, y él me respondiese, aun no creeré que haya escuchado mi voz. [17]{.bibleverse} Porque me ha quebrado con tempestad, y ha aumentado mis heridas sin causa. [18]{.bibleverse} No me ha concedido que tome mi aliento; mas hame hartado de amarguras. [19]{.bibleverse} Si habláremos de su potencia, fuerte por cierto es; si de juicio, ¿quién me emplazará? [20]{.bibleverse} Si yo me justificare, me condenará mi boca; si me dijere perfecto, esto me hará inicuo.
-
-[21]{.bibleverse} Bien que yo fuese íntegro, no conozco mi alma: reprocharé mi vida. [22]{.bibleverse} Una cosa resta que yo diga: Al perfecto y al impío él los consume. [23]{.bibleverse} Si azote mata de presto, ríese de la prueba de los inocentes. [24]{.bibleverse} La tierra es entregada en manos de los impíos, y él cubre el rostro de sus jueces. Si no es él, ¿quién es? ¿dónde está? [25]{.bibleverse} Mis días han sido más ligeros que un correo; huyeron, y no vieron el bien. [26]{.bibleverse} Pasaron cual navíos veloces: como el águila que se arroja á la comida. [27]{.bibleverse} Si digo: Olvidaré mi queja, dejaré mi aburrimiento, y esforzaréme: [28]{.bibleverse} Contúrbanme todos mis trabajos; sé que no me darás por libre.
-
-[29]{.bibleverse} Yo soy impío, ¿para qué trabajaré en vano? [30]{.bibleverse} Aunque me lave con aguas de nieve, y limpie mis manos con la misma limpieza, [31]{.bibleverse} Aun me hundirás en el hoyo, y mis propios vestidos me abominarán. [32]{.bibleverse} Porque no es hombre como yo, para que yo le responda, y vengamos juntamente á juicio. [33]{.bibleverse} No hay entre nosotros árbitro que ponga su mano sobre nosotros ambos. [34]{.bibleverse} Quite de sobre mí su vara, y su terror no me espante. [35]{.bibleverse} Entonces hablaré, y no le temeré: porque así no estoy en mí mismo. 
-
-## [10](ch021.xhtml) {.unnumbered #chapter-Job-10} 
-[1]{.bibleverse} Está mi alma aburrida de mi vida: daré yo suelta á mi queja sobre mí, hablaré con amargura de mi alma. [2]{.bibleverse} Diré á Dios: no me condenes; hazme entender por qué pleiteas conmigo. [3]{.bibleverse} ¿Parécete bien que oprimas, que deseches la obra de tus manos, y que resplandezcas sobre el consejo de los impíos? [4]{.bibleverse} ¿Tienes tú ojos de carne? ¿ves tú como ve el hombre? [5]{.bibleverse} ¿Son tus días como los días del hombre, ó tus años como los tiempos humanos, [6]{.bibleverse} Para que inquieras mi iniquidad, y busques mi pecado, [7]{.bibleverse} Sobre saber tú que no soy impío, y que no hay quien de tu mano libre?
-
-[8]{.bibleverse} Tus manos me formaron y me compusieron todo en contorno: ¿y así me deshaces? [9]{.bibleverse} Acuérdate ahora que como á lodo me diste forma: ¿y en polvo me has de tornar? [10]{.bibleverse} ¿No me fundiste como leche, y como un queso me cuajaste? [11]{.bibleverse} Vestísteme de piel y carne, y cubrísteme de huesos y nervios. [12]{.bibleverse} Vida y misericordia me concediste, y tu visitación guardó mi espíritu. [13]{.bibleverse} Y estas cosas tienes guardadas en tu corazón; yo sé que esto está cerca de ti. [14]{.bibleverse} Si pequé, tú me has observado, y no me limpias de mi iniquidad. [15]{.bibleverse} Si fuere malo, ¡ay de mí! y si fuere justo, no levantaré mi cabeza, estando harto de deshonra, y de verme afligido. [16]{.bibleverse} Y subirá de punto, pues me cazas como á león, y tornas á hacer en mí maravillas. [17]{.bibleverse} Renuevas contra mí tus plagas, y aumentas conmigo tu furor, remudándose sobre mí ejércitos.
-
-[18]{.bibleverse} ¿Por qué me sacaste de la matriz? Habría yo espirado, y no me vieran ojos. [19]{.bibleverse} Fuera, como si nunca hubiera sido, llevado desde el vientre á la sepultura. [20]{.bibleverse} ¿No son mis días poca cosa? Cesa pues, y déjame, para que me conforte un poco. [21]{.bibleverse} Antes que vaya para no volver, á la tierra de tinieblas y de sombra de muerte; [22]{.bibleverse} Tierra de oscuridad, lóbrega como sombra de muerte, sin orden, y que aparece como la oscuridad misma. 
-
-## [11](ch021.xhtml) {.unnumbered #chapter-Job-11} 
-[1]{.bibleverse} Y respondió Sophar Naamathita, y dijo: [2]{.bibleverse} ¿Las muchas palabras no han de tener respuesta? ¿y el hombre parlero será justificado? [3]{.bibleverse} ¿Harán tus falacias callar á los hombres? ¿y harás escarnio, y no habrá quien te avergüence? [4]{.bibleverse} Tú dices: Mi conversar es puro, y yo soy limpio delante de tus ojos. [5]{.bibleverse} Mas ¡oh quién diera que Dios hablara, y abriera sus labios contigo, [6]{.bibleverse} Y que te declarara los arcanos de la sabiduría, que son de doble valor que la hacienda! Conocerías entonces que Dios te ha castigado menos que tu iniquidad merece. [7]{.bibleverse} ¿Alcanzarás tú el rastro de Dios? ¿llegarás tú á la perfección del Todopoderoso? [8]{.bibleverse} Es más alto que los cielos: ¿qué harás? Es más profundo que el infierno: ¿cómo lo conocerás? [9]{.bibleverse} Su dimensión es más larga que la tierra, y más ancha que la mar. [10]{.bibleverse} Si cortare, ó encerrare, ó juntare, ¿quién podrá contrarrestarle? [11]{.bibleverse} Porque él conoce á los hombres vanos: ve asimismo la iniquidad, ¿y no hará caso?
-
-[12]{.bibleverse} El hombre vano se hará entendido, aunque nazca como el pollino del asno montés. [13]{.bibleverse} Si tú apercibieres tu corazón, y extendieres á él tus manos; [14]{.bibleverse} Si alguna iniquidad hubiere en tu mano, y la echares de ti, y no consintieres que more maldad en tus habitaciones; [15]{.bibleverse} Entonces levantarás tu rostro limpio de mancha, y serás fuerte y no temerás: [16]{.bibleverse} Y olvidarás tu trabajo, ó te acordarás de él como de aguas que pasaron: [17]{.bibleverse} Y en mitad de la siesta se levantará bonanza; resplandecerás, y serás como la mañana: [18]{.bibleverse} Y confiarás, que habrá esperanza; y cavarás, y dormirás seguro: [19]{.bibleverse} Y te acostarás, y no habrá quien te espante: y muchos te rogarán. [20]{.bibleverse} Mas los ojos de los malos se consumirán, y no tendrán refugio; y su esperanza será agonía del alma. 
-
-## [12](ch021.xhtml) {.unnumbered #chapter-Job-12} 
-[1]{.bibleverse} Y respondió Job, y dijo: [2]{.bibleverse} Ciertamente que vosotros sois el pueblo; y con vosotros morirá la sabiduría. [3]{.bibleverse} También tengo yo seso como vosotros; no soy yo menos que vosotros: ¿y quién habrá que no pueda decir otro tanto? [4]{.bibleverse} Yo soy uno de quien su amigo se mofa, que invoca á Dios, y él le responde: con todo, el justo y perfecto es escarnecido. [5]{.bibleverse} Aquel cuyos pies van á resbalar, es como una lámpara despreciada de aquel que está á sus anchuras. [6]{.bibleverse} Prosperan las tiendas de los ladrones, y los que provocan á Dios viven seguros; en cuyas manos él ha puesto cuanto tienen.
-
-[7]{.bibleverse} Y en efecto, pregunta ahora á las bestias, que ellas te enseñarán; y á las aves de los cielos, que ellas te lo mostrarán: [8]{.bibleverse} O habla á la tierra, que ella te enseñará; los peces de la mar te lo declararán también. [9]{.bibleverse} ¿Qué cosa de todas estas no entiende que la mano de Jehová la hizo? [10]{.bibleverse} En su mano está el alma de todo viviente, y el espíritu de toda carne humana. [11]{.bibleverse} Ciertamente el oído distingue las palabras, y el paladar gusta las viandas. [12]{.bibleverse} En los viejos está la ciencia, y en la larga edad la inteligencia. [13]{.bibleverse} Con Dios está la sabiduría y la fortaleza; suyo es el consejo y la inteligencia.
-
-[14]{.bibleverse} He aquí, él derribará, y no será edificado: encerrará al hombre, y no habrá quien le abra. [15]{.bibleverse} He aquí, él detendrá las aguas, y se secarán; él las enviará, y destruirán la tierra. [16]{.bibleverse} Con él está la fortaleza y la existencia; suyo es el que yerra, y el que hace errar. [17]{.bibleverse} El hace andar á los consejeros desnudos de consejo, y hace enloquecer á los jueces. [18]{.bibleverse} El suelta la atadura de los tiranos, y ata el cinto á sus lomos. [19]{.bibleverse} El lleva despojados á los príncipes, y trastorna á los poderosos. [20]{.bibleverse} El impide el labio á los que dicen verdad, y quita á los ancianos el consejo. [21]{.bibleverse} El derrama menosprecio sobre los príncipes, y enflaquece la fuerza de los esforzados. [22]{.bibleverse} El descubre las profundidades de las tinieblas, y saca á luz la sombra de muerte. [23]{.bibleverse} El multiplica las gentes, y él las destruye: él esparce las gentes, y las torna á recoger. [24]{.bibleverse} El quita el seso de las cabezas del pueblo de la tierra, y háceles que se pierdan vagueando sin camino: [25]{.bibleverse} Van á tientas como en tinieblas y sin luz, y los hace errar como borrachos. 
-
-## [13](ch021.xhtml) {.unnumbered #chapter-Job-13} 
-[1]{.bibleverse} [He]{.smallcaps} aquí que todas estas cosas han visto mis ojos, y oído y entendido de por sí mis oídos. [2]{.bibleverse} Como vosotros lo sabéis, lo sé yo; no soy menos que vosotros. [3]{.bibleverse} Mas yo hablaría con el Todopoderoso, y querría razonar con Dios. [4]{.bibleverse} Que ciertamente vosotros sois fraguadores de mentira; sois todos vosotros médicos nulos. [5]{.bibleverse} Ojalá callarais del todo, porque os fuera sabiduría. [6]{.bibleverse} Oid ahora mi razonamiento, y estad atentos á los argumentos de mis labios. [7]{.bibleverse} ¿Habéis de hablar iniquidad por Dios? ¿habéis de hablar por él engaño? [8]{.bibleverse} ¿Habéis de hacer acepción de su persona? ¿habéis de pleitear vosotros por Dios? [9]{.bibleverse} ¿Sería bueno que él os escudriñase? ¿os burlaréis de él como quien se burla de algún hombre? [10]{.bibleverse} El os reprochará de seguro, si solapadamente hacéis acepción de personas. [11]{.bibleverse} De cierto su alteza os había de espantar, y su pavor había de caer sobre vosotros. [12]{.bibleverse} Vuestras memorias serán comparadas á la ceniza, y vuestros cuerpos como cuerpos de lodo.
-
-[13]{.bibleverse} Escuchadme, y hablaré yo, y véngame después lo que viniere. [14]{.bibleverse} ¿Por qué quitaré yo mi carne con mis dientes, y pondré mi alma en mi mano? [15]{.bibleverse} He aquí, aunque me matare, en él esperaré; empero defenderé delante de él mis caminos. [16]{.bibleverse} Y él mismo me será salud, porque no entrará en su presencia el hipócrita. [17]{.bibleverse} Oid con atención mi razonamiento, y mi denunciación con vuestros oídos. [18]{.bibleverse} He aquí ahora, si yo me apercibiere á juicio, sé que seré justificado. [19]{.bibleverse} ¿Quién es el que pleiteará conmigo? porque si ahora yo callara, fenecería. [20]{.bibleverse} A lo menos dos cosas no hagas conmigo; entonces no me esconderé de tu rostro: [21]{.bibleverse} Aparta de mí tu mano, y no me asombre tu terror. [22]{.bibleverse} Llama luego, y yo responderé; ó yo hablaré, y respóndeme tú. [23]{.bibleverse} ¿Cuántas iniquidades y pecados tengo yo? hazme entender mi prevaricación y mi pecado. [24]{.bibleverse} ¿Por qué escondes tu rostro, y me cuentas por tu enemigo? [25]{.bibleverse} ¿A la hoja arrebatada has de quebrantar? ¿y á una arista seca has de perseguir? [26]{.bibleverse} ¿Por qué escribes contra mí amarguras, y me haces cargo de los pecados de mi mocedad? [27]{.bibleverse} Pones además mis pies en el cepo, y guardas todos mis caminos, imprimiéndolo á las raíces de mis pies. [28]{.bibleverse} Y el cuerpo mío se va gastando como de carcoma, como vestido que se come de polilla. 
-
-## [14](ch021.xhtml) {.unnumbered #chapter-Job-14} 
-[1]{.bibleverse} [El]{.smallcaps} hombre nacido de mujer, corto de días, y harto de sinsabores: [2]{.bibleverse} Que sale como una flor y es cortado; y huye como la sombra, y no permanece. [3]{.bibleverse} ¿Y sobre éste abres tus ojos, y me traes á juicio contigo? [4]{.bibleverse} ¿Quién hará limpio de inmundo? Nadie. [5]{.bibleverse} Ciertamente sus días están determinados, y el número de sus meses está cerca de ti: tú le pusiste términos, de los cuales no pasará. [6]{.bibleverse} Si tú lo dejares, él dejará de ser: entre tanto deseará, como el jornalero, su día.
-
-[7]{.bibleverse} Porque si el árbol fuere cortado, aun queda de él esperanza; retoñecerá aún, y sus renuevos no faltarán. [8]{.bibleverse} Si se envejeciere en la tierra su raíz, y su tronco fuere muerto en el polvo, [9]{.bibleverse} Al percibir el agua reverdecerá, y hará copa como planta. [10]{.bibleverse} Mas el hombre morirá, y será cortado; y perecerá el hombre, ¿y dónde estará él? [11]{.bibleverse} Las aguas de la mar se fueron, y agotóse el río, secóse. [12]{.bibleverse} Así el hombre yace, y no se tornará á levantar: hasta que no haya cielo no despertarán, ni se levantarán de su sueño.
-
-[13]{.bibleverse} ¡Oh quién me diera que me escondieses en el sepulcro, que me encubrieras hasta apaciguarse tu ira, que me pusieses plazo, y de mí te acordaras! [14]{.bibleverse} Si el hombre muriere, ¿volverá á vivir? Todos los días de mi edad esperaré, hasta que venga mi mutación. [15]{.bibleverse} Aficionado á la obra de tus manos, llamarás, y yo te responderé. [16]{.bibleverse} Pues ahora me cuentas los pasos, y no das tregua á mi pecado. [17]{.bibleverse} Tienes sellada en saco mi prevaricación, y coacervas mi iniquidad. [18]{.bibleverse} Y ciertamente el monte que cae se deshace, y las peñas son traspasadas de su lugar; [19]{.bibleverse} Las piedras son desgastadas con el agua impetuosa, que se lleva el polvo de la tierra: de tal manera haces tú perecer la esperanza del hombre. [20]{.bibleverse} Para siempre serás más fuerte que él, y él se va; demudarás su rostro, y enviaráslo. [21]{.bibleverse} Sus hijos serán honrados, y él no lo sabrá; ó serán humillados, y no entenderá de ellos. [22]{.bibleverse} Mas su carne sobre él se dolerá, y entristecerse ha en él su alma. 
-
-## [15](ch021.xhtml) {.unnumbered #chapter-Job-15} 
-[1]{.bibleverse} Y respondió Eliphaz Temanita, y dijo: [2]{.bibleverse} ¿Si proferirá el sabio vana sabiduría, y henchirá su vientre de viento solano? [3]{.bibleverse} ¿Disputará con palabras inútiles, y con razones sin provecho? [4]{.bibleverse} Tú también disipas el temor, y menoscabas la oración delante de Dios. [5]{.bibleverse} Porque tu boca declaró tu iniquidad, pues has escogido el hablar de los astutos. [6]{.bibleverse} Tu boca te condenará, y no yo; y tus labios testificarán contra ti. [7]{.bibleverse} ¿Naciste tú primero que Adam? ¿ó fuiste formado antes que los collados? [8]{.bibleverse} ¿Oíste tú el secreto de Dios, que detienes en ti solo la sabiduría? [9]{.bibleverse} ¿Qué sabes tú que no sepamos? ¿qué entiendes que no se halle en nosotros? [10]{.bibleverse} Entre nosotros también hay cano, también hay viejo mucho mayor en días que tu padre. [11]{.bibleverse} ¿En tan poco tienes las consolaciones de Dios? ¿tienes acaso alguna cosa oculta cerca de ti? [12]{.bibleverse} ¿Por qué te enajena tu corazón, y por qué guiñan tus ojos, [13]{.bibleverse} Pues haces frente á Dios con tu espíritu, y sacas tales palabras de tu boca? [14]{.bibleverse} ¿Qué cosa es el hombre para que sea limpio, y que se justifique el nacido de mujer? [15]{.bibleverse} He aquí que en sus santos no confía, y ni los cielos son limpios delante de sus ojos: [16]{.bibleverse} ¿Cuánto menos el hombre abominable y vil, que bebe la iniquidad como agua?
-
-[17]{.bibleverse} Escúchame; yo te mostraré y te contaré lo que he visto: [18]{.bibleverse} (Lo que los sabios nos contaron de sus padres, y no lo encubrieron; [19]{.bibleverse} A los cuales solos fué dada la tierra, y no pasó extraño por medio de ellos:) [20]{.bibleverse} Todos los días del impío, él es atormentado de dolor, y el número de años es escondido al violento. [21]{.bibleverse} Estruendos espantosos hay en sus oídos; en la paz le vendrá quien lo asuele. [22]{.bibleverse} El no creerá que ha de volver de las tinieblas, y está mirando al cuchillo. [23]{.bibleverse} Desasosegado á comer siempre, sabe que le está aparejado día de tinieblas. [24]{.bibleverse} Tribulación y angustia le asombrarán, y esforzaránse contra él como un rey apercibido para la batalla. [25]{.bibleverse} Por cuanto él extendió su mano contra Dios, y se esforzó contra el Todopoderoso, [26]{.bibleverse} El le acometerá en la cerviz, en lo grueso de las hombreras de sus escudos: [27]{.bibleverse} Porque cubrió su rostro con su gordura, é hizo pliegues sobre los ijares; [28]{.bibleverse} Y habitó las ciudades asoladas, las casas inhabitadas, que estaban puestas en montones. [29]{.bibleverse} No enriquecerá, ni será firme su potencia, ni extenderá por la tierra su hermosura. [30]{.bibleverse} No se escapará de las tinieblas: la llama secará sus ramos, y con el aliento de su boca perecerá. [31]{.bibleverse} No confíe el iluso en la vanidad; porque ella será su recompensa. [32]{.bibleverse} El será cortado antes de su tiempo, y sus renuevos no reverdecerán. [33]{.bibleverse} El perderá su agraz como la vid, y derramará su flor como la oliva. [34]{.bibleverse} Porque la sociedad de los hipócritas será asolada, y fuego consumirá las tiendas de soborno. [35]{.bibleverse} Concibieron dolor, y parieron iniquidad; y las entrañas de ellos meditan engaño. 
-
-## [16](ch021.xhtml) {.unnumbered #chapter-Job-16} 
-[1]{.bibleverse} Y respondió Job, y dijo: [2]{.bibleverse} Muchas veces he oído cosas como estas: consoladores molestos sois todos vosotros. [3]{.bibleverse} ¿Tendrán fin las palabras ventosas? ó ¿qué te animará á responder? [4]{.bibleverse} También yo hablaría como vosotros. Ojalá vuestra alma estuviera en lugar de la mía, que yo os tendría compañía en las palabras, y sobre vosotros movería mi cabeza. [5]{.bibleverse} Mas yo os alentaría con mis palabras, y la consolación de mis labios apaciguaría el dolor vuestro.
-
-[6]{.bibleverse} Si hablo, mi dolor no cesa; y si dejo de hablar, no se aparta de mí. [7]{.bibleverse} Empero ahora me ha fatigado: has tú asolado toda mi compañía. [8]{.bibleverse} Tú me has arrugado; testigo es mi flacura, que se levanta contra mí para testificar en mi rostro. [9]{.bibleverse} Su furor me destrizó, y me ha sido contrario: crujió sus dientes contra mí; contra mí aguzó sus ojos mi enemigo. [10]{.bibleverse} Abrieron contra mí su boca; hirieron mis mejillas con afrenta; contra mí se juntaron todos. [11]{.bibleverse} Hame entregado Dios al mentiroso, y en las manos de los impíos me hizo estremecer [12]{.bibleverse} Próspero estaba, y desmenuzóme: y arrebatóme por la cerviz, y despedazóme, y púsome por blanco suyo. [13]{.bibleverse} Cercáronme sus flecheros, partió mis riñones, y no perdonó: mi hiel derramó por tierra. [14]{.bibleverse} Quebrantóme de quebranto sobre quebranto; corrió contra mí como un gigante. [15]{.bibleverse} Yo cosí saco sobre mi piel, y cargué mi cabeza de polvo. [16]{.bibleverse} Mi rostro está enlodado con lloro, y mis párpados entenebrecidos: [17]{.bibleverse} A pesar de no haber iniquidad en mis manos, y de haber sido mi oración pura.
-
-[18]{.bibleverse} ¡Oh tierra! no cubras mi sangre, y no haya lugar á mi clamor. [19]{.bibleverse} Mas he aquí que en los cielos está mi testigo, y mi testimonio en las alturas. [20]{.bibleverse} Disputadores son mis amigos: mas á Dios destilarán mis ojos. [21]{.bibleverse} ¡Ojalá pudiese disputar el hombre con Dios, como con su prójimo! [22]{.bibleverse} Mas los años contados vendrán, y yo iré el camino por donde no volveré. 
-
-## [17](ch021.xhtml) {.unnumbered #chapter-Job-17} 
-[1]{.bibleverse} [Mi]{.smallcaps} aliento está corrompido, acórtanse mis días, y me está aparejado el sepulcro. [2]{.bibleverse} No hay conmigo sino escarnecedores, en cuya acrimonia se detienen mis ojos. [3]{.bibleverse} Pon ahora, dame fianza para litigar contigo: ¿quién tocará ahora mi mano? [4]{.bibleverse} Porque á éstos has tú escondido su corazón de inteligencia: por tanto, no los ensalzarás. [5]{.bibleverse} El que denuncia lisonjas á sus prójimos, los ojos de sus hijos desfallezcan. [6]{.bibleverse} El me ha puesto por parábola de pueblos, y delante de ellos he sido como tamboril. [7]{.bibleverse} Y mis ojos se oscurecieron de desabrimiento, y mis pensamientos todos son como sombra. [8]{.bibleverse} Los rectos se maravillarán de esto, y el inocente se levantará contra el hipócrita. [9]{.bibleverse} No obstante, proseguirá el justo su camino, y el limpio de manos aumentará la fuerza.
-
-[10]{.bibleverse} Mas volved todos vosotros, y venid ahora, que no hallaré entre vosotros sabio. [11]{.bibleverse} Pasáronse mis días, fueron arrancados mis pensamientos, los designios de mi corazón. [12]{.bibleverse} Pusieron la noche por día, y la luz se acorta delante de las tinieblas. [13]{.bibleverse} Si yo espero, el sepulcro es mi casa: haré mi cama en las tinieblas. [14]{.bibleverse} A la huesa tengo dicho: Mi padre eres tú; á los gusanos: Mi madre y mi hermana. [15]{.bibleverse} ¿Dónde pues estará ahora mi esperanza? y mi esperanza ¿quién la verá? [16]{.bibleverse} A los rincones de la huesa descenderán, y juntamente descansarán en el polvo. 
-
-## [18](ch021.xhtml) {.unnumbered #chapter-Job-18} 
-[1]{.bibleverse} Y respondió Bildad Suhita, y dijo: [2]{.bibleverse} ¿Cuándo pondréis fin á las palabras? Entended, y después hablemos. [3]{.bibleverse} ¿Por qué somos tenidos por bestias, y en vuestros ojos somos viles? [4]{.bibleverse} Oh tú, que despedazas tu alma con tu furor, ¿será dejada la tierra por tu causa, y serán traspasadas de su lugar las peñas?
-
-[5]{.bibleverse} Ciertamente la luz de los impíos será apagada, y no resplandecerá la centella de su fuego. [6]{.bibleverse} La luz se oscurecerá en su tienda, y apagaráse sobre él su lámpara. [7]{.bibleverse} Los pasos de su pujanza serán acortados, y precipitarálo su mismo consejo. [8]{.bibleverse} Porque red será echada en sus pies, y sobre red andará. [9]{.bibleverse} Lazo prenderá su calcañar: afirmaráse la trampa contra él. [10]{.bibleverse} Su cuerda está escondida en la tierra, y su torzuelo sobre la senda. [11]{.bibleverse} De todas partes lo asombrarán temores, y haránle huir desconcertado. [12]{.bibleverse} Su fuerza será hambrienta, y á su lado estará aparejado quebrantamiento. [13]{.bibleverse} El primogénito de la muerte comerá los ramos de su piel, y devorará sus miembros. [14]{.bibleverse} Su confianza será arrancada de su tienda, y harále esto llevar al rey de los espantos. [15]{.bibleverse} En su tienda morará como si no fuese suya: piedra azufre será esparcida sobre su morada. [16]{.bibleverse} Abajo se secarán sus raíces, y arriba serán cortadas sus ramas. [17]{.bibleverse} Su memoria perecerá de la tierra, y no tendrá nombre por las calles. [18]{.bibleverse} De la luz será lanzado á las tinieblas, y echado fuera del mundo. [19]{.bibleverse} No tendrá hijo ni nieto en su pueblo, ni quien le suceda en sus moradas. [20]{.bibleverse} Sobre su día se espantarán los por venir, como ocupó el pavor á los que fueron antes. [21]{.bibleverse} Ciertamente tales son las moradas del impío, y este será el lugar del que no conoció á Dios. 
-
-## [19](ch021.xhtml) {.unnumbered #chapter-Job-19} 
-[1]{.bibleverse} Y respondió Job, y dijo: [2]{.bibleverse} ¿Hasta cuándo angustiaréis mi alma, y me moleréis con palabras? [3]{.bibleverse} Ya me habéis vituperado diez veces: ¿no os avergonzáis de descomediros delante de mí? [4]{.bibleverse} Sea así que realmente haya yo errado, conmigo se quedará mi yerro. [5]{.bibleverse} Mas si vosotros os engrandeciereis contra mí, y adujereis contra mí mi oprobio, [6]{.bibleverse} Sabed ahora que Dios me ha trastornado, y traído en derredor su red sobre mí.
-
-[7]{.bibleverse} He aquí yo clamaré agravio, y no seré oído: daré voces, y no habrá juicio. [8]{.bibleverse} Cercó de vallado mi camino, y no pasaré; y sobre mis veredas puso tinieblas. [9]{.bibleverse} Hame despojado de mi gloria, y quitado la corona de mi cabeza. [10]{.bibleverse} Arruinóme por todos lados, y perezco; y ha hecho pasar mi esperanza como árbol arrancado. [11]{.bibleverse} E hizo inflamar contra mí su furor, y contóme para sí entre sus enemigos. [12]{.bibleverse} Vinieron sus ejércitos á una, y trillaron sobre mí su camino, y asentaron campo en derredor de mi tienda. [13]{.bibleverse} Hizo alejar de mí mis hermanos, y positivamente se extrañaron de mí mis conocidos. [14]{.bibleverse} Mis parientes se detuvieron, y mis conocidos se olvidaron de mí. [15]{.bibleverse} Los moradores de mi casa y mis criadas me tuvieron por extraño: forastero fuí yo en sus ojos. [16]{.bibleverse} Llamé á mi siervo, y no respondió; de mi propia boca le suplicaba. [17]{.bibleverse} Mi aliento vino á ser extraño á mi mujer, aunque por los hijos de mis entrañas le rogaba. [18]{.bibleverse} Aun los muchachos me menospreciaron: en levantándome, hablaban contra mí. [19]{.bibleverse} Todos mis confidentes me aborrecieron; y los que yo amaba, se tornaron contra mí. [20]{.bibleverse} Mi cuero y mi carne se pegaron á mis huesos; y he escapado con la piel de mis dientes.
-
-[21]{.bibleverse} Oh vosotros mis amigos, tened compasión de mí, tened compasión de mí; porque la mano de Dios me ha tocado. [22]{.bibleverse} ¿Por qué me perseguís como Dios, y no os hartáis de mis carnes? [23]{.bibleverse} ¡Quién diese ahora que mis palabras fuesen escritas! ¡quién diese que se escribieran en un libro! [24]{.bibleverse} ¡Que con cincel de hierro y con plomo fuesen en piedra esculpidas para siempre! [25]{.bibleverse} Yo sé que mi Redentor vive, y al fin se levantará sobre el polvo: [26]{.bibleverse} Y después de deshecha esta mi piel, aun he de ver en mi carne á Dios; [27]{.bibleverse} Al cual yo tengo de ver por mí, y mis ojos lo verán, y no otro, aunque mis riñones se consuman dentro de mí. [28]{.bibleverse} Mas debierais decir: ¿Por qué lo perseguimos? ya que la raíz del negocio en mí se halla. [29]{.bibleverse} Temed vosotros delante de la espada; porque sobreviene el furor de la espada á causa de las injusticias, para que sepáis que hay un juicio. 
-
-## [20](ch021.xhtml) {.unnumbered #chapter-Job-20} 
-[1]{.bibleverse} Y respondió Sophar Naamathita, y dijo: [2]{.bibleverse} Por cierto mis pensamientos me hacen responder, y por tanto me apresuro. [3]{.bibleverse} La reprensión de mi censura he oído, y háceme responder el espíritu de mi inteligencia.
-
-[4]{.bibleverse} ¿No sabes esto que fué siempre, desde el tiempo que fué puesto el hombre sobre la tierra, [5]{.bibleverse} Que la alegría de los impíos es breve, y el gozo del hipócrita por un momento? [6]{.bibleverse} Si subiere su altivez hasta el cielo, y su cabeza tocare en las nubes, [7]{.bibleverse} Con su estiércol perecerá para siempre: los que le hubieren visto, dirán: ¿Qué es de él? [8]{.bibleverse} Como sueño volará, y no será hallado: y disiparáse como visión nocturna. [9]{.bibleverse} El ojo que le habrá visto, nunca más le verá; ni su lugar le echará más de ver. [10]{.bibleverse} Sus hijos pobres andarán rogando; y sus manos tornarán lo que él robó. [11]{.bibleverse} Sus huesos están llenos de sus mocedades, y con él serán sepultados en el polvo. [12]{.bibleverse} Si el mal se endulzó en su boca, si lo ocultaba debajo de su lengua; [13]{.bibleverse} Si le parecía bien, y no lo dejaba, mas antes lo detenía entre su paladar; [14]{.bibleverse} Su comida se mudará en sus entrañas, hiel de áspides será dentro de él. [15]{.bibleverse} Devoró riquezas, mas vomitarálas; de su vientre las sacará Dios. [16]{.bibleverse} Veneno de áspides chupará; matarálo lengua de víbora. [17]{.bibleverse} No verá los arroyos, los ríos, los torrentes de miel y de manteca. [18]{.bibleverse} Restituirá el trabajo conforme á la hacienda que tomó; y no tragará, ni gozará. [19]{.bibleverse} Por cuanto quebrantó y desamparó á los pobres, robó casas, y no las edificó; [20]{.bibleverse} Por tanto, no sentirá él sosiego en su vientre, ni salvará nada de lo que codiciaba. [21]{.bibleverse} No quedó nada que no comiese: por tanto su bien no será durable. [22]{.bibleverse} Cuando fuere lleno su bastimento, tendrá angustia: las manos todas de los malvados vendrán sobre él. [23]{.bibleverse} Cuando se pusiere á henchir su vientre, Dios enviará sobre él el furor de su ira, y harála llover sobre él y sobre su comida. [24]{.bibleverse} Huirá de las armas de hierro, y el arco de acero le atravesará. [25]{.bibleverse} Desenvainará y sacará saeta de su aljaba, y relumbrante pasará por su hiel: sobre él vendrán terrores. [26]{.bibleverse} Todas tinieblas están guardadas para sus secretos: fuego no soplado lo devorará; su sucesor será quebrantado en su tienda. [27]{.bibleverse} Los cielos descubrirán su iniquidad, y la tierra se levantará contra él. [28]{.bibleverse} Los renuevos de su casa serán trasportados; serán derramados en el día de su furor. [29]{.bibleverse} Esta es la parte que Dios apareja al hombre impío, y la heredad que Dios le señala por su palabra. 
-
-## [21](ch021.xhtml) {.unnumbered #chapter-Job-21} 
-[1]{.bibleverse} Y respondió Job, y dijo: [2]{.bibleverse} Oid atentamente mi palabra, y sea esto vuestros consuelos. [3]{.bibleverse} Soportadme, y yo hablaré; y después que hubiere hablado, escarneced. [4]{.bibleverse} ¿Hablo yo á algún hombre? y ¿por qué no se ha de angustiar mi espíritu? [5]{.bibleverse} Miradme, y espantaos, y poned la mano sobre la boca. [6]{.bibleverse} Aun yo mismo, cuando me acuerdo, me asombro, y toma temblor mi carne.
-
-[7]{.bibleverse} ¿Por qué viven los impíos, y se envejecen, y aun crecen en riquezas? [8]{.bibleverse} Su simiente con ellos, compuesta delante de ellos; y sus renuevos delante de sus ojos. [9]{.bibleverse} Sus casas seguras de temor, ni hay azote de Dios sobre ellos. [10]{.bibleverse} Sus vacas conciben, no abortan; paren sus vacas, y no malogran su cría. [11]{.bibleverse} Salen sus chiquitos como manada, y sus hijos andan saltando. [12]{.bibleverse} Al son de tamboril y de cítara saltan, y se huelgan al son del órgano. [13]{.bibleverse} Gastan sus días en bien, y en un momento descienden á la sepultura. [14]{.bibleverse} Dicen pues á Dios: Apártate de nosotros, que no queremos el conocimiento de tus caminos. [15]{.bibleverse} ¿Quién es el Todopoderoso, para que le sirvamos? ¿y de qué nos aprovechará que oremos á él?
-
-[16]{.bibleverse} He aquí que su bien no está en manos de ellos: el consejo de los impíos lejos esté de mí. [17]{.bibleverse} ¡Oh cuántas veces la lámpara de los impíos es apagada, y viene sobre ellos su quebranto, y Dios en su ira les reparte dolores! [18]{.bibleverse} Serán como la paja delante del viento, y como el tamo que arrebata el torbellino. [19]{.bibleverse} Dios guardará para sus hijos su violencia; y le dará su pago, para que conozca. [20]{.bibleverse} Verán sus ojos su quebranto, y beberá de la ira del Todopoderoso. [21]{.bibleverse} Porque ¿qué deleite tendrá él de su casa después de sí, siendo cortado el número de sus meses? [22]{.bibleverse} ¿Enseñará alguien á Dios sabiduría, juzgando él á los que están elevados? [23]{.bibleverse} Este morirá en el vigor de su hermosura, todo quieto y pacífico. [24]{.bibleverse} Sus colodras están llenas de leche, y sus huesos serán regados de tuétano. [25]{.bibleverse} Y estotro morirá en amargura de ánimo, y no habiendo comido jamás con gusto. [26]{.bibleverse} Igualmente yacerán ellos en el polvo, y gusanos los cubrirán.
-
-[27]{.bibleverse} He aquí, yo conozco vuestros pensamientos, y las imaginaciones que contra mí forjáis. [28]{.bibleverse} Porque decís: ¿Qué es de la casa del príncipe, y qué de la tienda de las moradas de los impíos? [29]{.bibleverse} ¿No habéis preguntado á los que pasan por los caminos, por cuyas señas no negaréis, [30]{.bibleverse} Que el malo es reservado para el día de la destrucción? Presentados serán en el día de las iras. [31]{.bibleverse} ¿Quién le denunciará en su cara su camino? Y de lo que él hizo, ¿quién le dará el pago? [32]{.bibleverse} Porque llevado será él á los sepulcros, y en el montón permanecerá. [33]{.bibleverse} Los terrones del valle le serán dulces; y tras de él será llevado todo hombre, y antes de él han ido innumerables. [34]{.bibleverse} ¿Cómo pues me consoláis en vano, viniendo á parar vuestras respuestas en falacia? 
-
-## [22](ch021.xhtml) {.unnumbered #chapter-Job-22} 
-[1]{.bibleverse} Y respondió Eliphaz Temanita, y dijo: [2]{.bibleverse} ¿Traerá el hombre provecho á Dios, porque el sabio sea provechoso á sí mismo? [3]{.bibleverse} ¿Tiene su contentamiento el Omnipotente en que tú seas justificado, ó provecho de que tú hagas perfectos tus caminos? [4]{.bibleverse} ¿Castigaráte acaso, ó vendrá contigo á juicio porque te teme? [5]{.bibleverse} Por cierto tu malicia es grande, y tus maldades no tienen fin.
-
-[6]{.bibleverse} Porque sacaste prenda á tus hermanos sin causa, é hiciste desnudar las ropas de los desnudos. [7]{.bibleverse} No diste de beber agua al cansado, y detuviste el pan al hambriento. [8]{.bibleverse} Empero el hombre pudiente tuvo la tierra; y habitó en ella el distinguido. [9]{.bibleverse} Las viudas enviaste vacías, y los brazos de los huérfanos fueron quebrados. [10]{.bibleverse} Por tanto hay lazos alrededor de ti, y te turba espanto repentino; [11]{.bibleverse} O tinieblas, porque no veas; y abundancia de agua te cubre.
-
-[12]{.bibleverse} ¿No está Dios en la altura de los cielos? Mira lo encumbrado de las estrellas, cuán elevadas están. [13]{.bibleverse} ¿Y dirás tú: Qué sabe Dios? ¿cómo juzgará por medio de la oscuridad? [14]{.bibleverse} Las nubes son su escondedero, y no ve; y por el circuito del cielo se pasea. [15]{.bibleverse} ¿Quieres tú guardar la senda antigua, que pisaron los hombres perversos? [16]{.bibleverse} Los cuales fueron cortados antes de tiempo, cuyo fundamento fué como un río derramado: [17]{.bibleverse} Que decían á Dios: Apártate de nosotros. ¿Y qué les había hecho el Omnipotente? [18]{.bibleverse} Habíales él henchido sus casas de bienes. Sea empero el consejo de ellos lejos de mí. [19]{.bibleverse} Verán los justos y se gozarán; y el inocente los escarnecerá, diciendo: [20]{.bibleverse} Fué cortada nuestra sustancia, habiendo consumido el fuego el resto de ellos.
-
-[21]{.bibleverse} Amístate ahora con él, y tendrás paz; y por ello te vendrá bien. [22]{.bibleverse} Toma ahora la ley de su boca, y pon sus palabras en tu corazón. [23]{.bibleverse} Si te tornares al Omnipotente, serás edificado; alejarás de tu tienda la aflicción; [24]{.bibleverse} Y tendrás más oro que tierra, y como piedras de arroyos oro de Ophir; [25]{.bibleverse} Y el Todopoderoso será tu defensa, y tendrás plata á montones. [26]{.bibleverse} Porque entonces te deleitarás en el Omnipotente, y alzarás á Dios tu rostro. [27]{.bibleverse} Orarás á él, y él te oirá; y tú pagarás tus votos. [28]{.bibleverse} Determinarás asimismo una cosa, y serte ha firme; y sobre tus caminos resplandecerá luz. [29]{.bibleverse} Cuando fueren abatidos, dirás tú: Ensalzamiento habrá: y Dios salvará al humilde de ojos. [30]{.bibleverse} El libertará la isla del inocente; y por la limpieza de tus manos será librada. 
-
-## [23](ch021.xhtml) {.unnumbered #chapter-Job-23} 
-[1]{.bibleverse} Y respondió Job, y dijo: [2]{.bibleverse} Hoy también hablaré con amargura; que es más grave mi llaga que mi gemido. [3]{.bibleverse} ¡Quién me diera el saber dónde hallar á Dios! yo iría hasta su silla. [4]{.bibleverse} Ordenaría juicio delante de él, y henchiría mi boca de argumentos. [5]{.bibleverse} Yo sabría lo que él me respondería, y entendería lo que me dijese. [6]{.bibleverse} ¿Pleitearía conmigo con grandeza de fuerza? No: antes él la pondría en mí. [7]{.bibleverse} Allí el justo razonaría con él: y escaparía para siempre de mi juez. [8]{.bibleverse} He aquí yo iré al oriente, y no lo hallaré; y al occidente, y no lo percibiré: [9]{.bibleverse} Si al norte él obrare, yo no lo veré; al mediodía se esconderá, y no lo veré. [10]{.bibleverse} Mas él conoció mi camino: probaráme, y saldré como oro. [11]{.bibleverse} Mis pies tomaron su rastro; guardé su camino, y no me aparté. [12]{.bibleverse} Del mandamiento de sus labios nunca me separé; guardé las palabras de su boca más que mi comida. [13]{.bibleverse} Empero si él se determina en una cosa, ¿quién lo apartará? Su alma deseó, é hizo. [14]{.bibleverse} El pues acabará lo que ha determinado de mí: y muchas cosas como estas hay en él. [15]{.bibleverse} Por lo cual yo me espanto en su presencia: consideraré, y temerélo. [16]{.bibleverse} Dios ha enervado mi corazón, y hame turbado el Omnipotente. [17]{.bibleverse} ¿Por qué no fuí yo cortado delante de las tinieblas, y cubrió con oscuridad mi rostro? 
-
-## [24](ch021.xhtml) {.unnumbered #chapter-Job-24} 
-[1]{.bibleverse} Puesto que no son ocultos los tiempos al Todopoderoso, ¿por qué los que le conocen no ven sus días? [2]{.bibleverse} Traspasan los términos, roban los ganados, y apaciéntanlos. [3]{.bibleverse} Llévanse el asno de los huérfanos; prenden el buey de la viuda. [4]{.bibleverse} Hacen apartar del camino á los menesterosos: y todos los pobres de la tierra se esconden. [5]{.bibleverse} He aquí, como asnos monteses en el desierto, salen á su obra madrugando para robar; el desierto es mantenimiento de sus hijos. [6]{.bibleverse} En el campo siegan su pasto, y los impíos vendimian la viña ajena. [7]{.bibleverse} Al desnudo hacen dormir sin ropa, y que en el frío no tenga cobertura. [8]{.bibleverse} Con las avenidas de los montes se mojan, y abrazan las peñas sin tener abrigo. [9]{.bibleverse} Quitan el pecho á los huérfanos, y de sobre el pobre toman la prenda. [10]{.bibleverse} Al desnudo hacen andar sin vestido, y á los hambrientos quitan los hacecillos. [11]{.bibleverse} De dentro de sus paredes exprimen el aceite, pisan los lagares, y mueren de sed. [12]{.bibleverse} De la ciudad gimen los hombres, y claman las almas de los heridos de muerte: mas Dios no puso estorbo. [13]{.bibleverse} Ellos son los que, rebeldes á la luz, nunca conocieron sus caminos, ni estuvieron en sus veredas. [14]{.bibleverse} A la luz se levanta el matador, mata al pobre y al necesitado, y de noche es como ladrón. [15]{.bibleverse} El ojo del adúltero está aguardando la noche, diciendo: No me verá nadie: y esconde su rostro. [16]{.bibleverse} En las tinieblas minan las casas, que de día para sí señalaron; no conocen la luz. [17]{.bibleverse} Porque la mañana es á todos ellos como sombra de muerte; si son conocidos, terrores de sombra de muerte los toman. [18]{.bibleverse} Son instables más que la superficie de las aguas; su porción es maldita en la tierra; no andarán por el camino de las viñas. [19]{.bibleverse} La sequía y el calor arrebatan las aguas de la nieve; y el sepulcro á los pecadores. [20]{.bibleverse} Olvidaráse de ellos el seno materno; de ellos sentirán los gusanos dulzura; nunca más habrá de ellos memoria, y como un árbol serán los impíos quebrantados. [21]{.bibleverse} A la mujer estéril que no paría, afligió; y á la viuda nunca hizo bien. [22]{.bibleverse} Mas á los fuertes adelantó con su poder: levantóse, y no se da por segura la vida. [23]{.bibleverse} Le dieron á crédito, y se afirmó: sus ojos están sobre los caminos de ellos. [24]{.bibleverse} Fueron ensalzados por un poco, mas desaparecen, y son abatidos como cada cual: serán encerrados, y cortados como cabezas de espigas. [25]{.bibleverse} Y si no, ¿quién me desmentirá ahora, ó reducirá á nada mis palabras? 
-
-## [25](ch021.xhtml) {.unnumbered #chapter-Job-25} 
-[1]{.bibleverse} Y respondió Bildad Suhita, y dijo: [2]{.bibleverse} El señorío y el temor están con él: él hace paz en sus alturas. [3]{.bibleverse} ¿Tienen sus ejércitos número? ¿y sobre quién no está su luz? [4]{.bibleverse} ¿Cómo pues se justificará el hombre con Dios? ¿y cómo será limpio el que nace de mujer? [5]{.bibleverse} He aquí que ni aun la misma luna será resplandeciente, ni las estrellas son limpias delante de sus ojos: [6]{.bibleverse} ¿Cuánto menos el hombre que es un gusano, y el hijo de hombre, también gusano? 
-
-## [26](ch021.xhtml) {.unnumbered #chapter-Job-26} 
-[1]{.bibleverse} Y respondió Job, y dijo: [2]{.bibleverse} ¿En qué ayudaste al que no tiene fuerza? ¿has amparado al brazo sin fortaleza? [3]{.bibleverse} ¿En qué aconsejaste al que no tiene ciencia, y mostraste bien sabiduría? [4]{.bibleverse} ¿A quién has anunciado palabras, y cúyo es el espíritu que de ti sale?
-
-[5]{.bibleverse} Cosas inanimadas son formadas debajo de las aguas, y los habitantes de ellas. [6]{.bibleverse} El sepulcro es descubierto delante de él, y el infierno no tiene cobertura. [7]{.bibleverse} Extiende el aquilón sobre vacío, cuelga la tierra sobre nada. [8]{.bibleverse} Ata las aguas en sus nubes, y las nubes no se rompen debajo de ellas. [9]{.bibleverse} El restriñe la faz de su trono, y sobre él extiende su nube. [10]{.bibleverse} El cercó con término la superficie de las aguas, hasta el fin de la luz y las tinieblas. [11]{.bibleverse} Las columnas del cielo tiemblan, y se espantan de su reprensión. [12]{.bibleverse} El rompe la mar con su poder, y con su entendimiento hiere la hinchazón suya. [13]{.bibleverse} Su espíritu adornó los cielos; su mano crió la serpiente tortuosa. [14]{.bibleverse} He aquí, estas son partes de sus caminos: ¡mas cuán poco hemos oído de él! Porque el estruendo de sus fortalezas, ¿quién lo detendrá? 
-
-## [27](ch021.xhtml) {.unnumbered #chapter-Job-27} 
-[1]{.bibleverse} Y reasumió Job su discurso, y dijo: [2]{.bibleverse} Vive Dios, el cual ha apartado mi causa, y el Omnipotente, que amargó el alma mía, [3]{.bibleverse} Que todo el tiempo que mi alma estuviere en mí, y hubiere hálito de Dios en mis narices, [4]{.bibleverse} Mis labios no hablarán iniquidad, ni mi lengua pronunciará engaño. [5]{.bibleverse} Nunca tal acontezca que yo os justifique: hasta morir no quitaré de mí mi integridad. [6]{.bibleverse} Mi justicia tengo asida, y no la cederé: no me reprochará mi corazón en el tiempo de mi vida.
-
-[7]{.bibleverse} Sea como el impío mi enemigo, y como el inicuo mi adversario. [8]{.bibleverse} Porque ¿cuál es la esperanza del hipócrita, por mucho que hubiere robado, cuando Dios arrebatare su alma? [9]{.bibleverse} ¿Oirá Dios su clamor cuando la tribulación sobre él viniere? [10]{.bibleverse} ¿Deleitaráse en el Omnipotente? ¿invocará á Dios en todo tiempo?
-
-[11]{.bibleverse} Yo os enseñaré en orden á la mano de Dios: no esconderé lo que hay para con el Omnipotente. [12]{.bibleverse} He aquí que todos vosotros lo habéis visto: ¿por qué pues os desvanecéis con fantasía? [13]{.bibleverse} Esta es para con Dios la suerte del hombre impío, y la herencia que los violentos han de recibir del Omnipotente. [14]{.bibleverse} Si sus hijos fueren multiplicados, serán para el cuchillo; y sus pequeños no se hartarán de pan; [15]{.bibleverse} Los que le quedaren, en muerte serán sepultados; y no llorarán sus viudas. [16]{.bibleverse} Si amontonare plata como polvo, y si preparare ropa como lodo; [17]{.bibleverse} Habrála él preparado, mas el justo se vestirá, y el inocente repartirá la plata. [18]{.bibleverse} Edificó su casa como la polilla, y cual cabaña que el guarda hizo. [19]{.bibleverse} El rico dormirá, mas no será recogido: abrirá sus ojos, mas él no será. [20]{.bibleverse} Asirán de él terrores como aguas: torbellino lo arrebatará de noche. [21]{.bibleverse} Lo antecogerá el solano, y partirá; y tempestad lo arrebatará del lugar suyo. [22]{.bibleverse} Dios pues descargará sobre él, y no perdonará: hará él por huir de su mano. [23]{.bibleverse} Batirán sus manos sobre él, y desde su lugar le silbarán. 
-
-## [28](ch021.xhtml) {.unnumbered #chapter-Job-28} 
-[1]{.bibleverse} Ciertamente la plata tiene sus veneros, y el oro lugar donde se forma. [2]{.bibleverse} El hierro se saca del polvo, y de la piedra es fundido el metal. [3]{.bibleverse} A las tinieblas puso término, y examina todo á la perfección, las piedras que hay en la oscuridad y en la sombra de muerte. [4]{.bibleverse} Brota el torrente de junto al morador, aguas que el pie había olvidado: sécanse luego, vanse del hombre. [5]{.bibleverse} De la tierra nace el pan, y debajo de ella estará como convertida en fuego. [6]{.bibleverse} Lugar hay cuyas piedras son zafiro, y sus polvos de oro. [7]{.bibleverse} Senda que nunca la conoció ave, ni ojo de buitre la vió: [8]{.bibleverse} Nunca la pisaron animales fieros, ni león pasó por ella. [9]{.bibleverse} En el pedernal puso su mano, y trastornó los montes de raíz. [10]{.bibleverse} De los peñascos cortó ríos, y sus ojos vieron todo lo preciado. [11]{.bibleverse} Detuvo los ríos en su nacimiento, é hizo salir á luz lo escondido.
-
-[12]{.bibleverse} Empero ¿dónde se hallará la sabiduría? ¿y dónde está el lugar de la prudencia? [13]{.bibleverse} No conoce su valor el hombre, ni se halla en la tierra de los vivientes. [14]{.bibleverse} El abismo dice: No está en mí: y la mar dijo: Ni conmigo. [15]{.bibleverse} No se dará por oro, ni su precio será á peso de plata. [16]{.bibleverse} No puede ser apreciada con oro de Ophir, ni con onique precioso, ni con zafiro. [17]{.bibleverse} El oro no se le igualará, ni el diamante; ni se trocará por vaso de oro fino. [18]{.bibleverse} De coral ni de perlas no se hará mención: la sabiduría es mejor que piedras preciosas. [19]{.bibleverse} No se igualará con ella esmeralda de Ethiopía; no se podrá apreciar con oro fino. [20]{.bibleverse} ¿De dónde pues vendrá la sabiduría? ¿y dónde está el lugar de la inteligencia? [21]{.bibleverse} Porque encubierta está á los ojos de todo viviente, y á toda ave del cielo es oculta. [22]{.bibleverse} El infierno y la muerte dijeron: Su fama hemos oído con nuestros oídos.
-
-[23]{.bibleverse} Dios entiende el camino de ella, y él conoce su lugar. [24]{.bibleverse} Porque él mira hasta los fines de la tierra, y ve debajo de todo el cielo. [25]{.bibleverse} Al dar peso al viento, y poner las aguas por medida; [26]{.bibleverse} Cuando él hizo ley á la lluvia, y camino al relámpago de los truenos; [27]{.bibleverse} Entonces la veía él, y la manifestaba; preparóla y descubrióla también. [28]{.bibleverse} Y dijo al hombre: He aquí que el temor del Señor es la sabiduría, y el apartarse del mal la inteligencia. 
-
-## [29](ch021.xhtml) {.unnumbered #chapter-Job-29} 
-[1]{.bibleverse} Y volvió Job á tomar su propósito, y dijo: [2]{.bibleverse} ¡Quién me tornase como en los meses pasados, como en los días que Dios me guardaba, [3]{.bibleverse} Cuando hacía resplandecer su candela sobre mi cabeza, á la luz de la cual yo caminaba en la oscuridad; [4]{.bibleverse} Como fué en los días de mi mocedad, cuando el secreto de Dios estaba en mi tienda; [5]{.bibleverse} Cuando aun el Omnipotente estaba conmigo, y mis hijos alrededor de mí; [6]{.bibleverse} Cuando lavaba yo mis caminos con manteca, y la piedra me derramaba ríos de aceite!
-
-[7]{.bibleverse} Cuando salía á la puerta á juicio, y en la plaza hacía preparar mi asiento, [8]{.bibleverse} Los mozos me veían, y se escondían; y los viejos se levantaban, y estaban en pie; [9]{.bibleverse} Los príncipes detenían sus palabras, ponían la mano sobre su boca; [10]{.bibleverse} La voz de los principales se ocultaba, y su lengua se pegaba á su paladar: [11]{.bibleverse} Cuando los oídos que me oían, me llamaban bienaventurado, y los ojos que me veían, me daban testimonio: [12]{.bibleverse} Porque libraba al pobre que gritaba, y al huérfano que carecía de ayudador. [13]{.bibleverse} La bendición del que se iba á perder venía sobre mí; y al corazón de la viuda daba alegría. [14]{.bibleverse} Vestíame de justicia, y ella me vestía como un manto; y mi toca era juicio. [15]{.bibleverse} Yo era ojos al ciego, y pies al cojo. [16]{.bibleverse} A los menesterosos era padre; y de la causa que no entendía, me informaba con diligencia: [17]{.bibleverse} Y quebraba los colmillos del inicuo, y de sus dientes hacía soltar la presa. [18]{.bibleverse} Y decía yo: En mi nido moriré, y como arena multiplicaré días. [19]{.bibleverse} Mi raíz estaba abierta junto á las aguas, y en mis ramas permanecía el rocío. [20]{.bibleverse} Mi honra se renovaba en mí, y mi arco se corroboraba en mi mano. [21]{.bibleverse} Oíanme, y esperaban; y callaban á mi consejo. [22]{.bibleverse} Tras mi palabra no replicaban, y mi razón destilaba sobre ellos. [23]{.bibleverse} Y esperábanme como á la lluvia, y abrían su boca como á la lluvia tardía. [24]{.bibleverse} Si me reía con ellos, no lo creían: y no abatían la luz de mi rostro. [25]{.bibleverse} Calificaba yo el camino de ellos, y sentábame en cabecera; y moraba como rey en el ejército, como el que consuela llorosos. 
-
-## [30](ch021.xhtml) {.unnumbered #chapter-Job-30} 
-[1]{.bibleverse} Mas ahora los más mozos de días que yo, se ríen de mí; cuyos padres yo desdeñara ponerlos con los perros de mi ganado. [2]{.bibleverse} Porque ¿para qué yo habría menester la fuerza de sus manos, en los cuales había perecido con el tiempo? [3]{.bibleverse} Por causa de la pobreza y del hambre andaban solos; huían á la soledad, á lugar tenebroso, asolado y desierto. [4]{.bibleverse} Que cogían malvas entre los arbustos, y raíces de enebro para calentarse. [5]{.bibleverse} Eran echados de entre las gentes, y todos les daban grita como al ladrón. [6]{.bibleverse} Habitaban en las barrancas de los arroyos, en las cavernas de la tierra, y en las rocas. [7]{.bibleverse} Bramaban entre las matas, y se reunían debajo de las espinas. [8]{.bibleverse} Hijos de viles, y hombres sin nombre, más bajos que la misma tierra. [9]{.bibleverse} Y ahora yo soy su canción, y he sido hecho su refrán. [10]{.bibleverse} Abomínanme, aléjanse de mí, y aun de mi rostro no detuvieron su saliva. [11]{.bibleverse} Porque Dios desató mi cuerda, y me afligió, por eso se desenfrenaron delante de mi rostro. [12]{.bibleverse} A la mano derecha se levantaron los jóvenes; empujaron mis pies, y sentaron contra mí las vías de su ruina. [13]{.bibleverse} Mi senda desbarataron, aprovecháronse de mi quebrantamiento, contra los cuales no hubo ayudador. [14]{.bibleverse} Vinieron como por portillo ancho, revolviéronse á mi calamidad. [15]{.bibleverse} Hanse revuelto turbaciones sobre mí; combatieron como viento mi alma, y mi salud pasó como nube.
-
-[16]{.bibleverse} Y ahora mi alma está derramada en mí; días de aflicción me han aprehendido. [17]{.bibleverse} De noche taladra sobre mí mis huesos, y mis pulsos no reposan. [18]{.bibleverse} Con la grande copia de materia mi vestidura está demudada; cíñeme como el cuello de mi túnica. [19]{.bibleverse} Derribóme en el lodo, y soy semejante al polvo y á la ceniza. [20]{.bibleverse} Clamo á ti, y no me oyes; preséntome, y no me atiendes. [21]{.bibleverse} Haste tornado cruel para mí: con la fortaleza de tu mano me amenazas. [22]{.bibleverse} Levantásteme, é hicísteme cabalgar sobre el viento, y disolviste mi sustancia. [23]{.bibleverse} Porque yo conozco que me reduces á la muerte; y á la casa determinada á todo viviente.
-
-[24]{.bibleverse} Mas él no extenderá la mano contra el sepulcro; ¿clamarán los sepultados cuando él los quebrantare? [25]{.bibleverse} ¿No lloré yo al afligido? Y mi alma ¿no se entristeció sobre el menesteroso? [26]{.bibleverse} Cuando esperaba yo el bien, entonces vino el mal; y cuando esperaba luz, la oscuridad vino. [27]{.bibleverse} Mis entrañas hierven, y no reposan; días de aflicción me han sobrecogido. [28]{.bibleverse} Denegrido ando, y no por el sol: levantádome he en la congregación, y clamado. [29]{.bibleverse} He venido á ser hermano de los dragones, y compañero de los buhos. [30]{.bibleverse} Mi piel está denegrida sobre mí, y mis huesos se secaron con ardentía. [31]{.bibleverse} Y hase tornado mi arpa en luto, y mi órgano en voz de lamentadores. 
-
-## [31](ch021.xhtml) {.unnumbered #chapter-Job-31} 
-[1]{.bibleverse} Hice pacto con mis ojos: ¿cómo pues había yo de pensar en virgen? [2]{.bibleverse} Porque ¿qué galardón me daría de arriba Dios, y qué heredad el Omnipotente de las alturas? [3]{.bibleverse} ¿No hay quebrantamiento para el impío, y extrañamiento para los que obran iniquidad? [4]{.bibleverse} ¿No ve él mis caminos, y cuenta todos mis pasos? [5]{.bibleverse} Si anduve con mentira, y si mi pie se apresuró á engaño, [6]{.bibleverse} Péseme Dios en balanzas de justicia, y conocerá mi integridad. [7]{.bibleverse} Si mis pasos se apartaron del camino, y si mi corazón se fué tras mis ojos, y si algo se apegó á mis manos, [8]{.bibleverse} Siembre yo, y otro coma, y mis verduras sean arrancadas. [9]{.bibleverse} Si fué mi corazón engañado acerca de mujer, y si estuve acechando á la puerta de mi prójimo: [10]{.bibleverse} Muela para otro mi mujer, y sobre ella otros se encorven. [11]{.bibleverse} Porque es maldad é iniquidad, que han de castigar los jueces. [12]{.bibleverse} Porque es fuego que devoraría hasta el sepulcro, y desarraigaría toda mi hacienda. [13]{.bibleverse} Si hubiera tenido en poco el derecho de mi siervo y de mi sierva, cuando ellos pleitearan conmigo, [14]{.bibleverse} ¿Qué haría yo cuando Dios se levantase? y cuando él visitara, ¿qué le respondería yo? [15]{.bibleverse} El que en el vientre me hizo á mí, ¿no lo hizo á él? ¿y no nos dispuso uno mismo en la matriz? [16]{.bibleverse} Si estorbé el contento de los pobres, é hice desfallecer los ojos de la viuda; [17]{.bibleverse} Y si comí mi bocado solo, y no comió de él el huérfano; [18]{.bibleverse} (Porque desde mi mocedad creció conmigo como con padre, y desde el vientre de mi madre fuí guía de la viuda;) [19]{.bibleverse} Si he visto que pereciera alguno sin vestido, y al menesteroso sin cobertura; [20]{.bibleverse} Si no me bendijeron sus lomos, y del vellón de mis ovejas se calentaron; [21]{.bibleverse} Si alcé contra el huérfano mi mano, aunque viese que me ayudarían en la puerta; [22]{.bibleverse} Mi espalda se caiga de mi hombro, y mi brazo sea quebrado de mi canilla. [23]{.bibleverse} Porque temí el castigo de Dios, contra cuya alteza yo no tendría poder. [24]{.bibleverse} Si puse en oro mi esperanza, y dije al oro: Mi confianza eres tú; [25]{.bibleverse} Si me alegré de que mi hacienda se multiplicase, y de que mi mano hallase mucho; [26]{.bibleverse} Si he mirado al sol cuando resplandecía, y á la luna cuando iba hermosa, [27]{.bibleverse} Y mi corazón se engañó en secreto, y mi boca besó mi mano: [28]{.bibleverse} Esto también fuera maldad juzgada; porque habría negado al Dios soberano. [29]{.bibleverse} Si me alegré en el quebrantamiento del que me aborrecía, y me regocijé cuando le halló el mal; [30]{.bibleverse} (Que ni aun entregué al pecado mi paladar, pidiendo maldición para su alma;) [31]{.bibleverse} Cuando mis domésticos decían: ¡Quién nos diese de su carne! nunca nos hartaríamos. [32]{.bibleverse} El extranjero no tenía fuera la noche; mis puertas abría al caminante. [33]{.bibleverse} Si encubrí, como los hombres mis prevaricaciones, escondiendo en mi seno mi iniquidad; [34]{.bibleverse} Porque quebrantaba á la gran multitud, y el menosprecio de las familias me atemorizó, y callé, y no salí de mi puerta:
-
-[35]{.bibleverse} ¡Quién me diera quien me oyese! He aquí mi impresión es que el Omnipotente testificaría por mí, aunque mi adversario me hiciera el proceso. [36]{.bibleverse} Ciertamente yo lo llevaría sobre mi hombro, y me lo ataría en lugar de corona. [37]{.bibleverse} Yo le contaría el número de mis pasos, y como príncipe me llegaría á él. [38]{.bibleverse} Si mi tierra clama contra mí, y lloran todos sus surcos; [39]{.bibleverse} Si comí su sustancia sin dinero, ó afligí el alma de sus dueños; [40]{.bibleverse} En lugar de trigo me nazcan abrojos, y espinas en lugar de cebada. Acábanse las palabras de Job. 
-
-## [32](ch021.xhtml) {.unnumbered #chapter-Job-32} 
-[1]{.bibleverse} Y cesaron estos tres varones de responder á Job, por cuanto él era justo en sus ojos. [2]{.bibleverse} Entonces Eliú hijo de Barachêl, Bucita,, de la familia de Ram, se enojó con furor contra Job: enojóse con furor, por cuanto justificaba su vida más que á Dios. [3]{.bibleverse} Enojóse asimismo con furor contra sus tres amigos, porque no hallaban qué responder, aunque habían condenado á Job. [4]{.bibleverse} Y Eliú había esperado á Job en la disputa, porque eran más viejos de días que él. [5]{.bibleverse} Empero viendo Eliú que no había respuesta en la boca de aquellos tres varones, su furor se encendió. [6]{.bibleverse} Y respondió Eliú hijo de Barachêl, Bucita, y dijo: Yo soy menor de días, y vosotros viejos; he tenido por tanto miedo, y temido declararos mi opinión.
-
-[7]{.bibleverse} Yo decía: Los días hablarán, y la muchedumbre de años declarará sabiduría. [8]{.bibleverse} Ciertamente espíritu hay en el hombre, é inspiración del Omnipotente los hace que entiendan. [9]{.bibleverse} No los grandes son los sabios, ni los viejos entienden el derecho. [10]{.bibleverse} Por tanto yo dije: Escuchadme; declararé yo también mi sabiduría. [11]{.bibleverse} He aquí yo he esperado á vuestras razones, he escuchado vuestros argumentos, en tanto que buscabais palabras. [12]{.bibleverse} Os he pues prestado atención, y he aquí que no hay de vosotros quien redarguya á Job, y responda á sus razones. [13]{.bibleverse} Porque no digáis: Nosotros hemos hallado sabiduría: lanzólo Dios, no el hombre. [14]{.bibleverse} Ahora bien, Job no enderezó á mí sus palabras, ni yo le responderé con vuestras razones.
-
-[15]{.bibleverse} Espantáronse, no respondieron más: fuéronseles los razonamientos. [16]{.bibleverse} Yo pues he esperado, porque no hablaban, antes pararon, y no respondieron más. [17]{.bibleverse} Por eso yo también responderé mi parte, también yo declararé mi juicio. [18]{.bibleverse} Porque lleno estoy de palabras, y el espíritu de mi vientre me constriñe. [19]{.bibleverse} De cierto mi vientre está como el vino que no tiene respiradero, y se rompe como odres nuevos. [20]{.bibleverse} Hablaré pues y respiraré; abriré mis labios, y responderé. [21]{.bibleverse} No haré ahora acepción de personas, ni usaré con hombre de lisonjeros títulos. [22]{.bibleverse} Porque no sé hablar lisonjas: de otra manera en breve mi Hacedor me consuma. 
-
-## [33](ch021.xhtml) {.unnumbered #chapter-Job-33} 
-[1]{.bibleverse} Por tanto, Job, oye ahora mis razones, y escucha todas mis palabras. [2]{.bibleverse} He aquí yo abriré ahora mi boca, y mi lengua hablará en mi garganta. [3]{.bibleverse} Mis razones declararán la rectitud de mi corazón, y mis labios proferirán pura sabiduría. [4]{.bibleverse} El espíritu de Dios me hizo, y la inspiración del Omnipotente me dió vida. [5]{.bibleverse} Si pudieres, respóndeme; dispón tus palabras, está delante de mí. [6]{.bibleverse} Heme aquí á mí en lugar de Dios, conforme á tu dicho: de lodo soy yo también formado. [7]{.bibleverse} He aquí que mi terror no te espantará, ni mi mano se agravará sobre ti.
-
-[8]{.bibleverse} De cierto tú dijiste á oídos míos, y yo oí la voz de tus palabras que decían: [9]{.bibleverse} Yo soy limpio y sin defecto; y soy inocente, y no hay maldad en mí. [10]{.bibleverse} He aquí que él buscó achaques contra mí, y me tiene por su enemigo; [11]{.bibleverse} Puso mis pies en el cepo, y guardó todas mis sendas. [12]{.bibleverse} He aquí en esto no has hablado justamente: yo te responderé que mayor es Dios que el hombre.
-
-[13]{.bibleverse} ¿Por qué tomaste pleito contra él? Porque él no da cuenta de ninguna de sus razones. [14]{.bibleverse} Sin embargo, en una ó en dos maneras habla Dios; mas el hombre no entiende. [15]{.bibleverse} Por sueño de visión nocturna, cuando el sueño cae sobre los hombres, cuando se adormecen sobre el lecho; [16]{.bibleverse} Entonces revela al oído de los hombres, y les señala su consejo; [17]{.bibleverse} Para quitar al hombre de su obra, y apartar del varón la soberbia. [18]{.bibleverse} Detendrá su alma de corrupción, y su vida de que pase á cuchillo. [19]{.bibleverse} También sobre su cama es castigado con dolor fuerte en todos sus huesos, [20]{.bibleverse} Que le hace que su vida aborrezca el pan, y su alma la comida suave. [21]{.bibleverse} Su carne desfallece sin verse, y sus huesos, que antes no se veían, aparecen. [22]{.bibleverse} Y su alma se acerca al sepulcro, y su vida á los que causan la muerte. [23]{.bibleverse} Si tuviera cerca de él algún elocuente anunciador muy escogido, que anuncie al hombre su deber; [24]{.bibleverse} Que le diga que Dios tuvo de él misericordia, que lo libró de descender al sepulcro, que halló redención: [25]{.bibleverse} Enterneceráse su carne más que de niño, volverá á los días de su mocedad. [26]{.bibleverse} Orará á Dios, y le amará, y verá su faz con júbilo: y él restituirá al hombre su justicia. [27]{.bibleverse} El mira sobre los hombres; y el que dijere: Pequé, y pervertí lo recto, y no me ha aprovechado; [28]{.bibleverse} Dios redimirá su alma, que no pase al sepulcro, y su vida se verá en luz.
-
-[29]{.bibleverse} He aquí, todas estas cosas hace Dios dos y tres veces con el hombre; [30]{.bibleverse} Para apartar su alma del sepulcro, y para iluminarlo con la luz de los vivientes. [31]{.bibleverse} Escucha, Job, y óyeme; calla, y yo hablaré. [32]{.bibleverse} Que si tuvieres razones, respóndeme: habla, porque yo te quiero justificar. [33]{.bibleverse} Y si no, óyeme tú á mí; calla, y enseñarte he sabiduría. 
-
-## [34](ch021.xhtml) {.unnumbered #chapter-Job-34} 
-[1]{.bibleverse} Además respondió Eliú, y dijo: [2]{.bibleverse} Oid, sabios, mis palabras; y vosotros, doctos, estadme atentos. [3]{.bibleverse} Porque el oído prueba las palabras, como el paladar gusta para comer. [4]{.bibleverse} Escojamos para nosotros el juicio, conozcamos entre nosotros cuál sea lo bueno: [5]{.bibleverse} Porque Job ha dicho: Yo soy justo, y Dios me ha quitado mi derecho. [6]{.bibleverse} ¿He de mentir yo contra mi razón? Mi saeta es gravosa sin haber yo prevaricado.
-
-[7]{.bibleverse} ¿Qué hombre hay como Job, que bebe el escarnio como agua? [8]{.bibleverse} Y va en compañía con los que obran iniquidad, y anda con los hombres maliciosos. [9]{.bibleverse} Porque ha dicho: De nada servirá al hombre el conformar su voluntad con Dios. [10]{.bibleverse} Por tanto, varones de seso, oidme: Lejos esté de Dios la impiedad, y del Omnipotente la iniquidad. [11]{.bibleverse} Porque él pagará al hombre según su obra, y él le hará hallar conforme á su camino. [12]{.bibleverse} Sí, por cierto, Dios no hará injusticia, y el Omnipotente no pervertirá el derecho. [13]{.bibleverse} ¿Quién visitó por él la tierra? ¿y quién puso en orden todo el mundo? [14]{.bibleverse} Si él pusiese sobre el hombre su corazón, y recogiese así su espíritu y su aliento, [15]{.bibleverse} Toda carne perecería juntamente, y el hombre se tornaría en polvo. [16]{.bibleverse} Si pues hay en ti entendimiento, oye esto: escucha la voz de mis palabras. [17]{.bibleverse} ¿Enseñorearáse el que aborrece juicio? ¿y condenarás tú al que es tan justo? [18]{.bibleverse} ¿Hase de decir al rey: Perverso; y á los príncipes: Impíos? [19]{.bibleverse} ¿Cuánto menos á aquel que no hace acepción de personas de príncipes, ni el rico es de él más respetado que el pobre? porque todos son obras de sus manos. [20]{.bibleverse} En un momento morirán, y á media noche se alborotarán los pueblos, y pasarán, y sin mano será quitado el poderoso. [21]{.bibleverse} Porque sus ojos están sobre los caminos del hombre, y ve todos sus pasos. [22]{.bibleverse} No hay tinieblas ni sombra de muerte donde se encubran los que obran maldad. [23]{.bibleverse} No carga pues él al hombre más de lo justo, para que vaya con Dios á juicio. [24]{.bibleverse} El quebrantará á los fuertes sin pesquisa, y hará estar otros en su lugar. [25]{.bibleverse} Por tanto él hará notorias las obras de ellos, cuando los trastornará en la noche, y serán quebrantados. [26]{.bibleverse} Como á malos los herirá en lugar donde sean vistos: [27]{.bibleverse} Por cuanto así se apartaron de él, y no consideraron todos sus caminos; [28]{.bibleverse} Haciendo venir delante de él el clamor del pobre, y que oiga el clamor de los necesitados. [29]{.bibleverse} Y si él diere reposo, ¿quién inquietará? si escondiere el rostro, ¿quién lo mirará? Esto sobre una nación, y lo mismo sobre un hombre; [30]{.bibleverse} Haciendo que no reine el hombre hipócrita para vejaciones del pueblo.
-
-[31]{.bibleverse} De seguro conviene se diga á Dios: Llevado he ya castigo, no más ofenderé: [32]{.bibleverse} Enséñame tú lo que yo no veo: que si hice mal, no lo haré más. [33]{.bibleverse} ¿Ha de ser eso según tu mente? El te retribuirá, ora rehuses, ora aceptes, y no yo: di si no, lo que tú sabes. [34]{.bibleverse} Los hombres de seso dirán conmigo, y el hombre sabio me oirá: [35]{.bibleverse} Que Job no habla con sabiduría, y que sus palabras no son con entendimiento. [36]{.bibleverse} Deseo yo que Job sea probado ampliamente, á causa de sus respuestas por los hombres inicuos. [37]{.bibleverse} Porque á su pecado añadió impiedad: bate las manos entre nosotros, y contra Dios multiplica sus palabras. 
-
-## [35](ch021.xhtml) {.unnumbered #chapter-Job-35} 
-[1]{.bibleverse} Y procediendo Eliú en su razonamiento, dijo: [2]{.bibleverse} ¿Piensas ser conforme á derecho esto que dijiste: Más justo soy yo que Dios? [3]{.bibleverse} Porque dijiste: ¿Qué ventaja sacarás tú de ello? ¿ó qué provecho tendré de mi pecado? [4]{.bibleverse} Yo te responderé razones, y á tus compañeros contigo. [5]{.bibleverse} Mira á los cielos, y ve, y considera que las nubes son más altas que tú. [6]{.bibleverse} Si pecares, ¿qué habrás hecho contra él? y si tus rebeliones se multiplicaren, ¿qué le harás tú? [7]{.bibleverse} Si fueres justo, ¿qué le darás á él? ¿ó qué recibirá de tu mano? [8]{.bibleverse} Al hombre como tú dañará tu impiedad, y al hijo del hombre aprovechará tu justicia.
-
-[9]{.bibleverse} A causa de la multitud de las violencias clamarán, y se lamentarán por el poderío de los grandes. [10]{.bibleverse} Y ninguno dice: ¿Dónde está Dios mi Hacedor, que da canciones en la noche, [11]{.bibleverse} Que nos enseña más que á las bestias de la tierra, y nos hace sabios más que las aves del cielo? [12]{.bibleverse} Allí clamarán, y él no oirá, por la soberbia de los malos. [13]{.bibleverse} Ciertamente Dios no oirá la vanidad, ni la mirará el Omnipotente. [14]{.bibleverse} Aunque más digas, No lo mirará; haz juicio delante de él, y en él espera. [15]{.bibleverse} Mas ahora, porque en su ira no visita, ni conoce con rigor, por eso Job abrió su boca vanamente, y multiplica palabras sin sabiduría. [16]{.bibleverse} 
-
-## [36](ch021.xhtml) {.unnumbered #chapter-Job-36} 
-[1]{.bibleverse} Y añadió Eliú, y dijo: [2]{.bibleverse} Espérame un poco, y enseñarte he; porque todavía tengo razones en orden á Dios. [3]{.bibleverse} Tomaré mi noticia de lejos, y atribuiré justicia á mi Hacedor. [4]{.bibleverse} Porque de cierto no son mentira mis palabras; contigo está el que es íntegro en sus conceptos.
-
-[5]{.bibleverse} He aquí que Dios es grande, mas no desestima á nadie: es poderoso en fuerza de sabiduría. [6]{.bibleverse} No otorgará vida al impío, y á los afligidos dará su derecho. [7]{.bibleverse} No quitará sus ojos del justo; antes bien con los reyes los pondrá en solio para siempre, y serán ensalzados. [8]{.bibleverse} Y si estuvieren prendidos en grillos, y aprisionados en las cuerdas de aflicción, [9]{.bibleverse} El les dará á conocer la obra de ellos, y que prevalecieron sus rebeliones. [10]{.bibleverse} Despierta además el oído de ellos para la corrección, y díceles que se conviertan de la iniquidad. [11]{.bibleverse} Si oyeren, y le sirvieren, acabarán sus días en bien, y sus años en deleites. [12]{.bibleverse} Mas si no oyeren, serán pasados á cuchillo, y perecerán sin sabiduría. [13]{.bibleverse} Empero los hipócritas de corazón lo irritarán más, y no clamarán cuando él los atare. [14]{.bibleverse} Fallecerá el alma de ellos en su mocedad, y su vida entre los sodomitas. [15]{.bibleverse} Al pobre librará de su pobreza, y en la aflicción despertará su oído.
-
-[16]{.bibleverse} Asimismo te apartaría de la boca de la angustia á lugar espacioso, libre de todo apuro; y te asentará mesa llena de grosura. [17]{.bibleverse} Mas tú has llenado el juicio del impío, en vez de sustentar el juicio y la justicia. [18]{.bibleverse} Por lo cual teme que en su ira no te quite con golpe, el cual no puedas apartar de ti con gran rescate. [19]{.bibleverse} ¿Hará él estima de tus riquezas, ni del oro, ni de todas las fuerzas del poder? [20]{.bibleverse} No anheles la noche, en que desaparecen los pueblos de su lugar. [21]{.bibleverse} Guárdate, no tornes á la iniquidad; pues ésta escogiste más bien que la aflicción. [22]{.bibleverse} He aquí que Dios es excelso con su potencia: ¿qué enseñador semejante á él? [23]{.bibleverse} ¿Quién le ha prescrito su camino? ¿y quién le dirá: Iniquidad has hecho? [24]{.bibleverse} Acuérdate de engrandecer su obra, la cual contemplan los hombres. [25]{.bibleverse} Los hombres todos la ven; mírala el hombre de lejos.
-
-[26]{.bibleverse} He aquí, Dios es grande, y nosotros no le conocemos; ni se puede rastrear el número de sus años. [27]{.bibleverse} El reduce las gotas de las aguas, al derramarse la lluvia según el vapor; [28]{.bibleverse} Las cuales destilan las nubes, goteando en abundancia sobre los hombres. [29]{.bibleverse} ¿Quién podrá tampoco comprender la extensión de las nubes, y el sonido estrepitoso de su pabellón? [30]{.bibleverse} He aquí que sobre él extiende su luz, y cobija con ella las raíces de la mar. [31]{.bibleverse} Bien que por esos medios castiga á los pueblos, á la multitud da comida. [32]{.bibleverse} Con las nubes encubre la luz, y mándale no brillar, interponiendo aquéllas. [33]{.bibleverse} Tocante á ella anunciará el trueno, su compañero, que hay acumulación de ira sobre el que se eleva. 
-
-## [37](ch021.xhtml) {.unnumbered #chapter-Job-37} 
-[1]{.bibleverse} A esto también se espanta mi corazón, y salta de su lugar. [2]{.bibleverse} Oid atentamente su voz terrible, y el sonido que sale de su boca. [3]{.bibleverse} Debajo de todos los cielos lo dirige, y su luz hasta los fines de la tierra. [4]{.bibleverse} Después de ella bramará el sonido, tronará él con la voz de su magnificencia; y aunque sea oída su voz, no los detiene. [5]{.bibleverse} Tronará Dios maravillosamente con su voz; él hace grandes cosas, que nosotros no entendemos. [6]{.bibleverse} Porque á la nieve dice: Desciende á la tierra; también á la llovizna, y á los aguaceros de su fortaleza. [7]{.bibleverse} Así hace retirarse á todo hombre, para que los hombres todos reconozcan su obra. [8]{.bibleverse} La bestia se entrará en su escondrijo, y estaráse en sus moradas. [9]{.bibleverse} Del mediodía viene el torbellino, y el frío de los vientos del norte. [10]{.bibleverse} Por el soplo de Dios se da el hielo, y las anchas aguas son constreñidas. [11]{.bibleverse} Regando también llega á disipar la densa nube, y con su luz esparce la niebla. [12]{.bibleverse} Asimismo por sus designios se revuelven las nubes en derredor, para hacer sobre la haz del mundo, en la tierra, lo que él les mandara. [13]{.bibleverse} Unas veces por azote, otras por causa de su tierra, otras por misericordia las hará parecer.
-
-[14]{.bibleverse} Escucha esto, Job; repósate, y considera las maravillas de Dios. [15]{.bibleverse} ¿Supiste tú cuándo Dios las ponía en concierto, y hacía levantar la luz de su nube? [16]{.bibleverse} ¿Has tú conocido las diferencias de las nubes, las maravillas del Perfecto en sabiduría? [17]{.bibleverse} ¿Por qué están calientes tus vestidos cuando se fija el viento del mediodía sobre la tierra? [18]{.bibleverse} ¿Extendiste tú con él los cielos, firmes como un espejo sólido? [19]{.bibleverse} Muéstranos qué le hemos de decir; porque nosotros no podemos componer las ideas á causa de las tinieblas. [20]{.bibleverse} ¿Será preciso contarle cuando yo hablaré? Por más que el hombre razone, quedará como abismado. [21]{.bibleverse} He aquí aún: no se puede mirar la luz esplendente en los cielos, luego que pasa el viento y los limpia, [22]{.bibleverse} Viniendo de la parte del norte la dorada claridad. En Dios hay una majestad terrible. [23]{.bibleverse} El es Todopoderoso, al cual no alcanzamos, grande en potencia; y en juicio y en multitud de justicia no afligirá. [24]{.bibleverse} Temerlo han por tanto los hombres: él no mira á los sabios de corazón. 
-
-## [38](ch021.xhtml) {.unnumbered #chapter-Job-38} 
-[1]{.bibleverse} Y respondió Jehová á Job desde un torbellino, y dijo: [2]{.bibleverse} ¿Quién es ése que oscurece el consejo con palabras sin sabiduría? [3]{.bibleverse} Ahora ciñe como varón tus lomos; yo te preguntaré, y hazme saber tú.
-
-[4]{.bibleverse} ¿Dónde estabas cuando yo fundaba la tierra? házmelo saber, si tienes inteligencia. [5]{.bibleverse} ¿Quién ordenó sus medidas, si lo sabes? ¿ó quién extendió sobre ella cordel? [6]{.bibleverse} ¿Sobre qué están fundadas sus basas? ¿ó quién puso su piedra angular, [7]{.bibleverse} Cuando las estrellas todas del alba alababan, y se regocijaban todos los hijos de Dios? [8]{.bibleverse} ¿Quién encerró con puertas la mar, cuando se derramaba por fuera como saliendo de madre; [9]{.bibleverse} Cuando puse yo nubes por vestidura suya, y por su faja oscuridad. [10]{.bibleverse} Y establecí sobre ella mi decreto, y le puse puertas y cerrojo, [11]{.bibleverse} Y dije: Hasta aquí vendrás, y no pasarás adelante, y ahí parará la hinchazón de tus ondas? [12]{.bibleverse} ¿Has tú mandado á la mañana en tus días? ¿has mostrado al alba su lugar, [13]{.bibleverse} Para que ocupe los fines de la tierra, y que sean sacudidos de ella los impíos? [14]{.bibleverse} Trasmúdase como lodo bajo de sello, y viene á estar como con vestidura: [15]{.bibleverse} Mas la luz de los impíos es quitada de ellos, y el brazo enaltecido es quebrantado. [16]{.bibleverse} ¿Has entrado tú hasta los profundos de la mar, y has andado escudriñando el abismo? [17]{.bibleverse} ¿Hante sido descubiertas las puertas de la muerte, y has visto las puertas de la sombra de muerte? [18]{.bibleverse} ¿Has tú considerado hasta las anchuras de la tierra? Declara si sabes todo esto. [19]{.bibleverse} ¿Por dónde va el camino á la habitación de la luz, y dónde está el lugar de las tinieblas? [20]{.bibleverse} ¿Si llevarás tú ambas cosas á sus términos, y entenderás las sendas de su casa? [21]{.bibleverse} ¿Sabíaslo tú porque hubieses ya nacido, ó porque es grande el número de tus días? [22]{.bibleverse} ¿Has tú entrado en los tesoros de la nieve, ó has visto los tesoros del granizo, [23]{.bibleverse} Lo cual tengo yo reservado para el tiempo de angustia, para el día de la guerra y de la batalla? [24]{.bibleverse} ¿Por qué camino se reparte la luz, y se esparce el viento solano sobre la tierra? [25]{.bibleverse} ¿Quién repartió conducto al turbión, y camino á los relámpagos y truenos, [26]{.bibleverse} Haciendo llover sobre la tierra deshabitada, sobre el desierto, donde no hay hombre, [27]{.bibleverse} Para hartar la tierra desierta é inculta, y para hacer brotar la tierna hierba? [28]{.bibleverse} ¿Tiene la lluvia padre? ¿ó quién engendró las gotas del rocío? [29]{.bibleverse} ¿De qué vientre salió el hielo? y la escarcha del cielo, ¿quién la engendró? [30]{.bibleverse} Las aguas se endurecen á manera de piedra, y congélase la haz del abismo. [31]{.bibleverse} ¿Podrás tú impedir las delicias de las Pléyades, ó desatarás las ligaduras del Orión? [32]{.bibleverse} ¿Sacarás tú á su tiempo los signos de los cielos, ó guiarás el Arcturo con sus hijos? [33]{.bibleverse} ¿Supiste tú las ordenanzas de los cielos? ¿dispondrás tú de su potestad en la tierra? [34]{.bibleverse} ¿Alzarás tú á las nubes tu voz, para que te cubra muchedumbre de aguas? [35]{.bibleverse} ¿Enviarás tú los relámpagos, para que ellos vayan? ¿y diránte ellos: Henos aquí? [36]{.bibleverse} ¿Quién puso la sabiduría en el interior? ¿ó quién dió al entendimiento la inteligencia? [37]{.bibleverse} ¿Quién puso por cuenta los cielos con sabiduría? y los odres de los cielos, ¿quién los hace parar, [38]{.bibleverse} Cuando el polvo se ha convertido en dureza, y los terrones se han pegado unos con otros? [39]{.bibleverse} [40]{.bibleverse} [41]{.bibleverse} 
-
-## [39](ch021.xhtml) {.unnumbered #chapter-Job-39} 
-[1]{.bibleverse} ¿Cazarás tú la presa para el león? ¿y saciarás el hambre de los leoncillos, [2]{.bibleverse} Cuando están echados en las cuevas, ó se están en sus guaridas para acechar? [3]{.bibleverse} ¿Quién preparó al cuervo su alimento, cuando sus pollos claman á Dios, bullendo de un lado á otro por carecer de comida? [4]{.bibleverse} ¿Sabes tú el tiempo en que paren las cabras monteses? ¿ó miraste tú las ciervas cuando están pariendo? [5]{.bibleverse} ¿Contaste tú los meses de su preñez, y sabes el tiempo cuando han de parir? [6]{.bibleverse} Encórvanse, hacen salir sus hijos, pasan sus dolores. [7]{.bibleverse} Sus hijos están sanos, crecen con el pasto: salen y no vuelven á ellas. [8]{.bibleverse} ¿Quién echó libre al asno montés, y quién soltó sus ataduras? [9]{.bibleverse} Al cual yo puse casa en la soledad, y sus moradas en lugares estériles. [10]{.bibleverse} Búrlase de la multitud de la ciudad: no oye las voces del arriero. [11]{.bibleverse} Lo oculto de los montes es su pasto, y anda buscando todo lo que está verde. [12]{.bibleverse} ¿Querrá el unicornio servirte á ti, ni quedar á tu pesebre? [13]{.bibleverse} ¿Atarás tú al unicornio con su coyunda para el surco? ¿labrará los valles en pos de ti? [14]{.bibleverse} ¿Confiarás tú en él, por ser grande su fortaleza, y le fiarás tu labor? [15]{.bibleverse} ¿Fiarás de él que te tornará tu simiente, y que la allegará en tu era? [16]{.bibleverse} ¿Diste tú hermosas alas al pavo real, ó alas y plumas al avestruz? [17]{.bibleverse} El cual desampara en la tierra sus huevos, y sobre el polvo los calienta, [18]{.bibleverse} Y olvídase de que los pisará el pie, y que los quebrará bestia del campo. [19]{.bibleverse} Endurécese para con sus hijos, como si no fuesen suyos, no temiendo que su trabajo haya sido en vano: [20]{.bibleverse} Porque le privó Dios de sabiduría, y no le dió inteligencia. [21]{.bibleverse} Luego que se levanta en alto, búrlase del caballo y de su jinete. [22]{.bibleverse} ¿Diste tú al caballo la fortaleza? ¿vestiste tú su cerviz de relincho? [23]{.bibleverse} ¿Le intimidarás tú como á alguna langosta? El resoplido de su nariz es formidable: [24]{.bibleverse} Escarba la tierra, alégrase en su fuerza, sale al encuentro de las armas: [25]{.bibleverse} Hace burla del espanto, y no teme, ni vuelve el rostro delante de la espada. [26]{.bibleverse} Contra él suena la aljaba, el hierro de la lanza y de la pica: [27]{.bibleverse} Y él con ímpetu y furor escarba la tierra, sin importarle el sonido de la bocina; [28]{.bibleverse} Antes como que dice entre los clarines: ¡Ea!, y desde lejos huele la batalla, el grito de los capitanes, y la vocería. [29]{.bibleverse} ¿Vuela el gavilán por tu industria, y extiende hacia el mediodía sus alas? [30]{.bibleverse} ¿Se remonta el águila por tu mandamiento, y pone en alto su nido? Ella habita y está en la piedra, en la cumbre del peñasco y de la roca. Desde allí acecha la comida: sus ojos observan de muy lejos. Sus pollos chupan la sangre: y donde hubiere cadáveres, allí está. A más de eso respondió Jehová á Job, y dijo: ¿Es sabiduría contender con el Omnipotente? El que disputa con Dios, responda á esto. Y respondió Job á Jehová, y dijo: He aquí que yo soy vil, ¿qué te responderé? Mi mano pongo sobre mi boca. Una vez hablé, y no responderé: aun dos veces, mas no tornaré á hablar. 
-
-## [40](ch021.xhtml) {.unnumbered #chapter-Job-40} 
-[1]{.bibleverse} Entonces respondió Jehová á Job desde la oscuridad, y dijo: [2]{.bibleverse} Cíñete ahora como varón tus lomos; yo te preguntaré, y explícame. [3]{.bibleverse} ¿Invalidarás tú también mi juicio? ¿me condenarás á mí, para justificarte á ti? [4]{.bibleverse} ¿Tienes tú brazo como Dios? ¿y tronarás tú con voz como él? [5]{.bibleverse} Atavíate ahora de majestad y de alteza: y vístete de honra y de hermosura. [6]{.bibleverse} Esparce furores de tu ira: y mira á todo soberbio, y abátelo. [7]{.bibleverse} Mira á todo soberbio, y humíllalo, y quebranta á los impíos en su asiento. [8]{.bibleverse} Encúbrelos á todos en el polvo, venda sus rostros en la oscuridad; [9]{.bibleverse} Y yo también te confesaré que podrá salvarte tu diestra. [10]{.bibleverse} He aquí ahora behemoth, al cual yo hice contigo; hierba come como buey. [11]{.bibleverse} He aquí ahora que su fuerza está en sus lomos, y su fortaleza en el ombligo de su vientre. [12]{.bibleverse} Su cola mueve como un cedro, y los nervios de sus genitales son entretejidos. [13]{.bibleverse} Sus huesos son fuertes como bronce, y sus miembros como barras de hierro. [14]{.bibleverse} El es la cabeza de los caminos de Dios: el que lo hizo, puede hacer que su cuchillo á él se acerque. [15]{.bibleverse} Ciertamente los montes producen hierba para él: y toda bestia del campo retoza allá. [16]{.bibleverse} Echaráse debajo de las sombras, en lo oculto de las cañas, y de los lugares húmedos. [17]{.bibleverse} Los árboles sombríos lo cubren con su sombra; los sauces del arroyo lo cercan. [18]{.bibleverse} He aquí que él tomará el río sin inmutarse: y confíase que el Jordán pasará por su boca. [19]{.bibleverse} ¿Tomarálo alguno por sus ojos en armadijos, y horadará su nariz? [20]{.bibleverse} [21]{.bibleverse} [22]{.bibleverse} [23]{.bibleverse} [24]{.bibleverse} 
-
-## [41](ch021.xhtml) {.unnumbered #chapter-Job-41} 
-[1]{.bibleverse} ¿Sacarás tú al leviathán con el anzuelo, ó con la cuerda que le echares en su lengua? [2]{.bibleverse} ¿Pondrás tú garfio en sus narices, y horadarás con espinas su quijada? [3]{.bibleverse} ¿Multiplicará él ruegos para contigo? ¿hablaráte él lisonjas? [4]{.bibleverse} ¿Hará concierto contigo para que lo tomes por siervo perpetuo? [5]{.bibleverse} ¿Jugarás tú con él como con pájaro, ó lo atarás para tus niñas? [6]{.bibleverse} ¿Harán de él banquete los compañeros? ¿partiránlo entre los mercaderes? [7]{.bibleverse} ¿Cortarás tú con cuchillo su cuero, ó con asta de pescadores su cabeza? [8]{.bibleverse} Pon tu mano sobre él; te acordarás de la batalla, y nunca más tornarás. [9]{.bibleverse} He aquí que la esperanza acerca de él será burlada: porque aun á su sola vista se desmayarán. [10]{.bibleverse} Nadie hay tan osado que lo despierte: ¿quién pues podrá estar delante de mí? [11]{.bibleverse} ¿Quién me ha anticipado, para que yo restituya? Todo lo que hay debajo del cielo es mío. [12]{.bibleverse} Yo no callaré sus miembros, ni lo de sus fuerzas y la gracia de su disposición. [13]{.bibleverse} ¿Quién descubrirá la delantera de su vestidura? ¿quién se llegará á él con freno doble? [14]{.bibleverse} ¿Quién abrirá las puertas de su rostro? Los órdenes de sus dientes espantan. [15]{.bibleverse} La gloria de su vestido son escudos fuertes, cerrados entre sí estrechamente. [16]{.bibleverse} El uno se junta con el otro, que viento no entra entre ellos. [17]{.bibleverse} Pegado está el uno con el otro, están trabados entre sí, que no se pueden apartar. [18]{.bibleverse} Con sus estornudos encienden lumbre, y sus ojos son como los párpados del alba. [19]{.bibleverse} De su boca salen hachas de fuego; centellas de fuego proceden. [20]{.bibleverse} De sus narices sale humo, como de una olla ó caldero que hierve. [21]{.bibleverse} Su aliento enciende los carbones, y de su boca sale llama. [22]{.bibleverse} En su cerviz mora la fortaleza, y espárcese el desaliento delante de él. [23]{.bibleverse} Las partes momias de su carne están apretadas: están en él firmes, y no se mueven. [24]{.bibleverse} Su corazón es firme como una piedra, y fuerte como la muela de abajo. [25]{.bibleverse} De su grandeza tienen temor los fuertes, y á causa de su desfallecimiento hacen por purificarse. [26]{.bibleverse} Cuando alguno lo alcanzare, ni espada, ni lanza, ni dardo, ni coselete durará. [27]{.bibleverse} El hierro estima por pajas, y el acero por leño podrido. [28]{.bibleverse} Saeta no le hace huir; las piedras de honda se le tornan aristas. [29]{.bibleverse} Tiene toda arma por hojarascas, y del blandir de la pica se burla. [30]{.bibleverse} Por debajo tiene agudas conchas; Imprime su agudez en el suelo. [31]{.bibleverse} Hace hervir como una olla la profunda mar, y tórnala como una olla de ungüento. [32]{.bibleverse} En pos de sí hace resplandecer la senda, que parece que la mar es cana. [33]{.bibleverse} No hay sobre la tierra su semejante, hecho para nada temer. [34]{.bibleverse} Menosprecia toda cosa alta: es rey sobre todos los soberbios. 
-
-## [42](ch021.xhtml) {.unnumbered #chapter-Job-42} 
-[1]{.bibleverse} Y respondió Job á Jehová, y dijo: [2]{.bibleverse} Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti. [3]{.bibleverse} ¿Quién es el que oscurece el consejo sin ciencia? por tanto yo denunciaba lo que no entendía; cosas que me eran ocultas, y que no las sabía. [4]{.bibleverse} Oye, te ruego, y hablaré: te preguntaré, y tú me enseñarás. [5]{.bibleverse} De oídas te había oído; mas ahora mis ojos te ven. [6]{.bibleverse} Por tanto me aborrezco, y me arrepiento en el polvo y en la ceniza.
-
-[7]{.bibleverse} Y aconteció que después que habló Jehová estas palabras á Job, Jehová dijo á Eliphaz Temanita: Mi ira se encendió contra ti y tus dos compañeros: porque no habéis hablado por mí lo recto, como mi siervo Job. [8]{.bibleverse} Ahora pues, tomaos siete becerros y siete carneros, y andad á mi siervo Job, y ofreced holocausto por vosotros, y mi siervo Job orará por vosotros; porque de cierto á él atenderé para no trataros afrentosamente, por cuanto no habéis hablado por mí con rectitud, como mi siervo Job.
-
-[9]{.bibleverse} Fueron pues Eliphaz Temanita, y Bildad Suhita, y Sophar Naamatita, é hicieron como Jehová les dijo: y Jehová atendió á Job.
-
-[10]{.bibleverse} Y mudó Jehová la aflicción de Job, orando él por sus amigos: y aumentó al doble todas las cosas que habían sido de Job. [11]{.bibleverse} Y vinieron á él todos sus hermanos, y todas sus hermanas, y todos los que antes le habían conocido, y comieron con él pan en su casa, y condoliéronse de él, y consoláronle de todo aquel mal que sobre él había Jehová traído; y cada uno de ellos le dió una pieza de moneda, y un zarcillo de oro.
-
-[12]{.bibleverse} Y bendijo Jehová la postrimería de Job más que su principio; porque tuvo catorce mil ovejas, y seis mil camellos, y mil yuntas de bueyes, y mil asnas. [13]{.bibleverse} Y tuvo siete hijos y tres hijas. [14]{.bibleverse} Y llamó el nombre de la una, Jemimah, y el nombre de la segunda, Cesiah, y el nombre de la tercera, Keren-happuch. [15]{.bibleverse} Y no se hallaron mujeres tan hermosas como las hijas de Job en toda la tierra: y dióles su padre herencia entre sus hermanos. [16]{.bibleverse} Y después de esto vivió Job ciento y cuarenta años, y vió á sus hijos, y á los hijos de sus hijos, hasta la cuarta generación. [17]{.bibleverse} Murió pues Job viejo, y lleno de días. 
+<div id="chapterlinks-Job" class="chapterlinks">[&nbsp;1&nbsp;](#chapter-Job-1) [&nbsp;2&nbsp;](#chapter-Job-2) [&nbsp;3&nbsp;](#chapter-Job-3) [&nbsp;4&nbsp;](#chapter-Job-4) [&nbsp;5&nbsp;](#chapter-Job-5) [&nbsp;6&nbsp;](#chapter-Job-6) [&nbsp;7&nbsp;](#chapter-Job-7) [&nbsp;8&nbsp;](#chapter-Job-8) [&nbsp;9&nbsp;](#chapter-Job-9) [&nbsp;10&nbsp;](#chapter-Job-10) [&nbsp;11&nbsp;](#chapter-Job-11) [&nbsp;12&nbsp;](#chapter-Job-12) [&nbsp;13&nbsp;](#chapter-Job-13) [&nbsp;14&nbsp;](#chapter-Job-14) [&nbsp;15&nbsp;](#chapter-Job-15) [&nbsp;16&nbsp;](#chapter-Job-16) [&nbsp;17&nbsp;](#chapter-Job-17) [&nbsp;18&nbsp;](#chapter-Job-18) [&nbsp;19&nbsp;](#chapter-Job-19) [&nbsp;20&nbsp;](#chapter-Job-20) [&nbsp;21&nbsp;](#chapter-Job-21) [&nbsp;22&nbsp;](#chapter-Job-22) [&nbsp;23&nbsp;](#chapter-Job-23) [&nbsp;24&nbsp;](#chapter-Job-24) [&nbsp;25&nbsp;](#chapter-Job-25) [&nbsp;26&nbsp;](#chapter-Job-26) [&nbsp;27&nbsp;](#chapter-Job-27) [&nbsp;28&nbsp;](#chapter-Job-28) [&nbsp;29&nbsp;](#chapter-Job-29) [&nbsp;30&nbsp;](#chapter-Job-30) [&nbsp;31&nbsp;](#chapter-Job-31) [&nbsp;32&nbsp;](#chapter-Job-32) [&nbsp;33&nbsp;](#chapter-Job-33) [&nbsp;34&nbsp;](#chapter-Job-34) [&nbsp;35&nbsp;](#chapter-Job-35) [&nbsp;36&nbsp;](#chapter-Job-36) [&nbsp;37&nbsp;](#chapter-Job-37) [&nbsp;38&nbsp;](#chapter-Job-38) [&nbsp;39&nbsp;](#chapter-Job-39) [&nbsp;40&nbsp;](#chapter-Job-40) [&nbsp;41&nbsp;](#chapter-Job-41) [&nbsp;42&nbsp;](#chapter-Job-42) </div>
+
+<h2 class="chaptertitle">[&nbsp;1&nbsp;](ch021.xhtml)<span><span id="chapter-Job-1"></span></span></h2>
+ 
+[1]{#verse-Job-1-1 .bibleverse} Hubo un varón en tierra de Hus, llamado Job; y era este hombre perfecto y recto, y temeroso de Dios, y apartado del mal. 
+[2]{#verse-Job-1-2 .bibleverse} Y naciéronle siete hijos y tres hijas. 
+[3]{#verse-Job-1-3 .bibleverse} Y su hacienda era siete mil ovejas, y tres mil camellos, y quinientas yuntas de bueyes, y quinientas asnas, y muchísimos criados: y era aquel varón grande más que todos los Orientales. 
+[4]{#verse-Job-1-4 .bibleverse} E iban sus hijos y hacían banquetes en sus casas, cada uno en su día; y enviaban á llamar sus tres hermanas, para que comiesen y bebiesen con ellos. 
+[5]{#verse-Job-1-5 .bibleverse} Y acontecía que, habiendo pasado en turno los días del convite, Job enviaba y santificábalos, y levantábase de mañana y ofrecía holocaustos conforme al número de todos ellos. Porque decía Job: Quizá habrán pecado mis hijos, y habrán blasfemado á Dios en sus corazones. De esta manera hacía todos los días.
+
+ 
+[6]{#verse-Job-1-6 .bibleverse} Y un día vinieron los hijos de Dios á presentarse delante de Jehová, entre los cuales vino también Satán. 
+[7]{#verse-Job-1-7 .bibleverse} Y dijo Jehová á Satán: ¿De dónde vienes? Y respondiendo Satán á Jehová, dijo: De rodear la tierra, y de andar por ella.
+
+ 
+[8]{#verse-Job-1-8 .bibleverse} Y Jehová dijo á Satán: ¿No has considerado á mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios, y apartado de mal?
+
+ 
+[9]{#verse-Job-1-9 .bibleverse} Y respondiendo Satán á Jehová, dijo: ¿Teme Job á Dios de balde? 
+[10]{#verse-Job-1-10 .bibleverse} ¿No le has tú cercado á él, y á su casa, y á todo lo que tiene en derredor? Al trabajo de sus manos has dado bendición; por tanto su hacienda ha crecido sobre la tierra. 
+[11]{#verse-Job-1-11 .bibleverse} Mas extiende ahora tu mano, y toca á todo lo que tiene, y verás si no te blasfema en tu rostro.
+
+ 
+[12]{#verse-Job-1-12 .bibleverse} Y dijo Jehová á Satán: He aquí, todo lo que tiene está en tu mano: solamente no pongas tu mano sobre él. Y salióse Satán de delante de Jehová.
+
+ 
+[13]{#verse-Job-1-13 .bibleverse} Y un día aconteció que sus hijos é hijas comían y bebían vino en casa de su hermano el primogénito, 
+[14]{#verse-Job-1-14 .bibleverse} Y vino un mensajero á Job, que le dijo: Estando arando los bueyes, y las asnas paciendo cerca de ellos, 
+[15]{#verse-Job-1-15 .bibleverse} Acometieron los Sabeos, y tomáronlos, é hirieron á los mozos á filo de espada: solamente escapé yo para traerte las nuevas.
+
+ 
+[16]{#verse-Job-1-16 .bibleverse} Aun estaba éste hablando, y vino otro que dijo: Fuego de Dios cayó del cielo, que quemó las ovejas y los mozos, y los consumió: solamente escapé yo solo para traerte las nuevas.
+
+ 
+[17]{#verse-Job-1-17 .bibleverse} Todavía estaba éste hablando, y vino otro que dijo: Los Caldeos hicieron tres escuadrones, y dieron sobre los camellos, y tomáronlos, é hirieron á los mozos á filo de espada; y solamente escapé yo solo para traerte las nuevas.
+
+ 
+[18]{#verse-Job-1-18 .bibleverse} Entre tanto que éste hablaba, vino otro que dijo: Tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de su hermano el primogénito; 
+[19]{#verse-Job-1-19 .bibleverse} Y he aquí un gran viento que vino del lado del desierto, é hirió las cuatro esquinas de la casa, y cayó sobre los mozos, y murieron; y solamente escapé yo solo para traerte las nuevas. 
+[20]{#verse-Job-1-20 .bibleverse} Entonces Job se levantó, y rasgó su manto, y trasquiló su cabeza, y cayendo en tierra adoró; 
+[21]{#verse-Job-1-21 .bibleverse} Y dijo: Desnudo salí del vientre de mi madre, y desnudo tornaré allá. Jehová dió, y Jehová quitó: sea el nombre de Jehová bendito. 
+[22]{#verse-Job-1-22 .bibleverse} En todo esto no pecó Job, ni atribuyó á Dios despropósito alguno. 
+
+<h2 class="chaptertitle">[&nbsp;2&nbsp;](ch021.xhtml)<span><span id="chapter-Job-2"></span></span></h2>
+ 
+[1]{#verse-Job-2-1 .bibleverse} Y otro día aconteció que vinieron los hijos de Dios para presentarse delante de Jehová, y Satán vino también entre ellos pareciendo delante de Jehová. 
+[2]{#verse-Job-2-2 .bibleverse} Y dijo Jehová á Satán: ¿De dónde vienes? Respondió Satán á Jehová, y dijo: De rodear la tierra, y de andar por ella.
+
+ 
+[3]{#verse-Job-2-3 .bibleverse} Y Jehová dijo á Satán: ¿No has considerado á mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado de mal, y que aun retiene su perfección, habiéndome tú incitado contra él, para que lo arruinara sin causa?
+
+ 
+[4]{#verse-Job-2-4 .bibleverse} Y respondiendo Satán dijo á Jehová: Piel por piel, todo lo que el hombre tiene dará por su vida. 
+[5]{#verse-Job-2-5 .bibleverse} Mas extiende ahora tu mano, y toca á su hueso y á su carne, y verás si no te blasfema en tu rostro.
+
+ 
+[6]{#verse-Job-2-6 .bibleverse} Y Jehová dijo á Satán: He aquí, él está en tu mano; mas guarda su vida.
+
+ 
+[7]{#verse-Job-2-7 .bibleverse} Y salió Satán de delante de Jehová, é hirió á Job de una maligna sarna desde la planta de su pie hasta la mollera de su cabeza. 
+[8]{#verse-Job-2-8 .bibleverse} Y tomaba una teja para rascarse con ella, y estaba sentado en medio de ceniza. 
+[9]{#verse-Job-2-9 .bibleverse} Díjole entonces su mujer: ¿Aun retienes tú tu simplicidad? Bendice á Dios, y muérete.
+
+ 
+[10]{#verse-Job-2-10 .bibleverse} Y él le dijo: Como suele hablar cualquiera de las mujeres fatuas, has hablado. También recibimos el bien de Dios, ¿y el mal no recibiremos? En todo esto no pecó Job con sus labios.
+
+ 
+[11]{#verse-Job-2-11 .bibleverse} Y tres amigos de Job, Eliphaz Temanita, y Bildad Suhita, y Sophar Naamathita, luego que oyeron todo este mal que le había sobrevenido, vinieron cada uno de su lugar; porque habían concertado de venir juntos á condolecerse de él, y á consolarle. 
+[12]{#verse-Job-2-12 .bibleverse} Los cuales alzando los ojos desde lejos, no lo conocieron, y lloraron á voz en grito; y cada uno de ellos rasgó su manto, y esparcieron polvo sobre sus cabezas hacia el cielo. 
+[13]{#verse-Job-2-13 .bibleverse} Así se sentaron con él en tierra por siete días y siete noches, y ninguno le hablaba palabra, porque veían que el dolor era muy grande. 
+
+<h2 class="chaptertitle">[&nbsp;3&nbsp;](ch021.xhtml)<span><span id="chapter-Job-3"></span></span></h2>
+ 
+[1]{#verse-Job-3-1 .bibleverse} Después de esto abrió Job su boca, y maldijo su día. 
+[2]{#verse-Job-3-2 .bibleverse} Y exclamó Job, y dijo: 
+[3]{#verse-Job-3-3 .bibleverse} Perezca el día en que yo nací, y la noche que se dijo: Varón es concebido. 
+[4]{#verse-Job-3-4 .bibleverse} Sea aquel día sombrío, y Dios no cuide de él desde arriba, ni claridad sobre él resplandezca. 
+[5]{#verse-Job-3-5 .bibleverse} Aféenlo tinieblas y sombra de muerte; repose sobre él nublado, que lo haga horrible como caliginoso día. 
+[6]{#verse-Job-3-6 .bibleverse} Ocupe la oscuridad aquella noche; no sea contada entre los días del año, ni venga en el número de los meses. 
+[7]{#verse-Job-3-7 .bibleverse} ¡Oh si fuere aquella noche solitaria, que no viniera canción alguna en ella! 
+[8]{#verse-Job-3-8 .bibleverse} Maldíganla los que maldicen al día, los que se aprestan para levantar su llanto. 
+[9]{#verse-Job-3-9 .bibleverse} Oscurézcanse las estrellas de su alba; espere la luz, y no venga, ni vea los párpados de la mañana: 
+[10]{#verse-Job-3-10 .bibleverse} Por cuanto no cerró las puertas del vientre donde yo estaba, ni escondió de mis ojos la miseria. 
+[11]{#verse-Job-3-11 .bibleverse} ¿Por qué no morí yo desde la matriz, o fuí traspasado en saliendo del vientre? 
+[12]{#verse-Job-3-12 .bibleverse} ¿Por qué me previnieron las rodillas? ¿y para qué las tetas que mamase? 
+[13]{#verse-Job-3-13 .bibleverse} Pues que ahora yaciera yo, y reposara; durmiera, y entonces tuviera reposo, 
+[14]{#verse-Job-3-14 .bibleverse} Con los reyes y con los consejeros de la tierra, que edifican para sí los desiertos; 
+[15]{#verse-Job-3-15 .bibleverse} O con los príncipes que poseían el oro, que henchían sus casas de plata. 
+[16]{#verse-Job-3-16 .bibleverse} O ¿por qué no fuí escondido como aborto, como los pequeñitos que nunca vieron luz? 
+[17]{#verse-Job-3-17 .bibleverse} Allí los impíos dejan el perturbar, y allí descansan los de cansadas fuerzas. 
+[18]{#verse-Job-3-18 .bibleverse} Allí asimismo reposan los cautivos; no oyen la voz del exactor. 
+[19]{#verse-Job-3-19 .bibleverse} Allí están el chico y el grande; y el siervo libre de su señor. 
+[20]{#verse-Job-3-20 .bibleverse} ¿Por qué se da luz al trabajado, y vida á los de ánimo en amargura, 
+[21]{#verse-Job-3-21 .bibleverse} Que esperan la muerte, y ella no llega, aunque la buscan más que tesoros; 
+[22]{#verse-Job-3-22 .bibleverse} Que se alegran sobremanera, y se gozan, cuando hallan el sepulcro? 
+[23]{#verse-Job-3-23 .bibleverse} ¿Por qué al hombre que no sabe por donde vaya, y al cual Dios ha encerrado? 
+[24]{#verse-Job-3-24 .bibleverse} Pues antes que mi pan viene mi suspiro; y mis gemidos corren como aguas. 
+[25]{#verse-Job-3-25 .bibleverse} Porque el temor que me espantaba me ha venido, y hame acontecido lo que temía. 
+[26]{#verse-Job-3-26 .bibleverse} No he tenido paz, no me aseguré, ni me estuve reposado; vínome no obstante turbación. 
+
+<h2 class="chaptertitle">[&nbsp;4&nbsp;](ch021.xhtml)<span><span id="chapter-Job-4"></span></span></h2>
+ 
+[1]{#verse-Job-4-1 .bibleverse} Y respondió Eliphaz el Temanita, y dijo: 
+[2]{#verse-Job-4-2 .bibleverse} Si probáremos á hablarte, serte ha molesto; mas ¿quién podrá detener las palabras? 
+[3]{#verse-Job-4-3 .bibleverse} He aquí, tú enseñabas á muchos, y las manos flacas corroborabas; 
+[4]{#verse-Job-4-4 .bibleverse} Al que vacilaba, enderezaban tus palabras, y esforzabas las rodillas que decaían. 
+[5]{#verse-Job-4-5 .bibleverse} Mas ahora que el mal sobre ti ha venido, te es duro; y cuando ha llegado hasta ti, te turbas.
+
+ 
+[6]{#verse-Job-4-6 .bibleverse} ¿Es este tu temor, tu confianza, tu esperanza, y la perfección de tus caminos? 
+[7]{#verse-Job-4-7 .bibleverse} Recapacita ahora, ¿quién que fuera inocente se perdiera? y ¿en dónde los rectos fueron cortados? 
+[8]{#verse-Job-4-8 .bibleverse} Como yo he visto, los que aran iniquidad y siembran injuria, la siegan. 
+[9]{#verse-Job-4-9 .bibleverse} Perecen por el aliento de Dios, y por el espíritu de su furor son consumidos. 
+[10]{#verse-Job-4-10 .bibleverse} El bramido del león, y la voz del león, y los dientes de los leoncillos son quebrantados. 
+[11]{#verse-Job-4-11 .bibleverse} El león viejo perece por falta de presa, y los hijos del león son esparcidos.
+
+ 
+[12]{#verse-Job-4-12 .bibleverse} El negocio también me era á mí oculto; mas mi oído ha percibido algo de ello. 
+[13]{#verse-Job-4-13 .bibleverse} En imaginaciones de visiones nocturnas, cuando el sueño cae sobre los hombres, 
+[14]{#verse-Job-4-14 .bibleverse} Sobrevínome un espanto y un temblor, que estremeció todos mis huesos: 
+[15]{#verse-Job-4-15 .bibleverse} Y un espíritu pasó por delante de mí, que hizo se erizara el pelo de mi carne. 
+[16]{#verse-Job-4-16 .bibleverse} Paróse un fantasma delante de mis ojos, cuyo rostro yo no conocí, y quedo, oí que decía: 
+[17]{#verse-Job-4-17 .bibleverse} ¿Si será el hombre más justo que Dios? ¿si será el varón más limpio que el que lo hizo? 
+[18]{#verse-Job-4-18 .bibleverse} He aquí que en sus siervos no confía, y notó necedad en sus ángeles; 
+[19]{#verse-Job-4-19 .bibleverse} ¡Cuánto más en los que habitan en casas de lodo, cuyo fundamento está en el polvo, y que serán quebrantados de la polilla! 
+[20]{#verse-Job-4-20 .bibleverse} De la mañana á la tarde son quebrantados, y se pierden para siempre, sin haber quien lo considere. 
+[21]{#verse-Job-4-21 .bibleverse} ¿Su hermosura, no se pierde con ellos mismos? Mueren, y sin sabiduría. 
+
+<h2 class="chaptertitle">[&nbsp;5&nbsp;](ch021.xhtml)<span><span id="chapter-Job-5"></span></span></h2>
+ 
+[1]{#verse-Job-5-1 .bibleverse} Ahora pues da voces, si habrá quien te responda; ¿y á cuál de los santos te volverás? 
+[2]{#verse-Job-5-2 .bibleverse} Es cierto que al necio la ira lo mata, y al codicioso consume la envidia. 
+[3]{#verse-Job-5-3 .bibleverse} Yo he visto al necio que echaba raíces, y en la misma hora maldije su habitación. 
+[4]{#verse-Job-5-4 .bibleverse} Sus hijos estarán lejos de la salud, y en la puerta serán quebrantados, y no habrá quien los libre. 
+[5]{#verse-Job-5-5 .bibleverse} Su mies comerán los hambrientos, y sacaránla de entre las espinas, y los sedientos beberán su hacienda. 
+[6]{#verse-Job-5-6 .bibleverse} Porque la iniquidad no sale del polvo, ni la molestia brota de la tierra. 
+[7]{#verse-Job-5-7 .bibleverse} Empero como las centellas se levantan para volar por el aire, así el hombre nace para la aflicción.
+
+ 
+[8]{#verse-Job-5-8 .bibleverse} Ciertamente yo buscaría á Dios, y depositaría en él mis negocios: 
+[9]{#verse-Job-5-9 .bibleverse} El cual hace cosas grandes é inescrutables, y maravillas que no tienen cuento: 
+[10]{#verse-Job-5-10 .bibleverse} Que da la lluvia sobre la haz de la tierra, y envía las aguas por los campos: 
+[11]{#verse-Job-5-11 .bibleverse} Que pone los humildes en altura, y los enlutados son levantados á salud: 
+[12]{#verse-Job-5-12 .bibleverse} Que frustra los pensamientos de los astutos, para que sus manos no hagan nada: 
+[13]{#verse-Job-5-13 .bibleverse} Que prende á los sabios en la astucia de ellos, y el consejo de los perversos es entontecido; 
+[14]{#verse-Job-5-14 .bibleverse} De día se topan con tinieblas, y en mitad del día andan á tientas como de noche: 
+[15]{#verse-Job-5-15 .bibleverse} Y libra de la espada al pobre, de la boca de los impíos, y de la mano violenta; 
+[16]{#verse-Job-5-16 .bibleverse} Pues es esperanza al menesteroso, y la iniquidad cerrará su boca.
+
+ 
+[17]{#verse-Job-5-17 .bibleverse} He aquí, bienaventurado es el hombre á quien Dios castiga: por tanto no menosprecies la corrección del Todopoderoso. 
+[18]{#verse-Job-5-18 .bibleverse} Porque él es el que hace la llaga, y él la vendará: él hiere, y sus manos curan. 
+[19]{#verse-Job-5-19 .bibleverse} En seis tribulaciones te librará, y en la séptima no te tocará el mal. 
+[20]{#verse-Job-5-20 .bibleverse} En el hambre te redimirá de la muerte, y en la guerra de las manos de la espada. 
+[21]{#verse-Job-5-21 .bibleverse} Del azote de la lengua serás encubierto; ni temerás de la destrucción cuando viniere. 
+[22]{#verse-Job-5-22 .bibleverse} De la destrucción y del hambre te reirás, y no temerás de las bestias del campo: 
+[23]{#verse-Job-5-23 .bibleverse} Pues aun con las piedras del campo tendrás tu concierto, y las bestias del campo te serán pacíficas. 
+[24]{#verse-Job-5-24 .bibleverse} Y sabrás que hay paz en tu tienda; y visitarás tu morada, y no pecarás. 
+[25]{#verse-Job-5-25 .bibleverse} Asimismo echarás de ver que tu simiente es mucha, y tu prole como la hierba de la tierra. 
+[26]{#verse-Job-5-26 .bibleverse} Y vendrás en la vejez á la sepultura, como el montón de trigo que se coge á su tiempo. 
+[27]{#verse-Job-5-27 .bibleverse} He aquí lo que hemos inquirido, lo cual es así: óyelo, y juzga tú para contigo. 
+
+<h2 class="chaptertitle">[&nbsp;6&nbsp;](ch021.xhtml)<span><span id="chapter-Job-6"></span></span></h2>
+ 
+[1]{#verse-Job-6-1 .bibleverse} Y respondió Job y dijo: 
+[2]{#verse-Job-6-2 .bibleverse} ¡Oh si pesasen al justo mi queja y mi tormento, y se alzasen igualmente en balanza! 
+[3]{#verse-Job-6-3 .bibleverse} Porque pesaría aquél más que la arena del mar: y por tanto mis palabras son cortadas. 
+[4]{#verse-Job-6-4 .bibleverse} Porque las saetas del Todopoderoso están en mí, cuyo veneno bebe mi espíritu; y terrores de Dios me combaten. 
+[5]{#verse-Job-6-5 .bibleverse} ¿Acaso gime el asno montés junto á la hierba? ¿muge el buey junto á su pasto? 
+[6]{#verse-Job-6-6 .bibleverse} ¿Comeráse lo desabrido sin sal? ¿ó habrá gusto en la clara del huevo? 
+[7]{#verse-Job-6-7 .bibleverse} Las cosas que mi alma no quería tocar, por los dolores son mi comida.
+
+ 
+[8]{#verse-Job-6-8 .bibleverse} ¡Quién me diera que viniese mi petición, y que Dios me otorgase lo que espero; 
+[9]{#verse-Job-6-9 .bibleverse} Y que pluguiera á Dios quebrantarme; que soltara su mano, y me deshiciera! 
+[10]{#verse-Job-6-10 .bibleverse} Y sería aún mi consuelo, si me asaltase con dolor sin dar más tregua, que yo no he escondido las palabras del Santo. 
+[11]{#verse-Job-6-11 .bibleverse} ¿Cuál es mi fortaleza para esperar aún? ¿y cuál mi fin para dilatar mi vida? 
+[12]{#verse-Job-6-12 .bibleverse} ¿Es mi fortaleza la de las piedras? ¿ó mi carne, es de acero? 
+[13]{#verse-Job-6-13 .bibleverse} ¿No me ayudo cuanto puedo, y el poder me falta del todo?
+
+ 
+[14]{#verse-Job-6-14 .bibleverse} El atribulado es consolado de su compañero: mas hase abandonado el temor del Omnipotente. 
+[15]{#verse-Job-6-15 .bibleverse} Mis hermanos han mentido cual arroyo: pasáronse como corrientes impetuosas, 
+[16]{#verse-Job-6-16 .bibleverse} Que están escondidas por la helada, y encubiertas con nieve; 
+[17]{#verse-Job-6-17 .bibleverse} Que al tiempo del calor son deshechas, y en calentándose, desaparecen de su lugar; 
+[18]{#verse-Job-6-18 .bibleverse} Apártanse de la senda de su rumbo, van menguando y piérdense. 
+[19]{#verse-Job-6-19 .bibleverse} Miraron los caminantes de Temán, los caminantes de Saba esperaron en ellas: 
+[20]{#verse-Job-6-20 .bibleverse} Mas fueron avergonzados por su esperanza; porque vinieron hasta ellas, y halláronse confusos. 
+[21]{#verse-Job-6-21 .bibleverse} Ahora ciertamente como ellas sois vosotros: que habéis visto el tormento, y teméis. 
+[22]{#verse-Job-6-22 .bibleverse} ¿Os he dicho yo: Traedme, y pagad por mí de vuestra hacienda; 
+[23]{#verse-Job-6-23 .bibleverse} Y libradme de la mano del opresor, y redimidme del poder de los violentos?
+
+ 
+[24]{#verse-Job-6-24 .bibleverse} Enseñadme, y yo callaré: y hacedme entender en qué he errado. 
+[25]{#verse-Job-6-25 .bibleverse} ¡Cuán fuertes son las palabras de rectitud! Mas ¿qué reprende el que reprende de vosotros? 
+[26]{#verse-Job-6-26 .bibleverse} ¿Pensáis censurar palabras, y los discursos de un desesperado, que son como el viento? 
+[27]{#verse-Job-6-27 .bibleverse} También os arrojáis sobre el huérfano, y hacéis hoyo delante de vuestro amigo. 
+[28]{#verse-Job-6-28 .bibleverse} Ahora pues, si queréis, mirad en mí, y ved si miento delante de vosotros. 
+[29]{#verse-Job-6-29 .bibleverse} Tornad ahora, y no haya iniquidad; volved aún á considerar mi justicia en esto. 
+[30]{#verse-Job-6-30 .bibleverse} ¿Hay iniquidad en mi lengua? ¿no puede mi paladar discernir las cosas depravadas? 
+
+<h2 class="chaptertitle">[&nbsp;7&nbsp;](ch021.xhtml)<span><span id="chapter-Job-7"></span></span></h2>
+ 
+[1]{#verse-Job-7-1 .bibleverse} Ciertamente tiempo limitado tiene el hombre sobre la tierra, y sus días son como los días del jornalero. 
+[2]{#verse-Job-7-2 .bibleverse} Como el siervo anhela la sombra, y como el jornalero espera el reposo de su trabajo: 
+[3]{#verse-Job-7-3 .bibleverse} Así poseo yo meses de vanidad, y noches de trabajo me dieron por cuenta. 
+[4]{#verse-Job-7-4 .bibleverse} Cuando estoy acostado, digo: ¿Cuándo me levantaré? Y mide mi corazón la noche, y estoy harto de devaneos hasta el alba. 
+[5]{#verse-Job-7-5 .bibleverse} Mi carne está vestida de gusanos, y de costras de polvo; mi piel hendida y abominable. 
+[6]{#verse-Job-7-6 .bibleverse} Y mis días fueron más ligeros que la lanzadera del tejedor, y fenecieron sin esperanza. 
+[7]{#verse-Job-7-7 .bibleverse} Acuérdate que mi vida es viento, y que mis ojos no volverán á ver el bien. 
+[8]{#verse-Job-7-8 .bibleverse} Los ojos de los que me ven, no me verán más: tus ojos sobre mí, y dejaré de ser. 
+[9]{#verse-Job-7-9 .bibleverse} La nube se consume, y se va: así el que desciende al sepulcro no subirá; 
+[10]{#verse-Job-7-10 .bibleverse} No tornará más á su casa, ni su lugar le conocerá más.
+
+ 
+[11]{#verse-Job-7-11 .bibleverse} Por tanto yo no reprimiré mi boca; hablaré en la angustia de mi espíritu, y quejaréme con la amargura de mi alma. 
+[12]{#verse-Job-7-12 .bibleverse} ¿Soy yo la mar, ó ballena, que me pongas guarda? 
+[13]{#verse-Job-7-13 .bibleverse} Cuando digo: Mi cama me consolará, mi cama atenuará mis quejas; 
+[14]{#verse-Job-7-14 .bibleverse} Entonces me quebrantarás con sueños, y me turbarás con visiones. 
+[15]{#verse-Job-7-15 .bibleverse} Y así mi alma tuvo por mejor el ahogamiento, y quiso la muerte más que mis huesos. 
+[16]{#verse-Job-7-16 .bibleverse} Aburríme: no he de vivir yo para siempre; déjame, pues que mis días son vanidad. 
+[17]{#verse-Job-7-17 .bibleverse} ¿Qué es el hombre, para que lo engrandezcas, y que pongas sobre él tu corazón, 
+[18]{#verse-Job-7-18 .bibleverse} Y lo visites todas las mañanas, y todos los momentos lo pruebes? 
+[19]{#verse-Job-7-19 .bibleverse} ¿Hasta cuándo no me dejarás, ni me soltarás hasta que trague mi saliva? 
+[20]{#verse-Job-7-20 .bibleverse} Pequé, ¿qué te haré, oh Guarda de los hombres? ¿por qué me has puesto contrario á ti, y que á mí mismo sea pesado? 
+[21]{#verse-Job-7-21 .bibleverse} ¿Y por qué no quitas mi rebelión, y perdonas mi iniquidad? porque ahora dormiré en el polvo, y si me buscares de mañana, ya no seré. 
+
+<h2 class="chaptertitle">[&nbsp;8&nbsp;](ch021.xhtml)<span><span id="chapter-Job-8"></span></span></h2>
+ 
+[1]{#verse-Job-8-1 .bibleverse} Y respondió Bildad Suhita, y dijo: 
+[2]{#verse-Job-8-2 .bibleverse} ¿Hasta cuándo hablarás tales cosas, y las palabras de tu boca serán como un viento fuerte? 
+[3]{#verse-Job-8-3 .bibleverse} ¿Acaso pervertirá Dios el derecho, ó el Todopoderoso pervertirá la justicia? 
+[4]{#verse-Job-8-4 .bibleverse} Si tus hijos pecaron contra él, él los echó en el lugar de su pecado. 
+[5]{#verse-Job-8-5 .bibleverse} Si tú de mañana buscares á Dios, y rogares al Todopoderoso; 
+[6]{#verse-Job-8-6 .bibleverse} Si fueres limpio y derecho, cierto luego se despertará sobre ti, y hará próspera la morada de tu justicia. 
+[7]{#verse-Job-8-7 .bibleverse} Y tu principio habrá sido pequeño, y tu postrimería acrecerá en gran manera.
+
+ 
+[8]{#verse-Job-8-8 .bibleverse} Porque pregunta ahora á la edad pasada, y disponte para inquirir de sus padres de ellos; 
+[9]{#verse-Job-8-9 .bibleverse} Pues nosotros somos de ayer, y no sabemos, siendo nuestros días sobre la tierra como sombra. 
+[10]{#verse-Job-8-10 .bibleverse} ¿No te enseñarán ellos, te dirán, y de su corazón sacarán palabras? 
+[11]{#verse-Job-8-11 .bibleverse} ¿Crece el junco sin lodo? ¿crece el prado sin agua? 
+[12]{#verse-Job-8-12 .bibleverse} Aun él en su verdor no será cortado, y antes de toda hierba se secará. 
+[13]{#verse-Job-8-13 .bibleverse} Tales son los caminos de todos los que olvidan á Dios: y la esperanza del impío perecerá: 
+[14]{#verse-Job-8-14 .bibleverse} Porque su esperanza será cortada, y su confianza es casa de araña. 
+[15]{#verse-Job-8-15 .bibleverse} Apoyaráse él sobre su casa, mas no permanecerá en pie; atendráse á ella, mas no se afirmará. 
+[16]{#verse-Job-8-16 .bibleverse} A manera de un árbol, está verde delante del sol, y sus renuevos salen sobre su huerto; 
+[17]{#verse-Job-8-17 .bibleverse} Vanse entretejiendo sus raíces junto á una fuente, y enlazándose hasta un lugar pedregoso. 
+[18]{#verse-Job-8-18 .bibleverse} Si le arrancaren de su lugar, éste negarále entonces, diciendo: Nunca te vi. 
+[19]{#verse-Job-8-19 .bibleverse} Ciertamente éste será el gozo de su camino; y de la tierra de donde se traspusiere, nacerán otros.
+
+ 
+[20]{#verse-Job-8-20 .bibleverse} He aquí, Dios no aborrece al perfecto, ni toma la mano de los malignos. 
+[21]{#verse-Job-8-21 .bibleverse} Aun henchirá tu boca de risa, y tus labios de júbilo. 
+[22]{#verse-Job-8-22 .bibleverse} Los que te aborrecen, serán vestidos de confusión; y la habitación de los impíos perecerá. 
+
+<h2 class="chaptertitle">[&nbsp;9&nbsp;](ch021.xhtml)<span><span id="chapter-Job-9"></span></span></h2>
+ 
+[1]{#verse-Job-9-1 .bibleverse} Y respondió Job, y dijo: 
+[2]{#verse-Job-9-2 .bibleverse} Ciertamente yo conozco que es así: ¿y cómo se justificará el hombre con Dios? 
+[3]{#verse-Job-9-3 .bibleverse} Si quisiere contender con él, no le podrá responder á una cosa de mil. 
+[4]{#verse-Job-9-4 .bibleverse} El es sabio de corazón, y poderoso en fortaleza: ¿quién se endureció contra él, y quedó en paz? 
+[5]{#verse-Job-9-5 .bibleverse} Que arranca los montes con su furor, y no conocen quién los trastornó: 
+[6]{#verse-Job-9-6 .bibleverse} Que remueve la tierra de su lugar, y hace temblar sus columnas: 
+[7]{#verse-Job-9-7 .bibleverse} Que manda al sol, y no sale; y sella las estrellas: 
+[8]{#verse-Job-9-8 .bibleverse} El que extiende solo los cielos, y anda sobre las alturas de la mar: 
+[9]{#verse-Job-9-9 .bibleverse} El que hizo el Arcturo, y el Orión, y las Pléyadas, y los lugares secretos del mediodía: 
+[10]{#verse-Job-9-10 .bibleverse} El que hace cosas grandes é incomprensibles, y maravillosas, sin número. 
+[11]{#verse-Job-9-11 .bibleverse} He aquí que él pasará delante de mí, y yo no lo veré; y pasará, y no lo entenderé. 
+[12]{#verse-Job-9-12 .bibleverse} He aquí, arrebatará; ¿quién le hará restituir? ¿Quién le dirá, Qué haces?
+
+ 
+[13]{#verse-Job-9-13 .bibleverse} Dios no tornará atrás su ira, y debajo de él se encorvan los que ayudan á los soberbios. 
+[14]{#verse-Job-9-14 .bibleverse} ¿Cuánto menos le responderé yo, y hablaré con él palabras estudiadas? 
+[15]{#verse-Job-9-15 .bibleverse} Que aunque fuese yo justo, no responderé; antes habré de rogar á mi juez. 
+[16]{#verse-Job-9-16 .bibleverse} Que si yo le invocase, y él me respondiese, aun no creeré que haya escuchado mi voz. 
+[17]{#verse-Job-9-17 .bibleverse} Porque me ha quebrado con tempestad, y ha aumentado mis heridas sin causa. 
+[18]{#verse-Job-9-18 .bibleverse} No me ha concedido que tome mi aliento; mas hame hartado de amarguras. 
+[19]{#verse-Job-9-19 .bibleverse} Si habláremos de su potencia, fuerte por cierto es; si de juicio, ¿quién me emplazará? 
+[20]{#verse-Job-9-20 .bibleverse} Si yo me justificare, me condenará mi boca; si me dijere perfecto, esto me hará inicuo.
+
+ 
+[21]{#verse-Job-9-21 .bibleverse} Bien que yo fuese íntegro, no conozco mi alma: reprocharé mi vida. 
+[22]{#verse-Job-9-22 .bibleverse} Una cosa resta que yo diga: Al perfecto y al impío él los consume. 
+[23]{#verse-Job-9-23 .bibleverse} Si azote mata de presto, ríese de la prueba de los inocentes. 
+[24]{#verse-Job-9-24 .bibleverse} La tierra es entregada en manos de los impíos, y él cubre el rostro de sus jueces. Si no es él, ¿quién es? ¿dónde está? 
+[25]{#verse-Job-9-25 .bibleverse} Mis días han sido más ligeros que un correo; huyeron, y no vieron el bien. 
+[26]{#verse-Job-9-26 .bibleverse} Pasaron cual navíos veloces: como el águila que se arroja á la comida. 
+[27]{#verse-Job-9-27 .bibleverse} Si digo: Olvidaré mi queja, dejaré mi aburrimiento, y esforzaréme: 
+[28]{#verse-Job-9-28 .bibleverse} Contúrbanme todos mis trabajos; sé que no me darás por libre.
+
+ 
+[29]{#verse-Job-9-29 .bibleverse} Yo soy impío, ¿para qué trabajaré en vano? 
+[30]{#verse-Job-9-30 .bibleverse} Aunque me lave con aguas de nieve, y limpie mis manos con la misma limpieza, 
+[31]{#verse-Job-9-31 .bibleverse} Aun me hundirás en el hoyo, y mis propios vestidos me abominarán. 
+[32]{#verse-Job-9-32 .bibleverse} Porque no es hombre como yo, para que yo le responda, y vengamos juntamente á juicio. 
+[33]{#verse-Job-9-33 .bibleverse} No hay entre nosotros árbitro que ponga su mano sobre nosotros ambos. 
+[34]{#verse-Job-9-34 .bibleverse} Quite de sobre mí su vara, y su terror no me espante. 
+[35]{#verse-Job-9-35 .bibleverse} Entonces hablaré, y no le temeré: porque así no estoy en mí mismo. 
+
+<h2 class="chaptertitle">[&nbsp;10&nbsp;](ch021.xhtml)<span><span id="chapter-Job-10"></span></span></h2>
+ 
+[1]{#verse-Job-10-1 .bibleverse} Está mi alma aburrida de mi vida: daré yo suelta á mi queja sobre mí, hablaré con amargura de mi alma. 
+[2]{#verse-Job-10-2 .bibleverse} Diré á Dios: no me condenes; hazme entender por qué pleiteas conmigo. 
+[3]{#verse-Job-10-3 .bibleverse} ¿Parécete bien que oprimas, que deseches la obra de tus manos, y que resplandezcas sobre el consejo de los impíos? 
+[4]{#verse-Job-10-4 .bibleverse} ¿Tienes tú ojos de carne? ¿ves tú como ve el hombre? 
+[5]{#verse-Job-10-5 .bibleverse} ¿Son tus días como los días del hombre, ó tus años como los tiempos humanos, 
+[6]{#verse-Job-10-6 .bibleverse} Para que inquieras mi iniquidad, y busques mi pecado, 
+[7]{#verse-Job-10-7 .bibleverse} Sobre saber tú que no soy impío, y que no hay quien de tu mano libre?
+
+ 
+[8]{#verse-Job-10-8 .bibleverse} Tus manos me formaron y me compusieron todo en contorno: ¿y así me deshaces? 
+[9]{#verse-Job-10-9 .bibleverse} Acuérdate ahora que como á lodo me diste forma: ¿y en polvo me has de tornar? 
+[10]{#verse-Job-10-10 .bibleverse} ¿No me fundiste como leche, y como un queso me cuajaste? 
+[11]{#verse-Job-10-11 .bibleverse} Vestísteme de piel y carne, y cubrísteme de huesos y nervios. 
+[12]{#verse-Job-10-12 .bibleverse} Vida y misericordia me concediste, y tu visitación guardó mi espíritu. 
+[13]{#verse-Job-10-13 .bibleverse} Y estas cosas tienes guardadas en tu corazón; yo sé que esto está cerca de ti. 
+[14]{#verse-Job-10-14 .bibleverse} Si pequé, tú me has observado, y no me limpias de mi iniquidad. 
+[15]{#verse-Job-10-15 .bibleverse} Si fuere malo, ¡ay de mí! y si fuere justo, no levantaré mi cabeza, estando harto de deshonra, y de verme afligido. 
+[16]{#verse-Job-10-16 .bibleverse} Y subirá de punto, pues me cazas como á león, y tornas á hacer en mí maravillas. 
+[17]{#verse-Job-10-17 .bibleverse} Renuevas contra mí tus plagas, y aumentas conmigo tu furor, remudándose sobre mí ejércitos.
+
+ 
+[18]{#verse-Job-10-18 .bibleverse} ¿Por qué me sacaste de la matriz? Habría yo espirado, y no me vieran ojos. 
+[19]{#verse-Job-10-19 .bibleverse} Fuera, como si nunca hubiera sido, llevado desde el vientre á la sepultura. 
+[20]{#verse-Job-10-20 .bibleverse} ¿No son mis días poca cosa? Cesa pues, y déjame, para que me conforte un poco. 
+[21]{#verse-Job-10-21 .bibleverse} Antes que vaya para no volver, á la tierra de tinieblas y de sombra de muerte; 
+[22]{#verse-Job-10-22 .bibleverse} Tierra de oscuridad, lóbrega como sombra de muerte, sin orden, y que aparece como la oscuridad misma. 
+
+<h2 class="chaptertitle">[&nbsp;11&nbsp;](ch021.xhtml)<span><span id="chapter-Job-11"></span></span></h2>
+ 
+[1]{#verse-Job-11-1 .bibleverse} Y respondió Sophar Naamathita, y dijo: 
+[2]{#verse-Job-11-2 .bibleverse} ¿Las muchas palabras no han de tener respuesta? ¿y el hombre parlero será justificado? 
+[3]{#verse-Job-11-3 .bibleverse} ¿Harán tus falacias callar á los hombres? ¿y harás escarnio, y no habrá quien te avergüence? 
+[4]{#verse-Job-11-4 .bibleverse} Tú dices: Mi conversar es puro, y yo soy limpio delante de tus ojos. 
+[5]{#verse-Job-11-5 .bibleverse} Mas ¡oh quién diera que Dios hablara, y abriera sus labios contigo, 
+[6]{#verse-Job-11-6 .bibleverse} Y que te declarara los arcanos de la sabiduría, que son de doble valor que la hacienda! Conocerías entonces que Dios te ha castigado menos que tu iniquidad merece. 
+[7]{#verse-Job-11-7 .bibleverse} ¿Alcanzarás tú el rastro de Dios? ¿llegarás tú á la perfección del Todopoderoso? 
+[8]{#verse-Job-11-8 .bibleverse} Es más alto que los cielos: ¿qué harás? Es más profundo que el infierno: ¿cómo lo conocerás? 
+[9]{#verse-Job-11-9 .bibleverse} Su dimensión es más larga que la tierra, y más ancha que la mar. 
+[10]{#verse-Job-11-10 .bibleverse} Si cortare, ó encerrare, ó juntare, ¿quién podrá contrarrestarle? 
+[11]{#verse-Job-11-11 .bibleverse} Porque él conoce á los hombres vanos: ve asimismo la iniquidad, ¿y no hará caso?
+
+ 
+[12]{#verse-Job-11-12 .bibleverse} El hombre vano se hará entendido, aunque nazca como el pollino del asno montés. 
+[13]{#verse-Job-11-13 .bibleverse} Si tú apercibieres tu corazón, y extendieres á él tus manos; 
+[14]{#verse-Job-11-14 .bibleverse} Si alguna iniquidad hubiere en tu mano, y la echares de ti, y no consintieres que more maldad en tus habitaciones; 
+[15]{#verse-Job-11-15 .bibleverse} Entonces levantarás tu rostro limpio de mancha, y serás fuerte y no temerás: 
+[16]{#verse-Job-11-16 .bibleverse} Y olvidarás tu trabajo, ó te acordarás de él como de aguas que pasaron: 
+[17]{#verse-Job-11-17 .bibleverse} Y en mitad de la siesta se levantará bonanza; resplandecerás, y serás como la mañana: 
+[18]{#verse-Job-11-18 .bibleverse} Y confiarás, que habrá esperanza; y cavarás, y dormirás seguro: 
+[19]{#verse-Job-11-19 .bibleverse} Y te acostarás, y no habrá quien te espante: y muchos te rogarán. 
+[20]{#verse-Job-11-20 .bibleverse} Mas los ojos de los malos se consumirán, y no tendrán refugio; y su esperanza será agonía del alma. 
+
+<h2 class="chaptertitle">[&nbsp;12&nbsp;](ch021.xhtml)<span><span id="chapter-Job-12"></span></span></h2>
+ 
+[1]{#verse-Job-12-1 .bibleverse} Y respondió Job, y dijo: 
+[2]{#verse-Job-12-2 .bibleverse} Ciertamente que vosotros sois el pueblo; y con vosotros morirá la sabiduría. 
+[3]{#verse-Job-12-3 .bibleverse} También tengo yo seso como vosotros; no soy yo menos que vosotros: ¿y quién habrá que no pueda decir otro tanto? 
+[4]{#verse-Job-12-4 .bibleverse} Yo soy uno de quien su amigo se mofa, que invoca á Dios, y él le responde: con todo, el justo y perfecto es escarnecido. 
+[5]{#verse-Job-12-5 .bibleverse} Aquel cuyos pies van á resbalar, es como una lámpara despreciada de aquel que está á sus anchuras. 
+[6]{#verse-Job-12-6 .bibleverse} Prosperan las tiendas de los ladrones, y los que provocan á Dios viven seguros; en cuyas manos él ha puesto cuanto tienen.
+
+ 
+[7]{#verse-Job-12-7 .bibleverse} Y en efecto, pregunta ahora á las bestias, que ellas te enseñarán; y á las aves de los cielos, que ellas te lo mostrarán: 
+[8]{#verse-Job-12-8 .bibleverse} O habla á la tierra, que ella te enseñará; los peces de la mar te lo declararán también. 
+[9]{#verse-Job-12-9 .bibleverse} ¿Qué cosa de todas estas no entiende que la mano de Jehová la hizo? 
+[10]{#verse-Job-12-10 .bibleverse} En su mano está el alma de todo viviente, y el espíritu de toda carne humana. 
+[11]{#verse-Job-12-11 .bibleverse} Ciertamente el oído distingue las palabras, y el paladar gusta las viandas. 
+[12]{#verse-Job-12-12 .bibleverse} En los viejos está la ciencia, y en la larga edad la inteligencia. 
+[13]{#verse-Job-12-13 .bibleverse} Con Dios está la sabiduría y la fortaleza; suyo es el consejo y la inteligencia.
+
+ 
+[14]{#verse-Job-12-14 .bibleverse} He aquí, él derribará, y no será edificado: encerrará al hombre, y no habrá quien le abra. 
+[15]{#verse-Job-12-15 .bibleverse} He aquí, él detendrá las aguas, y se secarán; él las enviará, y destruirán la tierra. 
+[16]{#verse-Job-12-16 .bibleverse} Con él está la fortaleza y la existencia; suyo es el que yerra, y el que hace errar. 
+[17]{#verse-Job-12-17 .bibleverse} El hace andar á los consejeros desnudos de consejo, y hace enloquecer á los jueces. 
+[18]{#verse-Job-12-18 .bibleverse} El suelta la atadura de los tiranos, y ata el cinto á sus lomos. 
+[19]{#verse-Job-12-19 .bibleverse} El lleva despojados á los príncipes, y trastorna á los poderosos. 
+[20]{#verse-Job-12-20 .bibleverse} El impide el labio á los que dicen verdad, y quita á los ancianos el consejo. 
+[21]{#verse-Job-12-21 .bibleverse} El derrama menosprecio sobre los príncipes, y enflaquece la fuerza de los esforzados. 
+[22]{#verse-Job-12-22 .bibleverse} El descubre las profundidades de las tinieblas, y saca á luz la sombra de muerte. 
+[23]{#verse-Job-12-23 .bibleverse} El multiplica las gentes, y él las destruye: él esparce las gentes, y las torna á recoger. 
+[24]{#verse-Job-12-24 .bibleverse} El quita el seso de las cabezas del pueblo de la tierra, y háceles que se pierdan vagueando sin camino: 
+[25]{#verse-Job-12-25 .bibleverse} Van á tientas como en tinieblas y sin luz, y los hace errar como borrachos. 
+
+<h2 class="chaptertitle">[&nbsp;13&nbsp;](ch021.xhtml)<span><span id="chapter-Job-13"></span></span></h2>
+ 
+[1]{#verse-Job-13-1 .bibleverse} [He]{.smallcaps} aquí que todas estas cosas han visto mis ojos, y oído y entendido de por sí mis oídos. 
+[2]{#verse-Job-13-2 .bibleverse} Como vosotros lo sabéis, lo sé yo; no soy menos que vosotros. 
+[3]{#verse-Job-13-3 .bibleverse} Mas yo hablaría con el Todopoderoso, y querría razonar con Dios. 
+[4]{#verse-Job-13-4 .bibleverse} Que ciertamente vosotros sois fraguadores de mentira; sois todos vosotros médicos nulos. 
+[5]{#verse-Job-13-5 .bibleverse} Ojalá callarais del todo, porque os fuera sabiduría. 
+[6]{#verse-Job-13-6 .bibleverse} Oid ahora mi razonamiento, y estad atentos á los argumentos de mis labios. 
+[7]{#verse-Job-13-7 .bibleverse} ¿Habéis de hablar iniquidad por Dios? ¿habéis de hablar por él engaño? 
+[8]{#verse-Job-13-8 .bibleverse} ¿Habéis de hacer acepción de su persona? ¿habéis de pleitear vosotros por Dios? 
+[9]{#verse-Job-13-9 .bibleverse} ¿Sería bueno que él os escudriñase? ¿os burlaréis de él como quien se burla de algún hombre? 
+[10]{#verse-Job-13-10 .bibleverse} El os reprochará de seguro, si solapadamente hacéis acepción de personas. 
+[11]{#verse-Job-13-11 .bibleverse} De cierto su alteza os había de espantar, y su pavor había de caer sobre vosotros. 
+[12]{#verse-Job-13-12 .bibleverse} Vuestras memorias serán comparadas á la ceniza, y vuestros cuerpos como cuerpos de lodo.
+
+ 
+[13]{#verse-Job-13-13 .bibleverse} Escuchadme, y hablaré yo, y véngame después lo que viniere. 
+[14]{#verse-Job-13-14 .bibleverse} ¿Por qué quitaré yo mi carne con mis dientes, y pondré mi alma en mi mano? 
+[15]{#verse-Job-13-15 .bibleverse} He aquí, aunque me matare, en él esperaré; empero defenderé delante de él mis caminos. 
+[16]{#verse-Job-13-16 .bibleverse} Y él mismo me será salud, porque no entrará en su presencia el hipócrita. 
+[17]{#verse-Job-13-17 .bibleverse} Oid con atención mi razonamiento, y mi denunciación con vuestros oídos. 
+[18]{#verse-Job-13-18 .bibleverse} He aquí ahora, si yo me apercibiere á juicio, sé que seré justificado. 
+[19]{#verse-Job-13-19 .bibleverse} ¿Quién es el que pleiteará conmigo? porque si ahora yo callara, fenecería. 
+[20]{#verse-Job-13-20 .bibleverse} A lo menos dos cosas no hagas conmigo; entonces no me esconderé de tu rostro: 
+[21]{#verse-Job-13-21 .bibleverse} Aparta de mí tu mano, y no me asombre tu terror. 
+[22]{#verse-Job-13-22 .bibleverse} Llama luego, y yo responderé; ó yo hablaré, y respóndeme tú. 
+[23]{#verse-Job-13-23 .bibleverse} ¿Cuántas iniquidades y pecados tengo yo? hazme entender mi prevaricación y mi pecado. 
+[24]{#verse-Job-13-24 .bibleverse} ¿Por qué escondes tu rostro, y me cuentas por tu enemigo? 
+[25]{#verse-Job-13-25 .bibleverse} ¿A la hoja arrebatada has de quebrantar? ¿y á una arista seca has de perseguir? 
+[26]{#verse-Job-13-26 .bibleverse} ¿Por qué escribes contra mí amarguras, y me haces cargo de los pecados de mi mocedad? 
+[27]{#verse-Job-13-27 .bibleverse} Pones además mis pies en el cepo, y guardas todos mis caminos, imprimiéndolo á las raíces de mis pies. 
+[28]{#verse-Job-13-28 .bibleverse} Y el cuerpo mío se va gastando como de carcoma, como vestido que se come de polilla. 
+
+<h2 class="chaptertitle">[&nbsp;14&nbsp;](ch021.xhtml)<span><span id="chapter-Job-14"></span></span></h2>
+ 
+[1]{#verse-Job-14-1 .bibleverse} [El]{.smallcaps} hombre nacido de mujer, corto de días, y harto de sinsabores: 
+[2]{#verse-Job-14-2 .bibleverse} Que sale como una flor y es cortado; y huye como la sombra, y no permanece. 
+[3]{#verse-Job-14-3 .bibleverse} ¿Y sobre éste abres tus ojos, y me traes á juicio contigo? 
+[4]{#verse-Job-14-4 .bibleverse} ¿Quién hará limpio de inmundo? Nadie. 
+[5]{#verse-Job-14-5 .bibleverse} Ciertamente sus días están determinados, y el número de sus meses está cerca de ti: tú le pusiste términos, de los cuales no pasará. 
+[6]{#verse-Job-14-6 .bibleverse} Si tú lo dejares, él dejará de ser: entre tanto deseará, como el jornalero, su día.
+
+ 
+[7]{#verse-Job-14-7 .bibleverse} Porque si el árbol fuere cortado, aun queda de él esperanza; retoñecerá aún, y sus renuevos no faltarán. 
+[8]{#verse-Job-14-8 .bibleverse} Si se envejeciere en la tierra su raíz, y su tronco fuere muerto en el polvo, 
+[9]{#verse-Job-14-9 .bibleverse} Al percibir el agua reverdecerá, y hará copa como planta. 
+[10]{#verse-Job-14-10 .bibleverse} Mas el hombre morirá, y será cortado; y perecerá el hombre, ¿y dónde estará él? 
+[11]{#verse-Job-14-11 .bibleverse} Las aguas de la mar se fueron, y agotóse el río, secóse. 
+[12]{#verse-Job-14-12 .bibleverse} Así el hombre yace, y no se tornará á levantar: hasta que no haya cielo no despertarán, ni se levantarán de su sueño.
+
+ 
+[13]{#verse-Job-14-13 .bibleverse} ¡Oh quién me diera que me escondieses en el sepulcro, que me encubrieras hasta apaciguarse tu ira, que me pusieses plazo, y de mí te acordaras! 
+[14]{#verse-Job-14-14 .bibleverse} Si el hombre muriere, ¿volverá á vivir? Todos los días de mi edad esperaré, hasta que venga mi mutación. 
+[15]{#verse-Job-14-15 .bibleverse} Aficionado á la obra de tus manos, llamarás, y yo te responderé. 
+[16]{#verse-Job-14-16 .bibleverse} Pues ahora me cuentas los pasos, y no das tregua á mi pecado. 
+[17]{#verse-Job-14-17 .bibleverse} Tienes sellada en saco mi prevaricación, y coacervas mi iniquidad. 
+[18]{#verse-Job-14-18 .bibleverse} Y ciertamente el monte que cae se deshace, y las peñas son traspasadas de su lugar; 
+[19]{#verse-Job-14-19 .bibleverse} Las piedras son desgastadas con el agua impetuosa, que se lleva el polvo de la tierra: de tal manera haces tú perecer la esperanza del hombre. 
+[20]{#verse-Job-14-20 .bibleverse} Para siempre serás más fuerte que él, y él se va; demudarás su rostro, y enviaráslo. 
+[21]{#verse-Job-14-21 .bibleverse} Sus hijos serán honrados, y él no lo sabrá; ó serán humillados, y no entenderá de ellos. 
+[22]{#verse-Job-14-22 .bibleverse} Mas su carne sobre él se dolerá, y entristecerse ha en él su alma. 
+
+<h2 class="chaptertitle">[&nbsp;15&nbsp;](ch021.xhtml)<span><span id="chapter-Job-15"></span></span></h2>
+ 
+[1]{#verse-Job-15-1 .bibleverse} Y respondió Eliphaz Temanita, y dijo: 
+[2]{#verse-Job-15-2 .bibleverse} ¿Si proferirá el sabio vana sabiduría, y henchirá su vientre de viento solano? 
+[3]{#verse-Job-15-3 .bibleverse} ¿Disputará con palabras inútiles, y con razones sin provecho? 
+[4]{#verse-Job-15-4 .bibleverse} Tú también disipas el temor, y menoscabas la oración delante de Dios. 
+[5]{#verse-Job-15-5 .bibleverse} Porque tu boca declaró tu iniquidad, pues has escogido el hablar de los astutos. 
+[6]{#verse-Job-15-6 .bibleverse} Tu boca te condenará, y no yo; y tus labios testificarán contra ti. 
+[7]{#verse-Job-15-7 .bibleverse} ¿Naciste tú primero que Adam? ¿ó fuiste formado antes que los collados? 
+[8]{#verse-Job-15-8 .bibleverse} ¿Oíste tú el secreto de Dios, que detienes en ti solo la sabiduría? 
+[9]{#verse-Job-15-9 .bibleverse} ¿Qué sabes tú que no sepamos? ¿qué entiendes que no se halle en nosotros? 
+[10]{#verse-Job-15-10 .bibleverse} Entre nosotros también hay cano, también hay viejo mucho mayor en días que tu padre. 
+[11]{#verse-Job-15-11 .bibleverse} ¿En tan poco tienes las consolaciones de Dios? ¿tienes acaso alguna cosa oculta cerca de ti? 
+[12]{#verse-Job-15-12 .bibleverse} ¿Por qué te enajena tu corazón, y por qué guiñan tus ojos, 
+[13]{#verse-Job-15-13 .bibleverse} Pues haces frente á Dios con tu espíritu, y sacas tales palabras de tu boca? 
+[14]{#verse-Job-15-14 .bibleverse} ¿Qué cosa es el hombre para que sea limpio, y que se justifique el nacido de mujer? 
+[15]{#verse-Job-15-15 .bibleverse} He aquí que en sus santos no confía, y ni los cielos son limpios delante de sus ojos: 
+[16]{#verse-Job-15-16 .bibleverse} ¿Cuánto menos el hombre abominable y vil, que bebe la iniquidad como agua?
+
+ 
+[17]{#verse-Job-15-17 .bibleverse} Escúchame; yo te mostraré y te contaré lo que he visto: 
+[18]{#verse-Job-15-18 .bibleverse} (Lo que los sabios nos contaron de sus padres, y no lo encubrieron; 
+[19]{#verse-Job-15-19 .bibleverse} A los cuales solos fué dada la tierra, y no pasó extraño por medio de ellos:) 
+[20]{#verse-Job-15-20 .bibleverse} Todos los días del impío, él es atormentado de dolor, y el número de años es escondido al violento. 
+[21]{#verse-Job-15-21 .bibleverse} Estruendos espantosos hay en sus oídos; en la paz le vendrá quien lo asuele. 
+[22]{#verse-Job-15-22 .bibleverse} El no creerá que ha de volver de las tinieblas, y está mirando al cuchillo. 
+[23]{#verse-Job-15-23 .bibleverse} Desasosegado á comer siempre, sabe que le está aparejado día de tinieblas. 
+[24]{#verse-Job-15-24 .bibleverse} Tribulación y angustia le asombrarán, y esforzaránse contra él como un rey apercibido para la batalla. 
+[25]{#verse-Job-15-25 .bibleverse} Por cuanto él extendió su mano contra Dios, y se esforzó contra el Todopoderoso, 
+[26]{#verse-Job-15-26 .bibleverse} El le acometerá en la cerviz, en lo grueso de las hombreras de sus escudos: 
+[27]{#verse-Job-15-27 .bibleverse} Porque cubrió su rostro con su gordura, é hizo pliegues sobre los ijares; 
+[28]{#verse-Job-15-28 .bibleverse} Y habitó las ciudades asoladas, las casas inhabitadas, que estaban puestas en montones. 
+[29]{#verse-Job-15-29 .bibleverse} No enriquecerá, ni será firme su potencia, ni extenderá por la tierra su hermosura. 
+[30]{#verse-Job-15-30 .bibleverse} No se escapará de las tinieblas: la llama secará sus ramos, y con el aliento de su boca perecerá. 
+[31]{#verse-Job-15-31 .bibleverse} No confíe el iluso en la vanidad; porque ella será su recompensa. 
+[32]{#verse-Job-15-32 .bibleverse} El será cortado antes de su tiempo, y sus renuevos no reverdecerán. 
+[33]{#verse-Job-15-33 .bibleverse} El perderá su agraz como la vid, y derramará su flor como la oliva. 
+[34]{#verse-Job-15-34 .bibleverse} Porque la sociedad de los hipócritas será asolada, y fuego consumirá las tiendas de soborno. 
+[35]{#verse-Job-15-35 .bibleverse} Concibieron dolor, y parieron iniquidad; y las entrañas de ellos meditan engaño. 
+
+<h2 class="chaptertitle">[&nbsp;16&nbsp;](ch021.xhtml)<span><span id="chapter-Job-16"></span></span></h2>
+ 
+[1]{#verse-Job-16-1 .bibleverse} Y respondió Job, y dijo: 
+[2]{#verse-Job-16-2 .bibleverse} Muchas veces he oído cosas como estas: consoladores molestos sois todos vosotros. 
+[3]{#verse-Job-16-3 .bibleverse} ¿Tendrán fin las palabras ventosas? ó ¿qué te animará á responder? 
+[4]{#verse-Job-16-4 .bibleverse} También yo hablaría como vosotros. Ojalá vuestra alma estuviera en lugar de la mía, que yo os tendría compañía en las palabras, y sobre vosotros movería mi cabeza. 
+[5]{#verse-Job-16-5 .bibleverse} Mas yo os alentaría con mis palabras, y la consolación de mis labios apaciguaría el dolor vuestro.
+
+ 
+[6]{#verse-Job-16-6 .bibleverse} Si hablo, mi dolor no cesa; y si dejo de hablar, no se aparta de mí. 
+[7]{#verse-Job-16-7 .bibleverse} Empero ahora me ha fatigado: has tú asolado toda mi compañía. 
+[8]{#verse-Job-16-8 .bibleverse} Tú me has arrugado; testigo es mi flacura, que se levanta contra mí para testificar en mi rostro. 
+[9]{#verse-Job-16-9 .bibleverse} Su furor me destrizó, y me ha sido contrario: crujió sus dientes contra mí; contra mí aguzó sus ojos mi enemigo. 
+[10]{#verse-Job-16-10 .bibleverse} Abrieron contra mí su boca; hirieron mis mejillas con afrenta; contra mí se juntaron todos. 
+[11]{#verse-Job-16-11 .bibleverse} Hame entregado Dios al mentiroso, y en las manos de los impíos me hizo estremecer 
+[12]{#verse-Job-16-12 .bibleverse} Próspero estaba, y desmenuzóme: y arrebatóme por la cerviz, y despedazóme, y púsome por blanco suyo. 
+[13]{#verse-Job-16-13 .bibleverse} Cercáronme sus flecheros, partió mis riñones, y no perdonó: mi hiel derramó por tierra. 
+[14]{#verse-Job-16-14 .bibleverse} Quebrantóme de quebranto sobre quebranto; corrió contra mí como un gigante. 
+[15]{#verse-Job-16-15 .bibleverse} Yo cosí saco sobre mi piel, y cargué mi cabeza de polvo. 
+[16]{#verse-Job-16-16 .bibleverse} Mi rostro está enlodado con lloro, y mis párpados entenebrecidos: 
+[17]{#verse-Job-16-17 .bibleverse} A pesar de no haber iniquidad en mis manos, y de haber sido mi oración pura.
+
+ 
+[18]{#verse-Job-16-18 .bibleverse} ¡Oh tierra! no cubras mi sangre, y no haya lugar á mi clamor. 
+[19]{#verse-Job-16-19 .bibleverse} Mas he aquí que en los cielos está mi testigo, y mi testimonio en las alturas. 
+[20]{#verse-Job-16-20 .bibleverse} Disputadores son mis amigos: mas á Dios destilarán mis ojos. 
+[21]{#verse-Job-16-21 .bibleverse} ¡Ojalá pudiese disputar el hombre con Dios, como con su prójimo! 
+[22]{#verse-Job-16-22 .bibleverse} Mas los años contados vendrán, y yo iré el camino por donde no volveré. 
+
+<h2 class="chaptertitle">[&nbsp;17&nbsp;](ch021.xhtml)<span><span id="chapter-Job-17"></span></span></h2>
+ 
+[1]{#verse-Job-17-1 .bibleverse} [Mi]{.smallcaps} aliento está corrompido, acórtanse mis días, y me está aparejado el sepulcro. 
+[2]{#verse-Job-17-2 .bibleverse} No hay conmigo sino escarnecedores, en cuya acrimonia se detienen mis ojos. 
+[3]{#verse-Job-17-3 .bibleverse} Pon ahora, dame fianza para litigar contigo: ¿quién tocará ahora mi mano? 
+[4]{#verse-Job-17-4 .bibleverse} Porque á éstos has tú escondido su corazón de inteligencia: por tanto, no los ensalzarás. 
+[5]{#verse-Job-17-5 .bibleverse} El que denuncia lisonjas á sus prójimos, los ojos de sus hijos desfallezcan. 
+[6]{#verse-Job-17-6 .bibleverse} El me ha puesto por parábola de pueblos, y delante de ellos he sido como tamboril. 
+[7]{#verse-Job-17-7 .bibleverse} Y mis ojos se oscurecieron de desabrimiento, y mis pensamientos todos son como sombra. 
+[8]{#verse-Job-17-8 .bibleverse} Los rectos se maravillarán de esto, y el inocente se levantará contra el hipócrita. 
+[9]{#verse-Job-17-9 .bibleverse} No obstante, proseguirá el justo su camino, y el limpio de manos aumentará la fuerza.
+
+ 
+[10]{#verse-Job-17-10 .bibleverse} Mas volved todos vosotros, y venid ahora, que no hallaré entre vosotros sabio. 
+[11]{#verse-Job-17-11 .bibleverse} Pasáronse mis días, fueron arrancados mis pensamientos, los designios de mi corazón. 
+[12]{#verse-Job-17-12 .bibleverse} Pusieron la noche por día, y la luz se acorta delante de las tinieblas. 
+[13]{#verse-Job-17-13 .bibleverse} Si yo espero, el sepulcro es mi casa: haré mi cama en las tinieblas. 
+[14]{#verse-Job-17-14 .bibleverse} A la huesa tengo dicho: Mi padre eres tú; á los gusanos: Mi madre y mi hermana. 
+[15]{#verse-Job-17-15 .bibleverse} ¿Dónde pues estará ahora mi esperanza? y mi esperanza ¿quién la verá? 
+[16]{#verse-Job-17-16 .bibleverse} A los rincones de la huesa descenderán, y juntamente descansarán en el polvo. 
+
+<h2 class="chaptertitle">[&nbsp;18&nbsp;](ch021.xhtml)<span><span id="chapter-Job-18"></span></span></h2>
+ 
+[1]{#verse-Job-18-1 .bibleverse} Y respondió Bildad Suhita, y dijo: 
+[2]{#verse-Job-18-2 .bibleverse} ¿Cuándo pondréis fin á las palabras? Entended, y después hablemos. 
+[3]{#verse-Job-18-3 .bibleverse} ¿Por qué somos tenidos por bestias, y en vuestros ojos somos viles? 
+[4]{#verse-Job-18-4 .bibleverse} Oh tú, que despedazas tu alma con tu furor, ¿será dejada la tierra por tu causa, y serán traspasadas de su lugar las peñas?
+
+ 
+[5]{#verse-Job-18-5 .bibleverse} Ciertamente la luz de los impíos será apagada, y no resplandecerá la centella de su fuego. 
+[6]{#verse-Job-18-6 .bibleverse} La luz se oscurecerá en su tienda, y apagaráse sobre él su lámpara. 
+[7]{#verse-Job-18-7 .bibleverse} Los pasos de su pujanza serán acortados, y precipitarálo su mismo consejo. 
+[8]{#verse-Job-18-8 .bibleverse} Porque red será echada en sus pies, y sobre red andará. 
+[9]{#verse-Job-18-9 .bibleverse} Lazo prenderá su calcañar: afirmaráse la trampa contra él. 
+[10]{#verse-Job-18-10 .bibleverse} Su cuerda está escondida en la tierra, y su torzuelo sobre la senda. 
+[11]{#verse-Job-18-11 .bibleverse} De todas partes lo asombrarán temores, y haránle huir desconcertado. 
+[12]{#verse-Job-18-12 .bibleverse} Su fuerza será hambrienta, y á su lado estará aparejado quebrantamiento. 
+[13]{#verse-Job-18-13 .bibleverse} El primogénito de la muerte comerá los ramos de su piel, y devorará sus miembros. 
+[14]{#verse-Job-18-14 .bibleverse} Su confianza será arrancada de su tienda, y harále esto llevar al rey de los espantos. 
+[15]{#verse-Job-18-15 .bibleverse} En su tienda morará como si no fuese suya: piedra azufre será esparcida sobre su morada. 
+[16]{#verse-Job-18-16 .bibleverse} Abajo se secarán sus raíces, y arriba serán cortadas sus ramas. 
+[17]{#verse-Job-18-17 .bibleverse} Su memoria perecerá de la tierra, y no tendrá nombre por las calles. 
+[18]{#verse-Job-18-18 .bibleverse} De la luz será lanzado á las tinieblas, y echado fuera del mundo. 
+[19]{#verse-Job-18-19 .bibleverse} No tendrá hijo ni nieto en su pueblo, ni quien le suceda en sus moradas. 
+[20]{#verse-Job-18-20 .bibleverse} Sobre su día se espantarán los por venir, como ocupó el pavor á los que fueron antes. 
+[21]{#verse-Job-18-21 .bibleverse} Ciertamente tales son las moradas del impío, y este será el lugar del que no conoció á Dios. 
+
+<h2 class="chaptertitle">[&nbsp;19&nbsp;](ch021.xhtml)<span><span id="chapter-Job-19"></span></span></h2>
+ 
+[1]{#verse-Job-19-1 .bibleverse} Y respondió Job, y dijo: 
+[2]{#verse-Job-19-2 .bibleverse} ¿Hasta cuándo angustiaréis mi alma, y me moleréis con palabras? 
+[3]{#verse-Job-19-3 .bibleverse} Ya me habéis vituperado diez veces: ¿no os avergonzáis de descomediros delante de mí? 
+[4]{#verse-Job-19-4 .bibleverse} Sea así que realmente haya yo errado, conmigo se quedará mi yerro. 
+[5]{#verse-Job-19-5 .bibleverse} Mas si vosotros os engrandeciereis contra mí, y adujereis contra mí mi oprobio, 
+[6]{#verse-Job-19-6 .bibleverse} Sabed ahora que Dios me ha trastornado, y traído en derredor su red sobre mí.
+
+ 
+[7]{#verse-Job-19-7 .bibleverse} He aquí yo clamaré agravio, y no seré oído: daré voces, y no habrá juicio. 
+[8]{#verse-Job-19-8 .bibleverse} Cercó de vallado mi camino, y no pasaré; y sobre mis veredas puso tinieblas. 
+[9]{#verse-Job-19-9 .bibleverse} Hame despojado de mi gloria, y quitado la corona de mi cabeza. 
+[10]{#verse-Job-19-10 .bibleverse} Arruinóme por todos lados, y perezco; y ha hecho pasar mi esperanza como árbol arrancado. 
+[11]{#verse-Job-19-11 .bibleverse} E hizo inflamar contra mí su furor, y contóme para sí entre sus enemigos. 
+[12]{#verse-Job-19-12 .bibleverse} Vinieron sus ejércitos á una, y trillaron sobre mí su camino, y asentaron campo en derredor de mi tienda. 
+[13]{#verse-Job-19-13 .bibleverse} Hizo alejar de mí mis hermanos, y positivamente se extrañaron de mí mis conocidos. 
+[14]{#verse-Job-19-14 .bibleverse} Mis parientes se detuvieron, y mis conocidos se olvidaron de mí. 
+[15]{#verse-Job-19-15 .bibleverse} Los moradores de mi casa y mis criadas me tuvieron por extraño: forastero fuí yo en sus ojos. 
+[16]{#verse-Job-19-16 .bibleverse} Llamé á mi siervo, y no respondió; de mi propia boca le suplicaba. 
+[17]{#verse-Job-19-17 .bibleverse} Mi aliento vino á ser extraño á mi mujer, aunque por los hijos de mis entrañas le rogaba. 
+[18]{#verse-Job-19-18 .bibleverse} Aun los muchachos me menospreciaron: en levantándome, hablaban contra mí. 
+[19]{#verse-Job-19-19 .bibleverse} Todos mis confidentes me aborrecieron; y los que yo amaba, se tornaron contra mí. 
+[20]{#verse-Job-19-20 .bibleverse} Mi cuero y mi carne se pegaron á mis huesos; y he escapado con la piel de mis dientes.
+
+ 
+[21]{#verse-Job-19-21 .bibleverse} Oh vosotros mis amigos, tened compasión de mí, tened compasión de mí; porque la mano de Dios me ha tocado. 
+[22]{#verse-Job-19-22 .bibleverse} ¿Por qué me perseguís como Dios, y no os hartáis de mis carnes? 
+[23]{#verse-Job-19-23 .bibleverse} ¡Quién diese ahora que mis palabras fuesen escritas! ¡quién diese que se escribieran en un libro! 
+[24]{#verse-Job-19-24 .bibleverse} ¡Que con cincel de hierro y con plomo fuesen en piedra esculpidas para siempre! 
+[25]{#verse-Job-19-25 .bibleverse} Yo sé que mi Redentor vive, y al fin se levantará sobre el polvo: 
+[26]{#verse-Job-19-26 .bibleverse} Y después de deshecha esta mi piel, aun he de ver en mi carne á Dios; 
+[27]{#verse-Job-19-27 .bibleverse} Al cual yo tengo de ver por mí, y mis ojos lo verán, y no otro, aunque mis riñones se consuman dentro de mí. 
+[28]{#verse-Job-19-28 .bibleverse} Mas debierais decir: ¿Por qué lo perseguimos? ya que la raíz del negocio en mí se halla. 
+[29]{#verse-Job-19-29 .bibleverse} Temed vosotros delante de la espada; porque sobreviene el furor de la espada á causa de las injusticias, para que sepáis que hay un juicio. 
+
+<h2 class="chaptertitle">[&nbsp;20&nbsp;](ch021.xhtml)<span><span id="chapter-Job-20"></span></span></h2>
+ 
+[1]{#verse-Job-20-1 .bibleverse} Y respondió Sophar Naamathita, y dijo: 
+[2]{#verse-Job-20-2 .bibleverse} Por cierto mis pensamientos me hacen responder, y por tanto me apresuro. 
+[3]{#verse-Job-20-3 .bibleverse} La reprensión de mi censura he oído, y háceme responder el espíritu de mi inteligencia.
+
+ 
+[4]{#verse-Job-20-4 .bibleverse} ¿No sabes esto que fué siempre, desde el tiempo que fué puesto el hombre sobre la tierra, 
+[5]{#verse-Job-20-5 .bibleverse} Que la alegría de los impíos es breve, y el gozo del hipócrita por un momento? 
+[6]{#verse-Job-20-6 .bibleverse} Si subiere su altivez hasta el cielo, y su cabeza tocare en las nubes, 
+[7]{#verse-Job-20-7 .bibleverse} Con su estiércol perecerá para siempre: los que le hubieren visto, dirán: ¿Qué es de él? 
+[8]{#verse-Job-20-8 .bibleverse} Como sueño volará, y no será hallado: y disiparáse como visión nocturna. 
+[9]{#verse-Job-20-9 .bibleverse} El ojo que le habrá visto, nunca más le verá; ni su lugar le echará más de ver. 
+[10]{#verse-Job-20-10 .bibleverse} Sus hijos pobres andarán rogando; y sus manos tornarán lo que él robó. 
+[11]{#verse-Job-20-11 .bibleverse} Sus huesos están llenos de sus mocedades, y con él serán sepultados en el polvo. 
+[12]{#verse-Job-20-12 .bibleverse} Si el mal se endulzó en su boca, si lo ocultaba debajo de su lengua; 
+[13]{#verse-Job-20-13 .bibleverse} Si le parecía bien, y no lo dejaba, mas antes lo detenía entre su paladar; 
+[14]{#verse-Job-20-14 .bibleverse} Su comida se mudará en sus entrañas, hiel de áspides será dentro de él. 
+[15]{#verse-Job-20-15 .bibleverse} Devoró riquezas, mas vomitarálas; de su vientre las sacará Dios. 
+[16]{#verse-Job-20-16 .bibleverse} Veneno de áspides chupará; matarálo lengua de víbora. 
+[17]{#verse-Job-20-17 .bibleverse} No verá los arroyos, los ríos, los torrentes de miel y de manteca. 
+[18]{#verse-Job-20-18 .bibleverse} Restituirá el trabajo conforme á la hacienda que tomó; y no tragará, ni gozará. 
+[19]{#verse-Job-20-19 .bibleverse} Por cuanto quebrantó y desamparó á los pobres, robó casas, y no las edificó; 
+[20]{#verse-Job-20-20 .bibleverse} Por tanto, no sentirá él sosiego en su vientre, ni salvará nada de lo que codiciaba. 
+[21]{#verse-Job-20-21 .bibleverse} No quedó nada que no comiese: por tanto su bien no será durable. 
+[22]{#verse-Job-20-22 .bibleverse} Cuando fuere lleno su bastimento, tendrá angustia: las manos todas de los malvados vendrán sobre él. 
+[23]{#verse-Job-20-23 .bibleverse} Cuando se pusiere á henchir su vientre, Dios enviará sobre él el furor de su ira, y harála llover sobre él y sobre su comida. 
+[24]{#verse-Job-20-24 .bibleverse} Huirá de las armas de hierro, y el arco de acero le atravesará. 
+[25]{#verse-Job-20-25 .bibleverse} Desenvainará y sacará saeta de su aljaba, y relumbrante pasará por su hiel: sobre él vendrán terrores. 
+[26]{#verse-Job-20-26 .bibleverse} Todas tinieblas están guardadas para sus secretos: fuego no soplado lo devorará; su sucesor será quebrantado en su tienda. 
+[27]{#verse-Job-20-27 .bibleverse} Los cielos descubrirán su iniquidad, y la tierra se levantará contra él. 
+[28]{#verse-Job-20-28 .bibleverse} Los renuevos de su casa serán trasportados; serán derramados en el día de su furor. 
+[29]{#verse-Job-20-29 .bibleverse} Esta es la parte que Dios apareja al hombre impío, y la heredad que Dios le señala por su palabra. 
+
+<h2 class="chaptertitle">[&nbsp;21&nbsp;](ch021.xhtml)<span><span id="chapter-Job-21"></span></span></h2>
+ 
+[1]{#verse-Job-21-1 .bibleverse} Y respondió Job, y dijo: 
+[2]{#verse-Job-21-2 .bibleverse} Oid atentamente mi palabra, y sea esto vuestros consuelos. 
+[3]{#verse-Job-21-3 .bibleverse} Soportadme, y yo hablaré; y después que hubiere hablado, escarneced. 
+[4]{#verse-Job-21-4 .bibleverse} ¿Hablo yo á algún hombre? y ¿por qué no se ha de angustiar mi espíritu? 
+[5]{#verse-Job-21-5 .bibleverse} Miradme, y espantaos, y poned la mano sobre la boca. 
+[6]{#verse-Job-21-6 .bibleverse} Aun yo mismo, cuando me acuerdo, me asombro, y toma temblor mi carne.
+
+ 
+[7]{#verse-Job-21-7 .bibleverse} ¿Por qué viven los impíos, y se envejecen, y aun crecen en riquezas? 
+[8]{#verse-Job-21-8 .bibleverse} Su simiente con ellos, compuesta delante de ellos; y sus renuevos delante de sus ojos. 
+[9]{#verse-Job-21-9 .bibleverse} Sus casas seguras de temor, ni hay azote de Dios sobre ellos. 
+[10]{#verse-Job-21-10 .bibleverse} Sus vacas conciben, no abortan; paren sus vacas, y no malogran su cría. 
+[11]{#verse-Job-21-11 .bibleverse} Salen sus chiquitos como manada, y sus hijos andan saltando. 
+[12]{#verse-Job-21-12 .bibleverse} Al son de tamboril y de cítara saltan, y se huelgan al son del órgano. 
+[13]{#verse-Job-21-13 .bibleverse} Gastan sus días en bien, y en un momento descienden á la sepultura. 
+[14]{#verse-Job-21-14 .bibleverse} Dicen pues á Dios: Apártate de nosotros, que no queremos el conocimiento de tus caminos. 
+[15]{#verse-Job-21-15 .bibleverse} ¿Quién es el Todopoderoso, para que le sirvamos? ¿y de qué nos aprovechará que oremos á él?
+
+ 
+[16]{#verse-Job-21-16 .bibleverse} He aquí que su bien no está en manos de ellos: el consejo de los impíos lejos esté de mí. 
+[17]{#verse-Job-21-17 .bibleverse} ¡Oh cuántas veces la lámpara de los impíos es apagada, y viene sobre ellos su quebranto, y Dios en su ira les reparte dolores! 
+[18]{#verse-Job-21-18 .bibleverse} Serán como la paja delante del viento, y como el tamo que arrebata el torbellino. 
+[19]{#verse-Job-21-19 .bibleverse} Dios guardará para sus hijos su violencia; y le dará su pago, para que conozca. 
+[20]{#verse-Job-21-20 .bibleverse} Verán sus ojos su quebranto, y beberá de la ira del Todopoderoso. 
+[21]{#verse-Job-21-21 .bibleverse} Porque ¿qué deleite tendrá él de su casa después de sí, siendo cortado el número de sus meses? 
+[22]{#verse-Job-21-22 .bibleverse} ¿Enseñará alguien á Dios sabiduría, juzgando él á los que están elevados? 
+[23]{#verse-Job-21-23 .bibleverse} Este morirá en el vigor de su hermosura, todo quieto y pacífico. 
+[24]{#verse-Job-21-24 .bibleverse} Sus colodras están llenas de leche, y sus huesos serán regados de tuétano. 
+[25]{#verse-Job-21-25 .bibleverse} Y estotro morirá en amargura de ánimo, y no habiendo comido jamás con gusto. 
+[26]{#verse-Job-21-26 .bibleverse} Igualmente yacerán ellos en el polvo, y gusanos los cubrirán.
+
+ 
+[27]{#verse-Job-21-27 .bibleverse} He aquí, yo conozco vuestros pensamientos, y las imaginaciones que contra mí forjáis. 
+[28]{#verse-Job-21-28 .bibleverse} Porque decís: ¿Qué es de la casa del príncipe, y qué de la tienda de las moradas de los impíos? 
+[29]{#verse-Job-21-29 .bibleverse} ¿No habéis preguntado á los que pasan por los caminos, por cuyas señas no negaréis, 
+[30]{#verse-Job-21-30 .bibleverse} Que el malo es reservado para el día de la destrucción? Presentados serán en el día de las iras. 
+[31]{#verse-Job-21-31 .bibleverse} ¿Quién le denunciará en su cara su camino? Y de lo que él hizo, ¿quién le dará el pago? 
+[32]{#verse-Job-21-32 .bibleverse} Porque llevado será él á los sepulcros, y en el montón permanecerá. 
+[33]{#verse-Job-21-33 .bibleverse} Los terrones del valle le serán dulces; y tras de él será llevado todo hombre, y antes de él han ido innumerables. 
+[34]{#verse-Job-21-34 .bibleverse} ¿Cómo pues me consoláis en vano, viniendo á parar vuestras respuestas en falacia? 
+
+<h2 class="chaptertitle">[&nbsp;22&nbsp;](ch021.xhtml)<span><span id="chapter-Job-22"></span></span></h2>
+ 
+[1]{#verse-Job-22-1 .bibleverse} Y respondió Eliphaz Temanita, y dijo: 
+[2]{#verse-Job-22-2 .bibleverse} ¿Traerá el hombre provecho á Dios, porque el sabio sea provechoso á sí mismo? 
+[3]{#verse-Job-22-3 .bibleverse} ¿Tiene su contentamiento el Omnipotente en que tú seas justificado, ó provecho de que tú hagas perfectos tus caminos? 
+[4]{#verse-Job-22-4 .bibleverse} ¿Castigaráte acaso, ó vendrá contigo á juicio porque te teme? 
+[5]{#verse-Job-22-5 .bibleverse} Por cierto tu malicia es grande, y tus maldades no tienen fin.
+
+ 
+[6]{#verse-Job-22-6 .bibleverse} Porque sacaste prenda á tus hermanos sin causa, é hiciste desnudar las ropas de los desnudos. 
+[7]{#verse-Job-22-7 .bibleverse} No diste de beber agua al cansado, y detuviste el pan al hambriento. 
+[8]{#verse-Job-22-8 .bibleverse} Empero el hombre pudiente tuvo la tierra; y habitó en ella el distinguido. 
+[9]{#verse-Job-22-9 .bibleverse} Las viudas enviaste vacías, y los brazos de los huérfanos fueron quebrados. 
+[10]{#verse-Job-22-10 .bibleverse} Por tanto hay lazos alrededor de ti, y te turba espanto repentino; 
+[11]{#verse-Job-22-11 .bibleverse} O tinieblas, porque no veas; y abundancia de agua te cubre.
+
+ 
+[12]{#verse-Job-22-12 .bibleverse} ¿No está Dios en la altura de los cielos? Mira lo encumbrado de las estrellas, cuán elevadas están. 
+[13]{#verse-Job-22-13 .bibleverse} ¿Y dirás tú: Qué sabe Dios? ¿cómo juzgará por medio de la oscuridad? 
+[14]{#verse-Job-22-14 .bibleverse} Las nubes son su escondedero, y no ve; y por el circuito del cielo se pasea. 
+[15]{#verse-Job-22-15 .bibleverse} ¿Quieres tú guardar la senda antigua, que pisaron los hombres perversos? 
+[16]{#verse-Job-22-16 .bibleverse} Los cuales fueron cortados antes de tiempo, cuyo fundamento fué como un río derramado: 
+[17]{#verse-Job-22-17 .bibleverse} Que decían á Dios: Apártate de nosotros. ¿Y qué les había hecho el Omnipotente? 
+[18]{#verse-Job-22-18 .bibleverse} Habíales él henchido sus casas de bienes. Sea empero el consejo de ellos lejos de mí. 
+[19]{#verse-Job-22-19 .bibleverse} Verán los justos y se gozarán; y el inocente los escarnecerá, diciendo: 
+[20]{#verse-Job-22-20 .bibleverse} Fué cortada nuestra sustancia, habiendo consumido el fuego el resto de ellos.
+
+ 
+[21]{#verse-Job-22-21 .bibleverse} Amístate ahora con él, y tendrás paz; y por ello te vendrá bien. 
+[22]{#verse-Job-22-22 .bibleverse} Toma ahora la ley de su boca, y pon sus palabras en tu corazón. 
+[23]{#verse-Job-22-23 .bibleverse} Si te tornares al Omnipotente, serás edificado; alejarás de tu tienda la aflicción; 
+[24]{#verse-Job-22-24 .bibleverse} Y tendrás más oro que tierra, y como piedras de arroyos oro de Ophir; 
+[25]{#verse-Job-22-25 .bibleverse} Y el Todopoderoso será tu defensa, y tendrás plata á montones. 
+[26]{#verse-Job-22-26 .bibleverse} Porque entonces te deleitarás en el Omnipotente, y alzarás á Dios tu rostro. 
+[27]{#verse-Job-22-27 .bibleverse} Orarás á él, y él te oirá; y tú pagarás tus votos. 
+[28]{#verse-Job-22-28 .bibleverse} Determinarás asimismo una cosa, y serte ha firme; y sobre tus caminos resplandecerá luz. 
+[29]{#verse-Job-22-29 .bibleverse} Cuando fueren abatidos, dirás tú: Ensalzamiento habrá: y Dios salvará al humilde de ojos. 
+[30]{#verse-Job-22-30 .bibleverse} El libertará la isla del inocente; y por la limpieza de tus manos será librada. 
+
+<h2 class="chaptertitle">[&nbsp;23&nbsp;](ch021.xhtml)<span><span id="chapter-Job-23"></span></span></h2>
+ 
+[1]{#verse-Job-23-1 .bibleverse} Y respondió Job, y dijo: 
+[2]{#verse-Job-23-2 .bibleverse} Hoy también hablaré con amargura; que es más grave mi llaga que mi gemido. 
+[3]{#verse-Job-23-3 .bibleverse} ¡Quién me diera el saber dónde hallar á Dios! yo iría hasta su silla. 
+[4]{#verse-Job-23-4 .bibleverse} Ordenaría juicio delante de él, y henchiría mi boca de argumentos. 
+[5]{#verse-Job-23-5 .bibleverse} Yo sabría lo que él me respondería, y entendería lo que me dijese. 
+[6]{#verse-Job-23-6 .bibleverse} ¿Pleitearía conmigo con grandeza de fuerza? No: antes él la pondría en mí. 
+[7]{#verse-Job-23-7 .bibleverse} Allí el justo razonaría con él: y escaparía para siempre de mi juez. 
+[8]{#verse-Job-23-8 .bibleverse} He aquí yo iré al oriente, y no lo hallaré; y al occidente, y no lo percibiré: 
+[9]{#verse-Job-23-9 .bibleverse} Si al norte él obrare, yo no lo veré; al mediodía se esconderá, y no lo veré. 
+[10]{#verse-Job-23-10 .bibleverse} Mas él conoció mi camino: probaráme, y saldré como oro. 
+[11]{#verse-Job-23-11 .bibleverse} Mis pies tomaron su rastro; guardé su camino, y no me aparté. 
+[12]{#verse-Job-23-12 .bibleverse} Del mandamiento de sus labios nunca me separé; guardé las palabras de su boca más que mi comida. 
+[13]{#verse-Job-23-13 .bibleverse} Empero si él se determina en una cosa, ¿quién lo apartará? Su alma deseó, é hizo. 
+[14]{#verse-Job-23-14 .bibleverse} El pues acabará lo que ha determinado de mí: y muchas cosas como estas hay en él. 
+[15]{#verse-Job-23-15 .bibleverse} Por lo cual yo me espanto en su presencia: consideraré, y temerélo. 
+[16]{#verse-Job-23-16 .bibleverse} Dios ha enervado mi corazón, y hame turbado el Omnipotente. 
+[17]{#verse-Job-23-17 .bibleverse} ¿Por qué no fuí yo cortado delante de las tinieblas, y cubrió con oscuridad mi rostro? 
+
+<h2 class="chaptertitle">[&nbsp;24&nbsp;](ch021.xhtml)<span><span id="chapter-Job-24"></span></span></h2>
+ 
+[1]{#verse-Job-24-1 .bibleverse} Puesto que no son ocultos los tiempos al Todopoderoso, ¿por qué los que le conocen no ven sus días? 
+[2]{#verse-Job-24-2 .bibleverse} Traspasan los términos, roban los ganados, y apaciéntanlos. 
+[3]{#verse-Job-24-3 .bibleverse} Llévanse el asno de los huérfanos; prenden el buey de la viuda. 
+[4]{#verse-Job-24-4 .bibleverse} Hacen apartar del camino á los menesterosos: y todos los pobres de la tierra se esconden. 
+[5]{#verse-Job-24-5 .bibleverse} He aquí, como asnos monteses en el desierto, salen á su obra madrugando para robar; el desierto es mantenimiento de sus hijos. 
+[6]{#verse-Job-24-6 .bibleverse} En el campo siegan su pasto, y los impíos vendimian la viña ajena. 
+[7]{#verse-Job-24-7 .bibleverse} Al desnudo hacen dormir sin ropa, y que en el frío no tenga cobertura. 
+[8]{#verse-Job-24-8 .bibleverse} Con las avenidas de los montes se mojan, y abrazan las peñas sin tener abrigo. 
+[9]{#verse-Job-24-9 .bibleverse} Quitan el pecho á los huérfanos, y de sobre el pobre toman la prenda. 
+[10]{#verse-Job-24-10 .bibleverse} Al desnudo hacen andar sin vestido, y á los hambrientos quitan los hacecillos. 
+[11]{#verse-Job-24-11 .bibleverse} De dentro de sus paredes exprimen el aceite, pisan los lagares, y mueren de sed. 
+[12]{#verse-Job-24-12 .bibleverse} De la ciudad gimen los hombres, y claman las almas de los heridos de muerte: mas Dios no puso estorbo. 
+[13]{#verse-Job-24-13 .bibleverse} Ellos son los que, rebeldes á la luz, nunca conocieron sus caminos, ni estuvieron en sus veredas. 
+[14]{#verse-Job-24-14 .bibleverse} A la luz se levanta el matador, mata al pobre y al necesitado, y de noche es como ladrón. 
+[15]{#verse-Job-24-15 .bibleverse} El ojo del adúltero está aguardando la noche, diciendo: No me verá nadie: y esconde su rostro. 
+[16]{#verse-Job-24-16 .bibleverse} En las tinieblas minan las casas, que de día para sí señalaron; no conocen la luz. 
+[17]{#verse-Job-24-17 .bibleverse} Porque la mañana es á todos ellos como sombra de muerte; si son conocidos, terrores de sombra de muerte los toman. 
+[18]{#verse-Job-24-18 .bibleverse} Son instables más que la superficie de las aguas; su porción es maldita en la tierra; no andarán por el camino de las viñas. 
+[19]{#verse-Job-24-19 .bibleverse} La sequía y el calor arrebatan las aguas de la nieve; y el sepulcro á los pecadores. 
+[20]{#verse-Job-24-20 .bibleverse} Olvidaráse de ellos el seno materno; de ellos sentirán los gusanos dulzura; nunca más habrá de ellos memoria, y como un árbol serán los impíos quebrantados. 
+[21]{#verse-Job-24-21 .bibleverse} A la mujer estéril que no paría, afligió; y á la viuda nunca hizo bien. 
+[22]{#verse-Job-24-22 .bibleverse} Mas á los fuertes adelantó con su poder: levantóse, y no se da por segura la vida. 
+[23]{#verse-Job-24-23 .bibleverse} Le dieron á crédito, y se afirmó: sus ojos están sobre los caminos de ellos. 
+[24]{#verse-Job-24-24 .bibleverse} Fueron ensalzados por un poco, mas desaparecen, y son abatidos como cada cual: serán encerrados, y cortados como cabezas de espigas. 
+[25]{#verse-Job-24-25 .bibleverse} Y si no, ¿quién me desmentirá ahora, ó reducirá á nada mis palabras? 
+
+<h2 class="chaptertitle">[&nbsp;25&nbsp;](ch021.xhtml)<span><span id="chapter-Job-25"></span></span></h2>
+ 
+[1]{#verse-Job-25-1 .bibleverse} Y respondió Bildad Suhita, y dijo: 
+[2]{#verse-Job-25-2 .bibleverse} El señorío y el temor están con él: él hace paz en sus alturas. 
+[3]{#verse-Job-25-3 .bibleverse} ¿Tienen sus ejércitos número? ¿y sobre quién no está su luz? 
+[4]{#verse-Job-25-4 .bibleverse} ¿Cómo pues se justificará el hombre con Dios? ¿y cómo será limpio el que nace de mujer? 
+[5]{#verse-Job-25-5 .bibleverse} He aquí que ni aun la misma luna será resplandeciente, ni las estrellas son limpias delante de sus ojos: 
+[6]{#verse-Job-25-6 .bibleverse} ¿Cuánto menos el hombre que es un gusano, y el hijo de hombre, también gusano? 
+
+<h2 class="chaptertitle">[&nbsp;26&nbsp;](ch021.xhtml)<span><span id="chapter-Job-26"></span></span></h2>
+ 
+[1]{#verse-Job-26-1 .bibleverse} Y respondió Job, y dijo: 
+[2]{#verse-Job-26-2 .bibleverse} ¿En qué ayudaste al que no tiene fuerza? ¿has amparado al brazo sin fortaleza? 
+[3]{#verse-Job-26-3 .bibleverse} ¿En qué aconsejaste al que no tiene ciencia, y mostraste bien sabiduría? 
+[4]{#verse-Job-26-4 .bibleverse} ¿A quién has anunciado palabras, y cúyo es el espíritu que de ti sale?
+
+ 
+[5]{#verse-Job-26-5 .bibleverse} Cosas inanimadas son formadas debajo de las aguas, y los habitantes de ellas. 
+[6]{#verse-Job-26-6 .bibleverse} El sepulcro es descubierto delante de él, y el infierno no tiene cobertura. 
+[7]{#verse-Job-26-7 .bibleverse} Extiende el aquilón sobre vacío, cuelga la tierra sobre nada. 
+[8]{#verse-Job-26-8 .bibleverse} Ata las aguas en sus nubes, y las nubes no se rompen debajo de ellas. 
+[9]{#verse-Job-26-9 .bibleverse} El restriñe la faz de su trono, y sobre él extiende su nube. 
+[10]{#verse-Job-26-10 .bibleverse} El cercó con término la superficie de las aguas, hasta el fin de la luz y las tinieblas. 
+[11]{#verse-Job-26-11 .bibleverse} Las columnas del cielo tiemblan, y se espantan de su reprensión. 
+[12]{#verse-Job-26-12 .bibleverse} El rompe la mar con su poder, y con su entendimiento hiere la hinchazón suya. 
+[13]{#verse-Job-26-13 .bibleverse} Su espíritu adornó los cielos; su mano crió la serpiente tortuosa. 
+[14]{#verse-Job-26-14 .bibleverse} He aquí, estas son partes de sus caminos: ¡mas cuán poco hemos oído de él! Porque el estruendo de sus fortalezas, ¿quién lo detendrá? 
+
+<h2 class="chaptertitle">[&nbsp;27&nbsp;](ch021.xhtml)<span><span id="chapter-Job-27"></span></span></h2>
+ 
+[1]{#verse-Job-27-1 .bibleverse} Y reasumió Job su discurso, y dijo: 
+[2]{#verse-Job-27-2 .bibleverse} Vive Dios, el cual ha apartado mi causa, y el Omnipotente, que amargó el alma mía, 
+[3]{#verse-Job-27-3 .bibleverse} Que todo el tiempo que mi alma estuviere en mí, y hubiere hálito de Dios en mis narices, 
+[4]{#verse-Job-27-4 .bibleverse} Mis labios no hablarán iniquidad, ni mi lengua pronunciará engaño. 
+[5]{#verse-Job-27-5 .bibleverse} Nunca tal acontezca que yo os justifique: hasta morir no quitaré de mí mi integridad. 
+[6]{#verse-Job-27-6 .bibleverse} Mi justicia tengo asida, y no la cederé: no me reprochará mi corazón en el tiempo de mi vida.
+
+ 
+[7]{#verse-Job-27-7 .bibleverse} Sea como el impío mi enemigo, y como el inicuo mi adversario. 
+[8]{#verse-Job-27-8 .bibleverse} Porque ¿cuál es la esperanza del hipócrita, por mucho que hubiere robado, cuando Dios arrebatare su alma? 
+[9]{#verse-Job-27-9 .bibleverse} ¿Oirá Dios su clamor cuando la tribulación sobre él viniere? 
+[10]{#verse-Job-27-10 .bibleverse} ¿Deleitaráse en el Omnipotente? ¿invocará á Dios en todo tiempo?
+
+ 
+[11]{#verse-Job-27-11 .bibleverse} Yo os enseñaré en orden á la mano de Dios: no esconderé lo que hay para con el Omnipotente. 
+[12]{#verse-Job-27-12 .bibleverse} He aquí que todos vosotros lo habéis visto: ¿por qué pues os desvanecéis con fantasía? 
+[13]{#verse-Job-27-13 .bibleverse} Esta es para con Dios la suerte del hombre impío, y la herencia que los violentos han de recibir del Omnipotente. 
+[14]{#verse-Job-27-14 .bibleverse} Si sus hijos fueren multiplicados, serán para el cuchillo; y sus pequeños no se hartarán de pan; 
+[15]{#verse-Job-27-15 .bibleverse} Los que le quedaren, en muerte serán sepultados; y no llorarán sus viudas. 
+[16]{#verse-Job-27-16 .bibleverse} Si amontonare plata como polvo, y si preparare ropa como lodo; 
+[17]{#verse-Job-27-17 .bibleverse} Habrála él preparado, mas el justo se vestirá, y el inocente repartirá la plata. 
+[18]{#verse-Job-27-18 .bibleverse} Edificó su casa como la polilla, y cual cabaña que el guarda hizo. 
+[19]{#verse-Job-27-19 .bibleverse} El rico dormirá, mas no será recogido: abrirá sus ojos, mas él no será. 
+[20]{#verse-Job-27-20 .bibleverse} Asirán de él terrores como aguas: torbellino lo arrebatará de noche. 
+[21]{#verse-Job-27-21 .bibleverse} Lo antecogerá el solano, y partirá; y tempestad lo arrebatará del lugar suyo. 
+[22]{#verse-Job-27-22 .bibleverse} Dios pues descargará sobre él, y no perdonará: hará él por huir de su mano. 
+[23]{#verse-Job-27-23 .bibleverse} Batirán sus manos sobre él, y desde su lugar le silbarán. 
+
+<h2 class="chaptertitle">[&nbsp;28&nbsp;](ch021.xhtml)<span><span id="chapter-Job-28"></span></span></h2>
+ 
+[1]{#verse-Job-28-1 .bibleverse} Ciertamente la plata tiene sus veneros, y el oro lugar donde se forma. 
+[2]{#verse-Job-28-2 .bibleverse} El hierro se saca del polvo, y de la piedra es fundido el metal. 
+[3]{#verse-Job-28-3 .bibleverse} A las tinieblas puso término, y examina todo á la perfección, las piedras que hay en la oscuridad y en la sombra de muerte. 
+[4]{#verse-Job-28-4 .bibleverse} Brota el torrente de junto al morador, aguas que el pie había olvidado: sécanse luego, vanse del hombre. 
+[5]{#verse-Job-28-5 .bibleverse} De la tierra nace el pan, y debajo de ella estará como convertida en fuego. 
+[6]{#verse-Job-28-6 .bibleverse} Lugar hay cuyas piedras son zafiro, y sus polvos de oro. 
+[7]{#verse-Job-28-7 .bibleverse} Senda que nunca la conoció ave, ni ojo de buitre la vió: 
+[8]{#verse-Job-28-8 .bibleverse} Nunca la pisaron animales fieros, ni león pasó por ella. 
+[9]{#verse-Job-28-9 .bibleverse} En el pedernal puso su mano, y trastornó los montes de raíz. 
+[10]{#verse-Job-28-10 .bibleverse} De los peñascos cortó ríos, y sus ojos vieron todo lo preciado. 
+[11]{#verse-Job-28-11 .bibleverse} Detuvo los ríos en su nacimiento, é hizo salir á luz lo escondido.
+
+ 
+[12]{#verse-Job-28-12 .bibleverse} Empero ¿dónde se hallará la sabiduría? ¿y dónde está el lugar de la prudencia? 
+[13]{#verse-Job-28-13 .bibleverse} No conoce su valor el hombre, ni se halla en la tierra de los vivientes. 
+[14]{#verse-Job-28-14 .bibleverse} El abismo dice: No está en mí: y la mar dijo: Ni conmigo. 
+[15]{#verse-Job-28-15 .bibleverse} No se dará por oro, ni su precio será á peso de plata. 
+[16]{#verse-Job-28-16 .bibleverse} No puede ser apreciada con oro de Ophir, ni con onique precioso, ni con zafiro. 
+[17]{#verse-Job-28-17 .bibleverse} El oro no se le igualará, ni el diamante; ni se trocará por vaso de oro fino. 
+[18]{#verse-Job-28-18 .bibleverse} De coral ni de perlas no se hará mención: la sabiduría es mejor que piedras preciosas. 
+[19]{#verse-Job-28-19 .bibleverse} No se igualará con ella esmeralda de Ethiopía; no se podrá apreciar con oro fino. 
+[20]{#verse-Job-28-20 .bibleverse} ¿De dónde pues vendrá la sabiduría? ¿y dónde está el lugar de la inteligencia? 
+[21]{#verse-Job-28-21 .bibleverse} Porque encubierta está á los ojos de todo viviente, y á toda ave del cielo es oculta. 
+[22]{#verse-Job-28-22 .bibleverse} El infierno y la muerte dijeron: Su fama hemos oído con nuestros oídos.
+
+ 
+[23]{#verse-Job-28-23 .bibleverse} Dios entiende el camino de ella, y él conoce su lugar. 
+[24]{#verse-Job-28-24 .bibleverse} Porque él mira hasta los fines de la tierra, y ve debajo de todo el cielo. 
+[25]{#verse-Job-28-25 .bibleverse} Al dar peso al viento, y poner las aguas por medida; 
+[26]{#verse-Job-28-26 .bibleverse} Cuando él hizo ley á la lluvia, y camino al relámpago de los truenos; 
+[27]{#verse-Job-28-27 .bibleverse} Entonces la veía él, y la manifestaba; preparóla y descubrióla también. 
+[28]{#verse-Job-28-28 .bibleverse} Y dijo al hombre: He aquí que el temor del Señor es la sabiduría, y el apartarse del mal la inteligencia. 
+
+<h2 class="chaptertitle">[&nbsp;29&nbsp;](ch021.xhtml)<span><span id="chapter-Job-29"></span></span></h2>
+ 
+[1]{#verse-Job-29-1 .bibleverse} Y volvió Job á tomar su propósito, y dijo: 
+[2]{#verse-Job-29-2 .bibleverse} ¡Quién me tornase como en los meses pasados, como en los días que Dios me guardaba, 
+[3]{#verse-Job-29-3 .bibleverse} Cuando hacía resplandecer su candela sobre mi cabeza, á la luz de la cual yo caminaba en la oscuridad; 
+[4]{#verse-Job-29-4 .bibleverse} Como fué en los días de mi mocedad, cuando el secreto de Dios estaba en mi tienda; 
+[5]{#verse-Job-29-5 .bibleverse} Cuando aun el Omnipotente estaba conmigo, y mis hijos alrededor de mí; 
+[6]{#verse-Job-29-6 .bibleverse} Cuando lavaba yo mis caminos con manteca, y la piedra me derramaba ríos de aceite!
+
+ 
+[7]{#verse-Job-29-7 .bibleverse} Cuando salía á la puerta á juicio, y en la plaza hacía preparar mi asiento, 
+[8]{#verse-Job-29-8 .bibleverse} Los mozos me veían, y se escondían; y los viejos se levantaban, y estaban en pie; 
+[9]{#verse-Job-29-9 .bibleverse} Los príncipes detenían sus palabras, ponían la mano sobre su boca; 
+[10]{#verse-Job-29-10 .bibleverse} La voz de los principales se ocultaba, y su lengua se pegaba á su paladar: 
+[11]{#verse-Job-29-11 .bibleverse} Cuando los oídos que me oían, me llamaban bienaventurado, y los ojos que me veían, me daban testimonio: 
+[12]{#verse-Job-29-12 .bibleverse} Porque libraba al pobre que gritaba, y al huérfano que carecía de ayudador. 
+[13]{#verse-Job-29-13 .bibleverse} La bendición del que se iba á perder venía sobre mí; y al corazón de la viuda daba alegría. 
+[14]{#verse-Job-29-14 .bibleverse} Vestíame de justicia, y ella me vestía como un manto; y mi toca era juicio. 
+[15]{#verse-Job-29-15 .bibleverse} Yo era ojos al ciego, y pies al cojo. 
+[16]{#verse-Job-29-16 .bibleverse} A los menesterosos era padre; y de la causa que no entendía, me informaba con diligencia: 
+[17]{#verse-Job-29-17 .bibleverse} Y quebraba los colmillos del inicuo, y de sus dientes hacía soltar la presa. 
+[18]{#verse-Job-29-18 .bibleverse} Y decía yo: En mi nido moriré, y como arena multiplicaré días. 
+[19]{#verse-Job-29-19 .bibleverse} Mi raíz estaba abierta junto á las aguas, y en mis ramas permanecía el rocío. 
+[20]{#verse-Job-29-20 .bibleverse} Mi honra se renovaba en mí, y mi arco se corroboraba en mi mano. 
+[21]{#verse-Job-29-21 .bibleverse} Oíanme, y esperaban; y callaban á mi consejo. 
+[22]{#verse-Job-29-22 .bibleverse} Tras mi palabra no replicaban, y mi razón destilaba sobre ellos. 
+[23]{#verse-Job-29-23 .bibleverse} Y esperábanme como á la lluvia, y abrían su boca como á la lluvia tardía. 
+[24]{#verse-Job-29-24 .bibleverse} Si me reía con ellos, no lo creían: y no abatían la luz de mi rostro. 
+[25]{#verse-Job-29-25 .bibleverse} Calificaba yo el camino de ellos, y sentábame en cabecera; y moraba como rey en el ejército, como el que consuela llorosos. 
+
+<h2 class="chaptertitle">[&nbsp;30&nbsp;](ch021.xhtml)<span><span id="chapter-Job-30"></span></span></h2>
+ 
+[1]{#verse-Job-30-1 .bibleverse} Mas ahora los más mozos de días que yo, se ríen de mí; cuyos padres yo desdeñara ponerlos con los perros de mi ganado. 
+[2]{#verse-Job-30-2 .bibleverse} Porque ¿para qué yo habría menester la fuerza de sus manos, en los cuales había perecido con el tiempo? 
+[3]{#verse-Job-30-3 .bibleverse} Por causa de la pobreza y del hambre andaban solos; huían á la soledad, á lugar tenebroso, asolado y desierto. 
+[4]{#verse-Job-30-4 .bibleverse} Que cogían malvas entre los arbustos, y raíces de enebro para calentarse. 
+[5]{#verse-Job-30-5 .bibleverse} Eran echados de entre las gentes, y todos les daban grita como al ladrón. 
+[6]{#verse-Job-30-6 .bibleverse} Habitaban en las barrancas de los arroyos, en las cavernas de la tierra, y en las rocas. 
+[7]{#verse-Job-30-7 .bibleverse} Bramaban entre las matas, y se reunían debajo de las espinas. 
+[8]{#verse-Job-30-8 .bibleverse} Hijos de viles, y hombres sin nombre, más bajos que la misma tierra. 
+[9]{#verse-Job-30-9 .bibleverse} Y ahora yo soy su canción, y he sido hecho su refrán. 
+[10]{#verse-Job-30-10 .bibleverse} Abomínanme, aléjanse de mí, y aun de mi rostro no detuvieron su saliva. 
+[11]{#verse-Job-30-11 .bibleverse} Porque Dios desató mi cuerda, y me afligió, por eso se desenfrenaron delante de mi rostro. 
+[12]{#verse-Job-30-12 .bibleverse} A la mano derecha se levantaron los jóvenes; empujaron mis pies, y sentaron contra mí las vías de su ruina. 
+[13]{#verse-Job-30-13 .bibleverse} Mi senda desbarataron, aprovecháronse de mi quebrantamiento, contra los cuales no hubo ayudador. 
+[14]{#verse-Job-30-14 .bibleverse} Vinieron como por portillo ancho, revolviéronse á mi calamidad. 
+[15]{#verse-Job-30-15 .bibleverse} Hanse revuelto turbaciones sobre mí; combatieron como viento mi alma, y mi salud pasó como nube.
+
+ 
+[16]{#verse-Job-30-16 .bibleverse} Y ahora mi alma está derramada en mí; días de aflicción me han aprehendido. 
+[17]{#verse-Job-30-17 .bibleverse} De noche taladra sobre mí mis huesos, y mis pulsos no reposan. 
+[18]{#verse-Job-30-18 .bibleverse} Con la grande copia de materia mi vestidura está demudada; cíñeme como el cuello de mi túnica. 
+[19]{#verse-Job-30-19 .bibleverse} Derribóme en el lodo, y soy semejante al polvo y á la ceniza. 
+[20]{#verse-Job-30-20 .bibleverse} Clamo á ti, y no me oyes; preséntome, y no me atiendes. 
+[21]{#verse-Job-30-21 .bibleverse} Haste tornado cruel para mí: con la fortaleza de tu mano me amenazas. 
+[22]{#verse-Job-30-22 .bibleverse} Levantásteme, é hicísteme cabalgar sobre el viento, y disolviste mi sustancia. 
+[23]{#verse-Job-30-23 .bibleverse} Porque yo conozco que me reduces á la muerte; y á la casa determinada á todo viviente.
+
+ 
+[24]{#verse-Job-30-24 .bibleverse} Mas él no extenderá la mano contra el sepulcro; ¿clamarán los sepultados cuando él los quebrantare? 
+[25]{#verse-Job-30-25 .bibleverse} ¿No lloré yo al afligido? Y mi alma ¿no se entristeció sobre el menesteroso? 
+[26]{#verse-Job-30-26 .bibleverse} Cuando esperaba yo el bien, entonces vino el mal; y cuando esperaba luz, la oscuridad vino. 
+[27]{#verse-Job-30-27 .bibleverse} Mis entrañas hierven, y no reposan; días de aflicción me han sobrecogido. 
+[28]{#verse-Job-30-28 .bibleverse} Denegrido ando, y no por el sol: levantádome he en la congregación, y clamado. 
+[29]{#verse-Job-30-29 .bibleverse} He venido á ser hermano de los dragones, y compañero de los buhos. 
+[30]{#verse-Job-30-30 .bibleverse} Mi piel está denegrida sobre mí, y mis huesos se secaron con ardentía. 
+[31]{#verse-Job-30-31 .bibleverse} Y hase tornado mi arpa en luto, y mi órgano en voz de lamentadores. 
+
+<h2 class="chaptertitle">[&nbsp;31&nbsp;](ch021.xhtml)<span><span id="chapter-Job-31"></span></span></h2>
+ 
+[1]{#verse-Job-31-1 .bibleverse} Hice pacto con mis ojos: ¿cómo pues había yo de pensar en virgen? 
+[2]{#verse-Job-31-2 .bibleverse} Porque ¿qué galardón me daría de arriba Dios, y qué heredad el Omnipotente de las alturas? 
+[3]{#verse-Job-31-3 .bibleverse} ¿No hay quebrantamiento para el impío, y extrañamiento para los que obran iniquidad? 
+[4]{#verse-Job-31-4 .bibleverse} ¿No ve él mis caminos, y cuenta todos mis pasos? 
+[5]{#verse-Job-31-5 .bibleverse} Si anduve con mentira, y si mi pie se apresuró á engaño, 
+[6]{#verse-Job-31-6 .bibleverse} Péseme Dios en balanzas de justicia, y conocerá mi integridad. 
+[7]{#verse-Job-31-7 .bibleverse} Si mis pasos se apartaron del camino, y si mi corazón se fué tras mis ojos, y si algo se apegó á mis manos, 
+[8]{#verse-Job-31-8 .bibleverse} Siembre yo, y otro coma, y mis verduras sean arrancadas. 
+[9]{#verse-Job-31-9 .bibleverse} Si fué mi corazón engañado acerca de mujer, y si estuve acechando á la puerta de mi prójimo: 
+[10]{#verse-Job-31-10 .bibleverse} Muela para otro mi mujer, y sobre ella otros se encorven. 
+[11]{#verse-Job-31-11 .bibleverse} Porque es maldad é iniquidad, que han de castigar los jueces. 
+[12]{#verse-Job-31-12 .bibleverse} Porque es fuego que devoraría hasta el sepulcro, y desarraigaría toda mi hacienda. 
+[13]{#verse-Job-31-13 .bibleverse} Si hubiera tenido en poco el derecho de mi siervo y de mi sierva, cuando ellos pleitearan conmigo, 
+[14]{#verse-Job-31-14 .bibleverse} ¿Qué haría yo cuando Dios se levantase? y cuando él visitara, ¿qué le respondería yo? 
+[15]{#verse-Job-31-15 .bibleverse} El que en el vientre me hizo á mí, ¿no lo hizo á él? ¿y no nos dispuso uno mismo en la matriz? 
+[16]{#verse-Job-31-16 .bibleverse} Si estorbé el contento de los pobres, é hice desfallecer los ojos de la viuda; 
+[17]{#verse-Job-31-17 .bibleverse} Y si comí mi bocado solo, y no comió de él el huérfano; 
+[18]{#verse-Job-31-18 .bibleverse} (Porque desde mi mocedad creció conmigo como con padre, y desde el vientre de mi madre fuí guía de la viuda;) 
+[19]{#verse-Job-31-19 .bibleverse} Si he visto que pereciera alguno sin vestido, y al menesteroso sin cobertura; 
+[20]{#verse-Job-31-20 .bibleverse} Si no me bendijeron sus lomos, y del vellón de mis ovejas se calentaron; 
+[21]{#verse-Job-31-21 .bibleverse} Si alcé contra el huérfano mi mano, aunque viese que me ayudarían en la puerta; 
+[22]{#verse-Job-31-22 .bibleverse} Mi espalda se caiga de mi hombro, y mi brazo sea quebrado de mi canilla. 
+[23]{#verse-Job-31-23 .bibleverse} Porque temí el castigo de Dios, contra cuya alteza yo no tendría poder. 
+[24]{#verse-Job-31-24 .bibleverse} Si puse en oro mi esperanza, y dije al oro: Mi confianza eres tú; 
+[25]{#verse-Job-31-25 .bibleverse} Si me alegré de que mi hacienda se multiplicase, y de que mi mano hallase mucho; 
+[26]{#verse-Job-31-26 .bibleverse} Si he mirado al sol cuando resplandecía, y á la luna cuando iba hermosa, 
+[27]{#verse-Job-31-27 .bibleverse} Y mi corazón se engañó en secreto, y mi boca besó mi mano: 
+[28]{#verse-Job-31-28 .bibleverse} Esto también fuera maldad juzgada; porque habría negado al Dios soberano. 
+[29]{#verse-Job-31-29 .bibleverse} Si me alegré en el quebrantamiento del que me aborrecía, y me regocijé cuando le halló el mal; 
+[30]{#verse-Job-31-30 .bibleverse} (Que ni aun entregué al pecado mi paladar, pidiendo maldición para su alma;) 
+[31]{#verse-Job-31-31 .bibleverse} Cuando mis domésticos decían: ¡Quién nos diese de su carne! nunca nos hartaríamos. 
+[32]{#verse-Job-31-32 .bibleverse} El extranjero no tenía fuera la noche; mis puertas abría al caminante. 
+[33]{#verse-Job-31-33 .bibleverse} Si encubrí, como los hombres mis prevaricaciones, escondiendo en mi seno mi iniquidad; 
+[34]{#verse-Job-31-34 .bibleverse} Porque quebrantaba á la gran multitud, y el menosprecio de las familias me atemorizó, y callé, y no salí de mi puerta:
+
+ 
+[35]{#verse-Job-31-35 .bibleverse} ¡Quién me diera quien me oyese! He aquí mi impresión es que el Omnipotente testificaría por mí, aunque mi adversario me hiciera el proceso. 
+[36]{#verse-Job-31-36 .bibleverse} Ciertamente yo lo llevaría sobre mi hombro, y me lo ataría en lugar de corona. 
+[37]{#verse-Job-31-37 .bibleverse} Yo le contaría el número de mis pasos, y como príncipe me llegaría á él. 
+[38]{#verse-Job-31-38 .bibleverse} Si mi tierra clama contra mí, y lloran todos sus surcos; 
+[39]{#verse-Job-31-39 .bibleverse} Si comí su sustancia sin dinero, ó afligí el alma de sus dueños; 
+[40]{#verse-Job-31-40 .bibleverse} En lugar de trigo me nazcan abrojos, y espinas en lugar de cebada. Acábanse las palabras de Job. 
+
+<h2 class="chaptertitle">[&nbsp;32&nbsp;](ch021.xhtml)<span><span id="chapter-Job-32"></span></span></h2>
+ 
+[1]{#verse-Job-32-1 .bibleverse} Y cesaron estos tres varones de responder á Job, por cuanto él era justo en sus ojos. 
+[2]{#verse-Job-32-2 .bibleverse} Entonces Eliú hijo de Barachêl, Bucita,, de la familia de Ram, se enojó con furor contra Job: enojóse con furor, por cuanto justificaba su vida más que á Dios. 
+[3]{#verse-Job-32-3 .bibleverse} Enojóse asimismo con furor contra sus tres amigos, porque no hallaban qué responder, aunque habían condenado á Job. 
+[4]{#verse-Job-32-4 .bibleverse} Y Eliú había esperado á Job en la disputa, porque eran más viejos de días que él. 
+[5]{#verse-Job-32-5 .bibleverse} Empero viendo Eliú que no había respuesta en la boca de aquellos tres varones, su furor se encendió. 
+[6]{#verse-Job-32-6 .bibleverse} Y respondió Eliú hijo de Barachêl, Bucita, y dijo: Yo soy menor de días, y vosotros viejos; he tenido por tanto miedo, y temido declararos mi opinión.
+
+ 
+[7]{#verse-Job-32-7 .bibleverse} Yo decía: Los días hablarán, y la muchedumbre de años declarará sabiduría. 
+[8]{#verse-Job-32-8 .bibleverse} Ciertamente espíritu hay en el hombre, é inspiración del Omnipotente los hace que entiendan. 
+[9]{#verse-Job-32-9 .bibleverse} No los grandes son los sabios, ni los viejos entienden el derecho. 
+[10]{#verse-Job-32-10 .bibleverse} Por tanto yo dije: Escuchadme; declararé yo también mi sabiduría. 
+[11]{#verse-Job-32-11 .bibleverse} He aquí yo he esperado á vuestras razones, he escuchado vuestros argumentos, en tanto que buscabais palabras. 
+[12]{#verse-Job-32-12 .bibleverse} Os he pues prestado atención, y he aquí que no hay de vosotros quien redarguya á Job, y responda á sus razones. 
+[13]{#verse-Job-32-13 .bibleverse} Porque no digáis: Nosotros hemos hallado sabiduría: lanzólo Dios, no el hombre. 
+[14]{#verse-Job-32-14 .bibleverse} Ahora bien, Job no enderezó á mí sus palabras, ni yo le responderé con vuestras razones.
+
+ 
+[15]{#verse-Job-32-15 .bibleverse} Espantáronse, no respondieron más: fuéronseles los razonamientos. 
+[16]{#verse-Job-32-16 .bibleverse} Yo pues he esperado, porque no hablaban, antes pararon, y no respondieron más. 
+[17]{#verse-Job-32-17 .bibleverse} Por eso yo también responderé mi parte, también yo declararé mi juicio. 
+[18]{#verse-Job-32-18 .bibleverse} Porque lleno estoy de palabras, y el espíritu de mi vientre me constriñe. 
+[19]{#verse-Job-32-19 .bibleverse} De cierto mi vientre está como el vino que no tiene respiradero, y se rompe como odres nuevos. 
+[20]{#verse-Job-32-20 .bibleverse} Hablaré pues y respiraré; abriré mis labios, y responderé. 
+[21]{#verse-Job-32-21 .bibleverse} No haré ahora acepción de personas, ni usaré con hombre de lisonjeros títulos. 
+[22]{#verse-Job-32-22 .bibleverse} Porque no sé hablar lisonjas: de otra manera en breve mi Hacedor me consuma. 
+
+<h2 class="chaptertitle">[&nbsp;33&nbsp;](ch021.xhtml)<span><span id="chapter-Job-33"></span></span></h2>
+ 
+[1]{#verse-Job-33-1 .bibleverse} Por tanto, Job, oye ahora mis razones, y escucha todas mis palabras. 
+[2]{#verse-Job-33-2 .bibleverse} He aquí yo abriré ahora mi boca, y mi lengua hablará en mi garganta. 
+[3]{#verse-Job-33-3 .bibleverse} Mis razones declararán la rectitud de mi corazón, y mis labios proferirán pura sabiduría. 
+[4]{#verse-Job-33-4 .bibleverse} El espíritu de Dios me hizo, y la inspiración del Omnipotente me dió vida. 
+[5]{#verse-Job-33-5 .bibleverse} Si pudieres, respóndeme; dispón tus palabras, está delante de mí. 
+[6]{#verse-Job-33-6 .bibleverse} Heme aquí á mí en lugar de Dios, conforme á tu dicho: de lodo soy yo también formado. 
+[7]{#verse-Job-33-7 .bibleverse} He aquí que mi terror no te espantará, ni mi mano se agravará sobre ti.
+
+ 
+[8]{#verse-Job-33-8 .bibleverse} De cierto tú dijiste á oídos míos, y yo oí la voz de tus palabras que decían: 
+[9]{#verse-Job-33-9 .bibleverse} Yo soy limpio y sin defecto; y soy inocente, y no hay maldad en mí. 
+[10]{#verse-Job-33-10 .bibleverse} He aquí que él buscó achaques contra mí, y me tiene por su enemigo; 
+[11]{#verse-Job-33-11 .bibleverse} Puso mis pies en el cepo, y guardó todas mis sendas. 
+[12]{#verse-Job-33-12 .bibleverse} He aquí en esto no has hablado justamente: yo te responderé que mayor es Dios que el hombre.
+
+ 
+[13]{#verse-Job-33-13 .bibleverse} ¿Por qué tomaste pleito contra él? Porque él no da cuenta de ninguna de sus razones. 
+[14]{#verse-Job-33-14 .bibleverse} Sin embargo, en una ó en dos maneras habla Dios; mas el hombre no entiende. 
+[15]{#verse-Job-33-15 .bibleverse} Por sueño de visión nocturna, cuando el sueño cae sobre los hombres, cuando se adormecen sobre el lecho; 
+[16]{#verse-Job-33-16 .bibleverse} Entonces revela al oído de los hombres, y les señala su consejo; 
+[17]{#verse-Job-33-17 .bibleverse} Para quitar al hombre de su obra, y apartar del varón la soberbia. 
+[18]{#verse-Job-33-18 .bibleverse} Detendrá su alma de corrupción, y su vida de que pase á cuchillo. 
+[19]{#verse-Job-33-19 .bibleverse} También sobre su cama es castigado con dolor fuerte en todos sus huesos, 
+[20]{#verse-Job-33-20 .bibleverse} Que le hace que su vida aborrezca el pan, y su alma la comida suave. 
+[21]{#verse-Job-33-21 .bibleverse} Su carne desfallece sin verse, y sus huesos, que antes no se veían, aparecen. 
+[22]{#verse-Job-33-22 .bibleverse} Y su alma se acerca al sepulcro, y su vida á los que causan la muerte. 
+[23]{#verse-Job-33-23 .bibleverse} Si tuviera cerca de él algún elocuente anunciador muy escogido, que anuncie al hombre su deber; 
+[24]{#verse-Job-33-24 .bibleverse} Que le diga que Dios tuvo de él misericordia, que lo libró de descender al sepulcro, que halló redención: 
+[25]{#verse-Job-33-25 .bibleverse} Enterneceráse su carne más que de niño, volverá á los días de su mocedad. 
+[26]{#verse-Job-33-26 .bibleverse} Orará á Dios, y le amará, y verá su faz con júbilo: y él restituirá al hombre su justicia. 
+[27]{#verse-Job-33-27 .bibleverse} El mira sobre los hombres; y el que dijere: Pequé, y pervertí lo recto, y no me ha aprovechado; 
+[28]{#verse-Job-33-28 .bibleverse} Dios redimirá su alma, que no pase al sepulcro, y su vida se verá en luz.
+
+ 
+[29]{#verse-Job-33-29 .bibleverse} He aquí, todas estas cosas hace Dios dos y tres veces con el hombre; 
+[30]{#verse-Job-33-30 .bibleverse} Para apartar su alma del sepulcro, y para iluminarlo con la luz de los vivientes. 
+[31]{#verse-Job-33-31 .bibleverse} Escucha, Job, y óyeme; calla, y yo hablaré. 
+[32]{#verse-Job-33-32 .bibleverse} Que si tuvieres razones, respóndeme: habla, porque yo te quiero justificar. 
+[33]{#verse-Job-33-33 .bibleverse} Y si no, óyeme tú á mí; calla, y enseñarte he sabiduría. 
+
+<h2 class="chaptertitle">[&nbsp;34&nbsp;](ch021.xhtml)<span><span id="chapter-Job-34"></span></span></h2>
+ 
+[1]{#verse-Job-34-1 .bibleverse} Además respondió Eliú, y dijo: 
+[2]{#verse-Job-34-2 .bibleverse} Oid, sabios, mis palabras; y vosotros, doctos, estadme atentos. 
+[3]{#verse-Job-34-3 .bibleverse} Porque el oído prueba las palabras, como el paladar gusta para comer. 
+[4]{#verse-Job-34-4 .bibleverse} Escojamos para nosotros el juicio, conozcamos entre nosotros cuál sea lo bueno: 
+[5]{#verse-Job-34-5 .bibleverse} Porque Job ha dicho: Yo soy justo, y Dios me ha quitado mi derecho. 
+[6]{#verse-Job-34-6 .bibleverse} ¿He de mentir yo contra mi razón? Mi saeta es gravosa sin haber yo prevaricado.
+
+ 
+[7]{#verse-Job-34-7 .bibleverse} ¿Qué hombre hay como Job, que bebe el escarnio como agua? 
+[8]{#verse-Job-34-8 .bibleverse} Y va en compañía con los que obran iniquidad, y anda con los hombres maliciosos. 
+[9]{#verse-Job-34-9 .bibleverse} Porque ha dicho: De nada servirá al hombre el conformar su voluntad con Dios. 
+[10]{#verse-Job-34-10 .bibleverse} Por tanto, varones de seso, oidme: Lejos esté de Dios la impiedad, y del Omnipotente la iniquidad. 
+[11]{#verse-Job-34-11 .bibleverse} Porque él pagará al hombre según su obra, y él le hará hallar conforme á su camino. 
+[12]{#verse-Job-34-12 .bibleverse} Sí, por cierto, Dios no hará injusticia, y el Omnipotente no pervertirá el derecho. 
+[13]{#verse-Job-34-13 .bibleverse} ¿Quién visitó por él la tierra? ¿y quién puso en orden todo el mundo? 
+[14]{#verse-Job-34-14 .bibleverse} Si él pusiese sobre el hombre su corazón, y recogiese así su espíritu y su aliento, 
+[15]{#verse-Job-34-15 .bibleverse} Toda carne perecería juntamente, y el hombre se tornaría en polvo. 
+[16]{#verse-Job-34-16 .bibleverse} Si pues hay en ti entendimiento, oye esto: escucha la voz de mis palabras. 
+[17]{#verse-Job-34-17 .bibleverse} ¿Enseñorearáse el que aborrece juicio? ¿y condenarás tú al que es tan justo? 
+[18]{#verse-Job-34-18 .bibleverse} ¿Hase de decir al rey: Perverso; y á los príncipes: Impíos? 
+[19]{#verse-Job-34-19 .bibleverse} ¿Cuánto menos á aquel que no hace acepción de personas de príncipes, ni el rico es de él más respetado que el pobre? porque todos son obras de sus manos. 
+[20]{#verse-Job-34-20 .bibleverse} En un momento morirán, y á media noche se alborotarán los pueblos, y pasarán, y sin mano será quitado el poderoso. 
+[21]{#verse-Job-34-21 .bibleverse} Porque sus ojos están sobre los caminos del hombre, y ve todos sus pasos. 
+[22]{#verse-Job-34-22 .bibleverse} No hay tinieblas ni sombra de muerte donde se encubran los que obran maldad. 
+[23]{#verse-Job-34-23 .bibleverse} No carga pues él al hombre más de lo justo, para que vaya con Dios á juicio. 
+[24]{#verse-Job-34-24 .bibleverse} El quebrantará á los fuertes sin pesquisa, y hará estar otros en su lugar. 
+[25]{#verse-Job-34-25 .bibleverse} Por tanto él hará notorias las obras de ellos, cuando los trastornará en la noche, y serán quebrantados. 
+[26]{#verse-Job-34-26 .bibleverse} Como á malos los herirá en lugar donde sean vistos: 
+[27]{#verse-Job-34-27 .bibleverse} Por cuanto así se apartaron de él, y no consideraron todos sus caminos; 
+[28]{#verse-Job-34-28 .bibleverse} Haciendo venir delante de él el clamor del pobre, y que oiga el clamor de los necesitados. 
+[29]{#verse-Job-34-29 .bibleverse} Y si él diere reposo, ¿quién inquietará? si escondiere el rostro, ¿quién lo mirará? Esto sobre una nación, y lo mismo sobre un hombre; 
+[30]{#verse-Job-34-30 .bibleverse} Haciendo que no reine el hombre hipócrita para vejaciones del pueblo.
+
+ 
+[31]{#verse-Job-34-31 .bibleverse} De seguro conviene se diga á Dios: Llevado he ya castigo, no más ofenderé: 
+[32]{#verse-Job-34-32 .bibleverse} Enséñame tú lo que yo no veo: que si hice mal, no lo haré más. 
+[33]{#verse-Job-34-33 .bibleverse} ¿Ha de ser eso según tu mente? El te retribuirá, ora rehuses, ora aceptes, y no yo: di si no, lo que tú sabes. 
+[34]{#verse-Job-34-34 .bibleverse} Los hombres de seso dirán conmigo, y el hombre sabio me oirá: 
+[35]{#verse-Job-34-35 .bibleverse} Que Job no habla con sabiduría, y que sus palabras no son con entendimiento. 
+[36]{#verse-Job-34-36 .bibleverse} Deseo yo que Job sea probado ampliamente, á causa de sus respuestas por los hombres inicuos. 
+[37]{#verse-Job-34-37 .bibleverse} Porque á su pecado añadió impiedad: bate las manos entre nosotros, y contra Dios multiplica sus palabras. 
+
+<h2 class="chaptertitle">[&nbsp;35&nbsp;](ch021.xhtml)<span><span id="chapter-Job-35"></span></span></h2>
+ 
+[1]{#verse-Job-35-1 .bibleverse} Y procediendo Eliú en su razonamiento, dijo: 
+[2]{#verse-Job-35-2 .bibleverse} ¿Piensas ser conforme á derecho esto que dijiste: Más justo soy yo que Dios? 
+[3]{#verse-Job-35-3 .bibleverse} Porque dijiste: ¿Qué ventaja sacarás tú de ello? ¿ó qué provecho tendré de mi pecado? 
+[4]{#verse-Job-35-4 .bibleverse} Yo te responderé razones, y á tus compañeros contigo. 
+[5]{#verse-Job-35-5 .bibleverse} Mira á los cielos, y ve, y considera que las nubes son más altas que tú. 
+[6]{#verse-Job-35-6 .bibleverse} Si pecares, ¿qué habrás hecho contra él? y si tus rebeliones se multiplicaren, ¿qué le harás tú? 
+[7]{#verse-Job-35-7 .bibleverse} Si fueres justo, ¿qué le darás á él? ¿ó qué recibirá de tu mano? 
+[8]{#verse-Job-35-8 .bibleverse} Al hombre como tú dañará tu impiedad, y al hijo del hombre aprovechará tu justicia.
+
+ 
+[9]{#verse-Job-35-9 .bibleverse} A causa de la multitud de las violencias clamarán, y se lamentarán por el poderío de los grandes. 
+[10]{#verse-Job-35-10 .bibleverse} Y ninguno dice: ¿Dónde está Dios mi Hacedor, que da canciones en la noche, 
+[11]{#verse-Job-35-11 .bibleverse} Que nos enseña más que á las bestias de la tierra, y nos hace sabios más que las aves del cielo? 
+[12]{#verse-Job-35-12 .bibleverse} Allí clamarán, y él no oirá, por la soberbia de los malos. 
+[13]{#verse-Job-35-13 .bibleverse} Ciertamente Dios no oirá la vanidad, ni la mirará el Omnipotente. 
+[14]{#verse-Job-35-14 .bibleverse} Aunque más digas, No lo mirará; haz juicio delante de él, y en él espera. 
+[15]{#verse-Job-35-15 .bibleverse} Mas ahora, porque en su ira no visita, ni conoce con rigor, por eso Job abrió su boca vanamente, y multiplica palabras sin sabiduría. 
+
+<h2 class="chaptertitle">[&nbsp;36&nbsp;](ch021.xhtml)<span><span id="chapter-Job-36"></span></span></h2>
+ 
+[1]{#verse-Job-36-1 .bibleverse} Y añadió Eliú, y dijo: 
+[2]{#verse-Job-36-2 .bibleverse} Espérame un poco, y enseñarte he; porque todavía tengo razones en orden á Dios. 
+[3]{#verse-Job-36-3 .bibleverse} Tomaré mi noticia de lejos, y atribuiré justicia á mi Hacedor. 
+[4]{#verse-Job-36-4 .bibleverse} Porque de cierto no son mentira mis palabras; contigo está el que es íntegro en sus conceptos.
+
+ 
+[5]{#verse-Job-36-5 .bibleverse} He aquí que Dios es grande, mas no desestima á nadie: es poderoso en fuerza de sabiduría. 
+[6]{#verse-Job-36-6 .bibleverse} No otorgará vida al impío, y á los afligidos dará su derecho. 
+[7]{#verse-Job-36-7 .bibleverse} No quitará sus ojos del justo; antes bien con los reyes los pondrá en solio para siempre, y serán ensalzados. 
+[8]{#verse-Job-36-8 .bibleverse} Y si estuvieren prendidos en grillos, y aprisionados en las cuerdas de aflicción, 
+[9]{#verse-Job-36-9 .bibleverse} El les dará á conocer la obra de ellos, y que prevalecieron sus rebeliones. 
+[10]{#verse-Job-36-10 .bibleverse} Despierta además el oído de ellos para la corrección, y díceles que se conviertan de la iniquidad. 
+[11]{#verse-Job-36-11 .bibleverse} Si oyeren, y le sirvieren, acabarán sus días en bien, y sus años en deleites. 
+[12]{#verse-Job-36-12 .bibleverse} Mas si no oyeren, serán pasados á cuchillo, y perecerán sin sabiduría. 
+[13]{#verse-Job-36-13 .bibleverse} Empero los hipócritas de corazón lo irritarán más, y no clamarán cuando él los atare. 
+[14]{#verse-Job-36-14 .bibleverse} Fallecerá el alma de ellos en su mocedad, y su vida entre los sodomitas. 
+[15]{#verse-Job-36-15 .bibleverse} Al pobre librará de su pobreza, y en la aflicción despertará su oído.
+
+ 
+[16]{#verse-Job-36-16 .bibleverse} Asimismo te apartaría de la boca de la angustia á lugar espacioso, libre de todo apuro; y te asentará mesa llena de grosura. 
+[17]{#verse-Job-36-17 .bibleverse} Mas tú has llenado el juicio del impío, en vez de sustentar el juicio y la justicia. 
+[18]{#verse-Job-36-18 .bibleverse} Por lo cual teme que en su ira no te quite con golpe, el cual no puedas apartar de ti con gran rescate. 
+[19]{#verse-Job-36-19 .bibleverse} ¿Hará él estima de tus riquezas, ni del oro, ni de todas las fuerzas del poder? 
+[20]{#verse-Job-36-20 .bibleverse} No anheles la noche, en que desaparecen los pueblos de su lugar. 
+[21]{#verse-Job-36-21 .bibleverse} Guárdate, no tornes á la iniquidad; pues ésta escogiste más bien que la aflicción. 
+[22]{#verse-Job-36-22 .bibleverse} He aquí que Dios es excelso con su potencia: ¿qué enseñador semejante á él? 
+[23]{#verse-Job-36-23 .bibleverse} ¿Quién le ha prescrito su camino? ¿y quién le dirá: Iniquidad has hecho? 
+[24]{#verse-Job-36-24 .bibleverse} Acuérdate de engrandecer su obra, la cual contemplan los hombres. 
+[25]{#verse-Job-36-25 .bibleverse} Los hombres todos la ven; mírala el hombre de lejos.
+
+ 
+[26]{#verse-Job-36-26 .bibleverse} He aquí, Dios es grande, y nosotros no le conocemos; ni se puede rastrear el número de sus años. 
+[27]{#verse-Job-36-27 .bibleverse} El reduce las gotas de las aguas, al derramarse la lluvia según el vapor; 
+[28]{#verse-Job-36-28 .bibleverse} Las cuales destilan las nubes, goteando en abundancia sobre los hombres. 
+[29]{#verse-Job-36-29 .bibleverse} ¿Quién podrá tampoco comprender la extensión de las nubes, y el sonido estrepitoso de su pabellón? 
+[30]{#verse-Job-36-30 .bibleverse} He aquí que sobre él extiende su luz, y cobija con ella las raíces de la mar. 
+[31]{#verse-Job-36-31 .bibleverse} Bien que por esos medios castiga á los pueblos, á la multitud da comida. 
+[32]{#verse-Job-36-32 .bibleverse} Con las nubes encubre la luz, y mándale no brillar, interponiendo aquéllas. 
+[33]{#verse-Job-36-33 .bibleverse} Tocante á ella anunciará el trueno, su compañero, que hay acumulación de ira sobre el que se eleva. 
+
+<h2 class="chaptertitle">[&nbsp;37&nbsp;](ch021.xhtml)<span><span id="chapter-Job-37"></span></span></h2>
+ 
+[1]{#verse-Job-37-1 .bibleverse} A esto también se espanta mi corazón, y salta de su lugar. 
+[2]{#verse-Job-37-2 .bibleverse} Oid atentamente su voz terrible, y el sonido que sale de su boca. 
+[3]{#verse-Job-37-3 .bibleverse} Debajo de todos los cielos lo dirige, y su luz hasta los fines de la tierra. 
+[4]{#verse-Job-37-4 .bibleverse} Después de ella bramará el sonido, tronará él con la voz de su magnificencia; y aunque sea oída su voz, no los detiene. 
+[5]{#verse-Job-37-5 .bibleverse} Tronará Dios maravillosamente con su voz; él hace grandes cosas, que nosotros no entendemos. 
+[6]{#verse-Job-37-6 .bibleverse} Porque á la nieve dice: Desciende á la tierra; también á la llovizna, y á los aguaceros de su fortaleza. 
+[7]{#verse-Job-37-7 .bibleverse} Así hace retirarse á todo hombre, para que los hombres todos reconozcan su obra. 
+[8]{#verse-Job-37-8 .bibleverse} La bestia se entrará en su escondrijo, y estaráse en sus moradas. 
+[9]{#verse-Job-37-9 .bibleverse} Del mediodía viene el torbellino, y el frío de los vientos del norte. 
+[10]{#verse-Job-37-10 .bibleverse} Por el soplo de Dios se da el hielo, y las anchas aguas son constreñidas. 
+[11]{#verse-Job-37-11 .bibleverse} Regando también llega á disipar la densa nube, y con su luz esparce la niebla. 
+[12]{#verse-Job-37-12 .bibleverse} Asimismo por sus designios se revuelven las nubes en derredor, para hacer sobre la haz del mundo, en la tierra, lo que él les mandara. 
+[13]{#verse-Job-37-13 .bibleverse} Unas veces por azote, otras por causa de su tierra, otras por misericordia las hará parecer.
+
+ 
+[14]{#verse-Job-37-14 .bibleverse} Escucha esto, Job; repósate, y considera las maravillas de Dios. 
+[15]{#verse-Job-37-15 .bibleverse} ¿Supiste tú cuándo Dios las ponía en concierto, y hacía levantar la luz de su nube? 
+[16]{#verse-Job-37-16 .bibleverse} ¿Has tú conocido las diferencias de las nubes, las maravillas del Perfecto en sabiduría? 
+[17]{#verse-Job-37-17 .bibleverse} ¿Por qué están calientes tus vestidos cuando se fija el viento del mediodía sobre la tierra? 
+[18]{#verse-Job-37-18 .bibleverse} ¿Extendiste tú con él los cielos, firmes como un espejo sólido? 
+[19]{#verse-Job-37-19 .bibleverse} Muéstranos qué le hemos de decir; porque nosotros no podemos componer las ideas á causa de las tinieblas. 
+[20]{#verse-Job-37-20 .bibleverse} ¿Será preciso contarle cuando yo hablaré? Por más que el hombre razone, quedará como abismado. 
+[21]{#verse-Job-37-21 .bibleverse} He aquí aún: no se puede mirar la luz esplendente en los cielos, luego que pasa el viento y los limpia, 
+[22]{#verse-Job-37-22 .bibleverse} Viniendo de la parte del norte la dorada claridad. En Dios hay una majestad terrible. 
+[23]{#verse-Job-37-23 .bibleverse} El es Todopoderoso, al cual no alcanzamos, grande en potencia; y en juicio y en multitud de justicia no afligirá. 
+[24]{#verse-Job-37-24 .bibleverse} Temerlo han por tanto los hombres: él no mira á los sabios de corazón. 
+
+<h2 class="chaptertitle">[&nbsp;38&nbsp;](ch021.xhtml)<span><span id="chapter-Job-38"></span></span></h2>
+ 
+[1]{#verse-Job-38-1 .bibleverse} Y respondió Jehová á Job desde un torbellino, y dijo: 
+[2]{#verse-Job-38-2 .bibleverse} ¿Quién es ése que oscurece el consejo con palabras sin sabiduría? 
+[3]{#verse-Job-38-3 .bibleverse} Ahora ciñe como varón tus lomos; yo te preguntaré, y hazme saber tú.
+
+ 
+[4]{#verse-Job-38-4 .bibleverse} ¿Dónde estabas cuando yo fundaba la tierra? házmelo saber, si tienes inteligencia. 
+[5]{#verse-Job-38-5 .bibleverse} ¿Quién ordenó sus medidas, si lo sabes? ¿ó quién extendió sobre ella cordel? 
+[6]{#verse-Job-38-6 .bibleverse} ¿Sobre qué están fundadas sus basas? ¿ó quién puso su piedra angular, 
+[7]{#verse-Job-38-7 .bibleverse} Cuando las estrellas todas del alba alababan, y se regocijaban todos los hijos de Dios? 
+[8]{#verse-Job-38-8 .bibleverse} ¿Quién encerró con puertas la mar, cuando se derramaba por fuera como saliendo de madre; 
+[9]{#verse-Job-38-9 .bibleverse} Cuando puse yo nubes por vestidura suya, y por su faja oscuridad. 
+[10]{#verse-Job-38-10 .bibleverse} Y establecí sobre ella mi decreto, y le puse puertas y cerrojo, 
+[11]{#verse-Job-38-11 .bibleverse} Y dije: Hasta aquí vendrás, y no pasarás adelante, y ahí parará la hinchazón de tus ondas? 
+[12]{#verse-Job-38-12 .bibleverse} ¿Has tú mandado á la mañana en tus días? ¿has mostrado al alba su lugar, 
+[13]{#verse-Job-38-13 .bibleverse} Para que ocupe los fines de la tierra, y que sean sacudidos de ella los impíos? 
+[14]{#verse-Job-38-14 .bibleverse} Trasmúdase como lodo bajo de sello, y viene á estar como con vestidura: 
+[15]{#verse-Job-38-15 .bibleverse} Mas la luz de los impíos es quitada de ellos, y el brazo enaltecido es quebrantado. 
+[16]{#verse-Job-38-16 .bibleverse} ¿Has entrado tú hasta los profundos de la mar, y has andado escudriñando el abismo? 
+[17]{#verse-Job-38-17 .bibleverse} ¿Hante sido descubiertas las puertas de la muerte, y has visto las puertas de la sombra de muerte? 
+[18]{#verse-Job-38-18 .bibleverse} ¿Has tú considerado hasta las anchuras de la tierra? Declara si sabes todo esto. 
+[19]{#verse-Job-38-19 .bibleverse} ¿Por dónde va el camino á la habitación de la luz, y dónde está el lugar de las tinieblas? 
+[20]{#verse-Job-38-20 .bibleverse} ¿Si llevarás tú ambas cosas á sus términos, y entenderás las sendas de su casa? 
+[21]{#verse-Job-38-21 .bibleverse} ¿Sabíaslo tú porque hubieses ya nacido, ó porque es grande el número de tus días? 
+[22]{#verse-Job-38-22 .bibleverse} ¿Has tú entrado en los tesoros de la nieve, ó has visto los tesoros del granizo, 
+[23]{#verse-Job-38-23 .bibleverse} Lo cual tengo yo reservado para el tiempo de angustia, para el día de la guerra y de la batalla? 
+[24]{#verse-Job-38-24 .bibleverse} ¿Por qué camino se reparte la luz, y se esparce el viento solano sobre la tierra? 
+[25]{#verse-Job-38-25 .bibleverse} ¿Quién repartió conducto al turbión, y camino á los relámpagos y truenos, 
+[26]{#verse-Job-38-26 .bibleverse} Haciendo llover sobre la tierra deshabitada, sobre el desierto, donde no hay hombre, 
+[27]{#verse-Job-38-27 .bibleverse} Para hartar la tierra desierta é inculta, y para hacer brotar la tierna hierba? 
+[28]{#verse-Job-38-28 .bibleverse} ¿Tiene la lluvia padre? ¿ó quién engendró las gotas del rocío? 
+[29]{#verse-Job-38-29 .bibleverse} ¿De qué vientre salió el hielo? y la escarcha del cielo, ¿quién la engendró? 
+[30]{#verse-Job-38-30 .bibleverse} Las aguas se endurecen á manera de piedra, y congélase la haz del abismo. 
+[31]{#verse-Job-38-31 .bibleverse} ¿Podrás tú impedir las delicias de las Pléyades, ó desatarás las ligaduras del Orión? 
+[32]{#verse-Job-38-32 .bibleverse} ¿Sacarás tú á su tiempo los signos de los cielos, ó guiarás el Arcturo con sus hijos? 
+[33]{#verse-Job-38-33 .bibleverse} ¿Supiste tú las ordenanzas de los cielos? ¿dispondrás tú de su potestad en la tierra? 
+[34]{#verse-Job-38-34 .bibleverse} ¿Alzarás tú á las nubes tu voz, para que te cubra muchedumbre de aguas? 
+[35]{#verse-Job-38-35 .bibleverse} ¿Enviarás tú los relámpagos, para que ellos vayan? ¿y diránte ellos: Henos aquí? 
+[36]{#verse-Job-38-36 .bibleverse} ¿Quién puso la sabiduría en el interior? ¿ó quién dió al entendimiento la inteligencia? 
+[37]{#verse-Job-38-37 .bibleverse} ¿Quién puso por cuenta los cielos con sabiduría? y los odres de los cielos, ¿quién los hace parar, 
+[38]{#verse-Job-38-38 .bibleverse} Cuando el polvo se ha convertido en dureza, y los terrones se han pegado unos con otros? 
+
+<h2 class="chaptertitle">[&nbsp;39&nbsp;](ch021.xhtml)<span><span id="chapter-Job-39"></span></span></h2>
+ 
+[1]{#verse-Job-39-1 .bibleverse} ¿Cazarás tú la presa para el león? ¿y saciarás el hambre de los leoncillos, 
+[2]{#verse-Job-39-2 .bibleverse} Cuando están echados en las cuevas, ó se están en sus guaridas para acechar? 
+[3]{#verse-Job-39-3 .bibleverse} ¿Quién preparó al cuervo su alimento, cuando sus pollos claman á Dios, bullendo de un lado á otro por carecer de comida? 
+[4]{#verse-Job-39-4 .bibleverse} ¿Sabes tú el tiempo en que paren las cabras monteses? ¿ó miraste tú las ciervas cuando están pariendo? 
+[5]{#verse-Job-39-5 .bibleverse} ¿Contaste tú los meses de su preñez, y sabes el tiempo cuando han de parir? 
+[6]{#verse-Job-39-6 .bibleverse} Encórvanse, hacen salir sus hijos, pasan sus dolores. 
+[7]{#verse-Job-39-7 .bibleverse} Sus hijos están sanos, crecen con el pasto: salen y no vuelven á ellas. 
+[8]{#verse-Job-39-8 .bibleverse} ¿Quién echó libre al asno montés, y quién soltó sus ataduras? 
+[9]{#verse-Job-39-9 .bibleverse} Al cual yo puse casa en la soledad, y sus moradas en lugares estériles. 
+[10]{#verse-Job-39-10 .bibleverse} Búrlase de la multitud de la ciudad: no oye las voces del arriero. 
+[11]{#verse-Job-39-11 .bibleverse} Lo oculto de los montes es su pasto, y anda buscando todo lo que está verde. 
+[12]{#verse-Job-39-12 .bibleverse} ¿Querrá el unicornio servirte á ti, ni quedar á tu pesebre? 
+[13]{#verse-Job-39-13 .bibleverse} ¿Atarás tú al unicornio con su coyunda para el surco? ¿labrará los valles en pos de ti? 
+[14]{#verse-Job-39-14 .bibleverse} ¿Confiarás tú en él, por ser grande su fortaleza, y le fiarás tu labor? 
+[15]{#verse-Job-39-15 .bibleverse} ¿Fiarás de él que te tornará tu simiente, y que la allegará en tu era? 
+[16]{#verse-Job-39-16 .bibleverse} ¿Diste tú hermosas alas al pavo real, ó alas y plumas al avestruz? 
+[17]{#verse-Job-39-17 .bibleverse} El cual desampara en la tierra sus huevos, y sobre el polvo los calienta, 
+[18]{#verse-Job-39-18 .bibleverse} Y olvídase de que los pisará el pie, y que los quebrará bestia del campo. 
+[19]{#verse-Job-39-19 .bibleverse} Endurécese para con sus hijos, como si no fuesen suyos, no temiendo que su trabajo haya sido en vano: 
+[20]{#verse-Job-39-20 .bibleverse} Porque le privó Dios de sabiduría, y no le dió inteligencia. 
+[21]{#verse-Job-39-21 .bibleverse} Luego que se levanta en alto, búrlase del caballo y de su jinete. 
+[22]{#verse-Job-39-22 .bibleverse} ¿Diste tú al caballo la fortaleza? ¿vestiste tú su cerviz de relincho? 
+[23]{#verse-Job-39-23 .bibleverse} ¿Le intimidarás tú como á alguna langosta? El resoplido de su nariz es formidable: 
+[24]{#verse-Job-39-24 .bibleverse} Escarba la tierra, alégrase en su fuerza, sale al encuentro de las armas: 
+[25]{#verse-Job-39-25 .bibleverse} Hace burla del espanto, y no teme, ni vuelve el rostro delante de la espada. 
+[26]{#verse-Job-39-26 .bibleverse} Contra él suena la aljaba, el hierro de la lanza y de la pica: 
+[27]{#verse-Job-39-27 .bibleverse} Y él con ímpetu y furor escarba la tierra, sin importarle el sonido de la bocina; 
+[28]{#verse-Job-39-28 .bibleverse} Antes como que dice entre los clarines: ¡Ea!, y desde lejos huele la batalla, el grito de los capitanes, y la vocería. 
+[29]{#verse-Job-39-29 .bibleverse} ¿Vuela el gavilán por tu industria, y extiende hacia el mediodía sus alas? 
+[30]{#verse-Job-39-30 .bibleverse} ¿Se remonta el águila por tu mandamiento, y pone en alto su nido? Ella habita y está en la piedra, en la cumbre del peñasco y de la roca. Desde allí acecha la comida: sus ojos observan de muy lejos. Sus pollos chupan la sangre: y donde hubiere cadáveres, allí está. A más de eso respondió Jehová á Job, y dijo: ¿Es sabiduría contender con el Omnipotente? El que disputa con Dios, responda á esto. Y respondió Job á Jehová, y dijo: He aquí que yo soy vil, ¿qué te responderé? Mi mano pongo sobre mi boca. Una vez hablé, y no responderé: aun dos veces, mas no tornaré á hablar. 
+
+<h2 class="chaptertitle">[&nbsp;40&nbsp;](ch021.xhtml)<span><span id="chapter-Job-40"></span></span></h2>
+ 
+[1]{#verse-Job-40-1 .bibleverse} Entonces respondió Jehová á Job desde la oscuridad, y dijo: 
+[2]{#verse-Job-40-2 .bibleverse} Cíñete ahora como varón tus lomos; yo te preguntaré, y explícame. 
+[3]{#verse-Job-40-3 .bibleverse} ¿Invalidarás tú también mi juicio? ¿me condenarás á mí, para justificarte á ti? 
+[4]{#verse-Job-40-4 .bibleverse} ¿Tienes tú brazo como Dios? ¿y tronarás tú con voz como él? 
+[5]{#verse-Job-40-5 .bibleverse} Atavíate ahora de majestad y de alteza: y vístete de honra y de hermosura. 
+[6]{#verse-Job-40-6 .bibleverse} Esparce furores de tu ira: y mira á todo soberbio, y abátelo. 
+[7]{#verse-Job-40-7 .bibleverse} Mira á todo soberbio, y humíllalo, y quebranta á los impíos en su asiento. 
+[8]{#verse-Job-40-8 .bibleverse} Encúbrelos á todos en el polvo, venda sus rostros en la oscuridad; 
+[9]{#verse-Job-40-9 .bibleverse} Y yo también te confesaré que podrá salvarte tu diestra. 
+[10]{#verse-Job-40-10 .bibleverse} He aquí ahora behemoth, al cual yo hice contigo; hierba come como buey. 
+[11]{#verse-Job-40-11 .bibleverse} He aquí ahora que su fuerza está en sus lomos, y su fortaleza en el ombligo de su vientre. 
+[12]{#verse-Job-40-12 .bibleverse} Su cola mueve como un cedro, y los nervios de sus genitales son entretejidos. 
+[13]{#verse-Job-40-13 .bibleverse} Sus huesos son fuertes como bronce, y sus miembros como barras de hierro. 
+[14]{#verse-Job-40-14 .bibleverse} El es la cabeza de los caminos de Dios: el que lo hizo, puede hacer que su cuchillo á él se acerque. 
+[15]{#verse-Job-40-15 .bibleverse} Ciertamente los montes producen hierba para él: y toda bestia del campo retoza allá. 
+[16]{#verse-Job-40-16 .bibleverse} Echaráse debajo de las sombras, en lo oculto de las cañas, y de los lugares húmedos. 
+[17]{#verse-Job-40-17 .bibleverse} Los árboles sombríos lo cubren con su sombra; los sauces del arroyo lo cercan. 
+[18]{#verse-Job-40-18 .bibleverse} He aquí que él tomará el río sin inmutarse: y confíase que el Jordán pasará por su boca. 
+[19]{#verse-Job-40-19 .bibleverse} ¿Tomarálo alguno por sus ojos en armadijos, y horadará su nariz? 
+
+<h2 class="chaptertitle">[&nbsp;41&nbsp;](ch021.xhtml)<span><span id="chapter-Job-41"></span></span></h2>
+ 
+[1]{#verse-Job-41-1 .bibleverse} ¿Sacarás tú al leviathán con el anzuelo, ó con la cuerda que le echares en su lengua? 
+[2]{#verse-Job-41-2 .bibleverse} ¿Pondrás tú garfio en sus narices, y horadarás con espinas su quijada? 
+[3]{#verse-Job-41-3 .bibleverse} ¿Multiplicará él ruegos para contigo? ¿hablaráte él lisonjas? 
+[4]{#verse-Job-41-4 .bibleverse} ¿Hará concierto contigo para que lo tomes por siervo perpetuo? 
+[5]{#verse-Job-41-5 .bibleverse} ¿Jugarás tú con él como con pájaro, ó lo atarás para tus niñas? 
+[6]{#verse-Job-41-6 .bibleverse} ¿Harán de él banquete los compañeros? ¿partiránlo entre los mercaderes? 
+[7]{#verse-Job-41-7 .bibleverse} ¿Cortarás tú con cuchillo su cuero, ó con asta de pescadores su cabeza? 
+[8]{#verse-Job-41-8 .bibleverse} Pon tu mano sobre él; te acordarás de la batalla, y nunca más tornarás. 
+[9]{#verse-Job-41-9 .bibleverse} He aquí que la esperanza acerca de él será burlada: porque aun á su sola vista se desmayarán. 
+[10]{#verse-Job-41-10 .bibleverse} Nadie hay tan osado que lo despierte: ¿quién pues podrá estar delante de mí? 
+[11]{#verse-Job-41-11 .bibleverse} ¿Quién me ha anticipado, para que yo restituya? Todo lo que hay debajo del cielo es mío. 
+[12]{#verse-Job-41-12 .bibleverse} Yo no callaré sus miembros, ni lo de sus fuerzas y la gracia de su disposición. 
+[13]{#verse-Job-41-13 .bibleverse} ¿Quién descubrirá la delantera de su vestidura? ¿quién se llegará á él con freno doble? 
+[14]{#verse-Job-41-14 .bibleverse} ¿Quién abrirá las puertas de su rostro? Los órdenes de sus dientes espantan. 
+[15]{#verse-Job-41-15 .bibleverse} La gloria de su vestido son escudos fuertes, cerrados entre sí estrechamente. 
+[16]{#verse-Job-41-16 .bibleverse} El uno se junta con el otro, que viento no entra entre ellos. 
+[17]{#verse-Job-41-17 .bibleverse} Pegado está el uno con el otro, están trabados entre sí, que no se pueden apartar. 
+[18]{#verse-Job-41-18 .bibleverse} Con sus estornudos encienden lumbre, y sus ojos son como los párpados del alba. 
+[19]{#verse-Job-41-19 .bibleverse} De su boca salen hachas de fuego; centellas de fuego proceden. 
+[20]{#verse-Job-41-20 .bibleverse} De sus narices sale humo, como de una olla ó caldero que hierve. 
+[21]{#verse-Job-41-21 .bibleverse} Su aliento enciende los carbones, y de su boca sale llama. 
+[22]{#verse-Job-41-22 .bibleverse} En su cerviz mora la fortaleza, y espárcese el desaliento delante de él. 
+[23]{#verse-Job-41-23 .bibleverse} Las partes momias de su carne están apretadas: están en él firmes, y no se mueven. 
+[24]{#verse-Job-41-24 .bibleverse} Su corazón es firme como una piedra, y fuerte como la muela de abajo. 
+[25]{#verse-Job-41-25 .bibleverse} De su grandeza tienen temor los fuertes, y á causa de su desfallecimiento hacen por purificarse. 
+[26]{#verse-Job-41-26 .bibleverse} Cuando alguno lo alcanzare, ni espada, ni lanza, ni dardo, ni coselete durará. 
+[27]{#verse-Job-41-27 .bibleverse} El hierro estima por pajas, y el acero por leño podrido. 
+[28]{#verse-Job-41-28 .bibleverse} Saeta no le hace huir; las piedras de honda se le tornan aristas. 
+[29]{#verse-Job-41-29 .bibleverse} Tiene toda arma por hojarascas, y del blandir de la pica se burla. 
+[30]{#verse-Job-41-30 .bibleverse} Por debajo tiene agudas conchas; Imprime su agudez en el suelo. 
+[31]{#verse-Job-41-31 .bibleverse} Hace hervir como una olla la profunda mar, y tórnala como una olla de ungüento. 
+[32]{#verse-Job-41-32 .bibleverse} En pos de sí hace resplandecer la senda, que parece que la mar es cana. 
+[33]{#verse-Job-41-33 .bibleverse} No hay sobre la tierra su semejante, hecho para nada temer. 
+[34]{#verse-Job-41-34 .bibleverse} Menosprecia toda cosa alta: es rey sobre todos los soberbios. 
+
+<h2 class="chaptertitle">[&nbsp;42&nbsp;](ch021.xhtml)<span><span id="chapter-Job-42"></span></span></h2>
+ 
+[1]{#verse-Job-42-1 .bibleverse} Y respondió Job á Jehová, y dijo: 
+[2]{#verse-Job-42-2 .bibleverse} Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti. 
+[3]{#verse-Job-42-3 .bibleverse} ¿Quién es el que oscurece el consejo sin ciencia? por tanto yo denunciaba lo que no entendía; cosas que me eran ocultas, y que no las sabía. 
+[4]{#verse-Job-42-4 .bibleverse} Oye, te ruego, y hablaré: te preguntaré, y tú me enseñarás. 
+[5]{#verse-Job-42-5 .bibleverse} De oídas te había oído; mas ahora mis ojos te ven. 
+[6]{#verse-Job-42-6 .bibleverse} Por tanto me aborrezco, y me arrepiento en el polvo y en la ceniza.
+
+ 
+[7]{#verse-Job-42-7 .bibleverse} Y aconteció que después que habló Jehová estas palabras á Job, Jehová dijo á Eliphaz Temanita: Mi ira se encendió contra ti y tus dos compañeros: porque no habéis hablado por mí lo recto, como mi siervo Job. 
+[8]{#verse-Job-42-8 .bibleverse} Ahora pues, tomaos siete becerros y siete carneros, y andad á mi siervo Job, y ofreced holocausto por vosotros, y mi siervo Job orará por vosotros; porque de cierto á él atenderé para no trataros afrentosamente, por cuanto no habéis hablado por mí con rectitud, como mi siervo Job.
+
+ 
+[9]{#verse-Job-42-9 .bibleverse} Fueron pues Eliphaz Temanita, y Bildad Suhita, y Sophar Naamatita, é hicieron como Jehová les dijo: y Jehová atendió á Job.
+
+ 
+[10]{#verse-Job-42-10 .bibleverse} Y mudó Jehová la aflicción de Job, orando él por sus amigos: y aumentó al doble todas las cosas que habían sido de Job. 
+[11]{#verse-Job-42-11 .bibleverse} Y vinieron á él todos sus hermanos, y todas sus hermanas, y todos los que antes le habían conocido, y comieron con él pan en su casa, y condoliéronse de él, y consoláronle de todo aquel mal que sobre él había Jehová traído; y cada uno de ellos le dió una pieza de moneda, y un zarcillo de oro.
+
+ 
+[12]{#verse-Job-42-12 .bibleverse} Y bendijo Jehová la postrimería de Job más que su principio; porque tuvo catorce mil ovejas, y seis mil camellos, y mil yuntas de bueyes, y mil asnas. 
+[13]{#verse-Job-42-13 .bibleverse} Y tuvo siete hijos y tres hijas. 
+[14]{#verse-Job-42-14 .bibleverse} Y llamó el nombre de la una, Jemimah, y el nombre de la segunda, Cesiah, y el nombre de la tercera, Keren-happuch. 
+[15]{#verse-Job-42-15 .bibleverse} Y no se hallaron mujeres tan hermosas como las hijas de Job en toda la tierra: y dióles su padre herencia entre sus hermanos. 
+[16]{#verse-Job-42-16 .bibleverse} Y después de esto vivió Job ciento y cuarenta años, y vió á sus hijos, y á los hijos de sus hijos, hasta la cuarta generación. 
+[17]{#verse-Job-42-17 .bibleverse} Murió pues Job viejo, y lleno de días. 

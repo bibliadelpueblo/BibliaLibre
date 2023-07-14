@@ -17,7 +17,11 @@ Program.Language = "spanish";
 Program.Replace = "/SEÑOR/[Señor]{.smallcaps}";
 // replace uppercase words with smallcaps
 Program.Preprocess = txt => Regex.Replace(txt, @"(?<!(^|\n)#.*?)[A-ZÑÓÍÉÁÚÄÜÖ][A-ZÑÓÍÉÁÚÄÜÖ]+", m => {
-        if (m.Value == "II") return m.Value;
+
+        if (Regex.IsMatch(m.Value, "^[IVXCD]+$", RegexOptions.Singleline)) {
+            // is roman number
+            return m.Value;
+        }
         
         var str = new StringBuilder("[");
         str.Append(m.Value[0]);
