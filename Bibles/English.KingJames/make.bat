@@ -4,7 +4,7 @@ cd tex
 @REM xelatex Biblia14ptB5
 @REM del BibliaDelPinoleroLetraGrandeB5.pdf
 @REM ren Biblia14ptB5.pdf BibliaDelPinoleroLetraGrandeB5.pdf
-xelatex Biblia11ptB5
+xelatex Biblia11ptB5 -output-directory ..\out\pdf
 del BibliaDelPinoleroB5.pdf
 ren Biblia11ptB5.pdf BibliaDelPinoleroB5.pdf
 

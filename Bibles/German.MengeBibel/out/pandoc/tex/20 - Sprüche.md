@@ -1,0 +1,1102 @@
+# DIE SPRÜCHE
+
+## I. Erste Sammlung von Sprüchen Salomos (Kap. 1-9)
+
+### 1. Überschrift; Angabe des Zweckes der Schrift; Leitspruch des Buches (V.7)
+
+# 1
+\bibleverse{1}(Dies sind) die Sprüche Salomos, des Sohnes Davids, des Königs von Israel:
+\bibleverse{2}damit man Weisheit und Zucht<sup title=“= Gesittung”>&#x2732;</sup> lernt, Verständnis gewinnt für verständige Reden,
+\bibleverse{3}damit man Zucht erlangt<sup title=“oder: Bildung annimmt”>&#x2732;</sup>, welche Besonnenheit verleiht, Gerechtigkeit, Sittlichkeit und Ehrenhaftigkeit,
+\bibleverse{4}damit den Unerfahrenen Klugheit zuteil wird, den Jünglingen Erkenntnis und Lebenskunst.
+\bibleverse{5}Auch der Weise möge sie vernehmen, um an Wissen zuzunehmen, und der Verständige möge sich (durch sie) Lebensklugheit aneignen,
+\bibleverse{6}um Sinnsprüche und bildliche Rede zu verstehen, die Worte der Weisen und ihre Rätsel<sup title=“= dunklen Aussprüche”>&#x2732;</sup>.
+
+\bibleverse{7}Die Furcht des HERRN ist der Anfang der Erkenntnis<sup title=“9,10”>&#x2732;</sup>; die Toren verachten Weisheit und Zucht<sup title=“= Gesittung”>&#x2732;</sup>.
+
+### 2. Aufforderung zu williger Folgsamkeit; Warnung vor Verführung, besonders vor Teilnahme an Gewalttaten
+
+\bibleverse{8}Höre, mein Sohn, auf die Belehrung<sup title=“oder: Zucht”>&#x2732;</sup> deines Vaters und achte nicht gering die Unterweisung deiner Mutter!
+\bibleverse{9}Denn sie sind ein schöner Kranz für dein Haupt und eine Schmuckkette für deinen Hals.
+\bibleverse{10}Mein Sohn, wenn Sünder<sup title=“= böse Menschen”>&#x2732;</sup> dich locken, so willige nicht ein.
+\bibleverse{11}Wenn sie zu dir sagen: »Komm mit uns! Wir wollen auf Bluttaten ausgehen, dem Unschuldigen ohne Ursache auflauern!
+\bibleverse{12}Wir wollen sie verschlingen wie das Totenreich, lebendig und mit Haut und Haaren, wie solche, die in die Grube hinabgefahren sind!
+\bibleverse{13}Allerlei kostbares Gut wollen wir gewinnen, wollen unsere Häuser mit Raub anfüllen!
+\bibleverse{14}Du sollst gleichen Anteil mit uns haben: wir wollen alle eine gemeinsame Kasse haben!«
+\bibleverse{15}Mein Sohn, schließe dich ihnen auf ihren Wegen nicht an, halte deinen Fuß von ihrem Pfade zurück!
+\bibleverse{16}Denn ihre Füße laufen dem Bösen<sup title=“oder: Verderben”>&#x2732;</sup> zu und haben Eile, Blut zu vergießen.
+\bibleverse{17}Denn vergeblich ist das Netz ausgebreitet vor den Augen des gesamten Vogelvolkes;
+\bibleverse{18}vielmehr machen sie Anschläge gegen ihr eigenes Blut, stellen ihrem eigenen Leben nach.
+\bibleverse{19}So ergeht es (schließlich) allen, die nach unrechtem Gewinn trachten: dieses (Trachten) kostet seinem Besitzer das (eigene) Leben.
+
+### 3. Aufruf der Weisheit zu williger Beachtung ihrer Gebote; Drohungen an die Widerstrebenden
+
+\bibleverse{20}Die Weisheit erhebt ihren Ruf<sup title=“= predigt”>&#x2732;</sup> laut auf der Straße, läßt ihre Stimme auf den Märkten<sup title=“oder: freien Plätzen”>&#x2732;</sup> erschallen;
+\bibleverse{21}an der Ecke lärmerfüllter Straßen predigt sie; in den Eingängen der Stadttore, in der ganzen Stadt hält sie ihre Reden:
+\bibleverse{22}»Wie lange noch wollt ihr Einfältigen die Einfältigkeit lieben und ihr Spötter Gefallen am Spotten finden und ihr Toren Erkenntnis hassen?
+\bibleverse{23}Wendet euch meiner Zurechtweisung zu! Seht, ich will euch meinen Geist hervorströmen<sup title=“= meinem Unmut gegen euch freien Lauf”>&#x2732;</sup> lassen, will euch meine Worte<sup title=“= Warnungen oder: Drohungen”>&#x2732;</sup> kundtun.
+\bibleverse{24}Weil ich gerufen habe und ihr mich abgewiesen habt, weil ich mit der Hand gewinkt habe und niemand darauf geachtet hat,
+\bibleverse{25}ihr vielmehr jeden Ratschlag von mir verworfen und auf meine Zurechtweisung nichts gegeben habt:
+\bibleverse{26}so will auch ich bei eurem Unglück lachen, will spotten, wenn der Schrecken über euch kommt,
+\bibleverse{27}wenn der Schrecken euch überfällt wie ein Unwetter und euer Verderben wie ein Sturmwind heranzieht, wenn Angst und Bedrängnis über euch hereinbrechen.
+\bibleverse{28}Alsdann werden sie nach mir rufen, aber ich werde nicht antworten<sup title=“oder: hören”>&#x2732;</sup>; sie werden mich eifrig suchen, aber mich nicht finden.
+\bibleverse{29}Weil sie die Erkenntnis gehaßt und sich der Gottesfurcht nicht zugewandt,
+\bibleverse{30}meinen Ratschlägen kein Gehör geschenkt, jede Zurechtweisung von mir verschmäht haben: –
+\bibleverse{31}darum sollen sie die Frucht ihres Tuns zu schmecken bekommen und sich an ihren eigenen Anschlägen satt essen.
+\bibleverse{32}Denn den Einfältigen bringt ihr eigenes Widerstreben den Tod, und ihre eigene Sorglosigkeit stürzt die Toren ins Verderben;
+\bibleverse{33}wer aber auf mich hört, wird sicher wohnen und wohlgemut sein ohne Angst vor Unheil.«
+
+### 4. Die Segnungen des eifrigen Trachtens nach Weisheit
+
+# 2
+\bibleverse{1}Mein Sohn, wenn du meine Lehren annimmst und meine Weisungen bei dir verwahrst,
+\bibleverse{2}indem du dein Ohr auf Weisheit lauschen läßt und dein Herz der Einsicht zuwendest,
+\bibleverse{3}ja, wenn du nach der Verständigkeit rufst und deine Stimme laut nach der Einsicht erschallen läßt,
+\bibleverse{4}wenn du nach ihr suchst wie nach Silber und ihr nachspürst wie verborgenen Schätzen:
+\bibleverse{5}dann wirst du die Furcht vor dem HERRN verstehen lernen und die Erkenntnis Gottes gewinnen –
+\bibleverse{6}denn der HERR ist’s, der Weisheit verleiht: aus seinem Munde kommt Erkenntnis und Einsicht;
+\bibleverse{7}er hält für die Rechtschaffenen Glück in Bereitschaft und ist ein Schild für die, welche unsträflich wandeln,
+\bibleverse{8}indem er die Pfade des Rechts behütet und über dem Ergehen seiner Frommen wacht –;
+\bibleverse{9}dann wirst du Verständnis gewinnen für Gerechtigkeit und Recht, für Rechtschaffenheit (und überhaupt) für jegliche Bahn des Guten.
+\bibleverse{10}Denn Weisheit wird in dein Herz einziehen und Erkenntnis deiner Seele erfreulich sein;
+\bibleverse{11}Besonnenheit wird über dich wachen und Einsicht dich behüten,
+\bibleverse{12}indem sie dich vor dem Wege der Bösen bewahrt, vor den Menschen, die Verkehrtes<sup title=“= Trug”>&#x2732;</sup> reden,
+\bibleverse{13}vor denen, welche die geraden Pfade verlassen, um auf den Wegen der Finsternis zu wandeln;
+\bibleverse{14}die ihre Freude daran haben, Böses zu verüben, und über boshafte Verkehrtheit frohlocken;
+\bibleverse{15}deren Pfade krumm<sup title=“oder: falsch gerichtet”>&#x2732;</sup> sind und die in ihren Bahnen auf Abwege geraten –;
+\bibleverse{16}indem sie dich vom Eheweibe eines anderen fernhält, von der fremden Frau, die glatte Reden führt,
+\bibleverse{17}die den trauten Freund ihrer Jugend verlassen und den vor ihrem Gott geschlossenen Ehebund vergessen hat;
+\bibleverse{18}denn zum Tode sinkt ihr Pfad hinab, und zum Schattenreich (führen) ihre Bahnen;
+\bibleverse{19}keiner von denen, die zu ihr eingehen<sup title=“= die sich mit ihr einlassen”>&#x2732;</sup>, kehrt zurück, und keiner erreicht die Pfade des Lebens –;
+\bibleverse{20}damit du auf dem Wege der Guten wandelst und die Pfade der Gerechten einhältst.
+\bibleverse{21}Denn die Rechtschaffenen werden das Land bewohnen und die Unsträflichen darin übrigbleiben;
+\bibleverse{22}die Gottlosen aber werden aus dem Lande ausgerottet und die Treulosen aus ihm entwurzelt<sup title=“oder: herausgerissen”>&#x2732;</sup>.
+
+### 5. Einzelmahnungen und Lob der Weisheit
+
+#### a) Mahnungen zur Gottesfurcht und zu sittlichem Verhalten mit Hinweis auf den zu erwartenden Lohn
+
+# 3
+\bibleverse{1}Mein Sohn, vergiß meine Belehrung nicht und laß dein Herz meine Weisungen bewahren;
+\bibleverse{2}denn langes Leben und Jahre des Glücks und Wohlergehen werden sie dir in Fülle bringen. –
+\bibleverse{3}Liebe und Treue dürfen dich nicht verlassen: binde sie dir um den Hals, schreibe sie auf die Tafel deines Herzens,
+\bibleverse{4}so wirst du Gunst und Beifall gewinnen bei Gott und den Menschen. –
+\bibleverse{5}Vertraue auf den HERRN mit ganzem Herzen und verlaß dich nicht auf eigene Klugheit;
+\bibleverse{6}denke an ihn auf allen deinen Wegen, so wird er dir die Pfade ebnen. –
+\bibleverse{7}Halte dich nicht selbst für weise; fürchte den HERRN und halte dich fern vom Bösen:
+\bibleverse{8}das wird Arznei für deinen Leib sein und Labsal für deine Glieder. –
+\bibleverse{9}Ehre den HERRN mit (Gaben von) deinem Vermögen und mit den Erstlingen deines gesamten Feldertrags,
+\bibleverse{10}so werden deine Scheunen mit Überfluß sich füllen und deine Kufen von Most überfließen. –
+\bibleverse{11}Mein Sohn, verschmähe nicht die Zucht des HERRN und sei nicht unwillig über seine Strafe;
+\bibleverse{12}denn wen der HERR lieb hat, den züchtigt er, und zwar wie ein Vater den Sohn<sup title=“oder: das Kind”>&#x2732;</sup>, mit dem er’s gut meint.
+
+#### b) Wert und Segen der Weisheit
+
+\bibleverse{13}Wohl dem Menschen, der Weisheit erlangt hat, und wohl dem Manne, der Einsicht gewinnt!
+\bibleverse{14}Denn besser ist ihr Erwerb als der von Silber, und ihr Besitz ist mehr wert als Gold;
+\bibleverse{15}kostbarer ist sie als Perlen, und alle Kleinodien kommen ihr nicht gleich.
+\bibleverse{16}Langes Leben liegt in ihrer Rechten, in ihrer Linken Reichtum und Ehre.
+\bibleverse{17}Ihre Wege sind beglückende Wege, und alle ihre Pfade sind Wohlergehen.
+\bibleverse{18}Ein Baum des Lebens ist sie denen, die sie ergriffen haben, und wer sie festhält, ist glücklich zu preisen. –
+\bibleverse{19}Der HERR hat durch Weisheit die Erde gegründet und den Himmel durch Einsicht festgestellt;
+\bibleverse{20}durch seine Erkenntnis sind die Fluten der Tiefe (als Quellen) hervorgebrochen, und die Wolken lassen den Tau herabträufeln. –
+\bibleverse{21}Mein Sohn, laß sie nicht aus deinen Augen entschwinden; halte fest an kluger Überlegung und Besonnenheit:
+\bibleverse{22}so werden sie Leben für deine Seele sein und ein schöner Schmuck für deinen Hals;
+\bibleverse{23}dann wirst du deinen Weg in Sicherheit wandeln und mit deinem Fuß nicht anstoßen.
+\bibleverse{24}Wenn du dich schlafen legst, braucht dir nicht zu grauen; und legst du dich nieder, so wird dein Schlummer süß sein;
+\bibleverse{25}du brauchst dich nicht vor plötzlichem Schrecken zu fürchten, auch nicht vor der Vernichtung der Gottlosen, wenn sie hereinbricht;
+\bibleverse{26}denn der HERR wird deine Zuversicht sein und deinen Fuß vor dem Fallstrick behüten.
+
+#### c) Warnungen vor Lieblosigkeit gegen den Nächsten und vor Gewalttätigkeit
+
+\bibleverse{27}Versage keinem Bedürftigen eine Wohltat, wenn es in deiner Macht steht, sie zu erweisen.
+\bibleverse{28}Sage nicht zu deinem Nächsten<sup title=“= Volksgenossen”>&#x2732;</sup>: »Geh (jetzt) und komm mal wieder!« und »Morgen will ich es dir geben«, während du es doch schon jetzt tun kannst. –
+\bibleverse{29}Ersinne nichts Böses gegen deinen Nächsten, während er arglos neben dir wohnt<sup title=“oder: bei dir weilt”>&#x2732;</sup>. –
+\bibleverse{30}Fange mit keinem Menschen Streit ohne Ursache an, wenn er dir nichts Böses zugefügt hat. –
+\bibleverse{31}Sei nicht neidisch auf gewalttätige Menschen und verstehe dich nicht zu einem von ihren Wegen!
+\bibleverse{32}Denn wer sich auf Abwege begibt, ist dem HERRN ein Greuel, aber mit den Redlichen hält er treue Freundschaft.
+\bibleverse{33}Der Fluch des HERRN (lastet) auf dem Hause des Gottlosen, aber die Wohnung der Gerechten segnet er;
+\bibleverse{34}für die Spötter wird er selbst ein Spötter, aber den Demütigen gibt er Gnade.
+\bibleverse{35}Zu Ehren gelangen die Weisen, aber den Toren verschafft die Schande einen Namen.
+
+### 6. Väterliche Ermahnung, nach der Weisheit zu streben und ihre Lehren zu befolgen
+
+# 4
+\bibleverse{1}Hört, ihr Kinder, die väterliche Unterweisung und merkt wohl auf, um Einsicht zu lernen!
+\bibleverse{2}Denn treffliche Lehre gebe ich euch: laßt meine Weisungen nicht unbeachtet!
+\bibleverse{3}Denn als ich noch als Sohn bei meinem Vater war, als zartes und einziges Kind unter der Obhut meiner Mutter,
+\bibleverse{4}da belehrte er mich und sagte zu mir: »Laß dein Herz meine Worte festhalten! Beobachte meine Weisungen, so wirst du leben.
+\bibleverse{5}Erwirb dir Weisheit, erwirb dir Einsicht, vergiß sie nicht und weiche nicht ab von den Worten meines Mundes!
+\bibleverse{6}Laß sie nicht außer acht, so wird sie dich behüten; gewinne sie lieb, so wird sie dich beschirmen.
+\bibleverse{7}Mit dem besten Teil deiner Habe erwirb dir Weisheit, und um den Preis deines ganzen Vermögens verschaffe dir Einsicht!
+\bibleverse{8}Halte sie hoch, so wird sie dir Ansehen verleihen, wird dich zu Ehren bringen, wenn du sie mit Liebe umfängst;
+\bibleverse{9}sie wird dir einen schönen Kranz aufs Haupt setzen, eine herrliche Krone dir bescheren.«
+
+\bibleverse{10}Höre, mein Sohn, und nimm meine Worte an, so werden dir viele Lebensjahre zuteil werden.
+\bibleverse{11}Über den Weg der Weisheit will ich dich belehren, will dich auf rechten Bahnen einhergehen lassen;
+\bibleverse{12}wenn du (auf ihnen) wandelst, wird dein Schritt nicht gehemmt sein, und wenn du läufst, wirst du nicht zu Fall kommen.
+\bibleverse{13}Halte an der Zucht fest, laß sie nicht fahren! Bewahre sie, denn sie ist dein Leben.
+\bibleverse{14}Begib dich nicht auf den Pfad der Gottlosen und schreite nicht einher auf dem Wege der Bösen!
+\bibleverse{15}Meide ihn, gehe nicht auf ihn hinüber! Wende dich von ihm ab und gehe daran vorüber!
+\bibleverse{16}Denn sie können nicht schlafen, wenn sie nicht Böses (zuvor) getan haben; und der Schlaf ist ihnen geraubt, wenn sie nicht jemand verführt haben;
+\bibleverse{17}denn das Brot, das sie essen, ist Gottlosigkeit, und der Wein, den sie trinken, ist Gewalttätigkeit.
+\bibleverse{18}Aber der Pfad der Gerechten gleicht dem Glanz des Morgenlichts, das immer heller leuchtet bis zur vollen Tageshöhe.
+\bibleverse{19}Der Weg der Gottlosen ist wie dunkle Nacht; sie gewahren nicht, worüber sie straucheln.
+
+\bibleverse{20}Mein Sohn, merke auf meine Worte, leihe meinen Reden dein Ohr!
+\bibleverse{21}Laß sie deinen Augen nie entschwinden, bewahre sie im Innersten deines Herzens!
+\bibleverse{22}Denn Leben sind sie für jeden, der sie erfaßt, und heilsame Arznei für seinen ganzen Leib.
+\bibleverse{23}Mehr als alles, was man zu bewachen hat, behüte dein Herz; denn von ihm hängt das Leben ab.
+\bibleverse{24}Tu Falschheit des Mundes von dir ab und laß Lug und Trug fern von deinen Lippen sein!
+\bibleverse{25}Dann können deine Augen geradeaus schauen und deine Augenlider frei vor dich hinblicken.
+\bibleverse{26}Laß deinen Fuß auf gerader Bahn gehen und alle deine Wege fest gerichtet sein!
+\bibleverse{27}Weiche nicht nach rechts noch nach links ab; halte deinen Fuß vom Bösen fern!
+
+### 7. Warnung vor dem Verkehr mit Ehebrecherinnen; Lob des ehelichen Lebens
+
+# 5
+\bibleverse{1}Mein Sohn, merke auf meine Weisheit und leihe meiner Einsicht dein Ohr,
+\bibleverse{2}um Besonnenheit zu beobachten und damit deine Lippen Erkenntnis bewahren.
+\bibleverse{3}Denn von Honigseim triefen die Lippen der fremden Frau<sup title=“vgl. 2,16”>&#x2732;</sup>, und glätter als Öl ist ihr Gaumen<sup title=“= Mund”>&#x2732;</sup>;
+\bibleverse{4}aber zuletzt ist sie bitter wie Wermut, scharf wie ein zweischneidiges Schwert.
+\bibleverse{5}Ihre Füße steigen zum Tode hinab, ihre Schritte sind geradeswegs zur Unterwelt<sup title=“oder: auf das Totenreich”>&#x2732;</sup> gerichtet.
+\bibleverse{6}Damit du nicht den Weg des Lebens einschlägst, sind ihre Bahnen unstet, ohne daß du es merkst.
+
+\bibleverse{7}Nun denn, mein Sohn, höre auf mich und weiche nicht ab von den Worten meines Mundes!
+\bibleverse{8}Halte deinen Weg fern von ihr und nahe dich nicht der Tür ihres Hauses,
+\bibleverse{9}damit du nicht anderen deine Ehre<sup title=“oder: Jugendblüte? Vermögen?”>&#x2732;</sup> hingeben mußt und (den Ertrag) deiner Jahre einem unerbittlichen (Rächer);
+\bibleverse{10}damit nicht Fremde sich an deinem Vermögen sättigen und dein mühsam Erworbenes nicht in das Haus eines andern kommt,
+\bibleverse{11}und du nicht schließlich seufzen mußt, wenn dir Leib und Fleisch dahingeschwunden ist,
+\bibleverse{12}und du klagen mußt: »Ach, warum habe ich die Zucht gehaßt, und warum hat mein Herz die Warnung mißachtet!
+\bibleverse{13}Warum habe ich nicht auf die Stimme meiner Lehrer gehört und meinen Erziehern kein Gehör geschenkt!
+\bibleverse{14}Beinahe wäre ich ganz ins Verderben geraten inmitten der Gerichtsversammlung und in der Gemeinde!«
+
+\bibleverse{15}Trinke Wasser nur aus deiner eigenen Zisterne<sup title=“= Brunnen”>&#x2732;</sup> und Quellwasser aus deinem eigenen Born!
+\bibleverse{16}Sollen deine Quellen sich auf die Straße ergießen, deine Wasserbäche auf die freien Plätze?
+\bibleverse{17}Nein, dir allein sollen sie angehören und keinem Fremden neben dir.
+\bibleverse{18}Dein Brunnquell möge gesegnet sein, daß du am Weibe deiner Jugend dich erfreust!
+\bibleverse{19}Das liebreizende Reh, die anmutige Gazelle – ihr Busen möge dich allezeit ergötzen, in ihrer Liebe sei immerdar trunken!
+\bibleverse{20}Denn warum wolltest du, mein Sohn, an einer Fremden dich ergötzen und den Busen einer anderen umarmen? –
+\bibleverse{21}Denn vor den Augen des HERRN liegen die Wege eines jeden offen da, und auf alle seine Pfade gibt er acht.
+\bibleverse{22}Die eigenen Verschuldungen fangen ihn, den Gottlosen, und durch die Bande seiner Sünde wird er festgehalten.
+\bibleverse{23}Sterben wird ein solcher infolge des Mangels an Zucht und ob seiner großen Torheit zum Sturz hintaumeln.
+
+### 8. Warnungen vor Bürgschaftsleistung, Trägheit, Falschheit und allem gottverhaßten Wesen
+
+# 6
+\bibleverse{1}Mein Sohn, hast du dich für deinen Nächsten verbürgt, für einen andern dich durch Handschlag verpflichtet,
+\bibleverse{2}bist du durch ein mündliches Versprechen gebunden und hast du dich durch eine Zusage verstricken lassen,
+\bibleverse{3}so tu doch ja dies, mein Sohn, damit du wieder frei wirst – denn du bist in die Gewalt deines Nächsten gefallen –: Gehe hin, wirf dich vor ihm nieder und bestürme deinen Nächsten mit Bitten!
+\bibleverse{4}Gönne deinen Augen keinen Schlaf und deinen Augenlidern keinen Schlummer!
+\bibleverse{5}Mache dich frei von ihm wie eine Gazelle aus der Hand (des Jägers) und wie ein Vogel aus der Hand des Vogelstellers! –
+
+\bibleverse{6}Gehe hin zur Ameise, du Fauler, sieh ihr Tun an, damit du klug wirst.
+\bibleverse{7}Obgleich sie kein Oberhaupt, keinen Vorsteher und Gebieter hat,
+\bibleverse{8}sorgt sie doch im Sommer für ihren Unterhalt, sammelt in der Erntezeit ihre Nahrung ein.
+\bibleverse{9}Wie lange noch willst du liegen bleiben, du Fauler? Wann endlich willst du von deinem Schlaf dich erheben?
+\bibleverse{10}»Noch ein wenig Schlaf, ein wenig Schlummer, noch ein wenig die Hände falten, um auszuruhen!«
+\bibleverse{11}So kommt denn die Verarmung an dich heran wie ein Schnellläufer<sup title=“oder: Landstreicher”>&#x2732;</sup> und der Mangel wie ein gewappneter Mann. –
+
+\bibleverse{12}Ein nichtswürdiger Mensch, ein heilloser Mann ist, wer mit Lug und Trug des Mundes umhergeht,
+\bibleverse{13}wer mit den Augen blinzelt, mit den Füßen scharrt, mit den Fingern Zeichen gibt,
+\bibleverse{14}wer hinterlistige Pläne im Herzen ersinnt, allezeit böse Anschläge schmiedet und Händel anstiftet.
+\bibleverse{15}Darum wird ihn das Verderben plötzlich ereilen; unvermutet wird er zerschmettert werden unheilbar. –
+
+\bibleverse{16}Sechs Dinge sind es, die der HERR haßt, und sieben sind seinem Herzen ein Greuel:
+\bibleverse{17}hochmütige Augen, eine Lügenzunge und Hände, die unschuldiges Blut vergießen;
+\bibleverse{18}ein Herz, das tückische Anschläge schmiedet, Füße, die eilends zu bösem Tun laufen;
+\bibleverse{19}wer als falscher Zeuge Lügen aussagt und Hader anstiftet unter Brüdern.
+
+### 9. Erneute Warnung vor dem Verkehr mit Ehebrecherinnen
+
+\bibleverse{20}Mein Sohn, halte das Gebot deines Vaters fest und laß nicht die Weisung deiner Mutter fahren!
+\bibleverse{21}Binde sie dir beständig aufs Herz, schlinge sie dir um den Hals!
+\bibleverse{22}Wenn du umhergehst, möge sie dich geleiten; wenn du dich niedergelegt hast, möge sie dich bewachen, und bist du aufgewacht, so möge sie sich mit dir unterreden.
+\bibleverse{23}Denn das Gebot ist eine Leuchte und die Weisung ein Licht; und die Zurechtweisungen der Zucht sind der Weg zum Leben(sglück):
+\bibleverse{24}sie sollen dich bewahren vor dem bösen Weibe, vor der glatten Zunge einer fremden Frau.
+\bibleverse{25}Trage in deinem Herzen kein Verlangen nach ihrer Schönheit und laß dich nicht von ihr durch ihre Blicke<sup title=“oder: ihr Augenzwinkern”>&#x2732;</sup> fangen!
+\bibleverse{26}Denn der Preis für eine Buhldirne beträgt höchstens einen Laib Brot, aber eine verheiratete Frau macht Jagd auf die kostbare Seele.
+\bibleverse{27}Kann wohl jemand Feuer in den Bausch des Gewandes fassen, ohne daß seine Kleider in Brand geraten?
+\bibleverse{28}Oder kann jemand über glühende Kohlen gehen, ohne sich die Füße zu verbrennen?
+\bibleverse{29}Ebenso ergeht es dem, der sich mit der Ehefrau eines andern einläßt: keiner, der sie berührt, kommt ungestraft davon.
+\bibleverse{30}Man verachtet den Dieb nicht, wenn er stiehlt, um seine Gier zu stillen, wenn ihn hungert;
+\bibleverse{31}doch wenn er ertappt wird, mag (muß) er siebenfachen Ersatz leisten, (am Ende gar) das ganze Vermögen seines Hauses hingeben;
+\bibleverse{32}wer aber mit einem verheirateten Weibe Ehebruch begeht, ist von Sinnen; nur wer sich selbst zugrunde richten will, tut so etwas.
+\bibleverse{33}Schläge und Schmach trägt er als Lohn davon, und seine Schande ist unauslöschlich;
+\bibleverse{34}denn Eifersucht ist wilder Zorn eines Ehemannes, und am Tage der Rache übt er keine Schonung:
+\bibleverse{35}er läßt sich auf keinerlei Sühnegeld ein und bleibt unerbittlich, magst du ihm auch noch so viele Geschenke bieten.
+
+#### Schilderung der Verführung zu ehebrecherischer Unzucht; Warnung vor ihren schlimmen Folgen
+
+# 7
+\bibleverse{1}Mein Sohn, bewahre meine Warnungen und halte meine Gebote im Gedächtnis fest!
+\bibleverse{2}Bewahre meine Gebote, so wirst du leben, und hüte meine Lehren wie deinen Augapfel!
+\bibleverse{3}Binde sie dir um die Finger, schreibe sie dir auf die Tafel deines Herzens!
+\bibleverse{4}Sage zur Weisheit: »Du bist meine Schwester«, und nenne die Einsicht deine vertraute Freundin,
+\bibleverse{5}damit sie dich von dem Eheweibe eines andern fernhält, von der fremden Frau, die glatte Reden führt<sup title=“2,16”>&#x2732;</sup>.
+
+\bibleverse{6}Denn als ich (einmal) am Fenster meines Hauses durch mein Gitter hinausschaute,
+\bibleverse{7}da sah ich unter den Unerfahrenen, bemerkte ich unter den jungen Leuten einen unverständigen Jüngling,
+\bibleverse{8}der auf der Straße hin und her ging, in der Nähe ihrer Ecke, und in der Richtung nach ihrem Hause schritt,
+\bibleverse{9}in der Dämmerung, am Abend des Tages, tief in der Nacht und in der Finsternis.
+\bibleverse{10}Da kam ihm auf einmal eine Frau entgegen im Anzug einer Lustdirne und mit arglistigem Herzen.
+\bibleverse{11}Sie ist in leidenschaftlicher Aufregung und wilder Unruhe, ihre Füße halten’s in ihrem Hause nicht aus;
+\bibleverse{12}bald ist sie auf der Straße, bald auf den freien Plätzen, und neben jeder Ecke lauert sie.
+\bibleverse{13}Nun hascht sie ihn, küßt ihn und sagt zu ihm mit frecher Miene:
+\bibleverse{14}»Dankopfer war ich schuldig: heute habe ich meine Gelübde entrichtet;
+\bibleverse{15}darum bin ich ausgegangen dir entgegen, um dich aufzusuchen, und habe dich nun gefunden.
+\bibleverse{16}Mit Teppichen habe ich mein Lager hergerichtet, mit bunten Decken von ägyptischem Linnen;
+\bibleverse{17}ich habe mein Bett mit Myrrhe, Aloe und Zimt besprengt.
+\bibleverse{18}Komm, wir wollen uns an der Liebe berauschen, bis zum Morgen in Liebeslust schwelgen!
+\bibleverse{19}Denn der Mann ist nicht daheim, er ist weithin auf Reisen gegangen;
+\bibleverse{20}die Geldtasche hat er mit sich genommen: erst am Vollmondstage kommt er wieder heim.«
+\bibleverse{21}Durch ihr eifriges Zureden verführte sie ihn, mit ihrem glatten Geschwätz riß sie ihn fort:
+\bibleverse{22}betört folgte er ihr wie ein Stier, der zur Schlachtung geht, und wie ein Hirsch, der ins Netz rennt,
+\bibleverse{23}bis ein Pfeil ihm das Herz durchbohrt; wie ein Vogel dem Fanggarn zueilt, ohne zu ahnen, daß es um sein Leben geht.
+
+\bibleverse{24}Nun denn, mein Sohn, so höre auf mich und achte auf die Mahnungen meines Mundes!
+\bibleverse{25}Laß dein Herz sich nicht auf ihre Wege locken, verirre dich nicht auf ihre Pfade!
+\bibleverse{26}denn viele Erschlagene hat sie zu Boden gestreckt, und zahlreich sind die, welche sie alle gemordet hat.
+\bibleverse{27}Ihr Haus bildet den Eingang zur Unterwelt, Wege, die zu den Kammern des Todes hinabführen.
+
+### 10. Einladung und Selbstempfehlung der Weisheit als Lehrmeisterin
+
+# 8
+\bibleverse{1}Horch! Die Weisheit ruft vernehmlich, und die Einsicht läßt ihre Stimme erschallen!
+\bibleverse{2}Oben auf den Höhen am Wege, da wo die Pfade zusammenlaufen<sup title=“= am Scheideweg”>&#x2732;</sup>, hat sie sich aufgestellt;
+\bibleverse{3}neben den Toren, am Ausgang der Stadt, am Eingang der Pforten ruft sie laut:
+\bibleverse{4}»An euch, ihr Männer, richte ich meinen Ruf, und meine Stimme ergeht an die Menschenkinder.
+\bibleverse{5}Gewinnt<sup title=“= erwerbt”>&#x2732;</sup>, ihr Einfältigen, Einsicht in Klugheit, und ihr Toren, gewinnt Einsicht in Verständigkeit!
+\bibleverse{6}Hört zu! Denn ich habe Wertvolles zu sagen, und meine Lippen will ich auftun zu (auf-) richtiger Rede;
+\bibleverse{7}denn mein Mund spricht Wahrheit aus, und Unehrlichkeit ist ein Greuel für meine Lippen.
+\bibleverse{8}Aufrichtig sind alle Reden meines Mundes: es ist nichts Hinterlistiges und Trügerisches in ihnen;
+\bibleverse{9}sie sind sämtlich klar für den Verständigen und richtig für die zur Erkenntnis Gelangten.
+\bibleverse{10}Nehmt Unterweisung lieber an als Silber, und Erkenntnis lieber als auserlesenes Gold!
+\bibleverse{11}Denn die Weisheit ist besser als Korallen<sup title=“oder: Perlen”>&#x2732;</sup>, und alle Kleinode kommen ihr nicht gleich.
+
+\bibleverse{12}Ich, die Weisheit, stehe im Bunde mit der Klugheit und verfüge über Erkenntnis wohldurchdachter Pläne.
+\bibleverse{13}Die Furcht des HERRN besteht im Haß gegen das Böse; Hoffart, Hochmut und bösen Wandel sowie den Mund<sup title=“= die Rede”>&#x2732;</sup> des Truges hasse ich.
+\bibleverse{14}Mir steht kluger Rat und Überlegung zu Gebot, ich verfüge über Einsicht, und ich besitze Tatkraft.
+\bibleverse{15}Durch mich üben die Könige ihre Königsmacht aus und erlassen die Machthaber gerechte Verordnungen;
+\bibleverse{16}durch mich betätigen sich die Herrscher als Herrscher und alle Richter auf Erden als Edle.
+\bibleverse{17}Ich liebe, die mich lieben, und wer mich eifrig sucht, der findet mich.
+\bibleverse{18}Reichtum und Ehre sind bei mir zu finden, bleibender Wohlstand und Gerechtigkeit<sup title=“= gerechter Lohn”>&#x2732;</sup>;
+\bibleverse{19}was ich einbringe, ist wertvoller als feines, gediegenes Gold, und mein Ertrag kostbarer als auserlesenes Silber.
+\bibleverse{20}Ich wandle auf dem Pfade der Gerechtigkeit, mitten auf den Bahnen des Rechts,
+\bibleverse{21}um denen, die mich lieben, bleibenden Besitz zu verschaffen und ihre Schatzkammern zu füllen.«
+
+#### Die Weisheit als das erste und vorzüglichste Geschöpf Gottes
+
+\bibleverse{22}»Der HERR hat mich geschaffen als den Erstling seiner Schöpfertätigkeit, als das früheste seiner Werke in der Urzeit.
+\bibleverse{23}Von Ewigkeit her bin ich gebildet, von Anbeginn an, vor den Uranfängen der Erde<sup title=“oder: Welt”>&#x2732;</sup>.
+\bibleverse{24}Als noch keine Fluten der Tiefe<sup title=“= keine Weltmeere”>&#x2732;</sup> da waren, bin ich geboren worden, ehe es wasserreiche Quellen gab.
+\bibleverse{25}Bevor die Berge eingesenkt waren, vor den Hügeln bin ich geboren worden,
+\bibleverse{26}als er die Erde und die Fluren noch nicht geschaffen hatte und die ersten Schollen des Erdreichs.
+\bibleverse{27}Als er den Himmel baute, war ich dabei, als er das Himmelsgewölbe feststellte<sup title=“oder: abmaß”>&#x2732;</sup> über der weiten Urflut;
+\bibleverse{28}als er die Wolken droben befestigte<sup title=“oder: aufhängte”>&#x2732;</sup>, als er die Quellen aus den Fluten der Tiefe mit Macht hervorbrechen ließ;
+\bibleverse{29}als er dem Meer seine Grenze setzte, damit die Wasser seine Schranke nicht überschritten, als er die Grundpfeiler der Erde feststellte:
+\bibleverse{30}da war ich als Künstlerin<sup title=“oder: vertraute Freundin oder: sein Pflegling oder: Liebling”>&#x2732;</sup> ihm zur Seite und war voller Entzücken<sup title=“oder: seine Wonne”>&#x2732;</sup> Tag für Tag, indem ich vor seinen Augen allezeit spielte,
+\bibleverse{31}indem ich auf seiner weiten Erdenwelt mein Spiel trieb und mein Entzücken an den Menschenkindern hatte.«
+
+#### Mahnung und Warnung
+
+\bibleverse{32}»Nun denn, ihr Söhne, höret auf mich! Denn glückselig sind, die meine Wege einhalten.
+\bibleverse{33}Höret auf meine Unterweisung, damit ihr weise werdet, und verwerft sie nicht!
+\bibleverse{34}Wohl dem Menschen, der mir Gehör schenkt, indem er Tag für Tag an meiner Tür wacht und die Pfosten meiner Tore hütet!
+\bibleverse{35}Denn wer mich findet, der findet das Leben und erlangt Wohlgefallen beim HERRN;
+\bibleverse{36}wer mich aber verfehlt, der fügt seiner eigenen Seele Schaden zu: alle, die mich hassen, lieben den Tod.«
+
+### 11. Frau Weisheit und Frau Torheit laden zu Gast
+
+# 9
+\bibleverse{1}Die Weisheit hat sich ihr Haus gebaut, hat ihre sieben Säulen<sup title=“= Tragpfeiler”>&#x2732;</sup> aufgerichtet;
+\bibleverse{2}sie hat ihr Schlachtvieh geschlachtet, ihren Wein gemischt, auch ihre Tafel zugerüstet;
+\bibleverse{3}sie hat ihre Mägde ausgesandt und läßt oben auf den höchsten Punkten der Stadt die Einladung ergehen:
+\bibleverse{4}»Wer einfältig<sup title=“oder: unerfahren”>&#x2732;</sup> ist, kehre hier ein!« Und den Unverständigen läßt sie sagen:
+\bibleverse{5}»Kommt her, eßt von meinem Brot<sup title=“= nehmt teil an meinem Mahl”>&#x2732;</sup> und trinkt von dem Wein, den ich gemischt habe!
+\bibleverse{6}Laßt die Torheit fahren, damit ihr lebt, und geht einher auf dem Wege der Einsicht!« –
+\bibleverse{7}Wer einen Spötter zurechtweist, zieht sich Beschimpfung zu, und wer einen Gottlosen tadelt, hat Schande davon.
+\bibleverse{8}Tadle den Spötter nicht, sonst wird er dich hassen; tadle den Weisen, so wird er dich liebgewinnen.
+\bibleverse{9}Gib dem Weisen, so wird er noch weiser werden; belehre den Gerechten<sup title=“oder: Frommen”>&#x2732;</sup>, so wird er an Wissen zunehmen.
+\bibleverse{10}Die Furcht des HERRN ist der Anfang der Weisheit<sup title=“vgl. 1,7”>&#x2732;</sup>, und die Erkenntnis des heiligen (Gottes) ist Einsicht. –
+\bibleverse{11}»Denn durch mich werden deiner Tage viele werden und die Jahre deines Lebens sich mehren.
+\bibleverse{12}Wenn du weise bist, so bist du es zu deinem eigenen Besten; bist du aber ein Spötter, so hast du es allein zu tragen<sup title=“= büßen”>&#x2732;</sup>.«
+
+#### Die Einladung der Torheit
+
+\bibleverse{13}Frau Torheit ist ein leidenschaftliches Geschöpf, die reine Beschränktheit und kennt keine Scham;
+\bibleverse{14}sie sitzt am Eingang ihres Hauses, auf einem Thron hoch oben in der Stadt,
+\bibleverse{15}um die des Weges Vorübergehenden einzuladen, alle, die auf ihren Pfaden geradeaus wandeln:
+\bibleverse{16}»Wer einfältig<sup title=“oder: unerfahren”>&#x2732;</sup> ist, der kehre hier ein!« Und zu den Unverständigen sagt sie:
+\bibleverse{17}»Gestohlenes Wasser ist süß, und heimlich verzehrtes Brot schmeckt köstlich!«
+\bibleverse{18}Und er bedenkt nicht<sup title=“oder: Aber nicht erfährt man”>&#x2732;</sup>, daß die Totengeister dort hausen, daß in den Tiefen des Totenreichs die von ihr beherbergten Gäste weilen.
+
+## II. Zweite Sammlung von 375 (meist einzelnen) Sprüchen Salomos (10,1-22,16)
+
+# 10
+\bibleverse{1}Die Sprüche Salomos. Ein weiser Sohn macht seinem Vater Freude, aber ein törichter Sohn ist seiner Mutter Kummer. –
+\bibleverse{2}Ungerecht erworbene Schätze bringen keinen Segen, aber Gerechtigkeit<sup title=“oder: Wohltätigkeit”>&#x2732;</sup> errettet vom Tode. –
+\bibleverse{3}Den Hunger des Frommen läßt der HERR nicht ungestillt, aber die Gier der Gottlosen stößt er zurück. –
+\bibleverse{4}Wer mit lässiger Hand arbeitet, verarmt, aber die Hand der Fleißigen schafft Reichtum.
+\bibleverse{5}Wer im Sommer einsammelt, handelt verständig; wer aber in der Erntezeit schläft, handelt schändlich. –
+\bibleverse{6}Reicher Segen kommt auf das Haupt des Gerechten, aber der Mund der Gottlosen birgt Gewalttat<sup title=“vgl. V.11b”>&#x2732;</sup>. –
+\bibleverse{7}Das Andenken des Gerechten bleibt im Segen, aber der Name der Gottlosen vermodert<sup title=“oder: erstirbt”>&#x2732;</sup>. –
+\bibleverse{8}Wer weisen Sinnes ist, nimmt Ratschläge an, aber ein närrischer Schwätzer kommt zu Fall. –
+\bibleverse{9}Wer in Unschuld wandelt, der wandelt sicher; wer aber krumme Wege einschlägt, der wird durchschaut<sup title=“oder: ertappt”>&#x2732;</sup>. –
+\bibleverse{10}Wer mit den Augen blinzelt, verursacht Kränkung, und ein närrischer Schwätzer kommt zu Fall. –
+\bibleverse{11}Der Mund des Gerechten ist ein Quell des Lebens, aber der Mund der Gottlosen birgt Gewalttat<sup title=“oder: Unheil”>&#x2732;</sup>. –
+\bibleverse{12}Haß ruft Streit hervor, aber die Liebe deckt alle Verfehlungen zu. –
+\bibleverse{13}Auf den Lippen des Verständigen findet man Weisheit, aber auf den Rücken des Unverständigen gehört der Stock. –
+\bibleverse{14}Die Weisen halten mit ihrer Erkenntnis zurück, aber der Mund des Toren ist herannahendes Verderben. –
+\bibleverse{15}Des Reichen Besitz ist für ihn eine feste Burg, aber für die Dürftigen ist ihre Armut ein Unheil. –
+\bibleverse{16}Der Erwerb des Gerechten dient zum Leben<sup title=“oder: Segen”>&#x2732;</sup>, das Einkommen des Gottlosen zur Sünde. –
+\bibleverse{17}Wer Zurechtweisung<sup title=“oder: die Mahnung”>&#x2732;</sup> beachtet, befindet sich auf dem Wege zum Leben; wer aber Warnungen unbeachtet läßt, geht irre. –
+\bibleverse{18}Wer Haß<sup title=“oder: Gehässiges”>&#x2732;</sup> in sich verbirgt, hat Lügenlippen, und wer üble Nachrede verbreitet, ist ein Tor. –
+\bibleverse{19}Wo viele Worte sind, da geht es ohne Verfehlung nicht ab; wer aber seine Lippen im Zaume hält, handelt klug. –
+\bibleverse{20}Kostbares Silber ist die Zunge<sup title=“= Rede”>&#x2732;</sup> des Gerechten, der Verstand der Gottlosen (aber) ist wenig wert. –
+\bibleverse{21}Die Lippen des Gerechten schaffen vielen eine Erquickung, aber die Toren gehen durch Unverstand zugrunde. –
+\bibleverse{22}Der Segen des HERRN ist’s, der reich macht, und neben ihm fügt (eigene) Anstrengung nichts hinzu. –
+\bibleverse{23}Dem Toren machen Schandtaten Vergnügen, dem verständigen Manne aber die (Betätigung der) Weisheit. –
+\bibleverse{24}Wovor dem Gottlosen graut, das kommt über ihn; was aber die Gerechten sich wünschen, gewährt er<sup title=“d.h. der HERR”>&#x2732;</sup> ihnen. –
+\bibleverse{25}Sobald der Sturmwind daherfährt, ist der Gottlose nicht mehr da, der Gerechte aber ist für die Ewigkeit fest gegründet. –
+\bibleverse{26}Was der Essig für die Zähne und der Rauch für die Augen, das ist der Faule für den, der ihn ausgesandt<sup title=“oder: beauftragt”>&#x2732;</sup> hat. –
+\bibleverse{27}Die Furcht des HERRN verlängert die Lebenstage, aber die Jahre der Gottlosen werden verkürzt. –
+\bibleverse{28}Das Harren der Gerechten endet in Freude, aber die Hoffnung der Gottlosen wird vereitelt. –
+\bibleverse{29}Das Walten des HERRN ist eine Schutzwehr für den Unschuldigen, aber ein Schrecken<sup title=“oder: Verderben”>&#x2732;</sup> für die Übeltäter. –
+\bibleverse{30}Der Gerechte wird nimmermehr wanken, aber die Gottlosen werden im Lande nicht wohnen bleiben. –
+\bibleverse{31}Der Mund des Gerechten läßt Weisheit sprießen, aber die falsche Zunge wird ausgerottet<sup title=“oder: verfällt dem Untergang”>&#x2732;</sup>. –
+\bibleverse{32}Die Lippen des Gerechten verstehen sich auf das, was wohlgefällig ist, aber der Mund der Gottlosen nur auf Verkehrtes.
+
+# 11
+\bibleverse{1}Falsche Waage ist dem HERRN ein Greuel, aber volles Gewicht ist ihm wohlgefällig. –
+\bibleverse{2}Kommt Übermut, so kommt auch Schande; bei den Bescheidenen<sup title=“oder: Demütigen”>&#x2732;</sup> aber ist Weisheit. –
+\bibleverse{3}Die Redlichen leitet ihre Unschuld (sicher), die Treulosen aber richtet ihre Falschheit zugrunde. –
+\bibleverse{4}Reichtum nützt nichts am Tage des Zorngerichts, Gerechtigkeit aber errettet vom Tode<sup title=“10,2”>&#x2732;</sup>. –
+\bibleverse{5}Die Gerechtigkeit des Unschuldigen macht seinen Weg eben, doch der Gottlose kommt durch seinen Frevelmut zu Fall. –
+\bibleverse{6}Die Rechtschaffenen rettet ihre Gerechtigkeit, aber die Treulosen werden durch die eigene Gier<sup title=“oder: Schlechtigkeit”>&#x2732;</sup> gefangen. –
+\bibleverse{7}Mit dem Tode eines gottlosen Menschen geht jede Hoffnung (für ihn) verloren, und die Erwartung der Ruchlosen wird vereitelt. –
+\bibleverse{8}Der Gerechte wird aus der Not gerettet, und der Gottlose muß an dessen Platz treten. –
+\bibleverse{9}Mit dem Munde sucht der Ruchlose seinen Nächsten zugrunde zu richten, aber durch ihre Umsicht retten sich die Gerechten. –
+\bibleverse{10}Beim Wohlergehen der Gerechten frohlockt die Stadt, und beim Untergang der Gottlosen herrscht Jubel. –
+\bibleverse{11}Durch den Segen der Rechtschaffenen kommt eine Stadt empor, aber durch den Mund der Gottlosen wird sie niedergerissen. –
+\bibleverse{12}Wer seinen Nächsten geringschätzig behandelt, ist unverständig, aber ein einsichtsvoller Mann schweigt still. –
+\bibleverse{13}Wer als Verleumder umhergeht, deckt Geheimnisse auf; wer aber ein treues Herz besitzt, hält die Sache geheim<sup title=“= bewahrt Verschwiegenheit”>&#x2732;</sup>. –
+\bibleverse{14}Wenn keine umsichtige Leitung da ist, kommt ein Volk zu Fall; gut aber steht’s, wenn Ratgeber in großer Zahl da sind. –
+\bibleverse{15}Ganz schlimm kann es gehen, wenn man für einen andern Bürgschaft leistet; wer aber Verpflichtungen durch Handschlag meidet, geht sicher. –
+\bibleverse{16}Ein liebenswürdiges Weib erlangt Ehre (ein häßlicher Schandfleck aber ist eine Frau, die Redlichkeit haßt. Die Faulen bringen es nicht zu Vermögen, die Fleißigen aber erlangen Reichtum). –
+\bibleverse{17}Ein liebevoller Mensch erweist sich selbst Gutes, der Hartherzige aber schneidet sich selbst ins Fleisch. –
+\bibleverse{18}Der Gottlose erwirbt nur trügerischen Gewinn, wer aber Gerechtigkeit sät, einen sicheren Lohn. –
+\bibleverse{19}So gewiß die Gerechtigkeit zum Leben führt, so sicher geht der, welcher dem Bösen nachjagt, zu seinem Tode.
+\bibleverse{20}Menschen mit falschem Herzen sind dem HERRN ein Greuel; wer aber unsträflich wandelt, gefällt ihm wohl. –
+\bibleverse{21}Die Hand darauf! Der Böse bleibt nicht ungestraft; aber die Nachkommenschaft der Gerechten kommt wohlbehalten davon. –
+\bibleverse{22}Ein goldener Ring am Rüssel einer Sau: so ist ein schönes Weib ohne Sittsamkeit. –
+\bibleverse{23}Das Streben der Gerechten führt zu lauter Glück, aber die Erwartung der Gottlosen zum Zorn<sup title=“= Zorngericht Gottes”>&#x2732;</sup>. –
+\bibleverse{24}Mancher teilt mit vollen Händen aus und bekommt immer noch mehr; ein anderer spart über Gebühr und wird dabei nur ärmer. –
+\bibleverse{25}Eine wohltätige Seele wird reichlich gesättigt, und wer anderen zu trinken gibt, wird selbst getränkt. –
+\bibleverse{26}Wer Getreide zurückhält, den verfluchen die Leute; aber Segen kommt auf das Haupt dessen, der Getreide verkauft. –
+\bibleverse{27}Wer sich des Guten befleißigt, ist auf Wohlgefälliges<sup title=“d.h. das Wohlgefallen Gottes”>&#x2732;</sup> bedacht; wenn aber jemand nach Bösem trachtet, wird es über ihn selbst kommen. –
+\bibleverse{28}Wer sich auf seinen Reichtum verläßt, der wird verwelken; die Gerechten aber werden grünen wie junges Laub. –
+\bibleverse{29}Wer sein eigenes Hauswesen vernachlässigt, wird Wind zum Besitz erhalten, und der Tor wird ein Knecht dessen, der weisen Sinnes ist. –
+\bibleverse{30}Die Frucht des Rechttuns ist ein Baum des Lebens, aber Gewalttätigkeit nimmt das Leben. –
+\bibleverse{31}Siehe, der Gerechte erhält schon auf Erden seinen Lohn: wieviel mehr der Gottlose und der Sünder!
+
+# 12
+\bibleverse{1}Wer Zurechtweisung liebt<sup title=“= willig hinnimmt”>&#x2732;</sup>, liebt Erkenntnis; wer aber die Rüge haßt, ist ein Dummkopf. –
+\bibleverse{2}Der Gute<sup title=“oder: Gütige”>&#x2732;</sup> erlangt Wohlgefallen beim HERRN, aber einen tückischen Menschen verdammt er. –
+\bibleverse{3}Keiner gelangt durch Gottlosigkeit zu festem Bestand, aber die Wurzel der Frommen bleibt unerschüttert. –
+\bibleverse{4}Ein braves Weib ist ihres Gatten Krone, ein nichtsnutziges aber ist wie Wurmfraß in seinen Gebeinen. –
+\bibleverse{5}Die Gedanken der Gerechten gehen auf das, was recht ist, aber die Anschläge der Gottlosen auf Trug. –
+\bibleverse{6}Die Reden der Gottlosen sind ein Lauern auf Blutvergießen, aber der Mund der Rechtschaffenen errettet sie<sup title=“d.h. die Bedrängten”>&#x2732;</sup>. –
+\bibleverse{7}Die Gottlosen werden umgestürzt und sind nicht mehr, aber das Haus der Gerechten bleibt bestehen. –
+\bibleverse{8}Nach dem Maß seiner Einsicht wird ein jeder gelobt; wer aber verkehrten Sinnes ist, fällt der Verachtung anheim. –
+\bibleverse{9}Besser gering sein und sich selbst bedienen<sup title=“oder: sein Auskommen haben”>&#x2732;</sup>, als vornehm tun und nichts zu essen haben. –
+\bibleverse{10}Der Gerechte weiß, wie seinem Vieh zumute ist<sup title=“oder: was sein Vieh bedarf”>&#x2732;</sup>; aber das Herz der Gottlosen ist gefühllos. –
+\bibleverse{11}Wer seinen Acker bestellt, wird satt zu essen haben; wer aber nichtigen Dingen nachjagt, ist unverständig<sup title=“oder: wird reichlich Armut haben; vgl. 28,19”>&#x2732;</sup>. –
+\bibleverse{12}Es gelüstet den Gottlosen nach dem Raube der Bösen, aber die Wurzel der Gerechten schlägt aus. –
+\bibleverse{13}In der Verfehlung der Lippen liegt ein böser Fallstrick, der Gerechte aber entgeht dem Unheil. –
+\bibleverse{14}An den Folgen seiner Reden hat jeder sattsam zu kauen, und was die Hände eines Menschen schaffen, das wird ihm vergolten. –
+\bibleverse{15}Dem Toren dünkt sein Weg der richtige zu sein, aber der Weise hört auf Ratschläge. –
+\bibleverse{16}Ein Tor ist, wer seinen Ärger auf der Stelle merken läßt; der Kluge dagegen läßt die Schmähung unbeachtet. –
+\bibleverse{17}Wer die Wahrheit aussagt, tut Gerechtigkeit kund, ein falscher Zeuge aber Trug. –
+\bibleverse{18}Es gibt Menschen, deren Geschwätz wie Schwertstiche durchbohrt; aber die Zunge der Weisen schafft Heilung<sup title=“oder: ist wie ein Heilkraut”>&#x2732;</sup>. –
+\bibleverse{19}Wahrhaftige Lippen bestehen ewiglich, aber Lügenzungen nur für einen Augenblick. –
+\bibleverse{20}Trug<sup title=“oder: Tücke”>&#x2732;</sup> wohnt im Herzen derer, die auf Böses sinnen; die aber Heilsames planen, erleben Freude. –
+\bibleverse{21}Dem Gerechten widerfährt keinerlei Unheil, die Gottlosen aber trifft Unglück in Fülle. –
+\bibleverse{22}Lügenlippen sind dem HERRN ein Greuel; wer aber die Wahrheit übt, gefällt ihm wohl. –
+\bibleverse{23}Ein kluger Mensch hält mit seinem Wissen zurück, aber das Herz der Toren schreit Narrheit aus. –
+\bibleverse{24}Die Fleißigen werden als Meister tätig sein, die Trägen aber müssen Zwangsarbeit verrichten. –
+\bibleverse{25}Kummer im Herzen drückt einen Menschen nieder, aber ein freundliches Wort heitert ihn auf. –
+\bibleverse{26}Der Gerechte weist seinem Genossen den rechten Weg, aber die Gottlosen führt ihr Weg in die Irre. –
+\bibleverse{27}Nicht erjagt der Lässige sein Wild<sup title=“?”>&#x2732;</sup>, aber einem fleißigen Menschen wird wertvolles Gut zuteil. –
+\bibleverse{28}Auf dem Pfade der Gerechtigkeit ist Leben, der Weg des Frevels aber führt zum Tode.
+
+# 13
+\bibleverse{1}Ein weiser Sohn nimmt die Zurechtweisung des Vaters an, aber ein Spötter hört nicht auf Scheltreden. –
+\bibleverse{2}Die Frucht des Rechttuns bekommt der Gute zu genießen, das Verlangen der Treulosen aber ist auf Gewalttat gerichtet. –
+\bibleverse{3}Wer seinen Mund hütet, wahrt seine Seele; wer aber seine Lippen aufsperrt, dem schlägt es zum Verderben aus. –
+\bibleverse{4}Das Herz des Trägen hegt viele Wünsche, jedoch erfolglos; aber das Verlangen der Fleißigen wird reichlich befriedigt. –
+\bibleverse{5}Der Gerechte haßt Lug und Trug, aber der Gottlose handelt schändlich und nichtswürdig. –
+\bibleverse{6}Die Gerechtigkeit behütet die unsträflich Wandelnden, Gottlosigkeit aber bringt die Sünder zu Fall. –
+\bibleverse{7}Mancher stellt sich reich und hat doch gar nichts; mancher, der sich arm stellt, besitzt ein großes Vermögen. –
+\bibleverse{8}Lösegeld für das Leben ist manchem sein Reichtum, doch ein Armer bekommt keine Drohung zu hören. –
+\bibleverse{9}Das Licht der Gerechten brennt lustig, aber die Leuchte der Gottlosen erlischt. –
+\bibleverse{10}Bei Übermut gibt es nichts als Streit, aber bei denen, die sich raten lassen, ist Weisheit. –
+\bibleverse{11}Mühelos erlangtes Vermögen zerrinnt; wer aber händeweis<sup title=“d.h. allmählich”>&#x2732;</sup> sammelt, der gewinnt immer mehr. –
+\bibleverse{12}Lange hingezogene Hoffnung macht das Herz krank, ein erfüllter Wunsch aber ist ein Baum des Lebens. –
+\bibleverse{13}Wer das Wort (Gottes) verachtet, verschuldet sich ihm gegenüber; wer aber das Gebot (Gottes) in Ehren hält, dem wird’s vergolten<sup title=“oder: der bleibt wohlbehalten”>&#x2732;</sup>. –
+\bibleverse{14}Die Belehrung des Weisen ist ein Born des Lebens, so daß man den Schlingen des Todes fern bleibt. –
+\bibleverse{15}Gute Einsicht verschafft Anerkennung, aber der Treulosen Weg ist steinhart<sup title=“oder: wird ihr Verderben”>&#x2732;</sup>. –
+\bibleverse{16}Alles vollführt der Kluge mit Überlegung, aber ein Tor kramt Dummheit aus. –
+\bibleverse{17}Ein gottloser Gesandter richtet Unheil an, aber ein treuer Bote bringt Heilung. –
+\bibleverse{18}Armut und Schande treffen den, der Zurechtweisung verschmäht; wer aber Zurechtweisung beachtet, kommt zu Ehren. –
+\bibleverse{19}Die Erfüllung eines Wunsches tut dem Herzen wohl, aber ein Greuel ist es den Toren, vom Bösen abzulassen. –
+\bibleverse{20}Wer mit Weisen umgeht, wird weise; wer sich aber zu den Toren gesellt, dem ergeht es übel. –
+\bibleverse{21}Die Sünder verfolgt das Unglück, aber die Gerechten belohnt (Gott) mit Gutem<sup title=“oder: begleitet das Glück”>&#x2732;</sup>. –
+\bibleverse{22}Der Gute vererbt seinen Besitz auf Kindeskinder, aber der Reichtum des Sünders ist den Gerechten vorbehalten. –
+\bibleverse{23}Reichliche Nahrung gewährt der Neubruch<sup title=“d.h. der neu angelegte Acker”>&#x2732;</sup> der Armen; aber mancher (Besitz) geht durch Unredlichkeit verloren. –
+\bibleverse{24}Wer seine Rute schont, der haßt sein Kind; wer es aber lieb hat, läßt es früh die Züchtigung fühlen. –
+\bibleverse{25}Der Gerechte hat zu essen, bis er seinen Hunger gestillt hat; aber der Magen der Gottlosen muß darben.
+
+# 14
+\bibleverse{1}Frau Weisheit baut ihr Haus auf, aber Frau Torheit reißt es mit eigenen Händen nieder. –
+\bibleverse{2}Wer in seiner Redlichkeit wandelt, fürchtet den HERRN; wer aber krumme<sup title=“oder: verkehrte”>&#x2732;</sup> Wege geht, verachtet ihn. –
+\bibleverse{3}Im Munde des Narren ist eine Rute für seinen Hochmut<sup title=“oder: für seinen Rücken”>&#x2732;</sup>, aber dem Weisen dienen seine Lippen zum Schutz. –
+\bibleverse{4}Wo keine Ochsen sind, bleibt die Krippe rein, aber reicher Ertrag kommt durch die Kraft<sup title=“oder: großen Besitz”>&#x2732;</sup> von Pflugstieren. –
+\bibleverse{5}Ein wahrhaftiger Zeuge lügt nicht, aber ein falscher Zeuge trägt Lügen vor. –
+\bibleverse{6}Der Spötter sucht Weisheit, ohne sie zu finden; aber für den Verständigen ist die Erkenntnis etwas Leichtes. –
+\bibleverse{7}Gehe von einem törichten Menschen weg, denn du lernst da nichts von einsichtsvollen Lippen kennen. –
+\bibleverse{8}Die Weisheit des Klugen besteht darin, daß er auf seinen Weg acht gibt; aber die Narrheit der Toren ist Enttäuschung für sie selbst. –
+\bibleverse{9}Der Toren spottet das Schuldopfer<sup title=“vgl. 3.Mose 5,20-26”>&#x2732;</sup>; aber unter Rechtschaffenen herrscht gutes Einvernehmen. –
+\bibleverse{10}Das Herz allein kennt seinen Kummer, und auch in seine Freude kann sich kein Fremder mischen. –
+\bibleverse{11}Das Haus der Gottlosen wird zerstört werden, das Zelt der Rechtschaffenen aber wird in Blüte stehen. –
+\bibleverse{12}Mancher Weg erscheint einem Menschen gerade<sup title=“oder: der rechte”>&#x2732;</sup>, aber das Ende davon sind Wege des Todes. –
+\bibleverse{13}Sogar beim Lachen kann das Herz Kummer empfinden, und das Ende der Freude ist (oft) Traurigkeit. –
+\bibleverse{14}Den Lohn für seine Wege<sup title=“oder: seinen Wandel”>&#x2732;</sup> bekommt der zu schmecken, dessen Herz abtrünnig ist, und ebenso ein guter Mensch für seine Handlungen. –
+\bibleverse{15}Der Einfältige glaubt jedem Wort, der Kluge aber gibt auf seine Schritte acht. –
+\bibleverse{16}Der Weise ist vorsichtig und meidet das Böse<sup title=“oder: die Gefahr”>&#x2732;</sup>, der Tor aber ereifert sich und ist sorglos. –
+\bibleverse{17}Der Jähzornige richtet Torheit an, ein besonnener Mensch aber bleibt ruhig. –
+\bibleverse{18}Die Einfältigen eignen sich Dummheit an<sup title=“oder: haben Torheit in Besitz”>&#x2732;</sup>, die Klugen aber werden mit Erfahrung gekrönt. –
+\bibleverse{19}Die Bösen müssen sich vor den Guten verneigen und die Gottlosen an den Türen des Gerechten stehen. –
+\bibleverse{20}Sogar seinem Freunde ist der Arme widerwärtig; aber derer, die den Reichen lieben, sind viele. –
+\bibleverse{21}Wer seinen Nächsten<sup title=“= Volksgenossen”>&#x2732;</sup> verächtlich behandelt, versündigt sich; wer sich aber der Unglücklichen erbarmt: Heil ihm! –
+\bibleverse{22}Wahrlich, wer auf Böses sinnt, wird irre gehen; aber Liebe und Vertrauen erntet, wer gute Absichten hegt. –
+\bibleverse{23}Bei jeder sauren Arbeit kommt ein Gewinn heraus, aber leeres Geschwätz bringt nur Verlust. –
+\bibleverse{24}Für weise Menschen ist ihr Reichtum eine Krone, der Kranz der Toren aber ist die Torheit. –
+\bibleverse{25}Ein wahrhaftiger Zeuge ist ein Lebensretter; wer aber Lügen ausspricht, ist ein falscher Zeuge. –
+\bibleverse{26}In der Gottesfurcht liegt eine starke Sicherheit, und auch die Kinder eines solchen haben darin eine Zuflucht. –
+\bibleverse{27}Die Gottesfurcht ist ein Born des Lebens, um den Schlingen des Todes zu entgehen. –
+\bibleverse{28}Auf der Menge des Kriegsvolks beruht das Ansehen eines Königs; aber der Mangel an Kriegsmannschaft führt den Sturz eines Fürsten herbei. –
+\bibleverse{29}Ein Geduldiger beweist viel Einsicht, aber ein Jähzorniger treibt die Torheit auf die Spitze. –
+\bibleverse{30}Ein gelassenes Herz ist des Leibes Leben<sup title=“= Gedeihen”>&#x2732;</sup>, aber Leidenschaftlichkeit ist wie Wurmfraß in den Gebeinen. –
+\bibleverse{31}Wer den Geringen bedrückt, beschimpft den, der ihn geschaffen hat; wer sich aber des Armen erbarmt, erweist jenem<sup title=“d.h. dem Schöpfer”>&#x2732;</sup> Ehre. –
+\bibleverse{32}Durch seine Bosheit wird der Gottlose gestürzt; aber der Gerechte bleibt auch im Tode noch getrost. –
+\bibleverse{33}Im Herzen des Verständigen ruht die Weisheit verschlossen; was aber im Inneren der Toren ist, gibt sich kund. –
+\bibleverse{34}Gerechtigkeit erhöht<sup title=“= bringt empor”>&#x2732;</sup> ein Volk, aber die Sünde ist die Schmach<sup title=“oder: der Schaden”>&#x2732;</sup> der Völker. –
+\bibleverse{35}Des Königs Gunst wird dem klugen Diener zuteil, aber einen unbrauchbaren wird sein Ingrimm treffen<sup title=“oder: vernichten”>&#x2732;</sup>.
+
+# 15
+\bibleverse{1}Eine sanfte Antwort beschwichtigt den Grimm, aber ein kränkendes Wort ruft Zorn hervor. –
+\bibleverse{2}Die Zunge der Weisen träufelt<sup title=“= spricht”>&#x2732;</sup> Erkenntnis (aus), aber der Mund der Toren sprudelt Dummheit hervor. –
+\bibleverse{3}An jedem Orte sind die Augen des HERRN, sie schauen auf die Bösen und auf die Guten. –
+\bibleverse{4}Sanftheit der Zunge ist ein Baum des Lebens, aber Verkehrtheit<sup title=“= Bosheit”>&#x2732;</sup> an ihr schlägt dem Herzen Wunden. –
+\bibleverse{5}Ein Tor verschmäht die Zucht seines Vaters; wer aber Zurechtweisung annimmt, wird klug. –
+\bibleverse{6}Das Haus des Gerechten ist eine große Schatzkammer, aber im Einkommen des Gottlosen herrscht Zerrüttung. –
+\bibleverse{7}Die Lippen der Weisen streuen Erkenntnis aus, aber der Toren Sinn ist verkehrt gerichtet. –
+\bibleverse{8}Das Opfer der Gottlosen ist dem HERRN ein Greuel, aber das Gebet der Aufrichtigen ist ihm wohlgefällig. –
+\bibleverse{9}Der Wandel des Gottlosen ist dem HERRN ein Greuel; wer aber der Gerechtigkeit<sup title=“= dem Rechttun”>&#x2732;</sup> nachjagt, den hat er lieb. –
+\bibleverse{10}Schwere Züchtigung erwartet den, der den rechten Weg verläßt; wer Zurechtweisung verschmäht, wird sterben<sup title=“oder: geht zugrunde”>&#x2732;</sup>. –
+\bibleverse{11}Unterwelt und Abgrund<sup title=“= Hölle”>&#x2732;</sup> liegen offen vor dem HERRN: um wieviel mehr die Herzen der Menschenkinder! –
+\bibleverse{12}Der Spötter hat es nicht gern, daß man ihn zurechtweist; (darum) mag er sich nicht zu den Weisen gesellen. –
+\bibleverse{13}Ein fröhliches Herz macht das Angesicht heiter, aber bei Bekümmernis des Herzens ist der Mut gebrochen. –
+\bibleverse{14}Das Herz des Verständigen trachtet nach Erkenntnis, aber der Mund der Toren geht auf Dummheit aus<sup title=“oder: gefällt sich in Narrheit”>&#x2732;</sup>. –
+\bibleverse{15}Alle Lebenstage sind für den Unglücklichen trübselig, aber ein wohlgemuter Sinn ist wie ein beständiges Festmahl. –
+\bibleverse{16}Besser wenig (Habe) bei Gottesfurcht, als reiche Schätze und Unruhe dabei. –
+\bibleverse{17}Besser ein Gericht Gemüse und Liebe dabei, als ein gemästeter Ochs und Haß dabei. –
+\bibleverse{18}Ein zornmütiger Mensch ruft Streit hervor, aber ein langmütiger beschwichtigt den Hader. –
+\bibleverse{19}Der Weg des Faulen ist wie mit Dornen verzäunt, aber der Pfad der Fleißigen ist ebene Bahn. –
+\bibleverse{20}Ein weiser Sohn ist seines Vaters Freude, aber ein törichter Mensch verachtet seine Mutter. –
+\bibleverse{21}Die Torheit ist dem Unverständigen eine Freude, ein verständiger Mensch aber geht seinen Weg geradeaus. –
+\bibleverse{22}Wo keine Beratung stattfindet, da mißlingen die Pläne; wo aber viele Ratgeber sind, da kommen sie zustande. –
+\bibleverse{23}Freude hat jeder an der (treffenden) Antwort seines Mundes, und ein Wort zu rechter Zeit – wie wertvoll ist das! –
+\bibleverse{24}Der Weg des Lebens geht für den Einsichtigen aufwärts, damit er dem Totenreich drunten fernbleibe. –
+\bibleverse{25}Das Haus der Hochmütigen reißt der HERR nieder, aber die Grenze der Witwe legt er fest. –
+\bibleverse{26}Boshafte Anschläge sind dem HERRN ein Greuel, aber leutselige Worte sind (ihm) rein<sup title=“oder: wohlgefällig”>&#x2732;</sup>. –
+\bibleverse{27}Wer unrechtmäßigen Gewinn macht, zerrüttet sein (eigenes) Haus; wer aber Bestechungsgeschenke haßt, wird leben. –
+\bibleverse{28}Das Herz des Gerechten überlegt, um eine Antwort zu geben; aber der Mund der Gottlosen sprudelt Bosheiten hervor. –
+\bibleverse{29}Von den Gottlosen bleibt der HERR fern, aber das Gebet der Gerechten vernimmt er. –
+\bibleverse{30}Ein freundlicher Blick erfreut das Herz; eine gute Botschaft erquickt Mark und Bein. –
+\bibleverse{31}Ein Ohr, das auf heilsame Zurechtweisung hört, weilt gern im Kreise der Weisen. –
+\bibleverse{32}Wer Unterweisung verschmäht, mißachtet (das Heil) seiner Seele; wer aber auf Zurechtweisung hört, erwirbt sich Einsicht. –
+\bibleverse{33}Die Furcht des HERRN ist Unterweisung zur Weisheit, und vor der Ehre geht die Demut her.
+
+# 16
+\bibleverse{1}Dem Menschen gehören die Entwürfe des Herzens an, aber vom HERRN kommt das, was die Zunge ausspricht. –
+\bibleverse{2}Einem Menschen erscheint alles rein, was er unternimmt; aber der HERR wägt<sup title=“= prüft”>&#x2732;</sup> die Geister. –
+\bibleverse{3}Befiehl dem HERRN deine Werke, dann werden deine Pläne gelingen. –
+\bibleverse{4}Alles hat der HERR für einen bestimmten Zweck geschaffen, so auch den Gottlosen für den Tag des Unglücks. –
+\bibleverse{5}Jeder Hochmütige ist dem HERRN ein Greuel: die Hand darauf! Ein solcher wird nicht ungestraft bleiben<sup title=“11,21”>&#x2732;</sup>. –
+\bibleverse{6}Durch Liebe und Treue wird Verschuldung gesühnt, aber durch Gottesfurcht hält man sich vom Bösen fern. –
+\bibleverse{7}Wenn das Verhalten jemandes dem HERRN wohlgefällt, so söhnt er sogar seine Feinde mit ihm aus. –
+\bibleverse{8}Besser wenig mit Gerechtigkeit<sup title=“= Rechttun”>&#x2732;</sup>, als ein großes Einkommen mit Unrecht. –
+\bibleverse{9}Des Menschen Herz erdenkt sich seinen Weg, der HERR aber lenkt seine Schritte. –
+\bibleverse{10}Ein Gottesurteil liegt auf den Lippen des Königs: beim Rechtsprechen verfehlt sich sein Mund nicht. –
+\bibleverse{11}
+\bibleverse{12}Das Verüben von Freveltaten ist den Königen ein Greuel; denn nur durch Gerechtigkeit steht ein Thron fest. –
+\bibleverse{13}Wahrhaftige Lippen gefallen dem Könige wohl, und wer aufrichtig redet, den liebt er. –
+\bibleverse{14}Des Königs Zorn gleicht Todesboten, aber ein weiser Mann besänftigt diesen (Zorn). –
+\bibleverse{15}Im freundlichen Blick des Königs liegt Leben, und seine Huld ist wie eine Regenwolke des Spätregens<sup title=“= im Frühling”>&#x2732;</sup>. –
+\bibleverse{16}Weisheit zu erwerben ist viel besser als Gold, und Einsicht zu erwerben ist wertvoller als Silber. –
+\bibleverse{17}Die Bahn der Rechtschaffenen ist darauf gerichtet, sich vom Bösen fernzuhalten; wer auf seinen Wandel achtgibt, behütet seine Seele<sup title=“oder: sein Leben”>&#x2732;</sup>. –
+\bibleverse{18}Hochmut kommt vor dem Fall und hoffärtiger Sinn vor dem Sturz. –
+\bibleverse{19}Besser ist es, demütig zu sein mit den Niedrigen, als Beute zu teilen mit den Stolzen. –
+\bibleverse{20}Wer auf das Wort (Gottes) achtet, wird Segen davon haben, und wer auf den HERRN vertraut: wohl ihm! –
+\bibleverse{21}Wer weisen Herzens ist, der wird mit Recht verständig genannt, doch Süßigkeit der Lippen fördert noch die Belehrung. –
+\bibleverse{22}Ein Born des Lebens ist die Einsicht für ihren Besitzer; für die Toren aber ist die Torheit eine Strafe. –
+\bibleverse{23}Der Verstand des Weisen macht seinen Mund klug und mehrt auf seinen Lippen die Belehrung. –
+\bibleverse{24}Honigseim sind freundliche Worte, süß für die Seele und gesund<sup title=“oder: eine Arznei”>&#x2732;</sup> für den Leib. –
+\bibleverse{25}Mancher Weg erscheint dem Menschen gerade<sup title=“oder: der rechte”>&#x2732;</sup> und ist schließlich doch ein Weg zum Tode. –
+\bibleverse{26}Der Hunger des Arbeiters fördert seine Arbeit, denn sein (hungriger) Mund treibt ihn dazu an. –
+\bibleverse{27}Ein nichtswürdiger Mensch gräbt Unheilsgruben, und auf seinen Lippen ist’s wie brennendes Feuer. –
+\bibleverse{28}Ein ränkesüchtiger Mensch richtet Unfrieden an, und ein Ohrenbläser entzweit vertraute Freunde. –
+\bibleverse{29}Ein gewalttätiger Mensch beschwatzt seinen Genossen und führt ihn auf einen unheilvollen Weg. –
+\bibleverse{30}Wer seine Augen zukneift, will Arglist ersinnen; wer seine Lippen zusammenpreßt, hat Bosheit vollbracht<sup title=“oder: fest beschlossen; vgl. 6,13; 10,10”>&#x2732;</sup>. –
+\bibleverse{31}Graues Haar ist eine Ehrenkrone; auf dem Wege der Gerechtigkeit wird sie erlangt. –
+\bibleverse{32}Besser ein Langmütiger als ein Kriegsheld, und besser einer, der sich selbst beherrscht<sup title=“oder: bezwingt”>&#x2732;</sup>, als ein Städteeroberer. –
+\bibleverse{33}Im Bausch (des Gewandes) wirft man das Los, aber alle seine Entscheidung kommt vom HERRN.
+
+# 17
+\bibleverse{1}Besser ein Stück trocknes Brot und Ruhe dabei, als ein Haus voll Fleisch mit Unfrieden. –
+\bibleverse{2}Ein kluger Knecht wird Herr über einen nichtsnutzigen Haussohn werden und sich inmitten der Brüder in die Erbschaft teilen. –
+\bibleverse{3}Der Schmelztiegel ist für das Silber und der Ofen für das Gold; der aber die Herzen prüft, ist der HERR. –
+\bibleverse{4}Ein Bösewicht horcht auf unheilstiftende Lippen, ein Betrüger leiht verderbenbringenden Zungen sein Ohr. –
+\bibleverse{5}Wer den Armen verspottet, schmäht dessen Schöpfer, und wer sich über Unglück freut, wird nicht ungestraft bleiben. –
+\bibleverse{6}Die Krone<sup title=“= Ehre”>&#x2732;</sup> der Alten sind Kindeskinder, und der Kinder Stolz sind ihre Väter<sup title=“oder: Eltern”>&#x2732;</sup>. –
+\bibleverse{7}Selbstbewußte Rede kommt einem Toren nicht zu, noch viel weniger einem Edlen Lügensprache. –
+\bibleverse{8}Ein Bestechungsgeschenk erscheint dem, der es empfängt, als ein Zauberstein: überall, wohin es gelangt, hat es Erfolg. –
+\bibleverse{9}Wer Liebe sucht, deckt Verfehlungen zu; wer aber eine Sache immer wieder aufrührt, entzweit vertraute Freunde. –
+\bibleverse{10}Ein Verweis macht bei einem Verständigen tieferen Eindruck als hundert Stockschläge bei einem Toren. –
+\bibleverse{11}Nur auf (eigenes) Unheil ist der Empörer bedacht, denn ein unbarmherziger Bote wird gegen ihn gesandt werden. –
+\bibleverse{12}Eine ihrer Jungen beraubte Bärin möge (immerhin) jemandem begegnen, aber nur nicht ein Tor mit seinem Unverstand! –
+\bibleverse{13}Wer Gutes mit Bösem vergilt, aus dessen Hause wird das Unglück nicht weichen. –
+\bibleverse{14}Der Anfang eines Zankes ist so, wie wenn man Wasser ausbrechen läßt; (darum) laß vom Streit ab, ehe er zum Ausbruch kommt! –
+\bibleverse{15}Wer den Schuldigen freispricht und wer den Unschuldigen verurteilt, die sind alle beide dem HERRN ein Greuel. –
+\bibleverse{16}Wozu doch Geld in der Hand des Toren? Er könnte Weisheit kaufen, doch ihm fehlt der Verstand dazu. –
+\bibleverse{17}Zu jeder Zeit beweist der (wahre) Freund Liebe und wird als Bruder für die Zeit der Not geboren. –
+\bibleverse{18}Ein unverständiger Mensch ist, wer durch Handschlag sich verpflichtet, wer einem andern gegenüber Bürgschaft leistet. –
+\bibleverse{19}Wer Streit liebt, liebt Versündigung; wer seine Tür hoch baut, will den Einsturz. –
+\bibleverse{20}Wer falschen Herzens ist, erlangt kein Glück; und wer eine verlogene Zunge hat, gerät ins Unglück. –
+\bibleverse{21}Wer einen Toren zum Sohn hat, der hat Kummer davon, und der Vater eines Narren erlebt keine Freude. –
+\bibleverse{22}Ein fröhlicher Sinn befördert die Genesung, aber ein bedrücktes Gemüt läßt die Gebeine verdorren<sup title=“= macht den Körper kraftlos”>&#x2732;</sup>. –
+\bibleverse{23}Der Gottlose nimmt Geschenke aus dem Bausch jemandes an, um den Gang des Rechts zu beugen. –
+\bibleverse{24}Der Verständige hat die Weisheit vor seinen Augen schweben, aber die Augen des Toren schweifen am Ende der Erde umher. –
+\bibleverse{25}Ein törichter Sohn ist ein Kummer für seinen Vater und ein bitteres Weh für die (Mutter), die ihn geboren. –
+\bibleverse{26}Schon eine Geldstrafe einem Unschuldigen aufzuerlegen ist vom Übel; Edle<sup title=“oder: Schuldlose”>&#x2732;</sup> aber zu schlagen ist ganz ungebührlich. –
+\bibleverse{27}Wer mit seinen Worten an sich hält, besitzt Einsicht, und der Kaltblütige ist ein verständiger Mann. –
+\bibleverse{28}Selbst ein Tor kann, wenn er schweigt, als weise gelten und, wenn er seine Lippen verschließt, als einsichtsvoll.
+
+# 18
+\bibleverse{1}Der Sonderling geht dem eigenen Gelüsten nach; er kämpft gegen alles an, was frommt. –
+\bibleverse{2}Dem Toren ist es nicht um Einsicht zu tun, sondern nur um die Kundmachung seiner Gedanken. –
+\bibleverse{3}Wo Gottlosigkeit verübt wird, da stellt sich auch Verachtung ein, und mit der Schandtat kommt die Schmach. –
+\bibleverse{4}Tiefe Wasser sind die Worte aus dem Munde manches Mannes, ein sprudelnder Bach, ein Born der Weisheit. –
+\bibleverse{5}Es ist ein übel Ding, Partei für den Schuldigen zu nehmen, so daß man den, der recht hat, im Gericht unterliegen läßt. –
+\bibleverse{6}Die Lippen des Toren führen Streit herbei, und sein Mund ruft nach Stockschlägen. –
+\bibleverse{7}Dem Toren bringt sein Mund Verderben, und seine Lippen werden zum Fallstrick für sein Leben. –
+\bibleverse{8}Die Worte des Ohrenbläsers sind wie Leckerbissen, die in das Innerste des Leibes hinabgleiten. –
+\bibleverse{9}Schon wer sich lässig bei seiner Arbeit zeigt, ist ein Bruder dessen, der (sein Vermögen) zugrunde richtet. –
+\bibleverse{10}Ein fester Turm ist der Name des HERRN; in diesen flüchtet sich der Gerechte und ist in Sicherheit. –
+\bibleverse{11}Das Vermögen des Reichen ist für ihn eine feste Burg und gleich einer hohen Mauer – in seiner Einbildung. –
+\bibleverse{12}Vor dem Sturz ist das Herz eines Menschen hochmütig, aber vor der Ehre schreitet die Demut einher. –
+\bibleverse{13}Wenn jemand Antwort gibt, ehe er (recht) gehört hat, so gilt ihm das als Unverstand und Schande. –
+\bibleverse{14}Ein männlicher Mut erträgt sein Leiden; aber ein bedrücktes Gemüt – wer kann das ertragen? –
+\bibleverse{15}Ein verständiges Herz erwirbt Weisheit, und das Ohr des Weisen trachtet nach Erkenntnis. –
+\bibleverse{16}Geschenke öffnen einem Menschen Tür und Tor und verschaffen ihm Zutritt zu den Großen. –
+\bibleverse{17}Recht hat, wer als der erste in einer Streitsache auftritt; wenn dann aber der andere<sup title=“= sein Widersacher”>&#x2732;</sup> kommt, so widerlegt er ihn. –
+\bibleverse{18}Das Los schlichtet Streitigkeiten und entscheidet zwischen Starken<sup title=“oder: Mächtigen”>&#x2732;</sup>. –
+\bibleverse{19}Ein Bruder, gegen den man treulos gehandelt hat, leistet stärkeren Widerstand als eine feste Stadt, und Zerwürfnisse sind wie der Riegel einer Burg. –
+\bibleverse{20}Jeder bekommt die Frucht seines Mundes<sup title=“d.h. die Folgen seiner Reden”>&#x2732;</sup> sattsam zu schmecken: den Ertrag seiner Lippen muß er auskosten<sup title=“vgl. 12,14”>&#x2732;</sup>. –
+\bibleverse{21}Tod und Leben stehen in der Gewalt der Zunge, und wer sie viel gebraucht, wird das, was sie anrichtet, zu schmecken bekommen. –
+\bibleverse{22}Wer ein (gutes) Eheweib gefunden, hat etwas Vortreffliches gefunden und ein Gnadengeschenk vom HERRN erhalten. –
+\bibleverse{23}Unterwürfige Bitten spricht der Arme aus, aber der Reiche antwortet mit Härte. –
+\bibleverse{24}Gar manche Freunde gereichen zum Verderben; doch mancher Freund ist anhänglicher als ein Bruder.
+
+# 19
+\bibleverse{1}Besser ein Armer, der in seiner Unschuld wandelt, als wer unehrliche Lippen hat und dabei reich ist. –
+\bibleverse{2}Schon bei sich selbst gar nicht zu überlegen<sup title=“?”>&#x2732;</sup> ist verfehlt; wer sich aber überstürzt, tritt fehl. –
+\bibleverse{3}Des Menschen eigene Torheit läßt seine Unternehmungen mißlingen; aber alsdann grollt sein Herz gegen den HERRN. –
+\bibleverse{4}Reichtum verschafft Freunde in großer Zahl; wer aber arm ist, sieht sich von seinem Freunde verlassen. –
+\bibleverse{5}Ein falscher Zeuge bleibt nicht ungestraft; und wer Lügen vorbringt, wird (der Strafe) nicht entrinnen. –
+\bibleverse{6}Viele umschmeicheln einen Vornehmen, und alle Welt ist einem freigebigen Menschen zugetan. –
+\bibleverse{7}Den Armen hassen alle seine Brüder; erst recht ziehen sich seine Freunde von ihm zurück. Wer Worten nachjagt, dem dienen sie zu nichts<sup title=“?”>&#x2732;</sup>. –
+\bibleverse{8}Wer Verstand erwirbt, liebt sein Leben; wer Einsicht bewahrt, wird Segen davon haben. –
+\bibleverse{9}Ein falscher Zeuge bleibt nicht ungestraft, und wer Lügen vorbringt, geht zugrunde. –
+\bibleverse{10}Wohlleben kommt keinem Toren zu; geschweige denn einem Sklaven, über Fürsten zu herrschen. –
+\bibleverse{11}Die Einsicht eines Menschen zeigt sich in seiner Langmut, und ein Ruhm ist es für ihn, Verfehlungen zu verzeihen. –
+\bibleverse{12}Des Königs Groll ist wie das Knurren eines Löwen, dagegen seine Gunst wie Tau auf Pflanzen. –
+\bibleverse{13}Ein törichter Sohn ist ein Unglück für seinen Vater, und ein zänkisches Weib ist wie eine stets rinnende Dachtraufe. –
+\bibleverse{14}Haus und Habe erbt man von den Vätern, aber ein verständiges Weib ist eine Gabe vom HERRN. –
+\bibleverse{15}Faulheit versenkt in tiefen Schlaf, und ein lässiger Mensch muß Hunger leiden. –
+\bibleverse{16}Wer das Gebot (Gottes) beachtet, der bewahrt sein Leben; wer dagegen das Wort (Gottes) verachtet, wird sterben. –
+\bibleverse{17}Wer sich des Armen erbarmt, gibt dem HERRN ein Darlehen; und der wird ihm sein Wohltun vergelten<sup title=“oder: sein Guthaben zurückerstatten”>&#x2732;</sup>. –
+\bibleverse{18}Züchtige deinen Sohn, weil<sup title=“oder: solange”>&#x2732;</sup> noch Hoffnung (auf Besserung) vorhanden ist, und laß dir nicht in den Sinn kommen, ihn zu töten<sup title=“oder: dem Untergang preiszugeben”>&#x2732;</sup>. –
+\bibleverse{19}Wer jähzornig ist, muß eine Geldbuße zahlen, denn greifst du auch wehrend ein, so machst du’s nur noch schlimmer<sup title=“?”>&#x2732;</sup>. –
+\bibleverse{20}Höre auf guten Rat und nimm Zurechtweisung an, damit du in Zukunft klug wirst. –
+\bibleverse{21}Vielerlei Pläne sind im Herzen eines Menschen, aber der Ratschluß des HERRN, der wird zustande kommen. –
+\bibleverse{22}Die Bereitwilligkeit eines Menschen ist für seine Liebesbetätigung bestimmend, und besser ist ein Armer als ein Lügner. –
+\bibleverse{23}Die Gottesfurcht führt zum Leben<sup title=“oder: gereicht zum Segen”>&#x2732;</sup>; so kann man nachts gesättigt<sup title=“oder: befriedigt”>&#x2732;</sup> schlafen und wird von keinem Unglück heimgesucht. –
+\bibleverse{24}Hat der Faule seine Hand in die Eßschüssel gesteckt, so mag er sie nicht einmal zu seinem Munde zurückbringen. –
+\bibleverse{25}Schlägst du den Spötter, so wird der Unverständige dadurch klug; und weist man den Verständigen zurecht, so läßt er es sich zur Lehre dienen. –
+\bibleverse{26}Wer den Vater mißhandelt, die Mutter aus dem Hause jagt, ist ein schändlicher und nichtsnutziger Sohn. –
+\bibleverse{27}Laß ab, mein Sohn, auf Zurechtweisung zu hören, wenn du doch von den Lehren der Weisheit abweichen willst. –
+\bibleverse{28}Ein gewissenloser Zeuge verhöhnt das Recht, und der Mund der Gottlosen sprudelt Unheil hervor. –
+\bibleverse{29}Für die Spötter sind Strafgerichte<sup title=“oder: Stöcke”>&#x2732;</sup> bereit, und Schläge für den Rücken der Toren.
+
+# 20
+\bibleverse{1}Der Wein ist ein Spötter, der Rauschtrank ein Lärmmacher, und keiner, der von ihm taumelt, ist weise. –
+\bibleverse{2}Des Königs Drohen ist wie das Knurren eines Löwen<sup title=“19,12”>&#x2732;</sup>; wer ihn zum Zorn reizt<sup title=“oder: gegen sich aufbringt”>&#x2732;</sup>, frevelt gegen sein Leben. –
+\bibleverse{3}Ehrenvoll ist es für den Mann, vom Streit fernzubleiben; jeder Narr aber fängt Händel an. –
+\bibleverse{4}Mit Eintritt des Herbstes mag der Faule nicht pflügen; wenn er dann in der Erntezeit (nach Früchten) verlangt, so ist nichts da. –
+\bibleverse{5}Ein tiefes Wasser sind die Pläne im Herzen eines Menschen, aber ein kluger Mann weiß sie doch zu schöpfen. –
+\bibleverse{6}Viele Menschen werden gütige Leute genannt, aber einen wirklich treuen Mann – wer findet den? –
+\bibleverse{7}Wer in seiner Unsträflichkeit als gerechter Mann wandelt: wohl seinen Kindern nach ihm! –
+\bibleverse{8}Ein König, der auf dem Richterstuhl sitzt, macht, mit seinen Augen sichtend, alles Böse ausfindig. –
+\bibleverse{9}Wer darf sagen: »Ich habe mein Herz unbefleckt erhalten, ich bin rein von Sünde geblieben«? –
+\bibleverse{10}Zweierlei Gewicht und zweierlei Maß, die sind alle beide dem HERRN ein Greuel. –
+\bibleverse{11}Schon ein Kind gibt durch sein Tun zu erkennen, ob seine Sinnesart lauter und aufrichtig ist. –
+\bibleverse{12}Ein hörendes Ohr und ein sehendes Auge, die hat der HERR alle beide geschaffen. –
+\bibleverse{13}Liebe den Schlaf nicht, sonst verarmst du; halte die Augen offen, so wirst du satt zu essen haben. –
+\bibleverse{14}»Schlecht, schlecht!« sagt der Käufer; wenn er aber weggeht, dann lacht er sich ins Fäustchen. –
+\bibleverse{15}Mögen auch Gold und Korallen<sup title=“oder: Perlen”>&#x2732;</sup> in Fülle vorhanden sein: das kostbarste Gerät<sup title=“oder: Geschmeide”>&#x2732;</sup> sind doch einsichtsvolle Lippen. –
+\bibleverse{16}Nimm ihm seinen Rock, denn er hat für einen andern gebürgt; um fremder Leute willen pfände ihn aus. –
+\bibleverse{17}Süß schmeckt dem Menschen das durch Betrug erworbene Brot, hinterdrein aber hat er den Mund voll Kies<sup title=“oder: Kiesel”>&#x2732;</sup>. –
+\bibleverse{18}Pläne kommen durch Beratschlagung zustande; darum führe Krieg (nur) mit kluger Überlegung. –
+\bibleverse{19}Geheimnisse verrät, wer als Verleumder umhergeht; darum laß dich nicht ein mit einem, der seine Lippen aufsperrt. –
+\bibleverse{20}Wer seinem Vater und seiner Mutter flucht, dessen Leuchte wird zur Zeit tiefster Finsternis erlöschen. –
+\bibleverse{21}Ein Besitz, den man mit Überstürzung gleich im Anfang erlangt hat, wird schließlich ungesegnet sein. –
+\bibleverse{22}Sage nicht: »Ich will das Böse vergelten!« Harre auf den HERRN, so wird er dir helfen. –
+\bibleverse{23}Zweierlei Gewichtsteine sind dem HERRN ein Greuel, und falsche Waage ist ein übel Ding<sup title=“= verwerflich”>&#x2732;</sup>. –
+\bibleverse{24}Vom HERRN hängen die Schritte eines jeden ab; der Mensch aber – was versteht der von seinem Wege? –
+\bibleverse{25}Ein Fallstrick<sup title=“= gefährlich”>&#x2732;</sup> ist es für den Menschen, unbesonnen auszusprechen: »Geweiht!« und erst nach dem Geloben zu überlegen. –
+\bibleverse{26}Ein weiser König macht die Frevler ausfindig und läßt den Dreschwagen<sup title=“= das Rad”>&#x2732;</sup> über sie hingehen. –
+\bibleverse{27}Eine vom HERRN verliehene Leuchte ist der Geist des Menschen: er durchforscht alle Kammern des Leibes<sup title=“= das gesamte Innere des Menschen”>&#x2732;</sup>. –
+\bibleverse{28}Liebe und Treue beschirmen den König, und durch Liebe stützt er seinen Thron. –
+\bibleverse{29}Der Jünglinge Ruhm ist ihre Kraft, und der Greise Schmuck ist das graue Haar. –
+\bibleverse{30}Blutige Striemen scheuern das Böse weg, und Schläge säubern die Kammern des Leibes<sup title=“vgl. V.27”>&#x2732;</sup>.
+
+# 21
+\bibleverse{1}Gleich Wasserbächen ist das Herz des Königs in der Hand des HERRN: wohin immer er will, leitet er es. –
+\bibleverse{2}Alle seine Wege mag ein Mensch für recht halten, aber der HERR wägt<sup title=“= prüft”>&#x2732;</sup> die Herzen<sup title=“16,2”>&#x2732;</sup>. –
+\bibleverse{3}Recht und Gerechtigkeit üben ist dem HERRN wohlgefälliger als Schlachtopfer. –
+\bibleverse{4}Stolze Augen und ein aufgeblasenes Herz: das neue Leben der Gottlosen ist doch wieder Sünde<sup title=“?”>&#x2732;</sup>. –
+\bibleverse{5}Die Bestrebungen des Fleißigen bringen nur Gewinn; wer sich aber überstürzt, hat nur Schaden davon. –
+\bibleverse{6}Erwerb von Schätzen durch lügnerische Zunge ist wie ein verwehender Hauch, Schlingen des Todes. –
+\bibleverse{7}Die Gottlosen rafft ihre Gewalttätigkeit hinweg, weil sie sich weigern zu tun, was recht ist. –
+\bibleverse{8}Vielgewunden ist der Weg eines schuldbeladenen Menschen; wer aber redlich ist, dessen Tun ist gerade. –
+\bibleverse{9}Besser ist es, auf dem Dach in einem Winkel zu wohnen, als mit einem zänkischen Weibe in gemeinsamem Haus. –
+\bibleverse{10}Der Sinn des Gottlosen trachtet nach Bösem; sein Nächster findet kein Erbarmen in seinen Augen. –
+\bibleverse{11}Durch Bestrafung des Spötters wird der Unverständige gewitzigt; und wenn man den Weisen belehrt, so nimmt er Einsicht an. –
+\bibleverse{12}Es ist ein Gerechter da, der auf das Haus des Gottlosen achtet und die Gottlosen ins Verderben stürzt. –
+\bibleverse{13}Wer sein Ohr vor dem Hilferuf des Armen verstopft, der wird ebenfalls, wenn er selber ruft, kein Gehör finden. –
+\bibleverse{14}Eine Gabe im geheimen beschwichtigt den Zorn und ein Geschenk im Busen den heftigsten Grimm. –
+\bibleverse{15}Für die Gerechten ist es eine Freude, wenn Recht geschafft wird, aber für die Übeltäter ein Entsetzen. –
+\bibleverse{16}Ein Mensch, der vom Wege der Einsicht abirrt, wird (bald) in der Versammlung der Schatten ruhen. –
+\bibleverse{17}Wer Lustbarkeiten liebt, wird Mangel leiden; wer Wein und Salböl liebt<sup title=“= in Menge verbraucht”>&#x2732;</sup>, wird nicht reich. –
+\bibleverse{18}Der Gottlose ist ein Lösegeld für den Gerechten, und der Betrüger tritt an die Stelle (des Unglücks) der Redlichen<sup title=“vgl. 11,8”>&#x2732;</sup>. –
+\bibleverse{19}Besser ist es, (einsam) in einem wüsten Lande zu wohnen als bei einem zänkischen und grämlichen Weibe. –
+\bibleverse{20}Kostbare Schätze sind in der Wohnung des Weisen, aber ein törichter Mensch vergeudet sie. –
+\bibleverse{21}Wer sich der Gerechtigkeit und Güte befleißigt, erlangt Leben, Heil und Ehre. –
+\bibleverse{22}Ein Weiser ersteigt die feste Stadt von Kriegshelden und bringt das Bollwerk, auf das sie sich verließ, zu Fall. –
+\bibleverse{23}Wer seinen Mund und seine Zunge hütet, behütet sein Leben vor Fährlichkeiten. –
+\bibleverse{24}Ein aufgeblasener und frecher Mensch – Spötter ist sein Name – handelt in vermessenem Übermut. –
+\bibleverse{25}Dem Faulen bringt sein Gelüsten den Tod, weil seine Hände sich vor der Arbeit scheuen. –
+\bibleverse{26}Unaufhörlich wird gebettelt und gebettelt; dennoch gibt der Gerechte, ohne zu geizen. –
+\bibleverse{27}Das Opfer der Gottlosen ist (dem HERRN) ein Greuel, zumal wenn sie es um einer Schandtat willen darbringen. –
+\bibleverse{28}Ein lügenhafter Zeuge geht zugrunde, aber ein Mann, der Ohrenzeuge gewesen, mag allezeit reden. –
+\bibleverse{29}Ein gottloser Mensch trägt ein freches Angesicht zur Schau, ein Rechtschaffener aber gibt seinem Wege eine feste Richtung. –
+\bibleverse{30}Es gibt weder Weisheit noch Einsicht noch einen klugen Anschlag gegenüber dem HERRN. –
+\bibleverse{31}Das Roß wird für den Tag der Schlacht gerüstet, aber der Sieg steht bei dem HERRN.
+
+# 22
+\bibleverse{1}Ein guter Name ist wertvoller als großer Reichtum, Beliebtheit<sup title=“oder: ein liebenswürdiges Benehmen”>&#x2732;</sup> besser als Silber und Gold. –
+\bibleverse{2}Reiche und Arme sind aufeinander angewiesen: der HERR hat sie alle beide geschaffen. –
+\bibleverse{3}Der Kluge sieht das Unglück voraus und verbirgt sich; die Einfältigen aber gehen weiter und erleiden Schaden. –
+\bibleverse{4}Der Lohn der Demut (und) der Gottesfurcht ist Reichtum, Ehre und Leben. –
+\bibleverse{5}Fußangeln und Schlingen liegen auf dem Wege des Falschen; wer sein Leben bewahren will, hält sich fern von ihnen. –
+\bibleverse{6}Erziehe dein Kind angemessen für seinen Lebensweg; dann wird es auch im Alter nicht davon abweichen. –
+\bibleverse{7}Der Reiche ist ein Herr der Armen, und wer borgt, ist ein Knecht des Gläubigers. –
+\bibleverse{8}Wer Unrecht sät, wird Unheil ernten, und die Zuchtrute seines Grimmes wird ihn selbst treffen<sup title=“oder: bricht entzwei”>&#x2732;</sup>. –
+\bibleverse{9}Der Mildherzige wird gesegnet; denn er gibt dem Armen von seinem Brot ab. –
+\bibleverse{10}Treibe den Spötter weg, so geht der Streit mit hinaus, und das Zanken und Schmähen hat ein Ende. –
+\bibleverse{11}Wer reines Herzens ist, den liebt der HERR, und wessen Lippen herzgewinnend reden, dessen Freund ist der König. –
+\bibleverse{12}Die Augen des HERRN bewahren, was sie wahrgenommen, und er bringt die Worte des Treulosen zu Fall. –
+\bibleverse{13}Der Faule sagt: »Ein Löwe ist draußen; ich könnte mitten auf der Straße ums Leben kommen!« –
+\bibleverse{14}Eine tiefe Grube ist der Mund der fremden Weiber<sup title=“= der Ehebrecherinnen”>&#x2732;</sup>; wer dem HERRN verhaßt ist, fällt hinein. –
+\bibleverse{15}Steckt Torheit tief im Herzen eines Kindes, so wird die Zuchtrute sie ihm austreiben. –
+\bibleverse{16}Wer einen Armen bedrückt, verhilft ihm zur Bereicherung; wer einen Reichen beschenkt, tut’s nur zu dessen Verarmung.
+
+## III. Erste Sammlung von Aussprüchen der Weisen (22,17-24,22)
+
+#### a) Einleitung
+
+\bibleverse{17}Leihe mir dein Ohr und vernimm die Worte von Weisen und richte deine Aufmerksamkeit auf mein Wissen!
+\bibleverse{18}Denn schön ist’s, wenn du sie in deinem Inneren festhältst: möchten sie allesamt auf deinen Lippen verbleiben<sup title=“oder: immerdar bereitstehen”>&#x2732;</sup>!
+\bibleverse{19}Damit dein Vertrauen auf dem HERRN ruhe, habe ich dich heute unterwiesen, ja dich.
+\bibleverse{20}Wahrlich ich habe dir Kernsprüche aufgeschrieben mit Ratschlägen und Lehren,
+\bibleverse{21}um dir kundzutun die Richtschnur von Wahrheitsworten, damit du denen, die dich fragen, richtige Antworten geben kannst.
+
+#### b) Einzelmahnungen
+
+\bibleverse{22}Bringe den Geringen nicht um das Seine, weil er gering ist, und zertritt den Armen nicht im Tor<sup title=“= vor Gericht”>&#x2732;</sup>,
+\bibleverse{23}denn der HERR wird ihre Sache führen und denen, die sie berauben, das Leben rauben.
+
+\bibleverse{24}Befreunde dich nicht mit einem Zornmütigen und habe keinen Umgang mit einem Hitzkopf,
+\bibleverse{25}damit du dich nicht an seine Pfade gewöhnst und dir einen Fallstrick für deine Seele<sup title=“oder: dein Leben”>&#x2732;</sup> zulegst.
+
+\bibleverse{26}Gehöre nicht zu denen, die Handschlag geben, zu denen, die für (fremde) Schulden Bürgschaft leisten;
+\bibleverse{27}denn wenn du nicht imstande bist zu zahlen: warum soll man dir das Bett unter dem Leibe wegnehmen?
+
+\bibleverse{28}Verrücke nicht die uralten Grenzsteine, die deine Väter gesetzt haben. –
+\bibleverse{29}Siehst du einen Mann, der in seinem Geschäft<sup title=“oder: Fach”>&#x2732;</sup> tüchtig ist, so wisse: bei Königen kann er in Dienst treten; er braucht nicht niedrigen Leuten seine Dienste zu widmen.
+
+# 23
+\bibleverse{1}Wenn du mit einem Herrscher<sup title=“oder: Großen”>&#x2732;</sup> zu Tische sitzt, so beachte wohl, wen du vor dir hast,
+\bibleverse{2}und setze dir ein Messer an die Kehle, wenn du starke Eßlust hast!
+\bibleverse{3}Laß dich nicht nach seinen Leckerbissen gelüsten, denn sie sind eine trügliche Speise.
+
+\bibleverse{4}Mühe dich nicht, dir Reichtum zu erwerben: dazu biete deine Klugheit nicht auf!
+\bibleverse{5}Kaum hast du deine Blicke auf ihn gerichtet, so ist er schon verschwunden; denn sicherlich verschafft er sich Flügel wie ein Adler, der gen Himmel fliegt.
+
+\bibleverse{6}Speise nicht bei einem Mißgünstigen und laß dich nicht nach seinen Leckerbissen gelüsten!
+\bibleverse{7}Denn wie einer, der alles bei sich berechnet, so gibt er sich: »Iß und trink!« sagt er zu dir, ohne es dir jedoch im Herzen zu gönnen.
+\bibleverse{8}So mußt du denn den Bissen, den du genossen hast, wieder ausspeien, und deine freundlichen Worte<sup title=“= Dankesworte”>&#x2732;</sup> hast du verschwendet.
+
+\bibleverse{9}Rede nicht vor den Ohren eines Toren, denn er hat für deine verständigen Worte nur Verachtung. –
+\bibleverse{10}Verrücke die Grenzsteine der Witwe nicht und dringe nicht in den Ackerbesitz der Verwaisten ein!
+\bibleverse{11}Denn ihr Rechtsbeistand ist stark: der wird ihre Sache gegen dich führen.
+
+\bibleverse{12}Bringe dein Herz der Unterweisung entgegen und deine Ohren einsichtsvollen Reden.
+
+\bibleverse{13}Erspare deinem Kinde die Züchtigung nicht! Denn schlägst du es mit der Rute, wird es nicht zu sterben brauchen.
+\bibleverse{14}Du wirst es mit der Rute schlagen und dadurch sein Leben vor dem Totenreich bewahren.
+
+\bibleverse{15}Mein Sohn, wenn dein Herz weise wird, so wird das auch für mich eine herzliche Freude sein;
+\bibleverse{16}und mein Innerstes wird frohlocken, wenn deine Lippen reden, was recht ist.
+
+\bibleverse{17}Dein Herz ereifere sich nicht bezüglich der Sünder, wohl aber bezüglich der Furcht des HERRN allezeit:
+\bibleverse{18}denn es gibt (für dich) sicherlich noch eine Zukunft, und deine Hoffnung wird nicht zuschanden werden.
+
+\bibleverse{19}Höre du zu, mein Sohn, damit du weise wirst, und laß dein Herz geradeaus den rechten Weg gehen!
+\bibleverse{20}Gehöre nicht zu den Trunkenbolden, noch zu denen, die im Fleischgenuß schwelgen!
+\bibleverse{21}Denn Säufer und Schlemmer verarmen, und Schläfrigkeit gibt Lumpen zur Kleidung.
+
+\bibleverse{22}Gehorche deinem Vater, der dir das Leben gegeben hat, und verachte deine Mutter nicht, wenn sie alt geworden ist!
+\bibleverse{23}Kaufe dir Wahrheit und verkaufe sie nicht wieder, Weisheit und Zucht und Einsicht.
+\bibleverse{24}Laut frohlockt der Vater eines frommen (Sohnes); und die ein verständiges Kind geboren hat, darf sich seiner freuen.
+\bibleverse{25}Mögen dein Vater und deine Mutter solche Freude haben und sie, die dir das Leben gegeben haben, (über dich) frohlocken!
+
+\bibleverse{26}Gib mir, mein Sohn, dein Herz und laß deinen Augen meine Wege wohlgefallen!
+\bibleverse{27}Denn eine tiefe Grube ist die Lustdirne und ein enger Brunnen die Buhlerin<sup title=“oder: eine Ehebrecherin”>&#x2732;</sup>.
+\bibleverse{28}Überdies liegt sie auf der Lauer wie ein Räuber und vermehrt die (Zahl der) Treulosen unter den Menschen.
+
+\bibleverse{29}Bei wem findet sich Ach? Bei wem Wehe? Bei wem Händel? Bei wem Klagen? Bei wem Wunden ohne Ursache? Bei wem trübe Augen?
+\bibleverse{30}Bei denen, die noch spät beim Wein sitzen, die da einkehren, um den Mischtrank zu prüfen<sup title=“= auszukosten”>&#x2732;</sup>.
+\bibleverse{31}Sieh den Wein nicht an, wie er rötlich schimmert, wie hell er im Becher funkelt und so sanft hinuntergleitet!
+\bibleverse{32}Aber hinterher beißt er wie eine Schlange und spritzt Gift wie eine Otter.
+\bibleverse{33}Deine Augen werden seltsame Dinge sehen, und dein Herz wird verkehrtes Zeug reden<sup title=“oder: denken”>&#x2732;</sup>;
+\bibleverse{34}und du wirst sein wie einer, der tief unten im Meer liegt, und wie einer, der oben im Mastkorb liegt.
+\bibleverse{35}»Man hat mich geschlagen, aber es hat mir nicht weh getan; man hat mich geprügelt, aber ich habe nichts davon gefühlt. Wann werde ich aufwachen? Dann will ich es wieder so machen, will ihn<sup title=“d.h. den Wein”>&#x2732;</sup> aufs neue aufsuchen.«
+
+# 24
+\bibleverse{1}Sei nicht neidisch auf böse Menschen und laß dich nicht gelüsten, ihr Genosse zu sein!
+\bibleverse{2}Denn ihr Herz sinnt auf Gewalttat, und ihre Lippen reden Unheil.
+
+\bibleverse{3}Durch Weisheit wird ein Haus gebaut und durch Einsicht fest gegründet;
+\bibleverse{4}und durch Klugheit füllen sich die Kammern<sup title=“oder: Zimmer”>&#x2732;</sup> mit allerlei kostbarem und herrlichem Besitz.
+
+\bibleverse{5}Ein weiser Mann ist einem starken überlegen und ein einsichtiger einem kraftvollen;
+\bibleverse{6}denn mit klugen Maßnahmen wirst du den Krieg glücklich führen, und der Sieg ist da, wo Ratgeber in großer Zahl vorhanden sind.
+
+\bibleverse{7}Unerschwinglich<sup title=“oder: unerreichbar”>&#x2732;</sup> ist für den Toren die Weisheit; darum tut er am Tor<sup title=“= bei Beratungen”>&#x2732;</sup> den Mund nicht auf.
+
+\bibleverse{8}Wer darauf ausgeht, Böses zu tun, den nennt man einen Bösewicht.
+
+\bibleverse{9}Die Sünde ist ein Vorhaben des Unverstandes, und der Spötter ist ein Greuel für die Menschen.
+
+\bibleverse{10}Hast du dich in der Zeit (des Glücks) schlaff gezeigt, so ist deine Kraft auch in der Zeit der Not schwach.
+
+\bibleverse{11}Rette die, welche (unschuldig) zum Tode geschleppt werden, und die zur Hinrichtung Wankenden – o befreie sie doch!
+\bibleverse{12}Wolltest du sagen: »Wir haben ja nichts davon gewußt«: wird nicht er, der die Herzen wägt<sup title=“= prüft”>&#x2732;</sup>, es durchschauen und er, der deine Seele beobachtet, es wissen? Ja, er wird jedem nach seinem Tun vergelten.
+
+\bibleverse{13}Iß Honig, mein Sohn, denn er ist gesund, und Honigseim schmeckt deinem Gaumen süß.
+\bibleverse{14}Ebenso heilsam erachte die Weisheit für deine Seele! Hast du sie erlangt, so ist eine Zukunft (für dich) vorhanden, und deine Hoffnung wird nicht zuschanden werden.
+
+\bibleverse{15}Belaure nicht, du Gottloser, die Wohnung des Gerechten und verstöre seine Lagerstätte nicht!
+\bibleverse{16}Denn siebenmal fällt der Gerechte und steht wieder auf, die Gottlosen aber stürzen nieder im Unglück.
+
+\bibleverse{17}Wenn dein Feind zu Fall kommt, so freue dich nicht, und wenn er strauchelt, so frohlocke dein Herz nicht,
+\bibleverse{18}damit der HERR es nicht sieht und Mißfallen empfindet und seinen Zorn von ihm weg (gegen dich) wendet.
+
+\bibleverse{19}Erhitze dich nicht über die Übeltäter, ereifere dich nicht über die Gottlosen!
+\bibleverse{20}Denn für den Bösen gibt es keine Zukunft, und die Leuchte der Gottlosen erlischt.
+
+\bibleverse{21}Mein Sohn, fürchte den HERRN und den König und laß dich nicht mit Mißvergnügten ein!
+\bibleverse{22}Denn plötzlich bricht das Verderben über sie herein, und der Untergang der Mißvergnügten kommt unvermutet.
+
+## IV. Zweite Sammlung von Aussprüchen der Weisen
+
+\bibleverse{23}Auch die folgenden Sprüche stammen von Weisen:
+
+In einer Rechtssache die Person ansehen, ist ein übel Ding.
+\bibleverse{24}Wer zu dem Schuldigen sagt: »Du bist im Recht«, den verwünschen die Völker, verfluchen die Völkerschaften;
+\bibleverse{25}aber denen, die gerecht entscheiden, ergeht es gut, und reicher Segen wird ihnen zuteil.
+
+\bibleverse{26}Wie ein Kuß auf die Lippen ist eine treffende Antwort.
+
+\bibleverse{27}Besorge (zunächst) deine Obliegenheiten draußen und verrichte deine Arbeit auf dem Felde; darnach magst du dir einen (eigenen) Hausstand gründen.
+
+\bibleverse{28}Tritt nicht als falscher Zeuge<sup title=“oder: Ankläger”>&#x2732;</sup> gegen einen andern auf und richte keine Täuschung mit deinen Lippen an.
+\bibleverse{29}Sage nicht: »Wie er mir getan hat, so will ich ihm wieder tun: ich will dem Manne nach seinem Tun vergelten.«
+
+\bibleverse{30}Am Acker eines faulen Mannes kam ich vorüber und am Weinberg eines unverständigen Menschen;
+\bibleverse{31}und siehe da: er war ganz mit Disteln überwachsen, seine Oberfläche mit Unkraut bedeckt und seine Steinmauer eingestürzt.
+\bibleverse{32}Als ich das sah, nahm ich es mir zu Herzen, ich beachtete es und ließ es mir zur Lehre dienen:
+\bibleverse{33}»Noch ein wenig Schlaf, noch ein wenig Schlummer, noch ein wenig die Hände falten, um auszuruhen!«
+\bibleverse{34}So kommt denn die Armut im Eilschritt über dich und der Mangel über dich wie ein gewappneter Mann<sup title=“vgl. 6,9-11”>&#x2732;</sup>.
+
+## V. Dritte Sammlung von Sprüchen Salomos (Kap. 25-29)
+
+# 25
+\bibleverse{1}Auch dies sind Sprüche von Salomo, welche die Männer Hiskias, des Königs von Juda, gesammelt haben.
+
+\bibleverse{2}Gottes Ehre ist es, eine Sache zu verbergen, aber der Könige Ehre ist es, eine Sache ans Licht zu bringen. –
+\bibleverse{3}Wie des Himmels Höhe und der Erde Tiefe, so ist auch das Herz der Könige unerforschlich. –
+\bibleverse{4}Nur wenn die Schlacken vom Silber geschieden werden, so kommt dem Goldschmied ein Gerät zustande.
+\bibleverse{5}Nur wenn die Gottlosen aus der Nähe des Königs entfernt werden, so wird sein Thron durch Gerechtigkeit feststehen. –
+\bibleverse{6}Brüste dich nicht vor dem König und stelle dich nicht an den Platz der Großen!
+\bibleverse{7}Denn besser ist’s, daß man zu dir sagt: »Rücke herauf, hierher«, als daß man dich vor einem Vornehmen herunterrücken läßt. –
+\bibleverse{8}Was du mit deinen Augen gesehen hast, mache nicht voreilig zum Gegenstand einer Anklage; denn was willst du hinterher anfangen, wenn dein Nächster dich schmählich widerlegt? –
+\bibleverse{9}Bringe deinen Rechtshandel mit deinem Gegner zum Austrag, aber verrate dabei kein fremdes Geheimnis,
+\bibleverse{10}damit, wer es hört, dich nicht schmäht und dein übler Ruf nicht wieder schwindet. –
+\bibleverse{11}Wie goldene Äpfel in silbernen Prunkschalen, so ist ein Wort, gesprochen zu rechter Zeit. –
+\bibleverse{12}Ein goldener Ring und ein Geschmeide von feinem Gold: so ist ein weiser Tadler<sup title=“oder: Mahner”>&#x2732;</sup> für ein aufmerksames Ohr. –
+\bibleverse{13}Wie Kühlung durch Schnee an einem Erntetage, so ist ein treuer Bote für seinen Auftraggeber: er erquickt das Herz seines Herrn. –
+\bibleverse{14}Wie Gewölk und Wind und doch kein Regen: so ist ein Mann, der mit Geschenken prahlt, die er nie gibt. –
+\bibleverse{15}Durch leidenschaftslose Ruhe wird der Fürst gewonnen, und eine sanfte Zunge zerbricht Knochen. –
+\bibleverse{16}Hast du Honig gefunden, so genieße davon nur ein genügend Teil, damit du nicht übersatt wirst und ihn wieder ausspeien mußt. –
+\bibleverse{17}Setze deinen Fuß nur selten in das Haus deines Nächsten, damit er deiner nicht überdrüssig wird und dich dann haßt. –
+\bibleverse{18}Streithammer, Schwert und spitzer Pfeil: so ist ein Mann, der gegen einen andern als falscher Zeuge aussagt. –
+\bibleverse{19}Ein brüchiger Zahn und ein wankender Fuß: so ist ein treuloser Mensch in der Zeit der Not. –
+\bibleverse{20}Wie einer, der Essig auf eine Wunde gießt, so (verkehrt) ist jemand, der einem bekümmerten Herzen Lieder vorsingt. –
+\bibleverse{21}Wenn deinen Feind hungert, so speise ihn mit Brot, und wenn ihn dürstet, so gib ihm Wasser zu trinken;
+\bibleverse{22}denn damit häufst du glühende Kohlen auf sein Haupt, und der HERR wird dir’s vergelten. –
+\bibleverse{23}Nordwind bringt Regen herbei, und Ohrenbläserei verursacht verdrießliche Gesichter. –
+\bibleverse{24}Besser ist es, auf dem Dach in einem Winkel zu wohnen, als mit einem zänkischen Weibe in gemeinsamem Hause<sup title=“vgl. 21,9”>&#x2732;</sup>. –
+\bibleverse{25}Kühles Wasser für eine lechzende Seele: so ist eine gute Nachricht aus fernem Lande. –
+\bibleverse{26}Eine getrübte Quelle und ein verschütteter Brunnen: so ist ein Gerechter, der vor dem Gottlosen wankt. –
+\bibleverse{27}Zuviel Honig essen ist nicht heilsam, darum sei sparsam mit ehrenden Worten. –
+\bibleverse{28}Wie eine Stadt, deren Mauern niedergerissen sind, so ist ein Mann, dessen Geiste Selbstbeherrschung mangelt.
+
+# 26
+\bibleverse{1}So wenig Schnee zum Sommer und so wenig Regen zur Erntezeit paßt, so ungehörig ist Ehre für den Toren. –
+\bibleverse{2}Wie ein Sperling, der davonflattert, und wie eine Schwalbe, die wegfliegt, so ist ein unverdienter Fluch: er trifft nicht ein.
+\bibleverse{3}Die Peitsche für das Pferd, der Zaum für den Esel und der Stock für den Rücken der Toren. –
+\bibleverse{4}Antworte dem Toren nicht im Anschluß an seine Narrheit, damit du selbst ihm nicht gleich wirst;
+\bibleverse{5}antworte dem Toren im Anschluß an seine Narrheit, damit er sich nicht selbst weise dünkt. –
+\bibleverse{6}Die Füße haut sich ab und Unheil bekommt zu schlucken, wer Aufträge durch einen Toren ausrichten läßt. –
+\bibleverse{7}Schlaff<sup title=“= unbrauchbar”>&#x2732;</sup> hängen die Beine an einem Lahmen herab; ebenso ist ein Weisheitsspruch im Munde der Toren. –
+\bibleverse{8}Wie wenn man einen Stein an einer Schleuder festbindet, so (sinnlos) ist es, wenn man einem Toren Ehre erweist. –
+\bibleverse{9}Ein Dornzweig, der einem Trunkenen in die Hand gerät: so ist ein Weisheitsspruch im Munde von Toren.
+\bibleverse{10}Wie ein Schütze, der alle Vorübergehenden verwundet: so ist, wer Toren oder Trunkene dingt. –
+\bibleverse{11}Wie ein Hund, der zu seinem Gespei zurückkehrt, so ist ein Tor, der seinen Unverstand wiederholt. –
+\bibleverse{12}Siehst du einen Mann, der sich selbst für weise hält: da ist für einen Toren mehr Hoffnung vorhanden als für ihn. –
+\bibleverse{13}Der Faule sagt: »Ein Leu ist auf dem Wege, ein Löwe innerhalb der Straßen.«<sup title=“vgl. 22,13”>&#x2732;</sup> –
+\bibleverse{14}Die Tür dreht sich in ihrer Angel und der Faule in seinem Bett. –
+\bibleverse{15}Hat der Faule seine Hand in die Eßschüssel gesteckt, so ist es ihm beschwerlich, sie zu seinem Munde zurückzubringen<sup title=“vgl. 19,24”>&#x2732;</sup>. –
+\bibleverse{16}Ein Fauler kommt sich selbst weiser vor als sieben (Weise), die verständig zu antworten verstehen. –
+\bibleverse{17}Wie einer, der einen vorüberlaufenden Hund bei den Ohren packt, so ist, wer sich in einen Streit einmischt, der ihn nichts angeht. –
+\bibleverse{18}Wie einer, der sich wahnsinnig stellt und dabei Brandpfeile und todbringende Geschosse schleudert,
+\bibleverse{19}so ist ein Mann, der einen andern betrogen hat und dann sagt: »Ich habe ja nur gescherzt.« –
+\bibleverse{20}Wo das Holz fehlt, erlischt das Feuer, und wo kein Ohrenbläser ist, da hört der Streit auf. –
+\bibleverse{21}Kohlen schüren die Glut und Holz das Feuer, und ein zanksüchtiger Mensch schürt den Streit. –
+\bibleverse{22}Die Worte des Ohrenbläsers sind wie Leckerbissen, die in das Innerste des Leibes hinabdringen. –
+\bibleverse{23}Blanke Glasur, mit der ein irdenes Gefäß überzogen ist: so sind liebeglühende Lippen und ein boshaftes Herz. –
+\bibleverse{24}Mit seinen Lippen verstellt sich der Hassende, aber in seinem Innern hegt er Trug;
+\bibleverse{25}wenn er freundliche Worte redet, so traue ihm nicht! Denn sieben Greuel hegt er in seinem Herzen. –
+\bibleverse{26}Mag Haß sich auch hinter Verstellung verbergen, so wird seine Bosheit doch in der Gerichtsversammlung offenbar werden. –
+\bibleverse{27}Wer (anderen) eine Grube gräbt, fällt (selbst) hinein; und wer einen Stein (auf andere) wälzt, auf den rollt er zurück. –
+\bibleverse{28}Eine Lügenzunge haßt die von ihr Vernichteten, und ein glatter<sup title=“= schmeichlerischer”>&#x2732;</sup> Mund bringt zu Fall<sup title=“oder: richtet Verderben an”>&#x2732;</sup>.
+
+# 27
+\bibleverse{1}Rühme dich nicht des morgenden Tages, denn du weißt nicht, was ein Tag gebiert<sup title=“oder: bringen mag”>&#x2732;</sup>. –
+\bibleverse{2}Ein anderer rühme dich, aber nicht dein eigener Mund; ein Fremder, aber nicht deine eigenen Lippen. –
+\bibleverse{3}Schwer mag ein Stein sein und der Sand eine Last, aber Verdruß über einen Toren ist schwerer als beide. –
+\bibleverse{4}Die Wut mag grimmig sein und der Zorn überwallen, aber wer kann der Eifersucht Widerstand leisten? –
+\bibleverse{5}Besser ist ein offen ausgesprochener Tadel als eine Liebe, welche verschleiert. –
+\bibleverse{6}Treuer gemeint sind die von Freundes Hand versetzten Schläge als die überreichlichen Küsse des Hassenden. –
+\bibleverse{7}Wessen Hunger gestillt ist, der tritt Honigseim mit Füßen; aber einem Hungrigen schmeckt alles Bittere süß. –
+\bibleverse{8}Wie ein Vogel, der aus seinem Neste verscheucht ist, so ein Mann, der fern von seiner Heimat schweift. –
+\bibleverse{9}Salböl und Räucherwerk erfreuen das Herz, aber von Leiden wird die Seele zerrissen. –
+\bibleverse{10}Deinen Freund und deines Vaters Freund verlaß nicht und begib dich nicht in das Haus deines Bruders am Tage deines Unglücks; besser ist ein Nachbar in der Nähe als ein Bruder in der Ferne, (wenn du in Not bist). –
+\bibleverse{11}Sei weise, mein Sohn, und erfreue dadurch mein Herz, damit ich mich gegen den, der mich schmäht, verantworten kann. –
+\bibleverse{12}Der Kluge sieht die Gefahr und birgt sich; die Einfältigen aber gehen weiter und erleiden Schaden<sup title=“vgl. 22,3”>&#x2732;</sup>. –
+\bibleverse{13}Nimm ihm seinen Rock weg, denn er hat sich für einen andern verbürgt, und um fremder Leute willen pfände ihn aus!<sup title=“vgl. 20,16”>&#x2732;</sup> –
+\bibleverse{14}Wenn jemand seinen Nächsten am Morgen ganz früh mit lautem Segenswunsch begrüßt, so wird ihm das als (versteckte) Verwünschung ausgelegt. –
+\bibleverse{15}Eine bei Regenwetter stets rinnende Dachtraufe und ein zänkisches Weib gleichen sich<sup title=“19,13”>&#x2732;</sup>;
+\bibleverse{16}wer dieses zur Ruhe bringt, kann auch den Wind zur Ruhe bringen und mit seiner Hand Öl festhalten. –
+\bibleverse{17}Eisen wird durch Eisen geschärft, und ein Mensch schärft das Gesicht<sup title=“= Verhalten?”>&#x2732;</sup> des andern. –
+\bibleverse{18}Wer einen Feigenbaum pflegt, wird seine Früchte genießen; und wer seinem Herrn aufmerksam dient, wird geehrt werden<sup title=“oder: reichen Lohn ernten”>&#x2732;</sup>. –
+\bibleverse{19}Wie das eine Gesicht neben dem andern, ebenso sind die Herzen der Menschen verschieden. –
+\bibleverse{20}Unterwelt und Abgrund<sup title=“= Hölle”>&#x2732;</sup> sind unersättlich; ebenso werden auch die Augen des Menschen nicht satt. –
+\bibleverse{21}Der Schmelztiegel ist für das Silber und der Ofen für das Gold; ein Mann aber wird beurteilt nach Maßgabe seines Rufes. –
+\bibleverse{22}Wenn du auch den Toren im Mörser mitten unter der Grütze mit dem Stößel zerstießest, so würde doch seine Torheit nicht von ihm weichen.
+
+\bibleverse{23}Gib auf das Aussehen deines Kleinviehs wohl acht und richte deine Aufmerksamkeit auf deine Herden;
+\bibleverse{24}denn Wohlstand dauert nicht ewig; und vererbt sich etwa eine Krone von Geschlecht auf Geschlecht?
+\bibleverse{25}Ist das Gras<sup title=“= Wildwuchs”>&#x2732;</sup> geschwunden und das junge Grün abgeweidet und sind die Kräuter der Berge vernichtet,
+\bibleverse{26}so (liefern) die Lämmer dir Kleidung, und die Böcke (dienen dir als) Kaufgeld für einen Acker;
+\bibleverse{27}und Ziegenmilch ist reichlich da zu deiner Nahrung, zur Ernährung deiner Familie, und Lebensunterhalt für deine Mägde.
+
+# 28
+\bibleverse{1}Die Gottlosen fliehen, ohne daß jemand sie verfolgt, die Gerechten aber sind unerschrocken wie ein junger Löwe. –
+\bibleverse{2}Durch die Sündhaftigkeit eines Landes tritt häufiger Fürstenwechsel ein; aber durch einen einsichtigen, erfahrenen Mann gewinnt der Rechtsstand lange Dauer. –
+\bibleverse{3}Ein Mann, der an der Spitze steht und die Geringen bedrückt, ist wie ein Regen, der (das Erdreich) wegschwemmt, ohne Brot<sup title=“= Brotkorn, Getreide”>&#x2732;</sup> zu bringen. –
+\bibleverse{4}Menschen, die das Gesetz (Gottes) verlassen, rühmen den Gottlosen; die aber das Gesetz beobachten, sind entrüstet über ihn. –
+\bibleverse{5}Böse Menschen verstehen sich nicht auf das, was recht ist; die aber den HERRN suchen, verstehen es in jeder Hinsicht. –
+\bibleverse{6}Besser ist ein Armer, der in seiner Unschuld wandelt, als ein Mensch, der auf krummen Wegen geht und dabei reich ist. –
+\bibleverse{7}Wer am Gesetz (Gottes) festhält, ist ein verständiger Sohn; wer sich aber zu Schlemmern gesellt, macht seinem Vater Schande. –
+\bibleverse{8}Wer sein Vermögen durch Zins und Wucher vermehrt, sammelt es für den, der sich der Armen erbarmt. –
+\bibleverse{9}Wer sein Ohr abwendet, um das Gesetz (Gottes) nicht zu hören, dessen Gebet sogar ist ein Greuel. –
+\bibleverse{10}Wer Rechtschaffene irreführt auf bösen Weg, wird in die eigene Grube fallen; die Unsträflichen aber werden Segen erlangen. –
+\bibleverse{11}Ein reicher Mann hält sich selbst für weise, aber ein Armer, der einsichtig ist, forscht ihn aus<sup title=“= durchschaut ihn”>&#x2732;</sup>. –
+\bibleverse{12}Wenn die Gerechten frohlocken, ist die Herrlichkeit groß; wenn aber die Gottlosen hochkommen, halten sich die Menschen versteckt<sup title=“vgl. 28,28”>&#x2732;</sup>. –
+\bibleverse{13}Wer seine Übertretungen zu verheimlichen sucht, dem wird es nicht gelingen; wer sie aber bekennt und davon abläßt, wird Vergebung erlangen. –
+\bibleverse{14}Wohl dem, der beständig in der Furcht (Gottes) bleibt! Wer aber sein Herz verhärtet, wird in Unglück geraten. –
+\bibleverse{15}Ein brüllender Löwe und ein raubgieriger Bär: so ist ein gottloser Herrscher für ein armes Volk. –
+\bibleverse{16}Ein Fürst, arm an Einsicht, ist oft reich an Erpressungen; aber nur ein den unrechtmäßigen Gewinn hassender Fürst wird es zu langem Leben bringen. –
+\bibleverse{17}Ein Mensch, der Blutschuld auf dem Gewissen hat, ist bis zur Grube ein unsteter Flüchtling: niemand helfe ihm auf! –
+\bibleverse{18}Wer unsträflich wandelt, wird gerettet werden<sup title=“= unverletzt bleiben”>&#x2732;</sup>; wer aber krumme Wege einschlägt, fällt in die Grube. –
+\bibleverse{19}Wer seinen Acker bestellt, wird reichlich Brot haben; wer aber nichtigen Dingen nachjagt, wird reichlich Armut haben<sup title=“vgl. 12,11”>&#x2732;</sup>. –
+\bibleverse{20}Ein treuer Mann wird reich gesegnet; wer aber möglichst schnell reich werden will, wird nicht schuldlos<sup title=“oder: ungestraft”>&#x2732;</sup> bleiben. –
+\bibleverse{21}Parteiisch sein ist ein übel Ding, aber mancher läßt sich schon durch ein Stück Brot zum Bösen verführen. –
+\bibleverse{22}Ein scheelblickender<sup title=“= mißgünstiger”>&#x2732;</sup> Mensch trachtet gierig nach Reichtum und bedenkt nicht, daß Mangel über ihn kommen wird. –
+\bibleverse{23}Wer einen andern zurechtweist, wird schließlich mehr Dank ernten, als wer mit glatter Zunge schmeichelt. –
+\bibleverse{24}Wer seinem Vater und seiner Mutter das Ihre nimmt und behauptet, das sei keine Sünde, der ist ein Genosse des Verderbers<sup title=“= nicht besser als der schwerste Verbrecher”>&#x2732;</sup>. –
+\bibleverse{25}Der Habgierige erregt Streit; wer aber auf den HERRN vertraut, wird reichlich gesättigt. –
+\bibleverse{26}Wer sich auf seinen Verstand verläßt, der ist ein Tor; wer aber in Weisheit wandelt, der wird (dem Unglück) entrinnen. –
+\bibleverse{27}Wer dem Armen gibt, wird keinen Mangel leiden; wer aber seine Augen verhüllt, wird mit Flüchen überhäuft werden. –
+\bibleverse{28}Wenn die Gottlosen hochkommen, verbergen sich die Leute; wenn sie aber umkommen, werden die Gerechten mächtig<sup title=“oder: mehren sich die Gerechten”>&#x2732;</sup>.
+
+# 29
+\bibleverse{1}Ein Mensch, der allen Warnungen gegenüber halsstarrig bleibt, wird plötzlich unheilbar<sup title=“oder: rettungslos”>&#x2732;</sup> zerschmettert werden. –
+\bibleverse{2}Wenn die Gerechten die Oberhand haben, so freut sich das Volk; wenn aber ein Gottloser herrscht, so seufzt das Volk. –
+\bibleverse{3}Wenn jemand die Weisheit liebt, macht er seinem Vater Freude; wer aber mit Dirnen umgeht, bringt sein Vermögen durch. –
+\bibleverse{4}Ein König verleiht durch Gerechtigkeit dem Lande Bestand; wer aber immer neue Abgaben erpreßt, richtet es zugrunde. –
+\bibleverse{5}Ein Mann, der seinem Nächsten schmeichelt, breitet ein Netz vor dessen Füßen aus. –
+\bibleverse{6}In der Übertretung eines bösen Menschen liegt ein Fallstrick für ihn; aber der Gerechte wird jubeln und fröhlich sein. –
+\bibleverse{7}Der Gerechte nimmt Kenntnis von der Rechtssache der Geringen, der Gottlose aber versteht sich nicht zu (solcher) Kenntnisnahme. –
+\bibleverse{8}Spötter versetzen die Stadt in Aufruhr, Weise aber beschwichtigen die Aufregung. –
+\bibleverse{9}Wenn ein weiser Mann einem törichten Menschen Vorstellungen macht, so braust der auf und lacht, aber es tritt keine Ruhe ein. –
+\bibleverse{10}Blutgierige Menschen hassen den Unschuldigen, die Rechtschaffenen aber nehmen sich seiner an. –
+\bibleverse{11}Der Tor macht seinem ganzen Unmut Luft, der Weise aber hält ihn beschwichtigend zurück. –
+\bibleverse{12}Wenn ein Herrscher auf Lügenworte horcht, so werden seine Diener alle gottlos. –
+\bibleverse{13}Der Arme und der gewalttätige (Reiche) leben beisammen; der HERR ist’s, der ihnen beiden das Augenlicht gibt. –
+\bibleverse{14}Ein König, der den Geringen gewissenhaft Recht schafft, dessen Thron wird immerdar feststehen. –
+\bibleverse{15}Rute und Zurechtweisung verleihen Weisheit; aber ein sich selbst überlassenes Kind bringt seiner Mutter Schande. –
+\bibleverse{16}Wenn die Gottlosen mächtig werden, mehren sich auch die Übertretungen; aber die Gerechten werden ihren Sturz mit Freuden sehen<sup title=“oder: erleben”>&#x2732;</sup>. –
+\bibleverse{17}Züchtige deinen Sohn, so wird er dir Behagen verschaffen und deinem Herzen Leckerbissen<sup title=“= beglückende Freude”>&#x2732;</sup> bereiten. –
+\bibleverse{18}Wenn keine prophetische Offenbarung da ist, wird das Volk zügellos; aber wohl ihm, wenn es das Gesetz (Gottes) beobachtet! –
+\bibleverse{19}Mit bloßen Worten läßt sich ein Knecht nicht zurechtbringen; denn er versteht sie wohl, richtet sich aber nicht danach. –
+\bibleverse{20}Siehst du einen Mann, der mit Worten schnell fertig ist, so ist für einen Toren mehr Hoffnung vorhanden als für ihn. –
+\bibleverse{21}Wenn einer seinen Knecht von Jugend auf verwöhnt, so will dieser schließlich Sohn im Hause sein. –
+\bibleverse{22}Ein zornmütiger Mensch ruft Streit hervor, und ein Hitzkopf richtet viel Unheil an. –
+\bibleverse{23}Hochmut wird einen Menschen erniedrigen; der Demütige dagegen wird Ehre erlangen. –
+\bibleverse{24}Wer mit Dieben gemeinsame Sache macht, haßt sein eigenes Leben: er hört die Verfluchung (des Richters) und erstattet doch keine Anzeige<sup title=“vgl. 3.Mose 5,1; Ri 17,2”>&#x2732;</sup>. –
+\bibleverse{25}Menschenfurcht legt Fallstricke; wer aber auf den HERRN vertraut, ist wohlgeborgen. –
+\bibleverse{26}Viele suchen Hilfe beim Herrscher; aber vom HERRN wird jedem sein Recht zuteil. –
+\bibleverse{27}Für die Gerechten ist ein Mensch, der unrecht tut, ein Greuel; und für den Gottlosen ist ein Greuel, wer rechtschaffen wandelt.
+
+## VI. Aussprüche Agurs
+
+# 30
+\bibleverse{1}(Dies sind) die Sprüche Agurs, des Sohnes Jakes, aus Massa. So lautet der Ausspruch des Mannes: »Ich habe mich abgemüht, o Gott, ich habe mich abgemüht, o Gott, und bin dahingeschwunden<sup title=“= erschöpft”>&#x2732;</sup>;
+\bibleverse{2}denn ich bin ein vernunftloses Geschöpf, kein Mensch, und besitze keinen Menschenverstand<sup title=“vgl. Ps 73,22”>&#x2732;</sup>;
+\bibleverse{3}auch Weisheit habe ich nicht gelernt, daß ich die Erkenntnis des heiligen (Gottes) gewonnen hätte.
+\bibleverse{4}Wer ist in den Himmel emporgestiegen und wieder herabgekommen? Wer hat den Wind in seine Fäuste gesammelt, wer die Wasser in ein Gewand<sup title=“oder: Tuch”>&#x2732;</sup> gebunden? Wer hat alle Enden der Erde festgestellt? Wie heißt er, und wie heißt sein Sohn? Weißt du es etwa?«
+
+\bibleverse{5}Jedes Wort Gottes ist lautere Wahrheit; ein Schild ist er denen, die Zuflucht bei ihm suchen.
+\bibleverse{6}Füge nichts zu seinen Worten hinzu, damit er dich nicht zur Rechenschaft zieht und du als Lügner dastehst!
+
+\bibleverse{7}Um zweierlei bitte ich dich – versage es mir nicht, ehe ich sterbe –:
+\bibleverse{8}Falschheit und Lügenwort halte fern von mir! Armut und Reichtum gib mir nicht! Laß mich (aber) den mir zukommenden Teil von Nahrung verzehren,
+\bibleverse{9}damit ich nicht aus Übersättigung dich verleugne und sage: »Wer ist der HERR?«, aber auch nicht infolge der Armut zum Diebe werde und mich am Namen meines Gottes vergreife<sup title=“d.h. den Namen Gottes entehre”>&#x2732;</sup>.
+
+\bibleverse{10}Verleumde einen Knecht<sup title=“= Sklaven”>&#x2732;</sup> nicht bei seinem Herrn, damit er dir nicht flucht und du es büßen mußt.
+
+\bibleverse{11}(Ein Greuel für den HERRN ist) ein Geschlecht, das seinem Vater flucht und seine Mutter nicht segnet,
+\bibleverse{12}ein Geschlecht, das sich selbst für rein hält und doch von seiner Unreinheit sich nicht gesäubert hat,
+\bibleverse{13}ein Geschlecht, das den Kopf wunder wie hoch trägt und auf andere mit stolz erhobenen Augen herabblickt,
+\bibleverse{14}ein Geschlecht, dessen Zähne Schwerter sind und dessen Gebiß aus Messern besteht, um die Elenden aus dem Lande wegzufressen und die Armen aus der Mitte der Menschen.
+
+\bibleverse{15}Aluka hat zwei Töchter: »Gib her! Gib her!« Drei gibt es, die nicht satt werden, und vier sagen niemals: »Genug!«,
+\bibleverse{16}nämlich das Totenreich und der unfruchtbare Mutterschoß, die Erde, die des Wassers nie satt wird, und das Feuer, das niemals sagt: »Genug!«
+
+\bibleverse{17}Ein Auge, das den Vater verspottet und die greise Mutter verachtet, das müssen die Raben am Bach aushacken und die jungen Geier fressen.
+
+\bibleverse{18}Drei Dinge sind es, die mir zu wunderbar erscheinen, und vier, die ich nicht begreife:
+\bibleverse{19}des Adlers Weg am Himmel, der Schlange Weg über den Felsen, des Schiffes Weg mitten auf dem Meer und des Mannes Weg bei<sup title=“oder: mit”>&#x2732;</sup> einem Weibe. –
+\bibleverse{20}So ist das Verhalten eines ehebrecherischen Weibes: sie ißt<sup title=“= genießt”>&#x2732;</sup> und wischt sich den Mund ab und sagt: »Ich habe nichts Unrechtes getan.«
+
+\bibleverse{21}Unter drei Dingen erzittert die Erde, und unter vieren kann sie es nicht aushalten:
+\bibleverse{22}unter einem Sklaven, wenn er König wird, und unter einem ruchlosen<sup title=“oder: gemeinen”>&#x2732;</sup> Menschen, wenn er Brot in Fülle hat;
+\bibleverse{23}unter einer unleidlichen<sup title=“oder: lange verschmähten”>&#x2732;</sup> Frau, wenn sie zur Ehe kommt, und unter einer Magd, wenn sie ihre Herrin verdrängt<sup title=“= an die Stelle ihrer Herrin tritt”>&#x2732;</sup>.
+
+\bibleverse{24}Vier Tiere gehören zu den kleinsten auf Erden und sind doch unglaublich klug:
+\bibleverse{25}die Ameisen, ein schwaches Volk, aber sie bereiten sich im Sommer ihren Speisebedarf;
+\bibleverse{26}die Klippdachse<sup title=“vgl. Ps 104,18”>&#x2732;</sup>, ein Volk ohne Kraft, aber sie legen ihre Wohnung in den Felsen an;
+\bibleverse{27}die Heuschrecken, die keinen König haben, und doch zieht ihr ganzer Schwarm wohlgeordnet daher;
+\bibleverse{28}die Eidechsen, die du mit (bloßen) Händen fangen kannst und die sich doch in Königspalästen finden.
+
+\bibleverse{29}Drei sind es, die stattlich einherschreiten, und vier, die einen würdevollen Gang haben:
+\bibleverse{30}der Löwe, der Held unter den Tieren, der vor nichts kehrt macht;
+\bibleverse{31}(der Hahn, der wohlgemut unter den Hennen einherschreitet, und der Bock, der die Ziegenherde anführt) und der König an der Spitze seines Heerbannes. –
+\bibleverse{32}Magst du töricht gewesen sein, indem du dich über den andern erhobst, oder magst du mit Überlegung gehandelt haben: lege die Hand auf den Mund!
+\bibleverse{33}Denn der Druck auf die Milch<sup title=“= das Schlagen der Milch”>&#x2732;</sup> bringt Butter hervor, und Druck auf die Nase bringt Blut hervor, und Druck auf den Zorn bringt Streit hervor.
+
+## VII. Sprüche für Lemuel (Fürstenspiegel)
+
+# 31
+\bibleverse{1}Sprüche für Lemuel, den König von Massa<sup title=“vgl. 30,1”>&#x2732;</sup>, mit denen seine Mutter ihn unterwiesen hat:
+
+\bibleverse{2}»Was mein Sohn, (was, o Lemuel, mein Erstgeborener, was soll ich dir sagen)? Ja was (soll ich dir sagen), du Sohn meines Schoßes, und was dir, du Sohn meiner Gelübde?
+\bibleverse{3}Gib nicht den Weibern deine Kraft preis und (folge nicht in deinem Tun) den Verderberinnen der Könige.
+\bibleverse{4}Es ziemt sich nicht für Könige, Lemuel, es ziemt sich nicht für Könige der Weingenuß noch für Fürsten das Verlangen nach berauschenden Getränken:
+\bibleverse{5}sie könnten sonst über dem Trinken das festgesetzte Recht außer acht lassen und der Rechtssache aller geringen Leute Eintrag tun.
+\bibleverse{6}Gebt berauschendes Getränk den Verzweifelnden und Wein denen, deren Herz bekümmert ist:
+\bibleverse{7}die mögen trinken, um ihre Armut zu vergessen und an ihr Elend nicht mehr zu denken. –
+\bibleverse{8}Tu deinen Mund auf für die Stummen, für die Sache aller Hilflosen!
+\bibleverse{9}Tu deinen Mund auf zu gerechtem Richterspruch und schaffe Recht dem Elenden und Armen!«
+
+## VIII. Lob der tüchtigen Hausfrau
+
+\bibleverse{10}Eine tüchtige Frau – wer mag sie finden? Weit über Korallen<sup title=“oder: Perlen”>&#x2732;</sup> geht ihr Wert.
+\bibleverse{11}Das Herz ihres Gatten kann sich auf sie verlassen, und an Gewinn wird es (ihm) nicht fehlen.
+\bibleverse{12}Sie erweist ihm Gutes und nichts Böses während ihrer ganzen Lebenszeit.
+\bibleverse{13}Sie trägt Sorge für Wolle und Flachs und schafft dann mit arbeitsfreudigen Händen.
+\bibleverse{14}Sie gleicht den Schiffen eines Kaufmanns: von fernher beschafft sie den Bedarf für ihren Haushalt.
+\bibleverse{15}Sie steht auf, wenn es noch Nacht ist, und gibt Kost heraus für ihre Hausgenossen und weist den Mägden ihr Tagewerk an.
+\bibleverse{16}Sie faßt den Ankauf eines Ackers ins Auge und erwirbt ihn auch; vom Ertrag ihrer Handarbeit legt sie einen Weinberg an.
+\bibleverse{17}Sie gürtet ihre Hüften mit Kraft und regt die Arme, ohne zu ermatten.
+\bibleverse{18}Sie merkt, daß ihr Schaffen Segen bringt: auch nachts erlischt ihre Lampe nicht.
+\bibleverse{19}Sie legt ihre Hände an den Spinnrocken, und ihre Finger ergreifen die Spindel.
+\bibleverse{20}Dem Elenden bietet sie ihre Hand (schenkend) dar und streckt dem Dürftigen ihre Arme entgegen.
+\bibleverse{21}Sie braucht für ihre Hausgenossen vom Schnee nichts zu fürchten; denn ihr ganzes Haus ist in Scharlachwolle gehüllt.
+\bibleverse{22}Sie fertigt sich Decken<sup title=“oder: Teppiche”>&#x2732;</sup> an; Linnen und Purpur bilden ihre Kleidung.
+\bibleverse{23}Hochgeachtet ist ihr Gatte in den Toren<sup title=“oder: in den Versammlungen auf den Märkten”>&#x2732;</sup>, wenn er mit den Ältesten<sup title=“= Vornehmsten”>&#x2732;</sup> des Landes Sitzung hält.
+\bibleverse{24}Feine Unterkleider fertigt sie an und verkauft sie, und Gürtel liefert sie dem Kaufmann.
+\bibleverse{25}Kraft und Würde sind ihr Gewand, und so sieht sie dem kommenden Tage unbesorgt entgegen.
+\bibleverse{26}Den Mund öffnet sie zu einsichtsvoller Rede, und freundliche Unterweisung liegt auf ihrer Zunge.
+\bibleverse{27}Sie überwacht alle Vorgänge in ihrem Hause und ißt nie das Brot des Müßiggangs.
+\bibleverse{28}Ihre Söhne<sup title=“oder: Kinder”>&#x2732;</sup> treten hin und preisen sie glücklich; ihr Gatte tritt hin und rühmt sie:
+\bibleverse{29}»Es gibt wohl viele Frauen, die Tüchtiges geleistet haben, doch du übertriffst sie alle!«
+\bibleverse{30}Anmut ist trügerisch, und Schönheit vergeht, aber ein gottesfürchtiges Weib ist des Lobes wert.
+\bibleverse{31}Laßt sie den Lohn ihres Schaffens genießen, und was sie geleistet hat, möge ihren Ruhm in den Toren<sup title=“oder: auf den Märkten”>&#x2732;</sup> verkünden!
