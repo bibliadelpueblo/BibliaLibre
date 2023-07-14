@@ -233,6 +233,21 @@ namespace BibleMarkdown
 		static void ShowHelp() {
 			Log(@"Bibmark usage:
 
+Bibmark converts Markdown files to various formats.
+The Bibles use a specific version of Markdown, BibleMarkdown. BibleMarkdown is
+normal pandoc Markdown, with the following extensions:
+
+- You can put a marker ^letters^ at a place where you want to have a footnote, and
+  put the footnote later in the text with regular Markdown ^letters^[The footnote] syntax.
+- You can have comments, surrounded by % signs, like %This is a comment%. A
+  comment can span multiple lines.
+- Verse numbers are noted with superscript Markdown
+  notation, like this ^1^ In the beginning was the Word and the Word was with God and
+  the Word was God. ^2^ This was in the beginning...
+
+To edit the Markdown of the Bibles, you can use a normal editor like Typora,
+stackedit.io or VisualStudio Code.
+
 Bibmark processes all the .md files in the current directory and converts them to
 other formats in the ""out"" subdirectory. The md files in the current directory must
 follow a naming schema, of two digits followed by a minus and the name of the
