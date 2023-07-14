@@ -239,6 +239,7 @@ normal pandoc Markdown, with the following extensions:
 
 - You can put a marker ^letters^ at a place where you want to have a footnote, and
   put the footnote later in the text with regular Markdown ^letters^[The footnote] syntax.
+  Within the footnote you can escape the [ and ] letters by [[ and ]].
 - You can have comments, surrounded by % signs, like %This is a comment%. A
   comment can span multiple lines.
 - Verse numbers are noted with superscript Markdown
