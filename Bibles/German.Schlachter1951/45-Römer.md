@@ -37,7 +37,7 @@
 ^2^ Wir wissen aber, daß das Gericht Gottes dem wahren Sachverhalt entsprechend über die ergeht, welche solches verüben. 
 ^3^ Oder denkst du, o Mensch, der du die richtest, welche solches verüben, und doch das Gleiche tust, daß du dem Gerichte Gottes entrinnen werdest? 
 ^4^ Oder verachtest du den Reichtum seiner Güte, Geduld und Langmut, ohne zu erkennen, daß dich Gottes Güte zur Buße leitet? 
-^5^ Aber nach deinem verstockten und unbußfertigen Herzen häufst du dir selbst den Zorn auf den Tag des Zorns und der Offenbarung des gerechten Gerichtes Gottes, 
+^5^ Aber nach deinem verstockten und unbußfertigen Herzen häufst du dir selbst Zorn auf für den Tag des Zorns und der Offenbarung des gerechten Gerichtes Gottes, 
 ^6^ welcher einem jeglichen vergelten wird nach seinen Werken; 
 ^7^ denen nämlich, die mit Ausdauer im Wirken des Guten Herrlichkeit, Ehre und Unsterblichkeit erstreben, ewiges Leben; 
 ^8^ den Streitsüchtigen aber, welche der Wahrheit ungehorsam sind, dagegen der Ungerechtigkeit gehorchen, Zorn und Grimm! 

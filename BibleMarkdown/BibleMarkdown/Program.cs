@@ -26,6 +26,7 @@ namespace BibleMarkdown
 		public static bool EachVerseOnNewLine = true;
 		public static bool FromSource = false;
 		public static bool Imported = false;
+		public static bool Help = false;
 		public static Func<string, string> Preprocess = s => s;
 		public static Func<string, string> PreprocessImportUSFM = s => s;
 		static string language;
@@ -228,6 +229,46 @@ namespace BibleMarkdown
 			if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows)) Pandoc.SetPandocPath("pandoc.exe");
 			else Pandoc.SetPandocPath("pandoc");
 		}
+
+		static void ShowHelp() {
+			Log(@"Bibmark usage:
+
+Bibmark processes all the .md files in the current directory and converts them to
+other formats in the ""out"" subdirectory. The md files in the current directory must
+follow a naming schema, of two digits followed by a minus and the name of the
+bible book, e.g. like 01-Genesis.md or 02-Exodus.md. Bibmark only processes files
+with names adhering to that schema. The md files can be constructed from various
+source formats. For this, the source files must be placed in the subdirectory ""src"".
+In the ""src"" subdirectory you can place USFM files or zefania xml files, or a BibleEdit
+folder. You can also place a script.cs file in the ""src"" folder that will be executed
+when running bibmark, that can configure bibmark for certain tasks. Next you can
+place a file booknames.xml in the ""src"" subdirectory that contains names of Bible
+books in different languages. The names of the books should correspond to the titles
+of the books in the USFM files. Then you can also import a Parallel Verses file,
+linklist.xml, that contains parallel verses.
+
+Options:
+  - -s, -src or -source:
+    If you want to import text from the src folder you need to specify this option when
+    calling bibmark.
+  - -cp:
+    (Continuous Paragraph) 
+    If you do not want to start each verse on a newline, but the whole paragraph on a
+    single line, you can specify this option. Placing each verse on a newline is more git
+    friendly, where as placing it on a single line is more readable.
+  - -ln language:
+    With this option you can specify a language. The language is used to determine
+    Book names from booknames.xml.
+  - -r or -replace replacementtext
+    The first letter of repacementtext is used as token delimiter. replacementtext is
+    then split into tokens. Every pair of tokens describes a global replacement directive,
+    where the first token is a Regex expression, and the second token is a
+    Regex replacement string.
+  - -twolanguage path1 path2
+    Produces a double column, two language bible, with the single language bibles
+    located in path1 and path2.
+  ");
+		}
 		static void Main(string[] args)
 		{
 
@@ -235,6 +276,12 @@ namespace BibleMarkdown
 			var asm = Assembly.GetExecutingAssembly();
 			var aname = asm.GetName();
 			Log($"{aname.Name}, v{aname.Version.Major}.{aname.Version.Minor}.{aname.Version.Build}.{aname.Version.Revision}");
+
+			if (args.Contains("-h") || args.Contains("-help") || args.Contains("-?"))
+			{
+				ShowHelp();
+				return;
+			}
 
 			Init();
 
