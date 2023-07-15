@@ -1,5 +1,6 @@
 ## Primer recuento de los hombres de guerra
-# 1 
+\hypertarget{section-04-1}{%
+\section{1}\label{section-04-1}}
 \bibleverse{1} Y habló Jehová á Moisés en el desierto de Sinaí, en el tabernáculo del testimonio, en el primero del mes segundo, en el segundo año de su salida de la tierra de Egipto, diciendo: 
 \bibleverse{2} Tomad el encabezamiento de toda la congregación de los hijos de Israel por sus familias, por las casas de sus padres, con la cuenta de los nombres, todos los varones por sus cabezas: 
 \bibleverse{3} De veinte años arriba, todos los que pueden salir á la guerra en Israel, los contaréis tú y Aarón por sus cuadrillas. 
@@ -110,7 +111,8 @@
 \bibleverse{54} E hicieron los hijos de Israel conforme á todas las cosas que mandó Jehová á Moisés; así lo hicieron. 
 
 ## El orden de acampamiento de las tribus
-# 2 
+\hypertarget{section-04-2}{%
+\section{2}\label{section-04-2}}
 \bibleverse{1} Y habló Jehová á Moisés y á Aarón, diciendo: 
 \bibleverse{2} Los hijos de Israel acamparán cada uno junto á su bandera, según las enseñas de las casas de sus padres; alrededor del tabernáculo del testimonio acamparán.
 
@@ -185,7 +187,8 @@
 \bibleverse{34} E hicieron los hijos de Israel conforme á todas las cosas que Jehová mandó á Moisés; así asentaron el campo por sus banderas, y así marcharon cada uno por sus familias, según las casas de sus padres. 
 
 ## Los hijos de Aaron
-# 3 
+\hypertarget{section-04-3}{%
+\section{3}\label{section-04-3}}
 \bibleverse{1} Y estas son las generaciones de Aarón y de Moisés, desde que Jehová habló á Moisés en el monte de Sinaí. 
 \bibleverse{2} Y estos son los nombres de los hijos de Aarón: Nadab el primogénito, y Abiú, Eleazar, é Ithamar.
 
@@ -287,7 +290,8 @@
 \bibleverse{51} Y Moisés dió el dinero de los rescates á Aarón y á sus hijos, conforme al dicho de Jehová, según que Jehová había mandado á Moisés. 
 
 ## Examen de los levitas aptos para el servicio, incluidas las normas de servicio
-# 4 
+\hypertarget{section-04-4}{%
+\section{4}\label{section-04-4}}
 \bibleverse{1} Y habló Jehová á Moisés y á Aarón, diciendo: 
 \bibleverse{2} Toma la cuenta de los hijos de Coath de entre los hijos de Leví, por sus familias, por las casas de sus padres, 
 \bibleverse{3} De edad de treinta años arriba hasta cincuenta años, todos los que entran en compañía, para hacer servicio en el tabernáculo del testimonio.
@@ -372,7 +376,8 @@
 \bibleverse{49} Como lo mandó Jehová por mano de Moisés fueron contados, cada uno según su oficio, y según su cargo; los cuales contó él, como le fué mandado. 
 
 ## Extracción de los inmundos del campamento
-# 5 
+\hypertarget{section-04-5}{%
+\section{5}\label{section-04-5}}
 \bibleverse{1} Y Jehová habló á Moisés, diciendo: 
 \bibleverse{2} Manda á los hijos de Israel que echen del campo á todo leproso, y á todos los que padecen flujo de semen, y á todo contaminado sobre muerto: 
 \bibleverse{3} Así hombres como mujeres echaréis, fuera del campo los echaréis; porque no contaminen el campo de aquellos entre los cuales yo habito.
@@ -418,7 +423,8 @@
 \bibleverse{31} Y aquel varón será libre de iniquidad, y la mujer llevará su pecado. 
 
 ## Normas relativas a los nazareos
-# 6 
+\hypertarget{section-04-6}{%
+\section{6}\label{section-04-6}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, y diles: El hombre, ó la mujer, cuando se apartare haciendo voto de Nazareo, para dedicarse á Jehová, 
 \bibleverse{3} Se abstendrá de vino y de sidra; vinagre de vino, ni vinagre de sidra no beberá, ni beberá algún licor de uvas, ni tampoco comerá uvas frescas ni secas. 
@@ -465,7 +471,8 @@
 \bibleverse{27} Y pondrán mi nombre sobre los hijos de Israel, y yo los bendeciré. 
 
 ## Los dones de consagración de los jefes tribales para el santuario
-# 7 
+\hypertarget{section-04-7}{%
+\section{7}\label{section-04-7}}
 \bibleverse{1} Y aconteció, que cuando Moisés hubo acabado de levantar el tabernáculo, y ungídolo y santificádolo, con todos sus vasos; y asimismo ungido y santificado el altar, con todos sus vasos; 
 \bibleverse{2} Entonces los príncipes de Israel, las cabezas de las casas de sus padres, los cuales eran los príncipes de las tribus, que estaban sobre los contados, ofrecieron; 
 \bibleverse{3} Y trajeron sus ofrendas delante de Jehová, seis carros cubiertos, y doce bueyes; por cada dos príncipes un carro, y cada uno un buey; lo cual ofrecieron delante del tabernáculo. 
@@ -687,7 +694,8 @@
 \bibleverse{89} Y cuando entraba Moisés en el tabernáculo del testimonio, para hablar con El, oía la Voz que le hablaba de encima de la cubierta que estaba sobre el arca del testimonio, de entre los dos querubines: y hablaba con él. 
 
 ## Las siete lámparas del candelero
-# 8 
+\hypertarget{section-04-8}{%
+\section{8}\label{section-04-8}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á Aarón, y dile: Cuando encendieres las lámparas, las siete lámparas alumbrarán frente á frente del candelero.
 
@@ -730,7 +738,8 @@
 \bibleverse{26} Pero servirán con sus hermanos en el tabernáculo del testimonio, para hacer la guarda, bien que no servirán en el ministerio. Así harás de los Levitas cuanto á sus oficios. 
 
 ## La celebración posterior a la Pascua para los inmundos y los viajeros; la pascua de los extraños
-# 9 
+\hypertarget{section-04-9}{%
+\section{9}\label{section-04-9}}
 \bibleverse{1} Y habló Jehová á Moisés en el desierto de Sinaí, en el segundo año de su salida de la tierra de Egipto, en el mes primero, diciendo: 
 \bibleverse{2} Los hijos de Israel harán la pascua á su tiempo. 
 \bibleverse{3} El décimocuarto día de este mes, entre las dos tardes, la haréis á su tiempo: conforme á todos sus ritos, y conforme á todas sus leyes la haréis.
@@ -767,7 +776,8 @@
 \bibleverse{23} Al dicho de Jehová asentaban, y al dicho de Jehová partían, guardando la ordenanza de Jehová, como lo había Jehová dicho por medio de Moisés. 
 
 ## Ordenanza sobre dos trompetas de plata
-# 10 
+\hypertarget{section-04-10}{%
+\section{10}\label{section-04-10}}
 \bibleverse{1} Y Jehová habló á Moisés, diciendo: 
 \bibleverse{2} Hazte dos trompetas de plata; de obra de martillo las harás, las cuales te servirán para convocar la congregación, y para hacer mover el campo. 
 \bibleverse{3} Y cuando las tocaren, toda la congregación se juntará á ti á la puerta del tabernáculo del testimonio. 
@@ -832,7 +842,8 @@
 \bibleverse{36} Y cuando ella asentaba, decía: Vuelve, Jehová, á los millares de millares de Israel. 
 
 ## El murmullo de la gente y la fogata en Thabera
-# 11 
+\hypertarget{section-04-11}{%
+\section{11}\label{section-04-11}}
 \bibleverse{1} Y aconteció que el pueblo se quejó á oídos de Jehová: y oyólo Jehová, y enardecióse su furor, y encendióse en ellos fuego de Jehová y consumió el un cabo del campo. 
 \bibleverse{2} Entonces el pueblo dió voces á Moisés, y Moisés oró á Jehová, y soterróse el fuego. 
 \bibleverse{3} Y llamó á aquel lugar Taberah; porque el fuego de Jehová se encendió en ellos.
@@ -899,7 +910,8 @@
 \bibleverse{35} De Kibroth-hattaavah movió el pueblo á Haseroth, y pararon en Haseroth. 
 
 ## La rebelión de Miriam y Aarón contra Moisés
-# 12 
+\hypertarget{section-04-12}{%
+\section{12}\label{section-04-12}}
 \bibleverse{1} Y hablaron María y Aarón contra Moisés á causa de la mujer Ethiope que había tomado: porque él había tomado mujer Ethiope. 
 \bibleverse{2} Y dijeron: ¿Solamente por Moisés ha hablado Jehová? ¿no ha hablado también por nosotros? Y oyólo Jehová. 
 \bibleverse{3} Y aquel varón Moisés era muy manso, más que todos los hombres que había sobre la tierra.
@@ -933,7 +945,8 @@
 \bibleverse{15} Así María fué echada del real siete días; y el pueblo no pasó adelante hasta que se le reunió María. 
 
 ## Envío de los doce exploradores
-# 13 
+\hypertarget{section-04-13}{%
+\section{13}\label{section-04-13}}
 \bibleverse{1} Y después movió el pueblo de Haseroth, y asentaron el campo en el desierto de Parán. 
 \bibleverse{2} Y Jehová habló á Moisés, diciendo:
 
@@ -985,7 +998,8 @@
 \bibleverse{33} Y vituperaron entre los hijos de Israel la tierra que habían reconocido, diciendo: La tierra por donde pasamos para reconocerla, es tierra que traga á sus moradores; y todo el pueblo que vimos en medio de ella, son hombres de grande estatura. También vimos allí gigantes, hijos de Anac, raza de los gigantes: y éramos nosotros, á nuestro parecer, como langostas; y así les parecíamos á ellos. 
 
 ## El efecto del informe en la gente
-# 14 
+\hypertarget{section-04-14}{%
+\section{14}\label{section-04-14}}
 \bibleverse{1} Entonces toda la congregación alzaron grita, y dieron voces: y el pueblo lloró aquella noche. 
 \bibleverse{2} Y quejáronse contra Moisés y contra Aarón todos los hijos de Israel; y díjoles toda la multitud: ¡Ojalá muriéramos en la tierra de Egipto; ó en este desierto ojalá muriéramos! 
 \bibleverse{3} ¿Y por qué nos trae Jehová á esta tierra para caer á cuchillo, y que nuestras mujeres y nuestros chiquitos sean por presa? ¿no nos sería mejor volvernos á Egipto? 
@@ -1060,7 +1074,8 @@
 \bibleverse{45} Y descendieron el Amalecita y el Cananeo, que habitaban en aquel monte, é hiriéronlos y derrotáronlos, persiguiéndolos hasta Horma. 
 
 ## Regulaciones con respecto a las ofrendas de comida y bebida como adición a los holocaustos y las ofrendas de salvación
-# 15 
+\hypertarget{section-04-15}{%
+\section{15}\label{section-04-15}}
 \bibleverse{1} Y Jehová habló á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, y diles: Cuando hubiereis entrado en la tierra de vuestras habitaciones, que yo os doy, 
 \bibleverse{3} E hiciereis ofrenda encendida á Jehová, holocausto, ó sacrificio, por especial voto, ó de vuestra voluntad, ó para hacer en vuestras solemnidades olor suave á Jehová, de vacas ó de ovejas; 
@@ -1126,7 +1141,8 @@
 \bibleverse{41} Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para ser vuestro Dios: Yo Jehová vuestro Dios. 
 
 ## El ultraje de Coré y los rubenitas
-# 16 
+\hypertarget{section-04-16}{%
+\section{16}\label{section-04-16}}
 \bibleverse{1} Y Coré, hijo de Ishar, hijo de Coath, hijo de Leví; y Dathán y Abiram, hijos de Eliab; y Hon, hijo de Peleth, de los hijos de Rubén, tomaron gente, 
 \bibleverse{2} Y levantáronse contra Moisés con doscientos y cincuenta varones de los hijos de Israel, príncipes de la congregación, de los del consejo, varones de nombre; 
 \bibleverse{3} Y se juntaron contra Moisés y Aarón, y les dijeron: Básteos, porque toda la congregación, todos ellos son santos, y en medio de ellos está Jehová: ¿por qué, pues, os levantáis vosotros sobre la congregación de Jehová?
@@ -1223,7 +1239,8 @@
 \bibleverse{50} Después se volvió Aarón á Moisés á la puerta del tabernáculo del testimonio, cuando la mortandad había cesado. 
 
 ## Prueba del derecho sacerdotal de Aarón por los maravillosos peldaños de su cayado
-# 17 
+\hypertarget{section-04-17}{%
+\section{17}\label{section-04-17}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, y toma de ellos una vara por cada casa de los padres, de todos los príncipes de ellos, doce varas conforme á las casas de sus padres; y escribirás el nombre de cada uno sobre su vara. 
 \bibleverse{3} Y escribirás el nombre de Aarón sobre la vara de Leví; porque cada cabeza de familia de sus padres tendrá una vara. 
@@ -1247,7 +1264,8 @@
 \bibleverse{13} Cualquiera que se llegare, el que se acercare al tabernáculo de Jehová morirá: ¿acabaremos de perecer todos? 
 
 ## Ordenanzas generales sobre los deberes de los sacerdotes y sus ayudantes, los levitas
-# 18 
+\hypertarget{section-04-18}{%
+\section{18}\label{section-04-18}}
 \bibleverse{1} Y Jehová dijo á Aarón: Tú y tus hijos, y la casa de tu padre contigo, llevaréis el pecado del santuario: y tú y tus hijos contigo llevaréis el pecado de vuestro sacerdocio. 
 \bibleverse{2} Y á tus hermanos también, la tribu de Leví, la tribu de tu padre, hazlos llegar á ti, y júntense contigo, y servirte han; y tú y tus hijos contigo serviréis delante del tabernáculo del testimonio. 
 \bibleverse{3} Y guardarán lo que tú ordenares, y el cargo de todo el tabernáculo: mas no llegarán á los vasos santos ni al altar, porque no mueran ellos y vosotros. 
@@ -1305,7 +1323,8 @@
 \bibleverse{32} Y cuando vosotros hubiereis ofrecido de ello lo mejor suyo, no llevaréis por ello pecado: y no habéis de contaminar las cosas santas de los hijos de Israel, y no moriréis. 
 
 ## Preparación y uso del agua de limpieza
-# 19 
+\hypertarget{section-04-19}{%
+\section{19}\label{section-04-19}}
 \bibleverse{1} Y Jehová habló á Moisés y á Aarón, diciendo: 
 \bibleverse{2} Esta es la ordenanza de la ley que Jehová ha prescrito, diciendo: Di á los hijos de Israel que te traigan una vaca bermeja, perfecta, en la cual no haya falta, sobre la cual no se haya puesto yugo: 
 \bibleverse{3} Y la daréis á Eleazar el sacerdote, y él la sacará fuera del campo, y harála degollar en su presencia. 
@@ -1343,7 +1362,8 @@
 \bibleverse{22} Y todo lo que el inmundo tocare, será inmundo: y la persona que lo tocare, será inmunda hasta la tarde. 
 
 ## Llegada a Kade y muerte de Miriam; reonovada queja del pueblo; la fatídicia doncación de agua de la roca para Moisés y Aarón
-# 20 
+\hypertarget{section-04-20}{%
+\section{20}\label{section-04-20}}
 \bibleverse{1} Y llegaron los hijos de Israel, toda la congregación, al desierto de Zin, en el mes primero, y asentó el pueblo en Cades; y allí murió María, y fué allí sepultada. 
 \bibleverse{2} Y como no hubiese agua para la congregación, juntáronse contra Moisés y Aarón. 
 \bibleverse{3} Y regañó el pueblo con Moisés, y hablaron diciendo: ¡Ojalá que nosotros hubiéramos muerto cuando perecieron nuestros hermanos delante de Jehová! 
@@ -1401,7 +1421,8 @@
 \bibleverse{29} Y viendo toda la congregación que Aarón era muerto, hiciéronle duelo por treinta días todas las familias de Israel. 
 
 ## Batalla victoriosa con el Rey de Arad
-# 21 
+\hypertarget{section-04-21}{%
+\section{21}\label{section-04-21}}
 \bibleverse{1} Y oyendo el Cananeo, el rey de Arad, el cual habitaba al mediodía, que venía Israel por el camino de los centinelas, peleó con Israel, y tomó de él presa. 
 \bibleverse{2} Entonces Israel hizo voto á Jehová, y dijo: Si en efecto entregares á este pueblo en mi mano, yo destruiré sus ciudades. 
 \bibleverse{3} Y Jehová escuchó la voz de Israel, y entregó al Cananeo, y destruyólos á ellos y á sus ciudades; y llamó el nombre de aquel lugar Horma.
@@ -1467,7 +1488,8 @@
 \bibleverse{35} E hirieron á él, y á sus hijos, y á toda su gente, sin que le quedara uno, y poseyeron su tierra. 
 
 ## Der Moabiterkönig Balak beschließt, Gesandte an Bileam zu schicken
-# 22 
+\hypertarget{section-04-22}{%
+\section{22}\label{section-04-22}}
 \bibleverse{1} Y movieron los hijos de Israel, y asentaron en los campos de Moab, de esta parte del Jordán de Jericó. 
 \bibleverse{2} Y vió Balac, hijo de Zippor, todo lo que Israel había hecho al Amorrheo. 
 \bibleverse{3} Y Moab temió mucho á causa del pueblo que era mucho; y angustióse Moab á causa de los hijos de Israel. 
@@ -1560,7 +1582,8 @@
 \bibleverse{41} Y el día siguiente Balac tomó á Balaam, é hízolo subir á los altos de Baal, y desde allí vió la extremidad del pueblo. 
 
 ## Los preparativos para la revelación divina; el primer dicho de Balaam
-# 23 
+\hypertarget{section-04-23}{%
+\section{23}\label{section-04-23}}
 \bibleverse{1} Y Balaam dijo á Balac: Edifícame aquí siete altares, y prepárame aquí siete becerros y siete carneros.
 
  
@@ -1631,7 +1654,8 @@
 \bibleverse{30} Y Balac hizo como Balaam le dijo; y ofreció un becerro y un carnero en cada altar. 
 
 ## Balaam bendice a Israel desde el monte Peor
-# 24 
+\hypertarget{section-04-24}{%
+\section{24}\label{section-04-24}}
 \bibleverse{1} Y como vió Balaam que parecía bien á Jehová que él bendijese á Israel, no fué, como la primera y segunda vez, á encuentro de agüeros, sino que puso su rostro hacia el desierto; 
 \bibleverse{2} Y alzando sus ojos, vió á Israel alojado por sus tribus; y el espíritu de Dios vino sobre él. 
 \bibleverse{3} Entonces tomó su parábola, y dijo: Dijo Balaam hijo de Beor, y dijo el varón de ojos abiertos: 
@@ -1676,7 +1700,8 @@
 \bibleverse{25} Entonces se levantó Balaam, y se fué, y volvióse á su lugar: y también Balac se fué por su camino. 
 
 ## La deuda de Israel a través de la fornicación y la idolatría
-# 25 
+\hypertarget{section-04-25}{%
+\section{25}\label{section-04-25}}
 \bibleverse{1} Y reposó Israel en Sittim, y el pueblo empezó á fornicar con las hijas de Moab: 
 \bibleverse{2} Las cuales llamaron al pueblo á los sacrificios de sus dioses: y el pueblo comió, é inclinóse á sus dioses. 
 \bibleverse{3} Y allegóse el pueblo á Baal-peor; y el furor de Jehová se encendió contra Israel. 
@@ -1709,7 +1734,8 @@
 \bibleverse{18} Por cuanto ellos os afligieron á vosotros con sus ardides, con que os han engañado en el negocio de Peor, y en el negocio de Cozbi, hija del príncipe de Madián, su hermana, la cual fué muerta el día de la mortandad por causa de Peor. 
 
 ## El segundo censo de la gente en la llanura de los moabitas con el propósito de distribuir la tierra
-# 26 
+\hypertarget{section-04-26}{%
+\section{26}\label{section-04-26}}
 \bibleverse{1} Y aconteció después de la mortandad, que Jehová habló á Moisés, y á Eleazar hijo del sacerdote Aarón, diciendo: 
 \bibleverse{2} Tomad la suma de toda la congregación de los hijos de Israel, de veinte años arriba, por las casas de sus padres, todos los que puedan salir á la guerra en Israel. 
 \bibleverse{3} Y Moisés y Eleazar el sacerdote hablaron con ellos en los campos de Moab, junto al Jordán de Jericó, diciendo: 
@@ -1812,7 +1838,8 @@
 \bibleverse{65} Porque Jehová les dijo: Han de morir en el desierto: y no quedó varón de ellos, sino Caleb hijo de Jephone, y Josué hijo de Nun. 
 
 ## Disposiciones relativas a la propiedad de los herederos
-# 27 
+\hypertarget{section-04-27}{%
+\section{27}\label{section-04-27}}
 \bibleverse{1} Y las hijas de Salphaad, hijo de Hepher, hijo de Galaad, hijo de Machîr, hijo de Manasés, de las familias de Manasés, hijo de José, los nombres de las cuales eran Maala, y Noa, y Hogla, y Milca, y Tirsa, llegaron; 
 \bibleverse{2} Y presentáronse delante de Moisés, y delante del sacerdote Eleazar, y delante de los príncipes, y de toda la congregación, á la puerta del tabernáculo del testimonio, y dijeron: 
 \bibleverse{3} Nuestro padre murió en el desierto, el cual no estuvo en la junta que se reunió contra Jehová en la compañía de Coré: sino que en su pecado murió, y no tuvo hijos. 
@@ -1849,7 +1876,8 @@
 \bibleverse{23} Y puso sobre él sus manos, y dióle órdenes, como Jehová había mandado por mano de Moisés. 
 
 ## Normativa sobre los sacrificios comunitarios diarios y diarios
-# 28 
+\hypertarget{section-04-28}{%
+\section{28}\label{section-04-28}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Manda á los hijos de Israel, y diles: Mi ofrenda, mi pan con mis ofrendas encendidas en olor á mí agradable, guardaréis, ofreciéndomelo á su tiempo.
 
@@ -1898,7 +1926,8 @@
 \bibleverse{31} Los ofreceréis, además del holocausto continuo con sus presentes, y sus libaciones: sin defecto los tomaréis. 
 
 ## Los sacrificios adicionales el día de Año Nuevo
-# 29 
+\hypertarget{section-04-29}{%
+\section{29}\label{section-04-29}}
 \bibleverse{1} Y el séptimo mes, al primero del mes tendréis santa convocación: ninguna obra servil haréis; os será día de sonar las trompetas. 
 \bibleverse{2} Y ofreceréis holocausto por olor de suavidad á Jehová, un becerro de la vacada, un carnero, siete corderos de un año sin defecto; 
 \bibleverse{3} Y el presente de ellos, de flor de harina amasada con aceite, tres décimas con cada becerro, dos décimas con cada carnero, 
@@ -1962,7 +1991,8 @@
  
 \bibleverse{39} Estas cosas ofreceréis á Jehová en vuestras solemnidades, además de vuestros votos, y de vuestras ofrendas libres, para vuestros holocaustos, y para vuestros presentes, y para vuestras libaciones, y para vuestras paces. 
 
-# 30 
+\hypertarget{section-04-30}{%
+\section{30}\label{section-04-30}}
 \bibleverse{1} Y Moisés dijo á los hijos de Israel, conforme á todo lo que Jehová le había mandado.
 
 ## Reglamento sobre la vinculación o nulidad de los votos
@@ -1997,7 +2027,8 @@
 \bibleverse{16} Mas si las anulare después de haberlas oído, entonces él llevará el pecado de ella. Estas son las ordenanzas que Jehová mandó á Moisés entre el varón y su mujer, entre el padre y su hija, durante su mocedad en casa de su padre. 
 
 ## Guerra de venganza de los israelitas contra los madianitas
-# 31 
+\hypertarget{section-04-31}{%
+\section{31}\label{section-04-31}}
 \bibleverse{1} Y Jehová habló á Moisés, diciendo: 
 \bibleverse{2} Haz la venganza de los hijos de Israel sobre los Madianitas; después serás recogido á tus pueblos.
 
@@ -2074,7 +2105,8 @@
 \bibleverse{54} Recibieron, pues, Moisés y el sacerdote Eleazar, el oro de los tribunos y centuriones, y trajéronlo al tabernáculo del testimonio, por memoria de los hijos de Israel delante de Jehová. 
 
 ## La petición de los rubenitas y gaditas fue rechazada por Moisés en un discurso punitivo
-# 32 
+\hypertarget{section-04-32}{%
+\section{32}\label{section-04-32}}
 \bibleverse{1} Y los hijos de Rubén y los hijos de Gad tenían una muy grande muchedumbre de ganado; los cuales viendo la tierra de Jazer y de Galaad, parecióles el país lugar de ganado. 
 \bibleverse{2} Y vinieron los hijos de Gad y los hijos de Rubén, y hablaron á Moisés, y á Eleazar el sacerdote, y á los príncipes de la congregación, diciendo: 
 \bibleverse{3} Ataroth, y Dibón, y Jazer, y Nimra, y Hesbón, y Eleale, y Sabán, y Nebo, y Beón, 
@@ -2145,7 +2177,8 @@
 \bibleverse{42} Asimismo Noba fué y tomó á Kenath y sus aldeas, y llamóle Noba, conforme á su nombre. 
 
 ## Lista de los campamentos en los que pasaron los israelitas durante los cuarenta años del desierto
-# 33 
+\hypertarget{section-04-33}{%
+\section{33}\label{section-04-33}}
 \bibleverse{1} Estas son las estancias de los hijos de Israel, los cuales salieron de la tierra de Egipto por sus escuadrones, bajo la conducta de Moisés y Aarón. 
 \bibleverse{2} Y Moisés escribió sus salidas conforme á sus jornadas por mandato de Jehová. Estas, pues, son sus estancias con arreglo á sus partidas. 
 \bibleverse{3} De Rameses partieron en el mes primero, á los quince días del mes primero: el segundo día de la pascua salieron los hijos de Israel con mano alta, á ojos de todos los Egipcios. 
@@ -2209,7 +2242,8 @@
 \bibleverse{56} Será además, que haré á vosotros como yo pensé hacerles á ellos. 
 
 ## Establecer los límites de la tierra de Canaán que se tomarán
-# 34 
+\hypertarget{section-04-34}{%
+\section{34}\label{section-04-34}}
 \bibleverse{1} Y Jehová habló á Moisés, diciendo: 
 \bibleverse{2} Manda á los hijos de Israel, y diles: Cuando hubiereis entrado en la tierra de Canaán, es á saber, la tierra que os ha de caer en heredad, la tierra de Canaán según sus términos; 
 \bibleverse{3} Tendréis el lado del mediodía desde el desierto de Zin hasta los términos de Edom; y os será el término del mediodía al extremo del mar salado hacia el oriente: 
@@ -2252,7 +2286,8 @@
 \bibleverse{29} Estos son á los que mandó Jehová que hiciesen la partición de la herencia á los hijos de Israel en la tierra de Canaán. 
 
 ## Regulaciones relativas a las ciudades levitas y las seis ciudades libres designadas para asesinos
-# 35 
+\hypertarget{section-04-35}{%
+\section{35}\label{section-04-35}}
 \bibleverse{1} Y habló Jehová á Moisés en los campos de Moab, junto al Jordán de Jericó, diciendo: 
 \bibleverse{2} Manda á los hijos de Israel, que den á los Levitas de la posesión de su heredad ciudades en que habiten: también daréis á los Levitas los ejidos de esas ciudades alrededor de ellas. 
 \bibleverse{3} Y tendrán ellos las ciudades para habitar, y los ejidos de ellas serán para sus animales, y para sus ganados, y para todas sus bestias.
@@ -2310,7 +2345,8 @@
 \bibleverse{34} No contaminéis, pues, la tierra donde habitáis, en medio de la cual yo habito; porque yo Jehová habito en medio de los hijos de Israel. 
 
 ## Apéndice a la ley de reliquias
-# 36 
+\hypertarget{section-04-36}{%
+\section{36}\label{section-04-36}}
 \bibleverse{1} Y llegaron los príncipes de los padres de la familia de Galaad, hijo de Machîr, hijo de Manasés, de las familias de los hijos de José; y hablaron delante de Moisés, y de los príncipes, cabezas de padres de los hijos de Israel, 
 \bibleverse{2} Y dijeron: Jehová mandó á mi señor que por suerte diese la tierra á los hijos de Israel en posesión: también ha mandado Jehová á mi señor, que dé la posesión de Salphaad nuestro hermano á sus hijas; 
 \bibleverse{3} Las cuales, si se casaren con algunos de los hijos de las otras tribus de los hijos de Israel, la herencia de ellas será así desfalcada de la herencia de nuestros padres, y será añadida á la herencia de la tribu á que serán unidas: y será quitada de la suerte de nuestra heredad. 

@@ -1,5 +1,6 @@
 ## Anuncio del juicio destructivo sobre todo el mundo de las naciones y especialmente sobre Judá
-# 1 
+\hypertarget{section-36-1}{%
+\section{1}\label{section-36-1}}
 \bibleverse{1} Palabra de Jehová que fué á Sofonías hijo de Cushi, hijo de Gedalías, hijo de Amarías, hijo de Ezechîas, en días de Josías hijo de Amón, rey de Judá.
 
  
@@ -29,7 +30,8 @@
 \bibleverse{18} Ni su plata ni su oro podrá librarlos en el día de la ira de Jehová; pues toda la tierra será consumida con el fuego de su celo: porque ciertamente consumación apresurada hará con todos los moradores de la tierra. 
 
 ## ¡Arrepiéntanse, porque el juicio viene sobre todo el mundo!
-# 2 
+\hypertarget{section-36-2}{%
+\section{2}\label{section-36-2}}
 \bibleverse{1} Congregaos y meditad, gente no amable, 
 \bibleverse{2} Antes que pára el decreto, y el día se pase como el tamo; antes que venga sobre vosotros el furor de la ira de Jehová, antes que el día de la ira de Jehová venga sobre vosotros. 
 \bibleverse{3} Buscad á Jehová todos los humildes de la tierra, que pusisteis en obra su juicio; buscad justicia, buscad mansedumbre: quizás seréis guardados en el día del enojo de Jehová.
@@ -56,7 +58,8 @@
 \bibleverse{15} Esta es la ciudad alegre que estaba confiada, la que decía en su corazón: Yo, y no más. ¡Cómo fué en asolamiento, en cama de bestias! Cualquiera que pasare junto á ella silbará, meneará su mano. 
 
 ## Las tristes condiciones en Jerusalén
-# 3 
+\hypertarget{section-36-3}{%
+\section{3}\label{section-36-3}}
 \bibleverse{1} ¡Ay de la ciudad ensuciada y contaminada y opresora! 
 \bibleverse{2} No escuchó la voz, ni recibió la disciplina: no se confió en Jehová, no se acercó á su Dios.
 

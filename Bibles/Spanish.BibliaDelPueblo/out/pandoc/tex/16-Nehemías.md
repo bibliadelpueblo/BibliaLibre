@@ -1,5 +1,6 @@
 ## Nehemías como copero del rey Artajerjes en Susa; su dolor por la desgracia de su país
-# 1 
+\hypertarget{section-16-1}{%
+\section{1}\label{section-16-1}}
 \bibleverse{1} Palabras de Nehemías, hijo de Hachâlías. Y acaeció en el mes de Chisleu, en el año veinte, estando yo en Susán, capital del reino,
 
  
@@ -24,7 +25,8 @@
 \bibleverse{11} Ruégote, oh Jehová, esté ahora atento tu oído á la oración de tu siervo, y á la oración de tus siervos, quienes desean temer tu nombre: y ahora concede hoy próspero suceso á tu siervo, y dale gracia delante de aquel varón. Porque yo servía de copero al rey. 
 
 ## Nehemías recibe permiso y autoridad del rey persa Artajerjes para restaurar Jerusalén
-# 2 
+\hypertarget{section-16-2}{%
+\section{2}\label{section-16-2}}
 \bibleverse{1} Y fué en el mes de Nisán, en el año veinte del rey Artajerjes, que estando ya el vino delante de él, tomé el vino, y dílo al rey. Y como yo no había estado antes triste en su presencia, 
 \bibleverse{2} Díjome el rey: ¿Por qué está triste tu rostro, pues no estás enfermo? No es esto sino quebranto de corazón. Entonces temí en gran manera.
 
@@ -71,7 +73,8 @@
 \bibleverse{20} Y volvíles respuesta, y díjeles: El Dios de los cielos, él nos prosperará, y nosotros sus siervos nos levantaremos y edificaremos: que vosotros no tenéis parte, ni derecho, ni memoria en Jerusalem. 
 
 ## Construcción pieza a pieza del muro; Lista de los involucrados en la construcción del muro
-# 3 
+\hypertarget{section-16-3}{%
+\section{3}\label{section-16-3}}
 \bibleverse{1} Y levantóse Eliasib el gran sacerdote con sus hermanos los sacerdotes, y edificaron la puerta de las Ovejas. Ellos aparejaron y levantaron sus puertas hasta la torre de Meah, aparejáronla hasta la torre de Hananeel. 
 \bibleverse{2} Y junto á ella edificaron los varones de Jericó: y luego edificó Zachûr hijo de Imri.
 
@@ -118,7 +121,8 @@
 \bibleverse{32} Y entre la sala de la esquina hasta la puerta de las Ovejas, restauraron los plateros y los tratantes. 
 
 ## Continuación de la construcción del muro a pesar del ridículo y la hostilidad de los oponentes paganos
-# 4 
+\hypertarget{section-16-4}{%
+\section{4}\label{section-16-4}}
 \bibleverse{1} Y fué que como oyó Sanballat que nosotros edificábamos el muro, encolerizóse y enojóse en gran manera, é hizo escarnio de los Judíos. 
 \bibleverse{2} Y habló delante de sus hermanos y del ejército de Samaria, y dijo: ¿Qué hacen estos débiles Judíos? ¿hanles de permitir? ¿han de sacrificar? ¿han de acabar en un día? ¿han de resucitar de los montones del polvo las piedras que fueron quemadas?
 
@@ -163,7 +167,8 @@
 \bibleverse{23} Y ni yo, ni mis hermanos, ni mis mozos, ni la gente de guardia que me seguía, desnudamos nuestro vestido: cada uno se desnudaba solamente para lavarse. 
 
 ## Alivio de la difícil situación de la gente común mediante el alivio de la deuda; El gobierno desinteresado de Nehemías
-# 5 
+\hypertarget{section-16-5}{%
+\section{5}\label{section-16-5}}
 \bibleverse{1} Entonces fué grande el clamor del pueblo y de sus mujeres contra los Judíos sus hermanos. 
 \bibleverse{2} Y había quien decía: Nosotros, nuestros hijos y nuestras hijas, somos muchos: hemos por tanto tomado grano para comer y vivir. 
 \bibleverse{3} Y había quienes decían: Hemos empeñado nuestras tierras, y nuestras viñas, y nuestras casas, para comprar grano en el hambre. 
@@ -195,7 +200,8 @@
 \bibleverse{19} Acuérdate de mí para bien, Dios mío, y de todo lo que hice á este pueblo. 
 
 ## Esquemas (y asesinatos) de Sanbalat y sus camaradas; su rechazo por parte de Nehemías
-# 6 
+\hypertarget{section-16-6}{%
+\section{6}\label{section-16-6}}
 \bibleverse{1} Y fué que habiendo oído Sanballat, y Tobías, y Gesem el Arabe, y los demás nuestros enemigos, que había yo edificado el muro, y que no quedaba en él portillo, (aunque hasta aquel tiempo no había puesto en las puertas las hojas,) 
 \bibleverse{2} Sanballat y Gesem enviaron á decirme: Ven, y compongámonos juntos en alguna de las aldeas en el campo de Ono. Mas ellos habían pensado hacerme mal.
 
@@ -231,7 +237,8 @@
 \bibleverse{19} También contaban delante de mí sus buenas obras, y referíanle mis palabras. Y enviaba Tobías cartas para atemorizarme. 
 
 ## La preocupación de Nehemías por la seguridad de la ciudad
-# 7 
+\hypertarget{section-16-7}{%
+\section{7}\label{section-16-7}}
 \bibleverse{1} Y luego que el muro fué edificado, y asenté las puertas, y fueron señalados porteros y cantores y Levitas, 
 \bibleverse{2} Mandé á mi hermano Hanani, y á Hananías, príncipe del palacio de Jerusalem, (porque era éste, como varón de verdad y temeroso de Dios, sobre muchos;) 
 \bibleverse{3} Y díjeles: No se abran las puertas de Jerusalem hasta que caliente el sol: y aun ellos presentes, cierren las puertas, y atrancad. Y señalé guardas de los moradores de Jerusalem, cada cual en su guardia, y cada uno delante de su casa.
@@ -330,7 +337,8 @@
 \bibleverse{73} Y habitaron los sacerdotes y los Levitas, y los porteros, y los cantores, y los del pueblo, y los Nethineos, y todo Israel, en sus ciudades. Y venido el mes séptimo, los hijos de Israel estaban en sus ciudades. 
 
 ## Lectura de la ley por Esdras y celebración de la Fiesta de los Tabernáculos
-# 8 
+\hypertarget{section-16-8}{%
+\section{8}\label{section-16-8}}
 \bibleverse{1} Y juntóse todo el pueblo como un solo hombre en la plaza que está delante de la puerta de las Aguas, y dijeron á Esdras el escriba, que trajese el libro de la ley de Moisés, la cual mandó Jehová á Israel. 
 \bibleverse{2} Y Esdras el sacerdote, trajo la ley delante de la congregación, así de hombres como de mujeres, y de todo entendido para escuchar, el primer día del mes séptimo. 
 \bibleverse{3} Y leyó en el libro delante de la plaza que está delante de la puerta de las Aguas, desde el alba hasta el medio día, en presencia de hombres y mujeres y entendidos; y los oídos de todo el pueblo estaban atentos al libro de la ley. 
@@ -365,7 +373,8 @@
 \bibleverse{18} Y leyó Esdras en el libro de la ley de Dios cada día, desde el primer día hasta el postrero; é hicieron la solemnidad por siete días, y al octavo día congregación, según el rito. 
 
 ## Celebración del día de la penitencia con varias horas de lectura de la ley y varias horas de confesión
-# 9 
+\hypertarget{section-16-9}{%
+\section{9}\label{section-16-9}}
 \bibleverse{1} Y el día veinticuatro del mismo mes se juntaron los hijos de Israel en ayuno, y con sacos, y tierra sobre sí. 
 \bibleverse{2} Y habíase ya apartado la simiente de Israel de todos los extranjeros; y estando en pie, confesaron sus pecados, y las iniquidades de sus padres. 
 \bibleverse{3} Y puestos de pie en su lugar, leyeron en el libro de la ley de Jehová su Dios la cuarta parte del día, y la cuarta parte confesaron y adoraron á Jehová su Dios. 
@@ -429,7 +438,8 @@
 \bibleverse{38} A causa pues de todo eso nosotros hacemos fiel alianza, y la escribimos, signada de nuestros príncipes, de nuestros Levitas, y de nuestros sacerdotes. 
 
 ## Renovación federal mediante contrato escrito y firmado de los jefes (especialmente jefes de familia) del pueblo
-# 10 
+\hypertarget{section-16-10}{%
+\section{10}\label{section-16-10}}
 \bibleverse{1} Y los que firmaron fueron, Nehemías el Tirsatha, hijo de Hachâlías, y Sedecías, 
 \bibleverse{2} Seraías, Azarías, Jeremías, 
 \bibleverse{3} Pashur, Amarías, Malchías, 
@@ -477,7 +487,8 @@
 \bibleverse{39} Porque á las cámaras han de llevar los hijos de Israel y los hijos de Leví la ofrenda del grano, del vino, y del aceite; y allí estarán los vasos del santuario, y los sacerdotes que ministran, y los porteros, y los cantores; y no abandonaremos la casa de nuestro Dios. 
 
 ## Una décima parte de la población rural está determinada por sorteo a mudarse a Jerusalén
-# 11 
+\hypertarget{section-16-11}{%
+\section{11}\label{section-16-11}}
 \bibleverse{1} Y habitaron los príncipes del pueblo en Jerusalem; mas el resto del pueblo echó suertes para traer uno de diez que morase en Jerusalem, ciudad santa, y las nueve partes en las otras ciudades. 
 \bibleverse{2} Y bendijo el pueblo á todos los varones que voluntariamente se ofrecieron á morar en Jerusalem.
 
@@ -532,7 +543,8 @@
 \bibleverse{36} Y algunos de los Levitas, en los repartimientos de Judá y de Benjamín. 
 
 ## Clases de sacerdotes y levitas que regresaron con Zorobabel y Jesús
-# 12 
+\hypertarget{section-16-12}{%
+\section{12}\label{section-16-12}}
 \bibleverse{1} Y estos son los sacerdotes y Levitas que subieron con Zorobabel hijo de Sealthiel, y con Jesuá: Seraías, Jeremías, Esdras, 
 \bibleverse{2} Amarías, Malluch, Hartus, 
 \bibleverse{3} Sechânías, Rehum, Meremoth, 
@@ -603,7 +615,8 @@
 \bibleverse{47} Y todo Israel en días de Zorobabel, y en días de Nehemías, daba raciones á los cantores y á los porteros, cada cosa en su día: consagraban asimismo sus porciones á los Levitas, y los Levitas consagraban parte á los hijos de Aarón. 
 
 ## Eliminación de los componentes paganos (especialmente amonitas y moabitas) de la comunidad
-# 13 
+\hypertarget{section-16-13}{%
+\section{13}\label{section-16-13}}
 \bibleverse{1} Aquel día se leyó en el libro de Moisés oyéndolo el pueblo, y fué hallado en él escrito, que los Ammonitas y Moabitas no debían entrar jamás en la congregación de Dios; 
 \bibleverse{2} Por cuanto no salieron á recibir á los hijos de Israel con pan y agua, antes alquilaron á Balaam contra ellos, para que los maldijera: mas nuestro Dios volvió la maldición en bendición. 
 \bibleverse{3} Y fué que, como oyeron la ley, apartaron de Israel toda mistura.

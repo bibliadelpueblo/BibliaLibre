@@ -89,11 +89,14 @@ namespace BibleMarkdown
 			if (IsNewer(texfile, mdfile)) return;
 
 			var mdtexfile = Path.Combine(Path.GetDirectoryName(mdfile), "tex", Path.GetFileName(mdfile));
+			var book = Regex.Match(mdfile, "[0-9.]+(?=-.*\\.md$)").Value.Replace('.', '-');
 			var src = File.ReadAllText(mdfile);
 			src = Regex.Replace(src, @"\[([0-9]+)\]\{\.bibleverse\}", @"\bibleverse{$1}");
 			src = Regex.Replace(src, @"\[([\u0590-\u05fe]+)\]\{\.hebrew\}", @"\hebrew{$1}");
 			src = Regex.Replace(src, @"\[([\u0370-\u03ff\u1f00-\u1fff]+)\]\{\.greek\}", @"\greek{$1}");
 			src = Regex.Replace(src, @"^(# .*?)$\n^(## .*?)$", "$2\n$1", RegexOptions.Multiline); // titles
+			src = Regex.Replace(src, @"^# ([0-9]+)\s*$", $"\\hypertarget{{section-{book}-$1}}{{%\n\\section{{$1}}\\label{{section-{book}-$1}}}}",
+				RegexOptions.Multiline); // section hyperlinks
 			File.WriteAllText(mdtexfile, src);
 			LogFile(mdtexfile);
 
@@ -433,7 +436,7 @@ namespace BibleMarkdown
 
 			var name = Books.Name(mdfile);
 			var txt = File.ReadAllText(mdfile);
-			if (string.IsNullOrEmpty(usfm)) txt = @$"\h {name}{Environment.NewLine}\toc1 {name}{Environment.NewLine}{txt}";
+			if (string.IsNullOrEmpty(usfm)) txt = @$"\h {name}{Environment.NewLine}\toc1 {name}{Environment.NewLine}{Environment.NewLine}{txt}";
 			txt = Regex.Replace(txt, @"(^|\n)#[ \t]+([0-9]+)", @$"\c $2{Environment.NewLine}\p", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"(^|\n)##[ \t]+(.*?)\r?\n", @$"\s1 $2{Environment.NewLine}\p", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"(?<!^|\n)\[([0-9]+)\]\{\.bibleverse\}", $@"{Environment.NewLine}\v $1", RegexOptions.Singleline);
@@ -456,8 +459,8 @@ namespace BibleMarkdown
 			}
 			txt = Regex.Replace(txt, @"\^\[\s*(?<footpos>[0-9]+[:,][0-9]+)\s*(?<foottext>.*?)\s*\]", @"\f + \fr ${footpos} \ft ${foottext} \f*", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"(\r?\n)([ \t]*)(\r?\n)", @"$1\p$3$3", RegexOptions.Singleline);
-			var header = Regex.Match(usfm, @"^.*?(?=\\c)", RegexOptions.Singleline).Value;
-			txt = header + txt;
+			var header = Regex.Match(usfm, @"^.*?(?=\s*\\c)", RegexOptions.Singleline).Value;
+			txt = header + Environment.NewLine + Environment.NewLine + txt;
 
 			File.WriteAllText(usfmfile, txt);
 			LogFile(usfmfile);

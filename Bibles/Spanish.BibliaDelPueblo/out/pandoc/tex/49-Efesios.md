@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-49-1}{%
+\section{1}\label{section-49-1}}
 \bibleverse{1} Pablo, apóstol de Jesucristo por la voluntad de Dios, á los santos y fieles en Cristo Jesús que están en Efeso: 
 \bibleverse{2} Gracia sea á vosotros, y paz de Dios Padre nuestro, y del Señor Jesucristo.
 
@@ -31,7 +32,8 @@
 \bibleverse{23} La cual es su cuerpo, la plenitud de Aquel que hinche todas las cosas en todos. 
 
 ## Anteriormente muerto en pecado, el creyente ahora se reconoce a sí mismo como obra de gracia de Dios y una nueva formación en Cristo Jesús resucitado
-# 2 
+\hypertarget{section-49-2}{%
+\section{2}\label{section-49-2}}
 \bibleverse{1} Y de ella recibisteis vosotros, que estabais muertos en vuestros delitos y pecados, 
 \bibleverse{2} En que en otro tiempo anduvisteis conforme á la condición de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora obra en los hijos de desobediencia: 
 \bibleverse{3} Entre los cuales todos nosotros también vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos; y éramos por naturaleza hijos de ira, también como los demás. 
@@ -59,7 +61,8 @@
 \bibleverse{22} En el cual vosotros también sois juntamente edificados, para morada de Dios en Espíritu. 
 
 ## El glorioso oficio del apóstol de proclamar el mensaje de salvación a los gentiles como el secreto revelado a él de su derecho a participar de las promesas de Israel
-# 3 
+\hypertarget{section-49-3}{%
+\section{3}\label{section-49-3}}
 \bibleverse{1} Por esta causa yo Pablo, prisionero de Cristo Jesús por vosotros los Gentiles, 
 \bibleverse{2} Si es que habéis oído la dispensación de la gracia de Dios que me ha sido dada para con vosotros, 
 \bibleverse{3} A saber, que por revelación me fué declarado el misterio, como antes he escrito en breve; 
@@ -89,7 +92,8 @@
 \bibleverse{21} A él sea gloria en la iglesia por Cristo Jesús, por todas edades del siglo de los siglos. Amén. 
 
 ## Exhortación a la unidad y al crecimiento de la fe en la comunidad con toda la diversidad de dones
-# 4 
+\hypertarget{section-49-4}{%
+\section{4}\label{section-49-4}}
 \bibleverse{1} Yo pues, preso en el Señor, os ruego que andéis como es digno de la vocación con que sois llamados; 
 \bibleverse{2} Con toda humildad y mansedumbre, con paciencia soportando los unos á los otros en amor; 
 \bibleverse{3} Solícitos á guardar la unidad del Espíritu en el vínculo de la paz. 
@@ -131,7 +135,8 @@
 \bibleverse{31} Toda amargura, y enojo, é ira, y voces, y maledicencia sea quitada de vosotros, y toda malicia: 
 \bibleverse{32} Antes sed los unos con los otros benignos, misericordiosos, perdonándoos los unos á los otros, como también Dios os perdonó en Cristo. 
 
-# 5 
+\hypertarget{section-49-5}{%
+\section{5}\label{section-49-5}}
 \bibleverse{1} Sed, pues, imitadores de Dios como hijos amados: 
 \bibleverse{2} Y andad en amor, como también Cristo nos amó, y se entregó á sí mismo por nosotros, ofrenda y sacrificio á Dios en olor suave.
 
@@ -184,7 +189,8 @@
 \bibleverse{33} Cada uno empero de vosotros de por sí, ame también á su mujer como á sí mismo; y la mujer reverencie á su marido. 
 
 ## Deberes de los niños y los padres
-# 6 
+\hypertarget{section-49-6}{%
+\section{6}\label{section-49-6}}
 \bibleverse{1} Hijos, obedeced en el Señor á vuestros padres; porque esto es justo. 
 \bibleverse{2} Honra á tu padre y á tu madre, que es el primer mandamiento con promesa, 
 \bibleverse{3} Para que te vaya bien, y seas de larga vida sobre la tierra.

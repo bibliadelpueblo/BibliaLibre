@@ -1,5 +1,6 @@
 ## Indicación del propósito de las escrituras
-# 1 
+\hypertarget{section-20-1}{%
+\section{1}\label{section-20-1}}
 \bibleverse{1} Los proverbios de Salomón, hijo de David, rey de Israel: 
 \bibleverse{2} Para entender sabiduría y doctrina; para conocer las razones prudentes; 
 \bibleverse{3} Para recibir el consejo de prudencia, justicia, y juicio y equidad; 
@@ -43,7 +44,8 @@
 \bibleverse{33} Mas el que me oyere, habitará confiadamente, y vivirá reposado, sin temor de mal. 
 
 ## Las bendiciones de buscar diligentemente la sabiduría
-# 2 
+\hypertarget{section-20-2}{%
+\section{2}\label{section-20-2}}
 \bibleverse{1} Hijo mío, si tomares mis palabras, y mis mandamientos guardares dentro de ti, 
 \bibleverse{2} Haciendo estar atento tu oído á la sabiduría; si inclinares tu corazón á la prudencia; 
 \bibleverse{3} Si clamares á la inteligencia, y á la prudencia dieres tu voz; 
@@ -68,7 +70,8 @@
 \bibleverse{22} Mas los impíos serán cortados de la tierra, y los prevaricadores serán de ella desarraigados. 
 
 ## Advertencias sobre el temor de Dios y el comportamiento moral con referencia a la recompensa esperada
-# 3 
+\hypertarget{section-20-3}{%
+\section{3}\label{section-20-3}}
 \bibleverse{1} Hijo mío, no te olvides de mi ley; y tu corazón guarde mis mandamientos: 
 \bibleverse{2} Porque largura de días, y años de vida y paz te aumentarán. 
 \bibleverse{3} Misericordia y verdad no te desamparen; átalas á tu cuello, escríbelas en la tabla de tu corazón: 
@@ -114,7 +117,8 @@
 \bibleverse{35} Los sabios heredarán honra: mas los necios sostendrán ignominia. 
 
 ## Exhortación paternal a buscar sabiduría y obedecer sus enseñanzas
-# 4 
+\hypertarget{section-20-4}{%
+\section{4}\label{section-20-4}}
 \bibleverse{1} Oid, hijos, la doctrina de un padre, y estad atentos para que conozcáis cordura. 
 \bibleverse{2} Porque os doy buena enseñanza; no desamparéis mi ley. 
 \bibleverse{3} Porque yo fuí hijo de mi padre, delicado y único delante de mi madre. 
@@ -148,7 +152,8 @@
 \bibleverse{27} No te apartes á diestra, ni á siniestra: aparta tu pie del mal. 
 
 ## Advertencia contra el coito con adúlteras; Alabanza de la vida conyugal
-# 5 
+\hypertarget{section-20-5}{%
+\section{5}\label{section-20-5}}
 \bibleverse{1} Hijo mío, está atento á mi sabiduría, y á mi inteligencia inclina tu oído; 
 \bibleverse{2} Para que guardes consejo, y tus labios conserven la ciencia. 
 \bibleverse{3} Porque los labios de la extraña destilan miel, y su paladar es más blando que el aceite: 
@@ -178,7 +183,8 @@
 \bibleverse{23} El morirá por falta de corrección; y errará por la grandeza de su locura. 
 
 ## Advertencias sobre seguridad, indolencia, falsedad y todos los seres impiedosos
-# 6 
+\hypertarget{section-20-6}{%
+\section{6}\label{section-20-6}}
 \bibleverse{1} Hijo mío, si salieres fiador por tu amigo, si tocaste tu mano por el extraño, 
 \bibleverse{2} Enlazado eres con las palabras de tu boca, y preso con las razones de tu boca. 
 \bibleverse{3} Haz esto ahora, hijo mío, y líbrate, ya que has caído en la mano de tu prójimo: ve, humíllate, y asegúrate de tu amigo. 
@@ -225,7 +231,8 @@
 \bibleverse{35} No tendrá respeto á ninguna redención; ni querrá perdonar, aunque multipliques los dones. 
 
 ## Descripción de la seducción a la fornicación adúltera; Advertencia de sus nefastas consecuencias
-# 7 
+\hypertarget{section-20-7}{%
+\section{7}\label{section-20-7}}
 \bibleverse{1} Hijo mío, guarda mis razones, y encierra contigo mis mandamientos. 
 \bibleverse{2} Guarda mis mandamientos, y vivirás; y mi ley como las niñas de tus ojos. 
 \bibleverse{3} Lígalos á tus dedos; escríbelos en la tabla de tu corazón. 
@@ -259,7 +266,8 @@
 \bibleverse{27} Caminos del sepulcro son su casa, que descienden á las cámaras de la muerte. 
 
 ## Invitación y auto recomendación de la sabiduría como docente
-# 8 
+\hypertarget{section-20-8}{%
+\section{8}\label{section-20-8}}
 \bibleverse{1} ¿No clama la sabiduría, y da su voz la inteligencia? 
 \bibleverse{2} En los altos cabezos, junto al camino, á las encrucijadas de las veredas se para; 
 \bibleverse{3} En el lugar de las puertas, á la entrada de la ciudad, á la entrada de las puertas da voces: 
@@ -306,7 +314,8 @@
 \bibleverse{36} Mas el que peca contra mí, defrauda su alma: todos los que me aborrecen, aman la muerte. 
 
 ## La Sra. Sabiduria y la Sra. Locura invitan a los invitados
-# 9 
+\hypertarget{section-20-9}{%
+\section{9}\label{section-20-9}}
 \bibleverse{1} La sabiduría edificó su casa, labró sus siete columnas; 
 \bibleverse{2} Mató sus víctimas, templó su vino, y puso su mesa. 
 \bibleverse{3} Envió sus criadas; sobre lo más alto de la ciudad clamó: 
@@ -329,7 +338,8 @@
 \bibleverse{17} Las aguas hurtadas son dulces, y el pan comido en oculto es suave. 
 \bibleverse{18} Y no saben que allí están los muertos; que sus convidados están en los profundos de la sepultura. 
 
-# 10 
+\hypertarget{section-20-10}{%
+\section{10}\label{section-20-10}}
 \bibleverse{1} Las sentencias de Salomón. El hijo sabio alegra al padre; y el hijo necio es tristeza de su madre. 
 \bibleverse{2} Los tesoros de maldad no serán de provecho: mas la justicia libra de muerte. 
 \bibleverse{3} Jehová no dejará hambrear el alma del justo: mas la iniquidad lanzará á los impíos. 
@@ -363,7 +373,8 @@
 \bibleverse{31} La boca del justo producirá sabiduría: mas la lengua perversa será cortada. 
 \bibleverse{32} Los labios del justo conocerán lo que agrada: mas la boca de los impíos habla perversidades. 
 
-# 11 
+\hypertarget{section-20-11}{%
+\section{11}\label{section-20-11}}
 \bibleverse{1} El peso falso abominación es á Jehová: mas la pesa cabal le agrada. 
 \bibleverse{2} Cuando viene la soberbia, viene también la deshonra: mas con los humildes es la sabiduría. 
 \bibleverse{3} La integridad de los rectos los encaminará: mas destruirá á los pecadores la perversidad de ellos. 
@@ -396,7 +407,8 @@
 \bibleverse{30} El fruto del justo es árbol de vida: y el que prende almas, es sabio. 
 \bibleverse{31} Ciertamente el justo será pagado en la tierra: ¡cuánto más el impío y el pecador! 
 
-# 12 
+\hypertarget{section-20-12}{%
+\section{12}\label{section-20-12}}
 \bibleverse{1} El que ama la corrección ama la sabiduría: mas el que aborrece la reprensión, es ignorante. 
 \bibleverse{2} El bueno alcanzará favor de Jehová: mas él condenará al hombre de malos pensamientos. 
 \bibleverse{3} El hombre no se afirmará por medio de la impiedad: mas la raíz de los justos no será movida. 
@@ -426,7 +438,8 @@
 \bibleverse{27} El indolente no chamuscará su caza: mas el haber precioso del hombre es la diligencia. 
 \bibleverse{28} En el camino de la justicia está la vida; y la senda de su vereda no es muerte. 
 
-# 13 
+\hypertarget{section-20-13}{%
+\section{13}\label{section-20-13}}
 \bibleverse{1} El hijo sabio toma el consejo del padre: mas el burlador no escucha las reprensiones. 
 \bibleverse{2} Del fruto de su boca el hombre comerá bien: mas el alma de los prevaricadores hallará mal. 
 \bibleverse{3} El que guarda su boca guarda su alma: mas el que mucho abre sus labios tendrá calamidad. 
@@ -453,7 +466,8 @@
 \bibleverse{24} El que detiene el castigo, á su hijo aborrece: mas el que lo ama, madruga á castigarlo. 
 \bibleverse{25} El justo come hasta saciar su alma: mas el vientre de los impíos tendrá necesidad. 
 
-# 14 
+\hypertarget{section-20-14}{%
+\section{14}\label{section-20-14}}
 \bibleverse{1} La mujer sabia edifica su casa: mas la necia con sus manos la derriba. 
 \bibleverse{2} El que camina en su rectitud teme á Jehová: mas el pervertido en sus caminos lo menosprecia. 
 \bibleverse{3} En la boca del necio está la vara de la soberbia: mas los labios de los sabios los guardarán. 
@@ -490,7 +504,8 @@
 \bibleverse{34} La justicia engrandece la nación: mas el pecado es afrenta de las naciones. 
 \bibleverse{35} La benevolencia del rey es para con el ministro entendido: mas su enojo contra el que lo avergüenza. 
 
-# 15 
+\hypertarget{section-20-15}{%
+\section{15}\label{section-20-15}}
 \bibleverse{1} La blanda respuesta quita la ira: mas la palabra áspera hace subir el furor. 
 \bibleverse{2} La lengua de los sabios adornará la sabiduría: mas la boca de los necios hablará sandeces. 
 \bibleverse{3} Los ojos de Jehová están en todo lugar, mirando á los malos y á los buenos. 
@@ -525,7 +540,8 @@
 \bibleverse{32} El que tiene en poco la disciplina, menosprecia su alma: mas el que escucha la corrección, tiene entendimiento. 
 \bibleverse{33} El temor de Jehová es enseñanza de sabiduría: y delante de la honra está la humildad. 
 
-# 16 
+\hypertarget{section-20-16}{%
+\section{16}\label{section-20-16}}
 \bibleverse{1} Del hombre son las disposiciones del corazón: mas de Jehová la respuesta de la lengua. 
 \bibleverse{2} Todos los caminos del hombre son limpios en su opinión: mas Jehová pesa los espíritus. 
 \bibleverse{3} Encomienda á Jehová tus obras, y tus pensamientos serán afirmados. 
@@ -560,7 +576,8 @@
 \bibleverse{32} Mejor es el que tarde se aira que el fuerte; y el que se enseñorea de su espíritu, que el que toma una ciudad. 
 \bibleverse{33} La suerte se echa en el seno: mas de Jehová es el juicio de ella. 
 
-# 17 
+\hypertarget{section-20-17}{%
+\section{17}\label{section-20-17}}
 \bibleverse{1} Mejor es un bocado seco, y en paz, que la casa de contienda llena de víctimas. 
 \bibleverse{2} El siervo prudente se enseñoreará del hijo que deshonra, y entre los hermanos partirá la herencia. 
 \bibleverse{3} El crisol para la plata, y la hornaza para el oro: mas Jehová prueba los corazones. 
@@ -590,7 +607,8 @@
 \bibleverse{27} Detiene sus dichos el que tiene sabiduría: de prudente espíritu es el hombre entendido. 
 \bibleverse{28} Aun el necio cuando calla, es contado por sabio: el que cierra sus labios es entendido. 
 
-# 18 
+\hypertarget{section-20-18}{%
+\section{18}\label{section-20-18}}
 \bibleverse{1} Según su antojo busca el que se desvía, y se entremete en todo negocio. 
 \bibleverse{2} No toma placer el necio en la inteligencia, sino en lo que su corazón se descubre. 
 \bibleverse{3} Cuando viene el impío, viene también el menosprecio, y con el deshonrador la afrenta. 
@@ -616,7 +634,8 @@
 \bibleverse{23} El pobre habla con ruegos; mas el rico responde durezas. 
 \bibleverse{24} El hombre que tiene amigos, ha de mostrarse amigo: y amigo hay más conjunto que el hermano. 
 
-# 19 
+\hypertarget{section-20-19}{%
+\section{19}\label{section-20-19}}
 \bibleverse{1} Mejor es el pobre que camina en su sencillez, que el de perversos labios y fatuo. 
 \bibleverse{2} El alma sin ciencia no es buena; y el presuroso de pies peca. 
 \bibleverse{3} La insensatez del hombre tuerce su camino; y contra Jehová se aira su corazón. 
@@ -647,7 +666,8 @@
 \bibleverse{28} El testigo perverso se burlará del juicio; y la boca de los impíos encubrirá la iniquidad. 
 \bibleverse{29} Aparejados están juicios para los escarnecedores, y azotes para los cuerpos de los insensatos. 
 
-# 20 
+\hypertarget{section-20-20}{%
+\section{20}\label{section-20-20}}
 \bibleverse{1} El vino es escarnecedor, la cerveza alborotadora; y cualquiera que por ello errare, no será sabio. 
 \bibleverse{2} Como bramido de cachorro de león es el terror del rey: el que lo hace enfurecerse, peca contra su alma. 
 \bibleverse{3} Honra es del hombre dejarse de contienda: mas todo insensato se envolverá en ella. 
@@ -679,7 +699,8 @@
 \bibleverse{29} La gloria de los jóvenes es su fortaleza, y la hermosura de los viejos la vejez. 
 \bibleverse{30} Las señales de las heridas son medicina para lo malo: y las llagas llegan á lo más secreto del vientre. 
 
-# 21 
+\hypertarget{section-20-21}{%
+\section{21}\label{section-20-21}}
 \bibleverse{1} Como los repartimientos de las aguas, así está el corazón del rey en la mano de Jehová: á todo lo que quiere lo inclina. 
 \bibleverse{2} Todo camino del hombre es recto en su opinión: mas Jehová pesa los corazones. 
 \bibleverse{3} Hacer justicia y juicio es á Jehová más agradable que sacrificio. 
@@ -712,7 +733,8 @@
 \bibleverse{30} No hay sabiduría, ni inteligencia, ni consejo, contra Jehová. 
 \bibleverse{31} El caballo se apareja para el día de la batalla: mas de Jehová es el salvar. 
 
-# 22 
+\hypertarget{section-20-22}{%
+\section{22}\label{section-20-22}}
 \bibleverse{1} De más estima es la buena fama que las muchas riquezas; y la buena gracia más que la plata y el oro. 
 \bibleverse{2} El rico y el pobre se encontraron: á todos ellos hizo Jehová. 
 \bibleverse{3} El avisado ve el mal, y escóndese: mas los simples pasan, y reciben el daño. 
@@ -755,7 +777,8 @@
 \bibleverse{28} No traspases el término antiguo que pusieron tus padres. 
 \bibleverse{29} ¿Has visto hombre solícito en su obra? delante de los reyes estará; no estará delante de los de baja suerte. 
 
-# 23 
+\hypertarget{section-20-23}{%
+\section{23}\label{section-20-23}}
 \bibleverse{1} Cuando te sentares á comer con algún señor, considera bien lo que estuviere delante de ti; 
 \bibleverse{2} Y pon cuchillo á tu garganta, si tienes gran apetito. 
 \bibleverse{3} No codicies sus manjares delicados, porque es pan engañoso.
@@ -814,7 +837,8 @@
 \bibleverse{34} Y serás como el que yace en medio de la mar, ó como el que está en la punta de un mastelero. 
 \bibleverse{35} Y dirás: Hiriéronme, mas no me dolió; azotáronme, mas no lo sentí; cuando despertare, aun lo tornaré á buscar. 
 
-# 24 
+\hypertarget{section-20-24}{%
+\section{24}\label{section-20-24}}
 \bibleverse{1} No tengas envidia de los hombres malos, ni desees estar con ellos: 
 \bibleverse{2} Porque su corazón piensa en robar, é iniquidad hablan sus labios.
 
@@ -886,7 +910,8 @@
 \bibleverse{34} Así vendrá como caminante tu necesidad, y tu pobreza como hombre de escudo. 
 
 ## Tercera colección de Proverbios de Salomón
-# 25 
+\hypertarget{section-20-25}{%
+\section{25}\label{section-20-25}}
 \bibleverse{1} También estos son proverbios de Salomón, los cuales copiaron los varones de Ezechîas, rey de Judá.
 
  
@@ -918,7 +943,8 @@
 \bibleverse{27} Comer mucha miel no es bueno: ni el buscar la propia gloria es gloria. 
 \bibleverse{28} Como ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda. 
 
-# 26 
+\hypertarget{section-20-26}{%
+\section{26}\label{section-20-26}}
 \bibleverse{1} Como la nieve en el verano, y la lluvia en la siega, así conviene al necio la honra. 
 \bibleverse{2} Como el gorrión en su vagar, y como la golondrina en su vuelo, así la maldición sin causa nunca vendrá. 
 \bibleverse{3} El látigo para el caballo, y el cabestro para el asno, y la vara para la espalda del necio. 
@@ -948,7 +974,8 @@
 \bibleverse{27} El que cavare sima, caerá en ella: y el que revuelva la piedra, á él volverá. 
 \bibleverse{28} La falsa lengua atormenta al que aborrece: y la boca lisonjera hace resbaladero. 
 
-# 27 
+\hypertarget{section-20-27}{%
+\section{27}\label{section-20-27}}
 \bibleverse{1} No te jactes del día de mañana; porque no sabes qué dará de sí el día. 
 \bibleverse{2} Alábete el extraño, y no tu boca; el ajeno, y no tus labios. 
 \bibleverse{3} Pesada es la piedra, y la arena pesa; mas la ira del necio es más pesada que ambas cosas. 
@@ -979,7 +1006,8 @@
 \bibleverse{26} Los corderos para tus vestidos, y los cabritos para el precio del campo: 
 \bibleverse{27} Y abundancia de leche de las cabras para tu mantenimiento, y para mantenimiento de tu casa, y para sustento de tus criadas. 
 
-# 28 
+\hypertarget{section-20-28}{%
+\section{28}\label{section-20-28}}
 \bibleverse{1} Huye el impío sin que nadie lo persiga: mas el justo está confiado como un leoncillo. 
 \bibleverse{2} Por la rebelión de la tierra sus príncipes son muchos: mas por el hombre entendido y sabio permanecerá sin mutación. 
 \bibleverse{3} El hombre pobre y robador de los pobres, es lluvia de avenida y sin pan. 
@@ -1009,7 +1037,8 @@
 \bibleverse{27} El que da al pobre, no tendrá pobreza: mas el que aparta sus ojos, tendrá muchas maldiciones. 
 \bibleverse{28} Cuando los impíos son levantados, esconderáse el hombre: mas cuando perecen, los justos se multiplican. 
 
-# 29 
+\hypertarget{section-20-29}{%
+\section{29}\label{section-20-29}}
 \bibleverse{1} El hombre que reprendido endurece la cerviz, de repente será quebrantado; ni habrá para él medicina. 
 \bibleverse{2} Cuando los justos dominan, el pueblo se alegra: mas cuando domina el impío, el pueblo gime. 
 \bibleverse{3} El hombre que ama la sabiduría, alegra á su padre: mas el que mantiene rameras, perderá la hacienda. 
@@ -1039,7 +1068,8 @@
 \bibleverse{27} Abominación es á los justos el hombre inicuo; y abominación es al impío el de rectos caminos. 
 
 ## Dichos de Agur
-# 30 
+\hypertarget{section-20-30}{%
+\section{30}\label{section-20-30}}
 \bibleverse{1} Palabras de Agur, hijo de Jachê: La profecía que dijo el varón á Ithiel, á Ithiel y á Ucal. 
 \bibleverse{2} Ciertamente más rudo soy yo que ninguno, ni tengo entendimiento de hombre. 
 \bibleverse{3} Yo ni aprendí sabiduría, ni conozco la ciencia del Santo. 
@@ -1095,7 +1125,8 @@
 \bibleverse{33} Ciertamente el que exprime la leche, sacará manteca; y el que recio se suena las narices, sacará sangre: y el que provoca la ira, causará contienda. 
 
 ## Dichos para Lemuel
-# 31 
+\hypertarget{section-20-31}{%
+\section{31}\label{section-20-31}}
 \bibleverse{1} Palabras del rey Lemuel; la profecía con que le enseñó su madre.
 
  

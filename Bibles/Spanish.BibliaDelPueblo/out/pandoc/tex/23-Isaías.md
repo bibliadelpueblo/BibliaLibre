@@ -1,5 +1,6 @@
 ## Queja y acusación, sermón de penitencia y amenaza de castigo
-# 1 
+\hypertarget{section-23-1}{%
+\section{1}\label{section-23-1}}
 \bibleverse{1} Visión de Isaías hijo de Amoz, la cual vió sobre Judá y Jerusalem, en días de Uzzías, Jotham, Achâz y Ezechîas, reyes de Judá.
 
 ## La acusación de Dios contra la gente infiel
@@ -48,7 +49,8 @@
 \bibleverse{31} Y el fuerte será como estopa, y lo que hizo como centella; y ambos serán encendidos juntamente, y no habrá quien apague. 
 
 ## Nuevo título; el mundo venidero como reino de paz de Dios alrededor de Jerusalén
-# 2 
+\hypertarget{section-23-2}{%
+\section{2}\label{section-23-2}}
 \bibleverse{1} Lo que vió Isaías, hijo de Amoz, tocante á Judá y á Jerusalem.
 
  
@@ -84,7 +86,8 @@
 \bibleverse{22} Dejaos del hombre, cuyo hálito está en su nariz; porque ¿de qué es él estimado? 
 
 ## El colapso del estado de Judea como castigo por el mal gobierno
-# 3 
+\hypertarget{section-23-3}{%
+\section{3}\label{section-23-3}}
 \bibleverse{1} Porque he aquí que el Señor Jehová de los ejércitos quita de Jerusalem y de Judá el sustentador y el fuerte, todo sustento de pan y todo socorro de agua; 
 \bibleverse{2} El valiente y el hombre de guerra, el juez y el profeta, el adivino y el anciano; 
 \bibleverse{3} El capitán de cincuenta, y el hombre de respeto, y el consejero, y el artífice excelente, y el hábil orador. 
@@ -125,7 +128,8 @@
 \bibleverse{25} Tus varones caerán á cuchillo, y tu fuerza en la guerra. 
 \bibleverse{26} Sus puertas se entristecerán y enlutarán, y ella, desamparada, sentaráse en tierra. 
 
-# 4 
+\hypertarget{section-23-4}{%
+\section{4}\label{section-23-4}}
 \bibleverse{1} Y echarán mano de un hombre siete mujeres en aquel tiempo, diciendo: Nosotras comeremos de nuestro pan, y nos vestiremos de nuestras ropas; solamente sea llamado tu nombre sobre nosotras, quita nuestro oprobio.
 
 ## Gloria de la Jerusalén purificada después del juicio del mundo bajo la protección personal de Dios
@@ -137,7 +141,8 @@
 \bibleverse{6} Y habrá sombrajo para sombra contra el calor del día, para acogida y escondedero contra el turbión y contra el aguacero. 
 
 ## La parábola de la viña estéril
-# 5 
+\hypertarget{section-23-5}{%
+\section{5}\label{section-23-5}}
 \bibleverse{1} Ahora cantaré por mi amado el cantar de mi amado á su viña. Tenía mi amado una viña en un recuesto, lugar fértil. 
 \bibleverse{2} Habíala cercado, y despedregádola, y plantádola de vides escogidas: había edificado en medio de ella una torre, y también asentado un lagar en ella: y esperaba que llevase uvas, y llevó uvas silvestres.
 
@@ -188,7 +193,8 @@
 \bibleverse{30} Y bramará sobre él en aquel día como bramido de la mar: entonces mirará hacia la tierra, y he aquí tinieblas de tribulación, y en sus cielos se oscurecerá la luz. 
 
 ## El llamado y la consagración de Isaías como profeta
-# 6 
+\hypertarget{section-23-6}{%
+\section{6}\label{section-23-6}}
 \bibleverse{1} En el año que murió el rey Uzzías vi yo al Señor sentado sobre un trono alto y sublime, y sus faldas henchían el templo. 
 \bibleverse{2} Y encima de él estaban serafines: cada uno tenía seis alas; con dos cubrían sus rostros, y con dos cubrían sus pies, y con dos volaban. 
 \bibleverse{3} Y el uno al otro daba voces, diciendo: Santo, santo, santo, Jehová de los ejércitos: toda la tierra está llena de su gloria.
@@ -217,7 +223,8 @@
 \bibleverse{13} Pues aun quedará en ella una décima parte, y volverá, bien que habrá sido asolada: como el olmo y como el alcornoque, de los cuales en la tala queda el tronco, así será el tronco de ella la simiente santa. 
 
 ## El aliento de Isaías al rey Acaz después del estallido de la guerra sirio-efraimita
-# 7 
+\hypertarget{section-23-7}{%
+\section{7}\label{section-23-7}}
 \bibleverse{1} Aconteció en los días de Achâz hijo de Jotham, hijo de Uzzías, rey de Judá, que Rezín rey de Siria, y Peca hijo de Remalías, rey de Israel, subieron á Jerusalem para combatirla; mas no la pudieron tomar. 
 \bibleverse{2} Y vino la nueva á la casa de David, diciendo: Siria se ha confederado con Ephraim. Y estremeciósele el corazón, y el corazón de su pueblo, como se estremecen los árboles del monte á causa del viento.
 
@@ -263,7 +270,8 @@
 \bibleverse{25} Y á todos los montes que se cavaban con azada, no llegará allá el temor de los espinos y de los cardos: mas serán para pasto de bueyes, y para ser hollados de los ganados. 
 
 ## Profecía de la conquista de Damasco y Samaria por los asirios
-# 8 
+\hypertarget{section-23-8}{%
+\section{8}\label{section-23-8}}
 \bibleverse{1} Y díjome Jehová: Tómate un gran volumen, y escribe en él en estilo de hombre tocante á Maher-salal-hash-baz. 
 \bibleverse{2} Y junté conmigo por testigos fieles á Urías sacerdote, y á Zacarías hijo de Jeberechîas.
 
@@ -305,7 +313,8 @@
 \bibleverse{22} Y mirarán á la tierra, y he aquí tribulación y tiniebla, oscuridad y angustia; y serán sumidos en las tinieblas. 
 
 ## Profecía del establecimiento del reino de Dios por el descendiente prometido de David
-# 9 
+\hypertarget{section-23-9}{%
+\section{9}\label{section-23-9}}
 \bibleverse{1} Aunque no será esta oscuridad tal como la aflicción que le vino en el tiempo que livianamente tocaron la primera vez á la tierra de Zabulón, y á la tierra de Nephtalí; y después cuando agravaron por la vía de la mar, de esa parte del Jordán, en Galilea de las gentes.
 
  
@@ -344,7 +353,8 @@
 \bibleverse{21} Manasés á Ephraim, y Ephraim á Manasés, y entrambos contra Judá. Ni con todo esto ha cesado su furor, antes todavía extendida su mano. 
 
 ## ¡Ay de las cabezas despreciables del pueblo! Un destino terrible te espera
-# 10 
+\hypertarget{section-23-10}{%
+\section{10}\label{section-23-10}}
 \bibleverse{1} ¡Ay de los que establecen leyes injustas, y determinando prescriben tiranía, 
 \bibleverse{2} Por apartar del juicio á los pobres, y por quitar el derecho á los afligidos de mi pueblo; por despojar las viudas, y robar los huérfanos! 
 \bibleverse{3} ¿Y qué haréis en el día de la visitación? ¿y á quién os acogeréis que os ayude, cuando viniere de lejos el asolamiento? ¿y en dónde dejaréis vuestra gloria?
@@ -402,7 +412,8 @@
 \bibleverse{34} Y cortará con hierro la espesura del bosque, y el Líbano caerá con fortaleza. 
 
 ## El vástago de David se llenó del espíritu de Dios como fundador del futuro reino de paz
-# 11 
+\hypertarget{section-23-11}{%
+\section{11}\label{section-23-11}}
 \bibleverse{1} Y saldrá una vara del tronco de Isaí, y un vástago retoñará de sus raíces. 
 \bibleverse{2} Y reposará sobre él el espíritu de Jehová; espíritu de sabiduría y de inteligencia, espíritu de consejo y de fortaleza, espíritu de conocimiento y de temor de Jehová. 
 \bibleverse{3} Y harále entender diligente en el temor de Jehová. No juzgará según la vista de sus ojos, ni argüirá por lo que oyeren sus oídos; 
@@ -426,7 +437,8 @@
 \bibleverse{16} Y habrá camino para las reliquias de su pueblo, las que quedaron de Assur, de la manera que lo hubo para Israel el día que subió de la tierra de Egipto. 
 
 ## Oración y votos de agradecimiento de la Iglesia Sion salvado
-# 12 
+\hypertarget{section-23-12}{%
+\section{12}\label{section-23-12}}
 \bibleverse{1} Y dirás en aquel día: Cantaré á ti, oh Jehová: pues aunque te enojaste contra mí, tu furor se apartó, y me has consolado. 
 \bibleverse{2} He aquí Dios es salud mía; aseguraréme, y no temeré; porque mi fortaleza y mi canción es [Jah]{.smallcaps} Jehová, el cual ha sido salud para mí. 
 \bibleverse{3} Sacaréis aguas con gozo de las fuentes de la salud. 
@@ -435,7 +447,8 @@
 \bibleverse{6} Regocíjate y canta, oh moradora de Sión: porque grande es en medio de ti el Santo de Israel. 
 
 ## Juicio sobre la ciudad de Babilonia
-# 13 
+\hypertarget{section-23-13}{%
+\section{13}\label{section-23-13}}
 \bibleverse{1} Carga de Babilonia, que vió Isaías, hijo de Amoz.
 
 ## Anuncio del Día Mundial del Juicio; el aterrador acercamiento del ejército convocado por Dios
@@ -471,7 +484,8 @@
 \bibleverse{22} Y en sus palacios gritarán gatos cervales, y chacales en sus casas de deleite: y abocado está á venir su tiempo, y sus días no se alargarán. 
 
 ## Dios restaurará a su pueblo Israel por misericordia después de la caída de Babilonia
-# 14 
+\hypertarget{section-23-14}{%
+\section{14}\label{section-23-14}}
 \bibleverse{1} Porque Jehová tendrá piedad de Jacob, y todavía escogerá á Israel, y les hará reposar en su tierra: y á ellos se unirán extranjeros, y allegaránse á la familia de Jacob. 
 \bibleverse{2} Y los tomarán los pueblos, y traeránlos á su lugar: y la casa de Israel los poseerá por siervos y criadas en la tierra de Jehová: y cautivarán á los que los cautivaron, y señorearán á los que los oprimieron.
 
@@ -537,7 +551,8 @@
 \bibleverse{32} ¿Y qué se responderá á los mensajeros de la gentilidad? Que Jehová fundó á Sión, y que á ella se acogerán los afligidos de su pueblo. 
 
 ## Lamento por la desolación de Moab
-# 15 
+\hypertarget{section-23-15}{%
+\section{15}\label{section-23-15}}
 \bibleverse{1} Carga de Moab. Cierto, de noche fué destruída Ar-moab, fué puesta en silencio. Cierto, de noche fué destruída Kir-moab, reducida á silencio.
 
  
@@ -551,7 +566,8 @@
 \bibleverse{9} Y las aguas de Dimón se henchirán de sangre: porque yo pondré sobre Dimón añadiduras, leones á los que escaparen de Moab, y á las reliquias de la tierra. 
 
 ## Una solicitud de ayuda de los moabitas fugitivos al pueblo judío
-# 16 
+\hypertarget{section-23-16}{%
+\section{16}\label{section-23-16}}
 \bibleverse{1} Enviad cordero al enseñoreador de la tierra, desde la Piedra del desierto al monte de la hija de Sión. 
 \bibleverse{2} Y será que cual ave espantada que se huye de su nido, así serán las hijas de Moab en los vados de Arnón. 
 \bibleverse{3} Reune consejo, haz juicio; pon tu sombra en medio del día como la noche: esconde los desterrados, no entregues á los que andan errantes. 
@@ -573,7 +589,8 @@
 \bibleverse{14} Empero ahora Jehová ha hablado, diciendo: Dentro de tres años, como años de mozo de soldada, será abatida la gloria de Moab, con toda su grande multitud: y los residuos serán pocos, pequeños, y no fuertes. 
 
 ## Anuncio de la caída de los reinos de Damasco e Israel
-# 17 
+\hypertarget{section-23-17}{%
+\section{17}\label{section-23-17}}
 \bibleverse{1} Carga de Damasco. He aquí que Damasco dejó de ser ciudad, y será montón de ruina.
 
  
@@ -598,7 +615,8 @@
 \bibleverse{14} Al tiempo de la tarde he aquí turbación; y antes de la mañana ya no es. Esta es la parte de los que nos huellan, y la suerte de los que nos saquean. 
 
 ## El mensaje de Dios a los embajadores etíopes en Jerusalén
-# 18 
+\hypertarget{section-23-18}{%
+\section{18}\label{section-23-18}}
 \bibleverse{1} ¡Ay de la tierra que hace sombra con las alas, que está tras los ríos de Etiopía; 
 \bibleverse{2} Que envía mensajeros por la mar, y en navíos de junco sobre las aguas! Andad, ligeros mensajeros, á la gente tirada y repelada, al pueblo asombroso desde su principio y después; gente harta de esperar y hollada, cuya tierra destruyeron los ríos. 
 \bibleverse{3} Vosotros, todos los moradores del mundo y habitantes de la tierra, cuando levantará bandera en los montes, la veréis; y oiréis cuando tocará trompeta.
@@ -610,7 +628,8 @@
 \bibleverse{7} En aquel tiempo será traído presente á Jehová de los ejércitos, el pueblo tirado y repelado, pueblo asombroso desde su principio y después; gente harta de esperar y hollada, cuya tierra destruyeron los ríos; al lugar del nombre de Jehová de los ejércitos, al monte de Sión. 
 
 ## Las tribulaciones que aguardan a la tierra por la intervención de Dios
-# 19 
+\hypertarget{section-23-19}{%
+\section{19}\label{section-23-19}}
 \bibleverse{1} Carga de Egipto. He aquí que Jehová monta sobre una ligera nube, y entrará en Egipto; y los ídolos de Egipto se moverán delante de él, y desleiráse el corazón de los Egipcios en medio de ellos.
 
  
@@ -658,7 +677,8 @@
 \bibleverse{25} Porque Jehová de los ejércitos los bendecirá, diciendo: Bendito el pueblo mío Egipto, y el Asirio obra de mis manos, é Israel mi heredad. 
 
 ## Isaías anuncia el cautiverio de Egipto y Etiopía por los asirios a través de un acto simbólico
-# 20 
+\hypertarget{section-23-20}{%
+\section{20}\label{section-23-20}}
 \bibleverse{1} En el año que vino Thartán á Asdod, cuando le envió Sargón rey de Asiria, y peleó contra Asdod y la tomó; 
 \bibleverse{2} En aquel tiempo habló Jehová por Isaías hijo de Amoz, diciendo: Ve, y quita el saco de tus lomos, y descalza los zapatos de tus pies. E hízolo así, andando desnudo y descalzo. 
 \bibleverse{3} Y dijo Jehová: De la manera que anduvo mi siervo Isaías desnudo y descalzo tres años, señal y pronóstico sobre Egipto y sobre Etiopía; 
@@ -667,7 +687,8 @@
 \bibleverse{6} Y dirá en aquel día el morador de esta isla: Mirad qué tal fué nuestra esperanza, donde nos acogimos por socorro para ser libres de la presencia del rey de Asiria: ¿y cómo escaparemos? 
 
 ## Anuncio de la terrible visión
-# 21 
+\hypertarget{section-23-21}{%
+\section{21}\label{section-23-21}}
 \bibleverse{1} Carga del desierto de la mar. Como los torbellinos que pasan por el desierto en la región del mediodía, así vienen de la tierra horrenda.
 
  
@@ -704,7 +725,8 @@
 \bibleverse{17} Y las reliquias del número de los valientes flecheros, hijos de Cedar, serán apocadas: porque Jehová Dios de Israel lo ha dicho. 
 
 ## Discurso de castigo contra la Jerusalén alegremente emocionada, alejada de Dios e impenitente
-# 22 
+\hypertarget{section-23-22}{%
+\section{22}\label{section-23-22}}
 \bibleverse{1} Carga del valle de la visión. ¿Qué tienes ahora, que toda tú te has subido sobre los terrados?
 
  
@@ -744,7 +766,8 @@
 \bibleverse{25} En aquel día, dice Jehová de los ejércitos, el clavo hincado en lugar firme será quitado, y será quebrado y caerá; y la carga que sobre él se puso, se echará á perder; porque Jehová habló. 
 
 ## Lamento por la destrucción del país y la ciudad
-# 23 
+\hypertarget{section-23-23}{%
+\section{23}\label{section-23-23}}
 \bibleverse{1} Carga de Tiro. Aullad, naves de Tarsis, porque destruída es hasta no quedar casa, ni entrada: de la tierra de Chîttim les es revelado.
 
  
@@ -774,7 +797,8 @@
 \bibleverse{18} Mas su negociación y su ganancia será consagrada á Jehová: no se guardará ni se atesorará, porque su negociación será para los que estuvieren delante de Jehová, para que coman hasta hartarse, y vistan honradamente. 
 
 ## La tierra y su gente enfrentan un juicio desolado
-# 24 
+\hypertarget{section-23-24}{%
+\section{24}\label{section-23-24}}
 \bibleverse{1} He aquí que Jehová vacía la tierra, y la desnuda, y trastorna su haz, y hace esparcir sus moradores. 
 \bibleverse{2} Y será como el pueblo, tal el sacerdote; como el siervo, tal su señor; como la criada, tal su señora; tal el que compra, como el que vende; tal el que da emprestado, como el que toma prestado; tal el que da á logro, como el que lo recibe. 
 \bibleverse{3} Del todo será vaciada la tierra, y enteramente saqueada; porque Jehová ha pronunciado esta palabra.
@@ -813,7 +837,8 @@
 \bibleverse{23} La luna se avergonzará, y el sol se confundirá, cuando Jehová de los ejércitos reinare en el monte de Sión, y en Jerusalem, y delante de sus ancianos fuere glorioso. 
 
 ## El cántico de agradecimiento y alabanza de Israel por la salvación experimentada hasta ese momento
-# 25 
+\hypertarget{section-23-25}{%
+\section{25}\label{section-23-25}}
 \bibleverse{1} Jehová, tú eres mi Dios: te ensalzaré, alabaré tu nombre; porque has hecho maravillas, los consejos antiguos, la verdad firme. 
 \bibleverse{2} Que tornaste la ciudad en montón, la ciudad fuerte en ruina: el alcázar de los extraños que no sea ciudad, ni nunca jamás sea reedeficada. 
 \bibleverse{3} Por esto te dará gloria el pueblo fuerte, te temerá la ciudad de gentes robustas. 
@@ -836,7 +861,8 @@
 \bibleverse{12} Y allanará la fortaleza de tus altos muros: la humillará y echará á tierra, hasta el polvo. 
 
 ## Canto de alabanza de la ciudad de Dios firme y fiel a la justicia divina
-# 26 
+\hypertarget{section-23-26}{%
+\section{26}\label{section-23-26}}
 \bibleverse{1} En aquel día cantarán este cantar en tierra de Judá: Fuerte ciudad tenemos: salud puso Dios por muros y antemuro. 
 \bibleverse{2} Abrid las puertas, y entrará la gente justa, guardadora de verdades. 
 \bibleverse{3} Tú le guardarás en completa paz, cuyo pensamiento en ti persevera; porque en ti se ha confiado. 
@@ -869,7 +895,8 @@
 \bibleverse{21} Porque he aquí que Jehová sale de su lugar, para visitar la maldad del morador de la tierra contra él; y la tierra descubrirá sus sangres, y no más encubrirá sus muertos. 
 
 ## Aniquilación de las potencias mundiales; El amor de Dios por su pueblo, expresado en el canto de la viña cuidadosamente custodiada
-# 27 
+\hypertarget{section-23-27}{%
+\section{27}\label{section-23-27}}
 \bibleverse{1} En aquel día Jehová visitará con su espada dura, grande y fuerte, sobre leviathán, serpiente rolliza, y sobre leviathán serpiente retuerta; y matará al dragón que está en la mar.
 
  
@@ -895,7 +922,8 @@
 \bibleverse{13} Acontecerá también en aquel día, que se tañerá con gran trompeta, y vendrán los que habían sido esparcidos en la tierra de Asiria, y los que habían sido echados en tierra de Egipto, y adorarán á Jehová en el monte santo, en Jerusalem. 
 
 ## Anuncio de la caída de Samaria
-# 28 
+\hypertarget{section-23-28}{%
+\section{28}\label{section-23-28}}
 \bibleverse{1} ¡Ay de la corona de soberbia, de los ebrios de Ephraim, y de la flor caduca de la hermosura de su gloria, que está sobre la cabeza del valle fértil de los aturdidos del vino! 
 \bibleverse{2} He aquí Jehová tiene un fuerte y poderoso: como turbión de granizo y como torbellino trastornador; como ímpetu de recias aguas que inundan, con fuerza derriba á tierra. 
 \bibleverse{3} Con los pies será hollada la corona de soberbia de los borrachos de Ephraim; 
@@ -943,7 +971,8 @@
 \bibleverse{29} También esto salió de Jehová de los ejércitos, para hacer maravilloso el consejo y engrandecer la sabiduría. 
 
 ## Anuncio del asedio, la humillación y la maravillosa salvación de Jerusalén, el Ariel
-# 29 
+\hypertarget{section-23-29}{%
+\section{29}\label{section-23-29}}
 \bibleverse{1} ¡Ay de Ariel, ciudad donde habitó David! Añadid un año á otro, mátense víctimas. 
 \bibleverse{2} Mas yo pondré á Ariel en apretura, y será desconsolada y triste; y será á mí como Ariel. 
 \bibleverse{3} Porque asentaré campo contra ti en derredor, y te combatiré con ingenios, y levantaré contra ti baluartes. 
@@ -986,7 +1015,8 @@
 \bibleverse{24} Y los errados de espíritu aprenderán inteligencia, y los murmuradores aprenderán doctrina. 
 
 ## Ay de los impíos e inútiles que buscan ayuda en Egipto
-# 30 
+\hypertarget{section-23-30}{%
+\section{30}\label{section-23-30}}
 \bibleverse{1} ¡Ay de los hijos que se apartan, dice Jehová, para tomar consejo, y no de mí; para cobijarse con cubierta, y no de mi espíritu, añadiendo pecado á pecado! 
 \bibleverse{2} Pártense para descender á Egipto, y no han preguntado mi boca; para fortificarse con la fuerza de Faraón, y poner su esperanza en la sombra de Egipto. 
 \bibleverse{3} Mas la fortaleza de Faraón se os tornará en vergüenza, y el amparo en la sombra de Egipto en confusión. 
@@ -1043,7 +1073,8 @@
 \bibleverse{33} Porque Topheth ya de tiempo está diputada y aparejada para el rey, profunda y ancha; cuyo foco es de fuego, y mucha leña; el soplo de Jehová, como torrente de azufre, la enciende. 
 
 ## Egipto no puede proteger a aquellos cuya impiedad el Eterno debe castigar
-# 31 
+\hypertarget{section-23-31}{%
+\section{31}\label{section-23-31}}
 \bibleverse{1} ¡Ay de los que descienden á Egipto por ayuda, y confían en caballos; y su esperanza ponen en carros, porque son muchos, y en caballeros, porque son valientes; y no miraron al Santo de Israel, ni buscaron á Jehová! 
 \bibleverse{2} Mas él también es sabio, y traerá el mal, y no retirará sus palabras. Levantaráse pues contra la casa de los malignos, y contra el auxilio de los obradores de iniquidad. 
 \bibleverse{3} Y los Egipcios hombres son, y no Dios; y sus caballos carne, y no espíritu: de manera que en extendiendo Jehová su mano, caerá el ayudador, y caerá el ayudado, y todos ellos desfallecerán á una.
@@ -1060,7 +1091,8 @@
 \bibleverse{9} Y de miedo pasará su fortaleza, y sus príncipes tendrán pavor de la bandera, dice Jehová, cuyo fuego está en Sión, y su horno en Jerusalem. 
 
 ## El sentido maravillosamente renovado de los gobernantes y del pueblo a través del juicio
-# 32 
+\hypertarget{section-23-32}{%
+\section{32}\label{section-23-32}}
 \bibleverse{1} He aquí que en justicia reinará un rey, y príncipes presidirán en juicio. 
 \bibleverse{2} Y será aquel varón como escondedero contra el viento, y como acogida contra el turbión; como arroyos de aguas en tierra de sequedad, como sombra de gran peñasco en tierra calurosa. 
 \bibleverse{3} No se ofuscarán entonces los ojos de los que ven, y los oídos de los oyentes oirán atentos. 
@@ -1089,7 +1121,8 @@
 \bibleverse{20} Dichosos vosotros los que sembráis sobre todas aguas, y metéis en ellas el pie de buey y de asno. 
 
 ## El llamado final de aflicción y angustia para el infame conquistador para quien ahora ha llegado el juicio de Dios
-# 33 
+\hypertarget{section-23-33}{%
+\section{33}\label{section-23-33}}
 \bibleverse{1} ¡Ay de ti, el que saqueas, y nunca fuiste saqueado; el que haces deslealtad, bien que nadie contra ti la hizo! Cuando acabares de saquear, serás tú saqueado; y cuando acabares de hacer deslealtad, haráse contra ti. 
 \bibleverse{2} Oh Jehová, ten misericordia de nosotros, á ti hemos esperado: tú, brazo de ellos en la mañana, sé también nuestra salud en tiempo de la tribulación. 
 \bibleverse{3} Los pueblos huyeron á la voz del estruendo; las gentes fueron esparcidas por tus levantamientos. 
@@ -1123,7 +1156,8 @@
 \bibleverse{24} No dirá el morador: Estoy enfermo: el pueblo que morare en ella será absuelto de pecado. 
 
 ## El juicio de Dios contra todos los pueblos extranjeros hostiles al reino de Dios, especialmente Edom
-# 34 
+\hypertarget{section-23-34}{%
+\section{34}\label{section-23-34}}
 \bibleverse{1} Gentes, allegaos á oir; y escuchad, pueblos. Oiga la tierra y lo que la hinche, el mundo y todo lo que él produce. 
 \bibleverse{2} Porque Jehová está airado sobre todas las gentes, é irritado sobre todo el ejército de ellas: destruirálas y entregarálas al matadero. 
 \bibleverse{3} Y los muertos de ellas serán arrojados, y de sus cadáveres se levantará hedor; y los montes se desleirán por la sangre de ellos. 
@@ -1146,7 +1180,8 @@
 \bibleverse{17} Y él les echó las suertes, y su mano les repartió con cordel: para siempre la tendrán por heredad, de generación en generación morarán allí. 
 
 ## El regreso a casa del pueblo redimido y la gloriosa renovación de Jerusalén
-# 35 
+\hypertarget{section-23-35}{%
+\section{35}\label{section-23-35}}
 \bibleverse{1} Alegrarse han el desierto y la soledad: el yermo se gozará, y florecerá como la rosa. 
 \bibleverse{2} Florecerá profusamente, y también se alegrará y cantará con júbilo: la gloria del Líbano le será dada, la hermosura de Carmel y de Sarón. Ellos verán la gloria de Jehová, la hermosura del Dios nuestro. 
 \bibleverse{3} Confortad á las manos cansadas, roborad las vacilantes rodillas. 
@@ -1159,7 +1194,8 @@
 \bibleverse{10} Y los redimidos de Jehová volverán, y vendrán á Sión con alegría; y gozo perpetuo será sobre sus cabezas: y retendrán el gozo y alegría, y huirá la tristeza y el gemido. 
 
 ## Jerusalén amenazada por Senaquerib y maravillosamente salvada
-# 36 
+\hypertarget{section-23-36}{%
+\section{36}\label{section-23-36}}
 \bibleverse{1} Aconteció en el año catorce del rey Ezechîas, que Sennachêrib rey de Asiria subió contra todas las ciudades fuertes de Judá, y tomólas. 
 \bibleverse{2} Y el rey de Asiria envió á Rabsaces con grande ejército desde Lachîs á Jerusalem al rey Ezechîas: y asentó el campo á los caños de la pesquera de arriba, en el camino de la heredad del Lavador. 
 \bibleverse{3} Y salió á él Eliacim hijo de Hilcías mayordomo, y Sebna, escriba, y Joah hijo de Asaph, canciller.
@@ -1195,7 +1231,8 @@
 \bibleverse{22} Entonces Eliacim hijo de Hilcías mayordomo, y Sebna escriba, y Joah hijo de Asaph canciller, vinieron á Ezechîas rotos sus vestidos, y contáronle las palabras de Rabsaces. 
 
 ## El estímulo de Ezequías de Isaías
-# 37 
+\hypertarget{section-23-37}{%
+\section{37}\label{section-23-37}}
 \bibleverse{1} Aconteció pues, que el rey Ezechîas, oído esto, rasgó sus vestidos, y cubierto de saco vino á la casa de Jehová. 
 \bibleverse{2} Y envió á Eliacim mayordomo, y á Sebna escriba, y á los ancianos de los sacerdotes, cubiertos de sacos, á Isaías profeta, hijo de Amoz. 
 \bibleverse{3} Los cuales le dijeron: Ezechîas dice así: Día de angustia, de reprensión y de blasfemia, es este día: porque los hijos han llegado hasta la rotura, y no hay fuerza en la que pare. 
@@ -1260,7 +1297,8 @@
 \bibleverse{38} Y acaeció, que estando orando en el templo de Nisroch su dios, Adremelech y Sarezer, sus hijos, le hirieron á cuchillo, y huyeron á la tierra de Ararat; y reinó en su lugar Esar-hadón su hijo. 
 
 ## Enfermedad, recuperación y cántico de alabanza de Ezequías
-# 38 
+\hypertarget{section-23-38}{%
+\section{38}\label{section-23-38}}
 \bibleverse{1} En aquellos días cayó Ezechîas enfermo para morir. Y vino á él Isaías profeta, hijo de Amoz, y díjole: Jehová dice así: Ordena tu casa, porque tú morirás, y no vivirás.
 
  
@@ -1297,7 +1335,8 @@
 \bibleverse{22} Había asimismo dicho Ezechîas: ¿Qué señal tendré de que he de subir á la casa de Jehová? 
 
 ## Embajada de Merodac-Baladan de Babilonia a Ezequías
-# 39 
+\hypertarget{section-23-39}{%
+\section{39}\label{section-23-39}}
 \bibleverse{1} En aquel tiempo Merodach-baladán, hijo de Baladán, rey de Babilonia, envió cartas y presentes á Ezechîas; porque había oído que había estado enfermo, y que había convalecido. 
 \bibleverse{2} Y holgóse con ellos Ezechîas, y enseñóles la casa de su tesoro, plata y oro, y especierías, y ungüentos preciosos, y toda su casa de armas, y todo lo que se pudo hallar en sus tesoros: no hubo cosa en su casa y en todo su señorío, que Ezechîas no les mostrase.
 
@@ -1318,7 +1357,8 @@
 \bibleverse{8} Y dijo Ezechîas á Isaías: La palabra de Jehová que has hablado, es buena. Y añadió: A lo menos, haya paz y verdad en mis días. 
 
 ## El dicho consolador de Dios sobre el perdón del pueblo
-# 40 
+\hypertarget{section-23-40}{%
+\section{40}\label{section-23-40}}
 \bibleverse{1} Consolaos, consolaos, pueblo mío, dice vuestro Dios. 
 \bibleverse{2} Hablad al corazón de Jerusalem: decidle á voces que su tiempo es ya cumplido, que su pecado es perdonado; que doble ha recibido de la mano de Jehová por todos sus pecados.
 
@@ -1370,7 +1410,8 @@
 \bibleverse{31} Mas los que esperan á Jehová tendrán nuevas fuerzas; levantarán las alas como águilas; correrán, y no se cansarán; caminarán, y no se fatigarán. 
 
 ## Dios como gobernante de la historia de las naciones y señor de la profecía
-# 41 
+\hypertarget{section-23-41}{%
+\section{41}\label{section-23-41}}
 \bibleverse{1} Escuchadme, islas, y esfuércense los pueblos; alléguense, y entonces hablen: estemos juntamente á juicio. 
 \bibleverse{2} ¿Quién despertó del oriente al justo, lo llamó para que le siguiese, entregó delante de él naciones, é hízolo enseñorear de reyes; entrególos á su espada como polvo, y á su arco como hojarascas arrebatadas? 
 \bibleverse{3} Siguiólos, pasó en paz por camino por donde sus pies nunca habían entrado. 
@@ -1415,7 +1456,8 @@
 \bibleverse{29} He aquí, todos iniquidad, y las obras de ellos nada: viento y vanidad son sus vaciadizos. 
 
 ## La referencia de Dios a su siervo elegido y su naturaleza y obra
-# 42 
+\hypertarget{section-23-42}{%
+\section{42}\label{section-23-42}}
 \bibleverse{1} He aquí mi siervo, yo le sostendré; mi escogido, en quien mi alma toma contentamiento: he puesto sobre él mi espíritu, dará juicio á las gentes. 
 \bibleverse{2} No clamará, ni alzará, ni hará oir su voz en las plazas. 
 \bibleverse{3} No quebrará la caña cascada, ni apagará el pábilo que humeare: sacará el juicio á verdad. 
@@ -1452,7 +1494,8 @@
 \bibleverse{25} Por tanto derramó sobre él el furor de su ira, y fuerza de guerra; púsole fuego de todas partes, empero no entendió; y encendióle, mas no ha parado mientes. 
 
 ## Anuncio de la liberación y reunión de todo el pueblo de Dios de todas partes del cielo
-# 43 
+\hypertarget{section-23-43}{%
+\section{43}\label{section-23-43}}
 \bibleverse{1} Y ahora, así dice Jehová Criador tuyo, oh Jacob, y Formador tuyo, oh Israel: No temas, porque yo te redimí; te puse nombre, mío eres tú. 
 \bibleverse{2} Cuando pasares por las aguas, yo seré contigo; y por los ríos, no te anegarán. Cuando pasares por el fuego, no te quemarás, ni la llama arderá en ti. 
 \bibleverse{3} Porque yo Jehová Dios tuyo, el Santo de Israel, soy tu Salvador: á Egipto he dado por tu rescate, á Etiopía y á Seba por ti. 
@@ -1495,7 +1538,8 @@
 \bibleverse{28} Por tanto, yo profané los príncipes del santuario, y puse por anatema á Jacob, y por oprobio á Israel. 
 
 ## Prometen ricas bendiciones divinas, especialmente la dispensación del espíritu divino
-# 44 
+\hypertarget{section-23-44}{%
+\section{44}\label{section-23-44}}
 \bibleverse{1} Ahora pues oye, Jacob, siervo mío, y tú, Israel, á quien yo escogí. 
 \bibleverse{2} Así dice Jehová, Hacedor tuyo, y el que te formó desde el vientre, el cual te ayudará: No temas, siervo mío Jacob, y tú, Jeshurun, á quien yo escogí. 
 \bibleverse{3} Porque yo derramaré aguas sobre el secadal, y ríos sobre la tierra árida: mi espíritu derramaré sobre tu generación, y mi bendición sobre tus renuevos: 
@@ -1542,7 +1586,8 @@
 \bibleverse{28} Que dice de Ciro: Es mi pastor, y cumplirá todo lo que yo quiero, en diciendo á Jerusalem, Serás edificada; y al templo: Serás fundado. 
 
 ## La elección de Dios de Ciro para la redención de Israel; Anunciación de la salvación para el héroe de Dios
-# 45 
+\hypertarget{section-23-45}{%
+\section{45}\label{section-23-45}}
 \bibleverse{1} Así dice Jehová á su ungido, á Ciro, al cual tomé yo por su mano derecha, para sujetar gentes delante de él y desatar lomos de reyes; para abrir delante de él puertas, y las puertas no se cerrarán: 
 \bibleverse{2} Yo iré delante de ti, y enderezaré las tortuosidades; quebrantaré puertas de bronce, y cerrojos de hierro haré pedazos; 
 \bibleverse{3} Y te daré los tesoros escondidos, y los secretos muy guardados; para que sepas que yo soy Jehová, el Dios de Israel, que te pongo nombre. 
@@ -1582,7 +1627,8 @@
 \bibleverse{25} En Jehová será justificada y se gloriará toda la generación de Israel. 
 
 ## El final miserable de los ídolos babilónicos
-# 46 
+\hypertarget{section-23-46}{%
+\section{46}\label{section-23-46}}
 \bibleverse{1} Postróse Bel, abatióse Nebo; sus simulacros fueron puestos sobre bestias, y sobre animales de carga: os llevarán cargados de vosotros, carga penosa. 
 \bibleverse{2} Fueron humillados, fueron abatidos juntamente; no pudieron escaparse de la carga, sino que tuvieron ellos mismos que ir en cautiverio.
 
@@ -1606,7 +1652,8 @@
 \bibleverse{13} Haré que se acerque mi justicia, no se alejará: y mi salud no se detendrá. Y pondré salud en Sión, y mi gloria en Israel. 
 
 ## Humillación del gobernante orgulloso y exuberante a la suerte de un esclavo
-# 47 
+\hypertarget{section-23-47}{%
+\section{47}\label{section-23-47}}
 \bibleverse{1} Desciende, y siéntate en el polvo, virgen hija de Babilonia, siéntate en la tierra sin trono, hija de los Caldeos: que nunca más te llamarán tierna y delicada. 
 \bibleverse{2} Toma el molino, y muele harina: descubre tus guedejas, descalza los pies, descubre las piernas, pasa los ríos. 
 \bibleverse{3} Descubierta será tu vergüenza, y tu deshonor será visto: tomaré venganza, y no encontraré hombre. 
@@ -1633,7 +1680,8 @@
 \bibleverse{15} Así te serán aquellos con quienes te fatigaste, tus negociantes desde tu niñez: cada uno echará por su camino, no habrá quien te salve. 
 
 ## Forma dura de dirigirse a la gente terca
-# 48 
+\hypertarget{section-23-48}{%
+\section{48}\label{section-23-48}}
 \bibleverse{1} Oid esto, casa de Jacob, que os llamáis del nombre de Israel, los que salieron de las aguas de Judá, los que juran en el nombre de Jehová, y hacen memoria del Dios de Israel, mas no en verdad ni en justicia: 
 \bibleverse{2} Porque de la santa ciudad se nombran, y en el Dios de Israel confían: su nombre, Jehová de los ejércitos.
 
@@ -1669,7 +1717,8 @@
 \bibleverse{22} No hay paz para los malos, dijo Jehová. 
 
 ## Habla del siervo a los paganos sobre su oficio según la voluntad divina
-# 49 
+\hypertarget{section-23-49}{%
+\section{49}\label{section-23-49}}
 \bibleverse{1} Oidme, islas, y escuchad, pueblos lejanos: Jehová me llamó desde el vientre; desde las entrañas de mi madre tuvo mi nombre en memoria. 
 \bibleverse{2} Y puso mi boca como espada aguda, cubrióme con la sombra de su mano; y púsome por saeta limpia, guardóme en su aljaba; 
 \bibleverse{3} Y díjome: Mi siervo eres, oh Israel, que en ti me gloriaré. 
@@ -1712,7 +1761,8 @@
 \bibleverse{26} Y á los que te despojaron haré comer sus carnes, y con su sangre serán embriagados como con mosto; y conocerá toda carne que yo Jehová soy Salvador tuyo, y Redentor tuyo, el Fuerte de Jacob. 
 
 ## Dios no ha echado ni vendido a su pueblo para bien; tiene el derecho y el poder de redimirlo
-# 50 
+\hypertarget{section-23-50}{%
+\section{50}\label{section-23-50}}
 \bibleverse{1} Así dijo Jehová: ¿Qué es de la carta de repudio de vuestra madre, con la cual yo la repudié? ¿ó quiénes son mis acreedores, á quienes os he yo vendido? He aquí que por vuestras maldades sois vendidos, y por vuestras rebeliones fué repudiada vuestra madre: 
 \bibleverse{2} Porque vine, y nadie pareció; llamé, y nadie respondió. ¿Ha llegado á acortarse mi mano, para no redimir? ¿no hay en mí poder para librar? He aquí que con mi reprensión hago secar la mar; torno los ríos en desierto, hasta pudrirse sus peces, y morirse de sed por falta de agua. 
 \bibleverse{3} Visto de oscuridad los cielos, y torno como saco su cobertura.
@@ -1732,7 +1782,8 @@
 \bibleverse{11} He aquí que todos vosotros encendéis fuego, y estáis cercados de centellas: andad á la luz de vuestro fuego, y á las centellas que encendisteis. De mi mano os vendrá esto; en dolor seréis sepultados. 
 
 ## Discurso de amonestación sincero y aliento reconfortante para aquellos que anhelan la salvación entre la gente
-# 51 
+\hypertarget{section-23-51}{%
+\section{51}\label{section-23-51}}
 \bibleverse{1} Oidme, los que seguís justicia, los que buscáis á Jehová: mirad á la piedra de donde fuisteis cortados, y á la caverna de la fosa de donde fuisteis arrancados. 
 \bibleverse{2} Mirad á Abraham vuestro padre, y á Sara que os parió; porque solo lo llamé, y bendíjelo, y multipliquélo. 
 \bibleverse{3} Ciertamente consolará Jehová á Sión: consolará todas sus soledades, y tornará su desierto como paraíso, y su soledad como huerto de Jehová: hallarse ha en ella alegría y gozo, alabanza y voz de cantar.
@@ -1771,7 +1822,8 @@
 \bibleverse{23} Y ponerlo he en mano de tus angustiadores, que dijeron á tu alma: Encórvate, y pasaremos. Y tú pusiste tu cuerpo como tierra, y como camino, á los que pasan. 
 
 ## Invitación a Sión para prepararse dignamente para recibir a los redimidos
-# 52 
+\hypertarget{section-23-52}{%
+\section{52}\label{section-23-52}}
 \bibleverse{1} Despierta, despierta, vístete tu fortaleza, oh Sión; vístete tu ropa de hermosura, oh Jerusalem, ciudad santa: porque nunca más acontecerá que venga á ti incircunciso ni inmundo. 
 \bibleverse{2} Sacúdete del polvo; levántate y siéntate, Jerusalem; suéltate de las ataduras de tu cuello, cautiva hija de Sión. 
 \bibleverse{3} Porque así dice Jehová: De balde fuisteis vendidos; por tanto, sin dinero seréis rescatados. 
@@ -1795,7 +1847,8 @@
 \bibleverse{15} Empero él rociará muchas gentes: los reyes cerrarán sobre él sus bocas; porque verán lo que nunca les fué contado, y entenderán lo que jamás habían oído. 
 
 ## La profunda humillación del Siervo de Dios, sus graves sufrimientos por los pecadores, su muerte paciente y la promesa que le hizo
-# 53 
+\hypertarget{section-23-53}{%
+\section{53}\label{section-23-53}}
 \bibleverse{1} ¿Quién ha creído á nuestro anuncio? ¿y sobre quién se ha manifestado el brazo de Jehová? 
 \bibleverse{2} Y subirá cual renuevo delante de él, y como raíz de tierra seca: no hay parecer en él, ni hermosura: verlo hemos, mas sin atractivo para que le deseemos. 
 \bibleverse{3} Despreciado y desechado entre los hombres, varón de dolores, experimentado en quebranto: y como que escondimos de él el rostro, fué menospreciado, y no lo estimamos. 
@@ -1813,7 +1866,8 @@
 \bibleverse{12} Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fué contado con los perversos, habiendo él llevado el pecado de muchos, y orado por los transgresores. 
 
 ## La graciosa aceptación y la bendición del niño rico de Sion; el pacto de paz eterna
-# 54 
+\hypertarget{section-23-54}{%
+\section{54}\label{section-23-54}}
 \bibleverse{1} Alégrate, oh estéril, la que no paría; levanta canción, y da voces de júbilo, la que nunca estuvo de parto: porque más son los hijos de la dejada que los de la casada, ha dicho Jehová. 
 \bibleverse{2} Ensancha el sitio de tu cabaña, y las cortinas de tus tiendas sean extendidas; no seas escasa; alarga tus cuerdas, y fortifica tus estacas. 
 \bibleverse{3} Porque á la mano derecha y á la mano izquierda has de crecer; y tu simiente heredará gentes, y habitarán las ciudades asoladas. 
@@ -1836,7 +1890,8 @@
 \bibleverse{17} Toda herramienta que fuere fabricada contra ti, no prosperará; y tú condenarás toda lengua que se levantare contra ti en juicio. Esta es la heredad de los siervos de Jehová, y su justicia de por mí, dijo Jehová. 
 
 ## Amonestación urgente al pueblo para que se apodere de los bienes salvíficos prometidos en el pacto davídico y ahora ofrecidos gratuitamente
-# 55 
+\hypertarget{section-23-55}{%
+\section{55}\label{section-23-55}}
 \bibleverse{1} A todos los sedientos: Venid á las aguas; y los que no tienen dinero, venid, comprad, y comed. Venid, comprad, sin dinero y sin precio, vino y leche. 
 \bibleverse{2} ¿Por qué gastáis el dinero no en pan, y vuestro trabajo no en hartura? Oidme atentamente, y comed del bien, y deleitaráse vuestra alma con grosura. 
 \bibleverse{3} Inclinad vuestros oídos, y venid á mí; oid, y vivirá vuestra alma; y haré con vosotros pacto eterno, las misericordias firmes á David. 
@@ -1855,7 +1910,8 @@
 \bibleverse{13} En lugar de la zarza crecerá haya, y en lugar de la ortiga crecerá arrayán: y será á Jehová por nombre, por señal eterna que nunca será raída. 
 
 ## La salvación está cerca y la membresía de la iglesia es posible para todos, incluidos los no israelitas
-# 56 
+\hypertarget{section-23-56}{%
+\section{56}\label{section-23-56}}
 \bibleverse{1} Así dijo Jehová: Guardad derecho, y haced justicia: porque cercana está mi salud para venir, y mi justicia para manifestarse. 
 \bibleverse{2} Bienaventurado el hombre que esto hiciere, y el hijo del hombre que esto abrazare: que guarda el sábado de profanarlo, y que guarda su mano de hacer todo mal. 
 \bibleverse{3} Y el hijo del extranjero, allegado á Jehová, no hable diciendo: Apartaráme totalmente Jehová de su pueblo. Ni diga el eunuco: He aquí yo soy árbol seco. 
@@ -1872,7 +1928,8 @@
 \bibleverse{11} Y esos perros ansiosos no conocen hartura; y los mismos pastores no supieron entender: todos ellos miran á sus caminos, cada uno á su provecho, cada uno por su cabo. 
 \bibleverse{12} Venid, dicen, tomaré vino, embriaguémonos de sidra; y será el día de mañana como este, ó mucho más excelente. 
 
-# 57 
+\hypertarget{section-23-57}{%
+\section{57}\label{section-23-57}}
 \bibleverse{1} Perece el justo, y no hay quien pare mientes; y los píos son recogidos, y no hay quien entienda que delante de la aflicción es recogido el justo. 
 \bibleverse{2} Entrará en la paz; descansarán en sus lechos todos los que andan delante de Dios.
 
@@ -1902,7 +1959,8 @@
 \bibleverse{21} No hay paz, dijo mi Dios, para los impíos. 
 
 ## La vana adoración del presente; Indigno de ayuno externo
-# 58 
+\hypertarget{section-23-58}{%
+\section{58}\label{section-23-58}}
 \bibleverse{1} Clama á voz en cuello, no te detengas; alza tu voz como trompeta, y anuncia á mi pueblo su rebelión, y á la casa de Jacob su pecado. 
 \bibleverse{2} Que me buscan cada día, y quieren saber mis caminos, como gente que hubiese obrado justicia, y que no hubiese dejado el derecho de su Dios: pregúntanme derechos de justicia, y quieren acercarse á Dios. 
 \bibleverse{3} ¿Por qué, dicen, ayunamos, y no hiciste caso; humillamos nuestras almas, y no te diste por entendido? He aquí que en el día de vuestro ayuno halláis lo que queréis, y todos demandáis vuestras haciendas. 
@@ -1925,7 +1983,8 @@
 \bibleverse{14} Entonces te deleitarás en Jehová; y yo te haré subir sobre las alturas de la tierra, y te daré á comer la heredad de Jacob tu padre: porque la boca de Jehová lo ha hablado. 
 
 ## Discurso de castigo del profeta sobre la pecaminosidad general
-# 59 
+\hypertarget{section-23-59}{%
+\section{59}\label{section-23-59}}
 \bibleverse{1} He aquí que no se ha acortado la mano de Jehová para salvar, ni hase agravado su oído para oir: 
 \bibleverse{2} Mas vuestras iniquidades han hecho división entre vosotros y vuestro Dios, y vuestros pecados han hecho ocultar su rostro de vosotros, para no oir. 
 \bibleverse{3} Porque vuestras manos están contaminadas de sangre, y vuestros dedos de iniquidad; vuestros labios pronuncian mentira, habla maldad vuestra lengua. 
@@ -1957,7 +2016,8 @@
 \bibleverse{21} Y este será mi pacto con ellos, dijo Jehová: El espíritu mío que está sobre ti, y mis palabras que puse en tu boca, no faltarán de tu boca, ni de la boca de tu simiente, ni de la boca de la simiente de tu simiente, dijo Jehová, desde ahora y para siempre. 
 
 ## Sion eclipsada por la luz de Dios
-# 60 
+\hypertarget{section-23-60}{%
+\section{60}\label{section-23-60}}
 \bibleverse{1} Levántate, resplandece; que ha venido tu lumbre, y la gloria de Jehová ha nacido sobre ti. 
 \bibleverse{2} Porque he aquí que tinieblas cubrirán la tierra, y oscuridad los pueblos: mas sobre ti nacerá Jehová, y sobre ti será vista su gloria. 
 \bibleverse{3} Y andarán las gentes á tu luz, y los reyes al resplandor de tu nacimiento.
@@ -1994,7 +2054,8 @@
 \bibleverse{22} El pequeño será por mil, el menor, por gente fuerte. Yo Jehová á su tiempo haré que esto sea presto. 
 
 ## Discurso de consolación del Mensajero de Dios a su pueblo afligido
-# 61 
+\hypertarget{section-23-61}{%
+\section{61}\label{section-23-61}}
 \bibleverse{1} El espíritu del Señor Jehová es sobre mí, porque me ungió Jehová; hame enviado á predicar buenas nuevas á los abatidos, á vendar á los quebrantados de corazón, á publicar libertad á los cautivos, y á los presos abertura de la cárcel; 
 \bibleverse{2} A promulgar año de la buena voluntad de Jehová, y día de venganza del Dios nuestro; á consolar á todos los enlutados; 
 \bibleverse{3} A ordenar á Sión á los enlutados, para darles gloria en lugar de ceniza, óleo de gozo en lugar del luto, manto de alegría en lugar del espíritu angustiado; y serán llamados árboles de justicia, plantío de Jehová, para gloria suya.
@@ -2014,7 +2075,8 @@
 \bibleverse{11} Porque como la tierra produce su renuevo, y como el huerto hace brotar su simiente, así el Señor Jehová hará brotar justicia y alabanza delante de todas las gentes. 
 
 ## Dios proclama que no se detendrá hasta que llegue el apogeo de Sion
-# 62 
+\hypertarget{section-23-62}{%
+\section{62}\label{section-23-62}}
 \bibleverse{1} Por amor de Sión no callaré, y por amor de Jerusalem no he de parar, hasta que salga como resplandor su justicia, y su salud se encienda como una antorcha. 
 \bibleverse{2} Entonces verán las gentes tu justicia, y todos los reyes tu gloria; y te será puesto un nombre nuevo, que la boca de Jehová nombrará.
 
@@ -2038,7 +2100,8 @@
 \bibleverse{12} Y llamarles han Pueblo Santo, Redimidos de Jehová; y á ti te llamarán Ciudad Buscada, no desamparada. 
 
 ## El juicio inminente de Edom y otras naciones hostiles piadosas
-# 63 
+\hypertarget{section-23-63}{%
+\section{63}\label{section-23-63}}
 \bibleverse{1} ¿Quién es éste que viene de Edom, de Bosra con vestidos bermejos? ¿éste hermoso en su vestido, que marcha en la grandeza de su poder? Yo, el que hablo en justicia, grande para salvar. 
 \bibleverse{2} ¿Por qué es bermejo tu vestido, y tus ropas como del que ha pisado en lagar? 
 \bibleverse{3} Pisado he yo solo el lagar, y de los pueblos nadie fué conmigo: pisélos con mi ira, y hollélos con mi furor; y su sangre salpicó mis vestidos, y ensucié todas mis ropas. 
@@ -2069,7 +2132,8 @@
 \bibleverse{19} Hemos venido á ser como aquellos de quienes nunca te enseñoreaste, sobre los cuales nunca fué llamado tu nombre. 
 
 ## Anhelo por la revelación completa del terrible poder de Dios
-# 64 
+\hypertarget{section-23-64}{%
+\section{64}\label{section-23-64}}
 \bibleverse{1} ¡Oh si rompieses los cielos, y descendieras, y á tu presencia se escurriesen los montes, 
 \bibleverse{2} Como fuego abrasador de fundiciones, fuego que hace hervir las aguas, para que hicieras notorio tu nombre á tus enemigos, y las gentes temblasen á tu presencia! 
 \bibleverse{3} Cuando, haciendo terriblezas cuales nunca esperábamos, descendiste, fluyeron los montes delante de ti. 
@@ -2089,7 +2153,8 @@
 \bibleverse{12} ¿Te estarás quieto, oh Jehová, sobre estas cosas? ¿callarás, y nos afligirás sobremanera? 
 
 ## ottes se lamentan contra el pueblo apóstata; Amenaza de castigo para los apóstatas
-# 65 
+\hypertarget{section-23-65}{%
+\section{65}\label{section-23-65}}
 \bibleverse{1} Fuí buscado de los que no preguntaban por mi; fuí hallado de los que no me buscaban. Dije á gente que no invocaba mi nombre: Heme aquí, heme aquí. 
 \bibleverse{2} Extendí mis manos todo el día á pueblo rebelde, el cual anda por camino no bueno, en pos de sus pensamientos; 
 \bibleverse{3} Pueblo que en mi cara me provoca de continuo á ira, sacrificando en huertos, y ofreciendo perfume sobre ladrillos; 
@@ -2126,7 +2191,8 @@
 \bibleverse{25} El lobo y el cordero serán apacentados juntos, y el león comerá paja como el buey; y á la serpiente el polvo será su comida. No afligirán, ni harán mal en todo mi santo monte, dijo Jehová. 
 
 ## Dios rechaza la construcción de templos y el servicio a los adoradores paganos
-# 66 
+\hypertarget{section-23-66}{%
+\section{66}\label{section-23-66}}
 \bibleverse{1} Jehová dijo así: El cielo es mi solio, y la tierra estrado de mis pies: ¿dónde está la casa que me habréis de edificar, y dónde este lugar de mi reposo? 
 \bibleverse{2} Mi mano hizo todas estas cosas, y así todas estas cosas fueron, dice Jehová: mas á aquél miraré que es pobre y humilde de espíritu, y que tiembla á mi palabra. 
 \bibleverse{3} El que sacrifica buey, como si matase un hombre; el que sacrifica oveja, como si degollase un perro; el que ofrece presente, como si ofreciese sangre de puerco; el que ofrece perfume, como si bendijese á un ídolo. Y pues escogieron sus caminos, y su alma amó sus abominaciones, 

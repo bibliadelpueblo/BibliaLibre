@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-50-1}{%
+\section{1}\label{section-50-1}}
 \bibleverse{1} Pablo y Timoteo, siervos de Jesucristo, á todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos: 
 \bibleverse{2} Gracia sea á vosotros, y paz de Dios nuestro Padre y del Señor Jesucristo.
 
@@ -46,7 +47,8 @@
 \bibleverse{30} Teniendo el mismo conflicto que habéis visto en mí, y ahora oís estar en mí. 
 
 ## Recordatorio de unidad dentro de la comunidad, de abnegación y voluntad de sufrir según el ejemplo de Cristo
-# 2 
+\hypertarget{section-50-2}{%
+\section{2}\label{section-50-2}}
 \bibleverse{1} Por tanto, si hay alguna consolación en Cristo; si algún refrigerio de amor; si alguna comunión del Espíritu; si algunas entrañas y misericordias, 
 \bibleverse{2} Cumplid mi gozo; que sintáis lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa. 
 \bibleverse{3} Nada hagáis por contienda ó por vanagloria; antes bien en humildad, estimándoos inferiores los unos á los otros: 
@@ -91,7 +93,8 @@
 \bibleverse{30} Porque por la obra de Cristo estuvo cercano á la muerte, poniendo su vida para suplir vuestra falta en mi servicio. 
 
 ## Clama al gozo en el Señor; Invalidez de las virtudes externas y justicia de la ley en comparación con el conocimiento de la salvación en Cristo; Advertencia contra los falsos maestros judaístas
-# 3 
+\hypertarget{section-50-3}{%
+\section{3}\label{section-50-3}}
 \bibleverse{1} Resta, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vosotros es seguro.
 
  
@@ -126,7 +129,8 @@
 \bibleverse{20} Mas nuestra vivienda es en los cielos; de donde también esperamos al Salvador, al Señor Jesucristo; 
 \bibleverse{21} El cual transformará el cuerpo de nuestra bajeza, para ser semejante al cuerpo de su gloria, por la operación con la cual puede también sujetar á sí todas las cosas. 
 
-# 4 
+\hypertarget{section-50-4}{%
+\section{4}\label{section-50-4}}
 \bibleverse{1} Así que, hermanos míos amados y deseados, gozo y corona mía, estad así firmes en el Señor, amados.
 
 ## Advertencia a feligreses individuales; Invitación al gozo en el Señor; Promesa de la paz de Dios como recompensa de la oración continua y el caminar virtuoso

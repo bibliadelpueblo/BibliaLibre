@@ -1,6 +1,7 @@
 
 ## Las dos formas de vida
-# 1 
+\hypertarget{section-19-1}{%
+\section{1}\label{section-19-1}}
 \bibleverse{1} Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado;\
 \bibleverse{2} Antes en la ley de Jehová está su delicia, y en su ley medita de día y de noche.\
 \bibleverse{3} Y será como el árbol plantado junto á arroyos de aguas, que da su fruto en su tiempo, y su hoja no cae; y todo lo que hace, prosperará.\
@@ -9,7 +10,8 @@
 \bibleverse{6} Porque Jehová conoce el camino de los justos; mas la senda de los malos perecerá. 
 
 ## La victoria de Dios y del rey ungido por él sobre las naciones furiosas
-# 2 
+\hypertarget{section-19-2}{%
+\section{2}\label{section-19-2}}
 \bibleverse{1} ¿Por qué se amotinan las gentes, y los pueblos piensan vanidad?\
 \bibleverse{2} Estarán los reyes de la tierra, y príncipes consultarán unidos contra Jehová, y contra su ungido, diciendo:\
 \bibleverse{3} Rompamos sus coyundas, y echemos de nosotros sus cuerdas.\
@@ -24,7 +26,8 @@
 \bibleverse{12} Besad al Hijo, porque no se enoje, y perezcáis en el camino, cuando se encendiere un poco su furor. Bienaventurados todos los que en él confían. 
 
 ## Canción de la mañana de un hombre piadoso en los malos tiempos
-# 3 
+\hypertarget{section-19-3}{%
+\section{3}\label{section-19-3}}
 \bibleverse{1} Salmo de David, cuando huía de delante de Absalom su hijo. ¡oh Jehová, cuánto se han multiplicado mis enemigos! muchos se levantan contra mí.\
 \bibleverse{2} Muchos dicen de mi vida: No hay para él salud en Dios. (Selah.)\
 \bibleverse{3} Mas tú, Jehová, eres escudo alrededor de mí: mi gloria, y el que ensalza mi cabeza.\
@@ -35,7 +38,8 @@
 \bibleverse{8} De Jehová es la salud: sobre tu pueblo será tu bendición. (Selah.) 
 
 ## Canción vespertina de un hombre piadoso en tiempos de angustia
-# 4 
+\hypertarget{section-19-4}{%
+\section{4}\label{section-19-4}}
 \bibleverse{1} Al Músico principal: sobre Neginoth: Salmo de David. Respóndeme cuando clamo, oh Dios de mi justicia: estando en angustia, tú me hiciste ensanchar: ten misericordia de mí, y oye mi oración.\
 \bibleverse{2} Hijos de los hombres, ¿hasta cuándo volveréis mi honra en infamia, amaréis la vanidad, y buscaréis la mentira? (Selah.)\
 \bibleverse{3} Sabed pues, que Jehová hizo apartar al pío para sí: Jehová oirá cuando yo á él clamare.\
@@ -46,7 +50,8 @@
 \bibleverse{8} En paz me acostaré, y asimismo dormiré; porque solo tú, Jehová, me harás estar confiado. 
 
 ## Oración matutina en el templo contra enemigos impíos
-# 5 
+\hypertarget{section-19-5}{%
+\section{5}\label{section-19-5}}
 \bibleverse{1} Al Músico principal: sobre Nehiloth: Salmo de David. Escucha, oh Jehová, mis palabras; considera la meditación mía.\
 \bibleverse{2} Está atento á la voz de mi clamor, Rey mío y Dios mío, porque á ti oraré.\
 \bibleverse{3} Oh Jehová, de mañana oirás mi voz; de mañana me presentaré á ti, y esperaré.\
@@ -61,7 +66,8 @@
 \bibleverse{12} Porque tú, oh Jehová, bendecirás al justo; lo cercarás de benevolencia como con un escudo. 
 
 ## Pedir ayuda a alguien gravemente enfermo en cuerpo y alma (Primer Salmo Penitencial)
-# 6 
+\hypertarget{section-19-6}{%
+\section{6}\label{section-19-6}}
 \bibleverse{1} Al Músico principal: en Neginoth sobre Seminith: Salmo de David. Jehová, no me reprendas en tu furor, ni me castigues con tu ira.\
 \bibleverse{2} Ten misericordia de mí, oh Jehová, porque yo estoy debilitado: sáname, oh Jehová, porque mis huesos están conmovidos.\
 \bibleverse{3} Mi alma asimismo está muy conturbada: y tú, Jehová, ¿hasta cuándo?\
@@ -74,7 +80,8 @@
 \bibleverse{10} Se avergonzarán, y turbaránse mucho todos mis enemigos; volveránse y serán avergonzados subitáneamente. 
 
 ## El Señor como juez justo y salvador de los afligidos
-# 7 
+\hypertarget{section-19-7}{%
+\section{7}\label{section-19-7}}
 \bibleverse{1} Sigaión de David, que cantó á Jehová sobre las palabras de Cus, hijo de Benjamín. Jehová Dios mío, en ti he confiado: sálvame de todos los que me persiguen, y líbrame;\
 \bibleverse{2} No sea que arrebate mi alma, cual león que despedaza, sin que haya quien libre.\
 \bibleverse{3} Jehová Dios mío, si yo he hecho esto, si hay en mis manos iniquidad;\
@@ -94,7 +101,8 @@
 \bibleverse{17} Alabaré yo á Jehová conforme á su justicia, y cantaré al nombre de Jehová el Altísimo. 
 
 ## La humildad y la alteza del hombre en la creación
-# 8 
+\hypertarget{section-19-8}{%
+\section{8}\label{section-19-8}}
 \bibleverse{1} Al Músico principal: sobre Gittith: Salmo de David. Oh Jehová, Señor nuestro, ¡cuán grande es tu nombre en toda la tierra, que has puesto tu gloria sobre los cielos!\
 \bibleverse{2} De la boca de los chiquitos y de los que maman, fundaste la fortaleza, á causa de tus enemigos, para hacer cesar al enemigo, y al que se venga.\
 \bibleverse{3} Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste:\
@@ -106,7 +114,8 @@
 \bibleverse{9} Oh Jehová, Señor nuestro, ¡cuán grande es tu nombre en toda la tierra! 
 
 ## Canto de acción de gracias por el juicio de Dios sobre los enemigos paganos y solicitud de nueva ayuda
-# 9 
+\hypertarget{section-19-9}{%
+\section{9}\label{section-19-9}}
 \bibleverse{1} Al Músico principal: sobre Muth-labben: Salmo de David. Te alabaré, oh Jehová, con todo mi corazón; contaré todas tus maravillas.\
 \bibleverse{2} Alegraréme y regocijaréme en ti: cantaré á tu nombre, oh Altísimo;\
 \bibleverse{3} Por haber sido mis enemigos vueltos atrás: caerán y perecerán delante de ti.\
@@ -129,7 +138,8 @@
 \bibleverse{20} Pon, oh Jehová, temor en ellos: conozcan las gentes que son no más que hombres. (Selah.) 
 
 ## Pide ayuda contra los malvados de la violencia
-# 10 
+\hypertarget{section-19-10}{%
+\section{10}\label{section-19-10}}
 \bibleverse{1} ¿Por qué estás lejos, oh Jehová, y te escondes en el tiempo de la tribulación?\
 \bibleverse{2} Con arrogancia el malo persigue al pobre: serán cogidos en los artificios que han ideado.\
 \bibleverse{3} Por cuanto se alaba el malo del deseo de su alma, y bendice al codicioso, á quien Jehová aborrece.\
@@ -150,7 +160,8 @@
 \bibleverse{18} Para juzgar al huérfano y al pobre, á fin de que no vuelva más á hacer violencia el hombre de la tierra. 
 
 ## El Señor es fiel y justo
-# 11 
+\hypertarget{section-19-11}{%
+\section{11}\label{section-19-11}}
 \bibleverse{1} Al Músico principal: Salmo de David. En Jehová he confiado; ¿cómo decís á mi alma: Escapa al monte cual ave?\
 \bibleverse{2} Porque he aquí, los malos flecharon el arco, apercibieron sus saetas sobre la cuerda, para asaetear en oculto á los rectos de corazón.\
 \bibleverse{3} Si fueren destruídos los fundamentos, ¿qué ha de hacer el justo?\
@@ -160,7 +171,8 @@
 \bibleverse{7} Porque el justo Jehová ama la justicia: al recto mirará su rostro. 
 
 ## Consuelo de los rectos contra la violencia de la mentira
-# 12 
+\hypertarget{section-19-12}{%
+\section{12}\label{section-19-12}}
 \bibleverse{1} Al Músico principal: sobre Seminith: Salmo de David. Salva, oh Jehová, porque se acabaron los misericordiosos: porque se han acabado los fieles de entre los hijos de los hombres.\
 \bibleverse{2} Mentira habla cada uno con su prójimo; con labios lisonjeros, con corazón doble hablan.\
 \bibleverse{3} Destruirá Jehová todos los labios lisonjeros, la lengua que habla grandezas;\
@@ -171,7 +183,8 @@
 \bibleverse{8} Cercando andan los malos, mientras son exaltados los más viles de los hijos de los hombres. 
 
 ## ¿Por cuánto tiempo más?
-# 13 
+\hypertarget{section-19-13}{%
+\section{13}\label{section-19-13}}
 \bibleverse{1} Al Músico principal: Salmo de David. ¿hasta cuándo, Jehová? ¿me olvidarás para siempre? ¿hasta cuándo esconderás tu rostro de mí?\
 \bibleverse{2} ¿Hasta cuándo pondré consejos en mi alma, con ansiedad en mi corazón cada día? ¿Hasta cuándo será enaltecido mi enemigo sobre mí?\
 \bibleverse{3} Mira, óyeme, Jehová Dios mío: alumbra mis ojos, porque no duerma en muerte;\
@@ -180,7 +193,8 @@
 \bibleverse{6} Cantaré á Jehová, porque me ha hecho bien. 
 
 ## Pensamientos sobre la depravación general del mundo y pedir redención
-# 14 
+\hypertarget{section-19-14}{%
+\section{14}\label{section-19-14}}
 \bibleverse{1} Al Músico principal: Salmo de David. Dijo el necio en su corazón: No hay Dios. Corrompiéronse, hicieron obras abominables; no hay quien haga bien.\
 \bibleverse{2} Jehová miró desde los cielos sobre los hijos de los hombres, por ver si había algún entendido, que buscara á Dios.\
 \bibleverse{3} Todos declinaron, juntamente se han corrompido: no hay quien haga bien, no hay ni siquiera uno.\
@@ -190,7 +204,8 @@
 \bibleverse{7} ¡Quién diese de Sión la salud de Israel! En tornando Jehová la cautividad de su pueblo, se gozará Jacob, y alegraráse Israel. 
 
 ## ¿Quién puede ser el invitado del Señor?
-# 15 
+\hypertarget{section-19-15}{%
+\section{15}\label{section-19-15}}
 \bibleverse{1} Salmo de David. Jehová, ¿quién habitará en tu tabernáculo? ¿quién residirá en el monte de tu santidad?\
 \bibleverse{2} El que anda en integridad, y obra justicia, y habla verdad en su corazón.\
 \bibleverse{3} El que no detrae con su lengua, ni hace mal á su prójimo, ni contra su prójimo acoge oprobio alguno.\
@@ -198,7 +213,8 @@
 \bibleverse{5} Quien su dinero no dió á usura, ni contra el inocente tomó cohecho. El que hace estas cosas, no resbalará para siempre. 
 
 ## Dios el más alto, sí, solo bien por sí mismo
-# 16 
+\hypertarget{section-19-16}{%
+\section{16}\label{section-19-16}}
 \bibleverse{1} Michtham de David. Guárdame, oh Dios, porque en ti he confiado.\
 \bibleverse{2} Dijiste, oh alma mía, á Jehová: Tú eres el Señor: mi bien á ti no aprovecha;\
 \bibleverse{3} Sino á los santos que están en la tierra, y á los íntegros: toda mi afición en ellos.\
@@ -212,7 +228,8 @@
 \bibleverse{11} Me mostrarás la senda de la vida: hartura de alegrías hay con tu rostro; deleites en tu diestra para siempre. 
 
 ## El grito de un hombre angustiado por ayuda contra enemigos nefastos
-# 17 
+\hypertarget{section-19-17}{%
+\section{17}\label{section-19-17}}
 \bibleverse{1} Oración de David. Oye, oh Jehová, justicia; está atento á mi clamor; escucha mi oración hecha sin labios de engaño.\
 \bibleverse{2} De delante de tu rostro salga mi juicio; vean tus ojos la rectitud.\
 \bibleverse{3} Tú has probado mi corazón, hasme visitado de noche; me has apurado, y nada inicuo hallaste: heme propuesto que mi boca no ha de propasarse.\
@@ -230,7 +247,8 @@
 \bibleverse{15} Yo en justicia veré tu rostro: seré saciado cuando despertare á tu semejanza. 
 
 ## El cántico de agradecimiento y victoria de David tras la derrota de sus enemigos
-# 18 
+\hypertarget{section-19-18}{%
+\section{18}\label{section-19-18}}
 \bibleverse{1} Al Músico principal: Salmo de David, siervo de Jehová, el cual profirió á Jehová las palabras de este cántico el día que le libró Jehová de mano de todos sus enemigos, y de mano de Saúl. Entonces dijo: Amarte he, oh Jehová, fortaleza mía.\
 \bibleverse{2} Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fuerte mío, en él confiaré; escudo mío, y el cuerno de mi salud, mi refugio.\
 \bibleverse{3} Invocaré á Jehová, digno de ser alabado, y seré salvo de mis enemigos.\
@@ -283,7 +301,8 @@
 \bibleverse{50} El cual engrandece las saludes de su rey, y hace misericordia á su ungido, á David y á su simiente, para siempre. 
 
 ## Alabado sea Dios Creador y su ley; Pide perdón de pecados y santificación
-# 19 
+\hypertarget{section-19-19}{%
+\section{19}\label{section-19-19}}
 \bibleverse{1} Al Músico principal: Salmo de David. Los cielos cuentan la gloria de Dios, y la expansión denuncia la obra de sus manos.\
 \bibleverse{2} El un día emite palabra al otro día, y la una noche á la otra noche declara sabiduría.\
 \bibleverse{3} No hay dicho, ni palabras, ni es oída su voz.\
@@ -300,7 +319,8 @@
 \bibleverse{14} Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Jehová, roca mía, y redentor mío. 
 
 ## Intercesión del pueblo por el rey a la salida del ejército
-# 20 
+\hypertarget{section-19-20}{%
+\section{20}\label{section-19-20}}
 \bibleverse{1} Al Músico principal: Salmo de David. Oigate Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob.\
 \bibleverse{2} Envíete ayuda desde el santuario, y desde Sión te sostenga.\
 \bibleverse{3} Haga memoria de todos tus presentes, y reduzca á ceniza tu holocausto. (Selah.)\
@@ -312,7 +332,8 @@
 \bibleverse{9} Salva, Jehová: que el Rey nos oiga el día que lo invocáremos. 
 
 ## Oración de acción de gracias por los beneficios que Dios le ha mostrado al rey (especialmente por la victoria que le ha otorgado) y esperanza de nuevas bendiciones
-# 21 
+\hypertarget{section-19-21}{%
+\section{21}\label{section-19-21}}
 \bibleverse{1} Al Músico principal: Salmo de David. Alegraráse el rey en tu fortaleza, oh Jehová; y en tu salud se gozará mucho.\
 \bibleverse{2} El deseo de su corazón le diste, y no le negaste lo que sus labios pronunciaron. (Selah.)\
 \bibleverse{3} Pues le has salido al encuentro con bendiciones de bien: corona de oro fino has puesto sobre su cabeza.\
@@ -328,7 +349,8 @@
 \bibleverse{13} Ensálzate, oh Jehová, con tu fortaleza: cantaremos y alabaremos tu poderío. 
 
 ## Lamento y esperanza de alguien abandonado por Dios (Salmo de la pasión del Salvador)
-# 22 
+\hypertarget{section-19-22}{%
+\section{22}\label{section-19-22}}
 \bibleverse{1} Al Músico principal, sobre Ajeleth-sahar: Salmo de David. Dios mío, Dios mío, ¿por qué me has dejado? ¿por qué estás lejos de mi salud, y de las palabras de mi clamor?\
 \bibleverse{2} Dios mío, clamo de día, y no oyes; y de noche, y no hay para mí silencio.\
 \bibleverse{3} Tú empero eres santo, tú que habitas entre las alabanzas de Israel.\
@@ -362,7 +384,8 @@
 \bibleverse{31} Vendrán, y anunciarán al pueblo que naciere, su justicia que él hizo. 
 
 ## El Señor como buen pastor y bondadoso dador de consuelo y seguridad
-# 23 
+\hypertarget{section-19-23}{%
+\section{23}\label{section-19-23}}
 \bibleverse{1} Salmo de David. Jehová es mi pastor; nada me faltará.\
 \bibleverse{2} En lugares de delicados pastos me hará yacer: junto á aguas de reposo me pastoreará.\
 \bibleverse{3} Confortará mi alma; guiaráme por sendas de justicia por amor de su nombre.\
@@ -371,7 +394,8 @@
 \bibleverse{6} Ciertamente el bien y la misericordia me seguirán todos los días de mi vida: y en la casa de Jehová moraré por largos días. 
 
 ## Canto ceremonial a la entrada (del pueblo y del rey de honor) al santuario
-# 24 
+\hypertarget{section-19-24}{%
+\section{24}\label{section-19-24}}
 \bibleverse{1} Salmo de David. De Jehová es la tierra y su plenitud; el mundo, y los que en él habitan.\
 \bibleverse{2} Porque él la fundó sobre los mares, y afirmóla sobre los ríos.\
 \bibleverse{3} ¿Quién subirá al monte de Jehová? ¿y quién estará en el lugar de su santidad?\
@@ -384,7 +408,8 @@
 \bibleverse{10} ¿Quién es este Rey de gloria? Jehová de los ejércitos, él es el Rey de la gloria. (Selah.) 
 
 ## Oración por la protección de Dios, por la guía llena de gracia y el perdón de los pecados
-# 25 
+\hypertarget{section-19-25}{%
+\section{25}\label{section-19-25}}
 \bibleverse{1} Salmo de David. A ti, oh Jehová, levantaré mi alma.\
 \bibleverse{2} Dios mío, en ti confío; no sea yo avergonzado, no se alegren de mí mis enemigos.\
 \bibleverse{3} Ciertamente ninguno de cuantos en ti esperan será confundido: serán avergonzados los que se rebelan sin causa.\
@@ -409,7 +434,8 @@
 \bibleverse{22} Redime, oh Dios, á Israel de todas sus angustias. 
 
 ## Un piadoso grito de auxilio, consciente de su inocencia
-# 26 
+\hypertarget{section-19-26}{%
+\section{26}\label{section-19-26}}
 \bibleverse{1} Salmo de David. Júzgame, oh Jehová, porque yo en mi integridad he andado: confiado he asimismo en Jehová, no vacilaré.\
 \bibleverse{2} Pruébame, oh Jehová, y sondéame: examina mis riñones y mi corazón.\
 \bibleverse{3} Porque tu misericordia está delante de mis ojos, y en tu verdad ando.\
@@ -424,7 +450,8 @@
 \bibleverse{12} Mi pie ha estado en rectitud: en las congregaciones bendeciré á Jehová. 
 
 ## Confianza gozosa en el Señor y solicitud de mayor protección
-# 27 
+\hypertarget{section-19-27}{%
+\section{27}\label{section-19-27}}
 \bibleverse{1} Salmo de David. Jehová es mi luz y mi salvación: ¿de quién temeré? Jehová es la fortaleza de mi vida: ¿de quién he de atemorizarme?\
 \bibleverse{2} Cuando se allegaron contra mí los malignos, mis angustiadores y mis enemigos, para comer mis carnes, ellos tropezaron y cayeron.\
 \bibleverse{3} Aunque se asiente campo contra mí, no temerá mi corazón: aunque contra mí se levante guerra, yo en esto confío.\
@@ -441,7 +468,8 @@
 \bibleverse{14} Aguarda á Jehová; esfuérzate, y aliéntese tu corazón: sí, espera á Jehová. 
 
 ## Oración y ayuda contra enemigos impíos y gracias por la respuesta
-# 28 
+\hypertarget{section-19-28}{%
+\section{28}\label{section-19-28}}
 \bibleverse{1} Salmo de David. A ti clamaré, oh Jehová, fortaleza mía: no te desentiendas de mí; porque no sea yo, dejándome tú, semejante á los que descienden al sepulcro.\
 \bibleverse{2} Oye la voz de mis ruegos cuando clamo á ti, cuando alzo mis manos hacia el templo de tu santidad.\
 \bibleverse{3} No me arrebates á una con los malos, y con los que hacen iniquidad: los cuales hablan paz con sus prójimos, y la maldad está en su corazón.\
@@ -453,7 +481,8 @@
 \bibleverse{9} Salva á tu pueblo, y bendice á tu heredad; y pastoréalos y ensálzalos para siempre. 
 
 ## La gloria de Dios en una tormenta
-# 29 
+\hypertarget{section-19-29}{%
+\section{29}\label{section-19-29}}
 \bibleverse{1} Salmo de David. Dad á Jehová, oh hijos de fuertes, dad á Jehová la gloria y la fortaleza.\
 \bibleverse{2} Dad á Jehová la gloria debida á su nombre: humillaos á Jehová en el glorioso santuario.\
 \bibleverse{3} Voz de Jehová sobre las aguas: hizo tronar el Dios de gloria: Jehová sobre las muchas aguas.\
@@ -467,7 +496,8 @@
 \bibleverse{11} Jehová dará fortaleza á su pueblo: Jehová bendecirá á su pueblo en paz. 
 
 ## Canción de agradecimiento para alguien rescatado de la angustia
-# 30 
+\hypertarget{section-19-30}{%
+\section{30}\label{section-19-30}}
 \bibleverse{1} Salmo cantado en la dedicación de la Casa: Salmo de David. Glorificarte he, oh Jehová; porque me has ensalzado, y no hiciste á mis enemigos alegrarse de mí.\
 \bibleverse{2} Jehová Dios mío, á ti clamé, y me sanaste.\
 \bibleverse{3} Oh Jehová, hiciste subir mi alma del sepulcro, dísteme vida, para que no descendiese á la sepultura.\
@@ -482,7 +512,8 @@
 \bibleverse{12} Por tanto á ti cantaré, gloria mía, y no estaré callado. Jehová Dios mío, te alabaré para siempre. 
 
 ## Oración confiada en extrema necesidad
-# 31 
+\hypertarget{section-19-31}{%
+\section{31}\label{section-19-31}}
 \bibleverse{1} Al Músico principal: Salmo de David. En ti, oh Jehová, he esperado; no sea yo confundido para siempre: líbrame en tu justicia.\
 \bibleverse{2} Inclina á mí tu oído, líbrame presto; séme por roca de fortaleza, por casa fuerte para salvarme.\
 \bibleverse{3} Porque tú eres mi roca y mi castillo; y por tu nombre me guiarás, y me encaminarás.\
@@ -509,7 +540,8 @@
 \bibleverse{24} Esforzaos todos vosotros los que esperáis en Jehová, y tome vuestro corazón aliento. 
 
 ## Bendiciones del arrepentimiento y bienaventuranza del perdón de los pecados (Salmo Segundo Penitencial)
-# 32 
+\hypertarget{section-19-32}{%
+\section{32}\label{section-19-32}}
 \bibleverse{1} Salmo de David: Masquil. Bienaventurado aquel cuyas iniquidades son perdonadas, y borrados sus pecados.\
 \bibleverse{2} Bienaventurado el hombre á quien no imputa Jehová la iniquidad, y en cuyo espíritu no hay superchería.\
 \bibleverse{3} Mientras callé, envejeciéronse mis huesos en mi gemir todo el día.\
@@ -523,7 +555,8 @@
 \bibleverse{11} Alegraos en Jehová, y gozaos, justos: y cantad todos vosotros los rectos de corazón. 
 
 ## Invitación a alabar la omnipotencia y la gracia de Dios
-# 33 
+\hypertarget{section-19-33}{%
+\section{33}\label{section-19-33}}
 \bibleverse{1} Alegraos, justos, en Jehová: á los rectos es hermosa la alabanza.\
 \bibleverse{2} Celebrad á Jehová con arpa: cantadle con salterio y decacordio.\
 \bibleverse{3} Cantadle canción nueva: hacedlo bien tañendo con júbilo.\
@@ -548,7 +581,8 @@
 \bibleverse{22} Sea tu misericordia, oh Jehová, sobre nosotros, como esperamos en ti. 
 
 ## Dios ayuda a los suyos en cada necesidad
-# 34 
+\hypertarget{section-19-34}{%
+\section{34}\label{section-19-34}}
 \bibleverse{1} Salmo de David, cuando mudó su semblante delante de Abimelech, y él lo echó, y fuése. Bendeciré á Jehová en todo tiempo; su alabanza será siempre en mi boca.\
 \bibleverse{2} En Jehová se gloriará mi alma: oiránlo los mansos, y se alegrarán.\
 \bibleverse{3} Engrandeced á Jehová conmigo, y ensalcemos su nombre á una.\
@@ -573,7 +607,8 @@
 \bibleverse{22} Jehová redime el alma de sus siervos; y no serán asolados cuantos en él confían. 
 
 ## Pide ayuda a un tolerante contra enemigos infieles e ingratos
-# 35 
+\hypertarget{section-19-35}{%
+\section{35}\label{section-19-35}}
 \bibleverse{1} Salmo de David. Disputa, oh Jehová, con los que contra mí contienden; pelea con los que me combaten.\
 \bibleverse{2} Echa mano al escudo y al pavés, y levántate en mi ayuda.\
 \bibleverse{3} Y saca la lanza, cierra contra mis perseguidores; di á mi alma: Yo soy tu salud.\
@@ -604,7 +639,8 @@
 \bibleverse{28} Y mi lengua hablará de tu justicia, y de tu loor todo el día. 
 
 ## Los acontecimientos desesperados de los malvados y las bendiciones de la comunión con Dios
-# 36 
+\hypertarget{section-19-36}{%
+\section{36}\label{section-19-36}}
 \bibleverse{1} Al Músico principal: Salmo de David, siervo del Señor. La iniquidad del impío me dice al corazón: No hay temor de Dios delante de sus ojos.\
 \bibleverse{2} Lisonjéase, por tanto, en sus propios ojos, hasta que su iniquidad sea hallada aborrecible.\
 \bibleverse{3} Las palabras de su boca son iniquidad y fraude; no quiso entender para bien hacer.\
@@ -619,7 +655,8 @@
 \bibleverse{12} Allí cayeron los obradores de iniquidad; fueron rempujados, y no pudieron levantarse. 
 
 ## La falsa suerte de los malvados (= impíos) permite que los justos sean piadosos
-# 37 
+\hypertarget{section-19-37}{%
+\section{37}\label{section-19-37}}
 \bibleverse{1} Salmo de David. No te impacientes á causa de los malignos, ni tengas envidia de los que hacen iniquidad.\
 \bibleverse{2} Porque como hierba serán presto cortados, y decaerán como verdor de renuevo.\
 \bibleverse{3} Espera en Jehová, y haz bien; vivirás en la tierra, y en verdad serás alimentado.\
@@ -662,7 +699,8 @@
 \bibleverse{40} Y Jehová los ayudará, y los librará: y libertarálos de los impíos, y los salvará, por cuanto en él esperaron. 
 
 ## Oración penitencial y clamor por ayuda en enfermedades graves y angustias (tercer salmo penitencial)
-# 38 
+\hypertarget{section-19-38}{%
+\section{38}\label{section-19-38}}
 \bibleverse{1} Salmo de David, para recordar. Jehová, no me reprendas en tu furor, ni me castigues en tu ira.\
 \bibleverse{2} Porque tus saetas descendieron á mí, y sobre mí ha caído tu mano.\
 \bibleverse{3} No hay sanidad en mi carne á causa de tu ira; ni hay paz en mis huesos á causa de mi pecado.\
@@ -687,7 +725,8 @@
 \bibleverse{22} Apresúrate á ayudarme, oh Señor, mi salud. 
 
 ## Demanda y solicitud de una persona fuertemente impugnada
-# 39 
+\hypertarget{section-19-39}{%
+\section{39}\label{section-19-39}}
 \bibleverse{1} Al Músico principal, á Jeduthún: Salmo de David. [Yo]{.smallcaps} dije: Atenderé á mis caminos, para no pecar con mi lengua: guardaré mi boca con freno, en tanto que el impío fuere contra mí.\
 \bibleverse{2} Enmudecí con silencio, calléme aun respecto de lo bueno: y excitóse mi dolor.\
 \bibleverse{3} Enardecióse mi corazón dentro de mí; encendióse fuego en mi meditación, y así proferí con mi lengua:\
@@ -703,7 +742,8 @@
 \bibleverse{13} Déjame, y tomaré fuerzas, antes que vaya y perezca. 
 
 ## Acción de gracias y súplica
-# 40 
+\hypertarget{section-19-40}{%
+\section{40}\label{section-19-40}}
 \bibleverse{1} Al Músico principal: Salmo de David. Resignadamente esperé á Jehová, é inclinóse á mí, y oyó mi clamor.\
 \bibleverse{2} E hízome sacar de un lago de miseria, del lodo cenagoso; y puso mis pies sobre peña, y enderezó mis pasos.\
 \bibleverse{3} Puso luego en mi boca canción nueva, alabanza á nuestro Dios. Verán esto muchos, y temerán, y esperarán en Jehová.\
@@ -723,7 +763,8 @@
 \bibleverse{17} Aunque afligido yo y necesitado, Jehová pensará de mí: mi ayuda y mi libertador eres tú; Dios mío, no te tardes. 
 
 ## Un enfermo se queja de enemigos maliciosos y amigos infieles
-# 41 
+\hypertarget{section-19-41}{%
+\section{41}\label{section-19-41}}
 \bibleverse{1} Al Músico principal: Salmo de David. Bienaventurado el que piensa en el pobre: en el día malo lo librará Jehová.\
 \bibleverse{2} Jehová lo guarde, y le dé vida: sea bienaventurado en la tierra, y no lo entregues á la voluntad de sus enemigos.\
 \bibleverse{3} Jehová lo sustentará sobre el lecho del dolor: mullirás toda su cama en su enfermedad.\
@@ -739,7 +780,8 @@
 \bibleverse{13} Bendito sea Jehová, el Dios de Israel, por siglos de siglos. Amén y Amén. 
 
 ## Anhelo de Dios y su santuario en Sion
-# 42 
+\hypertarget{section-19-42}{%
+\section{42}\label{section-19-42}}
 \bibleverse{1} Al Músico principal: Masquil á los hijos de Coré. Como el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el alma mía.\
 \bibleverse{2} Mi alma tiene sed de Dios, del Dios vivo: ¡cuándo vendré, y pareceré delante de Dios!\
 \bibleverse{3} Fueron mis lágrimas mi pan de día y de noche, mientras me dicen todos los días: ¿Dónde está tu Dios?\
@@ -752,7 +794,8 @@
 \bibleverse{10} Mientras se están quebrantando mis huesos, mis enemigos me afrentan, diciéndome cada día: ¿Dónde está tu Dios?\
 \bibleverse{11} ¿Por qué te abates, oh alma mía, y por qué te conturbas en mí? Espera á Dios; porque aun le tengo de alabar; es él salvamento delante de mí, y el Dios mío. 
 
-# 43 
+\hypertarget{section-19-43}{%
+\section{43}\label{section-19-43}}
 \bibleverse{1} Júzgame, oh Dios, y aboga mi causa: líbrame de gente impía, del hombre de engaño é iniquidad.\
 \bibleverse{2} Pues que tú eres el Dios de mi fortaleza, ¿por qué me has desechado? ¿por qué andaré enlutado por la opresión del enemigo?\
 \bibleverse{3} Envía tu luz y tu verdad: éstas me guiarán, me conducirán al monte de tu santidad, y á tus tabernáculos.\
@@ -760,7 +803,8 @@
 \bibleverse{5} ¿Por qué te abates, oh alma mía, y por qué te conturbas en mí? Espera á Dios; porque aun le tengo de alabar; es él salvamento delante de mí, y el Dios mío. 
 
 ## Lamentar y clamar por ayuda del pueblo respetuoso de la ley, pero derrotado y maltratado por sus enemigos
-# 44 
+\hypertarget{section-19-44}{%
+\section{44}\label{section-19-44}}
 \bibleverse{1} Al Músico principal: de los hijos de Coré: Masquil. Oh Dios, con nuestros oídos hemos oído, nuestros padres nos han contado, la obra que hiciste en sus días, en los tiempos antiguos.\
 \bibleverse{2} Tú con tu mano echaste las gentes, y los plantaste á ellos; afligiste los pueblos, y los arrojaste.\
 \bibleverse{3} Porque no se apoderaron de la tierra por su espada, ni su brazo los libró; sino tu diestra, y tu brazo, y la luz de tu rostro, porque te complaciste en ellos.\
@@ -789,7 +833,8 @@
 \bibleverse{26} Levántate para ayudarnos, y redímenos por tu misericordia. 
 
 ## Canción de celebración de la boda del rey
-# 45 
+\hypertarget{section-19-45}{%
+\section{45}\label{section-19-45}}
 \bibleverse{1} Al Músico principal: sobre Sosannim: para los hijos de Coré: Masquil: Canción de amores. Rebosa mi corazón palabra buena: refiero yo al Rey mis obras: mi lengua es pluma de escribiente muy ligero.\
 \bibleverse{2} Haste hermoseado más que los hijos de los hombres; la gracia se derramó en tus labios: por tanto Dios te ha bendecido para siempre.\
 \bibleverse{3} Cíñete tu espada sobre el muslo, oh valiente, con tu gloria y con tu majestad.\
@@ -809,7 +854,8 @@
 \bibleverse{17} Haré perpetua la memoria de tu nombre en todas las generaciones: por lo cual te alabarán los pueblos eternamente y para siempre. 
 
 ## Una poderosa fortaleza es nuestro Dios
-# 46 
+\hypertarget{section-19-46}{%
+\section{46}\label{section-19-46}}
 \bibleverse{1} Al Músico principal: de los hijos de Coré: Salmo sobre Alamoth. Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones.\
 \bibleverse{2} Por tanto no temeremos aunque la tierra sea removida; aunque se traspasen los montes al corazón de la mar.\
 \bibleverse{3} Bramarán, turbaránse sus aguas; temblarán los montes á causa de su braveza. (Selah.)\
@@ -823,7 +869,8 @@
 \bibleverse{11} Jehová de los ejércitos es con nosotros; nuestro refugio es el Dios de Jacob. (Selah.) 
 
 ## El Dios de Israel como Rey de todos los pueblos
-# 47 
+\hypertarget{section-19-47}{%
+\section{47}\label{section-19-47}}
 \bibleverse{1} Al Músico principal: de los hijos de Coré: Salmo. Pueblos todos, batid las manos; aclamad á Dios con voz de júbilo.\
 \bibleverse{2} Porque Jehová el Altísimo es terrible; Rey grande sobre toda la tierra.\
 \bibleverse{3} El sujetará á los pueblos debajo de nosotros, y á las gentes debajo de nuestros pies.\
@@ -835,7 +882,8 @@
 \bibleverse{9} Los príncipes de los pueblos se juntaron al pueblo del Dios de Abraham: porque de Dios son los escudos de la tierra; él es muy ensalzado. 
 
 ## La fiesta de los peregrinos alaba a Sión, la ciudad invicta de Dios
-# 48 
+\hypertarget{section-19-48}{%
+\section{48}\label{section-19-48}}
 \bibleverse{1} Canción: Salmo de los hijos de Coré. Grande es Jehová y digno de ser en gran manera alabado, en la ciudad de nuestro Dios, en el monte de su santuario.\
 \bibleverse{2} Hermosa provincia, el gozo de toda la tierra es el monte de Sión, á los lados del aquilón, la ciudad del gran Rey.\
 \bibleverse{3} Dios en sus palacios es conocido por refugio.\
@@ -852,7 +900,8 @@
 \bibleverse{14} Porque este Dios es Dios nuestro eternalmente y para siempre: él nos capitaneará hasta la muerte. 
 
 ## Impermanencia de la felicidad exterior de los malvados
-# 49 
+\hypertarget{section-19-49}{%
+\section{49}\label{section-19-49}}
 \bibleverse{1} Al Músico principal: Salmo para los hijos de Coré. Oid esto, pueblos todos; escuchad, habitadores todos del mundo:\
 \bibleverse{2} Así los plebeyos como los nobles, el rico y el pobre juntamente.\
 \bibleverse{3} Mi boca hablará sabiduría; y el pensamiento de mi corazón inteligencia.\
@@ -875,7 +924,8 @@
 \bibleverse{20} El hombre en honra que no entiende, semejante es á las bestias que perecen. 
 
 ## La adoración correcta
-# 50 
+\hypertarget{section-19-50}{%
+\section{50}\label{section-19-50}}
 \bibleverse{1} Salmo de Asaph. El Dios de dioses, Jehová, ha hablado, y convocado la tierra desde el nacimiento del sol hasta donde se pone.\
 \bibleverse{2} De Sión, perfección de hermosura, ha Dios resplandecido.\
 \bibleverse{3} Vendrá nuestro Dios, y no callará: fuego consumirá delante de él, y en derredor suyo habrá tempestad grande.\
@@ -901,7 +951,8 @@
 \bibleverse{23} El que sacrifica alabanza me honrará: y al que ordenare su camino, le mostraré la salud de Dios. 
 
 ## Oración penitencial de David (cuarto salmo penitencial)
-# 51 
+\hypertarget{section-19-51}{%
+\section{51}\label{section-19-51}}
 \bibleverse{1} Al Músico principal: Salmo de David, cuando después que entró á Bathsebah, vino á él Nathán el profeta. Ten piedad de mí, oh Dios, conforme á tu misericordia: conforme á la multitud de tus piedades borra mis rebeliones.\
 \bibleverse{2} Lávame más y más de mi maldad, y límpiame de mi pecado.\
 \bibleverse{3} Porque yo reconozco mis rebeliones; y mi pecado está siempre delante de mí.\
@@ -923,7 +974,8 @@
 \bibleverse{19} Entonces te agradarán los sacrificios de justicia, el holocausto ú ofrenda del todo quemada: entonces ofrecerán sobre tu altar becerros. 
 
 ## Quejarse de un enemigo violento y regocijarse con la ayuda divina
-# 52 
+\hypertarget{section-19-52}{%
+\section{52}\label{section-19-52}}
 \bibleverse{1} Al Músico principal: Masquil de David, cuando vino Doeg Idumeo y dió cuenta á Saúl, diciéndole: David ha venido á casa de Ahimelech. ¿por qué te glorías de maldad, oh poderoso? La misericordia de Dios es continua.\
 \bibleverse{2} Agravios maquina tu lengua: como navaja amolada hace engaño.\
 \bibleverse{3} Amaste el mal más que el bien; la mentira más que hablar justicia. (Selah.)\
@@ -935,7 +987,8 @@
 \bibleverse{9} Te alabaré para siempre por lo que has hecho: y esperaré en tu nombre, porque es bueno, delante de tus santos. 
 
 ## Pensamientos sobre la depravación general del mundo y pedir redención
-# 53 
+\hypertarget{section-19-53}{%
+\section{53}\label{section-19-53}}
 \bibleverse{1} Al Músico principal: sobre Mahalath: Masquil de David. Dijo el necio en su corazón: No hay Dios. Corrompiéronse é hicieron abominable maldad: no hay quien haga bien.\
 \bibleverse{2} Dios desde los cielos miró sobre los hijos de los hombres, por ver si hay algún entendido que busque á Dios.\
 \bibleverse{3} Cada uno se había vuelto atrás; todos se habían corrompido: no hay quien haga bien, no hay ni aun uno.\
@@ -944,7 +997,8 @@
 \bibleverse{6} ¡Oh quién diese de Sión saludes á Israel! En volviendo Dios la cautividad de su pueblo, gozarse ha Jacob, y alegraráse Israel. 
 
 ## Pide ayuda contra enemigos impíos
-# 54 
+\hypertarget{section-19-54}{%
+\section{54}\label{section-19-54}}
 \bibleverse{1} Al Músico principal: en Neginoth: Masquil de David, cuando vinieron los Zipheos y dijeron á Saúl: ¿No está David escondido en nuestra tierra? oh Dios, sálvame por tu nombre, y con tu poder defiéndeme.\
 \bibleverse{2} Oh Dios, oye mi oración; escucha las razones de mi boca.\
 \bibleverse{3} Porque extraños se han levantado contra mí, y fuertes buscan mi alma: no han puesto á Dios delante de sí. (Selah.)\
@@ -954,7 +1008,8 @@
 \bibleverse{7} Porque me ha librado de toda angustia, y en mis enemigos vieron mis ojos mi deseo. 
 
 ## Oración contra un enemigo impío y queja contra un amigo infiel
-# 55 
+\hypertarget{section-19-55}{%
+\section{55}\label{section-19-55}}
 \bibleverse{1} Al Músico principal: en Neginoth: Masquil de David. Escucha, oh Dios, mi oración, y no te escondas de mi súplica.\
 \bibleverse{2} Estáme atento, y respóndeme: clamo en mi oración, y levanto el grito,\
 \bibleverse{3} A causa de la voz del enemigo, por la opresión del impío; porque echaron sobre mí iniquidad, y con furor me han amenazado.\
@@ -980,7 +1035,8 @@
 \bibleverse{23} Mas tú, oh Dios, harás descender aquéllos al pozo de la sepultura: los hombres sanguinarios y engañadores no demediarán sus días: empero yo confiaré en ti. 
 
 ## Coraje seguro en una situación desesperada
-# 56 
+\hypertarget{section-19-56}{%
+\section{56}\label{section-19-56}}
 \bibleverse{1} Al Músico principal: sobre La paloma silenciosa en paraje muy distante. Michtam de David, cuando los Filisteos le prendieron en Gath. Ten misericordia de mí, oh Dios, porque me devoraría el hombre: me oprime combatiéndome cada día.\
 \bibleverse{2} Apúranme mis enemigos cada día; porque muchos son los que pelean contra mí, oh Altísimo.\
 \bibleverse{3} En el día que temo, yo en ti confío.\
@@ -996,7 +1052,8 @@
 \bibleverse{13} Porque has librado mi vida de la muerte, y mis pies de caída, para que ande delante de Dios en la luz de los que viven. 
 
 ## Confianza en Dios en medio de enemigos
-# 57 
+\hypertarget{section-19-57}{%
+\section{57}\label{section-19-57}}
 \bibleverse{1} Al Músico principal: sobre No destruyas: Michtam de David, cuando huyó de delante de Saúl á la cueva. Ten misericordia de mí, oh Dios, ten misericordia de mí; porque en ti ha confiado mi alma, y en la sombra de tus alas me ampararé, hasta que pasen los quebrantos.\
 \bibleverse{2} Clamaré al Dios Altísimo, al Dios que me favorece.\
 \bibleverse{3} El enviará desde los cielos, y me salvará de la infamia del que me apura (Selah); Dios enviará su misericordia y su verdad.\
@@ -1010,7 +1067,8 @@
 \bibleverse{11} Ensálzate sobre los cielos, oh Dios; sobre toda la tierra tu gloria. 
 
 ## Contra jueces (o gobernantes) injustos
-# 58 
+\hypertarget{section-19-58}{%
+\section{58}\label{section-19-58}}
 \bibleverse{1} Al Músico principal: sobre No destruyas: Michtam de David. Oh congregación, ¿pronunciáis en verdad justicia? ¿juzgáis rectamente, hijos de los hombres?\
 \bibleverse{2} Antes con el corazón obráis iniquidades: hacéis pesar la violencia de vuestras manos en la tierra.\
 \bibleverse{3} Enajenáronse los impíos desde la matriz; descarriáronse desde el vientre, hablando mentira.\
@@ -1024,7 +1082,8 @@
 \bibleverse{11} Entonces dirá el hombre: Ciertamente hay fruto para el justo; ciertamente hay Dios que juzga en la tierra. 
 
 ## Un grito de ayuda de un enemigo violento
-# 59 
+\hypertarget{section-19-59}{%
+\section{59}\label{section-19-59}}
 \bibleverse{1} Al Músico principal: sobre No destruyas: Michtam de David, cuando envió Saúl, y guardaron la casa para matarlo. Líbrame de mis enemigos, oh Dios mío: ponme en salvo de los que contra mí se levantan.\
 \bibleverse{2} Líbrame de los que obran iniquidad, y sálvame de hombres sanguinarios.\
 \bibleverse{3} Porque he aquí están acechando mi vida: hanse juntado contra mí fuertes, no por falta mía, ni pecado mío, oh Jehová.\
@@ -1044,7 +1103,8 @@
 \bibleverse{17} Fortaleza mía, á ti cantaré; porque eres Dios de mi amparo, Dios de mi misericordia. 
 
 ## Oración después de una severa derrota en la guerra
-# 60 
+\hypertarget{section-19-60}{%
+\section{60}\label{section-19-60}}
 \bibleverse{1} Al Músico principal: sobre Susan-Heduth: Michtam de David, para enseñar, cuando tuvo guerra contra Aram-Naharaim y contra Aram de Soba, y volvió Joab, é hirió de Edom en el valle de las Salinas doce mil. Oh Dios, tú nos has desechado, nos disipaste; te has airado: vuélvete á nosotros.\
 \bibleverse{2} Hiciste temblar la tierra, abrístela: sana sus quiebras, porque titubea.\
 \bibleverse{3} Has hecho ver á tu pueblo duras cosas: hicístenos beber el vino de agitación.\
@@ -1059,7 +1119,8 @@
 \bibleverse{12} En Dios haremos proezas; y él hollará nuestros enemigos. 
 
 ## Intercesión por el Rey desde lejos
-# 61 
+\hypertarget{section-19-61}{%
+\section{61}\label{section-19-61}}
 \bibleverse{1} Al Músico principal: sobre Neginoth: Salmo de David. Oye, oh Dios, mi clamor; á mi oración atiende.\
 \bibleverse{2} Desde el cabo de la tierra clamaré á ti, cuando mi corazón desmayare: á la peña más alta que yo me conduzcas.\
 \bibleverse{3} Porque tú has sido mi refugio, y torre de fortaleza delante del enemigo.\
@@ -1070,7 +1131,8 @@
 \bibleverse{8} Así cantaré tu nombre para siempre, pagando mis votos cada día. 
 
 ## ¡Silencio en Dios! La nada de la gente
-# 62 
+\hypertarget{section-19-62}{%
+\section{62}\label{section-19-62}}
 \bibleverse{1} Al Músico principal: á Jeduthún: Salmo de David. En Dios solamente está acallada mi alma: de él viene mi salud.\
 \bibleverse{2} El solamente es mi fuerte, y mi salud; es mi refugio, no resbalaré mucho.\
 \bibleverse{3} ¿Hasta cuándo maquinaréis contra un hombre? Pereceréis todos vosotros, caeréis como pared acostada, como cerca ruinosa.\
@@ -1085,7 +1147,8 @@
 \bibleverse{12} Y de ti, oh Señor, es la misericordia: porque tú pagas á cada uno conforme á su obra. 
 
 ## Anhelo de Dios, el refrigerio del alma y el bien supremo
-# 63 
+\hypertarget{section-19-63}{%
+\section{63}\label{section-19-63}}
 \bibleverse{1} Salmo de David, estando en el desierto de Judá. Dios, Dios mío eres tú: levantaréme á ti de mañana: mi alma tiene sed de ti, mi carne te desea, en tierra de sequedad y transida sin aguas;\
 \bibleverse{2} Para ver tu fortaleza y tu gloria, así como te he mirado en el santuario.\
 \bibleverse{3} Porque mejor es tu misericordia que la vida: mis labios te alabarán.\
@@ -1099,7 +1162,8 @@
 \bibleverse{11} Empero el rey se alegrará en Dios; será alabado cualquiera que por él jura: porque la boca de los que hablan mentira, será cerrada. 
 
 ## Pide protección contra enemigos maliciosos
-# 64 
+\hypertarget{section-19-64}{%
+\section{64}\label{section-19-64}}
 \bibleverse{1} Al Músico principal: Salmo de David. Escucha, oh Dios, mi voz en mi oración: guarda mi vida del miedo del enemigo.\
 \bibleverse{2} Escóndeme del secreto consejo de los malignos; de la conspiración de los que obran iniquidad:\
 \bibleverse{3} Que amolaron su lengua como cuchillo, y armaron por su saeta palabra amarga;\
@@ -1112,7 +1176,8 @@
 \bibleverse{10} Alegraráse el justo en Jehová, y confiaráse en él; y se gloriarán todos los rectos de corazón. 
 
 ## Canción de acción de gracias por los beneficios espirituales divinos y las bendiciones de la cosecha
-# 65 
+\hypertarget{section-19-65}{%
+\section{65}\label{section-19-65}}
 \bibleverse{1} Al Músico principal: Salmo: Cántico de David. A ti es plácida la alabanza en Sión, oh Dios: y á ti se pagarán los votos.\
 \bibleverse{2} Tú oyes la oración: á ti vendrá toda carne.\
 \bibleverse{3} Palabras de iniquidades me sobrepujaron: mas nuestras rebeliones tú las perdonarás.\
@@ -1128,7 +1193,8 @@
 \bibleverse{13} Vístense los llanos de manadas, y los valles se cubren de grano: dan voces de júbilo, y aun cantan. 
 
 ## Canto de agradecimiento del pueblo por su maravillosa guía y salvación
-# 66 
+\hypertarget{section-19-66}{%
+\section{66}\label{section-19-66}}
 \bibleverse{1} Al Músico principal: Cántico: Salmo. Aclamad á Dios con alegría, toda la tierra:\
 \bibleverse{2} Cantad la gloria de su nombre: poned gloria en su alabanza.\
 \bibleverse{3} Decid á Dios: ¡Cuán terribles tus obras! Por lo grande de tu fortaleza te mentirán tus enemigos.\
@@ -1151,7 +1217,8 @@
 \bibleverse{20} Bendito Dios, que no echó de sí mi oración, ni de mí su misericordia. 
 
 ## ¡Dios bendiga a Israel! (Canción de Acción de Gracias)
-# 67 
+\hypertarget{section-19-67}{%
+\section{67}\label{section-19-67}}
 \bibleverse{1} Al Músico principal: en Neginoth: Salmo: Cántico. Dios tenga misericordia de nosotros, y nos bendiga; haga resplandecer su rostro sobre nosotros (Selah);\
 \bibleverse{2} Para que sea conocido en la tierra tu camino, en todas las gentes tu salud.\
 \bibleverse{3} Alábente los pueblos, oh Dios; alábente los pueblos todos.\
@@ -1161,7 +1228,8 @@
 \bibleverse{7} Bendíganos Dios, y témanlo todos los fines de la tierra. 
 
 ## La victoria del Dios de Israel sobre sus enemigos
-# 68 
+\hypertarget{section-19-68}{%
+\section{68}\label{section-19-68}}
 \bibleverse{1} Al Músico principal: Salmo de David: Canción. Levántese Dios, sean esparcidos sus enemigos, y huyan de su presencia los que le aborrecen.\
 \bibleverse{2} Como es lanzado el humo, los lanzarás: como se derrite la cera delante del fuego, así perecerán los impíos delante de Dios.\
 \bibleverse{3} Mas los justos se alegrarán: gozarse han delante de Dios, y saltarán de alegría.\
@@ -1199,7 +1267,8 @@
 \bibleverse{35} Terrible eres, oh Dios, desde tus santuarios: el Dios de Israel, él da fortaleza y vigor á su pueblo. Bendito Dios. 
 
 ## La oración de un hombre piadoso por la salvación de la vergüenza y la angustia
-# 69 
+\hypertarget{section-19-69}{%
+\section{69}\label{section-19-69}}
 \bibleverse{1} Al Músico principal: sobre Sosannim: Salmo de David. Sálvame, oh Dios, porque las aguas han entrado hasta el alma.\
 \bibleverse{2} Estoy hundido en cieno profundo, donde no hay pie: he venido á abismos de aguas, y la corriente me ha anegado.\
 \bibleverse{3} Cansado estoy de llamar; mi garganta se ha enronquecido; han desfallecido mis ojos esperando á mi Dios.\
@@ -1238,7 +1307,8 @@
 \bibleverse{36} Y la simiente de sus siervos la heredará, y los que aman su nombre habitarán en ella. 
 
 ## Pide ayuda en la búsqueda
-# 70 
+\hypertarget{section-19-70}{%
+\section{70}\label{section-19-70}}
 \bibleverse{1} Al Músico principal: Salmo de David, para conmemorar. Oh Dios, acude á librarme; apresúrate, oh Dios, á socorrerme.\
 \bibleverse{2} Sean avergonzados y confusos los que buscan mi vida; sean vueltos atrás y avergonzados los que mi mal desean.\
 \bibleverse{3} Sean vueltos, en pago de su afrenta hecha, los que dicen: ¡Ah! ¡ah!\
@@ -1246,7 +1316,8 @@
 \bibleverse{5} Yo estoy afligido y menesteroso; apresúrate á mí, oh Dios: ayuda mía y mi libertador eres tú; oh Jehová, no te detengas. 
 
 ## ¡No me dejes en la vejez!
-# 71 
+\hypertarget{section-19-71}{%
+\section{71}\label{section-19-71}}
 \bibleverse{1} En ti, oh Jehová, he esperado; no sea yo confuso para siempre.\
 \bibleverse{2} Hazme escapar, y líbrame en tu justicia: inclina tu oído y sálvame.\
 \bibleverse{3} Séme por peña de estancia, adonde recurra yo continuamente: mandado has que yo sea salvo; porque tú eres mi roca, y mi fortaleza.\
@@ -1273,7 +1344,8 @@
 \bibleverse{24} Mi lengua hablará también de tu justicia todo el día: por cuanto fueron avergonzados, porque fueron confusos los que mi mal procuraban. 
 
 ## Bendiciones al rey
-# 72 
+\hypertarget{section-19-72}{%
+\section{72}\label{section-19-72}}
 \bibleverse{1} Para Salomón. Oh Dios, da tus juicios al rey, y tu justicia al hijo del rey.\
 \bibleverse{2} El juzgará tu pueblo con justicia, y tus afligidos con juicio.\
 \bibleverse{3} Los montes llevarán paz al pueblo, y los collados justicia.\
@@ -1296,7 +1368,8 @@
 \bibleverse{20} Acábanse las oraciones de David, hijo de Isaí. 
 
 ## El hecho por Dios »sin embargo«
-# 73 
+\hypertarget{section-19-73}{%
+\section{73}\label{section-19-73}}
 \bibleverse{1} Salmo de Asaph. Ciertamente bueno es Dios á Israel, á los limpios de corazón.\
 \bibleverse{2} Mas yo, casi se deslizaron mis pies; por poco resbalaron mis pasos.\
 \bibleverse{3} Porque tuve envidia de los insensatos, viendo la prosperidad de los impíos.\
@@ -1327,7 +1400,8 @@
 \bibleverse{28} Y en cuanto á mí, el acercarme á Dios es el bien: he puesto en el Señor Jehová mi esperanza, para contar todas tus obras. 
 
 ## Quejarse ante la congregación de la devastación del templo y pedir ayuda
-# 74 
+\hypertarget{section-19-74}{%
+\section{74}\label{section-19-74}}
 \bibleverse{1} Masquil de Asaph. ¿por qué, oh Dios, nos has desechado para siempre? ¿por qué ha humeado tu furor contra las ovejas de tu dehesa?\
 \bibleverse{2} Acuérdate de tu congregación, que adquiriste de antiguo, cuando redimiste la vara de tu heredad; este monte de Sión, donde has habitado.\
 \bibleverse{3} Levanta tus pies á los asolamientos eternos: á todo enemigo que ha hecho mal en el santuario.\
@@ -1353,7 +1427,8 @@
 \bibleverse{23} No olvides las voces de tus enemigos: el alboroto de los que se levantan contra ti sube continuamente. 
 
 ## Dios, el juez del mundo justo
-# 75 
+\hypertarget{section-19-75}{%
+\section{75}\label{section-19-75}}
 \bibleverse{1} Al Músico principal: sobre No destruyas: Salmo de Asaph: Cántico. Alabarémoste, oh Dios, alabaremos; que cercano está tu nombre: cuenten tus maravillas.\
 \bibleverse{2} Cuando yo tuviere tiempo, yo juzgaré rectamente.\
 \bibleverse{3} Arruinábase la tierra y sus moradores: yo sostengo sus columnas. (Selah.)\
@@ -1366,7 +1441,8 @@
 \bibleverse{10} Y quebraré todos los cuernos de los pecadores: los cuernos del justo serán ensalzados. 
 
 ## El canto de la victoria de Israel en alabanza a Dios
-# 76 
+\hypertarget{section-19-76}{%
+\section{76}\label{section-19-76}}
 \bibleverse{1} Al Músico principal: sobre Neginoth: Salmo de Asaph: Canción. Dios es conocido en Judá: en Israel es grande su nombre.\
 \bibleverse{2} Y en Salem está su tabernáculo, y su habitación en Sión.\
 \bibleverse{3} Allí quebró las saetas del arco, el escudo, y la espada, y tren de guerra. (Selah.)\
@@ -1381,7 +1457,8 @@
 \bibleverse{12} Cortará él el espíritu de los príncipes: terrible es á los reyes de la tierra. 
 
 ## Recuerdos en tiempos dolorosos del liderazgo anterior de Dios y quejas sobre el cambio en el comportamiento divino hacia su pueblo
-# 77 
+\hypertarget{section-19-77}{%
+\section{77}\label{section-19-77}}
 \bibleverse{1} Al Músico principal: para Jeduthún: Salmo de Asaph. Con mi voz clamé á Dios, á Dios clamé, y él me escuchará.\
 \bibleverse{2} Al Señor busqué en el día de mi angustia: mi mal corría de noche, y no cesaba: mi alma rehusaba consuelo.\
 \bibleverse{3} Acordábame de Dios, y gritaba: quejábame, y desmayaba mi espíritu. (Selah.)\
@@ -1404,7 +1481,8 @@
 \bibleverse{20} Condujiste á tu pueblo como ovejas, por mano de Moisés y de Aarón. 
 
 ## Revisión de advertencia de la desobediencia repetida de Israel
-# 78 
+\hypertarget{section-19-78}{%
+\section{78}\label{section-19-78}}
 \bibleverse{1} Masquil de Asaph. Escucha, pueblo mío, mi ley: inclinad vuestro oído á las palabras de mi boca.\
 \bibleverse{2} Abriré mi boca en parábola; hablaré cosas reservadas de antiguo:\
 \bibleverse{3} Las cuales hemos oído y entendido; que nuestros padres nos las contaron.\
@@ -1479,7 +1557,8 @@
 \bibleverse{72} Y apacentólos con entereza de su corazón; y pastoreólos con la pericia de sus manos. 
 
 ## Lamentación del pueblo de Dios por la desolación de Jerusalén
-# 79 
+\hypertarget{section-19-79}{%
+\section{79}\label{section-19-79}}
 \bibleverse{1} Salmo de Asaph. Oh Dios, vinieron las gentes á tu heredad; el templo de tu santidad han contaminado; pusieron á Jerusalem en montones.\
 \bibleverse{2} Dieron los cuerpos de tus siervos por comida á las aves de los cielos; la carne de tus santos á las bestias de la tierra.\
 \bibleverse{3} Derramaron su sangre como agua en los alrededores de Jerusalem; y no hubo quien los enterrase.\
@@ -1495,7 +1574,8 @@
 \bibleverse{13} Y nosotros, pueblo tuyo, y ovejas de tu dehesa, te alabaremos para siempre: por generación y generación cantaremos tus alabanzas. 
 
 ## Oración por la restauración de Israel, la vid que Dios plantó
-# 80 
+\hypertarget{section-19-80}{%
+\section{80}\label{section-19-80}}
 \bibleverse{1} Al Músico principal: sobre Sosannim Eduth: Salmo de Asaph. Oh Pastor de Israel, escucha: tú que pastoreas como á ovejas á José, que estás entre querubines, resplandece.\
 \bibleverse{2} Despierta tu valentía delante de Ephraim, y de Benjamín, y de Manasés, y ven á salvarnos.\
 \bibleverse{3} Oh Dios, haznos tornar; y haz resplandecer tu rostro, y seremos salvos.\
@@ -1517,7 +1597,8 @@
 \bibleverse{19} Oh Jehová, Dios de los ejércitos, haznos tornar; haz resplandecer tu rostro, y seremos salvos. 
 
 ## Canción del festival. Con penitencia
-# 81 
+\hypertarget{section-19-81}{%
+\section{81}\label{section-19-81}}
 \bibleverse{1} Al Músico principal: sobre Gittith: Salmo de Asaph. Cantad á Dios, fortaleza nuestra: al Dios de Jacob celebrad con júbilo.\
 \bibleverse{2} Tomad la canción, y tañed el adufe, el arpa deliciosa con el salterio.\
 \bibleverse{3} Tocad la trompeta en la nueva luna, en el día señalado, en el día de nuestra solemnidad.\
@@ -1536,7 +1617,8 @@
 \bibleverse{16} Y Dios lo hubiera mantenido de grosura de trigo: y de miel de la piedra te hubiera saciado. 
 
 ## El juicio de Dios sobre jueces injustos (es decir, gobernantes obedientes)
-# 82 
+\hypertarget{section-19-82}{%
+\section{82}\label{section-19-82}}
 \bibleverse{1} Salmo de Asaph. Dios está en la reunión de los dioses; en medio de los dioses juzga.\
 \bibleverse{2} ¿Hasta cuándo juzgaréis injustamente, y aceptaréis las personas de los impíos? (Selah.)\
 \bibleverse{3} Defended al pobre y al huérfano: haced justicia al afligido y al menesteroso.\
@@ -1547,7 +1629,8 @@
 \bibleverse{8} Levántate, oh Dios, juzga la tierra: porque tú heredarás en todas las gentes. 
 
 ## ¡Enemigos por todas partes! (Oración del pueblo angustiado)
-# 83 
+\hypertarget{section-19-83}{%
+\section{83}\label{section-19-83}}
 \bibleverse{1} Canción: Salmo de Asaph. Oh Dios, no tengas silencio: no calles, oh Dios, ni te estés quieto.\
 \bibleverse{2} Porque he aquí que braman tus enemigos; y tus aborrecedores han alzado cabeza.\
 \bibleverse{3} Sobre tu pueblo han consultado astuta y secretamente, y han entrado en consejo contra tus escondidos.\
@@ -1568,7 +1651,8 @@
 \bibleverse{18} Y conozcan que tu nombre es [Jehová]{.smallcaps}; tú solo Altísimo sobre toda la tierra. 
 
 ## Anhelo de la casa de Dios (¿una canción de peregrinaje?)
-# 84 
+\hypertarget{section-19-84}{%
+\section{84}\label{section-19-84}}
 \bibleverse{1} Al Músico principal: sobre Gittith: Salmo para los hijos de Coré. ¡cuán amables son tus moradas, oh Jehová de los ejércitos!\
 \bibleverse{2} Codicia y aun ardientemente desea mi alma los atrios de Jehová: mi corazón y mi carne cantan al Dios vivo.\
 \bibleverse{3} Aun el gorrión halla casa, y la golondrina nido para sí, donde ponga sus pollos en tus altares, oh Jehová de los ejércitos, rey mío, y Dios mío.\
@@ -1583,7 +1667,8 @@
 \bibleverse{12} Jehová de los ejércitos, dichoso el hombre que en ti confía. 
 
 ## La oración de Israel por nueva gracia y la promesa de bendición de Dios
-# 85 
+\hypertarget{section-19-85}{%
+\section{85}\label{section-19-85}}
 \bibleverse{1} Al Músico principal: Salmo para los hijos de Coré. Fuiste propicio á tu tierra, oh Jehová: volviste la cautividad de Jacob.\
 \bibleverse{2} Perdonaste la iniquidad de tu pueblo; todos los pecados de ellos cubriste. (Selah.)\
 \bibleverse{3} Dejaste toda tu saña: te volviste de la ira de tu furor.\
@@ -1599,7 +1684,8 @@
 \bibleverse{13} La justicia irá delante de él; y sus pasos pondrá en camino. 
 
 ## Oración de los piadosos en angustia hostil
-# 86 
+\hypertarget{section-19-86}{%
+\section{86}\label{section-19-86}}
 \bibleverse{1} Oración de David. Inclina, oh Jehová, tu oído, y óyeme; porque estoy afligido y menesteroso.\
 \bibleverse{2} Guarda mi alma, porque soy pío: salva tú, oh Dios mío, á tu siervo que en ti, confía.\
 \bibleverse{3} Ten misericordia de mí, oh Jehová: porque á ti clamo todo el día.\
@@ -1619,7 +1705,8 @@
 \bibleverse{17} Haz conmigo señal para bien, y véanla los que me aborrecen, y sean avergonzados; porque tú, Jehová, me ayudaste, y me consolaste. 
 
 ## Sion, la piadosa ciudad madre de las naciones
-# 87 
+\hypertarget{section-19-87}{%
+\section{87}\label{section-19-87}}
 \bibleverse{1} A los hijos de Coré: Salmo: Canción. Su cimiento es en montes de santidad.\
 \bibleverse{2} Ama Jehová las puertas de Sión más que todas las moradas de Jacob.\
 \bibleverse{3} Cosas ilustres son dichas de ti, ciudad de Dios. (Selah.)\
@@ -1629,7 +1716,8 @@
 \bibleverse{7} Y cantores y tañedores en ella dirán: Todas mis fuentes estarán en ti. 
 
 ## Queja desesperada de un enfermo grave
-# 88 
+\hypertarget{section-19-88}{%
+\section{88}\label{section-19-88}}
 \bibleverse{1} Canción: Salmo para los hijos de Coré: al Músico principal: para cantar sobre Mahalath: Masquil de Hemán Ezrahita. Oh Jehová, Dios de mi salud, día y noche clamo delante de ti.\
 \bibleverse{2} Entre mi oración en tu presencia: inclina tu oído á mi clamor.\
 \bibleverse{3} Porque mi alma está harta de males, y mi vida cercana al sepulcro.\
@@ -1650,7 +1738,8 @@
 \bibleverse{18} Has alejado de mí el amigo y el compañero; y mis conocidos se esconden en la tiniebla. 
 
 ## ¿Dónde se dan las promesas de gracia de Dios a la Casa de David?
-# 89 
+\hypertarget{section-19-89}{%
+\section{89}\label{section-19-89}}
 \bibleverse{1} Masquil de Ethán Ezrahita. Las misericordias de Jehová cantaré perpetuamente: en generación y generación haré notoria tu verdad con mi boca.\
 \bibleverse{2} Porque dije: Para siempre será edificada misericordia; en los mismos cielos apoyarás tu verdad.\
 \bibleverse{3} Hice alianza con mi escogido; juré á David mi siervo, diciendo:\
@@ -1705,7 +1794,8 @@
 \bibleverse{52} Bendito Jehová para siempre. Amén, y Amén. 
 
 ## Dios eterno el refugio de los perecederos
-# 90 
+\hypertarget{section-19-90}{%
+\section{90}\label{section-19-90}}
 \bibleverse{1} Oración de Moisés varón de Dios. Señor, tú nos has sido refugio en generación y en generación.\
 \bibleverse{2} Antes que naciesen los montes, y formases la tierra y el mundo, y desde el siglo y hasta el siglo, tú eres Dios.\
 \bibleverse{3} Vuelves al hombre hasta ser quebrantado, y dices: Convertíos, hijos de los hombres.\
@@ -1725,7 +1815,8 @@
 \bibleverse{17} Y sea la luz de Jehová nuestro Dios sobre nosotros: y ordena en nosotros la obra de nuestras manos, la obra de nuestras manos confirma. 
 
 ## Bajo el cuidado del Altísimo
-# 91 
+\hypertarget{section-19-91}{%
+\section{91}\label{section-19-91}}
 \bibleverse{1} El que habita al abrigo del Altísimo, morará bajo la sombra del Omnipotente.\
 \bibleverse{2} Diré yo á Jehová: Esperanza mía, y castillo mío; mi Dios, en él confiaré.\
 \bibleverse{3} Y él te librará del lazo del cazador: de la peste destruidora.\
@@ -1744,7 +1835,8 @@
 \bibleverse{16} Saciarélo de larga vida, y mostraréle mi salud. 
 
 ## Alabado sea el justo gobierno de Dios
-# 92 
+\hypertarget{section-19-92}{%
+\section{92}\label{section-19-92}}
 \bibleverse{1} Salmo: Canción para el día del Sábado. Bueno es alabar á Jehová, y cantar salmos á tu nombre, oh Altísimo;\
 \bibleverse{2} Anunciar por la mañana tu misericordia, y tu verdad en las noches,\
 \bibleverse{3} En el decacordio y en el salterio, en tono suave con el arpa.\
@@ -1762,7 +1854,8 @@
 \bibleverse{15} Para anunciar que Jehová mi fortaleza es recto, y que en él no hay injusticia. 
 
 ## La gloria de Dios, el Rey eterno del mundo
-# 93 
+\hypertarget{section-19-93}{%
+\section{93}\label{section-19-93}}
 \bibleverse{1} Jehová reina, vistióse de magnificencia, vistióse Jehová, ciñóse de fortaleza; afirmó también el mundo, que no se moverá.\
 \bibleverse{2} Firme es tu trono desde entonces: tú eres eternalmente.\
 \bibleverse{3} Alzaron los ríos, oh Jehová, alzaron los ríos su sonido; alzaron los ríos sus ondas.\
@@ -1770,7 +1863,8 @@
 \bibleverse{5} Tus testimonios son muy firmes: la santidad conviene á tu casa, oh Jehová, por los siglos y para siempre. 
 
 ## Pide venganza contra los impíos opresores del pueblo de Dios
-# 94 
+\hypertarget{section-19-94}{%
+\section{94}\label{section-19-94}}
 \bibleverse{1} Jehová, Dios de las venganzas, Dios de las venganzas, muéstrate.\
 \bibleverse{2} Ensálzate, oh Juez de la tierra: da el pago á los soberbios.\
 \bibleverse{3} ¿Hasta cuándo los impíos, hasta cuándo, oh Jehová, se gozarán los impíos?\
@@ -1796,7 +1890,8 @@
 \bibleverse{23} Y él hará tornar sobre ellos su iniquidad, y los destruirá por su propia maldad; los talará Jehová nuestro Dios. 
 
 ## Alabanza a Dios al entrar al templo y penitencia
-# 95 
+\hypertarget{section-19-95}{%
+\section{95}\label{section-19-95}}
 \bibleverse{1} Venid, celebremos alegremente á Jehová: cantemos con júbilo á la roca de nuestra salud.\
 \bibleverse{2} Lleguemos ante su acatamiento con alabanza; aclamémosle con cánticos.\
 \bibleverse{3} Porque Jehová es Dios grande; y Rey grande sobre todos los dioses.\
@@ -1810,7 +1905,8 @@
 \bibleverse{11} Por tanto juré en mi furor que no entrarían en mi reposo. 
 
 ## Alabado sea Dios como el gobernante del mundo en los últimos tiempos
-# 96 
+\hypertarget{section-19-96}{%
+\section{96}\label{section-19-96}}
 \bibleverse{1} Cantad á Jehová canción nueva; cantad á Jehová, toda la tierra.\
 \bibleverse{2} Cantad á Jehová, bendecid su nombre: anunciad de día en día su salud.\
 \bibleverse{3} Contad entre las gentes su gloria, en todos los pueblos sus maravillas.\
@@ -1826,7 +1922,8 @@
 \bibleverse{13} Delante de Jehová que vino: porque vino á juzgar la tierra. Juzgará al mundo con justicia, y á los pueblos con su verdad. 
 
 ## El ascenso y el reinado de Dios en los últimos tiempos
-# 97 
+\hypertarget{section-19-97}{%
+\section{97}\label{section-19-97}}
 \bibleverse{1} Jehová reinó: regocíjese la tierra: alégrense las muchas islas.\
 \bibleverse{2} Nube y oscuridad alrededor de él: justicia y juicio son el asiento de su trono.\
 \bibleverse{3} Fuego irá delante de él, y abrasará en derredor sus enemigos.\
@@ -1841,7 +1938,8 @@
 \bibleverse{12} Alegraos, justos, en Jehová: y alabad la memoria de su santidad. 
 
 ## Alabado sea Dios como rey y juez justo del mundo
-# 98 
+\hypertarget{section-19-98}{%
+\section{98}\label{section-19-98}}
 \bibleverse{1} Salmo. Cantad á Jehová canción nueva; porque ha hecho maravillas: su diestra lo ha salvado, y su santo brazo.\
 \bibleverse{2} Jehová ha hecho notoria su salud: en ojos de las gentes ha descubierto su justicia.\
 \bibleverse{3} Hase acordado de su misericordia y de su verdad para con la casa de Israel: todos los términos de la tierra han visto la salud de nuestro Dios.\
@@ -1853,7 +1951,8 @@
 \bibleverse{9} Delante de Jehová; porque vino á juzgar la tierra: juzgará al mundo con justicia, y á los pueblos con rectitud. 
 
 ## Alabado sea el Dios santo, el Rey que todo lo gobierna
-# 99 
+\hypertarget{section-19-99}{%
+\section{99}\label{section-19-99}}
 \bibleverse{1} Jehová reinó, temblarán los pueblos: él está sentado sobre los querubines, conmoveráse la tierra.\
 \bibleverse{2} Jehová en Sión es grande, y ensalzado sobre todos los pueblos.\
 \bibleverse{3} Alaben tu nombre grande y tremendo: él es santo.\
@@ -1865,7 +1964,8 @@
 \bibleverse{9} Ensalzad á Jehová nuestro Dios, y encorvaos al monte de su santidad; porque Jehová nuestro Dios es santo. 
 
 ## Alabado sea Dios al entrar al templo
-# 100 
+\hypertarget{section-19-100}{%
+\section{100}\label{section-19-100}}
 \bibleverse{1} Salmo de alabanza. Cantad alegres á Dios, habitantes de toda la tierra.\
 \bibleverse{2} Servid á Jehová con alegría: venid ante su acatamiento con regocijo.\
 \bibleverse{3} Reconoced que Jehová él es Dios: él nos hizo, y no nosotros á nosotros mismos; pueblo suyo somos, y ovejas de su prado.\
@@ -1873,7 +1973,8 @@
 \bibleverse{5} Porque Jehová es bueno: para siempre es su misericordia, y su verdad por todas las generaciones. 
 
 ## Votos de un gobernante (o: príncipe espejo)
-# 101 
+\hypertarget{section-19-101}{%
+\section{101}\label{section-19-101}}
 \bibleverse{1} Salmo de David. Misericordia y juicio cantaré: á ti cantaré yo, oh Jehová.\
 \bibleverse{2} Entenderé en el camino de la perfección cuando vinieres á mí: en integridad de mi corazón andaré en medio de mi casa.\
 \bibleverse{3} No pondré delante de mis ojos cosa injusta: aborrezco la obra de los que se desvían: ninguno de ellos se allegará á mí.\
@@ -1884,7 +1985,8 @@
 \bibleverse{8} Por las mañanas cortaré á todos los impíos de la tierra; para extirpar de la ciudad de Jehová á todos los que obraren iniquidad. 
 
 ## Oración penitente de una víctima y solicitud de la restauración de Sion (quinto salmo penitencial)
-# 102 
+\hypertarget{section-19-102}{%
+\section{102}\label{section-19-102}}
 \bibleverse{1} Oración del pobre, cuando estuviere angustiado, y delante de Jehová derramare su lamento. Jehová, oye mi oración, y venga mi clamor á ti.\
 \bibleverse{2} No escondas de mí tu rostro: en el día de mi angustia inclina á mí tu oído; el día que te invocare, apresúrate á responderme.\
 \bibleverse{3} Porque mis días se han consumido como humo; y mis huesos cual tizón están quemados.\
@@ -1915,7 +2017,8 @@
 \bibleverse{28} Los hijos de tus siervos habitarán, y su simiente será afirmada delante de ti. 
 
 ## ¡Alabado sea el Señor, alma mía!
-# 103 
+\hypertarget{section-19-103}{%
+\section{103}\label{section-19-103}}
 \bibleverse{1} Salmo de David. Bendice, alma mía, á Jehová; y bendigan todas mis entrañas su santo nombre.\
 \bibleverse{2} Bendice, alma mía á Jehová, y no olvides ninguno de sus beneficios.\
 \bibleverse{3} El es quien perdona todas tus iniquidades, el que sana todas tus dolencias;\
@@ -1940,7 +2043,8 @@
 \bibleverse{22} Bendecid á Jehová, vosotras todas sus obras, en todos los lugares de su señorío. Bendice, alma mía, á Jehová. 
 
 ## La gloria de Dios en la naturaleza
-# 104 
+\hypertarget{section-19-104}{%
+\section{104}\label{section-19-104}}
 \bibleverse{1} Bendice, alma mía, á Jehová. Jehová, Dios mío, mucho te has engrandecido; haste vestido de gloria y de magnificencia.\
 \bibleverse{2} El que se cubre de luz como de vestidura, que extiende los cielos como una cortina;\
 \bibleverse{3} Que establece sus aposentos entre las aguas; el que pone las nubes por su carroza, el que anda sobre las alas del viento;\
@@ -1978,7 +2082,8 @@
 \bibleverse{35} Sean consumidos de la tierra los pecadores, y los impíos dejen de ser. Bendice, alma mía, á Jehová. Aleluya. 
 
 ## Los actos salvadores de Dios en el antiguo Israel
-# 105 
+\hypertarget{section-19-105}{%
+\section{105}\label{section-19-105}}
 \bibleverse{1} Alabad á Jehová, invocad su nombre: haced notorias sus obras en los pueblos.\
 \bibleverse{2} Cantadle, cantadle salmos: hablad de todas sus maravillas.\
 \bibleverse{3} Gloriaos en su santo nombre: alégrese el corazón de los que buscan á Jehová.\
@@ -2026,7 +2131,8 @@
 \bibleverse{45} Para que guardasen sus estatutos, y observasen sus leyes. Aleluya. 
 
 ## La gracia de Dios y la ingratitud de Israel
-# 106 
+\hypertarget{section-19-106}{%
+\section{106}\label{section-19-106}}
 \bibleverse{1} Aleluya. Alabad á Jehová, porque es bueno; porque para siempre es su misericordia.\
 \bibleverse{2} ¿Quién expresará las valentías de Jehová? ¿quién contará sus alabanzas?\
 \bibleverse{3} Dichosos los que guardan juicio, los que hacen justicia en todo tiempo.\
@@ -2077,7 +2183,8 @@
 \bibleverse{48} Bendito Jehová Dios de Israel, desde el siglo y hasta el siglo: y diga todo el pueblo, Amén. Aleluya. 
 
 ## Alabado sea Dios, el Salvador de toda adversidad
-# 107 
+\hypertarget{section-19-107}{%
+\section{107}\label{section-19-107}}
 \bibleverse{1} Alabad á Jehová, porque es bueno; porque para siempre es su misericordia.\
 \bibleverse{2} Díganlo los redimidos de Jehová, los que ha redimido del poder del enemigo,\
 \bibleverse{3} Y los ha congregado de las tierras, del oriente y del occidente, del aquilón y de la mar.\
@@ -2123,7 +2230,8 @@
 \bibleverse{43} ¿Quién es sabio y guardará estas cosas, y entenderá las misericordias de Jehová? 
 
 ## Alaba la gracia de Dios y pide ayuda
-# 108 
+\hypertarget{section-19-108}{%
+\section{108}\label{section-19-108}}
 \bibleverse{1} Canción: Salmo de David. Mi corazón está dispuesto, oh Dios; cantaré y salmearé todavía en mi gloria.\
 \bibleverse{2} Despiértate, salterio y arpa: despertaré al alba.\
 \bibleverse{3} Te alabaré, oh Jehová, entre los pueblos; á ti cantaré salmos entre las naciones.\
@@ -2139,7 +2247,8 @@
 \bibleverse{13} En Dios haremos proezas: y él hollará nuestros enemigos. 
 
 ## Maldición de enemigos impíos
-# 109 
+\hypertarget{section-19-109}{%
+\section{109}\label{section-19-109}}
 \bibleverse{1} Al Músico principal: Salmo de David. Oh Dios de mi alabanza, no calles;\
 \bibleverse{2} Porque boca de impío y boca de engañador se han abierto sobre mí: han hablado de mí con lengua mentirosa,\
 \bibleverse{3} Y con palabras de odio me rodearon; y pelearon contra mí sin causa.\
@@ -2173,7 +2282,8 @@
 \bibleverse{31} Porque él se pondrá á la diestra del pobre, para librar su alma de los que le juzgan. 
 
 ## El mensaje de Dios al Sacerdote-Rey
-# 110 
+\hypertarget{section-19-110}{%
+\section{110}\label{section-19-110}}
 \bibleverse{1} Salmo de David. Jehová dijo á mi Señor: Siéntate á mi diestra, en tanto que pongo tus enemigos por estrado de tus pies.\
 \bibleverse{2} La vara de tu fortaleza enviará Jehová desde Sión: domina en medio de tus enemigos.\
 \bibleverse{3} Tu pueblo serálo de buena voluntad en el día de tu poder, en la hermosura de la santidad: desde el seno de la aurora, tienes tú el rocío de tu juventud.\
@@ -2183,7 +2293,8 @@
 \bibleverse{7} Del arroyo beberá en el camino: por lo cual levantará cabeza. 
 
 ## Alabe las bendiciones físicas y espirituales de Dios
-# 111 
+\hypertarget{section-19-111}{%
+\section{111}\label{section-19-111}}
 \bibleverse{1} Aleluya. Alabaré á Jehová con todo el corazón, en la compañía y congregación de los rectos.\
 \bibleverse{2} Grandes son las obras de Jehová; buscadas de todos los que las quieren.\
 \bibleverse{3} Gloria y hermosura es su obra; y su justicia permanece para siempre.\
@@ -2196,7 +2307,8 @@
 \bibleverse{10} El principio de la sabiduría es el temor de Jehová: buen entendimiento tienen cuantos ponen aquéllos por obra: su loor permanece para siempre. 
 
 ## La bendición del temor de Dios y la misericordia
-# 112 
+\hypertarget{section-19-112}{%
+\section{112}\label{section-19-112}}
 \bibleverse{1} Aleluya. Bienaventurado el hombre que teme á Jehová, y en sus mandamientos se deleita en gran manera.\
 \bibleverse{2} Su simiente será poderosa en la tierra: la generación de los rectos será bendita.\
 \bibleverse{3} Hacienda y riquezas hay en su casa; y su justicia permanece para siempre.\
@@ -2209,7 +2321,8 @@
 \bibleverse{10} Verálo el impío, y se despechará; crujirá los dientes, y se repudrirá: perecerá el deseo de los impíos. 
 
 ## Alabado sea el Dios exaltado y misericordioso
-# 113 
+\hypertarget{section-19-113}{%
+\section{113}\label{section-19-113}}
 \bibleverse{1} Aleluya. Alabad, siervos de Jehová, alabad el nombre de Jehová.\
 \bibleverse{2} Sea el nombre de Jehová bendito, desde ahora y para siempre.\
 \bibleverse{3} Desde el nacimiento del sol hasta donde se pone, sea alabado el nombre de Jehová.\
@@ -2221,7 +2334,8 @@
 \bibleverse{9} El hace habitar en familia á la estéril, gozosa en ser madre de hijos. Aleluya. 
 
 ## El poder milagroso de Dios durante el paso de los israelitas por el Mar Rojo y el Jordán
-# 114 
+\hypertarget{section-19-114}{%
+\section{114}\label{section-19-114}}
 \bibleverse{1} Cuando salió Israel de Egipto, la casa de Jacob del pueblo bárbaro,\
 \bibleverse{2} Judá fué su consagrada heredad, Israel su señorío.\
 \bibleverse{3} La mar vió, y huyó; el Jordán se volvió atrás.\
@@ -2232,7 +2346,8 @@
 \bibleverse{8} El cual tornó la peña en estanque de aguas, y en fuente de aguas la roca. 
 
 ## Solo el Dios vivo merece gloria
-# 115 
+\hypertarget{section-19-115}{%
+\section{115}\label{section-19-115}}
 \bibleverse{1} No á nosotros, oh Jehová, no á nosotros, sino á tu nombre da gloria; por tu misericordia, por tu verdad.\
 \bibleverse{2} Por qué dirán las gentes: ¿Dónde está ahora su Dios?\
 \bibleverse{3} Y nuestro Dios está en los cielos: todo lo que quiso ha hecho.\
@@ -2253,7 +2368,8 @@
 \bibleverse{18} Mas nosotros bendeciremos á [Jah]{.smallcaps}, desde ahora para siempre. Aleluya. 
 
 ## Canción de acción de gracias y votos de alguien rescatado del peligro de muerte (al ofrecer el sacrificio de acción de gracias)
-# 116 
+\hypertarget{section-19-116}{%
+\section{116}\label{section-19-116}}
 \bibleverse{1} Amo á Jehová, pues ha oído mi voz y mis súplicas.\
 \bibleverse{2} Porque ha inclinado á mí su oído, invocaréle por tanto en todos mis días.\
 \bibleverse{3} Rodeáronme los dolores de la muerte, me encontraron las angustias del sepulcro: angustia y dolor había yo hallado.\
@@ -2275,12 +2391,14 @@
 \bibleverse{19} En los atrios de la casa de Jehová, en medio de ti, oh Jerusalem. Aleluya. 
 
 ## Llamando a los gentiles a alabar a Dios
-# 117 
+\hypertarget{section-19-117}{%
+\section{117}\label{section-19-117}}
 \bibleverse{1} Alabad á Jehová, naciones todas; pueblos todos, alabadle.\
 \bibleverse{2} Porque ha engrandecido sobre nosotros su misericordia; y la verdad de Jehová es para siempre. Aleluya. 
 
 ## Oración de acción de gracias y canción de victoria de la comunidad del festival
-# 118 
+\hypertarget{section-19-118}{%
+\section{118}\label{section-19-118}}
 \bibleverse{1} Alabad á Jehová, porque es bueno; porque para siempre es su misericordia.\
 \bibleverse{2} Diga ahora Israel: Que para siempre es su misericordia.\
 \bibleverse{3} Diga ahora la casa de Aarón: Que para siempre es su misericordia.\
@@ -2312,7 +2430,8 @@
 \bibleverse{29} Alabad á Jehová porque es bueno; porque para siempre es su misericordia. 
 
 ## Gloria de la palabra y ley divinas (o: el alfabeto dorado)
-# 119 
+\hypertarget{section-19-119}{%
+\section{119}\label{section-19-119}}
 \bibleverse{1} Aleph. [Bienaventurados]{.smallcaps} los perfectos de camino; los que andan en la ley de Jehová.\
 \bibleverse{2} Bienaventurados los que guardan sus testimonios, y con todo el corazón le buscan:\
 \bibleverse{3} Pues no hacen iniquidad los que andan en sus caminos.\
@@ -2554,7 +2673,8 @@
 \bibleverse{176} Yo anduve errante como oveja extraviada; busca á tu siervo; porque no me he olvidado de tus mandamientos. 
 
 ## Pida ayuda contra adversarios engañosos y contenciosos
-# 120 
+\hypertarget{section-19-120}{%
+\section{120}\label{section-19-120}}
 \bibleverse{1} Cántico gradual. A Jehová llamé estando en angustia, y él me respondió.\
 \bibleverse{2} Libra mi alma, oh Jehová, de labio mentiroso, de la lengua fraudulenta.\
 \bibleverse{3} ¿Qué te dará, ó qué te aprovechará, oh lengua engañosa?\
@@ -2564,7 +2684,8 @@
 \bibleverse{7} Yo soy pacífico: mas ellos, así que hablo, me hacen guerra. 
 
 ## El fiel guardián del pueblo
-# 121 
+\hypertarget{section-19-121}{%
+\section{121}\label{section-19-121}}
 \bibleverse{1} Cántico gradual. Alzaré mis ojos á los montes, de donde vendrá mi socorro.\
 \bibleverse{2} Mi socorro viene de Jehová, que hizo los cielos y la tierra.\
 \bibleverse{3} No dará tu pie al resbaladero; ni se dormirá el que te guarda.\
@@ -2575,7 +2696,8 @@
 \bibleverse{8} Jehová guardará tu salida y tu entrada, desde ahora y para siempre. 
 
 ## Las bendiciones de un peregrino para Jerusalén
-# 122 
+\hypertarget{section-19-122}{%
+\section{122}\label{section-19-122}}
 \bibleverse{1} Cántico gradual: de David. Yo me alegré con los que me decían: A la casa de Jehová iremos.\
 \bibleverse{2} Nuestros pies estuvieron en tus puertas, oh Jerusalem;\
 \bibleverse{3} Jerusalem, que se ha edificado como una ciudad que está bien unida entre sí.\
@@ -2587,14 +2709,16 @@
 \bibleverse{9} A causa de la casa de Jehová nuestro Dios, buscaré bien para ti. 
 
 ## Los creyentes miran a Dios con vergüenza y burla
-# 123 
+\hypertarget{section-19-123}{%
+\section{123}\label{section-19-123}}
 \bibleverse{1} Cántico gradual. A ti que habitas en los cielos, alcé mis ojos.\
 \bibleverse{2} He aquí como los ojos de los siervos miran á la mano de sus señores, y como los ojos de la sierva á la mano de su señora; así nuestros ojos miran á Jehová nuestro Dios, hasta que haya misericordia de nosotros.\
 \bibleverse{3} Ten misericordia de nosotros, oh Jehová, ten misericordia de nosotros; porque estamos muy hartos de menosprecio.\
 \bibleverse{4} Muy harta está nuestra alma del escarnio de los holgados, y del menosprecio de los soberbios. 
 
 ## El salvador de Israel necesitado
-# 124 
+\hypertarget{section-19-124}{%
+\section{124}\label{section-19-124}}
 \bibleverse{1} Cántico gradual: de David. A no haber estado Jehová por nosotros, diga ahora Israel;\
 \bibleverse{2} A no haber estado Jehová por nosotros, cuando se levantaron contra nosotros los hombres,\
 \bibleverse{3} Vivos nos habrían entonces tragado, cuando se encendió su furor en nosotros.\
@@ -2605,7 +2729,8 @@
 \bibleverse{8} Nuestro socorro es en el nombre de Jehová, que hizo el cielo y la tierra. 
 
 ## Dios protege a su pueblo Israel y a todos los rectos
-# 125 
+\hypertarget{section-19-125}{%
+\section{125}\label{section-19-125}}
 \bibleverse{1} Cántico gradual. Los que confían en Jehová son como el monte de Sión, que no deslizará: estará para siempre.\
 \bibleverse{2} Como Jerusalem tiene montes alrededor de ella, así Jehová alrededor de su pueblo desde ahora y para siempre.\
 \bibleverse{3} Porque no reposará la vara de la impiedad sobre la suerte de los justos; porque no extiendan los justos sus manos á la iniquidad.\
@@ -2613,7 +2738,8 @@
 \bibleverse{5} Mas á los que se apartan tras sus perversidades, Jehová los llevará con los que obran iniquidad: y paz sea sobre Israel. 
 
 ## Consuelo en las lágrimas
-# 126 
+\hypertarget{section-19-126}{%
+\section{126}\label{section-19-126}}
 \bibleverse{1} Cántico gradual. Cuando Jehová hiciere tornar la cautividad de Sión, seremos como los que sueñan.\
 \bibleverse{2} Entonces nuestra boca se henchirá de risa, y nuestra lengua de alabanza; entonces dirán entre las gentes: Grandes cosas ha hecho Jehová con éstos.\
 \bibleverse{3} Grandes cosas ha hecho Jehová con nosotros; estaremos alegres.\
@@ -2622,7 +2748,8 @@
 \bibleverse{6} Irá andando y llorando el que lleva la preciosa simiente; mas volverá á venir con regocijo, trayendo sus gavillas. 
 
 ## Todo depende de la bendición de Dios
-# 127 
+\hypertarget{section-19-127}{%
+\section{127}\label{section-19-127}}
 \bibleverse{1} Cántico gradual: para Salomón. Si Jehová no edificare la casa, en vano trabajan los que la edifican: si Jehová no guardare la ciudad, en vano vela la guarda.\
 \bibleverse{2} Por demás os es el madrugar á levantaros, el veniros tarde á reposar, el comer pan de dolores: pues que á su amado dará Dios el sueño.\
 \bibleverse{3} He aquí, heredad de Jehová son los hijos: cosa de estima el fruto del vientre.\
@@ -2630,7 +2757,8 @@
 \bibleverse{5} Bienaventurado el hombre que hinchió su aljaba de ellos: no será avergonzado cuando hablare con los enemigos en la puerta. 
 
 ## La felicidad doméstica como bendición del temor de Dios
-# 128 
+\hypertarget{section-19-128}{%
+\section{128}\label{section-19-128}}
 \bibleverse{1} Cántico gradual. Bienaventurado todo aquel que teme á Jehová, que anda en sus caminos.\
 \bibleverse{2} Cuando comieres el trabajo de tus manos, bienaventurado tú, y tendrás bien.\
 \bibleverse{3} Tu mujer será como parra que lleva fruto á los lados de tu casa; tus hijos como plantas de olivas alrededor de tu mesa.\
@@ -2639,7 +2767,8 @@
 \bibleverse{6} Y veas los hijos de tus hijos, y la paz sobre Israel. 
 
 ## Tribulaciones y salvación de Israel
-# 129 
+\hypertarget{section-19-129}{%
+\section{129}\label{section-19-129}}
 \bibleverse{1} Cántico gradual. Mucho me han angustiado desde mi juventud, puede decir ahora Israel;\
 \bibleverse{2} Mucho me han angustiado desde mi juventud; mas no prevalecieron contra mí.\
 \bibleverse{3} Sobre mis espaldas araron los aradores: hicieron largos surcos.\
@@ -2650,7 +2779,8 @@
 \bibleverse{8} Ni dijeron los que pasaban: Bendición de Jehová sea sobre vosotros; os bendecimos en el nombre de Jehová. 
 
 ## Por profunda necesidad (Sexto Salmo Penitencial)
-# 130 
+\hypertarget{section-19-130}{%
+\section{130}\label{section-19-130}}
 \bibleverse{1} Cántico gradual. De los profundos, oh Jehová, á ti clamo.\
 \bibleverse{2} Señor, oye mi voz; estén atentos tus oídos á la voz de mi súplica.\
 \bibleverse{3} [Jah]{.smallcaps}, si mirares á los pecados, ¿quién, oh Señor, podrá mantenerse?\
@@ -2661,13 +2791,15 @@
 \bibleverse{8} Y él redimirá á Israel de todos sus pecados. 
 
 ## Satisfacción tranquila (o descanso en Dios)
-# 131 
+\hypertarget{section-19-131}{%
+\section{131}\label{section-19-131}}
 \bibleverse{1} Cántico gradual: de David. Jehová, no se ha envanecido mi corazón, ni mis ojos se enaltecieron; ni anduve en grandezas, ni en cosas para mí demasiado sublimes.\
 \bibleverse{2} En verdad que me he comportado y he acallado mi alma, como un niño destetado de su madre: como un niño destetado está mi alma.\
 \bibleverse{3} Espera, oh Israel, en Jehová desde ahora y para siempre. 
 
 ## Oración por Sion en vista de la promesa de Dios a David
-# 132 
+\hypertarget{section-19-132}{%
+\section{132}\label{section-19-132}}
 \bibleverse{1} Cántico gradual. Acuérdate, oh Jehová, de David, y de toda su aflicción;\
 \bibleverse{2} Que juró él á Jehová, prometió al Fuerte de Jacob:\
 \bibleverse{3} No entraré en la morada de mi casa, ni subiré sobre el lecho de mi estrado;\
@@ -2688,19 +2820,22 @@
 \bibleverse{18} A sus enemigos vestiré de confusión: mas sobre él florecerá su corona. 
 
 ## Bendiciones de la unidad fraterna
-# 133 
+\hypertarget{section-19-133}{%
+\section{133}\label{section-19-133}}
 \bibleverse{1} Cántico gradual: de David. ¡mirad cuán bueno y cuán delicioso es habitar los hermanos igualmente en uno!\
 \bibleverse{2} Es como el buen óleo sobre la cabeza, el cual desciende sobre la barba, la barba de Aarón, y que baja hasta el borde de sus vestiduras;\
 \bibleverse{3} Como el rocío de Hermón, que desciende sobre los montes de Sión: porque allí envía Jehová bendición, y vida eterna. 
 
 ## Canción de los guardias del templo en el servicio nocturno
-# 134 
+\hypertarget{section-19-134}{%
+\section{134}\label{section-19-134}}
 \bibleverse{1} Cántico gradual. Mirad, bendecid á Jehová, vosotros todos los siervos de Jehová, los que en la casa de Jehová estáis por las noches.\
 \bibleverse{2} Alzad vuestras manos al santuario, y bendecid á Jehová.\
 \bibleverse{3} Bendígate Jehová desde Sión, el cual ha hecho los cielos y la tierra. 
 
 ## Alabado sea el único Dios verdadero
-# 135 
+\hypertarget{section-19-135}{%
+\section{135}\label{section-19-135}}
 \bibleverse{1} Aleluya. Alabad el nombre de Jehová; alabadle, siervos de Jehová;\
 \bibleverse{2} Los que estáis en la casa de Jehová, en los atrios de la casa de nuestro Dios.\
 \bibleverse{3} Alabad á [Jah]{.smallcaps}, porque es bueno Jehová: cantad salmos á su nombre, porque es suave.\
@@ -2724,7 +2859,8 @@
 \bibleverse{21} Bendito de Sión Jehová, que mora en Jerusalem. Aleluya. 
 
 ## Canto de acción de gracias por los beneficios de Dios para Israel
-# 136 
+\hypertarget{section-19-136}{%
+\section{136}\label{section-19-136}}
 \bibleverse{1} Alabad á Jehová, porque es bueno; porque para siempre es su misericordia.\
 \bibleverse{2} Alabad al Dios de los dioses, porque para siempre es su misericordia.\
 \bibleverse{3} Alabad al Señor de los señores, porque para siempre es su misericordia.\
@@ -2753,7 +2889,8 @@
 \bibleverse{26} Alabad al Dios de los cielos: porque para siempre es su misericordia. 
 
 ## Lamento de los judíos capturados a los ríos de Babilonia
-# 137 
+\hypertarget{section-19-137}{%
+\section{137}\label{section-19-137}}
 \bibleverse{1} Junto á los ríos de Babilonia, allí nos sentábamos, y aun llorábamos, acordándonos de Sión.\
 \bibleverse{2} Sobre los sauces en medio de ella colgamos nuestras arpas.\
 \bibleverse{3} Y los que allí nos habían llevado cautivos nos pedían que cantásemos, y los que nos habían desolado nos pedían alegría, diciendo:\
@@ -2765,7 +2902,8 @@
 \bibleverse{9} Bienaventurado el que tomará y estrellará tus niños contra las piedras. 
 
 ## Lamento de los judíos capturados a los ríos de Babilonia
-# 138 
+\hypertarget{section-19-138}{%
+\section{138}\label{section-19-138}}
 \bibleverse{1} Salmo de David. Alabarte he con todo mi corazón: delante de los dioses te cantaré salmos.\
 \bibleverse{2} Encorvaréme al templo de tu santuario, y alabaré tu nombre por tu misericordia y tu verdad: porque has hecho magnífico tu nombre, y tu dicho sobre todas las cosas.\
 \bibleverse{3} En el día que clamé, me respondiste; esforzásteme con fortaleza en mi alma.\
@@ -2776,7 +2914,8 @@
 \bibleverse{8} Jehová cumplirá por mí: tu misericordia, oh Jehová, es para siempre; no dejarás la obra de tus manos. 
 
 ## Dios el omnisciente y omnipresente
-# 139 
+\hypertarget{section-19-139}{%
+\section{139}\label{section-19-139}}
 \bibleverse{1} Al Músico principal: Salmo de David. Oh Jehová, tú me has examinado y conocido.\
 \bibleverse{2} Tú has conocido mi sentarme y mi levantarme, has entendido desde lejos mis pensamientos.\
 \bibleverse{3} Mi senda y mi acostarme has rodeado, y estás impuesto en todos mis caminos.\
@@ -2803,7 +2942,8 @@
 \bibleverse{24} Y ve si hay en mí camino de perversidad, y guíame en el camino eterno. 
 
 ## Oración por la salvación de enemigos engañosos
-# 140 
+\hypertarget{section-19-140}{%
+\section{140}\label{section-19-140}}
 \bibleverse{1} Al Músico principal: Salmo de David. Líbrame, oh Jehová, de hombre malo: guárdame de hombre violento;\
 \bibleverse{2} Los cuales maquinan males en el corazón, cada día urden contiendas.\
 \bibleverse{3} Aguzaron su lengua como la serpiente; veneno de áspid hay debajo de sus labios. (Selah.)\
@@ -2819,7 +2959,8 @@
 \bibleverse{13} Ciertamente los justos alabarán tu nombre; los rectos morarán en tu presencia. 
 
 ## Oración por protección contra el mal y los perseguidores
-# 141 
+\hypertarget{section-19-141}{%
+\section{141}\label{section-19-141}}
 \bibleverse{1} Salmo de David. Jehová, á ti he clamado: apresúrate á mí; escucha mi voz, cuando te invocare.\
 \bibleverse{2} Sea enderezada mi oración delante de ti como un perfume, el don de mis manos como la ofrenda de la tarde.\
 \bibleverse{3} Pon, oh Jehová, guarda á mi boca: guarda la puerta de mis labios.\
@@ -2832,7 +2973,8 @@
 \bibleverse{10} Caigan los impíos á una en sus redes, mientras yo pasaré adelante. 
 
 ## Pide ayuda en una situación desesperada
-# 142 
+\hypertarget{section-19-142}{%
+\section{142}\label{section-19-142}}
 \bibleverse{1} Masquil de David: Oración que hizo cuando estaba en la cueva. Con mi voz clamaré á Jehová, con mi voz pediré á Jehová misericordia.\
 \bibleverse{2} Delante de él derramaré mi querella; delante de él denunciaré mi angustia.\
 \bibleverse{3} Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda. En el camino en que andaba, me escondieron lazo.\
@@ -2842,7 +2984,8 @@
 \bibleverse{7} Saca mi alma de la cárcel para que alabe tu nombre: Me rodearán los justos, porque tú me serás propicio. 
 
 ## Pedir ayuda en aflicciones externas e internas (Séptimo Salmo Penitencial)
-# 143 
+\hypertarget{section-19-143}{%
+\section{143}\label{section-19-143}}
 \bibleverse{1} Salmo de David. Oh Jehová, oye mi oración, escucha mis ruegos: respóndeme por tu verdad, por tu justicia.\
 \bibleverse{2} Y no entres en juicio con tu siervo; porque no se justificará delante de ti ningún viviente.\
 \bibleverse{3} Porque ha perseguido el enemigo mi alma; ha postrado en tierra mi vida; hame hecho habitar en tinieblas como los ya muertos.\
@@ -2857,7 +3000,8 @@
 \bibleverse{12} Y por tu misericordia disiparás mis enemigos, y destruirás todos los adversarios de mi alma: porque yo soy tu siervo. 
 
 ## Oración de alabanza y súplica; La abundancia de bendiciones de Israel
-# 144 
+\hypertarget{section-19-144}{%
+\section{144}\label{section-19-144}}
 \bibleverse{1} Salmo de David. Bendito sea Jehová, mi roca, que enseña mis manos á la batalla, y mis dedos á la guerra:\
 \bibleverse{2} Misericordia mía y mi castillo, altura mía y mi libertador, escudo mío, en quien he confiado; el que allana mi pueblo delante de mí.\
 \bibleverse{3} Oh Jehová, ¿qué es el hombre, para que de él conozcas? ¿ó el hijo del hombre, para que lo estimes?\
@@ -2875,7 +3019,8 @@
 \bibleverse{15} Bienaventurado el pueblo que tiene esto: bienaventurado el pueblo cuyo Dios es Jehová. 
 
 ## Canto de alabanza a la grandeza y bondad de Dios, sustentador y gobernante del mundo
-# 145 
+\hypertarget{section-19-145}{%
+\section{145}\label{section-19-145}}
 \bibleverse{1} Salmo de alabanza: de David. Ensalzarte he, mi Dios, mi Rey; y bendeciré tu nombre por siglo y para siempre.\
 \bibleverse{2} Cada día te bendeciré, y alabaré tu nombre por siglo y para siempre.\
 \bibleverse{3} Grande es Jehová y digno de suprema alabanza: y su grandeza es inescrutable.\
@@ -2899,7 +3044,8 @@
 \bibleverse{21} La alabanza de Jehová hablará mi boca; y bendiga toda carne su santo nombre por siglo y para siempre. 
 
 ## ¡Bienaventurados los que confían en el Señor!
-# 146 
+\hypertarget{section-19-146}{%
+\section{146}\label{section-19-146}}
 \bibleverse{1} Aleluya. Alaba, oh alma mía, á Jehová.\
 \bibleverse{2} Alabaré á Jehová en mi vida: cantaré salmos á mi Dios mientras viviere.\
 \bibleverse{3} No confiéis en los príncipes, ni en hijo de hombre, porque no hay en él salud.\
@@ -2912,7 +3058,8 @@
 \bibleverse{10} Reinará Jehová para siempre; tu Dios, oh Sión, por generación y generación. Aleluya. 
 
 ## Alabado sea la omnipotencia, la bondad y la sabiduría de Dios
-# 147 
+\hypertarget{section-19-147}{%
+\section{147}\label{section-19-147}}
 \bibleverse{1} Alabad á [Jah]{.smallcaps}, porque es bueno cantar salmos á nuestro Dios; porque suave y hermosa es la alabanza.\
 \bibleverse{2} Jehová edifica á Jerusalem; á los echados de Israel recogerá.\
 \bibleverse{3} El sana á los quebrantados de corazón, y liga sus heridas.\
@@ -2935,7 +3082,8 @@
 \bibleverse{20} No ha hecho esto con toda gente; y no conocieron sus juicios. Aleluya. 
 
 ## ¡Todo el mundo, toda la creación, alabado sea el Señor!
-# 148 
+\hypertarget{section-19-148}{%
+\section{148}\label{section-19-148}}
 \bibleverse{1} Aleluya. Alabad á Jehová desde los cielos: alabadle en las alturas.\
 \bibleverse{2} Alabadle, vosotros todos sus ángeles: alabadle, vosotros todos sus ejércitos.\
 \bibleverse{3} Alabadle, sol y luna: alabadle, vosotras todas, lucientes estrellas.\
@@ -2952,7 +3100,8 @@
 \bibleverse{14} El ensalzó el cuerno de su pueblo; alábenle todos sus santos, los hijos de Israel, el pueblo á él cercano. Aleluya. 
 
 ## El cántico de victoria y venganza de Israel
-# 149 
+\hypertarget{section-19-149}{%
+\section{149}\label{section-19-149}}
 \bibleverse{1} Aleluya. Cantad á Jehová canción nueva: su alabanza sea en la congregación de los santos.\
 \bibleverse{2} Alégrese Israel en su Hacedor: los hijos de Sión se gocen en su Rey.\
 \bibleverse{3} Alaben su nombre con corro: con adufe y arpa á él canten.\
@@ -2964,7 +3113,8 @@
 \bibleverse{9} Para ejecutar en ellos el juicio escrito: gloria será esta para todos sus santos. Aleluya. 
 
 ## ¡Todo lo que respira, alabado sea el Señor!
-# 150 
+\hypertarget{section-19-150}{%
+\section{150}\label{section-19-150}}
 \bibleverse{1} Aleluya. Alabad á Dios en su santuario: alabadle en la extensión de su fortaleza.\
 \bibleverse{2} Alabadle por sus proezas: alabadle conforme á la muchedumbre de su grandeza.\
 \bibleverse{3} Alabadle á son de bocina: alabadle con salterio y arpa.\

@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-46-1}{%
+\section{1}\label{section-46-1}}
 \bibleverse{1} Pablo, llamado á ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes el hermano, 
 \bibleverse{2} A la iglesia de Dios que está en Corinto, santificados en Cristo Jesús, llamados santos, y á todos los que invocan el nombre de nuestro Señor Jesucristo en cualquier lugar, Señor de ellos y nuestro: 
 \bibleverse{3} Gracia y paz de Dios nuestro Padre, y del Señor Jesucristo.
@@ -47,7 +48,8 @@
 \bibleverse{31} Para que, como está escrito: El que se gloría, gloríese en el Señor. 
 
 ## La manera de predicar de Pablo cuando se fundó la iglesia era poco exigente y carecía de sabiduría mundana
-# 2 
+\hypertarget{section-46-2}{%
+\section{2}\label{section-46-2}}
 \bibleverse{1} Así que, hermanos, cuando fuí á vosotros, no fuí con altivez de palabra, ó de sabiduría, á anunciaros el testimonio de Cristo. 
 \bibleverse{2} Porque no me propuse saber algo entre vosotros, sino á Jesucristo, y á éste crucificado. 
 \bibleverse{3} Y estuve yo con vosotros con flaqueza, y mucho temor y temblor; 
@@ -72,7 +74,8 @@
 \bibleverse{16} Porque ¿quién conoció la mente del Señor? ¿quién le instruyó? Mas nosotros tenemos la mente de Cristo. 
 
 ## Hasta ahora Pablo no ha podido proclamar plena sabiduría a los corintios debido a su inmadurez, que ha sido demostrada por la picardía del partido
-# 3 
+\hypertarget{section-46-3}{%
+\section{3}\label{section-46-3}}
 \bibleverse{1} De manera que yo, hermanos, no pude hablaros como á espirituales, sino como á carnales, como á niños en Cristo. 
 \bibleverse{2} Os dí á beber leche, y no vianda: porque aun no podíais, ni aun podéis ahora; 
 \bibleverse{3} Porque todavía sois carnales: pues habiendo entre vosotros celos, y contiendas, y disensiones, ¿no sois carnales, y andáis como hombres? 
@@ -108,7 +111,8 @@
 \bibleverse{23} Y vosotros de Cristo; y Cristo de Dios. 
 
 ## Pablo sabe que es responsable solo ante el Señor
-# 4 
+\hypertarget{section-46-4}{%
+\section{4}\label{section-46-4}}
 \bibleverse{1} Téngannos los hombres por ministros de Cristo, y dispensadores de los misterios de Dios. 
 \bibleverse{2} Mas ahora se requiere en los dispensadores, que cada uno sea hallado fiel. 
 \bibleverse{3} Yo en muy poco tengo el ser juzgado de vosotros, ó de juicio humano; y ni aun yo me juzgo. 
@@ -140,7 +144,8 @@
 \bibleverse{21} ¿Qué queréis? ¿iré á vosotros con vara, ó con caridad y espíritu de mansedumbre? 
 
 ## Grave reprimenda por la tolerancia mostrada por la comunidad a un fornicario
-# 5 
+\hypertarget{section-46-5}{%
+\section{5}\label{section-46-5}}
 \bibleverse{1} De cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los Gentiles; tanto que alguno tenga la mujer de su padre. 
 \bibleverse{2} Y vosotros estáis hinchados, y no más bien tuvisteis duelo, para que fuese quitado de en medio de vosotros el que hizo tal obra. 
 \bibleverse{3} Y ciertamente, como ausente con el cuerpo, mas presente en espíritu, ya como presente he juzgado al que esto así ha cometido: 
@@ -162,7 +167,8 @@
 \bibleverse{13} Porque á los que están fuera, Dios juzgará: quitad pues á ese malo de entre vosotros. 
 
 ## Denuncia de litigio en tribunales paganos y litigio en general
-# 6 
+\hypertarget{section-46-6}{%
+\section{6}\label{section-46-6}}
 \bibleverse{1} ¿Osa alguno de vosotros, teniendo algo con otro, ir á juicio delante de los injustos, y no delante de los santos? 
 \bibleverse{2} ¿O no sabéis que los santos han de juzgar al mundo? Y si el mundo ha de ser juzgado por vosotros, ¿sois indignos de juzgar cosas muy pequeñas? 
 \bibleverse{3} ¿O no sabéis que hemos de juzgar á los ángeles? ¿cuánto más las cosas de este siglo? 
@@ -190,7 +196,8 @@
 \bibleverse{20} Porque comprados sois por precio: glorificad pues á Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dios. 
 
 ## El valor y las necesidades del matrimonio y la vida conyugal en general
-# 7 
+\hypertarget{section-46-7}{%
+\section{7}\label{section-46-7}}
 \bibleverse{1} Cuanto á las cosas de que me escribisteis, bien es al hombre no tocar mujer. 
 \bibleverse{2} Mas á causa de las fornicaciones, cada uno tenga su mujer, y cada una tenga su marido. 
 \bibleverse{3} El marido pague á la mujer la debida benevolencia; y asimismo la mujer al marido. 
@@ -256,7 +263,8 @@
 \bibleverse{40} Empero más venturosa será si se quedare así, según mi consejo; y pienso que también yo tengo Espíritu de Dios. 
 
 ## El conocimiento en sí mismo tiene menos valor que el amor
-# 8 
+\hypertarget{section-46-8}{%
+\section{8}\label{section-46-8}}
 \bibleverse{1} Y por lo que hace á lo sacrificado á los ídolos, sabemos que todos tenemos ciencia. La ciencia hincha, mas la caridad edifica. 
 \bibleverse{2} Y si alguno se imagina que sabe algo, aun no sabe nada como debe saber. 
 \bibleverse{3} Mas si alguno ama á Dios, el tal es conocido de él.
@@ -280,7 +288,8 @@
 \bibleverse{13} Por lo cual, si la comida es á mi hermano ocasión de caer, jamás comeré carne por no escandalizar á mi hermano. 
 
 ## Explicación y justificación de los derechos debidos a Pablo como apóstol
-# 9 
+\hypertarget{section-46-9}{%
+\section{9}\label{section-46-9}}
 \bibleverse{1} ¿No soy apóstol? ¿no soy libre? ¿no he visto á Jesús el Señor nuestro? ¿no sois vosotros mi obra en el Señor? 
 \bibleverse{2} Si á los otros no soy apóstol, á vosotros ciertamente lo soy: porque el sello de mi apostolado sois vosotros en el Señor.
 
@@ -325,7 +334,8 @@
 \bibleverse{27} Antes hiero mi cuerpo, y lo pongo en servidumbre; no sea que, habiendo predicado á otros, yo mismo venga á ser reprobado. 
 
 ## Das durch göttliche Gnadenerweise in der Wüste gesegnete und zur Rettung ins heilige Land berufene Israel
-# 10 
+\hypertarget{section-46-10}{%
+\section{10}\label{section-46-10}}
 \bibleverse{1} Porque no quiero, hermanos, que ignoréis que nuestros padres todos estuvieron bajo la nube, y todos pasaron la mar; 
 \bibleverse{2} Y todos en Moisés fueron bautizados en la nube y en la mar; 
 \bibleverse{3} Y todos comieron la misma vianda espiritual; 
@@ -378,7 +388,8 @@
 \bibleverse{32} Sed sin ofensa á Judíos, y á Gentiles, y á la iglesia de Dios: 
 \bibleverse{33} Como también yo en todas las cosas complazco á todos, no procurando mi propio beneficio, sino el de muchos, para que sean salvos. 
 
-# 11 
+\hypertarget{section-46-11}{%
+\section{11}\label{section-46-11}}
 \bibleverse{1} Sed imitadores de mí, así como yo de Cristo.
 
 ## Sobre el comportamiento decente de los hombres y el velo de las mujeres durante la oración y el culto
@@ -429,7 +440,8 @@
 \bibleverse{34} Si alguno tuviere hambre, coma en su casa, porque no os juntéis para juicio. Las demás cosas ordenaré cuando llegare. 
 
 ## La marca de los dones espirituales divinamente forjados
-# 12 
+\hypertarget{section-46-12}{%
+\section{12}\label{section-46-12}}
 \bibleverse{1} Y acerca de los dones espirituales, no quiero, hermanos, que ignoréis. 
 \bibleverse{2} Sabéis que cuando erais Gentiles, ibais, como erais llevados, á los ídolos mudos. 
 \bibleverse{3} Por tanto os hago saber, que nadie que hable por Espíritu de Dios, llama anatema á Jesús; y nadie puede llamar á Jesús Señor, sino por Espíritu Santo.
@@ -476,7 +488,8 @@
  
 \bibleverse{31} Empero procurad los mejores dones: mas aun yo os muestro un camino más excelente. 
 
-# 13 
+\hypertarget{section-46-13}{%
+\section{13}\label{section-46-13}}
 \bibleverse{1} Si yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo á ser como metal que resuena, ó címbalo que retiñe. 
 \bibleverse{2} Y si tuviese profecía, y entendiese todos los misterios y toda ciencia; y si tuviese toda la fe, de tal manera que traspasase los montes, y no tengo caridad, nada soy. 
 \bibleverse{3} Y si repartiese toda mi hacienda para dar de comer á pobres, y si entregase mi cuerpo para ser quemado, y no tengo caridad, de nada me sirve.
@@ -497,7 +510,8 @@
 \bibleverse{12} Ahora vemos por espejo, en obscuridad; mas entonces veremos cara á cara: ahora conozco en parte; mas entonces conoceré como soy conocido. 
 \bibleverse{13} Y ahora permanecen la fe, la esperanza, y la caridad, estas tres: empero la mayor de ellas es la caridad. 
 
-# 14 
+\hypertarget{section-46-14}{%
+\section{14}\label{section-46-14}}
 \bibleverse{1} Seguid la caridad; y procurad los dones espirituales, mas sobre todo que profeticéis.
 
 ## La diferencia entre el habla profética y el hablar en lenguas
@@ -565,7 +579,8 @@
 \bibleverse{40} Empero hágase todo decentemente y con orden. 
 
 ## De los hechos y testigos por los que se certifica la resurrección de Cristo
-# 15 
+\hypertarget{section-46-15}{%
+\section{15}\label{section-46-15}}
 \bibleverse{1} Además os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis; 
 \bibleverse{2} Por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano.
 
@@ -655,7 +670,8 @@
 \bibleverse{58} Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es vano. 
 
 ## Invitación a participar en la recaudación de fondos para Jerusalén
-# 16 
+\hypertarget{section-46-16}{%
+\section{16}\label{section-46-16}}
 \bibleverse{1} Cuanto á la colecta para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia. 
 \bibleverse{2} Cada primer día de la semana cada uno de vosotros aparte en su casa, guardando lo que por la bondad de Dios pudiere; para que cuando yo llegare, no se hagan entonces colectas. 
 \bibleverse{3} Y cuando habré llegado, los que aprobareis por cartas, á éstos enviaré que lleven vuestro beneficio á Jerusalem. 

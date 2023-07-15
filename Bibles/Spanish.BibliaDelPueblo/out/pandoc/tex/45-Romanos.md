@@ -1,5 +1,6 @@
 ## Nombre del remitente y destinatario de la carta y bendición apostólica a la congregación
-# 1 
+\hypertarget{section-45-1}{%
+\section{1}\label{section-45-1}}
 \bibleverse{1} Pablo, siervo de Jesucristo, llamado á ser apóstol, apartado para el evangelio de Dios, 
 \bibleverse{2} Que él había antes prometido por sus profetas en las santas Escrituras, 
 \bibleverse{3} Acerca de su Hijo, (que fué hecho de la simiente de David según la carne; 
@@ -52,7 +53,8 @@
 \bibleverse{32} Que, habiendo entendido el juicio de Dios que los que hacen tales cosas son dignos de muerte, no sólo las hacen, mas aun consienten á los que las hacen. 
 
 ## El juicio de la ira también está ante los judíos; juzgar a los demás no los libera del juicio de Dios
-# 2 
+\hypertarget{section-45-2}{%
+\section{2}\label{section-45-2}}
 \bibleverse{1} Por lo cual eres inexcusable, oh hombre, cualquiera que juzgas: porque en lo que juzgas á otro, te condenas á ti mismo; porque lo mismo haces, tú que juzgas. 
 \bibleverse{2} Mas sabemos que el juicio de Dios es según verdad contra los que hacen tales cosas. 
 \bibleverse{3} ¿Y piensas esto, oh hombre, que juzgas á los que hacen tales cosas, y haces las mismas, que tú escaparás del juicio de Dios? 
@@ -95,7 +97,8 @@
 \bibleverse{29} Mas es Judío el que lo es en lo interior; y la circuncisión es la del corazón, en espíritu, no en letra; la alabanza del cual no es de los hombres, sino de Dios. 
 
 ## Sin embargo, la posición privilegiada de los judíos permanece; su infidelidad pone la fidelidad de Dios en una luz más brillante
-# 3 
+\hypertarget{section-45-3}{%
+\section{3}\label{section-45-3}}
 \bibleverse{1} ¿Qué, pues, tiene más el Judío? ¿ó qué aprovecha la circuncisión? 
 \bibleverse{2} Mucho en todas maneras. Lo primero ciertamente, que la palabra de Dios les ha sido confiada. 
 \bibleverse{3} ¿Pues qué si algunos de ellos han sido incrédulos? ¿la incredulidad de ellos habrá hecho vana la verdad de Dios? 
@@ -144,7 +147,8 @@
 \bibleverse{31} ¿Luego deshacemos la ley por la fe? En ninguna manera; antes establecemos la ley. 
 
 ## Evidencia de la justicia de la fe en Abraham y mediante un testimonio de David
-# 4 
+\hypertarget{section-45-4}{%
+\section{4}\label{section-45-4}}
 \bibleverse{1} ¿Qué, pues, diremos que halló Abraham nuestro padre según la carne? 
 \bibleverse{2} Que si Abraham fué justificado por la obras, tiene de qué gloriarse; mas no para con Dios. 
 \bibleverse{3} Porque ¿qué dice la Escritura? Y creyó Abraham á Dios, y le fué atribuído á justicia. 
@@ -186,7 +190,8 @@
 \bibleverse{25} El cual fué entregado por nuestros delitos, y resucitado para nuestra justificación. 
 
 ## La salvación futura está garantizada para los justificados a pesar de todas las tribulaciones debido al amor de Dios demostrado por la muerte sacrificial de Cristo
-# 5 
+\hypertarget{section-45-5}{%
+\section{5}\label{section-45-5}}
 \bibleverse{1} Justificados pues por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo: 
 \bibleverse{2} Por el cual también tenemos entrada por la fe á esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios. 
 \bibleverse{3} Y no sólo esto, mas aun nos gloriamos en las tribulaciones, sabiendo que la tribulación produce paciencia; 
@@ -223,7 +228,8 @@
 \bibleverse{21} Para que, de la manera que el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna por Jesucristo Señor nuestro. 
 
 ## Fuimos crucificados con ellos, morimos con ellos, sepultados con ellos y resucitamos con Cristo Jesús
-# 6 
+\hypertarget{section-45-6}{%
+\section{6}\label{section-45-6}}
 \bibleverse{1} ¿Pues qué diremos? Perseveraremos en pecado para que la gracia crezca? 
 \bibleverse{2} En ninguna manera. Porque los que somos muertos al pecado, ¿cómo viviremos aún en él? 
 \bibleverse{3} ¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte? 
@@ -262,7 +268,8 @@
 \bibleverse{23} Porque la paga del pecado es muerte: mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro. 
 
 ## Cuando hemos muerto y resucitado con Cristo, estamos legítimamente libres de la ley y estamos obligados a servir al Cristo resucitado creyéndonos muertos al pecado
-# 7 
+\hypertarget{section-45-7}{%
+\section{7}\label{section-45-7}}
 \bibleverse{1} ¿Ignoráis, hermanos, (porque hablo con los que saben la ley) que la ley se enseñorea del hombre entre tanto que vive? 
 \bibleverse{2} Porque la mujer que está sujeta á marido, mientras el marido vive está obligada á la ley; mas muerto el marido, libre es de la ley del marido. 
 \bibleverse{3} Así que, viviendo el marido, se llamará adúltera si fuere de otro varón; mas si su marido muriere, es libre de la ley; de tal manera que no será adúltera si fuere de otro marido. 
@@ -298,7 +305,8 @@
 \bibleverse{25} Gracias doy á Dios, por Jesucristo Señor nuestro. Así que, yo mismo con la mente sirvo á la ley de Dios, mas con la carne á la ley del pecado. 
 
 ## El cristiano está bajo la ley del Espíritu
-# 8 
+\hypertarget{section-45-8}{%
+\section{8}\label{section-45-8}}
 \bibleverse{1} Ahora pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme á la carne, mas conforme al espíritu. 
 \bibleverse{2} Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte. 
 \bibleverse{3} Porque lo que era imposible á la ley, por cuanto era débil por la carne, Dios enviando á su Hijo en semejanza de carne de pecado, y á causa del pecado, condenó al pecado en la carne; 
@@ -363,7 +371,8 @@
 \bibleverse{39} Ni lo alto, ni lo bajo, ni ninguna criatura nos podrá apartar del amor de Dios, que es en Cristo Jesús Señor nuestro. 
 
 ## Introducción: El profundo dolor del apóstol por la exclusión temporal de su pueblo de la salvación
-# 9 
+\hypertarget{section-45-9}{%
+\section{9}\label{section-45-9}}
 \bibleverse{1} Verdad digo en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo, 
 \bibleverse{2} Que tengo gran tristeza y continuo dolor en mi corazón. 
 \bibleverse{3} Porque deseara yo mismo ser apartado de Cristo por mis hermanos, los que son mis parientes según la carne; 
@@ -415,7 +424,8 @@
 \bibleverse{32} ¿Por qué? Porque la seguían no por fe, mas como por las obras de la ley: por lo cual tropezaron en la piedra de tropiezo, 
 \bibleverse{33} Como está escrito: He aquí pongo en Sión piedra de tropiezo, y piedra de caída; y aquel que creyere en ella, no será avergonzado. 
 
-# 10 
+\hypertarget{section-45-10}{%
+\section{10}\label{section-45-10}}
 \bibleverse{1} Hermanos, ciertamente la voluntad de mi corazón y mi oración á Dios sobre Israel, es para salud. 
 \bibleverse{2} Porque yo les doy testimonio que tienen celo de Dios, mas no conforme á ciencia. 
 \bibleverse{3} Porque ignorando la justicia de Dios, y procurando establecer la suya propia, no se han sujetado á la justicia de Dios.
@@ -455,7 +465,8 @@
 \bibleverse{21} Mas acerca de Israel dice: Todo el día extendí mis manos á un pueblo rebelde y contradictor. 
 
 ## La mayor parte de los judíos es terca y rechazada por Dios, pero incluso ahora una pequeña parte está destinada a la salvación a través de la gracia de Dios
-# 11 
+\hypertarget{section-45-11}{%
+\section{11}\label{section-45-11}}
 \bibleverse{1} Digo pues: ¿Ha desechado Dios á su pueblo? En ninguna manera. Porque también yo soy Israelita, de la simiente de Abraham, de la tribu de Benjamín. 
 \bibleverse{2} No ha desechado Dios á su pueblo, al cual antes conoció. ¿O no sabéis qué dice de Elías la Escritura? cómo hablando con Dios contra Israel dice: 
 \bibleverse{3} Señor, á tus profetas han muerto, y tus altares han derruído; y yo he quedado solo, y procuran matarme. 
@@ -514,7 +525,8 @@
 \bibleverse{36} Porque de él, y por él, y en él, son todas las cosas. A él sea gloria por siglos. Amén. 
 
 ## Advertencia general como entrada: santificación de la vida personal a través de la entrega completa a Dios
-# 12 
+\hypertarget{section-45-12}{%
+\section{12}\label{section-45-12}}
 \bibleverse{1} Así que, hermanos, os ruego por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable á Dios, que es vuestro racional culto. 
 \bibleverse{2} Y no os conforméis á este siglo; mas reformaos por la renovación de vuestro entendimiento, para que experimentéis cuál sea la buena voluntad de Dios, agradable y perfecta.
 
@@ -548,7 +560,8 @@
 \bibleverse{21} No seas vencido de lo malo; mas vence con el bien el mal. 
 
 ## Exhortación a obedecer a las autoridades designadas por Dios
-# 13 
+\hypertarget{section-45-13}{%
+\section{13}\label{section-45-13}}
 \bibleverse{1} Toda alma se someta á las potestades superiores; porque no hay potestad sino de Dios; y las que son, de Dios son ordenadas. 
 \bibleverse{2} Así que, el que se opone á la potestad, á la ordenación de Dios resiste: y los que resisten, ellos mismos ganan condenación para sí. 
 \bibleverse{3} Porque los magistrados no son para temor al que bien hace, sino al malo. ¿Quieres pues no temer la potestad? haz lo bueno, y tendrás alabanza de ella; 
@@ -573,7 +586,8 @@
 \bibleverse{14} Mas vestíos del Señor Jesucristo, y no hagáis caso de la carne en sus deseos. 
 
 ## Juicio sobre el tema que conmueve a la comunidad y advierte contra la condena sin amor del modo de vida externo del prójimo
-# 14 
+\hypertarget{section-45-14}{%
+\section{14}\label{section-45-14}}
 \bibleverse{1} Recibid al flaco en la fe, pero no para contiendas de disputas. 
 \bibleverse{2} Porque uno cree que se ha de comer de todas cosas: otro que es débil, come legumbres. 
 \bibleverse{3} El que come, no menosprecie al que no come: y el que no come, no juzgue al que come; porque Dios le ha levantado. 
@@ -610,7 +624,8 @@
 \bibleverse{23} Mas el que hace diferencia, si comiere, es condenado, porque no comió por fe: y todo lo que no es de fe, es pecado. 
 
 ## Exhortación a ser pacientes con los débiles y a la unidad de los cristianos basada en el ejemplo de Cristo
-# 15 
+\hypertarget{section-45-15}{%
+\section{15}\label{section-45-15}}
 \bibleverse{1} Así que, los que somos más firmes debemos sobrellevar las flaquezas de los flacos, y no agradarnos á nosotros mismos. 
 \bibleverse{2} Cada uno de nosotros agrade á su prójimo en bien, á edificación. 
 \bibleverse{3} Porque Cristo no se agradó á sí mismo; antes bien, como está escrito: Los vituperios de los que te vituperan, cayeron sobre mí. 
@@ -666,7 +681,8 @@
 \bibleverse{33} Y el Dios de paz sea con todos vosotros. Amén. 
 
 ## Recomendación de Phöbe, portador de la carta; Saludos del Apóstol a los hermanos en Roma
-# 16 
+\hypertarget{section-45-16}{%
+\section{16}\label{section-45-16}}
 \bibleverse{1} Encomiéndoos empero á Febe nuestra hermana, la cual es diaconisa de la iglesia que está en Cencreas: 
 \bibleverse{2} Que la recibáis en el Señor, como es digno á los santos, y que la ayudéis en cualquiera cosa en que os hubiere menester: porque ella ha ayudado á muchos, y á mí mismo.
 

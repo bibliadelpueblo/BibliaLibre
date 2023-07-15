@@ -1,5 +1,6 @@
 ## El título que indica el origen, el propósito y el significado de esta fuente
-# 1 
+\hypertarget{section-66-1}{%
+\section{1}\label{section-66-1}}
 \bibleverse{1} La revelación de Jesucristo, que Dios le dió, para manifestar á sus siervos las cosas que deben suceder presto; y la declaró, enviándola por su ángel á Juan su siervo, 
 \bibleverse{2} El cual ha dado testimonio de la palabra de Dios, y del testimonio de Jesucristo, y de todas las cosas que ha visto.
 
@@ -39,7 +40,8 @@
 \bibleverse{20} El misterio de las siete estrellas que has visto en mi diestra, y los siete candeleros de oro. Las siete estrellas son los ángeles de las siete iglesias; y los siete candeleros que has visto, son las siete iglesias. 
 
 ## Carta a la iglesia en Éfeso: “¡No dejes el primer amor!”
-# 2 
+\hypertarget{section-66-2}{%
+\section{2}\label{section-66-2}}
 \bibleverse{1} Escribe al ángel de la iglesia en Efeso: El que tiene las siete estrellas en su diestra, el cual anda en medio de los siete candeleros de oro, dice estas cosas:
 
  
@@ -88,7 +90,8 @@
 \bibleverse{29} El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
 
 ## Carta a la comunidad de Sardis: “¡No estés muerto como los demás!”
-# 3 
+\hypertarget{section-66-3}{%
+\section{3}\label{section-66-3}}
 \bibleverse{1} Y escribe al ángel de la iglesia en Sardis: El que tiene los siete Espíritus de Dios, y las siete estrellas, dice estas cosas: Yo conozco tus obras, que tienes nombre que vives, y estás muerto.
 
  
@@ -125,7 +128,8 @@
 \bibleverse{22} El que tiene oído, oiga lo que el Espíritu dice á las iglesias. 
 
 ## Dios el Padre y el concilio celestial en el salón del trono de Dios
-# 4 
+\hypertarget{section-66-4}{%
+\section{4}\label{section-66-4}}
 \bibleverse{1} Después de estas cosas miré, y he aquí una puerta abierta en el cielo: y la primera voz que oí, era como de trompeta que hablaba conmigo, diciendo: Sube acá, y yo te mostraré las cosas que han de ser después de éstas.
 
  
@@ -143,7 +147,8 @@
 \bibleverse{11} Señor, digno eres de recibir gloria y honra y virtud: porque tú criaste todas las cosas, y por tu voluntad tienen ser y fueron criadas. 
 
 ## El libro del destino con los siete sellos y el Cordero de Dios en el trono
-# 5 
+\hypertarget{section-66-5}{%
+\section{5}\label{section-66-5}}
 \bibleverse{1} Y vi en la mano derecha del que estaba sentado sobre el trono un libro escrito de dentro y de fuera, sellado con siete sellos. 
 \bibleverse{2} Y vi un fuerte ángel predicando en alta voz: ¿Quién es digno de abrir el libro, y de desatar sus sellos? 
 \bibleverse{3} Y ninguno podía, ni en el cielo, ni en la tierra, ni debajo de la tierra, abrir el libro, ni mirarlo. 
@@ -169,7 +174,8 @@
 \bibleverse{14} Y los cuatro animales decían: Amén. Y los veinticuatro ancianos cayeron sobre sus rostros, y adoraron al que vive para siempre jamás. 
 
 ## La apertura de los primeros seis sellos por el Cordero; Los cuatro jinetes
-# 6 
+\hypertarget{section-66-6}{%
+\section{6}\label{section-66-6}}
 \bibleverse{1} Y miré cuando el Cordero abrió uno de los sellos, y oí á uno de los cuatro animales diciendo como con una voz de trueno: Ven y ve. 
 \bibleverse{2} Y miré, y he aquí un caballo blanco: y el que estaba sentado encima de él, tenía un arco; y le fué dada una corona, y salió victorioso, para que también venciese.
 
@@ -201,7 +207,8 @@
 \bibleverse{17} Porque el gran día de su ira es venido; ¿y quién podrá estar firme? 
 
 ## El sellamiento de una selección (de 144.000 de las doce tribus de Israel)
-# 7 
+\hypertarget{section-66-7}{%
+\section{7}\label{section-66-7}}
 \bibleverse{1} Y después de estas cosas vi cuatro ángeles que estaban sobre los cuatro ángulos de la tierra, deteniendo los cuatro vientos de la tierra, para que no soplase viento sobre la tierra, ni sobre la mar, ni sobre ningún árbol. 
 \bibleverse{2} Y vi otro ángel que subía del nacimiento del sol, teniendo el sello del Dios vivo: y clamó con gran voz á los cuatro ángeles, á los cuales era dado hacer daño á la tierra y á la mar, 
 \bibleverse{3} Diciendo: No hagáis daño á la tierra, ni al mar, ni á los árboles, hasta que señalemos á los siervos de nuestro Dios en sus frentes. 
@@ -232,7 +239,8 @@
 \bibleverse{17} Porque el Cordero que está en medio del trono los pastoreará, y los guiará á fuentes vivas de aguas: y Dios limpiará toda lágrima de los ojos de ellos. 
 
 ## La solución del séptimo sello y el silencio en el cielo (presentando los juicios de las trompetas)
-# 8 
+\hypertarget{section-66-8}{%
+\section{8}\label{section-66-8}}
 \bibleverse{1} Y cuando él abrió el séptimo sello, fué hecho silencio en el cielo casi por media hora. 
 \bibleverse{2} Y vi los siete ángeles que estaban delante de Dios; y les fueron dadas siete trompetas.
 
@@ -264,7 +272,8 @@
 \bibleverse{13} Y miré, y oí un ángel volar por medio del cielo, diciendo en alta voz: ¡Ay! ¡ay! ¡ay! de los que moran en la tierra, por razón de las otras voces de trompeta de los tres ángeles que han de tocar! 
 
 ## La quinta trompeta o el primer ay
-# 9 
+\hypertarget{section-66-9}{%
+\section{9}\label{section-66-9}}
 \bibleverse{1} Y el quinto ángel tocó la trompeta, y vi una estrella que cayó del cielo en la tierra; y le fué dada la llave del pozo del abismo. 
 \bibleverse{2} Y abrió el pozo del abismo, y subió humo del pozo como el humo de un gran horno; y oscurecióse el sol y el aire por el humo del pozo. 
 \bibleverse{3} Y del humo salieron langostas sobre la tierra; y fuéles dada potestad, como tienen potestad los escorpiones de la tierra. 
@@ -299,7 +308,8 @@
 \bibleverse{21} Y no se arrepintieron de sus homicidios, ni de sus hechicerías, ni de su fornicación, ni de sus hurtos. 
 
 ## Un ángel sostiene un libro abierto y jura
-# 10 
+\hypertarget{section-66-10}{%
+\section{10}\label{section-66-10}}
 \bibleverse{1} Y vi otro ángel fuerte descender del cielo, cercado de una nube, y el arco celeste sobre su cabeza; y su rostro era como el sol, y sus pies como columnas de fuego. 
 \bibleverse{2} Y tenía en su mano un librito abierto: y puso su pie derecho sobre el mar, y el izquierdo sobre la tierra; 
 \bibleverse{3} Y clamó con grande voz, como cuando un león ruge: y cuando hubo clamado, siete truenos hablaron sus voces. 
@@ -322,7 +332,8 @@
 \bibleverse{11} Y él me dice: Necesario es que otra vez profetices á muchos pueblos y gentes y lenguas y reyes. 
 
 ## La medida del templo; la preservación de los fieles durante la intensa visita de los gentiles a la ciudad santa
-# 11 
+\hypertarget{section-66-11}{%
+\section{11}\label{section-66-11}}
 \bibleverse{1} Y me fué dada una caña semejante á una vara, y se me dijo: Levántate, y mide el templo de Dios, y el altar, y á los que adoran en él. 
 \bibleverse{2} Y echa fuera el patio que está fuera del templo, y no lo midas, porque es dado á los Gentiles; y hollarán la ciudad santa cuarenta y dos meses.
 
@@ -362,7 +373,8 @@
 \bibleverse{19} Y el templo de Dios fué abierto en el cielo, y el arca de su testamento fué vista en su templo. Y fueron hechos relámpagos y voces y truenos y terremotos y grande granizo. 
 
 ## La Mujer Sol y el Dragón; Rescate de la mujer y su hijo recién nacido
-# 12 
+\hypertarget{section-66-12}{%
+\section{12}\label{section-66-12}}
 \bibleverse{1} Y una grande señal apareció en el cielo: una mujer vestida del sol, y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas. 
 \bibleverse{2} Y estando preñada, clamaba con dolores de parto, y sufría tormento por parir.
 
@@ -392,7 +404,8 @@
 \bibleverse{17} Entonces el dragón fué airado contra la mujer; y se fué á hacer guerra contra los otros de la simiente de ella, los cuales guardan los mandamientos de Dios, y tienen el testimonio de Jesucristo. 
 
 ## La primera bestia del mar, de diez cuernos y siete cabezas; Amonestación a perseverar
-# 13 
+\hypertarget{section-66-13}{%
+\section{13}\label{section-66-13}}
 \bibleverse{1} Y yo me paré sobre la arena del mar, y vi una bestia subir del mar, que tenía siete cabezas y diez cuernos; y sobre sus cuernos diez diademas; y sobre las cabezas de ella nombre de blasfemia. 
 \bibleverse{2} Y la bestia que vi, era semejante á un leopardo, y sus pies como de oso, y su boca como boca de león. Y el dragón le dió su poder, y su trono, y grande potestad. 
 \bibleverse{3} Y vi una de sus cabezas como herida de muerte, y la llaga de su muerte fué curada: y se maravilló toda la tierra en pos de la bestia. 
@@ -417,7 +430,8 @@
 \bibleverse{18} Aquí hay sabiduría. El que tiene entendimiento, cuente el número de la bestia; porque es el número de hombre: y el número de ella, seiscientos sesenta y seis. 
 
 ## El Cordero y la iglesia perfecta de los 144.000 en el monte Sion
-# 14 
+\hypertarget{section-66-14}{%
+\section{14}\label{section-66-14}}
 \bibleverse{1} Y miré, y he aquí, el Cordero estaba sobre el monte de Sión, y con él ciento cuarenta y cuatro mil, que tenían el nombre de su Padre escrito en sus frentes. 
 \bibleverse{2} Y oí una voz del cielo como ruido de muchas aguas, y como sonido de un gran trueno: y oí una voz de tañedores de arpas que tañían con sus arpas: 
 \bibleverse{3} Y cantaban como un cántico nuevo delante del trono, y delante de los cuatro animales, y de los ancianos: y ninguno podía aprender el cántico sino aquellos ciento cuarenta y cuatro mil, los cuales fueron comprados de entre los de la tierra. 
@@ -457,7 +471,8 @@
 \bibleverse{20} Y el lagar fué hollado fuera de la ciudad, y del lagar salió sangre hasta los frenos de los caballos por mil y seiscientos estadios. 
 
 ## Los siete ángeles con las siete últimas plagas; la alabanza de los vencedores en el mar de cristal
-# 15 
+\hypertarget{section-66-15}{%
+\section{15}\label{section-66-15}}
 \bibleverse{1} Y vi otra señal en el cielo, grande y admirable, que era siete ángeles que tenían las siete plagas postreras; porque en ellas es consumada la ira de Dios.
 
  
@@ -475,7 +490,8 @@
 \bibleverse{8} Y fué el templo lleno de humo por la majestad de Dios, y por su potencia; y ninguno podía entrar en el templo, hasta que fuesen consumadas las siete plagas de los siete ángeles. 
 
 ## El derramamiento de los siete tazones de ira
-# 16 
+\hypertarget{section-66-16}{%
+\section{16}\label{section-66-16}}
 \bibleverse{1} Y oí una gran voz del templo, que decía á los siete ángeles: Id, y derramad las siete copas de la ira de Dios sobre la tierra.
 
  
@@ -517,7 +533,8 @@
 \bibleverse{21} Y cayó del cielo sobre los hombres un grande granizo como del peso de un talento: y los hombres blasfemaron de Dios por la plaga del granizo; porque su plaga fué muy grande. 
 
 ## Descripción de la espléndida pero abominable mujer entronizada sobre la bestia
-# 17 
+\hypertarget{section-66-17}{%
+\section{17}\label{section-66-17}}
 \bibleverse{1} Y vino uno de los siete ángeles que tenían las siete copas, y habló conmigo, diciéndome: Ven acá, y te mostraré la condenación de la grande ramera, la cual está sentada sobre muchas aguas: 
 \bibleverse{2} Con la cual han fornicado los reyes de la tierra, y los que moran en la tierra se han embriagado con el vino de su fornicación. 
 \bibleverse{3} Y me llevó en Espíritu al desierto; y vi una mujer sentada sobre una bestia bermeja llena de nombres de blasfemia y que tenía siete cabezas y diez cuernos. 
@@ -546,7 +563,8 @@
 \bibleverse{18} Y la mujer que has visto, es la grande ciudad que tiene reino sobre los reyes de la tierra. 
 
 ## Anuncio del juicio que cae sobre Babilonia; La primera llamada del ángel
-# 18 
+\hypertarget{section-66-18}{%
+\section{18}\label{section-66-18}}
 \bibleverse{1} Y después de estas cosas vi otro ángel descender del cielo teniendo grande potencia; y la tierra fué alumbrada de su gloria. 
 \bibleverse{2} Y clamó con fortaleza en alta voz, diciendo: Caída es, caída es la grande Babilonia, y es hecha habitación de demonios, y guarida de todo espíritu inmundo, y albergue de todas aves sucias y aborrecibles. 
 \bibleverse{3} Porque todas las gentes han bebido del vino del furor de su fornicación; y los reyes de la tierra han fornicado con ella, y los mercaderes de la tierra se han enriquecido de la potencia de sus deleites.
@@ -585,7 +603,8 @@
 \bibleverse{24} Y en ella fué hallada la sangre de los profetas y de los santos, y de todos los que han sido muertos en la tierra. 
 
 ## El júbilo en el cielo por la caída de Babilonia; la próxima boda del Cordero
-# 19 
+\hypertarget{section-66-19}{%
+\section{19}\label{section-66-19}}
 \bibleverse{1} Después de estas cosas oí una gran voz de gran compañía en el cielo, que decía: Aleluya: Salvación y honra y gloria y potencia al Señor Dios nuestro. 
 \bibleverse{2} Porque sus juicios son verdaderos y justos; porque él ha juzgado á la grande ramera, que ha corrompido la tierra con su fornicación, y ha vengado la sangre de sus siervos de la mano de ella.
 
@@ -624,7 +643,8 @@
 \bibleverse{21} Y los otros fueron muertos con la espada que salía de la boca del que estaba sentado sobre el caballo, y todas las aves fueron hartas de las carnes de ellos. 
 
 ## Encadenamiento de Satanás; la primera resurrección y el reino milenario de paz
-# 20 
+\hypertarget{section-66-20}{%
+\section{20}\label{section-66-20}}
 \bibleverse{1} Y vi un ángel descender del cielo, que tenía la llave del abismo, y una grande cadena en su mano. 
 \bibleverse{2} Y prendió al dragón, aquella serpiente antigua, que es el Diablo y Satanás, y le ató por mil años; 
 \bibleverse{3} Y arrojólo al abismo, y le encerró, y selló sobre él, porque no engañe más á las naciones, hasta que mil años sean cumplidos: y después de esto es necesario que sea desatado un poco de tiempo.
@@ -649,7 +669,8 @@
 \bibleverse{14} Y el infierno y la muerte fueron lanzados en el lago de fuego. Esta es la muerte segunda. 
 \bibleverse{15} Y el que no fué hallado escrito en el libro de la vida, fué lanzado en el lago de fuego. 
 
-# 21 
+\hypertarget{section-66-21}{%
+\section{21}\label{section-66-21}}
 \bibleverse{1} Y vi un cielo nuevo, y una tierra nueva: porque el primer cielo y la primera tierra se fueron, y el mar ya no es.
 
 ## La nueva Jerusalén como morada de Dios con el pueblo y la promesa y el juicio de Dios
@@ -691,7 +712,8 @@
 \bibleverse{27} No entrará en ella ninguna cosa sucia, ó que hace abominación y mentira; sino solamente los que están escritos en el libro de la vida del Cordero. 
 
 ## La corriente de la vida, los árboles de la vida, la comunión plena con Dios y el reino eterno de la luz
-# 22 
+\hypertarget{section-66-22}{%
+\section{22}\label{section-66-22}}
 \bibleverse{1} Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. 
 \bibleverse{2} En el medio de la plaza de ella, y de la una y de la otra parte del río, estaba el árbol de la vida, que lleva doce frutos, dando cada mes su fruto: y las hojas del árbol eran para la sanidad de las naciones. 
 \bibleverse{3} Y no habrá más maldición; sino que el trono de Dios y del Cordero estará en ella, y sus siervos le servirán. 

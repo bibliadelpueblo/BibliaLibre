@@ -1,5 +1,6 @@
 ## Anuncio y ejecución segura del juicio divino sobre los edomitas
-# 1 
+\hypertarget{section-31-1}{%
+\section{1}\label{section-31-1}}
 \bibleverse{1} Visión de Abdías. El Señor Jehová ha dicho así cuanto á Edom: Oído hemos el pregón de Jehová, y mensajero es enviado á las gentes. Levantaos, y levantémonos contra ella en batalla. 
 \bibleverse{2} He aquí, pequeño te he hecho entre las gentes; abatido eres tú en gran manera. 
 \bibleverse{3} La soberbia de tu corazón te ha engañado, tú que moras en las hendiduras de las peñas, en tu altísima morada; que dices en tu corazón: ¿Quién me derribará á tierra? 

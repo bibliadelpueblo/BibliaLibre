@@ -1,5 +1,6 @@
 ## Repaso de las experiencias en el desierto
-# 1 
+\hypertarget{section-05-1}{%
+\section{1}\label{section-05-1}}
 \bibleverse{1} Estas son las palabras que habló Moisés á todo Israel de esta parte del Jordán en el desierto, en el llano delante del mar Bermejo, entre Parán, y Thopel, y Labán, y Haseroth, y Dizahab. 
 \bibleverse{2} Once jornadas hay desde Horeb, camino del monte de Seir, hasta Cades-barnea. 
 \bibleverse{3} Y fué, que á los cuarenta años, en el mes undécimo, al primero del mes, Moisés habló á los hijos de Israel conforme á todas las cosas que Jehová le había mandado acerca de ellos; 
@@ -81,7 +82,8 @@
 \bibleverse{46} Y estuvisteis en Cades por muchos días, como en los días que habéis estado. 
 
 ## Mirando hacia atrás en el viaje pacífico a través de la tierra de los edomitas y los moabitas; Prohibición de atacar a los amonitas; Derrota del rey amorreo Sehon
-# 2 
+\hypertarget{section-05-2}{%
+\section{2}\label{section-05-2}}
 \bibleverse{1} Y volvimos, y partímonos al desierto camino del mar Bermejo, como Jehová me había dicho; y rodeamos el monte de Seir por muchos días.
 
  
@@ -144,7 +146,8 @@
 \bibleverse{37} Solamente á la tierra de los hijos de Ammón no llegaste, ni á todo lo que está á la orilla del arroyo de Jaboc ni á las ciudades del monte, ni á lugar alguno que Jehová nuestro Dios había prohibido. 
 
 ## Revisión de la derrota del rey Og de Basan y la distribución del Banco del este; Ánimo de Josué
-# 3 
+\hypertarget{section-05-3}{%
+\section{3}\label{section-05-3}}
 \bibleverse{1} Y volvimos, y subimos camino de Basán, y saliónos al encuentro Og rey de Basán para pelear, él y todo su pueblo, en Edrei. 
 \bibleverse{2} Y díjome Jehová: No tengas temor de él, porque en tu mano he entregado á él y á todo su pueblo, y su tierra: y harás con él como hiciste con Sehón rey Amorrheo, que habitaba en Hesbón.
 
@@ -191,7 +194,8 @@
 \bibleverse{29} Y paramos en el valle delante de Beth-peor. 
 
 ## Exhortación a observar estrictamente los mandamientos divinos y advertencia contra el servicio de imágenes y la idolatría
-# 4 
+\hypertarget{section-05-4}{%
+\section{4}\label{section-05-4}}
 \bibleverse{1} Ahora pues, oh Israel, oye los estatutos y derechos que yo os enseño, para que los ejecutéis, y viváis, y entréis, y poseáis la tierra que Jehová el Dios de vuestros padres te da. 
 \bibleverse{2} No añadiréis á la palabra que yo os mando, ni disminuiréis de ella, para que guardéis los mandamientos de Jehová vuestro Dios que yo os ordeno. 
 \bibleverse{3} Vuestros ojos vieron lo que hizo Jehová con motivo de Baal-peor; que á todo hombre que fué en pos de Baal-peor destruyó Jehová tu Dios de en medio de ti. 
@@ -258,7 +262,8 @@
 \bibleverse{49} Y toda la llanura de esta parte del Jordán, al oriente, hasta la mar del llano, las vertientes de las aguas abajo del Pisga. 
 
 ## Memoria de la revelación de Dios en Horeb; la Ley Fundamental de los Diez Mandamientos; Moisés reconocido por Dios como mediador
-# 5 
+\hypertarget{section-05-5}{%
+\section{5}\label{section-05-5}}
 \bibleverse{1} Y llamó Moisés á todo Israel, y díjoles: Oye, Israel, los estatutos y derechos que yo pronuncio hoy en vuestros oídos: y aprendedlos, y guardadlos, para ponerlos por obra. 
 \bibleverse{2} Jehová nuestro Dios hizo pacto con nosotros en Horeb. 
 \bibleverse{3} No con nuestros padres hizo Jehová este pacto, sino con nosotros todos los que estamos aquí hoy vivos. 
@@ -326,7 +331,8 @@
 \bibleverse{33} Andad en todo camino que Jehová vuestro Dios os ha mandado, para que viváis, y os vaya bien, y tengáis largos días en la tierra que habéis de poseer. 
 
 ## Explique y promulgue los dos mandamientos básicos: la adoración a Dios únicamente y el amor a Dios
-# 6 
+\hypertarget{section-05-6}{%
+\section{6}\label{section-05-6}}
 \bibleverse{1} Estos pues son los mandamientos, estatutos, y derechos que Jehová vuestro Dios mandó que os enseñase, para que los pongáis por obra en la tierra á la cual pasáis vosotros para poseerla: 
 \bibleverse{2} Para que temas á Jehová tu Dios, guardando todos sus estatutos y sus mandamientos que yo te mando, tú, y tu hijo, y el hijo de tu hijo, todos los días de tu vida, y que tus días sean prolongados. 
 \bibleverse{3} Oye pues, oh Israel, y cuida de ponerlos por obra, para que te vaya bien, y seáis multiplicados, como te ha dicho Jehová el Dios de tus padres, en la tierra que destila leche y miel.
@@ -365,7 +371,8 @@
 \bibleverse{25} Y tendremos justicia cuando cuidáremos de poner por obra todos estos mandamientos delante de Jehová nuestro Dios, como él nos ha mandado. 
 
 ## Los cananeos idólatras y su idolatría serán eliminados; cualquier conexión con ellos es pecaminosa
-# 7 
+\hypertarget{section-05-7}{%
+\section{7}\label{section-05-7}}
 \bibleverse{1} Cuando Jehová tu Dios te hubiere introducido en la tierra en la cual tú has de entrar para poseerla, y hubiere echado de delante de ti muchas gentes, al Hetheo, al Gergeseo, y al Amorrheo, y al Cananeo, y al Pherezeo, y al Heveo, y al Jebuseo, siete naciones mayores y más fuertes que tú; 
 \bibleverse{2} Y Jehová tu Dios las hubiere entregado delante de ti, y las hirieres, del todo las destruirás: no harás con ellos alianza, ni las tomarás á merced. 
 \bibleverse{3} Y no emparentarás con ellos: no darás tu hija á su hijo, ni tomarás á su hija para tu hijo. 
@@ -399,7 +406,8 @@
 \bibleverse{26} Y no meterás abominación en tu casa, porque no seas anatema como ello; del todo lo aborrecerás y lo abominarás; porque es anatema. 
 
 ## Recordatorio de obedecer la ley divina y estar agradecido con Dios por los beneficios mostrados durante la caminata por el desierto
-# 8 
+\hypertarget{section-05-8}{%
+\section{8}\label{section-05-8}}
 \bibleverse{1} Cuidaréis de poner por obra todo mandamiento que yo os ordeno hoy, porque viváis, y seáis multiplicados, y entréis, y poseáis la tierra, de la cual juró Jehová á vuestros padres. 
 \bibleverse{2} Y acordarte has de todo el camino por donde te ha traído Jehová tu Dios estos cuarenta años en el desierto, para afligirte, por probarte, para saber lo que estaba en tu corazón, si habías de guardar ó no sus mandamientos. 
 \bibleverse{3} Y te afligió, é hízote tener hambre, y te sustentó con maná, comida que no conocías tú, ni tus padres la habían conocido; para hacerte saber que el hombre no vivirá de solo pan, mas de todo lo que sale de la boca de Jehová vivirá el hombre. 
@@ -430,7 +438,8 @@
 \bibleverse{20} Como las gentes que Jehová destruirá delante de vosotros, así pereceréis; por cuanto no habréis atendido á la voz de Jehová vuestro Dios. 
 
 ## Advertencia de justicia propia; Referencia a la evidencia anterior de la desobediencia y la terquedad del pueblo
-# 9 
+\hypertarget{section-05-9}{%
+\section{9}\label{section-05-9}}
 \bibleverse{1} Oye, Israel: tú estás hoy para pasar el Jordán, para entrar á poseer gentes más numerosas y más fuertes que tú, ciudades grandes y encastilladas hasta el cielo, 
 \bibleverse{2} Un pueblo grande y alto, hijos de gigantes, de los cuales tienes tú conocimiento, y has oído decir: ¿Quién se sostendrá delante de los hijos del gigante? 
 \bibleverse{3} Sabe, pues, hoy que Jehová tu Dios es el que pasa delante de ti, fuego consumidor, que los destruirá y humillará delante de ti: y tú los echarás, y los destruirás luego, como Jehová te ha dicho.
@@ -478,7 +487,8 @@
 \bibleverse{28} Porque no digan los de la tierra de donde nos sacaste: Por cuanto no pudo Jehová introducirlos en la tierra que les había dicho, ó porque los aborrecía, los sacó para matarlos en el desierto. 
 \bibleverse{29} Y ellos son tu pueblo y tu heredad, que sacaste con tu gran fortaleza y con tu brazo extendido. 
 
-# 10 
+\hypertarget{section-05-10}{%
+\section{10}\label{section-05-10}}
 \bibleverse{1} En aquel tiempo Jehová me dijo: Lábrate dos tablas de piedra como las primeras, y sube á mí al monte, y hazte un arca de madera: 
 \bibleverse{2} Y escribiré en aquellas tablas las palabras que estaban en las tablas primeras que quebraste; y las pondrás en el arca. 
 \bibleverse{3} E hice un arca de madera de Sittim, y labré dos tablas de piedra como las primeras, y subí al monte con las dos tablas en mi mano. 
@@ -510,7 +520,8 @@
 \bibleverse{22} Con setenta almas descendieron tus padres á Egipto; y ahora Jehová te ha hecho como las estrellas del cielo en multitud. 
 
 ## Referencia a los juicios destructivos de Dios experimentados personalmente
-# 11 
+\hypertarget{section-05-11}{%
+\section{11}\label{section-05-11}}
 \bibleverse{1} Amarás pues á Jehová tu Dios, y guardarás su ordenanza, y sus estatutos y sus derechos y sus mandamientos, todos los días. 
 \bibleverse{2} Y comprended hoy: porque no hablo con vuestros hijos que no han sabido ni visto el castigo de Jehová vuestro Dios, su grandeza, su mano fuerte, y su brazo extendido, 
 \bibleverse{3} Y sus señales, y sus obras que hizo en medio de Egipto á Faraón, rey de Egipto, y á toda su tierra; 
@@ -556,7 +567,8 @@
 \bibleverse{32} Cuidaréis, pues, de poner por obra todos los estatutos y derechos que yo presento hoy delante de vosotros. 
 
 ## Establecimiento de la Ley Básica: Dios solo puede ser adorado a través del sacrificio en un lugar elegido por Dios
-# 12 
+\hypertarget{section-05-12}{%
+\section{12}\label{section-05-12}}
 \bibleverse{1} Estos son los estatutos y derechos que cuidaréis de poner por obra, en la tierra que Jehová el Dios de tus padres te ha dado para que la poseas, todos los días que vosotros viviereis sobre la tierra. 
 \bibleverse{2} Destruiréis enteramente todos los lugares donde las gentes que vosotros heredareis sirvieron á sus dioses, sobre los montes altos, y sobre los collados, y debajo de todo árbol espeso: 
 \bibleverse{3} Y derribaréis sus altares, y quebraréis sus imágenes, y sus bosques consumiréis con fuego: y destruiréis las esculturas de sus dioses, y extirparéis el nombre de ellas de aquel lugar. 
@@ -601,7 +613,8 @@
 \bibleverse{32} Cuidaréis de hacer todo lo que yo os mando: no añadirás á ello, ni quitarás de ello. 
 
 ## El castigo más severo de todos los falsos profetas y parientes cercanos idólatras
-# 13 
+\hypertarget{section-05-13}{%
+\section{13}\label{section-05-13}}
 \bibleverse{1} Cuando se levantare en medio de ti profeta, ó soñador de sueños, y te diere señal ó prodigio, 
 \bibleverse{2} Y acaeciere la señal ó prodigio que él te dijo, diciendo: Vamos en pos de dioses ajenos, que no conociste, y sirvámosles; 
 \bibleverse{3} No darás oído á las palabras de tal profeta, ni al tal soñador de sueños: porque Jehová vuestro Dios os prueba, para saber si amáis á Jehová vuestro Dios con todo vuestro corazón, y con toda vuestra alma. 
@@ -627,7 +640,8 @@
 \bibleverse{18} Cuando obedecieres á la voz de Jehová tu Dios, guardando todos sus mandamientos que yo te prescribo hoy, para hacer lo recto en ojos de Jehová tu Dios. 
 
 ## Prohibición de las costumbres paganas de duelo y los alimentos inmundos
-# 14 
+\hypertarget{section-05-14}{%
+\section{14}\label{section-05-14}}
 \bibleverse{1} Hijos sois de Jehová vuestro Dios: no os sajaréis, ni pondréis calva sobre vuestros ojos por muerto; 
 \bibleverse{2} Porque eres pueblo santo á Jehová tu Dios, y Jehová te ha escogido para que le seas un pueblo singular de entre todos los pueblos que están sobre la haz de la tierra.
 
@@ -666,7 +680,8 @@
 \bibleverse{29} Y vendrá el Levita, que no tiene parte ni heredad contigo, y el extranjero, y el huérfano, y la viuda, que hubiere en tus poblaciones, y comerán y serán saciados; para que Jehová tu Dios te bendiga en toda obra de tus manos que hicieres. 
 
 ## Regulaciones sobre la cancelación de la deuda cada siete años y la liberación de esclavos hebreos
-# 15 
+\hypertarget{section-05-15}{%
+\section{15}\label{section-05-15}}
 \bibleverse{1} Al cabo de siete años harás remisión. 
 \bibleverse{2} Y esta es la manera de la remisión: perdonará á su deudor todo aquél que hizo empréstito de su mano, con que obligó á su prójimo: no lo demandará más á su prójimo, ó á su hermano; porque la remisión de Jehová es pregonada. 
 \bibleverse{3} Del extranjero demandarás el reintegro: mas lo que tu hermano tuviere tuyo, lo perdonará tu mano; 
@@ -701,7 +716,8 @@
 \bibleverse{23} Solamente que no comas su sangre: sobre la tierra la derramarás como agua. 
 
 ## Normativa sobre los tres principales festivales anuales
-# 16 
+\hypertarget{section-05-16}{%
+\section{16}\label{section-05-16}}
 \bibleverse{1} Guardarás el mes de Abib, y harás pascua á Jehová tu Dios: porque en el mes de Abib te sacó Jehová tu Dios de Egipto de noche. 
 \bibleverse{2} Y sacrificarás la pascua á Jehová tu Dios, de las ovejas y de las vacas, en el lugar que Jehová escogiere para hacer habitar allí su nombre. 
 \bibleverse{3} No comerás con ella leudo; siete días comerás con ella pan por leudar, pan de aflicción, porque apriesa saliste de tierra de Egipto: para que te acuerdes del día en que saliste de la tierra de Egipto todos los días de tu vida. 
@@ -735,7 +751,8 @@
 \bibleverse{21} No te plantarás bosque de ningún árbol cerca del altar de Jehová tu Dios, que tú te habrás hecho. 
 \bibleverse{22} Ni te levantarás estatua; lo cual aborrece Jehová tu Dios. 
 
-# 17 
+\hypertarget{section-05-17}{%
+\section{17}\label{section-05-17}}
 \bibleverse{1} No sacrificarás á Jehová tu Dios buey, ó cordero, en el cual haya falta ó alguna cosa mala: porque es abominación á Jehová tu Dios.
 
 ## Castigo por la idolatría
@@ -769,7 +786,8 @@
 \bibleverse{20} Para que no se eleve su corazón sobre sus hermanos, ni se aparte del mandamiento á diestra ni á siniestra: á fin que prolongue sus días en su reino, él y sus hijos, en medio de Israel. 
 
 ## Ingresos y derechos de los sacerdotes levitas que ofician en el santuario y de los levitas en general
-# 18 
+\hypertarget{section-05-18}{%
+\section{18}\label{section-05-18}}
 \bibleverse{1} Los sacerdotes Levitas, toda la tribu de Leví, no tendrán parte ni heredad con Israel; de las ofrendas encendidas á Jehová, y de la heredad de él comerán. 
 \bibleverse{2} No tendrán, pues, heredad entre sus hermanos: Jehová es su heredad, como él les ha dicho. 
 \bibleverse{3} Y este será el derecho de los sacerdotes de parte del pueblo, de los que ofrecieren en sacrificio buey ó cordero: darán al sacerdote la espalda, y las quijadas, y el cuajar. 
@@ -803,7 +821,8 @@
 \bibleverse{22} Cuando el profeta hablare en nombre de Jehová, y no fuere la tal cosa, ni viniere, es palabra que Jehová no ha hablado: con soberbia la habló aquel profeta: no tengas temor de él. 
 
 ## Separación de tres a seis ciudades libres para aliviar la venganza de sangre
-# 19 
+\hypertarget{section-05-19}{%
+\section{19}\label{section-05-19}}
 \bibleverse{1} Cuando Jehová tu Dios talare las gentes, cuya tierra Jehová tu Dios te da á ti, y tú las heredares, y habitares en sus ciudades, y en sus casas; 
 \bibleverse{2} Te apartarás tres ciudades en medio de tu tierra que Jehová tu Dios te da para que la poseas. 
 \bibleverse{3} Arreglarte has el camino, y dividirás en tres partes el término de tu tierra, que Jehová tu Dios te dará en heredad, y será para que todo homicida se huya allí. 
@@ -832,7 +851,8 @@
 \bibleverse{21} Y no perdonará tu ojo: vida por vida, ojo por ojo, diente por diente, mano por mano, pie por pie. 
 
 ## Comportamiento hacia la propia gente; Leyes sobre exención del servicio militar
-# 20 
+\hypertarget{section-05-20}{%
+\section{20}\label{section-05-20}}
 \bibleverse{1} Cuando salieres á la guerra contra tus enemigos, y vieres caballos y carros, un pueblo más grande que tú, no tengas temor de ellos, que Jehová tu Dios es contigo, el cual te sacó de tierra de Egipto. 
 \bibleverse{2} Y será que, cuando os acercareis para combatir, llegaráse el sacerdote, y hablará al pueblo, 
 \bibleverse{3} Y les dirá: Oye, Israel, vosotros os juntáis hoy en batalla contra vuestros enemigos: no se ablande vuestro corazón, no temáis, no os azoréis, ni tampoco os desalentéis delante de ellos; 
@@ -860,7 +880,8 @@
 \bibleverse{20} Mas el árbol que supieres que no es árbol para comer, lo destruirás y lo talarás, y construye baluarte contra la ciudad que pelea contigo, hasta sojuzgarla. 
 
 ## Expiación por un asesinato cometido por mano desconocida
-# 21 
+\hypertarget{section-05-21}{%
+\section{21}\label{section-05-21}}
 \bibleverse{1} Cuando fuere hallado en la tierra que Jehová tu Dios te da para que la poseas, muerto echado en el campo, y no se supiere quién lo hirió, 
 \bibleverse{2} Entonces tus ancianos y tus jueces saldrán y medirán hasta las ciudades que están alrededor del muerto: 
 \bibleverse{3} Y será, que los ancianos de aquella ciudad, de la ciudad más cercana al muerto, tomarán de la vacada una becerra que no haya servido, que no haya traído yugo; 
@@ -898,7 +919,8 @@
 \bibleverse{23} No estará su cuerpo por la noche en el madero, mas sin falta lo enterrarás el mismo día, porque maldición de Dios es el colgado: y no contaminarás tu tierra, que Jehová tu Dios te da por heredad. 
 
 ## Algunos deberes queridos en apuros del vecino; Devolución de propiedad perdida
-# 22 
+\hypertarget{section-05-22}{%
+\section{22}\label{section-05-22}}
 \bibleverse{1} No verás el buey de tu hermano, ó su cordero, perdidos, y te retirarás de ellos: precisamente los volverás á tu hermano. 
 \bibleverse{2} Y si tu hermano no fuere tu vecino, ó no le conocieres, los recogerás en tu casa, y estarán contigo hasta que tu hermano los busque, y se los devolverás. 
 \bibleverse{3} Y así harás de su asno, así harás también de su vestido, y lo mismo harás con toda cosa perdida de tu hermano que se le perdiere, y tú la hallares: no podrás retraerte de ello. 
@@ -950,7 +972,8 @@
 \bibleverse{30} No tomará alguno la mujer de su padre, ni descubrirá el regazo de su padre. 
 
 ## ¿Quién puede unirse a la iglesia de Israel y quién debe ser excluido?
-# 23 
+\hypertarget{section-05-23}{%
+\section{23}\label{section-05-23}}
 \bibleverse{1} No entrará en la congregación de Jehová el que fuere quebrado, ni el castrado. 
 \bibleverse{2} No entrará bastardo en la congregación de Jehová: ni aun en la décima generación entrará en la congregación de Jehová. 
 \bibleverse{3} No entrará Ammonita ni Moabita en la congregación de Jehová; ni aun en la décima generación entrará en la congregación de Jehová para siempre: 
@@ -989,7 +1012,8 @@
 \bibleverse{24} Cuando entrares en la viña de tu prójimo, comerás uvas hasta saciar tu deseo: mas no pondrás en tu vaso. 
 \bibleverse{25} Cuando entrares en la mies de tu prójimo, podrás cortar espigas con tu mano; mas no aplicarás hoz á la mies de tu prójimo. 
 
-# 24 
+\hypertarget{section-05-24}{%
+\section{24}\label{section-05-24}}
 \bibleverse{1} Cuando alguno tomare mujer y se casare con ella, si no le agradare por haber hallado en ella alguna cosa torpe, le escribirá carta de repudio, y se la entregará en su mano, y despedirála de su casa. 
 \bibleverse{2} Y salida de su casa, podrá ir y casarse con otro hombre. 
 \bibleverse{3} Y si la aborreciere aqueste último, y le escribiere carta de repudio, y se la entregare en su mano, y la despidiere de su casa; ó si muriere el postrer hombre que la tomó para sí por mujer, 
@@ -1032,7 +1056,8 @@
 \bibleverse{22} Y acuérdate que fuiste siervo en tierra de Egipto: por tanto, yo te mando que hagas esto. 
 
 ## Moderación en el castigo corporal en la corte; Amabilidad con una mascota que trabaja
-# 25 
+\hypertarget{section-05-25}{%
+\section{25}\label{section-05-25}}
 \bibleverse{1} Cuando hubiere pleito entre algunos, y vinieren á juicio, y los juzgaren, y absolvieren al justo y condenaren al inicuo, 
 \bibleverse{2} Será que, si el delincuente mereciere ser azotado, entonces el juez lo hará echar en tierra, y harále azotar delante de sí, según su delito, por cuenta. 
 \bibleverse{3} Harále dar cuarenta azotes, no más: no sea que, si lo hiriere con muchos azotes á más de éstos, se envilezca tu hermano delante de tus ojos.
@@ -1069,7 +1094,8 @@
 \bibleverse{19} Será pues, cuando Jehová tu Dios te hubiere dado reposo de tus enemigos alrededor, en la tierra que Jehová tu Dios te da por heredad para que la poseas, que raerás la memoria de Amalec de debajo del cielo: no te olvides. 
 
 ## La confesión agradecida en la ofrenda de los primeros frutos en el santuario
-# 26 
+\hypertarget{section-05-26}{%
+\section{26}\label{section-05-26}}
 \bibleverse{1} Y será que, cuando hubieres entrado en la tierra que Jehová tu Dios te da por heredad, y la poseyeres, y habitares en ella; 
 \bibleverse{2} Entonces tomarás de las primicias de todos los frutos de la tierra, que sacares de tu tierra que Jehová tu Dios te da, y lo pondrás en un canastillo, é irás al lugar que Jehová tu Dios escogiere para hacer habitar allí su nombre. 
 \bibleverse{3} Y llegarás al sacerdote que fuere en aquellos días, y le dirás: Reconozco hoy á Jehová tu Dios que he entrado en la tierra que juró Jehová á nuestros padres que nos había de dar. 
@@ -1097,7 +1123,8 @@
 \bibleverse{19} Y para ponerte alto sobre todas las gentes que hizo, para loor, y fama, y gloria; y para que seas pueblo santo á Jehová tu Dios, como él ha dicho. 
 
 ## Colocación de piedras conmemorativas de la ley en Cisjordania; Se erigió un altar en el monte Ebal
-# 27 
+\hypertarget{section-05-27}{%
+\section{27}\label{section-05-27}}
 \bibleverse{1} Y mandó Moisés, con los ancianos de Israel, al pueblo, diciendo: Guardaréis todos los mandamientos que yo prescribo hoy. 
 \bibleverse{2} Y será que, el día que pasareis el Jordán á la tierra que Jehová tu Dios te da, te has de levantar piedras grandes, las cuales revocarás con cal: 
 \bibleverse{3} Y escribirás en ellas todas las palabras de esta ley, cuando hubieres pasado para entrar en la tierra que Jehová tu Dios te da, tierra que fluye leche y miel, como Jehová el Dios de tus padres te ha dicho. 
@@ -1156,7 +1183,8 @@
 \bibleverse{26} Maldito el que no confirmare las palabras de esta ley para cumplirlas. Y dirá todo el pueblo: Amén. 
 
 ## Promesa de ricas bendiciones para el pueblo del convenio
-# 28 
+\hypertarget{section-05-28}{%
+\section{28}\label{section-05-28}}
 \bibleverse{1} Y será que, si oyeres diligente la voz de Jehová tu Dios, para guardar, para poner por obra todos sus mandamientos que yo te prescribo hoy, también Jehová tu Dios te pondrá alto sobre todas las gentes de la tierra; 
 \bibleverse{2} Y vendrán sobre ti todas estas bendiciones, y te alcanzarán, cuando oyeres la voz de Jehová tu Dios. 
 \bibleverse{3} Bendito serás tú en la ciudad, y bendito tú en el campo. 
@@ -1235,7 +1263,8 @@
 \bibleverse{68} Y Jehová te hará tornar á Egipto en navíos por el camino del cual te ha dicho: Nunca más volveréis: y allí seréis vendidos á vuestros enemigos por esclavos y por esclavas, y no habrá quien os compre. 
 
 ## Referencia a los grandes tribunales y beneficios penales divinos anteriores
-# 29 
+\hypertarget{section-05-29}{%
+\section{29}\label{section-05-29}}
 \bibleverse{1} Estas son las palabras del pacto que Jehová mandó á Moisés concertara con los hijos de Israel en la tierra de Moab, además del pacto que concertó con ellos en Horeb. 
 \bibleverse{2} Moisés pues llamó á todo Israel, y díjoles: Vosotros habéis visto todo lo que Jehová ha hecho delante de vuestros ojos en la tierra de Egipto á Faraón y á todos sus siervos, y á toda su tierra:
 
@@ -1281,7 +1310,8 @@
 \bibleverse{29} Las cosas secretas pertenecen á Jehová nuestro Dios: mas las reveladas son para nosotros y para nuestros hijos por siempre, para que cumplamos todas las palabras de esta ley. 
 
 ## Anuncio de la misericordia de Dios por los expulsados, pero luego los arrepentidos; nuevo pacto después de las cortes futuras
-# 30 
+\hypertarget{section-05-30}{%
+\section{30}\label{section-05-30}}
 \bibleverse{1} Y será que, cuando te sobrevinieren todas estas cosas, la bendición y la maldición que he puesto delante de ti, y volvieres á tu corazón en medio de todas las gentes á las cuales Jehová tu Dios te hubiere echado, 
 \bibleverse{2} Y te convirtieres á Jehová tu Dios, y obedecieres á su voz conforme á todo lo que yo te mando hoy, tú y tus hijos, con todo tu corazón y con toda tu alma, 
 \bibleverse{3} Jehová también volverá tus cautivos, y tendrá misericordia de ti, y tornará á recogerte de todos los pueblos á los cuales te hubiere esparcido Jehová tu Dios. 
@@ -1310,7 +1340,8 @@
 \bibleverse{20} Que ames á Jehová tu Dios, que oigas su voz, y te allegues á él; porque él es tu vida, y la longitud de tus días; á fin de que habites sobre la tierra que juró Jehová á tus padres Abraham, Isaac, y Jacob, que les había de dar. 
 
 ## Instalación de Josué para suceder a Moisés
-# 31 
+\hypertarget{section-05-31}{%
+\section{31}\label{section-05-31}}
 \bibleverse{1} Y fué Moisés, y habló estas palabras á todo Israel, 
 \bibleverse{2} Y díjoles: De edad de ciento y veinte años soy hoy día; no puedo más salir ni entrar: á más de esto Jehová me ha dicho: No pasarás este Jordán. 
 \bibleverse{3} Jehová tu Dios, él pasa delante de ti; él destruirá estas gentes de delante de ti, y las heredarás: Josué será el que pasará delante de ti, como Jehová ha dicho. 
@@ -1365,7 +1396,8 @@
 \bibleverse{30} Entonces habló Moisés en oídos de toda la congregación de Israel las palabras de este cántico hasta acabarlo. 
 
 ## El canto de Moisés
-# 32 
+\hypertarget{section-05-32}{%
+\section{32}\label{section-05-32}}
 \bibleverse{1} Escuchad, cielos, y hablaré; y oiga la tierra los dichos de mi boca. 
 \bibleverse{2} Goteará como la lluvia mi doctrina; destilará como el rocío mi razonamiento; como la llovizna sobre la grama, y como las gotas sobre la hierba: 
 \bibleverse{3} Porque el nombre de Jehová invocaré: engrandeced á nuestro Dios. 
@@ -1425,7 +1457,8 @@
 \bibleverse{52} Verás por tanto delante de ti la tierra; mas no entrarás allá, á la tierra que doy á los hijos de Israel. 
 
 ## La bendición de despedida de Moisés sobre las doce tribus de Israel
-# 33 
+\hypertarget{section-05-33}{%
+\section{33}\label{section-05-33}}
 \bibleverse{1} Y esta es la bendición con la cual bendijo Moisés varón de Dios á los hijos de Israel, antes que muriese. 
 \bibleverse{2} Y dijo: Jehová vino de Sinaí, y de Seir les esclareció; resplandeció del monte de Parán, y vino con diez mil santos: á su diestra la ley de fuego para ellos. 
 \bibleverse{3} Aun amó los pueblos; todos sus santos en tu mano: ellos también se llegaron á tus pies: recibieron de tus dichos. 
@@ -1481,7 +1514,8 @@
 \bibleverse{29} Bienaventurado tú, oh Israel, ¿quién como tú, pueblo salvo por Jehová, escudo de tu socorro, y espada de tu excelencia? Así que tus enemigos serán humillados, y tú hollarás sobre sus alturas. 
 
 ## Moisés en el monte Nebo; su muerte y entierro; Joshua lo sucederá
-# 34 
+\hypertarget{section-05-34}{%
+\section{34}\label{section-05-34}}
 \bibleverse{1} Y subió Moisés de los campos de Moab al monte de Nebo, á la cumbre de Pisga, que está enfrente de Jericó: y mostróle Jehová toda la tierra de Galaad hasta Dan, 
 \bibleverse{2} Y á todo Nephtalí, y la tierra de Ephraim y de Manasés, toda la tierra de Judá hasta la mar postrera; 
 \bibleverse{3} Y la parte meridional, y la campiña, la vega de Jericó, ciudad de las palmas, hasta Soar. 

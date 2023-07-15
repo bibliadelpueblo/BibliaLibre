@@ -1,5 +1,6 @@
 ## La invitación a construir el templo junto con una indicación de su éxito
-# 1 
+\hypertarget{section-37-1}{%
+\section{1}\label{section-37-1}}
 \bibleverse{1} En el año segundo del rey Darío en el mes sexto, en el primer día del mes, fué palabra de Jehová, por mano del profeta Haggeo, á Zorobabel hijo de Sealtiel, gobernador de Judá, y á Josué hijo de Josadac, gran sacerdote, diciendo: 
 \bibleverse{2} Jehová de los ejércitos habla así, diciendo: Este pueblo dice: No es aún venido el tiempo, el tiempo de que la casa de Jehová sea reedificada. 
 \bibleverse{3} Fué pues palabra de Jehová por mano del profeta Haggeo, diciendo: 
@@ -21,7 +22,8 @@
 \bibleverse{15} En el día veinte y cuatro del mes sexto, en el segundo año del rey Darío. 
 
 ## La promesa de la gloria futura del nuevo templo
-# 2 
+\hypertarget{section-37-2}{%
+\section{2}\label{section-37-2}}
 \bibleverse{1} En el mes séptimo, á los veinte y uno del mes, fué palabra de Jehová por mano del profeta Haggeo, diciendo: 
 \bibleverse{2} Habla ahora á Zorobabel hijo de Sealtiel, gobernador de Judá, y á Josué hijo de Josadac, gran sacerdote, y al resto del pueblo, diciendo: 
 \bibleverse{3} ¿Quién ha quedado entre vosotros que haya visto esta casa en su primera gloria, y cual ahora la veis? ¿No es ella como nada delante de vuestros ojos? 

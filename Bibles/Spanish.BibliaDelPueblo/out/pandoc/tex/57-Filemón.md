@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-57-1}{%
+\section{1}\label{section-57-1}}
 \bibleverse{1} Pablo, prisionero de Jesucristo, y el hermano Timoteo, á Filemón amado, y coadjutor nuestro; 
 \bibleverse{2} Y á la amada Apphia, y á Archîpo, compañero de nuestra milicia, y á la iglesia que está en tu casa: 
 \bibleverse{3} Gracia á vosotros y paz de Dios nuestro Padre, y del Señor Jesucristo.

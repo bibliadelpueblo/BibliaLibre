@@ -1,5 +1,6 @@
 ## El llamamiento y ordenación de Ezequiel como profeta; la aparición de la gloria de Dios
-# 1 
+\hypertarget{section-26-1}{%
+\section{1}\label{section-26-1}}
 \bibleverse{1} Y fué que á los treinta años, en el mes cuarto, á cinco del mes, estando yo en medio de los trasportados junto al río de Chebar, los cielos se abrieron, y vi visiones de Dios.
 
  
@@ -47,7 +48,8 @@
 \bibleverse{28} Cual parece el arco del cielo que está en las nubes el día que llueve, así era el parecer del resplandor alrededor. Esta fué la visión de la semejanza de la gloria de Jehová. Y luego que yo la hube visto, caí sobre mi rostro, y oí voz de uno que hablaba. 
 
 ## La misión de Ezequiel por Israel renegado
-# 2 
+\hypertarget{section-26-2}{%
+\section{2}\label{section-26-2}}
 \bibleverse{1} Y díjome: Hijo del hombre, está sobre tus pies, y hablaré contigo. 
 \bibleverse{2} Y entró espíritu en mí luego que me habló, y afirmóme sobre mis pies, y oía al que me hablaba.
 
@@ -66,7 +68,8 @@
 \bibleverse{9} Y miré, y he aquí una mano me fué enviada, y en ella había un rollo de libro. 
 \bibleverse{10} Y extendiólo delante de mí, y estaba escrito delante y detrás: y había escritas en él endechas, y lamentación, y ayes. 
 
-# 3 
+\hypertarget{section-26-3}{%
+\section{3}\label{section-26-3}}
 \bibleverse{1} Y díjome: Hijo del hombre, come lo que hallares; come este rollo, y ve y habla á la casa de Israel.
 
  
@@ -120,7 +123,8 @@
 \bibleverse{27} Mas cuando yo te hubiere hablado, abriré tu boca, y les dirás: Así ha dicho el Señor Jehová: El que oye, oiga; y el que cesa, cese: porque casa rebelde son. 
 
 ## Primera señal: la ciudad sitiada de Jerusalén
-# 4 
+\hypertarget{section-26-4}{%
+\section{4}\label{section-26-4}}
 \bibleverse{1} Y tú, hijo del hombre, tómate un adobe, y ponlo delante de tí, y diseña sobre él la ciudad de Jerusalem: 
 \bibleverse{2} Y pondrás contra ella cerco, y edificarás contra ella fortaleza, y sacarás contra ella baluarte, y asentarás delante de ella campo, y pondrás contra ella arietes alrededor. 
 \bibleverse{3} Tómate también una plancha de hierro, y ponla en lugar de muro de hierro entre ti y la ciudad: afirmarás luego tu rostro contra ella, y será en lugar de cerco, y la sitiarás. Es señal á la casa de Israel.
@@ -154,7 +158,8 @@
 \bibleverse{17} Porque les faltará el pan y el agua, y se espantarán los unos con los otros, y se consumirán por su maldad. 
 
 ## Cuarto signo: la aniquilación total del pueblo, salvo un pequeño remanente, al final del asedio
-# 5 
+\hypertarget{section-26-5}{%
+\section{5}\label{section-26-5}}
 \bibleverse{1} Y tú, hijo del hombre, tómate un cuchillo agudo, una navaja de barbero toma, y hazla pasar sobre tu cabeza y tu barba: tómate después un peso de balanza, y reparte los pelos. 
 \bibleverse{2} Una tercera parte quemarás con fuego en medio de la ciudad, cuando se cumplieren los días del cerco, y tomarás una tercera parte, y herirás con cuchillo alrededor de ella; y una tercera parte esparcirás al viento, y yo desenvainaré espada en pos de ellos. 
 \bibleverse{3} Tomarás también de allí unos pocos por cuenta, y los atarás en el canto de tu ropa. 
@@ -183,7 +188,8 @@
 \bibleverse{17} Enviaré pues sobre vosotros hambre, y malas bestias que te destruyan; y pestilencia y sangre pasarán por ti; y meteré sobre ti cuchillo. Yo Jehová he hablado. 
 
 ## Anuncio de la aniquilación completa de todos los lugares de idolatría
-# 6 
+\hypertarget{section-26-6}{%
+\section{6}\label{section-26-6}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, pon tu rostro hacia los montes de Israel, y profetiza contra ellos. 
 \bibleverse{3} Y dirás: Montes de Israel, oid palabra del Señor Jehová: Así ha dicho el Señor Jehová á los montes y á los collados, á los arroyos y á los valles: He aquí que yo, yo haré venir sobre vosotros cuchillo, y destruiré vuestros altos. 
@@ -206,7 +212,8 @@
 \bibleverse{14} Y extenderé mi mano sobre ellos, y tornaré la tierra asolada y desierta, más que el desierto hacia Diblath, en todas sus habitaciones: y conocerán que yo soy Jehová. 
 
 ## Anuncio del juicio final que vendrá sobre la tierra y el pueblo y todos sus horrores
-# 7 
+\hypertarget{section-26-7}{%
+\section{7}\label{section-26-7}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Y tú, hijo del hombre, así ha dicho el Señor Jehová á la tierra de Israel: El fin, el fin viene sobre los cuatro cantones de la tierra. 
 \bibleverse{3} Ahora será el fin sobre ti, y enviaré sobre ti mi furor, y te juzgaré según tus caminos; y pondré sobre ti todas tus abominaciones. 
@@ -244,7 +251,8 @@
 \bibleverse{27} El rey se enlutará, y el príncipe se vestirá de asolamiento, y las manos del pueblo de la tierra serán conturbadas: según su camino haré con ellos, y con los juicios de ellos los juzgaré; y sabrán que yo soy Jehová. 
 
 ## Las abominaciones de la idolatría, la adoración de deidades extranjeras, en el templo de Jerusalén
-# 8 
+\hypertarget{section-26-8}{%
+\section{8}\label{section-26-8}}
 \bibleverse{1} Y aconteció en el sexto año, en el mes sexto, á los cinco del mes, que estaba yo sentado en mi casa, y los ancianos de Judá estaban sentados delante de mí, y allí cayó sobre mí la mano del Señor Jehová. 
 \bibleverse{2} Y miré, y he aquí una semejanza que parecía de fuego: desde donde parecían sus lomos para abajo, fuego; y desde sus lomos arriba parecía como resplandor, como la vista de ámbar. 
 \bibleverse{3} Y aquella semejanza extendió la mano, y tomóme por las guedejas de mi cabeza; y el espíritu me alzó entre el cielo y la tierra, y llevóme en visiones de Dios á Jerusalem, á la entrada de la puerta de adentro que mira hacia el aquilón, donde estaba la habitación de la imagen del celo, la que hacía celar. 
@@ -288,7 +296,8 @@
 \bibleverse{18} Pues también yo haré en mi furor; no perdonará mi ojo, ni tendré misericordia, y gritarán á mis oídos con gran voz, y no los oiré. 
 
 ## El nombre de los piadosos y la matanza de los impíos habitantes de Jerusalén
-# 9 
+\hypertarget{section-26-9}{%
+\section{9}\label{section-26-9}}
 \bibleverse{1} Y clamó en mis oídos con gran voz, diciendo: Los visitadores de la ciudad han llegado, y cada uno trae en su mano su instrumento para destruir. 
 \bibleverse{2} Y he aquí que seis varones venían del camino de la puerta de arriba que está vuelta al aquilón, y cada uno traía en su mano su instrumento para destruir. Y entre ellos había un varón vestido de lienzos, el cual traía á su cintura una escribanía de escribano; y entrados, paráronse junto al altar de bronce.
 
@@ -315,7 +324,8 @@
 \bibleverse{11} Y he aquí que el varón vestido de lienzos, que tenía la escribanía á su cintura, respondió una palabra diciendo: Hecho he conforme á todo lo que me mandaste. 
 
 ## El mandato de Dios de incinerar la ciudad, combinado con una descripción repetida del carro del querubín divino; El retiro de Dios del santuario
-# 10 
+\hypertarget{section-26-10}{%
+\section{10}\label{section-26-10}}
 \bibleverse{1} Y miré, y he aquí en la expansión que había sobre la cabeza de los querubines como una piedra de zafiro, que parecía como semejanza de un trono que se mostró sobre ellos. 
 \bibleverse{2} Y habló al varón vestido de lienzos, y díjole: Entra en medio de las ruedas debajo de los querubines, é hinche tus manos de carbones encendidos de entre los querubines, y derrama sobre la ciudad. Y entró á vista mía.
 
@@ -353,7 +363,8 @@
 \bibleverse{22} Y la figura de sus rostros era la de los rostros que vi junto al río de Chebar, su mismo parecer y su ser; cada uno caminaba en derecho de su rostro. 
 
 ## El juicio de Dios sobre los peores seductores del pueblo; Destierro, conversión y renovación del pueblo; Dios se va de la ciudad
-# 11 
+\hypertarget{section-26-11}{%
+\section{11}\label{section-26-11}}
 \bibleverse{1} Y el espíritu me elevó, y metióme por la puerta oriental de la casa de Jehová, la cual mira hacia el oriente: y he aquí á la entrada de la puerta veinticinco varones, entre los cuales vi á Jaazanías hijo de Azur, y á Pelatías hijo de Benaías, príncipes del pueblo. 
 \bibleverse{2} Y díjome: Hijo del hombre, estos son los hombres que maquinan perversidad, y dan en esta ciudad mal consejo; 
 \bibleverse{3} Los cuales dicen: No será tan presto: edifiquemos casas: ésta será la caldera, y nosotros la carne. 
@@ -401,7 +412,8 @@
 \bibleverse{25} Y hablé á los trasportados todas las palabras de Jehová que él me había mostrado. 
 
 ## La emigración del Profeta como ilustración del camino que lleva al príncipe y al pueblo al exilio
-# 12 
+\hypertarget{section-26-12}{%
+\section{12}\label{section-26-12}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, tú habitas en medio de casa rebelde, los cuales tienen ojos para ver, y no ven, tienen oídos para oir, y no oyen; porque son casa rebelde.
 
@@ -457,7 +469,8 @@
 \bibleverse{28} Diles por tanto: Así ha dicho el Señor Jehová: No se dilatarán más todas mis palabras: cumpliráse la palabra que yo hablaré, dice el Señor Jehová. 
 
 ## Contra los falsos profetas
-# 13 
+\hypertarget{section-26-13}{%
+\section{13}\label{section-26-13}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, profetiza contra los profetas de Israel que profetizan, y di á los que profetizan de su corazón: Oid palabra de Jehová. 
 \bibleverse{3} Así ha dicho el Señor Jehová: ¡Ay de los profetas insensatos, que andan en pos de su propio espíritu, y nada vieron! 
@@ -494,7 +507,8 @@
 \bibleverse{23} Por tanto no veréis vanidad, ni más adivinaréis adivinación; y libraré mi pueblo de vuestra mano; y sabréis que yo soy Jehová. 
 
 ## Exclusión de los idólatras de los medios de gracia para cuestionar a Dios
-# 14 
+\hypertarget{section-26-14}{%
+\section{14}\label{section-26-14}}
 \bibleverse{1} Y vinieron á mí algunos de los ancianos de Israel, y sentáronse delante de mí. 
 \bibleverse{2} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{3} Hijo del hombre, estos hombres han puesto sus ídolos en su corazón, y establecido el tropiezo de su maldad delante de su rostro: ¿acaso he de ser yo verdaderamente consultado por ellos?
@@ -540,7 +554,8 @@
 \bibleverse{23} Y consolaros han cuando viereis su camino y sus hechos, y conoceréis que no sin causa hice todo lo que habré hecho en ella, dice el Señor Jehová. 
 
 ## Jerusalén, la madera inútil de la vid
-# 15 
+\hypertarget{section-26-15}{%
+\section{15}\label{section-26-15}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, ¿qué es el palo de la vid más que todo palo? ¿qué es el sarmiento entre los maderos del bosque? 
 \bibleverse{3} ¿Tomarán de él madera para hacer alguna obra? ¿tomarán de él una estaca para colgar de ella algún vaso? 
@@ -554,7 +569,8 @@
 \bibleverse{8} Y tornaré la tierra en asolamiento, por cuanto cometieron prevaricación, dice el Señor Jehová. 
 
 ## Jerusalén, el hijo adoptivo fallido o la esposa infiel
-# 16 
+\hypertarget{section-26-16}{%
+\section{16}\label{section-26-16}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, notifica á Jerusalem sus abominaciones, 
 \bibleverse{3} Y di: Así ha dicho el Señor Jehová sobre Jerusalem: Tu habitación y tu raza fué de la tierra de Canaán; tu padre Amorrheo, y tu madre Hethea.
@@ -656,7 +672,8 @@
 \bibleverse{63} Para que te acuerdes, y te avergüences, y nunca más abras la boca á causa de tu vergüenza, cuando me aplacare para contigo de todo lo que hiciste, dice el Señor Jehová. 
 
 ## Parábola de la gran águila y la vid infiel y aplicación a Sedequías; Restauración de la realeza davídica
-# 17 
+\hypertarget{section-26-17}{%
+\section{17}\label{section-26-17}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, propón una figura, y compón una parábola á la casa de Israel. 
 \bibleverse{3} Y dirás: Así ha dicho el Señor Jehová: Una grande águila, de grandes alas y de largos miembros, llena de plumas de diversos colores, vino al Líbano, y tomó el cogollo del cedro: 
@@ -699,7 +716,8 @@
 \bibleverse{24} Y sabrán todos los árboles del campo que yo Jehová abatí el árbol sublime, levanté el árbol bajo, hice secar el árbol verde, é hice reverdecer el árbol seco. Yo Jehová hablé é hice. 
 
 ## Los principios que gobiernan la justicia retributiva de Dios
-# 18 
+\hypertarget{section-26-18}{%
+\section{18}\label{section-26-18}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} ¿Qué pensáis vosotros, vosotros que usáis este refrán sobre la tierra de Israel, diciendo: Los padres comieron el agraz, y los dientes de los hijos tienen la dentera?
 
@@ -757,7 +775,8 @@
 \bibleverse{32} Que no quiero la muerte del que muere, dice el Señor Jehová; convertíos pues, y viviréis. 
 
 ## La imagen de la madre león con sus dos cachorros
-# 19 
+\hypertarget{section-26-19}{%
+\section{19}\label{section-26-19}}
 \bibleverse{1} Y tú levanta endecha sobre los príncipes de Israel. 
 \bibleverse{2} Y dirás: ¡Cómo se echó entre los leones tu madre la leona! entre los leoncillos crió sus cachorros. 
 \bibleverse{3} E hizo subir uno de sus cachorros: vino á ser leoncillo, y aprendió á prender presa, y á devorar hombres. 
@@ -777,7 +796,8 @@
 \bibleverse{14} Y ha salido fuego de la vara de sus ramos, ha consumido su fruto, y no ha quedado en ella vara fuerte, cetro para enseñorear. Endecha es esta, y de endecha servirá. 
 
 ## Ezequiel presenta ante los ancianos los pecados de sus padres e hijos
-# 20 
+\hypertarget{section-26-20}{%
+\section{20}\label{section-26-20}}
 \bibleverse{1} Y aconteció en el año séptimo, en el mes quinto, á los diez del mes, que vinieron algunos de los ancianos de Israel á consultar á Jehová, y sentáronse delante de mí.
 
  
@@ -865,7 +885,8 @@
 \bibleverse{49} Y dije: ¡Ah, Señor Jehová! ellos dicen de mí: ¿No profiere éste parábolas? 
 
 ## La espada asesina de la venganza de Dios contra Jerusalén y los amonitas
-# 21 
+\hypertarget{section-26-21}{%
+\section{21}\label{section-26-21}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, pon tu rostro contra Jerusalem, y derrama palabra sobre los santuarios, y profetiza sobre la tierra de Israel; 
 \bibleverse{3} Y dirás á la tierra de Israel: Así ha dicho Jehová: He aquí, que yo contra ti, y sacaré mi espada de su vaina, y talaré de ti al justo y al impío. 
@@ -917,7 +938,8 @@
 \bibleverse{32} Del fuego serás para ser consumido; tu sangre será en medio de la tierra; no habrá más memoria de ti: porque yo Jehová he hablado. 
 
 ## La culpa y el castigo de Jerusalén
-# 22 
+\hypertarget{section-26-22}{%
+\section{22}\label{section-26-22}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Y tú, hijo del hombre, ¿no juzgarás tú, no juzgarás tú á la ciudad derramadora de sangre, y le mostrarás todas sus abominaciones? 
 \bibleverse{3} Dirás, pues: Así ha dicho el Señor Jehová: ¡Ciudad derramadora de sangre en medio de sí, para que venga su hora, y que hizo ídolos contra sí misma para contaminarse! 
@@ -964,7 +986,8 @@
 \bibleverse{31} Por tanto derramé sobre ellos mi ira; con el fuego de mi ira los consumí: torné el camino de ellos sobre su cabeza, dice el Señor Jehová. 
 
 ## Se ilustra la corrupción moral de los reinos hermanos Israel y Judá
-# 23 
+\hypertarget{section-26-23}{%
+\section{23}\label{section-26-23}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, hubo dos mujeres, hijas de una madre, 
 \bibleverse{3} Las cuales fornicaron en Egipto; en sus mocedades fornicaron. Allí fueron apretados sus pechos, y allí fueron estrujados los pechos de su virginidad. 
@@ -1046,7 +1069,8 @@
 \bibleverse{49} Y sobre vosotras pondrán vuestra obscenidad, y llevaréis los pecados de vuestros ídolos; y sabréis que yo soy el Señor Jehová. 
 
 ## Parábola de la cacerola oxidada e incurable y su destino
-# 24 
+\hypertarget{section-26-24}{%
+\section{24}\label{section-26-24}}
 \bibleverse{1} Y fué á mí palabra de Jehová en el noveno año, en el mes décimo, á los diez del mes, diciendo: 
 \bibleverse{2} Hijo del hombre, escríbete el nombre de este día: el rey de Babilonia se puso sobre Jerusalem este mismo día. 
 \bibleverse{3} Y habla á la casa de rebelión por parábola, y diles: Así ha dicho el Señor Jehová: Pon una olla, ponla, y echa también en ella agua: 
@@ -1093,7 +1117,8 @@
 \bibleverse{27} En aquel día se abrirá tu boca para hablar con el escapado, y hablarás, y no estarás más mudo; y les serás por señal, y sabrán que yo soy Jehová. 
 
 ## Discursos de amenaza contra Ammón, Moab, Edom y los filisteos
-# 25 
+\hypertarget{section-26-25}{%
+\section{25}\label{section-26-25}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, pon tu rostro hacia los hijos de Ammón, y profetiza sobre ellos. 
 \bibleverse{3} Y dirás á los hijos de Ammón: Oid palabra del Señor Jehová. Así ha dicho el Señor Jehová: Por cuanto dijiste ¡Ea! acerca de mi santuario que fué profanado, y sobre la tierra de Israel que fué asolada, y sobre la casa de Judá, porque fueron en cautiverio; 
@@ -1119,7 +1144,8 @@
 \bibleverse{17} Y haré en ellos grandes venganzas con reprensiones de ira; y sabrán que yo soy Jehová, cuando diere mi venganza en ellos. 
 
 ## El hechizo de Dios contra Tiro
-# 26 
+\hypertarget{section-26-26}{%
+\section{26}\label{section-26-26}}
 \bibleverse{1} Y aconteció en el undécimo año, en el primero del mes, que fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, por cuanto dijo Tiro sobre Jerusalem: Ea, bien: quebrantada es la que era puerta de las naciones: á mí se volvió: seré llena; ella desierta: 
 \bibleverse{3} Por tanto, así ha dicho el Señor Jehová: He aquí yo contra ti, oh Tiro, y haré subir contra ti muchas gentes, como la mar hace subir sus ondas. 
@@ -1152,7 +1178,8 @@
 \bibleverse{21} Yo te tornaré en espanto, y no serás: y serás buscada, y nunca más serás hallada, dice el Señor Jehová. 
 
 ## Tiro como barco de soberbia esplendor; la gloria de la ciudad, especialmente como el mercado mundial
-# 27 
+\hypertarget{section-26-27}{%
+\section{27}\label{section-26-27}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Y tú, hijo del hombre, levanta endechas sobre Tiro. 
 \bibleverse{3} Y dirás á Tiro, que está asentada á las entradas de la mar, mercadera de los pueblos de muchas islas: Así ha dicho el Señor Jehová: Tiro, tú has dicho: Yo soy de perfecta hermosura. 
@@ -1218,7 +1245,8 @@
 \bibleverse{36} Los mercaderes en los pueblos silbarán sobre ti: vendrás á ser espanto, y dejarás de ser para siempre. 
 
 ## El juicio de Dios sobre la arrogancia del príncipe
-# 28 
+\hypertarget{section-26-28}{%
+\section{28}\label{section-26-28}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, di al príncipe de Tiro: Así ha dicho el Señor Jehová: Por cuanto se enalteció tu corazón, y dijiste: Yo soy un dios; en la silla de Dios estoy sentado en medio de los mares (siendo tú hombre y no Dios); y has puesto tu corazón como corazón de Dios: 
 \bibleverse{3} He aquí que tú eres más sabio que Daniel; no hay secreto que te sea oculto; 
@@ -1260,7 +1288,8 @@
 \bibleverse{26} Y habitarán en ella seguros, y edificarán casas, y plantarán viñas, y habitarán confiadamente, cuando yo haré juicios en todos los que los despojan en sus alrededores; y sabrán que yo soy Jehová su Dios. 
 
 ## Caída de Egipto y posterior restauración; Compensación de Nabucodonosor
-# 29 
+\hypertarget{section-26-29}{%
+\section{29}\label{section-26-29}}
 \bibleverse{1} En el año décimo, en el mes décimo, á los doce del mes, fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, pon tu rostro contra Faraón rey de Egipto, y profetiza contra él y contra todo Egipto.
 
@@ -1302,7 +1331,8 @@
 \bibleverse{21} En aquel tiempo haré reverdecer el cuerno á la casa de Israel, y te daré apertura de boca en medio de ellos; y sabrán que yo soy Jehová. 
 
 ## Nuevas palabras amenazadoras sobre el juicio divino que es inminente para los egipcios
-# 30 
+\hypertarget{section-26-30}{%
+\section{30}\label{section-26-30}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, profetiza, y di: Así ha dicho el Señor Jehová: Aullad: ¡Ay del día! 
 \bibleverse{3} Porque cerca está el día, cerca está el día del Señor; día de nublado, día de las gentes será. 
@@ -1349,7 +1379,8 @@
 \bibleverse{26} Y esparciré los Egipcios entre las gentes, y los aventaré por las tierras; y sabrán que yo soy Jehová. 
 
 ## Altura orgullosa y caída repentina del faraón en comparación con un magnífico cedro
-# 31 
+\hypertarget{section-26-31}{%
+\section{31}\label{section-26-31}}
 \bibleverse{1} Y aconteció en el año undécimo, en el mes tercero, al primero del mes, que fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, di á Faraón rey de Egipto, y á su pueblo: ¿A quién te comparaste en tu grandeza? 
 \bibleverse{3} He aquí era el Asirio cedro en el Líbano, hermoso en ramas, y umbroso con sus ramos, y de grande altura, y su copa estaba entre densas ramas. 
@@ -1378,7 +1409,8 @@
 \bibleverse{18} ¿A quién te has comparado así en gloria y en grandeza entre los árboles de Edén? Pues derribado serás con los árboles de Edén en la tierra baja: entre los incircuncisos yacerás, con los muertos á cuchillo. Este es Faraón y todo su pueblo, dice el Señor Jehová. 
 
 ## Lamento por el faraón
-# 32 
+\hypertarget{section-26-32}{%
+\section{32}\label{section-26-32}}
 \bibleverse{1} Y aconteció en el año duodécimo, en el mes duodécimo, al primero del mes, que fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, levanta endechas sobre Faraón rey de Egipto, y dile: A leoncillo de gentes eres semejante, y eres como la ballena en los mares: que secabas tus ríos, y enturbiabas las aguas con tus pies, y hollabas sus riberas. 
 \bibleverse{3} Así ha dicho el Señor Jehová: Yo extenderé sobre ti mi red con reunión de muchos pueblos, y te harán subir con mi esparavel. 
@@ -1440,7 +1472,8 @@
 \bibleverse{32} Porque yo puse mi terror en la tierra de los vivientes, también yacerá entre los incircuncisos con los muertos á cuchillo, Faraón y toda su multitud, dice el Señor Jehová. 
 
 ## La importancia del mandamiento del guardio
-# 33 
+\hypertarget{section-26-33}{%
+\section{33}\label{section-26-33}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, habla á los hijos de tu pueblo, y diles: Cuando trajere yo espada sobre la tierra, y el pueblo de la tierra tomare un hombre de sus términos, y se lo pusiere por atalaya, 
 \bibleverse{3} Y él viere venir la espada sobre la tierra, y tocare corneta, y avisare al pueblo; 
@@ -1500,7 +1533,8 @@
 \bibleverse{33} Empero cuando ello viniere (he aquí viene) sabrán que hubo profeta entre ellos. 
 
 ## Pastores pasados, abandonados y perecederos
-# 34 
+\hypertarget{section-26-34}{%
+\section{34}\label{section-26-34}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, profetiza contra los pastores de Israel; profetiza, y diles á los pastores: Así ha dicho el Señor Jehová: ¡Ay de los pastores de Israel, que se apacientan á sí mismos! ¿No apacientan los pastores los rebaños? 
 \bibleverse{3} Coméis la leche, y os vestís de la lana: la gruesa degolláis, no apacentáis las ovejas. 
@@ -1549,7 +1583,8 @@
 \bibleverse{31} Y vosotras, ovejas mías, ovejas de mi pasto, hombres sois, y yo vuestro Dios, dice el Señor Jehová. 
 
 ## Destrucción del enemigo hereditario malicioso y depredador Edom
-# 35 
+\hypertarget{section-26-35}{%
+\section{35}\label{section-26-35}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, pon tu rostro hacia el monte de Seir, y profetiza contra él, 
 \bibleverse{3} Y dile: Así ha dicho el Señor Jehová: He aquí yo contra ti, oh monte de Seir, y extenderé mi mano contra ti, y te pondré en asolamiento y en soledad. 
@@ -1571,7 +1606,8 @@
 \bibleverse{15} Como te alegraste sobre la heredad de la casa de Israel, porque fué asolada, así te haré á ti: asolado será el monte de Seir, y toda Idumea, toda ella; y sabrán que yo soy Jehová. 
 
 ## Al país montañoso de Israel, burlado por el enemigo, se le promete la destitución de sus propietarios ilegítimos
-# 36 
+\hypertarget{section-26-36}{%
+\section{36}\label{section-26-36}}
 \bibleverse{1} Y tú, hijo del hombre, profetiza sobre los montes de Israel, y di: Montes de Israel, oid palabra de Jehová: 
 \bibleverse{2} Así ha dicho el Señor Jehová: Por cuanto el enemigo dijo sobre vosotros: ¡Ea! también las alturas perpetuas nos han sido por heredad; 
 \bibleverse{3} Profetiza por tanto, y di: Así ha dicho el Señor Jehová: Pues por cuanto asolándoos y tragándoos de todas partes, para que fueseis heredad á las otras gentes, se os ha hecho andar en boca de lenguas, y ser el oprobio de los pueblos, 
@@ -1632,7 +1668,8 @@
 \bibleverse{38} Como las ovejas santas, como las ovejas de Jerusalem en sus solemnidades, así las ciudades desiertas serán llenas de rebaños de hombres; y sabrán que yo soy Jehová. 
 
 ## El rostro del avivamiento de los huesos muertos entregado al profeta
-# 37 
+\hypertarget{section-26-37}{%
+\section{37}\label{section-26-37}}
 \bibleverse{1} Y la mano de Jehová fué sobre mí, y sacóme en espíritu de Jehová, y púsome en medio de un campo que estaba lleno de huesos. 
 \bibleverse{2} E hízome pasar cerca de ellos por todo alrededor: y he aquí que eran muy muchos sobre la haz del campo, y por cierto secos en gran manera. 
 \bibleverse{3} Y díjome: Hijo del hombre, ¿vivirán estos huesos? Y dije: Señor Jehová, tú lo sabes.
@@ -1685,7 +1722,8 @@
 \bibleverse{28} Y sabrán las gentes que yo Jehová santifico á Israel, estando mi santuario entre ellos para siempre. 
 
 ## Dios mismo saca a las hordas brutas de Gog de la tierra de Magog contra Palestina
-# 38 
+\hypertarget{section-26-38}{%
+\section{38}\label{section-26-38}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Hijo del hombre, pon tu rostro contra Gog en tierra de Magog, príncipe de la cabecera de Mesech y Tubal, y profetiza sobre él, 
 \bibleverse{3} Y di: Así ha dicho el Señor Jehová: He aquí, yo á ti, oh Gog, príncipe de la cabecera de Mesech y Tubal. 
@@ -1721,7 +1759,8 @@
 \bibleverse{23} Y seré engrandecido y santificado, y seré conocido en ojos de muchas gentes; y sabrán que yo soy Jehová. 
 
 ## Otro anuncio de la caída de Gog
-# 39 
+\hypertarget{section-26-39}{%
+\section{39}\label{section-26-39}}
 \bibleverse{1} Tú pues, hijo del hombre, profetiza contra Gog, y di: Así ha dicho el Señor Jehová: He aquí yo contra ti, oh Gog, príncipe de la cabecera de Mesech y Tubal: 
 \bibleverse{2} Y te quebrantaré, y te sextaré, y te haré subir de las partes del norte, y te traeré sobre los montes de Israel; 
 \bibleverse{3} Y sacaré tu arco de tu mano izquierda, y derribaré tus saetas de tu mano derecha. 
@@ -1773,7 +1812,8 @@
 \bibleverse{29} Ni esconderé más de ellos mi rostro; porque habré derramado de mi espíritu sobre la casa de Israel, dice el Señor Jehová. 
 
 ## El rapto de Ezequiel y la aparición de un guía celestial
-# 40 
+\hypertarget{section-26-40}{%
+\section{40}\label{section-26-40}}
 \bibleverse{1} En el año veinticinco de nuestro cautiverio, al principio del año, á los diez del mes, á los catorce años después que la ciudad fué herida, en aquel mismo día fué sobre mí la mano de Jehová, y llevóme allá. 
 \bibleverse{2} En visiones de Dios me llevó á la tierra de Israel, y púsome sobre un monte muy alto, sobre el cual había como edificio de una ciudad al mediodía. 
 \bibleverse{3} Y llevóme allí, y he aquí un varón, cuyo aspecto era como aspecto de metal, y tenía un cordel de lino en su mano, y una caña de medir: y él estaba á la puerta. 
@@ -1861,7 +1901,8 @@
 \bibleverse{49} La longitud del pórtico veinte codos, y la anchura once codos, al cual subían por gradas: y había columnas junto á los postes, una de un lado, y otra de otro. 
 
 ## El Salón del Templo y el Lugar Santísimo
-# 41 
+\hypertarget{section-26-41}{%
+\section{41}\label{section-26-41}}
 \bibleverse{1} Metióme luego en el templo, y midió los postes, siendo el ancho seis codos de una parte, y seis codos de otra, que era la anchura del tabernáculo. 
 \bibleverse{2} Y la anchura de la puerta era de diez codos; y los lados de la puerta, de cinco codos de una parte, y cinco de otra. Y midió su longitud de cuarenta codos, y la anchura de veinte codos.
 
@@ -1907,7 +1948,8 @@
 \bibleverse{26} Y había ventanas estrechas, y palmas de una y otra parte por los lados de la entrada, y de la casa, y por las vigas. 
 
 ## Las células sacerdotales del norte
-# 42 
+\hypertarget{section-26-42}{%
+\section{42}\label{section-26-42}}
 \bibleverse{1} Sacóme luego al atrio de afuera hacia el norte, y llevóme á la cámara que estaba delante del espacio que quedaba enfrente del edificio de hacia el norte. 
 \bibleverse{2} Por delante de la puerta del norte su longitud era de cien codos, y la anchura de cincuenta codos. 
 \bibleverse{3} Frente á los veinte codos que había en el atrio de adentro, y enfrente del solado que había en al atrio exterior, estaban las cámaras, las unas enfrente de las otras en tres pisos. 
@@ -1939,7 +1981,8 @@
 \bibleverse{20} A los cuatro lados lo midió; tuvo el muro todo alrededor quinientas cañas de longitud, y quinientas cañas de anchura, para hacer separación entre el santuario y el lugar profano. 
 
 ## La entrada de Dios en el templo recién construido y su canonización
-# 43 
+\hypertarget{section-26-43}{%
+\section{43}\label{section-26-43}}
 \bibleverse{1} Llevóme luego á la puerta, á la puerta que mira hacia el oriente; 
 \bibleverse{2} Y he aquí la gloria del Dios de Israel, que venía de hacia el oriente; y su sonido era como el sonido de muchas aguas, y la tierra resplandecía á causa de su gloria. 
 \bibleverse{3} Y la visión que vi era como la visión, como aquella visión que vi cuando vine para destruir la ciudad: y las visiones eran como la visión que vi junto al río de Chebar; y caí sobre mi rostro. 
@@ -1985,7 +2028,8 @@
 \bibleverse{27} Y acabados estos días, al octavo día, y en adelante, sacrificarán los sacerdotes sobre el altar vuestros holocaustos y vuestros pacíficos; y me seréis aceptos, dice el Señor Jehová. 
 
 ## La puerta este exterior del recinto del templo y su destino para el príncipe
-# 44 
+\hypertarget{section-26-44}{%
+\section{44}\label{section-26-44}}
 \bibleverse{1} Y tornóme hacia la puerta de afuera del santuario, la cual mira hacia el oriente; y estaba cerrada. 
 \bibleverse{2} Y díjome Jehová: Esta puerta ha de estar cerrada: no se abrirá, ni entrará por ella hombre, porque Jehová Dios de Israel entró por ella; estará por tanto cerrada. 
 \bibleverse{3} Para el príncipe; el príncipe, él se sentará en ella para comer pan delante de Jehová: por el camino de la entrada de la puerta entrará, y por el camino de ella saldrá.
@@ -2041,7 +2085,8 @@
 \bibleverse{31} Ninguna cosa mortecina, ni desgarrada, así de aves como de animales, comerán los sacerdotes. 
 
 ## Traslado de un recinto sagrado a los sacerdotes y levitas, así como una porción de tierra a la ciudad y al príncipe
-# 45 
+\hypertarget{section-26-45}{%
+\section{45}\label{section-26-45}}
 \bibleverse{1} Y cuando partiereis por suertes la tierra en heredad, apartaréis una suerte para Jehová que le consagréis en la tierra, de longitud de veinticinco mil cañas y diez mil de ancho: esto será santificado en todo su término alrededor. 
 \bibleverse{2} De esto serán para el santuario quinientas de longitud, y quinientas de ancho, en cuadro alrededor; y cincuenta codos en derredor para sus ejidos. 
 \bibleverse{3} Y de esta medida medirás en longitud veinticinco mil cañas, y en anchura diez mil, en lo cual estará el santuario, el santuario de santuarios. 
@@ -2086,7 +2131,8 @@
 \bibleverse{25} En el mes séptimo, á los quince del mes, en la fiesta, hará como en estos siete días, cuanto á la expiación, y cuanto al holocausto, y cuanto al presente, y cuanto al aceite. 
 
 ## Normativa para la celebración del sábado y la luna nueva
-# 46 
+\hypertarget{section-26-46}{%
+\section{46}\label{section-26-46}}
 \bibleverse{1} Así ha dicho el Señor Jehová: La puerta del atrio de adentro que mira al oriente, estará cerrada los seis días de trabajo, y el día del sábado se abrirá: abriráse también el día de la nueva luna. 
 \bibleverse{2} Y el príncipe entrará por el camino del portal de la puerta de afuera, y estará al umbral de la puerta, mientras los sacerdotes harán su holocausto y sus pacíficos, y adorará á la entrada de la puerta: después saldrá; mas no se cerrará la puerta hasta la tarde. 
 \bibleverse{3} Asimismo adorará el pueblo de la tierra delante de Jehová, á la entrada de la puerta, en los sábados y en las nuevas lunas. 
@@ -2128,7 +2174,8 @@
 \bibleverse{24} Y díjome: Estos son los aposentos de los cocineros, donde los servidores de la casa cocerán el sacrificio del pueblo. 
 
 ## El maravilloso manantial del templo como una corriente de bendiciones
-# 47 
+\hypertarget{section-26-47}{%
+\section{47}\label{section-26-47}}
 \bibleverse{1} Hízome tornar luego á la entrada de la casa; y he aquí aguas que salían de debajo del umbral de la casa hacia el oriente: porque la fachada de la casa estaba al oriente: y las aguas descendían de debajo, hacia el lado derecho de la casa, al mediodía del altar. 
 \bibleverse{2} Y sacóme por el camino de la puerta del norte, é hízome rodear por el camino fuera de la puerta, por de fuera al camino de la que mira al oriente: y he aquí las aguas que salían al lado derecho.
 
@@ -2176,7 +2223,8 @@
 \bibleverse{23} Y será que en la tribu en que peregrinare el extranjero, allí le daréis su heredad, ha dicho el Señor Jehová. 
 
 ## Las siete tribus al norte del santuario sagrado
-# 48 
+\hypertarget{section-26-48}{%
+\section{48}\label{section-26-48}}
 \bibleverse{1} Y estos son los nombres de las tribus: Desde la extremidad septentrional por la vía de Hethlon viniendo á Hamath, Haser-enon, al término de Damasco, al norte, al término de Hamath: tendrá Dan una parte, siendo sus extremidades al oriente y al occidente.
 
  

@@ -1,5 +1,6 @@
 ## Las ordenanzas finales de Jesús y su promesa a los discípulos; Ascensión
-# 1 
+\hypertarget{section-44-1}{%
+\section{1}\label{section-44-1}}
 \bibleverse{1} En el primer tratado, oh Teófilo, he hablado de todas las cosas que Jesús comenzó á hacer y á enseñar, 
 \bibleverse{2} Hasta el día en que, habiendo dado mandamientos por el Espíritu Santo á los apóstoles que escogió, fué recibido arriba; 
 \bibleverse{3} A los cuales, después de haber padecido, se presentó vivo con muchas pruebas indubitables, apareciéndoles por cuarenta días, y hablándoles del reino de Dios. 
@@ -43,7 +44,8 @@
 \bibleverse{26} Y les echaron suertes, y cayó la suerte sobre Matías; y fué contado con los once apóstoles. 
 
 ## El milagro de Pentecostés: el derramamiento del Espíritu Santo y su tremendo testimonio de las grandes obras de Dios
-# 2 
+\hypertarget{section-44-2}{%
+\section{2}\label{section-44-2}}
 \bibleverse{1} Y como se cumplieron los días de Pentecostés, estaban todos unánimes juntos; 
 \bibleverse{2} Y de repente vino un estruendo del cielo como de un viento recio que corría, el cual hinchió toda la casa donde estaban sentados; 
 \bibleverse{3} Y se les aparecieron lenguas repartidas, como de fuego, que se asentó sobre cada uno de ellos. 
@@ -115,7 +117,8 @@
 \bibleverse{47} Alabando á Dios, y teniendo gracia con todo el pueblo. Y el Señor añadía cada día á la iglesia los que habían de ser salvos. 
 
 ## Pedro y Juan curan a un cojo de nacimiento
-# 3 
+\hypertarget{section-44-3}{%
+\section{3}\label{section-44-3}}
 \bibleverse{1} Pedro y Juan subían juntos al templo á la hora de oración, la de nona. 
 \bibleverse{2} Y un hombre que era cojo desde el vientre de su madre, era traído; al cual ponían cada día á la puerta del templo que se llama la Hermosa, para que pidiese limosna de los que entraban en el templo. 
 \bibleverse{3} Este, como vió á Pedro y á Juan que iban á entrar en el templo, rogaba que le diesen limosna. 
@@ -151,7 +154,8 @@
 \bibleverse{26} A vosotros primeramente, Dios, habiendo levantado á su Hijo, le envió para que os bendijese, á fin de que cada uno se convierta de su maldad. 
 
 ## Pedro y Juan en la cárcel y ante el concilio
-# 4 
+\hypertarget{section-44-4}{%
+\section{4}\label{section-44-4}}
 \bibleverse{1} Y hablando ellos al pueblo, sobrevinieron los sacerdotes, y el magistrado del templo, y los Saduceos, 
 \bibleverse{2} Resentidos de que enseñasen al pueblo, y anunciasen en Jesús la resurrección de los muertos. 
 \bibleverse{3} Y les echaron mano, y los pusieron en la cárcel hasta el día siguiente; porque era ya tarde. 
@@ -213,7 +217,8 @@
 \bibleverse{37} Como tuviese una heredad, la vendió, y trajo el precio, y púsolo á los pies de los apóstoles. 
 
 ## Un ejemplo de disciplina eclesiástica seria: Ananías y Safira
-# 5 
+\hypertarget{section-44-5}{%
+\section{5}\label{section-44-5}}
 \bibleverse{1} Mas un varón llamado Ananías, con Safira su mujer, vendió una posesión, 
 \bibleverse{2} Y defraudó del precio, sabiéndolo también su mujer; y trayendo una parte, púsola á los pies de los apóstoles. 
 \bibleverse{3} Y dijo Pedro: Ananías, ¿por qué ha llenado Satanás tu corazón á que mintieses al Espíritu Santo, y defraudases del precio de la heredad? 
@@ -288,7 +293,8 @@
 \bibleverse{42} Y todos los días, en el templo y por las casas, no cesaban de enseñar y predicar á Jesucristo. 
 
 ## Separación de la oficina de predicación y ayuda a los pobres; Elección y nombramiento de los siete cuidadores pobres
-# 6 
+\hypertarget{section-44-6}{%
+\section{6}\label{section-44-6}}
 \bibleverse{1} En aquellos días, creciendo el número de los discípulos, hubo murmuración de los Griegos contra los Hebreos, de que sus viudas eran menospreciadas en el ministerio cotidiano. 
 \bibleverse{2} Así que, los doce convocaron la multitud de los discípulos, y dijeron: No es justo que nosotros dejemos la palabra de Dios, y sirvamos á las mesas. 
 \bibleverse{3} Buscad pues, hermanos, siete varones de vosotros de buen testimonio, llenos de Espíritu Santo y de sabiduría, los cuales pongamos en esta obra. 
@@ -313,7 +319,8 @@
 \bibleverse{15} Entonces todos los que estaban sentados en el concilio, puestos los ojos en él, vieron su rostro como el rostro de un ángel. 
 
 ## Discurso de defensa de Esteban: la época de los patriarcas
-# 7 
+\hypertarget{section-44-7}{%
+\section{7}\label{section-44-7}}
 \bibleverse{1} El príncipe de los sacerdotes dijo entonces: ¿Es esto así?
 
  
@@ -400,7 +407,8 @@
 \bibleverse{60} Y puesto de rodillas, clamó á gran voz: Señor, no les imputes este pecado. Y habiendo dicho esto, durmió. 
 
 ## La primera persecución de la comunidad cristiana en Jerusalén
-# 8 
+\hypertarget{section-44-8}{%
+\section{8}\label{section-44-8}}
 \bibleverse{1} Y Saulo consentía en su muerte. Y en aquel día se hizo una grande persecución en la iglesia que estaba en Jerusalem; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles. 
 \bibleverse{2} Y llevaron á enterrar á Esteban varones piadosos, é hicieron gran llanto sobre él. 
 \bibleverse{3} Entonces Saulo asolaba la iglesia, entrando por las casas: y trayendo hombres y mujeres, los entregaba en la cárcel.
@@ -475,7 +483,8 @@
 \bibleverse{40} Felipe empero se halló en Azoto: y pasando, anunciaba el evangelio en todas las ciudades, hasta que llegó á Cesarea. 
 
 ## La experiencia de Saulo camino a Damasco
-# 9 
+\hypertarget{section-44-9}{%
+\section{9}\label{section-44-9}}
 \bibleverse{1} Y Saulo, respirando aún amenazas y muerte contra los discípulos del Señor, vino al príncipe de los sacerdotes, 
 \bibleverse{2} Y demandó de él letras para Damasco á las sinagogas, para que si hallase algunos hombres ó mujeres de esta secta, los trajese presos á Jerusalem. 
 \bibleverse{3} Y yendo por el camino, aconteció que llegando cerca de Damasco, súbitamente le cercó un resplandor de luz del cielo; 
@@ -555,7 +564,8 @@
 \bibleverse{43} Y aconteció que se quedó muchos días en Joppe en casa de un cierto Simón, curtidor. 
 
 ## La visión de Cornelio en Cesarea
-# 10 
+\hypertarget{section-44-10}{%
+\section{10}\label{section-44-10}}
 \bibleverse{1} Y había un varón en Cesarea llamado Cornelio, centurión de la compañía que se llamaba la Italiana, 
 \bibleverse{2} Pío y temeroso de Dios con toda su casa, y que hacía muchas limosnas al pueblo, y oraba á Dios siempre. 
 \bibleverse{3} Este vió en visión manifiestamente, como á la hora nona del día, que un ángel de Dios entraba á él, y le decía: Cornelio.
@@ -638,7 +648,8 @@
 \bibleverse{48} Y les mandó bautizar en el nombre del Señor Jesús. Entonces le rogaron que se quedase por algunos días. 
 
 ## Pedro justifica el bautismo pagano en Jerusalén
-# 11 
+\hypertarget{section-44-11}{%
+\section{11}\label{section-44-11}}
 \bibleverse{1} Y oyeron los apóstoles y los hermanos que estaban en Judea, que también los Gentiles habían recibido la palabra de Dios. 
 \bibleverse{2} Y como Pedro subió á Jerusalem, contendían contra él los que eran de la circuncisión, 
 \bibleverse{3} Diciendo: ¿Por qué has entrado á hombres incircuncisos, y has comido con ellos?
@@ -682,7 +693,8 @@
 \bibleverse{30} Lo cual asimismo hicieron, enviándolo á los ancianos por mano de Bernabé y de Saulo. 
 
 ## Muerte de Santiago, arresto de Pedro
-# 12 
+\hypertarget{section-44-12}{%
+\section{12}\label{section-44-12}}
 \bibleverse{1} Y en el mismo tiempo el rey Herodes echó mano á maltratar algunos de la iglesia. 
 \bibleverse{2} Y mató á cuchillo á Jacobo, hermano de Juan. 
 \bibleverse{3} Y viendo que había agradado á los Judíos, pasó adelante para prender también á Pedro. Eran entonces los días de los ázimos. 
@@ -726,7 +738,8 @@
 \bibleverse{25} Y Bernabé y Saulo volvieron de Jerusalem cumplido su servicio, tomando también consigo á Juan, el que tenía por sobrenombre Marcos. 
 
 ## Consagración, envío y partida de Pablo y Bernabé; su eficacia en Chipre
-# 13 
+\hypertarget{section-44-13}{%
+\section{13}\label{section-44-13}}
 \bibleverse{1} Había entonces en la iglesia que estaba en Antioquía, profetas y doctores: Bernabé, y Simón el que se llamaba Niger, y Lucio Cireneo, y Manahén, que había sido criado con Herodes el tetrarca, y Saulo. 
 \bibleverse{2} Ministrando pues éstos al Señor, y ayunando, dijo el Espíritu Santo: Apartadme á Bernabé y á Saulo para la obra para la cual los he llamado.
 
@@ -803,7 +816,8 @@
 \bibleverse{52} Y los discípulos estaban llenos de gozo, y del Espíritu Santo. 
 
 ## Efectividad de los Apóstoles en Iconio
-# 14 
+\hypertarget{section-44-14}{%
+\section{14}\label{section-44-14}}
 \bibleverse{1} Y aconteció en Iconio, que entrados juntamente en la sinagoga de los Judíos, hablaron de tal manera, que creyó una grande multitud de Judíos, y asimismo de Griegos. 
 \bibleverse{2} Mas los Judíos que fueron incrédulos, incitaron y corrompieron los ánimos de los Gentiles contra los hermanos. 
 \bibleverse{3} Con todo eso se detuvieron allí mucho tiempo, confiados en el Señor, el cual daba testimonio á la palabra de su gracia, dando que señales y milagros fuesen hechos por las manos de ellos. 
@@ -848,7 +862,8 @@
 \bibleverse{28} Y se quedaron allí mucho tiempo con los discípulos. 
 
 ## La causa de la Convención; Envío de Pablo y Bernabé a Jerusalén
-# 15 
+\hypertarget{section-44-15}{%
+\section{15}\label{section-44-15}}
 \bibleverse{1} Entonces algunos que venían de Judea enseñaban á los hermanos: Que si no os circuncidáis conforme al rito de Moisés, no podéis ser salvos. 
 \bibleverse{2} Así que, suscitada una disensión y contienda no pequeña á Pablo y á Bernabé contra ellos, determinaron que subiesen Pablo y Bernabé á Jerusalem, y algunos otros de ellos, á los apóstoles y á los ancianos, sobre esta cuestión. 
 \bibleverse{3} Ellos, pues, habiendo sido acompañados de la iglesia, pasaron por la Fenicia y Samaria, contando la conversión de los Gentiles; y daban gran gozo á todos los hermanos. 
@@ -914,7 +929,8 @@
 \bibleverse{41} Y anduvo la Siria y la Cilicia, confirmando á las iglesias. 
 
 ## El viaje por tierra a través de Asia Menor hasta Troas
-# 16 
+\hypertarget{section-44-16}{%
+\section{16}\label{section-44-16}}
 \bibleverse{1} Después llegó á Derbe, y á Listra: y he aquí, estaba allí un discípulo llamado Timoteo, hijo de una mujer Judía fiel, mas de padre Griego. 
 \bibleverse{2} De éste daban buen testimonio los hermanos que estaban en Listra y en Iconio. 
 \bibleverse{3} Este quiso Pablo que fuese con él; y tomándole, le circuncidó por causa de los Judíos que estaban en aquellos lugares; porque todos sabían que su padre era Griego. 
@@ -990,7 +1006,8 @@
 \bibleverse{40} Entonces salidos de la cárcel, entraron en casa de Lidia; y habiendo visto á los hermanos, los consolaron, y se salieron. 
 
 ## Pablo en Tesalónica
-# 17 
+\hypertarget{section-44-17}{%
+\section{17}\label{section-44-17}}
 \bibleverse{1} Y pasando por Amphípolis y Apolonia, llegaron á Tesalónica, donde estaba la sinagoga de los Judíos. 
 \bibleverse{2} Y Pablo, como acostumbraba, entró á ellos, y por tres sábados disputó con ellos de las Escrituras, 
 \bibleverse{3} Declarando y proponiendo, que convenía que el Cristo padeciese, y resucitase de los muertos; y que Jesús, el cual yo os anuncio, decía él, éste era el Cristo.
@@ -1046,7 +1063,8 @@
 \bibleverse{34} Mas algunos creyeron, juntándose con él; entre los cuales también fué Dionisio el del Areópago, y una mujer llamada Dámaris, y otros con ellos. 
 
 ## Pablo en Corinto
-# 18 
+\hypertarget{section-44-18}{%
+\section{18}\label{section-44-18}}
 \bibleverse{1} Pasadas estas cosas, Pablo partió de Atenas, y vino á Corinto. 
 \bibleverse{2} Y hallando á un Judío llamado Aquila, natural del Ponto, que hacía poco que había venido de Italia, y á Priscila su mujer, (porque Claudio había mandado que todos los Judíos saliesen de Roma) se vino á ellos; 
 \bibleverse{3} Y porque era de su oficio, posó con ellos, y trabajaba; porque el oficio de ellos era hacer tiendas. 
@@ -1100,7 +1118,8 @@
 \bibleverse{28} Porque con gran vehemencia convencía públicamente á los Judíos, mostrando por las Escrituras que Jesús era el Cristo. 
 
 ## Conversión y bautismo de los discípulos de Juan
-# 19 
+\hypertarget{section-44-19}{%
+\section{19}\label{section-44-19}}
 \bibleverse{1} Y aconteció que entre tanto que Apolos estaba en Corinto, Pablo, andadas las regiones superiores, vino á Efeso, y hallando ciertos discípulos, 
 \bibleverse{2} Díjoles: ¿Habéis recibido el Espíritu Santo después que creísteis? Y ellos le dijeron: Antes ni aun hemos oído si hay Espíritu Santo.
 
@@ -1173,7 +1192,8 @@
 \bibleverse{40} Porque peligro hay de que seamos argüidos de sedición por hoy, no habiendo ninguna causa por la cual podamos dar razón de este concurso. Y habiendo dicho esto, despidió la concurrencia. 
 
 ## Viaje a Grecia y regresa a Troas
-# 20 
+\hypertarget{section-44-20}{%
+\section{20}\label{section-44-20}}
 \bibleverse{1} Y después que cesó el alboroto, llamando Pablo á los discípulos habiéndoles exhortado y abrazado, se despidió, y partió para ir á Macedonia. 
 \bibleverse{2} Y andado que hubo aquellas partes, y exhortádoles con abundancia de palabra, vino á Grecia. 
 \bibleverse{3} Y después de haber estado allí tres meses, y habiendo de navegar á Siria, le fueron puestas asechanzas por los Judíos; y así tomó consejo de volverse por Macedonia. 
@@ -1229,7 +1249,8 @@
 \bibleverse{38} Doliéndose en gran manera por la palabra que dijo, que no habían de ver más su rostro. Y le acompañaron al navío. 
 
 ## Continuación del viaje de Mileto a Tiro y Cesarea
-# 21 
+\hypertarget{section-44-21}{%
+\section{21}\label{section-44-21}}
 \bibleverse{1} Y habiendo partido de ellos, navegamos y vinimos camino derecho á Coos, y al día siguiente á Rhodas, y de allí á Pátara. 
 \bibleverse{2} Y hallando un barco que pasaba á Fenicia, nos embarcamos, y partimos. 
 \bibleverse{3} Y como avistamos á Cipro, dejándola á mano izquierda, navegamos á Siria, y vinimos á Tiro: porque el barco había de descargar allí su carga. 
@@ -1303,7 +1324,8 @@
 \bibleverse{40} Y como él se lo permitió, Pablo, estando en pie en las gradas, hizo señal con la mano al pueblo. Y hecho grande silencio, habló en lengua hebrea, diciendo: 
 
 ## El discurso de Pablo al pueblo
-# 22 
+\hypertarget{section-44-22}{%
+\section{22}\label{section-44-22}}
 \bibleverse{1} Varones hermanos y padres, oid la razón que ahora os doy.
 
  
@@ -1365,7 +1387,8 @@
  
 \bibleverse{30} Y al día siguiente, queriendo saber de cierto la causa por qué era acusado de los Judíos, le soltó de las prisiones, y mandó venir á los príncipes de los sacerdotes, y á todo su concilio: y sacando á Pablo, le presentó delante de ellos. 
 
-# 23 
+\hypertarget{section-44-23}{%
+\section{23}\label{section-44-23}}
 \bibleverse{1} Entonces Pablo, poniendo los ojos en el concilio, dice: Varones hermanos, yo con toda buena conciencia he conversado delante de Dios hasta el día de hoy.
 
  
@@ -1443,7 +1466,8 @@
 \bibleverse{35} Te oiré, dijo, cuando vinieren tus acusadores. Y mandó que le guardasen en el pretorio de Herodes. 
 
 ## Juicio ante el gobernador Félix
-# 24 
+\hypertarget{section-44-24}{%
+\section{24}\label{section-44-24}}
 \bibleverse{1} Y cinco días después descendió el sumo sacerdote Ananías, con algunos de los ancianos, y un cierto Tértulo, orador; y parecieron delante del gobernador contra Pablo. 
 \bibleverse{2} Y citado que fué, Tértulo comenzó á acusar, diciendo: Como por causa tuya vivamos en grande paz, y muchas cosas sean bien gobernadas en el pueblo por tu prudencia, 
 \bibleverse{3} Siempre y en todo lugar lo recibimos con todo hacimiento de gracias, oh excelentísimo Félix. 
@@ -1484,7 +1508,8 @@
 \bibleverse{27} Mas al cabo de dos años recibió Félix por sucesor á Porcio Festo: y queriendo Félix ganar la gracia de los Judíos, dejó preso á Pablo. 
 
 ## Reanudación del proceso; Festo en Jerusalén y Cesarea; Pablo apela al emperador
-# 25 
+\hypertarget{section-44-25}{%
+\section{25}\label{section-44-25}}
 \bibleverse{1} Festo pues, entrado en la provincia, tres días después subió de Cesarea á Jerusalem. 
 \bibleverse{2} Y vinieron á él los príncipes de los sacerdotes y los principales de los Judíos contra Pablo; y le rogaron, 
 \bibleverse{3} Pidiendo gracia contra él, que le hiciese traer á Jerusalem, poniendo ellos asechanzas para matarle en el camino. 
@@ -1530,7 +1555,8 @@
 \bibleverse{27} Porque fuera de razón me parece enviar un preso, y no informar de las causas. 
 
 ## Discurso defensivo de Pablo ante Agripa
-# 26 
+\hypertarget{section-44-26}{%
+\section{26}\label{section-44-26}}
 \bibleverse{1} Entonces Agripa dijo á Pablo: Se te permite hablar por ti mismo. Pablo entonces, extendiendo la mano, comenzó á responder por sí, diciendo:
 
  
@@ -1590,7 +1616,8 @@
 \bibleverse{32} Y Agripa dijo á Festo: Podía este hombre ser suelto, si no hubiera apelado á César. 
 
 ## El viaje de Pablo de Cesarea a Roma
-# 27 
+\hypertarget{section-44-27}{%
+\section{27}\label{section-44-27}}
 \bibleverse{1} Mas como fué determinado que habíamos de navegar para Italia, entregaron á Pablo y á algunos otros presos á un centurión, llamado Julio, de la compañía Augusta. 
 \bibleverse{2} Así que, embarcándonos en una nave Adrumentina, partimos, estando con nosotros Aristarco, Macedonio de Tesalónica, para navegar junto á los lugares de Asia. 
 \bibleverse{3} Y otro día llegamos á Sidón; y Julio, tratando á Pablo con humanidad, permitióle que fuese á los amigos, para ser de ellos asistido. 
@@ -1654,7 +1681,8 @@
 \bibleverse{44} Y los demás, parte en tablas, parte en cosas de la nave. Y así aconteció que todos se salvaron saliendo á tierra. 
 
 ## Invernada en la isla de Malta; Continuación del viaje a Roma
-# 28 
+\hypertarget{section-44-28}{%
+\section{28}\label{section-44-28}}
 \bibleverse{1} Y cuando escapamos, entonces supimos que la isla se llamaba Melita. 
 \bibleverse{2} Y los bárbaros nos mostraron no poca humanidad; porque, encendido un fuego, nos recibieron á todos, á causa de la lluvia que venía, y del frío.
 

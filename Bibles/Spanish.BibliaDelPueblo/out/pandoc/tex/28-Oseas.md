@@ -1,5 +1,6 @@
 ## La infidelidad de Israel a Dios representada visiblemente por el pacto matrimonial del profeta con una esposa infiel
-# 1 
+\hypertarget{section-28-1}{%
+\section{1}\label{section-28-1}}
 \bibleverse{1} Palabra de Jehová que fué á Oseas hijo de Beeri, en días de Ozías, Joathán, Achâz, y Ezechîas, reyes de Judá, y en días de Jeroboam hijo de Joas, rey de Israel.
 
  
@@ -29,7 +30,8 @@
 \bibleverse{10} Con todo será el número de los hijos de Israel como la arena de la mar, que ni se puede medir ni contar. Y será, que donde se les ha dicho: Vosotros no sois mi pueblo, les será dicho: Sois hijos del Dios viviente. 
 \bibleverse{11} Y los hijos de Judá y de Israel serán congregados en uno, y levantarán para sí una cabeza, y subirán de la tierra: porque el día de Jezreel será grande. 
 
-# 2 
+\hypertarget{section-28-2}{%
+\section{2}\label{section-28-2}}
 \bibleverse{1} Decid á vuestros hermanos, Ammi, y á vuestras hermanas, Ruhama:
 
 ## La falta de fe de la madre, es decir, del pueblo de Israel, y su castigo
@@ -61,7 +63,8 @@
 \bibleverse{23} Y sembraréla para mí en la tierra, y tendré misericordia de Lo-ruhama: y diré á Lo-ammi: Pueblo mío tú; y él dirá: Dios mío. 
 
 ## El mejoramiento del pueblo infiel a través de la coacción, representado por el comportamiento del profeta hacia su esposa infiel
-# 3 
+\hypertarget{section-28-3}{%
+\section{3}\label{section-28-3}}
 \bibleverse{1} Y díjome otra vez Jehová: Ve, ama una mujer amada de su compañero, aunque adúltera, como el amor de Jehová para con los hijos de Israel; los cuales miran á dioses ajenos, y aman frascos de vino.
 
  
@@ -73,7 +76,8 @@
 \bibleverse{5} Después volverán los hijos de Israel, y buscarán á Jehová su Dios, y á David su rey; y temerán á Jehová y á su bondad en el fin de los días. 
 
 ## Presentando cargos contra los malvados
-# 4 
+\hypertarget{section-28-4}{%
+\section{4}\label{section-28-4}}
 \bibleverse{1} Oid palabra de Jehová, hijos de Israel, porque Jehová pleitea con los moradores de la tierra; porque no hay verdad, ni misericordia, ni conocimiento de Dios en la tierra. 
 \bibleverse{2} Perjurar, y mentir, y matar, y hurtar y adulterar prevalecieron, y sangres se tocaron con sangres. 
 \bibleverse{3} Por lo cual, se enlutará la tierra, y extenuaráse todo morador de ella, con las bestias del campo, y las aves del cielo: y aun los peces de la mar fallecerán.
@@ -104,7 +108,8 @@
 \bibleverse{19} Atóla el viento en sus alas, y de sus sacrificios serán avergonzados. 
 
 ## Palabras de Oseas a los sacerdotes y a la familia real de Israel sobre su práctica de adoración falsa
-# 5 
+\hypertarget{section-28-5}{%
+\section{5}\label{section-28-5}}
 \bibleverse{1} Sacerdotes, oid esto, y estad atentos, casa de Israel; y casa del rey, escuchad: porque á vosotros es el juicio, pues habéis sido lazo en Mizpa, y red extendida sobre Tabor. 
 \bibleverse{2} Y haciendo víctimas han bajado hasta el profundo: por tanto yo seré la corrección de todos ellos. 
 \bibleverse{3} Yo conozco á Ephraim, é Israel no me es desconocido: porque ahora, oh Ephraim, has fornicado, y se ha contaminado Israel. 
@@ -127,7 +132,8 @@
  
 \bibleverse{15} Andaré, y tornaré á mi lugar hasta que conozcan su pecado, y busquen mi rostro. En su angustia madrugarán á mí. 
 
-# 6 
+\hypertarget{section-28-6}{%
+\section{6}\label{section-28-6}}
 \bibleverse{1} Venid y volvámonos á Jehová: que él arrebató, y nos curará; hirió, y nos vendará. 
 \bibleverse{2} Darános vida después de dos días: al tercer día nos resucitará, y viviremos delante de él. 
 \bibleverse{3} Y conoceremos, y proseguiremos en conocer á Jehová: como el alba está aparejada su salida, y vendrá á nosotros como la lluvia, como la lluvia tardía y temprana á la tierra. 
@@ -144,7 +150,8 @@
 \bibleverse{11} También Judá puso en ti una planta, habiendo yo vuelto la cautividad de mi pueblo. 
 
 ## La depravación de Israel se revela en la disrupción política
-# 7 
+\hypertarget{section-28-7}{%
+\section{7}\label{section-28-7}}
 \bibleverse{1} Estando yo curando á Israel, descubrióse la iniquidad de Ephraim, y las maldades de Samaria; porque obraron engaño: y viene el ladrón, y el salteador despoja de fuera. 
 \bibleverse{2} Y no dicen en su corazón que tengo en la memoria toda su maldad: ahora los rodearán sus obras; delante de mí están. 
 \bibleverse{3} Con su maldad alegran al rey, y á los príncipes con sus mentiras. 
@@ -166,7 +173,8 @@
 \bibleverse{16} Tornáronse, mas no al Altísimo: fueron como arco engañoso: cayeron sus príncipes á cuchillo por la soberbia de su lengua: éste será su escarnio en la tierra de Egipto. 
 
 ## Nueva llamada de atención por los graves pecados de Israel
-# 8 
+\hypertarget{section-28-8}{%
+\section{8}\label{section-28-8}}
 \bibleverse{1} Pon á tu boca trompeta. Vendrá como águila contra la casa de Jehová, porque traspasaron mi pacto, y se rebelaron contra mi ley. 
 \bibleverse{2} A mí clamará Israel: Dios mío, te hemos conocido. 
 \bibleverse{3} Israel desamparó el bien: enemigo lo perseguirá. 
@@ -183,7 +191,8 @@
 \bibleverse{14} Olvidó pues Israel á su Hacedor, y edificó templos, y Judá multiplicó ciudades fuertes: mas yo meteré fuego en sus ciudades, el cual devorará sus palacios. 
 
 ## Anuncio del juicio del exilio en un festival de otoño
-# 9 
+\hypertarget{section-28-9}{%
+\section{9}\label{section-28-9}}
 \bibleverse{1} No te alegres, oh Israel, hasta saltar de gozo como los pueblos, pues has fornicado apartándote de tu Dios: amaste salario por todas las eras de trigo. 
 \bibleverse{2} La era y el lagar no los mantendrán; les fallará el mosto. 
 \bibleverse{3} No quedarán en la tierra de Jehová, sino que volverá Ephraim á Egipto, y á Asiria, donde comerán vianda inmunda. 
@@ -209,7 +218,8 @@
 \bibleverse{17} Mi Dios los desechará, porque ellos no le oyeron; y andarán errantes entre las gentes. 
 
 ## Desolación de los ídolos de Israel
-# 10 
+\hypertarget{section-28-10}{%
+\section{10}\label{section-28-10}}
 \bibleverse{1} Es Israel una frondosa viña, haciendo fruto para sí: conforme á la multiplicación de su fruto multiplicó altares, conforme á la bondad de su tierra aumentaron sus estatuas. 
 \bibleverse{2} Dividióse su corazón. Ahora serán hallados culpables: él quebrantará sus altares, asolará sus estatuas. 
 \bibleverse{3} Porque dirán ahora: No tenemos rey, porque no temimos á Jehová: ¿y qué haría el rey por nosotros? 
@@ -230,7 +240,8 @@
 \bibleverse{15} Así hará á vosotros Beth-el por la maldad de vuestra maldad: en la mañana será del todo cortado el rey de Israel. 
 
 ## El amor inicial de Dios por Israel finalmente triunfará sobre toda ingratitud e infidelidad del pueblo
-# 11 
+\hypertarget{section-28-11}{%
+\section{11}\label{section-28-11}}
 \bibleverse{1} Cuando Israel era muchacho, yo lo amé, y de Egipto llamé á mi hijo. 
 \bibleverse{2} Como los llamaban, así ellos se iban de su presencia; á los Baales sacrificaban, y á las esculturas ofrecían sahumerios. 
 \bibleverse{3} Yo con todo eso guiaba en pies al mismo Ephraim, tomándolos de sus brazos; y no conocieron que yo los cuidaba. 
@@ -244,7 +255,8 @@
 \bibleverse{11} Como ave se moverán velozmente de Egipto, y de la tierra de Asiria como paloma; y pondrélos en sus casas, dice Jehová. 
 
 ## El ejemplo de su antepasado Jacob, característico de los infieles
-# 12 
+\hypertarget{section-28-12}{%
+\section{12}\label{section-28-12}}
 \bibleverse{1} Cercóme Ephraim con mentira, y la casa de Israel con engaño: mas Judá aun domina con Dios, y es fiel con los santos. 
 \bibleverse{2} Ephraim se apacienta del viento, y sigue al solano: mentira y destrucción aumenta continuamente; porque hicieron alianza con los Asirios, y aceite se lleva á Egipto. 
 \bibleverse{3} Pleito tiene Jehová con Judá para visitar á Jacob conforme á sus caminos: pagarále conforme á sus obras. 
@@ -261,7 +273,8 @@
 \bibleverse{14} Y por profeta hizo subir Jehová á Israel de Egipto, y por profeta fué guardado. Enojado ha Ephraim á Dios con amarguras; por tanto, sus sangres se derramarán sobre él, y su Señor le pagará su oprobio. 
 
 ## Los fracasos de Efraín como causa de la ira divina y la ineludible caída
-# 13 
+\hypertarget{section-28-13}{%
+\section{13}\label{section-28-13}}
 \bibleverse{1} Cuando Ephraim hablaba, hubo temor; fué ensalzado en Israel; mas pecó en Baal, y murió. 
 \bibleverse{2} Y ahora añadieron á su pecado, y de su plata se han hecho según su entendimiento, estatuas de fundición, ídolos, toda obra de artífices; acerca de los cuales dicen á los hombres que sacrifican, que besen los becerros. 
 \bibleverse{3} Por tanto serán como la niebla de la mañana, y como el rocío de la madrugada que se pasa; como el tamo que la tempestad arroja de la era, y como el humo que de la chimenea sale. 
@@ -286,7 +299,8 @@
 \bibleverse{16} Samaria será asolada, porque se rebeló contra su Dios: caerán á cuchillo: sus niños serán estrellados, y sus preñadas serán abiertas. 
 
 ## Recordatorio de arrepentimiento y oración penitencial del pueblo
-# 14 
+\hypertarget{section-28-14}{%
+\section{14}\label{section-28-14}}
 \bibleverse{1} Conviértete, oh Israel, á Jehová tu Dios: porque por tu pecado has caído. 
 \bibleverse{2} Tomad con vosotros palabras, y convertíos á Jehová, y decidle: Quita toda iniquidad, y acepta el bien, y daremos becerros de nuestros labios. 
 \bibleverse{3} No nos librará Assur; no subiremos sobre caballos, ni nunca más diremos á la obra de nuestras manos: Dioses nuestros: porque en ti el huérfano alcanzará misericordia. 

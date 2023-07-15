@@ -1,5 +1,6 @@
 ## El lamento del Profeta por las pésimas condiciones de su tiempo y la depravación de su pueblo
-# 1 
+\hypertarget{section-35-1}{%
+\section{1}\label{section-35-1}}
 \bibleverse{1} La carga que vió Habacuc profeta. 
 \bibleverse{2} ¿Hasta cuándo, oh Jehová, clamaré, y no oirás; y daré voces á ti á causa de la violencia, y no salvarás? 
 \bibleverse{3} ¿Por qué me haces ver iniquidad, y haces que mire molestia, y saco y violencia delante de mí, habiendo además quien levante pleito y contienda? 
@@ -25,7 +26,8 @@
 \bibleverse{17} ¿Vaciará por eso su red, ó tendrá piedad de matar gentes continuamente? 
 
 ## Habacuc espera y recibe la respuesta de Dios a su queja
-# 2 
+\hypertarget{section-35-2}{%
+\section{2}\label{section-35-2}}
 \bibleverse{1} Sobre mi guarda estaré, y sobre la fortaleza afirmaré el pie, y atalayaré para ver qué hablará en mí, y qué tengo de responder á mi pregunta.
 
  
@@ -63,7 +65,8 @@
 \bibleverse{20} Mas Jehová está en su santo templo: calle delante de él toda la tierra. 
 
 ## Canción a la aparición del Señor en el juicio
-# 3 
+\hypertarget{section-35-3}{%
+\section{3}\label{section-35-3}}
 \bibleverse{1} Oración de Habacuc profeta, sobre Sigionoth.
 
  

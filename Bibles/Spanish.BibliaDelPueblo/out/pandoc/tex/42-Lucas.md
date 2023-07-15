@@ -1,5 +1,6 @@
 ## Introducción
-# 1 
+\hypertarget{section-42-1}{%
+\section{1}\label{section-42-1}}
 \bibleverse{1} Habiendo muchos tentado á poner en orden la historia de las cosas que entre nosotros han sido ciertísimas, 
 \bibleverse{2} Como nos lo enseñaron los que desde el principio lo vieron por sus ojos, y fueron ministros de la palabra; 
 \bibleverse{3} Me ha parecido también á mí, después de haber entendido todas las cosas desde el principio con diligencia, escribírtelas por orden, oh muy buen Teófilo, 
@@ -128,7 +129,8 @@
 \bibleverse{80} Y el niño crecía, y se fortalecía en espíritu: y estuvo en los desiertos hasta el día que se mostró á Israel. 
 
 ## El decreto del emperador Augusto y su significado para el nacimiento de Jesús
-# 2 
+\hypertarget{section-42-2}{%
+\section{2}\label{section-42-2}}
 \bibleverse{1} Y aconteció en aquellos días que salió edicto de parte de Augusto César, que toda la tierra fuese empadronada. 
 \bibleverse{2} Este empadronamiento primero fué hecho siendo Cirenio gobernador de la Siria. 
 \bibleverse{3} E iban todos para ser empadronados, cada uno á su ciudad. 
@@ -211,7 +213,8 @@
 \bibleverse{52} Y Jesús crecía en sabiduría, y en edad, y en gracia para con Dios y los hombres. 
 
 ## Aparición, sermón penitencial, efectividad y captura de Juan Bautista
-# 3 
+\hypertarget{section-42-3}{%
+\section{3}\label{section-42-3}}
 \bibleverse{1} Y en el año quince del imperio de Tiberio César, siendo gobernador de Judea Poncio Pilato, y Herodes tetrarca de Galilea, y su hermano Felipe tetrarca de Iturea y de la provincia de Traconite, y Lisanias tetrarca de Abilinia, 
 \bibleverse{2} Siendo sumos sacerdotes Anás y Caifás, vino palabra del Señor sobre Juan, hijo de Zacarías, en el desierto. 
 \bibleverse{3} Y él vino por toda la tierra al rededor del Jordán predicando el bautismo del arrepentimiento para la remisión de pecados; 
@@ -274,7 +277,8 @@
 \bibleverse{38} Que fué de Cainán, que fué de Enós, que fué de Seth, que fué de Adam, que fué de Dios. 
 
 ## La tentación de Jesús como prueba de Mesías
-# 4 
+\hypertarget{section-42-4}{%
+\section{4}\label{section-42-4}}
 \bibleverse{1} Y Jesús, lleno del Espíritu Santo, volvió del Jordán, y fué llevado por el Espíritu al desierto 
 \bibleverse{2} Por cuarenta días, y era tentado del diablo. Y no comió cosa en aquellos días: los cuales pasados, tuvo hambre.
 
@@ -363,7 +367,8 @@
 \bibleverse{44} Y predicaba en las sinagogas de Galilea. 
 
 ## El sermón de Jesús en el barco; maravilloso viaje de pesca de Peter; Llamando a los primeros cuatro discípulos
-# 5 
+\hypertarget{section-42-5}{%
+\section{5}\label{section-42-5}}
 \bibleverse{1} Y aconteció, que estando él junto al lago de Genezaret, las gentes se agolpaban sobre él para oir la palabra de Dios. 
 \bibleverse{2} Y vió dos barcos que estaban cerca de la orilla del lago: y los pescadores, habiendo descendido de ellos, lavaban sus redes. 
 \bibleverse{3} Y entrado en uno de estos barcos, el cual era de Simón, le rogó que lo desviase de tierra un poco; y sentándose, enseñaba desde el barco á las gentes.
@@ -443,7 +448,8 @@
 \bibleverse{39} Y ninguno que bebiere del añejo, quiere luego el nuevo; porque dice: El añejo es mejor. 
 
 ## El arranco de espigas de los discípulos en sábado; La primera disputa de Jesús con los fariseos sobre la santificación del día de reposo
-# 6 
+\hypertarget{section-42-6}{%
+\section{6}\label{section-42-6}}
 \bibleverse{1} Y aconteció que pasando él por los sembrados en un sábado segundo del primero, sus discípulos arrancaban espigas, y comían, restregándolas con las manos. 
 \bibleverse{2} Y algunos de los Fariseos les dijeron: ¿Por qué hacéis lo que no es lícito hacer en los sábados?
 
@@ -528,7 +534,8 @@
 \bibleverse{49} Mas el que oyó y no hizo, semejante es al hombre que edificó su casa sobre tierra, sin fundamento; en la cual el río dió con ímpetu, y luego cayó; y fué grande la ruina de aquella casa. 
 
 ## Sanación del siervo del centurión de Capernaum
-# 7 
+\hypertarget{section-42-7}{%
+\section{7}\label{section-42-7}}
 \bibleverse{1} Y como acabó todas sus palabras oyéndole el pueblo, entró en Capernaum. 
 \bibleverse{2} Y el siervo de un centurión, al cual tenía él en estima, estaba enfermo y á punto de morir. 
 \bibleverse{3} Y como oyó hablar de Jesús, envió á él los ancianos de los Judíos, rogándole que viniese y librase á su siervo. 
@@ -616,7 +623,8 @@
 \bibleverse{50} Y dijo á la mujer: Tu fe te ha salvado, ve en paz. 
 
 ## El compañero constante de Jesús en sus andanzas; las sirvientas galileas
-# 8 
+\hypertarget{section-42-8}{%
+\section{8}\label{section-42-8}}
 \bibleverse{1} Y aconteció después, que él caminaba por todas las ciudades y aldeas, predicando y anunciando el evangelio del reino de Dios, y los doce con él, 
 \bibleverse{2} Y algunas mujeres que habían sido curadas de malos espíritus y de enfermedades: María, que se llamaba Magdalena, de la cual habían salido siete demonios, 
 \bibleverse{3} Y Juana, mujer de Chuza, procurador de Herodes, y Susana, y otras muchas que le servían de sus haciendas.
@@ -723,7 +731,8 @@
 \bibleverse{56} Y sus padres estaban atónitos; á los cuales él mandó, que á nadie dijesen lo que había sido hecho. 
 
 ## Enviar a los doce discípulos y darles instrucciones
-# 9 
+\hypertarget{section-42-9}{%
+\section{9}\label{section-42-9}}
 \bibleverse{1} Y juntando á sus doce discípulos, les dió virtud y potestad sobre todos los demonios, y que sanasen enfermedades. 
 \bibleverse{2} Y los envió á que predicasen el reino de Dios, y que sanasen á los enfermos. 
 \bibleverse{3} Y les dice: No toméis nada para el camino, ni báculo, ni alforja, ni pan, ni dinero; ni tengáis dos vestidos cada uno. 
@@ -858,7 +867,8 @@
 \bibleverse{62} Y Jesús le dijo: Ninguno que poniendo su mano al arado mira atrás, es apto para el reino de Dios. 
 
 ## Enviar a los setenta discípulos y darles instrucciones; Arrepentimiento sobre las ciudades galileas impenitentes
-# 10 
+\hypertarget{section-42-10}{%
+\section{10}\label{section-42-10}}
 \bibleverse{1} Y después de estas cosas, designó el Señor aun otros setenta, los cuales envió de dos en dos delante de sí, á toda ciudad y lugar á donde él había de venir. 
 \bibleverse{2} Y les decía: La mies á la verdad es mucha, mas los obreros pocos; por tanto, rogad al Señor de la mies que envíe obreros á su mies. 
 \bibleverse{3} Andad, he aquí yo os envío como corderos en medio de lobos. 
@@ -936,7 +946,8 @@
 \bibleverse{42} Empero una cosa es necesaria; y María escogió la buena parte, la cual no le será quitada. 
 
 ## Jesús enseña a los discípulos a orar: el Padre Nuestro
-# 11 
+\hypertarget{section-42-11}{%
+\section{11}\label{section-42-11}}
 \bibleverse{1} Y aconteció que estando él orando en un lugar, como acabó, uno de sus discípulos le dijo: Señor, enséñanos á orar, como también Juan enseñó á sus discípulos.
 
  
@@ -1031,7 +1042,8 @@
 \bibleverse{54} Acechándole, y procurando cazar algo de su boca para acusarle. 
 
 ## Advertencia de hipocresía farisea
-# 12 
+\hypertarget{section-42-12}{%
+\section{12}\label{section-42-12}}
 \bibleverse{1} En esto, juntándose muchas gentes, tanto que unos á otros se hollaban, comenzó á decir á sus discípulos, primeramente: Guardaos de la levadura de los Fariseos, que es hipocresía. 
 \bibleverse{2} Porque nada hay encubierto, que no haya de ser descubierto; ni oculto, que no haya de ser sabido. 
 \bibleverse{3} Por tanto, las cosas que dijisteis en tinieblas, á la luz serán oídas; y lo que hablasteis al oído en las cámaras, será pregonado en los terrados.
@@ -1136,7 +1148,8 @@
 \bibleverse{59} Te digo que no saldrás de allá, hasta que hayas pagado hasta el último maravedí. 
 
 ## Recordatorios de penitencia
-# 13 
+\hypertarget{section-42-13}{%
+\section{13}\label{section-42-13}}
 \bibleverse{1} Y en este mismo tiempo estaban allí unos que le contaban acerca de los Galileos, cuya sangre Pilato había mezclado con sus sacrificios. 
 \bibleverse{2} Y respondiendo Jesús, les dijo: ¿Pensáis que estos Galileos, porque han padecido tales cosas, hayan sido más pecadores que todos los Galileos? 
 \bibleverse{3} No, os digo; antes si no os arrepintiereis, todos pereceréis igualmente. 
@@ -1202,7 +1215,8 @@
 \bibleverse{35} He aquí, os es dejada vuestra casa desierta: y os digo que no me veréis, hasta que venga tiempo cuando digáis: Bendito el que viene en nombre del Señor. 
 
 ## Nueva disputa sobre la curación de los enfermos en sábado
-# 14 
+\hypertarget{section-42-14}{%
+\section{14}\label{section-42-14}}
 \bibleverse{1} Y aconteció que entrando en casa de un príncipe de los Fariseos un sábado á comer pan, ellos le acechaban. 
 \bibleverse{2} Y he aquí un hombre hidrópico estaba delante de él. 
 \bibleverse{3} Y respondiendo Jesús, habló á los doctores de la ley y á los Fariseos, diciendo: ¿Es lícito sanar en sábado?
@@ -1271,7 +1285,8 @@
 \bibleverse{35} Ni para la tierra, ni para el muladar es buena; fuera la arrojan. Quien tiene oídos para oir, oiga. 
 
 ## Parábolas de la oveja perdida y la dracma perdida
-# 15 
+\hypertarget{section-42-15}{%
+\section{15}\label{section-42-15}}
 \bibleverse{1} Y se llegaban á él todos los publicanos y pecadores á oirle. 
 \bibleverse{2} Y murmuraban los Fariseos y los escribas, diciendo: Este á los pecadores recibe, y con ellos come.
 
@@ -1321,7 +1336,8 @@
 \bibleverse{32} Mas era menester hacer fiesta y holgarnos, porque este tu hermano muerto era, y ha revivido; habíase perdido, y es hallado. 
 
 ## Parábola del mayordomo infiel pero sabio
-# 16 
+\hypertarget{section-42-16}{%
+\section{16}\label{section-42-16}}
 \bibleverse{1} Y dijo también á sus discípulos: Había un hombre rico, el cual tenía un mayordomo, y éste fué acusado delante de él como disipador de sus bienes. 
 \bibleverse{2} Y le llamó, y le dijo: ¿Qué es esto que oigo de ti? Da cuenta de tu mayordomía, porque ya no podrás más ser mayordomo.
 
@@ -1382,7 +1398,8 @@
 \bibleverse{31} Mas Abraham le dijo: Si no oyen á Moisés y á los profetas, tampoco se persuadirán, si alguno se levantare de los muertos. 
 
 ## Advertencia contra la seducción y recordatorio de perdonar
-# 17 
+\hypertarget{section-42-17}{%
+\section{17}\label{section-42-17}}
 \bibleverse{1} Y Á sus discípulos dice: Imposible es que no vengan escándalos; mas ¡ay de aquél por quien vienen! 
 \bibleverse{2} Mejor le fuera, si le pusiesen al cuello una piedra de molino, y le lanzasen en el mar, que escandalizar á uno de estos pequeñitos. 
 \bibleverse{3} Mirad por vosotros: si pecare contra ti tu hermano, repréndele; y si se arrepintiere, perdónale. 
@@ -1444,7 +1461,8 @@
 \bibleverse{37} Y respondiendo, le dicen: ¿Dónde, Señor? Y él les dijo: Donde estuviere el cuerpo, allá se juntarán también las águilas. 
 
 ## Parábola del juez impío y la viuda suplicante
-# 18 
+\hypertarget{section-42-18}{%
+\section{18}\label{section-42-18}}
 \bibleverse{1} Y propúsoles también una parábola sobre que es necesario orar siempre, y no desmayar, 
 \bibleverse{2} Diciendo: Había un juez en una ciudad, el cual ni temía á Dios, ni respetaba á hombre. 
 \bibleverse{3} Había también en aquella ciudad una viuda, la cual venía á él diciendo: Hazme justicia de mi adversario. 
@@ -1534,7 +1552,8 @@
 \bibleverse{43} Y luego vió, y le seguía, glorificando á Dios: y todo el pueblo como lo vió, dió á Dios alabanza. 
 
 ## La visita de Jesús al principal recaudador de impuestos Zaqueo en Jericó
-# 19 
+\hypertarget{section-42-19}{%
+\section{19}\label{section-42-19}}
 \bibleverse{1} Y habiendo entrado Jesús, iba pasando por Jericó; 
 \bibleverse{2} Y he aquí un varón llamado Zaqueo, el cual era el principal de los publicanos, y era rico; 
 \bibleverse{3} Y procuraba ver á Jesús quién fuese; mas no podía á causa de la multitud, porque era pequeño de estatura. 
@@ -1627,7 +1646,8 @@
 \bibleverse{48} Y no hallaban qué hacerle, porque todo el pueblo estaba suspenso oyéndole. 
 
 ## La pregunta del sumo consejo sobre la autoridad de Jesús
-# 20 
+\hypertarget{section-42-20}{%
+\section{20}\label{section-42-20}}
 \bibleverse{1} Y aconteció un día, que enseñando él al pueblo en el templo, y anunciando el evangelio, llegáronse los príncipes de los sacerdotes y los escribas, con los ancianos; 
 \bibleverse{2} Y le hablaron, diciendo: Dinos: ¿con qué potestad haces estas cosas? ¿ó quién es el que te ha dado esta potestad?
 
@@ -1716,7 +1736,8 @@
 \bibleverse{47} Que devoran las casas de las viudas, poniendo por pretexto la larga oración: éstos recibirán mayor condenación. 
 
 ## Jesús alaba las dos blancas de la viuda pobre
-# 21 
+\hypertarget{section-42-21}{%
+\section{21}\label{section-42-21}}
 \bibleverse{1} Y mirando, vió á los ricos que echaban sus ofrendas en el gazofilacio. 
 \bibleverse{2} Y vió también una viuda pobrecilla, que echaba allí dos blancas. 
 \bibleverse{3} Y dijo: De verdad os digo, que esta pobre viuda echó más que todos: 
@@ -1785,7 +1806,8 @@
 \bibleverse{38} Y todo el pueblo venía á él por la mañana, para oirle en el templo. 
 
 ## Intento de asesinato por parte de los líderes del pueblo
-# 22 
+\hypertarget{section-42-22}{%
+\section{22}\label{section-42-22}}
 \bibleverse{1} Y estaba cerca el día de la fiesta de los ázimos, que se llama la Pascua. 
 \bibleverse{2} Y los príncipes de los sacerdotes y los escribas buscaban cómo le matarían; mas tenían miedo del pueblo.
 
@@ -1935,7 +1957,8 @@
 \bibleverse{71} Entonces ellos dijeron: ¿Qué más testimonio deseamos? porque nosotros lo hemos oído de su boca. 
 
 ## La acusación de los judíos y el interrogatorio de Jesús ante Pilato
-# 23 
+\hypertarget{section-42-23}{%
+\section{23}\label{section-42-23}}
 \bibleverse{1} Levantándose entonces toda la multitud de ellos, lleváronle á Pilato. 
 \bibleverse{2} Y comenzaron á acusarle, diciendo: A éste hemos hallado que pervierte la nación, y que veda dar tributo á César, diciendo que él es el Cristo, el rey.
 
@@ -2043,7 +2066,8 @@
 \bibleverse{56} Y vueltas, aparejaron drogas aromáticas y ungüentos; y reposaron el sábado, conforme al mandamiento. 
 
 ## Descubrimiento de la tumba vacía en la mañana de Pascua; la revelación a las mujeres
-# 24 
+\hypertarget{section-42-24}{%
+\section{24}\label{section-42-24}}
 \bibleverse{1} Y el primer día de la semana, muy de mañana, vinieron al sepulcro, trayendo las drogas aromáticas que habían aparejado, y algunas otras mujeres con ellas. 
 \bibleverse{2} Y hallaron la piedra revuelta del sepulcro. 
 \bibleverse{3} Y entrando, no hallaron el cuerpo del Señor Jesús. 

@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-52-1}{%
+\section{1}\label{section-52-1}}
 \bibleverse{1} Pablo, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es en Dios Padre y en el Señor Jesucristo: Gracia y paz á vosotros de Dios nuestro Padre y del Señor Jesucristo.
 
 ## Acción de gracias por la obra de Dios en Tesalónica y expresión de alegría por la vida ejemplar de fe en la comunidad
@@ -15,7 +16,8 @@
 \bibleverse{10} Y esperar á su Hijo de los cielos, al cual resucitó de los muertos; á Jesús, el cual nos libró de la ira que ha de venir. 
 
 ## Recordatorio de la eficacia enérgica, desinteresada y amorosa de los mensajeros de Dios en Tesalónica
-# 2 
+\hypertarget{section-52-2}{%
+\section{2}\label{section-52-2}}
 \bibleverse{1} Porque, hermanos, vosotros mismos sabéis que nuestra entrada á vosotros no fué vana: 
 \bibleverse{2} Pues aun habiendo padecido antes, y sido afrentados en Filipos, como sabéis, tuvimos denuedo en Dios nuestro para anunciaros el evangelio de Dios con gran combate. 
 \bibleverse{3} Porque nuestra exhortación no fué de error, ni de inmundicia, ni por engaño; 
@@ -46,7 +48,8 @@
 \bibleverse{20} Que vosotros sois nuestra gloria y gozo. 
 
 ## Información sobre la misión de Timoteo y el resultado favorable de su misión; el agradecimiento del apóstol y su deseo de oración
-# 3 
+\hypertarget{section-52-3}{%
+\section{3}\label{section-52-3}}
 \bibleverse{1} Por lo cual, no pudiendo esperar más, acordamos quedarnos solos en Atenas, 
 \bibleverse{2} Y enviamos á Timoteo, nuestro hermano, y ministro de Dios, y colaborador nuestro en el evangelio de Cristo, á confirmaros y exhortaros en vuestra fe, 
 \bibleverse{3} Para que nadie se conmueva por estas tribulaciones; porque vosotros sabéis que nosotros somos puestos para esto. 
@@ -66,7 +69,8 @@
 \bibleverse{13} Para que sean confirmados vuestros corazones en santidad, irreprensibles delante de Dios y nuestro Padre, para la venida de nuestro Señor Jesucristo con todos sus santos. 
 
 ## Recordatorio de castidad y honestidad en la vida empresarial
-# 4 
+\hypertarget{section-52-4}{%
+\section{4}\label{section-52-4}}
 \bibleverse{1} Resta pues, hermanos, que os roguemos y exhortemos en el Señor Jesús, que de la manera que fuisteis enseñados de nosotros de cómo os conviene andar, y agradar á Dios, así vayáis creciendo. 
 \bibleverse{2} Porque ya sabéis qué mandamientos os dimos por el Señor Jesús. 
 \bibleverse{3} Porque la voluntad de Dios es vuestra santificación: que os apartéis de fornicación; 
@@ -93,7 +97,8 @@
 \bibleverse{18} Por tanto, consolaos los unos á los otros en estas palabras. 
 
 ## Recordatorio de estar alerta y sobrio sobre la incertidumbre del momento del regreso de Cristo
-# 5 
+\hypertarget{section-52-5}{%
+\section{5}\label{section-52-5}}
 \bibleverse{1} Empero acerca de los tiempos y de los momentos, no tenéis, hermanos, necesidad de que yo os escriba: 
 \bibleverse{2} Porque vosotros sabéis bien, que el día del Señor vendrá así como ladrón de noche, 
 \bibleverse{3} Que cuando dirán, Paz y seguridad, entonces vendrá sobre ellos destrucción de repente, como los dolores á la mujer preñada; y no escaparán. 

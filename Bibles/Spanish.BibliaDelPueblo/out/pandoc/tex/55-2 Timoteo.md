@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-55-1}{%
+\section{1}\label{section-55-1}}
 \bibleverse{1} Pablo, apóstol de Jesucristo por la voluntad de Dios, según la promesa de la vida que es en Cristo Jesús, 
 \bibleverse{2} A Timoteo, amado hijo: Gracia, misericordia, y paz de Dios el Padre y de Jesucristo nuestro Señor.
 
@@ -33,7 +34,8 @@
 \bibleverse{18} Déle el Señor que halle misericordia cerca del Señor en aquel día. Y cuánto nos ayudó en Efeso, tú lo sabes mejor. 
 
 ## Exhortación a Timoteo para que se preocupe por la predicación de la doctrina de la salvación y se fortalezca en la batalla y el sufrimiento
-# 2 
+\hypertarget{section-55-2}{%
+\section{2}\label{section-55-2}}
 \bibleverse{1} Pues tú, hijo mío, esfuérzate en la gracia que es en Cristo Jesús. 
 \bibleverse{2} Y lo que has oído de mí entre muchos testigos, esto encarga á los hombres fieles que serán idóneos para enseñar también á otros. 
 \bibleverse{3} Tú pues, sufre trabajos como fiel soldado de Jesucristo. 
@@ -77,7 +79,8 @@
 \bibleverse{26} Y se zafen del lazo del diablo, en que están cautivos á voluntad de él. 
 
 ## Descripción de los futuros falsos maestros y la corrupción moral del último tiempo
-# 3 
+\hypertarget{section-55-3}{%
+\section{3}\label{section-55-3}}
 \bibleverse{1} Esto también sepas, que en los postreros días vendrán tiempos peligrosos: 
 \bibleverse{2} Que habrá hombres amadores de sí mismos, avaros, vanagloriosos, soberbios, detractores, desobedientes á los padres, ingratos, sin santidad, 
 \bibleverse{3} Sin afecto, desleales, calumniadores, destemplados, crueles, aborrecedores de lo bueno, 
@@ -100,7 +103,8 @@
 \bibleverse{17} Para que el hombre de Dios sea perfecto, enteramente instruído para toda buena obra. 
 
 ## Otro llamado a Timoteo para que sea fiel a su oficio
-# 4 
+\hypertarget{section-55-4}{%
+\section{4}\label{section-55-4}}
 \bibleverse{1} Requiero yo pues delante de Dios, y del Señor Jesucristo, que ha de juzgar á los vivos y los muertos en su manifestación y en su reino, 
 \bibleverse{2} Que prediques la palabra; que instes á tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina. 
 \bibleverse{3} Porque vendrá tiempo cuando no sufrirán la sana doctrina; antes, teniendo comezón de oir, se amontonarán maestros conforme á sus concupiscencias, 

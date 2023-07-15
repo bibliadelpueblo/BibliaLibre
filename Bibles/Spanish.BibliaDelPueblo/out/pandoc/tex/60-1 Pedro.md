@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-60-1}{%
+\section{1}\label{section-60-1}}
 \bibleverse{1} Pedro, apóstol de Jesucristo, á los extranjeros esparcidos en Ponto, en Galacia, en Capadocia, en Asia, y en Bithinia, 
 \bibleverse{2} Elegidos según la presciencia de Dios Padre en santificación del Espíritu, para obedecer y ser rociados con la sangre de Jesucristo: Gracia y paz os sea multiplicada.
 
@@ -41,7 +42,8 @@
 \bibleverse{25} Mas la palabra del Señor permanece perpetuamente. Y esta es la palabra que por el evangelio os ha sido anunciada. 
 
 ## Procedan en la santificación y edifíquense como piedras vivas sobre Cristo, la piedra angular, para un pueblo espiritual de sacerdotes
-# 2 
+\hypertarget{section-60-2}{%
+\section{2}\label{section-60-2}}
 \bibleverse{1} Dejando pues toda malicia, y todo engaño, y fingimientos, y envidias, y todas las detracciones, 
 \bibleverse{2} Desead, como niños recién nacidos, la leche espiritual, sin engaño, para que por ella crezcáis en salud: 
 \bibleverse{3} Si empero habéis gustado que el Señor es benigno; 
@@ -86,7 +88,8 @@
 \bibleverse{25} Porque vosotros erais como ovejas descarriadas; mas ahora habéis vuelto al Pastor y Obispo de vuestras almas. 
 
 ## Advertencias para los cónyuges
-# 3 
+\hypertarget{section-60-3}{%
+\section{3}\label{section-60-3}}
 \bibleverse{1} Asimismo vosotras, mujeres, sed sujetas á vuestros maridos; para que también los que no creen á la palabra, sean ganados sin palabra por la conversación de sus mujeres, 
 \bibleverse{2} Considerando vuestra casta conversación, que es en temor. 
 \bibleverse{3} El adorno de las cuales no sea exterior con encrespamiento del cabello, y atavío de oro, ni en compostura de ropas; 
@@ -122,7 +125,8 @@
 \bibleverse{22} El cual está á la diestra de Dios, habiendo subido al cielo; estando á él sujetos los ángeles, y las potestades, y virtudes. 
 
 ## La voluntad de sufrir resiste la sensación de pecado, amortigua la lujuria y ayuda a las personas a caminar con devoción
-# 4 
+\hypertarget{section-60-4}{%
+\section{4}\label{section-60-4}}
 \bibleverse{1} Pues que Cristo ha padecido por nosotros en la carne, vosotros también estad armados del mismo pensamiento: que el que ha padecido en la carne, cesó de pecado; 
 \bibleverse{2} Para que ya el tiempo que queda en carne, viva, no á las concupiscencias de los hombres, sino á la voluntad de Dios. 
 \bibleverse{3} Porque nos debe bastar que el tiempo pasado de nuestra vida hayamos hecho la voluntad de los Gentiles, cuando conversábamos en lascivias, en concupiscencias, en embriagueces, en glotonerías, en banquetes, y en abominables idolatrías. 
@@ -150,7 +154,8 @@
 \bibleverse{19} Y por eso los que son afligidos según la voluntad de Dios, encomiéndenle sus almas, como á fiel Criador, haciendo bien. 
 
 ## Advertencia a los ancianos y a los más jóvenes de la iglesia
-# 5 
+\hypertarget{section-60-5}{%
+\section{5}\label{section-60-5}}
 \bibleverse{1} Ruego á los ancianos que están entre vosotros, yo anciano también con ellos, y testigo de las aflicciones de Cristo, que soy también participante de la gloria que ha de ser revelada: 
 \bibleverse{2} Apacentad la grey de Dios que está entre vosotros, teniendo cuidado de ella, no por fuerza, sino voluntariamente; no por ganancia deshonesta, sino de un ánimo pronto; 
 \bibleverse{3} Y no como teniendo señorío sobre las heredades del Señor, sino siendo dechados de la grey. 

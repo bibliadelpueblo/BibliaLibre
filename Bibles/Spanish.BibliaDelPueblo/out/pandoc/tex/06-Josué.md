@@ -1,5 +1,6 @@
 ## La comisión de Dios de conquistar y animar a Josué; Preparativos para cruzar el Jordán
-# 1 
+\hypertarget{section-06-1}{%
+\section{1}\label{section-06-1}}
 \bibleverse{1} Y aconteció después de la muerte de Moisés siervo de Jehová, que Jehová habló á Josué hijo de Nun, ministro de Moisés, diciendo: 
 \bibleverse{2} Mi siervo Moisés es muerto: levántate pues ahora, y pasa este Jordán, tú y todo este pueblo, á la tierra que yo les doy á los hijos de Israel. 
 \bibleverse{3} Yo os he entregado, como lo había dicho á Moisés, todo lugar que pisare la planta de vuestro pie. 
@@ -30,7 +31,8 @@
 \bibleverse{18} Cualquiera que fuere rebelde á tu mandamiento, y no obedeciere á tus palabras en todas las cosas que le mandares, que muera; solamente que te esfuerces, y seas valiente. 
 
 ## El escultismo de Jericó; la salvación de los dos espías por la prostituta Rahab
-# 2 
+\hypertarget{section-06-2}{%
+\section{2}\label{section-06-2}}
 \bibleverse{1} Y Josué, hijo de Nun, envió desde Sittim dos espías secretamente, diciéndoles: Andad, reconoced la tierra, y á Jericó. Los cuales fueron, y entráronse en casa de una mujer ramera que se llamaba Rahab, y posaron allí.
 
  
@@ -77,7 +79,8 @@
 \bibleverse{24} Y dijeron á Josué: Jehová ha entregado toda la tierra en nuestras manos; y también todos los moradores del país están desmayados delante de nosotros. 
 
 ## Llegada al Jordán; Anuncio de los presidentes y dos órdenes de Joshua; Salida del pueblo
-# 3 
+\hypertarget{section-06-3}{%
+\section{3}\label{section-06-3}}
 \bibleverse{1} Y levantóse Josué de mañana, y partieron de Sittim, y vinieron hasta el Jordán, él y todos los hijos de Israel, y reposaron allí antes que pasasen. 
 \bibleverse{2} Y pasados tres días, los oficiales atravesaron por medio del campo, 
 \bibleverse{3} Y mandaron al pueblo, diciendo: Cuando viereis el arca del pacto de Jehová vuestro Dios, y los sacerdotes y Levitas que la llevan, vosotros partiréis de vuestro lugar, y marcharéis en pos de ella. 
@@ -109,7 +112,8 @@
 \bibleverse{17} Mas los sacerdotes que llevaban el arca del pacto de Jehová, estuvieron en seco, firmes en medio del Jordán, hasta que todo el pueblo hubo acabado de pasar el Jordán; y todo Israel pasó en seco. 
 
 ## Erigiendo un monumento de piedra en el lecho del Jordán y otro en la otra orilla de Gilgal
-# 4 
+\hypertarget{section-06-4}{%
+\section{4}\label{section-06-4}}
 \bibleverse{1} Y cuando toda la gente hubo acabado de pasar el Jordán, Jehová habló á Josué, diciendo: 
 \bibleverse{2} Tomad del pueblo doce hombres, de cada tribu uno, 
 \bibleverse{3} Y mandadles, diciendo: Tomaos de aquí del medio del Jordán, del lugar donde están firmes los pies de los sacerdotes, doce piedras, las cuales pasaréis con vosotros, y las asentaréis en el alojamiento donde habéis de tener la noche.
@@ -151,7 +155,8 @@
 \bibleverse{24} Para que todos los pueblos de la tierra conozcan la mano de Jehová, que es fuerte; para que temáis á Jehová vuestro Dios todos los días. 
 
 ## Realizar la circuncisión de Israel
-# 5 
+\hypertarget{section-06-5}{%
+\section{5}\label{section-06-5}}
 \bibleverse{1} Y cuando todos los reyes de los Amorrheos, que estaban de la otra parte del Jordán al occidente, y todos los reyes de los Cananeos, que estaban cerca de la mar, oyeron como Jehová había secado las aguas del Jordán delante de los hijos de Israel hasta que hubieron pasado, desfalleció su corazón, y no hubo más espíritu en ellos delante de los hijos de Israel. 
 \bibleverse{2} En aquel tiempo Jehová dijo á Josué: Hazte cuchillos afilados, y vuelve á circuncidar la segunda vez á los hijos de Israel. 
 \bibleverse{3} Y Josué se hizo cuchillos afilados, y circuncidó á los hijos de Israel en el monte de los prepucios. 
@@ -181,7 +186,8 @@
 \bibleverse{15} Y el Príncipe del ejército de Jehová respondió á Josué: Quita tus zapatos de tus pies; porque el lugar donde estás es santo. Y Josué lo hizo así. 
 
 ## Dios le enseñó a Josué cómo conquistar Jericó
-# 6 
+\hypertarget{section-06-6}{%
+\section{6}\label{section-06-6}}
 \bibleverse{1} Empero Jericó estaba cerrada, bien cerrada, á causa de los hijos de Israel: nadie entraba, ni salía. 
 \bibleverse{2} Mas Jehová dijo á Josué: Mira, yo he entregado en tu mano á Jericó y á su rey, con sus varones de guerra. 
 \bibleverse{3} Cercaréis pues la ciudad todos los hombres de guerra, yendo alrededor de la ciudad una vez: y esto haréis seis días. 
@@ -230,7 +236,8 @@
 \bibleverse{27} Fué pues Jehová con Josué, y su nombre se divulgó por toda la tierra. 
 
 ## Fracaso del movimiento cuidadosamente preparado contra Ai; Desánimo del pueblo; Oración suplicante de Josué
-# 7 
+\hypertarget{section-06-7}{%
+\section{7}\label{section-06-7}}
 \bibleverse{1} Empero los hijos de Israel cometieron prevaricación en el anatema: porque Achân, hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de Judá, tomó del anatema; y la ira de Jehová se encendió contra los hijos de Israel. 
 \bibleverse{2} Y Josué envió hombres desde Jericó á Hai, que estaba junto á Beth-aven hacia el oriente de Beth-el; y hablóles diciendo: Subid, y reconoced la tierra. Y ellos subieron, y reconocieron á Hai.
 
@@ -271,7 +278,8 @@
 \bibleverse{26} Y levantaron sobre él un gran montón de piedras, hasta hoy. Y Jehová se tornó de la ira de su furor. Y por esto fué llamado aquel lugar el Valle de Achôr, hasta hoy. 
 
 ## Por instrucción divina, Josué se mueve contra Hai y prepara una emboscada en el oeste de la ciudad
-# 8 
+\hypertarget{section-06-8}{%
+\section{8}\label{section-06-8}}
 \bibleverse{1} Y Jehová dijo á Josué: No temas, ni desmayes; toma contigo toda la gente de guerra, y levántate y sube á Hai. Mira, yo he entregado en tu mano al rey de Hai, y á su pueblo, á su ciudad, y á su tierra. 
 \bibleverse{2} Y harás á Hai y á su rey como hiciste á Jericó y á su rey: sólo que sus despojos y sus bestias tomaréis para vosotros. Pondrás, pues, emboscadas á la ciudad detrás de ella.
 
@@ -326,7 +334,8 @@
 \bibleverse{35} No hubo palabra alguna de todas las cosas que mandó Moisés, que Josué no hiciese leer delante de toda la congregación de Israel, mujeres y niños, y extranjeros que andaban entre ellos. 
 
 ## Los reyes cananeos hacen un pacto contra Israel
-# 9 
+\hypertarget{section-06-9}{%
+\section{9}\label{section-06-9}}
 \bibleverse{1} Y aconteció que como oyeron estas cosas todos los reyes que estaban de esta parte del Jordán, así en las montañas como en los llanos, y en toda la costa de la gran mar delante del Líbano, los Hetheos, Amorrheos, Cananeos, Pherezeos, Heveos, y Jebuseos; 
 \bibleverse{2} Juntáronse á una, de un acuerdo, para pelear contra Josué é Israel.
 
@@ -376,7 +385,8 @@
 \bibleverse{27} Y constituyólos Josué aquel día por leñadores y aguadores para la congregación y para el altar de Jehová, en el lugar que él escogiese: lo que son hasta hoy. 
 
 ## La procesión de los cinco reyes contra Gabaón; Victoria de Josué en Gabaón
-# 10 
+\hypertarget{section-06-10}{%
+\section{10}\label{section-06-10}}
 \bibleverse{1} Y como Adonisedec rey de Jerusalem oyó que Josué había tomado á Hai, y que la había asolado, (como había hecho á Jericó y á su rey, así hizo á Hai y á su rey;) y que los moradores de Gabaón habían hecho paz con los Israelitas, y que estaban entre ellos; 
 \bibleverse{2} Tuvieron muy gran temor; porque Gabaón era una gran ciudad, como una de las ciudades reales, y mayor que Hai, y todos sus hombres fuertes. 
 \bibleverse{3} Envió pues á decir Adonisedec rey de Jerusalem, á Oham rey de Hebrón, y á Phiream rey de Jerimoth, y á Japhia rey de Lachîs, y á Debir rey de Eglón: 
@@ -461,7 +471,8 @@
 \bibleverse{43} Y tornóse Josué, y todo Israel con él, al campo en Gilgal. 
 
 ## Los reyes unidos por Jabín son destruidos por Josué
-# 11 
+\hypertarget{section-06-11}{%
+\section{11}\label{section-06-11}}
 \bibleverse{1} Oyendo esto Jabín rey de Hasor, envió mensaje á Jobab rey de Madón, y al rey de Simrom, y al rey de Achsaph, 
 \bibleverse{2} Y á los reyes que estaban á la parte del norte en las montañas, y en el llano al mediodía de Cinneroth, y en los llanos, y en las regiones de Dor al occidente; 
 \bibleverse{3} Y al Cananeo que estaba al oriente y al occidente, y al Amorrheo, y al Hetheo, y al Pherezeo, y al Jebuseo en las montañas, y al Heveo debajo de Hermón en tierra de Mizpa. 
@@ -502,7 +513,8 @@
 \bibleverse{23} Tomó, pues, Josué toda la tierra, conforme á todo lo que Jehová había dicho á Moisés; y entrególa Josué á los Israelitas por herencia, conforme á sus repartimientos de sus tribus: y la tierra reposó de guerra. 
 
 ## Los dos reyes de Cisjordania derrotados por Moisés
-# 12 
+\hypertarget{section-06-12}{%
+\section{12}\label{section-06-12}}
 \bibleverse{1} Estos son los reyes de la tierra que los hijos de Israel hirieron, y cuya tierra poseyeron de la otra parte del Jordán al nacimiento del sol, desde el arroyo de Arnón hasta el monte Hermón, y toda la llanura oriental: 
 \bibleverse{2} Sehón rey de los Amorrheos, que habitaba en Hesbón, y señoreaba desde Aroer, que está á la ribera del arroyo de Arnón, y desde en medio del arroyo, y la mitad de Galaad, hasta el arroyo Jaboc, el término de los hijos de Ammón; 
 \bibleverse{3} Y desde la campiña hasta la mar de Cinneroth, al oriente; y hasta la mar de la llanura, el mar Salado, al oriente, por el camino de Beth-jesimoth; y desde el mediodía debajo de las vertientes del Pisga. 
@@ -532,7 +544,8 @@
 \bibleverse{24} El rey de Tirsa, otro: treinta y un reyes en todo. 
 
 ## Enumeración de las áreas previamente no conquistadas; El mandato de Dios de distribuir
-# 13 
+\hypertarget{section-06-13}{%
+\section{13}\label{section-06-13}}
 \bibleverse{1} Y siendo Josué ya viejo, entrado en días, Jehová le dijo: Tú eres ya viejo, de edad avanzada, y queda aún muy mucha tierra por poseer.
 
  
@@ -584,7 +597,8 @@
 \bibleverse{33} Mas á la tribu de Leví no dió Moisés heredad: Jehová Dios de Israel es la heredad de ellos como él les había dicho. 
 
 ## Comentarios introductorios; la herencia de Caleb en Hebrón
-# 14 
+\hypertarget{section-06-14}{%
+\section{14}\label{section-06-14}}
 \bibleverse{1} Esto pues es lo que los hijos de Israel tomaron por heredad en la tierra de Canaán, lo cual les repartieron Eleazar sacerdote, y Josué hijo de Nun, y los principales de los padres de las tribus de los hijos de Israel. 
 \bibleverse{2} Por suerte dióseles su heredad, como Jehová lo había mandado por Moisés, que diese á las nueve tribus, y á la media tribu. 
 \bibleverse{3} Porque á las dos tribus, y á la media tribu, les había Moisés dado heredad de la otra parte del Jordán: mas á los Levitas no dió heredad entre ellos. 
@@ -609,7 +623,8 @@
 \bibleverse{15} Mas Hebrón fué antes llamada Chîriath-arba; fué Arba un hombre grande entre los Anaceos. Y la tierra tuvo reposo de las guerras. 
 
 ## El territorio de la tribu de Judá
-# 15 
+\hypertarget{section-06-15}{%
+\section{15}\label{section-06-15}}
 \bibleverse{1} Y fué la suerte de la tribu de los hijos de Judá, por sus familias, junto al término de Edom, del desierto de Zin al mediodía, al lado del sur. 
 \bibleverse{2} Y su término de la parte del mediodía fué desde la costa del mar Salado, desde la lengua que mira hacia el mediodía; 
 \bibleverse{3} Y salía hacia el mediodía á la subida de Acrabim, pasando hasta Zin; y subiendo por el mediodía hasta Cades-barnea, pasaba á Hebrón, y subiendo por Addar daba vuelta á Carca; 
@@ -685,7 +700,8 @@
 \bibleverse{63} Mas á los Jebuseos que habitaban en Jerusalem, los hijos de Judá no los pudieron desarraigar; antes quedó el Jebuseo en Jerusalem con los hijos de Judá, hasta hoy. 
 
 ## El territorio de los descendientes de José
-# 16 
+\hypertarget{section-06-16}{%
+\section{16}\label{section-06-16}}
 \bibleverse{1} Y la suerte del los hijos de José salió desde el Jordán de Jericó hasta las aguas de Jericó hacia el oriente, al desierto que sube de Jericó al monte de Beth-el: 
 \bibleverse{2} Y de Beth-el sale á Luz, y pasa al término de Archi en Ataroth; 
 \bibleverse{3} Y torna á descender hacia la mar al término de Japhlet, hasta el término de Beth-oron la de abajo, y hasta Gezer; y sale á la mar. 
@@ -701,7 +717,8 @@
 \bibleverse{10} Y no echaron al Cananeo que habitaba en Gezer; antes quedó el Cananeo en medio de Ephraim, hasta hoy, y fué tributario. 
 
 ## Territorio de la tribu Manasés
-# 17 
+\hypertarget{section-06-17}{%
+\section{17}\label{section-06-17}}
 \bibleverse{1} Y tuvo también suerte la tribu de Manasés, porque fué primogénito de José. Machîr, primogénito de Manasés, y padre de Galaad, el cual fué hombre de guerra, tuvo á Galaad y á Basán. 
 \bibleverse{2} Tuvieron también suerte los otros hijos de Manasés conforme á sus familias: los hijos de Abiezer, y los hijos de Helec, y los hijos de Esriel, y los hijos de Sichêm, y los hijos de Hepher, y los hijos de Semida; estos fueron los hijos varones de Manasés hijo de José, por sus familias.
 
@@ -739,7 +756,8 @@
 \bibleverse{18} Mas aquel monte será tuyo; que bosque es, y tú lo cortarás, y serán tuyos sus términos: porque tú echarás al Cananeo, aunque tenga carros herrados, y aunque sea fuerte. 
 
 ## La tienda de la revelación se instaló en el silo; Admisión y distribución por escrito de la tierra aún desocupada
-# 18 
+\hypertarget{section-06-18}{%
+\section{18}\label{section-06-18}}
 \bibleverse{1} Y toda la congregación de los hijos de Israel se juntó en Silo, y asentaron allí el tabernáculo del testimonio, después que la tierra les fué sujeta. 
 \bibleverse{2} Mas habían quedado en los hijos de Israel siete tribus, á las cuales aun no habían repartido su posesión. 
 \bibleverse{3} Y Josué dijo á los hijos de Israel: ¿Hasta cuándo seréis negligentes para venir á poseer la tierra que os ha dado Jehová el Dios de vuestros padres? 
@@ -777,7 +795,8 @@
 \bibleverse{28} Y Sela, Eleph, Jebus, que es Jerusalem, Gibeath, y Chîriath; catorce ciudades con sus aldeas. Esta es la heredad de los hijos de Benjamín, conforme á sus familias. 
 
 ## El territorio de la tribu Simeón
-# 19 
+\hypertarget{section-06-19}{%
+\section{19}\label{section-06-19}}
 \bibleverse{1} [La]{.smallcaps} segunda suerte salió por Simeón, por la tribu de los hijos de Simeón conforme á sus familias; y su heredad fué entre la heredad de los hijos de Judá. 
 \bibleverse{2} Y tuvieron en su heredad á Beer-seba, Seba, y Molada, 
 \bibleverse{3} Hasar-sual, Bala, y Esem, 
@@ -849,7 +868,8 @@
 \bibleverse{51} Estas son las heredades que Eleazar sacerdote, y Josué hijo de Nun, y los principales de los padres, entregaron por suerte en posesión á las tribus de los hijos de Israel en Silo delante de Jehová, á la entrada del tabernáculo del testimonio; y acabaron de repartir la tierra. 
 
 ## Die sechs Zufluchts- oder Freistädte; El mandato divino
-# 20 
+\hypertarget{section-06-20}{%
+\section{20}\label{section-06-20}}
 \bibleverse{1} Y habló Jehová á Josué, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, diciendo: Señalaos las ciudades de refugio, de las cuales yo os hablé por Moisés; 
 \bibleverse{3} Para que se acoja allí el homicida que matare á alguno por yerro y no á sabiendas; que os sean por acogimiento del cercano del muerto. 
@@ -864,7 +884,8 @@
 \bibleverse{9} Estas fueron las ciudades señaladas para todos los hijos de Israel, y para el extranjero que morase entre ellos, para que se acogiese á ellas cualquiera que hiriese hombre por yerro, y no muriese por mano del cercano del muerto, hasta que compareciese delante del ayuntamiento. 
 
 ## Las cuarenta y ocho ciudades sacerdotales y levitas
-# 21 
+\hypertarget{section-06-21}{%
+\section{21}\label{section-06-21}}
 \bibleverse{1} Y los principales de los padres de los Levitas vinieron á Eleazar sacerdote, y á Josué hijo de Nun, y á los principales de los padres de las tribus de los hijos de Israel; 
 \bibleverse{2} Y habláronles en Silo en la tierra de Canaán, diciendo: Jehová mandó por Moisés que nos fuesen dadas villas para habitar, con sus ejidos para nuestras bestias.
 
@@ -925,7 +946,8 @@
 \bibleverse{45} No faltó palabra de todas la buenas que habló Jehová á la casa de Israel; todo se cumplió. 
 
 ## Josué despide a las tribus con palabras de aprobación, amonestación y bendición
-# 22 
+\hypertarget{section-06-22}{%
+\section{22}\label{section-06-22}}
 \bibleverse{1} Entonces Josué llamó á los Rubenitas y á los Gaditas, y á la media tribu de Manasés, 
 \bibleverse{2} Y díjoles: Vosotros habéis guardado todo lo que Moisés siervo de Jehová os mandó, y habéis obedecido á mi voz en todo lo que os he mandado. 
 \bibleverse{3} No habéis dejado á vuestros hermanos en estos muchos días hasta hoy, antes habéis guardado la observancia de los mandamientos de Jehová vuestro Dios. 
@@ -980,7 +1002,8 @@
 \bibleverse{34} Y los hijos de Rubén y los hijos de Gad pusieron por nombre al altar Ed; porque es testimonio entre nosotros que Jehová es Dios. 
 
 ## El primer discurso de amonestación de Josué a los representantes de Israel
-# 23 
+\hypertarget{section-06-23}{%
+\section{23}\label{section-06-23}}
 \bibleverse{1} Y aconteció, pasados muchos días después que Jehová dió reposo á Israel de todos sus enemigos al contorno, que Josué, siendo viejo, y entrado en días, 
 \bibleverse{2} Llamó á todo Israel, á sus ancianos, á sus príncipes, á sus jueces y á sus oficiales, y díjoles: Yo soy ya viejo y entrado en días: 
 \bibleverse{3} Y vosotros habéis visto todo lo que Jehová vuestro Dios ha hecho con todas estas gentes en vuestra presencia; porque Jehová vuestro Dios ha peleado por vosotros. 
@@ -1007,7 +1030,8 @@
 \bibleverse{16} Cuando traspasareis el pacto de Jehová vuestro Dios que él os ha mandado, yendo y honrando dioses ajenos, é inclinándoos á ellos. Y el furor de Jehová se inflamará contra vosotros, y luego pereceréis de aquesta buena tierra que él os ha dado. 
 
 ## Josué se despide de la gente en la Dieta de Siquem
-# 24 
+\hypertarget{section-06-24}{%
+\section{24}\label{section-06-24}}
 \bibleverse{1} Y juntando Josué todas las tribus de Israel en Sichêm, llamó á los ancianos de Israel, y á sus príncipes, á sus jueces, y á sus oficiales; y presentáronse delante de Dios. 
 \bibleverse{2} Y dijo Josué á todo el pueblo: Así dice Jehová, Dios de Israel: Vuestros padres habitaron antiguamente de esotra parte del río, es á saber, Tharé, padre de Abraham y de Nachôr; y servían á dioses extraños. 
 \bibleverse{3} Y yo tomé á vuestro padre Abraham de la otra parte del río, y trájelo por toda la tierra de Canaán, y aumenté su generación, y díle á Isaac. 

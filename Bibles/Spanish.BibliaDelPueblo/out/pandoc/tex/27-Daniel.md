@@ -1,5 +1,6 @@
 ## La crianza de Daniel en la corte pagana de Babilonia
-# 1 
+\hypertarget{section-27-1}{%
+\section{1}\label{section-27-1}}
 \bibleverse{1} En el año tercero del reinado de Joacim rey de Judá, vino Nabucodonosor rey de Babilonia á Jerusalem, y cercóla. 
 \bibleverse{2} Y el Señor entregó en sus manos á Joacim rey de Judá, y parte de los vasos de la casa de Dios, y trájolos á tierra de Sinar, á la casa de su dios: y metió los vasos en la casa del tesoro de su dios.
 
@@ -42,7 +43,8 @@
 \bibleverse{21} Y fué Daniel hasta el año primero del rey Ciro. 
 
 ## El sueño de Nabucodonosor interpretado por Daniel
-# 2 
+\hypertarget{section-27-2}{%
+\section{2}\label{section-27-2}}
 \bibleverse{1} Y en el segundo año del reinado de Nabucodonosor, soñó Nabucodonosor sueños, y perturbóse su espíritu, y su sueño se huyó de él. 
 \bibleverse{2} Y mandó el rey llamar magos, astrólogos, y encantadores, y Caldeos, para que mostrasen al rey sus sueños. Vinieron pues, y se presentaron delante del rey. 
 \bibleverse{3} Y el rey les dijo: He soñado un sueño, y mi espíritu se ha perturbado por saber del sueño.
@@ -137,7 +139,8 @@
 \bibleverse{49} Y Daniel solicitó del rey, y él puso sobre los negocios de la provincia de Babilonia á Sadrach, Mesach, y Abed-nego: y Daniel estaba á la puerta del rey. 
 
 ## Nabucodonosor hace levantar un ídolo y ordena su adoración sobre el castigo de muerte por fuego
-# 3 
+\hypertarget{section-27-3}{%
+\section{3}\label{section-27-3}}
 \bibleverse{1} El rey Nabucodonosor hizo una estatua de oro, la altura de la cual era de sesenta codos, su anchura de seis codos: levantóla en el campo de Dura, en la provincia de Babilonia. 
 \bibleverse{2} Y envió el rey Nabucodonosor á juntar los grandes, los asistentes y capitanes, oidores, receptores, los del consejo, presidentes, y á todos los gobernadores de las provincias, para que viniesen á la dedicación de la estatua que el rey Nabucodonosor había levantado. 
 \bibleverse{3} Fueron pues reunidos los grandes, los asistentes y capitanes, los oidores, receptores, los del consejo, los presidentes, y todos los gobernadores de las provincias, á la dedicación de la estatua que el rey Nabucodonosor había levantado: y estaban en pie delante de la estatua que había levantado el rey Nabucodonosor.
@@ -197,7 +200,8 @@
 \bibleverse{30} Entonces el rey engrandeció á Sadrach, Mesach, y Abed-nego en la provincia de Babilonia. 
 
 ## El segundo sueño de Nabucodonosor, su humillación y exaltación
-# 4 
+\hypertarget{section-27-4}{%
+\section{4}\label{section-27-4}}
 \bibleverse{1} Nabucodonosor rey, á todos los pueblos, naciones, y lenguas, que moran en toda la tierra: Paz os sea multiplicada:
 
  
@@ -277,7 +281,8 @@
 \bibleverse{37} Ahora yo Nabucodonosor alabo, engrandezco y glorifico al Rey del cielo, porque todas sus obras son verdad, y sus caminos juicio; y humillar puede á los que andan con soberbia. 
 
 ## Belsasar consagra los vasos del templo de los judíos
-# 5 
+\hypertarget{section-27-5}{%
+\section{5}\label{section-27-5}}
 \bibleverse{1} El rey Belsasar hizo un gran banquete á mil de sus príncipes, y en presencia de los mil bebía vino. 
 \bibleverse{2} Belsasar, con el gusto del vino, mandó que trajesen los vasos de oro y de plata que Nabucodonosor su padre había traído del templo de Jerusalem; para que bebiesen con ellos el rey y sus príncipes, sus mujeres y sus concubinas. 
 \bibleverse{3} Entonces fueron traídos los vasos de oro que habían traído del templo de la casa de Dios que estaba en Jerusalem, y bebieron con ellos el rey y sus príncipes, sus mujeres y sus concubinas. 
@@ -338,7 +343,8 @@
 \bibleverse{31} Y Darío de Media tomó el reino, siendo de sesenta y dos años. 
 
 ## El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios
-# 6 
+\hypertarget{section-27-6}{%
+\section{6}\label{section-27-6}}
 \bibleverse{1} Pareció bien á Darío constituir sobre el reino ciento veinte gobernadores, que estuviesen en todo el reino. 
 \bibleverse{2} Y sobre ellos tres presidentes, de los cuales Daniel era el uno, á quienes estos gobernadores diesen cuenta, porque el rey no recibiese daño. 
 \bibleverse{3} Pero el mismo Daniel era superior á estos gobernadores y presidentes, porque había en él más abundancia de espíritu: y el rey pensaba de ponerlo sobre todo el reino.
@@ -405,7 +411,8 @@
 \bibleverse{28} Y este Daniel fué prosperado durante el reinado de Darío, y durante el reinado de Ciro, Persa. 
 
 ## Daniels Traum von dem Erscheinen eines Löwen, eines Bären, eines Panthers, eines furchtbaren Tieres mit zehn Hörnern sowie eines kleinen Horns
-# 7 
+\hypertarget{section-27-7}{%
+\section{7}\label{section-27-7}}
 \bibleverse{1} En el primer año de Belsasar rey de Babilonia, vió Daniel un sueño y visiones de su cabeza en su cama: luego escribió el sueño, y notó la suma de los negocios.
 
  
@@ -469,7 +476,8 @@
 \bibleverse{28} Hasta aquí fué el fin de la plática. Yo Daniel, mucho me turbaron mis pensamientos, y mi rostro se me mudó: mas guardé en mi corazón el negocio. 
 
 ## Escena de la cara del sueño; Lucha del carnero de cuernos desiguales (persa) y el macho cabrío de un cuerno (griego); Victoria y fortalecimiento de este último
-# 8 
+\hypertarget{section-27-8}{%
+\section{8}\label{section-27-8}}
 \bibleverse{1} En el año tercero del reinado del rey Belsasar, me apareció una visión á mí, Daniel, después de aquella que me había aparecido antes. 
 \bibleverse{2} Vi en visión, (y aconteció cuando vi, que yo estaba en Susán, que es cabecera del reino en la provincia de Persia;) vi pues en visión, estando junto al río Ulai, 
 \bibleverse{3} Y alcé mis ojos, y miré, y he aquí un carnero que estaba delante del río, el cual tenía dos cuernos: y aunque eran altos, el uno era más alto que el otro; y el más alto subió á la postre. 
@@ -525,7 +533,8 @@
 \bibleverse{27} Y yo Daniel fuí quebrantado, y estuve enfermo algunos días: y cuando convalecí, hice el negocio del rey; mas estaba espantado acerca de la visión, y no había quien la entendiese. 
 
 ## Daniel, preocupado por una profecía de Jeremías, decide obtener información de Dios a través de una oración solemne
-# 9 
+\hypertarget{section-27-9}{%
+\section{9}\label{section-27-9}}
 \bibleverse{1} En el año primero de Darío hijo de Assuero, de la nación de los Medos, el cual fué puesto por rey sobre el reino de los Caldeos; 
 \bibleverse{2} En el año primero de su reinado, yo Daniel miré atentamente en los libros el número de los años, del cual habló Jehová al profeta Jeremías, que había de concluir la asolación de Jerusalem en setenta años. 
 \bibleverse{3} Y volví mi rostro al Señor Dios, buscándole en oración y ruego, en ayuno, y cilicio, y ceniza.
@@ -575,7 +584,8 @@
 \bibleverse{27} Y en otra semana confirmará el pacto á muchos, y á la mitad de la semana hará cesar el sacrificio y la ofrenda: después con la muchedumbre de las abominaciones será el desolar, y esto hasta una entera consumación; y derramaráse la ya determinada sobre el pueblo asolado. 
 
 ## La preparación de Daniel para la visiona mediante el ayuno
-# 10 
+\hypertarget{section-27-10}{%
+\section{10}\label{section-27-10}}
 \bibleverse{1} En el tercer año de Ciro rey de Persia, fué revelada palabra á Daniel, cuyo nombre era Beltsasar; y la palabra era verdadera, mas el tiempo fijado era largo: él empero comprendió la palabra, y tuvo inteligencia en la visión.
 
  
@@ -619,7 +629,8 @@
 \bibleverse{20} Y dijo: ¿Sabes por qué he venido á ti? Porque luego tengo de volver para pelear con el príncipe de los Persas; y en saliendo yo, luego viene el príncipe de Grecia. 
 \bibleverse{21} Empero yo te declararé lo que está escrito en la escritura de verdad: y ninguno hay que se esfuerce conmigo en estas cosas, sino Miguel vuestro príncipe. 
 
-# 11 
+\hypertarget{section-27-11}{%
+\section{11}\label{section-27-11}}
 \bibleverse{1} Y en el año primero de Darío el de Media, yo estuve para animarlo y fortalecerlo.
 
  
@@ -697,7 +708,8 @@
 \bibleverse{45} Y plantará las tiendas de su palacio entre los mares, en el monte deseable del santuario; y vendrá hasta su fin, y no tendrá quien le ayude. 
 
 ## El amanecer del fin de los tiempos con su miseria, su retribución y la resurrección de los impíos y de los rectos
-# 12 
+\hypertarget{section-27-12}{%
+\section{12}\label{section-27-12}}
 \bibleverse{1} Y en aquel tiempo se levantará Miguel, el gran príncipe que está por los hijos de tu pueblo; y será tiempo de angustia, cual nunca fué después que hubo gente hasta entonces: mas en aquel tiempo será libertado tu pueblo, todos los que se hallaren escritos en el libro. 
 \bibleverse{2} Y muchos de los que duermen en el polvo de la tierra serán despertados, unos para vida eterna, y otros para vergüenza y confusión perpetua. 
 \bibleverse{3} Y los entendidos resplandecerán como el resplandor del firmamento; y los que enseñan á justicia la multitud, como las estrellas á perpetua eternidad.

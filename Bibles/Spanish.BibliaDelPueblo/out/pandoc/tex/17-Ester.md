@@ -1,5 +1,6 @@
 ## La fiesta del rey persa Assuero en Susa para los dignatarios y altos funcionarios de su imperio
-# 1 
+\hypertarget{section-17-1}{%
+\section{1}\label{section-17-1}}
 \bibleverse{1} Y aconteció en los días de Assuero, (el Assuero que reinó desde la India hasta la Etiopía sobre ciento veinte y siete provincias,) 
 \bibleverse{2} Que en aquellos días, asentado que fué el rey Assuero en la silla de su reino, la cual estaba en Susán capital del reino, 
 \bibleverse{3} En el tercer año de su reinado hizo banquete á todos sus príncipes y siervos, teniendo delante de él la fuerza de Persia y de Media, gobernadores y príncipes de provincias, 
@@ -41,7 +42,8 @@
 \bibleverse{22} Pues envió letras á todas las provincias del rey, á cada provincia conforme á su escribir, y á cada pueblo conforme á su lenguaje, diciendo que todo hombre fuese señor en su casa; y háblese esto según la lengua de su pueblo. 
 
 ## Organización de un gran espectáculo nupcial para el rey
-# 2 
+\hypertarget{section-17-2}{%
+\section{2}\label{section-17-2}}
 \bibleverse{1} Pasadas estas cosas, sosegada ya la ira del rey Assuero, acordóse de Vasthi, y de lo que hizo, y de lo que fué sentenciado contra ella. 
 \bibleverse{2} Y dijeron los criados del rey, sus oficiales: Busquen al rey mozas vírgenes de buen parecer; 
 \bibleverse{3} Y ponga el rey personas en todas las provincias de su reino, que junten todas las mozas vírgenes de buen parecer en Susán residencia regia, en la casa de las mujeres, al cuidado de Hegai, eunuco del rey, guarda de las mujeres, dándoles sus atavíos; 
@@ -84,7 +86,8 @@
 \bibleverse{23} Hízose entonces indagación de la cosa, y fué hallada cierta; por tanto, entrambos fueron colgados en una horca. Y escribióse el caso en el libro de las cosas de los tiempos delante del rey. 
 
 ## Promoción de Amán al más alto honor; Mardochai se niega a doblar las rodillas; Amán decide exterminar a todos los judíos
-# 3 
+\hypertarget{section-17-3}{%
+\section{3}\label{section-17-3}}
 \bibleverse{1} Después de estas cosas, el rey Assuero engrandeció á Amán hijo de Amadatha Agageo, y ensalzólo, y puso su silla sobre todos los príncipes que estaban con él. 
 \bibleverse{2} Y todos los siervos del rey que estaban á la puerta del rey, se arrodillaban é inclinaban á Amán, porque así se lo había mandado el rey; pero Mardochêo, ni se arrodillaba ni se humillaba. 
 \bibleverse{3} Y los siervos del rey que estaban á la puerta, dijeron á Mardochêo: ¿Por qué traspasas el mandamiento del rey? 
@@ -110,7 +113,8 @@
 \bibleverse{15} Y salieron los correos de priesa por mandato del rey, y el edicto fué dado en Susán capital del reino. Y el rey y Amán estaban sentados á beber, y la ciudad de Susán estaba conmovida. 
 
 ## El dolor de Mardochai; sus esfuerzos para mover a Ester a salvar a los judíos
-# 4 
+\hypertarget{section-17-4}{%
+\section{4}\label{section-17-4}}
 \bibleverse{1} Luego que supo Mardochêo todo lo que se había hecho, rasgó sus vestidos, y vistióse de saco y de ceniza, y fuése por medio de la ciudad clamando con grande y amargo clamor. 
 \bibleverse{2} Y vino hasta delante de la puerta del rey: porque no era lícito pasar adentro de la puerta del rey con vestido de saco. 
 \bibleverse{3} Y en cada provincia y lugar donde el mandamiento del rey y su decreto llegaba, tenían los Judíos grande luto, y ayuno, y lloro, y lamentación: saco y ceniza era la cama de muchos.
@@ -140,7 +144,8 @@
 \bibleverse{17} Entonces se fué Mardochêo, é hizo conforme á todo lo que le mandó Esther. 
 
 ## La recepción amistosa de Ester por parte del rey y el engaño de Amán
-# 5 
+\hypertarget{section-17-5}{%
+\section{5}\label{section-17-5}}
 \bibleverse{1} Y aconteció que al tercer día se vistió Esther su vestido real, y púsose en el patio de adentro de la casa del rey, enfrente del aposento del rey: y estaba el rey sentado en su solio regio en el aposento real, enfrente de la puerta del aposento. 
 \bibleverse{2} Y fué que, como vió á la reina Esther que estaba en el patio, ella obtuvo gracia en sus ojos; y el rey extendió á Esther el cetro de oro que tenía en la mano. Entonces se llegó Esther, y tocó la punta del cetro.
 
@@ -175,7 +180,8 @@
 \bibleverse{14} Y díjole Zeres su mujer, y todos sus amigos: Hagan una horca alta de cincuenta codos, y mañana di al rey que cuelguen á Mardochêo en ella; y entra con el rey al banquete alegre. Y plugo la cosa en los ojos de Amán, é hizo preparar la horca. 
 
 ## Mardochai criado en alto honor por Amán
-# 6 
+\hypertarget{section-17-6}{%
+\section{6}\label{section-17-6}}
 \bibleverse{1} Aquella noche se le fué el sueño al rey, y dijo que le trajesen el libro de las memorias de las cosas de los tiempos: y leyéronlas delante del rey. 
 \bibleverse{2} Y hallóse escrito que Mardochêo había denunciado de Bigthan y de Teres, dos eunucos del rey, de la guarda de la puerta, que habían procurado meter mano en el rey Assuero. 
 \bibleverse{3} Y dijo el rey: ¿Qué honra ó que distinción se hizo á Mardochêo por esto? Y respondieron los servidores del rey, sus oficiales: Nada se ha hecho con él.
@@ -208,7 +214,8 @@
 \bibleverse{14} Aun estaban ellos hablando con él, cuando los eunucos del rey llegaron apresurados, para hacer venir á Amán al banquete que Esther había dispuesto. 
 
 ## Durante la cena, Ester revela los planes de Amán de matar al rey; el rey se levanta enojado de la cena
-# 7 
+\hypertarget{section-17-7}{%
+\section{7}\label{section-17-7}}
 \bibleverse{1} Vino pues el rey con Amán á beber con la reina Esther. 
 \bibleverse{2} Y también el segundo día dijo el rey á Esther en el convite del vino: ¿Cuál es tu petición, reina Esther, y se te concederá? ¿Cuál es pues tu demanda? Aunque sea la mitad del reino, pondráse por obra.
 
@@ -236,7 +243,8 @@
 \bibleverse{10} Así colgaron á Amán en la horca que él había hecho aparejar para Mardochêo; y apaciguóse la ira del rey. 
 
 ## El regalo de Ester y la exaltación de Mardochai por parte del rey
-# 8 
+\hypertarget{section-17-8}{%
+\section{8}\label{section-17-8}}
 \bibleverse{1} [El]{.smallcaps} mismo día dió el rey Assuero á la reina Esther la casa de Amán enemigo de los Judíos; y Mardochêo vino delante del rey, porque Esther le declaró lo que era respecto de ella. 
 \bibleverse{2} Y quitóse el rey su anillo que había vuelto á tomar de Amán, y diólo á Mardochêo. Y Esther puso á Mardochêo sobre la casa de Amán.
 
@@ -266,7 +274,8 @@
 \bibleverse{17} Y en cada provincia y en cada ciudad donde llegó el mandamiento del rey, los Judíos tuvieron alegría y gozo, banquete y día de placer. Y muchos de los pueblos de la tierra se hacían Judíos, porque el temor de los Judíos había caído sobre ellos. 
 
 ## Exterminio de enemigos de los judíos en todo el imperio el día 13 del mes de Adar
-# 9 
+\hypertarget{section-17-9}{%
+\section{9}\label{section-17-9}}
 \bibleverse{1} Y en el mes duodécimo, que es el mes de Adar, á trece del mismo, en el que tocaba se ejecutase el mandamiento del rey y su ley, el mismo día en que esperaban los enemigos de los Judíos enseñorearse de ellos, fué lo contrario; porque los Judíos se enseñorearon de los que los aborrecían. 
 \bibleverse{2} Los Judíos se juntaron en sus ciudades en todas las provincias del rey Assuero, para meter mano sobre los que habían procurado su mal: y nadie se puso delante de ellos, porque el temor de ellos había caído sobre todos los pueblos. 
 \bibleverse{3} Y todos los príncipes de las provincias, y los virreyes, y capitanes, y oficiales del rey, ensalzaban á los Judíos; porque el temor de Mardochêo había caído sobre ellos. 
@@ -317,7 +326,8 @@
 \bibleverse{32} Y el mandamiento de Esther confirmó estas palabras dadas acerca de Purim, y escribióse en el libro. 
 
 ## Posición de poder y servicios de Mardochai para el bienestar de los judíos
-# 10 
+\hypertarget{section-17-10}{%
+\section{10}\label{section-17-10}}
 \bibleverse{1} Y el rey Assuero impuso tributo sobre la tierra y las islas de la mar. 
 \bibleverse{2} Y toda la obra de su fortaleza, y de su valor, y la declaración de la grandeza de Mardochêo, con que el rey le engrandeció, ¿no está escrito en el libro de los anales de los reyes de Media y de Persia? 
 \bibleverse{3} Porque Mardochêo Judío fué segundo después del rey Assuero, y grande entre los Judíos, y acepto á la multitud de sus hermanos, procurando el bien de su pueblo, y hablando paz para toda su simiente. 

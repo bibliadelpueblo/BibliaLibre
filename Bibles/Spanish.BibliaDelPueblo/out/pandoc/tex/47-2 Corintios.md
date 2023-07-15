@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-47-1}{%
+\section{1}\label{section-47-1}}
 \bibleverse{1} Pablo, apóstol de Jesucristo por la voluntad de Dios, y Timoteo el hermano, á la iglesia de Dios que está en Corinto, juntamente con todos los santos que están por toda la Acaya: 
 \bibleverse{2} Gracia y paz á vosotros de Dios nuestro Padre, y del Señor Jesucristo.
 
@@ -42,7 +43,8 @@
 \bibleverse{23} Mas yo llamo á Dios por testigo sobre mi alma, que por ser indulgente con vosotros no he pasado todavía á Corinto. 
 \bibleverse{24} No que nos enseñoreemos de vuestra fe, mas somos ayudadores de vuestro gozo: porque por la fe estáis firmes. 
 
-# 2 
+\hypertarget{section-47-2}{%
+\section{2}\label{section-47-2}}
 \bibleverse{1} Esto pues determiné para conmigo, no venir otra vez á vosotros con tristeza. 
 \bibleverse{2} Porque si yo os contristo, ¿quién será luego el que me alegrará, sino aquel á quien yo contristare? 
 \bibleverse{3} Y esto mismo os escribí, porque cuando llegare no tenga tristeza sobre tristeza de los que me debiera gozar; confiando en vosotros todos que mi gozo es el de todos vosotros. 
@@ -70,7 +72,8 @@
 \bibleverse{17} Porque no somos como muchos, mercaderes falsos de la palabra de Dios: antes con sinceridad, como de Dios, delante de Dios, hablamos en Cristo. 
 
 ## La iglesia de Corinto como carta de recomendación para Pablo y Dios como base segura de confianza para el apóstol
-# 3 
+\hypertarget{section-47-3}{%
+\section{3}\label{section-47-3}}
 \bibleverse{1} ¿Comenzamos otra vez á alabarnos á nosotros mismos? ¿ó tenemos necesidad, como algunos, de letras de recomendación para vosotros, ó de recomendación de vosotros? 
 \bibleverse{2} Nuestras letras sois vosotros, escritas en nuestros corazones, sabidas y leídas de todos los hombres; 
 \bibleverse{3} Siendo manifiesto que sois letra de Cristo administrada de nosotros, escrita no con tinta, mas con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas de carne del corazón.
@@ -101,7 +104,8 @@
 \bibleverse{18} Por tanto, nosotros todos, mirando á cara descubierta como en un espejo la gloria del Señor, somos transformados de gloria en gloria en la misma semejanza, como por el Espíritu del Señor. 
 
 ## Pablo y sus seguidores aparecen como verdaderos mensajeros de Cristo con valentía, veracidad e iluminación divina
-# 4 
+\hypertarget{section-47-4}{%
+\section{4}\label{section-47-4}}
 \bibleverse{1} Por lo cual teniendo nosotros esta administración según la misericordia que hemos alcanzado, no desmayamos; 
 \bibleverse{2} Antes quitamos los escondrijos de vergüenza, no andando con astucia, ni adulterando la palabra de Dios, sino por manifestación de la verdad encomendándonos á nosotros mismos á toda conciencia humana delante de Dios. 
 \bibleverse{3} Que si nuestro evangelio está aún encubierto, entre los que se pierden está encubierto: 
@@ -130,7 +134,8 @@
 \bibleverse{18} No mirando nosotros á las cosas que se ven, sino á las que no se ven: porque las cosas que se ven son temporales, mas las que no se ven son eternas. 
 
 ## La esperanza y el anhelo de Pablo por la corporalidad celestial y el hogar celestial
-# 5 
+\hypertarget{section-47-5}{%
+\section{5}\label{section-47-5}}
 \bibleverse{1} Porque sabemos, que si la casa terrestre de nuestra habitación se deshiciere, tenemos de Dios un edificio, una casa no hecha de manos, eterna en los cielos. 
 \bibleverse{2} Y por esto también gemimos, deseando ser sobrevestidos de aquella nuestra habitación celestial; 
 \bibleverse{3} Puesto que en verdad habremos sido hallados vestidos, y no desnudos. 
@@ -166,7 +171,8 @@
 \bibleverse{21} Al que no conoció pecado, hizo pecado por nosotros, para que nosotros fuésemos hechos justicia de Dios en él. 
 
 ## Pablo, como apóstol, es ejemplar por su abnegación y su realización profesional desinteresada en el servicio de Dios
-# 6 
+\hypertarget{section-47-6}{%
+\section{6}\label{section-47-6}}
 \bibleverse{1} Y así nosotros, como ayudadores juntamente con él, os exhortamos también á que no recibáis en vano la gracia de Dios, 
 \bibleverse{2} (Porque dice: En tiempo aceptable te he oído, y en día de salud te he socorrido: he aquí ahora el tiempo aceptable; he aquí ahora el día de salud:)
 
@@ -194,7 +200,8 @@
 \bibleverse{17} Por lo cual salid de en medio de ellos, y apartaos, dice el Señor, y no toquéis lo inmundo; y yo os recibiré, 
 \bibleverse{18} Y seré á vosotros Padre, y vosotros me seréis á mí hijos é hijas, dice el Señor Todopoderoso. 
 
-# 7 
+\hypertarget{section-47-7}{%
+\section{7}\label{section-47-7}}
 \bibleverse{1} Así que, amados, pues tenemos tales promesas, limpiémonos de toda inmundicia de carne y de espíritu, perfeccionando la santificación en temor de Dios.
 
 ## La petición del apóstol de amor, afirmación de amor y testimonio de confianza
@@ -224,7 +231,8 @@
 \bibleverse{16} Me gozo de que en todo estoy confiado de vosotros. 
 
 ## El gratificante (ejemplar) éxito de la colección con las comunidades macedonias
-# 8 
+\hypertarget{section-47-8}{%
+\section{8}\label{section-47-8}}
 \bibleverse{1} Asimismo, hermanos, os hacemos saber la gracia de Dios que ha sido dada á las iglesias de Macedonia: 
 \bibleverse{2} Que en grande prueba de tribulación, la abundancia de su gozo y su profunda pobreza abundaron en riquezas de su bondad. 
 \bibleverse{3} Pues de su grado han dado conforme á sus fuerzas, yo testifico, y aun sobre sus fuerzas; 
@@ -259,7 +267,8 @@
 \bibleverse{24} Mostrad pues, para con ellos á la faz de las iglesias la prueba de vuestro amor, y de nuestra gloria acerca de vosotros. 
 
 ## Lo que Pablo ha elogiado hasta ahora de los corintios y ahora espera y qué razones lo han determinado a enviar a los hermanos por delante
-# 9 
+\hypertarget{section-47-9}{%
+\section{9}\label{section-47-9}}
 \bibleverse{1} Porque cuanto á la suministración para los santos, por demás me es escribiros; 
 \bibleverse{2} Pues conozco vuestro pronto ánimo, del cual me glorío yo entre los de Macedonia, que Acaya está apercibida desde el año pasado; y vuestro ejemplo ha estimulado á muchos. 
 \bibleverse{3} Mas he enviado los hermanos, porque nuestra gloria de vosotros no sea vana en esta parte; para que, como lo he dicho, estéis apercibidos; 
@@ -282,7 +291,8 @@
 \bibleverse{15} Gracias á Dios por su don inefable. 
 
 ## En contraste con la acusación de debilidad de carácter y cambio carnal, Pablo señala el poder probado y comprobado de su trabajo a sus oponentes
-# 10 
+\hypertarget{section-47-10}{%
+\section{10}\label{section-47-10}}
 \bibleverse{1} Empero yo Pablo, os ruego por la mansedumbre y modestia de Cristo, yo que presente ciertamente soy bajo entre vosotros, mas ausente soy confiado entre vosotros: 
 \bibleverse{2} Ruego pues, que cuando estuviere presente, no tenga que ser atrevido con la confianza con que estoy en ánimo de ser resuelto para con algunos, que nos tienen como si anduviésemos según la carne. 
 \bibleverse{3} Pues aunque andamos en la carne, no militamos según la carne, 
@@ -309,7 +319,8 @@
 \bibleverse{18} Porque no el que se alaba á sí mismo, el tal es aprobado; mas aquel á quien Dios alaba. 
 
 ## Por qué y con qué derecho se alaba a sí mismo el apóstol
-# 11 
+\hypertarget{section-47-11}{%
+\section{11}\label{section-47-11}}
 \bibleverse{1} Ojalá toleraseis un poco mi locura; empero toleradme. 
 \bibleverse{2} Pues que os celo con celo de Dios; porque os he desposado á un marido, para presentaros como una virgen pura á Cristo. 
 \bibleverse{3} Mas temo que como la serpiente engañó á Eva con su astucia, sean corrompidos así vuestros sentidos en alguna manera, de la simplicidad que es en Cristo. 
@@ -360,7 +371,8 @@
 \bibleverse{33} Y fuí descolgado del muro en un serón por una ventana, y escapé de sus manos. 
 
 ## El apóstol se jacta de las más altas gracias (a través de revelaciones celestiales) y la más profunda humillación (a través del sufrimiento físico)
-# 12 
+\hypertarget{section-47-12}{%
+\section{12}\label{section-47-12}}
 \bibleverse{1} Cierto no me es conveniente gloriarme; mas vendré á las visiones y á las revelaciones del Señor. 
 \bibleverse{2} Conozco á un hombre en Cristo, que hace catorce años (si en el cuerpo, no lo sé; si fuera del cuerpo, no lo sé: Dios lo sabe) fué arrebatado hasta el tercer cielo. 
 \bibleverse{3} Y conozco tal hombre, (si en el cuerpo, ó fuera del cuerpo, no lo sé: Dios lo sabe,) 
@@ -395,7 +407,8 @@
 \bibleverse{21} Que cuando volviere, me humille Dios entre vosotros, y haya de llorar por muchos de los que antes habrán pecado, y no se han arrepentido de la inmundicia y fornicación y deshonestidad que han cometido. 
 
 ## Anuncio de juicio imparcial y juicio despiadado
-# 13 
+\hypertarget{section-47-13}{%
+\section{13}\label{section-47-13}}
 \bibleverse{1} Esta tercera vez voy á vosotros. En la boca de dos ó de tres testigos consistirá todo negocio. 
 \bibleverse{2} He dicho antes, y ahora digo otra vez como presente, y ahora ausente lo escribo á los que antes pecaron, y á todos los demás, que si voy otra vez, no perdonaré; 
 \bibleverse{3} Pues buscáis una prueba de Cristo que habla en mí, el cual no es flaco para con vosotros, antes es poderoso en vosotros. 

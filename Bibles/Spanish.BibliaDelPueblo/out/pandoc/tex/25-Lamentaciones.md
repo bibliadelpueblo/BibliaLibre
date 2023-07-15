@@ -1,5 +1,6 @@
 ## Lamento la miseria de la ciudad
-# 1 
+\hypertarget{section-25-1}{%
+\section{1}\label{section-25-1}}
 \bibleverse{1} ¡Cómo está sentada sola la ciudad populosa! La grande entre las naciones se ha vuelto como viuda, la señora de provincias es hecha tributaria. 
 \bibleverse{2} Amargamente llora en la noche, y sus lágrimas en sus mejillas; no tiene quien la consuele de todos sus amadores: todos sus amigos le faltaron, volviéronsele enemigos. 
 \bibleverse{3} Fuése Judá, á causa de la aflicción, y de la grandeza de servidumbre; ella moró entre las gentes, y no halló descanso: todos sus perseguidores la alcanzaron entre estrechuras. 
@@ -30,7 +31,8 @@
 \bibleverse{22} Entre delante de ti toda su maldad, y haz con ellos como hiciste conmigo por todas mis rebeliones: porque muchos son mis suspiros, y mi corazón está doloroso. 
 
 ## Descripción de la calamidad de la cual la tierra y la gente y especialmente Jerusalén se ven afectados por la ira de Dios
-# 2 
+\hypertarget{section-25-2}{%
+\section{2}\label{section-25-2}}
 \bibleverse{1} ¡Cómo oscureció el Señor en su furor á la hija de Sión! Derribó del cielo á la tierra la hermosura de Israel, y no se acordó del estrado de sus pies en el día de su ira. 
 \bibleverse{2} Destruyó el Señor, y no perdonó; destruyó en su furor todas las tiendas de Jacob: echó por tierra las fortalezas de la hija de Judá, deslustró el reino y sus príncipes. 
 \bibleverse{3} Cortó con el furor de su ira todo el cuerno de Israel; hizo volver atrás su diestra delante del enemigo; y encendióse en Jacob como llama de fuego que ha devorado en contorno. 
@@ -61,7 +63,8 @@
 \bibleverse{22} Has llamado, como á día de solemnidad, mis temores de todas partes; y en el día del furor de Jehová no hubo quien escapase ni quedase vivo: los que crié y mantuve, mi enemigo los acabó. 
 
 ## Queja desesperada de un solo compañero nacional por los difíciles juicios sufridos; Pide gracia y esperanza por una nueva salvación
-# 3 
+\hypertarget{section-25-3}{%
+\section{3}\label{section-25-3}}
 \bibleverse{1} Yo soy el hombre que ha visto aflicción en la vara de su enojo. 
 \bibleverse{2} Guióme y llevóme en tinieblas, mas no en luz. 
 \bibleverse{3} Ciertamente contra mí volvió y revolvió su mano todo el día. 
@@ -136,7 +139,8 @@
 \bibleverse{66} Persíguelos en tu furor, y quebrántalos de debajo de los cielos, oh Jehová. 
 
 ## Descripción del terrible destino de toda la población de Jerusalén, especialmente los niños
-# 4 
+\hypertarget{section-25-4}{%
+\section{4}\label{section-25-4}}
 \bibleverse{1} ¡Cómo se ha oscurecido el oro! ¡Cómo el buen oro se ha demudado! Las piedras del santuario están esparcidas por las encrucijadas de todas las calles. 
 \bibleverse{2} Los hijos de Sión, preciados y estimados más que el oro puro, ¡cómo son tenidos por vasos de barro, obra de manos de alfarero! 
 \bibleverse{3} Aun los monstruos marinos sacan la teta, dan de mamar á sus chiquitos: la hija de mi pueblo es cruel, como los avestruces en el desierto. 
@@ -164,7 +168,8 @@
 \bibleverse{22} Cumplido es tu castigo, oh hija de Sión: nunca más te hará trasportar. Visitará tu iniquidad, oh hija de Edom; descubrirá tus pecados. 
 
 ## Oración de la comunidad oprimida por misericordia y restauración
-# 5 
+\hypertarget{section-25-5}{%
+\section{5}\label{section-25-5}}
 \bibleverse{1} Acuérdate, oh Jehová, de lo que nos ha sucedido: ve y mira nuestro oprobio. 
 \bibleverse{2} Nuestra heredad se ha vuelto á extraños, nuestras casas á forasteros. 
 \bibleverse{3} Huérfanos somos sin padre, nuestras madres como viudas. 

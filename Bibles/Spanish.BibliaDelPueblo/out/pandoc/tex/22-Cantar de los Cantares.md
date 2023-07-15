@@ -1,5 +1,6 @@
 ## El diálogo interno de Sulammith y su anhelo de amor
-# 1 
+\hypertarget{section-22-1}{%
+\section{1}\label{section-22-1}}
 \bibleverse{1} Canción de canciones, la cual es de Salomón. 
 \bibleverse{2} ¡Oh si él me besara con ósculos de su boca! porque mejores son tus amores que el vino. 
 \bibleverse{3} Por el olor de tus suaves ungüentos, (ungüento derramado es tu nombre,) por eso las doncellas te amaron. 
@@ -28,7 +29,8 @@
 \bibleverse{17} Las vigas de nuestra casa son de cedro, y de ciprés los artesonados. 
 
 ## Cantos y compromiso
-# 2 
+\hypertarget{section-22-2}{%
+\section{2}\label{section-22-2}}
 \bibleverse{1} Yo soy la rosa de Sarón, y el lirio de los valles. 
 \bibleverse{2} Como el lirio entre las espinas, así es mi amiga entre las doncellas. 
 \bibleverse{3} Como el manzano entre los árboles silvestres, así es mi amado entre los mancebos: bajo la sombra del deseado me senté, y su fruto fué dulce á mi paladar. 
@@ -54,7 +56,8 @@
 \bibleverse{17} Hasta que apunte el día, y huyan las sombras, tórnate, amado mío; sé semejante al gamo, ó al cabrito de los ciervos, sobre los montes de Bether. 
 
 ## Sueño anhelante de la novia
-# 3 
+\hypertarget{section-22-3}{%
+\section{3}\label{section-22-3}}
 \bibleverse{1} Por las noches busqué en mi lecho al que ama mi alma: busquélo, y no lo hallé. 
 \bibleverse{2} Levantaréme ahora, y rodearé por la ciudad; por las calles y por las plazas buscaré al que ama mi alma: busquélo, y no lo hallé. 
 \bibleverse{3} Halláronme los guardas que rondan la ciudad, y díjeles: ¿Habéis visto al que ama mi alma? 
@@ -71,7 +74,8 @@
 \bibleverse{11} Salid, oh doncellas de Sión, y ved al rey Salomón con la corona con que le coronó su madre el día de su desposorio, y el día del gozo de su corazón. 
 
 ## Descripción de la novia por el novio
-# 4 
+\hypertarget{section-22-4}{%
+\section{4}\label{section-22-4}}
 \bibleverse{1} He aquí que tú eres hermosa, amiga mía; he aquí que tú eres hermosa; tus ojos entre tus guedejas como de paloma; tus cabellos como manada de cabras, que se muestran desde el monte de Galaad. 
 \bibleverse{2} Tus dientes, como manadas de trasquiladas ovejas, que suben del lavadero, todas con crías mellizas, y ninguna entre ellas estéril. 
 \bibleverse{3} Tus labios, como un hilo de grana, y tu habla hermosa; tus sienes, como cachos de granada á la parte adentro de tus guedejas. 
@@ -96,7 +100,8 @@
 \bibleverse{16} Levántate, Aquilón, y ven, Austro: sopla mi huerto, despréndanse sus aromas. Venga mi amado á su huerto, y coma de su dulce fruta. 
 
 ## El joven marido toma posesión de su jardín; la fiesta de bodas
-# 5 
+\hypertarget{section-22-5}{%
+\section{5}\label{section-22-5}}
 \bibleverse{1} Yo vine á mi huerto, oh hermana, esposa mía: cogido he mi mirra y mis aromas; he comido mi panal y mi miel, mi vino y mi leche he bebido. Comed, amigos; bebed, amados, y embriagaos.
 
 ## Besuch des Bräutigams
@@ -120,7 +125,8 @@
 \bibleverse{15} Sus piernas, como columnas de mármol fundadas sobre basas de fino oro: su aspecto como el Líbano, escogido como los cedros. 
 \bibleverse{16} Su paladar, dulcísimo: y todo él codiciable. Tal es mi amado, tal es mi amigo, oh doncellas de Jerusalem. 
 
-# 6 
+\hypertarget{section-22-6}{%
+\section{6}\label{section-22-6}}
 \bibleverse{1} ¿Dónde se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿Adónde se apartó tu amado, y le buscaremos contigo? 
 \bibleverse{2} Mi amado descendió á su huerto, á las eras de los aromas, para apacentar en los huertos, y para coger los lirios. 
 \bibleverse{3} Yo soy de mi amado, y mi amado es mío: él apacienta entre los lirios.
@@ -142,7 +148,8 @@
 \bibleverse{13} Tórnate, tórnate, oh Sulamita; tórnate, tórnate, y te miraremos. ¿Qué veréis en la Sulamita? Como la reunión de dos campamentos. 
 
 ## Descripción del baile de la novia; Alabado sea su belleza
-# 7 
+\hypertarget{section-22-7}{%
+\section{7}\label{section-22-7}}
 \bibleverse{1} ¡Cuán hermosos son tus pies en los calzados, oh hija de príncipe! Los contornos de tus muslos son como joyas, obra de mano de excelente maestro. 
 \bibleverse{2} Tu ombligo, como una taza redonda, que no le falta bebida. Tu vientre, como montón de trigo, cercado de lirios. 
 \bibleverse{3} Tus dos pechos, como dos cabritos mellizos de gama. 
@@ -164,7 +171,8 @@
 \bibleverse{13} Las mandrágoras han dado olor, y á nuestras puertas hay toda suerte de dulces frutas, nuevas y añejas, que para ti, oh amado mío, he guardado. 
 
 ## Amante y hermano
-# 8 
+\hypertarget{section-22-8}{%
+\section{8}\label{section-22-8}}
 \bibleverse{1} ¡Oh quién te me diese como hermano que mamó los pechos de mi madre; de modo que te halle yo fuera, y te bese, y no me menosprecien! 
 \bibleverse{2} Yo te llevaría, te metiera en casa de mi madre: tú me enseñarías, y yo te hiciera beber vino adobado del mosto de mis granadas. 
 \bibleverse{3} Su izquierda esté debajo de mi cabeza, y su derecha me abrace. 

@@ -1,5 +1,6 @@
 ## Aparición y eficacia de Juan el Bautista
-# 1 
+\hypertarget{section-41-1}{%
+\section{1}\label{section-41-1}}
 \bibleverse{1} Principio del evangelio de Jesucristo, Hijo de Dios.
 
  
@@ -90,7 +91,8 @@
 \bibleverse{45} Mas él salido, comenzó á publicarlo mucho, y á divulgar el hecho, de manera que ya Jesús no podía entrar manifiestamente en la ciudad, sino que estaba fuera en los lugares desiertos; y venían á él de todas partes. 
 
 ## Curación de un paralítico en Capernaum; Jesús perdona los pecados
-# 2 
+\hypertarget{section-41-2}{%
+\section{2}\label{section-41-2}}
 \bibleverse{1} Y entró otra vez en Capernaum después de algunos días, y se oyó que estaba en casa. 
 \bibleverse{2} Y luego se juntaron á él muchos, que ya no cabían ni aun á la puerta; y les predicaba la palabra. 
 \bibleverse{3} Entonces vinieron á él unos trayendo un paralítico, que era traído por cuatro. 
@@ -146,7 +148,8 @@
 \bibleverse{28} Así que el Hijo del hombre es Señor aun del sábado. 
 
 ## Sanación del hombre con el brazo paralizado en sábado; el segundo argumento sobre la observancia del sábado
-# 3 
+\hypertarget{section-41-3}{%
+\section{3}\label{section-41-3}}
 \bibleverse{1} Y otra vez entró en la sinagoga; y había allí un hombre que tenía una mano seca. 
 \bibleverse{2} Y le acechaban si en sábado le sanaría, para acusarle. 
 \bibleverse{3} Entonces dijo al hombre que tenía la mano seca: Levántate en medio. 
@@ -205,7 +208,8 @@
 \bibleverse{35} Porque cualquiera que hiciere la voluntad de Dios, éste es mi hermano, y mi hermana, y mi madre. 
 
 ## Parábola del sembrador y cuatro tipos de campos
-# 4 
+\hypertarget{section-41-4}{%
+\section{4}\label{section-41-4}}
 \bibleverse{1} Y otra vez comenzó á enseñar junto á la mar, y se juntó á él mucha gente; tanto, que entrándose él en un barco, se sentó en la mar: y toda la gente estaba en tierra junto á la mar. 
 \bibleverse{2} Y les enseñaba por parábolas muchas cosas, y les decía en su doctrina: 
 \bibleverse{3} Oid: He aquí, el sembrador salió á sembrar. 
@@ -275,7 +279,8 @@
 \bibleverse{41} Y temieron con gran temor, y decían el uno al otro. ¿Quién es éste, que aun el viento y la mar le obedecen? 
 
 ## Jesús sana a los poseídos en la tierra de los gerasenos
-# 5 
+\hypertarget{section-41-5}{%
+\section{5}\label{section-41-5}}
 \bibleverse{1} Y vinieron de la otra parte de la mar á la provincia de los Gadarenos. 
 \bibleverse{2} Y salido él del barco, luego le salió al encuentro, de los sepulcros, un hombre con un espíritu inmundo, 
 \bibleverse{3} Que tenía domicilio en los sepulcros, y ni aun con cadenas le podía alguien atar; 
@@ -352,7 +357,8 @@
 \bibleverse{43} Mas él les mandó mucho que nadie lo supiese, y dijo que le diesen de comer. 
 
 ## Rechazo y fracaso de Jesús en su natal Nazaret
-# 6 
+\hypertarget{section-41-6}{%
+\section{6}\label{section-41-6}}
 \bibleverse{1} Y salió de allí, y vino á su tierra, y le siguieron sus discípulos. 
 \bibleverse{2} Y llegado el sábado, comenzó á enseñar en la sinagoga; y muchos oyéndole, estaban atónitos, diciendo: ¿De dónde tiene éste estas cosas? ¿Y qué sabiduría es ésta que le es dada, y tales maravillas que por sus manos son hechas? 
 \bibleverse{3} ¿No es éste el carpintero, hijo de María, hermano de Jacobo, y de José, y de Judas, y de Simón? ¿No están también aquí con nosotros, sus hermanas? Y se escandalizaban en él.
@@ -447,7 +453,8 @@
 \bibleverse{56} Y donde quiera que entraba, en aldeas, ó ciudades, ó heredades, ponían en las calles á los que estaban enfermos, y le rogaban que tocasen siquiera el borde de su vestido; y todos los que le tocaban quedaban sanos. 
 
 ## Pelea con los oponentes sobre el lavado de manos; Advertencia de estatutos humanos y marcado de verdadera impureza
-# 7 
+\hypertarget{section-41-7}{%
+\section{7}\label{section-41-7}}
 \bibleverse{1} Y se juntaron á él los Fariseos, y algunos de los escribas, que habían venido de Jerusalem; 
 \bibleverse{2} Los cuales, viendo á algunos de sus discípulos comer pan con manos comunes, es á saber, no lavadas, los condenaban. 
 \bibleverse{3} (Porque los Fariseos y todos los Judíos, teniendo la tradición de los ancianos, si muchas veces no se lavan las manos, no comen. 
@@ -507,7 +514,8 @@
 \bibleverse{37} Y en gran manera se maravillaban, diciendo: Bien lo ha hecho todo: hace á los sordos oir, y á los mudos hablar. 
 
 ## Alimentando a los cuatro mil
-# 8 
+\hypertarget{section-41-8}{%
+\section{8}\label{section-41-8}}
 \bibleverse{1} En aquellos días, como hubo gran gentío, y no tenían qué comer, Jesús llamó á sus discípulos, y les dijo: 
 \bibleverse{2} Tengo compasión de la multitud, porque ya hace tres días que están conmigo, y no tienen qué comer: 
 \bibleverse{3} Y si los enviare en ayunas á sus casas, desmayarán en el camino; porque algunos de ellos han venido de lejos.
@@ -591,7 +599,8 @@
 \bibleverse{37} ¿O qué recompensa dará el hombre por su alma? 
 \bibleverse{38} Porque el que se avergonzare de mí y de mis palabras en esta generación adulterina y pecadora, el Hijo del hombre se avergonzará también de él, cuando vendrá en la gloria de su Padre con los santos ángeles. 
 
-# 9 
+\hypertarget{section-41-9}{%
+\section{9}\label{section-41-9}}
 \bibleverse{1} También les dijo: De cierto os digo que hay algunos de los que están aquí, que no gustarán la muerte hasta que hayan visto el reino de Dios que viene con potencia.
 
 ## La transfiguración de Jesús en la montaña y su conversación con los discípulos en el descenso
@@ -704,7 +713,8 @@
 \bibleverse{50} Buena es la sal; mas si la sal fuere desabrida, ¿con qué la adobaréis? Tened en vosotros mismos sal; y tened paz los unos con los otros. 
 
 ## Jesús en Judea y Transjordania; Conversaciones sobre matrimonio y divorcio
-# 10 
+\hypertarget{section-41-10}{%
+\section{10}\label{section-41-10}}
 \bibleverse{1} Y partiéndose de allí, vino á los términos de Judea y tras el Jordán: y volvió el pueblo á juntarse á él; y de nuevo les enseñaba como solía.
 
  
@@ -827,7 +837,8 @@
 \bibleverse{52} Y Jesús le dijo: Ve, tu fe te ha salvado. Y luego cobró la vista, y seguía á Jesús en el camino. 
 
 ## La entrada de Jesús a Jerusalén
-# 11 
+\hypertarget{section-41-11}{%
+\section{11}\label{section-41-11}}
 \bibleverse{1} Y como fueron cerca de Jerusalem, de Bethphagé, y de Bethania, al monte de las Olivas, envía dos de sus discípulos, 
 \bibleverse{2} Y les dice: Id al lugar que está delante de vosotros, y luego entrados en él, hallaréis un pollino atado, sobre el cual ningún hombre ha subido; desatadlo y traedlo. 
 \bibleverse{3} Y si alguien os dijere: ¿Por qué hacéis eso? decid que el Señor lo ha menester: y luego lo enviará acá.
@@ -891,7 +902,8 @@
 \bibleverse{33} Y respondiendo, dicen á Jesús: No sabemos. Entonces respondiendo Jesús, les dice: Tampoco yo os diré con qué facultad hago estas cosas. 
 
 ## Parábola de los viticultores infieles
-# 12 
+\hypertarget{section-41-12}{%
+\section{12}\label{section-41-12}}
 \bibleverse{1} Y comenzó á hablarles por parábolas: Plantó un hombre una viña, y la cercó con seto, y cavó un lagar, y edificó una torre, y la arrendó á labradores, y se partió lejos. 
 \bibleverse{2} Y envió un siervo á los labradores, al tiempo, para que tomase de los labradores del fruto de la viña. 
 \bibleverse{3} Mas ellos, tomándole, le hirieron, y le enviaron vacío. 
@@ -972,7 +984,8 @@
 \bibleverse{44} Porque todos han echado de lo que les sobra; mas ésta, de su pobreza echó todo lo que tenía, todo su alimento. 
 
 ## Los primeros signos del fin de los tiempos
-# 13 
+\hypertarget{section-41-13}{%
+\section{13}\label{section-41-13}}
 \bibleverse{1} Y saliendo del templo, le dice uno de sus discípulos: Maestro, mira qué piedras, y qué edificios.
 
  
@@ -1044,7 +1057,8 @@
 \bibleverse{37} Y las cosas que á vosotros digo, á todos las digo: Velad. 
 
 ## Intento de asesinato por parte de los líderes del pueblo
-# 14 
+\hypertarget{section-41-14}{%
+\section{14}\label{section-41-14}}
 \bibleverse{1} Y dos días después era la Pascua y los días de los panes sin levadura: y procuraban los príncipes de los sacerdotes y los escribas cómo le prenderían por engaño, y le matarían. 
 \bibleverse{2} Y decían: No en el día de la fiesta, porque no se haga alboroto del pueblo.
 
@@ -1192,7 +1206,8 @@
 \bibleverse{72} Y el gallo cantó la segunda vez: y Pedro se acordó de las palabras que Jesús le había dicho: Antes que el gallo cante dos veces, me negarás tres veces. Y pensando en esto, lloraba. 
 
 ## El interrogatorio de Jesús ante el gobernador romano Poncio Pilato; su condenación y flagelación
-# 15 
+\hypertarget{section-41-15}{%
+\section{15}\label{section-41-15}}
 \bibleverse{1} Y luego por la mañana, habiendo tenido consejo los príncipes de los sacerdotes con los ancianos, y con los escribas, y con todo el concilio, llevaron á Jesús atado, y le entregaron á Pilato. 
 \bibleverse{2} Y Pilato le preguntó: ¿Eres tú el Rey de los Judíos? Y respondiendo él, le dijo: Tú lo dices.
 
@@ -1282,7 +1297,8 @@
 \bibleverse{47} Y María Magdalena, y María madre de José, miraban donde era puesto. 
 
 ## Descubrimiento de la tumba vacía en la mañana de Pascua; la revelación del ángel a las mujeres
-# 16 
+\hypertarget{section-41-16}{%
+\section{16}\label{section-41-16}}
 \bibleverse{1} Y como pasó el sábado, María Magdalena, y María madre de Jacobo, y Salomé, compraron drogas aromáticas, para venir á ungirle. 
 \bibleverse{2} Y muy de mañana, el primer día de la semana, vienen al sepulcro, ya salido el sol. 
 \bibleverse{3} Y decían entre sí: ¿Quién nos revolverá la piedra de la puerta del sepulcro? 

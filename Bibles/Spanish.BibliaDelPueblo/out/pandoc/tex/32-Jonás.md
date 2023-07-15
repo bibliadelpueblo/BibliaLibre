@@ -1,5 +1,6 @@
 ## El llamado, la desobediencia y el castigo de Jonás
-# 1 
+\hypertarget{section-32-1}{%
+\section{1}\label{section-32-1}}
 \bibleverse{1} Y fué palabra de Jehová á Jonás, hijo de Amittai, diciendo: 
 \bibleverse{2} Levántate, y ve á Nínive, ciudad grande, y pregona contra ella; porque su maldad ha subido delante de mí.
 
@@ -32,7 +33,8 @@
 \bibleverse{16} Y temieron aquellos hombres á Jehová con gran temor; y ofrecieron sacrificio á Jehová, y prometieron votos. 
 
 ## Jonás oración y salvación
-# 2 
+\hypertarget{section-32-2}{%
+\section{2}\label{section-32-2}}
 \bibleverse{1} Mas Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches.
 
  
@@ -49,7 +51,8 @@
 \bibleverse{10} Yo empero con voz de alabanza te sacrificaré; pagaré lo que prometí. La salvación pertenece á Jehová. Y mandó Jehová al pez, y vomitó á Jonás en tierra. 
 
 ## Jonás exitoso sermón penitencial en Nínive
-# 3 
+\hypertarget{section-32-3}{%
+\section{3}\label{section-32-3}}
 \bibleverse{1} Y fué palabra de Jehová segunda vez á Jonás, diciendo: 
 \bibleverse{2} Levántate, y ve á Nínive, aquella gran ciudad, y publica en ella el pregón que yo te diré.
 
@@ -68,7 +71,8 @@
 \bibleverse{10} Y vió Dios lo que hicieron, que se convirtieron de su mal camino: y arrepintióse del mal que había dicho les había de hacer, y no lo hizo. 
 
 ## Jonás disgusto y reprensión
-# 4 
+\hypertarget{section-32-4}{%
+\section{4}\label{section-32-4}}
 \bibleverse{1} Pero Jonás se apesadumbró en extremo, y enojóse. 
 \bibleverse{2} Y oró á Jehová, y dijo: Ahora, oh Jehová, ¿no es esto lo que yo decía estando aún en mi tierra? Por eso me precaví huyendo á Tarsis: porque sabía yo que tú eres Dios clemente y piadoso, tardo á enojarte, y de grande misericordia, y que te arrepientes del mal. 
 \bibleverse{3} Ahora pues, oh Jehová, ruégote que me mates; porque mejor me es la muerte que la vida.

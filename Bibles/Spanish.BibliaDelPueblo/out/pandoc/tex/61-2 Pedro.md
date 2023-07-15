@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-61-1}{%
+\section{1}\label{section-61-1}}
 \bibleverse{1} Simón Pedro, siervo y apóstol de Jesucristo, á los que habéis alcanzado fe igualmente preciosa con nosotros en la justicia de nuestro Dios y Salvador Jesucristo: 
 \bibleverse{2} Gracia y paz os sea multiplicada en el conocimiento de Dios, y de nuestro Señor Jesús.
 
@@ -34,7 +35,8 @@
 \bibleverse{21} Porque la profecía no fué en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo. 
 
 ## Advertencia de los falsos maestros viciosos y perniciosos que enfrentan el juicio divino
-# 2 
+\hypertarget{section-61-2}{%
+\section{2}\label{section-61-2}}
 \bibleverse{1} Pero hubo también falsos profetas en el pueblo, como habrá entre vosotros falsos doctores, que introducirán encubiertamente herejías de perdición, y negarán al Señor que los rescató, atrayendo sobre sí mismos perdición acelerada. 
 \bibleverse{2} Y muchos seguirán sus disoluciones, por los cuales el camino de la verdad será blasfemado; 
 \bibleverse{3} Y por avaricia harán mercadería de vosotros con palabras fingidas; sobre los cuales la condenación ya de largo tiempo no se tarda, y su perdición no se duerme.
@@ -69,7 +71,8 @@
 \bibleverse{22} Pero les ha acontecido lo del verdadero proverbio: El perro se volvió á su vómito, y la puerca lavada á revolcarse en el cieno. 
 
 ## Contra los negadores de la segunda venida de Cristo
-# 3 
+\hypertarget{section-61-3}{%
+\section{3}\label{section-61-3}}
 \bibleverse{1} Carísimos, yo os escribo ahora esta segunda carta, por las cuales ambas despierto con exhortación vuestro limpio entendimiento; 
 \bibleverse{2} Para que tengáis memoria de las palabras que antes han sido dichas por los santos profetas, y de nuestro mandamiento, que somos apóstoles del Señor y Salvador: 
 \bibleverse{3} Sabiendo primero esto, que en los postrimeros días vendrán burladores, andando según sus propias concupiscencias, 

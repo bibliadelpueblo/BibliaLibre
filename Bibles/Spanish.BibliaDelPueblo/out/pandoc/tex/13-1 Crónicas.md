@@ -1,5 +1,6 @@
 ## Los antepasados ​​hasta el diluvio
-# 1 
+\hypertarget{section-13-1}{%
+\section{1}\label{section-13-1}}
 \bibleverse{1} Adam, Seth, Enos, 
 \bibleverse{2} Cainán, Mahalaleel, Jared, 
 \bibleverse{3} Enoch, Mathusalem, Lamech, 
@@ -82,7 +83,8 @@
 \bibleverse{54} El duque Magdiel, el duque Iram. Estos fueron los duques de Edom. 
 
 ## Los hijos de Jacob Israel y las familias de la tribu de Judá
-# 2 
+\hypertarget{section-13-2}{%
+\section{2}\label{section-13-2}}
 \bibleverse{1} Estos son los hijos de Israel: Rubén, Simeón, Leví, Judá, Issachâr, Zabulón, 
 \bibleverse{2} Dan, José, Benjamín, Nephtalí, Gad, y Aser.
 
@@ -161,7 +163,8 @@
 \bibleverse{55} Y las familias de los escribas, que moraban en Jabes, fueron los Thiratheos, Simatheos, Sucatheos; los cuales son los Cineos que vinieron de Hamath, padre de la casa de Rechâb. 
 
 ## Los hijos de David
-# 3 
+\hypertarget{section-13-3}{%
+\section{3}\label{section-13-3}}
 \bibleverse{1} Estos son los hijos de David, que le nacieron en Hebrón: Amnón el primogénito, de Achînoam Jezreelita; el segundo, Daniel, de Abigail de Carmelo; 
 \bibleverse{2} El tercero, Absalom, hijo de Maachâ hija de Talmai rey de Gesur; el cuarto, Adonías hijo de Aggith; 
 \bibleverse{3} El quinto, Sephatías, de Abithal; el sexto, Itream, de Egla su mujer. 
@@ -194,7 +197,8 @@
 \bibleverse{24} Los hijos de Elioenai fueron estos siete: Odavias, Eliasib, Palaías, Accub, Johanán, Dalaías, y Anani. 
 
 ## Más información sobre las familias de la tribu de Judá
-# 4 
+\hypertarget{section-13-4}{%
+\section{4}\label{section-13-4}}
 \bibleverse{1} Los hijos de Judá: Phares, Hesrón, Carmi, Hur, y Sobal. 
 \bibleverse{2} Y Reaias hijo de Sobal, engendró á Jahath; y Jahath engendró á Ahumai y á Laad. Estas son las familias de los Sorathitas. 
 \bibleverse{3} Y estas son las del padre de Etham: Jezreel, Isma, é Ibdas. Y el nombre de su hermana fué Haslelponi. 
@@ -257,7 +261,8 @@
 \bibleverse{43} E hirieron á las reliquias que habían quedado de Amalec, y habitaron allí hasta hoy. 
 
 ## Información sobre Rubén y sus descendientes
-# 5 
+\hypertarget{section-13-5}{%
+\section{5}\label{section-13-5}}
 \bibleverse{1} Y los hijos de Rubén, primogénito de Israel, (porque él era el primogénito, mas como violó el lecho de su padre, sus derechos de primogenitura fueron dados á los hijos de José, hijo de Israel; y no fué contado por primogénito. 
 \bibleverse{2} Porque Judá fué el mayorazgo sobre sus hermanos, y el príncipe de ellos: mas el derecho de primogenitura fué de José.) 
 \bibleverse{3} Fueron pues los hijos de Rubén, primogénito de Israel: Enoch, Phallu, Esrón y Charmi. 
@@ -303,7 +308,8 @@
 \bibleverse{26} Por lo cual el Dios de Israel excitó el espíritu de Phul rey de los Asirios, y el espíritu de Thiglath-pilneser rey de los Asirios, el cual trasportó á los Rubenitas y Gaditas y á la media tribu de Manasés, y llevólos á Halad, y á Habor y á Ara, y al río de Gozán, hasta hoy. 
 
 ## De Levi a los hijos de Aarón
-# 6 
+\hypertarget{section-13-6}{%
+\section{6}\label{section-13-6}}
 \bibleverse{1} Los hijos de Leví: Gersón, Coath, y Merari. 
 \bibleverse{2} Los hijos de Coath: Amram, Ishar, Hebrón y Uzziel. 
 \bibleverse{3} Los hijos de Amram: Aarón, Moisés, y Mariam. Los hijos de Aarón: Nadab, Abiú, Eleazar, é Ithamar.
@@ -417,7 +423,8 @@
 \bibleverse{81} Y á Hesbón con sus ejidos, y á Jacer con sus ejidos. 
 
 ## La tribu de Isacar
-# 7 
+\hypertarget{section-13-7}{%
+\section{7}\label{section-13-7}}
 \bibleverse{1} Los hijos de Issachâr, cuatro: Thola, Phúa, Jabsub, y Simrón. 
 \bibleverse{2} Los hijos de Thola: Uzzi, Rephaías, Jeriel, Jamai, Jibsam y Samuel, cabezas en las familias de sus padres. De Thola fueron contados por sus linajes en el tiempo de David, veintidós mil seiscientos hombres muy valerosos. 
 \bibleverse{3} Hijo de Uzzi fué Izrahías; y los hijos de Izrahías: Michâel, Obadías, Joel, é Isías: todos, cinco príncipes. 
@@ -478,7 +485,8 @@
 \bibleverse{40} Y todos estos fueron hijos de Aser, cabezas de familias paternas, escogidos, esforzados, cabezas de príncipes: y contados que fueron por sus linajes entre los de armas tomar, el número de ellos fué veintiséis mil hombres. 
 
 ## Hijos y descendientes de Benjamín a través de Bela
-# 8 
+\hypertarget{section-13-8}{%
+\section{8}\label{section-13-8}}
 \bibleverse{1} Benjamín engendró á Bela su primogénito, Asbel el segundo, Ara el tercero, 
 \bibleverse{2} Noha el cuarto, y Rapha el quinto. 
 \bibleverse{3} Y los hijos de Bela fueron Addar, Gera, Abiud, 
@@ -533,7 +541,8 @@
 \bibleverse{40} Y fueron los hijos de Ulam hombres valientes y vigorosos, flecheros diestros, los cuales tuvieron muchos hijos y nietos, ciento y cincuenta. Todos estos fueron de los hijos de Benjamín. 
 
 ## Directorio de residentes destacados de Jerusalén (en el período posterior al cautiverio)
-# 9 
+\hypertarget{section-13-9}{%
+\section{9}\label{section-13-9}}
 \bibleverse{1} Y contado todo Israel por el orden de los linajes, fueron escritos en el libro de los reyes de Israel y de Judá, que fueron trasportados á Babilonia por su rebelión. 
 \bibleverse{2} Los primeros moradores que entraron en sus posesiones en sus ciudades, fueron así de Israel, como de los sacerdotes, Levitas, y Nethineos.
 
@@ -607,7 +616,8 @@
 \bibleverse{44} Y Asel tuvo seis hijos, los nombres de los cuales son: Azricam, Bochru, Ismael, Seraía, Obadías, y Hanán: estos fueron los hijos de Asel. 
 
 ## Israel derrotado por los filisteos en el monte Gilboa; Muerte de Saúl y sus tres hijos
-# 10 
+\hypertarget{section-13-10}{%
+\section{10}\label{section-13-10}}
 \bibleverse{1} Los Filisteos pelearon con Israel; y huyeron delante de ellos los Israelitas, y cayeron heridos en el monte de Gilboa. 
 \bibleverse{2} Y los Filisteos siguieron á Saúl y á sus hijos; y mataron los Filisteos á Jonathán, y á Abinadab, y á Malchîsua, hijos de Saúl. 
 \bibleverse{3} Y agravóse la batalla sobre Saúl, y le alcanzaron los flecheros, y fué de los flecheros herido. 
@@ -632,7 +642,8 @@
 \bibleverse{14} Y no consultó á Jehová: por esta causa lo mató, y traspasó el reino á David, hijo de Isaí. 
 
 ## La unción de David en Hebrón y la conquista de Jerusalén
-# 11 
+\hypertarget{section-13-11}{%
+\section{11}\label{section-13-11}}
 \bibleverse{1} Entonces todo Israel se juntó á David en Hebrón, diciendo: He aquí nosotros somos tu hueso y tu carne. 
 \bibleverse{2} Y además antes de ahora, aun mientras Saúl reinaba, tú sacabas y metías á Israel. También Jehová tu Dios te ha dicho: Tú apacentarás mi pueblo Israel, y tú serás príncipe sobre Israel mi pueblo.
 
@@ -704,7 +715,8 @@
 \bibleverse{47} Eliel, y Obed, y Jaasiel de Mesobia. 
 
 ## Los seguidores de David en Siclag y Adullam mientras Saúl todavía estaba vivo
-# 12 
+\hypertarget{section-13-12}{%
+\section{12}\label{section-13-12}}
 \bibleverse{1} Estos son los que vinieron á David á Siclag, estando él aún encerrado por causa de Saúl hijo de Cis, y eran de los valientes ayudadores de la guerra. 
 \bibleverse{2} Estaban armados de arcos, y usaban de ambas manos en tirar piedras con honda, y saetas con arco. De los hermanos de Saúl de Benjamín: 
 \bibleverse{3} El principal Ahiezer, después Joas, hijos de Semaa Gabaathita; y Jeziel, y Pheleth, hijos de Azmaveth, y Beracah, y Jehú Anathothita; 
@@ -762,7 +774,8 @@
 \bibleverse{40} Y también los que les eran vecinos, hasta Issachâr y Zabulón y Nephtalí, trajeron pan en asnos, y camellos, y mulos, y bueyes; y provisión de harina, masas de higos, y pasas, vino y aceite, bueyes y ovejas en abundancia, porque en Israel había alegría. 
 
 ## Movilización de todo el pueblo con fines de recuperación
-# 13 
+\hypertarget{section-13-13}{%
+\section{13}\label{section-13-13}}
 \bibleverse{1} Entonces David tomó consejo con los capitanes de millares y de cientos, y con todos los jefes. 
 \bibleverse{2} Y dijo David á todo el congreso de Israel: Si os parece bien y de Jehová nuestro Dios, enviaremos á todas partes á llamar nuestros hermanos que han quedado en todas las tierras de Israel, y á los sacerdotes y Levitas que están con ellos en sus ciudades y ejidos que se junten con nosotros; 
 \bibleverse{3} Y traigamos el arca de nuestro Dios á nosotros, porque desde el tiempo de Saúl no hemos hecho caso de ella.
@@ -789,7 +802,8 @@
 \bibleverse{14} Y el arca de Dios estuvo en casa de Obed-edom, en su casa, tres meses: y bendijo Jehová la casa de Obed-edom, y todas las cosas que tenía. 
 
 ## El edificio del palacio de David y los nuevos matrimonios; sus guerras victoriosas con los filisteos
-# 14 
+\hypertarget{section-13-14}{%
+\section{14}\label{section-13-14}}
 \bibleverse{1} E Hiram rey de Tiro envió embajadores á David, y madera de cedro, y albañiles y carpinteros, que le edificasen una casa. 
 \bibleverse{2} Y entendió David que Jehová lo había confirmado por rey sobre Israel, y que había ensalzado su reino sobre su pueblo Israel.
 
@@ -821,7 +835,8 @@
 \bibleverse{17} Y la fama de David fué divulgada por todas aquellas tierras: y puso Jehová temor de David sobre todas las gentes. 
 
 ## Preparativos para el traslado del arca sagrada; Designación e instrucción de los levitas a cargo
-# 15 
+\hypertarget{section-13-15}{%
+\section{15}\label{section-13-15}}
 \bibleverse{1} Hizo también casas para sí en la ciudad de David, y labró un lugar para el arca de Dios, y tendióle una tienda. 
 \bibleverse{2} Entonces dijo David: El arca de Dios no debe ser traída sino por los Levitas; porque á ellos ha elegido Jehová para que lleven el arca de Jehová, y le sirvan perpetuamente.
 
@@ -864,7 +879,8 @@
 \bibleverse{28} De esta manera llevaba todo Israel el arca del pacto de Jehová, con júbilo y sonido de bocinas, y trompetas, y címbalos, y al son de salterios y arpas. 
 \bibleverse{29} Y como el arca del pacto de Jehová llegó á la ciudad de David, Michâl, hija de Saúl, mirando por una ventana, vió al rey David que saltaba y bailaba; y menospreciólo en su corazón. 
 
-# 16 
+\hypertarget{section-13-16}{%
+\section{16}\label{section-13-16}}
 \bibleverse{1} Así trajeron el arca de Dios, y asentáronla en medio de la tienda que David había tendido para ella: y ofrecieron holocaustos y pacíficos delante de Dios. 
 \bibleverse{2} Y como David hubo acabado de ofrecer el holocausto y los pacíficos, bendijo al pueblo en el nombre de Jehová. 
 \bibleverse{3} Y repartió á todo Israel, así á hombres como á mujeres, á cada uno una torta de pan, y una pieza de carne, y un frasco de vino.
@@ -919,7 +935,8 @@
 \bibleverse{43} Y todo el pueblo se fué cada uno á su casa; y David se volvió para bendecir su casa. 
 
 ## Natán aprueba el plan de David para construir el templo
-# 17 
+\hypertarget{section-13-17}{%
+\section{17}\label{section-13-17}}
 \bibleverse{1} Y aconteció que morando David en su casa, dijo David al profeta Nathán: He aquí yo habito en casa de cedro, y el arca del pacto de Jehová debajo de cortinas.
 
  
@@ -964,7 +981,8 @@
 \bibleverse{27} Y ahora has querido bendecir la casa de tu siervo, para que permanezca perpetuamente delante de ti: porque tú, Jehová, la has bendecido, y será bendita para siempre. 
 
 ## Las victorias de David sobre los filisteos, moabitas, sirios y edomitas
-# 18 
+\hypertarget{section-13-18}{%
+\section{18}\label{section-13-18}}
 \bibleverse{1} Después de estas cosas aconteció que David hirió á los Filisteos, y los humilló; y tomó á Gath y sus villas de mano de los Filisteos. 
 \bibleverse{2} También hirió á Moab; y los Moabitas fueron siervos de David trayéndole presentes.
 
@@ -995,7 +1013,8 @@
 \bibleverse{17} Y Benaías hijo de Joiada era sobre los Ceretheos y Peletheos; y los hijos de David eran los príncipes cerca del rey. 
 
 ## El vergonzoso crimen de los amonitas contra el mensajero de David
-# 19 
+\hypertarget{section-13-19}{%
+\section{19}\label{section-13-19}}
 \bibleverse{1} Después de estas cosas aconteció que murió Naas rey de los hijos de Ammón, y reinó en su lugar su hijo. 
 \bibleverse{2} Y dijo David: Haré misericordia con Hanán hijo de Naas, porque también su padre hizo conmigo misericordia. Así David envió embajadores que lo consolasen de la muerte de su padre. Mas venidos los siervos de David en la tierra de los hijos de Ammón á Hanán, para consolarle,
 
@@ -1029,7 +1048,8 @@
 \bibleverse{19} Y viendo los Siros de Adarezer que habían caído delante de Israel, concertaron paz con David, y fueron sus siervos; y nunca más quiso el Siro ayudar á los hijos de Ammón. 
 
 ## Joab conquista Rabá; El triunfo de David y el castigo de los amonitas
-# 20 
+\hypertarget{section-13-20}{%
+\section{20}\label{section-13-20}}
 \bibleverse{1} Y aconteció á la vuelta del año, en el tiempo que suelen los reyes salir á la guerra, que Joab sacó las fuerzas del ejército, y destruyó la tierra de los hijos de Ammón, y vino y cercó á Rabba. Mas David estaba en Jerusalem: y Joab batió á Rabba, y destruyóla. 
 \bibleverse{2} Y tomó David la corona de su rey de encima de su cabeza, y hallóla de peso de un talento de oro, y había en ella piedras preciosas; y fué puesta sobre la cabeza de David. Y además de esto sacó de la ciudad un muy gran despojo. 
 \bibleverse{3} Sacó también al pueblo que estaba en ella, y cortólos con sierras, y con trillos de hierro, y segures. Lo mismo hizo David á todas las ciudades de los hijos de Ammón. Y volvióse David con todo el pueblo á Jerusalem.
@@ -1045,7 +1065,8 @@
 \bibleverse{8} Estos fueron hijos de Rapha en Gath, los cuales cayeron por mano de David y de sus siervos. 
 
 ## David, a instigación de Satanás, completa el censo a pesar de la advertencia de Joab; Resultado del recuento
-# 21 
+\hypertarget{section-13-21}{%
+\section{21}\label{section-13-21}}
 \bibleverse{1} Mas Satanás se levantó contra Israel, é incitó á David á que contase á Israel. 
 \bibleverse{2} Y dijo David á Joab y á los príncipes del pueblo: Id, contad á Israel desde Beer-seba hasta Dan, y traedme el número de ellos para que yo lo sepa.
 
@@ -1112,7 +1133,8 @@
 \bibleverse{29} Entonces viendo David que Jehová le había oído en la era de Ornán Jebuseo, sacrificó allí. 
 \bibleverse{30} Y el tabernáculo de Jehová que Moisés había hecho en el desierto, y el altar del holocausto, estaban entonces en el alto de Gabaón: Mas David no pudo ir allá á consultar á Dios, porque estaba espantado á causa de la espada del ángel de Jehová. 
 
-# 22 
+\hypertarget{section-13-22}{%
+\section{22}\label{section-13-22}}
 \bibleverse{1} Y dijo David: Esta es la casa de Jehová Dios, y este es el altar del holocausto para Israel.
 
 ## Los preparativos de David para la construcción del templo; Colección de materiales de construcción
@@ -1143,7 +1165,8 @@
 \bibleverse{19} Poned, pues, ahora vuestros corazones y vuestros ánimos en buscar á Jehová vuestro Dios; y levantaos, y edificad el santuario del Dios Jehová, para traer el arca del pacto de Jehová, y lo santos vasos de Dios, á la casa edificada al nombre de Jehová. 
 
 ## Contando y ejecutando los levitas
-# 23 
+\hypertarget{section-13-23}{%
+\section{23}\label{section-13-23}}
 \bibleverse{1} Siendo pues David ya viejo y harto de días, hizo á Salomón su hijo rey sobre Israel. 
 \bibleverse{2} Y juntando á todos los principales de Israel, y á los sacerdotes y Levitas, 
 \bibleverse{3} Fueron contados los Levitas de treinta años arriba; y fué el número de ellos por sus cabezas, contados uno á uno, treinta y ocho mil. 
@@ -1190,7 +1213,8 @@
 \bibleverse{32} Y para que tuviesen la guarda del tabernáculo del testimonio, y la guarda del santuario, y las órdenes de los hijos de Aarón sus hermanos, en el ministerio de la casa de Jehová. 
 
 ## El dibujo de las 24 clases sacerdotales
-# 24 
+\hypertarget{section-13-24}{%
+\section{24}\label{section-13-24}}
 \bibleverse{1} También los hijos de Aarón tuvieron sus repartimientos. Los hijos de Aarón: Nadab, Abiú, Eleazar é Ithamar. 
 \bibleverse{2} Mas Nadab y Abiú murieron antes que su padre, y no tuvieron hijos: Eleazar é Ithamar tuvieron el sacerdocio. 
 \bibleverse{3} Y David los repartió, siendo Sadoc de los hijos de Eleazar, y Ahimelech de los hijos de Ithamar, por sus turnos en su ministerio. 
@@ -1229,7 +1253,8 @@
 \bibleverse{31} Estos también echaron suertes, como sus hermanos los hijos de Aarón, delante del rey David, y de Sadoc y de Ahimelech, y de los príncipes de las familias de los sacerdotes y Levitas: el principal de los padres igualmente que el menor de sus hermanos. 
 
 ## El sorteo de las 24 divisiones de los cantantes y músicos sagrados
-# 25 
+\hypertarget{section-13-25}{%
+\section{25}\label{section-13-25}}
 \bibleverse{1} Asimismo David y los príncipes del ejército apartaron para el ministerio á los hijos de Asaph, y de Hemán, y de Jeduthún, los cuales profetizasen con arpas, salterios, y címbalos: y el número de ellos fué, de hombres idóneos para la obra de su ministerio respectivo: 
 \bibleverse{2} De los hijos de Asaph: Zachûr, José, Methanías, y Asareela, hijos de Asaph, bajo la dirección de Asaph, el cual profetizaba á la orden del rey. 
 \bibleverse{3} De Jeduthún: los hijos de Jeduthún, Gedalías, Sesi, Jesaías, Hasabías, y Mathithías, y Simi: seis, bajo la mano de su padre Jeduthún, el cual profetizaba con arpa, para celebrar y alabar á Jehová. 
@@ -1265,7 +1290,8 @@
 \bibleverse{31} La vigésimacuarta á Romamti-ezer, con sus hijos y sus hermanos, doce. 
 
 ## Divisiones de los porteros levíticos
-# 26 
+\hypertarget{section-13-26}{%
+\section{26}\label{section-13-26}}
 \bibleverse{1} Cuanto á los repartimientos de los porteros: De los Coraitas: Meselemia hijo de Coré, de los hijos de Asaph. 
 \bibleverse{2} Los hijos de Meselemia: Zachârías el primogénito, Jediael el segundo, Zebadías el tercero, Jatnael el cuarto; 
 \bibleverse{3} Elam el quinto, Johanam el sexto, Elioenai el séptimo. 
@@ -1308,7 +1334,8 @@
 \bibleverse{32} Y sus hermanos, hombres valientes, eran dos mil y setecientos, cabezas de familias, los cuales el rey David constituyó sobre los Rubenitas, Gaditas, y sobre la media tribu de Manasés, para todas las cosas de Dios, y los negocios del rey. 
 
 ## Los doce jefes militares, los caudillos y los demás altos funcionarios de David; La división del ejército en doce
-# 27 
+\hypertarget{section-13-27}{%
+\section{27}\label{section-13-27}}
 \bibleverse{1} Y los hijos de Israel según su número, á saber, príncipes de familias, tribunos, centuriones y oficiales de los que servían al rey en todos los negocios de las divisiones que entraban y salían cada mes en todos los meses del año, eran en cada división veinte y cuatro mil.
 
  
@@ -1359,7 +1386,8 @@
 \bibleverse{34} Después de Achitophel era Joiada hijo de Benaías, y Abiathar. Y Joab era el general del ejército del rey. 
 
 ## El discurso de David a los jefes de Israel
-# 28 
+\hypertarget{section-13-28}{%
+\section{28}\label{section-13-28}}
 \bibleverse{1} Y juntó David en Jerusalem á todos los principales de Israel, los príncipes de las tribus, y los jefes de las divisiones que servían al rey, los tribunos y centuriones, con los superintendentes de toda la hacienda y posesión del rey, y sus hijos, con los eunucos, los poderosos, y todos sus hombres valientes.
 
 ## David presenta al superior del pueblo a Salomón como su sucesor
@@ -1396,7 +1424,8 @@
 \bibleverse{21} He aquí los órdenes de los sacerdotes y de los Levitas, para todo el ministerio de la casa de Dios, serán contigo en toda la obra: asimismo todos los voluntarios é inteligentes para cualquiera especie de industria; y los príncipes, y todo el pueblo para ejecutar todas tus órdenes. 
 
 ## La contribución de los príncipes a la construcción del templo siguiendo la amonestación de David
-# 29 
+\hypertarget{section-13-29}{%
+\section{29}\label{section-13-29}}
 \bibleverse{1} Después dijo el rey David á toda la asamblea: A solo Salomón mi hijo ha elegido Dios; él es joven y tierno, y la obra grande; porque la casa no es para hombre, sino para Jehová Dios. 
 \bibleverse{2} Yo empero con todas mis fuerzas he preparado para la casa de mi Dios, oro para las cosas de oro, y plata para las cosas de plata, y metal para las de metal, y hierro para las de hierro, y madera para las de madera, y piedras oniquinas, y piedras preciosas, y piedras negras, y piedras de diversos colores, y toda suerte de piedras preciosas, y piedras de mármol en abundancia. 
 \bibleverse{3} A más de esto, por cuanto tengo mi gusto en la casa de mi Dios, yo guardo en mi tesoro particular oro y plata que, además de todas las cosas que he aprestado para la casa del santuario, he dado para la casa de mi Dios; 

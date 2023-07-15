@@ -1,5 +1,6 @@
 ## Anuncio del juicio divino sobre las naciones
-# 1 
+\hypertarget{section-30-1}{%
+\section{1}\label{section-30-1}}
 \bibleverse{1} Las palabras de Amós, que fué entre los pastores de Tecoa, las cuales vió acerca de Israel en días de Uzzía rey de Judá, y en días de Jeroboam hijo de Joas rey de Israel, dos años antes del terremoto. 
 \bibleverse{2} Y dijo: Jehová bramará desde Sión, y dará su voz desde Jerusalem; y las estancias de los pastores se enlutarán, y secaráse la cumbre del Carmelo.
 
@@ -32,7 +33,8 @@
 \bibleverse{15} Y su rey irá en cautiverio, él y sus príncipes todos, dice Jehová. 
 
 ## Amenaza contra los moabitas
-# 2 
+\hypertarget{section-30-2}{%
+\section{2}\label{section-30-2}}
 \bibleverse{1} Así ha dicho Jehová: Por tres pecados de Moab, y por el cuarto, no desviaré su castigo; porque quemó los huesos del rey de Idumea hasta tornarlos en cal. 
 \bibleverse{2} Y meteré fuego en Moab, y consumirá los palacios de Chêrioth: y morirá Moab en alboroto, en estrépito y sonido de trompeta. 
 \bibleverse{3} Y quitaré el juez de en medio de él, y mataré con él á todos sus príncipes, dice Jehová.
@@ -57,7 +59,8 @@
 \bibleverse{16} El esforzado entre esforzados huirá desnudo aquel día, dice Jehová. 
 
 ## La responsabilidad de Israel como resultado de su elección al pueblo de Dios
-# 3 
+\hypertarget{section-30-3}{%
+\section{3}\label{section-30-3}}
 \bibleverse{1} Oid esta palabra que ha hablado Jehová contra vosotros, hijos de Israel, contra toda la familia que hice subir de la tierra de Egipto. Dice así: 
 \bibleverse{2} A vosotros solamente he conocido de todas las familias de la tierra; por tanto visitaré contra vosotros todas vuestras maldades.
 
@@ -87,7 +90,8 @@
 \bibleverse{15} Y heriré la casa del invierno con la casa del verano, y las casas de marfil perecerán; y muchas casas serán arruinadas, dice Jehová. 
 
 ## Amenaza contra las exuberantes mujeres de Samaria
-# 4 
+\hypertarget{section-30-4}{%
+\section{4}\label{section-30-4}}
 \bibleverse{1} Oid esta palabra, vacas de Basán, que estáis en el monte de Samaria, que oprimís los pobres, que quebrantáis los menesterosos, que decís á sus señores: Traed, y beberemos. 
 \bibleverse{2} El Señor Jehová juró por su santidad: He aquí, vienen días sobre vosotros en que os llevará en anzuelos, y á vuestros descendientes en barquillos de pescador. 
 \bibleverse{3} Y saldrán por los portillos la una en pos de la otra, y seréis echadas del palacio, dice Jehová.
@@ -117,7 +121,8 @@
 \bibleverse{13} Porque he aquí, el que forma los montes, y cría el viento, y denuncia al hombre su pensamiento; el que hace á las tinieblas mañana, y pasa sobre las alturas de la tierra; Jehová, Dios de los ejércitos, es su nombre. 
 
 ## Amós inicia el lamento por los muertos contra Israel
-# 5 
+\hypertarget{section-30-5}{%
+\section{5}\label{section-30-5}}
 \bibleverse{1} Oid esta palabra, porque yo levanto endecha sobre vosotros, casa de Israel. 
 \bibleverse{2} Cayó la virgen de Israel, no más podrá levantarse; dejada fué sobre su tierra, no hay quien la levante.
 
@@ -168,7 +173,8 @@
 \bibleverse{27} Hareos pues trasportar más allá de Damasco, ha dicho Jehová, cuyo nombre es Dios de los ejércitos. 
 
 ## La vida despreocupada de los grandes orgullosos e indulgentes de Judá y Samaria desafía el juicio divino
-# 6 
+\hypertarget{section-30-6}{%
+\section{6}\label{section-30-6}}
 \bibleverse{1} ¡Ay de los reposados en Sión, y de los confiados en el monte de Samaria, nombrados principales entre las mismas naciones, las cuales vendrán sobre ellos, oh casa de Israel! 
 \bibleverse{2} Pasad á Calne, y mirad; y de allí id á la gran Hamath; descended luego á Gath de los Palestinos: ved si son aquellos reinos mejores que estos reinos, si su término es mayor que vuestro término. 
 \bibleverse{3} Vosotros que dilatáis el día malo, y acercáis la silla de iniquidad; 
@@ -190,7 +196,8 @@
 \bibleverse{14} Pues he aquí, levantaré yo sobre vosotros, oh casa de Israel, dice Jehová Dios de los ejércitos, gente que os oprimirá desde la entrada de Hamath hasta el arroyo del desierto. 
 
 ## Las dos primeras visionas amenazantes (langostas y sequía)
-# 7 
+\hypertarget{section-30-7}{%
+\section{7}\label{section-30-7}}
 \bibleverse{1} Así me ha mostrado el Señor Jehová: y he aquí, él criaba langostas al principio que comenzaba á crecer el heno tardío; y he aquí, era el heno tardío después de las siegas del rey. 
 \bibleverse{2} Y acaeció que como acabó de comer la hierba de la tierra, yo dije: Señor Jehová, perdona ahora; ¿quién levantará á Jacob? porque es pequeño.
 
@@ -228,7 +235,8 @@
 \bibleverse{17} Por tanto, así ha dicho Jehová: Tu mujer fornicará en la ciudad, y tus hijos y tus hijas caerán á cuchillo, y tu tierra será partida por suertes; y tú morirás en tierra inmunda, é Israel será traspasado de su tierra. 
 
 ## La visión de la canasta de frutas maduras
-# 8 
+\hypertarget{section-30-8}{%
+\section{8}\label{section-30-8}}
 \bibleverse{1} Así me ha mostrado Jehová: y he aquí un canastillo de fruta de verano.
 
  
@@ -257,7 +265,8 @@
 \bibleverse{14} Los que juran por el pecado de Samaria, y dicen, Vive tu Dios de Dan: y, Vive el camino de Beer-seba: caerán, y nunca más se levantarán. 
 
 ## El Señor en el altar, con respecto a la destrucción del santuario en Betel y la ineludibilidad del juicio venidero
-# 9 
+\hypertarget{section-30-9}{%
+\section{9}\label{section-30-9}}
 \bibleverse{1} Vi al Señor que estaba sobre el altar, y dijo: Hiere el umbral, y estremézcanse las puertas: y córtales en piezas la cabeza de todos; y el postrero de ellos mataré á cuchillo: no habrá de ellos quien se fugue, ni quien escape. 
 \bibleverse{2} Aunque cavasen hasta el infierno, de allá los tomará mi mano; y si subieren hasta el cielo, de allá los haré descender. 
 \bibleverse{3} Y si se escondieren en la cumbre del Carmelo, allí los buscaré y los tomaré; y aunque se escondieren de delante de mis ojos en el profundo de la mar, allí mandaré á la culebra, y morderálos. 

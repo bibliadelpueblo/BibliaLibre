@@ -1,5 +1,6 @@
 ## Árbol genealógico de Jesús como descendiente de Abraham y David
-# 1 
+\hypertarget{section-40-1}{%
+\section{1}\label{section-40-1}}
 \bibleverse{1} Libro de la generación de Jesucristo, hijo de David, hijo de Abraham.
 
  
@@ -40,7 +41,8 @@
 \bibleverse{25} Y no la conoció hasta que parió á su hijo primogénito: y llamó su nombre [Jesus]{.smallcaps}. 
 
 ## Los magos del oriente vienen al niño Jesús y le rinden homenaje
-# 2 
+\hypertarget{section-40-2}{%
+\section{2}\label{section-40-2}}
 \bibleverse{1} Y como fué nacido Jesús en Bethlehem de Judea en días del rey Herodes, he aquí unos magos vinieron del oriente á Jerusalem, 
 \bibleverse{2} Diciendo: ¿Dónde está el Rey de los Judíos, que ha nacido? porque su estrella hemos visto en el oriente, y venimos á adorarle. 
 \bibleverse{3} Y oyendo esto el rey Herodes, se turbó, y toda Jerusalem con él. 
@@ -83,7 +85,8 @@
 \bibleverse{23} Y vino, y habitó en la ciudad que se llama Nazaret: para que se cumpliese lo que fué dicho por los profetas, que había de ser llamado Nazareno. 
 
 ## Aparición y sermón penitencial de Juan el Bautista
-# 3 
+\hypertarget{section-40-3}{%
+\section{3}\label{section-40-3}}
 \bibleverse{1} Y en aquellos días vino Juan el Bautista predicando en el desierto de Judea, 
 \bibleverse{2} Y diciendo: Arrepentíos, que el reino de los cielos se ha acercado. 
 \bibleverse{3} Porque éste es aquel del cual fué dicho por el profeta Isaías, que dijo: Voz de uno que clama en el desierto: Aparejad el camino del Señor, enderezad sus veredas.
@@ -116,7 +119,8 @@
 \bibleverse{17} Y he aquí una voz de los cielos que decía: Este es mi Hijo amado, en el cual tengo contentamiento. 
 
 ## La tentación de Jesús como prueba de Mesías
-# 4 
+\hypertarget{section-40-4}{%
+\section{4}\label{section-40-4}}
 \bibleverse{1} Entonces Jesús fué llevado del Espíritu al desierto, para ser tentado del diablo. 
 \bibleverse{2} Y habiendo ayunado cuarenta días y cuarenta noches, después tuvo hambre. 
 \bibleverse{3} Y llegándose á él el tentador, dijo: Si eres Hijo de Dios, di que estas piedras se hagan pan.
@@ -169,7 +173,8 @@
 \bibleverse{25} Y le siguieron muchas gentes de Galilea y de Decápolis y de Jerusalem y de Judea y de la otra parte del Jordán. 
 
 ## El sermón del monte
-# 5 
+\hypertarget{section-40-5}{%
+\section{5}\label{section-40-5}}
 \bibleverse{1} Y viendo las gentes, subió al monte; y sentándose, se llegaron á él sus discípulos. 
 \bibleverse{2} Y abriendo su boca, les enseñaba, diciendo:
 
@@ -251,7 +256,8 @@
 \bibleverse{48} Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto. 
 
 ## Ten cuidado al dar limosna
-# 6 
+\hypertarget{section-40-6}{%
+\section{6}\label{section-40-6}}
 \bibleverse{1} Mirad que no hagáis vuestra justicia delante de los hombres, para ser vistos de ellos: de otra manera no tendréis merced de vuestro Padre que está en los cielos. 
 \bibleverse{2} Cuando pues haces limosna, no hagas tocar trompeta delante de ti, como hacen los hipócritas en las sinagogas y en las plazas, para ser estimados de los hombres: de cierto os digo, que ya tienen su recompensa. 
 \bibleverse{3} Mas cuando tú haces limosna, no sepa tu izquierda lo que hace tu derecha; 
@@ -310,7 +316,8 @@
 \bibleverse{34} Así que, no os congojéis por el día de mañana; que el día de mañana traerá su fatiga: basta al día su afán. 
 
 ## No juzguéis
-# 7 
+\hypertarget{section-40-7}{%
+\section{7}\label{section-40-7}}
 \bibleverse{1} No juzguéis, para que no seáis juzgados. 
 \bibleverse{2} Porque con el juicio con que juzgáis, seréis juzgados; y con la medida con que medís, os volverán á medir. 
 \bibleverse{3} Y ¿por qué miras la mota que está en el ojo de tu hermano, y no echas de ver la viga que está en tu ojo? 
@@ -362,7 +369,8 @@
 \bibleverse{29} Porque les enseñaba como quien tiene autoridad, y no como los escribas. 
 
 ## Sanando a un leproso
-# 8 
+\hypertarget{section-40-8}{%
+\section{8}\label{section-40-8}}
 \bibleverse{1} Y como descendió del monte, le seguían muchas gentes. 
 \bibleverse{2} Y he aquí un leproso vino, y le adoraba, diciendo: Señor, si quisieres, puedes limpiarme.
 
@@ -438,7 +446,8 @@
 \bibleverse{34} Y he aquí, toda la ciudad salió á encontrar á Jesús: y cuando le vieron, le rogaban que saliese de sus términos. 
 
 ## Curación de un paralítico en Capernaum; Jesús perdona los pecados
-# 9 
+\hypertarget{section-40-9}{%
+\section{9}\label{section-40-9}}
 \bibleverse{1} Entonces entrando en el barco, pasó á la otra parte, y vino á su ciudad. 
 \bibleverse{2} Y he aquí le trajeron un paralítico, echado en una cama: y viendo Jesús la fe de ellos, dijo al paralítico: Confía, hijo; tus pecados te son perdonados.
 
@@ -520,7 +529,8 @@
 \bibleverse{38} Rogad, pues, al Señor de la mies, que envíe obreros á su mies. 
 
 ## Llamadas y nombres de los doce discípulos
-# 10 
+\hypertarget{section-40-10}{%
+\section{10}\label{section-40-10}}
 \bibleverse{1} Entonces llamando á sus doce discípulos, les dió potestad contra los espíritus inmundos, para que los echasen fuera, y sanasen toda enfermedad y toda dolencia. 
 \bibleverse{2} Y los nombres de los doce apóstoles son estos: el primero, Simón, que es dicho Pedro, y Andrés su hermano; Jacobo, hijo de Zebedeo, y Juan su hermano; 
 \bibleverse{3} Felipe, y Bartolomé; Tomás, y Mateo el publicano; Jacobo hijo de Alfeo, y Lebeo, por sobrenombre Tadeo; 
@@ -587,7 +597,8 @@
 \bibleverse{41} El que recibe profeta en nombre de profeta, merced de profeta recibirá; y el que recibe justo en nombre de justo, merced de justo recibirá. 
 \bibleverse{42} Y cualquiera que diere á uno de estos pequeñitos un vaso de agua fría solamente, en nombre de discípulo, de cierto os digo, que no perderá su recompensa. 
 
-# 11 
+\hypertarget{section-40-11}{%
+\section{11}\label{section-40-11}}
 \bibleverse{1} Y fué, que acabando Jesús de dar mandamientos á sus doce discípulos, se fué de allí á enseñar y á predicar en las ciudades de ellos.
 
 ## Embajada de Juan el Bautista desde la prisión; La respuesta y el testimonio de Jesús sobre Juan
@@ -638,7 +649,8 @@
 \bibleverse{30} Porque mi yugo es fácil, y ligera mi carga. 
 
 ## Los oídos de los discípulos en sábado; La primera disputa de Jesús con los fariseos sobre la santificación del día de reposo
-# 12 
+\hypertarget{section-40-12}{%
+\section{12}\label{section-40-12}}
 \bibleverse{1} En aquel tiempo iba Jesús por los sembrados en sábado; y sus discípulos tenían hambre, y comenzaron á coger espigas, y á comer. 
 \bibleverse{2} Y viéndolo los Fariseos, le dijeron: He aquí tus discípulos hacen lo que no es lícito hacer en sábado.
 
@@ -725,7 +737,8 @@
 \bibleverse{50} Porque todo aquel que hiciere la voluntad de mi Padre que está en los cielos, ese es mi hermano, y hermana, y madre. 
 
 ## la parábola del sembrador y el campo cuádruple
-# 13 
+\hypertarget{section-40-13}{%
+\section{13}\label{section-40-13}}
 \bibleverse{1} Y aquel día, saliendo Jesús de casa, se sentó junto á la mar. 
 \bibleverse{2} Y se allegaron á él muchas gentes; y entrándose él en el barco, se sentó, y toda la gente estaba á la ribera. 
 \bibleverse{3} Y les habló muchas cosas por parábolas, diciendo: He aquí el que sembraba salió á sembrar. 
@@ -829,7 +842,8 @@
 \bibleverse{58} Y no hizo allí muchas maravillas, á causa de la incredulidad de ellos. 
 
 ## Jesús y Herodes; el fin de Juan el Bautista
-# 14 
+\hypertarget{section-40-14}{%
+\section{14}\label{section-40-14}}
 \bibleverse{1} En aquel tiempo Herodes el tetrarca oyó la fama de Jesús, 
 \bibleverse{2} Y dijo á sus criados: Este es Juan el Bautista: él ha resucitado de los muertos, y por eso virtudes obran en él. 
 \bibleverse{3} Porque Herodes había prendido á Juan, y le había aprisionado y puesto en la cárcel, por causa de Herodías, mujer de Felipe su hermano; 
@@ -895,7 +909,8 @@
 \bibleverse{36} Y le rogaban que solamente tocasen el borde de su manto; y todos los que tocaron, quedaron sanos. 
 
 ## La disputa de Jesús con sus oponentes por lavarse las manos; su advertencia de los estatutos humanos y la marca de la verdadera impureza
-# 15 
+\hypertarget{section-40-15}{%
+\section{15}\label{section-40-15}}
 \bibleverse{1} Entonces llegaron á Jesús ciertos escribas y Fariseos de Jerusalem, diciendo: 
 \bibleverse{2} ¿Por qué tus discípulos traspasan la tradición de los ancianos? porque no se lavan las manos cuando comen pan.
 
@@ -975,7 +990,8 @@
 \bibleverse{39} Entonces, despedidas las gentes, subió en el barco: y vino á los términos de Magdalá. 
 
 ## Rechazo de la demanda de los oponentes de señales y advertencia contra la levadura de los fariseos
-# 16 
+\hypertarget{section-40-16}{%
+\section{16}\label{section-40-16}}
 \bibleverse{1} Y llegándose los Fariseos y los Saduceos para tentarle, le pedían que les mostrase señal del cielo. 
 \bibleverse{2} Mas él respondiendo, les dijo: Cuando es la tarde del día, decís: Sereno; porque el cielo tiene arreboles. 
 \bibleverse{3} Y á la mañana: Hoy tempestad; porque tiene arreboles el cielo triste. Hipócritas, que sabéis hacer diferencia en la faz del cielo; ¿y en las señales de los tiempos no podéis? 
@@ -1035,7 +1051,8 @@
 \bibleverse{28} De cierto os digo: hay algunos de los que están aquí, que no gustarán la muerte, hasta que hayan visto al Hijo del hombre viniendo en su reino. 
 
 ## La transfiguración de Jesús en la montaña
-# 17 
+\hypertarget{section-40-17}{%
+\section{17}\label{section-40-17}}
 \bibleverse{1} Y después de seis días, Jesús toma á Pedro, y á Jacobo, y á Juan su hermano, y los lleva aparte á un monte alto: 
 \bibleverse{2} Y se transfiguró delante de ellos; y resplandeció su rostro como el sol, y sus vestidos fueron blancos como la luz. 
 \bibleverse{3} Y he aquí les aparecieron Moisés y Elías, hablando con él.
@@ -1096,7 +1113,8 @@
 \bibleverse{27} Mas porque no los escandalicemos, ve á la mar, y echa el anzuelo, y el primer pez que viniere, tómalo, y abierta su boca, hallarás un estatero: tómalo, y dáselo por mí y por ti. 
 
 ## Controversia entre discípulos; La exhortación de Jesús a la humildad
-# 18 
+\hypertarget{section-40-18}{%
+\section{18}\label{section-40-18}}
 \bibleverse{1} En aquel tiempo se llegaron los discípulos á Jesús, diciendo: ¿Quién es el mayor en el reino de los cielos?
 
  
@@ -1156,7 +1174,8 @@
 \bibleverse{35} Así también hará con vosotros mi Padre celestial, si no perdonareis de vuestros corazones cada uno á su hermano sus ofensas. 
 
 ## Salida hacia Jerusalén y caminata por la Ribera Oriental; Conversaciones sobre el matrimonio, sobre el divorcio y la renuncia al matrimonio
-# 19 
+\hypertarget{section-40-19}{%
+\section{19}\label{section-40-19}}
 \bibleverse{1} Y aconteció que acabando Jesús estas palabras, se pasó de Galilea, y vino á los términos de Judea, pasado el Jordán. 
 \bibleverse{2} Y le siguieron muchas gentes, y los sanó allí.
 
@@ -1228,7 +1247,8 @@
 \bibleverse{30} Mas muchos primeros serán postreros, y postreros primeros. 
 
 ## Parábola de los trabajadores de la viña
-# 20 
+\hypertarget{section-40-20}{%
+\section{20}\label{section-40-20}}
 \bibleverse{1} Porque el reino de los cielos es semejante á un hombre, padre de familia, que salió por la mañana á ajustar obreros para su viña. 
 \bibleverse{2} Y habiéndose concertado con los obreros en un denario al día, los envió á su viña. 
 \bibleverse{3} Y saliendo cerca de la hora de las tres, vió otros que estaban en la plaza ociosos; 
@@ -1295,7 +1315,8 @@
 \bibleverse{34} Entonces Jesús, teniendo misericordia de ellos, les tocó los ojos, y luego sus ojos recibieron la vista; y le siguieron. 
 
 ## Entrada de Jesús a Jerusalén
-# 21 
+\hypertarget{section-40-21}{%
+\section{21}\label{section-40-21}}
 \bibleverse{1} Y como se acercaron á Jerusalem, y vinieron á Bethfagé, al monte de las Olivas, entonces Jesús envió dos discípulos, 
 \bibleverse{2} Diciéndoles: Id á la aldea que está delante de vosotros, y luego hallaréis una asna atada, y un pollino con ella: desatadla, y traédmelos. 
 \bibleverse{3} Y si alguno os dijere algo, decid: El Señor los ha menester. Y luego los dejará.
@@ -1390,7 +1411,8 @@
 \bibleverse{46} Y buscando cómo echarle mano, temieron al pueblo; porque le tenían por profeta. 
 
 ## La parábola de la cena de bodas real
-# 22 
+\hypertarget{section-40-22}{%
+\section{22}\label{section-40-22}}
 \bibleverse{1} Y respondiendo Jesús, les volvió á hablar en parábolas, diciendo: 
 \bibleverse{2} El reino de los cielos es semejante á un hombre rey, que hizo bodas á su hijo; 
 \bibleverse{3} Y envió sus siervos para que llamasen los llamados á las bodas; mas no quisieron venir. 
@@ -1475,7 +1497,8 @@
 \bibleverse{46} Y nadie le podía responder palabra; ni osó alguno desde aquel día preguntarle más. 
 
 ## El gran discurso de castigo de Jesús contra los escribas y fariseos
-# 23 
+\hypertarget{section-40-23}{%
+\section{23}\label{section-40-23}}
 \bibleverse{1} Entonces habló Jesús á las gentes y á sus discípulos,
 
 ## Reprimenda por el comportamiento reprobable de los líderes espirituales del pueblo en su alto cargo
@@ -1541,7 +1564,8 @@
 \bibleverse{39} Porque os digo que desde ahora no me veréis, hasta que digáis: Bendito el que viene en el nombre del Señor. 
 
 ## El monte de los Olivos de Jesús a sus discípulos desde la destrucción del templo, desde el fin de este mundo, desde su segunda venida y desde el juicio sobre los pueblos
-# 24 
+\hypertarget{section-40-24}{%
+\section{24}\label{section-40-24}}
 \bibleverse{1} Y salido Jesús, íbase del templo; y se llegaron sus discípulos, para mostrarle los edificios del templo. 
 \bibleverse{2} Y respondiendo él, les dijo: ¿Veis todo esto? de cierto os digo, que no será dejada aquí piedra sobre piedra, que no sea destruída.
 
@@ -1626,7 +1650,8 @@
 \bibleverse{51} Y le cortará por medio, y pondrá su parte con los hipócritas: allí será el lloro y el crujir de dientes. 
 
 ## La parábola de las diez vírgenes prudentes y necias
-# 25 
+\hypertarget{section-40-25}{%
+\section{25}\label{section-40-25}}
 \bibleverse{1} Entonces el reino de los cielos será semejante á diez vírgenes, que tomando sus lámparas, salieron á recibir al esposo. 
 \bibleverse{2} Y las cinco de ellas eran prudentes, y las cinco fatuas. 
 \bibleverse{3} Las que eran fatuas, tomando sus lámparas, no tomaron consigo aceite; 
@@ -1701,7 +1726,8 @@
 \bibleverse{46} E irán éstos al tormento eterno, y los justos á la vida eterna. 
 
 ## Último anuncio del sufrimiento de Jesús; Intento de asesinato por parte de los líderes del pueblo
-# 26 
+\hypertarget{section-40-26}{%
+\section{26}\label{section-40-26}}
 \bibleverse{1} Y aconteció que, como hubo acabado Jesús todas estas palabras, dijo á sus discípulos: 
 \bibleverse{2} Sabéis que dentro de dos días se hace la pascua, y el Hijo del hombre es entregado para ser crucificado.
 
@@ -1868,7 +1894,8 @@
 \bibleverse{75} Y se acordó Pedro de las palabras de Jesús, que le dijo: Antes que cante el gallo, me negarás tres veces. Y saliéndose fuera, lloró amargamente. 
 
 ## Última deliberación del sumo consejo; Extradición de los condenados al gobernador romano Pilato
-# 27 
+\hypertarget{section-40-27}{%
+\section{27}\label{section-40-27}}
 \bibleverse{1} Y venida la mañana, entraron en consejo todos los príncipes de los sacerdotes, y los ancianos del pueblo, contra Jesús, para entregarle á muerte. 
 \bibleverse{2} Y le llevaron atado, y le entregaron á Poncio Pilato presidente.
 
@@ -2001,7 +2028,8 @@
 \bibleverse{66} Y yendo ellos, aseguraron el sepulcro, sellando la piedra, con la guardia. 
 
 ## Las dos mujeres junto a la tumba vacía en la mañana de Pascua; La primera aparición de Jesús; Engañar al líder del pueblo
-# 28 
+\hypertarget{section-40-28}{%
+\section{28}\label{section-40-28}}
 \bibleverse{1} Y la víspera de sábado, que amanece para el primer día de la semana, vino María Magdalena, y la otra María, á ver el sepulcro. 
 \bibleverse{2} Y he aquí, fué hecho un gran terremoto: porque el ángel del Señor, descendiendo del cielo y llegando, había revuelto la piedra, y estaba sentado sobre ella. 
 \bibleverse{3} Y su aspecto era como un relámpago, y su vestido blanco como la nieve. 

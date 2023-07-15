@@ -1,5 +1,6 @@
 ## La inutilidad de todo esfuerzo humano como resultado de la constante monotonía en el ciclo de las cosas
-# 1 
+\hypertarget{section-21-1}{%
+\section{1}\label{section-21-1}}
 \bibleverse{1} Palabras del Predicador, hijo de David, rey en Jerusalem.
 
  
@@ -28,7 +29,8 @@
 \bibleverse{18} Porque en la mucha sabiduría hay mucha molestia; y quien añade ciencia, añade dolor. 
 
 ## La inutilidad de intentar obtener satisfacción mediante los placeres sensuales y el disfrute de la vida o mediante la actividad creativa
-# 2 
+\hypertarget{section-21-2}{%
+\section{2}\label{section-21-2}}
 \bibleverse{1} Dije yo en mi corazón: Ven ahora, te probaré con alegría, y gozarás de bienes. Mas he aquí esto también era vanidad. 
 \bibleverse{2} A la risa dije: Enloqueces; y al placer: ¿De qué sirve esto?
 
@@ -72,7 +74,8 @@
 \bibleverse{26} Porque al hombre que le agrada, Dios le da sabiduría y ciencia y gozo: mas al pecador da trabajo, el que allegue y amontone, para que dé al que agrada á Dios. También esto es vanidad y aflicción de espíritu. 
 
 ## Todo tiene su tiempo
-# 3 
+\hypertarget{section-21-3}{%
+\section{3}\label{section-21-3}}
 \bibleverse{1} Para todas las cosas hay sazón, y todo lo que se quiere debajo del cielo, tiene su tiempo: 
 \bibleverse{2} Tiempo de nacer, y tiempo de morir; tiempo de plantar, y tiempo de arrancar lo plantado; 
 \bibleverse{3} Tiempo de matar, y tiempo de curar; tiempo de destruir, y tiempo de edificar; 
@@ -108,7 +111,8 @@
 \bibleverse{22} Así que he visto que no hay cosa mejor que alegrarse el hombre con lo que hiciere; porque esta es su parte: porque ¿quién lo llevará para que vea lo que ha de ser después de él? 
 
 ## La opresión, los celos y el trabajo en parte inquieto, la calma en parte lenta devalúan la vida
-# 4 
+\hypertarget{section-21-4}{%
+\section{4}\label{section-21-4}}
 \bibleverse{1} Y tornéme yo, y vi todas las violencias que se hacen debajo del sol: y he aquí las lágrimas de los oprimidos, y sin tener quien los consuele; y la fuerza estaba en la mano de sus opresores, y para ellos no había consolador. 
 \bibleverse{2} Y alabé yo los finados que ya murieron, más que los vivientes que hasta ahora están vivos. 
 \bibleverse{3} Y tuve por mejor que unos y otros al que no ha sido aún, que no ha visto las malas obras que debajo del sol se hacen. 
@@ -137,7 +141,8 @@
 \bibleverse{16} No tiene fin todo el pueblo que fué antes de ellos: tampoco los que vendrán después estarán con él contentos. Y esto es también vanidad y aflicción de espíritu. 
 
 ## Recordatorio de tener cuidado al realizar deberes religiosos (con sacrificios, oración y votos)
-# 5 
+\hypertarget{section-21-5}{%
+\section{5}\label{section-21-5}}
 \bibleverse{1} Cuando fueres á la casa de Dios, guarda tu pie; y acércate más para oir que para dar el sacrificio de los necios: porque no saben que hacen mal. 
 \bibleverse{2} No te des priesa con tu boca, ni tu corazón se apresure á proferir palabra delante de Dios; porque Dios está en el cielo, y tú sobre la tierra: por tanto, sean pocas tus palabras. 
 \bibleverse{3} Porque de la mucha ocupación viene el sueño, y de la multitud de las palabras la voz del necio. 
@@ -173,7 +178,8 @@
 \bibleverse{20} Porque no se acordará mucho de los días de su vida; pues Dios le responderá con alegría de su corazón. 
 
 ## Alguien tiene bienes ricos pero no los disfruta
-# 6 
+\hypertarget{section-21-6}{%
+\section{6}\label{section-21-6}}
 \bibleverse{1} Hay un mal que he visto debajo del cielo, y muy común entre los hombres: 
 \bibleverse{2} Hombre á quien Dios dió riquezas, y hacienda, y honra, y nada le falta de todo lo que su alma desea; mas Dios no le dió facultad de comer de ello, sino que los extraños se lo comen. Esto vanidad es, y enfermedad trabajosa.
 
@@ -196,7 +202,8 @@
 \bibleverse{12} Porque ¿quién sabe cuál es el bien del hombre en la vida, todos los días de la vida de su vanidad, los cuales él pasa como sombra? Porque ¿quién enseñará al hombre qué será después de él debajo del sol? 
 
 ## Advertencias para ser serios con la vida y someterse pacientemente a los decretos divinos
-# 7 
+\hypertarget{section-21-7}{%
+\section{7}\label{section-21-7}}
 \bibleverse{1} Mejor es la buena fama que el buen ungüento; y el día de la muerte que el día del nacimiento. 
 \bibleverse{2} Mejor es ir á la casa del luto que á la casa del convite: porque aquello es el fin de todos los hombres; y el que vive parará mientes. 
 \bibleverse{3} Mejor es el enojo que la risa: porque con la tristeza del rostro se enmendará el corazón. 
@@ -244,7 +251,8 @@
 \bibleverse{29} He aquí, solamente he hallado esto: que Dios hizo al hombre recto, mas ellos buscaron muchas cuentas. 
 
 ## La conducta del sabio hacia el gobernante y en días de opresión
-# 8 
+\hypertarget{section-21-8}{%
+\section{8}\label{section-21-8}}
 \bibleverse{1} ¿Quién como el sabio? ¿y quién como el que sabe la declaración de las cosas? La sabiduría del hombre hará relucir su rostro, y mudaráse la tosquedad de su semblante.
 
  
@@ -277,7 +285,8 @@
 \bibleverse{17} Y he visto todas las obras de Dios, que el hombre no puede alcanzar la obra que debajo del sol se hace; por mucho que trabaje el hombre buscándola, no la hallará: aunque diga el sabio que la sabe, no por eso podrá alcanzarla. 
 
 ## La misma suerte para todos en la vida y en la muerte; impotencia humana contra la deidad; El disfrute piadoso de la vida antes de la muerte establece una meta para todo gozo y actividad
-# 9 
+\hypertarget{section-21-9}{%
+\section{9}\label{section-21-9}}
 \bibleverse{1} Ciertamente dado he mi corazón á todas estas cosas, para declarar todo esto: que los justos y los sabios, y sus obras, están en la mano de Dios; y que no sabe el hombre ni el amor ni el odio por todo lo que pasa delante de él. 
 \bibleverse{2} Todo acontece de la misma manera á todos: un mismo suceso ocurre al justo y al impío; al bueno y al limpio y al no limpio; al que sacrifica, y al que no sacrifica: como el bueno, así el que peca; el que jura, como el que teme el juramento. 
 \bibleverse{3} Este mal hay entre todo lo que se hace debajo del sol, que todos tengan un mismo suceso, y también que el corazón de los hijos de los hombres esté lleno de mal, y de enloquecimiento en su corazón durante su vida: y después, á los muertos. 
@@ -305,7 +314,8 @@
 \bibleverse{17} Las palabras del sabio con reposo son oídas, más que el clamor del señor entre los necios. 
 \bibleverse{18} Mejor es la sabiduría que las armas de guerra; mas un pecador destruye mucho bien. 
 
-# 10 
+\hypertarget{section-21-10}{%
+\section{10}\label{section-21-10}}
 \bibleverse{1} Las moscas muertas hacen heder y dar mal olor el perfume del perfumista: así una pequeña locura, al estimado por sabiduría y honra. 
 \bibleverse{2} El corazón del sabio está á su mano derecha; mas el corazón del necio á su mano izquierda. 
 \bibleverse{3} Y aun mientras va el necio por el camino, fáltale su cordura, y dice á todos, que es necio. 
@@ -334,7 +344,8 @@
 \bibleverse{20} Ni aun en tu pensamiento digas mal del rey, ni en los secretos de tu cámara digas mal del rico; porque las aves del cielo llevarán la voz, y las que tienen alas harán saber la palabra. 
 
 ## Actuación inteligente y rentable ante la incertidumbre de todo lo terrenal
-# 11 
+\hypertarget{section-21-11}{%
+\section{11}\label{section-21-11}}
 \bibleverse{1} Echa tu pan sobre las aguas; que después de muchos días lo hallarás. 
 \bibleverse{2} Reparte á siete, y aun á ocho: porque no sabes el mal que vendrá sobre la tierra. 
 \bibleverse{3} Si las nubes fueren llenas de agua, sobre la tierra la derramarán: y si el árbol cayere al mediodía, ó al norte, al lugar que el árbol cayere, allí quedará. 
@@ -349,7 +360,8 @@
 \bibleverse{9} Alégrate, mancebo, en tu mocedad, y tome placer tu corazón en los días de tu juventud; y anda en los caminos de tu corazón, y en la vista de tus ojos: mas sabe, que sobre todas estas cosas te traerá Dios á juicio. 
 \bibleverse{10} Quita pues el enojo de tu corazón, y aparta el mal de tu carne: porque la mocedad y la juventud son vanidad. 
 
-# 12 
+\hypertarget{section-21-12}{%
+\section{12}\label{section-21-12}}
 \bibleverse{1} Y acuérdate de tu Criador en los días de tu juventud, antes que vengan los malos días, y lleguen los años, de los cuales digas, No tengo en ellos contentamiento;
 
 ## Descripción de las dolencias de la vejez

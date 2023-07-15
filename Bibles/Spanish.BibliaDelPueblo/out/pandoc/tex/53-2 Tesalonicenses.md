@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-53-1}{%
+\section{1}\label{section-53-1}}
 \bibleverse{1} Pablo, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es en Dios nuestro Padre y en el Señor Jesucristo: 
 \bibleverse{2} Gracia y paz á vosotros de Dios nuestro Padre y del Señor Jesucristo.
 
@@ -20,7 +21,8 @@
 \bibleverse{12} Para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro Dios y del Señor Jesucristo. 
 
 ## Advertencia contra expectativas apresuradas; Instrucción sobre el tiempo de la segunda venida del Señor y sobre la aparición del Anticristo ante ella
-# 2 
+\hypertarget{section-53-2}{%
+\section{2}\label{section-53-2}}
 \bibleverse{1} Empero os rogamos, hermanos, cuanto á la venida de nuestro Señor Jesucristo, y nuestro recogimiento á él, 
 \bibleverse{2} Que no os mováis fácilmente de vuestro sentimiento, ni os conturbéis ni por espíritu, ni por palabra, ni por carta como nuestra, como que el día del Señor esté cerca. 
 \bibleverse{3} No os engañe nadie en ninguna manera; porque no vendrá sin que venga antes la apostasía, y se manifieste el hombre de pecado, el hijo de perdición, 
@@ -45,7 +47,8 @@
 \bibleverse{17} Consuele vuestros corazones, y os confirme en toda buena palabra y obra. 
 
 ## Amonestación para interceder por el éxito del anuncio de la salvación; Bendición para el estado cristiano de la iglesia
-# 3 
+\hypertarget{section-53-3}{%
+\section{3}\label{section-53-3}}
 \bibleverse{1} Resta, hermanos, que oréis por nosotros, que la palabra del Señor corra y sea glorificada así como entre vosotros: 
 \bibleverse{2} Y que seamos librados de hombres importunos y malos; porque no es de todos la fe. 
 \bibleverse{3} Mas fiel es el Señor, que os confirmará y guardará del mal. 

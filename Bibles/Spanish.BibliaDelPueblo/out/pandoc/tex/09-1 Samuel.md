@@ -1,5 +1,6 @@
 ## El nacimiento y ordenación de Samuel como siervo del Señor en Silo; Canción de alabanza de Hanna
-# 1 
+\hypertarget{section-09-1}{%
+\section{1}\label{section-09-1}}
 \bibleverse{1} Hubo un varón de Ramathaim de Sophim, del monte de Ephraim, que se llamaba Elcana, hijo de Jeroham, hijo de Eliú, hijo de Thohu, hijo de Suph, Ephrateo. 
 \bibleverse{2} Y tenía él dos mujeres; el nombre de la una era Anna, y el nombre de la otra Peninna. Y Peninna tenía hijos, mas Anna no los tenía. 
 \bibleverse{3} Y subía aquel varón todos los años de su ciudad, á adorar y sacrificar á Jehová de los ejércitos en Silo, donde estaban dos hijos de Eli, Ophni y Phinees, sacerdotes de Jehová. 
@@ -52,7 +53,8 @@
 \bibleverse{28} Yo pues le vuelvo también á Jehová: todos los días que viviere, será de Jehová. Y adoró allí á Jehová. 
 
 ## Himno de alabanza a Hanna; Inicio de servicio de Samuel en Silo
-# 2 
+\hypertarget{section-09-2}{%
+\section{2}\label{section-09-2}}
 \bibleverse{1} Y Anna oró y dijo: mi corazón se regocija en Jehová, mi cuerno es ensalzado en Jehová; mi boca se ensanchó sobre mis enemigos, por cuanto me alegré en tu salud. 
 \bibleverse{2} No hay santo como Jehová: porque no hay ninguno fuera de ti; y no hay refugio como el Dios nuestro. 
 \bibleverse{3} No multipliquéis hablando grandezas, altanerías; cesen las palabras arrogantes de vuestra boca; porque el Dios de todo saber es Jehová, y á él toca el pesar las acciones. 
@@ -109,7 +111,8 @@
 \bibleverse{36} Y será que el que hubiere quedado en tu casa, vendrá á postrársele por un dinero de plata y un bocado de pan, diciéndole: Ruégote que me constituyas en algún ministerio, para que coma un bocado de pan. 
 
 ## Dios se revela a Samuel y anuncia la caída de la casa de Elí
-# 3 
+\hypertarget{section-09-3}{%
+\section{3}\label{section-09-3}}
 \bibleverse{1} Y el joven Samuel ministraba á Jehová delante de Eli: y la palabra de Jehová era de estima en aquellos días; no había visión manifiesta. 
 \bibleverse{2} Y aconteció un día, que estando Eli acostado en su aposento, cuando sus ojos comenzaban á oscurecerse, que no podía ver, 
 \bibleverse{3} Samuel estaba durmiendo en el templo de Jehová, donde el arca de Dios estaba: y antes que la lámpara de Dios fuese apagada, 
@@ -152,7 +155,8 @@
 \bibleverse{21} Así tornó Jehová á aparecer en Silo: porque Jehová se manifestó á Samuel en Silo con palabra de Jehová. 
 
 ## Die Bundeslade ins Lager der Israeliten geholt
-# 4 
+\hypertarget{section-09-4}{%
+\section{4}\label{section-09-4}}
 \bibleverse{1} Y Samuel habló á todo Israel. Por aquel tiempo salió Israel á encontrar en batalla á los Filisteos, y asentó campo junto á Eben-ezer, y los Filisteos asentaron el suyo en Aphec.
 
  
@@ -195,7 +199,8 @@
 \bibleverse{22} Dijo pues: Traspasada es la gloria de Israel: porque el arca de Dios fué tomada. 
 
 ## En la tierra de los filisteos, el arca está causando estragos en varias ciudades
-# 5 
+\hypertarget{section-09-5}{%
+\section{5}\label{section-09-5}}
 \bibleverse{1} Y los Filisteos, tomada el arca de Dios, trajéronla desde Eben-ezer á Asdod. 
 \bibleverse{2} Y tomaron los Filisteos el arca de Dios, y metiéronla en la casa de Dagón, y pusiéronla junto á Dagón. 
 \bibleverse{3} Y el siguiente día los de Asdod se levantaron de mañana, y he aquí Dagón postrado en tierra delante del arca de Jehová: y tomaron á Dagón, y volviéronlo á su lugar. 
@@ -216,7 +221,8 @@
 \bibleverse{12} Y los que no morían, eran heridos de hemorroides; y el clamor de la ciudad subía al cielo. 
 
 ## Resolución de los filisteos sobre el regreso del arca
-# 6 
+\hypertarget{section-09-6}{%
+\section{6}\label{section-09-6}}
 \bibleverse{1} Y estuvo el arca de Jehová en la tierra de los Filisteos siete meses. 
 \bibleverse{2} Entonces los Filisteos, llamando los sacerdotes y adivinos, preguntaron: ¿Qué haremos del arca de Jehová? Declaradnos cómo la hemos de tornar á enviar á su lugar.
 
@@ -255,7 +261,8 @@
  
 \bibleverse{21} Y enviaron mensajeros á los de Chîriath-jearim, diciendo: Los Filisteos han vuelto el arca de Jehová: descended pues, y llevadla á vosotros. 
 
-# 7 
+\hypertarget{section-09-7}{%
+\section{7}\label{section-09-7}}
 \bibleverse{1} Y vinieron los de Chîriath-jearim, y llevaron el arca de Jehová, y metiéronla en casa de Abinadab, situada en el collado; y santificaron á Eleazar su hijo, para que guardase el arca de Jehová.
 
 ## Los israelitas se vuelven arrepentidos a Dios
@@ -292,7 +299,8 @@
 \bibleverse{17} Volvíase después á Rama, porque allí estaba su casa, y allí juzgaba á Israel; y edificó allí altar á Jehová. 
 
 ## El deseo de Israel por un rey; La demanda del pueblo despierta el disgusto de Samuel, pero encuentra la aprobación de Dios
-# 8 
+\hypertarget{section-09-8}{%
+\section{8}\label{section-09-8}}
 \bibleverse{1} Y aconteció que habiendo Samuel envejecido, puso sus hijos por jueces sobre Israel. 
 \bibleverse{2} Y el nombre de su hijo primogénito fué Joel, y el nombre del segundo, Abia: fueron jueces en Beer-sebah. 
 \bibleverse{3} Mas no anduvieron los hijos por los caminos de su padre, antes se ladearon tras la avaricia, recibiendo cohecho y pervirtiendo el derecho.
@@ -329,7 +337,8 @@
 \bibleverse{22} Y Jehová dijo á Samuel: Oye su voz, y pon rey sobre ellos. Entonces dijo Samuel á los varones de Israel: Idos cada uno á su ciudad. 
 
 ## Saúl llega a la casa de Samuel en busca de los asnos de su padre
-# 9 
+\hypertarget{section-09-9}{%
+\section{9}\label{section-09-9}}
 \bibleverse{1} Y había un varón de Benjamín, hombre valeroso, el cual se llamaba Cis, hijo de Abiel, hijo de Seor, hijo de Bechôra, hijo de Aphia, hijo de un hombre de Benjamín. 
 \bibleverse{2} Y tenía él un hijo que se llamaba Saúl, mancebo y hermoso, que entre los hijos de Israel no había otro más hermoso que él; del hombro arriba sobrepujaba á cualquiera del pueblo.
 
@@ -392,7 +401,8 @@
 \bibleverse{26} Y al otro día madrugaron: y como al apuntar del alba, Samuel llamó á Saúl, que estaba en el terrado; y dijo: Levántate, para que te despache. Levantóse luego Saúl, y salieron fuera ambos, él y Samuel. 
 \bibleverse{27} Y descendiendo ellos al cabo de la ciudad, dijo Samuel á Saúl: Di al mozo que vaya delante, (y adelantóse el mozo); mas espera tú un poco para que te declare palabra de Dios. 
 
-# 10 
+\hypertarget{section-09-10}{%
+\section{10}\label{section-09-10}}
 \bibleverse{1} Tomando entonces Samuel una ampolla de aceite, derramóla sobre su cabeza, y besólo, y díjole: ¿No te ha ungido Jehová por capitán sobre su heredad?
 
 ## Samuel profetiza tres señales que Saúl recibirá de camino a casa y lo envía a Gilgal
@@ -452,7 +462,8 @@
 \bibleverse{27} Pero los impíos dijeron: ¿Cómo nos ha de salvar éste? Y tuviéronle en poco, y no le trajeron presente: mas él disimuló. 
 
 ## La ciudad de Jabés, que está en apuros por los amonitas Nahas, pide la ayuda de los israelitas
-# 11 
+\hypertarget{section-09-11}{%
+\section{11}\label{section-09-11}}
 \bibleverse{1} Y subió Naas Ammonita, y asentó campo contra Jabes de Galaad. Y todos los de Jabes dijeron á Naas: Haz alianza con nosotros, y te serviremos.
 
  
@@ -486,7 +497,8 @@
 \bibleverse{15} Y fué todo el pueblo á Gilgal, é invistieron allí á Saúl por rey delante de Jehová en Gilgal. Y sacrificaron allí víctimas pacíficas delante de Jehová; y alegráronse mucho allí Saúl y todos los de Israel. 
 
 ## La renuncia voluntaria de Samuel y la solemne despedida del pueblo
-# 12 
+\hypertarget{section-09-12}{%
+\section{12}\label{section-09-12}}
 \bibleverse{1} Y dijo Samuel á todo Israel: He aquí, yo he oído vuestra voz en todas las cosas que me habéis dicho, y os he puesto rey. 
 \bibleverse{2} Ahora pues, he aquí vuestro rey va delante de vosotros. Yo soy ya viejo y cano: mas mis hijos están con vosotros, y yo he andado delante de vosotros desde mi mocedad hasta este día. 
 \bibleverse{3} Aquí estoy; atestiguad contra mí delante de Jehová y delante de su ungido, si he tomado el buey de alguno, ó si he tomado el asno de alguno, ó si he calumniado á alguien, ó si he agraviado á alguno, ó si de alguien he tomado cohecho por el cual haya cubierto mis ojos: y os satisfaré.
@@ -535,7 +547,8 @@
 \bibleverse{25} Mas si perseverareis en hacer mal, vosotros y vuestro rey pereceréis. 
 
 ## Estallido de la guerra filistea; La primera desobediencia de Saúl mediante un sacrificio apresurado
-# 13 
+\hypertarget{section-09-13}{%
+\section{13}\label{section-09-13}}
 \bibleverse{1} Había ya Saúl reinado un año; y reinado que hubo dos años sobre Israel,
 
  
@@ -577,7 +590,8 @@
 \bibleverse{23} Y la guarnición de los Filisteos salió al paso de Michmas. 
 
 ## El heroísmo de Jonathan; La victoria de Saúl sobre los filisteos
-# 14 
+\hypertarget{section-09-14}{%
+\section{14}\label{section-09-14}}
 \bibleverse{1} Y un día aconteció, que Jonathán hijo de Saúl dijo á su criado que le traía las armas: Ven, y pasemos á la guarnición de los Filisteos, que está á aquel lado. Y no lo hizo saber á su padre. 
 \bibleverse{2} Y Saúl estaba en el término de Gabaa, debajo de un granado que hay en Migrón, y el pueblo que estaba con él era como seiscientos hombres. 
 \bibleverse{3} Y Achîas hijo de Achîtob, hermano de Ichâbod, hijo de Phinees, hijo de Eli, sacerdote de Jehová en Silo, llevaba el ephod; y no sabía el pueblo que Jonathán se hubiese ido.
@@ -682,7 +696,8 @@
 \bibleverse{52} Y la guerra fué fuerte contra los Filisteos todo el tiempo de Saúl; y á cualquiera que Saúl veía hombre valiente y hombre de esfuerzo, juntábale consigo. 
 
 ## La campaña de Saúl contra los amalecitas; su desobediencia a Dios y su rechazo
-# 15 
+\hypertarget{section-09-15}{%
+\section{15}\label{section-09-15}}
 \bibleverse{1} Y Samuel dijo á Saúl: Jehová me envió á que te ungiese por rey sobre su pueblo Israel: oye pues la voz de las palabras de Jehová. 
 \bibleverse{2} Así ha dicho Jehová de los ejércitos: Acuérdome de lo que hizo Amalec á Israel; que se le opuso en el camino, cuando subía de Egipto. 
 \bibleverse{3} Ve pues, y hiere á Amalec, y destruiréis en él todo lo que tuviere: y no te apiades de él: mata hombres y mujeres, niños y mamantes, vacas y ovejas, camellos y asnos.
@@ -758,7 +773,8 @@
 \bibleverse{35} Y nunca después vió Samuel á Saúl en toda su vida: y Samuel lloraba á Saúl: mas Jehová se había arrepentido de haber puesto á Saúl por rey sobre Israel. 
 
 ## El llamado y unción de David por Samuel
-# 16 
+\hypertarget{section-09-16}{%
+\section{16}\label{section-09-16}}
 \bibleverse{1} Y dijo Jehová á Samuel: ¿Hasta cuándo has tú de llorar á Saúl, habiéndolo yo desechado para que no reine sobre Israel? Hinche tu cuerno de aceite, y ven, te enviaré á Isaí de Beth-lehem: porque de sus hijos me he provisto de rey.
 
  
@@ -814,7 +830,8 @@
 \bibleverse{23} Y cuando el espíritu malo de parte de Dios era sobre Saúl, David tomaba el arpa, y tañía con su mano; y Saúl tenía refrigerio, y estaba mejor, y el espíritu malo se apartaba de él. 
 
 ## David y el campeón enemigo Goliat
-# 17 
+\hypertarget{section-09-17}{%
+\section{17}\label{section-09-17}}
 \bibleverse{1} Y los Filisteos juntaron sus ejércitos para la guerra, y congregáronse en Sochô, que es de Judá, y asentaron el campo entre Sochô y Azeca, en Ephes-dammim. 
 \bibleverse{2} Y también Saúl y los hombres de Israel se juntaron, y asentaron el campo en el valle del Alcornoque, y ordenaron la batalla contra los Filisteos. 
 \bibleverse{3} Y los Filisteos estaban sobre el un monte de la una parte, é Israel estaba sobre el otro monte de la otra parte, y el valle entre ellos: 
@@ -921,7 +938,8 @@
 \bibleverse{58} Y díjole Saúl: Mancebo, ¿de quién eres hijo? Y David respondió: Yo soy hijo de tu siervo Isaí de Beth-lehem. 
 
 ## David llega a la corte de Saúl; su relación con Saúl y Jonatán
-# 18 
+\hypertarget{section-09-18}{%
+\section{18}\label{section-09-18}}
 \bibleverse{1} Y así que él hubo acabado de hablar con Saúl, el alma de Jonathán fué ligada con la de David, y amólo Jonathán como á su alma. 
 \bibleverse{2} Y Saúl le tomó aquel día, y no le dejó volver á casa de su padre. 
 \bibleverse{3} E hicieron alianza Jonathán y David, porque él le amaba como á su alma. 
@@ -986,7 +1004,8 @@
 \bibleverse{30} Y salían los príncipes de los Filisteos; y como ellos salían, portábase David más prudentemente que todos los siervos de Saúl: y era su nombre muy ilustre. 
 
 ## La reconciliación de Saúl con David como resultado de la intercesión de Jonatán; Después de los repetidos asesinatos de Saúl, David huye a Samuel
-# 19 
+\hypertarget{section-09-19}{%
+\section{19}\label{section-09-19}}
 \bibleverse{1} Y habló Saúl á Jonathán su hijo, y á todos sus criados, para que matasen á David; mas Jonathán hijo de Saúl amaba á David en gran manera. 
 \bibleverse{2} Y dió aviso á David, diciendo: Saúl mi padre procura matarte; por tanto mira ahora por ti hasta la mañana, y estáte en paraje oculto, y escóndete: 
 \bibleverse{3} Y yo saldré y estaré junto á mi padre en el campo donde estuvieres: y hablaré de ti á mi padre, y te haré saber lo que notare.
@@ -1038,7 +1057,8 @@
 \bibleverse{24} Y él también se desnudó sus vestidos, y profetizó igualmente delante de Samuel, y cayó desnudo todo aquel día y toda aquella noche. De aquí se dijo: ¿También Saúl entre los profetas? 
 
 ## La reunión de David y la discusión con Jonatán; Renovación de su alianza de amistad
-# 20 
+\hypertarget{section-09-20}{%
+\section{20}\label{section-09-20}}
 \bibleverse{1} Y David huyó de Najoth que es en Rama, y vínose delante de Jonathán, y dijo: ¿Qué he hecho yo? ¿cuál es mi maldad, ó cuál mi pecado contra tu padre, que él busca mi vida?
 
  
@@ -1124,7 +1144,8 @@
 \bibleverse{42} Y Jonathán dijo á David: Vete en paz, que ambos hemos jurado por el nombre de Jehová, diciendo: Jehová sea entre mí y ti, entre mi simiente y la simiente tuya, para siempre. Y él se levantó y fuése: y Jonathán se entró en la ciudad. 
 
 ## David como refugiado en Nob y Gat; El asesinato del sacerdote por parte de Saúl
-# 21 
+\hypertarget{section-09-21}{%
+\section{21}\label{section-09-21}}
 \bibleverse{1} Y vino David á Nob, á Ahimelech sacerdote: y sorprendióse Ahimelech de su encuentro, y díjole: ¿Cómo tú solo, y nadie contigo? 
 \bibleverse{2} Y respondió David al sacerdote Ahimelech: El rey me encomendó un negocio, y me dijo: Nadie sepa cosa alguna de este negocio á que yo te envío, y que yo te he mandado; y yo señalé á los criados un cierto lugar. 
 \bibleverse{3} Ahora pues, ¿qué tienes á mano? dame cinco panes, ó lo que se hallare.
@@ -1157,7 +1178,8 @@
 \bibleverse{15} ¿Fáltanme á mí locos, para que hayáis traído éste que hiciese del loco delante de mí? ¿había de venir éste á mi casa? 
 
 ## La posterior huida de David a Adullam, Mizpe en Moab y Jaar-Hereth en Judá; su cuidado por sus padres
-# 22 
+\hypertarget{section-09-22}{%
+\section{22}\label{section-09-22}}
 \bibleverse{1} Y yéndose David de allí escapóse á la cueva de Adullam; lo cual como oyeron sus hermanos y toda la casa de su padre, vinieron allí á él. 
 \bibleverse{2} Y juntáronse con él todos los afligidos, y todo el que estaba adeudado, y todos los que se hallaban en amargura de espíritu, y fué hecho capitán de ellos: y tuvo consigo como cuatrocientos hombres. 
 \bibleverse{3} Y fuése David de allí á Mizpa de Moab, y dijo al rey de Moab: Yo te ruego que mi padre y mi madre estén con vosotros, hasta que sepa lo que Dios hará de mí. 
@@ -1206,7 +1228,8 @@
 \bibleverse{23} Quédate conmigo, no temas: quien buscare mi vida, buscará también la tuya: bien que tú estarás conmigo guardado. 
 
 ## David en el desierto de Judá (en Kegila y Maon); su último encuentro con Jonathan; Traición de los sifitas
-# 23 
+\hypertarget{section-09-23}{%
+\section{23}\label{section-09-23}}
 \bibleverse{1} Y dieron aviso á David, diciendo: He aquí que los Filisteos combaten á Keila, y roban las eras.
 
  
@@ -1265,7 +1288,8 @@
 \bibleverse{28} Volvióse por tanto Saúl de perseguir á David, y partió contra los Filisteos. Por esta causa pusieron á aquel lugar por nombre Sela-hammah-lecoth. 
 
 ## La generosidad de David hacia Saúl en la cueva cerca de Engedi
-# 24 
+\hypertarget{section-09-24}{%
+\section{24}\label{section-09-24}}
 \bibleverse{1} Entonces David subió de allí, y habitó en los parajes fuertes en Engaddi. 
 \bibleverse{2} Y como Saúl volvió de los Filisteos, diéronle aviso diciendo: He aquí que David está en el desierto de Engaddi. 
 \bibleverse{3} Y tomando Saúl tres mil hombres escogidos de todo Israel, fué en busca de David y de los suyos, por las cumbres de los peñascos de las cabras monteses. 
@@ -1297,7 +1321,8 @@
 \bibleverse{22} Júrame pues ahora por Jehová, que no cortarás mi simiente después de mí, ni raerás mi nombre de la casa de mi padre. Entonces David juró á Saúl. Y fuése Saúl á su casa, y David y los suyos se subieron al sitio fuerte. 
 
 ## La muerte de Samuel; La locura de Nabal; David y Abigail
-# 25 
+\hypertarget{section-09-25}{%
+\section{25}\label{section-09-25}}
 \bibleverse{1} Y murió Samuel, y juntóse todo Israel, y lo lloraron, y lo sepultaron en su casa en Rama. Y levantóse David, y se fué al desierto de Parán.
 
 ## El comportamiento necio de Nabal hacia la petición de David
@@ -1378,7 +1403,8 @@
 \bibleverse{44} Porque Saúl había dado su hija Michâl mujer de David, á Palti hijo de Lais, que era de Gallim. 
 
 ## La renovada generosidad de David hacia Saúl en el desierto de Siph
-# 26 
+\hypertarget{section-09-26}{%
+\section{26}\label{section-09-26}}
 \bibleverse{1} Y vinieron los Zipheos á Saúl en Gabaa, diciendo: ¿No está David escondido en el collado de Hachîla delante del desierto? 
 \bibleverse{2} Saúl entonces se levantó, y descendió al desierto de Ziph, llevando consigo tres mil hombres escogidos de Israel, para buscar á David en el desierto de Ziph. 
 \bibleverse{3} Y asentó Saúl el campo en el collado de Hachîla, que está delante del desierto junto al camino. Y estaba David en el desierto, y entendió que Saúl le seguía en el desierto. 
@@ -1430,7 +1456,8 @@
 \bibleverse{25} Y Saúl dijo á David: Bendito eres tú, hijo mío David; sin duda ejecutarás tú grandes empresas, y prevalecerás. Entonces David se fué su camino, y Saúl se volvió á su lugar. 
 
 ## La conversión de David a los filisteos; su estancia con el príncipe filisteo Achis en Gat y en Siclag
-# 27 
+\hypertarget{section-09-27}{%
+\section{27}\label{section-09-27}}
 \bibleverse{1} Y dijo David en su corazón: Al fin seré muerto algún día por la mano de Saúl: nada por tanto me será mejor que fugarme á la tierra de los Filisteos, para que Saúl se deje de mí, y no me ande buscando más por todos los términos de Israel, y así me escaparé de sus manos. 
 \bibleverse{2} Levantóse pues David, y con los seiscientos hombres que tenía consigo pasóse á Achîs hijo de Maoch, rey de Gath. 
 \bibleverse{3} Y moró David con Achîs en Gath, él y los suyos, cada uno con su familia: David con sus dos mujeres, Ahinoam Jezreelita, y Abigail, la que fué mujer de Nabal el del Carmelo. 
@@ -1456,7 +1483,8 @@
 \bibleverse{12} Y Achîs creía á David, diciendo así: El se hace abominable en su pueblo de Israel, y será siempre mi siervo. 
 
 ## La guerra con los filisteos; Saul con el nigromante en Endor
-# 28 
+\hypertarget{section-09-28}{%
+\section{28}\label{section-09-28}}
 \bibleverse{1} Y aconteció que en aquellos días los Filisteos juntaron sus campos para pelear contra Israel. Y dijo Achîs á David: Sabe de cierto que has de salir conmigo á campaña, tú y los tuyos.
 
  
@@ -1517,7 +1545,8 @@
 \bibleverse{25} Y lo trajo delante de Saúl y de sus criados; y luego que hubieron comido, se levantaron, y partieron aquella noche. 
 
 ## El envío de David a casa a instancias de los sospechosos príncipes filisteos
-# 29 
+\hypertarget{section-09-29}{%
+\section{29}\label{section-09-29}}
 \bibleverse{1} Y los Filisteos juntaron todos sus campos en Aphec; é Israel puso su campo junto á la fuente que está en Jezreel. 
 \bibleverse{2} Y reconociendo los príncipes de los Filisteos sus compañías de á ciento y de á mil hombres, David y los suyos iban en los postreros con Achîs.
 
@@ -1543,7 +1572,8 @@
 \bibleverse{11} Y levantóse David de mañana, él y los suyos, para irse y volverse á la tierra de los Filisteos; y los Filisteos fueron á Jezreel. 
 
 ## David encuentra Siclag devastada por los amalecitas; su consternación y aliento
-# 30 
+\hypertarget{section-09-30}{%
+\section{30}\label{section-09-30}}
 \bibleverse{1} Y cuando David y los suyos vinieron á Siclag al tercer día, los de Amalec habían invadido el mediodía y á Siclag, y habían desolado á Siclag, y puéstola á fuego. 
 \bibleverse{2} Y habíanse llevado cautivas á las mujeres que estaban en ella, desde el menor hasta el mayor; mas á nadie habían muerto, sino llevado, é ídose su camino. 
 \bibleverse{3} Vino pues David con los suyos á la ciudad, y he aquí que estaba quemada á fuego, y sus mujeres y sus hijos é hijas llevadas cautivas. 
@@ -1598,7 +1628,8 @@
 \bibleverse{31} Y á los que estaban en Hebrón, y en todos los lugares donde David había estado con los suyos. 
 
 ## La derrota de Israel y el desastre de Saúl y su casa
-# 31 
+\hypertarget{section-09-31}{%
+\section{31}\label{section-09-31}}
 \bibleverse{1} Los Filisteos pues pelearon con Israel, y los de Israel huyeron delante de los Filisteos, y cayeron muertos en el monte de Gilboa. 
 \bibleverse{2} Y siguiendo los Filisteos á Saúl y á sus hijos, mataron á Jonathán, y á Abinadab, y á Melchîsua, hijos de Saúl. 
 \bibleverse{3} Y agravóse la batalla sobre Saúl, y le alcanzaron los flecheros; y tuvo gran temor de los flecheros. 

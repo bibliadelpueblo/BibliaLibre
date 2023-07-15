@@ -1,5 +1,6 @@
 ## El destino de Noemí en la tierra de los moabitas
-# 1 
+\hypertarget{section-08-1}{%
+\section{1}\label{section-08-1}}
 \bibleverse{1} Y aconteció en los días que gobernaban los jueces, que hubo hambre en la tierra. Y un varón de Beth-lehem de Judá, fué á peregrinar en los campos de Moab, él y su mujer, y dos hijos suyos. 
 \bibleverse{2} El nombre de aquel varón era Elimelech, y el de su mujer Noemi; y los nombres de sus dos hijos eran, Mahalón y Chelión, Ephrateos de Beth-lehem de Judá. Llegaron pues á los campos de Moab, y asentaron allí. 
 \bibleverse{3} Y murió Elimelech, marido de Noemi, y quedó ella con sus dos hijos; 
@@ -42,7 +43,8 @@
 \bibleverse{22} Así volvió Noemi y Ruth Moabita su nuera con ella; volvió de los campos de Moab, y llegaron á Beth-lehem en el principio de la siega de las cebadas. 
 
 ## Rut viene a recoger espigas en el campo del booz, quien pregunta por ella y la recibe amablemente
-# 2 
+\hypertarget{section-08-2}{%
+\section{2}\label{section-08-2}}
 \bibleverse{1} Y tenía Noemi un pariente de su marido, varón poderoso y de hecho, de la familia de Elimelech, el cual se llamaba Booz. 
 \bibleverse{2} Y Ruth la Moabita dijo á Noemi: Ruégote que me dejes ir al campo, y cogeré espigas en pos de aquel á cuyos ojos hallare gracia. Y ella le respondió: Ve, hija mía.
 
@@ -99,7 +101,8 @@
 \bibleverse{23} Estuvo pues junta con las mozas de Booz espigando, hasta que la siega de las cebadas y la de los trigos fué acabada; mas con su suegra habitó. 
 
 ## Siguiendo el consejo de Noemí, Rut va a la era de Booz y se acuesta a sus pies
-# 3 
+\hypertarget{section-08-3}{%
+\section{3}\label{section-08-3}}
 \bibleverse{1} Y díjole su suegra Noemi: Hija mía, ¿no te tengo de buscar descanso, que te sea bueno? 
 \bibleverse{2} ¿No es Booz nuestro pariente, con cuyas mozas tú has estado? He aquí que él avienta esta noche la parva de las cebadas. 
 \bibleverse{3} Te lavarás pues, y te ungirás, y vistiéndote tus vestidos, pasarás á la era; mas no te darás á conocer al varón hasta que él haya acabado de comer y de beber. 
@@ -135,7 +138,8 @@
 \bibleverse{18} Entonces Noemi dijo: Reposa, hija mía, hasta que sepas cómo cae la cosa: porque aquel hombre no parará hasta que hoy concluya el negocio. 
 
 ## La negociación pública entre Booz y el Solver
-# 4 
+\hypertarget{section-08-4}{%
+\section{4}\label{section-08-4}}
 \bibleverse{1} Y Booz subió á la puerta y sentóse allí: y he aquí pasaba aquel pariente del cual había Booz hablado, y díjole: Eh, fulano, ven acá y siéntate. Y él vino, y sentóse. 
 \bibleverse{2} Entonces él tomó diez varones de los ancianos de la ciudad, y dijo: Sentaos aquí. Y ellos se sentaron. 
 \bibleverse{3} Luego dijo al pariente: Noemi, que ha vuelto del campo de Moab, vende una parte de las tierras que tuvo nuestro hermano Elimelech; 

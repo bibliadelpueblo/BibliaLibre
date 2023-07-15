@@ -1,5 +1,6 @@
 ## Carta y bendición; Objeto y motivo de la redacción
-# 1 
+\hypertarget{section-65-1}{%
+\section{1}\label{section-65-1}}
 \bibleverse{1} Judas, siervo de Jesucristo, y hermano de Jacobo, á los llamados, santificados en Dios Padre, y conservados en Jesucristo: 
 \bibleverse{2} Misericordia, y paz, y amor os sean multiplicados.
 

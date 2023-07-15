@@ -1,5 +1,6 @@
 ## Bendición para Gayo y reconocimiento a su caminar cristiano
-# 1 
+\hypertarget{section-64-1}{%
+\section{1}\label{section-64-1}}
 \bibleverse{1} El anciano al muy amado Gaio, al cual yo amo en verdad.
 
  

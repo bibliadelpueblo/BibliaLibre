@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-51-1}{%
+\section{1}\label{section-51-1}}
 \bibleverse{1} Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, 
 \bibleverse{2} A los santos y hermanos fieles en Cristo que están en Colosas: Gracia y paz á vosotros de Dios Padre nuestro, y del Señor Jesucristo.
 
@@ -48,7 +49,8 @@
 \bibleverse{29} En lo cual aun trabajo, combatiendo según la operación de él, la cual obra en mí poderosamente. 
 
 ## El propósito de la carta, la revelación de un secreto de salvación
-# 2 
+\hypertarget{section-51-2}{%
+\section{2}\label{section-51-2}}
 \bibleverse{1} Porque quiero que sepáis cuán gran solicitud tengo por vosotros, y por los que están en Laodicea, y por todos los que nunca vieron mi rostro en carne; 
 \bibleverse{2} Para que sean confortados sus corazones, unidos en amor, y en todas riquezas de cumplido entendimiento para conocer el misterio de Dios, y del Padre, y de Cristo; 
 \bibleverse{3} En el cual están escondidos todos los tesoros de sabiduría y conocimiento.
@@ -89,7 +91,8 @@
 \bibleverse{23} Tales cosas tienen á la verdad cierta reputación de sabiduría en culto voluntario, y humildad, y en duro trato del cuerpo; no en alguna honra para el saciar de la carne. 
 
 ## Busca, no lo que hay en la tierra
-# 3 
+\hypertarget{section-51-3}{%
+\section{3}\label{section-51-3}}
 \bibleverse{1} Si habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado á la diestra de Dios. 
 \bibleverse{2} Poned la mira en las cosas de arriba, no en las de la tierra. 
 \bibleverse{3} Porque muertos sois, y vuestra vida está escondida con Cristo en Dios. 
@@ -137,7 +140,8 @@
 \bibleverse{24} Sabiendo que del Señor recibiréis la compensación de la herencia: porque al Señor Cristo servís. 
 \bibleverse{25} Mas el que hace injuria, recibirá la injuria que hiciere; que no hay acepción de personas. 
 
-# 4 
+\hypertarget{section-51-4}{%
+\section{4}\label{section-51-4}}
 \bibleverse{1} Amos, haced lo que es justo y derecho con vuestros siervos, sabiendo que también vosotros tenéis amo en los cielos.
 
 ## Admoniciones especiales individuales para orar (especialmente intercesión) y comportarse de la manera correcta contra los no cristianos

@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-48-1}{%
+\section{1}\label{section-48-1}}
 \bibleverse{1} Pablo, apóstol, (no de los hombres, ni por hombre, mas por Jesucristo y por Dios el Padre, que lo resucitó de los muertos), 
 \bibleverse{2} Y todos los hermanos que están conmigo, á las iglesias de Galacia: 
 \bibleverse{3} Gracia sea á vosotros, y paz de Dios el Padre, y de nuestro Señor Jesucristo, 
@@ -40,7 +41,8 @@
 \bibleverse{24} Y glorificaban á Dios en mí. 
 
 ## Aparición de Pablo en la consulta del apóstol en Jerusalén
-# 2 
+\hypertarget{section-48-2}{%
+\section{2}\label{section-48-2}}
 \bibleverse{1} Después, pasados catorce años, fuí otra vez á Jerusalem juntamente con Bernabé, tomando también conmigo á Tito. 
 \bibleverse{2} Empero fuí por revelación, y comuniquéles el evangelio que predico entre los Gentiles; mas particularmente á los que parecían ser algo, por no correr en vano, ó haber corrido. 
 \bibleverse{3} Mas ni aun Tito, que estaba conmigo, siendo Griego, fué compelido á circuncidarse. 
@@ -75,7 +77,8 @@
 \bibleverse{21} No desecho la gracia de Dios: porque si por la ley fuese la justicia, entonces por demás murió Cristo. 
 
 ## Referencia a la experiencia de los mismos Gálatas de que la recepción del Espíritu es el resultado de la fe
-# 3 
+\hypertarget{section-48-3}{%
+\section{3}\label{section-48-3}}
 \bibleverse{1} ¡Oh Gálatas insensatos! ¿quién os fascinó, para no obedecer á la verdad, ante cuyos ojos Jesucristo fué ya descrito como crucificado entre vosotros? 
 \bibleverse{2} Esto solo quiero saber de vosotros: ¿Recibisteis el Espíritu por las obras de la ley, ó por el oir de la fe? 
 \bibleverse{3} ¿Tan necios sois? ¿habiendo comenzado por el Espíritu, ahora os perfeccionáis por la carne? 
@@ -129,7 +132,8 @@
 \bibleverse{29} Y si vosotros sois de Cristo, ciertamente la simiente de Abraham sois, y conforme á la promesa los herederos. 
 
 ## Para los creyentes, la posición de hijos, filiación, en Cristo ha tomado el lugar de la esclavitud a la ley
-# 4 
+\hypertarget{section-48-4}{%
+\section{4}\label{section-48-4}}
 \bibleverse{1} También digo: Entre tanto que el heredero es niño, en nada difiere del siervo, aunque es señor de todo; 
 \bibleverse{2} Mas está debajo de tutores y curadores hasta el tiempo señalado por el padre. 
 \bibleverse{3} Así también nosotros, cuando éramos niños, éramos siervos bajo los rudimentos del mundo. 
@@ -179,7 +183,8 @@
  
 \bibleverse{31} De manera, hermanos, que no somos hijos de la sierva, mas de la libre. 
 
-# 5 
+\hypertarget{section-48-5}{%
+\section{5}\label{section-48-5}}
 \bibleverse{1} Estad, pues, firmes en la libertad con que Cristo nos hizo libres, y no volváis otra vez á ser presos en el yugo de servidumbre.
 
  
@@ -225,7 +230,8 @@
 \bibleverse{25} Si vivimos en el Espíritu, andemos también en el Espíritu. 
 \bibleverse{26} No seamos codiciosos de vana gloria, irritando los unos á los otros, envidiándose los unos á los otros. 
 
-# 6 
+\hypertarget{section-48-6}{%
+\section{6}\label{section-48-6}}
 \bibleverse{1} Hermanos, si alguno fuere tomado en alguna falta, vosotros que sois espirituales, restaurad al tal con el espíritu de mansedumbre; considerándote á ti mismo, porque tú no seas también tentado. 
 \bibleverse{2} Sobrellevad los unos las cargas de los otros; y cumplid así la ley de Cristo. 
 \bibleverse{3} Porque el que estima de sí que es algo, no siendo nada, á sí mismo se engaña. 

@@ -1,5 +1,6 @@
 ## Los hijos de Israel multiplicaron
-# 1 
+\hypertarget{section-02-1}{%
+\section{1}\label{section-02-1}}
 \bibleverse{1} Estos son los nombres de los hijos de Israel, que entraron en Egipto con Jacob; cada uno entró con su familia. 
 \bibleverse{2} Rubén, Simeón, Leví y Judá; 
 \bibleverse{3} Issachâr, Zabulón y Benjamín; 
@@ -33,7 +34,8 @@
 \bibleverse{22} Entonces Faraón mandó á todo su pueblo, diciendo: Echad en el río todo hijo que naciere, y á toda hija reservad la vida. 
 
 ## Nacimiento y abandono, salvación y educación de Moisés
-# 2 
+\hypertarget{section-02-2}{%
+\section{2}\label{section-02-2}}
 \bibleverse{1} Un varón de la familia de Leví fué, y tomó por mujer una hija de Leví: 
 \bibleverse{2} La cual concibió, y parió un hijo: y viéndolo que era hermoso, túvole escondido tres meses. 
 \bibleverse{3} Pero no pudiendo ocultarle más tiempo, tomó una arquilla de juncos, y calafateóla con pez y betún, y colocó en ella al niño, y púsolo en un carrizal á la orilla del río: 
@@ -90,7 +92,8 @@
 \bibleverse{25} Y miró Dios á los hijos de Israel, y reconociólos Dios. 
 
 ## Dios se revela a Moisés en la zarza como el “Yo soy”
-# 3 
+\hypertarget{section-02-3}{%
+\section{3}\label{section-02-3}}
 \bibleverse{1} Y apacentando Moisés las ovejas de Jethro su suegro, sacerdote de Madián, llevó las ovejas detrás del desierto, y vino á Horeb, monte de Dios. 
 \bibleverse{2} Y apareciósele el Angel de Jehová en una llama de fuego en medio de una zarza: y él miró, y vió que la zarza ardía en fuego, y la zarza no se consumía. 
 \bibleverse{3} Entonces Moisés dijo: Iré yo ahora, y veré esta grande visión, por qué causa la zarza no se quema.
@@ -133,7 +136,8 @@
 \bibleverse{22} Sino que demandará cada mujer á su vecina y á su huéspeda vasos de plata, vasos de oro, y vestidos: los cuales pondréis sobre vuestros hijos y vuestras hijas; y despojaréis á Egipto. 
 
 ## Los milagros de la autenticación
-# 4 
+\hypertarget{section-02-4}{%
+\section{4}\label{section-02-4}}
 \bibleverse{1} Entonces Moisés respondió, y dijo: He aquí que ellos no me creerán, ni oirán mi voz; porque dirán: No te ha aparecido Jehová.
 
  
@@ -205,7 +209,8 @@
 \bibleverse{31} Y el pueblo creyó: y oyendo que Jehová había visitado los hijos de Israel, y que había visto su aflicción, inclináronse y adoraron. 
 
 ## La primera negociación fallida con el faraón
-# 5 
+\hypertarget{section-02-5}{%
+\section{5}\label{section-02-5}}
 \bibleverse{1} Después entraron Moisés y Aarón á Faraón, y le dijeron: Jehová, el Dios de Israel, dice así: Deja ir á mi pueblo á celebrarme fiesta en el desierto.
 
  
@@ -252,7 +257,8 @@
 \bibleverse{22} Entonces Moisés se volvió á Jehová, y dijo: Señor, ¿por qué afliges á este pueblo? ¿para qué me enviaste? 
 \bibleverse{23} Porque desde que yo vine á Faraón para hablarle en tu nombre, ha afligido á este pueblo; y tú tampoco has librado á tu pueblo. 
 
-# 6 
+\hypertarget{section-02-6}{%
+\section{6}\label{section-02-6}}
 \bibleverse{1} Jehová respondió á Moisés: Ahora verás lo que yo haré á Faraón; porque con mano fuerte los ha de dejar ir; y con mano fuerte los ha de echar de su tierra.
 
 ## Dios se revela a sí mismo a Moisés de nuevo y promete la salvación del pueblo
@@ -302,7 +308,8 @@
  
 \bibleverse{30} Y Moisés respondió delante de Jehová: He aquí, yo soy incircunciso de labios, ¿cómo pues me ha de oir Faraón? 
 
-# 7 
+\hypertarget{section-02-7}{%
+\section{7}\label{section-02-7}}
 \bibleverse{1} Y Jehová dijo á Moisés: Mira, yo te he constituído dios para Faraón, y tu hermano Aarón será tu profeta. 
 \bibleverse{2} Tú dirás todas las cosas que yo te mandaré, y Aarón tu hermano hablará á Faraón, para que deje ir de su tierra á los hijos de Israel. 
 \bibleverse{3} Y yo endureceré el corazón de Faraón, y multiplicaré en la tierra de Egipto mis señales y mis maravillas. 
@@ -342,7 +349,8 @@
 \bibleverse{25} Y cumpliéronse siete días después que Jehová hirió el río. 
 
 ## La segunda plaga de las ranas
-# 8 
+\hypertarget{section-02-8}{%
+\section{8}\label{section-02-8}}
 \bibleverse{1} Entonces Jehová dijo á Moisés: Entra á Faraón, y dile: Jehová ha dicho así: Deja ir á mi pueblo, para que me sirvan. 
 \bibleverse{2} Y si no lo quisieres dejar ir, he aquí yo heriré con ranas todos tus términos: 
 \bibleverse{3} Y el río criará ranas, las cuales subirán, y entrarán en tu casa, y en la cámara de tu cama, y sobre tu cama, y en las casas de tus siervos, y en tu pueblo, y en tus hornos, y en tus artesas: 
@@ -401,7 +409,8 @@
 \bibleverse{32} Mas Faraón agravó aún esta vez su corazón, y no dejó ir al pueblo. 
 
 ## Quinta plaga: plaga del ganado
-# 9 
+\hypertarget{section-02-9}{%
+\section{9}\label{section-02-9}}
 \bibleverse{1} Entonces Jehová dijo á Moisés: Entra á Faraón, y dile: Jehová, el Dios de los Hebreos, dice así: Deja ir á mi pueblo, para que me sirvan; 
 \bibleverse{2} Porque si no lo quieres dejar ir, y los detuvieres aún, 
 \bibleverse{3} He aquí la mano de Jehová será sobre tus ganados que están en el campo, caballos, asnos, camellos, vacas y ovejas, con pestilencia gravísima: 
@@ -459,7 +468,8 @@
 \bibleverse{35} Y el corazón de Faraón se endureció, y no dejó ir á los hijos de Israel; como Jehová lo había dicho por medio de Moisés. 
 
 ## La octava plaga: langostas
-# 10 
+\hypertarget{section-02-10}{%
+\section{10}\label{section-02-10}}
 \bibleverse{1} Y Jehová dijo á Moisés: Entra á Faraón; porque yo he agravado su corazón, y el corazón de sus siervos, para dar entre ellos estas mis señales; 
 \bibleverse{2} Y para que cuentes á tus hijos y á tus nietos las cosas que yo hice en Egipto, y mis señales que dí entre ellos; y para que sepáis que yo soy Jehová.
 
@@ -516,7 +526,8 @@
 \bibleverse{29} Y Moisés respondió: Bien has dicho; no veré más tu rostro. 
 
 ## Anuncio de la décima plaga, la muerte del primogénito
-# 11 
+\hypertarget{section-02-11}{%
+\section{11}\label{section-02-11}}
 \bibleverse{1} Y Jehová dijo á Moisés: Una plaga traeré aún sobre Faraón, y sobre Egipto; después de la cual él os dejará ir de aquí; y seguramente os echará de aquí del todo. 
 \bibleverse{2} Habla ahora al pueblo, y que cada uno demande á su vecino, y cada una á su vecina, vasos de plata y de oro. 
 \bibleverse{3} Y Jehová dió gracia al pueblo en los ojos de los Egipcios. También Moisés era muy gran varón en la tierra de Egipto, á los ojos de los siervos de Faraón, y á los ojos del pueblo.
@@ -533,7 +544,8 @@
 \bibleverse{10} Y Moisés y Aarón hicieron todos estos prodigios delante de Faraón: mas Jehová había endurecido el corazón de Faraón, y no envió á los hijos de Israel fuera de su país. 
 
 ## Institución de Pascua
-# 12 
+\hypertarget{section-02-12}{%
+\section{12}\label{section-02-12}}
 \bibleverse{1} Y habló Jehová á Moisés y á Aarón en la tierra de Egipto, diciendo: 
 \bibleverse{2} Este mes os será principio de los meses; será este para vosotros el primero en los meses del año. 
 \bibleverse{3} Hablad á toda la congregación de Israel, diciendo: En el diez de aqueste mes tómese cada uno un cordero por las familias de los padres, un cordero por familia: 
@@ -607,7 +619,8 @@
 \bibleverse{50} Así lo hicieron todos los hijos de Israel; como mandó Jehová á Moisés y á Aarón, así lo hicieron. 
 \bibleverse{51} Y en aquel mismo día sacó Jehová á los hijos de Israel de la tierra de Egipto por sus escuadrones. 
 
-# 13 
+\hypertarget{section-02-13}{%
+\section{13}\label{section-02-13}}
 \bibleverse{1} Y Jehová habló á Moisés, diciendo: 
 \bibleverse{2} Santifícame todo primogénito, cualquiera que abre matriz entre los hijos de Israel, así de los hombres como de los animales: mío es.
 
@@ -641,7 +654,8 @@
 \bibleverse{22} Nunca se partió de delante del pueblo la columna de nube de día, ni de noche la columna de fuego. 
 
 ## Dios ordena el cambio de dirección
-# 14 
+\hypertarget{section-02-14}{%
+\section{14}\label{section-02-14}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel que den la vuelta, y asienten su campo delante de Pihahiroth, entre Migdol y la mar hacia Baalzephón: delante de él asentaréis el campo, junto á la mar. 
 \bibleverse{3} Porque Faraón dirá de los hijos de Israel: Encerrados están en la tierra, el desierto los ha encerrado. 
@@ -690,7 +704,8 @@
 \bibleverse{31} Y vió Israel aquel grande hecho que Jehová ejecutó contra los Egipcios: y el pueblo temió á Jehová, y creyeron á Jehová y á Moisés su siervo. 
 
 ## Canción de victoria de los israelitas en el Mar Rojo
-# 15 
+\hypertarget{section-02-15}{%
+\section{15}\label{section-02-15}}
 \bibleverse{1} Entonces cantó Moisés y los hijos de Israel este cántico á Jehová, y dijeron: Cantaré yo á Jehová, porque se ha magnificado grandemente, echando en la mar al caballo y al que en él subía. 
 \bibleverse{2} Jehová es mi fortaleza, y mi canción, y hame sido por salud: éste es mi Dios, y á éste engrandeceré; Dios de mi padre, y á éste ensalzaré. 
 \bibleverse{3} Jehová, varón de guerra; Jehová es su nombre. 
@@ -730,7 +745,8 @@
 \bibleverse{27} Y llegaron á Elim, donde había doce fuentes de aguas, y setenta palmas; y asentaron allí junto á las aguas. 
 
 ## El murmullo del pueblo; la exaltación divina mediante la donación de codornices y maná
-# 16 
+\hypertarget{section-02-16}{%
+\section{16}\label{section-02-16}}
 \bibleverse{1} Y partiendo de Elim toda la congregación de los hijos de Israel, vino al desierto de Sin, que está entre Elim y Sinaí, á los quince días del segundo mes después que salieron de la tierra de Egipto. 
 \bibleverse{2} Y toda la congregación de los hijos de Israel murmuró contra Moisés y Aarón en el desierto; 
 \bibleverse{3} Y decíanles los hijos de Israel: Ojalá hubiéramos muerto por mano de Jehová en la tierra de Egipto, cuando nos sentábamos á las ollas de las carnes, cuando comíamos pan en hartura; pues nos habéis sacado á este desierto, para matar de hambre á toda esta multitud.
@@ -780,7 +796,8 @@
 \bibleverse{36} Y un gomer es la décima parte del epha. 
 
 ## La maravillosa donación de agua de la roca cerca de Massa y Meriba
-# 17 
+\hypertarget{section-02-17}{%
+\section{17}\label{section-02-17}}
 \bibleverse{1} Y toda la congregación de los hijos de Israel partió del desierto de Sin, por sus jornadas, al mandamiento de Jehová, y asentaron el campo en Rephidim: y no había agua para que el pueblo bebiese. 
 \bibleverse{2} Y altercó el pueblo con Moisés, y dijeron: Danos agua que bebamos. Y Moisés les dijo: ¿Por qué altercáis conmigo? ¿por qué tentáis á Jehová?
 
@@ -808,7 +825,8 @@
 \bibleverse{16} Y dijo: Por cuanto la mano sobre el trono de Jehová, Jehová tendrá guerra con Amalec de generación en generación. 
 
 ## La visita de Jetro a Moisés en el monte de Dios; Nombramiento de jueces
-# 18 
+\hypertarget{section-02-18}{%
+\section{18}\label{section-02-18}}
 \bibleverse{1} Y oyó Jethro, sacerdote de Madián, suegro de Moisés, todas las cosas que Dios había hecho con Moisés, y con Israel su pueblo, y cómo Jehová había sacado á Israel de Egipto: 
 \bibleverse{2} Y tomó Jethro, suegro de Moisés, á Séphora la mujer de Moisés, después que él la envió, 
 \bibleverse{3} Y á sus dos hijos; el uno se llamaba Gersom, porque dijo, Peregrino he sido en tierra ajena; 
@@ -847,7 +865,8 @@
 \bibleverse{27} Y despidió Moisés á su suegro, y fuése á su tierra. 
 
 ## Llegada del pueblo al Sinaí; Elaboración de legislación
-# 19 
+\hypertarget{section-02-19}{%
+\section{19}\label{section-02-19}}
 \bibleverse{1} Al mes tercero de la salida de los hijos de Israel de la tierra de Egipto, en aquel día vinieron al desierto de Sinaí. 
 \bibleverse{2} Porque partieron de Rephidim, y llegaron al desierto de Sinaí, y asentaron en el desierto; y acampó allí Israel delante del monte. 
 \bibleverse{3} Y Moisés subió á Dios; y Jehová lo llamó desde el monte, diciendo: Así dirás á la casa de Jacob, y denunciarás á los hijos de Israel: 
@@ -892,7 +911,8 @@
 \bibleverse{25} Entonces Moisés descendió al pueblo, y habló con ellos. 
 
 ## La proclamación de los Diez Mandamientos
-# 20 
+\hypertarget{section-02-20}{%
+\section{20}\label{section-02-20}}
 \bibleverse{1} Y habló Dios todas estas palabras, diciendo: 
 \bibleverse{2} Yo soy [Jehová]{.smallcaps} tu Dios, que te saqué de la tierra de Egipto, de casa de siervos.
 
@@ -949,7 +969,8 @@
 \bibleverse{26} Y no subirás por gradas á mi altar, porque tu desnudez no sea junto á él descubierta. 
 
 ## Los derechos de los esclavos hebreos
-# 21 
+\hypertarget{section-02-21}{%
+\section{21}\label{section-02-21}}
 \bibleverse{1} Y estos son los derechos que les propondrás.
 
  
@@ -1016,7 +1037,8 @@
 \bibleverse{35} Y si el buey de alguno hiriere al buey de su prójimo, y éste muriere, entonces venderán el buey vivo, y partirán el dinero de él, y también partirán el muerto. 
 \bibleverse{36} Mas si era notorio que el buey era acorneador de ayer y antes de ayer, y su dueño no lo hubiere guardado, pagará buey por buey, y el muerto será suyo. 
 
-# 22 
+\hypertarget{section-02-22}{%
+\section{22}\label{section-02-22}}
 \bibleverse{1} Cuando alguno hurtare buey ú oveja, y le degollare ó vendiere, por aquel buey pagará cinco bueyes, y por aquella oveja cuatro ovejas. 
 \bibleverse{2} Si el ladrón fuere hallado forzando una casa, y fuere herido y muriere, el que le hirió no será culpado de su muerte. 
 \bibleverse{3} Si el sol hubiere sobre él salido, el matador será reo de homicidio: el ladrón habrá de restituir cumplidamente; si no tuviere, será vendido por su hurto. 
@@ -1084,7 +1106,8 @@
 \bibleverse{31} Y habéis de serme varones santos: y no comeréis carne arrebatada de las fieras en el campo; á los perros la echaréis. 
 
 ## Comportamiento veraz y honesto, especialmente en la corte
-# 23 
+\hypertarget{section-02-23}{%
+\section{23}\label{section-02-23}}
 \bibleverse{1} No admitirás falso rumor. No te concertarás con el impío para ser testigo falso.
 
  
@@ -1148,7 +1171,8 @@
 \bibleverse{33} En tu tierra no habitarán, no sea que te hagan pecar contra mí sirviendo á sus dioses: porque te será de tropiezo. 
 
 ## Conclusión solemne del pacto; Redacción y lectura del libro federal; el sacrificio del pacto y la aspersión de sangre
-# 24 
+\hypertarget{section-02-24}{%
+\section{24}\label{section-02-24}}
 \bibleverse{1} Y dijo á Moisés: Sube á Jehová, tú, y Aarón, Nadab, y Abiú, y setenta de los ancianos de Israel; y os inclinaréis desde lejos. 
 \bibleverse{2} Mas Moisés sólo se llegará á Jehová; y ellos no se lleguen cerca, ni suba con él el pueblo.
 
@@ -1185,7 +1209,8 @@
 \bibleverse{18} Y entró Moisés en medio de la nube, y subió al monte: y estuvo Moisés en el monte cuarenta días y cuarenta noches. 
 
 ## Regulaciones sobre la construcción y equipamiento del tabernáculo
-# 25 
+\hypertarget{section-02-25}{%
+\section{25}\label{section-02-25}}
 \bibleverse{1} Y Jehová habló á Moisés, diciendo: 
 \bibleverse{2} Di á los hijos de Israel que tomen para mí ofrenda: de todo varón que la diere de su voluntad, de corazón, tomaréis mi ofrenda. 
 \bibleverse{3} Y esta es la ofrenda que tomaréis de ellos: Oro, y plata, y cobre, 
@@ -1235,7 +1260,8 @@
 \bibleverse{40} Y mira, y hazlos conforme á su modelo, que te ha sido mostrado en el monte. 
 
 ## Instrucciones para hacer el apartamento: Los cuatro techos
-# 26 
+\hypertarget{section-02-26}{%
+\section{26}\label{section-02-26}}
 \bibleverse{1} Y harás el tabernáculo de diez cortinas de lino torcido, cárdeno, y púrpura, y carmesí: y harás querubines de obra delicada. 
 \bibleverse{2} La longitud de la una cortina de veintiocho codos, y la anchura de la misma cortina de cuatro codos: todas las cortinas tendrán una medida. 
 \bibleverse{3} Cinco cortinas estarán juntas la una con la otra, y cinco cortinas unidas la una con la otra. 
@@ -1287,7 +1313,8 @@
 \bibleverse{37} Y harás para la cortina cinco columnas de madera de Sittim, las cuales cubrirás de oro, con sus capiteles de oro: y hacerlas has de fundición cinco basas de metal. 
 
 ## Instrucciones sobre el altar de los holocaustos, la explanada y la entrega de aceite para el candelero
-# 27 
+\hypertarget{section-02-27}{%
+\section{27}\label{section-02-27}}
 \bibleverse{1} Harás también altar de madera de Sittim de cinco codos de longitud, y de cinco codos de anchura: será cuadrado el altar, y su altura de tres codos. 
 \bibleverse{2} Y harás sus cuernos á sus cuatro esquinas; los cuernos serán de lo mismo; y lo cubrirás de metal. 
 \bibleverse{3} Harás también sus calderas para echar su ceniza; y sus paletas, y sus tazones, y sus garfios, y sus braseros: harás todos sus vasos de metal. 
@@ -1315,7 +1342,8 @@
 \bibleverse{21} En el tabernáculo del testimonio, afuera del velo que está delante del testimonio, las pondrá en orden Aarón y sus hijos, delante de Jehová desde la tarde hasta la mañana, como estatuto perpetuo de los hijos de Israel por sus generaciones. 
 
 ## Instrucciones sobre la vestimenta sacerdotal de Aarón y sus hijos
-# 28 
+\hypertarget{section-02-28}{%
+\section{28}\label{section-02-28}}
 \bibleverse{1} Y tú allega á ti á Aarón tu hermano, y á sus hijos consigo, de entre los hijos de Israel, para que sean mis sacerdotes; á Aarón, Nadab y Abiú, Eleazar é Ithamar, hijos de Aarón. 
 \bibleverse{2} Y harás vestidos sagrados á Aarón tu hermano, para honra y hermosura. 
 \bibleverse{3} Y tú hablarás á todos los sabios de corazón, á quienes yo he henchido de espíritu de sabiduría, á fin que hagan los vestidos de Aarón, para consagrarle á que me sirva de sacerdote. 
@@ -1376,7 +1404,8 @@
 \bibleverse{43} Y estarán sobre Aarón y sobre sus hijos cuando entraren en el tabernáculo del testimonio, ó cuando se llegaren al altar para servir en el santuario, porque no lleven pecado, y mueran. Estatuto perpetuo para él, y para su simiente después de él. 
 
 ## Instrucción para la ordenación de sacerdotes
-# 29 
+\hypertarget{section-02-29}{%
+\section{29}\label{section-02-29}}
 \bibleverse{1} Y esto es lo que les harás para consagrarlos, para que sean mis sacerdotes: Toma un becerro de la vacada, y dos carneros sin tacha; 
 \bibleverse{2} Y panes sin levadura, y tortas sin levadura amasadas con aceite, y hojaldres sin levadura untadas con aceite; las cuales cosas harás de flor de harina de trigo: 
 \bibleverse{3} Y las pondrás en un canastillo, y en el canastillo las ofrecerás, con el becerro y los dos carneros. 
@@ -1445,7 +1474,8 @@
 \bibleverse{46} Y conocerán que yo soy Jehová su Dios, que los saqué de la tierra de Egipto, para habitar en medio de ellos: Yo Jehová su Dios. 
 
 ## Regulaciones sobre el altar humeante
-# 30 
+\hypertarget{section-02-30}{%
+\section{30}\label{section-02-30}}
 \bibleverse{1} Harás asimismo un altar de sahumerio de perfume: de madera de Sittim lo harás. 
 \bibleverse{2} Su longitud será de un codo, y su anchura de un codo: será cuadrado: y su altura de dos codos: y sus cuernos serán de lo mismo. 
 \bibleverse{3} Y cubrirlo has de oro puro, su techado, y sus paredes en derredor, y sus cuernos: y le harás en derredor una corona de oro. 
@@ -1498,7 +1528,8 @@
 \bibleverse{38} Cualquiera que hiciere otra como ella para olerla, será cortado de sus pueblos. 
 
 ## Nombramiento de dos capataces y sus ayudantes
-# 31 
+\hypertarget{section-02-31}{%
+\section{31}\label{section-02-31}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Mira, yo he llamado por su nombre á Bezaleel, hijo de Uri, hijo de Hur, de la tribu de Judá; 
 \bibleverse{3} Y lo he henchido de espíritu de Dios, en sabiduría, y en inteligencia, y en ciencia, y en todo artificio, 
@@ -1525,7 +1556,8 @@
 \bibleverse{18} Y dió á Moisés, como acabó de hablar con él en el monte de Sinaí, dos tablas del testimonio, tablas de piedra escritas con el dedo de Dios. 
 
 ## Hacer y adorar la imagen dorada del toro
-# 32 
+\hypertarget{section-02-32}{%
+\section{32}\label{section-02-32}}
 \bibleverse{1} Mas viendo el pueblo que Moisés tardaba en descender del monte, allegóse entonces á Aarón, y dijéronle: Levántate, haznos dioses que vayan delante de nosotros; porque á este Moisés, aquel varón que nos sacó de la tierra de Egipto, no sabemos qué le haya acontecido.
 
  
@@ -1604,7 +1636,8 @@
 \bibleverse{35} Y Jehová hirió al pueblo, porque habían hecho el becerro que formó Aarón. 
 
 ## El mandato de Dios de ir a la tierra prometida; El dolor de la gente por el rechazo de Dios
-# 33 
+\hypertarget{section-02-33}{%
+\section{33}\label{section-02-33}}
 \bibleverse{1} Y Jehová dijo á Moisés: Ve, sube de aquí, tú y el pueblo que sacaste de la tierra de Egipto, á la tierra de la cual juré á Abraham, Isaac, y Jacob, diciendo: A tu simiente la daré: 
 \bibleverse{2} Y yo enviaré delante de ti el ángel, y echaré fuera al Cananeo y al Amorrheo, y al Hetheo, y al Pherezeo, y al Heveo y al Jebuseo: 
 \bibleverse{3} (A la tierra que fluye leche y miel); porque yo no subiré en medio de ti, porque eres pueblo de dura cerviz, no sea que te consuma en el camino.
@@ -1653,7 +1686,8 @@
 \bibleverse{23} Después apartaré mi mano, y verás mis espaldas; mas no se verá mi rostro. 
 
 ## Por orden de Dios, Moisés sube al Sinaí con dos tablas de piedra en blanco
-# 34 
+\hypertarget{section-02-34}{%
+\section{34}\label{section-02-34}}
 \bibleverse{1} Y Jehová dijo á Moisés: Alísate dos tablas de piedra como las primeras, y escribiré sobre esas tablas las palabras que estaban en las tablas primeras que quebraste. 
 \bibleverse{2} Apercíbete, pues, para mañana, y sube por la mañana al monte de Sinaí, y estáme allí sobre la cumbre del monte. 
 \bibleverse{3} Y no suba hombre contigo, ni parezca alguno en todo el monte; ni ovejas ni bueyes pazcan delante del monte.
@@ -1726,7 +1760,8 @@
 \bibleverse{35} Y veían los hijos de Israel el rostro de Moisés, que la tez de su rostro era resplandeciente; y volvía Moisés á poner el velo sobre su rostro, hasta que entraba á hablar con El. 
 
 ## Comunicación del mandamiento del sábado; Invitación a contribuir al tabernáculo
-# 35 
+\hypertarget{section-02-35}{%
+\section{35}\label{section-02-35}}
 \bibleverse{1} Y Moisés hizo juntar toda la congregación de los hijos de Israel, y díjoles: Estas son las cosas que Jehová ha mandado que hagáis. 
 \bibleverse{2} Seis días se hará obra, mas el día séptimo os será santo, sábado de reposo á Jehová: cualquiera que en él hiciere obra, morirá. 
 \bibleverse{3} No encenderéis fuego en todas vuestras moradas en el día del sábado.
@@ -1773,7 +1808,8 @@
 \bibleverse{34} Y ha puesto en su corazón el que pueda enseñar, así él como Aholiab, hijo de Ahisamac, de la tribu de Dan: 
 \bibleverse{35} Y los ha henchido de sabiduría de corazón, para que hagan toda obra de artificio, y de invención, y de recamado en jacinto, y en púrpura, y en carmesí, y en lino fino, y en telar; para que hagan toda labor, é inventen todo diseño. 
 
-# 36 
+\hypertarget{section-02-36}{%
+\section{36}\label{section-02-36}}
 \bibleverse{1} Hizo, pues, Bezaleel y Aholiab, y todo hombre sabio de corazón, á quien Jehová dió sabiduría é inteligencia para que supiesen hacer toda la obra del servicio del santuario, todas las cosas que había mandado Jehová.
 
  
@@ -1831,7 +1867,8 @@
 \bibleverse{38} Y sus cinco columnas con sus capiteles: y cubrió las cabezas de ellas y sus molduras de oro: pero sus cinco basas las hizo de metal. 
 
 ## El cajón con la placa de cubierta
-# 37 
+\hypertarget{section-02-37}{%
+\section{37}\label{section-02-37}}
 \bibleverse{1} Hizo también Bezaleel el arca de madera de Sittim: su longitud era de dos codos y medio, y de codo y medio su anchura, y su altura de otro codo y medio: 
 \bibleverse{2} Y cubrióla de oro puro por de dentro y por de fuera, é hízole una cornisa de oro en derredor. 
 \bibleverse{3} Hízole además de fundición cuatro anillos de oro á sus cuatro esquinas; en el un lado dos anillos y en el otro lado dos anillos. 
@@ -1872,7 +1909,8 @@
 \bibleverse{29} Hizo asimismo el aceite santo de la unción, y el fino perfume aromático, de obra de perfumador. 
 
 ## El altar de los holocaustos. La cuenca de cobre
-# 38 
+\hypertarget{section-02-38}{%
+\section{38}\label{section-02-38}}
 \bibleverse{1} Igualmente hizo el altar del holocausto de madera de Sittim: su longitud de cinco codos, y su anchura de otros cinco codos, cuadrado, y de tres codos de altura. 
 \bibleverse{2} E hízole sus cuernos á sus cuatro esquinas, los cuales eran de la misma pieza, y cubriólo de metal. 
 \bibleverse{3} Hizo asimismo todos los vasos del altar: calderas, y tenazas, y tazones, y garfios, y palas: todos sus vasos hizo de metal. 
@@ -1916,7 +1954,8 @@
 \bibleverse{31} Y las basas del atrio alrededor, y las basas de la puerta del atrio, y todas las estacas del tabernáculo, y todas las estacas del atrio alrededor. 
 
 ## Confección de la ropa sacerdotal
-# 39 
+\hypertarget{section-02-39}{%
+\section{39}\label{section-02-39}}
 \bibleverse{1} Y del jacinto, y púrpura, y carmesí, hicieron las vestimentas del ministerio para ministrar en el santuario, y asimismo hicieron las vestiduras sagradas para Aarón; como Jehová lo había mandado á Moisés.
 
 ## El vestido de hombro (ephod)
@@ -1982,7 +2021,8 @@
 \bibleverse{43} Y vió Moisés toda la obra, y he aquí que la habían hecho como Jehová había mandado; y bendíjolos. 
 
 ## Establecimiento y dedicación del santuario
-# 40 
+\hypertarget{section-02-40}{%
+\section{40}\label{section-02-40}}
 \bibleverse{1} Y Jehová habló á Moisés, diciendo: 
 \bibleverse{2} En el primer día del mes primero harás levantar el tabernáculo, el tabernáculo del testimonio: 
 \bibleverse{3} Y pondrás en él el arca del testimonio, y la cubrirás con el velo: 

@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-54-1}{%
+\section{1}\label{section-54-1}}
 \bibleverse{1} Pablo, apóstol de Jesucristo por la ordenación de Dios nuestro Salvador, y del Señor Jesucristo, nuestra esperanza; 
 \bibleverse{2} A Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de Dios nuestro Padre, y de Cristo Jesús nuestro Señor.
 
@@ -34,7 +35,8 @@
 \bibleverse{20} De los cuales son Himeneo y Alejandro, los cuales entregué á Satanás, para que aprendan á no blasfemar. 
 
 ## Regulaciones sobre la oración en congregación para todas las personas, especialmente para las autoridades
-# 2 
+\hypertarget{section-54-2}{%
+\section{2}\label{section-54-2}}
 \bibleverse{1} Amonesto pues, ante todas cosas, que se hagan rogativas, oraciones, peticiones, hacimientos de gracias, por todos los hombres; 
 \bibleverse{2} Por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad. 
 \bibleverse{3} Porque esto es bueno y agradable delante de Dios nuestro Salvador; 
@@ -55,7 +57,8 @@
 \bibleverse{15} Empero se salvará engendrando hijos, si permaneciere en la fe y caridad y santidad, con modestia. 
 
 ## Requisitos para el cargo de jefe
-# 3 
+\hypertarget{section-54-3}{%
+\section{3}\label{section-54-3}}
 \bibleverse{1} Palabra fiel: Si alguno apetece obispado, buena obra desea. 
 \bibleverse{2} Conviene, pues, que el obispo sea irreprensible, marido de una mujer, solícito, templado, compuesto, hospedador, apto para enseñar; 
 \bibleverse{3} No amador del vino, no heridor, no codicioso de torpes ganancias, sino moderado, no litigioso, ajeno de avaricia; 
@@ -80,7 +83,8 @@
 \bibleverse{16} Y sin contradicción, grande es el misterio de la piedad: Dios ha sido manifestado en carne; ha sido justificado con el Espíritu; ha sido visto de los ángeles; ha sido predicado á los Gentiles; ha sido creído en el mundo; ha sido recibido en gloria. 
 
 ## Advertencia de la abstinencia hipócrita de los falsos maestros
-# 4 
+\hypertarget{section-54-4}{%
+\section{4}\label{section-54-4}}
 \bibleverse{1} Empero el Espíritu dice manifiestamente, que en los venideros tiempos algunos apostatarán de la fe, escuchando á espíritus de error y á doctrinas de demonios; 
 \bibleverse{2} Que con hipocresía hablarán mentira, teniendo cauterizada la conciencia. 
 \bibleverse{3} Que prohibirán casarse, y mandarán abstenerse de las viandas que Dios crió para que con hacimiento de gracias participasen de ellas los fieles, y los que han conocido la verdad. 
@@ -105,7 +109,8 @@
 \bibleverse{16} Ten cuidado de ti mismo y de la doctrina; persiste en ello; pues haciendo esto, á ti mismo salvarás y á los que te oyeren. 
 
 ## Del correcto comportamiento pastoral hacia las diferentes edades de ambos sexos
-# 5 
+\hypertarget{section-54-5}{%
+\section{5}\label{section-54-5}}
 \bibleverse{1} No reprendas al anciano, sino exhórtale como á padre: á los más jóvenes, como á hermanos; 
 \bibleverse{2} A las ancianas, como á madres; á las jovencitas, como á hermanas, con toda pureza.
 
@@ -150,7 +155,8 @@
 \bibleverse{25} Asimismo las buenas obras antes son manifiestas; y las que son de otra manera, no pueden esconderse. 
 
 ## Reglas para los esclavos cristianos
-# 6 
+\hypertarget{section-54-6}{%
+\section{6}\label{section-54-6}}
 \bibleverse{1} Todos los que están debajo del yugo de servidumbre, tengan á sus señores por dignos de toda honra, porque no sea blasfemado el nombre del Señor y la doctrina. 
 \bibleverse{2} Y los que tienen amos fieles, no los tengan en menos, por ser hermanos; antes sírvanles mejor, por cuanto son fieles y amados, y partícipes del beneficio. Esto enseña y exhorta.
 

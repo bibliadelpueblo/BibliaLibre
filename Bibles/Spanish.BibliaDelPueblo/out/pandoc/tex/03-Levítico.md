@@ -1,5 +1,6 @@
 ## Normas relativas a los holocaustos
-# 1 
+\hypertarget{section-03-1}{%
+\section{1}\label{section-03-1}}
 \bibleverse{1} Y llamó Jehová á Moisés, y habló con él desde el tabernáculo del testimonio, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, y diles: Cuando alguno de entre vosotros ofreciere ofrenda á Jehová, de ganado vacuno ú ovejuno haréis vuestra ofrenda.
 
@@ -28,7 +29,8 @@
 \bibleverse{17} Y la henderá por sus alas, mas no la dividirá en dos: y el sacerdote la hará arder sobre el altar, sobre la leña que estará en el fuego; holocausto es, ofrenda encendida de olor suave á Jehová. 
 
 ## Normas relativas a la ofrenda de comida
-# 2 
+\hypertarget{section-03-2}{%
+\section{2}\label{section-03-2}}
 \bibleverse{1} Y cuando alguna persona ofreciere oblación de presente á Jehová, su ofrenda será flor de harina, sobre la cual echará aceite, y pondrá sobre ella incienso: 
 \bibleverse{2} Y la traerá á los sacerdotes, hijos de Aarón; y de ello tomará el sacerdote su puño lleno de su flor de harina y de su aceite, con todo su incienso, y lo hará arder sobre el altar: ofrenda encendida para recuerdo, de olor suave á Jehová. 
 \bibleverse{3} Y la sobra del presente será de Aarón y de sus hijos: es cosa santísima de las ofrendas que se queman á Jehová.
@@ -57,7 +59,8 @@
 \bibleverse{16} Y el sacerdote hará arder, en memoria del don, parte de su grano desmenuzado, y de su aceite con todo su incienso; es ofrenda encendida á Jehová. 
 
 ## Ofrendas de salvación del ganado
-# 3 
+\hypertarget{section-03-3}{%
+\section{3}\label{section-03-3}}
 \bibleverse{1} Y si su ofrenda fuere sacrificio de paces, si hubiere de ofrecerlo de ganado vacuno, sea macho ó hembra, sin defecto lo ofrecerá delante de Jehová: 
 \bibleverse{2} Y pondrá su mano sobre la cabeza de su ofrenda, y la degollará á la puerta del tabernáculo del testimonio; y los sacerdotes, hijos de Aarón, rociarán su sangre sobre el altar en derredor. 
 \bibleverse{3} Luego ofrecerá del sacrificio de las paces, por ofrenda encendida á Jehová, el sebo que cubre los intestinos, y todo el sebo que está sobre las entrañas, 
@@ -84,7 +87,8 @@
 \bibleverse{17} Estatuto perpetuo por vuestras edades; en todas vuestras moradas, ningún sebo ni ninguna sangre comeréis. 
 
 ## Regulaciones relativas a las ofrendas por el pecado
-# 4 
+\hypertarget{section-03-4}{%
+\section{4}\label{section-03-4}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, diciendo: Cuando alguna persona pecare por yerro en alguno de los mandamientos de Jehová sobre cosas que no se han de hacer, y obrare contra alguno de ellos;
 
@@ -136,7 +140,8 @@
 \bibleverse{35} Y le quitará todo su sebo, como fué quitado el sebo del sacrificio de las paces, y harálo el sacerdote arder en el altar sobre la ofrenda encendida á Jehová: y le hará el sacerdote expiación de su pecado que habrá cometido, y será perdonado. 
 
 ## Acerca de algunas ofrendas especiales por el pecado
-# 5 
+\hypertarget{section-03-5}{%
+\section{5}\label{section-03-5}}
 \bibleverse{1} Y cuando alguna persona pecare, que hubiere oído la voz del que juró, y él fuere testigo que vió, ó supo, si no lo denunciare, él llevará su pecado.
 
  
@@ -175,7 +180,8 @@
 \bibleverse{19} Es infracción, y ciertamente delinquió contra Jehová. 
 
 ## Cuando se daña la propiedad de otra persona
-# 6 
+\hypertarget{section-03-6}{%
+\section{6}\label{section-03-6}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Cuando una persona pecare, é hiciere prevaricación contra Jehová, y negare á su prójimo lo encomendado, ó dejado en su mano, ó bien robare, ó calumniare á su prójimo; 
 \bibleverse{3} O sea que hallando lo perdido, después lo negare, y jurare en falso, en alguna de todas aquellas cosas en que suele pecar el hombre: 
@@ -220,7 +226,8 @@
 \bibleverse{30} Mas no se comerá de expiación alguna, de cuya sangre se metiere en el tabernáculo del testimonio para reconciliar en el santuario: al fuego será quemada. 
 
 ## Regulaciones sobre el sacrificio de culpa
-# 7 
+\hypertarget{section-03-7}{%
+\section{7}\label{section-03-7}}
 \bibleverse{1} Asimismo esta es la ley de la expiación de la culpa: es cosa muy santa. 
 \bibleverse{2} En el lugar donde degollaren el holocausto, degollarán la víctima por la culpa; y rociará su sangre en derredor sobre el altar: 
 \bibleverse{3} Y de ella ofrecerá todo su sebo, la cola, y el sebo que cubre los intestinos. 
@@ -281,7 +288,8 @@
 \bibleverse{38} La cual intimó Jehová á Moisés, en el monte de Sinaí, el día que mandó á los hijos de Israel que ofreciesen sus ofrendas á Jehová en el desierto de Sinaí. 
 
 ## Consagración de Aarón y sus cuatro hijos
-# 8 
+\hypertarget{section-03-8}{%
+\section{8}\label{section-03-8}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Toma á Aarón y á sus hijos con él, y las vestimentas, y el aceite de la unción, y el becerro de la expiación, y los dos carneros, y el canastillo de los ázimos; 
 \bibleverse{3} Y reune toda la congregación á la puerta del tabernáculo del testimonio.
@@ -337,7 +345,8 @@
 \bibleverse{36} Y Aarón y sus hijos hicieron todas las cosas que mandó Jehová por medio de Moisés. 
 
 ## Los preparativos para el sacrificio de Aarón y sus hijos
-# 9 
+\hypertarget{section-03-9}{%
+\section{9}\label{section-03-9}}
 \bibleverse{1} Y fué en el día octavo, que Moisés llamó á Aarón y á sus hijos, y á los ancianos de Israel; 
 \bibleverse{2} Y dijo á Aarón: Toma de la vacada un becerro para expiación, y un carnero para holocausto, sin defecto, y ofrécelos delante de Jehová. 
 \bibleverse{3} Y á los hijos de Israel hablarás, diciendo: Tomad un macho cabrío para expiación, y un becerro y un cordero de un año, sin tacha, para holocausto; 
@@ -375,7 +384,8 @@
 \bibleverse{24} Y salió fuego de delante de Jehová, y consumió el holocausto y los sebos sobre el altar; y viéndolo todo el pueblo, alabaron, y cayeron sobre sus rostros. 
 
 ## El pecado y la muerte de Nadab y Abiú
-# 10 
+\hypertarget{section-03-10}{%
+\section{10}\label{section-03-10}}
 \bibleverse{1} Y los hijos de Aarón, Nadab y Abiú, tomaron cada uno su incensario, y pusieron fuego en ellos, sobre el cual pusieron perfume, y ofrecieron delante de Jehová fuego extraño, que él nunca les mandó. 
 \bibleverse{2} Y salió fuego de delante de Jehová que los quemó, y murieron delante de Jehová.
 
@@ -418,7 +428,8 @@
 \bibleverse{20} Y cuando Moisés oyó esto, dióse por satisfecho. 
 
 ## Ordenanzas sobre animales limpios e inmundos
-# 11 
+\hypertarget{section-03-11}{%
+\section{11}\label{section-03-11}}
 \bibleverse{1} Y habló Jehová á Moisés y á Aarón, diciéndoles: 
 \bibleverse{2} Hablad á los hijos de Israel, diciendo: Estos son los animales que comeréis de todos los animales que están sobre la tierra. 
 \bibleverse{3} De entre los animales, todo el de pezuña, y que tiene las pezuñas hendidas, y que rumia, éste comeréis.
@@ -493,7 +504,8 @@
 \bibleverse{47} Para hacer diferencia entre inmundo y limpio, y entre los animales que se pueden comer y los animales que no se pueden comer. 
 
 ## Normativa sobre mujeres que han dado a luz recientemente
-# 12 
+\hypertarget{section-03-12}{%
+\section{12}\label{section-03-12}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, diciendo: La mujer cuando concibiere y pariere varón, será inmunda siete días; conforme á los días que está separada por su menstruo, será inmunda. 
 \bibleverse{3} Y al octavo día circuncidará la carne de su prepucio. 
@@ -508,7 +520,8 @@
 \bibleverse{8} Y si no alcanzare su mano lo suficiente para un cordero, tomará entonces dos tórtolas ó dos palominos, uno para holocausto, y otro para expiación: y el sacerdote hará expiación por ella, y será limpia. 
 
 ## Erupción y manchas en personas sobre la piel desnuda
-# 13 
+\hypertarget{section-03-13}{%
+\section{13}\label{section-03-13}}
 \bibleverse{1} Y habló Jehová á Moisés y á Aarón, diciendo: 
 \bibleverse{2} Cuando el hombre tuviere en la piel de su carne hinchazón, ó postilla, ó mancha blanca, y hubiere en la piel de su carne como llaga de lepra, será traído á Aarón el sacerdote, ó á uno de los sacerdotes sus hijos: 
 \bibleverse{3} Y el sacerdote mirará la llaga en la piel de la carne: si el pelo en la llaga se ha vuelto blanco, y pareciere la llaga más hundida que la tez de la carne, llaga de lepra es; y el sacerdote le reconocerá, y le dará por inmundo. 
@@ -599,7 +612,8 @@
 \bibleverse{59} Esta es la ley de la plaga de la lepra del vestido de lana ó de lino, ó del estambre, ó de la trama, ó de cualquiera cosa de piel, para que sea dada por limpia ó por inmunda. 
 
 ## La purificación de los leprosos
-# 14 
+\hypertarget{section-03-14}{%
+\section{14}\label{section-03-14}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo:
 
  
@@ -689,7 +703,8 @@
 \bibleverse{57} Para enseñar cuándo es inmundo, y cuándo limpio. Aquesta es la ley tocante á la lepra. 
 
 ## Inmundicia de los hombres
-# 15 
+\hypertarget{section-03-15}{%
+\section{15}\label{section-03-15}}
 \bibleverse{1} Y habló Jehová á Moisés y á Aarón, diciendo: 
 \bibleverse{2} Hablad á los hijos de Israel, y decidles: Cualquier varón, cuando su simiente manare de su carne, será inmundo. 
 \bibleverse{3} Y esta será su inmundicia en su flujo; sea que su carne destiló por causa de su flujo, ó que su carne se obstruyó á causa de su flujo, él será inmundo.
@@ -759,7 +774,8 @@
 \bibleverse{33} Y de la que padece su costumbre, y acerca del que tuviere flujo, sea varón ó hembra, y del hombre que durmiere con mujer inmunda. 
 
 ## El gran día anual de expiación; Los preparativos
-# 16 
+\hypertarget{section-03-16}{%
+\section{16}\label{section-03-16}}
 \bibleverse{1} Y habló Jehová á Moisés, después que murieron los dos hijos de Aarón, cuando se llegaron delante de Jehová, y murieron; 
 \bibleverse{2} Y Jehová dijo á Moisés: Di á Aarón tu hermano, que no en todo tiempo entre en el santuario del velo adentro, delante de la cubierta que está sobre el arca, para que no muera: porque yo apareceré en la nube sobre la cubierta.
 
@@ -822,7 +838,8 @@
 \bibleverse{34} Y esto tendréis por estatuto perpetuo, para expiar á los hijos de Israel de todos sus pecados una vez en el año. Y Moisés lo hizo como Jehová le mandó. 
 
 ## Normativa sobre sacrificio de animales domésticos, consumo de sangre, etc.
-# 17 
+\hypertarget{section-03-17}{%
+\section{17}\label{section-03-17}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á Aarón y á sus hijos, y á todos los hijos de Israel, y diles: Esto es lo que ha mandado Jehová, diciendo:
 
@@ -855,7 +872,8 @@
 \bibleverse{16} Y si no los lavare, ni lavare su carne, llevará su iniquidad. 
 
 ## Leyes de castidad y matrimonio
-# 18 
+\hypertarget{section-03-18}{%
+\section{18}\label{section-03-18}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, y diles: Yo soy Jehová vuestro Dios. 
 \bibleverse{3} No haréis como hacen en la tierra de Egipto, en la cual morasteis; ni haréis como hacen en la tierra de Canaán, á la cual yo os conduzco; ni andaréis en sus estatutos. 
@@ -930,7 +948,8 @@
 \bibleverse{30} Guardad, pues, mi ordenanza, no haciendo de las prácticas abominables que tuvieron lugar antes de vosotros, y no os ensuciéis en ellas: Yo Jehová vuestro Dios. 
 
 ## Todo tipo de reglamentos basados ​​en los Diez Mandamientos
-# 19 
+\hypertarget{section-03-19}{%
+\section{19}\label{section-03-19}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á toda la congregación de los hijos de Israel, y diles: Santos seréis, porque santo soy yo Jehová vuestro Dios.
 
@@ -1022,7 +1041,8 @@
 \bibleverse{37} Guardad pues todos mis estatutos, y todos mis derechos, y ponedlos por obra: Yo Jehová. 
 
 ## Disposiciones penales especialmente para las delitos prohibidos
-# 20 
+\hypertarget{section-03-20}{%
+\section{20}\label{section-03-20}}
 \bibleverse{1} Y habló Jehová á Moisés diciendo: 
 \bibleverse{2} Dirás asimismo á los hijos de Israel: Cualquier varón de los hijos de Israel, ó de los extranjeros que peregrinan en Israel, que diere de su simiente á Moloch, de seguro morirá: el pueblo de la tierra lo apedreará con piedras. 
 \bibleverse{3} Y yo pondré mi rostro contra el tal varón, y lo cortaré de entre su pueblo; por cuanto dió de su simiente á Moloch, contaminando mi santuario, y amancillando mi santo nombre. 
@@ -1088,7 +1108,8 @@
 \bibleverse{27} Y el hombre ó la mujer en quienes hubiere espíritu pithónico ó de adivinación, han de ser muertos: los apedrearán con piedras; su sangre sobre ellos. 
 
 ## Ordenanzas sobre contaminación por muerte, costumbres de duelo y obstáculos al matrimonio
-# 21 
+\hypertarget{section-03-21}{%
+\section{21}\label{section-03-21}}
 \bibleverse{1} Y Jehová dijo á Moisés: Habla á los sacerdotes hijos de Aarón, y diles que no se contaminen por un muerto en sus pueblos. 
 \bibleverse{2} Mas por su pariente cercano á sí, por su madre, ó por su padre, ó por su hijo, ó por su hermano, 
 \bibleverse{3} O por su hermana virgen, á él cercana, la cual no haya tenido marido, por ella se contaminará. 
@@ -1130,7 +1151,8 @@
 \bibleverse{24} Y Moisés habló esto á Aarón, y á sus hijos, y á todos los hijos de Israel. 
 
 ## Comportamiento hacia los dones sagrados
-# 22 
+\hypertarget{section-03-22}{%
+\section{22}\label{section-03-22}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Di á Aarón y á sus hijos, que se abstengan de las santificaciones de los hijos de Israel, y que no profanen mi santo nombre en lo que ellos me santifican: Yo Jehová.
 
@@ -1186,7 +1208,8 @@
 \bibleverse{33} Que os saqué de la tierra de Egipto, para ser vuestro Dios: Yo Jehová. 
 
 ## Leyes para la celebración del sábado y las fiestas del año
-# 23 
+\hypertarget{section-03-23}{%
+\section{23}\label{section-03-23}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, y diles: Las solemnidades de Jehová, las cuales proclamaréis santas convocaciones, aquestas serán mis solemnidades.
 
@@ -1264,7 +1287,8 @@
 \bibleverse{44} Así habló Moisés á los hijos de Israel sobre las solemnidades de Jehová. 
 
 ## Reglamento sobre la preparación del candelero santo y el pan de la proposición
-# 24 
+\hypertarget{section-03-24}{%
+\section{24}\label{section-03-24}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Manda á los hijos de Israel que te traigan aceite de olivas claro, molido, para la luminaria, para hacer arder las lámparas de continuo. 
 \bibleverse{3} Fuera del velo del testimonio, en el tabernáculo del testimonio, las aderezará Aarón desde la tarde hasta la mañana delante de Jehová, de continuo: estatuto perpetuo por vuestras edades. 
@@ -1299,7 +1323,8 @@
 \bibleverse{23} Y habló Moisés á los hijos de Israel, y ellos sacaron al blasfemo fuera del real, y apedreáronlo con piedras. Y los hijos de Israel hicieron según que Jehová había mandado á Moisés. 
 
 ## El año sabático
-# 25 
+\hypertarget{section-03-25}{%
+\section{25}\label{section-03-25}}
 \bibleverse{1} Y Jehová habló á Moisés en el monte de Sinaí, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, y diles: Cuando hubiereis entrado en la tierra que yo os doy, la tierra hará sábado á Jehová. 
 \bibleverse{3} Seis años sembrarás tu tierra, y seis años podarás tu viña, y cogerás sus frutos; 
@@ -1384,7 +1409,8 @@
 \bibleverse{55} Porque mis siervos son los hijos de Israel; son siervos míos, á los cuales saqué de la tierra de Egipto: Yo Jehová vuestro Dios. 
 
 ## Bendiciones y maldiciones dadas por Dios como opción
-# 26 
+\hypertarget{section-03-26}{%
+\section{26}\label{section-03-26}}
 \bibleverse{1} No haréis para vosotros ídolos, ni escultura, ni os levantaréis estatua, ni pondréis en vuestra tierra piedra pintada para inclinaros á ella: porque yo soy Jehová vuestro Dios.
 
  
@@ -1464,7 +1490,8 @@
 \bibleverse{46} Estos son los decretos, derechos y leyes que estableció Jehová entre sí y los hijos de Israel en el monte de Sinaí por mano de Moisés. 
 
 ## Votos y su solución
-# 27 
+\hypertarget{section-03-27}{%
+\section{27}\label{section-03-27}}
 \bibleverse{1} Y habló Jehová á Moisés, diciendo: 
 \bibleverse{2} Habla á los hijos de Israel, y diles: Cuando alguno hiciere especial voto á Jehová, según la estimación de las personas que se hayan de redimir, así será tu estimación: 
 \bibleverse{3} En cuanto al varón de veinte años hasta sesenta, tu estimación será cincuenta siclos de plata, según el siclo del santuario. 

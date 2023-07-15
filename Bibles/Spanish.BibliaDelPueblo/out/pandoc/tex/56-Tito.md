@@ -1,5 +1,6 @@
 ## Bendiciones
-# 1 
+\hypertarget{section-56-1}{%
+\section{1}\label{section-56-1}}
 \bibleverse{1} Pablo, siervo de Dios, y apóstol de Jesucristo, según la fe de los escogidos de Dios, y el conocimiento de la verdad que es según la piedad, 
 \bibleverse{2} Para la esperanza de la vida eterna, la cual Dios, que no puede mentir, prometió antes de los tiempos de los siglos, 
 \bibleverse{3} Y manifestó á sus tiempos su palabra por la predicación, que me es á mí encomendada por mandamiento de nuestro Salvador Dios; 
@@ -24,7 +25,8 @@
 \bibleverse{16} Profésanse conocer á Dios; mas con los hechos lo niegan, siendo abominables y rebeldes, reprobados para toda buena obra. 
 
 ## Regulaciones para las fincas individuales en la comunidad
-# 2 
+\hypertarget{section-56-2}{%
+\section{2}\label{section-56-2}}
 \bibleverse{1} Empero tú, habla lo que conviene á la sana doctrina: 
 \bibleverse{2} Que los viejos sean templados, graves, prudentes, sanos en la fe, en la caridad, en la paciencia. 
 \bibleverse{3} Las viejas, asimismo, se distingan en un porte santo; no calumniadoras, no dadas á mucho vino, maestras de honestidad: 
@@ -51,7 +53,8 @@
 \bibleverse{15} Esto habla y exhorta, y reprende con toda autoridad. Nadie te desprecie. 
 
 ## Sobre el comportamiento contra las autoridades paganas y los no cristianos y sobre el camino de los cristianos como pueblo renovado
-# 3 
+\hypertarget{section-56-3}{%
+\section{3}\label{section-56-3}}
 \bibleverse{1} Amonéstales que se sujeten á los príncipes y potestades, que obedezcan, que estén prontos á toda buena obra. 
 \bibleverse{2} Que á nadie infamen, que no sean pendencieros, sino modestos, mostrando toda mansedumbre para con todos los hombres. 
 \bibleverse{3} Porque también éramos nosotros necios en otro tiempo, rebeldes, extraviados, sirviendo á concupiscencias y deleites diversos, viviendo en malicia y en envidia, aborrecibles, aborreciendo los unos á los otros. 

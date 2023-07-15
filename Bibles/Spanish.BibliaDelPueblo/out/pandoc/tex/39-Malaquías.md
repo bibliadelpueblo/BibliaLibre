@@ -1,5 +1,6 @@
 ## El amor de Dios por Israel en contraste con su trato al pueblo hermano de Edom
-# 1 
+\hypertarget{section-39-1}{%
+\section{1}\label{section-39-1}}
 \bibleverse{1} Carga de la palabra de Jehová contra Israel, por mano de Malaquías.
 
  
@@ -31,7 +32,8 @@
 \bibleverse{14} Maldito el engañoso, que tiene macho en su rebaño, y promete, y sacrifica lo dañado á Jehová: porque yo soy Gran Rey, dice Jehová de los ejércitos, y mi nombre es formidable entre las gentes. 
 
 ## Advertencia y amenaza de castigo a los sacerdotes; Levi entonces y ahora
-# 2 
+\hypertarget{section-39-2}{%
+\section{2}\label{section-39-2}}
 \bibleverse{1} Ahora pues, oh sacerdotes, á vosotros es este mandamiento. 
 \bibleverse{2} Si no oyereis, y si no acordareis dar gloria á mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no lo ponéis en vuestro corazón. 
 \bibleverse{3} He aquí, yo os daño la sementera, y esparciré el estiércol sobre vuestros rostros, el estiércol de vuestras solemnidades, y con él seréis removidos. 
@@ -58,7 +60,8 @@
  
 \bibleverse{17} Habéis hecho cansar á Jehová con vuestras palabras. Y diréis: ¿En qué le hemos cansado? Cuando decís: Cualquiera que mal hace agrada á Jehová, y en los tales toma contentamiento: de otra manera, ¿dónde está el Dios de juicio? 
 
-# 3 
+\hypertarget{section-39-3}{%
+\section{3}\label{section-39-3}}
 \bibleverse{1} He aquí, yo envío mi mensajero, el cual preparará el camino delante de mí: y luego vendrá á su templo el Señor á quien vosotros buscáis, y el ángel del pacto, á quien deseáis vosotros. He aquí viene, ha dicho Jehová de los ejércitos. 
 \bibleverse{2} ¿Y quién podrá sufrir el tiempo de su venida? ó ¿quién podrá estar cuando él se mostrará? Porque él es como fuego purificador, y como jabón de lavadores. 
 \bibleverse{3} Y sentarse ha para afinar y limpiar la plata: porque limpiará los hijos de Leví, los afinará como á oro y como á plata; y ofrecerán á Jehová ofrenda con justicia. 
@@ -90,7 +93,8 @@
 \bibleverse{17} Y serán para mí especial tesoro, ha dicho Jehová de los ejércitos, en el día que yo tengo de hacer: y perdonarélos como el hombre que perdona á su hijo que le sirve. 
 \bibleverse{18} Entonces os tornaréis, y echaréis de ver la diferencia entre el justo y el malo, entre el que sirve á Dios y el que no le sirve. 
 
-# 4 
+\hypertarget{section-39-4}{%
+\section{4}\label{section-39-4}}
 \bibleverse{1} Porque he aquí, viene el día ardiente como un horno; y todos los soberbios, y todos los que hacen maldad, serán estopa; y aquel día que vendrá, los abrasará, ha dicho Jehová de los ejércitos, el cual no les dejará ni raíz ni rama. 
 \bibleverse{2} Mas á vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salud: y saldréis, y saltaréis como becerros de la manada. 
 \bibleverse{3} Y hollaréis á los malos, los cuales serán ceniza bajo las plantas de vuestros pies, en el día que yo hago, ha dicho Jehová de los ejércitos.

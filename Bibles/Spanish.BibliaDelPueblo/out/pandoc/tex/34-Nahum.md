@@ -1,5 +1,6 @@
 ## El Señor, Dios de venganza y gracia, aparece en el juicio de Nínive
-# 1 
+\hypertarget{section-34-1}{%
+\section{1}\label{section-34-1}}
 \bibleverse{1} Carga de Nínive. Libro de la visión de Nahum de El-kosh. 
 \bibleverse{2} Dios celoso y vengador es Jehová; vengador es Jehová, y Señor de ira; Jehová, que se venga de sus adversarios, y que guarda enojo para sus enemigos. 
 \bibleverse{3} Jehová es tardo para la ira, y grande en poder, y no tendrá al culpado por inocente. Jehová marcha entre la tempestad y turbión, y las nubes son el polvo de sus pies. 
@@ -24,7 +25,8 @@
 \bibleverse{15} He aquí sobre los montes los pies del que trae buenas nuevas, del que pregona la paz. Celebra, oh Judá, tus fiestas, cumple tus votos: porque nunca más pasará por ti el malvado; pereció del todo. 
 
 ## Asedio y destrucción de Nínive como resultado del juicio divino
-# 2 
+\hypertarget{section-34-2}{%
+\section{2}\label{section-34-2}}
 \bibleverse{1} Subió destruidor contra ti: guarda la fortaleza, mira el camino, fortifica los lomos, fortalece mucho la fuerza.
 
  
@@ -48,7 +50,8 @@
 \bibleverse{13} Heme aquí contra ti, dice Jehová de los ejércitos. Encenderé y reduciré á humo tus carros, y espada devorará tus leoncillos; y raeré de la tierra tu robo, y nunca más se oirá voz de tus embajadores. 
 
 ## Los pecados y el castigo de la cosmopolita ciudad de Nínive: un grito de aflicción y un cántico de burla
-# 3 
+\hypertarget{section-34-3}{%
+\section{3}\label{section-34-3}}
 \bibleverse{1} ¡Ay de la ciudad de sangres, toda llena de mentira y de rapiña, sin apartarse de ella el pillaje! 
 \bibleverse{2} Sonido de látigo, y estruendo de movimiento de ruedas; y caballo atropellador, y carro saltador; 
 \bibleverse{3} Caballero enhiesto, y resplandor de espada, y resplandor de lanza; y multitud de muertos, y multitud de cadáveres; y de sus cadáveres no habrá fin, y en sus cadáveres tropezarán: 

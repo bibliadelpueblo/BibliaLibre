@@ -1,5 +1,6 @@
 ## Contenido, fiabilidad y finalidad del mensaje apostólico de la palabra de vida
-# 1 
+\hypertarget{section-62-1}{%
+\section{1}\label{section-62-1}}
 \bibleverse{1} Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos mirado, y palparon nuestras manos tocante al Verbo de vida; 
 \bibleverse{2} (Porque la vida fué manifestada, y vimos, y testificamos, y os anunciamos aquella vida eterna, la cual estaba con el Padre, y nos ha aparecido;) 
 \bibleverse{3} Lo que hemos visto y oído, eso os anunciamos, para que también vosotros tengáis comunión con nosotros: y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo. 
@@ -15,7 +16,8 @@
 \bibleverse{10} Si dijéremos que no hemos pecado, lo hacemos á él mentiroso, y su palabra no está en nosotros. 
 
 ## El fruto del conocimiento de Dios se manifiesta al andar según los mandamientos divinos
-# 2 
+\hypertarget{section-62-2}{%
+\section{2}\label{section-62-2}}
 \bibleverse{1} Hijitos míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo; 
 \bibleverse{2} Y él es la propiciación por nuestros pecados: y no solamente por los nuestros, sino también por los de todo el mundo. 
 \bibleverse{3} Y en esto sabemos que nosotros le hemos conocido, si guardamos sus mandamientos. 
@@ -69,7 +71,8 @@
 \bibleverse{29} Si sabéis que él es justo, sabed también que cualquiera que hace justicia, es nacido de él. 
 
 ## Felicidad y esperanza de gloria para los hijos de Dios
-# 3 
+\hypertarget{section-62-3}{%
+\section{3}\label{section-62-3}}
 \bibleverse{1} Mirad cuál amor nos ha dado el Padre, que seamos llamados hijos de Dios: por esto el mundo no nos conoce, porque no le conoce á él. 
 \bibleverse{2} Muy amados, ahora somos hijos de Dios, y aun no se ha manifestado lo que hemos de ser; pero sabemos que cuando él apareciere, seremos semejantes á él, porque le veremos como él es. 
 \bibleverse{3} Y cualquiera que tiene esta esperanza en él, se purifica, como él también es limpio.
@@ -111,7 +114,8 @@
 \bibleverse{24} Y el que guarda sus mandamientos, está en él, y él en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado. 
 
 ## ¡Pon a prueba los espíritus! El espíritu de Dios le confiesa a Jesús como el Cristo que apareció en carne
-# 4 
+\hypertarget{section-62-4}{%
+\section{4}\label{section-62-4}}
 \bibleverse{1} Amados, no creáis á todo espíritu, sino probad los espíritus si son de Dios: porque muchos falsos profetas son salidos en el mundo. 
 \bibleverse{2} En esto conoced el Espíritu de Dios: todo espíritu que confiesa que Jesucristo es venido en carne es de Dios: 
 \bibleverse{3} Y todo espíritu que no confiesa que Jesucristo es venido en carne, no es de Dios: y éste es el espíritu del anticristo, del cual vosotros habéis oído que ha de venir, y que ahora ya está en el mundo. 
@@ -144,7 +148,8 @@
 \bibleverse{21} Y nosotros tenemos este mandamiento de él: Que el que ama á Dios, ame también á su hermano. 
 
 ## Fe y amor en su unión
-# 5 
+\hypertarget{section-62-5}{%
+\section{5}\label{section-62-5}}
 \bibleverse{1} Todo aquel que cree que Jesús es el Cristo, es nacido de Dios: y cualquiera que ama al que ha engendrado, ama también al que es nacido de él. 
 \bibleverse{2} En esto conocemos que amamos á los hijos de Dios, cuando amamos á Dios, y guardamos sus mandamientos. 
 \bibleverse{3} Porque este es el amor de Dios, que guardemos sus mandamientos; y sus mandamientos no son penosos. 

@@ -1,5 +1,6 @@
 ## Acceso de Salomón al gobierno; su ejército y su riqueza
-# 1 
+\hypertarget{section-14-1}{%
+\section{1}\label{section-14-1}}
 \bibleverse{1} Y Salomón hijo de David fué afirmado en su reino; y Jehová su Dios fué con él, y le engrandeció sobremanera.
 
  
@@ -33,7 +34,8 @@
 \bibleverse{17} Y subían, y sacaban de Egipto, un carro por seiscientas piezas de plata, y un caballo por ciento y cincuenta: y así se sacaban por medio de ellos para todos los reyes de los Hetheos, y para los reyes de Siria. 
 
 ## El tratado de Salomón con Hiram de Tiro; Preparativos para la construcción del templo
-# 2 
+\hypertarget{section-14-2}{%
+\section{2}\label{section-14-2}}
 \bibleverse{1} Determinó pues Salomón edificar casa al nombre de Jehová, y otra casa para su reino. 
 \bibleverse{2} Y contó Salomón setenta mil hombres que llevasen cargas, y ochenta mil hombres que cortasen en el monte, y tres mil y seiscientos que los gobernasen.
 
@@ -73,7 +75,8 @@
 \bibleverse{18} Y señaló de ellos setenta mil para llevar cargas, y ochenta mil que cortasen en el monte, y tres mil y seiscientos por sobrestantes para hacer trabajar al pueblo. 
 
 ## Inicio de la construcción del templo; los muebles del templo
-# 3 
+\hypertarget{section-14-3}{%
+\section{3}\label{section-14-3}}
 \bibleverse{1} Y comenzó Salomón á edificar la casa en Jerusalem, en el monte Moria que había sido mostrado á David su padre, en el lugar que David había preparado en la era de Ornán Jebuseo. 
 \bibleverse{2} Y comenzó á edificar en el mes segundo, á dos del mes, en el cuarto año de su reinado.
 
@@ -104,7 +107,8 @@
 \bibleverse{17} Y asentó las columnas delante del templo, la una á la mano derecha, y la otra á la izquierda; y á la de la mano derecha llamó Jachîn, y á la de la izquierda, Boaz. 
 
 ## Fabricación de implementos para el templo
-# 4 
+\hypertarget{section-14-4}{%
+\section{4}\label{section-14-4}}
 \bibleverse{1} Hizo además un altar de bronce de veinte codos de longitud, y veinte codos de anchura, y diez codos de altura. 
 \bibleverse{2} También hizo un mar de fundición, el cual tenía diez codos del un borde al otro, enteramente redondo: su altura era de cinco codos, y una línea de treinta codos lo ceñía alrededor. 
 \bibleverse{3} Y debajo de él había figuras de bueyes que lo circundaban, diez en cada codo todo alrededor: eran dos órdenes de bueyes fundidos juntamente con el mar. 
@@ -137,7 +141,8 @@
 \bibleverse{22} También los platillos, y las jofainas, y las cucharas, y los incensarios, de oro puro. Cuanto á la entrada de la casa, sus puertas interiores para el lugar santísimo, y las puertas de la casa del templo, de oro. 
 
 ## Los objetos de valor almacenados en las cámaras del tesoro
-# 5 
+\hypertarget{section-14-5}{%
+\section{5}\label{section-14-5}}
 \bibleverse{1} Y acabada que fué toda la obra que hizo Salomón para la casa de Jehová, metió Salomón en ella las cosas que David su padre había dedicado; y puso la plata, y el oro, y todos los vasos, en los tesoros de la casa de Dios.
 
 ## La transferencia del arca al lugar santísimo
@@ -160,7 +165,8 @@
 \bibleverse{14} Y no podían los sacerdotes estar para ministrar, por causa de la nube; porque la gloria de Jehová había henchido la casa de Dios. 
 
 ## El discurso de ordenación y consagración del rey al pueblo
-# 6 
+\hypertarget{section-14-6}{%
+\section{6}\label{section-14-6}}
 \bibleverse{1} Entonces dijo Salomón: Jehová ha dicho que él habitaría en la oscuridad. 
 \bibleverse{2} Yo pues he edificado una casa de morada para ti, y una habitación en que mores para siempre.
 
@@ -238,7 +244,8 @@
 \bibleverse{42} Jehová Dios, no hagas volver el rostro de tu ungido: acuérdate de las misericordias de David tu siervo. 
 
 ## Aparición de la gloria de Dios; Salomón y el pueblo fiesta solemne de sacrificios y asamblea de celebración
-# 7 
+\hypertarget{section-14-7}{%
+\section{7}\label{section-14-7}}
 \bibleverse{1} Y como Salomón acabó de orar, el fuego descendió de los cielos, y consumió el holocausto y las víctimas; y la gloria de Jehová hinchió la casa. 
 \bibleverse{2} Y no podían entrar los sacerdotes en la casa de Jehová, porque la gloria de Jehová había henchido la casa de Jehová. 
 \bibleverse{3} Y como vieron todos los hijos de Israel descender el fuego y la gloria de Jehová sobre la casa, cayeron en tierra sobre sus rostros en el pavimento, y adoraron, confesando á Jehová y diciendo: Que es bueno, que su misericordia es para siempre.
@@ -282,7 +289,8 @@
 \bibleverse{22} Y se responderá: Por cuanto dejaron á Jehová Dios de sus padres, el cual los sacó de la tierra de Egipto, y han abrazado dioses ajenos, y los adoraron y sirvieron: por eso él ha traído todo este mal sobre ellos. 
 
 ## Información sobre las ciudades y fortalezas de Salomón
-# 8 
+\hypertarget{section-14-8}{%
+\section{8}\label{section-14-8}}
 \bibleverse{1} Y aconteció que al cabo de veinte años que Salomón había edificado la casa de Jehová y su casa, 
 \bibleverse{2} Reedificó Salomón las ciudades que Hiram le había dado, y estableció en ellas á los hijos de Israel.
 
@@ -320,7 +328,8 @@
 \bibleverse{18} Porque Hiram le había enviado navíos por mano de sus siervos, y marineros diestros en la mar, los cuales fueron con los siervos de Salomón á Ophir, y tomaron de allá cuatrocientos y cincuenta talentos de oro, y los trajeron al rey Salomón. 
 
 ## Visita de la Reina de Saba
-# 9 
+\hypertarget{section-14-9}{%
+\section{9}\label{section-14-9}}
 \bibleverse{1} Y oyendo la reina de Seba la fama de Salomón, vino á Jerusalem con un muy grande séquito, con camellos cargados de aroma, y oro en abundancia, y piedras preciosas, para tentar á Salomón con preguntas difíciles. Y luego que vino á Salomón, habló con él todo lo que en su corazón tenía. 
 \bibleverse{2} Pero Salomón le declaró todas sus palabras: ninguna cosa quedó que Salomón no le declarase. 
 \bibleverse{3} Y viendo la reina de Seba la sabiduría de Salomón, y la casa que había edificado, 
@@ -369,7 +378,8 @@
 \bibleverse{31} Y durmió Salomón con sus padres, y sepultáronlo en la ciudad de David su padre: y reinó en su lugar Roboam su hijo. 
 
 ## Roboam y Jeroboam en Siquem; la división del imperio
-# 10 
+\hypertarget{section-14-10}{%
+\section{10}\label{section-14-10}}
 \bibleverse{1} Y Roboam fué á Sichêm porque en Sichêm se había juntado todo Israel para hacerlo rey. 
 \bibleverse{2} Y como lo oyó Jeroboam hijo de Nabat, el cual estaba en Egipto, donde había huído á causa del rey Salomón, volvió de Egipto. 
 \bibleverse{3} Y enviaron y llamáronle. Vino pues Jeroboam, y todo Israel, y hablaron á Roboam, diciendo: 
@@ -411,7 +421,8 @@
 \bibleverse{19} Así se apartó Israel de la casa de David hasta hoy. 
 
 ## Roboam se abstiene de la guerra contra Israel bajo la dirección de Dios
-# 11 
+\hypertarget{section-14-11}{%
+\section{11}\label{section-14-11}}
 \bibleverse{1} Y como vino Roboam á Jerusalem, juntó la casa de Judá y de Benjamín, ciento y ochenta mil hombres escogidos de guerra, para pelear contra Israel y volver el reino á Roboam. 
 \bibleverse{2} Mas fué palabra de Jehová á Semeías varón de Dios, diciendo: 
 \bibleverse{3} Habla á Roboam hijo de Salomón, rey de Judá, y á todos los Israelitas en Judá y Benjamín, diciéndoles: 
@@ -446,7 +457,8 @@
 \bibleverse{23} E hízole instruir, y esparció todos sus hijos por todas las tierras de Judá y de Benjamín, y por todas las ciudades fuertes, y dióles vituallas en abundancia, y pidió muchas mujeres. 
 
 ## Incursión y saqueo del rey egipcio Sisak; Aparición del profeta Semeías
-# 12 
+\hypertarget{section-14-12}{%
+\section{12}\label{section-14-12}}
 \bibleverse{1} Y como Roboam hubo confirmado el reino, dejó la ley de Jehová, y con él todo Israel. 
 \bibleverse{2} Y en el quinto año del rey Roboam subió Sisac rey de Egipto contra Jerusalem, (por cuanto se habían rebelado contra Jehová,) 
 \bibleverse{3} Con mil y doscientos carros, y con sesenta mil hombres de á caballo: mas el pueblo que venía con él de Egipto, no tenía número; á saber, de Libios, Sukienos, y Etiopes. 
@@ -476,7 +488,8 @@
 \bibleverse{16} Y durmió Roboam con sus padres, y fué sepultado en la ciudad de David: y reinó en su lugar Abías su hijo. 
 
 ## La guerra de Abias con Jeroboam; su discurso al ejército de Jeroboam
-# 13 
+\hypertarget{section-14-13}{%
+\section{13}\label{section-14-13}}
 \bibleverse{1} A los dieciocho años del rey Jeroboam, reinó Abías sobre Judá. 
 \bibleverse{2} Y reinó tres años en Jerusalem. El nombre de su madre fué Michâía hija de Uriel de Gabaa. Y hubo guerra entre Abías y Jeroboam. 
 \bibleverse{3} Entonces ordenó Abías batalla con un ejército de cuatrocientos mil hombres de guerra valerosos y escogidos: y Jeroboam ordenó batalla contra él con ochocientos mil hombres escogidos, fuertes y valerosos. 
@@ -513,7 +526,8 @@
 \bibleverse{22} Lo demás de los hechos de Abías, sus caminos y sus negocios, está escrito en la historia de Iddo profeta. 
 
 ## La intervención de Asa contra la idolatría
-# 14 
+\hypertarget{section-14-14}{%
+\section{14}\label{section-14-14}}
 \bibleverse{1} Y durmió Abías con sus padres, y fué sepultado en la ciudad de David. Y reinó en su lugar su hijo Asa, en cuyos días tuvo sosiego el país por diez años. 
 \bibleverse{2} E hizo Asa lo bueno y lo recto en los ojos de Jehová su Dios. 
 \bibleverse{3} Porque quitó los altares del culto ajeno, y los altos; quebró las imágenes, y taló los bosques; 
@@ -541,7 +555,8 @@
 \bibleverse{15} Asimismo dieron sobre las cabañas de los ganados, y trajeron muchas ovejas y camellos, y volviéronse á Jerusalem. 
 
 ## La amonestación del profeta Azarías
-# 15 
+\hypertarget{section-14-15}{%
+\section{15}\label{section-14-15}}
 \bibleverse{1} Y fué el espíritu de Dios sobre Azarías hijo de Obed; 
 \bibleverse{2} Y salió al encuentro á Asa, y díjole: Oidme, Asa, y todo Judá y Benjamín: Jehová es con vosotros, si vosotros fuereis con él: y si le buscareis, será hallado de vosotros; mas si le dejareis, él también os dejará. 
 \bibleverse{3} Muchos días ha estado Israel sin verdadero Dios y sin sacerdote, y sin enseñador y sin ley: 
@@ -570,7 +585,8 @@
  
 \bibleverse{19} Y no hubo guerra hasta los treinta y cinco años del reinado de Asa. 
 
-# 16 
+\hypertarget{section-14-16}{%
+\section{16}\label{section-14-16}}
 \bibleverse{1} En el año treinta y seis del reinado de Asa, subió Baasa rey de Israel contra Judá, y edificó á Rama, para no dejar salir ni entrar á ninguno al rey Asa, rey de Judá. 
 \bibleverse{2} Entonces sacó Asa la plata y el oro de los tesoros de la casa de Jehová y de la casa real, y envió á Ben-adad rey de Siria, que estaba en Damasco, diciendo: 
 \bibleverse{3} Haya alianza entre mí y ti, como la hubo entre mi padre y tu padre; he aquí yo te he enviado plata y oro, para que vengas y deshagas la alianza que tienes con Baasa rey de Israel, á fin de que se retire de mí.
@@ -597,7 +613,8 @@
 \bibleverse{14} Y sepultáronlo en sus sepulcros que él había hecho para sí en la ciudad de David; Y pusiéronlo en una litera, la cual hinchieron de aromas y diversas materias odoríferas, preparadas por obra de perfumadores; é hiciéronle una quema muy grande. 
 
 ## El gobierno piadoso y feliz de Josafat
-# 17 
+\hypertarget{section-14-17}{%
+\section{17}\label{section-14-17}}
 \bibleverse{1} Y reinó en su lugar Josaphat su hijo, el cual prevaleció contra Israel. 
 \bibleverse{2} Y puso ejército en todas las ciudades fuertes de Judá, y colocó gente de guarnición, en tierra de Judá, y asimismo en las ciudades de Ephraim que su padre Asa había tomado. 
 \bibleverse{3} Y fué Jehová con Josaphat, porque anduvo en los primeros caminos de David su padre, y no buscó á los Baales; 
@@ -625,7 +642,8 @@
 \bibleverse{19} Estos eran siervos del rey, sin los que había el rey puesto en las ciudades de guarnición por toda Judea. 
 
 ## Josafat y Acab unen fuerzas en una guerra contra los sirios
-# 18 
+\hypertarget{section-14-18}{%
+\section{18}\label{section-14-18}}
 \bibleverse{1} Tenía pues Josaphat riquezas y gloria en abundancia, y trabó parentesco con Achâb. 
 \bibleverse{2} Y después de algunos años descendió á Achâb á Samaria; por lo que mató Achâb muchas ovejas y bueyes para él, y para la gente que con él venía: y persuadióle que fuese con él á Ramoth de Galaad. 
 \bibleverse{3} Y dijo Achâb rey de Israel á Josaphat rey de Judá: ¿Quieres venir conmigo á Ramoth de Galaad? Y él respondió: Como yo, así también tú; y como tu pueblo, así también mi pueblo: iremos contigo á la guerra.
@@ -710,7 +728,8 @@
 \bibleverse{34} Y arreció la batalla aquel día, por lo que estuvo el rey de Israel en pie en el carro enfrente de los Siros hasta la tarde; mas murió á puestas del sol. 
 
 ## Discurso de castigo del profeta Jehú a Josafat
-# 19 
+\hypertarget{section-14-19}{%
+\section{19}\label{section-14-19}}
 \bibleverse{1} Y Josaphat rey de Judá se volvió en paz á su casa en Jerusalem. 
 \bibleverse{2} Y salióle al encuentro Jehú el vidente, hijo de Hanani, y dijo al rey Josaphat: ¿Al impío das ayuda, y amas á los que aborrecen á Jehová? Pues la ira de la presencia de Jehová será sobre ti por ello. 
 \bibleverse{3} Empero se han hallado en ti buenas cosas, porque cortaste de la tierra los bosques, y has apercibido tu corazón á buscar á Dios.
@@ -729,7 +748,8 @@
 \bibleverse{11} Y he aquí Amarías sacerdote será el que os presida en todo negocio de Jehová; y Zebadías hijo de Ismael, príncipe de la casa de Judá, en todos los negocios del rey; también los Levitas serán oficiales en presencia de vosotros. Esforzaos pues, y obrad; que Jehová será con el bueno. 
 
 ## La oración de Josafat después de que el enemigo invadió
-# 20 
+\hypertarget{section-14-20}{%
+\section{20}\label{section-14-20}}
 \bibleverse{1} Pasadas estas cosas, aconteció que los hijos de Moab y de Ammón, y con ellos otros de los Ammonitas, vinieron contra Josaphat á la guerra. 
 \bibleverse{2} Y acudieron, y dieron aviso á Josaphat, diciendo: Contra ti viene una grande multitud de la otra parte de la mar, y de la Siria; y he aquí ellos están en Hasasón-tamar, que es Engedi. 
 \bibleverse{3} Entonces él tuvo temor; y puso Josaphat su rostro para consultar á Jehová, é hizo pregonar ayuno á todo Judá. 
@@ -793,7 +813,8 @@
 \bibleverse{37} Entonces Eliezer hijo de Dodava de Mareosah, profetizó contra Josaphat, diciendo: Por cuanto has hecho compañía con Ochôzías, Jehová destruirá tus obras. Y los navíos se rompieron, y no pudieron ir á Tharsis. 
 
 ## El gobierno del rey Joram
-# 21 
+\hypertarget{section-14-21}{%
+\section{21}\label{section-14-21}}
 \bibleverse{1} Y durmió Josaphat con sus padres, y sepultáronlo con sus padres en la ciudad de David. Y reinó en su lugar Joram su hijo.
 
 ## Asesinato de sus hermanos
@@ -834,7 +855,8 @@
 \bibleverse{20} Cuando comenzó á reinar era de treinta y dos años, y reinó en Jerusalem ocho años; y fuése sin ser deseado. Y sepultáronlo en la ciudad de David, mas no en los sepulcros de los reyes. 
 
 ## El gobierno del rey Ochôzías; Su gobierno desaprobando a Dios
-# 22 
+\hypertarget{section-14-22}{%
+\section{22}\label{section-14-22}}
 \bibleverse{1} Y los moradores de Jerusalem hicieron rey en lugar suyo á Ochôzías su hijo menor: porque la tropa que había venido con los Arabes al campo, había muerto á todos los mayores; por lo cual reinó Ochôzías, hijo de Joram rey de Judá. 
 \bibleverse{2} Cuando Ochôzías comenzó á reinar era de cuarenta y dos años, y reinó un año en Jerusalem. El nombre de su madre fué Athalía, hija de Omri. 
 \bibleverse{3} También él anduvo en los caminos de la casa de Achâb: porque su madre le aconsejaba á obrar impíamente. 
@@ -857,7 +879,8 @@
 \bibleverse{12} Y estuvo con ellos escondido en la casa de Dios seis años. Entre tanto Athalía reinaba en el país. 
 
 ## La conspiración de Joiada
-# 23 
+\hypertarget{section-14-23}{%
+\section{23}\label{section-14-23}}
 \bibleverse{1} Mas el séptimo año se animó Joiada, y tomó consigo en alianza á los centuriones, Azarías hijo de Jeroam, y á Ismael hijo de Johanán, y á Azarías hijo de Obed, y á Maasías hijo de Adaías, y á Elisaphat hijo de Zichri; 
 \bibleverse{2} Los cuales rodeando por Judá, juntaron los Levitas de todas las ciudades de Judá, y á los príncipes de las familias de Israel, y vinieron á Jerusalem. 
 \bibleverse{3} Y toda la multitud hizo alianza con el rey en la casa de Dios. Y él les dijo: He aquí el hijo del rey, el cual reinará, como Jehová lo tiene dicho de los hijos de David. 
@@ -891,7 +914,8 @@
 \bibleverse{21} Y todo el pueblo del país hizo alegrías: y la ciudad estuvo quieta, muerto que hubieron á Athalía á cuchillo. 
 
 ## El gobierno del rey Joás
-# 24 
+\hypertarget{section-14-24}{%
+\section{24}\label{section-14-24}}
 \bibleverse{1} [De]{.smallcaps} siete años era Joas cuando comenzó á reinar, y cuarenta años reinó en Jerusalem. El nombre de su madre fué Sibia, de Beer-seba. 
 \bibleverse{2} E hizo Joas lo recto en ojos de Jehová todos los días de Joiada el sacerdote. 
 \bibleverse{3} Y tomó para él Joiada dos mujeres; y engendró hijos é hijas.
@@ -940,7 +964,8 @@
 \bibleverse{27} De sus hijos, y de la multiplicación que hizo de las rentas, y de la instauración de la casa de Jehová, he aquí está escrito en la historia del libro de los reyes. Y reinó en su lugar Amasías su hijo. 
 
 ## El gobierno del rey Amasías; Buen comienzo para el gobierno
-# 25 
+\hypertarget{section-14-25}{%
+\section{25}\label{section-14-25}}
 \bibleverse{1} [De]{.smallcaps} veinticinco años era Amasías cuando comenzó á reinar, y veintinueve años reinó en Jerusalem: el nombre de su madre fué Joaddan, de Jerusalem. 
 \bibleverse{2} Hizo él lo recto en los ojos de Jehová aunque no de perfecto corazón. 
 \bibleverse{3} Y luego que fué confirmado en el reino, mató á sus siervos que habían muerto al rey su padre; 
@@ -997,7 +1022,8 @@
 \bibleverse{28} Y trajéronlo en caballos, y sepultáronlo con sus padres en la ciudad de Judá. 
 
 ## El gobierno del rey Ussia; Buen comienzo para el gobierno; La felicidad de Ussia en la guerra y la paz
-# 26 
+\hypertarget{section-14-26}{%
+\section{26}\label{section-14-26}}
 \bibleverse{1} Entonces todo el pueblo de Judá tomó á Uzzías, el cual era de diez y seis años, y pusiéronlo por rey en lugar de Amasías su padre. 
 \bibleverse{2} Edificó él á Eloth, y la restituyó á Judá después que el rey durmió con sus padres. 
 \bibleverse{3} De diez y seis años era Uzzías cuando comenzó á reinar, y cincuenta y dos años reinó en Jerusalem. El nombre de su madre fué Jechôlía, de Jerusalem. 
@@ -1036,7 +1062,8 @@
 \bibleverse{23} Y durmió Uzzías con sus padres, y sepultáronlo con sus padres en el campo de los sepulcros reales; porque dijeron: Leproso es. Y reinó Joatham su hijo en lugar suyo. 
 
 ## El gobierno del rey Jotam; Gobierno bueno y feliz; Edificios y guerras exitosas
-# 27 
+\hypertarget{section-14-27}{%
+\section{27}\label{section-14-27}}
 \bibleverse{1} [De]{.smallcaps} veinticinco años era Joatham cuando comenzó á reinar, y dieciséis años reinó en Jerusalem. El nombre de su madre fué Jerusa, hija de Sadoc. 
 \bibleverse{2} E hizo lo recto en ojos de Jehová, conforme á todas las cosas que había hecho Uzzías su padre, salvo que no entró en el templo de Jehová. Y el pueblo falseaba aún. 
 \bibleverse{3} Edificó él la puerta mayor de la casa de Jehová, y en el muro de la fortaleza edificó mucho. 
@@ -1048,7 +1075,8 @@
 \bibleverse{9} Y durmió Joatham con sus padres, y sepultáronlo en la ciudad de David; y reinó en su lugar Achâz su hijo. 
 
 ## El reinado del rey Acaz; Las abominaciones paganas de Acaz
-# 28 
+\hypertarget{section-14-28}{%
+\section{28}\label{section-14-28}}
 \bibleverse{1} [De]{.smallcaps} veinte años era Achâz cuando comenzó á reinar, y dieciséis años reinó en Jerusalem: mas no hizo lo recto en ojos de Jehová, como David su padre. 
 \bibleverse{2} Antes anduvo en los caminos de los reyes de Israel, y además hizo imágenes de fundición á los Baales. 
 \bibleverse{3} Quemó también perfume en el valle de los hijos de Hinnom, y quemó sus hijos por fuego, conforme á las abominaciones de las gentes que Jehová había echado delante de los hijos de Israel. 
@@ -1094,7 +1122,8 @@
 \bibleverse{27} Y durmió Achâz con sus padres, y sepultáronlo en la ciudad de Jerusalem: mas no le metieron en los sepulcros de los reyes de Israel; y reinó en su lugar Ezechîas su hijo. 
 
 ## El gobierno del rey Ezechîas; Restauración del templo y adoración pura
-# 29 
+\hypertarget{section-14-29}{%
+\section{29}\label{section-14-29}}
 \bibleverse{1} Y EzechÎ[As]{.smallcaps} comenzó á reinar siendo de veinticinco años, y reinó veintinueve años en Jerusalem. El nombre de su madre fué Abía, hija de Zachârías. 
 \bibleverse{2} E hizo lo recto en ojos de Jehová, conforme á todas las cosas que había hecho David su padre.
 
@@ -1148,7 +1177,8 @@
 \bibleverse{36} Y alegróse Ezechîas, y todo el pueblo, de que Dios hubiese preparado el pueblo; porque la cosa fué prestamente hecha. 
 
 ## Celebración de la Pascua de Ezechîas
-# 30 
+\hypertarget{section-14-30}{%
+\section{30}\label{section-14-30}}
 \bibleverse{1} Envió también Ezechîas por todo Israel y Judá, y escribió letras á Ephraim y Manasés, que viniesen á Jerusalem á la casa de Jehová, para celebrar la pascua á Jehová Dios de Israel. 
 \bibleverse{2} Y había el rey tomado consejo con sus príncipes, y con toda la congregación en Jerusalem, para celebrar la pascua en el mes segundo: 
 \bibleverse{3} Porque entonces no la podían celebrar, por cuanto no había suficientes sacerdotes santificados, ni el pueblo estaba junto en Jerusalem. 
@@ -1190,7 +1220,8 @@
 \bibleverse{27} Levantándose después los sacerdotes y Levitas, bendijeron al pueblo: y la voz de ellos fué oída, y su oración llegó á la habitación de su santuario, al cielo. 
 
 ## Limpiando la tierra de la idolatría
-# 31 
+\hypertarget{section-14-31}{%
+\section{31}\label{section-14-31}}
 \bibleverse{1} Hechas todas estas cosas, todos los de Israel que se habían hallado allí, salieron por las ciudades de Judá, y quebraron las estatuas y destruyeron los bosques, y derribaron los altos y los altares por todo Judá y Benjamín, y también en Ephraim y Manasés, hasta acabarlo todo. Después volviéronse todos los hijos de Israel, cada uno á su posesión y á sus ciudades.
 
 ## Cuidado exitoso de los ingresos de los sacerdotes y levitas
@@ -1226,7 +1257,8 @@
 \bibleverse{21} En todo cuanto comenzó en el servicio de la casa de Dios, y en la ley y mandamientos, buscó á su Dios, é hízolo de todo corazón, y fué prosperado. 
 
 ## La incursión de Senaquerib y el resto de Ezechîas
-# 32 
+\hypertarget{section-14-32}{%
+\section{32}\label{section-14-32}}
 \bibleverse{1} Después de estas cosas y de esta fidelidad, vino Sennachêrib rey de los Asirios, entró en Judá, y asentó campo contra las ciudades fuertes, y determinó de entrar en ellas. 
 \bibleverse{2} Viendo pues Ezechîas la venida de Sennachêrib, y su aspecto de combatir á Jerusalem, 
 \bibleverse{3} Tuvo su consejo con sus príncipes y con sus valerosos, sobre cegar las fuentes de las aguas que estaban fuera de la ciudad; y ellos le apoyaron. 
@@ -1286,7 +1318,8 @@
 \bibleverse{33} Y durmió Ezechîas con sus padres, y sepultáronlo en los más insignes sepulcros de los hijos de David, honrándole en su muerte todo Judá y los de Jerusalem: y reinó en su lugar Manasés su hijo. 
 
 ## Manasés rey de Judá; Idolatría manasés
-# 33 
+\hypertarget{section-14-33}{%
+\section{33}\label{section-14-33}}
 \bibleverse{1} De doce años era Manasés cuando comenzó á reinar, y cincuenta y cinco años reinó en Jerusalem. 
 \bibleverse{2} Mas hizo lo malo en ojos de Jehová, conforme á las abominaciones de las gentes que había echado Jehová delante de los hijos de Israel: 
 \bibleverse{3} Porque él reedificó los altos que Ezechîas su padre había derribado, y levantó altares á los Baales, é hizo bosques, y adoró á todo el ejército de los cielos, y á él sirvió. 
@@ -1328,7 +1361,8 @@
 \bibleverse{24} Mas el pueblo de la tierra hirió á todos los que habían conspirado contra el rey Amón; y el pueblo de la tierra puso por rey en su lugar á Josías su hijo. 
 
 ## El gobierno del rey Josías
-# 34 
+\hypertarget{section-14-34}{%
+\section{34}\label{section-14-34}}
 \bibleverse{1} [De]{.smallcaps} ocho años era Josías cuando comenzó á reinar, y treinta y un años reinó en Jerusalem. 
 \bibleverse{2} Este hizo lo recto en ojos de Jehová, y anduvo en los caminos de David su padre, sin apartarse á la diestra ni á la siniestra.
 
@@ -1385,7 +1419,8 @@
 \bibleverse{33} Y quitó Josías todas las abominaciones de todas las tierras de los hijos de Israel, é hizo á todos los que se hallaron en Israel que sirviesen á Jehová su Dios. No se apartaron de en pos de Jehová el Dios de sus padres, todo el tiempo que él vivió. 
 
 ## La estricta celebración de la Pascua de Josías
-# 35 
+\hypertarget{section-14-35}{%
+\section{35}\label{section-14-35}}
 \bibleverse{1} Y Josías hizo pascua á Jehová en Jerusalem, y sacrificaron la pascua á los catorce del mes primero. 
 \bibleverse{2} Y puso á los sacerdotes en sus empleos, y confirmólos en el ministerio de la casa de Jehová. 
 \bibleverse{3} Y dijo á los Levitas que enseñaban á todo Israel, y que estaban dedicados á Jehová: Poned el arca del santuario en la casa que edificó Salomón hijo de David, rey de Israel, para que no la carguéis más sobre los hombros. Ahora serviréis á Jehová vuestro Dios, y á su pueblo Israel. 
@@ -1428,7 +1463,8 @@
 \bibleverse{27} Y sus hechos, primeros y postreros, he aquí está escrito en el libro de los reyes de Israel y de Judá. 
 
 ## Joachâz rey de Judá
-# 36 
+\hypertarget{section-14-36}{%
+\section{36}\label{section-14-36}}
 \bibleverse{1} Entonces el pueblo de la tierra tomó á Joachâz hijo de Josías, é hiciéronle rey en lugar de su padre en Jerusalem. 
 \bibleverse{2} De veinte y tres años era Joachâz cuando comenzó á reinar, y tres meses reinó en Jerusalem. 
 \bibleverse{3} Y el rey de Egipto lo quitó de Jerusalem, y condenó la tierra en cien talentos de plata y uno de oro.

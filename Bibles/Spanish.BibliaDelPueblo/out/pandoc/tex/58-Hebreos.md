@@ -1,5 +1,6 @@
 ## La soberanía única del Hijo de Dios sobre los mensajeros de Dios del Antiguo Testamento
-# 1 
+\hypertarget{section-58-1}{%
+\section{1}\label{section-58-1}}
 \bibleverse{1} Dios, habiendo hablado muchas veces y en muchas maneras en otro tiempo á los padres por los profetas, 
 \bibleverse{2} En estos postreros días nos ha hablado por el Hijo, al cual constituyó heredero de todo, por el cual asimismo hizo el universo: 
 \bibleverse{3} El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas, 
@@ -29,7 +30,8 @@
 \bibleverse{14} ¿No son todos espíritus administradores, enviados para servicio á favor de los que serán herederos de salud? 
 
 ## De ahí surge la obligación de que obedezcamos voluntariamente las palabras que nos ha dicho este Hijo
-# 2 
+\hypertarget{section-58-2}{%
+\section{2}\label{section-58-2}}
 \bibleverse{1} Por tanto, es menester que con más diligencia atendamos á las cosas que hemos oído, porque acaso no nos escurramos. 
 \bibleverse{2} Porque si la palabra dicha por los ángeles fué firme, y toda rebelión y desobediencia recibió justa paga de retribución, 
 \bibleverse{3} ¿Cómo escaparemos nosotros, si tuviéremos en poco una salud tan grande? La cual, habiendo comenzado á ser publicada por el Señor, ha sido confirmada hasta nosotros por los que oyeron; 
@@ -63,7 +65,8 @@
 \bibleverse{18} Porque en cuanto él mismo padeció siendo tentado, es poderoso para socorrer á los que son tentados. 
 
 ## El Hijo de Dios Jesús en su majestad sobre el ministro de Dios Moisés
-# 3 
+\hypertarget{section-58-3}{%
+\section{3}\label{section-58-3}}
 \bibleverse{1} Por tanto, hermanos santos, participantes de la vocación celestial, considerad al Apóstol y Pontífice de nuestra profesión, Cristo Jesús; 
 \bibleverse{2} El cual es fiel al que le constituyó, como también lo fué Moisés sobre toda su casa. 
 \bibleverse{3} Porque de tanto mayor gloria que Moisés éste es estimado digno, cuanto tiene mayor dignidad que la casa el que la fabricó. 
@@ -95,7 +98,8 @@
 \bibleverse{19} Y vemos que no pudieron entrar á causa de incredulidad. 
 
 ## Interpretación de la promesa del salmo sobre el resto del pueblo de Dios
-# 4 
+\hypertarget{section-58-4}{%
+\section{4}\label{section-58-4}}
 \bibleverse{1} Temamos, pues, que quedando aún la promesa de entrar en su reposo, parezca alguno de vosotros haberse apartado. 
 \bibleverse{2} Porque también á nosotros se nos ha evangelizado como á ellos; mas no les aprovechó el oir la palabra á los que la oyeron sin mezclar fe. 
 \bibleverse{3} Empero entramos en el reposo los que hemos creído, de la manera que dijo: Como juré en mi ira, no entrarán en mi reposo: aun acabadas las obras desde el principio del mundo. 
@@ -124,7 +128,8 @@
 \bibleverse{16} Lleguémonos pues confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro. 
 
 ## Con Cristo se encuentran los requisitos necesarios del sumo sacerdote sugeridos en Melquisedec
-# 5 
+\hypertarget{section-58-5}{%
+\section{5}\label{section-58-5}}
 \bibleverse{1} Porque todo pontífice, tomado de entre los hombres, es constituído á favor de los hombres en lo que á Dios toca, para que ofrezca presentes y sacrificios por los pecados: 
 \bibleverse{2} Que se pueda compadecer de los ignorantes y extraviados, pues que él también está rodeado de flaqueza; 
 \bibleverse{3} Y por causa de ella debe, como por sí mismo, así también por el pueblo, ofrecer por los pecados. 
@@ -148,7 +153,8 @@
 \bibleverse{14} Mas la vianda firme es para los perfectos, para los que por la costumbre tienen los sentidos ejercitados en el discernimiento del bien y del mal. 
 
 ## Es una cuestión de progreso; La recaída es peligrosa y puede provocar daños incurables
-# 6 
+\hypertarget{section-58-6}{%
+\section{6}\label{section-58-6}}
 \bibleverse{1} Por tanto, dejando la palabra del comienzo en la doctrina de Cristo, vamos adelante á la perfección; no echando otra vez el fundamento del arrepentimiento de obras muertas, y de la fe en Dios, 
 \bibleverse{2} De la doctrina de bautismos, y de la imposición de manos, y de la resurrección de los muertos, y del juicio eterno. 
 \bibleverse{3} Y esto haremos á la verdad, si Dios lo permitiere. 
@@ -177,7 +183,8 @@
 \bibleverse{20} Donde entró por nosotros como precursor Jesús, hecho Pontífice eternalmente según el orden de Melchîsedec. 
 
 ## Jesús, el sumo sacerdote perfecto para siempre según el orden de Melquisedec
-# 7 
+\hypertarget{section-58-7}{%
+\section{7}\label{section-58-7}}
 \bibleverse{1} Porque este Melchîsedec, rey de Salem, sacerdote del Dios Altísimo, el cual salió á recibir á Abraham que volvía de la derrota de los reyes, y le bendijo, 
 \bibleverse{2} Al cual asimismo dió Abraham los diezmos de todo, primeramente él se interpreta Rey de justicia; y luego también Rey de Salem, que es, Rey de paz; 
 \bibleverse{3} Sin padre, sin madre, sin linaje; que ni tiene principio de días, ni fin de vida, mas hecho semejante al Hijo de Dios, permanece sacerdote para siempre.
@@ -224,7 +231,8 @@
 \bibleverse{28} Porque la ley constituye sacerdotes á hombres flacos; mas la palabra del juramento, después de la ley, constituye al Hijo, hecho perfecto para siempre. 
 
 ## La superioridad del ministerio sumo sacerdotal celestial de Jesús y el nuevo pacto del que él es mediador
-# 8 
+\hypertarget{section-58-8}{%
+\section{8}\label{section-58-8}}
 \bibleverse{1} Así que, la suma acerca de lo dicho es: Tenemos tal pontífice que se asentó á la diestra del trono de la Majestad en los cielos; 
 \bibleverse{2} Ministro del santuario, y de aquel verdadero tabernáculo que el Señor asentó, y no hombre. 
 \bibleverse{3} Porque todo pontífice es puesto para ofrecer presentes y sacrificios; por lo cual es necesario que también éste tuviese algo que ofrecer. 
@@ -244,7 +252,8 @@
 \bibleverse{13} Diciendo, Nuevo pacto, dió por viejo al primero; y lo que es dado por viejo y se envejece, cerca está de desvanecerse. 
 
 ## La imperfección del ministerio sacerdotal levítico y la perfección (o superioridad) del ministerio sumo sacerdotal de Cristo
-# 9 
+\hypertarget{section-58-9}{%
+\section{9}\label{section-58-9}}
 \bibleverse{1} Tenía empero también el primer pacto reglamentos del culto, y santuario mundano. 
 \bibleverse{2} Porque el tabernáculo fué hecho: el primero, en que estaban las lámparas, y la mesa, y los panes de la proposición; lo que llaman el Santuario. 
 \bibleverse{3} Tras el segundo velo estaba el tabernáculo, que llaman el Lugar Santísimo; 
@@ -287,7 +296,8 @@
 \bibleverse{28} Así también Cristo fué ofrecido una vez para agotar los pecados de muchos; y la segunda vez, sin pecado, será visto de los que le esperan para salud. 
 
 ## El ejemplo sombrío y la insuficiencia del sacrificio anual de reconciliación del sumo sacerdote levítico; la perfección del sacrificio de Jesús
-# 10 
+\hypertarget{section-58-10}{%
+\section{10}\label{section-58-10}}
 \bibleverse{1} Porque la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que ofrecen continuamente cada año, hacer perfectos á los que se allegan. 
 \bibleverse{2} De otra manera cesarían de ofrecerse; porque los que tributan este culto, limpios de una vez, no tendrían más conciencia de pecado. 
 \bibleverse{3} Empero en estos sacrificios cada año se hace conmemoración de los pecados. 
@@ -354,7 +364,8 @@
  
 \bibleverse{39} Pero nosotros no somos tales que nos retiremos para perdición, sino fieles para ganancia del alma. 
 
-# 11 
+\hypertarget{section-58-11}{%
+\section{11}\label{section-58-11}}
 \bibleverse{1} Es pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven.
 
 ## Modelos del Antiguo Testamento de tal fe
@@ -438,7 +449,8 @@
 \bibleverse{40} Proveyendo Dios alguna cosa mejor para nosotros, para que no fuesen perfeccionados sin nosotros. 
 
 ## Exhortación a mantener la fidelidad, especialmente con respecto al ejemplo de Jesús
-# 12 
+\hypertarget{section-58-12}{%
+\section{12}\label{section-58-12}}
 \bibleverse{1} Por tanto nosotros también, teniendo en derredor nuestro una tan grande nube de testigos, dejando todo el peso del pecado que nos rodea, corramos con paciencia la carrera que nos es propuesta, 
 \bibleverse{2} Puestos los ojos en al autor y consumador de la fe, en Jesús; el cual, habiéndole sido propuesto gozo, sufrió la cruz, menospreciando la vergüenza, y sentóse á la diestra del trono de Dios.
 
@@ -490,7 +502,8 @@
 \bibleverse{29} Porque nuestro Dios es fuego consumidor. 
 
 ## Advertencias individuales por el amor fraterno, la pureza moral y la promoción de la vida comunitaria
-# 13 
+\hypertarget{section-58-13}{%
+\section{13}\label{section-58-13}}
 \bibleverse{1} Permanezca el amor fraternal. 
 \bibleverse{2} No olvidéis la hospitalidad, porque por ésta algunos, sin saberlo, hospedaron ángeles. 
 \bibleverse{3} Acordaos de los presos, como presos juntamente con ellos; y de los afligidos, como que también vosotros mismos sois del cuerpo. 

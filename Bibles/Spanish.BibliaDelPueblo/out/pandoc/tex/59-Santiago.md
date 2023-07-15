@@ -1,5 +1,6 @@
 ## Salutaciones y Bendiciones
-# 1 
+\hypertarget{section-59-1}{%
+\section{1}\label{section-59-1}}
 \bibleverse{1} Jacobo, siervo de Dios y del Señor Jesucristo, á las doce tribus que están esparcidas, salud.
 
 ## Comportamiento correcto en las tentaciones; Recordatorio de la disposición correcta
@@ -51,7 +52,8 @@
 \bibleverse{27} La religión pura y sin mácula delante de Dios y Padre es esta: Visitar los huérfanos y las viudas en sus tribulaciones, y guardarse sin mancha de este mundo. 
 
 ## Cuidado con la reputación de la persona, especialmente de los pobres
-# 2 
+\hypertarget{section-59-2}{%
+\section{2}\label{section-59-2}}
 \bibleverse{1} Hermanos míos, no tengáis la fe de nuestro Señor Jesucristo glorioso en acepción de personas. 
 \bibleverse{2} Porque si en vuestra congregación entra un hombre con anillo de oro, y de preciosa ropa, y también entra un pobre con vestidura vil, 
 \bibleverse{3} Y tuviereis respeto al que trae la vestidura preciosa, y le dijereis: Siéntate tú aquí en buen lugar: y dijereis al pobre: Estáte tú allí en pie; ó siéntate aquí debajo de mi estrado: 
@@ -91,7 +93,8 @@
 \bibleverse{26} Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras es muerta. 
 
 ## Advertencia contra las prisas no solicitadas para enseñar y contra los pecados de la lengua
-# 3 
+\hypertarget{section-59-3}{%
+\section{3}\label{section-59-3}}
 \bibleverse{1} Hermanos míos, no os hagáis muchos maestros, sabiendo que recibiremos mayor condenación. 
 \bibleverse{2} Porque todos ofendemos en muchas cosas. Si alguno no ofende en palabra, éste es varón perfecto, que también puede con freno gobernar todo el cuerpo. 
 \bibleverse{3} He aquí nosotros ponemos frenos en las bocas de los caballos para que nos obedezcan, y gobernamos todo su cuerpo. 
@@ -115,7 +118,8 @@
 \bibleverse{18} Y el fruto de justicia se siembra en paz para aquellos que hacen paz. 
 
 ## Advertencias contra la contienda, la insatisfacción y el cosmopolitismo, contra el abuso y el juicio descuidado
-# 4 
+\hypertarget{section-59-4}{%
+\section{4}\label{section-59-4}}
 \bibleverse{1} ¿De dónde vienen las guerras y los pleitos entre vosotros? ¿No son de vuestras concupiscencias, las cuales combaten en vuestros miembros? 
 \bibleverse{2} Codiciáis, y no tenéis; matáis y ardéis de envidia, y no podéis alcanzar; combatís y guerreáis, y no tenéis lo que deseáis, porque no pedís. 
 \bibleverse{3} Pedís, y no recibís, porque pedís mal, para gastar en vuestros deleites. 
@@ -140,7 +144,8 @@
 \bibleverse{17} El pecado, pues, está en aquel que sabe hacer lo bueno, y no lo hace. 
 
 ## Anuncio del juicio inminente a los exuberantes ricos y los siervos de Mammon que se olvidan de Dios
-# 5 
+\hypertarget{section-59-5}{%
+\section{5}\label{section-59-5}}
 \bibleverse{1} Ea ya ahora, oh ricos, llorad aullando por vuestras miserias que os vendrán. 
 \bibleverse{2} Vuestras riquezas están podridas: vuestras ropas están comidas de polilla. 
 \bibleverse{3} Vuestro oro y plata están corrompidos de orín; y su orín os será en testimonio, y comerá del todo vuestras carnes como fuego. Os habéis allegado tesoro para en los postreros días. 

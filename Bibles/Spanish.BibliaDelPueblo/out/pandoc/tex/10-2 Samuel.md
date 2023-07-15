@@ -1,5 +1,6 @@
 ## La queja de David por Saúl y Jonatán ante la noticia de sus muertes
-# 1 
+\hypertarget{section-10-1}{%
+\section{1}\label{section-10-1}}
 \bibleverse{1} Y aconteció después de la muerte de Saúl, que vuelto David de la derrota de los Amalecitas, estuvo dos días en Siclag: 
 \bibleverse{2} Y al tercer día acaeció, que vino uno del campo de Saúl, rotos sus vestidos, y tierra sobre su cabeza: y llegando á David, postróse en tierra, é hizo reverencia.
 
@@ -48,7 +49,8 @@
 \bibleverse{27} ¡Cómo han caído los valientes, y perecieron las armas de guerra! 
 
 ## David llega a ser rey sobre la tribu de Judá, Isboseth sobre Israel
-# 2 
+\hypertarget{section-10-2}{%
+\section{2}\label{section-10-2}}
 \bibleverse{1} Después de esto aconteció que David consultó á Jehová, diciendo: ¿Subiré á alguna de las ciudades de Judá? Y Jehová le respondió: Sube. Y David tornó á decir: ¿A dónde subiré? Y él le dijo: A Hebrón.
 
  
@@ -109,7 +111,8 @@
 \bibleverse{31} Mas los siervos de David hirieron de los de Benjamín y de los de Abner, trescientos y sesenta hombres, que murieron. Tomaron luego á Asael, y sepultáronlo en el sepulcro de su padre en Beth-lehem. 
 \bibleverse{32} Y caminaron toda aquella noche Joab y los suyos, y amanecióles en Hebrón. 
 
-# 3 
+\hypertarget{section-10-3}{%
+\section{3}\label{section-10-3}}
 \bibleverse{1} Y hubo larga guerra entre la casa de Saúl y la casa de David; mas David se iba fortificando, y la casa de Saúl iba en disminución.
 
 ## La familia de David en Hebrón
@@ -190,7 +193,8 @@
 \bibleverse{39} Que yo ahora aun soy tierno rey ungido; y estos hombres, los hijos de Sarvia, muy duros me son: Jehová dé el pago al que mal hace, conforme á su malicia. 
 
 ## Asesinato de Isboseth; Coronación de David como Rey de todo Israel
-# 4 
+\hypertarget{section-10-4}{%
+\section{4}\label{section-10-4}}
 \bibleverse{1} Luego que oyó el hijo de Saúl que Abner había sido muerto en Hebrón, las manos se le descoyuntaron, y fué atemorizado todo Israel. 
 \bibleverse{2} Y tenía el hijo de Saúl dos varones, los cuales eran capitanes de compañía, el nombre de uno era Baana, y el del otro Rechâb, hijos de Rimmón Beerothita, de los hijos de Benjamín: (porque Beeroth era contada con Benjamín; 
 \bibleverse{3} Estos Beerothitas se habían huído á Gittaim, y habían sido peregrinos allí hasta entonces.)
@@ -214,7 +218,8 @@
 \bibleverse{12} Entonces David mandó á los mancebos, y ellos los mataron, y cortáronles las manos y los pies, y colgáronlos sobre el estanque, en Hebrón. Luego tomaron la cabeza de Is-boseth, y enterráronla en el sepulcro de Abner en Hebrón. 
 
 ## David ungido rey por todos los israelitas en Hebrón
-# 5 
+\hypertarget{section-10-5}{%
+\section{5}\label{section-10-5}}
 \bibleverse{1} Y vinieron todas las tribus de Israel á David en Hebrón, y hablaron, diciendo: He aquí nosotros somos tus huesos y tu carne. 
 \bibleverse{2} Y aun ayer y antes, cuando Saúl reinaba sobre nosotros, tú sacabas y volvías á Israel. Además Jehová te ha dicho: Tú apacentarás á mi pueblo Israel, y tú serás sobre Israel príncipe. 
 \bibleverse{3} Vinieron pues todos los ancianos de Israel al rey en Hebrón, y el rey David hizo con ellos alianza en Hebrón delante de Jehová; y ungieron á David por rey sobre Israel.
@@ -263,7 +268,8 @@
 \bibleverse{25} Y David lo hizo así, como Jehová se lo había mandado; é hirió á los Filisteos desde Gabaa hasta llegar á Gaza. 
 
 ## Traslado del arca a Sion en Jerusalén; Fracaso del primer intento
-# 6 
+\hypertarget{section-10-6}{%
+\section{6}\label{section-10-6}}
 \bibleverse{1} Y David tornó á juntar todos los escogidos de Israel, treinta mil. 
 \bibleverse{2} Y levantóse David, y fué con todo el pueblo que tenía consigo, de Baal de Judá, para hacer pasar de allí el arca de Dios, sobre la cual era invocado el nombre de Jehová de los ejércitos, que mora en ella entre los querubines. 
 \bibleverse{3} Y pusieron el arca de Dios sobre un carro nuevo, y lleváronla de la casa de Abinadab, que estaba en Gabaa: y Uzza y Ahio, hijos de Abinadab, guiaban el carro nuevo. 
@@ -305,7 +311,8 @@
 \bibleverse{23} Y Michâl hija de Saúl nunca tuvo hijos hasta el día de su muerte. 
 
 ## Natán aprueba el plan de David para construir el templo
-# 7 
+\hypertarget{section-10-7}{%
+\section{7}\label{section-10-7}}
 \bibleverse{1} Y aconteció que, estando ya el rey asentado en su casa, después que Jehová le había dado reposo de todos sus enemigos en derredor, 
 \bibleverse{2} Dijo el rey al profeta Nathán: Mira ahora, yo moro en edificios de cedro, y el arca de Dios está entre cortinas.
 
@@ -354,7 +361,8 @@
 \bibleverse{29} Tenlo pues ahora á bien, y bendice la casa de tu siervo, para que perpetuamente permanezca delante de ti: pues que tú, Jehová Dios, lo has dicho, y con tu bendición será bendita la casa de tu siervo para siempre. 
 
 ## Las victorias de David sobre los filisteos, moabitas y sirios
-# 8 
+\hypertarget{section-10-8}{%
+\section{8}\label{section-10-8}}
 \bibleverse{1} Después de esto aconteció, que David hirió á los Filisteos, y los humilló: y tomó David á Methegamma de mano de los Filisteos. 
 \bibleverse{2} Hirió también á los de Moab, y midiólos con cordel, haciéndolos echar por tierra; y midió con dos cordeles para muerte, y un cordel entero para vida; y fueron los Moabitas siervos debajo de tributo.
 
@@ -388,7 +396,8 @@
 \bibleverse{18} Y Benahía hijo de Joiada, era sobre los Ceretheos y Peletheos; y los hijos de David eran los príncipes. 
 
 ## La generosidad de David hacia el hijo de Jonatán, Mefiboset
-# 9 
+\hypertarget{section-10-9}{%
+\section{9}\label{section-10-9}}
 \bibleverse{1} Y dijo David: ¿Ha quedado alguno de la casa de Saúl, á quien haga yo misericordia por amor de Jonathán? 
 \bibleverse{2} Y había un siervo de la casa de Saúl, que se llamaba Siba, al cual como llamaron que viniese á David, el rey le dijo: ¿Eres tú Siba? Y él respondió: Tu siervo.
 
@@ -419,7 +428,8 @@
 \bibleverse{13} Y moraba Mephi-boseth en Jerusalem, porque comía siempre á la mesa del rey: y era cojo de ambos pies. 
 
 ## El vergonzoso crimen de los amonitas contra el mensajero de David
-# 10 
+\hypertarget{section-10-10}{%
+\section{10}\label{section-10-10}}
 \bibleverse{1} Después de esto aconteció, que murió el rey de los hijos de Ammón: y reinó en lugar suyo Hanún su hijo. 
 \bibleverse{2} Y dijo David: Yo haré misericordia con Hanún hijo de Naas, como su padre la hizo conmigo. Y envió David sus siervos á consolarlo por su padre. Mas llegados los siervos de David á la tierra de los hijos de Ammón,
 
@@ -451,7 +461,8 @@
 \bibleverse{19} Viendo pues todos los reyes que asistían á Hadad-ezer, como habían ellos sido derrotados delante de Israel, hicieron paz con Israel, y sirviéronle; y de allí adelante temieron los Siros de socorrer á los hijos de Ammón. 
 
 ## El adulterio de David con Betsabé
-# 11 
+\hypertarget{section-10-11}{%
+\section{11}\label{section-10-11}}
 \bibleverse{1} Y aconteció á la vuelta de un año, en el tiempo que salen los reyes á la guerra, que David envió á Joab, y á sus siervos con él, y á todo Israel; y destruyeron á los Ammonitas, y pusieron cerco á Rabba: mas David se quedó en Jerusalem. 
 \bibleverse{2} Y acaeció que levantándose David de su cama á la hora de la tarde, paseábase por el terrado de la casa real, cuando vió desde el terrado una mujer que se estaba lavando, la cual era muy hermosa. 
 \bibleverse{3} Y envió David á preguntar por aquella mujer, y dijéronle: Aquella es Bath-sheba hija de Eliam, mujer de Uría Hetheo.
@@ -502,7 +513,8 @@
 \bibleverse{27} Y pasado el luto, envió David y recogióla á su casa: y fué ella su mujer, y parióle un hijo. Mas esto que David había hecho, fué desagradable á los ojos de Jehová. 
 
 ## El discurso de Nathan y el anuncio de la perdición; La confesión de culpa y arrepentimiento de David
-# 12 
+\hypertarget{section-10-12}{%
+\section{12}\label{section-10-12}}
 \bibleverse{1} Y envió Jehová á Nathán á David, el cual viniendo á él, díjole: Había dos hombres en una ciudad, el uno rico, y el otro pobre. 
 \bibleverse{2} El rico tenía numerosas ovejas y vacas: 
 \bibleverse{3} Mas el pobre no tenía más que una sola cordera, que él había comprado y criado, y que había crecido con él y con sus hijos juntamente, comiendo de su bocado, y bebiendo de su vaso, y durmiendo en su seno: y teníala como á una hija. 
@@ -564,7 +576,8 @@
 \bibleverse{31} Sacó además el pueblo que estaba en ella, y púsolo debajo de sierras, y de trillos de hierro, y de hachas de hierro; é hízolos pasar por hornos de ladrillos: y lo mismo hizo á todas las ciudades de los hijos de Ammón. Volvióse luego David con todo el pueblo á Jerusalem. 
 
 ## El amor apasionado de Amnón; su indignación hacia su media hermana Thamar
-# 13 
+\hypertarget{section-10-13}{%
+\section{13}\label{section-10-13}}
 \bibleverse{1} Aconteció después de esto, que teniendo Absalom hijo de David una hermana hermosa que se llamaba Thamar, enamoróse de ella Amnón hijo de David. 
 \bibleverse{2} Y estaba Amnón angustiado hasta enfermar, por Thamar su hermana: porque por ser ella virgen, parecía á Amnón que sería cosa dificultosa hacerle algo. 
 \bibleverse{3} Y Amnón tenía un amigo que se llamaba Jonadab, hijo de Simea, hermano de David: y era Jonadab hombre muy astuto. 
@@ -652,7 +665,8 @@
  
 \bibleverse{39} Y el rey David deseó ver á Absalom: porque ya estaba consolado acerca de Amnón que era muerto. 
 
-# 14 
+\hypertarget{section-10-14}{%
+\section{14}\label{section-10-14}}
 \bibleverse{1} Y conociendo Joab hijo de Sarvia, que el corazón del rey estaba por Absalom, 
 \bibleverse{2} Envió Joab á Tecoa, y tomó de allá una mujer astuta, y díjole: Yo te ruego que te enlutes, y te vistas de ropas de luto, y no te unjas con óleo, antes sé como mujer que ha mucho tiempo que trae luto por algún muerto; 
 \bibleverse{3} Y entrando al rey, habla con él de esta manera. Y puso Joab las palabras en su boca.
@@ -734,7 +748,8 @@
 \bibleverse{33} Vino pues Joab al rey, é hízoselo saber. Entonces llamó á Absalom, el cual vino al rey, é inclinó su rostro á tierra delante del rey: y el rey besó á Absalom. 
 
 ## Actividades ambiciosas y favorables de Absalom
-# 15 
+\hypertarget{section-10-15}{%
+\section{15}\label{section-10-15}}
 \bibleverse{1} Aconteció después de esto, que Absalom se hizo de carros y caballos, y cincuenta hombres que corriesen delante de él. 
 \bibleverse{2} Y levantábase Absalom de mañana, y poníase á un lado del camino de la puerta; y á cualquiera que tenía pleito y venía al rey á juicio, Absalom le llamaba á sí, y decíale: ¿De qué ciudad eres? Y él respondía: Tu siervo es de una de las tribus de Israel.
 
@@ -815,7 +830,8 @@
 \bibleverse{37} Así se vino Husai amigo de David á la ciudad; y Absalom entró en Jerusalem. 
 
 ## Siba, el siervo de Mefiboseth, da presentes al rey; su informe de mentiras sobre Mefiboset
-# 16 
+\hypertarget{section-10-16}{%
+\section{16}\label{section-10-16}}
 \bibleverse{1} Y como David pasó un poco de la cumbre del monte, he aquí Siba, el criado de Mephi-boseth, que lo salía á recibir con un par de asnos enalbardados, y sobre ellos doscientos panes, y cien hilos de pasas, y cien panes de higos secos, y un cuero de vino. 
 \bibleverse{2} Y dijo el rey á Siba: ¿Qué es esto? Y Siba respondió: Los asnos son para la familia del rey, en que suban; los panes y la pasa para los criados, que coman; y el vino, para que beban los que se cansaren en el desierto.
 
@@ -868,7 +884,8 @@
 \bibleverse{23} Y el consejo que daba Achitophel en aquellos días, era como si consultaran la palabra de Dios. Tal era el consejo de Achitophel, así con David como con Absalom. 
 
 ## El segundo excelente consejo de Ahitofel fue rechazado por Husai y rechazado por Absalón
-# 17 
+\hypertarget{section-10-17}{%
+\section{17}\label{section-10-17}}
 \bibleverse{1} Entonces Achitophel dijo á Absalom: Yo escogeré ahora doce mil hombres, y me levantaré, y seguiré á David esta noche; 
 \bibleverse{2} Y daré sobre él cuando él estará cansado y flaco de manos: lo atemorizaré, y todo el pueblo que está con él huirá, y heriré al rey solo. 
 \bibleverse{3} Así tornaré á todo el pueblo á ti: y cuando ellos hubieren vuelto, (pues aquel hombre es el que tú quieres) todo el pueblo estará en paz.
@@ -925,7 +942,8 @@
 \bibleverse{29} Miel, manteca, ovejas, y quesos de vacas, para que comiesen; porque dijeron: Aquel pueblo está hambriento, y cansado, y tendrá sed en el desierto. 
 
 ## Las órdenes militares de David; Salida de su ejército
-# 18 
+\hypertarget{section-10-18}{%
+\section{18}\label{section-10-18}}
 \bibleverse{1} David pues revistó el pueblo que tenía consigo, y puso sobre ellos tribunos y centuriones. 
 \bibleverse{2} Y consignó la tercera parte del pueblo al mando de Joab, y otra tercera al mando de Abisai, hijo de Sarvia, hermano de Joab, y la otra tercera parte al mando de Ittai Getheo. Y dijo el rey al pueblo: Yo también saldré con vosotros.
 
@@ -1009,7 +1027,8 @@
  
 \bibleverse{33} Entonces el rey se turbó, y subióse á la sala de la puerta, y lloró; y yendo, decía así: ¡Hijo mío Absalom, hijo mío, hijo mío Absalom! ¡Quién me diera que muriera yo en lugar de ti, Absalom, hijo mío, hijo mío! 
 
-# 19 
+\hypertarget{section-10-19}{%
+\section{19}\label{section-10-19}}
 \bibleverse{1} Y dieron aviso á Joab: He aquí el rey llora, y hace duelo por Absalom.
 
 ## Efecto maligno del dolor de David en el ejército; La reprensión de Joab; David se levanta
@@ -1107,7 +1126,8 @@
 \bibleverse{43} Entonces respondieron los varones de Israel, y dijeron á los de Judá: Nosotros tenemos en el rey diez partes, y en el mismo David más que vosotros: ¿por qué pues nos habéis tenido en poco? ¿no hablamos nosotros primero en volver á nuestro rey? Y el razonamiento de los varones de Judá fué más fuerte que el de los varones de Israel. 
 
 ## Órdenes de David en Jerusalén
-# 20 
+\hypertarget{section-10-20}{%
+\section{20}\label{section-10-20}}
 \bibleverse{1} Y acaeció estar allí un hombre perverso que se llamaba Seba, hijo de Bichri, hombre de Benjamín, el cual tocó la corneta, y dijo: No tenemos nosotros parte en David, ni heredad en el hijo de Isaí: Israel, ¡cada uno á sus estancias!
 
  
@@ -1164,7 +1184,8 @@
 \bibleverse{25} Y Seba, escriba; y Sadoc y Abiathar, sacerdotes; é Ira Jaireo fué un jefe principal cerca de David. 
 
 ## Declaración de la deuda de Saúl; el requisito de los gabaonitas
-# 21 
+\hypertarget{section-10-21}{%
+\section{21}\label{section-10-21}}
 \bibleverse{1} Y en los días de David hubo hambre por tres años consecutivos. Y David consultó á Jehová, y Jehová le dijo: Es por Saúl, y por aquella casa de sangre; porque mató á los Gabaonitas.
 
  
@@ -1206,7 +1227,8 @@
 \bibleverse{22} Estos cuatro le habían nacido al gigante en Gath, los cuales cayeron por la mano de David, y por la mano de sus siervos. 
 
 ## El cántico de acción de gracias y victoria de David después de derrotar a sus enemigos
-# 22 
+\hypertarget{section-10-22}{%
+\section{22}\label{section-10-22}}
 \bibleverse{1} Y habló David á Jehová las palabras de este cántico, el día que Jehová le había librado de la mano de todos sus enemigos, y de la mano de Saúl. 
 \bibleverse{2} Y dijo: Jehová es mi roca, y mi fortaleza, y mi libertador; 
 \bibleverse{3} Dios de mi roca, en él confiaré: mi escudo, y el cuerno de mi salud, mi fortaleza, y mi refugio; mi salvador, que me librarás de violencia. 
@@ -1260,7 +1282,8 @@
 \bibleverse{51} El que engrandece las saludes de su rey, y hace misericordia á su ungido, á David, y á su simiente, para siempre. 
 
 ## Las últimas palabras de David
-# 23 
+\hypertarget{section-10-23}{%
+\section{23}\label{section-10-23}}
 \bibleverse{1} Estas son las postreras palabras de David. Dijo David hijo de Isaí, dijo aquel varón que fué levantado alto, el ungido del Dios de Jacob, el suave en cánticos de Israel: 
 \bibleverse{2} El espíritu de Jehová ha hablado por mí, y su palabra ha sido en mi lengua. 
 \bibleverse{3} El Dios de Israel ha dicho, hablóme el Fuerte de Israel: El señoreador de los hombres será justo, señoreador en temor de Dios. 
@@ -1318,7 +1341,8 @@
 \bibleverse{39} Uría Hetheo. Entre todos treinta y siete. 
 
 ## David decide el censo a pesar de la advertencia de Joab
-# 24 
+\hypertarget{section-10-24}{%
+\section{24}\label{section-10-24}}
 \bibleverse{1} Y volvió el furor de Jehová á encenderse contra Israel, é incitó á David contra ellos á que dijese: Ve, cuenta á Israel y á Judá. 
 \bibleverse{2} Y dijo el rey á Joab, general del ejército que tenía consigo: Rodea todas las tribus de Israel, desde Dan hasta Beer-seba, y contad el pueblo, para que yo sepa el número de la gente.
 

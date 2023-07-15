@@ -1,5 +1,6 @@
 ## Llamando al profeta
-# 1 
+\hypertarget{section-24-1}{%
+\section{1}\label{section-24-1}}
 \bibleverse{1} Las palabras de Jeremías hijo de Hilcías, de los sacerdotes que estuvieron en Anathoth, en tierra de Benjamín. 
 \bibleverse{2} La palabra de Jehová que fué á él en los días de Josías hijo de Amón, rey de Judá, en el año décimotercio de su reinado. 
 \bibleverse{3} Fué asimismo en días de Joacim hijo de Josías, rey de Judá, hasta el fin del año undécimo de Sedechîas hijo de Josías, rey de Judá, hasta la cautividad de Jerusalem en el mes quinto.
@@ -42,7 +43,8 @@
 \bibleverse{19} Y pelearán contra ti, mas no te vencerán; porque yo soy contigo, dice Jehová, para librarte. 
 
 ## La lealtad inicial de Israel a su Dios y su posterior apostasía desdeñosa con sus desastrosas consecuencias
-# 2 
+\hypertarget{section-24-2}{%
+\section{2}\label{section-24-2}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} Anda, y clama á los oídos de Jerusalem, diciendo: Así dice Jehová: Heme acordado de ti, de la misericordia de tu mocedad, del amor de tu desposorio, cuando andabas en pos de mí en el desierto, en tierra no sembrada. 
 \bibleverse{3} Santidad era Israel á Jehová, primicias de sus nuevos frutos. Todos los que le devoran pecarán; mal vendrá sobre ellos, dice Jehová.
@@ -100,7 +102,8 @@
 \bibleverse{37} También saldrás de él con tus manos sobre tu cabeza: porque Jehová deshechó tus confianzas, y en ellas no tendrás buen suceso. 
 
 ## ¿Es posible aceptar a las personas que han sido violadas por la idolatría?
-# 3 
+\hypertarget{section-24-3}{%
+\section{3}\label{section-24-3}}
 \bibleverse{1} Dicen: Si alguno dejare su mujer, y yéndose ésta de él se juntare á otro hombre, ¿volverá á ella más? ¿no será tal tierra del todo amancillada? Tú pues has fornicado con muchos amigos; mas vuélvete á mí, dijo Jehová.
 
  
@@ -150,7 +153,8 @@
 \bibleverse{25} Yacemos en nuestra confusión, y nuestra afrenta nos cubre: porque pecamos contra Jehová nuestro Dios, nosotros y nuestros padres, desde nuestra juventud y hasta este día; y no hemos escuchado la voz de Jehová nuestro Dios. 
 
 ## Promesa de aceptación después de un arrepentimiento sincero
-# 4 
+\hypertarget{section-24-4}{%
+\section{4}\label{section-24-4}}
 \bibleverse{1} Si te has de convertir, oh Israel, dice Jehová, conviértete á mí; y si quitares de delante de mí tus abominaciones, no andarás de acá para allá. 
 \bibleverse{2} Y jurarás, diciendo, Vive Jehová, con verdad, con juicio, y con justicia: y bendecirse han en él las gentes, y en él se gloriarán.
 
@@ -209,7 +213,8 @@
 \bibleverse{31} Porque voz oí como de mujer que está de parto, angustia como de primeriza; voz de la hija de Sión que lamenta y extiende sus manos, diciendo: ¡Ay ahora de mí! que mi alma desmaya á causa de los matadores. 
 
 ## La terrible corrupción de todo el pueblo de Jerusalén obliga al Señor a ejecutar sin piedad el castigo del terrible enemigo
-# 5 
+\hypertarget{section-24-5}{%
+\section{5}\label{section-24-5}}
 \bibleverse{1} Discurrid por las plazas de Jerusalem, y mirad ahora, y sabed, y buscad en sus plazas si halláis hombre, si hay alguno que haga juicio, que busque verdad; y yo la perdonaré. 
 \bibleverse{2} Y si dijeren: Vive Jehová; por tanto jurarán mentira.
 
@@ -274,7 +279,8 @@
 \bibleverse{31} Los profetas profetizaron mentira, y los sacerdotes dirigían por manos de ellos; y mi pueblo así lo quiso. ¿Qué pues haréis á su fin? 
 
 ## Anuncio renovado de la guerra inminente; nueva descripción del tamaño del daño interno
-# 6 
+\hypertarget{section-24-6}{%
+\section{6}\label{section-24-6}}
 \bibleverse{1} Huid, hijos de Benjamín, de en medio de Jerusalem, y tocad bocina en Tecoa, y alzad por señal humo sobre Beth-hacchêrem: porque del aquilón se ha visto mal, y quebrantamiento grande. 
 \bibleverse{2} A mujer hermosa y delicada comparé á la hija de Sión. 
 \bibleverse{3} A ella vendrán pastores y sus rebaños; junto á ella en derredor pondrán sus tiendas; cada uno apacentará á su parte.
@@ -327,7 +333,8 @@
 \bibleverse{30} Plata desechada los llamarán, porque Jehová los desechó. 
 
 ## Contra el culto puramente externo y la obvia desobediencia del pueblo
-# 7 
+\hypertarget{section-24-7}{%
+\section{7}\label{section-24-7}}
 \bibleverse{1} Palabra que fué de Jehová á Jeremías, diciendo: 
 \bibleverse{2} Ponte á la puerta de la casa de Jehová, y predica allí esta palabra, y di: Oid palabra de Jehová, todo Judá, los que entráis por estas puertas para adorar á Jehová.
 
@@ -384,7 +391,8 @@
 \bibleverse{34} Y haré cesar de las ciudades de Judá, y de la calles de Jerusalem, voz de gozo y voz de alegría, voz de esposo y voz de esposa; porque la tierra será en desolación. 
 
 ## El vergonzoso destino de los idólatras tras la conquista de la tierra
-# 8 
+\hypertarget{section-24-8}{%
+\section{8}\label{section-24-8}}
 \bibleverse{1} En aquel tiempo, dice Jehová, sacarán los huesos de los reyes de Judá, y los huesos de sus príncipes, y los huesos de los sacerdotes, y los huesos de los profetas, y los huesos de los moradores de Jerusalem, fuera de sus sepulcros; 
 \bibleverse{2} Y los esparcirán al sol, y á la luna, y á todo el ejército del cielo, á quien amaron, y á quienes sirvieron, y en pos de quienes anduvieron, y á quienes preguntaron, y á quienes se encorvaron. No serán recogidos, ni enterrados: serán por muladar sobre la haz de la tierra. 
 \bibleverse{3} Y escogeráse la muerte antes que la vida por todo el resto que quedare de esta mala generación, en todos los lugares á donde los arrojaré yo á los que quedaren, dice Jehová de los ejércitos.
@@ -425,7 +433,8 @@
 \bibleverse{22} ¿No hay bálsamo en Galaad? ¿no hay allí médico? ¿Por qué pues no hubo medicina para la hija de mi pueblo? 
 
 ## Jeremías se desespera de su pueblo moralmente quebrantado
-# 9 
+\hypertarget{section-24-9}{%
+\section{9}\label{section-24-9}}
 \bibleverse{1} ¡Oh si mi cabeza se tornase aguas, y mis ojos fuentes de aguas, para que llore día y noche los muertos de la hija de mi pueblo! 
 \bibleverse{2} ¡Oh quién me diese en el desierto un mesón de caminantes, para que dejase mi pueblo, y de ellos me apartase! Porque todos ellos son adúlteros, congregación de prevaricadores. 
 \bibleverse{3} E hicieron que su lengua, como su arco, tirase mentira; y no se fortalecieron por verdad en la tierra: porque de mal en mal procedieron, y me han desconocido, dice Jehová. 
@@ -477,7 +486,8 @@
 \bibleverse{26} A Egipto, y á Judá, y á Edom, y á los hijos de Ammón y de Moab, y á todos los arrinconados en el postrer rincón, que moran en el desierto; porque todas las gentes tienen prepucio, y toda la casa de Israel tiene prepucio en el corazón. 
 
 ## La nada de los ídolos y la majestad del único Dios verdadero
-# 10 
+\hypertarget{section-24-10}{%
+\section{10}\label{section-24-10}}
 \bibleverse{1} Oid la palabra que Jehová ha hablado sobre vosotros, oh casa de Israel. 
 \bibleverse{2} Así dijo Jehová: No aprendáis el camino de las gentes, ni de las señales del cielo tengáis temor, aunque las gentes las teman. 
 \bibleverse{3} Porque las ordenanzas de los pueblos son vanidad: porque leño del monte cortaron, obra de manos de artífice con azuela. 
@@ -520,7 +530,8 @@
 \bibleverse{25} Derrama tu enojo sobre las gentes que no te conocen, y sobre las naciones que no invocan tu nombre: porque se comieron á Jacob, y lo devoraron, y le han consumido, y asolado su morada. 
 
 ## El vínculo entre Dios y el pueblo se ha roto
-# 11 
+\hypertarget{section-24-11}{%
+\section{11}\label{section-24-11}}
 \bibleverse{1} Palabra que fué de Jehová, á Jeremías, diciendo: 
 \bibleverse{2} Oid las palabras de este pacto, y hablad á todo varón de Judá, y á todo morador de Jerusalem. 
 \bibleverse{3} Y les dirás tú: Así dijo Jehová Dios de Israel: Maldito el varón que no obedeciere las palabras de este pacto, 
@@ -561,7 +572,8 @@
 \bibleverse{23} Y no quedará resto de ellos: porque yo traeré mal sobre los varones de Anathoth, año de su visitación. 
 
 ## La pregunta de Jeremías a Dios sobre la felicidad de los malvados
-# 12 
+\hypertarget{section-24-12}{%
+\section{12}\label{section-24-12}}
 \bibleverse{1} Justo eres tú, oh Jehová, aunque yo contigo dispute: hablaré empero juicios contigo. ¿Por qué es prosperado el camino de los impíos, y tienen bien todos los que se portan deslealmente? 
 \bibleverse{2} Plantástelos, y echaron raíces; progresaron, é hicieron fruto; cercano estás tú en sus bocas, mas lejos de sus riñones. 
 \bibleverse{3} Tú empero, oh Jehová, me conoces; vísteme, y probaste mi corazón para contigo: arráncalos como á ovejas para el degolladero, y señálalos para el día de la matanza. 
@@ -590,7 +602,8 @@
 \bibleverse{17} Mas si no oyeren, arrancaré á la tal gente, sacándola de raíz, y destruyendo, dice Jehová. 
 
 ## Parábola del cinturón de lino
-# 13 
+\hypertarget{section-24-13}{%
+\section{13}\label{section-24-13}}
 \bibleverse{1} Así me dijo Jehová: Ve, y cómprate un cinto de lino, y cíñelo sobre tus lomos, y no lo meterás en agua.
 
  
@@ -645,7 +658,8 @@
 \bibleverse{27} Tus adulterios, tus relinchos, la maldad de tu fornicación sobre los collados: en el mismo campo vi tus abominaciones. ¡Ay de ti, Jerusalem! ¿No serás al cabo limpia? ¿hasta cuándo todavía? 
 
 ## Descripción de la gran sequía
-# 14 
+\hypertarget{section-24-14}{%
+\section{14}\label{section-24-14}}
 \bibleverse{1} Palabra de Jehová que fué á Jeremías, con motivo de la sequía. 
 \bibleverse{2} Enlutóse Judá, y sus puertas se despoblaron: oscureciéronse en tierra, y subió el clamor de Jerusalem. 
 \bibleverse{3} Y los principales de ellos enviaron sus criados al agua: vinieron á las lagunas, y no hallaron agua: volviéronse con sus vasos vacíos; se avergonzaron, confundiéronse, y cubrieron sus cabezas. 
@@ -688,7 +702,8 @@
 \bibleverse{22} ¿Hay entre las vanidades de las gentes quien haga llover? ¿y darán los cielos lluvias? ¿No eres tú, Jehová, nuestro Dios? en ti pues esperamos; pues tú hiciste todas estas cosas. 
 
 ## Otro rechazo a una intercesión de Jeremías y una nueva amenaza de Dios
-# 15 
+\hypertarget{section-24-15}{%
+\section{15}\label{section-24-15}}
 \bibleverse{1} Y díjome Jehová: Si Moisés y Samuel se pusieran delante de mí, mi voluntad no será con este pueblo: échalos de delante de mí, y salgan. 
 \bibleverse{2} Y será que si te preguntaren: ¿A dónde saldremos? les dirás: Así ha dicho Jehová: El que á muerte, á muerte; y el que á cuchillo, á cuchillo; y el que á hambre, á hambre; y el que á cautividad, á cautividad.
 
@@ -725,7 +740,8 @@
 \bibleverse{21} Y librarte he de la mano de los malos, y te redimiré de la mano de los fuertes. 
 
 ## Se supone que Jeremías no debe tener familia
-# 16 
+\hypertarget{section-24-16}{%
+\section{16}\label{section-24-16}}
 \bibleverse{1} Y fué á mí palabra de Jehová, diciendo: 
 \bibleverse{2} No tomarás para ti mujer, ni tendrás hijos ni hijas en este lugar. 
 \bibleverse{3} Porque así ha dicho Jehová acerca de los hijos y de las hijas que nacieren en este lugar, y de sus madres que los parieren, y de los padres que los engendraren en esta tierra. 
@@ -766,7 +782,8 @@
 \bibleverse{21} Por tanto, he aquí, les enseñaré de esta vez, enseñarles he mi mano y mi fortaleza, y sabrán que mi nombre es Jehová. 
 
 ## La culpa imperdonable de Judá y el severo castigo de Dios
-# 17 
+\hypertarget{section-24-17}{%
+\section{17}\label{section-24-17}}
 \bibleverse{1} El pecado de Judá escrito está con cincel de hierro, y con punta de diamante: esculpido está en la tabla de su corazón, y en los lados de vuestros altares; 
 \bibleverse{2} Cuando sus hijos se acuerdan de sus altares y de sus bosques, junto á los árboles verdes y en los collados altos. 
 \bibleverse{3} ¡Oh mi montaña! tu hacienda en el campo y todos tus tesoros daré á saco, por el pecado de tus altos en todos tus términos. 
@@ -811,7 +828,8 @@
 \bibleverse{27} Mas si no me oyereis para santificar el día del sábado, y para no traer carga ni meterla por las puertas de Jerusalem en día de sábado, yo haré encender fuego en sus puertas, y consumirá los palacios de Jerusalem, y no se apagará. 
 
 ## La obra del alfarero como símbolo del dominio divino sobre el destino de los pueblos
-# 18 
+\hypertarget{section-24-18}{%
+\section{18}\label{section-24-18}}
 \bibleverse{1} La palabra que fué á Jeremías de Jehová, diciendo: 
 \bibleverse{2} Levántate, y vete á casa del alfarero, y allí te haré oir mis palabras.
 
@@ -849,7 +867,8 @@
 \bibleverse{23} Mas tú, oh Jehová, conoces todo su consejo contra mí para muerte; no perdones su maldad, ni borres su pecado de delante de tu rostro: y tropiecen delante de ti; haz así con ellos en el tiempo de tu furor. 
 
 ## La abominación de Thopheth; la destrucción de Judá simbólicamente anunciada por el rompimiento de una jarra
-# 19 
+\hypertarget{section-24-19}{%
+\section{19}\label{section-24-19}}
 \bibleverse{1} Así dijo Jehová: Ve, y compra una vasija de barro del alfarero, y lleva contigo de los ancianos del pueblo, y de los ancianos de los sacerdotes; 
 \bibleverse{2} Y saldrás al valle del hijo de Hinnom, que está á la entrada de la puerta oriental, y publicarás allí las palabras que yo te hablaré. 
 \bibleverse{3} Dirás pues: Oid palabra de Jehová, oh reyes de Judá, y moradores de Jerusalem. Así dice Jehová de los ejércitos, Dios de Israel: He aquí que yo traigo mal sobre este lugar, tal que quien lo oyere, le retiñan los oídos. 
@@ -873,7 +892,8 @@
 \bibleverse{14} Y volvió Jeremías de Topheth, á donde le envió Jehová á profetizar, y paróse en el atrio de la casa de Jehová, y dijo á todo el pueblo. 
 \bibleverse{15} Así ha dicho Jehová de los ejércitos, Dios de Israel: He aquí yo traigo sobre esta ciudad y sobre todas sus villas todo el mal que hablé contra ella: porque han endurecido su cerviz, para no oir mis palabras. 
 
-# 20 
+\hypertarget{section-24-20}{%
+\section{20}\label{section-24-20}}
 \bibleverse{1} Y Pashur sacerdote, hijo de Immer, que presidía por príncipe en la casa de Jehová, oyó á Jeremías que profetizaba estas palabras. 
 \bibleverse{2} E hirió Pashur á Jeremías profeta, y púsole en el cepo que estaba á la puerta de Benjamín en lo alto, la cual conducía á la casa de Jehová. 
 \bibleverse{3} Y el día siguiente Pashur sacó á Jeremías del cepo. Díjole entonces Jeremías: Jehová no ha llamado tu nombre Pashur, sino Magor-missabib. 
@@ -902,7 +922,8 @@
 \bibleverse{18} ¿Para qué salí del vientre? ¿para ver trabajo y dolor, y que mis días se gastasen en afrenta? 
 
 ## Unheilvolle Antwort Jeremias an Zedekias Gesandte und Mahnungen an das Volk während der Belagerung Jerusalems
-# 21 
+\hypertarget{section-24-21}{%
+\section{21}\label{section-24-21}}
 \bibleverse{1} Palabra que fué á Jeremías de Jehová, cuando el rey Sedechîas envió á él á Pashur hijo de Malchîas, y á Sephanías sacerdote, hijo de Maasías, que le dijesen: 
 \bibleverse{2} Pregunta ahora por nosotros á Jehová; porque Nabucodonosor rey de Babilonia hace guerra contra nosotros: quizá Jehová hará con nosotros según todas sus maravillas, y aquél se irá de sobre nosotros.
 
@@ -930,7 +951,8 @@
 \bibleverse{14} Yo os visitaré conforme al fruto de vuestras obras, dice Jehová, y haré encender fuego en su breña, y consumirá todo lo que está alrededor de ella. 
 
 ## Advertencia a la casa real de Judá; Anuncio del juicio sobre los reyes Salum (Joacaz) y Joacim
-# 22 
+\hypertarget{section-24-22}{%
+\section{22}\label{section-24-22}}
 \bibleverse{1} Así dijo Jehová: Desciende á la casa del rey de Judá, y habla allí esta palabra, 
 \bibleverse{2} Y di: Oye palabra de Jehová, oh rey de Judá que estás sentado sobre el trono de David, tú, y tus criados, y tu pueblo que entran por estas puertas. 
 \bibleverse{3} Así ha dicho Jehová: Haced juicio y justicia, y librad al oprimido de mano del opresor, y no engañéis ni robéis al extranjero, ni al huérfano, ni á la viuda, ni derraméis sangre inocente en este lugar. 
@@ -980,7 +1002,8 @@
 \bibleverse{30} Así ha dicho Jehová: Escribid que será este hombre privado de generación, hombre á quien nada sucederá prósperamente en todos los días de su vida: porque ningún hombre de su simiente que se sentare sobre el trono de David, y que se enseñoreare sobre Judá, será jamás dichoso. 
 
 ## Ay de los pastores infieles y la promesa del verdadero pastor de la casa de David
-# 23 
+\hypertarget{section-24-23}{%
+\section{23}\label{section-24-23}}
 \bibleverse{1} ¡Ay de los pastores que desperdician y derraman las ovejas de mi majada! dice Jehová. 
 \bibleverse{2} Por tanto, así ha dicho Jehová Dios de Israel á los pastores que apacientan mi pueblo: Vosotros derramasteis mis ovejas, y las espantasteis, y no las habéis visitado: he aquí que yo visito sobre vosotros la maldad de vuestras obras, dice Jehová. 
 \bibleverse{3} Y yo recogeré el resto de mis ovejas de todas las tierras adonde las eché, y harélas volver á sus moradas; y crecerán, y se multiplicarán. 
@@ -1046,7 +1069,8 @@
 \bibleverse{40} Y pondré sobre vosotros afrenta perpetua, y eterna confusión que nunca borrará el olvido. 
 
 ## La cara de las dos cestas de higos y el significado de las cestas
-# 24 
+\hypertarget{section-24-24}{%
+\section{24}\label{section-24-24}}
 \bibleverse{1} Mostróme Jehová, y he aquí dos cestas de higos puestas delante del templo de Jehová, después de haber trasportado Nabucodonosor rey de Babilonia á Jechônías hijo de Joacim, rey de Judá, y á los príncipes de Judá, y á los oficiales y herreros de Jerusalem, y haberlos llevado á Babilonia. 
 \bibleverse{2} La una cesta tenía higos muy buenos, como brevas; y la otra cesta tenía higos muy malos, que no se podían comer de malos.
 
@@ -1065,7 +1089,8 @@
 \bibleverse{10} Y enviaré sobre ellos espada, hambre, y pestilencia, hasta que sean acabados de sobre la tierra que les dí á ellos y á sus padres. 
 
 ## Indicación de tiempo; La referencia de Jeremías a su efectividad fallida de 23 años
-# 25 
+\hypertarget{section-24-25}{%
+\section{25}\label{section-24-25}}
 \bibleverse{1} Palabra que fué á Jeremías acerca de todo el pueblo de Judá en el año cuarto de Joacim hijo de Josías, rey de Judá, el cual es el año primero de Nabucodonosor rey de Babilonia; 
 \bibleverse{2} La cual habló Jeremías profeta á todo el pueblo de Judá, y á todos los moradores de Jerusalem, diciendo: 
 \bibleverse{3} Desde el año trece de Josías hijo de Amón, rey de Judá, hasta este día, que son veintitrés años, fué á mí palabra de Jehová, y os he hablado, madrugando y dando aviso; mas no oisteis.
@@ -1127,7 +1152,8 @@
 \bibleverse{38} Dejó cual leoncillo su guarida; pues asolada fué la tierra de ellos por la ira del opresor, y por el furor de su saña. 
 
 ## Introducción; Indicación del contenido principal del discurso; Captura de Jeremías
-# 26 
+\hypertarget{section-24-26}{%
+\section{26}\label{section-24-26}}
 \bibleverse{1} En el principio del reinado de Joacim hijo de Josías, rey de Judá, fué esta palabra de Jehová, diciendo: 
 \bibleverse{2} Así ha dicho Jehová: Ponte en el atrio de la casa de Jehová, y habla á todas las ciudades de Judá, que vienen para adorar en la casa de Jehová, todas las palabras que yo te mandé les hablases; no retengas palabra. 
 \bibleverse{3} Quizá oirán, y se tornarán cada uno de su mal camino; y arrepentiréme yo del mal que pienso hacerles por la maldad de sus obras. 
@@ -1170,7 +1196,8 @@
 \bibleverse{24} La mano empero de Ahicam hijo de Saphán era con Jeremías, porque no lo entregasen en las manos del pueblo para matarlo. 
 
 ## Jeremías, yugo en el cuello, advierte a los enviados de algunos estados extranjeros
-# 27 
+\hypertarget{section-24-27}{%
+\section{27}\label{section-24-27}}
 \bibleverse{1} En el principio del reinado de Joacim hijo de Josías, rey de Judá, fué de Jehová esta palabra á Jeremías, diciendo: 
 \bibleverse{2} Jehová me ha dicho así: Hazte coyundas y yugos, y ponlos sobre tu cuello; 
 \bibleverse{3} Y los enviarás al rey de Edom, y al rey de Moab, y al rey de los hijos de Ammón, y al rey de Tiro, y al rey de Sidón, por mano de los embajadores que vienen á Jerusalem á Sedechîas, rey de Judá. 
@@ -1203,7 +1230,8 @@
 \bibleverse{22} A Babilonia serán trasportados, y allí estarán hasta el día en que yo los visitaré, dice Jehová; y después los haré subir, y restituirélos á este lugar. 
 
 ## El dicho de Hananya y la respuesta de Jeremías
-# 28 
+\hypertarget{section-24-28}{%
+\section{28}\label{section-24-28}}
 \bibleverse{1} Y aconteció en el mismo año, en el principio del reinado de Sedechîas rey de Judá, en el año cuarto, en el quinto mes, que Hananías, hijo de Azur, profeta que era de Gabaón, me habló en la casa de Jehová delante de los sacerdotes y de todo el pueblo, diciendo: 
 \bibleverse{2} Así habló Jehová de los ejércitos, Dios de Israel, diciendo: Quebranté el yugo del rey de Babilonia. 
 \bibleverse{3} Dentro de dos años de días tornaré á este lugar todos los vasos de la casa de Jehová, que Nabucodonosor, rey de Babilonia, llevó de este lugar para meterlos en Babilonia; 
@@ -1234,7 +1262,8 @@
 \bibleverse{17} Y en el mismo año murió Hananías en el mes séptimo. 
 
 ## La carta de Jeremías a los judíos encarcelados en Babilonia; mal resultado de dos falsos profetas en Babilonia
-# 29 
+\hypertarget{section-24-29}{%
+\section{29}\label{section-24-29}}
 \bibleverse{1} Y estas son las palabras de la carta que Jeremías profeta envió de Jerusalem á los ancianos que habían quedado de los trasportados, y á los sacerdotes y profetas, y á todo el pueblo que Nabucodonosor llevó cautivo de Jerusalem á Babilonia: 
 \bibleverse{2} (Después que salió el rey Jechônías y la reina, y los de palacio, y los príncipes de Judá y de Jerusalem, y los artífices, y los ingenieros de Jerusalem;) 
 \bibleverse{3} Por mano de Elasa hijo de Saphán, y de Jemarías hijo de Hilcías, (los cuales envió Sedechîas rey de Judá á Babilonia, á Nabucodonosor rey de Babilonia,) diciendo:
@@ -1282,7 +1311,8 @@
 \bibleverse{32} Por tanto, así ha dicho Jehová: He aquí que yo visito sobre Semaías de Nehelam, y sobre su generación: no tendrá varón que more entre este pueblo, ni verá aquel bien que haré yo á mi pueblo, dice Jehová: porque contra Jehová ha hablado rebelión. 
 
 ## Introducción: Jeremías debe registrar todas las palabras de Dios que le han llegado
-# 30 
+\hypertarget{section-24-30}{%
+\section{30}\label{section-24-30}}
 \bibleverse{1} Palabra que fué á Jeremías de Jehová, diciendo: 
 \bibleverse{2} Así habló Jehová Dios de Israel, diciendo: Escríbete en un libro todas las palabras que te he hablado. 
 \bibleverse{3} Porque he aquí que vienen días, dice Jehová, en que tornaré la cautividad de mi pueblo Israel y Judá, ha dicho Jehová, y harélos volver á la tierra que dí á sus padres, y la poseerán.
@@ -1323,7 +1353,8 @@
 \bibleverse{24} No se volverá la ira del enojo de Jehová, hasta que haya hecho y cumplido los pensamientos de su corazón: en el fin de los días entenderéis esto. 
 
 ## El encuentro de Dios e Israel en el desierto; las esperanzadas palabras de saludo
-# 31 
+\hypertarget{section-24-31}{%
+\section{31}\label{section-24-31}}
 \bibleverse{1} En aquel tiempo, dice Jehová, yo seré por Dios á todos los linajes de Israel, y ellos me serán á mí por pueblo.
 
  
@@ -1407,7 +1438,8 @@
 \bibleverse{40} Y todo el valle de los cuerpos muertos y de la ceniza, y todas las llanuras hasta el arroyo de Cedrón, hasta la esquina de la puerta de los caballos al oriente, será santo á Jehová: no será arrancada, ni destruída más para siempre. 
 
 ## Como prisionero, Jeremías compra un campo en Anatot según la dirección de Dios
-# 32 
+\hypertarget{section-24-32}{%
+\section{32}\label{section-24-32}}
 \bibleverse{1} Palabra que fué á Jeremías, de Jehová el año décimo de Sedechîas rey de Judá, que fué el año décimo octavo de Nabucodonosor. 
 \bibleverse{2} Y entonces el ejército del rey de Babilonia tenía cercada á Jerusalem; y el profeta Jeremías estaba preso en el patio de la cárcel que estaba en la casa del rey de Judá.
 
@@ -1478,7 +1510,8 @@
 \bibleverse{44} Heredades comprarán por dinero, y harán carta, y la sellarán, y pondrán testigos, en tierra de Benjamín y en los contornos de Jerusalem, y en las ciudades de Judá: y en las ciudades de las montañas, y en las ciudades de las campiñas, y en las ciudades del mediodía: porque yo haré tornar su cautividad, dice Jehová. 
 
 ## Profecías de salvación para Jerusalén y Judá
-# 33 
+\hypertarget{section-24-33}{%
+\section{33}\label{section-24-33}}
 \bibleverse{1} Y fué palabra de Jehová á Jeremías la segunda vez, estando él aún preso en el patio de la cárcel, diciendo: 
 \bibleverse{2} Así ha dicho Jehová que la hizo, Jehová que la formó para afirmarla; Jehová es su nombre: 
 \bibleverse{3} Clama á mí, y te responderé, y te enseñaré cosas grandes y dificultosas que tú no sabes. 
@@ -1520,7 +1553,8 @@
 \bibleverse{26} También desecharé la simiente de Jacob, y de David mi siervo, para no tomar de su simiente quien sea señor sobre la simiente de Abraham, de Isaac, y de Jacob. Porque haré volver su cautividad, y tendré de ellos misericordia. 
 
 ## Anunciando el destino de Sedechîas
-# 34 
+\hypertarget{section-24-34}{%
+\section{34}\label{section-24-34}}
 \bibleverse{1} Palabra que fué á Jeremías de Jehová, (cuando Nabucodonosor rey de Babilonia, y todo su ejército, y todos los reinos de la tierra del señorío de su mano, y todos los pueblos, peleaban contra Jerusalem, y contra todas sus ciudades,) diciendo: 
 \bibleverse{2} Así ha dicho Jehová Dios de Israel: Ve, y habla á Sedechîas rey de Judá, y dile: Así ha dicho Jehová: He aquí entregaré yo esta ciudad en mano del rey de Babilonia, y la abrasaré con fuego: 
 \bibleverse{3} Y no escaparás tú de su mano, sino que de cierto serás preso, y en su mano serás entregado; y tus ojos verán los ojos del rey de Babilonia, y te hablará boca á boca, y en Babilonia entrarás.
@@ -1559,7 +1593,8 @@
 \bibleverse{22} He aquí, mandaré yo, dice Jehová, y harélos volver á esta ciudad, y pelearán contra ella, y la tomarán, y la abrasarán á fuego; y reduciré á soledad las ciudades de Judá, hasta no quedar morador. 
 
 ## Por mandato divino, Jeremías prueba la fidelidad de los recabitas
-# 35 
+\hypertarget{section-24-35}{%
+\section{35}\label{section-24-35}}
 \bibleverse{1} Palabra que fué á Jeremías de Jehová en días de Joacim hijo de Josías, rey de Judá, diciendo: 
 \bibleverse{2} Ve á casa de los Rechâbitas, y habla con ellos, é introdúcelos en la casa de Jehová, en una de las cámaras, y dales á beber vino.
 
@@ -1592,7 +1627,8 @@
 \bibleverse{19} Por tanto, así ha dicho Jehová de los ejércitos, Dios de Israel: No faltará varón de Jonadab, hijo de Rechâb, que esté en mi presencia todos los días. 
 
 ## Hacer el libro y leerlo a la gente y a los superiores
-# 36 
+\hypertarget{section-24-36}{%
+\section{36}\label{section-24-36}}
 \bibleverse{1} Y aconteció en el cuarto año de Joacim hijo de Josías, rey de Judá, que fué esta palabra á Jeremías, de Jehová, diciendo: 
 \bibleverse{2} Tómate un rollo de libro, y escribe en él todas las palabras que te he hablado contra Israel y contra Judá, y contra todas las gentes, desde el día que comencé á hablarte, desde los días de Josías hasta hoy. 
 \bibleverse{3} Quizá oirá la casa de Judá todo el mal que yo pienso hacerles, para volverse cada uno de su mal camino, y yo perdonaré su maldad y su pecado.
@@ -1649,7 +1685,8 @@
 \bibleverse{32} Y tomó Jeremías otro rollo, y diólo á Baruch hijo de Nerías escriba; y escribió en él de boca de Jeremías todas las palabras del libro que quemó en el fuego Joacim rey de Judá; y aun fueron añadidas sobre ellas muchas otras palabras semejantes. 
 
 ## Respuesta de Jeremías a la embajada de Sedechîas
-# 37 
+\hypertarget{section-24-37}{%
+\section{37}\label{section-24-37}}
 \bibleverse{1} Y reinó el rey Sedechîas hijo de Josías, en lugar de Conías hijo de Joacim, al cual Nabucodonosor rey de Babilonia había constituído por rey en la tierra de Judá. 
 \bibleverse{2} Mas no obedeció él, ni sus siervos, ni el pueblo de la tierra á las palabras de Jehová, que dijo por el profeta Jeremías.
 
@@ -1695,7 +1732,8 @@
 \bibleverse{21} Entonces dió orden el rey Sedechîas, y depositaron á Jeremías en el patio de la cárcel, haciéndole dar una torta de pan al día, de la plaza de los Panaderos, hasta que todo el pan de la ciudad se gastase. Y quedó Jeremías en el patio de la cárcel. 
 
 ## Jeremías arrojado a una cisterna como traidor por los superiores
-# 38 
+\hypertarget{section-24-38}{%
+\section{38}\label{section-24-38}}
 \bibleverse{1} Y oyó Sephatías hijo de Mathán, y Gedalías hijo de Pashur, y Jucal hijo de Selemías, y Pashur hijo de Melchîas, las palabras que Jeremías hablaba á todo el pueblo, diciendo: 
 \bibleverse{2} Así ha dicho Jehová: El que se quedare en esta ciudad morirá á cuchillo, ó de hambre, ó de pestilencia; mas el que saliere á los Caldeos vivirá, pues su vida le será por despojo, y vivirá. 
 \bibleverse{3} Así ha dicho Jehová: De cierto será entregada esta ciudad en mano del ejército del rey de Babilonia, y tomarála.
@@ -1763,7 +1801,8 @@
 \bibleverse{28} Y quedó Jeremías en el patio de la cárcel hasta el día que fué tomada Jerusalem; y allí estaba cuando Jerusalem fué tomada. 
 
 ## La fortuna de Jeremías al conquistar Jerusalén; El destino de Sedequías, así como la ciudad y el país
-# 39 
+\hypertarget{section-24-39}{%
+\section{39}\label{section-24-39}}
 \bibleverse{1} En el noveno año de Sedechîas rey de Judá, en el mes décimo, vino Nabucodonosor rey de Babilonia con todo su ejército contra Jerusalem, y cercáronla. 
 \bibleverse{2} Y en el undécimo año de Sedechîas, en el mes cuarto, á los nueve del mes, fué rota la ciudad; 
 \bibleverse{3} Y entraron todos los príncipes del rey de Babilonia, y asentaron á la puerta del medio: Nergal-sarezer, Samgar-nebo, Sarsechim, y Rabsaris, Nergal-sarezer, Rabmag, y todos los demás príncipes del rey de Babilonia. 
@@ -1796,7 +1835,8 @@
 \bibleverse{18} Porque ciertamente te libraré, y no caerás á cuchillo, sino que tu vida te será por despojo, porque tuviste confianza en mí, dice Jehová. 
 
 ## Liberación de Jeremías del cautiverio caldeo y regreso al gobernador Gedalías
-# 40 
+\hypertarget{section-24-40}{%
+\section{40}\label{section-24-40}}
 \bibleverse{1} Palabra que fué á Jeremías de Jehová, después que Nabuzaradán capitán de la guardia le envió desde Ramá, cuando le tomó estando atado con esposas entre toda la transmigración de Jerusalem y de Judá que iban cautivos á Babilonia. 
 \bibleverse{2} Tomó pues el capitán de la guardia á Jeremías, y díjole: Jehová tu Dios habló este mal contra este lugar; 
 \bibleverse{3} Y halo traído y hecho Jehová según que había dicho: porque pecasteis contra Jehová, y no oísteis su voz, por eso os ha venido esto. 
@@ -1828,7 +1868,8 @@
  
 \bibleverse{16} Pero Gedalías hijo de Ahicam dijo á Johanán hijo de Carea: No hagas esto, porque falso es lo que tú dices de Ismael. 
 
-# 41 
+\hypertarget{section-24-41}{%
+\section{41}\label{section-24-41}}
 \bibleverse{1} Y aconteció en el mes séptimo, que vino Ismael hijo de Nethanías, hijo de Elisama, de la simiente real, y algunos príncipes del rey, y diez hombres con él, á Gedalías hijo de Ahicam en Mizpa; y comieron pan juntos allí en Mizpa. 
 \bibleverse{2} Y levantóse Ismael hijo de Nethanías, y los diez hombres que con él estaban, é hirieron á cuchillo á Gedalías hijo de Ahicam, hijo de Saphán, matando así á aquel á quien el rey de Babilonia había puesto sobre la tierra. 
 \bibleverse{3} Asimismo hirió Ismael á todos los Judíos que estaban con él, con Gedalías en Mizpa, y á los soldados Caldeos que allí se hallaron.
@@ -1861,7 +1902,8 @@
 \bibleverse{18} Por causa de los Caldeos: porque temían de ellos, por haber herido Ismael hijo de Nethanías á Gedalías hijo de Ahicam, al cual el rey de Babilonia había puesto sobre la tierra. 
 
 ## Jeremías preguntó a Dios en nombre de sus conciudadanos sobre la emigración
-# 42 
+\hypertarget{section-24-42}{%
+\section{42}\label{section-24-42}}
 \bibleverse{1} Y llegáronse todos los oficiales de la gente de guerra, y Johanán hijo de Carea, y Jezanías hijo de Osaía, y todo el pueblo desde el menor hasta el mayor, 
 \bibleverse{2} Y dijeron á Jeremías profeta: Caiga ahora nuestro ruego delante de ti, y ruega por nosotros á Jehová tu Dios, por todo este resto, (pues hemos quedado unos pocos de muchos, como nos ven tus ojos,) 
 \bibleverse{3} Para que Jehová tu Dios nos enseñe camino por donde vayamos, y lo que hemos de hacer.
@@ -1900,7 +1942,8 @@
 \bibleverse{22} Ahora pues sabed de cierto que á cuchillo, y de hambre y pestilencia, moriréis en el lugar donde deseasteis entrar para peregrinar allí. 
 
 ## Desobediencia de los advertidos; Jeremías y Baruc son llevados contra su voluntad a Egipto
-# 43 
+\hypertarget{section-24-43}{%
+\section{43}\label{section-24-43}}
 \bibleverse{1} Y aconteció que como Jeremías acabó de hablar á todo el pueblo todas las palabras de Jehová Dios de ellos, todas estas palabras por las cuales Jehová Dios de ellos le había enviado á ellos mismos, 
 \bibleverse{2} Dijo Azarías hijo de Osaías, y Johanán hijo de Carea, y todos los varones soberbios dijeron á Jeremías: Mentira dices; no te ha enviado Jehová nuestro Dios para decir: No entréis en Egipto á peregrinar allí. 
 \bibleverse{3} Sino que Baruch hijo de Nerías te incita contra nosotros, para entregarnos en mano de los Caldeos, para matarnos y para hacernos trasportar á Babilonia.
@@ -1921,7 +1964,8 @@
 \bibleverse{13} Además, quebrará las estatuas de Beth-semes, que es en tierra de Egipto, y las casas de los dioses de Egipto quemará á fuego. 
 
 ## El discurso amenazador de Jeremías contra la idolatría de los judíos
-# 44 
+\hypertarget{section-24-44}{%
+\section{44}\label{section-24-44}}
 \bibleverse{1} Palabra que fué á Jeremías acerca de todos los Judíos que moraban en la tierra de Egipto, que moraban en Migdol, y en Taphnes, y en Noph, y en tierra de Pathros, diciendo: 
 \bibleverse{2} Así ha dicho Jehová de los ejércitos, Dios de Israel: Vosotros habéis visto todo el mal que traje sobre Jerusalem y sobre todas las ciudades de Judá: y he aquí que ellas están el día de hoy asoladas, ni hay en ellas morador; 
 \bibleverse{3} A causa de la maldad de ellos que cometieron para hacerme enojar, yendo á ofrecer sahumerios, honrando dioses ajenos que ellos no habían conocido, vosotros, ni vuestros padres. 
@@ -1973,7 +2017,8 @@
 \bibleverse{30} Así ha dicho Jehová: He aquí que yo entrego á Faraón Hophra rey de Egipto en mano de sus enemigos, y en mano de los que buscan su alma, como entregué á Sedechîas rey de Judá en mano de Nabucodonosor rey de Babilonia, su enemigo, y que buscaba su alma. 
 
 ## Palabras de advertencia y consuelo de Jeremías a Baruc
-# 45 
+\hypertarget{section-24-45}{%
+\section{45}\label{section-24-45}}
 \bibleverse{1} Palabra que habló Jeremías profeta á Baruch hijo de Nerías, cuando escribía en el libro estas palabras de boca de Jeremías, el año cuarto de Joacim hijo de Josías, rey de Judá, diciendo: 
 \bibleverse{2} Así ha dicho Jehová Dios de Israel, á ti, oh Baruch: 
 \bibleverse{3} Tú dijiste: ¡Ay de mí ahora! porque me ha añadido Jehová tristeza sobre mi dolor; trabajé en mi gemido, y no he hallado descanso.
@@ -1983,7 +2028,8 @@
 \bibleverse{5} ¿Y tú buscas para ti grandezas? No busques; porque he aquí que yo traigo mal sobre toda carne, ha dicho Jehová, y á ti te daré tu vida por despojo en todos los lugares adonde fueres. 
 
 ## Profecías contra pueblos extranjeros (paganos)
-# 46 
+\hypertarget{section-24-46}{%
+\section{46}\label{section-24-46}}
 \bibleverse{1} Palabra de Jehová que fué á Jeremías profeta, contra las gentes.
 
 ## La marcha orgullosa de los egipcios; su derrota en Carchemisch
@@ -2025,7 +2071,8 @@
 \bibleverse{28} Tú, siervo mío Jacob, no temas, dice Jehová; porque yo soy contigo: porque haré consumación en todas las gentes á las cuales te habré echado; mas en ti no haré consumación, sino que te castigaré con juicio, y no te talaré del todo. 
 
 ## Diciendo de la tierra filistea
-# 47 
+\hypertarget{section-24-47}{%
+\section{47}\label{section-24-47}}
 \bibleverse{1} Palabra de Jehová que fué á Jeremías profeta acerca de los Palestinos, antes que Faraón hiriese á Gaza.
 
  
@@ -2037,7 +2084,8 @@
 \bibleverse{7} ¿Cómo reposarás? pues que Jehová lo ha enviado contra Ascalón, y á la ribera de la mar, allí lo puso. 
 
 ## La devastación de la tierra y la huida general
-# 48 
+\hypertarget{section-24-48}{%
+\section{48}\label{section-24-48}}
 \bibleverse{1} Acerca de Moab. Así ha dicho Jehová de los ejércitos, Dios de Israel: ¡Ay de Nebo! que fué destruída, fué avergonzada; Chîriathaim fué tomada; fué confusa Misgab, y desmayó. 
 \bibleverse{2} No se alabará ya más Moab; contra Hesbón maquinaron mal, diciendo: Venid, y quitémosla de entre las gentes. También tú, Madmén, serás cortada, espada irá tras ti. 
 \bibleverse{3} ¡Voz de clamor de Horonaim, destrucción y gran quebrantamiento! 
@@ -2105,7 +2153,8 @@
 \bibleverse{47} Empero haré tornar el cautiverio de Moab en lo postrero de los tiempos, dice Jehová. Hasta aquí es el juicio de Moab. 
 
 ## Hablando de los amonitas
-# 49 
+\hypertarget{section-24-49}{%
+\section{49}\label{section-24-49}}
 \bibleverse{1} De los hijos de Ammón. Así ha dicho Jehová: ¿No tiene hijos Israel? ¿No tiene heredero? ¿Por qué tomó como por heredad el rey de ellos á Gad, y su pueblo habitó en sus ciudades? 
 \bibleverse{2} Por tanto, he aquí vienen días, ha dicho Jehová, en que haré oir en Rabba de los hijos de Ammón clamor de guerra; y será puesta en montón de asolamiento, y sus ciudades serán puestas á fuego, é Israel tomará por heredad á los que los tomaron á ellos, ha dicho Jehová. 
 \bibleverse{3} Aulla, oh Hesbón, porque destruída es Hai; clamad, hijas de Rabba, vestíos de sacos, endechad, y rodead por los vallados, porque el rey de ellos fué en cautiverio, sus sacerdotes y sus príncipes juntamente. 
@@ -2161,7 +2210,8 @@
 \bibleverse{39} Mas acontecerá en lo postrero de los días, que haré tornar la cautividad de Elam, dice Jehová. 
 
 ## La caída de Babilonia y su importancia para el sufrido pueblo judío
-# 50 
+\hypertarget{section-24-50}{%
+\section{50}\label{section-24-50}}
 \bibleverse{1} Palabra que habló Jehová contra Babilonia, contra la tierra de los Caldeos, por mano de Jeremías profeta. 
 \bibleverse{2} Denunciad en las gentes, y haced saber; levantad también bandera: publicad, y no encubráis: decid: Tomada es Babilonia, Bel es confundido, deshecho es Merodach; confundidas son sus esculturas, quebrados son sus ídolos. 
 \bibleverse{3} Porque subió contra ella gente del aquilón, la cual pondrá su tierra en asolamiento, y no habrá ni hombre ni animal que en ella more: moviéronse, se fueron. 
@@ -2227,7 +2277,8 @@
 \bibleverse{46} Del grito de la toma de Babilonia la tierra tembló, y el clamor se oyó entre las gentes. 
 
 ## El juicio de Babilonia ha sido decidido
-# 51 
+\hypertarget{section-24-51}{%
+\section{51}\label{section-24-51}}
 \bibleverse{1} Así ha dicho Jehová: He aquí que yo levanto sobre Babilonia, y sobre sus moradores que se levantan contra mí, un viento destruidor. 
 \bibleverse{2} Y enviaré á Babilonia aventadores que la avienten, y vaciarán su tierra; porque serán contra ella de todas partes en el día del mal. 
 \bibleverse{3} Diré al flechero que entesa su arco, y al que se pone orgulloso con su loriga: No perdonéis á sus mancebos, destruid todo su ejército. 
@@ -2327,7 +2378,8 @@
 \bibleverse{64} Y dirás: Así será anegada Babilonia, y no se levantará del mal que yo traigo sobre ella; y serán rendidos. Hasta aquí son las palabras de Jeremías. 
 
 ## La desolación de Sedequías; El sitio de Jerusalén; Escape y captura del rey; Juzgado penal de Ribla
-# 52 
+\hypertarget{section-24-52}{%
+\section{52}\label{section-24-52}}
 \bibleverse{1} Era Sedechîas de edad de veintiún años cuando comenzó á reinar, y reinó once años en Jerusalem. Su madre se llamaba Hamutal, hija de Jeremías, de Libna. 
 \bibleverse{2} E hizo lo malo en los ojos de Jehová, conforme á todo lo que hizo Joacim. 
 \bibleverse{3} Y á causa de la ira de Jehová contra Jerusalem y Judá, fué el llegar á echarlos de su presencia: y rebelóse Sedechîas contra el rey de Babilonia.

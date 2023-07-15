@@ -1,5 +1,6 @@
 ## La piedad y la fortuna exterior de Job; su preocupación por el temor de Dios de sus hijos
-# 1 
+\hypertarget{section-18-1}{%
+\section{1}\label{section-18-1}}
 \bibleverse{1} Hubo un varón en tierra de Hus, llamado Job; y era este hombre perfecto y recto, y temeroso de Dios, y apartado del mal. 
 \bibleverse{2} Y naciéronle siete hijos y tres hijas. 
 \bibleverse{3} Y su hacienda era siete mil ovejas, y tres mil camellos, y quinientas yuntas de bueyes, y quinientas asnas, y muchísimos criados: y era aquel varón grande más que todos los Orientales. 
@@ -42,7 +43,8 @@
 \bibleverse{22} En todo esto no pecó Job, ni atribuyó á Dios despropósito alguno. 
 
 ## La piedad de Job también se prueba en la segunda prueba; Nuevos acuerdos entre Dios y Satanás
-# 2 
+\hypertarget{section-18-2}{%
+\section{2}\label{section-18-2}}
 \bibleverse{1} Y otro día aconteció que vinieron los hijos de Dios para presentarse delante de Jehová, y Satán vino también entre ellos pareciendo delante de Jehová. 
 \bibleverse{2} Y dijo Jehová á Satán: ¿De dónde vienes? Respondió Satán á Jehová, y dijo: De rodear la tierra, y de andar por ella.
 
@@ -72,7 +74,8 @@
 \bibleverse{13} Así se sentaron con él en tierra por siete días y siete noches, y ninguno le hablaba palabra, porque veían que el dolor era muy grande. 
 
 ## El lamento desesperado de Job
-# 3 
+\hypertarget{section-18-3}{%
+\section{3}\label{section-18-3}}
 \bibleverse{1} Después de esto abrió Job su boca, y maldijo su día. 
 \bibleverse{2} Y exclamó Job, y dijo: 
 \bibleverse{3} Perezca el día en que yo nací, y la noche que se dijo: Varón es concebido. 
@@ -101,7 +104,8 @@
 \bibleverse{26} No he tenido paz, no me aseguré, ni me estuve reposado; vínome no obstante turbación. 
 
 ## Eliphaz excusa su intento de corregir a Job señalando el comportamiento pasado de Job hacia muchos que sufren
-# 4 
+\hypertarget{section-18-4}{%
+\section{4}\label{section-18-4}}
 \bibleverse{1} Y respondió Eliphaz el Temanita, y dijo: 
 \bibleverse{2} Si probáremos á hablarte, serte ha molesto; mas ¿quién podrá detener las palabras? 
 \bibleverse{3} He aquí, tú enseñabas á muchos, y las manos flacas corroborabas; 
@@ -131,7 +135,8 @@
 \bibleverse{21} ¿Su hermosura, no se pierde con ellos mismos? Mueren, y sin sabiduría. 
 
 ## El sufrimiento autoinfligido no tiene defensor y solo aumenta con el resentimiento
-# 5 
+\hypertarget{section-18-5}{%
+\section{5}\label{section-18-5}}
 \bibleverse{1} Ahora pues da voces, si habrá quien te responda; ¿y á cuál de los santos te volverás? 
 \bibleverse{2} Es cierto que al necio la ira lo mata, y al codicioso consume la envidia. 
 \bibleverse{3} Yo he visto al necio que echaba raíces, y en la misma hora maldije su habitación. 
@@ -167,7 +172,8 @@
 \bibleverse{27} He aquí lo que hemos inquirido, lo cual es así: óyelo, y juzga tú para contigo. 
 
 ## Job excusa la amargura de la queja que expresa con la terrible severidad de su sufrimiento
-# 6 
+\hypertarget{section-18-6}{%
+\section{6}\label{section-18-6}}
 \bibleverse{1} Y respondió Job y dijo: 
 \bibleverse{2} ¡Oh si pesasen al justo mi queja y mi tormento, y se alzasen igualmente en balanza! 
 \bibleverse{3} Porque pesaría aquél más que la arena del mar: y por tanto mis palabras son cortadas. 
@@ -209,7 +215,8 @@
 \bibleverse{30} ¿Hay iniquidad en mi lengua? ¿no puede mi paladar discernir las cosas depravadas? 
 
 ## Job deplora las dificultades y la brevedad de la vida humana en general y su propia situación desesperada en particular
-# 7 
+\hypertarget{section-18-7}{%
+\section{7}\label{section-18-7}}
 \bibleverse{1} Ciertamente tiempo limitado tiene el hombre sobre la tierra, y sus días son como los días del jornalero. 
 \bibleverse{2} Como el siervo anhela la sombra, y como el jornalero espera el reposo de su trabajo: 
 \bibleverse{3} Así poseo yo meses de vanidad, y noches de trabajo me dieron por cuenta. 
@@ -236,7 +243,8 @@
 \bibleverse{21} ¿Y por qué no quitas mi rebelión, y perdonas mi iniquidad? porque ahora dormiré en el polvo, y si me buscares de mañana, ya no seré. 
 
 ## Fuerte énfasis en la justicia de Dios, que se ha demostrado que es un juicio contra los hijos de Job y resultará ser bueno para Job si busca a Dios con sinceridad
-# 8 
+\hypertarget{section-18-8}{%
+\section{8}\label{section-18-8}}
 \bibleverse{1} Y respondió Bildad Suhita, y dijo: 
 \bibleverse{2} ¿Hasta cuándo hablarás tales cosas, y las palabras de tu boca serán como un viento fuerte? 
 \bibleverse{3} ¿Acaso pervertirá Dios el derecho, ó el Todopoderoso pervertirá la justicia? 
@@ -267,7 +275,8 @@
 \bibleverse{22} Los que te aborrecen, serán vestidos de confusión; y la habitación de los impíos perecerá. 
 
 ## Sí, Dios siempre tiene razón porque nadie puede resistirlo, el Todopoderoso
-# 9 
+\hypertarget{section-18-9}{%
+\section{9}\label{section-18-9}}
 \bibleverse{1} Y respondió Job, y dijo: 
 \bibleverse{2} Ciertamente yo conozco que es así: ¿y cómo se justificará el hombre con Dios? 
 \bibleverse{3} Si quisiere contender con él, no le podrá responder á una cosa de mil. 
@@ -314,7 +323,8 @@
 \bibleverse{35} Entonces hablaré, y no le temeré: porque así no estoy en mí mismo. 
 
 ## ¿Cómo puede sólo Dios, con su omnisciencia y perfección, ser un perseguidor de Job?
-# 10 
+\hypertarget{section-18-10}{%
+\section{10}\label{section-18-10}}
 \bibleverse{1} Está mi alma aburrida de mi vida: daré yo suelta á mi queja sobre mí, hablaré con amargura de mi alma. 
 \bibleverse{2} Diré á Dios: no me condenes; hazme entender por qué pleiteas conmigo. 
 \bibleverse{3} ¿Parécete bien que oprimas, que deseches la obra de tus manos, y que resplandezcas sobre el consejo de los impíos? 
@@ -345,7 +355,8 @@
 \bibleverse{22} Tierra de oscuridad, lóbrega como sombra de muerte, sin orden, y que aparece como la oscuridad misma. 
 
 ## El discurso de Job exige rechazo; Con su perspicacia, Dios vio claramente a través de la culpa de Job y lo castigó con paciencia
-# 11 
+\hypertarget{section-18-11}{%
+\section{11}\label{section-18-11}}
 \bibleverse{1} Y respondió Sophar Naamathita, y dijo: 
 \bibleverse{2} ¿Las muchas palabras no han de tener respuesta? ¿y el hombre parlero será justificado? 
 \bibleverse{3} ¿Harán tus falacias callar á los hombres? ¿y harás escarnio, y no habrá quien te avergüence? 
@@ -371,7 +382,8 @@
 \bibleverse{20} Mas los ojos de los malos se consumirán, y no tendrán refugio; y su esperanza será agonía del alma. 
 
 ## La queja de Job sobre la sabiduría imaginada y la despiadada falta de amor de los amigos
-# 12 
+\hypertarget{section-18-12}{%
+\section{12}\label{section-18-12}}
 \bibleverse{1} Y respondió Job, y dijo: 
 \bibleverse{2} Ciertamente que vosotros sois el pueblo; y con vosotros morirá la sabiduría. 
 \bibleverse{3} También tengo yo seso como vosotros; no soy yo menos que vosotros: ¿y quién habrá que no pueda decir otro tanto? 
@@ -405,7 +417,8 @@
 \bibleverse{25} Van á tientas como en tinieblas y sin luz, y los hace errar como borrachos. 
 
 ## Job equipara su conocimiento con el de sus amigos y apela al conocimiento de Dios, quien solo puede ver en sus amigos defensores mentirosos de su justicia dignos de castigo
-# 13 
+\hypertarget{section-18-13}{%
+\section{13}\label{section-18-13}}
 \bibleverse{1} [He]{.smallcaps} aquí que todas estas cosas han visto mis ojos, y oído y entendido de por sí mis oídos. 
 \bibleverse{2} Como vosotros lo sabéis, lo sé yo; no soy menos que vosotros. 
 \bibleverse{3} Mas yo hablaría con el Todopoderoso, y querría razonar con Dios. 
@@ -439,7 +452,8 @@
 \bibleverse{28} Y el cuerpo mío se va gastando como de carcoma, como vestido que se come de polilla. 
 
 ## La vida humana es corta y al mismo tiempo llena de privaciones; ¿Por qué Dios no lo deja ir en paz?
-# 14 
+\hypertarget{section-18-14}{%
+\section{14}\label{section-18-14}}
 \bibleverse{1} [El]{.smallcaps} hombre nacido de mujer, corto de días, y harto de sinsabores: 
 \bibleverse{2} Que sale como una flor y es cortado; y huye como la sombra, y no permanece. 
 \bibleverse{3} ¿Y sobre éste abres tus ojos, y me traes á juicio contigo? 
@@ -470,7 +484,8 @@
 \bibleverse{22} Mas su carne sobre él se dolerá, y entristecerse ha en él su alma. 
 
 ## Eliphas reprende las declaraciones de Job como vanas, impías y arrogantes palabras contra Dios
-# 15 
+\hypertarget{section-18-15}{%
+\section{15}\label{section-18-15}}
 \bibleverse{1} Y respondió Eliphaz Temanita, y dijo: 
 \bibleverse{2} ¿Si proferirá el sabio vana sabiduría, y henchirá su vientre de viento solano? 
 \bibleverse{3} ¿Disputará con palabras inútiles, y con razones sin provecho? 
@@ -511,7 +526,8 @@
 \bibleverse{35} Concibieron dolor, y parieron iniquidad; y las entrañas de ellos meditan engaño. 
 
 ## Job rechaza los consuelos de los amigos como discursos ventosos y burlas
-# 16 
+\hypertarget{section-18-16}{%
+\section{16}\label{section-18-16}}
 \bibleverse{1} Y respondió Job, y dijo: 
 \bibleverse{2} Muchas veces he oído cosas como estas: consoladores molestos sois todos vosotros. 
 \bibleverse{3} ¿Tendrán fin las palabras ventosas? ó ¿qué te animará á responder? 
@@ -542,7 +558,8 @@
 \bibleverse{22} Mas los años contados vendrán, y yo iré el camino por donde no volveré. 
 
 ## Job expone las razones que deben hacer que Dios lo defienda ante la locura y la insensibilidad de los amigos y respecto a la participación de los piadosos
-# 17 
+\hypertarget{section-18-17}{%
+\section{17}\label{section-18-17}}
 \bibleverse{1} [Mi]{.smallcaps} aliento está corrompido, acórtanse mis días, y me está aparejado el sepulcro. 
 \bibleverse{2} No hay conmigo sino escarnecedores, en cuya acrimonia se detienen mis ojos. 
 \bibleverse{3} Pon ahora, dame fianza para litigar contigo: ¿quién tocará ahora mi mano? 
@@ -564,7 +581,8 @@
 \bibleverse{16} A los rincones de la huesa descenderán, y juntamente descansarán en el polvo. 
 
 ## Expresando disgusto por el discurso arrogante y moralista de Job
-# 18 
+\hypertarget{section-18-18}{%
+\section{18}\label{section-18-18}}
 \bibleverse{1} Y respondió Bildad Suhita, y dijo: 
 \bibleverse{2} ¿Cuándo pondréis fin á las palabras? Entended, y después hablemos. 
 \bibleverse{3} ¿Por qué somos tenidos por bestias, y en vuestros ojos somos viles? 
@@ -591,7 +609,8 @@
 \bibleverse{21} Ciertamente tales son las moradas del impío, y este será el lugar del que no conoció á Dios. 
 
 ## La queja de Job sobre sus amigos que lo reprenden sin evidencia en lugar de culpar a Dios por una enemistad sin fundamento
-# 19 
+\hypertarget{section-18-19}{%
+\section{19}\label{section-18-19}}
 \bibleverse{1} Y respondió Job, y dijo: 
 \bibleverse{2} ¿Hasta cuándo angustiaréis mi alma, y me moleréis con palabras? 
 \bibleverse{3} Ya me habéis vituperado diez veces: ¿no os avergonzáis de descomediros delante de mí? 
@@ -629,7 +648,8 @@
 \bibleverse{29} Temed vosotros delante de la espada; porque sobreviene el furor de la espada á causa de las injusticias, para que sepáis que hay un juicio. 
 
 ## Breve rechazo del discurso ofensivo de Job
-# 20 
+\hypertarget{section-18-20}{%
+\section{20}\label{section-18-20}}
 \bibleverse{1} Y respondió Sophar Naamathita, y dijo: 
 \bibleverse{2} Por cierto mis pensamientos me hacen responder, y por tanto me apresuro. 
 \bibleverse{3} La reprensión de mi censura he oído, y háceme responder el espíritu de mi inteligencia.
@@ -664,7 +684,8 @@
 \bibleverse{29} Esta es la parte que Dios apareja al hombre impío, y la heredad que Dios le señala por su palabra. 
 
 ## La solicitud de Job a sus amigos de escuchar su declaración significativa, aunque dolorosa, que sigue
-# 21 
+\hypertarget{section-18-21}{%
+\section{21}\label{section-18-21}}
 \bibleverse{1} Y respondió Job, y dijo: 
 \bibleverse{2} Oid atentamente mi palabra, y sea esto vuestros consuelos. 
 \bibleverse{3} Soportadme, y yo hablaré; y después que hubiere hablado, escarneced. 
@@ -710,7 +731,8 @@
 \bibleverse{34} ¿Cómo pues me consoláis en vano, viniendo á parar vuestras respuestas en falacia? 
 
 ## Eliphaz ahora expresa sin reservas que Job merecía su desgracia
-# 22 
+\hypertarget{section-18-22}{%
+\section{22}\label{section-18-22}}
 \bibleverse{1} Y respondió Eliphaz Temanita, y dijo: 
 \bibleverse{2} ¿Traerá el hombre provecho á Dios, porque el sabio sea provechoso á sí mismo? 
 \bibleverse{3} ¿Tiene su contentamiento el Omnipotente en que tú seas justificado, ó provecho de que tú hagas perfectos tus caminos? 
@@ -752,7 +774,8 @@
 \bibleverse{30} El libertará la isla del inocente; y por la limpieza de tus manos será librada. 
 
 ## Job se siente menos perturbado por su sufrimiento inocente que por la conducta incomprensible e injustificable de Dios
-# 23 
+\hypertarget{section-18-23}{%
+\section{23}\label{section-18-23}}
 \bibleverse{1} Y respondió Job, y dijo: 
 \bibleverse{2} Hoy también hablaré con amargura; que es más grave mi llaga que mi gemido. 
 \bibleverse{3} ¡Quién me diera el saber dónde hallar á Dios! yo iría hasta su silla. 
@@ -772,7 +795,8 @@
 \bibleverse{17} ¿Por qué no fuí yo cortado delante de las tinieblas, y cubrió con oscuridad mi rostro? 
 
 ## Job da ejemplos del incomprensible gobierno de Dios en el sufrimiento de los inocentes y en la felicidad de los malvados
-# 24 
+\hypertarget{section-18-24}{%
+\section{24}\label{section-18-24}}
 \bibleverse{1} Puesto que no son ocultos los tiempos al Todopoderoso, ¿por qué los que le conocen no ven sus días? 
 \bibleverse{2} Traspasan los términos, roban los ganados, y apaciéntanlos. 
 \bibleverse{3} Llévanse el asno de los huérfanos; prenden el buey de la viuda. 
@@ -800,7 +824,8 @@
 \bibleverse{25} Y si no, ¿quién me desmentirá ahora, ó reducirá á nada mis palabras? 
 
 ## Referencia al irresistible gobierno de Dios en las alturas y a la naturaleza pecaminosa e imperfección del hombre
-# 25 
+\hypertarget{section-18-25}{%
+\section{25}\label{section-18-25}}
 \bibleverse{1} Y respondió Bildad Suhita, y dijo: 
 \bibleverse{2} El señorío y el temor están con él: él hace paz en sus alturas. 
 \bibleverse{3} ¿Tienen sus ejércitos número? ¿y sobre quién no está su luz? 
@@ -809,7 +834,8 @@
 \bibleverse{6} ¿Cuánto menos el hombre que es un gusano, y el hijo de hombre, también gusano? 
 
 ## Manejo amargo del discurso de Bildad, que no contenía ni consuelo ni sabios consejos
-# 26 
+\hypertarget{section-18-26}{%
+\section{26}\label{section-18-26}}
 \bibleverse{1} Y respondió Job, y dijo: 
 \bibleverse{2} ¿En qué ayudaste al que no tiene fuerza? ¿has amparado al brazo sin fortaleza? 
 \bibleverse{3} ¿En qué aconsejaste al que no tiene ciencia, y mostraste bien sabiduría? 
@@ -829,7 +855,8 @@
 \bibleverse{14} He aquí, estas son partes de sus caminos: ¡mas cuán poco hemos oído de él! Porque el estruendo de sus fortalezas, ¿quién lo detendrá? 
 
 ## Job declara que debe aferrarse a la convicción de su inocencia jurada para no convertirse en un mentiroso
-# 27 
+\hypertarget{section-18-27}{%
+\section{27}\label{section-18-27}}
 \bibleverse{1} Y reasumió Job su discurso, y dijo: 
 \bibleverse{2} Vive Dios, el cual ha apartado mi causa, y el Omnipotente, que amargó el alma mía, 
 \bibleverse{3} Que todo el tiempo que mi alma estuviere en mí, y hubiere hálito de Dios en mis narices, 
@@ -861,7 +888,8 @@
 \bibleverse{23} Batirán sus manos sobre él, y desde su lugar le silbarán. 
 
 ## Todos los tesoros, incluidos los escondidos en las profundidades de la tierra, se pueden encontrar y hacer suyos
-# 28 
+\hypertarget{section-18-28}{%
+\section{28}\label{section-18-28}}
 \bibleverse{1} Ciertamente la plata tiene sus veneros, y el oro lugar donde se forma. 
 \bibleverse{2} El hierro se saca del polvo, y de la piedra es fundido el metal. 
 \bibleverse{3} A las tinieblas puso término, y examina todo á la perfección, las piedras que hay en la oscuridad y en la sombra de muerte. 
@@ -898,7 +926,8 @@
 \bibleverse{28} Y dijo al hombre: He aquí que el temor del Señor es la sabiduría, y el apartarse del mal la inteligencia. 
 
 ## Descripción de la bendición divina anterior
-# 29 
+\hypertarget{section-18-29}{%
+\section{29}\label{section-18-29}}
 \bibleverse{1} Y volvió Job á tomar su propósito, y dijo: 
 \bibleverse{2} ¡Quién me tornase como en los meses pasados, como en los días que Dios me guardaba, 
 \bibleverse{3} Cuando hacía resplandecer su candela sobre mi cabeza, á la luz de la cual yo caminaba en la oscuridad; 
@@ -929,7 +958,8 @@
 \bibleverse{25} Calificaba yo el camino de ellos, y sentábame en cabecera; y moraba como rey en el ejército, como el que consuela llorosos. 
 
 ## Job recibe desprecio, insultos y ataques incluso de las personas más deshonrosas
-# 30 
+\hypertarget{section-18-30}{%
+\section{30}\label{section-18-30}}
 \bibleverse{1} Mas ahora los más mozos de días que yo, se ríen de mí; cuyos padres yo desdeñara ponerlos con los perros de mi ganado. 
 \bibleverse{2} Porque ¿para qué yo habría menester la fuerza de sus manos, en los cuales había perecido con el tiempo? 
 \bibleverse{3} Por causa de la pobreza y del hambre andaban solos; huían á la soledad, á lugar tenebroso, asolado y desierto. 
@@ -969,7 +999,8 @@
 \bibleverse{31} Y hase tornado mi arpa en luto, y mi órgano en voz de lamentadores. 
 
 ## El gran juramento de limpieza de Job para establecer su justicia (= temor de Dios sin daño)
-# 31 
+\hypertarget{section-18-31}{%
+\section{31}\label{section-18-31}}
 \bibleverse{1} Hice pacto con mis ojos: ¿cómo pues había yo de pensar en virgen? 
 \bibleverse{2} Porque ¿qué galardón me daría de arriba Dios, y qué heredad el Omnipotente de las alturas? 
 \bibleverse{3} ¿No hay quebrantamiento para el impío, y extrañamiento para los que obran iniquidad? 
@@ -1015,7 +1046,8 @@
 \bibleverse{40} En lugar de trigo me nazcan abrojos, y espinas en lugar de cebada. Acábanse las palabras de Job. 
 
 ## Información sobre Eliú y su comportamiento anterior
-# 32 
+\hypertarget{section-18-32}{%
+\section{32}\label{section-18-32}}
 \bibleverse{1} Y cesaron estos tres varones de responder á Job, por cuanto él era justo en sus ojos. 
 \bibleverse{2} Entonces Eliú hijo de Barachêl, Bucita,, de la familia de Ram, se enojó con furor contra Job: enojóse con furor, por cuanto justificaba su vida más que á Dios. 
 \bibleverse{3} Enojóse asimismo con furor contra sus tres amigos, porque no hallaban qué responder, aunque habían condenado á Job. 
@@ -1046,7 +1078,8 @@
 \bibleverse{22} Porque no sé hablar lisonjas: de otra manera en breve mi Hacedor me consuma. 
 
 ## Discurso amistoso de Eliú e invitación a Job para que comentara
-# 33 
+\hypertarget{section-18-33}{%
+\section{33}\label{section-18-33}}
 \bibleverse{1} Por tanto, Job, oye ahora mis razones, y escucha todas mis palabras. 
 \bibleverse{2} He aquí yo abriré ahora mi boca, y mi lengua hablará en mi garganta. 
 \bibleverse{3} Mis razones declararán la rectitud de mi corazón, y mis labios proferirán pura sabiduría. 
@@ -1091,7 +1124,8 @@
 \bibleverse{33} Y si no, óyeme tú á mí; calla, y enseñarte he sabiduría. 
 
 ## Estableciendo la afirmación de Job de que Dios es injusto
-# 34 
+\hypertarget{section-18-34}{%
+\section{34}\label{section-18-34}}
 \bibleverse{1} Además respondió Eliú, y dijo: 
 \bibleverse{2} Oid, sabios, mis palabras; y vosotros, doctos, estadme atentos. 
 \bibleverse{3} Porque el oído prueba las palabras, como el paladar gusta para comer. 
@@ -1137,7 +1171,8 @@
 \bibleverse{37} Porque á su pecado añadió impiedad: bate las manos entre nosotros, y contra Dios multiplica sus palabras. 
 
 ## Eliú combate la afirmación de Job de que el temor de Dios no sirve de nada, y señala que lo que la gente hace no es importante para Dios, sino solo para la gente
-# 35 
+\hypertarget{section-18-35}{%
+\section{35}\label{section-18-35}}
 \bibleverse{1} Y procediendo Eliú en su razonamiento, dijo: 
 \bibleverse{2} ¿Piensas ser conforme á derecho esto que dijiste: Más justo soy yo que Dios? 
 \bibleverse{3} Porque dijiste: ¿Qué ventaja sacarás tú de ello? ¿ó qué provecho tendré de mi pecado? 
@@ -1158,7 +1193,8 @@
 \bibleverse{15} Mas ahora, porque en su ira no visita, ni conoce con rigor, por eso Job abrió su boca vanamente, y multiplica palabras sin sabiduría. 
 
 ## Eliú justifica su siguiente enseñanza con referencia a su perfecto conocimiento
-# 36 
+\hypertarget{section-18-36}{%
+\section{36}\label{section-18-36}}
 \bibleverse{1} Y añadió Eliú, y dijo: 
 \bibleverse{2} Espérame un poco, y enseñarte he; porque todavía tengo razones en orden á Dios. 
 \bibleverse{3} Tomaré mi noticia de lejos, y atribuiré justicia á mi Hacedor. 
@@ -1202,7 +1238,8 @@
 \bibleverse{32} Con las nubes encubre la luz, y mándale no brillar, interponiendo aquéllas. 
 \bibleverse{33} Tocante á ella anunciará el trueno, su compañero, que hay acumulación de ira sobre el que se eleva. 
 
-# 37 
+\hypertarget{section-18-37}{%
+\section{37}\label{section-18-37}}
 \bibleverse{1} A esto también se espanta mi corazón, y salta de su lugar. 
 \bibleverse{2} Oid atentamente su voz terrible, y el sonido que sale de su boca. 
 \bibleverse{3} Debajo de todos los cielos lo dirige, y su luz hasta los fines de la tierra. 
@@ -1232,7 +1269,8 @@
 \bibleverse{24} Temerlo han por tanto los hombres: él no mira á los sabios de corazón. 
 
 ## La invitación de Dios a Job para que le hable
-# 38 
+\hypertarget{section-18-38}{%
+\section{38}\label{section-18-38}}
 \bibleverse{1} Y respondió Jehová á Job desde un torbellino, y dijo: 
 \bibleverse{2} ¿Quién es ése que oscurece el consejo con palabras sin sabiduría? 
 \bibleverse{3} Ahora ciñe como varón tus lomos; yo te preguntaré, y hazme saber tú.
@@ -1275,7 +1313,8 @@
 \bibleverse{37} ¿Quién puso por cuenta los cielos con sabiduría? y los odres de los cielos, ¿quién los hace parar, 
 \bibleverse{38} Cuando el polvo se ha convertido en dureza, y los terrones se han pegado unos con otros? 
 
-# 39 
+\hypertarget{section-18-39}{%
+\section{39}\label{section-18-39}}
 \bibleverse{1} ¿Cazarás tú la presa para el león? ¿y saciarás el hambre de los leoncillos, 
 \bibleverse{2} Cuando están echados en las cuevas, ó se están en sus guaridas para acechar? 
 \bibleverse{3} ¿Quién preparó al cuervo su alimento, cuando sus pollos claman á Dios, bullendo de un lado á otro por carecer de comida? 
@@ -1308,7 +1347,8 @@
 \bibleverse{30} ¿Se remonta el águila por tu mandamiento, y pone en alto su nido? Ella habita y está en la piedra, en la cumbre del peñasco y de la roca. Desde allí acecha la comida: sus ojos observan de muy lejos. Sus pollos chupan la sangre: y donde hubiere cadáveres, allí está. A más de eso respondió Jehová á Job, y dijo: ¿Es sabiduría contender con el Omnipotente? El que disputa con Dios, responda á esto. Y respondió Job á Jehová, y dijo: He aquí que yo soy vil, ¿qué te responderé? Mi mano pongo sobre mi boca. Una vez hablé, y no responderé: aun dos veces, mas no tornaré á hablar. 
 
 ## La invitación de Dios a Job para entablar un litigio con él; Job renuncia a sus cargos contra Dios
-# 40 
+\hypertarget{section-18-40}{%
+\section{40}\label{section-18-40}}
 \bibleverse{1} Entonces respondió Jehová á Job desde la oscuridad, y dijo: 
 \bibleverse{2} Cíñete ahora como varón tus lomos; yo te preguntaré, y explícame. 
 \bibleverse{3} ¿Invalidarás tú también mi juicio? ¿me condenarás á mí, para justificarte á ti? 
@@ -1329,7 +1369,8 @@
 \bibleverse{18} He aquí que él tomará el río sin inmutarse: y confíase que el Jordán pasará por su boca. 
 \bibleverse{19} ¿Tomarálo alguno por sus ojos en armadijos, y horadará su nariz? 
 
-# 41 
+\hypertarget{section-18-41}{%
+\section{41}\label{section-18-41}}
 \bibleverse{1} ¿Sacarás tú al leviathán con el anzuelo, ó con la cuerda que le echares en su lengua? 
 \bibleverse{2} ¿Pondrás tú garfio en sus narices, y horadarás con espinas su quijada? 
 \bibleverse{3} ¿Multiplicará él ruegos para contigo? ¿hablaráte él lisonjas? 
@@ -1366,7 +1407,8 @@
 \bibleverse{34} Menosprecia toda cosa alta: es rey sobre todos los soberbios. 
 
 ## La respuesta final de Job: su reconocimiento de la grandeza de Dios y su arrepentida retractación
-# 42 
+\hypertarget{section-18-42}{%
+\section{42}\label{section-18-42}}
 \bibleverse{1} Y respondió Job á Jehová, y dijo: 
 \bibleverse{2} Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti. 
 \bibleverse{3} ¿Quién es el que oscurece el consejo sin ciencia? por tanto yo denunciaba lo que no entendía; cosas que me eran ocultas, y que no las sabía. 

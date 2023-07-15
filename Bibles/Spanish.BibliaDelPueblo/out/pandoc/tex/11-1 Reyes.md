@@ -1,5 +1,6 @@
 ## La vejez de David; Abisag ordenó por Sunem cuidar al rey
-# 1 
+\hypertarget{section-11-1}{%
+\section{1}\label{section-11-1}}
 \bibleverse{1} Como el rey David era viejo, y entrado en días, cubríanle de vestidos, mas no se calentaba. 
 \bibleverse{2} Dijéronle por tanto sus siervos: Busquen á mi señor el rey una moza virgen, para que esté delante del rey, y lo abrigue, y duerma á su lado, y calentará á mi señor el rey. 
 \bibleverse{3} Y buscaron una moza hermosa por todo el término de Israel, y hallaron á Abisag Sunamita, y trajéronla al rey. 
@@ -99,7 +100,8 @@
 \bibleverse{53} Y envió el rey Salomón, y trajéronlo del altar; y él vino, é inclinóse al rey Salomón. Y Salomón le dijo: Vete á tu casa. 
 
 ## Las instrucciones de David a Salomón y su muerte
-# 2 
+\hypertarget{section-11-2}{%
+\section{2}\label{section-11-2}}
 \bibleverse{1} Y llegáronse los días de David para morir, y mandó á Salomón su hijo, diciendo: 
 \bibleverse{2} Yo voy el camino de toda la tierra: esfuérzate, y sé varón. 
 \bibleverse{3} Guarda la ordenanza de Jehová tu Dios, andando en sus caminos, y observando sus estatutos y mandamientos, y sus derechos y sus testimonios, de la manera que está escrito en la ley de Moisés, para que seas dichoso en todo lo que hicieres, y en todo aquello á que te tornares; 
@@ -197,7 +199,8 @@
 \bibleverse{46} Entonces el rey mandó á Benaía hijo de Joiada, el cual salió é hirióle; y murió. Y el reino fué confirmado en la mano de Salomón. 
 
 ## El matrimonio de Salomón con una princesa egipcia; su ofrenda inaugural y su sueño en Gabaón
-# 3 
+\hypertarget{section-11-3}{%
+\section{3}\label{section-11-3}}
 \bibleverse{1} Y Salomón hizo parentesco con Faraón rey de Egipto, porque tomó la hija de Faraón, y trájola á la ciudad de David, entre tanto que acababa de edificar su casa, y la casa de Jehová, y los muros de Jerusalem alrededor. 
 \bibleverse{2} Hasta entonces el pueblo sacrificaba en los altos; porque no había casa edificada al nombre de Jehová hasta aquellos tiempos. 
 \bibleverse{3} Mas Salomón amó á Jehová, andando en los estatutos de su padre David: solamente sacrificaba y quemaba perfumes en los altos.
@@ -254,7 +257,8 @@
 \bibleverse{28} Y todo Israel oyó aquel juicio que había dado el rey: y temieron al rey, porque vieron que había en él sabiduría de Dios para juzgar. 
 
 ## Los principales funcionarios y gobernadores de Salomón; su cortejo, poder y sabiduría
-# 4 
+\hypertarget{section-11-4}{%
+\section{4}\label{section-11-4}}
 \bibleverse{1} Fué pues el rey Salomón rey sobre todo Israel. 
 \bibleverse{2} Y estos fueron los príncipes que tuvo: Azarías hijo de Sadoc, sacerdote; 
 \bibleverse{3} Elioreph y Ahía, hijos de Sisa, escribas; Josaphat hijo de Ahilud, canciller; 
@@ -298,7 +302,8 @@
 \bibleverse{34} Y venían de todos los pueblos á oir la sabiduría de Salomón, y de todos los reyes de la tierra, donde había llegado la fama de su sabiduría. 
 
 ## El contrato de Salomón con Hiram de Tiro y los preparativos para la construcción de un templo
-# 5 
+\hypertarget{section-11-5}{%
+\section{5}\label{section-11-5}}
 \bibleverse{1} Hiram rey de Tiro envió también sus siervos á Salomón, luego que oyó que lo habían ungido por rey en lugar de su padre: porque Hiram había siempre amado á David.
 
 ## Mensaje de Salomón y petición a Hiram
@@ -330,7 +335,8 @@
 \bibleverse{18} Y los albañiles de Salomón y los de Hiram, y los aparejadores, cortaron y aparejaron la madera y la cantería para labrar la casa. 
 
 ## Construcción del templo y palacios reales
-# 6 
+\hypertarget{section-11-6}{%
+\section{6}\label{section-11-6}}
 \bibleverse{1} Y fué en el año cuatrocientos ochenta después que los hijos de Israel salieron de Egipto, en el cuarto año del principio del reino de Salomón sobre Israel, en el mes de Ziph, que es el mes segundo, que él comenzó á edificar la casa de Jehová. 
 \bibleverse{2} La casa que el rey Salomón edificó á Jehová, tuvo sesenta codos de largo y veinte de ancho, y treinta codos de alto. 
 \bibleverse{3} Y el pórtico delante del templo de la casa, de veinte codos de largo, según la anchura de la casa, y su ancho era de diez codos delante de la casa. 
@@ -388,7 +394,8 @@
 \bibleverse{38} Y en el undécimo año, en el mes de Bul, que es el mes octavo, fué acabada la casa con todas sus pertenencias, y con todo lo necesario. Edificóla pues, en siete años. 
 
 ## Descripción de los otros edificios (seculares) de Salomón
-# 7 
+\hypertarget{section-11-7}{%
+\section{7}\label{section-11-7}}
 \bibleverse{1} Después edificó Salomón su propia casa en trece años, y acabóla toda.
 
 ## La casa del bosque del Líbano
@@ -468,7 +475,8 @@
 \bibleverse{51} Así se acabó toda la obra que dispuso hacer el rey Salomón para la casa de Jehová. Y metió Salomón lo que David su padre había dedicado, es á saber, plata, y oro, y vasos, y púsolo todo en guarda en las tesorerías de la casa de Jehová. 
 
 ## Traslado del arca al templo
-# 8 
+\hypertarget{section-11-8}{%
+\section{8}\label{section-11-8}}
 \bibleverse{1} Entonces juntó Salomón los ancianos de Israel, y á todas las cabezas de las tribus, y á los príncipes de las familias de los hijos de Israel, al rey Salomón en Jerusalem para traer el arca del pacto de Jehová de la ciudad de David, que es Sión. 
 \bibleverse{2} Y se juntaron al rey Salomón todos los varones de Israel en el mes de Ethanim, que es el mes séptimo, en el día solemne. 
 \bibleverse{3} Y vinieron todos los ancianos de Israel, y los sacerdotes tomaron el arca. 
@@ -574,7 +582,8 @@
 \bibleverse{66} Y el octavo día despidió al pueblo: y ellos bendiciendo al rey, se fueron á sus estancias alegres y gozosos de corazón por todos los beneficios que Jehová había hecho á David su siervo, y á su pueblo Israel. 
 
 ## La reaparición de Dios y la respuesta a la oración de Salomón
-# 9 
+\hypertarget{section-11-9}{%
+\section{9}\label{section-11-9}}
 \bibleverse{1} Y como Salomón hubo acabado la obra de la casa de Jehová, y la casa real, y todo lo que Salomón quiso hacer, 
 \bibleverse{2} Jehová apareció á Salomón la segunda vez, como le había aparecido en Gabaón. 
 \bibleverse{3} Y díjole Jehová: Yo he oído tu oración y tu ruego, que has hecho en mi presencia. Yo he santificado esta casa que tú has edificado, para poner mi nombre en ella para siempre; y en ella estarán mis ojos y mi corazón todos los días. 
@@ -618,7 +627,8 @@
 \bibleverse{28} Los cuales fueron á Ophir, y tomaron de allí oro, cuatrocientos y veinte talentos, y trajéronlo al rey Salomón. 
 
 ## Visita de la Reina de Saba
-# 10 
+\hypertarget{section-11-10}{%
+\section{10}\label{section-11-10}}
 \bibleverse{1} Y oyendo la reina de Seba la fama de Salomón en el nombre de Jehová, vino á probarle con preguntas. 
 \bibleverse{2} Y vino á Jerusalem con muy grande comitiva, con camellos cargados de especias, y oro en grande abundancia, y piedras preciosas: y como vino á Salomón, propúsole todo lo que en su corazón tenía. 
 \bibleverse{3} Y Salomón le declaró todas sus palabras: ninguna cosa se le escondió al rey, que no le declarase. 
@@ -661,7 +671,8 @@
 \bibleverse{29} Y venía y salía de Egipto, el carro por seiscientas piezas de plata, y el caballo por ciento y cincuenta; y así los sacaban por mano de ellos todos los reyes de los Hetheos, y de Siria. 
 
 ## La poligamia y la idolatría de Salomón; La amenaza de dios
-# 11 
+\hypertarget{section-11-11}{%
+\section{11}\label{section-11-11}}
 \bibleverse{1} Empero el rey Salomón amó, á más de la hija de Faraón, muchas mujeres extranjeras: á las de Moab, á las de Ammón, á las de Idumea, á las de Sidón, y á las Hetheas; 
 \bibleverse{2} Gentes de las cuales Jehová había dicho á los hijos de Israel: No entraréis á ellas, ni ellas entrarán á vosotros; porque ciertamente harán inclinar vuestros corazones tras sus dioses. A éstas pues se juntó Salomón con amor. 
 \bibleverse{3} Y tuvo setecientas mujeres reinas, y trescientas concubinas; y sus mujeres torcieron su corazón. 
@@ -724,7 +735,8 @@
 \bibleverse{43} Y durmió Salomón con sus padres, y fué sepultado en la ciudad de su padre David: y reinó en su lugar Roboam su hijo. 
 
 ## La división del imperio; La dieta de Siquem; Pide ayuda a los israelitas
-# 12 
+\hypertarget{section-11-12}{%
+\section{12}\label{section-11-12}}
 \bibleverse{1} Y fué Roboam á Sichêm; porque todo Israel había venido á Sichêm para hacerlo rey. 
 \bibleverse{2} Y aconteció, que como lo oyó Jeroboam hijo de Nabat, que estaba en Egipto, porque había huído de delante del rey Salomón, y habitaba en Egipto; 
 \bibleverse{3} Enviaron y llamáronle. Vino pues Jeroboam y toda la congregación de Israel, y hablaron á Roboam, diciendo: 
@@ -791,7 +803,8 @@
  
 \bibleverse{33} Sacrificó pues sobre el altar que él había hecho en Beth-el, á los quince del mes octavo, el mes que él había inventado de su corazón; é hizo fiesta á los hijos de Israel, y subió al altar para quemar perfumes. 
 
-# 13 
+\hypertarget{section-11-13}{%
+\section{13}\label{section-11-13}}
 \bibleverse{1} Y he aquí que un varón de Dios por palabra de Jehová vino de Judá á Beth-el; y estando Jeroboam al altar para quemar perfumes, 
 \bibleverse{2} El clamó contra el altar por palabra de Jehová, y dijo: Altar, altar, así ha dicho Jehová: He aquí que á la casa de David nacerá un hijo, llamado Josías, el cual sacrificará sobre ti á los sacerdotes de los altos que queman sobre ti perfumes; y sobre ti quemarán huesos de hombres. 
 \bibleverse{3} Y aquel mismo día dió una señal, diciendo: Esta es la señal de que Jehová ha hablado: he aquí que el altar se quebrará, y la ceniza que sobre él está se derramará.
@@ -857,7 +870,8 @@
 \bibleverse{34} Y esto fué causa de pecado á la casa de Jeroboam; por lo cual fué cortada y raída de sobre la haz de la tierra. 
 
 ## Amenaza de castigo del profeta Ahías; Muerte de Jeroboam
-# 14 
+\hypertarget{section-11-14}{%
+\section{14}\label{section-11-14}}
 \bibleverse{1} En aquel tiempo Abías hijo de Jeroboam cayó enfermo. 
 \bibleverse{2} Y dijo Jeroboam á su mujer: Levántate ahora, disfrázate, porque no te conozcan que eres la mujer de Jeroboam, y ve á Silo; que allá está Ahías profeta, el que me dijo que yo había de ser rey sobre este pueblo. 
 \bibleverse{3} Y toma en tu mano diez panes, y turrones, y una botija de miel, y ve á él; que te declare lo que ha de ser de este mozo.
@@ -909,7 +923,8 @@
 \bibleverse{31} Y durmió Roboam con sus padres, y fué sepultado con sus padres en la ciudad de David. El nombre de su madre fué Naama, Ammonita. Y reinó en su lugar Abiam su hijo. 
 
 ## Gobierno del rey Abia de Judá
-# 15 
+\hypertarget{section-11-15}{%
+\section{15}\label{section-11-15}}
 \bibleverse{1} En el año dieciocho del rey Jeroboam hijo de Nabat, Abiam comenzó á reinar sobre Judá. 
 \bibleverse{2} Reinó tres años en Jerusalem. El nombre de su madre fué Maachâ, hija de Abisalom. 
 \bibleverse{3} Y anduvo en todos los pecados de su padre, que había éste hecho antes de él; y no fué su corazón perfecto con Jehová su Dios, como el corazón de David su padre. 
@@ -962,7 +977,8 @@
 \bibleverse{34} E hizo lo malo á los ojos de Jehová, y anduvo en el camino de Jeroboam, y en su pecado con que hizo pecar á Israel. 
 
 ## La amenaza de juicio del profeta Jehú contra Baesa
-# 16 
+\hypertarget{section-11-16}{%
+\section{16}\label{section-11-16}}
 \bibleverse{1} Y fué palabra de Jehová á Jehú hijo de Hanani contra Baasa, diciendo: 
 \bibleverse{2} Pues que yo te levanté del polvo, y te puse por príncipe sobre mi pueblo Israel, y tú has andado en el camino de Jeroboam, y has hecho pecar á mi pueblo Israel, provocándome á ira con sus pecados; 
 \bibleverse{3} He aquí yo barreré la posteridad de Baasa, y la posteridad de su casa: y pondré tu casa como la casa de Jeroboam hijo de Nabat. 
@@ -1023,7 +1039,8 @@
 \bibleverse{34} En su tiempo Hiel de Beth-el reedificó á Jericó. En Abiram su primogénito echó el cimiento, y en Segub su hijo postrero puso sus puertas; conforme á la palabra de Jehová que había hablado por Josué hijo de Nun. 
 
 ## Elías delante del rey Acab y en el arroyo Krith
-# 17 
+\hypertarget{section-11-17}{%
+\section{17}\label{section-11-17}}
 \bibleverse{1} Entonces Elías Thisbita, que era de los moradores de Galaad, dijo á Achâb: Vive Jehová Dios de Israel, delante del cual estoy, que no habrá lluvia ni rocío en estos años, sino por mi palabra.
 
  
@@ -1078,7 +1095,8 @@
 \bibleverse{24} Entonces la mujer dijo á Elías: Ahora conozco que tú eres varón de Dios, y que la palabra de Jehová es verdad en tu boca. 
 
 ## El mandato de Dios a Elías; El encuentro de Obadja con Elijah
-# 18 
+\hypertarget{section-11-18}{%
+\section{18}\label{section-11-18}}
 \bibleverse{1} Pasados muchos días, fué palabra de Jehová á Elías en el tercer año, diciendo: Ve, muéstrate á Achâb, y yo daré lluvia sobre la haz de la tierra.
 
  
@@ -1177,7 +1195,8 @@
 \bibleverse{46} Y la mano de Jehová fué sobre Elías, el cual ciñó sus lomos, y vino corriendo delante de Achâb hasta llegar á Jezreel. 
 
 ## La amenaza de Jezabel; El desaliento de Elías; su fortalecimiento por un ángel y su viaje a Horeb
-# 19 
+\hypertarget{section-11-19}{%
+\section{19}\label{section-11-19}}
 \bibleverse{1} Y Achab dió la nueva á Jezabel de todo lo que Elías había hecho, de como había muerto á cuchillo á todos los profetas. 
 \bibleverse{2} Entonces envió Jezabel á Elías un mensajero, diciendo: Así me hagan los dioses, y así me añadan, si mañana á estas horas yo no haya puesto tu persona como la de uno de ellos.
 
@@ -1226,7 +1245,8 @@
 \bibleverse{21} Y volvióse de en pos de él, y tomó un par de bueyes, y matólos, y con el arado de los bueyes coció la carne de ellos, y dióla al pueblo que comiesen. Después se levantó, y fué tras Elías, y servíale. 
 
 ## Ben-adad asedia Samaria; La debilidad inicial de Acab, luego un comportamiento decidido
-# 20 
+\hypertarget{section-11-20}{%
+\section{20}\label{section-11-20}}
 \bibleverse{1} Entonces Ben-adad rey de Siria juntó á todo su ejército, y con él treinta y dos reyes, con caballos y carros: y subió, y puso cerco á Samaria, y combatióla. 
 \bibleverse{2} Y envió mensajeros á la ciudad á Achâb rey de Israel, diciendo: 
 \bibleverse{3} Así ha dicho Ben-adad: Tu plata y tu oro es mío, y tus mujeres y tus hijos hermosos son míos.
@@ -1330,7 +1350,8 @@
 \bibleverse{43} Y el rey de Israel se fué á su casa triste y enojado, y llegó á Samaria. 
 
 ## El vergonzoso acto de violencia de Acab contra Nabot
-# 21 
+\hypertarget{section-11-21}{%
+\section{21}\label{section-11-21}}
 \bibleverse{1} Pasados estos negocios, aconteció que Naboth de Jezreel tenía en Jezreel una viña junto al palacio de Achâb rey de Samaria. 
 \bibleverse{2} Y Achâb habló á Naboth, diciendo: Dame tu viña para un huerto de legumbres, porque está cercana, junto á mi casa, y yo te daré por ella otra viña mejor que esta; ó si mejor te pareciere, te pagaré su valor en dinero.
 
@@ -1394,7 +1415,8 @@
 \bibleverse{29} ¿No has visto como Achâb se ha humillado delante de mí? Pues por cuanto se ha humillado delante de mí, no traeré el mal en sus días: en los días de su hijo traeré el mal sobre su casa. 
 
 ## Acab y Josafat unen fuerzas en la guerra contra Siria
-# 22 
+\hypertarget{section-11-22}{%
+\section{22}\label{section-11-22}}
 \bibleverse{1} Tres años pasaron sin guerra entre los Siros é Israel. 
 \bibleverse{2} Y aconteció al tercer año, que Josaphat rey de Judá descendió al rey de Israel. 
 \bibleverse{3} Y el rey de Israel dijo á sus siervos: ¿No sabéis que es nuestra Ramoth de Galaad? y nosotros callamos en orden á tomarla de mano del rey de Siria. 

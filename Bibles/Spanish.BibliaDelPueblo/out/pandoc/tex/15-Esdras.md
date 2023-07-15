@@ -1,5 +1,6 @@
 ## El permiso de Ciro para el regreso de los judíos restantes y para la construcción del templo
-# 1 
+\hypertarget{section-15-1}{%
+\section{1}\label{section-15-1}}
 \bibleverse{1} Y en el primer año de Ciro rey de Persia, para que se cumpliese la palabra de Jehová por boca de Jeremías, excitó Jehová el espíritu de Ciro rey de Persia, el cual hizo pasar pregón por todo su reino, y también por escrito, diciendo: 
 \bibleverse{2} Así ha dicho Ciro rey de Persia: Jehová Dios de los cielos me ha dado todos los reinos de la tierra, y me ha mandado que le edifique casa en Jerusalem, que está en Judá. 
 \bibleverse{3} ¿Quién hay entre vosotros de todo su pueblo? Sea Dios con él, y suba á Jerusalem que está en Judá, y edifique la casa á Jehová Dios de Israel, (él es el Dios,) la cual está en Jerusalem. 
@@ -19,7 +20,8 @@
 \bibleverse{11} Todos los vasos de oro y de plata, cinco mil y cuatrocientos. Todos los hizo llevar Sesbassar con los que subieron del cautiverio de Babilonia á Jerusalem. 
 
 ## Directorio de judíos que regresan
-# 2 
+\hypertarget{section-15-2}{%
+\section{2}\label{section-15-2}}
 \bibleverse{1} Y estos son los hijos de la provincia que subieron de la cautividad, de la transmigración que Nabucodonosor rey de Babilonia hizo traspasar á Babilonia, y que volvieron á Jerusalem y á Judá, cada uno á su ciudad:
 
 ## Lista de repatriados
@@ -115,7 +117,8 @@
 \bibleverse{70} Y habitaron los sacerdotes, y los Levitas, y los del pueblo, y los cantores, y los porteros y los Nethineos, en sus ciudades; y todo Israel en sus ciudades. 
 
 ## Construcción del altar de las ofrendas quemadas y establecimiento del servicio de sacrificios regular; Celebración de la Fiesta de los Tabernáculos
-# 3 
+\hypertarget{section-15-3}{%
+\section{3}\label{section-15-3}}
 \bibleverse{1} Y llegado el mes séptimo, y ya los hijos de Israel en las ciudades, juntóse el pueblo como un solo hombre en Jerusalem. 
 \bibleverse{2} Entonces se levantó Jesuá hijo de Josadec, y sus hermanos los sacerdotes, y Zorobabel hijo de Sealthiel, y sus hermanos, y edificaron el altar del Dios de Israel, para ofrecer sobre él holocaustos, como está escrito en la ley de Moisés varón de Dios. 
 \bibleverse{3} Y asentaron el altar sobre sus basas, bien que tenían miedo de los pueblos de las tierras, y ofrecieron sobre él holocaustos á Jehová, holocaustos á la mañana y á la tarde. 
@@ -140,7 +143,8 @@
 \bibleverse{13} Y no podía discernir el pueblo el clamor de los gritos de alegría, de la voz del lloro del pueblo: porque clamaba el pueblo con grande júbilo, y oíase el ruido hasta de lejos. 
 
 ## Rechazo de los samaritanos de participar en la construcción del templo
-# 4 
+\hypertarget{section-15-4}{%
+\section{4}\label{section-15-4}}
 \bibleverse{1} Y oyendo los enemigos de Judá y de Benjamín, que los venidos de la cautividad edificaban el templo de Jehová Dios de Israel, 
 \bibleverse{2} Llegáronse á Zorobabel, y á los cabezas de los padres, y dijéronles: Edificaremos con vosotros, porque como vosotros buscaremos á vuestro Dios, y á él sacrificamos desde los días de Esar-haddón rey de Asiria, que nos hizo subir aquí.
 
@@ -183,7 +187,8 @@
 \bibleverse{24} Cesó entonces la obra de la casa de Dios, la cual estaba en Jerusalem: y cesó hasta el año segundo del reinado de Darío rey de Persia. 
 
 ## Profecías favorables de dos profetas; Permiso del gobernador para reanudar la construcción
-# 5 
+\hypertarget{section-15-5}{%
+\section{5}\label{section-15-5}}
 \bibleverse{1} Y profetizaron Haggeo profeta, y Zacarías hijo de Iddo, profetas, á los Judíos que estaban en Judá y en Jerusalem yendo en nombre del Dios de Israel á ellos. 
 \bibleverse{2} Entonces se levantaron Zorobabel hijo de Sealthiel, y Jesuá hijo de Josadec; y comenzaron á edificar la casa de Dios que estaba en Jerusalem; y con ellos los profetas de Dios que les ayudaban.
 
@@ -212,7 +217,8 @@
 \bibleverse{17} Y ahora, si al rey parece bien, búsquese en la casa de los tesoros del rey que está allí en Babilonia, si es así que por el rey Ciro había sido dado mandamiento para edificar esta casa de Dios en Jerusalem, y envíenos á decir la voluntad del rey sobre esto. 
 
 ## Encontrar el decreto de Cyrus en Ekbatana e información de él
-# 6 
+\hypertarget{section-15-6}{%
+\section{6}\label{section-15-6}}
 \bibleverse{1} Entonces el rey Darío dió mandamiento, y buscaron en la casa de los libros, donde guardaban los tesoros allí en Babilonia. 
 \bibleverse{2} Y fué hallado en Achmetta, en el palacio que está en la provincia de Media, un libro, dentro del cual estaba escrito así: Memoria: 
 \bibleverse{3} En el año primero del rey Ciro, el mismo rey Ciro dió mandamiento acerca de la casa de Dios que estaba en Jerusalem, que fuese la casa edificada para lugar en que sacrifiquen sacrificios, y que sus paredes fuesen cubiertas; su altura de sesenta codos, y de sesenta codos su anchura; 
@@ -250,7 +256,8 @@
 \bibleverse{22} Y celebraron la solemnidad de los panes ázimos siete días con regocijo, por cuanto Jehová los había alegrado, y convertido el corazón del rey de Asiria á ellos, para esforzar sus manos en la obra de la casa de Dios, del Dios de Israel. 
 
 ## El regreso de Esdras y su banda de Babilonia a Jerusalén
-# 7 
+\hypertarget{section-15-7}{%
+\section{7}\label{section-15-7}}
 \bibleverse{1} Pasadas estas cosas, en el reinado de Artajerjes rey de Persia, Esdras, hijo de Seraías, hijo de Azarías, hijo de Hilcías, 
 \bibleverse{2} Hijo de Sallum, hijo de Sadoc, hijo de Achîtob, 
 \bibleverse{3} Hijo de Amarías, hijo de Azarías, hijo de Meraioth, 
@@ -295,7 +302,8 @@
 \bibleverse{28} E inclinó hacia mí su misericordia delante del rey y de sus consultores, y de todos los príncipes poderosos del rey. Y yo, confortado según la mano de mi Dios sobre mí, junté los principales de Israel para que subiesen conmigo. 
 
 ## Directorio de los jefes de las familias de Judea que regresan con Esdras
-# 8 
+\hypertarget{section-15-8}{%
+\section{8}\label{section-15-8}}
 \bibleverse{1} Y estos son los cabezas de sus familias, y genealogía de aquellos que subieron conmigo de Babilonia, reinando el rey Artajerjes: 
 \bibleverse{2} De los hijos de Phinees, Gersón; de los hijos de Ithamar, Daniel; de los hijos de David, Hattus; 
 \bibleverse{3} De los hijos de Sechânías y de los hijos de Pharos, Zacarías, y con él, en la línea de varones, ciento y cincuenta; 
@@ -349,7 +357,8 @@
 \bibleverse{36} Y dieron los despachos del rey á sus gobernadores y capitanes del otro lado del río, los cuales favorecieron al pueblo y á la casa de Dios. 
 
 ## Esra se da cuenta de los matrimonios mixtos; su consternación por estos funcionarios
-# 9 
+\hypertarget{section-15-9}{%
+\section{9}\label{section-15-9}}
 \bibleverse{1} Y acabadas estas cosas, los príncipes se llegaron á mí, diciendo: El pueblo de Israel, y los sacerdotes y Levitas, no se han apartado de los pueblos de las tierras, de los Cananeos, Hetheos, Pherezeos, Jebuseos, Ammonitas, y Moabitas, Egipcios, y Amorrheos, haciendo conforme á sus abominaciones. 
 \bibleverse{2} Porque han tomado de sus hijas para sí y para sus hijos, y la simiente santa ha sido mezclada con los pueblos de las tierras; y la mano de los príncipes y de los gobernadores ha sido la primera en esta prevaricación.
 
@@ -376,7 +385,8 @@
 \bibleverse{15} Jehová, Dios de Israel, tú eres justo: pues que hemos quedado algunos salvos, como este día, henos aquí delante de ti en nuestros delitos; porque no es posible subsistir en tu presencia á causa de esto. 
 
 ## La acción contra los matrimonios mixtos
-# 10 
+\hypertarget{section-15-10}{%
+\section{10}\label{section-15-10}}
 \bibleverse{1} Y orando Esdras y confesando, llorando y postrándose delante de la casa de Dios, juntóse á él una muy grande multitud de Israel, hombres y mujeres y niños; y lloraba el pueblo con gran llanto. 
 \bibleverse{2} Entonces respondió Sechânías hijo de Jehiel, de los hijos de Elam, y dijo á Esdras: Nosotros hemos prevaricado contra nuestro Dios, pues tomamos mujeres extranjeras de los pueblos de la tierra: mas hay aún esperanza para Israel sobre esto. 
 \bibleverse{3} Ahora pues hagamos pacto con nuestro Dios, que echaremos todas las mujeres y los nacidos de ellas, según el consejo del Señor, y de los que temen el mandamiento de nuestro Dios: y hágase conforme á la ley. 

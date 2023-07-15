@@ -1,5 +1,6 @@
 ## La penitencia introductoria
-# 1 
+\hypertarget{section-38-1}{%
+\section{1}\label{section-38-1}}
 \bibleverse{1} En el mes octavo, en el año segundo de Darío, fué palabra de Jehová á Zacarías profeta, hijo de Berechîas, hijo de Iddo, diciendo: 
 \bibleverse{2} Enojóse Jehová con ira contra vuestros padres. 
 \bibleverse{3} Les dirás pues: Así ha dicho Jehová de los ejércitos: Volveos á mí, dice Jehová de los ejércitos, y yo me volveré á vosotros, ha dicho Jehová de los ejércitos. 
@@ -41,7 +42,8 @@
 \bibleverse{21} Y yo dije: ¿Qué vienen éstos á hacer? Y respondióme, diciendo: Estos son los cuernos que aventaron á Judá, tanto que ninguno alzó su cabeza; mas éstos han venido para hacerlos temblar, para derribar los cuernos de las gentes, que alzaron el cuerno sobre la tierra de Judá para aventarla. 
 
 ## El hombre de la línea de medición, Restaurando Jerusalén a una ciudad rica y abierta
-# 2 
+\hypertarget{section-38-2}{%
+\section{2}\label{section-38-2}}
 \bibleverse{1} Alcé después mis ojos, y miré y he aquí un varón que tenía en su mano un cordel de medir. 
 \bibleverse{2} Y díjele: ¿A dónde vas? Y él me respondió: A medir á Jerusalem, para ver cuánta es su anchura, y cuánta su longitud.
 
@@ -67,7 +69,8 @@
 \bibleverse{13} Calle toda carne delante de Jehová; porque él se ha despertado de su santa morada. 
 
 ## El sacerdocio que recibió el sumo sacerdote Josué y que promete para el futuro
-# 3 
+\hypertarget{section-38-3}{%
+\section{3}\label{section-38-3}}
 \bibleverse{1} Y mostróme á Josué, el gran sacerdote, el cual estaba delante del ángel de Jehová; y Satán estaba á su mano derecha para serle adversario. 
 \bibleverse{2} Y dijo Jehová á Satán: Jehová te reprenda, oh Satán; Jehová, que ha escogido á Jerusalem, te reprenda. ¿No es éste tizón arrebatado del incendio?
 
@@ -86,7 +89,8 @@
 \bibleverse{10} En aquel día, dice Jehová de los ejércitos, cada uno de vosotros llamará á su compañero debajo de la vid, y debajo de la higuera. 
 
 ## El candelero de oro entre los dos olivos
-# 4 
+\hypertarget{section-38-4}{%
+\section{4}\label{section-38-4}}
 \bibleverse{1} Y volvió el ángel que hablaba conmigo, y despertóme como un hombre que es despertado de su sueño. 
 \bibleverse{2} Y díjome: ¿Qué ves? Y respondí: He mirado, y he aquí un candelero todo de oro, con su vaso sobre su cabeza, y sus siete lámparas encima del candelero; y siete canales para las lámparas que están encima de él;
 
@@ -122,7 +126,8 @@
 \bibleverse{14} Y él dijo: Estos dos hijos de aceite son los que están delante del Señor de toda la tierra. 
 
 ## El pergamino volador
-# 5 
+\hypertarget{section-38-5}{%
+\section{5}\label{section-38-5}}
 \bibleverse{1} Y tornéme, y alcé mis ojos, y miré, y he aquí un rollo que volaba. 
 \bibleverse{2} Y díjome: ¿Qué ves? Y respondí: Veo un rollo que vuela, de veinte codos de largo, y diez codos de ancho.
 
@@ -149,7 +154,8 @@
 \bibleverse{11} Y él me respondió: Para que le sea edificada casa en tierra de Shinar: y será asentado y puesto allá sobre su asiento. 
 
 ## La salida de los cuatro carros de guerra celestiales
-# 6 
+\hypertarget{section-38-6}{%
+\section{6}\label{section-38-6}}
 \bibleverse{1} Y tornéme, y alcé mis ojos y miré, y he aquí cuatro carros que salían de entre dos montes; y aquellos montes eran de metal. 
 \bibleverse{2} En el primer carro había caballos bermejos, y en el segundo carro caballos negros, 
 \bibleverse{3} Y en el tercer carro caballos blancos, y en el cuarto carro caballos overos ruciorodados. 
@@ -176,7 +182,8 @@
 \bibleverse{15} Y los que están lejos vendrán y edificarán en el templo de Jehová, y conoceréis que Jehová de los ejércitos me ha enviado á vosotros. Y será esto, si oyereis obedientes la voz de Jehová vuestro Dios. 
 
 ## Solicitud de los hombres de Betel sobre los días de ayuno
-# 7 
+\hypertarget{section-38-7}{%
+\section{7}\label{section-38-7}}
 \bibleverse{1} Y aconteció en el año cuarto del rey Darío, que fué palabra de Jehová á Zacarías á los cuatro del mes noveno, que es Chisleu; 
 \bibleverse{2} Cuando fué enviado á la casa de Dios, Saraser, con Regem-melech y sus hombres, á implorar el favor de Jehová, 
 \bibleverse{3} Y á hablar á los sacerdotes que estaban en la casa de Jehová de los ejércitos, y á los profetas, diciendo: ¿Lloraremos en el mes quinto? ¿haremos abstinencia como hemos hecho ya algunos años?
@@ -201,7 +208,8 @@
 \bibleverse{14} Antes los esparcí con torbellino por todas las gentes que ellos no conocían, y la tierra fué desolada tras de ellos, sin quedar quien fuese ni viniese; pues tornaron en asolamiento el país deseable. 
 
 ## Dios ama a su pueblo y le permitirá alcanzar una gran felicidad, pero siempre defiende sus exigencias morales
-# 8 
+\hypertarget{section-38-8}{%
+\section{8}\label{section-38-8}}
 \bibleverse{1} Y fué á mí palabra de Jehová de los ejércitos, diciendo: 
 \bibleverse{2} Así ha dicho Jehová de los ejércitos: Yo he celado á Sión con grande celo, y con grande ira la celé.
 
@@ -244,7 +252,8 @@
 \bibleverse{23} Así ha dicho Jehová de los ejércitos: En aquellos días acontecerá que diez hombres de todas las lenguas de las gentes, trabarán de la falda de un Judío, diciendo: Iremos con vosotros, porque hemos oído que Dios está con vosotros. 
 
 ## El juicio de Dios sobre los pueblos hostiles en Siria y Fenicia y su defensa de Jerusalén
-# 9 
+\hypertarget{section-38-9}{%
+\section{9}\label{section-38-9}}
 \bibleverse{1} Carga de la palabra de Jehová contra tierra de Hadrach, y de Damasco su reposo: porque á Jehová están vueltos los ojos de los hombres, y de todas las tribus de Israel. 
 \bibleverse{2} Y también Hamath tendrá término en ella; Tiro y Sidón, aunque muy sabia sea. 
 \bibleverse{3} Bien que Tiro se edificó fortaleza, y amontonó plata como polvo, y oro como lodo de las calles, 
@@ -270,7 +279,8 @@
 \bibleverse{17} Porque ¡cuánta es su bondad, y cuánta su hermosura! El trigo alegrará á los mancebos, y el vino á las doncellas. 
 
 ## Dios solo otorga todas las bendiciones; los ídolos y los profetas mentirosos solo crean daño
-# 10 
+\hypertarget{section-38-10}{%
+\section{10}\label{section-38-10}}
 \bibleverse{1} Pedid á Jehová lluvia en la sazón tardía: Jehová hará relámpagos, y os dará lluvia abundante, y hierba en el campo á cada uno. 
 \bibleverse{2} Porque las imágenes han hablado vanidad, y los adivinos han visto mentira, y han hablado sueños vanos, en vano consuelan: por lo cual se fueron ellos como ovejas, fueron humillados porque no tuvieron pastor.
 
@@ -291,7 +301,8 @@
 \bibleverse{12} Y yo los fortificaré en Jehová, y caminarán en su nombre, dice Jehová. 
 
 ## El terrible colapso de la potencia mundial hostil
-# 11 
+\hypertarget{section-38-11}{%
+\section{11}\label{section-38-11}}
 \bibleverse{1} Oh Líbano, abre tus puertas, y queme fuego tus cedros. 
 \bibleverse{2} Aulla, oh haya, porque el cedro cayó, porque los magníficos son talados. Aullad, alcornoques de Basán, porque el fuerte monte es derribado. 
 \bibleverse{3} Voz de aullido de pastores, porque su magnificencia es asolada; estruendo de bramidos de cachorros de leones, porque la soberbia del Jordán es destruída.
@@ -320,7 +331,8 @@
 \bibleverse{17} Mal haya el pastor de nada, que deja el ganado. Espada sobre su brazo, y sobre su ojo derecho: del todo se secará su brazo, y enteramente será su ojo derecho oscurecido. 
 
 ## Embestida de los gentiles en Jerusalén; Salvación de la ciudad por Dios y por el mérito de Judá
-# 12 
+\hypertarget{section-38-12}{%
+\section{12}\label{section-38-12}}
 \bibleverse{1} Carga de la palabra de Jehová acerca de Israel. Jehová, que extiende los cielos, y funda la tierra, y forma el espíritu del hombre dentro de él, ha dicho: 
 \bibleverse{2} He aquí, yo pongo á Jerusalem por vaso de temblor á todos los pueblos de alrededor cuando estén en el sitio contra Judá y contra Jerusalem. 
 \bibleverse{3} Y será en aquel día, que yo pondré á Jerusalem por piedra pesada á todos los pueblos: todos los que se la cargaren, serán despedazados, bien que todas las gentes de la tierra se juntarán contra ella. 
@@ -346,7 +358,8 @@
 \bibleverse{14} Todos los otros linajes, los linajes por sí, y sus mujeres por sí. 
 
 ## El pecado divino del pueblo; Eliminación de la idolatría, la falsa profecía y toda inmundicia
-# 13 
+\hypertarget{section-38-13}{%
+\section{13}\label{section-38-13}}
 \bibleverse{1} En aquel tiempo habrá manantial abierto para la casa de David y para los moradores de Jerusalem, para el pecado y la inmundicia.
 
  
@@ -363,7 +376,8 @@
 \bibleverse{9} Y meteré en el fuego la tercera parte, y los fundiré como se funde la plata, y probarélos como se prueba el oro. El invocará mi nombre, y yo le oiré, y diré: Pueblo mío; y él dirá: Jehová es mi Dios. 
 
 ## El día del Señor: lucha, dificultades y salvación en Jerusalén
-# 14 
+\hypertarget{section-38-14}{%
+\section{14}\label{section-38-14}}
 \bibleverse{1} He aquí, el día de Jehová viene, y tus despojos serán repartidos en medio de ti. 
 \bibleverse{2} Porque yo reuniré todas las gentes en batalla contra Jerusalem; y la ciudad será tomada, y saqueadas serán las casas, y forzadas las mujeres: y la mitad de la ciudad irá en cautiverio, mas el resto del pueblo no será talado de la ciudad. 
 \bibleverse{3} Después saldrá Jehová, y peleará con aquellas gentes, como peleó el día de la batalla. 

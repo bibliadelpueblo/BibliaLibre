@@ -1,5 +1,6 @@
 ## Llamado al lamento por la devastación causada por las langostas
-# 1 
+\hypertarget{section-29-1}{%
+\section{1}\label{section-29-1}}
 \bibleverse{1} Palabra de Jehová que fué á Joel hijo de Pethuel. 
 \bibleverse{2} Oid esto, viejos, y escuchad, todos los moradores de la tierra. ¿Ha acontecido esto en vuestros días, ó en los días de vuestros padres? 
 \bibleverse{3} De esto contaréis á vuestros hijos, y vuestros hijos á sus hijos, y sus hijos á la otra generación. 
@@ -29,7 +30,8 @@
 \bibleverse{20} Las bestias del campo bramarán también á ti; porque se secaron los arroyos de las aguas, y fuego consumió las praderías del desierto. 
 
 ## Ataque irresistible de langostas en la tierra
-# 2 
+\hypertarget{section-29-2}{%
+\section{2}\label{section-29-2}}
 \bibleverse{1} Tocad trompeta en Sión, y pregonad en mi santo monte: tiemblen todos los moradores de la tierra; porque viene el día de Jehová, porque está cercano. 
 \bibleverse{2} Día de tinieblas y de oscuridad, día de nube y de sombra, que sobre los montes se derrama como el alba: un pueblo grande y fuerte: nunca desde el siglo fué semejante, ni después de él será jamás en años de generación en generación. 
 \bibleverse{3} Delante de él consumirá fuego, tras de él abrasará llama; como el huerto de Edén será la tierra delante de él, y detrás de él como desierto asolado; ni tampoco habrá quien de él escape. 
@@ -73,7 +75,8 @@
 \bibleverse{32} Y será que cualquiera que invocare el nombre de Jehová, será salvo: porque en el monte de Sión y en Jerusalem habrá salvación, como Jehová ha dicho, y en los que quedaren, á los cuales Jehová habrá llamado. 
 
 ## El día del Señor como el día del juicio para los gentiles y como la glorificación de la iglesia de Sion
-# 3 
+\hypertarget{section-29-3}{%
+\section{3}\label{section-29-3}}
 \bibleverse{1} Porque he aquí que en aquellos días, y en aquel tiempo en que haré tornar la cautividad de Judá y de Jerusalem, 
 \bibleverse{2} Juntaré todas las gentes, y harélas descender al valle de Josaphat, y allí entraré en juicio con ellos á causa de mi pueblo, y de Israel mi heredad, á los cuales esparcieron entre las naciones, y partieron mi tierra: 
 \bibleverse{3} Y echaron suertes sobre mi pueblo, y á los niños dieron por una ramera, y vendieron las niñas por vino para beber. 

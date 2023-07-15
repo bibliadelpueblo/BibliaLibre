@@ -1,5 +1,6 @@
 ## Elías anuncia la muerte del rey enfermo e idólatra Ochôzías
-# 1 
+\hypertarget{section-12-1}{%
+\section{1}\label{section-12-1}}
 \bibleverse{1} Después de la muerte de Achâb rebelóse Moab contra Israel.
 
  
@@ -50,7 +51,8 @@
 \bibleverse{18} Y lo demás de los hechos de Ochôzías, ¿no está escrito en el libro de las crónicas de los reyes de Israel? 
 
 ## Elías en la caminata con su fiel sirvienta Elisa
-# 2 
+\hypertarget{section-12-2}{%
+\section{2}\label{section-12-2}}
 \bibleverse{1} Y aconteció que, cuando quiso Jehová alzar á Elías en un torbellino al cielo, Elías venía con Eliseo de Gilgal. 
 \bibleverse{2} Y dijo Elías á Eliseo: Quédate ahora aquí, porque Jehová me ha enviado á Beth-el. Y Eliseo dijo: Vive Jehová, y vive tu alma, que no te dejaré. Descendieron pues á Beth-el.
 
@@ -112,7 +114,8 @@
 \bibleverse{25} De allí fué al monte de Carmelo, y de allí volvió á Samaria. 
 
 ## Rey Joram de Israel
-# 3 
+\hypertarget{section-12-3}{%
+\section{3}\label{section-12-3}}
 \bibleverse{1} Y Joram hijo de Achâb comenzó á reinar en Samaria sobre Israel el año dieciocho de Josaphat rey de Judá; y reinó doce años. 
 \bibleverse{2} E hizo lo malo en ojos de Jehová, aunque no como su padre y su madre; porque quitó las estatuas de Baal que su padre había hecho. 
 \bibleverse{3} Mas allegóse á los pecados de Jeroboam, hijo de Nabat, que hizo pecar á Israel; y no se apartó de ellos.
@@ -165,7 +168,8 @@
 \bibleverse{27} Entonces arrebató á su primogénito que había de reinar en su lugar, y sacrificóle en holocausto sobre el muro. Y hubo grande enojo en Israel; y retiráronse de él, y volviéronse á su tierra. 
 
 ## La historia del cántaro de aceite de la viuda
-# 4 
+\hypertarget{section-12-4}{%
+\section{4}\label{section-12-4}}
 \bibleverse{1} Una mujer, de las mujeres de los hijos de los profetas, clamó á Eliseo, diciendo: Tu siervo mi marido es muerto; y tú sabes que tu siervo era temeroso de Jehová: y ha venido el acreedor para tomarse dos hijos míos por siervos.
 
  
@@ -273,7 +277,8 @@
 \bibleverse{44} Entonces él lo puso delante de ellos, y comieron, y sobróles, conforme á la palabra de Jehová. 
 
 ## Naeman el leproso busca sanidad en Samaria
-# 5 
+\hypertarget{section-12-5}{%
+\section{5}\label{section-12-5}}
 \bibleverse{1} Naamán, general del ejército del rey de Siria, era gran varón delante de su señor, y en alta estima, porque por medio de él había dado Jehová salvamento á la Siria. Era este hombre valeroso en extremo, pero leproso. 
 \bibleverse{2} Y de Siria habían salido cuadrillas, y habían llevado cautiva de la tierra de Israel una muchacha; la cual sirviendo á la mujer de Naamán, 
 \bibleverse{3} Dijo á su señora: Si rogase mi señor al profeta que está en Samaria, él lo sanaría de su lepra.
@@ -339,7 +344,8 @@
 \bibleverse{27} La lepra de Naamán se te pegará á ti, y á tu simiente para siempre. Y salió de delante de él leproso, blanco como la nieve. 
 
 ## El hierro flotante
-# 6 
+\hypertarget{section-12-6}{%
+\section{6}\label{section-12-6}}
 \bibleverse{1} Los hijos de los profetas dijeron á Eliseo: He aquí, el lugar en que moramos contigo nos es estrecho. 
 \bibleverse{2} Vamos ahora al Jordán, y tomemos de allí cada uno una viga, y hagámonos allí lugar en que habitemos. Y él dijo: Andad.
 
@@ -416,7 +422,8 @@
  
 \bibleverse{33} Aun estaba él hablando con ellos, y he aquí el mensajero que descendía á él; y dijo: Ciertamente este mal de Jehová viene. ¿Para qué tengo de esperar más á Jehová? 
 
-# 7 
+\hypertarget{section-12-7}{%
+\section{7}\label{section-12-7}}
 \bibleverse{1} Dijo entonces Eliseo: Oid palabra de Jehová: Así dijo Jehová: Mañana á estas horas valdrá el seah de flor de harina un siclo, y dos seah de cebada un siclo, á la puerta de Samaria.
 
  
@@ -460,7 +467,8 @@
 \bibleverse{20} Y vínole así; porque el pueblo le atropelló á la entrada, y murió. 
 
 ## Elisa y la Sunamita
-# 8 
+\hypertarget{section-12-8}{%
+\section{8}\label{section-12-8}}
 \bibleverse{1} Y habló Eliseo á aquella mujer á cuyo hijo había hecho vivir, diciendo: Levántate, vete tú y toda tu casa á vivir donde pudieres; porque Jehová ha llamado el hambre, la cual vendrá también sobre la tierra siete años.
 
  
@@ -525,7 +533,8 @@
 \bibleverse{29} Y el rey Joram se volvió á Jezreel, para curarse de las heridas que los Siros le hicieron delante de Ramoth, cuando peleó contra Hazael rey de Siria. Y descendió Ochôzías hijo de Joram rey de Judá, á visitar á Joram hijo de Achâb en Jezreel, porque estaba enfermo. 
 
 ## Jehú ungió rey por instigación de Eliseo
-# 9 
+\hypertarget{section-12-9}{%
+\section{9}\label{section-12-9}}
 \bibleverse{1} Entonces el profeta Eliseo llamó á uno de los hijos de los profetas, y díjole: Ciñe tus lomos, y toma esta alcuza de aceite en tu mano, y ve á Ramoth de Galaad. 
 \bibleverse{2} Y cuando llegares allá, verás allí á Jehú hijo de Josaphat hijo de Nimsi; y entrando, haz que se levante de entre sus hermanos, y mételo en la recámara. 
 \bibleverse{3} Toma luego la alcuza de aceite, y derrámala sobre su cabeza, y di: Así dijo Jehová: Yo te he ungido por rey sobre Israel. Y abriendo la puerta, echa á huir, y no esperes.
@@ -610,7 +619,8 @@
 \bibleverse{37} Y el cuerpo de Jezabel fué cual estiércol sobre la faz de la tierra en la heredad de Jezreel; de manera que nadie pueda decir: Esta es Jezabel. 
 
 ## Jehú asesinó a los setenta príncipes reales y exterminó a toda la casa de Acab
-# 10 
+\hypertarget{section-12-10}{%
+\section{10}\label{section-12-10}}
 \bibleverse{1} Y tenía Achâb en Samaria setenta hijos; y escribió letras Jehú, y enviólas á Samaria á los principales de Jezreel, á los ancianos y á los ayos de Achâb, diciendo: 
 \bibleverse{2} Luego en llegando estas letras á vosotros los que tenéis los hijos de vuestro señor, y los que tenéis carros y gente de á caballo, la ciudad pertrechada, y las armas, 
 \bibleverse{3} Mirad cuál es el mejor y él más recto de los hijos de vuestro señor, y ponedlo en el trono de su padre, y pelead por la casa de vuestro señor.
@@ -689,7 +699,8 @@
 \bibleverse{36} El tiempo que reinó Jehú sobre Israel en Samaria, fué veintiocho años. 
 
 ## El robo y el asesinato de Atalía; Rescate de Joás
-# 11 
+\hypertarget{section-12-11}{%
+\section{11}\label{section-12-11}}
 \bibleverse{1} Y Athalía madre de Ochôzías, viendo que su hijo era muerto, levantóse, y destruyó toda la simiente real. 
 \bibleverse{2} Pero tomando Josaba hija del rey Joram, hermana de Ochôzías, á Joas hijo de Ochôzías, sacólo furtivamente de entre los hijos del rey, que se mataban, y ocultólo de delante de Athalía, á él y á su ama, en la cámara de las camas, y así no lo mataron. 
 \bibleverse{3} Y estuvo con ella escondido en la casa de Jehová seis años: y Athalía fué reina sobre el país.
@@ -728,7 +739,8 @@
 \bibleverse{21} Era Joas de siete años cuando comenzó á reinar. 
 
 ## Joás rey de Judá
-# 12 
+\hypertarget{section-12-12}{%
+\section{12}\label{section-12-12}}
 \bibleverse{1} En el séptimo año de Jehú comenzó á reinar Joas, y reinó cuarenta años en Jerusalem. El nombre de su madre fué Sibia, de Beer-seba. 
 \bibleverse{2} Y Joas hizo lo recto en ojos de Jehová todo el tiempo que le dirigió el sacerdote Joiada. 
 \bibleverse{3} Con todo eso los altos no se quitaron; que aun sacrificaba y quemaba el pueblo perfumes en los altos.
@@ -766,7 +778,8 @@
 \bibleverse{21} Pues Josachâr hijo de Simaath, y Jozabad hijo de Somer, sus siervos, hiriéronle, y murió. Y sepultáronlo con sus padres en la ciudad de David, y reinó en su lugar Amasías su hijo. 
 
 ## Joachâz rey de Israel
-# 13 
+\hypertarget{section-12-13}{%
+\section{13}\label{section-12-13}}
 \bibleverse{1} En el año veintitrés de Joas hijo de Ochôzías, rey de Judá, comenzó á reinar Joachâz hijo de Jehú sobre Israel en Samaria; y reinó diecisiete años. 
 \bibleverse{2} E hizo lo malo en ojos de Jehová, y siguió los pecados de Jeroboam hijo de Nabat, el que hizo pecar á Israel; y no se apartó de ellos. 
 \bibleverse{3} Y encendióse el furor de Jehová contra Israel, y entrególos en mano de Hazael rey de Siria, y en mano de Ben-adad hijo de Hazael, por largo tiempo. 
@@ -814,7 +827,8 @@
 \bibleverse{25} Y volvió Joas hijo de Joachâz, y tomó de mano de Ben-adad hijo de Hazael, las ciudades que él había tomado de mano de Joachâz su padre en guerra. Tres veces lo batió Joas, y restituyó las ciudades á Israel. 
 
 ## Amasías rey de Judá; Buen comienzo para el gobierno
-# 14 
+\hypertarget{section-12-14}{%
+\section{14}\label{section-12-14}}
 \bibleverse{1} En el año segundo de Joas hijo de Joachâz rey de Israel, comenzó á reinar Amasías hijo de Joas rey de Judá. 
 \bibleverse{2} Cuando comenzó á reinar era de veinticinco años, y veintinueve años reinó en Jerusalem: el nombre de su madre fué Joaddan, de Jerusalem. 
 \bibleverse{3} Y él hizo lo recto en ojos de Jehová, aunque no como David su padre: hizo conforme á todas las cosas que había hecho Joas su padre. 
@@ -867,7 +881,8 @@
 \bibleverse{29} Y durmió Jeroboam con sus padres, los reyes de Israel, y reinó en su lugar Zachârías su hijo. 
 
 ## Azarías rey de Judá
-# 15 
+\hypertarget{section-12-15}{%
+\section{15}\label{section-12-15}}
 \bibleverse{1} En el año veintisiete de Jeroboam, rey de Israel, comenzó á reinar Azarías hijo de Amasías rey de Judá. 
 \bibleverse{2} Cuando comenzó á reinar era de dieciséis años, y cincuenta y dos años reinó en Jerusalem; el nombre de su madre fué Jecolía, de Jerusalem. 
 \bibleverse{3} E hizo lo recto en ojos de Jehová, conforme á todas las cosas que su padre Amasías había hecho. 
@@ -928,7 +943,8 @@
 \bibleverse{38} Y durmió Jotham con sus padres, y fué sepultado con sus padres en la ciudad de David su padre: y reinó en su lugar Achâz su hijo. 
 
 ## Las abominaciones paganas de Acaz
-# 16 
+\hypertarget{section-12-16}{%
+\section{16}\label{section-12-16}}
 \bibleverse{1} En el año diecisiete de Peka hijo de Remalías, comenzó á reinar Achâz hijo de Jotham rey de Judá. 
 \bibleverse{2} Cuando comenzó á reinar Achâz, era de veinte años, y reinó en Jerusalem dieciséis años: y no hizo lo recto en ojos de Jehová su Dios, como David su padre; 
 \bibleverse{3} Antes anduvo en el camino de los reyes de Israel, y aun hizo pasar por el fuego á su hijo, según las abominaciones de las gentes que Jehová echó de delante de los hijos de Israel. 
@@ -959,7 +975,8 @@
 \bibleverse{20} Y durmió el rey Achâz con sus padres y fué sepultado con sus padres en la ciudad de David: y reinó en su lugar Ezechîas su hijo. 
 
 ## Oseas rey de Israel; Caída del imperio; Cautiverio asirio
-# 17 
+\hypertarget{section-12-17}{%
+\section{17}\label{section-12-17}}
 \bibleverse{1} En el año duodécimo de Achâz rey de Judá, comenzó á reinar Oseas hijo de Ela en Samaria sobre Israel; y reinó nueve años. 
 \bibleverse{2} E hizo lo malo en ojos de Jehová, aunque no como los reyes de Israel que antes de él habían sido. 
 \bibleverse{3} Contra éste subió Salmanasar rey de los Asirios; y Oseas fué hecho su siervo, y pagábale tributo. 
@@ -1021,7 +1038,8 @@
 \bibleverse{41} Así temieron á Jehová aquellas gentes, y juntamente sirvieron á sus ídolos: y también sus hijos y sus nietos, según que hicieron sus padres, así hacen hasta hoy. 
 
 ## Ezequías asumió el cargo, su piedad y sus servicios al culto y al bien público
-# 18 
+\hypertarget{section-12-18}{%
+\section{18}\label{section-12-18}}
 \bibleverse{1} En el tercer año de Oseas hijo de Ela rey de Israel, comenzó á reinar Ezechîas hijo de Achâz rey de Judá. 
 \bibleverse{2} Cuando comenzó á reinar era de veinticinco años, y reinó en Jerusalem veintinueve años. El nombre de su madre fué Abi hija de Zachârías. 
 \bibleverse{3} Hizo lo recto en ojos de Jehová, conforme á todas las cosas que había hecho David su padre. 
@@ -1079,7 +1097,8 @@
 \bibleverse{37} Entonces Eliacim hijo de Hilcías, que era mayordomo, y Sebna el escriba, y Joah hijo de Asaph, canciller, vinieron á Ezechîas, rotos sus vestidos, y recitáronle las palabras de Rabsaces. 
 
 ## El estímulo de Ezequías de Isaías
-# 19 
+\hypertarget{section-12-19}{%
+\section{19}\label{section-12-19}}
 \bibleverse{1} Y como el rey Ezechîas lo oyó, rasgó sus vestidos, y cubrióse de saco, y entróse en la casa de Jehová. 
 \bibleverse{2} Y envió á Eliacim el mayordomo, y á Sebna escriba, y á los ancianos de los sacerdotes, vestidos de sacos á Isaías profeta hijo de Amós, 
 \bibleverse{3} Que le dijesen: Así ha dicho Ezechîas: Este día es día de angustia, y de reprensión, y de blasfemia; porque los hijos han venido hasta la rotura, y la que pare no tiene fuerzas. 
@@ -1137,7 +1156,8 @@
 \bibleverse{37} Y aconteció que, estando él adorando en el templo de Nisroch su dios, Adramelech y Saresar sus hijos lo hirieron á cuchillo; y huyéronse á tierra de Ararat. Y reinó en su lugar Esar-hadón su hijo. 
 
 ## La enfermedad y la recuperación de Ezequías; la embajada de babilonia
-# 20 
+\hypertarget{section-12-20}{%
+\section{20}\label{section-12-20}}
 \bibleverse{1} En aquellos días cayó Ezechîas enfermo de muerte, y vino á él Isaías profeta hijo de Amós, y díjole: Jehová dice así: Dispón de tu casa, porque has de morir, y no vivirás.
 
  
@@ -1191,7 +1211,8 @@
 \bibleverse{21} Y durmió Ezechîas con sus padres, y reinó en su lugar Manasés su hijo. 
 
 ## Idolatría manasés
-# 21 
+\hypertarget{section-12-21}{%
+\section{21}\label{section-12-21}}
 \bibleverse{1} De doce años era Manasés cuando comenzó á reinar, y reinó en Jerusalem cincuenta y cinco años: el nombre de su madre fué Hepsiba. 
 \bibleverse{2} E hizo lo malo en ojos de Jehová, según las abominaciones de las gentes que Jehová había echado delante de los hijos de Israel. 
 \bibleverse{3} Porque él volvió á edificar los altos que Ezechîas su padre había derribado, y levantó altares á Baal, é hizo bosque, como había hecho Achâb rey de Israel: y adoró á todo el ejército del cielo, y sirvió á aquellas cosas. 
@@ -1230,7 +1251,8 @@
 \bibleverse{26} Y fué sepultado en su sepulcro en el huerto de Uzza, y reinó en su lugar Josías su hijo. 
 
 ## El rey Josías; Encontrar el código legal y limpiar la adoración
-# 22 
+\hypertarget{section-12-22}{%
+\section{22}\label{section-12-22}}
 \bibleverse{1} Cuando Josías comenzó á reinar era de ocho años, y reinó en Jerusalem treinta y un años. El nombre de su madre fué Idida hija de Adaía de Boscath. 
 \bibleverse{2} E hizo lo recto en ojos de Jehová, y anduvo en todo el camino de David su padre, sin apartarse á diestra ni á siniestra.
 
@@ -1263,7 +1285,8 @@
 \bibleverse{20} Por tanto, he aquí yo te recogeré con tus padres, y tú serás recogido á tu sepulcro en paz, y no verán tus ojos todo el mal que yo traigo sobre este lugar. Y ellos dieron al rey la respuesta. 
 
 ## Josías concluye el nuevo pacto de Dios en asociación con los ancianos del pueblo
-# 23 
+\hypertarget{section-12-23}{%
+\section{23}\label{section-12-23}}
 \bibleverse{1} Entonces el rey envió, y juntaron á él todos los ancianos de Judá y de Jerusalem. 
 \bibleverse{2} Y subió el rey á la casa de Jehová con todos los varones de Judá, y con todos los moradores de Jerusalem, con los sacerdotes y profetas y con todo el pueblo, desde el más chico hasta el más grande; y leyó, oyéndolo ellos, todas las palabras del libro del pacto que había sido hallado en la casa de Jehová. 
 \bibleverse{3} Y poniéndose el rey en pie junto á la columna, hizo alianza delante de Jehová, de que irían en pos de Jehová, y guardarían sus mandamientos, y sus testimonios, y sus estatutos, con todo el corazón y con toda el alma, y que cumplirían las palabras de la alianza que estaban escritas en aquel libro. Y todo el pueblo confirmó el pacto.
@@ -1325,7 +1348,8 @@
 \bibleverse{36} De veinticinco años era Joacim cuando comenzó á Reinar, y once años reinó en Jerusalem. El nombre de su madre fué Zebuda hija de Pedaia, de Ruma. 
 \bibleverse{37} E hizo lo malo en ojos de Jehová, conforme á todas las cosas que sus padres habían hecho. 
 
-# 24 
+\hypertarget{section-12-24}{%
+\section{24}\label{section-12-24}}
 \bibleverse{1} En su tiempo subió Nabucodonosor rey de Babilonia, al cual sirvió Joacim tres años; volvióse luego, y se rebeló contra él. 
 \bibleverse{2} Jehová empero envió contra él tropas de Caldeos, y tropas de Siros, y tropas de Moabitas, y tropas de Ammonitas; los cuales envió contra Judá para que la destruyesen, conforme á la palabra de Jehová que había hablado por sus siervos los profetas. 
 \bibleverse{3} Ciertamente vino esto contra Judá por dicho de Jehová, para quitarla de su presencia, por los pecados de Manasés, conforme á todo lo que hizo; 
@@ -1356,7 +1380,8 @@
 \bibleverse{20} Fué pues la ira de Jehová contra Jerusalem y Judá, hasta que los echó de su presencia. Y Sedecías se rebeló contra el rey de Babilonia. 
 
 ## Los desperdicios de Sedequías; Asedio de Jerusalén; Escape y captura del rey; Juzgado penal de Ribla
-# 25 
+\hypertarget{section-12-25}{%
+\section{25}\label{section-12-25}}
 \bibleverse{1} Y aconteció á los nueve años de su reinado, en el mes décimo, á los diez del mes, que Nabucodonosor rey de Babilonia vino con todo su ejército contra Jerusalem, y cercóla; y levantaron contra ella ingenios alrededor. 
 \bibleverse{2} Y estuvo la ciudad cercada hasta el undécimo año del rey Sedecías. 
 \bibleverse{3} A los nueve del mes prevaleció el hambre en la ciudad, que no hubo pan para el pueblo de la tierra. 

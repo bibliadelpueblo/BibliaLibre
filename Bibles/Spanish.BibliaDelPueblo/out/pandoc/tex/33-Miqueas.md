@@ -1,5 +1,6 @@
 ## La venida de Dios al juicio de los gentiles, así como de Israel y Judá
-# 1 
+\hypertarget{section-33-1}{%
+\section{1}\label{section-33-1}}
 \bibleverse{1} Palabra de Jehová que fué á Miqueas de Morasti en días de Jotham, Achâz, y Ezechîas, reyes de Judá: lo que vió sobre Samaria y Jerusalem. 
 \bibleverse{2} Oid, pueblos todos: está atenta, tierra, y todo lo que en ella hay: y el Señor Jehová, el Señor desde su santo templo sea testigo contra vosotros. 
 \bibleverse{3} Porque he aquí, Jehová sale de su lugar, y descenderá, y hollará sobre las alturas de la tierra. 
@@ -24,7 +25,8 @@
 \bibleverse{16} Mésate y trasquílate por los hijos de tus delicias: ensancha tu calva como águila; porque fueron trasportados de ti. 
 
 ## Amenaza a los grandes ricos y violentos y a los oponentes del Profeta
-# 2 
+\hypertarget{section-33-2}{%
+\section{2}\label{section-33-2}}
 \bibleverse{1} ¡Ay de los que piensan iniquidad, y de los que fabrican el mal en sus camas! Cuando viene la mañana lo ponen en obra, porque tienen en su mano el poder. 
 \bibleverse{2} Y codiciaron las heredades, y robáronlas: y casas, y las tomaron: oprimieron al hombre y á su casa, al hombre y á su heredad. 
 \bibleverse{3} Por tanto, así ha dicho Jehová: He aquí, yo pienso sobre esta familia un mal, del cual no sacaréis vuestros cuellos, ni andaréis erguidos; porque el tiempo será malo. 
@@ -46,7 +48,8 @@
 \bibleverse{13} Subirá rompedor delante de ellos; romperán y pasarán la puerta, y saldrán por ella: y su rey pasará delante de ellos, y á la cabeza de ellos Jehová. 
 
 ## Acusaciones y amenazas de Miqueas contra los líderes violentos del pueblo y los falsos profetas
-# 3 
+\hypertarget{section-33-3}{%
+\section{3}\label{section-33-3}}
 \bibleverse{1} Y dije: Oid ahora, príncipes de Jacob, y cabezas de la casa de Israel: ¿No pertenecía á vosotros saber el derecho? 
 \bibleverse{2} Que aborrecen lo bueno y aman lo malo, que les quitan su piel y su carne de sobre los huesos; 
 \bibleverse{3} Que comen asimismo la carne de mi pueblo, y les desuellan su piel de sobre ellos, y les quebrantan sus huesos y los rompen, como para el caldero, y como carnes en olla. 
@@ -67,7 +70,8 @@
 \bibleverse{12} Por tanto, á causa de vosotros será Sión arada como campo, y Jerusalem será majanos, y el monte de la casa como cumbres de breñal. 
 
 ## La exaltada Sion y la futura gloria de la paz general entre las naciones
-# 4 
+\hypertarget{section-33-4}{%
+\section{4}\label{section-33-4}}
 \bibleverse{1} Y acontecerá en los postreros tiempos, que el monte de la casa de Jehová será constituído por cabecera de montes, y más alto que los collados, y correrán á él pueblos. 
 \bibleverse{2} Y vendrán muchas gentes, y dirán: Venid, y subamos al monte de Jehová, y á la casa del Dios de Jacob; y enseñarános en sus caminos, y andaremos por sus veredas: porque de Sión saldrá la ley, y de Jerusalem la palabra de Jehová. 
 \bibleverse{3} Y juzgará entre muchos pueblos, y corregirá fuertes gentes hasta muy lejos: y martillarán sus espadas para azadones, y sus lanzas para hoces: no alzará espada gente contra gente, ni más se ensayarán para la guerra. 
@@ -90,7 +94,8 @@
 \bibleverse{12} Mas ellos no conocieron los pensamientos de Jehová, ni entendieron su consejo: por lo cual los juntó como gavillas en la era. 
 \bibleverse{13} Levántate y trilla, hija de Sión, porque tu cuerno tornaré de hierro, y tus uñas de metal, y desmenuzarás muchos pueblos; y consagrarás á Jehová sus robos, y sus riquezas al Señor de toda la tierra. 
 
-# 5 
+\hypertarget{section-33-5}{%
+\section{5}\label{section-33-5}}
 \bibleverse{1} Reúnete ahora en bandas, oh hija de bandas: nos han sitiado: con vara herirán sobre la quijada al juez de Israel.
 
 ## El nuevo David del futuro de Belén, su pueblo y su tiempo de paz
@@ -120,7 +125,8 @@
 \bibleverse{15} Y con ira y con furor haré venganza en las gentes que no escucharon. 
 
 ## La disputa de Dios con su pueblo ingrato
-# 6 
+\hypertarget{section-33-6}{%
+\section{6}\label{section-33-6}}
 \bibleverse{1} Oid ahora lo que dice Jehová: Levántate, pleitea con los montes, y oigan los collados tu voz. 
 \bibleverse{2} Oid, montes, y fuertes fundamentos de la tierra, el pleito de Jehová: porque tiene Jehová pleito con su pueblo, y altercará con Israel. 
 \bibleverse{3} Pueblo mío, ¿qué te he hecho, ó en qué te he molestado? Responde contra mí. 
@@ -145,7 +151,8 @@
 \bibleverse{16} Porque los mandamientos de Omri se han guardado, y toda obra de la casa de Achâb; y en los consejos de ellos anduvisteis, para que yo te diese en asolamiento, y tus moradores para ser silbados. Llevaréis por tanto el oprobio de mi pueblo. 
 
 ## Amargas quejas sobre la depravación general
-# 7 
+\hypertarget{section-33-7}{%
+\section{7}\label{section-33-7}}
 \bibleverse{1} ¡Ay de mí! que he venido á ser como cuando han cogido los frutos del verano, como cuando han rebuscado después de la vendimia, que no queda racimo para comer; mi alma deseó primeros frutos. 
 \bibleverse{2} Faltó el misericordioso de la tierra, y ninguno hay recto entre los hombres: todos acechan á la sangre; cada cual arma red á su hermano. 
 \bibleverse{3} Para completar la maldad con sus manos, el príncipe demanda, y el juez juzga por recompensa; y el grande habla el antojo de su alma, y lo confirman. 

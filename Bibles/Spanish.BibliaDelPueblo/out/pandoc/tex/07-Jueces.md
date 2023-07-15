@@ -1,5 +1,6 @@
 ## Campañas y actos armados de los judíos en relación con los simeonitas
-# 1 
+\hypertarget{section-07-1}{%
+\section{1}\label{section-07-1}}
 \bibleverse{1} Y aconteció después de la muerte de Josué, que los hijos de Israel consultaron á Jehová, diciendo: ¿Quién subirá por nosotros el primero á pelear contra los Cananeos?
 
  
@@ -63,7 +64,8 @@
 \bibleverse{36} Y el término del Amorrheo fué desde la subida de Acrabim, desde la piedra, y arriba. 
 
 ## La amenaza de castigo del ángel del Señor contra Israel por violar el deber del pacto
-# 2 
+\hypertarget{section-07-2}{%
+\section{2}\label{section-07-2}}
 \bibleverse{1} Y El ángel de Jehová subió de Gilgal á Bochîm, y dijo: Yo os saqué de Egipto, y os introduje en la tierra de la cual había jurado á vuestros padres; y dije: No invalidaré jamás mi pacto con vosotros; 
 \bibleverse{2} Con tal que vosotros no hagáis alianza con los moradores de aquesta tierra, cuyos altares habéis de derribar: mas vosotros no habéis atendido á mi voz: ¿por qué habéis hecho esto? 
 \bibleverse{3} Por tanto yo también dije: No los echaré de delante de vosotros, sino que os serán por azote para vuestros costados, y sus dioses por tropiezo.
@@ -97,7 +99,8 @@
 \bibleverse{23} Por esto dejó Jehová aquellas gentes, y no las desarraigó luego, ni las entregó en mano de Josué. 
 
 ## Indicación de los pueblos paganos que permanecieron en Canaán, cuyo Dios usó a los israelitas para probar y guiar
-# 3 
+\hypertarget{section-07-3}{%
+\section{3}\label{section-07-3}}
 \bibleverse{1} Estas, pues, son las gentes que dejó Jehová para probar con ellas á Israel, á todos aquellos que no habían conocido todas las guerras de Canaán; 
 \bibleverse{2} Para que al menos el linaje de los hijos de Israel conociese, para enseñarlos en la guerra, siquiera fuese á los que antes no la habían conocido: 
 \bibleverse{3} Cinco príncipes de los Philisteos, y todos los Cananeos, y los Sidonios, y los Heveos que habitaban en el monte Líbano: desde el monte de Baal-hermón hasta llegar á Hamath. 
@@ -146,7 +149,8 @@
 \bibleverse{31} Después de éste fué Samgar hijo de Anat, el cual hirió seiscientos hombres de los Filisteos con una aguijada de bueyes; y él también salvó á Israel. 
 
 ## El rey Jabín y su general Sísara esclavizaron a Israel
-# 4 
+\hypertarget{section-07-4}{%
+\section{4}\label{section-07-4}}
 \bibleverse{1} Mas los hijos de Israel tornaron á hacer lo malo en ojos de Jehová, después de la muerte de Aod. 
 \bibleverse{2} Y Jehová los vendió en mano de Jabín rey de Canaán, el cual reinó en Asor: y el capitán de su ejército se llamaba Sísara, y él habitaba en Haroseth de las Gentes. 
 \bibleverse{3} Y los hijos de Israel clamaron á Jehová, porque aquél tenía nuevecientos carros herrados: y había afligido en gran manera á los hijos de Israel por veinte años.
@@ -195,7 +199,8 @@
 \bibleverse{24} Y la mano de los hijos de Israel comenzó á crecer y á fortificarse contra Jabín rey de Canaán, hasta que lo destruyeron. 
 
 ## La canción de la victoria de Debora y Barak
-# 5 
+\hypertarget{section-07-5}{%
+\section{5}\label{section-07-5}}
 \bibleverse{1} Y aquel día cantó Débora, con Barac, hijo de Abinoam, diciendo: 
 \bibleverse{2} Porque ha vengado las injurias de Israel, porque el pueblo se ha ofrecido de su voluntad, load á Jehová. 
 \bibleverse{3} Oid, reyes; estad, oh príncipes, atentos: yo cantaré á Jehová, cantaré salmos á Jehová Dios de Israel.
@@ -253,7 +258,8 @@
 \bibleverse{31} Así perezcan todos tus enemigos, oh Jehová: mas los que le aman, sean como el sol cuando nace en su fuerza. Y la tierra reposó cuarenta años. 
 
 ## La apostasía renovada del pueblo resulta en la esclavitud y el saqueo de los madianitas
-# 6 
+\hypertarget{section-07-6}{%
+\section{6}\label{section-07-6}}
 \bibleverse{1} Mas los hijos de Israel hicieron lo malo en los ojos de Jehová; y Jehová los entregó en las manos de Madián por siete años. 
 \bibleverse{2} Y la mano de Madián prevaleció contra Israel. Y los hijos de Israel, por causa de los Madianitas, se hicieron cuevas en los montes, y cavernas, y lugares fuertes. 
 \bibleverse{3} Pues como los de Israel habían sembrado, subían los Madianitas, y Amalecitas, y los orientales: subían contra ellos; 
@@ -343,7 +349,8 @@
 \bibleverse{40} Y aquella noche lo hizo Dios así: porque la sequedad fué sólo en el vellón, y en toda la tierra estuvo el rocío. 
 
 ## La victoria de Gedeón sobre los madianitas
-# 7 
+\hypertarget{section-07-7}{%
+\section{7}\label{section-07-7}}
 \bibleverse{1} Levantándose pues de mañana Jerobaal, el cual es Gedeón, y todo el pueblo que estaba con él, asentaron el campo junto á la fuente de Harod: y tenía el campo de los Madianitas al norte, de la otra parte del collado de More, en el valle.
 
 ## La fuerza de Gideon se reduce a 300 hombres a través de dos avistamientos
@@ -398,7 +405,8 @@
 \bibleverse{24} Gedeón también envió mensajeros á todo el monte de Ephraim, diciendo: Descended al encuentro de los Madianitas, y tomadles las aguas hasta Beth-bara y el Jordán. Y juntos todos los hombres de Ephraim, tomaron las aguas de Beth-bara y el Jordán. 
 \bibleverse{25} Y tomaron dos príncipes de los Madianitas, Oreb y Zeeb: y mataron á Oreb en la peña de Oreb, y á Zeeb lo mataron en el lagar de Zeeb: y después que siguieron á los Madianitas, trajeron las cabezas de Oreb y de Zeeb á Gedeón de la otra parte del Jordán. 
 
-# 8 
+\hypertarget{section-07-8}{%
+\section{8}\label{section-07-8}}
 \bibleverse{1} Y los de Ephraim le dijeron: ¿Qué es esto que has hecho con nosotros, no llamándonos cuando ibas á la guerra contra Madián? Y reconviniéronlo fuertemente. 
 \bibleverse{2} A los cuales él respondió: ¿Qué he hecho yo ahora como vosotros? ¿No es el rebusco de Ephraim mejor que la vendimia de Abiezer? 
 \bibleverse{3} Dios ha entregado en vuestras manos á Oreb y á Zeeb, príncipes de Madián: ¿y qué pude yo hacer como vosotros? Entonces el enojo de ellos contra él se aplacó, luego que él habló esta palabra.
@@ -469,7 +477,8 @@
 \bibleverse{35} Ni hicieron misericordia con la casa de Jerobaal Gedeón, conforme á todo el bien que él había hecho á Israel. 
 
 ## El fratricidio de Abimelec en Ofra y su reinado en Siquem
-# 9 
+\hypertarget{section-07-9}{%
+\section{9}\label{section-07-9}}
 \bibleverse{1} Y fuése Abimelech hijo de Jerobaal á Sichêm, á los hermanos de su madre, y habló con ellos, y con toda la familia de la casa del padre de su madre, diciendo: 
 \bibleverse{2} Yo os ruego que habléis á oídos de todos los de Sichêm: ¿Qué tenéis por mejor, que os señoreen setenta hombres, todos los hijos de Jerobaal; ó que os señoree un varón? Acordaos que yo soy hueso vuestro, y carne vuestra.
 
@@ -578,7 +587,8 @@
 \bibleverse{57} Y aun todo el mal de los hombres de Sichêm tornó Dios sobre sus cabezas: y la maldición de Jotham, hijo de Jerobaal, vino sobre ellos. 
 
 ## Los jueces Thola y Jair
-# 10 
+\hypertarget{section-07-10}{%
+\section{10}\label{section-07-10}}
 \bibleverse{1} Y después de Abimelech levantóse para librar á Israel, Tola hijo de Púa, hijo de Dodo, varón de Issachâr, el cual habitaba en Samir, en el monte de Ephraim. 
 \bibleverse{2} Y juzgó á Israel veintitrés años, y murió, y fué sepultado en Samir.
 
@@ -610,7 +620,8 @@
 \bibleverse{17} Y juntándose los hijos de Ammón, asentaron campo en Galaad: juntáronse asimismo los hijos de Israel, y asentaron su campo en Mizpa. 
 \bibleverse{18} Y los príncipes y el pueblo de Galaad dijeron el uno al otro: ¿Quién será el que comenzará la batalla contra los hijos de Ammón? él será cabeza sobre todos los que habitan en Galaad. 
 
-# 11 
+\hypertarget{section-07-11}{%
+\section{11}\label{section-07-11}}
 \bibleverse{1} Existía entonces Jephté, Galaadita, hombre valiente, hijo de una ramera, al cual había engendrado Galaad. 
 \bibleverse{2} Y la mujer de Galaad también le había parido hijos; los cuales cuando fueron grandes, echaron fuera á Jephté, diciéndole: No heredarás en la casa de nuestro padre, porque eres bastardo. 
 \bibleverse{3} Huyendo pues Jephté á causa de sus hermanos, habitó en tierra de Tob; y juntáronse con él hombres ociosos, los cuales con él salían.
@@ -688,7 +699,8 @@
 \bibleverse{40} De aquí fué la costumbre en Israel que de año en año iban las doncellas de Israel á endechar á la hija de Jephté Galaadita, cuatro días en el año. 
 
 ## La batalla victoriosa de Jefté con los efraimitas y su muerte
-# 12 
+\hypertarget{section-07-12}{%
+\section{12}\label{section-07-12}}
 \bibleverse{1} Y juntándose los varones de Ephraim, pasaron hacia el aquilón, y dijeron á Jephté: ¿Por qué fuiste á hacer guerra contra los hijos de Ammón, y no nos llamaste para que fuéramos contigo? Nosotros quemaremos á fuego tu casa contigo.
 
  
@@ -719,7 +731,8 @@
 \bibleverse{15} Y murió Abdón hijo de Hillel, Piratonita, y fué sepultado en Piratón, en la tierra de Ephraim, en el monte de Amalec. 
 
 ## La prehistoria: dominio filisteo; dos apariciones de un ángel que anuncia el nacimiento y la consagración de Sansón a Dios
-# 13 
+\hypertarget{section-07-13}{%
+\section{13}\label{section-07-13}}
 \bibleverse{1} Y los hijos de Israel tornaron á hacer lo malo en los ojos de Jehová; y Jehová los entregó en mano de los Filisteos, por cuarenta años.
 
  
@@ -775,7 +788,8 @@
  
 \bibleverse{25} Y el espíritu de Jehová comenzó á manifestarse en él en los campamentos de Dan, entre Sora y Esthaol. 
 
-# 14 
+\hypertarget{section-07-14}{%
+\section{14}\label{section-07-14}}
 \bibleverse{1} Y descendiendo Samsón á Timnah, vió en Timnah una mujer de las hijas de los Filisteos. 
 \bibleverse{2} Y subió, y declarólo á su padre y á su madre, diciendo: Yo he visto en Timnah una mujer de las hijas de los Filisteos: ruégoos que me la toméis por mujer.
 
@@ -816,7 +830,8 @@
 \bibleverse{20} Y el espíritu de Jehová cayó sobre él, y descendió á Ascalón, é hirió treinta hombres de ellos; y tomando sus despojos, dió las mudas de vestidos á los que habían explicado el enigma: y encendido en enojo fuése á casa de su padre. Y la mujer de Samsón fué dada á su compañero, con el cual él antes se acompañaba. 
 
 ## Sansón, traicionado por su suegro, se venga de los filisteos persiguiendo zorros
-# 15 
+\hypertarget{section-07-15}{%
+\section{15}\label{section-07-15}}
 \bibleverse{1} Y aconteció después de días, que en el tiempo de la siega del trigo, Samsón visitó á su mujer con un cabrito, diciendo: Entraré á mi mujer á la cámara. Mas el padre de ella no lo dejó entrar.
 
  
@@ -864,7 +879,8 @@
 \bibleverse{20} Y juzgó á Israel en días de los Filisteos veinte años. 
 
 ## La potencia de los Simpson en Gaza
-# 16 
+\hypertarget{section-07-16}{%
+\section{16}\label{section-07-16}}
 \bibleverse{1} Y fué Samsón á Gaza, y vió allí una mujer ramera, y entró á ella. 
 \bibleverse{2} Y fué dicho á los de Gaza: Samsón es venido acá. Y cercáronlo, y pusiéronle espías toda aquella noche á la puerta de la ciudad: y estuvieron callados toda aquella noche, diciendo: Hasta la luz de la mañana; entonces lo mataremos. 
 \bibleverse{3} Mas Samsón durmió hasta la media noche; y á la media noche se levantó, y tomando las puertas de la ciudad con sus dos pilares y su cerrojo, echóselas al hombro, y fuése, y subióse con ellas á la cumbre del monte que está delante de Hebrón.
@@ -932,7 +948,8 @@
 \bibleverse{31} Y descendieron sus hermanos y toda la casa de su padre, y tomáronle, y lleváronle, y le sepultaron entre Sora y Esthaol, en el sepulcro de su padre Manoa. Y él juzgó á Israel veinte años. 
 
 ## Miqueas y su madre establecieron la idolatría en el monte Efraín
-# 17 
+\hypertarget{section-07-17}{%
+\section{17}\label{section-07-17}}
 \bibleverse{1} Hubo un hombre del monte de Ephraim, que se llamaba Michâs. 
 \bibleverse{2} El cual dijo á su madre: Los mil y cien siclos de plata que te fueron hurtados, por lo que tú maldecías oyéndolo yo, he aquí que yo tengo este dinero: yo lo había tomado. Entonces la madre dijo: Bendito seas de Jehová, hijo mío.
 
@@ -959,7 +976,8 @@
 \bibleverse{13} Y Michâs dijo: Ahora sé que Jehová me hará bien, pues que el Levita es hecho mi sacerdote. 
 
 ## Los espías daneses en la casa de Micha; el resultado de su exploración del área alrededor de la ciudad de Lais
-# 18 
+\hypertarget{section-07-18}{%
+\section{18}\label{section-07-18}}
 \bibleverse{1} En aquellos días no había rey en Israel. Y en aquellos días la tribu de Dan buscaba posesión para sí donde morase, porque hasta entonces no le había caído suerte entre las tribus de Israel por heredad. 
 \bibleverse{2} Y los hijos de Dan enviaron de su tribu cinco hombres de sus términos, hombres valientes, de Sora y Esthaol, para que reconociesen y explorasen bien la tierra; y dijéronles: Id y reconoced la tierra. Estos vinieron al monte de Ephraim, hasta la casa de Michâs, y allí posaron.
 
@@ -1025,7 +1043,8 @@
 \bibleverse{31} Y levantáronse la imagen de Michâs, la cual él había hecho, todo el tiempo que la casa de Dios estuvo en Silo. 
 
 ## La visita de un levita a Belén para recuperar a su concubina
-# 19 
+\hypertarget{section-07-19}{%
+\section{19}\label{section-07-19}}
 \bibleverse{1} En aquellos días, cuando no había rey en Israel, hubo un Levita que moraba como peregrino en los lados del monte de Ephraim, el cual se había tomado mujer concubina de Beth-lehem de Judá. 
 \bibleverse{2} Y su concubina adulteró contra él, y fuese de él á casa de su padre, á Beth-lehem de Judá, y estuvo allá por tiempo de cuatro meses. 
 \bibleverse{3} Y levantóse su marido, y siguióla, para hablarle amorosamente y volverla, llevando consigo un criado suyo y un par de asnos; y ella le metió en la casa de su padre. 
@@ -1084,7 +1103,8 @@
 \bibleverse{30} Y todo el que lo veía, decía: Jamás se ha hecho ni visto tal cosa, desde el tiempo que los hijos de Israel subieron de la tierra de Egipto hasta hoy. Considerad esto, dad consejo, y hablad. 
 
 ## Asesorar a las tribus israelitas en Mizpa; su despliegue a la guerra
-# 20 
+\hypertarget{section-07-20}{%
+\section{20}\label{section-07-20}}
 \bibleverse{1} Entonces salieron todos los hijos de Israel, y reunióse la congregación como un solo hombre, desde Dan hasta Beer-seba y la tierra de Galaad, á Jehová en Mizpa. 
 \bibleverse{2} Y los principales de todo el pueblo, de todas las tribus de Israel, se hallaron presentes en la reunión del pueblo de Dios, cuatrocientos mil hombres de á pie que sacaban espada. 
 \bibleverse{3} Y los hijos de Benjamín oyeron que los hijos de Israel habían subido á Mizpa. Y dijeron los hijos de Israel: Decid cómo fué esta maldad.
@@ -1160,7 +1180,8 @@
 \bibleverse{48} Y los hombres de Israel tornaron á los hijos de Benjamín, y pasáronlos á cuchillo, á hombres y bestias en la ciudad, y todo lo que fué hallado: asimismo pusieron fuego á todas las ciudades que hallaban. 
 
 ## Duelo de la comunidad; a los benjaminitas se les asignan doncellas de la ciudad de Jabes
-# 21 
+\hypertarget{section-07-21}{%
+\section{21}\label{section-07-21}}
 \bibleverse{1} Y los varones de Israel habían jurado en Mizpa, diciendo: Ninguno de nosotros dará su hija á los de Benjamín por mujer. 
 \bibleverse{2} Y vino el pueblo á la casa de Dios, y estuviéronse allí hasta la tarde delante de Dios; y alzando su voz hicieron gran llanto, y dijeron: 
 \bibleverse{3} Oh Jehová Dios de Israel, ¿por qué ha sucedido esto en Israel, que falte hoy de Israel una tribu?
