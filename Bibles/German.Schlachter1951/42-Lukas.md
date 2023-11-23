@@ -313,7 +313,7 @@
 ^49^ Wer aber hört und nicht tut, der ist einem Menschen gleich, der ein Haus auf das Erdreich baute ohne Grund; und der Strom prallte an dasselbe, und es brach sofort zusammen, und der Zusammenbruch dieses Hauses war groß. 
 
 # 7 
-^1^ Nachdem nun vor den Ohren des Volkes alle seine Reden beendet hatte, ging er hinein nach Kapernaum. 
+^1^ Nachdem er nun vor den Ohren des Volkes alle seine Reden beendet hatte, ging er hinein nach Kapernaum. 
 ^2^ Eines Hauptmanns Knecht aber, der jenem wert war, lag krank und war am Sterben. 
 ^3^ Da er aber von Jesus hörte, sandte er Älteste der Juden zu ihm 7mit der Bitte, er möge kommen und seinen Knecht retten. 
 ^4^ Als diese zu Jesus kamen, baten sie ihn angelegentlich und sprachen: Er ist es wert, daß du ihm das erzeigst; 
