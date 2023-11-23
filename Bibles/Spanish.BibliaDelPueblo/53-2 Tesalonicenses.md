@@ -4,7 +4,6 @@
 ^2^ Gracia y paz á vosotros de Dios nuestro Padre y del Señor Jesucristo.
 
 ## Acción de gracias por los avances en la fe y la lealtad cristiana de la comunidad en todas las tribulaciones
- 
 ^3^ Debemos siempre dar gracias á Dios de vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo, y la caridad de cada uno de todos vosotros abunda entre vosotros; 
 ^4^ Tanto, que nosotros mismos nos gloriamos de vosotros en las iglesias de Dios, de vuestra paciencia y fe en todas vuestras persecuciones y tribulaciones que sufrís: 
 ^5^ Una demostración del justo juicio de Dios, para que seáis tenidos por dignos del reino de Dios, por el cual asimismo padecéis. 
@@ -15,7 +14,6 @@
 ^10^ Cuando viniere para ser glorificado en sus santos, y á hacerse admirable en aquel día en todos los que creyeron: (por cuanto nuestro testimonio ha sido creído entre vosotros.)
 
 ## Intercesión apostólica por la Iglesia
- 
 ^11^ Por lo cual, asimismo oramos siempre por vosotros, que nuestro Dios os tenga por dignos de su vocación, é hincha de bondad todo buen intento, y toda obra de fe con potencia, 
 ^12^ Para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro Dios y del Señor Jesucristo. 
 
@@ -35,12 +33,10 @@
 ^12^ Para que sean condenados todos los que no creyeron á la verdad, antes consintieron á la iniquidad.
 
 ## Acción de gracias del Apóstol por la elección divina de los tesalonicenses; Amonestación para aferrarse a la verdad de enseñanza recibida; Intercesión por el fortalecimiento divino
- 
 ^13^ Mas nosotros debemos dar siempre gracias á Dios por vosotros, hermanos amados del Señor, de que Dios os haya escogido desde el principio para salud, por la santificación del Espíritu y fe de la verdad: 
 ^14^ A lo cual os llamó por nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo. 
 ^15^ Así que, hermanos, estad firmes, y retened la doctrina que habéis aprendido, sea por palabra, ó por carta nuestra.
 
- 
 ^16^ Y el mismo Señor nuestro Jesucristo, y Dios y Padre nuestro, el cual nos amó, y nos dió consolación eterna, y buena esperanza por gracia, 
 ^17^ Consuele vuestros corazones, y os confirme en toda buena palabra y obra. 
 
@@ -53,7 +49,6 @@
 ^5^ Y el Señor enderece vuestros corazones en el amor de Dios, y en la paciencia de Cristo.
 
 ## Reglas de conducta hacia los holgazanes; Recordatorio para llevar un estilo de vida ordenado y practicar una disciplina prudente
- 
 ^6^ Empero os denunciamos, hermanos, en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que anduviere fuera de orden, y no conforme á la doctrina que recibieron de nosotros: 
 ^7^ Porque vosotros mismos sabéis de qué manera debéis imitarnos: porque no anduvimos desordenadamente entre vosotros, 
 ^8^ Ni comimos el pan de ninguno de balde; antes, obrando con trabajo y fatiga de noche y de día, por no ser gravosos á ninguno de vosotros; 
@@ -62,15 +57,13 @@
 ^11^ Porque oímos que andan algunos entre vosotros fuera de orden, no trabajando en nada, sino ocupados en curiosear. 
 ^12^ Y á los tales requerimos y rogamos por nuestro Señor Jesucristo, que, trabajando con reposo, coman su pan.
 
- 
 ^13^ Y vosotros, hermanos, no os canséis de hacer bien. 
 ^14^ Y si alguno no obedeciere á nuestra palabra por carta, notad al tal, y no os juntéis con él, para que se avergüence. 
 ^15^ Mas no lo tengáis como á enemigo, sino amonestadle como á hermano.
 
- 
 ^16^ Y el mismo Señor de paz os dé siempre paz en toda manera. El Señor sea con todos vosotros.
 
-## Saludo personal y bendición de Pablo
+## Saludo personal y bendición de Pablo
  
 ^17^ Salud de mi mano, Pablo, que es mi signo en toda carta mía: así escribo. 
 ^18^ La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. La segunda Epístola á los Tesalonicenses fué escrita de Atenas. 

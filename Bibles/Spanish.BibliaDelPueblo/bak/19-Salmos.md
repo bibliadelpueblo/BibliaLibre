@@ -677,7 +677,6 @@ Oigate Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob.
 ## Gloria de la palabra y ley divinas (o: el alfabeto dorado)
 ^1^ Bienaventurados los perfectos de camino; los que andan en la ley de Jehová. ^^ ^2^ Bienaventurados los que guardan sus testimonios, y con todo el corazón le buscan: ^3^ Pues no hacen iniquidad los que andan en sus caminos. ^4^ Tú encargaste que sean muy guardados tus mandamientos. ^5^ ¡Ojalá fuesen ordenados mis caminos á observar tus estatutos! ^6^ Entonces no sería yo avergonzado, cuando atendiese á todos tus mandamientos. ^7^ Te alabaré con rectitud de corazón, cuando aprendiere los juicios de tu justicia. ^8^ Tus estatutos guardaré: no me dejes enteramente. 
 
-
 ^[**119:1** Sal 1,1-2; Sal 112,1]
 
 ## Beth
@@ -689,29 +688,24 @@ Oigate Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob.
 ## Gimel
 ^17^ Haz bien á tu siervo; que viva y guarde tu palabra. ^18^ Abre mis ojos, y miraré las maravillas de tu ley. ^19^ Advenedizo soy yo en la tierra: no encubras de mí tus mandamientos. ^20^ Quebrantada está mi alma de desear tus juicios en todo tiempo. ^21^ Destruiste á los soberbios malditos, que se desvían de tus mandamientos. ^^ ^22^ Aparta de mí oprobio y menosprecio; porque tus testimonios he guardado. ^23^ Príncipes también se sentaron y hablaron contra mí: mas tu siervo meditaba en tus estatutos. ^24^ Pues tus testimonios son mis deleites, y mis consejeros. 
 
-
 ^[**119:21** Deut 27,26]
 
 ## Daleth
 ^25^ Pegóse al polvo mi alma: vivifícame según tu palabra. ^26^ Mis caminos te conté, y me has respondido: enséñame tus estatutos. ^27^ Hazme entender el camino de tus mandamientos, y hablaré de tus maravillas. ^28^ Deshácese mi alma de ansiedad: corrobórame según tu palabra. ^29^ Aparta de mí camino de mentira; y hazme la gracia de tu ley. ^30^ Escogí el camino de la verdad; he puesto tus juicios delante de mí. ^31^ Allegádome he á tus testimonios; oh Jehová, no me avergüences. ^32^ Por el camino de tus mandamientos correré, cuando ensanchares mi corazón. 
 
 
-
 ## He
 ^33^ Enséñame, oh Jehová, el camino de tus estatutos, y guardarélo hasta el fin. ^34^ Dame entendimiento, y guardaré tu ley; y la observaré de todo corazón. ^35^ Guíame por la senda de tus mandamientos; porque en ella tengo mi voluntad. ^^ ^36^ Inclina mi corazón á tus testimonios, y no á la avaricia. ^37^ Aparta mis ojos, que no vean la vanidad; avívame en tu camino. ^38^ Confirma tu palabra á tu siervo, que te teme. ^39^ Quita de mí el oprobio que he temido: porque buenos son tus juicios. ^40^ He aquí yo he codiciado tus mandamientos: vivifícame en tu justicia. 
-
 
 ^[**119:35** Sal 119,47]
 
 ## Vau
 ^41^ Y venga á mí tu misericordia, oh Jehová; tu salud, conforme á tu dicho. ^42^ Y daré por respuesta á mi avergonzador, que en tu palabra he confiado. ^43^ Y no quites de mi boca en ningún tiempo la palabra de verdad; porque á tu juicio espero. ^44^ Y guardaré tu ley siempre, por siglo de siglo. ^45^ Y andaré en anchura, porque busqué tus mandamientos. ^46^ Y hablaré de tus testimonios delante de los reyes, y no me avergonzaré. ^47^ Y deleitaréme en tus mandamientos, que he amado. ^^ ^48^ Alzaré asimismo mis manos á tus mandamientos, que amé; y meditaré en tus estatutos. 
 
-
 ^[**119:47** Sal 119,70]
 
 ## Zain
 ^49^ Acuérdate de la palabra dada á tu siervo, en la cual me has hecho esperar. ^50^ Esta es mi consuelo en mi aflicción: porque tu dicho me ha vivificado. ^51^ Los soberbios se burlaron mucho de mí: mas no me he apartado de tu ley. ^52^ Acordéme, oh Jehová, de tus juicios antiguos, y consoléme. ^53^ Horror se apoderó de mí, á causa de los impíos que dejan tu ley. ^54^ Cánticos me fueron tus estatutos en la mansión de mis peregrinaciones. ^55^ Acordéme en la noche de tu nombre, oh Jehová, y guardé tu ley. ^56^ Esto tuve, porque guardaba tus mandamientos. 
-
 
 
 ## Cheth
@@ -729,7 +723,6 @@ Oigate Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob.
 ## Jod
 ^73^ Tus manos me hicieron y me formaron: hazme entender, y aprenderé tus mandamientos. ^74^ Los que te temen, me verán, y se alegrarán; porque en tu palabra he esperado. ^75^ Conozco, oh Jehová, que tus juicios son justicia, y que conforme á tu fidelidad me afligiste. ^^ ^76^ Sea ahora tu misericordia para consolarme, conforme á lo que has dicho á tu siervo. ^^ ^77^ Vengan á mí tus misericordias, y viva; porque tu ley es mi deleite. ^^ ^78^ Sean avergonzados los soberbios, porque sin causa me han calumniado: yo empero, meditaré en tus mandamientos. ^^ ^79^ Tórnense á mí los que te temen y conocen tus testimonios. ^80^ Sea mi corazón íntegro en tus estatutos; porque no sea yo avergonzado. 
 
-
 ^[**119:75** Sal 119,67] ^[**119:76** Sal 109,21] ^[**119:77** Sal 119,143] ^[**119:78** Sal 119,85-86]
 
 ## Caph
@@ -741,60 +734,50 @@ Oigate Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob.
 ## Lamed
 ^89^ Para siempre, oh Jehová, permanece tu palabra en los cielos. ^^ ^90^ Por generación y generación es tu verdad: tú afirmaste la tierra, y persevera. ^91^ Por tu ordenación perseveran hasta hoy las cosas criadas; porque todas ellas te sirven. ^92^ Si tu ley no hubiese sido mis delicias, ya en mi aflicción hubiera perecido. ^^ ^93^ Nunca jamás me olvidaré de tus mandamientos; porque con ellos me has vivificado. ^^ ^94^ Tuyo soy yo, guárdame; porque he buscado tus mandamientos. ^^ ^95^ Los impíos me han aguardado para destruirme: mas yo entenderé en tus testimonios. ^96^ A toda perfección he visto fin: ancho sobremanera es tu mandamiento. 
 
-
 ^[**119:89** Is 40,8] ^[**119:92** Sal 119,50; Jer 15,16] ^[**119:93** Sal 119,109] ^[**119:94** Sal 119,45]
 
 ## Mem
 ^97^ ¡Cuánto amo yo tu ley! todo el día es ella mi meditación. ^98^ Me has hecho más sabio que mis enemigos con tus mandamientos; porque me son eternos. ^^ ^99^ Más que todos mis enseñadores he entendido: porque tus testimonios son mi meditación. ^100^ Más que los viejos he entendido, porque he guardado tus mandamientos. ^101^ De todo mal camino contuve mis pies, para guardar tu palabra. ^102^ No me aparté de tus juicios; porque tú me enseñaste. ^103^ ¡Cuán dulces son á mi paladar tus palabras! más que la miel á mi boca. ^104^ De tus mandamientos he adquirido inteligencia: por tanto he aborrecido todo camino de mentira. 
-
 
 ^[**119:98** Deut 4,6]
 
 ## Nun
 ^105^ Lámpara es á mis pies tu palabra, y lumbrera á mi camino. ^^ ^106^ Juré y ratifiqué el guardar los juicios de tu justicia. ^107^ Afligido estoy en gran manera: oh Jehová, vivifícame conforme á tu palabra. ^108^ Ruégote, oh Jehová, te sean agradables los sacrificios voluntarios de mi boca; y enséñame tus juicios. ^^ ^109^ De continuo está mi alma en mi mano: mas no me he olvidado de tu ley. ^^ ^110^ Pusiéronme lazo los impíos: empero yo no me desvié de tus mandamientos. ^111^ Por heredad he tomado tus testimonios para siempre; porque son el gozo de mi corazón. ^112^ Mi corazón incliné á poner por obra tus estatutos de continuo, hasta el fin. 
 
-
 ^[**119:105** 2Pe 1,19] ^[**119:108** Sal 19,15] ^[**119:109** Sal 119,141]
 
 ## Samech
 ^113^ Los pensamientos vanos aborrezco; mas amo tu ley. ^^ ^114^ Mi escondedero y mi escudo eres tú: en tu palabra he esperado. ^^ ^115^ Apartaos de mí, malignos; pues yo guardaré los mandamientos de mi Dios. ^116^ Susténtame conforme á tu palabra, y viviré: y no me avergüences de mi esperanza. ^117^ Sostenme, y seré salvo; y deleitaréme siempre en tus estatutos. ^118^ Hollaste á todos los que se desvían de tus estatutos: porque mentira es su engaño. ^119^ Como escorias hiciste consumir á todos los impíos de la tierra: por tanto yo he amado tus testimonios. ^120^ Mi carne se ha extremecido por temor de ti; y de tus juicios tengo miedo. 
-
 
 ^[**119:113** Sal 31,7] ^[**119:114** Sal 3,4]
 
 ## Ain
 ^121^ Juicio y justicia he hecho; no me dejes á mis opresores. ^122^ Responde por tu siervo para bien: no me hagan violencia los soberbios. ^^ ^123^ Mis ojos desfallecieron por tu salud, y por el dicho de tu justicia. ^124^ Haz con tu siervo según tu misericordia, y enséñame tus estatutos. ^125^ Tu siervo soy yo, dame entendimiento; para que sepa tus testimonios. ^126^ Tiempo es de hacer, oh Jehová; disipado han tu ley. ^127^ Por eso he amado tus mandamientos más que el oro, y más que oro muy puro. ^128^ Por eso todos los mandamientos de todas las cosas estimé rectos: aborrecí todo camino de mentira. 
 
-
 ^[**119:122** Sal 19,14]
 
 ## Pe
 ^129^ Maravillosos son tus testimonios: por tanto los ha guardado mi alma. ^130^ El principio de tus palabras alumbra; hace entender á los simples. ^^ ^131^ Mi boca abrí y suspiré; porque deseaba tus mandamientos. ^132^ Mírame, y ten misericordia de mí, como acostumbras con los que aman tu nombre. ^133^ Ordena mis pasos con tu palabra; y ninguna iniquidad se enseñoree de mí. ^134^ Redímeme de la violencia de los hombres; y guardaré tus mandamientos. ^135^ Haz que tu rostro resplandezca sobre tu siervo; y enséñame tus estatutos. ^136^ Ríos de agua descendieron de mis ojos, porque no guardaban tu ley. 
-
 
 ^[**119:130** Sal 19,8]
 
 ## Tzaddi
 ^137^ Justo eres tú, oh Jehová, y rectos tus juicios. ^138^ Tus testimonios, que has recomendado, son rectos y muy fieles. ^139^ Mi celo me ha consumido; porque mis enemigos se olvidaron de tus palabras. ^^ ^140^ Sumamente acendrada es tu palabra; y la ama tu siervo. ^141^ Pequeño soy yo y desechado; mas no me he olvidado de tus mandamientos. ^142^ Tu justicia es justicia eterna, y tu ley la verdad. ^143^ Aflicción y angustia me hallaron: mas tus mandamientos fueron mis deleites. ^^ ^144^ Justicia eterna son tus testimonios; dame entendimiento, y viviré. 
 
-
 ^[**119:139** Sal 69,10] ^[**119:143** Sal 119,174]
 
 ## Coph
 ^145^ Clamé con todo mi corazón; respóndeme, Jehová, y guardaré tus estatutos. ^146^ A ti clamé; sálvame, y guardaré tus testimonios. ^147^ Anticipéme al alba, y clamé: esperé en tu palabra. ^148^ Previnieron mis ojos las vigilias de la noche, para meditar en tus dichos. ^149^ Oye mi voz conforme á tu misericordia; oh Jehová, vivifícame conforme á tu juicio. ^^ ^150^ Acercáronse á la maldad los que me persiguen; alejáronse de tu ley. ^151^ Cercano estás tú, oh Jehová; y todos tus mandamientos son verdad. ^152^ Ya ha mucho que he entendido de tus mandamientos, que para siempre los fundaste. 
-
 
 ^[**119:149** Sal 119,88; Sal 119,154; Sal 119,159]
 
 ## Resh
 ^153^ Mira mi aflicción, y líbrame; porque de tu ley no me he olvidado. ^^ ^154^ Aboga mi causa, y redímeme: vivifícame con tu dicho. ^155^ Lejos está de los impíos la salud; porque no buscan tus estatutos. ^156^ Muchas son tus misericordias, oh Jehová: vivifícame conforme á tus juicios. ^157^ Muchos son mis perseguidores y mis enemigos; mas de tus testimonios no me he apartado. ^158^ Veía á los prevaricadores, y carcomíame; porque no guardaban tus palabras. ^159^ Mira, oh Jehová, que amo tus mandamientos: vivifícame conforme á tu misericordia. ^160^ El principio de tu palabra es verdad; y eterno es todo juicio de tu justicia. 
 
-
 ^[**119:153** Sal 119,176]
 
 ## Sin
 ^161^ Príncipes me han perseguido sin causa; mas mi corazón tuvo temor de tus palabras. ^162^ Gózome yo en tu palabra, como el que halla muchos despojos. ^163^ La mentira aborrezco y abomino: tu ley amo. ^164^ Siete veces al día te alabo sobre los juicios de tu justicia. ^165^ Mucha paz tienen los que aman tu ley; y no hay para ellos tropiezo. ^166^ Tu salud he esperado, oh Jehová; y tus mandamientos he puesto por obra. ^^ ^167^ Mi alma ha guardado tus testimonios, y helos amado en gran manera. ^168^ Guardado he tus mandamientos y tus testimonios; porque todos mis caminos están delante de ti. 
-
 
 ^[**119:166** Gén 49,18]
 

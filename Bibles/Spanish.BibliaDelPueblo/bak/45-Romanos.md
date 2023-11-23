@@ -13,7 +13,6 @@
 ^13^ Mas no quiero, hermanos, que ignoréis que muchas veces me he propuesto ir á vosotros (empero hasta ahora he sido estorbado), para tener también entre vosotros algún fruto, como entre los demás Gentiles. ^14^ A Griegos y á bárbaros, á sabios y á no sabios soy deudor. ^15^ Así que, cuanto á mí, presto estoy á anunciar el evangelio también á vosotros que estáis en Roma. 
 
 
-
 ## Indicación del tema: La justificación
 ^16^ Porque no me avergüenzo del evangelio: porque es potencia de Dios para salud á todo aquel que cree; al Judío primeramente y también al Griego. ^^ ^17^ Porque en él la justicia de Dios se descubre de fe en fe; como está escrito: Mas el justo vivirá por la fe. 
 
@@ -48,7 +47,6 @@
 ^10^ Mas gloria y honra y paz á cualquiera que obra el bien, al Judío primeramente, y también al Griego. ^11^ Porque no hay acepción de personas para con Dios. 
 
 
-
 ## El juicio de Dios es el mismo para los judíos que para los gentiles, determinado únicamente por el cumplimiento de la ley
 ^12^ Porque todos los que sin ley pecaron, sin ley también perecerán; y todos los que en la ley pecaron, por la ley serán juzgados: ^13^ Porque no los oidores de la ley son justos para con Dios, mas los hacedores de la ley serán justificados. ^^ ^14^ Porque los Gentiles que no tienen ley, naturalmente haciendo lo que es de la ley, los tales, aunque no tengan ley, ellos son ley á sí mismos: ^^ ^15^ Mostrando la obra de la ley escrita en sus corazones, dando testimonio juntamente sus conciencias, y acusándose y también excusándose sus pensamientos unos con otros; ^^ ^16^ En el día que juzgará el Señor lo encubierto de los hombres, conforme á mi evangelio, por Jesucristo. 
 
@@ -57,7 +55,6 @@
 
 ## Un mejor conocimiento moral y la capacidad de enseñar no hacen que los judíos sean justos ante Dios; su fama por la ley es nula porque la transgrede
 ^17^ He aquí, tú tienes el sobrenombre de Judío, y estás reposado en la ley, y te glorías en Dios, ^18^ Y sabes su voluntad, y apruebas lo mejor, instruído por la ley; ^19^ Y confías que eres guía de los ciegos, luz de los que están en tinieblas, ^^ ^20^ Enseñador de los que no saben, maestro de niños, que tienes la forma de la ciencia y de la verdad en la ley: ^21^ Tú pues, que enseñas á otro, ¿no te enseñas á ti mismo? ¿Tú, que predicas que no se ha de hurtar, hurtas? ^22^ ¿Tú, que dices que no se ha de adulterar, adulteras? ¿Tú, que abominas los ídolos, cometes sacrilegio? ^23^ ¿Tú, que te jactas de la ley, con infracción de la ley deshonras á Dios? ^24^ Porque el nombre de Dios es blasfemado por causa de vosotros entre los Gentiles, como está escrito. 
-
 
 ^[**2:19** Mat 15,14]
 
@@ -89,7 +86,6 @@
 ## La justicia de Dios se otorga a los que creen en Jesús
 ^21^ Mas ahora, sin la ley, la justicia de Dios se ha manifestado, testificada por la ley y por los profetas: ^^ ^22^ La justicia de Dios por la fe de Jesucristo, para todos los que creen en él; porque no hay diferencia; ^^ ^23^ Por cuanto todos pecaron, y están destituídos de la gloria de Dios; ^^ ^24^ Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús; ^^ ^25^ Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados, ^^ ^26^ Con la mira de manifestar su justicia en este tiempo: para que él sea el justo, y el que justifica al que es de la fe de Jesús. 
 
-
 ^[**3:21** Rom 1,17; Hech 10,43] ^[**3:22** Fil 3,9] ^[**3:23** Rom 5,2; Juan 5,44; Sal 84,12] ^[**3:24** Rom 5,1; 2Cor 5,19; Efes 2,8] ^[**3:25** Lev 16,12-15; Heb 4,16]
 
 ## La justicia de Dios por la fe excluye toda fama propia y se aplica tanto a los gentiles como a los judíos
@@ -103,7 +99,6 @@
 # 4 
 ## Evidencia de la justicia de la fe en Abraham y mediante un testimonio de David
 ^1^ ¿Qué, pues, diremos que halló Abraham nuestro padre según la carne? ^2^ Que si Abraham fué justificado por la obras, tiene de qué gloriarse; mas no para con Dios. ^3^ Porque ¿qué dice la Escritura? Y creyó Abraham á Dios, y le fué atribuído á justicia. ^^ ^4^ Empero al que obra, no se le cuenta el salario por merced, sino por deuda. ^^ ^5^ Mas al que no obra, pero cree en aquél que justifica al impío, la fe le es contada por justicia. ^^ ^6^ Como también David dice ser bienaventurado el hombre al cual Dios atribuye justicia sin obras, ^7^ Diciendo: Bienaventurados aquellos cuyas iniquidades son perdonadas, y cuyos pecados son cubiertos. ^8^ Bienaventurado el varón al cual el Señor no imputó pecado. 
-
 
 ^[**4:3** Gal 3,6] ^[**4:4** Rom 11,6] ^[**4:5** Rom 3,26]
 
@@ -121,10 +116,8 @@
 ^16^ Por tanto es por la fe, para que sea por gracia; para que la promesa sea firme á toda simiente, no solamente al que es de la ley, mas también al que es de la fe de Abraham, el cual es padre de todos nosotros, ^17^ (Como está escrito: Que por padre de muchas gentes te he puesto) delante de Dios, al cual creyó; el cual da vida á los muertos, y llama las cosas que no son, como las que son. 
 
 
-
 ## La fe ejemplar de Abraham
 ^18^ El creyó en esperanza contra esperanza, para venir á ser padre de muchas gentes, conforme á lo que le había sido dicho: Así será tu simiente. ^19^ Y no se enflaqueció en la fe, ni consideró su cuerpo ya muerto (siendo ya de casi cien años), ni la matriz muerta de Sara; ^^ ^20^ Tampoco en la promesa de Dios dudó con desconfianza: antes fué esforzado en fe, dando gloria á Dios, ^^ ^21^ Plenamente convencido de que todo lo que había prometido, era también poderoso para hacerlo. ^22^ Por lo cual también le fué atribuído á justicia. 
-
 
 ^[**4:19** Gén 17,17] ^[**4:20** Heb 11,11]
 
@@ -149,14 +142,12 @@
 ^11^ Y no sólo esto, mas aun nos gloriamos en Dios por el Señor nuestro Jesucristo, por el cual hemos ahora recibido la reconciliación. 
 
 
-
 ## Cristo como lo opuesto a Adán; la gracia que trae vida inmortal es más poderosa que el pecado mortal
 ^12^ De consiguiente, vino la reconciliación por uno, así como el pecado entró en el mundo por un hombre, y por el pecado la muerte, y la muerte así pasó á todos los hombres, pues que todos pecaron. ^13^ Porque hasta la ley, el pecado estaba en el mundo; pero no se imputa pecado no habiendo ley. ^^ ^14^ No obstante, reinó la muerte desde Adam hasta Moisés, aun en los que no pecaron á la manera de la rebelión de Adam; el cual es figura del que había de venir. 
 
 ^[**5:13** Rom 4,15]
 
 ^15^ Mas no como el delito, tal fué el don: porque si por el delito de aquel uno murieron los muchos, mucho más abundó la gracia de Dios á los muchos, y el don por la gracia de un hombre, Jesucristo. ^16^ Ni tampoco de la manera que por un pecado, así también el don: porque el juicio á la verdad vino de un pecado para condenación, mas la gracia vino de muchos delitos para justificación. ^17^ Porque, si por un delito reinó la muerte por uno, mucho más reinarán en vida por un Jesucristo los que reciben la abundancia de la gracia, y del don de la justicia. 
-
 
 ^18^ Así que, de la manera que por un delito vino la culpa á todos los hombres para condenación, así por una justicia vino la gracia á todos los hombres para justificación de vida. ^19^ Porque como por la desobediencia de un hombre los muchos fueron constituídos pecadores, así por la obediencia de uno los muchos serán constituídos justos. ^^ ^20^ La ley empero entró para que el pecado creciese; mas cuando el pecado creció, sobrepujó la gracia; ^^ ^21^ Para que, de la manera que el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna por Jesucristo Señor nuestro. ^^ 
 ^[**5:19** Rom 3,26; Is 53,11] ^[**5:20** Rom 7,8; Rom 7,13; Gal 3,19] ^[**5:21** Rom 6,23] 
@@ -168,7 +159,6 @@
 ^[**6:1** Rom 3,5-8] ^[**6:3** Gal 3,27] ^[**6:4** Col 2,12; 1Pe 3,21]
 
 ^5^ Porque si fuimos plantados juntamente en él á la semejanza de su muerte, así también lo seremos á la de su resurrección: ^6^ Sabiendo esto, que nuestro viejo hombre juntamente fué crucificado con él, para que el cuerpo del pecado sea deshecho, á fin de que no sirvamos más al pecado. ^^ ^7^ Porque el que es muerto, justificado es del pecado. 
-
 
 ^[**6:6** Gal 5,24]
 
@@ -223,12 +213,10 @@
 ## El contraste entre los que sirven a Dios en el Espíritu y los que viven por los instintos de la carne
 ^5^ Porque los que viven conforme á la carne, de las cosas que son de la carne se ocupan; mas los que conforme al espíritu, de las cosas del espíritu. ^6^ Porque la intención de la carne es muerte; mas la intención del espíritu, vida y paz: ^^ ^7^ Por cuanto la intención de la carne es enemistad contra Dios; porque no se sujeta á la ley de Dios, ni tampoco puede. ^^ ^8^ Así que, los que están en la carne no pueden agradar á Dios. 
 
-
 ^[**8:6** Rom 6,21; Gal 6,8] ^[**8:7** Sant 4,4]
 
 ## El cristiano como morada del Espíritu
 ^9^ Mas vosotros no estáis en la carne, sino en el espíritu, si es que el Espíritu de Dios mora en vosotros. Y si alguno no tiene el Espíritu de Cristo, el tal no es de él. ^10^ Empero si Cristo está en vosotros, el cuerpo á la verdad está muerto á causa del pecado; mas el espíritu vive á causa de la justicia. ^^ ^11^ Y si el Espíritu de aquel que levantó de los muertos á Jesús mora en vosotros, el que levantó á Cristo Jesús de los muertos, vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros. 
-
 
 ^[**8:10** Gal 2,20]
 
@@ -246,7 +234,6 @@
 ^[**8:18** 2Cor 4,17] ^[**8:19** Col 3,4; 1Jn 3,2] ^[**8:20** Gén 3,17; Ecl 1,2] ^[**8:21** 2Pe 3,13] ^[**8:23** 2Cor 5,2] ^[**8:24** 2Cor 5,7] ^[**8:25** Gal 5,5]
 
 ^26^ Y asimismo también el Espíritu ayuda nuestra flaqueza: porque qué hemos de pedir como conviene, no lo sabemos; sino que el mismo Espíritu pide por nosotros con gemidos indecibles. ^27^ Mas el que escudriña los corazones, sabe cuál es el intento del Espíritu, porque conforme á la voluntad de Dios, demanda por los santos. 
-
 
 
 ## El comienzo de nuestra comunión con Dios, obra de Dios, garantiza su finalización final
@@ -274,7 +261,6 @@
 ## Las promesas de Dios a Israel son inquebrantables, pero no se aplican a todo el cuerpo, sino solo a los descendientes espirituales de Abraham
 ^6^ No empero que la palabra de Dios haya faltado: porque no todos los que son de Israel son Israelitas; ^^ ^7^ Ni por ser simiente de Abraham, son todos hijos; mas: En Isaac te será llamada simiente. ^8^ Quiere decir: No los que son hijos de la carne, éstos son los hijos de Dios; mas los que son hijos de la promesa, son contados en la generación. ^^ ^9^ Porque la palabra de la promesa es esta: Como en este tiempo vendré, y tendrá Sara un hijo. ^10^ Y no sólo esto; mas también Rebeca concibiendo de uno, de Isaac nuestro padre, ^11^ (Porque no siendo aún nacidos, ni habiendo hecho aún ni bien ni mal, para que el propósito de Dios conforme á la elección, no por las obras sino por el que llama, permaneciese;) ^12^ Le fué dicho que el mayor serviría al menor. ^13^ Como está escrito: A Jacob amé, mas á Esaú aborrecí. 
 
-
 ^[**9:6** Núm 23,19; Rom 2,28] ^[**9:8** Gal 4,23]
 
 ## La elección para la salvación es obra gratuita de la gracia de Dios; la negación de la salvación y la gracia no permite al hombre pelear con Dios
@@ -293,10 +279,8 @@
 ^29^ Y como antes dijo Isaías: Si el Señor de los ejércitos no nos hubiera dejado simiente, como Sodoma habríamos venido á ser, y á Gomorra fuéramos semejantes. 
 
 
-
 ## La culpa de los judíos consistió en el rechazo de la justicia de la fe y en la persecución excesiva de la justicia de las obras
 ^30^ ¿Pues qué diremos? Que los Gentiles que no seguían justicia, han alcanzado la justicia, es á saber, la justicia que es por la fe; 
-
 
 ^31^ Mas Israel que seguía la ley de justicia, no ha llegado á la ley de justicia. 
 ^^ 
@@ -306,7 +290,6 @@
 ^1^ Hermanos, ciertamente la voluntad de mi corazón y mi oración á Dios sobre Israel, es para salud. ^2^ Porque yo les doy testimonio que tienen celo de Dios, mas no conforme á ciencia. ^3^ Porque ignorando la justicia de Dios, y procurando establecer la suya propia, no se han sujetado á la justicia de Dios. 
 
 
-
 ## La falta de Israel es aún más grave ya que Dios no ha descuidado nada para llevar a Israel a la justicia de la fe desde la época de Moisés
 ^4^ Porque el fin de la ley es Cristo, para justicia á todo aquel que cree. 
 ^^ 
@@ -314,9 +297,7 @@
 
 ^5^ Porque Moisés describe la justicia que es por la ley: Que el hombre que hiciere estas cosas, vivirá por ellas. ^6^ Mas la justicia que es por la fe dice así: No digas en tu corazón: ¿Quién subirá al cielo? (esto es, para traer abajo á Cristo:) ^7^ O, ¿quién descenderá al abismo? (esto es, para volver á traer á Cristo de los muertos.) ^8^ Mas ¿qué dice? Cercana está la palabra, en tu boca y en tu corazón. Esta es la palabra de fe, la cual predicamos: ^9^ Que si confesares con tu boca al Señor Jesús, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo. ^10^ Porque con el corazón se cree para justicia; mas con la boca se hace confesión para salud. ^11^ Porque la Escritura dice: Todo aquel que en él creyere, no será avergonzado. 
 
-
 ^12^ Porque no hay diferencia de Judío y de Griego: porque el mismo que es Señor de todos, rico es para con todos los que le invocan: ^^ ^13^ Porque todo aquel que invocare el nombre del Señor, será salvo. ^14^ ¿Cómo, pues invocarán á aquel en el cual no han creído? ¿y cómo creerán á aquel de quien no han oído? ¿y cómo oirán sin haber quien les predique? ^15^ ¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian el evangelio de la paz, de los que anuncian el evangelio de los bienes! 
-
 
 ^[**10:12** Hech 10,34-35; Hech 15,9]
 
@@ -327,9 +308,7 @@
 
 ^19^ Mas digo: ¿No ha conocido esto Israel? Primeramente Moisés dice: Yo os provocaré á celos con gente que no es mía; con gente insensata os provocaré á ira. 
 
-
 ^20^ E Isaías determinadamente dice: Fuí hallado de los que no me buscaban; manifestéme á los que no preguntaban por mí. 
-
 
 ^21^ Mas acerca de Israel dice: Todo el día extendí mis manos á un pueblo rebelde y contradictor. 
 
@@ -346,7 +325,6 @@
 ^9^ Y David dice: Séales vuelta su mesa en lazo, y en red, y en tropezadero, y en paga: ^10^ Sus ojos sean obscurecidos para que no vean, y agóbiales siempre el espinazo. 
 
 
-
 ## El propósito divino de la salvación en el llamado de los gentiles era vencer la incredulidad de los judíos estimulándolos a emularlos; su rechazo no es definitivo
 ^11^ Digo pues: ¿Han tropezado para que cayesen? En ninguna manera; mas por el tropiezo de ellos vino la salud á los Gentiles, para que fuesen provocados á celos. ^^ ^12^ Y si la falta de ellos es la riqueza del mundo, y el menoscabo de ellos la riqueza de los Gentiles, ¿cuánto más el henchimiento de ellos? 
 
@@ -354,9 +332,7 @@
 
 ^13^ Porque á vosotros hablo, Gentiles. Por cuanto pues, yo soy apóstol de los Gentiles, mi ministerio honro, ^14^ Por si en alguna manera provocase á celos á mi carne, é hiciese salvos á algunos de ellos. ^15^ Porque si el extrañamiento de ellos es la reconciliación del mundo, ¿qué será el recibimiento de ellos, sino vida de los muertos? 
 
-
 ^16^ Y si el primer fruto es santo, también lo es el todo, y si la raíz es santa, también lo son las ramas. ^17^ Que si algunas de las ramas fueron quebradas, y tú, siendo acebuche, has sido ingerido en lugar de ellas, y has sido hecho participante de la raíz y de la grosura de la oliva; ^^ ^18^ No te jactes contra las ramas; y si te jactas, sabe que no sustentas tú á la raíz, sino la raíz á ti. ^^ ^19^ Pues las ramas, dirás, fueron quebradas para que yo fuese ingerido. ^20^ Bien: por su incredulidad fueron quebradas, mas tú por la fe estás en pie. No te ensoberbezcas, antes teme, ^^ ^21^ Que si Dios no perdonó á las ramas naturales, á ti tampoco no perdone. ^22^ Mira, pues, la bondad y la severidad de Dios: la severidad ciertamente en los que cayeron; mas la bondad para contigo, si permanecieres en la bondad; pues de otra manera tú también serás cortado. ^23^ Y aun ellos, si no permanecieren en incredulidad, serán ingeridos; que poderoso es Dios para volverlos á ingerir. ^24^ Porque si tú eres cortado del natural acebuche, y contra natura fuiste ingerido en la buena oliva, ¿cuánto más éstos, que son las ramas naturales, serán ingeridos en su oliva? 
-
 
 ^[**11:17** Efes 2,11-14] ^[**11:18** Juan 4,22] ^[**11:20** 1Cor 10,12]
 
@@ -403,15 +379,12 @@
 ## Exhortación a obedecer a las autoridades designadas por Dios
 ^1^ Toda alma se someta á las potestades superiores; porque no hay potestad sino de Dios; y las que son, de Dios son ordenadas. ^^ ^2^ Así que, el que se opone á la potestad, á la ordenación de Dios resiste: y los que resisten, ellos mismos ganan condenación para sí. ^3^ Porque los magistrados no son para temor al que bien hace, sino al malo. ¿Quieres pues no temer la potestad? haz lo bueno, y tendrás alabanza de ella; ^4^ Porque es ministro de Dios para tu bien. Mas si hicieres lo malo, teme: porque no en vano lleva el cuchillo; porque es ministro de Dios, vengador para castigo al que hace lo malo. ^^ ^5^ Por lo cual es necesario que le estéis sujetos, no solamente por la ira, mas aun por la conciencia. ^6^ Porque por esto pagáis también los tributos; porque son ministros de Dios que sirven á esto mismo. 
 
-
 ^[**13:1** Tit 3,1; Juan 19,11; Prov 8,15] ^[**13:4** 2Cró 19,6-7]
 
 ## Exhortaciones al cumplimiento integral de los deberes, especialmente a la caridad como cumplimiento de la ley
 ^7^ Pagad á todos lo que debéis: al que tributo, tributo; al que pecho, pecho; al que temor, temor; al que honra, honra. 
 
-
 ^8^ No debáis á nadie nada, sino amaros unos á otros; porque el que ama al prójimo, cumplió la ley. ^^ ^9^ Porque: No adulterarás; no matarás; no hurtarás; no dirás falso testimonio; no codiciarás; y si hay algún otro mandamiento, en esta sentencia se comprende sumariamente: Amarás á tu prójimo como á ti mismo. ^10^ La caridad no hace mal al prójimo: así que, el cumplimento de la ley es la caridad. 
-
 
 ^[**13:8** Gal 5,14; 1Tim 1,5]
 
@@ -451,18 +424,14 @@
 ## Exhortación a ser pacientes con los débiles y a la unidad de los cristianos basada en el ejemplo de Cristo
 ^1^ Así que, los que somos más firmes debemos sobrellevar las flaquezas de los flacos, y no agradarnos á nosotros mismos. ^2^ Cada uno de nosotros agrade á su prójimo en bien, á edificación. ^^ ^3^ Porque Cristo no se agradó á sí mismo; antes bien, como está escrito: Los vituperios de los que te vituperan, cayeron sobre mí. ^4^ Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia, y por la consolación de las Escrituras, tengamos esperanza. ^5^ Mas el Dios de la paciencia y de la consolación os dé que entre vosotros seáis unánimes según Cristo Jesús; ^^ ^6^ Para que concordes, á una boca glorifiquéis al Dios y Padre de nuestro Señor Jesucristo. 
 
-
 ^[**15:2** 1Cor 9,19; 1Cor 10,24; 1Cor 10,33] ^[**15:5** Fil 2,2]
 
 ## Un recordatorio para que ambas partes de la comunidad estén unidas y tengan una fe gozosa
 ^7^ Por tanto, sobrellevaos los unos á los otros, como también Cristo nos sobrellevó, para gloria de Dios. ^8^ Digo, pues, que Cristo Jesús fué hecho ministro de la circuncisión por la verdad de Dios, para confirmar las promesas hechas á los padres, ^9^ Y para que los Gentiles glorifiquen á Dios por la misericordia; como está escrito: Por tanto yo te confesaré entre los Gentiles, y cantaré á tu nombre. 
 
-
 ^10^ Y otra vez dice: Alegraos, Gentiles, con su pueblo. 
 
-
 ^11^ Y otra vez: Alabad al Señor todos los Gentiles, y magnificadle, todos los pueblos. 
-
 
 ^12^ Y otra vez, dice Isaías: Estará la raíz de Jessé, y el que se levantará á regir los Gentiles: los Gentiles esperarán en él. 
 ^^ 
@@ -471,16 +440,13 @@
 ^13^ Y el Dios de esperanza os llene de todo gozo y paz creyendo, para que abundéis en esperanza por la virtud del Espíritu Santo. 
 
 
-
 ## Revisión justificativa del apóstol de la carta y referencia a su oficio apostólico para los gentiles
 ^14^ Empero cierto estoy yo de vosotros, hermanos míos, que aun vosotros mismos estáis llenos de bondad, llenos de todo conocimiento, de tal manera que podáis amonestaros los unos á los otros. ^15^ Mas os he escrito, hermanos, en parte resueltamente, como amonestándoos por la gracia que de Dios me es dada, ^16^ Para ser ministro de Jesucristo á los Gentiles, ministrando el evangelio de Dios, para que la ofrenda de los Gentiles sea agradable, santificada por el Espíritu Santo. ^^ ^17^ Tengo, pues, de qué gloriarme en Cristo Jesús en lo que mira á Dios. ^18^ Porque no osaría hablar alguna cosa que Cristo no haya hecho por mí para la obediencia de los Gentiles, con la palabra y con las obras, ^19^ Con potencia de milagros y prodigios, en virtud del Espíritu de Dios: de manera que desde Jerusalem, y por los alrededores hasta Ilírico, he llenado todo del evangelio de Cristo. ^^ ^20^ Y de esta manera me esforcé á predicar el evangelio, no donde antes Cristo fuese nombrado, por no edificar sobre ajeno fundamento: ^^ ^21^ Sino, como está escrito: A los que no fué anunciado de él, verán: y los que no oyeron, entenderán. 
-
 
 ^[**15:16** Rom 11,13] ^[**15:19** Mar 16,17; 2Cor 12,12] ^[**15:20** 2Cor 10,15-16]
 
 ## Anuncio de los próximos planes de viaje del apóstol
 ^22^ Por lo cual aun he sido impedido muchas veces de venir á vosotros. ^^ ^23^ Mas ahora no teniendo más lugar en estas regiones, y deseando ir á vosotros muchos años há, ^^ ^24^ Cuando partiere para España, iré á vosotros; porque espero que pasando os veré, y que seré llevado de vosotros allá, si empero antes hubiere gozado de vosotros. ^25^ Mas ahora parto para Jerusalem á ministrar á los santos. ^^ ^26^ Porque Macedonia y Acaya tuvieron por bien hacer una colecta para los pobres de los santos que están en Jerusalem. ^^ ^27^ Porque les pareció bueno, y son deudores á ellos: porque si los Gentiles han sido hechos participantes de sus bienes espirituales, deben también ellos servirles en los carnales. ^^ ^28^ Así que, cuando hubiere concluído esto, y les hubiere consignado este fruto, pasaré por vosotros á España. ^29^ Y sé que cuando llegue á vosotros, llegaré con abundancia de la bendición del evangelio de Cristo. 
-
 
 ^[**15:22** Rom 1,13] ^[**15:23** Rom 1,10-11] ^[**15:25** Hech 18,21; Hech 19,21; Hech 20,22; Hech 24,17] ^[**15:26** 1Cor 16,1; 2Cor 8,1-4; 2Cor 8,9] ^[**15:27** 1Cor 9,11; Gal 6,6]
 
@@ -493,15 +459,12 @@
 ## Recomendación de Phöbe, portador de la carta; Saludos del Apóstol a los hermanos en Roma
 ^1^ Encomiéndoos empero á Febe nuestra hermana, la cual es diaconisa de la iglesia que está en Cencreas: ^2^ Que la recibáis en el Señor, como es digno á los santos, y que la ayudéis en cualquiera cosa en que os hubiere menester: porque ella ha ayudado á muchos, y á mí mismo. 
 
-
 ^3^ Saludad á Priscila y á Aquila, mis coadjutores en Cristo Jesús; ^4^ (Que pusieron sus cuellos por mi vida: á los cuales no doy gracias yo solo, mas aun todas las iglesias de los Gentiles;) ^5^ Asimismo á la iglesia de su casa. Saludad á Epeneto, amado mío, que es las primicias de Acaya en Cristo. ^6^ Saludad á María, la cual ha trabajado mucho con vosotros. ^7^ Saludad á Andrónico y á Junia, mis parientes, y mis compañeros en la cautividad, los que son insignes entre los apóstoles; los cuales también fueron antes de mí en Cristo. ^8^ Saludad á Amplias, amado mío en el Señor. ^9^ Saludad á Urbano, nuestro ayudador en Cristo Jesús, y á Stachîs, amado mío. ^10^ Saludad á Apeles, probado en Cristo. Saludad á los que son de Aristóbulo. ^11^ Saludad á Herodión, mi pariente. Saludad á los que son de la casa de Narciso, los que están en el Señor. ^12^ Saludad á Trifena y á Trifosa, las cuales trabajan en el Señor. Saludad á Pérsida amada, la cual ha trabajado mucho en el Señor. ^13^ Saludad á Rufo, escogido en el Señor, y á su madre y mía. ^^ ^14^ Saludad á Asíncrito, y á Flegonte, á Hermas, á Patrobas, á Hermes, y á los hermanos que están con ellos. ^15^ Saludad á Filólogo y á Julia, á Nereo y á su hermana, y á Olimpas, y á todos los santos que están con ellos. ^16^ Saludaos los unos á los otros con ósculo santo. Os saludan todas las iglesias de Cristo. 
-
 
 ^[**16:13** Mar 15,21]
 
 ## Advertencia a los engañadores que causan divisiones y errores en la iglesia
 ^17^ Y os ruego hermanos, que miréis los que causan disensiones y escándalos contra la doctrina que vosotros habéis aprendido; y apartaos de ellos. ^^ ^18^ Porque los tales no sirven al Señor nuestro Jesucristo, sino á sus vientres; y con suaves palabras y bendiciones engañan los corazones de los simples. ^^ ^19^ Porque vuestra obediencia ha venido á ser notoria á todos; así que me gozo de vosotros; mas quiero que seáis sabios en el bien, y simples en el mal. ^^ ^20^ Y el Dios de paz quebrantará presto á Satanás debajo de vuestros pies. La gracia del Señor nuestro Jesucristo sea con vosotros. 
-
 
 ^[**16:17** Mat 7,15; Tit 3,10; 2Tes 3,6] ^[**16:18** Fil 3,19; Col 2,4] ^[**16:19** Rom 1,8; 1Cor 14,20]
 

@@ -5,12 +5,10 @@
 ^3^ De esto contaréis á vuestros hijos, y vuestros hijos á sus hijos, y sus hijos á la otra generación. 
 ^4^ Lo que quedó de la oruga comió la langosta, y lo que quedó de la langosta comió el pulgón; y el revoltón comió lo que del pulgón había quedado.
 
- 
 ^5^ Despertad, borrachos, y llorad; aullad todos los que bebéis vino, á causa del mosto, porque os es quitado de vuestra boca. 
 ^6^ Porque gente subió á mi tierra, fuerte y sin número; sus dientes, dientes de león, y sus muelas, de león. 
 ^7^ Asoló mi vid, y descortezó mi higuera: del todo la desnudó y derribó: sus ramas quedaron blancas.
 
- 
 ^8^ Llora tú como moza vestida de saco por el marido de su juventud. 
 ^9^ Pereció el presente y la libación de la casa de Jehová: los sacerdotes ministros de Jehová hicieron luto. 
 ^10^ El campo fué destruído, enlutóse la tierra; porque el trigo fué destruído, se secó el mosto, perdióse el aceite. 
@@ -18,7 +16,6 @@
 ^12^ Secóse la vid, y pereció la higuera, el granado también, la palma, y el manzano; secáronse todos los árboles del campo; por lo cual se secó el gozo de los hijos de los hombres.
 
 ## Primera invitación para organizar un día de penitencia
- 
 ^13^ Ceñíos y lamentad, sacerdotes; aullad, ministros del altar; venid, dormid en sacos, ministros de mi Dios: porque quitado es de la casa de vuestro Dios el presente y la libación. 
 ^14^ Pregonad ayuno, llamad á congregación; congregad los ancianos y todos los moradores de la tierra en la casa de Jehová vuestro Dios, y clamad á Jehová. 
 ^15^ ¡Ay del día! porque cercano está el día de Jehová, y vendrá como destrucción por el Todopoderoso. 
@@ -43,7 +40,6 @@
 ^11^ Y Jehová dará su voz delante de su ejército: porque muchos son sus reales y fuertes, que ponen en efecto su palabra: porque grande es el día de Jehová, y muy terrible; ¿y quién lo podrá sufrir?
 
 ## Exhortación de Dios al arrepentimiento; solicitud renovada para celebrar un día de penitencia
- 
 ^12^ Por eso pues ahora, dice Jehová, convertíos á mí con todo vuestro corazón, con ayuno y lloro y llanto. 
 ^13^ Y lacerad vuestro corazón, y no vuestros vestidos; y convertíos á Jehová vuestro Dios; porque misericordioso es y clemente, tardo para la ira, y grande en misericordia, y que se arrepiente del castigo. 
 ^14^ ¿Quién sabe si volverá, y se apiadará, y dejará bendición tras de él, presente y libación para Jehová Dios vuestro? 
@@ -52,7 +48,6 @@
 ^17^ Entre la entrada y el altar, lloren los sacerdotes, ministros de Jehová, y digan: Perdona, oh Jehová, á tu pueblo, y no pongas en oprobio tu heredad, para que las gentes se enseñoreen de ella. ¿Por qué han de decir entre los pueblos: Dónde está su Dios?
 
 ## Responde a la oración; la consoladora promesa de Dios
- 
 ^18^ Y Jehová celará su tierra, y perdonará su pueblo. 
 ^19^ Y responderá Jehová, y dirá á su pueblo: He aquí yo os envío pan, y mosto, y aceite, y seréis saciados de ellos: y nunca más os pondré en oprobio entre las gentes. 
 ^20^ Y haré alejar de vosotros al del aquilón, y echarélo en la tierra seca y desierta: su faz será hacia el mar oriental, y su fin al mar occidental, y exhalará su hedor; y subirá su pudrición, porque hizo grandes cosas. 
@@ -65,7 +60,6 @@
 ^27^ Y conoceréis que en medio de Israel estoy yo, y que yo soy Jehová vuestro Dios, y no hay otro: y mi pueblo nunca jamás será avergonzado.
 
 ## El derramamiento del espíritu divino sobre todo el pueblo y los presagios del juicio mundial
- 
 ^28^ Y será que después de esto, derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas; vuestros viejos soñarán sueños, y vuestros mancebos verán visiones. 
 ^29^ Y aun también sobre los siervos y sobre las siervas derramaré mi Espíritu en aquellos días. 
 ^30^ Y daré prodigios en el cielo y en la tierra, sangre, y fuego, y columnas de humo. 
@@ -84,7 +78,6 @@
 ^8^ Y venderé vuestros hijos y vuestras hijas en la mano de los hijos de Judá, y ellos los venderán á los Sabeos, nación apartada; porque Jehová ha hablado.
 
 ## Ejecución del juicio sobre los gentiles
- 
 ^9^ Pregonad esto entre las gentes, proclamad guerra, despertad á los valientes, lléguense, vengan todos los hombres de guerra. 
 ^10^ Haced espadas de vuestros azadones, lanzas de vuestras hoces; diga el flaco: Fuerte soy. 
 ^11^ Juntaos y venid, gentes todas de alrededor, y congregaos: haz venir allí, oh Jehová, tus fuertes. 
@@ -95,7 +88,7 @@
 ^16^ Y Jehová bramará desde Sión, y dará su voz desde Jerusalem, y temblarán los cielos y la tierra: mas Jehová será la esperanza de su pueblo, y la fortaleza de los hijos de Israel. 
 ^17^ Y conoceréis que yo soy Jehová vuestro Dios, que habito en Sión, monte de mi santidad: y será Jerusalem santa, y extraños no pasarán más por ella.
 
-## El tiempo de bendición para Judá
+## El tiempo de bendición para Judá
  
 ^18^ Y será en aquel tiempo, que los montes destilarán mosto, y los collados fluirán leche, y por todos los arroyos de Judá correrán aguas: y saldrá una fuente de la casa de Jehová, y regará el valle de Sittim. 
 ^19^ Egipto será destruído, y Edom será vuelto en asolado desierto, por la injuria hecha á los hijos de Judá: porque derramaron en su tierra la sangre inocente. 

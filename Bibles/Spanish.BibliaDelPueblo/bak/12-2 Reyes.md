@@ -14,12 +14,9 @@
 
 ^5^ Y como los mensajeros se volvieron al rey, él les dijo: ¿Por qué pues os habéis vuelto? 
 
-
 ^6^ Y ellos le respondieron: Encontramos un varón que nos dijo: Id, y volveos al rey que os envió, y decidle: Así ha dicho Jehová: ¿No hay Dios en Israel, que tú envías á consultar á Baal-zebub dios de Ecrón? Por tanto, del lecho en que subiste no descenderás, antes morirás de cierto. 
 
-
 ^7^ Entonces él les dijo: ¿Qué hábito era el de aquel varón que encontrasteis, y os dijo tales palabras? 
-
 
 ^8^ Y ellos le respondieron: Un varón velloso, y ceñía sus lomos con un cinto de cuero. Entonces él dijo: Elías Thisbita es. 
 
@@ -29,23 +26,17 @@
 ## Elijah y los tres capitanes
 ^9^ Y envió luego á él un capitán de cincuenta con sus cincuenta, el cual subió á él; y he aquí que él estaba sentado en la cumbre del monte. Y él le dijo: Varón de Dios, el rey ha dicho que desciendas. 
 
-
 ^10^ Y Elías respondió, y dijo al capitán de cincuenta: Si yo soy varón de Dios, descienda fuego del cielo, y consúmate con tus cincuenta. Y descendió fuego del cielo, que lo consumió á él y á sus cincuenta. 
-
 
 ^11^ Volvió el rey á enviar á él otro capitán de cincuenta con sus cincuenta; y hablóle, y dijo: Varón de Dios, el rey ha dicho así: Desciende presto. 
 
-
 ^12^ Y respondióle Elías, y dijo: Si yo soy varón de Dios, descienda fuego del cielo, y consúmate con tus cincuenta. Y descendió fuego del cielo, que lo consumió á él y á sus cincuenta. 
-
 
 ^13^ Y volvió á enviar el tercer capitán de cincuenta con sus cincuenta: y subiendo aquel tercer capitán de cincuenta, hincóse de rodillas delante de Elías, y rogóle, diciendo: Varón de Dios, ruégote que sea de valor delante de tus ojos mi vida, y la vida de estos tus cincuenta siervos. ^14^ He aquí ha descendido fuego del cielo, y ha consumido los dos primeros capitanes de cincuenta, con sus cincuenta; sea ahora mi vida de valor delante de tus ojos. 
 
 
-
 ## Elías con Ochôzías; Muerte del rey
 ^15^ Entonces el ángel de Jehová dijo á Elías: Desciende con él; no hayas de él miedo. Y él se levantó, y descendió con él al rey. 
-
 
 ^16^ Y díjole: Así ha dicho Jehová: Pues que enviaste mensajeros á consultar á Baal-zebub dios de Ecrón, ¿no hay Dios en Israel para consultar en su palabra? No descenderás, por tanto, del lecho en que subiste, antes morirás de cierto. 
 ^^ 
@@ -59,18 +50,13 @@
 ## Elías en la caminata con su fiel sirvienta Elisa
 ^1^ Y aconteció que, cuando quiso Jehová alzar á Elías en un torbellino al cielo, Elías venía con Eliseo de Gilgal. ^2^ Y dijo Elías á Eliseo: Quédate ahora aquí, porque Jehová me ha enviado á Beth-el. Y Eliseo dijo: Vive Jehová, y vive tu alma, que no te dejaré. Descendieron pues á Beth-el. 
 
-
 ^3^ Y saliendo á Eliseo los hijos de los profetas que estaban en Beth-el, dijéronle: ¿Sabes como Jehová quitará hoy á tu señor de tu cabeza? Y él dijo: Sí, yo lo sé; callad. 
-
 
 ^4^ Y Elías le volvió á decir: Eliseo, quédate aquí ahora, porque Jehová me ha enviado á Jericó. Y él dijo: Vive Jehová, y vive tu alma, que no te dejaré. Vinieron pues á Jericó. 
 
-
 ^5^ Y llegáronse á Eliseo los hijos de los profetas que estaban en Jericó, y dijéronle: ¿Sabes cómo Jehová quitará hoy á tu señor de tu cabeza? Y él respondió: Sí, yo lo sé; callad. 
 
-
 ^6^ Y Elías le dijo: Ruégote que te quedes aquí, porque Jehová me ha enviado al Jordán. Y él dijo: Vive Jehová, y vive tu alma, que no te dejaré. Fueron pues ambos á dos. 
-
 
 ^7^ Y vinieron cincuenta varones de los hijos de los profetas, y paráronse enfrente á lo lejos: y ellos dos se pararon junto al Jordán. ^8^ Tomando entonces Elías su manto, doblólo, é hirió las aguas, las cuales se apartaron á uno y á otro lado, y pasaron ambos en seco. 
 
@@ -84,7 +70,6 @@
 
 ^10^ Y él le dijo: Cosa difícil has pedido. Si me vieres cuando fuere quitado de ti, te será así hecho; mas si no, no. 
 
-
 ^11^ Y aconteció que, yendo ellos hablando, he aquí, un carro de fuego con caballos de fuego apartó á los dos: y Elías subió al cielo en un torbellino. ^^ ^12^ Y viéndolo Eliseo, clamaba: ¡Padre mío, padre mío, carro de Israel y su gente de á caballo! Y nunca más le vió, y trabando de sus vestidos, rompiólos en dos partes. 
 
 ^^ 
@@ -97,20 +82,15 @@
 
 ^15^ Y viéndole los hijos de los profetas que estaban en Jericó de la otra parte, dijeron: El espíritu de Elías reposó sobre Eliseo. Y viniéronle á recibir, é inclináronse á él hasta la tierra. ^16^ Y dijéronle: He aquí hay con tus siervos cincuenta varones fuertes: vayan ahora y busquen á tu señor; quizá lo ha levantado el espíritu de Jehová, y lo ha echado en algún monte ó en algún valle. Y él les dijo: No enviéis. 
 
-
 ^17^ Mas ellos le importunaron, hasta que avergonzándose dijo: Enviad. Entonces ellos enviaron cincuenta hombres, los cuales lo buscaron tres días, mas no lo hallaron. 
 
-
 ^18^ Y cuando volvieron á él, que se había quedado en Jericó, él les dijo: ¿No os dije yo que no fueseis? 
-
 
 
 ## Primera aparición de Eliseo: El milagro del agua malsana en Jericó
 ^19^ Y los hombres de la ciudad dijeron á Eliseo: He aquí el asiento de esta ciudad es bueno, como mi señor ve; mas las aguas son malas, y la tierra enferma. 
 
-
 ^20^ Entonces él dijo: Traedme una botija nueva, y poned en ella sal. Y trajéronsela. ^21^ Y saliendo él á los manaderos de las aguas, echó dentro la sal, y dijo: Así ha dicho Jehová: Yo sané estas aguas, y no habrá más en ellas muerte ni enfermedad. ^22^ Y fueron sanas las aguas hasta hoy, conforme á la palabra que habló Eliseo. 
-
 
 
 ## Eliseo y los chicos malos de Betel
@@ -132,19 +112,14 @@
 ^8^ Y dijo: ¿Por qué camino iremos? Y él respondió: Por el camino del desierto de Idumea. 
 
 
-
 ## Mala situación del ejército por falta de agua; La auspiciosa profecía de Eliseo
 ^9^ Partieron pues el rey de Israel, y el rey de Judá, y el rey de Idumea; y como anduvieron rodeando por el desierto siete días de camino, faltóles el agua para el ejército, y para las bestias que los seguían. ^10^ Entonces el rey de Israel dijo: ¡Ah! que ha llamado Jehová estos tres reyes para entregarlos en manos de los Moabitas. 
 
-
 ^11^ Mas Josaphat dijo: ¿No hay aquí profeta de Jehová, para que consultemos á Jehová por él? Y uno de los siervos del rey de Israel respondió y dijo: Aquí está Eliseo hijo de Saphat, que daba agua á manos á Elías. 
-
 
 ^12^ Y Josaphat dijo: Este tendrá palabra de Jehová. Y descendieron á él el rey de Israel, y Josaphat, y el rey de Idumea. 
 
-
 ^13^ Entonces Eliseo dijo al rey de Israel: ¿Qué tengo yo contigo? Ve á los profetas de tu padre, y á los profetas de tu madre. Y el rey de Israel le respondió: No: porque ha juntado Jehová estos tres reyes para entregarlos en manos de los Moabitas. 
-
 
 ^14^ Y Eliseo dijo: Vive Jehová de los ejércitos, en cuya presencia estoy, que si no tuviese respeto al rostro de Josaphat rey de Judá, no mirara á ti, ni te viera. ^^ ^15^ Mas ahora traedme un tañedor. Y mientras el tañedor tocaba, la mano de Jehová fué sobre Eliseo. ^16^ Y dijo: Así ha dicho Jehová: Haced en este valle muchas acequias. ^17^ Porque Jehová ha dicho así: No veréis viento, ni veréis lluvia, y este valle será lleno de agua, y beberéis vosotros, y vuestras bestias, y vuestros ganados. ^18^ Y esto es cosa ligera en los ojos de Jehová; dará también á los Moabitas en vuestras manos. ^19^ Y vosotros heriréis á toda ciudad fortalecida y á toda villa hermosa, y talaréis todo buen árbol, y cegaréis todas las fuentes de aguas, y destruiréis con piedras toda tierra fértil. 
 
@@ -153,10 +128,8 @@
 ^20^ Y aconteció que por la mañana, cuando se ofrece el sacrificio, he aquí vinieron aguas por el camino de Idumea, y la tierra fué llena de aguas. 
 
 
-
 ## Victoria de los israelitas; Mesa sacrifica a su hijo primogénito, lo que hace que los israelitas se vayan
 ^21^ Y todos los de Moab, como oyeron que los reyes subían á pelear contra ellos, juntáronse desde todos los que ceñían talabarte arriba, y pusiéronse en la frontera. ^22^ Y como se levantaron por la mañana, y lució el sol sobre las aguas, vieron los de Moab desde lejos las aguas rojas como sangre; ^23^ Y dijeron: ¡Sangre es esta de espada! Los reyes se han revuelto, y cada uno ha muerto á su compañero. Ahora pues, ¡Moab, á la presa! 
-
 
 ^24^ Mas cuando llegaron al campo de Israel, levantáronse los Israelitas é hirieron á los de Moab, los cuales huyeron delante de ellos: siguieron empero hiriendo todavía á los de Moab. ^25^ Y asolaron las ciudades, y en todas las heredades fértiles echó cada uno su piedra, y las llenaron; cegaron también todas las fuentes de las aguas, y derribaron todos los buenos árboles; hasta que en Kir-hareseth solamente dejaron sus piedras; porque los honderos la cercaron, y la hirieron. ^26^ Y cuando el rey de Moab vió que la batalla lo vencía, tomó consigo setecientos hombres que sacaban espada, para romper contra el rey de Idumea: mas no pudieron. ^27^ Entonces arrebató á su primogénito que había de reinar en su lugar, y sacrificóle en holocausto sobre el muro. Y hubo grande enojo en Israel; y retiráronse de él, y volviéronse á su tierra. 
 
@@ -164,30 +137,23 @@
 ## La historia del cántaro de aceite de la viuda
 ^1^ Una mujer, de las mujeres de los hijos de los profetas, clamó á Eliseo, diciendo: Tu siervo mi marido es muerto; y tú sabes que tu siervo era temeroso de Jehová: y ha venido el acreedor para tomarse dos hijos míos por siervos. 
 
-
 ^2^ Y Eliseo le dijo: ¿Qué te haré yo? Declárame qué tienes en casa. Y ella dijo: Tu sierva ninguna cosa tiene en casa, sino una botija de aceite. 
 ^^ 
 ^[**4:2** 1Re 17,12]
 
 ^3^ Y él le dijo: Ve, y pide para ti vasos prestados de todos tus vecinos, vasos vacíos, no pocos. ^4^ Entra luego, y cierra la puerta tras ti y tras tus hijos; y echa en todos los vasos, y en estando uno lleno, ponlo aparte. 
 
-
 ^5^ Y partióse la mujer de él, y cerró la puerta tras sí y tras sus hijos; y ellos le llegaban los vasos, y ella echaba del aceite. ^6^ Y como los vasos fueron llenos, dijo á un hijo suyo: Tráeme aún otro vaso. Y él dijo: No hay más vasos. Entonces cesó el aceite. 
 
-
 ^7^ Vino ella luego, y contólo al varón de Dios, el cual dijo: Ve, y vende el aceite, y paga á tus acreedores; y tú y tus hijos vivid de lo que quedare. 
-
 
 
 ## Eliseo y Sunamitin; Eliseo le promete un hijo al Sunamitin
 ^8^ Y aconteció también que un día pasaba Eliseo por Sunem; y había allí una mujer principal, la cual le constriñó á que comiese del pan: y cuando por allí pasaba, veníase á su casa á comer del pan. ^9^ Y ella dijo á su marido: He aquí ahora, yo entiendo que éste que siempre pasa por nuestra casa, es varón de Dios santo. ^10^ Yo te ruego que hagas una pequeña cámara de paredes, y pongamos en ella cama, y mesa, y silla, y candelero, para que cuando viniere á nosotros, se recoja en ella. 
 
-
 ^11^ Y aconteció que un día vino él por allí, y recogióse en aquella cámara, y durmió en ella. ^12^ Entonces dijo á Giezi su criado: Llama á esta Sunamita. Y como él la llamó, pareció ella delante de él. ^13^ Y dijo él á Giezi: Dile: He aquí tú has estado solícita por nosotros con todo este esmero: ¿qué quieres que haga por ti? ¿has menester que hable por ti al rey, ó al general del ejército? Y ella respondió: Yo habito en medio de mi pueblo. 
 
-
 ^14^ Y él dijo: ¿Qué pues haremos por ella? Y Giezi respondió: He aquí ella no tiene hijo, y su marido es viejo. 
-
 
 ^15^ Dijo entonces: Llámala. Y él la llamó, y ella se paró á la puerta. ^16^ Y él le dijo: A este tiempo según el tiempo de la vida, abrazarás un hijo. Y ella dijo: No, señor mío, varón de Dios, no hagas burla de tu sierva. 
 ^^ 
@@ -196,27 +162,20 @@
 ^17^ Mas la mujer concibió, y parió un hijo á aquel tiempo que Eliseo le había dicho, según el tiempo de la vida. 
 
 
-
 ## La muerte del niño; Caminata de la madre a Elisa
 ^18^ Y como el niño fué grande, aconteció que un día salió á su padre, á los segadores. ^19^ Y dijo á su padre: ¡Mi cabeza, mi cabeza! Y él dijo á un criado: Llévalo á su madre. 
 
-
 ^20^ Y habiéndole él tomado, y traídolo á su madre, estuvo sentado sobre sus rodillas hasta medio día, y murióse. ^21^ Ella entonces subió, y púsolo sobre la cama del varón de Dios, y cerrándole la puerta, salióse. ^22^ Llamando luego á su marido, díjole: Ruégote que envíes conmigo á alguno de los criados y una de las asnas, para que yo vaya corriendo al varón de Dios, y vuelva. 
-
 
 ^23^ Y él dijo: ¿Para qué has de ir á él hoy? No es nueva luna, ni sábado. Y ella respondió: Paz. 
 
-
 ^24^ Después hizo enalbardar una borrica, y dijo al mozo: Guía y anda; y no me hagas detener para que suba, sino cuando yo te lo dijere. 
-
 
 
 ## Elisa va a la casa de la madre
 ^25^ Partióse pues, y vino al varón de Dios al monte del Carmelo. Y cuando el varón de Dios la vió de lejos, dijo á su criado Giezi: He aquí la Sunamita: ^26^ Ruégote que vayas ahora corriendo á recibirla, y dile: ¿Tienes paz? ¿y tu marido, y tu hijo? Y ella dijo: Paz. 
 
-
 ^27^ Y luego que llegó al varón de Dios en el monte, asió de sus pies. Y llegóse Giezi para quitarla; mas el varón de Dios le dijo: Déjala, porque su alma está en amargura, y Jehová me ha encubierto el motivo, y no me lo ha revelado. 
-
 
 ^28^ Y ella dijo: ¿Pedí yo hijo á mi señor? ¿No dije yo, que no me burlases? 
 ^^ 
@@ -228,12 +187,9 @@
 
 ^30^ Y dijo la madre del niño: Vive Jehová, y vive tu alma, que no te dejaré. 
 
-
 ^31^ El entonces se levantó, y siguióla. Y Giezi había ido delante de ellos, y había puesto el bordón sobre el rostro del niño, mas ni tenía voz ni sentido; y así se había vuelto para encontrar á Eliseo; y declaróselo, diciendo: El mozo no despierta. 
 
-
 ^32^ Y venido Eliseo á la casa, he aquí el niño que estaba tendido muerto sobre su cama. 
-
 
 
 ## Reanimación del niño
@@ -244,22 +200,16 @@
 ^37^ Y así que ella entró, echóse á sus pies, é inclinóse á tierra: después tomó su hijo, y salióse. 
 
 
-
 ## Muerte (comida venenosa) en la olla y la maravillosa alimentación de los cien
 ^38^ Y Eliseo se volvió á Gilgal. Había entonces grande hambre en la tierra. Y los hijos de los profetas estaban con él, por lo que dijo á su criado: Pon una grande olla, y haz potaje para los hijos de los profetas. 
 
-
 ^39^ Y salió uno al campo á coger hierbas, y halló una como parra montés, y cogió de ella una faldada de calabazas silvestres: y volvió, y cortólas en la olla del potaje: porque no sabía lo que era. ^40^ Echóse después para que comieran los hombres; pero sucedió que comiendo ellos de aquel guisado, dieron voces, diciendo: ¡Varón de Dios, la muerte en la olla! Y no lo pudieron comer. 
-
 
 ^41^ El entonces dijo: Traed harina. Y esparcióla en la olla, y dijo: Echa de comer á la gente. Y no hubo más mal en la olla. 
 
-
 ^42^ Vino entonces un hombre de Baal-salisa, el cual trajo al varón de Dios panes de primicias, veinte panes de cebada, y trigo nuevo en su espiga. Y él dijo: Da á la gente para que coman. 
 
-
 ^43^ Y respondió su sirviente: ¿Cómo he de poner esto delante de cien hombres? Mas él tornó á decir: Da á la gente para que coman, porque así ha dicho Jehová: Comerán, y sobrará. 
-
 
 ^44^ Entonces él lo puso delante de ellos, y comieron, y sobróles, conforme á la palabra de Jehová. ^^ 
 ^[**4:44** Mat 16,9-10] 
@@ -268,32 +218,23 @@
 ## Naeman el leproso busca sanidad en Samaria
 ^1^ Naamán, general del ejército del rey de Siria, era gran varón delante de su señor, y en alta estima, porque por medio de él había dado Jehová salvamento á la Siria. Era este hombre valeroso en extremo, pero leproso. ^2^ Y de Siria habían salido cuadrillas, y habían llevado cautiva de la tierra de Israel una muchacha; la cual sirviendo á la mujer de Naamán, ^3^ Dijo á su señora: Si rogase mi señor al profeta que está en Samaria, él lo sanaría de su lepra. 
 
-
 ^4^ Y entrando Naamán á su señor, declaróselo, diciendo: Así y así ha dicho una muchacha que es de la tierra de Israel. 
-
 
 ^5^ Y díjole el rey de Siria: Anda, ve, y yo enviaré letras al rey de Israel. Partió pues él, llevando consigo diez talentos de plata, y seis mil piezas de oro, y diez mudas de vestidos. 
 
-
 ^6^ Tomó también letras para el rey de Israel, que decían así: Luego en llegando á ti estas letras, sabe por ellas que yo envío á ti mi siervo Naamán, para que lo sanes de su lepra. 
 
-
 ^7^ Y luego que el rey de Israel leyó las cartas, rasgó sus vestidos, y dijo: ¿Soy yo Dios, que mate y dé vida, para que éste envíe á mí á que sane un hombre de su lepra? Considerad ahora, y ved cómo busca ocasión contra mí. 
-
 
 
 ## La curación de Naeman a través de Eliseo
 ^8^ Y como Eliseo, varón de Dios oyó que el rey de Israel había rasgado sus vestidos, envió á decir al rey: ¿Por qué has rasgado tus vestidos? Venga ahora á mí, y sabrá que hay profeta en Israel. 
 
-
 ^9^ Y vino Naamán con sus caballos y con su carro, y paróse á las puertas de la casa de Eliseo. ^10^ Entonces Eliseo le envió un mensajero, diciendo: Ve, y lávate siete veces en el Jordán, y tu carne se te restaurará, y serás limpio. 
-
 
 ^11^ Y Naamán se fué enojado, diciendo: He aquí yo decía para mí: Saldrá él luego, y estando en pie invocará el nombre de Jehová su Dios, y alzará su mano, y tocará el lugar, y sanará la lepra. ^12^ Abana y Pharphar, ríos de Damasco, ¿no son mejores que todas las aguas de Israel? Si me lavare en ellos, ¿no seré también limpio? Y volvióse, y fuése enojado. 
 
-
 ^13^ Mas sus criados se llegaron á él, y habláronle, diciendo: Padre mío, si el profeta te mandara alguna gran cosa, ¿no la hicieras? ¿cuánto más, diciéndote: Lávate, y serás limpio? 
-
 
 ^14^ El entonces descendió, y zambullóse siete veces en el Jordán, conforme á la palabra del varón de Dios: y su carne se volvió como la carne de un niño, y fué limpio. 
 
@@ -307,22 +248,17 @@
 
 ^16^ Mas él dijo: Vive Jehová, delante del cual estoy, que no lo tomaré. E importunándole que tomase, él nunca quiso. 
 
-
 ^17^ Entonces Naamán dijo: Ruégote pues, ¿no se dará á tu siervo una carga de un par de acémilas de aquesta tierra? porque de aquí adelante tu siervo no sacrificará holocausto ni sacrificio á otros dioses, sino á Jehová. ^18^ En esto perdone Jehová á tu siervo: que cuando mi señor entrare en el templo de Rimmón, y para adorar en él se apoyare sobre mi mano, si yo también me inclinare en el templo de Rimmón, si en el templo de Rimmón me inclino, Jehová perdone en esto á tu siervo. 
 ^^ 
 ^[**5:18** 2Re 7,2]
 
 ^19^ Y él le dijo: Vete en paz. Partióse pues de él, y caminó como el espacio de una milla. ^20^ Entonces Giezi, criado de Eliseo el varón de Dios, dijo entre sí: He aquí mi señor estorbó á este Siro Naamán, no tomando de su mano las cosas que había traído. Vive Jehová, que correré yo tras él, y tomaré de él alguna cosa. 
 
-
 ^21^ Y siguió Giezi á Naamán: y como le vió Naamán que venía corriendo tras él, apeóse del carro para recibirle, y dijo: ¿Va bien? 
-
 
 ^22^ Y él dijo: Bien. Mi señor me envía á decir: He aquí vinieron á mí en esta hora del monte de Ephraim dos mancebos de los hijos de los profetas: ruégote que les des un talento de plata, y sendas mudas de vestidos. 
 
-
 ^23^ Y Naamán dijo: Ruégote que tomes dos talentos. Y él le constriñó, y ató dos talentos de plata en dos sacos, y dos mudas de vestidos, y púsolo á cuestas á dos de sus criados, que lo llevasen delante de él. ^24^ Y llegado que hubo á un lugar secreto, él lo tomó de mano de ellos, y guardólo en casa: luego mandó á los hombres que se fuesen. ^25^ Y él entró, y púsose delante de su señor. Y Eliseo le dijo: ¿De dónde vienes, Giezi? Y él dijo: Tu siervo no ha ido á ninguna parte. 
-
 
 ^26^ El entonces le dijo: ¿No fué también mi corazón, cuando el hombre volvió de su carro á recibirte? ¿es tiempo de tomar plata, y de tomar vestidos, olivares, viñas, ovejas, bueyes, siervos y siervas? ^27^ La lepra de Naamán se te pegará á ti, y á tu simiente para siempre. Y salió de delante de él leproso, blanco como la nieve. 
 
@@ -330,34 +266,25 @@
 ## El hierro flotante
 ^1^ Los hijos de los profetas dijeron á Eliseo: He aquí, el lugar en que moramos contigo nos es estrecho. ^2^ Vamos ahora al Jordán, y tomemos de allí cada uno una viga, y hagámonos allí lugar en que habitemos. Y él dijo: Andad. 
 
-
 ^3^ Y dijo uno: Rogámoste que quieras venir con tus siervos. Y él respondió: Yo iré. 
-
 
 ^4^ Fuése pues con ellos; y como llegaron al Jordán, cortaron la madera. ^5^ Y aconteció que derribando uno un árbol, cayósele el hacha en el agua; y dió voces, diciendo: ¡Ah, señor mío, que era emprestada! 
 
-
 ^6^ Y el varón de Dios dijo: ¿Dónde cayó? Y él le mostró el lugar. Entonces cortó él un palo, y echólo allí; é hizo nadar el hierro. ^7^ Y dijo: Tómalo. Y él tendió la mano, y tomólo. 
-
 
 
 ## La emboscada traicionada varias veces
 ^8^ Tenía el rey de Siria guerra contra Israel, y consultando con sus siervos, dijo: En tal y tal lugar estará mi campamento. 
 
-
 ^9^ Y el varón de Dios envió á decir al rey de Israel: Mira que no pases por tal lugar, porque los Siros van allí. ^10^ Entonces el rey de Israel envió á aquel lugar que el varón de Dios había dicho y amonestádole; y guardóse de allí, no una vez ni dos. ^11^ Y el corazón del rey de Siria fué turbado de esto; y llamando á sus siervos, díjoles: ¿No me declararéis vosotros quién de los nuestros es del rey de Israel? 
 
-
 ^12^ Entonces uno de los siervos dijo: No, rey señor mío; sino que el profeta Eliseo está en Israel, el cual declara al rey de Israel las palabras que tú hablas en tu más secreta cámara. 
-
 
 
 ## El cegamiento de los sirios
 ^13^ Y él dijo: Id, y mirad dónde está, para que yo envíe á tomarlo. Y fuéle dicho: He aquí él está en Dothán. 
 
-
 ^14^ Entonces envió el rey allá gente de á caballo, y carros, y un grande ejército, los cuales vinieron de noche, y cercaron la ciudad. ^15^ Y levantándose de mañana el que servía al varón de Dios, para salir, he aquí el ejército que tenía cercada la ciudad, con gente de á caballo y carros. Entonces su criado le dijo: ¡Ah, señor mío! ¿qué haremos? 
-
 
 ^16^ Y él le dijo: No hayas miedo: porque más son los que están con nosotros que los que están con ellos. ^17^ Y oró Eliseo, y dijo: Ruégote, oh Jehová, que abras sus ojos para que vea. Entonces Jehová abrió los ojos del mozo, y miró: y he aquí que el monte estaba lleno de gente de á caballo, y de carros de fuego alrededor de Eliseo. ^18^ Y luego que los Siros descendieron á él, oró Eliseo á Jehová, y dijo: Ruégote que hieras á esta gente con ceguedad. E hiriólos con ceguedad, conforme al dicho de Eliseo. 
 ^^ 
@@ -365,23 +292,17 @@
 
 ^19^ Después les dijo Eliseo: No es este el camino, ni es esta la ciudad; seguidme, que yo os guiaré al hombre que buscáis. Y guiólos á Samaria. ^20^ Y así que llegaron á Samaria, dijo Eliseo: Jehová, abre los ojos de éstos, para que vean. Y Jehová abrió sus ojos, y miraron, y halláronse en medio de Samaria. 
 
-
 ^21^ Y cuando el rey de Israel los hubo visto, dijo á Eliseo: ¿Herirélos, padre mío? 
-
 
 ^22^ Y él le respondió: No los hieras; ¿herirías tú á los que tomaste cautivos con tu espada y con tu arco? Pon delante de ellos pan y agua, para que coman y beban, y se vuelvan á sus señores. 
 
-
 ^23^ Entonces les fué aparejada grande comida: y como hubieron comido y bebido, enviólos, y ellos se volvieron á su señor. Y nunca más vinieron cuadrillas de Siria á la tierra de Israel. 
-
 
 
 ## Asedio de Samaria y hambre
 ^24^ Después de esto aconteció, que Ben-adad rey de Siria juntó todo su ejército, y subió, y puso cerco á Samaria. ^25^ Y hubo grande hambre en Samaria, teniendo ellos cerco sobre ella; tanto, que la cabeza de un asno era vendida por ochenta piezas de plata, y la cuarta de un cabo de estiércol de palomas por cinco piezas de plata. ^26^ Y pasando el rey de Israel por el muro, una mujer le dió voces, y dijo: Salva, rey señor mío. 
 
-
 ^27^ Y él dijo: Si no te salva Jehová, ¿de dónde te tengo de salvar yo? ¿del alfolí, ó del lagar? ^28^ Y díjole el rey: ¿Qué tienes? Y ella respondió: Esta mujer me dijo: Da acá tu hijo, y comámoslo hoy, y mañana comeremos el mío. 
-
 
 ^29^ Cocimos pues mi hijo, y le comimos. El día siguiente yo le dije: Da acá tu hijo, y comámoslo. Mas ella ha escondido su hijo. 
 ^^ 
@@ -390,10 +311,8 @@
 ^30^ Y como el rey oyó las palabras de aquella mujer, rasgó sus vestidos, y pasó así por el muro: y llegó á ver el pueblo el saco que traía interiormente sobre su carne. ^31^ Y él dijo: Así me haga Dios, y así me añada, si la cabeza de Eliseo hijo de Saphat quedare sobre él hoy. 
 
 
-
 ## La promesa de suerte de Eliseo para la ciudad
 ^32^ Estaba á la sazón Eliseo sentado en su casa, y con él estaban sentados los ancianos: y el rey envió á él un hombre. Mas antes que el mensajero viniese á él, dijo él á los ancianos: ¿No habéis visto cómo este hijo del homicida me envía á quitar la cabeza? Mirad pues, y cuando viniere el mensajero, cerrad la puerta, é impedidle la entrada: ¿no viene tras él el ruido de los pies de su amo? 
-
 
 ^33^ Aun estaba él hablando con ellos, y he aquí el mensajero que descendía á él; y dijo: Ciertamente este mal de Jehová viene. ¿Para qué tengo de esperar más á Jehová? 
 
@@ -414,24 +333,18 @@
 
 ^5^ Levantáronse pues en el principio de la noche, para irse al campo de los Siros; y llegando á las primeras estancias de los Siros, no había allí hombre. ^6^ Porque el Señor había hecho que en el campo de los Siros se oyese estruendo de carros, ruido de caballos, y estrépito de grande ejército; y dijéronse los unos á los otros: He aquí el rey de Israel ha pagado contra nosotros á los reyes de los Hetheos, y á los reyes de los Egipcios, para que vengan contra nosotros. ^^ ^7^ Y así se habían levantado y huído al principio de la noche, dejando sus tiendas, sus caballos, sus asnos, y el campo como se estaba; y habían huído por salvar las vidas. ^8^ Y como los leprosos llegaron á las primeras estancias, entráronse en una tienda, y comieron y bebieron, y tomaron de allí plata, y oro, y vestidos, y fueron, y escondiéronlo: y vueltos, entraron en otra tienda, y de allí también tomaron, y fueron, y escondieron. ^9^ Y dijéronse el uno al otro: No hacemos bien: hoy es día de buena nueva, y nosotros callamos: y si esperamos hasta la luz de la mañana, nos alcanzará la maldad. Vamos pues ahora, entremos, y demos la nueva en casa del rey. 
 
-
 ^[**7:6** 2Re 19,7]
 
 ## Reporta los leprosos en la ciudad y sus efectos
 ^10^ Y vinieron, y dieron voces á los guardas de la puerta de la ciudad, y declaráronles, diciendo: Nosotros fuimos al campo de los Siros, y he aquí que no había allí hombre, ni voz de hombre, sino caballos atados, asnos también atados, y el campo como se estaba. 
 
-
 ^11^ Y los porteros dieron voces, y declaráronlo dentro, en el palacio del rey. 
-
 
 ^12^ Y levantóse el rey de noche, y dijo á sus siervos: Yo os declararé lo que nos han hecho los Siros. Ellos saben que tenemos hambre, y hanse salido de las tiendas y escondídose en el campo, diciendo: Cuando hubieren salido de la ciudad, los tomaremos vivos, y entraremos en la ciudad. 
 
-
 ^13^ Entonces respondió uno de sus siervos, y dijo: Tomen ahora cinco de los caballos que han quedado en la ciudad, (porque ellos también son como toda la multitud de Israel que ha quedado en ella; también ellos son como toda la multitud de Israel que ha perecido;) y enviemos, y veamos qué hay. 
 
-
 ^14^ Tomaron pues dos caballos de un carro, y envió el rey tras el campo de los Siros, diciendo: Id, y ved. 
-
 
 
 ## La profecía de Eliseo se hace realidad
@@ -443,23 +356,17 @@
 ## Elisa y la Sunamita
 ^1^ Y habló Eliseo á aquella mujer á cuyo hijo había hecho vivir, diciendo: Levántate, vete tú y toda tu casa á vivir donde pudieres; porque Jehová ha llamado el hambre, la cual vendrá también sobre la tierra siete años. 
 
-
 ^2^ Entonces la mujer se levantó, é hizo como el varón de Dios le dijo: y partióse ella con su familia, y vivió en tierra de los Filisteos siete años. ^3^ Y como fueron pasados los siete años, la mujer volvió de la tierra de los Filisteos: después salió para clamar al rey por su casa, y por sus tierras. ^4^ Y había el rey hablado con Giezi, criado del varón de Dios, diciéndole: Ruégote que me cuentes todas las maravillas que ha hecho Eliseo. ^5^ Y contando él al rey cómo había hecho vivir á un muerto, he aquí la mujer, á cuyo hijo había hecho vivir, que clamaba al rey por su casa y por sus tierras. Entonces dijo Giezi: Rey señor mío, esta es la mujer, y este es su hijo, al cual Eliseo hizo vivir. 
 
-
 ^6^ Y preguntando el rey á la mujer, ella se lo contó. Entonces el rey le dió un eunuco, diciéndole: Hazle volver todas las cosas que eran suyas, y todos los frutos de las tierras desde el día que dejó el país hasta ahora. 
-
 
 
 ## Eliseo en Damasco preguntado por Hazael sobre el rey Ben-adad enfermo
 ^7^ Eliseo se fué luego á Damasco, y Ben-adad rey de Siria estaba enfermo, al cual dieron aviso, diciendo: El varón de Dios ha venido aquí. 
 
-
 ^8^ Y el rey dijo á Hazael: Toma en tu mano un presente, y ve á recibir al varón de Dios, y consulta por él á Jehová, diciendo: ¿Tengo de sanar de esta enfermedad? 
 
-
 ^9^ Tomó pues Hazael en su mano un presente de todos los bienes de Damasco, cuarenta camellos cargados, y saliólo á recibir: y llegó, y púsose delante de él, y dijo: Tu hijo Ben-adad, rey de Siria, me ha enviado á ti, diciendo: ¿Tengo de sanar de esta enfermedad? 
-
 
 
 ## La apertura de Eliseo a Hazael; El asesinato de Benhadad; Hasael asumió el cargo
@@ -477,9 +384,7 @@
 
 ^14^ Y él se partió de Eliseo, y vino á su señor, el cual le dijo: ¿Qué te ha dicho Eliseo? Y él respondió: Díjome que seguramente vivirás. 
 
-
 ^15^ El día siguiente tomó un paño basto, y metiólo en agua, y tendiólo sobre el rostro de Ben-adad, y murió: y reinó Hazael en su lugar. 
-
 
 
 ## Joram y Ocozías su hijo, reyes de Judá
@@ -490,7 +395,6 @@
 
 ## La caída de los edomitas y la muerte de Joram
 ^20^ En su tiempo se rebeló Edom de debajo de la mano de Judá, y pusieron rey sobre sí. ^21^ Joram por tanto pasó á Seir, y todos sus carros con él: y levantándose de noche hirió á los Idumeos, los cuales le habían cercado, y á los capitanes de los carros: y el pueblo huyó á sus estancias. ^22^ Sustrájose no obstante Edom de bajo la mano de Judá, hasta hoy. Rebelóse además Libna en el mismo tiempo. ^23^ Lo demás de los hechos de Joram, y todas las cosas que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Judá? ^24^ Y durmió Joram con sus padres, y fué sepultado con sus padres en la ciudad de David: y reinó en lugar suyo Ochôzías, su hijo. 
-
 
 
 ## Ochôzías de Judá; Guerra con Hazael
@@ -508,25 +412,20 @@
 
 ^4^ Fué pues el mozo, el mozo del profeta, á Ramoth de Galaad. ^5^ Y como él entró, he aquí los príncipes del ejército que estaban sentados. Y él dijo: Príncipe, una palabra tengo que decirte. Y Jehú dijo: ¿A cuál de todos nosotros? Y él dijo: A ti, príncipe. 
 
-
 ^6^ Y él se levantó, y entróse en casa; y el otro derramó el aceite sobre su cabeza, y díjole: Así dijo Jehová Dios de Israel: Yo te he ungido por rey sobre el pueblo de Jehová, sobre Israel. ^7^ Y herirás la casa de Achâb tu señor, para que yo vengue la sangre de mis siervos los profetas, y la sangre de todos los siervos de Jehová, de la mano de Jezabel. ^8^ Y perecerá toda la casa de Achâb, y talaré de Achâb todo meante á la pared, así al guardado como al desamparado en Israel. ^^ ^9^ Y yo pondré la casa de Achâb como la casa de Jeroboam hijo de Nabat, y como la casa de Baasa hijo de Ahía. ^^ ^10^ Y á Jezabel comerán perros en el campo de Jezreel, y no habrá quien la sepulte. En seguida abrió la puerta, y echó á huir. 
-
 
 ^[**9:8** 1Re 14,10] ^[**9:9** 1Re 15,29; 1Re 16,3; 1Re 16,11]
 
 ## Jehú reconocido como rey por los líderes militares
 ^11^ Después salió Jehú á los siervos de su señor, y dijéronle: ¿Hay paz? ¿para qué entró á ti aquel loco? Y él les dijo: Vosotros conocéis al hombre y sus palabras. 
 
-
 ^12^ Y ellos dijeron: Mentira; decláranoslo ahora. Y él dijo: Así y así me habló, diciendo: Así ha dicho Jehová: Yo te he ungido por rey sobre Israel. 
-
 
 ^13^ Entonces tomaron prestamente su ropa, y púsola cada uno debajo de él en un trono alto, y tocaron corneta, y dijeron: Jehú es rey. 
 ^^ 
 ^[**9:13** Mat 21,7]
 
 ^14^ Así conjuró Jehú hijo de Josaphat hijo de Nimsi, contra Joram. (Estaba Joram guardando á Ramoth de Galaad con todo Israel, por causa de Hazael rey de Siria. ^15^ Habíase empero vuelto el rey Joram á Jezreel, para curarse de las heridas que los Siros le habían hecho, peleando contra Hazael rey de Siria.) Y Jehú dijo: Si es vuestra voluntad, ninguno escape de la ciudad, para ir á dar las nuevas en Jezreel. 
-
 
 
 ## Jehú mata a Joram y Ochôzías
@@ -536,21 +435,15 @@
 
 ^18^ Fué pues el de á caballo á reconocerlos, y dijo: El rey dice así: ¿Hay paz? Y Jehú le dijo: ¿Qué tienes tú que ver con la paz? vuélvete tras mí. El atalaya dió luego aviso, diciendo: El mensajero llegó hasta ellos, y no vuelve. 
 
-
 ^19^ Entonces envió otro de á caballo, el cual llegando á ellos, dijo: El rey dice así: ¿Hay paz? Y Jehú respondió: ¿Qué tienes tú que ver con la paz? vuélvete tras mí. 
-
 
 ^20^ El atalaya volvió á decir: También éste llegó á ellos y no vuelve: mas el marchar del que viene es como el marchar de Jehú hijo de Nimsi, porque viene impetuosamente. 
 
-
 ^21^ Entonces Joram dijo: Unce. Y uncido que fué su carro, salió Joram rey de Israel, y Ochôzías rey de Judá, cada uno en su carro, y salieron á encontrar á Jehú, al cual hallaron en la heredad de Naboth de Jezreel. 
-
 
 ^22^ Y en viendo Joram á Jehú, dijo: ¿Hay paz, Jehú? Y él respondió: ¿Qué paz, con las fornicaciones de Jezabel tu madre, y sus muchas hechicerías? 
 
-
 ^23^ Entonces Joram volviendo la mano huyó, y dijo á Ochôzías: ¡Traición, Ochôzías! 
-
 
 ^24^ Mas Jehú flechó su arco, é hirió á Joram entre las espaldas, y la saeta salió por su corazón, y cayó en su carro. ^25^ Dijo luego Jehú á Bidkar su capitán: Tómalo y échalo á un cabo de la heredad de Naboth de Jezreel. Acuérdate que cuando tú y yo íbamos juntos con la gente de Achâb su padre, Jehová pronunció esta sentencia sobre él, diciendo: ^^ ^26^ Que yo he visto ayer las sangres de Naboth, y las sangres de sus hijos, dijo Jehová; y tengo de darte la paga en esta heredad, dijo Jehová. Tómalo pues ahora, y échalo en la heredad, conforme á la palabra de Jehová. 
 
@@ -558,21 +451,16 @@
 
 ^27^ Y viendo esto Ochôzías rey de Judá, huyó por el camino de la casa del huerto. Y siguiólo Jehú, diciendo: Herid también á éste en el carro. Y le hirieron á la subida de Gur, junto á Ibleam. Y él huyó á Megiddo, y murió allí. ^28^ Y sus siervos le llevaron en un carro á Jerusalem, y allá le sepultaron con sus padres, en su sepulcro en la ciudad de David. ^^ ^29^ En el undécimo año de Joram hijo de Achâb, comenzó á reinar Ochôzías sobre Judá. 
 
-
 ^[**9:28** 2Re 14,2; 2Re 23,30]
 
 ## El espantoso final de Jezabel
 ^30^ Vino después Jehú á Jezreel: y como Jezabel lo oyó, adornó sus ojos con alcohol, y atavió su cabeza, y asomóse á una ventana. ^31^ Y como entraba Jehú por la puerta, ella dijo: ¿Sucedió bien á Zimri, que mató á su señor? 
 
-
 ^32^ Alzando él entonces su rostro hacia la ventana, dijo: ¿Quién es conmigo? ¿quién? Y miraron hacia él dos ó tres eunucos. 
-
 
 ^33^ Y él les dijo: Echadla abajo. Y ellos la echaron: y parte de su sangre fué salpicada en la pared, y en los caballos; y él la atropelló. 
 
-
 ^34^ Entró luego, y después que comió y bebió, dijo: Id ahora á ver aquella maldita, y sepultadla; que es hija de rey. 
-
 
 ^35^ Empero cuando fueron para sepultarla, no hallaron de ella más que la calavera, y los pies, y las palmas de las manos. ^36^ Y volvieron, y dijéronselo. Y él dijo: La palabra de Dios es ésta, la cual él habló por mano de su siervo Elías Thisbita, diciendo: En la heredad de Jezreel comerán los perros las carnes de Jezabel. 
 ^^ 
@@ -584,21 +472,15 @@
 ## Jehú asesinó a los setenta príncipes reales y exterminó a toda la casa de Acab
 ^1^ Y tenía Achâb en Samaria setenta hijos; y escribió letras Jehú, y enviólas á Samaria á los principales de Jezreel, á los ancianos y á los ayos de Achâb, diciendo: ^2^ Luego en llegando estas letras á vosotros los que tenéis los hijos de vuestro señor, y los que tenéis carros y gente de á caballo, la ciudad pertrechada, y las armas, ^3^ Mirad cuál es el mejor y él más recto de los hijos de vuestro señor, y ponedlo en el trono de su padre, y pelead por la casa de vuestro señor. 
 
-
 ^4^ Mas ellos tuvieron gran temor, y dijeron: He aquí dos reyes no pudieron resistirle, ¿cómo le resistiremos nosotros? ^5^ Y el mayordomo, y el presidente de la ciudad, y los ancianos, y los ayos, enviaron á decir á Jehú: Siervos tuyos somos, y haremos todo lo que nos mandares: no elegiremos por rey á ninguno; tú harás lo que bien te pareciere. 
-
 
 ^6^ El entonces les escribió la segunda vez, diciendo: Si sois míos, y queréis obedecerme, tomad las cabezas de los varones hijos de vuestro señor, y venid mañana á estas horas á mí á Jezreel. Y los hijos del rey, setenta varones, estaban con los principales de la ciudad, que los criaban. 
 
-
 ^7^ Y como las letras llegaron á ellos, tomaron á los hijos del rey, y degollaron setenta varones, y pusieron sus cabezas en canastillos, y enviáronselas á Jezreel. ^8^ Y vino un mensajero que le dió las nuevas, diciendo: Traído han las cabezas de los hijos del rey. Y él le dijo: Ponedlas en dos montones á la entrada de la puerta hasta la mañana. 
-
 
 ^9^ Venida la mañana, salió él, y estando en pie dijo á todo el pueblo: Vosotros sois justos: he aquí yo he conspirado contra mi señor, y lo he muerto: ¿mas quién ha muerto á todos estos? ^10^ Sabed ahora que de la palabra de Jehová que habló sobre la casa de Achâb, nada caerá en tierra: y que Jehová ha hecho lo que dijo por su siervo Elías. 
 
-
 ^11^ Mató entonces Jehú á todos los que habían quedado de la casa de Achâb en Jezreel, y á todos sus príncipes, y á todos sus familiares, y á sus sacerdotes, que no le quedó ninguno. 
-
 
 
 ## Jehú mata a los príncipes de Judea
@@ -609,10 +491,8 @@
 ^14^ Entonces él dijo: Prendedlos vivos. Y después que los tomaron vivos, degolláronlos junto al pozo de la casa de esquileo, cuarenta y dos varones, sin dejar ninguno de ellos. 
 
 
-
 ## Jehú lleva al recabita Jonadab a su amistad
 ^15^ Partiéndose luego de allí encontróse con Jonadab hijo de Rechâb; y después que lo hubo saludado, díjole: ¿Es recto tu corazón, como el mío es recto con el tuyo? Y Jonadab dijo: Lo es. Pues que lo es, dame la mano. Y él le dió su mano. Hízolo luego subir consigo en el carro. 
-
 
 ^16^ Y díjole: Ven conmigo, y verás mi celo por Jehová. Pusiéronlo pues en su carro. ^17^ Y luego que hubo Jehú llegado á Samaria, mató á todos los que habían quedado de Achâb en Samaria, hasta extirparlos, conforme á la palabra de Jehová, que había hablado por Elías. 
 
@@ -626,9 +506,7 @@
 
 ^20^ Y dijo Jehú: Santificad un día solemne á Baal. Y ellos convocaron. 
 
-
 ^21^ Y envió Jehú por todo Israel, y vinieron todos los siervos de Baal, que no faltó ninguno que no viniese. Y entraron en el templo de Baal, y el templo de Baal se llenó de cabo á cabo. ^22^ Entonces dijo al que tenía el cargo de las vestiduras: Saca vestiduras para todos lo siervos de Baal. Y él les sacó vestimentas. 
-
 
 ^23^ Y entró Jehú con Jonadab hijo de Rechâb en el templo de Baal, y dijo á los siervos de Baal: Mirad y ved que por dicha no haya aquí entre vosotros alguno de los siervos de Jehová, sino solos los siervos de Baal. 
 ^^ 
@@ -650,7 +528,6 @@
 
 ^31^ Mas Jehú no cuidó de andar en la ley de Jehová Dios de Israel con todo su corazón, ni se apartó de los pecados de Jeroboam, el que había hecho pecar á Israel. 
 
-
 ^32^ En aquellos días comenzó Jehová á talar en Israel: é hiriólos Hazael en todos los términos de Israel, ^33^ Desde el Jordán al nacimiento del sol, toda la tierra de Galaad, de Gad, de Rubén, y de Manasés, desde Aroer que está junto al arroyo de Arnón, á Galaad y á Basán. ^34^ Lo demás de los hechos de Jehú, y todas las cosas que hizo, y toda su valentía, ¿no está escrito en el libro de las crónicas de los reyes de Israel? ^35^ Y durmió Jehú con sus padres, y sepultáronlo en Samaria: y reinó en su lugar Joachâz su hijo. 
 ^^ 
 ^[**10:35** 2Re 13,1]^36^ El tiempo que reinó Jehú sobre Israel en Samaria, fué veintiocho años. 
@@ -660,19 +537,15 @@
 ^1^ Y athalía madre de Ochôzías, viendo que su hijo era muerto, levantóse, y destruyó toda la simiente real. ^2^ Pero tomando Josaba hija del rey Joram, hermana de Ochôzías, á Joas hijo de Ochôzías, sacólo furtivamente de entre los hijos del rey, que se mataban, y ocultólo de delante de Athalía, á él y á su ama, en la cámara de las camas, y así no lo mataron. ^3^ Y estuvo con ella escondido en la casa de Jehová seis años: y Athalía fué reina sobre el país. 
 
 
-
 ## La conspiración de Joiada
 ^4^ Mas al séptimo año envió Joiada, y tomó centuriones, capitanes, y gente de la guardia, y metiólos consigo en la casa de Jehová: é hizo con ellos liga, juramentándolos en la casa de Jehová; y mostróles al hijo del rey. ^5^ Y mandóles, diciendo: Esto es lo que habéis de hacer: la tercera parte de vosotros, los que entrarán el sábado, tendrán la guardia de la casa del rey; ^6^ Y la otra tercera parte estará á la puerta del sur, y la otra tercera parte á la puerta del postigo de los de la guardia: así guardaréis la casa, para que no sea allanada. ^7^ Y las dos partes de vosotros, es á saber, todos los que salen el sábado, tendréis la guarda de la casa de Jehová junto al rey. ^8^ Y estaréis alrededor del rey de todas partes, teniendo cada uno sus armas en las manos, y cualquiera que entrare dentro de estos órdenes, sea muerto. Y habéis de estar con el rey cuando saliere, y cuando entrare. 
 
-
 ^9^ Los centuriones pues, hicieron todo como el sacerdote Joiada les mandó: y tomando cada uno los suyos, es á saber, los que habían de entrar el sábado, y los que habían salido el sábado, viniéronse á Joiada el sacerdote. ^10^ Y el sacerdote dió á los centuriones las picas y los escudos que habían sido del rey David, que estaban en la casa de Jehová. ^^ ^11^ Y los de la guardia se pusieron en orden, teniendo cada uno sus armas en sus manos, desde el lado derecho de la casa hasta el lado izquierdo, junto al altar y el templo, en derredor del rey. ^12^ Sacando luego Joiada al hijo del rey, púsole la corona y el testimonio, é hiciéronle rey ungiéndole; y batiendo las manos dijeron: ¡Viva el rey! 
-
 
 ^[**11:10** 2Sam 8,7]
 
 ## Captura y asesinato de Athalía
 ^13^ Y oyendo Athalía el estruendo del pueblo que corría, entró al pueblo en el templo de Jehová; ^14^ Y como miró, he aquí el rey que estaba junto á la columna, conforme á la costumbre, y los príncipes y los trompetas junto al rey; y que todo el pueblo del país hacía alegrías, y que tocaban las trompetas. Entonces Athalía, rasgando sus vestidos, clamó á voz en grito: ¡Traición, traición! 
-
 
 ^15^ Mas el sacerdote Joiada mandó á los centuriones que gobernaban el ejército, y díjoles: Sacadla fuera del recinto del templo, y al que la siguiere, matadlo á cuchillo. (Porque el sacerdote dijo que no la matasen en el templo de Jehová.) ^16^ Diéronle pues lugar, y como iba el camino por donde entran los de á caballo á la casa del rey, allí la mataron. 
 
@@ -682,13 +555,11 @@
 ## Medidas de Joiada para la gloria de Dios; Coronación de Joás
 ^17^ Entonces Joiada hizo alianza entre Jehová y el rey y el pueblo, que serían pueblo de Jehová: y asimismo entre el rey y el pueblo. ^18^ Y todo el pueblo de la tierra entró en el templo de Baal, y derribáronlo: asimismo despedazaron enteramente sus altares y sus imágenes, y mataron á Mathán sacerdote de Baal delante de los altares. Y el sacerdote puso guarnición sobre la casa de Jehová. ^19^ Después tomó los centuriones, y capitanes, y los de la guardia, y á todo el pueblo de la tierra, y llevaron al rey desde la casa de Jehová, y vinieron por el camino de la puerta de los de la guardia á la casa del rey; y sentóse el rey sobre el trono de los reyes. ^20^ Y todo el pueblo de la tierra hizo alegrías, y la ciudad estuvo en reposo, habiendo sido Athalía muerta á cuchillo junto á la casa del rey. 
 
-
 ^21^ Era Joas de siete años cuando comenzó á reinar. 
 
 # 12 
 ## Joás rey de Judá
 ^1^ En el séptimo año de Jehú comenzó á reinar Joas, y reinó cuarenta años en Jerusalem. El nombre de su madre fué Sibia, de Beer-seba. ^2^ Y Joas hizo lo recto en ojos de Jehová todo el tiempo que le dirigió el sacerdote Joiada. ^3^ Con todo eso los altos no se quitaron; que aun sacrificaba y quemaba el pueblo perfumes en los altos. 
-
 
 ^4^ Y Joas dijo á los sacerdotes: Todo el dinero de las santificaciones que se suele traer á la casa de Jehová, el dinero de los que pasan en cuenta, el dinero por las personas, cada cual según su tasa, y todo el dinero que cada uno de su propia voluntad mete en la casa de Jehová, 
 
@@ -698,12 +569,9 @@
 ## Ordenanza del rey sobre la reparación del templo y sobre la administración y uso del dinero del templo
 ^5^ Recíbanlo los sacerdotes, cada uno de sus familiares, y reparen los portillos del templo donde quiera que se hallare abertura. 
 
-
 ^6^ Pero el año veintitrés del rey Joas, no habían aún reparado los sacerdotes las aberturas del templo. ^7^ Llamando entonces el rey Joas al pontífice Joiada y á los sacerdotes, díjoles: ¿Por qué no reparáis las aberturas del templo? Ahora pues, no toméis más el dinero de vuestros familiares, sino dadlo para reparar las roturas del templo. 
 
-
 ^8^ Y los sacerdotes consintieron en no tomar más dinero del pueblo, ni tener cargo de reparar las aberturas del templo. ^9^ Mas el pontífice Joiada tomó un arca, é hízole en la tapa un agujero, y púsola junto al altar, á la mano derecha como se entra en el templo de Jehová; y los sacerdotes que guardaban la puerta, ponían allí todo el dinero que se metía en la casa de Jehová. ^10^ Y cuando veían que había mucho dinero en el arca, venía el notario del rey y el gran sacerdote, y contaban el dinero que hallaban en el templo de Jehová, y guardábanlo. ^11^ Y daban el dinero suficiente en mano de los que hacían la obra, y de los que tenían el cargo de la casa de Jehová; y ellos lo expendían en pagar los carpinteros y maestros que reparaban la casa de Jehová, ^12^ Y los albañiles y canteros; y en comprar la madera y piedra de cantería para reparar las aberturas de la casa de Jehová; y en todo lo que se gastaba en la casa para repararla. ^13^ Mas de aquel dinero que se traía á la casa de Jehová, no se hacían tazas de plata, ni salterios, ni jofainas, ni trompetas; ni ningún otro vaso de oro ni de plata se hacía para el templo de Jehová: ^14^ Porque lo daban á los que hacían la obra, y con él reparaban la casa de Jehová. ^15^ Y no se tomaba cuenta á los hombres en cuyas manos el dinero era entregado, para que ellos lo diesen á los que hacían la obra: porque lo hacían ellos fielmente. ^16^ El dinero por el delito, y el dinero por los pecados, no se metía en la casa de Jehová; porque era de los sacerdotes. 
-
 
 
 ## Joás salvó a Jerusalén del ataque de Hazael pagando dinero; su asesinato
@@ -717,7 +585,6 @@
 # 13 
 ## Joachâz rey de Israel
 ^1^ En el año veintitrés de Joas hijo de Ochôzías, rey de Judá, comenzó á reinar Joachâz hijo de Jehú sobre Israel en Samaria; y reinó diecisiete años. ^^ ^2^ E hizo lo malo en ojos de Jehová, y siguió los pecados de Jeroboam hijo de Nabat, el que hizo pecar á Israel; y no se apartó de ellos. ^^ ^3^ Y encendióse el furor de Jehová contra Israel, y entrególos en mano de Hazael rey de Siria, y en mano de Ben-adad hijo de Hazael, por largo tiempo. ^^ ^4^ Mas Joachâz oró á la faz de Jehová, y Jehová lo oyó: porque miró la aflicción de Israel, pues el rey de Siria los afligía. ^5^ (Y dió Jehová salvador á Israel, y salieron de bajo la mano de los Siros; y habitaron los hijos de Israel en sus estancias, como antes. ^^ ^6^ Con todo eso no se apartaron de los pecados de la casa de Jeroboam, el que hizo pecar á Israel: en ellos anduvieron; y también el bosque permaneció en Samaria.) ^^ ^7^ Porque no le había quedado gente á Joachâz, sino cincuenta hombres de á caballo, y diez carros, y diez mil hombres de á pié; pues el rey de Siria los había destruído, y los había puesto como polvo para hollar. ^8^ Lo demás de los hechos de Joachâz, y todo lo que hizo, y sus valentías, ¿no está escrito en el libro de las crónicas de los reyes de Israel? ^9^ Y durmió Joachâz con sus padres, y sepultáronlo en Samaria: y reinó en su lugar Joas su hijo. 
-
 
 ^[**13:1** 2Re 10,35] ^[**13:2** 1Re 12,26-33] ^[**13:3** 2Re 10,32] ^[**13:5** 2Re 14,27] ^[**13:6** 1Re 16,33]
 
@@ -734,17 +601,13 @@
 
 ^15^ Y díjole Eliseo: Toma un arco y unas saetas. Tomóse él entonces un arco y unas saetas. ^16^ Y dijo Eliseo al rey de Israel: Pon tu mano sobre el arco. Y puso él su mano sobre el arco. Entonces puso Eliseo sus manos sobre las manos del rey, ^17^ Y dijo: Abre la ventana de hacia el oriente. Y como él la abrió dijo Eliseo: Tira. Y tirando él, dijo Eliseo: Saeta de salud de Jehová, y saeta de salud contra Siria: porque herirás á los Siros en Aphec, hasta consumirlos. 
 
-
 ^18^ Y tornóle á decir: Toma las saetas. Y luego que el rey de Israel las hubo tomado, díjole: Hiere la tierra. Y él hirió tres veces, y cesó. ^19^ Entonces el varón de Dios, enojado con él, le dijo: A herir cinco ó seis veces, herirías á Siria, hasta no quedar ninguno: empero ahora tres veces herirás á Siria. 
-
 
 
 ## Elisa sigue trabajando milagrosamente en su tumba
 ^20^ Y murió Eliseo, y sepultáronlo. Entrado el año vinieron partidas de Moabitas á la tierra. 
 
-
 ^21^ Y aconteció que al sepultar unos un hombre, súbitamente vieron una partida, y arrojaron al hombre en el sepulcro de Eliseo: y cuando llegó á tocar el muerto los huesos de Eliseo, revivió, y levantóse sobre sus pies. 
-
 
 
 ## Las tres victorias de Joás sobre los sirios
@@ -763,16 +626,12 @@
 ^7^ Este hirió asimismo diez mil Idumeos en el valle de las Salinas, y tomó á Sela por guerra, y llamóla Jocteel, hasta hoy. 
 
 
-
 ## La desafortunada guerra de Amasías con Joás de Israel
 ^8^ Entonces Amasías envió embajadores á Joas, hijo de Joachâz hijo de Jehú, rey de Israel, diciendo: Ven, y veámonos de rostro. 
 
-
 ^9^ Y Joas rey de Israel envió á Amasías rey de Judá esta respuesta: El cardillo que está en el Líbano envió á decir al cedro que está en el Líbano: Da tu hija por mujer á mi hijo. Y pasaron las bestias fieras que están en el Líbano, y hollaron el cardillo. ^10^ Ciertamente has herido á Edom, y tu corazón te ha envanecido: gloríate pues, mas estáte en tu casa. ¿Y por qué te entrometerás en un mal, para que caigas tú, y Judá contigo? 
 
-
 ^11^ Mas Amasías no dió oídos; por lo que subió Joas rey de Israel, y viéronse de rostro él y Amasías rey de Judá, en Beth-semes, que es de Judá. ^12^ Y Judá cayó delante de Israel, y huyeron cada uno á sus estancias. ^13^ Además Joas rey de Israel tomó á Amasías rey de Judá, hijo de Joas hijo de Ochôzías, en Beth-semes: y vino á Jerusalem, y rompió el muro de Jerusalem desde la puerta de Ephraim hasta la puerta de la esquina, cuatrocientos codos. ^14^ Y tomó todo el oro y la plata, y todos los vasos que fueron hallados en la casa de Jehová, y en los tesoros de la casa del rey, y los hijos en rehenes, y volvióse á Samaria. 
-
 
 
 ## Palabras de clausura sobre Joás de Israel
@@ -813,26 +672,21 @@
 ## Sallum König von Israel
 ^13^ Sallum hijo de Jabes comenzó á reinar en el año treinta y nueve de Uzzía rey de Judá, y reinó el tiempo de un mes en Samaria; ^14^ Pues subió Manahem hijo de Gadi, de Thirsa, y vino á Samaria, é hirió á Sallum hijo de Jabes en Samaria, y matólo, y reinó en su lugar. ^15^ Lo demás de los hechos de Sallum, y su conjuración con que conspiró, he aquí está escrito en el libro de las crónicas de los reyes de Israel. 
 
-
 ^16^ Entonces hirió Manahem á Tiphsa, y á todos los que estaban en ella, y también sus términos desde Thirsa; é hirióla porque no le habían abierto; y abrió á todas sus preñadas. 
-
 
 
 ## Menahem Rey de Israel
 ^17^ En el año treinta y nueve de Azarías rey de Judá, reinó Manahem hijo de Gadi sobre Israel diez años, en Samaria. ^18^ E hizo lo malo en ojos de Jehová: no se apartó en todo su tiempo de los pecados de Jeroboam hijo de Nabat, el que hizo pecar á Israel. ^^ ^19^ Y vino Phul rey de Asiria á la tierra; y dió Manahem á Phul mil talentos de plata porque le ayudara á confirmarse en el reino. ^20^ E impuso Manahem este dinero sobre Israel, sobre todos los poderosos y opulentos: de cada uno cincuenta siclos de plata, para dar al rey de Asiria, y el rey de Asiria se volvió, y no se detuvo allí en la tierra. ^21^ Lo demás de los hechos de Manahem, y todas las cosas que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Israel? ^22^ Y durmió Manahem con sus padres, y reinó en su lugar Pekaía su hijo. 
-
 
 ^[**15:18** 2Re 15,9]
 
 ## Pekaja, rey de Israel
 ^23^ En el año cincuenta de Azarías rey de Judá, reinó Pekaía hijo de Manahem sobre Israel en Samaria, dos años. ^24^ E hizo lo malo en ojos de Jehová: no se apartó de los pecados de Jeroboam hijo de Nabat, el que hizo pecar á Israel. ^^ ^25^ Y conspiró contra él Peka hijo de Remalías, capitán suyo, é hiriólo en Samaria, en el palacio de la casa real, en compañía de Argob y de Ariph, y con cincuenta hombres de los hijos de los Galaaditas; y matólo, y reinó en su lugar. ^^ ^26^ Lo demás de los hechos de Pekaía, y todas las cosas que hizo, he aquí está escrito en el libro de las crónicas de los reyes de Israel. 
 
-
 ^[**15:24** 2Re 15,9] ^[**15:25** 2Re 15,10; 2Re 15,14; 2Re 15,30]
 
 ## Peka, rey de Israel
 ^27^ En el año cincuenta y dos de Azarías rey de Judá, reinó Peka hijo de Remalías sobre Israel en Samaria; y reinó veinte años. ^28^ E hizo lo malo en ojos de Jehová; no se apartó de los pecados de Jeroboam hijo de Nabat, el que hizo pecar á Israel. ^^ ^29^ En los días de Peka rey de Israel, vino Tiglath-pileser rey de los Asirios, y tomó á Ahión, Abel-beth-maachâ, y Janoa, y Cedes, y Asor, y Galaad, y Galilea, y toda la tierra de Nephtalí; y trasportólos á Asiria. ^^ ^30^ Y Oseas hijo de Ela hizo conjuración contra Peka hijo de Remalías, é hiriólo, y matólo, y reinó en su lugar, á los veinte años de Jotham hijo de Uzzía. ^^ ^31^ Lo demás de los hechos de Peka, y todo lo que hizo, he aquí está escrito en el libro de las crónicas de los reyes de Israel. 
-
 
 ^[**15:28** 2Re 15,9] ^[**15:29** 1Cró 5,26] ^[**15:30** 2Re 17,1; 2Re 15,25]
 
@@ -845,18 +699,15 @@
 ## Las abominaciones paganas de Acaz
 ^1^ En el año diecisiete de Peka hijo de Remalías, comenzó á reinar Achâz hijo de Jotham rey de Judá. ^^ ^2^ Cuando comenzó á reinar Achâz, era de veinte años, y reinó en Jerusalem dieciséis años: y no hizo lo recto en ojos de Jehová su Dios, como David su padre; ^3^ Antes anduvo en el camino de los reyes de Israel, y aun hizo pasar por el fuego á su hijo, según las abominaciones de las gentes que Jehová echó de delante de los hijos de Israel. ^4^ Asimismo sacrificó, y quemó perfumes en los altos, y sobre los collados, y debajo de todo árbol umbroso. 
 
-
 ^[**16:1** 2Re 15,38]
 
 ## Su guerra con Siria e Israel; Acaz se convierte en tributo a los asirios
 ^5^ Entonces Resín rey de Siria, y Peka hijo de Remalías rey de Israel, subieron á Jerusalem para hacer guerra, y cercar á Achâz; mas no pudieron tomarla. ^^ ^6^ En aquel tiempo Resín rey de Siria restituyó Elath á Siria, y echó á los Judíos de Elath; y los Siros vinieron á Elath, y habitaron allí hasta hoy. ^^ ^7^ Entonces Achâz envió embajadores á Tiglath-pileser rey de Asiria, diciendo: Yo soy tu siervo y tu hijo: sube, y defiéndeme de mano del rey de Siria, y de mano del rey de Israel, que se han levantado contra mí. ^^ ^8^ Y tomando Achâz la plata y el oro que se halló en la casa de Jehová, y en los tesoros de la casa real, envió al rey de Asiria un presente. ^^ ^9^ Y atendióle el rey de Asiria; pues subió el rey de Asiria contra Damasco, y tomóla, y trasportó los moradores á Kir, y mató á Resín. 
 
-
 ^[**16:5** Is 7,1-9] ^[**16:6** 2Re 14,22] ^[**16:7** 2Re 15,29] ^[**16:8** 1Re 15,18]
 
 ## Acaz tiene un nuevo altar para los holocaustos construido, emite una nueva orden de sacrificio e interviene en la propiedad del templo
 ^10^ Y fué el rey Achâz á encontrar á Tiglath-pileser rey de Asiria en Damasco; y visto que hubo el rey Achâz el altar que estaba en Damasco, envió á Urías sacerdote el diseño y la descripción del altar, conforme á toda su hechura. ^11^ Y Urías el sacerdote edificó el altar; conforme á todo lo que el rey Achâz había enviado de Damasco, así lo hizo el sacerdote Urías, entre tanto que el rey Achâz venía de Damasco. ^12^ Y luego que vino el rey de Damasco, y hubo visto el altar, acercóse el rey á él, y sacrificó en él; ^13^ Y encendió su holocausto, y su presente, y derramó sus libaciones, y esparció la sangre de sus pacíficos junto al altar. ^14^ Y el altar de bronce que estaba delante de Jehová, hízolo acercar delante de la frontera de la casa, entre el altar y el templo de Jehová, y púsolo al lado del altar hacia el aquilón. ^15^ Y mandó el rey Achâz al sacerdote Urías, diciendo: En el gran altar encenderás el holocausto de la mañana y el presente de la tarde, y el holocausto del rey y su presente, y asimismo el holocausto de todo el pueblo de la tierra y su presente y sus libaciones: y esparcirás sobre él toda la sangre de holocausto, y toda la sangre de sacrificio: y el altar de bronce será mío para preguntar en él. ^16^ E hizo el sacerdote Urías conforme á todas las cosas que el rey Achâz le mandó. 
-
 
 ^17^ Y cortó el rey Achâz las cintas de las basas, y quitóles las fuentes; quitó también el mar de sobre los bueyes de bronce que estaban debajo de él, y púsolo sobre el solado de piedra. 
 ^^ 
@@ -875,22 +726,17 @@
 ^19^ Mas ni aun Judá guardó los mandamientos de Jehová su Dios; antes anduvieron en los estatutos de Israel, los cuales habían ellos hecho. ^20^ Y desechó Jehová toda la simiente de Israel, y afligiólos, y entrególos en manos de saqueadores, hasta echarlos de su presencia. 
 
 
-
 ## Las causas que provocaron el rechazo y la caída del reino del norte
 ^21^ Porque cortó á Israel de la casa de David, y ellos se hicieron rey á Jeroboam hijo de Nabat; y Jeroboam rempujó á Israel de en pos de Jehová, é hízoles cometer gran pecado. ^^ ^22^ Y los hijos de Israel anduvieron en todos los pecados de Jeroboam que él hizo, sin apartarse de ellos; ^23^ Hasta tanto que Jehová quitó á Israel de delante de su rostro, como lo había él dicho por mano de todos los profetas sus siervos: é Israel fué trasportado de su tierra á Asiria, hasta hoy. 
-
 
 ^[**17:21** 1Re 12,20]
 
 ## Repoblación del país; Origen de los samaritanos y su religión
 ^24^ Y trajo el rey de Asiria gente de Babilonia, y de Cutha, y de Ava, y de Hamath, y de Sepharvaim, y púsolos en las ciudades de Samaria, en lugar de los hijos de Israel; y poseyeron á Samaria, y habitaron en sus ciudades. ^25^ Y aconteció al principio, cuando comenzaron á habitar allí, que no temiendo ellos á Jehová, envió Jehová contra ellos leones que los mataban. ^26^ Entonces dijeron ellos al rey de Asiria: Las gentes que tú traspasaste y pusiste en las ciudades de Samaria, no saben la costumbre del Dios de aquella tierra, y él ha echado leones en ellos, y he aquí los matan, porque no saben la costumbre del Dios de la tierra. 
 
-
 ^27^ Y el rey de Asiria mandó, diciendo: Llevad allí á alguno de los sacerdotes que trajisteis de allá, y vayan y habiten allí, y enséñenles la costumbre del Dios del país. 
 
-
 ^28^ Y vino uno de los sacerdotes que habían trasportado de Samaria, y habitó en Beth-el, y enseñóles cómo habían de temer á Jehová. 
-
 
 ^29^ Mas cada nación se hizo sus dioses, y pusiéronlos en los templos de los altos que habían hecho los de Samaria; cada nación en su ciudad donde habitaba. ^30^ Los de Babilonia hicieron á Succoth-benoth, y los de Cutha hicieron á Nergal, y los de Hamath hicieron á Asima; ^31^ Los Heveos hicieron á Nibhaz y á Tharthac; y los de Sepharvaim quemaban sus hijos al fuego á Adra-melech y á Anamelech, dioses de Sepharvaim. ^^ ^32^ Y temían á Jehová; é hicieron del pueblo bajo sacerdotes de los altos, quienes sacrificaban para ellos en los templos de los altos. ^33^ Temían á Jehová, y honraban á sus dioses, según la costumbre de las gentes de donde habían sido trasladados. ^34^ Hasta hoy hacen como primero; que ni temen á Jehová, ni guardan sus estatutos, ni sus ordenanzas, ni hacen según la ley y los mandamientos que prescribió Jehová á los hijos de Jacob, al cual puso el nombre de Israel; ^35^ Con los cuales había Jehová hecho pacto, y les mandó, diciendo: No temeréis á otros dioses, ni los adoraréis, ni les serviréis, ni les sacrificaréis: ^36^ Mas á Jehová, que os sacó de tierra de Egipto con grande poder y brazo extendido, á éste temeréis, y á éste adoraréis, y á éste haréis sacrificio. ^37^ Los estatutos y derechos y ley y mandamientos que os dió por escrito, cuidaréis siempre de ponerlos por obra, y no temeréis dioses ajenos. ^38^ Y no olvidaréis el pacto que hice con vosotros; ni temeréis dioses ajenos: ^39^ Mas temed á Jehová vuestro Dios, y él os librará de mano de todos vuestros enemigos. 
 ^^ 
@@ -902,18 +748,15 @@
 ## Ezequías asumió el cargo, su piedad y sus servicios al culto y al bien público
 ^1^ En el tercer año de Oseas hijo de Ela rey de Israel, comenzó á reinar Ezechîas hijo de Achâz rey de Judá. ^2^ Cuando comenzó á reinar era de veinticinco años, y reinó en Jerusalem veintinueve años. El nombre de su madre fué Abi hija de Zachârías. ^^ ^3^ Hizo lo recto en ojos de Jehová, conforme á todas las cosas que había hecho David su padre. ^^ ^4^ El quitó los altos, y quebró las imágenes, y taló los bosques, é hizo pedazos la serpiente de bronce que había hecho Moisés, porque hasta entonces le quemaban perfumes los hijos de Israel; y llamóle por nombre Nehustán. ^^ ^5^ En Jehová Dios de Israel puso su esperanza: después ni antes de él no hubo otro como él en todos los reyes de Judá. ^^ ^6^ Porque se llegó á Jehová, y no se apartó de él, sino que guardó los mandamientos que Jehová prescribió á Moisés. ^7^ Y Jehová fué con él; y en todas las cosas á que salía prosperaba. El se rebeló contra el rey de Asiria, y no le sirvió. ^8^ Hirió también á los Filisteos hasta Gaza y sus términos, desde las torres de las atalayas hasta la ciudad fortalecida. 
 
-
 ^[**18:2** 2Cró 29,1-2] ^[**18:3** 2Re 20,3] ^[**18:4** 2Cró 31,1; 2Re 15,35; Núm 21,8-9] ^[**18:5** 2Re 23,25]
 
 ## La caída de Samaria
 ^9^ En el cuarto año del rey Ezechîas, que era el año séptimo de Oseas hijo de Ela rey de Israel, subió Salmanasar rey de los Asirios contra Samaria, y cercóla. ^^ ^10^ Y tomáronla al cabo de tres años; esto es, en el sexto año de Ezechîas, el cual era el año nono de Oseas rey de Israel, fué Samaria tomada. ^11^ Y el rey de Asiria traspuso á Israel á Asiria, y púsolos en Hala, y en Habor, junto al río de Gozán, y en las ciudades de los Medos: ^12^ Por cuanto no habían atendido la voz de Jehová su Dios, antes habían quebrantado su pacto; y todas las cosas que Moisés siervo de Jehová había mandado, ni las habían escuchado, ni puesto por obra. 
 
-
 ^[**18:9** 2Re 17,3-6]
 
 ## Ezequías envía sin éxito el tributo exigido por Senaquerib
 ^13^ Y á los catorce años del rey Ezechîas, subió Sennachêrib rey de Asiria contra todas las ciudades fuertes de Judá, y tomólas. ^14^ Entonces Ezechîas rey de Judá envió á decir al rey de Asiria en Lachîs: Yo he pecado: vuélvete de mí, y llevaré todo lo que me impusieres. Y el rey de Asiria impuso á Ezechîas rey de Judá trescientos talentos de plata, y treinta talentos de oro. ^15^ Dió por tanto Ezechîas toda la plata que fué hallada en la casa de Jehová, y en los tesoros de la casa real. ^^ ^16^ Entonces descompuso Ezechîas las puertas del templo de Jehová, y los quiciales que el mismo rey Ezechîas había cubierto de oro, y diólo al rey de Asiria. 
-
 
 ^[**18:15** 2Re 16,8]
 
@@ -921,13 +764,10 @@
 ^17^ Después el rey de Asiria envió al rey Ezechîas, desde Lachîs contra Jerusalem, á Thartán y á Rabsaris y á Rabsaces, con un grande ejército: y subieron, y vinieron á Jerusalem. Y habiendo subido, vinieron y pararon junto al conducto del estanque de arriba, que es en el camino de la heredad del batanero. ^18^ Llamaron luego al rey, y salió á ellos Eliacim hijo de Hilcías, que era mayordomo, y Sebna escriba, y Joah hijo de Asaph, canciller. ^19^ Y díjoles Rabsaces: Decid ahora á Ezechîas: Así dice el gran rey de Asiria: ¿Qué confianza es esta en que tú estás? ^20^ Dices, (por cierto palabras de labios): Consejo tengo y esfuerzo para la guerra. Mas ¿en qué confías, que te has rebelado contra mí? ^21^ He aquí tú confías ahora en este bordón de caña cascada, en Egipto, en el que si alguno se apoyare, entrarále por la mano, y se le pasará. Tal es Faraón rey de Egipto, para todos los que en él confían. ^22^ Y si me decís: Nosotros confiamos en Jehová nuestro Dios: ¿no es aquél cuyos altos y altares ha quitado Ezechîas, y ha dicho á Judá y á Jerusalem: Delante de este altar adoraréis en Jerusalem? ^23^ Por tanto, ahora yo te ruego que des rehenes á mi señor, el rey de Asiria, y yo te daré dos mil caballos, si tú pudieres dar jinetes para ellos. ^24^ ¿Cómo pues harás volver el rostro de un capitán el menor de los siervos de mi señor, aunque estés confiado en Egipto por sus carros y su gente de á caballo? ^25^ Además, ¿he venido yo ahora sin Jehová á este lugar, para destruirlo? Jehová me ha dicho: Sube á esta tierra, y destrúyela. 
 
 
-
 ## Senaquerib y la arrogancia de sus embajadores
 ^26^ Entonces dijo Eliacim hijo de Hilcías, y Sebna y Joah, á Rabsaces: Ruégote que hables á tus siervos siriaco, porque nosotros lo entendemos, y no hables con nosotros judaico á oídos del pueblo que está sobre el muro. 
 
-
 ^27^ Y Rabsaces les dijo: ¿Hame enviado mi señor á ti y á tu señor para decir estas palabras, y no antes á los hombres que están sobre el muro, para comer su estiércol, y beber el agua de sus pies con vosotros? 
-
 
 ^28^ Paróse luego Rabsaces, y clamó á gran voz en judaico, y habló, diciendo: Oid la palabra del gran rey, el rey de Asiria. ^29^ Así ha dicho el rey: No os engañe Ezechîas, porque no os podrá librar de mi mano. ^30^ Y no os haga Ezechîas confiar en Jehová, diciendo: De cierto nos librará Jehová, y esta ciudad no será entregada en mano del rey de Asiria. ^31^ No oigáis á Ezechîas, porque así dice el rey de Asiria: Haced conmigo paz, y salid á mí, y cada uno comerá de su vid, y de su higuera, y cada uno beberá las aguas de su pozo; ^^ ^32^ Hasta que yo venga, y os lleve á una tierra como la vuestra, tierra de grano y de vino, tierra de pan y de viñas, tierra de olivas, de aceite, y de miel; y viviréis, y no moriréis. No oigáis á Ezechîas, porque os engaña cuando dice: Jehová nos librará. ^33^ ¿Acaso alguno de los dioses de las gentes ha librado su tierra de la mano del rey de Asiria? ^34^ ¿Dónde está el dios de Hamath, y de Arphad? ¿dónde el dios de Sepharvaim, de Hena, y de Hiva? ¿pudieron éstos librar á Samaria de mi mano? ^35^ ¿Qué dios de todos los dioses de las provincias ha librado á su provincia de mi mano, para que libre Jehová de mi mano á Jerusalem? 
 
@@ -944,29 +784,24 @@
 ^5^ Vinieron pues los siervos del rey Ezechîas á Isaías. ^6^ E Isaías les respondió: Así diréis á vuestro señor: Así ha dicho Jehová; No temas por las palabras que has oído, con las cuales me han blasfemado los siervos del rey de Asiria. ^7^ He aquí pondré yo en él un espíritu, y oirá rumor, y volveráse á su tierra: y yo haré que en su tierra caiga á cuchillo. 
 
 
-
 ## La segunda solicitud de Sennacherib a través de una carta amenazante de Libna
 ^8^ Y regresando Rabsaces, halló al rey de Asiria combatiendo á Libna; porque había oído que se había partido de Lachîs. ^9^ Y oyó decir de Thiraca rey de Ethiopía: He aquí es salido para hacerte guerra. Entonces volvió él, y envió embajadores á Ezechîas, diciendo: ^10^ Así diréis á Ezechîas rey de Judá: No te engañe tu Dios en quien tú confías, para decir: Jerusalem no será entregada en mano del rey de Asiria. ^^ ^11^ He aquí tú has oído lo que han hecho los reyes de Asiria á todas las tierras, destruyéndolas; ¿y has tú de escapar? ^12^ ¿Libráronlas los dioses de las gentes, que mis padres destruyeron, es á saber, Gozán, y Harán, y Reseph, y los hijos de Edén que estaban en Thalasar? ^13^ ¿Dónde está el rey de Hamath, el rey de Arphad, el rey de la ciudad de Sepharvaim, de Hena, y de Hiva? 
-
 
 ^[**19:10** 2Re 18,30]
 
 ## La súplica de Ezequías en el templo
 ^14^ Y tomó Ezechîas las letras de mano de los embajadores; y después que las hubo leído, subió á la casa de Jehová, y extendiólas Ezechîas delante de Jehová. ^15^ Y oró Ezechîas delante de Jehová, diciendo: Jehová Dios de Israel, que habitas entre los querubines, tú solo eres Dios de todos los reinos de la tierra; tú hiciste el cielo y la tierra. ^^ ^16^ Inclina, oh Jehová, tu oído, y oye; abre, oh Jehová, tus ojos, y mira: y oye las palabras de Sennachêrib, que ha enviado á blasfemar al Dios viviente. ^^ ^17^ Es verdad, oh Jehová, que los reyes de Asiria han destruído las gentes y sus tierras; ^18^ Y que pusieron en el fuego á sus dioses, por cuanto ellos no eran dioses, sino obra de manos de hombres, madera ó piedra, y así los destruyeron. ^19^ Ahora pues, oh Jehová Dios nuestro, sálvanos, te suplico, de su mano, para que sepan todos los reinos de la tierra que tú solo, Jehová, eres Dios. 
 
-
 ^[**19:15** Éxod 25,22; Sal 80,2] ^[**19:16** 2Re 19,4; 1Sam 17,10]
 
 ## Isaías envía notificación de su oración al rey Ezequías en el nombre de Dios
 ^20^ Entonces Isaías hijo de Amós envió á decir á Ezechîas: Así ha dicho Jehová, Dios de Israel: Lo que me rogaste acerca de Sennachêrib rey de Asiria, he oído. ^21^ Esta es la palabra que Jehová ha hablado contra él: Hate menospreciado, hate escarnecido la virgen hija de Sión; ha movido su cabeza detrás de ti la hija de Jerusalem. ^22^ ¿A quién has injuriado y á quién has blasfemado? ¿y contra quién has hablado alto, y has alzado en alto tus ojos? Contra el Santo de Israel. ^23^ Por mano de tus mensajeros has proferido injuria contra el Señor, y has dicho: Con la multitud de mis carros he subido á las cumbres de los montes, á las cuestas del Líbano; y cortaré sus altos cedros, sus hayas escogidas; y entraré á la morada de su término, al monte de su Carmel. ^24^ Yo he cavado y bebido las aguas ajenas, y he secado con las plantas de mis pies todos los ríos de lugares bloqueados. ^25^ ¿Nunca has oído que mucho tiempo ha yo lo hice, y de días antiguos lo he formado? Y ahora lo he hecho venir, y fué para desolación de ciudades fuertes en montones de ruinas. ^26^ Y sus moradores, cortos de manos, quebrantados y confusos, fueron cual hierba del campo, como legumbre verde, y heno de los tejados, que antes que venga á madurez es seco. ^27^ Yo he sabido tu asentarte, tu salir y tu entrar, y tu furor contra mí. ^28^ Por cuanto te has airado contra mí, y tu estruendo ha subido á mis oídos, yo por tanto pondré mi anzuelo en tus narices, y mi bocado en tus labios, y te haré volver por el camino por donde viniste. 
-
 
 ^29^ Y esto te será por señal Ezechîas: Este año comerás lo que nacerá de suyo, y el segundo año lo que nacerá de suyo; y el tercer año haréis sementera, y segaréis, y plantaréis viñas, y comeréis el fruto de ellas. ^30^ Y lo que hubiere escapado, lo que habrá quedado de la casa de Judá, tornará á echar raíz abajo, y hará fruto arriba. ^31^ Porque saldrán de Jerusalem reliquias, y los que escaparán, del monte de Sión: el celo de Jehová de los ejércitos hará esto. 
 ^^ 
 ^[**19:31** Is 9,6]
 
 ^32^ Por tanto, Jehová dice así del rey de Asiria: No entrará en esta ciudad, ni echará saeta en ella; ni vendrá delante de ella escudo, ni será echado contra ella baluarte. ^33^ Por el camino que vino se volverá, y no entrará en esta ciudad, dice Jehová. ^34^ Porque yo ampararé á esta ciudad para salvarla, por amor de mí, y por amor de David mi siervo. 
-
 
 
 ## El cumplimiento de la promesa: la partida y el asesinato de Senaquerib
@@ -977,42 +812,31 @@
 ## La enfermedad y la recuperación de Ezequías; la embajada de babilonia
 ^1^ En aquellos días cayó Ezechîas enfermo de muerte, y vino á él Isaías profeta hijo de Amós, y díjole: Jehová dice así: Dispón de tu casa, porque has de morir, y no vivirás. 
 
-
 ^2^ Entonces volvió él su rostro á la pared, y oró á Jehová, y dijo: ^3^ Ruégote, oh Jehová, ruégote hagas memoria de que he andado delante de ti en verdad é íntegro corazón, y que he hecho las cosas que te agradan. Y lloró Ezechîas con gran lloro. 
-
 
 ^4^ Y antes que Isaías saliese hasta la mitad del patio, fué palabra de Jehová á Isaías, diciendo: ^5^ Vuelve, y di á Ezechîas, príncipe de mi pueblo: Así dice Jehová, el Dios de David tu padre: Yo he oído tu oración, y he visto tus lágrimas: he aquí yo te sano; al tercer día subirás á la casa de Jehová. ^6^ Y añadiré á tus días quince años, y te libraré á ti y á esta ciudad de mano del rey de Asiria; y ampararé esta ciudad por amor de mí, y por amor de David mi siervo. 
 
-
 ^7^ Y dijo Isaías: Tomad masa de higos. Y tomándola, pusieron sobre la llaga, y sanó. 
-
 
 
 ## El signo del milagro divino en el reloj de sol
 ^8^ Y Ezechîas había dicho á Isaías: ¿Qué señal tendré de que Jehová me sanará, y que subiré á la casa de Jehová al tercer día? 
 
-
 ^9^ Y respondió Isaías: Esta señal tendrás de Jehová, de que hará Jehová esto que ha dicho: ¿Avanzará la sombra diez grados, ó retrocederá diez grados? 
-
 
 ^10^ Y Ezechîas respondió: Fácil cosa es que la sombra decline diez grados: pero, que la sombra vuelva atrás diez grados. 
 
-
 ^11^ Entonces el profeta Isaías clamó á Jehová; é hizo volver la sombra por los grados que había descendido en el reloj de Achâz, diez grados atrás. 
-
 
 
 ## Embajada de Merodac-Baladan de Babilonia
 ^12^ En aquel tiempo Berodach-baladán hijo de Baladán, rey de Babilonia, envió letras y presentes á Ezechîas, porque había oído que Ezechîas había caído enfermo. ^13^ Y Ezechîas los oyó, y mostróles toda la casa de las cosas preciosas, plata, oro, y especiería, y preciosos ungüentos; y la casa de sus armas, y todo lo que había en sus tesoros: ninguna cosa quedó que Ezechîas no les mostrase, así en su casa como en todo su señorío. 
 
 
-
 ## El discurso de castigo de Isaías sobre la pompa descuidada del rey y su profecía sobre el cautiverio en Babilonia
 ^14^ Entonces el profeta Isaías vino al rey Ezechîas, y díjole: ¿Qué dijeron aquellos varones, y de dónde vinieron á ti? Y Ezechîas le respondió: De lejanas tierras han venido, de Babilonia. 
 
-
 ^15^ Y él le volvió á decir: ¿Qué vieron en tu casa? Y Ezechîas respondió: Vieron todo lo que había en mi casa; nada quedó en mis tesoros que no les mostrase. 
-
 
 ^16^ Entonces Isaías dijo á Ezechîas: Oye palabra de Jehová: ^17^ He aquí vienen días, en que todo lo que está en tu casa, y todo lo que tus padres han atesorado hasta hoy, será llevado á Babilonia, sin quedar nada, dijo Jehová. ^^ ^18^ Y de tus hijos que saldrán de ti, que habrás engendrado, tomarán; y serán eunucos en el palacio del rey de Babilonia. 
 
@@ -1030,7 +854,6 @@
 ## Idolatría manasés
 ^1^ De doce años era Manasés cuando comenzó á reinar, y reinó en Jerusalem cincuenta y cinco años: el nombre de su madre fué Hepsiba. ^2^ E hizo lo malo en ojos de Jehová, según las abominaciones de las gentes que Jehová había echado delante de los hijos de Israel. ^3^ Porque él volvió á edificar los altos que Ezechîas su padre había derribado, y levantó altares á Baal, é hizo bosque, como había hecho Achâb rey de Israel: y adoró á todo el ejército del cielo, y sirvió á aquellas cosas. ^4^ Asimismo edificó altares en la casa de Jehová, de la cual Jehová había dicho: Yo pondré mi nombre en Jerusalem. ^^ ^5^ Y edificó altares para todo el ejército del cielo en los dos atrios de la casa de Jehová. ^^ ^6^ Y pasó á su hijo por fuego, y miró en tiempos, y fué agorero, é instituyó pythones y adivinos, multiplicando así el hacer lo malo en ojos de Jehová, para provocarlo á ira. ^^ ^7^ Y puso una entalladura del bosque que él había hecho, en la casa de la cual había Jehová dicho á David y á Salomón su hijo: Yo pondré mi nombre para siempre en esta casa, y en Jerusalem, á la cual escogí de todas las tribus de Israel: ^^ ^8^ Y no volveré á hacer que el pie de Israel sea movido de la tierra que dí á sus padres, con tal que guarden y hagan conforme á todas las cosas que yo les he mandado, y conforme á toda la ley que mi siervo Moisés les mandó. ^9^ Mas ellos no escucharon; y Manasés los indujo á que hiciesen más mal que las gentes que Jehová destruyó delante de los hijos de Israel. 
 
-
 ^[**21:4** 2Re 21,7] ^[**21:5** 2Re 23,12] ^[**21:6** 2Re 16,3] ^[**21:7** 1Re 8,29; 1Re 9,3]
 
 ## La amenaza de Dios a Manasés; La crueldad de Manasés y las palabras finales sobre él
@@ -1040,9 +863,7 @@
 
 ^16^ Fuera de esto, derramó Manasés mucha sangre inocente en gran manera, hasta henchir á Jerusalem de cabo á cabo: además de su pecado con que hizo pecar á Judá, para que hiciese lo malo en ojos de Jehová. 
 
-
 ^17^ Lo demás de los hechos de Manasés, y todas las cosas que hizo, y su pecado que cometió, ¿no está todo escrito en el libro de las crónicas de los reyes de Judá? ^18^ Y durmió Manasés con sus padres, y fué sepultado en el huerto de su casa, en el huerto de Uzza; y reinó en su lugar Amón su hijo. 
-
 
 
 ## Amon von Juda
@@ -1059,12 +880,9 @@
 ## Josías se encarga de la reparación del templo; Informe sobre el descubrimiento del código y su primer efecto
 ^3^ Y á los dieciocho años del rey Josías, fué que envió el rey á Saphán hijo de Azalía, hijo de Mesullam, escriba, á la casa de Jehová, diciendo: ^4^ Ve á Hilcías, sumo sacerdote: dile que recoja el dinero que se ha metido en la casa de Jehová, que han juntado del pueblo los guardianes de la puerta, ^5^ Y que lo pongan en manos de los que hacen la obra, que tienen cargo de la casa de Jehová, y que lo entreguen á los que hacen la obra de la casa de Jehová, para reparar las aberturas de la casa: ^6^ A los carpinteros, á los maestros y albañiles, para comprar madera y piedra de cantería para reparar la casa; ^7^ Y que no se les cuente el dinero cuyo manejo se les confiare, porque ellos proceden con fidelidad. 
 
-
 ^8^ Entonces dijo el sumo sacerdote Hilcías á Saphán escriba: El libro de la ley he hallado en la casa de Jehová. E Hilcías dió el libro á Saphán, y leyólo. ^9^ Viniendo luego Saphán escriba al rey, dió al rey la respuesta, y dijo: Tus siervos han juntado el dinero que se halló en el templo, y lo han entregado en poder de los que hacen la obra, que tienen cargo de la casa de Jehová. ^10^ Asimismo Saphán escriba declaró al rey, diciendo: Hilcías el sacerdote me ha dado un libro. Y leyólo Saphán delante del rey. 
 
-
 ^11^ Y cuando el rey hubo oído las palabras del libro de la ley, rasgó sus vestidos. ^12^ Luego mandó el rey á Hilcías el sacerdote, y á Ahicam hijo de Saphán, y á Achbor hijo de Michâía, y á Saphán escriba, y á Asaía siervo del rey, diciendo: ^13^ Id, y preguntad á Jehová por mí, y por el pueblo, y por todo Judá, acerca de las palabras de este libro que se ha hallado: porque grande ira de Jehová es la que ha sido encendida contra nosotros, por cuanto nuestros padres no escucharon las palabras de este libro, para hacer conforme á todo lo que nos fué escrito. 
-
 
 
 ## Interrogatorio y respuesta de la profetisa Hulda
@@ -1082,7 +900,6 @@
 ## Josías limpia el templo y todo el culto público
 ^4^ Entonces mandó el rey al sumo sacerdote Hilcías, y á los sacerdotes de segundo orden, y á los guardianes de la puerta, que sacasen del templo de Jehová todos los vasos que habían sido hechos para Baal, y para el bosque, y para toda la milicia del cielo; y quemólos fuera de Jerusalem en el campo de Cedrón, é hizo llevar las cenizas de ellos á Beth-el. ^^ ^5^ Y quitó á los Camoreos, que habían puesto los reyes de Judá para que quemasen perfumes en los altos en las ciudades de Judá, y en los alrededores de Jerusalem; y asimismo á los que quemaban perfumes á Baal, al sol y á la luna, y á los signos, y á todo el ejército del cielo. ^6^ Hizo también sacar el bosque fuera de la casa de Jehová, fuera de Jerusalem, al torrente de Cedrón, y quemólo en el torrente de Cedrón, y tornólo en polvo, y echó el polvo de él sobre los sepulcros de los hijos del pueblo. ^7^ Además derribó las casas de los sodomitas que estaban en la casa de Jehová, en las cuales tejían las mujeres pabellones para el bosque. ^^ ^8^ E hizo venir todos los sacerdotes de las ciudades de Judá, y profanó los altos donde los sacerdotes quemaban perfumes, desde Gabaa hasta Beer-seba; y derribó los altares de las puertas que estaban á la entrada de la puerta de Josué, gobernador de la ciudad, que estaban á la mano izquierda, á la puerta de la ciudad. ^9^ Empero los sacerdotes de los altos no subían al altar de Jehová en Jerusalem, mas comían panes sin levadura entre sus hermanos. ^10^ Asimismo profanó á Topheth, que está en el valle del hijo de Hinnom, porque ninguno pasase su hijo ó su hija por fuego á Moloch. ^11^ Quitó también los caballos que los reyes de Judá habían dedicado al sol á la entrada del templo de Jehová, junto á la cámara de Nathan-melech eunuco, el cual tenía cargo de los ejidos; y quemó al fuego los carros del sol. ^12^ Derribó además el rey los altares que estaban sobre la techumbre de la sala de Achâz, que los reyes de Judá habían hecho, y los altares que había hecho Manasés en los dos atrios de la casa de Jehová; y de allí corrió y arrojó el polvo en el torrente de Cedrón. ^^ ^13^ Asimismo profanó el rey los altos que estaban delante de Jerusalem, á la mano derecha del monte de la destrucción, los cuales Salomón rey de Israel había edificado á Astharoth, abominación de los Sidonios, y á Chêmos abominación de Moab, y á Milcom abominación de los hijos de Ammón. ^^ ^14^ Y quebró las estatuas, y taló los bosques, é hinchió el lugar de ellos de huesos de hombres. 
 
-
 ^[**23:4** 2Re 21,3] ^[**23:7** 1Re 14,24] ^[**23:12** 2Re 16,10-11; 2Re 21,4-5; 2Cró 28,24] ^[**23:13** 1Re 11,7]
 
 ## El juicio de Josías en Betel y contra el servicio en las alturas en Samaria
@@ -1093,10 +910,8 @@
 ^18^ Y él dijo: Dejadlo; ninguno mueva sus huesos: y así fueron preservados sus huesos, y los huesos del profeta que había venido de Samaria. ^19^ Y todas las casas de los altos que estaban en las ciudades de Samaria, las cuales habían hecho los reyes de Israel para provocar á ira, quitólas también Josías, é hizo de ellas como había hecho en Beth-el. ^20^ Mató además sobre los altares á todos los sacerdotes de los altos que allí estaban, y quemó sobre ellos huesos de hombres, y volvióse á Jerusalem. 
 
 
-
 ## Celebración estricta de la Pascua
 ^21^ Entonces mandó el rey á todo el pueblo, diciendo: Haced la pascua á Jehová vuestro Dios, conforme á lo que está escrito en el libro de esta alianza. ^22^ No fué hecha tal pascua desde los tiempos de los jueces que gobernaron á Israel, ni en todos los tiempos de los reyes de Israel, y de los reyes de Judá. ^23^ A los diez y ocho años del rey Josías fué hecha aquella pascua á Jehová en Jerusalem. 
-
 
 
 ## Actuar contra la idolatría en la vida privada; Persistencia de la ira divina contra Judá
@@ -1123,14 +938,11 @@
 # 24 
 ^1^ En su tiempo subió Nabucodonosor rey de Babilonia, al cual sirvió Joacim tres años; volvióse luego, y se rebeló contra él. ^2^ Jehová empero envió contra él tropas de Caldeos, y tropas de Siros, y tropas de Moabitas, y tropas de Ammonitas; los cuales envió contra Judá para que la destruyesen, conforme á la palabra de Jehová que había hablado por sus siervos los profetas. ^3^ Ciertamente vino esto contra Judá por dicho de Jehová, para quitarla de su presencia, por los pecados de Manasés, conforme á todo lo que hizo; ^4^ Asimismo por la sangre inocente que derramó, pues hinchió á Jerusalem de sangre inocente: Jehová por tanto, no quiso perdonar. ^5^ Lo demás de los hechos de Joacim, y todas las cosas que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Judá? ^6^ Y durmió Joacim con sus padres, y reinó en su lugar Joachîn su hijo. 
 
-
 ^7^ Y nunca más el rey de Egipto salió de su tierra: porque el rey de Babilonia le tomó todo lo que era suyo, desde el río de Egipto hasta el río de Eufrates. 
-
 
 
 ## Joaquín de Judá; la primera conquista de Jerusalén y la primera ruta a Babilonia
 ^8^ De dieciocho años era Joachîn cuando comenzó á reinar, y reinó en Jerusalem tres meses. El nombre de su madre fué Neusta hija de Elnathán, de Jerusalem. ^9^ E hizo lo malo en ojos de Jehová, conforme á todas las cosas que había hecho su padre. ^^ ^10^ En aquel tiempo subieron los siervos de Nabucodonosor rey de Babilonia contra Jerusalem, y la ciudad fué cercada. ^11^ Vino también Nabucodonosor rey de Babilonia contra la ciudad, cuando sus siervos la tenían cercada. ^12^ Entonces salió Joachîn rey de Judá al rey de Babilonia, él, y su madre, y sus siervos, y sus príncipes, y sus eunucos: y prendiólo el rey de Babilonia en el octavo año de su reinado. ^13^ Y sacó de allí todos los tesoros de la casa de Jehová, y los tesoros de la casa real, y quebró en piezas todos los vasos de oro que había hecho Salomón rey de Israel en la casa de Jehová, como Jehová había dicho. ^14^ Y llevó en cautiverio á toda Jerusalem, á todos los príncipes, y á todos los hombres valientes, hasta diez mil cautivos, y á todos los oficiales y herreros; que no quedó nadie, excepto los pobres del pueblo de la tierra. ^15^ Asimismo trasportó á Joachîn á Babilonia, y á la madre del rey, y á las mujeres del rey, y á sus eunucos, y á los poderosos de la tierra; cautivos los llevó de Jerusalem á Babilonia. ^^ ^16^ A todos los hombre de guerra, que fueron siete mil, y á los oficiales y herreros, que fueron mil, y á todos los valientes para hacer la guerra, llevó cautivos el rey de Babilonia. ^17^ Y el rey de Babilonia puso por rey en lugar de Joachîn á Mathanías su tío, y mudóle el nombre en el de Sedecías. 
-
 
 ^[**24:9** 2Re 23,37] ^[**24:15** Jer 22,26; Jer 24,1; 2Re 25,27]
 
@@ -1143,10 +955,8 @@
 ^1^ Y aconteció á los nueve años de su reinado, en el mes décimo, á los diez del mes, que Nabucodonosor rey de Babilonia vino con todo su ejército contra Jerusalem, y cercóla; y levantaron contra ella ingenios alrededor. ^2^ Y estuvo la ciudad cercada hasta el undécimo año del rey Sedecías. ^3^ A los nueve del mes prevaleció el hambre en la ciudad, que no hubo pan para el pueblo de la tierra. ^4^ Abierta ya la ciudad, huyeron de noche todos los hombres de guerra por el camino de la puerta que estaba entre los dos muros, junto á los huertos del rey, estando los Caldeos alrededor de la ciudad; y el rey se fué camino de la campiña. ^5^ Y el ejército de los Caldeos siguió al rey, y tomólo en las llanuras de Jericó, habiéndose esparcido de él todo su ejército. ^6^ Tomado pues el rey, trajéronle al rey de Babilonia á Ribla, y profirieron contra él sentencia. ^7^ Y degollaron á los hijos de Sedecías en presencia suya; y á Sedecías sacaron los ojos, y atado con cadenas lleváronlo á Babilonia. 
 
 
-
 ## Conquista y destrucción de Jerusalén; Saqueo e incendio del templo; Traslado de habitantes a Babilonia; Ejecuciones en Ribla
 ^8^ En el mes quinto, á los siete del mes, siendo el año diecinueve de Nabucodonosor rey de Babilonia, vino á Jerusalem Nabuzaradán, capitán de los de la guardia, siervo del rey de Babilonia. ^9^ Y quemó la casa de Jehová, y la casa del rey, y todas las casas de Jerusalem; y todas las casas de los príncipes quemó á fuego. ^10^ Y todo el ejército de los Caldeos que estaba con el capitán de la guardia, derribó los muros de Jerusalem alrededor. ^11^ Y á los del pueblo que habían quedado en la ciudad, y á los que se habían juntado al rey de Babilonia, y á los que habían quedado del vulgo, trasportólos Nabuzaradán, capitán de los de la guardia. ^12^ Mas de los pobres de la tierra dejó Nabuzaradán, capitán de los de la guardia, para que labrasen las viñas y las tierras. 
-
 
 ^13^ Y quebraron los Caldeos las columnas de bronce que estaban en la casa de Jehová, y las basas, y el mar de bronce que estaba en la casa de Jehová, y llevaron el metal de ello á Babilonia. ^14^ Lleváronse también los calderos, y las paletas, y las tenazas, y los cucharones, y todos los vasos de metal con que ministraban. ^15^ Incensarios, cuencos, los que de oro, en oro, y los que de plata, en plata, todo lo llevó el capitán de los de la guardia; ^16^ Las dos columnas, un mar, y las basas que Salomón había hecho para la casa de Jehová: no había peso de todos estos vasos. ^^ ^17^ La altura de la una columna era diez y ocho codos y tenía encima un capitel de bronce, y la altura del capitel era de tres codos; y sobre el capitel había un enredado y granadas alrededor, todo de bronce: y semejante obra había en la otra columna con el enredado. 
 
@@ -1155,13 +965,10 @@
 ^18^ Tomó entonces el capitán de los de la guardia á Saraías primer sacerdote, y á Sophonías segundo sacerdote, y tres guardas de la vajilla; ^19^ Y de la ciudad tomó un eunuco, el cual era maestre de campo, y cinco varones de los continuos del rey, que se hallaron en la ciudad; y al principal escriba del ejército, que hacía la reseña de la gente del país; y sesenta varones del pueblo de la tierra, que se hallaron en la ciudad. ^20^ Estos tomó Nabuzaradán, capitán de los de la guardia, y llevólos á Ribla al rey de Babilonia. ^21^ Y el rey de Babilonia los hirió y mató en Ribla, en tierra de Hamath. Así fué trasportado Judá de sobre su tierra. 
 
 
-
 ## Gedalja, gobernador designado, reúne a los judíos en una colonia en Mizpa. Después de su asesinato, los judíos emigran a Egipto
 ^22^ Y al pueblo que Nabucodonosor rey de Babilonia dejó en tierra de Judá, puso por gobernador á Gedalías, hijo de Ahicam hijo de Saphán. ^23^ Y oyendo todos los príncipes del ejército, ellos y su gente, que el rey de Babilonia había puesto por gobernador á Gedalías, viniéronse á él en Mizpa, es á saber, Ismael hijo de Nathanías, y Johanán hijo de Carea, y Saraía hijo de Tanhumet Netofatita, y Jaazanías hijo de Maachâti, ellos con los suyos. ^24^ Entonces Gedalías les hizo juramento, á ellos y á los suyos, y díjoles: No temáis de ser siervos de los Caldeos; habitad en la tierra, y servid al rey de Babilonia, y os irá bien. 
 
-
 ^25^ Mas en el mes séptimo vino Ismael hijo de Nathanías, hijo de Elisama, de la estirpe real, y con él diez varones, é hirieron á Gedalías, y murió: y también á los Judíos y Caldeos que estaban con él en Mizpa. ^26^ Y levantándose todo el pueblo, desde el menor hasta el mayor, con los capitanes del ejército, fuéronse á Egipto por temor de los Caldeos. 
-
 
 
 ## Jojachín indultado tras treinta y siete años de prisión

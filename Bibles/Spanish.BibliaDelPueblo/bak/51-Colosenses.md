@@ -3,10 +3,8 @@
 ^1^ Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, ^2^ A los santos y hermanos fieles en Cristo que están en Colosas: Gracia y paz á vosotros de Dios Padre nuestro, y del Señor Jesucristo. 
 
 
-
 ## Acción de gracias por el buen estado cristiano (fe, amor y conocimiento) de la iglesia
 ^3^ Damos gracias al Dios y Padre del Señor nuestro Jesucristo, siempre orando por vosotros: ^4^ Habiendo oído vuestra fe en Cristo Jesús, y el amor que tenéis á todos los santos, ^5^ A causa de la esperanza que os está guardada en los cielos, de la cual habéis oído ya por la palabra verdadera del evangelio: ^6^ El cual ha llegado hasta vosotros, como por todo el mundo; y fructifica y crece, como también en vosotros, desde el día que oísteis y conocisteis la gracia de Dios en verdad, ^7^ Como habéis aprendido de Epafras, nuestro consiervo amado, el cual es un fiel ministro de Cristo á favor vuestro; ^^ ^8^ El cual también nos ha declarado vuestro amor en el Espíritu. 
-
 
 ^[**1:7** Col 4,12; Filem 1,23]
 
@@ -29,7 +27,6 @@
 ## Referencia a la bendición que recibieron los colosenses por la predicación del mensaje de salvación; Recordatorio para perseverar
 ^21^ A vosotros también, que erais en otro tiempo extraños y enemigos de ánimo en malas obras, ahora empero os ha reconciliado ^^ ^22^ En el cuerpo de su carne por medio de muerte, para haceros santos, y sin mancha, é irreprensibles delante de él: ^^ ^23^ Si empero permanecéis fundados y firmes en la fe, y sin moveros de la esperanza del evangelio que habéis oído; el cual es predicado á toda criatura que está debajo del cielo; del cual yo Pablo soy hecho ministro. 
 
-
 ^[**1:21** Rom 5,10; Efes 2,12-13; Efes 4,18] ^[**1:22** Efes 5,27]
 
 ## El llamado de Pablo y su derecho a trabajar como apóstol gentil en la predicación del concilio de salvación de Dios a pesar de todos los sufrimientos y luchas duras
@@ -51,9 +48,7 @@
 
 ^6^ Por tanto, de la manera que habéis recibido al Señor Jesucristo, andad en él: ^7^ Arraigados y sobreedificados en él, y confirmados en la fe, así como habéis aprendido, creciendo en ella con hacimiento de gracias. 
 
-
 ^8^ Mirad que ninguno os engañe por filosofías y vanas sutilezas, según las tradiciones de los hombres, conforme á los elementos del mundo, y no según Cristo: 
-
 
 
 ## Por el mérito de Cristo has logrado la salvación, y en Cristo (muerto, sepultado y resucitado con él) eres liberado del dominio de los poderes espirituales
@@ -86,7 +81,6 @@
 ## Atrae lo que viene de arriba
 ^12^ Vestíos pues, como escogidos de Dios, santos y amados, de entrañas de misericordia, de benignidad, de humildad, de mansedumbre, de tolerancia; ^13^ Sufriéndoos los unos á los otros, y perdonándoos los unos á los otros si alguno tuviere queja del otro: de la manera que Cristo os perdonó, así también hacedlo vosotros. 
 
-
 ^14^ Y sobre todas estas cosas vestíos de caridad, la cual es el vínculo de la perfección. ^^ ^15^ Y la paz de Dios gobierne en vuestros corazones, á la cual asimismo sois llamados en un cuerpo; y sed agradecidos. ^^ ^16^ La palabra de Cristo habite en vosotros en abundancia en toda sabiduría, enseñándoos y exhortándoos los unos á los otros con salmos é himnos y canciones espirituales, con gracia cantando en vuestros corazones al Señor. 
 ^^ 
 ^[**3:14** Rom 13,8; Rom 13,10] ^[**3:15** 1Cor 12,13; 1Cor 12,27; Efes 4,3-4; Fil 4,7] ^[**3:16** Efes 5,19]
@@ -107,9 +101,7 @@
 
 ^20^ Hijos, obedeced á vuestros padres en todo; porque esto agrada al Señor. 
 
-
 ^21^ Padres, no irritéis á vuestros hijos, porque no se hagan de poco ánimo. 
-
 
 ^22^ Siervos, obedeced en todo á vuestros amos carnales, no sirviendo al ojo, como los que agradan á los hombres, sino con sencillez de corazón, temiendo á Dios: ^23^ Y todo lo que hagáis, hacedlo de ánimo, como al Señor, y no á los hombres; ^24^ Sabiendo que del Señor recibiréis la compensación de la herencia: porque al Señor Cristo servís. ^25^ Mas el que hace injuria, recibirá la injuria que hiciere; que no hay acepción de personas. ^^ 
 ^[**3:25** Rom 2,11] 

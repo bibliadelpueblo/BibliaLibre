@@ -3,15 +3,12 @@
 ^1^ Canción de canciones, la cual es de Salomón. ^2^ ¡Oh si él me besara con ósculos de su boca! porque mejores son tus amores que el vino. ^3^ Por el olor de tus suaves ungüentos, (ungüento derramado es tu nombre,) por eso las doncellas te amaron. ^4^ Llévame en pos de ti, correremos. Metióme el rey en sus cámaras: nos gozaremos y alegraremos en ti; acordarémonos de tus amores más que del vino: los rectos te aman. 
 
 
-
 ## Queja de belleza de niña en riesgo
 ^5^ Morena soy, oh hijas de Jerusalem, mas codiciable; como las cabañas de Cedar, como las tiendas de Salomón. ^6^ No miréis en que soy morena, porque el sol me miró. Los hijos de mi madre se airaron contra mí, hiciéronme guarda de viñas; y mi viña, que era mía, no guardé. 
 
 
-
 ## TSolicitud de la novia para una cita
 ^7^ Hazme saber, ó tú á quien ama mi alma, dónde repastas, dónde haces tener majada al medio día: porque, ¿por qué había yo de estar como vagueando tras los rebaños de tus compañeros? ^8^ Si tú no lo sabes, oh hermosa entre las mujeres, sal, yéndote por las huellas del rebaño, y apacienta tus cabritas junto á las cabañas de los pastores. 
-
 
 
 ## Dulce charla de amor
@@ -40,7 +37,6 @@
 ## Sueño anhelante de la novia
 ^1^ Por las noches busqué en mi lecho al que ama mi alma: busquélo, y no lo hallé. ^^ ^2^ Levantaréme ahora, y rodearé por la ciudad; por las calles y por las plazas buscaré al que ama mi alma: busquélo, y no lo hallé. ^3^ Halláronme los guardas que rondan la ciudad, y díjeles: ¿Habéis visto al que ama mi alma? ^4^ Pasando de ellos un poco, hallé luego al que mi alma ama: trabé de él, y no lo dejé, hasta que lo metí en casa de mi madre, y en la cámara de la que me engendró. ^^ ^5^ Yo os conjuro, oh doncellas de Jerusalem, por las gamas y por las ciervas del campo, que no despertéis ni hagáis velar al amor, hasta que quiera. 
 
-
 ^[**3:1** Cant 5,6] ^[**3:4** Cant 8,2]
 
 ## La procesión nupcial del novio
@@ -57,7 +53,6 @@
 ^8^ Conmigo del Líbano, oh esposa, conmigo ven del Líbano: mira desde la cumbre de Amana, desde la cumbre de Senir y de Hermón, desde las guaridas de los leones, desde los montes de los tigres. ^9^ Prendiste mi corazón, hermana, esposa mía; has preso mi corazón con uno de tus ojos, con una gargantilla de tu cuello. ^10^ ¡Cuán hermosos son tus amores, hermana, esposa mía! ¡cuánto mejores que el vino tus amores, y el olor de tus ungüentos que todas las especias aromáticas! ^11^ Como panal de miel destilan tus labios, oh esposa; miel y leche hay debajo de tu lengua; y el olor de tus vestidos como el olor del Líbano. 
 
 
-
 ## Comparación de la esposa de la novia con un maravilloso jardín
 ^12^ Huerto cerrado eres, mi hermana, esposa mía; fuente cerrada, fuente sellada. ^13^ Tus renuevos paraíso de granados, con frutos suaves, de cámphoras y nardos, ^14^ Nardo y azafrán, caña aromática y canela, con todos los árboles de incienso; mirra y áloes, con todas las principales especias. ^15^ Fuente de huertos, pozo de aguas vivas, que corren del Líbano. ^16^ Levántate, Aquilón, y ven, Austro: sopla mi huerto, despréndanse sus aromas. Venga mi amado á su huerto, y coma de su dulce fruta. 
 
@@ -70,7 +65,6 @@
 
 ## Besuch des Bräutigams
 ^2^ Yo dormía, pero mi corazón velaba: la voz de mi amado que llamaba: Abreme, hermana mía, amiga mía, paloma mía, perfecta mía; porque mi cabeza está llena de rocío, mis cabellos de las gotas de la noche. ^^ ^3^ Heme desnudado mi ropa; ¿cómo la tengo de vestir? He lavado mis pies; ¿cómo los tengo de ensuciar? ^4^ Mi amado metió su mano por el agujero, y mis entrañas se conmovieron dentro de mí. ^5^ Yo me levanté para abrir á mi amado, y mis manos gotearon mirra, y mis dedos mirra que corría sobre las aldabas del candado. ^6^ Abrí yo á mi amado; mas mi amado se había ido, había ya pasado: y tras su hablar salió mi alma: busquélo, y no lo hallé; llamélo, y no me respondió. ^^ ^7^ Halláronme los guardas que rondan la ciudad: hiriéronme, llagáronme, quitáronme mi manto de encima los guardas de los muros. 
-
 
 ^[**5:2** Cant 6,9] ^[**5:6** Cant 3,1]
 
@@ -98,12 +92,10 @@
 ## Descripción del baile de la novia; Alabado sea su belleza
 ^1^ ¡Cuán hermosos son tus pies en los calzados, oh hija de príncipe! Los contornos de tus muslos son como joyas, obra de mano de excelente maestro. ^2^ Tu ombligo, como una taza redonda, que no le falta bebida. Tu vientre, como montón de trigo, cercado de lirios. ^3^ Tus dos pechos, como dos cabritos mellizos de gama. ^4^ Tu cuello, como torre de marfil; tus ojos, como las pesqueras de Hesbón junto á la puerta de Batrabbim; tu nariz, como la torre del Líbano, que mira hacia Damasco. ^^ ^5^ Tu cabeza encima de ti, como el Carmelo; y el cabello de tu cabeza, como la púrpura del rey ligada en los corredores. ^^ ^6^ ¡Qué hermosa eres, y cuán suave, oh amor deleitoso! 
 
-
 ^[**7:4** Cant 4,5] ^[**7:5** Cant 4,4]
 
 ## El novio alaba a la novia
 ^7^ ¡Y tu estatura es semejante á la palma, y tus pechos á los racimos! ^^ ^8^ Yo dije: Subiré á la palma, asiré sus ramos: y tus pechos serán ahora como racimos de vid, y el olor de tu boca como de manzanas; ^9^ Y tu paladar como el buen vino, que se entra á mi amado suavemente, y hace hablar los labios de los viejos. 
-
 
 ^[**7:7** Cant 1,15; Cant 2,14]
 
@@ -122,10 +114,8 @@
 ^5^ ¿Quién es ésta que sube del desierto, recostada sobre su amado? Debajo de un manzano te desperté: allí tuvo tu madre dolores, allí tuvo dolores la que te parió. ^6^ Ponme como un sello sobre tu corazón, como una marca sobre tu brazo: porque fuerte es como la muerte el amor; duro como el sepulcro el celo: sus brasas, brasas de fuego, fuerte llama. ^7^ Las muchas aguas no podrán apagar el amor, ni lo ahogarán los ríos. Si diese el hombre toda la hacienda de su casa por este amor, de cierto lo menospreciaran. 
 
 
-
 ## Canción de la hermana pequeña que frustró los planes de los codiciosos hermanos
 ^8^ Tenemos una pequeña hermana, que no tiene pechos: ¿qué haremos á nuestra hermana cuando de ella se hablare? ^9^ Si ella es muro, edificaremos sobre él un palacio de plata: y si fuere puerta, la guarneceremos con tablas de cedro. ^10^ Yo soy muro, y mis pechos como torres, desde que fuí en sus ojos como la que halla paz. 
-
 
 
 ## Canción de los dos viñedos

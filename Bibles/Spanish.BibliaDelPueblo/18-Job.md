@@ -7,34 +7,26 @@
 ^5^ Y acontecía que, habiendo pasado en turno los días del convite, Job enviaba y santificábalos, y levantábase de mañana y ofrecía holocaustos conforme al número de todos ellos. Porque decía Job: Quizá habrán pecado mis hijos, y habrán blasfemado á Dios en sus corazones. De esta manera hacía todos los días.
 
 ## Conversación y acuerdo entre Dios y Satanás en el primer encuentro de los hijos de Dios
- 
 ^6^ Y un día vinieron los hijos de Dios á presentarse delante de Jehová, entre los cuales vino también Satán. 
 ^7^ Y dijo Jehová á Satán: ¿De dónde vienes? Y respondiendo Satán á Jehová, dijo: De rodear la tierra, y de andar por ella.
 
- 
 ^8^ Y Jehová dijo á Satán: ¿No has considerado á mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios, y apartado de mal?
 
- 
 ^9^ Y respondiendo Satán á Jehová, dijo: ¿Teme Job á Dios de balde? 
 ^10^ ¿No le has tú cercado á él, y á su casa, y á todo lo que tiene en derredor? Al trabajo de sus manos has dado bendición; por tanto su hacienda ha crecido sobre la tierra. 
 ^11^ Mas extiende ahora tu mano, y toca á todo lo que tiene, y verás si no te blasfema en tu rostro.
 
- 
 ^12^ Y dijo Jehová á Satán: He aquí, todo lo que tiene está en tu mano: solamente no pongas tu mano sobre él. Y salióse Satán de delante de Jehová.
 
 ## Destrucción de la fortuna externa de Job
- 
 ^13^ Y un día aconteció que sus hijos é hijas comían y bebían vino en casa de su hermano el primogénito, 
 ^14^ Y vino un mensajero á Job, que le dijo: Estando arando los bueyes, y las asnas paciendo cerca de ellos, 
 ^15^ Acometieron los Sabeos, y tomáronlos, é hirieron á los mozos á filo de espada: solamente escapé yo para traerte las nuevas.
 
- 
 ^16^ Aun estaba éste hablando, y vino otro que dijo: Fuego de Dios cayó del cielo, que quemó las ovejas y los mozos, y los consumió: solamente escapé yo solo para traerte las nuevas.
 
- 
 ^17^ Todavía estaba éste hablando, y vino otro que dijo: Los Caldeos hicieron tres escuadrones, y dieron sobre los camellos, y tomáronlos, é hirieron á los mozos á filo de espada; y solamente escapé yo solo para traerte las nuevas.
 
- 
 ^18^ Entre tanto que éste hablaba, vino otro que dijo: Tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de su hermano el primogénito; 
 ^19^ Y he aquí un gran viento que vino del lado del desierto, é hirió las cuatro esquinas de la casa, y cayó sobre los mozos, y murieron; y solamente escapé yo solo para traerte las nuevas. 
 ^20^ Entonces Job se levantó, y rasgó su manto, y trasquiló su cabeza, y cayendo en tierra adoró; 
@@ -46,27 +38,21 @@
 ^1^ Y otro día aconteció que vinieron los hijos de Dios para presentarse delante de Jehová, y Satán vino también entre ellos pareciendo delante de Jehová. 
 ^2^ Y dijo Jehová á Satán: ¿De dónde vienes? Respondió Satán á Jehová, y dijo: De rodear la tierra, y de andar por ella.
 
- 
 ^3^ Y Jehová dijo á Satán: ¿No has considerado á mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado de mal, y que aun retiene su perfección, habiéndome tú incitado contra él, para que lo arruinara sin causa?
 
- 
 ^4^ Y respondiendo Satán dijo á Jehová: Piel por piel, todo lo que el hombre tiene dará por su vida. 
 ^5^ Mas extiende ahora tu mano, y toca á su hueso y á su carne, y verás si no te blasfema en tu rostro.
 
- 
 ^6^ Y Jehová dijo á Satán: He aquí, él está en tu mano; mas guarda su vida.
 
 ## Job, incluso enfermo de lepra, sigue siendo inquebrantablemente piadoso a pesar de la tentación de su esposa
- 
 ^7^ Y salió Satán de delante de Jehová, é hirió á Job de una maligna sarna desde la planta de su pie hasta la mollera de su cabeza. 
 ^8^ Y tomaba una teja para rascarse con ella, y estaba sentado en medio de ceniza. 
 ^9^ Díjole entonces su mujer: ¿Aun retienes tú tu simplicidad? Bendice á Dios, y muérete.
 
- 
 ^10^ Y él le dijo: Como suele hablar cualquiera de las mujeres fatuas, has hablado. También recibimos el bien de Dios, ¿y el mal no recibiremos? En todo esto no pecó Job con sus labios.
 
 ## Los tres amigos de Job guardan silencio con horror cuando visitan; El estallido de dolor de Job
- 
 ^11^ Y tres amigos de Job, Eliphaz Temanita, y Bildad Suhita, y Sophar Naamathita, luego que oyeron todo este mal que le había sobrevenido, vinieron cada uno de su lugar; porque habían concertado de venir juntos á condolecerse de él, y á consolarle. 
 ^12^ Los cuales alzando los ojos desde lejos, no lo conocieron, y lloraron á voz en grito; y cada uno de ellos rasgó su manto, y esparcieron polvo sobre sus cabezas hacia el cielo. 
 ^13^ Así se sentaron con él en tierra por siete días y siete noches, y ninguno le hablaba palabra, porque veían que el dolor era muy grande. 
@@ -109,7 +95,6 @@
 ^5^ Mas ahora que el mal sobre ti ha venido, te es duro; y cuando ha llegado hasta ti, te turbas.
 
 ## Job debe recordar que nadie sufre inocentemente y que solo los malhechores perecen
- 
 ^6^ ¿Es este tu temor, tu confianza, tu esperanza, y la perfección de tus caminos? 
 ^7^ Recapacita ahora, ¿quién que fuera inocente se perdiera? y ¿en dónde los rectos fueron cortados? 
 ^8^ Como yo he visto, los que aran iniquidad y siembran injuria, la siegan. 
@@ -118,7 +103,6 @@
 ^11^ El león viejo perece por falta de presa, y los hijos del león son esparcidos.
 
 ## Eliphaz sabe a través de una aparición nocturna que ante Dios nadie está libre de culpa
- 
 ^12^ El negocio también me era á mí oculto; mas mi oído ha percibido algo de ello. 
 ^13^ En imaginaciones de visiones nocturnas, cuando el sueño cae sobre los hombres, 
 ^14^ Sobrevínome un espanto y un temblor, que estremeció todos mis huesos: 
@@ -141,7 +125,6 @@
 ^7^ Empero como las centellas se levantan para volar por el aire, así el hombre nace para la aflicción.
 
 ## Job solo puede obtener la salvación mediante la humildad y la invocación de la bondad de Dios
- 
 ^8^ Ciertamente yo buscaría á Dios, y depositaría en él mis negocios: 
 ^9^ El cual hace cosas grandes é inescrutables, y maravillas que no tienen cuento: 
 ^10^ Que da la lluvia sobre la haz de la tierra, y envía las aguas por los campos: 
@@ -153,7 +136,6 @@
 ^16^ Pues es esperanza al menesteroso, y la iniquidad cerrará su boca.
 
 ## Si Job cede al castigo de Dios, la visitación será beneficiosa para toda su vida futura
- 
 ^17^ He aquí, bienaventurado es el hombre á quien Dios castiga: por tanto no menosprecies la corrección del Todopoderoso. 
 ^18^ Porque él es el que hace la llaga, y él la vendará: él hiere, y sus manos curan. 
 ^19^ En seis tribulaciones te librará, y en la séptima no te tocará el mal. 
@@ -177,7 +159,6 @@
 ^7^ Las cosas que mi alma no quería tocar, por los dolores son mi comida.
 
 ## Job desea ser redimido de sus sufrimientos y absoluta impotencia mediante una muerte rápida
- 
 ^8^ ¡Quién me diera que viniese mi petición, y que Dios me otorgase lo que espero; 
 ^9^ Y que pluguiera á Dios quebrantarme; que soltara su mano, y me deshiciera! 
 ^10^ Y sería aún mi consuelo, si me asaltase con dolor sin dar más tregua, que yo no he escondido las palabras del Santo. 
@@ -186,7 +167,6 @@
 ^13^ ¿No me ayudo cuanto puedo, y el poder me falta del todo?
 
 ## La queja de Job por los insultos y la decepción causada por sus amigos
- 
 ^14^ El atribulado es consolado de su compañero: mas hase abandonado el temor del Omnipotente. 
 ^15^ Mis hermanos han mentido cual arroyo: pasáronse como corrientes impetuosas, 
 ^16^ Que están escondidas por la helada, y encubiertas con nieve; 
@@ -199,7 +179,6 @@
 ^23^ Y libradme de la mano del opresor, y redimidme del poder de los violentos?
 
 ## Job exige que se le llame pecador solo si hay una indicación específica de deuda maliciosa
- 
 ^24^ Enseñadme, y yo callaré: y hacedme entender en qué he errado. 
 ^25^ ¡Cuán fuertes son las palabras de rectitud! Mas ¿qué reprende el que reprende de vosotros? 
 ^26^ ¿Pensáis censurar palabras, y los discursos de un desesperado, que son como el viento? 
@@ -222,7 +201,6 @@
 ^10^ No tornará más á su casa, ni su lugar le conocerá más.
 
 ## Job declara justificada su queja y la conducta de Dios contra él, que está cerca de la muerte, despiadada; su petición a Dios de protección
- 
 ^11^ Por tanto yo no reprimiré mi boca; hablaré en la angustia de mi espíritu, y quejaréme con la amargura de mi alma. 
 ^12^ ¿Soy yo la mar, ó ballena, que me pongas guarda? 
 ^13^ Cuando digo: Mi cama me consolará, mi cama atenuará mis quejas; 
@@ -246,7 +224,6 @@
 ^7^ Y tu principio habrá sido pequeño, y tu postrimería acrecerá en gran manera.
 
 ## La experiencia y la tradición de los Padres testifican la caída segura de los impíos
- 
 ^8^ Porque pregunta ahora á la edad pasada, y disponte para inquirir de sus padres de ellos; 
 ^9^ Pues nosotros somos de ayer, y no sabemos, siendo nuestros días sobre la tierra como sombra. 
 ^10^ ¿No te enseñarán ellos, te dirán, y de su corazón sacarán palabras? 
@@ -261,7 +238,6 @@
 ^19^ Ciertamente éste será el gozo de su camino; y de la tierra de donde se traspusiere, nacerán otros.
 
 ## Una perspectiva reconfortante: si Job se aparta de un ser impío, será bendecido nuevamente por Dios
- 
 ^20^ He aquí, Dios no aborrece al perfecto, ni toma la mano de los malignos. 
 ^21^ Aun henchirá tu boca de risa, y tus labios de júbilo. 
 ^22^ Los que te aborrecen, serán vestidos de confusión; y la habitación de los impíos perecerá. 
@@ -282,7 +258,6 @@
 ^12^ He aquí, arrebatará; ¿quién le hará restituir? ¿Quién le dirá, Qué haces?
 
 ## Hiob würde, selbst wenn er im Recht wäre, bei einem Rechtsstreit mit Gott als schuldig dastehen
- 
 ^13^ Dios no tornará atrás su ira, y debajo de él se encorvan los que ayudan á los soberbios. 
 ^14^ ¿Cuánto menos le responderé yo, y hablaré con él palabras estudiadas? 
 ^15^ Que aunque fuese yo justo, no responderé; antes habré de rogar á mi juez. 
@@ -293,7 +268,6 @@
 ^20^ Si yo me justificare, me condenará mi boca; si me dijere perfecto, esto me hará inicuo.
 
 ## Para cambiar la vida agonizante por la muerte, Job pronuncia conscientemente la blasfemia de que Dios actúa arbitrariamente contra los piadosos y contra los pecadores
- 
 ^21^ Bien que yo fuese íntegro, no conozco mi alma: reprocharé mi vida. 
 ^22^ Una cosa resta que yo diga: Al perfecto y al impío él los consume. 
 ^23^ Si azote mata de presto, ríese de la prueba de los inocentes. 
@@ -304,7 +278,6 @@
 ^28^ Contúrbanme todos mis trabajos; sé que no me darás por libre.
 
 ## Dios no quiere aceptar la ley de Job, de lo contrario Job le gustaría hablar con él
- 
 ^29^ Yo soy impío, ¿para qué trabajaré en vano? 
 ^30^ Aunque me lave con aguas de nieve, y limpie mis manos con la misma limpieza, 
 ^31^ Aun me hundirás en el hoyo, y mis propios vestidos me abominarán. 
@@ -324,7 +297,6 @@
 ^7^ Sobre saber tú que no soy impío, y que no hay quien de tu mano libre?
 
 ## Dios preparó hábilmente a Job y antes le mostró amor y bondad, pero desde el principio lo quiso decir con hostilidad
- 
 ^8^ Tus manos me formaron y me compusieron todo en contorno: ¿y así me deshaces? 
 ^9^ Acuérdate ahora que como á lodo me diste forma: ¿y en polvo me has de tornar? 
 ^10^ ¿No me fundiste como leche, y como un queso me cuajaste? 
@@ -337,7 +309,6 @@
 ^17^ Renuevas contra mí tus plagas, y aumentas conmigo tu furor, remudándose sobre mí ejércitos.
 
 ## ¡Que Dios nunca lo haya creado ni le haya dado un pequeño descanso ahora antes de la muerte!
- 
 ^18^ ¿Por qué me sacaste de la matriz? Habría yo espirado, y no me vieran ojos. 
 ^19^ Fuera, como si nunca hubiera sido, llevado desde el vientre á la sepultura. 
 ^20^ ¿No son mis días poca cosa? Cesa pues, y déjame, para que me conforte un poco. 
@@ -359,7 +330,6 @@
 ^11^ Porque él conoce á los hombres vanos: ve asimismo la iniquidad, ¿y no hará caso?
 
 ## Job debe desechar su engaño; a través del arrepentimiento serio todavía puede obtener la salvación mientras el malhechor está perdido
- 
 ^12^ El hombre vano se hará entendido, aunque nazca como el pollino del asno montés. 
 ^13^ Si tú apercibieres tu corazón, y extendieres á él tus manos; 
 ^14^ Si alguna iniquidad hubiere en tu mano, y la echares de ti, y no consintieres que more maldad en tus habitaciones; 
@@ -380,7 +350,6 @@
 ^6^ Prosperan las tiendas de los ladrones, y los que provocan á Dios viven seguros; en cuyas manos él ha puesto cuanto tienen.
 
 ## La omnipotencia y la sabiduría de Dios son testificadas por todas sus criaturas; su conocimiento no es un privilegio de los viejos
- 
 ^7^ Y en efecto, pregunta ahora á las bestias, que ellas te enseñarán; y á las aves de los cielos, que ellas te lo mostrarán: 
 ^8^ O habla á la tierra, que ella te enseñará; los peces de la mar te lo declararán también. 
 ^9^ ¿Qué cosa de todas estas no entiende que la mano de Jehová la hizo? 
@@ -390,7 +359,6 @@
 ^13^ Con Dios está la sabiduría y la fortaleza; suyo es el consejo y la inteligencia.
 
 ## El comportamiento de Dios se presenta al hombre como una regla insensata, terrible y arbitraria de su omnipotencia
- 
 ^14^ He aquí, él derribará, y no será edificado: encerrará al hombre, y no habrá quien le abra. 
 ^15^ He aquí, él detendrá las aguas, y se secarán; él las enviará, y destruirán la tierra. 
 ^16^ Con él está la fortaleza y la existencia; suyo es el que yerra, y el que hace errar. 
@@ -420,7 +388,6 @@
 ^12^ Vuestras memorias serán comparadas á la ceniza, y vuestros cuerpos como cuerpos de lodo.
 
 ## Job entra con confianza en esta batalla legal, siempre que Dios le dé la consideración necesaria manteniendo alejado su horror
- 
 ^13^ Escuchadme, y hablaré yo, y véngame después lo que viniere. 
 ^14^ ¿Por qué quitaré yo mi carne con mis dientes, y pondré mi alma en mi mano? 
 ^15^ He aquí, aunque me matare, en él esperaré; empero defenderé delante de él mis caminos. 
@@ -448,7 +415,6 @@
 ^6^ Si tú lo dejares, él dejará de ser: entre tanto deseará, como el jornalero, su día.
 
 ## Después de la muerte ya no hay esperanza ni futuro para las personas
- 
 ^7^ Porque si el árbol fuere cortado, aun queda de él esperanza; retoñecerá aún, y sus renuevos no faltarán. 
 ^8^ Si se envejeciere en la tierra su raíz, y su tronco fuere muerto en el polvo, 
 ^9^ Al percibir el agua reverdecerá, y hará copa como planta. 
@@ -457,7 +423,6 @@
 ^12^ Así el hombre yace, y no se tornará á levantar: hasta que no haya cielo no despertarán, ni se levantarán de su sueño.
 
 ## Debido a la condición del difunto en el reino de los muertos, Job no puede tener ninguna esperanza de resurrección, de justificación y felicidad, porque todo lo bueno se acaba con la muerte
- 
 ^13^ ¡Oh quién me diera que me escondieses en el sepulcro, que me encubrieras hasta apaciguarse tu ira, que me pusieses plazo, y de mí te acordaras! 
 ^14^ Si el hombre muriere, ¿volverá á vivir? Todos los días de mi edad esperaré, hasta que venga mi mutación. 
 ^15^ Aficionado á la obra de tus manos, llamarás, y yo te responderé. 
@@ -489,7 +454,6 @@
 ^16^ ¿Cuánto menos el hombre abominable y vil, que bebe la iniquidad como agua?
 
 ## Presentación y justificación de la doctrina transmitida por los padres de la desgracia y destrucción de los impíos
- 
 ^17^ Escúchame; yo te mostraré y te contaré lo que he visto: 
 ^18^ (Lo que los sabios nos contaron de sus padres, y no lo encubrieron; 
 ^19^ A los cuales solos fué dada la tierra, y no pasó extraño por medio de ellos:) 
@@ -519,7 +483,6 @@
 ^5^ Mas yo os alentaría con mis palabras, y la consolación de mis labios apaciguaría el dolor vuestro.
 
 ## Dios mismo obviamente marca a Job como un pecador a través de su sufrimiento, aunque sabe que es inocente y lo expone sin piedad a los ataques de amigos y a la incomprensión de la gente
- 
 ^6^ Si hablo, mi dolor no cesa; y si dejo de hablar, no se aparta de mí. 
 ^7^ Empero ahora me ha fatigado: has tú asolado toda mi compañía. 
 ^8^ Tú me has arrugado; testigo es mi flacura, que se levanta contra mí para testificar en mi rostro. 
@@ -534,7 +497,6 @@
 ^17^ A pesar de no haber iniquidad en mis manos, y de haber sido mi oración pura.
 
 ## Sin embargo, Dios sigue siendo testigo y garante de Job de su inocencia y lo defenderá, aunque solo sea después de la muerte de Job
- 
 ^18^ ¡Oh tierra! no cubras mi sangre, y no haya lugar á mi clamor. 
 ^19^ Mas he aquí que en los cielos está mi testigo, y mi testimonio en las alturas. 
 ^20^ Disputadores son mis amigos: mas á Dios destilarán mis ojos. 
@@ -554,7 +516,6 @@
 ^9^ No obstante, proseguirá el justo su camino, y el limpio de manos aumentará la fuerza.
 
 ## Job rechaza los discursos de conversión y consolación de los amigos como tontos, ya que ha terminado con su vida
- 
 ^10^ Mas volved todos vosotros, y venid ahora, que no hallaré entre vosotros sabio. 
 ^11^ Pasáronse mis días, fueron arrancados mis pensamientos, los designios de mi corazón. 
 ^12^ Pusieron la noche por día, y la luz se acorta delante de las tinieblas. 
@@ -571,7 +532,6 @@
 ^4^ Oh tú, que despedazas tu alma con tu furor, ¿será dejada la tierra por tu causa, y serán traspasadas de su lugar las peñas?
 
 ## Descripción repetida de la infalible y terrible caída que Dios tiene reservada para los malvados y sus parientes
- 
 ^5^ Ciertamente la luz de los impíos será apagada, y no resplandecerá la centella de su fuego. 
 ^6^ La luz se oscurecerá en su tienda, y apagaráse sobre él su lámpara. 
 ^7^ Los pasos de su pujanza serán acortados, y precipitarálo su mismo consejo. 
@@ -600,7 +560,6 @@
 ^6^ Sabed ahora que Dios me ha trastornado, y traído en derredor su red sobre mí.
 
 ## La queja de Job sobre el grave sufrimiento que Dios le infligió injustamente y sobre el comportamiento despectivo de la gente contra él
- 
 ^7^ He aquí yo clamaré agravio, y no seré oído: daré voces, y no habrá juicio. 
 ^8^ Cercó de vallado mi camino, y no pasaré; y sobre mis veredas puso tinieblas. 
 ^9^ Hame despojado de mi gloria, y quitado la corona de mi cabeza. 
@@ -617,7 +576,6 @@
 ^20^ Mi cuero y mi carne se pegaron á mis huesos; y he escapado con la piel de mis dientes.
 
 ## Job pide compasión a sus amigos y expresa la firme esperanza de que algún día Dios lo justifique, pero también castigue la insensibilidad de sus amigos
- 
 ^21^ Oh vosotros mis amigos, tened compasión de mí, tened compasión de mí; porque la mano de Dios me ha tocado. 
 ^22^ ¿Por qué me perseguís como Dios, y no os hartáis de mis carnes? 
 ^23^ ¡Quién diese ahora que mis palabras fuesen escritas! ¡quién diese que se escribieran en un libro! 
@@ -635,7 +593,6 @@
 ^3^ La reprensión de mi censura he oído, y háceme responder el espíritu de mi inteligencia.
 
 ## Representación apasionada de la infalible caída de los malvados con una alusión sin amor a la presunta indignación de Job
- 
 ^4^ ¿No sabes esto que fué siempre, desde el tiempo que fué puesto el hombre sobre la tierra, 
 ^5^ Que la alegría de los impíos es breve, y el gozo del hipócrita por un momento? 
 ^6^ Si subiere su altivez hasta el cielo, y su cabeza tocare en las nubes, 
@@ -673,7 +630,6 @@
 ^6^ Aun yo mismo, cuando me acuerdo, me asombro, y toma temblor mi carne.
 
 ## Establecer el hecho de que los malvados (a menudo) son felices en la vida y en la muerte
- 
 ^7^ ¿Por qué viven los impíos, y se envejecen, y aun crecen en riquezas? 
 ^8^ Su simiente con ellos, compuesta delante de ellos; y sus renuevos delante de sus ojos. 
 ^9^ Sus casas seguras de temor, ni hay azote de Dios sobre ellos. 
@@ -685,7 +641,6 @@
 ^15^ ¿Quién es el Todopoderoso, para que le sirvamos? ¿y de qué nos aprovechará que oremos á él?
 
 ## La felicidad y la infelicidad son dadas arbitrariamente por Dios
- 
 ^16^ He aquí que su bien no está en manos de ellos: el consejo de los impíos lejos esté de mí. 
 ^17^ ¡Oh cuántas veces la lámpara de los impíos es apagada, y viene sobre ellos su quebranto, y Dios en su ira les reparte dolores! 
 ^18^ Serán como la paja delante del viento, y como el tamo que arrebata el torbellino. 
@@ -699,7 +654,6 @@
 ^26^ Igualmente yacerán ellos en el polvo, y gusanos los cubrirán.
 
 ## La aplicación de la doctrina de la retribución de Dios a Job y el consuelo de Job para la felicidad posterior es incorrecta o incluso maliciosa
- 
 ^27^ He aquí, yo conozco vuestros pensamientos, y las imaginaciones que contra mí forjáis. 
 ^28^ Porque decís: ¿Qué es de la casa del príncipe, y qué de la tienda de las moradas de los impíos? 
 ^29^ ¿No habéis preguntado á los que pasan por los caminos, por cuyas señas no negaréis, 
@@ -718,7 +672,6 @@
 ^5^ Por cierto tu malicia es grande, y tus maldades no tienen fin.
 
 ## Job ganó su castigo por una grave iniquidad
- 
 ^6^ Porque sacaste prenda á tus hermanos sin causa, é hiciste desnudar las ropas de los desnudos. 
 ^7^ No diste de beber agua al cansado, y detuviste el pan al hambriento. 
 ^8^ Empero el hombre pudiente tuvo la tierra; y habitó en ella el distinguido. 
@@ -727,7 +680,6 @@
 ^11^ O tinieblas, porque no veas; y abundancia de agua te cubre.
 
 ## Job ha pecado gravemente contra Dios por convicciones impías y por discursos inicuos
- 
 ^12^ ¿No está Dios en la altura de los cielos? Mira lo encumbrado de las estrellas, cuán elevadas están. 
 ^13^ ¿Y dirás tú: Qué sabe Dios? ¿cómo juzgará por medio de la oscuridad? 
 ^14^ Las nubes son su escondedero, y no ve; y por el circuito del cielo se pasea. 
@@ -739,7 +691,6 @@
 ^20^ Fué cortada nuestra sustancia, habiendo consumido el fuego el resto de ellos.
 
 ## En caso de conversión, Job ciertamente recibirá una nueva salvación de Dios
- 
 ^21^ Amístate ahora con él, y tendrás paz; y por ello te vendrá bien. 
 ^22^ Toma ahora la ley de su boca, y pon sus palabras en tu corazón. 
 ^23^ Si te tornares al Omnipotente, serás edificado; alejarás de tu tienda la aflicción; 
@@ -816,7 +767,6 @@
 ^4^ ¿A quién has anunciado palabras, y cúyo es el espíritu que de ti sale?
 
 ## Job reconoce la inconmensurable majestad de Dios en una brillante descripción
- 
 ^5^ Cosas inanimadas son formadas debajo de las aguas, y los habitantes de ellas. 
 ^6^ El sepulcro es descubierto delante de él, y el infierno no tiene cobertura. 
 ^7^ Extiende el aquilón sobre vacío, cuelga la tierra sobre nada. 
@@ -838,14 +788,12 @@
 ^6^ Mi justicia tengo asida, y no la cederé: no me reprochará mi corazón en el tiempo de mi vida.
 
 ## Job bien conoce el destino del malhechor (es decir, el mentiroso)
- 
 ^7^ Sea como el impío mi enemigo, y como el inicuo mi adversario. 
 ^8^ Porque ¿cuál es la esperanza del hipócrita, por mucho que hubiere robado, cuando Dios arrebatare su alma? 
 ^9^ ¿Oirá Dios su clamor cuando la tribulación sobre él viniere? 
 ^10^ ¿Deleitaráse en el Omnipotente? ¿invocará á Dios en todo tiempo?
 
 ## Descripción de la infalible caída de los malvados (a pesar de toda la voluntad de Dios)
- 
 ^11^ Yo os enseñaré en orden á la mano de Dios: no esconderé lo que hay para con el Omnipotente. 
 ^12^ He aquí que todos vosotros lo habéis visto: ¿por qué pues os desvanecéis con fantasía? 
 ^13^ Esta es para con Dios la suerte del hombre impío, y la herencia que los violentos han de recibir del Omnipotente. 
@@ -875,7 +823,6 @@
 ^11^ Detuvo los ríos en su nacimiento, é hizo salir á luz lo escondido.
 
 ## Pero la sabiduría, el bien más preciado, no se encuentra en ninguna parte de la creación
- 
 ^12^ Empero ¿dónde se hallará la sabiduría? ¿y dónde está el lugar de la prudencia? 
 ^13^ No conoce su valor el hombre, ni se halla en la tierra de los vivientes. 
 ^14^ El abismo dice: No está en mí: y la mar dijo: Ni conmigo. 
@@ -889,7 +836,6 @@
 ^22^ El infierno y la muerte dijeron: Su fama hemos oído con nuestros oídos.
 
 ## Solo Dios posee sabiduría y la ha ejercido en la creación del mundo; el hombre solo puede poseerlo como temor de Dios
- 
 ^23^ Dios entiende el camino de ella, y él conoce su lugar. 
 ^24^ Porque él mira hasta los fines de la tierra, y ve debajo de todo el cielo. 
 ^25^ Al dar peso al viento, y poner las aguas por medida; 
@@ -907,7 +853,6 @@
 ^6^ Cuando lavaba yo mis caminos con manteca, y la piedra me derramaba ríos de aceite!
 
 ## Descripción de su alta reputación anterior, su justicia y su trabajo exitoso
- 
 ^7^ Cuando salía á la puerta á juicio, y en la plaza hacía preparar mi asiento, 
 ^8^ Los mozos me veían, y se escondían; y los viejos se levantaban, y estaban en pie; 
 ^9^ Los príncipes detenían sus palabras, ponían la mano sobre su boca; 
@@ -947,7 +892,6 @@
 ^15^ Hanse revuelto turbaciones sobre mí; combatieron como viento mi alma, y mi salud pasó como nube.
 
 ## Descripción de los sufrimientos que han irrumpido en Job a través de la omnipotencia de Dios y sentimientos obviamente hostiles
- 
 ^16^ Y ahora mi alma está derramada en mí; días de aflicción me han aprehendido. 
 ^17^ De noche taladra sobre mí mis huesos, y mis pulsos no reposan. 
 ^18^ Con la grande copia de materia mi vestidura está demudada; cíñeme como el cuello de mi túnica. 
@@ -958,7 +902,6 @@
 ^23^ Porque yo conozco que me reduces á la muerte; y á la casa determinada á todo viviente.
 
 ## La seguridad de Job de que tiene un motivo justo para quejarse
- 
 ^24^ Mas él no extenderá la mano contra el sepulcro; ¿clamarán los sepultados cuando él los quebrantare? 
 ^25^ ¿No lloré yo al afligido? Y mi alma ¿no se entristeció sobre el menesteroso? 
 ^26^ Cuando esperaba yo el bien, entonces vino el mal; y cuando esperaba luz, la oscuridad vino. 
@@ -1006,7 +949,6 @@
 ^34^ Porque quebrantaba á la gran multitud, y el menosprecio de las familias me atemorizó, y callé, y no salí de mi puerta:
 
 ## El deseo y la voluntad de Job de entablar un litigio con Dios
- 
 ^35^ ¡Quién me diera quien me oyese! He aquí mi impresión es que el Omnipotente testificaría por mí, aunque mi adversario me hiciera el proceso. 
 ^36^ Ciertamente yo lo llevaría sobre mi hombro, y me lo ataría en lugar de corona. 
 ^37^ Yo le contaría el número de mis pasos, y como príncipe me llegaría á él. 
@@ -1024,7 +966,6 @@
 ^6^ Y respondió Eliú hijo de Barachêl, Bucita, y dijo: Yo soy menor de días, y vosotros viejos; he tenido por tanto miedo, y temido declararos mi opinión.
 
 ## Eliú justifica su silencio anterior
- 
 ^7^ Yo decía: Los días hablarán, y la muchedumbre de años declarará sabiduría. 
 ^8^ Ciertamente espíritu hay en el hombre, é inspiración del Omnipotente los hace que entiendan. 
 ^9^ No los grandes son los sabios, ni los viejos entienden el derecho. 
@@ -1035,7 +976,6 @@
 ^14^ Ahora bien, Job no enderezó á mí sus palabras, ni yo le responderé con vuestras razones.
 
 ## Eliú explica que su mente está impulsada a mostrar imparcialmente su comprensión
- 
 ^15^ Espantáronse, no respondieron más: fuéronseles los razonamientos. 
 ^16^ Yo pues he esperado, porque no hablaban, antes pararon, y no respondieron más. 
 ^17^ Por eso yo también responderé mi parte, también yo declararé mi juicio. 
@@ -1056,7 +996,6 @@
 ^7^ He aquí que mi terror no te espantará, ni mi mano se agravará sobre ti.
 
 ## Breve explicación y rechazo de las quejas de Job contra Dios
- 
 ^8^ De cierto tú dijiste á oídos míos, y yo oí la voz de tus palabras que decían: 
 ^9^ Yo soy limpio y sin defecto; y soy inocente, y no hay maldad en mí. 
 ^10^ He aquí que él buscó achaques contra mí, y me tiene por su enemigo; 
@@ -1064,7 +1003,6 @@
 ^12^ He aquí en esto no has hablado justamente: yo te responderé que mayor es Dios que el hombre.
 
 ## Dios enseña a la gente sobre sus intenciones y sobre su pecado, a veces a través de sueños, a veces a través del sufrimiento, especialmente la enfermedad
- 
 ^13^ ¿Por qué tomaste pleito contra él? Porque él no da cuenta de ninguna de sus razones. 
 ^14^ Sin embargo, en una ó en dos maneras habla Dios; mas el hombre no entiende. 
 ^15^ Por sueño de visión nocturna, cuando el sueño cae sobre los hombres, cuando se adormecen sobre el lecho; 
@@ -1083,7 +1021,6 @@
 ^28^ Dios redimirá su alma, que no pase al sepulcro, y su vida se verá en luz.
 
 ## Solicitar a Job que le instruya o que refute la explicación de Eliú
- 
 ^29^ He aquí, todas estas cosas hace Dios dos y tres veces con el hombre; 
 ^30^ Para apartar su alma del sepulcro, y para iluminarlo con la luz de los vivientes. 
 ^31^ Escucha, Job, y óyeme; calla, y yo hablaré. 
@@ -1100,7 +1037,6 @@
 ^6^ ¿He de mentir yo contra mi razón? Mi saeta es gravosa sin haber yo prevaricado.
 
 ## Al blasfemar contra Dios, Job se vuelve inicuo; porque Dios no puede ser injusto según todo su ser (especialmente como gobernante del mundo)
- 
 ^7^ ¿Qué hombre hay como Job, que bebe el escarnio como agua? 
 ^8^ Y va en compañía con los que obran iniquidad, y anda con los hombres maliciosos. 
 ^9^ Porque ha dicho: De nada servirá al hombre el conformar su voluntad con Dios. 
@@ -1127,7 +1063,6 @@
 ^30^ Haciendo que no reine el hombre hipócrita para vejaciones del pueblo.
 
 ## El juicio de Job sobre Dios es presuntuoso, necio e indignante, y merece el castigo más severo
- 
 ^31^ De seguro conviene se diga á Dios: Llevado he ya castigo, no más ofenderé: 
 ^32^ Enséñame tú lo que yo no veo: que si hice mal, no lo haré más. 
 ^33^ ¿Ha de ser eso según tu mente? El te retribuirá, ora rehuses, ora aceptes, y no yo: di si no, lo que tú sabes. 
@@ -1148,7 +1083,6 @@
 ^8^ Al hombre como tú dañará tu impiedad, y al hijo del hombre aprovechará tu justicia.
 
 ## Los frecuentes casos de personas inocentes que no responden y se quejan de un trato violento pueden explicarse por la falta de confianza o el temor de Dios por parte de los afectados
- 
 ^9^ A causa de la multitud de las violencias clamarán, y se lamentarán por el poderío de los grandes. 
 ^10^ Y ninguno dice: ¿Dónde está Dios mi Hacedor, que da canciones en la noche, 
 ^11^ Que nos enseña más que á las bestias de la tierra, y nos hace sabios más que las aves del cielo? 
@@ -1165,7 +1099,6 @@
 ^4^ Porque de cierto no son mentira mis palabras; contigo está el que es íntegro en sus conceptos.
 
 ## Dios quiere educar a las personas para su salvación a través del sufrimiento, especialmente para llevarlas al autoconocimiento y la obediencia, que solo logra con los que temen a Dios
- 
 ^5^ He aquí que Dios es grande, mas no desestima á nadie: es poderoso en fuerza de sabiduría. 
 ^6^ No otorgará vida al impío, y á los afligidos dará su derecho. 
 ^7^ No quitará sus ojos del justo; antes bien con los reyes los pondrá en solio para siempre, y serán ensalzados. 
@@ -1179,7 +1112,6 @@
 ^15^ Al pobre librará de su pobreza, y en la aflicción despertará su oído.
 
 ## Por tanto, que ahora Job también se deje purificar a través de su sufrimiento para participar de la bendición divina
- 
 ^16^ Asimismo te apartaría de la boca de la angustia á lugar espacioso, libre de todo apuro; y te asentará mesa llena de grosura. 
 ^17^ Mas tú has llenado el juicio del impío, en vez de sustentar el juicio y la justicia. 
 ^18^ Por lo cual teme que en su ira no te quite con golpe, el cual no puedas apartar de ti con gran rescate. 
@@ -1192,7 +1124,6 @@
 ^25^ Los hombres todos la ven; mírala el hombre de lejos.
 
 ## Representación de la grandeza, la gloria y la sabiduría de Dios, que se revelan en la naturaleza
- 
 ^26^ He aquí, Dios es grande, y nosotros no le conocemos; ni se puede rastrear el número de sus años. 
 ^27^ El reduce las gotas de las aguas, al derramarse la lluvia según el vapor; 
 ^28^ Las cuales destilan las nubes, goteando en abundancia sobre los hombres. 
@@ -1218,7 +1149,6 @@
 ^13^ Unas veces por azote, otras por causa de su tierra, otras por misericordia las hará parecer.
 
 ## Amonestación a Job de no observar un desafío altivo hacia este Dios, sino más bien una reverencia humilde
- 
 ^14^ Escucha esto, Job; repósate, y considera las maravillas de Dios. 
 ^15^ ¿Supiste tú cuándo Dios las ponía en concierto, y hacía levantar la luz de su nube? 
 ^16^ ¿Has tú conocido las diferencias de las nubes, las maravillas del Perfecto en sabiduría? 
@@ -1238,7 +1168,6 @@
 ^3^ Ahora ciñe como varón tus lomos; yo te preguntaré, y hazme saber tú.
 
 ## Preguntas del campo de la creación del mundo y la naturaleza sin vida, así como la vida animal, a las que Job no responde
- 
 ^4^ ¿Dónde estabas cuando yo fundaba la tierra? házmelo saber, si tienes inteligencia. 
 ^5^ ¿Quién ordenó sus medidas, si lo sabes? ¿ó quién extendió sobre ella cordel? 
 ^6^ ¿Sobre qué están fundadas sus basas? ¿ó quién puso su piedra angular, 
@@ -1375,19 +1304,15 @@
 ^6^ Por tanto me aborrezco, y me arrepiento en el polvo y en la ceniza.
 
 ## La condenación de Dios a los tres amigos y su perdón después del sacrificio hecho por intercesión de Job
- 
 ^7^ Y aconteció que después que habló Jehová estas palabras á Job, Jehová dijo á Eliphaz Temanita: Mi ira se encendió contra ti y tus dos compañeros: porque no habéis hablado por mí lo recto, como mi siervo Job. 
 ^8^ Ahora pues, tomaos siete becerros y siete carneros, y andad á mi siervo Job, y ofreced holocausto por vosotros, y mi siervo Job orará por vosotros; porque de cierto á él atenderé para no trataros afrentosamente, por cuanto no habéis hablado por mí con rectitud, como mi siervo Job.
 
- 
 ^9^ Fueron pues Eliphaz Temanita, y Bildad Suhita, y Sophar Naamatita, é hicieron como Jehová les dijo: y Jehová atendió á Job.
 
 ## Restauración y aumento del estado externo de felicidad de Job
- 
 ^10^ Y mudó Jehová la aflicción de Job, orando él por sus amigos: y aumentó al doble todas las cosas que habían sido de Job. 
 ^11^ Y vinieron á él todos sus hermanos, y todas sus hermanas, y todos los que antes le habían conocido, y comieron con él pan en su casa, y condoliéronse de él, y consoláronle de todo aquel mal que sobre él había Jehová traído; y cada uno de ellos le dió una pieza de moneda, y un zarcillo de oro.
 
- 
 ^12^ Y bendijo Jehová la postrimería de Job más que su principio; porque tuvo catorce mil ovejas, y seis mil camellos, y mil yuntas de bueyes, y mil asnas. 
 ^13^ Y tuvo siete hijos y tres hijas. 
 ^14^ Y llamó el nombre de la una, Jemimah, y el nombre de la segunda, Cesiah, y el nombre de la tercera, Keren-happuch. 

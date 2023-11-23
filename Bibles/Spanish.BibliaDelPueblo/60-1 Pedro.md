@@ -4,7 +4,6 @@
 ^2^ Elegidos según la presciencia de Dios Padre en santificación del Espíritu, para obedecer y ser rociados con la sangre de Jesucristo: Gracia y paz os sea multiplicada.
 
 ## La salvación que se nos da da gozo jubiloso, incluso si la fe tiene que demostrar su valía en la tribulación
- 
 ^3^ Bendito el Dios y Padre de nuestro Señor Jesucristo, que según su grande misericordia nos ha regenerado en esperanza viva, por la resurrección de Jesucristo de los muertos, 
 ^4^ Para una herencia incorruptible, y que no puede contaminarse, ni marchitarse, reservada en los cielos 
 ^5^ Para nosotros que somos guardados en la virtud de Dios por fe, para alcanzar la salud que está aparejada para ser manifestada en el postrimero tiempo. 
@@ -14,19 +13,16 @@
 ^9^ Obteniendo el fin de vuestra fe, que es la salud de vuestras almas.
 
 ## La salvación prometida hace muchas veces por los profetas ahora finalmente se ha realizado
- 
 ^10^ De la cual salud los profetas que profetizaron de la gracia que había de venir á vosotros, han inquirido y diligentemente buscado, 
 ^11^ Escudriñando cuándo y en qué punto de tiempo significaba el Espíritu de Cristo que estaba en ellos, el cual prenunciaba las aflicciones que habían de venir á Cristo, y las glorias después de ellas. 
 ^12^ A los cuales fué revelado, que no para sí mismos, sino para nosotros administraban las cosas que ahora os son anunciadas de los que os han predicado el evangelio por el Espíritu Santo enviado del cielo; en las cuales desean mirar los ángeles.
 
 ## Camine en santo temor de Dios con gozosa confianza en la salvación que se logra mediante la redención y con la esperanza de gloria
- 
 ^13^ Por lo cual, teniendo los lomos de vuestro entendimiento ceñidos, con templanza, esperad perfectamente en la gracia que os es presentada cuando Jesucristo os es manifestado: 
 ^14^ Como hijos obedientes, no conformándoos con los deseos que antes teníais estando en vuestra ignorancia; 
 ^15^ Sino como aquel que os ha llamado es santo, sed también vosotros santos en toda conversación: 
 ^16^ Porque escrito está: Sed santos, porque yo soy santo.
 
- 
 ^17^ Y si invocáis por Padre á aquel que sin acepción de personas juzga según la obra de cada uno, conversad en temor todo el tiempo de vuestra peregrinación: 
 ^18^ Sabiendo que habéis sido rescatados de vuestra vana conversación, la cual recibisteis de vuestros padres, no con cosas corruptibles, como oro ó plata; 
 ^19^ Sino con la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación: 
@@ -34,7 +30,6 @@
 ^21^ Que por él creéis á Dios, el cual le resucitó de los muertos, y le ha dado gloria, para que vuestra fe y esperanza sea en Dios.
 
 ## Camine dentro de la iglesia en puro amor fraternal y digno de la nueva vida que se le ha dado
- 
 ^22^ Habiendo purificado vuestra almas en la obediencia de la verdad, por el Espíritu, en caridad hermanable sin fingimiento, amaos unos á otros entrañablemente de corazón puro: 
 ^23^ Siendo renacidos, no de simiente corruptible, sino de incorruptible, por la palabra de Dios, que vive y permanece para siempre. 
 ^24^ Porque Toda carne es como la hierba, y toda la gloria del hombre como la flor de la hierba: secóse la hierba, y la flor se cayó; 
@@ -49,33 +44,26 @@
 ^5^ Vosotros también, como piedras vivas, sed edificados una casa espiritual, y un sacerdocio santo, para ofrecer sacrificios espirituales, agradables á Dios por Jesucristo. 
 ^6^ Por lo cual también contiene la Escritura: He aquí, pongo en Sión la principal piedra del ángulo, escogida, preciosa; y el que creyere en ella, no será confundido.
 
- 
 ^7^ Ella es pues honor á vosotros que creéis: mas para los desobedientes, la piedra que los edificadores reprobaron, ésta fué hecha la cabeza del ángulo;
 
- 
 ^8^ Y Piedra de tropiezo, y roca de escándalo á aquellos que tropiezan en la palabra, siendo desobedientes; para lo cual fueron también ordenados.
 
- 
 ^9^ Mas vosotros sois linaje escogido, real sacerdocio, gente santa, pueblo adquirido, para que anunciéis las virtudes de aquel que os ha llamado de las tinieblas á su luz admirable: 
 ^10^ Vosotros, que en el tiempo pasado no erais pueblo, mas ahora sois pueblo de Dios; que en el tiempo pasado no habíais alcanzado misericordia, mas ahora habéis alcanzado misericordia.
 
 ## Invitación general a un caminar puro ante los gentiles
- 
 ^11^ Amados, yo os ruego como á extranjeros y peregrinos, os abstengáis de los deseos carnales que batallan contra el alma, 
 ^12^ Teniendo vuestra conversación honesta entre los Gentiles; para que, en lo que ellos murmuran de vosotros como de malhechores, glorifiquen á Dios en el día de la visitación, estimándoos por las buenas obras.
 
 ## Exhortación a obedecer a las autoridades paganas
- 
 ^13^ Sed pues sujetos á toda ordenación humana por respeto á Dios: ya sea al rey, como á superior; 
 ^14^ Ya á los gobernadores, como de él enviados para venganza de los malhechores, y para loor de los que hacen bien. 
 ^15^ Porque esta es la voluntad de Dios; que haciendo bien, hagáis callar la ignorancia de los hombres vanos: 
 ^16^ Como libres, y no como teniendo la libertad por cobertura de malicia, sino como siervos de Dios.
 
- 
 ^17^ Honrad á todos. Amad la fraternidad. Temed á Dios. Honrad al rey.
 
 ## Admoniciones a los esclavos para que toleren según el ejemplo de Cristo
- 
 ^18^ Siervos, sed sujetos con todo temor á vuestros amos; no solamente á los buenos y humanos, sino también á los rigurosos. 
 ^19^ Porque esto es agradable, si alguno á causa de la conciencia delante de Dios, sufre molestias padeciendo injustamente. 
 ^20^ Porque ¿qué gloria es, si pecando vosotros sois abofeteados, y lo sufrís? mas si haciendo bien sois afligidos, y lo sufrís, esto ciertamente es agradable delante de Dios. 
@@ -94,11 +82,9 @@
 ^5^ Porque así también se ataviaban en el tiempo antiguo aquellas santas mujeres que esperaban en Dios, siendo sujetas á sus maridos: 
 ^6^ Como Sara obedecía á Abraham, llamándole señor; de la cual vosotras sois hechas hijas, haciendo bien, y no sois espantadas de ningún pavor.
 
- 
 ^7^ Vosotros maridos, semejantemente, habitad con ellas según ciencia, dando honor á la mujer como á vaso más frágil, y como á herederas juntamente de la gracia de la vida; para que vuestras oraciones no sean impedidas.
 
 ## Advertencias generales para los miembros de la iglesia
- 
 ^8^ Y finalmente, sed todos de un mismo corazón, compasivos, amándoos fraternalmente, misericordiosos, amigables; 
 ^9^ No volviendo mal por mal, ni maldición por maldición, sino antes por el contrario, bendiciendo; sabiendo que vosotros sois llamados para que poseáis bendición en herencia. 
 ^10^ Porque el que quiere amar la vida, y ver días buenos, refrene su lengua de mal, y sus labios no hablen engaño; 
@@ -106,7 +92,6 @@
 ^12^ Porque los ojos del Señor están sobre los justos, y sus oídos atentos á sus oraciones: pero el rostro del Señor está sobre aquellos que hacen mal.
 
 ## En el sufrimiento eres testigo de los que te rodean
- 
 ^13^ ¿Y quién es aquel que os podrá dañar, si vosotros seguís el bien? 
 ^14^ Mas también si alguna cosa padecéis por hacer bien, sois bienaventurados. Por tanto, no temáis por el temor de ellos, ni seáis turbados; 
 ^15^ Sino santificad al Señor Dios en vuestros corazones, y estad siempre aparejados para responder con mansedumbre y reverencia á cada uno que os demande razón de la esperanza que hay en vosotros: 
@@ -114,7 +99,6 @@
 ^17^ Porque mejor es que padezcáis haciendo bien, si la voluntad de Dios así lo quiere, que haciendo mal.
 
 ## Las benditas consecuencias del sufrimiento involuntario de Cristo
- 
 ^18^ Porque también Cristo padeció una vez por los pecados, el justo por los injustos, para llevarnos á Dios, siendo á la verdad muerto en la carne, pero vivificado en espíritu; 
 ^19^ En el cual también fué y predicó á los espíritus encarcelados; 
 ^20^ Los cuales en otro tiempo fueron desobedientes, cuando una vez esperaba la paciencia de Dios en los días de Noé, cuando se aparejaba el arca; en la cual pocas, es á saber, ocho personas fueron salvas por agua. 
@@ -131,7 +115,6 @@
 ^6^ Porque por esto también ha sido predicado el evangelio á los muertos; para que sean juzgados en carne según los hombres, y vivan en espíritu según Dios.
 
 ## Advertencia a la preservación de la vida comunitaria cristiana con miras al fin del mundo próximo
- 
 ^7^ Mas el fin de todas las cosas se acerca: sed pues templados, y velad en oración. 
 ^8^ Y sobre todo, tened entre vosotros ferviente caridad; porque la caridad cubrirá multitud de pecados. 
 ^9^ Hospedaos los unos á los otros sin murmuraciones. 
@@ -139,7 +122,6 @@
 ^11^ Si alguno habla, hable conforme á las palabras de Dios; si alguno ministra, ministre conforme á la virtud que Dios suministra: para que en todas cosas sea Dios glorificado por Jesucristo, al cual es gloria é imperio para siempre jamás. Amén.
 
 ## Exhortación a probar el verdadero espíritu cristiano en el fuego de la purificación del sufrimiento en vista de la gloria que se alcanzará
- 
 ^12^ Carísimos, no os maravilléis cuando sois examinados por fuego, lo cual se hace para vuestra prueba, como si alguna cosa peregrina os aconteciese; 
 ^13^ Antes bien gozaos en que sois participantes de las aflicciones de Cristo; para que también en la revelación de su gloria os gocéis en triunfo. 
 ^14^ Si sois vituperados en el nombre de Cristo, sois bienaventurados; porque la gloria y el Espíritu de Dios reposan sobre vosotros. Cierto, según ellos, él es blasfemado, mas según vosotros es glorificado. 
@@ -156,19 +138,17 @@
 ^3^ Y no como teniendo señorío sobre las heredades del Señor, sino siendo dechados de la grey. 
 ^4^ Y cuando apareciere el Príncipe de los pastores, vosotros recibiréis la corona incorruptible de gloria.
 
- 
 ^5^ Igualmente, mancebos, sed sujetos á los ancianos; y todos sumisos unos á otros, revestíos de humildad; porque Dios resiste á los soberbios, y da gracia á los humildes. 
 ^6^ Humillaos pues bajo la poderosa mano de Dios, para que él os ensalce cuando fuere tiempo; 
 ^7^ Echando toda vuestra solicitud en él, porque él tiene cuidado de vosotros.
 
 ## Esté atento a las tentaciones del diablo
- 
 ^8^ Sed templados, y velad; porque vuestro adversario el diablo, cual león rugiente, anda alrededor buscando á quien devore: 
 ^9^ Al cual resistid firmes en la fe, sabiendo que las mismas aflicciones han de ser cumplidas en la compañía de vuestros hermanos que están en el mundo. 
 ^10^ Mas el Dios de toda gracia, que nos ha llamado á su gloria eterna por Jesucristo, después que hubiereis un poco de tiempo padecido, él mismo os perfeccione, confirme, corrobore y establezca. 
 ^11^ A él sea gloria é imperio para siempre. Amén.
 
-## Fin de la carta; Saludos y bendiciones
+## Fin de la carta; Saludos y bendiciones
  
 ^12^ Por Silvano, el hermano fiel, según yo pienso, os he escrito brevemente, amonestándoos, y testificando que ésta es la verdadera gracia de Dios, en la cual estáis. 
 ^13^ La iglesia que está en Babilonia, juntamente elegida con vosotros, os saluda, y Marcos mi hijo. 

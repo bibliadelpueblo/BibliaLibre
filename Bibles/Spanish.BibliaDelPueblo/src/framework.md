@@ -44,7 +44,6 @@
 ### Los hijos de Caín
 ^24^ 
 ### El nacimiento de Seth
-
 ## 5
 ^-1^ 
 ### La descendiencia de Seth hasta Noé
@@ -138,7 +137,6 @@
 ### Dios promete Abraham un hijo de Sara
 ^16^ \ ^17^ ^18^ \ ^20^ ^21^ \ ^22^ 
 ### Abraham realiza la circuncisión
-
 ## 18
 ^-1^ 
 ### Dios visita a Abraham
@@ -246,7 +244,6 @@
 ### Jacob entra en servicio con Labán
 ^15^ \ ^18^ \ ^19^ \ ^20^ \ ^21^ \ ^25^ \ ^27^ \ ^30^ 
 ### Los primer cuatro hijos de Lea
-
 ## 30
 ^-1^ 
 ### Los dos hijos de Bilha, la sierva de Rachêl
@@ -330,7 +327,6 @@
 ### Los reyes de la tierra de Edom hasta David
 ^39^ 
 ### Los duques de Edom por sus lugares
-
 ## 37
 ^-1^ 
 ### Los inicios de la enemistad de los hermanos contra José
@@ -362,7 +358,6 @@
 ### La seducción de la esposa de Potifar
 ^7^ \ ^9^ \ ^12^ \ ^18^ 
 ### José en el Carcel
-
 ## 40
 ^-1^ 
 ### Encarcelamiento del copero y panadero del faraón
@@ -390,7 +385,6 @@
 ### Medidas de José durante los siete años fértiles; el nacimiento de sus dos hijos
 ^52^ 
 ### Los siete años estériles y las ventas de cereales de José durante la hambruna
-
 ## 42
 ^-1^ 
 ### Los diez hijos mayores de Jacob se mudan a Egipto para comprar grano
@@ -509,7 +503,6 @@
 ### El pueblo está aún más oprimida; los israelitas reprochan amargamente a Moisés y a Aarón
 ^9^ \ ^14^ \ ^16^ \ ^18^ \ ^19^ \ ^21^ 
 ### El lamento de Moisés y la promesa de Dios
-
 ## 6
 ^1^ 
 ### Dios se revela a sí mismo a Moisés de nuevo y promete la salvación del pueblo
@@ -757,7 +750,6 @@
 ### La gente muestra su disposición
 ^29^ 
 ### Nombramiento de los capataces y demás artesanos; abundantes donaciones y servicios voluntarios por parte del pueblo
-
 ## 36
 ^1^ \ ^5^ \ ^7^ 
 ### La fabricación de las cuatro cubiertas de la tienda
@@ -765,7 +757,6 @@
 ### Fabricación del marco de madera
 ^30^ \ ^31^ ^34^ 
 ### Fabricación de las dos cortinas
-
 ## 37
 ^-1^ 
 ### El cajón con la placa de cubierta
@@ -799,7 +790,6 @@
 ### El rostro del sumo sacerdote
 ^30^ ^31^ 
 ### Entrega de los artículos terminados a Moisés
-
 ## 40
 ^-1^ 
 ### Establecimiento y dedicación del santuario
@@ -807,7 +797,6 @@
 ### La ejecución del mandato divino
 ^16^ \ ^33^ 
 ### La gloria del Señor se apodera de la morada
-
 # Levítico
 ## 1
 ^-1^ 
@@ -818,7 +807,6 @@
 ### Holocaustos de rebaños
 ^13^ 
 ### Holocaustos de pájaros
-
 ## 2
 ^-1^ 
 ### Normas relativas a la ofrenda de comida
@@ -866,7 +854,6 @@
 ### Normas relativas a la ofrenda de comida del sumo sacerdote
 ^23^ 
 ### Regulaciones especialmente para los sacerdotes con respecto a la ofrenda por el pecado
-
 ## 7
 ^-1^ 
 ### Regulaciones sobre el sacrificio de culpa
@@ -892,7 +879,6 @@
 ### Ofrenda de iniciación y aspersión
 ^22^ ^30^ 
 ### Regulaciones relativas a la comida de sacrificio y la segregación de siete días
-
 ## 9
 ^-1^ 
 ### Los preparativos para el sacrificio de Aarón y sus hijos
@@ -958,7 +944,6 @@
 ### Normas relativas a la lepra en las casas
 ^35^ ^42^ \ ^45^ \ ^46^ ^47^ \ ^53^ 
 ### Graduación
-
 ## 15
 ^-1^ 
 ### Inmundicia de los hombres
@@ -1165,7 +1150,6 @@
 ### La celebración posterior a la Pascua para los inmundos y los viajeros; la pascua de los extraños
 ^3^ \ ^6^ ^7^ \ ^8^ \ ^13^ \ ^14^ 
 ### La aparición de la columna de nubes y fuego sobre el santuario
-
 ## 10
 ^-1^ 
 ### Ordenanza sobre dos trompetas de plata
@@ -1373,7 +1357,6 @@
 ### Las ofrendas adicionales para los siete días de la Fiesta de los Tabernáculos
 ^12^ ^16^ \ ^19^ \ ^22^ \ ^25^ \ ^28^ \ ^31^ \ ^34^ \ ^38^ 
 ### Sentencia final de las leyes de víctimas
-
 ## 30
 ^1^ 
 ### Reglamento sobre la vinculación o nulidad de los votos
@@ -1399,7 +1382,6 @@
 ### Resumen de las ciudades reconstruidas por los gaditas y los rubenitas
 ^38^ 
 ### Los descendientes de Manasés se establecieron en la Ribera Oriental
-
 ## 33
 ^-1^ 
 ### Lista de los campamentos en los que pasaron los israelitas durante los cuarenta años del desierto
@@ -1468,7 +1450,6 @@
 ### Separación de tres ciudades libres en el este del Jordan
 ^41^ ^43^ 
 ### Anuncio del siguiente Sermón de la Ley
-
 ## 5
 ^-1^ 
 ### Memoria de la revelación de Dios en Horeb; la Ley Fundamental de los Diez Mandamientos; Moisés reconocido por Dios como mediador
@@ -1702,7 +1683,6 @@
 ### Moisés en el monte Nebo; su muerte y entierro; Joshua lo sucederá
 ^1^ ^4^ \ ^5^ ^6^ ^8^ ^9^ 
 ### Valoración de la grandeza e importancia de Moisés
-
 # Josué
 ## 1
 ^-1^ 
@@ -1719,7 +1699,6 @@
 ### Las negociaciones y citas fijas entre Rahab y los espías
 ^10^ ^11^ ^12^ ^13^ \ ^14^ \ ^16^ \ ^20^ \ ^21^ 
 ### Feliz regreso de los espías a Josué con buenas noticias
-
 ## 3
 ^-1^ 
 ### Llegada al Jordán; Anuncio de los presidentes y dos órdenes de Joshua; Salida del pueblo
@@ -1974,7 +1953,6 @@
 ### La incursión victoriosa de Gedeón en el campamento madianita
 ^16^ \ ^18^ \ ^22^ 
 ### Persecución exitosa; los celosos Efraimitas apaciguados por Gedeón
-
 ## 8
 ^1^ ^2^ ^3^ 
 ### La solicitud de Gedeón en Sukkoth y Pnuel fue rechazada cruelmente
@@ -2176,7 +2154,6 @@
 ### La cálida bienvenida de Saúl y el trato honorable de parte de Samuel
 ^11^ \ ^13^ \ ^14^ \ ^16^ \ ^17^ \ ^18^ \ ^20^ \ ^21^ \ ^24^ \ ^25^ 
 ### Saúl ungido rey por Samuel; su regreso a Guibeá
-
 ## 10
 ^1^ 
 ### Samuel profetiza tres señales que Saúl recibirá de camino a casa y lo envía a Gilgal
@@ -2368,13 +2345,11 @@
 ### David hace que su pueblo lleve ante la justicia a sus camaradas
 ^22^ \ ^25^ 
 ### David envía regalos a los ancianos en numerosas ciudades de Judá
-
 ## 31
 ^-1^ 
 ### La derrota de Israel y el desastre de Saúl y su casa
 ^4^ ^6^ \ ^7^ 
 ### El destino de los cadáveres de Saúl y sus hijos
-
 # 2 Samuel
 ## 1
 ^-1^ 
@@ -2469,7 +2444,6 @@
 ### Comienzo de la guerra; primeros trabajos ganados
 ^14^ 
 ### El mismo David en el campo; su victoria sobre los sirios aliados con los amonitas
-
 ## 11
 ^-1^ 
 ### El adulterio de David con Betsabé
@@ -2505,7 +2479,6 @@
 ### La fuga de Absalón a Gesur a su abuelo
 ^37^ ^38^ 
 ### La intervención de Joab; la conversación de la sabia esposa de Thecoa con David
-
 ## 14
 ^3^ 
 ### El primer discurso de la sabia
@@ -2587,7 +2560,6 @@
 ### Seba de Joab guerrea y asesina a instigación de una mujer inteligente; El regreso de Joab a Jerusalén
 ^15^ \ ^17^ \ ^19^ \ ^21^ \ ^22^ 
 ### Los altos funcionarios de David
-
 ## 21
 ^-1^ 
 ### Declaración de la deuda de Saúl; el requisito de los gabaonitas
@@ -2601,7 +2573,6 @@
 ## 22
 ^-1^ 
 ### El cántico de acción de gracias y victoria de David después de derrotar a sus enemigos
-
 ## 23
 ^-1^ 
 ### Las últimas palabras de David
@@ -2668,7 +2639,6 @@
 ### Los principales funcionarios y gobernadores de Salomón; su cortejo, poder y sabiduría
 ^2^ ^6^ \ ^13^ ^19^ \ ^23^ 
 ### El poder y la gloria, la sabiduría y la poesía de Salomón
-
 ## 5
 ^-1^ 
 ### El contrato de Salomón con Hiram de Tiro y los preparativos para la construcción de un templo
@@ -2692,7 +2662,6 @@
 ### Las puertas y el patio interior
 ^36^ 
 ### Tiempo de construcción
-
 ## 7
 ^-1^ 
 ### Descripción de los otros edificios (seculares) de Salomón
@@ -2752,7 +2721,6 @@
 ### La indignación del efraimita Jeroboam
 ^31^ ^33^ \ ^35^ ^39^ \ ^40^ 
 ### Las fuentes de la historia de Salomón; su muerte
-
 ## 12
 ^-1^ 
 ### La división del imperio; La dieta de Siquem; Pide ayuda a los israelitas
@@ -2768,7 +2736,6 @@
 ### La introducción del servicio de toros en Betel y Dan
 ^30^ ^32^ 
 ### Amenaza de un profeta contra el altar de Betel; Desobediencia y muerte de este profeta
-
 ## 13
 ^3^ \ ^6^ \ ^7^ \ ^10^ 
 ### El proceso en la casa del anciano profeta en Betel
@@ -3141,7 +3108,6 @@
 ### Los hijos de Josías y su nieto reyes de Judá; Joachâz
 ^35^ 
 ### Joacim de Judá
-
 ## 24
 ^6^ \ ^7^ 
 ### Joaquín de Judá; la primera conquista de Jerusalén y la primera ruta a Babilonia
@@ -3157,7 +3123,6 @@
 ### Gedalja, gobernador designado, reúne a los judíos en una colonia en Mizpa. Después de su asesinato, los judíos emigran a Egipto
 ^24^ \ ^26^ 
 ### Jojachín indultado tras treinta y siete años de prisión
-
 # 1 Crónicas
 ## 1
 ^-1^ 
@@ -3316,7 +3281,6 @@
 ### Fracaso del plan
 ^8^ \ ^11^ 
 ### El cajón se encuentra en la casa de Obed-Edom
-
 ## 14
 ^-1^ 
 ### El edificio del palacio de David y los nuevos matrimonios; sus guerras victoriosas con los filisteos
@@ -3360,7 +3324,6 @@
 ### Derrota y subyugación de los edomitas
 ^13^ 
 ### Los altos funcionarios de David
-
 ## 19
 ^-1^ 
 ### El vergonzoso crimen de los amonitas contra el mensajero de David
@@ -3368,7 +3331,6 @@
 ### Comienzo de la guerra; primeros trabajos ganados
 ^9^ \ ^13^ \ ^15^ 
 ### David personalmente en el campo; su victoria sobre los sirios aliados con los amonitas
-
 ## 20
 ^-1^ 
 ### Joab conquista Rabá; El triunfo de David y el castigo de los amonitas
@@ -3392,7 +3354,6 @@
 ### Instrucciones de David a su hijo Salomón
 ^7^ ^14^ ^16^ 
 ### La amonestación de David a los príncipes de Israel
-
 ## 23
 ^-1^ 
 ### Contando y ejecutando los levitas
@@ -3450,7 +3411,6 @@
 ### Final solemne de la reunión; La unción de Salomón como rey; Fin del reinado de David
 ^20^ \ ^22^ \ ^23^ ^25^ 
 ### El final de David y las fuentes de su historia
-
 # 2 Crónicas
 ## 1
 ^-1^ 
@@ -3479,7 +3439,6 @@
 ### Equipo del lugar santísimo
 ^9^ \ ^14^ 
 ### Los dos pilares de bronce frente a la casa del templo
-
 ## 4
 ^-1^ 
 ### Fabricación de implementos para el templo
@@ -3513,7 +3472,6 @@
 ### Orden de sacrificio y servicio en el templo de Salomón
 ^12^ ^13^ \ ^14^ ^15^ \ ^16^ 
 ### Paseos de Ofir de Salomón
-
 ## 9
 ^-1^ 
 ### Visita de la Reina de Saba
@@ -3523,7 +3481,6 @@
 ### La posición de poder de Salomón y la riqueza que promueve
 ^25^ ^28^ 
 ### Las fuentes de la historia de Salomón; su muerte
-
 ## 10
 ^-1^ 
 ### Roboam y Jeroboam en Siquem; la división del imperio
@@ -3571,7 +3528,6 @@
 ### Renovación de Asa del pacto con Dios
 ^15^ \ ^16^ ^18^ 
 ### La guerra de Asa con Baesa de Israel; su refugio en Ben-adad de Siria
-
 ## 16
 ^1^ ^3^ \ ^6^ 
 ### El discurso de castigo de Hanani a Asa tiene un efecto negativo
@@ -3585,7 +3541,6 @@
 ### Josafat instruye al pueblo en la ley del Señor
 ^9^ 
 ### La reputación de Josafat entre los pueblos vecinos y su importante poder militar
-
 ## 18
 ^-1^ 
 ### Josafat y Acab unen fuerzas en una guerra contra los sirios
@@ -3615,7 +3570,6 @@
 ### La conclusión del gobierno de Josafat y las fuentes de su historia
 ^31^ ^33^ \ ^34^ 
 ### La alianza de Josafat con Ocozías de Israel y su castigo; su muerte
-
 ## 21
 ^-1^ 
 ### El gobierno del rey Joram
@@ -3639,7 +3593,6 @@
 ### Su pacto con Joram de Israel y su muerte por Jehú
 ^6^ \ ^7^ ^8^ ^9^ 
 ### El robo y el asesinato de Atalía; Rescate de Joás
-
 ## 23
 ^-1^ 
 ### La conspiración de Joiada
@@ -3737,7 +3690,6 @@
 ### La riqueza de Ezechîas; Abastecimiento de agua a Jerusalén y tentación de la embajada de Babilonia
 ^30^ \ ^31^ 
 ### Termina la historia de Ezechîas
-
 ## 33
 ^-1^ 
 ### Manasés rey de Judá; Idolatría manasés
@@ -3781,7 +3733,6 @@
 ### Destrucción del imperio por Nabucodonosor; el cautiverio babilónico
 ^21^ 
 ### El permiso para regresar a casa del rey persa Ciro
-
 # Esdras
 ## 1
 ^-1^ 
@@ -3838,7 +3789,6 @@
 ### Redacción de la carta real (= carta de salvoconducto) con detalles de los poderes otorgados a Ezra
 ^12^ \ ^20^ \ ^23^ \ ^24^ \ ^26^ 
 ### Oración de acción de gracias de Esdras e inicio de su actividad
-
 ## 8
 ^-1^ 
 ### Directorio de los jefes de las familias de Judea que regresan con Esdras
@@ -3901,7 +3851,6 @@
 ### Exponiendo a un falso profeta
 ^10^ \ ^13^ ^14^ 
 ### Finalización de la construcción del muro; correspondencia sospechosa entre Tobija y muchos judíos dedicados a él
-
 ## 7
 ^-1^ 
 ### La preocupación de Nehemías por la seguridad de la ciudad
@@ -3969,7 +3918,6 @@
 ### Medidas contra los matrimonios mixtos; Rechazo del hijo de un sumo sacerdote
 ^25^ ^26^ ^27^ \ ^28^ ^29^ 
 ### Fin del memorando
-
 # Ester
 ## 1
 ^-1^ 
@@ -4048,7 +3996,6 @@
 ## 10
 ^-1^ 
 ### Posición de poder y servicios de Mardochai para el bienestar de los judíos
-
 # Job
 ## 1
 ^-1^ 
@@ -4097,7 +4044,6 @@
 ### La queja de Job por los insultos y la decepción causada por sus amigos
 ^15^ ^23^ 
 ### Job exige que se le llame pecador solo si hay una indicación específica de deuda maliciosa
-
 ## 7
 ^-1^ 
 ### Job deplora las dificultades y la brevedad de la vida humana en general y su propia situación desesperada en particular
@@ -4111,7 +4057,6 @@
 ### La experiencia y la tradición de los Padres testifican la caída segura de los impíos
 ^13^ ^19^ 
 ### Una perspectiva reconfortante: si Job se aparta de un ser impío, será bendecido nuevamente por Dios
-
 ## 9
 ^-1^ 
 ### Sí, Dios siempre tiene razón porque nadie puede resistirlo, el Todopoderoso
@@ -4121,7 +4066,6 @@
 ### Para cambiar la vida agonizante por la muerte, Job pronuncia conscientemente la blasfemia de que Dios actúa arbitrariamente contra los piadosos y contra los pecadores
 ^28^ 
 ### Dios no quiere aceptar la ley de Job, de lo contrario Job le gustaría hablar con él
-
 ## 10
 ^-1^ 
 ### ¿Cómo puede sólo Dios, con su omnisciencia y perfección, ser un perseguidor de Job?
@@ -4207,7 +4151,6 @@
 ### La felicidad y la infelicidad son dadas arbitrariamente por Dios
 ^17^ ^18^ ^19^ ^26^ 
 ### La aplicación de la doctrina de la retribución de Dios a Job y el consuelo de Job para la felicidad posterior es incorrecta o incluso maliciosa
-
 ## 22
 ^-1^ 
 ### Eliphaz ahora expresa sin reservas que Job merecía su desgracia
@@ -4279,7 +4222,6 @@
 ### Eliú justifica su silencio anterior
 ^7^ ^14^ 
 ### Eliú explica que su mente está impulsada a mostrar imparcialmente su comprensión
-
 ## 33
 ^-1^ 
 ### Discurso amistoso de Eliú e invitación a Job para que comentara
@@ -4289,7 +4231,6 @@
 ### Dios enseña a la gente sobre sus intenciones y sobre su pecado, a veces a través de sueños, a veces a través del sufrimiento, especialmente la enfermedad
 ^16^ ^17^ ^23^ ^28^ 
 ### Solicitar a Job que le instruya o que refute la explicación de Eliú
-
 ## 34
 ^-1^ 
 ### Estableciendo la afirmación de Job de que Dios es injusto
@@ -4331,7 +4272,6 @@
 ### La invitación de Dios a Job para entablar un litigio con él; Job renuncia a sus cargos contra Dios
 ^7^ ^24^ 
 ## 41
-
 ## 42
 ^-1^ 
 ### La respuesta final de Job: su reconocimiento de la grandeza de Dios y su arrepentida retractación
@@ -4551,11 +4491,9 @@
 ## 53
 ^-1^ 
 ### Pensamientos sobre la depravación general del mundo y pedir redención
-
 ## 54
 ^-1^ 
 ### Pide ayuda contra enemigos impíos
-
 ## 55
 ^-1^ 
 ### Oración contra un enemigo impío y queja contra un amigo infiel
@@ -4619,7 +4557,6 @@
 ## 70
 ^-1^ 
 ### Pide ayuda en la búsqueda
-
 ## 71
 ^-1^ 
 ### ¡No me dejes en la vejez!
@@ -4861,11 +4798,9 @@
 ## 120
 ^-1^ 
 ### Pida ayuda contra adversarios engañosos y contenciosos
-
 ## 121
 ^-1^ 
 ### El fiel guardián del pueblo
-
 ## 122
 ^-1^ 
 ### Las bendiciones de un peregrino para Jerusalén
@@ -4873,7 +4808,6 @@
 ## 123
 ^-1^ 
 ### Los creyentes miran a Dios con vergüenza y burla
-
 ## 124
 ^-1^ 
 ### El salvador de Israel necesitado
@@ -4905,7 +4839,6 @@
 ## 131
 ^-1^ 
 ### Satisfacción tranquila (o descanso en Dios)
-
 ## 132
 ^-1^ 
 ### Oración por Sion en vista de la promesa de Dios a David
@@ -4913,7 +4846,6 @@
 ## 133
 ^-1^ 
 ### Bendiciones de la unidad fraterna
-
 ## 134
 ^-1^ 
 ### Canción de los guardias del templo en el servicio nocturno
@@ -4981,7 +4913,6 @@
 ## 150
 ^-1^ 
 ### ¡Todo lo que respira, alabado sea el Señor!
-
 # Proverbios
 ## 1
 ^-1^ 
@@ -5028,13 +4959,11 @@
 ### La sabiduría como primera y más excelente criatura de Dios
 ^27^ ^31^ 
 ### Recordatorio y advertencia
-
 ## 9
 ^-1^ 
 ### La Sra. Sabiduria y la Sra. Locura invitan a los invitados
 ^2^ ^8^ ^11^ ^12^ 
 ### La invitación a la locura
-
 ## 10
 ^1^ ^4^ ^10^ ^11^ ^12^ ^16^ ^24^ ^28^ ^29^ ^30^ ^31^ ^32^ 
 ## 11
@@ -5101,7 +5030,6 @@
 ### La inutilidad de luchar por la sabiduría y el conocimiento; La vida humana resulta inútil para el espectador
 ^12^ ^15^ 
 ### La búsqueda de un conocimiento claro conduce a la decepción
-
 ## 2
 ^-1^ 
 ### La inutilidad de intentar obtener satisfacción mediante los placeres sensuales y el disfrute de la vida o mediante la actividad creativa
@@ -5139,7 +5067,6 @@
 ### La nulidad y las quejas de las riquezas
 ^11^ \ ^12^ \ ^14^ ^17^ 
 ### Recomendación del disfrute de la vida además del trabajo y la riqueza
-
 ## 6
 ^-1^ 
 ### Alguien tiene bienes ricos pero no los disfruta
@@ -5147,7 +5074,6 @@
 ### La insaciabilidad del deseo y la búsqueda del placer
 ^9^ 
 ### La impotencia humana en relación con la predestinación divina de todas las cosas (especialmente la vida de personas individuales)
-
 ## 7
 ^-1^ 
 ### Advertencias para ser serios con la vida y someterse pacientemente a los decretos divinos
@@ -5165,7 +5091,6 @@
 ### Justos y malvados generalmente corren el mismo destino en una sola violencia; Pertenece cuando uno tiene pautas para el disfrute de la vida en el trabajo
 ^12^ ^13^ \ ^15^ 
 ### El gobierno de Dios en el gobierno mundial es insondable para el hombre
-
 ## 9
 ^-1^ 
 ### La misma suerte para todos en la vida y en la muerte; impotencia humana contra la deidad; El disfrute piadoso de la vida antes de la muerte establece una meta para todo gozo y actividad
@@ -5173,7 +5098,6 @@
 ### La dependencia del hombre del destino
 ^11^ ^12^ 
 ### Más experiencias de vida y dichos de sabiduría
-
 ## 10
 ^4^ \ ^6^ ^10^ \ ^11^ ^14^ \ ^16^ ^19^ ^20^ 
 ## 11
@@ -5212,7 +5136,6 @@
 ### Sueño anhelante de la novia
 ^1^ ^4^ ^5^ 
 ### La procesión nupcial del novio
-
 ## 4
 ^-1^ 
 ### Descripción de la novia por el novio
@@ -5220,7 +5143,6 @@
 ### La boda
 ^11^ 
 ### Comparación de la esposa de la novia con un maravilloso jardín
-
 ## 5
 ^-1^ 
 ### El joven marido toma posesión de su jardín; la fiesta de bodas
@@ -5234,7 +5156,6 @@
 ### Descripción de la novia por el novio
 ^4^ ^5^ ^6^ ^7^ ^8^ ^9^ 
 ### La procesión de la boda
-
 ## 7
 ^-1^ 
 ### Descripción del baile de la novia; Alabado sea su belleza
@@ -5252,7 +5173,6 @@
 ### Canción de la hermana pequeña que frustró los planes de los codiciosos hermanos
 ^10^ 
 ### Canción de los dos viñedos
-
 # Isaías
 ## 1
 ^-1^ 
@@ -5287,7 +5207,6 @@
 ### El juicio de Dios sobre las mujeres altivas y degeneradas de las clases altas de Jerusalén
 ^16^ ^17^ \ ^24^ 
 ### La ciudad despojada de sus hombres
-
 ## 4
 ^1^ 
 ### Gloria de la Jerusalén purificada después del juicio del mundo bajo la protección personal de Dios
@@ -5299,7 +5218,6 @@
 ### Seis ayes del profeta por los pecados y los vicios del pueblo
 ^8^ ^10^ \ ^15^ ^17^ \ ^19^ \ ^20^ \ ^21^ \ ^24^ 
 ### El juicio destructivo de Dios amenazado por el terrible enemigo (asirio)
-
 ## 6
 ^-1^ 
 ### El llamado y la consagración de Isaías como profeta
@@ -5451,7 +5369,6 @@
 ### Lamento por la destrucción del país y la ciudad
 ^1^ \ ^7^ \ ^10^ ^12^ \ ^14^ 
 ### La ciudad volverá a florecer más tarde y servirá al Señor
-
 ## 24
 ^-1^ 
 ### La tierra y su gente enfrentan un juicio desolado
@@ -5499,7 +5416,6 @@
 ### Condenar y amenazar a los líderes confiados del estado
 ^16^ ^21^ ^22^ 
 ### El sabio comportamiento de Dios en su obra educativa sobre los pueblos a pesar de todos los cambios está ilustrado por una parábola (del agricultor)
-
 ## 29
 ^-1^ 
 ### Anuncio del asedio, la humillación y la maravillosa salvación de Jerusalén, el Ariel
@@ -5539,7 +5455,6 @@
 ### Discurso punitivo y amenazador a las mujeres que viven con una frivolidad despreocupada
 ^9^ ^14^ 
 ### Promesa de salvación para las personas que finalmente han sido purificadas después del derramamiento del espíritu
-
 ## 33
 ^-1^ 
 ### El llamado final de aflicción y angustia para el infame conquistador para quien ahora ha llegado el juicio de Dios
@@ -5573,7 +5488,6 @@
 ### Isaías envía notificación de su oración al rey Ezechîas en el nombre de Dios
 ^22^ \ ^24^ ^25^ \ ^29^ \ ^31^ ^32^ \ ^35^ 
 ### El cumplimiento de la promesa: la partida y el asesinato de Senaquerib
-
 ## 38
 ^-1^ 
 ### Enfermedad, recuperación y cántico de alabanza de Ezequías
@@ -5589,7 +5503,6 @@
 ### El discurso de castigo de Isaías sobre la pompa descuidada del rey y su profecía sobre el cautiverio en Babilonia
 ^3^ \ ^4^ \ ^7^ 
 ### La respuesta devota pero impenitente de Ezechîas
-
 ## 40
 ^-1^ 
 ### El dicho consolador de Dios sobre el perdón del pueblo
@@ -5701,7 +5614,6 @@
 ### Los gentiles como siervos sumisos y cuidadores del pueblo de Dios
 ^23^ 
 ### El mismo Dios Todopoderoso derrocará al gobernante de Israel
-
 ## 50
 ^-1^ 
 ### Dios no ha echado ni vendido a su pueblo para bien; tiene el derecho y el poder de redimirlo
@@ -5709,7 +5621,6 @@
 ### Entre los dones que le ha dado Dios, el siervo de Dios hace especial hincapié en la lealtad profesional, la firmeza de fe y la tolerancia
 ^4^ ^5^ ^6^ ^9^ 
 ### Aliento a los piadosos y amenaza a los oponentes violentos e impíos
-
 ## 51
 ^-1^ 
 ### Discurso de amonestación sincero y aliento reconfortante para aquellos que anhelan la salvación entre la gente
@@ -5793,7 +5704,6 @@
 ### Presentación de la gloria prometida por Dios
 ^5^ ^6^ ^8^ ^9^ 
 ### Saludos de la comunidad por la graciosa glorificación
-
 ## 62
 ^-1^ 
 ### Dios proclama que no se detendrá hasta que llegue el apogeo de Sion
@@ -5850,7 +5760,6 @@
 ### Dos caras que llaman (el árbol de vigilia y el caldero hirviendo)
 ^11^ \ ^12^ \ ^13^ \ ^16^ 
 ### ¡A trabajar y a la oficina!
-
 ## 2
 ^-1^ 
 ### La lealtad inicial de Israel a su Dios y su posterior apostasía desdeñosa con sus desastrosas consecuencias
@@ -5944,7 +5853,6 @@
 ### La verdadera auto-fama; circuncisión derecha
 ^23^ ^24^ 
 ### Israel es incircunciso de corazón
-
 ## 10
 ^-1^ 
 ### La nada de los ídolos y la majestad del único Dios verdadero
@@ -6000,7 +5908,6 @@
 ### Jeremías llora por la gran angustia de Judá
 ^17^ ^18^ 
 ### Queja renovada y súplica urgente del Profeta
-
 ## 15
 ^-1^ 
 ### Otro rechazo a una intercesión de Jeremías y una nueva amenaza de Dios
@@ -6010,7 +5917,6 @@
 ### Jeremías agotado en sus fuerzas y loco por Dios
 ^10^ \ ^18^ 
 ### La corrección y aceptación del profeta por Dios
-
 ## 16
 ^-1^ 
 ### Se supone que Jeremías no debe tener familia
@@ -6024,7 +5930,6 @@
 ### Los pescadores y cazadores enviados por Dios pronto perseguirán cruelmente al pueblo
 ^18^ 
 ### Los gentiles reconocen al único Dios
-
 ## 17
 ^-1^ 
 ### La culpa imperdonable de Judá y el severo castigo de Dios
@@ -6052,7 +5957,6 @@
 ### La abominación de Thopheth; la destrucción de Judá simbólicamente anunciada por el rompimiento de una jarra
 ^2^ ^3^ ^5^ ^6^ \ ^8^ ^9^ \ ^11^ ^13^ 
 ### El discurso de Jeremías ante el pueblo en el patio del templo; su maltrato por parte del coronel del templo Pashur
-
 ## 20
 ^5^ ^6^ 
 ### El amargo lamento del profeta por los sufrimientos de su profesión; sus luchas internas y su consuelo
@@ -6068,7 +5972,6 @@
 ### Advertencia a la familia real
 ^12^ 
 ### Anuncio de sentencia para la ciudad de Jerusalén
-
 ## 22
 ^-1^ 
 ### Advertencia a la casa real de Judá; Anuncio del juicio sobre los reyes Salum (Joacaz) y Joacim
@@ -6096,7 +5999,6 @@
 ### Advertencia de los sueños de los profetas mentirosos
 ^29^ \ ^32^ 
 ### Advertencia contra la expresión incorrecta “carga del Señor”
-
 ## 24
 ^-1^ 
 ### La cara de las dos cestas de higos y el significado de las cestas
@@ -6372,7 +6274,6 @@
 ### Los números de los que se llevaron
 ^28^ ^30^ 
 ### Jojachín indultado tras treinta y siete años de prisión
-
 # Lamentaciones
 ## 1
 ^-1^ 
@@ -6409,7 +6310,6 @@
 ### Oración de la comunidad oprimida por misericordia y restauración
 ^16^ ^18^ 
 ### Pide nueva gracia
-
 # Ezequiel
 ## 1
 ^-1^ 
@@ -6476,7 +6376,6 @@
 ### Adoración del dios sol
 ^16^ 
 ### Asociación de idolatría en toda la tierra de Judá; La amenaza de Dios
-
 ## 9
 ^-1^ 
 ### El nombre de los piadosos y la matanza de los impíos habitantes de Jerusalén
@@ -6526,7 +6425,6 @@
 ### Jerusalén, la madera inútil de la vid
 ^2^ ^5^ 
 ### Interpretación de la parábola
-
 ## 16
 ^-1^ 
 ### Jerusalén, el hijo adoptivo fallido o la esposa infiel
@@ -6650,13 +6548,11 @@
 ### Descripción del impacto de esta destrucción en el mundo de las naciones
 ^18^ 
 ### Dios ha decidido destruir completamente la ciudad
-
 ## 27
 ^-1^ 
 ### Tiro como barco de soberbia esplendor; la gloria de la ciudad, especialmente como el mercado mundial
 ^2^ ^3^ ^5^ ^9^ ^11^ \ ^12^ \ ^13^ \ ^14^ \ ^15^ \ ^16^ \ ^17^ \ ^18^ \ ^19^ \ ^20^ \ ^21^ \ ^22^ \ ^25^ 
 ### El repentino hundimiento del barco; Impresión de este evento en el mundo de las naciones
-
 ## 28
 ^-1^ 
 ### El juicio de Dios sobre la arrogancia del príncipe
@@ -6826,7 +6722,6 @@
 ### El proposito de las celdas sacerdotales
 ^14^ 
 ### Finalización del reconocimiento de todo el recinto sagrado
-
 ## 43
 ^-1^ 
 ### La entrada de Dios en el templo recién construido y su canonización
@@ -6874,7 +6769,6 @@
 ### Las fronteras del pais
 ^13^ ^14^ \ ^15^ \ ^17^ \ ^18^ \ ^19^ \ ^20^ 
 ### Tratamiento de extraños durante la distribución
-
 ## 48
 ^-1^ 
 ### Las siete tribus al norte del santuario sagrado
@@ -6931,7 +6825,6 @@
 ### El cumplimiento de todas las profecías de Daniel: la arrogancia de Nabucodonosor, desprecio por el espíritu, conversión, restauración
 ^27^ \ ^30^ \ ^31^ ^32^ \ ^33^ \ ^35^ \ ^36^ 
 ### El decreto termina con alabanza por la grandeza de Dios
-
 ## 5
 ^-1^ 
 ### Belsasar consagra los vasos del templo de los judíos
@@ -6963,7 +6856,6 @@
 ### A petición suya, Daniel recibe información de alguien que está allí sobre los cuatro imperios mundiales, especialmente sobre la destrucción del cuarto reino y el establecimiento del reino mesiánico
 ^16^ \ ^18^ \ ^19^ ^22^ \ ^24^ ^25^ \ ^27^ 
 ### Impresión de lo que se vio en Daniel
-
 ## 8
 ^-1^ 
 ### Escena de la cara del sueño; Lucha del carnero de cuernos desiguales (persa) y el macho cabrío de un cuerno (griego); Victoria y fortalecimiento de este último
@@ -6975,7 +6867,6 @@
 ### Gabriel, el arcángel en forma humana, muestra el rostro de Daniel y anuncia los perversos acontecimientos del último rey griego
 ^16^ \ ^17^ \ ^18^ \ ^22^ \ ^25^ \ ^26^ 
 ### La consternación y la enfermedad de Daniel de la cara
-
 ## 9
 ^-1^ 
 ### Daniel, preocupado por una profecía de Jeremías, decide obtener información de Dios a través de una oración solemne
@@ -7016,7 +6907,6 @@
 ### La infidelidad de Israel a Dios representada visiblemente por el pacto matrimonial del profeta con una esposa infiel
 ^1^ \ ^2^ \ ^3^ \ ^4^ ^5^ \ ^6^ \ ^7^ \ ^8^ \ ^9^ 
 ### Un día, después de circunstancias más felices, los tres nombres desafortunados experimentarán una reinterpretación favorable
-
 ## 2
 ^1^ 
 ### La falta de fe de la madre, es decir, del pueblo de Israel, y su castigo
@@ -7036,7 +6926,6 @@
 ### Queja sobre el culto pagano del pueblo
 ^13^ ^14^ 
 ### Advertencia a Judá idólatra y perturbadora
-
 ## 5
 ^-1^ 
 ### Palabras de Oseas a los sacerdotes y a la familia real de Israel sobre su práctica de adoración falsa
@@ -7094,7 +6983,6 @@
 ### Recordatorio de arrepentimiento y oración penitencial del pueblo
 ^2^ ^3^ ^4^ 
 ### La promesa de Dios de salvación
-
 # Joel
 ## 1
 ^-1^ 
@@ -7111,7 +6999,6 @@
 ### Responde a la oración; la consoladora promesa de Dios
 ^19^ ^20^ ^23^ ^26^ ^27^ 
 ### El derramamiento del espíritu divino sobre todo el pueblo y los presagios del juicio mundial
-
 ## 3
 ^-1^ 
 ### El día del Señor como el día del juicio para los gentiles y como la glorificación de la iglesia de Sion
@@ -7119,7 +7006,6 @@
 ### Ejecución del juicio sobre los gentiles
 ^17^ 
 ### El tiempo de bendición para Judá
-
 # Amós
 ## 1
 ^-1^ 
@@ -7202,7 +7088,6 @@
 ### El avistamiento de la gente; la restauración del antiguo Reino de David
 ^10^ ^12^ 
 ### La gloria de la dispensación futura
-
 # Abdías
 ## 1
 ^-1^ 
@@ -7237,7 +7122,6 @@
 ### Anuncio de la caída de Samaria
 ^7^ 
 ### La denuncia de Micha sobre un tribunal penal que se acerca a través de un enemigo abrumador
-
 ## 2
 ^-1^ 
 ### Amenaza a los grandes ricos y violentos y a los oponentes del Profeta
@@ -7271,7 +7155,6 @@
 ### La supremacía de Israel entre los pueblos
 ^7^ ^9^ 
 ### La purificación de la tierra y la purificación del pueblo
-
 ## 6
 ^-1^ 
 ### La disputa de Dios con su pueblo ingrato
@@ -7308,7 +7191,6 @@
 ### La caída de la ciudad es inevitable
 ^8^ ^11^ ^13^ \ ^17^ 
 ### Un canto fúnebre en Nínive
-
 # Habacuc
 ## 1
 ^-1^ 
@@ -7365,7 +7247,6 @@
 ### Referencia a la bendición que seguramente vendrá con la construcción del templo
 ^16^ ^17^ ^19^ 
 ### La caída de los reinos paganos y la promesa de la exaltación de Zorobabel
-
 # Zacarías
 ## 1
 ^-1^ 
@@ -7444,7 +7325,6 @@
 ### El infructuoso oficio pastoral del profeta; su deshonroso rechazo por parte de los dueños del rebaño
 ^9^ ^12^ ^13^ ^14^ 
 ### Otro llamado del profeta al oficio pastoral y amenazas al pastor inútil
-
 ## 12
 ^-1^ 
 ### Embestida de los gentiles en Jerusalén; Salvación de la ciudad por Dios y por el mérito de Judá
@@ -7468,7 +7348,6 @@
 ### Todos los pueblos deben adorar al Señor en Jerusalén
 ^16^ ^19^ 
 ### En Judá y Jerusalén, incluso los objetos de uso más comunes serán santificados
-
 # Malaquías
 ## 1
 ^-1^ 
@@ -8043,7 +7922,6 @@
 ### La muerte de Jesús; el signo milagroso de su muerte
 ^34^ \ ^35^ \ ^36^ \ ^39^ \ ^41^ 
 ### Entierro de Jesús
-
 ## 16
 ^-1^ 
 ### Descubrimiento de la tumba vacía en la mañana de Pascua; la revelación del ángel a las mujeres
@@ -8136,7 +8014,6 @@
 ### Tanto la obediencia de la fe como la incredulidad de la gente viene del corazón, como el fruto de la especie del árbol
 ^45^ 
 ### Sea un hacedor de la palabra, no solo un oyente
-
 ## 7
 ^-1^ 
 ### Sanación del siervo del centurión de Capernaum
@@ -8322,7 +8199,6 @@
 ### La contrapregunta de Jesús sobre el Mesías como hijo de David
 ^43^ \ ^44^ 
 ### Advertencia de Jesús sobre la ambición y la codicia de los escribas
-
 ## 21
 ^-1^ 
 ### Jesús alaba las dos blancas de la viuda pobre
@@ -8390,7 +8266,6 @@
 ### Jesús se apareció al círculo de los discípulos la noche del domingo de Pascua; su mandato misionero y despedida de los discípulos
 ^36^ \ ^37^ \ ^40^ ^41^ \ ^44^ \ ^45^ ^46^ ^47^ ^49^ 
 ### Ascensión de jesús
-
 # Juan
 ## 1
 ^-1^ 
@@ -8688,7 +8563,6 @@
 ### Sanación del paralizado Eneas en Lydda
 ^35^ 
 ### Criar a Tabitha en Joppe
-
 ## 10
 ^-1^ 
 ### La visión de Cornelio en Cesarea
@@ -8812,7 +8686,6 @@
 ### El efecto del habla; Pablo bajo custodia con el coronel romano
 ^22^ \ ^25^ \ ^26^ \ ^27^ \ ^28^ \ ^29^ 
 ### Pablo ante el sumo consejo judío
-
 ## 23
 ^1^ \ ^2^ \ ^3^ \ ^4^ \ ^5^ \ ^6^ \ ^8^ ^9^ \ ^10^ \ ^11^ 
 ### Intento de asesinato de los judíos contra Pablo
@@ -8832,7 +8705,6 @@
 ### Herodes Agripa II y Berenice como invitados en Festo en Cesarea; Festo informa a Agripa de la causa de Pablo
 ^16^ ^21^ \ ^22^ 
 ### Discurso de manifestación y defensa de Pablo frente a Agripa y Festo
-
 ## 26
 ^-1^ 
 ### Discurso defensivo de Pablo ante Agripa
@@ -8864,7 +8736,6 @@
 ### Negociaciones de Pablo con los jefes de los judíos romanos
 ^17^ ^19^ ^20^ \ ^22^ \ ^27^ \ ^28^ \ ^29^ 
 ### El ministerio de dos años de Pablo en cautiverio en Roma
-
 # Romanos
 ## 1
 ^-1^ 
@@ -9130,7 +9001,6 @@
 ### Aplicación de la imagen a la estructura divina de la iglesia
 ^28^ ^30^ 
 ### Sin amor, incluso los dones espirituales más elevados no valen nada
-
 ## 13
 ^2^ ^3^ 
 ### La esencia del amor
@@ -9332,7 +9202,6 @@
 ### Interpretación simbólica del relato del Antiguo Testamento de Ismael e Isaac, los dos hijos de Abraham, como evidencia de la libertad del cristiano de los estatutos de la ley
 ^23^ ^24^ ^26^ ^27^ \ ^30^ 
 ### Resumen de lo dicho hasta ahora y una última advertencia para aferrarse a la libertad cristiana, que es incompatible con la ley y la circuncisión
-
 ## 5
 ^1^ \ ^6^ 
 ### Queja melancólica sobre seductores y personas seducidas en la iglesia
@@ -9371,7 +9240,6 @@
 ### La intercesión del Apóstol para que los lectores los fortalezcan en la fe, el amor y el conocimiento
 ^17^ ^19^ 
 ### Dios sea la gloria
-
 ## 4
 ^-1^ 
 ### Exhortación a la unidad y al crecimiento de la fe en la comunidad con toda la diversidad de dones
@@ -9525,7 +9393,6 @@
 ### Acción de gracias por los avances en la fe y la lealtad cristiana de la comunidad en todas las tribulaciones
 ^3^ ^4^ ^5^ ^6^ ^7^ ^8^ ^10^ 
 ### Intercesión apostólica por la Iglesia
-
 ## 2
 ^-1^ 
 ### Advertencia contra expectativas apresuradas; Instrucción sobre el tiempo de la segunda venida del Señor y sobre la aparición del Anticristo ante ella
@@ -9539,7 +9406,6 @@
 ### Reglas de conducta hacia los holgazanes; Recordatorio para llevar un estilo de vida ordenado y practicar una disciplina prudente
 ^6^ ^7^ ^8^ ^9^ ^10^ ^12^ \ ^13^ ^15^ \ ^16^ 
 ### Saludo personal y bendición de Pablo
-
 # 1 Timoteo
 ## 1
 ^-1^ 
@@ -9878,7 +9744,6 @@
 ### Esté atento a las tentaciones del diablo
 ^8^ ^10^ ^11^ 
 ### Fin de la carta; Saludos y bendiciones
-
 # 2 Pedro
 ## 1
 ^-1^ 
@@ -9965,7 +9830,6 @@
 ### Recordatorio de amar fraternalmente y tener cuidado con los falsos maestros y el anticristo
 ^5^ ^6^ \ ^8^ ^9^ ^10^ ^11^ 
 ### Cierre de carta; saludos
-
 # 3 Juan
 ## 1
 ^-1^ 
@@ -9978,7 +9842,6 @@
 ### Con el reconocimiento de Demetrius
 ^12^ 
 ### Cierre de carta; saludos
-
 # Judas
 ## 1
 ^-1^ 
@@ -10052,7 +9915,6 @@
 ### Las primeras cuatro trompetas (es decir, las plagas que vienen de arriba)
 ^7^ \ ^8^ ^9^ \ ^10^ ^11^ \ ^12^ 
 ### La primera llamada del águila y la quinta y sexta trompetas (las dos plagas que vienen de abajo, es decir, del infierno)
-
 ## 9
 ^-1^ 
 ### La quinta trompeta o el primer ay
@@ -10080,7 +9942,6 @@
 ### La victoria de Michael sobre el dragón en el cielo; Caída del dragón; himno celestial de alabanza; el reinado de Dios y su ungido está amaneciendo
 ^9^ \ ^10^ ^11^ ^12^ 
 ### Persecución infructuosa de mujeres por parte del dragón
-
 ## 13
 ^-1^ 
 ### La primera bestia del mar, de diez cuernos y siete cabezas; Amonestación a perseverar

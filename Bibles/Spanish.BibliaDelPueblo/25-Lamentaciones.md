@@ -13,7 +13,6 @@
 ^11^ Todo su pueblo buscó su pan suspirando; dieron por la comida todas sus cosas preciosas, para entretener la vida. Mira, oh Jehová, y ve que estoy abatida.
 
 ## Desafortunadamente, la ciudad se llenó de lamentos y confesiones arrepentidas
- 
 ^12^ ¿No os conmueve á cuantos pasáis por el camino? Mirad, y ved si hay dolor como mi dolor que me ha venido; porque Jehová me ha angustiado en el día de la ira de su furor. 
 ^13^ Desde lo alto envió fuego en mis huesos, el cual se enseñoreó: ha extendido red á mis pies, tornóme atrás, púsome asolada, y que siempre tenga dolor. 
 ^14^ El yugo de mis rebeliones está ligado por su mano, enlazadas han subido sobre mi cerviz: ha hecho caer mis fuerzas: hame entregado el Señor en sus manos, contra quienes no podré levantarme. 
@@ -22,7 +21,6 @@
 ^17^ Sión extendió sus manos, no tiene quien la consuele; Jehová dió mandamiento contra Jacob, que sus enemigos lo cercasen: Jerusalem fué en abominación entre ellos.
 
 ## La oración de Sion a Dios pidiendo ayuda y venganza contra los enemigos
- 
 ^18^ Jehová es justo; que yo contra su boca me rebelé. Oid ahora, pueblos todos, y ved mi dolor: mis vírgenes y mis mancebos fueron en cautiverio. 
 ^19^ Dí voces á mis amadores, mas ellos me han engañado; mis sacerdotes y mis ancianos en la ciudad perecieron, buscando comida para sí con que entretener su vida. 
 ^20^ Mira, oh Jehová, que estoy atribulada: mis entrañas rugen, mi corazón está trastornado en medio de mí; porque me rebelé desaforadamente: de fuera deshijó el cuchillo, de dentro parece una muerte. 
@@ -43,7 +41,6 @@
 ^10^ Sentáronse en tierra, callaron los ancianos de la hija de Sión; echaron polvo sobre sus cabezas, ciñéronse de saco; las vírgenes de Jerusalem bajaron sus cabezas á tierra.
 
 ## Pensamientos y sentimientos del escritor y el mundo exterior; Dios cumplió su consejo
- 
 ^11^ Mis ojos desfallecieron de lágrimas, rugieron mis entrañas, mi hígado se derramó por tierra por el quebrantamiento de la hija de mi pueblo, cuando desfallecía el niño y el que mamaba, en las plazas de la ciudad. 
 ^12^ Decían á sus madres: ¿Dónde está el trigo y el vino? Desfallecían como heridos en las calles de la ciudad, derramando sus almas en el regazo de sus madres. 
 ^13^ ¿Qué testigo te traeré, ó á quién te haré semejante, hija de Jerusalem? ¿A quién te compararé para consolarte, oh virgen hija de Sión? Porque grande es tu quebrantamiento como la mar: ¿quién te medicinará? 
@@ -53,7 +50,6 @@
 ^17^ Jehová ha hecho lo que tenía determinado, ha cumplido su palabra que él había mandado desde tiempo antiguo: destruyó, y no perdonó; y alegró sobre ti al enemigo, y enalteció el cuerno de tus adversarios.
 
 ## Invitación a Sion para clamar a Dios por misericordia; El clamor de Sion pidiendo ayuda y una pregunta terrible a Dios
- 
 ^18^ El corazón de ellos clamaba al Señor: Oh muro de la hija de Sión, echa lágrimas como un arroyo día y noche; no descanses, ni cesen las niñas de tus ojos. 
 ^19^ Levántate, da voces en la noche, en el principio de las velas; derrama como agua tu corazón ante la presencia del Señor; alza tus manos á él por la vida de tus pequeñitos, que desfallecen de hambre en las entradas de todas las calles. 
 ^20^ Mira, oh Jehová, y considera á quién has hecho así. ¿Han de comer las mujeres su fruto, los pequeñitos de sus crías? ¿Han de ser muertos en el santuario del Señor el sacerdote y el profeta? 
@@ -88,7 +84,6 @@
 ^24^ Mi parte es Jehová, dijo mi alma; por tanto en él esperaré.
 
 ## Referencia a la bondad y misericordia de Dios, al pecado y la destrucción del pueblo y a la participación del escritor en el destino de su pueblo
- 
 ^25^ Bueno es Jehová á los que en él esperan, al alma que le buscare. 
 ^26^ Bueno es esperar callando en la salud de Jehová. 
 ^27^ Bueno es al hombre, si llevare el yugo desde su mocedad. 
@@ -118,7 +113,6 @@
 ^51^ Mis ojos contristaron mi alma, por todas las hijas de mi ciudad.
 
 ## Nueva denuncia del infeliz camarada nacional; Pide rescate y venganza del enemigo
- 
 ^52^ Mis enemigos me dieron caza como á ave, sin por qué. 
 ^53^ Ataron mi vida en mazmorra, pusieron piedra sobre mí. 
 ^54^ Aguas de avenida vinieron sobre mi cabeza; yo dije: Muerto soy. 
@@ -151,7 +145,6 @@
 ^12^ Nunca los reyes de la tierra, ni todos los que habitan en el mundo, creyeron que el enemigo y el adversario entrara por las puertas de Jerusalem.
 
 ## La culpa y el destino de los sacerdotes y profetas; la suerte del rey y sus seguidores; Deseo de venganza contra Edom
- 
 ^13^ Es por los pecados de sus profetas, por las maldades de sus sacerdotes, que derramaron en medio de ella la sangre de los justos. 
 ^14^ Titubearon como ciegos en las calles, fueron contaminados en sangre, de modo que no pudiesen tocar á sus vestiduras. 
 ^15^ Apartaos ¡inmundos!, les gritaban, Apartaos, apartaos, no toquéis. Cuando huyeron y fueron dispersos, dijeron entre las gentes: Nunca más morarán aquí. 
@@ -184,7 +177,7 @@
 ^17^ Por esto fué entristecido nuestro corazón, por esto se entenebrecieron nuestros ojos: 
 ^18^ Por el monte de Sión que está asolado; zorras andan en él.
 
-## Pide nueva gracia
+## Pide nueva gracia
  
 ^19^ Mas tú, Jehová, permanecerás para siempre: tu trono de generación en generación. 
 ^20^ ¿Por qué te olvidarás para siempre de nosotros, y nos dejarás por largos días? 

@@ -2,7 +2,6 @@
 ## Bendiciones
 ^1^ El anciano á la señora elegida y á sus hijos, á los cuales yo amo en verdad; y no yo solo, sino también todos los que han conocido la verdad, ^^ ^2^ Por la verdad que está en nosotros, y será perpetuamente con nosotros: ^3^ Sea con vosotros gracia, misericordia, y paz de Dios Padre, y del Señor Jesucristo, Hijo del Padre, en verdad y en amor. 
 
-
 ^[**1:1** 1Jn 1,-1]
 
 ## Recordatorio de amar fraternalmente y tener cuidado con los falsos maestros y el anticristo
@@ -11,7 +10,6 @@
 ^[**1:5** 1Jn 2,7]
 
 ^7^ Porque muchos engañadores son entrados en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. Este tal el engañador es, y el anticristo. ^8^ Mirad por vosotros mismos, porque no perdamos las cosas que hemos obrado, sino que recibamos galardón cumplido. ^^ ^9^ Cualquiera que se rebela, y no persevera en la doctrina de Cristo, no tiene á Dios: el que persevera en la doctrina de Cristo, el tal tiene al Padre y al Hijo. ^^ ^10^ Si alguno viene á vosotros, y no trae esta doctrina, no lo recibáis en casa, ni le digáis: ¡bienvenido! ^^ ^11^ Porque el que le dice bienvenido, comunica con sus malas obras. 
-
 
 ^[**1:8** Gal 4,11] ^[**1:9** 1Jn 2,23] ^[**1:10** 2Tes 3,6]
 

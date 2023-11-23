@@ -3,10 +3,8 @@
 ^1^ Pablo, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es en Dios nuestro Padre y en el Señor Jesucristo: ^2^ Gracia y paz á vosotros de Dios nuestro Padre y del Señor Jesucristo. 
 
 
-
 ## Acción de gracias por los avances en la fe y la lealtad cristiana de la comunidad en todas las tribulaciones
 ^3^ Debemos siempre dar gracias á Dios de vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo, y la caridad de cada uno de todos vosotros abunda entre vosotros; ^^ ^4^ Tanto, que nosotros mismos nos gloriamos de vosotros en las iglesias de Dios, de vuestra paciencia y fe en todas vuestras persecuciones y tribulaciones que sufrís: ^^ ^5^ Una demostración del justo juicio de Dios, para que seáis tenidos por dignos del reino de Dios, por el cual asimismo padecéis. ^^ ^6^ Porque es justo para con Dios pagar con tribulación á los que os atribulan. ^^ ^7^ Y á vosotros, que sois atribulados, dar reposo con nosotros, cuando se manifestará el Señor Jesús del cielo con los ángeles de su potencia, ^^ ^8^ En llama de fuego, para dar el pago á los que no conocieron á Dios, ni obedecen al evangelio de nuestro Señor Jesucristo; ^^ ^9^ Los cuales serán castigados de eterna perdición por la presencia del Señor, y por la gloria de su potencia, ^10^ Cuando viniere para ser glorificado en sus santos, y á hacerse admirable en aquel día en todos los que creyeron: (por cuanto nuestro testimonio ha sido creído entre vosotros.) 
-
 
 ^[**1:3** 1Tes 1,2-3] ^[**1:4** 2Cor 7,4] ^[**1:5** Fil 1,28] ^[**1:6** Rom 12,19; Apoc 18,6-7] ^[**1:7** Mat 16,27; Mat 25,31-46; 1Tes 4,16] ^[**1:8** Rom 2,8]
 
@@ -16,7 +14,6 @@
 # 2 
 ## Advertencia contra expectativas apresuradas; Instrucción sobre el tiempo de la segunda venida del Señor y sobre la aparición del Anticristo ante ella
 ^1^ Empero os rogamos, hermanos, cuanto á la venida de nuestro Señor Jesucristo, y nuestro recogimiento á él, ^^ ^2^ Que no os mováis fácilmente de vuestro sentimiento, ni os conturbéis ni por espíritu, ni por palabra, ni por carta como nuestra, como que el día del Señor esté cerca. ^^ ^3^ No os engañe nadie en ninguna manera; porque no vendrá sin que venga antes la apostasía, y se manifieste el hombre de pecado, el hijo de perdición, ^^ ^4^ Oponiéndose, y levantándose contra todo lo que se llama Dios, ó que se adora; tanto que se asiente en el templo de Dios como Dios, haciéndose parecer Dios. ^^ ^5^ ¿No os acordáis que cuando estaba todavía con vosotros, os decía esto? ^6^ Y ahora vosotros sabéis lo que impide, para que á su tiempo se manifieste. ^7^ Porque ya está obrando el misterio de iniquidad: solamente espera hasta que sea quitado de en medio el que ahora impide; ^8^ Y entonces será manifestado aquel inicuo, al cual el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida; ^^ ^9^ A aquel inicuo, cuyo advenimiento es según operación de Satanás, con grande potencia, y señales, y milagros mentirosos, ^^ ^10^ Y con todo engaño de iniquidad en los que perecen; por cuanto no recibieron el amor de la verdad para ser salvos. ^11^ Por tanto, pues, les envía Dios operación de error, para que crean á la mentira; ^^ ^12^ Para que sean condenados todos los que no creyeron á la verdad, antes consintieron á la iniquidad. 
-
 
 ^[**2:1** 1Tes 4,13; 1Tes 4,17] ^[**2:2** 2Pe 3,15-16] ^[**2:3** 1Tim 4,1; 1Jn 2,18] ^[**2:4** Mat 24,15; Dan 11,36] ^[**2:8** Is 11,4; Apoc 19,15; Apoc 19,20] ^[**2:9** Mat 24,24; Apoc 13,11-14] ^[**2:11** 2Tim 4,4]
 
@@ -30,7 +27,6 @@
 # 3 
 ## Amonestación para interceder por el éxito del anuncio de la salvación; Bendición para el estado cristiano de la iglesia
 ^1^ Resta, hermanos, que oréis por nosotros, que la palabra del Señor corra y sea glorificada así como entre vosotros: ^2^ Y que seamos librados de hombres importunos y malos; porque no es de todos la fe. ^3^ Mas fiel es el Señor, que os confirmará y guardará del mal. ^^ ^4^ Y tenemos confianza de vosotros en el Señor, que hacéis y haréis lo que os hemos mandado. ^^ ^5^ Y el Señor enderece vuestros corazones en el amor de Dios, y en la paciencia de Cristo. 
-
 
 ^[**3:3** 1Tes 5,24; Juan 17,15] ^[**3:4** 2Cor 7,16; Gal 5,10]
 

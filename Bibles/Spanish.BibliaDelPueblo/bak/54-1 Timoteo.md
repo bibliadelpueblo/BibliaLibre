@@ -8,18 +8,15 @@
 ## Amonestación para luchar por el mensaje saludable de salvación contra los falsos maestros
 ^3^ Como te rogué que te quedases en Efeso, cuando partí para Macedonia, para que requirieses á algunos que no enseñen diversa doctrina, ^^ ^4^ Ni presten atención á fábulas y genealogías sin término, que antes engendran cuestiones que la edificación de Dios que es por fe; así te encargo ahora. ^^ ^5^ Pues el fin del mandamiento es la caridad nacida de corazón limpio, y de buena conciencia, y de fe no fingida: ^^ ^6^ De lo cual distrayéndose algunos, se apartaron á vanas pláticas; ^^ ^7^ Queriendo ser doctores de la ley, sin entender ni lo que hablan, ni lo que afirman. 
 
-
 ^[**1:3** Hech 20,1] ^[**1:4** 1Tim 4,7] ^[**1:5** Mat 22,37-40; Rom 13,10; Gal 5,6] ^[**1:6** 1Tim 6,4; 1Tim 6,20]
 
 ## La posición del cristiano sobre la ley
 ^8^ Sabemos empero que la ley es buena, si alguno usa de ella legítimamente; ^^ ^9^ Conociendo esto, que la ley no es puesta para el justo, sino para los injustos y para los desobedientes, para los impíos y pecadores, para los malos y profanos, para los parricidas y matricidas, para los homicidas, ^^ ^10^ Para los fornicarios, para los sodomitas, para los ladrones de hombres, para los mentirosos y perjuros, y si hay alguna otra cosa contraria á la sana doctrina; ^11^ Según el evangelio de la gloria del Dios bendito, el cual á mí me ha sido encargado. 
 
-
 ^[**1:8** Rom 7,12] ^[**1:9** 1Cor 6,9-11]
 
 ## La experiencia de la gracia del apóstol y su llamado a testificar de la verdad cristiana de la salvación; Alabado sea la gracia que Jesús le dio
 ^12^ Y doy gracias al que me fortificó, á Cristo Jesús nuestro Señor, de que me tuvo por fiel, poniéndome en el ministerio: ^^ ^13^ Habiendo sido antes blasfemo y perseguidor é injuriador: mas fuí recibido á misericordia, porque lo hice con ignorancia en incredulidad. ^14^ Mas la gracia de nuestro Señor fué más abundante con la fe y amor que es en Cristo Jesús. ^15^ Palabra fiel y digna de ser recibida de todos: que Cristo Jesús vino al mundo para salvar á los pecadores, de los cuales yo soy el primero. ^16^ Mas por esto fuí recibido á misericordia, para que Jesucristo mostrase en mí el primero toda su clemencia, para ejemplo de los que habían de creer en él para vida eterna. ^17^ Por tanto, al Rey de siglos, inmortal, invisible, al solo sabio Dios sea honor y gloria por los siglos de los siglos. Amén. 
-
 
 ^[**1:12** Hech 9,15; 1Cor 15,9-10; Gal 1,13-16]
 
@@ -42,12 +39,10 @@
 ## Requisitos para el cargo de jefe
 ^1^ Palabra fiel: Si alguno apetece obispado, buena obra desea. ^^ ^2^ Conviene, pues, que el obispo sea irreprensible, marido de una mujer, solícito, templado, compuesto, hospedador, apto para enseñar; ^3^ No amador del vino, no heridor, no codicioso de torpes ganancias, sino moderado, no litigioso, ajeno de avaricia; ^4^ Que gobierne bien su casa, que tenga sus hijos en sujeción con toda honestidad; ^5^ (Porque el que no sabe gobernar su casa, ¿cómo cuidará de la iglesia de Dios?) ^6^ No un neófito, porque inflándose no caiga en juicio del diablo. ^7^ También conviene que tenga buen testimonio de los extraños, porque no caiga en afrenta y en lazo del diablo. 
 
-
 ^[**3:1** Hech 20,28; Fil 1,1; Tit 1,5-9]
 
 ## Requisitos de ayudantía
 ^8^ Los diáconos asimismo, deben ser honestos, no bilingües, no dados á mucho vino, no amadores de torpes ganancias; ^^ ^9^ Que tengan el misterio de la fe con limpia conciencia. ^^ ^10^ Y éstos también sean antes probados; y así ministren, si fueren sin crimen. ^11^ Las mujeres asimismo, honestas, no detractoras, templadas, fieles en todo. ^^ ^12^ Los diáconos sean maridos de una mujer, que gobiernen bien sus hijos y sus casas. ^13^ Porque los que bien ministraren, ganan para sí buen grado, y mucha confianza en la fe que es en Cristo Jesús. 
-
 
 ^[**3:8** Hech 6,3; Fil 1,1] ^[**3:9** 1Tim 1,19] ^[**3:11** Tit 2,3]
 
@@ -59,12 +54,10 @@
 ## Advertencia de la abstinencia hipócrita de los falsos maestros
 ^1^ Empero el Espíritu dice manifiestamente, que en los venideros tiempos algunos apostatarán de la fe, escuchando á espíritus de error y á doctrinas de demonios; ^^ ^2^ Que con hipocresía hablarán mentira, teniendo cauterizada la conciencia. ^3^ Que prohibirán casarse, y mandarán abstenerse de las viandas que Dios crió para que con hacimiento de gracias participasen de ellas los fieles, y los que han conocido la verdad. ^^ ^4^ Porque todo lo que Dios crió es bueno, y nada hay que desechar, tomándose con hacimiento de gracias: ^^ ^5^ Porque por la palabra de Dios y por la oración es santificado. 
 
-
 ^[**4:1** Mat 24,24; 2Tes 2,3; 2Tim 3,1; 2Pe 3,3; 1Jn 2,18; Jds 1,18] ^[**4:3** Gén 9,3; 1Cor 10,30-31; Col 2,23] ^[**4:4** Gén 1,31; Mat 15,11; Hech 10,15]
 
 ## El correcto ejercicio cristiano de la piedad y la bendición que se le prometió
 ^6^ Si esto propusieres á los hermanos, serás buen ministro de Jesucristo, criado en las palabras de la fe y de la buena doctrina, la cual has alcanzado. ^^ ^7^ Mas las fábulas profanas y de viejas desecha, y ejercítate para la piedad. ^^ ^8^ Porque el ejercicio corporal para poco es provechoso; mas la piedad para todo aprovecha, pues tiene promesa de esta vida presente, y de la venidera. ^^ ^9^ Palabra fiel es esta, y digna de ser recibida de todos. ^10^ Que por esto aun trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, el cual es Salvador de todos los hombres, mayormente de los que creen. ^11^ Esto manda y enseña. 
-
 
 ^[**4:6** 2Tim 2,15] ^[**4:7** 1Tim 6,20; 2Tim 2,16; 2Tim 2,23; 2Tim 4,4; Tit 1,14; Tit 3,9] ^[**4:8** 1Tim 6,6; Heb 13,9]
 
@@ -77,7 +70,6 @@
 ## Del correcto comportamiento pastoral hacia las diferentes edades de ambos sexos
 ^1^ No reprendas al anciano, sino exhórtale como á padre: á los más jóvenes, como á hermanos; ^^ ^2^ A las ancianas, como á madres; á las jovencitas, como á hermanas, con toda pureza. 
 
-
 ^[**5:1** Lev 19,32; Tit 2,2]
 
 ## Normas relativas a las viudas y su cuidado
@@ -87,9 +79,7 @@
 
 ^9^ La viuda sea puesta en clase especial, no menos que de sesenta años, que haya sido esposa de un solo marido. ^10^ Que tenga testimonio en buenas obras; si crió hijos; si ha ejercitado la hospitalidad; si ha lavado los pies de los santos; si ha socorrido á los afligidos; si ha seguido toda buena obra. 
 
-
 ^11^ Pero viudas más jóvenes no admitas: porque después de hacerse licenciosas contra Cristo, quieren casarse. ^12^ Condenadas ya, por haber falseado la primera fe. ^13^ Y aun también se acostumbran á ser ociosas, á andar de casa en casa; y no solamente ociosas, sino también parleras y curiosas, hablando lo que no conviene. ^14^ Quiero pues, que las que son jóvenes se casen, críen hijos, gobiernen la casa; que ninguna ocasión den al adversario para maldecir. ^^ ^15^ Porque ya algunas han vuelto atrás en pos de Satanás. ^16^ Si algún fiel ó alguna fiel tiene viudas, manténgalas, y no sea gravada la iglesia; á fin de que haya lo suficiente para las que de verdad son viudas. 
-
 
 ^[**5:14** 1Tim 2,15; 1Cor 7,9]
 
@@ -105,7 +95,6 @@
 
 ## Amonestación personal para Timoteo
 ^23^ No bebas de aquí adelante agua, sino usa de un poco de vino por causa del estómago, y de tus continuas enfermedades. 
-
 
 ^24^ Los pecados de algunos hombres, antes que vengan ellos á juicio, son manifiestos; mas á otros les vienen después. ^25^ Asimismo las buenas obras antes son manifiestas; y las que son de otra manera, no pueden esconderse. 
 

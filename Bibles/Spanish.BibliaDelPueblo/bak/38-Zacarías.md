@@ -2,18 +2,14 @@
 ## La penitencia introductoria
 ^1^ En el mes octavo, en el año segundo de Darío, fué palabra de Jehová á Zacarías profeta, hijo de Berechîas, hijo de Iddo, diciendo: ^^ ^2^ Enojóse Jehová con ira contra vuestros padres. ^3^ Les dirás pues: Así ha dicho Jehová de los ejércitos: Volveos á mí, dice Jehová de los ejércitos, y yo me volveré á vosotros, ha dicho Jehová de los ejércitos. ^4^ No seáis como vuestros padres, á los cuales dieron voces los primeros profetas, diciendo: Así ha dicho Jehová de los ejércitos: Volveos ahora de vuestros malos caminos, y de vuestras malas obras: y no atendieron, ni me escucharon, dice Jehová. ^^ ^5^ Vuestros padres, ¿dónde están? y los profetas ¿han de vivir para siempre? ^6^ Empero mis palabras y mis ordenanzas que mandé á mis siervos los profetas, ¿no alcanzaron á vuestros padres? Por eso se volvieron ellos y dijeron: Como Jehová de los ejércitos pensó tratarnos conforme á nuestros caminos, y conforme á nuestras obras, así lo hizo con nosotros. 
 
-
 ^[**1:1** Esd 5,1] ^[**1:4** Jer 3,12; Ezeq 33,11]
 
 ## Los cuatro jinetes en cuatro caballos de diferentes colores ante el Señor; El celo de Dios por Sion
 ^7^ A los veinticuatro del mes undécimo, que es el mes de Sebath, en el año segundo de Darío, fué palabra de Jehová á Zacarías profeta, hijo de Berechîas, hijo de Iddo, diciendo: ^8^ Vi de noche, y he aquí un varón que cabalgaba sobre un caballo bermejo, el cual estaba entre los mirtos que había en la hondura; y detrás de él había caballos bermejos, overos, y blancos. ^9^ Entonces dije: ¿Qué son éstos, señor mío? Y díjome el ángel que hablaba conmigo: Yo te enseñaré qué son éstos. 
 
-
 ^10^ Y aquel varón que estaba entre los mirtos respondió, y dijo: Estos son los que Jehová ha enviado á recorrer la tierra. 
 
-
 ^11^ Y ellos hablaron á aquel ángel de Jehová que estaba entre los mirtos, y dijeron: Hemos recorrido la tierra, y he aquí, toda la tierra está reposada y quieta. 
-
 
 ^12^ Y respondió el ángel de Jehová, y dijo: Oh Jehová de los ejércitos, ¿hasta cuándo no tendrás piedad de Jerusalem, y de las ciudades de Judá, con las cuales has estado airado por espacio de setenta años? 
 ^^ 
@@ -31,21 +27,17 @@
 ## Los cuatro cuernos y los cuatro herreros; El juicio de Dios de aniquilación sobre las potencias mundiales hostiles
 ^18^ Después alcé mis ojos, y miré, y he aquí cuatro cuernos. ^19^ Y dije al ángel que hablaba conmigo: ¿Qué son éstos? Y respondióme: Estos son los cuernos que aventaron á Judá, á Israel, y á Jerusalem. 
 
-
 ^20^ Mostróme luego Jehová cuatro carpinteros. ^21^ Y yo dije: ¿Qué vienen éstos á hacer? Y respondióme, diciendo: Estos son los cuernos que aventaron á Judá, tanto que ninguno alzó su cabeza; mas éstos han venido para hacerlos temblar, para derribar los cuernos de las gentes, que alzaron el cuerno sobre la tierra de Judá para aventarla. 
 
 # 2 
 ## El hombre de la línea de medición, Restaurando Jerusalén a una ciudad rica y abierta
 ^1^ Alcé después mis ojos, y miré y he aquí un varón que tenía en su mano un cordel de medir. ^2^ Y díjele: ¿A dónde vas? Y él me respondió: A medir á Jerusalem, para ver cuánta es su anchura, y cuánta su longitud. 
 
-
 ^3^ Y he aquí, salía aquel ángel que hablaba conmigo, y otro ángel le salió al encuentro, ^4^ Y díjole: Corre, habla á este mozo, diciendo: Sin muros será habitada Jerusalem á causa de la multitud de los hombres, y de las bestias en medio de ella. ^5^ Yo seré para ella, dice Jehová, muro de fuego en derredor, y seré por gloria en medio de ella. 
-
 
 
 ## Invitación a regresar a casa a todos los camaradas que todavía están en Babilonia
 ^6^ Eh, eh, huid de la tierra del aquilón, dice Jehová, pues por los cuatro vientos de los cielos os esparcí, dice Jehová. ^7^ Oh Sión, la que moras con la hija de Babilonia, escápate. 
-
 
 
 ## Tres proclamas de salvación para Judá
@@ -65,7 +57,6 @@
 
 ^3^ Y Josué estaba vestido de vestimentas viles, y estaba delante del ángel. ^4^ Y habló el ángel, é intimó á los que estaban delante de sí, diciendo: Quitadle esas vestimentas viles. Y á él dijo: Mira que he hecho pasar tu pecado de ti, y te he hecho vestir de ropas de gala. 
 
-
 ^5^ Después dijo: Pongan mitra limpia sobre su cabeza. Y pusieron una mitra limpia sobre su cabeza, y vistiéronle de ropas. Y el ángel de Jehová estaba en pie. 
 ^^ 
 ^[**3:5** Éxod 28,39]
@@ -77,17 +68,13 @@
 ## El candelero de oro entre los dos olivos
 ^1^ Y volvió el ángel que hablaba conmigo, y despertóme como un hombre que es despertado de su sueño. ^2^ Y díjome: ¿Qué ves? Y respondí: He mirado, y he aquí un candelero todo de oro, con su vaso sobre su cabeza, y sus siete lámparas encima del candelero; y siete canales para las lámparas que están encima de él; 
 
-
 ^3^ Y sobre él dos olivas, la una á la derecha del vaso, y la otra á su izquierda. 
-
 
 ^4^ Proseguí, y hablé á aquel ángel que hablaba conmigo, diciendo: ¿Qué es esto, señor mío? 
 
 
-
 ## La interpretación de la visiona
 ^5^ Y el ángel que hablaba conmigo respondió, y díjome: ¿No sabes qué es esto? Y dije: No, señor mío. 
-
 
 ^6^ Entonces respondió y hablóme, diciendo: Esta es palabra de Jehová á Zorobabel, en que se dice: No con ejército, ni con fuerza, sino con mi espíritu, ha dicho Jehová de los ejércitos. ^7^ ¿Quién eres tú, oh gran monte? Delante de Zorobabel serás reducido á llanura: él sacará la primera piedra con aclamaciones de Gracia, gracia á ella. 
 ^^ 
@@ -99,12 +86,9 @@
 
 ^11^ Hablé más, y díjele: ¿Qué significan estas dos olivas á la derecha del candelero, y á su izquierda? 
 
-
 ^12^ Hablé aún de nuevo, y díjele: ¿Qué significan las dos ramas de olivas que por medio de dos tubos de oro vierten de sí aceite como oro? 
 
-
 ^13^ Y respondióme, diciendo: ¿No sabes qué es esto? Y dije: Señor mío, no. 
-
 
 ^14^ Y él dijo: Estos dos hijos de aceite son los que están delante del Señor de toda la tierra. 
 
@@ -112,14 +96,11 @@
 ## El pergamino volador
 ^1^ Y tornéme, y alcé mis ojos, y miré, y he aquí un rollo que volaba. ^2^ Y díjome: ¿Qué ves? Y respondí: Veo un rollo que vuela, de veinte codos de largo, y diez codos de ancho. 
 
-
 ^3^ Díjome entonces: Esta es la maldición que sale sobre la haz de toda la tierra; porque todo aquel que hurta, (como está de la una parte del rollo) será destruído; y todo aquel que jura, (como está de la otra parte del rollo) será destruído. ^4^ Yo la saqué, dice Jehová de los ejércitos, y vendrá á la casa del ladrón, y á la casa del que jura falsamente en mi nombre; y permanecerá en medio de su casa, y consumirála, con sus enmaderamientos y sus piedras. 
-
 
 
 ## La mujer del gran barril
 ^5^ Y salió aquel ángel que hablaba conmigo, y díjome: Alza ahora tus ojos, y mira qué es esto que sale. 
-
 
 ^6^ Y dije: ¿Qué es? Y él dijo: Este es un epha que sale. Además dijo: Este es el ojo de ellos en toda la tierra. 
 ^^ 
@@ -127,9 +108,7 @@
 
 ^7^ Y he aquí, traían un talento de plomo, y una mujer estaba asentada en medio de aquel epha. ^8^ Y él dijo: Esta es la Maldad; y echóla dentro del epha, y echó la masa de plomo en su boca. 
 
-
 ^9^ Alcé luego mis ojos, y miré, y he aquí dos mujeres que salían, y traían viento en sus alas, y tenían alas como de cigüeña, y alzaron el epha entre la tierra y los cielos. ^10^ Y dije al ángel que hablaba conmigo: ¿A dónde llevan el epha? 
-
 
 ^11^ Y él me respondió: Para que le sea edificada casa en tierra de Shinar: y será asentado y puesto allá sobre su asiento. 
 
@@ -146,7 +125,6 @@
 ^8^ Luego me llamó, y hablóme diciendo: Mira, los que salieron hacia la tierra del aquilón hicieron reposar mi espíritu en la tierra del aquilón. 
 
 
-
 ## La fabricación de una corona para Zorobabel
 ^9^ Y fué á mí palabra de Jehová, diciendo: ^10^ Toma de los del cautiverio, de Heldai, y de Tobías, y de Jedaía, los cuales volvieron de Babilonia; y vendrás tú en aquel día, y entrarás en casa de Josías hijo de Sefanías; ^11^ Tomarás pues plata y oro, y harás coronas, y las pondrás en la cabeza del gran sacerdote Josué, hijo de Josadac; ^12^ Y le hablarás, diciendo: Así ha hablado Jehová de los ejércitos, diciendo: He aquí el varón cuyo nombre es Pimpollo, el cual germinará de su lugar, y edificará el templo de Jehová: ^13^ El edificará el templo de Jehová, y él llevará gloria, y se sentará y dominará en su trono, y será sacerdote en su solio; y consejo de paz será entre ambos á dos. ^^ ^14^ Y Helem, y Tobías, y Jedaía, y Hen, hijo de Sefanías, tendrán coronas por memorial en el templo de Jehová. 
 
@@ -159,16 +137,13 @@
 ^1^ Y aconteció en el año cuarto del rey Darío, que fué palabra de Jehová á Zacarías á los cuatro del mes noveno, que es Chisleu; ^2^ Cuando fué enviado á la casa de Dios, Saraser, con Regem-melech y sus hombres, á implorar el favor de Jehová, ^3^ Y á hablar á los sacerdotes que estaban en la casa de Jehová de los ejércitos, y á los profetas, diciendo: ¿Lloraremos en el mes quinto? ¿haremos abstinencia como hemos hecho ya algunos años? 
 
 
-
 ## Los días de ayuno son algo externo, sin sentido para Dios
 ^4^ Fué pues á mí palabra de Jehová de los ejércitos, diciendo: ^5^ Habla á todo el pueblo del país, y á los sacerdotes, diciendo: Cuando ayunasteis y llorasteis en el quinto y en el séptimo mes estos setenta años, ¿habéis ayunado para mí? ^^ ^6^ Y cuando coméis y bebéis, ¿no coméis y bebéis para vosotros? 
-
 
 ^[**7:5** Zac 8,19; Is 58,5]
 
 ## A través de los profetas, Dios siempre solo ha exigido justicia y amor a su pueblo
 ^7^ ¿No son estas las palabras que publicó Jehová por mano de los profetas primeros, cuando Jerusalem estaba habitada y quieta, y sus ciudades en sus alrededores, y el mediodía y la campiña se habitaban? 
-
 
 ^8^ Y fué palabra de Jehová á Zacarías, diciendo: ^9^ Así habló Jehová de los ejércitos, diciendo: Juzgad juicio verdadero, y haced misericordia y piedad cada cual con su hermano: ^10^ No agraviéis á la viuda, ni al huérfano, ni al extranjero, ni al pobre; ni ninguno piense mal en su corazón contra su hermano. 
 ^^ 
@@ -190,7 +165,6 @@
 
 ^6^ Así dice Jehová de los ejércitos: Si esto parecerá dificultoso á los ojos del resto de este pueblo en aquellos días, ¿también será dificultoso delante de mis ojos? dice Jehová de los ejércitos. 
 
-
 ^7^ Así ha dicho Jehová de los ejércitos: He aquí, yo salvo mi pueblo de la tierra del oriente, y de la tierra donde se pone el sol; ^8^ Y traerélos, y habitarán en medio de Jerusalem; y me serán por pueblo, y yo seré á ellos por Dios con verdad y con justicia. 
 ^^ 
 ^[**8:8** Jer 24,7]
@@ -207,13 +181,11 @@
 ## En el futuro, los días de ayuno serán reemplazados por festivales felices, y el mundo pagano también participará en la gloria del pueblo de Dios
 ^18^ Y fué á mí palabra de Jehová de los ejércitos, diciendo: ^19^ Así ha dicho Jehová de los ejércitos: El ayuno del cuarto mes, y el ayuno del quinto, y el ayuno del séptimo, y el ayuno del décimo, se tornarán á la casa de Judá en gozo y alegría, y en festivas solemnidades. Amad pues verdad y paz. 
 
-
 ^20^ Así ha dicho Jehová de los ejércitos: Aun vendrán pueblos, y moradores de muchas ciudades; ^21^ Y vendrán los moradores de la una á la otra, y dirán: Vamos á implorar el favor de Jehová, y á buscar á Jehová de los ejércitos. Yo también iré. ^22^ Y vendrán muchos pueblos y fuertes naciones á buscar á Jehová de los ejércitos en Jerusalem, y á implorar el favor de Jehová. ^23^ Así ha dicho Jehová de los ejércitos: En aquellos días acontecerá que diez hombres de todas las lenguas de las gentes, trabarán de la falda de un Judío, diciendo: Iremos con vosotros, porque hemos oído que Dios está con vosotros. 
 
 # 9 
 ## El juicio de Dios sobre los pueblos hostiles en Siria y Fenicia y su defensa de Jerusalén
 ^1^ Carga de la palabra de Jehová contra tierra de Hadrach, y de Damasco su reposo: porque á Jehová están vueltos los ojos de los hombres, y de todas las tribus de Israel. ^^ ^2^ Y también Hamath tendrá término en ella; Tiro y Sidón, aunque muy sabia sea. ^^ ^3^ Bien que Tiro se edificó fortaleza, y amontonó plata como polvo, y oro como lodo de las calles, ^4^ He aquí, el Señor la empobrecerá, y herirá en la mar su fortaleza, y ella será consumida de fuego. ^5^ Ascalón verá, y temerá; Gaza también, y se dolerá en gran manera: asimismo Ecrón, porque su esperanza será confundida; y de Gaza perecerá el rey, y Ascalón no será habitada. ^^ ^6^ Y habitará en Asdod un extranjero, y yo talaré la soberbia de los Palestinos; ^7^ Y quitaré sus sangres de su boca, y sus abominaciones de sus dientes, y quedarán ellos también para nuestro Dios, y serán como capitanes en Judá, y Ecrón como el Jebuseo. ^8^ Y seré real de ejército á mi casa, á causa del que va y del que viene: y no pasará más sobre ellos angustiador; porque ahora miré con mis ojos. 
-
 
 ^[**9:1** Is 17,1] ^[**9:2** Is 23,-1; Jer 47,4; Ezeq 26,1-28] ^[**9:5** Jer 47,-1]
 
@@ -233,10 +205,8 @@
 ^1^ Pedid á Jehová lluvia en la sazón tardía: Jehová hará relámpagos, y os dará lluvia abundante, y hierba en el campo á cada uno. ^2^ Porque las imágenes han hablado vanidad, y los adivinos han visto mentira, y han hablado sueños vanos, en vano consuelan: por lo cual se fueron ellos como ovejas, fueron humillados porque no tuvieron pastor. 
 
 
-
 ## Dios despierta a líderes heroicos a batallas victoriosas para su pueblo, a quien ahora se le ha confiado el sombrero de malos pastores
 ^3^ Contra los pastores se ha encendido mi enojo, y castigaré los machos de cabrío: mas Jehová de los ejércitos visitará su rebaño, la casa de Judá, y tornarálos como su caballo de honor en la guerra. ^^ ^4^ De él saldrá el ángulo, de él la clavija, de él el arco de la guerra, de él también todo apremiador. ^^ ^5^ Y serán como valientes, que en la batalla pisan al enemigo en el lodo de las calles; y pelearán, porque Jehová será con ellos; y los que cabalgan en caballos serán avergonzados. ^6^ Porque yo fortificaré la casa de Judá, y guardaré la casa de José; y harélos volver, porque de ellos tendré piedad; y serán como si no los hubiera desechado; porque yo soy Jehová su Dios, que los oiré. ^7^ Y será Ephraim como valiente, y alegraráse su corazón como de vino: sus hijos también verán y se alegrarán; su corazón se gozará en Jehová. 
-
 
 ^[**10:3** Zac 11,5] ^[**10:4** Jer 30,21]
 
@@ -250,10 +220,8 @@
 ^1^ Oh Líbano, abre tus puertas, y queme fuego tus cedros. ^2^ Aulla, oh haya, porque el cedro cayó, porque los magníficos son talados. Aullad, alcornoques de Basán, porque el fuerte monte es derribado. ^3^ Voz de aullido de pastores, porque su magnificencia es asolada; estruendo de bramidos de cachorros de leones, porque la soberbia del Jordán es destruída. 
 
 
-
 ## El llamado del profeta a pastorear a la gente infeliz
 ^4^ Así ha dicho Jehová mi Dios: Apacienta las ovejas de la matanza; ^5^ A las cuales mataban sus compradores, y no se tenían por culpables; y el que las vendía, decía: Bendito sea Jehová, que he enriquecido; ni sus pastores tenían piedad de ellas. ^^ ^6^ Por tanto, no más tendré piedad de los moradores de la tierra, dice Jehová: porque he aquí, yo entregaré los hombres, cada cual en mano de su compañero, y en mano de su rey; y quebrantarán la tierra, y yo no libraré de sus manos. 
-
 
 ^[**11:5** Jer 23,-1; Ezeq 13,-1; Ezeq 34,1-34]
 
@@ -273,7 +241,6 @@
 ^[**12:3** Zac 14,2; Jl 4,12]
 
 ^6^ En aquel día pondré los capitanes de Judá como un brasero de fuego en leña, y como una hacha de fuego en gavillas; y consumirán á diestra y á siniestra todos los pueblos alrededor: y Jerusalem será otra vez habitada en su lugar, en Jerusalem. 
-
 
 ^7^ Y librará Jehová las tiendas de Judá primero, porque la gloria de la casa de David y del morador de Jerusalem no se engrandezca sobre Judá. ^8^ En aquel día Jehová defenderá al morador de Jerusalem: y el que entre ellos fuere flaco, en aquel tiempo será como David; y la casa de David como ángeles, como el ángel de Jehová delante de ellos. 
 
@@ -297,7 +264,6 @@
 
 ^2^ Y será en aquel día, dice Jehová de los ejércitos, que talaré de la tierra los nombres de las imágenes, y nunca más vendrán en memoria: y también haré talar de la tierra los profetas, y espíritu de inmundicia. ^^ ^3^ Y será que cuando alguno más profetizare, diránle su padre y su madre que lo engendraron: No vivirás, porque has hablado mentira en el nombre de Jehová: y su padre y su madre que lo engendraron, le alancearán cuando profetizare. ^^ ^4^ Y será en aquel tiempo, que todos los profetas se avergonzarán de su visión cuando profetizaren; ni nunca más se vestirán de manto velloso para mentir. ^^ ^5^ Y dirá: No soy profeta; labrador soy de la tierra: porque esto aprendí del hombre desde mi juventud. ^6^ Y le preguntarán: ¿Qué heridas son éstas en tus manos? Y él responderá: Con ellas fuí herido en casa de mis amigos. 
 
-
 ^[**13:2** Miq 5,12] ^[**13:3** Deut 13,6] ^[**13:4** 2Re 1,8]
 
 ## El tribunal de purificación
@@ -313,7 +279,6 @@
 
 ## Los maravillosos procesos de la naturaleza en el día del Señor
 ^6^ Y acontecerá que en ese día no habrá luz clara, ni oscura. ^7^ Y será un día, el cual es conocido de Jehová, que ni será día ni noche; mas acontecerá que al tiempo de la tarde habrá luz. 
-
 
 ^8^ Acontecerá también en aquel día, que saldrán de Jerusalem aguas vivas; la mitad de ellas hacia la mar oriental, y la otra mitad hacia la mar occidental, en verano y en invierno. 
 ^^ 
@@ -331,14 +296,11 @@
 ## El juicio sobre los pueblos que hicieron la guerra a Jerusalén
 ^12^ Y esta será la plaga con que herirá Jehová á todos los pueblos que pelearon contra Jerusalem: la carne de ellos se disolverá estando ellos sobre sus pies, y se consumirán sus ojos en sus cuencas, y su lengua se les deshará en su boca. ^13^ Y acontecerá en aquel día que habrá en ellos gran quebrantamiento de Jehová; porque trabará cada uno de la mano de su compañero, y su mano echará contra la mano de su compañero. ^14^ Y Judá también peleará en Jerusalem. Y serán reunidas las riquezas de todas las gentes de alrededor: oro, y plata, y ropas de vestir, en grande abundancia. 
 
-
 ^15^ Y tal como esto será la plaga de los caballos, de los mulos, de los camellos, de los asnos, y de todas las bestias que estuvieren en aquellos campamentos. 
-
 
 
 ## Todos los pueblos deben adorar al Señor en Jerusalén
 ^16^ Y todos los que quedaren de las gentes que vinieron contra Jerusalem, subirán de año en año á adorar al Rey, Jehová de los ejércitos, y á celebrar la fiesta de las Cabañas. ^^ ^17^ Y acontecerá, que los de las familias de la tierra que no subieren á Jerusalem á adorar al Rey, Jehová de los ejércitos, no vendrá sobre ellos lluvia. ^18^ Y si la familia de Egipto no subiere, y no viniere, sobre ellos no habrá lluvia; vendrá la plaga con que Jehová herirá las gentes que no subieren á celebrar la fiesta de las Cabañas. ^19^ Esta será la pena del pecado de Egipto, y del pecado de todas las gentes que no subieren á celebrar la fiesta de las Cabañas. 
-
 
 ^[**14:16** Zac 14,9]
 

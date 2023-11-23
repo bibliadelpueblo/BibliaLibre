@@ -17,7 +17,6 @@
 
 ^8^ Tan amadores de vosotros, que quisiéramos entregaros no sólo el evangelio de Dios, mas aun nuestras propias almas; porque nos erais carísimos. ^9^ Porque ya, hermanos, os acordáis de nuestro trabajo y fatiga: que trabajando de noche y de día por no ser gravosos á ninguno de vosotros, os predicamos el evangelio de Dios. ^^ ^10^ Vosotros sois testigos, y Dios, de cuán santa y justa é irreprensiblemente nos condujimos con vosotros que creísteis: ^11^ Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos, ^12^ Y os protestábamos que anduvieseis como es digno de Dios, que os llamó á su reino y gloria. 
 
-
 ^[**2:9** Hech 18,3; Hech 20,33-34; 2Tes 3,8; 1Cor 4,12]
 
 ## Acción de gracias por la recepción voluntaria del mensaje de salvación por parte de la comunidad y alabanza por su constancia en el sufrimiento
@@ -72,7 +71,6 @@
 ## Deberes de los feligreses hacia los líderes parroquiales
 ^12^ Y os rogamos, hermanos, que reconozcáis á los que trabajan entre vosotros, y os presiden en el Señor, y os amonestan: ^^ ^13^ Y que los tengáis en mucha estima por amor de su obra. Tened paz los unos con los otros. 
 
-
 ^[**5:12** 1Cor 16,18]
 
 ## Deberes de los líderes comunitarios hacia los miembros de la comunidad
@@ -84,12 +82,10 @@
 ## Obligaciones de toda la comunidad en actitud y eficacia
 ^16^ Estad siempre gozosos. ^^ ^17^ Orad sin cesar. ^^ ^18^ Dad gracias en todo; porque esta es la voluntad de Dios para con vosotros en Cristo Jesús. ^^ ^19^ No apaguéis el Espíritu. ^^ ^20^ No menospreciéis las profecías. ^21^ Examinadlo todo; retened lo bueno. ^22^ Apartaos de toda especie de mal. 
 
-
 ^[**5:16** Fil 4,4] ^[**5:17** Luc 18,1-8; Rom 12,12; Efes 6,18; Col 4,2] ^[**5:18** Efes 5,20] ^[**5:19** 1Cor 14,1; 1Cor 14,39]
 
 ## Petición de oración final
 ^23^ Y el Dios de paz os santifique en todo; para que vuestro espíritu y alma y cuerpo sea guardado entero sin reprensión para la venida de nuestro Señor Jesucristo. 
-
 
 ^24^ Fiel es el que os ha llamado; el cual también lo hará. 
 
@@ -99,8 +95,6 @@
 ## Fin de la carta; Paz y bendiciones
 ^25^ Hermanos, orad por nosotros. 
 
-
 ^26^ Saludad á todos los hermanos en ósculo santo. ^27^ Conjúroos por el Señor, que esta carta sea leída á todos los santos hermanos. 
-
 
 ^28^ La gracia de nuestro Señor Jesucristo sea con vosotros. Amén. La primera epístola á los Tesalonicenses fué escrita de Atenas. 

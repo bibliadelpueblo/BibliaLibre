@@ -3,10 +3,8 @@
 ^1^ Estas son las palabras que habló Moisés á todo Israel de esta parte del Jordán en el desierto, en el llano delante del mar Bermejo, entre Parán, y Thopel, y Labán, y Haseroth, y Dizahab. ^2^ Once jornadas hay desde Horeb, camino del monte de Seir, hasta Cades-barnea. ^3^ Y fué, que á los cuarenta años, en el mes undécimo, al primero del mes, Moisés habló á los hijos de Israel conforme á todas las cosas que Jehová le había mandado acerca de ellos; ^4^ Después que hirió á Sehón rey de los Amorrheos, que habitaba en Hesbón, y á Og rey de Basán, que habitaba en Astarot en Edrei: ^5^ De esta parte del Jordán, en tierra de Moab, resolvió Moisés declarar esta ley, diciendo: 
 
 
-
 ## El mandato de Dios de dejar Horeb (Sinaí)
 ^6^ Jehová nuestro Dios nos habló en Horeb, diciendo: Harto habéis estado en este monte; ^^ ^7^ Volveos, partíos é id al monte del Amorrheo, y á todas sus comarcas, en el llano, en el monte, y en los valles, y al mediodía, y á la costa de la mar, á la tierra del Cananeo, y el Líbano, hasta el gran río, el río Eufrates. ^8^ Mirad, yo he dado la tierra en vuestra presencia; entrad y poseed la tierra que Jehová juró á vuestros padres Abraham, Isaac, y Jacob, que les daría á ellos y á su simiente después de ellos. 
-
 
 ^[**1:6** Núm 10,11-12]
 
@@ -16,7 +14,6 @@
 ^[**1:10** Deut 10,22; Gén 15,5]
 
 ^14^ Y me respondisteis, y dijisteis: Bueno es hacer lo que has dicho. ^15^ Y tomé los principales de vuestras tribus, varones sabios y expertos, y púselos por jefes sobre vosotros, jefes de millares, y jefes de cientos, y jefes de cincuenta, y cabos de diez, y gobernadores á vuestras tribus. ^16^ Y entonces mandé á vuestros jueces, diciendo: Oid entre vuestros hermanos, y juzgad justamente entre el hombre y su hermano, y el que le es extranjero. ^17^ No tengáis respeto de personas en el juicio: así al pequeño como al grande oiréis: no tendréis temor de ninguno, porque el juicio es de Dios: y la causa que os fuere difícil, la traeréis á mí, y yo la oiré. ^^ ^18^ Os mandé, pues, en aquel tiempo todo lo que habíais de hacer. 
-
 
 ^[**1:17** Deut 16,19; Éxod 21,6]
 
@@ -31,9 +28,7 @@
 
 ^23^ Y el dicho me pareció bien: y tomé doce varones de vosotros, un varón por tribu: ^24^ Y se encaminaron, y subieron al monte, y llegaron hasta la arroyada de Escol, y reconocieron la tierra. ^25^ Y tomaron en sus manos del fruto del país, y nos lo trajeron, y diéronnos cuenta, y dijeron: Es buena la tierra que Jehová nuestro Dios nos da. 
 
-
 ^26^ Empero no quisisteis subir, antes fuisteis rebeldes al dicho de Jehová vuestro Dios; ^^ ^27^ Y murmurasteis en vuestras tiendas, diciendo: Porque Jehová nos aborrecía, nos ha sacado de tierra de Egipto, para entregarnos en mano del Amorrheo para destruirnos. ^28^ ¿A dónde subimos? Nuestros hermanos han hecho desfallecer nuestro corazón, diciendo: Este pueblo es mayor y más alto que nosotros, las ciudades grandes y muradas hasta el cielo; y también vimos allí hijos de gigantes. 
-
 
 ^[**1:26** Núm 14,-1]
 
@@ -50,16 +45,13 @@
 ## El juicio divino; Arrepentimiento del pueblo; Fracaso del intento de conquista no autorizado
 ^34^ Y oyó Jehová la voz de vuestras palabras, y enojóse, y juró diciendo: ^35^ No verá hombre alguno de estos de esta mala generación, la buena tierra que juré había de dar á vuestros padres, ^36^ Excepto Caleb hijo de Jephone: él la verá, y á él le daré la tierra que pisó, y á sus hijos; porque cumplió en pos de Jehová. 
 
-
 ^37^ Y también contra mí se airó Jehová por vosotros, diciendo: Tampoco tú entrarás allá: ^38^ Josué hijo de Nun, que está delante de ti, él entrará allá: anímale; porque él la hará heredar á Israel. ^^ ^39^ Y vuestros chiquitos, de los cuales dijisteis serán por presa, y vuestros hijos que no saben hoy bueno ni malo, ellos entrarán allá, y á ellos la daré, y ellos la heredarán. ^40^ Y vosotros volveos, y partíos al desierto camino del mar Bermejo. 
 
 ^[**1:38** Núm 34,17]
 
 ^41^ Entonces respondisteis y me dijisteis: Pecado hemos contra Jehová; nosotros subiremos y pelearemos, conforme á todo lo que Jehová nuestro Dios nos ha mandado. Y os armasteis cada uno de sus armas de guerra, y os apercibisteis para subir al monte. 
 
-
 ^42^ Y Jehová me dijo: Diles: No subáis, ni peleéis, pues no estoy entre vosotros; porque no seáis heridos delante de vuestros enemigos. 
-
 
 ^43^ Y os hablé, y no disteis oído; antes fuisteis rebeldes al dicho de Jehová, y persistiendo con altivez, subisteis al monte. ^44^ Y salió el Amorrheo, que habitaba en aquel monte, á vuestro encuentro, y os persiguieron, como hacen las avispas, y os derrotaron en Seir, persiguiéndoos hasta Horma. ^45^ Y volvisteis, y llorasteis delante de Jehová; pero Jehová no escuchó vuestra voz, ni os prestó oído. ^46^ Y estuvisteis en Cades por muchos días, como en los días que habéis estado. 
 
@@ -67,16 +59,13 @@
 ## Mirando hacia atrás en el viaje pacífico a través de la tierra de los edomitas y los moabitas; Prohibición de atacar a los amonitas; Derrota del rey amorreo Sehon
 ^1^ Y volvimos, y partímonos al desierto camino del mar Bermejo, como Jehová me había dicho; y rodeamos el monte de Seir por muchos días. 
 
-
 ^2^ Y Jehová me habló, diciendo: ^3^ Harto habéis rodeado este monte; volveos al aquilón. ^4^ Y manda al pueblo, diciendo: Pasando vosotros por el término de vuestros hermanos los hijos de Esaú, que habitan en Seir, ellos tendrán miedo de vosotros; mas vosotros guardaos mucho: ^^ ^5^ No os metáis con ellos; que no os daré de su tierra ni aun la holladura de la planta de un pie; porque yo he dado por heredad á Esaú el monte de Seir. ^^ ^6^ Compraréis de ellos por dinero las viandas, y comeréis; y también compraréis de ellos el agua, y beberéis: 
 
 ^[**2:4** Núm 20,14] ^[**2:5** Gén 36,8; Gén 36,43]
 
 ^7^ Pues Jehová tu Dios te ha bendecido en toda obra de tus manos: él sabe que andas por este gran desierto: estos cuarenta años Jehová tu Dios fué contigo; y ninguna cosa te ha faltado. 
 
-
 ^8^ Y pasamos de nuestros hermanos los hijos de Esaú, que habitaban en Seir, por el camino de la llanura de Elath y de Esiongeber. Y volvimos, y pasamos camino del desierto de Moab. 
-
 
 ^9^ Y Jehová me dijo: No molestes á Moab, ni te empeñes con ellos en guerra, que no te daré posesión de su tierra; porque yo he dado á Ar por heredad á los hijos de Lot. 
 ^^ 
@@ -96,9 +85,7 @@
 
 ^20^ (Por tierra de gigantes fué también ella tenida: habitaron en ella gigantes en otro tiempo, á los cuales los Ammonitas llamaban Zomzommeos; ^21^ Pueblo grande, y numeroso, y alto, como los Anaceos; á los cuales Jehová destruyó de delante de los Ammonitas, quienes les sucedieron, y habitaron en su lugar: ^22^ Como hizo con los hijos de Esaú, que habitaban en Seir, de delante de los cuales destruyó á los Horeos; y ellos les sucedieron, y habitaron en su lugar hasta hoy. ^23^ Y á los Heveos que habitaban en Haserin hasta Gaza, los Caftoreos que salieron de Caftor los destruyeron, y habitaron en su lugar.) 
 
-
 ^24^ Levantaos, partid, y pasad el arroyo de Arnón: he aquí he dado en tu mano á Sehón rey de Hesbón, Amorrheo, y á su tierra: comienza á tomar posesión, y empéñate con él en guerra. ^25^ Hoy comenzaré á poner tu miedo y tu espanto sobre los pueblos debajo de todo el cielo; los cuales oirán tu fama, y temblarán, y angustiarse han delante de ti. 
-
 
 
 ## Derrota del rey amorreo Sehon y conquista de su imperio
@@ -112,7 +99,6 @@
 ## Revisión de la derrota del rey Og de Basan y la distribución del Banco del este; Ánimo de Josué
 ^1^ Y volvimos, y subimos camino de Basán, y saliónos al encuentro Og rey de Basán para pelear, él y todo su pueblo, en Edrei. ^2^ Y díjome Jehová: No tengas temor de él, porque en tu mano he entregado á él y á todo su pueblo, y su tierra: y harás con él como hiciste con Sehón rey Amorrheo, que habitaba en Hesbón. 
 
-
 ^3^ Y Jehová nuestro Dios entregó también en nuestra mano á Og rey de Basán, y á todo su pueblo, al cual herimos hasta no quedar de él ninguno. ^4^ Y tomamos entonces todas sus ciudades; no quedó ciudad que no les tomásemos: sesenta ciudades, toda la tierra de Argob, del reino de Og en Basán. ^5^ Todas éstas eran ciudades fortalecidas con alto muro, con puertas y barras; sin otras muy muchas ciudades sin muro. ^6^ Y destruímoslas, como hicimos á Sehón rey de Hesbón, destruyendo en toda ciudad hombres, mujeres, y niños. ^7^ Y tomamos para nosotros todas las bestias, y los despojos de las ciudades. 
 
 ^^ 
@@ -121,12 +107,10 @@
 ## Revisión de las áreas conquistadas hasta entonces y su asentamiento por las tribus Ruben, Gad y Manasse
 ^8^ También tomamos en aquel tiempo de mano de dos reyes Amorrheos que estaban de esta parte del Jordán, la tierra desde el arroyo de Arnón hasta el monte de Hermón: ^9^ (Los Sidonios llaman á Hermón Sirión; y los Amorrheos, Senir:) ^10^ Todas las ciudades de la llanura, y todo Galaad, y todo Basán hasta Salchâ y Edrei, ciudades del reino de Og en Basán. ^11^ Porque sólo Og rey de Basán había quedado de los gigantes que quedaron. He aquí su cama, una cama de hierro, ¿no está en Rabbath de los hijos de Ammón?; la longitud de ella de nueve codos, y su anchura de cuatro codos, al codo de un hombre. ^12^ Y esta tierra que heredamos entonces desde Aroer, que está al arroyo de Arnón, y la mitad del monte de Galaad con sus ciudades, dí á los Rubenitas y á los Gaditas: ^^ ^13^ Y el resto de Galaad, y todo Basán, del reino de Og, dílo á la media tribu de Manasés; toda la tierra de Argob, todo Basán, que se llamaba la tierra de los gigantes. ^14^ Jair hijo de Manasés tomó toda la tierra de Argob hasta el término de Gessuri y Machâti; y llamóla de su nombre Basán-havoth-jair, hasta hoy. ^15^ Y á Machîr dí á Galaad. ^16^ Y á los Rubenitas y Gaditas dí de Galaad hasta el arroyo de Arnón, el medio del arroyo por término; hasta el arroyo de Jaboc, término de los hijos de Ammón: ^17^ Asimismo la campiña, y el Jordán, y el término, desde Cinereth hasta la mar del llano, el mar Salado, las vertientes abajo del Pisga al oriente. 
 
-
 ^[**3:12** Núm 32,33-42]
 
 ## Moisés exhorta a las tribus del este del Jordan a prepararse para luchar por sus hermanos; Ánimo de Josué
 ^18^ Y os mandé entonces, diciendo: Jehová vuestro Dios os ha dado esta tierra para que la poseáis: pasaréis armados delante de vuestros hermanos los hijos de Israel todos los valientes. ^19^ Solamente vuestras mujeres, vuestros niños, y vuestros ganados, (yo sé que tenéis mucho ganado,) quedarán en vuestras ciudades que os he dado, ^20^ Hasta que Jehová dé reposo á vuestros hermanos, así como á vosotros, y hereden también ellos la tierra que Jehová vuestro Dios les da á la otra parte del Jordán: entonces os volveréis cada uno á su heredad que yo os he dado. 
-
 
 ^21^ Mandé también á Josué entonces, diciendo: Tus ojos vieron todo lo que Jehová vuestro Dios ha hecho á aquellos dos reyes: así hará Jehová á todos los reinos á los cuales pasarás tú. ^22^ No los temáis; que Jehová vuestro Dios, él es el que pelea por vosotros. 
 
@@ -136,7 +120,6 @@
 ## Moisés pide en vano al Señor que le permita conducir al pueblo a través del Jordán
 ^23^ Y oré á Jehová en aquel tiempo, diciendo: ^24^ Señor Jehová, tú has comenzado á mostrar á tu siervo tu grandeza, y tu mano fuerte: porque ¿qué dios hay en el cielo ni en la tierra que haga según tus obras, y según tus valentías? ^25^ Pase yo, ruégote, y vea aquella tierra buena, que está á la parte allá del Jordán, aquel buen monte, y el Líbano. 
 
-
 ^26^ Mas Jehová se había enojado contra mí por causa de vosotros, por lo cual no me oyó: y díjome Jehová: Bástate, no me hables más de este negocio. ^27^ Sube á la cumbre del Pisga, y alza tus ojos al occidente, y al aquilón, y al mediodía, y al oriente, y ve por tus ojos: porque no pasarás este Jordán. ^28^ Y manda á Josué, y anímalo, y confórtalo; porque él ha de pasar delante de este pueblo, y él les hará heredar la tierra que verás. 
 ^^ 
 ^[**3:28** Deut 31,3; Deut 31,7]^29^ Y paramos en el valle delante de Beth-peor. 
@@ -145,30 +128,25 @@
 ## 2. Exhortación a observar estrictamente los mandamientos divinos y advertencia contra el servicio de imágenes y la idolatría
 ^1^ Ahora pues, oh Israel, oye los estatutos y derechos que yo os enseño, para que los ejecutéis, y viváis, y entréis, y poseáis la tierra que Jehová el Dios de vuestros padres te da. ^2^ No añadiréis á la palabra que yo os mando, ni disminuiréis de ella, para que guardéis los mandamientos de Jehová vuestro Dios que yo os ordeno. ^3^ Vuestros ojos vieron lo que hizo Jehová con motivo de Baal-peor; que á todo hombre que fué en pos de Baal-peor destruyó Jehová tu Dios de en medio de ti. ^^ ^4^ Mas vosotros que os allegasteis á Jehová vuestro Dios, todos estáis vivos hoy. ^5^ Mirad, yo os he enseñado estatutos y derechos, como Jehová mi Dios me mandó, para que hagáis así en medio de la tierra en la cual entráis para poseerla. ^6^ Guardadlos, pues, y ponedlos por obra: porque esta es vuestra sabiduría y vuestra inteligencia en ojos de los pueblos, los cuales oirán todos estos estatutos, y dirán: Ciertamente pueblo sabio y entendido, gente grande es ésta. ^7^ Porque ¿qué gente grande hay que tenga los dioses cercanos á sí, como lo está Jehová nuestro Dios en todo cuanto le pedimos? ^8^ Y ¿qué gente grande hay que tenga estatutos y derechos justos, como es toda esta ley que yo pongo hoy delante de vosotros? 
 
-
 ^[**4:3** Núm 25,3-9]
 
 ## En memoria de la aparición informe de Dios en Horeb, Israel debe protegerse contra el servicio de imágenes
 ^9^ Por tanto, guárdate, y guarda tu alma con diligencia, que no te olvides de las cosas que tus ojos han visto, ni se aparten de tu corazón todos los días de tu vida: y enseñarlas has á tus hijos, y á los hijos de tus hijos; ^^ ^10^ El día que estuviste delante de Jehová tu Dios en Horeb, cuando Jehová me dijo: Júntame el pueblo, para que yo les haga oir mis palabras, las cuales aprenderán, para temerme todos los días que vivieren sobre la tierra: y las enseñarán á sus hijos; ^^ ^11^ Y os llegasteis, y os pusisteis al pie del monte; y el monte ardía en fuego hasta en medio de los cielos con tinieblas, nube, y oscuridad. ^12^ Y habló Jehová con vosotros de en medio del fuego: oisteis la voz de sus palabras, mas á excepción de oir la voz, ninguna figura visteis: ^13^ Y él os anunció su pacto, el cual os mandó poner por obra, las diez palabras; y escribiólas en dos tablas de piedra. ^^ ^14^ A mí también me mandó Jehová entonces enseñaros los estatutos y derechos, para que los pusieseis por obra en la tierra á la cual pasáis para poseerla. ^15^ Guardad pues mucho vuestras almas: pues ninguna figura visteis el día que Jehová habló con vosotros de en medio del fuego: ^16^ Porque no os corrompáis, y hagáis para vosotros escultura, imagen de figura alguna, efigie de varón ó hembra, ^17^ Figura de algún animal que sea en la tierra, figura de ave alguna alada que vuele por el aire, ^18^ Figura de ningún animal que vaya arrastrando por la tierra, figura de pez alguno que haya en el agua debajo de la tierra: ^19^ Y porque alzando tus ojos al cielo, y viendo el sol y la luna y las estrellas, y todo el ejército del cielo, no seas incitado, y te inclines á ellos, y les sirvas; que Jehová tu Dios los ha concedido á todos los pueblos debajo de todos los cielos. ^^ ^20^ Empero á vosotros Jehová os tomó, y os ha sacado del horno de hierro, de Egipto, para que le seáis por pueblo de heredad como en este día. ^^ ^21^ Y Jehová se enojó contra mí sobre vuestros negocios, y juró que yo no pasaría el Jordán, ni entraría en la buena tierra, que Jehová tu Dios te da por heredad. ^^ ^22^ Así que yo voy á morir en esta tierra; y no paso el Jordán: mas vosotros pasaréis, y poseeréis aquella buena tierra. ^23^ Guardaos no os olvidéis del pacto de Jehová vuestro Dios, que él estableció con vosotros, y os hagáis escultura ó imagen de cualquier cosa, que Jehová tu Dios te ha vedado. ^24^ Porque Jehová tu Dios es fuego que consume, Dios celoso. 
-
 
 ^[**4:9** Sal 103,2] ^[**4:10** Éxod 19,17; Deut 6,7; Deut 11,19] ^[**4:13** Éxod 31,18] ^[**4:19** Deut 17,3] ^[**4:20** Éxod 19,5-6] ^[**4:21** Deut 3,26]
 
 ## Erneute Warnung vor Abgötterei; Strafandrohung und Gnadenverheißung
 ^25^ Cuando hubiereis engendrado hijos y nietos, y hubiereis envejecido en la tierra, y os corrompiereis, é hiciereis escultura ó imagen de cualquier cosa, é hiciereis mal en ojos de Jehová vuestro Dios, para enojarlo; ^26^ Yo pongo hoy por testigos al cielo y á la tierra, que presto pereceréis totalmente de la tierra hacia la cual pasáis el Jordán para poseerla: no estaréis en ella largos días sin que seáis destruídos. ^^ ^27^ Y Jehová os esparcirá entre los pueblos, y quedaréis pocos en número entre las gentes á las cuales os llevará Jehová: ^28^ Y serviréis allí á dioses hechos de manos de hombres, á madera y á piedra, que no ven, ni oyen, ni comen, ni huelen. ^29^ Mas si desde allí buscares á Jehová tu Dios, lo hallarás, si lo buscares de todo tu corazón y de toda tu alma. ^^ ^30^ Cuando estuviereis en angustia, y te alcanzaren todas estas cosas, si en los postreros días te volvieres á Jehová tu Dios, y oyeres su voz; ^^ ^31^ Porque Dios misericordioso es Jehová tu Dios; no te dejará, ni te destruirá, ni se olvidará del pacto de tus padres que les juró. 
 
-
 ^[**4:26** Deut 30,19; Deut 31,28; Deut 32,1] ^[**4:29** Sal 27,8; Jer 29,13-14] ^[**4:30** Lev 26,40]
 
 ## La gloria de la revelación y la gracia divinas obliga a la más estricta obediencia
 ^32^ Porque pregunta ahora de los tiempos pasados, que han sido antes de ti, desde el día que crió Dios al hombre sobre la tierra, y desde el un cabo del cielo al otro, si se ha hecho cosa semejante á esta gran cosa, ó se haya oído otra como ella. ^33^ ¿Ha oído pueblo la voz de Dios, que hablase de en medio del fuego, como tú la has oído, y vivido? ^^ ^34^ ¿O ha Dios probado á venir á tomar para sí gente de en medio de otra gente, con pruebas, con señales, con milagros, y con guerra, y mano fuerte, y brazo extendido, y grandes espantos, según todas las cosas que hizo con vosotros Jehová vuestro Dios en Egipto ante tus ojos? ^^ ^35^ A ti te fué mostrado, para que supieses que Jehová él es Dios; no hay más fuera de él. ^^ ^36^ De los cielos te hizo oir su voz, para enseñarte: y sobre la tierra te mostró su gran fuego: y has oído sus palabras de en medio del fuego. ^37^ Y por cuanto él amó á tus padres, escogió su simiente después de ellos, y sacóte delante de sí de Egipto con su gran poder; ^38^ Para echar de delante de ti gentes grandes y más fuertes que tú, y para introducirte, y darte su tierra por heredad, como hoy. ^39^ Aprende pues hoy, y reduce á tu corazón que Jehová él es el Dios arriba en el cielo, y abajo sobre la tierra; no hay otro. ^40^ Y guarda sus estatutos y sus mandamientos, que yo te mando hoy, para que te vaya bien á ti y á tus hijos después de ti, y prolongues tus días sobre la tierra que Jehová tu Dios te da para siempre. 
 
-
 ^[**4:33** Éxod 20,1; Éxod 20,19] ^[**4:34** Deut 7,19] ^[**4:35** Deut 32,39]
 
 ## 3. Apéndice: Separación de tres ciudades libres en el este del Jordan
 ^41^ Entonces apartó Moisés tres ciudades de esta parte del Jordán al nacimiento del sol, ^^ ^42^ Para que huyese allí el homicida que matase á su prójimo por yerro, sin haber tenido enemistad con él desde ayer ni antes de ayer; y que huyendo á una de estas ciudades salvara la vida: ^43^ A Beser en el desierto, en tierra de la llanura, de los Rubenitas; y á Ramoth en Galaad, de los Gaditas; y á Golán en Basán, de los de Manasés. 
-
 
 ^[**4:41** Núm 35,6-29; Deut 19,2-13]
 
@@ -197,18 +175,13 @@
 
 ^11^ No tomarás en vano el nombre de Jehová tu Dios; porque Jehová no dará por inocente al que tomare en vano su nombre. 
 
-
 ^12^ Guardarás el día del reposo para santificarlo, como Jehová tu Dios te ha mandado. ^13^ Seis días trabajarás y harás toda tu obra: ^14^ Mas el séptimo es reposo á Jehová tu Dios: ninguna obra harás tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu buey, ni tu asno, ni ningún animal tuyo, ni tu peregrino que está dentro de tus puertas: porque descanse tu siervo y tu sierva como tú. ^15^ Y acuérdate que fuiste siervo en tierra de Egipto, y que Jehová tu Dios te sacó de allá con mano fuerte y brazo extendido: por lo cual Jehová tu Dios te ha mandado que guardes el día del reposo. 
-
 
 ^16^ Honra á tu padre y á tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la tierra que Jehová tu Dios te da. 
 
-
 ^17^ No matarás. 
 
-
 ^18^ No adulterarás. 
-
 
 ^19^ No hurtarás. 
 ^^ 
@@ -216,9 +189,7 @@
 
 ^20^ No dirás falso testimonio contra tu prójimo. 
 
-
 ^21^ No codiciarás la mujer de tu prójimo, ni desearás la casa de tu prójimo, ni su tierra, ni su siervo, ni su sierva, ni su buey, ni su asno, ni ninguna cosa que sea de tu prójimo. 
-
 
 
 ## La mediación de Moisés, solicitada por el pueblo temeroso, es reconocida por Dios
@@ -228,9 +199,7 @@
 
 ^28^ Y oyó Jehová la voz de vuestras palabras, cuando me hablabais; y díjome Jehová: He oído la voz de las palabras de este pueblo, que ellos te han hablado: bien está todo lo que han dicho. ^29^ ¡Quién diera que tuviesen tal corazón, que me temiesen, y guardasen todos los días todos mis mandamientos, para que á ellos y á sus hijos les fuese bien para siempre! 
 
-
 ^30^ Ve, diles: Volveos á vuestras tiendas. ^31^ Y tú estáte aquí conmigo, y te diré todos los mandamientos, y estatutos, y derechos, que les has de enseñar, á fin que los pongan ahora por obra en la tierra que yo les doy para poseerla. 
-
 
 ^32^ Mirad, pues, que hagáis como Jehová vuestro Dios os ha mandado: no os apartéis á diestra ni á siniestra; ^33^ Andad en todo camino que Jehová vuestro Dios os ha mandado, para que viváis, y os vaya bien, y tengáis largos días en la tierra que habéis de poseer. 
 
@@ -238,21 +207,17 @@
 ## Explique y promulgue los dos mandamientos básicos: la adoración a Dios únicamente y el amor a Dios.
 ^1^ Estos pues son los mandamientos, estatutos, y derechos que Jehová vuestro Dios mandó que os enseñase, para que los pongáis por obra en la tierra á la cual pasáis vosotros para poseerla: ^2^ Para que temas á Jehová tu Dios, guardando todos sus estatutos y sus mandamientos que yo te mando, tú, y tu hijo, y el hijo de tu hijo, todos los días de tu vida, y que tus días sean prolongados. ^3^ Oye pues, oh Israel, y cuida de ponerlos por obra, para que te vaya bien, y seáis multiplicados, como te ha dicho Jehová el Dios de tus padres, en la tierra que destila leche y miel. 
 
-
 ^4^ Oye, Israel: Jehová nuestro Dios, Jehová uno es: ^^ ^5^ Y amarás á Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todo tu poder. ^^ ^6^ Y estas palabras que yo te mando hoy, estarán sobre tu corazón: ^^ ^7^ Y las repetirás á tus hijos, y hablarás de ellas estando en tu casa, y andando por el camino, y al acostarte, y cuando te levantes: ^^ ^8^ Y has de atarlas por señal en tu mano, y estarán por frontales entre tus ojos: ^^ ^9^ Y las escribirás en los postes de tu casa, y en tus portadas. 
-
 
 ^[**6:4** Mar 12,29; 1Cor 8,4; 1Cor 8,6] ^[**6:5** Deut 10,12; Mat 22,37] ^[**6:6** Deut 11,18-20] ^[**6:7** Gén 18,19] ^[**6:8** Éxod 13,9]
 
 ## ¡Sirvan al Señor fielmente y con agradecida obediencia también en la gloriosa tierra prometida!
 ^10^ Y será, cuando Jehová tu Dios te hubiere introducido en la tierra que juró á tus padres Abraham, Isaac, y Jacob, que te daría; en ciudades grandes y buenas que tú no edificaste, ^11^ Y casas llenas de todo bien, que tú no henchiste, y cisternas cavadas, que tú no cavaste, viñas y olivares que no plantaste: luego que comieres y te hartares, ^12^ Guárdate que no te olvides de Jehová, que te sacó de tierra de Egipto, de casa de siervos. ^13^ A Jehová tu Dios temerás, y á él servirás, y por su nombre jurarás. ^^ ^14^ No andaréis en pos de dioses ajenos, de los dioses de los pueblos que están en vuestros contornos: ^15^ Porque el Dios celoso, Jehová tu Dios, en medio de ti está; porque no se inflame el furor de Jehová tu Dios contra ti, y te destruya de sobre la haz de la tierra. 
 
-
 ^[**6:13** Deut 10,20; Mat 4,10]
 
 ## ¡No pongas a prueba la paciencia de Dios con la incredulidad y la apostasía!
 ^16^ No tentaréis á Jehová vuestro Dios, como lo tentasteis en Massa. ^^ ^17^ Guardad cuidadosamente los mandamientos de Jehová vuestro Dios, y sus testimonios, y sus estatutos, que te ha mandado. ^18^ Y harás lo recto y bueno en ojos de Jehová, para que te vaya bien, y entres y poseas la buena tierra que Jehová juró á tus padres; ^19^ Para que él eche á todos tus enemigos de delante de ti, como Jehová ha dicho. 
-
 
 ^[**6:16** Mat 4,7; Éxod 17,2; Éxod 17,7]
 
@@ -264,7 +229,6 @@
 # 7 
 ## Los cananeos idólatras y su idolatría serán eliminados; cualquier conexión con ellos es pecaminosa
 ^1^ Cuando Jehová tu Dios te hubiere introducido en la tierra en la cual tú has de entrar para poseerla, y hubiere echado de delante de ti muchas gentes, al Hetheo, al Gergeseo, y al Amorrheo, y al Cananeo, y al Pherezeo, y al Heveo, y al Jebuseo, siete naciones mayores y más fuertes que tú; ^^ ^2^ Y Jehová tu Dios las hubiere entregado delante de ti, y las hirieres, del todo las destruirás: no harás con ellos alianza, ni las tomarás á merced. ^^ ^3^ Y no emparentarás con ellos: no darás tu hija á su hijo, ni tomarás á su hija para tu hijo. ^^ ^4^ Porque desviará á tu hijo de en pos de mí, y servirán á dioses ajenos; y el furor de Jehová se encenderá sobre vosotros, y te destruirá presto. ^5^ Mas así habéis de hacer con ellos: sus altares destruiréis, y quebraréis sus estatuas, y cortaréis sus bosques, y quemaréis sus esculturas en el fuego. ^6^ Porque tú eres pueblo santo á Jehová tu Dios: Jehová tu Dios te ha escogido para serle un pueblo especial, más que todos los pueblos que están sobre la haz de la tierra. ^^ ^7^ No por ser vosotros más que todos los pueblos os ha querido Jehová, y os ha escogido; porque vosotros erais los más pocos de todos los pueblos: ^^ ^8^ Sino porque Jehová os amó, y quiso guardar el juramento que juró á vuestros padres, os ha sacado Jehová con mano fuerte, y os ha rescatado de casa de siervos, de la mano de Faraón, rey de Egipto. ^9^ Conoce, pues, que Jehová tu Dios es Dios, Dios fiel, que guarda el pacto y la misericordia á los que le aman y guardan sus mandamientos, hasta las mil generaciones; ^^ ^10^ Y que da el pago en su cara al que le aborrece, destruyéndolo: ni lo dilatará al que le odia, en su cara le dará el pago. ^11^ Guarda por tanto los mandamientos, y estatutos, y derechos que yo te mando hoy que cumplas. 
-
 
 ^[**7:1** Deut 31,3] ^[**7:2** Núm 21,2] ^[**7:3** Éxod 23,32; Éxod 34,15-16] ^[**7:6** Éxod 19,5-6] ^[**7:7** Efes 2,8] ^[**7:9** Éxod 20,6]
 
@@ -281,12 +245,10 @@
 ## Recordatorio de obedecer la ley divina y estar agradecido con Dios por los beneficios mostrados durante la caminata por el desierto.
 ^1^ Cuidaréis de poner por obra todo mandamiento que yo os ordeno hoy, porque viváis, y seáis multiplicados, y entréis, y poseáis la tierra, de la cual juró Jehová á vuestros padres. ^2^ Y acordarte has de todo el camino por donde te ha traído Jehová tu Dios estos cuarenta años en el desierto, para afligirte, por probarte, para saber lo que estaba en tu corazón, si habías de guardar ó no sus mandamientos. ^^ ^3^ Y te afligió, é hízote tener hambre, y te sustentó con maná, comida que no conocías tú, ni tus padres la habían conocido; para hacerte saber que el hombre no vivirá de solo pan, mas de todo lo que sale de la boca de Jehová vivirá el hombre. ^^ ^4^ Tu vestido nunca se envejeció sobre ti, ni el pie se te ha hinchado por estos cuarenta años. ^5^ Reconoce asimismo en tu corazón, que como castiga el hombre á su hijo, así Jehová tu Dios te castiga. ^^ ^6^ Guardarás, pues, los mandamientos de Jehová tu Dios, andando en sus caminos, y temiéndolo. 
 
-
 ^[**8:2** Deut 13,4; Jue 2,22] ^[**8:3** Éxod 16,13-15; Mat 4,4] ^[**8:5** Deut 1,31]
 
 ## Descripción de la gloria de la tierra prometida ricamente bendecida con todos los bienes
 ^7^ Porque Jehová tu Dios te introduce en la buena tierra, tierra de arroyos, de aguas, de fuentes, de abismos que brotan por vegas y montes; ^8^ Tierra de trigo y cebada, y de vides, é higueras, y granados; tierra de olivas, de aceite, y de miel; ^9^ Tierra en la cual no comerás el pan con escasez, no te faltará nada en ella; tierra que sus piedras son hierro, y de sus montes cortarás metal. ^10^ Y comerás y te hartarás, y bendecirás á Jehová tu Dios por la buena tierra que te habrá dado. 
-
 
 
 ## La desobediencia y la arrogancia deben traer la ruina
@@ -304,7 +266,6 @@
 
 ^4^ No discurras en tu corazón cuando Jehová tu Dios los habrá echado de delante de ti, diciendo: Por mi justicia me ha metido Jehová á poseer esta tierra; pues por la impiedad de estas gentes Jehová las echa de delante de ti. ^^ ^5^ No por tu justicia, ni por la rectitud de tu corazón entras á poseer la tierra de ellos; mas por la impiedad de estas gentes Jehová tu Dios las echa de delante de ti, y por confirmar la palabra que Jehová juró á tus padres Abraham, Isaac, y Jacob. ^6^ Por tanto, sabe que no por tu justicia Jehová tu Dios te da esta buena tierra para poseerla; que pueblo duro de cerviz eres tú. 
 
-
 ^[**9:4** Deut 8,17; Gén 15,16]
 
 ## El gran endeudamiento del pueblo a través del culto a la imagen dorada del toro
@@ -314,18 +275,14 @@
 
 ^11^ Y fué al cabo de los cuarenta días y cuarenta noches, que Jehová me dió las dos tablas de piedra, las tablas del pacto. ^12^ Y díjome Jehová: Levántate, desciende presto de aquí; que tu pueblo que sacaste de Egipto se ha corrompido: pronto se han apartado del camino que yo les mandé: hanse hecho una efigie de fundición. 
 
-
 ^13^ Y hablóme Jehová, diciendo: He visto ese pueblo, y he aquí, que él es pueblo duro de cerviz: ^14^ Déjame que los destruya, y raiga su nombre de debajo del cielo; que yo te pondré sobre gente fuerte y mucha más que ellos. 
 
-
 ^15^ Y volví y descendí del monte, el cual ardía en fuego, con las tablas del pacto en mis dos manos. ^16^ Y miré, y he aquí habíais pecado contra Jehová vuestro Dios: os habíais hecho un becerro de fundición, apartándoos presto del camino que Jehová os había mandado. ^17^ Entonces tomé las dos tablas, y arrojélas de mis dos manos, y quebrélas delante de vuestros ojos. ^18^ Y postréme delante de Jehová, como antes, cuarenta días y cuarenta noches: no comí pan ni bebí agua, á causa de todo vuestro pecado que habíais cometido haciendo mal en ojos de Jehová para enojarlo. ^19^ Porque temí á causa del furor y de la ira con que Jehová estaba enojado contra vosotros para destruiros. Pero Jehová me oyó aún esta vez. ^^ ^20^ Contra Aarón también se enojó Jehová en gran manera para destruirlo: y también oré por Aarón entonces. ^21^ Y tomé vuestro pecado, el becerro que habíais hecho, y quemélo en el fuego, y lo desmenucé moliéndole muy bien, hasta que fué reducido á polvo: y eché el polvo de él en el arroyo que descendía del monte. 
-
 
 ^[**9:19** Heb 12,21]
 
 ## Otra evidencia más de desobediencia popular
 ^22^ También en Tabera, y en Massa, y en Kibroth-hataavah, enojasteis á Jehová. ^23^ Y cuando Jehová os envió desde Cades-barnea, diciendo, Subid y poseed la tierra que yo os he dado; también fuisteis rebeldes al dicho de Jehová vuestro Dios, y no lo creisteis, ni obedecisteis á su voz. ^^ ^24^ Rebeldes habéis sido á Jehová desde el día que yo os conozco. 
-
 
 ^[**9:23** Núm 13,2; Núm 13,31; Deut 14,1-4]
 
@@ -344,7 +301,6 @@
 ^[**10:6** Núm 33,32-33; Núm 20,28] ^[**10:9** Núm 18,20]
 
 ^10^ Y yo estuve en el monte como los primeros días, cuarenta días y cuarenta noches; y Jehová me oyó también esta vez, y no quiso Jehová destruirte. ^^ ^11^ Y díjome Jehová: Levántate, anda, para que partas delante del pueblo, para que entren y posean la tierra que juré á sus padres les había de dar. 
-
 
 ^[**10:10** Deut 9,9]
 
@@ -367,12 +323,10 @@
 ## Referencia a la gloriosa tierra prometida, que depende completamente del cuidado de Dios
 ^10^ Que la tierra á la cual entras para poseerla, no es como la tierra de Egipto de donde habéis salido, donde sembrabas tu simiente, y regabas con tu pie, como huerto de hortaliza. ^11^ La tierra á la cual pasáis para poseerla, es tierra de montes y de vegas; de la lluvia del cielo ha de beber las aguas; ^12^ Tierra de la cual Jehová tu Dios cuida: siempre están sobre ella los ojos de Jehová tu Dios, desde el principio del año hasta el fin de él. ^13^ Y será que, si obedeciereis cuidadosamente mis mandamientos que yo os prescribo hoy, amando á Jehová vuestro Dios, y sirviéndolo con todo vuestro corazón, y con toda vuestra alma, ^^ ^14^ Yo daré la lluvia de vuestra tierra en su tiempo, la temprana y la tardía; y cogerás tu grano, y tu vino, y tu aceite. ^15^ Daré también hierba en tu campo para tus bestias; y comerás, y te hartarás. ^16^ Guardaos, pues, que vuestro corazón no se infatúe, y os apartéis, y sirváis á dioses ajenos, y os inclinéis á ellos; ^17^ Y así se encienda el furor de Jehová sobre vosotros, y cierre los cielos, y no haya lluvia, ni la tierra dé su fruto, y perezcáis presto de la buena tierra que os da Jehová. 
 
-
 ^[**11:13** Lev 26,3-39]
 
 ## Otra advertencia a la obediencia fiel; Presentación de bendiciones y maldiciones
 ^18^ Por tanto, pondréis estas mis palabras en vuestro corazón y en vuestra alma, y las ataréis por señal en vuestra mano, y serán por frontales entre vuestros ojos. ^^ ^19^ Y las enseñaréis á vuestros hijos, hablando de ellas, ora sentado en tu casa, ó andando por el camino, cuando te acuestes, y cuando te levantes: ^20^ Y las escribirás en los postes de tu casa, y en tus portadas: ^21^ Para que sean aumentados vuestros días, y los días de vuestros hijos, sobre la tierra que juró Jehová á vuestros padres que les había de dar, como los días de los cielos sobre la tierra. ^22^ Porque si guardareis cuidadosamente todos estos mandamientos que yo os prescribo, para que los cumpláis; como améis á Jehová vuestro Dios andando en todos sus caminos, y á él os allegareis, ^23^ Jehová también echará todas estas gentes de delante de vosotros y poseeréis gentes grandes y más fuertes que vosotros. ^24^ Todo lugar que pisare la planta de vuestro pie, será vuestro: desde el desierto y el Líbano, desde el río, el río Eufrates, hasta la mar postrera será vuestro término. ^25^ Nadie se sostendrá delante de vosotros: miedo y temor de vosotros pondrá Jehová vuestro Dios sobre la haz de toda la tierra que hollareis, como él os ha dicho. ^26^ He aquí yo pongo hoy delante de vosotros la bendición y la maldición: ^^ ^27^ La bendición, si oyereis los mandamientos de Jehová vuestro Dios, que yo os prescribo hoy; ^^ ^28^ Y la maldición, si no oyereis los mandamientos de Jehová vuestro Dios, y os apartareis del camino que yo os ordeno hoy, para ir en pos de dioses ajenos que no habéis conocido. 
-
 
 ^[**11:18** Deut 6,6-9] ^[**11:26** Deut 30,1; Deut 30,15] ^[**11:27** Deut 28,2; Deut 28,15]
 
@@ -400,7 +354,6 @@
 ^28^ Guarda y escucha todas estas palabras que yo te mando, porque te vaya bien á ti y á tus hijos después de ti para siempre, cuando hicieres lo bueno y lo recto en los ojos de Jehová tu Dios. 
 
 
-
 ## Prohibición de cualquier imitación del culto pagano; Castigando a los idólatras
 ^29^ Cuando hubiere devastado delante de ti Jehová tu Dios las naciones á donde tú vas para poseerlas, y las heredares, y habitares en su tierra, ^30^ Guárdate que no tropieces en pos de ellas, después que fueren destruídas delante de ti: no preguntes acerca de sus dioses, diciendo: De la manera que servían aquellas gentes á sus dioses, así haré yo también. 
 ^^ 
@@ -413,7 +366,6 @@
 ^[**13:4** Deut 8,2]
 
 ^6^ Cuando te incitare tu hermano, hijo de tu madre, ó tu hijo, ó tu hija, ó la mujer de tu seno, ó tu amigo que sea como tu alma, diciendo en secreto: Vamos y sirvamos á dioses ajenos, que ni tú ni tus padres conocisteis, ^7^ De los dioses de los pueblos que están en vuestros alrededores cercanos á ti, ó lejos de ti, desde el un cabo de la tierra hasta el otro cabo de ella; ^8^ No consentirás con él, ni le darás oído; ni tu ojo le perdonará, ni tendrás compasión, ni lo encubrirás: ^9^ Antes has de matarlo; tu mano será primero sobre él para matarle, y después la mano de todo el pueblo. ^10^ Y has de apedrearlo con piedras, y morirá; por cuanto procuró apartarte de Jehová tu Dios, que te sacó de tierra de Egipto, de casa de siervos: ^^ ^11^ Para que todo Israel oiga, y tema, y no tornen á hacer cosa semejante á esta mala cosa en medio de ti. 
-
 
 ^[**13:10** Deut 17,7]
 
@@ -428,7 +380,6 @@
 ^[**14:1** Lev 19,27-28]
 
 ^3^ Nada abominable comerás. ^4^ Estos son los animales que comeréis: el buey, la oveja, y la cabra, ^5^ El ciervo, el corzo, y el búfalo, y el cabrío salvaje, y el unicornio, y buey salvaje, y cabra montés. ^6^ Y todo animal de pezuñas, que tiene hendidura de dos uñas, y que rumiare entre los animales, ese comeréis. ^7^ Empero estos no comeréis de los que rumian, ó tienen uña hendida: camello, y liebre, y conejo, porque rumian, mas no tienen uña hendida, os serán inmundos; ^8^ Ni puerco: porque tiene uña hendida, mas no rumia, os será inmundo. De la carne de éstos no comeréis, ni tocaréis sus cuerpos muertos. ^9^ Esto comeréis de todo lo que está en el agua: todo lo que tiene aleta y escama comeréis; ^10^ Mas todo lo que no tuviere aleta y escama, no comeréis: inmundo os será. ^11^ Toda ave limpia comeréis. ^12^ Y estas son de las que no comeréis: el águila, y el azor, y el esmerejón, ^13^ Y el ixio, y el buitre, y el milano según su especie, ^14^ Y todo cuervo según su especie, ^15^ Y el buho, y la lechuza, y el cuclillo, y el halcón según su especie, ^16^ Y el herodión, y el cisne, y el ibis, ^17^ Y el somormujo, y el calamón, y el corvejón, ^18^ Y la cigüeña, y la garza según su especie, y la abubilla, y el murciélago. ^19^ Y todo reptil alado os será inmundo: no se comerá. ^20^ Toda ave limpia comeréis. 
-
 
 ^21^ Ninguna cosa mortecina comeréis: al extranjero que está en tus poblaciones la darás, y él la comerá: ó véndela al extranjero; porque tú eres pueblo santo á Jehová tu Dios. No cocerás el cabrito en la leche de su madre. 
 
@@ -450,12 +401,10 @@
 ## Recomendación de voluntad de apoyar a los conciudadanos pobres (especialmente para pedir dinero prestado)
 ^7^ Cuando hubiere en ti menesteroso de alguno de tus hermanos en alguna de tus ciudades, en tu tierra que Jehová tu Dios te da, no endurecerás tu corazón, ni cerrarás tu mano á tu hermano pobre: ^^ ^8^ Mas abrirás á él tu mano liberalmente, y en efecto le prestarás lo que basta, lo que hubiere menester. ^^ ^9^ Guárdate que no haya en tu corazón perverso pensamiento, diciendo: Cerca está el año séptimo, el de la remisión; y tu ojo sea maligno sobre tu hermano menesteroso para no darle: que él podrá clamar contra ti á Jehová, y se te imputará á pecado. ^10^ Sin falta le darás, y no sea tu corazón maligno cuando le dieres: que por ello te bendecirá Jehová tu Dios en todos tus hechos, y en todo lo que pusieres mano. ^11^ Porque no faltarán menesterosos de en medio de la tierra; por eso yo te mando, diciendo: Abrirás tu mano á tu hermano, á tu pobre, y á tu menesteroso en tu tierra. 
 
-
 ^[**15:7** 1Jn 3,17] ^[**15:8** Luc 6,34-35]
 
 ## Regulaciones relativas a la liberación y amplio equipamiento de esclavos hebreos
 ^12^ Cuando se vendiere á ti tu hermano Hebreo ó Hebrea, y te hubiere servido seis años, al séptimo año le despedirás libre de ti. ^^ ^13^ Y cuando lo despidieres libre de ti, no lo enviarás vacío: ^14^ Le abastecerás liberalmente de tus ovejas, de tu era, y de tu lagar; le darás de aquello en que Jehová te hubiere bendecido. ^15^ Y te acordarás que fuiste siervo en la tierra de Egipto, y que Jehová tu Dios te rescató: por tanto yo te mando esto hoy. ^16^ Y será que, si él te dijere: No saldré de contigo; porque te ama á ti y á tu casa, que le va bien contigo; ^17^ Entonces tomarás una lesna, y horadarás su oreja junto á la puerta, y será tu siervo para siempre: así también harás á tu criada. ^18^ No te parezca duro cuando le enviares libre de ti; que doblado del salario de mozo jornalero te sirvió seis años: y Jehová tu Dios te bendecirá en todo cuanto hicieres. 
-
 
 ^[**15:12** Éxod 21,2]
 
@@ -475,12 +424,10 @@
 
 ^13^ La solemnidad de las cabañas harás por siete días, cuando hubieres hecho la cosecha de tu era y de tu lagar. ^14^ Y te alegrarás en tus solemnidades, tú, y tu hijo, y tu hija, y tu siervo, y tu sierva, y el Levita, y el extranjero, y el huérfano, y la viuda, que están en tus poblaciones. ^^ ^15^ Siete días celebrarás solemnidad á Jehová tu Dios en el lugar que Jehová escogiere; porque te habrá bendecido Jehová tu Dios en todos tus frutos, y en toda obra de tus manos, y estarás ciertamente alegre. ^16^ Tres veces cada un año parecerá todo varón tuyo delante de Jehová tu Dios en el lugar que él escogiere: en la solemnidad de los ázimos, y en la solemnidad de las semanas, y en la solemnidad de las cabañas. Y no parecerá vacío delante de Jehová: ^17^ Cada uno con el don de su mano, conforme á la bendición de Jehová tu Dios, que te hubiere dado. 
 
-
 ^[**16:14** Deut 16,11; Deut 26,11]
 
 ## Reglas relativas a la administración de justicia; Prohibición y castigo de la idolatría
 ^18^ Jueces y alcaldes te pondrás en todas tus ciudades que Jehová tu Dios te dará en tus tribus, los cuales juzgarán al pueblo con justo juicio. ^19^ No tuerzas el derecho; no hagas acepción de personas, ni tomes soborno; porque el soborno ciega los ojos de los sabios, y pervierte las palabras de los justos. ^^ ^20^ La justicia, la justicia seguirás, porque vivas y heredes la tierra que Jehová tu Dios te da. 
-
 
 ^[**16:19** Deut 1,17]
 
@@ -497,12 +444,10 @@
 ## Castigo por la idolatría
 ^2^ Cuando se hallare entre ti, en alguna de tus ciudades que Jehová tu Dios te da, hombre, ó mujer, que haya hecho mal en ojos de Jehová tu Dios traspasando su pacto, ^^ ^3^ Que hubiere ido y servido á dioses ajenos, y se hubiere inclinado á ellos, ora al sol, ó á la luna, ó á todo el ejército del cielo, lo cual yo no he mandado; ^^ ^4^ Y te fuere dado aviso, y, después que oyeres y hubieres indagado bien, la cosa parece de verdad cierta, que tal abominación ha sido hecha en Israel; ^5^ Entonces sacarás al hombre ó mujer que hubiere hecho esta mala cosa, á tus puertas, hombre ó mujer, y los apedrearás con piedras, y así morirán. ^6^ Por dicho de dos testigos, ó de tres testigos, morirá el que hubiere de morir; no morirá por el dicho de un solo testigo. ^^ ^7^ La mano de los testigos será primero sobre él para matarlo, y después la mano de todo el pueblo: así quitarás el mal de en medio de ti. 
 
-
 ^[**17:2** Deut 13,7-12] ^[**17:3** Deut 4,19] ^[**17:6** Núm 35,30; Heb 10,28]
 
 ## Establecimiento de un tribunal superior en el santuario para casos legales más difíciles
 ^8^ Cuando alguna cosa te fuere oculta en juicio entre sangre y sangre, entre causa y causa, y entre llaga y llaga, en negocios de litigio en tus ciudades; entonces te levantarás y recurrirás al lugar que Jehová tu Dios escogiere; ^9^ Y vendrás á los sacerdotes Levitas, y al juez que fuere en aquellos días, y preguntarás; y te enseñarán la sentencia del juicio. ^10^ Y harás según la sentencia que te indicaren los del lugar que Jehová escogiere, y cuidarás de hacer según todo lo que te manifestaren. ^11^ Según la ley que ellos te enseñaren, y según el juicio que te dijeren, harás: no te apartarás ni á diestra ni á siniestra de la sentencia que te mostraren. ^^ ^12^ Y el hombre que procediere con soberbia, no obedeciendo al sacerdote que está para ministrar allí delante de Jehová tu Dios, ó al juez, el tal varón morirá: y quitarás el mal de Israel. ^13^ Y todo el pueblo oirá, y temerá, y no se ensoberbecerán más. 
-
 
 ^[**17:11** Deut 17,20]
 
@@ -523,7 +468,6 @@
 ^6^ Y cuando el Levita saliere de alguna de tus ciudades de todo Israel, donde hubiere peregrinado, y viniere con todo deseo de su alma al lugar que Jehová escogiere, ^7^ Ministrará al nombre de Jehová su Dios, como todos sus hermanos los Levitas que estuvieren allí delante de Jehová. ^8^ Porción como la porción de los otros comerán, además de sus patrimonios. 
 
 
-
 ## Ordenanzas relacionadas con la adivinación y la hechicería, y la promesa de una profecía genuina con sus marcas
 ^9^ Cuando hubieres entrado en la tierra que Jehová tu Dios te da, no aprenderás á hacer según las abominaciones de aquellas gentes. ^10^ No sea hallado en ti quien haga pasar su hijo ó su hija por el fuego, ni practicante de adivinaciones, ni agorero, ni sortílego, ni hechicero, ^^ ^11^ Ni fraguador de encantamentos, ni quien pregunte á pitón, ni mágico, ni quien pregunte á los muertos. ^^ ^12^ Porque es abominación á Jehová cualquiera que hace estas cosas, y por estas abominaciones Jehová tu Dios las echó de delante de ti. ^13^ Perfecto serás con Jehová tu Dios. ^^ ^14^ Porque estas gentes que has de heredar, á agoreros y hechiceros oían: mas tú, no así te ha dado Jehová tu Dios. ^15^ Profeta de en medio de ti, de tus hermanos, como yo, te levantará Jehová tu Dios: á él oiréis: ^16^ Conforme á todo lo que pediste á Jehová tu Dios en Horeb el día de la asamblea, diciendo: No vuelva yo á oir la voz de Jehová mi Dios, ni vea yo más este gran fuego, porque no muera. 
 ^^ 
@@ -540,7 +484,6 @@
 ^1^ Cuando Jehová tu Dios talare las gentes, cuya tierra Jehová tu Dios te da á ti, y tú las heredares, y habitares en sus ciudades, y en sus casas; ^2^ Te apartarás tres ciudades en medio de tu tierra que Jehová tu Dios te da para que la poseas. ^3^ Arreglarte has el camino, y dividirás en tres partes el término de tu tierra, que Jehová tu Dios te dará en heredad, y será para que todo homicida se huya allí. ^4^ Y este es el caso del homicida que ha de huir allí, y vivirá: el que hiriere á su prójimo por yerro, que no le tenía enemistad desde ayer ni antes de ayer: ^5^ Como el que fué con su prójimo al monte á cortar leña, y poniendo fuerza con su mano en el hacha para cortar algún leño, saltó el hierro del cabo, y encontró á su prójimo, y murió; aquél huirá á una de aquestas ciudades, y vivirá; ^6^ No sea que el pariente del muerto vaya tras el homicida, cuando se enardeciere su corazón, y le alcance por ser largo el camino, y le hiera de muerte, no debiendo ser condenado á muerte; por cuanto no tenía enemistad desde ayer ni antes de ayer con el muerto. ^7^ Por tanto yo te mando, diciendo: Tres ciudades te apartarás. ^8^ Y si Jehová tu Dios ensanchare tu término, como lo juró á tus padres, y te diere toda la tierra que dijo á tus padres que había de dar; ^9^ Cuando guardases todos estos mandamientos, que yo te prescribo hoy, para ponerlos por obra, que ames á Jehová tu Dios y andes en sus caminos todos los días; entonces añadirás tres ciudades á más de estas tres; ^10^ Porque no sea derramada sangre inocente en medio de tu tierra, que Jehová tu Dios te da por heredad, y sea sobre ti sangre. ^11^ Mas cuando hubiere alguno que aborreciere á su prójimo, y lo acechare, y se levantare sobre él, y lo hiriere de muerte, y muriere, y huyere á alguna de estas ciudades; ^12^ Entonces los ancianos de su ciudad enviarán y lo sacarán de allí, y entregarlo han en mano del pariente del muerto, y morirá. ^13^ No le perdonará tu ojo: y quitarás de Israel la sangre inocente, y te irá bien. 
 
 
-
 ## Verbot der Grenzverrückung; Vorschriften bezüglich der Zeugenschaft vor Gericht und der Bestrafung falscher Zeugen
 ^14^ No reducirás el término de tu prójimo, el cual señalaron los antiguos en tu heredad, la que poseyeres en la tierra que Jehová tu Dios te da para que la poseas. 
 ^^ 
@@ -554,9 +497,7 @@
 ## Comportamiento hacia la propia gente; Leyes sobre exención del servicio militar
 ^1^ Cuando salieres á la guerra contra tus enemigos, y vieres caballos y carros, un pueblo más grande que tú, no tengas temor de ellos, que Jehová tu Dios es contigo, el cual te sacó de tierra de Egipto. ^2^ Y será que, cuando os acercareis para combatir, llegaráse el sacerdote, y hablará al pueblo, ^3^ Y les dirá: Oye, Israel, vosotros os juntáis hoy en batalla contra vuestros enemigos: no se ablande vuestro corazón, no temáis, no os azoréis, ni tampoco os desalentéis delante de ellos; ^4^ Que Jehová vuestro Dios anda con vosotros, para pelear por vosotros contra vuestros enemigos, para salvaros. 
 
-
 ^5^ Y los oficiales hablarán al pueblo, diciendo: ¿Quién ha edificado casa nueva, y no la ha estrenado? Vaya, y vuélvase á su casa, porque quizá no muera en la batalla, y otro alguno la estrene. ^^ ^6^ ¿Y quién ha plantado viña, y no ha hecho común uso de ella? Vaya, y vuélvase á su casa, porque quizá no muera en la batalla, y otro alguno la goce. ^^ ^7^ ¿Y quién se ha desposado con mujer, y no la ha tomado? Vaya, y vuélvase á su casa, porque quizá no muera en la batalla, y algún otro la tome. ^^ ^8^ Y tornarán los oficiales á hablar al pueblo, y dirán: ¿Quién es hombre medroso y tierno de corazón? Vaya, y vuélvase á su casa, y no apoque el corazón de sus hermanos, como su corazón. ^^ ^9^ Y será que, cuando los oficiales acabaren de hablar al pueblo, entonces los capitanes de los ejércitos mandarán delante del pueblo. 
-
 
 ^[**20:5** Deut 16,18] ^[**20:6** Deut 28,30; Lev 19,24-25] ^[**20:7** Deut 24,5] ^[**20:8** Jue 7,3]
 
@@ -576,7 +517,6 @@
 ^10^ Cuando salieres á la guerra contra tus enemigos, y Jehová tu Dios los entregare en tu mano, y tomares de ellos cautivos, ^11^ Y vieres entre los cautivos alguna mujer hermosa, y la codiciares, y la tomares para ti por mujer, ^12^ La meterás en tu casa; y ella raerá su cabeza, y cortará sus uñas, ^13^ Y se quitará el vestido de su cautiverio, y quedaráse en tu casa: y llorará á su padre y á su madre el tiempo de un mes: y después entrarás á ella, y tu serás su marido, y ella tu mujer. ^14^ Y será, si no te agradare, que la has de dejar en su libertad; y no la venderás por dinero, ni mercadearás con ella, por cuanto la afligiste. 
 
 
-
 ## Asegurar los derechos de herencia del primogénito
 ^15^ Cuando un hombre tuviere dos mujeres, la una amada y la otra aborrecida, y la amada y la aborrecida le parieren hijos, y el hijo primogénito fuere de la aborrecida; ^16^ Será que, el día que hiciere heredar á sus hijos lo que tuviere, no podrá dar el derecho de primogenitura á los hijos de la amada en preferencia al hijo de la aborrecida, que es el primogénito; ^17^ Mas al hijo de la aborrecida reconocerá por primogénito, para darle dos tantos de todo lo que se hallare que tiene: porque aquél es el principio de su fuerza, el derecho de la primogenitura es suyo. 
 
@@ -587,7 +527,6 @@
 ^18^ Cuando alguno tuviere hijo contumaz y rebelde, que no obedeciere á la voz de su padre ni á la voz de su madre, y habiéndolo castigado, no les obedeciere; ^19^ Entonces tomarlo han su padre y su madre, y lo sacarán á los ancianos de su ciudad, y á la puerta del lugar suyo; ^20^ Y dirán á los ancianos de la ciudad: Este nuestro hijo es contumaz y rebelde, no obedece á nuestra voz; es glotón y borracho. ^21^ Entonces todos los hombres de su ciudad lo apedrearán con piedras, y morirá: así quitarás el mal de en medio de ti; y todo Israel oirá, y temerá. 
 
 
-
 ## Tratamiento del cadáver colgado en público de un criminal ejecutado
 ^22^ Cuando en alguno hubiere pecado de sentencia de muerte, por el que haya de morir, y le habrás colgado en un madero, ^23^ No estará su cuerpo por la noche en el madero, mas sin falta lo enterrarás el mismo día, porque maldición de Dios es el colgado: y no contaminarás tu tierra, que Jehová tu Dios te da por heredad. ^^ 
 ^[**21:23** Jos 8,29; Jos 10,27; Gal 3,13] 
@@ -596,19 +535,16 @@
 ## Algunos deberes queridos en apuros del vecino; Devolución de propiedad perdida
 ^1^ No verás el buey de tu hermano, ó su cordero, perdidos, y te retirarás de ellos: precisamente los volverás á tu hermano. ^^ ^2^ Y si tu hermano no fuere tu vecino, ó no le conocieres, los recogerás en tu casa, y estarán contigo hasta que tu hermano los busque, y se los devolverás. ^3^ Y así harás de su asno, así harás también de su vestido, y lo mismo harás con toda cosa perdida de tu hermano que se le perdiere, y tú la hallares: no podrás retraerte de ello. ^4^ No verás el asno de tu hermano, ó su buey, caídos en el camino, y te esconderás de ellos: con él has de procurar levantarlos. 
 
-
 ^[**22:1** Éxod 23,4]
 
 ## Varias regulaciones, especialmente en lo que respecta a evitar desastres naturales.
 ^5^ No vestirá la mujer hábito de hombre, ni el hombre vestirá ropa de mujer; porque abominación es á Jehová tu Dios cualquiera que esto hace. 
-
 
 ^6^ Cuando topares en el camino algún nido de ave en cualquier árbol, ó sobre la tierra, con pollos ó huevos, y estuviere la madre echada sobre los pollos ó sobre los huevos, no tomes la madre con los hijos: ^7^ Dejarás ir á la madre, y tomarás los pollos para ti; para que te vaya bien, y prolongues tus días. 
 ^^ 
 ^[**22:7** Lev 22,28]
 
 ^8^ Cuando edificares casa nueva, harás pretil á tu terrado, porque no pongas sangre en tu casa, si de él cayere alguno. 
-
 
 ^9^ No sembrarás tu viña de varias semillas, porque no se deprave la plenitud de la semilla que sembraste, y el fruto de la viña. ^10^ No ararás con buey y con asno juntamente. ^11^ No te vestirás de mistura, de lana y lino juntamente. 
 ^^ 
@@ -627,7 +563,6 @@
 ^20^ Mas si este negocio fué verdad, que no se hubiere hallado virginidad en la moza, ^21^ Entonces la sacarán á la puerta de la casa de su padre, y la apedrearán con piedras los hombres de su ciudad, y morirá; por cuanto hizo vileza en Israel fornicando en casa de su padre: así quitarás el mal de en medio de ti. 
 
 
-
 ## Reglas contra el adulterio, la profanación de una joven comprometida y la violación de una virgen soltera
 ^22^ Cuando se sorprendiere alguno echado con mujer casada con marido, entrambos morirán, el hombre que se acostó con la mujer, y la mujer: así quitarás el mal de Israel. 
 ^^ 
@@ -642,7 +577,6 @@
 
 ## Acerca de mantener limpio el campamento del ejército en las campañas
 ^9^ Cuando salieres á campaña contra tus enemigos, guárdate de toda cosa mala. ^10^ Cuando hubiere en ti alguno que no fuere limpio por accidente de noche, saldráse del campo, y no entrará en él. ^11^ Y será que al declinar de la tarde se lavará con agua, y cuando fuere puesto el sol, entrará en el campo. ^12^ Y tendrás un lugar fuera del real, y saldrás allá fuera; ^13^ Tendrás también una estaca entre tus armas; y será que, cuando estuvieres allí fuera, cavarás con ella, y luego al volverte cubrirás tu excremento: ^14^ Porque Jehová tu Dios anda por medio de tu campo, para librarte y entregar tus enemigos delante de ti; por tanto será tu real santo: porque él no vea en ti cosa inmunda, y se vuelva de en pos de ti. 
-
 
 
 ## Varios mandamientos individuales (amor a las personas, pureza moral, divorcio, etc.)
@@ -667,9 +601,7 @@
 
 ^6^ No tomarás en prenda la muela de molino, ni la de abajo ni la de arriba: porque sería prendar la vida. 
 
-
 ^7^ Cuando fuere hallado alguno que haya hurtado persona de sus hermanos los hijos de Israel, y hubiere mercadeado con ella, ó la hubiere vendido, el tal ladrón morirá, y quitarás el mal de en medio de ti. 
-
 
 ^8^ Guárdate de llaga de lepra, observando diligentemente, y haciendo según todo lo que os enseñaren los sacerdotes Levitas: cuidaréis de hacer como les he mandado. ^^ ^9^ Acuérdate de lo que hizo Jehová tu Dios á María en el camino, después que salisteis de Egipto. 
 ^^ 
@@ -716,13 +648,10 @@
 ^7^ Y si el hombre no quisiere tomar á su cuñada, irá entonces la cuñada suya á la puerta á los ancianos, y dirá: Mi cuñado no quiere suscitar nombre en Israel á su hermano; no quiere emparentar conmigo. ^8^ Entonces los ancianos de aquella ciudad lo harán venir, y hablarán con él: y si él se levantare, y dijere, No quiero tomarla, ^9^ Llegaráse entonces su cuñada á él delante de los ancianos, y le descalzará el zapato de su pie, y escupirále en el rostro, y hablará y dirá: Así será hecho al varón que no edificare la casa de su hermano. ^10^ Y su nombre será llamado en Israel: La casa del descalzado. 
 
 
-
 ## Castigo por la desvergüenza femenina; Honestidad en el comercio y el cambio
 ^11^ Cuando algunos riñeren juntos el uno con el otro, y llegare la mujer del uno para librar á su marido de mano del que le hiriere, y metiere su mano y le trabare de sus vergüenzas; ^12^ La cortarás entonces la mano, no la perdonará tu ojo. 
 
-
 ^13^ No tendrás en tu bolsa pesa grande y pesa chica. ^14^ No tendrás en tu casa epha grande y epha pequeño. ^15^ Pesas cumplidas y justas tendrás; epha cabal y justo tendrás: para que tus días sean prolongados sobre la tierra que Jehová tu Dios te da. ^16^ Porque abominación es á Jehová tu Dios cualquiera que hace esto, cualquiera que hace agravio. 
-
 
 
 ## Mandamiento de exterminar a los amalecitas
@@ -740,7 +669,6 @@
 ## Fórmula de oración al pagar el diezmo a los levitas y a los pobres
 ^12^ Cuando hubieres acabado de diezmar todo el diezmo de tus frutos en el año tercero, el año del diezmo, darás también al Levita, al extranjero, al huérfano y á la viuda; y comerán en tus villas, y se saciarán. ^^ ^13^ Y dirás delante de Jehová tu Dios: Yo he sacado lo consagrado de mi casa, y también lo he dado al Levita, y al extranjero, y al huérfano, y á la viuda, conforme á todos tus mandamientos que me ordenaste: no he traspasado tus mandamientos, ni me he olvidado de ellos: ^14^ No he comido de ello en mi luto, ni he sacado de ello en inmundicia, ni de ello he dado para mortuorio: he obedecido á la voz de Jehová mi Dios, he hecho conforme á todo lo que me has mandado. ^15^ Mira desde la morada de tu santidad, desde el cielo, y bendice á tu pueblo Israel, y á la tierra que nos has dado, como juraste á nuestros padres, tierra que fluye leche y miel. 
 
-
 ^[**26:12** Deut 14,27-29]
 
 ## Conclusión integral de obligaciones y derechos federales
@@ -751,21 +679,17 @@
 ## Colocación de piedras conmemorativas de la ley en Cisjordania; Se erigió un altar en el monte Ebal
 ^1^ Y mandó Moisés, con los ancianos de Israel, al pueblo, diciendo: Guardaréis todos los mandamientos que yo prescribo hoy. ^2^ Y será que, el día que pasareis el Jordán á la tierra que Jehová tu Dios te da, te has de levantar piedras grandes, las cuales revocarás con cal: ^3^ Y escribirás en ellas todas las palabras de esta ley, cuando hubieres pasado para entrar en la tierra que Jehová tu Dios te da, tierra que fluye leche y miel, como Jehová el Dios de tus padres te ha dicho. ^4^ Será pues, cuando hubieres pasado el Jordán, que levantaréis estas piedras que yo os mando hoy, en el monte de Ebal, y las revocarás con cal: ^5^ Y edificarás allí altar á Jehová tu Dios, altar de piedras: no alzarás sobre ellas hierro. ^6^ De piedras enteras edificarás el altar de Jehová tu Dios; y ofrecerás sobre él holocausto á Jehová tu Dios; ^7^ Y sacrificarás pacíficos, y comerás allí; y alegrarte has delante de Jehová tu Dios. ^^ ^8^ Y escribirás en las piedras todas las palabras de esta ley muy claramente. 
 
-
 ^[**27:7** Deut 12,7]
 
 ## Proclamación de bendiciones y maldiciones sobre las montañas Ebal y Garizim
 ^9^ Y Moisés, con los sacerdotes Levitas, habló á todo Israel, diciendo: Atiende y escucha, Israel: hoy eres hecho pueblo de Jehová tu Dios. ^10^ Oirás pues la voz de Jehová tu Dios, y cumplirás sus mandamientos y sus estatutos, que yo te ordeno hoy. 
 
-
 ^11^ Y mandó Moisés al pueblo en aquel día, diciendo: ^12^ Estos estarán sobre el monte de Gerizim para bendecir al pueblo, cuando hubiereis pasado el Jordán: Simeón, y Leví, y Judá, é Issachâr, y José, y Benjamín. ^^ ^13^ Y estos estarán para pronunciar la maldición en el de Ebal: Rubén, Gad, y Aser, y Zabulón, Dan, y Nephtalí. ^14^ Y hablarán los Levitas, y dirán á todo varón de Israel en alta voz: 
-
 
 ^[**27:12** Deut 11,29]
 
 ## Las doce palabras malditas
 ^15^ Maldito el hombre que hiciere escultura ó imagen de fundición, abominación á Jehová, obra de mano de artífice, y la pusiere en oculto. Y todo el pueblo responderá y dirá: Amén. 
-
 
 ^16^ Maldito el que deshonrare á su padre ó á su madre. Y dirá todo el pueblo: Amén. 
 ^^ 
@@ -825,7 +749,6 @@
 ^45^ Y vendrán sobre ti todas estas maldiciones, y te perseguirán, y te alcanzarán hasta que perezcas; por cuanto no habrás atendido á la voz de Jehová tu Dios, para guardar sus mandamientos y sus estatutos, que él te mandó: ^46^ Y serán en ti por señal y por maravilla, y en tu simiente para siempre. 
 
 
-
 ## Segunda parte de las maldiciones
 ^47^ Por cuanto no serviste á Jehová tu Dios con alegría y con gozo de corazón, por la abundancia de todas las cosas; ^48^ Servirás por tanto á tus enemigos que enviare Jehová contra ti, con hambre y con sed y con desnudez, y con falta de todas las cosas; y él pondrá yugo de hierro sobre tu cuello, hasta destruirte. ^49^ Jehová traerá sobre ti gente de lejos, del cabo de la tierra, que vuele como águila, gente cuya lengua no entiendas; ^50^ Gente fiera de rostro, que no tendrá respeto al anciano, ni perdonará al niño: ^^ ^51^ Y comerá el fruto de tu bestia y el fruto de tu tierra, hasta que perezcas: y no te dejará grano, ni mosto, ni aceite, ni la cría de tus vacas, ni los rebaños de tus ovejas, hasta destruirte. ^52^ Y te pondrá cerco en todas tus ciudades, hasta que caigan tus muros altos y encastillados en que tú confías, en toda tu tierra: te cercará, pues, en todas tus ciudades y en toda tu tierra, que Jehová tu Dios te habrá dado. ^53^ Y comerás el fruto de tu vientre, la carne de tus hijos y de tus hijas que Jehová tu Dios te dió, en el cerco y en el apuro con que te angustiará tu enemigo. ^54^ El hombre tierno en ti, y el muy delicado, su ojo será maligno para con su hermano, y para con la mujer de su seno, y para con el resto de sus hijos que le quedaren; ^55^ Para no dar á alguno de ellos de la carne de sus hijos, que él comerá, porque nada le habrá quedado, en el cerco y en el apuro con que tu enemigo te oprimirá en todas tus ciudades. ^56^ La tierna y la delicada entre vosotros, que nunca la planta de su pie probó á sentar sobre la tierra, de ternura y delicadeza, su ojo será maligno para con el marido de su seno, y para con su hijo, y para con su hija, ^57^ Y para con su chiquita que sale de entre sus pies, y para con sus hijos que pariere; pues los comerá escondidamente, á falta de todo, en el cerco y en el apuro con que tu enemigo te oprimirá en tus ciudades. ^58^ Si no cuidares de poner por obra todas las palabras de aquesta ley que están escritas en este libro, temiendo este nombre glorioso y terrible, JEHOVÁ TU DIOS, ^59^ Jehová aumentará maravillosamente tus plagas y las plagas de tu simiente, plagas grandes y estables, y enfermedades malignas y duraderas; ^60^ Y hará volver sobre ti todos los males de Egipto, delante de los cuales temiste, y se te pegarán. ^^ ^61^ Asimismo toda enfermedad y toda plaga que no está escrita en el libro de esta ley, Jehová la enviará sobre ti, hasta que tú seas destruído. ^62^ Y quedaréis en poca gente, en lugar de haber sido como las estrellas del cielo en multitud; por cuanto no obedeciste á la voz de Jehová tu Dios. ^63^ Y será que como Jehová se gozó sobre vosotros para haceros bien, y para multiplicaros, así se gozará Jehová sobre vosotros para arruinaros, y para destruiros; y seréis arrancados de sobre la tierra, á la cual entráis para poseerla. 
 ^^ 
@@ -839,12 +762,10 @@
 
 ^3^ Las pruebas grandes que vieron tus ojos, las señales, y las grandes maravillas. ^^ ^4^ Y Jehová no os dió corazón para entender, ni ojos para ver, ni oídos para oir, hasta el día de hoy. ^^ ^5^ Y yo os he traído cuarenta años por el desierto: vuestros vestidos no se han envejecido sobre vosotros, ni tu zapato se ha envejecido sobre tu pie. ^6^ No habéis comido pan, ni bebisteis vino ni sidra: para que supieseis que yo soy Jehová vuestro Dios. ^^ ^7^ Y llegasteis á este lugar, y salió Sehón rey de Hesbón, y Og rey de Basán, delante de nosotros para pelear, y herímoslos; ^^ ^8^ Y tomamos su tierra, y dímosla por heredad á Rubén y á Gad, y á la media tribu de Manasés. ^9^ Guardaréis, pues, las palabras de este pacto, y las pondréis por obra, para que prosperéis en todo lo que hiciereis. 
 
-
 ^[**29:3** Deut 5,26; Is 6,9-10] ^[**29:4** Deut 8,2; Deut 8,4] ^[**29:6** Núm 21,21-35] ^[**29:7** Núm 32,-1]
 
 ## El (nuevo) pacto de hoy está hecho para todas las generaciones futuras y es el más sagrado
 ^10^ Vosotros todos estáis hoy delante de Jehová vuestro Dios; vuestros príncipes de vuestras tribus, vuestros ancianos, y vuestros oficiales, todos los varones de Israel, ^11^ Vuestros niños, vuestras mujeres, y tus extranjeros que habitan en medio de tu campo, desde el que corta tu leña hasta el que saca tus aguas: ^12^ Para que entres en el pacto de Jehová tu Dios, y en su juramento, que Jehová tu Dios acuerda hoy contigo: ^13^ Para confirmarte hoy por su pueblo, y que él te sea á ti por Dios, de la manera que él te ha dicho, y como él juró á tus padres Abraham, Isaac, y Jacob. ^^ ^14^ Y no con vosotros solos acuerdo yo este pacto y este juramento, ^15^ Sino con los que están aquí presentes hoy con nosotros delante de Jehová nuestro Dios, y con los que no están aquí hoy con nosotros. 
-
 
 ^[**29:13** Deut 5,3]
 
@@ -854,7 +775,6 @@
 ^[**29:19** Deut 18,15-68]
 
 ^22^ Y dirá la generación venidera, vuestros hijos que vendrán después de vosotros, y el extranjero que vendrá de lejanas tierras, cuando vieren las plagas de aquesta tierra, y sus enfermedades de que Jehová la hizo enfermar, ^23^ (Azufre y sal, abrasada toda su tierra: no será sembrada, ni producirá, ni crecerá en ella hierba ninguna, como en la subversión de Sodoma y de Gomorra, de Adma y de Seboim, que Jehová subvirtió en su furor y en su ira:) ^24^ Dirán, pues, todas las gentes: ¿Por qué hizo Jehová esto á esta tierra? ¿qué ira es ésta de tan gran furor? 
-
 
 ^25^ Y responderán: Por cuanto dejaron el pacto de Jehová el Dios de sus padres, que él concertó con ellos cuando los sacó de la tierra de Egipto, ^26^ Y fueron y sirvieron á dioses ajenos, é inclináronse á ellos, dioses que no conocían, y que ninguna cosa les habían dado: ^27^ Encendióse por tanto, el furor de Jehová contra esta tierra, para traer sobre ella todas las maldiciones escritas en este libro; ^28^ Y Jehová los desarraigó de su tierra con enojo, y con saña, y con furor grande, y los echó á otra tierra, como hoy. 
 ^^ 
@@ -866,12 +786,10 @@
 ## Anuncio de la misericordia de Dios por los expulsados, pero luego los arrepentidos; nuevo pacto después de las cortes futuras
 ^1^ Y será que, cuando te sobrevinieren todas estas cosas, la bendición y la maldición que he puesto delante de ti, y volvieres á tu corazón en medio de todas las gentes á las cuales Jehová tu Dios te hubiere echado, ^2^ Y te convirtieres á Jehová tu Dios, y obedecieres á su voz conforme á todo lo que yo te mando hoy, tú y tus hijos, con todo tu corazón y con toda tu alma, ^^ ^3^ Jehová también volverá tus cautivos, y tendrá misericordia de ti, y tornará á recogerte de todos los pueblos á los cuales te hubiere esparcido Jehová tu Dios. ^^ ^4^ Si hubieres sido arrojado hasta el cabo de los cielos, de allí te recogerá Jehová tu Dios, y de allá te tomará: ^5^ Y volverte ha Jehová tu Dios á la tierra que heredaron tus padres, y la poseerás; y te hará bien, y te multiplicará más que á tus padres. ^6^ Y circuncidará Jehová tu Dios tu corazón, y el corazón de tu simiente, para que ames á Jehová tu Dios con todo tu corazón y con toda tu alma, á fin de que tú vivas. ^^ ^7^ Y pondrá Jehová tu Dios todas estas maldiciones sobre tus enemigos, y sobre tus aborrecedores que te persiguieron. ^8^ Y tú volverás, y oirás la voz de Jehová, y pondrás por obra todos sus mandamientos, que yo te intimo hoy. ^9^ Y hacerte ha Jehová tu Dios abundar en toda obra de tus manos, en el fruto de tu vientre, en el fruto de tu bestia, y en el fruto de tu tierra, para bien: porque Jehová volverá á gozarse sobre ti para bien, de la manera que se gozó sobre tus padres; ^10^ Cuando oyeres la voz de Jehová tu Dios, para guardar sus mandamientos y sus estatutos escritos en este libro de la ley; cuando te convirtieres á Jehová tu Dios con todo tu corazón y con toda tu alma. 
 
-
 ^[**30:2** Lev 26,40] ^[**30:3** Jer 29,14; Am 9,14; Jer 32,37] ^[**30:6** Deut 10,16; Jer 4,4; Ezeq 11,19; Rom 2,29; Col 2,11]
 
 ## La ley ordenada por Dios no requiere lo imposible; más bien, es fácil de entender y de seguir
 ^11^ Porque este mandamiento que yo te intimo hoy, no te es encubierto, ni está lejos: ^12^ No está en el cielo, para que digas: ¿Quién subirá por nosotros al cielo, y nos lo traerá y nos lo representará, para que lo cumplamos? ^13^ Ni está de la otra parte de la mar, para que digas: ¿Quién pasará por nosotros la mar, para que nos lo traiga y nos lo represente, á fin de que lo cumplamos? ^14^ Porque muy cerca de ti está la palabra, en tu boca y en tu corazón, para que la cumplas. 
-
 
 
 ## Última advertencia; Elección entre la vida y la muerte
@@ -888,19 +806,15 @@
 ^7^ Y llamó Moisés á Josué, y díjole á vista de todo Israel: Esfuérzate y anímate; porque tú entrarás con este pueblo á la tierra que juró Jehová á sus padres que les había de dar, y tú se la harás heredar. ^8^ Y Jehová es el que va delante de ti; él será contigo, no te dejará, ni te desamparará; no temas, ni te intimides. 
 
 
-
 ## Registro y entrega de la ley a los sacerdotes y ancianos
 ^9^ Y escribió Moisés esta ley, y dióla á los sacerdotes, hijos de Leví, que llevaban el arca del pacto de Jehová, y á todos los ancianos de Israel. ^10^ Y mandóles Moisés, diciendo: Al cabo del séptimo año, en el año de la remisión, en la fiesta de las Cabañas, ^^ ^11^ Cuando viniere todo Israel á presentarse delante de Jehová tu Dios en el lugar que él escogiere, leerás esta ley delante de todo Israel á oídos de ellos. ^12^ Harás congregar el pueblo, varones y mujeres y niños, y tus extranjeros que estuvieren en tus ciudades, para que oigan y aprendan, y teman á Jehová vuestro Dios, y cuiden de poner por obra todas las palabras de esta ley: ^13^ Y los hijos de ellos que no supieron oigan, y aprendan á temer á Jehová vuestro Dios todos los días que viviereis sobre la tierra, para ir á la cual pasáis el Jordán para poseerla. 
-
 
 ^[**31:10** Deut 15,1]
 
 ## Dios anunció la muerte de Moisés, predijo la futura apostasía de Israel y ordenó que se escribiera un cántico como testimonio
 ^14^ Y Jehová dijo á Moisés: He aquí se han acercado tus días para que mueras: llama á Josué, y esperad en el tabernáculo del testimonio, y le mandaré. Fueron pues Moisés y Josué, y esperaron en el tabernáculo del testimonio. 
 
-
 ^15^ Y aparecióse Jehová en el tabernáculo, en la columna de nube; y la columna de nube se puso sobre la puerta del tabernáculo. ^16^ Y Jehová dijo á Moisés: He aquí tú vas á dormir con tus padres, y este pueblo se levantará y fornicará tras los dioses ajenos de la tierra adonde va, en estando en medio de ella; y me dejará, é invalidará mi pacto que he concertado con él: ^17^ Y mi furor se encenderá contra él en aquel día; y los abandonaré, y esconderé de ellos mi rostro, y serán consumidos; y le hallarán muchos males y angustias, y dirá en aquel día: ¿No me han hallado estos males porque no está mi Dios en medio de mí? ^18^ Empero yo esconderé ciertamente mi rostro en aquel día, por todo el mal que ellos habrán hecho, por haberse vuelto á dioses ajenos. 
-
 
 
 ## El mandato de Dios a Moisés de escribir la canción; Moisés cumple el mandato
@@ -910,21 +824,17 @@
 
 ^22^ Y Moisés escribió este cántico aquel día, y enseñólo á los hijos de Israel. 
 
-
 ^23^ Y dió orden á Josué hijo de Nun, y dijo: Esfuérzate y anímate, que tú meterás los hijos de Israel en la tierra que les juré, y yo seré contigo. 
-
 
 
 ## Moisés entrega el libro de la ley a los levitas para que lo guarden y lee su cántico al pueblo como advertencia final
 ^24^ Y como acabó Moisés de escribir las palabras de esta ley en un libro hasta concluirse, ^25^ Mandó Moisés á los Levitas que llevaban el arca del pacto de Jehová, diciendo: ^26^ Tomad este libro de la ley, y ponedlo al lado del arca del pacto de Jehová vuestro Dios, y esté allí por testigo contra ti. ^27^ Porque yo conozco tu rebelión, y tu cerviz dura: he aquí que aun viviendo yo hoy con vosotros, sois rebeldes á Jehová; y ¿cuánto más después que yo fuere muerto? ^28^ Congregad á mí todos los ancianos de vuestras tribus, y á vuestros oficiales, y hablaré en sus oídos estas palabras, y llamaré por testigos contra ellos los cielos y la tierra. ^29^ Porque yo sé que después de mi muerte, ciertamente os corromperéis y os aparteréis del camino que os he mandado; y que os ha de venir mal en los postreros días, por haber hecho mal en ojos de Jehová, enojándole con la obra de vuestras manos. 
-
 
 ^30^ Entonces habló Moisés en oídos de toda la congregación de Israel las palabras de este cántico hasta acabarlo. 
 
 # 32 
 ## El canto de Moisés
 ^1^ Escuchad, cielos, y hablaré; y oiga la tierra los dichos de mi boca. ^^ ^2^ Goteará como la lluvia mi doctrina; destilará como el rocío mi razonamiento; como la llovizna sobre la grama, y como las gotas sobre la hierba: ^^ ^3^ Porque el nombre de Jehová invocaré: engrandeced á nuestro Dios. ^4^ El es la Roca, cuya obra es perfecta, porque todos sus caminos son rectitud: Dios de verdad, y ninguna iniquidad en él: es justo y recto. ^5^ La corrupción no es suya: á sus hijos la mancha de ellos, generación torcida y perversa. ^^ ^6^ ¿Así pagáis á Jehová, pueblo loco é ignorante? ¿no es él tu padre que te poseyó? él te hizo y te ha organizado. ^^ ^7^ Acuérdate de los tiempos antiguos; considerad los años de generación y generación: pregunta á tu padre, que él te declarará; á tus viejos, y ellos te dirán. ^^ ^8^ Cuando el Altísimo hizo heredar á las gentes, cuando hizo dividir los hijos de los hombres, estableció los términos de los pueblos según el número de los hijos de Israel. ^^ ^9^ Porque la parte de Jehová es su pueblo; Jacob la cuerda de su heredad. ^10^ Hallólo en tierra de desierto, y en desierto horrible y yermo; trájolo alrededor, instruyólo, guardólo como la niña de su ojo. ^^ ^11^ Como el águila despierta su nidada, revolotea sobre sus pollos, extiende sus alas, los toma, los lleva sobre sus plumas: ^^ ^12^ Jehová solo le guió, que no hubo con él dios ajeno. ^13^ Hízolo subir sobre las alturas de la tierra, y comió los frutos del campo, é hizo que chupase miel de la peña, y aceite del duro pedernal; ^^ ^14^ Manteca de vacas y leche de ovejas, con grosura de corderos, y carneros de Basán; también machos de cabrío, con grosura de riñones de trigo: y sangre de uva bebiste, vino puro. ^15^ Y engrosó Jeshurun, y tiró coces: engordástete, engrosástete, cubrístete: y dejó al Dios que le hizo, y menospreció la Roca de su salud. ^16^ Despertáronle á celos con los dioses ajenos; ensañáronle con abominaciones. ^17^ Sacrificaron á los diablos, no á Dios; á dioses que no habían conocido, á nuevos dioses venidos de cerca, que no habían temido vuestros padres. ^18^ De la Roca que te crió te olvidaste: te has olvidado del Dios tu criador. ^19^ Y viólo Jehová, y encendióse en ira, por el menosprecio de sus hijos y de sus hijas. ^20^ Y dijo: Esconderé de ellos mi rostro, veré cuál será su postrimería: que son generación de perversidades, hijos sin fe. ^21^ Ellos me movieron á celos con lo que no es Dios; hiciéronme ensañar con sus vanidades: yo también los moveré á celos con un pueblo que no es pueblo, con gente insensata los haré ensañar. ^^ ^22^ Porque fuego se encenderá en mi furor, y arderá hasta el profundo; y devorará la tierra y sus frutos, y abrasará los fundamentos de los montes. ^23^ Yo allegaré males sobre ellos; emplearé en ellos mis saetas. ^24^ Consumidos serán de hambre, y comidos de fiebre ardiente y de amarga pestilencia; diente de bestias enviaré también sobre ellos, con veneno de serpiente de la tierra. ^25^ De fuera desolará la espada, y dentro de las cámaras el espanto; así al mancebo como á la doncella, al que mama como el hombre cano. ^26^ Dije: Echaríalos yo del mundo, haría cesar de entre los hombres la memoria de ellos, ^27^ Si no temiese la ira del enemigo, no sea que se envanezcan sus adversarios, no sea que digan: Nuestra mano alta ha hecho todo esto, no Jehová. ^28^ Porque son gente de perdidos consejos, y no hay en ellos entendimiento. ^^ ^29^ ¡Ojalá fueran sabios, que comprendieran esto, y entendieran su postrimería! ^30^ ¿Cómo podría perseguir uno á mil, y dos harían huir á diez mil, si su Roca no los hubiese vendido, y Jehová no los hubiera entregado? ^31^ Que la roca de ellos no es como nuestra Roca: y nuestros enemigos sean de ello jueces. ^32^ Porque de la vid de Sodoma es la vid de ellos, y de los sarmientos de Gomorra: las uvas de ellos son uvas ponzoñosas, racimos muy amargos tienen. ^^ ^33^ Veneno de dragones es su vino, y ponzoña cruel de áspides. ^34^ ¿No tengo yo esto guardado, sellado en mis tesoros? ^35^ Mía es la venganza y el pago, al tiempo que su pie vacilará; porque el día de su aflicción está cercano, y lo que les está preparado se apresura. ^^ ^36^ Porque Jehová juzgará á su pueblo, y por amor de sus siervos se arrepentirá, cuando viere que la fuerza pereció, y que no hay guardado, mas desamparado. ^^ ^37^ Y dirá: ¿Dónde están sus dioses, la roca en que se guarecían; ^38^ Que comían el sebo de sus sacrificios, bebían el vino de sus libaciones? Levántense, que os ayuden y os defiendan. ^^ ^39^ Ved ahora que yo, yo soy, y no hay dioses conmigo: yo hago morir, y yo hago vivir: yo hiero, y yo curo: y no hay quien pueda librar de mi mano. ^^ ^40^ Cuando yo alzaré á los cielos mi mano, y diré: Vivo yo para siempre, ^^ ^41^ Si afilare mi reluciente espada, y mi mano arrebatare el juicio, yo volveré la venganza á mis enemigos, y daré el pago á los que me aborrecen. ^42^ Embriagaré de sangre mis saetas, y mi espada devorará carne: en la sangre de los muertos y de los cautivos de las cabezas, con venganzas de enemigo. ^43^ Alabad, gentes, á su pueblo, porque él vengará la sangre de sus siervos, y volverá la venganza á sus enemigos, y expiará su tierra, á su pueblo. 
-
 
 ^[**32:1** Deut 31,28; Is 1,2] ^[**32:2** Is 55,10-11] ^[**32:5** Is 1,2-4] ^[**32:6** Éxod 4,22; Is 63,16; Mal 1,6] ^[**32:7** Sal 77,12] ^[**32:8** Gén 11,8; Hech 17,26] ^[**32:10** Sal 17,8; Zac 2,12] ^[**32:11** Sal 36,8; Éxod 19,4] ^[**32:13** Sal 81,17] ^[**32:21** Jer 2,11; Rom 10,19] ^[**32:28** Is 27,11; Jer 4,22] ^[**32:32** Is 1,10] ^[**32:35** Sal 94,1; Rom 12,19; Heb 10,30] ^[**32:36** 1Re 14,10] ^[**32:38** Jue 10,14] ^[**32:39** Deut 4,35; Is 45,5; Éxod 15,26; 1Sam 2,6; Job 5,18; Os 6,1-2] ^[**32:40** Éxod 6,8; Ezeq 33,11]
 
@@ -946,9 +856,7 @@
 ## Bendiciones para las tribus individuales
 ^6^ Viva Rubén, y no muera; y sean sus varones en número. 
 
-
 ^7^ Y esta bendición para Judá. Dijo así: Oye, oh Jehová, la voz de Judá, y llévalo á su pueblo; sus manos le basten, y tú seas ayuda contra sus enemigos. 
-
 
 ^8^ Y á Leví dijo: Tu Thummim y tu Urim, con tu buen varón, al cual tentaste en Massa, y le hiciste reñir en las aguas de la rencilla; ^9^ El que dijo á su padre y á su madre: Nunca los vi: ni conoció á sus hermanos, ni conoció á sus hijos: por lo cual ellos guardarán tus palabras, y observarán tu pacto. ^^ ^10^ Ellos enseñarán tus juicios á Jacob, y tu ley á Israel; pondrán el perfume delante de ti, y el holocausto sobre tu altar. ^11^ Bendice, oh Jehová, lo que hicieren, y recibe con agrado la obra de sus manos: hiere los lomos de sus enemigos, y de los que le aborrecieren; para que nunca se levanten. 
 
@@ -956,12 +864,9 @@
 
 ^12^ Y á Benjamín dijo: El amado de Jehová habitará confiado cerca de él; cubrirálo siempre, y entre sus hombros morará. 
 
-
 ^13^ Y á José dijo: Bendita de Jehová su tierra, por los regalos de los cielos, por el rocío, y por el abismo que abajo yace, ^14^ Y por los regalados frutos del sol, y por los regalos de las influencias de las lunas, ^15^ Y por la cumbre de los montes antiguos, y por los regalos de los collados eternos, ^16^ Y por los regalos de la tierra y su plenitud; y la gracia del que habitó en la zarza venga sobre la cabeza de José, y sobre la mollera del apartado de sus hermanos. ^17^ El es aventajado como el primogénito de su toro, y sus cuernos, cuernos de unicornio: con ellos acorneará los pueblos juntos hasta los fines de la tierra: y estos son los diez millares de Ephraim, y estos los millares de Manasés. 
 
-
 ^18^ Y á Zabulón dijo: Alégrate, Zabulón, cuando salieres: y tú, Issachâr, en tus tiendas. ^19^ Llamarán los pueblos al monte; allí sacrificarán sacrificios de justicia: por lo cual chuparán la abundancia de los mares, y los tesoros escondidos de la arena. 
-
 
 ^20^ Y á Gad dijo: Bendito el que hizo ensanchar á Gad: como león habitará, y arrebatará brazo y testa. ^21^ Y él se ha provisto de la parte primera, porque allí una porción del legislador fuéle reservada, y vino en la delantera del pueblo; la justicia de Jehová ejecutará, y sus juicios con Israel. 
 ^^ 
@@ -969,12 +874,9 @@
 
 ^22^ Y á Dan dijo: Dan, cachorro de león: saltará desde Basán. 
 
-
 ^23^ Y á Nephtalí dijo: Nephtalí, saciado de benevolencia, y lleno de la bendición de Jehová, posee el occidente y el mediodía. 
 
-
 ^24^ Y á Aser dijo: Bendito Aser en hijos: agradable será á sus hermanos, y mojará en aceite su pie. ^25^ Hierro y metal tu calzado, y como tus días tu fortaleza. 
-
 
 
 ## Alabado sea el Señor y bendito Israel

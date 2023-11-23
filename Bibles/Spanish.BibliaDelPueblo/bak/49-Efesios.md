@@ -3,7 +3,6 @@
 ^1^ Pablo, apóstol de Jesucristo por la voluntad de Dios, á los santos y fieles en Cristo Jesús que están en Efeso: ^2^ Gracia sea á vosotros, y paz de Dios Padre nuestro, y del Señor Jesucristo. 
 
 
-
 ## Alabado sea la gracia de Dios por la salvación dada en Cristo
 ^3^ Bendito el Dios y Padre del Señor nuestro Jesucristo, el cual nos bendijo con toda bendición espiritual en lugares celestiales en Cristo: ^4^ Según nos escogió en él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de él en amor; ^^ ^5^ Habiéndonos predestinado para ser adoptados hijos por Jesucristo á sí mismo, según el puro afecto de su voluntad, ^6^ Para alabanza de la gloria de su gracia, con la cual nos hizo aceptos en el Amado: ^7^ En el cual tenemos redención por su sangre, la remisión de pecados por las riquezas de su gracia, ^^ ^8^ Que sobreabundó en nosotros en toda sabiduría é inteligencia; ^9^ Descubriéndonos el misterio de su voluntad, según su beneplácito, que se había propuesto en sí mismo, ^10^ De reunir todas las cosas en Cristo, en la dispensación del cumplimiento de los tiempos, así las que están en los cielos, como las que están en la tierra: ^^ ^11^ En él digo, en quien asimismo tuvimos suerte, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el consejo de su voluntad, ^^ ^12^ Para que seamos para alabanza de su gloria, nosotros que antes esperamos en Cristo. ^13^ En el cual esperasteis también vosotros en oyendo la palabra de verdad, el evangelio de vuestra salud: en el cual también desde que creísteis, fuisteis sellados con el Espíritu Santo de la promesa, ^^ ^14^ Que es las arras de nuestra herencia, para la redención de la posesión adquirida para alabanza de su gloria. 
 
@@ -35,7 +34,6 @@
 
 ## La intercesión del Apóstol para que los lectores los fortalezcan en la fe, el amor y el conocimiento
 ^14^ Por esta causa doblo mis rodillas al Padre de nuestro Señor Jesucristo, ^15^ Del cual es nombrada toda la parentela en los cielos y en la tierra, ^16^ Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu. ^17^ Que habite Cristo por la fe en vuestros corazones; para que, arraigados y fundados en amor, ^^ ^18^ Podáis bien comprender con todos los santos cuál sea la anchura y la longura y la profundidad y la altura, ^19^ Y conocer el amor de Cristo, que excede á todo conocimiento, para que seáis llenos de toda la plenitud de Dios. 
-
 
 ^[**3:17** Juan 14,23; Col 2,7]
 

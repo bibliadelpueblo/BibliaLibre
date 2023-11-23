@@ -15,7 +15,6 @@
 ^10^ Y habrá en aquel día, dice Jehová, voz de clamor desde la puerta del pescado, y aullido desde la segunda, y grande quebrantamiento desde los collados. ^11^ Aullad, moradores de Mactes, porque todo el pueblo mercader es destruído; talados son todos los que traían dinero. ^12^ Y será en aquel tiempo, que yo escudriñaré á Jerusalem con candiles, y haré visitación sobre los hombres que están sentados sobre sus heces, los cuales dicen en su corazón: Jehová ni hará bien ni mal. ^13^ Será por tanto saqueada su hacienda, y sus casas asoladas: y edificarán casas, mas no las habitarán; y plantarán viñas, mas no beberán el vino de ellas. 
 
 
-
 ## El día del Señor está cerca
 ^14^ Cercano está el día grande de Jehová, cercano y muy presuroso; voz amarga del día de Jehová; gritará allí el valiente. ^^ ^15^ Día de ira aquel día, día de angustia y de aprieto, día de alboroto y de asolamiento, día de tiniebla y de oscuridad, día de nublado y de entenebrecimiento, ^^ ^16^ Día de trompeta y de algazara, sobre las ciudades fuertes, y sobre las altas torres. ^17^ Y atribularé los hombres, y andarán como ciegos, porque pecaron contra Jehová: y la sangre de ellos será derramada como polvo, y su carne como estiércol. ^18^ Ni su plata ni su oro podrá librarlos en el día de la ira de Jehová; pues toda la tierra será consumida con el fuego de su celo: porque ciertamente consumación apresurada hará con todos los moradores de la tierra. ^^ 
 ^[**1:14** Jl 1,15] ^[**1:15** Jer 30,7] ^[**1:18** Ezeq 7,19] 
@@ -23,7 +22,6 @@
 # 2 
 ## ¡Arrepiéntanse, porque el juicio viene sobre todo el mundo!
 ^1^ Congregaos y meditad, gente no amable, ^^ ^2^ Antes que pára el decreto, y el día se pase como el tamo; antes que venga sobre vosotros el furor de la ira de Jehová, antes que el día de la ira de Jehová venga sobre vosotros. ^3^ Buscad á Jehová todos los humildes de la tierra, que pusisteis en obra su juicio; buscad justicia, buscad mansedumbre: quizás seréis guardados en el día del enojo de Jehová. 
-
 
 ^[**2:1** 1Sam 30,14; Jer 47,-1]
 
@@ -38,7 +36,6 @@
 
 ^12^ Vosotros también los de Etiopía seréis muertos con mi espada. 
 
-
 ^13^ Y extenderá su mano sobre el aquilón, y destruirá al Assur, y pondrá á Nínive en asolamiento, y en secadal como un desierto. 
 ^^ 
 ^[**2:13** Is 13,21; Is 34,11]^14^ Y rebaños de ganado harán en ella majada, todas las bestias de las gentes; el onocrótalo también y el erizo dormirán en sus umbrales: su voz cantará en las ventanas; asolación será en las puertas, porque su enmaderamiento de cedro será descubierto. ^15^ Esta es la ciudad alegre que estaba confiada, la que decía en su corazón: Yo, y no más. ¡Cómo fué en asolamiento, en cama de bestias! Cualquiera que pasare junto á ella silbará, meneará su mano. 
@@ -47,13 +44,11 @@
 ## Las tristes condiciones en Jerusalén
 ^1^ ¡Ay de la ciudad ensuciada y contaminada y opresora! ^2^ No escuchó la voz, ni recibió la disciplina: no se confió en Jehová, no se acercó á su Dios. 
 
-
 ^3^ Sus príncipes en medio de ella son leones bramadores: sus jueces, lobos de tarde que no dejan hueso para la mañana: ^^ ^4^ Sus profetas, livianos, hombres prevaricadores: sus sacerdotes contaminaron el santuario, falsearon la ley. ^^ ^5^ Jehová justo en medio de ella, no hará iniquidad: de mañana sacará á luz su juicio, nunca falta: mas el perverso no tiene vergüenza. 
 
 ^[**3:3** Ezeq 22,27] ^[**3:4** Miq 3,11]
 
 ^6^ Hice talar gentes; sus castillos están asolados; hice desiertas sus calles, hasta no quedar quien pase: sus ciudades están asoladas hasta no quedar hombre, hasta no quedar morador. ^7^ Dije: Ciertamente me temerás, recibirás corrección; y no será su habitación derruída por todo aquello sobre que los visité. Mas ellos se levantaron de mañana, y corrompieron todas sus obras. 
-
 
 
 ## Anuncio del tribunal de depuración de la ciudad
@@ -62,7 +57,6 @@
 ^[**3:8** Jl 4,2; Sal 79,6]
 
 ^9^ Por entonces volveré yo á los pueblos el labio limpio, para que todos invoquen el nombre de Jehová, para que de un consentimiento le sirvan. ^10^ De esa parte de los ríos de Etiopía, mis suplicantes, la hija de mis esparcidos, me traerán ofrenda. ^11^ En aquel día no serás avergonzada por ninguna de tus obras con que te rebelaste contra mí; porque entonces quitaré de en medio de ti los que se alegran en tu soberbia, y nunca más te ensoberbecerás del monte de mi santidad. ^12^ Y dejaré en medio de ti un pueblo humilde y pobre, los cuales esperarán en el nombre de Jehová. ^^ ^13^ El resto de Israel no hará iniquidad, ni dirá mentira, ni en boca de ellos se hallará lengua engañosa: porque ellos serán apacentados y dormirán, y no habrá quien los espante. 
-
 
 ^[**3:12** Ezeq 6,8]
 

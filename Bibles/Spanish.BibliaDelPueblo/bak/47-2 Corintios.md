@@ -3,10 +3,8 @@
 ^1^ Pablo, apóstol de Jesucristo por la voluntad de Dios, y Timoteo el hermano, á la iglesia de Dios que está en Corinto, juntamente con todos los santos que están por toda la Acaya: ^2^ Gracia y paz á vosotros de Dios nuestro Padre, y del Señor Jesucristo. 
 
 
-
 ## La oración de acción de gracias del apóstol por el consuelo que tanto él como los lectores reciben de Dios en el sufrimiento
 ^3^ Bendito sea el Dios y Padre del Señor Jesucristo, el Padre de misericordias, y el Dios de toda consolación, ^^ ^4^ El cual nos consuela en todas nuestras tribulaciones, para que podamos también nosotros consolar á los que están en cualquiera angustia, con la consolación con que nosotros somos consolados de Dios. ^5^ Porque de la manera que abundan en nosotros las aflicciones de Cristo, así abunda también por el mismo Cristo nuestra consolación. ^6^ Mas si somos atribulados, es por vuestra consolación y salud; la cual es obrada en el sufrir las mismas aflicciones que nosotros también padecemos: ó si somos consolados, es por vuestra consolación y salud; ^^ ^7^ Y nuestra esperanza de vosotros es firme; estando ciertos que como sois compañeros de las aflicciones, así también lo sois de la consolación. 
-
 
 ^[**1:3** Rom 15,5] ^[**1:6** 2Cor 4,8-11; 2Cor 4,15]
 
@@ -38,7 +36,6 @@
 
 # 2 
 ^1^ Esto pues determiné para conmigo, no venir otra vez á vosotros con tristeza. ^^ ^2^ Porque si yo os contristo, ¿quién será luego el que me alegrará, sino aquel á quien yo contristare? ^3^ Y esto mismo os escribí, porque cuando llegare no tenga tristeza sobre tristeza de los que me debiera gozar; confiando en vosotros todos que mi gozo es el de todos vosotros. ^4^ Porque por la mucha tribulación y angustia del corazón os escribí con muchas lágrimas; no para que fueseis contristados, mas para que supieseis cuánto más amor tengo para con vosotros. 
-
 
 ^[**2:1** 1Cor 4,21; 2Cor 12,21]
 
@@ -73,7 +70,6 @@
 ^[**3:6** Jer 31,31; 1Cor 11,25; Rom 7,6; Juan 6,63]
 
 ^7^ Y si el ministerio de muerte en la letra grabado en piedras, fué con gloria, tanto que los hijos de Israel no pudiesen poner los ojos en la faz de Moisés á causa de la gloria de su rostro, la cual había de perecer, ^^ ^8^ ¿Cómo no será más bien con gloria el ministerio del espíritu? ^^ ^9^ Porque si el ministerio de condenación fué con gloria, mucho más abundará en gloria el ministerio de justicia. ^^ ^10^ Porque aun lo que fué glorioso, no es glorioso en esta parte, en comparación de la excelente gloria. ^11^ Porque si lo que perece tuvo gloria, mucho más será en gloria lo que permanece. 
-
 
 ^[**3:7** Éxod 34,29-35] ^[**3:8** Gal 3,2; Gal 3,5] ^[**3:9** Deut 27,26; Rom 1,17; Rom 3,21]
 
@@ -117,10 +113,8 @@
 ^11^ Estando pues poseídos del temor del Señor, persuadimos á los hombres, mas á Dios somos manifiestos; y espero que también en vuestras conciencias somos manifiestos. ^12^ No nos encomendamos pues otra vez á vosotros, sino os damos ocasión de gloriaros por nosotros, para que tengáis qué responder contra los que se glorían en las apariencias, y no en el corazón. ^13^ Porque si loqueamos, es para Dios; y si estamos en seso, es para vosotros. 
 
 
-
 ## Referencia al contenido peculiar de su sermón y la gloria de su servicio de reconciliación
 ^14^ Porque el amor de Cristo nos constriñe, pensando esto: Que si uno murió por todos, luego todos son muertos; ^15^ Y por todos murió, para que los que viven, ya no vivan para sí, mas para aquel que murió y resucitó por ellos. 
-
 
 ^16^ De manera que nosotros de aquí adelante á nadie conocemos según la carne: y aun si á Cristo conocimos según la carne, empero ahora ya no le conocemos. ^17^ De modo que si alguno está en Cristo, nueva criatura es: las cosas viejas pasaron; he aquí todas son hechas nuevas. ^^ ^18^ Y todo esto es de Dios, el cual nos reconcilió á sí por Cristo; y nos dió el ministerio de la reconciliación. ^^ ^19^ Porque ciertamente Dios estaba en Cristo reconciliando el mundo á sí, no imputándole sus pecados, y puso en nosotros la palabra de la reconciliación. 
 ^^ 
@@ -155,16 +149,13 @@
 ^1^ Así que, amados, pues tenemos tales promesas, limpiémonos de toda inmundicia de carne y de espíritu, perfeccionando la santificación en temor de Dios. 
 
 
-
 ## La petición del apóstol de amor, afirmación de amor y testimonio de confianza
 ^2^ Admitidnos: á nadie hemos injuriado, á nadie hemos corrompido, á nadie hemos engañado. ^^ ^3^ No para condenaros lo digo; que ya he dicho antes que estáis en nuestros corazones, para morir y para vivir juntamente. ^^ ^4^ Mucha confianza tengo de vosotros, tengo de vosotros mucha gloria; lleno estoy de consolación, sobreabundo de gozo en todas nuestras tribulaciones. 
-
 
 ^[**7:2** 2Cor 12,17; Hech 20,33] ^[**7:3** 2Cor 6,11-13; Rom 6,8]
 
 ## Alegría del apóstol por la llegada y el mensaje de Tito
 ^5^ Porque aun cuando vinimos á Macedonia, ningún reposo tuvo nuestra carne; antes, en todo fuimos atribulados: de fuera, cuestiones; de dentro, temores. ^^ ^6^ Mas Dios, que consuela á los humildes, nos consoló con la venida de Tito: ^^ ^7^ Y no sólo con su venida, sino también con la consolación con que él fué consolado acerca de vosotros, haciéndonos saber vuestro deseo grande, vuestro lloro, vuestro celo por mí, para que así me gozase más. 
-
 
 ^[**7:5** Hech 20,1-2] ^[**7:6** 2Cor 2,13; 2Cor 4,8]
 
@@ -179,7 +170,6 @@
 ## El gratificante (ejemplar) éxito de la colección con las comunidades macedonias
 ^1^ Asimismo, hermanos, os hacemos saber la gracia de Dios que ha sido dada á las iglesias de Macedonia: ^^ ^2^ Que en grande prueba de tribulación, la abundancia de su gozo y su profunda pobreza abundaron en riquezas de su bondad. ^3^ Pues de su grado han dado conforme á sus fuerzas, yo testifico, y aun sobre sus fuerzas; ^4^ Pidiéndonos con muchos ruegos, que aceptásemos la gracia y la comunicación del servicio para los santos. ^5^ Y no como lo esperábamos, mas aun á sí mismos se dieron primeramente al Señor, y á nosotros por la voluntad de Dios. 
 
-
 ^[**8:1** Rom 15,26]
 
 ## Invitación a los corintios a participar activamente en la colecta
@@ -188,7 +178,6 @@
 ^[**8:7** 1Cor 1,5; 1Cor 16,1-2]
 
 ^8^ No hablo como quien manda, sino para poner á prueba, por la eficacia de otros, la sinceridad también de la caridad vuestra. ^9^ Porque ya sabéis la gracia de nuestro Señor Jesucristo, que por amor de vosotros se hizo pobre, siendo rico; para que vosotros con su pobreza fueseis enriquecidos. ^10^ Y en esto doy mi consejo; porque esto os conviene á vosotros, que comenzasteis antes, no sólo á hacerlo, mas aun á quererlo desde el año pasado. ^11^ Ahora pues, llevad también á cabo el hecho, para que como estuvisteis prontos á querer, así también lo estéis en cumplir conforme á lo que tenéis. ^12^ Porque si primero hay la voluntad pronta, será acepta por lo que tiene, no por lo que no tiene. ^^ ^13^ Porque no digo esto para que haya para otros desahogo, y para vosotros apretura; ^14^ Sino para que en este tiempo, con igualdad, vuestra abundancia supla la falta de ellos, para que también la abundancia de ellos supla vuestra falta, porque haya igualdad; ^15^ Como está escrito: El que recogió mucho, no tuvo más; y el que poco, no tuvo menos. 
-
 
 ^[**8:12** Prov 3,27-28; Mar 12,43]
 
@@ -199,7 +188,6 @@
 # 9 
 ## Lo que Pablo ha elogiado hasta ahora de los corintios y ahora espera y qué razones lo han determinado a enviar a los hermanos por delante
 ^1^ Porque cuanto á la suministración para los santos, por demás me es escribiros; ^2^ Pues conozco vuestro pronto ánimo, del cual me glorío yo entre los de Macedonia, que Acaya está apercibida desde el año pasado; y vuestro ejemplo ha estimulado á muchos. ^^ ^3^ Mas he enviado los hermanos, porque nuestra gloria de vosotros no sea vana en esta parte; para que, como lo he dicho, estéis apercibidos; ^4^ No sea que, si vinieren conmigo Macedonios, y os hallaren desapercibidos, nos avergoncemos nosotros, por no decir vosotros, de este firme gloriarnos. ^5^ Por tanto, tuve por cosa necesaria exhortar á los hermanos que fuesen primero á vosotros, y apresten primero vuestra bendición antes prometida, para que esté aparejada como de bendición, y no como de mezquindad. 
-
 
 ^[**9:2** 2Cor 8,19]
 
@@ -214,12 +202,10 @@
 ## En contraste con la acusación de debilidad de carácter y cambio carnal, Pablo señala el poder probado y comprobado de su trabajo a sus oponentes
 ^1^ Empero yo Pablo, os ruego por la mansedumbre y modestia de Cristo, yo que presente ciertamente soy bajo entre vosotros, mas ausente soy confiado entre vosotros: ^2^ Ruego pues, que cuando estuviere presente, no tenga que ser atrevido con la confianza con que estoy en ánimo de ser resuelto para con algunos, que nos tienen como si anduviésemos según la carne. ^^ ^3^ Pues aunque andamos en la carne, no militamos según la carne, ^4^ (Porque las armas de nuestra milicia no son carnales, sino poderosas en Dios para la destrucción de fortalezas;) ^5^ Destruyendo consejos, y toda altura que se levanta contra la ciencia de Dios, y cautivando todo intento á la obediencia de Cristo; ^6^ Y estando prestos para castigar toda desobediencia, cuando vuestra obediencia fuere cumplida. 
 
-
 ^[**10:2** 2Cor 13,1-2; 1Cor 4,21]
 
 ## El derecho del apóstol a jactarse en su oficio y defenderse de los cargos de falta de valor personal
 ^7^ Miráis las cosas según la apariencia. Si alguno está confiado en sí mismo que es de Cristo, esto también piense por sí mismo, que como él es de Cristo, así también nosotros somos de Cristo. ^8^ Porque aunque me gloríe aún un poco de nuestra potestad (la cual el Señor nos dió para edificación y no para vuestra destrucción), no me avergonzaré; ^^ ^9^ Porque no parezca como que os quiero espantar por cartas. ^10^ Porque á la verdad, dicen, las cartas son graves y fuertes; mas la presencia corporal flaca, y la palabra menospreciable. ^11^ Esto piense el tal, que cuales somos en la palabra por cartas estando ausentes, tales seremos también en hechos, estando presentes. 
-
 
 ^[**10:8** 2Cor 13,10; 1Cor 5,4-5]
 
@@ -242,10 +228,8 @@
 ^12^ Mas lo que hago, haré aún, para cortar la ocasión de aquellos que la desean, á fin de que en aquello que se glorían, sean hallados semejantes á nosotros. ^13^ Porque éstos son falsos apóstoles, obreros fraudulentos, transfigurándose en apóstoles de Cristo. ^14^ Y no es maravilla, porque el mismo Satanás se transfigura en ángel de luz. ^15^ Así que, no es mucho si también sus ministros se transfiguran como ministros de justicia; cuyo fin será conforme á sus obras. 
 
 
-
 ## Otra petición del apóstol por su tonta fama propia
 ^16^ Otra vez digo: Que nadie me estime ser loco; de otra manera, recibidme como á loco, para que aun me gloríe yo un poquito. ^^ ^17^ Lo que hablo, no lo hablo según el Señor, sino como en locura, con esta confianza de gloria. ^18^ Pues que muchos se glorían según la carne, también yo me gloriaré. ^19^ Porque de buena gana toleráis los necios, siendo vosotros sabios: ^20^ Porque toleráis si alguno os pone en servidumbre, si alguno os devora, si alguno toma, si alguno se ensalza, si alguno os hiere en la cara. 
-
 
 ^[**11:16** 2Cor 12,6]
 
@@ -282,7 +266,6 @@
 ## Anuncio de la inminente llegada del apóstol; Rechazo de un libelo
 ^14^ He aquí estoy aparejado para ir á vosotros la tercera vez, y no os seré gravoso; porque no busco vuestras cosas, sino á vosotros: porque no han de atesorar los hijos para los padres, sino los padres para los hijos. ^15^ Empero yo de muy buena gana despenderé y seré despendido por vuestras almas, aunque amándoos más, sea amado menos. ^^ ^16^ Mas sea así, yo no os he agravado: sino que, como soy astuto, os he tomado por engaño. ^17^ ¿Acaso os he engañado por alguno de los que he enviado á vosotros? ^18^ Rogué á Tito, y envié con él al hermano. ¿Os engañó quizá Tito? ¿no hemos procedido con el mismo espíritu y por las mismas pisadas? 
 
-
 ^[**12:15** Fil 2,17]
 
 ## Rectificación de una opinión de los corintios; Miedo del apóstol por el estatus moral de la comunidad
@@ -297,9 +280,7 @@
 
 ^5^ Examinaos á vosotros mismos si estáis en fe; probaos á vosotros mismos. ¿No os conocéis á vosotros mismos, que Jesucristo está en vosotros? si ya no sois reprobados. ^6^ Mas espero que conoceréis que nosotros no somos reprobados. 
 
-
 ^7^ Y oramos á Dios que ninguna cosa mala hagáis; no para que nosotros seamos hallados aprobados, mas para que vosotros hagáis lo que es bueno, aunque nosotros seamos como reprobados. ^8^ Porque ninguna cosa podemos contra la verdad, sino por la verdad. ^9^ Por lo cual nos gozamos que seamos nosotros flacos, y que vosotros estéis fuertes; y aun deseamos vuestra perfección. ^10^ Por tanto os escribo esto ausente, por no tratar presente con dureza, conforme á la potestad que el Señor me ha dado para edificación, y no para destrucción. 
-
 
 
 ## Advertencias finales, saludos y bendiciones

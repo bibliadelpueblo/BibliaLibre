@@ -2,7 +2,6 @@
 ## Contenido, fiabilidad y finalidad del mensaje apostólico de la palabra de vida
 ^1^ Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos mirado, y palparon nuestras manos tocante al Verbo de vida; ^^ ^2^ (Porque la vida fué manifestada, y vimos, y testificamos, y os anunciamos aquella vida eterna, la cual estaba con el Padre, y nos ha aparecido;) ^3^ Lo que hemos visto y oído, eso os anunciamos, para que también vosotros tengáis comunión con nosotros: y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo. ^4^ Y estas cosas os escribimos, para que vuestro gozo sea cumplido. 
 
-
 ^[**1:1** Juan 1,1; Juan 1,4; Juan 1,14]
 
 ## El caminar en la luz (la verdad) versus el caminar en la oscuridad (la mentira); Conocimiento y confesión del pecado
@@ -19,12 +18,10 @@
 ## El nuevo mandamiento del amor fraternal por los hijos de la luz
 ^7^ Hermanos, no os escribo mandamiento nuevo, sino el mandamiento antiguo que habéis tenido desde el principio: el mandamiento antiguo es la palabra que habéis oído desde el principio. ^^ ^8^ Otra vez os escribo un mandamiento nuevo, que es verdadero en él y en vosotros; porque las tinieblas son pasadas, y la verdadera luz ya alumbra. ^^ ^9^ El que dice que está en luz, y aborrece á su hermano, el tal aun está en tinieblas todavía. ^^ ^10^ El que ama á su hermano, está en luz, y no hay tropiezo en él. ^11^ Mas el que aborrece á su hermano, está en tinieblas, y anda en tinieblas, y no sabe á donde va; porque las tinieblas le han cegado los ojos. 
 
-
 ^[**2:7** Juan 13,34; 2Jn 1,-1] ^[**2:8** Juan 8,12; Rom 13,12] ^[**2:9** 1Jn 4,20]
 
 ## Las diferentes edades del desarrollo espiritual; los hijos de la luz evitan el amor al mundo
 ^12^ Os escribo á vosotros, hijitos, porque vuestros pecados os son perdonados por su nombre. 
-
 
 ^13^ Os escribo á vosotros, padres, porque habéis conocido á aquel que es desde el principio. Os escribo á vosotros, mancebos, porque habéis vencido al maligno. Os escribo á vosotros, hijitos, porque habéis conocido al Padre. 
 ^^ 
@@ -36,7 +33,6 @@
 
 ^15^ No améis al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él. ^^ ^16^ Porque todo lo que hay en el mundo, la concupiscencia de la carne, y la concupiscencia de los ojos, y la soberbia de la vida, no es del Padre, mas es del mundo. ^17^ Y el mundo se pasa, y su concupiscencia; mas el que hace la voluntad de Dios, permanece para siempre. 
 
-
 ^[**2:15** Sant 4,4]
 
 ## Instrucción sobre falsos maestros; Advertencia de los anticristos; Recordatorio para aferrarse a la enseñanza correcta
@@ -45,7 +41,6 @@
 ^[**2:19** Hech 20,30; 1Cor 11,19]
 
 ^24^ Pues lo que habéis oído desde el principio, sea permaneciente en vosotros. Si lo que habéis oído desde el principio fuere permaneciente en vosotros, también vosotros permaneceréis en el Hijo y en el Padre. ^25^ Y esta es la promesa, la cual él nos prometió, la vida eterna. 
-
 
 ^26^ Os he escrito esto sobre los que os engañan. ^27^ Pero la unción que vosotros habéis recibido de él, mora en vosotros, y no tenéis necesidad que ninguno os enseñe; mas como la unción misma os enseña de todas cosas, y es verdadera, y no es mentira, así como os ha enseñado, perseveraréis en él. 
 
@@ -59,7 +54,6 @@
 # 3 
 ## Felicidad y esperanza de gloria para los hijos de Dios
 ^1^ Mirad cuál amor nos ha dado el Padre, que seamos llamados hijos de Dios: por esto el mundo no nos conoce, porque no le conoce á él. ^^ ^2^ Muy amados, ahora somos hijos de Dios, y aun no se ha manifestado lo que hemos de ser; pero sabemos que cuando él apareciere, seremos semejantes á él, porque le veremos como él es. ^^ ^3^ Y cualquiera que tiene esta esperanza en él, se purifica, como él también es limpio. 
-
 
 ^[**3:1** Juan 1,12; Juan 16,3] ^[**3:2** Rom 8,17; Col 3,4; Fil 3,21]
 
@@ -107,7 +101,6 @@
 ## Además del amor fraternal, la posesión del espíritu y el amor por Dios que conocemos testifican de nuestra comunión con Dios
 ^13^ En esto conocemos que estamos en él, y él en nosotros, en que nos ha dado de su Espíritu. ^^ ^14^ Y nosotros hemos visto y testificamos que el Padre ha enviado al Hijo para ser Salvador del mundo. ^^ ^15^ Cualquiera que confesare que Jesús es el Hijo de Dios, Dios está en él, y él en Dios. ^^ ^16^ Y nosotros hemos conocido y creído el amor que Dios tiene para con nosotros. Dios es amor; y el que vive en amor, vive en Dios, y Dios en él. 
 
-
 ^[**4:13** 1Jn 3,24] ^[**4:14** Juan 3,17] ^[**4:15** 1Jn 5,5]
 
 ## El fruto de esta comunión de amor con Dios es la confianza gozosa en el día del juicio y la práctica del amor fraterno
@@ -128,7 +121,6 @@
 
 ^6^ Este es Jesucristo, que vino por agua y sangre: no por agua solamente, sino por agua y sangre. Y el Espíritu es el que da testimonio: porque el Espíritu es la verdad. ^^ ^7^ Porque tres son los que dan testimonio en el cielo, el Padre, el Verbo, y el Espíritu Santo: y estos tres son uno. ^8^ Y tres son los que dan testimonio en la tierra, el Espíritu, y el agua, y la sangre: y estos tres concuerdan en uno. ^9^ Si recibimos el testimonio de los hombres, el testimonio de Dios es mayor; porque éste es el testimonio de Dios, que ha testificado de su Hijo. ^10^ El que cree en el Hijo de Dios, tiene el testimonio en sí mismo: el que no cree á Dios, le ha hecho mentiroso; porque no ha creído en el testimonio que Dios ha testificado de su Hijo. ^11^ Y este es el testimonio: Que Dios nos ha dado vida eterna; y esta vida está en su Hijo. ^12^ El que tiene al Hijo, tiene la vida: el que no tiene al Hijo de Dios, no tiene la vida. 
 
-
 ^[**5:6** Juan 1,33; Juan 19,34-35; 1Jn 1,7]
 
 ## La oración e intercesión de los creyentes es gozosa y eficaz para el perdón de los pecados que no sean los mortales
@@ -141,7 +133,6 @@
 ^[**5:14** Juan 14,13]
 
 ^16^ Si alguno viere cometer á su hermano pecado no de muerte, demandará, y se le dará vida; digo á los que pecan no de muerte. Hay pecado de muerte, por el cual yo no digo que ruegue. ^^ ^17^ Toda maldad es pecado; mas hay pecado no de muerte. 
-
 
 ^[**5:16** Mar 3,20-30]
 

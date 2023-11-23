@@ -4,7 +4,6 @@
 ^2^ Gracia sea á vosotros, y paz de Dios Padre nuestro, y del Señor Jesucristo.
 
 ## Alabado sea la gracia de Dios por la salvación dada en Cristo
- 
 ^3^ Bendito el Dios y Padre del Señor nuestro Jesucristo, el cual nos bendijo con toda bendición espiritual en lugares celestiales en Cristo: 
 ^4^ Según nos escogió en él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de él en amor; 
 ^5^ Habiéndonos predestinado para ser adoptados hijos por Jesucristo á sí mismo, según el puro afecto de su voluntad, 
@@ -19,7 +18,6 @@
 ^14^ Que es las arras de nuestra herencia, para la redención de la posesión adquirida para alabanza de su gloria.
 
 ## Intercesión por la congregación para el pleno conocimiento de la grandeza de la salvación dada por la gracia de Dios en Cristo
- 
 ^15^ Por lo cual también yo, habiendo oído de vuestra fe en el Señor Jesús, y amor para con todos los santos, 
 ^16^ No ceso de dar gracias por vosotros, haciendo memoria de vosotros en mis oraciones; 
 ^17^ Que el Dios del Señor nuestro Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación para su conocimiento; 
@@ -44,7 +42,6 @@
 ^10^ Porque somos hechura suya, criados en Cristo Jesús para buenas obras, las cuales Dios preparó para que anduviésemos en ellas.
 
 ## Como nueva formación de Dios en Cristo Jesús, los judíos creyentes son herederos de la promesa y de la casa de Dios, pero con ellos también los gentiles creyentes
- 
 ^11^ Por tanto, acordaos que en otro tiempo vosotros los Gentiles en la carne, que erais llamados incircuncisión por la que se llama circuncisión, hecha con mano en la carne; 
 ^12^ Que en aquel tiempo estabais sin Cristo, alejados de la república de Israel, y extranjeros á los pactos de la promesa, sin esperanza y sin Dios en el mundo. 
 ^13^ Mas ahora en Cristo Jesús, vosotros que en otro tiempo estabais lejos, habéis sido hechos cercanos por la sangre de Cristo. 
@@ -75,7 +72,6 @@
 ^13^ Por tanto, pido que no desmayéis á causa de mis tribulaciones por vosotros, las cuales son vuestra gloria.
 
 ## La intercesión del Apóstol para que los lectores los fortalezcan en la fe, el amor y el conocimiento
- 
 ^14^ Por esta causa doblo mis rodillas al Padre de nuestro Señor Jesucristo, 
 ^15^ Del cual es nombrada toda la parentela en los cielos y en la tierra, 
 ^16^ Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu. 
@@ -84,7 +80,6 @@
 ^19^ Y conocer el amor de Cristo, que excede á todo conocimiento, para que seáis llenos de toda la plenitud de Dios.
 
 ## Dios sea la gloria
- 
 ^20^ Y á Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos ó entendemos, por la potencia que obra en nosotros, 
 ^21^ A él sea gloria en la iglesia por Cristo Jesús, por todas edades del siglo de los siglos. Amén. 
 
@@ -101,7 +96,6 @@
 ^9^ (Y que subió, ¿qué es, sino que también había descendido primero á las partes más bajas de la tierra? 
 ^10^ El que descendió, él mismo es el que también subió sobre todos los cielos para cumplir todas las cosas.)
 
- 
 ^11^ Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores; 
 ^12^ Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo; 
 ^13^ Hasta que todos lleguemos á la unidad de la fe y del conocimiento del Hijo de Dios, á un varón perfecto, á la medida de la edad de la plenitud de Cristo: 
@@ -110,7 +104,6 @@
 ^16^ Del cual, todo el cuerpo compuesto y bien ligado entre sí por todas las junturas de su alimento, que recibe según la operación, cada miembro conforme á su medida toma aumento de cuerpo edificándose en amor.
 
 ## De gente nueva y vieja en general; Diferencia entre el estilo de vida pagano y cristiano
- 
 ^17^ Esto pues digo, y requiero en el Señor, que no andéis más como los otros Gentiles, que andan en la vanidad de su sentido, 
 ^18^ Teniendo el entendimiento entenebrecido, ajenos de la vida de Dios por la ignorancia que en ellos hay, por la dureza de su corazón: 
 ^19^ Los cuales después que perdieron el sentido de la conciencia, se entregaron á la desvergüenza para cometer con avidez toda suerte de impureza. 
@@ -121,7 +114,6 @@
 ^24^ Y vestir el nuevo hombre que es criado conforme á Dios en justicia y en santidad de verdad.
 
 ## Advertencias sobre el comportamiento en el tráfico entre ellos
- 
 ^25^ Por lo cual, dejada la mentira, hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros. 
 ^26^ Airaos, y no pequéis; no se ponga el sol sobre vuestro enojo; 
 ^27^ Ni deis lugar al diablo. 
@@ -136,15 +128,12 @@
 ^2^ Y andad en amor, como también Cristo nos amó, y se entregó á sí mismo por nosotros, ofrenda y sacrificio á Dios en olor suave.
 
 ## Advertencia de fornicación, codicia y lenguaje inapropiado
- 
 ^3^ Pero fornicación y toda inmundicia, ó avaricia, ni aun se nombre entre vosotros, como conviene á santos; 
 ^4^ Ni palabras torpes, ni necedades, ni truhanerías, que no convienen; sino antes bien acciones de gracias.
 
- 
 ^5^ Porque sabéis esto, que ningún fornicario, ó inmundo, ó avaro, que es servidor de ídolos, tiene herencia en el reino de Cristo y de Dios.
 
 ## Camina con cuidado como hijos de luz
- 
 ^6^ Nadie os engañe con palabras vanas; porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia. 
 ^7^ No seáis pues aparceros con ellos; 
 ^8^ Porque en otro tiempo erais tinieblas; mas ahora sois luz en el Señor: andad como hijos de luz, 
@@ -155,7 +144,6 @@
 ^13^ Mas todas las cosas cuando son redargüidas, son manifestadas por la luz; porque lo que manifiesta todo, la luz es. 
 ^14^ Por lo cual dice: Despiértate, tú que duermes, y levántate de los muertos, y te alumbrará Cristo.
 
- 
 ^15^ Mirad, pues, cómo andéis avisadamente; no como necios, mas como sabios; 
 ^16^ Redimiendo el tiempo, porque los días son malos. 
 ^17^ Por tanto, no seáis imprudentes, sino entendidos de cuál sea la voluntad del Señor. 
@@ -164,15 +152,12 @@
 ^20^ Dando gracias siempre de todo al Dios y Padre en el nombre de nuestro Señor Jesucristo:
 
 ## Obligaciones de los cónyuges
- 
 ^21^ Sujetados los unos á los otros en el temor de Dios.
 
- 
 ^22^ Las casadas estén sujetas á sus propios maridos, como al Señor. 
 ^23^ Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia; y él es el que da la salud al cuerpo. 
 ^24^ Así que, como la iglesia está sujeta á Cristo, así también las casadas lo estén á sus maridos en todo.
 
- 
 ^25^ Maridos, amad á vuestras mujeres, así como Cristo amó á la iglesia, y se entregó á sí mismo por ella, 
 ^26^ Para santificarla limpiándola en el lavacro del agua por la palabra, 
 ^27^ Para presentársela gloriosa para sí, una iglesia que no tuviese mancha ni arruga, ni cosa semejante; sino que fuese santa y sin mancha. 
@@ -189,21 +174,17 @@
 ^2^ Honra á tu padre y á tu madre, que es el primer mandamiento con promesa, 
 ^3^ Para que te vaya bien, y seas de larga vida sobre la tierra.
 
- 
 ^4^ Y vosotros, padres, no provoquéis á ira á vuestros hijos; sino criadlos en disciplina y amonestación del Señor.
 
 ## Deberes de los sirvientes, esclavos y los amos
- 
 ^5^ Siervos, obedeced á vuestros amos según la carne con temor y temblor, con sencillez de vuestro corazón, como á Cristo; 
 ^6^ No sirviendo al ojo, como los que agradan á los hombres; sino como siervos de Cristo, haciendo de ánimo la voluntad de Dios; 
 ^7^ Sirviendo con buena voluntad, como al Señor, y no á los hombres; 
 ^8^ Sabiendo que el bien que cada uno hiciere, esto recibirá del Señor, sea siervo ó sea libre.
 
- 
 ^9^ Y vosotros, amos, haced á ellos lo mismo, dejando las amenazas: sabiendo que el Señor de ellos y vuestro está en los cielos, y que no hay acepción de personas con él.
 
 ## Advertencia final a la lucha cristiana de derecha; la armadura espiritual del cristiano; petición personal del apóstol
- 
 ^10^ Por lo demás, hermanos míos, confortaos en el Señor, y en la potencia de su fortaleza. 
 ^11^ Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo. 
 ^12^ Porque no tenemos lucha contra sangre y carne; sino contra principados, contra potestades, contra señores del mundo, gobernadores de estas tinieblas, contra malicias espirituales en los aires. 
@@ -217,10 +198,8 @@
 ^20^ Por el cual soy embajador en cadenas; que resueltamente hable de él, como debo hablar.
 
 ## Anuncio de la misión de Tíquico; Bendición
- 
 ^21^ Mas para que también vosotros sepáis mis negocios, y cómo lo paso, todo os lo hará saber Tichîco, hermano amado y fiel ministro en el Señor: 
 ^22^ Al cual os he enviado para esto mismo, para que entendáis lo tocante á nosotros, y que consuele vuestros corazones.
 
- 
 ^23^ Paz sea á los hermanos y amor con fe, de Dios Padre y del Señor Jesucristo. 
 ^24^ Gracia sea con todos los que aman á nuestro Señor Jesucristo en sinceridad. Amén. Escrita de Roma á los Efesios por Tichîco. 

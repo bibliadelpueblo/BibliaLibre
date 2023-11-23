@@ -3,13 +3,10 @@
 ^1^ Y aconteció en los días que gobernaban los jueces, que hubo hambre en la tierra. Y un varón de Beth-lehem de Judá, fué á peregrinar en los campos de Moab, él y su mujer, y dos hijos suyos. ^2^ El nombre de aquel varón era Elimelech, y el de su mujer Noemi; y los nombres de sus dos hijos eran, Mahalón y Chelión, Ephrateos de Beth-lehem de Judá. Llegaron pues á los campos de Moab, y asentaron allí. ^3^ Y murió Elimelech, marido de Noemi, y quedó ella con sus dos hijos; ^4^ Los cuales tomaron para sí mujeres de Moab, el nombre de la una Orpha, y el nombre de la otra Ruth; y habitaron allí unos diez años. ^5^ Y murieron también los dos, Mahalón y Chelión, quedando así la mujer desamparada de sus dos hijos y de su marido. ^6^ Entonces se levantó con sus nueras, y volvióse de los campos de Moab: porque oyó en el campo de Moab que Jehová había visitado á su pueblo para darles pan. 
 
 
-
 ## Partida de Noemí y sus dos nueras para regresar a Belén; La despedida de Orpa, la lealtad de Ruth
 ^7^ Salió pues del lugar donde había estado, y con ella sus dos nueras, y comenzaron á caminar para volverse á la tierra de Judá. ^8^ Y Noemi dijo á sus dos nueras: Andad, volveos cada una á la casa de su madre: Jehová haga con vosotras misericordia, como la habéis hecho con los muertos y conmigo. ^9^ Déos Jehová que halléis descanso, cada una en casa de su marido: besólas luego, y ellas lloraron á voz en grito. 
 
-
 ^10^ Y dijéronle: Ciertamente nosotras volveremos contigo á tu pueblo. 
-
 
 ^11^ Y Noemi respondió: Volveos, hijas mías: ¿para qué habéis de ir conmigo? ¿tengo yo más hijos en el vientre, que puedan ser vuestros maridos? ^12^ Volveos, hijas mías, é idos; que yo ya soy vieja para ser para varón. Y aunque dijese: Esperanza tengo; y esta noche fuese con varón, y aun pariese hijos; ^13^ ¿Habíais vosotras de esperarlos hasta que fuesen grandes? ¿habías vosotras de quedaros sin casar por amor de ellos? No, hijas mías; que mayor amargura tengo yo que vosotras, pues la mano de Jehová ha salido contra mí. 
 ^^ 
@@ -17,17 +14,13 @@
 
 ^14^ Mas ellas alzando otra vez su voz, lloraron: y Orpha besó á su suegra, mas Ruth se quedó con ella. ^15^ Y Noemi dijo: He aquí tu cuñada se ha vuelto á su pueblo y á sus dioses; vuélvete tú tras ella. 
 
-
 ^16^ Y Ruth respondió: No me ruegues que te deje, y me aparte de ti: porque donde quiera que tú fueres, iré yo; y donde quiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios. ^17^ Donde tú murieres, moriré yo, y allí seré sepultada: así me haga Jehová, y así me dé, que sólo la muerte hará separación entre mí y ti. 
-
 
 ^18^ Y viendo Noemi que estaba tan resuelta á ir con ella, dejó de hablarle. 
 
 
-
 ## Llegada y recepción de las dos mujeres en Belén
 ^19^ Anduvieron pues ellas dos hasta que llegaron á Beth-lehem: y aconteció que entrando en Beth-lehem, toda la ciudad se conmovió por razón de ellas, y decían: ¿No es ésta Noemi? 
-
 
 ^20^ Y ella les respondía: No me llaméis Noemi, sino llamadme Mara: porque en grande amargura me ha puesto el Todopoderoso. 
 ^^ 
@@ -37,35 +30,25 @@
 ## Rut viene a recoger espigas en el campo del booz, quien pregunta por ella y la recibe amablemente
 ^1^ Y tenía Noemi un pariente de su marido, varón poderoso y de hecho, de la familia de Elimelech, el cual se llamaba Booz. ^2^ Y Ruth la Moabita dijo á Noemi: Ruégote que me dejes ir al campo, y cogeré espigas en pos de aquel á cuyos ojos hallare gracia. Y ella le respondió: Ve, hija mía. 
 
-
 ^3^ Fué pues, y llegando, espigó en el campo en pos de los segadores: y aconteció por ventura, que la suerte del campo era de Booz, el cual era de la parentela de Elimelech. 
-
 
 ^4^ Y he aquí que Booz vino de Beth-lehem, y dijo á los segadores: Jehová sea con vosotros. Y ellos respondieron: Jehová te bendiga. 
 
-
 ^5^ Y Booz dijo á su criado el sobrestante de los segadores: ¿Cúya es esta moza? 
-
 
 ^6^ Y el criado, sobrestante de los segadores, respondió y dijo: Es la moza de Moab, que volvió con Noemi de los campos de Moab; ^7^ Y ha dicho: Ruégote que me dejes coger y juntar tras los segadores entre las gavillas: entró pues, y está desde por la mañana hasta ahora, menos un poco que se detuvo en casa. 
 
-
 ^8^ Entonces Booz dijo á Ruth: Oye, hija mía, no vayas á espigar á otro campo, ni pases de aquí: y aquí estarás con mis mozas. ^9^ Mira bien al campo que segaren, y síguelas: porque yo he mandado á los mozos que no te toquen. Y si tuvieres sed, ve á los vasos, y bebe del agua que sacaren los mozos. 
-
 
 ^10^ Ella entonces bajando su rostro inclinóse á tierra, y díjole: ¿Por qué he hallado gracia en tus ojos para que tú me reconozcas, siendo yo extranjera? 
 
-
 ^11^ Y respondiendo Booz, díjole: Por cierto se me ha declarado todo lo que has hecho con tu suegra después de la muerte de tu marido, y que dejando á tu padre y á tu madre y la tierra donde naciste, has venido á pueblo que no conociste antes. ^12^ Jehová galardone tu obra, y tu remuneración sea llena por Jehová Dios de Israel, que has venido para cubrirte debajo de sus alas. 
-
 
 ^13^ Y ella dijo: Señor mío, halle yo gracia delante de tus ojos; porque me has consolado, y porque has hablado al corazón de tu sierva, no siendo yo como una de tus criadas. 
 
 
-
 ## Rut sigue siendo tratada amablemente por Booz, llega a casa con una rica cosecha y recibe información sobre Booz de su suegra
 ^14^ Y Booz le dijo á la hora de comer: Allégate aquí, y come del pan, y moja tu bocado en el vinagre. Y sentóse ella junto á los segadores, y él le dió del potaje, y comió hasta que se hartó y le sobró. 
-
 
 ^15^ Levantóse luego para espigar. Y Booz mandó á sus criados, diciendo: Coja también espigas entre las gavillas, y no la avergoncéis; ^16^ Antes echaréis á sabiendas de los manojos, y la dejaréis que coja, y no la reprendáis. 
 ^^ 
@@ -73,15 +56,11 @@
 
 ^17^ Y espigó en el campo hasta la tarde, y desgranó lo que había cogido, y fué como un epha de cebada. ^18^ Y tomólo, y vínose á la ciudad; y su suegra vió lo que había cogido. Sacó también luego lo que le había sobrado después de harta, y dióselo. 
 
-
 ^19^ Y díjole su suegra: ¿Dónde has espigado hoy? ¿y dónde has trabajado? bendito sea el que te ha reconocido. Y ella declaró á su suegra lo que le había acontecido con aquél, y dijo: El nombre del varón con quien hoy he trabajado es Booz. 
-
 
 ^20^ Y dijo Noemi á su nuera: Sea él bendito de Jehová, pues que no ha rehusado á los vivos la benevolencia que tuvo para con los finados. Díjole después Noemi: Nuestro pariente es aquel varón, y de nuestros redentores es. 
 
-
 ^21^ Y Ruth Moabita dijo: A más de esto me ha dicho: Júntate con mis criados, hasta que hayan acabado toda mi siega. 
-
 
 ^22^ Y Noemi respondió á Ruth su nuera: Mejor es, hija mía, que salgas con sus criadas, que no que te encuentren en otro campo. ^23^ Estuvo pues junta con las mozas de Booz espigando, hasta que la siega de las cebadas y la de los trigos fué acabada; mas con su suegra habitó. 
 
@@ -89,9 +68,7 @@
 ## Siguiendo el consejo de Noemí, Rut va a la era de Booz y se acuesta a sus pies
 ^1^ Y díjole su suegra Noemi: Hija mía, ¿no te tengo de buscar descanso, que te sea bueno? ^2^ ¿No es Booz nuestro pariente, con cuyas mozas tú has estado? He aquí que él avienta esta noche la parva de las cebadas. ^3^ Te lavarás pues, y te ungirás, y vistiéndote tus vestidos, pasarás á la era; mas no te darás á conocer al varón hasta que él haya acabado de comer y de beber. ^4^ Y cuando él se acostare, repara tú el lugar donde él se acostará, é irás, y descubrirás los pies, y te acostarás allí; y él te dirá lo que hayas de hacer. 
 
-
 ^5^ Y le respondió: Haré todo lo que tú me mandares. ^6^ Descendió pues á la era, é hizo todo lo que su suegra le había mandado. ^7^ Y como Booz hubo comido y bebido, y su corazón estuvo contento, retiróse á dormir á un lado del montón. Entonces ella vino calladamente, y descubrió los pies, y acostóse. 
-
 
 
 ## Rut habla con Booz, recibe la confirmación solicitada y regresa a Noemí con un regalo
@@ -105,12 +82,9 @@
 
 ^14^ Y después que reposó á sus pies hasta la mañana, levantóse, antes que nadie pudiese conocer á otro. Y él dijo: No se sepa que haya venido mujer á la era. ^15^ Después le dijo: Llega el lienzo que traes sobre ti, y ten de él. Y teniéndolo ella, él midió seis medidas de cebada, y púsoselas á cuestas: y vínose ella á la ciudad. 
 
-
 ^16^ Así que vino á su suegra, ésta le dijo: ¿Qué pues, hija mía? Y declaróle ella todo lo que con aquel varón le había acontecido. 
 
-
 ^17^ Y dijo: Estas seis medidas de cebada me dió, diciéndome: Porque no vayas vacía á tu suegra. 
-
 
 ^18^ Entonces Noemi dijo: Reposa, hija mía, hasta que sepas cómo cae la cosa: porque aquel hombre no parará hasta que hoy concluya el negocio. 
 
@@ -126,16 +100,13 @@
 
 ^6^ Y respondió el pariente: No puedo redimir por mi parte, porque echaría á perder mi heredad: redime tú usando de mi derecho, porque yo no podré redimir. 
 
-
 ^7^ Había ya de largo tiempo esta costumbre en Israel en la redención ó contrato, que para la confirmación de cualquier negocio, el uno se quitaba el zapato y lo daba á su compañero: y este era el testimonio en Israel. ^^ ^8^ Entonces el pariente dijo á Booz: Tómalo tú. Y descalzó su zapato. 
 
 ^[**4:7** Deut 25,7-10]
 
 ^9^ Y Booz dijo á los ancianos y á todo el pueblo: Vosotros sois hoy testigos de que tomo todas las cosas que fueron de Elimelech, y todo lo que fué de Chelión y de Mahalón, de mano de Noemi; ^10^ Y que también tomo por mi mujer á Ruth Moabita, mujer de Mahalón, para suscitar el nombre del difunto sobre su heredad, para que el nombre del muerto no se borre de entre sus hermanos y de la puerta de su lugar. Vosotros sois hoy testigos. 
 
-
 ^11^ Y dijeron todos los del pueblo que estaban á la puerta con los ancianos: Testigos somos. Jehová haga á la mujer que entra en tu casa como á Rachêl y á Lea, las cuales dos edificaron la casa de Israel; y tú seas ilustre en Ephrata, y tengas nombradía en Beth-lehem; ^12^ Y de la simiente que Jehová te diere de aquesta moza, sea tu casa como la casa de Phares, al que parió Thamar á Judá. 
-
 
 
 ## El matrimonio de Des Booz con Rut se completó y fue bendecido con el nacimiento de Obed; Índice de género de Pérez a David

@@ -14,18 +14,15 @@
 ## Amenaza contra los filisteos
 ^6^ Así ha dicho Jehová: Por tres pecados de Gaza, y por el cuarto, no desviaré su castigo; porque llevó cautiva toda la cautividad, para entregarlos á Edom. ^^ ^7^ Y meteré fuego en el muro de Gaza, y quemará sus palacios. ^8^ Y talaré los moradores de Azoto, y los gobernadores de Ascalón: y tornaré mi mano sobre Ecrón, y las reliquias de los Palestinos perecerán, ha dicho el Señor Jehová. 
 
-
 ^[**1:6** 2Cró 28,17-18; Jer 47,1]
 
 ## Amenaza contra Tiro
 ^9^ Así ha dicho Jehová: Por tres pecados de Tiro, y por el cuarto, no desviaré su castigo; porque entregaron la cautividad entera á Edom, y no se acordaron del concierto de hermanos. ^^ ^10^ Y meteré fuego en el muro de Tiro, y consumirá sus palacios. 
 
-
 ^[**1:9** Is 23,-1; Jl 4,4; 1Re 5,26]
 
 ## Amenaza contra los edomitas
 ^11^ Así ha dicho Jehová: Por tres pecados de Edom, y por el cuarto, no desviaré su castigo; porque persiguió á cuchillo á su hermano, y rompió sus conmiseraciones; y con su furor le ha robado siempre, y ha perpetuamente guardado el enojo. ^12^ Y meteré fuego en Temán, y consumirá los palacios de Bosra. 
-
 
 
 ## Amenaza contra los amonitas
@@ -44,7 +41,6 @@
 ^4^ Así ha dicho Jehová: Por tres pecados de Judá, y por el cuarto, no desviaré su castigo; porque menospreciaron la ley de Jehová, y no guardaron sus ordenanzas; é hiciéronlos errar sus mentiras, en pos de las cuales anduvieron sus padres. ^5^ Meteré por tanto fuego en Judá, el cual consumirá los palacios de Jerusalem. 
 
 
-
 ## Amenaza contra Israel
 ^6^ Así ha dicho Jehová: Por tres pecados de Israel, y por el cuarto, no desviaré su castigo; porque vendieron por dinero al justo, y al pobre por un par de zapatos: ^7^ Que anhelan porque haya polvo de tierra sobre la cabeza de los pobres, y tuercen el camino de los humildes: y el hombre y su padre entraron á la misma moza, profanando mi santo nombre. ^^ ^8^ Y sobre las ropas empeñadas se acuestan junto á cualquier altar; y el vino de los penados beben en la casa de sus dioses. ^^ ^9^ Y yo destruí delante de ellos al Amorrheo, cuya altura era como la altura de los cedros, y fuerte como un alcornoque; y destruí su fruto arriba, sus raíces abajo. ^^ ^10^ Y yo os hice á vosotros subir de la tierra de Egipto, y os traje por el desierto cuarenta años, para que poseyeseis la tierra del Amorrheo. ^11^ Y levanté de vuestros hijos para profetas, y de vuestros mancebos para que fuesen Nazareos. ¿No es esto así, dice Jehová, hijos de Israel? ^12^ Mas vosotros disteis de beber vino á los Nazareos; y á los profetas mandasteis, diciendo: No profeticéis. 
 ^^ 
@@ -55,29 +51,23 @@
 ^1^ Oid esta palabra que ha hablado Jehová contra vosotros, hijos de Israel, contra toda la familia que hice subir de la tierra de Egipto. Dice así: ^2^ A vosotros solamente he conocido de todas las familias de la tierra; por tanto visitaré contra vosotros todas vuestras maldades. 
 
 
-
 ## Amós habla como profeta por razones de peso
 ^3^ ¿Andarán dos juntos, si no estuvieren de concierto? ^4^ ¿Bramará el león en el monte sin hacer presa? ¿dará el leoncillo su bramido desde su morada, si no prendiere? ^5^ ¿Caerá el ave en el lazo en la tierra, sin haber armador? ¿alzaráse el lazo de la tierra, si no se ha prendido algo? ^6^ ¿Tocaráse la trompeta en la ciudad, y no se alborotará el pueblo? ¿habrá algún mal en la ciudad, el cual Jehová no haya hecho? ^^ ^7^ Porque no hará nada el Señor Jehová, sin que revele su secreto á sus siervos los profetas. ^8^ Bramando el león, ¿quién no temerá? hablando el Señor Jehová, ¿quién no profetizará? 
-
 
 ^[**3:6** Is 45,7; Lam 3,37]
 
 ## Anuncio de la destrucción de la ciudad de Samaria, que está sumida en la exuberancia y la locura
 ^9^ Haced pregonar sobre los palacios de Azoto, y sobre los palacios de tierra de Egipto, y decid: Reuníos sobre los montes de Samaria, y ved muchas opresiones en medio de ella, y violencias en medio de ella. ^10^ Y no saben hacer lo recto, dice Jehová, atesorando rapiñas y despojos en sus palacios. 
 
-
 ^11^ Por tanto, el Señor Jehová ha dicho así: Un enemigo habrá aún por todos lados de la tierra, y derribará de ti tu fortaleza, y tus palacios serán saqueados. 
 
-
 ^12^ Así ha dicho Jehová: De la manera que el pastor libra de la boca del león dos piernas, ó la punta de una oreja, así escaparán los hijos de Israel que moran en Samaria en el rincón de la cama, y al canto del lecho. 
-
 
 ^13^ Oid y protestad en la casa de Jacob, ha dicho Jehová Dios de los ejércitos: ^14^ Que el día que visitaré las rebeliones de Israel sobre él, visitaré también sobre los altares de Beth-el; y serán cortados los cuernos del altar, y caerán á tierra. ^15^ Y heriré la casa del invierno con la casa del verano, y las casas de marfil perecerán; y muchas casas serán arruinadas, dice Jehová. 
 
 # 4 
 ## Amenaza contra las exuberantes mujeres de Samaria
 ^1^ Oid esta palabra, vacas de Basán, que estáis en el monte de Samaria, que oprimís los pobres, que quebrantáis los menesterosos, que decís á sus señores: Traed, y beberemos. ^2^ El Señor Jehová juró por su santidad: He aquí, vienen días sobre vosotros en que os llevará en anzuelos, y á vuestros descendientes en barquillos de pescador. ^3^ Y saldrán por los portillos la una en pos de la otra, y seréis echadas del palacio, dice Jehová. 
-
 
 
 ## Contra el culto exterior e indignante
@@ -92,7 +82,6 @@
 ^[**4:7** 1Re 17,1]
 
 ^9^ Os herí con viento solano y oruga; vuestros muchos huertos y vuestras viñas, y vuestros higuerales y vuestros olivares comió la langosta: pero nunca os tornasteis á mí, dice Jehová. 
-
 
 ^10^ Envié entre vosotros mortandad al modo que en Egipto: maté á cuchillo vuestros mancebos, con cautiverio de vuestros caballos; é hice subir el hedor de vuestros reales hasta vuestras narices: empero no os tornasteis á mí, dice Jehová. 
 ^^ 
@@ -109,14 +98,11 @@
 ## Amós inicia el lamento por los muertos contra Israel
 ^1^ Oid esta palabra, porque yo levanto endecha sobre vosotros, casa de Israel. ^2^ Cayó la virgen de Israel, no más podrá levantarse; dejada fué sobre su tierra, no hay quien la levante. 
 
-
 ^3^ Porque así ha dicho el Señor Jehová: La ciudad que sacaba mil, quedará con ciento; y la que sacaba ciento, quedará con diez, en la casa de Israel. 
-
 
 
 ## Las demandas de Dios sobre el pueblo y las quejas sobre el mal comportamiento de Israel
 ^4^ Empero así dice Jehová á la casa de Israel: Buscadme, y viviréis; ^5^ Y no busquéis á Beth-el ni entréis en Gilgal, ni paséis á Beer-seba: porque Gilgal será llevada en cautiverio, y Beth-el será deshecha. ^^ ^6^ Buscad á Jehová, y vivid; no sea que hienda, como fuego, á la casa de José, y la consuma, sin haber en Beth-el quien lo apague. ^7^ Los que convierten en ajenjo el juicio, y dejan en tierra la justicia, 
-
 
 ^[**5:5** Am 4,4; Os 4,15]
 
@@ -128,15 +114,12 @@
 ^14^ Buscad lo bueno, y no lo malo, para que viváis; porque así Jehová Dios de los ejércitos será con vosotros, como decís. ^15^ Aborreced el mal, y amad el bien, y poned juicio en la puerta: quizá Jehová, Dios de los ejércitos, tendrá piedad del remanente de José. 
 
 
-
 ## Nueva lamentación por la inminente muerte general
 ^16^ Por tanto, así ha dicho Jehová Dios de los ejércitos, el Señor: En todas las plazas habrá llanto, y en todas las calles dirán, ¡Ay! ¡ay! y al labrador llamarán á lloro, y á endecha á los que endechar supieren. ^17^ Y en todas las viñas habrá llanto; porque pasaré por medio de ti, dice Jehová. 
 
 
-
 ## El día del Señor es un día de desastre
 ^18^ ¡Ay de los que desean el día de Jehová! ¿para qué queréis este día de Jehová? Será de tinieblas, y no luz: ^^ ^19^ Como el que huye de delante del león, y se topa con el oso; ó si entrare en casa y arrimare su mano á la pared, y le muerda la culebra. ^20^ ¿No será el día de Jehová tinieblas, y no luz; oscuridad, que no tiene resplandor? 
-
 
 ^[**5:18** Jl 2,11]
 
@@ -151,12 +134,10 @@
 ## La vida despreocupada de los grandes orgullosos e indulgentes de Judá y Samaria desafía el juicio divino
 ^1^ ¡Ay de los reposados en Sión, y de los confiados en el monte de Samaria, nombrados principales entre las mismas naciones, las cuales vendrán sobre ellos, oh casa de Israel! ^2^ Pasad á Calne, y mirad; y de allí id á la gran Hamath; descended luego á Gath de los Palestinos: ved si son aquellos reinos mejores que estos reinos, si su término es mayor que vuestro término. ^3^ Vosotros que dilatáis el día malo, y acercáis la silla de iniquidad; ^^ ^4^ Duermen en camas de marfil, y se extienden sobre sus lechos; y comen los corderos del rebaño, y los becerros de en medio del engordadero; ^^ ^5^ Gorjean al son de la flauta, é inventan instrumentos músicos, como David; ^^ ^6^ Beben vino en tazones, y se ungen con los ungüentos más preciosos; y no se afligen por el quebrantamiento de José. ^7^ Por tanto, ahora pasarán en el principio de los que á cautividad pasaren, y se acercará el clamor de los extendidos. 
 
-
 ^[**6:3** Sal 10,5] ^[**6:4** Am 3,15] ^[**6:5** Is 5,12]
 
 ## Tres amenazas de calamidad con respecto a la corrupción moral de Israel
 ^8^ El Señor Jehová juró por su alma, Jehová Dios de los ejércitos ha dicho: Tengo en abominación la grandeza de Jacob, y aborrezco sus palacios: y la ciudad y su plenitud entregaré al enemigo. ^9^ Y acontecerá que si diez hombres quedaren en una casa, morirán. 
-
 
 ^10^ Y su tío tomará á cada uno, y quemarále para sacar los huesos de casa; y dirá al que estará en los rincones de la casa: ¿Hay aún alguno contigo? Y dirá: No. Y dirá aquél: Calla, que no podemos hacer mención del nombre de Jehová. ^11^ Porque he aquí, Jehová mandará, y herirá con hendiduras la casa mayor, y la casa menor con aberturas. ^12^ ¿Correrán los caballos por las peñas? ¿ararán en ellas con vacas? ¿por qué habéis vosotros tornado el juicio en veneno, y el fruto de justicia en ajenjo? 
 ^^ 
@@ -166,23 +147,17 @@
 ## Las dos primeras visionas amenazantes (langostas y sequía)
 ^1^ Así me ha mostrado el Señor Jehová: y he aquí, él criaba langostas al principio que comenzaba á crecer el heno tardío; y he aquí, era el heno tardío después de las siegas del rey. ^2^ Y acaeció que como acabó de comer la hierba de la tierra, yo dije: Señor Jehová, perdona ahora; ¿quién levantará á Jacob? porque es pequeño. 
 
-
 ^3^ Arrepintióse Jehová de esto: No será, dijo Jehová. 
-
 
 ^4^ El Señor Jehová me mostró así: y he aquí, llamaba para juzgar por fuego el Señor Jehová; y consumió un gran abismo, y consumió una parte de la tierra. ^5^ Y dije: Señor Jehová, cesa ahora; ¿quién levantará á Jacob? porque es pequeño. 
 
-
 ^6^ Arrepintióse Jehová de esto: No será esto tampoco, dijo el Señor Jehová. 
-
 
 
 ## Soldadura de plomo o plomo: el fin de la longanimidad divina
 ^7^ Enseñóme así: he aquí, el Señor estaba sobre un muro hecho á plomo, y en su mano una plomada de albañil. ^8^ Jehová entonces me dijo: ¿Qué ves, Amós? Y dije: Una plomada de albañil. Y el Señor dijo: He aquí, yo pongo plomada de albañil en medio de mi pueblo Israel: no le pasaré más: 
 
-
 ^9^ Y los altares de Isaac serán destruídos, y los santuarios de Israel serán asolados; y levantaréme con espada sobre la casa de Jeroboam. 
-
 
 
 ## Informe sobre la expulsión de Amós de Betel
@@ -192,7 +167,6 @@
 
 ^12^ Y Amasías dijo á Amós: Vidente, vete, y huye á tierra de Judá, y come allá tu pan, y profetiza allí: ^13^ Y no profetices más en Beth-el, porque es santuario del rey, y cabecera del reino. 
 
-
 ^14^ Entonces respondió Amós, y dijo á Amasías: No soy profeta, ni soy hijo de profeta, sino que soy boyero, y cogedor de cabrahigos: 
 ^^ 
 ^[**7:14** Am 1,1]^15^ Y Jehová me tomó de tras el ganado, y díjome Jehová: Ve, y profetiza á mi pueblo Israel. ^16^ Ahora pues, oye palabra de Jehová. Tú dices: No profetices contra Israel, ni hables contra la casa de Isaac: ^17^ Por tanto, así ha dicho Jehová: Tu mujer fornicará en la ciudad, y tus hijos y tus hijas caerán á cuchillo, y tu tierra será partida por suertes; y tú morirás en tierra inmunda, é Israel será traspasado de su tierra. 
@@ -200,7 +174,6 @@
 # 8 
 ## La visión de la canasta de frutas maduras
 ^1^ Así me ha mostrado Jehová: y he aquí un canastillo de fruta de verano. 
-
 
 ^2^ Y dijo: ¿Qué ves, Amós? Y dije: Un canastillo de fruta de verano. Y díjome Jehová: Venido ha el fin sobre mi pueblo Israel; no le pasaré más. 
 ^^ 
@@ -213,7 +186,6 @@
 
 ## Amenaza contra los comerciantes de granos usureros
 ^4^ Oid esto, los que tragáis á los menesterosos, y arruináis los pobres de la tierra, ^^ ^5^ Diciendo: ¿Cuándo pasará el mes, y venderemos el trigo; y la semana, y abriremos los alfolíes del pan, y achicaremos la medida, y engrandeceremos el precio, y falsearemos el peso engañoso; ^^ ^6^ Para comprar los pobres por dinero, y los necesitados por un par de zapatos, y venderemos las aechaduras del trigo? ^^ ^7^ Jehová juró por la gloria de Jacob: No me olvidaré para siempre de todas sus obras. ^8^ ¿No se ha de estremecer la tierra sobre esto? ¿y todo habitador de ella no llorará? y subirá toda como un río, y será arrojada, y hundiráse como el río de Egipto. 
-
 
 ^[**8:4** Am 2,7] ^[**8:5** Neh 10,32; Neh 13,15] ^[**8:6** Am 2,6]
 
@@ -243,7 +215,6 @@
 
 ## El avistamiento de la gente; la restauración del antiguo Reino de David
 ^8^ He aquí los ojos del Señor Jehová están contra el reino pecador, y yo lo asolaré de la haz de la tierra: mas no destruiré del todo la casa de Jacob, dice Jehová. ^9^ Porque he aquí yo mandaré, y haré que la casa de Israel sea zarandeada entre todas las gentes, como se zarandea el grano en un harnero, y no cae un granito en la tierra. ^10^ A cuchillo morirán todos los pecadores de mi pueblo, que dicen: No se acercará, ni nos alcanzará el mal. ^^ ^11^ En aquel día yo levantaré el tabernáculo de David, caído, y cerraré sus portillos, y levantaré sus ruinas, y edificarélo como en el tiempo pasado; ^12^ Para que aquellos sobre los cuales es llamado mi nombre, posean el resto de Idumea, y á todas las naciones, dice Jehová que hace esto. 
-
 
 ^[**9:10** Am 6,3]
 

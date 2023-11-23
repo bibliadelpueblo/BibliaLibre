@@ -2,7 +2,6 @@
 ## La venida de Dios al juicio de los gentiles, así como de Israel y Judá
 ^1^ Palabra de Jehová que fué á Miqueas de Morasti en días de Jotham, Achâz, y Ezechîas, reyes de Judá: lo que vió sobre Samaria y Jerusalem. ^^ ^2^ Oid, pueblos todos: está atenta, tierra, y todo lo que en ella hay: y el Señor Jehová, el Señor desde su santo templo sea testigo contra vosotros. ^3^ Porque he aquí, Jehová sale de su lugar, y descenderá, y hollará sobre las alturas de la tierra. ^^ ^4^ Y debajo de él se derretirán los montes, y los valles se hendirán como la cera delante del fuego, como las aguas que corren por un precipicio. ^5^ Todo esto por la rebelión de Jacob, y por los pecados de la casa de Israel. ¿Cuál es la rebelión de Jacob? ¿no es Samaria? ¿Y cuáles son los excelsos de Judá? ¿no es Jerusalem? 
 
-
 ^[**1:1** Jer 26,18; Is 1,1] ^[**1:3** Am 4,13]
 
 ## Anuncio de la caída de Samaria
@@ -18,12 +17,10 @@
 ## Amenaza a los grandes ricos y violentos y a los oponentes del Profeta.
 ^1^ ¡Ay de los que piensan iniquidad, y de los que fabrican el mal en sus camas! Cuando viene la mañana lo ponen en obra, porque tienen en su mano el poder. ^^ ^2^ Y codiciaron las heredades, y robáronlas: y casas, y las tomaron: oprimieron al hombre y á su casa, al hombre y á su heredad. ^3^ Por tanto, así ha dicho Jehová: He aquí, yo pienso sobre esta familia un mal, del cual no sacaréis vuestros cuellos, ni andaréis erguidos; porque el tiempo será malo. ^4^ En aquel tiempo se levantará sobre vosotros refrán, y se endechará endecha de lamentación, diciendo: Del todo fuimos destruídos; ha cambiado la parte de mi pueblo. ¡Cómo nos quitó nuestros campos! dió, repartiólos á otros. ^5^ Por tanto, no tendrás quien eche cordel para suerte en la congregación de Jehová. 
 
-
 ^[**2:1** Sal 36,5]
 
 ## El argumento de Micha con sus oponentes, los líderes del pueblo
 ^6^ No profeticéis, dicen á los que profetizan; no les profeticen que los ha de comprender vergüenza. ^^ ^7^ La que te dices casa de Jacob, ¿hase acortado el espíritu de Jehová? ¿son éstas sus obras? ¿Mis palabras no hacen bien al que camina derechamente? ^^ ^8^ El que ayer era mi pueblo, se ha levantado como enemigo: tras las vestiduras quitasteis las capas atrevidamente á los que pasaban, como los que vuelven de la guerra. ^9^ A las mujeres de mi pueblo echasteis fuera de las casas de sus delicias: á sus niños quitasteis mi perpetua alabanza. ^10^ Levantaos, y andad, que no es ésta la holganza; porque está contaminada, corrompióse, y de grande corrupción. ^11^ Si hubiere alguno que ande con el viento, y finja mentiras diciendo: Yo te profetizaré de vino y de sidra; este tal será profeta á este pueblo. 
-
 
 ^[**2:6** Am 7,16] ^[**2:7** Am 6,3]
 
@@ -34,7 +31,6 @@
 # 3 
 ## Acusaciones y amenazas de Miqueas contra los líderes violentos del pueblo y los falsos profetas
 ^1^ Y dije: Oid ahora, príncipes de Jacob, y cabezas de la casa de Israel: ¿No pertenecía á vosotros saber el derecho? ^2^ Que aborrecen lo bueno y aman lo malo, que les quitan su piel y su carne de sobre los huesos; ^3^ Que comen asimismo la carne de mi pueblo, y les desuellan su piel de sobre ellos, y les quebrantan sus huesos y los rompen, como para el caldero, y como carnes en olla. ^4^ Entonces clamarán á Jehová y no les responderá; antes esconderá de ellos su rostro en aquel tiempo, por cuanto hicieron malvadas obras. 
-
 
 
 ## Amenaza para los profetas de la luna de miel en contraste con Micha, el profeta lleno del espíritu de Dios
@@ -51,12 +47,10 @@
 ## La exaltada Sion y la futura gloria de la paz general entre las naciones
 ^1^ Y acontecerá en los postreros tiempos, que el monte de la casa de Jehová será constituído por cabecera de montes, y más alto que los collados, y correrán á él pueblos. ^^ ^2^ Y vendrán muchas gentes, y dirán: Venid, y subamos al monte de Jehová, y á la casa del Dios de Jacob; y enseñarános en sus caminos, y andaremos por sus veredas: porque de Sión saldrá la ley, y de Jerusalem la palabra de Jehová. ^^ ^3^ Y juzgará entre muchos pueblos, y corregirá fuertes gentes hasta muy lejos: y martillarán sus espadas para azadones, y sus lanzas para hoces: no alzará espada gente contra gente, ni más se ensayarán para la guerra. ^4^ Y cada uno se sentará debajo de su vid y debajo de su higuera, y no habrá quien amedrente: porque la boca de Jehová de los ejércitos lo ha hablado. ^^ ^5^ Bien que todos los pueblos anduvieren cada uno en el nombre de sus dioses, nosotros con todo andaremos en el nombre de Jehová nuestro Dios para siempre y eternalmente. 
 
-
 ^[**4:1** Is 2,2-4] ^[**4:2** Luc 24,47] ^[**4:4** 1Re 5,5; Zac 3,10]
 
 ## Reunir a los dispersos y curar a los enfermos bajo el gobierno de Dios
 ^6^ En aquel día, dice Jehová, juntaré la coja, y recogeré la amontada, y á la que afligí; ^7^ Y pondré á la coja para sucesión, y á la descarriada para nación robusta: y Jehová reinará sobre ellos en el monte de Sión desde ahora para siempre. 
-
 
 
 ## La ciudad real de Jerusalén, ahora necesitada pero destinada a la gloria
@@ -97,12 +91,10 @@
 ## La disputa de Dios con su pueblo ingrato
 ^1^ Oid ahora lo que dice Jehová: Levántate, pleitea con los montes, y oigan los collados tu voz. ^2^ Oid, montes, y fuertes fundamentos de la tierra, el pleito de Jehová: porque tiene Jehová pleito con su pueblo, y altercará con Israel. ^3^ Pueblo mío, ¿qué te he hecho, ó en qué te he molestado? Responde contra mí. ^^ ^4^ Porque yo te hice subir de la tierra de Egipto, y de la casa de siervos te redimí; y envié delante de ti á Moisés, y á Aarón, y á María. ^5^ Pueblo mío, acuérdate ahora qué aconsejó Balac rey de Moab, y qué le respondió Balaam, hijo de Beor, desde Sittim hasta Gilgal, para que conozcas las justicias de Jehová. 
 
-
 ^[**6:3** Jer 2,5]
 
 ## La confesión de penitencia del pueblo
 ^6^ ¿Con qué prevendré á Jehová, y adoraré al alto Dios? ¿vendré ante él con holocaustos, con becerros de un año? ^^ ^7^ ¿Agradaráse Jehová de millares de carneros, ó de diez mil arroyos de aceite? ¿daré mi primogénito por mi rebelión, el fruto de mi vientre por el pecado de mi alma? ^8^ Oh hombre, él te ha declarado qué sea lo bueno, y qué pida de ti Jehová: solamente hacer juicio, y amar misericordia, y humillarte para andar con tu Dios. 
-
 
 ^[**6:6** Is 1,11; Am 5,21; Am 1,5-22]
 
@@ -114,12 +106,10 @@
 ## Amargas quejas sobre la depravación general
 ^1^ ¡Ay de mí! que he venido á ser como cuando han cogido los frutos del verano, como cuando han rebuscado después de la vendimia, que no queda racimo para comer; mi alma deseó primeros frutos. ^2^ Faltó el misericordioso de la tierra, y ninguno hay recto entre los hombres: todos acechan á la sangre; cada cual arma red á su hermano. ^3^ Para completar la maldad con sus manos, el príncipe demanda, y el juez juzga por recompensa; y el grande habla el antojo de su alma, y lo confirman. ^4^ El mejor de ellos es como el cambrón; el más recto, como zarzal: el día de tus atalayas, tu visitación, viene; ahora será su confusión. ^5^ No creáis en amigo, ni confiéis en príncipe: de la que duerme á tu lado, guarda, no abras tu boca. ^6^ Porque el hijo deshonra al padre, la hija se levanta contra la madre, la nuera contra su suegra: y los enemigos del hombre son los de su casa. ^^ ^7^ Yo empero á Jehová esperaré, esperaré al Dios de mi salud: el Dios mío me oirá. 
 
-
 ^[**7:6** Jer 9,3-4; Mat 10,35-36]
 
 ## Oración de penitencia y esperanza de la iglesia y promesa consoladora de Dios
 ^8^ Tú, enemiga mía, no te huelgues de mí: porque aunque caí, he de levantarme; aunque more en tinieblas, Jehová será mi luz. ^9^ La ira de Jehová soportaré, porque pequé contra él, hasta que juzgue mi causa y haga mi juicio; él me sacará á luz; veré su justicia. ^^ ^10^ Y mi enemiga verá, y la cubrirá vergüenza: la que me decía: ¿Dónde está Jehová tu Dios? Mis ojos la verán; ahora será hollada como lodo de las calles. ^^ ^11^ El día en que se edificarán tus muros, aquel día será alejado el mandamiento. ^12^ En ese día vendrán hasta ti desde Asiria y las ciudades fuertes, y desde las ciudades fuertes hasta el Río, y de mar á mar, y de monte á monte. ^13^ Y la tierra con sus moradores será asolada por el fruto de sus obras. 
-
 
 ^[**7:9** Jer 14,7] ^[**7:10** Sal 79,10]
 

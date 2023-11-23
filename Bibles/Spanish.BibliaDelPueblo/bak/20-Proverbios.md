@@ -8,10 +8,8 @@
 ^7^ El principio de la sabiduría es el temor de Jehová: los insensatos desprecian la sabiduría y la enseñanza. 
 
 
-
 ## Invitación a la obediencia voluntaria; Advertencia contra la seducción, especialmente antes de participar en actos de violencia
 ^8^ Oye, hijo mío, la doctrina de tu padre, y no desprecies la dirección de tu madre: ^^ ^9^ Porque adorno de gracia serán á tu cabeza, y collares á tu cuello. ^^ ^10^ Hijo mío, si los pecadores te quisieren engañar, no consientas. ^11^ Si dijeren: Ven con nosotros, pongamos asechanzas á la sangre, acechemos sin motivo al inocente; ^12^ Los tragaremos vivos como el sepulcro, y enteros, como los que caen en sima; ^13^ Hallaremos riquezas de todas suertes, henchiremos nuestras casas de despojos; ^14^ Echa tu suerte entre nosotros; tengamos todos una bolsa: ^15^ Hijo mío, no andes en camino con ellos; aparta tu pie de sus veredas: ^16^ Porque sus pies correrán al mal, é irán presurosos á derramar sangre. ^17^ Porque en vano se tenderá la red ante los ojos de toda ave; ^18^ Mas ellos á su propia sangre ponen asechanzas, y á sus almas tienden lazo. ^19^ Tales son las sendas de todo el que es dado á la codicia, la cual prenderá el alma de sus poseedores. 
-
 
 ^[**1:8** Prov 6,20] ^[**1:9** Prov 4,9]
 
@@ -63,9 +61,7 @@
 ## Advertencia contra el coito con adúlteras; Alabanza de la vida conyugal
 ^1^ Hijo mío, está atento á mi sabiduría, y á mi inteligencia inclina tu oído; ^2^ Para que guardes consejo, y tus labios conserven la ciencia. ^3^ Porque los labios de la extraña destilan miel, y su paladar es más blando que el aceite: ^4^ Mas su fin es amargo como el ajenjo, agudo como cuchillo de dos filos. ^5^ Sus pies descienden á la muerte; sus pasos sustentan el sepulcro: ^6^ Sus caminos son instables; no los conocerás, si no considerares el camino de vida. 
 
-
 ^7^ Ahora pues, hijos, oidme, y no os apartéis de las razones de mi boca. ^8^ Aleja de ella tu camino, y no te acerques á la puerta de su casa; ^9^ Porque no des á los extraños tu honor, y tus años á cruel; ^10^ Porque no se harten los extraños de tu fuerza, y tus trabajos estén en casa del extraño; ^11^ Y gimas en tus postrimerías, cuando se consumiere tu carne y tu cuerpo, ^12^ Y digas: ¡Cómo aborrecí el consejo, y mi corazón menospreció la reprensión; ^13^ Y no oí la voz de los que me adoctrinaban, y á los que me enseñaban no incliné mi oído! ^14^ Casi en todo mal he estado, en medio de la sociedad y de la congregación. 
-
 
 ^15^ Bebe el agua de tu cisterna, y los raudales de tu pozo. ^16^ Derrámense por de fuera tus fuentes, en las plazas los ríos de aguas. ^17^ Sean para ti solo, y no para los extraños contigo. ^18^ Sea bendito tu manantial; y alégrate con la mujer de tu mocedad. ^19^ Como cierva amada y graciosa corza, sus pechos te satisfagan en todo tiempo; y en su amor recréate siempre. ^20^ ¿Y por qué, hijo mío, andarás ciego con la ajena, y abrazarás el seno de la extraña? ^21^ Pues que los caminos del hombre están ante los ojos de Jehová, y él considera todas sus veredas. ^22^ Prenderán al impío sus propias iniquidades, y detenido será con las cuerdas de su pecado. ^23^ El morirá por falta de corrección; y errará por la grandeza de su locura. 
 
@@ -86,7 +82,6 @@
 ^16^ Seis cosas aborrece Jehová, y aun siete abomina su alma: ^17^ Los ojos altivos, la lengua mentirosa, las manos derramadoras de sangre inocente, ^18^ El corazón que maquina pensamientos inicuos, los pies presurosos para correr al mal, ^19^ El testigo falso que habla mentiras, y el que enciende rencillas entre los hermanos. 
 
 
-
 ## Otra advertencia contra el coito con adúlteras
 ^20^ Guarda, hijo mío, el mandamiento de tu padre, y no dejes la enseñanza de tu madre: ^21^ Atalos siempre en tu corazón, enlázalos á tu cuello. ^^ ^22^ Te guiarán cuando anduvieres; cuando durmieres te guardarán; hablarán contigo cuando despertares. ^^ ^23^ Porque el mandamiento es antorcha, y la enseñanza luz; y camino de vida las reprensiones de la enseñanza: ^24^ Para que te guarden de la mala mujer, de la blandura de la lengua de la extraña. ^^ ^25^ No codicies su hermosura en tu corazón, ni ella te prenda con sus ojos: ^26^ Porque á causa de la mujer ramera es reducido el hombre á un bocado de pan; y la mujer caza la preciosa alma del varón. ^27^ ¿Tomará el hombre fuego en su seno, sin que sus vestidos se quemen? ^28^ ¿Andará el hombre sobre las brasas, sin que sus pies se abrasen? ^29^ Así el que entrare á la mujer de su prójimo; no será sin culpa cualquiera que la tocare. ^30^ No tienen en poco al ladrón, cuando hurtare para saciar su alma teniendo hambre: ^31^ Empero tomado, paga las setenas, da toda la sustancia de su casa. ^32^ Mas el que comete adulterio con la mujer, es falto de entendimiento: corrompe su alma el que tal hace. 
 ^^ 
@@ -100,7 +95,6 @@
 
 ^6^ Porque mirando yo por la ventana de mi casa, por mi celosía, ^7^ Vi entre los simples, consideré entre los jóvenes, un mancebo falto de entendimiento, ^8^ El cual pasaba por la calle, junto á la esquina de aquella, é iba camino de su casa, ^9^ A la tarde del día, ya que oscurecía, en la oscuridad y tiniebla de la noche. ^10^ Y he aquí, una mujer que le sale al encuentro con atavío de ramera, astuta de corazón, ^11^ Alborotadora y rencillosa, sus pies no pueden estar en casa; ^12^ Unas veces de fuera, ó bien por las plazas, acechando por todas las esquinas. ^13^ Y traba de él, y bésalo; desvergonzó su rostro, y díjole: ^14^ Sacrificios de paz había prometido, hoy he pagado mis votos; ^15^ Por tanto he salido á encontrarte, buscando diligentemente tu rostro, y te he hallado. ^16^ Con paramentos he ataviado mi cama, recamados con cordoncillo de Egipto. ^17^ He sahumado mi cámara con mirra, áloes, y cinamomo. ^18^ Ven, embriaguémonos de amores hasta la mañana; alegrémonos en amores. ^19^ Porque el marido no está en casa, hase ido á un largo viaje: ^20^ El saco de dinero llevó en su mano; el día señalado volverá á su casa. ^21^ Rindiólo con la mucha suavidad de sus palabras, obligóle con la blandura de sus labios. ^22^ Vase en pos de ella luego, como va el buey al degolladero, y como el loco á las prisiones para ser castigado; ^23^ Como el ave que se apresura al lazo, y no sabe que es contra su vida, hasta que la saeta traspasó su hígado. 
 
-
 ^24^ Ahora pues, hijos, oidme, y estad atentos á las razones de mi boca. ^25^ No se aparte á sus caminos tu corazón; no yerres en sus veredas. ^26^ Porque á muchos ha hecho caer heridos; y aun los más fuertes han sido muertos por ella. ^27^ Caminos del sepulcro son su casa, que descienden á las cámaras de la muerte. ^^ 
 ^[**7:27** Prov 2,18-19] 
 
@@ -111,7 +105,6 @@
 ^[**8:1** Prov 1,20-33] ^[**8:10** Prov 3,14]
 
 ^12^ Yo, la sabiduría, habito con la discreción, y hallo la ciencia de los consejos. ^13^ El temor de Jehová es aborrecer el mal; la soberbia y la arrogancia, y el mal camino y la boca perversa, aborrezco. ^14^ Conmigo está el consejo y el ser; yo soy la inteligencia; mía es la fortaleza. ^15^ Por mí reinan los reyes, y los príncipes determinan justicia. ^^ ^16^ Por mí dominan los príncipes, y todos los gobernadores juzgan la tierra. ^17^ Yo amo á los que me aman; y me hallan los que madrugando me buscan. ^18^ Las riquezas y la honra están conmigo; sólidas riquezas, y justicia. ^19^ Mejor es mi fruto que el oro, y que el oro refinado; y mi rédito mejor que la plata escogida. ^20^ Por vereda de justicia guiaré, por en medio de sendas de juicio; ^21^ Para hacer heredar á mis amigos el ser, y que yo hincha sus tesoros. 
-
 
 ^[**8:15** Prov 16,12; Ecl 10,16]
 
@@ -127,7 +120,6 @@
 # 9 
 ## La Sra. Sabiduria y la Sra. Locura invitan a los invitados
 ^1^ La sabiduría edificó su casa, labró sus siete columnas; ^2^ Mató sus víctimas, templó su vino, y puso su mesa. ^^ ^3^ Envió sus criadas; sobre lo más alto de la ciudad clamó: ^4^ Cualquiera simple, venga acá. A los faltos de cordura dijo: ^5^ Venid, comed mi pan, y bebed del vino que yo he templado. ^6^ Dejad las simplezas, y vivid; y andad por el camino de la inteligencia. ^7^ El que corrige al escarnecedor, afrenta se acarrea: el que reprende al impío, se atrae mancha. ^8^ No reprendas al escarnecedor, porque no te aborrezca; corrige al sabio, y te amará. ^^ ^9^ Da al sabio, y será más sabio: enseña al justo, y acrecerá su saber. ^10^ El temor de Jehová es el principio de la sabiduría; y la ciencia de los santos es inteligencia. ^11^ Porque por mí se aumentarán tus días, y años de vida se te añadirán. ^^ ^12^ Si fueres sabio, para ti lo serás: mas si fueres escarnecedor, pagarás tú solo. 
-
 
 ^[**9:2** Mat 22,4] ^[**9:8** Prov 23,9] ^[**9:11** Prov 3,2; Prov 3,16]
 
@@ -191,12 +183,10 @@
 # 22 
 ^1^ De más estima es la buena fama que las muchas riquezas; y la buena gracia más que la plata y el oro. ^^ ^2^ El rico y el pobre se encontraron: á todos ellos hizo Jehová. ^3^ El avisado ve el mal, y escóndese: mas los simples pasan, y reciben el daño. ^4^ Riquezas, y honra, y vida, son la remuneración de la humildad y del temor de Jehová. ^5^ Espinas y lazos hay en el camino del perverso: el que guarda su alma se alejará de ellos. ^6^ Instruye al niño en su carrera: aun cuando fuere viejo no se apartará de ella. ^^ ^7^ El rico se enseñoreará de los pobres; y el que toma prestado, siervo es del que empresta. ^8^ El que sembrare iniquidad, iniquidad segará: y consumiráse la vara de su ira. ^9^ El ojo misericordioso será bendito, porque dió de su pan al indigente. ^^ ^10^ Echa fuera al escarnecedor, y saldrá la contienda, y cesará el pleito y la afrenta. ^^ ^11^ El que ama la limpieza de corazón, por la gracia de sus labios su amigo será el rey. ^^ ^12^ Los ojos de Jehová miran por la ciencia; mas él trastorna las cosas de los prevaricadores. ^13^ Dice el perezoso: El león está fuera; en mitad de las calles seré muerto. ^14^ Sima profunda es la boca de las extrañas: aquel contra el cual estuviere Jehová airado, caerá en ella. ^^ ^15^ La necedad está ligada en el corazón del muchacho; mas la vara de la corrección la hará alejar de él. ^^ ^16^ El que oprime al pobre para aumentarse él, y que da al rico, ciertamente será pobre. 
 
-
 ^[**22:1** Ecl 7,1] ^[**22:6** Prov 20,11] ^[**22:9** Prov 19,17] ^[**22:10** Prov 26,20; Gén 21,9-10] ^[**22:11** Sal 101,6] ^[**22:14** Prov 5,3-4; Prov 23,27] ^[**22:15** Prov 23,14; Prov 29,17]
 
 ## Primera colección de dichos de los sabios; Introducción
 ^17^ Inclina tu oído, y oye las palabras de los sabios, y pon tu corazón á mi sabiduría: ^18^ Porque es cosa deleitable, si las guardares en tus entrañas; y que juntamente sean ordenadas en tus labios. ^19^ Para que tu confianza sea en Jehová, te las he hecho saber hoy á ti también. ^20^ ¿No te he escrito tres veces en consejos y ciencia, ^21^ Para hacerte saber la certidumbre de las razones verdaderas, para que puedas responder razones de verdad á los que á ti enviaren? 
-
 
 
 ## Recordatorios individuales
@@ -218,12 +208,9 @@
 # 23 
 ^1^ Cuando te sentares á comer con algún señor, considera bien lo que estuviere delante de ti; ^2^ Y pon cuchillo á tu garganta, si tienes gran apetito. ^3^ No codicies sus manjares delicados, porque es pan engañoso. 
 
-
 ^4^ No trabajes por ser rico; pon coto á tu prudencia. ^5^ ¿Has de poner tus ojos en las riquezas, siendo ningunas? porque hacerse han alas, como alas de águila, y volarán al cielo. 
 
-
 ^6^ No comas pan de hombre de mal ojo, ni codicies sus manjares: ^7^ Porque cual es su pensamiento en su alma, tal es él. Come y bebe, te dirá; mas su corazón no está contigo. ^8^ Vomitarás la parte que tú comiste, y perderás tus suaves palabras. 
-
 
 ^9^ No hables á oídos del necio; porque menospreciará la prudencia de tus razones. ^^ ^10^ No traspases el término antiguo, ni entres en la heredad de los huérfanos: ^^ ^11^ Porque el defensor de ellos es el Fuerte, el cual juzgará la causa de ellos contra ti. 
 
@@ -231,19 +218,15 @@
 
 ^12^ Aplica tu corazón á la enseñanza, y tus oídos á las palabras de sabiduría. 
 
-
 ^13^ No rehuses la corrección del muchacho: porque si lo hirieres con vara, no morirá. ^14^ Tú lo herirás con vara, y librarás su alma del infierno. 
 ^^ 
 ^[**23:14** Prov 13,24; Prov 22,15]
 
 ^15^ Hijo mío, si tu corazón fuere sabio, también á mí se me alegrará el corazón; ^16^ Mis entrañas también se alegrarán, cuando tus labios hablaren cosas rectas. 
 
-
 ^17^ No tenga tu corazón envidia de los pecadores, antes persevera en el temor de Jehová todo tiempo: ^18^ Porque ciertamente hay fin, y tu esperanza no será cortada. 
 
-
 ^19^ Oye tú, hijo mío, y sé sabio, y endereza tu corazón al camino. ^20^ No estés con los bebedores de vino, ni con los comedores de carne: ^21^ Porque el bebedor y el comilón empobrecerán: y el sueño hará vestir vestidos rotos. 
-
 
 ^22^ Oye á tu padre, á aquel que te engendró; y cuando tu madre envejeciere, no la menosprecies. ^^ ^23^ Compra la verdad, y no la vendas; la sabiduría, la enseñanza, y la inteligencia. ^24^ Mucho se alegrará el padre del justo: y el que engendró sabio se gozará con él. ^25^ Alégrense tu padre y tu madre, y gócese la que te engendró. 
 
@@ -260,25 +243,19 @@
 # 24 
 ^1^ No tengas envidia de los hombres malos, ni desees estar con ellos: ^2^ Porque su corazón piensa en robar, é iniquidad hablan sus labios. 
 
-
 ^3^ Con sabiduría se edificará la casa, y con prudencia se afirmará: ^4^ Y con ciencia se henchirán las cámaras de todo bien preciado y agradable. 
 ^^ 
 ^[**24:4** Prov 31,10-31]
 
 ^5^ El hombre sabio es fuerte; y de pujante vigor el hombre docto. ^6^ Porque con ingenio harás la guerra: y la salud está en la multitud de consejeros. 
 
-
 ^7^ Alta está para el insensato la sabiduría: en la puerta no abrirá él su boca. 
-
 
 ^8^ Al que piensa mal hacer le llamarán hombre de malos pensamientos. 
 
-
 ^9^ El pensamiento del necio es pecado: y abominación á los hombres el escarnecedor. 
 
-
 ^10^ Si fueres flojo en el día de trabajo, tu fuerza será reducida. 
-
 
 ^11^ Si dejares de librar los que son tomados para la muerte, y los que son llevados al degolladero; ^^ ^12^ Si dijeres: Ciertamente no lo supimos; ¿no lo entenderá el que pesa los corazones? El que mira por tu alma, él lo conocerá, y dará al hombre según sus obras. 
 ^^ 
@@ -289,7 +266,6 @@
 ^[**24:14** Prov 23,18]
 
 ^15^ Oh impío, no aceches la tienda del justo, no saquees su cámara; ^16^ Porque siete veces cae el justo, y se torna á levantar; mas los impíos caerán en el mal. 
-
 
 ^17^ Cuando cayere tu enemigo, no te huelgues; y cuando tropezare, no se alegre tu corazón: ^^ ^18^ Porque Jehová no lo mire, y le desagrade, y aparte de sobre él su enojo. 
 
@@ -315,7 +291,6 @@
 
 ^27^ Apresta tu obra de afuera, y disponla en tu heredad; y después edificarás tu casa. 
 
-
 ^28^ No seas sin causa testigo contra tu prójimo; y no lisonjees con tus labios. ^29^ No digas: Como me hizo, así le haré; daré el pago al hombre según su obra. 
 ^^ 
 ^[**24:29** Prov 20,22]
@@ -326,7 +301,6 @@
 # 25 
 ## Tercera colección de Proverbios de Salomón
 ^1^ También estos son proverbios de Salomón, los cuales copiaron los varones de Ezechîas, rey de Judá. 
-
 
 ^2^ Gloria de Dios es encubrir la palabra; mas honra del rey es escudriñar la palabra. ^3^ Para la altura de los cielos, y para la profundidad de la tierra, y para el corazón de los reyes, no hay investigación. ^4^ Quita las escorias de la plata, y saldrá vaso al fundidor. ^5^ Aparta al impío de la presencia del rey, y su trono se afirmará en justicia. ^6^ No te alabes delante del rey, ni estés en el lugar de los grandes: ^7^ Porque mejor es que se te diga, Sube acá, que no que seas humillado delante del príncipe que miraron tus ojos. ^^ ^8^ No salgas á pleito presto, no sea que no sepas qué hacer al fin, después que tu prójimo te haya dejado confuso. ^9^ Trata tu causa con tu compañero y no descubras el secreto á otro. ^10^ No sea que te deshonre el que lo oyere, y tu infamia no pueda repararse. ^11^ Manzana de oro con figuras de plata es la palabra dicha como conviene. ^^ ^12^ Como zarcillo de oro y joyel de oro fino, es el que reprende al sabio que tiene oído dócil. ^13^ Como frío de nieve en tiempo de la siega, así es el mensajero fiel á los que lo envían: pues al alma de su señor da refrigerio. ^14^ Como nubes y vientos sin lluvia, así es el hombre que se jacta de vana liberalidad. ^15^ Con larga paciencia se aplaca el príncipe; y la lengua blanda quebranta los huesos. ^^ ^16^ ¿Hallaste la miel? come lo que te basta; no sea que te hartes de ella, y la vomites. ^17^ Detén tu pie de la casa de tu vecino, porque harto de ti no te aborrezca. ^18^ Martillo y cuchillo y saeta aguda, es el hombre que habla contra su prójimo falso testimonio. ^19^ Diente quebrado y pie resbalador, es la confianza en el prevaricador en tiempo de angustia. ^20^ El que canta canciones al corazón afligido, es como el que quita la ropa en tiempo de frío, ó el que sobre el jabón echa vinagre. ^21^ Si el que te aborrece tuviere hambre, dale de comer pan; y si tuviere sed, dale de beber agua: ^^ ^22^ Porque ascuas allegas sobre su cabeza, y Jehová te lo pagará. ^23^ El viento del norte ahuyenta la lluvia, y el rostro airado la lengua detractora. ^24^ Mejor es estar en un rincón de casa, que con la mujer rencillosa en espaciosa casa. ^25^ Como el agua fría al alma sedienta, así son las buenas nuevas de lejanas tierras. ^26^ Como fuente turbia y manantial corrompido, es el justo que cae delante del impío. ^27^ Comer mucha miel no es bueno: ni el buscar la propia gloria es gloria. ^28^ Como ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda. ^^ 
 ^[**25:7** Luc 14,7-11] ^[**25:11** Prov 15,23] ^[**25:15** Prov 15,1] ^[**25:21** Rom 12,20; Mat 5,44] ^[**25:28** Prov 29,11] 
@@ -364,16 +338,13 @@
 
 ^7^ Dos cosas te he demandado; no me las niegues antes que muera. ^8^ Vanidad y palabra mentirosa aparta de mí. No me des pobreza ni riquezas; manténme del pan que he menester; ^9^ No sea que me harte, y te niegue, y diga, ¿Quién es Jehová? ó no sea que siendo pobre, hurte, y blasfeme el nombre de mi Dios. 
 
-
 ^10^ No acuses al siervo ante su señor, porque no te maldiga, y peques. 
-
 
 ^11^ Hay generación que maldice á su padre, y á su madre no bendice. ^12^ Hay generación limpia en su opinión, si bien no se ha limpiado su inmundicia. ^^ ^13^ Hay generación cuyos ojos son altivos, y cuyos párpados son alzados. ^^ ^14^ Hay generación cuyos dientes son espadas, y sus muelas cuchillos, para devorar á los pobres de la tierra, y de entre los hombres á los menesterosos. 
 
 ^[**30:12** Prov 20,9] ^[**30:13** Prov 21,4]
 
 ^15^ La sanguijuela tiene dos hijas que se llaman, Trae, trae. Tres cosas hay que nunca se hartan; aun la cuarta nunca dice, Basta: ^16^ El sepulcro, y la matriz estéril, la tierra no harta de aguas, y el fuego que jamás dice, Basta. 
-
 
 ^17^ El ojo que escarnece á su padre, y menosprecia la enseñanza de la madre, los cuervos lo saquen de la arroyada, y tráguenlo los hijos del águila. 
 ^^ 
@@ -389,16 +360,13 @@
 
 ^24^ Cuatro cosas son de las más pequeñas de la tierra, y las mismas son más sabias que los sabios: ^25^ Las hormigas, pueblo no fuerte, y en el verano preparan su comida; ^26^ Los conejos, pueblo nada esforzado, y ponen su casa en la piedra; ^27^ Las langostas, no tienen rey, y salen todas acuadrilladas; ^28^ La araña, ase con las manos, y está en palacios de rey. 
 
-
 ^29^ Tres cosas hay de hermoso andar, y la cuarta pasea muy bien: ^30^ El león, fuerte entre todos los animales, que no torna atrás por nadie; ^31^ El lebrel ceñido de lomos; asimismo el macho cabrío; y un rey contra el cual ninguno se levanta. ^32^ Si caiste, fué porque te enalteciste; y si mal pensaste, pon el dedo sobre la boca. ^33^ Ciertamente el que exprime la leche, sacará manteca; y el que recio se suena las narices, sacará sangre: y el que provoca la ira, causará contienda. 
 
 # 31 
 ## Dichos para Lemuel
 ^1^ Palabras del rey Lemuel; la profecía con que le enseñó su madre. 
 
-
 ^2^ ¿Qué, hijo mío? ¿y qué, hijo de mi vientre? ¿y qué, hijo de mis deseos? ^3^ No des á las mujeres tu fuerza, ni tus caminos á lo que es para destruir los reyes. ^^ ^4^ No es de los reyes, oh Lemuel, no es de los reyes beber vino, ni de los príncipes la cerveza. ^^ ^5^ No sea que bebiendo olviden la ley, y perviertan el derecho de todos los hijos afligidos. ^6^ Dad la cerveza al desfallecido, y el vino á los de amargo ánimo: ^7^ Beban, y olvídense de su necesidad, y de su miseria no más se acuerden. ^8^ Abre tu boca por el mudo, en el juicio de todos los hijos de muerte. ^^ ^9^ Abre tu boca, juzga justicia, y el derecho del pobre y del menesteroso. 
-
 
 ^[**31:3** Deut 17,17; 1Re 11,1] ^[**31:4** Prov 20,1] ^[**31:8** Job 29,12; Job 29,15]
 

@@ -2,12 +2,10 @@
 ## Carta y bendición; Objeto y motivo de la redacción
 ^1^ Judas, siervo de Jesucristo, y hermano de Jacobo, á los llamados, santificados en Dios Padre, y conservados en Jesucristo: ^^ ^2^ Misericordia, y paz, y amor os sean multiplicados. 
 
-
 ^[**1:1** Mat 13,55]
 
 ## La necesidad de luchar contra los falsos maestros viciosos
 ^3^ Amados, por la gran solicitud que tenía de escribiros de la común salud, me ha sido necesario escribiros amonestándoos que contendáis eficazmente por la fe que ha sido una vez dada á los santos. ^4^ Porque algunos hombres han entrado encubiertamente, los cuales desde antes habían estado ordenados para esta condenación, hombres impíos, convirtiendo la gracia de nuestro Dios en disolución, y negando á Dios que solo es el que tiene dominio, y á nuestro Señor Jesucristo. 
-
 
 
 ## Descripción de los seductores viciosos y el tribunal penal amenazante
@@ -18,7 +16,6 @@
 
 ## Descripción de la arrogancia y depravación de estos malhechores
 ^8^ De la misma manera también estos soñadores amancillan la carne, y menosprecian la potestad, y vituperan las potestades superiores. ^9^ Pero cuando el arcángel Miguel contendía con el diablo, disputando sobre el cuerpo de Moisés, no se atrevió á usar de juicio de maldición contra él, sino que dijo: El Señor te reprenda. ^10^ Pero éstos maldicen las cosas que no conocen; y las cosas que naturalmente conocen, se corrompen en ellas, como bestias brutas. ^11^ ¡Ay de ellos! porque han seguido el camino de Caín, y se lanzaron en el error de Balaam por recompensa, y perecieron en la contradicción de Coré. ^^ ^12^ Estos son manchas en vuestros convites, que banquetean juntamente, apacentándose á sí mismos sin temor alguno: nubes sin agua, las cuales son llevadas de acá para allá de los vientos: árboles marchitos como en otoño, sin fruto, dos veces muertos y desarraigados; ^^ ^13^ Fieras ondas de la mar, que espuman sus mismas abominaciones; estrellas erráticas, á las cuales es reservada eternalmente la oscuridad de las tinieblas. ^^ ^14^ De los cuales también profetizó Enoc, séptimo desde Adam, diciendo: He aquí, el Señor es venido con sus santos millares, ^^ ^15^ A hacer juicio contra todos, y á convencer á todos los impíos de entre ellos tocante á todas sus obras de impiedad que han hecho impíamente, y á todas las cosas duras que los pecadores impíos han hablado contra él. ^16^ Estos son murmuradores, querellosos, andando según sus deseos; y su boca habla cosas soberbias, teniendo en admiración las personas por causa del provecho. 
-
 
 ^[**1:11** Gén 4,-1; Núm 16,-1; Núm 31,16] ^[**1:12** 1Cor 11,21] ^[**1:13** Is 57,20] ^[**1:14** Gén 5,21]
 

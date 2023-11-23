@@ -2,7 +2,6 @@
 ## Bendiciones
 ^1^ Pablo y Timoteo, siervos de Jesucristo, á todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos: ^^ ^2^ Gracia sea á vosotros, y paz de Dios nuestro Padre y del Señor Jesucristo. 
 
-
 ^[**1:1** Hech 16,1; Hech 20,28; 1Tim 3,1; 1Tim 3,8]
 
 ## La acción de gracias, la confianza y la intercesión del apóstol por la iglesia
@@ -18,12 +17,10 @@
 ## Los dolores del apóstol y las alegrías abrumadoras en Roma
 ^12^ Y quiero, hermanos, que sepáis que las cosas que me han sucedido, han redundado más en provecho del evangelio; ^^ ^13^ De manera que mis prisiones han sido célebres en Cristo en todo el pretorio, y á todos los demás; ^^ ^14^ Y muchos de los hermanos en el Señor, tomando ánimo con mis prisiones, se atreven mucho más á hablar la palabra sin temor. ^15^ Y algunos, á la verdad, predican á Cristo por envidia y porfía; mas algunos también por buena voluntad. ^16^ Los unos anuncian á Cristo por contención, no sinceramente, pensando añadir aflicción á mis prisiones; ^17^ Pero los otros por amor, sabiendo que soy puesto por la defensa del evangelio. 
 
-
 ^[**1:12** 2Tim 2,9] ^[**1:13** Fil 4,22]
 
 ## Tanto el testimonio de la muerte de Pablo como su vida continua servirán para glorificar a Cristo
 ^18^ ¿Qué pues? Que no obstante, en todas maneras, ó por pretexto ó por verdad, es anunciado Cristo; y en esto me huelgo, y aun me holgaré. ^^ ^19^ Porque sé que esto se me tornará á salud, por vuestra oración, y por la suministración del Espíritu de Jesucristo; ^^ ^20^ Conforme á mi mira y esperanza, que en nada seré confundido; antes bien con toda confianza, como siempre, ahora también será engrandecido Cristo en mi cuerpo, ó por vida, ó por muerte. ^^ ^21^ Porque para mí el vivir es Cristo, y el morir es ganancia. ^^ ^22^ Mas si el vivir en la carne, esto me será para fruto de la obra, no sé entonces qué escoger; ^23^ Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de ser desatado, y estar con Cristo, lo cual es mucho mejor: ^^ ^24^ Empero quedar en la carne es más necesario por causa de vosotros. ^25^ Y confiado en esto, sé que quedaré, que aun permaneceré con todos vosotros, para provecho vuestro y gozo de la fe; ^26^ Para que crezca vuestra gloria de mí en Cristo Jesús por mi venida otra vez á vosotros. 
-
 
 ^[**1:18** Fil 2,17-18] ^[**1:19** 2Cor 1,11] ^[**1:20** 1Pe 4,16] ^[**1:21** Gal 2,20] ^[**1:23** 2Cor 5,8]
 
@@ -66,13 +63,11 @@
 ## Clama al gozo en el Señor; Invalidez de las virtudes externas y justicia de la ley en comparación con el conocimiento de la salvación en Cristo; Advertencia contra los falsos maestros judaístas
 ^1^ Resta, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vosotros es seguro. 
 
-
 ^2^ Guardaos de los perros, guardaos de los malos obreros, guardaos del cortamiento. ^^ ^3^ Porque nosotros somos la circuncisión, los que servimos en espíritu á Dios, y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. ^^ ^4^ Aunque yo tengo también de qué confiar en la carne. Si alguno parece que tiene de qué confiar en la carne, yo más: ^^ ^5^ Circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, Hebreo de Hebreos; cuanto á la ley, Fariseo; ^^ ^6^ Cuanto al celo, perseguidor de la iglesia; cuanto á la justicia que es en la ley, irreprensible. 
 ^^ 
 ^[**3:2** Gal 5,12; Apoc 22,15] ^[**3:3** Rom 2,29] ^[**3:4** 2Cor 11,18; 2Cor 11,22] ^[**3:5** Hech 26,5; 2Tim 1,3] ^[**3:6** Hech 8,3]
 
 ^7^ Pero las cosas que para mí eran ganancias, helas reputado pérdidas por amor de Cristo. ^^ ^8^ Y ciertamente, aun reputo todas las cosas pérdida por el eminente conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y téngolo por estiércol, para ganar á Cristo, ^9^ Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe; ^^ ^10^ A fin de conocerle, y la virtud de su resurrección, y la participación de sus padecimientos, en conformidad á su muerte, ^^ ^11^ Si en alguna manera llegase á la resurrección de los muertos. 
-
 
 ^[**3:7** Mat 13,44-46] ^[**3:9** Rom 3,22] ^[**3:10** Rom 6,3-5; Rom 8,17; Gal 6,17]
 
@@ -82,7 +77,6 @@
 ^[**3:12** Col 1,29; Hech 9,3-6; 1Tim 6,12]
 
 ^13^ Hermanos, yo mismo no hago cuenta de haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome á lo que está delante, ^^ ^14^ Prosigo al blanco, al premio de la soberana vocación de Dios en Cristo Jesús. ^^ ^15^ Así que, todos los que somos perfectos, esto mismo sintamos: y si otra cosa sentís, esto también os revelará Dios. ^16^ Empero en aquello á que hemos llegado, vamos por la misma regla, sintamos una misma cosa. 
-
 
 ^[**3:13** Luc 9,62] ^[**3:14** 1Cor 9,24]
 
@@ -108,10 +102,8 @@
 ^8^ Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si alguna alabanza, en esto pensad. ^9^ Lo que aprendisteis y recibisteis y oísteis y visteis en mí, esto haced; y el Dios de paz será con vosotros. 
 
 
-
 ## Expresión de alegría y agradecimiento por el regalo de amor enviado por la congregación
 ^10^ Mas en gran manera me gocé en el Señor de que ya al fin ha reflorecido vuestro cuidado de mí; de lo cual aun estabais solícitos, pero os faltaba la oportunidad. ^11^ No lo digo en razón de indigencia, pues he aprendido á contentarme con lo que tengo. ^12^ Sé estar humillado, y sé tener abundancia: en todo y por todo estoy enseñado, así para hartura como para hambre, así para tener abundancia como para padecer necesidad. ^^ ^13^ Todo lo puedo en Cristo que me fortalece. ^^ ^14^ Sin embargo, bien hicisteis que comunicasteis juntamente á mi tribulación. ^15^ Y sabéis también vosotros, oh Filipenses, que al principio del evangelio, cuando partí de Macedonia, ninguna iglesia me comunicó en razón de dar y recibir, sino vosotros solos. ^^ ^16^ Porque aun á Tesalónica me enviasteis lo necesario una y dos veces. ^17^ No porque busque dádivas; mas busco fruto que abunde en vuestra cuenta. ^18^ Empero todo lo he recibido, y tengo abundancia: estoy lleno, habiendo recibido de Epafrodito lo que enviasteis, olor de suavidad, sacrificio acepto, agradable á Dios. ^19^ Mi Dios, pues, suplirá todo lo que os falta conforme á sus riquezas en gloria en Cristo Jesús. ^20^ Al Dios pues y Padre nuestro sea gloria por los siglos de los siglos. Amén. 
-
 
 ^[**4:12** 2Cor 6,10] ^[**4:13** 2Cor 12,10] ^[**4:15** 2Cor 11,9]
 

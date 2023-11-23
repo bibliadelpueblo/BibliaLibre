@@ -2323,7 +2323,6 @@
 ^8^ Tus estatutos guardaré: no me dejes enteramente.
 
 ## Beth
- 
 ^9^ BETH ¿Con qué limpiará el joven su camino? Con guardar tu palabra. 
 ^10^ Con todo mi corazón te he buscado: no me dejes divagar de tus mandamientos. 
 ^11^ En mi corazón he guardado tus dichos, para no pecar contra ti. 
@@ -2334,7 +2333,6 @@
 ^16^ Recrearéme en tus estatutos: no me olvidaré de tus palabras.
 
 ## Gimel
- 
 ^17^ GIMEL. Haz bien á tu siervo; que viva y guarde tu palabra. 
 ^18^ Abre mis ojos, y miraré las maravillas de tu ley. 
 ^19^ Advenedizo soy yo en la tierra: no encubras de mí tus mandamientos. 
@@ -2345,7 +2343,6 @@
 ^24^ Pues tus testimonios son mis deleites, y mis consejeros.
 
 ## Daleth
- 
 ^25^ DALETH. Pegóse al polvo mi alma: vivifícame según tu palabra. 
 ^26^ Mis caminos te conté, y me has respondido: enséñame tus estatutos. 
 ^27^ Hazme entender el camino de tus mandamientos, y hablaré de tus maravillas. 
@@ -2356,7 +2353,6 @@
 ^32^ Por el camino de tus mandamientos correré, cuando ensanchares mi corazón.
 
 ## He
- 
 ^33^ HE. Enséñame, oh Jehová, el camino de tus estatutos, y guardarélo hasta el fin. 
 ^34^ Dame entendimiento, y guardaré tu ley; y la observaré de todo corazón. 
 ^35^ Guíame por la senda de tus mandamientos; porque en ella tengo mi voluntad. 
@@ -2367,7 +2363,6 @@
 ^40^ He aquí yo he codiciado tus mandamientos: vivifícame en tu justicia.
 
 ## Vau
- 
 ^41^ VAU. Y venga á mí tu misericordia, oh Jehová; tu salud, conforme á tu dicho. 
 ^42^ Y daré por respuesta á mi avergonzador, que en tu palabra he confiado. 
 ^43^ Y no quites de mi boca en ningún tiempo la palabra de verdad; porque á tu juicio espero. 
@@ -2378,7 +2373,6 @@
 ^48^ Alzaré asimismo mis manos á tus mandamientos, que amé; y meditaré en tus estatutos.
 
 ## Zain
- 
 ^49^ ZAIN. Acuérdate de la palabra dada á tu siervo, en la cual me has hecho esperar. 
 ^50^ Esta es mi consuelo en mi aflicción: porque tu dicho me ha vivificado. 
 ^51^ Los soberbios se burlaron mucho de mí: mas no me he apartado de tu ley. 
@@ -2389,7 +2383,6 @@
 ^56^ Esto tuve, porque guardaba tus mandamientos.
 
 ## Cheth
- 
 ^57^ CHETH. Mi porción, oh Jehová, dije, será guardar tus palabras. 
 ^58^ Tu presencia supliqué de todo corazón: ten misericordia de mí según tu palabra. 
 ^59^ Consideré mis caminos, y torné mis pies á tus testimonios. 
@@ -2400,7 +2393,6 @@
 ^64^ De tu misericordia, oh Jehová, está llena la tierra: enséñame tus estatutos.
 
 ## Teth
- 
 ^65^ TETH. Bien has hecho con tu siervo, oh Jehová, conforme á tu palabra. 
 ^66^ Enséñame bondad de sentido y sabiduría; porque tus mandamientos he creído. 
 ^67^ Antes que fuera yo humillado, descarriado andaba; mas ahora guardo tu palabra. 
@@ -2411,7 +2403,6 @@
 ^72^ Mejor me es la ley de tu boca, que millares de oro y plata.
 
 ## Jod
- 
 ^73^ JOD. Tus manos me hicieron y me formaron: hazme entender, y aprenderé tus mandamientos. 
 ^74^ Los que te temen, me verán, y se alegrarán; porque en tu palabra he esperado. 
 ^75^ Conozco, oh Jehová, que tus juicios son justicia, y que conforme á tu fidelidad me afligiste. 
@@ -2422,7 +2413,6 @@
 ^80^ Sea mi corazón íntegro en tus estatutos; porque no sea yo avergonzado.
 
 ## Caph
- 
 ^81^ CAPH. Desfallece mi alma por tu salud, esperando en tu palabra. 
 ^82^ Desfallecieron mis ojos por tu palabra, diciendo: ¿Cuándo me consolarás? 
 ^83^ Porque estoy como el odre al humo; mas no he olvidado tus estatutos. 
@@ -2433,7 +2423,6 @@
 ^88^ Vivifícame conforme á tu misericordia; y guardaré los testimonios de tu boca.
 
 ## Lamed
- 
 ^89^ LAMED. Para siempre, oh Jehová, permanece tu palabra en los cielos. 
 ^90^ Por generación y generación es tu verdad: tú afirmaste la tierra, y persevera. 
 ^91^ Por tu ordenación perseveran hasta hoy las cosas criadas; porque todas ellas te sirven. 
@@ -2444,7 +2433,6 @@
 ^96^ A toda perfección he visto fin: ancho sobremanera es tu mandamiento.
 
 ## Mem
- 
 ^97^ MEM ¡Cuánto amo yo tu ley! todo el día es ella mi meditación. 
 ^98^ Me has hecho más sabio que mis enemigos con tus mandamientos; porque me son eternos. 
 ^99^ Más que todos mis enseñadores he entendido: porque tus testimonios son mi meditación. 
@@ -2455,7 +2443,6 @@
 ^104^ De tus mandamientos he adquirido inteligencia: por tanto he aborrecido todo camino de mentira.
 
 ## Nun
- 
 ^105^ NUN. Lámpara es á mis pies tu palabra, y lumbrera á mi camino. 
 ^106^ Juré y ratifiqué el guardar los juicios de tu justicia. 
 ^107^ Afligido estoy en gran manera: oh Jehová, vivifícame conforme á tu palabra. 
@@ -2466,7 +2453,6 @@
 ^112^ Mi corazón incliné á poner por obra tus estatutos de continuo, hasta el fin.
 
 ## Samech
- 
 ^113^ SAMECH. Los pensamientos vanos aborrezco; mas amo tu ley. 
 ^114^ Mi escondedero y mi escudo eres tú: en tu palabra he esperado. 
 ^115^ Apartaos de mí, malignos; pues yo guardaré los mandamientos de mi Dios. 
@@ -2477,7 +2463,6 @@
 ^120^ Mi carne se ha extremecido por temor de ti; y de tus juicios tengo miedo.
 
 ## Ain
- 
 ^121^ AIN. Juicio y justicia he hecho; no me dejes á mis opresores. 
 ^122^ Responde por tu siervo para bien: no me hagan violencia los soberbios. 
 ^123^ Mis ojos desfallecieron por tu salud, y por el dicho de tu justicia. 
@@ -2488,7 +2473,6 @@
 ^128^ Por eso todos los mandamientos de todas las cosas estimé rectos: aborrecí todo camino de mentira.
 
 ## Pe
- 
 ^129^ PE. Maravillosos son tus testimonios: por tanto los ha guardado mi alma. 
 ^130^ El principio de tus palabras alumbra; hace entender á los simples. 
 ^131^ Mi boca abrí y suspiré; porque deseaba tus mandamientos. 
@@ -2499,7 +2483,6 @@
 ^136^ Ríos de agua descendieron de mis ojos, porque no guardaban tu ley.
 
 ## Tzaddi
- 
 ^137^ TZADDI. Justo eres tú, oh Jehová, y rectos tus juicios. 
 ^138^ Tus testimonios, que has recomendado, son rectos y muy fieles. 
 ^139^ Mi celo me ha consumido; porque mis enemigos se olvidaron de tus palabras. 
@@ -2510,7 +2493,6 @@
 ^144^ Justicia eterna son tus testimonios; dame entendimiento, y viviré.
 
 ## Coph
- 
 ^145^ COPH. Clamé con todo mi corazón; respóndeme, Jehová, y guardaré tus estatutos. 
 ^146^ A ti clamé; sálvame, y guardaré tus testimonios. 
 ^147^ Anticipéme al alba, y clamé: esperé en tu palabra. 
@@ -2521,7 +2503,6 @@
 ^152^ Ya ha mucho que he entendido de tus mandamientos, que para siempre los fundaste.
 
 ## Resh
- 
 ^153^ RESH. Mira mi aflicción, y líbrame; porque de tu ley no me he olvidado. 
 ^154^ Aboga mi causa, y redímeme: vivifícame con tu dicho. 
 ^155^ Lejos está de los impíos la salud; porque no buscan tus estatutos. 
@@ -2532,7 +2513,6 @@
 ^160^ El principio de tu palabra es verdad; y eterno es todo juicio de tu justicia.
 
 ## Sin
- 
 ^161^ SIN. Príncipes me han perseguido sin causa; mas mi corazón tuvo temor de tus palabras. 
 ^162^ Gózome yo en tu palabra, como el que halla muchos despojos. 
 ^163^ La mentira aborrezco y abomino: tu ley amo. 
@@ -2543,7 +2523,6 @@
 ^168^ Guardado he tus mandamientos y tus testimonios; porque todos mis caminos están delante de ti.
 
 ## Tau
- 
 ^169^ TAU. Acérquese mi clamor delante de ti, oh Jehová: dame entendimiento conforme á tu palabra. 
 ^170^ Venga mi oración delante de ti: líbrame conforme á tu dicho. 
 ^171^ Mis labios rebosarán alabanza, cuando me enseñares tus estatutos. 
@@ -2964,7 +2943,8 @@
 ^9^ Para ejecutar en ellos el juicio escrito: gloria será esta para todos sus santos. Aleluya. 
 
 # 150 
-## ¡Todo lo que respira, alabado sea el Señor!
+## ¡Todo lo que respira, alabado sea el Señor!
+
 ^1^ Aleluya. Alabad á Dios en su santuario: alabadle en la extensión de su fortaleza. 
 ^2^ Alabadle por sus proezas: alabadle conforme á la muchedumbre de su grandeza. 
 ^3^ Alabadle á son de bocina: alabadle con salterio y arpa. 

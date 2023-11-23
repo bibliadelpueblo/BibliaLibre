@@ -6,25 +6,21 @@
 ^4^ Desde el desierto y este Líbano hasta el gran río Eufrates, toda la tierra de los Hetheos hasta la gran mar del poniente del sol, será vuestro término. 
 ^5^ Nadie te podrá hacer frente en todos los días de tu vida: como yo fuí con Moisés, seré contigo; no te dejaré, ni te desampararé.
 
- 
 ^6^ Esfuérzate y sé valiente: porque tú repartirás á este pueblo por heredad la tierra, de la cual juré á sus padres que la daría á ellos. 
 ^7^ Solamente te esfuerces, y seas muy valiente, para cuidar de hacer conforme á toda la ley que mi siervo Moisés te mandó: no te apartes de ella ni á diestra ni á siniestra, para que seas prosperado en todas las cosas que emprendieres. 
 ^8^ El libro de aquesta ley nunca se apartará de tu boca: antes de día y de noche meditarás en él, para que guardes y hagas conforme á todo lo que en él está escrito: porque entonces harás prosperar tu camino, y todo te saldrá bien. 
 ^9^ Mira que te mando que te esfuerces y seas valiente: no temas ni desmayes, porque Jehová tu Dios será contigo en donde quiera que fueres.
 
 ## Josué ordena a la gente que esté lista para marchar
- 
 ^10^ Y Josué mandó á los oficiales del pueblo, diciendo: 
 ^11^ Pasad por medio del campo, y mandad al pueblo, diciendo: Preveníos de comida; porque dentro de tres días pasaréis el Jordán, para que entréis á poseer la tierra que Jehová vuestro Dios os da para que la poseáis.
 
 ## Comportamiento obediente de las tribus de Cisjordania
- 
 ^12^ También habló Josué á los Rubenitas y Gaditas, y á la media tribu de Manasés, diciendo: 
 ^13^ Acordaos de la palabra que Moisés, siervo de Jehová, os mandó diciendo: Jehová vuestro Dios os ha dado reposo, y os ha dado esta tierra. 
 ^14^ Vuestras mujeres y vuestros niños y vuestras bestias, quedarán en la tierra que Moisés os ha dado de esta parte del Jordán; mas vosotros, todos los valientes y fuertes, pasaréis armados delante de vuestros hermanos, y les ayudaréis; 
 ^15^ Hasta tanto que Jehová haya dado reposo á vuestros hermanos como á vosotros, y que ellos también posean la tierra que Jehová vuestro Dios les da: y después volveréis vosotros á la tierra de vuestra herencia, la cual Moisés siervo de Jehová os ha dado, de esta parte del Jordán hacia donde nace el sol; y la poseeréis.
 
- 
 ^16^ Entonces respondieron á Josué, diciendo: Nosotros haremos todas las cosas que nos has mandado, é iremos adonde quiera que nos mandares. 
 ^17^ De la manera que obedecimos á Moisés en todas las cosas, así te obedeceremos á ti: solamente Jehová tu Dios sea contigo, como fué con Moisés. 
 ^18^ Cualquiera que fuere rebelde á tu mandamiento, y no obedeciere á tus palabras en todas las cosas que le mandares, que muera; solamente que te esfuerces, y seas valiente. 
@@ -33,20 +29,16 @@
 ## El escultismo de Jericó; la salvación de los dos espías por la prostituta Rahab
 ^1^ Y Josué, hijo de Nun, envió desde Sittim dos espías secretamente, diciéndoles: Andad, reconoced la tierra, y á Jericó. Los cuales fueron, y entráronse en casa de una mujer ramera que se llamaba Rahab, y posaron allí.
 
- 
 ^2^ Y fué dado aviso al rey de Jericó, diciendo: He aquí que hombres de los hijos de Israel han venido aquí esta noche á espiar la tierra.
 
- 
 ^3^ Entonces el rey de Jericó envió á decir á Rahab: Saca fuera los hombres que han venido á ti, y han entrado en tu casa; porque han venido á espiar toda la tierra.
 
- 
 ^4^ Mas la mujer había tomado los dos hombres, y los había escondido; y dijo: Verdad que hombres vinieron á mí, mas no supe de dónde eran: 
 ^5^ Y al cerrarse la puerta, siendo ya oscuro, esos hombres se salieron, y no sé á dónde se han ido: seguidlos apriesa, que los alcanzaréis. 
 ^6^ Mas ella los había hecho subir al terrado, y habíalos escondido entre tascos de lino que en aquel terrado tenía puestos. 
 ^7^ Y los hombres fueron tras ellos por el camino del Jordán, hasta los vados: y la puerta fué cerrada después que salieron los que tras ellos iban.
 
 ## Las negociaciones y citas fijas entre Rahab y los espías
- 
 ^8^ Mas antes que ellos durmiesen, ella subió á ellos al terrado, y díjoles: 
 ^9^ Sé que Jehová os ha dado esta tierra; porque el temor de vosotros ha caído sobre nosotros, y todos los moradores del país están desmayados por causa de vosotros; 
 ^10^ Porque hemos oído que Jehová hizo secar las aguas del mar Bermejo delante de vosotros, cuando salisteis de Egipto, y lo que habéis hecho á los dos reyes de los Amorrheos que estaban de la parte allá del Jordán, á Sehón y á Og, á los cuales habéis destruído. 
@@ -54,24 +46,19 @@
 ^12^ Ruégoos pues ahora, me juréis por Jehová, que como he hecho misericordia con vosotros, así la haréis vosotros con la casa de mi padre, de lo cual me daréis una señal cierta; 
 ^13^ Y que salvaréis la vida á mi padre y á mi madre, y á mis hermanos y hermanas, y á todo lo que es suyo; y que libraréis nuestras vidas de la muerte.
 
- 
 ^14^ Y ellos le respondieron: Nuestra alma por vosotros hasta la muerte, si no denunciareis este nuestro negocio: y cuando Jehová nos hubiere dado la tierra, nosotros haremos contigo misericordia y verdad.
 
- 
 ^15^ Entonces ella los hizo descender con una cuerda por la ventana; porque su casa estaba á la pared del muro, y ella vivía en el muro. 
 ^16^ Y díjoles: Marchaos al monte, porque los que fueron tras vosotros no os encuentren; y estad escondidos allí tres días, hasta que los que os siguen hayan vuelto; y después os iréis vuestro camino.
 
- 
 ^17^ Y ellos le dijeron: Nosotros seremos desobligados de este juramento con que nos has conjurado. 
 ^18^ He aquí, cuando nosotros entráremos en la tierra, tú atarás este cordón de grana á la ventana por la cual nos descolgaste: y tú juntarás en tu casa tu padre y tu madre, tus hermanos y toda la familia de tu padre. 
 ^19^ Cualquiera que saliere fuera de las puertas de tu casa, su sangre será sobre su cabeza, y nosotros sin culpa. Mas cualquiera que se estuviere en casa contigo, su sangre será sobre nuestra cabeza, si mano le tocare. 
 ^20^ Y si tú denunciares este nuestro negocio, nosotros seremos desobligados de este tu juramento con que nos has juramentado.
 
- 
 ^21^ Y ella respondió: Sea así como habéis dicho. Luego los despidió, y se fueron: y ella ató el cordón de grana á la ventana.
 
 ## Feliz regreso de los espías a Josué con buenas noticias
- 
 ^22^ Y caminando ellos, llegaron al monte, y estuvieron allí tres días, hasta que los que los seguían se hubiesen vuelto: y los que los siguieron, buscaron por todo el camino, mas no los hallaron. 
 ^23^ Y tornándose los dos varones, descendieron del monte, y pasaron, y vinieron á Josué hijo de Nun, y contáronle todas las cosas que les habían acontecido. 
 ^24^ Y dijeron á Josué: Jehová ha entregado toda la tierra en nuestras manos; y también todos los moradores del país están desmayados delante de nosotros. 
@@ -83,18 +70,14 @@
 ^3^ Y mandaron al pueblo, diciendo: Cuando viereis el arca del pacto de Jehová vuestro Dios, y los sacerdotes y Levitas que la llevan, vosotros partiréis de vuestro lugar, y marcharéis en pos de ella. 
 ^4^ Empero entre vosotros y ella haya distancia como de la medida de dos mil codos: y no os acercaréis á ella, á fin de que sepáis el camino por donde habéis de ir: por cuanto vosotros no habéis pasado antes de ahora por este camino.
 
- 
 ^5^ Y Josué dijo al pueblo: Santificaos, porque Jehová hará mañana entre vosotros maravillas.
 
- 
 ^6^ Y habló Josué á los sacerdotes, diciendo: Tomad el arca del pacto, y pasad delante del pueblo. Y ellos tomaron el arca del pacto, y fueron delante del pueblo.
 
 ## La promesa de Dios de salvación a Josué; Anuncio del milagro divino a través de Josué
- 
 ^7^ Entonces Jehová dijo á Josué: Desde aqueste día comenzaré á hacerte grande delante de los ojos de todo Israel, para que entiendan que como fuí con Moisés, así seré contigo. 
 ^8^ Tú, pues, mandarás á los sacerdotes que llevan el arca del pacto, diciendo: Cuando hubiereis entrado hasta el borde del agua del Jordán, pararéis en el Jordán.
 
- 
 ^9^ Y Josué dijo á los hijos de Israel: Llegaos acá, y escuchad las palabras de Jehová vuestro Dios. 
 ^10^ Y añadió Josué: En esto conoceréis que el Dios viviente está en medio de vosotros, y que él echará de delante de vosotros al Cananeo, y al Heteo, y al Heveo, y al Pherezeo, y al Gergeseo, y al Amorrheo, y al Jebuseo. 
 ^11^ He aquí, el arca del pacto del Señoreador de toda la tierra pasa el Jordán delante de vosotros. 
@@ -102,7 +85,6 @@
 ^13^ Y cuando las plantas de los pies de los sacerdotes que llevan el arca de Jehová Señoreador de toda la tierra, fueren asentadas sobre las aguas del Jordán, las aguas del Jordán se partirán: porque las aguas que vienen de arriba se detendrán en un montón.
 
 ## El Jordán se detiene y se divide
- 
 ^14^ Y aconteció, que partiendo el pueblo de sus tiendas para pasar el Jordán, y los sacerdotes delante del pueblo llevando el arca del pacto, 
 ^15^ Cuando los que llevaban el arca entraron en el Jordán, así como los pies de los sacerdotes que llevaban el arca fueron mojados á la orilla del agua, (porque el Jordán suele reverter sobre todos sus bordes todo el tiempo de la siega,) 
 ^16^ Las aguas que venían de arriba, se pararon como en un montón bien lejos de la ciudad de Adam, que está al lado de Sarethan; y las que descendían á la mar de los llanos, al mar Salado, se acabaron y fueron partidas; y el pueblo pasó en derecho de Jericó. 
@@ -114,36 +96,29 @@
 ^2^ Tomad del pueblo doce hombres, de cada tribu uno, 
 ^3^ Y mandadles, diciendo: Tomaos de aquí del medio del Jordán, del lugar donde están firmes los pies de los sacerdotes, doce piedras, las cuales pasaréis con vosotros, y las asentaréis en el alojamiento donde habéis de tener la noche.
 
- 
 ^4^ Entonces Josué llamó á los doce hombres, los cuales había él ordenado de entre los hijos de Israel, de cada tribu uno; 
 ^5^ Y díjoles Josué: Pasad delante del arca de Jehová vuestro Dios al medio del Jordán; y cada uno de vosotros tome una piedra sobre su hombro, conforme al número de las tribus de los hijos de Israel; 
 ^6^ Para que esto sea señal entre vosotros; y cuando vuestros hijos preguntaren á sus padres mañana, diciendo: ¿Qué os significan estas piedras? 
 ^7^ Les responderéis: Que las aguas del Jordán fueron partidas delante del arca del pacto de Jehová; cuando ella pasó el Jordán, las aguas del Jordán se partieron: y estas piedras serán por memoria á los hijos de Israel para siempre.
 
- 
 ^8^ Y los hijos de Israel lo hicieron así como Josué les mandó: que levantaron doce piedras del medio del Jordán, como Jehová lo había dicho á Josué, conforme al número de las tribus de los hijos de Israel, y pasáronlas consigo al alojamiento, y las asentaron allí. 
 ^9^ Josué también levantó doce piedras en medio del Jordán, en el lugar donde estuvieron los pies de los sacerdotes que llevaban el arca del pacto; y han estado allí hasta hoy. 
 ^10^ Y los sacerdotes que llevaban el arca se pararon en medio del Jordán, hasta tanto que se acabó todo lo que Jehová había mandado á Josué que hablase al pueblo, conforme á todas las cosas que Moisés había á Josué mandado: y el pueblo se dió priesa y pasó. 
 ^11^ Y cuando todo el pueblo acabó de pasar, pasó también el arca de Jehová, y los sacerdotes, en presencia del pueblo.
 
- 
 ^12^ También los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, pasaron armados delante de los hijos de Israel, según Moisés les había dicho: 
 ^13^ Como cuarenta mil hombres armados á punto pasaron hacia la campiña de Jericó delante de Jehová á la guerra.
 
 ## Efecto del maravilloso evento sobre los israelitas y sobre todos los pueblos; información final
- 
 ^14^ En aquel día Jehová engrandeció á Josué en ojos de todo Israel: y temiéronle, como habían temido á Moisés, todos los días de su vida.
 
- 
 ^15^ Y Jehová habló á Josué, diciendo: 
 ^16^ Manda á los sacerdotes que llevan el arca del testimonio, que suban del Jordán.
 
- 
 ^17^ Y Josué mandó á los sacerdotes, diciendo: Subid del Jordán. 
 ^18^ Y aconteció que como los sacerdotes que llevaban el arca del pacto de Jehová, subieron del medio del Jordán, y las plantas de los pies de los sacerdotes estuvieron en seco, las aguas del Jordán se volvieron á su lugar, corriendo como antes sobre todos sus bordes. 
 ^19^ Y el pueblo subió del Jordán el diez del mes primero, y asentaron el campo en Gilgal, al lado oriental de Jericó.
 
- 
 ^20^ Y Josué erigió en Gilgal las doce piedras que habían traído del Jordán. 
 ^21^ Y habló á los hijos de Israel, diciendo: Cuando mañana preguntaren vuestros hijos á sus padres, y dijeren: ¿Qué os significan estas piedras? 
 ^22^ Declararéis á vuestros hijos, diciendo: Israel pasó en seco por este Jordán. 
@@ -161,23 +136,18 @@
 ^7^ Y los hijos de ellos, que él había hecho suceder en su lugar, Josué los circuncidó; pues eran incircuncisos, porque no habían sido circuncidados por el camino. 
 ^8^ Y cuando hubieron acabado de circuncidar toda la gente, quedáronse en el mismo lugar en el campo, hasta que sanaron.
 
- 
 ^9^ Y Jehová dijo á Josué: Hoy he quitado de vosotros el oprobio de Egipto: por lo cual el nombre de aquel lugar fué llamado Gilgal, hasta hoy.
 
 ## Primera Pascua en Canaán; Cese del maná
- 
 ^10^ Y los hijos de Israel asentaron el campo en Gilgal, y celebraron la pascua á los catorce días del mes, por la tarde, en los llanos de Jericó. 
 ^11^ Y al otro día de la pascua comieron del fruto de la tierra los panes sin levadura, y en el mismo día espigas nuevas tostadas. 
 ^12^ Y el maná cesó el día siguiente, desde que comenzaron á comer del fruto de la tierra: y los hijos de Israel nunca más tuvieron maná, sino que comieron de los frutos de la tierra de Canaán aquel año.
 
 ## Josué se siente animado por la aparición del divino general
- 
 ^13^ Y estando Josué cerca de Jericó, alzó sus ojos, y vió un varón que estaba delante de él, el cual tenía una espada desnuda en su mano. Y Josué yéndose hacia él, le dijo: ¿Eres de los nuestros, ó de nuestros enemigos?
 
- 
 ^14^ Y él respondió: No; mas Príncipe del ejército de Jehová, ahora he venido. Entonces Josué postrándose sobre su rostro en tierra le adoró; y díjole: ¿Qué dice mi Señor á su siervo?
 
- 
 ^15^ Y el Príncipe del ejército de Jehová respondió á Josué: Quita tus zapatos de tus pies; porque el lugar donde estás es santo. Y Josué lo hizo así. 
 
 # 6 
@@ -189,17 +159,13 @@
 ^5^ Y cuando tocaren prolongadamente el cuerno de carnero, así que oyereis el sonido de la bocina, todo el pueblo gritará á gran voz, y el muro de la ciudad caerá debajo de sí: entonces el pueblo subirá cada uno en derecho de sí.
 
 ## Los desfiles diarios únicos por la ciudad durante los primeros seis días
- 
 ^6^ Y llamando Josué hijo de Nun á los sacerdotes, les dijo: Llevad el arca del pacto, y siete sacerdotes lleven bocinas de cuernos de carneros delante del arca de Jehová.
 
- 
 ^7^ Y dijo al pueblo: Pasad, y rodead la ciudad; y los que están armados pasarán delante del arca de Jehová.
 
- 
 ^8^ Y así que Josué hubo hablado al pueblo, los siete sacerdotes, llevando las siete bocinas de cuernos de carneros, pasaron delante del arca de Jehová, y tocaron las bocinas: y el arca del pacto de Jehová los seguía. 
 ^9^ Y los armados iban delante de los sacerdotes que tocaban las bocinas, y la gente reunida iba detrás del arca, andando y tocando bocinas.
 
- 
 ^10^ Y Josué mandó al pueblo, diciendo: Vosotros no daréis grita, ni se oirá vuestra voz, ni saldrá palabra de vuestra boca, hasta el día que yo os diga: Gritad: entonces daréis grita. 
 ^11^ El arca pues de Jehová dió una vuelta alrededor de la ciudad, y viniéronse al real, en el cual tuvieron la noche. 
 ^12^ Y Josué se levantó de mañana, y los sacerdotes tomaron el arca de Jehová. 
@@ -207,25 +173,21 @@
 ^14^ Así dieron otra vuelta á la ciudad el segundo día, y volviéronse al real: de esta manera hicieron por seis días.
 
 ## Los siete desfiles del séptimo día; Conquista y destrucción de la ciudad
- 
 ^15^ Y al séptimo día levantáronse cuando subía el alba, y dieron vuelta á la ciudad de la misma manera siete veces: solamente este día dieron vuelta alrededor de ella siete veces. 
 ^16^ Y como los sacerdotes hubieron tocado las bocinas la séptima vez, Josué dijo al pueblo: Dad grita, porque Jehová os ha entregado la ciudad. 
 ^17^ Mas la ciudad será anatema á Jehová, ella con todas las cosas que están en ella: solamente Rahab la ramera vivirá, con todos los que estuvieren en casa con ella, por cuanto escondió los mensajeros que enviamos. 
 ^18^ Empero guardaos vosotros del anatema, que ni toquéis, ni toméis alguna cosa del anatema, porque no hagáis anatema el campo de Israel, y lo turbéis. 
 ^19^ Mas toda la plata, y el oro, y vasos de metal y de hierro, sea consagrado á Jehová, y venga al tesoro de Jehová.
 
- 
 ^20^ Entonces el pueblo dió grita, y los sacerdotes tocaron las bocinas: y aconteció que como el pueblo hubo oído el sonido de la bocina, dió el pueblo grita con gran vocerío, y el muro cayó á plomo. El pueblo subió luego á la ciudad, cada uno en derecho de sí, y tomáronla. 
 ^21^ Y destruyeron todo lo que en la ciudad había; hombres y mujeres, mozos y viejos, hasta los bueyes, y ovejas, y asnos, á filo de espada.
 
 ## Perdonando a Rahab y sus parientes; Maldice la reconstrucción de la ciudad
- 
 ^22^ Mas Josué dijo á los dos hombres que habían reconocido la tierra: Entrad en casa de la mujer ramera, y haced salir de allá á la mujer, y á todo lo que fuere suyo, como lo jurasteis. 
 ^23^ Y los mancebos espías entraron, y sacaron á Rahab, y á su padre, y á su madre, y á sus hermanos, y todo lo que era suyo; y también sacaron á toda su parentela, y pusiéronlos fuera del campo de Israel. 
 ^24^ Y consumieron con fuego la ciudad, y todo lo que en ella había: solamente pusieron en el tesoro de la casa de Jehová la plata, y el oro, y los vasos de metal y de hierro. 
 ^25^ Mas Josué salvó la vida á Rahab la ramera, y á la casa de su padre, y á todo lo que ella tenía: y habitó ella entre los Israelitas hasta hoy; por cuanto escondió los mensajeros que Josué envió á reconocer á Jericó.
 
- 
 ^26^ Y en aquel tiempo Josué les juramentó diciendo: Maldito delante de Jehová el hombre que se levantare y reedificare esta ciudad de Jericó. En su primogénito eche sus cimientos, y en su menor asiente sus puertas. 
 ^27^ Fué pues Jehová con Josué, y su nombre se divulgó por toda la tierra. 
 
@@ -234,7 +196,6 @@
 ^1^ Empero los hijos de Israel cometieron prevaricación en el anatema: porque Achân, hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de Judá, tomó del anatema; y la ira de Jehová se encendió contra los hijos de Israel. 
 ^2^ Y Josué envió hombres desde Jericó á Hai, que estaba junto á Beth-aven hacia el oriente de Beth-el; y hablóles diciendo: Subid, y reconoced la tierra. Y ellos subieron, y reconocieron á Hai.
 
- 
 ^3^ Y volviendo á Josué, dijéronle: No suba todo el pueblo, mas suban como dos mil ó como tres mil hombres, y tomarán á Hai: no fatigues á todo el pueblo allí, porque son pocos. 
 ^4^ Y subieron allá del pueblo como tres mil hombres, los cuales huyeron delante de los de Hai. 
 ^5^ Y los de Hai hirieron de ellos como treinta y seis hombres, y siguiéronlos desde la puerta hasta Sebarim, y los rompieron en la bajada: por lo que se disolvió el corazón del pueblo, y vino á ser como agua. 
@@ -244,7 +205,6 @@
 ^9^ Porque los Cananeos y todos los moradores de la tierra oirán, y nos cercarán, y raerán nuestro nombre de sobre la tierra: entonces ¿qué harás tú á tu grande nombre?
 
 ## Dios le dice a Josué la razón de su enojo y le da instrucciones para determinar quién es culpable
- 
 ^10^ Y Jehová dijo á Josué: Levántate; ¿por qué te postras así sobre tu rostro? 
 ^11^ Israel ha pecado, y aun han quebrantado mi pacto que yo les había mandado; pues aun han tomado del anatema, y hasta han hurtado, y también han mentido, y aun lo han guardado entre sus enseres. 
 ^12^ Por esto los hijos de Israel no podrán estar delante de sus enemigos, sino que delante de sus enemigos volverán las espaldas; por cuanto han venido á ser anatema: ni seré más con vosotros, si no destruyereis el anatema de en medio de vosotros. 
@@ -253,17 +213,14 @@
 ^15^ Y el que fuere cogido en el anatema, será quemado á fuego, él y todo lo que tiene, por cuanto ha quebrantado el pacto de Jehová, y ha cometido maldad en Israel.
 
 ## Acán es identificado como un malhechor por sorteo y es apedreado hasta morir después de admitir su culpabilidad
- 
 ^16^ Josué, pues, levantándose de mañana, hizo allegar á Israel por sus tribus; y fué tomada la tribu de Judá; 
 ^17^ Y haciendo allegar la tribu de Judá, fué tomada la familia de los de Zera; haciendo luego allegar la familia de los de Zera por los varones, fué tomado Zabdi; 
 ^18^ E hizo allegar su casa por los varones, y fué tomado Achân, hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de Judá. 
 ^19^ Entonces Josué dijo á Achân: Hijo mío, da gloria ahora á Jehová el Dios de Israel, y dale alabanza, y declárame ahora lo que has hecho; no me lo encubras.
 
- 
 ^20^ Y Achân respondió á Josué, diciendo: Verdaderamente yo he pecado contra Jehová el Dios de Israel, y he hecho así y así: 
 ^21^ Que vi entre los despojos un manto babilónico muy bueno, y doscientos siclos de plata, y un changote de oro de peso de cincuenta siclos; lo cual codicié, y tomé: y he aquí que está escondido debajo de tierra en el medio de mi tienda, y el dinero debajo de ello.
 
- 
 ^22^ Josué entonces envió mensajeros, los cuales fueron corriendo á la tienda; y he aquí estaba escondido en su tienda, y el dinero debajo de ello: 
 ^23^ Y tomándolo de en medio de la tienda, trajéronlo á Josué y á todos los hijos de Israel, y pusiéronlo delante de Jehová. 
 ^24^ Entonces Josué, y todo Israel con él, tomó á Achân hijo de Zera, y el dinero, y el manto, y el changote de oro, y sus hijos, y sus hijas, y sus bueyes, y sus asnos, y sus ovejas, y su tienda, y todo cuanto tenía, y lleváronlo todo al valle de Achôr; 
@@ -275,7 +232,6 @@
 ^1^ Y Jehová dijo á Josué: No temas, ni desmayes; toma contigo toda la gente de guerra, y levántate y sube á Hai. Mira, yo he entregado en tu mano al rey de Hai, y á su pueblo, á su ciudad, y á su tierra. 
 ^2^ Y harás á Hai y á su rey como hiciste á Jericó y á su rey: sólo que sus despojos y sus bestias tomaréis para vosotros. Pondrás, pues, emboscadas á la ciudad detrás de ella.
 
- 
 ^3^ Y levantóse Josué, y toda la gente de guerra, para subir contra Hai: y escogió Josué treinta mil hombres fuertes, los cuales envió de noche. 
 ^4^ Y mandóles, diciendo: Mirad, pondréis emboscada á la ciudad detrás de ella: no os alejaréis mucho de la ciudad, y estaréis todos apercibidos. 
 ^5^ Y yo, y todo el pueblo que está conmigo, nos acercaremos á la ciudad; y cuando saldrán ellos contra nosotros, como hicieron antes, huiremos delante de ellos. 
@@ -283,7 +239,6 @@
 ^7^ Entonces vosotros os levantaréis de la emboscada, y os echaréis sobre la ciudad; pues Jehová vuestro Dios la entregará en vuestras manos. 
 ^8^ Y cuando la hubiereis tomado, le prenderéis fuego. Haréis conforme á la palabra de Jehová. Mirad que os lo he mandado.
 
- 
 ^9^ Entonces Josué los envió; y ellos se fueron á la emboscada, y pusiéronse entre Beth-el y Hai, al occidente de Hai: y Josué se quedó aquella noche en medio del pueblo. 
 ^10^ Y levantándose Josué muy de mañana, revistó al pueblo, y subió él, con los ancianos de Israel, delante del pueblo contra Hai. 
 ^11^ Y toda la gente de guerra que con él estaba, subió, y acercóse, y llegaron delante de la ciudad, y asentaron el campo á la parte del norte de Hai: y el valle estaba entre él y Hai. 
@@ -291,16 +246,13 @@
 ^13^ Y el pueblo, todo el campo que estaba á la parte del norte de la ciudad, colocado ya cerca, y su emboscada al occidente de la ciudad, vínose Josué aquella noche al medio del valle.
 
 ## Curso de la lucha; Quemando la ciudad sin vigilancia
- 
 ^14^ Lo cual como viese el rey de Hai, levantóse prestamente de mañana, y salió con la gente de la ciudad contra Israel, él y todo su pueblo, para combatir por el llano al tiempo señalado, no sabiendo que le estaba puesta emboscada á las espaldas de la ciudad. 
 ^15^ Entonces Josué y todo Israel, haciéndose vencidos, huyeron delante de ellos por el camino del desierto. 
 ^16^ Y todo el pueblo que estaba en Hai se juntó para seguirlos: y siguieron á Josué, siendo así arrancados de la ciudad. 
 ^17^ Y no quedó hombre en Hai y Beth-el, que no saliera tras de Israel; y por seguir á Israel dejaron la ciudad abierta.
 
- 
 ^18^ Entonces Jehová dijo á Josué: Levanta la lanza que tienes en tu mano hacia Hai, porque yo la entregaré en tu mano. Y Josué levantó hacia la ciudad la lanza que en su mano tenía.
 
- 
 ^19^ Y levantándose prestamente de su lugar los que estaban en la emboscada, corrieron luego que él alzó su mano, y vinieron á la ciudad, y la tomaron, y apresuráronse á prenderle fuego. 
 ^20^ Y como los de la ciudad miraron atrás, observaron, y he aquí el humo de la ciudad que subía al cielo, y no tuvieron arbitrio para huir ni á una parte ni á otra: y el pueblo que iba huyendo hacia el desierto, se volvió contra los que le seguían. 
 ^21^ Josué y todo Israel, viendo que los de la emboscada habían tomado la ciudad, y que el humo de la ciudad subía, tornaron, é hirieron á los de Hai. 
@@ -308,7 +260,6 @@
 ^23^ Y tomaron vivo al rey de Hai, y trajéronle á Josué.
 
 ## Ejecución de la prohibición de la ciudad; el rey mató y ahorcó hasta la noche
- 
 ^24^ Y cuando los Israelitas acabaron de matar á todos los moradores de Hai en el campo, en el desierto, donde ellos los habían perseguido, y que todos habían caído á filo de espada hasta ser consumidos, todos los Israelitas se tornaron á Hai, y también la pusieron á cuchillo. 
 ^25^ Y el número de los que cayeron aquel día, hombres y mujeres, fué doce mil, todos los de Hai. 
 ^26^ Y Josué no retrajo su mano que había extendido con la lanza, hasta que hubo destruído á todos los moradores de Hai. 
@@ -317,7 +268,6 @@
 ^29^ Mas al rey de Hai colgó de un madero hasta la tarde: y como el sol se puso, mandó Josué que quitasen del madero su cuerpo, y lo echasen á la puerta de la ciudad: y levantaron sobre él un gran montón de piedras, hasta hoy.
 
 ## Construcción de un altar en el monte Ebal y lectura de la ley por Josué después de la fiesta del sacrificio
- 
 ^30^ Entonces Josué edificó un altar á Jehová Dios de Israel en el monte de Ebal, 
 ^31^ Como Moisés, siervo de Jehová, lo había mandado á los hijos de Israel, como está escrito en el libro de la ley de Moisés, un altar de piedras enteras sobre las cuales nadie alzó hierro: y ofrecieron sobre él holocaustos á Jehová, y sacrificaron víctimas pacíficas. 
 ^32^ También escribió allí en piedras la repetición de la ley de Moisés, la cual él había escrito delante de los hijos de Israel. 
@@ -331,31 +281,25 @@
 ^2^ Juntáronse á una, de un acuerdo, para pelear contra Josué é Israel.
 
 ## Los gabaonitas envían una delegación y, mediante engaños, consiguen un acuerdo pacífico con los israelitas
- 
 ^3^ Mas los moradores de Gabaón, como oyeron lo que Josué había hecho á Jericó y á Hai, 
 ^4^ Ellos usaron también de astucia; pues fueron y fingiéronse embajadores, y tomaron sacos viejos sobre sus asnos, y cueros viejos de vino, rotos y remendados, 
 ^5^ Y zapatos viejos y recosidos en sus pies, con vestidos viejos sobre sí; y todo el pan que traían para el camino, seco y mohoso. 
 ^6^ Así vinieron á Josué al campo en Gilgal, y dijéronle á él y á los de Israel: Nosotros venimos de tierra muy lejana: haced pues ahora con nosotros alianza.
 
- 
 ^7^ Y los de Israel respondieron á los Heveos: Quizás vosotros habitáis en medio de nosotros: ¿cómo pues podremos nosotros hacer alianza con vosotros?
 
- 
 ^8^ Y ellos respondieron á Josué: Nosotros somos tus siervos. Y Josué les dijo: ¿Quién sois vosotros y de dónde venís?
 
- 
 ^9^ Y ellos respondieron: Tus siervos han venido de muy lejanas tierras, por la fama de Jehová tu Dios; porque hemos oído su fama, y todas las cosas que hizo en Egipto, 
 ^10^ Y todo lo que hizo á los dos reyes de los Amorrheos que estaban de la otra parte del Jordán; á Sehón rey de Hesbón, y á Og rey de Basán, que estaba en Astaroth. 
 ^11^ Por lo cual nuestros ancianos y todos los moradores de nuestra tierra nos dijeron: Tomad en vuestras manos provisión para el camino, é id al encuentro de ellos, y decidles: Nosotros somos vuestros siervos, y haced ahora con nosotros alianza. 
 ^12^ Este nuestro pan tomamos caliente de nuestras casas para el camino el día que salimos para venir á vosotros; y helo aquí ahora que está seco y mohoso: 
 ^13^ Estos cueros de vino también los henchimos nuevos; helos aquí ya rotos: también estos nuestros vestidos y nuestros zapatos están ya viejos á causa de lo muy largo del camino.
 
- 
 ^14^ Y los hombres de Israel tomaron de su provisión del camino, y no preguntaron á la boca de Jehová. 
 ^15^ Y Josué hizo paz con ellos, y concertó con ellos que les dejaría la vida: también los príncipes de la congregación les juraron.
 
 ## Hizo a los gabaonitas siervos de la iglesia y del templo después de que se descubrió su engaño
- 
 ^16^ Pasados tres días después que hicieron con ellos el concierto, oyeron como eran sus vecinos, y que habitaban en medio de ellos. 
 ^17^ Y partiéronse los hijos de Israel, y al tercer día llegaron á sus ciudades: y sus ciudades eran Gabaón, Caphira, Beeroth, y Chiriath-jearim. 
 ^18^ Y no los hirieron los hijos de Israel, por cuanto los príncipes de la congregación les habían jurado por Jehová el Dios de Israel. Y toda la congregación murmuraba contra los príncipes. 
@@ -363,15 +307,12 @@
 ^20^ Esto haremos con ellos: les dejaremos vivir, porque no venga ira sobre nosotros á causa del juramento que les hemos hecho. 
 ^21^ Y los príncipes les dijeron: Vivan; mas sean leñadores y aguadores para toda la congregación, como los príncipes les han dicho.
 
- 
 ^22^ Y llamándolos Josué, les habló diciendo: ¿Por qué nos habéis engañado, diciendo, Habitamos muy lejos de vosotros; una vez que moráis en medio de nosotros? 
 ^23^ Vosotros pues ahora sois malditos, y no faltará de vosotros siervo, y quien corte la leña y saque el agua para la casa de mi Dios.
 
- 
 ^24^ Y ellos respondieron á Josué, y dijeron: Como fué dado á entender á tus siervos, que Jehová tu Dios había mandado á Moisés su siervo que os había de dar toda la tierra, y que había de destruir todos los moradores de la tierra delante de vosotros, por esto temimos en gran manera de vosotros por nuestras vidas, é hicimos esto. 
 ^25^ Ahora pues, henos aquí en tu mano: lo que te pareciere bueno y recto hacer de nosotros, hazlo.
 
- 
 ^26^ Y él lo hizo así; que los libró de la mano de los hijos de Israel, para que no los matasen. 
 ^27^ Y constituyólos Josué aquel día por leñadores y aguadores para la congregación y para el altar de Jehová, en el lugar que él escogiese: lo que son hasta hoy. 
 
@@ -384,75 +325,57 @@
 ^5^ Y cinco reyes de los Amorrheos, el rey de Jerusalem, el rey de Hebrón, el rey de Jerimoth, el rey de Lachîs, el rey de Eglón, se juntaron y subieron, ellos con todos sus ejércitos, y asentaron campo sobre Gabaón, y pelearon contra ella. 
 ^6^ Y los moradores de Gabaón enviaron á decir á Josué al campo en Gilgal: No encojas tus manos de tus siervos; sube prestamente á nosotros para guardarnos y ayudarnos: porque todos los reyes de los Amorrheos que habitan en las montañas, se han juntado contra nosotros.
 
- 
 ^7^ Y subió Josué de Gilgal, él y todo el pueblo de guerra con él, y todos los hombres valientes. 
 ^8^ Y Jehová dijo á Josué: No tengas temor de ellos: porque yo los he entregado en tu mano, y ninguno de ellos parará delante de ti.
 
- 
 ^9^ Y Josué vino á ellos de repente, toda la noche subió desde Gilgal. 
 ^10^ Y Jehová los turbó delante de Israel, é hiriólos con gran mortandad en Gabaón: y siguiólos por el camino que sube á Beth-oron, é hiriólos hasta Azeca y Maceda.
 
 ## Los dos grandes milagros de Dios: granizo de piedras y parada
- 
 ^11^ Y como iban huyendo de los Israelitas, á la bajada de Beth-oron, Jehová echó sobre ellos del cielo grandes piedras hasta Azeca, y murieron: muchos más murieron de las piedras del granizo, que los que los hijos de Israel habían muerto á cuchillo.
 
- 
 ^12^ Entonces Josué habló á Jehová el día que Jehová entregó al Amorrheo delante de los hijos de Israel, y dijo en presencia de los Israelitas: Sol, detente en Gabaón; y tú, Luna, en el valle de Ajalón.
 
- 
 ^13^ Y el sol se detuvo y la luna se paró, hasta tanto que la gente se hubo vengado de sus enemigos. ¿No está aquesto escrito en el libro de Jasher? Y el sol se paró en medio del cielo, y no se apresuró á ponerse casi un día entero. 
 ^14^ Y nunca fué tal día antes ni después de aquél, habiendo atendido Jehová á la voz de un hombre: porque Jehová peleaba por Israel.
 
- 
 ^15^ Y Josué, y todo Israel con él, volvíase al campo en Gilgal.
 
 ## Persecucion; los cinco reyes amorreos atrapados en una cueva son asesinados y ahorcados
- 
 ^16^ Pero los cinco reyes huyeron, y se escondieron en una cueva en Maceda. 
 ^17^ Y fué dicho á Josué que los cinco reyes habían sido hallados en una cueva en Maceda.
 
- 
 ^18^ Entonces Josué dijo: Rodad grandes piedras á la boca de la cueva, y poned hombres junto á ella que los guarden; 
 ^19^ Y vosotros no os paréis, sino seguid á vuestros enemigos, y heridles la retaguardia, sin dejarles entrar en sus ciudades; porque Jehová vuestro Dios los ha entregado en vuestra mano.
 
- 
 ^20^ Y aconteció que como Josué y los hijos de Israel hubieron acabado de herirlos con mortandad muy grande, hasta destruirlos, los que quedaron de ellos se metieron en las ciudades fuertes. 
 ^21^ Y todo el pueblo se volvió salvo al campo á Josué en Maceda; que no hubo quien moviese su lengua contra los hijos de Israel. 
 ^22^ Entonces dijo Josué: Abrid la boca de la cueva, y sacadme de ella á estos cinco reyes.
 
- 
 ^23^ E hiciéronlo así, y sacáronle de la cueva aquellos cinco reyes: al rey de Jerusalem, al rey de Hebrón, al rey de Jerimoth, al rey de Lachîs, al rey de Eglón. 
 ^24^ Y cuando hubieron sacado estos reyes á Josué, llamó Josué á todos los varones de Israel, y dijo á los principales de la gente de guerra que habían venido con él: Llegad y poned vuestros pies sobre los pescuezos de aquestos reyes. Y ellos se llegaron, y pusieron sus pies sobre los pescuezos de ellos.
 
- 
 ^25^ Y Josué les dijo: No temáis, ni os atemoricéis; sed fuertes y valientes: porque así hará Jehová á todos vuestros enemigos contra los cuales peleáis.
 
- 
 ^26^ Y después de esto Josué los hirió y los mató, é hízolos colgar en cinco maderos: y quedaron colgados en los maderos hasta la tarde. 
 ^27^ Y cuando el sol se iba á poner, mandó Josué que los quitasen de los maderos, y los echasen en la cueva donde se habían escondido: y pusieron grandes piedras á la boca de la cueva, hasta hoy.
 
 ## Subyugación de toda la mitad sur de Canaán; El regreso de Joshua a Gilgal
- 
 ^28^ En aquel mismo día tomó Josué á Maceda, y la puso á cuchillo, y mató á su rey; á ellos y á todo lo que en ella tenía vida, sin quedar nada: mas al rey de Maceda hizo como había hecho al rey de Jericó.
 
- 
 ^29^ Y de Maceda pasó Josué, y todo Israel con él, á Libna; y peleó contra Libna: 
 ^30^ Y Jehová la entregó también á ella, y á su rey, en manos de Israel; y metióla á filo de espada, con todo lo que en ella había vivo, sin quedar nada: mas á su rey hizo de la manera que había hecho al rey de Jericó.
 
- 
 ^31^ Y Josué, y todo Israel con él, pasó de Libna á Lachîs, y puso campo contra ella, y combatióla: 
 ^32^ Y Jehová entregó á Lachîs en mano de Israel, y tomóla al día siguiente, y metióla á cuchillo, con todo lo que en ella había vivo, como había hecho en Libna. 
 ^33^ Entonces Horam, rey de Gezer, subió en ayuda de Lachîs; mas á él y á su pueblo hirió Josué, hasta no quedar ninguno de ellos.
 
- 
 ^34^ De Lachîs pasó Josué, y todo Israel con él, á Eglón: y pusieron campo contra ella, y combatiéronla: 
 ^35^ Y la tomaron el mismo día, y metiéronla á cuchillo; y aquel día mató á todo lo que en ella había vivo, como había hecho en Lachîs.
 
- 
 ^36^ Subió luego Josué, y todo Israel con él, de Eglón á Hebrón, y combatiéronla; 
 ^37^ Y tomándola, la metieron á cuchillo, á su rey y á todas sus ciudades, con todo lo que en ella había vivo, sin quedar nada: como habían hecho á Eglón, así la destruyeron con todo lo que en ella había vivo.
 
- 
 ^38^ Y volviéndose Josué, y todo Israel con él, sobre Debir, combatióla; 
 ^39^ Y tomóla, y á su rey, y á todas sus villas; y metiéronlos á cuchillo, y destruyeron todo lo que allí dentro había vivo, sin quedar nada: como había hecho á Hebrón, así hizo á Debir y á su rey; y como había hecho á Libna y á su rey. 
 ^40^ Hirió pues Josué toda la región de las montañas, y del mediodía, y de los llanos, y de las cuestas, y á todos sus reyes, sin quedar nada; todo lo que tenía vida mató, al modo que Jehová Dios de Israel lo había mandado. 
@@ -468,27 +391,22 @@
 ^4^ Estos salieron, y con ellos todos sus ejércitos, pueblo mucho en gran manera, como la arena que está á la orilla del mar, con gran muchedumbre de caballos y carros. 
 ^5^ Todos estos reyes se juntaron, y viniendo reunieron los campos junto á las aguas de Merom, para pelear contra Israel.
 
- 
 ^6^ Mas Jehová dijo á Josué: No tengas temor de ellos, que mañana á esta hora yo entregaré á todos éstos, muertos delante de Israel: á sus caballos desjarretarás, y sus carros quemarás al fuego.
 
- 
 ^7^ Y vino Josué, y con él todo el pueblo de guerra, contra ellos, y dió de repente sobre ellos junto á las aguas de Merom. 
 ^8^ Y entrególos Jehová en manos de Israel, los cuales los hirieron y siguieron hasta Sidón la grande, y hasta las aguas calientes, y hasta el llano de Mizpa al oriente, hiriéndolos hasta que no les dejaron ninguno. 
 ^9^ Y Josué hizo con ellos como Jehová le había mandado: desjarretó sus caballos, y sus carros quemó al fuego.
 
 ## Subyugación de toda la mitad norte de Canaán
- 
 ^10^ Y tornándose Josué, tomó en el mismo tiempo á Hasor, é hirió á cuchillo á su rey: la cual Hasor había sido antes cabeza de todos estos reinos. 
 ^11^ E hirieron á cuchillo todo cuanto en ella había vivo, destruyendo y no dejando cosa con vida; y á Asor pusieron á fuego. 
 ^12^ Asimismo tomó Josué todas las ciudades de aquestos reyes, y á todos los reyes de ellas, y los metió á cuchillo, y los destruyó, como Moisés siervo de Jehová lo había mandado. 
 ^13^ Empero todas las ciudades que estaban en sus cabezos, no las quemó Israel, sacando á sola Asor, la cual quemó Josué. 
 ^14^ Y los hijos de Israel tomaron para sí todos los despojos y bestias de aquestas ciudades: pero á todos los hombres metieron á cuchillo hasta destruirlos, sin dejar alguno con vida.
 
- 
 ^15^ De la manera que Jehová lo había mandado á Moisés su siervo, así Moisés lo mandó á Josué: y así Josué lo hizo, sin quitar palabra de todo lo que Jehová había mandado á Moisés.
 
 ## Revisión; Cumplimiento de la voluntad divina de destruir endureciendo a los cananeos
- 
 ^16^ Tomó pues Josué toda aquella tierra, las montañas, y toda la región del mediodía, y toda la tierra de Gosén, y los bajos y los llanos, y la montaña de Israel y sus valles. 
 ^17^ Desde el monte de Halac, que sube hasta Seir, hasta Baal-gad en la llanura del Líbano, á las raíces del monte Hermón: tomó asimismo todos sus reyes, los cuales hirió y mató. 
 ^18^ Por muchos días tuvo guerra Josué con estos reyes. 
@@ -496,7 +414,6 @@
 ^20^ Porque esto vino de Jehová, que endurecía el corazón de ellos para que resistiesen con guerra á Israel, para destruirlos, y que no les fuese hecha misericordia, antes fuesen desarraigados, como Jehová lo había mandado á Moisés.
 
 ## Exterminio de los Enakitas (es decir, gigantes) de la tierra
- 
 ^21^ También en el mismo tiempo vino Josué y destruyó los Anaceos de los montes, de Hebrón, de Debir, y de Anab, y de todos los montes de Judá, y de todos los montes de Israel: Josué los destruyó á ellos y á sus ciudades. 
 ^22^ Ninguno de los Anaceos quedó en la tierra de los hijos de Israel; solamente quedaron en Gaza, en Gath, y en Asdod. 
 ^23^ Tomó, pues, Josué toda la tierra, conforme á todo lo que Jehová había dicho á Moisés; y entrególa Josué á los Israelitas por herencia, conforme á sus repartimientos de sus tribus: y la tierra reposó de guerra. 
@@ -511,7 +428,6 @@
 ^6^ A estos hirieron Moisés siervo de Jehová y los hijos de Israel; y Moisés siervo de Jehová dió aquella tierra en posesión á los Rubenitas, Gaditas, y á la media tribu de Manasés.
 
 ## Los 31 reyes derrotados por Josué en Cisjordania
- 
 ^7^ Y estos son los reyes de la tierra que hirió Josué con los hijos de Israel, de esta parte del Jordán al occidente, desde Baal-gad en el llano del Líbano hasta el monte de Halac que sube á Seir; la cual tierra dió Josué en posesión á las tribus de Israel, conforme á sus repartimientos; 
 ^8^ En montes y en valles, en llanos y en vertientes, al desierto y al mediodía; el Hetheo, y el Amorrheo, y el Cananeo, y el Pherezeo, y el Heveo, y el Jebuseo. 
 ^9^ El rey de Jericó, uno: el rey de Hai, que está al lado de Beth-el, otro: 
@@ -535,7 +451,6 @@
 ## Enumeración de las áreas previamente no conquistadas; El mandato de Dios de distribuir
 ^1^ Y siendo Josué ya viejo, entrado en días, Jehová le dijo: Tú eres ya viejo, de edad avanzada, y queda aún muy mucha tierra por poseer.
 
- 
 ^2^ Esta es la tierra que queda: todos los términos de los Philisteos, y toda Gessuri; 
 ^3^ Desde Sihor, que está delante de Egipto, hasta el término de Accarón al norte, repútase de los Cananeos: cinco provincias de los Philisteos; los Gazeos, Asdodios, Ascalonitas, Getheos, y Accaronitas; y los Heveos; 
 ^4^ Al mediodía toda la tierra de los Cananeos, y Mehara que es de los Sidonios, hasta Aphec, hasta el término del Amorrheo; 
@@ -544,7 +459,6 @@
 ^7^ Parte, pues, tú ahora esta tierra en heredad á las nueve tribus, y á la media tribu de Manasés.
 
 ## Información general sobre la distribución de Cisjordania por Moses; adiciones posteriores
- 
 ^8^ Porque la otra media recibió su heredad con los Rubenitas y Gaditas, la cual les dió Moisés de la otra parte del Jordán al oriente, según que se la dió Moisés siervo de Jehová: 
 ^9^ Desde Aroer, que está á la orilla del arroyo de Arnón, y la ciudad que está en medio del arroyo, y toda la campiña de Medeba, hasta Dibón; 
 ^10^ Y todas las ciudades de Sehón rey de los Amorrheos, el cual reinó en Hesbón, hasta los términos de los hijos de Ammón; 
@@ -554,7 +468,6 @@
 ^14^ Empero á la tribu de Leví no dió heredad: los sacrificios de Jehová Dios de Israel son su heredad, como él les había dicho.
 
 ## Información más detallada sobre las áreas de las tribus Rubén, Gad y mitad Manasés distribuidas por Moisés
- 
 ^15^ Dió, pues, Moisés á la tribu de los hijos de Rubén conforme á sus familias: 
 ^16^ Y fué el término de ellos desde Aroer, que está á la orilla del arroyo de Arnón, y la ciudad que está en medio del arroyo, y toda la campiña, hasta Medeba; 
 ^17^ Hesbón, con todas sus villas que están en la llanura; Dibón, y Bamoth-baal, y Beth-baal-meón; 
@@ -564,22 +477,18 @@
 ^21^ Y todas las ciudades de la campiña, y todo el reino de Sehón rey de los Amorrheos, que reinó en Hesbón, al cual hirió Moisés, y á los príncipes de Madián, Hevi, Recem, y Sur, y Hur, y Reba, príncipes de Sehón que habitaban en aquella tierra. 
 ^22^ También mataron á cuchillo los hijos de Israel á Balaam adivino, hijo de Beor, con los demás que mataron.
 
- 
 ^23^ Y fueron los términos de los hijos de Rubén el Jordán con su término. Esta fué la herencia de los hijos de Rubén conforme á sus familias, estas ciudades con sus villas.
 
- 
 ^24^ Dió asimismo Moisés á la tribu de Gad, á los hijos de Gad, conforme á sus familias. 
 ^25^ Y el término de ellos fué Jacer, y todas las ciudades de Galaad, y la mitad de la tierra de los hijos de Ammón hasta Aroer, que está delante de Rabba. 
 ^26^ Y desde Hesbón hasta Ramathmispe, y Betonim; y desde Mahanaim hasta el término de Debir: 
 ^27^ Y la campiña de Beth-aram, y Beth-nimra, y Sucoth, y Saphón, resto del reino de Sehón, rey en Hesbón: el Jordán y su término hasta el cabo de la mar de Cinnereth de la otra parte del Jordán al oriente. 
 ^28^ Esta es la herencia de los hijos de Gad, por sus familias, estas ciudades con sus villas.
 
- 
 ^29^ También dió Moisés herencia á la media tribu de Manasés: y fué de la media tribu de los hijos de Manasés, conforme á sus familias. 
 ^30^ El término de ellos fué desde Mahanaim, todo Basán, todo el reino de Og rey de Basán, y todas las aldeas de Jair que están en Basán, sesenta poblaciones. 
 ^31^ Dióse además la mitad de Galaad, y Astaroth, y Edrei, ciudades del reino de Og en Basán, á los hijos de Machîr, hijo de Manasés, á la mitad de los hijos de Machîr conforme á sus familias.
 
- 
 ^32^ Esto es lo que Moisés repartió en heredad en los llanos de Moab, de la otra parte del Jordán de Jericó, al oriente. 
 ^33^ Mas á la tribu de Leví no dió Moisés heredad: Jehová Dios de Israel es la heredad de ellos como él les había dicho. 
 
@@ -592,18 +501,15 @@
 ^5^ De la manera que Jehová lo había mandado á Moisés, así lo hicieron los hijos de Israel en el repartimiento de la tierra.
 
 ## A petición suya, Kaleb recibe el distrito de Hebrón como herencia
- 
 ^6^ Y los hijos de Judá vinieron á Josué en Gilgal; y Caleb, hijo de Jephone Cenezeo, le dijo: Tú sabes lo que Jehová dijo á Moisés, varón de Dios, en Cades-barnea, tocante á mí y á ti. 
 ^7^ Yo era de edad de cuarenta años, cuando Moisés siervo de Jehová me envió de Cades-barnea á reconocer la tierra; y yo le referí el negocio como lo tenía en mi corazón: 
 ^8^ Mas mis hermanos, los que habían subido conmigo, menguaron el corazón del pueblo; empero yo cumplí siguiendo á Jehová mi Dios. 
 ^9^ Entonces Moisés juró, diciendo: Si la tierra que holló tu pie no fuere para ti, y para tus hijos en herencia perpetua: por cuanto cumpliste siguiendo á Jehová mi Dios.
 
- 
 ^10^ Ahora bien, Jehová me ha hecho vivir, como él dijo, estos cuarenta y cinco años, desde el tiempo que Jehová habló estas palabras á Moisés, cuando Israel andaba por el desierto: y ahora, he aquí, soy hoy día de ochenta y cinco años: 
 ^11^ Pero aun hoy estoy tan fuerte como el día que Moisés me envió: cual era entonces mi fuerza, tal es ahora, para la guerra, y para salir y para entrar. 
 ^12^ Dame, pues, ahora este monte, del cual habló Jehová aquel día; porque tú oiste en aquel día que los Anaceos están allí, y grandes y fuertes ciudades. Quizá Jehová será conmigo, y los echaré como Jehová ha dicho.
 
- 
 ^13^ Josué entonces le bendijo, y dió á Caleb hijo de Jephone á Hebrón por heredad. 
 ^14^ Por tanto Hebrón fué de Caleb, hijo de Jephone Cenezeo, en heredad hasta hoy; porque cumplió siguiendo á Jehová Dios de Israel. 
 ^15^ Mas Hebrón fué antes llamada Chîriath-arba; fué Arba un hombre grande entre los Anaceos. Y la tierra tuvo reposo de las guerras. 
@@ -624,7 +530,6 @@
 ^12^ El término del occidente es la mar grande. Este pues, es el término de los hijos de Judá en derredor, por sus familias.
 
 ## Posesión de Caleb y actividad exitosa
- 
 ^13^ Mas á Caleb, hijo de Jephone, dió parte entre los hijos de Judá, conforme al mandamiento de Jehová á Josué: esto es, á Chîriath-arba, del padre de Anac, que es Hebrón. 
 ^14^ Y Caleb echó de allí tres hijos de Anac, á Sesai, Aiman, y Talmai, hijos de Anac. 
 ^15^ De aquí subió á los que moraban en Debir: y el nombre de Debir era antes Chîriath-sepher. 
@@ -632,11 +537,9 @@
 ^17^ Y tomóla Othoniel, hijo de Cenez, hermano de Caleb; y él le dió por mujer á su hija Axa. 
 ^18^ Y aconteció que cuando la llevaba, él la persuadió que pidiese á su padre tierras para labrar. Ella entonces se apeó del asno. Y Caleb le dijo: ¿Qué tienes?
 
- 
 ^19^ Y ella respondió: Dame bendición: pues que me has dado tierra de secadal, dame también fuentes de aguas. El entonces le dió las fuentes de arriba, y las de abajo.
 
 ## Las ciudades de Judá
- 
 ^20^ Esta pues es la herencia de la tribu de los hijos de Judá por sus familias. 
 ^21^ Y fueron las ciudades del término de la tribu de los hijos de Judá hacia el término de Edom al mediodía: Cabseel, y Eder, y Jagur, 
 ^22^ Y Cina, y Dimona, y Adada, 
@@ -681,7 +584,6 @@
 ^61^ En el desierto, Beth-araba, Middín, y Sechâchâ, 
 ^62^ Y Nibsan, y la ciudad de la sal, y Engedi; seis ciudades con sus aldeas.
 
- 
 ^63^ Mas á los Jebuseos que habitaban en Jerusalem, los hijos de Judá no los pudieron desarraigar; antes quedó el Jebuseo en Jerusalem con los hijos de Judá, hasta hoy. 
 
 # 16 
@@ -692,7 +594,6 @@
 ^4^ Recibieron pues heredad los hijos de José, Manasés y Ephraim.
 
 ## Territorio de la tribu de Efraín
- 
 ^5^ Y fué el término de los hijos de Ephraim por sus familias, fué el término de su herencia á la parte oriental, desde Ataroth-addar hasta Beth-oron la de arriba: 
 ^6^ Y sale este término á la mar, y á Michmetat al norte, y da vuelta este término hacia el oriente á Tanath-silo, y de aquí pasa del oriente á Janoa: 
 ^7^ Y de Janoa desciende á Ataroth, y á Naaratha, y toca en Jericó, y sale al Jordán. 
@@ -706,14 +607,12 @@
 ^2^ Tuvieron también suerte los otros hijos de Manasés conforme á sus familias: los hijos de Abiezer, y los hijos de Helec, y los hijos de Esriel, y los hijos de Sichêm, y los hijos de Hepher, y los hijos de Semida; estos fueron los hijos varones de Manasés hijo de José, por sus familias.
 
 ## Las hijas de Zelofhad son herederas
- 
 ^3^ Pero Salphaad, hijo de Hepher, hijo de Galaad, hijo de Machîr, hijo de Manasés, no tuvo hijos, sino hijas, los nombres de las cuales son estos: Maala, Noa, Hogla, Milchâ, y Tirsa. 
 ^4^ Estas vinieron delante de Eleazar sacerdote, y de Josué hijo de Nun, y de los príncipes, y dijeron: Jehová mandó á Moisés que nos diese herencia entre nuestros hermanos. Y él les dió herencia entre los hermanos del padre de ellas, conforme al dicho de Jehová. 
 ^5^ Y cayeron á Manasés diez suertes á más de la tierra de Galaad y de Basán, que está de la otra parte del Jordán: 
 ^6^ Porque las hijas de Manasés poseyeron herencia entre sus hijos: y la tierra de Galaad fué de los otros hijos de Manasés.
 
 ## Fronteras y ciudades de la tribu Manasés
- 
 ^7^ Y fué el término de Manasés desde Aser hasta Michmetat, la cual está delante de Sichêm; y va este término á la mano derecha, á los que habitan en Tappua. 
 ^8^ Y la tierra de Tappua fué de Manasés; pero Tappua, que está junto al término de Manasés, es de los hijos de Ephraim. 
 ^9^ Y desciende este término al arroyo de Cana, hacia el mediodía del arroyo. Estas ciudades de Ephraim están entre las ciudades de Manasés: y el término de Manasés es desde el norte del mismo arroyo, y sus salidas son á la mar. 
@@ -721,20 +620,15 @@
 ^11^ Tuvo también Manasés en Issachâr y en Aser á Beth-san y sus aldeas, é Ibleam y sus aldeas, y los moradores de Dor y sus aldeas, y los moradores de Endor y sus aldeas, y los moradores de Taanach y sus aldeas, y los moradores de Megiddo y sus aldeas: tres provincias. 
 ^12^ Mas los hijos de Manasés no pudieron echar á los de aquellas ciudades; antes el Cananeo quiso habitar en la tierra.
 
- 
 ^13^ Empero cuando los hijos de Israel tomaron fuerzas, hicieron tributario al Cananeo, mas no lo echaron.
 
 ## Josué les dice a las tribus de José que se quejan que limpien el bosque
- 
 ^14^ Y los hijos de José hablaron á Josué, diciendo: ¿Por qué me has dado por heredad una sola suerte y una sola parte, siendo yo un pueblo tan grande y que Jehová me ha así bendecido hasta ahora?
 
- 
 ^15^ Y Josué les respondió: Si eres pueblo tan grande, sube tú al monte, y corta para ti allí en la tierra del Pherezeo y de los gigantes, pues que el monte de Ephraim es angosto para ti.
 
- 
 ^16^ Y los hijos de José dijeron: No nos bastará á nosotros este monte: y todos los Cananeos que habitan la tierra de la campiña, tienen carros herrados; los que están en Beth-san y en sus aldeas, y los que están en el valle de Jezreel.
 
- 
 ^17^ Entonces Josué respondió á la casa de José, á Ephraim y Manasés, diciendo: Tú eres gran pueblo, y tienes gran fuerza; no tendrás una sola suerte; 
 ^18^ Mas aquel monte será tuyo; que bosque es, y tú lo cortarás, y serán tuyos sus términos: porque tú echarás al Cananeo, aunque tenga carros herrados, y aunque sea fuerte. 
 
@@ -748,15 +642,12 @@
 ^6^ Vosotros, pues, delinearéis la tierra en siete partes, y me traeréis la descripción aquí, y yo os echaré las suertes aquí delante de Jehová nuestro Dios. 
 ^7^ Empero los Levitas ninguna parte tienen entre vosotros; porque el sacerdocio de Jehová es la heredad de ellos: Gad también y Rubén, y la media tribu de Manasés, ya han recibido su heredad de la otra parte del Jordán al oriente, la cual les dió Moisés siervo de Jehová.
 
- 
 ^8^ Levantándose pues aquellos varones, fueron: y mandó Josué á los que iban para delinear la tierra, diciéndoles: Id, recorred la tierra, y delineadla, y tornad á mí, para que yo os eche las suertes aquí delante de Jehová en Silo.
 
- 
 ^9^ Fueron pues aquellos varones y pasearon la tierra, delineándola por ciudades en siete partes en un libro, y tornaron á Josué al campo en Silo. 
 ^10^ Y Josué les echó las suertes delante de Jehová en Silo; y allí repartió Josué la tierra á los hijos de Israel por sus porciones.
 
 ## El territorio de la tribu de Benjamín
- 
 ^11^ Y sacóse la suerte de la tribu de los hijos de Benjamín por sus familias: y salió el término de su suerte entre los hijos de Judá y los hijos de José. 
 ^12^ Y fué el término de ellos al lado del norte desde el Jordán: y sube aquel término al lado de Jericó al norte; sube después al monte hacia el occidente, y viene á salir al desierto de Beth-aven: 
 ^13^ Y de allí pasa aquel término á Luz, por el lado de Luz (esta es Beth-el) hacia el mediodía. Y desciende este término de Ataroth-addar al monte que está al mediodía de Beth-oron la de abajo. 
@@ -789,7 +680,6 @@
 ^9^ De la suerte de los hijos de Judá fué sacada la heredad de los hijos de Simeón; por cuanto la parte de los hijos de Judá era excesiva para ellos: así que los hijos de Simeón tuvieron su heredad en medio de la de ellos.
 
 ## El territorio de la tribu Zabulón
- 
 ^10^ La tercera suerte salió por los hijos de Zabulón conforme á sus familias: y el término de su heredad fué hasta Sarid. 
 ^11^ Y su término sube hasta la mar y hasta Merala, y llega hasta Dabbe-seth, y de allí llega al arroyo que está delante de Jocneam; 
 ^12^ Y tornando de Sarid hacia oriente, donde nace el sol al término de Chisiloth-tabor, sale á Dabrath, y sube á Japhia; 
@@ -799,7 +689,6 @@
 ^16^ Esta es la heredad de los hijos de Zabulón por sus familias; estas ciudades con sus aldeas.
 
 ## El territorio de la tribu Isacar
- 
 ^17^ La cuarta suerte salió por Issachâr, por los hijos de Issachâr conforme á sus familias. 
 ^18^ Y fué su término Izreel, y Chesullot, y Sunem, 
 ^19^ Y Hapharaim, y Sión, y Anaarath, 
@@ -809,7 +698,6 @@
 ^23^ Esta es la heredad de la tribu de los hijos de Issachâr conforme á sus familias; estas ciudades con sus aldeas.
 
 ## El territorio de la tribu Asser
- 
 ^24^ Y salió la quinta suerte por la tribu de los hijos de Aser por sus familias. 
 ^25^ Y su término fué Helchât, y Halí, y Betén, y Axaph, 
 ^26^ Y Alammelec, y Amead, y Miseal; y llega hasta Carmel al occidente, y á Sihor-libnath; 
@@ -820,7 +708,6 @@
 ^31^ Esta es la heredad de la tribu de los hijos de Aser por sus familias; estas ciudades con sus aldeas.
 
 ## El territorio de la tribu Naftalí
- 
 ^32^ La sexta suerte salió por los hijos de Nephtalí, por los hijos de Nephtalí conforme á sus familias. 
 ^33^ Y fué su término desde Heleph, y Allón-saananim, y Adami-neceb, y Jabneel, hasta Lacum; y sale al Jordán; 
 ^34^ Y tornando de allí este término hacia el occidente á Aznot-tabor, pasa de allí á Hucuca, y llega hasta Zabulón al mediodía, y al occidente confina con Aser, y con Judá al Jordán hacia donde nace el sol. 
@@ -831,7 +718,6 @@
 ^39^ Esta es la heredad de la tribu de los hijos de Nephtalí por sus familias; estas ciudades con sus aldeas.
 
 ## El territorio de la tribu Dan
- 
 ^40^ La séptima suerte salió por la tribu de los hijos de Dan por sus familias. 
 ^41^ Y fué el término de su heredad, Sora, y Estaol, é Ir-semes, 
 ^42^ Y Saalabín, y Ailón, y Jeth-la, 
@@ -843,7 +729,6 @@
 ^48^ Esta es la heredad de la tribu de los hijos de Dan conforme á sus familias; estas ciudades con sus aldeas.
 
 ## La propiedad de Joshua; Finalización del informe
- 
 ^49^ Y después que acabaron de repartir la tierra en heredad por sus términos, dieron los hijos de Israel heredad á Josué hijo de Nun en medio de ellos: 
 ^50^ Según la palabra de Jehová, le dieron la ciudad que él pidió, Timnath-sera, en el monte de Ephraim; y él reedificó la ciudad, y habitó en ella. 
 ^51^ Estas son las heredades que Eleazar sacerdote, y Josué hijo de Nun, y los principales de los padres, entregaron por suerte en posesión á las tribus de los hijos de Israel en Silo delante de Jehová, á la entrada del tabernáculo del testimonio; y acabaron de repartir la tierra. 
@@ -858,7 +743,6 @@
 ^6^ Y quedará en aquella ciudad hasta que parezca en juicio delante del ayuntamiento, hasta la muerte del gran sacerdote que fuere en aquel tiempo: entonces el homicida tornará y vendrá á su ciudad y á su casa y á la ciudad de donde huyó.
 
 ## Ejecución del mandato
- 
 ^7^ Entonces señalaron á Cedes en Galilea, en el monte de Nephtalí, y á Sichêm en el monte de Ephraim, y á Chîriath-arba, que es Hebrón, en el monte de Judá. 
 ^8^ Y de la otra parte del Jordán de Jericó, al oriente, señalaron á Beser en el desierto, en la llanura de la tribu de Rubén, y á Ramoth en Galaad de la tribu de Gad, y á Gaulón en Basán de la tribu de Manasés. 
 ^9^ Estas fueron las ciudades señaladas para todos los hijos de Israel, y para el extranjero que morase entre ellos, para que se acogiese á ellas cualquiera que hiriese hombre por yerro, y no muriese por mano del cercano del muerto, hasta que compareciese delante del ayuntamiento. 
@@ -868,7 +752,6 @@
 ^1^ Y los principales de los padres de los Levitas vinieron á Eleazar sacerdote, y á Josué hijo de Nun, y á los principales de los padres de las tribus de los hijos de Israel; 
 ^2^ Y habláronles en Silo en la tierra de Canaán, diciendo: Jehová mandó por Moisés que nos fuesen dadas villas para habitar, con sus ejidos para nuestras bestias.
 
- 
 ^3^ Entonces los hijos de Israel dieron á los Levitas de sus posesiones, conforme á la palabra de Jehová, estas villas con sus ejidos. 
 ^4^ Y salió la suerte por las familias de los Coathitas; y fueron dadas por suerte á los hijos de Aarón sacerdote, que eran de los Levitas, por la tribu de Judá, por la de Simeón y por la de Benjamín, trece villas. 
 ^5^ Y á los otros hijos de Coath se dieron por suerte diez villas de las familias de la tribu de Ephraim, y de la tribu de Dan, y de la media tribu de Manasés; 
@@ -887,7 +770,6 @@
 ^18^ A Anathoth con sus ejidos, á Almón con sus ejidos: cuatro villas. 
 ^19^ Todas las villas de los sacerdotes, hijos de Aarón, son trece con sus ejidos.
 
- 
 ^20^ Mas las familias de los hijos de Coath, Levitas, los que quedaban de los hijos de Coath, recibieron por suerte villas de la tribu de Ephraim. 
 ^21^ Y diéronles á Sichêm, villa de refugio para los homicidas, con sus ejidos, en el monte de Ephraim; y á Geser con sus ejidos, 
 ^22^ Y á Kibsaim con sus ejidos, y á Beth-oron con sus ejidos: cuatro villas: 
@@ -896,7 +778,6 @@
 ^25^ Y de la media tribu de Manasés, á Taanach con sus ejidos, y á Gath-rimmón con sus ejidos: dos villas. 
 ^26^ Todas las villas para el resto de las familias de los hijos de Coath fueron diez con sus ejidos.
 
- 
 ^27^ A los hijos de Gersón de las familias de los Levitas, dieron la villa de refugio para los homicidas, de la media tribu de Manasés: á Gaulón en Basán con sus ejidos, y á Bosra con sus ejidos: dos villas. 
 ^28^ Y de la tribu de Issachâr, á Cesión con sus ejidos, á Dabereth con sus ejidos, 
 ^29^ A Jarmuth con sus ejidos, y á En-gannim con sus ejidos: cuatro villas: 
@@ -905,7 +786,6 @@
 ^32^ Y de la tribu de Nephtalí, la villa de refugio para los homicidas, á Cedes en Galilea con sus ejidos, á Hammoth-dor con sus ejidos, y á Cartán con sus ejidos: tres villas: 
 ^33^ Todas las villas de los Gersonitas por sus familias fueron trece villas con sus ejidos.
 
- 
 ^34^ Y á las familias de los hijos de Merari, Levitas que quedaban, dióseles de la tribu de Zabulón, á Jocneam con sus ejidos, Cartha con sus ejidos, 
 ^35^ Dimna con sus ejidos, Naalal con sus ejidos: cuatro villas: 
 ^36^ Y de la tribu de Rubén, á Beser con sus ejidos, á Jasa con sus ejidos, 
@@ -914,12 +794,10 @@
 ^39^ Hesbón con sus ejidos, y Jacer con sus ejidos: cuatro villas. 
 ^40^ Todas las villas de los hijos de Merari por sus familias, que restaban de las familias de los Levitas, fueron por sus suertes doce villas.
 
- 
 ^41^ Y todas la villas de los Levitas en medio de la posesión de los hijos de Israel, fueron cuarenta y ocho villas con sus ejidos. 
 ^42^ Y estas ciudades estaban apartadas la una de la otra cada cual con sus ejidos alrededor de ellas: lo cual fué en todas estas ciudades.
 
 ## Revisión final
- 
 ^43^ Así dió Jehová á Israel toda la tierra que había jurado dar á sus padres; y poseyéronla, y habitaron en ella. 
 ^44^ Y Jehová les dió reposo alrededor, conforme á todo lo que había jurado á sus padres: y ninguno de todos los enemigos les paró delante, sino que Jehová entregó en sus manos á todos sus enemigos. 
 ^45^ No faltó palabra de todas la buenas que habló Jehová á la casa de Israel; todo se cumplió. 
@@ -932,13 +810,11 @@
 ^4^ Ahora pues que Jehová vuestro Dios ha dado reposo á vuestros hermanos, como se lo había prometido, volved, y tornad á vuestras tiendas, á la tierra de vuestras posesiones, que Moisés siervo de Jehová os dió de la otra parte del Jordán. 
 ^5^ Solamente que con diligencia cuidéis de poner por obra el mandamiento y la ley, que Moisés siervo de Jehová os intimó: que améis á Jehová vuestro Dios, y andéis en todos sus caminos; que guardéis sus mandamientos, y os alleguéis á él, y le sirváis de todo vuestro corazón y de toda vuestra alma.
 
- 
 ^6^ Y bendiciéndolos Josué, los envió: y fuéronse á sus tiendas. 
 ^7^ También á la media tribu de Manasés había dado Moisés posesión en Basán; mas á la otra media dió Josué heredad entre sus hermanos de estotra parte del Jordán al occidente: y también á éstos envió Josué á sus tiendas, después de haberlos bendecido. 
 ^8^ Y hablóles, diciendo: Volveos á vuestras tiendas con grandes riquezas, y con grande copia de ganado, con plata, y con oro, y metal, y muchos vestidos: partid con vuestros hermanos el despojo de vuestros enemigos.
 
 ## La construcción del altar de las tribus Cisjordanias en Gilgal y sus malvadas consecuencias; Discurso del sacerdote Phinees
- 
 ^9^ Y los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, se tornaron, y partiéronse de los hijos de Israel, de Silo, que está en la tierra de Canaán, para ir á la tierra de Galaad, á la tierra de sus posesiones, de la cual eran poseedores, según la palabra de Jehová por mano de Moisés. 
 ^10^ Y llegando á los términos del Jordán, que está en la tierra de Canaán, los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, edificaron allí un altar junto al Jordán, un altar de grande apariencia. 
 ^11^ Y los hijos de Israel oyeron decir como los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, habían edificado un altar delante de la tierra de Canaán, en los términos del Jordán, al paso de los hijos de Israel: 
@@ -953,26 +829,20 @@
 ^20^ ¿No cometió Achân, hijo de Zera, prevaricación en el anatema, y vino ira sobre toda la congregación de Israel? y aquel hombre no pereció solo en su iniquidad.
 
 ## Las tribus de Cisjordania se justifican con éxito
- 
 ^21^ Entonces los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, respondieron y dijeron á los principales de la multitud de Israel: 
 ^22^ El Dios de los dioses, Jehová, el Dios de los dioses, Jehová, él sabe, y sabrá Israel: si por rebelión ó por prevaricación contra Jehová (no nos salves hoy,) 
 ^23^ Nos hemos edificado altar para tornarnos de en pos de Jehová, ó para sacrificar holocausto ó presente, ó para hacer sobre él sacrificios pacíficos, el mismo Jehová nos lo demande.
 
- 
 ^24^ Asimismo, si no lo hicimos por temor de esto, diciendo: Mañana vuestros hijos dirán á nuestros hijos: ¿Qué tenéis vosotros con Jehová el Dios de Israel?; 
 ^25^ Jehová ha puesto por término el Jordán entre nosotros y vosotros, oh hijos de Rubén é hijos de Gad; no tenéis vosotros parte en Jehová: y así vuestros hijos harán que nuestros hijos no teman á Jehová.
 
- 
 ^26^ Por esto dijimos: Hagamos ahora por edificarnos un altar, no para holocausto ni para sacrificio, 
 ^27^ Sino para que sea un testimonio entre nosotros y vosotros, y entre los que vendrán después de nosotros, de que podemos hacer el servicio de Jehová delante de él con nuestros holocaustos, con nuestros sacrificios, y con nuestros pacíficos; y no digan mañana vuestros hijos á los nuestros: Vosotros no tenéis parte en Jehová.
 
- 
 ^28^ Nosotros, pues, dijimos: Si aconteciere que tal digan á nosotros, ó á nuestras generaciones en lo por venir, entonces responderemos: Mirad el símil del altar de Jehová, el cual hicieron nuestros padres, no para holocaustos ó sacrificios, sino para que fuese testimonio entre nosotros y vosotros.
 
- 
 ^29^ Nunca tal acontezca que nos rebelemos contra Jehová, ó que nos apartemos hoy de seguir á Jehová, edificando altar para holocaustos, para presente, ó para sacrificio, á más del altar de Jehová nuestro Dios que está delante de su tabernáculo.
 
- 
 ^30^ Y oyendo Phinees el sacerdote y los príncipes de la congregación, y las cabezas de la multitud de Israel que con él estaban, las palabras que hablaron los hijos de Rubén y los hijos de Gad y los hijos de Manasés, fueron contentos de ello. 
 ^31^ Y dijo Phinees hijo del sacerdote Eleazar, á los hijos de Rubén, á los hijos de Gad, y á los hijos de Manasés: Hoy hemos entendido que Jehová está entre nosotros, pues que no habéis intentado esta traición contra Jehová. Ahora habéis librado á los hijos de Israel de la mano de Jehová. 
 ^32^ Y Phinees hijo del sacerdote Eleazar, y los príncipes, volviéronse de con los hijos de Rubén, y de con los hijos de Gad, de la tierra de Galaad á la tierra de Canaán, á los hijos de Israel: á los cuales dieron la respuesta. 
@@ -987,21 +857,17 @@
 ^4^ He aquí os he repartido por suerte, en herencia para vuestras tribus, estas gentes, así las destruídas como las que quedan, desde el Jordán hasta la gran mar hacia donde el sol se pone. 
 ^5^ Y Jehová vuestro Dios las echará de delante de vosotros, y las lanzará de vuestra presencia: y vosotros poseeréis sus tierras, como Jehová vuestro Dios os ha dicho.
 
- 
 ^6^ Esforzaos pues mucho á guardar y hacer todo lo que está escrito en el libro de la ley de Moisés, sin apartaros de ello ni á la diestra ni á la siniestra; 
 ^7^ Que cuando entrareis á estas gentes que han quedado con vosotros, no hagáis mención ni juréis por el nombre de sus dioses, ni los sirváis, ni os inclinéis á ellos: 
 ^8^ Mas á Jehová vuestro Dios os allegaréis, como habéis hecho hasta hoy;
 
- 
 ^9^ Pues ha echado Jehová delante de vosotros grandes y fuertes naciones, y hasta hoy nadie ha podido parar delante de vuestro rostro. 
 ^10^ Un varón de vosotros perseguirá á mil: porque Jehová vuestro Dios pelea por vosotros, como él os dijo. 
 ^11^ Por tanto, cuidad mucho por vuestras almas, que améis á Jehová vuestro Dios.
 
- 
 ^12^ Porque si os apartareis, y os allegareis á lo que resta de aquestas gentes que han quedado con vosotros, y si concertareis con ellas matrimonios, y entrareis á ellas, y ellas á vosotros; 
 ^13^ Sabed que Jehová vuestro Dios no echará más estas gentes delante de vosotros; antes os serán por lazo, y por tropiezo, y por azote para vuestros costados, y por espinas para vuestros ojos, hasta tanto que perezcáis de aquesta buena tierra que Jehová vuestro Dios os ha dado.
 
- 
 ^14^ Y he aquí que yo estoy para entrar hoy por el camino de toda la tierra: reconoced, pues, con todo vuestro corazón y con toda vuestra alma, que no se ha perdido una palabra de todas la buenas palabras que Jehová vuestro Dios había dicho de vosotros: todas os han venido, no se ha perdido de ellas ni una. 
 ^15^ Mas será, que como ha venido sobre vosotros toda palabra buena que Jehová vuestro Dios os había dicho, así también traerá Jehová sobre vosotros toda palabra mala, hasta destruiros de sobre la buena tierra que Jehová vuestro Dios os ha dado; 
 ^16^ Cuando traspasareis el pacto de Jehová vuestro Dios que él os ha mandado, yendo y honrando dioses ajenos, é inclinándoos á ellos. Y el furor de Jehová se inflamará contra vosotros, y luego pereceréis de aquesta buena tierra que él os ha dado. 
@@ -1013,53 +879,42 @@
 ^3^ Y yo tomé á vuestro padre Abraham de la otra parte del río, y trájelo por toda la tierra de Canaán, y aumenté su generación, y díle á Isaac. 
 ^4^ Y á Isaac dí á Jacob y á Esaú: y á Esaú dí el monte de Seir, que lo poseyese: mas Jacob y sus hijos descendieron á Egipto.
 
- 
 ^5^ Y yo envié á Moisés y á Aarón, y herí á Egipto, al modo que lo hice en medio de él, y después os saqué. 
 ^6^ Y saqué á vuestros padres de Egipto: y como llegaron á la mar, los Egipcios siguieron á vuestros padres hasta el mar Bermejo con carros y caballería. 
 ^7^ Y como ellos clamasen á Jehová, él puso oscuridad entre vosotros y los Egipcios, é hizo venir sobre ellos la mar, la cual los cubrió: y vuestros ojos vieron lo que hice en Egipto. Después estuvisteis muchos días en el desierto.
 
- 
 ^8^ Y os introduje en la tierra de los Amorrheos, que habitaban de la otra parte del Jordán, los cuales pelearon contra vosotros; mas yo los entregué en vuestras manos, y poseísteis su tierra, y los destruí de delante de vosotros. 
 ^9^ Y levantóse después Balac hijo de Sephor, rey de los Moabitas, y peleó contra Israel; y envió á llamar á Balaam hijo de Beor, para que os maldijese. 
 ^10^ Mas yo no quise escuchar á Balaam, antes os bendijo repetidamente, y os libré de sus manos.
 
- 
 ^11^ Y pasado el Jordán, vinisteis á Jericó; y los moradores de Jericó pelearon contra vosotros: los Amorrheos, Pherezeos, Cananeos, Hetheos, Gergeseos, Heveos, y Jebuseos: y yo los entregué en vuestras manos. 
 ^12^ Y envié tábanos delante de vosotros, los cuales los echaron de delante de vosotros, á saber, á los dos reyes de los Amorrheos; no con tu espada, ni con tu arco. 
 ^13^ Y os dí la tierra por la cual nada trabajasteis, y las ciudades que no edificasteis, en las cuales moráis; y de las viñas y olivares que no plantasteis, coméis.
 
- 
 ^14^ Ahora pues, temed á Jehová, y servidle con integridad y en verdad; y quitad de en medio los dioses á los cuales sirvieron vuestros padres de esotra parte del río, y en Egipto; y servid á Jehová. 
 ^15^ Y si mal os parece servir á Jehová, escogeos hoy á quién sirváis; si á los dioses á quienes sirvieron vuestros padres, cuando estuvieron de esotra parte del río, ó á los dioses de los Amorrheos en cuya tierra habitáis: que yo y mi casa serviremos á Jehová.
 
 ## El pueblo promete obediencia leal y Josué se compromete de nuevo solemnemente con Dios
- 
 ^16^ Entonces el pueblo respondió, y dijo: Nunca tal acontezca, que dejemos á Jehová por servir á otros dioses: 
 ^17^ Porque Jehová nuestro Dios es el que nos sacó á nosotros y á nuestros padres de la tierra de Egipto, de la casa de servidumbre; el cual delante de nuestros ojos ha hecho estas grandes señales, y nos ha guardado por todo el camino por donde hemos andado, y en todos los pueblos por entre los cuales pasamos. 
 ^18^ Y Jehová echó de delante de nosotros á todos los pueblos, y al Amorrheo que habitaba en la tierra: nosotros, pues, también serviremos á Jehová, porque él es nuestro Dios.
 
- 
 ^19^ Entonces Josué dijo al pueblo: No podréis servir á Jehová, porque él es Dios santo, y Dios celoso; no sufrirá vuestras rebeliones y vuestros pecados. 
 ^20^ Si dejareis á Jehová y sirviereis á dioses ajenos, se volverá, y os maltratará, y os consumirá, después que os ha hecho bien.
 
- 
 ^21^ El pueblo entonces dijo á Josué: No, antes á Jehová serviremos. 
 ^22^ Y Josué respondió al pueblo: Vosotros sois testigos contra vosotros mismos, de que os habéis elegido á Jehová para servirle. Y ellos respondieron: Testigos somos.
 
- 
 ^23^ Quitad, pues, ahora los dioses ajenos que están entre vosotros, é inclinad vuestro corazón á Jehová Dios de Israel.
 
- 
 ^24^ Y el pueblo respondió á Josué: A Jehová nuestro Dios serviremos, y á su voz obedeceremos.
 
- 
 ^25^ Entonces Josué hizo alianza con el pueblo el mismo día, y púsole ordenanzas y leyes en Sichêm. 
 ^26^ Y escribió Josué estas palabras en el libro de la ley de Dios; y tomando una grande piedra, levantóla allí debajo de un alcornoque que estaba junto al santuario de Jehová. 
 ^27^ Y dijo Josué á todo el pueblo: He aquí esta piedra será entre nosotros por testigo, la cual ha oído todas las palabras de Jehová que él ha hablado con nosotros: será, pues, testigo contra vosotros, porque no mintáis contra vuestro Dios. 
 ^28^ Y envió Josué al pueblo, cada uno á su heredad.
 
 ## La muerte y el entierro de Josué; Entierro de los huesos de José; Muerte de Eleazar
- 
 ^29^ Y después de estas cosas murió Josué, hijo de Nun, siervo de Jehová, siendo de ciento y diez años. 
 ^30^ Y enterráronlo en el término de su posesión en Timnath-sera, que está en el monte de Ephraim, al norte del monte de Gaas. 
 ^31^ Y sirvió Israel á Jehová todo el tiempo de Josué, y todo el tiempo de los ancianos que vivieron después de Josué, y que sabían todas las obras de Jehová, que había hecho por Israel. 

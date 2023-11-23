@@ -3,29 +3,24 @@
 ^1^ Jacobo, siervo de Dios y del Señor Jesucristo, á las doce tribus que están esparcidas, salud.
 
 ## Comportamiento correcto en las tentaciones; Recordatorio de la disposición correcta
- 
 ^2^ Hermanos míos, tened por sumo gozo cuando cayereis en diversas tentaciones; 
 ^3^ Sabiendo que la prueba de vuestra fe obra paciencia. 
 ^4^ Mas tenga la paciencia perfecta su obra, para que seáis perfectos y cabales, sin faltar en alguna cosa.
 
 ## Recordatorio para perseverar pidiendo sabiduría
- 
 ^5^ Y si alguno de vosotros tiene falta de sabiduría, demándela á Dios, el cual da á todos abundantemente, y no zahiere; y le será dada. 
 ^6^ Pero pida en fe, no dudando nada: porque el que duda es semejante á la onda de la mar, que es movida del viento, y echada de una parte á otra. 
 ^7^ No piense pues el tal hombre que recibirá ninguna cosa del Señor. 
 ^8^ El hombre de doblado ánimo es inconstante en todos sus caminos.
 
 ## La actitud correcta hacia la pobreza y la riqueza; Bendición de la libertad condicional
- 
 ^9^ El hermano que es de baja suerte, gloríese en su alteza: 
 ^10^ Mas el que es rico, en su bajeza; porque él se pasará como la flor de la hierba. 
 ^11^ Porque salido el sol con ardor, la hierba se secó, y su flor se cayó, y pereció su hermosa apariencia: así también se marchitará el rico en todos sus caminos.
 
- 
 ^12^ Bienaventurado el varón que sufre la tentación; porque cuando fuere probado, recibirá la corona de vida, que Dios ha prometido á los que le aman.
 
 ## Las tentaciones al mal provienen de la propia lujuria, no de Dios, la fuente de todo bien
- 
 ^13^ Cuando alguno es tentado, no diga que es tentado de Dios: porque Dios no puede ser tentado de los malos, ni él tienta á alguno: 
 ^14^ Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado. 
 ^15^ Y la concupiscencia, después que ha concebido, pare el pecado: y el pecado, siendo cumplido, engendra muerte. 
@@ -34,19 +29,16 @@
 ^18^ El, de su voluntad nos ha engendrado por la palabra de verdad, para que seamos primicias de sus criaturas.
 
 ## Sea no solo un oyente, sino también un hacedor de la palabra
- 
 ^19^ Por esto, mis amados hermanos, todo hombre sea pronto para oir, tardío para hablar, tardío para airarse: 
 ^20^ Porque la ira del hombre no obra la justicia de Dios. 
 ^21^ Por lo cual, dejando toda inmundicia y superfluidad de malicia, recibid con mansedumbre la palabra ingerida, la cual puede hacer salvas vuestras almas.
 
- 
 ^22^ Mas sed hacedores de la palabra, y no tan solamente oidores, engañándoos á vosotros mismos. 
 ^23^ Porque si alguno oye la palabra, y no la pone por obra, este tal es semejante al hombre que considera en un espejo su rostro natural. 
 ^24^ Porque él se consideró á sí mismo, y se fué, y luego se olvidó qué tal era. 
 ^25^ Mas el que hubiere mirado atentamente en la perfecta ley, que es la de la libertad, y perseverado en ella, no siendo oidor olvidadizo, sino hacedor de la obra, este tal será bienaventurado en su hecho.
 
 ## Algunos ejemplos de cómo hacer los trabajos correctos
- 
 ^26^ Si alguno piensa ser religioso entre vosotros, y no refrena su lengua, sino engañando su corazón, la religión del tal es vana. 
 ^27^ La religión pura y sin mácula delante de Dios y Padre es esta: Visitar los huérfanos y las viudas en sus tribulaciones, y guardarse sin mancha de este mundo. 
 
@@ -61,7 +53,6 @@
 ^7^ ¿No blasfeman ellos el buen nombre que fué invocado sobre vosotros?
 
 ## El cumplimiento de la ley mosaica debe ser uniforme, es decir, sin excepción
- 
 ^8^ Si en verdad cumplís vosotros la ley real, conforme á la Escritura: Amarás á tu prójimo como á ti mismo, bien hacéis: 
 ^9^ Mas si hacéis acepción de personas, cometéis pecado, y sois reconvenidos de la ley como transgresores. 
 ^10^ Porque cualquiera que hubiere guardado toda la ley, y ofendiere en un punto, es hecho culpado de todos. 
@@ -70,19 +61,16 @@
 ^13^ Porque juicio sin misericordia será hecho con aquel que no hiciere misericordia: y la misericordia se gloría contra el juicio.
 
 ## La fe sin obras está muerta e inútil; la verdadera fe se muestra en la abnegación y en las buenas obras
- 
 ^14^ Hermanos míos, ¿qué aprovechará si alguno dice que tiene fe, y no tiene obras? ¿Podrá la fe salvarle? 
 ^15^ Y si el hermano ó la hermana están desnudos, y tienen necesidad del mantenimiento de cada día, 
 ^16^ Y alguno de vosotros les dice: Id en paz, calentaos y hartaos; pero no les diereis las cosas que son necesarias para el cuerpo: ¿qué aprovechará? 
 ^17^ Así también la fe, si no tuviere obras, es muerta en sí misma. 
 ^18^ Pero alguno dirá: Tú tienes fe, y yo tengo obras: muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras.
 
- 
 ^19^ Tú crees que Dios es uno; bien haces: también los demonios creen, y tiemblan. 
 ^20^ ¿Mas quieres saber, hombre vano, que la fe sin obras es muerta?
 
 ## Dos ejemplos del Antiguo Testamento como evidencia bíblica de las obras que conducen a la consumación de la fe
- 
 ^21^ ¿No fué justificado por las obras Abraham nuestro padre, cuando ofreció á su hijo Isaac sobre el altar? 
 ^22^ ¿No ves que la fe obró con sus obras, y que la fe fué perfecta por las obras? 
 ^23^ Y fué cumplida la Escritura que dice: Abraham creyó á Dios, y le fué imputado á justicia, y fué llamado amigo de Dios. 
@@ -106,7 +94,6 @@
 ^12^ Hermanos míos, ¿puede la higuera producir aceitunas, ó la vid higos? Así ninguna fuente puede hacer agua salada y dulce.
 
 ## De la sabiduría falsa, espiritual-terrenal y verdadera, espiritual-celestial
- 
 ^13^ ¿Quién es sabio y avisado entre vosotros? muestre por buena conversación sus obras en mansedumbre de sabiduría. 
 ^14^ Pero si tenéis envidia amarga y contención en vuestros corazones, no os gloriéis, ni seáis mentirosos contra la verdad: 
 ^15^ Que esta sabiduría no es la que desciende de lo alto, sino terrena, animal, diabólica. 
@@ -127,12 +114,10 @@
 ^9^ Afligíos, y lamentad, y llorad. Vuestra risa se convierta en lloro, y vuestro gozo en tristeza. 
 ^10^ Humillaos delante del Señor, y él os ensalzará.
 
- 
 ^11^ Hermanos, no murmuréis los unos de los otros. El que murmura del hermano, y juzga á su hermano, este tal murmura de la ley, y juzga á la ley; pero si tú juzgas á la ley, no eres guardador de la ley, sino juez. 
 ^12^ Uno es el dador de la ley, que puede salvar y perder: ¿quién eres tú que juzgas á otro?
 
 ## Contra la autoconfianza medida en las empresas
- 
 ^13^ Ea ahora, los que decís: Hoy y mañana iremos á tal ciudad, y estaremos allá un año, y compraremos mercadería, y ganaremos: 
 ^14^ Y no sabéis lo que será mañana. Porque ¿qué es vuestra vida? Ciertamente es un vapor que se aparece por un poco de tiempo, y luego se desvanece. 
 ^15^ En lugar de lo cual deberíais decir: Si el Señor quisiere, y si viviéremos, haremos esto ó aquello. 
@@ -149,20 +134,16 @@
 ^6^ Habéis condenado y muerto al justo; y él no os resiste.
 
 ## Exhortación a los creyentes a perseverar con paciencia en vista del inminente regreso del Señor
- 
 ^7^ Pues, hermanos, tened paciencia hasta la venida del Señor. Mirad cómo el labrador espera el precioso fruto de la tierra, aguardando con paciencia, hasta que reciba la lluvia temprana y tardía. 
 ^8^ Tened también vosotros paciencia; confirmad vuestros corazones: porque la venida del Señor se acerca.
 
- 
 ^9^ Hermanos, no os quejéis unos contra otros, porque no seáis condenados; he aquí, el juez está delante de la puerta. 
 ^10^ Hermanos míos, tomad por ejemplo de aflicción y de paciencia, á los profetas que hablaron en nombre del Señor. 
 ^11^ He aquí, tenemos por bienaventurados á los que sufren. Habéis oído la paciencia de Job, y habéis visto el fin del Señor, que el Señor es muy misericordioso y piadoso.
 
 ## Advertencias finales sobre el juramento y la oración, sobre el comportamiento hacia la alegría y el dolor, en la enfermedad y contra los descarriados
- 
 ^12^ Mas sobre todo, hermanos míos, no juréis, ni por el cielo, ni por la tierra, ni por otro cualquier juramento; sino vuestro sí sea sí, y vuestro no sea no; porque no caigáis en condenación.
 
- 
 ^13^ ¿Está alguno entre vosotros afligido? haga oración. ¿Está alguno alegre? cante salmos. 
 ^14^ ¿Está alguno enfermo entre vosotros? llame á los ancianos de la iglesia, y oren por él, ungiéndole con aceite en el nombre del Señor. 
 ^15^ Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si estuviere en pecados, le serán perdonados. 
@@ -170,6 +151,5 @@
 ^17^ Elías era hombre sujeto á semejantes pasiones que nosotros, y rogó con oración que no lloviese, y no llovió sobre la tierra en tres años y seis meses. 
 ^18^ Y otra vez oró, y el cielo dió lluvia, y la tierra produjo su fruto.
 
- 
 ^19^ Hermanos, si alguno de entre vosotros ha errado de la verdad, y alguno le convirtiere, 
 ^20^ Sepa que el que hubiere hecho convertir al pecador del error de su camino, salvará un alma de muerte, y cubrirá multitud de pecados. 

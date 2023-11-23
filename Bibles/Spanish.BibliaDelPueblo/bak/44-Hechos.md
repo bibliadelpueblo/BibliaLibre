@@ -41,24 +41,20 @@
 
 ^5^ Moraban entonces en Jerusalem Judíos, varones religiosos, de todas las naciones debajo del cielo. ^^ ^6^ Y hecho este estruendo, juntóse la multitud; y estaban confusos, porque cada uno les oía hablar su propia lengua. ^7^ Y estaban atónitos y maravillados, diciendo: He aquí ¿no son Galileos todos estos que hablan? ^8^ ¿Cómo, pues, les oímos nosotros hablar cada uno en nuestra lengua en que somos nacidos? ^9^ Partos y Medos, y Elamitas, y los que habitamos en Mesopotamia, en Judea y en Capadocia, en el Ponto y en Asia, ^10^ En Phrygia y Pamphylia, en Egipto y en las partes de Africa que está de la otra parte de Cirene, y Romanos extranjeros, tanto Judíos como convertidos, ^11^ Cretenses y Arabes, les oímos hablar en nuestras lenguas las maravillas de Dios. ^12^ Y estaban todos atónitos y perplejos, diciendo los unos á los otros: ¿Qué quiere ser esto? ^13^ Mas otros burlándose, decían: Que están llenos de mosto. 
 
-
 ^[**2:5** Hech 13,26]
 
 ## Explicación del milagro de Pentecostés como el cumplimiento de la antigua palabra profética de Joel
 ^14^ Entonces Pedro, poniéndose en pie con los once, alzó su voz, y hablóles diciendo: Varones Judíos, y todos los que habitáis en Jerusalem, esto os sea notorio, y oid mis palabras. ^15^ Porque éstos no están borrachos, como vosotros pensáis, siendo la hora tercia del día; ^16^ Mas esto es lo que fué dicho por el profeta Joel: ^17^ Y será en los postreros días, dice Dios, derramaré de mi Espíritu sobre toda carne, y vuestros hijos y vuestras hijas profetizarán; y vuestros mancebos verán visiones, y vuestros viejos soñarán sueños: ^18^ Y de cierto sobre mis siervos y sobre mis siervas en aquellos días derramaré de mi Espíritu, y profetizarán. ^19^ Y daré prodigios arriba en el cielo, y señales abajo en la tierra, sangre y fuego y vapor de humo: ^20^ El sol se volverá en tinieblas, y la luna en sangre, antes que venga el día del Señor, grande y manifiesto; ^21^ Y será que todo aquel que invocare el nombre del Señor, será salvo. 
 
 
-
 ## Jesús, crucificado, resucitado y exaltado por Dios, tiene las dos palabras de David
 ^22^ Varones Israelitas, oid estas palabras: Jesús Nazareno, varón aprobado de Dios entre vosotros en maravillas y prodigios y señales, que Dios hizo por él en medio de vosotros, como también vosotros sabéis; ^23^ A éste, entregado por determinado consejo y providencia de Dios, prendisteis y matasteis por manos de los inicuos, crucificándole; ^24^ Al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible ser detenido de ella. ^25^ Porque David dice de él: Veía al Señor siempre delante de mí: porque está á mi diestra, no seré conmovido. ^26^ Por lo cual mi corazón se alegró, y gozóse mi lengua; y aun mi carne descansará en esperanza; ^27^ Que no dejarás mi alma en el infierno, ni darás á tu Santo que vea corrupción. ^28^ Hicísteme notorios los caminos de la vida; me henchirás de gozo con tu presencia. 
-
 
 ^29^ Varones hermanos, se os puede libremente decir del patriarca David, que murió, y fué sepultado, y su sepulcro está con nosotros hasta del día de hoy. ^^ ^30^ Empero siendo profeta, y sabiendo que con juramento le había Dios jurado que del fruto de su lomo, cuanto á la carne, levantaría al Cristo que se sentaría sobre su trono; ^^ ^31^ Viéndolo antes, habló de la resurrección de Cristo, que su alma no fué dejada en el infierno, ni su carne vió corrupción. ^32^ A este Jesús resucitó Dios, de lo cual todos nosotros somos testigos. ^33^ Así que, levantado por la diestra de Dios, y recibiendo del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís. ^^ ^34^ Porque David no subió á los cielos; empero él dice: Dijo el Señor á mi Señor: Siéntate á mi diestra, ^35^ Hasta que ponga á tus enemigos por estrado de tus pies. 
 
 ^[**2:29** 1Re 2,10] ^[**2:30** Sal 89,4-5; 2Sam 7,12-13] ^[**2:33** Juan 15,26]
 
 ^36^ Sepa pues ciertísimamente toda la casa de Israel, que á éste Jesús que vosotros crucificasteis, Dios ha hecho Señor y Cristo. 
-
 
 
 ## Efecto del habla; primer ministerio pastoral de Pedro; Fundación de la primera iglesia
@@ -73,7 +69,6 @@
 ^41^ Así que, los que recibieron su palabra, fueron bautizados: y fueron añadidas á ellos aquel día como tres mil personas. 
 
 
-
 ## La vida de los creyentes en la primera iglesia
 ^42^ Y perseveraban en la doctrina de los apóstoles, y en la comunión, y en el partimiento del pan, y en las oraciones. ^^ ^43^ Y toda persona tenía temor: y muchas maravillas y señales eran hechas por los apóstoles. ^44^ Y todos los que creían estaban juntos; y tenían todas las cosas comunes; ^45^ Y vendían las posesiones, y las haciendas, y repartíanlas á todos, como cada uno había menester. ^46^ Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y con sencillez de corazón, ^47^ Alabando á Dios, y teniendo gracia con todo el pueblo. Y el Señor añadía cada día á la iglesia los que habían de ser salvos. ^^ 
 ^[**2:42** Hech 20,7] ^[**2:47** Hech 4,4; Hech 5,14; Hech 6,7; Hech 11,21; Hech 14,1] 
@@ -81,7 +76,6 @@
 # 3 
 ## Pedro y Juan curan a un cojo de nacimiento
 ^1^ Pedro y Juan subían juntos al templo á la hora de oración, la de nona. ^2^ Y un hombre que era cojo desde el vientre de su madre, era traído; al cual ponían cada día á la puerta del templo que se llama la Hermosa, para que pidiese limosna de los que entraban en el templo. ^3^ Este, como vió á Pedro y á Juan que iban á entrar en el templo, rogaba que le diesen limosna. ^4^ Y Pedro, con Juan, fijando los ojos en él, dijo: Mira á nosotros. ^5^ Entonces él estuvo atento á ellos, esperando recibir de ellos algo. ^6^ Y Pedro dijo: Ni tengo plata ni oro; mas lo que tengo te doy: en el nombre de Jesucristo de Nazaret, levántate y anda. ^7^ Y tomándole por la mano derecha le levantó: y luego fueron afirmados sus pies y tobillos; ^8^ Y saltando, se puso en pie, y anduvo; y entró con ellos en el templo, andando, y saltando, y alabando á Dios. ^9^ Y todo el pueblo le vió andar y alabar á Dios. ^10^ Y conocían que él era el que se sentaba á la limosna á la puerta del templo, la Hermosa: y fueron llenos de asombro y de espanto por lo que le había acontecido. ^11^ Y teniendo á Pedro y á Juan el cojo que había sido sanado, todo el pueblo concurrió á ellos al pórtico que se llama de Salomón, atónitos. 
-
 
 
 ## Discurso en el templo, sermón penitencial de Pedro después de sanar al cojo
@@ -117,21 +111,17 @@
 
 ^19^ Entonces Pedro y Juan, respondiendo, les dijeron: Juzgad si es justo delante de Dios obedecer antes á vosotros que á Dios: ^20^ Porque no podemos dejar de decir lo que hemos visto y oído. 
 
-
 ^21^ Ellos entonces los despacharon amenazándolos, no hallando ningún modo de castigarlos, por causa del pueblo; porque todos glorificaban á Dios de lo que había sido hecho. ^22^ Porque el hombre en quien había sido hecho este milagro de sanidad, era de más de cuarenta años. 
-
 
 
 ## Regreso de los apóstoles; Acción de gracias y súplica de la congregación
 ^23^ Y sueltos, vinieron á los suyos, y contaron todo lo que los príncipes de los sacerdotes y los ancianos les habían dicho. ^24^ Y ellos, habiéndolo oído, alzaron unánimes la voz á Dios, y dijeron: Señor, tú eres el Dios que hiciste el cielo y la tierra, la mar, y todo lo que en ellos hay; ^25^ Que por boca de David, tu siervo, dijiste: ¿Por qué han bramado las gentes, y los pueblos han pensado cosas vanas? ^26^ Asistieron los reyes de la tierra, y los príncipes se juntaron en uno contra el Señor, y contra su Cristo. 
-
 
 ^27^ Porque verdaderamente se juntaron en esta ciudad contra tu santo Hijo Jesús, al cual ungiste, Herodes y Poncio Pilato, con los Gentiles y los pueblos de Israel, ^^ ^28^ Para hacer lo que tu mano y tu consejo habían antes determinado que había de ser hecho. ^^ ^29^ Y ahora, Señor, mira sus amenazas, y da á tus siervos que con toda confianza hablen tu palabra; ^^ ^30^ Que extiendas tu mano á que sanidades, y milagros, y prodigios sean hechos por el nombre de tu santo Hijo Jesús. 
 
 ^[**4:27** Luc 23,12] ^[**4:28** Hech 2,23] ^[**4:29** Efes 6,19]
 
 ^31^ Y como hubieron orado, el lugar en que estaban congregados tembló; y todos fueron llenos del Espíritu Santo, y hablaron la palabra de Dios con confianza. 
-
 
 
 ## La comunidad de bienes
@@ -147,20 +137,15 @@
 ## Un ejemplo de disciplina eclesiástica seria: Ananías y Safira
 ^1^ Mas un varón llamado Ananías, con Safira su mujer, vendió una posesión, ^2^ Y defraudó del precio, sabiéndolo también su mujer; y trayendo una parte, púsola á los pies de los apóstoles. ^3^ Y dijo Pedro: Ananías, ¿por qué ha llenado Satanás tu corazón á que mintieses al Espíritu Santo, y defraudases del precio de la heredad? ^4^ Reteniéndola, ¿no se te quedaba á ti? y vendida, ¿no estaba en tu potestad? ¿Por qué pusiste esto en tu corazón? No has mentido á los hombres, sino á Dios. 
 
-
 ^5^ Entonces Ananías, oyendo estas palabras, cayó y espiró. Y vino un gran temor sobre todos los que lo oyeron. ^6^ Y levantándose los mancebos, le tomaron, y sacándolo, sepultáronlo. ^7^ Y pasado espacio como de tres horas, sucedió que entró su mujer, no sabiendo lo que había acontecido. ^8^ Entonces Pedro le dijo: Dime: ¿vendisteis en tanto la heredad? Y ella dijo: Sí, en tanto. 
 
-
 ^9^ Y Pedro le dijo: ¿Por qué os concertasteis para tentar al Espíritu del Señor? He aquí á la puerta los pies de los que han sepultado á tu marido, y te sacarán. 
-
 
 ^10^ Y luego cayó á los pies de él, y espiró: y entrados los mancebos, la hallaron muerta; y la sacaron, y la sepultaron junto á su marido. ^11^ Y vino un gran temor en toda la iglesia, y en todos los que oyeron estas cosas. 
 
 
-
 ## Milagros (especialmente la curación de los enfermos) de los apóstoles; mayor crecimiento de la comunidad
 ^12^ Y por las manos de los apóstoles eran hechos muchos milagros y prodigios en el pueblo; y estaban todos unánimes en el pórtico de Salomón. ^^ ^13^ Y de los otros, ninguno osaba juntarse con ellos; mas el pueblo los alababa grandemente. ^14^ Y los que creían en el Señor se aumentaban más, gran número así de hombres como de mujeres; ^15^ Tanto que echaban los enfermos por las calles, y los ponían en camas y en lechos, para que viniendo Pedro, á lo menos su sombra tocase á alguno de ellos. ^^ ^16^ Y aun de las ciudades vecinas concurría multitud á Jerusalem, trayendo enfermos y atormentados de espíritus inmundos; los cuales todos eran curados. 
-
 
 ^[**5:12** Hech 3,11] ^[**5:15** Hech 19,11-12]
 
@@ -171,21 +156,17 @@
 
 ^21^ Y oído que hubieron esto, entraron de mañana en el templo, y enseñaban. Entre tanto, viniendo el príncipe de los sacerdotes, y los que eran con él, convocaron el concilio, y á todos los ancianos de los hijos de Israel, y enviaron á la cárcel para que fuesen traídos. ^22^ Mas como llegaron los ministros, y no los hallaron en la cárcel, volvieron, y dieron aviso, ^23^ Diciendo: Por cierto, la cárcel hemos hallado cerrada con toda seguridad, y los guardas que estaban delante de las puertas; mas cuando abrimos, á nadie hallamos dentro. 
 
-
 ^24^ Y cuando oyeron estas palabras el pontífice y el magistrado del templo y los príncipes de los sacerdotes, dudaban en qué vendría á parar aquello. ^25^ Pero viniendo uno, dióles esta noticia: He aquí, los varones que echasteis en la cárcel, están en el templo, y enseñan al pueblo. ^26^ Entonces fué el magistrado con los ministros, y trájolos sin violencia; porque temían del pueblo ser apedreados. 
-
 
 
 ## El valiente testimonio del apóstol de la resurrección de Cristo
 ^27^ Y como los trajeron, los presentaron en el concilio: y el príncipe de los sacerdotes les preguntó, ^28^ Diciendo: ¿No os denunciamos estrechamente, que no enseñaseis en este nombre? y he aquí, habéis llenado á Jerusalem de vuestra doctrina, y queréis echar sobre nosotros la sangre de este hombre. 
-
 
 ^29^ Y respondiendo Pedro y los apóstoles, dijeron: Es menester obedecer á Dios antes que á los hombres. ^^ ^30^ El Dios de nuestros padres levantó á Jesús, al cual vosotros matasteis colgándole en un madero. ^^ ^31^ A éste ha Dios ensalzado con su diestra por Príncipe y Salvador, para dar á Israel arrepentimiento y remisión de pecados. ^^ ^32^ Y nosotros somos testigos suyos de estas cosas, y también el Espíritu Santo, el cual ha dado Dios á los que le obedecen. 
 ^^ 
 ^[**5:29** Hech 4,19; Dan 3,16-18] ^[**5:30** Hech 3,15] ^[**5:31** Hech 2,33] ^[**5:32** Luc 24,48; Juan 15,26-27]
 
 ^33^ Ellos, oyendo esto, regañaban, y consultaban matarlos. 
-
 
 
 ## Defensa y asesoramiento de Gamaliel
@@ -223,7 +204,6 @@
 ## Discurso de defensa de Esteban: la época de los patriarcas
 ^1^ El príncipe de los sacerdotes dijo entonces: ¿Es esto así? 
 
-
 ^2^ Y él dijo: Varones hermanos y padres, oid: El Dios de la gloria apareció á nuestro padre Abraham, estando en Mesopotamia, antes que morase en Chârán, ^3^ Y le dijo: Sal de tu tierra y de tu parentela, y ven á la tierra que te mostraré. ^4^ Entonces salió de la tierra de los Caldeos, y habitó en Chârán: y de allí, muerto su padre, le traspasó á esta tierra, en la cual vosotros habitáis ahora; ^5^ Y no le dió herencia en ella, ni aun para asentar un pie: mas le prometió que se la daría en posesión, y á su simiente después de él, no teniendo hijo. ^6^ Y hablóle Dios así: Que su simiente sería extranjera en tierra ajena, y que los reducirían á servidumbre y maltratarían, por cuatrocientos años. ^^ ^7^ Mas yo juzgaré, dijo Dios, la nación á la cual serán siervos: y después de esto saldrán y me servirán en este lugar. ^8^ Y dióle el pacto de la circuncisión: y así Abraham engendró á Isaac, y le circuncidó al octavo día; é Isaac á Jacob, y Jacob á los doce patriarcas. 
 
 ^[**7:6** Éxod 12,40]
@@ -231,10 +211,8 @@
 ^9^ Y los patriarcas, movidos de envidia, vendieron á José para Egipto; mas Dios era con él, ^10^ Y le libró de todas sus tribulaciones, y le dió gracia y sabiduría en la presencia de Faraón, rey de Egipto, el cual le puso por gobernador sobre Egipto, y sobre toda su casa. ^11^ Vino entonces hambre en toda la tierra de Egipto y de Canaán, y grande tribulación; y nuestros padres no hallaban alimentos. ^12^ Y como oyese Jacob que había trigo en Egipto, envió á nuestros padres la primera vez. ^13^ Y en la segunda, José fué conocido de sus hermanos, y fué sabido de Faraón el linaje de José. ^14^ Y enviando José, hizo venir á su padre Jacob, y á toda su parentela, en número de setenta y cinco personas. ^15^ Así descendió Jacob á Egipto, donde murió él y nuestros padres; ^16^ Los cuales fueron trasladados á Sichêm, y puestos en el sepulcro que compró Abraham á precio de dinero de los hijos de Hemor de Sichêm. 
 
 
-
 ## El tiempo del mosaico
 ^17^ Mas como se acercaba el tiempo de la promesa, la cual Dios había jurado á Abraham, el pueblo creció y multiplicóse en Egipto, ^18^ Hasta que se levantó otro rey en Egipto que no conocía á José. ^19^ Este, usando de astucia con nuestro linaje, maltrató á nuestros padres, á fin de que pusiesen á peligro de muerte sus niños, para que cesase la generación. ^20^ En aquel mismo tiempo nació Moisés, y fué agradable á Dios: y fué criado tres meses en casa de su padre. ^21^ Mas siendo puesto al peligro, la hija de Faraón le tomó, y le crió como á hijo suyo. ^22^ Y fué enseñado Moisés en toda la sabiduría de los egipcios; y era poderoso en sus dichos y hechos. ^23^ Y cuando hubo cumplido la edad de cuarenta años, le vino voluntad de visitar á sus hermanos los hijos de Israel. ^24^ Y como vió á uno que era injuriado, defendióle, é hiriendo al Egipcio, vengó al injuriado. ^25^ Pero él pensaba que sus hermanos entendían que Dios les había de dar salud por su mano; mas ellos no lo habían entendido. 
-
 
 ^26^ Y al día siguiente, riñendo ellos, se les mostró, y los ponía en paz, diciendo: Varones, hermanos sois, ¿por qué os injuriáis los unos á los otros? ^27^ Entonces el que injuriaba á su prójimo, le rempujó, diciendo: ¿Quién te ha puesto por príncipe y juez sobre nosotros? ^28^ ¿Quieres tú matarme, como mataste ayer al Egipcio? ^29^ A esta palabra Moisés huyó, y se hizo extranjero en tierra de Madián, donde engendró dos hijos. 
 ^^ 
@@ -242,15 +220,12 @@
 
 ^30^ Y cumplidos cuarenta años, un ángel le apareció en el desierto del monte Sina, en fuego de llama de una zarza. ^31^ Entonces Moisés mirando, se maravilló de la visión: y llegándose para considerar, fué hecha á él voz del Señor: ^32^ Yo soy el Dios de tus padres, el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob. Mas Moisés, temeroso, no osaba mirar. ^33^ Y le dijo el Señor: Quita los zapatos de tus pies, porque el lugar en que estás es tierra santa. ^34^ He visto, he visto la aflicción de mi pueblo que está en Egipto, y he oído el gemido de ellos, y he descendido para librarlos. Ahora pues, ven, te enviaré á Egipto. 
 
-
 ^35^ A este Moisés, al cual habían rehusado, diciendo: ¿Quién te ha puesto por príncipe y juez? á éste envió Dios por príncipe y redentor con la mano del ángel que le apareció en la zarza. ^36^ Este los sacó, habiendo hecho prodigios y milagros en la tierra de Egipto, y en el mar Bermejo, y en el desierto por cuarenta años. ^37^ Este es el Moisés, el cual dijo á los hijos de Israel: Profeta os levantará el Señor Dios vuestro de vuestros hermanos, como yo; á él oiréis. ^38^ Este es aquél que estuvo en la congregación en el desierto con el ángel que le hablaba en el monte Sina, y con nuestros padres; y recibió las palabras de vida para darnos: ^^ ^39^ Al cual nuestros padres no quisieron obedecer; antes le desecharon, y se apartaron de corazón á Egipto, ^40^ Diciendo á Aarón: Haznos dioses que vayan delante de nosotros; porque á este Moisés, que nos sacó de tierra de Egipto, no sabemos qué le ha acontecido. ^41^ Y entonces hicieron un becerro, y ofrecieron sacrificio al ídolo, y en las obras de sus manos se holgaron. ^42^ Y Dios se apartó, y los entregó que sirviesen al ejército del cielo; como está escrito en el libro de los profetas: ¿Me ofrecisteis víctimas y sacrificios en el desierto por cuarenta años, casa de Israel? ^43^ Antes, trajisteis el tabernáculo de Moloch, y la estrella de vuestro dios Remphan: figuras que os hicisteis para adorarlas: os transportaré pues, más allá de Babilonia. 
-
 
 ^[**7:38** Éxod 19,-1; Deut 9,10]
 
 ## El tiempo del tabernáculo y la construcción del templo
 ^44^ Tuvieron nuestros padres el tabernáculo del testimonio en el desierto, como había ordenado Dios, hablando á Moisés que lo hiciese según la forma que había visto. ^45^ El cual recibido, metieron también nuestros padres con Josué en la posesión de los Gentiles, que Dios echó de la presencia de nuestros padres, hasta los días de David; ^^ ^46^ El cual halló gracia delante de Dios, y pidió hallar tabernáculo para el Dios de Jacob. ^^ ^47^ Mas Salomón le edificó casa. ^^ ^48^ Si bien el Altísimo no habita en templos hechos de mano; como el profeta dice: ^49^ El cielo es mi trono, y la tierra es el estrado de mis pies. ¿Qué casa me edificaréis? dice el Señor; ¿ó cuál es el lugar de mi reposo? ^50^ ¿No hizo mi mano todas estas cosas? 
-
 
 ^[**7:45** Jos 3,14; Jos 18,1] ^[**7:46** 2Sam 7,-1; Sal 132,1-5] ^[**7:47** 1Re 6,-1]
 
@@ -279,49 +254,36 @@
 ## Felipe predica y sana
 ^4^ Mas los que fueron esparcidos, iban por todas partes anunciando la palabra. ^5^ Entonces Felipe, descendiendo á la ciudad de Samaria, les predicaba á Cristo. ^6^ Y las gentes escuchaban atentamente unánimes las cosas que decía Felipe, oyendo y viendo las señales que hacía. ^7^ Porque de muchos que tenían espíritus inmundos, salían éstos dando grandes voces; y muchos paralíticos y cojos eran sanados: ^^ ^8^ Así que había gran gozo en aquella ciudad. 
 
-
 ^[**8:7** Mar 16,17]
 
 ## El mago Simón en Samaria
 ^9^ Y había un hombre llamado Simón, el cual había sido antes mágico en aquella ciudad, y había engañado la gente de Samaria, diciéndose ser algún grande: ^10^ Al cual oían todos atentamente desde el más pequeño hasta el más grande, diciendo: Este es la gran virtud de Dios. ^11^ Y le estaban atentos, porque con sus artes mágicas los había embelesado mucho tiempo. ^12^ Mas cuando creyeron á Felipe, que anunciaba el evangelio del reino de Dios y el nombre de Jesucristo, se bautizaban hombres y mujeres. ^13^ El mismo Simón creyó también entonces, y bautizándose, se llegó á Felipe: y viendo los milagros y grandes maravillas que se hacían, estaba atónito. 
 
 
-
 ## Obra de Pedro y Juan en Samaria
 ^14^ Y los apóstoles que estaban en Jerusalem, habiendo oído que Samaria había recibido la palabra de Dios, les enviaron á Pedro y á Juan: ^15^ Los cuales venidos, oraron por ellos, para que recibiesen el Espíritu Santo; ^16^ (Porque aun no había descendido sobre ninguno de ellos, mas solamente eran bautizados en el nombre de Jesús.) ^17^ Entonces les impusieron las manos, y recibieron el Espíritu Santo. ^18^ Y como vió Simón que por la imposición de las manos de los apóstoles se daba el Espíritu Santo, les ofreció dinero, ^19^ Diciendo: Dadme también á mí esta potestad, que á cualquiera que pusiere las manos encima, reciba el Espíritu Santo. ^20^ Entonces Pedro le dijo: Tu dinero perezca contigo, que piensas que el don de Dios se gane por dinero. ^21^ No tienes tú parte ni suerte en este negocio; porque tu corazón no es recto delante de Dios. ^22^ Arrepiéntete pues de esta tu maldad, y ruega á Dios, si quizás te será perdonado el pensamiento de tu corazón. ^23^ Porque en hiel de amargura y en prisión de maldad veo que estás. 
 
-
 ^24^ Respondiendo entonces Simón, dijo: Rogad vosotros por mí al Señor, que ninguna cosa de estas que habéis dicho, venga sobre mí. 
 
-
 ^25^ Y ellos, habiendo testificado y hablado la palabra de Dios, se volvieron á Jerusalem, y en muchas tierras de los Samaritanos anunciaron el evangelio. 
-
 
 
 ## Conversión y bautismo del funcionario de la corte etíope por Felipe
 ^26^ Empero el ángel del Señor habló á Felipe, diciendo: Levántate y ve hacia el mediodía, al camino que desciende de Jerusalem á Gaza, el cual es desierto. 
 
-
 ^27^ Entonces él se levantó, y fué: y he aquí un Etiope, eunuco, gobernador de Candace, reina de los Etiopes, el cual era puesto sobre todos sus tesoros, y había venido á adorar á Jerusalem, ^28^ Se volvía sentado en su carro, y leyendo el profeta Isaías. 
-
 
 ^29^ Y el Espíritu dijo á Felipe: Llégate, y júntate á este carro. 
 
-
 ^30^ Y acudiendo Felipe, le oyó que leía el profeta Isaías, y dijo: Mas ¿entiendes lo que lees? 
-
 
 ^31^ Y él dijo: ¿Y cómo podré, si alguno no me enseñare? Y rogó á Felipe que subiese, y se sentase con él. ^32^ Y el lugar de la Escritura que leía, era éste: Como oveja á la muerte fué llevado; y como cordero mudo delante del que le trasquila, así no abrió su boca: ^33^ En su humillación su juicio fué quitado: mas su generación, ¿quién la contará? porque es quitada de la tierra su vida. 
 
-
 ^34^ Y respondiendo el eunuco á Felipe, dijo: Ruégote ¿de quién el profeta dice esto? ¿de sí, ó de otro alguno? 
-
 
 ^35^ Entonces Felipe, abriendo su boca, y comenzando desde esta escritura, le anunció el evangelio de Jesús. ^36^ Y yendo por el camino, llegaron á cierta agua; y dijo el eunuco: He aquí agua; ¿qué impide que yo sea bautizado? 
 
-
 ^37^ Y Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios. ^38^ Y mandó parar el carro: y descendieron ambos al agua, Felipe y el eunuco; y bautizóle. 
-
 
 ^39^ Y como subieron del agua, el Espíritu del Señor arrebató á Felipe; y no le vió más el eunuco, y se fué por su camino gozoso. ^^ ^40^ Felipe empero se halló en Azoto: y pasando, anunciaba el evangelio en todas las ciudades, hasta que llegó á Cesarea. ^^ 
 ^[**8:39** 1Re 18,12] ^[**8:40** Hech 21,8-9] 
@@ -334,30 +296,23 @@
 
 ^5^ Y él dijo: ¿Quién eres, Señor? Y él dijo: Yo soy Jesús á quien tú persigues: dura cosa te es dar coces contra el aguijón. 
 
-
 ^6^ El, temblando y temeroso, dijo: Señor, ¿qué quieres que haga? Y el Señor le dice: Levántate y entra en la ciudad, y se te dirá lo que te conviene hacer. 
 
-
 ^7^ Y los hombres que iban con Saulo, se pararon atónitos, oyendo á la verdad la voz, mas no viendo á nadie. ^8^ Entonces Saulo se levantó de tierra, y abriendo los ojos, no veía á nadie: así que, llevándole por la mano, metiéronle en Damasco; ^9^ Donde estuvo tres días sin ver, y no comió, ni bebió. 
-
 
 
 ## Sanidad y bautismo de Saulo por Ananías
 ^10^ Había entonces un discípulo en Damasco llamado Ananías, al cual el Señor dijo en visión: Ananías. Y él respondió: Heme aquí, Señor. 
 
-
 ^11^ Y el Señor le dijo: Levántate, y ve á la calle que se llama la Derecha, y busca en casa de Judas á uno llamado Saulo, de Tarso: porque he aquí, él ora; ^12^ Y ha visto en visión un varón llamado Ananías, que entra y le pone la mano encima, para que reciba la vista. 
 
-
 ^13^ Entonces Ananías respondió: Señor, he oído á muchos acerca de este hombre, cuántos males ha hecho á tus santos en Jerusalem: ^14^ Y aun aquí tiene facultad de los príncipes de los sacerdotes de prender á todos los que invocan tu nombre. 
-
 
 ^15^ Y le dijo el Señor: Ve: porque instrumento escogido me es éste, para que lleve mi nombre en presencia de los Gentiles, y de reyes, y de los hijos de Israel: ^^ ^16^ Porque yo le mostraré cuánto le sea menester que padezca por mi nombre. 
 ^^ 
 ^[**9:15** Hech 13,46; Hech 26,2; Hech 27,24] ^[**9:16** 2Cor 11,23-28]
 
 ^17^ Ananías entonces fué, y entró en la casa, y poniéndole las manos encima, dijo: Saulo hermano, el Señor Jesús, que te apareció en el camino por donde venías, me ha enviado para que recibas la vista y seas lleno de Espíritu Santo. ^18^ Y luego le cayeron de los ojos como escamas, y recibió al punto la vista: y levantándose, fué bautizado. ^19^ Y como comió, fué confortado. Y estuvo Saulo por algunos días con los discípulos que estaban en Damasco. 
-
 
 
 ## La eficacia de Pablo en Damasco y su huida
@@ -380,10 +335,8 @@
 ^31^ Las iglesias entonces tenían paz por toda Judea y Galilea y Samaria, y eran edificadas, andando en el temor del Señor; y con consuelo del Espíritu Santo eran multiplicadas. 
 
 
-
 ## Sanación del paralizado Eneas en Lydda
 ^32^ Y aconteció que Pedro, andándolos á todos, vino también á los santos que habitaban en Lydda. ^33^ Y halló allí á uno que se llamaba Eneas, que hacía ocho años que estaba en cama, que era paralítico. ^34^ Y le dijo Pedro: Eneas, Jesucristo te sana; levántate, y hazte tu cama. Y luego se levantó. ^35^ Y viéronle todos los que habitaban en Lydda y en Sarona, los cuales se convirtieron al Señor. 
-
 
 
 ## Criar a Tabitha en Joppe
@@ -393,9 +346,7 @@
 ## La visión de Cornelio en Cesarea
 ^1^ Y había un varón en Cesarea llamado Cornelio, centurión de la compañía que se llamaba la Italiana, ^2^ Pío y temeroso de Dios con toda su casa, y que hacía muchas limosnas al pueblo, y oraba á Dios siempre. ^3^ Este vió en visión manifiestamente, como á la hora nona del día, que un ángel de Dios entraba á él, y le decía: Cornelio. 
 
-
 ^4^ Y él, puestos en él los ojos, espantado, dijo: ¿Qué es, Señor? Y díjole: Tus oraciones y tus limosnas han subido en memoria á la presencia de Dios. 
-
 
 ^5^ Envía pues ahora hombres á Joppe, y haz venir á un Simón, que tiene por sobrenombre Pedro. ^6^ Este posa en casa de un Simón, curtidor, que tiene su casa junto á la mar: él te dirá lo que te conviene hacer. 
 ^^ 
@@ -404,10 +355,8 @@
 ^7^ E ido el ángel que hablaba con Cornelio, llamó dos de sus criados, y un devoto soldado de los que le asistían; ^8^ A los cuales, después de habérselo contado todo, los envió á Joppe. 
 
 
-
 ## Visión de Pedro en Joppe; Llegada de los mensajeros de Cornelio a Pedro
 ^9^ Y al día siguiente, yendo ellos su camino, y llegando cerca de la ciudad, Pedro subió á la azotea á orar, cerca de la hora de sexta; ^10^ Y aconteció que le vino una grande hambre, y quiso comer; pero mientras disponían, sobrevínole un éxtasis; ^11^ Y vió el cielo abierto, y que descendía un vaso, como un gran lienzo, que atado de los cuatro cabos era bajado á la tierra; ^12^ En el cual había de todos los animales cuadrúpedos de la tierra, y reptiles, y aves del cielo. ^13^ Y le vino una voz: Levántate, Pedro, mata y come. 
-
 
 ^14^ Entonces Pedro dijo: Señor, no; porque ninguna cosa común é inmunda he comido jamás. 
 ^^ 
@@ -419,24 +368,19 @@
 
 ^17^ Y estando Pedro dudando dentro de sí qué sería la visión que había visto, he aquí, los hombres que habían sido enviados por Cornelio, que, preguntando por la casa de Simón, llegaron á la puerta. ^18^ Y llamando, preguntaron si un Simón que tenía por sobrenombre Pedro, posaba allí. ^19^ Y estando Pedro pensando en la visión, le dijo el Espíritu: He aquí, tres hombres te buscan. ^20^ Levántate, pues, y desciende, y no dudes ir con ellos; porque yo los he enviado. 
 
-
 ^21^ Entonces Pedro, descendiendo á los hombres que eran enviados por Cornelio, dijo: He aquí, yo soy el que buscáis: ¿cuál es la causa por la que habéis venido? 
-
 
 ^22^ Y ellos dijeron: Cornelio, el centurión, varón justo y temeroso de Dios, y que tiene testimonio de toda la nación de los Judíos, ha recibido respuesta por un santo ángel, de hacerte venir á su casa, y oir de ti palabras. 
 
 
-
 ## Pedro en la casa de Cornelio
 ^23^ Entonces metiéndolos dentro, los hospedó. Y al día siguiente, levantándose, se fué con ellos; y le acompañaron algunos de los hermanos de Joppe. 
-
 
 ^24^ Y al otro día entraron en Cesarea. Y Cornelio los estaba esperando, habiendo llamado á sus parientes y los amigos más familiares. ^25^ Y como Pedro entró, salió Cornelio á recibirle; y derribándose á sus pies, adoró. ^26^ Mas Pedro le levantó, diciendo: Levántate; yo mismo también soy hombre. ^^ ^27^ Y hablando con él, entró, y halló á muchos que se habían juntado. ^28^ Y les dijo: Vosotros sabéis que es abominable á un varón Judío juntarse ó llegarse á extranjero; mas me ha mostrado Dios que á ningún hombre llame común ó inmundo; ^29^ Por lo cual, llamado, he venido sin dudar. Así que pregunto: ¿por qué causa me habéis hecho venir? 
 
 ^[**10:26** Hech 14,15; Apoc 19,10]
 
 ^30^ Entonces Cornelio dijo: Cuatro días ha que á esta hora yo estaba ayuno; y á la hora de nona estando orando en mi casa, he aquí, un varón se puso delante de mí en vestido resplandeciente. ^31^ Y dijo: Cornelio, tu oración es oída, y tus limosnas han venido en memoria en la presencia de Dios. ^32^ Envía pues á Joppe, y haz venir á un Simón, que tiene por sobrenombre Pedro; éste posa en casa de Simón, curtidor, junto á la mar; el cual venido, te hablará. ^33^ Así que, luego envié á ti; y tú has hecho bien en venir. Ahora pues, todos nosotros estamos aquí en la presencia de Dios, para oir todo lo que Dios te ha mandado. 
-
 
 ^34^ Entonces Pedro, abriendo su boca, dijo: Por verdad hallo que Dios no hace acepción de personas; ^35^ Sino que de cualquiera nación que le teme y obra justicia, se agrada. ^^ ^36^ Envió palabra Dios á los hijos de Israel, anunciando la paz por Jesucristo; éste es el Señor de todos. ^^ ^37^ Vosotros sabéis lo que fué divulgado por toda Judea; comenzando desde Galilea después del bautismo que Juan predicó, ^^ ^38^ Cuanto á Jesús de Nazaret; cómo le ungió Dios de Espíritu Santo y de potencia; el cual anduvo haciendo bienes, y sanando á todos los oprimidos del diablo; porque Dios era con él. ^^ ^39^ Y nosotros somos testigos de todas las cosas que hizo en la tierra de Judea, y en Jerusalem; al cual mataron colgándole en un madero. ^40^ A éste levantó Dios al tercer día, é hizo que apareciese manifiesto, ^^ ^41^ No á todo el pueblo, sino á los testigos que Dios antes había ordenado, es á saber, á nosotros que comimos y bebimos con él, después que resucitó de los muertos. ^^ ^42^ Y nos mandó que predicásemos al pueblo, y testificásemos que él es el que Dios ha puesto por Juez de vivos y muertos. ^^ ^43^ A éste dan testimonio todos los profetas, de que todos los que en él creyeren, recibirán perdón de pecados por su nombre. 
 ^^ 
@@ -452,13 +396,11 @@
 ## Pedro justifica el bautismo pagano en Jerusalén
 ^1^ Y oyeron los apóstoles y los hermanos que estaban en Judea, que también los Gentiles habían recibido la palabra de Dios. ^2^ Y como Pedro subió á Jerusalem, contendían contra él los que eran de la circuncisión, ^3^ Diciendo: ¿Por qué has entrado á hombres incircuncisos, y has comido con ellos? 
 
-
 ^4^ Entonces comenzando Pedro, les declaró por orden lo pasado, diciendo: ^5^ Estaba yo en la ciudad de Joppe orando, y vi en rapto de entendimiento una visión: un vaso, como un gran lienzo, que descendía, que por los cuatro cabos era abajado del cielo, y venía hasta mí. ^^ ^6^ En el cual como puse los ojos, consideré y vi animales terrestres de cuatro pies, y fieras, y reptiles, y aves del cielo. ^7^ Y oí una voz que me decía: Levántate, Pedro, mata y come. ^8^ Y dije: Señor, no; porque ninguna cosa común ó inmunda entró jamás en mi boca. ^9^ Entonces la voz me respondió del cielo segunda vez: Lo que Dios limpió, no lo llames tú común. ^10^ Y esto fué hecho por tres veces: y volvió todo á ser tomado arriba en el cielo. ^11^ Y he aquí, luego sobrevinieron tres hombres á la casa donde yo estaba, enviados á mí de Cesarea. ^12^ Y el Espíritu me dijo que fuese con ellos sin dudar. Y vinieron también conmigo estos seis hermanos, y entramos en casa de un varón, ^13^ El cual nos contó cómo había visto un ángel en su casa, que se paró, y le dijo: Envía á Joppe, y haz venir á un Simón que tiene por sobrenombre Pedro; ^14^ El cual te hablará palabras por las cuales serás salvo tú, y toda tu casa. ^15^ Y como comencé á hablar, cayó el Espíritu Santo sobre ellos también, como sobre nosotros al principio. ^16^ Entonces me acordé del dicho del Señor, como dijo: Juan ciertamente bautizó en agua; mas vosotros seréis bautizados en Espíritu Santo. ^^ ^17^ Así que, si Dios les dió el mismo don también como á nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar á Dios? 
 
 ^[**11:5** Hech 10,9-48] ^[**11:16** Hech 1,5]
 
 ^18^ Entonces, oídas estas cosas, callaron, y glorificaron á Dios, diciendo: De manera que también á los Gentiles ha dado Dios arrepentimiento para vida. 
-
 
 
 ## Fundación de la primera comunidad cristiana gentil en Antioquía en Siria; su ayuda para los cristianos necesitados en Judea
@@ -478,15 +420,12 @@
 ## Muerte de Santiago, arresto de Pedro
 ^1^ Y en el mismo tiempo el rey Herodes echó mano á maltratar algunos de la iglesia. ^2^ Y mató á cuchillo á Jacobo, hermano de Juan. ^^ ^3^ Y viendo que había agradado á los Judíos, pasó adelante para prender también á Pedro. Eran entonces los días de los ázimos. ^4^ Y habiéndole preso, púsole en la cárcel, entregándole á cuatro cuaterniones de soldados que le guardasen; queriendo sacarle al pueblo después de la Pascua. ^5^ Así que, Pedro era guardado en la cárcel; y la iglesia hacía sin cesar oración á Dios por él. 
 
-
 ^[**12:2** Mat 20,20-43]
 
 ## Maravillosa salvación de Pedro
 ^6^ Y cuando Herodes le había de sacar, aquella misma noche estaba Pedro durmiendo entre dos soldados, preso con dos cadenas, y los guardas delante de la puerta, que guardaban la cárcel. 
 
-
 ^7^ Y he aquí, el ángel del Señor sobrevino, y una luz resplandeció en la cárcel; é hiriendo á Pedro en el lado, le despertó, diciendo: Levántate prestamente. Y las cadenas se le cayeron de las manos. ^8^ Y le dijo el ángel: Cíñete, y átate tus sandalias. Y lo hizo así. Y le dijo: Rodéate tu ropa, y sígueme. ^9^ Y saliendo, le seguía; y no sabía que era verdad lo que hacía el ángel, mas pensaba que veía visión. ^10^ Y como pasaron la primera y la segunda guardia, vinieron á la puerta de hierro que va á la ciudad, la cual se les abrió de suyo: y salidos, pasaron una calle; y luego el ángel se apartó de él. 
-
 
 ^11^ Entonces Pedro, volviendo en sí, dijo: Ahora entiendo verdaderamente que el Señor ha enviado su ángel, y me ha librado de la mano de Herodes, y de todo el pueblo de los Judíos que me esperaba. ^12^ Y habiendo considerado esto, llegó á casa de María la madre de Juan, el que tenía por sobrenombre Marcos, donde muchos estaban juntos orando. ^^ ^13^ Y tocando Pedro á la puerta del patio, salió una muchacha, para escuchar, llamada Rhode: ^14^ La cual como conoció la voz de Pedro, de gozo no abrió el postigo, sino corriendo adentro, dió nueva de que Pedro estaba al postigo. 
 
@@ -495,10 +434,8 @@
 ^15^ Y ellos le dijeron: Estás loca. Mas ella afirmaba que así era. Entonces ellos decían: Su ángel es. ^16^ Mas Pedro perseveraba en llamar: y cuando abrieron, viéronle, y se espantaron. ^17^ Mas él haciéndoles con la mano señal de que callasen, les contó cómo el Señor le había sacado de la cárcel. Y dijo: Haced saber esto á Jacobo y á los hermanos. Y salió, y partió á otro lugar. 
 
 
-
 ## Ira de Herodes; su caída en Cesarea por un juicio divino
 ^18^ Luego que fué de día, hubo no poco alboroto entre los soldados sobre qué se había hecho de Pedro. ^19^ Mas Herodes, como le buscó y no le halló, hecha inquisición de los guardas, los mandó llevar. Después descendiendo de Judea á Cesarea, se quedó allí. 
-
 
 ^20^ Y Herodes estaba enojado contra los de Tiro y los de Sidón: mas ellos vinieron concordes á él, y sobornado Blasto, que era el camarero del rey, pedían paz; porque las tierras de ellos eran abastecidas por las del rey. ^^ ^21^ Y un día señalado, Herodes vestido de ropa real, se sentó en el tribunal, y arengóles. ^22^ Y el pueblo aclamaba: Voz de Dios, y no de hombre. ^23^ Y luego el ángel del Señor le hirió, por cuanto no dió la gloria á Dios; y espiró comido de gusanos. 
 ^^ 
@@ -520,7 +457,6 @@
 ^12^ Entonces el procónsul, viendo lo que había sido hecho, creyó, maravillado de la doctrina del Señor. 
 
 
-
 ## Continuación del viaje a Asia Menor y estancia en Antioquía de Pisidia
 ^13^ Y partidos de Papho, Pablo y sus compañeros arribaron á Perge de Pamphylia: entonces Juan, apartándose de ellos, se volvió á Jerusalem. ^14^ Y ellos pasando de Perge, llegaron á Antioquía de Pisidia, y entrando en la sinagoga un día de sábado, sentáronse. ^15^ Y después de la lectura de la ley y de los profetas, los príncipes de la sinagoga enviaron á ellos, diciendo: Varones hermanos, si tenéis alguna palabra de exhortación para el pueblo, hablad. 
 ^^ 
@@ -536,18 +472,14 @@
 
 ^34^ Y que le levantó de los muertos para nunca más volver á corrupción, así lo dijo: Os daré las misericordias fieles de David. ^35^ Por eso dice también en otro lugar: No permitirás que tu Santo vea corrupción. ^36^ Porque á la verdad David, habiendo servido en su edad á la voluntad de Dios, durmió, y fué juntado con sus padres, y vió corrupción: ^37^ Mas aquel que Dios levantó, no vió corrupción. ^38^ Séaos pues notorio, varones hermanos, que por éste os es anunciada remisión de pecados; ^39^ Y de todo lo que por la ley de Moisés no pudisteis ser justificados, en éste es justificado todo aquel que creyere. ^^ ^40^ Mirad, pues, que no venga sobre vosotros lo que está dicho en los profetas; ^41^ Mirad, oh menospreciadores, y entonteceos, y desvaneceos; porque yo obro una obra en vuestros días, obra que no creeréis, si alguien os la contare. 
 
-
 ^[**13:39** Rom 8,3-4; Rom 10,4]
 
 ## Varios éxitos del discurso
 ^42^ Y saliendo ellos de la sinagoga de los Judíos, los Gentiles les rogaron que el sábado siguiente les hablasen estas palabras. ^43^ Y despedida la congregación, muchos de los Judíos y de los religiosos prosélitos siguieron á Pablo y á Bernabé; los cuales hablándoles, les persuadían que permaneciesen en la gracia de Dios. 
 
-
 ^44^ Y el sábado siguiente se juntó casi toda la ciudad á oir la palabra de Dios. ^45^ Mas los Judíos, visto el gentío, llenáronse de celo, y se oponían á lo que Pablo decía, contradiciendo y blasfemando. 
 
-
 ^46^ Entonces Pablo y Bernabé, usando de libertad, dijeron: A vosotros á la verdad era menester que se os hablase la palabra de Dios; mas pues que la desecháis, y os juzgáis indignos de la vida eterna, he aquí, nos volvemos á los Gentiles. ^47^ Porque así nos ha mandado el Señor, diciendo: Te he puesto para luz de los Gentiles, para que seas salud hasta lo postrero de la tierra. 
-
 
 ^48^ Y los Gentiles oyendo esto, fueron gozosos, y glorificaban la palabra del Señor: y creyeron todos los que estaban ordenados para vida eterna. 
 ^^ 
@@ -556,7 +488,6 @@
 # 14 
 ## Efectividad de los Apóstoles en Iconio
 ^1^ Y aconteció en Iconio, que entrados juntamente en la sinagoga de los Judíos, hablaron de tal manera, que creyó una grande multitud de Judíos, y asimismo de Griegos. ^2^ Mas los Judíos que fueron incrédulos, incitaron y corrompieron los ánimos de los Gentiles contra los hermanos. ^3^ Con todo eso se detuvieron allí mucho tiempo, confiados en el Señor, el cual daba testimonio á la palabra de su gracia, dando que señales y milagros fuesen hechos por las manos de ellos. ^^ ^4^ Mas el vulgo de la ciudad estaba dividido; y unos eran con los Judíos, y otros con los apóstoles. ^5^ Y haciendo ímpetu los Judíos y los Gentiles juntamente con sus príncipes, para afrentarlos y apedrearlos, ^6^ Habiéndolo entendido, huyeron á Listra y Derbe, ciudades de Licaonia, y por toda la tierra alrededor. ^7^ Y allí predicaban el evangelio. 
-
 
 ^[**14:3** Hech 19,11; Heb 2,4]
 
@@ -577,7 +508,6 @@
 ## Los apóstoles en Derbe; Fortalecimiento de las comunidades fundadas; Regreso a Antioquía en Siria
 ^20^ Mas rodeándole los discípulos, se levantó y entró en la ciudad; y un día después, partió con Bernabé á Derbe. 
 
-
 ^21^ Y como hubieron anunciado el evangelio á aquella ciudad, y enseñado á muchos, volvieron á Listra, y á Iconio, y á Antioquía, ^22^ Confirmando los ánimos de los discípulos, exhortándoles á que permaneciesen en la fe, y que es menester que por muchas tribulaciones entremos en el reino de Dios. ^23^ Y habiéndoles constituído ancianos en cada una de las iglesias, y habiendo orado con ayunos, los encomendaron al Señor en el cual habían creído. 
 ^^ 
 ^[**14:23** Hech 6,6]
@@ -593,7 +523,6 @@
 ^[**15:2** Gal 2,1]
 
 ^5^ Mas algunos de la secta de los Fariseos, que habían creído, se levantaron, diciendo: Que es menester circuncidarlos, y mandarles que guarden la ley de Moisés. 
-
 
 
 ## Las negociaciones; Discursos de Pedro y Santiago
@@ -613,19 +542,15 @@
 ## La resolución y su implementación
 ^22^ Entonces pareció bien á los apóstoles y á los ancianos, con toda la iglesia, elegir varones de ellos, y enviarlos á Antioquía con Pablo y Bernabé: á Judas que tenía por sobrenombre Barsabas, y á Silas, varones principales entre los hermanos; ^23^ Y escribir por mano de ellos: Los apóstoles y los ancianos y los hermanos, á los hermanos de los Gentiles que están en Antioquía, y en Siria, y en Cilicia, salud: 
 
-
 ^24^ Por cuanto hemos oído que algunos que han salido de nosotros, os han inquietado con palabras, trastornando vuestras almas, mandando circuncidaros y guardar la ley, á los cuales no mandamos; ^25^ Nos ha parecido, congregados en uno, elegir varones, y enviarlos á vosotros con nuestros amados Bernabé y Pablo, ^26^ Hombres que han expuesto sus vidas por el nombre de nuestro Señor Jesucristo. ^27^ Así que, enviamos á Judas y á Silas, los cuales también por palabra os harán saber lo mismo. ^28^ Que ha parecido bien al Espíritu Santo, y á nosotros, no imponeros ninguna carga más que estas cosas necesarias: ^29^ Que os abstengáis de cosas sacrificadas á ídolos, y de sangre, y de ahogado, y de fornicación; de las cuales cosas si os guardareis, bien haréis. Pasadlo bien. 
-
 
 
 ## El resultado: Judas y Silas en Antioquía
 ^30^ Ellos entonces enviados, descendieron á Antioquía; y juntando la multitud, dieron la carta. ^31^ La cual, como leyeron, fueron gozosos de la consolación. ^32^ Judas también y Silas, como ellos también eran profetas, consolaron y confirmaron á los hermanos con abundancia de palabra. ^33^ Y pasando allí algún tiempo, fueron enviados de los hermanos á los apóstoles en paz. ^34^ Mas á Silas pareció bien el quedarse allí. 
 
 
-
 ## La pelea de Pablo con Bernabé; Salida de Pablo y Silas de Antioquía
 ^35^ Y Pablo y Bernabé se estaban en Antioquía, enseñando la palabra del Señor y anunciando el evangelio con otros muchos. 
-
 
 ^36^ Y después de algunos días, Pablo dijo á Bernabé: Volvamos á visitar á los hermanos por todas las ciudades en las cuales hemos anunciado la palabra del Señor, cómo están. ^37^ Y Bernabé quería que tomasen consigo á Juan, el que tenía por sobrenombre Marcos; ^^ ^38^ Mas á Pablo no le parecía bien llevar consigo al que se había apartado de ellos desde Pamphylia, y no había ido con ellos á la obra. 
 ^^ 
@@ -640,15 +565,12 @@
 ^6^ Y pasando á Phrygia y la provincia de Galacia, les fué prohibido por el Espíritu Santo hablar la palabra en Asia. ^7^ Y como vinieron á Misia, tentaron de ir á Bithynia; mas el Espíritu no les dejó. ^8^ Y pasando á Misia, descendieron á Troas. ^9^ Y fué mostrada á Pablo de noche una visión: Un varón Macedonio se puso delante, rogándole, y diciendo: Pasa á Macedonia, y ayúdanos. ^10^ Y como vió la visión, luego procuramos partir á Macedonia, dando por cierto que Dios nos llamaba para que les anunciásemos el evangelio. 
 
 
-
 ## El viaje por mar a Macedonia; Pablo en Filipos
 ^11^ Partidos pues de Troas, vinimos camino derecho á Samotracia, y el día siguiente á Neápolis; ^12^ Y de allí á Filipos, que es la primera ciudad de la parte de Macedonia, y una colonia; y estuvimos en aquella ciudad algunos días. 
 
 
-
 ## Conversión de la trader morada Lydia
 ^13^ Y un día de sábado salimos de la puerta junto al río, donde solía ser la oración; y sentándonos, hablamos á las mujeres que se habían juntado. ^14^ Entonces una mujer llamada Lidia, que vendía púrpura en la ciudad de Tiatira, temerosa de Dios, estaba oyendo; el corazón de la cual abrió el Señor para que estuviese atenta á lo que Pablo decía. ^15^ Y cuando fué bautizada, y su familia, nos rogó, diciendo: Si habéis juzgado que yo sea fiel al Señor, entrad en mi casa, y posad: y constriñónos. 
-
 
 
 ## La doncella adivina; Pablo y Silas en la corte y en la cárcel
@@ -663,10 +585,8 @@
 ^22^ Y agolpóse el pueblo contra ellos: y los magistrados rompiéndoles sus ropas, les mandaron azotar con varas. ^23^ Y después que los hubieron herido de muchos azotes, los echaron en la cárcel, mandando al carcelero que los guardase con diligencia: ^24^ El cual, recibido este mandamiento, los metió en la cárcel de más adentro; y les apretó los pies en el cepo. 
 
 
-
 ## La conversión del carcelero
 ^25^ Mas á media noche, orando Pablo y Silas, cantaban himnos á Dios: y los que estaban presos los oían. ^26^ Entonces fué hecho de repente un gran terremoto, de tal manera que los cimientos de la cárcel se movían; y luego todas las puertas se abrieron, y las prisiones de todos se soltaron. ^27^ Y despertado el carcelero, como vió abiertas las puertas de la cárcel, sacando la espada se quería matar, pensando que los presos se habían huído. ^28^ Mas Pablo clamó á gran voz, diciendo: No te hagas ningún mal; que todos estamos aquí. 
-
 
 ^29^ El entonces pidiendo luz, entró dentro, y temblando, derribóse á los pies de Pablo y de Silas; ^30^ Y sacándolos fuera, les dice: Señores, ¿qué es menester que yo haga para ser salvo? 
 ^^ 
@@ -674,20 +594,15 @@
 
 ^31^ Y ellos dijeron: Cree en el Señor Jesucristo, y serás salvo tú, y tu casa. ^32^ Y le hablaron la palabra del Señor, y á todos los que estaban en su casa. 
 
-
 ^33^ Y tomándolos en aquella misma hora de la noche, les lavó los azotes; y se bautizó luego él, y todos los suyos. ^34^ Y llevándolos á su casa, les puso la mesa: y se gozó de que con toda su casa había creído á Dios. 
-
 
 
 ## La liberación de Pablo y Silas de la cárcel
 ^35^ Y como fué de día, los magistrados enviaron los alguaciles, diciendo: Deja ir á aquellos hombres. 
 
-
 ^36^ Y el carcelero hizo saber estas palabras á Pablo: Los magistrados han enviado á decir que seáis sueltos: así que ahora salid, é id en paz. 
 
-
 ^37^ Entonces Pablo les dijo: Azotados públicamente sin ser condenados, siendo hombres Romanos, nos echaron en la cárcel; y ¿ahora nos echan encubiertamente? No, de cierto, sino vengan ellos y sáquennos. 
-
 
 ^38^ Y los alguaciles volvieron á decir á los magistrados estas palabras: y tuvieron miedo, oído que eran Romanos. ^39^ Y viniendo, les rogaron; y sacándolos, les pidieron que se saliesen de la ciudad. ^40^ Entonces salidos de la cárcel, entraron en casa de Lidia; y habiendo visto á los hermanos, los consolaron, y se salieron. 
 
@@ -699,24 +614,19 @@
 
 ^4^ Y algunos de ellos creyeron, y se juntaron con Pablo y con Silas; y de los Griegos religiosos grande multitud, y mujeres nobles no pocas. ^^ ^5^ Entonces los Judíos que eran incrédulos, teniendo celos, tomaron consigo á algunos ociosos, malos hombres, y juntando compañía, alborotaron la ciudad; y acometiendo á la casa de Jasón, procuraban sacarlos al pueblo. ^6^ Mas no hallándolos, trajeron á Jasón y á algunos hermanos á los gobernadores de la ciudad, dando voces: Estos que alborotan el mundo, también han venido acá; ^7^ A los cuales Jasón ha recibido; y todos estos hacen contra los decretos de César, diciendo que hay otro rey, Jesús. ^^ ^8^ Y alborotaron al pueblo y á los gobernadores de la ciudad, oyendo estas cosas. ^9^ Mas recibida satisfacción de Jasón y de los demás, los soltaron. 
 
-
 ^[**17:4** 1Tes 1,1; 2Tes 1,1] ^[**17:7** Luc 23,2]
 
 ## Las experiencias de Pablo en Berea y su viaje a Atenas
 ^10^ Entonces los hermanos, luego de noche, enviaron á Pablo y á Silas á Berea; los cuales habiendo llegado, entraron en la sinagoga de los Judíos. 
 
-
 ^11^ Y fueron éstos más nobles que los que estaban en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando cada día las Escrituras, si estas cosas eran así. ^12^ Así que creyeron muchos de ellos; y mujeres Griegas de distinción, y no pocos hombres. ^13^ Mas como entendieron los Judíos de Tesalónica que también en Berea era anunciada la palabra de Dios por Pablo, fueron, y también allí tumultuaron al pueblo. ^14^ Empero luego los hermanos enviaron á Pablo que fuese como á la mar; y Silas y Timoteo se quedaron allí. ^^ ^15^ Y los que habían tomado á cargo á Pablo, le llevaron hasta Atenas; y tomando encargo para Silas y Timoteo, que viniesen á él lo más presto que pudiesen, partieron. 
-
 
 ^[**17:14** Hech 16,1]
 
 ## Pablo en Atenas
 ^16^ Y esperándolos Pablo en Atenas, su espíritu se deshacía en él viendo la ciudad dada á idolatría. ^17^ Así que, disputaba en la sinagoga con los Judíos y religiosos; y en la plaza cada día con los que le ocurrían. ^18^ Y algunos filósofos de los Epicúreos y de los Estóicos, disputaban con él; y unos decían: ¿Qué quiere decir este palabrero? Y otros: Parece que es predicador de nuevos dioses: porque les predicaba á Jesús y la resurrección. 
 
-
 ^19^ Y tomándole, le trajeron al Areópago, diciendo: ¿Podremos saber qué sea esta nueva doctrina que dices? ^20^ Porque pones en nuestros oídos unas nuevas cosas: queremos pues saber qué quiere ser esto. ^21^ (Entonces todos los Atenienses y los huéspedes extranjeros, en ninguna otra cosa entendían, sino ó en decir ó en oir alguna cosa nueva.) 
-
 
 
 ## Discurso de Pablo en el cerro del Areópago
@@ -725,7 +635,6 @@
 ^[**17:24** 1Re 8,27] ^[**17:25** Sal 50,9-12] ^[**17:26** Deut 32,8] ^[**17:27** Is 55,6] ^[**17:29** Gén 1,27; Is 40,18] ^[**17:30** Hech 14,16; Luc 24,47] ^[**17:31** Hech 10,42; Mat 25,31-33]
 
 ^32^ Y así como oyeron de la resurrección de los muertos, unos se burlaban, y otros decían: Te oiremos acerca de esto otra vez. 
-
 
 ^33^ Y así Pablo se salió de en medio de ellos. ^34^ Mas algunos creyeron, juntándose con él; entre los cuales también fué Dionisio el del Areópago, y una mujer llamada Dámaris, y otros con ellos. 
 
@@ -746,17 +655,14 @@
 ^11^ Y se detuvo allí un año y seis meses, enseñándoles la palabra de Dios. 
 
 
-
 ## La acusación contra los judíos fue rechazada por el gobernador Galión
 ^12^ Y siendo Galión procónsul de Acaya, los Judíos se levantaron de común acuerdo contra Pablo, y le llevaron al tribunal, ^13^ Diciendo: Que éste persuade á los hombres á honrar á Dios contra la ley. 
-
 
 ^14^ Y comenzando Pablo á abrir la boca, Galión dijo á los Judíos: Si fuera algún agravio ó algún crimen enorme, oh Judíos, conforme á derecho yo os tolerara: ^^ ^15^ Mas si son cuestiones de palabras, y de nombres, y de vuestra ley, vedlo vosotros; porque yo no quiero ser juez de estas cosas. ^^ ^16^ Y los echó del tribunal. 
 
 ^[**18:14** Hech 25,18-20] ^[**18:15** Juan 18,31]
 
 ^17^ Entonces todos los Griegos tomando á Sóstenes, prepósito de la sinagoga, le herían delante del tribunal: y á Galión nada se le daba de ello. 
-
 
 
 ## Regreso de Pablo vía Éfeso y Judea a Antioquía en Siria
@@ -784,21 +690,16 @@
 
 ^3^ Entonces dijo: ¿En qué pues sois bautizados? Y ellos dijeron: En el bautismo de Juan. 
 
-
 ^4^ Y dijo Pablo: Juan bautizó con bautismo de arrepentimiento, diciendo al pueblo que creyesen en el que había de venir después de él, es á saber, en Jesús el Cristo. 
 
-
 ^5^ Oído que hubieron esto, fueron bautizados en el nombre del Señor Jesús. ^6^ Y habiéndoles impuesto Pablo las manos, vino sobre ellos el Espíritu Santo; y hablaban en lenguas, y profetizaban. ^^ ^7^ Y eran en todos como unos doce hombres. 
-
 
 ^[**19:6** Hech 8,17; Hech 10,44; Hech 10,46]
 
 ## La actividad de dos años de enseñanza y milagros de Pablo en Éfeso
 ^8^ Y entrando él dentro de la sinagoga, hablaba libremente por espacio de tres meses, disputando y persuadiendo del reino de Dios. 
 
-
 ^9^ Mas endureciéndose algunos y no creyendo, maldiciendo el Camino delante de la multitud, apartándose Pablo de ellos separó á los discípulos, disputando cada día en la escuela de un cierto Tyranno. ^10^ Y esto fué por espacio de dos años; de manera que todos los que habitaban en Asia, Judíos y Griegos, oyeron la palabra del Señor Jesús. 
-
 
 ^11^ Y hacía Dios singulares maravillas por manos de Pablo: ^12^ De tal manera que aun se llevaban sobre los enfermos los sudarios y los pañuelos de su cuerpo, y las enfermedades se iban de ellos, y los malos espíritus salían de ellos. 
 
@@ -840,7 +741,6 @@
 ## Viaje a Grecia y regresa a Troas
 ^1^ Y después que cesó el alboroto, llamando Pablo á los discípulos habiéndoles exhortado y abrazado, se despidió, y partió para ir á Macedonia. ^2^ Y andado que hubo aquellas partes, y exhortádoles con abundancia de palabra, vino á Grecia. ^3^ Y después de haber estado allí tres meses, y habiendo de navegar á Siria, le fueron puestas asechanzas por los Judíos; y así tomó consejo de volverse por Macedonia. ^4^ Y le acompañaron hasta Asia Sopater Bereense, y los Tesalonicenses, Aristarco y Segundo; y Gayo de Derbe, y Timoteo; y de Asia, Tychîco y Trófimo. ^^ ^5^ Estos yendo delante, nos esperaron en Troas. ^6^ Y nosotros, pasados los días de los panes sin levadura, navegamos de Filipos y vinimos á ellos á Troas en cinco días, donde estuvimos siete días. 
 
-
 ^[**20:4** Hech 17,10; Hech 19,29; Hech 16,1; Hech 21,29; Efes 6,21]
 
 ## Celebración de despedida de Pablo en Troas; Reanimación del fallido Eutico
@@ -851,10 +751,8 @@
 ^11^ Después subiendo, y partiendo el pan, y gustando, habló largamente hasta el alba, y así partió. ^12^ Y llevaron al mozo vivo, y fueron consolados no poco. 
 
 
-
 ## El viaje de Pablo de Troas a Mileto
 ^13^ Y nosotros subiendo en el navío, navegamos á Assón, para recibir de allí á Pablo; pues así había determinado que debía él ir por tierra. ^14^ Y como se juntó con nosotros en Assón, tomándole vinimos á Mitilene. ^15^ Y navegando de allí, al día siguiente llegamos delante de Chîo, y al otro día tomamos puerto en Samo: y habiendo reposado en Trogilio, al día siguiente llegamos á Mileto. ^16^ Porque Pablo se había propuesto pasar adelante de Efeso; por no detenerse en Asia: porque se apresuraba por hacer el día de Pentecostés, si le fuese posible, en Jerusalem. 
-
 
 
 ## Encuentro de Pablo con los ancianos de Éfeso en Mileto; su discurso de despedida y su despedida
@@ -894,7 +792,6 @@
 ## Pablo en Jerusalén y preso en Cesarea
 ^15^ Y después de estos días, apercibidos, subimos á Jerusalem. ^16^ Y vinieron también con nosotros de Cesarea algunos de los discípulos, trayendo consigo á un Mnasón, Cyprio, discípulo antiguo, con el cual posásemos. 
 
-
 ^17^ Y cuando llegamos á Jerusalem, los hermanos nos recibieron de buena voluntad. ^18^ Y al día siguiente Pablo entró con nosotros á Jacobo, y todos los ancianos se juntaron; ^^ ^19^ A los cuales, como los hubo saludado, contó por menudo lo que Dios había hecho entre los Gentiles por su ministerio. ^20^ Y ellos como lo oyeron, glorificaron á Dios, y le dijeron: Ya ves, hermano, cuántos millares de Judíos hay que han creído; y todos son celadores de la ley: ^21^ Mas fueron informados acerca de ti, que enseñas á apartarse de Moisés á todos los Judíos que están entre los Gentiles, diciéndoles que no han de circuncidar á los hijos, ni andar según la costumbre. ^^ ^22^ ¿Qué hay pues? La multitud se reunirá de cierto: porque oirán que has venido. ^23^ Haz pues esto que te decimos: Hay entre nosotros cuatro hombres que tienen voto sobre sí: ^24^ Tomando á éstos contigo, purifícate con ellos, y gasta con ellos, para que rasuren sus cabezas, y todos entiendan que no hay nada de lo que fueron informados acerca de ti; sino que tú también andas guardando la ley. ^25^ Empero cuanto á los que de los Gentiles han creído, nosotros hemos escrito haberse acordado que no guarden nada de esto; solamente que se abstengan de lo que fuere sacrificado á los ídolos, y de sangre, y de ahogado, y de fornicación. 
 ^^ 
 ^[**21:18** Hech 15,13] ^[**21:21** Hech 16,3] ^[**21:25** Hech 15,20; Hech 15,29]
@@ -912,7 +809,6 @@
 ^30^ Así que, toda la ciudad se alborotó, y agolpóse el pueblo; y tomando á Pablo, hiciéronle salir fuera del templo, y luego las puertas fueron cerradas. 
 
 
-
 ## Captura de Pablo por el coronel romano Lisias
 ^31^ Y procurando ellos matarle, fué dado aviso al tribuno de la compañía, que toda la ciudad de Jerusalem estaba alborotada; ^32^ El cual tomando luego soldados y centuriones, corrió á ellos. Y ellos como vieron al tribuno y á los soldados, cesaron de herir á Pablo. ^33^ Entonces llegando el tribuno, le prendió, y le mandó atar con dos cadenas; y preguntó quién era, y qué había hecho. ^^ ^34^ Y entre la multitud, unos gritaban una cosa, y otros otra: y como no podía entender nada de cierto á causa del alboroto, le mandó llevar á la fortaleza. 
 
@@ -920,19 +816,15 @@
 
 ^35^ Y como llegó á las gradas, aconteció que fué llevado de los soldados á causa de la violencia del pueblo; ^36^ Porque multitud de pueblo venía detrás, gritando: Mátale. ^37^ Y como comenzaron á meter á Pablo en la fortaleza, dice al tribuno: ¿Me será lícito hablarte algo? Y él dijo: ¿Sabes griego? 
 
-
 ^38^ ¿No eres tú aquel Egipcio que levantaste una sedición antes de estos días, y sacaste al desierto cuatro mil hombres salteadores? 
 
-
 ^39^ Entonces dijo Pablo: Yo de cierto soy hombre Judío, ciudadano de Tarso, ciudad no obscura de Cilicia: empero ruégote que me permitas que hable al pueblo. 
-
 
 ^40^ Y como él se lo permitió, Pablo, estando en pie en las gradas, hizo señal con la mano al pueblo. Y hecho grande silencio, habló en lengua hebrea, diciendo: 
 
 # 22 
 ## El discurso de Pablo al pueblo
 ^1^ Varones hermanos y padres, oid la razón que ahora os doy. 
-
 
 ^2^ (Y como oyeron que les hablaba en lengua hebrea, guardaron más silencio.) Y dijo: 
 ^^ 
@@ -944,15 +836,11 @@
 
 ^6^ Mas aconteció que yendo yo, y llegando cerca de Damasco, como á medio día, de repente me rodeó mucha luz del cielo: ^7^ Y caí en el suelo, y oí una voz que me decía: Saulo, Saulo, ¿por qué me persigues? ^8^ Yo entonces respondí: ¿Quién eres, Señor? Y me dijo: Yo soy Jesús de Nazaret, á quien tú persigues. 
 
-
 ^9^ Y los que estaban conmigo vieron á la verdad la luz, y se espantaron; mas no oyeron la voz del que hablaba conmigo. ^10^ Y dije: ¿Qué haré, Señor? Y el Señor me dijo: Levántate, y ve á Damasco, y allí te será dicho todo lo que te está señalado hacer. ^11^ Y como yo no viese por causa de la claridad de la luz, llevado de la mano por los que estaban conmigo, vine á Damasco. 
-
 
 ^12^ Entonces un Ananías, varón pío conforme á la ley, que tenía buen testimonio de todos los Judíos que allí moraban, ^13^ Viniendo á mí, y acercándose, me dijo: Hermano Saulo, recibe la vista. Y yo en aquella hora le miré. ^14^ Y él dijo: El Dios de nuestros padres te ha predestinado para que conocieses su voluntad, y vieses á aquel Justo, y oyeses la voz de su boca. ^15^ Porque has de ser testigo suyo á todos los hombres, de lo que has visto y oído. ^16^ Ahora pues, ¿por qué te detienes? Levántate, y bautízate, y lava tus pecados, invocando su nombre. 
 
-
 ^17^ Y me aconteció, vuelto á Jerusalem, que orando en el templo, fuí arrebatado fuera de mí. ^18^ Y le vi que me decía: Date prisa, y sal prestamente fuera de Jerusalem; porque no recibirán tu testimonio de mí. ^19^ Y yo dije: Señor, ellos saben que yo encerraba en cárcel, y hería por las sinagogas á los que creían en ti; ^20^ Y cuando se derramaba la sangre de Esteban tu testigo, yo también estaba presente, y consentía á su muerte, y guardaba las ropas de los que le mataban. 
-
 
 ^21^ Y me dijo: Ve, porque yo te tengo que enviar lejos á los Gentiles. 
 
@@ -970,15 +858,11 @@
 
 ^26^ Y como el centurión oyó esto, fué y dió aviso al tribuno, diciendo: ¿Qué vas á hacer? porque este hombre es Romano. 
 
-
 ^27^ Y viniendo el tribuno, le dijo: Dime, ¿eres tú Romano? Y él dijo: Sí. 
-
 
 ^28^ Y respondió el tribuno: Yo con grande suma alcancé esta ciudadanía. Entonces Pablo dijo: Pero yo lo soy de nacimiento. 
 
-
 ^29^ Así que, luego se apartaron de él los que le habían de atormentar: y aun el tribuno también tuvo temor, entendido que era Romano, por haberle atado. 
-
 
 
 ## Pablo ante el sumo consejo judío
@@ -987,9 +871,7 @@
 # 23 
 ^1^ Entonces Pablo, poniendo los ojos en el concilio, dice: Varones hermanos, yo con toda buena conciencia he conversado delante de Dios hasta el día de hoy. 
 
-
 ^2^ El príncipe de los sacerdotes, Ananías, mandó entonces á los que estaban delante de él, que le hiriesen en la boca. 
-
 
 ^3^ Entonces Pablo le dijo: Herirte ha Dios, pared blanqueada: ¿y estás tú sentado para juzgarme conforme á la ley, y contra la ley me mandas herir? 
 ^^ 
@@ -997,19 +879,15 @@
 
 ^4^ Y los que estaban presentes dijeron: ¿Al sumo sacerdote de Dios maldices? 
 
-
 ^5^ Y Pablo dijo: No sabía, hermanos, que era el sumo sacerdote; pues escrito está: Al príncipe de tu pueblo no maldecirás. 
 
-
 ^6^ Entonces Pablo, sabiendo que la una parte era de Saduceos, y la otra de Fariseos, clamó en el concilio: Varones hermanos, yo soy Fariseo, hijo de Fariseo: de la esperanza y de la resurrección de los muertos soy yo juzgado. 
-
 
 ^7^ Y como hubo dicho esto, fué hecha disensión entre los Fariseos y los Saduceos; y la multitud fué dividida. ^8^ Porque los Saduceos dicen que no hay resurrección, ni ángel, ni espíritu; mas los Fariseos confiesan ambas cosas. ^^ ^9^ Y levantóse un gran clamor: y levantándose los escribas de la parte de los Fariseos, contendían diciendo: Ningún mal hallamos en este hombre; que si espíritu le ha hablado, ó ángel, no resistamos á Dios. 
 ^^ 
 ^[**23:8** Mat 22,23] ^[**23:9** Hech 25,25; Hech 5,39]
 
 ^10^ Y habiendo grande disensión, el tribuno, teniendo temor de que Pablo fuese despedazado de ellos, mandó venir soldados, y arrebatarle de en medio de ellos, y llevarle á la fortaleza. 
-
 
 ^11^ Y la noche siguiente, presentándosele el Señor, le dijo: Confía, Pablo; que como has testificado de mí en Jerusalem, así es menester testifiques también en Roma. 
 
@@ -1019,32 +897,23 @@
 ## Intento de asesinato de los judíos contra Pablo
 ^12^ Y venido el día, algunos de los Judíos se juntaron, é hicieron voto bajo de maldición, diciendo que ni comerían ni beberían hasta que hubiesen muerto á Pablo. ^13^ Y eran más de cuarenta los que habían hecho esta conjuración; ^14^ Los cuales se fueron á los príncipes de los sacerdotes y á los ancianos, y dijeron: Nosotros hemos hecho voto debajo de maldición, que no hemos de gustar nada hasta que hayamos muerto á Pablo. ^15^ Ahora pues, vosotros, con el concilio, requerid al tribuno que le saque mañana á vosotros como que queréis entender de él alguna cosa más cierta; y nosotros, antes que él llegue, estaremos aparejados para matarle. 
 
-
 ^16^ Entonces un hijo de la hermana de Pablo, oyendo las asechanzas, fué, y entró en la fortaleza, y dió aviso á Pablo. ^17^ Y Pablo, llamando á uno de los centuriones, dice: Lleva á este mancebo al tribuno, porque tiene cierto aviso que darle. 
-
 
 ^18^ El entonces tomándole, le llevó al tribuno, y dijo: El preso Pablo, llamándome, me rogó que trajese á ti este mancebo, que tiene algo que hablarte. 
 
-
 ^19^ Y el tribuno, tomándole de la mano y retirándose aparte, le preguntó: ¿Qué es lo que tienes que decirme? 
-
 
 ^20^ Y él dijo: Los Judíos han concertado rogarte que mañana saques á Pablo al concilio, como que han de inquirir de él alguna cosa más cierta. ^21^ Mas tú no los creas; porque más de cuarenta hombres de ellos le acechan, los cuales han hecho voto debajo de maldición, de no comer ni beber hasta que le hayan muerto; y ahora están apercibidos esperando tu promesa. 
 
-
 ^22^ Entonces el tribuno despidió al mancebo, mandándole que á nadie dijese que le había dado aviso de esto. 
-
 
 
 ## Carta del coronel Lysias al gobernador Félix; Traslado de Pablo de Jerusalén a Cesarea
 ^23^ Y llamados dos centuriones, mandó que apercibiesen para la hora tercia de la noche doscientos soldados, que fuesen hasta Cesarea, y setenta de á caballo, y doscientos lanceros; 
 
-
 ^24^ Y que aparejasen cabalgaduras en que poniendo á Pablo, le llevasen en salvo á Félix el Presidente. ^25^ Y escribió una carta en estos términos: 
 
-
 ^26^ Claudio Lisias al excelentísimo gobernador Félix: Salud. 
-
 
 ^27^ A este hombre, aprehendido de los Judíos, y que iban ellos á matar, libré yo acudiendo con la tropa, habiendo entendido que era Romano. ^28^ Y queriendo saber la causa por qué le acusaban, le llevé al concilio de ellos: ^^ ^29^ Y hallé que le acusaban de cuestiones de la ley de ellos, y que ningún crimen tenía digno de muerte ó de prisión. ^^ ^30^ Mas siéndome dado aviso de asechanzas que le habían aparejado los Judíos, luego al punto le he enviado á ti, intimando también á los acusadores que traten delante de ti lo que tienen contra él. Pásalo bien. 
 ^^ 
@@ -1060,7 +929,6 @@
 
 ^9^ Y contendían también los Judíos, diciendo ser así estas cosas. 
 
-
 ^10^ Entonces Pablo, haciéndole el gobernador señal que hablase, respondió: Porque sé que muchos años ha eres gobernador de esta nación, con buen ánimo satisfaré por mí. ^11^ Porque tú puedes entender que no hace más de doce días que subí á adorar á Jerusalem; ^12^ Y ni me hallaron en el templo disputando con ninguno, ni haciendo concurso de multitud, ni en sinagogas, ni en la ciudad; ^13^ Ni te pueden probar las cosas de que ahora me acusan. ^14^ Esto empero te confieso, que conforme á aquel Camino que llaman herejía, así sirvo al Dios de mis padres, creyendo todas las cosas que en la ley y en los profetas están escritas; ^15^ Teniendo esperanza en Dios que ha de haber resurrección de los muertos, así de justos como de injustos, la cual también ellos esperan. ^16^ Y por esto, procuro yo tener siempre conciencia sin remordimiento acerca de Dios y acerca de los hombres. ^^ ^17^ Mas pasados muchos años, vine á hacer limosnas á mi nación, y ofrendas, ^^ ^18^ Cuando me hallaron purificado en el templo (no con multitud ni con alboroto) unos Judíos de Asia; ^^ ^19^ Los cuales debieron comparecer delante de ti, y acusarme, si contra mí tenían algo. ^20^ O digan estos mismos si hallaron en mí alguna cosa mal hecha, cuando yo estuve en el concilio, ^21^ Si no sea que, estando entre ellos prorrumpí en alta voz: Acerca de la resurrección de los muertos soy hoy juzgado de vosotros. 
 
 ^[**24:16** Hech 23,1] ^[**24:17** Rom 15,25-26; Gal 2,10] ^[**24:18** Hech 21,27]
@@ -1073,7 +941,6 @@
 ## Pablo ante Felix y Drusilla; Felix retrasó el juicio
 ^24^ Y algunos días después, viniendo Félix con Drusila, su mujer, la cual era Judía, llamó á Pablo, y oyó de él la fe que es en Jesucristo. ^25^ Y disertando él de la justicia, y de la continencia, y del juicio venidero, espantado Félix, respondió: Ahora vete; mas en teniendo oportunidad te llamaré: ^26^ Esperando también con esto, que de parte de Pablo le serían dados dineros, porque le soltase; por lo cual, haciéndole venir muchas veces, hablaba con él. 
 
-
 ^27^ Mas al cabo de dos años recibió Félix por sucesor á Porcio Festo: y queriendo Félix ganar la gracia de los Judíos, dejó preso á Pablo. 
 
 # 25 
@@ -1084,16 +951,13 @@
 
 ^6^ Y deteniéndose entre ellos no más de ocho ó diez días, venido á Cesarea, el siguiente día se sentó en el tribunal, y mandó que Pablo fuese traído. ^7^ El cual venido, le rodearon los Judíos que habían venido de Jerusalem, poniendo contra Pablo muchas y graves acusaciones, las cuales no podían probar; ^8^ Alegando él por su parte: Ni contra la ley de los Judíos, ni contra el templo, ni contra César he pecado en nada. 
 
-
 ^9^ Mas Festo, queriendo congraciarse con los Judíos, respondiendo á Pablo, dijo: ¿Quieres subir á Jerusalem, y allá ser juzgado de estas cosas delante de mí? 
-
 
 ^10^ Y Pablo dijo: Ante el tribunal de César estoy, donde conviene que sea juzgado. A los Judíos no he hecho injuria ninguna, como tú sabes muy bien. ^11^ Porque si alguna injuria, ó cosa alguna digna de muerte he hecho, no rehuso morir; mas si nada hay de las cosas de que éstos me acusan, nadie puede darme á ellos. A César apelo. 
 ^^ 
 ^[**25:11** Hech 23,11; Hech 28,19]
 
 ^12^ Entonces Festo, habiendo hablado con el consejo, respondió: ¿A César has apelado? á César irás. 
-
 
 
 ## Herodes Agripa II y Berenice como invitados en Festo en Cesarea; Festo informa a Agripa de la causa de Pablo
@@ -1113,9 +977,7 @@
 ## Discurso defensivo de Pablo ante Agripa
 ^1^ Entonces Agripa dijo á Pablo: Se te permite hablar por ti mismo. Pablo entonces, extendiendo la mano, comenzó á responder por sí, diciendo: 
 
-
 ^2^ Acerca de todas las cosas de que soy acusado por los Judíos, oh rey Agripa, me tengo por dichoso de que haya hoy de defenderme delante de ti; ^3^ Mayormente sabiendo tú todas las costumbres y cuestiones que hay entre los Judíos: por lo cual te ruego que me oigas con paciencia. 
-
 
 ^4^ Mi vida pues desde la mocedad, la cual desde el principio fué en mi nación, en Jerusalem, todos los Judíos la saben: ^5^ Los cuales tienen ya conocido que yo desde el principio, si quieren testificarlo, conforme á la más rigurosa secta de nuestra religión he vivido Fariseo. ^^ ^6^ Y ahora, por la esperanza de la promesa que hizo Dios á nuestros padres, soy llamado en juicio; ^^ ^7^ A la cual promesa nuestras doce tribus, sirviendo constantemente de día y de noche, esperan que han de llegar. Por la cual esperanza, oh rey Agripa, soy acusado de los Judíos. ^^ ^8^ ¡Qué! ¿Júzgase cosa increíble entre vosotros que Dios resucite los muertos? 
 ^^ 
@@ -1127,12 +989,9 @@
 
 ^12^ En lo cual ocupado, yendo á Damasco con potestad y comisión de los príncipes de los sacerdotes, ^13^ En mitad del día, oh rey, vi en el camino una luz del cielo, que sobrepujaba el resplandor del sol, la cual me rodeó y á los que iban conmigo. ^14^ Y habiendo caído todos nosotros en tierra, oí una voz que me hablaba, y decía en lengua hebraica: Saulo, Saulo, ¿por qué me persigues? Dura cosa te es dar coces contra los aguijones. 
 
-
 ^15^ Yo entonces dije: ¿Quién eres, Señor? Y el Señor dijo: Yo soy Jesús, á quien tú persigues. 
 
-
 ^16^ Mas levántate, y ponte sobre tus pies; porque para esto te he aparecido, para ponerte por ministro y testigo de las cosas que has visto, y de aquellas en que apareceré á ti: ^17^ Librándote del pueblo y de los Gentiles, á los cuales ahora te envío, ^18^ Para que abras sus ojos, para que se conviertan de las tinieblas á la luz, y de la potestad de Satanás á Dios; para que reciban, por la fe que es en mí, remisión de pecados y suerte entre los santificados. 
-
 
 ^19^ Por lo cual, oh rey Agripa, no fuí rebelde á la visión celestial: ^^ ^20^ Antes anuncié primeramente á los que están en Damasco, y Jerusalem, y por toda la tierra de Judea, y á los Gentiles, que se arrepintiesen y se convirtiesen á Dios, haciendo obras dignas de arrepentimiento. ^21^ Por causa de esto los Judíos, tomándome en el templo, tentaron matarme. ^22^ Mas ayudado del auxilio de Dios, persevero hasta el día de hoy, dando testimonio á pequeños y á grandes, no diciendo nada fuera de las cosas que los profetas y Moisés dijeron que habían de venir: ^^ ^23^ Que Cristo había de padecer, y ser el primero de la resurrección de los muertos, para anunciar luz al pueblo y á los Gentiles. 
 
@@ -1142,16 +1001,13 @@
 ## Impresión del discurso
 ^24^ Y diciendo él estas cosas en su defensa, Festo á gran voz dijo: Estás loco, Pablo: las muchas letras te vuelven loco. 
 
-
 ^25^ Mas él dijo: No estoy loco, excelentísimo Festo, sino que hablo palabras de verdad y de templanza. ^26^ Pues el rey sabe estas cosas, delante del cual también hablo confiadamente. Pues no pienso que ignora nada de esto; pues no ha sido esto hecho en algún rincón. ^^ ^27^ ¿Crees, rey Agripa, á los profetas? Yo sé que crees. 
 
 ^[**26:26** Juan 18,20]
 
 ^28^ Entonces Agripa dijo á Pablo: Por poco me persuades á ser Cristiano. 
 
-
 ^29^ Y Pablo dijo: ¡Pluguiese á Dios que por poco ó por mucho, no solamente tú, mas también todos los que hoy me oyen, fueseis hechos tales cual yo soy, excepto estas prisiones! 
-
 
 ^30^ Y como hubo dicho estas cosas, se levantó el rey, y el presidente, y Bernice, y los que se habían sentado con ellos; ^31^ Y como se retiraron aparte, hablaban los unos á los otros, diciendo: Ninguna cosa digna ni de muerte, ni de prisión, hace este hombre. ^32^ Y Agripa dijo á Festo: Podía este hombre ser suelto, si no hubiera apelado á César. 
 
@@ -1164,10 +1020,8 @@
 ^9^ Y pasado mucho tiempo, y siendo ya peligrosa la navegación, porque ya era pasado el ayuno, Pablo amonestaba, ^10^ Diciéndoles: Varones, veo que con trabajo y mucho daño, no sólo de la cargazón y de la nave, mas aun de nuestras personas, habrá de ser la navegación. ^11^ Mas el centurión creía más al piloto y al patrón de la nave, que á lo que Pablo decía. ^12^ Y no habiendo puerto cómodo para invernar, muchos acordaron pasar aún de allí, por si pudiesen arribar á Fenice é invernar allí, que es un puerto de Creta que mira al Nordeste y Sudeste. 
 
 
-
 ## Tormenta marina y naufragio; Rescate en Malta
 ^13^ Y soplando el austro, pareciéndoles que ya tenían lo que deseaban, alzando velas, iban cerca de la costa de Creta. ^14^ Mas no mucho después dió en ella un viento repentino, que se llama Euroclidón. ^15^ Y siendo arrebatada la nave, y no pudiendo resistir contra el viento, la dejamos, y éramos llevados. ^16^ Y habiendo corrido á sotavento de una pequeña isla que se llama Clauda, apenas pudimos ganar el esquife: ^17^ El cual tomado, usaban de remedios, ciñendo la nave; y teniendo temor de que diesen en la Sirte, abajadas las velas, eran así llevados. ^18^ Mas siendo atormentados de una vehemente tempestad, al siguiente día alijaron; ^19^ Y al tercer día nosotros con nuestras manos arrojamos los aparejos de la nave. ^20^ Y no pareciendo sol ni estrellas por muchos días, y viniendo una tempestad no pequeña, ya era perdida toda la esperanza de nuestra salud. 
-
 
 
 ## Pablo como consejero, consolador y salvador en angustia
@@ -1177,15 +1031,12 @@
 
 ^27^ Y venida la décimacuarta noche, y siendo llevados por el mar Adriático, los marineros á la media noche sospecharon que estaban cerca de alguna tierra; ^28^ Y echando la sonda, hallaron veinte brazas; y pasando un poco más adelante, volviendo á echar la sonda, hallaron quince brazas. ^29^ Y habiendo temor de dar en lugares escabrosos, echando cuatro anclas de la popa, deseaban que se hiciese de día. ^30^ Entonces procurando los marineros huir de la nave, echado que hubieron el esquife á la mar, aparentando como que querían largar las anclas de proa, ^31^ Pablo dijo al centurión y á los soldados: Si éstos no quedan en la nave, vosotros no podéis salvaros. ^32^ Entonces los soldados cortaron los cabos del esquife, y dejáronlo perder. 
 
-
 ^33^ Y como comenzó á ser de día, Pablo exhortaba á todos que comiesen, diciendo: Este es el décimocuarto día que esperáis y permanecéis ayunos, no comiendo nada. ^34^ Por tanto, os ruego que comáis por vuestra salud: que ni aun un cabello de la cabeza de ninguno de vosotros perecerá. ^^ ^35^ Y habiendo dicho esto, tomando el pan, hizo gracias á Dios en presencia de todos, y partiendo, comenzó á comer. ^^ ^36^ Entonces todos teniendo ya mejor ánimo, comieron ellos también. ^37^ Y éramos todas las personas en la nave doscientas setenta y seis. ^38^ Y satisfechos de comida, aliviaban la nave, echando el grano á la mar. 
-
 
 ^[**27:34** Mat 10,30] ^[**27:35** Juan 6,11]
 
 ## Naufragio en la faz de la isla de Malta; Rescata a los náufragos
 ^39^ Y como se hizo de día, no conocían la tierra: mas veían un golfo que tenía orilla, al cual acordaron echar, si pudiesen, la nave. ^40^ Cortando pues las anclas, las dejaron en la mar, largando también las ataduras de los gobernalles; y alzada la vela mayor al viento, íbanse á la orilla. ^41^ Mas dando en un lugar de dos aguas, hicieron encallar la nave; y la proa, hincada, estaba sin moverse, y la popa se abría con la fuerza de la mar. 
-
 
 ^42^ Entonces el acuerdo de los soldados era que matasen los presos, porque ninguno se fugase nadando. ^43^ Mas el centurión, queriendo salvar á Pablo, estorbó este acuerdo, y mandó que los que pudiesen nadar, se echasen los primeros, y saliesen á tierra; ^44^ Y los demás, parte en tablas, parte en cosas de la nave. Y así aconteció que todos se salvaron saliendo á tierra. ^^ 
 ^[**27:44** Hech 27,22-25] 
@@ -1193,7 +1044,6 @@
 # 28 
 ## Invernada en la isla de Malta; Continuación del viaje a Roma
 ^1^ Y cuando escapamos, entonces supimos que la isla se llamaba Melita. ^2^ Y los bárbaros nos mostraron no poca humanidad; porque, encendido un fuego, nos recibieron á todos, á causa de la lluvia que venía, y del frío. 
-
 
 
 ## Salvación de Pablo del peligro de la vida
@@ -1206,10 +1056,8 @@
 ^7^ En aquellos lugares había heredades del principal de la isla, llamado Publio, el cual nos recibió y hospedó tres días humanamente. ^8^ Y aconteció que el padre de Publio estaba en cama, enfermo de fiebres y de disentería: al cual Pablo entró, y después de haber orado, le puso las manos encima, y le sanó: ^9^ Y esto hecho, también los otros que en la isla tenían enfermedades, llegaban, y eran sanados: ^10^ Los cuales también nos honraron con muchos obsequios; y cuando partimos, nos cargaron de las cosas necesarias. 
 
 
-
 ## Continuación del viaje vía Siracusa y Puteoli hasta Roma
 ^11^ Así que, pasados tres meses, navegamos en una nave Alejandrina que había invernado en la isla, la cual tenía por enseña á Cástor y Pólux. ^12^ Y llegados á Siracusa, estuvimos allí tres días. ^13^ De allí, costeando alrededor, vinimos á Regio; y otro día después, soplando el austro, vinimos al segundo día á Puteolos: ^14^ Donde habiendo hallado hermanos, nos rogaron que quedásemos con ellos siete días; y luego vinimos á Roma; ^15^ De donde, oyendo de nosotros los hermanos, nos salieron á recibir hasta la plaza de Appio, y Las Tres Tabernas: á los cuales como Pablo vió, dió gracias á Dios, y tomó aliento. 
-
 
 
 ## Pablo en Roma
@@ -1229,12 +1077,9 @@
 
 ^23^ Y habiéndole señalado un día, vinieron á él muchos á la posada, á los cuales declaraba y testificaba el reino de Dios, persuadiéndoles lo concerniente á Jesús, por la ley de Moisés y por los profetas, desde la mañana hasta la tarde. ^24^ Y algunos asentían á lo que se decía, mas algunos no creían. ^25^ Y como fueron entre sí discordes, se fueron, diciendo Pablo esta palabra: Bien ha hablado el Espíritu Santo por el profeta Isaías á nuestros padres, ^26^ Diciendo: Ve á este pueblo, y diles: De oído oiréis, y no entenderéis; y viendo veréis, y no percibiréis: ^27^ Porque el corazón de este pueblo se ha engrosado, y de los oídos oyeron pesadamente, y sus ojos taparon; porque no vean con los ojos, y oigan con los oídos, y entiendan de corazón, y se conviertan, y yo los sane. 
 
-
 ^28^ Séaos pues notorio que á los Gentiles es enviada esta salud de Dios: y ellos oirán. 
 
-
 ^29^ Y habiendo dicho esto, los Judíos salieron, teniendo entre sí gran contienda. 
-
 
 
 ## El ministerio de dos años de Pablo en cautiverio en Roma

@@ -2,30 +2,22 @@
 ## La infidelidad de Israel a Dios representada visiblemente por el pacto matrimonial del profeta con una esposa infiel
 ^1^ Palabra de Jehová que fué á Oseas hijo de Beeri, en días de Ozías, Joathán, Achâz, y Ezechîas, reyes de Judá, y en días de Jeroboam hijo de Joas, rey de Israel.
 
- 
 ^2^ El principio de la palabra de Jehová con Oseas. Y dijo Jehová á Oseas: Ve, tómate una mujer fornicaria, é hijos de fornicaciones: porque la tierra se dará á fornicar apartándose de Jehová.
 
- 
 ^3^ Fué pues, y tomó á Gomer hija de Diblaim, la cual concibió y le parió un hijo.
 
- 
 ^4^ Y díjole Jehová: Ponle por nombre Jezreel; porque de aquí á poco yo visitaré las sangres de Jezreel sobre la casa de Jehú, y haré cesar el reino de la casa de Israel. 
 ^5^ Y acaecerá que en aquel día quebraré yo el arco de Israel en el valle de Jezreel.
 
- 
 ^6^ Y concibió aún, y parió una hija. Y díjole Dios: Ponle por nombre Lo-ruhama: porque no más tendré misericordia de la casa de Israel, sino que los quitaré del todo.
 
- 
 ^7^ Mas de la casa de Judá tendré misericordia, y salvarélos en Jehová su Dios: y no los salvaré con arco, ni con espada, ni con batalla, ni con caballos ni caballeros.
 
- 
 ^8^ Y después de haber destetado á Lo-ruhama, concibió y parió un hijo.
 
- 
 ^9^ Y dijo Dios: Ponle por nombre Lo-ammi: porque vosotros no sois mi pueblo, ni yo seré vuestro Dios.
 
 ## Un día, después de circunstancias más felices, los tres nombres desafortunados experimentarán una reinterpretación favorable
- 
 ^10^ Con todo será el número de los hijos de Israel como la arena de la mar, que ni se puede medir ni contar. Y será, que donde se les ha dicho: Vosotros no sois mi pueblo, les será dicho: Sois hijos del Dios viviente. 
 ^11^ Y los hijos de Judá y de Israel serán congregados en uno, y levantarán para sí una cabeza, y subirán de la tierra: porque el día de Jezreel será grande. 
 
@@ -33,7 +25,6 @@
 ^1^ Decid á vuestros hermanos, Ammi, y á vuestras hermanas, Ruhama:
 
 ## La falta de fe de la madre, es decir, del pueblo de Israel, y su castigo
- 
 ^2^ Pleitead con vuestra madre, pleitead; porque ella no es mi mujer, ni yo su marido; quite pues sus fornicaciones de su rostro, y sus adulterios de entre sus pechos; 
 ^3^ No sea que yo la despoje desnuda, y la haga tornar como el día en que nació, y la ponga como un desierto, y la deje como tierra seca, y la mate de sed. 
 ^4^ Ni tendré misericordia de sus hijos: porque son hijos de fornicaciones. 
@@ -48,7 +39,6 @@
 ^13^ Y visitaré sobre ella los tiempos de los Baales, á los cuales incensaba, y adornábase de sus zarcillos y de sus joyeles, é íbase tras sus amantes olvidada de mí, dice Jehová.
 
 ## Vergonzosa fidelidad de Dios y reunión con su esposa, es decir, su pueblo Israel
- 
 ^14^ Empero he aquí, yo la induciré, y la llevaré al desierto, y hablaré á su corazón. 
 ^15^ Y daréle sus viñas desde allí, y el valle de Achôr por puerta de esperanza; y allí cantará como en los tiempos de su juventud, y como en el día de su subida de la tierra de Egipto. 
 ^16^ Y será que en aquel tiempo, dice Jehová, me llamarás Marido mío, y nunca más me llamarás Baali. 
@@ -64,11 +54,9 @@
 ## El mejoramiento del pueblo infiel a través de la coacción, representado por el comportamiento del profeta hacia su esposa infiel
 ^1^ Y díjome otra vez Jehová: Ve, ama una mujer amada de su compañero, aunque adúltera, como el amor de Jehová para con los hijos de Israel; los cuales miran á dioses ajenos, y aman frascos de vino.
 
- 
 ^2^ Compréla entonces para mí por quince dineros de plata, y un homer y medio de cebada; 
 ^3^ Y díjele: Tú estarás por mía muchos días: no fornicarás, ni tomarás otro varón; ni tampoco yo vendré á ti.
 
- 
 ^4^ Porque muchos días estarán los hijos de Israel sin rey, y sin príncipe, y sin sacrificio, y sin estatua, y sin ephod, y sin teraphim. 
 ^5^ Después volverán los hijos de Israel, y buscarán á Jehová su Dios, y á David su rey; y temerán á Jehová y á su bondad en el fin de los días. 
 
@@ -79,7 +67,6 @@
 ^3^ Por lo cual, se enlutará la tierra, y extenuaráse todo morador de ella, con las bestias del campo, y las aves del cielo: y aun los peces de la mar fallecerán.
 
 ## Amenaza a los sacerdotes y profetas como líderes designados del pueblo
- 
 ^4^ Ciertamente hombre no contienda ni reprenda á hombre, porque tu pueblo es como los que resisten al sacerdote. 
 ^5^ Caerás por tanto en el día, y caerá también contigo el profeta de noche; y á tu madre talaré. 
 ^6^ Mi pueblo fué talado, porque le faltó sabiduría. Porque tú desechaste la sabiduría, yo te echaré del sacerdocio: y pues que olvidaste la ley de tu Dios, también yo me olvidaré de tus hijos. 
@@ -89,14 +76,12 @@
 ^10^ Y comerán, mas no se hartarán; fornicarán, mas no se aumentarán: porque dejaron de atender á Jehová.
 
 ## Queja sobre el culto pagano del pueblo
- 
 ^11^ Fornicación, y vino, y mosto quitan el corazón. 
 ^12^ Mi pueblo á su madero pregunta, y su palo le responde: porque espíritu de fornicaciones lo engañó, y fornicaron debajo de sus dioses. 
 ^13^ Sobre las cabezas de los montes sacrificaron, é incensaron sobre los collados, debajo de encinas, y álamos, y olmos que tuviesen buena sombra: por tanto, vuestras hijas fornicarán, y adulterarán vuestras nueras. 
 ^14^ No visitaré sobre vuestras hijas cuando fornicaren, ni sobre vuestras nueras cuando adulteraren: porque ellos ofrecen con las rameras, y con las malas mujeres sacrifican: por tanto, el pueblo sin entendimiento caerá.
 
 ## Advertencia a Judá idólatra y perturbadora
- 
 ^15^ Si fornicares tú, Israel, á lo menos no peque Judá: y no entréis en Gilgal, ni subáis á Beth-aven; ni juréis, Vive Jehová. 
 ^16^ Porque como becerra cerrera se apartó Israel: ¿apacentarálos ahora Jehová como á carneros en anchura? 
 ^17^ Ephraim es dado á ídolos; déjalo. 
@@ -114,7 +99,6 @@
 ^7^ Contra Jehová prevaricaron, porque hijos extraños han engendrado: ahora los devorará un mes con sus heredades.
 
 ## La posición de Dios sobre las guerras sirio-efraimitas
- 
 ^8^ Tocad bocina en Gabaa, trompeta en Ramá: sonad tambor en Beth-aven: tras ti, oh Benjamín. 
 ^9^ Ephraim será asolado el día del castigo: en las tribus de Israel hice conocer verdad. 
 ^10^ Los príncipes de Judá fueron como los que traspasan mojones: derramaré sobre ellos como agua mi ira. 
@@ -124,7 +108,6 @@
 ^14^ Porque yo seré como león á Ephraim, y como cachorro de león á la casa de Judá: yo, yo arrebataré, y andaré; tomaré, y no habrá quien liberte.
 
 ## Dios deja a Israel en su ruina; Rechaza la confesión de penitencia del pueblo por frívola
- 
 ^15^ Andaré, y tornaré á mi lugar hasta que conozcan su pecado, y busquen mi rostro. En su angustia madrugarán á mí. 
 
 # 6 
@@ -136,7 +119,6 @@
 ^6^ Porque misericordia quise, y no sacrificio; y conocimiento de Dios más que holocaustos.
 
 ## Lamentarse por el incumplimiento del pacto por parte de Israel y la ominosa depravación en toda la tierra
- 
 ^7^ Mas ellos, cual Adam, traspasaron el pacto: allí prevaricaron contra mí. 
 ^8^ Galaad, ciudad de obradores de iniquidad, ensuciada de sangre. 
 ^9^ Y como ladrones que esperan á algún hombre, así junta de sacerdotes mancomunadamente mata en el camino: porque ponen en efecto la abominación. 
@@ -154,7 +136,6 @@
 ^7^ Todos ellos arden como un horno, y devoraron á sus jueces: cayeron todos sus reyes: no hay entre ellos quien á mí clame.
 
 ## La reprensible relación entre Efraín y las principales potencias extranjeras
- 
 ^8^ Ephraim se envolvió con los pueblos; Ephraim fué torta no vuelta. 
 ^9^ Comieron extraños su sustancia, y él no lo supo; y aun vejez se ha esparcido por él, y él no lo entendió. 
 ^10^ Y la soberbia de Israel testificará contra él en su cara: y no se tornaron á Jehová su Dios, ni lo buscaron con todo esto. 
@@ -193,12 +174,10 @@
 ^7^ Vinieron los días de la visitación, vinieron los días de la paga; conocerálo Israel: necio el profeta, insensato el varón de espíritu, á causa de la multitud de tu maldad, y grande odio.
 
 ## Las recreaciones preparadas para Oseas
- 
 ^8^ Atalaya es Ephraim para con mi Dios: el profeta es lazo de cazador en todos sus caminos, odio en la casa de su Dios. 
 ^9^ Llegaron al profundo, corrompiéronse, como en los días de Gabaa: ahora se acordará de su iniquidad; visitará su pecado.
 
 ## Israel castigado sin hijos como resultado de su apostasía a Baal y rechazado por Dios
- 
 ^10^ Como uvas en el desierto hallé á Israel: como la fruta temprana de la higuera en su principio vi á vuestros padres. Ellos entraron á Baal-peor, y se apartaron para vergüenza, é hiciéronse abominables como aquello que amaron. 
 ^11^ Ephraim, cual ave volará su gloria desde el nacimiento, aun desde el vientre y desde la concepción. 
 ^12^ Y si llegaren á grandes sus hijos, quitarélos de entre los hombres, porque ¡ay de ellos también, cuando de ellos me apartare! 
@@ -220,7 +199,6 @@
 ^8^ Y los altares de Avén serán destruídos, el pecado de Israel; crecerá sobre sus altares espino y cardo. Y dirán á los montes: Cubridnos; y á los collados: Caed sobre nosotros.
 
 ## La continua pecaminosidad de Israel; su castigo y eventual aniquilación por la guerra
- 
 ^9^ Desde los días de Gabaa has pecado, oh Israel: allí estuvieron: no los tomó la batalla en Gabaa contra los inicuos. 
 ^10^ Y los castigaré como deseo: y pueblos se juntarán sobre ellos cuando serán atados en sus dos surcos. 
 ^11^ Ephraim es becerra domada, amadora del trillar; mas yo pasaré sobre su lozana cerviz: yo haré llevar yugo á Ephraim; arará Judá, quebrará sus terrones Jacob. 
@@ -268,7 +246,6 @@
 ^4^ Mas yo soy Jehová tu Dios desde la tierra de Egipto: no conocerás pues Dios fuera de mí, ni otro Salvador sino á mí.
 
 ## Amenaza de devastadora ira divina
- 
 ^5^ Yo te conocí en el desierto, en tierra seca. 
 ^6^ En sus pastos se hartaron, hartáronse, y ensoberbecióse su corazón: por esta causa se olvidaron de mí. 
 ^7^ Por tanto, yo seré para ellos como león; como un leopardo en el camino los espiaré. 
@@ -278,7 +255,6 @@
 ^11^ Díte rey en mi furor, y quitélo en mi ira.
 
 ## Anuncio de la terrible caída del pueblo pecador
- 
 ^12^ Atada está la maldad de Ephraim; su pecado está guardado. 
 ^13^ Dolores de mujer de parto le vendrán: es un hijo ignorante, que de otra manera no estuviera tanto tiempo en el rompimiento de los hijos. 
 ^14^ De la mano del sepulcro los redimiré, librarélos de la muerte. Oh muerte, yo seré tu muerte; y seré tu destrucción, oh sepulcro; arrepentimiento será escondido de mis ojos. 
@@ -292,7 +268,7 @@
 ^3^ No nos librará Assur; no subiremos sobre caballos, ni nunca más diremos á la obra de nuestras manos: Dioses nuestros: porque en ti el huérfano alcanzará misericordia. 
 ^4^ Yo medicinaré su rebelión, amarélos de voluntad: porque mi furor se apartó de ellos.
 
-## La promesa de Dios de salvación
+## La promesa de Dios de salvación
  
 ^5^ Yo seré á Israel como rocío; él florecerá como lirio, y extenderá sus raíces como el Líbano. 
 ^6^ Extenderse han sus ramos, y será su gloria como la de la oliva, y olerá como el Líbano. 

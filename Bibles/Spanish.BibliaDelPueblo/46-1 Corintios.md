@@ -5,7 +5,6 @@
 ^3^ Gracia y paz de Dios nuestro Padre, y del Señor Jesucristo.
 
 ## Acción de gracias del apóstol por la rica gracia de Dios que cayó sobre los corintios; esperanza segura para el futuro
- 
 ^4^ Gracias doy á mi Dios siempre por vosotros, por la gracia de Dios que os es dada en Cristo Jesús; 
 ^5^ Que en todas las cosas sois enriquecidos en él, en toda lengua y en toda ciencia; 
 ^6^ Así como el testimonio de Cristo ha sido confirmado en vosotros: 
@@ -14,7 +13,6 @@
 ^9^ Fiel es Dios, por el cual sois llamados á la participación de su Hijo Jesucristo nuestro Señor.
 
 ## Contiendas en la iglesia
- 
 ^10^ Os ruego pues, hermanos, por el nombre de nuestro Señor Jesucristo, que habléis todos una misma cosa, y que no haya entre vosotros disensiones, antes seáis perfectamente unidos en una misma mente y en un mismo parecer. 
 ^11^ Porque me ha sido declarado de vosotros, hermanos míos, por los que son de Cloé, que hay entre vosotros contiendas; 
 ^12^ Quiero decir, que cada uno de vosotros dice: Yo cierto soy de Pablo; pues yo de Apolos; y yo de Cefas; y yo de Cristo. 
@@ -25,11 +23,9 @@
 ^17^ Porque no me envió Cristo á bautizar, sino á predicar el evangelio: no en sabiduría de palabras, porque no sea hecha vana la cruz de Cristo.
 
 ## La palabra de la cruz es un poder divino, opuesto a la sabiduría mundial y respetado por el mundo como una locura
- 
 ^18^ Porque la palabra de la cruz es locura á los que se pierden; mas á los que se salvan, es á saber, á nosotros, es potencia de Dios. 
 ^19^ Porque está escrito: Destruiré la sabiduría de los sabios, y desecharé la inteligencia de los entendidos.
 
- 
 ^20^ ¿Qué es del sabio? ¿qué del escriba? ¿qué del escudriñador de este siglo? ¿no ha enloquecido Dios la sabiduría del mundo? 
 ^21^ Porque por no haber el mundo conocido en la sabiduría de Dios á Dios por sabiduría, agradó á Dios salvar á los creyentes por la locura de la predicación. 
 ^22^ Porque los Judíos piden señales, y los Griegos buscan sabiduría: 
@@ -38,7 +34,6 @@
 ^25^ Porque lo loco de Dios es más sabio que los hombres; y lo flaco de Dios es más fuerte que los hombres.
 
 ## Prueba de la existencia real de la comunidad cristiana llamada por Dios en Corinto
- 
 ^26^ Porque mirad, hermanos, vuestra vocación, que no sois muchos sabios según la carne, no muchos poderosos, no muchos nobles; 
 ^27^ Antes lo necio del mundo escogió Dios, para avergonzar á los sabios; y lo flaco del mundo escogió Dios, para avergonzar lo fuerte; 
 ^28^ Y lo vil del mundo y lo menospreciado escogió Dios, y lo que no es, para deshacer lo que es: 
@@ -55,14 +50,12 @@
 ^5^ Para que vuestra fe no esté fundada en sabiduría de hombres, mas en poder de Dios.
 
 ## La misteriosa sabiduría de Dios para los perfectos
- 
 ^6^ Empero hablamos sabiduría entre perfectos; y sabiduría, no de este siglo, ni de los príncipes de este siglo, que se deshacen: 
 ^7^ Mas hablamos sabiduría de Dios en misterio, la sabiduría oculta, la cual Dios predestinó antes de los siglos para nuestra gloria: 
 ^8^ La que ninguno de los príncipes de este siglo conoció; porque si la hubieran conocido, nunca hubieran crucificado al Señor de gloria: 
 ^9^ Antes, como está escrito: Cosas que ojo no vió, ni oreja oyó, ni han subido en corazón de hombre, son las que ha Dios preparado para aquellos que le aman.
 
 ## La exploración y absorción de esta sabiduría solo es posible para personas espirituales
- 
 ^10^ Empero Dios nos lo reveló á nosotros por el Espíritu: porque el Espíritu todo lo escudriña, aun lo profundo de Dios. 
 ^11^ Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios. 
 ^12^ Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que es de Dios, para que conozcamos lo que Dios nos ha dado; 
@@ -79,7 +72,6 @@
 ^4^ Porque diciendo el uno: Yo cierto soy de Pablo; y el otro: Yo de Apolos; ¿no sois carnales?
 
 ## Son siervos y colaboradores de Dios
- 
 ^5^ ¿Qué pues es Pablo? ¿y qué es Apolos? Ministros por los cuales habéis creído; y eso según que á cada uno ha concedido el Señor. 
 ^6^ Yo planté, Apolos regó: mas Dios ha dado el crecimiento. 
 ^7^ Así que, ni el que planta es algo, ni el que riega; sino Dios, que da el crecimiento. 
@@ -87,7 +79,6 @@
 ^9^ Porque nosotros, coadjutores somos de Dios; y vosotros labranza de Dios sois, edificio de Dios sois.
 
 ## ¡Cada maestro procura que su obra consista en el fuego del juicio divino de un día!
- 
 ^10^ Conforme á la gracia de Dios que me ha sido dada, yo como perito arquitecto puse el fundamento, y otro edifica encima: empero cada uno vea cómo sobreedifica. 
 ^11^ Porque nadie puede poner otro fundamento que el que está puesto, el cual es Jesucristo. 
 ^12^ Y si alguno edificare sobre este fundamento oro, plata, piedras preciosas, madera, heno, hojarasca; 
@@ -95,11 +86,9 @@
 ^14^ Si permaneciere la obra de alguno que sobreedificó, recibirá recompensa. 
 ^15^ Si la obra de alguno fuere quemada, será perdida: él empero será salvo, mas así como por fuego.
 
- 
 ^16^ ¿No sabéis que sois templo de Dios, y que el Espíritu de Dios mora en vosotros? 
 ^17^ Si alguno violare el templo de Dios, Dios destruirá al tal: porque el templo de Dios, el cual sois vosotros, santo es.
 
- 
 ^18^ Nadie se engañe á sí mismo: si alguno entre vosotros parece ser sabio en este siglo, hágase simple, para ser sabio. 
 ^19^ Porque la sabiduría de este mundo es necedad para con Dios; pues escrito está: El que prende á los sabios en la astucia de ellos. 
 ^20^ Y otra vez: El Señor conoce los pensamientos de los sabios, que son vanos. 
@@ -116,11 +105,9 @@
 ^5^ Así que, no juzguéis nada antes de tiempo, hasta que venga el Señor, el cual también aclarará lo oculto de las tinieblas, y manifestará los intentos de los corazones: y entonces cada uno tendrá de Dios la alabanza.
 
 ## Pablo reprocha a los corintios su arrogancia hacia el sufrimiento de los apóstoles
- 
 ^6^ Esto empero, hermanos, he pasado por ejemplo en mí y en Apolos por amor de vosotros; para que en nosotros aprendáis á no saber más de lo que está escrito, hinchándoos por causa de otro el uno contra el otro. 
 ^7^ Porque ¿quién te distingue? ¿ó qué tienes que no hayas recibido? Y si lo recibiste, ¿de qué te glorías como si no hubieras recibido?
 
- 
 ^8^ Ya estáis hartos, ya estáis ricos, sin nosotros reináis; y ojalá reinéis, para que nosotros reinemos también juntamente con vosotros. 
 ^9^ Porque á lo que pienso, Dios nos ha mostrado á nosotros los apóstoles por los postreros, como á sentenciados á muerte: porque somos hechos espectáculo al mundo, y á los ángeles, y á los hombres. 
 ^10^ Nosotros necios por amor de Cristo, y vosotros prudentes en Cristo; nosotros flacos, y vosotros fuertes; vosotros nobles, y nosotros viles. 
@@ -129,7 +116,6 @@
 ^13^ Somos blasfemados, y rogamos: hemos venido á ser como la hez del mundo, el desecho de todos hasta ahora.
 
 ## La referencia de Pablo a su relación personal con la iglesia
- 
 ^14^ No escribo esto para avergonzaros: mas amonéstoos como á mis hijos amados. 
 ^15^ Porque aunque tengáis diez mil ayos en Cristo, no tendréis muchos padres; que en Cristo Jesús yo os engendré por el evangelio. 
 ^16^ Por tanto, os ruego que me imitéis. 
@@ -148,13 +134,11 @@
 ^5^ El tal sea entregado á Satanás para muerte de la carne, porque el espíritu sea salvo en el día del Señor Jesús.
 
 ## Amonestación general a la pureza moral con referencia a la muerte en sacrificio de Jesús, “el cordero pascual”
- 
 ^6^ No es buena vuestra jactancia. ¿No sabéis que un poco de levadura leuda toda la masa? 
 ^7^ Limpiad pues la vieja levadura, para que seáis nueva masa, como sois sin levadura: porque nuestra pascua, que es Cristo, fué sacrificada por nosotros. 
 ^8^ Así que hagamos fiesta, no en la vieja levadura, ni en la levadura de malicia y de maldad, sino en ázimos de sinceridad y de verdad.
 
 ## Corrección de un malentendido corintio sobre la advertencia contra los fornicadores
- 
 ^9^ Os he escrito por carta, que no os envolváis con los fornicarios: 
 ^10^ No absolutamente con los fornicarios de este mundo, ó con los avaros, ó con los ladrones, ó con los idólatras; pues en tal caso os sería menester salir del mundo. 
 ^11^ Mas ahora os he escrito, que no os envolváis, es á saber, que si alguno llamándose hermano fuere fornicario, ó avaro, ó idólatra, ó maldiciente, ó borracho, ó ladrón, con el tal ni aun comáis. 
@@ -172,13 +156,11 @@
 ^7^ Así que, por cierto es ya una falta en vosotros que tengáis pleitos entre vosotros mismos. ¿Por qué no sufrís antes la injuria? ¿por qué no sufrís antes ser defraudados? 
 ^8^ Empero vosotros hacéis la injuria, y defraudáis, y esto á los hermanos.
 
- 
 ^9^ ¿No sabéis que los injustos no poseerán el reino de Dios? No erréis, que ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones, 
 ^10^ Ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los robadores, heredarán el reino de Dios. 
 ^11^ Y esto erais algunos: mas ya sois lavados, mas ya sois santificados, mas ya sois justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios.
 
 ## Los pecados de fornicación no tienen nada que ver con la libertad cristiana; Advertencia de fornicación
- 
 ^12^ Todas las cosas me son lícitas, mas no todas convienen: todas las cosas me son lícitas, mas yo no me meteré debajo de potestad de nada. 
 ^13^ Las viandas para el vientre, y el vientre para las viandas; empero y á él y á ellas deshará Dios. Mas el cuerpo no es para la fornicación, sino para el Señor; y el Señor para el cuerpo: 
 ^14^ Y Dios que levantó al Señor, también á nosotros nos levantará con su poder. 
@@ -197,19 +179,16 @@
 ^4^ La mujer no tiene potestad de su propio cuerpo, sino el marido: é igualmente tampoco el marido tiene potestad de su propio cuerpo, sino la mujer. 
 ^5^ No os defraudéis el uno al otro, á no ser por algún tiempo de mutuo consentimiento, para ocuparos en la oración: y volved á juntaros en uno, porque no os tiente Satanás á causa de vuestra incontinencia.
 
- 
 ^6^ Mas esto digo por permisión, no por mandamiento. 
 ^7^ Quisiera más bien que todos los hombres fuesen como yo: empero cada uno tiene su propio don de Dios; uno á la verdad así, y otro así.
 
 ## Sobre el comportamiento de las personas solteras y sobre el divorcio en los matrimonios cristianos
- 
 ^8^ Digo pues á los solteros y á las viudas, que bueno les es si se quedaren como yo. 
 ^9^ Y si no tienen don de continencia, cásense; que mejor es casarse que quemarse. 
 ^10^ Mas á los que están juntos en matrimonio, denuncio, no yo, sino el Señor: Que la mujer no se aparte del marido; 
 ^11^ Y si se apartare, que se quede sin casar, ó reconcíliese con su marido; y que el marido no despida á su mujer.
 
 ## Comportamiento en el matrimonio mixto
- 
 ^12^ Y á los demás yo digo, no el Señor: Si algún hermano tiene mujer infiel, y ella consiente en habitar con él, no la despida. 
 ^13^ Y la mujer que tiene marido infiel, y él consiente en habitar con ella, no lo deje. 
 ^14^ Porque el marido infiel es santificado en la mujer, y la mujer infiel en el marido: pues de otra manera vuestros hijos serían inmundos; empero ahora son santos. 
@@ -217,10 +196,8 @@
 ^16^ Porque ¿de dónde sabes, oh mujer, si quizá harás salvo á tu marido? ¿ó de dónde sabes, oh marido, si quizá harás salva á tu mujer?
 
 ## Regla general sobre la posición del cristiano a las condiciones externas existentes: ¡Todo creyente permanece en la posición en la que fue llamado!
- 
 ^17^ Empero cada uno como el Señor le repartió, y como Dios llamó á cada uno, así ande: y así enseño en todas las iglesias.
 
- 
 ^18^ ¿Es llamado alguno circuncidado? quédese circunciso. ¿Es llamado alguno incircuncidado? que no se circuncide. 
 ^19^ La circuncisión nada es, y la incircuncisión nada es; sino la observancia de las mandamientos de Dios. 
 ^20^ Cada uno en la vocación en que fué llamado, en ella se quede. 
@@ -230,7 +207,6 @@
 ^24^ Cada uno, hermanos, en lo que es llamado, en esto se quede para con Dios.
 
 ## Sobre el celibato de ambos sexos; Consejos para casarse con mujeres solteras y volver a casarse con viudas
- 
 ^25^ Empero de las vírgenes no tengo mandamiento del Señor; mas doy mi parecer, como quien ha alcanzado misericordia del Señor para ser fiel. 
 ^26^ Tengo, pues, esto por bueno á causa de la necesidad que apremia, que bueno es al hombre estarse así. 
 ^27^ ¿Estás ligado á mujer? no procures soltarte. ¿Estás suelto de mujer? no procures mujer. 
@@ -239,19 +215,16 @@
 ^30^ Y los que lloran, como los que no lloran; y los que se huelgan, como los que no se huelgan; y los que compran, como los que no poseen; 
 ^31^ Y los que usan de este mundo, como los que no usan: porque la apariencia de este mundo se pasa.
 
- 
 ^32^ Quisiera, pues, que estuvieseis sin congoja. El soltero tiene cuidado de las cosas que son del Señor, cómo ha de agradar al Señor: 
 ^33^ Empero el que se casó tiene cuidado de las cosas que son del mundo, cómo ha de agradar á su mujer. 
 ^34^ Hay asimismo diferencia entre la casada y la doncella: la doncella tiene cuidado de las cosas del Señor, para ser santa así en el cuerpo como en el espíritu: mas la casada tiene cuidado de las cosas del mundo, cómo ha de agradar á su marido. 
 ^35^ Esto empero digo para vuestro provecho; no para echaros lazo, sino para lo honesto y decente, y para que sin impedimento os lleguéis al Señor.
 
- 
 ^36^ Mas, si á alguno parece cosa fea en su hija virgen, que pase ya de edad, y que así conviene que se haga, haga lo que quisiere, no peca; cásese. 
 ^37^ Pero el que está firme en su corazón, y no tiene necesidad, sino que tiene libertad de su voluntad, y determinó en su corazón esto, el guardar su hija virgen, bien hace. 
 ^38^ Así que, el que la da en casamiento, bien hace; y el que no la da en casamiento, hace mejor.
 
 ## Sobre el nuevo matrimonio de las viudas
- 
 ^39^ La mujer casada está atada á la ley, mientras vive su marido; mas si su marido muriere, libre es: cásese con quien quisiere, con tal que sea en el Señor. 
 ^40^ Empero más venturosa será si se quedare así, según mi consejo; y pienso que también yo tengo Espíritu de Dios. 
 
@@ -262,16 +235,13 @@
 ^3^ Mas si alguno ama á Dios, el tal es conocido de él.
 
 ## No todo el mundo tiene un conocimiento perfecto
- 
 ^4^ Acerca, pues, de las viandas que son sacrificadas á los ídolos, sabemos que el ídolo nada es en el mundo, y que no hay más de un Dios. 
 ^5^ Porque aunque haya algunos que se llamen dioses, ó en el cielo, ó en la tierra (como hay muchos dioses y muchos señores), 
 ^6^ Nosotros empero no tenemos más de un Dios, el Padre, del cual son todas las cosas, y nosotros en él: y un Señor Jesucristo, por el cual son todas las cosas, y nosotros por él.
 
- 
 ^7^ Mas no en todos hay esta ciencia: porque algunos con conciencia del ídolo hasta aquí, comen como sacrificado á ídolos; y su conciencia, siendo flaca, es contaminada.
 
 ## Para el uso de la libertad cristiana, la consideración amorosa por los débiles es decisiva
- 
 ^8^ Si bien la vianda no nos hace más aceptos á Dios: porque ni que comamos, seremos más ricos; ni que no comamos, seremos más pobres. 
 ^9^ Mas mirad que esta vuestra libertad no sea tropezadero á los que son flacos. 
 ^10^ Porque si te ve alguno, á ti que tienes ciencia, que estás sentado á la mesa en el lugar de los ídolos, ¿la conciencia de aquel que es flaco, no será adelantada á comer de lo sacrificado á los ídolos? 
@@ -284,14 +254,12 @@
 ^1^ ¿No soy apóstol? ¿no soy libre? ¿no he visto á Jesús el Señor nuestro? ¿no sois vosotros mi obra en el Señor? 
 ^2^ Si á los otros no soy apóstol, á vosotros ciertamente lo soy: porque el sello de mi apostolado sois vosotros en el Señor.
 
- 
 ^3^ Esta es mi respuesta á los que me preguntan. 
 ^4^ Qué, ¿no tenemos potestad de comer y de beber? 
 ^5^ ¿No tenemos potestad de traer con nosotros una hermana mujer también como los otros apóstoles, y los hermanos del Señor, y Cefas? 
 ^6^ ¿O sólo yo y Bernabé no tenemos potestad de no trabajar? 
 ^7^ ¿Quién jamás peleó á sus expensas? ¿quién planta viña, y no come de su fruto? ¿ó quién apacienta el ganado, y no come de la leche del ganado?
 
- 
 ^8^ ¿Digo esto según los hombres? ¿no dice esto también la ley? 
 ^9^ Porque en la ley de Moisés está escrito: No pondrás bozal al buey que trilla. ¿Tiene Dios cuidado de los bueyes? 
 ^10^ ¿O dícelo enteramente por nosotros? Pues por nosotros está escrito; porque con esperanza ha de arar el que ara; y el que trilla, con esperanza de recibir el fruto. 
@@ -299,18 +267,15 @@
 ^12^ Si otros tienen en vosotros esta potestad, ¿no más bien nosotros? Mas no hemos usado de esta potestad: antes lo sufrimos todo, por no poner ningún obstáculo al evangelio de Cristo.
 
 ## Explique las razones por las que Pablo renuncia a sus derechos
- 
 ^13^ ¿No sabéis que los que trabajan en el santuario, comen del santuario; y que los que sirven al altar, del altar participan? 
 ^14^ Así también ordenó el Señor á los que anuncian el evangelio, que vivan del evangelio.
 
- 
 ^15^ Mas yo de nada de esto me aproveché: ni tampoco he escrito esto para que se haga así conmigo; porque tengo por mejor morir, antes que nadie haga vana esta mi gloria. 
 ^16^ Pues bien que anuncio el evangelio, no tengo por qué gloriarme; porque me es impuesta necesidad; y ¡ay de mí si no anunciare el evangelio! 
 ^17^ Por lo cual, si lo hago de voluntad, premio tendré; mas si por fuerza, la dispensación me ha sido encargada. 
 ^18^ ¿Cuál, pues, es mi merced? Que predicando el evangelio, ponga el evangelio de Cristo de balde, para no usar mal de mi potestad en el evangelio.
 
 ## Pablo, aunque exteriormente es completamente libre, es sin embargo un servidor de todos los hombres
- 
 ^19^ Por lo cual, siendo libre para con todos, me he hecho siervo de todos por ganar á más. 
 ^20^ Heme hecho á los Judíos como Judío, por ganar á los Judíos; á los que están sujetos á la ley (aunque yo no sea sujeto á la ley) como sujeto á la ley, por ganar á los que están sujetos á la ley; 
 ^21^ A los que son sin ley, como si yo fuera sin ley, (no estando yo sin ley de Dios, mas en la ley de Cristo) por ganar á los que estaban sin ley. 
@@ -318,7 +283,6 @@
 ^23^ Y esto hago por causa del evangelio, por hacerme juntamente participante de él.
 
 ## El apóstol como competidor por el premio celestial
- 
 ^24^ ¿No sabéis que los que corren en el estadio, todos á la verdad corren, mas uno lleva el premio? Corred de tal manera que lo obtengáis. 
 ^25^ Y todo aquel que lucha, de todo se abstiene: y ellos, á la verdad, para recibir una corona corruptible; mas nosotros, incorruptible. 
 ^26^ Así que, yo de esta manera corro, no como á cosa incierta; de esta manera peleo, no como quien hiere el aire: 
@@ -332,10 +296,8 @@
 ^4^ Y todos bebieron la misma bebida espiritual; porque bebían de la piedra espiritual que los seguía, y la piedra era Cristo:
 
 ## A pesar de esto, debido a que voluntariamente sirvieron su lujuria por la carne, fueron rechazados como un ejemplo de advertencia para nosotros
- 
 ^5^ Mas de muchos de ellos no se agradó Dios; por lo cual fueron postrados en el desierto.
 
- 
 ^6^ Empero estas cosas fueron en figura de nosotros, para que no codiciemos cosas malas, como ellos codiciaron. 
 ^7^ Ni seáis honradores de ídolos, como algunos de ellos; según está escrito: Sentóse el pueblo á comer y á beber, y se levantaron á jugar. 
 ^8^ Ni forniquemos, como algunos de ellos fornicaron, y cayeron en un día veinte y tres mil. 
@@ -344,25 +306,21 @@
 ^11^ Y estas cosas les acontecieron en figura; y son escritas para nuestra admonición, en quienes los fines de los siglos han parado. 
 ^12^ Así que, el que piensa estar firme, mire no caiga.
 
- 
 ^13^ No os ha tomado tentación, sino humana: mas fiel es Dios, que no os dejará ser tentados más de lo que podéis llevar; antes dará también juntamente con la tentación la salida, para que podáis aguantar.
 
 ## La participación en idolatría y comidas de sacrificio es incompatible con la celebración de la Cena del Señor cristiano y, por lo tanto, debe evitarse
- 
 ^14^ Por tanto, amados míos, huid de la idolatría. 
 ^15^ Como á sabios hablo; juzgad vosotros lo que digo. 
 ^16^ La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo? 
 ^17^ Porque un pan, es que muchos somos un cuerpo; pues todos participamos de aquel un pan. 
 ^18^ Mirad á Israel según la carne: los que comen de los sacrificios ¿no son partícipes con el altar?
 
- 
 ^19^ ¿Qué pues digo? ¿Que el ídolo es algo? ¿ó que sea algo lo que es sacrificado á los ídolos? 
 ^20^ Antes digo que lo que los Gentiles sacrifican, á los demonios lo sacrifican, y no á Dios: y no querría que vosotros fueseis partícipes con los demonios. 
 ^21^ No podéis beber la copa del Señor, y la copa de los demonios: no podéis ser partícipes de la mesa del Señor, y de la mesa de los demonios. 
 ^22^ ¿O provocaremos á celo al Señor? ¿Somos más fuertes que él?
 
 ## ¿Cuándo es seguro el consumo de carne sacrificada a los ídolos? Restricción de la libertad cristiana por consideración al amor fraternal
- 
 ^23^ Todo me es lícito, mas no todo conviene: todo me es lícito, mas no todo edifica. 
 ^24^ Ninguno busque su propio bien, sino el del otro. 
 ^25^ De todo lo que se vende en la carnicería, comed, sin preguntar nada por causa de la conciencia; 
@@ -373,7 +331,6 @@
 ^30^ Y si yo con agradecimiento participo, ¿por qué he de ser blasfemado por lo que doy gracias?
 
 ## Amonestación final para el correcto caminar cristiano en todo momento
- 
 ^31^ Si pues coméis, ó bebéis, ó hacéis otra cosa, hacedlo todo á gloria de Dios. 
 ^32^ Sed sin ofensa á Judíos, y á Gentiles, y á la iglesia de Dios: 
 ^33^ Como también yo en todas las cosas complazco á todos, no procurando mi propio beneficio, sino el de muchos, para que sean salvos. 
@@ -382,7 +339,6 @@
 ^1^ Sed imitadores de mí, así como yo de Cristo.
 
 ## Sobre el comportamiento decente de los hombres y el velo de las mujeres durante la oración y el culto
- 
 ^2^ Y os alabo, hermanos, que en todo os acordáis de mí, y retenéis las instrucciones mías, de la manera que os enseñé. 
 ^3^ Mas quiero que sepáis, que Cristo es la cabeza de todo varón; y el varón es la cabeza de la mujer; y Dios la cabeza de Cristo. 
 ^4^ Todo varón que ora ó profetiza cubierta la cabeza, afrenta su cabeza. 
@@ -394,7 +350,6 @@
 ^10^ Por lo cual, la mujer debe tener señal de potestad sobre su cabeza, por causa de los ángeles.
 
 ## Rechazo del desdén por la mujer y todas las discusiones sobre el tema
- 
 ^11^ Mas ni el varón sin la mujer, ni la mujer sin el varón, en el Señor. 
 ^12^ Porque como la mujer es del varón, así también el varón es por la mujer: empero todo de Dios. 
 ^13^ Juzgad vosotros mismos: ¿es honesto orar la mujer á Dios no cubierta? 
@@ -403,7 +358,6 @@
 ^16^ Con todo eso, si alguno parece ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios.
 
 ## Seria reprimenda por los agravios en las comidas comunes e instrucciones para la celebración digna de la Cena del Señor
- 
 ^17^ Esto empero os denuncio, que no alabo, que no por mejor sino por peor os juntáis. 
 ^18^ Porque lo primero, cuando os juntáis en la iglesia, oigo que hay entre vosotros disensiones; y en parte lo creo. 
 ^19^ Porque preciso es que haya entre vosotros aun herejías, para que los que son probados se manifiesten entre vosotros. 
@@ -412,13 +366,11 @@
 ^22^ Pues qué, ¿no tenéis casas en que comáis y bebáis? ¿ó menospreciáis la iglesia de Dios, y avergonzáis á los que no tienen? ¿Qué os diré? ¿os alabaré? En esto no os alabo.
 
 ## La celebración correcta de la Cena del Señor y las malas consecuencias de un disfrute indigno; recordatorio final
- 
 ^23^ Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan; 
 ^24^ Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí. 
 ^25^ Asimismo tomó también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí. 
 ^26^ Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga.
 
- 
 ^27^ De manera que, cualquiera que comiere este pan ó bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor. 
 ^28^ Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa. 
 ^29^ Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor. 
@@ -435,7 +387,6 @@
 ^3^ Por tanto os hago saber, que nadie que hable por Espíritu de Dios, llama anatema á Jesús; y nadie puede llamar á Jesús Señor, sino por Espíritu Santo.
 
 ## Diversidad de dones espirituales, pero solo un espíritu activo y un propósito
- 
 ^4^ Empero hay repartimiento de dones; mas el mismo Espíritu es. 
 ^5^ Y hay repartimiento de ministerios; mas el mismo Señor es. 
 ^6^ Y hay repartimiento de operaciones; mas el mismo Dios es el que obra todas las cosas en todos. 
@@ -446,11 +397,9 @@
 ^11^ Mas todas estas cosas obra uno y el mismo Espíritu, repartiendo particularmente á cada uno como quiere.
 
 ## Ilustrado por la parábola del cuerpo humano y sus muchos miembros
- 
 ^12^ Porque de la manera que el cuerpo es uno, y tiene muchos miembros, empero todos los miembros del cuerpo, siendo muchos, son un cuerpo, así también Cristo. 
 ^13^ Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu.
 
- 
 ^14^ Pues ni tampoco el cuerpo es un miembro, sino muchos. 
 ^15^ Si dijere el pie: Porque no soy mano, no soy del cuerpo: ¿por eso no será del cuerpo? 
 ^16^ Y si dijere la oreja: Porque no soy ojo, no soy del cuerpo: ¿por eso no será del cuerpo? 
@@ -466,14 +415,12 @@
 ^26^ Por manera que si un miembro padece, todos los miembros á una se duelen; y si un miembro es honrado, todos los miembros á una se gozan.
 
 ## Aplicación de la imagen a la estructura divina de la iglesia
- 
 ^27^ Pues vosotros sois el cuerpo de Cristo, y miembros en parte. 
 ^28^ Y á unos puso Dios en la iglesia, primeramente apóstoles, luego profetas, lo tercero doctores; luego facultades; luego dones de sanidades, ayudas, gobernaciones, géneros de lenguas. 
 ^29^ ¿Son todos apóstoles? ¿son todos profetas? ¿todos doctores? ¿todos facultades? 
 ^30^ ¿Tienen todos dones de sanidad? ¿hablan todos lenguas? ¿interpretan todos?
 
 ## Sin amor, incluso los dones espirituales más elevados no valen nada
- 
 ^31^ Empero procurad los mejores dones: mas aun yo os muestro un camino más excelente. 
 
 # 13 
@@ -482,14 +429,12 @@
 ^3^ Y si repartiese toda mi hacienda para dar de comer á pobres, y si entregase mi cuerpo para ser quemado, y no tengo caridad, de nada me sirve.
 
 ## La esencia del amor
- 
 ^4^ La caridad es sufrida, es benigna; la caridad no tiene envidia, la caridad no hace sinrazón, no se ensancha; 
 ^5^ No es injuriosa, no busca lo suyo, no se irrita, no piensa el mal; 
 ^6^ No se huelga de la injusticia, mas se huelga de la verdad; 
 ^7^ Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.
 
 ## La perfección del amor eterno contra el fragmento de otras gracias
- 
 ^8^ La caridad nunca deja de ser: mas las profecías se han de acabar, y cesarán las lenguas, y la ciencia ha de ser quitada; 
 ^9^ Porque en parte conocemos, y en parte profetizamos; 
 ^10^ Mas cuando venga lo que es perfecto, entonces lo que es en parte será quitado. 
@@ -501,17 +446,14 @@
 ^1^ Seguid la caridad; y procurad los dones espirituales, mas sobre todo que profeticéis.
 
 ## La diferencia entre el habla profética y el hablar en lenguas
- 
 ^2^ Porque el que habla en lenguas, no habla á los hombres, sino á Dios; porque nadie le entiende, aunque en espíritu hable misterios. 
 ^3^ Mas el que profetiza, habla á los hombres para edificación, y exhortación, y consolación. 
 ^4^ El que habla lengua extraña, á sí mismo se edifica; mas el que profetiza, edifica á la iglesia. 
 ^5^ Así que, quisiera que todos vosotros hablaseis lenguas, empero más que profetizaseis: porque mayor es el que profetiza que el que habla lenguas, si también no interpretare, para que la iglesia tome edificación.
 
- 
 ^6^ Ahora pues, hermanos, si yo fuere á vosotros hablando lenguas, ¿qué os aprovecharé, si no os hablare, ó con revelación, ó con ciencia, ó con profecía, ó con doctrina?
 
 ## La inutilidad e inadecuación de todo sonido y habla incomprensibles
- 
 ^7^ Ciertamente las cosas inanimadas que hacen sonidos, como la flauta ó la vihuela, si no dieren distinción de voces, ¿cómo se sabrá lo que se tañe con la flauta, ó con la vihuela? 
 ^8^ Y si la trompeta diere sonido incierto, ¿quién se apercibirá á la batalla? 
 ^9^ Así también vosotros, si por la lengua no diereis palabra bien significante, ¿cómo se entenderá lo que se dice? porque hablaréis al aire. 
@@ -519,11 +461,9 @@
 ^11^ Mas si yo ignorare el valor de la voz, seré bárbaro al que habla, y el que habla será bárbaro para mí. 
 ^12^ Así también vosotros; pues que anheláis espirituales dones, procurad ser excelentes para la edificación de la iglesia.
 
- 
 ^13^ Por lo cual, el que habla lengua extraña, pida que la interprete. 
 ^14^ Porque si yo orare en lengua desconocida, mi espíritu ora; mas mi entendimiento es sin fruto.
 
- 
 ^15^ ¿Qué pues? Oraré con el espíritu, mas oraré también con entendimiento; cantaré con el espíritu, mas cantaré también con entendimiento. 
 ^16^ Porque si bendijeres con el espíritu, el que ocupa lugar de un mero particular, ¿cómo dirá amén á tu acción de gracias? pues no sabe lo que has dicho. 
 ^17^ Porque tú, á la verdad, bien haces gracias; mas el otro no es edificado. 
@@ -531,7 +471,6 @@
 ^19^ Pero en la iglesia más quiero hablar cinco palabras con mi sentido, para que enseñe también á los otros, que diez mil palabras en lengua desconocida.
 
 ## El Antiguo Testamento y el mundo exterior no cristiano también condenan este incomprensible discurso
- 
 ^20^ Hermanos, no seáis niños en el sentido, sino sed niños en la malicia: empero perfectos en el sentido. 
 ^21^ En la ley está escrito: En otras lenguas y en otros labios hablaré á este pueblo; y ni aun así me oirán, dice el Señor. 
 ^22^ Así que, las lenguas por señal son, no á los fieles, sino á los infieles: mas la profecía, no á los infieles, sino á los fieles. 
@@ -540,7 +479,6 @@
 ^25^ Lo oculto de su corazón se hace manifiesto: y así, postrándose sobre el rostro, adorará á Dios, declarando que verdaderamente Dios está en vosotros.
 
 ## Orden de los altavoces
- 
 ^26^ ¿Qué hay pues, hermanos? Cuando os juntáis, cada uno de vosotros tiene salmo, tiene doctrina, tiene lengua, tiene revelación, tiene interpretación: hágase todo para edificación. 
 ^27^ Si hablare alguno en lengua extraña, sea esto por dos, ó á lo más tres, y por turno; mas uno interprete. 
 ^28^ Y si no hubiere intérprete, calle en la iglesia, y hable á sí mismo y á Dios. 
@@ -551,16 +489,13 @@
 ^33^ Porque Dios no es Dios de disensión, sino de paz; como en todas las iglesias de los santos.
 
 ## Contra los discursos inapropiados de mujeres en reuniones
- 
 ^34^ Vuestras mujeres callen en las congregaciones; porque no les es permitido hablar, sino que estén sujetas, como también la ley dice. 
 ^35^ Y si quieren aprender alguna cosa, pregunten en casa á sus maridos; porque deshonesta cosa es hablar una mujer en la congregación. 
 ^36^ Qué, ¿ha salido de vosotros la palabra de Dios? ¿ó á vosotros solos ha llegado?
 
- 
 ^37^ Si alguno á su parecer, es profeta, ó espiritual, reconozca lo que os escribo, porque son mandamientos del Señor. 
 ^38^ Mas el que ignora, ignore.
 
- 
 ^39^ Así que, hermanos, procurad profetizar; y no impidáis el hablar lenguas. 
 ^40^ Empero hágase todo decentemente y con orden. 
 
@@ -569,7 +504,6 @@
 ^1^ Además os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis; 
 ^2^ Por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano.
 
- 
 ^3^ Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo fué muerto por nuestros pecados, conforme á las Escrituras; 
 ^4^ Y que fué sepultado, y que resucitó al tercer día, conforme á las Escrituras; 
 ^5^ Y que apareció á Cefas, y después á los doce. 
@@ -581,7 +515,6 @@
 ^11^ Porque, ó sea yo ó sean ellos, así predicamos, y así habéis creído.
 
 ## La fe y la firme esperanza de todos los cristianos se basan en la resurrección de Cristo de entre los muertos
- 
 ^12^ Y si Cristo es predicado que resucitó de los muertos, ¿cómo dicen algunos entre vosotros que no hay resurrección de muertos? 
 ^13^ Porque si no hay resurrección de muertos, Cristo tampoco resucitó: 
 ^14^ Y si Cristo no resucitó, vana es entonces nuestra predicación, vana es también vuestra fe. 
@@ -592,7 +525,6 @@
 ^19^ Si en esta vida solamente esperamos en Cristo, los más miserables somos de todos los hombres.
 
 ## Exposición de las consecuencias de la resurrección de Cristo; los procesos en los que la resurrección tiene lugar hasta su finalización
- 
 ^20^ Mas ahora Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho. 
 ^21^ Porque por cuanto la muerte entró por un hombre, también por un hombre la resurrección de los muertos. 
 ^22^ Porque así como en Adam todos mueren, así también en Cristo todos serán vivificados. 
@@ -604,7 +536,6 @@
 ^28^ Mas luego que todas las cosas le fueren sujetas, entonces también el mismo Hijo se sujetará al que le sujetó á él todas las cosas, para que Dios sea todas las cosas en todos.
 
 ## Mucho de lo que los cristianos hacen y sufren solo es justificado y comprensible cuando creen en la resurrección
- 
 ^29^ De otro modo, ¿qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan? ¿Por qué pues se bautizan por los muertos? 
 ^30^ ¿Y por qué nosotros peligramos á toda hora? 
 ^31^ Sí, por la gloria que en orden á vosotros tengo en Cristo Jesús Señor nuestro, cada día muero. 
@@ -613,25 +544,21 @@
 ^34^ Velad debidamente, y no pequéis; porque algunos no conocen á Dios: para vergüenza vuestra hablo.
 
 ## La imagen de la semilla
- 
 ^35^ Mas dirá alguno: ¿Cómo resucitarán los muertos? ¿Con qué cuerpo vendrán? 
 ^36^ Necio, lo que tú siembras no se vivifica, si no muriere antes. 
 ^37^ Y lo que siembras, no siembras el cuerpo que ha de salir, sino el grano desnudo, acaso de trigo, ó de otro grano: 
 ^38^ Mas Dios le da el cuerpo como quiso, y á cada simiente su propio cuerpo.
 
 ## Toda la creación muestra la mayor diversidad de materia, forma y naturaleza de las cosas
- 
 ^39^ Toda carne no es la misma carne; mas una carne ciertamente es la de los hombres, y otra carne la de los animales, y otra la de los peces, y otra la de las aves. 
 ^40^ Y cuerpos hay celestiales, y cuerpos terrestres; mas ciertamente una es la gloria de los celestiales, y otra la de los terrestres. 
 ^41^ Otra es la gloria del sol, y otra la gloria de la luna, y otra la gloria de las estrellas: porque una estrella es diferente de otra en gloria.
 
- 
 ^42^ Así también es la resurrección de los muertos. Se siembra en corrupción, se levantará en incorrupción; 
 ^43^ Se siembra en vergüenza, se levantará con gloria; se siembra en flaqueza, se levantará con potencia; 
 ^44^ Se siembra cuerpo animal, resucitará espiritual cuerpo. Hay cuerpo animal, y hay cuerpo espiritual.
 
 ## La realidad de un cuerpo celestial, incorruptible
- 
 ^45^ Así también está escrito: Fué hecho el primer hombre Adam en ánima viviente; el postrer Adam en espíritu vivificante. 
 ^46^ Mas lo espiritual no es primero, sino lo animal; luego lo espiritual. 
 ^47^ El primer hombre, es de la tierra, terreno: el segundo hombre, que es el Señor, es del cielo. 
@@ -639,17 +566,14 @@
 ^49^ Y como trajimos la imagen del terreno, traeremos también la imagen del celestial.
 
 ## La transformación final en la consumación de los creyentes
- 
 ^50^ Esto empero digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios; ni la corrupción hereda la incorrupción.
 
- 
 ^51^ He aquí, os digo un misterio: Todos ciertamente no dormiremos, mas todos seremos transformados, 
 ^52^ En un momento, en un abrir de ojo, á la final trompeta; porque será tocada la trompeta, y los muertos serán levantados sin corrupción, y nosotros seremos transformados. 
 ^53^ Porque es menester que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad. 
 ^54^ Y cuando esto corruptible fuere vestido de incorrupción, y esto mortal fuere vestido de inmortalidad, entonces se efectuará la palabra que está escrita: Sorbida es la muerte con victoria. 
 ^55^ ¿Dónde está, oh muerte, tu aguijón? ¿dónde, oh sepulcro, tu victoria?
 
- 
 ^56^ Ya que el aguijón de la muerte es el pecado, y la potencia del pecado, la ley. 
 ^57^ Mas á Dios gracias, que nos da la victoria por el Señor nuestro Jesucristo. 
 ^58^ Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es vano. 
@@ -662,36 +586,29 @@
 ^4^ Y si fuere digno el negocio de que yo también vaya, irán conmigo.
 
 ## Los planes de viaje de Pablo y las noticias de la venida de Timoteo y Apolos
- 
 ^5^ Y á vosotros iré, cuando hubiere pasado por Macedonia, porque por Macedonia tengo de pasar: 
 ^6^ Y podrá ser que me quede con vosotros, ó invernaré también, para que vosotros me llevéis á donde hubiere de ir. 
 ^7^ Porque no os quiero ahora ver de paso; porque espero estar con vosotros algún tiempo, si el Señor lo permitiere. 
 ^8^ Empero estaré en Efeso hasta Pentecostés; 
 ^9^ Porque se me ha abierto puerta grande y eficaz, y muchos son los adversarios.
 
- 
 ^10^ Y si llegare Timoteo, mirad que esté con vosotros seguramente; porque la obra del Señor hace también como yo. 
 ^11^ Por tanto, nadie le tenga en poco; antes, llevadlo en paz, para que venga á mí: porque lo espero con los hermanos.
 
- 
 ^12^ Acerca del hermano Apolos, mucho le he rogado que fuese á vosotros con los hermanos; mas en ninguna manera tuvo voluntad de ir por ahora; pero irá cuando tuviere oportunidad.
 
 ## Advertencias finales, recomendaciones personales, saludos y bendiciones
- 
 ^13^ Velad, estad firmes en la fe; portaos varonilmente, y esforzaos. 
 ^14^ Todas vuestras cosas sean hechas con caridad.
 
- 
 ^15^ Y os ruego, hermanos, (ya sabéis que la casa de Estéfanas es las primicias de Acaya, y que se han dedicado al ministerio de los santos,) 
 ^16^ Que vosotros os sujetéis á los tales, y á todos los que ayudan y trabajan. 
 ^17^ Huélgome de la venida de Estéfanas y de Fortunato y de Achâico: porque éstos suplieron lo que á vosotros faltaba. 
 ^18^ Porque recrearon mi espíritu y el vuestro: reconoced pues á los tales.
 
- 
 ^19^ Las iglesias de Asia os saludan. Os saludan mucho en el Señor Aquila y Priscila, con la iglesia que está en su casa. 
 ^20^ Os saludan todos los hermanos. Saludaos los unos á los otros con ósculo santo.
 
- 
 ^21^ La salutación de mí, Pablo, de mi mano. 
 ^22^ El que no amare al Señor Jesucristo, sea anatema. Maranatha. 
 ^23^ La gracia del Señor Jesucristo sea con vosotros. 

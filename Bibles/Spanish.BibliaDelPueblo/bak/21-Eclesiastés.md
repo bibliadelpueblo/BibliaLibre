@@ -2,15 +2,12 @@
 ## La inutilidad de todo esfuerzo humano como resultado de la constante monotonía en el ciclo de las cosas.
 ^1^ Palabras del Predicador, hijo de David, rey en Jerusalem. 
 
-
 ^2^ Vanidad de vanidades, dijo el Predicador; vanidad de vanidades, todo vanidad. ^3^ ¿Qué provecho tiene el hombre de todo su trabajo con que se afana debajo del sol? ^4^ Generación va, y generación viene: mas la tierra siempre permanece. ^^ ^5^ Y sale el sol, y pónese el sol, y con deseo vuelve á su lugar donde torna á nacer. ^6^ El viento tira hacia el mediodía, y rodea al norte; va girando de continuo, y á sus giros torna el viento de nuevo. ^7^ Los ríos todos van á la mar, y la mar no se hinche; al lugar de donde los ríos vinieron, allí tornan para correr de nuevo. ^8^ Todas las cosas andan en trabajo más que el hombre pueda decir: ni los ojos viendo se hartan de ver, ni los oídos se hinchen de oir. ^9^ ¿Qué es lo que fué? Lo mismo que será. ¿Qué es lo que ha sido hecho? Lo mismo que se hará: y nada hay nuevo debajo del sol. ^10^ ¿Hay algo de que se pueda decir: He aquí esto es nuevo? Ya fué en los siglos que nos han precedido. ^11^ No hay memoria de lo que precedió, ni tampoco de lo que sucederá habrá memoria en los que serán después. 
-
 
 ^[**1:4** Sal 90,3]
 
 ## La inutilidad de luchar por la sabiduría y el conocimiento; La vida humana resulta inútil para el espectador
 ^12^ Yo el Predicador fuí rey sobre Israel en Jerusalem. ^^ ^13^ Y dí mi corazón á inquirir y buscar con sabiduría sobre todo lo que se hace debajo del cielo: este penoso trabajo dió Dios á los hijos de los hombres, en que se ocupen. ^14^ Yo miré todas las obras que se hacen debajo del sol; y he aquí, todo ello es vanidad y aflicción de espíritu. ^15^ Lo torcido no se puede enderezar; y lo falto no puede contarse. 
-
 
 ^[**1:12** Ecl 1,1]
 
@@ -20,7 +17,6 @@
 # 2 
 ## La inutilidad de intentar obtener satisfacción mediante los placeres sensuales y el disfrute de la vida o mediante la actividad creativa
 ^1^ Dije yo en mi corazón: Ven ahora, te probaré con alegría, y gozarás de bienes. Mas he aquí esto también era vanidad. ^2^ A la risa dije: Enloqueces; y al placer: ¿De qué sirve esto? 
-
 
 ^3^ Propuse en mi corazón agasajar mi carne con vino, y que anduviese mi corazón en sabiduría, con retención de la necedad, hasta ver cuál fuese el bien de los hijos de los hombres, en el cual se ocuparan debajo del cielo todos los días de su vida. ^^ ^4^ Engrandecí mis obras, edifiquéme casas, plantéme viñas; ^5^ Híceme huertos y jardines, y planté en ellos árboles de todos frutos; ^6^ Híceme estanques de aguas, para regar de ellos el bosque donde los árboles crecían. ^7^ Poseí siervos y siervas, y tuve hijos de familia; también tuve posesión grande de vacas y ovejas, sobre todos los que fueron antes de mí en Jerusalem; ^8^ Alleguéme también plata y oro, y tesoro preciado de reyes y de provincias; híceme de cantores y cantoras, y los deleites de los hijos de los hombres, instrumentos músicos y de todas suertes. ^9^ Y fuí engrandecido, y aumentado más que todos los que fueron antes de mí en Jerusalem: á más de esto perseveró conmigo mi sabiduría. ^10^ No negué á mis ojos ninguna cosa que desearan, ni aparté mi corazón de placer alguno, porque mi corazón gozó de todo mi trabajo: y ésta fué mi parte de toda mi faena. ^11^ Miré yo luego todas las obras que habían hecho mis manos, y el trabajo que tomé para hacerlas: y he aquí, todo vanidad y aflicción de espíritu, y no hay provecho debajo del sol. 
 
@@ -35,14 +31,12 @@
 ^17^ Aborrecí por tanto la vida; porque la obra que se hace debajo del sol me era fastidiosa; por cuanto todo es vanidad y aflicción de espíritu. 
 
 
-
 ## Referencia al mal de que el sabio debe dejar el beneficio y el disfrute de su laboriosa labor a un heredero quizás insensato
 ^18^ Yo asimismo aborrecí todo mi trabajo que había puesto por obra debajo del sol; el cual dejaré á otro que vendrá después de mí. ^^ ^19^ ¿Y quién sabe si será sabio, ó necio, el que se enseñoreará de todo mi trabajo en que yo me afané, y en que ocupé debajo del sol mi sabiduría? Esto también es vanidad. 
 
 ^[**2:18** Ecl 2,21; Ecl 2,26; Sal 39,7]
 
 ^20^ Tornéme por tanto á desesperanzar mi corazón acerca de todo el trabajo en que me afané, y en que había ocupado debajo del sol mi sabiduría. ^21^ ¡Que el hombre trabaje con sabiduría, y con ciencia, y con rectitud, y que haya de dar su hacienda á hombre que nunca trabajó en ello! También es esto vanidad y mal grande. ^22^ Porque ¿qué tiene el hombre de todo su trabajo, y fatiga de su corazón, con que debajo del sol él se afanara? ^23^ Porque todos sus días no son sino dolores, y sus trabajos molestias: aun de noche su corazón no reposa. Esto también es vanidad. 
-
 
 
 ## Entonces lo mejor para el hombre es disfrutar el momento en la medida en que Dios se lo conceda.
@@ -53,12 +47,10 @@
 ## Todo tiene su tiempo
 ^1^ Para todas las cosas hay sazón, y todo lo que se quiere debajo del cielo, tiene su tiempo: ^^ ^2^ Tiempo de nacer, y tiempo de morir; tiempo de plantar, y tiempo de arrancar lo plantado; ^3^ Tiempo de matar, y tiempo de curar; tiempo de destruir, y tiempo de edificar; ^4^ Tiempo de llorar, y tiempo de reir; tiempo de endechar, y tiempo de bailar; ^5^ Tiempo de esparcir las piedras, y tiempo de allegar las piedras; tiempo de abrazar, y tiempo de alejarse de abrazar; ^6^ Tiempo de agenciar, y tiempo de perder; tiempo de guardar, y tiempo de arrojar; ^7^ Tiempo de romper, y tiempo de coser; tiempo de callar, y tiempo de hablar; ^8^ Tiempo de amar, y tiempo de aborrecer; tiempo de guerra, y tiempo de paz. 
 
-
 ^[**3:1** Ecl 8,6]
 
 ## Pero el hombre no conoce el tiempo establecido por Dios y es impotente contra él
 ^9^ ¿Qué provecho tiene el que trabaja en lo que trabaja? ^10^ Yo he visto el trabajo que Dios ha dado á los hijos de los hombres para que en él se ocupasen. ^11^ Todo lo hizo hermoso en su tiempo: y aun el mundo dió en su corazón, de tal manera que no alcance el hombre la obra de Dios desde el principio hasta el cabo. ^^ ^12^ Yo he conocido que no hay mejor para ellos, que alegrarse, y hacer bien en su vida: ^^ ^13^ Y también que es don de Dios que todo hombre coma y beba, y goce el bien de toda su labor. ^14^ He entendido que todo lo que Dios hace, eso será perpetuo: sobre aquello no se añadirá, ni de ello se disminuirá; y hácelo Dios, para que delante de él teman los hombres. ^15^ Aquello que fué, ya es: y lo que ha de ser, fué ya; y Dios restaura lo que pasó. 
-
 
 ^[**3:11** Ecl 8,17] ^[**3:12** Ecl 2,24]
 
@@ -94,7 +86,6 @@
 ^9^ Mejores son dos que uno; porque tienen mejor paga de su trabajo. ^10^ Porque si cayeren, el uno levantará á su compañero: mas ¡ay del solo! que cuando cayere, no habrá segundo que lo levante. ^11^ También si dos durmieren juntos, se calentarán; mas ¿cómo se calentará uno solo? ^12^ Y si alguno prevaleciere contra el uno, dos estarán contra él; y cordón de tres dobleces no presto se rompe. 
 
 
-
 ## Comunicación de un evento histórico que confirma la observación del predicador de que el favor popular no es confiable
 ^13^ Mejor es el muchacho pobre y sabio, que el rey viejo y fatuo que no sabe ser aconsejado. ^14^ Porque de la cárcel salió para reinar; mientras el nacido en su reino se hizo pobre. 
 ^^ 
@@ -104,23 +95,18 @@
 ## Recordatorio de tener cuidado al realizar deberes religiosos (con sacrificios, oración y votos)
 ^1^ Cuando fueres á la casa de Dios, guarda tu pie; y acércate más para oir que para dar el sacrificio de los necios: porque no saben que hacen mal. ^^ ^2^ No te des priesa con tu boca, ni tu corazón se apresure á proferir palabra delante de Dios; porque Dios está en el cielo, y tú sobre la tierra: por tanto, sean pocas tus palabras. ^^ ^3^ Porque de la mucha ocupación viene el sueño, y de la multitud de las palabras la voz del necio. ^^ ^4^ Cuando á Dios hicieres promesa, no tardes en pagarla; porque no se agrada de los insensatos. Paga lo que prometieres. ^5^ Mejor es que no prometas, que no que prometas y no pagues. ^^ ^6^ No sueltes tu boca para hacer pecar á tu carne; ni digas delante del ángel, que fué ignorancia. ¿Por qué harás que Dios se aire á causa de tu voz, y que destruya la obra de tus manos? ^7^ Donde los sueños son en multitud, también lo son las vanidades y muchas las palabras; mas tú teme á Dios. 
 
-
 ^[**5:1** Sant 1,19] ^[**5:2** Ecl 10,14; Prov 10,19] ^[**5:3** Deut 23,22] ^[**5:5** Mal 2,7]
 
 ## Las opresiones en el estado son lamentables, pero comprensibles; Bendiciones de regalías para los estados agrícolas
 ^8^ Si violencias de pobres, y extorsión de derecho y de justicia vieres en la provincia, no te maravilles de esta licencia; porque alto está mirando sobre alto, y uno más alto está sobre ellos. ^9^ Además el provecho de la tierra es para todos: el rey mismo está sujeto á los campos. 
 
 
-
 ## La nulidad y las quejas de las riquezas
 ^10^ El que ama el dinero, no se hartará de dinero; y el que ama el mucho tener, no sacará fruto. También esto es vanidad. ^11^ Cuando los bienes se aumentan, también se aumentan sus comedores. ¿Qué bien, pues, tendrá su dueño, sino verlos con sus ojos? 
 
-
 ^12^ Dulce es el sueño del trabajador, ora coma mucho ó poco; mas al rico no le deja dormir la hartura. 
 
-
 ^13^ Hay una trabajosa enfermedad que he visto debajo del sol: las riquezas guardadas de sus dueños para su mal; ^14^ Las cuales se pierden en malas ocupaciones, y á los hijos que engendraron nada les queda en la mano. ^^ ^15^ Como salió del vientre de su madre, desnudo, así se vuelve, tornando como vino; y nada tuvo de su trabajo para llevar en su mano. ^16^ Este también es un gran mal, que como vino, así haya de volver. ¿Y de qué le aprovechó trabajar al viento? ^17^ Demás de esto, todos los días de su vida comerá en tinieblas, con mucho enojo y dolor y miseria. 
-
 
 ^[**5:14** Job 1,21; Sal 49,18]
 
@@ -136,10 +122,8 @@
 ^3^ Si el hombre engendrare ciento, y viviere muchos años, y los días de su edad fueren numerosos; si su alma no se hartó del bien, y también careció de sepultura, yo digo que el abortivo es mejor que él. ^4^ Porque en vano vino, y á tinieblas va, y con tinieblas será cubierto su nombre. ^5^ Aunque no haya visto el sol, ni conocido nada, más reposo tiene éste que aquél. ^6^ Porque si viviere aquél mil años dos veces, si no ha gozado del bien, cierto todos van á un lugar. 
 
 
-
 ## La insaciabilidad del deseo y la búsqueda del placer
 ^7^ Todo el trabajo del hombre es para su boca, y con todo eso su alma no se harta. ^8^ Porque ¿qué más tiene el sabio que el necio? ¿qué más tiene el pobre que supo caminar entre los vivos? ^9^ Más vale vista de ojos que deseo que pasa. Y también esto es vanidad y aflicción de espíritu. 
-
 
 
 ## La impotencia humana en relación con la predestinación divina de todas las cosas (especialmente la vida de personas individuales)
@@ -153,7 +137,6 @@
 
 ^9^ No te apresures en tu espíritu á enojarte: porque la ira en el seno de los necios reposa. ^10^ Nunca digas: ¿Qué es la causa que los tiempos pasados fueron mejores que éstos? Porque nunca de esto preguntarás con sabiduría. 
 
-
 ^11^ Buena es la ciencia con herencia; y más á los que ven el sol. ^12^ Porque escudo es la ciencia, y escudo es el dinero: mas la sabiduría excede en que da vida á sus poseedores. 
 ^^ 
 ^[**7:12** Prov 3,2]
@@ -161,19 +144,15 @@
 ^13^ Mira la obra de Dios; porque ¿quién podrá enderezar lo que él torció? ^14^ En el día del bien goza del bien; y en el día del mal considera. Dios también hizo esto delante de lo otro, porque el hombre no halle nada tras de él. 
 
 
-
 ## Advertencia contra todo exceso y amonestación de la verdadera sabiduría
 ^15^ Todo esto he visto en los días de mi vanidad. Justo hay que perece por su justicia, y hay impío que por su maldad alarga sus días. ^16^ No seas demasiado justo, ni seas sabio con exceso: ¿por qué te destruirás? ^17^ No hagas mal mucho, ni seas insensato: ¿por qué morirás antes de tu tiempo? ^18^ Bueno es que tomes esto, y también de estotro no apartes tu mano; porque el que á Dios teme, saldrá con todo. ^19^ La sabiduría fortifica al sabio más que diez poderosos la ciudad en que fueron. ^20^ Ciertamente no hay hombre justo en la tierra, que haga bien y nunca peque. ^^ ^21^ Tampoco apliques tu corazón á todas las cosas que se hablaren, porque no oigas á tu siervo que dice mal de ti: ^22^ Porque tu corazón sabe, como tú también dijiste mal de otros muchas veces. ^23^ Todas estas cosas probé con sabiduría, diciendo: Hacerme he sabio: mas ella se alejó de mí. ^24^ Lejos está lo que fué; y lo muy profundo ¿quién lo hallará? 
-
 
 ^[**7:20** Sal 14,3]
 
 ## Las malas experiencias del predicador con las mujeres
 ^25^ Yo he rodeado con mi corazón por saber, y examinar, é inquirir la sabiduría, y la razón; y por conocer la maldad de la insensatez, y el desvarío del error; 
 
-
 ^26^ Y yo he hallado más amarga que la muerte la mujer, la cual es redes, y lazos su corazón; sus manos como ligaduras. El que agrada á Dios escapará de ella; mas el pecador será preso en ella. 
-
 
 ^27^ He aquí, esto he hallado, dice el Predicador, pesando las cosas una por una para hallar la razón; ^28^ Lo que aun busca mi alma, y no encuentro: un hombre entre mil he hallado; mas mujer de todas éstas nunca hallé. ^29^ He aquí, solamente he hallado esto: que Dios hizo al hombre recto, mas ellos buscaron muchas cuentas. ^^ 
 ^[**7:29** Prov 2,7] 
@@ -182,14 +161,11 @@
 ## La conducta del sabio hacia el gobernante y en días de opresión
 ^1^ ¿Quién como el sabio? ¿y quién como el que sabe la declaración de las cosas? La sabiduría del hombre hará relucir su rostro, y mudaráse la tosquedad de su semblante. 
 
-
 ^2^ Yo te aviso que guardes el mandamiento del rey y la palabra del juramento de Dios. ^3^ No te apresures á irte de delante de él, ni en cosa mala persistas; porque él hará todo lo que quisiere: ^4^ Pues la palabra del rey es con potestad, ¿y quién le dirá, Qué haces? ^5^ El que guarda el mandamiento no experimentará mal; y el tiempo y el juicio conoce el corazón del sabio. 
-
 
 
 ## Impotencia e desorientación del hombre
 ^6^ Porque para todo lo que quisieres hay tiempo y juicio; mas el trabajo del hombre es grande sobre él; ^7^ Porque no sabe lo que ha de ser; y el cuándo haya de ser, ¿quién se lo enseñará? ^^ ^8^ No hay hombre que tenga potestad sobre el espíritu para retener el espíritu, ni potestad sobre el día de la muerte: y no valen armas en tal guerra; ni la impiedad librará al que la posee. 
-
 
 ^[**8:7** Ecl 10,14]
 
@@ -214,12 +190,10 @@
 
 ^7^ Anda, y come tu pan con gozo, y bebe tu vino con alegre corazón: porque tus obras ya son agradables á Dios. ^^ ^8^ En todo tiempo sean blancos tus vestidos, y nunca falte ungüento sobre tu cabeza. ^9^ Goza de la vida con la mujer que amas, todos los días de la vida de tu vanidad, que te son dados debajo del sol, todos los días de tu vanidad; porque esta es tu parte en la vida, y en tu trabajo con que te afanas debajo del sol. ^10^ Todo lo que te viniere á la mano para hacer, hazlo según tus fuerzas; porque en el sepulcro, adonde tú vas, no hay obra, ni industria, ni ciencia, ni sabiduría. 
 
-
 ^[**9:7** Ecl 5,17]
 
 ## La dependencia del hombre del destino
 ^11^ Tornéme, y vi debajo del sol, que ni es de los ligeros la carrera, ni la guerra de los fuertes, ni aun de los sabios el pan, ni de los prudentes las riquezas, ni de los elocuentes el favor; sino que tiempo y ocasión acontece á todos. ^^ ^12^ Porque el hombre tampoco conoce su tiempo: como los peces que son presos en la mala red, y como las aves que se prenden en lazo, así son enlazados los hijos de los hombres en el tiempo malo, cuando cae de repente sobre ellos. 
-
 
 ^[**9:11** Jer 10,23]
 
@@ -228,7 +202,6 @@
 
 # 10 
 ^1^ Las moscas muertas hacen heder y dar mal olor el perfume del perfumista: así una pequeña locura, al estimado por sabiduría y honra. ^2^ El corazón del sabio está á su mano derecha; mas el corazón del necio á su mano izquierda. ^3^ Y aun mientras va el necio por el camino, fáltale su cordura, y dice á todos, que es necio. ^4^ Si el espíritu del príncipe se exaltare contra ti, no dejes tu lugar; porque la lenidad hará cesar grandes ofensas. 
-
 
 ^5^ Hay un mal que debajo del sol he visto, á manera de error emanado del príncipe: ^6^ La necedad está colocada en grandes alturas, y los ricos están sentados en lugar bajo. ^^ ^7^ Vi siervos en caballos, y príncipes que andaban como siervos sobre la tierra. ^8^ El que hiciere el hoyo caerá en él; y el que aportillare el vallado, morderále la serpiente. ^9^ El que mudare las piedras, trabajo tendrá en ellas: el que cortare la leña, en ella peligrará. ^10^ Si se embotare el hierro, y su filo no fuere amolado, hay que añadir entonces más fuerza: empero excede la bondad de la sabiduría. 
 
@@ -245,7 +218,6 @@
 ## Actuación inteligente y rentable ante la incertidumbre de todo lo terrenal
 ^1^ Echa tu pan sobre las aguas; que después de muchos días lo hallarás. ^^ ^2^ Reparte á siete, y aun á ocho: porque no sabes el mal que vendrá sobre la tierra. ^3^ Si las nubes fueren llenas de agua, sobre la tierra la derramarán: y si el árbol cayere al mediodía, ó al norte, al lugar que el árbol cayere, allí quedará. ^4^ El que al viento mira, no sembrará; y el que mira á las nubes, no segará. ^5^ Como tú no sabes cuál es el camino del viento, ó cómo se crían los huesos en el vientre de la mujer preñada, así ignoras la obra de Dios, el cual hace todas las cosas. ^6^ Por la mañana siembra tu simiente, y á la tarde no dejes reposar tu mano: porque tú no sabes cuál es lo mejor, si esto ó lo otro, ó si ambas á dos cosas son buenas. ^7^ Suave ciertamente es la luz, y agradable á los ojos ver el sol: ^8^ Mas si el hombre viviere muchos años, y en todos ellos hubiere gozado alegría; si después trajere á la memoria los días de las tinieblas, que serán muchos, todo lo que le habrá pasado, dirá haber sido vanidad. 
 
-
 ^[**11:1** Prov 19,17]
 
 ## Recordatorio para disfrutar plenamente de la vida en la juventud, pero agrada a Dios
@@ -257,10 +229,8 @@
 ^1^ Y acuérdate de tu Criador en los días de tu juventud, antes que vengan los malos días, y lleguen los años, de los cuales digas, No tengo en ellos contentamiento; 
 
 
-
 ## Descripción de las dolencias de la vejez
 ^2^ Antes que se oscurezca el sol, y la luz, y la luna y las estrellas, y las nubes se tornen tras la lluvia: ^3^ Cuando temblarán los guardas de la casa, y se encorvarán los hombres fuertes, y cesarán las muelas, porque han disminuído, y se oscurecerán los que miran por las ventanas; ^4^ Y las puertas de afuera se cerrarán, por la bajeza de la voz de la muela; y levantaráse á la voz del ave, y todas las hijas de canción serán humilladas; ^5^ Cuando también temerán de lo alto, y los tropezones en el camino; y florecerá el almendro, y se agravará la langosta, y perderáse el apetito: porque el hombre va á la casa de su siglo, y los endechadores andarán en derredor por la plaza: ^6^ Antes que la cadena de plata se quiebre, y se rompa el cuenco de oro, y el cántaro se quiebre junto á la fuente, y la rueda sea rota sobre el pozo; ^7^ Y el polvo se torne á la tierra, como era, y el espíritu se vuelva á Dios que lo dió. 
-
 
 ^8^ Vanidad de vanidades, dijo el Predicador, todo vanidad. 
 ^^ 
@@ -273,6 +243,5 @@
 
 ## Advertencia contra cavilaciones inútiles; Lista del resultado final
 ^12^ Ahora, hijo mío, á más de esto, sé avisado. No hay fin de hacer muchos libros; y el mucho estudio aflicción es de la carne. 
-
 
 ^13^ El fin de todo el discurso oído es este: Teme á Dios, y guarda sus mandamientos; porque esto es el todo del hombre. ^14^ Porque Dios traerá toda obra á juicio, el cual se hará sobre toda cosa oculta, buena ó mala. 

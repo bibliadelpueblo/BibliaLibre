@@ -3,15 +3,12 @@
 ^1^ Jacobo, siervo de Dios y del Señor Jesucristo, á las doce tribus que están esparcidas, salud. 
 
 
-
 ## Comportamiento correcto en las tentaciones; Recordatorio de la disposición correcta
 ^2^ Hermanos míos, tened por sumo gozo cuando cayereis en diversas tentaciones; ^3^ Sabiendo que la prueba de vuestra fe obra paciencia. ^4^ Mas tenga la paciencia perfecta su obra, para que seáis perfectos y cabales, sin faltar en alguna cosa. 
 
 
-
 ## Recordatorio para perseverar pidiendo sabiduría
 ^5^ Y si alguno de vosotros tiene falta de sabiduría, demándela á Dios, el cual da á todos abundantemente, y no zahiere; y le será dada. ^^ ^6^ Pero pida en fe, no dudando nada: porque el que duda es semejante á la onda de la mar, que es movida del viento, y echada de una parte á otra. ^^ ^7^ No piense pues el tal hombre que recibirá ninguna cosa del Señor. ^8^ El hombre de doblado ánimo es inconstante en todos sus caminos. 
-
 
 ^[**1:5** Prov 2,3-6; Sant 3,15] ^[**1:6** Mar 11,24; 1Tim 2,8]
 
@@ -50,7 +47,6 @@
 ## Cuidado con la reputación de la persona, especialmente de los pobres
 ^1^ Hermanos míos, no tengáis la fe de nuestro Señor Jesucristo glorioso en acepción de personas. ^2^ Porque si en vuestra congregación entra un hombre con anillo de oro, y de preciosa ropa, y también entra un pobre con vestidura vil, ^3^ Y tuviereis respeto al que trae la vestidura preciosa, y le dijereis: Siéntate tú aquí en buen lugar: y dijereis al pobre: Estáte tú allí en pie; ó siéntate aquí debajo de mi estrado: ^4^ ¿No juzgáis en vosotros mismos, y venís á ser jueces de pensamientos malos? ^5^ Hermanos míos amados, oid: ¿No ha elegido Dios los pobres de este mundo, ricos en fe, y herederos del reino que ha prometido á los que le aman? ^^ ^6^ Mas vosotros habéis afrentado al pobre. ¿No os oprimen los ricos, y no son ellos los mismos que os arrastran á los juzgados? ^7^ ¿No blasfeman ellos el buen nombre que fué invocado sobre vosotros? 
 
-
 ^[**2:5** 1Cor 1,26; 1Cor 11,22; Luc 12,21]
 
 ## El cumplimiento de la ley mosaica debe ser uniforme, es decir, sin excepción
@@ -67,7 +63,6 @@
 ^19^ Tú crees que Dios es uno; bien haces: también los demonios creen, y tiemblan. ^20^ ¿Mas quieres saber, hombre vano, que la fe sin obras es muerta? 
 
 
-
 ## Dos ejemplos del Antiguo Testamento como evidencia bíblica de las obras que conducen a la consumación de la fe
 ^21^ ¿No fué justificado por las obras Abraham nuestro padre, cuando ofreció á su hijo Isaac sobre el altar? 
 ^^ 
@@ -76,7 +71,6 @@
 # 3 
 ## Advertencia contra las prisas no solicitadas para enseñar y contra los pecados de la lengua
 ^1^ Hermanos míos, no os hagáis muchos maestros, sabiendo que recibiremos mayor condenación. ^2^ Porque todos ofendemos en muchas cosas. Si alguno no ofende en palabra, éste es varón perfecto, que también puede con freno gobernar todo el cuerpo. ^3^ He aquí nosotros ponemos frenos en las bocas de los caballos para que nos obedezcan, y gobernamos todo su cuerpo. ^4^ Mirad también las naves: aunque tan grandes, y llevadas de impetuosos vientos, son gobernadas con un muy pequeño timón por donde quisiere el que las gobierna. ^5^ Así también, la lengua es un miembro pequeño, y se gloría de grandes cosas. He aquí, un pequeño fuego ¡cuán grande bosque enciende! ^6^ Y la lengua es un fuego, un mundo de maldad. Así la lengua está puesta entre nuestros miembros, la cual contamina todo el cuerpo, é inflama la rueda de la creación, y es inflamada del infierno. ^^ ^7^ Porque toda naturaleza de bestias, y de aves, y de serpientes, y de seres de la mar, se doma y es domada de la naturaleza humana: ^8^ Pero ningún hombre puede domar la lengua, que es un mal que no puede ser refrenado; llena de veneno mortal. ^9^ Con ella bendecimos al Dios y Padre, y con ella maldecimos á los hombres, los cuales son hechos á la semejanza de Dios. ^10^ De una misma boca proceden bendición y maldición. Hermanos míos, no conviene que estas cosas sean así hechas. ^^ ^11^ ¿Echa alguna fuente por una misma abertura agua dulce y amarga? ^12^ Hermanos míos, ¿puede la higuera producir aceitunas, ó la vid higos? Así ninguna fuente puede hacer agua salada y dulce. 
-
 
 ^[**3:6** Mat 15,11; Mat 15,18; Mat 12,36-37; Prov 16,27] ^[**3:10** Efes 4,29]
 

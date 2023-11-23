@@ -3,7 +3,6 @@
 ^1^ Pablo, apóstol de Jesucristo por la voluntad de Dios, según la promesa de la vida que es en Cristo Jesús, ^2^ A Timoteo, amado hijo: Gracia, misericordia, y paz de Dios el Padre y de Jesucristo nuestro Señor. 
 
 
-
 ## Acción de gracias del apóstol por la firmeza de la fe de Timoteo
 ^3^ Doy gracias á Dios, al cual sirvo desde mis mayores con limpia conciencia, de que sin cesar tengo memoria de ti en mis oraciones noche y día; ^4^ Deseando verte, acordándome de tus lágrimas, para ser lleno de gozo; ^^ ^5^ Trayendo á la memoria la fe no fingida que hay en ti, la cual residió primero en tu abuela Loida, y en tu madre Eunice; y estoy cierto que en ti también. 
 
@@ -19,7 +18,6 @@
 ## Referencia al ejemplo del apóstol, la infidelidad de algunos hermanos y el comportamiento glorioso de Onesíforo
 ^12^ Por lo cual asimismo padezco esto: mas no me avergüenzo; porque yo sé á quien he creído, y estoy cierto que es poderoso para guardar mi depósito para aquel día. 
 
-
 ^13^ Retén la forma de las sanas palabras que de mí oíste, en la fe y amor que es en Cristo Jesús. ^^ ^14^ Guarda el buen depósito por el Espíritu Santo que habita en nosotros. 
 ^^ 
 ^[**1:13** 1Tim 6,3; Tit 2,1] ^[**1:14** 1Tim 6,20]
@@ -31,7 +29,6 @@
 # 2 
 ## Exhortación a Timoteo para que se preocupe por la predicación de la doctrina de la salvación y se fortalezca en la batalla y el sufrimiento
 ^1^ Pues tú, hijo mío, esfuérzate en la gracia que es en Cristo Jesús. ^^ ^2^ Y lo que has oído de mí entre muchos testigos, esto encarga á los hombres fieles que serán idóneos para enseñar también á otros. ^3^ Tú pues, sufre trabajos como fiel soldado de Jesucristo. ^4^ Ninguno que milita se embaraza en los negocios de la vida; á fin de agradar á aquel que lo tomó por soldado. ^5^ Y aun también el que lidia, no es coronado si no lidiare legítimamente. ^^ ^6^ El labrador, para recibir los frutos, es menester que trabaje primero. ^7^ Considera lo que digo; y el Señor te dé entendimiento en todo. 
-
 
 ^[**2:1** Efes 6,10] ^[**2:5** 1Cor 9,24-27; 2Tim 4,8]
 
@@ -48,15 +45,12 @@
 
 ^15^ Procura con diligencia presentarte á Dios aprobado, como obrero que no tiene de qué avergonzarse, que traza bien la palabra de verdad. ^^ ^16^ Mas evita profanas y vanas parlerías; porque muy adelante irán en la impiedad. ^^ ^17^ Y la palabra de ellos carcomerá como gangrena: de los cuales es Himeneo y Fileto; ^^ ^18^ Que se han descaminado de la verdad, diciendo que la resurrección es ya hecha, y trastornan la fe de algunos. 
 
-
 ^[**2:15** 1Tim 4,6; Tit 2,7; Tit 1,2-8] ^[**2:16** 1Tim 4,7] ^[**2:17** 1Tim 1,20]
 
 ## La desesperanza de los falsos maestros debido al sólido fundamento de la iglesia puesto por Dios
 ^19^ Pero el fundamento de Dios está firme, teniendo este sello: Conoce el Señor á los que son suyos; y: Apártese de iniquidad todo aquel que invoca el nombre de Cristo. 
 
-
 ^20^ Mas en una casa grande, no solamente hay vasos de oro y de plata, sino también de madera y de barro: y asimismo unos para honra, y otros para deshonra. ^21^ Así que, si alguno se limpiare de estas cosas, será vaso para honra, santificado, y útil para los usos del Señor, y aparejado para todo buena obra. 
-
 
 ^22^ Huye también los deseos juveniles; y sigue la justicia, la fe, la caridad, la paz, con los que invocan al Señor de puro corazón. ^^ ^23^ Empero las cuestiones necias y sin sabiduría desecha, sabiendo que engendran contiendas. ^^ ^24^ Que el siervo del Señor no debe ser litigioso, sino manso para con todos, apto para enseñar, sufrido; 
 ^^ 
@@ -65,7 +59,6 @@
 # 3 
 ## Descripción de los futuros falsos maestros y la corrupción moral del último tiempo
 ^1^ Esto también sepas, que en los postreros días vendrán tiempos peligrosos: ^2^ Que habrá hombres amadores de sí mismos, avaros, vanagloriosos, soberbios, detractores, desobedientes á los padres, ingratos, sin santidad, ^3^ Sin afecto, desleales, calumniadores, destemplados, crueles, aborrecedores de lo bueno, ^4^ Traidores, arrebatados, hinchados, amadores de los deleites más que de Dios; ^5^ Teniendo apariencia de piedad, mas habiendo negado la eficacia de ella: y á éstos evita. ^^ ^6^ Porque de éstos son los que se entran por las casas, y llevan cautivas las mujercillas cargadas de pecados, llevadas de diversas concupiscencias; ^7^ Que siempre aprenden, y nunca pueden acabar de llegar al conocimiento de la verdad. ^8^ Y de la manera que Jannes y Jambres resistieron á Moisés, así también éstos resisten á la verdad; hombres corruptos de entendimiento, réprobos acerca de la fe. ^9^ Mas no prevalecerán; porque su insensatez será manifiesta á todos, como también lo fué la de aquéllos. 
-
 
 ^[**3:5** Mat 7,15; Mat 7,21; Tit 1,16]
 

@@ -4,7 +4,6 @@
 ^2^ Gracia y paz os sea multiplicada en el conocimiento de Dios, y de nuestro Señor Jesús.
 
 ## Recordatorio de perseverancia y progreso en el desarrollo de la fe para la aceptación en el reino eterno de Cristo
- 
 ^3^ Como todas las cosas que pertenecen á la vida y á la piedad nos sean dadas de su divina potencia, por el conocimiento de aquel que nos ha llamado por su gloria y virtud: 
 ^4^ Por las cuales nos son dadas preciosas y grandísimas promesas, para que por ellas fueseis hechos participantes de la naturaleza divina, habiendo huído de la corrupción que está en el mundo por concupiscencia. 
 ^5^ Vosotros también, poniendo toda diligencia por esto mismo, mostrad en vuestra fe virtud, y en la virtud ciencia; 
@@ -16,19 +15,16 @@
 ^11^ Porque de esta manera os será abundantemente administrada la entrada en el reino eterno de nuestro Señor y Salvador Jesucristo.
 
 ## La indicación del apóstol de su muerte inminente
- 
 ^12^ Por esto, yo no dejaré de amonestaros siempre de estas cosas, aunque vosotros las sepáis, y estéis confirmados en la verdad presente. 
 ^13^ Porque tengo por justo, en tanto que estoy en este tabernáculo, de incitaros con amonestación: 
 ^14^ Sabiendo que brevemente tengo de dejar mi tabernáculo, como nuestro Señor Jesucristo me ha declarado. 
 ^15^ También yo procuraré con diligencia, que después de mi fallecimiento, vosotros podáis siempre tener memoria de estas cosas.
 
 ## Referencia a la fiabilidad del sermón apostólico y la palabra profética
- 
 ^16^ Porque no os hemos dado á conocer la potencia y la venida de nuestro Señor Jesucristo, siguiendo fábulas por arte compuestas; sino como habiendo con nuestros propios ojos visto su majestad. 
 ^17^ Porque él había recibido de Dios Padre honra y gloria, cuando una tal voz fué á él enviada de la magnífica gloria: Este es el amado Hijo mío, en el cual yo me he agradado. 
 ^18^ Y nosotros oímos esta voz enviada del cielo, cuando estábamos juntamente con él en el monte santo.
 
- 
 ^19^ Tenemos también la palabra profética más permanente, á la cual hacéis bien de estar atentos como á una antorcha que alumbra en lugar oscuro hasta que el día esclarezca, y el lucero de la mañana salga en vuestros corazones: 
 ^20^ Entendiendo primero esto, que ninguna profecía de la Escritura es de particular interpretación; 
 ^21^ Porque la profecía no fué en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo. 
@@ -40,7 +36,6 @@
 ^3^ Y por avaricia harán mercadería de vosotros con palabras fingidas; sobre los cuales la condenación ya de largo tiempo no se tarda, y su perdición no se duerme.
 
 ## Tres ejemplos del Antiguo Testamento
- 
 ^4^ Porque si Dios no perdonó á los ángeles que habían pecado, sino que habiéndolos despeñado en el infierno con cadenas de oscuridad, los entregó para ser reservados al juicio; 
 ^5^ Y si no perdonó al mundo viejo, mas guardó á Noé, pregonero de justicia, con otras siete personas, trayendo el diluvio sobre el mundo de malvados; 
 ^6^ Y si condenó por destrucción las ciudades de Sodoma y de Gomorra, tornándolas en ceniza, y poniéndolas por ejemplo á los que habían de vivir sin temor y reverencia de Dios; 
@@ -51,19 +46,16 @@
 ^11^ Como quiera que los mismos ángeles, que son mayores en fuerza y en potencia, no pronuncian juicio de maldición contra ellas delante del Señor.
 
 ## Descripción de la maldad y la inmoralidad de los falsos maestros
- 
 ^12^ Mas éstos, diciendo mal de las cosas que no entienden, como bestias brutas, que naturalmente son hechas para presa y destrucción, perecerán en su perdición, 
 ^13^ Recibiendo el galardón de su injusticia, ya que reputan por delicia poder gozar de deleites cada día. Estos son suciedades y manchas, los cuales comiendo con vosotros, juntamente se recrean en sus errores; 
 ^14^ Teniendo los ojos llenos de adulterio, y no saben cesar de pecar; cebando las almas inconstantes; teniendo el corazón ejercitado en codicias, siendo hijos de maldición; 
 ^15^ Que han dejado el camino derecho, y se han extraviado, siguiendo el camino de Balaam, hijo de Bosor, el cual amó el premio de la maldad. 
 ^16^ Y fué reprendido por su iniquidad: una muda bestia de carga, hablando en voz de hombre, refrenó la locura del profeta.
 
- 
 ^17^ Estos son fuentes sin agua, y nubes traídas de torbellino de viento: para los cuales está guardada la oscuridad de las tinieblas para siempre. 
 ^18^ Porque hablando arrogantes palabras de vanidad, ceban con las concupiscencias de la carne en disoluciones á los que verdaderamente habían huído de los que conversan en error; 
 ^19^ Prometiéndoles libertad, siendo ellos mismos siervos de corrupción. Porque el que es de alguno vencido, es sujeto á la servidumbre del que lo venció.
 
- 
 ^20^ Ciertamente, si habiéndose ellos apartado de las contaminaciones del mundo, por el conocimiento del Señor y Salvador Jesucristo, y otra vez envolviéndose en ellas, son vencidos, sus postrimerías les son hechas peores que los principios. 
 ^21^ Porque mejor les hubiera sido no haber conocido el camino de la justicia, que después de haberlo conocido, tornarse atrás del santo mandamiento que les fué dado. 
 ^22^ Pero les ha acontecido lo del verdadero proverbio: El perro se volvió á su vómito, y la puerca lavada á revolcarse en el cieno. 
@@ -79,19 +71,16 @@
 ^7^ Mas los cielos que son ahora, y la tierra, son conservados por la misma palabra, guardados para el fuego en el día del juicio, y de la perdición de los hombres impíos.
 
 ## La paciencia del Señor
- 
 ^8^ Mas, oh amados, no ignoréis esta una cosa: que un día delante del Señor es como mil años y mil años como un día. 
 ^9^ El Señor no tarda su promesa, como algunos la tienen por tardanza; sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.
 
 ## Referencia a la ocurrencia repentina y el temor del fin del mundo; Un nuevo mundo emerge
- 
 ^10^ Mas el día del Señor vendrá como ladrón en la noche; en el cual los cielos pasarán con grande estruendo, y los elementos ardiendo serán deshechos, y la tierra y las obras que en ella están serán quemadas. 
 ^11^ Pues como todas estas cosas han de ser deshechas, ¿qué tales conviene que vosotros seáis en santas y pías conversaciones, 
 ^12^ Esperando y apresurándoos para la venida del día de Dios, en el cual los cielos siendo encendidos serán deshechos, y los elementos siendo abrasados, se fundirán? 
 ^13^ Bien que esperamos cielos nuevos y tierra nueva, según sus promesas, en los cuales mora la justicia.
 
 ## Zusammenfassende Schlußmahnung mit Bezugnahme auf die Briefe des Paulus
- 
 ^14^ Por lo cual, oh amados, estando en esperanza de estas cosas, procurad con diligencia que seáis hallados de él sin mácula, y sin reprensión, en paz. 
 ^15^ Y tened por salud la paciencia de nuestro Señor; como también nuestro amado hermano Pablo, según la sabiduría que le ha sido dada, os ha escrito también; 
 ^16^ Casi en todas sus epístolas, hablando en ellas de estas cosas; entre las cuales hay algunas difíciles de entender, las cuales los indoctos é inconstantes tuercen, como también las otras Escrituras, para perdición de sí mismos. 

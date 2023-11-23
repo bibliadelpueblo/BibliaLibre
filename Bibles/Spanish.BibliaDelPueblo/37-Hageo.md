@@ -7,14 +7,12 @@
 ^5^ Pues así ha dicho Jehová de los ejércitos: Pensad bien sobre vuestros caminos. 
 ^6^ Sembráis mucho, y encerráis poco; coméis, y no os hartáis; bebéis, y no os saciáis; os vestís, y no os calentáis; y el que anda á jornal recibe su jornal en trapo horadado.
 
- 
 ^7^ Así ha dicho Jehová de los ejércitos: Meditad sobre vuestros caminos. 
 ^8^ Subid al monte, y traed madera, y reedificad la casa; y pondré en ella mi voluntad, y seré honrado, ha dicho Jehová. 
 ^9^ Buscáis mucho, y halláis poco; y encerráis en casa, y soplo en ello. ¿Por qué? dice Jehová de los ejércitos. Por cuanto mi casa está desierta, y cada uno de vosotros corre á su propia casa. 
 ^10^ Por eso se detuvo de los cielos sobre vosotros la lluvia, y la tierra detuvo sus frutos. 
 ^11^ Y llamé la sequedad sobre esta tierra, y sobre los montes, y sobre el trigo, y sobre el vino, y sobre el aceite, y sobre todo lo que la tierra produce, y sobre los hombres y sobre las bestias, y sobre todo trabajo de manos.
 
- 
 ^12^ Y oyó Zorobabel hijo de Sealtiel, y Josué hijo de Josadac, gran sacerdote, y todo el demás pueblo, la voz de Jehová su Dios, y las palabras del profeta Haggeo, como lo había enviado Jehová el Dios de ellos; y temió el pueblo delante de Jehová. 
 ^13^ Entonces Haggeo, enviado de Jehová, habló por mandado de Jehová, al pueblo, diciendo: Yo soy con vosotros, dice Jehová. 
 ^14^ Y despertó Jehová el espíritu de Zorobabel hijo de Sealtiel, gobernador de Judá, y el espíritu de Josué hijo de Josadac, gran sacerdote, y el espíritu de todo el resto del pueblo; y vinieron é hicieron obra en la casa de Jehová de los ejércitos, su Dios, 
@@ -33,26 +31,22 @@
 ^9^ La gloria de aquesta casa postrera será mayor que la de la primera, ha dicho Jehová de los ejércitos; y daré paz en este lugar, dice Jehová de los ejércitos.
 
 ## La gente inmunda y la inmundicia de las víctimas
- 
 ^10^ A veinticuatro del noveno mes, en el segundo año de Darío, fué palabra de Jehová por mano del profeta Haggeo, diciendo: 
 ^11^ Así ha dicho Jehová de los ejércitos: Pregunta ahora á los sacerdotes acerca de la ley, diciendo: 
 ^12^ Si llevare alguno las carnes sagradas en la falda de su ropa, y con el vuelo de ella tocare el pan, ó la vianda, ó el vino, ó el aceite, ú otra cualquier comida, ¿será santificado? Y respondieron los sacerdotes, y dijeron: No.
 
- 
 ^13^ Y dijo Haggeo: Si un inmundo á causa de cuerpo muerto tocare alguna cosa de éstas, ¿será inmunda? Y respondieron los sacerdotes, y dijeron: Inmunda será.
 
- 
 ^14^ Y respondió Haggeo y dijo: Así es este pueblo, y esta gente, delante de mí, dice Jehová; y asimismo toda obra de sus manos; y todo lo que aquí ofrecen es inmundo.
 
 ## Referencia a la bendición que seguramente vendrá con la construcción del templo
- 
 ^15^ Ahora pues, poned vuestro corazón desde este día en adelante, antes que pusiesen piedra sobre piedra en el templo de Jehová, 
 ^16^ Antes que fuesen estas cosas, venían al montón de veinte hanegas, y había diez; venían al lagar para sacar cincuenta cántaros del lagar, y había veinte. 
 ^17^ Os herí con viento solano, y con tizoncillo, y con granizo en toda obra de vuestras manos; mas no os convertisteis á mí, dice Jehová. 
 ^18^ Pues poned ahora vuestro corazón desde este día en adelante, desde el día veinticuatro del noveno mes, desde el día que se echó el cimiento al templo de Jehová; poned vuestro corazón. 
 ^19^ ¿Aun no está la simiente en el granero? Ni la vid, ni la higuera, ni el granado, ni el árbol de la oliva ha todavía florecido: mas desde aqueste día daré bendición.
 
-## La caída de los reinos paganos y la promesa de la exaltación de Zorobabel
+## La caída de los reinos paganos y la promesa de la exaltación de Zorobabel
  
 ^20^ Y fué segunda vez palabra de Jehová á Haggeo, á los veinticuatro del mismo mes, diciendo: 
 ^21^ Habla á Zorobabel, gobernador de Judá, diciendo: Yo haré temblar los cielos y la tierra; 

@@ -6,7 +6,6 @@
 ^4^ Por lo cual la ley es debilitada, y el juicio no sale verdadero: por cuanto el impío asedia al justo, por eso sale torcido el juicio.
 
 ## Anuncio del próximo tribunal penal; Descripción del terrible enemigo que se acerca
- 
 ^5^ Mirad en las gentes, y ved, y maravillaos pasmosamente; porque obra será hecha en vuestros días, que aun cuando se os contare, no la creeréis. 
 ^6^ Porque he aquí, yo levanto los Caldeos, gente amarga y presurosa, que camina por la anchura de la tierra para poseer las habitaciones ajenas. 
 ^7^ Espantosa es y terrible: de ella misma saldrá su derecho y su grandeza. 
@@ -16,7 +15,6 @@
 ^11^ Luego mudará espíritu, y pasará adelante, y ofenderá atribuyendo esta su potencia á su dios.
 
 ## El profeta le preguntó a Dios con reproche por qué permitiría que el enemigo hiciera algo tan terrible
- 
 ^12^ ¿No eres tú desde el principio, oh Jehová, Dios mío, Santo mío? No moriremos. Oh Jehová, para juicio lo pusiste; y tú, oh Roca, lo fundaste para castigar. 
 ^13^ Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio: ¿por qué ves los menospreciadores, y callas cuando destruye el impío al más justo que él, 
 ^14^ Y haces que sean los hombres como los peces de la mar, como reptiles que no tienen señor? 
@@ -28,36 +26,29 @@
 ## Habacuc espera y recibe la respuesta de Dios a su queja
 ^1^ Sobre mi guarda estaré, y sobre la fortaleza afirmaré el pie, y atalayaré para ver qué hablará en mí, y qué tengo de responder á mi pregunta.
 
- 
 ^2^ Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella. 
 ^3^ Aunque la visión tardará aún por tiempo, mas al fin hablará, y no mentirá: aunque se tardare, espéralo, que sin duda vendrá; no tardará. 
 ^4^ He aquí se enorgullece aquel cuya alma no es derecha en él: mas el justo en su fe vivirá.
 
 ## La revelación real de Dios contra el conquistador salvaje en cinco ayes
- 
 ^5^ Y también, por cuanto peca por el vino, es un hombre soberbio, y no permanecerá: que ensanchó como el infierno su alma, y es como la muerte, que no se hartará: antes reunió á sí todas las gentes, y amontonó á sí todos los pueblos.
 
- 
 ^6^ ¿No han de levantar todos estos sobre él parábola, y sarcasmos contra él? Y dirán: ¡Ay del que multiplicó lo que no era suyo! ¿Y hasta cuándo había de amontonar sobre sí espeso lodo? 
 ^7^ ¿No se levantarán de repente los que te han de morder, y se despertarán los que te han de quitar de tu lugar, y serás á ellos por rapiña? 
 ^8^ Porque tú has despojado muchas gentes, todos los otros pueblos te despojarán; á causa de las sangres humanas, y robos de la tierra, de las ciudades y de todos los que moraban en ellas.
 
- 
 ^9^ ¡Ay del que codicia maligna codicia para su casa, por poner en alto su nido, por escaparse del poder del mal! 
 ^10^ Tomaste consejo vergonzoso para tu casa, asolaste muchos pueblos, y has pecado contra tu vida. 
 ^11^ Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá.
 
- 
 ^12^ ¡Ay del que edifica la ciudad con sangres, y del que funda la villa con iniquidad! 
 ^13^ ¿No es esto de Jehová de los ejércitos? Los pueblos pues trabajarán para el fuego, y las gentes se fatigarán en vano. 
 ^14^ Porque la tierra será llena de conocimiento de la gloria de Jehová, como las aguas cubren la mar.
 
- 
 ^15^ ¡Ay del que da de beber á sus compañeros, que les acercas tu hiel y embriagas, para mirar sus desnudeces! 
 ^16^ Haste llenado de deshonra más que de honra: bebe tú también, y serás descubierto; el cáliz de la mano derecha de Jehová volverá sobre ti, y vómito de afrenta sobre tu gloria. 
 ^17^ Porque la rapiña del Líbano caerá sobre ti, y la destrucción de las fieras lo quebrantará; á causa de las sangres humanas, y del robo de la tierra, de las ciudades, y de todos los que en ellas moraban.
 
- 
 ^18^ ¿De qué sirve la escultura que esculpió el que la hizo? ¿la estatua de fundición, que enseña mentira, para que haciendo imágenes mudas confíe el hacedor en su obra? 
 ^19^ ¡Ay del que dice al palo: Despiértate; y á la piedra muda: Levántate! ¿Podrá él enseñar? He aquí él está cubierto de oro y plata, y no hay dentro de él espíritu. 
 ^20^ Mas Jehová está en su santo templo: calle delante de él toda la tierra. 
@@ -66,10 +57,8 @@
 ## Canción a la aparición del Señor en el juicio
 ^1^ Oración de Habacuc profeta, sobre Sigionoth.
 
- 
 ^2^ Oh Jehová, oído he tu palabra, y temí: oh Jehová, aviva tu obra en medio de los tiempos, en medio de los tiempos hazla conocer; en la ira acuérdate de la misericordia.
 
- 
 ^3^ Dios vendrá de Temán, y el Santo del monte de Parán. (Selah.) Su gloria cubrió los cielos, y la tierra se llenó de su alabanza. 
 ^4^ Y el resplandor fué como la luz; rayos brillantes salían de su mano; y allí estaba escondida su fortaleza. 
 ^5^ Delante de su rostro iba mortandad, y á sus pies salían carbones encendidos. 
@@ -85,10 +74,8 @@
 ^15^ Hiciste camino en la mar á tus caballos, por montón de grandes aguas.
 
 ## Efecto aterrador y al mismo tiempo alentador de la aparición de Dios en el profeta
- 
 ^16^ Oí, y tembló mi vientre; á la voz se batieron mis labios; pudrición se entró en mis huesos, y en mi asiento me estremecí; si bien estaré quieto en el día de la angustia, cuando suba al pueblo el que lo invadirá con sus tropas.
 
- 
 ^17^ Aunque la higuera no florecerá, ni en las vides habrá frutos; mentirá la obra de la oliva, y los labrados no darán mantenimiento, y las ovejas serán quitadas de la majada, y no habrá vacas en los corrales; 
 ^18^ Con todo, yo me alegraré en Jehová, y me gozaré en el Dios de mi salud. 
 ^19^ Jehová el Señor es mi fortaleza, el cual pondrá mis pies como de ciervas, y me hará andar sobre mis alturas. Al jefe de los cantores sobre mis instrumentos de cuerdas. 

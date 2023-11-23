@@ -2,7 +2,6 @@
 ## Bendiciones
 ^1^ Pablo, apóstol, (no de los hombres, ni por hombre, mas por Jesucristo y por Dios el Padre, que lo resucitó de los muertos), ^2^ Y todos los hermanos que están conmigo, á las iglesias de Galacia: ^3^ Gracia sea á vosotros, y paz de Dios el Padre, y de nuestro Señor Jesucristo, ^4^ El cual se dió á sí mismo por nuestros pecados para librarnos de este presente siglo malo, conforme á la voluntad de Dios y Padre nuestro; ^^ ^5^ Al cual sea la gloria por siglos de siglos. Amén. 
 
-
 ^[**1:4** Gal 2,20; 1Tim 2,6; Tit 2,14; 1Jn 5,19]
 
 ## La sorpresa del apóstol ante la rápida apostasía de los gálatas del único mensaje verdadero de salvación
@@ -24,7 +23,6 @@
 ## La conducta de Pablo antes de su conversión e inmediatamente después
 ^13^ Porque ya habéis oído acerca de mi conducta otro tiempo en el Judaismo, que perseguía sobremanera la iglesia de Dios, y la destruía; ^14^ Y aprovechaba en el Judaismo sobre muchos de mis iguales en mi nación, siendo muy más celador que todos de las tradiciones de mis padres. ^15^ Mas cuando plugo á Dios, que me apartó desde el vientre de mi madre, y me llamó por su gracia, ^^ ^16^ Revelar á su Hijo en mí, para que le predicase entre los Gentiles, luego no conferí con carne y sangre; ^^ ^17^ Ni fuí á Jerusalem á los que eran apóstoles antes que yo; sino que me fuí á la Arabia, y volví de nuevo á Damasco. 
 
-
 ^[**1:15** Rom 1,1; Jer 1,5] ^[**1:16** Mat 16,17; Gal 2,7]
 
 ## La actividad independiente de Pablo durante el tiempo anterior a la reunión de los apóstoles
@@ -35,7 +33,6 @@
 # 2 
 ## Aparición de Pablo en la consulta del apóstol en Jerusalén
 ^1^ Después, pasados catorce años, fuí otra vez á Jerusalem juntamente con Bernabé, tomando también conmigo á Tito. ^2^ Empero fuí por revelación, y comuniquéles el evangelio que predico entre los Gentiles; mas particularmente á los que parecían ser algo, por no correr en vano, ó haber corrido. ^3^ Mas ni aun Tito, que estaba conmigo, siendo Griego, fué compelido á circuncidarse. ^^ ^4^ Y eso por causa de los falsos hermanos, que se entraban secretamente para espiar nuestra libertad que tenemos en Cristo Jesús, para ponernos en servidumbre; ^5^ A los cuales ni aun por una hora cedimos sujetándonos, para que la verdad del evangelio permaneciese con vosotros. 
-
 
 ^[**2:3** Hech 16,3; 1Cor 9,21]
 
@@ -48,12 +45,10 @@
 ## Aparición justificada de Pablo contra Pedro en Antioquía
 ^11^ Empero viniendo Pedro á Antioquía, le resistí en la cara, porque era de condenar. ^12^ Porque antes que viniesen unos de parte de Jacobo, comía con los Gentiles; mas después que vinieron, se retraía y apartaba, teniendo miedo de los que eran de la circuncisión. ^^ ^13^ Y á su disimulación consentían también los otros Judíos; de tal manera que aun Bernabé fué también llevado de ellos en su simulación. 
 
-
 ^[**2:12** Hech 11,2-3]
 
 ## El discurso de reprensión de Pablo contra Pedro
 ^14^ Mas cuando vi que no andaban derechamente conforme á la verdad del evangelio, dije á Pedro delante de todos: Si tú, siendo Judío, vives como los Gentiles y no como Judío, ¿por qué constriñes á los Gentiles á judaizar? 
-
 
 ^15^ Nosotros Judíos naturales, y no pecadores de los Gentiles, ^16^ Sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para que fuésemos justificados por la fe de Cristo, y no por las obras de la ley; por cuanto por las obras de la ley ninguna carne será justificada. ^17^ Y si buscando nosotros ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En ninguna manera. ^18^ Porque si las cosas que destruí, las mismas vuelvo á edificar, transgresor me hago. ^19^ Porque yo por la ley soy muerto á la ley, para vivir á Dios. ^^ ^20^ Con Cristo estoy juntamente crucificado, y vivo, no ya yo, mas vive Cristo en mí: y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó, y se entregó á sí mismo por mí. 
 ^^ 
@@ -64,7 +59,6 @@
 ^1^ ¡Oh Gálatas insensatos! ¿quién os fascinó, para no obedecer á la verdad, ante cuyos ojos Jesucristo fué ya descrito como crucificado entre vosotros? ^2^ Esto solo quiero saber de vosotros: ¿Recibisteis el Espíritu por las obras de la ley, ó por el oir de la fe? ^3^ ¿Tan necios sois? ¿habiendo comenzado por el Espíritu, ahora os perfeccionáis por la carne? ^4^ ¿Tantas cosas habéis padecido en vano? si empero en vano. ^5^ Aquel, pues, que os daba el Espíritu, y obraba maravillas entre vosotros ¿hacíalo por las obras de la ley, ó por el oir de la fe? 
 
 
-
 ## La justicia de la fe de Abraham nuestro ejemplo; el servicio de la ley trae la maldición, Cristo libera de la maldición de la ley
 ^6^ Como Abraham creyó á Dios, y le fué imputado á justicia. ^^ ^7^ Sabéis por tanto, que los que son de fe, los tales son hijos de Abraham. ^8^ Y viendo antes la Escritura que Dios por la fe había de justificar á los Gentiles, evangelizó antes á Abraham, diciendo: En ti serán benditas todas las naciones. ^9^ Luego los de la fe son benditos con el creyente Abraham. 
 
@@ -72,9 +66,7 @@
 
 ^10^ Porque todos los que son de las obras de la ley, están bajo de maldición. Porque escrito está: Maldito todo aquel que no permaneciere en todas las cosas que están escritas en el libro de la ley, para hacerlas. ^11^ Mas por cuanto por la ley ninguno se justifica para con Dios, queda manifiesto: Que el justo por la fe vivirá. ^12^ La ley también no es de la fe; sino, El hombre que los hiciere, vivirá en ellos. 
 
-
 ^13^ Cristo nos redimió de la maldición de la ley, hecho por nosotros maldición; (porque está escrito: Maldito cualquiera que es colgado en madero:) ^^ ^14^ Para que la bendición de Abraham fuese sobre los Gentiles en Cristo Jesús; para que por la fe recibamos la promesa del Espíritu. 
-
 
 ^[**3:13** 2Cor 5,21]
 
@@ -82,10 +74,8 @@
 ^15^ Hermanos, hablo como hombre: Aunque un pacto sea de hombre, con todo, siendo confirmado, nadie lo cancela, ó le añade. ^16^ A Abraham fueron hechas las promesas, y á su simiente. No dice: Y á las simientes, como de muchos; sino como de uno: Y á tu simiente, la cual es Cristo. ^17^ Esto pues digo: Que el contrato confirmado de Dios para con Cristo, la ley que fué hecha cuatrocientos treinta años después, no lo abroga, para invalidar la promesa. ^18^ Porque si la herencia es por la ley, ya no es por la promesa: empero Dios por la promesa hizo la donación á Abraham. 
 
 
-
 ## Naturaleza y propósito de la ley que es ineficaz para la perfección de la salvación, ordenada por ángeles y un mediador y solo destinada al ínterin
 ^19^ ¿Pues de qué sirve la ley? Fué puesta por causa de las rebeliones, hasta que viniese la simiente á quien fué hecha la promesa, ordenada aquélla por los ángeles en la mano de un mediador. ^^ ^20^ Y el mediador no es de uno, pero Dios es uno. 
-
 
 ^[**3:19** Rom 5,20; Hech 7,38; Hech 7,53; Éxod 5,5; Heb 2,2]
 
@@ -97,7 +87,6 @@
 
 ## El propósito educativo externo de la ley
 ^23^ Empero antes que viniese la fe, estábamos guardados bajo la ley, encerrados para aquella fe que había de ser descubierta. ^^ ^24^ De manera que la ley nuestro ayo fué para llevarnos á Cristo, para que fuésemos justificados por la fe. 
-
 
 ^[**3:23** Gal 4,3]
 
@@ -124,9 +113,7 @@
 
 ^15^ ¿Dónde está pues vuestra bienaventuranza? porque yo os doy testimonio que si se pudiera hacer, os hubierais sacado vuestros ojos para dármelos. ^16^ ¿Heme pues hecho vuestro enemigo, diciéndoos la verdad? ^17^ Tienen celos de vosotros, pero no bien: antes os quieren echar fuera para que vosotros los celéis á ellos. ^18^ Bueno es ser celosos en bien siempre; y no solamente cuando estoy presente con vosotros. 
 
-
 ^19^ Hijitos míos, que vuelvo otra vez á estar de parto de vosotros, hasta que Cristo sea formado en vosotros; ^^ ^20^ Querría cierto estar ahora con vosotros, y mudar mi voz; porque estoy perplejo en cuanto á vosotros. 
-
 
 ^[**4:19** 1Cor 4,15]
 
@@ -136,7 +123,6 @@
 ^[**4:23** Rom 9,7-9] ^[**4:24** Gal 5,1; Rom 8,15] ^[**4:26** Heb 12,22; Apoc 21,2]
 
 ^28^ Así que, hermanos, nosotros como Isaac somos hijos de la promesa. ^29^ Empero como entonces el que era engendrado según la carne, perseguía al que había nacido según el Espíritu, así también ahora. ^30^ Mas ¿qué dice la Escritura? Echa fuera á la sierva y á su hijo; porque no será heredero el hijo de la sierva con el hijo de la libre. 
-
 
 
 ## Resumen de lo dicho hasta ahora y una última advertencia para aferrarse a la libertad cristiana, que es incompatible con la ley y la circuncisión
@@ -150,14 +136,12 @@
 ^2^ He aquí yo Pablo os digo, que si os circuncidareis, Cristo no os aprovechará nada. ^3^ Y otra vez vuelvo á protestar á todo hombre que se circuncidare, que está obligado á hacer toda la ley. ^4^ Vacíos sois de Cristo los que por la ley os justificáis; de la gracia habéis caído. ^5^ Porque nosotros por el Espíritu esperamos la esperanza de la justicia por la fe. ^6^ Porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión; sino la fe que obra por la caridad. 
 
 
-
 ## Queja melancólica sobre seductores y personas seducidas en la iglesia
 ^7^ Vosotros corríais bien: ¿quién os embarazó para no obedecer á la verdad? ^8^ Esta persuasión no es de aquel que os llama. ^9^ Un poco de levadura leuda toda la masa. ^^ ^10^ Yo confío de vosotros en el Señor, que ninguna otra cosa sentiréis: mas el que os inquieta, llevará el juicio, quienquiera que él sea. 
 ^^ 
 ^[**5:9** 1Cor 5,6] ^[**5:10** Gal 1,7]
 
 ^11^ Y yo, hermanos, si aun predico la circuncisión, ¿por qué padezco persecución todavía? pues que quitado es el escándalo de la cruz. ^^ ^12^ Ojalá fuesen también cortados los que os inquietan. 
-
 
 ^[**5:11** Gal 6,12; 1Cor 1,23; 1Cor 15,30]
 
@@ -197,7 +181,6 @@
 
 ## Última iluminación del enemigo
 ^11^ Mirad en cuán grandes letras os he escrito de mi mano. ^12^ Todos los que quieren agradar en la carne, éstos os constriñen á que os circuncidéis, solamente por no padecer persecución por la cruz de Cristo. ^13^ Porque ni aun los mismos que se circuncidan guardan la ley; sino que quieren que vosotros seáis circuncidados, para gloriarse en vuestra carne. 
-
 
 
 ## Confesión final personal; Bendición

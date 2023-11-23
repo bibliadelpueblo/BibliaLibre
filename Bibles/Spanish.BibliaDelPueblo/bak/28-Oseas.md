@@ -10,19 +10,15 @@
 
 ^3^ Fué pues, y tomó á Gomer hija de Diblaim, la cual concibió y le parió un hijo. 
 
-
 ^4^ Y díjole Jehová: Ponle por nombre Jezreel; porque de aquí á poco yo visitaré las sangres de Jezreel sobre la casa de Jehú, y haré cesar el reino de la casa de Israel. ^^ ^5^ Y acaecerá que en aquel día quebraré yo el arco de Israel en el valle de Jezreel. 
 
 ^[**1:4** 2Re 10,30]
 
 ^6^ Y concibió aún, y parió una hija. Y díjole Dios: Ponle por nombre Lo-ruhama: porque no más tendré misericordia de la casa de Israel, sino que los quitaré del todo. 
 
-
 ^7^ Mas de la casa de Judá tendré misericordia, y salvarélos en Jehová su Dios: y no los salvaré con arco, ni con espada, ni con batalla, ni con caballos ni caballeros. 
 
-
 ^8^ Y después de haber destetado á Lo-ruhama, concibió y parió un hijo. 
-
 
 ^9^ Y dijo Dios: Ponle por nombre Lo-ammi: porque vosotros no sois mi pueblo, ni yo seré vuestro Dios. 
 
@@ -36,10 +32,8 @@
 ^1^ Decid á vuestros hermanos, Ammi, y á vuestras hermanas, Ruhama: 
 
 
-
 ## La falta de fe de la madre, es decir, del pueblo de Israel, y su castigo
 ^2^ Pleitead con vuestra madre, pleitead; porque ella no es mi mujer, ni yo su marido; quite pues sus fornicaciones de su rostro, y sus adulterios de entre sus pechos; ^^ ^3^ No sea que yo la despoje desnuda, y la haga tornar como el día en que nació, y la ponga como un desierto, y la deje como tierra seca, y la mate de sed. ^^ ^4^ Ni tendré misericordia de sus hijos: porque son hijos de fornicaciones. ^^ ^5^ Porque su madre fornicó; la que los engendró fué avergonzada; porque dijo: Iré tras mis amantes, que me dan mi pan y mi agua, mi lana y mi lino, mi aceite y mi bebida. ^6^ Por tanto, he aquí yo cerco tu camino con espinas, y la cercaré con seto, y no hallará sus caminos. ^7^ Y seguirá sus amantes, y no los alcanzará; buscarálos, y no los hallará. Entonces dirá: Iré, y volveréme á mi primer marido; porque mejor me iba entonces que ahora. ^8^ Y ella no reconoció que yo le daba el trigo, y el vino, y el aceite, y que les multipliqué la plata y el oro con que hicieron á Baal. ^9^ Por tanto yo tornaré, y tomaré mi trigo á su tiempo, y mi vino á su sazón, y quitaré mi lana y mi lino que había dado para cubrir su desnudez. ^10^ Y ahora descubriré yo su locura delante de los ojos de sus amantes, y nadie la librará de mi mano. ^11^ Y haré cesar todo su gozo, sus fiestas, sus nuevas lunas y sus sábados, y todas sus festividades. ^12^ Y haré talar sus vides y sus higueras, de que ha dicho: Mi salario me son, que me han dado mis amantes. Y reducirélas á un matorral, y las comerán las bestias del campo. ^^ ^13^ Y visitaré sobre ella los tiempos de los Baales, á los cuales incensaba, y adornábase de sus zarcillos y de sus joyeles, é íbase tras sus amantes olvidada de mí, dice Jehová. 
-
 
 ^[**2:2** Is 11,11-13; Jer 3,18; Ezeq 37,22] ^[**2:3** Os 1,9; Os 1,6] ^[**2:4** Ezeq 16,-1; Ezeq 23,1-23] ^[**2:12** Jer 13,22; Jer 13,26]
 
@@ -56,7 +50,6 @@
 
 ^2^ Compréla entonces para mí por quince dineros de plata, y un homer y medio de cebada; ^3^ Y díjele: Tú estarás por mía muchos días: no fornicarás, ni tomarás otro varón; ni tampoco yo vendré á ti. 
 
-
 ^4^ Porque muchos días estarán los hijos de Israel sin rey, y sin príncipe, y sin sacrificio, y sin estatua, y sin ephod, y sin teraphim. ^^ ^5^ Después volverán los hijos de Israel, y buscarán á Jehová su Dios, y á David su rey; y temerán á Jehová y á su bondad en el fin de los días. ^^ 
 ^[**3:4** 2Cró 15,3] ^[**3:5** Jer 30,9; Jer 30,21-22; Ezeq 34,23-24] 
 
@@ -65,16 +58,13 @@
 ^1^ Oid palabra de Jehová, hijos de Israel, porque Jehová pleitea con los moradores de la tierra; porque no hay verdad, ni misericordia, ni conocimiento de Dios en la tierra. ^2^ Perjurar, y mentir, y matar, y hurtar y adulterar prevalecieron, y sangres se tocaron con sangres. ^3^ Por lo cual, se enlutará la tierra, y extenuaráse todo morador de ella, con las bestias del campo, y las aves del cielo: y aun los peces de la mar fallecerán. 
 
 
-
 ## Amenaza a los sacerdotes y profetas como líderes designados del pueblo
 ^4^ Ciertamente hombre no contienda ni reprenda á hombre, porque tu pueblo es como los que resisten al sacerdote. ^^ ^5^ Caerás por tanto en el día, y caerá también contigo el profeta de noche; y á tu madre talaré. ^6^ Mi pueblo fué talado, porque le faltó sabiduría. Porque tú desechaste la sabiduría, yo te echaré del sacerdocio: y pues que olvidaste la ley de tu Dios, también yo me olvidaré de tus hijos. ^7^ Conforme á su grandeza así pecaron contra mí: trocaré su honra en afrenta. ^8^ Comen del pecado de mi pueblo, y en su maldad levantan su alma. ^^ ^9^ Tal será el pueblo como el sacerdote: y visitaré sobre él sus caminos, y pagaréle conforme á sus obras. ^10^ Y comerán, mas no se hartarán; fornicarán, mas no se aumentarán: porque dejaron de atender á Jehová. 
-
 
 ^[**4:4** Deut 17,12] ^[**4:8** Lev 6,19]
 
 ## Queja sobre el culto pagano del pueblo
 ^11^ Fornicación, y vino, y mosto quitan el corazón. ^12^ Mi pueblo á su madero pregunta, y su palo le responde: porque espíritu de fornicaciones lo engañó, y fornicaron debajo de sus dioses. ^13^ Sobre las cabezas de los montes sacrificaron, é incensaron sobre los collados, debajo de encinas, y álamos, y olmos que tuviesen buena sombra: por tanto, vuestras hijas fornicarán, y adulterarán vuestras nueras. ^^ ^14^ No visitaré sobre vuestras hijas cuando fornicaren, ni sobre vuestras nueras cuando adulteraren: porque ellos ofrecen con las rameras, y con las malas mujeres sacrifican: por tanto, el pueblo sin entendimiento caerá. 
-
 
 ^[**4:13** Ezeq 6,13]
 
@@ -84,7 +74,6 @@
 # 5 
 ## Palabras de Oseas a los sacerdotes y a la familia real de Israel sobre su práctica de adoración falsa
 ^1^ Sacerdotes, oid esto, y estad atentos, casa de Israel; y casa del rey, escuchad: porque á vosotros es el juicio, pues habéis sido lazo en Mizpa, y red extendida sobre Tabor. ^2^ Y haciendo víctimas han bajado hasta el profundo: por tanto yo seré la corrección de todos ellos. ^3^ Yo conozco á Ephraim, é Israel no me es desconocido: porque ahora, oh Ephraim, has fornicado, y se ha contaminado Israel. ^^ ^4^ No pondrán sus pensamientos en volverse á su Dios, porque espíritu de fornicación está en medio de ellos, y no conocen á Jehová. ^^ ^5^ Y la soberbia de Israel le desmentirá en su cara: é Israel y Ephraim tropezarán en su pecado: tropezará también Judá con ellos. ^6^ Con sus ovejas y con sus vacas andarán buscando á Jehová, y no le hallarán; apartóse de ellos. ^^ ^7^ Contra Jehová prevaricaron, porque hijos extraños han engendrado: ahora los devorará un mes con sus heredades. 
-
 
 ^[**5:3** Os 1,2] ^[**5:4** Os 4,12] ^[**5:6** Is 1,11-15]
 
@@ -113,7 +102,6 @@
 ^1^ Estando yo curando á Israel, descubrióse la iniquidad de Ephraim, y las maldades de Samaria; porque obraron engaño: y viene el ladrón, y el salteador despoja de fuera. ^2^ Y no dicen en su corazón que tengo en la memoria toda su maldad: ahora los rodearán sus obras; delante de mí están. ^3^ Con su maldad alegran al rey, y á los príncipes con sus mentiras. ^4^ Todos ellos adúlteros; son como horno encendido por el hornero, el cual cesará de avivar después que esté hecha la masa, hasta que esté leuda. ^5^ El día de nuestro rey los príncipes lo hicieron enfermar con vasos de vino: extendió su mano con los escarnecedores. ^6^ Porque aplicaron su corazón, semejante á un horno, á sus artificios: toda la noche duerme su hornero; á la mañana está encendido como llama de fuego. ^7^ Todos ellos arden como un horno, y devoraron á sus jueces: cayeron todos sus reyes: no hay entre ellos quien á mí clame. 
 
 
-
 ## La reprensible relación entre Efraín y las principales potencias extranjeras
 ^8^ Ephraim se envolvió con los pueblos; Ephraim fué torta no vuelta. ^9^ Comieron extraños su sustancia, y él no lo supo; y aun vejez se ha esparcido por él, y él no lo entendió. ^10^ Y la soberbia de Israel testificará contra él en su cara: y no se tornaron á Jehová su Dios, ni lo buscaron con todo esto. ^11^ Y fué Ephraim como paloma incauta, sin entendimiento: llamarán á Egipto, acudirán al Asirio. ^^ ^12^ Cuando fueren, extenderé sobre ellos mi red, hacerlos he caer como aves del cielo; castigarélos conforme á lo que se ha oído en sus congregaciones. ^13^ ¡Ay de ellos! porque se apartaron de mí: destrucción sobre ellos, porque contra mí se rebelaron; yo los redimí, y ellos hablaron contra mí mentiras. ^14^ Y no clamaron á mí con su corazón cuando aullaron sobre sus camas, para el trigo y el mosto se congregaron, rebeláronse contra mí. ^15^ Y yo los ceñí, esforcé sus brazos, y contra mí pensaron mal. ^16^ Tornáronse, mas no al Altísimo: fueron como arco engañoso: cayeron sus príncipes á cuchillo por la soberbia de su lengua: éste será su escarnio en la tierra de Egipto. ^^ 
 ^[**7:11** Os 5,13; Os 12,2] ^[**7:16** Sal 78,57] 
@@ -126,7 +114,6 @@
 # 9 
 ## Anuncio del juicio del exilio en un festival de otoño
 ^1^ No te alegres, oh Israel, hasta saltar de gozo como los pueblos, pues has fornicado apartándote de tu Dios: amaste salario por todas las eras de trigo. ^^ ^2^ La era y el lagar no los mantendrán; les fallará el mosto. ^3^ No quedarán en la tierra de Jehová, sino que volverá Ephraim á Egipto, y á Asiria, donde comerán vianda inmunda. ^4^ No derramarán vino á Jehová, ni él tomará contento en sus sacrificios; como pan de enlutados les serán á ellos: todos los que comieren de él, serán inmundos. Será pues el pan de ellos para sí mismos; no entrará en la casa de Jehová. ^5^ ¿Qué haréis el día de la solemnidad, y el día de la fiesta de Jehová? ^6^ Porque, he aquí se fueron ellos á causa de la destrucción: Egipto los recogerá, Memphis los enterrará: espino poseerá por heredad lo deseable de su plata, ortiga crecerá en sus moradas. ^^ ^7^ Vinieron los días de la visitación, vinieron los días de la paga; conocerálo Israel: necio el profeta, insensato el varón de espíritu, á causa de la multitud de tu maldad, y grande odio. 
-
 
 ^[**9:1** Os 1,2] ^[**9:6** Os 10,8]
 
@@ -174,7 +161,6 @@
 ## Amenaza de devastadora ira divina
 ^5^ Yo te conocí en el desierto, en tierra seca. ^^ ^6^ En sus pastos se hartaron, hartáronse, y ensoberbecióse su corazón: por esta causa se olvidaron de mí. ^^ ^7^ Por tanto, yo seré para ellos como león; como un leopardo en el camino los espiaré. ^^ ^8^ Como oso que ha perdido los hijos los encontraré, y romperé las telas de su corazón, y allí los devoraré como león: bestia del campo los despedazará. ^9^ Te perdiste, oh Israel, mas en mí está tu ayuda. ^10^ ¿Dónde está tu rey, para que te guarde con todas tus ciudades? ¿y tus jueces, de los cuales dijiste: Dame rey y príncipes? ^^ ^11^ Díte rey en mi furor, y quitélo en mi ira. 
 
-
 ^[**13:5** Os 9,10] ^[**13:6** Deut 32,15] ^[**13:7** Os 5,14] ^[**13:10** 1Sam 8,5]
 
 ## Anuncio de la terrible caída del pueblo pecador
@@ -185,7 +171,6 @@
 # 14 
 ## Recordatorio de arrepentimiento y oración penitencial del pueblo
 ^1^ Conviértete, oh Israel, á Jehová tu Dios: porque por tu pecado has caído. ^2^ Tomad con vosotros palabras, y convertíos á Jehová, y decidle: Quita toda iniquidad, y acepta el bien, y daremos becerros de nuestros labios. ^^ ^3^ No nos librará Assur; no subiremos sobre caballos, ni nunca más diremos á la obra de nuestras manos: Dioses nuestros: porque en ti el huérfano alcanzará misericordia. ^^ ^4^ Yo medicinaré su rebelión, amarélos de voluntad: porque mi furor se apartó de ellos. 
-
 
 ^[**14:2** Os 12,7; Zac 1,4] ^[**14:3** Heb 13,15]
 

@@ -8,7 +8,6 @@
 ## La salvación que se nos da da gozo jubiloso, incluso si la fe tiene que demostrar su valía en la tribulación
 ^3^ Bendito el Dios y Padre de nuestro Señor Jesucristo, que según su grande misericordia nos ha regenerado en esperanza viva, por la resurrección de Jesucristo de los muertos, ^^ ^4^ Para una herencia incorruptible, y que no puede contaminarse, ni marchitarse, reservada en los cielos ^^ ^5^ Para nosotros que somos guardados en la virtud de Dios por fe, para alcanzar la salud que está aparejada para ser manifestada en el postrimero tiempo. ^^ ^6^ En lo cual vosotros os alegráis, estando al presente un poco de tiempo afligidos en diversas tentaciones, si es necesario, ^^ ^7^ Para que la prueba de vuestra fe, mucho más preciosa que el oro, el cual perece, bien que sea probado con fuego, sea hallada en alabanza, gloria y honra, cuando Jesucristo fuere manifestado: ^^ ^8^ Al cual, no habiendo visto, le amáis; en el cual creyendo, aunque al presente no lo veáis, os alegráis con gozo inefable y glorificado; ^^ ^9^ Obteniendo el fin de vuestra fe, que es la salud de vuestras almas. 
 
-
 ^[**1:3** Col 1,5] ^[**1:4** Col 1,12] ^[**1:5** Juan 10,28] ^[**1:6** 1Pe 5,10; 2Cor 4,17] ^[**1:7** Prov 17,3; Mal 3,3] ^[**1:8** Juan 20,29; 2Cor 5,7]
 
 ## La salvación prometida hace muchas veces por los profetas ahora finalmente se ha realizado
@@ -23,7 +22,6 @@
 ^[**1:13** Luc 12,35-36] ^[**1:14** Rom 12,2]
 
 ^17^ Y si invocáis por Padre á aquel que sin acepción de personas juzga según la obra de cada uno, conversad en temor todo el tiempo de vuestra peregrinación: ^^ ^18^ Sabiendo que habéis sido rescatados de vuestra vana conversación, la cual recibisteis de vuestros padres, no con cosas corruptibles, como oro ó plata; ^^ ^19^ Sino con la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación: ^^ ^20^ Ya ordenado de antes de la fundación del mundo, pero manifestado en los postrimeros tiempos por amor de vosotros, ^^ ^21^ Que por él creéis á Dios, el cual le resucitó de los muertos, y le ha dado gloria, para que vuestra fe y esperanza sea en Dios. 
-
 
 ^[**1:17** Rom 2,11; Fil 2,12] ^[**1:18** 1Cor 6,20; 1Cor 7,23; 1Pe 4,3] ^[**1:19** Juan 1,29; Is 53,7; Heb 9,14] ^[**1:20** Rom 16,25-26]
 
@@ -40,9 +38,7 @@
 
 ^7^ Ella es pues honor á vosotros que creéis: mas para los desobedientes, la piedra que los edificadores reprobaron, ésta fué hecha la cabeza del ángulo; 
 
-
 ^8^ Y Piedra de tropiezo, y roca de escándalo á aquellos que tropiezan en la palabra, siendo desobedientes; para lo cual fueron también ordenados. 
-
 
 ^9^ Mas vosotros sois linaje escogido, real sacerdocio, gente santa, pueblo adquirido, para que anunciéis las virtudes de aquel que os ha llamado de las tinieblas á su luz admirable: ^^ ^10^ Vosotros, que en el tiempo pasado no erais pueblo, mas ahora sois pueblo de Dios; que en el tiempo pasado no habíais alcanzado misericordia, mas ahora habéis alcanzado misericordia. 
 
@@ -83,12 +79,10 @@
 ## Advertencias generales para los miembros de la iglesia
 ^8^ Y finalmente, sed todos de un mismo corazón, compasivos, amándoos fraternalmente, misericordiosos, amigables; ^9^ No volviendo mal por mal, ni maldición por maldición, sino antes por el contrario, bendiciendo; sabiendo que vosotros sois llamados para que poseáis bendición en herencia. ^^ ^10^ Porque el que quiere amar la vida, y ver días buenos, refrene su lengua de mal, y sus labios no hablen engaño; ^^ ^11^ Apártase del mal, y haga bien; busque la paz, y sígala. ^12^ Porque los ojos del Señor están sobre los justos, y sus oídos atentos á sus oraciones: pero el rostro del Señor está sobre aquellos que hacen mal. 
 
-
 ^[**3:9** 1Tes 5,15] ^[**3:10** Sant 1,26]
 
 ## En el sufrimiento eres testigo de los que te rodean
 ^13^ ¿Y quién es aquel que os podrá dañar, si vosotros seguís el bien? ^14^ Mas también si alguna cosa padecéis por hacer bien, sois bienaventurados. Por tanto, no temáis por el temor de ellos, ni seáis turbados; ^^ ^15^ Sino santificad al Señor Dios en vuestros corazones, y estad siempre aparejados para responder con mansedumbre y reverencia á cada uno que os demande razón de la esperanza que hay en vosotros: ^16^ Teniendo buena conciencia, para que en lo que murmuran de vosotros como de malhechores, sean confundidos los que blasfeman vuestra buena conversación en Cristo. ^17^ Porque mejor es que padezcáis haciendo bien, si la voluntad de Dios así lo quiere, que haciendo mal. 
-
 
 ^[**3:14** 1Pe 2,20; Mat 5,10]
 
@@ -126,7 +120,6 @@
 
 ## Esté atento a las tentaciones del diablo
 ^8^ Sed templados, y velad; porque vuestro adversario el diablo, cual león rugiente, anda alrededor buscando á quien devore: ^^ ^9^ Al cual resistid firmes en la fe, sabiendo que las mismas aflicciones han de ser cumplidas en la compañía de vuestros hermanos que están en el mundo. ^10^ Mas el Dios de toda gracia, que nos ha llamado á su gloria eterna por Jesucristo, después que hubiereis un poco de tiempo padecido, él mismo os perfeccione, confirme, corrobore y establezca. ^^ ^11^ A él sea gloria é imperio para siempre. Amén. 
-
 
 ^[**5:8** 2Cor 2,11; 1Tes 5,6; Luc 22,31] ^[**5:10** 1Pe 1,6]
 

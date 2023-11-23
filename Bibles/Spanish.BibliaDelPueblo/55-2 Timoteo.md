@@ -4,13 +4,11 @@
 ^2^ A Timoteo, amado hijo: Gracia, misericordia, y paz de Dios el Padre y de Jesucristo nuestro Señor.
 
 ## Acción de gracias del apóstol por la firmeza de la fe de Timoteo
- 
 ^3^ Doy gracias á Dios, al cual sirvo desde mis mayores con limpia conciencia, de que sin cesar tengo memoria de ti en mis oraciones noche y día; 
 ^4^ Deseando verte, acordándome de tus lágrimas, para ser lleno de gozo; 
 ^5^ Trayendo á la memoria la fe no fingida que hay en ti, la cual residió primero en tu abuela Loida, y en tu madre Eunice; y estoy cierto que en ti también.
 
 ## El regalo de Dios mantiene a Timoteo y Pablo conectados
- 
 ^6^ Por lo cual te aconsejo que despiertes el don de Dios, que está en ti por la imposición de mis manos. 
 ^7^ Porque no nos ha dado Dios el espíritu de temor, sino el de fortaleza, y de amor, y de templanza. 
 ^8^ Por tanto no te avergüences del testimonio de nuestro Señor, ni de mí, preso suyo; antes sé participante de los trabajos del evangelio según la virtud de Dios, 
@@ -19,14 +17,11 @@
 ^11^ Del cual yo soy puesto predicador, y apóstol, y maestro de los Gentiles.
 
 ## Referencia al ejemplo del apóstol, la infidelidad de algunos hermanos y el comportamiento glorioso de Onesíforo
- 
 ^12^ Por lo cual asimismo padezco esto: mas no me avergüenzo; porque yo sé á quien he creído, y estoy cierto que es poderoso para guardar mi depósito para aquel día.
 
- 
 ^13^ Retén la forma de las sanas palabras que de mí oíste, en la fe y amor que es en Cristo Jesús. 
 ^14^ Guarda el buen depósito por el Espíritu Santo que habita en nosotros.
 
- 
 ^15^ Ya sabes esto, que me han sido contrarios todos los que son en Asia, de los cuales son Figello y Hermógenes. 
 ^16^ Dé el Señor misericordia á la casa de Onesíforo; que muchas veces me refrigeró, y no se avergonzó de mi cadena: 
 ^17^ Antes, estando él en Roma, me buscó solícitamente, y me halló. 
@@ -43,7 +38,6 @@
 ^7^ Considera lo que digo; y el Señor te dé entendimiento en todo.
 
 ## Fuerza y ​​consuelo del guerrero de Cristo en la batalla del sufrimiento
- 
 ^8^ Acuérdate que Jesucristo, el cual fué de la simiente de David, resucitó de los muertos conforme á mi evangelio; 
 ^9^ En el que sufro trabajo, hasta las prisiones á modo de malhechor; mas la palabra de Dios no está presa. 
 ^10^ Por tanto, todo lo sufro por amor de los escogidos, para que ellos también consigan la salud que es en Cristo Jesús con gloria eterna. 
@@ -52,24 +46,19 @@
 ^13^ Si fuéremos infieles, él permanece fiel: no se puede negar á sí mismo.
 
 ## Advertencia de verborrea inútil, de cháchara vacía y de falsedades de falsos maestros
- 
 ^14^ Recuérdales esto, protestando delante del Señor que no contiendan en palabras, lo cual para nada aprovecha, antes trastorna á los oyentes.
 
- 
 ^15^ Procura con diligencia presentarte á Dios aprobado, como obrero que no tiene de qué avergonzarse, que traza bien la palabra de verdad. 
 ^16^ Mas evita profanas y vanas parlerías; porque muy adelante irán en la impiedad. 
 ^17^ Y la palabra de ellos carcomerá como gangrena: de los cuales es Himeneo y Fileto; 
 ^18^ Que se han descaminado de la verdad, diciendo que la resurrección es ya hecha, y trastornan la fe de algunos.
 
 ## La desesperanza de los falsos maestros debido al sólido fundamento de la iglesia puesto por Dios
- 
 ^19^ Pero el fundamento de Dios está firme, teniendo este sello: Conoce el Señor á los que son suyos; y: Apártese de iniquidad todo aquel que invoca el nombre de Cristo.
 
- 
 ^20^ Mas en una casa grande, no solamente hay vasos de oro y de plata, sino también de madera y de barro: y asimismo unos para honra, y otros para deshonra. 
 ^21^ Así que, si alguno se limpiare de estas cosas, será vaso para honra, santificado, y útil para los usos del Señor, y aparejado para todo buena obra.
 
- 
 ^22^ Huye también los deseos juveniles; y sigue la justicia, la fe, la caridad, la paz, con los que invocan al Señor de puro corazón. 
 ^23^ Empero las cuestiones necias y sin sabiduría desecha, sabiendo que engendran contiendas. 
 ^24^ Que el siervo del Señor no debe ser litigioso, sino manso para con todos, apto para enseñar, sufrido; 
@@ -89,7 +78,6 @@
 ^9^ Mas no prevalecerán; porque su insensatez será manifiesta á todos, como también lo fué la de aquéllos.
 
 ## Referencia al ejemplo de Pablo y un recordatorio de perseverar y aferrarse a las enseñanzas tradicionales y las Sagradas Escrituras a pesar de todo el sufrimiento
- 
 ^10^ Pero tú has comprendido mi doctrina, instrucción, intento, fe, largura de ánimo, caridad, paciencia, 
 ^11^ Persecuciones, aflicciones, cuales me sobrevinieron en Antioquía, en Iconio, en Listra, cuales persecuciones he sufrido; y de todas me ha librado el Señor. 
 ^12^ Y también todos los que quieren vivir píamente en Cristo Jesús, padecerán persecución. 
@@ -108,13 +96,11 @@
 ^5^ Pero tú vela en todo, soporta las aflicciones, haz la obra de evangelista, cumple tu ministerio.
 
 ## Solemne referencia del apóstol al próximo final de su vida; su auto-testimonio y su esperanza
- 
 ^6^ Porque yo ya estoy para ser ofrecido, y el tiempo de mi partida está cercano. 
 ^7^ He peleado la buena batalla, he acabado la carrera, he guardado la fe. 
 ^8^ Por lo demás, me está guardada la corona de justicia, la cual me dará el Señor, juez justo, en aquel día; y no sólo á mí, sino también á todos los que aman su venida.
 
 ## Situación personal del apóstol, últimas órdenes, peticiones, mensajes, saludos y bendiciones
- 
 ^9^ Procura venir presto á mí: 
 ^10^ Porque Demas me ha desamparado, amando este siglo, y se ha ido á Tesalónica; Crescente á Galacia, Tito á Dalmacia. 
 ^11^ Lucas solo está conmigo. Toma á Marcos, y tráele contigo; porque me es útil para el ministerio. 
@@ -123,15 +109,12 @@
 ^14^ Alejandro el calderero me ha causado muchos males: el Señor le pague conforme á sus hechos. 
 ^15^ Guárdate tú también de él; que en grande manera ha resistido á nuestras palabras.
 
- 
 ^16^ En mi primera defensa ninguno me ayudó, antes me desampararon todos: no les sea imputado. 
 ^17^ Mas el Señor me ayudó, y me esforzó para que por mí fuese cumplida la predicación, y todos los Gentiles oyesen; y fuí librado de la boca del león. 
 ^18^ Y el Señor me librará de toda obra mala, y me preservará para su reino celestial: al cual sea gloria por los siglos de los siglos. Amén.
 
- 
 ^19^ Saluda á Prisca y á Aquila, y á la casa de Onesíforo. 
 ^20^ Erasto se quedó en Corinto; y á Trófimo dejé en Mileto enfermo. 
 ^21^ Procura venir antes del invierno. Eubulo te saluda, y Pudente, y Lino, y Claudia, y todos los hermanos.
 
- 
 ^22^ El Señor Jesucristo sea con tu espíritu. La gracia sea con vosotros. Amén. La segunda epístola á Timoteo, el cual fué el primer obispo ordenado en Efeso, fué escrita de Roma, cuando Pablo fué presentado la segunda vez á César Nerón. 

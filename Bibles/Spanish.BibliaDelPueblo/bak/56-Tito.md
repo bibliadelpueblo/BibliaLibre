@@ -8,7 +8,6 @@
 ## Regulaciones que rigen el nombramiento de ancianos como líderes de la iglesia
 ^5^ Por esta causa te dejé en Creta, para que corrigieses lo que falta, y pusieses ancianos por las villas, así como yo te mandé: ^^ ^6^ El que fuere sin crimen, marido de una mujer, que tenga hijos fieles que no estén acusados de disolución, ó contumaces. ^^ ^7^ Porque es menester que el obispo sea sin crimen, como dispensador de Dios; no soberbio, no iracundo, no amador del vino, no heridor, no codicioso de torpes ganancias; ^^ ^8^ Sino hospedador, amador de lo bueno, templado, justo, santo, continente; ^9^ Retenedor de la fiel palabra que es conforme á la doctrina: para que también pueda exhortar con sana doctrina, y convencer á los que contradijeren. 
 
-
 ^[**1:5** Hech 14,23] ^[**1:6** 1Tim 3,1-7] ^[**1:7** 1Cor 4,1; 2Tim 2,24]
 
 ## Reglas de conducta contra seductores maliciosos y falsos maestros hipócritas
@@ -23,9 +22,7 @@
 
 ^6^ Exhorta asimismo á los mancebos á que sean comedidos; ^7^ Mostrándote en todo por ejemplo de buenas obras; en doctrina haciendo ver integridad, gravedad, ^8^ Palabra sana, é irreprensible; que el adversario se avergüence, no teniendo mal ninguno que decir de vosotros. 
 
-
 ^9^ Exhorta á los siervos á que sean sujetos á sus señores, que agraden en todo, no respondones; ^^ ^10^ No defraudando, antes mostrando toda buena lealtad, para que adornen en todo la doctrina de nuestro Salvador Dios. 
-
 
 ^[**2:9** Efes 6,5-6; 1Tim 6,1-2; 1Pe 2,18]
 

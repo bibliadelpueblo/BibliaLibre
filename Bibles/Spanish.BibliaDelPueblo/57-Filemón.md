@@ -5,14 +5,12 @@
 ^3^ Gracia á vosotros y paz de Dios nuestro Padre, y del Señor Jesucristo.
 
 ## Gracias a Dios e intercesión por Filemón
- 
 ^4^ Doy gracias á mi Dios, haciendo siempre memoria de ti en mis oraciones. 
 ^5^ Oyendo tu caridad, y la fe que tienes en el Señor Jesús, y para con todos los santos; 
 ^6^ Para que la comunicación de tu fe sea eficaz, en el conocimiento de todo el bien que está en vosotros, por Cristo Jesús. 
 ^7^ Porque tenemos gran gozo y consolación de tu caridad, de que por ti, oh hermano, han sido recreadas las entrañas de los santos.
 
 ## Defensa de Onésimo
- 
 ^8^ Por lo cual, aunque tengo mucha resolución en Cristo para mandarte lo que conviene, 
 ^9^ Ruégote más bien por amor, siendo tal cual soy, Pablo viejo, y aun ahora prisionero de Jesucristo: 
 ^10^ Ruégote por mi hijo Onésimo, que he engendrado en mis prisiones, 
@@ -28,7 +26,6 @@
 ^20^ Sí, hermano, góceme yo de ti en el Señor; recrea mis entrañas en el Señor.
 
 ## Cierre de cartas, anuncio de visita, saludos y bendiciones
- 
 ^21^ Te he escrito confiando en tu obediencia, sabiendo que aun harás más de lo que digo. 
 ^22^ Y asimismo prepárame también alojamiento; porque espero que por vuestras oraciones os tengo de ser concedido. 
 ^23^ Te saludan Epafras, mi compañero en la prisión por Cristo Jesús, 
