@@ -149,7 +149,6 @@
 ^11^ A él sea gloria é imperio para siempre. Amén.
 
 ## Fin de la carta; Saludos y bendiciones
- 
 ^12^ Por Silvano, el hermano fiel, según yo pienso, os he escrito brevemente, amonestándoos, y testificando que ésta es la verdadera gracia de Dios, en la cual estáis. 
 ^13^ La iglesia que está en Babilonia, juntamente elegida con vosotros, os saluda, y Marcos mi hijo. 
 ^14^ Saludaos unos á otros con ósculo de caridad. Paz sea con todos vosotros los que estáis en Jesucristo. Amén. 

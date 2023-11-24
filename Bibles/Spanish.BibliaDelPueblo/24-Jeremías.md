@@ -2026,7 +2026,6 @@
 ^30^ El año veintitrés de Nabucodonosor, trasportó Nabuzaradán capitán de la guardia, setecientas cuarenta y cinco personas de los Judíos: todas las personas fueron cuatro mil seiscientas.
 
 ## Jojachín indultado tras treinta y siete años de prisión
- 
 ^31^ Y acaeció que en el año treinta y siete de la cautividad de Joachîn rey de Judá, en el mes duodécimo, á los veinticinco del mes, Evil-merodach, rey de Babilonia, en el año primero de su reinado, alzó la cabeza de Joachîn rey de Judá y sacólo de la casa de la cárcel; 
 ^32^ Y habló con él amigablemente, é hizo poner su silla sobre las sillas de los reyes que estaban con él en Babilonia. 
 ^33^ Hízole mudar también los vestidos de su prisión, y comía pan delante de él siempre todos los días de su vida. 

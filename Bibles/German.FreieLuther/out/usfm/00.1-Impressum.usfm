@@ -1,0 +1,35 @@
+
+
+---
+title:
+- type: main
+  text: Die Bibel
+- type: subtitle
+  text: Freie Luther Übersetzung
+creator:
+- role: author
+  text: Martin Luther
+rights: dominio publico
+cover-image: ../../../tex/HardCover.svg
+language: es
+publisher: Biblia del Pueblo
+keywords: Bibel, gratis, Luther
+ibooks:
+  version: 1.3.4
+---
+\p
+Freie Luther Übersetzung\
+\
+1. Ausgabe 2022\
+\
+Distribucion en Nicaragua\
+Biblia Del Pueblo\
+de la chewua pinol media al norte a las tres casa de la farmacia Espiritu Santo\
+43000 Granada\
+Nicaragua\
+biblia.del.pueblo@gmail.com\
+fb.me/biblia.del.pueblo\
+\
+Derechos dominio publico, el texto de la Biblia es fuente abierta con una licencia de Creative Commons Attribution-Share Alike 4:0 Unported License. El código fuente de Markdown y XeTeX se encuentra en github en\
+https:\
+Imprenta: Imprenta Jigatsa, Managua, Nicaragua\

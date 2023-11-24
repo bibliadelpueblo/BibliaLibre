@@ -1288,7 +1288,6 @@
 ^7^ Y los de Israel que eran de la otra parte del valle, y de la otra parte del Jordán, viendo que Israel había huído, y que Saúl y sus hijos eran muertos, dejaron las ciudades y huyeron; y los Filisteos vinieron y habitaron en ellas.
 
 ## El destino de los cadáveres de Saúl y sus hijos
- 
 ^8^ Y aconteció el siguiente día, que viniendo los Filisteos á despojar los muertos, hallaron á Saúl y á sus tres hijos tendidos en el monte de Gilboa; 
 ^9^ Y cortáronle la cabeza, y desnudáronle las armas; y enviaron á tierra de los Filisteos al contorno, para que lo noticiaran en el templo de sus ídolos, y por el pueblo. 
 ^10^ Y pusieron sus armas en el templo de Astaroth, y colgaron su cuerpo en el muro de Beth-san. 

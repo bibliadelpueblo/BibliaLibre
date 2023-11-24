@@ -1,4 +1,4 @@
-%!verse-paragraphs%
+//!verse-paragraphs
 # 1 
 ## Las dos formas de vida
 ^1^ Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado; ^^ ^2^ Antes en la ley de Jehová está su delicia, y en su ley medita de día y de noche. ^^ ^3^ Y será como el árbol plantado junto á arroyos de aguas, que da su fruto en su tiempo, y su hoja no cae; y todo lo que hace, prosperará. ^^ ^4^ No así los malos: sino como el tamo que arrebata el viento. 

@@ -126,6 +126,7 @@ namespace BibleMarkdown
 						src = Regex.Replace(src, @"\\bd(.*?)\\bd\*", "**$1**", RegexOptions.Singleline); // bold
 						src = Regex.Replace(src, @"\\it(.*?)\\it\*", "*$1*", RegexOptions.Singleline); //italics
 						src = Regex.Replace(src, @"\\sc(.*?)\\sc\*", "[$1]{.smallcaps}", RegexOptions.Singleline); // smallcaps
+						src = Regex.Replace(src, @"\\wj(.*?)\\wj\*", "[$1]{.wj}", RegexOptions.Singleline); // words of jesus
 
 						src = Regex.Replace(src, @"\\\+?\w+(\*|[ \t]*)?", "", RegexOptions.Singleline); // remove usfm tags
 						src = Regex.Replace(src, @" +", " "); // remove multiple spaces
@@ -150,11 +151,7 @@ namespace BibleMarkdown
 						}, RegexOptions.Singleline);
 						if (EachVerseOnNewLine)
 						{
-							src = Regex.Replace(src, @"\^[0-9]+\^", match =>
-							{
-								if (match.Value == "^1^") return match.Value;
-								else return $"{Environment.NewLine}{match.Value}";
-							});
+							src = Regex.Replace(src, @"(?<!^)(\^[0-9]+\^)", $"{Environment.NewLine}$1", RegexOptions.Multiline);
 						}
 
 						var md = Path.Combine(mdpath, $"{booknostr}-{book}.md");
@@ -219,7 +216,8 @@ namespace BibleMarkdown
 					{
 						bookname = book.Name;
 						index = book.Number;
-					} else
+					}
+					else
 					{
 						bookname = bookm.FirstOrDefault();
 					}
@@ -375,9 +373,10 @@ namespace BibleMarkdown
 
 			var frame = File.ReadAllText(filename);
 
-			frame = Regex.Replace(frame, "%(?!!).*?%", "", RegexOptions.Singleline); // remove comments
+			frame = Regex.Replace(frame, "/\\*(?!!).*?\\*/", "", RegexOptions.Singleline); // remove /* */ comments
+			frame = Regex.Replace(frame, "//(?!!).*?\\r?\\n", "", RegexOptions.Singleline); // remove // comments
 
-			var mapVerses = Regex.IsMatch(frame, @"%!map-verses\s*%", RegexOptions.Singleline);
+			var mapVerses = Regex.IsMatch(frame, @"(//|/\*)!map-verses\.*?($|\*/|\r?\n)", RegexOptions.Singleline);
 			MapVerses = mapVerses;
 
 			var books = Regex.Matches(frame, @"(^|\n)#\s+(?<book>.*?)[ \t]*\r?\n(?<bookbody>.*?)(?=\r?\n#\s|$)", RegexOptions.Singleline)
@@ -392,7 +391,7 @@ namespace BibleMarkdown
 				var bookItem = new BookItem(book.Book, $"{book.Book.Number:d2}-{book.Name}.md")
 				{
 					MapVerses = mapVerses,
-					VerseParagraphs = Regex.IsMatch(book.Body, @"%!verse-paragraphs\s*%", RegexOptions.Singleline)
+					VerseParagraphs = Regex.IsMatch(book.Body, @"(//|/\*)!verse-paragraphs.*?($|\r?\n|\*/)", RegexOptions.Singleline)
 				};
 				items.Add(bookItem);
 
@@ -745,7 +744,9 @@ namespace BibleMarkdown
 				{
 					Log("Importing Framework...");
 
+
 					Parallel.ForEach(mdfiles, srcfile =>
+					//foreach (var srcfile in mdfiles)
 					{
 
 						File.SetLastWriteTimeUtc(srcfile, DateTime.Now);
@@ -756,8 +757,12 @@ namespace BibleMarkdown
 						var bookItem = items
 							.OfType<BookItem>()
 							.FirstOrDefault(b => b.File == srcname);
-						if (bookItem == null) return;
-
+						if (bookItem == null)
+						{
+							Log($"Book for {Regex.Replace(srcname, @"(^[0-9]{2}(\.[0-9]+)?-)|(.md$)", "")} not found in framework.md");
+							return;
+							//continue; // use when loop with foreach for sequential loop for debugging
+						}
 						// remove current frame
 
 						// remove bibmark footnotes.
@@ -771,16 +776,16 @@ namespace BibleMarkdown
 								return $"{m.Groups["footnote"].Value}{m.Groups["text"].Value}";
 							}, RegexOptions.Singleline);
 						}
-						src = Regex.Replace(src, @"(\r?\n|^)\r?\n(?!\s*#)", " ", RegexOptions.Singleline); // remove blank line
-						src = Regex.Replace(src, @"(?<!(^|\n)#.*?)\r?\n(?!\s*#)", " ", RegexOptions.Singleline);
-						src = Regex.Replace(src, " +", " "); // remove multiple spaces.
+						src = Regex.Replace(src, @"(\r?\n|^)[ \t]*\r?\n(?![ \t]*#)", "", RegexOptions.Singleline); // remove blank line
+																												   //src = Regex.Replace(src, @"(?<!(^|\n)#.*?)\r?\n(?![ \t]*#)", " ", RegexOptions.Singleline);
+						src = Regex.Replace(src, "  +", " "); // remove multiple spaces.
 
 
 						src = Regex.Replace(src, @"(?<=^|\n)##+.*?\r?\n", "", RegexOptions.Singleline); // remove titles
-																																  // src = Regex.Replace(src, @"(\s*\^[a-zA-Z]+\^)|(([ \t]*\^[a-zA-Z]+\^\[[^\]]*\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
-						src = Regex.Replace(src, @"%!verse-paragraphs.*?%\r?\n?", "", RegexOptions.Singleline); // remove verse paragraphs
+																										// src = Regex.Replace(src, @"(\s*\^[a-zA-Z]+\^)|(([ \t]*\^[a-zA-Z]+\^\[[^\]]*\])+([ \t]*\r?\n)?)", "", RegexOptions.Singleline); // remove footnotes
+						src = Regex.Replace(src, @"//!verse-paragraphs.*?(\r?\n|$)", "", RegexOptions.Singleline); // remove verse paragraphs
 
-						if (bookItem.VerseParagraphs) src = $"%!verse-paragraphs%{Environment.NewLine}{src}";
+						if (bookItem.VerseParagraphs) src = $"//!verse-paragraphs{Environment.NewLine}{src}";
 
 						var frames = bookItem.Items.GetEnumerator();
 						var book = Books["default", bookname];
@@ -789,6 +794,7 @@ namespace BibleMarkdown
 						int verse = -1;
 
 						src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\s*\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?)(?<empty>.*?)(?=\s*\\?\s*\^1\^|\s*#|\s*$)", m =>
+						// empty is special text at the beginning of a psalm without verse number
 						{
 							var txt = m.Value;
 
@@ -800,7 +806,7 @@ namespace BibleMarkdown
 							{
 								int.TryParse(m.Groups["verse"].Value, out verse);
 							}
-							else if (m.Groups["empty"].Success)
+							else if (m.Groups["empty"].Success) //introduction line of a psalm
 							{
 								verse = 0;
 							}
@@ -810,7 +816,13 @@ namespace BibleMarkdown
 
 								if (frame is TitleItem)
 								{
-									if (Regex.IsMatch(txt, "^#")) txt = $"{txt}## {((TitleItem)frame).Title}{Environment.NewLine}";
+									if (Regex.IsMatch(txt, "^#"))
+									{
+
+
+										txt = $"{txt}## {((TitleItem)frame).Title}{Environment.NewLine}"; // insert title after a chapter title
+									}
+									// insert title after a verse
 									else txt = $"{txt}{Environment.NewLine}{Environment.NewLine}## {((TitleItem)frame).Title}{Environment.NewLine}";
 								}
 								else if (frame is FootnoteItem)
@@ -828,7 +840,14 @@ namespace BibleMarkdown
 							return txt;
 						}, RegexOptions.Singleline);
 
+						// remove whitespace before a verse on a new line
 						src = Regex.Replace(src, @"(?<=(^|\n))[ \t]+(\^[0-9]+\^)", "$2", RegexOptions.Singleline);
+
+						// hack because of bad output
+						// remove empty line after ## title
+						src = Regex.Replace(src, @"(?<=(^|\n)##[^\r\n]*?\r?\n)[ \t]*\r?\n", "", RegexOptions.Singleline);
+						// remove multiple emtpy lines
+						src = Regex.Replace(src, @"(?<=(^|\n))([ \t]*\r?\n)+[ \t]*(?=\r?\n)", "", RegexOptions.Singleline);
 
 						// remove bibmark footnotes
 						/* replaced = true;

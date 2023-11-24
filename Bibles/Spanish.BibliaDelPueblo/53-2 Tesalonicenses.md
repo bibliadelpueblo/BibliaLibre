@@ -64,6 +64,5 @@
 ^16^ Y el mismo Señor de paz os dé siempre paz en toda manera. El Señor sea con todos vosotros.
 
 ## Saludo personal y bendición de Pablo
- 
 ^17^ Salud de mi mano, Pablo, que es mi signo en toda carta mía: así escribo. 
 ^18^ La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. La segunda Epístola á los Tesalonicenses fué escrita de Atenas. 

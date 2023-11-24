@@ -1243,6 +1243,5 @@
 ^21^ Para que se cumpliese la palabra de Jehová por la boca de Jeremías, hasta que la tierra hubo gozado sus sábados: porque todo el tiempo de su asolamiento reposó, hasta que los setenta años fueron cumplidos.
 
 ## El permiso para regresar a casa del rey persa Ciro
- 
 ^22^ Mas al primer año de Ciro rey de los Persas, para que se cumpliese la palabra de Jehová por boca de Jeremías, Jehová excitó el espíritu de Ciro rey de los Persas, el cual hizo pasar pregón por todo su reino, y también por escrito, diciendo: 
 ^23^ Así dice Ciro rey de los Persas: Jehová, el Dios de los cielos, me ha dado todos los reinos de la tierra; y él me ha encargado que le edifique casa en Jerusalem, que es en Judá. ¿Quién de vosotros hay de todo su pueblo? Jehová su Dios sea con él, y suba. 

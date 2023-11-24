@@ -47,7 +47,6 @@
 ^19^ ¿Aun no está la simiente en el granero? Ni la vid, ni la higuera, ni el granado, ni el árbol de la oliva ha todavía florecido: mas desde aqueste día daré bendición.
 
 ## La caída de los reinos paganos y la promesa de la exaltación de Zorobabel
- 
 ^20^ Y fué segunda vez palabra de Jehová á Haggeo, á los veinticuatro del mismo mes, diciendo: 
 ^21^ Habla á Zorobabel, gobernador de Judá, diciendo: Yo haré temblar los cielos y la tierra; 
 ^22^ Y trastornaré el trono de los reinos, y destruiré la fuerza del reino de las gentes; y trastornaré el carro, y los que en él suben; y vendrán abajo los caballos, y los que en ellos montan, cada cual por la espada de su hermano. 

@@ -1273,7 +1273,6 @@
 ^25^ Y Jehová engrandeció en extremo á Salomón á los ojos de todo Israel, y dióle gloria del reino, cual ningún rey la tuvo antes de él en Israel.
 
 ## El final de David y las fuentes de su historia
- 
 ^26^ Así reinó David hijo de Isaí sobre todo Israel. 
 ^27^ Y el tiempo que reinó sobre Israel fué cuarenta años. Siete años reinó en Hebrón, y treinta y tres reinó en Jerusalem. 
 ^28^ Y murió en buena vejez, lleno de días, de riquezas, y de gloria: y reinó en su lugar Salomón su hijo. 

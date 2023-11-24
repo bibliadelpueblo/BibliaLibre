@@ -561,6 +561,5 @@
 ^29^ Acuérdate de ellos, Dios mío, contra los que contaminan el sacerdocio, y el pacto del sacerdocio y de los Levitas.
 
 ## Fin del memorando
- 
 ^30^ Limpiélos pues de todo extranjero, y puse á los sacerdotes y Levitas por sus clases, á cada uno en su obra; 
 ^31^ Y para la ofrenda de la leña en los tiempos señalados, y para las primicias. Acuérdate de mí, Dios mío, para bien. 

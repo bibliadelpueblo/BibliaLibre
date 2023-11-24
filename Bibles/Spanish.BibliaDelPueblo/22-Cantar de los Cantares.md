@@ -167,7 +167,6 @@
 ^10^ Yo soy muro, y mis pechos como torres, desde que fuí en sus ojos como la que halla paz.
 
 ## Canción de los dos viñedos
- 
 ^11^ Salomón tuvo una viña en Baal-hamón, la cual entregó á guardas, cada uno de los cuales debía traer mil monedas de plata por su fruto. 
 ^12^ Mi viña, que es mía, está delante de mí: las mil serán tuyas, oh Salomón, y doscientas, de los que guardan su fruto. 
 ^13^ Oh tú la que moras en los huertos, los compañeros escuchan tu voz: házmela oir. 

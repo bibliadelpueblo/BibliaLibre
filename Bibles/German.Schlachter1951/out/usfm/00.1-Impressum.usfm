@@ -1,0 +1,33 @@
+
+
+---
+title:
+- type: main
+  text: Die Bibel
+- type: subtitle
+  text: Schlachter 1951 
+creator:
+- role: author
+  text: Franz Eugen Schlachter
+rights: dominio publico
+cover-image: ../../../tex/HardCover.png
+language: es
+publisher: Biblia del Pueblo
+keywords: Bibel, gratis, Schlachter
+ibooks:
+  version: 1.3.4
+---
+\p
+Schlachter 1951\
+Public Domain,\
+erstellt von Biblia del Pueblo\
+\
+1 Ausgabe 2022\ 
+\
+Vertrieb in der Schweiz\
+Biblia Del Pueblo\
+biblia.del.pueblo@gmail.com\
+fb.me/biblia.del.pueblo\ 
+\
+Public Domain, der Text der Bibel ist OpenSource mit einer Creative Commons Zero Lizenz. Der Markdown und LaTeX Quellcode befindet sich auf Github in\
+https:

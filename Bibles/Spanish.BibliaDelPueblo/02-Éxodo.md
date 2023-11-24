@@ -1723,7 +1723,6 @@
 ^33^ Finalmente erigió el atrio en derredor del tabernáculo y del altar, y puso la cortina de la puerta del atrio. Y así acabó Moisés la obra.
 
 ## La gloria del Señor se apodera de la morada
- 
 ^34^ Entonces una nube cubrió el tabernáculo del testimonio, y la gloria de Jehová hinchió el tabernáculo. 
 ^35^ Y no podía Moisés entrar en el tabernáculo del testimonio, porque la nube estaba sobre él, y la gloria de Jehová lo tenía lleno. 
 ^36^ Y cuando la nube se alzaba del tabernáculo, los hijos de Israel se movían en todas sus jornadas: 

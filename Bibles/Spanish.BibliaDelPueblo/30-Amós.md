@@ -235,7 +235,6 @@
 ^12^ Para que aquellos sobre los cuales es llamado mi nombre, posean el resto de Idumea, y á todas las naciones, dice Jehová que hace esto.
 
 ## La gloria de la dispensación futura
- 
 ^13^ He aquí vienen días, dice Jehová, en que el que ara alcanzará al segador, y el pisador de las uvas al que lleva la simiente; y los montes destilarán mosto, y todos los collados se derretirán. 
 ^14^ Y tornaré el cautiverio de mi pueblo Israel, y edificarán ellos las ciudades asoladas, y las habitarán; y plantarán viñas, y beberán el vino de ellas; y harán huertos, y comerán el fruto de ellos. 
 ^15^ Pues los plantaré sobre su tierra, y nunca más serán arrancados de su tierra que yo les dí, ha dicho Jehová Dios tuyo. 

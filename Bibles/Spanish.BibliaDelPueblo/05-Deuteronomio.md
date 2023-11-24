@@ -1311,7 +1311,6 @@
 ^9^ Y Josué hijo de Nun fué lleno de espíritu de sabiduría, porque Moisés había puesto sus manos sobre él: y los hijos de Israel le obedecieron, é hicieron como Jehová mandó á Moisés.
 
 ## Valoración de la grandeza e importancia de Moisés
- 
 ^10^ Y nunca más se levantó profeta en Israel como Moisés, á quien haya conocido Jehová cara á cara; 
 ^11^ En todas las señales y prodigios que le envió Jehová á hacer en tierra de Egipto á Faraón, y á todos sus siervos, y á toda su tierra; 
 ^12^ Y en toda aquella mano esforzada, y en todo el espanto grande que causó Moisés á ojos de todo Israel. 

@@ -1436,6 +1436,5 @@
 ^29^ Y habiendo dicho esto, los Judíos salieron, teniendo entre sí gran contienda.
 
 ## El ministerio de dos años de Pablo en cautiverio en Roma
- 
 ^30^ Pablo empero, quedó dos años enteros en su casa de alquiler, y recibía á todos los que á él venían, 
 ^31^ Predicando el reino de Dios y enseñando lo que es del Señor Jesucristo con toda libertad, sin impedimento. 

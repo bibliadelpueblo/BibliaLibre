@@ -16,6 +16,5 @@
 ^11^ Porque el que le dice bienvenido, comunica con sus malas obras.
 
 ## Cierre de carta; saludos
- 
 ^12^ Aunque tengo muchas cosas que escribiros, no he querido comunicarlas por medio de papel y tinta; mas espero ir á vosotros, y hablar boca á boca, para que nuestro gozo sea cumplido. 
 ^13^ Los hijos de tu hermana elegida te saludan. Amén. 

@@ -337,6 +337,5 @@
 ^19^ Esta será la pena del pecado de Egipto, y del pecado de todas las gentes que no subieren á celebrar la fiesta de las Cabañas.
 
 ## En Judá y Jerusalén, incluso los objetos de uso más comunes serán santificados
- 
 ^20^ En aquel tiempo estará sobre las campanillas de los caballos: SANTIDAD Á JEHOVÁ; y las ollas en la casa de Jehová serán como los tazones delante del altar. 
 ^21^ Y será toda olla en Jerusalem y en Judá santidad á Jehová de los ejércitos: y todos los que sacrificaren, vendrán y tomarán de ellas, y cocerán en ellas: y no habrá más Cananeo alguno en la casa de Jehová de los ejércitos en aquel tiempo. 

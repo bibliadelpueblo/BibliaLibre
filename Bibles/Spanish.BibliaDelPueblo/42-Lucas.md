@@ -1732,7 +1732,6 @@
 ^49^ Y he aquí, yo enviaré la promesa de mi Padre sobre vosotros: mas vosotros asentad en la ciudad de Jerusalem, hasta que seáis investidos de potencia de lo alto.
 
 ## Ascensión de jesús
- 
 ^50^ Y sacólos fuera hasta Bethania, y alzando sus manos, los bendijo. 
 ^51^ Y aconteció que bendiciéndolos, se fué de ellos; y era llevado arriba al cielo. 
 ^52^ Y ellos, después de haberle adorado, se volvieron á Jerusalem con gran gozo; 

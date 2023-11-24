@@ -65,6 +65,5 @@
 ^17^ Tus príncipes serán como langostas, y tus grandes como langostas de langostas que se sientan en vallados en día de frío: salido el sol se mudan, y no se conoce el lugar donde estuvieron.
 
 ## Un canto fúnebre en Nínive
- 
 ^18^ Durmieron tus pastores, oh rey de Asiria, reposaron tus valientes: tu pueblo se derramó por los montes, y no hay quien lo junte. 
 ^19^ No hay cura para tu quebradura; tu herida se encrudeció: todos los que oyeron tu fama, batirán las manos sobre ti, porque ¿sobre quién no pasó continuamente tu malicia? 

@@ -2,7 +2,7 @@
   "profiles": {
     "BibleMarkdown": {
       "commandName": "Project",
-      "commandLineArgs": "",
+      "commandLineArgs": "-s",
       "workingDirectory": "C:\\GitHub\\BibliaLibre\\Bibles\\Spanish.BibliaDelPueblo"
     },
     "WSL": {

@@ -269,7 +269,6 @@
 ^4^ Yo medicinaré su rebelión, amarélos de voluntad: porque mi furor se apartó de ellos.
 
 ## La promesa de Dios de salvación
- 
 ^5^ Yo seré á Israel como rocío; él florecerá como lirio, y extenderá sus raíces como el Líbano. 
 ^6^ Extenderse han sus ramos, y será su gloria como la de la oliva, y olerá como el Líbano. 
 ^7^ Volverán, y se sentarán bajo de su sombra: serán vivificados como trigo, y florecerán como la vid: su olor, como de vino del Líbano. 

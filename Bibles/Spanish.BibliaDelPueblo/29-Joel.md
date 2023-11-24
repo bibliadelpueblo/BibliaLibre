@@ -89,7 +89,6 @@
 ^17^ Y conoceréis que yo soy Jehová vuestro Dios, que habito en Sión, monte de mi santidad: y será Jerusalem santa, y extraños no pasarán más por ella.
 
 ## El tiempo de bendición para Judá
- 
 ^18^ Y será en aquel tiempo, que los montes destilarán mosto, y los collados fluirán leche, y por todos los arroyos de Judá correrán aguas: y saldrá una fuente de la casa de Jehová, y regará el valle de Sittim. 
 ^19^ Egipto será destruído, y Edom será vuelto en asolado desierto, por la injuria hecha á los hijos de Judá: porque derramaron en su tierra la sangre inocente. 
 ^20^ Mas Judá para siempre será habitada, y Jerusalem en generación y generación. 

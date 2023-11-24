@@ -178,7 +178,6 @@
 ^18^ Por el monte de Sión que está asolado; zorras andan en él.
 
 ## Pide nueva gracia
- 
 ^19^ Mas tú, Jehová, permanecerás para siempre: tu trono de generación en generación. 
 ^20^ ¿Por qué te olvidarás para siempre de nosotros, y nos dejarás por largos días? 
 ^21^ Vuélvenos, oh Jehová, á ti, y nos volveremos: renueva nuestros días como al principio. 

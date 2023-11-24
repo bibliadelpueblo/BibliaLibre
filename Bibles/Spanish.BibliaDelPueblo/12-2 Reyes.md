@@ -1135,7 +1135,6 @@
 ^26^ Y levantándose todo el pueblo, desde el menor hasta el mayor, con los capitanes del ejército, fuéronse á Egipto por temor de los Caldeos.
 
 ## Jojachín indultado tras treinta y siete años de prisión
- 
 ^27^ Y aconteció á los treinta y siete años de la trasportación de Joachîn rey de Judá, en el mes duodécimo, á los veinte y siete del mes, que Evil-merodach rey de Babilonia, en el primer año de su reinado, levantó la cabeza de Joachîn rey de Judá, sacándolo de la casa de la cárcel; 
 ^28^ Y hablóle bien, y puso su asiento sobre el asiento de los reyes que con él estaban en Babilonia. 
 ^29^ Y mudóle los vestidos de su prisión, y comió siempre delante de él todos los días de su vida. 

@@ -21,6 +21,5 @@
 ^12^ Todos dan testimonio de Demetrio, y aun la misma verdad: y también nosotros damos testimonio; y vosotros habéis conocido que nuestro testimonio es verdadero.
 
 ## Cierre de carta; saludos
- 
 ^13^ Yo tenía muchas cosas que escribirte; empero no quiero escribirte por tinta y pluma: 
 ^14^ Porque espero verte en breve, y hablaremos boca á boca. Paz sea contigo. Los amigos te saludan. Saluda tú á los amigos por nombre. 

@@ -1259,17 +1259,24 @@
 ^19^ ¿Tomarálo alguno por sus ojos en armadijos, y horadará su nariz? 
 
 # 41 
+## La respuesta final de Job: su reconocimiento de la grandeza de Dios y su arrepentida retractación
 ^1^ ¿Sacarás tú al leviathán con el anzuelo, ó con la cuerda que le echares en su lengua? 
 ^2^ ¿Pondrás tú garfio en sus narices, y horadarás con espinas su quijada? 
 ^3^ ¿Multiplicará él ruegos para contigo? ¿hablaráte él lisonjas? 
 ^4^ ¿Hará concierto contigo para que lo tomes por siervo perpetuo? 
 ^5^ ¿Jugarás tú con él como con pájaro, ó lo atarás para tus niñas? 
-^6^ ¿Harán de él banquete los compañeros? ¿partiránlo entre los mercaderes? 
+^6^ ¿Harán de él banquete los compañeros? ¿partiránlo entre los mercaderes?
+
+## La condenación de Dios a los tres amigos y su perdón después del sacrificio hecho por intercesión de Job
 ^7^ ¿Cortarás tú con cuchillo su cuero, ó con asta de pescadores su cabeza? 
-^8^ Pon tu mano sobre él; te acordarás de la batalla, y nunca más tornarás. 
-^9^ He aquí que la esperanza acerca de él será burlada: porque aun á su sola vista se desmayarán. 
+^8^ Pon tu mano sobre él; te acordarás de la batalla, y nunca más tornarás.
+
+^9^ He aquí que la esperanza acerca de él será burlada: porque aun á su sola vista se desmayarán.
+
+## Restauración y aumento del estado externo de felicidad de Job
 ^10^ Nadie hay tan osado que lo despierte: ¿quién pues podrá estar delante de mí? 
-^11^ ¿Quién me ha anticipado, para que yo restituya? Todo lo que hay debajo del cielo es mío. 
+^11^ ¿Quién me ha anticipado, para que yo restituya? Todo lo que hay debajo del cielo es mío.
+
 ^12^ Yo no callaré sus miembros, ni lo de sus fuerzas y la gracia de su disposición. 
 ^13^ ¿Quién descubrirá la delantera de su vestidura? ¿quién se llegará á él con freno doble? 
 ^14^ ¿Quién abrirá las puertas de su rostro? Los órdenes de sus dientes espantan. 
@@ -1295,24 +1302,17 @@
 ^34^ Menosprecia toda cosa alta: es rey sobre todos los soberbios. 
 
 # 42 
-## La respuesta final de Job: su reconocimiento de la grandeza de Dios y su arrepentida retractación
 ^1^ Y respondió Job á Jehová, y dijo: 
 ^2^ Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti. 
 ^3^ ¿Quién es el que oscurece el consejo sin ciencia? por tanto yo denunciaba lo que no entendía; cosas que me eran ocultas, y que no las sabía. 
 ^4^ Oye, te ruego, y hablaré: te preguntaré, y tú me enseñarás. 
 ^5^ De oídas te había oído; mas ahora mis ojos te ven. 
-^6^ Por tanto me aborrezco, y me arrepiento en el polvo y en la ceniza.
-
-## La condenación de Dios a los tres amigos y su perdón después del sacrificio hecho por intercesión de Job
+^6^ Por tanto me aborrezco, y me arrepiento en el polvo y en la ceniza. 
 ^7^ Y aconteció que después que habló Jehová estas palabras á Job, Jehová dijo á Eliphaz Temanita: Mi ira se encendió contra ti y tus dos compañeros: porque no habéis hablado por mí lo recto, como mi siervo Job. 
-^8^ Ahora pues, tomaos siete becerros y siete carneros, y andad á mi siervo Job, y ofreced holocausto por vosotros, y mi siervo Job orará por vosotros; porque de cierto á él atenderé para no trataros afrentosamente, por cuanto no habéis hablado por mí con rectitud, como mi siervo Job.
-
-^9^ Fueron pues Eliphaz Temanita, y Bildad Suhita, y Sophar Naamatita, é hicieron como Jehová les dijo: y Jehová atendió á Job.
-
-## Restauración y aumento del estado externo de felicidad de Job
+^8^ Ahora pues, tomaos siete becerros y siete carneros, y andad á mi siervo Job, y ofreced holocausto por vosotros, y mi siervo Job orará por vosotros; porque de cierto á él atenderé para no trataros afrentosamente, por cuanto no habéis hablado por mí con rectitud, como mi siervo Job. 
+^9^ Fueron pues Eliphaz Temanita, y Bildad Suhita, y Sophar Naamatita, é hicieron como Jehová les dijo: y Jehová atendió á Job. 
 ^10^ Y mudó Jehová la aflicción de Job, orando él por sus amigos: y aumentó al doble todas las cosas que habían sido de Job. 
-^11^ Y vinieron á él todos sus hermanos, y todas sus hermanas, y todos los que antes le habían conocido, y comieron con él pan en su casa, y condoliéronse de él, y consoláronle de todo aquel mal que sobre él había Jehová traído; y cada uno de ellos le dió una pieza de moneda, y un zarcillo de oro.
-
+^11^ Y vinieron á él todos sus hermanos, y todas sus hermanas, y todos los que antes le habían conocido, y comieron con él pan en su casa, y condoliéronse de él, y consoláronle de todo aquel mal que sobre él había Jehová traído; y cada uno de ellos le dió una pieza de moneda, y un zarcillo de oro. 
 ^12^ Y bendijo Jehová la postrimería de Job más que su principio; porque tuvo catorce mil ovejas, y seis mil camellos, y mil yuntas de bueyes, y mil asnas. 
 ^13^ Y tuvo siete hijos y tres hijas. 
 ^14^ Y llamó el nombre de la una, Jemimah, y el nombre de la segunda, Cesiah, y el nombre de la tercera, Keren-happuch. 
